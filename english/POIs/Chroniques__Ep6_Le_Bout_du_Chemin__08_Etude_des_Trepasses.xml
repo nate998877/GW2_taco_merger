@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+POIs: ReActif.9251
+Date: 2017/08/11
+-->
+<OverlayData>
+	<MarkerCategory name="chroniques.saison_3">
+		<MarkerCategory name="ep6_le_bout_du_chemin" DisplayName="Ep.6 - One Path Ends" iconFile="Img\LeBoutduChemin.png">
+			<MarkerCategory name="etude_des_trepasses" DisplayName="Risen Research"/>
+		</MarkerCategory>
+	</MarkerCategory>
+
+	<POIs>
+
+		<!-- 1 --><POI MapID="1203" xpos="179.508"  ypos="50.7957" zpos="-286.531" type="chroniques.saison_3.ep6_le_bout_du_chemin.etude_des_trepasses" GUID="JIhbCS53skW0MGapVG1ECQ=="/>
+		<!-- 2 --><POI MapID="1203" xpos="-35.9851" ypos="106.329" zpos="-353.58"  type="chroniques.saison_3.ep6_le_bout_du_chemin.etude_des_trepasses" GUID="/gSd7sqxaku+7AmLacnYlw=="/>
+		<!-- 3 --><POI MapID="1203" xpos="-273.116" ypos="111.717" zpos="-221.735" type="chroniques.saison_3.ep6_le_bout_du_chemin.etude_des_trepasses" GUID="qh+gn03J1UasYNkLVLSa3Q=="/>
+		<!-- 4 --><POI MapID="1203" xpos="-688.764" ypos="36.4758" zpos="-311.202" type="chroniques.saison_3.ep6_le_bout_du_chemin.etude_des_trepasses" GUID="BBdG5QOyFUWkiHV0IRwWDQ=="/>
+		<!-- 5 --><POI MapID="1203" xpos="-856.93"  ypos="73.0679" zpos="-135.653" type="chroniques.saison_3.ep6_le_bout_du_chemin.etude_des_trepasses" GUID="Vr4dDeUZLEKzm6ipAntJnw=="/>
+		<!-- 6 --><POI MapID="1203" xpos="-694.109" ypos="68.4813" zpos="-6.35011" type="chroniques.saison_3.ep6_le_bout_du_chemin.etude_des_trepasses" GUID="Jj+k8OBxeUaJviuPxKWI6A=="/>
+		<!-- 7 --><POI MapID="1203" xpos="-441.656" ypos="95.4347" zpos="157.193"  type="chroniques.saison_3.ep6_le_bout_du_chemin.etude_des_trepasses" GUID="8hnvMulXyEibvyaJ20zWag=="/>
+
+	</POIs>
+</OverlayData>

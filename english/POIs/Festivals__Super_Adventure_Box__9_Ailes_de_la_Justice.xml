@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+POIs: ReActif.9151
+Date: 2017/04/06
+-->
+<OverlayData>
+	<MarkerCategory name="festivals" DisplayName="Seasonal Events">
+		<MarkerCategory name="super_adventure_box" DisplayName="Super Adventure Box" iconSize="0.5" fadeNear="6000" fadeFar="7000">
+			<MarkerCategory name="ailes_de_la_justice" DisplayName="Wings of Justice" iconFile="Img\Guide.png" heightOffset="0"/>
+		</MarkerCategory>
+	</MarkerCategory>
+
+	<POIs>
+
+		<!-- Monde 2 - Zone 2 -->
+		<POI MapID="934" xpos="457.528" ypos="246.78" zpos="-203.47" type="festivals.super_adventure_box.ailes_de_la_justice" GUID="4zyyMzkgNUKuhsCAQDbANg==" iconFile="Img\Fleche.png" heightOffset="1"/>
+		<POI MapID="934" xpos="454.619" ypos="243.749" zpos="-193.07" type="festivals.super_adventure_box.ailes_de_la_justice" GUID="2pC1R5lJ7E24AS+xT0aaJw=="/>
+		<POI MapID="934" xpos="466.269" ypos="241.404" zpos="-187.809" type="festivals.super_adventure_box.ailes_de_la_justice" GUID="7HH3eBbw1ky67HGGh4bhWA==" iconFile="Img\Vite.png"/>
+		<POI MapID="934" xpos="476.809" ypos="238.941" zpos="-189.546" type="festivals.super_adventure_box.ailes_de_la_justice" GUID="qGOI9sJKVkCDdFWypkhNSw=="/>
+		<POI MapID="934" xpos="489.659" ypos="242.27" zpos="-201.981" type="festivals.super_adventure_box.ailes_de_la_justice" GUID="+xUujIISLkSmfqKGRLYsCA=="/>
+		<POI MapID="934" xpos="494.208" ypos="245.607" zpos="-198.605" type="festivals.super_adventure_box.ailes_de_la_justice" GUID="LQscx4eSUkuch4TpPfGf4A=="/>
+		<POI MapID="934" xpos="485.321" ypos="246.697" zpos="-197.563" type="festivals.super_adventure_box.ailes_de_la_justice" GUID="+8BsKr4Q8EGDCNZp2/Pciw=="/>
+		<POI MapID="934" xpos="482.264" ypos="249.229" zpos="-194.295" type="festivals.super_adventure_box.ailes_de_la_justice" GUID="X6/KKBflYkuJQlrLF/m9mQ=="/>
+		<POI MapID="934" xpos="484.029" ypos="251.139" zpos="-197.994" type="festivals.super_adventure_box.ailes_de_la_justice" GUID="jRaOE2kYdkCxM+VpleIMxA=="/>
+
+	</POIs>
+</OverlayData>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+POIs: Cloud Strife.7492 - Xenophy.2716 - ReActif.9251
+Date: 2017/08/23
+-->
+<OverlayData>
+	<MarkerCategory name="general" DisplayName="General">
+		<MarkerCategory name="puzzles_de_saut" DisplayName="Jumping Puzzles" iconFile="Img\Guide.png" iconSize="0.75">
+			<MarkerCategory name="zuhl_au_monde" DisplayName="Only Zuhl"/>
+		</MarkerCategory>
+	</MarkerCategory>
+
+	<POIs>
+
+		<!-- Début -->
+		<POI MapID="29" xpos="600.103" ypos="27.7613" zpos="581.796" type="general.puzzles_de_saut.debut" GUID="gAt+XkCq/0W/fQn01pGL7g=="/>
+
+		<!-- Route -->
+		<Route MapID="29" name="Zuhl_au_Monde" resetposx="600.103" resetposy="27.7613" resetposz="581.796" resetrange="2">
+			<POI MapID="29" xpos="597.784" ypos="28.1528" zpos="599.786" type="general.puzzles_de_saut.zuhl_au_monde" GUID="r9QI0gk7d0uPoJCrub06rg=="/>
+			<POI MapID="29" xpos="590.141" ypos="29.0714" zpos="612.972" type="general.puzzles_de_saut.zuhl_au_monde" GUID="ETvawzsTlEa4NGjHHcVi4g=="/>
+			<POI MapID="29" xpos="588.579" ypos="32.1997" zpos="625.357" type="general.puzzles_de_saut.zuhl_au_monde" GUID="eUO7SY8xkUGson000/jCDQ=="/>
+			<POI MapID="29" xpos="590.941" ypos="32.2009" zpos="635.778" type="general.puzzles_de_saut.zuhl_au_monde" GUID="MGilPqkkm02PisQ+lLA66g=="/>
+			<POI MapID="29" xpos="602.122" ypos="32.2158" zpos="642.576" type="general.puzzles_de_saut.zuhl_au_monde" GUID="WEUcFH+v1kGMkR6OdL7PHA=="/>
+			<POI MapID="29" xpos="609.225" ypos="32.9605" zpos="653.46" type="general.puzzles_de_saut.zuhl_au_monde" GUID="AmOMMZez2kOlbx6BaeZojw=="/>
+			<POI MapID="29" xpos="610.724" ypos="30.8689" zpos="666.038" type="general.puzzles_de_saut.zuhl_au_monde" GUID="xNyZYS+r/EOSh9aO8nRi+A=="/>
+			<POI MapID="29" xpos="609.68" ypos="31.4" zpos="680.26" type="general.puzzles_de_saut.zuhl_au_monde" GUID="3AYi7GbbMU6iwNw8Y9Hilw=="/>
+			<POI MapID="29" xpos="608.565" ypos="29.7459" zpos="693.555" type="general.puzzles_de_saut.zuhl_au_monde" GUID="DvkNYm30jkSvA9ne+CcB/g=="/>
+			<POI MapID="29" xpos="608.285" ypos="30.7712" zpos="705.78" type="general.puzzles_de_saut.zuhl_au_monde" GUID="d3/cfSiX+Ued749wORxbFA=="/>
+			<POI MapID="29" xpos="608.21" ypos="31.58" zpos="720.10" type="general.puzzles_de_saut.zuhl_au_monde" GUID="/6gL/XIUEEqXjcDtB0bxuA=="/>
+			<POI MapID="29" xpos="605.69" ypos="32.13" zpos="731.85" type="general.puzzles_de_saut.zuhl_au_monde" GUID="Br7QuUF2uUmHmG5Rrowk2w=="/>
+			<POI MapID="29" xpos="599.86" ypos="31.25" zpos="746.41" type="general.puzzles_de_saut.zuhl_au_monde" GUID="JpXzZhd/vEKqs6mMX7CoPQ=="/>
+			<POI MapID="29" xpos="593.981" ypos="31.7689" zpos="759.687" type="general.puzzles_de_saut.zuhl_au_monde" GUID="qGlj+jTDbEO3eOnX/W13kw=="/>
+			<POI MapID="29" xpos="587.74" ypos="30.42" zpos="769.62" type="general.puzzles_de_saut.zuhl_au_monde" GUID="PJOM5TUdaEaumMRctdE7Cw=="/>
+			<POI MapID="29" xpos="583.71" ypos="29.83" zpos="783.58" type="general.puzzles_de_saut.zuhl_au_monde" GUID="YpLUXLLhDEiQqQ6FKANg7Q=="/>
+			<POI MapID="29" xpos="595.133" ypos="31.5502" zpos="797.455" type="general.puzzles_de_saut.zuhl_au_monde" GUID="xUkCFAmMW0CA6pGyexMeqQ=="/>
+			<POI MapID="29" xpos="615.809" ypos="38.0789" zpos="807.555" type="general.puzzles_de_saut.zuhl_au_monde" GUID="AD6EfkYejka8LN9veev7Mw=="/>
+			<POI MapID="29" xpos="627.991" ypos="45.1891" zpos="811.065" type="general.puzzles_de_saut.zuhl_au_monde" GUID="Wc5XbG4/oEC4bGDm0H9meQ=="/>
+			<POI MapID="29" xpos="642.637" ypos="40.2875" zpos="815.45" type="general.puzzles_de_saut.zuhl_au_monde" GUID="o5b6m7N0E0KxtmuI5WbtYA=="/>
+			<POI MapID="29" xpos="653.636" ypos="36.6368" zpos="819.549" type="general.puzzles_de_saut.zuhl_au_monde" GUID="7OX9EEZWxk2EbtO9RIT67w==" triggerRange="5"/>
+			<POI MapID="29" xpos="662.17" ypos="29.77" zpos="830.41" type="general.puzzles_de_saut.zuhl_au_monde" GUID="7OAzo2TX9E+IX/sCS1lxMQ=="/>
+			<POI MapID="29" xpos="661.879" ypos="29.014" zpos="841.228" type="general.puzzles_de_saut.zuhl_au_monde" GUID="ZBj1BOqTlU+LlpB1FcB+Aw=="/>
+			<POI MapID="29" xpos="654.162" ypos="28.2239" zpos="851.153" type="general.puzzles_de_saut.zuhl_au_monde" GUID="GonQYvBmBUqcJUurKKQ8aA=="/>
+			<POI MapID="29" xpos="645.992" ypos="26.3589" zpos="866.612" type="general.puzzles_de_saut.zuhl_au_monde" GUID="8cTECqcNx0eFjzhEALtOIA=="/>
+			<POI MapID="29" xpos="631.606" ypos="22.9013" zpos="882.203" type="general.puzzles_de_saut.zuhl_au_monde" GUID="fvVifSLvh0O2GSsz2C5T0g=="/>
+			<POI MapID="29" xpos="609.519" ypos="22.9786" zpos="879.738" type="general.puzzles_de_saut.zuhl_au_monde" GUID="zVR4HzZceUimsLM0QmiX5w=="/>
+			<POI MapID="29" xpos="613.821" ypos="28.7813" zpos="888.602" type="general.puzzles_de_saut.zuhl_au_monde" GUID="3q0WPDP3rESI59sU1JeGfQ=="/>
+			<POI MapID="29" xpos="617.561" ypos="30.8212" zpos="889.368" type="general.puzzles_de_saut.zuhl_au_monde" GUID="lvEJoITa/0qLqX2ELxjlyQ=="/>
+			<POI MapID="29" xpos="624.641" ypos="35.0369" zpos="888.591" type="general.puzzles_de_saut.zuhl_au_monde" GUID="XNIyU9ZaNEKYD3cUVHqKTQ=="/>
+			<POI MapID="29" xpos="625.549" ypos="40.7849" zpos="894.776" type="general.puzzles_de_saut.zuhl_au_monde" GUID="cZBOKQvTQEKBDHFxjHA7fA=="/>
+			<POI MapID="29" xpos="625.37" ypos="43.7676" zpos="901.037" type="general.puzzles_de_saut.zuhl_au_monde" GUID="nwbyNXCLmUOQ0ck78GeGig=="/>
+			<POI MapID="29" xpos="623.328" ypos="46.2292" zpos="903.167" type="general.puzzles_de_saut.zuhl_au_monde" GUID="Qd5dck+l/0alW2HfKqwmYw=="/>
+			<POI MapID="29" xpos="617.61" ypos="48.6988" zpos="903.089" type="general.puzzles_de_saut.zuhl_au_monde" GUID="KNJUR3MzKUy03mE8KtY59A=="/>
+			<POI MapID="29" xpos="609.562" ypos="51.2217" zpos="905.959" type="general.puzzles_de_saut.zuhl_au_monde" GUID="dwW/TzI66Umex18urfbV4w=="/>
+			<POI MapID="29" xpos="602.908" ypos="54.7877" zpos="909.734" type="general.puzzles_de_saut.zuhl_au_monde" GUID="mhvf78+y2ESXk3Inz/mI2A=="/>
+			<POI MapID="29" xpos="590.506" ypos="61.6461" zpos="915.076" type="general.puzzles_de_saut.zuhl_au_monde" GUID="+nkM/5pDs0meBy6ivbCKvw=="/>
+			<POI MapID="29" xpos="581.302" ypos="64.8132" zpos="910.018" type="general.puzzles_de_saut.zuhl_au_monde" GUID="8Vl+rxXivkGCrPuUgHCjeA=="/>
+			<POI MapID="29" xpos="572.095" ypos="66.5509" zpos="899.775" type="general.puzzles_de_saut.zuhl_au_monde" GUID="okNhPsTcEkCmlqiZUCDQcA=="/>
+			<POI MapID="29" xpos="561.446" ypos="69.3482" zpos="888.799" type="general.puzzles_de_saut.zuhl_au_monde" GUID="hE/qESOmLU2Iv3Qdl5E20A=="/>
+			<POI MapID="29" xpos="554.05" ypos="67.9639" zpos="885.77" type="general.puzzles_de_saut.zuhl_au_monde" GUID="KQqgs0UxOE2vEzA2fFG5Vw=="/>
+			<POI MapID="29" xpos="547.098" ypos="67.3247" zpos="882.742" type="general.puzzles_de_saut.zuhl_au_monde" GUID="Cjqzdt/2RkqtTfLSdgmUjg=="/>
+			<POI MapID="29" xpos="547.48" ypos="59.4958" zpos="880.811" type="general.puzzles_de_saut.zuhl_au_monde" GUID="hNZREP3S0kqWwJ5gfu1h/Q=="/>
+			<POI MapID="29" xpos="548.996" ypos="54.3917" zpos="883.691" type="general.puzzles_de_saut.zuhl_au_monde" GUID="vj3PKH89bUmKhPHpaBZt3A=="/>
+			<POI MapID="29" xpos="552.579" ypos="50.3833" zpos="890.71" type="general.puzzles_de_saut.zuhl_au_monde" GUID="wT7Lx9BIeEiVqYDSMIsfUg=="/>
+			<POI MapID="29" xpos="558.23" ypos="51.2926" zpos="884.981" type="general.puzzles_de_saut.zuhl_au_monde" GUID="04cm8mBwkU2ruzDGojGDRg=="/>
+			<POI MapID="29" xpos="548.056" ypos="36.9476" zpos="877.93" type="general.puzzles_de_saut.zuhl_au_monde" GUID="wwjxvDJFcEG/IQgtHPVndQ=="/>
+			<POI MapID="29" xpos="555.1" ypos="20.76" zpos="886.39" type="general.puzzles_de_saut.zuhl_au_monde" GUID="/Cx7FWiKbkmAPS87Rzk/GA=="/>
+			<POI MapID="29" xpos="549.248" ypos="26.6313" zpos="892.663" type="general.puzzles_de_saut.zuhl_au_monde" GUID="spneZyJj4Uaf0thKHs+JHA=="/>
+			<POI MapID="29" xpos="548.211" ypos="26.9788" zpos="900.77" type="general.puzzles_de_saut.zuhl_au_monde" GUID="BMZMAmRhYE6D/cmO8P85BQ=="/>
+			<POI MapID="29" xpos="540.261" ypos="24.9522" zpos="905.157" type="general.puzzles_de_saut.zuhl_au_monde" GUID="CjDIoBJM6E63gmB7hOU8WA=="/>
+			<POI MapID="29" xpos="535.453" ypos="24.0356" zpos="907.107" type="general.puzzles_de_saut.zuhl_au_monde" GUID="CnZU038vD0uCgR24pv7+uQ=="/>
+			<POI MapID="29" xpos="537.977" ypos="7.43" zpos="917.24" type="general.puzzles_de_saut.zuhl_au_monde" GUID="lOSEMTWqrk+H0MSknwKwiw=="/>
+			<POI MapID="29" xpos="541.082" ypos="9.42417" zpos="927.542" type="general.puzzles_de_saut.zuhl_au_monde" GUID="gqkuJpUS8UiU0TaPAOagVQ=="/>
+			<POI MapID="29" xpos="544.49" ypos="11.9009" zpos="939.851" type="general.puzzles_de_saut.zuhl_au_monde" GUID="2EIQb3QYqki+7P63SQCFhQ=="/>
+			<POI MapID="29" xpos="548.071" ypos="14.5534" zpos="953.048" type="general.puzzles_de_saut.zuhl_au_monde" GUID="TnwNiD3sD0CrefcXwl0c5Q=="/>
+			<POI MapID="29" xpos="550.784" ypos="16.6391" zpos="963.442" type="general.puzzles_de_saut.zuhl_au_monde" GUID="i8ArCz57Y0O0AfKfuF37wQ=="/>
+			<POI MapID="29" xpos="554.406" ypos="19.3552" zpos="976.982" type="general.puzzles_de_saut.zuhl_au_monde" GUID="imcOgBssF0OPM0YO3HQi+Q=="/>
+			<POI MapID="29" xpos="555.958" ypos="20.3759" zpos="982.029" type="general.puzzles_de_saut.zuhl_au_monde" GUID="9LeQH0ia2UCUedcWUNhwrA=="/>
+			<POI MapID="29" xpos="563.249" ypos="12.2469" zpos="991.387" type="general.puzzles_de_saut.zuhl_au_monde" GUID="b74vy2hOH0ixMF2B1mg6SA=="/>
+			<POI MapID="29" xpos="571.56" ypos="10.84" zpos="997.23" type="general.puzzles_de_saut.zuhl_au_monde" GUID="gU3VPCW1bEODok/EvPH+YA=="/>
+			<POI MapID="29" xpos="578.386" ypos="14.5147" zpos="999.569" type="general.puzzles_de_saut.zuhl_au_monde" GUID="s1BW4RGDCEG/1mwrsuo8jQ=="/>
+			<POI MapID="29" xpos="592.958" ypos="22.7306" zpos="994.517" type="general.puzzles_de_saut.zuhl_au_monde" GUID="ri9UHaeKaE6aoC51KxCkUQ=="/>
+			<POI MapID="29" xpos="609.393" ypos="28.0717" zpos="984.483" type="general.puzzles_de_saut.zuhl_au_monde" GUID="74pl2gQ5+EihnTCOwNycnA=="/>
+			<POI MapID="29" xpos="622.29" ypos="34.3988" zpos="981.648" type="general.puzzles_de_saut.zuhl_au_monde" GUID="7yVTUrYWyUuP27hv+rsSuw=="/>
+			<POI MapID="29" xpos="633.193" ypos="30.6005" zpos="979.5" type="general.puzzles_de_saut.zuhl_au_monde" GUID="sXrjQs1B7UykCpf7DhodOA==" iconFile="Img\Combat.png" iconSize="1" color="ffe52020"/>
+			<POI MapID="29" xpos="645.805" ypos="22.9771" zpos="979.463" type="general.puzzles_de_saut.zuhl_au_monde" GUID="adOadL674EyWqkyzO/FF1w=="/>
+			<POI MapID="29" xpos="659.281" ypos="21.1925" zpos="981.11" type="general.puzzles_de_saut.zuhl_au_monde" GUID="4wMOVV4CpkOneocUlag20g=="/>
+			<POI MapID="29" xpos="663.563" ypos="22.7541" zpos="990.292" type="general.puzzles_de_saut.zuhl_au_monde" GUID="V/G1eESv3UWq3WkdtmglYA=="/>
+			<POI MapID="29" xpos="664.916" ypos="25.0148" zpos="997.648" type="general.puzzles_de_saut.zuhl_au_monde" GUID="6dzFxiiiv02npx/JJMx0DQ=="/>
+		</Route>
+
+		<!-- Coffre caché -->
+		<POI MapID="29" xpos="526.048" ypos="52.3433" zpos="898.632" type="general.puzzles_de_saut.zuhl_au_monde" GUID="RXaEhzbdmUy5dvyY3AdeEQ==" iconFile="Img\Coffre.png"/>
+
+		<!-- Coffre -->
+		<POI MapID="29" xpos="667.163" ypos="27.1571" zpos="1005.35" type="general.puzzles_de_saut.zuhl_au_monde" GUID="eBEkjXNBt0CQOFGOaeV0zQ==" iconFile="Img\CoffrePuzzle.png" iconSize="1" heightOffset="2.5" behavior="2"/>
+
+	</POIs>
+</OverlayData>

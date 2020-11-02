@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+POIs:  ReActif.9251 - TMKFrench.6427
+Date:  2017/07/28
+Notes: Les coffres des puzzles sauts et ceux accessibles que par le puzzle ne seront pas indiqué !
+       EV : Coffres après Event
+       FB : Coffres après Combat / Boss / World Boss
+       PJ : Coffres de fin des puzzles sauts.
+       PA : Coffres accessibles uniquement par un puzzle.
+       SE : Coffres de Succès : Explorateur
+-->
+<OverlayData>
+	<MarkerCategory name="coffres.permanents">
+		<MarkerCategory name="heart_of_thorns" DisplayName="Heart of Thorns">
+			<MarkerCategory name="bassin_aurique" DisplayName="Auric Basin"/>
+			<MarkerCategory name="profondeurs_verdoyantes" DisplayName="Tangled Depths"/>
+		</MarkerCategory>
+	</MarkerCategory>
+
+	<POIs>
+
+		<!--
+		Bassin Aurique
+		-->
+
+		<POI MapID="1043" xpos="-543.585" ypos="292.757" zpos="175.027" type="coffres.permanents.heart_of_thorns.bassin_aurique" GUID="zan8BuL7qUireuu8uB7hKw=="/>
+		<POI MapID="1043" xpos="-471.612" ypos="475.041" zpos="491.817" type="coffres.permanents.heart_of_thorns.bassin_aurique" GUID="oMvf/+pirU6ClCA4+hnw2Q=="/>
+		<POI MapID="1043" xpos="-442.56" ypos="294.259" zpos="-453.807" type="coffres.permanents.heart_of_thorns.bassin_aurique" GUID="p0gzIoTkA0SWkFtySOo4rg=="/>
+		<POI MapID="1043" xpos="-372.29" ypos="331.625" zpos="-360.317" type="coffres.permanents.heart_of_thorns.bassin_aurique" GUID="SmrZuIDWuk6ThfsOnayMrQ=="/>
+		<POI MapID="1043" xpos="-275.042" ypos="324.383" zpos="61.0509" type="coffres.permanents.heart_of_thorns.bassin_aurique" GUID="dAEeC8Fq70aDlxrK7EVQ0w=="/>
+		<POI MapID="1043" xpos="-173.977" ypos="324.566" zpos="292.94" type="coffres.permanents.heart_of_thorns.bassin_aurique" GUID="pVsFP38Y8kmKExIb1/2AwQ=="/>
+		<POI MapID="1043" xpos="-69.2537" ypos="355.949" zpos="455.652" type="coffres.permanents.heart_of_thorns.bassin_aurique" GUID="VV8wlY17RUWAvsfMJsZkqA=="/>
+		<POI MapID="1043" xpos="-45.1939" ypos="282.349" zpos="-733.515" type="coffres.permanents.heart_of_thorns.bassin_aurique" GUID="S9gdVdg3F0G3NbZxWlNRjQ=="/>
+		<POI MapID="1043" xpos="78.4299" ypos="271.268" zpos="-627.271" type="coffres.permanents.heart_of_thorns.bassin_aurique" GUID="zcGbaZcO2kufiqUHkCqixQ=="/>
+		<POI MapID="1043" xpos="171.91" ypos="247.136" zpos="-608.267" type="coffres.permanents.heart_of_thorns.bassin_aurique" GUID="niZm10Qr5kW9cviHLSnATw=="/>
+		<POI MapID="1043" xpos="346.487" ypos="291.414" zpos="-314.812" type="coffres.permanents.heart_of_thorns.bassin_aurique" GUID="VDnP2XNyaE6MJ0dVyOEHOQ=="/>
+		<POI MapID="1043" xpos="365.533" ypos="374.764" zpos="558.965" type="coffres.permanents.heart_of_thorns.bassin_aurique" GUID="Qd7Utd0GGUmJYLGSDPtL8w=="/>
+		<POI MapID="1043" xpos="384.774" ypos="287.951" zpos="-163.937" type="coffres.permanents.heart_of_thorns.bassin_aurique" GUID="5iZ7RRPN8UGwJKnC1Xl83g=="/>
+		<POI MapID="1043" xpos="449.058" ypos="314.235" zpos="5.77384" type="coffres.permanents.heart_of_thorns.bassin_aurique" GUID="Z1/PJBCewkafDyFLQ33rjA=="/>
+		<POI MapID="1043" xpos="505.895" ypos="363.541" zpos="682.314" type="coffres.permanents.heart_of_thorns.bassin_aurique" GUID="hrhovxfQtkeL/nxDS2j9Tg=="/>
+		<POI MapID="1043" xpos="583.097" ypos="300.877" zpos="88.025" type="coffres.permanents.heart_of_thorns.bassin_aurique" GUID="kfHS7ncuVkCQEnMT4961MQ=="/>
+
+
+		<!--
+		Profondeurs Verdoyantes
+		-->
+
+		<POI MapID="1045" xpos="-891.512" ypos="87.39" zpos="-26.5477" type="coffres.permanents.heart_of_thorns.profondeurs_verdoyantes" GUID="FphNSzxI3k6zc0btQWf71Q=="/>
+		<POI MapID="1045" xpos="-865.848" ypos="64.4845" zpos="-477.446" type="coffres.permanents.heart_of_thorns.profondeurs_verdoyantes" GUID="kTESs8iw+UquoEF52QbEmA=="/>
+		<POI MapID="1045" xpos="-834.712" ypos="252.722" zpos="-287.504" type="coffres.permanents.heart_of_thorns.profondeurs_verdoyantes" GUID="67a5FnHR5kq6uhSJtSGeXg=="/>
+		<POI MapID="1045" xpos="-656.964" ypos="184.129" zpos="-69.6488" type="coffres.permanents.heart_of_thorns.profondeurs_verdoyantes" GUID="fqHmKOlf1kiMLHs5uapCcQ=="/>
+		<POI MapID="1045" xpos="-502.94" ypos="281.614" zpos="-298.053" type="coffres.permanents.heart_of_thorns.profondeurs_verdoyantes" GUID="kczWtnNtfkm0GjyLLxG8xQ=="/>
+		<POI MapID="1045" xpos="-502.063" ypos="-137.913" zpos="-86.2593" type="coffres.permanents.heart_of_thorns.profondeurs_verdoyantes" GUID="5cJDASDCDUGqmBNHv9ibUA=="/>
+		<POI MapID="1045" xpos="-501.773" ypos="331.902" zpos="76.0528" type="coffres.permanents.heart_of_thorns.profondeurs_verdoyantes" GUID="kPDQyyRiSk+6dL8dygig1Q=="/>
+		<POI MapID="1045" xpos="-499.174" ypos="-4.42413" zpos="112.83" type="coffres.permanents.heart_of_thorns.profondeurs_verdoyantes" GUID="rp0w+Sk5YkCz/NxutGy1WQ=="/>
+		<POI MapID="1045" xpos="-431.422" ypos="329.643" zpos="-26.9142" type="coffres.permanents.heart_of_thorns.profondeurs_verdoyantes" GUID="Oiiz4a3BF0yAI9IaoX9x8g=="/>
+		<POI MapID="1045" xpos="-429.462" ypos="329.632" zpos="-22.4218" type="coffres.permanents.heart_of_thorns.profondeurs_verdoyantes" GUID="qqF0b2WbmUyPqtWCUaVckA=="/>
+		<POI MapID="1045" xpos="-402.725" ypos="168.79" zpos="304.414" type="coffres.permanents.heart_of_thorns.profondeurs_verdoyantes" GUID="l0KfeZsvx0+7uo4Tytzv7w=="/>
+		<POI MapID="1045" xpos="-331.09" ypos="223.723" zpos="-266.713" type="coffres.permanents.heart_of_thorns.profondeurs_verdoyantes" GUID="O01kIlTHP0qiac+ahkNR7A=="/>
+		<POI MapID="1045" xpos="-303.089" ypos="258.013" zpos="-107.191" type="coffres.permanents.heart_of_thorns.profondeurs_verdoyantes" GUID="Ml/RfI7OdEyjgl7YsWtnLA=="/>
+		<POI MapID="1045" xpos="-226.293" ypos="302.459" zpos="-381.261" type="coffres.permanents.heart_of_thorns.profondeurs_verdoyantes" GUID="6rLNW2VmFUaHPCvUDYmiOQ=="/>
+		<POI MapID="1045" xpos="-213.133" ypos="233.789" zpos="350.002" type="coffres.permanents.heart_of_thorns.profondeurs_verdoyantes" GUID="6BB2CLrQTEyTqUHL1cj+nQ=="/>
+		<POI MapID="1045" xpos="-90.8798" ypos="311.769" zpos="-325.838" type="coffres.permanents.heart_of_thorns.profondeurs_verdoyantes" GUID="PG1XFP7hkkmjd/lj2pgdQg=="/>
+		<POI MapID="1045" xpos="401.174" ypos="19.859" zpos="-135.781" type="coffres.permanents.heart_of_thorns.profondeurs_verdoyantes" GUID="vvTk3VunrUS7E0XqfZvOLQ=="/>
+		<POI MapID="1045" xpos="402.369" ypos="2.28943" zpos="563.344" type="coffres.permanents.heart_of_thorns.profondeurs_verdoyantes" GUID="aDyBZVgmg0S/VzPHdliDtw=="/>
+		<POI MapID="1045" xpos="601.228" ypos="242.521" zpos="-472.243" type="coffres.permanents.heart_of_thorns.profondeurs_verdoyantes" GUID="hsw+AquIvUuSCZi0nuSEqQ=="/>
+
+	</POIs>
+</OverlayData>

@@ -1,0 +1,37 @@
+<!-- 2020.06.09 -->
+<OverlayData>
+	<POIs>
+
+		<!-- DASHED ADVANTAGE -->
+		<POI MapID="990" xpos="-14.2563" ypos="48.071"  zpos="-509.449" type="story_journal.season_2.gates_of_maguuma.dashed_advantage" GUID="17uYSQLIyE+pd11IbIn0YQ==" iconFile="Img/Skills/AssistedLeap.png" minSize="8" maxSize="16" mapVisibility="0" miniMapVisibility="0" alpha="0.7" heightOffset="0"/>
+		<POI MapID="990" xpos="-12.4459" ypos="57.2967" zpos="-504.445" type="story_journal.season_2.gates_of_maguuma.dashed_advantage" GUID="CLPTnYnlck+6VgU5zmZykg==" iconFile="Img/Icons/Target.png"        minSize="8" maxSize="16" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="990" xpos="-11.6735" ypos="57.8283" zpos="-496.026" type="story_journal.season_2.gates_of_maguuma.dashed_advantage" GUID="Qz3UwZGpRkSTX7R9luwXoA==" iconFile="Img/Skills/AssistedLeap.png" minSize="8" maxSize="16" mapVisibility="0" miniMapVisibility="0" alpha="0.7" heightOffset="0"/>
+		<POI MapID="990" xpos="-15.2693" ypos="66.8712" zpos="-492.946" type="story_journal.season_2.gates_of_maguuma.dashed_advantage" GUID="MRbPlIMKh0Se6BPEeHNhow==" iconFile="Img/Icons/Target.png"        minSize="8" maxSize="16" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="990" xpos="-25.6586" ypos="75.5205" zpos="-464.483" type="story_journal.season_2.gates_of_maguuma.dashed_advantage" GUID="9qk97jC4GUqg+lC4+JXiEw==" iconFile="Img/Skills/SpeedOfLight.png" minSize="8" maxSize="16" mapVisibility="0" miniMapVisibility="0" alpha="0.7" heightOffset="0"/>
+		<POI MapID="990" xpos="-30.1954" ypos="74.7613" zpos="-455.607" type="story_journal.season_2.gates_of_maguuma.dashed_advantage" GUID="LMVHSZw7IU2hYlop+rYV/g==" iconFile="Img/Icons/Target.png"        minSize="8" maxSize="16" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="990" xpos="-61.4038" ypos="73.2912" zpos="-333.827" type="story_journal.season_2.gates_of_maguuma.dashed_advantage" GUID="gNI0D31uGEOgr+Cse+suBw==" iconFile="Img/Icons/Fight.png"                                  mapVisibility="0" miniMapVisibility="0"/>
+
+		<!-- NO ROCK UNTURNED -->
+		<POI MapID="992" xpos="333.783" ypos="76.4428" zpos="-431.304" type="story_journal.season_2.gates_of_maguuma.no_rock_unturned" GUID="rSTJ7Y4BO0u9krR0OLC7KA=="/>
+		<POI MapID="992" xpos="333.792" ypos="70.9982" zpos="-330.554" type="story_journal.season_2.gates_of_maguuma.no_rock_unturned" GUID="CbZY1ZEjnU+L7fiEZW/73g=="/>
+		<POI MapID="992" xpos="365.467" ypos="86.5835" zpos="-444.553" type="story_journal.season_2.gates_of_maguuma.no_rock_unturned" GUID="IgPK6aqVS0KpmNTM05xEnA=="/>
+		<POI MapID="992" xpos="403.402" ypos="51.9891" zpos="-321.526" type="story_journal.season_2.gates_of_maguuma.no_rock_unturned" GUID="NTwAIdqvvUGM+6vQnHh/fA=="/>
+
+		<!-- OPPORTUNE MOMENT -->
+		<Trail type="story_journal.season_2.gates_of_maguuma.opportune_moment" GUID="XDyjQc4Io0uu9skhT8j62w==" trailData="Data/StoryJournal/Season2/GatesOfMaguuma/OpportuneMoment.trl" texture="Data/Arrow.png" color="ffffdd00" alpha="0.7" fadeNear="1500" fadeFar="2000" animSpeed="1" mapDisplaySize="15"/>
+		<POI MapID="990" xpos="-58.5998" ypos="72.8568" zpos="-389.642" type="story_journal.season_2.gates_of_maguuma.opportune_moment" GUID="dFbyOIvOYUyjQNbb37gXhA==" iconFile="Img/Icons/Arrow.png"                                         heightOffset="3"/>
+		<POI MapID="990" xpos="-46.5477" ypos="72.8484" zpos="-400.657" type="story_journal.season_2.gates_of_maguuma.opportune_moment" GUID="V7JLC5Qg7ECIlbvuuT64EQ==" iconFile="Img/Skills/LightningPull.png" fadeNear="2000" fadeFar="2500" heightOffset="0" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="990" xpos="-47.8242" ypos="72.2894" zpos="-428.539" type="story_journal.season_2.gates_of_maguuma.opportune_moment" GUID="LvnkaprKIUGj96SN/n4xBg==" iconFile="Img/Icons/Target.png"         fadeNear="2000" fadeFar="2500" heightOffset="0" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="990" xpos="-63.7044" ypos="71.3699" zpos="-456.823" type="story_journal.season_2.gates_of_maguuma.opportune_moment" GUID="LL/s7wr0mEWQ4QFlgitKQA=="/>
+
+		<!-- ZEPHYR'S ASCENT -->
+		<Trail type="story_journal.season_2.gates_of_maguuma.zephyr_s_ascent" GUID="fVO+pOMba0miY03AEphpIg==" trailData="Data/StoryJournal/Season2/GatesOfMaguuma/ZephyrsAscent.trl" texture="Data/Arrow.png" color="ffffdd00" alpha="0.7" fadeNear="1500" fadeFar="2000" animSpeed="1" mapDisplaySize="15"/>
+		<POI MapID="992" xpos="340.793" ypos="83.8665" zpos="-389.869" type="story_journal.season_2.gates_of_maguuma.zephyr_s_ascent" GUID="3642SKXLrUW98lphTKmLoA==" iconFile="Img/Icons/Arrow.png" heightOffset="0.5"/>
+		<POI MapID="992" xpos="311.247" ypos="135.825" zpos="-410.481" type="story_journal.season_2.gates_of_maguuma.zephyr_s_ascent" GUID="vPy5KFTgAEGmAtYd7R4LGw=="/>
+
+		<!-- ZEPHYR'S LEAP -->
+		<POI MapID="992" xpos="324.687" ypos="136.354" zpos="-405.17"  type="story_journal.season_2.gates_of_maguuma.zephyr_s_leap" GUID="6G84ZUJGTkKMSncAFJoIkw=="/>
+		<POI MapID="992" xpos="328.616" ypos="84.5375" zpos="-397.389" type="story_journal.season_2.gates_of_maguuma.zephyr_s_leap" GUID="lomyfHcdHkGnkylrk814qQ==" iconFile="Img/Icons/Target.png" heightOffset="0" mapVisibility="0" miniMapVisibility="0"/>
+
+	</POIs>
+</OverlayData>

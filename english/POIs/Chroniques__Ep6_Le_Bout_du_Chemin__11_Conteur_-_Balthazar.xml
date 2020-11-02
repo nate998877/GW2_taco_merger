@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+POIs: ReActif.9251
+Date: 2017/08/11
+-->
+<OverlayData>
+	<MarkerCategory name="chroniques.saison_3">
+		<MarkerCategory name="ep6_le_bout_du_chemin" DisplayName="Ep.6 - One Path Ends" iconFile="Img\LeBoutduChemin.png">
+			<MarkerCategory name="conteur__balthazar" DisplayName="Storyteller: Balthazar"/>
+		</MarkerCategory>
+	</MarkerCategory>
+
+	<POIs>
+
+		<!-- 1 --><POI MapID="1203" xpos="-909.347" ypos="115.067" zpos="143.453" type="chroniques.saison_3.ep6_le_bout_du_chemin.conteur__balthazar" GUID="5KlWQDMoQUS2fofrbJSmpg=="/>
+		<!-- 2 --><POI MapID="1203" xpos="-693.614" ypos="133.087" zpos="354.973" type="chroniques.saison_3.ep6_le_bout_du_chemin.conteur__balthazar" GUID="wrGNFuMuK0SVw7bKvhJIeA=="/>
+		<!-- 3 --><POI MapID="1203" xpos="-745.948" ypos="114.978" zpos="353.514" type="chroniques.saison_3.ep6_le_bout_du_chemin.conteur__balthazar" GUID="c6tT2A4hpE2w+ygDbtPkRg=="/>
+		<!-- 4 --><POI MapID="1203" xpos="-308.044" ypos="99.6291" zpos="352.949" type="chroniques.saison_3.ep6_le_bout_du_chemin.conteur__balthazar" GUID="ISs9ivwwYU2Kk6cVbduq9Q=="/>
+		<!-- 5 --><POI MapID="1203" xpos="-296.014" ypos="70.2813" zpos="314.445" type="chroniques.saison_3.ep6_le_bout_du_chemin.conteur__balthazar" GUID="BD7AvNcA6UuBSvo0PLrgOg=="/>
+		<!-- 6 --><POI MapID="1203" xpos="589.501"  ypos="18.5585" zpos="104.595" type="chroniques.saison_3.ep6_le_bout_du_chemin.conteur__balthazar" GUID="re47E5t/3Ue1yUWL0YvMpw=="/>
+
+	</POIs>
+</OverlayData>

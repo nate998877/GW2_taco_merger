@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+POIs: ReActif.9251
+Date: 2016/12/29
+-->
+<OverlayData>
+	<MarkerCategory name="general" DisplayName="General">
+		<MarkerCategory name="cimeseche" DisplayName="Dry Top">
+			<MarkerCategory name="localisateur_de_lama_legendaire" DisplayName="Legendary Llama Locator" iconFile="Img\Guide.png" iconSize="0.75"/>
+		</MarkerCategory>
+	</MarkerCategory>
+
+	<POIs>
+
+		<!-- Porte -->
+		<POI MapID="988" xpos="432.539" ypos="13.5783" zpos="-297.014" type="general.cimeseche.localisateur_de_lama_legendaire" GUID="9uS1keDx80K0SeaNADOkMA==" iconFile="Img\Fleche.png" iconSize="1.5"/>
+
+		<!-- Pouvoir du Soleil -->
+		<POI MapID="988" xpos="507.852" ypos="14.1795" zpos="-385.604" type="general.cimeseche.localisateur_de_lama_legendaire" GUID="4ZFzta8JuECmC4JE19/1Bg==" iconFile="Img\Interrupteur.png" heightOffset="2"/>
+		<POI MapID="988" xpos="460.825" ypos="10.9661" zpos="-370.229" type="general.cimeseche.localisateur_de_lama_legendaire" GUID="2jp7wJmApUejD/sAibuunA==" iconFile="Img\Interrupteur.png" heightOffset="2"/>
+
+		<!-- Route -->
+		<Route MapID="988" name="Lama_1" resetposx="545.83" resetposy="5.38" resetposz="-330.07" resetrange="2">
+			<POI MapID="988" xpos="545.83" ypos="5.38" zpos="-330.07" type="general.cimeseche.localisateur_de_lama_legendaire" GUID="aw/BNw4BUUaC3ZoZgCZh4A==" iconFile="Img\RueeDeLaLumiere.png" iconSize="1"/>
+			<POI MapID="988" xpos="578.353" ypos="5.07325" zpos="-353.554" type="general.cimeseche.localisateur_de_lama_legendaire" GUID="028qLLDLqESawuIcHqq/9Q==" iconFile="Img\FlecheAvancer.png"/>
+			<POI MapID="988" xpos="585.322" ypos="9.28148" zpos="-352.78" type="general.cimeseche.localisateur_de_lama_legendaire" GUID="eNJEM2cRpEylpbLrg4fd4Q=="/>
+			<POI MapID="988" xpos="587.241" ypos="13.38" zpos="-347.018" type="general.cimeseche.localisateur_de_lama_legendaire" GUID="yYpSMohK/EGJAxRa4uLLxw=="/>
+			<POI MapID="988" xpos="581.351" ypos="15.5013" zpos="-337.197" type="general.cimeseche.localisateur_de_lama_legendaire" GUID="pi3nLIJl6k+GLw1z86s0UA=="/>
+			<POI MapID="988" xpos="582.175" ypos="20.9023" zpos="-332.121" type="general.cimeseche.localisateur_de_lama_legendaire" GUID="m4z0ziqrEEGIIQ+nW60wAg=="/>
+			<POI MapID="988" xpos="587.312" ypos="27.9941" zpos="-327.764" type="general.cimeseche.localisateur_de_lama_legendaire" GUID="mTrX37xS5keakCKYFxeitQ=="/>
+			<POI MapID="988" xpos="594.339" ypos="37.3885" zpos="-320.152" type="general.cimeseche.localisateur_de_lama_legendaire" GUID="Jv5WiER9C0uQ13Lr6f0tAQ=="/>
+			<POI MapID="988" xpos="591.59" ypos="40.8696" zpos="-312.491" type="general.cimeseche.localisateur_de_lama_legendaire" GUID="ufv/BKoVFU2LGbCzhq8z2w=="/>
+		</Route>
+
+		<!-- Lama Légendaire -->
+		<POI MapID="988" xpos="579.914" ypos="44.1568" zpos="-313.096" type="general.cimeseche.localisateur_de_lama_legendaire" GUID="dEoZ+5J2HUCv7HnCwL6OpA==" iconFile="Img\Lama.png" iconSize="1" heightOffset="3" behavior="3"/>
+
+	</POIs>
+</OverlayData>

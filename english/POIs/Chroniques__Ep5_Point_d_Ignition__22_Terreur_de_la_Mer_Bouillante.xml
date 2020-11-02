@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+POIs: ReActif.9251
+Date: 2017/05/16
+-->
+<OverlayData>
+	<MarkerCategory name="chroniques.saison_3">
+		<MarkerCategory name="ep5_point_d_ignition" DisplayName="Ep.5 - Flashpoint" iconFile="Img\MontDraconis.png">
+			<MarkerCategory name="terreur_de_la_mer_bouillante" DisplayName="Terror of the Boiling Sea">
+				<MarkerCategory name="aestus" DisplayName="Aestus"/>
+				<MarkerCategory name="ignis" DisplayName="Ignis"/>
+			</MarkerCategory>
+		</MarkerCategory>
+	</MarkerCategory>
+
+	<POIs>
+
+		<!-- Légendaire destructeur Aestus -->
+		<POI MapID="1195" xpos="353.98" ypos="32.84" zpos="-149.86" type="chroniques.saison_3.ep5_point_d_ignition.terreur_de_la_mer_bouillante.aestus" GUID="Fyn3Rs4yrUe3iwlftb7Etw=="/>
+		<POI MapID="1195" xpos="353.98" ypos="34.84" zpos="-149.86" type="chroniques.saison_3.ep5_point_d_ignition.terreur_de_la_mer_bouillante.aestus" GUID="nQoLLB2qwEC+2WPkYEQ6CQ==" iconFile="Img\Combat.png" color="ffff0000"/>
+
+		<!-- Légendaire destructeur Ignis -->
+		<POI MapID="1195" xpos="-416.525" ypos="52.4427" zpos="20.5264" type="chroniques.saison_3.ep5_point_d_ignition.terreur_de_la_mer_bouillante.ignis" GUID="OA6x2ewG8US/JZ7Mj6xl9w=="/>
+		<POI MapID="1195" xpos="-416.525" ypos="54.4427" zpos="20.5264" type="chroniques.saison_3.ep5_point_d_ignition.terreur_de_la_mer_bouillante.ignis" GUID="Qclia/BQ7UGEZeQGV1pCtg==" iconFile="Img\Combat.png" color="ffff0000"/>
+
+	</POIs>
+</OverlayData>

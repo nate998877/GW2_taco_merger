@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+POIs: Cloud Strife.7492 - Xenophy.2716 - ReActif.9251
+Date: 2017/08/23
+-->
+<OverlayData>
+	<MarkerCategory name="general" DisplayName="General">
+		<MarkerCategory name="puzzles_de_saut" DisplayName="Jumping Puzzles" iconFile="Img\Guide.png" iconSize="0.75">
+			<MarkerCategory name="enigme_au_carre" DisplayName="Conundrum Cubed"/>
+		</MarkerCategory>
+	</MarkerCategory>
+
+	<POIs>
+
+		<!-- Début -->
+		<POI MapID="39" xpos="-1070.82" ypos="46" zpos="619.42" type="general.puzzles_de_saut.debut" GUID="B2KuNF8B6EqxcudWRhKPkg=="/>
+
+		<!-- Route -->
+		<Route MapID="39" name="Enigme_au_Carre" restposx="-1070.82" resetposy="46" resetposz="619.42" resetrange="2">
+			<POI MapID="39" xpos="-1067.31" ypos="47.8428" zpos="630.958" type="general.puzzles_de_saut.enigme_au_carre" GUID="TFuGacOuWkGDt3YzauFYDA=="/>
+			<POI MapID="39" xpos="-1061.04" ypos="47.5263" zpos="640.864" type="general.puzzles_de_saut.enigme_au_carre" GUID="1UGimgWBCkynaTKHXCPLgw=="/>
+			<POI MapID="39" xpos="-1059.44" ypos="45.8264" zpos="651.482" type="general.puzzles_de_saut.enigme_au_carre" GUID="bPnFU9yEq06Od8aGtHKFwQ=="/>
+			<POI MapID="39" xpos="-1060.51" ypos="43.6007" zpos="660.719" type="general.puzzles_de_saut.enigme_au_carre" GUID="t5YQf8uCx0mEcBhM5pMTWw=="/>
+			<POI MapID="39" xpos="-1064.23" ypos="40.5736" zpos="667.392" type="general.puzzles_de_saut.enigme_au_carre" GUID="1k3/mTvk+EWWSaiEFdBCPQ=="/>
+			<POI MapID="39" xpos="-1070.61" ypos="36.779" zpos="675.845" type="general.puzzles_de_saut.enigme_au_carre" GUID="o99Z7g+2z0yCtA/DY0S4pw=="/>
+			<POI MapID="39" xpos="-1075.91" ypos="30.5159" zpos="683.173" type="general.puzzles_de_saut.enigme_au_carre" GUID="w/rRhojnnEygHWXM2PkB5Q=="/>
+			<POI MapID="39" xpos="-1080.51" ypos="22.5927" zpos="692.972" type="general.puzzles_de_saut.enigme_au_carre" GUID="wWhKo5bKFUyEcwQON/7/Ug=="/>
+			<POI MapID="39" xpos="-1084.45" ypos="18.9177" zpos="700.261" type="general.puzzles_de_saut.enigme_au_carre" GUID="FKyO/PYIy0+YFdfCcDSBzg=="/>
+			<POI MapID="39" xpos="-1090.29" ypos="14.6415" zpos="708.676" type="general.puzzles_de_saut.enigme_au_carre" GUID="DPQn06J9QkuYZyPqoArKaw=="/>
+			<POI MapID="39" xpos="-1095.85" ypos="17.5727" zpos="711.552" type="general.puzzles_de_saut.enigme_au_carre" GUID="0Ayc5pL5ZEGALWJrjUOVmQ=="/>
+			<POI MapID="39" xpos="-1104.79" ypos="23.7658" zpos="709.815" type="general.puzzles_de_saut.enigme_au_carre" GUID="m7CVuKZ9nkqiFMox37IvSw=="/>
+			<POI MapID="39" xpos="-1112.44" ypos="28.3288" zpos="704.598" type="general.puzzles_de_saut.enigme_au_carre" GUID="Oc2fNCK+N0GE+jvjsrmGKA=="/>
+			<POI MapID="39" xpos="-1114.25" ypos="31.6421" zpos="701.529" type="general.puzzles_de_saut.enigme_au_carre" GUID="Ak5FSdBsn0+Lq6JcnPMrdw=="/>
+			<POI MapID="39" xpos="-1118.54" ypos="30.2515" zpos="697.497" type="general.puzzles_de_saut.enigme_au_carre" GUID="PojioLWk40ytBdxPYxV9Cw=="/>
+			<POI MapID="39" xpos="-1122.08" ypos="31.3259" zpos="693.798" type="general.puzzles_de_saut.enigme_au_carre" GUID="xiVB+tKx5U+Eq4wh3EhUzQ=="/>
+			<POI MapID="39" xpos="-1124.1" ypos="33.9139" zpos="691.106" type="general.puzzles_de_saut.enigme_au_carre" GUID="fuIqDNfreE+MyeZm0xOrUQ=="/>
+			<POI MapID="39" xpos="-1125.83" ypos="36.1491" zpos="688.728" type="general.puzzles_de_saut.enigme_au_carre" GUID="Y6fE3p2z8k+/cqqWL/RMPw=="/>
+			<POI MapID="39" xpos="-1131.7" ypos="39.2574" zpos="689.531" type="general.puzzles_de_saut.enigme_au_carre" GUID="UjZw6WcU/0eHhj+iYqN2Ew=="/>
+			<POI MapID="39" xpos="-1136.41" ypos="40.998" zpos="689.209" type="general.puzzles_de_saut.enigme_au_carre" GUID="k/HN86qaEk2B1B5mt3LrIw==" iconFile="Img\Fleche.png"/>
+			<POI MapID="39" xpos="-1127.7" ypos="43.6008" zpos="719.731" type="general.puzzles_de_saut.enigme_au_carre" GUID="xoCr+EiL+E6d/JBHwp8LQQ=="/>
+			<POI MapID="39" xpos="-1133.88" ypos="45.4236" zpos="722.664" type="general.puzzles_de_saut.enigme_au_carre" GUID="QuH6lfKRm0eIdzACB56t0g=="/>
+			<POI MapID="39" xpos="-1142.55" ypos="46.1587" zpos="721.516" type="general.puzzles_de_saut.enigme_au_carre" GUID="4USSb8OXwk+7Q5XIWg15EQ=="/>
+			<POI MapID="39" xpos="-1148.34" ypos="40.8268" zpos="719.371" type="general.puzzles_de_saut.enigme_au_carre" GUID="DrbwbFGfkUqZL27SeYSODw=="/>
+			<POI MapID="39" xpos="-1150.34" ypos="40.0755" zpos="713.16" type="general.puzzles_de_saut.enigme_au_carre" GUID="Tq7h5v2uzE2CBl0gPABciQ==" iconFile="Img\Danger.png"/>
+			<POI MapID="39" xpos="-1151.59" ypos="40.0755" zpos="705.634" type="general.puzzles_de_saut.enigme_au_carre" GUID="OQKgyCwjkU6Pfs0HyWTc6g=="/>
+			<POI MapID="39" xpos="-1152.9" ypos="40.0494" zpos="697.321" type="general.puzzles_de_saut.enigme_au_carre" GUID="RlHxXftLMkmUi9cYDgzFpQ==" iconFile="Img\Fleche.png"/>
+			<POI MapID="39" xpos="-1070.41" ypos="47.8095" zpos="714.358" type="general.puzzles_de_saut.enigme_au_carre" GUID="rWEOTtcdC06Dgvvcha6m6A=="/>
+			<POI MapID="39" xpos="-1074.91" ypos="48.8399" zpos="716.505" type="general.puzzles_de_saut.enigme_au_carre" GUID="eFop7/A3o0Ggnz/SZ15Iag=="/>
+			<POI MapID="39" xpos="-1078.89" ypos="50.1309" zpos="714.949" type="general.puzzles_de_saut.enigme_au_carre" GUID="wuvT/1VsN0O1EfdwSjl/MA=="/>
+			<POI MapID="39" xpos="-1084.72" ypos="51.0816" zpos="716.518" type="general.puzzles_de_saut.enigme_au_carre" GUID="ovsBkEAzVkSaJ7LrKOSuVQ=="/>
+			<POI MapID="39" xpos="-1087.92" ypos="52.7186" zpos="720.858" type="general.puzzles_de_saut.enigme_au_carre" GUID="CV9dIuKNtEml7K34AxriOA=="/>
+			<POI MapID="39" xpos="-1091.17" ypos="51.7868" zpos="724.146" type="general.puzzles_de_saut.enigme_au_carre" GUID="BADtv5bSQ0CyXgYeNOo4rQ=="/>
+			<POI MapID="39" xpos="-1096.65" ypos="45.9532" zpos="724.377" type="general.puzzles_de_saut.enigme_au_carre" GUID="I02K8mNBfUmFvtZL5ax3IQ=="/>
+			<POI MapID="39" xpos="-1100.86" ypos="45.4483" zpos="720.888" type="general.puzzles_de_saut.enigme_au_carre" GUID="ktrltCEKIUqZ4piN7hFMQA=="/>
+			<POI MapID="39" xpos="-1102.35" ypos="45.2793" zpos="717.751" type="general.puzzles_de_saut.enigme_au_carre" GUID="H4kORwYi8UKiL8qQbDXUHw==" iconFile="Img\Fleche.png"/>
+			<POI MapID="39" xpos="-1078.19" ypos="62.7542" zpos="743.407" type="general.puzzles_de_saut.enigme_au_carre" GUID="PCni+7MK4E6GaSvnYQOg0w=="/>
+			<POI MapID="39" xpos="-1073.48" ypos="54.6869" zpos="737.318" type="general.puzzles_de_saut.enigme_au_carre" GUID="PJRZhkyWYkm0eAQS7MVblw=="/>
+			<POI MapID="39" xpos="-1073.27" ypos="53.124" zpos="729.56" type="general.puzzles_de_saut.enigme_au_carre" GUID="rweGibLOYEarzZOrSbJbEQ==" iconFile="Img\Fleche.png"/>
+			<POI MapID="39" xpos="-1090.62" ypos="80.0341" zpos="742.273" type="general.puzzles_de_saut.enigme_au_carre" GUID="KYH3AXBHEES25dj6Jwt6tQ=="/>
+			<POI MapID="39" xpos="-1092.53" ypos="82.1915" zpos="746.05" type="general.puzzles_de_saut.enigme_au_carre" GUID="k1GNbzt6ZUOZEOPSb3+Nqw=="/>
+			<POI MapID="39" xpos="-1096.24" ypos="82.2986" zpos="748.359" type="general.puzzles_de_saut.enigme_au_carre" GUID="x9a6nWZKlUmN6Kj+2ooxLg=="/>
+			<POI MapID="39" xpos="-1099.05" ypos="82.759" zpos="746.668" type="general.puzzles_de_saut.enigme_au_carre" GUID="fZoH/WCJYE2WWIAkPp8CXA=="/>
+			<POI MapID="39" xpos="-1126.1" ypos="84.6345" zpos="758.057" type="general.puzzles_de_saut.enigme_au_carre" GUID="PxjnwytpV0GPhp/+SgbGWA=="/>
+		</Route>
+
+		<!-- Coffre -->
+		<POI MapID="39" xpos="-1134.58" ypos="84.715" zpos="753.013" type="general.puzzles_de_saut.enigme_au_carre" GUID="1W+9jlmWOkyjWabllgmt9Q==" iconFile="Img\CoffrePuzzle.png" iconSize="1" heightOffset="2.5" behavior="2"/>
+
+	</POIs>
+</OverlayData>

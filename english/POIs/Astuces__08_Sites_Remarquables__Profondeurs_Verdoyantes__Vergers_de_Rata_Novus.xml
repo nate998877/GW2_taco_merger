@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+POIs: ReActif.9251
+Date: 2017/05/09
+-->
+<OverlayData>
+	<MarkerCategory name="astuces" DisplayName="Tips (No Achievement)">
+		<MarkerCategory name="sites_remarquables" DisplayName="Point of Interest (Access)">
+			<MarkerCategory name="profondeurs_verdoyantes" DisplayName="Tangled Depths">
+				<MarkerCategory name="vergers_de_rata_novus" DisplayName="Rata Novus Orchards" iconFile="Img\Deltaplane.png" iconSize="0.75" triggerRange="5"/>
+			</MarkerCategory>
+		</MarkerCategory>
+	</MarkerCategory>
+
+	<POIs>
+
+		<!-- Début -->
+		<POI MapID="1045" xpos="388.5" ypos="90.26" zpos="-116.72" type="astuces.sites_remarquables.profondeurs_verdoyantes.vergers_de_rata_novus" GUID="OSjge721xEiGD+q9ymEwiQ==" iconFile="Img\ProfondeursVerdoyantesDebut-EN.png" iconSize="1.5"/>
+
+		<!-- Route -->
+		<Route MapID="1045" Name="Vergers_Rata_Novus" resetposx="388.5" resetposy="90.26" resetposz="-116.72" resetrange="2">
+			<POI MapID="1045" xpos="394.381" ypos="89.8087" zpos="-124.567" type="astuces.sites_remarquables.profondeurs_verdoyantes.vergers_de_rata_novus" GUID="YjrQudHEsUGrSG+dP5qkZQ=="/>
+			<POI MapID="1045" xpos="400.562" ypos="86.0288" zpos="-132.245" type="astuces.sites_remarquables.profondeurs_verdoyantes.vergers_de_rata_novus" GUID="vYw1AZ8mqkm/JVCFW/u6xQ=="/>
+			<POI MapID="1045" xpos="407.202" ypos="82.0198" zpos="-140.32" type="astuces.sites_remarquables.profondeurs_verdoyantes.vergers_de_rata_novus" GUID="C54US4zhvkyvaSKPIrUbXg=="/>
+			<POI MapID="1045" xpos="412.343" ypos="78.6981" zpos="-147.289" type="astuces.sites_remarquables.profondeurs_verdoyantes.vergers_de_rata_novus" GUID="TtR2PrfBHUGQXcmPkGLPlg=="/>
+		</Route>
+
+		<!-- Arrivée -->
+		<POI MapID="1045" xpos="414.391" ypos="69.4358" zpos="-149.837" type="astuces.sites_remarquables.profondeurs_verdoyantes.vergers_de_rata_novus" GUID="9CKqOnk0gk+E5cte75mVkg==" iconFile="Img\Croix.png"/>
+
+	</POIs>
+</OverlayData>

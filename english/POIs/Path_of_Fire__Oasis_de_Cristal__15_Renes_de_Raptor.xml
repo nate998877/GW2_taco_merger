@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+POIs: TMKFrench.6427
+Date: 2017/10/11
+-->
+<OverlayData>
+	<MarkerCategory name="path_of_fire.oasis_de_cristal">
+		<MarkerCategory name="renes_de_raptor" DisplayName="Reins of the Raptor" heightOffset="3" fadeNear="10000" fadeFar="15000">
+			<MarkerCategory name="guide" DisplayName="Guide" iconFile="Img\Guide.png" iconSize="0.75" heightOffset="1" fadeNear="5000" fadeFar="10000" triggerRange="5"/>
+		</MarkerCategory>
+	</MarkerCategory>
+
+	<POIs>
+
+		<!-- 1. Askim -->
+		<POI MapID="1210" xpos="-818.471" ypos="5.42651" zpos="340.751" type="path_of_fire.oasis_de_cristal.renes_de_raptor" GUID="caHjCw3oXkmTdl/NeVe9Ng=="/>
+		<POI MapID="1210" xpos="-818.471" ypos="7.42651" zpos="340.751" type="path_of_fire.oasis_de_cristal.renes_de_raptor" GUID="2gfwlTj3zkW8PiVo6/dMAw==" iconFile="Img\1.png"/>
+
+		<!-- 2. Prêtresse Karima -->
+		<POI MapID="1210" xpos="-353.544" ypos="8.63634" zpos="-345.069" type="path_of_fire.oasis_de_cristal.renes_de_raptor" GUID="i3f9LgGKr0iG6mKL7JO6Ow=="/>
+		<POI MapID="1210" xpos="-353.544" ypos="10.6363" zpos="-345.069" type="path_of_fire.oasis_de_cristal.renes_de_raptor" GUID="oRhA8GnPAEiOEBJqJA0KRQ==" iconFile="Img\2.png"/>
+		
+		<!-- En route pour le temple en moins de 2 Minutes -->
+		<POI MapID="1210" xpos="-352.686" ypos="7.55114" zpos="-323.846" type="path_of_fire.oasis_de_cristal.renes_de_raptor.guide" GUID="gxECPp6xZ0m2SWcsLYi4dA=="/>
+
+		<Route MapID="1210" name="de_Karima_a_Hakim" resetposx="-352.686" resetposy="7.55114" resetposz="-323.846" resetrange="2">
+			<POI MapID="1210" xpos="-338.554" ypos="2.17081" zpos="-300.45" type="path_of_fire.oasis_de_cristal.renes_de_raptor.guide" GUID="k3MEwSWqn0S+JTVhPl5wqw=="/>
+			<POI MapID="1210" xpos="-312.186" ypos="1.17377" zpos="-287.963" type="path_of_fire.oasis_de_cristal.renes_de_raptor.guide" GUID="1U0Z+xe+c0G3A6sfY0yAFQ=="/>
+			<POI MapID="1210" xpos="-286.529" ypos="0.399044" zpos="-268.301" type="path_of_fire.oasis_de_cristal.renes_de_raptor.guide" GUID="XDiZOvewJUGplerHv5rYWQ=="/>
+			<POI MapID="1210" xpos="-250.389" ypos="0.756511" zpos="-239.539" type="path_of_fire.oasis_de_cristal.renes_de_raptor.guide" GUID="M8pzbGlSjkCPuucYuB0oYg=="/>
+			<POI MapID="1210" xpos="-218.741" ypos="2.41386" zpos="-215.662" type="path_of_fire.oasis_de_cristal.renes_de_raptor.guide" GUID="8Z/+HCsMX0uWQFLcgLojaQ=="/>
+			<POI MapID="1210" xpos="-192.018" ypos="1.35639" zpos="-193.569" type="path_of_fire.oasis_de_cristal.renes_de_raptor.guide" GUID="WDlTb+UE+0Csum5md0kA+w=="/>
+			<POI MapID="1210" xpos="-162.418" ypos="1.12555" zpos="-169.138" type="path_of_fire.oasis_de_cristal.renes_de_raptor.guide" GUID="2vuGnEMpoEOMmntmnL4y/A=="/>
+			<POI MapID="1210" xpos="-133.716" ypos="3.17731" zpos="-145.574" type="path_of_fire.oasis_de_cristal.renes_de_raptor.guide" GUID="UlDjExWwJEy8sYF36Zs+Rw=="/>
+			<POI MapID="1210" xpos="-107.814" ypos="7.45656" zpos="-126.872" type="path_of_fire.oasis_de_cristal.renes_de_raptor.guide" GUID="YvPE/JWJ50GJPFr71RX1gQ=="/>
+			<POI MapID="1210" xpos="-83.8407" ypos="8.676" zpos="-101.687" type="path_of_fire.oasis_de_cristal.renes_de_raptor.guide" GUID="vlYhKx38H0Wa4cf7FQUaVA=="/>
+			<POI MapID="1210" xpos="-51.5212" ypos="10.7434" zpos="-70.6983" type="path_of_fire.oasis_de_cristal.renes_de_raptor.guide" GUID="Kn+JH9fu6kSzlTSB/tBLgw=="/>
+			<POI MapID="1210" xpos="-15.8459" ypos="11.9129" zpos="-41.0974" type="path_of_fire.oasis_de_cristal.renes_de_raptor.guide" GUID="PG606PVL8Ea5Nnjw89R22Q=="/>
+			<POI MapID="1210" xpos="14.8999" ypos="14.5807" zpos="-12.3458" type="path_of_fire.oasis_de_cristal.renes_de_raptor.guide" GUID="TeUmZZQGlkegkQADJEt5UA=="/>
+			<POI MapID="1210" xpos="58.935" ypos="16.406" zpos="15.7424" type="path_of_fire.oasis_de_cristal.renes_de_raptor.guide" GUID="c+Eu1Y8JlUCZoBtHcn69sg=="/>
+			<POI MapID="1210" xpos="87.9738" ypos="22.4029" zpos="26.7209" type="path_of_fire.oasis_de_cristal.renes_de_raptor.guide" GUID="7QT6Tbpbi0SfluUHtDvxwQ=="/>
+			<POI MapID="1210" xpos="108.79" ypos="25.1222" zpos="42.2368" type="path_of_fire.oasis_de_cristal.renes_de_raptor.guide" GUID="zjlMGdlGUUexxAFICFCiEw=="/>
+			<POI MapID="1210" xpos="128.465" ypos="35.1153" zpos="59.3351" type="path_of_fire.oasis_de_cristal.renes_de_raptor.guide" GUID="ZAnhpLADSU627n9f2EGTcw=="/>
+			<POI MapID="1210" xpos="143.335" ypos="39.8108" zpos="69.0589" type="path_of_fire.oasis_de_cristal.renes_de_raptor.guide" GUID="Nii0n9X2h0CoZD/jYMvQmA=="/>
+			<POI MapID="1210" xpos="169.045" ypos="36.0236" zpos="82.2299" type="path_of_fire.oasis_de_cristal.renes_de_raptor.guide" GUID="GP3aSM0Sk0y/D4XnBb6iPA=="/>
+			<POI MapID="1210" xpos="196.179" ypos="42.8644" zpos="96.5791" type="path_of_fire.oasis_de_cristal.renes_de_raptor.guide" GUID="sr5VaMVTbkmjqlioWG4FJg=="/>
+			<POI MapID="1210" xpos="221.477" ypos="59.4267" zpos="110.971" type="path_of_fire.oasis_de_cristal.renes_de_raptor.guide" GUID="xajwlcpaz02s8JCkdRFtzA=="/>
+		</Route>
+
+		<!-- Route Raptor Level 1 -->
+		<POI MapID="1210" xpos="244.511" ypos="70.4217" zpos="134.708" type="path_of_fire.oasis_de_cristal.renes_de_raptor.guide" GUID="ZGUe/E2GGE6XdFRWunBxZQ==" iconFile="Img\PanneauRaptor.png" iconSize="1.5" heightOffset="0"/>
+		
+		<Route MapID="1210" name="Raptor_niveau_1" resetposx="244.511" resetposy="70.4217" resetposz="134.708" resetrange="4">
+			<POI MapID="1210" xpos="254.564" ypos="69.437" zpos="163.882" type="path_of_fire.oasis_de_cristal.renes_de_raptor.guide" GUID="8CPK8HyER0yg9YJOiOz2sQ=="/>
+			<POI MapID="1210" xpos="269.249" ypos="56.273" zpos="216.123" type="path_of_fire.oasis_de_cristal.renes_de_raptor.guide" GUID="rMsborLP7k2CyIXH/PhyaQ=="/>
+			<POI MapID="1210" xpos="279.228" ypos="59.0805" zpos="283.043" type="path_of_fire.oasis_de_cristal.renes_de_raptor.guide" GUID="LNlQXR+eXkSTNvltIYyYTg=="/>
+			<POI MapID="1210" xpos="294.518" ypos="61.1317" zpos="327.298" type="path_of_fire.oasis_de_cristal.renes_de_raptor.guide" GUID="WqcT9Z1b7E+SIW1cjRHVuQ=="/>
+			<POI MapID="1210" xpos="312.647" ypos="59.0486" zpos="369.991" type="path_of_fire.oasis_de_cristal.renes_de_raptor.guide" GUID="1fwVghu1C0SeUp5cCuLjKA=="/>
+			<POI MapID="1210" xpos="361.25" ypos="61.3841" zpos="388.623" type="path_of_fire.oasis_de_cristal.renes_de_raptor.guide" GUID="3USCOr0RoEifw1gLE256hg=="/>
+			<POI MapID="1210" xpos="416.426" ypos="70.3294" zpos="394.318" type="path_of_fire.oasis_de_cristal.renes_de_raptor.guide" GUID="H0R4eaQWsU2Ii0hWQ9gDfg=="/>
+			<POI MapID="1210" xpos="456.422" ypos="82.4716" zpos="394.162" type="path_of_fire.oasis_de_cristal.renes_de_raptor.guide" GUID="AQuOWmWmG0mOKHPX59io2A=="/>
+			<POI MapID="1210" xpos="500.24" ypos="91.0325" zpos="385.701" type="path_of_fire.oasis_de_cristal.renes_de_raptor.guide" GUID="3+bY6Ht1qkadjwz6VGCRJg=="/>
+		</Route>
+		
+		<!-- Route Raptor Level 3 -->
+		<POI MapID="1210" xpos="266.057" ypos="78.561" zpos="129.58" type="path_of_fire.oasis_de_cristal.renes_de_raptor.guide" GUID="j1TMOS6rsEG8Baj6n7yBdw==" iconFile="Img\PanneauRaptorNiv3.png" iconSize="1.5" heightOffset="0"/>
+		
+		<Route MapID="1210" name="Raptor_niveau_3" resetposx="266.057" resetposy="78.561" resetposz="129.58" resetrange="4">
+			<POI MapID="1210" xpos="279.118" ypos="74.819" zpos="140.572" type="path_of_fire.oasis_de_cristal.renes_de_raptor.guide" GUID="SJrrdrtU8EWxxM8M2Cl1sA=="/>
+			<POI MapID="1210" xpos="313.4" ypos="66.4261" zpos="163.352" type="path_of_fire.oasis_de_cristal.renes_de_raptor.guide" GUID="/Nf2+GY6yEG7R6dhiiCD2Q=="/>
+			<POI MapID="1210" xpos="351.274" ypos="60.1321" zpos="191.778" type="path_of_fire.oasis_de_cristal.renes_de_raptor.guide" GUID="M5RqOc+g0ECghRWkuo9jZQ=="/>
+			<POI MapID="1210" xpos="389.35" ypos="67.9294" zpos="225.22" type="path_of_fire.oasis_de_cristal.renes_de_raptor.guide" GUID="yeFty+kdokGtu+FhoH4JSg=="/>
+			<POI MapID="1210" xpos="426.531" ypos="79.0862" zpos="269.035" type="path_of_fire.oasis_de_cristal.renes_de_raptor.guide" GUID="4ks6aRGQg0yl4M/oEOE4eg=="/>
+			<POI MapID="1210" xpos="461.891" ypos="83.5181" zpos="306.512" type="path_of_fire.oasis_de_cristal.renes_de_raptor.guide" GUID="iO6QlPeBl0WCZZqvQSrgTQ=="/>
+			<POI MapID="1210" xpos="497.581" ypos="82.8467" zpos="341.138" type="path_of_fire.oasis_de_cristal.renes_de_raptor.guide" GUID="o/EbfEUYNki97nvnLs9lSg=="/>
+			<POI MapID="1210" xpos="518.171" ypos="90.5942" zpos="374.365" type="path_of_fire.oasis_de_cristal.renes_de_raptor.guide" GUID="pu+t53BF2k2hySAwVQ7rWQ=="/>
+		</Route>
+
+		<!-- Arrivée au temple -->
+		<POI MapID="1210" xpos="533.967" ypos="96.053" zpos="382.411" type="informations.icones.guide" GUID="q+Tpa1aNrkqt42o6ZL/jMg=="/>
+		
+		<Route MapID="1210" name="Arrivee_au_Temple" resetposx="533.967" resetposy="96.053" resetposz="382.411" resetrange="4">
+			<POI MapID="1210" xpos="562.305" ypos="101.21" zpos="375.331" type="informations.icones.guide" GUID="mbkCSGcBYk20Xh1I4xPDXg=="/>
+			<POI MapID="1210" xpos="601.341" ypos="104.858" zpos="365.798" type="informations.icones.guide" GUID="9JcK+RdPz0m72xTsoeClMA=="/>
+			<POI MapID="1210" xpos="628.419" ypos="108.153" zpos="352.38" type="informations.icones.guide" GUID="/dpDJ2CuH0eIA4bz57e0Ww=="/>
+			<POI MapID="1210" xpos="662.429" ypos="112.718" zpos="341.729" type="informations.icones.guide" GUID="+uLizVEgJUmZYz13QIbVXg=="/>
+			<POI MapID="1210" xpos="700.306" ypos="114.87" zpos="331.13" type="informations.icones.guide" GUID="QVV0lxXm5kmCM8kQs73tow=="/>
+			<POI MapID="1210" xpos="703.698" ypos="116.501" zpos="292.417" type="informations.icones.guide" GUID="9PjBZMDuwE6w0wnRafXmgQ=="/>
+			<POI MapID="1210" xpos="704.105" ypos="117.831" zpos="254.687" type="informations.icones.guide" GUID="sLaJdTwaxEi9htzhKssLeQ=="/>
+			<POI MapID="1210" xpos="704.171" ypos="122.657" zpos="226.868" type="informations.icones.guide" GUID="5pOO3CQX00apiE51j3Q6hA=="/>
+			<POI MapID="1210" xpos="707.438" ypos="122.859" zpos="196.105" type="informations.icones.guide" GUID="rw86BT+TEU2x2Zhx7FpAuw=="/>
+			<POI MapID="1210" xpos="709.053" ypos="124.191" zpos="161.58" type="informations.icones.guide" GUID="ORdxIUKv6EaD76fi5YDFHA=="/>
+		</Route>
+		
+		<!-- 3. Prêtre Hakim -->
+		<POI MapID="1210" xpos="708.314" ypos="124.098" zpos="110.925" type="path_of_fire.oasis_de_cristal.renes_de_raptor" GUID="5nHJ/MOQd0SJei0tExcJrw=="/>
+		<POI MapID="1210" xpos="708.314" ypos="126.098" zpos="110.925" type="path_of_fire.oasis_de_cristal.renes_de_raptor" GUID="/uOlo2vMWEe0LwdcFHzXsA==" iconFile="Img\3.png"/>
+
+		<!-- 4. Maire Kabir -->
+		<POI MapID="1210" xpos="1055.83" ypos="21.1045" zpos="-323.648" type="path_of_fire.oasis_de_cristal.renes_de_raptor" GUID="p/Bo54/v8UySi+HMVj/3kA=="/>
+		<POI MapID="1210" xpos="1055.83" ypos="23.1045" zpos="-323.648" type="path_of_fire.oasis_de_cristal.renes_de_raptor" GUID="LBsou8EnRE60LqLfv96FMQ==" iconFile="Img\4.png"/>
+
+		<!-- 5. Cuisinier du camp Rehman -->
+		<POI MapID="1210" xpos="-346.118" ypos="8.28643" zpos="-348.262" type="path_of_fire.oasis_de_cristal.renes_de_raptor" GUID="oI3u8iGINk6XBWwCVe1Okw=="/>
+		<POI MapID="1210" xpos="-345.442" ypos="8.93227" zpos="-345.7" type="path_of_fire.oasis_de_cristal.renes_de_raptor" GUID="DJCXXgElSkWR+9mpNcOq8w==" iconFile="Img\5.png"/>
+		
+	</POIs>
+</OverlayData>

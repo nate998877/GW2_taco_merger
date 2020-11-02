@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+POIs: Cloud Strife.7492 - Xenophy.2716 - ReActif.9251
+Date: 2017/08/23
+-->
+<OverlayData>
+	<MarkerCategory name="general" DisplayName="General">
+		<MarkerCategory name="puzzles_de_saut" DisplayName="Jumping Puzzles" iconFile="Img\Guide.png" iconSize="0.75">
+			<MarkerCategory name="bond_de_morgan" DisplayName="Morgan's Leap"/>
+		</MarkerCategory>
+	</MarkerCategory>
+
+	<POIs>
+
+		<!-- Début -->
+		<POI MapID="34" xpos="475.27" ypos="0.64" zpos="-711.06" type="general.puzzles_de_saut.debut" GUID="e5XYMrWY5Uyu8IVKvPaxTw=="/>
+
+		<!-- Route -->
+		<Route MapID="34" name="Bond_de_Morgan" resetposx="475.27" resetposy="0.64" resetposz="-711.06" resetrange="1">
+			<POI MapID="34" xpos="478.553" ypos="1.83135" zpos="-712.451" type="general.puzzles_de_saut.bond_de_morgan" GUID="Orhf2GCAuUuCKrkO+T/Tiw=="/>
+			<POI MapID="34" xpos="480.443" ypos="4.27747" zpos="-718.441" type="general.puzzles_de_saut.bond_de_morgan" GUID="qUKkfPUUCECWllTcjZuNhw=="/>
+			<POI MapID="34" xpos="476.72" ypos="5.70751" zpos="-720.681" type="general.puzzles_de_saut.bond_de_morgan" GUID="fZKoGPX7eEiHGLrWapcjFQ=="/>
+			<POI MapID="34" xpos="472.271" ypos="8.07932" zpos="-720.303" type="general.puzzles_de_saut.bond_de_morgan" GUID="XBxhdtN9HEeC/dSf1Fl2UQ=="/>
+			<POI MapID="34" xpos="471.222" ypos="10.0091" zpos="-716.039" type="general.puzzles_de_saut.bond_de_morgan" GUID="QSwMgNdclkmednjHvWePgw=="/>
+			<POI MapID="34" xpos="475.653" ypos="10.9593" zpos="-710.155" type="general.puzzles_de_saut.bond_de_morgan" GUID="U2nBpTNvr06kbQH18/c3uw=="/>
+			<POI MapID="34" xpos="480.636" ypos="12.6251" zpos="-707.498" type="general.puzzles_de_saut.bond_de_morgan" GUID="Pv9p8P5Nh0Wk6BOFFWUxlw=="/>
+			<POI MapID="34" xpos="484.822" ypos="14.464" zpos="-705.74" type="general.puzzles_de_saut.bond_de_morgan" GUID="ur42Jzn7lk+zXszv2hUy0Q=="/>
+			<POI MapID="34" xpos="487.147" ypos="16.1619" zpos="-702.471" type="general.puzzles_de_saut.bond_de_morgan" GUID="lXOkWABANkypjtmx+nYxxA=="/>
+			<POI MapID="34" xpos="483.793" ypos="14.9773" zpos="-695.676" type="general.puzzles_de_saut.bond_de_morgan" GUID="FoMM/shlQkSqW6ujtwQ/YQ=="/>
+			<POI MapID="34" xpos="479.579" ypos="16.3307" zpos="-695.926" type="general.puzzles_de_saut.bond_de_morgan" GUID="JkPfmtuT1EumoDCFPi47FQ=="/>
+			<POI MapID="34" xpos="473.265" ypos="13.6412" zpos="-693.537" type="general.puzzles_de_saut.bond_de_morgan" GUID="hPkz5gkBZUuqz7Yil6uJCg=="/>
+			<POI MapID="34" xpos="469.123" ypos="15.3067" zpos="-694.171" type="general.puzzles_de_saut.bond_de_morgan" GUID="Hx3qxiTrtE+9tgsXLzn3cg=="/>
+			<POI MapID="34" xpos="465.998" ypos="16.2194" zpos="-689.63" type="general.puzzles_de_saut.bond_de_morgan" GUID="cwFfKbVVr0ugjiJLn1FkMA=="/>
+			<POI MapID="34" xpos="467.957" ypos="18.1669" zpos="-686.436" type="general.puzzles_de_saut.bond_de_morgan" GUID="zDoj+/+tsESBTsfG1UkX4A=="/>
+			<POI MapID="34" xpos="464.795" ypos="20.0277" zpos="-684.099" type="general.puzzles_de_saut.bond_de_morgan" GUID="IZ0nJ63Ff0CyFMpKuovk7g=="/>
+			<POI MapID="34" xpos="462.105" ypos="22.0285" zpos="-688.391" type="general.puzzles_de_saut.bond_de_morgan" GUID="W5vBnwDY8kGG7uVgqmwcHQ=="/>
+			<POI MapID="34" xpos="461.464" ypos="21.0559" zpos="-694.651" type="general.puzzles_de_saut.bond_de_morgan" GUID="uhjoUC9WDEGCHHl0qx2c+A=="/>
+			<POI MapID="34" xpos="461.96" ypos="23.3893" zpos="-698.511" type="general.puzzles_de_saut.bond_de_morgan" GUID="copYcKWkakeTe73fbXE5qg=="/>
+			<POI MapID="34" xpos="464.528" ypos="22.3323" zpos="-703.134" type="general.puzzles_de_saut.bond_de_morgan" GUID="fEeuatROTEOcJQyJbAWdIQ=="/>
+			<POI MapID="34" xpos="469.13" ypos="24.5265" zpos="-703.276" type="general.puzzles_de_saut.bond_de_morgan" GUID="zimjGL2hlUe1i9iewKz/Dg=="/>
+			<POI MapID="34" xpos="473.524" ypos="25.1376" zpos="-705.544" type="general.puzzles_de_saut.bond_de_morgan" GUID="TuTeSuhzkEOjgrpdKg5LsQ=="/>
+			<POI MapID="34" xpos="475.875" ypos="25.406" zpos="-707.771" type="general.puzzles_de_saut.bond_de_morgan" GUID="EE8oJnPdbE+gZof8MIsZsA=="/>
+			<POI MapID="34" xpos="475.94" ypos="24.7602" zpos="-714.029" type="general.puzzles_de_saut.bond_de_morgan" GUID="RXYylVbckkaM8i2o8rrmgQ=="/>
+			<POI MapID="34" xpos="473.789" ypos="25.2425" zpos="-718.154" type="general.puzzles_de_saut.bond_de_morgan" GUID="Qo8LLI+u6UO6bDKWbhi8Dw=="/>
+			<POI MapID="34" xpos="469.452" ypos="23.2487" zpos="-723.033" type="general.puzzles_de_saut.bond_de_morgan" GUID="uO6BAu8rUU+oyyPsOljNKw=="/>
+			<POI MapID="34" xpos="465.197" ypos="23.2872" zpos="-717.102" type="general.puzzles_de_saut.bond_de_morgan" GUID="3c1O4Nfw8E2gqd6aBL/4Lw=="/>
+			<POI MapID="34" xpos="463.727" ypos="25.1467" zpos="-713.084" type="general.puzzles_de_saut.bond_de_morgan" GUID="RpMOI33NsUiU7rxx/xvQZw=="/>
+			<POI MapID="34" xpos="458.651" ypos="24.584" zpos="-710.794" type="general.puzzles_de_saut.bond_de_morgan" GUID="981QiSlwvkeApBjTk3oGiQ=="/>
+			<POI MapID="34" xpos="460.243" ypos="25.7811" zpos="-706.701" type="general.puzzles_de_saut.bond_de_morgan" GUID="Wxq7cWmAf0ujWZUlweKxgg=="/>
+			<POI MapID="34" xpos="461.243" ypos="28.3065" zpos="-703.318" type="general.puzzles_de_saut.bond_de_morgan" GUID="elnCUnDrSUudO4S1qlW24A=="/>
+			<POI MapID="34" xpos="460.036" ypos="30.5302" zpos="-705.762" type="general.puzzles_de_saut.bond_de_morgan" GUID="CN8Q4dKjlUqNs5Vq8Aiy1A=="/>
+			<POI MapID="34" xpos="460.331" ypos="31.5204" zpos="-709.186" type="general.puzzles_de_saut.bond_de_morgan" GUID="QqgezVPoO0GIa8e9rKKg2A=="/>
+			<POI MapID="34" xpos="461.58" ypos="32.8754" zpos="-712.6" type="general.puzzles_de_saut.bond_de_morgan" GUID="FxHpNL51v06UB9IIOUFJQQ=="/>
+			<POI MapID="34" xpos="462.18" ypos="34.354" zpos="-716.128" type="general.puzzles_de_saut.bond_de_morgan" GUID="PWSNV+UzAkO/+sScOwmWlA=="/>
+			<POI MapID="34" xpos="464.072" ypos="34.3144" zpos="-720.279" type="general.puzzles_de_saut.bond_de_morgan" GUID="v+WUvjiDq0Cdi9jAuyrdjw=="/>
+			<POI MapID="34" xpos="468.658" ypos="35.3262" zpos="-719.339" type="general.puzzles_de_saut.bond_de_morgan" GUID="lbQd3ZiXakK+6+MGd108Yw=="/>
+			<POI MapID="34" xpos="470.721" ypos="36.9006" zpos="-716.112" type="general.puzzles_de_saut.bond_de_morgan" GUID="R23cnkQ8lkiTSQeg1J4FDA=="/>
+			<POI MapID="34" xpos="469.763" ypos="37.0171" zpos="-712.112" type="general.puzzles_de_saut.bond_de_morgan" GUID="jUwW2ovlqUmg6nClndNK+w=="/>
+			<POI MapID="34" xpos="464.962" ypos="38.0357" zpos="-713.126" type="general.puzzles_de_saut.bond_de_morgan" GUID="RBHWBqqx2kSbS9auwQb5Qg=="/>
+			<POI MapID="34" xpos="464.285" ypos="39.204" zpos="-716.75" type="general.puzzles_de_saut.bond_de_morgan" GUID="iSEiFAg8skeGE+KVmaEckg=="/>
+			<POI MapID="34" xpos="466.397" ypos="42.1262" zpos="-717.985" type="general.puzzles_de_saut.bond_de_morgan" GUID="1xbjzjQqckSX2SuVH2vYvg=="/>
+			<POI MapID="34" xpos="466.647" ypos="42.1504" zpos="-713.81" type="general.puzzles_de_saut.bond_de_morgan" GUID="2Y8KBkw3jUe2MRLx/c0qbA=="/>
+			<POI MapID="34" xpos="463.877" ypos="43.4511" zpos="-710.005" type="general.puzzles_de_saut.bond_de_morgan" GUID="x3SxtduCHkWejUP6gQrIRQ=="/>
+			<POI MapID="34" xpos="461.078" ypos="43.7915" zpos="-702.755" type="general.puzzles_de_saut.bond_de_morgan" GUID="J/A3SDWphk2zo/rymm78PQ=="/>
+			<POI MapID="34" xpos="460.579" ypos="42.5431" zpos="-696.311" type="general.puzzles_de_saut.bond_de_morgan" GUID="TQ/ls1BGQ0aUsgCbCwTidQ=="/>
+			<POI MapID="34" xpos="458.639" ypos="42.3621" zpos="-693.289" type="general.puzzles_de_saut.bond_de_morgan" GUID="jl+FxpJtk0SNgp8wzgRHnQ=="/>
+			<POI MapID="34" xpos="454.448" ypos="43.2593" zpos="-690.009" type="general.puzzles_de_saut.bond_de_morgan" GUID="1DnaekIO+UKJ3SRm/21d8g=="/>
+			<POI MapID="34" xpos="449.724" ypos="45.5722" zpos="-690.339" type="general.puzzles_de_saut.bond_de_morgan" GUID="XnP/DHpEsE655HFzKFEx4g=="/>
+			<POI MapID="34" xpos="448.681" ypos="44.7669" zpos="-685.768" type="general.puzzles_de_saut.bond_de_morgan" GUID="rWP584O1KEq0ZogbSbh22g=="/>
+			<POI MapID="34" xpos="447.148" ypos="44.1264" zpos="-682.303" type="general.puzzles_de_saut.bond_de_morgan" GUID="PUhUdHe51EK5eDZKj7s8Fw=="/>
+			<POI MapID="34" xpos="443.889" ypos="44.5565" zpos="-679.104" type="general.puzzles_de_saut.bond_de_morgan" GUID="zYwltPnBXUiw3L2d0sDibQ=="/>
+			<POI MapID="34" xpos="445.533" ypos="46.4747" zpos="-675.899" type="general.puzzles_de_saut.bond_de_morgan" GUID="mHNjS4GJaUuodaJ4pUu0Zw=="/>
+			<POI MapID="34" xpos="448.492" ypos="48.1254" zpos="-670.492" type="general.puzzles_de_saut.bond_de_morgan" GUID="GfZEBHWVNEqRUdT9MzMQ4A=="/>
+			<POI MapID="34" xpos="450.813" ypos="47.7645" zpos="-665.438" type="general.puzzles_de_saut.bond_de_morgan" GUID="YAumTIxYlEu8/V5dJxdMcQ=="/>
+			<POI MapID="34" xpos="454.211" ypos="46.3789" zpos="-659.815" type="general.puzzles_de_saut.bond_de_morgan" GUID="Rn+GGrnhRU6I2f85r87rnA=="/>
+			<POI MapID="34" xpos="450.189" ypos="48.668" zpos="-656.801" type="general.puzzles_de_saut.bond_de_morgan" GUID="7YE+hOhvfkmHXI984uEa0A=="/>
+			<POI MapID="34" xpos="444.668" ypos="51.4861" zpos="-655.308" type="general.puzzles_de_saut.bond_de_morgan" GUID="Jz5mmTD44Eibcyf/so0ygg=="/>
+			<POI MapID="34" xpos="447.779" ypos="52.6502" zpos="-653.317" type="general.puzzles_de_saut.bond_de_morgan" GUID="rouF5XRKdUKG2WPXKNyh9A=="/>
+			<POI MapID="34" xpos="445.705" ypos="50.1475" zpos="-646.033" type="general.puzzles_de_saut.bond_de_morgan" GUID="5uy1OCqeRUCHwlkMv8zZOw=="/>
+			<POI MapID="34" xpos="441.543" ypos="51.5368" zpos="-642.981" type="general.puzzles_de_saut.bond_de_morgan" GUID="vGsO//f1y02k0ME1bA9xjw=="/>
+			<POI MapID="34" xpos="440.998" ypos="52.1692" zpos="-640.034" type="general.puzzles_de_saut.bond_de_morgan" GUID="OMnueEW4w061HE0zNyxQSQ=="/>
+			<POI MapID="34" xpos="442.251" ypos="44.0103" zpos="-632.462" type="general.puzzles_de_saut.bond_de_morgan" GUID="ysq6Ja1iVE2BNoO9bDSFMQ=="/>
+		</Route>
+
+		<!-- Coffre -->
+		<POI MapID="34" xpos="442.341" ypos="44.8369" zpos="-627.994" type="general.puzzles_de_saut.bond_de_morgan" GUID="/XRIuTTK/EappiyJdaunig==" iconFile="Img\CoffrePuzzle.png" iconSize="1" heightOffset="2.5" behavior="2"/>
+
+	</POIs>
+</OverlayData>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+POIs: ReActif.9251 - TMKFrench.6427
+Date: 2017/09/25
+-->
+<OverlayData>
+	<MarkerCategory name="recoltes" DisplayName="Harvest" fadeNear="10000" fadeFar="20000" behavior="6">
+		<MarkerCategory name="magie_deliee" DisplayName="Unbound Magic" iconFile="Img\MagieDeliee.png" triggerRange="3">
+			<MarkerCategory name="perle_orrienne" DisplayName="Orrian Oyster" iconFile="Img\PerleOrrienne.png" heightOffset="2"/>
+		</MarkerCategory>
+	</MarkerCategory>
+
+	<POIs>
+
+		<POI MapID="1203" xpos="-919.145" ypos="93.681" zpos="196.658" type="recoltes.magie_deliee.perle_orrienne" GUID="sQi3DjuUnkmyLKPt0jRvnw=="/>
+		<POI MapID="1203" xpos="-883.257" ypos="101.412" zpos="269.497" type="recoltes.magie_deliee.perle_orrienne" GUID="SWYTqmtDwkmp2Ocs4dk18A=="/>
+		<POI MapID="1203" xpos="-721.239" ypos="55.2747" zpos="-90.1377" type="recoltes.magie_deliee.perle_orrienne" GUID="fRnaGAQJkkOHLjEbyRNtww=="/>
+		<POI MapID="1203" xpos="-704.867" ypos="44.0599" zpos="-278.444" type="recoltes.magie_deliee.perle_orrienne" GUID="QD3LB+s8/0SJ4Pjm0xc1MA=="/>
+		<POI MapID="1203" xpos="-666.703" ypos="54.7613" zpos="-122.806" type="recoltes.magie_deliee.perle_orrienne" GUID="emqBxF1bzk+VgGLyxjWIGQ=="/>
+		<POI MapID="1203" xpos="-614.668" ypos="127.702" zpos="148.849" type="recoltes.magie_deliee.perle_orrienne" GUID="dfBH+1GlTkOWu1wtcs8SLA=="/>
+		<POI MapID="1203" xpos="-587.722" ypos="66.9498" zpos="-60.1313" type="recoltes.magie_deliee.perle_orrienne" GUID="vntZj7KdyEuiFW/cz+ljCw=="/>
+		<POI MapID="1203" xpos="-525.139" ypos="95.7904" zpos="173.565" type="recoltes.magie_deliee.perle_orrienne" GUID="5Cr5cKg30EOrUi6fQ7eWVQ=="/>
+		<POI MapID="1203" xpos="-452.938" ypos="39.9844" zpos="-3.6033" type="recoltes.magie_deliee.perle_orrienne" GUID="hON6iYseV0S/bR7X7wmUgw=="/>
+		<POI MapID="1203" xpos="-419.659" ypos="2.43912" zpos="-216.688" type="recoltes.magie_deliee.perle_orrienne" GUID="hTiYCbfBV0CWnK/djH1gCA=="/>
+		<POI MapID="1203" xpos="-358.24" ypos="12.0793" zpos="-116.147" type="recoltes.magie_deliee.perle_orrienne" GUID="P73NEUjmTEG2KdL57qetkw=="/>
+		<POI MapID="1203" xpos="-340.215" ypos="6.89561" zpos="-59.9368" type="recoltes.magie_deliee.perle_orrienne" GUID="3r+Cib3XwU+Lj2zD4KgwbA=="/>
+		<POI MapID="1203" xpos="-333.023" ypos="22.9805" zpos="-38.1298" type="recoltes.magie_deliee.perle_orrienne" GUID="rstbyjOdA0SuRrQ2L0UXxQ=="/>
+		<POI MapID="1203" xpos="-227.221" ypos="29.2101" zpos="-166.775" type="recoltes.magie_deliee.perle_orrienne" GUID="itaSBuwQAE+++yWA3hnCfg=="/>
+		<POI MapID="1203" xpos="-193.948" ypos="8.91194" zpos="-21.7221" type="recoltes.magie_deliee.perle_orrienne" GUID="q7fN8V3epkidISkxaphGpQ=="/>
+		<POI MapID="1203" xpos="-110.977" ypos="86.9662" zpos="173.063" type="recoltes.magie_deliee.perle_orrienne" GUID="bSM9jksNiUOhPX9YDjK3+w=="/>
+		<POI MapID="1203" xpos="-59.1009" ypos="-0.0712596" zpos="32.3307" type="recoltes.magie_deliee.perle_orrienne" GUID="zrFg0UkMjUufinbfjvqi6Q=="/>
+		<POI MapID="1203" xpos="-47.6137" ypos="9.21134" zpos="9.7678" type="recoltes.magie_deliee.perle_orrienne" GUID="tJG3M1jggkGrGTicbtMEtA=="/>
+		<POI MapID="1203" xpos="-47.5273" ypos="9.12994" zpos="9.93867" type="recoltes.magie_deliee.perle_orrienne" GUID="rLEL3YRxK0mbsGyY6OQyeg=="/>
+		<POI MapID="1203" xpos="-44.5683" ypos="-0.19009" zpos="37.2969" type="recoltes.magie_deliee.perle_orrienne" GUID="H5yhQ8wpEkuh8OFVk+ZmKw=="/>
+		<POI MapID="1203" xpos="20.9059" ypos="1.16913" zpos="35.1241" type="recoltes.magie_deliee.perle_orrienne" GUID="haneuknr0kqVRHF2FynvMA=="/>
+		<POI MapID="1203" xpos="100.116" ypos="3.31992" zpos="35.5056" type="recoltes.magie_deliee.perle_orrienne" GUID="dYLb5aL3mk+xm+1L2/5JUg=="/>
+		<POI MapID="1203" xpos="120.986" ypos="132.781" zpos="349.419" type="recoltes.magie_deliee.perle_orrienne" GUID="VWdoRUAMj0m5F0pMgmctXw=="/>
+		<POI MapID="1203" xpos="148.922" ypos="-31.2253" zpos="116.648" type="recoltes.magie_deliee.perle_orrienne" GUID="C/OnW0rofE6xQ2gOqgCseQ=="/>
+		<POI MapID="1203" xpos="149.457" ypos="45.6918" zpos="291.348" type="recoltes.magie_deliee.perle_orrienne" GUID="Rs/IxvAC2EWBYXQQW8Pkeg=="/>
+		<POI MapID="1203" xpos="165.889" ypos="-0.272875" zpos="208.029" type="recoltes.magie_deliee.perle_orrienne" GUID="GlgnZ5MlpkG4jHyorei79g=="/>
+		<POI MapID="1203" xpos="352.84" ypos="9.44268" zpos="-78.0458" type="recoltes.magie_deliee.perle_orrienne" GUID="zKOu5zp+UEGGKJJmxz3EWg=="/>
+		<POI MapID="1203" xpos="403.224" ypos="-0.0464818" zpos="-112.857" type="recoltes.magie_deliee.perle_orrienne" GUID="lzupW+3ohkmy2jnLqjH2jQ=="/>
+		<POI MapID="1203" xpos="502.11" ypos="4.03434" zpos="122.635" type="recoltes.magie_deliee.perle_orrienne" GUID="YqMNUR3+TE+LBMS/GaWLfQ=="/>
+		<POI MapID="1203" xpos="507.564" ypos="2.39251" zpos="146.966" type="recoltes.magie_deliee.perle_orrienne" GUID="tleUiecmSka+mN9QPFhlOA=="/>
+		<POI MapID="1203" xpos="564.456" ypos="-41.1108" zpos="-123.894" type="recoltes.magie_deliee.perle_orrienne" GUID="ZBIoDL7WgUG7Wv2VGkUqiw=="/>
+		<POI MapID="1203" xpos="583.037" ypos="-2.22102" zpos="-218.042" type="recoltes.magie_deliee.perle_orrienne" GUID="klkylsV7tEy7lTgFkqOxjQ=="/>
+		<POI MapID="1203" xpos="618.488" ypos="-6.01635" zpos="274.419" type="recoltes.magie_deliee.perle_orrienne" GUID="w0UU1P7U6Eavpsa2cSr59w=="/>
+		<POI MapID="1203" xpos="711.146" ypos="-33.3599" zpos="293.5" type="recoltes.magie_deliee.perle_orrienne" GUID="fqydDgzbu0SyuNZnqNCPEQ=="/>
+
+	</POIs>
+</OverlayData>

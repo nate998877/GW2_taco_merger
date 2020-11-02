@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+POIs: ReActif.9251 
+Date: 2016/12/27
+-->
+<OverlayData>
+	<MarkerCategory name="general" DisplayName="General">
+		<MarkerCategory name="explorateur" DisplayName="Explorer" iconFile="Img\Explorateur.png" behavior="3">
+			<MarkerCategory name="solitude_du_rebelle" DisplayName="Rebel's Seclusion"/>
+		</MarkerCategory>
+	</MarkerCategory>
+
+	<POIs>
+
+		<!-- Coffre -->
+		<POI MapID="22" xpos="980.45" ypos="71.7834" zpos="-38.6093" type="general.explorateur.solitude_du_rebelle" GUID="QDEgKI08QU2kUkjagKHDgg==" iconFile="Img\CoffreMiniDonjon.png" heightOffset="2"/>
+
+	</POIs>
+</OverlayData>

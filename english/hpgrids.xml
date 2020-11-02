@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+POIs: BoyC.2653
+Trad: ReActif.9251
+Date: 2017/06/18
+-->
+<hpgrids>
+
+	<!-- Vale Guardian -->
+	<grid mapid="1062" name="Vale Guardian" centerx="-121.367" centery="61.005" centerz="-523.903" radius="40">
+		<percentage value="33" color="80ffffff"/>
+		<percentage value="66" color="80ffffff"/>
+	</grid>
+
+	<!-- Gorseval the Multifarious -->
+	<grid mapid="1062" name="Gorseval" centerx="41.755" centery="50.5964" centerz="-112.6103" radius="90">
+		<percentage value="32" color="80ffffff"/>
+		<percentage value="65" color="80ffffff"/>
+	</grid>
+
+	<!-- Sabetha the Saboteur -->
+	<grid mapid="1062" name="Sabetha" centerx="-129.058" centery="62.4114" centerz="84.9046" radius="80">
+		<percentage value="25" color="80ffffff"/>
+		<percentage value="50" color="80ffffff"/>
+		<percentage value="75" color="80ffffff"/>
+	</grid>
+
+	<!-- Slothasor -->
+	<grid mapid="1149" name="Slothasor" centerx="197.181" centery="0.604144" centerz="-13.8096" radius="60">
+		<percentage value="10" color="80ffffff"/>
+		<percentage value="19" color="80ffffff"/>
+		<percentage value="40" color="80ffffff"/>
+		<percentage value="59" color="80ffffff"/>
+		<percentage value="79" color="80ffffff"/>
+	</grid>
+
+	<!-- Matthias Gabrel -->
+	<grid mapid="1149" name="Matthias" centerx="-150.859" centery="131.523" centerz="149.735" radius="41.432106">
+		<percentage value="20" color="40ffffff"/>
+		<percentage value="40" color="80ffffff"/>
+		<percentage value="60" color="80ffffff"/>
+		<percentage value="80" color="80ffffff"/>
+	</grid>
+
+	<!-- Keep Construct -->
+	<grid mapid="1156" name="Keep Construct" centerx="-97.98" centery="150.15" centerz="237.25" radius="30.60">
+		<percentage value="33" color="80ffffff"/>
+		<percentage value="66" color="80ffffff"/>
+	</grid>
+
+	<!-- Xera -->
+	<grid mapid="1156" name="Xera" centerx="-77.0612" centery="512.354" centerz="-80.4387" radius="100">
+		<percentage value="90" color="80ffffff"/>
+		<percentage value="50" color="80ffffff"/>
+		<percentage value="40" color="8080ff80"/>
+		<percentage value="20" color="8080ff80"/>
+	</grid>
+
+</hpgrids>

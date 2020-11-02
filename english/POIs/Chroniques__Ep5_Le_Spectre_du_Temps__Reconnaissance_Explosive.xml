@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+POIs: ReActif.9251
+Date: 2017/03/07
+-->
+<OverlayData>
+	<MarkerCategory name="chroniques.saison_2">
+		<MarkerCategory name="ep5_le_spectre_du_temps" DisplayName="Ep.5 - Echoes of the Past" iconFile="Img\Saison2LeSpectreDuTemps.png">
+			<MarkerCategory name="reconnaissance_explosive" DisplayName="Recon Demolitionist"/>
+		</MarkerCategory>
+	</MarkerCategory>
+
+	<POIs>
+
+		<!-- Cadavres -->
+		<POI MapID="1018" xpos="-173.644" ypos="416.855" zpos="227.262" type="chroniques.saison_2.ep5_le_spectre_du_temps.reconnaissance_explosive" GUID="lV68IU58EEy+LUBasEJAmQ=="/>
+		<POI MapID="1018" xpos="-177.92" ypos="417.662" zpos="267.7" type="chroniques.saison_2.ep5_le_spectre_du_temps.reconnaissance_explosive" GUID="WA/aMasPKUWJ+C3XwtOaMA=="/>
+		<POI MapID="1018" xpos="-243.057" ypos="418.861" zpos="244.83" type="chroniques.saison_2.ep5_le_spectre_du_temps.reconnaissance_explosive" GUID="hBG+H0PmR06HxMiStZbfjA=="/>
+		<POI MapID="1018" xpos="-234.363" ypos="420.167" zpos="287.031" type="chroniques.saison_2.ep5_le_spectre_du_temps.reconnaissance_explosive" GUID="ulhlgPg5sEO4YJ5iF6SKOg=="/>
+		<POI MapID="1018" xpos="-267.734" ypos="418.867" zpos="259.811" type="chroniques.saison_2.ep5_le_spectre_du_temps.reconnaissance_explosive" GUID="MIPGXfJIlU21/8Y1SQg5/w=="/>
+		<POI MapID="1018" xpos="-280.146" ypos="418.979" zpos="219.003" type="chroniques.saison_2.ep5_le_spectre_du_temps.reconnaissance_explosive" GUID="KciiZIllRk2C5ju/KlcomQ=="/>
+		<POI MapID="1018" xpos="-303.648" ypos="419.931" zpos="235.789" type="chroniques.saison_2.ep5_le_spectre_du_temps.reconnaissance_explosive" GUID="H43wXNV5mk+P76u5qgk/TA=="/>
+		<POI MapID="1018" xpos="-331.425" ypos="419.116" zpos="203.244" type="chroniques.saison_2.ep5_le_spectre_du_temps.reconnaissance_explosive" GUID="kTbbTwjk8UuC+EL6k+wVTQ=="/>
+		<POI MapID="1018" xpos="-369.734" ypos="426.574" zpos="182.642" type="chroniques.saison_2.ep5_le_spectre_du_temps.reconnaissance_explosive" GUID="46R7wa3jZU2oNsr+fOCLNQ=="/>
+		<POI MapID="1018" xpos="-423.945" ypos="426.523" zpos="188.839" type="chroniques.saison_2.ep5_le_spectre_du_temps.reconnaissance_explosive" GUID="qu8xP/G9NEudArnTiiBv3Q=="/>
+
+	</POIs>
+</OverlayData>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+POIs: TMKFrench.6427
+Date: 2017/10/01
+-->
+<OverlayData>
+	<MarkerCategory name="path_of_fire.oasis_de_cristal">
+		<MarkerCategory name="pelerins_perdus" DisplayName="Lost Pilgrims" heightOffset="3">
+			<MarkerCategory name="guide" DisplayName="Guide" iconFile="Img\Guide.png" iconSize="0.75" heightOffset="1" fadeNear="4000" fadeFar="8000"/>
+		</MarkerCategory>
+	</MarkerCategory>
+
+	<POIs>
+
+		<!-- 1. Hehmnut le prêtre ritualiste -->
+		<POI MapID="1210" xpos="631.992" ypos="121.662" zpos="108.934" type="path_of_fire.oasis_de_cristal.pelerins_perdus.guide" GUID="EDaA0hHO90S4u0JHP9cMZA==" iconFile="Img\PanneauFrappesolNiv3.png" iconSize="1.5" heightOffset="0"/>
+		<POI MapID="1210" xpos="631.992" ypos="123.662" zpos="108.934" type="path_of_fire.oasis_de_cristal.pelerins_perdus.guide" GUID="+2O5Dyx8s0ur3FxLT0xvew==" iconFile="Img\FlecheHaut.png"/>
+		<POI MapID="1210" xpos="626.576" ypos="148.255" zpos="100.261" type="path_of_fire.oasis_de_cristal.pelerins_perdus.guide" GUID="3Rq+hgkeX0adMq1x4rBoKw=="/>
+		<POI MapID="1210" xpos="631.371" ypos="150.442" zpos="97.724" type="path_of_fire.oasis_de_cristal.pelerins_perdus.guide" GUID="hEdl0TvzSUWJTc6OZlHTyQ==" iconFile="Img\FlecheHaut.png"/>
+		<POI MapID="1210" xpos="647.196" ypos="168.035" zpos="85.1891" type="path_of_fire.oasis_de_cristal.pelerins_perdus.guide" GUID="4KSfibeF306KUhesPVqZ2A=="/>
+		<POI MapID="1210" xpos="628.49" ypos="176.256" zpos="64.6162" type="path_of_fire.oasis_de_cristal.pelerins_perdus.guide" GUID="Ld3A+/i/vEidcmlmwNnmEg=="/>
+		<POI MapID="1210" xpos="636.061" ypos="179.941" zpos="50.4003" type="path_of_fire.oasis_de_cristal.pelerins_perdus.guide" GUID="jQHhDM/r5kSqlEwvrPpupw=="/>
+		<POI MapID="1210" xpos="649.727" ypos="180.725" zpos="27.2858" type="path_of_fire.oasis_de_cristal.pelerins_perdus.guide" GUID="7aFa4UjSYkmYvrxyVuaIqA=="/>
+
+		<POI MapID="1210" xpos="656.078" ypos="181.709" zpos="13.5059" type="path_of_fire.oasis_de_cristal.pelerins_perdus" GUID="Skbe5YRjfES3/vTZ3N3Vww==" iconFile="Img\Cristaldevision.png"  behavior="0" />
+		<POI MapID="1210" xpos="656.078" ypos="181.709" zpos="13.5059" type="path_of_fire.oasis_de_cristal.pelerins_perdus" GUID="Hg2th1xue06gwvUmEs6TkQ==" iconFile="Img\1.png" heightOffset="5" triggerRange="10"/>
+
+		<POI MapID="1210" xpos="647.985" ypos="182.026" zpos="16.0692" type="path_of_fire.oasis_de_cristal.pelerins_perdus.guide" GUID="ps6jpg2Ez06v6ALaRempXQ=="/>
+		<POI MapID="1210" xpos="628.118" ypos="187.06" zpos="22.5011" type="path_of_fire.oasis_de_cristal.pelerins_perdus.guide" GUID="LJlFKQBswESqdjat3AegKQ=="/>
+		<POI MapID="1210" xpos="614.635" ypos="188.884" zpos="39.8661" type="path_of_fire.oasis_de_cristal.pelerins_perdus.guide" GUID="0GNv+cHAdUa71bvyGiMWUQ=="/>
+		<POI MapID="1210" xpos="593.652" ypos="186.741" zpos="52.3885" type="path_of_fire.oasis_de_cristal.pelerins_perdus.guide" GUID="/5/i4uzUJki4u9J4NuBGZw=="/>
+		<POI MapID="1210" xpos="576.952" ypos="184.957" zpos="72.9736" type="path_of_fire.oasis_de_cristal.pelerins_perdus.guide" GUID="1l1EzWmynE+3tth+agk7Kg==" iconFile="Img\PanneauFrappesolNiv3.png" iconSize="1.5" heightOffset="0"/>
+		<POI MapID="1210" xpos="579.023" ypos="207.107" zpos="81.6691" type="path_of_fire.oasis_de_cristal.pelerins_perdus.guide" GUID="u7gKF2nd3Uin2EdSHto/Vg=="/>
+		<POI MapID="1210" xpos="577.773" ypos="211.368" zpos="90.8594" type="path_of_fire.oasis_de_cristal.pelerins_perdus.guide" GUID="C8LuG0lTRUmolf+q9t2FdA=="/>
+		<POI MapID="1210" xpos="566.527" ypos="215.244" zpos="111.296" type="path_of_fire.oasis_de_cristal.pelerins_perdus.guide" GUID="08dNzqz2L0WAYlLeK+7Idw=="/>
+		<POI MapID="1210" xpos="558.354" ypos="220.132" zpos="120.292" type="path_of_fire.oasis_de_cristal.pelerins_perdus.guide" GUID="cgtcW4EzpE2efffMbexnqQ=="/>
+		<POI MapID="1210" xpos="546.274" ypos="228.29" zpos="131.2" type="path_of_fire.oasis_de_cristal.pelerins_perdus.guide" GUID="ZjyZJNS1YE6QpOX8Y6fb0g=="/>
+
+		<POI MapID="1210" xpos="531.275" ypos="228.027" zpos="164.233" type="path_of_fire.oasis_de_cristal.pelerins_perdus" GUID="q3rFmpAWEUmJJVOZUJ2nHg=="/>
+		<POI MapID="1210" xpos="531.275" ypos="228.027" zpos="164.233" type="path_of_fire.oasis_de_cristal.pelerins_perdus" GUID="vm8OubFp7k+QL+hqvf4ijw==" iconFile="Img\2.png" heightOffset="5" triggerRange="10"/>
+
+		<!-- 2. Kahdat le prêtre ritualiste -->
+		<POI MapID="1210" xpos="800.362" ypos="83.2113" zpos="254.763" type="path_of_fire.oasis_de_cristal.pelerins_perdus" GUID="9Dka6IshEkK/Ttuv1VINiw==" iconFile="Img\Cristaldevision.png"  behavior="0"/>
+		<POI MapID="1210" xpos="800.362" ypos="83.2113" zpos="254.763" type="path_of_fire.oasis_de_cristal.pelerins_perdus" GUID="15mhq3q7Z0W99x2LTZXa0A==" iconFile="Img\1.png" heightOffset="5"/>
+
+		<POI MapID="1210" xpos="916.671" ypos="56.9523" zpos="286.444" type="path_of_fire.oasis_de_cristal.pelerins_perdus" GUID="hBYyv2NJ/kK6DgcZ+iqNoQ=="/>
+		<POI MapID="1210" xpos="916.671" ypos="56.9523" zpos="286.444" type="path_of_fire.oasis_de_cristal.pelerins_perdus" GUID="0MJHYEvMhEq1jlJ8UbgB3w==" iconFile="Img\2.png" heightOffset="5"/>
+
+		<!-- 3. Nahtem le prêtre ritualiste -->
+		<POI MapID="1210" xpos="585.312" ypos="222.078" zpos="415.671" type="path_of_fire.oasis_de_cristal.pelerins_perdus.guide" GUID="GLd64yvSCUiG41ToXz/b7g==" iconFile="Img\PanneauFrappesol.png" heightOffset="0"/>
+		<POI MapID="1210" xpos="558.65" ypos="230.467" zpos="413.389" type="path_of_fire.oasis_de_cristal.pelerins_perdus" iconFile="Img\Cristaldevision.png" behavior="0" GUID="2tBiugXNo0KqGiN9zLEuPg=="/>
+		<POI MapID="1210" xpos="558.65" ypos="230.467" zpos="413.389" type="path_of_fire.oasis_de_cristal.pelerins_perdus" iconFile="Img\1.png" heightOffset="5" GUID="XCGY0VN9QEijEU9pqKd8Vw=="/>
+
+		<POI MapID="1210" xpos="606.116" ypos="286.866" zpos="373.158" type="path_of_fire.oasis_de_cristal.pelerins_perdus" GUID="xoj7Q7cG1EScErF2ySZAaQ=="/>
+		<POI MapID="1210" xpos="606.116" ypos="286.866" zpos="373.158" type="path_of_fire.oasis_de_cristal.pelerins_perdus" GUID="iMGACf+MakKzQIdp318FSQ==" iconFile="Img\2.png" heightOffset="5"/>
+
+	</POIs>
+</OverlayData>

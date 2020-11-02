@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+POIs: Cloud Strife.7492 - Xenophy.2716 - ReActif.9251
+Date: 2017/08/23
+-->
+<OverlayData>
+	<MarkerCategory name="general" DisplayName="General">
+		<MarkerCategory name="puzzles_de_saut" DisplayName="Jumping Puzzles" iconFile="Img\Guide.png" iconSize="0.75">
+			<MarkerCategory name="mine_stigmatisee" DisplayName="Branded Mine"/>
+		</MarkerCategory>
+	</MarkerCategory>
+
+	<POIs>
+
+		<!-- Début -->
+		<POI MapID="21" xpos="-759.19" ypos="26.35" zpos="584.09" type="general.puzzles_de_saut.debut" GUID="CPrLxd29WEeCJNvqqvKxPQ=="/>
+
+		<!-- Route -->
+		<Route MapID="21" name="Mine_Stigmatisee" resetposx="-759.19" resetposy="26.35" resetposz="584.09" resetrange="2">
+			<POI MapID="21" xpos="-771.2" ypos="24.1364" zpos="582.475" type="general.puzzles_de_saut.mine_stigmatisee" GUID="sZErRMh9yUiwigU4wiK/qQ=="/>
+			<POI MapID="21" xpos="-784.926" ypos="21.6603" zpos="578.329" type="general.puzzles_de_saut.mine_stigmatisee" GUID="o3bLSMgU2UCTAJBLFNj12A=="/>
+			<POI MapID="21" xpos="-796.803" ypos="19.8892" zpos="574.869" type="general.puzzles_de_saut.mine_stigmatisee" GUID="zpzjJ9F2/UauqHW7mgWDIQ=="/>
+			<POI MapID="21" xpos="-808.828" ypos="20.0164" zpos="571.714" type="general.puzzles_de_saut.mine_stigmatisee" GUID="xiqTBCUV0Eqk57k5N/wi4A=="/>
+			<POI MapID="21" xpos="-823.025" ypos="22.9597" zpos="571.784" type="general.puzzles_de_saut.mine_stigmatisee" GUID="NnEuHh62lE6lSm05zteIuw=="/>
+			<POI MapID="21" xpos="-824.827" ypos="22.1279" zpos="578.392" type="general.puzzles_de_saut.mine_stigmatisee" GUID="LIXe+e4jSUuAIECbL/0VHg=="/>
+			<POI MapID="21" xpos="-823.468" ypos="22.6719" zpos="586.722" type="general.puzzles_de_saut.mine_stigmatisee" GUID="+AtZeYKJm0SK+gmknbNH5A=="/>
+			<POI MapID="21" xpos="-824.951" ypos="28.2812" zpos="591.98" type="general.puzzles_de_saut.mine_stigmatisee" GUID="tgNjeJHP40inSQmVFxqqHg=="/>
+			<POI MapID="21" xpos="-826.386" ypos="32.0139" zpos="601.559" type="general.puzzles_de_saut.mine_stigmatisee" GUID="wAAy6XQrgEmwgzQFIUC4eg=="/>
+			<POI MapID="21" xpos="-827.121" ypos="32.8671" zpos="606.092" type="general.puzzles_de_saut.mine_stigmatisee" GUID="zE1gfzkcaEae0d7DC+oD/w=="/>
+			<POI MapID="21" xpos="-830.574" ypos="33.4869" zpos="613.706" type="general.puzzles_de_saut.mine_stigmatisee" GUID="jaCNWdYdpkmsnn9oQYCb0A=="/>
+			<POI MapID="21" xpos="-832.726" ypos="33.4333" zpos="619.754" type="general.puzzles_de_saut.mine_stigmatisee" GUID="GZUaTYc290erRVfVvkvZSw=="/>
+			<POI MapID="21" xpos="-839.963" ypos="35.1834" zpos="620.65" type="general.puzzles_de_saut.mine_stigmatisee" GUID="V/a0OkzSsUWuNdkX+WF9NQ=="/>
+			<POI MapID="21" xpos="-844.2" ypos="36.0198" zpos="617.339" type="general.puzzles_de_saut.mine_stigmatisee" GUID="CUpjhj0JSE+W0gIxtAUo3A=="/>
+			<POI MapID="21" xpos="-849.206" ypos="37.966" zpos="615.585" type="general.puzzles_de_saut.mine_stigmatisee" GUID="iy+fDJQRXkSJTNFXOAGieA=="/>
+			<POI MapID="21" xpos="-860.094" ypos="37.966" zpos="618.377" type="general.puzzles_de_saut.mine_stigmatisee" GUID="xkDdzD+cA065A/aZKaiOsA=="/>
+			<POI MapID="21" xpos="-868.555" ypos="39.5715" zpos="615.606" type="general.puzzles_de_saut.mine_stigmatisee" GUID="+1+2jXKvXki+xp2w0nDCfg=="/>
+			<POI MapID="21" xpos="-870.681" ypos="41.0072" zpos="620.634" type="general.puzzles_de_saut.mine_stigmatisee" GUID="gUeADE4EAkeZRQdK/G1Ruw=="/>
+			<POI MapID="21" xpos="-874.605" ypos="41.502" zpos="624.704" type="general.puzzles_de_saut.mine_stigmatisee" GUID="ulS60G6ZvUGifuk+o+z1Gg=="/>
+			<POI MapID="21" xpos="-879.788" ypos="42.1309" zpos="629.972" type="general.puzzles_de_saut.mine_stigmatisee" GUID="ZK0njz6MPkaRhYSIeCGaTA=="/>
+			<POI MapID="21" xpos="-885.507" ypos="42.7336" zpos="628.589" type="general.puzzles_de_saut.mine_stigmatisee" GUID="DVz6GpPeAEWW0/vyBet+nA=="/>
+			<POI MapID="21" xpos="-888.373" ypos="41.3366" zpos="623.208" type="general.puzzles_de_saut.mine_stigmatisee" GUID="qzewTEU3Fke19moPxnTFKw=="/>
+			<POI MapID="21" xpos="-894.64" ypos="42.6216" zpos="619.113" type="general.puzzles_de_saut.mine_stigmatisee" GUID="D4U374N2aEy85iDDPejCwg=="/>
+			<POI MapID="21" xpos="-893.745" ypos="42.3445" zpos="613.139" type="general.puzzles_de_saut.mine_stigmatisee" GUID="nNQpDNKwFEeKZMy7VRJbeg=="/>
+			<POI MapID="21" xpos="-887.478" ypos="45.6578" zpos="608.161" type="general.puzzles_de_saut.mine_stigmatisee" GUID="3CV0fqCEn0avV8qiy+v0XQ=="/>
+			<POI MapID="21" xpos="-880.131" ypos="44.8296" zpos="602.37" type="general.puzzles_de_saut.mine_stigmatisee" GUID="qcqzAlh01UGgfKtelvDdAA=="/>
+			<POI MapID="21" xpos="-883.871" ypos="46.6442" zpos="596.234" type="general.puzzles_de_saut.mine_stigmatisee" GUID="ZNbamQIvzkKwhbGYmAP9Ew=="/>
+			<POI MapID="21" xpos="-885.739" ypos="48.2757" zpos="589.448" type="general.puzzles_de_saut.mine_stigmatisee" GUID="fqsg5rIpgUS1jeJqBHgX/w=="/>
+			<POI MapID="21" xpos="-885.084" ypos="52.2626" zpos="580.24" type="general.puzzles_de_saut.mine_stigmatisee" GUID="e82yFX3fm0qBgQW4lViMDg=="/>
+			<POI MapID="21" xpos="-891.821" ypos="46.117" zpos="578.434" type="general.puzzles_de_saut.mine_stigmatisee" GUID="lm83GMP+lEOspj061rT+Bw=="/>
+			<POI MapID="21" xpos="-892.646" ypos="43.2589" zpos="568.493" type="general.puzzles_de_saut.mine_stigmatisee" GUID="cO30jXoL/kGl0x9r28n2hA=="/>
+			<POI MapID="21" xpos="-892.099" ypos="38.9694" zpos="559.235" type="general.puzzles_de_saut.mine_stigmatisee" GUID="P2ZrkwhXYE+6XdedhkwhNA=="/>
+			<POI MapID="21" xpos="-883.353" ypos="41.4706" zpos="557.572" type="general.puzzles_de_saut.mine_stigmatisee" GUID="R1ES9McrP0KKB98FlTGUog=="/>
+			<POI MapID="21" xpos="-872.137" ypos="46.7573" zpos="553.597" type="general.puzzles_de_saut.mine_stigmatisee" GUID="Gp7tW5DAekGmBvsP0lM3Hw=="/>
+			<POI MapID="21" xpos="-865.371" ypos="44.311" zpos="554.17" type="general.puzzles_de_saut.mine_stigmatisee" GUID="KRDAIB6yBUi3zSoedDw5DQ=="/>
+			<POI MapID="21" xpos="-863.596" ypos="46.8226" zpos="550.126" type="general.puzzles_de_saut.mine_stigmatisee" GUID="6uecdMz13E6Ixso14LH36A=="/>
+			<POI MapID="21" xpos="-861.095" ypos="49.9869" zpos="545.274" type="general.puzzles_de_saut.mine_stigmatisee" GUID="fUaRuwt3qEW/b3c/GjFyww=="/>
+			<POI MapID="21" xpos="-864.392" ypos="49.2589" zpos="543.478" type="general.puzzles_de_saut.mine_stigmatisee" GUID="hEpCh0rSXE2jj7Qmf9b8hg=="/>
+			<POI MapID="21" xpos="-857.658" ypos="45.5581" zpos="535.834" type="general.puzzles_de_saut.mine_stigmatisee" GUID="x0lAnxjCq0WRcYoXeW8Mkw=="/>
+			<POI MapID="21" xpos="-852.196" ypos="42.7287" zpos="527.065" type="general.puzzles_de_saut.mine_stigmatisee" GUID="lNvEv3T89UKXMEHyodL9ig=="/>
+			<POI MapID="21" xpos="-863.152" ypos="42.476" zpos="521.869" type="general.puzzles_de_saut.mine_stigmatisee" GUID="TNANMLs7ykWuZc7UcVaE/A=="/>
+			<POI MapID="21" xpos="-878.193" ypos="45.3661" zpos="518.748" type="general.puzzles_de_saut.mine_stigmatisee" GUID="yodc/egd6EGU33+10FzTbQ=="/>
+			<POI MapID="21" xpos="-888.985" ypos="45.4808" zpos="520.858" type="general.puzzles_de_saut.mine_stigmatisee" GUID="TdA94OvPp0mWdLWpTnlKBw=="/>
+			<POI MapID="21" xpos="-893.948" ypos="45.1043" zpos="524.864" type="general.puzzles_de_saut.mine_stigmatisee" GUID="0kPuydrvsUuknhaitYvJ3A=="/>
+			<POI MapID="21" xpos="-898.226" ypos="45.5467" zpos="527.053" type="general.puzzles_de_saut.mine_stigmatisee" GUID="SbhlyDvFdUqQnomBckMbXQ=="/>
+			<POI MapID="21" xpos="-900.295" ypos="46.2279" zpos="530.858" type="general.puzzles_de_saut.mine_stigmatisee" GUID="hDU5d6WTJESIcnYAsVFT4Q=="/>
+			<POI MapID="21" xpos="-904.765" ypos="46.4397" zpos="534.085" type="general.puzzles_de_saut.mine_stigmatisee" GUID="aTVMJVWA1k+a/ElL0pUsFQ=="/>
+			<POI MapID="21" xpos="-914.474" ypos="47.9849" zpos="538.145" type="general.puzzles_de_saut.mine_stigmatisee" GUID="pVheVy2TQUWJWz6HONkKTg=="/>
+			<POI MapID="21" xpos="-921.136" ypos="49.6451" zpos="543.439" type="general.puzzles_de_saut.mine_stigmatisee" GUID="q1yIqtGAG0CozOlDyhzHEA=="/>
+		</Route>
+
+		<!-- Coffre -->
+		<POI MapID="21" xpos="-928.727" ypos="51.6522" zpos="549.342" type="general.puzzles_de_saut.mine_stigmatisee" GUID="2WPTmH2LtEyHrz8TNb4H4A==" iconFile="Img\CoffrePuzzle.png" iconSize="1" heightOffset="3" behavior="2"/>
+
+	</POIs>
+</OverlayData>

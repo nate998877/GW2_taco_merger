@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+POIs: TMKFrench.6427
+Date: 2017/05/09
+-->
+<OverlayData>
+	<MarkerCategory name="astuces" DisplayName="Tips (No Achievement)">
+		<MarkerCategory name="maitrises" DisplayName="Masteries (Access)">
+			<MarkerCategory name="oree_d_emeraude" DisplayName="Verdant Brink">
+				<MarkerCategory name="canopee_surplombant_le_campement_du_pacte" DisplayName="Canopy over Pact Encampment" iconFile="Img\Guide.png" iconSize="0.75" triggerRange="3"/>
+			</MarkerCategory>
+		</MarkerCategory>
+	</MarkerCategory>
+
+	<POIs>
+
+		<!-- Début -->
+		<POI MapID="1052" xpos="117.57" ypos="661.793" zpos="-101.494" type="astuces.maitrises.oree_d_emeraude.canopee_surplombant_le_campement_du_pacte" GUID="FvBNQo9y9k+b6Kvk92fC4w==" iconFile="Img\MaitriseHOT.png" iconSize="1.5"/>
+
+		<!-- Route -->
+		<Route MapID="1052" Name="Canopee_Surplombant_le_Campement_du_Pacte" resetposx="117.57" resetposy="661.793" resetposz="-101.494" resetrange="2">
+			<POI MapID="1052" xpos="101.244" ypos="677.495" zpos="-84.6507" type="astuces.maitrises.oree_d_emeraude.canopee_surplombant_le_campement_du_pacte" GUID="s848tEK7YE6Y2K0apsO31g=="/>
+			<POI MapID="1052" xpos="98.8762" ypos="679.607" zpos="-91.9617" type="astuces.maitrises.oree_d_emeraude.canopee_surplombant_le_campement_du_pacte" GUID="IGwz7h056Ueb+G4qbNCnwQ=="/>
+			<POI MapID="1052" xpos="85.6885" ypos="683.134" zpos="-92.1131" type="astuces.maitrises.oree_d_emeraude.canopee_surplombant_le_campement_du_pacte" GUID="hc+066FqUEiHgTTeTFw/jw=="/>
+			<POI MapID="1052" xpos="79.1149" ypos="683.277" zpos="-97.9124" type="astuces.maitrises.oree_d_emeraude.canopee_surplombant_le_campement_du_pacte" GUID="T5uiCItnmkq6+cdRYOz4WA=="/>
+			<POI MapID="1052" xpos="84.7916" ypos="687.598" zpos="-102.284" type="astuces.maitrises.oree_d_emeraude.canopee_surplombant_le_campement_du_pacte" GUID="ZToY6Z/InUizWW6pdR76Qg=="/>
+			<POI MapID="1052" xpos="73.0695" ypos="687.322" zpos="-101.072" type="astuces.maitrises.oree_d_emeraude.canopee_surplombant_le_campement_du_pacte" GUID="PNOozFgLTkirPVEadU2pSQ=="/>
+			<POI MapID="1052" xpos="63.0765" ypos="688.804" zpos="-82.97" type="astuces.maitrises.oree_d_emeraude.canopee_surplombant_le_campement_du_pacte" GUID="aMSx9FEX7EmKfmmd59O0Bw=="/>
+			<POI MapID="1052" xpos="74.6001" ypos="692.54" zpos="-80.8566" type="astuces.maitrises.oree_d_emeraude.canopee_surplombant_le_campement_du_pacte" GUID="guDZMbA97k2DHeucd1X6jg=="/>
+			<POI MapID="1052" xpos="82.5719" ypos="694.085" zpos="-82.3388" type="astuces.maitrises.oree_d_emeraude.canopee_surplombant_le_campement_du_pacte" GUID="U4KA9cmv+0ylxSDE8KwriA=="/>
+			<POI MapID="1052" xpos="94.2698" ypos="702.424" zpos="-86.0382" type="astuces.maitrises.oree_d_emeraude.canopee_surplombant_le_campement_du_pacte" GUID="tNCfCkZdNk6mX2Qu32ah/A=="/>
+			<POI MapID="1052" xpos="99.1883" ypos="703.927" zpos="-93.6084" type="astuces.maitrises.oree_d_emeraude.canopee_surplombant_le_campement_du_pacte" GUID="D1vdJEBMYUWPkCf6WzJ/Rg=="/>
+			<POI MapID="1052" xpos="94.7799" ypos="705.095" zpos="-96.6072" type="astuces.maitrises.oree_d_emeraude.canopee_surplombant_le_campement_du_pacte" GUID="8OWNnkERUEKJYL8XvYAsJg=="/>
+			<POI MapID="1052" xpos="89.9573" ypos="703.077" zpos="-95.0392" type="astuces.maitrises.oree_d_emeraude.canopee_surplombant_le_campement_du_pacte" GUID="8rG673e8OEWxTl/Tkm2r4Q=="/>
+			<POI MapID="1052" xpos="86.2968" ypos="704.297" zpos="-90.2495" type="astuces.maitrises.oree_d_emeraude.canopee_surplombant_le_campement_du_pacte" GUID="EIFGKVYESkys5jDgBDwX9A=="/>
+			<POI MapID="1052" xpos="79.2306" ypos="707.385" zpos="-95.535" type="astuces.maitrises.oree_d_emeraude.canopee_surplombant_le_campement_du_pacte" GUID="J4CyE/sNTkauO5dk+Rro/w=="/>
+			<POI MapID="1052" xpos="75.7217" ypos="708.542" zpos="-93.8015" type="astuces.maitrises.oree_d_emeraude.canopee_surplombant_le_campement_du_pacte" GUID="ZWfETP6CUkGW+bC0Mo5R9Q=="/>
+			<POI MapID="1052" xpos="77.3276" ypos="708.478" zpos="-87.8445" type="astuces.maitrises.oree_d_emeraude.canopee_surplombant_le_campement_du_pacte" GUID="deFC/hCf7EKkvCFYQXLahA=="/>
+			<POI MapID="1052" xpos="67.6485" ypos="707.666" zpos="-89.2017" type="astuces.maitrises.oree_d_emeraude.canopee_surplombant_le_campement_du_pacte" GUID="wQniUj8Ks0WvWi24L/NxAA=="/>
+			<POI MapID="1052" xpos="65.9243" ypos="708.631" zpos="-83.8233" type="astuces.maitrises.oree_d_emeraude.canopee_surplombant_le_campement_du_pacte" GUID="qImCBNGto0WqNzvM5ukPPg=="/>
+			<POI MapID="1052" xpos="68.8251" ypos="708.932" zpos="-74.3021" type="astuces.maitrises.oree_d_emeraude.canopee_surplombant_le_campement_du_pacte" GUID="9iQTSg/J3kivVSUt++Nh/A=="/>
+			<POI MapID="1052" xpos="75.0694" ypos="706.148" zpos="-74.849" type="astuces.maitrises.oree_d_emeraude.canopee_surplombant_le_campement_du_pacte" GUID="+fQQ8nc/kkilBpqaMwwCmg=="/>
+			<POI MapID="1052" xpos="81.172" ypos="709.31" zpos="-75.1702" type="astuces.maitrises.oree_d_emeraude.canopee_surplombant_le_campement_du_pacte" GUID="+tNYm0oV806XuRQ4SFkRKw=="/>
+			<POI MapID="1052" xpos="93.974" ypos="714.606" zpos="-76.9685" type="astuces.maitrises.oree_d_emeraude.canopee_surplombant_le_campement_du_pacte" GUID="LjzTw/T6KUaX3JhWtWHaFw=="/>
+			<POI MapID="1052" xpos="95.9737" ypos="717.661" zpos="-85.1149" type="astuces.maitrises.oree_d_emeraude.canopee_surplombant_le_campement_du_pacte" GUID="6pC2AHUX7UOT0mTNkd64tw=="/>
+			<POI MapID="1052" xpos="94.1345" ypos="717.932" zpos="-90.6507" type="astuces.maitrises.oree_d_emeraude.canopee_surplombant_le_campement_du_pacte" GUID="jf3fdV2nWUK8REYHESS2qA=="/>
+			<POI MapID="1052" xpos="89.5517" ypos="717.712" zpos="-92.6185" type="astuces.maitrises.oree_d_emeraude.canopee_surplombant_le_campement_du_pacte" GUID="eHYeyhnL/keqTIX/FuAPwA=="/>
+			<POI MapID="1052" xpos="82.7134" ypos="717.783" zpos="-91.1611" type="astuces.maitrises.oree_d_emeraude.canopee_surplombant_le_campement_du_pacte" GUID="jKi7L70VVUaYUUgH7h6gkw=="/>
+			<POI MapID="1052" xpos="77.4546" ypos="720.965" zpos="-96.7184" type="astuces.maitrises.oree_d_emeraude.canopee_surplombant_le_campement_du_pacte" GUID="mdJ3xZsD7USLDrwY6740sQ=="/>
+			<POI MapID="1052" xpos="75.8806" ypos="722.659" zpos="-91.5167" type="astuces.maitrises.oree_d_emeraude.canopee_surplombant_le_campement_du_pacte" GUID="IyhgcryIIkyEsKjp5SSZ3g=="/>
+			<POI MapID="1052" xpos="85.802" ypos="722.637" zpos="-93.938" type="astuces.maitrises.oree_d_emeraude.canopee_surplombant_le_campement_du_pacte" GUID="CZ2bB19RNU6SlaNX4gV2jQ=="/>
+			<POI MapID="1052" xpos="92.3434" ypos="724.018" zpos="-92.5463" type="astuces.maitrises.oree_d_emeraude.canopee_surplombant_le_campement_du_pacte" GUID="j2W5xNsy5UisY0fre0k30A=="/>
+			<POI MapID="1052" xpos="95.6369" ypos="726.337" zpos="-89.109" type="astuces.maitrises.oree_d_emeraude.canopee_surplombant_le_campement_du_pacte" GUID="Hu35RGZ9kU2nLLvLwtz2Ng=="/>
+		</Route>
+
+		<!-- Arrivée -->
+		<POI MapID="1052" xpos="98.0072" ypos="727.961" zpos="-90.5223" type="astuces.maitrises.oree_d_emeraude.canopee_surplombant_le_campement_du_pacte" GUID="DlEiyboCrUOZul8w3ScA7w==" iconFile="Img\MaitriseHOT.png" behavior="3"/>
+
+	</POIs>
+</OverlayData>

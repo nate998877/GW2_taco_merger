@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+POIs: Lulleh.6714 - Ainillia.5794 - Elycian - ReActif.9151
+Date: 2017/04/06
+-->
+<OverlayData>
+	<MarkerCategory name="festivals" DisplayName="Seasonal Events">
+		<MarkerCategory name="super_adventure_box" DisplayName="Super Adventure Box" iconSize="0.5" fadeNear="6000" fadeFar="7000">
+			<MarkerCategory name="passages" DisplayName="Hidden Passages" iconFile="Img\Guide.png" heightOffset="0" fadeNear="2400" fadeFar="2600">
+				<MarkerCategory name="bombes" DisplayName="Bomb" iconFile="Img\Bombe.png" color="ffff0000" heightOffset="0.5"/>
+			</MarkerCategory>
+		</MarkerCategory>
+	</MarkerCategory>
+
+	<POIs>
+
+		<!-- Monde 1 - Zone 1 -->
+		<POI MapID="895" xpos="-1408.2" ypos="50.4266" zpos="430" type="festivals.super_adventure_box.passages.bombes" GUID="m7C+LBJc60+TXpUHTS/W2Q=="/>
+		<POI MapID="895" xpos="-1282.2" ypos="48.65" zpos="525.918" type="festivals.super_adventure_box.passages.bombes" GUID="b57cWZVz7EOpj0iSCePlog=="/>
+		<POI MapID="895" xpos="-1125.27" ypos="48.5" zpos="500.559" type="festivals.super_adventure_box.passages.bombes" GUID="lR3oa85SSEyWNB6WQ7pXUA=="/>
+		<POI MapID="895" xpos="-1057.24" ypos="56.65" zpos="494.715" type="festivals.super_adventure_box.passages.bombes" GUID="SatWxMml0EuOheFfl3M8Mg=="/>
+		<POI MapID="895" xpos="-976.534" ypos="49.2112" zpos="438.078" type="festivals.super_adventure_box.passages.bombes" GUID="zCigHOhc/U6XgeK10ThQEQ=="/>
+		<POI MapID="895" xpos="-918" ypos="49" zpos="447.6" type="festivals.super_adventure_box.passages.bombes" GUID="n2zTx8haLEeXs/oG8vWBbQ=="/>
+
+		<!-- Monde 1 - Zone 2 -->
+		<POI MapID="895" xpos="-653.657" ypos="52.1" zpos="484.646" type="festivals.super_adventure_box.passages.bombes" GUID="0KtnpkkodUae+PhnePCUDw=="/>
+		<POI MapID="895" xpos="-297.079" ypos="54" zpos="449.909" type="festivals.super_adventure_box.passages.bombes" GUID="Q2sRVvPsiEOxni4+rJ0rNA=="/>
+		<POI MapID="895" xpos="-180.229" ypos="53.3255" zpos="452.722" type="festivals.super_adventure_box.passages.bombes" GUID="WBlP2yHtwEm97t3pe03JYA=="/>
+		<POI MapID="895" xpos="-43.2359" ypos="51.95" zpos="525.408" type="festivals.super_adventure_box.passages.bombes" GUID="HrW2ny1lvEilwid++G5ntg=="/>
+
+		<!-- Monde 1 - Zone 3 -->
+		<POI MapID="895" xpos="-875.886" ypos="61.48" zpos="349.629" type="festivals.super_adventure_box.passages.bombes" GUID="u5JUtNPH4UGiWMqIutLDsw=="/>
+		<POI MapID="895" xpos="-585.844" ypos="20.729" zpos="353.633" type="festivals.super_adventure_box.passages.bombes" GUID="/paH0wXimUm+6QPEmch6vQ=="/>
+		<POI MapID="895" xpos="-617.546" ypos="9.44693" zpos="349.89" type="festivals.super_adventure_box.passages.bombes" GUID="gmZUZYi2z0CJKhmIVzIoQA=="/>
+		<POI MapID="895" xpos="-322.886" ypos="54.2475" zpos="287.897" type="festivals.super_adventure_box.passages.bombes" GUID="b7mzHacV/Uq/xuKojKEaQA=="/>
+
+
+		<!-- Monde 2 - Zone 1 -->
+		<POI MapID="934" xpos="-569.001" ypos="223.664" zpos="-441.555" type="festivals.super_adventure_box.passages.bombes" GUID="86oGyHiKmE+1cXf+RIqPuQ=="/>
+		<POI MapID="934" xpos="-243.691" ypos="226.984" zpos="-327.394" type="festivals.super_adventure_box.passages.bombes" GUID="Mb+p43mZF0C/imgmg1CQfA=="/>
+		<POI MapID="934" xpos="-232.064" ypos="226.784" zpos="-331.308" type="festivals.super_adventure_box.passages.bombes" GUID="aX+x5N31yUCFRDB2iJq9Xg=="/>
+		<POI MapID="934" xpos="-229.973" ypos="210.694" zpos="-291.903" type="festivals.super_adventure_box.passages.bombes" GUID="cwBQseLhNkKgy9h83JUXDA=="/>
+		<POI MapID="934" xpos="-226.761" ypos="205.722" zpos="-166.142" type="festivals.super_adventure_box.passages.bombes" GUID="oAd2or5iBUCWHnavjiNE/g=="/>
+		<POI MapID="934" xpos="-226.344" ypos="185" zpos="-242.938" type="festivals.super_adventure_box.passages.bombes" GUID="CsjdhN0juEy3QEj1a4w+rg=="/>
+		<POI MapID="934" xpos="-208.456" ypos="172.187" zpos="-282.764" type="festivals.super_adventure_box.passages.bombes" GUID="N37gusn6WkOuOzxEKHHx/g=="/>
+		<POI MapID="934" xpos="-128.776" ypos="240" zpos="-390.357" type="festivals.super_adventure_box.passages.bombes" GUID="vXrihKLjikiL784koHIHVw=="/>
+
+		<!-- Monde 2 - Zone 2 -->
+		<POI MapID="934" xpos="333" ypos="274.143" zpos="-50.8749" type="festivals.super_adventure_box.passages.bombes" GUID="h/bWeUlFKUqmug3C4bbpZg=="/>
+		<POI MapID="934" xpos="342.821" ypos="286.954" zpos="-49.9104" type="festivals.super_adventure_box.passages.bombes" GUID="zzFjF248nEuxrRWgOzuEgw=="/>
+		<POI MapID="934" xpos="482.317" ypos="278.804" zpos="-83.4174" type="festivals.super_adventure_box.passages.bombes" GUID="sUfzGbrzHkqs4e8uTCE/Vw=="/>
+		<POI MapID="934" xpos="490.64" ypos="318.178" zpos="-62.522" type="festivals.super_adventure_box.passages.bombes" GUID="7yhRTASmkEC8apNd2RdocA=="/>
+		<POI MapID="934" xpos="490.887" ypos="305.75" zpos="-51.7096" type="festivals.super_adventure_box.passages.bombes" GUID="fnQhc94j4Ei3YL8ZDW4Exw=="/>
+		<POI MapID="934" xpos="606.39" ypos="278.3" zpos="-129.622" type="festivals.super_adventure_box.passages.bombes" GUID="9vo83UaK9UORFmwIuN0/cA=="/>
+
+		<!-- Monde 2 - Zone 3 -->
+		<POI MapID="934" xpos="-407" ypos="360.1" zpos="467.062" type="festivals.super_adventure_box.passages.bombes" GUID="hx9EQS0QfUGBBIYCkjtHBg=="/>
+		<POI MapID="934" xpos="-377.289" ypos="334.571" zpos="188.503" type="festivals.super_adventure_box.passages.bombes" GUID="4+1EcWOxGEmuv9VvMY2ukA=="/>
+		<POI MapID="934" xpos="-78.9918" ypos="66" zpos="74" type="festivals.super_adventure_box.passages.bombes" GUID="YEp3dnsS9EaXVS2fYpMCqg=="/>
+		<POI MapID="934" xpos="-63.2739" ypos="239.222" zpos="387.783" type="festivals.super_adventure_box.passages.bombes" GUID="UpKyTGHFkEiNRsX5s4qBaA=="/>
+		<POI MapID="934" xpos="-59.6934" ypos="67.0386" zpos="63.1432" type="festivals.super_adventure_box.passages.bombes" GUID="yQUpbE3a5kyG/3Ow0EgEaA=="/>
+		<POI MapID="934" xpos="-42.1797" ypos="35.45" zpos="87.8461" type="festivals.super_adventure_box.passages.bombes" GUID="yfWipU7QsUik5H/lAm2Tqw=="/>
+		<POI MapID="934" xpos="-21.7191" ypos="166.363" zpos="67.922" type="festivals.super_adventure_box.passages.bombes" GUID="QHhR91BoCE+4K8gHSGdOMA=="/>
+		<POI MapID="934" xpos="-19.2266" ypos="69.8938" zpos="120.063" type="festivals.super_adventure_box.passages.bombes" GUID="cJDqoAUke0WdypbRQV7Nlw=="/>
+		<POI MapID="934" xpos="-17.0986" ypos="144.85" zpos="81.448" type="festivals.super_adventure_box.passages.bombes" GUID="oztdilVQX02C1Eb6lFAu0A=="/>
+		<POI MapID="934" xpos="-13.6028" ypos="228.5" zpos="245.974" type="festivals.super_adventure_box.passages.bombes" GUID="/5JO9HGQ+Ui2NUTJbkvE0g=="/>
+
+	</POIs>
+</OverlayData>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+POIs: ReActif.9251
+Date: 2017/08/11
+-->
+<OverlayData>
+	<MarkerCategory name="chroniques.saison_3">
+		<MarkerCategory name="ep6_le_bout_du_chemin" DisplayName="Ep.6 - One Path Ends" iconFile="Img\LeBoutduChemin.png">
+			<MarkerCategory name="conteur__lyssa" DisplayName="Storyteller: Lyssa"/>
+		</MarkerCategory>
+	</MarkerCategory>
+
+	<POIs>
+
+		<!-- 1 --><POI MapID="1203" xpos="136.766"  ypos="131.192"  zpos="308.689"  type="chroniques.saison_3.ep6_le_bout_du_chemin.conteur__lyssa" GUID="A0bt9oHNM0q+CTRNY4nC3g=="/>
+		<!-- 2 --><POI MapID="1203" xpos="83.4575"  ypos="149.445"  zpos="200.331"  type="chroniques.saison_3.ep6_le_bout_du_chemin.conteur__lyssa" GUID="KcxWgp9bEEKcKgbBUKpLfQ=="/>
+		<!-- 3 --><POI MapID="1203" xpos="111.201"  ypos="117.371"  zpos="202.041"  type="chroniques.saison_3.ep6_le_bout_du_chemin.conteur__lyssa" GUID="zfbVZGYtX0SLFgvZYbbiXQ=="/>
+		<!-- 4 --><POI MapID="1203" xpos="-185.947" ypos="173.309"  zpos="346.691"  type="chroniques.saison_3.ep6_le_bout_du_chemin.conteur__lyssa" GUID="SOPZwcsISEqJ8xMJ3QMAPA=="/>
+		<!-- 5 --><POI MapID="1203" xpos="-94.9231" ypos="143.538"  zpos="251.293"  type="chroniques.saison_3.ep6_le_bout_du_chemin.conteur__lyssa" GUID="5sQNr604c0mjJt0LTZesqw=="/>
+		<!-- 6 --><POI MapID="1203" xpos="89.69"    ypos="88.6261"  zpos="175.258"  type="chroniques.saison_3.ep6_le_bout_du_chemin.conteur__lyssa" GUID="OrR80QHLJ0CfKPfknRu4jQ=="/>
+		<!-- 7 --><POI MapID="1203" xpos="598.584"  ypos="-98.5145" zpos="-25.4449" type="chroniques.saison_3.ep6_le_bout_du_chemin.conteur__lyssa" GUID="a+9qgU+lkkWEv0OBhh1NSw=="/>
+		<!-- 8 --><POI MapID="1203" xpos="254.157"  ypos="-59.7019" zpos="333.723"  type="chroniques.saison_3.ep6_le_bout_du_chemin.conteur__lyssa" GUID="zXD3wrwF/EODiQFjH8HM0A=="/>
+
+	</POIs>
+</OverlayData>

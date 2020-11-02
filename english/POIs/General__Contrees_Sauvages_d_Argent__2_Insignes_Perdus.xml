@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+POIs: TMKFrench.6427 - ReActif.9251
+Date: 2017/02/24
+-->
+<OverlayData>
+	<MarkerCategory name="general" DisplayName="General">
+		<MarkerCategory name="contrees_sauvages_d_argent" DisplayName="The Silverwastes">
+			<MarkerCategory name="insignes_perdus" DisplayName="Lost Badges" iconFile="Img\ContreesSauvagesArgentIP.png" heightOffset="0" behavior="3"/>
+		</MarkerCategory>
+	</MarkerCategory>
+
+	<POIs>
+
+		<POI MapID="1015" xpos="-321.585" ypos="459.313" zpos="96.3433" type="general.contrees_sauvages_d_argent.insignes_perdus" GUID="1PXRZIz/BU6sumLMlErFqA=="/>
+		<POI MapID="1015" xpos="-276.624" ypos="420.142" zpos="294.238" type="general.contrees_sauvages_d_argent.insignes_perdus" GUID="tg2dVkCXYkKjQnanlMs7oA=="/>
+		<POI MapID="1015" xpos="-259.454" ypos="417.467" zpos="-104.029" type="general.contrees_sauvages_d_argent.insignes_perdus" GUID="ZQsqdY1MqUeByEgrqHYFGg=="/>
+		<POI MapID="1015" xpos="-236.686" ypos="412.121" zpos="177.254" type="general.contrees_sauvages_d_argent.insignes_perdus" GUID="WIWaCr1rzkaDuuez9gdz2A=="/>
+		<POI MapID="1015" xpos="-174.06" ypos="420.797" zpos="-299.846" type="general.contrees_sauvages_d_argent.insignes_perdus" GUID="Zt/Tqhrto0un9x6J/4FR4w=="/>
+		<POI MapID="1015" xpos="-168.081" ypos="417.508" zpos="-214.04" type="general.contrees_sauvages_d_argent.insignes_perdus" GUID="htpZOfLqv0mv0PqQ6suN5A=="/>
+		<POI MapID="1015" xpos="-166.695" ypos="450.026" zpos="-166.681" type="general.contrees_sauvages_d_argent.insignes_perdus" GUID="nDpPjoX5R06N2gwYQ5bOew=="/>
+		<POI MapID="1015" xpos="-115.947" ypos="425.392" zpos="-170.547" type="general.contrees_sauvages_d_argent.insignes_perdus" GUID="cINkVx8o2EK+EF7jxsrTXw=="/>
+		<POI MapID="1015" xpos="-95.3557" ypos="417.358" zpos="28.2995" type="general.contrees_sauvages_d_argent.insignes_perdus" GUID="rjjbkwOU9U+kv8bPaha8yQ=="/>
+		<POI MapID="1015" xpos="-85.4535" ypos="415.529" zpos="-204.635" type="general.contrees_sauvages_d_argent.insignes_perdus" GUID="GpoVfqsloEuJ8eYIcL+Mfw=="/>
+		<POI MapID="1015" xpos="-38.8185" ypos="403.879" zpos="237.641" type="general.contrees_sauvages_d_argent.insignes_perdus" GUID="rCA1+bcDm0qM7hED8OuMiA=="/>
+		<POI MapID="1015" xpos="-12.894" ypos="398.364" zpos="149.277" type="general.contrees_sauvages_d_argent.insignes_perdus" GUID="iS/9UQLIPke8gOojdSpp6A=="/>
+		<POI MapID="1015" xpos="-2.55579" ypos="412.944" zpos="-357.003" type="general.contrees_sauvages_d_argent.insignes_perdus" GUID="r92YnJhAaEijJMt6ySsw8g=="/>
+		<POI MapID="1015" xpos="17.9218" ypos="419.316" zpos="-206.993" type="general.contrees_sauvages_d_argent.insignes_perdus" GUID="YOijwq1P90eAkKndFhkYcA=="/>
+		<POI MapID="1015" xpos="57.7501" ypos="431.93" zpos="-295.858" type="general.contrees_sauvages_d_argent.insignes_perdus" GUID="qgTAuzFnYUSjRm3GQMUEGw=="/>
+		<POI MapID="1015" xpos="68.5165" ypos="421.855" zpos="115.741" type="general.contrees_sauvages_d_argent.insignes_perdus" GUID="WjyXRu74kE+U4Tmr7kYaug=="/>
+		<POI MapID="1015" xpos="121.861" ypos="449.975" zpos="-196.805" type="general.contrees_sauvages_d_argent.insignes_perdus" GUID="KAqvhjX9sUqrYjJO0MwDKQ=="/>
+		<POI MapID="1015" xpos="136.381" ypos="425.2" zpos="-324.099" type="general.contrees_sauvages_d_argent.insignes_perdus" GUID="QmW2/Dx1x0i+o+hPo/4l+w=="/>
+		<POI MapID="1015" xpos="172.67" ypos="429.139" zpos="46.7746" type="general.contrees_sauvages_d_argent.insignes_perdus" GUID="dkw5B0VaA0G35r21C7Wp8Q=="/>
+		<POI MapID="1015" xpos="234.912" ypos="366.793" zpos="0.0435093" type="general.contrees_sauvages_d_argent.insignes_perdus" GUID="UaOCxqThKEWrfxaq55kp5Q=="/>
+		<POI MapID="1015" xpos="252.379" ypos="423.17" zpos="-370.588" type="general.contrees_sauvages_d_argent.insignes_perdus" GUID="fLiyuL6C8k2Vsipt9F1w+A=="/>
+		<POI MapID="1015" xpos="394.149" ypos="434.129" zpos="-131.822" type="general.contrees_sauvages_d_argent.insignes_perdus" GUID="xfbcHddem02GzPPdlWr3Rg=="/>
+		<POI MapID="1015" xpos="404.269" ypos="413.036" zpos="-404.18" type="general.contrees_sauvages_d_argent.insignes_perdus" GUID="32bvao9z0Uqwww8Shj9Imw=="/>
+		<POI MapID="1015" xpos="411.732" ypos="408.818" zpos="-48.33" type="general.contrees_sauvages_d_argent.insignes_perdus" GUID="Fl3/vHLZ7ky+78iidJVYMg=="/>
+		<POI MapID="1015" xpos="492.876" ypos="402.939" zpos="-264.855" type="general.contrees_sauvages_d_argent.insignes_perdus" GUID="f+BCDm29KU+BwfMyP3xAVA=="/>
+		<POI MapID="1015" xpos="536.252" ypos="413.368" zpos="-23.8752" type="general.contrees_sauvages_d_argent.insignes_perdus" GUID="RcerKH4wQkWvrXfY7N8pMw=="/>
+		<POI MapID="1015" xpos="558.914" ypos="414.852" zpos="-104.274" type="general.contrees_sauvages_d_argent.insignes_perdus" GUID="vOa4Sl62rEe+ooRAslP52g=="/>
+		<POI MapID="1015" xpos="570.717" ypos="416.784" zpos="-396.658" type="general.contrees_sauvages_d_argent.insignes_perdus" GUID="pepGF00kpk67FoV9OkivVw=="/>
+		<POI MapID="1015" xpos="572.774" ypos="372.266" zpos="-22.2508" type="general.contrees_sauvages_d_argent.insignes_perdus" GUID="U9WLnYhdyEGBOT5PL7Ub/A=="/>
+		<POI MapID="1015" xpos="585.187" ypos="386.526" zpos="-34.7089" type="general.contrees_sauvages_d_argent.insignes_perdus" GUID="BZGWN1XnzU+ntOukLF7+0Q=="/>
+
+	</POIs>
+</OverlayData>

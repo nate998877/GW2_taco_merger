@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+POIs: TMKFrench.6427 - ReActif.9251
+Date: 2017/05/11
+-->
+<OverlayData>
+	<MarkerCategory name="chroniques.saison_3">
+		<MarkerCategory name="ep5_point_d_ignition" DisplayName="Ep.5 - Flashpoint" iconFile="Img\MontDraconis.png">
+			<MarkerCategory name="des_lecons_bien_apprises" DisplayName="Lessons Learned"/>
+		</MarkerCategory>
+	</MarkerCategory>
+
+	<POIs>
+
+		<!-- Enregistrements Perdus -->
+
+		<!-- 1 -->
+		<POI MapID="1195" xpos="318.094" ypos="417.698" zpos="60.1901" type="chroniques.saison_3.ep5_point_d_ignition.des_lecons_bien_apprises" GUID="ph/yCNC7vUqOHPuE9UO2ZA=="/>
+
+		<!-- 2 -->
+		<POI MapID="1195" xpos="-177.035" ypos="408.196" zpos="-518.564" type="chroniques.saison_3.ep5_point_d_ignition.des_lecons_bien_apprises" GUID="ESg51z+BO0SqTFqLZ+eQqA==" iconFile="Img\FlecheAvancer.png" iconSize="3"/>
+		<POI MapID="1195" xpos="-244.426" ypos="412.944" zpos="-430.226" type="chroniques.saison_3.ep5_point_d_ignition.des_lecons_bien_apprises" GUID="AVbveLxcNkqVph7QUP9jEA=="/>
+
+		<!-- 3 -->
+		<POI MapID="1195" xpos="-374.824" ypos="436.203" zpos="-436.282" type="chroniques.saison_3.ep5_point_d_ignition.des_lecons_bien_apprises" GUID="/QR0f41XCEysZUbY310+3w=="/>
+
+		<!-- 4 -->
+		<POI MapID="1195" xpos="354.587" ypos="430.036" zpos="13.8194" type="chroniques.saison_3.ep5_point_d_ignition.des_lecons_bien_apprises" GUID="khhTUuaZD0G4LaYjKSXHYA=="/>
+
+		<!-- 5 -->
+		<POI MapID="1195" xpos="310.595" ypos="431.673" zpos="-2.55429" type="chroniques.saison_3.ep5_point_d_ignition.des_lecons_bien_apprises" GUID="7DpwN9aKmUmEs+4hrWTifg=="/>
+
+		<!-- 6 -->
+		<POI MapID="1195" xpos="-5.38336" ypos="336.051" zpos="-988.383" type="chroniques.saison_3.ep5_point_d_ignition.des_lecons_bien_apprises" GUID="XZf3VU5fbUaOYb+zb2GUsQ==" iconFile="Img\FlecheAvancer.png" iconSize="3"/>
+		<POI MapID="1195" xpos="17.6446" ypos="327.647" zpos="-1012.93" type="chroniques.saison_3.ep5_point_d_ignition.des_lecons_bien_apprises" GUID="0JJ5/9ElkUeMiV45FyqGOQ=="/>
+
+		<!-- 7 -->
+		<POI MapID="1195" xpos="109.299" ypos="268.977" zpos="210.734" type="chroniques.saison_3.ep5_point_d_ignition.des_lecons_bien_apprises" GUID="eIKQ8vudF0asSITN9bMSQQ==" iconFile="Img\FlecheAvancer.png" iconSize="3"/>
+		<POI MapID="1195" xpos="135.736" ypos="277.004" zpos="252.489" type="chroniques.saison_3.ep5_point_d_ignition.des_lecons_bien_apprises" GUID="n/vq2Chgq0qpbc7ydoioyA=="/>
+
+		<!-- 8 -->
+		<POI MapID="1195" xpos="-224.986" ypos="477.234" zpos="94.6891" type="chroniques.saison_3.ep5_point_d_ignition.des_lecons_bien_apprises" GUID="1FEzemLlp0CesaxMg+1SJA==" iconFile="Img\FlecheAvancer.png" iconSize="3"/>
+		<POI MapID="1195" xpos="-273.202" ypos="480.159" zpos="74.6904" type="chroniques.saison_3.ep5_point_d_ignition.des_lecons_bien_apprises" GUID="vNFQW6fqqkaSpbFKgWm99Q==" iconFile="Img\Guide.png" iconSize="0.75" heightOffset="0"/>
+		<POI MapID="1195" xpos="-294.156" ypos="486.614" zpos="54.4237" type="chroniques.saison_3.ep5_point_d_ignition.des_lecons_bien_apprises" GUID="z+YUwivmEEy6W9K4rxLLVw==" iconFile="Img\Guide.png" iconSize="0.75" heightOffset="0"/>
+		<POI MapID="1195" xpos="-360.534" ypos="506.349" zpos="49.4309" type="chroniques.saison_3.ep5_point_d_ignition.des_lecons_bien_apprises" GUID="9nM66kxlK02SGchcoY+l3Q=="/>
+
+		<!-- 9 -->
+		<POI MapID="1195" xpos="544.951" ypos="297.206" zpos="-163.867" type="chroniques.saison_3.ep5_point_d_ignition.des_lecons_bien_apprises" GUID="F4QLrT//VUOkNUpZ35UXbQ==" iconFile="Img\FlecheAvancer.png" iconSize="3"/>
+		<POI MapID="1195" xpos="549.795" ypos="323.229" zpos="-151.803" type="chroniques.saison_3.ep5_point_d_ignition.des_lecons_bien_apprises" GUID="PNCg4U6afEq0f/9PgAS1fQ==" iconFile="Img\Guide.png" iconSize="0.75" heightOffset="0"/>
+		<POI MapID="1195" xpos="558.527" ypos="340.885" zpos="-132.133" type="chroniques.saison_3.ep5_point_d_ignition.des_lecons_bien_apprises" GUID="NMqjO5vGLEi3TWt6JUtJWw=="/>
+
+		<!-- 10 -->
+		<POI MapID="1195" xpos="-167.677" ypos="247.198" zpos="215.168" type="chroniques.saison_3.ep5_point_d_ignition.des_lecons_bien_apprises" GUID="En+kJqB7kk+z+Z0T8ZujaQ=="/>
+
+		<!-- 11 -->
+		<POI MapID="1195" xpos="335.23" ypos="205.213" zpos="-589.704" type="chroniques.saison_3.ep5_point_d_ignition.des_lecons_bien_apprises" GUID="B/wP/rg6PUCSTWrwkuj1TA=="/>
+
+		<!-- 12 -->
+		<POI MapID="1195" xpos="241.372" ypos="512.278" zpos="72.6635" type="chroniques.saison_3.ep5_point_d_ignition.des_lecons_bien_apprises" GUID="ZBsvNgrVd06cmzkGNNSw4g==" iconFile="Img\FlecheAvancer.png" iconSize="3"/>
+		<POI MapID="1195" xpos="203.645" ypos="517.098" zpos="159.222" type="chroniques.saison_3.ep5_point_d_ignition.des_lecons_bien_apprises" GUID="OODcnMwn2kS7CpqFPGeCKQ=="/>
+
+		<!-- 13 -->
+		<POI MapID="1195" xpos="250.02" ypos="246.50" zpos="-884.23" type="chroniques.saison_3.ep5_point_d_ignition.des_lecons_bien_apprises" GUID="JnlyRlyUuUWuKNk8KmUkXg==" iconFile="Img\FlecheAvancer.png" iconSize="3"/>
+		<POI MapID="1195" xpos="228.822" ypos="246.371" zpos="-907.275" type="chroniques.saison_3.ep5_point_d_ignition.des_lecons_bien_apprises" GUID="/V1/ba3ewkm5C+QWMzIc1g=="/>
+
+		<!-- 14 -->
+		<POI MapID="1195" xpos="-318.846" ypos="360.134" zpos="65.3518" type="chroniques.saison_3.ep5_point_d_ignition.des_lecons_bien_apprises" GUID="KfWJtT6TOEmboXaWN3TP6A=="/>
+
+	</POIs>
+</OverlayData>

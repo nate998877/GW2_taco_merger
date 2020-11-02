@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+POIs: ReActif.9251
+Date: 2017/03/01
+-->
+<OverlayData>
+	<MarkerCategory name="chroniques.saison_3">
+		<MarkerCategory name="ep2_l_embrasement" DisplayName="Ep.2 - Rising Flames" iconFile="Img\BaieDesBraises.png">
+			<MarkerCategory name="hal_affame" DisplayName="Hungry Hal" heightOffset="3.5" behavior="0">
+				<MarkerCategory name="pommes_braisees" DisplayName="Ember Apples" iconFile="Img\PommeBraisee.png" iconSize="0.75" heightOffset="4" behavior="2"/>
+			</MarkerCategory>
+		</MarkerCategory>
+	</MarkerCategory>
+
+	<POIs>
+
+		<!-- Hal l'hermite -->
+		<POI MapID="1175" xpos="-683.244" ypos="67.5609" zpos="-224.124" type="chroniques.saison_3.ep2_l_embrasement.hal_affame" GUID="WsWHaZjPbE+b4qlEmSdo5A=="/>
+
+		<!-- Pommes Braisées -->
+		<POI MapID="1175" xpos="-876.248" ypos="24.9965" zpos="-426.218" type="chroniques.saison_3.ep2_l_embrasement.hal_affame.pommes_braisees" GUID="jVDRqgkCQkCDnNlYSZdlCQ=="/>
+		<POI MapID="1175" xpos="-869.764" ypos="48.1991" zpos="-436.289" type="chroniques.saison_3.ep2_l_embrasement.hal_affame.pommes_braisees" GUID="xnfFu36qB0WfR/v3bGCWJg=="/>
+		<POI MapID="1175" xpos="-864.046" ypos="48.1544" zpos="-439.372" type="chroniques.saison_3.ep2_l_embrasement.hal_affame.pommes_braisees" GUID="c3HWBgPQF0+r7+aLyw/1bQ=="/>
+		<POI MapID="1175" xpos="-863.992" ypos="18.3272" zpos="-415.632" type="chroniques.saison_3.ep2_l_embrasement.hal_affame.pommes_braisees" GUID="ZpYbs67p00KPvEJUG2TOAg=="/>
+		<POI MapID="1175" xpos="-839.748" ypos="33.3915" zpos="-455.282" type="chroniques.saison_3.ep2_l_embrasement.hal_affame.pommes_braisees" GUID="OuHWtQJacEqzATg/zfYq7Q=="/>
+		<POI MapID="1175" xpos="-835.24" ypos="33.3869" zpos="-458.556" type="chroniques.saison_3.ep2_l_embrasement.hal_affame.pommes_braisees" GUID="RC3qIpjdXUKJK6oGu3ffkg=="/>
+		<POI MapID="1175" xpos="-831.498" ypos="33.6206" zpos="-462.9" type="chroniques.saison_3.ep2_l_embrasement.hal_affame.pommes_braisees" GUID="Xlg5lDPYOU+ptJRX+VxzXQ=="/>
+		<POI MapID="1175" xpos="-683.019" ypos="67.5496" zpos="-707.694" type="chroniques.saison_3.ep2_l_embrasement.hal_affame.pommes_braisees" GUID="js8hK10iP0a0I7WpN4MAZQ=="/>
+		<POI MapID="1175" xpos="-654.326" ypos="52.7522" zpos="-661.757" type="chroniques.saison_3.ep2_l_embrasement.hal_affame.pommes_braisees" GUID="Bzyoho+MQUmE5oQnSN1RKw=="/>
+		<POI MapID="1175" xpos="-645.585" ypos="74.3516" zpos="-775.161" type="chroniques.saison_3.ep2_l_embrasement.hal_affame.pommes_braisees" GUID="2gmo/giWWUiY1SgostZ1pQ=="/>
+		<POI MapID="1175" xpos="-637.74" ypos="61.883" zpos="-731.933" type="chroniques.saison_3.ep2_l_embrasement.hal_affame.pommes_braisees" GUID="rLHSN4t65Eibe4aL615jBg=="/>
+		<POI MapID="1175" xpos="-633.896" ypos="29.9244" zpos="-660.452" type="chroniques.saison_3.ep2_l_embrasement.hal_affame.pommes_braisees" GUID="uGierwfOiE+OiJgOlA2z4w=="/>
+		<POI MapID="1175" xpos="-570.116" ypos="70.3412" zpos="-791.968" type="chroniques.saison_3.ep2_l_embrasement.hal_affame.pommes_braisees" GUID="vCAp/MZk10yKtJDnSZSqcg=="/>
+		<POI MapID="1175" xpos="-569.224" ypos="70.1345" zpos="-804.547" type="chroniques.saison_3.ep2_l_embrasement.hal_affame.pommes_braisees" GUID="XcyyIzPzuEqBw4X/nimKhg=="/>
+
+	</POIs>
+</OverlayData>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+POIs: ReActif.9251
+Date: 2016/12/27
+-->
+<OverlayData>
+	<MarkerCategory name="general" DisplayName="General">
+		<MarkerCategory name="explorateur" DisplayName="Explorer" iconFile="Img\Explorateur.png" behavior="3">
+			<MarkerCategory name="esprit_du_tigre" DisplayName="Spirit of the Tiger" iconFile="Img\EspritTigre.png"/>
+		</MarkerCategory>
+	</MarkerCategory>
+
+	<POIs>
+
+		<!-- Profondeurs verdoyantes : Voie du B.R.U.T.A.L. -->
+		<POI MapID="1045" xpos="809.569" ypos="283.499" zpos="-195.844" type="general.explorateur.esprit_du_tigre" GUID="SV+ecrCXVk6sq5lLeojvlw=="/>
+
+		<!-- Forêt de Caledon : Enclave cauchemardesque -->
+		<POI MapID="34" xpos="325.116" ypos="48.9395" zpos="-526.277" type="general.explorateur.esprit_du_tigre" GUID="wDvRruehyE6psowPWl1lHw=="/>
+
+		<!-- Crique de Sud-Soleil : Détroit de Sud-Soleil -->
+		<POI MapID="873" xpos="-514.915" ypos="31.7136" zpos="321.052" type="general.explorateur.esprit_du_tigre" GUID="BNZT1RiHr0qNKoDFwc2yBQ=="/>
+
+		<!-- Marais de Lumillule : Côte d'Orvanic -->
+		<POI MapID="53" xpos="-547.311" ypos="80.611" zpos="411.754" type="general.explorateur.esprit_du_tigre" GUID="c3XRW/Ynd0Sd6i1V5j7IAg=="/>
+
+		<!-- Passage de Lornar : Gueule du démon -->
+		<POI MapID="27" xpos="-114.838" ypos="116.484" zpos="-1422.71" type="general.explorateur.esprit_du_tigre" GUID="oiOPsWiuPkKG0XGNtqAjrw=="/>
+
+		<!-- Plateau de Diessa : Le Mur fendu -->
+		<POI MapID="32" xpos="487.567" ypos="73.8864" zpos="-384.748" type="general.explorateur.esprit_du_tigre" GUID="1PTKtT6AbE6GXkfczQBgkg=="/>
+
+		<!-- Champs de ruine : Collines de Tanglerot -->
+		<POI MapID="21" xpos="707.169" ypos="42.855" zpos="740.586" type="general.explorateur.esprit_du_tigre" GUID="Og7ZrV3uW0iCZKr9Dxj6Pw=="/>
+
+		<!-- Plaines d'Ashford : Étendue de Fablegriffe -->
+		<POI MapID="19" xpos="846.054" ypos="34.8853" zpos="-507.921" type="general.explorateur.esprit_du_tigre" GUID="9nk5xkinXEKUH6xSRSIkMg=="/>
+
+		<!-- Orée d'émeraude : Pics griffeciel -->
+		<POI MapID="1052" xpos="291.663" ypos="469.621" zpos="316.057" type="general.explorateur.esprit_du_tigre" GUID="qSHLXf8BQEWQwT+2MieD6w=="/>
+
+		<!-- Profondeurs verdoyantes : Voie de Rata Novus -->
+		<POI MapID="1045" xpos="239.7" ypos="132.673" zpos="65.688" type="general.explorateur.esprit_du_tigre" GUID="mV1pvR06o0GuTe4WD277zQ=="/>
+
+		<!-- Repli du Dragon : Autel brisé -->
+		<POI MapID="1041" xpos="194.052" ypos="86.0286" zpos="741.073" type="general.explorateur.esprit_du_tigre" GUID="HFdqjfbch0yIphJrYqZJSA=="/>
+
+	</POIs>
+</OverlayData>

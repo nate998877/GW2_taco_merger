@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+POIs: TMKFrench.6427
+Date: 2017/10/18
+-->
+<OverlayData>
+	<MarkerCategory name="path_of_fire.oasis_de_cristal">
+		<MarkerCategory name="point_de_maitrise" DisplayName="Mastery Insights" iconFile="Img\MaitrisePoF.png" heightOffset="3" fadeNear="10000" fadeFar="20000">
+			<MarkerCategory name="sables_mouvants_de_sifuri" DisplayName="Sifuri Quicksand"/>
+			<MarkerCategory name="heritage_de_brill" DisplayName="Glint's Legacy"/>
+			<MarkerCategory name="guide" DisplayName="Guide" iconFile="Img\Guide.png" iconSize="0.75" heightOffset="1" fadeNear="4000" fadeFar="8000"/>
+		</MarkerCategory>
+	</MarkerCategory>
+
+	<POIs>
+
+		<!-- Sifuri Quicksand -->
+		<POI MapID="1210" xpos="-227.306" ypos="71.5523" zpos="628.086" type="path_of_fire.oasis_de_cristal.point_de_maitrise.sables_mouvants_de_sifuri" GUID="PGHe1WxLwkuvNWAH+S6NrA=="/>
+
+		<!-- Glint's Legacy -->
+		<POI MapID="1210" xpos="1373.01" ypos="164.43" zpos="-433.305" type="path_of_fire.oasis_de_cristal.point_de_maitrise.guide" GUID="rNiyZK5CpEWIsknpFoArdg==" iconFile="Img\PanneauFrappesolNiv3.png" iconSize="1.5" heightOffset="0"/>
+		<POI MapID="1210" xpos="1361.58" ypos="189.906" zpos="-446.097" type="path_of_fire.oasis_de_cristal.point_de_maitrise.guide" GUID="GgugOba5JU2SR9BZuVsOiQ=="/>
+		<POI MapID="1210" xpos="1355.35" ypos="198.438" zpos="-445.92" type="path_of_fire.oasis_de_cristal.point_de_maitrise.guide" GUID="Cb6sJGQWCk62yQ/DHkGM6g=="/>
+		<POI MapID="1210" xpos="1364.92" ypos="203.498" zpos="-432.383" type="path_of_fire.oasis_de_cristal.point_de_maitrise.heritage_de_brill" GUID="gBsrOHGQ2EmIpf9+MBzbXA=="/>
+		
+		</POIs>
+	
+</OverlayData>

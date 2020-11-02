@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+POIs: Cloud Strife.7492 - Xenophy.2716 - ReActif.9251
+Date: 2017/08/23
+-->
+<OverlayData>
+	<MarkerCategory name="general" DisplayName="General">
+		<MarkerCategory name="puzzles_de_saut" DisplayName="Jumping Puzzles" iconFile="Img\Guide.png" iconSize="0.75">
+			<MarkerCategory name="breche_du_mur_en_folie" DisplayName="Wall Breach Blitz"/>
+		</MarkerCategory>
+	</MarkerCategory>
+
+	<POIs>
+
+		<!-- Début -->
+		<POI MapID="32" xpos="115.263" ypos="28.9689" zpos="-585.666" type="general.puzzles_de_saut.debut" GUID="egXRsvMYdki/+gR98g616g=="/>
+
+		<!-- Route -->
+		<Route MapID="32" name="Breche_du_Mur_en_Folie" resetposx="115.263" resetposy="28.9689" resetposz="-585.666" resetrange="2">
+			<POI MapID="32" xpos="117.685" ypos="29.3868" zpos="-593.196" type="general.puzzles_de_saut.breche_du_mur_en_folie" GUID="qZyTIopwxEGvzV8XzjSdOw=="/>
+			<POI MapID="32" xpos="123.93" ypos="32.8518" zpos="-593.619" type="general.puzzles_de_saut.breche_du_mur_en_folie" GUID="bF4km4GxKUOZomexP+pw8g=="/>
+			<POI MapID="32" xpos="129.555" ypos="38.3207" zpos="-587.751" type="general.puzzles_de_saut.breche_du_mur_en_folie" GUID="Ao6NQ4e7H0q8hQ3nR7Qr1Q=="/>
+			<POI MapID="32" xpos="135.977" ypos="38.9445" zpos="-587.616" type="general.puzzles_de_saut.breche_du_mur_en_folie" GUID="67p3JTiQQEqphI/ccU/p6g=="/>
+			<POI MapID="32" xpos="132.308" ypos="42.0414" zpos="-592.252" type="general.puzzles_de_saut.breche_du_mur_en_folie" GUID="Ye+gB4vfNEewZo+WCho/5A=="/>
+			<POI MapID="32" xpos="127.426" ypos="45.0588" zpos="-595.414" type="general.puzzles_de_saut.breche_du_mur_en_folie" GUID="1qLr1Kyl9ECz3wg6Y6OQkA=="/>
+			<POI MapID="32" xpos="123.872" ypos="48.735" zpos="-598.849" type="general.puzzles_de_saut.breche_du_mur_en_folie" GUID="Hq3F1L98NUW9rRag5bv1vA=="/>
+			<POI MapID="32" xpos="122.003" ypos="50.2372" zpos="-604.416" type="general.puzzles_de_saut.breche_du_mur_en_folie" GUID="Kg60cvOfyE6NJnhweMj8xA=="/>
+			<POI MapID="32" xpos="126.367" ypos="52.6324" zpos="-601.65" type="general.puzzles_de_saut.breche_du_mur_en_folie" GUID="SMct7hlwH0mYg/SW/OkVrw=="/>
+			<POI MapID="32" xpos="129.361" ypos="54.9198" zpos="-599.866" type="general.puzzles_de_saut.breche_du_mur_en_folie" GUID="835alTfLE0SDIpGuc9T8DA=="/>
+			<POI MapID="32" xpos="133.434" ypos="58.3677" zpos="-596.669" type="general.puzzles_de_saut.breche_du_mur_en_folie" GUID="jcisjU8JaEuD786a/TyhXg=="/>
+			<POI MapID="32" xpos="137.095" ypos="61.3912" zpos="-593.968" type="general.puzzles_de_saut.breche_du_mur_en_folie" GUID="EaarGaVCQkCywPmKWG0zvQ=="/>
+			<POI MapID="32" xpos="144.286" ypos="61.5158" zpos="-592.358" type="general.puzzles_de_saut.breche_du_mur_en_folie" GUID="9hZLjue5zk2465QEa4CB4Q=="/>
+			<POI MapID="32" xpos="150.449" ypos="57.4513" zpos="-589.645" type="general.puzzles_de_saut.breche_du_mur_en_folie" GUID="EZd/fKzsRk6/7z0WfeVOxQ=="/>
+			<POI MapID="32" xpos="151.183" ypos="55.6923" zpos="-583.024" type="general.puzzles_de_saut.breche_du_mur_en_folie" GUID="zvW2iE9ykEqAiSbjDkmBsg=="/>
+			<POI MapID="32" xpos="156.25" ypos="55.4719" zpos="-579.359" type="general.puzzles_de_saut.breche_du_mur_en_folie" GUID="3ex/EsDEHk2fmgHM+Sez8w=="/>
+			<POI MapID="32" xpos="160.978" ypos="55.1788" zpos="-576.036" type="general.puzzles_de_saut.breche_du_mur_en_folie" GUID="mjEsJzP1QU+Fq5VU6W2Ayg=="/>
+			<POI MapID="32" xpos="167.39" ypos="54.8962" zpos="-572.589" type="general.puzzles_de_saut.breche_du_mur_en_folie" GUID="+Z8umf6SNEW1qBOFa9kOLA=="/>
+			<POI MapID="32" xpos="174.038" ypos="54.5697" zpos="-568.963" type="general.puzzles_de_saut.breche_du_mur_en_folie" GUID="ij+ZT26WVUiYJV/xSQiQyQ=="/>
+			<POI MapID="32" xpos="179.848" ypos="54.2843" zpos="-565.566" type="general.puzzles_de_saut.breche_du_mur_en_folie" GUID="MTYAs+uWQ0WFfzx3AzWNcA=="/>
+			<POI MapID="32" xpos="183.064" ypos="55.7025" zpos="-563.227" type="general.puzzles_de_saut.breche_du_mur_en_folie" GUID="Obta3244uEecdKIzNZ2nFw=="/>
+			<POI MapID="32" xpos="190.73" ypos="55.8525" zpos="-559.28" type="general.puzzles_de_saut.breche_du_mur_en_folie" GUID="RnqysS1OmEik3sIPFdOIyg=="/>
+			<POI MapID="32" xpos="196.824" ypos="54.4482" zpos="-557.977" type="general.puzzles_de_saut.breche_du_mur_en_folie" GUID="lDY9dD/GmU+F6Fx1SstMsw=="/>
+			<POI MapID="32" xpos="201.83" ypos="53.8806" zpos="-553.969" type="general.puzzles_de_saut.breche_du_mur_en_folie" GUID="2K74HAbIdkG6kNQyu97L7Q=="/>
+			<POI MapID="32" xpos="202.969" ypos="53.9245" zpos="-550.256" type="general.puzzles_de_saut.breche_du_mur_en_folie" GUID="aZrgFaW/4kiEXgaj3QdWjA=="/>
+			<POI MapID="32" xpos="206.734" ypos="55.2306" zpos="-549.49" type="general.puzzles_de_saut.breche_du_mur_en_folie" GUID="0XOvGc6QcEqhoMODUYQmSQ=="/>
+			<POI MapID="32" xpos="213.006" ypos="54.8805" zpos="-549.411" type="general.puzzles_de_saut.breche_du_mur_en_folie" GUID="v4ciSRckL0y99HSwRMvnNA=="/>
+			<POI MapID="32" xpos="216.824" ypos="54.6096" zpos="-549.928" type="general.puzzles_de_saut.breche_du_mur_en_folie" GUID="y7ubRRNceEq6qrlgSD9Z8g=="/>
+			<POI MapID="32" xpos="222.36" ypos="54.4665" zpos="-551.168" type="general.puzzles_de_saut.breche_du_mur_en_folie" GUID="RitFJ2HybUSZw3YuxNtCZg=="/>
+			<POI MapID="32" xpos="229.942" ypos="54.0886" zpos="-552.84" type="general.puzzles_de_saut.breche_du_mur_en_folie" GUID="1yTshTu53kejYEE+9E3HxQ=="/>
+			<POI MapID="32" xpos="236.638" ypos="53.7516" zpos="-554.339" type="general.puzzles_de_saut.breche_du_mur_en_folie" GUID="BONdSQ4vXUiatwt6dh+fcA=="/>
+			<POI MapID="32" xpos="241.05" ypos="56.3534" zpos="-557.489" type="general.puzzles_de_saut.breche_du_mur_en_folie" GUID="MRuDNt4KrEOOLw4YoUsk7g=="/>
+			<POI MapID="32" xpos="243.196" ypos="58.2946" zpos="-558.901" type="general.puzzles_de_saut.breche_du_mur_en_folie" GUID="prUymU0EM06W9VH/dmiPiQ=="/>
+			<POI MapID="32" xpos="235.221" ypos="59.147" zpos="-558.811" type="general.puzzles_de_saut.breche_du_mur_en_folie" GUID="6QRaorIMrU6P+hosmDv7qQ=="/>
+			<POI MapID="32" xpos="229.029" ypos="58.8546" zpos="-558.457" type="general.puzzles_de_saut.breche_du_mur_en_folie" GUID="oa5Y5Sx3F0aeVs69SACm3w=="/>
+			<POI MapID="32" xpos="222.5" ypos="59.7695" zpos="-558.588" type="general.puzzles_de_saut.breche_du_mur_en_folie" GUID="SvSnW7Kya02JgslmDm6aCA=="/>
+			<POI MapID="32" xpos="214.545" ypos="60.1856" zpos="-556.764" type="general.puzzles_de_saut.breche_du_mur_en_folie" GUID="/iIzMYhnYUuMw4SoDScMEA=="/>
+			<POI MapID="32" xpos="214.037" ypos="60.7571" zpos="-552.057" type="general.puzzles_de_saut.breche_du_mur_en_folie" GUID="FcKE+pqqQkCmSG1Lu4v/rA=="/>
+			<POI MapID="32" xpos="204.84" ypos="59.9907" zpos="-550.415" type="general.puzzles_de_saut.breche_du_mur_en_folie" GUID="X64c67/cK0eRJpO0SuIOpw=="/>
+			<POI MapID="32" xpos="202.927" ypos="62.367" zpos="-554.323" type="general.puzzles_de_saut.breche_du_mur_en_folie" GUID="fzElmiIgEkarIRR7RHDDiA=="/>
+			<POI MapID="32" xpos="205.324" ypos="64.8218" zpos="-554.639" type="general.puzzles_de_saut.breche_du_mur_en_folie" GUID="twRJVXdJa0yxam2LnuujeA=="/>
+			<POI MapID="32" xpos="206.654" ypos="67.2398" zpos="-556.034" type="general.puzzles_de_saut.breche_du_mur_en_folie" GUID="kaPovthFOkeoBZv2jGI31w=="/>
+			<POI MapID="32" xpos="208.25" ypos="69.6307" zpos="-563.264" type="general.puzzles_de_saut.breche_du_mur_en_folie" GUID="Fyrkh0b/3E+yLfdK1f6fNw=="/>
+			<POI MapID="32" xpos="214.006" ypos="70.4669" zpos="-569.713" type="general.puzzles_de_saut.breche_du_mur_en_folie" GUID="hkNx1QGBI0qyEFvVFxlQ5A=="/>
+			<POI MapID="32" xpos="222.636" ypos="70.2749" zpos="-568.863" type="general.puzzles_de_saut.breche_du_mur_en_folie" GUID="TAtLuznz2kKTALk6DMK34Q=="/>
+			<POI MapID="32" xpos="227.615" ypos="67.8664" zpos="-567.847" type="general.puzzles_de_saut.breche_du_mur_en_folie" GUID="q3491S8FfkOZszoNlPekxQ=="/>
+			<POI MapID="32" xpos="234.223" ypos="67.3999" zpos="-564.877" type="general.puzzles_de_saut.breche_du_mur_en_folie" GUID="PmI4DISQNkywS52Te44mQQ=="/>
+			<POI MapID="32" xpos="237.751" ypos="69.2673" zpos="-564.139" type="general.puzzles_de_saut.breche_du_mur_en_folie" GUID="YBiQk3OaHkazEGz9V3eZQw=="/>
+			<POI MapID="32" xpos="243.611" ypos="67.6764" zpos="-565.671" type="general.puzzles_de_saut.breche_du_mur_en_folie" GUID="QP4D8AwiMkeoWdI64yvOmA=="/>
+			<POI MapID="32" xpos="249.788" ypos="68.6457" zpos="-566.459" type="general.puzzles_de_saut.breche_du_mur_en_folie" GUID="eCQKCTIMF0q7L4n0tbSzGA=="/>
+			<POI MapID="32" xpos="255.856" ypos="68.4871" zpos="-567.18" type="general.puzzles_de_saut.breche_du_mur_en_folie" GUID="BQjQLHmuCUqpS3nWrz75fg=="/>
+			<POI MapID="32" xpos="261.043" ypos="65.8472" zpos="-571.249" type="general.puzzles_de_saut.breche_du_mur_en_folie" GUID="O582cFiAwEC2piI+r/n90g=="/>
+			<POI MapID="32" xpos="266.677" ypos="65.0323" zpos="-574.876" type="general.puzzles_de_saut.breche_du_mur_en_folie" GUID="45seKrZ1Mk6zkJbrLP70QA=="/>
+			<POI MapID="32" xpos="273.514" ypos="58.6094" zpos="-586.003" type="general.puzzles_de_saut.breche_du_mur_en_folie" GUID="y3DWMLa25U29d6NSGRtGbg=="/>
+			<POI MapID="32" xpos="277.488" ypos="60.2501" zpos="-585.73" type="general.puzzles_de_saut.breche_du_mur_en_folie" GUID="QSwrwYASkEmXhBQqMfeJiA=="/>
+			<POI MapID="32" xpos="281.648" ypos="61.3334" zpos="-584.632" type="general.puzzles_de_saut.breche_du_mur_en_folie" GUID="MgTM7a8SH0aQEW41vXnMMA=="/>
+			<POI MapID="32" xpos="289.03" ypos="60.2723" zpos="-583.711" type="general.puzzles_de_saut.breche_du_mur_en_folie" GUID="mk4tlTMsxkCtw5Yf3gaj3w=="/>
+			<POI MapID="32" xpos="293.449" ypos="60.3846" zpos="-583.074" type="general.puzzles_de_saut.breche_du_mur_en_folie" GUID="QbVmi+QfS0eCvb05xRlm3A=="/>
+			<POI MapID="32" xpos="297.8" ypos="54.6434" zpos="-578.18" type="general.puzzles_de_saut.breche_du_mur_en_folie" GUID="w7ifaeXErEaVATVATVltUQ=="/>
+			<POI MapID="32" xpos="300.223" ypos="50.7756" zpos="-573.19" type="general.puzzles_de_saut.breche_du_mur_en_folie" GUID="w0w/77vkFUurFOVOsMb+1Q=="/>
+			<POI MapID="32" xpos="303.273" ypos="48.8631" zpos="-568.187" type="general.puzzles_de_saut.breche_du_mur_en_folie" GUID="er2JDtOckEG27AN0QYx2Tw=="/>
+			<POI MapID="32" xpos="307.445" ypos="51.23" zpos="-568.374" type="general.puzzles_de_saut.breche_du_mur_en_folie" GUID="xjGVq3hAEES3Ak2bMVMsnA=="/>
+			<POI MapID="32" xpos="311.728" ypos="53.7419" zpos="-567.302" type="general.puzzles_de_saut.breche_du_mur_en_folie" GUID="N+pC5lUvCkyrUDXo7pjuqg=="/>
+			<POI MapID="32" xpos="317.56" ypos="57.0445" zpos="-566.527" type="general.puzzles_de_saut.breche_du_mur_en_folie" GUID="WVxyYzQhKkquOwy9m+aJPg=="/>
+			<POI MapID="32" xpos="323.066" ypos="59.4445" zpos="-565.156" type="general.puzzles_de_saut.breche_du_mur_en_folie" GUID="fSgg3YZnHEWmW+j/rZqQiw=="/>
+			<POI MapID="32" xpos="327.09" ypos="59.1734" zpos="-561.231" type="general.puzzles_de_saut.breche_du_mur_en_folie" GUID="B5gfqxqPBE6+QDJussxfZA=="/>
+			<POI MapID="32" xpos="329.495" ypos="55.464" zpos="-562.601" type="general.puzzles_de_saut.breche_du_mur_en_folie" GUID="V0cyinYOE06SunxE5G6uoQ=="/>
+			<POI MapID="32" xpos="336.974" ypos="54.7358" zpos="-561.04" type="general.puzzles_de_saut.breche_du_mur_en_folie" GUID="WI+fukBht0aqEgiKWLYIWw=="/>
+			<POI MapID="32" xpos="345.788" ypos="50.949" zpos="-558.899" type="general.puzzles_de_saut.breche_du_mur_en_folie" GUID="79nQwRrYOECX7PsVdaVbew=="/>
+			<POI MapID="32" xpos="351.727" ypos="50.9548" zpos="-558.402" type="general.puzzles_de_saut.breche_du_mur_en_folie" GUID="5By7tvFGikOExKLGNC08nQ=="/>
+			<POI MapID="32" xpos="361.677" ypos="50.4377" zpos="-557.533" type="general.puzzles_de_saut.breche_du_mur_en_folie" GUID="3ic61y/dGE2LEufFOzsckg=="/>
+			<POI MapID="32" xpos="362.288" ypos="49.2587" zpos="-563.691" type="general.puzzles_de_saut.breche_du_mur_en_folie" GUID="yef/VqVG4kCi6x5Jmaq6FA=="/>
+			<POI MapID="32" xpos="362.144" ypos="49.2589" zpos="-567.534" type="general.puzzles_de_saut.breche_du_mur_en_folie" GUID="K0XBgb+86Em+UcADsEquUw=="/>
+			<POI MapID="32" xpos="356.952" ypos="49.6523" zpos="-567.25" type="general.puzzles_de_saut.breche_du_mur_en_folie" GUID="N9jpGydGIkW4j7XrJeWX8A=="/>
+			<POI MapID="32" xpos="352.383" ypos="52.6337" zpos="-567.99" type="general.puzzles_de_saut.breche_du_mur_en_folie" GUID="+xjQKJxMJkS7hK6Y8RZZeg=="/>
+			<POI MapID="32" xpos="351.008" ypos="54.8065" zpos="-565.226" type="general.puzzles_de_saut.breche_du_mur_en_folie" GUID="PoG6QJnFvkO1hI6zyPzwWQ=="/>
+			<POI MapID="32" xpos="355.803" ypos="56.4098" zpos="-563.86" type="general.puzzles_de_saut.breche_du_mur_en_folie" GUID="mEgBaDDGHkeTGgwoWTJzhw=="/>
+			<POI MapID="32" xpos="359.328" ypos="58.3408" zpos="-563.169" type="general.puzzles_de_saut.breche_du_mur_en_folie" GUID="qo/vZ8XsEUqJCAbAe8eANQ=="/>
+			<POI MapID="32" xpos="365.401" ypos="60.5741" zpos="-562.894" type="general.puzzles_de_saut.breche_du_mur_en_folie" GUID="2Ns598753kOyLownjL4k8w=="/>
+		</Route>
+
+		<!-- Combat -->
+		<POI MapID="32" xpos="368.68" ypos="61.23" zpos="-565.58" type="general.puzzles_de_saut.breche_du_mur_en_folie" GUID="mRMvEGg1RUaSngph60AeHA==" iconFile="Img\Combat.png" iconSize="1" color="ffe52020" behavior="2"/>
+
+	</POIs>
+</OverlayData>

@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+POIs: ReActif.9251
+Date: 2017/02/10
+-->
+<OverlayData>
+	<MarkerCategory name="general" DisplayName="General">
+		<MarkerCategory name="pourfendeur" DisplayName="Slayer" iconFile="Img\Pourfendeur.png">
+			<MarkerCategory name="pourfendeur_de_bandits" DisplayName="Bandit Slayer"/>
+			<MarkerCategory name="pourfendeur_de_chauves_souris" DisplayName="Bat Slayer"/>
+			<MarkerCategory name="pourfendeur_de_centaures" DisplayName="Centaur Slayer"/>
+			<MarkerCategory name="pourfendeur_de_devoreurs" DisplayName="Devourer Slayer"/>
+			<MarkerCategory name="pourfendeur_de_drakes" DisplayName="Drake Slayer"/>
+			<MarkerCategory name="pourfendeur_de_draguerres" DisplayName="Dredge Slayer"/>
+			<MarkerCategory name="pourfendeur_d_elementaires" DisplayName="Elemental Slayer"/>
+			<MarkerCategory name="pourfendeur_d_ettins" DisplayName="Ettin Slayer"/>
+			<MarkerCategory name="pourfendeur_de_poissons" DisplayName="Fish Slayer"/>
+			<MarkerCategory name="fleau_de_la_legion_de_la_flamme" DisplayName="Flame Legion's Bane"/>
+			<MarkerCategory name="chasseur_de_fantomes" DisplayName="Ghost Buster"/>
+			<MarkerCategory name="pourfendeur_de_geants" DisplayName="Giant Slayer"/>
+			<MarkerCategory name="pourfendeur_de_grawls" DisplayName="Grawl Slayer"/>
+			<MarkerCategory name="pourfendeur_de_griffons" DisplayName="Griffon Slayer"/>
+			<MarkerCategory name="pourfendeur_de_harpies" DisplayName="Harpy Slayer"/>
+			<MarkerCategory name="pourfendeur_de_hyleks" DisplayName="Hylek Slayer"/>
+			<MarkerCategory name="pourfendeur_de_diablotins" DisplayName="Imp Slayer"/>
+			<MarkerCategory name="pourfendeur_en_serie" DisplayName="Indiscriminate Slayer"/>
+			<MarkerCategory name="fleau_de_l_enqueste" DisplayName="Inquest's Bane"/>
+			<MarkerCategory name="pourfendeur_d_insectes" DisplayName="Insect Slayer"/>
+			<MarkerCategory name="pourfendeur_de_jotuns" DisplayName="Jotun Slayer"/>
+			<MarkerCategory name="pourfendeur_de_kraits" DisplayName="Krait Slayer"/>
+			<MarkerCategory name="pourfendeur_de_minotaures" DisplayName="Minotaur Slayer"/>
+			<MarkerCategory name="fleau_de_la_cour_des_cauchemars" DisplayName="Nightmare Court's Bane"/>
+			<MarkerCategory name="pourfendeur_d_ogres" DisplayName="Ogre Slayer"/>
+			<MarkerCategory name="pourfendeur_de_limons" DisplayName="Ooze Slayer"/>
+			<MarkerCategory name="pourfendeur_de_pirates" DisplayName="Pirate Slayer"/>
+			<MarkerCategory name="pourfendeur_de_plantes" DisplayName="Plant Slayer"/>
+			<MarkerCategory name="pourfendeur_de_raptors" DisplayName="Raptor Slayer"/>
+			<MarkerCategory name="pourfendeur_de_carapaces" DisplayName="Shell Slayer"/>
+			<MarkerCategory name="pourfendeur_d_ecailleux" DisplayName="Skale Slayer"/>
+			<MarkerCategory name="pourfendeur_de_skelks" DisplayName="Skelk Slayer"/>
+			<MarkerCategory name="pourfendeur_de_skritts" DisplayName="Skritt Slayer"/>
+			<MarkerCategory name="fleau_des_fils_de_svanir" DisplayName="Sons of Svanir's Bane"/>
+			<MarkerCategory name="pourfendeur_d_araignees" DisplayName="Spider Slayer"/>
+			<MarkerCategory name="pourfendeur_de_trolls" DisplayName="Troll Slayer"/>
+			<MarkerCategory name="pourfendeur_de_chevaucheurs_de_vent" DisplayName="Wind Rider Slayer"/>
+			<MarkerCategory name="pourfendeur_de_guivres" DisplayName="Wurm Slayer"/>
+		</MarkerCategory>
+	</MarkerCategory>
+
+	<POIs>
+
+		<!-- Chasseur_de_Fantomes -->
+		<POI MapID="19" xpos="317.851" ypos="25.9986" zpos="377.798" type="general.pourfendeur.chasseur_de_fantomes" GUID="2Yl/85On+0m9l1nhreMWjw=="/>
+		<POI MapID="19" xpos="-888.336" ypos="25.7768" zpos="-335.233" type="general.pourfendeur.chasseur_de_fantomes" GUID="Dg1GZYWflE2IUrGw/HWcXQ=="/>
+
+		<!-- Fleau_de_l_Enqueste -->
+		<POI MapID="35" xpos="404.116" ypos="49.3427" zpos="801.158" type="general.pourfendeur.fleau_de_l_enqueste" GUID="/7eMivv1pk6IU2jSAyNEdw=="/>
+
+		<!-- Fleau_de_la_Cour_des_Cauchemars -->
+		<POI MapID="34" xpos="-230.598" ypos="30.9125" zpos="-689.084" type="general.pourfendeur.fleau_de_la_cour_des_cauchemars" GUID="qcVVLFvYZUGGvplKoeCMaQ=="/>
+
+		<!-- Fleau_de_la_Legion_de_la_Flamme -->
+		<POI MapID="22" xpos="899.186" ypos="76.822" zpos="702.101" type="general.pourfendeur.fleau_de_la_legion_de_la_flamme" GUID="IKOK9BaWHka5prZbloaW6g=="/>
+
+		<!-- Fleau_de_Zhaitan (Tous les ennemis en Orr) -->
+
+		<!-- Fleau_des_Fils_de_Svanir -->
+		<POI MapID="28" xpos="-33.091" ypos="46.49" zpos="-1205.89" type="general.pourfendeur.fleau_des_fils_de_svanir" GUID="oSHZ4hXCQEKnrsFz2AbJVw=="/>
+
+		<!-- Pourfendeur_d_Araignees -->
+		<POI MapID="15" xpos="-209.66" ypos="18.4336" zpos="-189.429" type="general.pourfendeur.pourfendeur_d_araignees" GUID="fPIRoJ5HZ0+Eth3jJbjsfA=="/>
+
+		<!-- Pourfendeur_d_Ecailleux -->
+		<POI MapID="15" xpos="-596.852" ypos="-0.708263" zpos="420.069" type="general.pourfendeur.pourfendeur_d_ecailleux" GUID="AcpsL7qVT0W6ajfF6Rw/bQ=="/>
+		<POI MapID="15" xpos="-537.535" ypos="-1.07655" zpos="320.103" type="general.pourfendeur.pourfendeur_d_ecailleux" GUID="S10J70eDh0efhmCMKtfqJA=="/>
+
+		<!-- Pourfendeur_d_Elementaires -->
+		<POI MapID="17" xpos="-178.373" ypos="55.322" zpos="-133.39" type="general.pourfendeur.pourfendeur_d_elementaires" GUID="e8CwnT9L9UiqvQWWIFJ9Pw=="/>
+
+		<!-- Pourfendeur_d_Ettins -->
+		<POI MapID="15" xpos="11.256" ypos="31.1542" zpos="-147.581" type="general.pourfendeur.pourfendeur_d_ettins" GUID="Biu/StDn0ESYwveKfyjPZg=="/>
+		<POI MapID="23" xpos="945.664" ypos="73.5356" zpos="-299.193" type="general.pourfendeur.pourfendeur_d_ettins" GUID="BA0Msy/P2EiUz8DCTber3w=="/>
+
+		<!-- Pourfendeur_d_Insectes -->
+		<POI MapID="35" xpos="-103.885" ypos="0.0623817" zpos="65.6004" type="general.pourfendeur.pourfendeur_d_insectes" GUID="GOQW3v7SzECKYdycT45kGA=="/>
+
+		<!-- Pourfendeur_d_Ogres -->
+		<POI MapID="21" xpos="204.704" ypos="26.9754" zpos="-739.815" type="general.pourfendeur.pourfendeur_d_ogres" GUID="UN2nnqbIkUSRz4oDC1hZSA=="/>
+		<POI MapID="21" xpos="701.509" ypos="52.6239" zpos="-752.71" type="general.pourfendeur.pourfendeur_d_ogres" GUID="OsT7hzhncEKNOMaNS++NFw=="/>
+		<POI MapID="21" xpos="28.4804" ypos="18.2926" zpos="-201.953" type="general.pourfendeur.pourfendeur_d_ogres" GUID="Hl0WBrWJB0WcduIFulQOqQ=="/>
+		<POI MapID="21" xpos="278.674" ypos="44.8131" zpos="-292.225" type="general.pourfendeur.pourfendeur_d_ogres" GUID="OC6DdpGEFkeR694GJ5AYAw=="/>
+
+		<!-- Pourfendeur_de_Bandits -->
+		<POI MapID="15" xpos="-810.997" ypos="26.8836" zpos="-140.818" type="general.pourfendeur.pourfendeur_de_bandits" GUID="4pl1XaCcvUC1GG8+mvnOtw=="/>
+		<POI MapID="15" xpos="-843.731" ypos="17.4646" zpos="44.9593" type="general.pourfendeur.pourfendeur_de_bandits" GUID="wo4aDECTv0eF4M8SA2/MgA=="/>
+		<POI MapID="15" xpos="-911.465" ypos="16.0254" zpos="148.644" type="general.pourfendeur.pourfendeur_de_bandits" GUID="7ihNv7F1yUKcxzGKaNg9qA=="/>
+		<POI MapID="15" xpos="-741.797" ypos="24.1991" zpos="74.8106" type="general.pourfendeur.pourfendeur_de_bandits" GUID="XhkpbmIsnEKn5ib88kKvrQ=="/>
+
+		<!-- Pourfendeur_de_Carapaces -->
+		<POI MapID="34" xpos="-209.363" ypos="9.37538" zpos="-141.132" type="general.pourfendeur.pourfendeur_de_carapaces" GUID="QT6g2Ii9vUeUBOwVfaPq0w=="/>
+
+		<!-- Pourfendeur_de_Centaures -->
+		<POI MapID="15" xpos="-76.7812" ypos="27.283" zpos="171.118" type="general.pourfendeur.pourfendeur_de_centaures" GUID="7bLFGzjMl0OIxhcltqmvsw=="/>
+
+		<!-- Pourfendeur_de_Chauves-Souris -->
+		<POI MapID="15" xpos="-147.109" ypos="56.9061" zpos="557.768" type="general.pourfendeur.pourfendeur_de_chauves_souris" GUID="lSKLTvOC5EKm1ImY9ZWSFQ=="/>
+
+		<!-- Pourfendeur_de_Chevaucheurs_de_Vent -->
+		<POI MapID="54" xpos="155.806" ypos="63.3462" zpos="605.155" type="general.pourfendeur.pourfendeur_de_chevaucheurs_de_vent" GUID="N87lUmPx+UCe0xJegvYQ+w=="/>
+		<POI MapID="54" xpos="84.15" ypos="50.132" zpos="500.375" type="general.pourfendeur.pourfendeur_de_chevaucheurs_de_vent" GUID="21tzHlW3YE+5pT5urHm9EA=="/>
+
+		<!-- Pourfendeur_de_Devoreurs -->
+		<POI MapID="19" xpos="476.491" ypos="25.8743" zpos="293.898" type="general.pourfendeur.pourfendeur_de_devoreurs" GUID="lNKE4dPoMUuK0+KvT3fnpw=="/>
+
+		<!-- Pourfendeur_de_Diablotins -->
+		<POI MapID="22" xpos="293.198" ypos="12.0175" zpos="496.708" type="general.pourfendeur.pourfendeur_de_diablotins" GUID="LeLxJbZd60SMtwf0eCaY0g=="/>
+
+		<!-- Pourfendeur_de_Draguerres -->
+		<POI MapID="28" xpos="-242.821" ypos="13.1879" zpos="-1170.19" type="general.pourfendeur.pourfendeur_de_draguerres" GUID="lYNgSRnDtUe4vrxFpQfk6Q=="/>
+
+		<!-- Pourfendeur_de_Drakes -->
+		<POI MapID="15" xpos="48.0734" ypos="-0.738489" zpos="7.37599" type="general.pourfendeur.pourfendeur_de_drakes" GUID="VqCpMCXG5kGfECwrHStPOQ=="/>
+
+		<!-- Pourfendeur_de_Geants -->
+		<POI MapID="17" xpos="874.891" ypos="68.1671" zpos="89.0968" type="general.pourfendeur.pourfendeur_de_geants" GUID="1UJJYNOYSESZudWEHC8pSA=="/>
+		<POI MapID="32" xpos="-243.82" ypos="41.9896" zpos="-373.858" type="general.pourfendeur.pourfendeur_de_geants" GUID="ZcompDFOPU+I3Y5FjdiFug=="/>
+		<POI MapID="54" xpos="-669.045" ypos="3.74131" zpos="-620.239" type="general.pourfendeur.pourfendeur_de_geants" GUID="c+Hk1B4Xjk29vtTb7Ts8TQ=="/>
+
+		<!-- Pourfendeur_de_Grawls -->
+		<POI MapID="28" xpos="373.289" ypos="11.8508" zpos="-862.268" type="general.pourfendeur.pourfendeur_de_grawls" GUID="RNiizV+F0USxJDtdjDJUVA=="/>
+		<POI MapID="30" xpos="306.407" ypos="1.92946" zpos="186.047" type="general.pourfendeur.pourfendeur_de_grawls" GUID="ZyfctW6JSkahVZBfukS5MQ=="/>
+
+		<!-- Pourfendeur_de_Griffons -->
+		<POI MapID="31" xpos="665.042" ypos="87.4337" zpos="-477.739" type="general.pourfendeur.pourfendeur_de_griffons" GUID="64GBcf77jEOGsmq1Nxz5Pg=="/>
+
+		<!-- Pourfendeur_de_Guivres -->
+		<POI MapID="28" xpos="206.149" ypos="74.4394" zpos="708.248" type="general.pourfendeur.pourfendeur_de_guivres" GUID="9bzeQ+/y/U2o9B01ib4WRw=="/>
+
+		<!-- Pourfendeur_de_Harpies -->
+		<POI MapID="19" xpos="172.87" ypos="44.8834" zpos="501.054" type="general.pourfendeur.pourfendeur_de_harpies" GUID="PnLfrDZeqUGa1P/+Tqhn7g=="/>
+		<POI MapID="19" xpos="223.904" ypos="58.4523" zpos="334.146" type="general.pourfendeur.pourfendeur_de_harpies" GUID="EcdoKSwfZ0+9A6RGIvwwfQ=="/>
+
+		<!-- Pourfendeur_de_Hyleks -->
+		<POI MapID="35" xpos="375.75" ypos="2.35987" zpos="153.224" type="general.pourfendeur.pourfendeur_de_hyleks" GUID="FdLT5Vk9IE2VUYbGHmW1pg=="/>
+
+		<!-- Pourfendeur_de_Jotuns -->
+		<POI MapID="28" xpos="387.314" ypos="34.6995" zpos="-710.67" type="general.pourfendeur.pourfendeur_de_jotuns" GUID="JLTOxdFXhUyTegIwlx6vzA=="/>
+		<POI MapID="28" xpos="-444.645" ypos="124.202" zpos="-186.9" type="general.pourfendeur.pourfendeur_de_jotuns" GUID="NWVwmSRoKk+vQKP6f4fc+w=="/>
+
+		<!-- Pourfendeur_de_Kraits -->
+		<POI MapID="34" xpos="420.218" ypos="0.532112" zpos="-86.529" type="general.pourfendeur.pourfendeur_de_kraits" GUID="a7mi/dCbzkKqZZm40jt1xg=="/>
+		<POI MapID="34" xpos="454.938" ypos="-1.05275" zpos="322.967" type="general.pourfendeur.pourfendeur_de_kraits" GUID="+nJh9i+6xEyup6Am5r0xcw=="/>
+		<POI MapID="34" xpos="475.143" ypos="-1.05275" zpos="920.254" type="general.pourfendeur.pourfendeur_de_kraits" GUID="kK65cH1za0KVEtJ0SGIK0Q=="/>
+
+		<!-- Pourfendeur_de_Limons -->
+		<POI MapID="35" xpos="284.704" ypos="29.8584" zpos="-222.073" type="general.pourfendeur.pourfendeur_de_limons" GUID="A4gcFrp8pEynhPMYVJikiQ=="/>
+
+		<!-- Pourfendeur_de_Minotaures -->
+		<POI MapID="28" xpos="-300.894" ypos="114.416" zpos="-222.604" type="general.pourfendeur.pourfendeur_de_minotaures" GUID="P014vBu3U0qmnIqQy0vAig=="/>
+		<POI MapID="19" xpos="-25.1242" ypos="38.437" zpos="-426.638" type="general.pourfendeur.pourfendeur_de_minotaures" GUID="gQKlUttEU0+AaYPqcn1tdg=="/>
+
+		<!-- Pourfendeur_de_Pirates -->
+		<POI MapID="24" xpos="263.603" ypos="1.71646" zpos="370.237" type="general.pourfendeur.pourfendeur_de_pirates" GUID="XLwmmoSm8kmffdjDzi9VpQ=="/>
+		<POI MapID="24" xpos="422.573" ypos="0.999314" zpos="258.91" type="general.pourfendeur.pourfendeur_de_pirates" GUID="Z6Sm2k4Xq0O21a8Ti9+sAg=="/>
+		<POI MapID="24" xpos="240.463" ypos="0.384301" zpos="150.725" type="general.pourfendeur.pourfendeur_de_pirates" GUID="H0x78gaD+kWbCedMd8zEgg=="/>
+
+		<!-- Pourfendeur_de_Plantes -->
+		<POI MapID="15" xpos="-81.026" ypos="3.65304" zpos="-231.136" type="general.pourfendeur.pourfendeur_de_plantes" GUID="JiUqzpknt0SHByTzMRPRqA=="/>
+
+		<!-- Pourfendeur_de_Poissons -->
+		<POI MapID="23" xpos="201.352" ypos="-1.05023" zpos="-277.031" type="general.pourfendeur.pourfendeur_de_poissons" GUID="zZHsazvyrECm6Hc/83p6cA=="/>
+
+		<!-- Pourfendeur_de_Raptors -->
+		<POI MapID="35" xpos="-295.209" ypos="25.4593" zpos="-494.435" type="general.pourfendeur.pourfendeur_de_raptors" GUID="evtgX2m7E02ckg6QbWwt3g=="/>
+		<POI MapID="34" xpos="141.191" ypos="21.4021" zpos="615.889" type="general.pourfendeur.pourfendeur_de_raptors" GUID="Dp5t+zaMbESjZNasMGlNIA=="/>
+		<POI MapID="95" xpos="-297.714" ypos="1.30455" zpos="-621.846" type="general.pourfendeur.pourfendeur_de_raptors" GUID="RdrJAmSG7U6G6LBMlwvLVw=="/>
+		<POI MapID="96" xpos="-297.714" ypos="1.30455" zpos="-621.846" type="general.pourfendeur.pourfendeur_de_raptors" GUID="flVJhMNtJkqKHkuumG+8Xw=="/>
+
+		<!-- Pourfendeur_en_Serie -->
+		<POI MapID="95" xpos="2.93955" ypos="93.0266" zpos="863.832" type="general.pourfendeur.pourfendeur_en_serie" GUID="8XfcXGcgf0iiKZwfUA1O0w=="/>
+		<POI MapID="96" xpos="2.93955" ypos="93.0266" zpos="863.832" type="general.pourfendeur.pourfendeur_en_serie" GUID="5NBVeQmiqU6u9uI5vAsTLQ=="/>
+
+		<!-- Pourfendeur_de_Skelks -->
+		<POI MapID="15" xpos="476.173" ypos="0.173396" zpos="-530.277" type="general.pourfendeur.pourfendeur_de_skelks" GUID="y0BWZPlj6kORWljQsfjWgQ=="/>
+		<POI MapID="15" xpos="173.885" ypos="-0.389929" zpos="-328.346" type="general.pourfendeur.pourfendeur_de_skelks" GUID="sC+uqtmB6kmkJXhAUewYSg=="/>
+		<POI MapID="873" xpos="643.525" ypos="-0.660196" zpos="-272.093" type="general.pourfendeur.pourfendeur_de_skelks" GUID="8LqvbB35mk2jILTLYOPCIQ=="/>
+		<POI MapID="873" xpos="699.545" ypos="0.0460327" zpos="-109.075" type="general.pourfendeur.pourfendeur_de_skelks" GUID="8lUyPnDFEUye4bjv9KKQeQ=="/>
+
+		<!-- Pourfendeur_de_Skritts -->
+		<POI MapID="34" xpos="-66.1809" ypos="19.0309" zpos="306.023" type="general.pourfendeur.pourfendeur_de_skritts" GUID="3lJal5mMAk+k2P/vTpgbBg=="/>
+
+		<!-- Pourfendeur_de_Trolls -->
+		<POI MapID="34" xpos="188.863" ypos="8.56851" zpos="-1045.21" type="general.pourfendeur.pourfendeur_de_trolls" GUID="TMBJwfR2J0OWcHD218PSLA=="/>
+
+	</POIs>
+</OverlayData>

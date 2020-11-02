@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+POIs: ReActif.9251
+Date: 2016/12/09
+-->
+<OverlayData>
+	<MarkerCategory name="chroniques.saison_3">
+		<MarkerCategory name="ep1_hors_des_ombres" DisplayName="Ep.1 - Out of the Shadows" iconFile="Img\MaraisDeLaPierreDeSang.png">
+			<MarkerCategory name="journal_de_recherches_du_grand_savant_valis_l_erudit" DisplayName="Grand Savant Valis the Learned's Research Journal"/>
+		</MarkerCategory>
+	</MarkerCategory>
+
+	<POIs>
+
+		<!-- Pages -->
+		<POI MapID="1165" xpos="12.0762" ypos="775.04" zpos="91.5998" type="chroniques.saison_3.ep1_hors_des_ombres.journal_de_recherches_du_grand_savant_valis_l_erudit" GUID="nvNx0n63DUm3KwvpZTgyUw=="/>
+		<POI MapID="1165" xpos="-143.342" ypos="508.936" zpos="-33.2901" type="chroniques.saison_3.ep1_hors_des_ombres.journal_de_recherches_du_grand_savant_valis_l_erudit" GUID="I4tFWfQwqk6eHMwyxZ3zJg=="/>
+		<POI MapID="1165" xpos="130.334" ypos="493.878" zpos="113.561" type="chroniques.saison_3.ep1_hors_des_ombres.journal_de_recherches_du_grand_savant_valis_l_erudit" GUID="c/IHTYilR0+Ta0+lx9W8dA=="/>
+		<POI MapID="1165" xpos="101.237" ypos="622.272" zpos="53.5268" type="chroniques.saison_3.ep1_hors_des_ombres.journal_de_recherches_du_grand_savant_valis_l_erudit" GUID="349YjwM5Vku7qTcZ4BeS+Q=="/>
+		<POI MapID="1165" xpos="158.4" ypos="307.785" zpos="-5.78392" type="chroniques.saison_3.ep1_hors_des_ombres.journal_de_recherches_du_grand_savant_valis_l_erudit" GUID="BH3Oy2DMvESUlIQ6tv71kA=="/>
+		<POI MapID="1165" xpos="-227.454" ypos="95.0675" zpos="-45.5282" type="chroniques.saison_3.ep1_hors_des_ombres.journal_de_recherches_du_grand_savant_valis_l_erudit" GUID="73fgyT4FlUizbYX578IhHQ=="/>
+		<POI MapID="1165" xpos="321.638" ypos="649.523" zpos="9.51158" type="chroniques.saison_3.ep1_hors_des_ombres.journal_de_recherches_du_grand_savant_valis_l_erudit" GUID="rPepx567sE2iUUp/SQbjfw=="/>
+		<POI MapID="1165" xpos="-51.4666" ypos="545.401" zpos="182.217" type="chroniques.saison_3.ep1_hors_des_ombres.journal_de_recherches_du_grand_savant_valis_l_erudit" GUID="xPA1vm3sCkSgVwmYbVrSug=="/>
+		<POI MapID="1165" xpos="-163.122" ypos="519.15" zpos="56.1285" type="chroniques.saison_3.ep1_hors_des_ombres.journal_de_recherches_du_grand_savant_valis_l_erudit" GUID="X3Rk98iqYUezNn/zDOp9tQ=="/>
+		<POI MapID="1165" xpos="78.6451" ypos="688.471" zpos="112.856" type="chroniques.saison_3.ep1_hors_des_ombres.journal_de_recherches_du_grand_savant_valis_l_erudit" GUID="H9lEiKMjpEiEXY9hfh4Qwg=="/>
+		<POI MapID="1165" xpos="302.336" ypos="654.424" zpos="111.14" type="chroniques.saison_3.ep1_hors_des_ombres.journal_de_recherches_du_grand_savant_valis_l_erudit" GUID="aklH9u6SvkGGoUNCeNG0Lg=="/>
+		<POI MapID="1165" xpos="-128.166" ypos="546.443" zpos="-92.0134" type="chroniques.saison_3.ep1_hors_des_ombres.journal_de_recherches_du_grand_savant_valis_l_erudit" GUID="H7dMWVlCsUeUptl2hb+vFw=="/>
+		<POI MapID="1165" xpos="-270.796" ypos="514.832" zpos="-30.1418" type="chroniques.saison_3.ep1_hors_des_ombres.journal_de_recherches_du_grand_savant_valis_l_erudit" GUID="IUwQHlkvOk66uZumXUI9aw=="/>
+		<POI MapID="1165" xpos="-223.389" ypos="540.966" zpos="55.2466" type="chroniques.saison_3.ep1_hors_des_ombres.journal_de_recherches_du_grand_savant_valis_l_erudit" GUID="c0noDhIw3Eu4sejQ5onPlw=="/>
+
+	</POIs>
+</OverlayData>

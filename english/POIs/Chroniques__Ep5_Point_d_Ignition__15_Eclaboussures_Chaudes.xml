@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+POIs: ReActif.9251
+Date: 2017/05/04
+-->
+<OverlayData>
+	<MarkerCategory name="chroniques.saison_3">
+		<MarkerCategory name="ep5_point_d_ignition" DisplayName="Ep.5 - Flashpoint" iconFile="Img\MontDraconis.png">
+			<MarkerCategory name="eclaboussures_chaudes" DisplayName="Hot Splashes"/>
+		</MarkerCategory>
+	</MarkerCategory>
+
+	<POIs>
+
+		<!-- Lunettes de plongée -->
+		<POI MapID="1195" xpos="-24.4155" ypos="546.901" zpos="-258.82" type="chroniques.saison_3.ep5_point_d_ignition.eclaboussures_chaudes" GUID="Ui98YXnR6EWNP6sQp9F0qg=="/>
+
+		<!-- Tonneau -->
+		<POI MapID="1195" xpos="-42.5497" ypos="-0.183235" zpos="-246.933" type="chroniques.saison_3.ep5_point_d_ignition.eclaboussures_chaudes" GUID="YVtRFpDlyEeiwWBGYLcsSg==" iconFile="Img\Cible.png"/>
+
+	</POIs>
+</OverlayData>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+POIs: ReActif.9251
+Date: 2017/
+-->
+<OverlayData>
+	<MarkerCategory name="chroniques.hot">
+		<MarkerCategory name="acte_4" DisplayName="Heart of Thorns : Act 4" iconFile="Img\HeartOfThornsActe4.png">
+			<MarkerCategory name="ligne_de_mire" DisplayName="Line of Fire"/>
+		</MarkerCategory>
+	</MarkerCategory>
+
+	<POIs>
+
+		<!-- Tireurs d'Elites Mordrem -->
+		<POI MapID="1054" xpos="369.519" ypos="94" zpos="-690.655" type="chroniques.hot.acte_4.ligne_de_mire" GUID="xIyes3oMaUazCnUDQR6HPA=="/>
+		<POI MapID="1054" xpos="369.519" ypos="96" zpos="-690.655" type="chroniques.hot.acte_4.ligne_de_mire" GUID="ibq9I1uvjk6PgLfckQR1zQ==" iconFile="Img\Combat.png" color="ffff0000"/>
+
+	</POIs>
+</OverlayData>

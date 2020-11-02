@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+POIs: ReActif.9251
+Date: 2016/12/09
+-->
+<OverlayData>
+	<MarkerCategory name="chroniques.saison_3">
+		<MarkerCategory name="ep1_hors_des_ombres" DisplayName="Ep.1 - Out of the Shadows" iconFile="Img\MaraisDeLaPierreDeSang.png">
+			<MarkerCategory name="deuil_difficile" DisplayName="Grief Counseling"/>
+		</MarkerCategory>
+	</MarkerCategory>
+
+	<POIs>
+
+		<!-- Indications de l'emote à faire et quand -->
+		<POI MapID="1165" xpos="-197.448" ypos="503.467" zpos="126.956" type="chroniques.saison_3.ep1_hors_des_ombres.deuil_difficile" GUID="ybUihjmFJ0yGAbngdH2mhQ==" iconFile="Img\HorsDesOmbres_DeuilDifficile-EN.png" iconSize="1.5" heightOffset="4"/>
+
+	</POIs>
+</OverlayData>

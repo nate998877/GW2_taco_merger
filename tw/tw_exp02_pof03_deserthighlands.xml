@@ -1,0 +1,243 @@
+<OverlayData>
+<MarkerCategory name="tw_guides" DisplayName="Tekkit's Guides">
+  <MarkerCategory name="tw_pof" DisplayName="Path of Fire">
+    <MarkerCategory name="tw_pof_dh" DisplayName="Desert Highlands">
+      <MarkerCategory name="tw_pof_dh_dwarvenremnants" DisplayName="Dwarven Remnants">
+        <MarkerCategory name="tw_pof_dh_dwarvenremnants_dwarvenremnant" DisplayName="Toggle Dwarven Remnants" mapDisplaySize="30" iconFile="Data/TekkitsWorkshop/PoF/DesertHighlands/tw_pof_dh_dwarvenremnants_dwarvenremnant.png" iconSize="0.5" heightOffset="0.5" minSize="10" fadeNear="3000" fadeFar="3100" behavior="2"/>
+        <MarkerCategory name="tw_pof_dh_dwarvenremnants_toggletrail" DisplayName="Toggle Trail">
+          </MarkerCategory>
+        <MarkerCategory name="tw_pof_dh_dwarvenremnants_signs" DisplayName="Toggle Signs">
+          <MarkerCategory name="tw_pof_dh_dwarvenremnants_startsignp1" DisplayName="Starting Sign Part1" mapDisplaySize="130" iconFile="Data/TekkitsWorkshop/PoF/DesertHighlands/tw_pof_dh_dwarvenremnants_sign1.png" iconSize="1" heightOffset="2.5" minSize="50" fadeNear="5000" fadeFar="5100"/>
+          <MarkerCategory name="tw_pof_dh_dwarvenremnants_startsignp2" DisplayName="Starting Sign Part2" mapDisplaySize="130" iconFile="Data/TekkitsWorkshop/PoF/DesertHighlands/tw_pof_dh_dwarvenremnants_sign2.png" iconSize="1" heightOffset="2.5" minSize="50" fadeNear="5000" fadeFar="5100"/>
+          <MarkerCategory name="tw_pof_dh_dwarvenremnants_startsignp3" DisplayName="Starting Sign Part3" mapDisplaySize="130" iconFile="Data/TekkitsWorkshop/PoF/DesertHighlands/tw_pof_dh_dwarvenremnants_sign3.png" iconSize="1" heightOffset="2.5" minSize="50" fadeNear="5000" fadeFar="5100"/>
+          <MarkerCategory name="tw_pof_dh_dwarvenremnants_startsignp4" DisplayName="Starting Sign Part4" mapDisplaySize="130" iconFile="Data/TekkitsWorkshop/PoF/DesertHighlands/tw_pof_dh_dwarvenremnants_sign4.png" iconSize="1" heightOffset="2.5" minSize="50" fadeNear="5000" fadeFar="5100"/>
+          <MarkerCategory name="tw_pof_dh_dwarvenremnants_startsignp5" DisplayName="Starting Sign Part5" mapDisplaySize="130" iconFile="Data/TekkitsWorkshop/PoF/DesertHighlands/tw_pof_dh_dwarvenremnants_sign5.png" iconSize="1" heightOffset="2.5" minSize="50" fadeNear="5000" fadeFar="5100"/>
+          <MarkerCategory name="tw_pof_dh_dwarvenremnants_teleport1" DisplayName="Teleport Sign Part1" miniMapVisibility="0" mapVisibility="0" iconFile="Data/TekkitsWorkshop/PoF/DesertHighlands/tw_pof_dh_teleport1.png" iconSize="1" heightOffset="2.5" minSize="50" fadeNear="5000" fadeFar="5100"/>
+          <MarkerCategory name="tw_pof_dh_dwarvenremnants_teleport2" DisplayName="Teleport Sign Part2" miniMapVisibility="0" mapVisibility="0" iconFile="Data/TekkitsWorkshop/PoF/DesertHighlands/tw_pof_dh_teleport2.png" iconSize="1" heightOffset="2.5" minSize="50" fadeNear="5000" fadeFar="5100"/>
+          <MarkerCategory name="tw_pof_dh_dwarvenremnants_teleport3" DisplayName="Teleport Sign Part3" miniMapVisibility="0" mapVisibility="0" iconFile="Data/TekkitsWorkshop/PoF/DesertHighlands/tw_pof_dh_teleport3.png" iconSize="1" heightOffset="2.5" minSize="50" fadeNear="5000" fadeFar="5100"/>
+          <MarkerCategory name="tw_pof_dh_dwarvenremnants_teleport4" DisplayName="Teleport Sign Part4" miniMapVisibility="0" mapVisibility="0" iconFile="Data/TekkitsWorkshop/PoF/DesertHighlands/tw_pof_dh_teleport4.png" iconSize="1" heightOffset="2.5" minSize="50" fadeNear="5000" fadeFar="5100"/>
+          <MarkerCategory name="tw_pof_dh_dwarvenremnants_finish" DisplayName="Finish Sign" iconFile="Data/TekkitsWorkshop/General/tw_trail_finish_b.png" mapDisplaySize="80" iconSize="1" heightOffset="2.5" minSize="50" fadeNear="5000" fadeFar="5100"/>
+          </MarkerCategory>
+        </MarkerCategory>
+        <MarkerCategory name="tw_pof_dh_hiddencarrots_carrot" DisplayName="Hidden Carrot Hunt" iconSize="0.6" fadeNear="10000" fadeFar="10000" heightOffset="1.0" behavior="4" resetLength="200" iconFile="Data/TekkitsWorkshop/MC/tw_mc_pof_dh_heart1_carrot.png"/>
+        <MarkerCategory name="tw_pof_dh_adv_cavalierexpressparcelrun" DisplayName="Adventure - Cavalier Express Parcel Run">
+        <MarkerCategory name="tw_pof_dh_adv_cavalierexpressparcelrun_jumponspot" DisplayName="Toggle Jump-On Spots" miniMapVisibility="0" mapVisibility="0" iconFile="Data/TekkitsWorkshop/General/tw_trail_jump.png" iconSize="0.5" heightOffset="0.5" minSize="10" fadeNear="3000" fadeFar="3100"/>
+        <MarkerCategory name="tw_pof_dh_adv_cavalierexpressparcelrun_toggletrail" DisplayName="Toggle Trail">
+          </MarkerCategory>
+        <MarkerCategory name="tw_pof_dh_adv_cavalierexpressparcelrun_signs" DisplayName="Toggle Signs">
+          <MarkerCategory name="tw_pof_dh_adv_cavalierexpressparcelrun_startsign" DisplayName="Starting Sign" mapDisplaySize="130" iconFile="Data/TekkitsWorkshop/PoF/DesertHighlands/tw_pof_dh_adv_cavalierexpressparcelrun_startsign.png" iconSize="1" heightOffset="2.5" minSize="50" fadeNear="5000" fadeFar="5100"/>
+          <MarkerCategory name="tw_pof_dh_adv_cavalierexpressparcelrun_finishsign" DisplayName="Finish Sign" mapDisplaySize="80" iconFile="Data/TekkitsWorkshop/General/tw_trail_finish_g.png" iconSize="1" heightOffset="2.5" minSize="50" fadeNear="5000" fadeFar="5100"/>
+        </MarkerCategory>
+      </MarkerCategory>
+      <MarkerCategory name="tw_pof_dh_buriedtreasure_chest" DisplayName="The Search for Buried Treasure" mapDisplaySize="30" iconSize="0.5" fadeNear="7000" fadeFar="7100" minSize="15" heightOffset="0.0" iconFile="Data/TekkitsWorkshop/PoF/DesertHighlands/tw_pof_dh_treasurehunt.png"/>
+      <MarkerCategory name="tw_pof_dh_lostlore_page" DisplayName="Lost Lore of Desert Highlands" mapDisplaySize="30" iconSize="0.5" minSize="15" heightOffset="0.0" iconFile="Data/TekkitsWorkshop/PoF/CrystalOasis/tw_pof_co_lostlore_page.png"/>
+      <MarkerCategory name="tw_pof_dh_sandportals" DisplayName="Sand Portals">
+        <MarkerCategory name="tw_pof_dh_sandportals_sandportal" DisplayName="Toggle Portals" iconFile="Data/TekkitsWorkshop/General/tw_trail_entrance.png" iconSize="0.5" heightOffset="1.5" minSize="10" fadeNear="10000" fadeFar="10000" />
+        <MarkerCategory name="tw_pof_dh_sandportals_toggletrail" DisplayName="Toggle Trail">
+          </MarkerCategory>
+      </MarkerCategory>
+    </MarkerCategory>
+  </MarkerCategory>
+</MarkerCategory>
+<POIs>
+		
+		<POI MapID="1211" xpos="-565.265" ypos="35.3539" zpos="-359.159" type="tw_guides.tw_pof.tw_pof_dh.tw_pof_dh_hiddencarrots_carrot" GUID="rnryqeV+Z0aH+VsIqtRAxg=="/>
+		<POI MapID="1211" xpos="-444.251" ypos="39.5185" zpos="-689.902" type="tw_guides.tw_pof.tw_pof_dh.tw_pof_dh_hiddencarrots_carrot" GUID="pIzMSNVcTkmxBaJoSsBUow=="/>
+		<POI MapID="1211" xpos="-295.8" ypos="200.078" zpos="-218.243" type="tw_guides.tw_pof.tw_pof_dh.tw_pof_dh_hiddencarrots_carrot" GUID="8gMm/+tHmUiNxrhInRLfnQ=="/>
+		<POI MapID="1211" xpos="-329.714" ypos="4.19535" zpos="-480.003" type="tw_guides.tw_pof.tw_pof_dh.tw_pof_dh_hiddencarrots_carrot" GUID="m39zQjitik2ZaM4Tzu5UHQ=="/>
+		<POI MapID="1211" xpos="-806.911" ypos="3.26478" zpos="-534.93" type="tw_guides.tw_pof.tw_pof_dh.tw_pof_dh_hiddencarrots_carrot" GUID="Oth1pZ9C0k27WpBbVlqJZA=="/>
+		<POI MapID="1211" xpos="-826.444" ypos="44.0505" zpos="-424.435" type="tw_guides.tw_pof.tw_pof_dh.tw_pof_dh_hiddencarrots_carrot" GUID="/YQl+Enr2E+nMAUEPhsa2w=="/>
+		<POI MapID="1211" xpos="-690.035" ypos="36.5142" zpos="-374.893" type="tw_guides.tw_pof.tw_pof_dh.tw_pof_dh_hiddencarrots_carrot" GUID="9NnihuDlgUKP74nOKeaULA=="/>
+		<POI MapID="1211" xpos="-546.079" ypos="161.93" zpos="-177.262" type="tw_guides.tw_pof.tw_pof_dh.tw_pof_dh_hiddencarrots_carrot" GUID="xQYIxruaUkOYEEw4JE2qIQ=="/>
+		<POI MapID="1211" xpos="-416.083" ypos="22.52" zpos="-385.012" type="tw_guides.tw_pof.tw_pof_dh.tw_pof_dh_hiddencarrots_carrot" GUID="HjQGFVsySkepq7ga6S5AcQ=="/>
+		<POI MapID="1211" xpos="-541.44" ypos="0.433405" zpos="-695.248" type="tw_guides.tw_pof.tw_pof_dh.tw_pof_dh_hiddencarrots_carrot" GUID="gmRU9qKFZkSaESwe5hC2IA=="/>
+		<POI MapID="1211" xpos="-407.656" ypos="86.5145" zpos="-180.743" type="tw_guides.tw_pof.tw_pof_dh.tw_pof_dh_hiddencarrots_carrot" GUID="stPR9RPzKU6D9SHO4Jv3Ig=="/>
+		
+		<POI MapID="1211" xpos="208.403" ypos="183.045" zpos="-618.758" type="tw_guides.tw_pof.tw_pof_dh.tw_pof_dh_dwarvenremnants.tw_pof_dh_dwarvenremnants_dwarvenremnant" GUID="kiVmaBVBd0+OvPN0Vd0rog=="/>
+		<POI MapID="1211" xpos="-451.665" ypos="63.7958" zpos="-684.184" type="tw_guides.tw_pof.tw_pof_dh.tw_pof_dh_dwarvenremnants.tw_pof_dh_dwarvenremnants_dwarvenremnant" GUID="cK2nef2J20qBYNl5w0mg1g=="/>
+		<POI MapID="1211" xpos="1403.45" ypos="246.684" zpos="-12.413" type="tw_guides.tw_pof.tw_pof_dh.tw_pof_dh_dwarvenremnants.tw_pof_dh_dwarvenremnants_dwarvenremnant" GUID="ZP+/FLApGEa79T4YdZltjg=="/>
+		<POI MapID="1211" xpos="926.18" ypos="206.387" zpos="354.513" type="tw_guides.tw_pof.tw_pof_dh.tw_pof_dh_dwarvenremnants.tw_pof_dh_dwarvenremnants_dwarvenremnant" GUID="fPBb1HbnwkCNkeVOAmcj5g=="/>
+		<POI MapID="1211" xpos="548.623" ypos="295.619" zpos="620.719" type="tw_guides.tw_pof.tw_pof_dh.tw_pof_dh_dwarvenremnants.tw_pof_dh_dwarvenremnants_dwarvenremnant" GUID="Y+H1Y3UmeU2mQgHd7oZ0hA=="/>
+		<POI MapID="1211" xpos="-96.7922" ypos="264.752" zpos="393.267" type="tw_guides.tw_pof.tw_pof_dh.tw_pof_dh_dwarvenremnants.tw_pof_dh_dwarvenremnants_dwarvenremnant" GUID="b5B6ATLHfkGpJWZakiangw=="/>
+		<POI MapID="1211" xpos="-59.2209" ypos="321.448" zpos="418.727" type="tw_guides.tw_pof.tw_pof_dh.tw_pof_dh_dwarvenremnants.tw_pof_dh_dwarvenremnants_dwarvenremnant" GUID="3ow+FD50mkqh6lQRdyUf5Q=="/>
+		<POI MapID="1211" xpos="-206.805" ypos="275.281" zpos="-159.625" type="tw_guides.tw_pof.tw_pof_dh.tw_pof_dh_dwarvenremnants.tw_pof_dh_dwarvenremnants_dwarvenremnant" GUID="gE27Cz2moUqXswMAODoYXA=="/>
+		<POI MapID="1211" xpos="739.317" ypos="203.503" zpos="-14.4654" type="tw_guides.tw_pof.tw_pof_dh.tw_pof_dh_dwarvenremnants.tw_pof_dh_dwarvenremnants_dwarvenremnant" GUID="pXsbdjev0Uyzy1IiuINcsQ=="/>
+		<POI MapID="1211" xpos="-984.837" ypos="391.902" zpos="542.692" type="tw_guides.tw_pof.tw_pof_dh.tw_pof_dh_dwarvenremnants.tw_pof_dh_dwarvenremnants_dwarvenremnant" GUID="P+hOZVQMvkScJCVahv6iWQ=="/>
+		<POI MapID="1211" xpos="-1227.47" ypos="331.013" zpos="-163.22" type="tw_guides.tw_pof.tw_pof_dh.tw_pof_dh_dwarvenremnants.tw_pof_dh_dwarvenremnants_dwarvenremnant" GUID="wSV+JA6XmEqLlcfp0zZ9/Q=="/>
+		<POI MapID="1211" xpos="-964.584" ypos="497.001" zpos="-260.399" type="tw_guides.tw_pof.tw_pof_dh.tw_pof_dh_dwarvenremnants.tw_pof_dh_dwarvenremnants_dwarvenremnant" GUID="UGF+a8OvQkGzCPjd+eVabA=="/>
+		<POI MapID="1211" xpos="-1193.1" ypos="380.543" zpos="383.19" type="tw_guides.tw_pof.tw_pof_dh.tw_pof_dh_dwarvenremnants.tw_pof_dh_dwarvenremnants_dwarvenremnant" GUID="fW5ge4xS/Uyfr3DSoBV+qQ=="/>
+		<POI MapID="1211" xpos="1264.92" ypos="231.577" zpos="477.868" type="tw_guides.tw_pof.tw_pof_dh.tw_pof_dh_dwarvenremnants.tw_pof_dh_dwarvenremnants_dwarvenremnant" GUID="jJ8oy1WvskS+NmfoEqRIqg=="/>
+		<POI MapID="1211" xpos="-1298.64" ypos="366.692" zpos="88.5296" type="tw_guides.tw_pof.tw_pof_dh.tw_pof_dh_dwarvenremnants.tw_pof_dh_dwarvenremnants_dwarvenremnant" GUID="yVqXT30j70+3F/l15EzzpQ=="/>
+		<POI MapID="1211" xpos="-1307.88" ypos="185.305" zpos="247.114" type="tw_guides.tw_pof.tw_pof_dh.tw_pof_dh_dwarvenremnants.tw_pof_dh_dwarvenremnants_dwarvenremnant" GUID="DW/nlGq5S0We2KqwjIQRbg=="/>
+		<POI MapID="1211" xpos="-448.256" ypos="5.67097" zpos="-571.791" type="tw_guides.tw_pof.tw_pof_dh.tw_pof_dh_dwarvenremnants.tw_pof_dh_dwarvenremnants_dwarvenremnant" GUID="WWG7+FC9PE6ppOgdZEx0XA=="/>
+		<POI MapID="1211" xpos="-1255.16" ypos="6.35287" zpos="-527.901" type="tw_guides.tw_pof.tw_pof_dh.tw_pof_dh_dwarvenremnants.tw_pof_dh_dwarvenremnants_dwarvenremnant" GUID="LZk4NxGEzkqXUkLI3Tk+jQ=="/>
+		<POI MapID="1211" xpos="-34.0351" ypos="463.88" zpos="-190.044" type="tw_guides.tw_pof.tw_pof_dh.tw_pof_dh_dwarvenremnants.tw_pof_dh_dwarvenremnants_dwarvenremnant" GUID="OWFUrJT39kmtybCUb9l61g=="/>
+		<POI MapID="1211" xpos="-1372.6" ypos="2.771" zpos="-485.432" type="tw_guides.tw_pof.tw_pof_dh.tw_pof_dh_dwarvenremnants.tw_pof_dh_dwarvenremnants_dwarvenremnant" GUID="lAmx1unPFE2LYBsx8mrdIw=="/>
+		<POI MapID="1211" xpos="1404.24" ypos="241.098" zpos="193.25" type="tw_guides.tw_pof.tw_pof_dh.tw_pof_dh_dwarvenremnants.tw_pof_dh_dwarvenremnants_dwarvenremnant" GUID="YVC+ykgbI0+kR+rYyYYwHw=="/>
+		<POI MapID="1211" xpos="1196.66" ypos="74.6094" zpos="-415.94" type="tw_guides.tw_pof.tw_pof_dh.tw_pof_dh_dwarvenremnants.tw_pof_dh_dwarvenremnants_dwarvenremnant" GUID="glvkNf6SO0SRxqCgdSX35g=="/>
+		<POI MapID="1211" xpos="432.721" ypos="135.828" zpos="-365.452" type="tw_guides.tw_pof.tw_pof_dh.tw_pof_dh_dwarvenremnants.tw_pof_dh_dwarvenremnants_dwarvenremnant" GUID="wCnMMjdCOU2jTAHar1SyFw=="/>
+		<POI MapID="1211" xpos="232.149" ypos="268.694" zpos="461.401" type="tw_guides.tw_pof.tw_pof_dh.tw_pof_dh_dwarvenremnants.tw_pof_dh_dwarvenremnants_dwarvenremnant" GUID="oWu5mw/r+06c6QDF0r1Fcg=="/>
+		<POI MapID="1211" xpos="-1338.4" ypos="339.758" zpos="463.769" type="tw_guides.tw_pof.tw_pof_dh.tw_pof_dh_dwarvenremnants.tw_pof_dh_dwarvenremnants_dwarvenremnant" GUID="UPgpHOdyWUueWOpokkywnA=="/>
+		<POI MapID="1211" xpos="376.979" ypos="152.91" zpos="-44.911" type="tw_guides.tw_pof.tw_pof_dh.tw_pof_dh_sandportals.tw_pof_dh_sandportals_sandportal" GUID="JjRCp7R1CkCuGZXD9YHojA=="/>
+		<POI MapID="1211" xpos="284.863" ypos="236.392" zpos="33.4683" type="tw_guides.tw_pof.tw_pof_dh.tw_pof_dh_sandportals.tw_pof_dh_sandportals_sandportal" GUID="E610SiUeIk6h1PNa3wd/eA=="/>
+		<POI MapID="1211" xpos="-45.058" ypos="142.999" zpos="-112.277" type="tw_guides.tw_pof.tw_pof_dh.tw_pof_dh_sandportals.tw_pof_dh_sandportals_sandportal" GUID="XYFbEAZzeE2xUS6SyLr6LQ=="/>
+		<POI MapID="1211" xpos="-63.1799" ypos="312.323" zpos="42.4863" type="tw_guides.tw_pof.tw_pof_dh.tw_pof_dh_sandportals.tw_pof_dh_sandportals_sandportal" GUID="xscONNbfWUu0E5PpHHNSvw=="/>
+		<POI MapID="1211" xpos="-100.951" ypos="315.404" zpos="6.89594" type="tw_guides.tw_pof.tw_pof_dh.tw_pof_dh_sandportals.tw_pof_dh_sandportals_sandportal" GUID="wXTRbLAvrECj0g2AiC9hxg=="/>
+		<POI MapID="1211" xpos="-110.619" ypos="367.961" zpos="-134.118" type="tw_guides.tw_pof.tw_pof_dh.tw_pof_dh_sandportals.tw_pof_dh_sandportals_sandportal" GUID="1xtFzFVF+02NFoFR38gpmQ=="/>
+		<POI MapID="1211" xpos="-87.1095" ypos="337.021" zpos="-265.917" type="tw_guides.tw_pof.tw_pof_dh.tw_pof_dh_sandportals.tw_pof_dh_sandportals_sandportal" GUID="DUFzDrkJ30S0rj2sBe8vXw=="/>
+		<POI MapID="1211" xpos="-31.8134" ypos="383.922" zpos="-283.087" type="tw_guides.tw_pof.tw_pof_dh.tw_pof_dh_sandportals.tw_pof_dh_sandportals_sandportal" GUID="vVaGlNTwckalh7kzaVtJXw=="/>
+		<POI MapID="1211" xpos="47.6892" ypos="406.643" zpos="-449.305" type="tw_guides.tw_pof.tw_pof_dh.tw_pof_dh_sandportals.tw_pof_dh_sandportals_sandportal" GUID="PDeeatA/sEmN8exkjRUV3A=="/>
+		<POI MapID="1211" xpos="-26.4681" ypos="464.667" zpos="-235.194" type="tw_guides.tw_pof.tw_pof_dh.tw_pof_dh_sandportals.tw_pof_dh_sandportals_sandportal" GUID="i1MSQnzcuUa6LrbxrJO+6w=="/>
+		<POI MapID="1211" xpos="-138.885" ypos="151.378" zpos="-267.622" type="tw_guides.tw_pof.tw_pof_dh.tw_pof_dh_sandportals.tw_pof_dh_sandportals_sandportal" GUID="PS4Nvd1tQkaghLEhmwYbGw=="/>
+		<POI MapID="1211" xpos="-179.14" ypos="275.727" zpos="-236.237" type="tw_guides.tw_pof.tw_pof_dh.tw_pof_dh_sandportals.tw_pof_dh_sandportals_sandportal" GUID="XoA0sSOTZUWq1TDyTEkTBA=="/>
+		<POI MapID="1211" xpos="14.1904" ypos="144.181" zpos="-547.843" type="tw_guides.tw_pof.tw_pof_dh.tw_pof_dh_sandportals.tw_pof_dh_sandportals_sandportal" GUID="ZiGWVkpWmEqoBR6yE9C82A=="/>
+		<POI MapID="1211" xpos="-31.5256" ypos="173.951" zpos="-576.743" type="tw_guides.tw_pof.tw_pof_dh.tw_pof_dh_sandportals.tw_pof_dh_sandportals_sandportal" GUID="wUrv8PTK/0WUv8gtNT1YCQ=="/>
+		<POI MapID="1211" xpos="-344.012" ypos="16.9573" zpos="-418.687" type="tw_guides.tw_pof.tw_pof_dh.tw_pof_dh_sandportals.tw_pof_dh_sandportals_sandportal" GUID="vuTpWsJNwku11uqI3pqzAA=="/>
+		<POI MapID="1211" xpos="-346.62" ypos="182.074" zpos="-268.321" type="tw_guides.tw_pof.tw_pof_dh.tw_pof_dh_sandportals.tw_pof_dh_sandportals_sandportal" GUID="UOdq1JJ+EUCCwnbRTiNJRw=="/>
+		<POI MapID="1211" xpos="-596.178" ypos="68.8727" zpos="-302.668" type="tw_guides.tw_pof.tw_pof_dh.tw_pof_dh_sandportals.tw_pof_dh_sandportals_sandportal" GUID="EmMhm9phakm4GAsguELqIg=="/>
+		<POI MapID="1211" xpos="-610.369" ypos="67.6742" zpos="-321.478" type="tw_guides.tw_pof.tw_pof_dh.tw_pof_dh_sandportals.tw_pof_dh_sandportals_sandportal" GUID="xXNp9lR2UUWPO9spnkbAHg=="/>
+		<POI MapID="1211" xpos="-1251.52" ypos="6.04358" zpos="-554.106" type="tw_guides.tw_pof.tw_pof_dh.tw_pof_dh_sandportals.tw_pof_dh_sandportals_sandportal" GUID="zK0c8IiQvEaVdj06r42A0g=="/>
+		<POI MapID="1211" xpos="-1341.65" ypos="5.32098" zpos="-460.33" type="tw_guides.tw_pof.tw_pof_dh.tw_pof_dh_sandportals.tw_pof_dh_sandportals_sandportal" GUID="nQ7swsbyR0+ufATn1puxOA=="/>
+		<POI MapID="1211" xpos="493.956" ypos="245.436" zpos="296.76" type="tw_guides.tw_pof.tw_pof_dh.tw_pof_dh_sandportals.tw_pof_dh_sandportals_sandportal" GUID="d30whx23qEux16T8wvzQeQ=="/>
+		<POI MapID="1211" xpos="553.551" ypos="151.354" zpos="276.737" type="tw_guides.tw_pof.tw_pof_dh.tw_pof_dh_sandportals.tw_pof_dh_sandportals_sandportal" GUID="2XjByrOAj0WcTD1IVEA/pw=="/>
+		<POI MapID="1211" xpos="81.9296" ypos="238.981" zpos="270.978" type="tw_guides.tw_pof.tw_pof_dh.tw_pof_dh_sandportals.tw_pof_dh_sandportals_sandportal" GUID="B/kpkqOK2Ui+iBEZA1pqEw=="/>
+		<POI MapID="1211" xpos="50.3284" ypos="336.384" zpos="275.11" type="tw_guides.tw_pof.tw_pof_dh.tw_pof_dh_sandportals.tw_pof_dh_sandportals_sandportal" GUID="l0IJM//j4E2k08FfMIgmzg=="/>
+		<POI MapID="1211" xpos="-422.376" ypos="96.5215" zpos="-345.068" type="tw_guides.tw_pof.tw_pof_dh.tw_pof_dh_sandportals.tw_pof_dh_sandportals_sandportal" GUID="tRKeiw9040G7PPPAOQv3UQ=="/>
+		<POI MapID="1211" xpos="-379.777" ypos="120.307" zpos="-366.272" type="tw_guides.tw_pof.tw_pof_dh.tw_pof_dh_sandportals.tw_pof_dh_sandportals_sandportal" GUID="QA9q5DIlLkeF5hDTAyIesg=="/>
+		<POI MapID="1211" xpos="899.107" ypos="208.119" zpos="32.7581" type="tw_guides.tw_pof.tw_pof_dh.tw_pof_dh_sandportals.tw_pof_dh_sandportals_sandportal" GUID="vxvzYyM8uUGD8+4O8/zCvA=="/>
+		<POI MapID="1211" xpos="903.473" ypos="266.694" zpos="86.939" type="tw_guides.tw_pof.tw_pof_dh.tw_pof_dh_sandportals.tw_pof_dh_sandportals_sandportal" GUID="50TFpPrSYUuCzmwMeXtNZw=="/>
+		<POI MapID="1211" xpos="508.037" ypos="146.295" zpos="-640.118" type="tw_guides.tw_pof.tw_pof_dh.tw_pof_dh_dwarvenremnants.tw_pof_dh_dwarvenremnants_signs.tw_pof_dh_dwarvenremnants_startsignp1" GUID="pK0IH/ZPvUieeazPTkv7Fw=="/>
+		<POI MapID="1211" xpos="-34.0987" ypos="463.885" zpos="-190.178" type="tw_guides.tw_pof.tw_pof_dh.tw_pof_dh_dwarvenremnants.tw_pof_dh_dwarvenremnants_signs.tw_pof_dh_dwarvenremnants_teleport2" GUID="CdCQPXWNa06D27f5aAq5qA=="/>
+		<POI MapID="1211" xpos="-123.342" ypos="252.448" zpos="418.355" type="tw_guides.tw_pof.tw_pof_dh.tw_pof_dh_dwarvenremnants.tw_pof_dh_dwarvenremnants_signs.tw_pof_dh_dwarvenremnants_startsignp2" GUID="3F00xsxaHE2EGT+SWK9Rdw=="/>
+		<POI MapID="1211" xpos="1196.64" ypos="74.6138" zpos="-416.24" type="tw_guides.tw_pof.tw_pof_dh.tw_pof_dh_dwarvenremnants.tw_pof_dh_dwarvenremnants_signs.tw_pof_dh_dwarvenremnants_teleport3" GUID="PGUL5icpJU2bUeZ6mG9+8A=="/>
+		<POI MapID="1211" xpos="-284.324" ypos="14.9027" zpos="-528.13" type="tw_guides.tw_pof.tw_pof_dh.tw_pof_dh_dwarvenremnants.tw_pof_dh_dwarvenremnants_signs.tw_pof_dh_dwarvenremnants_startsignp3" GUID="p5uvLEnelU6GVzJyDUg9NA=="/>
+		<POI MapID="1211" xpos="-1372.68" ypos="2.77711" zpos="-485.411" type="tw_guides.tw_pof.tw_pof_dh.tw_pof_dh_dwarvenremnants.tw_pof_dh_dwarvenremnants_signs.tw_pof_dh_dwarvenremnants_teleport4" GUID="mMJSOeMlBEaGxx/0eJ0lfg=="/>
+		<POI MapID="1211" xpos="-1307.85" ypos="185.302" zpos="247.048" type="tw_guides.tw_pof.tw_pof_dh.tw_pof_dh_dwarvenremnants.tw_pof_dh_dwarvenremnants_signs.tw_pof_dh_dwarvenremnants_teleport4" GUID="FlYlNrWU0kWl5hsMawKNbg=="/>
+		<POI MapID="1211" xpos="-1285.3" ypos="341.631" zpos="418.314" type="tw_guides.tw_pof.tw_pof_dh.tw_pof_dh_dwarvenremnants.tw_pof_dh_dwarvenremnants_signs.tw_pof_dh_dwarvenremnants_startsignp4" GUID="Pkyiq1/090WyyUso/hCy0Q=="/>
+		<POI MapID="1211" xpos="-1300.28" ypos="341.817" zpos="417.665" type="tw_guides.tw_pof.tw_pof_dh.tw_pof_dh_dwarvenremnants.tw_pof_dh_dwarvenremnants_signs.tw_pof_dh_dwarvenremnants_startsignp5" GUID="SymZuir3w0iW1TL0yS/RCw=="/>
+		<POI MapID="1211" xpos="-1227.2" ypos="331.015" zpos="-163.196" type="tw_guides.tw_pof.tw_pof_dh.tw_pof_dh_dwarvenremnants.tw_pof_dh_dwarvenremnants_signs.tw_pof_dh_dwarvenremnants_finish" GUID="9rCS8gAvPE+86i4/Cuh+Zw=="/>
+		<POI MapID="1211" xpos="231.157" ypos="153.956" zpos="-410.649" type="tw_guides.tw_pof.tw_pof_dh.tw_pof_dh_adv_cavalierexpressparcelrun.tw_pof_dh_adv_cavalierexpressparcelrun_signs.tw_pof_dh_adv_cavalierexpressparcelrun_startsign" GUID="gBUdoeL6X0CNYWHMUg5mgQ=="/>
+		<POI MapID="1211" xpos="235.971" ypos="153.535" zpos="-415.327" type="tw_guides.tw_pof.tw_pof_dh.tw_pof_dh_adv_cavalierexpressparcelrun.tw_pof_dh_adv_cavalierexpressparcelrun_signs.tw_pof_dh_adv_cavalierexpressparcelrun_finishsign" GUID="T+03zZksuU+q8C2z0zHE/A=="/>
+		<POI MapID="1211" xpos="238.391" ypos="153.741" zpos="-399.056" type="tw_guides.tw_pof.tw_pof_dh.tw_pof_dh_adv_cavalierexpressparcelrun.tw_pof_dh_adv_cavalierexpressparcelrun_jumponspot" GUID="zmINfWpZwEul0a29Xa7Tcg=="/>
+		<POI MapID="1211" xpos="246.673" ypos="153.77" zpos="-384.462" type="tw_guides.tw_pof.tw_pof_dh.tw_pof_dh_adv_cavalierexpressparcelrun.tw_pof_dh_adv_cavalierexpressparcelrun_jumponspot" GUID="aqtVEdpeWUuNQzzimm0z9A=="/>
+		<POI MapID="1211" xpos="254.346" ypos="153.569" zpos="-357.49" type="tw_guides.tw_pof.tw_pof_dh.tw_pof_dh_adv_cavalierexpressparcelrun.tw_pof_dh_adv_cavalierexpressparcelrun_jumponspot" GUID="Mhg7EXqSHUCExCInqhJYPg=="/>
+		<POI MapID="1211" xpos="254.334" ypos="154.439" zpos="-340.941" type="tw_guides.tw_pof.tw_pof_dh.tw_pof_dh_adv_cavalierexpressparcelrun.tw_pof_dh_adv_cavalierexpressparcelrun_jumponspot" GUID="/GlWtRuEJke22GChDleusw=="/>
+		<POI MapID="1211" xpos="196.525" ypos="179.504" zpos="-255.701" type="tw_guides.tw_pof.tw_pof_dh.tw_pof_dh_adv_cavalierexpressparcelrun.tw_pof_dh_adv_cavalierexpressparcelrun_jumponspot" GUID="0+GEuNbLs0eU5lIOd49I4g=="/>
+		<POI MapID="1211" xpos="193.097" ypos="184.073" zpos="-253.13" type="tw_guides.tw_pof.tw_pof_dh.tw_pof_dh_adv_cavalierexpressparcelrun.tw_pof_dh_adv_cavalierexpressparcelrun_jumponspot" GUID="58XugyIOGEKgIBTefbMCBQ=="/>
+		<POI MapID="1211" xpos="187.363" ypos="183.583" zpos="-248.285" type="tw_guides.tw_pof.tw_pof_dh.tw_pof_dh_adv_cavalierexpressparcelrun.tw_pof_dh_adv_cavalierexpressparcelrun_jumponspot" GUID="o8neJNz/A0Skp/2SGGdmPw=="/>
+		<POI MapID="1211" xpos="34.9218" ypos="161.813" zpos="-82.9013" type="tw_guides.tw_pof.tw_pof_dh.tw_pof_dh_adv_cavalierexpressparcelrun.tw_pof_dh_adv_cavalierexpressparcelrun_jumponspot" GUID="ERyzTLo4AEuzm7C+dz6LIQ=="/>
+		<POI MapID="1211" xpos="25.4165" ypos="170.89" zpos="-76.7971" type="tw_guides.tw_pof.tw_pof_dh.tw_pof_dh_adv_cavalierexpressparcelrun.tw_pof_dh_adv_cavalierexpressparcelrun_jumponspot" GUID="wPHyoc8uQUyLRbYVNINXew=="/>
+		<POI MapID="1211" xpos="14.2086" ypos="197.924" zpos="-46.6945" type="tw_guides.tw_pof.tw_pof_dh.tw_pof_dh_adv_cavalierexpressparcelrun.tw_pof_dh_adv_cavalierexpressparcelrun_jumponspot" GUID="KcLXjqVuj02Z9wgrv7w9Fg=="/>
+		<POI MapID="1211" xpos="35.7613" ypos="190.818" zpos="-40.1251" type="tw_guides.tw_pof.tw_pof_dh.tw_pof_dh_adv_cavalierexpressparcelrun.tw_pof_dh_adv_cavalierexpressparcelrun_jumponspot" GUID="hjh58VGaAkGKeOMxRTJjwQ=="/>
+		<POI MapID="1211" xpos="69.8728" ypos="189.668" zpos="-32.278" type="tw_guides.tw_pof.tw_pof_dh.tw_pof_dh_adv_cavalierexpressparcelrun.tw_pof_dh_adv_cavalierexpressparcelrun_jumponspot" GUID="4LJ5zqLQZUim1XoX/4p3zg=="/>
+		<POI MapID="1211" xpos="81.8359" ypos="174.147" zpos="-31.1335" type="tw_guides.tw_pof.tw_pof_dh.tw_pof_dh_adv_cavalierexpressparcelrun.tw_pof_dh_adv_cavalierexpressparcelrun_jumponspot" GUID="i8znEqGytU2jUi6sukEvLg=="/>
+		<POI MapID="1211" xpos="129.827" ypos="179.339" zpos="-31.462" type="tw_guides.tw_pof.tw_pof_dh.tw_pof_dh_adv_cavalierexpressparcelrun.tw_pof_dh_adv_cavalierexpressparcelrun_jumponspot" GUID="qTv46YEeaUutG0ZmQBPIyw=="/>
+		<POI MapID="1211" xpos="142.826" ypos="165.451" zpos="-31.6662" type="tw_guides.tw_pof.tw_pof_dh.tw_pof_dh_adv_cavalierexpressparcelrun.tw_pof_dh_adv_cavalierexpressparcelrun_jumponspot" GUID="qyMCG6p7N0SDWurq3gZx5Q=="/>
+		<POI MapID="1211" xpos="347.836" ypos="243.429" zpos="33.24" type="tw_guides.tw_pof.tw_pof_dh.tw_pof_dh_adv_cavalierexpressparcelrun.tw_pof_dh_adv_cavalierexpressparcelrun_jumponspot" GUID="05b7Zc9SVkqgEu7k5Tq+cA=="/>
+		<POI MapID="1211" xpos="350.204" ypos="243.704" zpos="23.1967" type="tw_guides.tw_pof.tw_pof_dh.tw_pof_dh_adv_cavalierexpressparcelrun.tw_pof_dh_adv_cavalierexpressparcelrun_jumponspot" GUID="AxljOnokEkaZfcBrffZkzw=="/>
+		<POI MapID="1211" xpos="358.64" ypos="243.691" zpos="40.2712" type="tw_guides.tw_pof.tw_pof_dh.tw_pof_dh_adv_cavalierexpressparcelrun.tw_pof_dh_adv_cavalierexpressparcelrun_jumponspot" GUID="5VNQfVEe60+Gg+knNKekMw=="/>
+		<POI MapID="1211" xpos="355.35" ypos="234.858" zpos="55.2972" type="tw_guides.tw_pof.tw_pof_dh.tw_pof_dh_adv_cavalierexpressparcelrun.tw_pof_dh_adv_cavalierexpressparcelrun_jumponspot" GUID="eg/kcG4OGUmrZzQmXBQSMw=="/>
+		<POI MapID="1211" xpos="336.96" ypos="236.813" zpos="85.7696" type="tw_guides.tw_pof.tw_pof_dh.tw_pof_dh_adv_cavalierexpressparcelrun.tw_pof_dh_adv_cavalierexpressparcelrun_jumponspot" GUID="2acEwffzVkm/2tRGeh4V4A=="/>
+		<POI MapID="1211" xpos="324.892" ypos="236.345" zpos="101.613" type="tw_guides.tw_pof.tw_pof_dh.tw_pof_dh_adv_cavalierexpressparcelrun.tw_pof_dh_adv_cavalierexpressparcelrun_jumponspot" GUID="ZmkO/U6jSkqaJNGjwJFbAw=="/>
+		<POI MapID="1211" xpos="258.651" ypos="264.672" zpos="472.789" type="tw_guides.tw_pof.tw_pof_dh.tw_pof_dh_adv_cavalierexpressparcelrun.tw_pof_dh_adv_cavalierexpressparcelrun_jumponspot" GUID="LsRDAJngA02rUqkjmn7zXg=="/>
+		<POI MapID="1211" xpos="261.3" ypos="264.94" zpos="480.439" type="tw_guides.tw_pof.tw_pof_dh.tw_pof_dh_adv_cavalierexpressparcelrun.tw_pof_dh_adv_cavalierexpressparcelrun_jumponspot" GUID="10k3LfRPokC2reLMi8W47A=="/>
+		<POI MapID="1211" xpos="265.94" ypos="265.062" zpos="490.041" type="tw_guides.tw_pof.tw_pof_dh.tw_pof_dh_adv_cavalierexpressparcelrun.tw_pof_dh_adv_cavalierexpressparcelrun_jumponspot" GUID="7hsqDXCNqk6sIrq1c3ztCQ=="/>
+		<POI MapID="1211" xpos="294.457" ypos="259.074" zpos="526.948" type="tw_guides.tw_pof.tw_pof_dh.tw_pof_dh_adv_cavalierexpressparcelrun.tw_pof_dh_adv_cavalierexpressparcelrun_jumponspot" GUID="YWOzWRBeik+EMjduMoOn2w=="/>
+		<POI MapID="1211" xpos="433.454" ypos="290.93" zpos="578.597" type="tw_guides.tw_pof.tw_pof_dh.tw_pof_dh_adv_cavalierexpressparcelrun.tw_pof_dh_adv_cavalierexpressparcelrun_jumponspot" GUID="tElao4NhVUq2JBjBodJGjA=="/>
+		<POI MapID="1211" xpos="466.148" ypos="288.954" zpos="591.287" type="tw_guides.tw_pof.tw_pof_dh.tw_pof_dh_adv_cavalierexpressparcelrun.tw_pof_dh_adv_cavalierexpressparcelrun_jumponspot" GUID="ioKZoJlBWUiS+VcbHypxbA=="/>
+		<POI MapID="1211" xpos="505.713" ypos="288.054" zpos="574.457" type="tw_guides.tw_pof.tw_pof_dh.tw_pof_dh_adv_cavalierexpressparcelrun.tw_pof_dh_adv_cavalierexpressparcelrun_jumponspot" GUID="k4PPYrxLjkiKQmvbdh7NAg=="/>
+		<POI MapID="1211" xpos="686.367" ypos="229.995" zpos="239.204" type="tw_guides.tw_pof.tw_pof_dh.tw_pof_dh_adv_cavalierexpressparcelrun.tw_pof_dh_adv_cavalierexpressparcelrun_jumponspot" GUID="RXkxrSsx1EWkpUDyuOQGRg=="/>
+		<POI MapID="1211" xpos="689.926" ypos="236.256" zpos="130.159" type="tw_guides.tw_pof.tw_pof_dh.tw_pof_dh_adv_cavalierexpressparcelrun.tw_pof_dh_adv_cavalierexpressparcelrun_jumponspot" GUID="ZoojvEf7vkGLCvZ8/LnJUg=="/>
+		<POI MapID="1211" xpos="690.042" ypos="218.211" zpos="89.6347" type="tw_guides.tw_pof.tw_pof_dh.tw_pof_dh_adv_cavalierexpressparcelrun.tw_pof_dh_adv_cavalierexpressparcelrun_jumponspot" GUID="bLECls2Oo0yADKJ4GVXWJA=="/>
+		<POI MapID="1211" xpos="690.48" ypos="203.235" zpos="78.8404" type="tw_guides.tw_pof.tw_pof_dh.tw_pof_dh_adv_cavalierexpressparcelrun.tw_pof_dh_adv_cavalierexpressparcelrun_jumponspot" GUID="0yX9Ar7SGUChglGKtqVJlw=="/>
+		<POI MapID="1211" xpos="692.31" ypos="202.126" zpos="52.1742" type="tw_guides.tw_pof.tw_pof_dh.tw_pof_dh_adv_cavalierexpressparcelrun.tw_pof_dh_adv_cavalierexpressparcelrun_jumponspot" GUID="/7hu2tp++EesvkUIE8C+Kw=="/>
+		<POI MapID="1211" xpos="698.981" ypos="201.465" zpos="21.1464" type="tw_guides.tw_pof.tw_pof_dh.tw_pof_dh_adv_cavalierexpressparcelrun.tw_pof_dh_adv_cavalierexpressparcelrun_jumponspot" GUID="zXPe+00iv0m6KqoZ4hVDfw=="/>
+		<POI MapID="1211" xpos="659.71" ypos="190.791" zpos="-79.2953" type="tw_guides.tw_pof.tw_pof_dh.tw_pof_dh_adv_cavalierexpressparcelrun.tw_pof_dh_adv_cavalierexpressparcelrun_jumponspot" GUID="FXS0aKnr2kW9rMWYkRhlqQ=="/>
+		<POI MapID="1211" xpos="287.097" ypos="155.866" zpos="-371.17" type="tw_guides.tw_pof.tw_pof_dh.tw_pof_dh_adv_cavalierexpressparcelrun.tw_pof_dh_adv_cavalierexpressparcelrun_jumponspot" GUID="s9ETfgDDiEeQkel3bS/IBQ=="/>
+		<POI MapID="1211" xpos="264.156" ypos="155.223" zpos="-391.098" type="tw_guides.tw_pof.tw_pof_dh.tw_pof_dh_adv_cavalierexpressparcelrun.tw_pof_dh_adv_cavalierexpressparcelrun_jumponspot" GUID="X85oZHgruUeB2CA8DfztMA=="/>
+		<POI MapID="1211" xpos="245.857" ypos="152.815" zpos="-406.955" type="tw_guides.tw_pof.tw_pof_dh.tw_pof_dh_adv_cavalierexpressparcelrun.tw_pof_dh_adv_cavalierexpressparcelrun_jumponspot" GUID="CPUC9DrT1E2Ene9xvegBgw=="/>
+		<POI MapID="1211" xpos="1249.73" ypos="184.955" zpos="481.581" type="tw_guides.tw_pof.tw_pof_dh.tw_pof_dh_lostlore_page" GUID="M8bWwlJXm0SXOg3kttfllQ=="/>
+		<POI MapID="1211" xpos="468.04" ypos="288.916" zpos="589.243" type="tw_guides.tw_pof.tw_pof_dh.tw_pof_dh_lostlore_page" GUID="T02NpR7bsUiCEllNZbWf+A=="/>
+		<POI MapID="1211" xpos="-171.581" ypos="248.777" zpos="-353.204" type="tw_guides.tw_pof.tw_pof_dh.tw_pof_dh_lostlore_page" GUID="3t+Cr6c9cUKO3WDqdl8eNg=="/>
+		<POI MapID="1211" xpos="-482.297" ypos="279.06" zpos="-19.5017" type="tw_guides.tw_pof.tw_pof_dh.tw_pof_dh_lostlore_page" GUID="ZI9ATCWiYUSYFdXSpmy8RQ=="/>
+		<POI MapID="1211" xpos="-1293.47" ypos="434.542" zpos="314.433" type="tw_guides.tw_pof.tw_pof_dh.tw_pof_dh_lostlore_page" GUID="syK+gok+GEO2D49u6Q15hQ=="/>
+		<POI MapID="1211" xpos="-1239.69" ypos="277.16" zpos="157.197" type="tw_guides.tw_pof.tw_pof_dh.tw_pof_dh_lostlore_page" GUID="mscGuCQ25Uqp1WKtLNPRdA=="/>
+		<POI MapID="1211" xpos="-724.127" ypos="172.312" zpos="-249.807" type="tw_guides.tw_pof.tw_pof_dh.tw_pof_dh_lostlore_page" GUID="r/tjmir+ekujsM8Hl4boAg=="/>
+		<POI MapID="1211" xpos="-1277.65" ypos="344.656" zpos="496.999" type="tw_guides.tw_pof.tw_pof_dh.tw_pof_dh_buriedtreasure_chest" GUID="eLhQ5XawGUyHmC/tHQoP8A=="/>
+		<POI MapID="1211" xpos="-605.798" ypos="12.189" zpos="-418.026" type="tw_guides.tw_pof.tw_pof_dh.tw_pof_dh_buriedtreasure_chest" GUID="acfFyHkr3Uq+iCrVsaIJ5g=="/>
+		<POI MapID="1211" xpos="890.029" ypos="187.736" zpos="376.517" type="tw_guides.tw_pof.tw_pof_dh.tw_pof_dh_buriedtreasure_chest" GUID="bZRhSXTULk6xLZDhRPyXHA=="/>
+		<POI MapID="1211" xpos="181.559" ypos="203.635" zpos="63.5143" type="tw_guides.tw_pof.tw_pof_dh.tw_pof_dh_buriedtreasure_chest" GUID="qTchksODj06DxEbYT8VSRQ=="/>
+		<POI MapID="1211" xpos="1187.67" ypos="205.521" zpos="277.952" type="tw_guides.tw_pof.tw_pof_dh.tw_pof_dh_buriedtreasure_chest" GUID="olIfQBSsf0qwj9swdJUn9g=="/>
+		<POI MapID="1211" xpos="-634.392" ypos="65.1087" zpos="-305.948" type="tw_guides.tw_pof.tw_pof_dh.tw_pof_dh_buriedtreasure_chest" GUID="3B1ohMl+Fk+FitKEFa04IA=="/>
+		<POI MapID="1211" xpos="62.4398" ypos="260.582" zpos="95.4207" type="tw_guides.tw_pof.tw_pof_dh.tw_pof_dh_buriedtreasure_chest" GUID="luSItdu4mU6JTlhAgRSYag=="/>
+		<POI MapID="1211" xpos="-953.294" ypos="348.401" zpos="322.293" type="tw_guides.tw_pof.tw_pof_dh.tw_pof_dh_buriedtreasure_chest" GUID="ZaAHBEvwAUOAUEWjm5Yy3A=="/>
+		<POI MapID="1211" xpos="-51.2937" ypos="222.53" zpos="-14.7285" type="tw_guides.tw_pof.tw_pof_dh.tw_pof_dh_buriedtreasure_chest" GUID="vLlaof7b6U2kRorXG1nm2g=="/>
+		<POI MapID="1211" xpos="-638.896" ypos="109.646" zpos="-246.602" type="tw_guides.tw_pof.tw_pof_dh.tw_pof_dh_buriedtreasure_chest" GUID="02d61mLoNkKgUkwjSHW1KQ=="/>
+		<POI MapID="1211" xpos="-1246.46" ypos="379.41" zpos="641.719" type="tw_guides.tw_pof.tw_pof_dh.tw_pof_dh_buriedtreasure_chest" GUID="atCpxVO9XUSBNSUAPj7X4g=="/>
+		<POI MapID="1211" xpos="59.0038" ypos="187.988" zpos="-17.5045" type="tw_guides.tw_pof.tw_pof_dh.tw_pof_dh_buriedtreasure_chest" GUID="HQwPmpfPq0GWVFSDTPOdgg=="/>
+		<POI MapID="1211" xpos="915.016" ypos="200.31" zpos="455.619" type="tw_guides.tw_pof.tw_pof_dh.tw_pof_dh_buriedtreasure_chest" GUID="RRj6ULCNM0C/LC8VjRM6IQ=="/>
+		<POI MapID="1211" xpos="1256" ypos="217.58" zpos="-27.244" type="tw_guides.tw_pof.tw_pof_dh.tw_pof_dh_buriedtreasure_chest" GUID="LxZN2nyCfU6x431CL1/Ttw=="/>
+		<POI MapID="1211" xpos="-386.206" ypos="229.288" zpos="283.487" type="tw_guides.tw_pof.tw_pof_dh.tw_pof_dh_buriedtreasure_chest" GUID="zi0ycHtaw0GDPd5fsYfYHA=="/>
+		<POI MapID="1211" xpos="96.4032" ypos="157.982" zpos="-65.6168" type="tw_guides.tw_pof.tw_pof_dh.tw_pof_dh_buriedtreasure_chest" GUID="U/lZ9rvGzkWCWBlt5Eiwqw=="/>
+		<POI MapID="1211" xpos="-1224.14" ypos="411.427" zpos="207.381" type="tw_guides.tw_pof.tw_pof_dh.tw_pof_dh_buriedtreasure_chest" GUID="8XW3pRc1SEytJGP4Fyp7Ww=="/>
+		<POI MapID="1211" xpos="-930.353" ypos="478.908" zpos="-35.3238" type="tw_guides.tw_pof.tw_pof_dh.tw_pof_dh_buriedtreasure_chest" GUID="GIXo8CaSIUm+Ba3odn8nTw=="/>
+		<POI MapID="1211" xpos="1290.02" ypos="190.052" zpos="163.401" type="tw_guides.tw_pof.tw_pof_dh.tw_pof_dh_buriedtreasure_chest" GUID="ZjAypnUVxUenSVuVJ4VDcQ=="/>
+		<POI MapID="1211" xpos="-182.593" ypos="240.845" zpos="166.978" type="tw_guides.tw_pof.tw_pof_dh.tw_pof_dh_buriedtreasure_chest" GUID="0gUS4MAzo0CuuoR77V6+Xw=="/>
+		<POI MapID="1211" xpos="747.301" ypos="212.599" zpos="455.025" type="tw_guides.tw_pof.tw_pof_dh.tw_pof_dh_buriedtreasure_chest" GUID="BjyRthuri0yulk0ljPQHyg=="/>
+		<POI MapID="1211" xpos="-604.791" ypos="347.16" zpos="495.923" type="tw_guides.tw_pof.tw_pof_dh.tw_pof_dh_buriedtreasure_chest" GUID="ofJ80Z3Xxk+mzDhNeIGoog=="/>
+		<POI MapID="1211" xpos="11.2265" ypos="245.561" zpos="57.6164" type="tw_guides.tw_pof.tw_pof_dh.tw_pof_dh_buriedtreasure_chest" GUID="zgSZgtbx4km7RJiW9mABNQ=="/>
+		<POI MapID="1211" xpos="1160.27" ypos="88.667" zpos="-407.507" type="tw_guides.tw_pof.tw_pof_dh.tw_pof_dh_buriedtreasure_chest" GUID="uYCDJaAwl0utIHfn8R1z3A=="/>
+		<POI MapID="1211" xpos="1175.95" ypos="180.172" zpos="188.137" type="tw_guides.tw_pof.tw_pof_dh.tw_pof_dh_buriedtreasure_chest" GUID="P6JB8SMvkE67H6BUVeAWIQ=="/>
+		<POI MapID="1211" xpos="1058.2" ypos="227.94" zpos="2.98454" type="tw_guides.tw_pof.tw_pof_dh.tw_pof_dh_buriedtreasure_chest" GUID="jxRdoUx0uUG8xCt7vQUhmQ=="/>
+		<POI MapID="1211" xpos="-723.823" ypos="75.4399" zpos="-394.662" type="tw_guides.tw_pof.tw_pof_dh.tw_pof_dh_buriedtreasure_chest" GUID="mQXOhJCYHkm7WdViH6iR7Q=="/>
+		<POI MapID="1211" xpos="-551.302" ypos="35.3491" zpos="-364.74" type="tw_guides.tw_pof.tw_pof_dh.tw_pof_dh_buriedtreasure_chest" GUID="gCoSGgXHRUuefCBhMhzJ+g=="/>
+		<POI MapID="1211" xpos="-1073.45" ypos="414.107" zpos="-207.304" type="tw_guides.tw_pof.tw_pof_dh.tw_pof_dh_buriedtreasure_chest" GUID="sDFHSeP0UkSIn8uuLzhosg=="/>
+		<POI MapID="1211" xpos="759.237" ypos="168.719" zpos="338.072" type="tw_guides.tw_pof.tw_pof_dh.tw_pof_dh_buriedtreasure_chest" GUID="jP9MmnRpekaWwFgvZ6KSAg=="/>
+		<POI MapID="1211" xpos="-645.715" ypos="343.529" zpos="321.083" type="tw_guides.tw_pof.tw_pof_dh.tw_pof_dh_buriedtreasure_chest" GUID="g+6S+JwwqE6AsIf+aBDh/Q=="/>
+		<POI MapID="1211" xpos="-1133.58" ypos="408.058" zpos="599.844" type="tw_guides.tw_pof.tw_pof_dh.tw_pof_dh_buriedtreasure_chest" GUID="UmGYKEiuUEyIK0J3tMROzw=="/>
+		<POI MapID="1211" xpos="1026.57" ypos="187.41" zpos="394.866" type="tw_guides.tw_pof.tw_pof_dh.tw_pof_dh_buriedtreasure_chest" GUID="rnztVJ5Y+EKhjuqa/J7tIg=="/>
+		<POI MapID="1211" xpos="-188.052" ypos="243.989" zpos="294.106" type="tw_guides.tw_pof.tw_pof_dh.tw_pof_dh_buriedtreasure_chest" GUID="JziHWEUVW0+PgMfbN6ri4A=="/>
+		<POI MapID="1211" xpos="-648.428" ypos="362.197" zpos="390.691" type="tw_guides.tw_pof.tw_pof_dh.tw_pof_dh_buriedtreasure_chest" GUID="AVpb8TSqL0Kf/T2ip5j5uQ=="/>
+		<POI MapID="1211" xpos="797.57" ypos="196.297" zpos="287.308" type="tw_guides.tw_pof.tw_pof_dh.tw_pof_dh_buriedtreasure_chest" GUID="xFQKcVxbRUGns1wKgoTEEQ=="/>
+		<POI MapID="1211" xpos="119.706" ypos="217.737" zpos="75.9482" type="tw_guides.tw_pof.tw_pof_dh.tw_pof_dh_buriedtreasure_chest" GUID="/QgOesonKkqDHosnTJBIdw=="/>
+		<POI MapID="1211" xpos="-595.994" ypos="48.5289" zpos="-362.922" type="tw_guides.tw_pof.tw_pof_dh.tw_pof_dh_buriedtreasure_chest" GUID="CX6fr5/2OkKBKlBT4iX8dQ=="/>
+		<POI MapID="1211" xpos="1344.71" ypos="171.792" zpos="-458.463" type="tw_guides.tw_pof.tw_pof_dh.tw_pof_dh_buriedtreasure_chest" GUID="gElDZfP2BU2RLFLmkQjlsA=="/>
+		<POI MapID="1211" xpos="980.202" ypos="195.123" zpos="-102.155" type="tw_guides.tw_pof.tw_pof_dh.tw_pof_dh_buriedtreasure_chest" GUID="SelnbuQI3EaOTiPzRr9r0w=="/>
+		<POI MapID="1211" xpos="1038.68" ypos="173.042" zpos="-387.818" type="tw_guides.tw_pof.tw_pof_dh.tw_pof_dh_buriedtreasure_chest" GUID="F0GU3dxSbE6fHGEp0HHJZw=="/>
+		<POI MapID="1211" xpos="-647.743" ypos="373.967" zpos="521.472" type="tw_guides.tw_pof.tw_pof_dh.tw_pof_dh_buriedtreasure_chest" GUID="6ipKXkrAZkGhIfOoV1buAg=="/>
+		<POI MapID="1211" xpos="822.34" ypos="215.054" zpos="463.262" type="tw_guides.tw_pof.tw_pof_dh.tw_pof_dh_buriedtreasure_chest" GUID="Sq0Cu+GA8Uu891JgnqnkdA=="/>
+		<POI MapID="1211" xpos="-927.973" ypos="463.987" zpos="138.869" type="tw_guides.tw_pof.tw_pof_dh.tw_pof_dh_buriedtreasure_chest" GUID="XV0NTGWSEkC7MAzlnIgJPA=="/>
+		<POI MapID="1211" xpos="-1102.15" ypos="401.845" zpos="191.636" type="tw_guides.tw_pof.tw_pof_dh.tw_pof_dh_buriedtreasure_chest" GUID="2FQl/J+HwkCuOnoByDwxzg=="/>
+		<POI MapID="1211" xpos="735.007" ypos="201.512" zpos="284.581" type="tw_guides.tw_pof.tw_pof_dh.tw_pof_dh_buriedtreasure_chest" GUID="l65v8KP/+UatTo/VtlbdSQ=="/>
+		<POI MapID="1211" xpos="767.296" ypos="203.148" zpos="397.361" type="tw_guides.tw_pof.tw_pof_dh.tw_pof_dh_buriedtreasure_chest" GUID="oOST2IzpPk+ObTM0UnrYyw=="/>
+		<POI MapID="1211" xpos="-1158.84" ypos="424.703" zpos="265.735" type="tw_guides.tw_pof.tw_pof_dh.tw_pof_dh_buriedtreasure_chest" GUID="iDHemJpP6kWudqnejbCpjg=="/>
+		<POI MapID="1211" xpos="1003.88" ypos="186.133" zpos="250.162" type="tw_guides.tw_pof.tw_pof_dh.tw_pof_dh_buriedtreasure_chest" GUID="+HFNx6jpE0+gVD43h3VHUQ=="/>
+		<POI MapID="1211" xpos="-343.023" ypos="230.4" zpos="226.706" type="tw_guides.tw_pof.tw_pof_dh.tw_pof_dh_buriedtreasure_chest" GUID="/I3GEVt6YEGrY7dt6DLZag=="/>
+		<POI MapID="1211" xpos="946.78" ypos="189.684" zpos="273.908" type="tw_guides.tw_pof.tw_pof_dh.tw_pof_dh_buriedtreasure_chest" GUID="a4UzcQGNAEiGygyI5iJXAw=="/>
+		<POI MapID="1211" xpos="-1387.61" ypos="438.036" zpos="105.308" type="tw_guides.tw_pof.tw_pof_dh.tw_pof_dh_buriedtreasure_chest" GUID="N0W39XtiR0+EqYR7ZBAfAQ=="/>
+		<POI MapID="1211" xpos="-676.446" ypos="376.41" zpos="434.954" type="tw_guides.tw_pof.tw_pof_dh.tw_pof_dh_buriedtreasure_chest" GUID="JxbmY5GmVkaImHrDZ3sHQw=="/>
+		<POI MapID="1211" xpos="1197.32" ypos="200.261" zpos="-66.4174" type="tw_guides.tw_pof.tw_pof_dh.tw_pof_dh_buriedtreasure_chest" GUID="vpJSAEI2QUyEcsEVcNdrsw=="/>
+		<POI MapID="1211" xpos="-927.015" ypos="320.824" zpos="589.839" type="tw_guides.tw_pof.tw_pof_dh.tw_pof_dh_buriedtreasure_chest" GUID="xj7tA8a76Eag8GzpFPJBiw=="/>
+		<POI MapID="1211" xpos="1036.92" ypos="208.192" zpos="-172.936" type="tw_guides.tw_pof.tw_pof_dh.tw_pof_dh_buriedtreasure_chest" GUID="EbO+qr8v8keTsIpmPRmi2Q=="/>
+		<POI MapID="1211" xpos="-298.487" ypos="216.823" zpos="277.648" type="tw_guides.tw_pof.tw_pof_dh.tw_pof_dh_buriedtreasure_chest" GUID="3UXBRiZHIUuF+OYOUa70yw=="/>
+		<POI MapID="1211" xpos="-508.322" ypos="309.053" zpos="489.213" type="tw_guides.tw_pof.tw_pof_dh.tw_pof_dh_buriedtreasure_chest" GUID="MhprPokQdU+qZ/DS/4c0Cw=="/>
+		<POI MapID="1211" xpos="9.80062" ypos="194.57" zpos="-29.056" type="tw_guides.tw_pof.tw_pof_dh.tw_pof_dh_buriedtreasure_chest" GUID="2CUgCgWHskKd+7NqpULavQ=="/>
+		<POI MapID="1211" xpos="-361.338" ypos="222.453" zpos="349.51" type="tw_guides.tw_pof.tw_pof_dh.tw_pof_dh_buriedtreasure_chest" GUID="I2cmq0CKJkGupb/gOtvhmw=="/>
+		<POI MapID="1211" xpos="-1204.47" ypos="353.853" zpos="358.792" type="tw_guides.tw_pof.tw_pof_dh.tw_pof_dh_buriedtreasure_chest" GUID="7D5PR1V0hE2kYMypY1i71g=="/>
+		<POI MapID="1211" xpos="1108.41" ypos="199.525" zpos="98.0423" type="tw_guides.tw_pof.tw_pof_dh.tw_pof_dh_buriedtreasure_chest" GUID="tb9fJG8d6Eebl7ixXPQYwQ=="/>
+		<POI MapID="1211" xpos="-281.414" ypos="214.247" zpos="200.424" type="tw_guides.tw_pof.tw_pof_dh.tw_pof_dh_buriedtreasure_chest" GUID="GPvFS3I7AUSIrT+Rko1/BQ=="/>
+		<POI MapID="1211" xpos="-1309.82" ypos="443.026" zpos="157.24" type="tw_guides.tw_pof.tw_pof_dh.tw_pof_dh_buriedtreasure_chest" GUID="RgBOCYo2okWU99WHw2MA+Q=="/>
+		<POI MapID="1211" xpos="-546.251" ypos="131.141" zpos="-288.752" type="tw_guides.tw_pof.tw_pof_dh.tw_pof_dh_buriedtreasure_chest" GUID="FNut3qXtyEu4WSuSMtdf6g=="/>
+		<POI MapID="1211" xpos="-1160.07" ypos="403.729" zpos="-27.4746" type="tw_guides.tw_pof.tw_pof_dh.tw_pof_dh_buriedtreasure_chest" GUID="ljrcuxy0M0aMKt4qp8GvSA=="/>
+		<POI MapID="1211" xpos="1085.69" ypos="179.499" zpos="-328.807" type="tw_guides.tw_pof.tw_pof_dh.tw_pof_dh_buriedtreasure_chest" GUID="gjkUuDYF2UWVQ4oBpwDDng=="/>
+		<POI MapID="1211" xpos="-608.088" ypos="329.614" zpos="430.171" type="tw_guides.tw_pof.tw_pof_dh.tw_pof_dh_buriedtreasure_chest" GUID="ChM/+lhHtUSg+RLa580HxQ=="/>
+		<POI MapID="1211" xpos="1284.33" ypos="136.582" zpos="-379.589" type="tw_guides.tw_pof.tw_pof_dh.tw_pof_dh_buriedtreasure_chest" GUID="rR+YIklFuUeTU+GdOiYXSw=="/>
+		<POI MapID="1211" xpos="1124.73" ypos="209.39" zpos="-178.934" type="tw_guides.tw_pof.tw_pof_dh.tw_pof_dh_buriedtreasure_chest" GUID="Wx1dDOAtCUuj5QCXAbD7XA=="/>
+		<POI MapID="1211" xpos="70.3022" ypos="202.708" zpos="51.771" type="tw_guides.tw_pof.tw_pof_dh.tw_pof_dh_buriedtreasure_chest" GUID="E7GirsIIy0GGF/2HwESQow=="/>
+		<POI MapID="1211" xpos="1096.53" ypos="144.375" zpos="-441.96" type="tw_guides.tw_pof.tw_pof_dh.tw_pof_dh_buriedtreasure_chest" GUID="xrxHkfLovESnnLUMslKBIw=="/>
+		<POI MapID="1211" xpos="-1375.4" ypos="381.526" zpos="395.219" type="tw_guides.tw_pof.tw_pof_dh.tw_pof_dh_buriedtreasure_chest" GUID="kcWOrJFzs0yG4u+Ebl9X/w=="/>
+    <Trail type="tw_guides.tw_pof.tw_pof_dh.tw_pof_dh_dwarvenremnants.tw_pof_dh_dwarvenremnants_toggletrail" GUID="EyKX4AISikmMthEvL9wVVA==" fadeNear="2500" fadeFar="2600" trailData="Data/TekkitsWorkshop/PoF/DesertHighlands/tw_pof_dh_dwarvenremnants.trl" animSpeed="0" texture="Data/TekkitsWorkshop/General/tw_trail_b.png"/>
+    <Trail type="tw_guides.tw_pof.tw_pof_dh.tw_pof_dh_adv_cavalierexpressparcelrun.tw_pof_dh_adv_cavalierexpressparcelrun_toggletrail" GUID="PmfjZ4BXpEihXy0LJuhBFA==" fadeNear="2500" fadeFar="2600" trailData="Data/TekkitsWorkshop/PoF/DesertHighlands/tw_pof_dh_adv_cavalierexpressparcelrun.trl" animSpeed="0" texture="Data/TekkitsWorkshop/General/tw_trail_g.png"/>
+    <Trail type="tw_guides.tw_pof.tw_pof_dh.tw_pof_dh_sandportals.tw_pof_dh_sandportals_toggletrail" GUID="S0hJ3gUw6UyWVCZvWiC2Tg==" fadeNear="10000" fadeFar="10000" trailData="Data/TekkitsWorkshop/PoF/DesertHighlands/tw_pof_dh_sandportals.trl" animSpeed="0" texture="Data/TekkitsWorkshop/General/tw_trail_link.png"/>
+  </POIs>
+</OverlayData>

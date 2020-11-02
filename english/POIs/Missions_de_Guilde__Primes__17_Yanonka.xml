@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+POIs: BoyC.2653 - TMKFrench.6427
+Date: 2017/08/11
+-->
+<OverlayData>
+	<MarkerCategory name="missions_de_guilde" DisplayName="Guild Missions">
+		<MarkerCategory name="primes" DisplayName="Bounties" iconFile="Img\GuildePrime.png" color="ffd8a200" triggerRange="15">
+			<MarkerCategory name="yanonka" DisplayName="Yanonka the Rat-Wrangler (Fields of Ruin)" iconFile="Img\GuildePrime.png" color="ffe52f22"/>
+		</MarkerCategory>
+	</MarkerCategory>
+
+	<POIs>
+
+		<POI MapID="21" xpos="-639.907" ypos="59.4778" zpos="-458.767" type="missions_de_guilde.primes.yanonka" GUID="dGUtUDv4KUCtmwharQnmhw=="/>
+		<POI MapID="21" xpos="-613.311" ypos="46.9234" zpos="-625.353" type="missions_de_guilde.primes.yanonka" GUID="gT8Ldf3unEyACE+LP9R/+g=="/>
+		<POI MapID="21" xpos="-599.503" ypos="59.6317" zpos="-444.687" type="missions_de_guilde.primes.yanonka" GUID="3S6/+pcSOkOxvIZ2/rEtRQ=="/>
+		<POI MapID="21" xpos="-585.376" ypos="46.3723" zpos="-599.691" type="missions_de_guilde.primes.yanonka" GUID="jndQwX/rpkG5m5bOn+0Y1w=="/>
+		<POI MapID="21" xpos="-581.442" ypos="46.8936" zpos="-644.057" type="missions_de_guilde.primes.yanonka" GUID="NzO6hCjYek6UzPa8iSqybw=="/>
+		<POI MapID="21" xpos="-400.103" ypos="58.3971" zpos="-761.488" type="missions_de_guilde.primes.yanonka" GUID="Q5oMNa06jkSgSmJwnatDjw=="/>
+		<POI MapID="21" xpos="-393.67"  ypos="69.5333" zpos="-551.48"  type="missions_de_guilde.primes.yanonka" GUID="SCUuQggMC06BqQyUYFD/7Q=="/>
+		<POI MapID="21" xpos="-380.091" ypos="36.9179" zpos="-256.033" type="missions_de_guilde.primes.yanonka" GUID="L1ZRTKvuAU6fwCplvj0p/w=="/>
+		<POI MapID="21" xpos="-270.5"   ypos="39.3947" zpos="-774.839" type="missions_de_guilde.primes.yanonka" GUID="60/C8fV8RE+IzvnUM9lMsA=="/>
+		<POI MapID="21" xpos="-182.327" ypos="5.49286" zpos="469.33"   type="missions_de_guilde.primes.yanonka" GUID="6N70eINnNU6k94b+k0rafw=="/>
+		<POI MapID="21" xpos="-140.079" ypos="20.5191" zpos="-716.979" type="missions_de_guilde.primes.yanonka" GUID="Z2lT8jFS4ka+MLm3Q/RkqQ=="/>
+		<POI MapID="21" xpos="-9.81675" ypos="15.3314" zpos="-189.618" type="missions_de_guilde.primes.yanonka" GUID="Um+GOstVN0uCmCk7piAPzg=="/>
+		<POI MapID="21" xpos="35.9471"  ypos="18.3944" zpos="-217.721" type="missions_de_guilde.primes.yanonka" GUID="ew5XWi329kCavSSzuNUpZQ=="/>
+		<POI MapID="21" xpos="49.304"   ypos="27.0783" zpos="782.314"  type="missions_de_guilde.primes.yanonka" GUID="ZQNQeQ7iyUK6H9vN/RCRpw=="/>
+		<POI MapID="21" xpos="70.2452"  ypos="4.25729" zpos="130.288"  type="missions_de_guilde.primes.yanonka" GUID="oEXuokNqEE2aNQLF4FbWJA=="/>
+		<POI MapID="21" xpos="74.7286"  ypos="23.0556" zpos="788.084"  type="missions_de_guilde.primes.yanonka" GUID="yr7ermWhiU6GDDgdA6Wu0Q=="/>
+		<POI MapID="21" xpos="92.0917"  ypos="2.18421" zpos="559.007"  type="missions_de_guilde.primes.yanonka" GUID="DU/ONEGnTkOHE+q2F188wA=="/>
+		<POI MapID="21" xpos="134.406"  ypos="38.3783" zpos="-374.885" type="missions_de_guilde.primes.yanonka" GUID="RCdyYk1T8k6ZOGmGjLiZjQ=="/>
+		<POI MapID="21" xpos="148.014"  ypos="4.11999" zpos="541.01"   type="missions_de_guilde.primes.yanonka" GUID="C82zYPcQWEKbUjgsYnrQRA=="/>
+		<POI MapID="21" xpos="151.169"  ypos="27.5979" zpos="-530.093" type="missions_de_guilde.primes.yanonka" GUID="4vf7M701w0eg7XUOzi6Tpg=="/>
+		<POI MapID="21" xpos="190.564"  ypos="35.8983" zpos="-432.889" type="missions_de_guilde.primes.yanonka" GUID="XE0ZkoDkbkGydaLHxYda+Q=="/>
+		<POI MapID="21" xpos="194.532"  ypos="27.508"  zpos="-744.267" type="missions_de_guilde.primes.yanonka" GUID="hhmARrRV10qLkLsRz7MBZw=="/>
+		<POI MapID="21" xpos="208.273"  ypos="35.681"  zpos="-274.082" type="missions_de_guilde.primes.yanonka" GUID="TDr9pm88VkqTriheroG6aQ=="/>
+		<POI MapID="21" xpos="216.403"  ypos="26.8454" zpos="-734.12"  type="missions_de_guilde.primes.yanonka" GUID="53QfhLibUEC05PNuUI5Qxg=="/>
+		<POI MapID="21" xpos="232.524"  ypos="31.7686" zpos="-525.827" type="missions_de_guilde.primes.yanonka" GUID="gCGpL8IkXUuWgHVsamRIqg=="/>
+		<POI MapID="21" xpos="237.183"  ypos="35.8174" zpos="-397.037" type="missions_de_guilde.primes.yanonka" GUID="L3s6h6glsES2KzLeTizJpw=="/>
+		<POI MapID="21" xpos="286.503"  ypos="48.6567" zpos="-759.901" type="missions_de_guilde.primes.yanonka" GUID="/s/oUiTNp0aWfG76x4rzUw=="/>
+		<POI MapID="21" xpos="300.538"  ypos="43.1564" zpos="-350.566" type="missions_de_guilde.primes.yanonka" GUID="Z1rDkVZzRUuRvVUPIUyztQ=="/>
+		<POI MapID="21" xpos="360.536"  ypos="31.5277" zpos="-492.061" type="missions_de_guilde.primes.yanonka" GUID="n2X3V3bdVUOT0b288WwFvA=="/>
+		<POI MapID="21" xpos="459.067"  ypos="4.78009" zpos="681.792"  type="missions_de_guilde.primes.yanonka" GUID="0t7sTACSzU6znAYohYquSA=="/>
+		<POI MapID="21" xpos="486.935"  ypos="5.51876" zpos="738.097"  type="missions_de_guilde.primes.yanonka" GUID="lLBEphlVk06M76xXWShLzA=="/>
+		<POI MapID="21" xpos="505.321"  ypos="28.9826" zpos="-721.224" type="missions_de_guilde.primes.yanonka" GUID="bA592ydWbkip1ubskx2H+A=="/>
+		<POI MapID="21" xpos="510.146"  ypos="1.55466" zpos="555.072"  type="missions_de_guilde.primes.yanonka" GUID="p5O7CIeixk69Tp1UmVLiYg=="/>
+		<POI MapID="21" xpos="539.876"  ypos="33.7245" zpos="-821.034" type="missions_de_guilde.primes.yanonka" GUID="FSriXMzmv0+aIwNn+IWX4A=="/>
+		<POI MapID="21" xpos="597.499"  ypos="22.5816" zpos="-79.1241" type="missions_de_guilde.primes.yanonka" GUID="i9NfM0y290WwgfKt5bkF8A=="/>
+		<POI MapID="21" xpos="606.017"  ypos="14.9338" zpos="449.105"  type="missions_de_guilde.primes.yanonka" GUID="KMIoL/YDEkyw9upUAKHhAg=="/>
+		<POI MapID="21" xpos="626.625"  ypos="25.9956" zpos="-345.985" type="missions_de_guilde.primes.yanonka" GUID="8ZHt06eQE0a8LxCAqYFIsQ=="/>
+		<POI MapID="21" xpos="668.433"  ypos="25.6243" zpos="-284.475" type="missions_de_guilde.primes.yanonka" GUID="wvVp2mv260SMvbzT4tNfXw=="/>
+		<POI MapID="21" xpos="685.297"  ypos="56.6278" zpos="-736.974" type="missions_de_guilde.primes.yanonka" GUID="wzEMQkZltUSOSpMnqpuP5g=="/>
+		<POI MapID="21" xpos="687.57"   ypos="46.1783" zpos="-786.083" type="missions_de_guilde.primes.yanonka" GUID="sn0EJKjNyEyCl9lWH3VQhw=="/>
+		<POI MapID="21" xpos="694.236"  ypos="4.82334" zpos="687.454"  type="missions_de_guilde.primes.yanonka" GUID="FpJIAbAi302ysmsEKac5hw=="/>
+		<POI MapID="21" xpos="711.721"  ypos="27.0129" zpos="-257.658" type="missions_de_guilde.primes.yanonka" GUID="8nWXQu9YyEaUrXjMjfaGfQ=="/>
+		<POI MapID="21" xpos="715.253"  ypos="46.9079" zpos="-781.662" type="missions_de_guilde.primes.yanonka" GUID="aQK0Jsh9KEmRRqQRKSzsRA=="/>
+		<POI MapID="21" xpos="728.667"  ypos="28.6074" zpos="-108.464" type="missions_de_guilde.primes.yanonka" GUID="Pqkuip16JU+u6de+Y5X8Dw=="/>
+		<POI MapID="21" xpos="760.536"  ypos="30.9357" zpos="783.978"  type="missions_de_guilde.primes.yanonka" GUID="SQ4/wcn160W/rAQ72kXqXQ=="/>
+		<POI MapID="21" xpos="796.984"  ypos="40.9213" zpos="-679.447" type="missions_de_guilde.primes.yanonka" GUID="wosRTbIKLESeVqXFoVyDuQ=="/>
+		<POI MapID="21" xpos="804.463"  ypos="24.6148" zpos="739.829"  type="missions_de_guilde.primes.yanonka" GUID="LTxMAqXLvk6S8xCEOnBALQ=="/>
+
+	</POIs>
+</OverlayData>

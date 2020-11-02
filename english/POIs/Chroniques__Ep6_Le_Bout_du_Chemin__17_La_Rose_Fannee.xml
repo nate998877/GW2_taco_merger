@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+POIs: ReActif.9251
+Date: 2017/08/11
+-->
+<OverlayData>
+	<MarkerCategory name="chroniques.saison_3">
+		<MarkerCategory name="ep6_le_bout_du_chemin" DisplayName="Ep.6 - One Path Ends" iconFile="Img\LeBoutduChemin.png">
+			<MarkerCategory name="la_rose_fannee" DisplayName="The Withered Rose"/>
+		</MarkerCategory>
+	</MarkerCategory>
+
+	<POIs>
+
+		<!-- Dahlia -->
+		<POI MapID="1203" xpos="297.17" ypos="44" zpos="-354.04" type="chroniques.saison_3.ep6_le_bout_du_chemin.la_rose_fannee" GUID="wCBX3avoWUamRTuyZduNZQ==" heightOffset="3" behavior="0"/>
+		<POI MapID="1203" xpos="298.64" ypos="47" zpos="-354.43" type="chroniques.saison_3.ep6_le_bout_du_chemin.la_rose_fannee" GUID="TSM15BcoLE2E0o7PFMC18w==" iconFile="Img\1.png"/>
+		<POI MapID="1203" xpos="296.5"  ypos="47" zpos="-355.07" type="chroniques.saison_3.ep6_le_bout_du_chemin.la_rose_fannee" GUID="qNznFWf2VkuC+mIur2HjVw==" iconFile="Img\4.png"/>
+
+		<!-- Tuer le Chef -->
+		<POI MapID="1203" xpos="-659.08" ypos="129"   zpos="108.598" type="chroniques.saison_3.ep6_le_bout_du_chemin.la_rose_fannee" GUID="61XLfTboMkWcilqtm0Jfdg==" iconFile="Img\Combat.png" color="ffff0000"/>
+		<POI MapID="1203" xpos="-659.08" ypos="130.5" zpos="108.598" type="chroniques.saison_3.ep6_le_bout_du_chemin.la_rose_fannee" GUID="biVkpDqkl0iD5nLLcTwubg==" iconFile="Img\2.png"/>
+
+		<!-- Journal -->
+		<POI MapID="1203" xpos="-587.539" ypos="127.764" zpos="114.645" type="chroniques.saison_3.ep6_le_bout_du_chemin.la_rose_fannee" GUID="1Ec/xKe1oEO2aZ4JqmJ1Vg=="/>
+		<POI MapID="1203" xpos="-587.539" ypos="129.764" zpos="114.645" type="chroniques.saison_3.ep6_le_bout_du_chemin.la_rose_fannee" GUID="r2vD0hO0Hkm3aze/piiu0w==" iconFile="Img\3.png"/>
+
+	</POIs>
+</OverlayData>

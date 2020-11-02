@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+POIs: ReActif.9251
+Date: 2017/08/15
+-->
+<OverlayData>
+	<MarkerCategory name="histoires_annexes" DisplayName="Side Stories" iconFile="Img\HistoiresAnnexes.png" behavior="3">
+		<MarkerCategory name="preservation_de_la_magie" DisplayName="Conservation of Magic" iconFile="Img\PreservationDeLaMagie.png" behavior="0">
+			<MarkerCategory name="etude_de_keadin" DisplayName="Keadin's Study"/>
+		</MarkerCategory>
+	</MarkerCategory>
+
+	<POIs>
+
+		<!-- Keadin -->
+		<POI MapID="20" xpos="-125.49" ypos="20.47"  zpos="-62.97" type="histoires_annexes.preservation_de_la_magie.etude_de_keadin" GUID="eQmkI3kqaEqScYDKFbkNsw==" heightOffset="4"/>
+
+	</POIs>
+</OverlayData>

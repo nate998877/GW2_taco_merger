@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+POIs: ReActif.9251
+Date: 2017/02/12
+-->
+<OverlayData>
+	<MarkerCategory name="chroniques.saison_3">
+		<MarkerCategory name="ep4_la_tete_du_serpent" DisplayName="Ep.4 - The Head of the Snake" iconFile="Img\LacDoric.png">
+			<MarkerCategory name="lettres_d_e" DisplayName="Letters from E"/>
+		</MarkerCategory>
+	</MarkerCategory>
+
+	<POIs>
+
+		<!-- 1. Première lettre d'E -->
+		<POI MapID="1185" xpos="204.402" ypos="73.1376" zpos="605.01" type="chroniques.saison_3.ep4_la_tete_du_serpent.lettres_d_e" GUID="XZota0I6LUW0R0eL3fkh9A=="/>
+
+		<!-- 2. Deuxième lettre d'E -->
+		<POI MapID="1185" xpos="-41.2115" ypos="56.7573" zpos="-50.9681" type="chroniques.saison_3.ep4_la_tete_du_serpent.lettres_d_e" GUID="qn67E/a2s0iem5aqZh2G+A=="/>
+
+		<!-- 3. Troisième lettre d'E -->
+		<POI MapID="1185" xpos="-246.74" ypos="0.176138" zpos="-383.712" type="chroniques.saison_3.ep4_la_tete_du_serpent.lettres_d_e" GUID="cCqGrQI5sUuECUuoOn15EQ=="/>
+
+		<!-- 4. Quatrième lettre d'E -->
+		<POI MapID="1185" xpos="-332.106" ypos="34.6978" zpos="-348.475" type="chroniques.saison_3.ep4_la_tete_du_serpent.lettres_d_e" GUID="sjZ9G2DqR0GCZ6K0UZnHdw=="/>
+
+		<!-- 5. Cinquième lettre d'E -->
+		<POI MapID="1185" xpos="314.616" ypos="57.9574" zpos="-282.142" type="chroniques.saison_3.ep4_la_tete_du_serpent.lettres_d_e" GUID="tVdpiSWywk6/nb5f5ZigwA=="/>
+
+		<!-- 6. Sixième lettre d'E -->
+		<POI MapID="1185" xpos="321.083" ypos="66.1096" zpos="-486.045" type="chroniques.saison_3.ep4_la_tete_du_serpent.lettres_d_e" GUID="FoAw38QLF0Cl5iD+X9GD5A=="/>
+
+		<!-- 7. Septième lettre d'E -->
+		<POI MapID="1185" xpos="-150.159" ypos="47.8895" zpos="-750.532" type="chroniques.saison_3.ep4_la_tete_du_serpent.lettres_d_e" GUID="cAf0VNMRiE6oq5ToqWGWzQ=="/>
+
+		<!-- 8. Correspondance d'E -->
+		<!-- S'Obtient automatiquement -->
+
+	</POIs>
+</OverlayData>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+POIs: ReActif.9251
+Date: 2017/01/25
+-->
+<OverlayData>
+	<MarkerCategory name="coffres.requiert_cle">
+		<MarkerCategory name="divers" DisplayName="Miscellaneous" iconFile="Img\Sac.png"/>
+	</MarkerCategory>
+
+	<POIs>
+
+		<!-- Coffre de Zinn -->
+		<POI MapID="1045" xpos="374.285" ypos="96.5116" zpos="-78.585" type="coffres.requiert_cle.divers" GUID="77uRdT+zOE2/qVfXx1rNYQ=="/>
+
+		<!-- Coffre du Labyrinthe -->
+		<POI MapID="1015" xpos="-243.127" ypos="373.754" zpos="-353.626" type="coffres.requiert_cle.divers" GUID="sbiqUt6sjkuZhIXR28az7w=="/>
+
+		<!-- Coffre de Bandit -->
+		<POI MapID="1015" xpos="171.821" ypos="425.995" zpos="104.976" type="coffres.requiert_cle.divers" GUID="KMtLjsADukarZvZ+C4wzEQ=="/>
+
+		<!-- Coffre de Nain -->
+		<POI MapID="26" xpos="-487.939" ypos="92.9659" zpos="111.566" type="coffres.requiert_cle.divers" GUID="2IBB5jNFHkSnvCRtAKKWkg=="/>
+		<POI MapID="26" xpos="-320.3" ypos="110.612" zpos="-449.514" type="coffres.requiert_cle.divers" GUID="id/8bObJhEKxN2U4OWIqCg=="/>
+		<POI MapID="26" xpos="-3.02" ypos="124.646" zpos="-155.792" type="coffres.requiert_cle.divers" GUID="y1RKgMnBXEi3hkBSUvpyZA=="/>
+
+	</POIs>
+</OverlayData>

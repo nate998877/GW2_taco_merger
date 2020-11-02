@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+POIs: ReActif.9251 - TMKFrench.6427
+Date: 2017/03/08
+-->
+<OverlayData>
+	<MarkerCategory name="chroniques.saison_2">
+		<MarkerCategory name="ep8_le_point_de_non_retour" DisplayName="Ep.8 - Point of No Return" iconFile="Img\Saison2LePointDeNonRetour.png">
+			<MarkerCategory name="aucun_talent_culinaire" DisplayName="No Culinary Application"/>
+		</MarkerCategory>
+	</MarkerCategory>
+
+	<POIs>
+
+		<!-- Cuisinier de Pierre de Sang -->
+		<POI MapID="1029" xpos="-204.9" ypos="142.914" zpos="294.81" type="chroniques.saison_2.ep8_le_point_de_non_retour.aucun_talent_culinaire" GUID="QeTXa8E50k6vEU2vmIeW8w==" iconFile="Img\AucunTalentCulinaire.png" heightOffset="4"/>
+
+	</POIs>
+</OverlayData>

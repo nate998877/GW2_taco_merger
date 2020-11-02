@@ -1,0 +1,17 @@
+<OverlayData>
+	<MarkerCategory name="currentevents" DisplayName="Current Events">
+		<MarkerCategory name="openletters" DisplayName="Open Letters" iconFile="Data/gw2info/letter.png" behavior="3" iconSize="1.0" triggerRange="5" fadeNear="300" fadeFar="12500"/>
+	</MarkerCategory>
+	<POIs>
+		<POI MapID="15" xpos="-738.098" ypos="45.5234" zpos="234.813" type="currentevents.openletters" GUID="VgPz7+Asq06Vc9IyM4cNnA=="/>
+		<POI MapID="15" xpos="-948.476" ypos="15.2176" zpos="-577.496" type="currentevents.openletters" GUID="ROJrLzrKi0Ksh+4K25ShNw=="/>
+		<POI MapID="15" xpos="403.922" ypos="11.6063" zpos="671.673" type="currentevents.openletters" GUID="hPxmtIhiikGjW+FozYR7bg=="/>
+		<POI MapID="15" xpos="987.571" ypos="26.2204" zpos="600.775" type="currentevents.openletters" GUID="inX2cMslSUaTENIHjpCxtA=="/>
+		<POI MapID="17" xpos="-204.514" ypos="45.0668" zpos="678.832" type="currentevents.openletters" GUID="k1IagWYSxUS7IHhQ3VZqjQ=="/>
+		<POI MapID="17" xpos="-707.083" ypos="9.94154" zpos="345.774" type="currentevents.openletters" GUID="HSFwlMLaSEOkTln699HoWw=="/>
+		<POI MapID="23" xpos="-1050.64" ypos="91.7973" zpos="544.583" type="currentevents.openletters" GUID="3wqjn1Wb7ki47XGn3ecQcg=="/>
+		<POI MapID="23" xpos="176.436" ypos="9.35532" zpos="-150" type="currentevents.openletters" GUID="y7GE+hJQnE+gGBrx6G05Vg=="/>
+		<POI MapID="24" xpos="-1047.6" ypos="26.6075" zpos="-139.709" type="currentevents.openletters" GUID="e+3UBqEmHU2TmV8fsU61lA=="/>
+		<POI MapID="24" xpos="-314.097" ypos="5.08675" zpos="-24.3444" type="currentevents.openletters" GUID="+mmW9eZlsEOhP3PwDPcO4g=="/>
+	</POIs>
+</OverlayData>

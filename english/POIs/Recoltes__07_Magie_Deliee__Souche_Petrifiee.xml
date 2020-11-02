@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+POIs: Xenophy.2716 - ReActif.9251 - TMKFrench.6427
+Date: 2017/03/31
+-->
+<OverlayData>
+	<MarkerCategory name="recoltes" DisplayName="Harvest" fadeNear="10000" fadeFar="20000" behavior="6">
+		<MarkerCategory name="magie_deliee" DisplayName="Unbound Magic" iconFile="Img\MagieDeliee.png" triggerRange="3">
+			<MarkerCategory name="souche_petrifiee" DisplayName="Petrified Stump" iconFile="Img\SouchePetrifiee.png"/>
+		</MarkerCategory>
+	</MarkerCategory>
+
+	<POIs>
+
+		<POI MapID="1175" xpos="-912.986" ypos="3.03368" zpos="-34.8737" type="recoltes.magie_deliee.souche_petrifiee" GUID="Yr7MuOmgFEyU8dqRqMczkA=="/>
+		<POI MapID="1175" xpos="-847.149" ypos="21.7807" zpos="-127.718" type="recoltes.magie_deliee.souche_petrifiee" GUID="sufpuQ3x1Eqiw1xai7GaYQ=="/>
+		<POI MapID="1175" xpos="-809.664" ypos="33.0498" zpos="107.854" type="recoltes.magie_deliee.souche_petrifiee" GUID="53Z2klBImEqMtfMrXmfMiQ=="/>
+		<POI MapID="1175" xpos="-717.53" ypos="13.2986" zpos="-377.516" type="recoltes.magie_deliee.souche_petrifiee" GUID="TP6RfDREqEGcTBZ51S63FA=="/>
+		<POI MapID="1175" xpos="-514.541" ypos="47.8132" zpos="-322.613" type="recoltes.magie_deliee.souche_petrifiee" GUID="+TeqiAeF+0OLmUGDVoxu7w=="/>
+		<POI MapID="1175" xpos="-231.459" ypos="14.1612" zpos="-610.604" type="recoltes.magie_deliee.souche_petrifiee" GUID="tY+DLX9K2ECKrTCD8hUO0w=="/>
+		<POI MapID="1175" xpos="-205.955" ypos="21.3701" zpos="-573.222" type="recoltes.magie_deliee.souche_petrifiee" GUID="Nb/ywJ2DHEugF8JLNSRB1g=="/>
+		<POI MapID="1175" xpos="-172.955" ypos="15.8897" zpos="-617.016" type="recoltes.magie_deliee.souche_petrifiee" GUID="hb3koULMKEGnlmYHZRyg7A=="/>
+		<POI MapID="1175" xpos="-74.5031" ypos="28.473" zpos="-248.752" type="recoltes.magie_deliee.souche_petrifiee" GUID="yB9MBKCNDkmGMGtJpzQkfQ=="/>
+		<POI MapID="1175" xpos="-62.1593" ypos="68.1756" zpos="-8.0425" type="recoltes.magie_deliee.souche_petrifiee" GUID="uJvCo/d55k2WN5VBtrYFvA=="/>
+		<POI MapID="1175" xpos="-7.65071" ypos="3.24222" zpos="-321.013" type="recoltes.magie_deliee.souche_petrifiee" GUID="Cdz35+QiAUexWiTL7Vk31w=="/>
+		<POI MapID="1175" xpos="20.6523" ypos="59.8325" zpos="-85.9619" type="recoltes.magie_deliee.souche_petrifiee" GUID="kxszPBREP0u7Wl6IGphXtQ=="/>
+		<POI MapID="1175" xpos="47.1585" ypos="74.9613" zpos="114.618" type="recoltes.magie_deliee.souche_petrifiee" GUID="o/R7U85ctkedAhvlBy9/Ew=="/>
+		<POI MapID="1175" xpos="108.38" ypos="85.0944" zpos="163.652" type="recoltes.magie_deliee.souche_petrifiee" GUID="v7ZJmG20MkieRtGhBFx+Cg=="/>
+		<POI MapID="1175" xpos="131.891" ypos="62.6823" zpos="97.7677" type="recoltes.magie_deliee.souche_petrifiee" GUID="DhYvmyEXBkirgYtXJYQScg=="/>
+		<POI MapID="1175" xpos="134.429" ypos="20.0237" zpos="-337.644" type="recoltes.magie_deliee.souche_petrifiee" GUID="dtAbnPFSLk2k71exWimZJA=="/>
+		<POI MapID="1175" xpos="142.277" ypos="46.8337" zpos="-239.539" type="recoltes.magie_deliee.souche_petrifiee" GUID="VEwOc9eK0UisiRg3rW8q1Q=="/>
+		<POI MapID="1175" xpos="169.743" ypos="17.2805" zpos="-475.725" type="recoltes.magie_deliee.souche_petrifiee" GUID="YGyiZw26jkOrKqrcEBW3OA=="/>
+		<POI MapID="1175" xpos="187.938" ypos="78.4614" zpos="171.395" type="recoltes.magie_deliee.souche_petrifiee" GUID="f611wBis4kmfG42H9ua5KA=="/>
+		<POI MapID="1175" xpos="209.018" ypos="61.8636" zpos="88.7576" type="recoltes.magie_deliee.souche_petrifiee" GUID="hQbDGtTIzUSbpO9dgrilig=="/>
+		<POI MapID="1175" xpos="238.515" ypos="13.0696" zpos="-496.577" type="recoltes.magie_deliee.souche_petrifiee" GUID="EWI5mgZr0kWFOpoy35arkg=="/>
+		<POI MapID="1175" xpos="251.838" ypos="79.7038" zpos="-32.8723" type="recoltes.magie_deliee.souche_petrifiee" GUID="nIxFehJKxkyqiNGcAnDrsw=="/>
+		<POI MapID="1175" xpos="257.617" ypos="19.9917" zpos="-319.799" type="recoltes.magie_deliee.souche_petrifiee" GUID="4y2rGSMIvEmmUqb7tiPCIQ=="/>
+		<POI MapID="1175" xpos="346.373" ypos="8.29729" zpos="-615.855" type="recoltes.magie_deliee.souche_petrifiee" GUID="7gwBnF27Nke0NxyTdbcOuA=="/>
+		<POI MapID="1175" xpos="369.47" ypos="8.16179" zpos="-514.546" type="recoltes.magie_deliee.souche_petrifiee" GUID="3d30rMSoYUq8u4j5o2wPRQ=="/>
+		<POI MapID="1175" xpos="375.158" ypos="24.3633" zpos="-221.732" type="recoltes.magie_deliee.souche_petrifiee" GUID="Wrw1XcdGw0C4x9SpiII+qw=="/>
+		<POI MapID="1175" xpos="403.901" ypos="18.4088" zpos="-351.541" type="recoltes.magie_deliee.souche_petrifiee" GUID="G1tWGWep9kSmex5G66J9hA=="/>
+		<POI MapID="1175" xpos="417.721" ypos="12.6015" zpos="-461.076" type="recoltes.magie_deliee.souche_petrifiee" GUID="+HiLiXC620Og8leY2Piy9g=="/>
+		<POI MapID="1175" xpos="479.507" ypos="11.4384" zpos="-783.752" type="recoltes.magie_deliee.souche_petrifiee" GUID="f3z20Woj3UqXps2bqLzIbg=="/>
+		<POI MapID="1175" xpos="496.703" ypos="15.8671" zpos="-224.095" type="recoltes.magie_deliee.souche_petrifiee" GUID="FkkgCZErE0eWkRaXigkoDg=="/>
+		<POI MapID="1175" xpos="518.619" ypos="8.10758" zpos="-371.903" type="recoltes.magie_deliee.souche_petrifiee" GUID="gnuwG14JAUmo16sSGEHdBg=="/>
+		<POI MapID="1175" xpos="521.825" ypos="44.228" zpos="-4.1328" type="recoltes.magie_deliee.souche_petrifiee" GUID="wdJ7cmGDQkC71+tc4nR3nw=="/>
+		<POI MapID="1175" xpos="564.801" ypos="2.67458" zpos="-654.291" type="recoltes.magie_deliee.souche_petrifiee" GUID="MwRlIF+vTESK7EK878lalg=="/>
+		<POI MapID="1175" xpos="570.583" ypos="39.5298" zpos="-142.922" type="recoltes.magie_deliee.souche_petrifiee" GUID="u/PRNKU+A0a4D+OJ++zJEQ=="/>
+		<POI MapID="1175" xpos="623.192" ypos="13.3339" zpos="-30.1372" type="recoltes.magie_deliee.souche_petrifiee" GUID="muWhpqfvYkOdFVIJjkVsHA=="/>
+		<POI MapID="1175" xpos="630.767" ypos="6.89527" zpos="-240.43" type="recoltes.magie_deliee.souche_petrifiee" GUID="BC8977KGI0KJJDq20Ho0YQ=="/>
+		<POI MapID="1175" xpos="683.694" ypos="3.5523" zpos="-151.016" type="recoltes.magie_deliee.souche_petrifiee" GUID="oQ6oEzCaK0GZDJ9JHmD36A=="/>
+		<POI MapID="1175" xpos="693.434" ypos="1.99491" zpos="-369.09" type="recoltes.magie_deliee.souche_petrifiee" GUID="OdxwzlkGT0+C6ySyBE52bQ=="/>
+		<POI MapID="1175" xpos="846.575" ypos="1.54362" zpos="-121.763" type="recoltes.magie_deliee.souche_petrifiee" GUID="to7nKWntTkubDVqjNyxw7g=="/>
+
+	</POIs>
+</OverlayData>

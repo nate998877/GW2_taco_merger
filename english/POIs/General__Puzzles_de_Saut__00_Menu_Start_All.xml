@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+POIs: TMKFrench.6427
+Date: 2017/10/05
+!!! IMPORTANT !!! DO NOT DELETE THIS FILE IF YOU LOAD AT LEAST ONE PUZZLE JUMP !!!
+-->
+<OverlayData>
+	<MarkerCategory name="general">
+		<MarkerCategory name="puzzles_de_saut" DisplayName="Jumping Puzzles" iconFile="Img\Guide.png" iconSize="0.75">
+			<MarkerCategory name="debut" DisplayName="Start (All)" iconFile="Img\PuzzleDebut.png" iconSize="1.5"/>
+		</MarkerCategory>
+	</MarkerCategory>
+</OverlayData>

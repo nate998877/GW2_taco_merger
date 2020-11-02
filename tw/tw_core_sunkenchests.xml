@@ -1,0 +1,54 @@
+<OverlayData>
+<MarkerCategory name="tw_guides" DisplayName="Tekkit's Guides">
+	<MarkerCategory name="tw_core" DisplayName="Misc">
+		<MarkerCategory name="tw_core_sunkenchests" DisplayName="Sunken Chests">
+      <MarkerCategory name="tw_core_sunkenchests_sunkenchest" DisplayName="Toggle Sunken Chests" mapDisplaySize="30" iconFile="Data/TekkitsWorkshop/Core/tw_core_sunkenchest.png" iconSize="0.5" heightOffset="0.5" minSize="10"/>
+				<MarkerCategory name="tw_core_sunkenchests_toggletrails" DisplayName="Toggle Trails">
+          <MarkerCategory name="tw_core_sunkenchests_toggletrail_bc" DisplayName="Toggle Trail - Bloodtide Coast"/>
+          <MarkerCategory name="tw_core_sunkenchests_toggletrail_fs" DisplayName="Toggle Trail - Frostgorge Sound"/>
+          <MarkerCategory name="tw_core_sunkenchests_toggletrail_gf" DisplayName="Toggle Trail - Gendarren Fields"/>
+          <MarkerCategory name="tw_core_sunkenchests_toggletrail_hh" DisplayName="Toggle Trail - Harathi Hinterlands"/>
+          <MarkerCategory name="tw_core_sunkenchests_toggletrail_im" DisplayName="Toggle Trail - Iron Marches"/>
+          <MarkerCategory name="tw_core_sunkenchests_toggletrail_kh" DisplayName="Toggle Trail - Kessex Hills"/>
+          <MarkerCategory name="tw_core_sunkenchests_toggletrail_lp" DisplayName="Toggle Trail - Lornar's Pass"/>
+          <MarkerCategory name="tw_core_sunkenchests_toggletrail_mm" DisplayName="Toggle Trail - Mount Maelstrom"/>
+          <MarkerCategory name="tw_core_sunkenchests_toggletrail_sd" DisplayName="Toggle Trail - Snowden Drifts"/>
+          <MarkerCategory name="tw_core_sunkenchests_toggletrail_tf" DisplayName="Toggle Trail - Timberline Falls"/>
+        </MarkerCategory>   
+      <MarkerCategory name="tw_core_sunkenchests_startsign" DisplayName="Starting Sign" mapDisplaySize="130" iconFile="Data/TekkitsWorkshop/Core/tw_core_sunkenchests_startsign.png" iconSize="1" heightOffset="2.5" minSize="50" fadeNear="5000" fadeFar="5100"/>         
+    </MarkerCategory>
+	</MarkerCategory>
+</MarkerCategory>
+	<POIs>
+		<POI MapID="73" xpos="263.812" ypos="-47.3695" zpos="391.633" type="tw_guides.tw_core.tw_core_sunkenchests.tw_core_sunkenchests_sunkenchest" GUID="B8k0kgdcu0OWJNqEbn1c+w=="/>
+		<POI MapID="73" xpos="505.261" ypos="-0.138521" zpos="314.8" type="tw_guides.tw_core.tw_core_sunkenchests.tw_core_sunkenchests_startsign" GUID="/1ZquhI6HUS5c8qPAO405Q=="/>
+		<POI MapID="30" xpos="-34.3186" ypos="-13.6505" zpos="156.344" type="tw_guides.tw_core.tw_core_sunkenchests.tw_core_sunkenchests_sunkenchest" GUID="55nu3Fv1/kSrw1OCNxlJOA=="/>
+		<POI MapID="30" xpos="117.333" ypos="37.7329" zpos="350.556" type="tw_guides.tw_core.tw_core_sunkenchests.tw_core_sunkenchests_startsign" GUID="bdaaC/Uir0GcN8TkTygViw=="/>
+		<POI MapID="24" xpos="-7.96634" ypos="-38.2831" zpos="37.8682" type="tw_guides.tw_core.tw_core_sunkenchests.tw_core_sunkenchests_sunkenchest" GUID="ZL7rsVYrc02AzXLrtWDF6A=="/>
+		<POI MapID="24" xpos="-102.737" ypos="-37.0119" zpos="-110.907" type="tw_guides.tw_core.tw_core_sunkenchests.tw_core_sunkenchests_startsign" GUID="eWoA56kToke83xp2xDgy9w=="/>
+		<POI MapID="17" xpos="709.561" ypos="-83.1718" zpos="-730.652" type="tw_guides.tw_core.tw_core_sunkenchests.tw_core_sunkenchests_sunkenchest" GUID="n7GQ0i6cmECeQ/i/PhYYrA=="/>
+		<POI MapID="17" xpos="458.122" ypos="28.4062" zpos="-759.941" type="tw_guides.tw_core.tw_core_sunkenchests.tw_core_sunkenchests_startsign" GUID="ExKnbpyrikyqbi+fs81hOA=="/>
+		<POI MapID="25" xpos="325.421" ypos="-31.7084" zpos="158.268" type="tw_guides.tw_core.tw_core_sunkenchests.tw_core_sunkenchests_sunkenchest" GUID="rsLzIXgdMUCygV+mHn1odA=="/>
+		<POI MapID="25" xpos="187.278" ypos="4.84618" zpos="-111.126" type="tw_guides.tw_core.tw_core_sunkenchests.tw_core_sunkenchests_startsign" GUID="h1v0rYWYe0WBCo2n+ohudA=="/>
+		<POI MapID="23" xpos="111.717" ypos="-51.5544" zpos="-341.218" type="tw_guides.tw_core.tw_core_sunkenchests.tw_core_sunkenchests_sunkenchest" GUID="GK2D9CYcMEC6f42h0BtAQA=="/>
+		<POI MapID="23" xpos="351.561" ypos="67.5016" zpos="-343.249" type="tw_guides.tw_core.tw_core_sunkenchests.tw_core_sunkenchests_startsign" GUID="Yc5zpKDZmU6MTtOFUgCzkw=="/>
+		<POI MapID="27" xpos="-243.185" ypos="-38.2159" zpos="-943.035" type="tw_guides.tw_core.tw_core_sunkenchests.tw_core_sunkenchests_sunkenchest" GUID="yfka3+03kkCNG1D9W6C80g=="/>
+		<POI MapID="27" xpos="-78.1675" ypos="61.2637" zpos="-915.611" type="tw_guides.tw_core.tw_core_sunkenchests.tw_core_sunkenchests_startsign" GUID="9YCXsAVnhEuQuEaTxkkl8w=="/>
+		<POI MapID="39" xpos="995.052" ypos="-97.2371" zpos="-326.884" type="tw_guides.tw_core.tw_core_sunkenchests.tw_core_sunkenchests_sunkenchest" GUID="5IaekNJD0ESFabNFtXFCIw=="/>
+		<POI MapID="39" xpos="880.035" ypos="0.183336" zpos="-155.972" type="tw_guides.tw_core.tw_core_sunkenchests.tw_core_sunkenchests_startsign" GUID="6Lyc5js6ukCzunFdTW39Dw=="/>
+		<POI MapID="31" xpos="112.44" ypos="-22.774" zpos="-434.417" type="tw_guides.tw_core.tw_core_sunkenchests.tw_core_sunkenchests_sunkenchest" GUID="kg/q57Cg0UOYh3AADKqdww=="/>
+		<POI MapID="31" xpos="-62.937" ypos="3.46538" zpos="-352.758" type="tw_guides.tw_core.tw_core_sunkenchests.tw_core_sunkenchests_startsign" GUID="uzAv8HxH9ESZy9R23tFaKw=="/>
+		<POI MapID="29" xpos="514.597" ypos="-30.5556" zpos="165.281" type="tw_guides.tw_core.tw_core_sunkenchests.tw_core_sunkenchests_sunkenchest" GUID="SagWzqYKEkqurA/+x4DMig=="/>
+		<POI MapID="29" xpos="354.799" ypos="5.81373" zpos="199.921" type="tw_guides.tw_core.tw_core_sunkenchests.tw_core_sunkenchests_startsign" GUID="FF48dZoKLUqPhzYi30Skjg=="/>
+		<Trail type="tw_guides.tw_core.tw_core_sunkenchests.tw_core_sunkenchests_toggletrails.tw_core_sunkenchests_toggletrail_bc" GUID="r5el5l+uS0OnucrprYfnaA==" fadeNear="1200" fadeFar="1300" trailData="Data/TekkitsWorkshop/Core/tw_core_sunkenchests_bc.trl" animSpeed="0.1" texture="Data/TekkitsWorkshop/General/tw_trail_nr.png"/>
+		<Trail type="tw_guides.tw_core.tw_core_sunkenchests.tw_core_sunkenchests_toggletrails.tw_core_sunkenchests_toggletrail_fs" GUID="hg+nPro/i0WwnaNYQ4YDLA==" fadeNear="1200" fadeFar="1300" trailData="Data/TekkitsWorkshop/Core/tw_core_sunkenchests_fs.trl" animSpeed="0.1" texture="Data/TekkitsWorkshop/General/tw_trail_nr.png"/>
+		<Trail type="tw_guides.tw_core.tw_core_sunkenchests.tw_core_sunkenchests_toggletrails.tw_core_sunkenchests_toggletrail_gf" GUID="/ulYwFNXAESsryiqgkEZUQ==" fadeNear="1200" fadeFar="1300" trailData="Data/TekkitsWorkshop/Core/tw_core_sunkenchests_gf.trl" animSpeed="0.1" texture="Data/TekkitsWorkshop/General/tw_trail_nr.png"/>
+		<Trail type="tw_guides.tw_core.tw_core_sunkenchests.tw_core_sunkenchests_toggletrails.tw_core_sunkenchests_toggletrail_hh" GUID="4m+KoVeXKkyVItw7q3KFfg==" fadeNear="1200" fadeFar="1300" trailData="Data/TekkitsWorkshop/Core/tw_core_sunkenchests_hh.trl" animSpeed="0.1" texture="Data/TekkitsWorkshop/General/tw_trail_nr.png"/>
+		<Trail type="tw_guides.tw_core.tw_core_sunkenchests.tw_core_sunkenchests_toggletrails.tw_core_sunkenchests_toggletrail_im" GUID="5AdUWa+aU0SrovyNzD0fZg==" fadeNear="1200" fadeFar="1300" trailData="Data/TekkitsWorkshop/Core/tw_core_sunkenchests_im.trl" animSpeed="0.1" texture="Data/TekkitsWorkshop/General/tw_trail_nr.png"/>
+		<Trail type="tw_guides.tw_core.tw_core_sunkenchests.tw_core_sunkenchests_toggletrails.tw_core_sunkenchests_toggletrail_kh" GUID="mDoinSJMykqbBiHfpODWdQ==" fadeNear="1200" fadeFar="1300" trailData="Data/TekkitsWorkshop/Core/tw_core_sunkenchests_kh.trl" animSpeed="0.1" texture="Data/TekkitsWorkshop/General/tw_trail_nr.png"/>
+		<Trail type="tw_guides.tw_core.tw_core_sunkenchests.tw_core_sunkenchests_toggletrails.tw_core_sunkenchests_toggletrail_lp" GUID="MMeEN/Oy1k2Om3Jq5APnIQ==" fadeNear="1200" fadeFar="1300" trailData="Data/TekkitsWorkshop/Core/tw_core_sunkenchests_lp.trl" animSpeed="0.1" texture="Data/TekkitsWorkshop/General/tw_trail_nr.png"/>
+		<Trail type="tw_guides.tw_core.tw_core_sunkenchests.tw_core_sunkenchests_toggletrails.tw_core_sunkenchests_toggletrail_mm" GUID="bC8tiYmgF0qkqnam4EeKdA==" fadeNear="1200" fadeFar="1300" trailData="Data/TekkitsWorkshop/Core/tw_core_sunkenchests_mm.trl" animSpeed="0.1" texture="Data/TekkitsWorkshop/General/tw_trail_nr.png"/>
+		<Trail type="tw_guides.tw_core.tw_core_sunkenchests.tw_core_sunkenchests_toggletrails.tw_core_sunkenchests_toggletrail_sd" GUID="txk9JpYGZEmhWtQ6PxIeGQ==" fadeNear="1200" fadeFar="1300" trailData="Data/TekkitsWorkshop/Core/tw_core_sunkenchests_sd.trl" animSpeed="0.1" texture="Data/TekkitsWorkshop/General/tw_trail_nr.png"/>
+		<Trail type="tw_guides.tw_core.tw_core_sunkenchests.tw_core_sunkenchests_toggletrails.tw_core_sunkenchests_toggletrail_tf" GUID="jIz9e1SO5kCk9ui4Ce4goQ==" fadeNear="1200" fadeFar="1300" trailData="Data/TekkitsWorkshop/Core/tw_core_sunkenchests_tf.trl" animSpeed="0.1" texture="Data/TekkitsWorkshop/General/tw_trail_nr.png"/>
+	</POIs>
+</OverlayData>

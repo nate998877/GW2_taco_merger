@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+POIs: ReActif.9251
+Date: 2017/03/06
+-->
+<OverlayData>
+	<MarkerCategory name="chroniques.saison_2">
+		<MarkerCategory name="ep2_emprise_malefique" DisplayName="Ep.2 - Entanglement" iconFile="Img\Saison2EmpriseMalefique.png">
+			<MarkerCategory name="une_diligence_extreme" DisplayName="On Swift Wings"/>
+		</MarkerCategory>
+	</MarkerCategory>
+
+	<POIs>
+
+		<!-- PNJ à Sauver -->
+		<POI MapID="994" xpos="-455.378" ypos="9.27507" zpos="-88.4874" type="chroniques.saison_2.ep2_emprise_malefique.une_diligence_extreme" GUID="I0OZRy3mc0G5UchaHRSouA==" iconFile="Img\1.png" heightOffset="3"/>
+		<POI MapID="994" xpos="-445.365" ypos="18.56" zpos="-89.6994" type="chroniques.saison_2.ep2_emprise_malefique.une_diligence_extreme" GUID="Nu3diDvJXEyVlcvosrDN+w==" iconFile="Img\2.png" heightOffset="3"/>
+		<POI MapID="994" xpos="-444.748" ypos="10.8001" zpos="-101.287" type="chroniques.saison_2.ep2_emprise_malefique.une_diligence_extreme" GUID="pgb1CrxCCUCOClkkhD3FmA==" iconFile="Img\3.png" heightOffset="3"/>
+		<POI MapID="994" xpos="-489.469" ypos="24.1821" zpos="-178.657" type="chroniques.saison_2.ep2_emprise_malefique.une_diligence_extreme" GUID="3U0boZGrEUW1fiu+Do5Ktg==" iconFile="Img\4.png" heightOffset="3"/>
+		<POI MapID="994" xpos="-488.032" ypos="24.1096" zpos="-182.344" type="chroniques.saison_2.ep2_emprise_malefique.une_diligence_extreme" GUID="7sHec4nsgEG0CG8QEfe1yQ==" iconFile="Img\5.png" heightOffset="3"/>
+		<POI MapID="994" xpos="-422.801" ypos="-0.677934" zpos="-145.808" type="chroniques.saison_2.ep2_emprise_malefique.une_diligence_extreme" GUID="fSMbY4YOn0mXjrLVceEwtQ==" iconFile="Img\6.png" heightOffset="3"/>
+		<POI MapID="994" xpos="-397.219" ypos="-0.650246" zpos="-36.4442" type="chroniques.saison_2.ep2_emprise_malefique.une_diligence_extreme" GUID="IzBKRb8gb0Kuuf2hK3ktKA==" iconFile="Img\7.png" heightOffset="3"/>
+
+	</POIs>
+</OverlayData>

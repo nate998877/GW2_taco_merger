@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+POIs: TMKFrench.6427 
+Date: 2017/08/11
+-->
+<OverlayData>
+	<MarkerCategory name="general" DisplayName="General">
+		<MarkerCategory name="cimeseche" DisplayName="Dry Top">
+			<MarkerCategory name="maitre_de_la_plongee__vallee_du_prospecteur" DisplayName="Dive Master: Prospect Valley" iconFile="Img\Plongeon.png" heightOffset="0" behavior="3">
+				<MarkerCategory name="acces" DisplayName="Guide" iconFile="Img\Guide.png" iconSize="0.75"/>
+			</MarkerCategory>
+		</MarkerCategory>
+	</MarkerCategory>
+
+	<POIs>
+
+		<!-- Début -->
+		<POI MapID="988" xpos="310.539" ypos="157.554" zpos="-405.286" type="general.cimeseche.maitre_de_la_plongee__vallee_du_prospecteur" GUID="UawqmZtfmUGJI/VA0p9v2Q=="/>
+
+		<!-- Route -->
+		<Route MapID="988" name="Acces" resetposx="310.539" resetposy="157.554" resetposz="-405.286" resetrange="2">
+			<POI MapID="988" xpos="290.435" ypos="109.059" zpos="-394.389" type="general.cimeseche.maitre_de_la_plongee__vallee_du_prospecteur.acces" GUID="48BV8GgUDUOICkW9MafB2Q=="/>
+			<POI MapID="988" xpos="277.679" ypos="66.6781" zpos="-413.357" type="general.cimeseche.maitre_de_la_plongee__vallee_du_prospecteur.acces" GUID="Lfn7f0W7c0KDXSUxuiqD1Q=="/>
+		</Route>
+
+		<!-- Arrivée -->
+		<POI MapID="988" xpos="284.746" ypos="-1.05664" zpos="-418.573" type="general.cimeseche.maitre_de_la_plongee__vallee_du_prospecteur" GUID="o4kfrv4nD0CCJSDNGla5Hg==" iconFile="Img\Cible.png"/>
+
+	</POIs>
+</OverlayData>

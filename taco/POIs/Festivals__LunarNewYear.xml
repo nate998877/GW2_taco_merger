@@ -1,0 +1,40 @@
+<!-- 2020.06.09 -->
+<OverlayData>
+	<POIs>
+
+		<!-- DIVINITY'S REACH RACE (RACE) -->
+		<Trail type="festivals.lunar_new_year_race" GUID="eOiAr+HlmUyJ6Q4FQv26BA==" trailData="Data/Festivals/LunarNewYear/Race.trl" texture="Data/Arrow.png" color="ff2bc6ff" alpha="1" fadeNear="3000" fadeFar="4000" animSpeed="0"/>
+		<POI MapID="18" xpos="-216.578" ypos="60.9252" zpos="-97.6558" type="festivals.lunar_new_year_race" GUID="r1H3OM7rCEWnd641A5IMzA==" fadeNear="6000" fadeFar="7000"/>
+		<POI MapID="18" xpos="67.4333"  ypos="135.03"  zpos="-9.28688" type="festivals.lunar_new_year_race" GUID="Wl4KX0oDNki1mrDZhSgoWQ==" iconFile="Img/Signs/End.png" fadeNear="6000" fadeFar="7000" mapDisplaySize="15"/>
+
+		<!-- FIRECRACKER LIGHTING (ADVENTURE) -->
+		<Trail type="festivals.lunar_new_year_adventure_1" GUID="FmQK9Pso1Ei7cDSlqGN1qw==" trailData="Data/Festivals/LunarNewYear/Adventure_1.trl" texture="Data/Arrow.png" color="ffffff00" alpha="1" fadeNear="3000" fadeFar="4000" animSpeed="0"/>
+		<POI MapID="18" xpos="-186.931" ypos="58.3544" zpos="231.782"  type="festivals.lunar_new_year_adventure_1" GUID="N9ZkqWg9xUaBN5bxXt+t4w==" iconFile="Img/Mounts/Springer.png" fadeNear="3000" fadeFar="4000" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="18" xpos="400.838"  ypos="57.8126" zpos="-102.005" type="festivals.lunar_new_year_adventure_1" GUID="E+2iDDJkWEG9PkNY54TOag==" iconFile="Img/Mounts/Springer.png" fadeNear="3000" fadeFar="4000" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="18" xpos="304.533"  ypos="58.7483" zpos="-312.676" type="festivals.lunar_new_year_adventure_1" GUID="cxHpoQQUF06wjhdtHD88Kg==" iconFile="Img/Signs/Jump.png"      fadeNear="3000" fadeFar="4000" alpha="0.7" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="18" xpos="-8.48166" ypos="53.3075" zpos="-392.848" type="festivals.lunar_new_year_adventure_1" GUID="I0Nl2kVsSUOAtNHnRTdQ8Q==" iconFile="Img/Signs/Jump.png"      fadeNear="3000" fadeFar="4000" alpha="0.7" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="18" xpos="-159.023" ypos="98.8055" zpos="-126.31"  type="festivals.lunar_new_year_adventure_1" GUID="PrNKxJHklUSc9TcyMiDy4A==" iconFile="Img/Gliders/Glider.png"  fadeNear="3000" fadeFar="4000" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="18" xpos="-296.573" ypos="86.3508" zpos="-61.1763" type="festivals.lunar_new_year_adventure_1" GUID="jNN1s5TqF0eQ9o1LNDJRSA==" iconFile="Img/Gliders/Glider.png"  fadeNear="3000" fadeFar="4000" mapVisibility="0" miniMapVisibility="0"/>
+
+		<!-- FIRECRACKER LIGHTING 2 (ADVENTURE) -->
+		<Trail type="festivals.lunar_new_year_adventure_2" GUID="HJb5XI+n7UmB9sm0ZD4SSw==" trailData="Data/Festivals/LunarNewYear/Adventure_2.trl"          texture="Data/Arrow.png"    color="ff00ff00" alpha="1" fadeNear="3000" fadeFar="4000" animSpeed="0"/>
+		<Trail type="festivals.lunar_new_year_adventure_2" GUID="YAKN0rwsU0mEzoIWJMmOlg==" trailData="Data/Festivals/LunarNewYear/Adventure_2_Shortcut.trl" texture="Data/SemiLine.png" color="ff7fff7f" alpha="1" fadeNear="3000" fadeFar="4000" animSpeed="0"/>
+		<POI MapID="18" xpos="-169.25" ypos="75.9764" zpos="-72.8821" type="festivals.lunar_new_year_adventure_2" GUID="knHXywbECU2+S2W0VISClA==" iconFile="Img/Signs/Jump.png"                              fadeNear="3000" fadeFar="4000" alpha="0.7" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="18" xpos="59.3017" ypos="140.592" zpos="-169.741" type="festivals.lunar_new_year_adventure_2" GUID="vPRysdXhm0KjSoWBXqiS2Q==" iconFile="Img/Festivals/FirecrackerLighting2AlongWall.png" minSize="48" maxSize="64" fadeNear="2000" fadeFar="2500" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="18" xpos="114.994" ypos="100.43"  zpos="-465.187" type="festivals.lunar_new_year_adventure_2" GUID="7jU81OQD3UW3YdSUjgwiIQ==" iconFile="Img/Festivals/FirecrackerLighting2Shortcut.png"  minSize="48" maxSize="64" fadeNear="2000" fadeFar="2500" alpha="1" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="18" xpos="441.824" ypos="100.604" zpos="-254.232" type="festivals.lunar_new_year_adventure_2" GUID="O3UOSCoiokuWq1ZTXZY0qw==" iconFile="Img/Festivals/FirecrackerLighting2Shortcut.png"  minSize="48" maxSize="64" fadeNear="2000" fadeFar="2500" alpha="1" mapVisibility="0" miniMapVisibility="0"/>
+
+		<!-- FIRECRACKER FINDER -->
+		<POI MapID="18" xpos="-376.312" ypos="60.821"  zpos="-103.005" type="festivals.firecracker_finder" GUID="TJtwsB3K8kGLod80rKKXxA=="/>
+		<POI MapID="18" xpos="-351.192" ypos="43.2021" zpos="-56.1138" type="festivals.firecracker_finder" GUID="8qvbf500oUu9wV+2KnN3vA==" heightOffset="3.5"/>
+		<POI MapID="18" xpos="-292.211" ypos="73"      zpos="18.011"   type="festivals.firecracker_finder" GUID="Bakl0PtLIECZ0VnyN4fYiA=="/>
+		<POI MapID="18" xpos="-263.813" ypos="72.8373" zpos="38.8413"  type="festivals.firecracker_finder" GUID="l9veclzn6UWz9q/F7sQ3fg=="/>
+		<POI MapID="18" xpos="-259"     ypos="60.4241" zpos="42.06"    type="festivals.firecracker_finder" GUID="q4eBK2AjwESqwkTdosk0ug=="/>
+		<POI MapID="18" xpos="-222.56"  ypos="60.5422" zpos="-164.166" type="festivals.firecracker_finder" GUID="7FDl04Q26kqr9fj09vWZeA==" heightOffset="3.5"/>
+		<POI MapID="18" xpos="-215.525" ypos="60.8521" zpos="-63.3072" type="festivals.firecracker_finder" GUID="zrisMGYns0KDYpiKYZOB9A==" heightOffset="3.5"/>
+		<POI MapID="18" xpos="-202.023" ypos="77.2813" zpos="-65.9109" type="festivals.firecracker_finder" GUID="TPj4/NgpE0egWGcaOhk+9A=="/>
+		<POI MapID="18" xpos="-201.824" ypos="77.2609" zpos="-47.0732" type="festivals.firecracker_finder" GUID="hZG4Epw48UWAi3pmUihBMQ=="/>
+		<POI MapID="18" xpos="-185.12"  ypos="65"      zpos="9.10455"  type="festivals.firecracker_finder" GUID="0wZqVSHsKE2z/3av/nkP5A==" heightOffset="3.5"/>
+
+	</POIs>
+</OverlayData>

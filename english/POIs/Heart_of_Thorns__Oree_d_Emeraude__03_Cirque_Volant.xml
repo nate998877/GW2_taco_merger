@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+POIs: ReActif.9251
+Date: 2017/08/22
+-->
+<OverlayData>
+	<MarkerCategory name="heart_of_thorns.oree_d_emeraude">
+		<MarkerCategory name="cirque_volant" DisplayName="Flying Circus" iconFile="Img\Guide.png" triggerRange="15">
+			<MarkerCategory name="points_de_passage" DisplayName="Checkpoints" iconFile="Img\DrapeauPassage.png"/>
+		</MarkerCategory>
+	</MarkerCategory>
+
+	<POIs>
+
+		<!-- Début -->
+		<POI MapID="1052" xpos="-394.21" ypos="589.489" zpos="324.171" type="heart_of_thorns.oree_d_emeraude.cirque_volant" GUID="3ebGlIJwmEG0uNfEhMXiQQ==" iconFile="Img\AventureActive.png" behavior="0"/>
+
+		<!-- Route -->
+		<Route MapID="1052" name="Cirque_Volant" resetposx="-394.21" resetposy="589.489" resetposz="324.171" resetrange="0.3">
+			<POI MapID="1052" xpos="-391.901" ypos="581.137" zpos="338.793" type="heart_of_thorns.oree_d_emeraude.cirque_volant" GUID="I04DmiCD2EKnwFNTjum+nA=="/>
+			<POI MapID="1052" xpos="-400.662" ypos="524.179" zpos="361.15" type="heart_of_thorns.oree_d_emeraude.cirque_volant" GUID="dlVd5kwTjkOLdXpDRYpLDQ=="/>
+			<POI MapID="1052" xpos="-407.473" ypos="431.253" zpos="342.586" type="heart_of_thorns.oree_d_emeraude.cirque_volant" GUID="/2i/DjSdlEm1hA0EnVsExw=="/>
+			<POI MapID="1052" xpos="-379.66" ypos="407.788" zpos="298.15" type="heart_of_thorns.oree_d_emeraude.cirque_volant" GUID="9nby7QClLk2LAbCySKNwZQ=="/>
+			<POI MapID="1052" xpos="-343.292" ypos="375.355" zpos="273.521" type="heart_of_thorns.oree_d_emeraude.cirque_volant" GUID="ynusbqhKXUOWdgxCApY9AA=="/>
+			<POI MapID="1052" xpos="-296.71" ypos="351.947" zpos="242.099" type="heart_of_thorns.oree_d_emeraude.cirque_volant" GUID="29sAbf2/W0KHiJtoKblbiA=="/>
+			<POI MapID="1052" xpos="-257.614" ypos="351.943" zpos="229.371" type="heart_of_thorns.oree_d_emeraude.cirque_volant" GUID="w+Gkrrbui0KcEY1WjVgAQw=="/>
+			<POI MapID="1052" xpos="-233.576" ypos="361.215" zpos="239.523" type="heart_of_thorns.oree_d_emeraude.cirque_volant" GUID="l6lD/SApJE+0AMaPK8zcXw=="/>
+			<POI MapID="1052" xpos="-232.013" ypos="424.372" zpos="240.59" type="heart_of_thorns.oree_d_emeraude.cirque_volant" GUID="qshYKEG5rUaHBtAL+prx9Q=="/>
+			<POI MapID="1052" xpos="-211.957" ypos="420.386" zpos="238.635" type="heart_of_thorns.oree_d_emeraude.cirque_volant" GUID="R5HX5uIRe02DxrijOV1luA=="/>
+			<POI MapID="1052" xpos="-176.684" ypos="426.355" zpos="231.037" type="heart_of_thorns.oree_d_emeraude.cirque_volant" GUID="VrwkmVKM0U+iG3bCvsh+xw=="/>
+			<POI MapID="1052" xpos="-176.468" ypos="447.911" zpos="231.071" type="heart_of_thorns.oree_d_emeraude.cirque_volant" GUID="+UJ2aXUdGEiPQl7x4x9CUA=="/>
+			<POI MapID="1052" xpos="-176.325" ypos="472.88" zpos="231.049" type="heart_of_thorns.oree_d_emeraude.cirque_volant" GUID="/bXfLN84g0yVTA0SYWutGw=="/>
+			<POI MapID="1052" xpos="-176.283" ypos="505.131" zpos="230.901" type="heart_of_thorns.oree_d_emeraude.cirque_volant" GUID="QhxkI6WaWkKRVKOTcu9T0A=="/>
+			<POI MapID="1052" xpos="-176.466" ypos="546.746" zpos="230.741" type="heart_of_thorns.oree_d_emeraude.cirque_volant" GUID="hkJF10nln0ixDLZlnNCb7A=="/>
+			<POI MapID="1052" xpos="-193.853" ypos="554.959" zpos="214.42" type="heart_of_thorns.oree_d_emeraude.cirque_volant" GUID="31/BuXdm4E+aqvY3u3RNAQ=="/>
+			<POI MapID="1052" xpos="-205.806" ypos="548.544" zpos="202.725" type="heart_of_thorns.oree_d_emeraude.cirque_volant" GUID="Ea+sxlk9iUuvLmkOsZV6Og=="/>
+			<POI MapID="1052" xpos="-230.136" ypos="523.742" zpos="166.91" type="heart_of_thorns.oree_d_emeraude.cirque_volant" GUID="OwbWBbzq8kq7PhFSDEkRTA=="/>
+			<POI MapID="1052" xpos="-277.943" ypos="525.718" zpos="147.053" type="heart_of_thorns.oree_d_emeraude.cirque_volant" GUID="7GMdDQY/DkKv9wGMz6txmw=="/>
+			<POI MapID="1052" xpos="-290.955" ypos="520.792" zpos="143.505" type="heart_of_thorns.oree_d_emeraude.cirque_volant" GUID="z+UmL2RnPUCPC8txKUxO1w=="/>
+			<POI MapID="1052" xpos="-301.005" ypos="508.048" zpos="102.034" type="heart_of_thorns.oree_d_emeraude.cirque_volant" GUID="GsRbOg22b02D0t6kkvjxFQ=="/>
+			<POI MapID="1052" xpos="-315.511" ypos="490.238" zpos="35.3638" type="heart_of_thorns.oree_d_emeraude.cirque_volant" GUID="Zcyb0WMvlUSbA9oexEGVXg=="/>
+			<POI MapID="1052" xpos="-342.208" ypos="472.706" zpos="-34.8915" type="heart_of_thorns.oree_d_emeraude.cirque_volant" GUID="WHHYVaaF0k6MYFfl88tWyg=="/>
+			<POI MapID="1052" xpos="-365.026" ypos="458.159" zpos="-64.0121" type="heart_of_thorns.oree_d_emeraude.cirque_volant" GUID="4KykLJ6jf0KWH9Hl13ihAQ=="/>
+			<POI MapID="1052" xpos="-384.028" ypos="429.587" zpos="-92.2712" type="heart_of_thorns.oree_d_emeraude.cirque_volant" GUID="wZu0kiD+N0Cb17HM6wbCqg=="/>
+			<POI MapID="1052" xpos="-251.821" ypos="516.035" zpos="142.326" type="heart_of_thorns.oree_d_emeraude.cirque_volant" GUID="f33UbTDKy0+gxbpPMKgk9A=="/>
+			<POI MapID="1052" xpos="-300.218" ypos="516.557" zpos="132.359" type="heart_of_thorns.oree_d_emeraude.cirque_volant" GUID="9TfJZXBSxUOy/i13yOni7w=="/>
+			<POI MapID="1052" xpos="-308.429" ypos="511.141" zpos="110.68" type="heart_of_thorns.oree_d_emeraude.cirque_volant" GUID="5yQbOGWVPUqGiOWKv7vbpA=="/>
+			<POI MapID="1052" xpos="-311.656" ypos="490.63" zpos="82.4897" type="heart_of_thorns.oree_d_emeraude.cirque_volant" GUID="m03lqdZzLEOc3MNaB2eOsg=="/>
+			<POI MapID="1052" xpos="-311.43" ypos="492.653" zpos="58.2967" type="heart_of_thorns.oree_d_emeraude.cirque_volant" GUID="wHQ4inkuD0+S3YyRxyECUw=="/>
+			<POI MapID="1052" xpos="-320.788" ypos="483.126" zpos="7.65192" type="heart_of_thorns.oree_d_emeraude.cirque_volant" GUID="3Y2lzUyZg0SnDf1cW1BMEQ=="/>
+			<POI MapID="1052" xpos="-418.788" ypos="398.403" zpos="-117.071" type="heart_of_thorns.oree_d_emeraude.cirque_volant" GUID="Vw6diPjV9UKzUQaP2vr/EQ=="/>
+		</Route>
+
+		<!-- Points de Passages -->
+		<POI MapID="1052" xpos="-391.546" ypos="574.34" zpos="350.19" type="heart_of_thorns.oree_d_emeraude.cirque_volant.points_de_passage" GUID="gQBrLGTR4UuCNjcc9xpZsA=="/>
+		<POI MapID="1052" xpos="-408.807" ypos="472.49" zpos="362.136" type="heart_of_thorns.oree_d_emeraude.cirque_volant.points_de_passage" GUID="5ccot8KdhkGWU6KhOt3msw=="/>
+		<POI MapID="1052" xpos="-395.597" ypos="412.012" zpos="317.501" type="heart_of_thorns.oree_d_emeraude.cirque_volant.points_de_passage" GUID="dbbSWqu3Xk6NotB2TCuDxw=="/>
+		<POI MapID="1052" xpos="-321.136" ypos="366.638" zpos="259.457" type="heart_of_thorns.oree_d_emeraude.cirque_volant.points_de_passage" GUID="bzpsf8QB8kG+FonBH2bPSA=="/>
+		<POI MapID="1052" xpos="-238.376" ypos="349.862" zpos="232.589" type="heart_of_thorns.oree_d_emeraude.cirque_volant.points_de_passage" GUID="ch01NvDCzESqe+kPISBHgw=="/>
+		<POI MapID="1052" xpos="-231.376" ypos="400.704" zpos="238.919" type="heart_of_thorns.oree_d_emeraude.cirque_volant.points_de_passage" GUID="ArcT3nSAz0SMjN17hF1JoQ=="/>
+		<POI MapID="1052" xpos="-179.816" ypos="411.192" zpos="229.555" type="heart_of_thorns.oree_d_emeraude.cirque_volant.points_de_passage" GUID="9xe0nHN67EifKW1LojHhsw=="/>
+		<POI MapID="1052" xpos="-215.81" ypos="533.133" zpos="188.956" type="heart_of_thorns.oree_d_emeraude.cirque_volant.points_de_passage" GUID="6DYZ/xQj+k68qsTExVtJhQ=="/>
+		<POI MapID="1052" xpos="-243.939" ypos="517.792" zpos="144.2" type="heart_of_thorns.oree_d_emeraude.cirque_volant.points_de_passage" GUID="ycDFaiA8EEasfiZrosCZlQ=="/>
+		<POI MapID="1052" xpos="-303.502" ypos="513.564" zpos="94.8033" type="heart_of_thorns.oree_d_emeraude.cirque_volant.points_de_passage" GUID="0X+NQXdHtkiGR6Skm+bs1w=="/>
+		<POI MapID="1052" xpos="-334.947" ypos="473.863" zpos="-20.5612" type="heart_of_thorns.oree_d_emeraude.cirque_volant.points_de_passage" GUID="GFgMmEyPeU+YPbmm7xyWOw=="/>
+		<POI MapID="1052" xpos="-399.147" ypos="410.389" zpos="-109.97" type="heart_of_thorns.oree_d_emeraude.cirque_volant.points_de_passage" GUID="ce0/cmsZIUqVGdg4ZrRSzw=="/>
+
+		<!-- Arrivée -->
+		<POI MapID="1052" xpos="-461.317" ypos="374.746" zpos="-129.536" type="heart_of_thorns.oree_d_emeraude.cirque_volant.points_de_passage" GUID="NramYoC/s0iB9UrifazAlQ==" iconFile="Img\DrapeauArrivee.png" iconSize="1.5"/>
+
+
+	</POIs>
+</OverlayData>

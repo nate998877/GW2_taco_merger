@@ -1,0 +1,336 @@
+<!--
+Language: DEUTSCH
+Version : 047.2802r
+Update  : 2020.07.09
+Author  : Finanzamt.1483 - Kurim.2107 - Tullius.4329 - Vaneykay.7451
+Source  : https://www.dropbox.com/sh/3qs34dnsersibci/AACKGMga5BCjep2k7MaxVjbYa?dl=0
+Help    : https://docs.google.com/spreadsheets/d/1U0qyVQZ0kdt5LZRE6Ebzuyd0wrP4BwDBIrNM-pbcD90/
+-->
+<TacOLanguageData language="Deutsch">
+
+	<!-- Taco Menu -->
+	<token key="filtermarkers"                        value="Angezeigte taktische Marker filtern"/>
+	<token key="tacticalsettings"                     value="Einstellung für taktische Anzeige"/>
+		<token key="togglepoidistance"                value="POI-Entfernung anzeigen"/>
+		<token key="toggleherdicons"                  value="Bildschirmrandsymbole umschalten"/>
+		<token key="toggledrawwvwnames"               value="WvW Zielnamen anzeigen"/>
+		<token key="togglefadeoutbubble"              value="Transparente Wege um den Charakter"/>
+		<token key="toggletacticalinfotext"           value="Informationstext für Marker umschalten"/>
+		<token key="togglemetricsystem"               value="Zeige Entfernung in Metern"/>
+		<token key="markeropacity"                    value="Deckkraft für alle Marker"/>
+			<token key="ingameopacity"                value="Ingame-Marker"/>
+			<token key="mapopacity"                   value="Karten-Marker"/>
+				<token key="opacitysolid"             value="Solide"/>
+				<token key="opacitytransparent"       value="Transparent"/>
+				<token key="opacityfaded"             value="Verblasst"/>
+		<token key="visibilitymenu"                   value="Sichtbarkeit umschalten"/>
+			<token key="markervisibilitymenu"         value="Marker"/>
+			<token key="trailvisibilitymenu"          value="Wege"/>
+				<token key="ingamevisibility"         value="Zeige im Spiel"/>
+				<token key="minimapvisibility"        value="Zeige auf der Minimap"/>
+				<token key="mapvisibility"            value="Zeige auf der Karte"/>
+					<token key="defaultvisibility"    value="Standardeinstellung"/>
+					<token key="forceonvisibility"    value="Sichtbarkeit immer EIN"/>
+					<token key="forceoffvisibility"   value="Sichtbarkeit immer AUS"/>
+		<token key="tacticalutilities"                value="Marker-Dienstprogramme"/>
+			<token key="reloadmarkers"                value="Alle Markerdaten neu laden"/>
+			<token key="removemymarkers"              value="Entferne meine Markierungen von dieser Karte"/>
+				<token key="reallyremovemarkers"      value="LÖSCHE MEINE MARKER VON DIESER KARTE"/>
+	<token key="toggletactical"                       value="Taktische Anzeige umschalten"/>
+	<token key="togglerangecircles"                   value="Bereichskreise"/>
+		<token key="rangecirclesnotavailable"         value="Bereichskreise sind im PvP deaktiviert"/>
+		<token key="rangevisibility"                  value="Transparenz"/>
+		<token key="toggleranges"                     value="Stellt den Bereich ein"/>
+	<token key="togglecompass"                        value="Taktischer Kompass"/>
+	<token key="toggleloctimers"                      value="Ortstimer umschalten"/>
+	<token key="togglehpgrid"                         value="HP-Raster umschalten"/>
+	<token key="togglemousehighlight"                 value="Maus hervorheben"/>
+		<token key="togglemouseoutline"               value="Hervorhebungskontur"/>
+		<token key="mousecolor"                       value="Hervorhebungsfarbe"/>
+			<token key="red"                          value="Rot"/>
+			<token key="lightred"                     value="Hellrot"/>
+			<token key="black"                        value="Schwarz"/>
+			<token key="gray"                         value="Grau"/>
+			<token key="blue"                         value="Blau"/>
+			<token key="lightblue"                    value="Hellblau"/>
+			<token key="green"                        value="Grün"/>
+			<token key="lightgreen"                   value="Hellgrün"/>
+			<token key="cyan"                         value="Cyan"/>
+			<token key="lightcyan"                    value="Helles Cyan"/>
+			<token key="magenta"                      value="Magenta"/>
+			<token key="lightmagenta"                 value="Helles Magenta"/>
+			<token key="brown"                        value="Braun"/>
+			<token key="yellow"                       value="Gelb"/>
+			<token key="lightgray"                    value="Hellgrau"/>
+			<token key="white"                        value="Weiß"/>
+	<token key="openmaptimer"                         value="Kartentimerfenster einblenden"/>
+	<token key="closemaptimer"                        value="Kartentimerfenster ausblenden"/>
+		<token key="compactmaptimer"                  value="Kompakter Kartentimer"/>
+		<token key="configmaptimer"                   value="Kartentimer konfigurieren"/>
+	<token key="opentswindow"                         value="Teamspeak Fenster einblenden"/>
+	<token key="closetswindow"                        value="Teamspeak Fenster ausblenden"/>
+	<token key="openmarkereditor"                     value="Marker-Editor aktivieren"/>
+	<token key="closemarkereditor"                    value="Marker-Editor deaktivieren"/>
+		<token key="autohidemarkereditor"             value="Marker-Editor automatsch ausblenden"/>
+		<token key="*toggle_trail_recording"          value="Wegaufzeichnung starten/stoppen"/>
+		<token key="*pause_trail_recording"           value="Wegaufzeichnung pausieren/fortsetzen"/>
+		<token key="*remove_last_trail"               value="Letzten Wegaufzeichnungsabschnitt entfernen"/>
+		<token key="*resume_trail"                    value="Weg fortsetzen, indem ein neuer Abschnitt erstellt wird"/>
+	<token key="opennotepad"                          value="Notepad einblenden"/>
+	<token key="closenotepad"                         value="Notepad ausblenden"/>
+	<token key="openraidprogress"                     value="Raid Fortschrittsfenster einblenden"/>
+	<token key="closeraidprogress"                    value="Raid Fortschrittsfenster ausblenden"/>
+		<token key="raidwindow_compact"               value="Kompakte Ansicht"/>
+		<token key="showraid_forsaken_thicket"        value="Verlassenes Dickicht"/>
+		<token key="showraid_bastion_of_the_penitent" value="Bastion der Bußfertigen"/>
+		<token key="showraid_hall_of_chains"          value="Halle der Ketten"/>
+		<token key="showraid_mythwright_gambit"       value="Mythenschreiber-Wagnis"/>
+		<token key="showraid_the_key_of_ahdashim"     value="Schlüssel von Ahdashim"/>
+	<token key="opendungeonprogress"                  value="Dungeon Fortschrittsfenster einblenden"/>
+	<token key="closedungeonprogress"                 value="Dungeon Fortschrittsfenster ausblenden"/>
+	<token key="enabletpnotificationicon"             value="Benachrichtigung vom Handelsposten"/>
+	<token key="tacosettings"                         value="GW2 TacO-Einstellungen"/>
+		<token key="togglewindoweditmode"             value="Fensterbearbeitungsmodus"/>
+		<token key="toggleupdatecheck"                value="Suche beim Start nach Updates"/>
+		<token key="hideonload"                       value="TacO auf den Ladebildschirmen ausblenden"/>
+		<token key="closewithgw2"                     value="Beende TacO, wenn GW2 beendet wird"/>
+		<token key="toggleinfoline"                   value="Debuginformationen umschalten"/>
+		<token key="toggleforcedpiaware"              value="Nicht mit DPI skalieren (Neustart erforderlich)"/>
+		<token key="togglekeybinds"                   value="Tastenbelegung aktiviert"/>
+		<token key="rebindkeys"                       value="Tastenbelegung"/>
+			<token key="add_marker"                   value="Neuen Marker hinzufügen"/>
+			<token key="remove_marker"                value="Marker entfernen"/>
+			<token key="action_key"                   value="Aktionstaste"/>
+			<token key="edit_notepad"                 value="Notepad bearbeiten"/>
+			<token key="toggle_tactical_layer"        value="Taktische Anzeige umschalten"/>
+			<token key="toggle_range_circles"         value="Bereichskreise umschalten"/>
+			<token key="toggle_tactical_compass"      value="Taktischer Kompass umschalten"/>
+			<token key="toggle_locational_timers"     value="Ortstimer umschalten"/>
+			<token key="toggle_hp_grids"              value="HP-Raster umschalten"/>
+			<token key="toggle_mouse_highlight"       value="Maus hervorheben umschalten"/>
+			<token key="toggle_map_timer"             value="Kartentimerfenster umschalten"/>
+			<token key="toggle_ts3_window"            value="Teamspeak Fenster umschalten"/>
+			<token key="toggle_marker_editor"         value="Marker-Editor umschalten"/>
+			<token key="toggle_notepad"               value="Notepad umschalten"/>
+			<token key="toggle_raid_progress"         value="Raid Fortschrittsfenster umschalten"/>
+			<token key="toggle_dungeon_progress"      value="Dungeon Fortschrittsfenster umschalten"/>
+			<token key="toggle_tp_tracker"            value="Handelspostenfenster umschalten"/>
+			<token key="toggle_window_edit_mode"      value="Fensterbearbeitungsmodus umschalten "/>
+		<token key="apikeys"                          value="Setzt API-Schlüssel"/>
+			<token key="gw2apikey"                    value="Guild Wars 2"/>
+			<token key="ts3controlplugin"             value="TeamSpeak 3"/>
+		<token key="language"                         value="Sprache auswählen"/>
+	<token key="abouttaco"                            value="Kontaktinformationen (Über)"/>
+	<token key="supporttaco"                          value="Unterstützt GW2 TacO (Autor)"/>
+	<token key="exittaco"                             value="GW2 TacO beenden"/>
+
+	<!-- Api Window -->
+	<token key="enter_api"                            value="Gib deinen"/>
+	<token key="guild_wars_2"                         value="Guild Wars 2"/>
+	<token key="ts3_clientquery_plugin"               value="TS3 ClientQuery Plugin"/>
+	<token key="below_and_press"                      value="API-Schlüssel unten ein und drücke ENTER:"/>
+	<token key="waitingforapi"                        value="Warte auf die GW2-API..."/>
+	<token key="apierror1"                            value="GW2 API-Fehler"/>
+	<token key="apierror2"                            value="Dein API-Schlüssel ist ungültig oder die API ist fehlerhaft."/>
+	<token key="apierror3_progression"                value="Dein GW2-API-Schlüssel hat keinen"/>
+	<token key="apierror4_progression"                value="Zugriff auf die Berechtigung 'Progression'"/>
+	<token key="apikeynotset1"                        value="Du musst einen GW2 API-Schlüssel im"/>
+	<token key="apikeynotset2"                        value="TacO-Menü eingeben."/>
+	<token key="gw2_api_help_1"                       value="Du kannst einen API-Schlüssel hier erstellen:"/>
+	<token key="ts3_help_1"                           value="Du findest den API-Schlüssel im TeamSpeak 3 unter"/>
+	<token key="ts3_help_2"                           value="Extras -> Options -> Erweiterungen -> ClientQuery -> Einstellungen"/>
+	<token key="ts3authfail1"                         value="TS3 Authentifizierung Fehlgeschlagen."/>
+	<token key="ts3authfail2"                         value="Der angegebene TS3-API-Schlüssel ist"/>
+	<token key="ts3authfail3"                         value="ungültig. Bitte stell sicher dass der"/>
+	<token key="ts3authfail4"                         value="API-Schlüssel im TacO-Menü gültig ist."/>
+	<token key="ts3nokeyset1"                         value="TS3 Authentifizierung fehlgeschlagen."/>
+	<token key="ts3nokeyset2"                         value="Du musst einen TS3-API-Schlüssel"/>
+	<token key="ts3nokeyset3"                         value="im TacO-Menü eingeben."/>
+	<token key="apierror3_tradingpost"                value="Dein GW2-API-Schlüssel hat keinen"/>
+	<token key="apierror4_tradingpost"                value="Zugriff auf die Berechtigung 'Tradingpost'"/>
+	<token key="deletekey"                            value="Lösche API-Schlüssel"/>
+	<token key="addgw2apikey"                         value="Füge neuen GW2 API-Schlüssel hinzu"/>
+	<token key="couldntidentifyaccount1"              value="Es wurde kein API-Schlüssel gefunden, der dem aktuellen"/>
+	<token key="couldntidentifyaccount2"              value="Account entspricht. Bitte API-Schlüssel hinzufügen."/>
+	<token key="waitingforcharactername1"             value="Warte auf Charakterauswahl"/>
+
+	<!-- Raid Window -->
+	<token key="raid_wing"                            value="W"/>
+	<token key="raid_event"                           value="E"/>
+	<token key="raid_boss"                            value="B"/>
+
+	<!-- Trading Post Window -->
+	<token key="opentptracker"                        value="Handelspostfenster einblenden"/>
+	<token key="closetptracker"                       value="Handelspostfenster ausblenden"/>
+	<token key="tptracker_onlyoutbid"                 value="Zeige nur über- und unterbotene Angebote an."/>
+	<token key="tptracker_showbuys"                   value="Kaufaufträge anzeigen"/>
+	<token key="tptracker_showsells"                  value="Verkaufaufträge anzeigen"/>
+	<token key="tptracker_nextsellonly"               value="Zeige nur eine Liste pro Artikeltyp"/>
+	<token key="buylist"                              value="Kaufaufträge:"/>
+	<token key="selllist"                             value="Verkaufaufträge:"/>
+	<token key="outbidbuys"                           value="Überbotene Kaufaufträge:"/>
+	<token key="outbidsells"                          value="Unterboten Verkaufsaufträrge:"/>
+	<token key="gold"                                 value="g"/>
+	<token key="silver"                               value="s"/>
+	<token key="copper"                               value="k"/>
+
+	<!-- Information -->
+	<token key="getnewbuild"                          value="Hol dir die neue Version aus dem DevBlog."/>
+	<token key="new_build_txt1"                       value="Es wurde"/>
+	<token key="new_build_txt2"                       value="eine neue Version seit der letzten Aktualisierung von GW2 TacO veröffentlicht!"/>
+	<token key="multiclientwarning"                   value="GW2 TacO unterstützt kein Multi-Boxing."/>
+
+	<!-- Rebind Keys -->
+	<token key="action"                               value="Aktion"/>
+	<token key="action_no_key_bound"                  value="[keine Taste zugewiesen]"/>
+	<token key="currently_bound"                      value="ist der Taste zugeordnet"/>
+	<token key="no_action"                            value="Keine Aktion"/>
+	<token key="press_to_bind"                        value="Drücke die Taste, die du der Aktion zuweisen möchtest."/>
+	<token key="escape_to_unbind"                     value="Escape drücken, um die Tastenbelegung aufzuheben"/>
+	<token key="currently_not_bound"                  value="ist derzeit keine Taste zugewiesen"/>
+
+	<!-- Tactical Compass -->
+	<token key="compassnorth"                         value="N"/>
+	<token key="compasseast"                          value="O"/>
+	<token key="compasssouth"                         value="S"/>
+	<token key="compasswest"                          value="W"/>
+
+	<!-- Edge Of The Mists -->
+	<token key="airport"                              value="Flughafen"/>
+	<token key="altar"                                value="Altar"/>
+	<token key="arid_fortress"                        value="Dürrefestung"/>
+	<token key="arid_fortress_reactor"                value="Dürrefestunreaktor"/>
+	<token key="bell_tower"                           value="Glockenturm"/>
+	<token key="forge"                                value="Schmiede"/>
+	<token key="inferno_s_needle"                     value="Infernonadel"/>
+	<token key="inferno_s_needle_reactor"             value="Infernonadel-Reaktor"/>
+	<token key="observatory"                          value="Observatorium"/>
+	<token key="overgrown_fane"                       value="Überwuchertes Gotteshaus"/>
+	<token key="overgrown_fane_reactor"               value="Überwuchertes Gotteshaus-Reaktor"/>
+	<token key="shrine"                               value="Schrein"/>
+	<token key="statuary"                             value="Statue"/>
+	<token key="stonegaze_spire"                      value="Steinblick-Zackenstab"/>
+	<token key="stonegaze_spire_reactor"              value="Steinblick-Zackenstabreaktor"/>
+	<token key="thunder_hollow"                       value="Donnersenke"/>
+	<token key="thunder_hollow_reactor"               value="Donnersenkereaktor"/>
+	<token key="tytone_perch"                         value="Tytonenwarte"/>
+	<token key="tytone_perch_reactor"                 value="Tytonenwarte-Reaktor"/>
+	<token key="workshop"                             value="Werkstatt"/>
+	<token key="wurm_tunnel"                          value="Wurmtunnel"/>
+
+	<!-- Eternal Battlegrounds -->
+	<token key="aldon_s_ledge"                        value="Aldons Vorsprung"/>
+	<token key="anzalias_pass"                        value="Anzalias-Pass"/>
+	<token key="bravost_escarpment"                   value="Bravost-Adhang"/>
+	<token key="danelon_passage"                      value="Danelon-Passage"/>
+	<token key="durios_gulch"                         value="Durios-Schlucht"/>
+	<token key="golanta_clearing"                     value="Golanta-Lichtung"/>
+	<token key="jerrifer_s_slough"                    value="Jerrifer Sumpfloch"/>
+	<token key="klovan_gully"                         value="Klovan-Senke"/>
+	<token key="langor_gulch"                         value="Langor-Schlucht"/>
+	<token key="lowlands"                             value="Tiefland"/>
+	<token key="mendon_s_gap"                         value="Mendons Spalt"/>
+	<token key="ogrewatch_cut"                        value="Ogrewatch-Kanal"/>
+	<token key="overlook"                             value="Aussichtspunkt"/>
+	<token key="pangloss_rise"                        value="Pangloss-Anhöhe"/>
+	<token key="quentin_lake"                         value="Quentin-See"/>
+	<token key="rogue_s_quarry"                       value="Schurkenbruch"/>
+	<token key="speldan_clearcut"                     value="Speldan-Kahlschlag"/>
+	<token key="stonemist_castle"                     value="Schloss Steinnebel"/>
+	<token key="umberglade_woods"                     value="Umberlichtung-Forst"/>
+	<token key="valley"                               value="Tal"/>
+	<token key="veloka_slope"                         value="Veloka-Hang"/>
+	<token key="wildcreek_run"                        value="Maulevek-Senke"/>
+
+	<!-- Alpine Borderlands (All) -->
+	<token key="garrison"                             value="Festung"/>
+
+	<!-- Alpine Borderlands (Blue) -->
+	<token key="ascension_bay"                        value="Auftiegsbucht"/>
+	<token key="askalion_hills"                       value="Askalion-Hügel"/>
+	<token key="battle_s_hollow"                      value="Schlachten-Senke"/>
+	<token key="bauer_s_estate"                       value="Bauers Anwesen"/>
+	<token key="carver_s_ascent"                      value="Aufstieg des Schnitzers"/>
+	<token key="champion_s_demesne"                   value="Champions Landsitz"/>
+	<token key="dawn_s_eyrie"                         value="Horst der Morgendämmerung"/>
+	<token key="godslore"                             value="Gottessage"/>
+	<token key="greenlake"                            value="Grünsee"/>
+	<token key="greenwater_lowlands"                  value="Grünwasser-Tiefland"/>
+	<token key="orchard_overlook"                     value="Obstgarten-Aussichtspunkt"/>
+	<token key="redbriar"                             value="Rotstrauch"/>
+	<token key="redvale_refuge"                       value="Rottal-Zuflucht"/>
+	<token key="stargrove"                            value="Sternhain"/>
+	<token key="temple_of_lost_prayers"               value="Temple of Lost Prayers"/>
+	<token key="the_spiritholme"                      value="Der Geistholm"/>
+	<token key="woodhaven"                            value="Wald-Freistatt"/>
+
+	<!-- Alpine Borderlands (Green) -->
+	<token key="bluebriar"                            value="Blaustrauch"/>
+	<token key="bluevale_refuge"                      value="Blautal-Zuflucht"/>
+	<token key="cohen_s_overlook"                     value="Cohens Aussichtspunkt"/>
+	<token key="cragtop"                              value="Schroffgipfel"/>
+	<token key="patrick_s_ascent"                     value="Patricks Aufstieg"/>
+	<token key="temple_of_the_fallen"                 value="Tempel der Gefallenen"/>
+	<token key="gertzz_s_estate"                      value="Gertzz' Anwesen"/>
+	<token key="norfolk_s_hollow"                     value="Norfolks Senke"/>
+	<token key="dreadfall_bay"                        value="Schreckensfall-Bucht"/>
+	<token key="faithleap"                            value="Glaubenssprung"/>
+	<token key="foghaven"                             value="Nebel-Freistatt"/>
+	<token key="hero_s_lodge"                         value="Heldenhalle"/>
+	<token key="redlake"                              value="Rotsee"/>
+	<token key="redwater_lowlands"                    value="Rotwasser-Tiefland"/>
+	<token key="shadaran_hills"                       value="Shadaran-Hügel"/>
+	<token key="sunnyhill"                            value="Sonnenhügel"/>
+	<token key="the_titanpaw"                         value="Die Titanenpranke"/>
+
+	<!-- Desert Borderlands (Red) -->
+	<token key="bauer_farmstead"                      value="Bauer-Gehöft"/>
+	<token key="bearce_s_dwelling"                    value="Bearce Behausung"/>
+	<token key="blistering_undercroft"                value="Brennende Gruft"/>
+	<token key="boettiger_s_hideaway"                 value="Boettigers Versteck"/>
+	<token key="crankshaft_depot"                     value="Kurbekwekken-Depot"/>
+	<token key="darra_s_maze"                         value="Darras Labyrinth"/>
+	<token key="dustwhisper_well"                     value="Brunnen des Staubflüsterns"/>
+	<token key="eternal_necropolis"                   value="Ewige Nekropole"/>
+	<token key="hamm_s_lab"                           value="Hamms labor"/>
+	<token key="higgins_s_ascent"                     value="Higgins' Aufstieg"/>
+	<token key="mclain_s_encampment"                  value="Mclains Lager"/>
+	<token key="o_del_academy"                        value="O'del Akademie"/>
+	<token key="osprey_s_palace"                      value="FiqxhOspreydlze-Palast"/>
+	<token key="parched_outpost"                      value="Verdörrter Außenpsoten"/>
+	<token key="roy_s_refuge"                         value="Roys Zuflucht"/>
+	<token key="stoic_rampart"                        value="Stoischer Festungswall"/>
+	<token key="tilly_s_encampment"                   value="Tillys Lager"/>
+	<token key="zak_s_overlook"                       value="Zaks Aussichtspunkt"/>
+
+	<!-- Desert Borderlands (Blue) - OBSOLETE ! -->
+	<token key="barren_outpost"                       value="Karger Außenposten"/>
+	<token key="berdrow_s_hideaway"                   value="Berdrows Versteck"/>
+	<token key="flywheel_depot"                       value="Schwungrad-Depot"/>
+	<token key="gee_farmstead"                        value="Gee-Gehöft"/>
+	<token key="habib_s_encampment"                   value="Habibs Lager"/>
+	<token key="hardened_rampart"                     value="Gehärtet Festungswall"/>
+	<token key="kay_li_academy"                       value="Kay'li Akademie"/>
+	<token key="lastgasp_well"                        value="Brunnen des Lastgasp"/>
+	<token key="olivier_s_refuge"                     value="Oliviers Zuflucht"/>
+	<token key="shrike_s_palace"                      value="Würger-Palast"/>
+	<token key="torrid_undercroft"                    value="Torrid Gruft"/>
+	<token key="undying_necropolis"                   value="Unsterbliche Nekropolis"/>
+	<token key="zakk_s_lab"                           value="Zakks labor"/>
+
+	<!-- Desert Borderlands (Green) - OBSOLETE ! -->
+	<token key="barrett_farmstead"                    value="Barrett-Gehöft"/>
+	<token key="deathless_necropolis"                 value="Todeslose Nekropolis"/>
+	<token key="harrier_s_palace"                     value="Harrier-Palast"/>
+	<token key="hughe_s_hideaway"                     value="Hughes Versteck"/>
+	<token key="impassive_rampart"                    value="Impassiv Festungswall"/>
+	<token key="lesh_s_lab"                           value="Leshs labor"/>
+	<token key="norfolk_s_refuge"                     value="Norfolks Zuflucht"/>
+	<token key="patrick_s_encampment"                 value="Patricks Lager"/>
+	<token key="scorching_undercroft"                 value="Verbrennung Gruft"/>
+	<token key="smashedhope_well"                     value="Brunnen des Smashedhope"/>
+	<token key="sparkplug_depot"                      value="Zündkerzen-Depot"/>
+	<token key="withered_outpost"                     value="Verwelkter Außenposten"/>
+	<token key="y_lan_academy"                        value="Y'lan Akademie"/>
+
+</TacOLanguageData>

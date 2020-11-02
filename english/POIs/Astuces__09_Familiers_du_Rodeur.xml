@@ -1,0 +1,511 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+POIs:  ReActif.9251 - TMKFrench.6427
+Date:  2017/08/23
+Notes:
+       Panthéon des Hauts faits :
+       Il est nécessaire de posséder l'extension Guild Wars : Eye of the North du jeu original pour pouvoir accéder au Panthéon et
+       y exposer ses trophées : titres, armes et armures de prestige, miniatures, héros et familiers. Les trophées exposés devant
+       les tapisseries du Panthéon permettent de cumuler des points qui sont ensuite convertis en récompenses dans Guild Wars 2.
+
+       Heart of Thorns :
+       Il est nécessaire de posséder l'extension Guild Wars 2 : Heart of Thorns pour pouvoir accéder a ces familiers.
+       Si vous avez acheté le jeu après le 23 octobre 2015 vous avez accès directement a l'extension.
+       Si vous avez acheté le jeu avant cette date, il est nécessaire d'acheter l'extension.
+       Si vous jouez en gratuit, vous n'avez pas accès a ces familiers
+-->
+<OverlayData>
+	<MarkerCategory name="astuces" DisplayName="Tips (No Achievement)">
+		<MarkerCategory name="familiers_du_rodeur" DisplayName="Ranger's Pets" iconFile="Img\Familier.png" iconSize="3" heightOffset="8" behavior="0">
+			<MarkerCategory name="tyrie_centrale" DisplayName="Central Tyria">
+				<MarkerCategory name="poissons" DisplayName="Armored Fish">
+					<MarkerCategory name="cuirasse" DisplayName="Armor Fish" iconFile="Img\Familier_PoissonCuirasse.png"/>
+				</MarkerCategory>
+				<MarkerCategory name="ursides" DisplayName="Bear">
+					<MarkerCategory name="arctodus" DisplayName="Arctodus" iconFile="Img\Familier_Arctodus.png"/>
+					<MarkerCategory name="ours_noir" DisplayName="Black Bear" iconFile="Img\Familier_OursNoir.png"/>
+					<MarkerCategory name="ours_brun" DisplayName="Brown Bear" iconFile="Img\Familier_OursBrun.png"/>
+					<MarkerCategory name="murello" DisplayName="Murellow" iconFile="Img\Familier_Murello.png"/>
+					<MarkerCategory name="ours_polaire" DisplayName="Polar Bear" iconFile="Img\Familier_OursPolaire.png"/>
+				</MarkerCategory>
+				<MarkerCategory name="oiseaux" DisplayName="Bird">
+					<MarkerCategory name="aigle" DisplayName="Eagle" iconFile="Img\Familier_Aigle.png"/>
+					<MarkerCategory name="faucon" DisplayName="Hawk" iconFile="Img\Familier_Faucon.png"/>
+					<MarkerCategory name="chouette" DisplayName="Owl" iconFile="Img\Familier_Chouette.png"/>
+					<MarkerCategory name="corbeau" DisplayName="Raven" iconFile="Img\Familier_Corbeau.png"/>
+					<MarkerCategory name="corbeau_blanc" DisplayName="White Raven (Hall of Monuments)" iconFile="Img\Familier_CorbeauBlanc.png"/>
+				</MarkerCategory>
+				<MarkerCategory name="canides" DisplayName="Canine">
+					<MarkerCategory name="loup_alpin" DisplayName="Alpine Wolf" iconFile="Img\Familier_LoupAlpin.png"/>
+					<MarkerCategory name="chien_de_fougere" DisplayName="Ferm Hound" iconFile="Img\Familier_ChienDeFougere.png"/>
+					<MarkerCategory name="levidrake_krytien" DisplayName="Krytan Drakehound" iconFile="Img\Familier_LevidrakeKrytien.png"/>
+					<MarkerCategory name="loup" DisplayName="Wolf" iconFile="Img\Familier_Loup.png"/>
+					<MarkerCategory name="hyene" DisplayName="Hyena" iconFile="Img\Familier_Hyene.png"/>
+				</MarkerCategory>
+				<MarkerCategory name="devoreurs" DisplayName="Devourer">
+					<MarkerCategory name="charogne" DisplayName="Carrion Devourer" iconFile="Img\Familier_DevoreurDeCharogne.png"/>
+					<MarkerCategory name="queue_cinglante" DisplayName="Lashtail Devourer" iconFile="Img\Familier_DevoreurQueueCinglante.png"/>
+					<MarkerCategory name="fouette_queue" DisplayName="Whiptail Devourer" iconFile="Img\Familier_DevoreurFouetteQueue.png"/>
+				</MarkerCategory>
+				<MarkerCategory name="drakes" DisplayName="Drake">
+					<MarkerCategory name="glaces" DisplayName="Ice Drake" iconFile="Img\Familier_DrakeDesGlaces.png"/>
+					<MarkerCategory name="marais" DisplayName="Marsh Drake" iconFile="Img\Familier_DrakeDesMarais.png"/>
+					<MarkerCategory name="recifs" DisplayName="Reef Drake" iconFile="Img\Familier_DrakeDesRecifs.png"/>
+					<MarkerCategory name="rivieres" DisplayName="River Drake" iconFile="Img\Familier_DrakeDeRiviere.png"/>
+					<MarkerCategory name="salamandre" DisplayName="Salamander Drake" iconFile="Img\Familier_DrakeSalamandre.png"/>
+				</MarkerCategory>
+				<MarkerCategory name="felins" DisplayName="Feline">
+					<MarkerCategory name="jaguar" DisplayName="Jaguar" iconFile="Img\Familier_Jaguar.png"/>
+					<MarkerCategory name="felin_de_la_jungle" DisplayName="Jungle Stalker" iconFile="Img\Familier_FelinDeLaJungle.png"/>
+					<MarkerCategory name="lynx" DisplayName="Lynx" iconFile="Img\Familier_Lynx.png"/>
+					<MarkerCategory name="panthere_des_neiges" DisplayName="Snow Leopard" iconFile="Img\Familier_PanthereDesNeiges.png"/>
+				</MarkerCategory>
+				<MarkerCategory name="meduses" DisplayName="Jellyfish">
+					<MarkerCategory name="bleue" DisplayName="Blue Jellyfish" iconFile="Img\Familier_MeduseBleue.png"/>
+					<MarkerCategory name="arc_en_ciel" DisplayName="Rainbow Jellyfish (Hall of Monuments)" iconFile="Img\Familier_MeduseArcEnCiel.png"/>
+					<MarkerCategory name="rouge" DisplayName="Red Jellyfish" iconFile="Img\Familier_MeduseRouge.png"/>
+				</MarkerCategory>
+				<MarkerCategory name="moas" DisplayName="Moa">
+					<MarkerCategory name="noir" DisplayName="Black Moa (Hall of Monuments)" iconFile="Img\Familier_MoaNoir.png"/>
+					<MarkerCategory name="bleu" DisplayName="Blue Moa" iconFile="Img\Familier_MoaBleu.png"/>
+					<MarkerCategory name="rose" DisplayName="Pink Moa" iconFile="Img\Familier_MoaRose.png"/>
+					<MarkerCategory name="rouge" DisplayName="Red Moa" iconFile="Img\Familier_MoaRouge.png"/>
+					<MarkerCategory name="blanc" DisplayName="White Moa" iconFile="Img\Familier_MoaBlanc.png"/>
+				</MarkerCategory>
+				<MarkerCategory name="porcins" DisplayName="Porcine">
+					<MarkerCategory name="sanglier" DisplayName="Boar" iconFile="Img\Familier_Sanglier.png"/>
+					<MarkerCategory name="cochon" DisplayName="Pig" iconFile="Img\Familier_Cochon.png"/>
+					<MarkerCategory name="siamouth" DisplayName="Siamoth" iconFile="Img\Familier_Siamouth.png"/>
+					<MarkerCategory name="phacochere" DisplayName="Warthog" iconFile="Img\Familier_Phacochere.png"/>
+				</MarkerCategory>
+				<MarkerCategory name="requins" DisplayName="Shark">
+					<MarkerCategory name="requin" DisplayName="Shark" iconFile="Img\Familier_Requin.png"/>
+				</MarkerCategory>
+				<MarkerCategory name="araignees" DisplayName="Spider">
+					<MarkerCategory name="veuve_noire" DisplayName="Black Window Spider (Hall of Monuments)" iconFile="Img\Familier_AraigneeVeuveNoire.png"/>
+					<MarkerCategory name="cavernicole" DisplayName="Cave Spider" iconFile="Img\Familier_AraigneeCavernicole.png"/>
+					<MarkerCategory name="bois" DisplayName="Forest Spider" iconFile="Img\Familier_AraigneeDesBois.png"/>
+					<MarkerCategory name="jungle" DisplayName="Jungle Spider" iconFile="Img\Familier_AraigneeDeLaJungle.png"/>
+				</MarkerCategory>
+			</MarkerCategory>
+			<MarkerCategory name="HoT" DisplayName="Heart of Thorns">
+				<MarkerCategory name="felins" DisplayName="Feline">
+					<MarkerCategory name="tigre" DisplayName="Tiger" iconFile="Img\Familier_Tigre.png"/>
+				</MarkerCategory>
+				<MarkerCategory name="sauriens" DisplayName="Saurian">
+					<MarkerCategory name="herissausore" DisplayName="Bristleback" iconFile="Img\Familier_Herissausore.png"/>
+					<MarkerCategory name="fumecaille" DisplayName="Smokescale" iconFile="Img\Familier_Fumecaille.png"/>
+				</MarkerCategory>
+				<MarkerCategory name="vouivres" DisplayName="Wyvern">
+					<MarkerCategory name="electrique" DisplayName="Electrical Wyvern" iconFile="Img\Familier_VouivreElectrique.png"/>
+					<MarkerCategory name="feu" DisplayName="Fire Wyvern" iconFile="Img\Familier_VouivreDeFeu.png"/>
+				</MarkerCategory>
+			</MarkerCategory>
+		</MarkerCategory>
+	</MarkerCategory>
+
+	<POIs>
+
+		<!--
+		TYRIE CENTRALE
+		-->
+
+			<!-- Aigle -->
+			<POI MapID="17" xpos="776.542" ypos="67.0608" zpos="-246.355" type="astuces.familiers_du_rodeur.tyrie_centrale.oiseaux.aigle" GUID="ZZiKLfP0ykSZhXlmNXibUA=="/>
+			<POI MapID="17" xpos="864.271" ypos="46.6431" zpos="-306.744" type="astuces.familiers_du_rodeur.tyrie_centrale.oiseaux.aigle" GUID="hTXZWEwilUS6K9IruFcYQg=="/>
+			<POI MapID="21" xpos="-809.78" ypos="21.6872" zpos="-222.485" type="astuces.familiers_du_rodeur.tyrie_centrale.oiseaux.aigle" GUID="5U5Chfzeh0GgRLRn15CCBw=="/>
+			<POI MapID="21" xpos="609.118" ypos="28.5498" zpos="643.817" type="astuces.familiers_du_rodeur.tyrie_centrale.oiseaux.aigle" GUID="EqJIxFhREEW2Y757eHMjKQ=="/>
+			<POI MapID="23" xpos="-295.567" ypos="43.629" zpos="433.282" type="astuces.familiers_du_rodeur.tyrie_centrale.oiseaux.aigle" GUID="m2NCi3OtFESmTRuAkah8RQ=="/>
+			<POI MapID="23" xpos="-178.555" ypos="43.9889" zpos="421.667" type="astuces.familiers_du_rodeur.tyrie_centrale.oiseaux.aigle" GUID="rvcULgw2/Uqh/k9GKwI1Eg=="/>
+			<POI MapID="23" xpos="42.4435" ypos="38.8178" zpos="385.885" type="astuces.familiers_du_rodeur.tyrie_centrale.oiseaux.aigle" GUID="I0TG87+68E2+7Um2dNDBBg=="/>
+			<POI MapID="23" xpos="429.65" ypos="55.0169" zpos="492.166" type="astuces.familiers_du_rodeur.tyrie_centrale.oiseaux.aigle" GUID="QPhEHTV4VEipFplqLpZKHQ=="/>
+			<POI MapID="23" xpos="494.462" ypos="60.4081" zpos="506.83" type="astuces.familiers_du_rodeur.tyrie_centrale.oiseaux.aigle" GUID="uVAkAx+/EUOFdb6MPVVVfA=="/>
+			<POI MapID="23" xpos="743.568" ypos="46.4994" zpos="370.866" type="astuces.familiers_du_rodeur.tyrie_centrale.oiseaux.aigle" GUID="A9S+wC9Eo0qNGyX8vUqg5Q=="/>
+			<POI MapID="23" xpos="781.809" ypos="53.1627" zpos="427.996" type="astuces.familiers_du_rodeur.tyrie_centrale.oiseaux.aigle" GUID="B4TUjNWmy0WrTYglVoVi7w=="/>
+			<POI MapID="24" xpos="880.844" ypos="63.7647" zpos="-370.939" type="astuces.familiers_du_rodeur.tyrie_centrale.oiseaux.aigle" GUID="yEbRrMDBeEyG8iPHgdENbw=="/>
+			<POI MapID="29" xpos="318.82" ypos="3.03989" zpos="-11.7557" type="astuces.familiers_du_rodeur.tyrie_centrale.oiseaux.aigle" GUID="escgGzFk0k6PJZpDRYMBNQ=="/>
+			<POI MapID="29" xpos="349.296" ypos="6.17075" zpos="89.843" type="astuces.familiers_du_rodeur.tyrie_centrale.oiseaux.aigle" GUID="e3HDGQkL80COhKg26Eco4g=="/>
+			<POI MapID="29" xpos="462.478" ypos="6.02625" zpos="116.06" type="astuces.familiers_du_rodeur.tyrie_centrale.oiseaux.aigle" GUID="92X5LmX2IE2b3noW+oycng=="/>
+			<POI MapID="29" xpos="532.768" ypos="9.75846" zpos="-1.82431" type="astuces.familiers_du_rodeur.tyrie_centrale.oiseaux.aigle" GUID="X7Z19lIjUkOuR3UjjZDbvw=="/>
+			<POI MapID="73" xpos="651.954" ypos="21.0989" zpos="-843.707" type="astuces.familiers_du_rodeur.tyrie_centrale.oiseaux.aigle" GUID="olKN6etflUiT7e5OPtFKZw=="/>
+			<POI MapID="73" xpos="732.122" ypos="15.2725" zpos="182.823" type="astuces.familiers_du_rodeur.tyrie_centrale.oiseaux.aigle" GUID="ULIarfMPJkOAOxP5jpdqzg=="/>
+
+			<!-- Araignée des Bois -->
+			<POI MapID="25" xpos="494.526" ypos="4.20971" zpos="-568.361" type="astuces.familiers_du_rodeur.tyrie_centrale.araignees.bois" GUID="/E3R8u+2L0+tKTHkdCycIg=="/>
+			<POI MapID="38" xpos="816.625" ypos="11.5724" zpos="-246.776" type="astuces.familiers_du_rodeur.tyrie_centrale.araignees.bois" GUID="HHPN6bjO10m8eOnrM188iw=="/>
+			<POI MapID="95" xpos="-59.1617" ypos="11.2362" zpos="-885.921" type="astuces.familiers_du_rodeur.tyrie_centrale.araignees.bois" GUID="niAXnNLs50OdSLo4a6OH3Q=="/>
+			<POI MapID="96" xpos="-59.1617" ypos="11.2362" zpos="-885.921" type="astuces.familiers_du_rodeur.tyrie_centrale.araignees.bois" GUID="CFF0cavEVUSTcy2UDxPvIg=="/>
+
+			<!-- Araignée Cavernicoles -->
+			<POI MapID="17" xpos="-478.535" ypos="70.7326" zpos="-687.128" type="astuces.familiers_du_rodeur.tyrie_centrale.araignees.cavernicole" GUID="2UrSyVUuF0Wr6WoNkpci5g=="/>
+			<POI MapID="27" xpos="352.104" ypos="177.169" zpos="798.024" type="astuces.familiers_du_rodeur.tyrie_centrale.araignees.cavernicole" GUID="Z0FM24Q5sU6xFVnxclvywA=="/>
+			<POI MapID="29" xpos="562.216" ypos="17.1101" zpos="-23.319" type="astuces.familiers_du_rodeur.tyrie_centrale.araignees.cavernicole" GUID="19v/Z5npgEGpH1qdcKAthg=="/>
+
+			<!-- Araignée de la Jungle -->
+			<POI MapID="34" xpos="139.591" ypos="2.57891" zpos="1047.06" type="astuces.familiers_du_rodeur.tyrie_centrale.araignees.jungle" GUID="LH1XryLIqEmDkjSZvKyiaQ=="/>
+			<POI MapID="34" xpos="440.201" ypos="46.8773" zpos="-610.144" type="astuces.familiers_du_rodeur.tyrie_centrale.araignees.jungle" GUID="6NAgQ8KpdkKdKRQy87cg0A=="/>
+			<POI MapID="51" xpos="923.433" ypos="2.8949" zpos="-198.774" type="astuces.familiers_du_rodeur.tyrie_centrale.araignees.jungle" GUID="3T8rY8v7i02KFrvsguN5+A=="/>
+			<POI MapID="53" xpos="-386.781" ypos="9.37265" zpos="764.826" type="astuces.familiers_du_rodeur.tyrie_centrale.araignees.jungle" GUID="BB8IdPIiAU+oYzJ0SBLX8g=="/>
+			<POI MapID="53" xpos="123.245" ypos="3.07756" zpos="200.871" type="astuces.familiers_du_rodeur.tyrie_centrale.araignees.jungle" GUID="KGLfbTwtwESVwDVLiktmUg=="/>
+			<POI MapID="54" xpos="5.76781" ypos="1.67985" zpos="642.504" type="astuces.familiers_du_rodeur.tyrie_centrale.araignees.jungle" GUID="EW0MekGsGkWuKIMAR1i8ng=="/>
+
+			<!-- Araignée Veuve Noire (Panthéon des Hauts-Faits) -->
+			<POI MapID="807" xpos="-97.3507" ypos="1.92363" zpos="65.4898" type="astuces.familiers_du_rodeur.tyrie_centrale.araignees.veuve_noire" GUID="Jyap144C5kSaoV9SR5PHSw=="/>
+
+			<!-- Arctodus -->
+			<POI MapID="27" xpos="-306.849" ypos="109.315" zpos="928.608" type="astuces.familiers_du_rodeur.tyrie_centrale.ursides.arctodus" GUID="DqJbmLZplkCh4C2a1YHxfQ=="/>
+			<POI MapID="27" xpos="78.5542" ypos="114.801" zpos="1289.84" type="astuces.familiers_du_rodeur.tyrie_centrale.ursides.arctodus" GUID="lXUMkEvdA0a7dDuntptFGw=="/>
+			<POI MapID="28" xpos="494.732" ypos="75.4463" zpos="188.321" type="astuces.familiers_du_rodeur.tyrie_centrale.ursides.arctodus" GUID="RYKOZIg+RkmrGvFl2IFO8A=="/>
+			<POI MapID="28" xpos="-409.147" ypos="98.6467" zpos="461.92" type="astuces.familiers_du_rodeur.tyrie_centrale.ursides.arctodus" GUID="Z3nZaP1xJUSu9WIUR87DAw=="/>
+			<POI MapID="30" xpos="-767.251" ypos="2.47066" zpos="-59.3092" type="astuces.familiers_du_rodeur.tyrie_centrale.ursides.arctodus" GUID="RQ9DfqoNWEeHJTAg4T/eHQ=="/>
+			<POI MapID="30" xpos="-700.516" ypos="6.46437" zpos="-329.937" type="astuces.familiers_du_rodeur.tyrie_centrale.ursides.arctodus" GUID="rlahUJZccECNaFkw0Oke0A=="/>
+			<POI MapID="30" xpos="-759.464" ypos="0.620396" zpos="-138.45" type="astuces.familiers_du_rodeur.tyrie_centrale.ursides.arctodus" GUID="glP5iigxAUWc1cFeKBapug=="/>
+			<POI MapID="30" xpos="-765.227" ypos="9.51202" zpos="-196.979" type="astuces.familiers_du_rodeur.tyrie_centrale.ursides.arctodus" GUID="Riadwz19DkOp1RUp94z1qA=="/>
+			<POI MapID="30" xpos="-787.527" ypos="4.41815" zpos="-17.3638" type="astuces.familiers_du_rodeur.tyrie_centrale.ursides.arctodus" GUID="qkHUzHJ/+0OAwsxRe1o+CQ=="/>
+			<POI MapID="30" xpos="-810.492" ypos="15.4538" zpos="-182.477" type="astuces.familiers_du_rodeur.tyrie_centrale.ursides.arctodus" GUID="aef1Ct+WUkSnlxho90Djjw=="/>
+
+			<!-- Chien de Fougère -->
+			<POI MapID="21" xpos="710.845" ypos="47.4956" zpos="-469.115" type="astuces.familiers_du_rodeur.tyrie_centrale.canides.chien_de_fougere" GUID="/eZFy/lwRUCIzTIweNZanA=="/>
+			<POI MapID="34" xpos="-380.495" ypos="46.871" zpos="415.703" type="astuces.familiers_du_rodeur.tyrie_centrale.canides.chien_de_fougere" GUID="BXlQJaPBCUiYAHyR+hBe7Q=="/>
+			<POI MapID="39" xpos="-405.493" ypos="1.1578" zpos="483.991" type="astuces.familiers_du_rodeur.tyrie_centrale.canides.chien_de_fougere" GUID="SQJuHThpAE24yFJjxdgqNQ=="/>
+			<POI MapID="39" xpos="-111.405" ypos="61.5846" zpos="129.25" type="astuces.familiers_du_rodeur.tyrie_centrale.canides.chien_de_fougere" GUID="lvZ9V2GoVkmeLQdW3ekcoA=="/>
+			<POI MapID="51" xpos="920.106" ypos="0.264936" zpos="-208.277" type="astuces.familiers_du_rodeur.tyrie_centrale.canides.chien_de_fougere" GUID="SYivI1tXpEiI6mSE4r+wPQ=="/>
+			<POI MapID="53" xpos="277.922" ypos="10.42" zpos="-305.208" type="astuces.familiers_du_rodeur.tyrie_centrale.canides.chien_de_fougere" GUID="P/0vnRo2hUK0ATZGaDL7og=="/>
+			<POI MapID="53" xpos="372.776" ypos="0.0427206" zpos="-694.474" type="astuces.familiers_du_rodeur.tyrie_centrale.canides.chien_de_fougere" GUID="Z6JIPCLoQUqE7nZljD3ZeA=="/>
+			<POI MapID="54" xpos="953.966" ypos="45.472" zpos="-148.376" type="astuces.familiers_du_rodeur.tyrie_centrale.canides.chien_de_fougere" GUID="Je9eA6ftv0ifZ4QjPTjMHQ=="/>
+			<POI MapID="91" xpos="41.8813" ypos="45.752" zpos="63.7875" type="astuces.familiers_du_rodeur.tyrie_centrale.canides.chien_de_fougere" GUID="yFMej6OeS0iZhdpggOmt/Q=="/>
+			<POI MapID="91" xpos="48.0139" ypos="71.3226" zpos="4.98558" type="astuces.familiers_du_rodeur.tyrie_centrale.canides.chien_de_fougere" GUID="nZpLUkEOskCGT9TcmiTByg=="/>
+			<POI MapID="91" xpos="50.778" ypos="1.07688" zpos="28.443" type="astuces.familiers_du_rodeur.tyrie_centrale.canides.chien_de_fougere" GUID="Z6iauQWYAk6hVtIFFwWWSg=="/>
+
+			<!-- Chouette -->
+			<POI MapID="22" xpos="-721.799" ypos="4.16833" zpos="328.097" type="astuces.familiers_du_rodeur.tyrie_centrale.oiseaux.chouette" GUID="eXEPmd41bUivJir++dkfGA=="/>
+			<POI MapID="26" xpos="561.25" ypos="95.2859" zpos="96.213" type="astuces.familiers_du_rodeur.tyrie_centrale.oiseaux.chouette" GUID="IRRRSuZdDUS+uxvX1C5lww=="/>
+			<POI MapID="30" xpos="508.695" ypos="28.007" zpos="-100.452" type="astuces.familiers_du_rodeur.tyrie_centrale.oiseaux.chouette" GUID="OLr9HRKJd0GU65x50s+Zww=="/>
+			<POI MapID="30" xpos="525.49" ypos="27.8869" zpos="178.953" type="astuces.familiers_du_rodeur.tyrie_centrale.oiseaux.chouette" GUID="6SojliWFmkSkXMLKcOuXWw=="/>
+			<POI MapID="30" xpos="554.556" ypos="32.8511" zpos="-5.90844" type="astuces.familiers_du_rodeur.tyrie_centrale.oiseaux.chouette" GUID="jFjNG6S87kOJYwe2IZTDqg=="/>
+			<POI MapID="30" xpos="620.733" ypos="24.7414" zpos="-72.066" type="astuces.familiers_du_rodeur.tyrie_centrale.oiseaux.chouette" GUID="TqUUoD5vPUeimeen2600Ow=="/>
+			<POI MapID="30" xpos="730.612" ypos="27.2377" zpos="89.7746" type="astuces.familiers_du_rodeur.tyrie_centrale.oiseaux.chouette" GUID="NPKEyukWq0GzearZ2JyucA=="/>
+			<POI MapID="31" xpos="455.334" ypos="40.9373" zpos="-417.591" type="astuces.familiers_du_rodeur.tyrie_centrale.oiseaux.chouette" GUID="NDchMzp0SU2IG3qpvGz/hw=="/>
+			<POI MapID="31" xpos="1015.45" ypos="109.42" zpos="-393.735" type="astuces.familiers_du_rodeur.tyrie_centrale.oiseaux.chouette" GUID="aOQfL6t7a0+nWONoY9vmtw=="/>
+
+			<!-- Cochon -->
+			<POI MapID="18" xpos="-134.778" ypos="54.7482" zpos="258.271" type="astuces.familiers_du_rodeur.tyrie_centrale.porcins.cochon" GUID="ljE1sWP+iUeeEhas7PfgqQ=="/>
+			<POI MapID="18" xpos="278.534" ypos="64.6835" zpos="-297.923" type="astuces.familiers_du_rodeur.tyrie_centrale.porcins.cochon" GUID="igH3/z2jfECAocbw1O8WzQ=="/>
+			<POI MapID="24" xpos="277.676" ypos="10.2012" zpos="-188.581" type="astuces.familiers_du_rodeur.tyrie_centrale.porcins.cochon" GUID="w1YF4adZaEqbUNr/rjruHA=="/>
+			<POI MapID="50" xpos="554.917" ypos="65.8134" zpos="-27.7722" type="astuces.familiers_du_rodeur.tyrie_centrale.porcins.cochon" GUID="B8uhZZ1G+kOoU9ZYcmOo8w=="/>
+			<POI MapID="51" xpos="892.111" ypos="-0.140245" zpos="-197.811" type="astuces.familiers_du_rodeur.tyrie_centrale.porcins.cochon" GUID="/08hv4s5vU2ceTimHqNDBA=="/>
+			<POI MapID="95" xpos="8.20817" ypos="8.32539" zpos="-866.633" type="astuces.familiers_du_rodeur.tyrie_centrale.porcins.cochon" GUID="dfzzUalZpkCdftA6MPjxlw=="/>
+			<POI MapID="96" xpos="8.20817" ypos="8.32539" zpos="-866.633" type="astuces.familiers_du_rodeur.tyrie_centrale.porcins.cochon" GUID="9F05bCG/eEG3hBMIo9LB9g=="/>
+
+			<!-- Corbeau -->
+			<POI MapID="21" xpos="-866.664" ypos="42.7207" zpos="523.301" type="astuces.familiers_du_rodeur.tyrie_centrale.oiseaux.corbeau" GUID="Hwr8uoOS10yLJ6EA5aDUSA=="/>
+			<POI MapID="28" xpos="-22.965" ypos="112.929" zpos="-633.818" type="astuces.familiers_du_rodeur.tyrie_centrale.oiseaux.corbeau" GUID="oFF3HMM2S0aLVpV5SmJ4DA=="/>
+			<POI MapID="326" xpos="213.313" ypos="265.258" zpos="242.516" type="astuces.familiers_du_rodeur.tyrie_centrale.oiseaux.corbeau" GUID="OazjAePB+0y6dwxJ54vsQw=="/>
+
+			<!-- Corbeau Blanc (Panthéon des Hauts-Faits) -->
+			<POI MapID="807" xpos="-98.12" ypos="1.92363" zpos="75.0195" type="astuces.familiers_du_rodeur.tyrie_centrale.oiseaux.corbeau_blanc" GUID="Ldv2/yPIN0S4knu6H+fjHg=="/>
+
+			<!-- Dévoreur De Charogne -->
+			<POI MapID="22" xpos="-191.984" ypos="69.7806" zpos="747.925" type="astuces.familiers_du_rodeur.tyrie_centrale.devoreurs.charogne" GUID="gp/THMjliEa5CKTtjWVFAA=="/>
+			<POI MapID="22" xpos="118.441" ypos="35.9147" zpos="305.731" type="astuces.familiers_du_rodeur.tyrie_centrale.devoreurs.charogne" GUID="XEspGBfji0q2VAWiWhIAVw=="/>
+			<POI MapID="25" xpos="-206.048" ypos="32.7656" zpos="-704.024" type="astuces.familiers_du_rodeur.tyrie_centrale.devoreurs.charogne" GUID="bF1+5MXw2kW2Lrh22UGjgQ=="/>
+
+			<!-- Dévoreur Fouette-Queue -->
+			<POI MapID="19" xpos="-986.745" ypos="12.5571" zpos="510.471" type="astuces.familiers_du_rodeur.tyrie_centrale.devoreurs.fouette_queue" GUID="jFf3GL8B+UC4WV6t85GtvQ=="/>
+			<POI MapID="21" xpos="-62.938" ypos="53.0643" zpos="636.204" type="astuces.familiers_du_rodeur.tyrie_centrale.devoreurs.fouette_queue" GUID="vVQuXGvvoEqmKkAzB/cE/g=="/>
+			<POI MapID="21" xpos="332.559" ypos="43.7861" zpos="-328.534" type="astuces.familiers_du_rodeur.tyrie_centrale.devoreurs.fouette_queue" GUID="BHFmssR7m0upXfZnaTfSpg=="/>
+			<POI MapID="38" xpos="-472.93" ypos="19.0387" zpos="592.561" type="astuces.familiers_du_rodeur.tyrie_centrale.devoreurs.fouette_queue" GUID="n/miYFn4BEyUOgVE4KOkWw=="/>
+			<POI MapID="218" xpos="-309.416" ypos="8.93403" zpos="-67.7211" type="astuces.familiers_du_rodeur.tyrie_centrale.devoreurs.fouette_queue" GUID="ihPTphJyx0eN3BlxnYkcdA=="/>
+
+			<!-- Dévoreur Queue-Cinglante -->
+			<POI MapID="20" xpos="403.335" ypos="42.7391" zpos="172.707" type="astuces.familiers_du_rodeur.tyrie_centrale.devoreurs.queue_cinglante" GUID="VZXwjDwF2USLQosysiv0bg=="/>
+			<POI MapID="32" xpos="-955.684" ypos="68.9328" zpos="-392.961" type="astuces.familiers_du_rodeur.tyrie_centrale.devoreurs.queue_cinglante" GUID="s3xWFuP38E6SoijUXSpREw=="/>
+			<POI MapID="32" xpos="368.279" ypos="31.2966" zpos="-101.765" type="astuces.familiers_du_rodeur.tyrie_centrale.devoreurs.queue_cinglante" GUID="Wl4cctkXr06NouiIsZtT0Q=="/>
+			<POI MapID="32" xpos="402.469" ypos="24.1125" zpos="-18.8073" type="astuces.familiers_du_rodeur.tyrie_centrale.devoreurs.queue_cinglante" GUID="68KiqK63ok6WH0DspSBX6w=="/>
+			<POI MapID="32" xpos="496.558" ypos="25.4349" zpos="21.0757" type="astuces.familiers_du_rodeur.tyrie_centrale.devoreurs.queue_cinglante" GUID="sbeOZbT9PUOAu6wZO8Z2/w=="/>
+			<POI MapID="32" xpos="528.322" ypos="28.0949" zpos="-56.9566" type="astuces.familiers_du_rodeur.tyrie_centrale.devoreurs.queue_cinglante" GUID="wKe0azSJ7UahBA22nOex/A=="/>
+			<POI MapID="51" xpos="916.825" ypos="0.622654" zpos="-215.624" type="astuces.familiers_du_rodeur.tyrie_centrale.devoreurs.queue_cinglante" GUID="fXh7zSrV5U+FfuUlycgoGw=="/>
+			<POI MapID="218" xpos="-307.991" ypos="18.0477" zpos="-314.329" type="astuces.familiers_du_rodeur.tyrie_centrale.devoreurs.queue_cinglante" GUID="Kxp4LTdqO0ykFq7fvGG+3w=="/>
+
+			<!-- Drake des Glaces -->
+			<POI MapID="26" xpos="-611.584" ypos="18.6275" zpos="563.753" type="astuces.familiers_du_rodeur.tyrie_centrale.drakes.glaces" GUID="MDggrGx9/keeDw37boLt4A=="/>
+			<POI MapID="27" xpos="-240.522" ypos="-1.05655" zpos="-915.401" type="astuces.familiers_du_rodeur.tyrie_centrale.drakes.glaces" GUID="2HG+qJga+keWZMxsbWXeTg=="/>
+			<POI MapID="28" xpos="262.437" ypos="2.85532" zpos="-272.463" type="astuces.familiers_du_rodeur.tyrie_centrale.drakes.glaces" GUID="TYEcqu/T60iSBxPlMMDVIw=="/>
+			<POI MapID="29" xpos="-371.493" ypos="-0.680785" zpos="-92.864" type="astuces.familiers_du_rodeur.tyrie_centrale.drakes.glaces" GUID="V4BwpPfPp0aX1mFCR9wp2A=="/>
+			<POI MapID="30" xpos="-61.5561" ypos="-10.3896" zpos="148.824" type="astuces.familiers_du_rodeur.tyrie_centrale.drakes.glaces" GUID="nPgxKpD/WUiHB6xYPYzxWg=="/>
+			<POI MapID="30" xpos="246.735" ypos="1.03553" zpos="801.672" type="astuces.familiers_du_rodeur.tyrie_centrale.drakes.glaces" GUID="1lQfa/OP4UebsZAazcaoFQ=="/>
+			<POI MapID="31" xpos="111.066" ypos="7.31792" zpos="-312.864" type="astuces.familiers_du_rodeur.tyrie_centrale.drakes.glaces" GUID="4cG17JUVnUCh+mHnW2AF0g=="/>
+
+			<!-- Drake des Marais -->
+			<POI MapID="34" xpos="-469.979" ypos="4.17279" zpos="861.708" type="astuces.familiers_du_rodeur.tyrie_centrale.drakes.marais" GUID="6O4o6NRQN0ynjJNmSz8Icg=="/>
+			<POI MapID="38" xpos="-559.681" ypos="1.17737" zpos="-353.851" type="astuces.familiers_du_rodeur.tyrie_centrale.drakes.marais" GUID="6zScYAPPIkaWBUe4Hqg4YA=="/>
+			<POI MapID="38" xpos="-457.945" ypos="1.47199" zpos="-552.089" type="astuces.familiers_du_rodeur.tyrie_centrale.drakes.marais" GUID="Qa5hRwTsCUiEyPfpF2bFzQ=="/>
+			<POI MapID="39" xpos="386.291" ypos="-0.196273" zpos="-545.49" type="astuces.familiers_du_rodeur.tyrie_centrale.drakes.marais" GUID="uzEz5RKYh0yxgcmMZUXwNw=="/>
+			<POI MapID="53" xpos="-719.973" ypos="0.566574" zpos="-317.612" type="astuces.familiers_du_rodeur.tyrie_centrale.drakes.marais" GUID="hbJJ0H+4NU+0Zdy9cmt9LA=="/>
+			<POI MapID="53" xpos="246.865" ypos="-0.297294" zpos="598.212" type="astuces.familiers_du_rodeur.tyrie_centrale.drakes.marais" GUID="T6GbMFV/pUCcXsgSxdOj5Q=="/>
+			<POI MapID="53" xpos="253.918" ypos="2.44569" zpos="465.814" type="astuces.familiers_du_rodeur.tyrie_centrale.drakes.marais" GUID="5ZWTeOjv10KmSgGbIuB5Hw=="/>
+			<POI MapID="53" xpos="271.27" ypos="-0.291263" zpos="525.447" type="astuces.familiers_du_rodeur.tyrie_centrale.drakes.marais" GUID="iF23rxHv+UGJeDE8ZWGN/Q=="/>
+			<POI MapID="53" xpos="373.693" ypos="-0.607297" zpos="718.977" type="astuces.familiers_du_rodeur.tyrie_centrale.drakes.marais" GUID="tmRBYj5uwk2cd14P0AH1uQ=="/>
+			<POI MapID="53" xpos="394.855" ypos="-0.787334" zpos="-655.128" type="astuces.familiers_du_rodeur.tyrie_centrale.drakes.marais" GUID="alWcisAXnkuaPkCGcVYMrQ=="/>
+			<POI MapID="53" xpos="437.626" ypos="3.07314" zpos="621.47" type="astuces.familiers_du_rodeur.tyrie_centrale.drakes.marais" GUID="HwA61o2U9U+f5almMYPQcA=="/>
+			<POI MapID="53" xpos="516.693" ypos="2.71208" zpos="623.082" type="astuces.familiers_du_rodeur.tyrie_centrale.drakes.marais" GUID="/GiEdSos60uw5RPiX4l2Qg=="/>
+			<POI MapID="53" xpos="552.171" ypos="5.10775" zpos="708.677" type="astuces.familiers_du_rodeur.tyrie_centrale.drakes.marais" GUID="GGqG7qD940SVkMucwvilYg=="/>
+
+			<!-- Drake des Récifs -->
+			<POI MapID="873" xpos="357.527" ypos="0.421502" zpos="-174.67" type="astuces.familiers_du_rodeur.tyrie_centrale.drakes.recifs" GUID="1iWJPZ7HL0+/3D6Sf/A9VQ=="/>
+
+			<!-- Drake des Rivières -->
+			<POI MapID="23" xpos="852.594" ypos="-0.680718" zpos="16.2912" type="astuces.familiers_du_rodeur.tyrie_centrale.drakes.rivieres" GUID="VThskWKAAkelDTnnLlU4vA=="/>
+			<POI MapID="24" xpos="673.456" ypos="2.78998" zpos="-318.177" type="astuces.familiers_du_rodeur.tyrie_centrale.drakes.rivieres" GUID="Ks9wI3p4/kySw4wAoUDRKw=="/>
+			<POI MapID="32" xpos="1020.66" ypos="4.4487" zpos="-362.195" type="astuces.familiers_du_rodeur.tyrie_centrale.drakes.rivieres" GUID="sX0FEi8Ow02FpGhPIqFtUg=="/>
+			<POI MapID="38" xpos="-137.598" ypos="2.32275" zpos="348.615" type="astuces.familiers_du_rodeur.tyrie_centrale.drakes.rivieres" GUID="85oaffgRnU6NdgrogOgLZA=="/>
+			<POI MapID="73" xpos="223.705" ypos="-8.73835" zpos="-40.6992" type="astuces.familiers_du_rodeur.tyrie_centrale.drakes.rivieres" GUID="AVwJZYW2Pk2iGdgDJcx25w=="/>
+			<POI MapID="73" xpos="522.524" ypos="-8.69218" zpos="-70.3908" type="astuces.familiers_du_rodeur.tyrie_centrale.drakes.rivieres" GUID="9Y1iRj4pGUCZfZXfE+SlCg=="/>
+			<POI MapID="95" xpos="-124.815" ypos="1.29789" zpos="-831.566" type="astuces.familiers_du_rodeur.tyrie_centrale.drakes.rivieres" GUID="lh6pjY+nfkiwi0Zb4sVSsQ=="/>
+			<POI MapID="95" xpos="169.847" ypos="2.69573" zpos="-910.015" type="astuces.familiers_du_rodeur.tyrie_centrale.drakes.rivieres" GUID="qUPGDWEi+UWB36UzMXFk6Q=="/>
+			<POI MapID="96" xpos="-124.815" ypos="1.29789" zpos="-831.566" type="astuces.familiers_du_rodeur.tyrie_centrale.drakes.rivieres" GUID="On7vBlW4R0qNGEYxdi9z5g=="/>
+			<POI MapID="96" xpos="169.847" ypos="2.69573" zpos="-910.015" type="astuces.familiers_du_rodeur.tyrie_centrale.drakes.rivieres" GUID="vNVG7i90MUmZtOfpaH/Esw=="/>
+
+			<!-- Drake Salamandre -->
+			<POI MapID="20" xpos="-501.991" ypos="7.68366" zpos="200.992" type="astuces.familiers_du_rodeur.tyrie_centrale.drakes.salamandre" GUID="4O1i8q4h0UqM1PKfsCr1DQ=="/>
+			<POI MapID="20" xpos="-412.441" ypos="12.0987" zpos="174.118" type="astuces.familiers_du_rodeur.tyrie_centrale.drakes.salamandre" GUID="w9fSvGsWPUqUVmbTbMzvXw=="/>
+			<POI MapID="20" xpos="-324.184" ypos="9.04457" zpos="187.929" type="astuces.familiers_du_rodeur.tyrie_centrale.drakes.salamandre" GUID="j3diMtKgNkeQjbPYwOIB6A=="/>
+			<POI MapID="20" xpos="-248.917" ypos="-0.34006" zpos="-1082.08" type="astuces.familiers_du_rodeur.tyrie_centrale.drakes.salamandre" GUID="uxgt/vt7UUuyfydLh8dbXA=="/>
+			<POI MapID="20" xpos="50.439" ypos="14.6581" zpos="-1202.61" type="astuces.familiers_du_rodeur.tyrie_centrale.drakes.salamandre" GUID="kkwM5yN5BEm6wssZ/V6rWQ=="/>
+			<POI MapID="22" xpos="976.735" ypos="-1.04717" zpos="-415.424" type="astuces.familiers_du_rodeur.tyrie_centrale.drakes.salamandre" GUID="Dte6dYk+uUuGkoeEqW/t5g=="/>
+			<POI MapID="25" xpos="-345.903" ypos="-21.6917" zpos="414.139" type="astuces.familiers_du_rodeur.tyrie_centrale.drakes.salamandre" GUID="4I0EWQ3QJkOZV9pqpfzwcg=="/>
+			<POI MapID="38" xpos="803.267" ypos="-0.27435" zpos="-579.311" type="astuces.familiers_du_rodeur.tyrie_centrale.drakes.salamandre" GUID="gvUSD8tyfkSAiiJ8+/VInA=="/>
+
+			<!-- Faucon -->
+			<POI MapID="25" xpos="515.346" ypos="0.175449" zpos="1136.69" type="astuces.familiers_du_rodeur.tyrie_centrale.oiseaux.faucon" GUID="TyuXAMCREkmn0YVuqyUn5A=="/>
+			<POI MapID="25" xpos="521.849" ypos="9.53896" zpos="1054.76" type="astuces.familiers_du_rodeur.tyrie_centrale.oiseaux.faucon" GUID="wPCAB5yRIEWEYoevnTThnw=="/>
+			<POI MapID="25" xpos="546.862" ypos="0.431346" zpos="1127.96" type="astuces.familiers_du_rodeur.tyrie_centrale.oiseaux.faucon" GUID="6HlixbEXvEWXbmHiIB1Lmw=="/>
+			<POI MapID="25" xpos="570.469" ypos="5.01949" zpos="996.701" type="astuces.familiers_du_rodeur.tyrie_centrale.oiseaux.faucon" GUID="+d2/8TGr3E225qpyMCEQ0A=="/>
+			<POI MapID="25" xpos="570.503" ypos="0.870501" zpos="1097.28" type="astuces.familiers_du_rodeur.tyrie_centrale.oiseaux.faucon" GUID="w6Vd96vzSkO83frmVmE01Q=="/>
+
+			<!-- Félin de la Jungle -->
+			<POI MapID="34" xpos="-457.558" ypos="36.5783" zpos="-359.038" type="astuces.familiers_du_rodeur.tyrie_centrale.felins.felin_de_la_jungle" GUID="zhemo20UzECFOoaZS1WLHw=="/>
+			<POI MapID="34" xpos="-371.338" ypos="12.6924" zpos="-332.865" type="astuces.familiers_du_rodeur.tyrie_centrale.felins.felin_de_la_jungle" GUID="NYwSnfxKdEqYes93fwKscQ=="/>
+			<POI MapID="39" xpos="563.186" ypos="18.9202" zpos="-572.64" type="astuces.familiers_du_rodeur.tyrie_centrale.felins.felin_de_la_jungle" GUID="sS+DuOGgrU+UTKivwqbtiQ=="/>
+
+			<!-- Hyène -->
+			<POI MapID="20" xpos="25.9553" ypos="32.682" zpos="55.7679" type="astuces.familiers_du_rodeur.tyrie_centrale.canides.hyene" GUID="oAaPTcIZAUSQ35IttCgbSQ=="/>
+			<POI MapID="21" xpos="299.424" ypos="15.7928" zpos="-492.261" type="astuces.familiers_du_rodeur.tyrie_centrale.canides.hyene" GUID="KgpyNLsIrkiBzFM2gv/yHw=="/>
+
+			<!-- Jaguar -->
+			<POI MapID="38" xpos="-15.3598" ypos="1.05349" zpos="-641.328" type="astuces.familiers_du_rodeur.tyrie_centrale.felins.jaguar" GUID="4E1QNLHYlUSWX6SJjvIT7w=="/>
+			<POI MapID="54" xpos="-396.415" ypos="19.665" zpos="-387.573" type="astuces.familiers_du_rodeur.tyrie_centrale.felins.jaguar" GUID="AVVOi1tKbkq8EZ8m9HRNNw=="/>
+
+			<!-- Lévidrake Krytien -->
+			<POI MapID="18" xpos="-85.0052" ypos="66.3207" zpos="-306.368" type="astuces.familiers_du_rodeur.tyrie_centrale.canides.levidrake_krytien" GUID="m1r7IJY8DUKJ0k85UcSZ6Q=="/>
+			<POI MapID="18" xpos="349.575" ypos="56.1895" zpos="-95.6347" type="astuces.familiers_du_rodeur.tyrie_centrale.canides.levidrake_krytien" GUID="8KSVSjCwMkqNzQBDujjTDQ=="/>
+			<POI MapID="21" xpos="-420.137" ypos="71.7821" zpos="-835.601" type="astuces.familiers_du_rodeur.tyrie_centrale.canides.levidrake_krytien" GUID="Tk5v2YuB+EOmF8TLk0Oiqw=="/>
+			<POI MapID="24" xpos="-400.966" ypos="4.56369" zpos="-25.1721" type="astuces.familiers_du_rodeur.tyrie_centrale.canides.levidrake_krytien" GUID="Q2zWysciO0K7tLdd7k5VcA=="/>
+			<POI MapID="51" xpos="893.858" ypos="0.218396" zpos="-208.802" type="astuces.familiers_du_rodeur.tyrie_centrale.canides.levidrake_krytien" GUID="WOivy2GNakWM5LwTe3rZ+g=="/>
+
+			<!-- Loup -->
+			<POI MapID="38" xpos="571.696" ypos="12.3181" zpos="-13.137" type="astuces.familiers_du_rodeur.tyrie_centrale.canides.loup" GUID="XOHt+GSZT0OCwevWch/ISQ=="/>
+
+			<!-- Loup Alpin -->
+			<POI MapID="27" xpos="195.193" ypos="137.256" zpos="1168.59" type="astuces.familiers_du_rodeur.tyrie_centrale.canides.loup_alpin" GUID="bYhlMaA4ZkeYoEChmw9LiA=="/>
+			<POI MapID="27" xpos="267.979" ypos="161.112" zpos="739.906" type="astuces.familiers_du_rodeur.tyrie_centrale.canides.loup_alpin" GUID="l2bCG41K+UCFbt1J94b/PQ=="/>
+			<POI MapID="29" xpos="-447.705" ypos="33.4996" zpos="900.291" type="astuces.familiers_du_rodeur.tyrie_centrale.canides.loup_alpin" GUID="R/Wvodo5PUijbC+iIY6UQg=="/>
+			<POI MapID="29" xpos="103.672" ypos="71.6142" zpos="192.232" type="astuces.familiers_du_rodeur.tyrie_centrale.canides.loup_alpin" GUID="TUAwXZQshUW9BQdP67Reng=="/>
+			<POI MapID="326" xpos="401.366" ypos="264.513" zpos="-162.853" type="astuces.familiers_du_rodeur.tyrie_centrale.canides.loup_alpin" GUID="lutXWz7/U0m84OvzPZQZ8A=="/>
+
+			<!-- Lynx -->
+			<POI MapID="21" xpos="-421.079" ypos="71.4394" zpos="-832.331" type="astuces.familiers_du_rodeur.tyrie_centrale.felins.lynx" GUID="4juho9Br7EmXHvDjnQ8I/Q=="/>
+			<POI MapID="26" xpos="46.8383" ypos="67.0535" zpos="695.624" type="astuces.familiers_du_rodeur.tyrie_centrale.felins.lynx" GUID="DqiYJK7f3EePkIy/rmJjTA=="/>
+			<POI MapID="31" xpos="-62.7245" ypos="64.8421" zpos="55.5004" type="astuces.familiers_du_rodeur.tyrie_centrale.felins.lynx" GUID="U9cGfrcXHE6QyLRXdNx5LQ=="/>
+
+			<!-- Méduse Arc-en-Ciel (Panthéon des Hauts-Faits) -->
+			<POI MapID="807" xpos="-231.611" ypos="-1.1332" zpos="179.369" type="astuces.familiers_du_rodeur.tyrie_centrale.meduses.arc_en_ciel" GUID="3Pzpz4djZEuw1ZVv03u9xQ=="/>
+
+			<!-- Méduse Bleue -->
+			<POI MapID="30" xpos="-618.32" ypos="-98.9081" zpos="378.945" type="astuces.familiers_du_rodeur.tyrie_centrale.meduses.bleue" GUID="4CYE7dXtR0+Ae+hnhZSFeA=="/>
+			<POI MapID="30" xpos="-564.545" ypos="-100.314" zpos="153.978" type="astuces.familiers_du_rodeur.tyrie_centrale.meduses.bleue" GUID="OIAZ97eMlUS1HVTRi8bHPA=="/>
+			<POI MapID="30" xpos="-74.629" ypos="-87.7405" zpos="708.696" type="astuces.familiers_du_rodeur.tyrie_centrale.meduses.bleue" GUID="4u3cnGAFN0WtUvbazM38dg=="/>
+			<POI MapID="30" xpos="-57.9196" ypos="-27.7073" zpos="262.527" type="astuces.familiers_du_rodeur.tyrie_centrale.meduses.bleue" GUID="pETdq9AlCkiMKxdI9oNhrg=="/>
+			<POI MapID="30" xpos="218.009" ypos="-79.5513" zpos="658.563" type="astuces.familiers_du_rodeur.tyrie_centrale.meduses.bleue" GUID="3ND/ClEFekCIdtqn8R0l2Q=="/>
+			<POI MapID="30" xpos="309.802" ypos="-56.8602" zpos="557.764" type="astuces.familiers_du_rodeur.tyrie_centrale.meduses.bleue" GUID="5rjILMnqaU2qXd/rhTDt2A=="/>
+			<POI MapID="39" xpos="745.502" ypos="-41.6632" zpos="84.7033" type="astuces.familiers_du_rodeur.tyrie_centrale.meduses.bleue" GUID="hXrMYfHZ9UywRmCqnCwV3w=="/>
+			<POI MapID="50" xpos="-360.769" ypos="-27.3642" zpos="-127.887" type="astuces.familiers_du_rodeur.tyrie_centrale.meduses.bleue" GUID="wUgWQxGfe0ik1FB95wI/sw=="/>
+			<POI MapID="95" xpos="216.947" ypos="-13.5494" zpos="-904.494" type="astuces.familiers_du_rodeur.tyrie_centrale.meduses.bleue" GUID="XG6fCtAkMUazyGKY/MDkxw=="/>
+			<POI MapID="96" xpos="216.947" ypos="-13.5494" zpos="-904.494" type="astuces.familiers_du_rodeur.tyrie_centrale.meduses.bleue" GUID="ccomXBsAf0OIkK/W1FN7uw=="/>
+
+			<!-- Méduse Rouge -->
+			<POI MapID="39" xpos="214.114" ypos="-33.7966" zpos="-344.214" type="astuces.familiers_du_rodeur.tyrie_centrale.meduses.rouge" GUID="3BCxKyvzSEKdFn0qttARRw=="/>
+			<POI MapID="73" xpos="-318.139" ypos="-51.6604" zpos="667.671" type="astuces.familiers_du_rodeur.tyrie_centrale.meduses.rouge" GUID="ulGUZ0EjvUGbEYzP2/e+ag=="/>
+			<POI MapID="73" xpos="-326.821" ypos="-58.6158" zpos="-102.146" type="astuces.familiers_du_rodeur.tyrie_centrale.meduses.rouge" GUID="NR6UUpFAdUW9ZOoqiJBIjg=="/>
+			<POI MapID="139" xpos="-180.782" ypos="-26.6945" zpos="-627.854" type="astuces.familiers_du_rodeur.tyrie_centrale.meduses.rouge" GUID="+/YPD/Kxa0O+vsqIC3BmZA=="/>
+			<POI MapID="139" xpos="-110.539" ypos="-11.8873" zpos="-578.963" type="astuces.familiers_du_rodeur.tyrie_centrale.meduses.rouge" GUID="EwTjYqt5fkWrQ7gbcdCyLQ=="/>
+			<POI MapID="139" xpos="-173.675" ypos="-5.45423" zpos="-480.33" type="astuces.familiers_du_rodeur.tyrie_centrale.meduses.rouge" GUID="ZxG8ZidPu06L7pHsUh6Opw=="/>
+
+			<!-- Moa Blanc -->
+			<POI MapID="27" xpos="-305.706" ypos="58.6856" zpos="201.675" type="astuces.familiers_du_rodeur.tyrie_centrale.moas.blanc" GUID="zSepRsZRMkCU6gqI2+OWQw=="/>
+			<POI MapID="27" xpos="-214.141" ypos="45.8217" zpos="162.105" type="astuces.familiers_du_rodeur.tyrie_centrale.moas.blanc" GUID="uO6hHuHXyEeyAxnIYrl/HQ=="/>
+			<POI MapID="27" xpos="320.477" ypos="126.075" zpos="-335.379" type="astuces.familiers_du_rodeur.tyrie_centrale.moas.blanc" GUID="dLvNne9Lg0GVGz/AM5Jd6A=="/>
+			<POI MapID="30" xpos="404.865" ypos="29.3003" zpos="327.022" type="astuces.familiers_du_rodeur.tyrie_centrale.moas.blanc" GUID="fMM0KwbzCkehZAzzY1gCXw=="/>
+			<POI MapID="30" xpos="435.344" ypos="54.2081" zpos="-300.605" type="astuces.familiers_du_rodeur.tyrie_centrale.moas.blanc" GUID="qN/tOWX5QEKdX9tuhWQUGA=="/>
+			<POI MapID="30" xpos="503.054" ypos="22.1835" zpos="264.802" type="astuces.familiers_du_rodeur.tyrie_centrale.moas.blanc" GUID="6lsUL1WSV0ay3W/UU7WBkA=="/>
+			<POI MapID="31" xpos="238.857" ypos="64.0703" zpos="55.5706" type="astuces.familiers_du_rodeur.tyrie_centrale.moas.blanc" GUID="YSHxMbHXXEaoIRCOnfPU4g=="/>
+
+			<!-- Moa Bleu -->
+			<POI MapID="21" xpos="612.797" ypos="79.1717" zpos="-634.592" type="astuces.familiers_du_rodeur.tyrie_centrale.moas.bleu" GUID="B3DueklwH0edsfvCWYsdXg=="/>
+			<POI MapID="34" xpos="-215.839" ypos="8.22765" zpos="-118.951" type="astuces.familiers_du_rodeur.tyrie_centrale.moas.bleu" GUID="Y3TjF2yUMUySUe6ic24RDw=="/>
+			<POI MapID="51" xpos="903" ypos="0.00782978" zpos="-217.077" type="astuces.familiers_du_rodeur.tyrie_centrale.moas.bleu" GUID="DHZGW1AC90ekgn+Km8zWOw=="/>
+			<POI MapID="73" xpos="-23.5064" ypos="30.9788" zpos="670.617" type="astuces.familiers_du_rodeur.tyrie_centrale.moas.bleu" GUID="MRnLBghfFUmm7u3Q0gGaKQ=="/>
+			<POI MapID="73" xpos="17.3091" ypos="43.7241" zpos="563.7" type="astuces.familiers_du_rodeur.tyrie_centrale.moas.bleu" GUID="b1fgF79CNUiKGfivtCr4dQ=="/>
+			<POI MapID="73" xpos="44.0572" ypos="55.1666" zpos="617.645" type="astuces.familiers_du_rodeur.tyrie_centrale.moas.bleu" GUID="CCSO6btmn0ejeRDRdW05xw=="/>
+			<POI MapID="73" xpos="64.7981" ypos="3.8935" zpos="-606.694" type="astuces.familiers_du_rodeur.tyrie_centrale.moas.bleu" GUID="Xo6lYB7k40egKdL3ffGCTg=="/>
+
+			<!-- Moa Noir (Panthéon des Hauts-Faits) -->
+			<POI MapID="807" xpos="-121.177" ypos="1.92363" zpos="93.1433" type="astuces.familiers_du_rodeur.tyrie_centrale.moas.noir" GUID="HCHpWNIhR0Ww6EBSMIcctQ=="/>
+
+			<!-- Moa Rose -->
+			<POI MapID="34" xpos="23.1318" ypos="-0.354728" zpos="-62.4196" type="astuces.familiers_du_rodeur.tyrie_centrale.moas.rose" GUID="36ENW68xJ0ed4/ZCRlU69w=="/>
+			<POI MapID="34" xpos="105.009" ypos="-0.285347" zpos="15.1226" type="astuces.familiers_du_rodeur.tyrie_centrale.moas.rose" GUID="3rP6RhWjLk6DpcJqYZbWkg=="/>
+			<POI MapID="34" xpos="237.344" ypos="1.14476" zpos="49.6173" type="astuces.familiers_du_rodeur.tyrie_centrale.moas.rose" GUID="5APyikPWCEOJo3YsGYmBZw=="/>
+			<POI MapID="39" xpos="-403.861" ypos="46.425" zpos="566.76" type="astuces.familiers_du_rodeur.tyrie_centrale.moas.rose" GUID="aQ+DKWeHm0enn79ISgpjhA=="/>
+			<POI MapID="39" xpos="264.255" ypos="-0.68022" zpos="273.487" type="astuces.familiers_du_rodeur.tyrie_centrale.moas.rose" GUID="4gzhHNx09UWHYPVnhPHWsQ=="/>
+			<POI MapID="54" xpos="407.572" ypos="13.5367" zpos="-515.746" type="astuces.familiers_du_rodeur.tyrie_centrale.moas.rose" GUID="t6JgOZLnjkGW1ZX6ojxSyA=="/>
+			<POI MapID="91" xpos="21.6471" ypos="-0.595564" zpos="1.9687" type="astuces.familiers_du_rodeur.tyrie_centrale.moas.rose" GUID="Nqr66XKwLkSrBzRDBoepig=="/>
+			<POI MapID="139" xpos="25.6041" ypos="332.901" zpos="272.523" type="astuces.familiers_du_rodeur.tyrie_centrale.moas.rose" GUID="12AYYFQra0+RCYR4wGeEWQ=="/>
+			<POI MapID="988" xpos="-542.266" ypos="7.81946" zpos="22.9812" type="astuces.familiers_du_rodeur.tyrie_centrale.moas.rose" GUID="MzWnmkvR80aUskN98dMAWA=="/>
+
+			<!-- Moa Rouge -->
+			<POI MapID="20" xpos="413.838" ypos="42.5886" zpos="170.972" type="astuces.familiers_du_rodeur.tyrie_centrale.moas.rouge" GUID="SeDuJi4lTk2Z/RvRlBV1bA=="/>
+			<POI MapID="21" xpos="627.011" ypos="77.8809" zpos="-639.248" type="astuces.familiers_du_rodeur.tyrie_centrale.moas.rouge" GUID="OU3gQOrlr0mmKFmMFxfmNg=="/>
+			<POI MapID="22" xpos="-693.453" ypos="47.1799" zpos="-439.99" type="astuces.familiers_du_rodeur.tyrie_centrale.moas.rouge" GUID="DwwnP6V1T0eAR7Sg8MdCEA=="/>
+			<POI MapID="22" xpos="822.975" ypos="21.6404" zpos="67.2821" type="astuces.familiers_du_rodeur.tyrie_centrale.moas.rouge" GUID="JFH4Ro9NNkq+q968Uq9d1g=="/>
+
+			<!-- Murello -->
+			<POI MapID="26" xpos="-596.486" ypos="85.9037" zpos="-468.408" type="astuces.familiers_du_rodeur.tyrie_centrale.ursides.murello" GUID="VAVpt309IEihIQjsr+7l9Q=="/>
+			<POI MapID="39" xpos="-587.388" ypos="124.001" zpos="687.962" type="astuces.familiers_du_rodeur.tyrie_centrale.ursides.murello" GUID="SUMfIOFYnEerYBS8OlGffA=="/>
+			<POI MapID="54" xpos="21.7802" ypos="55.4394" zpos="247.947" type="astuces.familiers_du_rodeur.tyrie_centrale.ursides.murello" GUID="orwy6bnto0W1G71SJblUJg=="/>
+
+			<!-- Ours Brun -->
+			<POI MapID="17" xpos="378.654" ypos="71.4379" zpos="-84.8699" type="astuces.familiers_du_rodeur.tyrie_centrale.ursides.ours_brun" GUID="CYzwhkOqOU6JSm22iC72Cw=="/>
+			<POI MapID="17" xpos="425.623" ypos="51.2021" zpos="-44.7339" type="astuces.familiers_du_rodeur.tyrie_centrale.ursides.ours_brun" GUID="g8r5G8Fx/EqBecvlZjXreQ=="/>
+			<POI MapID="17" xpos="439.624" ypos="68.4133" zpos="-98.1317" type="astuces.familiers_du_rodeur.tyrie_centrale.ursides.ours_brun" GUID="tj17dqTQk0i/1u9NiFdQ7g=="/>
+			<POI MapID="24" xpos="-976.065" ypos="9.33953" zpos="-191.084" type="astuces.familiers_du_rodeur.tyrie_centrale.ursides.ours_brun" GUID="9HE5TR47AkuFRWdR8sD/DA=="/>
+			<POI MapID="24" xpos="-959.436" ypos="8.15221" zpos="-132.21" type="astuces.familiers_du_rodeur.tyrie_centrale.ursides.ours_brun" GUID="/93bqqu3aUulkwq8SF5ubw=="/>
+			<POI MapID="24" xpos="-911.418" ypos="8.74793" zpos="-175.944" type="astuces.familiers_du_rodeur.tyrie_centrale.ursides.ours_brun" GUID="vX5wym2bz0yiSBd5nUyGFw=="/>
+			<POI MapID="38" xpos="-573.544" ypos="41.4325" zpos="384.156" type="astuces.familiers_du_rodeur.tyrie_centrale.ursides.ours_brun" GUID="vkspJxAKG0yYbdYL9f/ypQ=="/>
+
+			<!-- Ours Noir -->
+			<POI MapID="20" xpos="473.168" ypos="40.8621" zpos="923.599" type="astuces.familiers_du_rodeur.tyrie_centrale.ursides.ours_noir" GUID="aZp2PWnOLUWBB6uOKe/YAw=="/>
+			<POI MapID="20" xpos="485.791" ypos="44.1756" zpos="880.918" type="astuces.familiers_du_rodeur.tyrie_centrale.ursides.ours_noir" GUID="msfxMR9kL06JvoLzOBm0kw=="/>
+			<POI MapID="38" xpos="-595.243" ypos="43.4769" zpos="489.628" type="astuces.familiers_du_rodeur.tyrie_centrale.ursides.ours_noir" GUID="GrMz0x7bakOyire2fvsKEg=="/>
+
+			<!-- Ours Polaire -->
+			<POI MapID="30" xpos="-598.806" ypos="1.90773" zpos="-464.194" type="astuces.familiers_du_rodeur.tyrie_centrale.ursides.ours_polaire" GUID="Ra81+sdCdU+GzB7uyPTxIA=="/>
+			<POI MapID="30" xpos="-461.134" ypos="2.21473" zpos="-465.095" type="astuces.familiers_du_rodeur.tyrie_centrale.ursides.ours_polaire" GUID="nhRoGMeYN0OZJpXvzIoeHQ=="/>
+			<POI MapID="30" xpos="-460.933" ypos="0.400261" zpos="-425.072" type="astuces.familiers_du_rodeur.tyrie_centrale.ursides.ours_polaire" GUID="4NhxXyIgnEmY8hRV4or9dg=="/>
+			<POI MapID="30" xpos="-443.094" ypos="12.0913" zpos="-501.441" type="astuces.familiers_du_rodeur.tyrie_centrale.ursides.ours_polaire" GUID="ismmNI+zfUyhFcyndDxE6A=="/>
+			<POI MapID="30" xpos="-400.878" ypos="10.1674" zpos="-413.603" type="astuces.familiers_du_rodeur.tyrie_centrale.ursides.ours_polaire" GUID="kMTjAEfjG0+gZz2PQrWEFg=="/>
+			<POI MapID="326" xpos="-456.878" ypos="279.12" zpos="100.788" type="astuces.familiers_du_rodeur.tyrie_centrale.ursides.ours_polaire" GUID="hWlNYTV3b0KGkNH7zZoyLg=="/>
+			<POI MapID="326" xpos="-420.315" ypos="273.143" zpos="104.308" type="astuces.familiers_du_rodeur.tyrie_centrale.ursides.ours_polaire" GUID="RA8NvDBWqkqR7Mgju12i5A=="/>
+			<POI MapID="326" xpos="-408.156" ypos="277.298" zpos="72.6909" type="astuces.familiers_du_rodeur.tyrie_centrale.ursides.ours_polaire" GUID="cjbuQLmweEW0a+UAgK562Q=="/>
+
+			<!-- Panthère des Neiges -->
+			<POI MapID="27" xpos="-237.33" ypos="107.958" zpos="1024.84" type="astuces.familiers_du_rodeur.tyrie_centrale.felins.panthere_des_neiges" GUID="70WY8ZgLN0yCOM+/69G+vQ=="/>
+			<POI MapID="27" xpos="-213.52" ypos="42.6853" zpos="-10.9572" type="astuces.familiers_du_rodeur.tyrie_centrale.felins.panthere_des_neiges" GUID="Pa+w1n7SAEWvTdLq4G2QKA=="/>
+			<POI MapID="27" xpos="-116.88" ypos="98.8601" zpos="1177.3" type="astuces.familiers_du_rodeur.tyrie_centrale.felins.panthere_des_neiges" GUID="/hS0h9BCMEy4JXsWTmAmGQ=="/>
+			<POI MapID="30" xpos="-167.296" ypos="6.21401" zpos="-284.348" type="astuces.familiers_du_rodeur.tyrie_centrale.felins.panthere_des_neiges" GUID="Nv3BfFmhsUiIIxRmeag/Uw=="/>
+			<POI MapID="30" xpos="-72.4213" ypos="12.5903" zpos="-245.215" type="astuces.familiers_du_rodeur.tyrie_centrale.felins.panthere_des_neiges" GUID="8Z5fTRaxSUOekanztZviKw=="/>
+			<POI MapID="30" xpos="-39.3828" ypos="13.5212" zpos="-369.687" type="astuces.familiers_du_rodeur.tyrie_centrale.felins.panthere_des_neiges" GUID="xhkcVSlPHkG7p+UxBMS65w=="/>
+			<POI MapID="326" xpos="21.4641" ypos="280.173" zpos="54.1214" type="astuces.familiers_du_rodeur.tyrie_centrale.felins.panthere_des_neiges" GUID="Y7+hA+BfiEqLu6fZ5++5qQ=="/>
+			<POI MapID="326" xpos="37.941" ypos="261.456" zpos="101.098" type="astuces.familiers_du_rodeur.tyrie_centrale.felins.panthere_des_neiges" GUID="l3rQ5GQp50SNmy68M0uosQ=="/>
+
+			<!-- Phacochère -->
+			<POI MapID="21" xpos="758.806" ypos="51.1148" zpos="-640.656" type="astuces.familiers_du_rodeur.tyrie_centrale.porcins.phacochere" GUID="+nLEzbo380C/PGf7gCU4yw=="/>
+			<POI MapID="21" xpos="766.749" ypos="51.3087" zpos="-625.022" type="astuces.familiers_du_rodeur.tyrie_centrale.porcins.phacochere" GUID="WKi89z+ZWU6yLYzDGBpB1w=="/>
+			<POI MapID="21" xpos="324.638" ypos="44.2346" zpos="-350.441" type="astuces.familiers_du_rodeur.tyrie_centrale.porcins.phacochere" GUID="cQm9q2QGfU+Luk5IG5piyg=="/>
+			<POI MapID="22" xpos="-411.109" ypos="41.4867" zpos="-488.824" type="astuces.familiers_du_rodeur.tyrie_centrale.porcins.phacochere" GUID="UwsajZly0k+FPwppJHF8SA=="/>
+			<POI MapID="22" xpos="-395.191" ypos="41.8732" zpos="-513.563" type="astuces.familiers_du_rodeur.tyrie_centrale.porcins.phacochere" GUID="gdPLGoru+kyaOQQUxAp/JQ=="/>
+			<POI MapID="22" xpos="-364.707" ypos="29.0317" zpos="-489.553" type="astuces.familiers_du_rodeur.tyrie_centrale.porcins.phacochere" GUID="7yWvImcN0E+gjIx3mh5NOA=="/>
+			<POI MapID="22" xpos="-67.9943" ypos="16.762" zpos="-474.912" type="astuces.familiers_du_rodeur.tyrie_centrale.porcins.phacochere" GUID="QdZz2eEMVEGGNAXqHm5E4Q=="/>
+			<POI MapID="22" xpos="-33.3348" ypos="19.4473" zpos="-493.28" type="astuces.familiers_du_rodeur.tyrie_centrale.porcins.phacochere" GUID="oBZOS9sgnUON01ZCEdzKQw=="/>
+			<POI MapID="22" xpos="-8.4262" ypos="21.9949" zpos="-563.37" type="astuces.familiers_du_rodeur.tyrie_centrale.porcins.phacochere" GUID="1mIkWBYJukOjj0HknEU3pg=="/>
+			<POI MapID="24" xpos="426.161" ypos="44.4892" zpos="358.324" type="astuces.familiers_du_rodeur.tyrie_centrale.porcins.phacochere" GUID="u+2ZUKi8aUaJMlP2mesHww=="/>
+			<POI MapID="24" xpos="462.716" ypos="49.8243" zpos="373.33" type="astuces.familiers_du_rodeur.tyrie_centrale.porcins.phacochere" GUID="63r00i2+G0y+denk8DbcVQ=="/>
+			<POI MapID="24" xpos="546.325" ypos="27.8338" zpos="285.441" type="astuces.familiers_du_rodeur.tyrie_centrale.porcins.phacochere" GUID="Z0kKWLiELE+Bq2Coe8tDrQ=="/>
+			<POI MapID="24" xpos="554.365" ypos="24.5765" zpos="378.806" type="astuces.familiers_du_rodeur.tyrie_centrale.porcins.phacochere" GUID="QH+sY2f+0UCDUxYJNN7jnA=="/>
+			<POI MapID="32" xpos="-66.0627" ypos="32.5136" zpos="128.856" type="astuces.familiers_du_rodeur.tyrie_centrale.porcins.phacochere" GUID="jzKowPU8qEmkamojVl95QQ=="/>
+			<POI MapID="32" xpos="-64.4751" ypos="33.9093" zpos="-51.0291" type="astuces.familiers_du_rodeur.tyrie_centrale.porcins.phacochere" GUID="gJGyRa+TAk6qZylcFeLr2w=="/>
+			<POI MapID="32" xpos="-55.3269" ypos="31.3272" zpos="81.8383" type="astuces.familiers_du_rodeur.tyrie_centrale.porcins.phacochere" GUID="Yz+Ph71dBUKzOLK9X7wr8A=="/>
+			<POI MapID="32" xpos="-53.1439" ypos="31.51" zpos="28.9019" type="astuces.familiers_du_rodeur.tyrie_centrale.porcins.phacochere" GUID="h+DXmEeVk0KtCcRMan6bcg=="/>
+			<POI MapID="32" xpos="850.921" ypos="33.5197" zpos="-166.238" type="astuces.familiers_du_rodeur.tyrie_centrale.porcins.phacochere" GUID="YrdNUxJdokW1btSnhG2wdQ=="/>
+			<POI MapID="32" xpos="865.549" ypos="35.0706" zpos="-164.057" type="astuces.familiers_du_rodeur.tyrie_centrale.porcins.phacochere" GUID="zTMvrXRfeE2z4WVBNHZTyA=="/>
+			<POI MapID="32" xpos="939.696" ypos="44.0076" zpos="-106.203" type="astuces.familiers_du_rodeur.tyrie_centrale.porcins.phacochere" GUID="/NLqNlMKo0uNOunZFJ1Nyg=="/>
+			<POI MapID="1043" xpos="-345.012" ypos="129.918" zpos="-331.589" type="astuces.familiers_du_rodeur.tyrie_centrale.porcins.phacochere" GUID="rDJtMARoAE+txC3p0jVNww=="/>
+
+			<!-- Poisson Cuirassé -->
+			<POI MapID="20" xpos="570.474" ypos="-18.311" zpos="-538.95" type="astuces.familiers_du_rodeur.tyrie_centrale.poissons.cuirasse" GUID="bkfCZeL0q0KsmEReS0B30g=="/>
+			<POI MapID="20" xpos="594.209" ypos="-13.4133" zpos="-552.578" type="astuces.familiers_du_rodeur.tyrie_centrale.poissons.cuirasse" GUID="y2GD3GeIXEaeN9e8unouEg=="/>
+			<POI MapID="39" xpos="1114.72" ypos="-10.5187" zpos="27.2873" type="astuces.familiers_du_rodeur.tyrie_centrale.poissons.cuirasse" GUID="F1v75wtCY0GX5HS7jrp5Fg=="/>
+			<POI MapID="50" xpos="-295.448" ypos="-65.3691" zpos="-189.35" type="astuces.familiers_du_rodeur.tyrie_centrale.poissons.cuirasse" GUID="Rden3J6hxUiZlGuQ1IE66A=="/>
+			<POI MapID="50" xpos="-294.764" ypos="-74.0765" zpos="-114.18" type="astuces.familiers_du_rodeur.tyrie_centrale.poissons.cuirasse" GUID="X61v9aApgEK8zL8EC5faXA=="/>
+			<POI MapID="50" xpos="-290.49" ypos="-77.1342" zpos="-180.618" type="astuces.familiers_du_rodeur.tyrie_centrale.poissons.cuirasse" GUID="cRqNy4BmLkGOs8gu11f31Q=="/>
+			<POI MapID="50" xpos="-240.947" ypos="-61.5206" zpos="-185.218" type="astuces.familiers_du_rodeur.tyrie_centrale.poissons.cuirasse" GUID="rWZKPJK/qk2XSHEt3p6RNw=="/>
+			<POI MapID="50" xpos="-178.694" ypos="-52.3803" zpos="-154.943" type="astuces.familiers_du_rodeur.tyrie_centrale.poissons.cuirasse" GUID="8EHjUZFobUePT4Q0JXNrYA=="/>
+			<POI MapID="73" xpos="-563.504" ypos="-13.4756" zpos="-333.997" type="astuces.familiers_du_rodeur.tyrie_centrale.poissons.cuirasse" GUID="ifkE/Cj+6UqsKtjrpCcgsw=="/>
+			<POI MapID="73" xpos="-539.188" ypos="-10.6488" zpos="-303.544" type="astuces.familiers_du_rodeur.tyrie_centrale.poissons.cuirasse" GUID="32uiygIokkCN56ogfiJbew=="/>
+			<POI MapID="73" xpos="-533.163" ypos="-9.66133" zpos="-345.139" type="astuces.familiers_du_rodeur.tyrie_centrale.poissons.cuirasse" GUID="3GHmFV+5jkqRbAAfQ5JqBw=="/>
+
+			<!-- Requin -->
+			<POI MapID="23" xpos="-417.12" ypos="-55.8513" zpos="-176.115" type="astuces.familiers_du_rodeur.tyrie_centrale.requins.requin" GUID="UVGo/1j5ckSKFXLNRi0Z2Q=="/>
+			<POI MapID="23" xpos="118.058" ypos="-46.901" zpos="-359.687" type="astuces.familiers_du_rodeur.tyrie_centrale.requins.requin" GUID="bQK0x9xTpUWNjoZV/5MFCQ=="/>
+			<POI MapID="29" xpos="243.382" ypos="-36.1193" zpos="-399.545" type="astuces.familiers_du_rodeur.tyrie_centrale.requins.requin" GUID="wUbJmWlrXkaQZJVRQNgzCg=="/>
+			<POI MapID="39" xpos="918.835" ypos="-25.6615" zpos="-426.737" type="astuces.familiers_du_rodeur.tyrie_centrale.requins.requin" GUID="Ardp7JKhHke2lVDHv12X7A=="/>
+			<POI MapID="50" xpos="649.012" ypos="-8.77813" zpos="-425.301" type="astuces.familiers_du_rodeur.tyrie_centrale.requins.requin" GUID="cJgFs9fnckCYzrYbWgDdHw=="/>
+			<POI MapID="73" xpos="-152.803" ypos="-70.3565" zpos="-10.2885" type="astuces.familiers_du_rodeur.tyrie_centrale.requins.requin" GUID="Zy7DBcoQQE63OODOJn1nBQ=="/>
+			<POI MapID="53" xpos="-140.524" ypos="-37.9601" zpos="920.572" type="astuces.familiers_du_rodeur.tyrie_centrale.requins.requin" GUID="mBy0Ts5fVUqY4Y5KwRvgMQ=="/>
+			<POI MapID="53" xpos="-41.1374" ypos="-30.3968" zpos="-53.418" type="astuces.familiers_du_rodeur.tyrie_centrale.requins.requin" GUID="Qoh9ySW8BUi1KQMOQ0ix5g=="/>
+			<POI MapID="73" xpos="123.677" ypos="-30.661" zpos="360.7" type="astuces.familiers_du_rodeur.tyrie_centrale.requins.requin" GUID="Z238jXd88UOgDd7f77E3Ww=="/>
+			<POI MapID="73" xpos="202.709" ypos="-38.6723" zpos="387.938" type="astuces.familiers_du_rodeur.tyrie_centrale.requins.requin" GUID="KGczKyqvC027bQlmSl7IrA=="/>
+			<POI MapID="73" xpos="273.171" ypos="-20.8937" zpos="383.783" type="astuces.familiers_du_rodeur.tyrie_centrale.requins.requin" GUID="ikXnXKWZuUWIfliyKMAO2Q=="/>
+			<POI MapID="95" xpos="-238.866" ypos="-15.828" zpos="-1007.94" type="astuces.familiers_du_rodeur.tyrie_centrale.requins.requin" GUID="aPkRX0UyjE6YJvW9lJ7R2Q=="/>
+			<POI MapID="96" xpos="-238.866" ypos="-15.828" zpos="-1007.94" type="astuces.familiers_du_rodeur.tyrie_centrale.requins.requin" GUID="VaOziF5aqUeek5GjCcvr8A=="/>
+
+			<!-- Sanglier -->
+			<POI MapID="38" xpos="-387.178" ypos="11.3151" zpos="371.969" type="astuces.familiers_du_rodeur.tyrie_centrale.porcins.sanglier" GUID="gO6Gpm3YGUWTWsgEgNI8dg=="/>
+			<POI MapID="51" xpos="888.916" ypos="7.34879" zpos="347.23" type="astuces.familiers_du_rodeur.tyrie_centrale.porcins.sanglier" GUID="QKtsqvWjmEGMMztozK/YgQ=="/>
+			<POI MapID="51" xpos="897.149" ypos="-0.0441592" zpos="-187.726" type="astuces.familiers_du_rodeur.tyrie_centrale.porcins.sanglier" GUID="hQoi0Ln8l0igaiwgFwK7gg=="/>
+
+			<!-- Siamouth -->
+			<POI MapID="53" xpos="-426.806" ypos="4.7787" zpos="-395.04" type="astuces.familiers_du_rodeur.tyrie_centrale.porcins.siamouth" GUID="I86mRJu1/0+H1uUG2BowjQ=="/>
+			<POI MapID="53" xpos="111.425" ypos="0.243438" zpos="-410.821" type="astuces.familiers_du_rodeur.tyrie_centrale.porcins.siamouth" GUID="4mRTKhlzB0ijIcRFMHHKlg=="/>
+			<POI MapID="53" xpos="217.846" ypos="8.20393" zpos="-205.54" type="astuces.familiers_du_rodeur.tyrie_centrale.porcins.siamouth" GUID="fEQVO8hJDEOK2FU0iGwdfw=="/>
+			<POI MapID="53" xpos="222.824" ypos="7.07703" zpos="-178.791" type="astuces.familiers_du_rodeur.tyrie_centrale.porcins.siamouth" GUID="VFiAzuyUVU+77fbokP7VnA=="/>
+			<POI MapID="53" xpos="273.164" ypos="0.490546" zpos="374.773" type="astuces.familiers_du_rodeur.tyrie_centrale.porcins.siamouth" GUID="MTfpIJEXfkCsiiwiXzAbUg=="/>
+			<POI MapID="53" xpos="469.945" ypos="0.508519" zpos="575.544" type="astuces.familiers_du_rodeur.tyrie_centrale.porcins.siamouth" GUID="+Cdf12FIjESdOKe/RPgxSA=="/>
+			<POI MapID="53" xpos="625.928" ypos="80.6502" zpos="295.165" type="astuces.familiers_du_rodeur.tyrie_centrale.porcins.siamouth" GUID="EMVFeuNiaUeCA5bZQnodHg=="/>
+			<POI MapID="54" xpos="400.054" ypos="15.1222" zpos="-535.644" type="astuces.familiers_du_rodeur.tyrie_centrale.porcins.siamouth" GUID="MdQK316CVESgMX17Yo98/A=="/>
+			<POI MapID="139" xpos="-23.7335" ypos="332.911" zpos="38.8279" type="astuces.familiers_du_rodeur.tyrie_centrale.porcins.siamouth" GUID="QKraErmSiE+UJ9vVMPhbBA=="/>
+
+		<!--
+		HEART OF THORNS
+		-->
+
+			<!-- Fumécaille (Heart of Thorns) -->
+			<POI MapID="1045" xpos="87.2604" ypos="114.583" zpos="152.127" type="astuces.familiers_du_rodeur.hot.sauriens.fumecaille" GUID="1ui/+pOOFEWo/jWOyXNSgQ=="/>
+			<POI MapID="1045" xpos="734.61" ypos="275.216" zpos="-462.659" type="astuces.familiers_du_rodeur.hot.sauriens.fumecaille" GUID="wBrlBphtB0mo4++5AmawwQ=="/>
+
+			<!-- Hérissausore (Heart of Thorns) -->
+			<POI MapID="1043" xpos="436.486" ypos="247.243" zpos="-270.426" type="astuces.familiers_du_rodeur.hot.sauriens.herissausore" GUID="3ZUdghFpN021OnWJHDZIXg=="/>
+			<POI MapID="1043" xpos="453.006" ypos="248.575" zpos="-146.035" type="astuces.familiers_du_rodeur.hot.sauriens.herissausore" GUID="jFSh2wh1KU6i1ZBuW3KeoQ=="/>
+
+			<!-- Tigre (Heart of Thorns) -->
+			<POI MapID="1041" xpos="-182.181" ypos="101.385" zpos="104.442" type="astuces.familiers_du_rodeur.hot.felins.tigre" GUID="+xK/Cb0+q0Wl/F6oO4WCTQ=="/>
+
+			<!-- Vouivre de Feu (Heart of Thorns) -->
+			<POI MapID="1052" xpos="158.092" ypos="605.358" zpos="-189.756" type="astuces.familiers_du_rodeur.hot.vouivres.feu" GUID="HK6cLlqZJEefL5hdbW8iSA=="/>
+			<POI MapID="1052" xpos="210.913" ypos="607.537" zpos="-216.747" type="astuces.familiers_du_rodeur.hot.vouivres.feu" GUID="kZ5bJtxkE0y7BcgkIsvqjQ=="/>
+
+			<!-- Vouivre Électrique (Heart of Thorns) -->
+			<POI MapID="1041" xpos="290.652" ypos="208.026" zpos="218.69" type="astuces.familiers_du_rodeur.hot.vouivres.electrique" GUID="bPMURfe1+0GZIfTVgciztg=="/>
+
+	</POIs>
+</OverlayData>

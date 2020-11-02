@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+POIs: TMKFrench.6427 - ReActif.9251
+Date: 2017/07/28
+-->
+<OverlayData>
+	<MarkerCategory name="chroniques.saison_3">
+		<MarkerCategory name="ep6_le_bout_du_chemin" DisplayName="Ep.6 - One Path Ends" iconFile="Img\LeBoutduChemin.png">
+			<MarkerCategory name="dans_l_esprit_de_la_folie" DisplayName="Into the Mind of Madness"/>
+		</MarkerCategory>
+	</MarkerCategory>
+
+	<POIs>
+
+		<POI MapID="1202" xpos="213.45" ypos="-31.1336" zpos="-434.204" type="chroniques.saison_3.ep6_le_bout_du_chemin.dans_l_esprit_de_la_folie" GUID="qII+Qfit40qqWfe9qNrvIw=="/>
+		<POI MapID="1202" xpos="171.913" ypos="141.245" zpos="-313.53" type="chroniques.saison_3.ep6_le_bout_du_chemin.dans_l_esprit_de_la_folie" GUID="qnKQOkl0X02l7Ix3ZkRYVg=="/>
+		<POI MapID="1202" xpos="126.14" ypos="142.79" zpos="-302.91" type="chroniques.saison_3.ep6_le_bout_du_chemin.dans_l_esprit_de_la_folie" GUID="ThgGQ7vCqkqrLu/jvt7f/w=="/>
+		<POI MapID="1202" xpos="97.6" ypos="150.88" zpos="-239" type="chroniques.saison_3.ep6_le_bout_du_chemin.dans_l_esprit_de_la_folie" GUID="1GeFwmvN70aupEZvqUSqHA=="/>
+		<POI MapID="1202" xpos="85.0817" ypos="58.2059" zpos="-642.14" type="chroniques.saison_3.ep6_le_bout_du_chemin.dans_l_esprit_de_la_folie" GUID="AlXoCofilkmgviooX5IAYg=="/>
+		<POI MapID="1202" xpos="-39.2381" ypos="135.169" zpos="-440.492" type="chroniques.saison_3.ep6_le_bout_du_chemin.dans_l_esprit_de_la_folie" GUID="ncheIdSwt06EF4Ny3q+6lg=="/>
+
+	</POIs>
+</OverlayData>

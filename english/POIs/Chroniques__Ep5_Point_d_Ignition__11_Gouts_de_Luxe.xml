@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+POIs: ReActif.9251
+Date: 2017/05/09
+-->
+<OverlayData>
+	<MarkerCategory name="chroniques.saison_3">
+		<MarkerCategory name="ep5_point_d_ignition" DisplayName="Ep.5 - Flashpoint" iconFile="Img\MontDraconis.png">
+			<MarkerCategory name="gouts_de_luxe" DisplayName="Expensive Taste"/>
+		</MarkerCategory>
+	</MarkerCategory>
+
+	<POIs>
+
+		<!-- Empereur Mattake Champion -->
+		<POI MapID="1195" xpos="172.625" ypos="221.585" zpos="142.252" type="chroniques.saison_3.ep5_point_d_ignition.gouts_de_luxe" GUID="kiKlKZCj5UmS1IKPfNLEYg=="/>
+		<POI MapID="1195" xpos="172.625" ypos="223.585" zpos="142.252" type="chroniques.saison_3.ep5_point_d_ignition.gouts_de_luxe" GUID="myF3stk8wEeOKvY0DEaK0A==" iconFile="Img\Combat.png" color="ffff0000"/>
+
+	</POIs>
+</OverlayData>

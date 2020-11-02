@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+POIs: TMKFrench.6427
+Date: 2017/07/25
+-->
+<OverlayData>
+	<MarkerCategory name="chroniques.saison_3">
+		<MarkerCategory name="ep6_le_bout_du_chemin" DisplayName="Ep.6 - One Path Ends" iconFile="Img\LeBoutduChemin.png">
+			<MarkerCategory name="roi_crabe" DisplayName="King Crab"/>
+		</MarkerCategory>
+	</MarkerCategory>
+
+	<POIs>
+
+		<POI MapID="1202" xpos="276.988" ypos="52.8514" zpos="-492.299" type="chroniques.saison_3.ep6_le_bout_du_chemin.roi_crabe" GUID="OeXDwThWeE+CqtRXifr1lw=="/>
+		<POI MapID="1202" xpos="173.587" ypos="-31.168" zpos="-397.202" type="chroniques.saison_3.ep6_le_bout_du_chemin.roi_crabe" GUID="Cwwu4pnTaEeH5QHv7+/GAg=="/>
+
+	</POIs>
+</OverlayData>

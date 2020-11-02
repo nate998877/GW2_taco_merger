@@ -1,0 +1,24 @@
+<!-- 2020.06.09 -->
+<OverlayData>
+	<POIs>
+
+		<!-- SANDSWEPT ISLES - FORCE FIELDS -->
+		<!-- 3 switches -->
+		<POI MapID="1271" xpos="-251.99" ypos="2.5" zpos="-18.98" type="assistances.sandswept_isles.force_fields" GUID="iNm2/ZDNl0ejcwWsNniyDg==" iconFile="Img/Numbers/1.png" fadeNear="1500" fadeFar="2000" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="1271" xpos="-252.09" ypos="2.5" zpos="-15.35" type="assistances.sandswept_isles.force_fields" GUID="W5J28DSmUU+xOAwB2TZ3YQ==" iconFile="Img/Numbers/2.png" fadeNear="1500" fadeFar="2000" mapVisibility="0" miniMapVisibility="0"/>
+		<!-- 4 switches -->
+		<POI MapID="1271" xpos="-279.28" ypos="5.5" zpos="38.13"  type="assistances.sandswept_isles.force_fields" GUID="9DCBgbNLvUmEfw3xx5AXkw==" iconFile="Img/Numbers/1.png" fadeNear="1500" fadeFar="2000" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="1271" xpos="-290.37" ypos="5.5" zpos="37.33"  type="assistances.sandswept_isles.force_fields" GUID="e8jkLIHEbUSTgQZmtDeyBw==" iconFile="Img/Numbers/2.png" fadeNear="1500" fadeFar="2000" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="1271" xpos="-286.91" ypos="5.5" zpos="37.49"  type="assistances.sandswept_isles.force_fields" GUID="A2BcdaqTcUCBYkaG2Zspkg==" iconFile="Img/Numbers/3.png" fadeNear="1500" fadeFar="2000" mapVisibility="0" miniMapVisibility="0"/>
+		<!-- 6 switches -->
+		<POI MapID="1271" xpos="-335.06" ypos="8"   zpos="35.03"  type="assistances.sandswept_isles.force_fields" GUID="EdBXBqKfnkSWduXIRXoQaQ==" iconFile="Img/Numbers/1.png" fadeNear="1500" fadeFar="2000" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="1271" xpos="-350.42" ypos="8"   zpos="33.92"  type="assistances.sandswept_isles.force_fields" GUID="v40uT8JdJEq4a9XDqG/8Dw==" iconFile="Img/Numbers/2.png" fadeNear="1500" fadeFar="2000" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="1271" xpos="-341.31" ypos="8"   zpos="34.46"  type="assistances.sandswept_isles.force_fields" GUID="9pvce6opxE+J9cRvZPWRfg==" iconFile="Img/Numbers/3.png" fadeNear="1500" fadeFar="2000" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="1271" xpos="-337.94" ypos="8"   zpos="34.69"  type="assistances.sandswept_isles.force_fields" GUID="qWTO0mlFDEG3ZoPh6HTJSw==" iconFile="Img/Numbers/4.png" fadeNear="1500" fadeFar="2000" mapVisibility="0" miniMapVisibility="0"/>
+		<!-- Test Room -->
+		<POI MapID="1271" xpos="-370.57" ypos="5.5" zpos="19.37"  type="assistances.sandswept_isles.force_fields" GUID="D99yERM6XEKgzyhIDEXA8g==" iconFile="Img/Numbers/1.png" fadeNear="1500" fadeFar="2000" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="1271" xpos="-371.29" ypos="5.5" zpos="27.21"  type="assistances.sandswept_isles.force_fields" GUID="+gD9xK7eYUCf2joFop3MRg==" iconFile="Img/Numbers/2.png" fadeNear="1500" fadeFar="2000" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="1271" xpos="-371.14" ypos="5.5" zpos="31.21"  type="assistances.sandswept_isles.force_fields" GUID="HEC4HqPBr0+WTwg//7oxew==" iconFile="Img/Numbers/3.png" fadeNear="1500" fadeFar="2000" mapVisibility="0" miniMapVisibility="0"/>
+
+	</POIs>
+</OverlayData>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+POIs: BoyC.2653
+Date: 2017/01/18
+-->
+<OverlayData>
+	<MarkerCategory name="festivals" DisplayName="Seasonal Events">
+		<MarkerCategory name="nouvel_an_lunaire" DisplayName="Lunar New Year">
+			<MarkerCategory name="petards_porte_Bonheur" DisplayName="Firecracker (several achievements)" iconFile="Img\NouvelAnLunaire.png" heightOffset="3.5" behavior="2"/>
+		</MarkerCategory>
+	</MarkerCategory>
+	
+	<POIs>
+
+		<POI MapID="18" xpos="-376.19" ypos="65.31" zpos="-91.51" type="festivals.nouvel_an_lunaire.petards_porte_bonheur" GUID="4ph/qp0XxE+1xBrFKB66+g=="/>
+		<POI MapID="18" xpos="-352.03" ypos="43.2" zpos="-56.29" type="festivals.nouvel_an_lunaire.petards_porte_bonheur" GUID="fGpPw/vn/U6KCY3y73ap9w=="/>
+		<POI MapID="18" xpos="-291.85" ypos="65.47" zpos="16.82" type="festivals.nouvel_an_lunaire.petards_porte_bonheur" GUID="dJASyiIDiEO+MI6qwaZOMQ=="/>
+		<POI MapID="18" xpos="-264.62" ypos="60.58" zpos="38.87" type="festivals.nouvel_an_lunaire.petards_porte_bonheur" GUID="BlU65DJ9YEGfZUqEyWeRzQ=="/>
+		<POI MapID="18" xpos="-251.34" ypos="68.19" zpos="33.88" type="festivals.nouvel_an_lunaire.petards_porte_bonheur" GUID="aWNI7dpTiEqOjXSODSShCA=="/>
+		<POI MapID="18" xpos="-223.66" ypos="60.58" zpos="-164.71" type="festivals.nouvel_an_lunaire.petards_porte_bonheur" GUID="7GOzFq7UYkyf5zgaM5Sdlw=="/>
+		<POI MapID="18" xpos="-214.87" ypos="60.85" zpos="-64.42" type="festivals.nouvel_an_lunaire.petards_porte_bonheur" GUID="CbM8SxGfsk2anSJYO05Q6w=="/>
+		<POI MapID="18" xpos="-198.93" ypos="71.99" zpos="-48.23" type="festivals.nouvel_an_lunaire.petards_porte_bonheur" GUID="HI38S6B7GUiWuIMVFIj/cg=="/>
+		<POI MapID="18" xpos="-198.12" ypos="71.99" zpos="-66.75" type="festivals.nouvel_an_lunaire.petards_porte_bonheur" GUID="aK4UTlX1FUSGE/livl1GAg=="/>
+		<POI MapID="18" xpos="-184.25" ypos="63.81" zpos="8.18" type="festivals.nouvel_an_lunaire.petards_porte_bonheur" GUID="/hkY3lfTTUCiIhgTGOTNyw=="/>
+
+	</POIs>
+</OverlayData>

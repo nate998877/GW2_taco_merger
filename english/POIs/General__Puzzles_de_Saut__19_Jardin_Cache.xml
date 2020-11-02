@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+POIs: Cloud Strife.7492 - ReActif.9251 - Xenophy.2716
+Date: 2017/08/23
+-->
+<OverlayData>
+	<MarkerCategory name="general" DisplayName="General">
+		<MarkerCategory name="puzzles_de_saut" DisplayName="Jumping Puzzles" iconFile="Img\Guide.png" iconSize="0.75">
+			<MarkerCategory name="jardin_cache" DisplayName="Hidden Garden"/>
+		</MarkerCategory>
+	</MarkerCategory>
+
+	<POIs>
+
+		<!-- Entrée : "Gardiens de la Terre" -->
+		<POI MapID="39" xpos="-845.7" ypos="50.6801" zpos="322.078" type="general.puzzles_de_saut.debut" GUID="dyk4JYxMd0ipWzQWetNqRw=="/>
+
+		<!-- Entrée : "Gardien de la Lumiere" -->
+		<POI MapID="39" xpos="-118.764" ypos="77.6269" zpos="-32.9492" type="general.puzzles_de_saut.debut" GUID="DyuOIWaqUE6iFD2vGP3DzQ=="/>
+
+		<!-- Entrée : "Gardien des vagues" -->
+		<POI MapID="39" xpos="261.863" ypos="-0.679249" zpos="271.471" type="general.puzzles_de_saut.debut" GUID="it049weu8U6bVNtKPiuUcw=="/>
+
+		<!-- Entrée : "Gardien des Vents" -->
+		<POI MapID="39" xpos="647.267" ypos="16.4181" zpos="-436.883" type="general.puzzles_de_saut.debut" GUID="zFDmaXSwvUKNmIKxxxAYIw=="/>
+
+		<!-- Fragment de Terre -->
+		<POI MapID="39" xpos="1071.88" ypos="22" zpos="503.64" type="general.puzzles_de_saut.debut" GUID="knYXDOznR0+ytnyjwsIQsw==" iconFile="Img\1.png" color="ffff7f00"/>
+		<POI MapID="39" xpos="1071.88" ypos="20" zpos="503.64" type="general.puzzles_de_saut.debut" GUID="dewaOmWFOUiG3EUmcikt5g=="/>
+		<POI MapID="39" xpos="1071.88" ypos="24" zpos="503.64" type="general.puzzles_de_saut.jardin_cache" iconFile="Img\FragmentDeTerre.png" GUID="nrwk9VmMZUyqRZkLPYMPCg=="/>
+
+		<!-- Fragment de Mer -->
+		<POI MapID="39" xpos="1125.31" ypos="1" zpos="351.64" type="general.puzzles_de_saut.debut" GUID="AZf40IffN0av5fxccNtXdg==" iconFile="Img\2.png" color="ff00ffff"/>
+		<POI MapID="39" xpos="1125.31" ypos="-1" zpos="351.64" type="general.puzzles_de_saut.debut" GUID="7n5DZoxIBECimWCejhYhlw=="/>
+		<Route MapID="39" name="Jardin_Cache_Mer" resetposx="1125.31" resetposy="-1.05639" resetposz="351.636" resetrange="2">
+			<POI MapID="39" xpos="1127.19" ypos="-1.05639" zpos="340.411" type="general.puzzles_de_saut.jardin_cache" GUID="hd6omHJ69UalSFRv/i8EFA=="/>
+			<POI MapID="39" xpos="1128.79" ypos="-0.867104" zpos="330.028" type="general.puzzles_de_saut.jardin_cache" GUID="KkfLDy00fkGlRa4U8SgIRA=="/>
+			<POI MapID="39" xpos="1129.84" ypos="-0.46285" zpos="319.792" type="general.puzzles_de_saut.jardin_cache" GUID="D0c46gxHV0KlN+Fnp/Nm3g=="/>
+			<POI MapID="39" xpos="1127.96" ypos="-0.67626" zpos="309.674" type="general.puzzles_de_saut.jardin_cache" GUID="pJvQ31+rjUOu2MkLPKZqAg=="/>
+			<POI MapID="39" xpos="1124.64" ypos="-0.482949" zpos="300.129" type="general.puzzles_de_saut.jardin_cache" GUID="Ie+gVq2lgEOrjtEI4rrMow=="/>
+			<POI MapID="39" xpos="1123.9" ypos="0.000370892" zpos="289.209" type="general.puzzles_de_saut.jardin_cache" GUID="S+dvM4pNx0GHtSrSObz6YQ=="/>
+			<POI MapID="39" xpos="1121.91" ypos="0.141462" zpos="280.122" type="general.puzzles_de_saut.jardin_cache" GUID="xZ+lb+NZOkOzqYYv27rZIA=="/>
+			<POI MapID="39" xpos="1125.06" ypos="-0.444191" zpos="269.686" type="general.puzzles_de_saut.jardin_cache" GUID="8VOYWxBsR0GBAVv9Sj4WGA=="/>
+			<POI MapID="39" xpos="1125.77" ypos="4.83468" zpos="264.891" type="general.puzzles_de_saut.jardin_cache" GUID="qbgXDnrn8k+9XoEo7yhMHg=="/>
+			<POI MapID="39" xpos="1131.87" ypos="5.59649" zpos="266.863" type="general.puzzles_de_saut.jardin_cache" GUID="Ycv4QMkv9UmWEeL8p5Zf3g=="/>
+			<POI MapID="39" xpos="1136.05" ypos="8.49678" zpos="267.142" type="general.puzzles_de_saut.jardin_cache" GUID="8t8aSmz5LUKR4YeyRX0ZAA=="/>
+			<POI MapID="39" xpos="1133.74" ypos="9.94209" zpos="275.964" type="general.puzzles_de_saut.jardin_cache" GUID="nPpHdkgvsEuS5HtoOc/M2A=="/>
+			<POI MapID="39" xpos="1140.67" ypos="10.5375" zpos="276.662" type="general.puzzles_de_saut.jardin_cache" GUID="TEpazYJyw0mZkqN8javDvw=="/>
+			<POI MapID="39" xpos="1144.88" ypos="15.2124" zpos="284.032" type="general.puzzles_de_saut.jardin_cache" GUID="NSqSe45+jUGIxsUee0SnlA=="/>
+			<POI MapID="39" xpos="1149.05" ypos="18.3182" zpos="279.943" type="general.puzzles_de_saut.jardin_cache" GUID="edQrWdURH0qAQ09qs1jgGQ=="/>
+			<POI MapID="39" xpos="1146.11" ypos="20.6194" zpos="274.822" type="general.puzzles_de_saut.jardin_cache" GUID="vQ+FPkLneUenrgD4OBf22w=="/>
+			<POI MapID="39" xpos="1150.46" ypos="24.1026" zpos="273.901" type="general.puzzles_de_saut.jardin_cache" GUID="ErKnkqjRw0OIbW0mUgx3pw=="/>
+			<POI MapID="39" xpos="1147.11" ypos="27.382" zpos="267.371" type="general.puzzles_de_saut.jardin_cache" GUID="RXIPZtO72k6OD0TOeb6jbw=="/>
+			<POI MapID="39" xpos="1145" ypos="27.2297" zpos="262.969" type="general.puzzles_de_saut.jardin_cache" GUID="ZMlG39N/a02gxFcVQqaSrw=="/>
+			<POI MapID="39" xpos="1142.9" ypos="29.0505" zpos="258.092" type="general.puzzles_de_saut.jardin_cache" GUID="j9TDgUwtl0KfaS1ePMws1w=="/>
+			<POI MapID="39" xpos="1141.36" ypos="29.71" zpos="254.852" type="general.puzzles_de_saut.jardin_cache" GUID="5dWTsqzk0kS+iSN2HLKMvg=="/>
+			<POI MapID="39" xpos="1137.23" ypos="29.0712" zpos="258.897" type="general.puzzles_de_saut.jardin_cache" GUID="2khx6QVMCE2kI2tLcaA22Q=="/>
+			<POI MapID="39" xpos="1132.27" ypos="28.9182" zpos="262.968" type="general.puzzles_de_saut.jardin_cache" GUID="fbQoeNNVAkmcl+YFsRQrWQ=="/>
+			<POI MapID="39" xpos="1126.26" ypos="28.1286" zpos="267.907" type="general.puzzles_de_saut.jardin_cache" GUID="qRV6frf6SUWmlHLDEyBlaQ=="/>
+			<POI MapID="39" xpos="1122.12" ypos="29.6366" zpos="272.422" type="general.puzzles_de_saut.jardin_cache" GUID="v3W8sdrRYU2CZD80yYVhEQ=="/>
+			<POI MapID="39" xpos="1125.87" ypos="28.9524" zpos="276.274" type="general.puzzles_de_saut.jardin_cache" GUID="3P8EvDMvLUiWg+sy5F+oRw=="/>
+			<POI MapID="39" xpos="1129.54" ypos="30.2571" zpos="278.829" type="general.puzzles_de_saut.jardin_cache" GUID="Ec8usLqQNE+o8M8q8Bn1Hw=="/>
+			<POI MapID="39" xpos="1134.78" ypos="31.8954" zpos="282.699" type="general.puzzles_de_saut.jardin_cache" GUID="bDO6L0fg80ilJKIPqKhehQ=="/>
+			<POI MapID="39" xpos="1139.15" ypos="33.1579" zpos="286.2" type="general.puzzles_de_saut.jardin_cache" GUID="1JGHl0v7dEK1KVPHEZXx3w=="/>
+			<POI MapID="39" xpos="1143.81" ypos="34.3421" zpos="290.113" type="general.puzzles_de_saut.jardin_cache" GUID="rBQWCg+UiE6G/LiBB4soLg=="/>
+			<POI MapID="39" xpos="1148.58" ypos="35.1618" zpos="293.805" type="general.puzzles_de_saut.jardin_cache" GUID="StWHuNXg5kyjfElAEgBung=="/>
+			<POI MapID="39" xpos="1152.57" ypos="37.1316" zpos="297.041" type="general.puzzles_de_saut.jardin_cache" GUID="g9uCy65Os063LIfsKy+bpg=="/>
+			<POI MapID="39" xpos="1155.1" ypos="41.5786" zpos="301.079" type="general.puzzles_de_saut.jardin_cache" GUID="enDBYcJHDEyLZWqfAiQU2A=="/>
+			<POI MapID="39" xpos="1154.36" ypos="46.3584" zpos="307.272" type="general.puzzles_de_saut.jardin_cache" GUID="lUqxH5JdlUemdgZV5JzraA=="/>
+			<POI MapID="39" xpos="1149.82" ypos="47.5763" zpos="313.663" type="general.puzzles_de_saut.jardin_cache" GUID="kJOnn6gHekGK5q08ULM1yQ=="/>
+			<POI MapID="39" xpos="1142.12" ypos="47.8293" zpos="318.007" type="general.puzzles_de_saut.jardin_cache" GUID="aTHmcGFcCUqmwQrH9tTgBg=="/>
+			<POI MapID="39" xpos="1132.97" ypos="47.8163" zpos="321.091" type="general.puzzles_de_saut.jardin_cache" GUID="2NbsQM+x1E6sTRwPYqu0lw=="/>
+			<POI MapID="39" xpos="1124.14" ypos="45.6994" zpos="326.325" type="general.puzzles_de_saut.jardin_cache" GUID="6tVVYcT8DUuCiREh8WMXcQ=="/>
+		</Route>
+		<POI MapID="39" xpos="1120.59" ypos="43.73" zpos="334.33" type="general.puzzles_de_saut.jardin_cache" GUID="+krC3dO1B0+cM/BZndP0hw==" iconFile="Img\FragmentDeMer.png"/>
+
+		<!-- Fragment de Ciel -->
+		<POI MapID="39" xpos="1052.42" ypos="5" zpos="648.9" type="general.puzzles_de_saut.debut" GUID="7TChM4Mz6k6rADP0nryjJQ==" iconFile="Img\3.png" color="ff00ff00"/>
+		<POI MapID="39" xpos="1052.42" ypos="3" zpos="648.9" type="general.puzzles_de_saut.debut" GUID="tMTewdS4lU2F9g7f34dF4A=="/>
+		<Route MapID="39" name="Jardin_Cache_Ciel" resetposx="1052.42" resetposy="3.24296" resetposz="648.9" resetrange="2">
+			<POI MapID="39" xpos="1054.03" ypos="4.61452" zpos="660.423" type="general.puzzles_de_saut.jardin_cache" GUID="qSD5xmaTnUW8xraJ5geTBA=="/>
+			<POI MapID="39" xpos="1055.66" ypos="8.55748" zpos="672.13" type="general.puzzles_de_saut.jardin_cache" GUID="Mseqwv/280ec+n6M38SihQ=="/>
+			<POI MapID="39" xpos="1060.08" ypos="12.6225" zpos="681.491" type="general.puzzles_de_saut.jardin_cache" GUID="JB6NrOldZE6TJa9b1wvc9A=="/>
+			<POI MapID="39" xpos="1069.53" ypos="17.8384" zpos="685.861" type="general.puzzles_de_saut.jardin_cache" GUID="AgyAzp2oW0m1OGSh1ARTrw=="/>
+			<POI MapID="39" xpos="1078.7" ypos="24.123" zpos="691.838" type="general.puzzles_de_saut.jardin_cache" GUID="7KmNwzLH9kmlmuf7uJ9zbA=="/>
+			<POI MapID="39" xpos="1086.59" ypos="30.2104" zpos="687.826" type="general.puzzles_de_saut.jardin_cache" GUID="AipQbNeLWU6aoeZcUspSJg=="/>
+			<POI MapID="39" xpos="1077.39" ypos="29.5793" zpos="680.072" type="general.puzzles_de_saut.jardin_cache" GUID="+QrBMIooTUSOTkUAJkXFHg=="/>
+			<POI MapID="39" xpos="1071.5" ypos="30.5944" zpos="678.177" type="general.puzzles_de_saut.jardin_cache" GUID="i20C9QttuEqqQkaHcMTdgQ=="/>
+			<POI MapID="39" xpos="1064.61" ypos="31.9479" zpos="674.717" type="general.puzzles_de_saut.jardin_cache" GUID="anwMW8UsC0iTQ7R/ed15Sw=="/>
+			<POI MapID="39" xpos="1060.24" ypos="32.8781" zpos="672.904" type="general.puzzles_de_saut.jardin_cache" GUID="cvbQhQLvl0W3FQKXWUlGFQ=="/>
+			<POI MapID="39" xpos="1049.84" ypos="34.9122" zpos="667.7" type="general.puzzles_de_saut.jardin_cache" GUID="G0vBZEg+XUGw4qZkqNaazA=="/>
+			<POI MapID="39" xpos="1039.48" ypos="33.5004" zpos="672.382" type="general.puzzles_de_saut.jardin_cache" GUID="oxkfD5dG8E+5UrfR681UNg=="/>
+			<POI MapID="39" xpos="1034.27" ypos="34.8737" zpos="672.352" type="general.puzzles_de_saut.jardin_cache" GUID="1B85pYX5LU2/CBGD/xOVRQ=="/>
+			<POI MapID="39" xpos="1038.29" ypos="37.4757" zpos="674.427" type="general.puzzles_de_saut.jardin_cache" GUID="jyZf4sjh3EKfkM89fdKRCA=="/>
+			<POI MapID="39" xpos="1044.93" ypos="39.1904" zpos="677.469" type="general.puzzles_de_saut.jardin_cache" GUID="UaexPwLE0kC5qZ2pdziEww=="/>
+			<POI MapID="39" xpos="1051.82" ypos="40.1104" zpos="680.771" type="general.puzzles_de_saut.jardin_cache" GUID="IW/mxotsF0mq9OeNdRTu0Q=="/>
+			<POI MapID="39" xpos="1055.94" ypos="39.9012" zpos="682.988" type="general.puzzles_de_saut.jardin_cache" GUID="k1vXarvwM0STdlSK9rJjHg=="/>
+			<POI MapID="39" xpos="1061.49" ypos="39.6092" zpos="685.053" type="general.puzzles_de_saut.jardin_cache" GUID="Ax3bHavgEkaBTa1Qfiq/AQ=="/>
+			<POI MapID="39" xpos="1067.38" ypos="41.0835" zpos="689.767" type="general.puzzles_de_saut.jardin_cache" GUID="jufvmjCuCUigcmFxp4eF3g=="/>
+			<POI MapID="39" xpos="1073.03" ypos="43.3815" zpos="692.392" type="general.puzzles_de_saut.jardin_cache" GUID="/MtXtj6yeEKNevFj0u6sjw=="/>
+			<POI MapID="39" xpos="1082.38" ypos="41.4709" zpos="695.165" type="general.puzzles_de_saut.jardin_cache" GUID="C5wGJxXohUmVw5XTFZED+A=="/>
+			<POI MapID="39" xpos="1087.38" ypos="42.0652" zpos="692.447" type="general.puzzles_de_saut.jardin_cache" GUID="XL/1WirTakGkCTbivoN3TQ=="/>
+			<POI MapID="39" xpos="1090.11" ypos="44.2084" zpos="688.092" type="general.puzzles_de_saut.jardin_cache" GUID="dfT4M/nm10Wx0ze9JJbVTA=="/>
+			<POI MapID="39" xpos="1092.13" ypos="45.8658" zpos="689.812" type="general.puzzles_de_saut.jardin_cache" GUID="b/d64nBy40S2mYSFEVCLVA=="/>
+			<POI MapID="39" xpos="1096.31" ypos="47.6298" zpos="689.624" type="general.puzzles_de_saut.jardin_cache" GUID="bH6nwiB4yEu6mkkDaFAzSw=="/>
+			<POI MapID="39" xpos="1103.12" ypos="48.8235" zpos="686.324" type="general.puzzles_de_saut.jardin_cache" GUID="i59ySsxXJ0mTFxKjytr9xw=="/>
+			<POI MapID="39" xpos="1110.5" ypos="48.3727" zpos="682.742" type="general.puzzles_de_saut.jardin_cache" GUID="ZFJLajr2HEunMIIg5wwz6w=="/>
+			<POI MapID="39" xpos="1119.2" ypos="49.6369" zpos="674.674" type="general.puzzles_de_saut.jardin_cache" GUID="Z1NP0QD/+UOzTh4wAnpGYQ=="/>
+			<POI MapID="39" xpos="1128.73" ypos="49.1095" zpos="666.223" type="general.puzzles_de_saut.jardin_cache" GUID="cCNBrUZyuEqxjkApbye6jg=="/>
+			<POI MapID="39" xpos="1135.9" ypos="53.1193" zpos="659.399" type="general.puzzles_de_saut.jardin_cache" GUID="n88TQmDme0e9pOxoqdHtew=="/>
+			<POI MapID="39" xpos="1140.24" ypos="56.0356" zpos="655.829" type="general.puzzles_de_saut.jardin_cache" GUID="oqAWQUp770K6dWCpuLoBsw=="/>
+			<POI MapID="39" xpos="1141.71" ypos="58.1627" zpos="652.48" type="general.puzzles_de_saut.jardin_cache" GUID="PKEZc1Cvr062Kuj2wqEGUQ=="/>
+			<POI MapID="39" xpos="1143.79" ypos="60.3717" zpos="653.067" type="general.puzzles_de_saut.jardin_cache" GUID="crPgE2hmBUu4KPKapetmJQ=="/>
+			<POI MapID="39" xpos="1147" ypos="63.6463" zpos="651.721" type="general.puzzles_de_saut.jardin_cache" GUID="lOCCQKZFL0W+gyE6SXJFYQ=="/>
+			<POI MapID="39" xpos="1150.21" ypos="67.5584" zpos="653.154" type="general.puzzles_de_saut.jardin_cache" GUID="RLHkCb8QZUy3s4+pimqX/Q=="/>
+			<POI MapID="39" xpos="1150.98" ypos="68.8903" zpos="649.232" type="general.puzzles_de_saut.jardin_cache" GUID="WZmuwJe7HkWwJZbp2xe42w=="/>
+			<POI MapID="39" xpos="1153.67" ypos="71.6258" zpos="651.458" type="general.puzzles_de_saut.jardin_cache" GUID="R6UM3h8HHkWP53A7LnxBKw=="/>
+			<POI MapID="39" xpos="1156.28" ypos="74.9965" zpos="651.621" type="general.puzzles_de_saut.jardin_cache" GUID="mPOqIzQVi0ye3jLOLHKNlA=="/>
+			<POI MapID="39" xpos="1151.68" ypos="75.4635" zpos="656.724" type="general.puzzles_de_saut.jardin_cache" GUID="qWaME1aIWk6zGK2fIlQSnA=="/>
+			<POI MapID="39" xpos="1146.85" ypos="76.6616" zpos="660.216" type="general.puzzles_de_saut.jardin_cache" GUID="WdMNHxSZ20S8SF0rjzqWWg=="/>
+			<POI MapID="39" xpos="1141.84" ypos="78.4911" zpos="665.27" type="general.puzzles_de_saut.jardin_cache" GUID="rxioKqHDSk+4xC+NO7u5qA=="/>
+			<POI MapID="39" xpos="1136.68" ypos="79.0869" zpos="668.357" type="general.puzzles_de_saut.jardin_cache" GUID="hGag+qbKLk2/JFGfce+KLg=="/>
+			<POI MapID="39" xpos="1131.74" ypos="80.5521" zpos="671.469" type="general.puzzles_de_saut.jardin_cache" GUID="Jnlkf1JYV0eIzQQfu0+/lw=="/>
+			<POI MapID="39" xpos="1127.79" ypos="82.1563" zpos="675.444" type="general.puzzles_de_saut.jardin_cache" GUID="DZSv2gSAJEuJCSr35jE/KA=="/>
+			<POI MapID="39" xpos="1121.93" ypos="83.362" zpos="677.387" type="general.puzzles_de_saut.jardin_cache" GUID="pCi8ERWs+EKdEbvsrSyPfg=="/>
+			<POI MapID="39" xpos="1115.87" ypos="83.1439" zpos="676.829" type="general.puzzles_de_saut.jardin_cache" GUID="p+lQtl93e0CNiFTIYrAodg=="/>
+			<POI MapID="39" xpos="1112.29" ypos="85.3367" zpos="680.595" type="general.puzzles_de_saut.jardin_cache" GUID="yWiqubUOMUO+SwkhSGpoqg=="/>
+			<POI MapID="39" xpos="1105.49" ypos="85.6737" zpos="680.288" type="general.puzzles_de_saut.jardin_cache" GUID="tU9O+zAeqESClGYBJfcyEA=="/>
+			<POI MapID="39" xpos="1098.82" ypos="86.4035" zpos="679.126" type="general.puzzles_de_saut.jardin_cache" GUID="+eusc+CHZUePRaT4oobgpw=="/>
+			<POI MapID="39" xpos="1087.98" ypos="86.0634" zpos="673.57" type="general.puzzles_de_saut.jardin_cache" GUID="9K2tk/c9U02ITeJ3Se5iew=="/>
+			<POI MapID="39" xpos="1087.63" ypos="87.4896" zpos="663.438" type="general.puzzles_de_saut.jardin_cache" GUID="TC633gERsUa17cMIbtNmeQ=="/>
+			<POI MapID="39" xpos="1087.56" ypos="89.9369" zpos="656.044" type="general.puzzles_de_saut.jardin_cache" GUID="6oAPp5umNUmECDO9wSRlSQ=="/>
+			<POI MapID="39" xpos="1086.99" ypos="91.9295" zpos="648.872" type="general.puzzles_de_saut.jardin_cache" GUID="dFvoo7ExnkGYcRgNwiO5yQ=="/>
+			<POI MapID="39" xpos="1084.56" ypos="94.062" zpos="643.8" type="general.puzzles_de_saut.jardin_cache" GUID="D6haTddKF0SOS+CnInDZqQ=="/>
+			<POI MapID="39" xpos="1075.01" ypos="94.3918" zpos="645.575" type="general.puzzles_de_saut.jardin_cache" GUID="mtkch5f8xU6m0VFL3yHVkA=="/>
+			<POI MapID="39" xpos="1072.5" ypos="95.3128" zpos="652.572" type="general.puzzles_de_saut.jardin_cache" GUID="IeIp4crznUi8+gY78mYOXQ=="/>
+			<POI MapID="39" xpos="1065.78" ypos="94.7673" zpos="655.868" type="general.puzzles_de_saut.jardin_cache" GUID="pPvoZN6kdkClGXSGa5cWsw=="/>
+			<POI MapID="39" xpos="1059.43" ypos="96.3362" zpos="660.441" type="general.puzzles_de_saut.jardin_cache" GUID="k10PLe6EkU2j14F7Jw993g=="/>
+			<POI MapID="39" xpos="1054.32" ypos="98.69" zpos="658.654" type="general.puzzles_de_saut.jardin_cache" GUID="47MbD54Qr0iaREHOI5h+eQ=="/>
+			<POI MapID="39" xpos="1049.79" ypos="101.57" zpos="658.317" type="general.puzzles_de_saut.jardin_cache" GUID="UqqdS8QvzkieOwqfvmJTZg=="/>
+			<POI MapID="39" xpos="1052.57" ypos="104.207" zpos="661.962" type="general.puzzles_de_saut.jardin_cache" GUID="S8BkvQCrEk2ZewBQ+t5UrA=="/>
+			<POI MapID="39" xpos="1056.37" ypos="105.769" zpos="663.509" type="general.puzzles_de_saut.jardin_cache" GUID="UI2wGIVkmEacV9TXefcDSg=="/>
+			<POI MapID="39" xpos="1060.07" ypos="108.724" zpos="665.626" type="general.puzzles_de_saut.jardin_cache" GUID="woG/bMY4U0uNpz/54FuZbw=="/>
+			<POI MapID="39" xpos="1063.56" ypos="110.782" zpos="672.741" type="general.puzzles_de_saut.jardin_cache" GUID="JpUwtdrZZkasjRlRpgteyQ=="/>
+			<POI MapID="39" xpos="1067.41" ypos="111.281" zpos="676.971" type="general.puzzles_de_saut.jardin_cache" GUID="CZrtOLJ/bkiBAPe+js5meA=="/>
+		</Route>
+		<POI MapID="39" xpos="1071.57" ypos="113.69" zpos="685.51" type="general.puzzles_de_saut.jardin_cache" GUID="7Hpklj+df0SM82S252ly0g==" iconFile="Img\FragmentDeCiel.png"/>
+
+		<!-- Fragment de Soleil -->
+		<POI MapID="39" xpos="1093.97" ypos="52" zpos="498.45" type="general.puzzles_de_saut.debut" GUID="Jd5WCSSEoUGofRUE60v7DA==" iconFile="Img\4.png" color="ffffff00"/>
+		<POI MapID="39" xpos="1093.97" ypos="50" zpos="498.45" type="general.puzzles_de_saut.debut" GUID="NzZQFw5f5EOGdeOcXtKblQ=="/>
+		<Route MapID="39" name="Jardin_Cache_Soleil" resetposx="1093.97" resetposy="50.57" resetposz="498.45" resetrange="2">
+			<POI MapID="39" xpos="1087.04" ypos="49.9554" zpos="493.959" type="general.puzzles_de_saut.jardin_cache" GUID="j6WXbzmfc0+Sr8PC0HEHAw=="/>
+			<POI MapID="39" xpos="1086.89" ypos="51.5788" zpos="488.737" type="general.puzzles_de_saut.jardin_cache" GUID="UoBWPoDmIUa55S5Ie55lkw=="/>
+			<POI MapID="39" xpos="1084.36" ypos="52.9801" zpos="482.422" type="general.puzzles_de_saut.jardin_cache" GUID="9b5xYELJtE2y6VvvU+HEiw=="/>
+			<POI MapID="39" xpos="1081.76" ypos="55.4042" zpos="484.599" type="general.puzzles_de_saut.jardin_cache" GUID="QG7u72g+nUyjf8WeDjUpgg=="/>
+			<POI MapID="39" xpos="1081.58" ypos="57.5327" zpos="487.608" type="general.puzzles_de_saut.jardin_cache" GUID="TD6JvVU8C06Eh/1nMUbEFg=="/>
+			<POI MapID="39" xpos="1079.06" ypos="60.6046" zpos="491.802" type="general.puzzles_de_saut.jardin_cache" GUID="N7QIeMhN+02RZq1PetG7Bg=="/>
+			<POI MapID="39" xpos="1075.96" ypos="64.653" zpos="495.909" type="general.puzzles_de_saut.jardin_cache" GUID="uE8etliOoEeuX9QOGTmTZQ=="/>
+			<POI MapID="39" xpos="1073.9" ypos="65.9469" zpos="501.555" type="general.puzzles_de_saut.jardin_cache" GUID="DKZGwVXz3UGjwtZemo/3wA=="/>
+			<POI MapID="39" xpos="1069.26" ypos="64.3039" zpos="505" type="general.puzzles_de_saut.jardin_cache" GUID="hbnQCxOYT0WiT1L6RIbV3Q=="/>
+			<POI MapID="39" xpos="1061.58" ypos="63.6782" zpos="504.491" type="general.puzzles_de_saut.jardin_cache" GUID="/IeQnSGLD0WfGD7BGpfaCQ=="/>
+			<POI MapID="39" xpos="1059.53" ypos="64.0723" zpos="500.388" type="general.puzzles_de_saut.jardin_cache" GUID="jEpq6lqeVEOgxmHJlp1Qig=="/>
+			<POI MapID="39" xpos="1057.47" ypos="63.2064" zpos="495.127" type="general.puzzles_de_saut.jardin_cache" GUID="VcrMh2R+CUeJnkRHFHEdpg=="/>
+			<POI MapID="39" xpos="1057.47" ypos="64.7178" zpos="492.147" type="general.puzzles_de_saut.jardin_cache" GUID="5Wh2YoMukUSDS1fS37T8zA=="/>
+			<POI MapID="39" xpos="1060.05" ypos="65.9388" zpos="489.904" type="general.puzzles_de_saut.jardin_cache" GUID="be6HU1Wda0G5e51AlSQ3VQ=="/>
+			<POI MapID="39" xpos="1064.71" ypos="67.5119" zpos="491.866" type="general.puzzles_de_saut.jardin_cache" GUID="NBOpGg9dLEulR8Mtpjd4Eg=="/>
+			<POI MapID="39" xpos="1068.61" ypos="69.2318" zpos="492.544" type="general.puzzles_de_saut.jardin_cache" GUID="1Ie0GdJnZkC1l1hz/ZlVwQ=="/>
+			<POI MapID="39" xpos="1071.04" ypos="71.1419" zpos="493.674" type="general.puzzles_de_saut.jardin_cache" GUID="LbTW6fw37EuNzt5UrO6Cow=="/>
+			<POI MapID="39" xpos="1072.9" ypos="72.6427" zpos="496.001" type="general.puzzles_de_saut.jardin_cache" GUID="uNvH8yWcJEGP16jYLFRnxg=="/>
+			<POI MapID="39" xpos="1073.86" ypos="74.386" zpos="498.427" type="general.puzzles_de_saut.jardin_cache" GUID="XGYWsnXZgEKUycwIS2n/mA=="/>
+			<POI MapID="39" xpos="1069.67" ypos="76.1392" zpos="497.231" type="general.puzzles_de_saut.jardin_cache" GUID="7ag4AqhdL0yITbvIZvtaDQ=="/>
+			<POI MapID="39" xpos="1071.2" ypos="78.8845" zpos="500.214" type="general.puzzles_de_saut.jardin_cache" GUID="IDSw851Fo02xjVL+gm3r1A=="/>
+			<POI MapID="39" xpos="1075.85" ypos="82.0739" zpos="502.416" type="general.puzzles_de_saut.jardin_cache" GUID="7qvGA3bTMUW57Zg7ZRQABQ=="/>
+			<POI MapID="39" xpos="1080.83" ypos="81.7028" zpos="505.661" type="general.puzzles_de_saut.jardin_cache" GUID="Ov053zdCtUquHzO4mXDHVg=="/>
+			<POI MapID="39" xpos="1081.88" ypos="78.5778" zpos="510.371" type="general.puzzles_de_saut.jardin_cache" GUID="aXIqsOEbbESCQrnf8XeN2Q=="/>
+			<POI MapID="39" xpos="1083.65" ypos="76.0144" zpos="514.349" type="general.puzzles_de_saut.jardin_cache" GUID="TkP214MTe0Gl6QP9HfEuzA=="/>
+			<POI MapID="39" xpos="1084.17" ypos="78.4059" zpos="518.171" type="general.puzzles_de_saut.jardin_cache" GUID="V8B2rdrxGUelNVk8uqOrgw=="/>
+			<POI MapID="39" xpos="1080.67" ypos="80.2987" zpos="520.535" type="general.puzzles_de_saut.jardin_cache" GUID="suUHtHwE4kyqR2TeJOEgRA=="/>
+			<POI MapID="39" xpos="1077.12" ypos="82.5619" zpos="522.465" type="general.puzzles_de_saut.jardin_cache" GUID="K8SxZT19XUaDIKHtkzJhPQ=="/>
+			<POI MapID="39" xpos="1075.44" ypos="84.5146" zpos="526.38" type="general.puzzles_de_saut.jardin_cache" GUID="8XSYllY4RkaVGtyXHXCCRg=="/>
+			<POI MapID="39" xpos="1077.76" ypos="84.7402" zpos="530.62" type="general.puzzles_de_saut.jardin_cache" GUID="zSEOmbjK2UqP1ve1tmOxoA=="/>
+			<POI MapID="39" xpos="1079.32" ypos="85.3352" zpos="533.912" type="general.puzzles_de_saut.jardin_cache" GUID="WIp9JqWE+0S3GT0AJoRnxQ=="/>
+			<POI MapID="39" xpos="1083.2" ypos="86.7458" zpos="532.652" type="general.puzzles_de_saut.jardin_cache" GUID="AfVB2DsyAUqW/2pbSweAuw=="/>
+			<POI MapID="39" xpos="1081.84" ypos="89.8134" zpos="530.106" type="general.puzzles_de_saut.jardin_cache" GUID="Ff/WcQ+FVUKuJ0H5gM5jmQ=="/>
+			<POI MapID="39" xpos="1077.33" ypos="90.378" zpos="527.133" type="general.puzzles_de_saut.jardin_cache" GUID="riX+cdbl3kyK6qvzgYWDow=="/>
+			<POI MapID="39" xpos="1072.71" ypos="90.6199" zpos="524.661" type="general.puzzles_de_saut.jardin_cache" GUID="DZ5UvOcpG0CnVHnzdSs56A=="/>
+			<POI MapID="39" xpos="1067.44" ypos="89.0192" zpos="523.253" type="general.puzzles_de_saut.jardin_cache" GUID="snCy1WUWq0W9xHW2LBN+rg=="/>
+			<POI MapID="39" xpos="1063.67" ypos="88.0022" zpos="521.152" type="general.puzzles_de_saut.jardin_cache" GUID="7eQW/29rQ0eEmbkrkQGyvw=="/>
+			<POI MapID="39" xpos="1059.33" ypos="87.243" zpos="518.731" type="general.puzzles_de_saut.jardin_cache" GUID="sZnRdghrjkipHoBHPxz1Yg=="/>
+			<POI MapID="39" xpos="1055.91" ypos="86.8023" zpos="515.885" type="general.puzzles_de_saut.jardin_cache" GUID="6Iwu4zIF9kiDZgwmGbRzSw=="/>
+			<POI MapID="39" xpos="1053.14" ypos="87.4312" zpos="512.022" type="general.puzzles_de_saut.jardin_cache" GUID="+yLiX3Fjq0mRVOCEVsScAQ=="/>
+			<POI MapID="39" xpos="1054.01" ypos="88.4433" zpos="508.557" type="general.puzzles_de_saut.jardin_cache" GUID="XNH/XTarD0K9hqfPVCr+KA=="/>
+			<POI MapID="39" xpos="1050.36" ypos="89.3545" zpos="508.461" type="general.puzzles_de_saut.jardin_cache" GUID="8O2++NrDeUegX6vv+geY8w=="/>
+			<POI MapID="39" xpos="1047.19" ypos="92.1968" zpos="507.284" type="general.puzzles_de_saut.jardin_cache" GUID="c4GeFtou0USGHmIZCVZJZQ=="/>
+			<POI MapID="39" xpos="1044.26" ypos="93.7685" zpos="505.3" type="general.puzzles_de_saut.jardin_cache" GUID="bD29q9zK30SS4oSkYI54Kw=="/>
+			<POI MapID="39" xpos="1038.41" ypos="91.7999" zpos="501.378" type="general.puzzles_de_saut.jardin_cache" GUID="AdeX58/zWUGkNLS0BDi8hg=="/>
+			<POI MapID="39" xpos="1036.56" ypos="92.1459" zpos="497.394" type="general.puzzles_de_saut.jardin_cache" GUID="7KIXNSnb3EC0q4ph47zLXQ=="/>
+			<POI MapID="39" xpos="1035.34" ypos="93.949" zpos="493.892" type="general.puzzles_de_saut.jardin_cache" GUID="sfRoCG98lky/GGMC4XzAUQ=="/>
+			<POI MapID="39" xpos="1037.26" ypos="95.5635" zpos="489.604" type="general.puzzles_de_saut.jardin_cache" GUID="EjOxEQvznU+JUIi1j4SUHw=="/>
+			<POI MapID="39" xpos="1039.5" ypos="97.8638" zpos="487.282" type="general.puzzles_de_saut.jardin_cache" GUID="qM/6X1U/t02JF/roi8M+YQ=="/>
+			<POI MapID="39" xpos="1043.24" ypos="99.5602" zpos="485.713" type="general.puzzles_de_saut.jardin_cache" GUID="Ei57KHnSlESVpa3OLvmhtg=="/>
+			<POI MapID="39" xpos="1046.39" ypos="102.226" zpos="482.447" type="general.puzzles_de_saut.jardin_cache" GUID="oIqWtE21DUm2QrB7YL6gsA=="/>
+			<POI MapID="39" xpos="1047.91" ypos="103.216" zpos="487.282" type="general.puzzles_de_saut.jardin_cache" GUID="rO+LVFTNZkWX3B3UbinNFA=="/>
+		</Route>
+		<POI MapID="39" xpos="1045.89" ypos="104.95" zpos="495.63" type="general.puzzles_de_saut.jardin_cache" GUID="PG9sw3KiqEWDtrUW0AMoaA==" iconFile="Img\FragmentDeSoleil.png"/>
+
+		<!-- Coffre -->
+		<POI MapID="39" xpos="1055.94" ypos="63.4758" zpos="509.322" type="general.puzzles_de_saut.jardin_cache" GUID="8rYY8XacG0mNEZNO7+So2g==" iconFile="Img\CoffrePuzzle.png" iconSize="1" heightOffset="2.5" behavior="2"/>
+
+	</POIs>
+</OverlayData>

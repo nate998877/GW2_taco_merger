@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+POIs: ReActif.9251
+Date: 2017/03/02
+-->
+<OverlayData>
+	<MarkerCategory name="chroniques.hot">
+		<MarkerCategory name="acte_1" DisplayName="Heart of Thorns : Act 1" iconFile="Img\HeartOfThornsActe1.png">
+			<MarkerCategory name="totems_des_itzels" DisplayName="Totems of the Itzel"/>
+		</MarkerCategory>
+	</MarkerCategory>
+
+	<POIs>
+
+		<!-- Grand Prêtre Capuul -->
+		<POI MapID="1037" xpos="723.96" ypos="319" zpos="233.35" type="chroniques.hot.acte_1.totems_des_itzels" GUID="JyG4fW1BxEGUGjM8pOGZCg==" heightOffset="4"/>
+
+		<!-- Totems -->
+		<POI MapID="1037" xpos="728.45" ypos="332.72" zpos="155.23" type="chroniques.hot.acte_1.totems_des_itzels" GUID="DK9szBKQZUacrXWBtFQoqQ=="/>
+		<POI MapID="1037" xpos="721.36" ypos="340.51" zpos="332.85" type="chroniques.hot.acte_1.totems_des_itzels" GUID="0L9l9eTHNUWvhH+nMAVo5Q=="/>
+		<POI MapID="1037" xpos="870.58" ypos="325.46" zpos="353.33" type="chroniques.hot.acte_1.totems_des_itzels" GUID="oBD2qB1SDkm3uwQHA27q5A=="/>
+		<POI MapID="1037" xpos="526.07" ypos="442.44" zpos="367.24" type="chroniques.hot.acte_1.totems_des_itzels" GUID="TBoko8ImJ0e6H0NxpoJRDw=="/>
+		<POI MapID="1037" xpos="528.27" ypos="414.05" zpos="294.62" type="chroniques.hot.acte_1.totems_des_itzels" GUID="vNYEVYfuX0uSanv/zDgh0A=="/>
+
+	</POIs>
+</OverlayData>

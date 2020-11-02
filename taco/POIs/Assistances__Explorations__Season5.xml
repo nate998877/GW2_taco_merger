@@ -1,0 +1,214 @@
+<!-- 2020.06.18 -->
+<OverlayData>
+	<POIs>
+
+		<!--
+		GROTHMAR VALLEY
+		-->
+		<Trail type="assistances.explorations.s5.grothmar_valley" GUID="16fzoNiWJUa9MzlyDirXJQ==" trailData="Data/Assistances/Exploration_Season5_GrothmarValley_1.trl" texture="Data/SemiLineMid.png" color="ff00ffff" alpha="0.8" fadeNear="3000" fadeFar="4000" animSpeed="1" miniMapVisibility="1" mapVisibility="1"/>
+		<Trail type="assistances.explorations.s5.grothmar_valley" GUID="SiBtWz4U1Eqm9Btq76j5BQ==" trailData="Data/Assistances/Exploration_Season5_GrothmarValley_2.trl" texture="Data/SemiLineMid.png" color="ff00ff00" alpha="0.8" fadeNear="3000" fadeFar="4000" animSpeed="1" miniMapVisibility="1" mapVisibility="1"/>
+		<Trail type="assistances.explorations.s5.grothmar_valley" GUID="jFHcGQ9z4Ea1n6uioGMJMw==" trailData="Data/Assistances/Exploration_Season5_GrothmarValley_3.trl" texture="Data/SemiLineMid.png" color="ffff0000" alpha="0.8" fadeNear="3000" fadeFar="4000" animSpeed="1" miniMapVisibility="1" mapVisibility="1"/>
+		<Trail type="assistances.explorations.s5.grothmar_valley" GUID="aK7/40KyuUaN4cIMTV+54Q==" trailData="Data/Assistances/Exploration_Season5_GrothmarValley_4.trl" texture="Data/SemiLineMid.png" color="ffffff00" alpha="0.8" fadeNear="3000" fadeFar="4000" animSpeed="1" miniMapVisibility="1" mapVisibility="1"/>
+		<Trail type="assistances.explorations.s5.grothmar_valley" GUID="8KacgRJRSUa2VDJCFwV5lA==" trailData="Data/Assistances/Exploration_Season5_GrothmarValley_5.trl" texture="Data/SemiLineMid.png" color="ffff00ff" alpha="0.8" fadeNear="3000" fadeFar="4000" animSpeed="1" miniMapVisibility="1" mapVisibility="1"/>
+		<!-- 1 -->
+		<POI MapID="1330" xpos="-310.786" ypos="29.6583" zpos="-42.8518" type="assistances.explorations.s5.grothmar_valley" GUID="0N7uVF1GDkGQWAmm1XHPZQ==" iconFile="Img/Assistances/Exploration.png"         minSize="24" heightOffset="0.5" fadeNear="-1" fadeFar="-1" miniMapVisibility="1" mapVisibility="1" mapDisplaySize="45"/>
+		<POI MapID="1330" xpos="-310.786" ypos="29.6583" zpos="-42.8518" type="assistances.explorations.s5.grothmar_valley" GUID="H7rLEtlZY0+oSs+Fcjs0+Q==" iconFile="Img/Assistances/RequireMountToClimb.png" minSize="120" maxSize="140" heightOffset="2"/>
+		<POI MapID="1330" xpos="-246.859" ypos="58.4866" zpos="-154.923" type="assistances.explorations.s5.grothmar_valley" GUID="1KBkuD4bbkCCRdi394sT7A==" iconFile="Img/Mounts/Springer.png"                 minSize="32" maxSize="32" fadeNear="800" fadeFar="1000"/>
+		<POI MapID="1330" xpos="-240.887" ypos="5.70292" zpos="-475.969" type="assistances.explorations.s5.grothmar_valley" GUID="eSg0h+oLf0G7yQBtIIActA==" iconFile="Img/Mounts/Springer.png"                 minSize="32" maxSize="32" fadeNear="800" fadeFar="1000"/>
+		<POI MapID="1330" xpos="-484.904" ypos="83.3614" zpos="-541.038" type="assistances.explorations.s5.grothmar_valley" GUID="Ylm8P6A8R0KjBgTyBm3DjA==" iconFile="Img/Assistances/ReturnWaypointGreen.png"/>
+		<!-- 2 -->
+		<POI MapID="1330" xpos="-309.995" ypos="29.5978" zpos="-36.7722" type="assistances.explorations.s5.grothmar_valley" GUID="ko5K9LBWT06jsPcsUsFJgQ==" iconFile="Img/Assistances/FollowGreenPath.png"/>
+		<POI MapID="1330" xpos="-369.294" ypos="27.8985" zpos="143.013"  type="assistances.explorations.s5.grothmar_valley" GUID="W/Sdvhdrz0i9U+u7umx3mQ==" iconFile="Img/Mounts/Springer.png"                 minSize="32" maxSize="32" fadeNear="800" fadeFar="1000"/>
+		<POI MapID="1330" xpos="-455.421" ypos="3.4494"  zpos="211.596"  type="assistances.explorations.s5.grothmar_valley" GUID="5/vnX86M9EqwBKoxAuaTvA==" iconFile="Img/Mounts/Springer.png"                 minSize="32" maxSize="32" fadeNear="800" fadeFar="1000"/>
+		<POI MapID="1330" xpos="-511.225" ypos="44.3415" zpos="355.166"  type="assistances.explorations.s5.grothmar_valley" GUID="4rRjm1YU+0ikP/JCJenkgA==" iconFile="Img/Mounts/Springer.png"                 minSize="32" maxSize="32" fadeNear="800" fadeFar="1000"/>
+		<POI MapID="1330" xpos="-345.531" ypos="33.7461" zpos="440.687"  type="assistances.explorations.s5.grothmar_valley" GUID="DieN0RULXkurQwPZxRAuCQ==" iconFile="Img/Mounts/Springer.png"                 minSize="32" maxSize="32" fadeNear="800" fadeFar="1000"/>
+		<POI MapID="1330" xpos="-50.0883" ypos="16.4574" zpos="-107.384" type="assistances.explorations.s5.grothmar_valley" GUID="tpUZL+oD5EGA+YnMeQtcpQ==" iconFile="Img/Mounts/Springer.png"                 minSize="32" maxSize="32" fadeNear="800" fadeFar="1000"/>
+		<POI MapID="1330" xpos="0.686608" ypos="38.5818" zpos="211.608"  type="assistances.explorations.s5.grothmar_valley" GUID="clXI0rX4ME2w0DWpAXV18g==" iconFile="Img/Mounts/Springer.png"                 minSize="32" maxSize="32" fadeNear="800" fadeFar="1000"/>
+		<POI MapID="1330" xpos="120.459"  ypos="92.9856" zpos="398.823"  type="assistances.explorations.s5.grothmar_valley" GUID="OMrzIwiTiEGeWE4pTnEUdw==" iconFile="Img/Mounts/Springer.png"                 minSize="32" maxSize="32" fadeNear="800" fadeFar="1000"/>
+		<POI MapID="1330" xpos="393.983"  ypos="15.2231" zpos="-222.583" type="assistances.explorations.s5.grothmar_valley" GUID="mNi4Ga/qqEaq/zYXc4NHfw==" iconFile="Img/Mounts/Springer.png"                 minSize="32" maxSize="32" fadeNear="800" fadeFar="1000"/>
+		<POI MapID="1330" xpos="661.714"  ypos="-0.7162" zpos="-478.719" type="assistances.explorations.s5.grothmar_valley" GUID="E2NrqCGfVESsGFS/UrMPlg==" iconFile="Img/Assistances/ReturnDaladaForestWaypoint.png"/>
+		<!-- 3 -->
+		<POI MapID="1330" xpos="488.051"  ypos="19.5515" zpos="168.535"  type="assistances.explorations.s5.grothmar_valley" GUID="vHzzswwVLkSENApm38WkXw==" iconFile="Img/Assistances/FollowRedPath.png"/>
+		<POI MapID="1330" xpos="586.06"   ypos="27.3267" zpos="348.479"  type="assistances.explorations.s5.grothmar_valley" GUID="AovwGMjDm0C5eJIW4aWJsg==" iconFile="Img/Mounts/Raptor.png"                   minSize="32" maxSize="32"/>
+		<POI MapID="1330" xpos="498.436"  ypos="5.7794"  zpos="427.498"  type="assistances.explorations.s5.grothmar_valley" GUID="o5yMtJsmgUCmqAAaj8476Q==" iconFile="Img/Mounts/Springer.png"                 minSize="32" maxSize="32" fadeNear="800" fadeFar="1000"/>
+		<POI MapID="1330" xpos="518.56"   ypos="36.1678" zpos="445.144"  type="assistances.explorations.s5.grothmar_valley" GUID="71w+cwo2pkGJSb8ouohlfw==" iconFile="Img/Mounts/Raptor.png"                   minSize="32" maxSize="32" fadeNear="800" fadeFar="1000"/>
+		<POI MapID="1330" xpos="536.686"  ypos="34.7914" zpos="466.996"  type="assistances.explorations.s5.grothmar_valley" GUID="VeafEIrZZEiwBi2HCTZkVQ==" iconFile="Img/Mounts/Raptor.png"                   minSize="32" maxSize="32" fadeNear="800" fadeFar="1000"/>
+		<POI MapID="1330" xpos="501.715"  ypos="37.702"  zpos="485.54"   type="assistances.explorations.s5.grothmar_valley" GUID="v981UzbfT0C/iczLwfUy2A==" iconFile="Img/Mounts/Raptor.png"                   minSize="32" maxSize="32" fadeNear="800" fadeFar="1000"/>
+		<POI MapID="1330" xpos="50.9222"  ypos="31.7629" zpos="731.567"  type="assistances.explorations.s5.grothmar_valley" GUID="WDIuGxPN40Wpk+rXT0TpCg==" iconFile="Img/Assistances/ReturnWaypointYellow.png"/>
+		<!-- 4 -->
+		<POI MapID="1330" xpos="489.956"  ypos="19.7324" zpos="166.804"  type="assistances.explorations.s5.grothmar_valley" GUID="cCQKPs2eV0qeMKkmurCZlw==" iconFile="Img/Assistances/FollowYellowPath.png"/>
+		<POI MapID="1330" xpos="838.744"  ypos="75.0615" zpos="-172.49"  type="assistances.explorations.s5.grothmar_valley" GUID="GGJWxyFzR0yGbTT/ddInBw==" iconFile="Img/Assistances/ReturnWaypointPurple.png"/>
+		<!-- 5 -->
+		<POI MapID="1330" xpos="484.917"  ypos="19.7735" zpos="161.446"  type="assistances.explorations.s5.grothmar_valley" GUID="CzRjfpFqWkSBeHMf+Zqq8w==" iconFile="Img/Assistances/FollowPurplePath.png"/>
+		<POI MapID="1330" xpos="573.065"  ypos="0.32231" zpos="-124.056" type="assistances.explorations.s5.grothmar_valley" GUID="EhcyMl+U+0+oEiXd5zU+XA==" iconFile="Img/Assistances/ExplorationChest.png"    minSize="24" maxSize="64" heightOffset="0" miniMapVisibility="1" mapVisibility="1" mapDisplaySize="25"/>
+		<!-- Ash Code -->
+		<POI MapID="1330" xpos="228.152"  ypos="35.2356" zpos="27.1187"  type="assistances.explorations.s5.grothmar_valley" GUID="rNrL9YFzfUOQ4TuRNsUVJw==" iconFile="Img/Season5/ACarvedPath_Info.png"        minSize="110" maxSize="140" fadeNear="600" fadeFar="800" heightOffset="2"/>
+		<POI MapID="1330" xpos="231.161"  ypos="34.9478" zpos="25.5739"  type="assistances.explorations.s5.grothmar_valley" GUID="kPY85QR7iEypntXH0QFoww==" iconFile="Img/Season5/ACarvedPath_Symbol.png"      minSize="96" maxSize="110" fadeNear="600" fadeFar="800" heightOffset="2"/>
+		<POI MapID="1330" xpos="216.76"   ypos="50.0395" zpos="-131.648" type="assistances.explorations.s5.grothmar_valley" GUID="jHcwlgiTnU67cUwAOJcIKQ==" iconFile="Img/Season5/ACarvedPath_Symbol_1.png"    minSize="16" maxSize="32" fadeNear="15000" fadeFar="20000" heightOffset="1.5" miniMapVisibility="1" mapVisibility="1" mapDisplaySize="30"/>
+		<POI MapID="1330" xpos="208.918"  ypos="45.1909" zpos="-202.292" type="assistances.explorations.s5.grothmar_valley" GUID="x57/VCracUyvDZsl++Tskw==" iconFile="Img/Season5/ACarvedPath_Symbol_2.png"    minSize="16" maxSize="32" fadeNear="15000" fadeFar="20000" heightOffset="1.5" miniMapVisibility="1" mapVisibility="1" mapDisplaySize="30"/>
+		<POI MapID="1330" xpos="244.182"  ypos="45.2001" zpos="-300.759" type="assistances.explorations.s5.grothmar_valley" GUID="ONARNBTE/E2KswXgrQOGhw==" iconFile="Img/Season5/ACarvedPath_Symbol_3.png"    minSize="16" maxSize="32" fadeNear="15000" fadeFar="20000" heightOffset="1.5" miniMapVisibility="1" mapVisibility="1" mapDisplaySize="30"/>
+		<POI MapID="1330" xpos="185.102"  ypos="15.5317" zpos="-319.037" type="assistances.explorations.s5.grothmar_valley" GUID="tGdVZb51jE2E0Mk5YOkNQQ==" iconFile="Img/Season5/ACarvedPath_Symbol_4.png"    minSize="16" maxSize="32" fadeNear="15000" fadeFar="20000" heightOffset="1.5" miniMapVisibility="1" mapVisibility="1" mapDisplaySize="30"/>
+		<POI MapID="1330" xpos="142.588"  ypos="25.7277" zpos="-417.588" type="assistances.explorations.s5.grothmar_valley" GUID="MSHvqT4Fc0Gojn2DwoGnhA==" iconFile="Img/Season5/ACarvedPath_Symbol_5.png"    minSize="16" maxSize="32" fadeNear="15000" fadeFar="20000" heightOffset="1.5" miniMapVisibility="1" mapVisibility="1" mapDisplaySize="30"/>
+		<POI MapID="1330" xpos="83.8491"  ypos="42.8451" zpos="-369.617" type="assistances.explorations.s5.grothmar_valley" GUID="3DPs458h606gdsJSzQE8yQ==" iconFile="Img/Season5/ACarvedPath_Symbol_6.png"    minSize="16" maxSize="32" fadeNear="15000" fadeFar="20000" heightOffset="1.5" miniMapVisibility="1" mapVisibility="1" mapDisplaySize="30"/>
+		<POI MapID="1330" xpos="57.2493"  ypos="50.0545" zpos="-366.384" type="assistances.explorations.s5.grothmar_valley" GUID="BczQ7VmqUkulSKEWnmZrsQ==" iconFile="Img/Season5/ACarvedPath_Symbol_7.png"    minSize="16" maxSize="32" fadeNear="15000" fadeFar="20000" heightOffset="1.5" miniMapVisibility="1" mapVisibility="1" mapDisplaySize="30"/>
+		<POI MapID="1330" xpos="-31.277"  ypos="31.7997" zpos="-281.62"  type="assistances.explorations.s5.grothmar_valley" GUID="mnKzcDdwLkel9Ch3D6injA==" iconFile="Img/Season5/ACarvedPath_Symbol_8.png"    minSize="16" maxSize="32" fadeNear="15000" fadeFar="20000" heightOffset="1.5" miniMapVisibility="1" mapVisibility="1" mapDisplaySize="30"/>
+
+
+		<!--
+		BJORA MARCHES
+		-->
+		<Trail type="assistances.explorations.s5.bjora_marches" GUID="vnsAY60khUqREoCJylpBow==" trailData="Data/Assistances/Exploration_Season5_BjoraMarches.trl"             texture="Data/SemiLineMid.png" color="ff00ff00" alpha="0.8" fadeNear="3000" fadeFar="4000" animSpeed="1" miniMapVisibility="1" mapVisibility="1"/>
+		<Trail type="assistances.explorations.s5.bjora_marches" GUID="y1PVZ4B010qaSG+YtWuLQg==" trailData="Data/Assistances/Exploration_Season5_BjoraMarches_MasteryEast.trl" texture="Data/SemiLine.png"    color="ffff00ff" alpha="0.8" fadeNear="2000" fadeFar="3000" animSpeed="0" miniMapVisibility="1" mapVisibility="1"/>
+		<Trail type="assistances.explorations.s5.bjora_marches" GUID="6rapglfXRkaWJYaCCZwPuQ==" trailData="Data/Assistances/Exploration_Season5_BjoraMarches_MasteryWest.trl" texture="Data/SemiLine.png"    color="ffff00ff" alpha="0.8" fadeNear="2000" fadeFar="3000" animSpeed="0" miniMapVisibility="1" mapVisibility="1"/>
+		<POI MapID="1343" xpos="1195.8"   ypos="47.8031" zpos="-130.031" type="assistances.explorations.s5.bjora_marches" GUID="Rvs7KrN6eUubqsaTRa+H+g==" iconFile="Img/Assistances/Exploration.png"         minSize="24" heightOffset="0.5" fadeNear="-1" fadeFar="-1" miniMapVisibility="1" mapVisibility="1" mapDisplaySize="45"/>
+		<POI MapID="1343" xpos="1195.8"   ypos="47.8031" zpos="-130.031" type="assistances.explorations.s5.bjora_marches" GUID="BL+xzYmazUatKccGC/Z+2A==" iconFile="Img/Assistances/RequireMountToClimb.png" minSize="120" maxSize="140" heightOffset="2"/>
+		<POI MapID="1343" xpos="1210.03"  ypos="93.5564" zpos="-305.492" type="assistances.explorations.s5.bjora_marches" GUID="0NM4E40FM06tugoZajpDdg==" iconFile="Img/Mounts/Springer.png"                 minSize="32" maxSize="32"/>
+		<POI MapID="1343" xpos="1251.88"  ypos="113.412" zpos="-273.193" type="assistances.explorations.s5.bjora_marches" GUID="Oodeir0sF0GC+uiSfblIUg==" iconFile="Img/Mounts/Springer.png"                 minSize="32" maxSize="32"/>
+		<POI MapID="1343" xpos="929.522"  ypos="83.0802" zpos="-347.527" type="assistances.explorations.s5.bjora_marches" GUID="aWyMxACCIUOI3l1suN6mzA==" iconFile="Img/Icons/Interaction.png"               minSize="20" maxSize="20" heightOffset="0.75" behavior="4" hasCountdown="0" resetLength="3"/>
+		<POI MapID="1343" xpos="743.235"  ypos="132.503" zpos="-303.417" type="assistances.explorations.s5.bjora_marches" GUID="4CY+IuaW2kCFc8yJJULjvQ==" iconFile="Img/Icons/Interaction.png"               minSize="20" maxSize="20" heightOffset="0.75" behavior="4" hasCountdown="0" resetLength="3"/>
+		<POI MapID="1343" xpos="623.116"  ypos="150.746" zpos="-300.729" type="assistances.explorations.s5.bjora_marches" GUID="8gLq3cXn5kCafrbQfsuDCQ==" iconFile="Img/Icons/Interaction.png"               minSize="20" maxSize="20" heightOffset="0.75" behavior="4" hasCountdown="0" resetLength="3"/>
+		<POI MapID="1343" xpos="287.841"  ypos="151.777" zpos="-172.873" type="assistances.explorations.s5.bjora_marches" GUID="NvKAJvdsaUm3aEKzYMdDKw==" iconFile="Img/Mounts/Springer.png"                 minSize="32" maxSize="32"/>
+		<POI MapID="1343" xpos="529.497"  ypos="136.428" zpos="-151.274" type="assistances.explorations.s5.bjora_marches" GUID="7mkcwvIKQU+vRR5VrSJ/Aw==" iconFile="Img/Icons/Interaction.png"               minSize="20" maxSize="20" heightOffset="0.75" behavior="4" hasCountdown="0" resetLength="3"/>
+		<POI MapID="1343" xpos="308.849"  ypos="153.634" zpos="-62.7969" type="assistances.explorations.s5.bjora_marches" GUID="fjYT2aCdckOm12FlsJIzcA==" iconFile="Img/Mounts/Springer.png"                 minSize="32" maxSize="32"/>
+		<POI MapID="1343" xpos="466.3"    ypos="159.972" zpos="166.469"  type="assistances.explorations.s5.bjora_marches" GUID="48LpzwF7u0GvZU/YyCP6EQ==" iconFile="Img/Mounts/Springer.png"                 minSize="32" maxSize="32"/>
+		<POI MapID="1343" xpos="431.674"  ypos="175.597" zpos="221.626"  type="assistances.explorations.s5.bjora_marches" GUID="SYIrWufkb0arLlHUrfGxAg==" iconFile="Img/Mounts/Springer.png"                 minSize="32" maxSize="32"/>
+		<POI MapID="1343" xpos="391.331"  ypos="209.833" zpos="286.257"  type="assistances.explorations.s5.bjora_marches" GUID="cHV2iKw2q0G1CTwF0L0v+g==" iconFile="Img/Mounts/Springer.png"                 minSize="32" maxSize="32"/>
+		<POI MapID="1343" xpos="891.702"  ypos="128.455" zpos="462.615"  type="assistances.explorations.s5.bjora_marches" GUID="Qg6hEDCM9ki9qSNDq9b9Eg==" iconFile="Img/Icons/Interaction.png"               minSize="20" maxSize="20" heightOffset="0.75" behavior="4" hasCountdown="0" resetLength="3"/>
+		<POI MapID="1343" xpos="910.2"    ypos="129.285" zpos="479.851"  type="assistances.explorations.s5.bjora_marches" GUID="FpuIAWCLCk62l8y6vk1rlw==" iconFile="Img/Icons/Interaction.png"               minSize="20" maxSize="20" heightOffset="0.75" behavior="4" hasCountdown="0" resetLength="3"/>
+		<POI MapID="1343" xpos="828.886"  ypos="88.6316" zpos="-34.6209" type="assistances.explorations.s5.bjora_marches" GUID="ieYfWmrs90O1t5vFIDcseA==" iconFile="Img/Mounts/Springer.png"                 minSize="32" maxSize="32"/>
+		<POI MapID="1343" xpos="-103.422" ypos="293.401" zpos="-523.693" type="assistances.explorations.s5.bjora_marches" GUID="zPNdZLutaUuAkPyH4i1YXw==" iconFile="Img/Icons/Interaction.png"               minSize="20" maxSize="20" heightOffset="0.75" behavior="4" hasCountdown="0" resetLength="3"/>
+		<POI MapID="1343" xpos="-361.271" ypos="288.998" zpos="-501.032" type="assistances.explorations.s5.bjora_marches" GUID="xD7OQsk2JESH7wHKXjuGiw==" iconFile="Img/Mounts/Springer.png"                 minSize="32" maxSize="32"/>
+		<POI MapID="1343" xpos="-375.489" ypos="315.38"  zpos="-448.517" type="assistances.explorations.s5.bjora_marches" GUID="zCE3sS5b00eomJtcnOWlGw==" iconFile="Img/Mounts/Springer.png"                 minSize="32" maxSize="32"/>
+		<POI MapID="1343" xpos="-357.83"  ypos="301.256" zpos="-404.584" type="assistances.explorations.s5.bjora_marches" GUID="BWHR05W8dUOTFXPvkahnPg==" iconFile="Img/Signs/Danger.png"                    minSize="20" maxSize="24" heightOffset="0.25" infoRange="15" info="###################### CAUTION ######################
+JUMP ON YOUR MOUNT IF YOU DON'T HAVE THE GLIDER
+THIS ALLOWS YOU NOT TO DIE IF YOU FALL FROM TOO HIGH
+REQUIRES [BOND OF LIFE] MASTERY IN CRYSTAL CHAMPION"/>
+		<POI MapID="1343" xpos="-414.801" ypos="246.313" zpos="-281.118" type="assistances.explorations.s5.bjora_marches" GUID="WIMOYYSlEka8paMTzsO3wQ==" iconFile="Img/Signs/Danger.png"                    minSize="20" maxSize="24" heightOffset="0.25" infoRange="15" info="###################### CAUTION ######################
+JUMP ON YOUR MOUNT IF YOU DON'T HAVE THE GLIDER
+THIS ALLOWS YOU NOT TO DIE IF YOU FALL FROM TOO HIGH
+REQUIRES [BOND OF LIFE] MASTERY IN CRYSTAL CHAMPION"/>
+		<POI MapID="1343" xpos="-829.123" ypos="95.3322" zpos="-353.194" type="assistances.explorations.s5.bjora_marches" GUID="IJ3WVXrwDU6gPAaccNK6Lw==" iconFile="Img/Icons/Interaction.png"               minSize="20" maxSize="20" heightOffset="0.75" behavior="4" hasCountdown="0" resetLength="3"/>
+		<POI MapID="1343" xpos="-842.637" ypos="101.213" zpos="-355.045" type="assistances.explorations.s5.bjora_marches" GUID="2k+danORLEm/QiteoVb6iA==" iconFile="Img/Icons/Interaction.png"               minSize="20" maxSize="20" heightOffset="0.75" behavior="4" hasCountdown="0" resetLength="3" infoRange="10" info="INFORMATION:
+THIS PORTAL IS ONLY ACCESSIBLE OUTSIDE THE META!"/>
+		<POI MapID="1343" xpos="-287.152" ypos="212.419" zpos="-38.9937" type="assistances.explorations.s5.bjora_marches" GUID="6676ThU2z0CgIFT6UD17vA==" iconFile="Img/Signs/Danger.png"                    minSize="20" maxSize="24" heightOffset="0.25" infoRange="15" info="###################### CAUTION ######################
+JUMP ON YOUR MOUNT IF YOU DON'T HAVE THE GLIDER
+THIS ALLOWS YOU NOT TO DIE IF YOU FALL FROM TOO HIGH
+REQUIRES [BOND OF LIFE] MASTERY IN CRYSTAL CHAMPION"/>
+		<POI MapID="1343" xpos="-406.552" ypos="158.754" zpos="122.145"  type="assistances.explorations.s5.bjora_marches" GUID="nxwYgwg5SUeNg+gcM8ZRJQ==" iconFile="Img/Mounts/Springer.png"                 minSize="32" maxSize="32"/>
+		<POI MapID="1343" xpos="-269.113" ypos="170.848" zpos="215.969"  type="assistances.explorations.s5.bjora_marches" GUID="zDmAecOmOk2RdjVS9BhcTw==" iconFile="Img/Mounts/Springer.png"                 minSize="32" maxSize="32"/>
+		<POI MapID="1343" xpos="-135.502" ypos="224.728" zpos="588.213"  type="assistances.explorations.s5.bjora_marches" GUID="k1Ec0UHeW0mKAbadQPdiTg==" iconFile="Img/Mounts/Springer.png"                 minSize="32" maxSize="32"/>
+		<POI MapID="1343" xpos="-93.6145" ypos="331.514" zpos="632.393"  type="assistances.explorations.s5.bjora_marches" GUID="+PQGZmRH70ey2KzH+vJThg==" iconFile="Img/Signs/Slippy.png"                    minSize="32" maxSize="32" heightOffset="0"/>
+		<POI MapID="1343" xpos="-226.375" ypos="354.363" zpos="654.897"  type="assistances.explorations.s5.bjora_marches" GUID="LXeo9EtcF0WiGcLWLXDUxg==" iconFile="Img/Signs/Danger.png"                    minSize="20" maxSize="24" heightOffset="0.25" infoRange="15" info="###################### CAUTION ######################
+JUMP ON YOUR MOUNT IF YOU DON'T HAVE THE GLIDER
+THIS ALLOWS YOU NOT TO DIE IF YOU FALL FROM TOO HIGH
+REQUIRES [BOND OF LIFE] MASTERY IN CRYSTAL CHAMPION"/>
+		<POI MapID="1343" xpos="-550.451" ypos="252.679" zpos="578.215"  type="assistances.explorations.s5.bjora_marches" GUID="GUCUl+ZvOUewFo5yAFBcxw==" iconFile="Img/Mounts/Springer.png"                 minSize="32" maxSize="32"/>
+		<POI MapID="1343" xpos="-615.641" ypos="279.62"  zpos="588.719"  type="assistances.explorations.s5.bjora_marches" GUID="7++dwAREQkuBcM7jYlHaxw==" iconFile="Img/Mounts/Springer.png"                 minSize="32" maxSize="32"/>
+		<POI MapID="1343" xpos="-631.836" ypos="288.224" zpos="574.535"  type="assistances.explorations.s5.bjora_marches" GUID="2k1K2kBLjUSU86M6zPTdNQ==" iconFile="Img/Mounts/Raptor.png"                   minSize="32" maxSize="32"/>
+		<POI MapID="1343" xpos="-671.508" ypos="281.405" zpos="536.277"  type="assistances.explorations.s5.bjora_marches" GUID="Fj1jAmMqG0G3wB4rsX1Yjw==" iconFile="Img/Icons/Interaction.png"               minSize="20" maxSize="20" heightOffset="0.75" behavior="4" hasCountdown="0" resetLength="3"/>
+		<POI MapID="1343" xpos="-594.561" ypos="126.681" zpos="118.526"  type="assistances.explorations.s5.bjora_marches" GUID="mkooyFc1ykO+ZRXAW0+8Sg==" iconFile="Img/Signs/Danger.png"                    minSize="20" maxSize="24" heightOffset="0.25" infoRange="15" info="###################### CAUTION ######################
+JUMP ON YOUR MOUNT IF YOU DON'T HAVE THE GLIDER
+THIS ALLOWS YOU NOT TO DIE IF YOU FALL FROM TOO HIGH
+REQUIRES [BOND OF LIFE] MASTERY IN CRYSTAL CHAMPION"/>
+		<POI MapID="1343" xpos="-977.413" ypos="83.6261" zpos="-112.709" type="assistances.explorations.s5.bjora_marches" GUID="i1zDs0VKpEqgVa8lxLTTFg==" iconFile="Img/Assistances/OpenOnlyMeta.png"        minSize="40" maxSize="60" heightOffset="0.5" infoRange="10" info="INFORMATION:
+THIS PART IS NOT NECESSARY TO COMPLETE THE EXPLORATION
+YOU SHOULD HAVE ALREADY GOTTEN THE CHEST AT THE PREVIOUS POI"/>
+		<POI MapID="1343" xpos="-994.844" ypos="55.9632" zpos="-277.451" type="assistances.explorations.s5.bjora_marches" GUID="QbB1Utud2UOgm4OGFPyfkQ==" iconFile="Img/Assistances/ExplorationChest.png"    minSize="24" maxSize="64" heightOffset="0" miniMapVisibility="1" mapVisibility="1" mapDisplaySize="25"/>
+		<!-- Mastery (East) -->
+		<POI MapID="1343" xpos="887.331"  ypos="90.6274" zpos="-350.73"  type="assistances.explorations.s5.bjora_marches" GUID="jRs3Sk4aFUaxPgSSAfIfHQ==" iconFile="Img/Season5/MasteryIcebroodSaga.png"     minSize="20" maxSize="32" heightOffset="0.25" behavior="3"/>
+		<POI MapID="1343" xpos="873.85"   ypos="114.105" zpos="-401.401" type="assistances.explorations.s5.bjora_marches" GUID="PK8NNCRFUkqRSpg1XV8MIw==" iconFile="Img/Mounts/Springer.png"                 minSize="32" maxSize="32"/>
+		<POI MapID="1343" xpos="352.07"   ypos="141.385" zpos="-334.583" type="assistances.explorations.s5.bjora_marches" GUID="I2EKbkfimkC6tN6FyHUsGA==" iconFile="Img/Season5/MasteryIcebroodSaga.png"     minSize="20" maxSize="32" heightOffset="0.25" behavior="3"/>
+		<POI MapID="1343" xpos="406.514"  ypos="152.635" zpos="-421.384" type="assistances.explorations.s5.bjora_marches" GUID="seyS7OfX70e/C4Rb7NPycA==" iconFile="Img/Mounts/Springer.png"                 minSize="32" maxSize="32"/>
+		<POI MapID="1343" xpos="422.254"  ypos="168.796" zpos="323.367"  type="assistances.explorations.s5.bjora_marches" GUID="f3A1l1mr7U6JCQCvoFe2Cg==" iconFile="Img/Season5/MasteryIcebroodSaga.png"     minSize="20" maxSize="32" heightOffset="0.25" behavior="3"/>
+		<POI MapID="1343" xpos="422.254"  ypos="168.796" zpos="323.367"  type="assistances.explorations.s5.bjora_marches" GUID="4Qq8+wFXbUSpAhz41HKSSA==" iconFile="Img/Season5/InsightAsgeirsLegacy.png"    minSize="120" maxSize="140" heightOffset="1"/>
+		<POI MapID="1343" xpos="1058.42"  ypos="184.628" zpos="233.308"  type="assistances.explorations.s5.bjora_marches" GUID="c4vc4UEXG02Xq/b9X+q3Ng==" iconFile="Img/Season5/MasteryIcebroodSaga.png"     minSize="20" maxSize="32" heightOffset="0.25" behavior="3"/>
+		<POI MapID="1343" xpos="1089.26"  ypos="183.18"  zpos="222.111"  type="assistances.explorations.s5.bjora_marches" GUID="Dq7mlJ5LhEOrBaqIGTkjGw==" iconFile="Img/Signs/Danger.png"                    minSize="20" maxSize="24" heightOffset="0.25" infoRange="15" info="###################### CAUTION ######################
+JUMP ON YOUR MOUNT IF YOU DON'T HAVE THE GLIDER
+THIS ALLOWS YOU NOT TO DIE IF YOU FALL FROM TOO HIGH
+REQUIRES [BOND OF LIFE] MASTERY IN CRYSTAL CHAMPION"/>
+		<POI MapID="1343" xpos="1158.24"  ypos="118.447" zpos="173.094"  type="assistances.explorations.s5.bjora_marches" GUID="e9JCqcTbKUmVkVWWrHiv5A==" iconFile="Img/Signs/Danger.png"                    minSize="20"  maxSize="24" heightOffset="0.25" infoRange="15" info="###################### CAUTION ######################
+JUMP ON YOUR MOUNT IF YOU DON'T HAVE THE GLIDER
+THIS ALLOWS YOU NOT TO DIE IF YOU FALL FROM TOO HIGH
+REQUIRES [BOND OF LIFE] MASTERY IN CRYSTAL CHAMPION"/>
+		<!-- Mastery (West) -->
+		<POI MapID="1343" xpos="-895.13"  ypos="19.5517" zpos="-341.743" type="assistances.explorations.s5.bjora_marches" GUID="f6II1kqoNEyWLylpKgtc7A==" iconFile="Img/Season5/MasteryIcebroodSaga.png"     minSize="20" maxSize="32" heightOffset="0.25" behavior="3"/>
+		<POI MapID="1343" xpos="-949.276" ypos="-1.1226" zpos="-300.939" type="assistances.explorations.s5.bjora_marches" GUID="Gh55OZw74ECz+cloFW+aWA==" iconFile="Img/Icons/Interaction.png"               minSize="20" maxSize="20" heightOffset="0.75" behavior="4" hasCountdown="0" resetLength="3"/>
+		<POI MapID="1343" xpos="-399.885" ypos="166.246" zpos="127.762"  type="assistances.explorations.s5.bjora_marches" GUID="pc5MrH+VPku5W2So/4IBMQ==" iconFile="Img/Season5/MasteryIcebroodSaga.png"     minSize="20" maxSize="32" heightOffset="0.25" behavior="3"/>
+		<POI MapID="1343" xpos="-210.151" ypos="352.337" zpos="658.99"   type="assistances.explorations.s5.bjora_marches" GUID="Jp3kULPmSEWC2uDHmuNF7A==" iconFile="Img/Season5/MasteryIcebroodSaga.png"     minSize="20" maxSize="32" heightOffset="0.25" behavior="3"/>
+		<POI MapID="1343" xpos="-222.396" ypos="353.655" zpos="661.523"  type="assistances.explorations.s5.bjora_marches" GUID="/LbGg7amyk2dW7OXBInZ4g==" iconFile="Img/Mounts/Springer.png"                 minSize="32" maxSize="32"/>
+
+
+		<!--
+		DRIZZLEWOOD COAST
+		-->
+		<Trail type="assistances.explorations.s5.drizzlewood_coast" GUID="Su0voVIv7UiwOdrDeaYWLw==" trailData="Data/Assistances/Exploration_Season5_DrizzlewoodCoast_East.trl"    texture="Data/SemiLine.png" color="ff00ffff" alpha="0.8" fadeNear="3000" fadeFar="4000" animSpeed="1" miniMapVisibility="1" mapVisibility="1" mapDisplaySize="20"/>
+		<Trail type="assistances.explorations.s5.drizzlewood_coast" GUID="jECisdX9p0eQdqMWg/Rv4g==" trailData="Data/Assistances/Exploration_Season5_DrizzlewoodCoast_West.trl"    texture="Data/SemiLine.png" color="ffff9900" alpha="0.8" fadeNear="3000" fadeFar="4000" animSpeed="1" miniMapVisibility="1" mapVisibility="1" mapDisplaySize="20"/>
+		<Trail type="assistances.explorations.s5.drizzlewood_coast" GUID="rQKl7tceLEivaFoVJv4+Ng==" trailData="Data/Assistances/Exploration_Season5_DrizzlewoodCoast_Mastery.trl" texture="Data/SemiLine.png" color="ffff00ff" alpha="0.8" fadeNear="2000" fadeFar="3000" animSpeed="0" miniMapVisibility="1" mapVisibility="1" mapDisplaySize="15"/>
+		<!-- East -->
+		<POI MapID="1371" xpos="-97.402"  ypos="151.317" zpos="-1076"    type="assistances.explorations.s5.drizzlewood_coast" GUID="xwRlfliqi02URZmxqK6FVA==" iconFile="Img/Assistances/Exploration.png"         minSize="24" heightOffset="0.5" fadeNear="-1" fadeFar="-1" miniMapVisibility="1" mapVisibility="1" mapDisplaySize="30"/>
+		<POI MapID="1371" xpos="-97.402"  ypos="151.317" zpos="-1076"    type="assistances.explorations.s5.drizzlewood_coast" GUID="1VGfE2lkV0+RktbLXTI5uA==" iconFile="Img/Assistances/RequireMountToClimb.png" minSize="120" maxSize="140" heightOffset="2"/>
+		<POI MapID="1371" xpos="283.891"  ypos="98.9535" zpos="-936.602" type="assistances.explorations.s5.drizzlewood_coast" GUID="EJ+yzrr5zUapOOqIbiVdOg==" iconFile="Img/Mounts/Springer.png"                 minSize="32" maxSize="32" infoRange="15" info="IF THE CAMP IS CONTESTED !
+GET ON THE MOUNT BEFORE GOING FURTHER
+IT WILL BE NECESSARY JUST RIGHT AFTER"/>
+		<POI MapID="1371" xpos="359.794"  ypos="106.622" zpos="-1004.32" type="assistances.explorations.s5.drizzlewood_coast" GUID="DMDB76XSYUCwqP26v3taDg==" iconFile="Img/Mounts/Springer.png"                 minSize="32" maxSize="32"/>
+		<POI MapID="1371" xpos="374.773"  ypos="164.079" zpos="-1048.11" type="assistances.explorations.s5.drizzlewood_coast" GUID="BIfCp7ptCkCgNoFqlBnu6g==" iconFile="Img/Signs/Danger.png"                    minSize="20" maxSize="24" heightOffset="0.25" infoRange="15" info="###################### CAUTION ######################
+JUMP ON YOUR MOUNT IF YOU DON'T HAVE THE GLIDER
+THIS ALLOWS YOU NOT TO DIE IF YOU FALL FROM TOO HIGH
+REQUIRES [BOND OF LIFE] MASTERY IN CRYSTAL CHAMPION"/>
+		<POI MapID="1371" xpos="368.473"  ypos="78.9383" zpos="-1108.22" type="assistances.explorations.s5.drizzlewood_coast" GUID="1d9EEZMqGEu2iXviWQKF1w==" iconFile="Img/Mounts/Springer.png"                 minSize="32" maxSize="32"/>
+		<POI MapID="1371" xpos="571.34"   ypos="0.40529" zpos="-931.414" type="assistances.explorations.s5.drizzlewood_coast" GUID="WW5KRc+N8kin6wcGVUR/0w==" iconFile="Img/Mounts/Springer.png"                 minSize="32" maxSize="32"/>
+		<POI MapID="1371" xpos="471.096"  ypos="28.6303" zpos="-762.535" type="assistances.explorations.s5.drizzlewood_coast" GUID="+Np9H0bN70iZabHeFRd9BQ==" iconFile="Img/Mounts/Springer.png"                 minSize="32" maxSize="32"/>
+		<POI MapID="1371" xpos="433.161"  ypos="40.5421" zpos="-740.333" type="assistances.explorations.s5.drizzlewood_coast" GUID="6UKlnVDQSUqVOOHE3n64Jg==" iconFile="Img/Signs/Danger.png"                    minSize="20" maxSize="24"  heightOffset="0.25" infoRange="15" info="###################### CAUTION ######################
+JUMP ON YOUR MOUNT IF YOU DON'T HAVE THE GLIDER
+THIS ALLOWS YOU NOT TO DIE IF YOU FALL FROM TOO HIGH
+REQUIRES [BOND OF LIFE] MASTERY IN CRYSTAL CHAMPION"/>
+		<POI MapID="1371" xpos="430.895"  ypos="22.8838" zpos="-288.09"  type="assistances.explorations.s5.drizzlewood_coast" GUID="cN+HuB7brUyANpR5X2+d5Q==" iconFile="Img/Mounts/Springer.png"                 minSize="32" maxSize="32" infoRange="15" info="IF THE CAMP IS CONTESTED !
+GET ON THE MOUNT BEFORE GOING FURTHER
+IT WILL BE NECESSARY JUST RIGHT AFTER"/>
+		<POI MapID="1371" xpos="539.441"  ypos="57.1325" zpos="-239.244" type="assistances.explorations.s5.drizzlewood_coast" GUID="Pirn4ifA40SzjJhMvqDShg==" iconFile="Img/Mounts/Springer.png"                 minSize="32" maxSize="32"/>
+		<POI MapID="1371" xpos="540.115"  ypos="73.2278" zpos="-145.013" type="assistances.explorations.s5.drizzlewood_coast" GUID="13tptDU91Uq45k0v6MUWdw==" iconFile="Img/Signs/Danger.png"                    minSize="20" maxSize="24" heightOffset="0.25" infoRange="15" info="###################### CAUTION ######################
+JUMP ON YOUR MOUNT IF YOU DON'T HAVE THE GLIDER
+THIS ALLOWS YOU NOT TO DIE IF YOU FALL FROM TOO HIGH
+REQUIRES [BOND OF LIFE] MASTERY IN CRYSTAL CHAMPION"/>
+		<POI MapID="1371" xpos="525.966"  ypos="-0.302"  zpos="-118.516" type="assistances.explorations.s5.drizzlewood_coast" GUID="mnyCWFEEVkGcqFsGCuuJJw==" iconFile="Img/Assistances/ReturnFirstWaypointOrange.png"/>
+		<!-- West -->
+		<POI MapID="1371" xpos="-98.5743" ypos="150.779" zpos="-1072.84" type="assistances.explorations.s5.drizzlewood_coast" GUID="fA3knq+vV0G1xM+XsUQZug==" iconFile="Img/Assistances/FollowOrangePath.png"/>
+		<POI MapID="1371" xpos="-134.409" ypos="153.964" zpos="-719.829" type="assistances.explorations.s5.drizzlewood_coast" GUID="7eynkVCHMEulmNVfGYldjw==" iconFile="Img/Mounts/Springer.png"                 minSize="32" maxSize="32"/>
+		<POI MapID="1371" xpos="-466.499" ypos="94.4229" zpos="-160.465" type="assistances.explorations.s5.drizzlewood_coast" GUID="/GiFbFj1E0OIs6uOvP4fYA==" iconFile="Img/Mounts/Springer.png"                 minSize="32" maxSize="32"/>
+		<POI MapID="1371" xpos="-457.27"  ypos="128.609" zpos="-141.857" type="assistances.explorations.s5.drizzlewood_coast" GUID="qVsakR5TBEK+jOnN6ano1Q==" iconFile="Img/Mounts/Raptor.png"                   minSize="32" maxSize="32"/>
+		<POI MapID="1371" xpos="-448.027" ypos="90.9056" zpos="-21.5709" type="assistances.explorations.s5.drizzlewood_coast" GUID="Y4OdCsbh2k6XRAv8WC/Tkw==" iconFile="Img/Signs/Danger.png"                    minSize="20" maxSize="24" heightOffset="0.25" infoRange="15" info="###################### CAUTION ######################
+JUMP ON YOUR MOUNT IF YOU DON'T HAVE THE GLIDER
+THIS ALLOWS YOU NOT TO DIE IF YOU FALL FROM TOO HIGH
+REQUIRES [BOND OF LIFE] MASTERY IN CRYSTAL CHAMPION"/>
+		<POI MapID="1371" xpos="-296.499" ypos="49.6352" zpos="-40.0861" type="assistances.explorations.s5.drizzlewood_coast" GUID="8pqoj9AA+0OpQ5EIh6ibSg==" iconFile="Img/Signs/Danger.png"                    minSize="20" maxSize="24" heightOffset="0.25" fadeNear="1000" fadeFar="1200" infoRange="5" info="###################### CAUTION ######################
+JUMP ON YOUR MOUNT IF YOU DON'T HAVE THE GLIDER
+THIS ALLOWS YOU NOT TO DIE IF YOU FALL FROM TOO HIGH
+REQUIRES [BOND OF LIFE] MASTERY IN CRYSTAL CHAMPION"/>
+		<POI MapID="1371" xpos="93.9068"  ypos="1.76627" zpos="-430.855" type="assistances.explorations.s5.drizzlewood_coast" GUID="RSwk5383VUih6W6YavPHZA==" iconFile="Img/Mounts/Springer.png"                 minSize="32" maxSize="32"/>
+		<POI MapID="1371" xpos="48.5817"  ypos="45.7134" zpos="-540.139" type="assistances.explorations.s5.drizzlewood_coast" GUID="jUykQScHxE2O4nH6RsXccQ==" iconFile="Img/Signs/Danger.png"                    minSize="20" maxSize="24" heightOffset="0.25" fadeNear="1000" fadeFar="1200" infoRange="5" info="###################### CAUTION ######################
+JUMP ON YOUR MOUNT IF YOU DON'T HAVE THE GLIDER
+THIS ALLOWS YOU NOT TO DIE IF YOU FALL FROM TOO HIGH
+REQUIRES [BOND OF LIFE] MASTERY IN CRYSTAL CHAMPION"/>
+		<POI MapID="1371" xpos="-11.9552" ypos="0.10399" zpos="-625.428" type="assistances.explorations.s5.drizzlewood_coast" GUID="M4r8hxi6vU2XPG9WVbiAyA==" iconFile="Img/Mounts/Springer.png"                 minSize="32" maxSize="32"/>
+		<POI MapID="1371" xpos="264.058"  ypos="38.5097" zpos="-388.022" type="assistances.explorations.s5.drizzlewood_coast" GUID="+xMIdg4Hd0emBLytVl3yVQ==" iconFile="Img/Mounts/Springer.png"                 minSize="32" maxSize="32"/>
+		<POI MapID="1371" xpos="194.55"   ypos="62.9786" zpos="-361.432" type="assistances.explorations.s5.drizzlewood_coast" GUID="FCGcOBaBW0mhnhIYM6i9kg==" iconFile="Img/Signs/Danger.png"                    minSize="20" maxSize="24" heightOffset="0.25" fadeNear="1000" fadeFar="1200" infoRange="7" info="###################### CAUTION ######################
+JUMP ON YOUR MOUNT IF YOU DON'T HAVE THE GLIDER
+THIS ALLOWS YOU NOT TO DIE IF YOU FALL FROM TOO HIGH
+REQUIRES [BOND OF LIFE] MASTERY IN CRYSTAL CHAMPION"/>
+		<POI MapID="1371" xpos="96.4829"  ypos="20.0833" zpos="-239.231" type="assistances.explorations.s5.drizzlewood_coast" GUID="1uAoZuWUfkaZ84t+9+xP2Q==" iconFile="Img/Assistances/ExplorationChest.png"    minSize="24" maxSize="64" heightOffset="0"                                    miniMapVisibility="1" mapVisibility="1" mapDisplaySize="25"/>
+		<!-- Mastery -->
+		<POI MapID="1371" xpos="-36.4435" ypos="183.618" zpos="-1036.98" type="assistances.explorations.s5.drizzlewood_coast" GUID="U1C4ipnea0ecrAeWCNfhBw==" iconFile="Img/Season5/MasteryIcebroodSaga.png"     minSize="20" maxSize="32" heightOffset="0.25" behavior="3"/>
+		<POI MapID="1371" xpos="-69.3715" ypos="183.184" zpos="-1028.21" type="assistances.explorations.s5.drizzlewood_coast" GUID="35DyFY70DUKeTym6WjfsiQ==" iconFile="Img/Mounts/Springer.png"                 minSize="32" maxSize="32"/>
+		<POI MapID="1371" xpos="-481.965" ypos="137.862" zpos="-582.212" type="assistances.explorations.s5.drizzlewood_coast" GUID="gUWeU+G8AUC579IKOgQPNw==" iconFile="Img/Season5/MasteryIcebroodSaga.png"     minSize="20" maxSize="32" heightOffset="0.25" behavior="3"/>
+		<POI MapID="1371" xpos="-386.712" ypos="124.2"   zpos="-592.387" type="assistances.explorations.s5.drizzlewood_coast" GUID="m8C5/rcxEEeOmU3xq9QcNQ==" iconFile="Img/Mounts/Springer.png"                 minSize="32" maxSize="32"/>
+		<POI MapID="1371" xpos="-235.682" ypos="125.015" zpos="-606.794" type="assistances.explorations.s5.drizzlewood_coast" GUID="ISRpxcRwaE6WNfA/w+VNeg==" iconFile="Img/Season5/MasteryIcebroodSaga.png"     minSize="20" maxSize="32" heightOffset="0.25" behavior="3"/>
+		<POI MapID="1371" xpos="-225.924" ypos="120.988" zpos="-596.238" type="assistances.explorations.s5.drizzlewood_coast" GUID="rVBm0kj6+kyJ9/qsNsK3jw==" iconFile="Img/Signs/Danger.png"                    minSize="20" maxSize="24" heightOffset="0.25" fadeNear="1000" fadeFar="1200" infoRange="10" info="###################### CAUTION ######################
+JUMP ON YOUR MOUNT IF YOU DON'T HAVE THE GLIDER
+THIS ALLOWS YOU NOT TO DIE IF YOU FALL FROM TOO HIGH
+REQUIRES [BOND OF LIFE] MASTERY IN CRYSTAL CHAMPION"/>
+		<POI MapID="1371" xpos="-138.723" ypos="84.257"  zpos="-466.639" type="assistances.explorations.s5.drizzlewood_coast" GUID="06LzcG97a0WhJGyzZOf9/A==" iconFile="Img/Mounts/Springer.png"                 minSize="32" maxSize="32"/>
+		<POI MapID="1371" xpos="116.752"  ypos="19.6115" zpos="-273.531" type="assistances.explorations.s5.drizzlewood_coast" GUID="dYlvoz0moUact1Rr/zmIsA==" iconFile="Img/Season5/MasteryIcebroodSaga.png"     minSize="20" maxSize="32" heightOffset="0.25" behavior="3"/>
+		<POI MapID="1371" xpos="75.3196"  ypos="30.717"  zpos="-254.45"  type="assistances.explorations.s5.drizzlewood_coast" GUID="Lo5oJvdFAkOoPq9d2iF4PQ==" iconFile="Img/Mounts/Springer.png"                 minSize="32" maxSize="32"/>
+
+	</POIs>
+</OverlayData>

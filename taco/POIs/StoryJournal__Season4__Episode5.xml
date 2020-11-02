@@ -1,0 +1,544 @@
+<!-- 2020.06.09 -->
+<OverlayData>
+	<POIs>
+
+		<!-- A DIFFERENT KIND OF SHATTERER -->
+		<POI MapID="1310" xpos="165.985" ypos="331.289" zpos="535.133" type="story_journal.season_4.all_or_nothing.a_different_kind_of_shatterer" GUID="+4XNsaxEU0SJftEt8lMiDQ=="/>
+		<POI MapID="1310" xpos="214.47"  ypos="356.652" zpos="556.046" type="story_journal.season_4.all_or_nothing.a_different_kind_of_shatterer" GUID="B4E8mnXKNE2wWgcPjvOcdQ=="/>
+		<POI MapID="1310" xpos="217.064" ypos="361.54"  zpos="590.115" type="story_journal.season_4.all_or_nothing.a_different_kind_of_shatterer" GUID="Sqa9oYCkw0aWxARhkZ9X7Q=="/>
+		<POI MapID="1310" xpos="225.108" ypos="365.811" zpos="627.302" type="story_journal.season_4.all_or_nothing.a_different_kind_of_shatterer" GUID="+l3yQ9Y9vEOhAleMk3bdLA=="/>
+		<POI MapID="1310" xpos="235.972" ypos="356.664" zpos="464.706" type="story_journal.season_4.all_or_nothing.a_different_kind_of_shatterer" GUID="Ey3PcRuw/U+TFvwEAjTZyg=="/>
+		<POI MapID="1310" xpos="253.089" ypos="358.306" zpos="594.552" type="story_journal.season_4.all_or_nothing.a_different_kind_of_shatterer" GUID="LoBPVtTGcUi9yIk+6EK/Jg=="/>
+		<POI MapID="1310" xpos="269.58"  ypos="357.222" zpos="557.003" type="story_journal.season_4.all_or_nothing.a_different_kind_of_shatterer" GUID="jGZua0iOBECV3y4VQE2/3w=="/>
+		<POI MapID="1310" xpos="279.555" ypos="377.583" zpos="608.527" type="story_journal.season_4.all_or_nothing.a_different_kind_of_shatterer" GUID="gh7+KRk8HE6XENdlK+9dag=="/>
+		<POI MapID="1310" xpos="294.464" ypos="334.87"  zpos="474.76"  type="story_journal.season_4.all_or_nothing.a_different_kind_of_shatterer" GUID="EjLAIlWz5kyNlX1wCiO7cw=="/>
+		<POI MapID="1310" xpos="308.341" ypos="344.891" zpos="504.51"  type="story_journal.season_4.all_or_nothing.a_different_kind_of_shatterer" GUID="IBlVIdZZfkibFqLhP2dfpg=="/>
+		<POI MapID="1310" xpos="308.983" ypos="318.755" zpos="403.321" type="story_journal.season_4.all_or_nothing.a_different_kind_of_shatterer" GUID="h6cjnwXppk2h7o9o5N/Vdw=="/>
+		<POI MapID="1310" xpos="321.022" ypos="343.598" zpos="477.606" type="story_journal.season_4.all_or_nothing.a_different_kind_of_shatterer" GUID="CrEduLekF0WjSg9es3wG/w=="/>
+		<POI MapID="1310" xpos="335.083" ypos="347.189" zpos="539.884" type="story_journal.season_4.all_or_nothing.a_different_kind_of_shatterer" GUID="QwyyEiuiv0qzpHybCFh17A=="/>
+		<POI MapID="1310" xpos="356.471" ypos="343.014" zpos="442.03"  type="story_journal.season_4.all_or_nothing.a_different_kind_of_shatterer" GUID="5wAY9g5dGE6rmNL72NwWbg=="/>
+		<POI MapID="1310" xpos="370.084" ypos="342.409" zpos="481.315" type="story_journal.season_4.all_or_nothing.a_different_kind_of_shatterer" GUID="mTV+qhasW0evo2IfdPdu7Q=="/>
+		<POI MapID="1310" xpos="390.157" ypos="343.087" zpos="425.238" type="story_journal.season_4.all_or_nothing.a_different_kind_of_shatterer" GUID="U6vSiO04H0KQKiw/NAUx5w=="/>
+
+		<!-- DON'T MINE IF I DO -->
+		<POI MapID="1310" xpos="638.066" ypos="359.298" zpos="830.142" type="story_journal.season_4.all_or_nothing.dont_mine_if_i_do" GUID="fW2/mEKr30+YW/5U+oPcCw==" heightOffset="0"/>
+
+		<!-- DWARVEN ROOM RAIDER -->
+		<Trail type="story_journal.season_4.all_or_nothing.dwarven_room_raider.1" GUID="d7ZTTf0r4EiCNwJ3NvzNTA==" trailData="Data/StoryJournal/Season4/AllOrNothing/DwarvenRoomRaider1.trl" texture="Data/Arrow.png" color="ffffff64" alpha="0.8" fadeNear="1800" fadeFar="2200" animSpeed="0"/>
+		<POI MapID="1310" xpos="811.112" ypos="195.546" zpos="545.265" type="story_journal.season_4.all_or_nothing.dwarven_room_raider.1" GUID="lJP4Kln57EmrCmSA0GrGMg==" iconFile="Data/StartTrailYellow.png" fadeNear="4000" fadeFar="4400" heightOffset="0.25"/>
+		<POI MapID="1310" xpos="841.06"  ypos="188.734" zpos="607.442" type="story_journal.season_4.all_or_nothing.dwarven_room_raider.1" GUID="+DK2Frx9OUGRZ9IbzyN/dg==" iconFile="Img/Icons/Interaction.png" maxSize="16" fadeNear="1800" fadeFar="2200" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="1310" xpos="824.069" ypos="188.975" zpos="610.13"  type="story_journal.season_4.all_or_nothing.dwarven_room_raider.1" GUID="Cx8FO0O34kCEHJvvDQ/eLw==" iconFile="Img/Icons/Target.png"      maxSize="16" fadeNear="1800" fadeFar="2200" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="1310" xpos="765.123" ypos="185.045" zpos="612.688" type="story_journal.season_4.all_or_nothing.dwarven_room_raider.1" GUID="fLRl7jj4bkuqSp2N5EioLQ==" iconFile="Img/Icons/Interaction.png" maxSize="16" fadeNear="1800" fadeFar="2200" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="1310" xpos="747.039" ypos="185.601" zpos="623.053" type="story_journal.season_4.all_or_nothing.dwarven_room_raider.1" GUID="NcE8Rkd6FEiVYbJ6lbtyIA==" iconFile="Img/Icons/Target.png"      maxSize="16" fadeNear="1800" fadeFar="2200" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="1310" xpos="793.263" ypos="181.863" zpos="668.823" type="story_journal.season_4.all_or_nothing.dwarven_room_raider.1" GUID="nMuvSFaqsUyXV96SlMRnpg==" iconFile="Img/Icons/Interaction.png" maxSize="16" fadeNear="1800" fadeFar="2200" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="1310" xpos="779.095" ypos="181.945" zpos="678.568" type="story_journal.season_4.all_or_nothing.dwarven_room_raider.1" GUID="E3ylRiw7o0iS0wjiuXeZQA==" iconFile="Img/Icons/Target.png"      maxSize="16" fadeNear="1800" fadeFar="2200" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="1310" xpos="840.683" ypos="178.309" zpos="751.646" type="story_journal.season_4.all_or_nothing.dwarven_room_raider.1" GUID="mtpRhssboU+vmcZMhCbnYA==" iconFile="Img/Icons/Interaction.png" maxSize="16" fadeNear="1800" fadeFar="2200" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="1310" xpos="853.091" ypos="178.497" zpos="744.205" type="story_journal.season_4.all_or_nothing.dwarven_room_raider.1" GUID="5+1HiH1qjk2zfKPSa6d+Fw==" iconFile="Img/Icons/Target.png"      maxSize="16" fadeNear="1800" fadeFar="2200" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="1310" xpos="822.963" ypos="178.256" zpos="731.998" type="story_journal.season_4.all_or_nothing.dwarven_room_raider.1" GUID="mX4f7Lypp0y6PZC62ADQcQ==" fadeNear="2000" fadeFar="2200"/>
+
+		<Trail type="story_journal.season_4.all_or_nothing.dwarven_room_raider.2" GUID="juL1FgmGfUGtJ+XIMkPttQ==" trailData="Data/StoryJournal/Season4/AllOrNothing/DwarvenRoomRaider2.trl" texture="Data/Arrow.png" color="ffffaa19" alpha="0.8" fadeNear="1800" fadeFar="2200" animSpeed="0"/>
+		<POI MapID="1310" xpos="855.938" ypos="195.357" zpos="547.01"  type="story_journal.season_4.all_or_nothing.dwarven_room_raider.2" GUID="0KmUKd2NzUOOav1AtAfiNA==" iconFile="Data/StartTrailOrange.png" fadeNear="4000" fadeFar="4400" heightOffset="0.25"/>
+		<POI MapID="1310" xpos="976.596" ypos="209.006" zpos="501.78"  type="story_journal.season_4.all_or_nothing.dwarven_room_raider.2" GUID="I35rFlpry0Kxm/SakBAavg==" fadeNear="2000" fadeFar="2200" mapVisibility="0" miniMapVisibility="0"/>
+
+		<Trail type="story_journal.season_4.all_or_nothing.dwarven_room_raider.3" GUID="Fh8FUR8D+E2ssJ/wDMdj0w==" trailData="Data/StoryJournal/Season4/AllOrNothing/DwarvenRoomRaider3.trl" texture="Data/Arrow.png" color="ffe969f0" alpha="0.8" fadeNear="1800" fadeFar="2200" animSpeed="0"/>
+		<POI MapID="1310" xpos="881.284" ypos="195.325" zpos="497.146" type="story_journal.season_4.all_or_nothing.dwarven_room_raider.3" GUID="bJBt5myWQUutermUSUsgLw==" iconFile="Data/StartTrailPurple.png" fadeNear="4000" fadeFar="4400" heightOffset="0.25"/>
+
+		<Trail type="story_journal.season_4.all_or_nothing.dwarven_room_raider.4" GUID="9GzHEJg/G0SDNgsALY+LVw==" trailData="Data/StoryJournal/Season4/AllOrNothing/DwarvenRoomRaider4.trl" texture="Data/Arrow.png" color="ff50c964" alpha="0.8" fadeNear="1800" fadeFar="2200" animSpeed="0"/>
+		<POI MapID="1310" xpos="880.685" ypos="246.982" zpos="511.811" type="story_journal.season_4.all_or_nothing.dwarven_room_raider.4" GUID="o4K7HMlc+EaKBVNcZcQJFg==" iconFile="Data/StartTrailGreen.png" fadeNear="4000" fadeFar="4400" heightOffset="0.25"/>
+		<POI MapID="1310" xpos="915.584" ypos="246.221" zpos="555.326" type="story_journal.season_4.all_or_nothing.dwarven_room_raider.4" GUID="21hoUmZMeUaspxttukQP+Q==" fadeNear="2000" fadeFar="2200" mapVisibility="0" miniMapVisibility="0"/>
+
+		<Trail type="story_journal.season_4.all_or_nothing.dwarven_room_raider.5" GUID="MaoGY+X6aEq+m1m/ksTzTw==" trailData="Data/StoryJournal/Season4/AllOrNothing/DwarvenRoomRaider5.trl" texture="Data/Arrow.png" color="ff55c6f4" alpha="0.8" fadeNear="1800" fadeFar="2200" animSpeed="0"/>
+		<POI MapID="1310" xpos="864.69"  ypos="246.826" zpos="473.306" type="story_journal.season_4.all_or_nothing.dwarven_room_raider.5" GUID="zM4DZl9890qiELMESwKVrg==" iconFile="Data/StartTrailBlue.png" fadeNear="4000" fadeFar="4400" heightOffset="0.25"/>
+		<POI MapID="1310" xpos="898.272" ypos="253.989" zpos="392.84"  type="story_journal.season_4.all_or_nothing.dwarven_room_raider.5" GUID="7egt9N1nIkmlaYnw6yaKkQ==" fadeNear="2000" fadeFar="2200" mapVisibility="0" miniMapVisibility="0"/>
+
+		<Trail type="story_journal.season_4.all_or_nothing.dwarven_room_raider.6" GUID="epGBvz1gZUWVfzL4dLO8ZA==" trailData="Data/StoryJournal/Season4/AllOrNothing/DwarvenRoomRaider6.trl" texture="Data/Arrow.png" color="ffe43a22" alpha="0.8" fadeNear="1800" fadeFar="2200" animSpeed="0"/>
+		<POI MapID="1310" xpos="836.554" ypos="246.895" zpos="464.93"  type="story_journal.season_4.all_or_nothing.dwarven_room_raider.6" GUID="cCmSGplkP0Cg/mMdsEP2GA==" iconFile="Data/StartTrailRed.png"    fadeNear="4000" fadeFar="4400" heightOffset="0.25"/>
+		<POI MapID="1310" xpos="829.803" ypos="248.841" zpos="449.283" type="story_journal.season_4.all_or_nothing.dwarven_room_raider.6" GUID="TsIs3pyJH02n4AqI05dHuw==" iconFile="Img/Icons/Interaction.png" maxSize="16" fadeNear="1800" fadeFar="2200" heightOffset="3" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="1310" xpos="824.735" ypos="245.405" zpos="426.647" type="story_journal.season_4.all_or_nothing.dwarven_room_raider.6" GUID="OELYATb9L0OB8z9WHq/UrQ==" iconFile="Img/Icons/Interaction.png" maxSize="16" fadeNear="1800" fadeFar="2200" heightOffset="3" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="1310" xpos="769.367" ypos="246.242" zpos="396.988" type="story_journal.season_4.all_or_nothing.dwarven_room_raider.6" GUID="4Hasw1H+g0OTwKotXl3ZXw==" iconFile="Img/Icons/Interaction.png" maxSize="16" fadeNear="1800" fadeFar="2200" heightOffset="3" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="1310" xpos="768.534" ypos="246.306" zpos="381.749" type="story_journal.season_4.all_or_nothing.dwarven_room_raider.6" GUID="UtIuDSmXO0euRHbxlSK6Wg==" iconFile="Img/Icons/Interaction.png" maxSize="16" fadeNear="1800" fadeFar="2200" heightOffset="3" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="1310" xpos="817.283" ypos="245.458" zpos="345.017" type="story_journal.season_4.all_or_nothing.dwarven_room_raider.6" GUID="xO8YmpfnHUqwLMeRG6bdsA==" iconFile="Img/Icons/Interaction.png" maxSize="16" fadeNear="1800" fadeFar="2200" heightOffset="3" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="1310" xpos="812.851" ypos="245.466" zpos="392.164" type="story_journal.season_4.all_or_nothing.dwarven_room_raider.6" GUID="uJrzsjKVXEqatOKY8whQWg==" iconFile="Img/Icons/Interaction.png" maxSize="16" fadeNear="1800" fadeFar="2200" heightOffset="3" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="1310" xpos="779.543" ypos="245.456" zpos="386.74"  type="story_journal.season_4.all_or_nothing.dwarven_room_raider.6" GUID="MnWYTU/BxkmITODhQ0vwlA==" fadeNear="2000" fadeFar="2200" mapVisibility="0" miniMapVisibility="0"/>
+
+		<!-- EXPERT ARCHAEOLOGIST -->
+		<POI MapID="1310" xpos="497.495" ypos="317.981" zpos="448.982" type="story_journal.season_4.all_or_nothing.expert_archaeologist" GUID="hCrXtftKkEOury3OQ49oTA==" heightOffset="3.5"/>
+
+		<!-- GRAND PRIZE -->
+		<POI MapID="1310" xpos="912.944" ypos="246.226" zpos="548.716" type="story_journal.season_4.all_or_nothing.grand_prize" GUID="vBqBQJHBD0SMlbHIlXR1jQ==" heightOffset="0.5"/>
+		<POI MapID="1310" xpos="912.944" ypos="247.226" zpos="548.716" type="story_journal.season_4.all_or_nothing.grand_prize" GUID="VnWqmcg3/Ei17FYhFLvIKA==" iconFile="Img/Season4/LightOfDeldrimor.png" fadeNear="800" fadeFar="1200" mapVisibility="0" miniMapVisibility="0"/>
+
+		<!-- HAZARDOUS MATERIALS -->
+		<Trail type="story_journal.season_4.all_or_nothing.hazardous_materials" GUID="cdfaaCfcOEmLlwndiR+Yhw==" trailData="Data/StoryJournal/Season4/AllOrNothing/HazardousMaterials.trl" texture="Data/Arrow.png" color="ffffff00" alpha="0.8" fadeNear="4000" fadeFar="4500" animSpeed="0"/>
+		<POI MapID="1310" xpos="-427.803" ypos="25.9346" zpos="-477.719" type="story_journal.season_4.all_or_nothing.hazardous_materials" GUID="U4utEUIGSUKtNcRdTMQ0tQ==" heightOffset="3.5"/>
+		<POI MapID="1310" xpos="-422.055" ypos="26.6647" zpos="-486.352" type="story_journal.season_4.all_or_nothing.hazardous_materials" GUID="dwpYf8Hz+UO6KSeEHqxi6A==" iconFile="Img/Icons/FlagCheckpoint.png" minSize="32" fadeNear="4000" fadeFar="4500" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="1310" xpos="-256.344" ypos="69.8151" zpos="-507.057" type="story_journal.season_4.all_or_nothing.hazardous_materials" GUID="UQqXZnTPs0qDEhjf108C7Q==" iconFile="Img/Icons/FlagCheckpoint.png" minSize="32" fadeNear="4000" fadeFar="4500" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="1310" xpos="-138.618" ypos="166.919" zpos="-401.739" type="story_journal.season_4.all_or_nothing.hazardous_materials" GUID="Z/5oChRzXUmGWdEcaMSHOw==" iconFile="Img/Icons/FlagCheckpoint.png" minSize="32" fadeNear="4000" fadeFar="4500" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="1310" xpos="-107.26"  ypos="214.354" zpos="-256.555" type="story_journal.season_4.all_or_nothing.hazardous_materials" GUID="QgNE4rau2EaX633fygkk7g==" iconFile="Img/Icons/FlagCheckpoint.png" minSize="32" fadeNear="4000" fadeFar="4500" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="1310" xpos="20.2834"  ypos="265.2"   zpos="-165.984" type="story_journal.season_4.all_or_nothing.hazardous_materials" GUID="+zbCuvzZcUeuoZWozGfF/g==" iconFile="Img/Icons/FlagCheckpoint.png" minSize="32" fadeNear="4000" fadeFar="4500" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="1310" xpos="165.899"  ypos="296.881" zpos="-118.904" type="story_journal.season_4.all_or_nothing.hazardous_materials" GUID="NzEYQ5ODZUOCu3CHCxaXCQ==" iconFile="Img/Icons/FlagCheckpoint.png" minSize="32" fadeNear="4000" fadeFar="4500" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="1310" xpos="285.932"  ypos="347.347" zpos="-30.9643" type="story_journal.season_4.all_or_nothing.hazardous_materials" GUID="bz46cwEPr0Cc6h4Us5iCDA==" iconFile="Img/Icons/FlagCheckpoint.png" minSize="32" fadeNear="4000" fadeFar="4500" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="1310" xpos="379.939"  ypos="345.47"  zpos="43.9687"  type="story_journal.season_4.all_or_nothing.hazardous_materials" GUID="A9r3ZuLuEUm4EQLqAwEIFg==" iconFile="Img/Icons/FlagCheckpoint.png" minSize="32" fadeNear="4000" fadeFar="4500" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="1310" xpos="432.237"  ypos="310.362" zpos="336.096"  type="story_journal.season_4.all_or_nothing.hazardous_materials" GUID="kSrEhMN/BUiJFJbrFA5wSw==" iconFile="Img/Icons/FlagCheckpoint.png" minSize="32" fadeNear="4000" fadeFar="4500" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="1310" xpos="-425.744" ypos="24.8493" zpos="-481.371" type="story_journal.season_4.all_or_nothing.hazardous_materials" GUID="zStCcf89t0iS6Ql0AVJY8Q==" iconFile="Img/Mounts/Jackal.png"        fadeNear="4000" fadeFar="4500" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="1310" xpos="-259.348" ypos="54.3174" zpos="-510.079" type="story_journal.season_4.all_or_nothing.hazardous_materials" GUID="o+u69STkoku2OA3Rc15QDA==" iconFile="Img/Mounts/Springer.png"      fadeNear="4000" fadeFar="4500" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="1310" xpos="-251.013" ypos="65.0395" zpos="-508.05"  type="story_journal.season_4.all_or_nothing.hazardous_materials" GUID="vYgW9eKovUeTmyh+yndzLw==" iconFile="Img/Mounts/Jackal.png"        fadeNear="4000" fadeFar="4500" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="1310" xpos="-199.873" ypos="85.4493" zpos="-450.698" type="story_journal.season_4.all_or_nothing.hazardous_materials" GUID="htpbsSJMYUKOBo/4WBxlrg==" iconFile="Img/Mounts/Springer.png"      fadeNear="4000" fadeFar="4500" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="1310" xpos="-140.953" ypos="151.515" zpos="-405.069" type="story_journal.season_4.all_or_nothing.hazardous_materials" GUID="rX7jyfW1v0KIB4e+N8z1NQ==" iconFile="Img/Mounts/Springer.png"      fadeNear="4000" fadeFar="4500" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="1310" xpos="-94.5699" ypos="150.589" zpos="-334.25"  type="story_journal.season_4.all_or_nothing.hazardous_materials" GUID="lfMsp2fyXUOIO1W9U5cgXQ==" iconFile="Img/Mounts/Springer.png"      fadeNear="4000" fadeFar="4500" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="1310" xpos="-83.813"  ypos="214.557" zpos="-297.927" type="story_journal.season_4.all_or_nothing.hazardous_materials" GUID="hK78G5oRXk2bkupTUY/YXA==" iconFile="Img/Mounts/Jackal.png"        fadeNear="4000" fadeFar="4500" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="1310" xpos="19.6254"  ypos="244.343" zpos="-167.034" type="story_journal.season_4.all_or_nothing.hazardous_materials" GUID="4RwPt/ReKUmiGcHCEVZ1pg==" iconFile="Img/Mounts/Springer.png"      fadeNear="4000" fadeFar="4500" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="1310" xpos="53.6848"  ypos="248.711" zpos="-140.573" type="story_journal.season_4.all_or_nothing.hazardous_materials" GUID="ZM36qZ+3kECEIqwwFc/EAQ==" iconFile="Img/Mounts/Springer.png"      fadeNear="4000" fadeFar="4500" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="1310" xpos="153.753"  ypos="295.787" zpos="-90.7781" type="story_journal.season_4.all_or_nothing.hazardous_materials" GUID="m/EVAMHJh0+HQP/0grwaiw==" iconFile="Img/Mounts/Springer.png"      fadeNear="4000" fadeFar="4500" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="1310" xpos="360.108"  ypos="330.804" zpos="63.1853"  type="story_journal.season_4.all_or_nothing.hazardous_materials" GUID="Z5DawbP+50y+r4EUuAlRZA==" iconFile="Img/Mounts/Springer.png"      fadeNear="4000" fadeFar="4500" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="1310" xpos="386.775"  ypos="344.809" zpos="46.0022"  type="story_journal.season_4.all_or_nothing.hazardous_materials" GUID="Ey+4kZ7A1UGvmgiGxiC5kw==" iconFile="Img/Mounts/Jackal.png"        fadeNear="4000" fadeFar="4500" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="1310" xpos="405.023"  ypos="302.634" zpos="358.607"  type="story_journal.season_4.all_or_nothing.hazardous_materials" GUID="YEYmJflIS02sJgog23wQAw==" iconFile="Img/Mounts/Springer.png"      fadeNear="4000" fadeFar="4500" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="1310" xpos="393.134"  ypos="336.431" zpos="368.333"  type="story_journal.season_4.all_or_nothing.hazardous_materials" GUID="4KQINvus90GDuHoor1GnSg==" iconFile="Img/Mounts/Jackal.png"        fadeNear="4000" fadeFar="4500" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="1310" xpos="534.308"  ypos="367.955" zpos="698.048"  type="story_journal.season_4.all_or_nothing.hazardous_materials" GUID="4vorCYwuTk6yv2Q0bK7zsw==" iconFile="Img/Icons/FlagFinal.png"      fadeNear="4000" fadeFar="4500" heightOffset="0.5" mapVisibility="0" miniMapVisibility="0"/>
+
+		<!-- HONORED RITUAL -->
+		<POI MapID="1310" xpos="-179.098" ypos="104.767" zpos="-497.613" type="story_journal.season_4.all_or_nothing.honored_ritual" GUID="FumExVd+bkSfa7zW7N4V1g==" iconFile="Img/PoF/MasteryPoF.png"        heightOffset="1"/>
+		<POI MapID="1310" xpos="-177.756" ypos="106.932" zpos="-499.883" type="story_journal.season_4.all_or_nothing.honored_ritual" GUID="IQdPsfS1dEyV7pYTFRbEvQ==" iconFile="Img/Season4/HonoredRitual.png" minSize="48" maxSize="64" fadeNear="800" fadeFar="1100" mapVisibility="0" miniMapVisibility="0"/>
+
+		<!-- JUNK DEBUNK -->
+		<POI MapID="1310" xpos="203.213" ypos="324.17" zpos="214.504" type="story_journal.season_4.all_or_nothing.junk_debunk" GUID="NVsGPT/05keGuE5ZP/Rk7g==" heightOffset="0.75"/>
+		<Trail type="story_journal.season_4.all_or_nothing.junk_debunk" GUID="lmmN+rkhlE+16t46vPTXRQ==" trailData="Data/StoryJournal/Season4/AllOrNothing/JunkDebunk_1.trl" texture="Data/Arrow.png" color="ff00bbff" alpha="0.8" fadeNear="3000" fadeFar="3500" animSpeed="0"/>
+		<Trail type="story_journal.season_4.all_or_nothing.junk_debunk" GUID="Lzt2gPxA0EWcb1dFAfJyNg==" trailData="Data/StoryJournal/Season4/AllOrNothing/JunkDebunk_2.trl" texture="Data/Arrow.png" color="ff00ffbb" alpha="0.8" fadeNear="3000" fadeFar="3500" animSpeed="0"/>
+		<Trail type="story_journal.season_4.all_or_nothing.junk_debunk" GUID="MbSwkbT4nkyYQkpcIyA0Lg==" trailData="Data/StoryJournal/Season4/AllOrNothing/JunkDebunk_3.trl" texture="Data/Arrow.png" color="ffbbff00" alpha="0.8" fadeNear="3000" fadeFar="3500" animSpeed="0"/>
+
+		<!-- NATURE LOVES A VACUUM -->
+		<POI MapID="1310" xpos="-678.005" ypos="1.12996" zpos="-958.239" type="story_journal.season_4.all_or_nothing.nature_loves_a_vacuum" GUID="J3Etyc9yc0uIuwzTy+xbyg=="/>
+		<POI MapID="1310" xpos="-669.408" ypos="3.1266"  zpos="-718.01"  type="story_journal.season_4.all_or_nothing.nature_loves_a_vacuum" GUID="rvrcNuCj70qCBEXpNgP6bw=="/>
+		<POI MapID="1310" xpos="-659.628" ypos="1.73276" zpos="-1007.16" type="story_journal.season_4.all_or_nothing.nature_loves_a_vacuum" GUID="ZsZIoBB4nEOvY5BSxA51Qw=="/>
+		<POI MapID="1310" xpos="-619.868" ypos="3.97484" zpos="-694.641" type="story_journal.season_4.all_or_nothing.nature_loves_a_vacuum" GUID="b/mAHdiKVUSMMd3WJwfUZg=="/>
+		<POI MapID="1310" xpos="-614.449" ypos="1.73102" zpos="-652.192" type="story_journal.season_4.all_or_nothing.nature_loves_a_vacuum" GUID="TWajEYTM9km/2T8ESoKC6w=="/>
+		<POI MapID="1310" xpos="-448.974" ypos="1.18593" zpos="-966.188" type="story_journal.season_4.all_or_nothing.nature_loves_a_vacuum" GUID="Z7mjF1SUJUS4vjzPL2hVYg=="/>
+		<POI MapID="1310" xpos="-259.911" ypos="16.7354" zpos="-940.341" type="story_journal.season_4.all_or_nothing.nature_loves_a_vacuum" GUID="cRoL7dKA9EGLz5LZNt3i+g=="/>
+
+		<!-- NO ONE WAS USING IT ANYWAY -->
+		<POI MapID="1310" xpos="717.289" ypos="390.658" zpos="-12.5782" type="story_journal.season_4.all_or_nothing.no_one_was_using_it_anyway" GUID="2xJKUC+RR0CMb6IrTpUoFw=="/>
+		<POI MapID="1310" xpos="718.003" ypos="416.774" zpos="11.9452"  type="story_journal.season_4.all_or_nothing.no_one_was_using_it_anyway" GUID="fILMwsInjEmI5DjRkMl1vA=="/>
+		<POI MapID="1310" xpos="744.779" ypos="185.091" zpos="606.081"  type="story_journal.season_4.all_or_nothing.no_one_was_using_it_anyway" GUID="R4Grb+JqUkioF+DobxneAQ=="/>
+		<POI MapID="1310" xpos="745.709" ypos="185.09"  zpos="601.539"  type="story_journal.season_4.all_or_nothing.no_one_was_using_it_anyway" GUID="bN7QSxnS8UKCyycP2Po0Mw=="/>
+		<POI MapID="1310" xpos="746.808" ypos="185.093" zpos="591.465"  type="story_journal.season_4.all_or_nothing.no_one_was_using_it_anyway" GUID="YE05GZ1vD0adQ4ulvMzjMQ=="/>
+		<POI MapID="1310" xpos="748.418" ypos="245.543" zpos="342.567"  type="story_journal.season_4.all_or_nothing.no_one_was_using_it_anyway" GUID="984r75qLG0+vw1kuE1s1+w=="/>
+		<POI MapID="1310" xpos="749.86"  ypos="185.091" zpos="640.009"  type="story_journal.season_4.all_or_nothing.no_one_was_using_it_anyway" GUID="8/jFAV7BaUCYj5iwnbjVOw=="/>
+		<POI MapID="1310" xpos="750.002" ypos="185.096" zpos="639.641"  type="story_journal.season_4.all_or_nothing.no_one_was_using_it_anyway" GUID="woV9Uos71UqvhS0ScPl5eA=="/>
+		<POI MapID="1310" xpos="751.116" ypos="245.53"  zpos="394.156"  type="story_journal.season_4.all_or_nothing.no_one_was_using_it_anyway" GUID="luom7sY6JUSeI71Y0utWPQ=="/>
+		<POI MapID="1310" xpos="751.564" ypos="251.829" zpos="415.724"  type="story_journal.season_4.all_or_nothing.no_one_was_using_it_anyway" GUID="9f2i/xz6lUyegmArYiy70w=="/>
+		<POI MapID="1310" xpos="753.121" ypos="246.319" zpos="433.271"  type="story_journal.season_4.all_or_nothing.no_one_was_using_it_anyway" GUID="rzAn8UXHY0qyim+IkdsIgg=="/>
+		<POI MapID="1310" xpos="759.506" ypos="245.4"   zpos="399.274"  type="story_journal.season_4.all_or_nothing.no_one_was_using_it_anyway" GUID="VmXc/ZehjUCM6GndYp9nEg=="/>
+		<POI MapID="1310" xpos="762.984" ypos="191.676" zpos="600.677"  type="story_journal.season_4.all_or_nothing.no_one_was_using_it_anyway" GUID="8YPh+rxhkkOxZYBoKnXnfw=="/>
+		<POI MapID="1310" xpos="763.223" ypos="192.442" zpos="604.835"  type="story_journal.season_4.all_or_nothing.no_one_was_using_it_anyway" GUID="yJaJz0C/J0K829c707G7VQ=="/>
+		<POI MapID="1310" xpos="764.017" ypos="182.24"  zpos="657.441"  type="story_journal.season_4.all_or_nothing.no_one_was_using_it_anyway" GUID="HOLPZh17Q0KvOqWlmXdf4A=="/>
+		<POI MapID="1310" xpos="764.766" ypos="181.865" zpos="669.718"  type="story_journal.season_4.all_or_nothing.no_one_was_using_it_anyway" GUID="mRl9EH32sUWsObU1+VlNCQ=="/>
+		<POI MapID="1310" xpos="764.928" ypos="245.543" zpos="380.053"  type="story_journal.season_4.all_or_nothing.no_one_was_using_it_anyway" GUID="+K8F/ZDjtEaAc/tqepxUsg=="/>
+		<POI MapID="1310" xpos="765.252" ypos="245.439" zpos="397.895"  type="story_journal.season_4.all_or_nothing.no_one_was_using_it_anyway" GUID="mBe68Ih8zEuHxskw3tN5Ew=="/>
+		<POI MapID="1310" xpos="765.577" ypos="185.09"  zpos="588.7"    type="story_journal.season_4.all_or_nothing.no_one_was_using_it_anyway" GUID="paQxRH4RcEOCcAC3yDS1nw=="/>
+		<POI MapID="1310" xpos="769.125" ypos="245.53"  zpos="341.084"  type="story_journal.season_4.all_or_nothing.no_one_was_using_it_anyway" GUID="neogCoRb6kOSxlV7eJ/f2Q=="/>
+		<POI MapID="1310" xpos="770.171" ypos="185.045" zpos="617.007"  type="story_journal.season_4.all_or_nothing.no_one_was_using_it_anyway" GUID="5TWtcAnLZkmiIGr9vSLRKw=="/>
+		<POI MapID="1310" xpos="770.664" ypos="191.675" zpos="619.336"  type="story_journal.season_4.all_or_nothing.no_one_was_using_it_anyway" GUID="0wWAX0psPU2HoF4gzu2R5Q=="/>
+		<POI MapID="1310" xpos="771.336" ypos="185.045" zpos="621.085"  type="story_journal.season_4.all_or_nothing.no_one_was_using_it_anyway" GUID="+MMAsBX+FUiiWPK3J7BcGQ=="/>
+		<POI MapID="1310" xpos="771.795" ypos="245.4"   zpos="425.871"  type="story_journal.season_4.all_or_nothing.no_one_was_using_it_anyway" GUID="6OsW2qqyqEe3und65E1TAQ=="/>
+		<POI MapID="1310" xpos="774.225" ypos="245.456" zpos="340.63"   type="story_journal.season_4.all_or_nothing.no_one_was_using_it_anyway" GUID="hBaj0tff70q1LPbjUmGW2w=="/>
+		<POI MapID="1310" xpos="774.275" ypos="245.456" zpos="339.836"  type="story_journal.season_4.all_or_nothing.no_one_was_using_it_anyway" GUID="IgmmxWQVp0ee5TnNw0+4tA=="/>
+		<POI MapID="1310" xpos="775.076" ypos="190.171" zpos="688.203"  type="story_journal.season_4.all_or_nothing.no_one_was_using_it_anyway" GUID="kNSdMkquUk6N57nw+MyD1A=="/>
+		<POI MapID="1310" xpos="776.201" ypos="245.4"   zpos="422.726"  type="story_journal.season_4.all_or_nothing.no_one_was_using_it_anyway" GUID="o1sitvHcbUCZYPOzOa40bg=="/>
+		<POI MapID="1310" xpos="778.641" ypos="245.404" zpos="425.32"   type="story_journal.season_4.all_or_nothing.no_one_was_using_it_anyway" GUID="16jgBAJrLUq29o4ORQM6+A=="/>
+		<POI MapID="1310" xpos="779.806" ypos="245.4"   zpos="396.875"  type="story_journal.season_4.all_or_nothing.no_one_was_using_it_anyway" GUID="Pxk36ZSIq0i373/KM4hVkQ=="/>
+		<POI MapID="1310" xpos="779.832" ypos="245.461" zpos="392.966"  type="story_journal.season_4.all_or_nothing.no_one_was_using_it_anyway" GUID="BVZ108U/10mQROLmpv1Llw=="/>
+		<POI MapID="1310" xpos="781.614" ypos="191.066" zpos="666.552"  type="story_journal.season_4.all_or_nothing.no_one_was_using_it_anyway" GUID="aXv7DGcy6UOSGQbzZarBjw=="/>
+		<POI MapID="1310" xpos="782.582" ypos="192.528" zpos="616.958"  type="story_journal.season_4.all_or_nothing.no_one_was_using_it_anyway" GUID="8WfavpoNN0+PRQtZTmt/LA=="/>
+		<POI MapID="1310" xpos="783.851" ypos="191.019" zpos="585.075"  type="story_journal.season_4.all_or_nothing.no_one_was_using_it_anyway" GUID="j04RNeudQUKqgGnlWX+7EA=="/>
+		<POI MapID="1310" xpos="784.098" ypos="181.863" zpos="707.403"  type="story_journal.season_4.all_or_nothing.no_one_was_using_it_anyway" GUID="qsEa0Ml9MEij8Waz3A0uxA=="/>
+		<POI MapID="1310" xpos="784.117" ypos="245.456" zpos="351.242"  type="story_journal.season_4.all_or_nothing.no_one_was_using_it_anyway" GUID="C+54gBG04kOTBCW23K179Q=="/>
+		<POI MapID="1310" xpos="784.888" ypos="245.456" zpos="358.242"  type="story_journal.season_4.all_or_nothing.no_one_was_using_it_anyway" GUID="jeOyYmSg4UO/eXnFZ46J6Q=="/>
+		<POI MapID="1310" xpos="787.076" ypos="245.456" zpos="355.656"  type="story_journal.season_4.all_or_nothing.no_one_was_using_it_anyway" GUID="B5JSqL0MrEWndMHfDaFckw=="/>
+		<POI MapID="1310" xpos="789.163" ypos="245.456" zpos="377.424"  type="story_journal.season_4.all_or_nothing.no_one_was_using_it_anyway" GUID="/QGoQbTgDEyIcercKIeyTQ=="/>
+		<POI MapID="1310" xpos="789.694" ypos="245.456" zpos="381.64"   type="story_journal.season_4.all_or_nothing.no_one_was_using_it_anyway" GUID="i6N91kVJAkmBuq5T2wjVGA=="/>
+		<POI MapID="1310" xpos="793.109" ypos="185.09"  zpos="636.681"  type="story_journal.season_4.all_or_nothing.no_one_was_using_it_anyway" GUID="io1wtMiyj0WsajkQsfVdiQ=="/>
+		<POI MapID="1310" xpos="793.362" ypos="181.863" zpos="654.813"  type="story_journal.season_4.all_or_nothing.no_one_was_using_it_anyway" GUID="1M6acryUH0eWImWfzmyb2w=="/>
+		<POI MapID="1310" xpos="793.551" ypos="185.09"  zpos="628.094"  type="story_journal.season_4.all_or_nothing.no_one_was_using_it_anyway" GUID="Ni/SPt9MG0uRyQUQvZnkVA=="/>
+		<POI MapID="1310" xpos="795.48"  ypos="181.818" zpos="676.139"  type="story_journal.season_4.all_or_nothing.no_one_was_using_it_anyway" GUID="9K0gLpHxJkC+C5wWZWDnAQ=="/>
+		<POI MapID="1310" xpos="795.971" ypos="188.448" zpos="678.361"  type="story_journal.season_4.all_or_nothing.no_one_was_using_it_anyway" GUID="ildIY0jLIkuxPasqyvyLnA=="/>
+		<POI MapID="1310" xpos="796.423" ypos="181.863" zpos="650.335"  type="story_journal.season_4.all_or_nothing.no_one_was_using_it_anyway" GUID="uftcBESLKUePuK5HgctNUg=="/>
+		<POI MapID="1310" xpos="797.261" ypos="191.067" zpos="696.617"  type="story_journal.season_4.all_or_nothing.no_one_was_using_it_anyway" GUID="ddJZIJO+hkO7f8y9SgiMEQ=="/>
+		<POI MapID="1310" xpos="797.553" ypos="185.115" zpos="634.259"  type="story_journal.season_4.all_or_nothing.no_one_was_using_it_anyway" GUID="5DMF27tF3kmNIPWjsVKE5Q=="/>
+		<POI MapID="1310" xpos="799.991" ypos="178.301" zpos="737.6"    type="story_journal.season_4.all_or_nothing.no_one_was_using_it_anyway" GUID="csoNganYwUqpNgx2pmftdA=="/>
+		<POI MapID="1310" xpos="802.759" ypos="245.456" zpos="351.042"  type="story_journal.season_4.all_or_nothing.no_one_was_using_it_anyway" GUID="uQHED0xz+kSoek97xHOciQ=="/>
+		<POI MapID="1310" xpos="803.263" ypos="245.456" zpos="347.399"  type="story_journal.season_4.all_or_nothing.no_one_was_using_it_anyway" GUID="Oxy2cx5QvUOl3CkLxThPcQ=="/>
+		<POI MapID="1310" xpos="806.626" ypos="189.265" zpos="673.548"  type="story_journal.season_4.all_or_nothing.no_one_was_using_it_anyway" GUID="JzLbmaA970iwxb7P1nAjfw=="/>
+		<POI MapID="1310" xpos="807.978" ypos="245.459" zpos="347.921"  type="story_journal.season_4.all_or_nothing.no_one_was_using_it_anyway" GUID="1nCMKrrb0E6m3aPrNU+5NQ=="/>
+		<POI MapID="1310" xpos="808.822" ypos="181.818" zpos="671.813"  type="story_journal.season_4.all_or_nothing.no_one_was_using_it_anyway" GUID="X5f/+tpUB0uxkKnkTVKB9w=="/>
+		<POI MapID="1310" xpos="812.749" ypos="246.138" zpos="345.794"  type="story_journal.season_4.all_or_nothing.no_one_was_using_it_anyway" GUID="hp7GzAi9R0KTWWf7mPF3Ng=="/>
+		<POI MapID="1310" xpos="813.704" ypos="187.766" zpos="746.192"  type="story_journal.season_4.all_or_nothing.no_one_was_using_it_anyway" GUID="4NpVTg+crU6W1OwyW9GZiQ=="/>
+		<POI MapID="1310" xpos="815.037" ypos="245.456" zpos="349.456"  type="story_journal.season_4.all_or_nothing.no_one_was_using_it_anyway" GUID="1QXl+IakvU6eicm0yFPBPA=="/>
+		<POI MapID="1310" xpos="815.712" ypos="245.462" zpos="336.61"   type="story_journal.season_4.all_or_nothing.no_one_was_using_it_anyway" GUID="2fdw/Eegu0yM7vCEJrm0rQ=="/>
+		<POI MapID="1310" xpos="815.846" ypos="187.785" zpos="728.577"  type="story_journal.season_4.all_or_nothing.no_one_was_using_it_anyway" GUID="39ZZcRBhbUWXKwxoPe9jtA=="/>
+		<POI MapID="1310" xpos="815.952" ypos="246.125" zpos="338.498"  type="story_journal.season_4.all_or_nothing.no_one_was_using_it_anyway" GUID="zcsxtDI/k02l+diIq2ZUHg=="/>
+		<POI MapID="1310" xpos="815.963" ypos="178.563" zpos="744.339"  type="story_journal.season_4.all_or_nothing.no_one_was_using_it_anyway" GUID="vBimJ9Js5kqK3Gs0VTyPzg=="/>
+		<POI MapID="1310" xpos="816.621" ypos="245.456" zpos="346.48"   type="story_journal.season_4.all_or_nothing.no_one_was_using_it_anyway" GUID="wBwt7X8p7kiIvHnJABnpNw=="/>
+		<POI MapID="1310" xpos="817.836" ypos="245.975" zpos="376.342"  type="story_journal.season_4.all_or_nothing.no_one_was_using_it_anyway" GUID="E9HyvmJ6q0O/6Ud4HAKXTQ=="/>
+		<POI MapID="1310" xpos="819.665" ypos="191.798" zpos="589.491"  type="story_journal.season_4.all_or_nothing.no_one_was_using_it_anyway" GUID="Wbuk9cLZqky3taGFRJnvNQ=="/>
+		<POI MapID="1310" xpos="821.358" ypos="245.4"   zpos="403.984"  type="story_journal.season_4.all_or_nothing.no_one_was_using_it_anyway" GUID="Irji7xHq6EOQgigZ83Encw=="/>
+		<POI MapID="1310" xpos="822.556" ypos="190.325" zpos="597.886"  type="story_journal.season_4.all_or_nothing.no_one_was_using_it_anyway" GUID="kDcNzRLOVESGX/mfe6J+Xw=="/>
+		<POI MapID="1310" xpos="822.915" ypos="245.404" zpos="418.164"  type="story_journal.season_4.all_or_nothing.no_one_was_using_it_anyway" GUID="N6+hi3FQrE6TXti+ImNkfQ=="/>
+		<POI MapID="1310" xpos="823.436" ypos="178.343" zpos="748.742"  type="story_journal.season_4.all_or_nothing.no_one_was_using_it_anyway" GUID="42nrpDlb/U+Mrs7YLuOHoA=="/>
+		<POI MapID="1310" xpos="823.508" ypos="245.4"   zpos="422.98"   type="story_journal.season_4.all_or_nothing.no_one_was_using_it_anyway" GUID="wJQXD5q66UewZ8ipm4UYTg=="/>
+		<POI MapID="1310" xpos="824.381" ypos="360.245" zpos="-34.9229" type="story_journal.season_4.all_or_nothing.no_one_was_using_it_anyway" GUID="HSfH7o7+10yr7MR5TEO1lw=="/>
+		<POI MapID="1310" xpos="824.489" ypos="245.4"   zpos="430.217"  type="story_journal.season_4.all_or_nothing.no_one_was_using_it_anyway" GUID="RGVGy+BT5E6O/h7bMIIw8g=="/>
+		<POI MapID="1310" xpos="825.073" ypos="181.863" zpos="680.577"  type="story_journal.season_4.all_or_nothing.no_one_was_using_it_anyway" GUID="xiwV4BwJZkCd9LhLC7WDBQ=="/>
+		<POI MapID="1310" xpos="829.404" ypos="245.456" zpos="336.747"  type="story_journal.season_4.all_or_nothing.no_one_was_using_it_anyway" GUID="wX/xr6l6/ECz4FCZVRWC5w=="/>
+		<POI MapID="1310" xpos="831.154" ypos="245.456" zpos="363.964"  type="story_journal.season_4.all_or_nothing.no_one_was_using_it_anyway" GUID="kvl+Kn67nkq4pNI5ugr+eg=="/>
+		<POI MapID="1310" xpos="832.364" ypos="186.862" zpos="729.341"  type="story_journal.season_4.all_or_nothing.no_one_was_using_it_anyway" GUID="pEpPxWz8QEqsMH65hXtTZA=="/>
+		<POI MapID="1310" xpos="833.516" ypos="178.301" zpos="767.797"  type="story_journal.season_4.all_or_nothing.no_one_was_using_it_anyway" GUID="2sin2sookEWoZsPRphhH9Q=="/>
+		<POI MapID="1310" xpos="833.746" ypos="186.842" zpos="750.034"  type="story_journal.season_4.all_or_nothing.no_one_was_using_it_anyway" GUID="eFsSos8aiECel1fI+w5+xg=="/>
+		<POI MapID="1310" xpos="833.781" ypos="186.842" zpos="749.882"  type="story_journal.season_4.all_or_nothing.no_one_was_using_it_anyway" GUID="QiNhOYr+eU6LsImWPOp+DA=="/>
+		<POI MapID="1310" xpos="833.812" ypos="178.257" zpos="738.9"    type="story_journal.season_4.all_or_nothing.no_one_was_using_it_anyway" GUID="vQ00G22E40axtAwQi2ocmw=="/>
+		<POI MapID="1310" xpos="840.998" ypos="188.729" zpos="617.257"  type="story_journal.season_4.all_or_nothing.no_one_was_using_it_anyway" GUID="617pbNM6KUOUURcb4/6njg=="/>
+		<POI MapID="1310" xpos="841.504" ypos="190.344" zpos="586.08"   type="story_journal.season_4.all_or_nothing.no_one_was_using_it_anyway" GUID="TySCLY09zkGdhuqYOYNIyA=="/>
+		<POI MapID="1310" xpos="847.634" ypos="191.401" zpos="592.102"  type="story_journal.season_4.all_or_nothing.no_one_was_using_it_anyway" GUID="QOChLsWw9kypR+wjM85OAQ=="/>
+		<POI MapID="1310" xpos="848.711" ypos="178.256" zpos="710.899"  type="story_journal.season_4.all_or_nothing.no_one_was_using_it_anyway" GUID="v0Q00vbbpkikiXFWqxmnvw=="/>
+		<POI MapID="1310" xpos="851.851" ypos="178.256" zpos="714.755"  type="story_journal.season_4.all_or_nothing.no_one_was_using_it_anyway" GUID="sxO7PqFn8kqur0RD4QuVzw=="/>
+		<POI MapID="1310" xpos="855.306" ypos="187.765" zpos="732.51"   type="story_journal.season_4.all_or_nothing.no_one_was_using_it_anyway" GUID="6E+YClEfL0q/e2iEd09zZQ=="/>
+		<POI MapID="1310" xpos="858.19"  ypos="305.123" zpos="241.095"  type="story_journal.season_4.all_or_nothing.no_one_was_using_it_anyway" GUID="wUKQgtrEcEyBA5R46IwB2Q=="/>
+		<POI MapID="1310" xpos="859.125" ypos="305.123" zpos="265.268"  type="story_journal.season_4.all_or_nothing.no_one_was_using_it_anyway" GUID="qj+vdwUtR0e9QPZgp/W7/Q=="/>
+		<POI MapID="1310" xpos="861.988" ypos="324.077" zpos="324.339"  type="story_journal.season_4.all_or_nothing.no_one_was_using_it_anyway" GUID="H7051Ohsw0a1VZwbXAOHCQ=="/>
+		<POI MapID="1310" xpos="864.493" ypos="336.164" zpos="276.12"   type="story_journal.season_4.all_or_nothing.no_one_was_using_it_anyway" GUID="ycdO7QGeiU6uOpZhcShQGg=="/>
+		<POI MapID="1310" xpos="864.731" ypos="195.123" zpos="601.516"  type="story_journal.season_4.all_or_nothing.no_one_was_using_it_anyway" GUID="v0PrRabofE63Iy/eEe1WYg=="/>
+		<POI MapID="1310" xpos="865.076" ypos="195.123" zpos="594.83"   type="story_journal.season_4.all_or_nothing.no_one_was_using_it_anyway" GUID="WCbHO9Rlq0uL3LiBWofzBg=="/>
+		<POI MapID="1310" xpos="865.514" ypos="178.301" zpos="741.794"  type="story_journal.season_4.all_or_nothing.no_one_was_using_it_anyway" GUID="/e0IwGjQ60ejbFxtnQzfdw=="/>
+		<POI MapID="1310" xpos="867.955" ypos="309.513" zpos="292.62"   type="story_journal.season_4.all_or_nothing.no_one_was_using_it_anyway" GUID="GfdDo7u/JUqgRuxCcLUj9Q=="/>
+		<POI MapID="1310" xpos="873.898" ypos="195.167" zpos="578.982"  type="story_journal.season_4.all_or_nothing.no_one_was_using_it_anyway" GUID="a/RoC4sAFk+ze4h8vvXyRA=="/>
+		<POI MapID="1310" xpos="874.071" ypos="324.074" zpos="328.117"  type="story_journal.season_4.all_or_nothing.no_one_was_using_it_anyway" GUID="BEEdWqZM7EqmLS9vsnJwIA=="/>
+		<POI MapID="1310" xpos="875.056" ypos="336.303" zpos="294.699"  type="story_journal.season_4.all_or_nothing.no_one_was_using_it_anyway" GUID="de8Ui2nRQkeCn4iiFq0ARA=="/>
+		<POI MapID="1310" xpos="875.833" ypos="360.835" zpos="41.2443"  type="story_journal.season_4.all_or_nothing.no_one_was_using_it_anyway" GUID="iwet3zXZK0mMvkmsye9L5g=="/>
+		<POI MapID="1310" xpos="883.272" ypos="195.136" zpos="614.143"  type="story_journal.season_4.all_or_nothing.no_one_was_using_it_anyway" GUID="t6kPaajGgU+tP8oSXe35BA=="/>
+		<POI MapID="1310" xpos="888.82"  ypos="195.145" zpos="590.462"  type="story_journal.season_4.all_or_nothing.no_one_was_using_it_anyway" GUID="9vpjX6SuPEWKu95NJOvj8A=="/>
+		<POI MapID="1310" xpos="891.236" ypos="360.253" zpos="-28.497"  type="story_journal.season_4.all_or_nothing.no_one_was_using_it_anyway" GUID="6GCASgIZlEOpuoD8qKQFWA=="/>
+		<POI MapID="1310" xpos="893.698" ypos="246.833" zpos="349.534"  type="story_journal.season_4.all_or_nothing.no_one_was_using_it_anyway" GUID="nW4icUp2S0Ovn35p09GVog=="/>
+		<POI MapID="1310" xpos="894.1"   ypos="246.823" zpos="323.354"  type="story_journal.season_4.all_or_nothing.no_one_was_using_it_anyway" GUID="1EyksNhfbkuSLLBWGJgW3g=="/>
+		<POI MapID="1310" xpos="894.919" ypos="247.282" zpos="299.485"  type="story_journal.season_4.all_or_nothing.no_one_was_using_it_anyway" GUID="JJN6PlkFMkmIZkFLWNilIg=="/>
+		<POI MapID="1310" xpos="895.275" ypos="247.2"   zpos="289.645"  type="story_journal.season_4.all_or_nothing.no_one_was_using_it_anyway" GUID="kzYn9MubikGG+hWMir0zwg=="/>
+		<POI MapID="1310" xpos="896.308" ypos="195.123" zpos="612.44"   type="story_journal.season_4.all_or_nothing.no_one_was_using_it_anyway" GUID="I7t1S6yPNkafUQvkixSGJg=="/>
+		<POI MapID="1310" xpos="900.655" ypos="245.596" zpos="538.869"  type="story_journal.season_4.all_or_nothing.no_one_was_using_it_anyway" GUID="j6hnHYcXuku+gemVMiu3pg=="/>
+		<POI MapID="1310" xpos="900.939" ypos="193.079" zpos="486.458"  type="story_journal.season_4.all_or_nothing.no_one_was_using_it_anyway" GUID="e3EA5HsQGkmvQ/bqC4u6Cw=="/>
+		<POI MapID="1310" xpos="901.418" ypos="246.816" zpos="377.931"  type="story_journal.season_4.all_or_nothing.no_one_was_using_it_anyway" GUID="TqYsDrh2gE6vmuJw1LGloA=="/>
+		<POI MapID="1310" xpos="903.86"  ypos="192.404" zpos="483.089"  type="story_journal.season_4.all_or_nothing.no_one_was_using_it_anyway" GUID="2z/RwOcotESeXQ5/14MXdQ=="/>
+		<POI MapID="1310" xpos="905.892" ypos="195.127" zpos="633.369"  type="story_journal.season_4.all_or_nothing.no_one_was_using_it_anyway" GUID="SgS2IJaMyU6Z7Ap+5+w1hQ=="/>
+		<POI MapID="1310" xpos="906.795" ypos="195.36"  zpos="620.61"   type="story_journal.season_4.all_or_nothing.no_one_was_using_it_anyway" GUID="jR0HoCCaekSjS7a1lEKa2g=="/>
+		<POI MapID="1310" xpos="909.995" ypos="192.678" zpos="484.754"  type="story_journal.season_4.all_or_nothing.no_one_was_using_it_anyway" GUID="fue8c1hrB0+1Ieoub4ObgQ=="/>
+		<POI MapID="1310" xpos="910.037" ypos="185.503" zpos="422.728"  type="story_journal.season_4.all_or_nothing.no_one_was_using_it_anyway" GUID="OW/4XOWWEki0KOW+4tH6jQ=="/>
+		<POI MapID="1310" xpos="910.133" ypos="185.502" zpos="418.246"  type="story_journal.season_4.all_or_nothing.no_one_was_using_it_anyway" GUID="nlLgeWsHskuILVcxnhmokg=="/>
+		<POI MapID="1310" xpos="911.646" ypos="315.391" zpos="65.866"   type="story_journal.season_4.all_or_nothing.no_one_was_using_it_anyway" GUID="9CTF/MsebUC2RTEvIL9pmw=="/>
+		<POI MapID="1310" xpos="912.525" ypos="240.703" zpos="340.175"  type="story_journal.season_4.all_or_nothing.no_one_was_using_it_anyway" GUID="Zxt/Z79jNk2BX4mok4hwvQ=="/>
+		<POI MapID="1310" xpos="912.925" ypos="246.216" zpos="548.625"  type="story_journal.season_4.all_or_nothing.no_one_was_using_it_anyway" GUID="G+lxANoiBke95Aq2TOjgvQ=="/>
+		<POI MapID="1310" xpos="912.98"  ypos="240.502" zpos="300.477"  type="story_journal.season_4.all_or_nothing.no_one_was_using_it_anyway" GUID="Nj4h9vy8rU+V+c0lz0b1Mw=="/>
+		<POI MapID="1310" xpos="913.009" ypos="191.789" zpos="498.694"  type="story_journal.season_4.all_or_nothing.no_one_was_using_it_anyway" GUID="8Na2AlZ1ykmOnFJE9F1TwA=="/>
+		<POI MapID="1310" xpos="914.223" ypos="240.502" zpos="322.05"   type="story_journal.season_4.all_or_nothing.no_one_was_using_it_anyway" GUID="//zqnkPtYk6FWwPfM92Y/A=="/>
+		<POI MapID="1310" xpos="914.996" ypos="186.549" zpos="453.086"  type="story_journal.season_4.all_or_nothing.no_one_was_using_it_anyway" GUID="WoITjzC/oUyPdd2E8W08xA=="/>
+		<POI MapID="1310" xpos="915.674" ypos="240.502" zpos="312.747"  type="story_journal.season_4.all_or_nothing.no_one_was_using_it_anyway" GUID="RGBhXA8eHkSp2e7DfDi+cQ=="/>
+		<POI MapID="1310" xpos="916.084" ypos="185.159" zpos="411.794"  type="story_journal.season_4.all_or_nothing.no_one_was_using_it_anyway" GUID="GDt7JwAUcUOAnDS8o3AbXg=="/>
+		<POI MapID="1310" xpos="916.225" ypos="195.599" zpos="651.074"  type="story_journal.season_4.all_or_nothing.no_one_was_using_it_anyway" GUID="hYeBKHqrWECTD6mpt7rZjQ=="/>
+		<POI MapID="1310" xpos="918.469" ypos="305.508" zpos="209.923"  type="story_journal.season_4.all_or_nothing.no_one_was_using_it_anyway" GUID="PRDSqsF6wkyQvAIcscvElA=="/>
+		<POI MapID="1310" xpos="918.658" ypos="305.493" zpos="261.425"  type="story_journal.season_4.all_or_nothing.no_one_was_using_it_anyway" GUID="kafUN+dDEEOTiTblVFh4xg=="/>
+		<POI MapID="1310" xpos="919.443" ypos="233.572" zpos="381.796"  type="story_journal.season_4.all_or_nothing.no_one_was_using_it_anyway" GUID="+LOavapjSEqoiiPoAMZn9w=="/>
+		<POI MapID="1310" xpos="921.792" ypos="191.784" zpos="498.558"  type="story_journal.season_4.all_or_nothing.no_one_was_using_it_anyway" GUID="nDeEdEPfZ0+UjKMQb6aG5A=="/>
+		<POI MapID="1310" xpos="925.233" ypos="191.665" zpos="496.839"  type="story_journal.season_4.all_or_nothing.no_one_was_using_it_anyway" GUID="iG7tRQ+VnEqSj/EwboZVUg=="/>
+		<POI MapID="1310" xpos="929.688" ypos="241.685" zpos="303.708"  type="story_journal.season_4.all_or_nothing.no_one_was_using_it_anyway" GUID="vPKEUcTFFEe2ZNgTegvgUg=="/>
+		<POI MapID="1310" xpos="929.964" ypos="191.825" zpos="485.327"  type="story_journal.season_4.all_or_nothing.no_one_was_using_it_anyway" GUID="vm/voVZlkE+ktJljRG0d3w=="/>
+		<POI MapID="1310" xpos="931.136" ypos="191.587" zpos="492.595"  type="story_journal.season_4.all_or_nothing.no_one_was_using_it_anyway" GUID="7ZhFD/t3hUmQi8kQDW8J/g=="/>
+		<POI MapID="1310" xpos="931.74"  ypos="240.503" zpos="332.309"  type="story_journal.season_4.all_or_nothing.no_one_was_using_it_anyway" GUID="xk3olcet5EevYwTIOWZr2A=="/>
+		<POI MapID="1310" xpos="932.752" ypos="240.458" zpos="281.216"  type="story_journal.season_4.all_or_nothing.no_one_was_using_it_anyway" GUID="8MpcRtQr2kOTkZXXHN71bw=="/>
+		<POI MapID="1310" xpos="933.67"  ypos="184.959" zpos="451.831"  type="story_journal.season_4.all_or_nothing.no_one_was_using_it_anyway" GUID="riGJgWpIXUWMztx9TrgzQA=="/>
+		<POI MapID="1310" xpos="933.835" ypos="199.454" zpos="658.613"  type="story_journal.season_4.all_or_nothing.no_one_was_using_it_anyway" GUID="Xy28WBE3r0evyVF+Gus5Ig=="/>
+		<POI MapID="1310" xpos="934.08"  ypos="184.972" zpos="452.161"  type="story_journal.season_4.all_or_nothing.no_one_was_using_it_anyway" GUID="phptWCKuVUyeZRBk1AxmCw=="/>
+		<POI MapID="1310" xpos="934.248" ypos="199.356" zpos="658.163"  type="story_journal.season_4.all_or_nothing.no_one_was_using_it_anyway" GUID="wk6EEkCgskynKphaovKaww=="/>
+		<POI MapID="1310" xpos="935.032" ypos="184.942" zpos="411.492"  type="story_journal.season_4.all_or_nothing.no_one_was_using_it_anyway" GUID="EwqhMIjy30mxbCQx1YlIGQ=="/>
+		<POI MapID="1310" xpos="935.661" ypos="353.237" zpos="91.628"   type="story_journal.season_4.all_or_nothing.no_one_was_using_it_anyway" GUID="29nbNDPviEWfjbIRPQjAag=="/>
+		<POI MapID="1310" xpos="937.922" ypos="314.51"  zpos="72.6929"  type="story_journal.season_4.all_or_nothing.no_one_was_using_it_anyway" GUID="+UMAsk41pEeL2LmlWv9H+Q=="/>
+		<POI MapID="1310" xpos="938.15"  ypos="241.884" zpos="334.628"  type="story_journal.season_4.all_or_nothing.no_one_was_using_it_anyway" GUID="38UCvg+AZU2IShFDDCnHdA=="/>
+		<POI MapID="1310" xpos="938.202" ypos="195.257" zpos="639.501"  type="story_journal.season_4.all_or_nothing.no_one_was_using_it_anyway" GUID="FNOxkCcmlUeUAkWhv0rP/g=="/>
+		<POI MapID="1310" xpos="944.762" ypos="240.356" zpos="341.707"  type="story_journal.season_4.all_or_nothing.no_one_was_using_it_anyway" GUID="AwpFJgRE1kmIJdtqlsziIw=="/>
+		<POI MapID="1310" xpos="945.779" ypos="235.503" zpos="384.952"  type="story_journal.season_4.all_or_nothing.no_one_was_using_it_anyway" GUID="ia6JqG2O6EaqBN+knzqgyg=="/>
+		<POI MapID="1310" xpos="946.12"  ypos="185.623" zpos="456.628"  type="story_journal.season_4.all_or_nothing.no_one_was_using_it_anyway" GUID="yH4pWMNQEE6+k6OeHE66WQ=="/>
+		<POI MapID="1310" xpos="946.961" ypos="185.316" zpos="411.742"  type="story_journal.season_4.all_or_nothing.no_one_was_using_it_anyway" GUID="AEOp4NWSskOYxxMhf5en0A=="/>
+		<POI MapID="1310" xpos="948.745" ypos="189.088" zpos="641.665"  type="story_journal.season_4.all_or_nothing.no_one_was_using_it_anyway" GUID="TWKqbArQ70mpDMSKKSV7tw=="/>
+		<POI MapID="1310" xpos="950.457" ypos="187.069" zpos="645.186"  type="story_journal.season_4.all_or_nothing.no_one_was_using_it_anyway" GUID="W/CIPSqyGEua2n0Kyv4XcQ=="/>
+		<POI MapID="1310" xpos="951.167" ypos="194.068" zpos="628.996"  type="story_journal.season_4.all_or_nothing.no_one_was_using_it_anyway" GUID="tU1QqD/egESMEJtJ83gIGw=="/>
+		<POI MapID="1310" xpos="951.826" ypos="314.783" zpos="105.971"  type="story_journal.season_4.all_or_nothing.no_one_was_using_it_anyway" GUID="e9bO0LR29EmxcqkXx9g+tw=="/>
+		<POI MapID="1310" xpos="951.956" ypos="196.134" zpos="647.72"   type="story_journal.season_4.all_or_nothing.no_one_was_using_it_anyway" GUID="Evn6BRhgFEiyJAr8B1klGg=="/>
+		<POI MapID="1310" xpos="954.69"  ypos="196.549" zpos="627.061"  type="story_journal.season_4.all_or_nothing.no_one_was_using_it_anyway" GUID="wciWmK+wXEqQySqb+/puBw=="/>
+		<POI MapID="1310" xpos="954.76"  ypos="318.461" zpos="84.2572"  type="story_journal.season_4.all_or_nothing.no_one_was_using_it_anyway" GUID="j1iBhbKTa0OfdruDCAbFsw=="/>
+		<POI MapID="1310" xpos="955.381" ypos="239.509" zpos="294.138"  type="story_journal.season_4.all_or_nothing.no_one_was_using_it_anyway" GUID="IjcWMwAQP026Xf6v1J/Y1A=="/>
+		<POI MapID="1310" xpos="956.308" ypos="209.224" zpos="535.45"   type="story_journal.season_4.all_or_nothing.no_one_was_using_it_anyway" GUID="mOhmpw80E0C0rSsexk2Ngw=="/>
+		<POI MapID="1310" xpos="958.018" ypos="186.961" zpos="579.391"  type="story_journal.season_4.all_or_nothing.no_one_was_using_it_anyway" GUID="aV41B3pov0+awKj5rLUd/A=="/>
+		<POI MapID="1310" xpos="958.162" ypos="187.603" zpos="606.716"  type="story_journal.season_4.all_or_nothing.no_one_was_using_it_anyway" GUID="UuuU+dtGtUiWmtUvQtvQLg=="/>
+		<POI MapID="1310" xpos="958.371" ypos="188.154" zpos="585.421"  type="story_journal.season_4.all_or_nothing.no_one_was_using_it_anyway" GUID="pohsLYSNpkeywODNMpuOlw=="/>
+		<POI MapID="1310" xpos="958.606" ypos="196.134" zpos="631.321"  type="story_journal.season_4.all_or_nothing.no_one_was_using_it_anyway" GUID="UCxGmpDnUUy+P9gPexkwpg=="/>
+		<POI MapID="1310" xpos="959.102" ypos="240.027" zpos="263.375"  type="story_journal.season_4.all_or_nothing.no_one_was_using_it_anyway" GUID="AicbC913A0WjHOkFH1Lh/w=="/>
+		<POI MapID="1310" xpos="959.117" ypos="209.809" zpos="521.244"  type="story_journal.season_4.all_or_nothing.no_one_was_using_it_anyway" GUID="mybeDOhJ4kei9p+PBA6CZA=="/>
+		<POI MapID="1310" xpos="959.251" ypos="240.027" zpos="263.486"  type="story_journal.season_4.all_or_nothing.no_one_was_using_it_anyway" GUID="1u+iO6G930+Z1HlkAJ2KHA=="/>
+		<POI MapID="1310" xpos="959.485" ypos="339.412" zpos="117.7"    type="story_journal.season_4.all_or_nothing.no_one_was_using_it_anyway" GUID="Uc/GFFlV3ky8gTmf41KSpw=="/>
+		<POI MapID="1310" xpos="960.074" ypos="240.098" zpos="250.915"  type="story_journal.season_4.all_or_nothing.no_one_was_using_it_anyway" GUID="PO2ocsmegE29t/VZGFc03A=="/>
+		<POI MapID="1310" xpos="961.593" ypos="241.719" zpos="349.864"  type="story_journal.season_4.all_or_nothing.no_one_was_using_it_anyway" GUID="rCeO2sPKfUa8VENhjioo6A=="/>
+		<POI MapID="1310" xpos="961.616" ypos="241.698" zpos="336.539"  type="story_journal.season_4.all_or_nothing.no_one_was_using_it_anyway" GUID="MZPx1MEcbkum2wBzb+WLhA=="/>
+		<POI MapID="1310" xpos="961.734" ypos="236.104" zpos="386.214"  type="story_journal.season_4.all_or_nothing.no_one_was_using_it_anyway" GUID="DMtalfmgWEeQrfPcnB6YmA=="/>
+		<POI MapID="1310" xpos="963.738" ypos="239.574" zpos="283.77"   type="story_journal.season_4.all_or_nothing.no_one_was_using_it_anyway" GUID="Y3xCfRP1B0ibrMFxvax5wQ=="/>
+		<POI MapID="1310" xpos="963.896" ypos="234.825" zpos="318.487"  type="story_journal.season_4.all_or_nothing.no_one_was_using_it_anyway" GUID="r55SfO+cUUWEsikkSXZsBg=="/>
+		<POI MapID="1310" xpos="963.921" ypos="305.421" zpos="216.708"  type="story_journal.season_4.all_or_nothing.no_one_was_using_it_anyway" GUID="CB+00X25bkubebPOgaHKog=="/>
+		<POI MapID="1310" xpos="965.7"   ypos="185.114" zpos="447.625"  type="story_journal.season_4.all_or_nothing.no_one_was_using_it_anyway" GUID="s0ZuHu5ViEiTwVZbewFC1Q=="/>
+		<POI MapID="1310" xpos="966.046" ypos="198.209" zpos="544.181"  type="story_journal.season_4.all_or_nothing.no_one_was_using_it_anyway" GUID="yuYFgd2rPki4ZZNJtKPSOQ=="/>
+		<POI MapID="1310" xpos="966.188" ypos="187.786" zpos="606.203"  type="story_journal.season_4.all_or_nothing.no_one_was_using_it_anyway" GUID="4fFReiXXh0iFEaF5qCJmJg=="/>
+		<POI MapID="1310" xpos="966.993" ypos="185.667" zpos="455.88"   type="story_journal.season_4.all_or_nothing.no_one_was_using_it_anyway" GUID="deI1+9PNjEOjFkXpchkH1w=="/>
+		<POI MapID="1310" xpos="967.404" ypos="240"     zpos="258.524"  type="story_journal.season_4.all_or_nothing.no_one_was_using_it_anyway" GUID="oLNrAQrJt0ma7HVe8OZZJQ=="/>
+		<POI MapID="1310" xpos="967.606" ypos="187.086" zpos="412.526"  type="story_journal.season_4.all_or_nothing.no_one_was_using_it_anyway" GUID="jmJIgweaRU6mIBXftWax2A=="/>
+		<POI MapID="1310" xpos="968.598" ypos="192.904" zpos="571.762"  type="story_journal.season_4.all_or_nothing.no_one_was_using_it_anyway" GUID="AiSCkHzOrEW0cquYo/bT+Q=="/>
+		<POI MapID="1310" xpos="969.427" ypos="186.724" zpos="442.002"  type="story_journal.season_4.all_or_nothing.no_one_was_using_it_anyway" GUID="xTSchpO3YkSRWlU4FsF/Bw=="/>
+		<POI MapID="1310" xpos="969.608" ypos="186.721" zpos="426.914"  type="story_journal.season_4.all_or_nothing.no_one_was_using_it_anyway" GUID="ksIjfZhhok2Y2Z5h8iCWxQ=="/>
+		<POI MapID="1310" xpos="975.192" ypos="280.186" zpos="180.711"  type="story_journal.season_4.all_or_nothing.no_one_was_using_it_anyway" GUID="mV+Yejl7+EaK2WbnWKyIDw=="/>
+		<POI MapID="1310" xpos="975.552" ypos="213.531" zpos="491.84"   type="story_journal.season_4.all_or_nothing.no_one_was_using_it_anyway" GUID="tjiEDIVC1UeuFrPPqDbb/w=="/>
+		<POI MapID="1310" xpos="975.639" ypos="240.561" zpos="276.04"   type="story_journal.season_4.all_or_nothing.no_one_was_using_it_anyway" GUID="4QfqsTs2mEmjI1z8mJVR2g=="/>
+		<POI MapID="1310" xpos="976.511" ypos="239.571" zpos="294.587"  type="story_journal.season_4.all_or_nothing.no_one_was_using_it_anyway" GUID="WVGS8PiI2UelrUzYPohHOQ=="/>
+		<POI MapID="1310" xpos="978.178" ypos="198.312" zpos="520.385"  type="story_journal.season_4.all_or_nothing.no_one_was_using_it_anyway" GUID="xaLpONg83U6i+iFF6ms1fg=="/>
+		<POI MapID="1310" xpos="980.014" ypos="206.291" zpos="545.178"  type="story_journal.season_4.all_or_nothing.no_one_was_using_it_anyway" GUID="BSRkHLRI3kqT9h+0lAVtMA=="/>
+		<POI MapID="1310" xpos="981.717" ypos="305.364" zpos="225.841"  type="story_journal.season_4.all_or_nothing.no_one_was_using_it_anyway" GUID="fRYYmfT1h0e1ondaC5dB+Q=="/>
+		<POI MapID="1310" xpos="981.965" ypos="239.953" zpos="253.052"  type="story_journal.season_4.all_or_nothing.no_one_was_using_it_anyway" GUID="FtESMeNH3kWtawzFD9et9w=="/>
+		<POI MapID="1310" xpos="986.403" ypos="208.937" zpos="484.437"  type="story_journal.season_4.all_or_nothing.no_one_was_using_it_anyway" GUID="jhamSONFlkuwU40z/0w5fA=="/>
+		<POI MapID="1310" xpos="988.311" ypos="208.886" zpos="554.346"  type="story_journal.season_4.all_or_nothing.no_one_was_using_it_anyway" GUID="khQXFElk9UuWsRyCU4LBRg=="/>
+		<POI MapID="1310" xpos="988.521" ypos="208.926" zpos="492.749"  type="story_journal.season_4.all_or_nothing.no_one_was_using_it_anyway" GUID="ZpkcPv4wWkqSWHp7y+bKXA=="/>
+		<POI MapID="1310" xpos="988.747" ypos="208.857" zpos="563.276"  type="story_journal.season_4.all_or_nothing.no_one_was_using_it_anyway" GUID="aiAs50cIOU26SUwjWER8CA=="/>
+		<POI MapID="1310" xpos="989.543" ypos="209.902" zpos="531.673"  type="story_journal.season_4.all_or_nothing.no_one_was_using_it_anyway" GUID="S3+9gjgSQ0ub72RMCaTqJw=="/>
+		<POI MapID="1310" xpos="991.655" ypos="349.852" zpos="110.962"  type="story_journal.season_4.all_or_nothing.no_one_was_using_it_anyway" GUID="wb+qMOrK/E2qlZyhTlV+GA=="/>
+
+		<!-- ODDS AND ENDS -->
+		<POI MapID="1310" xpos="-288.864" ypos="151.383" zpos="1072.76" type="story_journal.season_4.all_or_nothing.odds_and_ends" GUID="wI21A2j7LEGzJkNhADt1Mw==" heightOffset="4.5"/>
+
+		<!-- ONE BIG UGLY -->
+		<POI MapID="1310" xpos="-271.612" ypos="3.02665" zpos="-894.418" type="story_journal.season_4.all_or_nothing.one_big_ugly" GUID="31s3O09JPkqnEC+zhIH56Q=="/>
+
+		<!-- RELOAD -->
+		<Trail type="story_journal.season_4.all_or_nothing.reload" GUID="9kEtpJLqR0yID1+1aK+XHw==" trailData="Data/StoryJournal/Season4/AllOrNothing/Reload.trl" texture="Data/Arrow.png" color="ffffff00" alpha="0.8" fadeNear="4000" fadeFar="4500" animSpeed="0"/>
+		<POI MapID="1310" xpos="-886.173" ypos="49.4068" zpos="-951.445" type="story_journal.season_4.all_or_nothing.reload" GUID="R+joXIL/Qk6LWyI0x7t0gA=="/>
+		<POI MapID="1310" xpos="-617.821" ypos="34.3417" zpos="-862.985" type="story_journal.season_4.all_or_nothing.reload" GUID="+GE68wFlxUWfHem6ixy3ow==" iconFile="Img/Icons/FlagCheckpoint.png" minSize="32" fadeNear="4000" fadeFar="4500" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="1310" xpos="-219.183" ypos="3.49467" zpos="-976.354" type="story_journal.season_4.all_or_nothing.reload" GUID="qt0ZYXvUz0KZSyUba0PWXw==" iconFile="Img/Icons/FlagCheckpoint.png" minSize="32" fadeNear="4000" fadeFar="4500" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="1310" xpos="-119.777" ypos="2.43994" zpos="-686.575" type="story_journal.season_4.all_or_nothing.reload" GUID="p/V+faPJYkGQ6b1ysFeFcA==" iconFile="Img/Icons/FlagCheckpoint.png" minSize="32" fadeNear="4000" fadeFar="4500" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="1310" xpos="-285.887" ypos="24.7135" zpos="-605.443" type="story_journal.season_4.all_or_nothing.reload" GUID="vRwMka3ZQ0Oamhm1IDV7KA==" iconFile="Img/Icons/FlagCheckpoint.png" minSize="32" fadeNear="4000" fadeFar="4500" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="1310" xpos="-537.722" ypos="4.01016" zpos="-401.696" type="story_journal.season_4.all_or_nothing.reload" GUID="XdRGvOnD1EmH508TJZHnAA==" iconFile="Img/Icons/FlagCheckpoint.png" minSize="32" fadeNear="4000" fadeFar="4500" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="1310" xpos="-701.239" ypos="15.6946" zpos="-655.557" type="story_journal.season_4.all_or_nothing.reload" GUID="KXR7LicY3UmqQdYECyBfUg==" iconFile="Img/Icons/FlagCheckpoint.png" minSize="32" fadeNear="4000" fadeFar="4500" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="1310" xpos="-884.116" ypos="51.4986" zpos="-950.797" type="story_journal.season_4.all_or_nothing.reload" GUID="a81EK4dGT0eCd7tE6pLAHQ==" iconFile="Img/Mounts/Jackal.png"        fadeNear="4000" fadeFar="4500" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="1310" xpos="-740.796" ypos="1.68437" zpos="-914.46"  type="story_journal.season_4.all_or_nothing.reload" GUID="/wXgD7xl10Om9o2GOhUWvg==" iconFile="Img/Mounts/Springer.png"      fadeNear="4000" fadeFar="4500" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="1310" xpos="-668.889" ypos="33.5998" zpos="-855.488" type="story_journal.season_4.all_or_nothing.reload" GUID="UOH81eBviEqoGk5fAW9StQ==" iconFile="Img/Mounts/Jackal.png"        fadeNear="4000" fadeFar="4500" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="1310" xpos="-263.79"  ypos="2.40379" zpos="-985.362" type="story_journal.season_4.all_or_nothing.reload" GUID="1+0D5ls6UkSynnD0Efp2yg==" iconFile="Img/Mounts/Skimmer.png"       fadeNear="4000" fadeFar="4500" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="1310" xpos="-263.314" ypos="7.35633" zpos="-585.113" type="story_journal.season_4.all_or_nothing.reload" GUID="Hfbxi3wrlU2YL9VX8ae8YQ==" iconFile="Img/Mounts/Springer.png"      fadeNear="4000" fadeFar="4500" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="1310" xpos="-314.659" ypos="37.773"  zpos="-576.915" type="story_journal.season_4.all_or_nothing.reload" GUID="q7hRiHlZRki6kaUvNc+whw==" iconFile="Img/Mounts/Jackal.png"        fadeNear="4000" fadeFar="4500" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="1310" xpos="-557.977" ypos="0.73149" zpos="-429.87"  type="story_journal.season_4.all_or_nothing.reload" GUID="qu0LTsWEhUOOQ1smvYYbcQ==" iconFile="Img/Mounts/Skimmer.png"       fadeNear="4000" fadeFar="4500" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="1310" xpos="-635.263" ypos="8.00177" zpos="-621.773" type="story_journal.season_4.all_or_nothing.reload" GUID="iQNgC93Uv0+dxAuLC9ARKg==" iconFile="Img/Mounts/Springer.png"      fadeNear="4000" fadeFar="4500" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="1310" xpos="-737.504" ypos="1.11065" zpos="-691.364" type="story_journal.season_4.all_or_nothing.reload" GUID="0eOy0kE2mEqruyClSxSvAg==" iconFile="Img/Mounts/Skimmer.png"       fadeNear="4000" fadeFar="4500" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="1310" xpos="-901.162" ypos="11.603"  zpos="-939.451" type="story_journal.season_4.all_or_nothing.reload" GUID="AMz02D27KUOcXmcE0nvNWg==" iconFile="Img/Mounts/Springer.png"      fadeNear="4000" fadeFar="4500" mapVisibility="0" miniMapVisibility="0"/>
+
+		<!-- SMASH AND GARB -->
+		<POI MapID="1310" xpos="766.474" ypos="381.882" zpos="966.722" type="story_journal.season_4.all_or_nothing.smash_and_garb" GUID="orJSPxERUUWtKGai0djdsA==" heightOffset="0"/>
+		<POI MapID="1310" xpos="637.947" ypos="359.155" zpos="832.547" type="story_journal.season_4.all_or_nothing.smash_and_garb" GUID="FAYoHSmwmUaNugPJicLR6g==" iconFile="Img/Season4/SmashAndGrab.png" minSize="64" maxSize="64" fadeNear="9500" fadeFar="10000" heightOffset="4" mapVisibility="0" miniMapVisibility="0"/>
+
+		<!-- STAR FISHING -->
+		<POI MapID="1310" xpos="-549.477" ypos="0.660552" zpos="-347.761" type="story_journal.season_4.all_or_nothing.star_fishing" GUID="k9RJBBBE7kyd6QcSWdgi3w=="/>
+		<POI MapID="1310" xpos="-549.477" ypos="2"        zpos="-347.761" type="story_journal.season_4.all_or_nothing.star_fishing" GUID="JmI6/yTVzkOKFSNIJf/PJQ==" iconFile="Img/Season4/StarFishing.png"  minSize="48" maxSize="64" fadeNear="800" fadeFar="1200" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="1310" xpos="-546.013" ypos="0.274631" zpos="-349.395" type="story_journal.season_4.all_or_nothing.star_fishing" GUID="+TkTGrMTaEWUHhZnk7oBDQ==" iconFile="Img/Season4/StarFishing2.png" minSize="48" maxSize="64" fadeNear="800" fadeFar="1200" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="1310" xpos="-542.181" ypos="-1.03672" zpos="-351.323" type="story_journal.season_4.all_or_nothing.star_fishing" GUID="4o0SoiL3yUanjUGafCRG2w==" iconFile="Img/Icons/Target.png"         minSize="16" maxSize="16" fadeNear="800" fadeFar="1200" mapVisibility="0" miniMapVisibility="0"/>
+
+		<!-- SURPRISE SUPPLIES -->
+		<Trail type="story_journal.season_4.all_or_nothing.surprise_supplies" GUID="JWi8GtRaUk6nAd/cVUhukw==" trailData="Data/StoryJournal/Season4/AllOrNothing/SurpriseSupplies.trl" texture="Data/Arrow.png" color="ff00ff00" alpha="0.8" fadeNear="4000" fadeFar="4500" animSpeed="0"/>
+		<POI MapID="1310" xpos="377.019"  ypos="178.687" zpos="-204.664" type="story_journal.season_4.all_or_nothing.surprise_supplies" GUID="q382oPdGakajr9Uk6lBU0w==" heightOffset="3"/>
+		<POI MapID="1310" xpos="376.928"  ypos="179.258" zpos="-197.206" type="story_journal.season_4.all_or_nothing.surprise_supplies" GUID="0YeELa40BUagXvwf0Nw+ew==" iconFile="Img/Season4/SurpriseSupplies.png"  minSize="140" maxSize="200" fadeNear="1000" fadeFar="1500" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="1310" xpos="44.7046"  ypos="192.403" zpos="-309.488" type="story_journal.season_4.all_or_nothing.surprise_supplies" GUID="MDTHwGNf802msWpfiWGUYw==" iconFile="Img/Icons/EventCollect.png"        heightOffset="0.5" fadeNear="2500" fadeFar="3000" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="1310" xpos="44.7046"  ypos="194.403" zpos="-309.488" type="story_journal.season_4.all_or_nothing.surprise_supplies" GUID="YAzA0J9zr0OQAg1b2THBSQ==" iconFile="Img/Icons/Fight.png"               fadeNear="2500" fadeFar="3000" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="1310" xpos="49.3743"  ypos="297.417" zpos="-57.3126" type="story_journal.season_4.all_or_nothing.surprise_supplies" GUID="QyqGQ7i280GOr73g5Ht9Tg==" iconFile="Img/Icons/EventCollect.png"        heightOffset="0.5" fadeNear="2500" fadeFar="3000" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="1310" xpos="49.3743"  ypos="299.417" zpos="-57.3126" type="story_journal.season_4.all_or_nothing.surprise_supplies" GUID="5hSxpg/Sd06XWI2N0vdAKQ==" iconFile="Img/Icons/Fight.png"               fadeNear="2500" fadeFar="3000" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="1310" xpos="271.442"  ypos="314.379" zpos="355.348"  type="story_journal.season_4.all_or_nothing.surprise_supplies" GUID="ORfgEtFiI0mMUkvWKTVAEA==" iconFile="Img/Icons/EventEnd.png"            heightOffset="0.5" fadeNear="2000" fadeFar="3000" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="1310" xpos="-323.259" ypos="376.711" zpos="-144.106" type="story_journal.season_4.all_or_nothing.surprise_supplies.first_escort" GUID="ZKQf4750i0G0IEaz/2d5+g=="/>
+		<POI MapID="1310" xpos="-82.4607" ypos="338.564" zpos="-115.033" type="story_journal.season_4.all_or_nothing.surprise_supplies.first_escort" GUID="uuRP2JKL90KR6SlmzRnVSg=="/>
+		<POI MapID="1310" xpos="135.381"  ypos="309.058" zpos="83.8044"  type="story_journal.season_4.all_or_nothing.surprise_supplies.first_escort" GUID="JZoPp39VQUKkvHddjCBhTA=="/>
+
+		<!-- THE FUGITIVE -->
+		<POI MapID="1310" xpos="136.229" ypos="317.52" zpos="-230.994" type="story_journal.season_4.all_or_nothing.the_fugitive" GUID="CeZ2BMlO+0CQTT20wflwGQ=="/>
+
+		<!-- THE MASTER OF MUSIC -->
+		<POI MapID="1310" xpos="305.57"  ypos="200.349" zpos="-155.273" type="story_journal.season_4.all_or_nothing.the_master_of_music" GUID="CyN0TTj9JUS0qJduz10V0g==" behavior="2"/>
+		<POI MapID="1310" xpos="305.57"  ypos="203"     zpos="-155.273" type="story_journal.season_4.all_or_nothing.the_master_of_music" GUID="r2iCqEDaU0uHksfzb6vusg==" iconFile="Img/Season4/TheMasterOfMusicBreeze.png"   minSize="48" maxSize="64" fadeNear="800" fadeFar="800" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="1310" xpos="376.142" ypos="189.091" zpos="-110.751" type="story_journal.season_4.all_or_nothing.the_master_of_music" GUID="Aqkzt0kXgkSxtFIiwRfwUA==" behavior="2"/>
+		<POI MapID="1310" xpos="376.142" ypos="192"     zpos="-110.751" type="story_journal.season_4.all_or_nothing.the_master_of_music" GUID="KcQBrM/yy0SooBd2QHI1Dg==" iconFile="Img/Season4/TheMasterOfMusicClover.png"   minSize="48" maxSize="64" fadeNear="800" fadeFar="800" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="1310" xpos="321.37"  ypos="192.618" zpos="-185.508" type="story_journal.season_4.all_or_nothing.the_master_of_music" GUID="K6GFkUpZeUKVmSJGvSOD2g==" behavior="2"/>
+		<POI MapID="1310" xpos="321.37"  ypos="195.5"   zpos="-185.508" type="story_journal.season_4.all_or_nothing.the_master_of_music" GUID="51ubi5epF0mKrEhFRMApDg==" iconFile="Img/Season4/TheMasterOfMusicDaybreak.png" minSize="48" maxSize="64" fadeNear="800" fadeFar="800" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="1310" xpos="292.554" ypos="193.666" zpos="-63.3222" type="story_journal.season_4.all_or_nothing.the_master_of_music" GUID="bn3y01PuPUOgGsrsYkVdIQ==" behavior="2"/>
+		<POI MapID="1310" xpos="292.554" ypos="196"     zpos="-63.3222" type="story_journal.season_4.all_or_nothing.the_master_of_music" GUID="pfQGzUYGqEGTebhYRbqXww==" iconFile="Img/Season4/TheMasterOfMusicJourney.png"  minSize="48" maxSize="64" fadeNear="800" fadeFar="800" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="1310" xpos="448.668" ypos="237.231" zpos="-2.62105" type="story_journal.season_4.all_or_nothing.the_master_of_music" GUID="W73XmFMPRkiRwSxLttyS+A==" behavior="2"/>
+		<POI MapID="1310" xpos="448.668" ypos="240"     zpos="-2.62105" type="story_journal.season_4.all_or_nothing.the_master_of_music" GUID="fiq10wCEVkCOeo6fwWqclQ==" iconFile="Img/Season4/TheMasterOfMusicSaffron.png"  minSize="48" maxSize="64" fadeNear="800" fadeFar="800" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="1310" xpos="328.363" ypos="192.428" zpos="-167.76"  type="story_journal.season_4.all_or_nothing.the_master_of_music" GUID="4Pg8TQffpUONxCi3T7DRzg==" behavior="2"/>
+		<POI MapID="1310" xpos="328.363" ypos="195"     zpos="-167.76"  type="story_journal.season_4.all_or_nothing.the_master_of_music" GUID="Z4AWnjy++0aqgmOBpBvygQ==" iconFile="Img/Season4/TheMasterOfMusicYukisna.png"  minSize="48" maxSize="64" fadeNear="800" fadeFar="800" mapVisibility="0" miniMapVisibility="0"/>
+
+		<!-- THUNDERHEAD PEAKS INSIGHT: BRECHNAR'S GAUNTLET -->
+		<Trail type="story_journal.season_4.all_or_nothing.thunderhead_peaks_insight_brechnar_s_gauntlet" GUID="npGtmIOVYUOPhlKUs0r0pw==" trailData="Data/StoryJournal/Season4/AllOrNothing/ThunderheadPeaksInsightBrechnarsGauntlet.trl" texture="Data/Arrow.png" color="ffffff00" alpha="0.8" fadeNear="3000" fadeFar="3500" animSpeed="0"/>
+		<POI MapID="1310" xpos="572.967" ypos="358.01"  zpos="712.351"  type="story_journal.season_4.all_or_nothing.thunderhead_peaks_insight_brechnar_s_gauntlet" GUID="lpN0rSE3zEGSUMysTjRD2g==" iconFile="Img/PoF/MasteryPoF.png" heightOffset="1"/>
+
+		<!-- THUNDERHEAD PEAKS INSIGHT: IRONHAMMER CROSSING -->
+		<Trail type="story_journal.season_4.all_or_nothing.thunderhead_peaks_insight_ironhammer_crossing" GUID="D4QZoulx3UCDoFE6aoWDCA==" trailData="Data/StoryJournal/Season4/AllOrNothing/ThunderheadPeaksInsightIronhammerCrossing.trl" texture="Data/Arrow.png" color="ffffff00" alpha="0.8" fadeNear="3000" fadeFar="3500" animSpeed="0"/>
+		<POI MapID="1310" xpos="-154.542" ypos="231.215" zpos="1045.39" type="story_journal.season_4.all_or_nothing.thunderhead_peaks_insight_ironhammer_crossing" GUID="jgaV8dPpVUecl2N2wJviCw==" iconFile="Img/PoF/MasteryPoF.png" heightOffset="1"/>
+
+		<!-- THUNDERHEAD PEAKS INSIGHT: SHATTERED BAY -->
+		<Trail type="story_journal.season_4.all_or_nothing.thunderhead_peaks_insight_shattered_bay" GUID="VxqR7JZOKEi0wix6ZUF0wA==" trailData="Data/StoryJournal/Season4/AllOrNothing/ThunderheadPeaksInsightShatteredBay.trl" texture="Data/Arrow.png" color="ffffff00" alpha="0.8" fadeNear="3000" fadeFar="3500" animSpeed="0"/>
+		<POI MapID="1310" xpos="-943.589" ypos="1.35036" zpos="-745.277" type="story_journal.season_4.all_or_nothing.thunderhead_peaks_insight_shattered_bay" GUID="nsBcmtH0DEiLCrI6MQ2dCA==" iconFile="Img/PoF/MasteryPoF.png" heightOffset="1"/>
+
+		<!-- THUNDERHEAD PEAKS INSIGHT: SORROW'S CAVE -->
+		<Trail type="story_journal.season_4.all_or_nothing.thunderhead_peaks_insight_sorrow_s_cave" GUID="BzlwSaEu00K6GrgDSa/f0g==" trailData="Data/StoryJournal/Season4/AllOrNothing/ThunderheadPeaksInsightSorrowsCave.trl" texture="Data/Arrow.png" color="ffffff00" alpha="0.8" fadeNear="3000" fadeFar="3500" animSpeed="0"/>
+		<POI MapID="1310" xpos="-59.4208" ypos="349.382" zpos="58.8014" type="story_journal.season_4.all_or_nothing.thunderhead_peaks_insight_sorrow_s_cave" GUID="HPTr19ZnSkKIbm1ujHdcIA==" iconFile="Img/PoF/MasteryPoF.png" heightOffset="1"/>
+
+		<!-- THUNDERHEAD PEAKS TREASURE -->
+		<Trail type="story_journal.season_4.all_or_nothing.thunderhead_peaks_treasure.1" GUID="db9ClAOHFkGYJ/zzbd/7yg==" trailData="Data/StoryJournal/Season4/AllOrNothing/ThunderheadPeaksTreasure1.trl" texture="Data/Arrow.png" color="ff00ddff" alpha="0.8" fadeNear="2000" fadeFar="4000" animSpeed="0"/>
+		<POI MapID="1310" xpos="-101.586" ypos="263.235" zpos="952.698" type="story_journal.season_4.all_or_nothing.thunderhead_peaks_treasure.1" GUID="do7rUmmZoUerTfEuoOtKqg==" heightOffset="0.5"/>
+		<POI MapID="1310" xpos="-108.672" ypos="255.279" zpos="930.792" type="story_journal.season_4.all_or_nothing.thunderhead_peaks_treasure.1" GUID="mEZ/BK5reECK5rIcWO8jIg==" iconFile="Img/Mounts/Springer.png" fadeNear="1500" fadeFar="1800" mapVisibility="0" miniMapVisibility="0"/>
+
+		<Trail type="story_journal.season_4.all_or_nothing.thunderhead_peaks_treasure.2" GUID="SEwkpj2ohUGGmuNsuiTq8w==" trailData="Data/StoryJournal/Season4/AllOrNothing/ThunderheadPeaksTreasure2.trl" texture="Data/Arrow.png" color="ff00ddff" alpha="0.8" fadeNear="2000" fadeFar="4000" animSpeed="0"/>
+		<POI MapID="1310" xpos="-148.643" ypos="231.655" zpos="1045.59" type="story_journal.season_4.all_or_nothing.thunderhead_peaks_treasure.2" GUID="xbzQVTe9Qk6/RC55EtOMnQ==" heightOffset="0.5"/>
+		<POI MapID="1310" xpos="-159.039" ypos="230.68"  zpos="1046.76" type="story_journal.season_4.all_or_nothing.thunderhead_peaks_treasure.2" GUID="j8+KmkS2EUiPCtmzV8hd1A==" iconFile="Img/Mounts/Raptor.png"      fadeNear="1500" fadeFar="1800" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="1310" xpos="-215.758" ypos="231.724" zpos="1082.38" type="story_journal.season_4.all_or_nothing.thunderhead_peaks_treasure.2" GUID="RJYMzSOWaUGhagC+XCAuAg==" iconFile="Img/Mounts/Springer.png"    fadeNear="1500" fadeFar="1800" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="1310" xpos="-248.364" ypos="238.986" zpos="1102.93" type="story_journal.season_4.all_or_nothing.thunderhead_peaks_treasure.2" GUID="NZnrlkFkUkaPDtye/3UoWg==" iconFile="Img/Mounts/Springer.png"    fadeNear="1500" fadeFar="1800" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="1310" xpos="-269.221" ypos="254.56"  zpos="1087.01" type="story_journal.season_4.all_or_nothing.thunderhead_peaks_treasure.2" GUID="TT97QeUSqUi2ZVCbnxa0qg==" iconFile="Img/Mounts/Springer.png"    fadeNear="1500" fadeFar="1800" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="1310" xpos="-268.946" ypos="254.56"  zpos="1088.27" type="story_journal.season_4.all_or_nothing.thunderhead_peaks_treasure.2" GUID="zQ1bkFWtbkWHSTNhT9DALQ==" iconFile="Img/Skills/BondOfFaith.png" fadeNear="1500" fadeFar="1800" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="1310" xpos="-230.209" ypos="269.795" zpos="1076.09" type="story_journal.season_4.all_or_nothing.thunderhead_peaks_treasure.2" GUID="AC59kVUAxUiP3OTWhWhPig==" iconFile="Img/Mounts/Springer.png"    fadeNear="1500" fadeFar="1800" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="1310" xpos="-190.134" ypos="294.427" zpos="1069.18" type="story_journal.season_4.all_or_nothing.thunderhead_peaks_treasure.2" GUID="XTRfvTV3k0OqGUFHSa9k5g==" iconFile="Img/Mounts/Raptor.png"      fadeNear="1500" fadeFar="1800" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="1310" xpos="-190.262" ypos="294.423" zpos="1066.8"  type="story_journal.season_4.all_or_nothing.thunderhead_peaks_treasure.2" GUID="wYxCkZRA2U2MlvbZDcrN/g==" iconFile="Img/Skills/BondOfFaith.png" fadeNear="1500" fadeFar="1800" mapVisibility="0" miniMapVisibility="0"/>
+
+		<Trail type="story_journal.season_4.all_or_nothing.thunderhead_peaks_treasure.3" GUID="UUXnckOC+UmYpFrj1SDO4A==" trailData="Data/StoryJournal/Season4/AllOrNothing/ThunderheadPeaksTreasure3.trl"  texture="Data/Arrow.png" color="ff00ddff" alpha="0.8" fadeNear="2000" fadeFar="4000" animSpeed="0"/>
+		<POI MapID="1310" xpos="-148.643" ypos="231.655" zpos="1045.59" type="story_journal.season_4.all_or_nothing.thunderhead_peaks_treasure.3" GUID="MHCiLYfeok2C6B2yRAj4dA==" heightOffset="0.5"/>
+		<POI MapID="1310" xpos="-159.039" ypos="230.68"  zpos="1046.76" type="story_journal.season_4.all_or_nothing.thunderhead_peaks_treasure.3" GUID="FMoyF1msgkC/rTmutN2d3w==" iconFile="Img/Mounts/Raptor.png"      fadeNear="1500" fadeFar="1800" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="1310" xpos="-215.758" ypos="231.724" zpos="1082.38" type="story_journal.season_4.all_or_nothing.thunderhead_peaks_treasure.3" GUID="K0n2xysV/EWL+3xiyzVpXQ==" iconFile="Img/Mounts/Springer.png"    fadeNear="1500" fadeFar="1800" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="1310" xpos="-248.364" ypos="238.986" zpos="1102.93" type="story_journal.season_4.all_or_nothing.thunderhead_peaks_treasure.3" GUID="l9+kXtyVlkS+vq58muVcdw==" iconFile="Img/Mounts/Springer.png"    fadeNear="1500" fadeFar="1800" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="1310" xpos="-270.463" ypos="254.725" zpos="1085.53" type="story_journal.season_4.all_or_nothing.thunderhead_peaks_treasure.3" GUID="9k6fsePzAEiVaUYSKuI/Yw==" iconFile="Img/Mounts/Springer.png"    fadeNear="1500" fadeFar="1800" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="1310" xpos="-272.074" ypos="254.752" zpos="1085.84" type="story_journal.season_4.all_or_nothing.thunderhead_peaks_treasure.3" GUID="cf4+0p6jx0iKsdjSSgEmtQ==" iconFile="Img/Skills/BondOfFaith.png" fadeNear="1500" fadeFar="1800" mapVisibility="0" miniMapVisibility="0"/>
+
+		<POI MapID="1310" xpos="915.584"  ypos="246.221" zpos="555.326" type="story_journal.season_4.all_or_nothing.thunderhead_peaks_treasure.4" GUID="jdstbJMPwEyq6a3VDlGGbg=="/>
+
+		<Trail type="story_journal.season_4.all_or_nothing.thunderhead_peaks_treasure.5" GUID="msy0nDrAqEOsUnvArxRm1A==" trailData="Data/StoryJournal/Season4/AllOrNothing/ThunderheadPeaksTreasure5.trl" texture="Data/Arrow.png" color="ff00ddff" alpha="0.8" fadeNear="2000" fadeFar="4000" animSpeed="0"/>
+		<POI MapID="1310" xpos="-47.9748" ypos="344.283" zpos="42.4105" type="story_journal.season_4.all_or_nothing.thunderhead_peaks_treasure.5" GUID="rJM5mKxJk0aXzEj0ric2pQ==" heightOffset="0.5"/>
+		<POI MapID="1310" xpos="-216.89"  ypos="371.942" zpos="185.244" type="story_journal.season_4.all_or_nothing.thunderhead_peaks_treasure.5" GUID="1EV1P21+10yZy79xWBdbYQ==" iconFile="Img/Mounts/Springer.png"    fadeNear="1500" fadeFar="1800" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="1310" xpos="-187.611" ypos="545.27"  zpos="239.895" type="story_journal.season_4.all_or_nothing.thunderhead_peaks_treasure.5" GUID="9v6oin6V0EWd7eHiqvnDUQ==" iconFile="Img/Mounts/Springer.png"    fadeNear="1500" fadeFar="1800" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="1310" xpos="-186.737" ypos="545.29"  zpos="238.52"  type="story_journal.season_4.all_or_nothing.thunderhead_peaks_treasure.5" GUID="9jg6+JyziUWHUplsMpmoKg==" iconFile="Img/Skills/BondOfFaith.png" fadeNear="1500" fadeFar="1800" mapVisibility="0" miniMapVisibility="0"/>
+
+		<Trail type="story_journal.season_4.all_or_nothing.thunderhead_peaks_treasure.6" GUID="Z5RUKeI4HkuI3ldIsuYhyA==" trailData="Data/StoryJournal/Season4/AllOrNothing/ThunderheadPeaksTreasure6.trl" texture="Data/Arrow.png" color="ff00ddff" alpha="0.8" fadeNear="2000" fadeFar="4000" animSpeed="0"/>
+		<POI MapID="1310" xpos="264.671" ypos="-1.04622" zpos="-878.781" type="story_journal.season_4.all_or_nothing.thunderhead_peaks_treasure.6" GUID="6FR6rl91jkKtN3x2T4SN2w==" heightOffset="0.5"/>
+		<POI MapID="1310" xpos="264.911" ypos="-1.05195" zpos="-876.875" type="story_journal.season_4.all_or_nothing.thunderhead_peaks_treasure.6" GUID="qAFzrRyulkGnIYCzMcaH/Q==" iconFile="Img/Mounts/Skimmer.png"     fadeNear="1500" fadeFar="1800" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="1310" xpos="263.412" ypos="-1.05638" zpos="-876.972" type="story_journal.season_4.all_or_nothing.thunderhead_peaks_treasure.6" GUID="0cCiRw7Ic0+SrO800BE2Rg==" iconFile="Img/Skills/BondOfFaith.png" fadeNear="1500" fadeFar="1800" mapVisibility="0" miniMapVisibility="0"/>
+
+		<Trail type="story_journal.season_4.all_or_nothing.thunderhead_peaks_treasure.7" GUID="PTNVagfzqUeyuSk/meNgiQ==" trailData="Data/StoryJournal/Season4/AllOrNothing/ThunderheadPeaksTreasure7.trl" texture="Data/Arrow.png" color="ff00ddff" alpha="0.8" fadeNear="2000" fadeFar="4000" animSpeed="0"/>
+		<POI MapID="1310" xpos="-366.557" ypos="409.357" zpos="-123.262" type="story_journal.season_4.all_or_nothing.thunderhead_peaks_treasure.7" GUID="MiHDwtNVTk6TzWs/xHd68g==" heightOffset="0.5"/>
+		<POI MapID="1310" xpos="-365.964" ypos="409.298" zpos="-122.06"  type="story_journal.season_4.all_or_nothing.thunderhead_peaks_treasure.7" GUID="ae2Qs7InHUaM5bZZo9q0yg==" iconFile="Img/Mounts/Springer.png"    fadeNear="1500" fadeFar="1800" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="1310" xpos="-364.966" ypos="409.156" zpos="-122.791" type="story_journal.season_4.all_or_nothing.thunderhead_peaks_treasure.7" GUID="UFZBX6fGrk26EVkUr0MOpw==" iconFile="Img/Skills/BondOfFaith.png" fadeNear="1500" fadeFar="1800" mapVisibility="0" miniMapVisibility="0"/>
+
+		<Trail type="story_journal.season_4.all_or_nothing.thunderhead_peaks_treasure.8" GUID="sf6vnyigfkO1OcaoL249qw==" trailData="Data/StoryJournal/Season4/AllOrNothing/ThunderheadPeaksTreasure8.trl" texture="Data/Arrow.png" color="ff00ddff" alpha="0.8" fadeNear="2000" fadeFar="4000" animSpeed="0"/>
+		<POI MapID="1310" xpos="91.0042" ypos="363.157" zpos="142.683" type="story_journal.season_4.all_or_nothing.thunderhead_peaks_treasure.8" GUID="x6TdteFRTEu89GvhgZp/qw==" heightOffset="0.5"/>
+		<POI MapID="1310" xpos="88.1977" ypos="362.365" zpos="148.302" type="story_journal.season_4.all_or_nothing.thunderhead_peaks_treasure.8" GUID="vx/SzE7EhkuXHXo0oN8ikQ==" iconFile="Img/Mounts/Raptor.png"      fadeNear="1500" fadeFar="1800" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="1310" xpos="86.6928" ypos="362.628" zpos="147.616" type="story_journal.season_4.all_or_nothing.thunderhead_peaks_treasure.8" GUID="/giWyDUC/0y1LGSydTxf8w==" iconFile="Img/Skills/BondOfFaith.png" fadeNear="1500" fadeFar="1800" mapVisibility="0" miniMapVisibility="0"/>
+
+		<Trail type="story_journal.season_4.all_or_nothing.thunderhead_peaks_treasure.9" GUID="i2dIYF3+S0eIXN9BqhuQkw==" trailData="Data/StoryJournal/Season4/AllOrNothing/ThunderheadPeaksTreasure9.trl" texture="Data/Arrow.png" color="ff00ddff" alpha="0.8" fadeNear="2000" fadeFar="4000" animSpeed="0"/>
+		<POI MapID="1310" xpos="34.9012" ypos="-1.13353" zpos="-657.552" type="story_journal.season_4.all_or_nothing.thunderhead_peaks_treasure.9" GUID="AkI5KZc53kKakpN+NPdnNg==" heightOffset="0.5"/>
+		<POI MapID="1310" xpos="39.5173" ypos="-1.05636" zpos="-658.745" type="story_journal.season_4.all_or_nothing.thunderhead_peaks_treasure.9" GUID="Qkh2VTTdtE6XWuIRBAGoGw==" iconFile="Img/Mounts/Skimmer.png"     fadeNear="1500" fadeFar="1800" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="1310" xpos="39.847"  ypos="-1.05636" zpos="-657.289" type="story_journal.season_4.all_or_nothing.thunderhead_peaks_treasure.9" GUID="8h3uab+egkGy5KPE9hGm9g==" iconFile="Img/Skills/BondOfFaith.png" fadeNear="1500" fadeFar="1800" mapVisibility="0" miniMapVisibility="0"/>
+
+		<Trail type="story_journal.season_4.all_or_nothing.thunderhead_peaks_treasure.10" GUID="a3/CbePXYUy2fhrfWKjHFA==" trailData="Data/StoryJournal/Season4/AllOrNothing/ThunderheadPeaksTreasure10.trl" texture="Data/Arrow.png" color="ff00ddff" alpha="0.8" fadeNear="2000" fadeFar="4000" animSpeed="0"/>
+		<POI MapID="1310" xpos="841.441" ypos="196.203" zpos="506.206" type="story_journal.season_4.all_or_nothing.thunderhead_peaks_treasure.10" GUID="gjIjz7ZV00OTXeOhds+i1w==" heightOffset="0.5"/>
+		<POI MapID="1310" xpos="806.847" ypos="258.671" zpos="479.208" type="story_journal.season_4.all_or_nothing.thunderhead_peaks_treasure.10" GUID="zXV1iPnwnk2RqNJQ7TIPZg==" iconFile="Img/Mounts/Springer.png"    fadeNear="1500" fadeFar="1800" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="1310" xpos="832.434" ypos="278.065" zpos="548.847" type="story_journal.season_4.all_or_nothing.thunderhead_peaks_treasure.10" GUID="+kzXZRlZq0iWbJaei7fdHw==" iconFile="Img/Mounts/Springer.png"    fadeNear="1500" fadeFar="1800" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="1310" xpos="826.429" ypos="300.736" zpos="529.99"  type="story_journal.season_4.all_or_nothing.thunderhead_peaks_treasure.10" GUID="tZN55LxZkEKLNMnCYC5BdA==" iconFile="Img/Mounts/Springer.png"    fadeNear="1500" fadeFar="1800" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="1310" xpos="809.878" ypos="355.126" zpos="547.148" type="story_journal.season_4.all_or_nothing.thunderhead_peaks_treasure.10" GUID="d9jboSaBLE2wRbBgTXlB5A==" iconFile="Img/Mounts/Griffon.png"     fadeNear="1500" fadeFar="1800" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="1310" xpos="808.903" ypos="355.126" zpos="546.459" type="story_journal.season_4.all_or_nothing.thunderhead_peaks_treasure.10" GUID="JIS0k9kxN0aNoIvZuSKEcg==" iconFile="Img/Skills/BondOfFaith.png" fadeNear="1500" fadeFar="1800" mapVisibility="0" miniMapVisibility="0"/>
+
+		<Trail type="story_journal.season_4.all_or_nothing.thunderhead_peaks_treasure.11" GUID="b8fsT7nesEaEJunqHRJMIg==" trailData="Data/StoryJournal/Season4/AllOrNothing/ThunderheadPeaksTreasure11.trl" texture="Data/Arrow.png" color="ffffdd00" alpha="0.8" fadeNear="2000" fadeFar="4000" animSpeed="0"/>		<POI MapID="1310" xpos="842.53"  ypos="196.217" zpos="507.298" type="story_journal.season_4.all_or_nothing.thunderhead_peaks_treasure.11" GUID="NNCfEVH/MUSokphWlKKlmA==" heightOffset="0.5"/>
+		<POI MapID="1310" xpos="842.53"  ypos="196.217" zpos="507.298"  type="story_journal.season_4.all_or_nothing.thunderhead_peaks_treasure.11" GUID="NNCfEVH/MUSokphWlKKlmA==" heightOffset="0.5"/>
+		<POI MapID="1310" xpos="806.847" ypos="258.671" zpos="479.208"  type="story_journal.season_4.all_or_nothing.thunderhead_peaks_treasure.11" GUID="Qim0Jidb1Ea2OuGgSCX/kg==" iconFile="Img/Mounts/Springer.png" fadeNear="1500" fadeFar="1800" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="1310" xpos="832.434" ypos="278.065" zpos="548.847"  type="story_journal.season_4.all_or_nothing.thunderhead_peaks_treasure.11" GUID="df5lHN2IXEO7x7gHssVtLA==" iconFile="Img/Mounts/Springer.png" fadeNear="1500" fadeFar="1800" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="1310" xpos="868.929" ypos="304.068" zpos="336.575"  type="story_journal.season_4.all_or_nothing.thunderhead_peaks_treasure.11" GUID="oIm+Zld+GECXOZJk6MNdJQ==" iconFile="Img/Mounts/Springer.png" fadeNear="1500" fadeFar="1800" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="1310" xpos="900.933" ypos="305.125" zpos="252.145"  type="story_journal.season_4.all_or_nothing.thunderhead_peaks_treasure.11" GUID="sGBzjgTm0EiyqjAdD6K0ww==" iconFile="Img/Mounts/Springer.png" fadeNear="1500" fadeFar="1800" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="1310" xpos="978.813" ypos="306.892" zpos="196.545"  type="story_journal.season_4.all_or_nothing.thunderhead_peaks_treasure.11" GUID="mzd+1/GjB0aA/F7av/Bthg==" iconFile="Img/Mounts/Springer.png" fadeNear="1500" fadeFar="1800" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="1310" xpos="971.22"  ypos="342.071" zpos="172.164"  type="story_journal.season_4.all_or_nothing.thunderhead_peaks_treasure.11" GUID="czBmHtf3+0q2GAimJDGgfQ==" iconFile="Img/Mounts/Springer.png" fadeNear="1500" fadeFar="1800" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="1310" xpos="934.983" ypos="353.237" zpos="89.5866"  type="story_journal.season_4.all_or_nothing.thunderhead_peaks_treasure.11" GUID="obvY/fMXp0WXVqlSHHanYw==" iconFile="Img/Mounts/Springer.png" fadeNear="1500" fadeFar="1800" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="1310" xpos="871.27"  ypos="335.56"  zpos="-18.9984" type="story_journal.season_4.all_or_nothing.thunderhead_peaks_treasure.11" GUID="bLpx/OcXx0WQd6L2qCb1UA==" iconFile="Img/Mounts/Springer.png" fadeNear="1500" fadeFar="1800" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="1310" xpos="823.674" ypos="335.803" zpos="1.35206"  type="story_journal.season_4.all_or_nothing.thunderhead_peaks_treasure.11" GUID="6vEFnolIHkmBD4vgMsQ4Sg==" iconFile="Img/Mounts/Springer.png" fadeNear="1500" fadeFar="1800" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="1310" xpos="796.858" ypos="335.879" zpos="-20.2611" type="story_journal.season_4.all_or_nothing.thunderhead_peaks_treasure.11" GUID="elSU7HFT/EuUzezeKrOHyQ==" iconFile="Img/Mounts/Springer.png" fadeNear="1500" fadeFar="1800" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="1310" xpos="757.228" ypos="363.577" zpos="-55.1899" type="story_journal.season_4.all_or_nothing.thunderhead_peaks_treasure.11" GUID="bnwzCPB4sECP3xI08k5jSQ==" iconFile="Img/Mounts/Springer.png" fadeNear="1500" fadeFar="1800" mapVisibility="0" miniMapVisibility="0"/>
+
+		<POI MapID="1310" xpos="-531.591" ypos="156.404" zpos="-25.2114" type="story_journal.season_4.all_or_nothing.thunderhead_peaks_treasure.12" GUID="izKwvY3PYEmD+2h0gKHCmg=="/>
+		<POI MapID="1310" xpos="341.447"  ypos="358.337" zpos="-110.493" type="story_journal.season_4.all_or_nothing.thunderhead_peaks_treasure.13" GUID="MrtRm2LAlEmw18FkqQI5Rw=="/>
+		<POI MapID="1310" xpos="426.662"  ypos="178.402" zpos="-404.331" type="story_journal.season_4.all_or_nothing.thunderhead_peaks_treasure.14" GUID="jQ3unwDycEuS8nDV+5VYGQ=="/>
+		<POI MapID="1310" xpos="23.8455"  ypos="316.617" zpos="438.597"  type="story_journal.season_4.all_or_nothing.thunderhead_peaks_treasure.15" GUID="o0cny9AYekir6oEK42DFqQ=="/>
+		<POI MapID="1310" xpos="371.634"  ypos="1.10596" zpos="-835.849" type="story_journal.season_4.all_or_nothing.thunderhead_peaks_treasure.16" GUID="NWKq1p7boEGuAaO47Ed8EQ=="/>
+		<POI MapID="1310" xpos="466.253"  ypos="20.1719" zpos="-326.38"  type="story_journal.season_4.all_or_nothing.thunderhead_peaks_treasure.17" GUID="2R2RompRpkeOYmYn1QLgfw=="/>
+		<POI MapID="1310" xpos="579.488"  ypos="147.207" zpos="-217.5"   type="story_journal.season_4.all_or_nothing.thunderhead_peaks_treasure.18" GUID="lhvuxlqMrEGA3Mv4oK8lYg=="/>
+
+		<Trail type="story_journal.season_4.all_or_nothing.thunderhead_peaks_treasure.19" GUID="XcC1r54VekqDVC77GTwRYg==" trailData="Data/StoryJournal/Season4/AllOrNothing/ThunderheadPeaksTreasure19.trl" texture="Data/Arrow.png" color="ffff0099" alpha="0.8" fadeNear="2000" fadeFar="4000" animSpeed="0"/>
+		<POI MapID="1310" xpos="843.591" ypos="196.27"  zpos="508.195"  type="story_journal.season_4.all_or_nothing.thunderhead_peaks_treasure.19" GUID="2d9h2//65Uq3O53jZwngUw==" heightOffset="0.5"/>
+		<POI MapID="1310" xpos="806.847" ypos="258.671" zpos="479.208"  type="story_journal.season_4.all_or_nothing.thunderhead_peaks_treasure.19" GUID="ssPZVtzsRUaLrN535Oqr+A==" iconFile="Img/Mounts/Springer.png" fadeNear="1500" fadeFar="1800" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="1310" xpos="832.434" ypos="278.065" zpos="548.847"  type="story_journal.season_4.all_or_nothing.thunderhead_peaks_treasure.19" GUID="6U14TSVJmU+n8saABpbmqg==" iconFile="Img/Mounts/Springer.png" fadeNear="1500" fadeFar="1800" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="1310" xpos="868.929" ypos="304.068" zpos="336.575"  type="story_journal.season_4.all_or_nothing.thunderhead_peaks_treasure.19" GUID="AL9ZJ1vbLk2qJqvIJGsumA==" iconFile="Img/Mounts/Springer.png" fadeNear="1500" fadeFar="1800" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="1310" xpos="900.933" ypos="305.125" zpos="252.145"  type="story_journal.season_4.all_or_nothing.thunderhead_peaks_treasure.19" GUID="Ke3XS1CtCUympR945frXtQ==" iconFile="Img/Mounts/Springer.png" fadeNear="1500" fadeFar="1800" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="1310" xpos="978.813" ypos="306.892" zpos="196.545"  type="story_journal.season_4.all_or_nothing.thunderhead_peaks_treasure.19" GUID="13TpJszY/EKRtP8AV6E/jA==" iconFile="Img/Mounts/Springer.png" fadeNear="1500" fadeFar="1800" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="1310" xpos="971.22"  ypos="342.071" zpos="172.164"  type="story_journal.season_4.all_or_nothing.thunderhead_peaks_treasure.19" GUID="p7Z7M/cB0UGx4P42CvjQJA==" iconFile="Img/Mounts/Springer.png" fadeNear="1500" fadeFar="1800" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="1310" xpos="934.983" ypos="353.237" zpos="89.5866"  type="story_journal.season_4.all_or_nothing.thunderhead_peaks_treasure.19" GUID="7xHcP47LHEODyZ/CRmYGEw==" iconFile="Img/Mounts/Springer.png" fadeNear="1500" fadeFar="1800" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="1310" xpos="871.27"  ypos="335.56"  zpos="-18.9984" type="story_journal.season_4.all_or_nothing.thunderhead_peaks_treasure.19" GUID="4JEW9aeJWkWeF3jeO/yWlQ==" iconFile="Img/Mounts/Springer.png" fadeNear="1500" fadeFar="1800" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="1310" xpos="823.674" ypos="335.803" zpos="1.35206"  type="story_journal.season_4.all_or_nothing.thunderhead_peaks_treasure.19" GUID="cCUNAssgKE6k++5I32IjdQ==" iconFile="Img/Mounts/Springer.png" fadeNear="1500" fadeFar="1800" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="1310" xpos="796.858" ypos="335.879" zpos="-20.2611" type="story_journal.season_4.all_or_nothing.thunderhead_peaks_treasure.19" GUID="TYq82OB4I0aGZeM1hHPJFg==" iconFile="Img/Mounts/Springer.png" fadeNear="1500" fadeFar="1800" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="1310" xpos="757.228" ypos="363.577" zpos="-55.1899" type="story_journal.season_4.all_or_nothing.thunderhead_peaks_treasure.19" GUID="vKNeMHaiokKZpPwEgssVnQ==" iconFile="Img/Mounts/Springer.png" fadeNear="1500" fadeFar="1800" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="1310" xpos="685.649" ypos="369.577" zpos="42.1571"  type="story_journal.season_4.all_or_nothing.thunderhead_peaks_treasure.19" GUID="I9ngVcdcIE+CbSdCyf7W7w==" iconFile="Img/Mounts/Springer.png" fadeNear="1500" fadeFar="1800" mapVisibility="0" miniMapVisibility="0"/>
+
+		<POI MapID="1310" xpos="767.579"  ypos="345.347" zpos="997.264"  type="story_journal.season_4.all_or_nothing.thunderhead_peaks_treasure.20" GUID="+2/p8b9+3USRSWpH6MlyEA=="/>
+		<POI MapID="1310" xpos="501.125"  ypos="338.299" zpos="142.165"  type="story_journal.season_4.all_or_nothing.thunderhead_peaks_treasure.21" GUID="akq2XFPj/UaX4zhXycDB3w=="/>
+		<POI MapID="1310" xpos="-913.067" ypos="-6.9935" zpos="-916.664" type="story_journal.season_4.all_or_nothing.thunderhead_peaks_treasure.22" GUID="9MljpUTHB0SnaVLB5x/FUw=="/>
+
+		<Trail type="story_journal.season_4.all_or_nothing.thunderhead_peaks_treasure.23" GUID="/LDmW6XeZEKCDSGB6BfaGA==" trailData="Data/StoryJournal/Season4/AllOrNothing/ThunderheadPeaksTreasure23.trl" texture="Data/Arrow.png" color="ff00ddff" alpha="0.8" fadeNear="2000" fadeFar="4000" animSpeed="0"/>
+		<POI MapID="1310" xpos="-606.826" ypos="139.453" zpos="968.553" type="story_journal.season_4.all_or_nothing.thunderhead_peaks_treasure.23" GUID="DnqbynJ+7E2AIUUqQwcNcQ==" heightOffset="0.5"/>
+		<POI MapID="1310" xpos="-677.915" ypos="139.806" zpos="954.897" type="story_journal.season_4.all_or_nothing.thunderhead_peaks_treasure.23" GUID="7RF3KzZSrkuQ3LIepwAz7A==" iconFile="Img/Mounts/Raptor.png"      fadeNear="1500" fadeFar="1800" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="1310" xpos="-677.771" ypos="139.806" zpos="956.083" type="story_journal.season_4.all_or_nothing.thunderhead_peaks_treasure.23" GUID="lB1+Qe1HLU6otlW3Ype+rw==" iconFile="Img/Skills/BondOfFaith.png" fadeNear="1500" fadeFar="1800" mapVisibility="0" miniMapVisibility="0"/>
+
+		<POI MapID="1310" xpos="325.528"  ypos="276.203" zpos="997.232" type="story_journal.season_4.all_or_nothing.thunderhead_peaks_treasure.24" GUID="GX5RLOBgG0qsSyTTlpvHXw=="/>
+
+		<!-- TWO THE BARRICADES -->
+		<POI MapID="1310" xpos="360.839" ypos="189.568" zpos="-272.809" type="story_journal.season_4.all_or_nothing.two_the_barricades" GUID="K5eReMN6n0mVIgfDts04gA=="/>
+		<POI MapID="1310" xpos="325.795" ypos="178.134" zpos="-266.291" type="story_journal.season_4.all_or_nothing.two_the_barricades" GUID="OAImA+BYvE2PrdDljetYuw==" iconFile="Img/Icons/EventShield.png" minSize="32" fadeNear="3000" fadeFar="3500" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="1310" xpos="391.763" ypos="179.408" zpos="-300.398" type="story_journal.season_4.all_or_nothing.two_the_barricades" GUID="bXWiqlif+UWKxghFe4nw8w==" iconFile="Img/Icons/EventShield.png" minSize="32" fadeNear="3000" fadeFar="3500" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="1310" xpos="336.128" ypos="178.955" zpos="-300.717" type="story_journal.season_4.all_or_nothing.two_the_barricades" GUID="EphainmhYEi9ZC42EQB+NQ==" iconFile="Img/Icons/Fight.png"       fadeNear="3000" fadeFar="3500" heightOffset="0.5" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="1310" xpos="377.543" ypos="188.12"  zpos="-282.856" type="story_journal.season_4.all_or_nothing.two_the_barricades" GUID="8mJT+duDW0mvF3SVmqB+GA==" iconFile="Img/Icons/Interaction.png" maxSize="16" fadeNear="3000" fadeFar="3500" heightOffset="2" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="1310" xpos="371.314" ypos="187.767" zpos="-276.064" type="story_journal.season_4.all_or_nothing.two_the_barricades" GUID="R7lF+jTn9k6pZSceZzEocg==" iconFile="Img/Icons/Interaction.png" maxSize="16" fadeNear="3000" fadeFar="3500" heightOffset="2" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="1310" xpos="364.538" ypos="187.727" zpos="-270.72"  type="story_journal.season_4.all_or_nothing.two_the_barricades" GUID="Zz0h/JB7MES7WuYtFmVwOA==" iconFile="Img/Icons/Interaction.png" maxSize="16" fadeNear="3000" fadeFar="3500" heightOffset="2" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="1310" xpos="359.005" ypos="187.866" zpos="-267.412" type="story_journal.season_4.all_or_nothing.two_the_barricades" GUID="IObzox9RHE+S0FsUNmeOhA==" iconFile="Img/Icons/Interaction.png" maxSize="16" fadeNear="3000" fadeFar="3500" heightOffset="2" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="1310" xpos="345.851" ypos="188.249" zpos="-261.748" type="story_journal.season_4.all_or_nothing.two_the_barricades" GUID="qCeNNmBoekythol8XkshKg==" iconFile="Img/Icons/Interaction.png" maxSize="16" fadeNear="2000" fadeFar="3500" heightOffset="2" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="1310" xpos="337.874" ypos="188.539" zpos="-261.249" type="story_journal.season_4.all_or_nothing.two_the_barricades" GUID="sPydtzXTUUijg6mB8xwmIQ==" iconFile="Img/Icons/Interaction.png" maxSize="16" fadeNear="3000" fadeFar="3500" heightOffset="2" mapVisibility="0" miniMapVisibility="0"/>
+
+		<!-- UNDERWORLD'S ANGELS -->
+		<Trail type="story_journal.season_4.all_or_nothing.underworld_s_angels" GUID="ReibmXqy6EKaNkrjFyiccw==" trailData="Data/StoryJournal/Season4/AllOrNothing/UnderworldsAngels.trl" texture="Data/Arrow.png" color="ff00ffbb" alpha="0.8" fadeNear="3000" fadeFar="4000" animSpeed="0"/>
+		<POI MapID="1310" xpos="4.70182"  ypos="288.121" zpos="-94.7898" type="story_journal.season_4.all_or_nothing.underworld_s_angels" GUID="hmLlW0R/gUqCBzlb5zWH9Q==" heightOffset="0.5"/>
+		<POI MapID="1310" xpos="4.70182"  ypos="289"     zpos="-94.7898" type="story_journal.season_4.all_or_nothing.underworld_s_angels" GUID="fL8yu5zAQ06m2itTV49tFw==" iconFile="Img/Season4/RollerBeetle.png" fadeNear="1000" fadeFar="1500" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="1310" xpos="-541.471" ypos="-1.055"  zpos="-356.042" type="story_journal.season_4.all_or_nothing.underworld_s_angels" GUID="AaTNGdG7lEitzcqFvsfBJw==" iconFile="Img/Icons/Target.png"         minSize="64" maxSize="64" fadeNear="2000" fadeFar="3000" mapVisibility="0" miniMapVisibility="0"/>
+
+		<!-- HIDDEN: APPROPRIATELY HYPED -->
+		<POI MapID="1313" xpos="468.626" ypos="158.783" zpos="-326.351" type="story_journal.season_4.all_or_nothing.appropriately_hyped" GUID="YWYmXTzrp0SGECPyc5cfnA==" heightOffset="3"/>
+		<POI MapID="1313" xpos="476.75"  ypos="159.458" zpos="-326.226" type="story_journal.season_4.all_or_nothing.appropriately_hyped" GUID="weGVqfeRYESKBPFFzJQizg==" iconFile="Img/Season4/AppropriatelyHyped.png" minSize="200" maxSize="200" fadeNear="800" fadeFar="1000" mapVisibility="0" miniMapVisibility="0"/>
+
+		<!-- HIDDEN: CHASING TALES: HEROÏC FONT -->
+		<POI MapID="1310" xpos="566.003" ypos="361.139" zpos="1055.16" type="story_journal.season_4.all_or_nothing.chasing_tales.heroic_font" GUID="3PgOY21z/ESrtlQyJywEIQ==" iconFile="Img/Season4/ChasingTalesHeroicFont.png" minSize="48" maxSize="64" mapVisibility="0" miniMapVisibility="0"/>
+
+		<!-- HIDDEN: CHASING TALES: MINIATURE SUN -->
+		<POI MapID="1310" xpos="604.751" ypos="345.289" zpos="1027.21" type="story_journal.season_4.all_or_nothing.chasing_tales.miniature_sun" GUID="GyGoDuLjH067PRqLlvRsfA==" iconFile="Img/Season4/ChasingTalesMiniatureSun.png" minSize="48" maxSize="64" mapVisibility="0" miniMapVisibility="0"/>
+
+		<!-- HIDDEN: CHASING TALES: TEMPORAL STORM -->
+		<POI MapID="1310" xpos="612.286" ypos="345.211" zpos="1018.64" type="story_journal.season_4.all_or_nothing.chasing_tales.temporal_storm" GUID="Wj7MiDge30SZDJ0a7FP6+g==" iconFile="Img/Season4/ChasingTalesTemporalStorm.png" minSize="48" maxSize="64" mapVisibility="0" miniMapVisibility="0"/>
+
+		<!-- HIDDEN: IT'S GETTING HOT IN HERE -->
+		<POI MapID="1310" xpos="897.304" ypos="232.478" zpos="395.236" type="story_journal.season_4.all_or_nothing.it_s_getting_hot_in_here" GUID="0foRBwafDES/N9ZLxn3anw==" heightOffset="0.5"/>
+		<POI MapID="1310" xpos="897.304" ypos="234.082" zpos="395.236" type="story_journal.season_4.all_or_nothing.it_s_getting_hot_in_here" GUID="EEe8g7zyB0+J3PHs2kEIWA==" iconFile="Img/Season4/ItsGettingHotInHere.png" minSize="64" maxSize="64" fadeNear="800" fadeFar="1200" mapVisibility="0" miniMapVisibility="0"/>
+
+		<!-- HIDDEN: THE IRONHAMMER THRONE -->
+		<POI MapID="1310" xpos="900.874" ypos="247.441" zpos="551.691" type="story_journal.season_4.all_or_nothing.the_ironhammer_throne" GUID="NTRySMG91k6ydcKRoVw4Hg=="/>
+		<POI MapID="1310" xpos="900.721" ypos="248.439" zpos="551.8"   type="story_journal.season_4.all_or_nothing.the_ironhammer_throne" GUID="1SE4lc07FkWHuVSG42sMgA==" iconFile="Img/Icons/Interaction.png" fadeNear="800" fadeFar="1000" heightOffset="2" mapVisibility="0" miniMapVisibility="0"/>
+
+	</POIs>
+</OverlayData>

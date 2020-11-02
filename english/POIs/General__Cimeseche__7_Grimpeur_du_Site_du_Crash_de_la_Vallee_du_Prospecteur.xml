@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+POIs: Menida
+Date: 2017/08/11
+-->
+<OverlayData>
+	<MarkerCategory name="general" DisplayName="General">
+		<MarkerCategory name="cimeseche" DisplayName="Dry Top">
+			<MarkerCategory name="grimpeur_du_site_du_crash_de_la_vallee_du_prospecteur" DisplayName="Prospect Valley Crash Site Climber" iconFile="Img\Guide.png" iconSize="0.75">
+				<MarkerCategory name="debut" DisplayName="Start" iconFile="Img\PuzzleDebut.png" iconSize="1.5"/>
+			</MarkerCategory>
+		</MarkerCategory>
+	</MarkerCategory>
+
+	<POIs>
+
+		<!-- Début -->
+		<POI MapID="988" xpos="320.089" ypos="82.2217" zpos="-382.702" type="general.cimeseche.grimpeur_du_site_du_crash_de_la_vallee_du_prospecteur.debut" GUID="qMQko5CHZk6Wx0KQB9ah2Q=="/>
+
+		<!-- Route -->
+		<Route MapID="988" name="Grimpeur_du_Site_du_Crash_de_la_Vallee_du_Prospecteur" resetposx="320.089" resetposy="82.2217" resetposz="-382.702" resetrange="2">
+			<POI MapID="988" xpos="317.55" ypos="82.2295" zpos="-389.151" type="general.cimeseche.grimpeur_du_site_du_crash_de_la_vallee_du_prospecteur" GUID="LaIJR+JoKEyLkMdmdy1R5A=="/>
+			<POI MapID="988" xpos="314.03" ypos="88.6918" zpos="-392.022" type="general.cimeseche.grimpeur_du_site_du_crash_de_la_vallee_du_prospecteur" GUID="joL/gqr+h02pIVSg9jKfrg=="/>
+			<POI MapID="988" xpos="315.755" ypos="96.2913" zpos="-397.837" type="general.cimeseche.grimpeur_du_site_du_crash_de_la_vallee_du_prospecteur" GUID="6fZ+mM5m5EGgc4limnxSGg=="/>
+			<POI MapID="988" xpos="318.632" ypos="103.101" zpos="-401.786" type="general.cimeseche.grimpeur_du_site_du_crash_de_la_vallee_du_prospecteur" GUID="TjPuHeHO6E2suUUoYC3COw=="/>
+			<POI MapID="988" xpos="317.716" ypos="112.411" zpos="-402.913" type="general.cimeseche.grimpeur_du_site_du_crash_de_la_vallee_du_prospecteur" GUID="ssyaL8xpwkylEUo3W3+faA=="/>
+			<POI MapID="988" xpos="308.095" ypos="118.005" zpos="-405.992" type="general.cimeseche.grimpeur_du_site_du_crash_de_la_vallee_du_prospecteur" GUID="iwkUJzwg8E6gvT2GBwTJYA=="/>
+			<POI MapID="988" xpos="296.624" ypos="122.056" zpos="-404.758" type="general.cimeseche.grimpeur_du_site_du_crash_de_la_vallee_du_prospecteur" GUID="0IlTQKSJAUmAlZfBh5eeKA=="/>
+			<POI MapID="988" xpos="296.165" ypos="126.922" zpos="-414.537" type="general.cimeseche.grimpeur_du_site_du_crash_de_la_vallee_du_prospecteur" GUID="usiBImsB4E6vIS+nLo2NdQ=="/>
+			<POI MapID="988" xpos="292.965" ypos="131.046" zpos="-415.965" type="general.cimeseche.grimpeur_du_site_du_crash_de_la_vallee_du_prospecteur" GUID="uEYst1vwxkGpDpdUV+Fb9A=="/>
+			<POI MapID="988" xpos="296.036" ypos="138.413" zpos="-415.445" type="general.cimeseche.grimpeur_du_site_du_crash_de_la_vallee_du_prospecteur" GUID="RIfRJwiuB0CpLwDfylGOQw=="/>
+		</Route>
+
+		<!-- Coffre -->
+		<POI MapID="988" xpos="314.567" ypos="135.803" zpos="-416.479" type="general.cimeseche.grimpeur_du_site_du_crash_de_la_vallee_du_prospecteur" GUID="Fm1zdLcrUUW0cZyRNGwJ8Q==" iconFile="Img\CoffrePuzzle.png"/>
+
+	</POIs>
+</OverlayData>

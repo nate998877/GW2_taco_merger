@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+POIs: ReActif.9251
+Date: 2016/12/24
+-->
+<OverlayData>
+	<MarkerCategory name="chroniques.saison_3">
+		<MarkerCategory name="ep1_hors_des_ombres" DisplayName="Ep.1 - Out of the Shadows" iconFile="Img\MaraisDeLaPierreDeSang.png">
+			<MarkerCategory name="c_etait_bleu_ou_rouge" DisplayName="Was It Blue or Red?" behavior="0"/>
+		</MarkerCategory>
+	</MarkerCategory>
+
+	<POIs>
+
+		<!-- Tableau des combinaisons -->
+		<POI MapID="1159" xpos="383.11" ypos="39.8098" zpos="296.606" type="chroniques.saison_3.ep1_hors_des_ombres.c_etait_bleu_ou_rouge" GUID="YQcbwxtDeE2OxL6OIQTejA==" iconFile="Img\HorsDesOmbres_CetaitBleuOuRouge-EN.png" iconSize="1.5" heightOffset="4"/>
+
+	</POIs>
+</OverlayData>

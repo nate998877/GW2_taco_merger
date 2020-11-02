@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+POIs: ReActif.9251
+Date: 2017/05/16
+-->
+<OverlayData>
+	<MarkerCategory name="chroniques.saison_3">
+		<MarkerCategory name="ep5_point_d_ignition" DisplayName="Ep.5 - Flashpoint" iconFile="Img\MontDraconis.png">
+			<MarkerCategory name="la_pousse_de_la_pierre_druidique" DisplayName="Sprouting the Druid Stone">
+				<MarkerCategory name="sauriens" DisplayName="Element of the Saurians"/>
+				<MarkerCategory name="empire" DisplayName="Element of the Empire"/>
+				<MarkerCategory name="tricotin" DisplayName="Element of Webby"/>
+				<MarkerCategory name="guivre" DisplayName="Element of the Wurm"/>
+				<MarkerCategory name="arcanum" DisplayName="Element of Arcanum"/>
+				<MarkerCategory name="kodama" DisplayName="A Charged Bouquet for Kodama (and Runestones)" heightOffset="6" behavior="0"/>
+				<MarkerCategory name="liriodendron" DisplayName="A Glacial Bouquet for Liriodendron" heightOffset="6"/>
+				<MarkerCategory name="grand_feuille" DisplayName="A Onyx Bouquet for Broadleaf" heightOffset="6"/>
+				<MarkerCategory name="bois_de_rose" DisplayName="A Molten Bouquet for Rosewood" heightOffset="6"/>
+				<MarkerCategory name="orchidee_de_feu" DisplayName="Propagation of the Fire Orchid" heightOffset="3"/>
+			</MarkerCategory>
+		</MarkerCategory>
+	</MarkerCategory>
+
+	<POIs>
+
+		<!-- Élément des sauriens -->
+		<POI MapID="1195" xpos="469.241" ypos="213.405" zpos="-377.567" type="chroniques.saison_3.ep5_point_d_ignition.la_pousse_de_la_pierre_druidique.sauriens" GUID="Vf91xhyMd0+TMvIlxBkGOQ=="/>
+		<POI MapID="1195" xpos="469.241" ypos="215.405" zpos="-377.567" type="chroniques.saison_3.ep5_point_d_ignition.la_pousse_de_la_pierre_druidique.sauriens" GUID="fD4mrsCEckiKNeVUDVDutw==" iconFile="Img\Combat.png" color="ffff0000"/>
+
+		<!-- Élément de l'Empire -->
+		<POI MapID="1195" xpos="172.625" ypos="221.585" zpos="142.252" type="chroniques.saison_3.ep5_point_d_ignition.la_pousse_de_la_pierre_druidique.empire" GUID="xPiYFp00hUG+L/E+LOZ3lQ=="/>
+		<POI MapID="1195" xpos="172.625" ypos="223.585" zpos="142.252" type="chroniques.saison_3.ep5_point_d_ignition.la_pousse_de_la_pierre_druidique.empire" GUID="dcKZ89WjbE+dOltLp29jfw==" iconFile="Img\Combat.png" color="ffff0000"/>
+
+		<!-- Élément de tricotin -->
+		<POI MapID="1195" xpos="-112.695" ypos="260.142" zpos="202.956" type="chroniques.saison_3.ep5_point_d_ignition.la_pousse_de_la_pierre_druidique.tricotin" GUID="gJyuvKq28kqj9bbHVGGIkQ=="/>
+		<POI MapID="1195" xpos="-112.695" ypos="262.142" zpos="202.956" type="chroniques.saison_3.ep5_point_d_ignition.la_pousse_de_la_pierre_druidique.tricotin" GUID="uiA6M1Cs/kCDSG21H9fyQg==" iconFile="Img\Combat.png" color="ffff0000"/>
+
+		<!-- Élément de guivre -->
+		<POI MapID="1195" xpos="239.029" ypos="430.817" zpos="-93.4907" type="chroniques.saison_3.ep5_point_d_ignition.la_pousse_de_la_pierre_druidique.guivre" GUID="DLK6eU3ofEa5oavTGGwC2w=="/>
+		<POI MapID="1195" xpos="239.029" ypos="432.817" zpos="-93.4907" type="chroniques.saison_3.ep5_point_d_ignition.la_pousse_de_la_pierre_druidique.guivre" GUID="XcOKiSadekqQ6RZLkMxeYw==" iconFile="Img\Combat.png" color="ffff0000"/>
+
+		<!-- Élément d'arcanum -->
+		<POI MapID="1195" xpos="-437.488" ypos="445.814" zpos="-371.688" type="chroniques.saison_3.ep5_point_d_ignition.la_pousse_de_la_pierre_druidique.arcanum" GUID="ApmI1CIHz0yzcNReEefUxA=="/>
+		<POI MapID="1195" xpos="-437.488" ypos="447.814" zpos="-371.688" type="chroniques.saison_3.ep5_point_d_ignition.la_pousse_de_la_pierre_druidique.arcanum" GUID="mYYX3XDwhEe28D9Dae87HA==" iconFile="Img\Combat.png" color="ffff0000"/>
+
+		<!--
+		Repos saurien
+		Repos impérial
+		Repos tricotin
+		Repos de la guivre
+		Repos d'arcanum
+		Un bouquet pour Kodama
+		-->
+		<POI MapID="1195" xpos="572.782" ypos="120.698" zpos="-339.958" type="chroniques.saison_3.ep5_point_d_ignition.la_pousse_de_la_pierre_druidique.kodama" GUID="JIx8JqLavEWlBERfECU3uA=="/>
+
+		<!-- Un bouquet pour Liriodendron -->
+		<POI MapID="1195" xpos="596.215" ypos="242.667" zpos="-282.229" type="chroniques.saison_3.ep5_point_d_ignition.la_pousse_de_la_pierre_druidique.liriodendron" GUID="HQgYhvQR3Ea1t/IP2Fb5Yg=="/>
+
+		<!-- Un bouquet pour Grand-feuille -->
+		<POI MapID="1195" xpos="-218.089" ypos="295.841" zpos="-708.447" type="chroniques.saison_3.ep5_point_d_ignition.la_pousse_de_la_pierre_druidique.grand_feuille" GUID="+gx44tK2pECD0gIgLGc0EQ=="/>
+
+		<!-- Un bouquet pour Bois de rose -->
+		<POI MapID="1195" xpos="-1.22426" ypos="309.163" zpos="135.254" type="chroniques.saison_3.ep5_point_d_ignition.la_pousse_de_la_pierre_druidique.bois_de_rose" GUID="2FeP4uRs7EmwdjsOW9lDSQ=="/>
+
+		<!-- Propagation d'orchidée de feu -->
+		<POI MapID="1195" xpos="516.574" ypos="118.891" zpos="-513.309" type="chroniques.saison_3.ep5_point_d_ignition.la_pousse_de_la_pierre_druidique.orchidee_de_feu" GUID="lzpF2rDwtE6K9TrIs8SSTg=="/>
+
+	</POIs>
+</OverlayData>

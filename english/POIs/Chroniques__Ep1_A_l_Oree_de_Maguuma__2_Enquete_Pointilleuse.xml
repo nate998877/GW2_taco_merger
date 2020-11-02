@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+POIs: ReActif.9251
+Date: 2017/03/06
+-->
+<OverlayData>
+	<MarkerCategory name="chroniques.saison_2">
+		<MarkerCategory name="ep1_a_l_oree_de_maguuma" DisplayName="Ep.1 - Gates of Maguuma" iconFile="Img\Saison2AOreeDeMaguuma.png">
+			<MarkerCategory name="enquete_pointilleuse" DisplayName="No Rock Unturned"/>
+		</MarkerCategory>
+	</MarkerCategory>
+
+	<POIs>
+
+		<!-- Enquête -->
+		<POI MapID="992" xpos="333.783" ypos="76.4428" zpos="-431.304" type="chroniques.saison_2.ep1_a_l_oree_de_maguuma.enquete_pointilleuse" GUID="rSTJ7Y4BO0u9krR0OLC7KA=="/>
+		<POI MapID="992" xpos="333.792" ypos="70.9982" zpos="-330.554" type="chroniques.saison_2.ep1_a_l_oree_de_maguuma.enquete_pointilleuse" GUID="CbZY1ZEjnU+L7fiEZW/73g=="/>
+		<POI MapID="992" xpos="365.467" ypos="86.5835" zpos="-444.553" type="chroniques.saison_2.ep1_a_l_oree_de_maguuma.enquete_pointilleuse" GUID="IgPK6aqVS0KpmNTM05xEnA=="/>
+		<POI MapID="992" xpos="403.402" ypos="51.9891" zpos="-321.526" type="chroniques.saison_2.ep1_a_l_oree_de_maguuma.enquete_pointilleuse" GUID="NTwAIdqvvUGM+6vQnHh/fA=="/>
+
+	</POIs>
+</OverlayData>

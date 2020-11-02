@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+POIs: ReActif.9251
+Date: 2017/05/14
+-->
+<OverlayData>
+	<MarkerCategory name="chroniques.saison_3">
+		<MarkerCategory name="ep5_point_d_ignition" DisplayName="Ep.5 - Flashpoint" iconFile="Img\MontDraconis.png">
+			<MarkerCategory name="chapeau_blanc" DisplayName="White Hat" heightOffset="3" behavior="0"/>
+		</MarkerCategory>
+	</MarkerCategory>
+
+	<POIs>
+
+		<!-- Consoles de Commande -->
+		<POI MapID="1195" xpos="-473.632" ypos="465.356" zpos="-375.87" type="chroniques.saison_3.ep5_point_d_ignition.chapeau_blanc" GUID="gCBUqYW/ZkmTm+/Q8+Iofg=="/>
+		<POI MapID="1195" xpos="-469.281" ypos="450.732" zpos="-371.455" type="chroniques.saison_3.ep5_point_d_ignition.chapeau_blanc" GUID="NN6wrtu2VkWoaRqYcQ1XeQ=="/>
+		<POI MapID="1195" xpos="-467.027" ypos="450.732" zpos="-359.079" type="chroniques.saison_3.ep5_point_d_ignition.chapeau_blanc" GUID="KwtYw/+ArUuvjhSLonFvAg=="/>
+		<POI MapID="1195" xpos="-462.407" ypos="460.937" zpos="-354.55" type="chroniques.saison_3.ep5_point_d_ignition.chapeau_blanc" GUID="PCRlJVASWU6VTLo5RDX1hg=="/>
+		<POI MapID="1195" xpos="-460.396" ypos="450.732" zpos="-360.879" type="chroniques.saison_3.ep5_point_d_ignition.chapeau_blanc" GUID="hGyJKoZeUEyCnzPRzeh2Nw=="/>
+		<POI MapID="1195" xpos="-456.392" ypos="454.649" zpos="-397.569" type="chroniques.saison_3.ep5_point_d_ignition.chapeau_blanc" GUID="DjEiJVxGrEyoGO5uVb8wsw=="/>
+		<POI MapID="1195" xpos="-455.475" ypos="449.067" zpos="-374.294" type="chroniques.saison_3.ep5_point_d_ignition.chapeau_blanc" GUID="KK1mPF3fbkWE08uFOMH3kg=="/>
+		<POI MapID="1195" xpos="-452.121" ypos="454.648" zpos="-398.483" type="chroniques.saison_3.ep5_point_d_ignition.chapeau_blanc" GUID="mqpG0hk5+U2fJh0OYFIRZQ=="/>
+		<POI MapID="1195" xpos="-421.486" ypos="444.971" zpos="-311.393" type="chroniques.saison_3.ep5_point_d_ignition.chapeau_blanc" GUID="WKuPiYzSF026CEBvEu5cig=="/>
+		<POI MapID="1195" xpos="-412.583" ypos="443.578" zpos="-315.868" type="chroniques.saison_3.ep5_point_d_ignition.chapeau_blanc" GUID="8V8x+XsMJku9dhxP79YAbA=="/>
+		<POI MapID="1195" xpos="-395.691" ypos="442.174" zpos="-291.767" type="chroniques.saison_3.ep5_point_d_ignition.chapeau_blanc" GUID="17RtNiuF6EGtoCz+NBi8aA=="/>
+		<POI MapID="1195" xpos="-392.44" ypos="439.859" zpos="-379.627" type="chroniques.saison_3.ep5_point_d_ignition.chapeau_blanc" GUID="XYyZ2InKiUSgYSiYBhuY8A=="/>
+		<POI MapID="1195" xpos="-359.313" ypos="437.561" zpos="-384.549" type="chroniques.saison_3.ep5_point_d_ignition.chapeau_blanc" GUID="5RnUXhbBzU6eyN5qDfjYxw=="/>
+		<POI MapID="1195" xpos="-359.157" ypos="433.349" zpos="-267.519" type="chroniques.saison_3.ep5_point_d_ignition.chapeau_blanc" GUID="oP9endhL+EORM6AP/d1yaQ=="/>
+		<POI MapID="1195" xpos="-351.592" ypos="435.085" zpos="-345.737" type="chroniques.saison_3.ep5_point_d_ignition.chapeau_blanc" GUID="zv4+RdbPSkyYIWjnFrKavA=="/>
+		<POI MapID="1195" xpos="-333.396" ypos="430.449" zpos="-270.528" type="chroniques.saison_3.ep5_point_d_ignition.chapeau_blanc" GUID="kJgnjFf4MEyaUzrqGRbeRQ=="/>
+		<POI MapID="1195" xpos="-324.626" ypos="427.76" zpos="-440.68" type="chroniques.saison_3.ep5_point_d_ignition.chapeau_blanc" GUID="Xd5QSTpbTEqnhqJ04M3jXg=="/>
+		<POI MapID="1195" xpos="-311.869" ypos="424.481" zpos="-345.621" type="chroniques.saison_3.ep5_point_d_ignition.chapeau_blanc" GUID="a+EYqWoaLkG9cM4BL85IyQ=="/>
+		<POI MapID="1195" xpos="-306.463" ypos="430.892" zpos="-384.121" type="chroniques.saison_3.ep5_point_d_ignition.chapeau_blanc" GUID="0xWN6GoyXkKYLn/50mDG3w=="/>
+
+	</POIs>
+</OverlayData>

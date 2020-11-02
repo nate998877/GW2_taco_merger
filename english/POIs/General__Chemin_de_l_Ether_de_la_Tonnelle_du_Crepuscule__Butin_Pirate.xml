@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+POIs: BoyC.2653
+Date: 2016/11/30
+-->
+<OverlayData>
+	<MarkerCategory name="general" DisplayName="General">
+		<MarkerCategory name="chemin_de_l_ether_de_la_tonnelle_du_crepuscule" DisplayName="Twilight Arbor Aetherpath" iconFile="Img\CheminEtherTonnelleCrepuscule.png">
+			<MarkerCategory name="butin_pirate" DisplayName="Pirate Booty" iconFile="Img\CoffreCheminEtherTonnelleCrepuscule.png" behavior="4" resetLength="180"/>
+		</MarkerCategory>
+	</MarkerCategory>
+	
+	<POIs>
+
+		<POI MapID="67" xpos="-256.685" ypos="-52.949" zpos="249.378" type="general.chemin_de_l_ether_de_la_tonnelle_du_crepuscule.butin_pirate" GUID="p/aoxzvMN0S1nq4elcVlbw=="/>
+		<POI MapID="67" xpos="-321.29" ypos="-86.8834" zpos="288.763" type="general.chemin_de_l_ether_de_la_tonnelle_du_crepuscule.butin_pirate" GUID="A3P2htdsu0mlqb+FeE6l4g=="/>
+		<POI MapID="67" xpos="-373.364" ypos="5.75266" zpos="99.8299" type="general.chemin_de_l_ether_de_la_tonnelle_du_crepuscule.butin_pirate" GUID="rPekhW13BkKXWEhKx9LZIQ=="/>
+		<POI MapID="67" xpos="-321.8" ypos="0.166111" zpos="-36.7757" type="general.chemin_de_l_ether_de_la_tonnelle_du_crepuscule.butin_pirate" GUID="wF8pyU6LK0CrxO6rge61vA=="/>
+		<POI MapID="67" xpos="-360.917" ypos="15.8927" zpos="-193.35" type="general.chemin_de_l_ether_de_la_tonnelle_du_crepuscule.butin_pirate" GUID="hcE1dwj0vU+hWw7UwtBBBA=="/>
+
+	</POIs>
+</OverlayData>

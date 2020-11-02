@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+POIs: Cloud Strife.7492 - Xenophy.2716 - ReActif.9251
+Date: 2017/08/23
+-->
+<OverlayData>
+	<MarkerCategory name="general" DisplayName="General">
+		<MarkerCategory name="puzzles_de_saut" DisplayName="Jumping Puzzles" iconFile="Img\Guide.png" iconSize="0.75">
+			<MarkerCategory name="piste_de_griffonroc" DisplayName="Griffonrook Run"/>
+		</MarkerCategory>
+	</MarkerCategory>
+
+	<POIs>
+
+		<!-- Début -->
+		<POI MapID="27" xpos="-261.368" ypos="0.285115" zpos="-815.543" type="general.puzzles_de_saut.debut" GUID="pB5QgOMmi0+qIip2bvSP5Q=="/>
+
+		<!-- Route -->
+		<Route MapID="27" name="Piste_de_Griffonroc" resetposx="-261.368" resetposy="0.285115" resetposz="-815.543" resetrange="2">
+			<POI MapID="27" xpos="-260.393" ypos="-4.6885" zpos="-824.965" type="general.puzzles_de_saut.piste_de_griffonroc" GUID="of5cPu84x0GkzAgF+iUD3A=="/>
+			<POI MapID="27" xpos="-273.583" ypos="-8.73507" zpos="-834.18" type="general.puzzles_de_saut.piste_de_griffonroc" GUID="kDWdRFb2zkm2+TjRhLS/YA=="/>
+			<POI MapID="27" xpos="-277.213" ypos="-14.6941" zpos="-834.852" type="general.puzzles_de_saut.piste_de_griffonroc" GUID="KPWs++wtM0S5jw8QidYzcA=="/>
+			<POI MapID="27" xpos="-280.322" ypos="-16.9394" zpos="-838.164" type="general.puzzles_de_saut.piste_de_griffonroc" GUID="cqNjtJZSdUaPaCfwLsHcMQ=="/>
+			<POI MapID="27" xpos="-287.514" ypos="-20.7237" zpos="-836.411" type="general.puzzles_de_saut.piste_de_griffonroc" GUID="Jx7+YS5XUU+g7ExIQwqDDQ=="/>
+			<POI MapID="27" xpos="-299.52" ypos="-22.1232" zpos="-832.003" type="general.puzzles_de_saut.piste_de_griffonroc" GUID="KcWqERwgOk+RVrPgtv0xrQ=="/>
+			<POI MapID="27" xpos="-311.714" ypos="-20.0771" zpos="-827.391" type="general.puzzles_de_saut.piste_de_griffonroc" GUID="s13nUKXaGkmzfogeI5bSwg=="/>
+			<POI MapID="27" xpos="-323.561" ypos="-20.1451" zpos="-820.336" type="general.puzzles_de_saut.piste_de_griffonroc" GUID="mrnb7z8HWUy9wZqLLVaCJg=="/>
+			<POI MapID="27" xpos="-334.086" ypos="-19.2166" zpos="-813.478" type="general.puzzles_de_saut.piste_de_griffonroc" GUID="gqtuO4hO+kqxK1b9zzO48g=="/>
+			<POI MapID="27" xpos="-348.094" ypos="-17.9069" zpos="-803.504" type="general.puzzles_de_saut.piste_de_griffonroc" GUID="bbFa4uJKJkiFW0LxkaIY3g=="/>
+			<POI MapID="27" xpos="-356.537" ypos="-14.0782" zpos="-796.082" type="general.puzzles_de_saut.piste_de_griffonroc" GUID="Vg4+PMc7x06Tv44Bsm3hZA=="/>
+			<POI MapID="27" xpos="-373.006" ypos="-8.11813" zpos="-783.813" type="general.puzzles_de_saut.piste_de_griffonroc" GUID="dL3AJbnJxkSiS7R0LShklA=="/>
+			<POI MapID="27" xpos="-385.292" ypos="-3.19817" zpos="-775.758" type="general.puzzles_de_saut.piste_de_griffonroc" GUID="R4ir/4ja8UmshzIZ2gShrw=="/>
+			<POI MapID="27" xpos="-397.701" ypos="-1.05481" zpos="-767.588" type="general.puzzles_de_saut.piste_de_griffonroc" GUID="7dAxENCtQkq9c+tBXL6CTg=="/>
+			<POI MapID="27" xpos="-410.642" ypos="-1.04022" zpos="-758.299" type="general.puzzles_de_saut.piste_de_griffonroc" GUID="L8vw5YnIkUOIdp4TzLjVwg=="/>
+			<POI MapID="27" xpos="-423.093" ypos="-0.646335" zpos="-750.178" type="general.puzzles_de_saut.piste_de_griffonroc" GUID="vWTwj5fOcUyGiH5HP+AaWQ=="/>
+			<POI MapID="27" xpos="-434.165" ypos="-0.64209" zpos="-740.512" type="general.puzzles_de_saut.piste_de_griffonroc" GUID="nTQ3J6Zk1kq3xa1GoHPZFQ=="/>
+			<POI MapID="27" xpos="-444.718" ypos="-0.432105" zpos="-732.579" type="general.puzzles_de_saut.piste_de_griffonroc" GUID="FxetgDUTJUmRbuwnkhKU1g=="/>
+			<POI MapID="27" xpos="-451.244" ypos="-0.421973" zpos="-723.966" type="general.puzzles_de_saut.piste_de_griffonroc" GUID="ET4L66x+n0mHJs/eNl5KTg=="/>
+			<POI MapID="27" xpos="-458.052" ypos="-0.51639" zpos="-718.181" type="general.puzzles_de_saut.piste_de_griffonroc" GUID="+acQ8b62M0qRSv5IJb9iZw=="/>
+			<POI MapID="27" xpos="-463.927" ypos="-0.338113" zpos="-710.621" type="general.puzzles_de_saut.piste_de_griffonroc" GUID="5gjju6ClkU+vU+5iynWITA=="/>
+			<POI MapID="27" xpos="-466.565" ypos="0.0973942" zpos="-701.038" type="general.puzzles_de_saut.piste_de_griffonroc" GUID="HoBuUAeBekyA9OYdtKmKiw=="/>
+			<POI MapID="27" xpos="-468.744" ypos="-0.705349" zpos="-688.655" type="general.puzzles_de_saut.piste_de_griffonroc" GUID="qsFAKpPChU+luueUYDAWxQ=="/>
+			<POI MapID="27" xpos="-471.859" ypos="-0.678954" zpos="-674.853" type="general.puzzles_de_saut.piste_de_griffonroc" GUID="sJ1vubm+ikaU8rYl5XuoAw=="/>
+			<POI MapID="27" xpos="-475.315" ypos="-0.552478" zpos="-665.043" type="general.puzzles_de_saut.piste_de_griffonroc" GUID="MCfONovJ1kq8+bNcmvr0Tw=="/>
+			<POI MapID="27" xpos="-476.831" ypos="-0.1852" zpos="-656.182" type="general.puzzles_de_saut.piste_de_griffonroc" GUID="DfdjtytK+Uif9T3CW6qvzg=="/>
+			<POI MapID="27" xpos="-477.474" ypos="0.539721" zpos="-650.254" type="general.puzzles_de_saut.piste_de_griffonroc" GUID="GRTbHq+3TEiG4Q4Bbp+i7A==" iconFile="Img\Interrupteur.png"/>
+			<POI MapID="27" xpos="-496.45" ypos="121.313" zpos="-505.124" type="general.puzzles_de_saut.piste_de_griffonroc" GUID="SZ9gvhgrvUCnADTVRqbU7w=="/>
+			<POI MapID="27" xpos="-491.803" ypos="93.6333" zpos="-510.302" type="general.puzzles_de_saut.piste_de_griffonroc" GUID="PHT9PYCFj06iJuDRdtdryQ=="/>
+			<POI MapID="27" xpos="-477.452" ypos="92.2836" zpos="-513.999" type="general.puzzles_de_saut.piste_de_griffonroc" GUID="IH+19f6m+kOv008886p//Q=="/>
+			<POI MapID="27" xpos="-465.205" ypos="93.3071" zpos="-510.287" type="general.puzzles_de_saut.piste_de_griffonroc" GUID="YtdyXQlkHUSXnDJq5kCZYQ=="/>
+			<POI MapID="27" xpos="-462.799" ypos="95.6207" zpos="-512.433" type="general.puzzles_de_saut.piste_de_griffonroc" GUID="XDOCrZ5ajEaeNmqqLM1+KQ=="/>
+			<POI MapID="27" xpos="-462.878" ypos="97.8061" zpos="-515.916" type="general.puzzles_de_saut.piste_de_griffonroc" GUID="Iz8fIMbpSUWZavMvDLxwNw=="/>
+			<POI MapID="27" xpos="-460.438" ypos="97.7765" zpos="-513.936" type="general.puzzles_de_saut.piste_de_griffonroc" GUID="EYdRIuHSkESfTNKg920urw=="/>
+			<!-- Voie alternative
+			<POI MapID="27" xpos="-488.134" ypos="121.237" zpos="-507.429" type="general.puzzles_de_saut.piste_de_griffonroc" GUID="fUEaj19D+UurzcDcJ4u/lg=="/>
+			<POI MapID="27" xpos="-483.744" ypos="121.237" zpos="-509.253" type="general.puzzles_de_saut.piste_de_griffonroc" GUID="QxqeZhkuckaISSLYYgJAiA=="/>
+			<POI MapID="27" xpos="-481.452" ypos="121.245" zpos="-503.386" type="general.puzzles_de_saut.piste_de_griffonroc" GUID="M4wPGjiv/U6lxmIVzNRiMw=="/>
+			<POI MapID="27" xpos="-478.171" ypos="121.15" zpos="-503.366" type="general.puzzles_de_saut.piste_de_griffonroc" GUID="UjOzfE/i6UmPka6PNCfZCQ=="/>
+			<POI MapID="27" xpos="-463.618" ypos="98.061" zpos="-509.16" type="general.puzzles_de_saut.piste_de_griffonroc" GUID="i94Bj2gHTkGobZ21Qb9RjQ=="/>
+			<POI MapID="27" xpos="-458.276" ypos="98.9618" zpos="-508.944" type="general.puzzles_de_saut.piste_de_griffonroc" GUID="yC6myDZg0UaNDtl5AoGN6g=="/>
+			<POI MapID="27" xpos="-454.781" ypos="99.4392" zpos="-511.955" type="general.puzzles_de_saut.piste_de_griffonroc" GUID="M1G+R84/B02Ipe1MkICZGA=="/>
+			-->
+			<POI MapID="27" xpos="-453.249" ypos="92.0874" zpos="-517.502" type="general.puzzles_de_saut.piste_de_griffonroc" GUID="UATQgoFIR0OTBhO6hWurJA=="/>
+			<POI MapID="27" xpos="-446.946" ypos="92.5042" zpos="-523.108" type="general.puzzles_de_saut.piste_de_griffonroc" GUID="JRwCRU4rP0q4F4PJerelYA=="/>
+			<POI MapID="27" xpos="-439.286" ypos="93.5113" zpos="-529.431" type="general.puzzles_de_saut.piste_de_griffonroc" GUID="zTgAsHvL902t+BccRz1stQ=="/>
+			<POI MapID="27" xpos="-434.464" ypos="88.0028" zpos="-546.018" type="general.puzzles_de_saut.piste_de_griffonroc" GUID="EyZle+mmSEa6tIS+LZ8QTg=="/>
+			<POI MapID="27" xpos="-431.19" ypos="90.9177" zpos="-554.684" type="general.puzzles_de_saut.piste_de_griffonroc" GUID="SK84b7OdVkWpT/SydKn7uA=="/>
+			<POI MapID="27" xpos="-428.289" ypos="95.3214" zpos="-565.433" type="general.puzzles_de_saut.piste_de_griffonroc" GUID="swPz85vC40at9opO7xi3bg=="/>
+			<POI MapID="27" xpos="-428.912" ypos="102.414" zpos="-575.879" type="general.puzzles_de_saut.piste_de_griffonroc" GUID="hBY+KGMt60qyvljWJfj5Gw=="/>
+			<POI MapID="27" xpos="-430.33" ypos="108.158" zpos="-585.25" type="general.puzzles_de_saut.piste_de_griffonroc" GUID="bqW54d5t+UyTA7dLUdfK+Q=="/>
+			<POI MapID="27" xpos="-434.422" ypos="108.653" zpos="-591.405" type="general.puzzles_de_saut.piste_de_griffonroc" GUID="O6pH/IJOHEa6iogpfx1Dow=="/>
+			<POI MapID="27" xpos="-436.855" ypos="109.377" zpos="-599.26" type="general.puzzles_de_saut.piste_de_griffonroc" GUID="RTTj9F9iOEuOWk5bN0bf2g=="/>
+			<POI MapID="27" xpos="-436.475" ypos="109.828" zpos="-610.362" type="general.puzzles_de_saut.piste_de_griffonroc" GUID="EcV/31nrrkW6uhnuPgJSXw=="/>
+			<POI MapID="27" xpos="-437.411" ypos="110.409" zpos="-619.994" type="general.puzzles_de_saut.piste_de_griffonroc" GUID="9WwbzDtDtkebLVwNVvV9jg=="/>
+			<POI MapID="27" xpos="-434.952" ypos="112.731" zpos="-622.895" type="general.puzzles_de_saut.piste_de_griffonroc" GUID="88bhgtiXs0CWvJ9O+w5lAA=="/>
+			<POI MapID="27" xpos="-429.674" ypos="115.964" zpos="-621.215" type="general.puzzles_de_saut.piste_de_griffonroc" GUID="AxE2bz5A7Ey4ojcUcTNtiQ=="/>
+			<POI MapID="27" xpos="-433.686" ypos="118.681" zpos="-613.951" type="general.puzzles_de_saut.piste_de_griffonroc" GUID="il6rXWxPPUqIFinrbQeGCQ=="/>
+			<POI MapID="27" xpos="-441.043" ypos="119.363" zpos="-606.428" type="general.puzzles_de_saut.piste_de_griffonroc" GUID="MrRFsqGDCkO0BJxpiETiug=="/>
+			<POI MapID="27" xpos="-451.003" ypos="107.037" zpos="-606.599" type="general.puzzles_de_saut.piste_de_griffonroc" GUID="ZuMHY74y50+YuPz/En2A6w=="/>
+			<POI MapID="27" xpos="-463.548" ypos="80.2075" zpos="-612.346" type="general.puzzles_de_saut.piste_de_griffonroc" GUID="l8ynUjVtuECca27o5BNZ2g=="/>
+			<POI MapID="27" xpos="-476.363" ypos="79.9091" zpos="-608.851" type="general.puzzles_de_saut.piste_de_griffonroc" GUID="qMule8gQmkGTF+UwgROVFA=="/>
+			<POI MapID="27" xpos="-487.383" ypos="74.285" zpos="-611.862" type="general.puzzles_de_saut.piste_de_griffonroc" GUID="fb0ni1xE+0mndLLKAZgqLw=="/>
+			<POI MapID="27" xpos="-496.123" ypos="75.8588" zpos="-610.874" type="general.puzzles_de_saut.piste_de_griffonroc" GUID="nSPn9VyTK0uxWTXrZS3DwQ=="/>
+			<POI MapID="27" xpos="-507.796" ypos="73.9448" zpos="-611.166" type="general.puzzles_de_saut.piste_de_griffonroc" GUID="VtZDthsFR02gqUYndm+F+g=="/>
+			<POI MapID="27" xpos="-509.023" ypos="72.6381" zpos="-630.295" type="general.puzzles_de_saut.piste_de_griffonroc" GUID="EWYirZZNvUedgcI0NSxapA=="/>
+			<POI MapID="27" xpos="-509.621" ypos="58.1695" zpos="-643.959" type="general.puzzles_de_saut.piste_de_griffonroc" GUID="WKuGZ/ouAUiyzhR8QMyz1A=="/>
+			<POI MapID="27" xpos="-508.892" ypos="58.1503" zpos="-654.005" type="general.puzzles_de_saut.piste_de_griffonroc" GUID="pSZA2tt2jECJCJMiDR/yKw=="/>
+			<POI MapID="27" xpos="-501.772" ypos="55.6569" zpos="-661.317" type="general.puzzles_de_saut.piste_de_griffonroc" GUID="Bl+u5Z7vgUGJ0Y+QsE6CyA=="/>
+			<POI MapID="27" xpos="-500.457" ypos="55.7051" zpos="-676.064" type="general.puzzles_de_saut.piste_de_griffonroc" GUID="+wy3C+XlF0uSDfF1Z6QvGA=="/>
+			<POI MapID="27" xpos="-491.474" ypos="55.2722" zpos="-690.015" type="general.puzzles_de_saut.piste_de_griffonroc" GUID="9fsa/XD0g0WxPlsWftPz7A=="/>
+			<POI MapID="27" xpos="-479.677" ypos="54.9229" zpos="-688.93" type="general.puzzles_de_saut.piste_de_griffonroc" GUID="AIzIcpw7AEKsurRQ6NzHkA=="/>
+			<POI MapID="27" xpos="-466.461" ypos="34.8285" zpos="-688.034" type="general.puzzles_de_saut.piste_de_griffonroc" GUID="1T/wHmEhWEaBYU9bTGjz2A=="/>
+			<POI MapID="27" xpos="-450.876" ypos="34.0178" zpos="-690.725" type="general.puzzles_de_saut.piste_de_griffonroc" GUID="H/17PvZEw0qNOetOnxtuEA=="/>
+			<POI MapID="27" xpos="-442.503" ypos="12.5931" zpos="-698.873" type="general.puzzles_de_saut.piste_de_griffonroc" GUID="wyW2KwU9JUSxoucfy+raUw=="/>
+			<POI MapID="27" xpos="-432.497" ypos="12.5188" zpos="-692.203" type="general.puzzles_de_saut.piste_de_griffonroc" GUID="C617lGObHUOWe6x2UhiUxg=="/>
+			<POI MapID="27" xpos="-424.609" ypos="14.7782" zpos="-691.875" type="general.puzzles_de_saut.piste_de_griffonroc" GUID="v2GLGVa2ckKAeXdaympb/g=="/>
+			<POI MapID="27" xpos="-420.933" ypos="19.8597" zpos="-682.111" type="general.puzzles_de_saut.piste_de_griffonroc" GUID="0iXSA2G7VkSWgNB+Gcj52Q=="/>
+			<POI MapID="27" xpos="-417.386" ypos="23.6489" zpos="-676.49" type="general.puzzles_de_saut.piste_de_griffonroc" GUID="fZJiSeJTzUWs/cOe/EEwVw=="/>
+			<POI MapID="27" xpos="-416.095" ypos="29.3404" zpos="-667.723" type="general.puzzles_de_saut.piste_de_griffonroc" GUID="CPDNXbcajUyCEn1EWwdcsw=="/>
+			<POI MapID="27" xpos="-414.022" ypos="33.9827" zpos="-655.144" type="general.puzzles_de_saut.piste_de_griffonroc" GUID="Qr1M/sJjC0eq90DSLP+mNg=="/>
+			<POI MapID="27" xpos="-411.385" ypos="39.0592" zpos="-661.724" type="general.puzzles_de_saut.piste_de_griffonroc" GUID="muU69ITPzUSiAn62En/Hmg=="/>
+			<POI MapID="27" xpos="-412.405" ypos="43.7032" zpos="-671.733" type="general.puzzles_de_saut.piste_de_griffonroc" GUID="UfOgRNvzbUGYfrQ++sHwog=="/>
+			<POI MapID="27" xpos="-415.197" ypos="47.7127" zpos="-679.96" type="general.puzzles_de_saut.piste_de_griffonroc" GUID="buPVL1ULSkO5LB4GaanYwg=="/>
+			<POI MapID="27" xpos="-417.345" ypos="50.8404" zpos="-687.239" type="general.puzzles_de_saut.piste_de_griffonroc" GUID="fpkb1WhL70WndvvZrYOalw=="/>
+			<POI MapID="27" xpos="-419.497" ypos="53.6578" zpos="-694.082" type="general.puzzles_de_saut.piste_de_griffonroc" GUID="Kf9xCftkAkKFInIiYy0HQg=="/>
+			<POI MapID="27" xpos="-421.021" ypos="58.2354" zpos="-704.677" type="general.puzzles_de_saut.piste_de_griffonroc" GUID="bbA/ZsTXwUaJBVQBC/lqkg=="/>
+			<POI MapID="27" xpos="-417.976" ypos="62.6463" zpos="-714.553" type="general.puzzles_de_saut.piste_de_griffonroc" GUID="/5RMlVMdDUee6iHdGFURqQ=="/>
+			<POI MapID="27" xpos="-414.495" ypos="66.3049" zpos="-727.103" type="general.puzzles_de_saut.piste_de_griffonroc" GUID="PN2xzSntfk+uVKmvKl09EA=="/>
+			<POI MapID="27" xpos="-417.795" ypos="71.8654" zpos="-733.081" type="general.puzzles_de_saut.piste_de_griffonroc" GUID="vTz5sX8nMEGZvHA5xiPJqg=="/>
+			<POI MapID="27" xpos="-427.072" ypos="78.3049" zpos="-730.324" type="general.puzzles_de_saut.piste_de_griffonroc" GUID="5vp2g4vuLESPl4FD70/aoA=="/>
+			<POI MapID="27" xpos="-437.921" ypos="85.756" zpos="-727.901" type="general.puzzles_de_saut.piste_de_griffonroc" GUID="EgJUbJy2rEaGHViHwodtQA=="/>
+			<POI MapID="27" xpos="-450.869" ypos="92.7038" zpos="-725.679" type="general.puzzles_de_saut.piste_de_griffonroc" GUID="VklGt7lRpkuS78Xx5NhF8Q=="/>
+			<POI MapID="27" xpos="-460.454" ypos="95.9865" zpos="-724.785" type="general.puzzles_de_saut.piste_de_griffonroc" GUID="HRXT4AmGWkiGiiiHEVmPLA=="/>
+			<POI MapID="27" xpos="-468.207" ypos="86.6635" zpos="-725.314" type="general.puzzles_de_saut.piste_de_griffonroc" GUID="oV/giORyqUKvIpHZ2KAiQA=="/>
+			<POI MapID="27" xpos="-475.82" ypos="86.6635" zpos="-723.227" type="general.puzzles_de_saut.piste_de_griffonroc" GUID="mjYEfJts5U6BLgrk7Kwybw=="/>
+			<POI MapID="27" xpos="-485.786" ypos="86.6932" zpos="-721.579" type="general.puzzles_de_saut.piste_de_griffonroc" GUID="lpKo4qcBUUuWp1y3h5zqbA=="/>
+			<POI MapID="27" xpos="-488.072" ypos="87.5631" zpos="-735.461" type="general.puzzles_de_saut.piste_de_griffonroc" GUID="2PbK2Y3qs0Os8GiZ/h07LQ==" iconFile="Img\Coffre.png"/>
+			<POI MapID="27" xpos="-493.222" ypos="57.9709" zpos="-749.369" type="general.puzzles_de_saut.piste_de_griffonroc" GUID="td1aFIFMD0mwuwHg0XgfDw=="/>
+			<POI MapID="27" xpos="-493.333" ypos="57.5743" zpos="-761.451" type="general.puzzles_de_saut.piste_de_griffonroc" GUID="n0OOTJdmGUGJyge0Sug+FA=="/>
+			<POI MapID="27" xpos="-497.299" ypos="52.2934" zpos="-762.227" type="general.puzzles_de_saut.piste_de_griffonroc" GUID="keAmc1Sgb0mlEtd8b+9T/w=="/>
+			<POI MapID="27" xpos="-500.853" ypos="46.814" zpos="-758.836" type="general.puzzles_de_saut.piste_de_griffonroc" GUID="SUmY6+4aDUijQARZwk9cNw=="/>
+			<POI MapID="27" xpos="-498.502" ypos="38.0547" zpos="-768.944" type="general.puzzles_de_saut.piste_de_griffonroc" GUID="m77/+hT7n0qTiv5zZjKXjA=="/>
+			<POI MapID="27" xpos="-491.532" ypos="35.2989" zpos="-779.776" type="general.puzzles_de_saut.piste_de_griffonroc" GUID="RCHcN1rTV06iuBaqpKGeyQ=="/>
+			<POI MapID="27" xpos="-475.297" ypos="21.1147" zpos="-774.613" type="general.puzzles_de_saut.piste_de_griffonroc" GUID="w/bVWxcEREmZvHktK0I74A=="/>
+			<POI MapID="27" xpos="-470.666" ypos="25.4978" zpos="-770.827" type="general.puzzles_de_saut.piste_de_griffonroc" GUID="uLGakcUeRU2GTqFQw6MqEQ=="/>
+			<POI MapID="27" xpos="-461.575" ypos="30.3658" zpos="-763.346" type="general.puzzles_de_saut.piste_de_griffonroc" GUID="FV0+Utf0A0CbckoGgsG9RQ=="/>
+			<POI MapID="27" xpos="-452.059" ypos="37.0085" zpos="-762.233" type="general.puzzles_de_saut.piste_de_griffonroc" GUID="oGL6kCEuREuXN4f2IyEfOA=="/>
+			<POI MapID="27" xpos="-441.789" ypos="44.8883" zpos="-759.27" type="general.puzzles_de_saut.piste_de_griffonroc" GUID="ovsqIXxY6EqQBmjF4/Vtlw=="/>
+			<POI MapID="27" xpos="-437.618" ypos="49.5212" zpos="-762.781" type="general.puzzles_de_saut.piste_de_griffonroc" GUID="PZsyRGxBX0SEb17tbMc16g=="/>
+			<POI MapID="27" xpos="-429.928" ypos="54.1999" zpos="-759.549" type="general.puzzles_de_saut.piste_de_griffonroc" GUID="tpXpoLMLV06rBFYSrU5EYQ=="/>
+			<POI MapID="27" xpos="-421.75" ypos="60.5531" zpos="-761.781" type="general.puzzles_de_saut.piste_de_griffonroc" GUID="NoGrgMIq5km4xnm+VCGX5w=="/>
+			<POI MapID="27" xpos="-412.347" ypos="67.2637" zpos="-762.032" type="general.puzzles_de_saut.piste_de_griffonroc" GUID="tB/sw9KCpUiVZ4kS05GSnA=="/>
+			<POI MapID="27" xpos="-405.657" ypos="72.2835" zpos="-762.21" type="general.puzzles_de_saut.piste_de_griffonroc" GUID="VoTuePqfn0Gfr4bHeo81iQ=="/>
+			<POI MapID="27" xpos="-394.243" ypos="77.9423" zpos="-765.357" type="general.puzzles_de_saut.piste_de_griffonroc" GUID="tqrs1v9CSkKC2/vLLou1DQ=="/>
+			<POI MapID="27" xpos="-391.096" ypos="82.326" zpos="-760.864" type="general.puzzles_de_saut.piste_de_griffonroc" GUID="ny01zMv64Uu5KTgbCxNh8A=="/>
+			<POI MapID="27" xpos="-400.036" ypos="87.9593" zpos="-754.159" type="general.puzzles_de_saut.piste_de_griffonroc" GUID="+PNVkbpzpk2c+Zgp7midDg=="/>
+			<POI MapID="27" xpos="-407.746" ypos="87.1361" zpos="-749.218" type="general.puzzles_de_saut.piste_de_griffonroc" GUID="ynC2GCOO0U+UshWt8ehsJA=="/>
+			<POI MapID="27" xpos="-414.168" ypos="87.7554" zpos="-741.063" type="general.puzzles_de_saut.piste_de_griffonroc" GUID="drsDPqra5EGvIzEMUsr0TQ=="/>
+			<POI MapID="27" xpos="-406.006" ypos="94.0671" zpos="-740.814" type="general.puzzles_de_saut.piste_de_griffonroc" GUID="nzvqH07bmU23MSKF6ncXSQ=="/>
+			<POI MapID="27" xpos="-395.236" ypos="98.7938" zpos="-745.125" type="general.puzzles_de_saut.piste_de_griffonroc" GUID="VKZcJRgymk+0+7MFyy1+VQ=="/>
+			<POI MapID="27" xpos="-383.311" ypos="103.008" zpos="-748.739" type="general.puzzles_de_saut.piste_de_griffonroc" GUID="nV9vu9cntEiLP/f/hNDj7Q=="/>
+		</Route>
+
+		<!-- Coffre -->
+		<POI MapID="27" xpos="-370.088" ypos="106.776" zpos="-753.663" type="general.puzzles_de_saut.piste_de_griffonroc" GUID="L+SPy2i1okKglny6IlKyAg==" iconFile="Img\CoffrePuzzle.png" iconSize="1" heightOffset="2" behavior="2"/>
+
+	</POIs>
+</OverlayData>

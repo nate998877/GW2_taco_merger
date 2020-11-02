@@ -1,0 +1,78 @@
+<!-- 2020.06.25 -->
+<OverlayData>
+	<POIs>
+
+		<!-- FALLING! SCREAMING! DIVING! -->
+		<Trail type="fractals.falling_screaming_diving" GUID="lNkTpQSq5EeE/dT4L07tXQ==" trailData="Data/Fractals/HubPuzzleAccess.trl"           texture="Data/Arrow.png" color="ffffdd00" alpha="0.8" fadeNear="1500" fadeFar="2000" animSpeed="0" mapDisplaySize="15"/>
+		<Trail type="fractals.falling_screaming_diving" GUID="uWm8M1CeSkeG1cckZMb54Q==" trailData="Data/Fractals/HubFallingScreamingDiving.trl" texture="Data/Arrow.png" color="ffffdd00" alpha="0.8" fadeNear="1500" fadeFar="2000" animSpeed="0" mapDisplaySize="15"/>
+		<POI MapID="872" xpos="109.893" ypos="226.551" zpos="-35.3737" type="fractals.falling_screaming_diving" GUID="/f+w467nKUSK6wT4KxAtUQ=="/>
+		<POI MapID="872" xpos="94.3938" ypos="257.298" zpos="-117.971" type="fractals.falling_screaming_diving" GUID="uPHdPSt0V0GC5EvDNi9GbA==" iconFile="Img/Icons/Dive.png" heightOffset="0"/>
+
+		<!-- HOLO-HORNPIPE -->
+		<POI MapID="956" xpos="-10.1208" ypos="10.2126" zpos="98.9001" type="fractals.holohornpipe" GUID="yBTi06Jyikmv4HRHDKbRAw=="/>
+		<POI MapID="956" xpos="-10.1208" ypos="12.2126" zpos="98.9001" type="fractals.holohornpipe" GUID="IYCn1vvoqESBnzIQj/SgVA==" iconFile="Img/Emotes/Dance.png" maxSize="40" heightOffset="1.75" fadeNear="1000" fadeFar="1500" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="956" xpos="-23.9174" ypos="26.809"  zpos="73.8423" type="fractals.holohornpipe" GUID="rR5KPub5IUSFP2laXYN8/w=="/>
+		<POI MapID="956" xpos="-23.9174" ypos="28.809"  zpos="73.8423" type="fractals.holohornpipe" GUID="2LRt4uOihU6RZpZ6Rsxs0Q==" iconFile="Img/Emotes/Dance.png" maxSize="40" heightOffset="1.75" fadeNear="1500" fadeFar="1500" mapVisibility="0" miniMapVisibility="0"/>
+
+		<!-- MISTLOCK MOUNTAINEER -->
+		<Trail type="fractals.mistlock_mountaineer" GUID="MS4U+6jbCUaomGeHzmd6OQ==" trailData="Data/Fractals/HubPuzzleAccess.trl"        texture="Data/Arrow.png" color="ff00ff00" alpha="0.8" fadeNear="1500" fadeFar="2000" animSpeed="0" mapDisplaySize="15"/>
+		<Trail type="fractals.mistlock_mountaineer" GUID="uv8qBYprJEGJf5vyThoAlg==" trailData="Data/Fractals/HubMistlockMountaineer.trl" texture="Data/Arrow.png" color="ff00ff00" alpha="0.8" fadeNear="1500" fadeFar="2000" animSpeed="0" mapDisplaySize="15"/>
+		<POI MapID="872" xpos="109.916" ypos="226.606" zpos="-39.2628" type="fractals.mistlock_mountaineer" GUID="9KcpCY4SH06vg/dfjKDilQ==" iconFile="Img/General/PuzzleStart.png"/>
+		<POI MapID="872" xpos="102.177" ypos="243.24"  zpos="-118.665" type="fractals.mistlock_mountaineer" GUID="dnitkrE/f0eCkqF42Lsd9w==" iconFile="Img/General/PuzzleChest.png" heightOffset="2.5" behavior="2"/>
+
+		<!-- NOTETAKER -->
+		<POI MapID="1164" xpos="-193.961" ypos="564.143" zpos="-0.89341" type="fractals.notetaker" GUID="3t2bkeXeKUSckSA7pLDqGA==" achievementBit="0"/>
+		<POI MapID="1164" xpos="-202.342" ypos="561.146" zpos="-101.896" type="fractals.notetaker" GUID="jOIAJMmD8kagb7K5uhjucQ==" achievementBit="1"/>
+		<POI MapID="1164" xpos="108.965"  ypos="503.72"  zpos="101.937"  type="fractals.notetaker" GUID="Jf4HBmANn0+72BT4jRTJwA==" achievementBit="2"/>
+		<POI MapID="1164" xpos="-60.2732" ypos="542.093" zpos="-230.644" type="fractals.notetaker" GUID="DHQaKirpg0yyR4YwFHo6cA==" achievementBit="3"/>
+		<POI MapID="1164" xpos="-33.441"  ypos="577.415" zpos="-71.8703" type="fractals.notetaker" GUID="lVpSI0HlnE+7kHGpnCir1A==" achievementBit="4"/>
+		<POI MapID="1164" xpos="312.035"  ypos="534.834" zpos="-25.3961" type="fractals.notetaker" GUID="GeIIiOy7oUGJScpjZlLQVg==" achievementBit="5"/>
+		<POI MapID="1164" xpos="133.329"  ypos="629.909" zpos="-194.381" type="fractals.notetaker" GUID="qgZQez/Gb06MCuPFiVxP+g==" achievementBit="6"/>
+
+		<!-- OUT OF CLUCK -->
+		<POI MapID="950" xpos="330.379" ypos="3.29426" zpos="551.162" type="fractals.out_of_cluck" GUID="Wg/vnKnX40WkaIIWXlp20g=="/>
+		<POI MapID="950" xpos="352.689" ypos="3.67237" zpos="610.611" type="fractals.out_of_cluck" GUID="z/H35vA7QEWgnOBMqKKtAg=="/>
+		<POI MapID="950" xpos="234.959" ypos="2.55842" zpos="556.16"  type="fractals.out_of_cluck" GUID="Dz5XaoTfzkyW3fsyzH2H4w=="/>
+		<POI MapID="950" xpos="344.97"  ypos="2.35385" zpos="667.272" type="fractals.out_of_cluck" GUID="oZhNQ/NO30mKTwoXvvWGWA=="/>
+		<POI MapID="950" xpos="218.372" ypos="7.9388"  zpos="653.443" type="fractals.out_of_cluck" GUID="nQmtKXk9NEq5cObxYqsPuA=="/>
+		<POI MapID="950" xpos="239.984" ypos="7.19447" zpos="700.504" type="fractals.out_of_cluck" GUID="zj4hgBgZ30KhWSogKd41Zw=="/>
+		<POI MapID="950" xpos="376.599" ypos="2.80544" zpos="721.22"  type="fractals.out_of_cluck" GUID="kDrf5RD4Y0u9ogKZPaWVQA=="/>
+		<POI MapID="950" xpos="138.911" ypos="21.6189" zpos="843.508" type="fractals.out_of_cluck" GUID="2Z6ujZ+2qk+WG28RKfRPDQ=="/>
+		<POI MapID="950" xpos="227.628" ypos="19.8561" zpos="787.607" type="fractals.out_of_cluck" GUID="yTY1iGNBu06x52dDuN0m3Q=="/>
+		<POI MapID="950" xpos="159.455" ypos="20.3332" zpos="789.556" type="fractals.out_of_cluck" GUID="EEfOMBbtTUSx4t0FpwQWFw=="/>
+
+		<!-- RICHES UNVEILED -->
+		<POI MapID="1290" xpos="239.223"  ypos="266.834" zpos="-126.948" type="fractals.riches_unveiled" GUID="pDcdgUG5zUq77b8CSnLNDQ=="/>
+		<POI MapID="1290" xpos="239.066"  ypos="266.834" zpos="-94.578"  type="fractals.riches_unveiled" GUID="kolug0lhcU+65ir3dTQvvA=="/>
+		<POI MapID="1290" xpos="189.275"  ypos="267.25"  zpos="-123.316" type="fractals.riches_unveiled" GUID="H6PACDUUlEqWEpdeQ1sC+Q=="/>
+		<POI MapID="1290" xpos="116.981"  ypos="266.854" zpos="-113.624" type="fractals.riches_unveiled" GUID="2g0x1WI/dkCrYID5Fx5LMw=="/>
+		<POI MapID="1290" xpos="82.7071"  ypos="266.834" zpos="-133.405" type="fractals.riches_unveiled" GUID="G1c8s95/kkubEkGpQwqwBw=="/>
+		<POI MapID="1290" xpos="82.2249"  ypos="267"     zpos="-111.283" type="fractals.riches_unveiled" GUID="qZGbR8rk3kC/rQV7fydyLw=="/>
+		<POI MapID="1290" xpos="57.2657"  ypos="266.837" zpos="-127.01"  type="fractals.riches_unveiled" GUID="eA9B7ewKZEmmBjzD9H3isA=="/>
+		<POI MapID="1290" xpos="52.906"   ypos="266.832" zpos="-154.711" type="fractals.riches_unveiled" GUID="FW1iPDar40ms5VzATbZjPg=="/>
+		<POI MapID="1290" xpos="51.3379"  ypos="266.846" zpos="63.0883"  type="fractals.riches_unveiled" GUID="3wRsW9kMeU6G22eA5JlOog=="/>
+		<POI MapID="1290" xpos="42.7145"  ypos="119.573" zpos="204.883"  type="fractals.riches_unveiled" GUID="GTpHnQhSPEKnM+KE1e0X6A=="/>
+		<POI MapID="1290" xpos="33.0732"  ypos="119.801" zpos="393.606"  type="fractals.riches_unveiled" GUID="HZ+rv6XOOkClI2foOF8sAw=="/>
+		<POI MapID="1290" xpos="20.4735"  ypos="270.97"  zpos="-182.661" type="fractals.riches_unveiled" GUID="iKdh0enPlUeVc8dcUriLzw=="/>
+		<POI MapID="1290" xpos="20.2746"  ypos="119.851" zpos="371.31"   type="fractals.riches_unveiled" GUID="MAG6xPD4S0mWIG1qKigczA=="/>
+		<POI MapID="1290" xpos="19.9834"  ypos="125.264" zpos="187.027"  type="fractals.riches_unveiled" GUID="vE5/n8a640Sc2BV4cJ+RlA=="/>
+		<POI MapID="1290" xpos="19.6758"  ypos="266.947" zpos="115.216"  type="fractals.riches_unveiled" GUID="Cg38CP+5qk6FFktIVIt3oA=="/>
+		<POI MapID="1290" xpos="17.252"   ypos="274.936" zpos="-216.541" type="fractals.riches_unveiled" GUID="1Wzxo05weUq5NG6x0mXGiw=="/>
+		<POI MapID="1290" xpos="13.7025"  ypos="266.832" zpos="-82.0416" type="fractals.riches_unveiled" GUID="0wms+7oaKUSMCCA+SK/X6A=="/>
+		<POI MapID="1290" xpos="11.2458"  ypos="266.922" zpos="97.5633"  type="fractals.riches_unveiled" GUID="m1chQFBqiE+vxYBfY6giyg=="/>
+		<POI MapID="1290" xpos="9.38371"  ypos="119.723" zpos="399.862"  type="fractals.riches_unveiled" GUID="ACEN1ewkf0Cs5vaQxSM3/g=="/>
+		<POI MapID="1290" xpos="3.8062"   ypos="266.832" zpos="-53.9624" type="fractals.riches_unveiled" GUID="tmb6HkYyVE6lJZUX8IIzTQ=="/>
+		<POI MapID="1290" xpos="-8.59058" ypos="267.204" zpos="-144.42"  type="fractals.riches_unveiled" GUID="TRhkUvJa3U24/AzMFWwrVg=="/>
+		<POI MapID="1290" xpos="-8.8526"  ypos="119.806" zpos="353.773"  type="fractals.riches_unveiled" GUID="X5kKYmpSh0209DO7UVZcHw=="/>
+		<POI MapID="1290" xpos="-9.42615" ypos="119.692" zpos="201.738"  type="fractals.riches_unveiled" GUID="fPkQCVQ3zkCGB460nOS2wg=="/>
+		<POI MapID="1290" xpos="-10.333"  ypos="266.812" zpos="62.4361"  type="fractals.riches_unveiled" GUID="MUX7QzKqrkeiIrJJrC6k0w=="/>
+		<POI MapID="1290" xpos="-20.5402" ypos="266.833" zpos="-114.77"  type="fractals.riches_unveiled" GUID="Lsy2g/0t006BhZFtV7/DKQ=="/>
+		<POI MapID="1290" xpos="-46.3307" ypos="267.009" zpos="-80.6171" type="fractals.riches_unveiled" GUID="bClEOt2ug0Cs5DkzWKARig=="/>
+		<POI MapID="1290" xpos="-50.9671" ypos="266.841" zpos="20.3851"  type="fractals.riches_unveiled" GUID="w5Fl8H/kKE6tIMGH0rRaFA=="/>
+		<POI MapID="1290" xpos="-64.6089" ypos="266.921" zpos="-120.586" type="fractals.riches_unveiled" GUID="Isuv56R0x0q0RV86p1WK7w=="/>
+		<POI MapID="1290" xpos="-64.7201" ypos="266.998" zpos="-34.6211" type="fractals.riches_unveiled" GUID="IllWMictfESk7KCtkOicSA=="/>
+		<POI MapID="1290" xpos="-72.5049" ypos="266.833" zpos="-16.4213" type="fractals.riches_unveiled" GUID="+cNVE/sCO0W1OE/J9VyCqA=="/>
+		<POI MapID="1290" xpos="-96.9651" ypos="266.987" zpos="-8.34823" type="fractals.riches_unveiled" GUID="Ey5YVPfJzUW8orkRmrZ03g=="/>
+
+	</POIs>
+</OverlayData>

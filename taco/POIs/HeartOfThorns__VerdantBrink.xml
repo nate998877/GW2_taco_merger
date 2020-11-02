@@ -1,0 +1,84 @@
+<!-- 2020.06.09 -->
+<OverlayData>
+	<POIs>
+
+		<!-- "FAREN'S FLYER" STRONGBOX -->
+		<Trail type="heart_of_thorns.verdant_brink.strongboxes.faren_s_flyer_strongbox" GUID="8FvhFkidgkSzfMw26P6nPQ==" trailData="Data/HeartOfThorns/VerdantBrink/FarensFlyerStrongbox.trl" texture="Data/Arrow.png" color="ffffdd00" alpha="0.8" fadeNear="1500" fadeFar="2000" animSpeed="1" mapDisplaySize="15"/>
+		<POI MapID="1052" xpos="-191.67"  ypos="550.527" zpos="166.933" type="heart_of_thorns.verdant_brink.strongboxes.faren_s_flyer_strongbox" GUID="nprAyfkgIUef4EMngeYIvg=="                                        heightOffset="0.5"/>
+		<POI MapID="1052" xpos="-186.556" ypos="548.183" zpos="170.072" type="heart_of_thorns.verdant_brink.strongboxes.faren_s_flyer_strongbox" GUID="Qda99PvQQky+NINvRaewlw==" iconFile="Img/Gliders/GliderStart.png" heightOffset="0.5" fadeNear="800" fadeFar="1000" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="1052" xpos="-573.722" ypos="621.123" zpos="27.4728" type="heart_of_thorns.verdant_brink.strongboxes.faren_s_flyer_strongbox" GUID="J63DvcbiW0C/ZkWksWFocQ=="                                        fadeNear="1000" fadeFar="2000" mapVisibility="0" miniMapVisibility="0"/>
+
+		<!-- "GLORY OF TYRIA" STRONGBOX -->
+		<POI MapID="1052" xpos="-460.272" ypos="496.628" zpos="-418.228" type="heart_of_thorns.verdant_brink.strongboxes.glory_of_tyria_strongbox" GUID="Bn1UZwVR20aqpwtmNG4J9g=="/>
+
+		<!-- "LETHAL VANTAGE" STRONGBOX -->
+		<POI MapID="1052" xpos="643.624" ypos="123.386" zpos="-59.3765" type="heart_of_thorns.verdant_brink.strongboxes.lethal_vantage_strongbox" GUID="l4INLefP+Ea6M0fl4Xm3Nw=="/>
+
+		<!-- "MELLAGGAN'S VALOR" STRONGBOX -->
+		<Trail type="heart_of_thorns.verdant_brink.strongboxes.mellaggan_s_valor_strongbox" GUID="K5vWgpilWk2PUBuabj6z0w==" trailData="Data/HeartOfThorns/VerdantBrink/MellagansValorStrongbox.trl" texture="Data/Arrow.png" color="ffffdd00" alpha="0.8" fadeNear="1500" fadeFar="2500" animSpeed="1" mapDisplaySize="15"/>
+		<POI MapID="1052" xpos="-286.93"  ypos="542.819" zpos="135.94"  type="heart_of_thorns.verdant_brink.strongboxes.mellaggan_s_valor_strongbox" GUID="+P1BSD5we0y1TwN0Xi8REw==" heightOffset="0.5"/>
+		<POI MapID="1052" xpos="-507.402" ypos="617.919" zpos="226.098" type="heart_of_thorns.verdant_brink.strongboxes.mellaggan_s_valor_strongbox" GUID="O7JSBzWHNEOrIjCvQLcIBg==" fadeNear="1000" fadeFar="2000" mapVisibility="0" miniMapVisibility="0"/>
+
+		<!-- "THUNDERBREAKER" STRONGBOX -->
+		<POI MapID="1052" xpos="-588.633" ypos="533.609" zpos="-260.84" type="heart_of_thorns.verdant_brink.strongboxes.thunderbreaker_strongbox" GUID="Cb89haTaZkqASDK93zvJPg=="/>
+
+		<!-- BUGS IN THE BRANCHES -->
+		<Trail type="heart_of_thorns.verdant_brink.bugs_in_the_branches" GUID="sp2yxFYGN0uWdfQoTqNv4A==" trailData="Data/HeartOfThorns/VerdantBrink/BugsInTheBranches.trl" texture="Data/Arrow.png" color="ffffdd00" alpha="0.8" fadeNear="1500" fadeFar="2000" animSpeed="1" mapDisplaySize="15"/>
+
+		<!-- DIVE MASTER: VERDANT BRINK -->
+		<Trail type="heart_of_thorns.verdant_brink.dive_master__verdant_brink" GUID="UsKWbkQT6E+UYqXAYPMaeg==" trailData="Data/HeartOfThorns/VerdantBrink/DiveMasterVerdantBrink.trl" texture="Data/Arrow.png" color="ff00ff00" alpha="0.8" fadeNear="1500" fadeFar="2000" animSpeed="1" mapDisplaySize="15"/>
+		<POI MapID="1052" xpos="98.5821" ypos="690.09" zpos="21.0419" type="heart_of_thorns.verdant_brink.dive_master__verdant_brink" GUID="m1N97XcAtUCPdHrlJuDRzw==" iconFile="Img/Icons/Dive.png"   fadeNear="2000" fadeFar="2500" heightOffset="0.7"/>
+		<POI MapID="1052" xpos="84.13" ypos="374.679" zpos="-3.65066" type="heart_of_thorns.verdant_brink.dive_master__verdant_brink" GUID="WrZMC56o7EK/ZFogiy91NQ==" iconFile="Img/Icons/Target.png" heightOffset="0"/>
+
+		<!-- FLYING CIRCUS -->
+		<Trail type="heart_of_thorns.verdant_brink.flying_circus" GUID="I04DmiCD2EKnwFNTjum+nA==" trailData="Data/HeartOfThorns/VerdantBrink/FlyingCircus.trl" texture="Data/Arrow.png" color="ff00ff00" alpha="0.8" fadeNear="1500" fadeFar="2000" animSpeed="1" mapDisplaySize="15"/>
+
+		<!-- JUNGLE TOTEM HUNTER -->
+		<POI MapID="1052" xpos="-698.698" ypos="119.111" zpos="-352.431" type="heart_of_thorns.verdant_brink.jungle_totem_hunter" GUID="mC+ta4emwEWl4YbCHG3DQw=="/>
+		<POI MapID="1052" xpos="-678.201" ypos="265.514" zpos="175.227"  type="heart_of_thorns.verdant_brink.jungle_totem_hunter" GUID="grh6H9H1AEy3oDjVE/nKgw=="/>
+		<POI MapID="1052" xpos="-434.524" ypos="289.615" zpos="115.646"  type="heart_of_thorns.verdant_brink.jungle_totem_hunter" GUID="Tt6nejGozUqQKRkOFyGIOw=="/>
+		<POI MapID="1052" xpos="-388.772" ypos="142.55"  zpos="-65.7772" type="heart_of_thorns.verdant_brink.jungle_totem_hunter" GUID="n0kDfjvCIEuzFaqIDqADoA=="/>
+		<POI MapID="1052" xpos="-219.079" ypos="103.09"  zpos="-22.1442" type="heart_of_thorns.verdant_brink.jungle_totem_hunter" GUID="eThHV1vZCkChHox9ppK08Q=="/>
+		<POI MapID="1052" xpos="-110.827" ypos="94.1912" zpos="57.4924"  type="heart_of_thorns.verdant_brink.jungle_totem_hunter" GUID="gerF/gZA1keNpy3rKfdHFg=="/>
+		<POI MapID="1052" xpos="37.6102"  ypos="281.68"  zpos="33.0194"  type="heart_of_thorns.verdant_brink.jungle_totem_hunter" GUID="ltANhcq+B02fFFLDHUABPw=="/>
+		<POI MapID="1052" xpos="341.636"  ypos="164.613" zpos="134.226"  type="heart_of_thorns.verdant_brink.jungle_totem_hunter" GUID="snkbQ/FhmE+Kic9led/pTA=="/>
+		<POI MapID="1052" xpos="528.165"  ypos="70.4245" zpos="-72.2773" type="heart_of_thorns.verdant_brink.jungle_totem_hunter" GUID="VEN3ZXOVjkK63+yFtRz1SA=="/>
+		<POI MapID="1052" xpos="703.329"  ypos="139.863" zpos="336.105"  type="heart_of_thorns.verdant_brink.jungle_totem_hunter" GUID="2vt7Aks/xkKMzpxOCeu9dw=="/>
+
+		<!-- SALVAGE PIT -->
+		<POI MapID="1052" xpos="585.914" ypos="397" zpos="-374.389" type="heart_of_thorns.verdant_brink.salvage_pit" GUID="DIjFz8w3H02PsOH0RNjFAw==" iconFile="Img/HoT/SalvagePit.png" minSize="120" maxSize="120" fadeNear="800" fadeFar="1200"/>
+
+		<!-- SHOOTING GALLERY -->
+		<POI MapID="1052" xpos="-77.1659" ypos="401.3" zpos="-380.721" type="heart_of_thorns.verdant_brink.shooting_gallery" GUID="U3z/jAek4k2eWTg6OQYlNA=="/>
+		<POI MapID="1052" xpos="-63.9376" ypos="400.6" zpos="-409.242" type="heart_of_thorns.verdant_brink.shooting_gallery" GUID="f1og8Sv9xkC8t5V9x+jdnw=="/>
+		<POI MapID="1052" xpos="-41.6578" ypos="402.9" zpos="-399.39"  type="heart_of_thorns.verdant_brink.shooting_gallery" GUID="XgSDLg59L0uAkkdmX0stUQ=="/>
+		<POI MapID="1052" xpos="-39.4675" ypos="401.7" zpos="-430.678" type="heart_of_thorns.verdant_brink.shooting_gallery" GUID="VZIsUmsE3keM/nStytG/ug=="/>
+		<POI MapID="1052" xpos="-16.3634" ypos="400.1" zpos="-435.624" type="heart_of_thorns.verdant_brink.shooting_gallery" GUID="K3BbNLwvHk613J38OGAtiw=="/>
+		<POI MapID="1052" xpos="-30.2273" ypos="409.0" zpos="-435.54"  type="heart_of_thorns.verdant_brink.shooting_gallery" GUID="TUJ8eQRKqESfYX9JcXroXA=="/>
+		<POI MapID="1052" xpos="-57.6917" ypos="416.5" zpos="-404.776" type="heart_of_thorns.verdant_brink.shooting_gallery" GUID="p8ud15r7gUawGe5LGUlxxw=="/>
+		<POI MapID="1052" xpos="-77.4539" ypos="417.8" zpos="-416.736" type="heart_of_thorns.verdant_brink.shooting_gallery" GUID="WvLFgOdWy0CYUSGpB9tW+g=="/>
+		<POI MapID="1052" xpos="-137.436" ypos="428.6" zpos="-416.858" type="heart_of_thorns.verdant_brink.shooting_gallery" GUID="ltas7LcD+kWNhonSzQw9Bw=="/>
+		<POI MapID="1052" xpos="-146.689" ypos="417.4" zpos="-368.421" type="heart_of_thorns.verdant_brink.shooting_gallery" GUID="45JZ5TlfGkWxi+f6aN1zfw=="/>
+		<POI MapID="1052" xpos="-133.954" ypos="408.6" zpos="-383.824" type="heart_of_thorns.verdant_brink.shooting_gallery" GUID="Rl4gk2N3nUStYsg4cDuFPQ=="/>
+		<POI MapID="1052" xpos="-92.9271" ypos="414.3" zpos="-289.877" type="heart_of_thorns.verdant_brink.shooting_gallery" GUID="jT6jrmZPzEGEDAkGGYHROw=="/>
+		<POI MapID="1052" xpos="-89.2723" ypos="411.7" zpos="-293.083" type="heart_of_thorns.verdant_brink.shooting_gallery" GUID="K3ZQLQ51lUuwavas+TSE0Q=="/>
+		<POI MapID="1052" xpos="-84.1341" ypos="413.5" zpos="-292.765" type="heart_of_thorns.verdant_brink.shooting_gallery" GUID="hOEz3EF4/0iPklgH0CG0kQ=="/>
+		<POI MapID="1052" xpos="-59.0347" ypos="402.1" zpos="-332.251" type="heart_of_thorns.verdant_brink.shooting_gallery" GUID="OPM4Py44+Eqs3UKB1VzYvA=="/>
+		<POI MapID="1052" xpos="-91.1505" ypos="407.3" zpos="-317.775" type="heart_of_thorns.verdant_brink.shooting_gallery" GUID="qpfycR3rl0ekkc8pdEjQNg=="/>
+		<POI MapID="1052" xpos="-127.695" ypos="409.2" zpos="-334.978" type="heart_of_thorns.verdant_brink.shooting_gallery" GUID="D9fpDo7xFEuP7CiSpcSpsg=="/>
+		<POI MapID="1052" xpos="-77.071"  ypos="409.5" zpos="-294.224" type="heart_of_thorns.verdant_brink.shooting_gallery" GUID="NKJ6jPjdKEC1VGCyCENJKw=="/>
+		<POI MapID="1052" xpos="-91.9204" ypos="429.4" zpos="-412.169" type="heart_of_thorns.verdant_brink.shooting_gallery" GUID="PgUnqX6Bx0STAtMbYs1ngw=="/>
+		<POI MapID="1052" xpos="-106.408" ypos="420.0" zpos="-291.283" type="heart_of_thorns.verdant_brink.shooting_gallery" GUID="YxDyd4EU6UKLqYGRmerdKw=="/>
+
+		<!-- SKRITT SALVAGER -->
+		<POI MapID="1052" xpos="-255.514" ypos="488.243" zpos="97.8291"  type="heart_of_thorns.verdant_brink.skritt_salvager" GUID="uc4GWgFesUuDv45I5L7B0Q=="/>
+		<POI MapID="1052" xpos="-129.769" ypos="377.962" zpos="79.6776"  type="heart_of_thorns.verdant_brink.skritt_salvager" GUID="3OvyafStQkOrFi57nCEZiQ=="/>
+		<POI MapID="1052" xpos="-62.0652" ypos="368.997" zpos="-80.2593" type="heart_of_thorns.verdant_brink.skritt_salvager" GUID="5CgcWIxycU+97tz8YbaL4A=="/>
+		<POI MapID="1052" xpos="733.012"  ypos="369.65"  zpos="227.817"  type="heart_of_thorns.verdant_brink.skritt_salvager" GUID="YdtAYpuXKkK6cQ3YlAHCOw=="/>
+		<POI MapID="1052" xpos="812.144"  ypos="324.225" zpos="45.4145"  type="heart_of_thorns.verdant_brink.skritt_salvager" GUID="5tuJaYv4TkOhUuGSRo0kCg=="/>
+
+		<!-- TENDRIL TORCHERS -->
+		<Trail type="heart_of_thorns.verdant_brink.tendril_torchers" GUID="EhgASA1D9E6kWFFzazekAg==" trailData="Data/HeartOfThorns/VerdantBrink/TendrilTorchers.trl" texture="Data/Arrow.png" color="ffffff00" alpha="0.8" fadeNear="1500" fadeFar="2000" animSpeed="1" mapDisplaySize="15"/>
+
+	</POIs>
+</OverlayData>

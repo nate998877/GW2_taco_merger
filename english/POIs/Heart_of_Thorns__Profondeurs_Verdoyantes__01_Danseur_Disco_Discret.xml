@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+POIs: ReActif.9251
+Date: 2017/08/11
+-->
+<OverlayData>
+	<MarkerCategory name="heart_of_thorns.profondeurs_verdoyantes">
+		<MarkerCategory name="danseur_disco_discret" DisplayName="Disco Dancing Delver (Hidden)" iconFile="Img\Guide.png" iconSize="0.75" triggerRange="3" behavior="0">
+			<MarkerCategory name="debut" DisplayName="Start" iconFile="Img\PuzzleDebut.png" iconSize="1.5"/>
+		</MarkerCategory>
+	</MarkerCategory>
+
+	<POIs>
+
+		<!-- Début -->
+		<POI MapID="1045" xpos="-495.84" ypos="-122.46" zpos="-133.95" type="heart_of_thorns.profondeurs_verdoyantes.danseur_disco_discret.debut" GUID="8UG7+dgflUG6ZIPWQTC6JA=="/>
+
+		<!-- Route -->
+		<Route MapID="1045" name="Acces" resetposx="-495.84" resetposy="-122.46" resetposz="-133.95" resetrange="2">
+			<POI MapID="1045" xpos="-495.83" ypos="-110" zpos="-133.95" type="heart_of_thorns.profondeurs_verdoyantes.danseur_disco_discret" GUID="GLPY2B8kKEOYHH44YsPyuQ==" triggerRange="10"/>
+			<POI MapID="1045" xpos="-495.83" ypos="-100" zpos="-133.95" type="heart_of_thorns.profondeurs_verdoyantes.danseur_disco_discret" GUID="gX++iXypekmIk5cFTRQMQw==" triggerRange="10"/>
+			<POI MapID="1045" xpos="-495.83" ypos="-90" zpos="-133.95" type="heart_of_thorns.profondeurs_verdoyantes.danseur_disco_discret" GUID="kKTpweMB902e29YBLP7Dqw==" triggerRange="10"/>
+			<POI MapID="1045" xpos="-495.83" ypos="-80" zpos="-133.95" type="heart_of_thorns.profondeurs_verdoyantes.danseur_disco_discret" GUID="9WJXoRTKvkazlK0siHW62Q==" triggerRange="10"/>
+			<POI MapID="1045" xpos="-495.83" ypos="-70" zpos="-133.95" type="heart_of_thorns.profondeurs_verdoyantes.danseur_disco_discret" GUID="UvfTRmxkI0mnoTXCvkLL0w==" triggerRange="10"/>
+			<POI MapID="1045" xpos="-495.83" ypos="-65" zpos="-133.95" type="heart_of_thorns.profondeurs_verdoyantes.danseur_disco_discret" GUID="2BE5qkJsPkmXF5sRSlrGmQ==" triggerRange="10"/>
+			<POI MapID="1045" xpos="-495.83" ypos="-50" zpos="-133.95" type="heart_of_thorns.profondeurs_verdoyantes.danseur_disco_discret" GUID="+rtX2SRckEmy4LGbV526zg==" triggerRange="10"/>
+			<POI MapID="1045" xpos="-495.83" ypos="-40" zpos="-133.95" type="heart_of_thorns.profondeurs_verdoyantes.danseur_disco_discret" GUID="yaZVjmuBzkahWzyzB6zcoQ==" triggerRange="10"/>
+			<POI MapID="1045" xpos="-495.83" ypos="-30" zpos="-133.95" type="heart_of_thorns.profondeurs_verdoyantes.danseur_disco_discret" GUID="JY2mFyYlyU+CZ3Uej79L4g==" triggerRange="10"/>
+			<POI MapID="1045" xpos="-495.83" ypos="-20" zpos="-133.95" type="heart_of_thorns.profondeurs_verdoyantes.danseur_disco_discret" GUID="sQZ+0cQomkamOM/utKicQQ==" triggerRange="10"/>
+			<POI MapID="1045" xpos="-495.83" ypos="-10" zpos="-133.95" type="heart_of_thorns.profondeurs_verdoyantes.danseur_disco_discret" GUID="RcgAXnUzIkWgPPV36Bz72Q==" triggerRange="10"/>
+			<POI MapID="1045" xpos="-495.83" ypos="0" zpos="-133.955" type="heart_of_thorns.profondeurs_verdoyantes.danseur_disco_discret" GUID="WjG1FXJRWE6z42axv6MfEw==" triggerRange="10"/>
+			<POI MapID="1045" xpos="-495.969" ypos="-1.15693" zpos="-134.158" type="heart_of_thorns.profondeurs_verdoyantes.danseur_disco_discret" GUID="Ete7ziRP9kCNcJVjuI1CXw=="/>
+			<POI MapID="1045" xpos="-500.51" ypos="0.1" zpos="-138.6" type="heart_of_thorns.profondeurs_verdoyantes.danseur_disco_discret" GUID="0hb6sJmPhUyXK7ysrVjckQ=="/>
+		</Route>
+		<Route MapID="1045" name="Parcours" resetposx="-500.51" resetposy="0.1" resetposz="-138.6" resetrange="2">
+			<POI MapID="1045" xpos="-507.59" ypos="1.54835" zpos="-139.815" type="heart_of_thorns.profondeurs_verdoyantes.danseur_disco_discret" GUID="eiqIHx9ejEGs33pg2gDBRw=="/>
+			<POI MapID="1045" xpos="-512.466" ypos="4.41562" zpos="-139.917" type="heart_of_thorns.profondeurs_verdoyantes.danseur_disco_discret" GUID="cF6E6aSDnECLSiiLE3Vgag=="/>
+			<POI MapID="1045" xpos="-515.167" ypos="5.89615" zpos="-136.439" type="heart_of_thorns.profondeurs_verdoyantes.danseur_disco_discret" GUID="fgT0Slw2x0GEzR5hIB6xZQ=="/>
+			<POI MapID="1045" xpos="-513.053" ypos="5.21698" zpos="-131.143" type="heart_of_thorns.profondeurs_verdoyantes.danseur_disco_discret" GUID="ypRQiTCEKE6N151jBUGnaw=="/>
+			<POI MapID="1045" xpos="-511.532" ypos="7.297" zpos="-127.831" type="heart_of_thorns.profondeurs_verdoyantes.danseur_disco_discret" GUID="q6EU3g2ZDU2RyBLcVBxkXg=="/>
+			<POI MapID="1045" xpos="-505.383" ypos="9.46426" zpos="-126.025" type="heart_of_thorns.profondeurs_verdoyantes.danseur_disco_discret" GUID="WOQcstDsMkyhIGVm3G6eLA=="/>
+			<POI MapID="1045" xpos="-500.215" ypos="11.8075" zpos="-126.787" type="heart_of_thorns.profondeurs_verdoyantes.danseur_disco_discret" GUID="G1QO9IptgEytqsWUIjEaaA=="/>
+			<POI MapID="1045" xpos="-496.583" ypos="15.3609" zpos="-126.872" type="heart_of_thorns.profondeurs_verdoyantes.danseur_disco_discret" GUID="hH6I4PlMPkGLJNYXxMCcKg=="/>
+			<POI MapID="1045" xpos="-493.361" ypos="18.2946" zpos="-124.175" type="heart_of_thorns.profondeurs_verdoyantes.danseur_disco_discret" GUID="P/p3h3TRxECXGsIaOwPk4w=="/>
+			<POI MapID="1045" xpos="-489.168" ypos="21.023" zpos="-122.161" type="heart_of_thorns.profondeurs_verdoyantes.danseur_disco_discret" GUID="QcdsYw8RREWO1qFAOdtyNQ=="/>
+			<POI MapID="1045" xpos="-484.894" ypos="23.6484" zpos="-124.532" type="heart_of_thorns.profondeurs_verdoyantes.danseur_disco_discret" GUID="GP5KWtb6KkOAUfYE3bTZCQ=="/>
+			<POI MapID="1045" xpos="-478.75" ypos="24.4506" zpos="-125.794" type="heart_of_thorns.profondeurs_verdoyantes.danseur_disco_discret" GUID="TzbbbJ3jYEC3cz4Sgnhzbg=="/>
+			<POI MapID="1045" xpos="-474.796" ypos="23.6846" zpos="-129.939" type="heart_of_thorns.profondeurs_verdoyantes.danseur_disco_discret" GUID="K+QWwlMq8UWaURwREeZfMg=="/>
+			<POI MapID="1045" xpos="-474.851" ypos="24.55" zpos="-136.907" type="heart_of_thorns.profondeurs_verdoyantes.danseur_disco_discret" GUID="PmYatFbka0amNS+dGQ9bag=="/>
+			<POI MapID="1045" xpos="-470.729" ypos="19.9001" zpos="-148.791" type="heart_of_thorns.profondeurs_verdoyantes.danseur_disco_discret" GUID="Wgkv0DFu2UOQjS9UcgBxZw==" triggerRange="5"/>
+			<POI MapID="1045" xpos="-468.471" ypos="22.8303" zpos="-153.601" type="heart_of_thorns.profondeurs_verdoyantes.danseur_disco_discret" GUID="CgUuqLRIXEGPHkCukstMgw=="/>
+			<POI MapID="1045" xpos="-463.09" ypos="23.6998" zpos="-152" type="heart_of_thorns.profondeurs_verdoyantes.danseur_disco_discret" GUID="dcghnlOXu02nTLHXpA4t0A=="/>
+			<POI MapID="1045" xpos="-453.908" ypos="20.8147" zpos="-151.468" type="heart_of_thorns.profondeurs_verdoyantes.danseur_disco_discret" GUID="t+dJqwg2bUuTFH496HWfFQ=="/>
+			<POI MapID="1045" xpos="-450.534" ypos="22.2738" zpos="-149.752" type="heart_of_thorns.profondeurs_verdoyantes.danseur_disco_discret" GUID="Y0nYKsuyjEeDqQuq1fJw3w=="/>
+			<POI MapID="1045" xpos="-444.612" ypos="24.4664" zpos="-148.079" type="heart_of_thorns.profondeurs_verdoyantes.danseur_disco_discret" GUID="ayrvs8nw2EuMVdptD+U6zg=="/>
+			<POI MapID="1045" xpos="-441.027" ypos="23.7152" zpos="-152.638" type="heart_of_thorns.profondeurs_verdoyantes.danseur_disco_discret" GUID="+Nu3H+lAH0ao7qW8Z/SreA=="/>
+			<POI MapID="1045" xpos="-440.625" ypos="23.8024" zpos="-158.881" type="heart_of_thorns.profondeurs_verdoyantes.danseur_disco_discret" GUID="nGRhLke6dUSedcEEhb0IKw=="/>
+			<POI MapID="1045" xpos="-438.834" ypos="23.6096" zpos="-167.288" type="heart_of_thorns.profondeurs_verdoyantes.danseur_disco_discret" GUID="uPHlcCyRLk6HJNB1GQRWfg=="/>
+			<POI MapID="1045" xpos="-434.849" ypos="20.505" zpos="-173.62" type="heart_of_thorns.profondeurs_verdoyantes.danseur_disco_discret" GUID="/FaQtMZPS0aaKNtxsBOchg=="/>
+			<POI MapID="1045" xpos="-432.074" ypos="22.7121" zpos="-176.66" type="heart_of_thorns.profondeurs_verdoyantes.danseur_disco_discret" GUID="2vVUhGsWIkW3g1ze02mRUw=="/>
+			<POI MapID="1045" xpos="-429.396" ypos="24.771" zpos="-179.273" type="heart_of_thorns.profondeurs_verdoyantes.danseur_disco_discret" GUID="oMo98ZOTckCyiNP+kU6w8w=="/>
+			<POI MapID="1045" xpos="-427.892" ypos="26.0444" zpos="-176.26" type="heart_of_thorns.profondeurs_verdoyantes.danseur_disco_discret" GUID="fIbwDfUmY0K/POEXDPotFQ=="/>
+			<POI MapID="1045" xpos="-411.424" ypos="22.213" zpos="-168.215" type="heart_of_thorns.profondeurs_verdoyantes.danseur_disco_discret" GUID="c2H8wUDTgkqrES4HfoF2bA=="/>
+			<POI MapID="1045" xpos="-404.74" ypos="21.3153" zpos="-165.816" type="heart_of_thorns.profondeurs_verdoyantes.danseur_disco_discret" GUID="7ymalkWWsU+W1o0QX28HRw=="/>
+			<POI MapID="1045" xpos="-398.261" ypos="21.2739" zpos="-163.976" type="heart_of_thorns.profondeurs_verdoyantes.danseur_disco_discret" GUID="98uTohwYg0yCMOhwTii/Jw=="/>
+			<POI MapID="1045" xpos="-392.527" ypos="21.4502" zpos="-165.155" type="heart_of_thorns.profondeurs_verdoyantes.danseur_disco_discret" GUID="kp69nF9nsE6p17MuAbd7Hg=="/>
+			<POI MapID="1045" xpos="-387.215" ypos="24.3311" zpos="-165.11" type="heart_of_thorns.profondeurs_verdoyantes.danseur_disco_discret" GUID="D8fZOh/EIkWf/hqotHEzsw=="/>
+			<POI MapID="1045" xpos="-382.383" ypos="25.8122" zpos="-169.173" type="heart_of_thorns.profondeurs_verdoyantes.danseur_disco_discret" GUID="BdUWI/AAj0uQ1BYlMvLtaQ=="/>
+			<POI MapID="1045" xpos="-379.981" ypos="25.5641" zpos="-173.663" type="heart_of_thorns.profondeurs_verdoyantes.danseur_disco_discret" GUID="mEuEoFLW40Gn0JuHUIDyDQ=="/>
+			<POI MapID="1045" xpos="-373.707" ypos="26.5128" zpos="-177.335" type="heart_of_thorns.profondeurs_verdoyantes.danseur_disco_discret" GUID="bh4i3Pm2vECQuMkYXmEubw=="/>
+			<POI MapID="1045" xpos="-359.852" ypos="20.4998" zpos="-194.173" type="heart_of_thorns.profondeurs_verdoyantes.danseur_disco_discret" GUID="7NeGKDIQ20+erIfRU9nNUw==" triggerRange="5"/>
+			<POI MapID="1045" xpos="-356.564" ypos="21.3404" zpos="-192.322" type="heart_of_thorns.profondeurs_verdoyantes.danseur_disco_discret" GUID="S3wHhg0MoEmVwmx1yCl8UA=="/>
+			<POI MapID="1045" xpos="-352.858" ypos="24.394" zpos="-191.738" type="heart_of_thorns.profondeurs_verdoyantes.danseur_disco_discret" GUID="qCL/S3loWk2txKXTgXlGKw=="/>
+			<POI MapID="1045" xpos="-346.785" ypos="25.0623" zpos="-191.541" type="heart_of_thorns.profondeurs_verdoyantes.danseur_disco_discret" GUID="2lBGfkaLDEawnRk+rOrX/A=="/>
+			<POI MapID="1045" xpos="-338.835" ypos="20.6327" zpos="-188.672" type="heart_of_thorns.profondeurs_verdoyantes.danseur_disco_discret" GUID="TwtlqHr7ZEKwVGWW/haDkg=="/>
+			<POI MapID="1045" xpos="-333.068" ypos="22.1309" zpos="-189.084" type="heart_of_thorns.profondeurs_verdoyantes.danseur_disco_discret" GUID="+d6h+8I0W02cTo2kCQsf8w=="/>
+			<POI MapID="1045" xpos="-328.636" ypos="24.2877" zpos="-192.236" type="heart_of_thorns.profondeurs_verdoyantes.danseur_disco_discret" GUID="PKzlNfcL402C5n2v5Pt2fQ==" triggerRange="5"/>
+			<POI MapID="1045" xpos="-324.101" ypos="26.0626" zpos="-191.89" type="heart_of_thorns.profondeurs_verdoyantes.danseur_disco_discret" GUID="kHy/U3GqiEKvPXoIZiQHWQ=="/>
+			<POI MapID="1045" xpos="-321.909" ypos="29.5075" zpos="-195.451" type="heart_of_thorns.profondeurs_verdoyantes.danseur_disco_discret" GUID="GiijoDmsHE2DFZ45Ph+1Zw=="/>
+			<POI MapID="1045" xpos="-322.243" ypos="26.9915" zpos="-199.094" type="heart_of_thorns.profondeurs_verdoyantes.danseur_disco_discret" GUID="VWncPeNEUkKR0ytbXK5Lbw=="/>
+			<POI MapID="1045" xpos="-322.588" ypos="27.2929" zpos="-204.536" type="heart_of_thorns.profondeurs_verdoyantes.danseur_disco_discret" GUID="SoLv1wpBgkuUvM66v1TlIg=="/>
+			<POI MapID="1045" xpos="-305.639" ypos="16.5548" zpos="-219.766" type="heart_of_thorns.profondeurs_verdoyantes.danseur_disco_discret" GUID="w1Y1eFEDFUaJWngJALbV+Q=="/>
+			<POI MapID="1045" xpos="-300.245" ypos="17.909" zpos="-218.882" type="heart_of_thorns.profondeurs_verdoyantes.danseur_disco_discret" GUID="+WS3axzE20adnsVy8sKApQ==" triggerRange="5"/>
+			<POI MapID="1045" xpos="-295.779" ypos="14.6978" zpos="-224.368" type="heart_of_thorns.profondeurs_verdoyantes.danseur_disco_discret" GUID="/nDZUPpi/k+JYRhYIu7lxQ=="/>
+			<POI MapID="1045" xpos="-293.768" ypos="17.1791" zpos="-227.852" type="heart_of_thorns.profondeurs_verdoyantes.danseur_disco_discret" GUID="PHbAJ4MQt0qmQbJ3sHVNrg=="/>
+			<POI MapID="1045" xpos="-288.978" ypos="19.0418" zpos="-226.275" type="heart_of_thorns.profondeurs_verdoyantes.danseur_disco_discret" GUID="JbRfc/bvRUKipGWzCat/IA=="/>
+			<POI MapID="1045" xpos="-283.232" ypos="20.8574" zpos="-229.531" type="heart_of_thorns.profondeurs_verdoyantes.danseur_disco_discret" GUID="sP9llYXTO022cDsldMcCVg=="/>
+			<POI MapID="1045" xpos="-273.492" ypos="18.1398" zpos="-230.9" type="heart_of_thorns.profondeurs_verdoyantes.danseur_disco_discret" GUID="L8j40FUzmUupI8tqAPK0VQ=="/>
+			<POI MapID="1045" xpos="-267.563" ypos="18.8545" zpos="-229.146" type="heart_of_thorns.profondeurs_verdoyantes.danseur_disco_discret" GUID="/F5Btr5+UUueyExGYuqVRQ=="/>
+			<POI MapID="1045" xpos="-260.904" ypos="23.1417" zpos="-230.263" type="heart_of_thorns.profondeurs_verdoyantes.danseur_disco_discret" GUID="h4hMIfLVZUC5zVnSqKtl7w=="/>
+			<POI MapID="1045" xpos="-258.114" ypos="21.7021" zpos="-236.864" type="heart_of_thorns.profondeurs_verdoyantes.danseur_disco_discret" GUID="JDH28pil4ECEfE9rJE6InA=="/>
+			<POI MapID="1045" xpos="-260.789" ypos="22.7099" zpos="-241.971" type="heart_of_thorns.profondeurs_verdoyantes.danseur_disco_discret" GUID="LfFHNpsHmEK/r420482OSw=="/>
+			<POI MapID="1045" xpos="-267.413" ypos="22.9104" zpos="-241.995" type="heart_of_thorns.profondeurs_verdoyantes.danseur_disco_discret" GUID="6JPbfOZkFkKEqTsSQCABHQ=="/>
+		</Route>
+		<Route MapID="1045" name="Arbres" resetposx="-271.84" resetposy="20.9" resetposz="-240.15" resetrange="0.5">
+			<POI MapID="1045" xpos="-266.3" ypos="25.69" zpos="-237.53" type="heart_of_thorns.profondeurs_verdoyantes.danseur_disco_discret" GUID="HGcWaLcq1UO9nYgdp5tNSA=="/>
+			<POI MapID="1045" xpos="-268.143" ypos="23.3413" zpos="-238.208" type="heart_of_thorns.profondeurs_verdoyantes.danseur_disco_discret" GUID="dSxyui0EkEyclNUD4+PfJg=="/>
+			<POI MapID="1045" xpos="-264.333" ypos="26.8202" zpos="-236.944" type="heart_of_thorns.profondeurs_verdoyantes.danseur_disco_discret" GUID="icbUV5TJW0mYUQGvmzVKXA=="/>
+			<POI MapID="1045" xpos="-260.245" ypos="29.3013" zpos="-235.578" type="heart_of_thorns.profondeurs_verdoyantes.danseur_disco_discret" GUID="goe5CChz6Ui4O//nW/6Oug=="/>
+			<POI MapID="1045" xpos="-257.659" ypos="31.4934" zpos="-233.547" type="heart_of_thorns.profondeurs_verdoyantes.danseur_disco_discret" GUID="5fXpdiJxi0CQZ4+O/Dzv6g=="/>
+			<POI MapID="1045" xpos="-253.51" ypos="32.7546" zpos="-235.581" type="heart_of_thorns.profondeurs_verdoyantes.danseur_disco_discret" GUID="7zy/u1wKgUGY6e7/14dm+g=="/>
+			<POI MapID="1045" xpos="-254.195" ypos="35.2606" zpos="-239.027" type="heart_of_thorns.profondeurs_verdoyantes.danseur_disco_discret" GUID="7wa1bD22XUKeUYH6hTmPTQ=="/>
+			<POI MapID="1045" xpos="-256.73" ypos="37.5681" zpos="-243.01" type="heart_of_thorns.profondeurs_verdoyantes.danseur_disco_discret" GUID="6xnE/XjAJEG+7F4JJsmRCA=="/>
+			<POI MapID="1045" xpos="-259.504" ypos="40.8199" zpos="-245.703" type="heart_of_thorns.profondeurs_verdoyantes.danseur_disco_discret" GUID="zASBJVO79kGZvWksXoWi+A=="/>
+			<POI MapID="1045" xpos="-263.722" ypos="45.6419" zpos="-248.594" type="heart_of_thorns.profondeurs_verdoyantes.danseur_disco_discret" GUID="DBM7W0Qsl0OiN/kupr3ZBw=="/>
+			<POI MapID="1045" xpos="-255.872" ypos="43.8229" zpos="-251.28" type="heart_of_thorns.profondeurs_verdoyantes.danseur_disco_discret" GUID="15GeNH0tK0GvteZOnqhVVw=="/>
+			<POI MapID="1045" xpos="-253.117" ypos="44.6844" zpos="-248.518" type="heart_of_thorns.profondeurs_verdoyantes.danseur_disco_discret" GUID="NhNyoGnQaE2xy1wuIJeJAA=="/>
+			<POI MapID="1045" xpos="-251.363" ypos="46.7661" zpos="-244.528" type="heart_of_thorns.profondeurs_verdoyantes.danseur_disco_discret" GUID="+e+ywX879E6hRD1DidYegA=="/>
+			<POI MapID="1045" xpos="-249.269" ypos="49.5169" zpos="-239.943" type="heart_of_thorns.profondeurs_verdoyantes.danseur_disco_discret" GUID="BcYzgKFNhUCXM9oj/KRxNA=="/>
+			<POI MapID="1045" xpos="-246.656" ypos="52.7093" zpos="-238.157" type="heart_of_thorns.profondeurs_verdoyantes.danseur_disco_discret" GUID="BJ02z3A2LE6V5XzVNUzJTw=="/>
+			<POI MapID="1045" xpos="-244.053" ypos="55.8972" zpos="-235.593" type="heart_of_thorns.profondeurs_verdoyantes.danseur_disco_discret" GUID="c/MwCozqaUyOZBJd/T/igw=="/>
+			<POI MapID="1045" xpos="-246.301" ypos="53.1613" zpos="-242.246" type="heart_of_thorns.profondeurs_verdoyantes.danseur_disco_discret" GUID="Jo8JNbzxake3nJCrjs+5+Q=="/>
+			<POI MapID="1045" xpos="-250.894" ypos="53.472" zpos="-244.231" type="heart_of_thorns.profondeurs_verdoyantes.danseur_disco_discret" GUID="NyS+rPVRE0SeJzMSk265dQ=="/>
+			<POI MapID="1045" xpos="-254.92" ypos="55.2023" zpos="-243.733" type="heart_of_thorns.profondeurs_verdoyantes.danseur_disco_discret" GUID="WQMv3GU/rEO7LsbLrgIsOw=="/>
+			<POI MapID="1045" xpos="-258.307" ypos="57.7614" zpos="-246.082" type="heart_of_thorns.profondeurs_verdoyantes.danseur_disco_discret" GUID="AbsEqW3CAUy7dJ6t85blKA=="/>
+			<POI MapID="1045" xpos="-259.942" ypos="60.8811" zpos="-250.686" type="heart_of_thorns.profondeurs_verdoyantes.danseur_disco_discret" GUID="zmk0oo7/RE+Pb664S3Q/tg=="/>
+			<POI MapID="1045" xpos="-260.228" ypos="60.4284" zpos="-246.46" type="heart_of_thorns.profondeurs_verdoyantes.danseur_disco_discret" GUID="s3rdL85MwEeuMBihuXASDA=="/>
+			<POI MapID="1045" xpos="-257.835" ypos="60.3227" zpos="-244.122" type="heart_of_thorns.profondeurs_verdoyantes.danseur_disco_discret" GUID="MB7EpsL0XkigRmfxj1zZwA=="/>
+			<POI MapID="1045" xpos="-257.508" ypos="62.8942" zpos="-242.147" type="heart_of_thorns.profondeurs_verdoyantes.danseur_disco_discret" GUID="hd5fWgRfwE6yBtKRvNcSEw=="/>
+			<POI MapID="1045" xpos="-259.75" ypos="63.9034" zpos="-244.472" type="heart_of_thorns.profondeurs_verdoyantes.danseur_disco_discret" GUID="d/MkrxKxY0m24exVsp4FAA=="/>
+			<POI MapID="1045" xpos="-259.889" ypos="66.5911" zpos="-247.208" type="heart_of_thorns.profondeurs_verdoyantes.danseur_disco_discret" GUID="9JMOpFyG/06xc89i3e5Jvw=="/>
+			<POI MapID="1045" xpos="-259.642" ypos="67.7751" zpos="-250.945" type="heart_of_thorns.profondeurs_verdoyantes.danseur_disco_discret" GUID="FBRdbm/47UyMov56WYqd/w=="/>
+			<POI MapID="1045" xpos="-253.883" ypos="69.6296" zpos="-247.109" type="heart_of_thorns.profondeurs_verdoyantes.danseur_disco_discret" GUID="rcCNOUFZsEOKmzg2Wc2Xhw=="/>
+			<POI MapID="1045" xpos="-252.131" ypos="68.3487" zpos="-251.225" type="heart_of_thorns.profondeurs_verdoyantes.danseur_disco_discret" GUID="h0e1zGmTJkev0wqHHwSivA=="/>
+			<POI MapID="1045" xpos="-255.59" ypos="70.8412" zpos="-253.878" type="heart_of_thorns.profondeurs_verdoyantes.danseur_disco_discret" GUID="4ZKq3BDYukCekO0AaB4wwQ=="/>
+			<POI MapID="1045" xpos="-254.484" ypos="72.3379" zpos="-257.625" type="heart_of_thorns.profondeurs_verdoyantes.danseur_disco_discret" GUID="i3oBFUWEbEaOT2acVVmggg=="/>
+			<POI MapID="1045" xpos="-250.017" ypos="71.1778" zpos="-256.54" type="heart_of_thorns.profondeurs_verdoyantes.danseur_disco_discret" GUID="3n8p1ORJLEy/9vDxbY34WQ=="/>
+			<POI MapID="1045" xpos="-245.753" ypos="71.0555" zpos="-252.777" type="heart_of_thorns.profondeurs_verdoyantes.danseur_disco_discret" GUID="WcxYuSLaaUOsGoBt88kH4w=="/>
+			<POI MapID="1045" xpos="-242.971" ypos="73.1636" zpos="-249.46" type="heart_of_thorns.profondeurs_verdoyantes.danseur_disco_discret" GUID="NW3aF+LrAkiLFvnymLZaBA=="/>
+			<POI MapID="1045" xpos="-240.272" ypos="74.9346" zpos="-246.516" type="heart_of_thorns.profondeurs_verdoyantes.danseur_disco_discret" GUID="CWlicnT1UkeaQbSR5hasZg=="/>
+			<POI MapID="1045" xpos="-240.123" ypos="76.8248" zpos="-249.52" type="heart_of_thorns.profondeurs_verdoyantes.danseur_disco_discret" GUID="3o/fKtSoWUSQzSZC0CBixA=="/>
+			<POI MapID="1045" xpos="-244.483" ypos="78.8349" zpos="-250.448" type="heart_of_thorns.profondeurs_verdoyantes.danseur_disco_discret" GUID="jtBp8/23AECAVXIEADdSaA=="/>
+			<POI MapID="1045" xpos="-250.019" ypos="81.6167" zpos="-250.534" type="heart_of_thorns.profondeurs_verdoyantes.danseur_disco_discret" GUID="3T/wMra9nEq3T4Oga2++tA=="/>
+			<POI MapID="1045" xpos="-253.236" ypos="84.0069" zpos="-249.348" type="heart_of_thorns.profondeurs_verdoyantes.danseur_disco_discret" GUID="elX33nUObEOK479GzxjC6g=="/>
+			<POI MapID="1045" xpos="-251.669" ypos="83.5392" zpos="-246.181" type="heart_of_thorns.profondeurs_verdoyantes.danseur_disco_discret" GUID="0BcOOezC3kelM+zDLDCFew=="/>
+			<POI MapID="1045" xpos="-246.768" ypos="85.7405" zpos="-247.096" type="heart_of_thorns.profondeurs_verdoyantes.danseur_disco_discret" GUID="90cQuob3VUKasjNJsoJA0Q=="/>
+			<POI MapID="1045" xpos="-243.038" ypos="88.7568" zpos="-248.587" type="heart_of_thorns.profondeurs_verdoyantes.danseur_disco_discret" GUID="tzY4CPcW6kyIvCRuto4WRg=="/>
+			<POI MapID="1045" xpos="-238.799" ypos="92.5696" zpos="-247.176" type="heart_of_thorns.profondeurs_verdoyantes.danseur_disco_discret" GUID="kv2sahvYGUmE6s51nx3aGQ=="/>
+			<POI MapID="1045" xpos="-245.468" ypos="92.5333" zpos="-244.786" type="heart_of_thorns.profondeurs_verdoyantes.danseur_disco_discret" GUID="A4mI3XoVOEqGx5D7n1ymlg==" triggerRange="5"/>
+			<POI MapID="1045" xpos="-247.42" ypos="94.9747" zpos="-249.563" type="heart_of_thorns.profondeurs_verdoyantes.danseur_disco_discret" GUID="AAjP8EoIBUizIF+QHCIPuA=="/>
+			<POI MapID="1045" xpos="-247.872" ypos="97.6491" zpos="-253.816" type="heart_of_thorns.profondeurs_verdoyantes.danseur_disco_discret" GUID="jFTBd/k52kO1pKbCyYPZhw=="/>
+			<POI MapID="1045" xpos="-246.253" ypos="99.5782" zpos="-257.927" type="heart_of_thorns.profondeurs_verdoyantes.danseur_disco_discret" GUID="x7BByeg36keINkUNFVttBA=="/>
+			<POI MapID="1045" xpos="-240.659" ypos="102.076" zpos="-261.171" type="heart_of_thorns.profondeurs_verdoyantes.danseur_disco_discret" GUID="CmX0OzFPyEmnItDai8W0KA=="/>
+			<POI MapID="1045" xpos="-251.699" ypos="100.349" zpos="-255.944" type="heart_of_thorns.profondeurs_verdoyantes.danseur_disco_discret" GUID="h2HMPJRRu0+8AIPgdePSkg=="/>
+			<POI MapID="1045" xpos="-258.691" ypos="101.8" zpos="-253.976" type="heart_of_thorns.profondeurs_verdoyantes.danseur_disco_discret" GUID="+uRgevVBEUubMXDyaclDWg=="/>
+			<POI MapID="1045" xpos="-263.832" ypos="101.942" zpos="-250.348" type="heart_of_thorns.profondeurs_verdoyantes.danseur_disco_discret" GUID="FF49dH4znUKOlQsoXBhMtQ=="/>
+			<POI MapID="1045" xpos="-270.709" ypos="108.023" zpos="-246.362" type="heart_of_thorns.profondeurs_verdoyantes.danseur_disco_discret" GUID="J7hd7a4MfE6G5FDgxGYZUw=="/>
+			<POI MapID="1045" xpos="-274.609" ypos="108.749" zpos="-235.221" type="heart_of_thorns.profondeurs_verdoyantes.danseur_disco_discret" GUID="BOErZF3AKU2cGxx4J5i5zw=="/>
+			<POI MapID="1045" xpos="-280.361" ypos="108.5" zpos="-231.595" type="heart_of_thorns.profondeurs_verdoyantes.danseur_disco_discret" GUID="XzM9djm8Nk6wyGC4LCNi+Q=="/>
+			<POI MapID="1045" xpos="-286.888" ypos="108.543" zpos="-226.038" type="heart_of_thorns.profondeurs_verdoyantes.danseur_disco_discret" GUID="7Yz22mcvYEu4fRig652lkA=="/>
+			<POI MapID="1045" xpos="-292.537" ypos="108.327" zpos="-221.152" type="heart_of_thorns.profondeurs_verdoyantes.danseur_disco_discret" GUID="zv1UY7iCq0iTa+gp1SFLQQ=="/>
+			<POI MapID="1045" xpos="-299.336" ypos="104.866" zpos="-215.258" type="heart_of_thorns.profondeurs_verdoyantes.danseur_disco_discret" GUID="D7SwdRZ7NUeFpxBPzh9FWw=="/>
+			<POI MapID="1045" xpos="-305.259" ypos="104.432" zpos="-210.718" type="heart_of_thorns.profondeurs_verdoyantes.danseur_disco_discret" GUID="7d12vuH35kWFwN2s8xrURg=="/>
+			<POI MapID="1045" xpos="-310.879" ypos="104.432" zpos="-206.389" type="heart_of_thorns.profondeurs_verdoyantes.danseur_disco_discret" GUID="adX0cTxiX0y/NNO7vp5cuw=="/>
+		</Route>
+
+		<!-- Golem -->
+		<POI MapID="1045" xpos="-267.364" ypos="108.394" zpos="-237.818" type="heart_of_thorns.profondeurs_verdoyantes.danseur_disco_discret" GUID="hQ8vQN4eT0Wq6o5txe8+xg==" iconFile="Img\DanseurDiscoDiscretGolem-EN.png" iconSize="1" heightOffset="3"/>
+
+		<!-- Danse -->
+		<POI MapID="1045" xpos="-315.83" ypos="104.43" zpos="-202.42" type="heart_of_thorns.profondeurs_verdoyantes.danseur_disco_discret" GUID="ubwJtmdea0CYgXr7og6zOg==" iconFile="Img\DanseurDiscoDiscret-EN.png" iconSize="1" heightOffset="3"/>
+
+	</POIs>
+</OverlayData>

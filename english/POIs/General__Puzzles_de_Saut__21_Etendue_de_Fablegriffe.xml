@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+POIs: Cloud Strife.7492 - Xenophy.2716 - ReActif.9251
+Date: 2017/08/23
+-->
+<OverlayData>
+	<MarkerCategory name="general" DisplayName="General">
+		<MarkerCategory name="puzzles_de_saut" DisplayName="Jumping Puzzles" iconFile="Img\Guide.png" iconSize="0.75">
+			<MarkerCategory name="etendue_de_fablegriffe" DisplayName="Loreclaw Expanse"/>
+		</MarkerCategory>
+	</MarkerCategory>
+
+	<POIs>
+
+		<!-- Début -->
+		<POI MapID="19" xpos="809.55" ypos="9.11" zpos="-510.63" type="general.puzzles_de_saut.debut" GUID="2zuR02SBi0aZTgB4/X7E1w=="/>
+
+		<!-- Route -->
+		<Route MapID="19" name="Etendue_de_Fablegriffe" resetposx="809.55" resetposy="9.11" resetposz="-510.63" resetrange="2">
+			<POI MapID="19" xpos="808.664" ypos="15.6989" zpos="-519.154" type="general.puzzles_de_saut.etendue_de_fablegriffe" GUID="QFRlhWgbnUiNJ7nyDpwxbA=="/>
+			<POI MapID="19" xpos="807.792" ypos="20.8605" zpos="-525.023" type="general.puzzles_de_saut.etendue_de_fablegriffe" GUID="aRUVTZ9HV0aCOnvpuGO15A=="/>
+			<POI MapID="19" xpos="801.984" ypos="25.7578" zpos="-531.897" type="general.puzzles_de_saut.etendue_de_fablegriffe" GUID="gPFK77rCX0yTirm1sAi2+Q=="/>
+			<POI MapID="19" xpos="799.357" ypos="30.625" zpos="-539.617" type="general.puzzles_de_saut.etendue_de_fablegriffe" GUID="7rMBpAim/ESGAT1RPouuVQ=="/>
+			<POI MapID="19" xpos="797.051" ypos="34.0307" zpos="-551.795" type="general.puzzles_de_saut.etendue_de_fablegriffe" GUID="xNrLysP/1EaxmcREWyUi2w=="/>
+			<POI MapID="19" xpos="800.376" ypos="36.049" zpos="-564.681" type="general.puzzles_de_saut.etendue_de_fablegriffe" GUID="h1dJrkssYU+aDjSAJ8Onnw=="/>
+			<POI MapID="19" xpos="804.23" ypos="36.62" zpos="-573.47" type="general.puzzles_de_saut.etendue_de_fablegriffe" GUID="un+jBq6QJU2yLrq6bnw1RA=="/>
+			<POI MapID="19" xpos="816.707" ypos="36.7225" zpos="-576.604" type="general.puzzles_de_saut.etendue_de_fablegriffe" GUID="2EutuEVSskKf4gjBkpJNhw=="/>
+			<POI MapID="19" xpos="825.517" ypos="36.4017" zpos="-573.599" type="general.puzzles_de_saut.etendue_de_fablegriffe" GUID="ariLwjcADUWVgLQ39t5Wog=="/>
+			<POI MapID="19" xpos="832.888" ypos="33.3204" zpos="-574.774" type="general.puzzles_de_saut.etendue_de_fablegriffe" GUID="jQo3owo1r0ey6ZqMQvIzSg=="/>
+			<POI MapID="19" xpos="834.633" ypos="31.6488" zpos="-567.597" type="general.puzzles_de_saut.etendue_de_fablegriffe" GUID="TSgszV6k7E6OPi1SDIE4Dg=="/>
+			<POI MapID="19" xpos="840.451" ypos="31.034" zpos="-570.288" type="general.puzzles_de_saut.etendue_de_fablegriffe" GUID="4lmLfKh5zEq4cfzGv8CjwQ=="/>
+			<POI MapID="19" xpos="851.671" ypos="29.6258" zpos="-574.95" type="general.puzzles_de_saut.etendue_de_fablegriffe" GUID="d3VP9lwVsEC4L9TL8WWWgA=="/>
+			<POI MapID="19" xpos="850.765" ypos="29.4311" zpos="-580.138" type="general.puzzles_de_saut.etendue_de_fablegriffe" GUID="ZdOTqbQvWkSK8BfO1QbRaw=="/>
+			<POI MapID="19" xpos="853.657" ypos="27.5738" zpos="-582.272" type="general.puzzles_de_saut.etendue_de_fablegriffe" GUID="3jtmFdYubkeFVOFfvD64FA=="/>
+			<POI MapID="19" xpos="852.103" ypos="25.0025" zpos="-587.487" type="general.puzzles_de_saut.etendue_de_fablegriffe" GUID="BW6vAEJC8kGIHqpLFr2+6w=="/>
+			<POI MapID="19" xpos="846.138" ypos="16.4172" zpos="-594.413" type="general.puzzles_de_saut.etendue_de_fablegriffe" GUID="WFeRuN/n0E2DfkwmoWG0iA=="/>
+			<POI MapID="19" xpos="843.652" ypos="17.4333" zpos="-604.73" type="general.puzzles_de_saut.etendue_de_fablegriffe" GUID="FzCaCWjf1UCDxjgbttyIGA=="/>
+			<POI MapID="19" xpos="841.875" ypos="18.038" zpos="-611.524" type="general.puzzles_de_saut.etendue_de_fablegriffe" GUID="pChvqr34L025C1grBb6ANw=="/>
+			<POI MapID="19" xpos="851.565" ypos="17.0759" zpos="-612.857" type="general.puzzles_de_saut.etendue_de_fablegriffe" GUID="wwl/0VG7Q0moeqWnYhzOOg=="/>
+			<POI MapID="19" xpos="859.827" ypos="17.4858" zpos="-615.384" type="general.puzzles_de_saut.etendue_de_fablegriffe" GUID="GZKOg90Ob0exDeLSOAD1hg=="/>
+			<POI MapID="19" xpos="869.469" ypos="15.6122" zpos="-614.972" type="general.puzzles_de_saut.etendue_de_fablegriffe" GUID="s7e2T422VkmhXtF1dl3w6g=="/>
+			<POI MapID="19" xpos="878.127" ypos="15.6127" zpos="-612.617" type="general.puzzles_de_saut.etendue_de_fablegriffe" GUID="w5YK1sqzKkS6pPZHVXHKLw=="/>
+			<POI MapID="19" xpos="884.495" ypos="18.0598" zpos="-607.799" type="general.puzzles_de_saut.etendue_de_fablegriffe" GUID="ru7MqnwUkEicSyZ2kqt+4g=="/>
+			<POI MapID="19" xpos="884.431" ypos="19.7469" zpos="-610.794" type="general.puzzles_de_saut.etendue_de_fablegriffe" GUID="krqxiuX7FkCDLvbi90pyeA=="/>
+			<POI MapID="19" xpos="880.596" ypos="21.5426" zpos="-611.594" type="general.puzzles_de_saut.etendue_de_fablegriffe" GUID="BN2oxlKtuUq0lIcDs+UwDA=="/>
+			<POI MapID="19" xpos="876.762" ypos="23.561" zpos="-611.328" type="general.puzzles_de_saut.etendue_de_fablegriffe" GUID="jslJeY29YkirFwkTWi5L1Q=="/>
+			<POI MapID="19" xpos="879.785" ypos="25.3563" zpos="-611.917" type="general.puzzles_de_saut.etendue_de_fablegriffe" GUID="HbDobhqz6Ei0K0P2nQ5XPg=="/>
+			<POI MapID="19" xpos="884.703" ypos="26.5183" zpos="-610.782" type="general.puzzles_de_saut.etendue_de_fablegriffe" GUID="OCI10wV3u0y+Z2x4PMgtyg=="/>
+			<POI MapID="19" xpos="884.444" ypos="27.6371" zpos="-604.662" type="general.puzzles_de_saut.etendue_de_fablegriffe" GUID="FRDDsQ6fxU+oAbai0Jmfxg=="/>
+			<POI MapID="19" xpos="884.97" ypos="28.6636" zpos="-601.446" type="general.puzzles_de_saut.etendue_de_fablegriffe" GUID="RzgaCG/DokqKgGGbEfUXXQ=="/>
+			<POI MapID="19" xpos="881.94" ypos="29.0479" zpos="-597.551" type="general.puzzles_de_saut.etendue_de_fablegriffe" GUID="EqrSmqGnFkWl1ksl901OjQ=="/>
+			<POI MapID="19" xpos="882.805" ypos="30.8017" zpos="-594.068" type="general.puzzles_de_saut.etendue_de_fablegriffe" GUID="PVLW45kHR0yvmO33N/OIFQ=="/>
+			<POI MapID="19" xpos="887.785" ypos="31.6504" zpos="-592.984" type="general.puzzles_de_saut.etendue_de_fablegriffe" GUID="MnxLRsNCaEeKqgx1eFTkhQ=="/>
+			<POI MapID="19" xpos="892.779" ypos="31.7626" zpos="-592.795" type="general.puzzles_de_saut.etendue_de_fablegriffe" GUID="eYEFAnn/+USZ4iZGWOTMaA=="/>
+			<POI MapID="19" xpos="892.499" ypos="33.0436" zpos="-589.135" type="general.puzzles_de_saut.etendue_de_fablegriffe" GUID="DX2K+kQ2IkiVFck+2sDeuQ=="/>
+			<POI MapID="19" xpos="892.823" ypos="34.4606" zpos="-585.154" type="general.puzzles_de_saut.etendue_de_fablegriffe" GUID="tlhFeoX+A0iUSw2z6RDfTw=="/>
+			<POI MapID="19" xpos="893.329" ypos="34.6686" zpos="-581.198" type="general.puzzles_de_saut.etendue_de_fablegriffe" GUID="ieVOreJ8K02iA1QC0hICoQ=="/>
+			<POI MapID="19" xpos="893.129" ypos="32.2995" zpos="-576.502" type="general.puzzles_de_saut.etendue_de_fablegriffe" GUID="4d9ebk+7P06kPqT2bgtoLg=="/>
+			<POI MapID="19" xpos="897'.37" ypos="33.6048" zpos="-573.006" type="general.puzzles_de_saut.etendue_de_fablegriffe" GUID="vg7OenXPgk63xaVLZarLWQ=="/>
+			<POI MapID="19" xpos="903.968" ypos="32.5568" zpos="-577.455" type="general.puzzles_de_saut.etendue_de_fablegriffe" GUID="dEZBAsuBkkya7tVEk5CGrg=="/>
+			<POI MapID="19" xpos="911.276" ypos="33.0795" zpos="-579.48" type="general.puzzles_de_saut.etendue_de_fablegriffe" GUID="Jrj+/PqtyUCOWNIqsYTJ9w=="/>
+			<POI MapID="19" xpos="918.164" ypos="32.9529" zpos="-578.541" type="general.puzzles_de_saut.etendue_de_fablegriffe" GUID="QJ+rrkH5rEWEPid/NUspzQ=="/>
+			<POI MapID="19" xpos="921.154" ypos="35.3634" zpos="-579.53" type="general.puzzles_de_saut.etendue_de_fablegriffe" GUID="ZMCmvFgFUEW0YzhcIOTGFw=="/>
+			<POI MapID="19" xpos="915.526" ypos="36.2017" zpos="-579.501" type="general.puzzles_de_saut.etendue_de_fablegriffe" GUID="PVF72Rey8UiZA9WWtyEfdQ=="/>
+			<POI MapID="19" xpos="912.808" ypos="37.8904" zpos="-579.408" type="general.puzzles_de_saut.etendue_de_fablegriffe" GUID="a43FdybynEK1YqDtXbrYjw=="/>
+			<POI MapID="19" xpos="905.549" ypos="39.6369" zpos="-579.32" type="general.puzzles_de_saut.etendue_de_fablegriffe" GUID="esTscHn8j0aU/BXO3MW1sQ=="/>
+			<POI MapID="19" xpos="902.498" ypos="41.4106" zpos="-579.314" type="general.puzzles_de_saut.etendue_de_fablegriffe" GUID="LRrIb6FQFkqZ0J/xDxgt0w=="/>
+			<POI MapID="19" xpos="897.235" ypos="40.9552" zpos="-578.635" type="general.puzzles_de_saut.etendue_de_fablegriffe" GUID="G61bCL8AuEm/MUQ2ETeA3g==" iconFile="Img\DangerDoubleEsquive-EN.png"/>
+			<POI MapID="19" xpos="896.958" ypos="49.2097" zpos="-591.286" type="general.puzzles_de_saut.etendue_de_fablegriffe" GUID="q98TCiRxM0aHVxQd4WIjjg==" iconFile="Img\DangerDoubleEsquive-EN.png"/>
+			<POI MapID="19" xpos="896.29" ypos="53.1106" zpos="-600.575" type="general.puzzles_de_saut.etendue_de_fablegriffe" GUID="S8Pk43GNqUmhks4UvFj8ng=="/>
+			<POI MapID="19" xpos="904.095" ypos="52.8286" zpos="-598.314" type="general.puzzles_de_saut.etendue_de_fablegriffe" GUID="3dGEUlhkHUShQXuUpmvv0w=="/>
+			<POI MapID="19" xpos="913.49" ypos="53.6077" zpos="-593.725" type="general.puzzles_de_saut.etendue_de_fablegriffe" GUID="FeMx6jSQ+UyA1ylnve+gMQ=="/>
+			<POI MapID="19" xpos="925.219" ypos="51.8411" zpos="-586.481" type="general.puzzles_de_saut.etendue_de_fablegriffe" GUID="hxKzAznVGUeFY6XQ8zl+7A=="/>
+			<POI MapID="19" xpos="931.489" ypos="51.9522" zpos="-583.905" type="general.puzzles_de_saut.etendue_de_fablegriffe" GUID="VLVzEMhCukiwpjo+jPsOTA==" iconFile="Img\Danger.png"/>
+			<POI MapID="19" xpos="940.13" ypos="51.7236" zpos="-582.978" type="general.puzzles_de_saut.etendue_de_fablegriffe" GUID="FitcM6DbaEyHN4VInInFug=="/>
+			<POI MapID="19" xpos="952.622" ypos="51.7866" zpos="-583.515" type="general.puzzles_de_saut.etendue_de_fablegriffe" GUID="rycyk1YGq0uGIvDU3Imv6g=="/>
+			<POI MapID="19" xpos="962.249" ypos="51.7014" zpos="-587.211" type="general.puzzles_de_saut.etendue_de_fablegriffe" GUID="a7zXrgIpwka8LepzjvERsg=="/>
+			<POI MapID="19" xpos="971.405" ypos="51.6797" zpos="-589.032" type="general.puzzles_de_saut.etendue_de_fablegriffe" GUID="8woqxula5kejp80+zIuB5w=="/>
+			<POI MapID="19" xpos="979.639" ypos="54.4994" zpos="-587.866" type="general.puzzles_de_saut.etendue_de_fablegriffe" GUID="HuNgXi5gDkWEx14o+UDV3Q==" iconFile="Img\Combat.png" iconSize="1" color="ffe52020"/>
+			<POI MapID="19" xpos="987.937" ypos="51.8386" zpos="-585.174" type="general.puzzles_de_saut.etendue_de_fablegriffe" GUID="uHVt1vuCQ0GXFGHXiMBCIQ=="/>
+			<POI MapID="19" xpos="994.865" ypos="52.661" zpos="-577.352" type="general.puzzles_de_saut.etendue_de_fablegriffe" GUID="IDhyZ6qV/kqZoSLcjj7XqA=="/>
+			<POI MapID="19" xpos="994.839" ypos="57.3922" zpos="-582.894" type="general.puzzles_de_saut.etendue_de_fablegriffe" GUID="CVkXM8HD9kKf1S+KqFEviA=="/>
+			<POI MapID="19" xpos="998.55" ypos="60.5267" zpos="-586.203" type="general.puzzles_de_saut.etendue_de_fablegriffe" GUID="ijcN5YfCXUCpXdeaJ1UwfQ=="/>
+			<POI MapID="19" xpos="993.926" ypos="62.1084" zpos="-594.167" type="general.puzzles_de_saut.etendue_de_fablegriffe" GUID="M4xGqBYu7UO1QwshLaf40w=="/>
+			<POI MapID="19" xpos="992.267" ypos="65.6888" zpos="-596.785" type="general.puzzles_de_saut.etendue_de_fablegriffe" GUID="EryoBU37S0SLnP8qocMq9g=="/>
+			<POI MapID="19" xpos="993.824" ypos="65.3183" zpos="-588.278" type="general.puzzles_de_saut.etendue_de_fablegriffe" GUID="0F4xbgv7nkayM9LNIlVCRw=="/>
+			<POI MapID="19" xpos="995.177" ypos="65.7171" zpos="-583.075" type="general.puzzles_de_saut.etendue_de_fablegriffe" GUID="fFjkv0N810Wq7etwgSJycQ=="/>
+			<POI MapID="19" xpos="993.063" ypos="65.4228" zpos="-577.301" type="general.puzzles_de_saut.etendue_de_fablegriffe" GUID="8CH2WaJABk+yotlY75qx0w=="/>
+			<POI MapID="19" xpos="988.007" ypos="65.8861" zpos="-574.323" type="general.puzzles_de_saut.etendue_de_fablegriffe" GUID="X2MBXHVG4kinCIMcaDbApw=="/>
+			<POI MapID="19" xpos="981.604" ypos="66.0608" zpos="-577.255" type="general.puzzles_de_saut.etendue_de_fablegriffe" GUID="HMxqPSe2a0GIH8sDgOJvpg=="/>
+			<POI MapID="19" xpos="975.943" ypos="66.121" zpos="-578.808" type="general.puzzles_de_saut.etendue_de_fablegriffe" GUID="BBl3CGtg8kmi4469Y/pPtg=="/>
+			<POI MapID="19" xpos="970.649" ypos="66.2735" zpos="-580.708" type="general.puzzles_de_saut.etendue_de_fablegriffe" GUID="8fDK+yiRrEmoHQisUDbrzw==" iconFile="Img\Fleche.png"/>
+			<POI MapID="19" xpos="985.945" ypos="51.6786" zpos="-594.995" type="general.puzzles_de_saut.etendue_de_fablegriffe" GUID="UYnLDj2AVES7Mzh/o58B7g=="/>
+			<POI MapID="19" xpos="992.015" ypos="52.7947" zpos="-600.091" type="general.puzzles_de_saut.etendue_de_fablegriffe" GUID="MxlqT7OAzUWBdpINnaEv5A=="/>
+			<POI MapID="19" xpos="997.993" ypos="53.6792" zpos="-605.264" type="general.puzzles_de_saut.etendue_de_fablegriffe" GUID="sxTAu9ZaF0+kosJ8jA55Gw=="/>
+			<POI MapID="19" xpos="1004.99" ypos="52.8598" zpos="-608.244" type="general.puzzles_de_saut.etendue_de_fablegriffe" GUID="gBCiAaD2Oka/z9Phi9T1YQ=="/>
+			<POI MapID="19" xpos="1012.25" ypos="52.899" zpos="-605.447" type="general.puzzles_de_saut.etendue_de_fablegriffe" GUID="bxP+Es2W0UCh7q+R1h4DsQ=="/>
+			<POI MapID="19" xpos="1018.46" ypos="53.1584" zpos="-601.653" type="general.puzzles_de_saut.etendue_de_fablegriffe" GUID="cFImNN7BckSWm64L5WOCqQ=="/>
+		</Route>
+
+		<!-- Coffre -->
+		<POI MapID="19" xpos="1027.61" ypos="53.4906" zpos="-597.925" type="general.puzzles_de_saut.etendue_de_fablegriffe" GUID="w/XSZzTEg0CYloEQ9o1M/g==" iconFile="Img\CoffrePuzzle.png" iconSize="1" heightOffset="3" behavior="2"/>
+
+	</POIs>
+</OverlayData>

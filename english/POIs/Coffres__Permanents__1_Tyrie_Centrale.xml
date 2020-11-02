@@ -1,0 +1,397 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+POIs:  ReActif.9251 - TMKFrench.6427
+Date:  2017/08/04
+Notes: Les coffres des puzzles sauts et ceux accessibles que par le puzzle ne seront pas indiqué !
+       EV : Coffres après Event
+       FB : Coffres après Combat / Boss / World Boss
+       PJ : Coffres de fin des puzzles sauts.
+       PA : Coffres accessibles uniquement par un puzzle.
+       SE : Coffres de Succès : Explorateur
+-->
+<OverlayData>
+	<MarkerCategory name="coffres.permanents">
+		<MarkerCategory name="tyrie_centrale" DisplayName="Central Tyria">
+			<MarkerCategory name="steppes_de_la_strie_flamboyante" DisplayName="Blazeridge Steppes"/>
+			<MarkerCategory name="terres_sauvages_de_brisban" DisplayName="Brisban Wildlands"/>
+			<MarkerCategory name="rivage_maudit" DisplayName="Cursed Shore"/>
+			<MarkerCategory name="plateau_de_diessa" DisplayName="Diessa Plateau"/>
+			<MarkerCategory name="falaises_de_hantedraguerre" DisplayName="Dredgehaunt Cliffs"/>
+			<MarkerCategory name="cimeseche" DisplayName="Dry Top"/>
+			<MarkerCategory name="champs_de_ruine" DisplayName="Fields of Ruins"/>
+			<MarkerCategory name="montee_de_flambecoeur" DisplayName="Fireheart Rise"/>
+			<MarkerCategory name="detroit_des_gorges_glacees" DisplayName="Frostgorge Sound"/>
+			<MarkerCategory name="champs_de_gendarran" DisplayName="Gendarran Fields"/>
+			<MarkerCategory name="hinterlands_harathis" DisplayName="Harathi Hinterlands"/>
+			<MarkerCategory name="marais_de_fer" DisplayName="Iron Marches"/>
+			<MarkerCategory name="collines_de_kessex" DisplayName="Kessex Hills"/>
+			<MarkerCategory name="passage_de_lornar" DisplayName="Lornar's Pass"/>
+			<MarkerCategory name="saut_de_malchor" DisplayName="Malchor's Leap"/>
+			<MarkerCategory name="province_de_metrica" DisplayName="Metrica Province"/>
+			<MarkerCategory name="mont_maelstrom" DisplayName="Mount Maelstrom"/>
+			<MarkerCategory name="plaines_d_ashford" DisplayName="Plains of Ashford"/>
+			<MarkerCategory name="vallee_de_la_reine" DisplayName="Queensdale"/>
+			<MarkerCategory name="congeres_d_antreneige" DisplayName="Snowden Drifts"/>
+			<MarkerCategory name="crique_de_sud_soleil" DisplayName="Southsun Cove"/>
+			<MarkerCategory name="marais_de_lumillule" DisplayName="Sparkfly Fen"/>
+			<MarkerCategory name="detroit_de_la_devastation" DisplayName="Straits of Devastation"/>
+			<MarkerCategory name="chutes_de_la_canopee" DisplayName="Timberline Falls"/>
+			<MarkerCategory name="contreforts_du_voyageur" DisplayName="Wayfarer Foothills"/>
+		</MarkerCategory>
+	</MarkerCategory>
+
+	<POIs>
+
+		<!--
+		La Vallée de la Reine
+		-->
+
+		<POI MapID="15" xpos="-913.993" ypos="52.0699" zpos="-193.123" type="coffres.permanents.tyrie_centrale.vallee_de_la_reine" GUID="A9oMBEYqjEep2Pg56gPoSQ=="/>
+		<POI MapID="15" xpos="-458.51" ypos="16.7428" zpos="21.7384" type="coffres.permanents.tyrie_centrale.vallee_de_la_reine" GUID="efoqwnfLPUKBvLVIKgJjBA=="/>
+<!-- SE <POI MapID="15" xpos="0.393018" ypos="8.66614" zpos="699.258" type="coffres.permanents.tyrie_centrale.vallee_de_la_reine" GUID="Sfisd8kfRUq56WO/IJ5RQw=="/> -->
+		<POI MapID="15" xpos="748.985" ypos="92.007" zpos="-162.733" type="coffres.permanents.tyrie_centrale.vallee_de_la_reine" GUID="DsBinZKQMk+vpp6A2wXEAQ=="/>
+<!-- PJ <POI MapID="15" xpos="1034.58" ypos="46.0339" zpos="-672.297" type="coffres.permanents.tyrie_centrale.vallee_de_la_reine" GUID="ogi80DV/lkC4FZRkJTF0Ug=="/> -->
+		<POI MapID="15" xpos="1051.95" ypos="47.6339" zpos="-446.995" type="coffres.permanents.tyrie_centrale.vallee_de_la_reine" GUID="lJL+n9Tj20S+EbKFIYuTaw==" iconFile="Img\Sac.png" heightOffset="0"/>
+		<POI MapID="15" xpos="1058.61" ypos="59.6303" zpos="-433.872" type="coffres.permanents.tyrie_centrale.vallee_de_la_reine" GUID="Aw4oGOpmuk+t8oiHWyl7yA=="/>
+		<POI MapID="15" xpos="1083.43" ypos="49.988" zpos="-416.14" type="coffres.permanents.tyrie_centrale.vallee_de_la_reine" GUID="MloTBftgJkK3Vu2wIuujNw=="/>
+
+
+		<!--
+		Hinterlands Harathis
+		-->
+
+<!-- PJ <POI MapID="17" xpos="-662.185" ypos="3.26374" zpos="779.349" type="coffres.permanents.tyrie_centrale.hinterlands_harathis" GUID="nnqP0m2acUenucUViPXCeg=="/> -->
+		<POI MapID="17" xpos="76.9494" ypos="71.8125" zpos="572.016" type="coffres.permanents.tyrie_centrale.hinterlands_harathis" GUID="M0PTjbidWECdg4lIM1eaRQ=="/>
+		<POI MapID="17" xpos="326.633" ypos="127.33" zpos="817.744" type="coffres.permanents.tyrie_centrale.hinterlands_harathis" GUID="6b6ObgNtYEy8Pc7c69JWmQ=="/>
+		<POI MapID="17" xpos="352.642" ypos="52.5129" zpos="-232.336" type="coffres.permanents.tyrie_centrale.hinterlands_harathis" GUID="4ZXsf0IQB0mzdhhsD/e/Gg=="/>
+		<POI MapID="17" xpos="411.658" ypos="0.09" zpos="257.437" type="coffres.permanents.tyrie_centrale.hinterlands_harathis" GUID="6PV8dLpuHUCqUoTzkYDKyg=="/>
+		<POI MapID="17" xpos="716.333" ypos="72.6553" zpos="-54.6445" type="coffres.permanents.tyrie_centrale.hinterlands_harathis" GUID="CJb3vGCl9EGySVNQxU02HA=="/>
+		<POI MapID="17" xpos="819.489" ypos="93.9872" zpos="-128.809" type="coffres.permanents.tyrie_centrale.hinterlands_harathis" GUID="z/VtAM65DEK1nAsoN+quFw=="/>
+
+
+		<!--
+		Plaines d'Ashford
+		-->
+
+		<POI MapID="19" xpos="-1085.93" ypos="39.5101" zpos="-324.701" type="coffres.permanents.tyrie_centrale.plaines_d_ashford" GUID="+BFxDBO5/U+fNgq4fIX3qg=="/>
+		<POI MapID="19" xpos="-619.302" ypos="4.13214" zpos="79.4553" type="coffres.permanents.tyrie_centrale.plaines_d_ashford" GUID="cYKLTGWwiEi0Ym4P36kzrw=="/>
+		<POI MapID="19" xpos="-463.453" ypos="29.5183" zpos="543.678" type="coffres.permanents.tyrie_centrale.plaines_d_ashford" GUID="yEcw5rai0EunGiHhjIvXCg=="/>
+		<POI MapID="19" xpos="152.551" ypos="81.7157" zpos="549.491" type="coffres.permanents.tyrie_centrale.plaines_d_ashford" GUID="nTRZoSAjQkWkNfijMR0Ohw=="/>
+		<POI MapID="19" xpos="303.711" ypos="0.537502" zpos="-508.551" type="coffres.permanents.tyrie_centrale.plaines_d_ashford" GUID="2P5Qkctqu0O3S79WOfTN4A=="/>
+<!-- PJ <POI MapID="19" xpos="1027.74" ypos="53.5387" zpos="-598.323" type="coffres.permanents.tyrie_centrale.plaines_d_ashford" GUID="oPt7uaaliEChe5fK6yp3dw=="/> -->
+		<POI MapID="19" xpos="1212.15" ypos="45.9195" zpos="601.931" type="coffres.permanents.tyrie_centrale.plaines_d_ashford" GUID="Zl9zY8834kqtdtpUL34R6A=="/>
+
+
+		<!--
+		Les Steppes de la Strie Flamboyante
+		-->
+
+		<POI MapID="20" xpos="-277.586" ypos="3.54657" zpos="284.872" type="coffres.permanents.tyrie_centrale.steppes_de_la_strie_flamboyante" GUID="Cop9ntQN1USR5HlWsQyZ2g=="/>
+		<POI MapID="20" xpos="-150.835" ypos="36.2926" zpos="-910.84" type="coffres.permanents.tyrie_centrale.steppes_de_la_strie_flamboyante" GUID="4eIwJbwORkKSCOWmZs15Aw=="/>
+		<POI MapID="20" xpos="-69.6068" ypos="63.9945" zpos="638.628" type="coffres.permanents.tyrie_centrale.steppes_de_la_strie_flamboyante" GUID="I0QxDrfBpUOWPd5A0xwUMA=="/>
+<!-- PJ <POI MapID="20" xpos="348.089" ypos="55.545" zpos="1134.79" type="coffres.permanents.tyrie_centrale.steppes_de_la_strie_flamboyante" GUID="ukXWRxMIeU+xHL/d6X5SOg=="/> -->
+<!-- PA <POI MapID="20" xpos="403.049" ypos="103.872" zpos="1124.46" type="coffres.permanents.tyrie_centrale.steppes_de_la_strie_flamboyante" GUID="b5OavqoeE0Ge5wTZr0deXA=="/> -->
+<!-- PJ <POI MapID="20" xpos="571.055" ypos="19.1918" zpos="-520.298" type="coffres.permanents.tyrie_centrale.steppes_de_la_strie_flamboyante" GUID="AYZo5+eJOECHOIJvIG7V0A=="/> -->
+
+
+		<!--
+		Champs de Ruine
+		-->
+
+<!-- PJ <POI MapID="21" xpos="-928.932" ypos="51.8168" zpos="549.886" type="coffres.permanents.tyrie_centrale.champs_de_ruine" GUID="hxYfJHrVdkCoMU3FBb2wAA=="/> -->
+		<POI MapID="21" xpos="212.861" ypos="17.6042" zpos="827.923" type="coffres.permanents.tyrie_centrale.champs_de_ruine" GUID="vq4iB5455EKUdhBB6GkVdA=="/>
+
+
+		<!--
+		Montée de Flambecœur
+		-->
+
+		<POI MapID="22" xpos="-956.758" ypos="74.1792" zpos="-646.975" type="coffres.permanents.tyrie_centrale.montee_de_flambecoeur" GUID="y4Y/L5eXWUa9pryljDtZzw=="/>
+		<POI MapID="22" xpos="-427.394" ypos="58.9962" zpos="-751.182" type="coffres.permanents.tyrie_centrale.montee_de_flambecoeur" GUID="GsgJX0wMHEGQ0vAHzl/8/Q=="/>
+		<POI MapID="22" xpos="-190.486" ypos="63.8047" zpos="604.051" type="coffres.permanents.tyrie_centrale.montee_de_flambecoeur" GUID="ZIZY+A9PiEeGnkMuIKQNew=="/>
+		<POI MapID="22" xpos="337.715" ypos="45.7845" zpos="-518.529" type="coffres.permanents.tyrie_centrale.montee_de_flambecoeur" GUID="15LAYKd2bEyG7NnDecQ1jQ=="/>
+		<POI MapID="22" xpos="896.195" ypos="15.2533" zpos="-12.2806" type="coffres.permanents.tyrie_centrale.montee_de_flambecoeur" GUID="VK0lI2l3vUypR/C+DKtv0g=="/>
+<!-- SE <POI MapID="22" xpos="980.45" ypos="71.7834" zpos="-38.6093" type="coffres.permanents.tyrie_centrale.montee_de_flambecoeur" GUID="QDEgKI08QU2kUkjagKHDgg=="/> -->
+
+
+		<!--
+		Collines de Kessex
+		-->
+
+		<POI MapID="23" xpos="-33.2599" ypos="43.767" zpos="557.89" type="coffres.permanents.tyrie_centrale.collines_de_kessex" GUID="E7XbtIUct0mamiF4SIp88g=="/>
+<!-- PJ <POI MapID="23" xpos="947.815" ypos="75.6499" zpos="-595.778" type="coffres.permanents.tyrie_centrale.collines_de_kessex" GUID="y4q1KnR3fUG0DqUc1KfSZw=="/> -->
+
+
+		<!--
+		Champs de Gendarran
+		-->
+
+		<POI MapID="24" xpos="-568.773" ypos="48.326" zpos="394.575" type="coffres.permanents.tyrie_centrale.champs_de_gendarran" GUID="tuBHnythGkKXkkrzmY+M4Q=="/>
+<!-- PA <POI MapID="24" xpos="-316.247" ypos="37.6469" zpos="-434.265" type="coffres.permanents.tyrie_centrale.champs_de_gendarran" GUID="Dq9k2fyxcUakh4sAQgqqhw=="/> -->
+<!-- PA <POI MapID="24" xpos="-310.5" ypos="-11.0852" zpos="-535.869" type="coffres.permanents.tyrie_centrale.champs_de_gendarran" GUID="asxLcvaDm02IvMHdvqjKCA=="/> -->
+<!-- PA <POI MapID="24" xpos="-301.111" ypos="43.9932" zpos="-486.91" type="coffres.permanents.tyrie_centrale.champs_de_gendarran" GUID="PLNYpCO51Emg0FF5ZZOE5g=="/> -->
+<!-- PJ <POI MapID="24" xpos="-276.526" ypos="70.4816" zpos="-489.901" type="coffres.permanents.tyrie_centrale.champs_de_gendarran" GUID="CNCt0wxMk0ycktfJjYdXbA=="/> -->
+		<POI MapID="24" xpos="452.784" ypos="0.424439" zpos="354.416" type="coffres.permanents.tyrie_centrale.champs_de_gendarran" GUID="3X8AQArfFk+60YMUOzmraA=="/>
+<!-- PJ <POI MapID="24" xpos="688.992" ypos="28.0783" zpos="-552.198" type="coffres.permanents.tyrie_centrale.champs_de_gendarran" GUID="DhS6uuxX5UO+eYd8iJ143w=="/> -->
+
+
+		<!--
+		Marais de Fer
+		-->
+
+<!-- PJ <POI MapID="25" xpos="-573.53" ypos="9.14566" zpos="-769.956" type="coffres.permanents.tyrie_centrale.marais_de_fer" GUID="O7lJUJZzQE+FjS5PV70s2A=="/> -->
+		<POI MapID="25" xpos="-566.044" ypos="79.6215" zpos="-1076.42" type="coffres.permanents.tyrie_centrale.marais_de_fer" GUID="st03O73Rc0ys/yfOspLaZQ=="/>
+		<POI MapID="25" xpos="326.604" ypos="-118.2" zpos="172.285" type="coffres.permanents.tyrie_centrale.marais_de_fer" GUID="uoxDW3nKOUOwQr58u6/PQg=="/>
+		<POI MapID="25" xpos="595.234" ypos="0.988941" zpos="-893.699" type="coffres.permanents.tyrie_centrale.marais_de_fer" GUID="9xiexJWL3UKwuuGApMtZLA=="/>
+
+
+		<!--
+		Falaises de Hantedraguerre
+		-->
+
+<!-- PJ <POI MapID="26" xpos="-624.489" ypos="87.1847" zpos="-625.361" type="coffres.permanents.tyrie_centrale.falaises_de_hantedraguerre" GUID="LfDdQoXiOUau0rThPGB8JA=="/> -->
+<!-- PJ <POI MapID="26" xpos="-581.312" ypos="66.525" zpos="-837.15" type="coffres.permanents.tyrie_centrale.falaises_de_hantedraguerre" GUID="nUAzsSBuoEiXEJTijqBhaQ=="/> -->
+<!-- FB <POI MapID="26" xpos="-532.566" ypos="29.7478" zpos="-881.482" type="coffres.permanents.tyrie_centrale.falaises_de_hantedraguerre" GUID="JogsolaaZEOX2V7jn1v+Aw=="/> /** Kommissar **/ -->
+		<POI MapID="26" xpos="-488.236" ypos="93.0275" zpos="111.302" type="coffres.permanents.tyrie_centrale.falaises_de_hantedraguerre" GUID="k1inHArm0UCCL84/bviD5g=="/>
+		<POI MapID="26" xpos="-417.569" ypos="84.9936" zpos="818.237" type="coffres.permanents.tyrie_centrale.falaises_de_hantedraguerre" GUID="a3mehKZJtEiFFnvxjan1hw=="/>
+		<POI MapID="26" xpos="-320.239" ypos="110.637" zpos="-449.184" type="coffres.permanents.tyrie_centrale.falaises_de_hantedraguerre" GUID="xmCkd2EfDkKF8JLODRQ5kQ=="/>
+		<POI MapID="26" xpos="-70.549" ypos="148.422" zpos="-36.6593" type="coffres.permanents.tyrie_centrale.falaises_de_hantedraguerre" GUID="8xoFNWTWiUaqen35SNKbHA=="/>
+		<POI MapID="26" xpos="-2.68218" ypos="124.557" zpos="-155.898" type="coffres.permanents.tyrie_centrale.falaises_de_hantedraguerre" GUID="WYc0z4Xc1U6sfgk3zibK5w=="/>
+
+
+		<!--
+		Passage de Lornar
+		-->
+
+<!-- PA <POI MapID="27" xpos="-488.234" ypos="86.4887" zpos="-734.448" type="coffres.permanents.tyrie_centrale.passage_de_lornar" GUID="6qRgw+SwPkGt6569PkpTgg=="/> -->
+		<POI MapID="27" xpos="-391.338" ypos="92.3023" zpos="805.528" type="coffres.permanents.tyrie_centrale.passage_de_lornar" GUID="IUQr4LVGmUG4gO0J+BSvgg=="/>
+<!-- PJ <POI MapID="27" xpos="-371.072" ypos="105.713" zpos="-753.229" type="coffres.permanents.tyrie_centrale.passage_de_lornar" GUID="d5FbGgqWCEuNSK4hLhG/zg=="/> -->
+		<POI MapID="27" xpos="337.432" ypos="186.289" zpos="832.04" type="coffres.permanents.tyrie_centrale.passage_de_lornar" GUID="mftm+PSUAkqSrRqPt1AtNQ=="/>
+<!-- EV <POI MapID="27" xpos="471.047" ypos="126.977" zpos="-1007.32" type="coffres.permanents.tyrie_centrale.passage_de_lornar" GUID="kSfan4lTyUSb3jxp0pmW7g=="/> -->
+		<POI MapID="27" xpos="478.705" ypos="158.914" zpos="-1279.02" type="coffres.permanents.tyrie_centrale.passage_de_lornar" GUID="vBz3kRYAxEqD/887DIpSHg=="/>
+
+
+		<!--
+		Contreforts du Voyageur
+		-->
+
+<!-- PJ <POI MapID="28" xpos="-506.818" ypos="105.188" zpos="49.9012" type="coffres.permanents.tyrie_centrale.contreforts_du_voyageur" GUID="qnOrrw1/9EmI40U/uYna6A=="/> -->
+		<POI MapID="28" xpos="-468.017" ypos="125.146" zpos="-170.187" type="coffres.permanents.tyrie_centrale.contreforts_du_voyageur" GUID="T0QoV5ntnka3DyYV8l85Ng=="/>
+		<POI MapID="28" xpos="-83.796" ypos="54.4911" zpos="-1334.07" type="coffres.permanents.tyrie_centrale.contreforts_du_voyageur" GUID="0MxvLu2tukCLHRoDzChTvQ=="/>
+		<POI MapID="28" xpos="-20.9149" ypos="95.5002" zpos="592.268" type="coffres.permanents.tyrie_centrale.contreforts_du_voyageur" GUID="IwLJfUaHREaS9YpJh5uXVg=="/>
+
+
+		<!--
+		Chutes de la Canopée
+		-->
+
+		<POI MapID="29" xpos="-465.233" ypos="5.54319" zpos="426.255" type="coffres.permanents.tyrie_centrale.chutes_de_la_canopee" GUID="T8LcqukVtEGoFTOgAS8bww=="/>
+<!-- PJ <POI MapID="29" xpos="298.549" ypos="28.5184" zpos="-911.079" type="coffres.permanents.tyrie_centrale.chutes_de_la_canopee" GUID="Vy6mZ68+YEyNY56xlAU2nQ=="/> -->
+		<POI MapID="29" xpos="329.63" ypos="63.3248" zpos="-534.48" type="coffres.permanents.tyrie_centrale.chutes_de_la_canopee" GUID="zfkU+VnJeUqs7Mxiy3dkbw=="/>
+<!-- PA <POI MapID="29" xpos="526.048" ypos="52.3433" zpos="898.632" type="coffres.permanents.tyrie_centrale.chutes_de_la_canopee" GUID="0S9x8UjIRkqKV9MpDnSoEg=="/> -->
+<!-- PJ <POI MapID="29" xpos="666.692" ypos="25.8491" zpos="1003.7" type="coffres.permanents.tyrie_centrale.chutes_de_la_canopee" GUID="qoMB1O982kSJjnvhbH7x0g=="/> -->
+
+
+		<!--
+		Détroit des Gorges Glacées
+		-->
+
+<!-- PJ <POI MapID="30" xpos="-167.488" ypos="52.8254" zpos="375.75" type="coffres.permanents.tyrie_centrale.detroit_des_gorges_glacees" GUID="rWWdwO6k40iVy8u34uZyoA=="/> -->
+		<POI MapID="30" xpos="512.901" ypos="10.2314" zpos="144.512" type="coffres.permanents.tyrie_centrale.detroit_des_gorges_glacees" GUID="86RPp6QhtU2fN1D9m3+b1g=="/>
+
+
+		<!--
+		Congères d'Antreneige
+		-->
+
+		<POI MapID="31" xpos="-674.511" ypos="103.149" zpos="539.911" type="coffres.permanents.tyrie_centrale.congeres_d_antreneige" GUID="0YIJGt9ZxUKd3lHitPFUkw=="/>
+
+
+		<!--
+		Plateau de Diessa
+		-->
+
+		<POI MapID="32" xpos="345.125" ypos="-64.3533" zpos="577.56" type="coffres.permanents.tyrie_centrale.plateau_de_diessa" GUID="JnC3mQmBW0+K2/9/UIYqrw=="/>
+<!-- PJ <POI MapID="32" xpos="463.075" ypos="66.8554" zpos="-382.095" type="coffres.permanents.tyrie_centrale.plateau_de_diessa" GUID="+5HkGWzjL0StfJbropOuBw=="/> -->
+		<POI MapID="32" xpos="470.466" ypos="61.1344" zpos="-111.932" type="coffres.permanents.tyrie_centrale.plateau_de_diessa" GUID="lEkF9WQ+S02wm4U5AE1xKg=="/>
+
+
+		<!--
+		Forêt de Caledon
+		-->
+
+<!-- PJ <POI MapID="34" xpos="-531.825" ypos="43.8616" zpos="-146.613" type="coffres.permanents.tyrie_centrale.foret_de_caledon" GUID="e6hoBrgexEedMPSm5aSHhw=="/> -->
+<!-- SE <POI MapID="34" xpos="-1.57176" ypos="10.0181" zpos="409.228" type="coffres.permanents.tyrie_centrale.foret_de_caledon" GUID="jd76UhLs7EW6nxPkrQ6KRA=="/> -->
+<!-- PA <POI MapID="34" xpos="271.167" ypos="1.94597" zpos="-600.698" type="coffres.permanents.tyrie_centrale.foret_de_caledon" GUID="3jR/N9GJO0G1PkKp8/JuuQ=="/> -->
+<!-- PJ <POI MapID="34" xpos="296.288" ypos="67.016" zpos="-531.78" type="coffres.permanents.tyrie_centrale.foret_de_caledon" GUID="0U0rCPNu7ESnAQtokxWjbw=="/> -->
+<!-- PJ <POI MapID="34" xpos="442.244" ypos="44.8941" zpos="-627.773" type="coffres.permanents.tyrie_centrale.foret_de_caledon" GUID="fL4S1KBrnES43a7Nb5XjPw=="/> -->
+
+
+		<!--
+		Province de Metrica
+		-->
+
+		<POI MapID="35" xpos="258.289" ypos="36.3251" zpos="470.501" type="coffres.permanents.tyrie_centrale.province_de_metrica" GUID="BlZ6BB+pZU2dtergCGeMRA=="/>
+		<POI MapID="35" xpos="560.668" ypos="62.6071" zpos="42.1722" type="coffres.permanents.tyrie_centrale.province_de_metrica" GUID="fYemIsF4a0KnM8Lg+z4x9Q=="/>
+		<POI MapID="35" xpos="588.726" ypos="44.2368" zpos="-380.521" type="coffres.permanents.tyrie_centrale.province_de_metrica" GUID="aPX7rlTws0yk0c45t4DX3w=="/><!-- Laboratoire d'Oola l'Ancêtre -->
+		<POI MapID="35" xpos="678.36" ypos="13.2194" zpos="-780.263" type="coffres.permanents.tyrie_centrale.province_de_metrica" GUID="/mThUZnhxkeWP1bGZqD4YQ=="/>
+
+
+		<!--
+		Mont Maelström
+		-->
+
+<!-- PJ <POI MapID="39" xpos="-1134.88" ypos="84.7151" zpos="752.517" type="coffres.permanents.tyrie_centrale.mont_maelstrom" GUID="xZBCIQI0l0my1ecu8pGEiA=="/> -->
+		<POI MapID="39" xpos="-102.903" ypos="77.6616" zpos="-302.436" type="coffres.permanents.tyrie_centrale.mont_maelstrom" GUID="o9Bva9GzCU6MRcA0fRG9UQ=="/>
+		<POI MapID="39" xpos="552.397" ypos="65.2783" zpos="-234.887" type="coffres.permanents.tyrie_centrale.mont_maelstrom" GUID="zY5hiXX7REqePchc1UhndQ=="/>
+<!-- PJ <POI MapID="39" xpos="1055.94" ypos="63.4758" zpos="509.322" type="coffres.permanents.tyrie_centrale.mont_maelstrom" GUID="8rYY8XacG0mNEZNO7+So2g=="/> -->
+
+
+		<!--
+		Arche du Lion
+		-->
+
+<!-- PJ <POI MapID="50" xpos="-165.949" ypos="36.4559" zpos="32.3389" type="coffres.permanents.tyrie_centrale.arche_du_lion" GUID="rOgHkhRRCkqgOTXHK2OAJQ=="/> -->
+<!-- PJ <POI MapID="50" xpos="-329.167" ypos="32.1305" zpos="74.7542" type="coffres.permanents.tyrie_centrale.arche_du_lion" GUID="AsyvYNmXokSuwmt4RrmyFw=="/> -->
+<!-- PJ <POI MapID="50" xpos="-394.372" ypos="39.0661" zpos="129.251" type="coffres.permanents.tyrie_centrale.arche_du_lion" GUID="8nck3wcRn0WOJbIdVdRARw=="/> -->
+<!-- PJ <POI MapID="50" xpos="-476.995" ypos="78.3293" zpos="367.627" type="coffres.permanents.tyrie_centrale.arche_du_lion" GUID="UO0ABlYbhkqpZ4P665yShQ=="/> -->
+<!-- PJ <POI MapID="50" xpos="670.899" ypos="67.5209" zpos="375.124" type="coffres.permanents.tyrie_centrale.arche_du_lion" GUID="Od8BDz6CdEKsAhvFXakPIA=="/> -->
+<!-- PJ <POI MapID="50" xpos="573.308" ypos="2.31919" zpos="-407.222" type="coffres.permanents.tyrie_centrale.arche_du_lion" GUID="glxYnJLOYEmLY5a0qEjc5A=="/> -->
+
+
+		<!--
+		Détroit de la Dévastation
+		-->
+
+		<POI MapID="51" xpos="-928.823" ypos="57.6086" zpos="-260.467" type="coffres.permanents.tyrie_centrale.detroit_de_la_devastation" GUID="DoW1tIGRq0SLW2JKQjEClg=="/>
+		<POI MapID="51" xpos="-742.741" ypos="28.5612" zpos="-13.679" type="coffres.permanents.tyrie_centrale.detroit_de_la_devastation" GUID="FFAqdCpeLkKNo1EkaYyr9g=="/>
+		<POI MapID="51" xpos="-330.346" ypos="38.1252" zpos="48.486" type="coffres.permanents.tyrie_centrale.detroit_de_la_devastation" GUID="3GUI6Ij8LESDxsCvNE8Qbw=="/>
+		<POI MapID="51" xpos="-141.954" ypos="27.1615" zpos="-671.411" type="coffres.permanents.tyrie_centrale.detroit_de_la_devastation" GUID="1/YzOx84nEiXPgfvbnOVwQ=="/>
+		<POI MapID="51" xpos="-125.575" ypos="37.2167" zpos="-571.174" type="coffres.permanents.tyrie_centrale.detroit_de_la_devastation" GUID="RK1amAtUl0KD/jQBGApKXg=="/>
+<!-- PJ <POI MapID="51" xpos="182.116" ypos="77.521" zpos="-308.741" type="coffres.permanents.tyrie_centrale.detroit_de_la_devastation" GUID="wYoRpuh3W0iSZCUyr07mEQ=="/> -->
+
+
+		<!--
+		Marais de Lumillule
+		-->
+
+		<POI MapID="53" xpos="-663.963" ypos="56.4938" zpos="336.473" type="coffres.permanents.tyrie_centrale.marais_de_lumillule" GUID="283ienIUp0W6PdUigiRa0w=="/>
+		<POI MapID="53" xpos="-658.572" ypos="0.84128" zpos="-538.668" type="coffres.permanents.tyrie_centrale.marais_de_lumillule" GUID="9fxn/gbr9Uq3pD3RClKIYA=="/>
+		<POI MapID="53" xpos="-237.168" ypos="36.8835" zpos="-432.603" type="coffres.permanents.tyrie_centrale.marais_de_lumillule" GUID="vV3mqJ30b0+pJ+ZBqtQf9g=="/>
+		<POI MapID="53" xpos="253.794" ypos="52.3162" zpos="994.493" type="coffres.permanents.tyrie_centrale.marais_de_lumillule" GUID="no1XypOnAkOOy8iHRRpjDA=="/>
+		<POI MapID="53" xpos="280.45" ypos="35.2993" zpos="992.321" type="coffres.permanents.tyrie_centrale.marais_de_lumillule" GUID="G4TzIH/WaUKNqJ0xNU0f8w=="/>
+		<POI MapID="53" xpos="608.822" ypos="27.0461" zpos="670.08" type="coffres.permanents.tyrie_centrale.marais_de_lumillule" GUID="yOJzfOQIPEmEsajQuY07Pw=="/>
+		<POI MapID="53" xpos="702.109" ypos="69.2536" zpos="-312.128" type="coffres.permanents.tyrie_centrale.marais_de_lumillule" GUID="0Ju5Gyow60GMXIairI00wg=="/>
+<!-- PJ <POI MapID="53" xpos="726.525" ypos="5.73567" zpos="-762.988" type="coffres.permanents.tyrie_centrale.marais_de_lumillule" GUID="ssVitFyunUqAp85S58j1aQ=="/> -->
+
+
+		<!--
+		Terres Sauvages de Brisban
+		-->
+
+		<POI MapID="54" xpos="101.74" ypos="5.19526" zpos="16.2889" type="coffres.permanents.tyrie_centrale.terres_sauvages_de_brisban" GUID="z0SK6bSwe0WXjRwUT6BXqg=="/>
+		<POI MapID="54" xpos="419.814" ypos="32.3016" zpos="161.006" type="coffres.permanents.tyrie_centrale.terres_sauvages_de_brisban" GUID="hWb98e2gxUqKs/Ib8CXZqA=="/>
+		<POI MapID="54" xpos="425.979" ypos="32.6922" zpos="142.05" type="coffres.permanents.tyrie_centrale.terres_sauvages_de_brisban" GUID="+7C1d8NWIUe3Xqhat8YTJg=="/>
+
+
+		<!--
+		Rivage Maudit
+		-->
+
+		<POI MapID="62" xpos="484.816" ypos="54.6342" zpos="814.762" type="coffres.permanents.tyrie_centrale.rivage_maudit" GUID="ID7BBDQMLUCOwHe6Takz2w=="/>
+		<POI MapID="62" xpos="-303.679" ypos="34.4136" zpos="770.36" type="coffres.permanents.tyrie_centrale.rivage_maudit" GUID="totjxHYzhE+IN8LD1sJ4hw=="/>
+		<POI MapID="62" xpos="-130.442" ypos="58.9512" zpos="-857.569" type="coffres.permanents.tyrie_centrale.rivage_maudit" GUID="eoP5pwHDpUOLKjfSrHSp/w=="/>
+<!-- PJ <POI MapID="62" xpos="-107.552" ypos="92.1596" zpos="-937.942" type="coffres.permanents.tyrie_centrale.rivage_maudit" GUID="PS3QuU9RlEqtCy9NPNY12w=="/> -->
+<!-- SE <POI MapID="62" xpos="270.159" ypos="4.71883" zpos="-954.935" type="coffres.permanents.tyrie_centrale.rivage_maudit" GUID="14RgL34ZtUejx8/mHCe+rA=="/> -->
+		<POI MapID="62" xpos="274.935" ypos="4.52896" zpos="-944.895" type="coffres.permanents.tyrie_centrale.rivage_maudit" GUID="8BhpplWSTUW9n9LZV/9pPg=="/>
+		<POI MapID="62" xpos="303.82" ypos="4.69556" zpos="-58.1711" type="coffres.permanents.tyrie_centrale.rivage_maudit" GUID="af1irfO2QkmYkuachu852g=="/>
+<!-- SE <POI MapID="62" xpos="376.305" ypos="0.489664" zpos="538.948" type="coffres.permanents.tyrie_centrale.rivage_maudit" GUID="cMY/U62D9k2U1mJHSQbu9A=="/> -->
+		<POI MapID="62" xpos="413.284" ypos="44.847" zpos="958.996" type="coffres.permanents.tyrie_centrale.rivage_maudit" GUID="4Q11ARDu10CR0TM2YSKj+g=="/>
+		<POI MapID="62" xpos="484.816" ypos="54.6342" zpos="814.762" type="coffres.permanents.tyrie_centrale.rivage_maudit" GUID="ID7BBDQMLUCOwHe6Takz2w=="/>
+		<POI MapID="62" xpos="552.142" ypos="134.876" zpos="-41.3619" type="coffres.permanents.tyrie_centrale.rivage_maudit" GUID="Sz3zYUHXw02QrOk5RozhHw=="/>
+
+
+		<!--
+		Saut de Malchor
+		-->
+
+		<POI MapID="65" xpos="-1079.36" ypos="27.0613" zpos="-280.415" type="coffres.permanents.tyrie_centrale.saut_de_malchor" GUID="eeg8Gh0B3EWzRl4N1vJ8kg=="/>
+		<POI MapID="65" xpos="-14.5318" ypos="39.4586" zpos="-332.113" type="coffres.permanents.tyrie_centrale.saut_de_malchor" GUID="+uwgqOUo206+X2sL7jNOdA=="/>
+		<POI MapID="65" xpos="40.3569" ypos="29.306" zpos="-57.7233" type="coffres.permanents.tyrie_centrale.saut_de_malchor" GUID="mAW1vIJMh0SBARVw76V6lw=="/>
+		<POI MapID="65" xpos="708.359" ypos="-6.22504" zpos="-526.302" type="coffres.permanents.tyrie_centrale.saut_de_malchor" GUID="YI+rpYI6ikGPMc0KpkA5Pg=="/>
+<!-- PA <POI MapID="65" xpos="747.044" ypos="14.3197" zpos="-381.152" type="coffres.permanents.tyrie_centrale.saut_de_malchor" GUID="GKvWHzSeEESv+tN2SY2FVg=="/> -->
+<!-- PA <POI MapID="65" xpos="749.639" ypos="39.5623" zpos="-359.348" type="coffres.permanents.tyrie_centrale.saut_de_malchor" GUID="IAkxWR7rlEi9v9gOwrrT1A=="/> -->
+<!-- PA <POI MapID="65" xpos="755.263" ypos="47.8736" zpos="-375.727" type="coffres.permanents.tyrie_centrale.saut_de_malchor" GUID="qcGAZtrvskW9xnUtW2m0BA=="/> -->
+<!-- PA <POI MapID="65" xpos="757.845" ypos="27.2689" zpos="-333.819" type="coffres.permanents.tyrie_centrale.saut_de_malchor" GUID="U5+AsyAXzUa8fsErdzoXGA=="/> -->
+<!-- PA <POI MapID="65" xpos="759.339" ypos="15.4727" zpos="-365.417" type="coffres.permanents.tyrie_centrale.saut_de_malchor" GUID="shfPmO5f/UKNO2IQeS/8IQ=="/> -->
+<!-- PA <POI MapID="65" xpos="763.38" ypos="29.3089" zpos="-370.599" type="coffres.permanents.tyrie_centrale.saut_de_malchor" GUID="IaY9sSjum0CRh7N3oDZK5w=="/> -->
+<!-- PA <POI MapID="65" xpos="767.111" ypos="36.6935" zpos="-333.347" type="coffres.permanents.tyrie_centrale.saut_de_malchor" GUID="ZnkegmaQDUOmPtxc8V7Ahw=="/> -->
+<!-- PA <POI MapID="65" xpos="768.421" ypos="14.2694" zpos="-338.995" type="coffres.permanents.tyrie_centrale.saut_de_malchor" GUID="QNUzNK5FIkqFfj/nfhk96A=="/> -->
+<!-- PJ <POI MapID="65" xpos="935.405" ypos="54.1427" zpos="-585.924" type="coffres.permanents.tyrie_centrale.saut_de_malchor" GUID="1iOuju4wDUuy7VL7tg9GjQ=="/> -->
+<!-- PJ <POI MapID="65" xpos="937.235" ypos="53.7943" zpos="-602.993" type="coffres.permanents.tyrie_centrale.saut_de_malchor" GUID="acXHEzG6LUO6Rfp6jgCmwA=="/> -->
+<!-- PJ <POI MapID="65" xpos="948.195" ypos="54.5678" zpos="-593.413" type="coffres.permanents.tyrie_centrale.saut_de_malchor" GUID="Nwc5VrLjm0SXVu7B5zrRmg=="/> -->
+		<POI MapID="65" xpos="1037.47" ypos="-11.1442" zpos="355.229" type="coffres.permanents.tyrie_centrale.saut_de_malchor" GUID="nDyNwzPUJ0u+5v4dqq8Y7w=="/>
+
+
+		<!--
+		Côte de la Marée Sanglante
+		-->
+
+<!-- PJ <POI MapID="73" xpos="-427.281" ypos="23.6933" zpos="670.385" type="coffres.permanents.tyrie_centrale.cote_de_la_maree_sanglante" GUID="CkbzpHAAhEu+1O2UDjPqaQ=="/> -->
+
+
+		<!--
+		McM - Territoires Frontaliers Alpins (Vert)
+		-->
+
+<!-- PJ <POI MapID="95" xpos="-754.152" ypos="34.678" zpos="367.488" type="coffres.permanents.mcm.territoire_frontalier_vert" GUID="Vty95MjAOEeIQ5YqzQ5D3w=="/> -->
+<!-- PJ <POI MapID="95" xpos="-718.625" ypos="52.9473" zpos="528.16" type="coffres.permanents.mcm.territoire_frontalier_vert" GUID="uz7BaiRd2USCH/WuPD20ZQ=="/> -->
+<!-- PJ <POI MapID="95" xpos="-686.673" ypos="36.0637" zpos="579.737" type="coffres.permanents.mcm.territoire_frontalier_vert" GUID="5qsgduDLM0yldZS7CZuKjA=="/> -->
+
+
+		<!--
+		McM - Territoires Frontaliers Alpins (Bleu)
+		-->
+
+<!-- PJ <POI MapID="96" xpos="-754.078" ypos="34.5618" zpos="367.986" type="coffres.permanents.mcm.territoire_frontalier_bleu" GUID="4Q1HlXkXf0mI02k19eBuDQ=="/> -->
+<!-- PJ <POI MapID="96" xpos="-718.538" ypos="52.9415" zpos="528.079" type="coffres.permanents.mcm.territoire_frontalier_bleu" GUID="aHg11xfqHUiHIViWrvWwGA=="/> -->
+<!-- PJ <POI MapID="96" xpos="-687.158" ypos="36.0194" zpos="579.536" type="coffres.permanents.mcm.territoire_frontalier_bleu" GUID="V+xfyyUwgUyC1ZfYdIoJRQ=="/> -->
+
+
+		<!--
+		Crique de Sud-Soleil
+		-->
+
+		<POI MapID="873" xpos="-547.731" ypos="58.084" zpos="298.259" type="coffres.permanents.tyrie_centrale.crique_de_sud_soleil" GUID="LFyRwQOuR06nQU1wKvBz2A=="/>
+<!-- PJ <POI MapID="873" xpos="-426.351" ypos="38.9256" zpos="294.16" type="coffres.permanents.tyrie_centrale.crique_de_sud_soleil" GUID="zDazagjzlEuLBkKDgu+Dmg=="/> -->
+<!-- PJ <POI MapID="873" xpos="678.044" ypos="59.0201" zpos="-367.7" type="coffres.permanents.tyrie_centrale.crique_de_sud_soleil" GUID="JKrsAGo9ikOueN4qsKFMZg=="/> -->
+
+
+		<!--
+		McM - Sanctuaire d'Obsidienne
+		-->
+
+<!-- PJ <POI MapID="899" xpos="895.984" ypos="102.756" zpos="348.853" type="coffres.permanents.mcm.sanctuaire_obsidienne" GUID="PlD7rOgZsEmzpNm3e/FS8g=="/>-->
+
+
+		<!--
+		Cimesèche
+		-->
+
+		<POI MapID="988" xpos="-138.356" ypos="43.1563" zpos="-743.618" type="coffres.permanents.tyrie_centrale.cimeseche" GUID="STK0o03Ka021G0VegKXo/g=="/>
+		<POI MapID="988" xpos="165.531" ypos="18.3966" zpos="-559.581" type="coffres.permanents.tyrie_centrale.cimeseche" GUID="FhfUVsfeskGdHbuYRgduhQ=="/>
+<!-- PJ <POI MapID="988" xpos="314.567" ypos="135.803" zpos="-416.479" type="coffres.permanents.tyrie_centrale.cimeseche" GUID="Fm1zdLcrUUW0cZyRNGwJ8Q=="/> -->
+
+
+		<!--
+		Les Contrées Sauvages d'Argent
+		-->
+
+<!-- PA <POI MapID="1015" xpos="-578.579" ypos="220.118" zpos="-206.156" type="coffres.permanents.tyrie_centrale.contrees_sauvages_d_argent" GUID="oAMZHOe6YE6i+6+960wI9A=="/> -->
+<!-- PJ <POI MapID="1015" xpos="-545.072" ypos="316.635" zpos="-349.183" type="coffres.permanents.tyrie_centrale.contrees_sauvages_d_argent" GUID="JFnbIkUHLkWwMX+upIlPMg=="/> -->
+<!-- PA <POI MapID="1015" xpos="-106.141" ypos="244.07" zpos="182.243" type="coffres.permanents.tyrie_centrale.contrees_sauvages_d_argent" GUID="hBBnofLbFEKMSNPp8pGQ/w=="/> -->
+<!-- PA <POI MapID="1015" xpos="-26.507" ypos="342.441" zpos="-4.49834" type="coffres.permanents.tyrie_centrale.contrees_sauvages_d_argent" GUID="mgonWGkTk0mI5YZQXrmDQA=="/> -->
+<!-- PA <POI MapID="1015" xpos="329.862" ypos="413.256" zpos="-202.481" type="coffres.permanents.tyrie_centrale.contrees_sauvages_d_argent" GUID="BFGzuESXrUK46MfQTNOUAw=="/> -->
+
+	</POIs>
+</OverlayData>

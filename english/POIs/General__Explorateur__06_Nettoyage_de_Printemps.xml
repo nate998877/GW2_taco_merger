@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+POIs: GW2Info.net
+Date: 2016/11/29
+-->
+<OverlayData>
+	<MarkerCategory name="general" DisplayName="General">
+		<MarkerCategory name="explorateur" DisplayName="Explorer" iconFile="Img\Explorateur.png" behavior="3">
+			<MarkerCategory name="nettoyage_de_printemps" DisplayName="Cleaning Up the Neighborhood" iconFile="Img\Parchemin.png"/>
+		</MarkerCategory>
+	</MarkerCategory>
+
+	<POIs>
+
+		<POI MapID="21" xpos="-646.207" ypos="47.0182" zpos="-643.746" type="general.explorateur.nettoyage_de_printemps" GUID="Al+Lm1c4dESjgrq4Dn9i1g=="/>
+		<POI MapID="21" xpos="-516.212" ypos="51.7207" zpos="-720.617" type="general.explorateur.nettoyage_de_printemps" GUID="b+Oj6gbmKECyNIuorjuH/w=="/>
+		<POI MapID="21" xpos="-673.886" ypos="57.5914" zpos="-662.098" type="general.explorateur.nettoyage_de_printemps" GUID="Q3RFL1qpAEqgv+uk93ceOg=="/>
+		<POI MapID="21" xpos="-644.916" ypos="46.9322" zpos="-623.768" type="general.explorateur.nettoyage_de_printemps" GUID="BwYpregBC0OhSP0ZGMmZ0A=="/>
+		<POI MapID="21" xpos="-641.474" ypos="51.55" zpos="-555.331" type="general.explorateur.nettoyage_de_printemps" GUID="rn3/U/F7BkC7A2qhXgzn4A=="/>
+		<POI MapID="21" xpos="-633.573" ypos="55.4626" zpos="-523.089" type="general.explorateur.nettoyage_de_printemps" GUID="kW9AwJLMK02FkjnHydIhCg=="/>
+		<POI MapID="21" xpos="-632.36" ypos="51.7619" zpos="-697.635" type="general.explorateur.nettoyage_de_printemps" GUID="yvnOGhx7J0SeAYukmYYGXA=="/>
+		<POI MapID="21" xpos="-629.661" ypos="51.7569" zpos="-699.284" type="general.explorateur.nettoyage_de_printemps" GUID="mpmL+V4MXUasLXfIDRIUjA=="/>
+		<POI MapID="21" xpos="-627.264" ypos="51.7526" zpos="-700.722" type="general.explorateur.nettoyage_de_printemps" GUID="9yrTRIHRSkeI/4nzIQflnA=="/>
+		<POI MapID="21" xpos="-610.129" ypos="46.9248" zpos="-598.899" type="general.explorateur.nettoyage_de_printemps" GUID="dPMpOHXvQkuTROtTIKaDaw=="/>
+		<POI MapID="21" xpos="-609.477" ypos="54.8536" zpos="-512.274" type="general.explorateur.nettoyage_de_printemps" GUID="tl/a/sbvT02CHpzgdiOofA=="/>
+		<POI MapID="21" xpos="-596.651" ypos="46.9185" zpos="-571.228" type="general.explorateur.nettoyage_de_printemps" GUID="nzza3Pep6Uau3eO/CvlrUA=="/>
+		<POI MapID="21" xpos="-587.773" ypos="51.7294" zpos="-709.536" type="general.explorateur.nettoyage_de_printemps" GUID="W7Rv9jxG4kG056sPRx4k0g=="/>
+		<POI MapID="21" xpos="-576.418" ypos="47.1114" zpos="-572.1" type="general.explorateur.nettoyage_de_printemps" GUID="+LmsEo4pLEyCrQB5K+nxSQ=="/>
+		<POI MapID="21" xpos="-571.505" ypos="53.6869" zpos="-685.631" type="general.explorateur.nettoyage_de_printemps" GUID="dttSeIBZXUOaWRObXA0/CQ=="/>
+		<POI MapID="21" xpos="-571.039" ypos="46.993" zpos="-651.188" type="general.explorateur.nettoyage_de_printemps" GUID="0CpY+CcgrUS7To4f3rrDEA=="/>
+		<POI MapID="21" xpos="-567.46" ypos="47.0887" zpos="-611.377" type="general.explorateur.nettoyage_de_printemps" GUID="e8whQakG4EqOhdsE/CHYyw=="/>
+		<POI MapID="21" xpos="-561.833" ypos="56.4574" zpos="-481.618" type="general.explorateur.nettoyage_de_printemps" GUID="cBVRud/5NE+jkgZ3nr/i5w=="/>
+		<POI MapID="21" xpos="-551.291" ypos="51.3202" zpos="-553.628" type="general.explorateur.nettoyage_de_printemps" GUID="68fZo0w7NECQl5rPnsvxOQ=="/>
+		<POI MapID="21" xpos="-545.037" ypos="53.2458" zpos="-534.456" type="general.explorateur.nettoyage_de_printemps" GUID="37qgx9PQskitkUSsoeRiBg=="/>
+		<POI MapID="21" xpos="-511.162" ypos="61.2627" zpos="-489.506" type="general.explorateur.nettoyage_de_printemps" GUID="Qjt2sRz/MU2/oq4dnREx0Q=="/>
+		<POI MapID="21" xpos="-503.053" ypos="56.0738" zpos="-661.913" type="general.explorateur.nettoyage_de_printemps" GUID="3AIczt/340eDU8MjuJcZFA=="/>
+		<POI MapID="21" xpos="-501.439" ypos="51.783" zpos="-644.115" type="general.explorateur.nettoyage_de_printemps" GUID="NYuFquXQKkel/vJ0cRY71g=="/>
+		<POI MapID="21" xpos="-480.355" ypos="57.3801" zpos="-612.617" type="general.explorateur.nettoyage_de_printemps" GUID="TqmJoJbNdEC4WzHVMJrhRw=="/>
+		<POI MapID="21" xpos="-464.411" ypos="60.9049" zpos="-647.319" type="general.explorateur.nettoyage_de_printemps" GUID="z7qqFqzJFUmOns69Q3k9xQ=="/>
+		<POI MapID="21" xpos="-463.945" ypos="60.6772" zpos="-610.151" type="general.explorateur.nettoyage_de_printemps" GUID="T4w61DNQKE+IVCjisiqS3Q=="/>
+		<POI MapID="21" xpos="-462.624" ypos="69.8647" zpos="-458.554" type="general.explorateur.nettoyage_de_printemps" GUID="t0unOc/4G0CD7+qFpPXDSw=="/>
+		<POI MapID="21" xpos="-445.182" ypos="61.0976" zpos="-693.837" type="general.explorateur.nettoyage_de_printemps" GUID="bcF9wNPpYEGFmVT0QtryfA=="/>
+		<POI MapID="21" xpos="-442.706" ypos="66.6025" zpos="-564.921" type="general.explorateur.nettoyage_de_printemps" GUID="Fna4+0D3fEqmEkW7wCp3mQ=="/>
+		<POI MapID="21" xpos="-431.688" ypos="69.8816" zpos="-502.264" type="general.explorateur.nettoyage_de_printemps" GUID="51WtaxLAZUChqWtTRlz5MA=="/>
+		<POI MapID="21" xpos="-426.46" ypos="75.1515" zpos="-450.041" type="general.explorateur.nettoyage_de_printemps" GUID="UU1NfCP8UUqCQmfULOpysg=="/>
+		<POI MapID="21" xpos="-421.002" ypos="69.8778" zpos="-523.876" type="general.explorateur.nettoyage_de_printemps" GUID="VZ9nNEGUl0i15YIJGVztQA=="/>
+		<POI MapID="21" xpos="-408.909" ypos="71.1414" zpos="-605.611" type="general.explorateur.nettoyage_de_printemps" GUID="ZNvBd03ez0aHY9vZclt+GQ=="/>
+		<POI MapID="21" xpos="-408.423" ypos="73.4993" zpos="-613.909" type="general.explorateur.nettoyage_de_printemps" GUID="K9aL0rhRt0OHGY4u4qVuPQ=="/>
+		<POI MapID="21" xpos="-408.124" ypos="72.3323" zpos="-469.838" type="general.explorateur.nettoyage_de_printemps" GUID="Oz6sVGudWkSYHa3tzLjb5g=="/>
+		<POI MapID="21" xpos="-382.276" ypos="69.853" zpos="-491.644" type="general.explorateur.nettoyage_de_printemps" GUID="t1cL/92wr0eRt62MfbVreQ=="/>
+		<POI MapID="21" xpos="-381.712" ypos="68.325" zpos="-692.216" type="general.explorateur.nettoyage_de_printemps" GUID="r3RAPhi41UerDyuLN+4Tsw=="/>
+		<POI MapID="21" xpos="-371.309" ypos="69.8746" zpos="-612.44" type="general.explorateur.nettoyage_de_printemps" GUID="Y/sQ5Iay5UCAK91mNQ6btw=="/>
+		<POI MapID="21" xpos="-362.715" ypos="72.3845" zpos="-551.8" type="general.explorateur.nettoyage_de_printemps" GUID="0/na1nO9CUC1kKYeyFsNtw=="/>
+		<POI MapID="21" xpos="-449.179" ypos="61.4739" zpos="-598.049" type="general.explorateur.nettoyage_de_printemps" GUID="faCwaUSVcEalks/euxCrJg=="/>
+		<POI MapID="21" xpos="-374.73" ypos="69.8435" zpos="-512.111" type="general.explorateur.nettoyage_de_printemps" GUID="aEQoLtgaB0mftLu6hFYE8g=="/>
+
+	</POIs>
+</OverlayData>

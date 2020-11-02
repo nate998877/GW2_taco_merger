@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+POIs: ReActif.9251
+Date: 2017/03/02
+-->
+<OverlayData>
+	<MarkerCategory name="chroniques.hot">
+		<MarkerCategory name="acte_3" DisplayName="Heart of Thorns : Act 3" iconFile="Img\HeartOfThornsActe3.png">
+			<MarkerCategory name="fosse_du_desespoir" DisplayName="The Pit of Despair" iconSize="1.5">
+				<MarkerCategory name="trajet" DisplayName="Trajet" iconFile="Img\Guide.png" iconSize="0.75" heightOffset="0" behavior="0"/>
+			</MarkerCategory>
+		</MarkerCategory>
+	</MarkerCategory>
+
+	<POIs>
+
+		<!-- Entrée (Succès) -->
+		<POI MapID="1046" xpos="-655.04" ypos="78.32" zpos="-83.55" type="chroniques.hot.acte_3.fosse_du_desespoir" GUID="j4iHE8auLkO+2vQ5mO/EWg=="/>
+
+		<!-- Route -->
+		<Route MapID="1046" name="FosseDuDesespoir" resetposx="-655.04" resetposy="78.32" resetposz="-83.55" resetrange="2" triggerRange="1">
+			<POI MapID="1046" xpos="-659.62" ypos="78.4765" zpos="-83.7999" type="chroniques.hot.acte_3.fosse_du_desespoir.trajet" GUID="QBHhisi0gUaHh8Lhs3YJEQ=="/>
+			<POI MapID="1046" xpos="-662.505" ypos="81.6484" zpos="-86.6473" type="chroniques.hot.acte_3.fosse_du_desespoir.trajet" GUID="joSCjakV30SOi5pob97raw=="/>
+			<POI MapID="1046" xpos="-665.36" ypos="82.3002" zpos="-84.9657" type="chroniques.hot.acte_3.fosse_du_desespoir.trajet" GUID="gOUb58Hd+0epm939gen6EA=="/>
+			<POI MapID="1046" xpos="-666.299" ypos="84.2332" zpos="-86.396" type="chroniques.hot.acte_3.fosse_du_desespoir.trajet" GUID="PG8lfFjlG0ijPmwx8vnFlQ=="/>
+			<POI MapID="1046" xpos="-668.934" ypos="86.3043" zpos="-85.592" type="chroniques.hot.acte_3.fosse_du_desespoir.trajet" GUID="C78OeUBcI0GWNBw7XobMFQ=="/>
+			<POI MapID="1046" xpos="-671.806" ypos="88.0236" zpos="-85.5771" type="chroniques.hot.acte_3.fosse_du_desespoir.trajet" GUID="/lNhltfLG06xBe149deeHg=="/>
+			<POI MapID="1046" xpos="-675.564" ypos="89.1702" zpos="-86.3591" type="chroniques.hot.acte_3.fosse_du_desespoir.trajet" GUID="0coEo0n6BE682TImQIKswA=="/>
+			<POI MapID="1046" xpos="-678.245" ypos="90.3381" zpos="-85.4339" type="chroniques.hot.acte_3.fosse_du_desespoir.trajet" GUID="ceqXJ7wha0ucp9p9Ev8ueQ=="/>
+			<POI MapID="1046" xpos="-681.932" ypos="89.7435" zpos="-86.9698" type="chroniques.hot.acte_3.fosse_du_desespoir.trajet" GUID="8U7Mi2+DYUC3LikNKWUnTg=="/>
+			<POI MapID="1046" xpos="-685.225" ypos="90.5514" zpos="-88.4501" type="chroniques.hot.acte_3.fosse_du_desespoir.trajet" GUID="rJwzR52PYEOLEnNvAQNmsQ=="/>
+			<POI MapID="1046" xpos="-689.678" ypos="90.8982" zpos="-88.4635" type="chroniques.hot.acte_3.fosse_du_desespoir.trajet" GUID="OFl9GGOSf0GrNToLO7MQSQ=="/>
+			<POI MapID="1046" xpos="-693.609" ypos="91.3219" zpos="-89.2609" type="chroniques.hot.acte_3.fosse_du_desespoir.trajet" GUID="M7qEkalko06mC4ov/NZybQ=="/>
+			<POI MapID="1046" xpos="-697.004" ypos="92.5796" zpos="-91.3167" type="chroniques.hot.acte_3.fosse_du_desespoir.trajet" GUID="sQjP9O+VXkeoKtNyj9i1Mw=="/>
+			<POI MapID="1046" xpos="-701.617" ypos="92.1407" zpos="-92.424" type="chroniques.hot.acte_3.fosse_du_desespoir.trajet" GUID="sMdKSueFbUCBPbAIbVTvdA=="/>
+			<POI MapID="1046" xpos="-705.598" ypos="92.0489" zpos="-93.7543" type="chroniques.hot.acte_3.fosse_du_desespoir.trajet" GUID="FmxBVWXM0ECliU5GVm8K3A=="/>
+			<POI MapID="1046" xpos="-710.353" ypos="92.0192" zpos="-94.731" type="chroniques.hot.acte_3.fosse_du_desespoir.trajet" GUID="22CWJQ4R+kOzyavVCZLx7g=="/>
+			<POI MapID="1046" xpos="-715.518" ypos="85.9153" zpos="-96.9797" type="chroniques.hot.acte_3.fosse_du_desespoir.trajet" GUID="9Rer/tHrYUyvBRuBRnB9Mg=="/>
+			<POI MapID="1046" xpos="-719.798" ypos="84.3185" zpos="-99.1661" type="chroniques.hot.acte_3.fosse_du_desespoir.trajet" GUID="wHfxnKUzZkGFSleRq19BdQ=="/>
+			<POI MapID="1046" xpos="-727.585" ypos="77.9893" zpos="-106.318" type="chroniques.hot.acte_3.fosse_du_desespoir.trajet" GUID="fzc5mGFPg0avkMwNNlrpGA=="/>
+			<POI MapID="1046" xpos="-730.736" ypos="77.1874" zpos="-108.946" type="chroniques.hot.acte_3.fosse_du_desespoir.trajet" GUID="PZTvBpy6WUmVqwvhgRCdJg=="/>
+			<POI MapID="1046" xpos="-732.718" ypos="77.7224" zpos="-112.285" type="chroniques.hot.acte_3.fosse_du_desespoir.trajet" GUID="7epuFV58m0aV5gg5cccecw=="/>
+			<POI MapID="1046" xpos="-733.922" ypos="77.2693" zpos="-116.009" type="chroniques.hot.acte_3.fosse_du_desespoir.trajet" GUID="HDb1r9EouECf6KfK7nxx5Q=="/>
+			<POI MapID="1046" xpos="-735.289" ypos="76.1807" zpos="-120.194" type="chroniques.hot.acte_3.fosse_du_desespoir.trajet" GUID="X117f8W5oUiYoU0OszHf4g=="/>
+			<POI MapID="1046" xpos="-735.006" ypos="75.223" zpos="-123.134" type="chroniques.hot.acte_3.fosse_du_desespoir.trajet" GUID="4O1Us7FQH0uOzQSZRVfinA=="/>
+			<POI MapID="1046" xpos="-734.02" ypos="75.3354" zpos="-126.946" type="chroniques.hot.acte_3.fosse_du_desespoir.trajet" GUID="3///eK9MsEWDF+8XW2dw8A=="/>
+			<POI MapID="1046" xpos="-732.782" ypos="77.1352" zpos="-129.711" type="chroniques.hot.acte_3.fosse_du_desespoir.trajet" GUID="xBV2urKWjE6e+KtbHQ9Sjw=="/>
+			<POI MapID="1046" xpos="-732.872" ypos="77.8481" zpos="-133.404" type="chroniques.hot.acte_3.fosse_du_desespoir.trajet" GUID="/p98wqivD0+c1omGFFIS/g=="/>
+			<POI MapID="1046" xpos="-734.382" ypos="80.216" zpos="-137.586" type="chroniques.hot.acte_3.fosse_du_desespoir.trajet" GUID="vpn0va88uEO+I3nV8Z7zqA=="/>
+			<POI MapID="1046" xpos="-737.466" ypos="78.6289" zpos="-141.327" type="chroniques.hot.acte_3.fosse_du_desespoir.trajet" GUID="8WIJ9PzuX0yv9HUPrg9S2Q=="/>
+			<POI MapID="1046" xpos="-740.824" ypos="78.6087" zpos="-141.079" type="chroniques.hot.acte_3.fosse_du_desespoir.trajet" GUID="P4ikWH1OrkSL3a/wOXpBwQ=="/>
+			<POI MapID="1046" xpos="-743.339" ypos="78.8029" zpos="-138.541" type="chroniques.hot.acte_3.fosse_du_desespoir.trajet" GUID="0qX26JOcjUiPhRWHWd9ZYw=="/>
+			<POI MapID="1046" xpos="-745.091" ypos="79.5705" zpos="-135.42" type="chroniques.hot.acte_3.fosse_du_desespoir.trajet" GUID="TtT+O0NdtUiF7pGoxxQj6g=="/>
+			<POI MapID="1046" xpos="-748.966" ypos="78.0182" zpos="-134.212" type="chroniques.hot.acte_3.fosse_du_desespoir.trajet" GUID="SzXyS15iBUqL/UkzBbLFIQ=="/>
+			<POI MapID="1046" xpos="-752.118" ypos="78.4052" zpos="-133.346" type="chroniques.hot.acte_3.fosse_du_desespoir.trajet" GUID="YCXvMf0md0+YCUwAZxpoRA=="/>
+			<POI MapID="1046" xpos="-756.263" ypos="78.1447" zpos="-134.934" type="chroniques.hot.acte_3.fosse_du_desespoir.trajet" GUID="C5UhMz97QE6jXZi2mz/dpw=="/>
+			<POI MapID="1046" xpos="-757.642" ypos="78.6295" zpos="-138.265" type="chroniques.hot.acte_3.fosse_du_desespoir.trajet" GUID="3uW/HIqTkEOd/v5y/c1gqw=="/>
+			<POI MapID="1046" xpos="-754.976" ypos="78.2136" zpos="-141.396" type="chroniques.hot.acte_3.fosse_du_desespoir.trajet" GUID="HXWlQu8tnEeE9TjpMm9Aaw=="/>
+			<POI MapID="1046" xpos="-753.015" ypos="79.4329" zpos="-143.797" type="chroniques.hot.acte_3.fosse_du_desespoir.trajet" GUID="D6T3Xk95X02zyMagJraxMg=="/>
+			<POI MapID="1046" xpos="-755.052" ypos="78.806" zpos="-146.81" type="chroniques.hot.acte_3.fosse_du_desespoir.trajet" GUID="sxC98e4qzEaOnSTHe571Jw=="/>
+			<POI MapID="1046" xpos="-756.438" ypos="78.9477" zpos="-148.95" type="chroniques.hot.acte_3.fosse_du_desespoir.trajet" GUID="GvJ5V/HlL0O4fxtX+NoJNg=="/>
+			<POI MapID="1046" xpos="-756.544" ypos="80.9681" zpos="-151.564" type="chroniques.hot.acte_3.fosse_du_desespoir.trajet" GUID="AiDdsSyc60yParQFYXmEkQ=="/>
+			<POI MapID="1046" xpos="-758.954" ypos="79.5971" zpos="-152.751" type="chroniques.hot.acte_3.fosse_du_desespoir.trajet" GUID="6xaPayqNWkGcAGA8zzRhEw=="/>
+			<POI MapID="1046" xpos="-761.613" ypos="78.5634" zpos="-155.794" type="chroniques.hot.acte_3.fosse_du_desespoir.trajet" GUID="YKh7Whm8aESzQRxX3gUTzQ=="/>
+			<POI MapID="1046" xpos="-764.516" ypos="78.4509" zpos="-158.383" type="chroniques.hot.acte_3.fosse_du_desespoir.trajet" GUID="+sbeCZW8iES8k3rtAIijvQ=="/>
+			<POI MapID="1046" xpos="-767.316" ypos="78.8004" zpos="-160.146" type="chroniques.hot.acte_3.fosse_du_desespoir.trajet" GUID="eDQ2yRiO6kanLxy69lxnKw=="/>
+			<POI MapID="1046" xpos="-770.774" ypos="79.3534" zpos="-161.746" type="chroniques.hot.acte_3.fosse_du_desespoir.trajet" GUID="paHsY+OKE0+gJKPjf3Ryww=="/>
+			<POI MapID="1046" xpos="-773.525" ypos="78.8249" zpos="-159.881" type="chroniques.hot.acte_3.fosse_du_desespoir.trajet" GUID="UmK/DbwnIE6ZcZqgEJawBw=="/>
+			<POI MapID="1046" xpos="-777.128" ypos="77.5238" zpos="-155.593" type="chroniques.hot.acte_3.fosse_du_desespoir.trajet" GUID="MO+/9PIsT0uFHf+O7tgvvA=="/>
+			<POI MapID="1046" xpos="-780.92" ypos="79.2613" zpos="-153.748" type="chroniques.hot.acte_3.fosse_du_desespoir.trajet" GUID="fXLe7SH33k+lKcAVJj5SPQ=="/>
+			<POI MapID="1046" xpos="-782.814" ypos="79.6138" zpos="-150.761" type="chroniques.hot.acte_3.fosse_du_desespoir.trajet" GUID="hX3sTLRVIEqv3wdpDtJjrQ=="/>
+			<POI MapID="1046" xpos="-784.681" ypos="79.3846" zpos="-148.194" type="chroniques.hot.acte_3.fosse_du_desespoir.trajet" GUID="v5mPUw3LFkii8L2ej/bGTg=="/>
+			<POI MapID="1046" xpos="-783.96" ypos="80.6035" zpos="-144.893" type="chroniques.hot.acte_3.fosse_du_desespoir.trajet" GUID="e4KUtvOVMU6CljsrAN6jEQ=="/>
+			<POI MapID="1046" xpos="-780.441" ypos="76.1398" zpos="-143.597" type="chroniques.hot.acte_3.fosse_du_desespoir.trajet" GUID="7pOVnOCiA0u076uLgC+SzA=="/>
+			<POI MapID="1046" xpos="-776.564" ypos="78.812" zpos="-142.874" type="chroniques.hot.acte_3.fosse_du_desespoir.trajet" GUID="f/sEeGbZwkerwzx7N1/eww=="/>
+			<POI MapID="1046" xpos="-772.9" ypos="79.9627" zpos="-140.218" type="chroniques.hot.acte_3.fosse_du_desespoir.trajet" GUID="DOuWq2HMcUOgvhmJyorUww=="/>
+			<POI MapID="1046" xpos="-770.862" ypos="79.821" zpos="-136.691" type="chroniques.hot.acte_3.fosse_du_desespoir.trajet" GUID="oE4Sz1zIzEmujSVtCtrw6Q=="/>
+			<POI MapID="1046" xpos="-769.335" ypos="80.1603" zpos="-133.31" type="chroniques.hot.acte_3.fosse_du_desespoir.trajet" GUID="7R66Yed4v0Snyh3XXeiHAQ=="/>
+			<POI MapID="1046" xpos="-769.467" ypos="79.702" zpos="-129.031" type="chroniques.hot.acte_3.fosse_du_desespoir.trajet" GUID="ZIZho2nEwUe4xrKy73L3Tw=="/>
+			<POI MapID="1046" xpos="-777.08" ypos="70.623" zpos="-124.704" type="chroniques.hot.acte_3.fosse_du_desespoir.trajet" GUID="5yjoUhaWUUimi/fyQYa1Vg=="/>
+			<POI MapID="1046" xpos="-782.157" ypos="72.6775" zpos="-123.79" type="chroniques.hot.acte_3.fosse_du_desespoir.trajet" GUID="jSaaP7cX1EeTtXQW5WrQQQ=="/>
+			<POI MapID="1046" xpos="-785.707" ypos="73.6623" zpos="-124.016" type="chroniques.hot.acte_3.fosse_du_desespoir.trajet" GUID="9mAF3RqmdkGVQPBnXIokYw=="/>
+			<POI MapID="1046" xpos="-789.602" ypos="74.8165" zpos="-125.485" type="chroniques.hot.acte_3.fosse_du_desespoir.trajet" GUID="KWtffjRtr0+oPljQq+eS2g=="/>
+			<POI MapID="1046" xpos="-793.487" ypos="75.897" zpos="-127.432" type="chroniques.hot.acte_3.fosse_du_desespoir.trajet" GUID="SSu7Pk0djEWijFt40VwaTg=="/>
+			<POI MapID="1046" xpos="-797.318" ypos="76.1821" zpos="-129.716" type="chroniques.hot.acte_3.fosse_du_desespoir.trajet" GUID="21DiBPIN+0eqIuDsgAzrgQ=="/>
+		</Route>
+
+	</POIs>
+</OverlayData>

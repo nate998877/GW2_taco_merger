@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+POIs: GW2Info.net
+Date: 2016/11/29
+-->
+<OverlayData>
+	<MarkerCategory name="general" DisplayName="General">
+		<MarkerCategory name="explorateur" DisplayName="Explorer" iconFile="Img\Explorateur.png" behavior="3">
+			<MarkerCategory name="feru_d_histoire" DisplayName="History Buff" iconFile="Img\Plaque.png"/>
+		</MarkerCategory>
+	</MarkerCategory>
+
+	<POIs>
+
+		<POI MapID="50" xpos="359.9595" ypos="30.2809" zpos="-55.6018" type="general.explorateur.feru_d_histoire" GUID="ezU2QjNFMDA=="/>
+		<POI MapID="50" xpos="134.9184" ypos="37.5573" zpos="-47.6708" type="general.explorateur.feru_d_histoire" GUID="ezVFRkM5MDU=="/>
+		<POI MapID="50" xpos="-101.0055" ypos="11.2408" zpos="-202.4662" type="general.explorateur.feru_d_histoire" GUID="e0MxMUQyOEM=="/>
+		<POI MapID="50" xpos="-52.851" ypos="2.7172" zpos="-198.7456" type="general.explorateur.feru_d_histoire" GUID="ezU0Qzc0NTg=="/>
+		<POI MapID="50" xpos="-230.0095" ypos="35.3449" zpos="-334.8234" type="general.explorateur.feru_d_histoire" GUID="ezhBMEE2MUM=="/>
+		<POI MapID="50" xpos="-214.9011" ypos="-61.036" zpos="-238.1466" type="general.explorateur.feru_d_histoire" GUID="e0IyOUVBODM=="/>
+		<POI MapID="50" xpos="-328.1554" ypos="2.167" zpos="-8.5254" type="general.explorateur.feru_d_histoire" GUID="e0ZGQzUyNDA=="/>
+		<POI MapID="50" xpos="-158.7057" ypos="21.8924" zpos="16.4496" type="general.explorateur.feru_d_histoire" GUID="e0ZFMEM1NkY=="/>
+		<POI MapID="50" xpos="-161.0952" ypos="22.1588" zpos="181.032" type="general.explorateur.feru_d_histoire" GUID="ezNCRjAxRjM=="/>
+		<POI MapID="50" xpos="-310.7417" ypos="47.8572" zpos="181.3585" type="general.explorateur.feru_d_histoire" GUID="ezlEQTkzRUE=="/>
+		<POI MapID="50" xpos="-567.5924" ypos="6.9713" zpos="134.2567" type="general.explorateur.feru_d_histoire" GUID="e0EwNkVDMTA=="/>
+		<POI MapID="65" xpos="-1070.21" ypos="-71.6809" zpos="-18.0715" type="general.explorateur.feru_d_histoire" GUID="UhFYNz35DkWLkic/A+4pNg=="/>
+
+	</POIs>
+</OverlayData>

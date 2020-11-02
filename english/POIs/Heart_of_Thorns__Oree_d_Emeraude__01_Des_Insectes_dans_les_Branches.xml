@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+POIs: TMKFrench.6427
+Date: 2017/08/22
+-->
+<OverlayData>
+	<MarkerCategory name="heart_of_thorns.oree_d_emeraude">
+		<MarkerCategory name="des_insectes_dans_les_branches" DisplayName="Bugs in the Branches" iconFile="Img\Guide.png"/>
+	</MarkerCategory>
+
+	<POIs>
+
+		<!-- Début -->
+		<POI MapID="1052" xpos="918.677" ypos="357.681" zpos="265.573" type="heart_of_thorns.oree_d_emeraude.des_insectes_dans_les_branches" GUID="WKCwnx7y5kCIVQgI0nyW9w==" iconFile="Img\AventureActive.png" behavior="0"/>
+
+		<!-- Route -->
+		<Route MapID="1052" name="Des_Insectes_dans_les_Branches" resetposx="918.677" resetposy="357.681" resetposz="265.573" resetrange="2">
+			<POI MapID="1052" xpos="914.854" ypos="355.761" zpos="276.264" type="heart_of_thorns.oree_d_emeraude.des_insectes_dans_les_branches" GUID="sp2yxFYGN0uWdfQoTqNv4A=="/>
+			<POI MapID="1052" xpos="906.154" ypos="356.184" zpos="279.111" type="heart_of_thorns.oree_d_emeraude.des_insectes_dans_les_branches" GUID="0dIVWfbca0+UVEXotmEnFA=="/>
+			<POI MapID="1052" xpos="893.758" ypos="363.252" zpos="281.587" type="heart_of_thorns.oree_d_emeraude.des_insectes_dans_les_branches" GUID="XB9Rn+vYrkGgWK79Z3K4Qg=="/>
+			<POI MapID="1052" xpos="883.961" ypos="362.415" zpos="286.96" type="heart_of_thorns.oree_d_emeraude.des_insectes_dans_les_branches" GUID="CoOm/FMJ0E+tmIyxRpjkbA=="/>
+			<POI MapID="1052" xpos="871.295" ypos="361.635" zpos="292.043" type="heart_of_thorns.oree_d_emeraude.des_insectes_dans_les_branches" GUID="bJFaqG3ZAUSLyGh/AJUx6Q=="/>
+			<POI MapID="1052" xpos="864.476" ypos="360.616" zpos="294.363" type="heart_of_thorns.oree_d_emeraude.des_insectes_dans_les_branches" GUID="t2Jkm8ws7UuDbUSITgnhFg=="/>
+			<POI MapID="1052" xpos="862.199" ypos="362.878" zpos="295.268" type="heart_of_thorns.oree_d_emeraude.des_insectes_dans_les_branches" GUID="U3/efoAn1kGv6KUM5hhkIw=="/>
+			<POI MapID="1052" xpos="845.881" ypos="389.53" zpos="328.714" type="heart_of_thorns.oree_d_emeraude.des_insectes_dans_les_branches" GUID="tle9eNNnDEOJX079dcTRFw==" iconFile="Img\DeltaPlane.png" iconSize="2" triggerRange="5"/>
+			<POI MapID="1052" xpos="869.94" ypos="368.138" zpos="326.339" type="heart_of_thorns.oree_d_emeraude.des_insectes_dans_les_branches" GUID="IGEAn7G4QE2DpaQ6jnZG6A=="/>
+			<POI MapID="1052" xpos="877.618" ypos="373.622" zpos="316.886" type="heart_of_thorns.oree_d_emeraude.des_insectes_dans_les_branches" GUID="Bm8DV4JelUG2cJsZljayFA=="/>
+			<POI MapID="1052" xpos="881.252" ypos="373.408" zpos="314.617" type="heart_of_thorns.oree_d_emeraude.des_insectes_dans_les_branches" GUID="BHqlt7VXWkywcghAxW/C6Q=="/>
+			<POI MapID="1052" xpos="883.922" ypos="375.87" zpos="310.809" type="heart_of_thorns.oree_d_emeraude.des_insectes_dans_les_branches" GUID="tiBB+f5P7EWFlLck6gYIBA=="/>
+			<POI MapID="1052" xpos="884.842" ypos="376.278" zpos="317.41" type="heart_of_thorns.oree_d_emeraude.des_insectes_dans_les_branches" GUID="COyzrEoZu0+/FPmkNYPf1g==" triggerRange="5"/>
+			<POI MapID="1052" xpos="877.336" ypos="373.11" zpos="325.705" type="heart_of_thorns.oree_d_emeraude.des_insectes_dans_les_branches" GUID="WHeDKQjA1E+QtftcLde65w==" triggerRange="5"/>
+			<POI MapID="1052" xpos="879.039" ypos="368.474" zpos="332.611" type="heart_of_thorns.oree_d_emeraude.des_insectes_dans_les_branches" GUID="QZU3jdjpJEGm8oImmdbTiA=="/>
+			<POI MapID="1052" xpos="882.51" ypos="369.248" zpos="333.761" type="heart_of_thorns.oree_d_emeraude.des_insectes_dans_les_branches" GUID="GY2LitlDTUeGv5Ovq/DU+g=="/>
+			<POI MapID="1052" xpos="884.322" ypos="369.056" zpos="330.986" type="heart_of_thorns.oree_d_emeraude.des_insectes_dans_les_branches" GUID="dta8v8oGT0WVaXMwCVp/aw=="/>
+			<POI MapID="1052" xpos="887.113" ypos="363.9" zpos="327.421" type="heart_of_thorns.oree_d_emeraude.des_insectes_dans_les_branches" GUID="3Imjz7KwoEmoPouCb2ImOw=="/>
+			<POI MapID="1052" xpos="905.305" ypos="349.621" zpos="305.844" type="heart_of_thorns.oree_d_emeraude.des_insectes_dans_les_branches" GUID="W0t/OtPEZ0iYS5F6xXXoBA=="/>
+			<POI MapID="1052" xpos="891.89" ypos="346.588" zpos="304.739" type="heart_of_thorns.oree_d_emeraude.des_insectes_dans_les_branches" GUID="BkO0owQez0yVJyA1Di8eHQ=="/>
+			<POI MapID="1052" xpos="897.869" ypos="336.508" zpos="320.018" type="heart_of_thorns.oree_d_emeraude.des_insectes_dans_les_branches" GUID="blnJDkgGOEmzNVJpHb/qQg=="/>
+			<POI MapID="1052" xpos="909.812" ypos="332.209" zpos="327.097" type="heart_of_thorns.oree_d_emeraude.des_insectes_dans_les_branches" GUID="JSdbynGF1UCMuDrJygUPvQ=="/>
+			<POI MapID="1052" xpos="881.828" ypos="325.724" zpos="348.944" type="heart_of_thorns.oree_d_emeraude.des_insectes_dans_les_branches" GUID="BbuaHLOmE0ym5OGo9BtioQ=="/>
+			<POI MapID="1052" xpos="870.812" ypos="325.681" zpos="354.472" type="heart_of_thorns.oree_d_emeraude.des_insectes_dans_les_branches" GUID="pguHVfdEeESes6tVGKa7tw=="/>
+			<POI MapID="1052" xpos="866.387" ypos="329.881" zpos="341.44" type="heart_of_thorns.oree_d_emeraude.des_insectes_dans_les_branches" GUID="6MiSA3er7E2BvXzVzoX4HQ=="/>
+			<POI MapID="1052" xpos="860.697" ypos="327.439" zpos="329.64" type="heart_of_thorns.oree_d_emeraude.des_insectes_dans_les_branches" GUID="pM8K0HFClESzUhSEtkXXzg=="/>
+			<POI MapID="1052" xpos="851.46" ypos="329.601" zpos="315.778" type="heart_of_thorns.oree_d_emeraude.des_insectes_dans_les_branches" GUID="fQ7FW3tkCUeINcrRr1Rv3w=="/>
+			<POI MapID="1052" xpos="863.076" ypos="326.788" zpos="310.169" type="heart_of_thorns.oree_d_emeraude.des_insectes_dans_les_branches" GUID="vinUchkDoUWdh4YKXJOhAA=="/>
+			<POI MapID="1052" xpos="866.127" ypos="327.15" zpos="314.439" type="heart_of_thorns.oree_d_emeraude.des_insectes_dans_les_branches" GUID="RnHDytI3cEWq+EyF4tcLpQ=="/>
+			<POI MapID="1052" xpos="871.515" ypos="317.346" zpos="324.328" type="heart_of_thorns.oree_d_emeraude.des_insectes_dans_les_branches" GUID="pB+B5UKoX0O8sR2imCkqiA=="/>
+			<POI MapID="1052" xpos="867.281" ypos="320.928" zpos="318.361" type="heart_of_thorns.oree_d_emeraude.des_insectes_dans_les_branches" GUID="UoH7QwVJkE6IhYERedZOWw=="/>
+			<POI MapID="1052" xpos="866.795" ypos="323.144" zpos="327.552" type="heart_of_thorns.oree_d_emeraude.des_insectes_dans_les_branches" GUID="e66yL+SXBECY2HskP5pbfw=="/>
+			<POI MapID="1052" xpos="868.029" ypos="323.557" zpos="334.567" type="heart_of_thorns.oree_d_emeraude.des_insectes_dans_les_branches" GUID="P2rtTihP+kWn1GdVyaet0A=="/>
+			<POI MapID="1052" xpos="871.084" ypos="325.6" zpos="334.348" type="heart_of_thorns.oree_d_emeraude.des_insectes_dans_les_branches" GUID="RypNrlnXUk+NpFkJ8MCtgQ=="/>
+			<POI MapID="1052" xpos="880.991" ypos="320.907" zpos="338.449" type="heart_of_thorns.oree_d_emeraude.des_insectes_dans_les_branches" GUID="gglkP6XoEEq79qQKs+Wn/w=="/>
+			<POI MapID="1052" xpos="889.371" ypos="328.365" zpos="328.092" type="heart_of_thorns.oree_d_emeraude.des_insectes_dans_les_branches" GUID="mVP+C3yRtUW47WqBU6KOfw=="/>
+			<POI MapID="1052" xpos="906.916" ypos="321.025" zpos="334.023" type="heart_of_thorns.oree_d_emeraude.des_insectes_dans_les_branches" GUID="j75gDJoFLkeeSQKYs+dr8g=="/>
+			<POI MapID="1052" xpos="920.187" ypos="316.644" zpos="306.044" type="heart_of_thorns.oree_d_emeraude.des_insectes_dans_les_branches" GUID="Nyiv7U/fz0+1fj8gHkMsGw=="/>
+			<POI MapID="1052" xpos="916.093" ypos="318.096" zpos="303.606" type="heart_of_thorns.oree_d_emeraude.des_insectes_dans_les_branches" GUID="n0SqeArBJ0CSXTE/FIKMEQ=="/>
+			<POI MapID="1052" xpos="901.873" ypos="346.66" zpos="285.31" type="heart_of_thorns.oree_d_emeraude.des_insectes_dans_les_branches" GUID="cxCAy6ytKEGc94o4KoAnPw=="/>
+			<POI MapID="1052" xpos="889.032" ypos="346.657" zpos="288.054" type="heart_of_thorns.oree_d_emeraude.des_insectes_dans_les_branches" GUID="sxGy/q8Sr0OSRep8Nacxrw=="/>
+			<POI MapID="1052" xpos="879.433" ypos="347.145" zpos="291.603" type="heart_of_thorns.oree_d_emeraude.des_insectes_dans_les_branches" GUID="tyQ1FZOEQkeCvoZ2WG9jkA=="/>
+			<POI MapID="1052" xpos="890.427" ypos="324.714" zpos="308.517" type="heart_of_thorns.oree_d_emeraude.des_insectes_dans_les_branches" GUID="fslCnWAS8EitmB97cAFcVA=="/>
+		</Route>
+
+	</POIs>
+</OverlayData>

@@ -1,0 +1,345 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+POIs: ReActif.9251
+Date: 2017/08/01
+-->
+<OverlayData>
+	<MarkerCategory name="chroniques.saison_3">
+		<MarkerCategory name="ep6_le_bout_du_chemin" DisplayName="Ep.6 - One Path Ends" iconFile="Img\LeBoutduChemin.png">
+			<MarkerCategory name="ascension_d_abaddon" DisplayName="Abaddon's Ascent" iconFile="Img\Guide.png" iconSize="0.75" heightOffset="0" behavior="0">
+				<MarkerCategory name="debut" DisplayName="Start" iconFile="Img\PuzzleDebut.png" iconSize="1.5" heightOffset="2"/>
+			</MarkerCategory>
+		</MarkerCategory>
+	</MarkerCategory>
+
+	<POIs>
+
+		<!-- Début -->
+		<POI MapID="1203" xpos="585.562" ypos="4.11485" zpos="233.095" type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon.debut" GUID="CnWa23/SzUeqD+5joXD5Cg=="/>
+
+		<!-- Route -->
+		<Route MapID="1203" name="Ascension_Abaddon" resetposx="585.562" resetposy="4.11485" resetposz="233.095" resetrange="2">
+			<POI MapID="1203" xpos="583.382" ypos="7.82843" zpos="228.568" type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="V4c6h0KnMUmjfsp46R260Q=="/>
+			<POI MapID="1203" xpos="575.074" ypos="13.8634" zpos="223.448" type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="vCzdBX+cAkOhPnSAVmw5GA=="/>
+			<POI MapID="1203" xpos="574.135" ypos="20.8336" zpos="212.126" type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="T/1E+EmixkCzvMJDK/GqoA=="/>
+			<POI MapID="1203" xpos="563.562" ypos="27.9573" zpos="206.562" type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="IXRZWCy6L0WkwD6M7ETq6g=="/>
+			<POI MapID="1203" xpos="555.639" ypos="34.4077" zpos="200.493" type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="ne6UOgEqo0ejhnbeKzl+hg=="/>
+			<POI MapID="1203" xpos="548.73"  ypos="41.1299" zpos="195.069" type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="wTeO9S1qTEWfyyjWFq9DJQ=="/>
+			<POI MapID="1203" xpos="544.937" ypos="44.1684" zpos="193.062" type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="qWlM70l1UEmV7vG8Jv4qmg=="/>
+			<POI MapID="1203" xpos="538.002" ypos="46.4895" zpos="186.746" type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="c1DpAbWlZ0eMVMrfGxIz6w=="/>
+			<POI MapID="1203" xpos="533.119" ypos="48.2763" zpos="177.674" type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="LU47xklijUalvQ91taYSaA=="/>
+			<POI MapID="1203" xpos="538.123" ypos="54.7261" zpos="183.328" type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="1KqKWIBXQ0GceZ2K/ogW2Q=="/>
+			<POI MapID="1203" xpos="544"     ypos="62.9851" zpos="190.969" type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="kFLQ+c0sckmjKEIb5S7QPQ=="/>
+			<POI MapID="1203" xpos="548.934" ypos="69.797"  zpos="197.179" type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="xh5woc5Y9U6hzn3+psVPDA=="/>
+			<POI MapID="1203" xpos="553.616" ypos="76.5725" zpos="203.618" type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="hRomMwcNfkm7nypns0Vd4A=="/>
+			<POI MapID="1203" xpos="557.673" ypos="82.3237" zpos="208.985" type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="UUrA2O3GJEqEpGxDoiKgiw==" iconFile="Img\DeltaplaneDepart-EN.png" heightOffset="1"/>
+			<POI MapID="1203" xpos="576.481" ypos="78.6747" zpos="195.048" type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="T+E4dmKxRk+Z+WMT7lU1lg==" iconFile="Img\DeltaplaneStop.png" heightOffset="1"/>
+			<POI MapID="1203" xpos="586.646" ypos="83.1857" zpos="191.859" type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="5OgywTJT50qF8kxcPOymIQ=="/>
+			<POI MapID="1203" xpos="596.921" ypos="83.0901" zpos="190.71"  type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="/bMbh+PcRk+1YbNDK4da2A=="/>
+			<POI MapID="1203" xpos="604.45"  ypos="74.866"  zpos="189.249" type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="c0hQR6UbuUCCHUgDRSkGtQ=="/>
+			<POI MapID="1203" xpos="608.03"  ypos="75.459"  zpos="179.884" type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="isC5wd5t00GL7E8UYVJG7Q=="/>
+			<POI MapID="1203" xpos="611.931" ypos="77.4185" zpos="171.455" type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="gTzegpGP1Uupped1PxzOqg=="/>
+			<POI MapID="1203" xpos="616.484" ypos="79.9756" zpos="165.885" type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="husyIxmVI0KYNNIbasEZAg=="/>
+			<POI MapID="1203" xpos="621.603" ypos="82.1812" zpos="162.315" type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="WokCmnVGoUq5gHbis7186Q=="/>
+			<POI MapID="1203" xpos="623.6"   ypos="81.1931" zpos="153.917" type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="zn3DBp6GFk6FslQbfinFZQ=="/>
+			<POI MapID="1203" xpos="621.934" ypos="84.2923" zpos="144.775" type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="0tUdR7N9J0Kuokpn7Ewkrg=="/>
+			<POI MapID="1203" xpos="620.247" ypos="86.5815" zpos="132.825" type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="elFfklp3u0+9bVlyaMseNA=="/>
+			<POI MapID="1203" xpos="620.293" ypos="88.4511" zpos="123.695" type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="cM6SAMCRk0qMa+jOb9UH+g=="/>
+			<POI MapID="1203" xpos="621.557" ypos="92.0651" zpos="116.743" type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="trof2uoZ7k6c8q0GjxiCXg=="/>
+			<POI MapID="1203" xpos="615.46"  ypos="95.0475" zpos="107.688" type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="8fxf3QSHSUeRh7pwWSOcBg=="/>
+			<POI MapID="1203" xpos="607.051" ypos="92.0229" zpos="101.939" type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="bF3iHnvMK0ywhGFa0nLsSA=="/>
+			<POI MapID="1203" xpos="600.287" ypos="95.0154" zpos="97.2153" type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="kpKDiQXyyk6F41SWdpPHiA==" iconFile="Img\DeltaplaneDepart-EN.png" heightOffset="1"/>
+			<POI MapID="1203" xpos="589.81"  ypos="90.5011" zpos="102.952" type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="+innb72FcUmEVd5okHv60Q==" iconFile="Img\DeltaplaneStop.png" heightOffset="1"/>
+			<POI MapID="1203" xpos="583.722" ypos="94.2203" zpos="106.159" type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="gDE9eEt/okuASgc0alHtpA=="/>
+			<POI MapID="1203" xpos="575.704" ypos="96.6459" zpos="104.301" type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="pezrRYiD+Ea42Z1qyZ1gxw=="/>
+			<POI MapID="1203" xpos="566.311" ypos="99.4914" zpos="102.004" type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="6Rw2TiriwUmt0LDJiE/bcg=="/>
+			<POI MapID="1203" xpos="558.622" ypos="101.815" zpos="100.315" type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="lyzuGmANhECJkRH5qy2nqw=="/>
+			<POI MapID="1203" xpos="549.961" ypos="104.443" zpos="98.0427" type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="4DvvijW0YUy52lfkT0yFDw==" iconFile="Img\DeltaplaneDepart-EN.png" heightOffset="1"/>
+			<POI MapID="1203" xpos="552.95"  ypos="103.311" zpos="108.26"  type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="NdWu9oSQu0KJPPPosrNbng==" iconFile="Img\DeltaplaneStop.png" heightOffset="1"/>
+			<POI MapID="1203" xpos="548.195" ypos="106.467" zpos="110.909" type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="ePUpbjeuU0ua0CG5Is1vow=="/>
+			<POI MapID="1203" xpos="544.935" ypos="109.698" zpos="112.707" type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="PyPMuG1WEU+IcBr1ZIgJgw=="/>
+			<POI MapID="1203" xpos="549.462" ypos="111.466" zpos="113.742" type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="BAPCYn7q3ECNfEJJU3kpjA=="/>
+			<POI MapID="1203" xpos="560.014" ypos="111.892" zpos="109.488" type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="GWTig8nxlU6J5k0j7TGtZg=="/>
+			<POI MapID="1203" xpos="564.273" ypos="113.694" zpos="108.188" type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="lC1Gc9jMGECotoc+Io1qMA=="/>
+			<POI MapID="1203" xpos="573.845" ypos="112.939" zpos="108.015" type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="FFRrTQCC+0uQ9ytWGmRAIg=="/>
+			<POI MapID="1203" xpos="585.397" ypos="113.387" zpos="106.111" type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="c/GistSPOkG/PsMJ5rA6lg==" iconFile="Img\DeltaplaneDepart-EN.png" heightOffset="1"/>
+			<POI MapID="1203" xpos="597.704" ypos="111.807" zpos="99.1628" type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="6QoKxGIi6U6cbJEB/LxeCA==" iconFile="Img\DeltaplaneStop.png" heightOffset="1"/>
+			<POI MapID="1203" xpos="608.204" ypos="115.544" zpos="99.0171" type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="R8srW07RUUOuaxt16eRMkw=="/>
+			<POI MapID="1203" xpos="604.907" ypos="122.336" zpos="106.026" type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="hwr4So6vi0OoqTa+cGE8UQ=="/>
+			<POI MapID="1203" xpos="598.646" ypos="122.026" zpos="108.47"  type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="aLGFeqWODEuYV7+qJBluQg=="/>
+			<POI MapID="1203" xpos="589.68"  ypos="119.149" zpos="108.812" type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="MPh7D/gV4UiQrdJa97ik2A=="/>
+			<POI MapID="1203" xpos="569.127" ypos="126.485" zpos="108.505" type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="P8LngwAK/U6Exe/n5DBAWQ=="/>
+			<POI MapID="1203" xpos="552.128" ypos="131.92"  zpos="107.967" type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="P+UAAw1kn0W8syH6vx5jDg=="/>
+			<POI MapID="1203" xpos="539.421" ypos="136.257" zpos="107.597" type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="AUazPsLy2U6E+Yo1/X5bew==" iconFile="Img\DeltaplaneDepart-EN.png" heightOffset="1"/>
+			<POI MapID="1203" xpos="525.446" ypos="134.119" zpos="106.456" type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="VFurSe25vUyhFCEWLzRScg==" iconFile="Img\DeltaplaneStop.png" heightOffset="1"/>
+			<POI MapID="1203" xpos="522.084" ypos="140.783" zpos="118.3"   type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="VvYFYRs/3kOdewStB5GXDQ=="/>
+			<POI MapID="1203" xpos="522.876" ypos="148.409" zpos="128.201" type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="8jQy8MUdtkOz+kSCfakeBw=="/>
+			<POI MapID="1203" xpos="528.376" ypos="152.107" zpos="120.395" type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="zZMb7hF9Q0SLOkzbc8C48A=="/>
+			<POI MapID="1203" xpos="530.495" ypos="154.357" zpos="113.721" type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="rXmCRXe2a0ayDgIX1vKsFg=="/>
+			<POI MapID="1203" xpos="535.249" ypos="154.482" zpos="107.842" type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="QDBErkfv+0+HH1w9N/SgYw=="/>
+			<POI MapID="1203" xpos="541.994" ypos="156.458" zpos="110.946" type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="/uJ+qMtCLUKhRr8gtGRvTA=="/>
+			<POI MapID="1203" xpos="549.638" ypos="158.772" zpos="116.109" type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="VNfvoyKYXk+L9SJe5snJ9A==" iconFile="Img\DeltaplaneDepart-EN.png" heightOffset="1"/>
+			<POI MapID="1203" xpos="569.219" ypos="156.086" zpos="118.076" type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="oGDs4TAdKUGuozuEco2DgA==" iconFile="Img\DeltaplaneStop.png" heightOffset="1"/>
+			<POI MapID="1203" xpos="571.194" ypos="158.837" zpos="124.493" type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="2QOKvRDqmUCcf1EfGssGyQ=="/>
+			<POI MapID="1203" xpos="564.873" ypos="163.157" zpos="132.769" type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="Cjoj9ophGU2AQaTMnLcvlw=="/>
+			<POI MapID="1203" xpos="559.003" ypos="169.427" zpos="137.443" type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="ol2hCp7ts0+BYDjGqnqpUw=="/>
+			<POI MapID="1203" xpos="549.795" ypos="170.033" zpos="143.763" type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="LV9wXLXCEkOBWwuzECQUVQ=="/>
+			<POI MapID="1203" xpos="542.247" ypos="171.193" zpos="149.981" type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="Akc2YW0o0EiZ20Nvr4kGAQ=="/>
+			<POI MapID="1203" xpos="534.757" ypos="170.755" zpos="157.048" type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="T9gMDvQN0EeLolUoO0TgAQ=="/>
+			<!-- Point de passage 1 -->
+			<POI MapID="1203" xpos="523.128" ypos="172.216" zpos="159.781" type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="5bqeu+S8wUukkpXmvRjQ2A=="/>
+			<POI MapID="1203" xpos="521.238" ypos="176.255" zpos="157.87"  type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="jS6RZJeZhU+zYp3V46IFyg=="/>
+			<POI MapID="1203" xpos="517.183" ypos="178.796" zpos="158.082" type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="ZSPekoh/ok6iY2CSvY94LQ=="/>
+			<POI MapID="1203" xpos="522.031" ypos="180.954" zpos="163.598" type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="6Pk8N1gipkSkStnPwpl+fA=="/>
+			<POI MapID="1203" xpos="526.476" ypos="182.6"   zpos="169.757" type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="EDaUgHmN1EyvJGrxmIaG4A=="/>
+			<POI MapID="1203" xpos="523.354" ypos="186.763" zpos="170.704" type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="eH+89sxrpUaaMGzoRJyd0A=="/>
+			<POI MapID="1203" xpos="518.452" ypos="186.751" zpos="174.991" type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="8YwMmC2E6EOFAyk+U39VSA==" iconFile="Img\DeltaplaneDepart-EN.png" heightOffset="1"/>
+			<POI MapID="1203" xpos="566.361" ypos="174.274" zpos="191.575" type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="SedHqhLMMU2VYuBTw8DwOw==" iconFile="Img\DeltaplaneStop.png" heightOffset="1"/>
+			<POI MapID="1203" xpos="572.876" ypos="175.84"  zpos="189.904" type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="5SSQnai2h0aKSxUM7kDTgA=="/>
+			<POI MapID="1203" xpos="577.659" ypos="176.025" zpos="189.519" type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="ldjzDMj53E+FMhpO6hSWmQ=="/>
+			<POI MapID="1203" xpos="583.893" ypos="181.137" zpos="200.723" type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="ckFKLbWBmkSqTxoUYg8XVA==" iconFile="Img\DeltaplaneDepart-EN.png" heightOffset="1"/>
+			<POI MapID="1203" xpos="595.488" ypos="177.967" zpos="184.947" type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="uJx6O/Fl3kmrMJJoATKRuQ==" iconFile="Img\DeltaplaneStop.png" heightOffset="1"/>
+			<POI MapID="1203" xpos="597.853" ypos="179.783" zpos="179.592" type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="8LilzNU9OUWynX+lsTqueQ=="/>
+			<POI MapID="1203" xpos="604.984" ypos="183.777" zpos="180.397" type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="R9lqBrDBq0OB5nghqx8maQ=="/>
+			<POI MapID="1203" xpos="595.29"  ypos="186.297" zpos="183.211" type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="USu2BpERq0KEruLaOAuTZw=="/>
+			<POI MapID="1203" xpos="586.828" ypos="188.528" zpos="185.116" type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="q1CYcFZU2kKEVEUrX5Z9Ug=="/>
+			<POI MapID="1203" xpos="579.042" ypos="192.647" zpos="184.242" type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="ze+f9LKEY0+ewSdB6bDXhQ=="/>
+			<POI MapID="1203" xpos="585.748" ypos="193.503" zpos="179.79"  type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="3xvYnfN4kE+YBClPfkJXeQ==" iconFile="Img\DeltaplaneDepart-EN.png" heightOffset="1"/>
+			<POI MapID="1203" xpos="599.302" ypos="193.341" zpos="176.319" type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="cY1Mj/dMj0CnErhj/I0ymA==" iconFile="Img\DeltaplaneStop.png" heightOffset="1"/>
+			<POI MapID="1203" xpos="605.035" ypos="197.255" zpos="174.891" type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="DvJRTgVq106wKO57G1hcqg=="/>
+			<POI MapID="1203" xpos="610.626" ypos="199.835" zpos="176.793" type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="prylWdVi9kGYpjGdrETgtw=="/>
+			<POI MapID="1203" xpos="615.529" ypos="200.617" zpos="174.694" type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="3B71A4vRp0CzRBUwpxdF2A=="/>
+			<POI MapID="1203" xpos="607.965" ypos="204.305" zpos="172.111" type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="6j6cDeUiNkC9ai85mUWf0g=="/>
+			<POI MapID="1203" xpos="599.702" ypos="209.997" zpos="168.853" type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="U5f+JDkuGUyxZauBGO1QfQ=="/>
+			<POI MapID="1203" xpos="594.42"  ypos="216.156" zpos="167.91"  type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="ZZ7BtnrgdUGDfQ83WavZ5g=="/>
+			<POI MapID="1203" xpos="587.706" ypos="221.732" zpos="169.531" type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="GIvom1DQE0aVBG24CZ3XWA=="/>
+			<POI MapID="1203" xpos="580.221" ypos="227.587" zpos="171.185" type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="zBzo3VWbskGtO2EGuAZu5A=="/>
+			<POI MapID="1203" xpos="574.017" ypos="231.74"  zpos="170.29"  type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="cKSwg/HTi0awtSEHGnpIqQ=="/>
+			<POI MapID="1203" xpos="568.441" ypos="235.188" zpos="172.594" type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="2ilrfIq1aUu6Ws6Dzsyq+w=="/>
+			<POI MapID="1203" xpos="561.733" ypos="242.149" zpos="169.84"  type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="FBqNR/rRSkKEfiiuhZf2xg=="/>
+			<POI MapID="1203" xpos="560.266" ypos="243.381" zpos="177.902" type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="rcEnmiMtP0ebxbvXnRXIyg=="/>
+			<POI MapID="1203" xpos="568.377" ypos="240.578" zpos="185.518" type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="lp122q8fukWOeBVpC1aN+A=="/>
+			<POI MapID="1203" xpos="573.335" ypos="240.933" zpos="193.589" type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="dG9YV8fWOkqlIuRz8MrgqA=="/>
+			<POI MapID="1203" xpos="580.779" ypos="247.132" zpos="209.981" type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="mJ4SN8Z8m0eIEiMr1CW30A==" iconFile="Img\DeltaplaneDepart-EN.png" heightOffset="1"/>
+			<POI MapID="1203" xpos="635.952" ypos="208.281" zpos="121.597" type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="7QrncpKEMEOzeQRWYgZ/zQ==" iconFile="Img\DeltaplaneStop.png" heightOffset="1"/>
+			<POI MapID="1203" xpos="631.796" ypos="208.535" zpos="111.663" type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="HIS0gYS/3EyOvn83zG3oPQ=="/>
+			<POI MapID="1203" xpos="623.163" ypos="207.196" zpos="101.957" type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="KihTtwslEkOTRrTB87Lb/A=="/>
+			<POI MapID="1203" xpos="613.773" ypos="208.605" zpos="101.595" type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="CjYuf7d0RUiG4b0I/AeyHA=="/>
+			<POI MapID="1203" xpos="614.104" ypos="213.745" zpos="108.318" type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="rzldjbpzJUy8RgeP5vNwBA=="/>
+			<POI MapID="1203" xpos="619.278" ypos="220.603" zpos="113.947" type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="Mu+pUtXEKEe9cZxuyBimHg=="/>
+			<POI MapID="1203" xpos="606.05"  ypos="225.928" zpos="117.829" type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="paX39QRAAU6zhAHN+dHPpw=="/>
+			<POI MapID="1203" xpos="591.857" ypos="233.49"  zpos="122.246" type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="ta8BI89Cx0CuAPKJsJrxyw=="/>
+			<POI MapID="1203" xpos="579.598" ypos="240.816" zpos="122.715" type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="l5T609m41EOJR3nPB7EaGw=="/>
+			<POI MapID="1203" xpos="562.472" ypos="256.901" zpos="126.396" type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="CAtWp8gL5U+tgr11F+nQ8w==" iconFile="Img\DeltaplaneDepart-EN.png" heightOffset="1"/>
+			<POI MapID="1203" xpos="612.518" ypos="242.523" zpos="117.206" type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="grRqOQ+l60iOuOr0NbBxyQ==" iconFile="Img\DeltaplaneStop.png" heightOffset="1"/>
+			<POI MapID="1203" xpos="620.482" ypos="245.092" zpos="121.906" type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="DlqYSywu802DSd1s0JUs4w=="/>
+			<POI MapID="1203" xpos="625.294" ypos="250.475" zpos="129.865" type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="wDCfXvUUBEWeEAnZFnaQ8g=="/>
+			<POI MapID="1203" xpos="630.013" ypos="251.353" zpos="136.372" type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="k93k+1zUbEaPtV/fQtVZrQ=="/>
+			<POI MapID="1203" xpos="630.949" ypos="256.926" zpos="143.594" type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="bVqwY7mM+UywvfpCurVVgA=="/>
+			<POI MapID="1203" xpos="623.837" ypos="259.951" zpos="145.732" type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="Ho5G7Rtr5EyqnzMuMk1ybQ=="/>
+			<POI MapID="1203" xpos="616.187" ypos="259.405" zpos="148.849" type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="mxSZVVVAoUqiHUO8u/+nYA=="/>
+			<POI MapID="1203" xpos="606.463" ypos="255.168" zpos="154.687" type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="km4Li12FTkSGvdhJKHPD1A=="/>
+			<POI MapID="1203" xpos="600.018" ypos="260.121" zpos="146.58"  type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="2Dg2GDOCjk6yR29ms6GcGA=="/>
+			<POI MapID="1203" xpos="604.252" ypos="263.678" zpos="146.016" type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="nwvD02zuhk27QSO1kr5Tqg=="/>
+			<POI MapID="1203" xpos="600.47"  ypos="265.052" zpos="141.665" type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="MWFvYplPIUiWU0budIsdKQ=="/>
+			<POI MapID="1203" xpos="588.628" ypos="269.805" zpos="139.686" type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="kaTu6bw+LUiLd5QwvxBOmw=="/>
+			<POI MapID="1203" xpos="584.324" ypos="273.746" zpos="143.039" type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="hC1x6AB/B0CMwXF8yY881g=="/>
+			<POI MapID="1203" xpos="582.451" ypos="277.354" zpos="148.108" type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="tNmeMB8wu0mcgrA1+OErjA==" iconFile="Img\DeltaplaneDepart-EN.png" heightOffset="1"/>
+			<POI MapID="1203" xpos="599.599" ypos="275.942" zpos="148.534" type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="NxyeI2pJDkSEajaxAL/KVQ==" iconFile="Img\DeltaplaneStop.png" heightOffset="1"/>
+			<POI MapID="1203" xpos="608.045" ypos="277.875" zpos="138.88"  type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="JhA7ZVDPoE6iezZP3ilMjA=="/>
+			<POI MapID="1203" xpos="605.204" ypos="278.393" zpos="135.494" type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="nqL1EpBoJ0KOFYpVFdOyFg=="/>
+			<POI MapID="1203" xpos="602.298" ypos="280.199" zpos="129.806" type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="fxu85b1Eb0KFHLt9NIATqw=="/>
+			<POI MapID="1203" xpos="584.13"  ypos="282.829" zpos="128.011" type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="jl4rE+kddUunT06d2jfe1Q=="/>
+			<POI MapID="1203" xpos="572.919" ypos="284.918" zpos="120.43"  type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="wSw9ncEUQEWtmvw0og9tWQ=="/>
+			<!-- Point de passage 2 -->
+			<POI MapID="1203" xpos="559.901" ypos="289.141" zpos="111.201" type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="f2aiqxEpWU+H21wQQDH/NQ=="/>
+			<POI MapID="1203" xpos="557.928" ypos="290.146" zpos="114.832" type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="VBjRFjqHjU+ROOOjvEMGEA==" iconFile="Img\DeltaplaneDepart-EN.png" heightOffset="1"/>
+			<POI MapID="1203" xpos="551.833" ypos="289.594" zpos="127.002" type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="lVNzgaJ2R0mgpexYLDKcSA==" iconFile="Img\DeltaplaneStop.png" heightOffset="1"/>
+			<POI MapID="1203" xpos="543.092" ypos="295.704" zpos="128.646" type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="OuFC5OjPwE6NBOxFWRg88w=="/>
+			<POI MapID="1203" xpos="540.093" ypos="295.711" zpos="121.676" type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="u5hdSr5epkWfzy6qqgs61A=="/>
+			<POI MapID="1203" xpos="537.739" ypos="300.713" zpos="124.899" type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="yo8z59YJl0ShWiqbh69zxA=="/>
+			<POI MapID="1203" xpos="536.209" ypos="303.934" zpos="128.309" type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="t7e3WnWcbkeeXeADX2ZM3A==" iconFile="Img\DeltaplaneDepart-EN.png" heightOffset="1"/>
+			<POI MapID="1203" xpos="562.45"  ypos="296.65"  zpos="116.51"  type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="9wNu8S/670abSoS0ccWyaw==" iconFile="Img\DeltaplaneStop.png" heightOffset="1"/>
+			<POI MapID="1203" xpos="568.479" ypos="295.778" zpos="113.296" type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="7FNkendwR0+Pblafxv4oGA==" iconFile="Img\DeltaplaneDepart-EN.png" heightOffset="1"/>
+			<POI MapID="1203" xpos="582.673" ypos="292.447" zpos="122.88"  type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="cP/ZzJ0qfUupSyIJgv0t9g==" iconFile="Img\DeltaplaneStop.png" heightOffset="1"/>
+			<POI MapID="1203" xpos="574.217" ypos="299.017" zpos="121.89"  type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="DqEkHImnhk2uUr44RmrKUg=="/>
+			<POI MapID="1203" xpos="562.803" ypos="307.916" zpos="120.312" type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="NMvZC3gN5E+EwCl5Vu1U6g=="/>
+			<POI MapID="1203" xpos="551.459" ypos="316.831" zpos="118.822" type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="lzkAAE/vZkaoXMt87snf/Q==" iconFile="Img\DeltaplaneDepart-EN.png" heightOffset="1"/>
+			<POI MapID="1203" xpos="511.679" ypos="300.526" zpos="118.969" type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="qJMaO9hok0y0wQDoxCflXw==" iconFile="Img\DeltaplaneStop.png" heightOffset="1"/>
+			<POI MapID="1203" xpos="506.645" ypos="301.601" zpos="120.763" type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="+X6vGKptd0CBwXCtBi3ZOg=="/>
+			<POI MapID="1203" xpos="509.918" ypos="304.573" zpos="122.791" type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="qgZgXbPL1EihQ8hIDh7HoQ=="/>
+			<POI MapID="1203" xpos="508.7"   ypos="306.28"  zpos="125.912" type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="2iBICicjwka/x0L08PqbnA==" iconFile="Img\DeltaplaneDepart-EN.png" heightOffset="1"/>
+			<POI MapID="1203" xpos="494.698" ypos="301.195" zpos="142.238" type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="mOdCCCDyFESaKPzcqMzxDA==" iconFile="Img\Deltaplane.png" heightOffset="1"/>
+			<POI MapID="1203" xpos="495.089" ypos="298.341" zpos="157.878" type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="0r19RM1tb0edBH3r1U/o2Q==" iconFile="Img\DeltaplaneStop.png" heightOffset="1"/>
+			<POI MapID="1203" xpos="491.025" ypos="300.486" zpos="165.118" type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="oWiNq45jZUyVld47Kh/NxQ=="/>
+			<POI MapID="1203" xpos="486.852" ypos="302.726" zpos="172.721" type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="1KeVWIXc3ki84T2XHDo3zA==" iconFile="Img\DeltaplaneDepart-EN.png" heightOffset="1"/>
+			<POI MapID="1203" xpos="510.853" ypos="298.068" zpos="173.186" type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="rdjhNWtY3USw+S7aELcQ1g==" iconFile="Img\DeltaplaneStop.png" heightOffset="1"/>
+			<POI MapID="1203" xpos="515.961" ypos="301.69"  zpos="169.99"  type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="DJ3t9Xiiykmg4RnXVzEoag=="/>
+			<POI MapID="1203" xpos="523.617" ypos="303.822" zpos="176.248" type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="sX25UHETkE2H3rU8tRQZIw=="/>
+			<POI MapID="1203" xpos="528.681" ypos="306.576" zpos="172.915" type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="Q+1gKtsbEkGa1amNWLC32w=="/>
+			<POI MapID="1203" xpos="523.447" ypos="307.471" zpos="172.925" type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="C2/MxM78/k6LQ9yodwCs+Q=="/>
+			<POI MapID="1203" xpos="517.07"  ypos="309.458" zpos="171.432" type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="D2t/yDO7WkWYDZmRh9JKQA=="/>
+			<POI MapID="1203" xpos="520.315" ypos="310.672" zpos="170.68"  type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="L1qsuSX7c0eYhEFwM7bnPQ=="/>
+			<POI MapID="1203" xpos="526.31"  ypos="311.949" zpos="171.049" type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="xaI8tT5QZEqW8BjhPV39Xw=="/>
+			<POI MapID="1203" xpos="530.351" ypos="313.467" zpos="169.967" type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="pvmOiwPZOEy3VC3/bGtSFA=="/>
+			<POI MapID="1203" xpos="534.637" ypos="314.955" zpos="167.405" type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="EmohFePU4UK3aI0SozbEJg=="/>
+			<POI MapID="1203" xpos="541.234" ypos="316.574" zpos="167.151" type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="go+hpqFXYEqRqXy5HyEiFg=="/>
+			<POI MapID="1203" xpos="543.977" ypos="319.277" zpos="160.575" type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="hbiLgpwoTk6IoySzEkVq1g=="/>
+			<POI MapID="1203" xpos="539.65"  ypos="323.824" zpos="161.235" type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="zVnJloNY3USJn7l1gwSdrQ=="/>
+			<POI MapID="1203" xpos="533.732" ypos="322.765" zpos="166.318" type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="KPsmsOd4oESDjurhfHqTzA=="/>
+			<POI MapID="1203" xpos="522.354" ypos="320.076" zpos="167.891" type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="hvwddIBcUk6TlhmjK3SMgQ=="/>
+			<POI MapID="1203" xpos="517.154" ypos="323.581" zpos="170.943" type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="z8IijcjxdUyoyIkGSYAWiQ=="/>
+			<POI MapID="1203" xpos="508.018" ypos="325.131" zpos="168.784" type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="nTeNgXYo6EuAOX2+YWNp1A=="/>
+			<POI MapID="1203" xpos="503.415" ypos="326.979" zpos="168.318" type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="HPeO0St7H0ae/de6bQagbQ=="/>
+			<POI MapID="1203" xpos="500.378" ypos="329.287" zpos="165.219" type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="WpifgwbAPUq4jaozPdd0TQ=="/>
+			<POI MapID="1203" xpos="497.231" ypos="330.287" zpos="160.585" type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="AB1pQcRUGEKUErfy+KluxQ=="/>
+			<POI MapID="1203" xpos="494.195" ypos="331.254" zpos="153.5"   type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="fFYVcVU2sEO+5LJqRsGp2A=="/>
+			<POI MapID="1203" xpos="496.456" ypos="332.368" zpos="144.957" type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="T78I1LLo10e5pqeMBOsWVw=="/>
+			<POI MapID="1203" xpos="499.739" ypos="334.802" zpos="139.66"  type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="XpDlK/vqREu1GUchJ4FDxw=="/>
+			<POI MapID="1203" xpos="500.685" ypos="338.7"   zpos="143.584" type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="XjGpI7uQh0e7MZKIWoZxuw=="/>
+			<POI MapID="1203" xpos="505.124" ypos="343.912" zpos="146.556" type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="4woCxDf6YU2clhES3m2W4g=="/>
+			<POI MapID="1203" xpos="509.465" ypos="348.284" zpos="149.412" type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="v+/F1gXls0qIfArYInP4VA=="/>
+			<POI MapID="1203" xpos="517.812" ypos="348.324" zpos="152.502" type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="whuaZmiUlka8z9mAicAPtg=="/>
+			<POI MapID="1203" xpos="521.961" ypos="351.013" zpos="157.007" type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="EsS6O9jJlE6aIrPPr8Nx7w=="/>
+			<POI MapID="1203" xpos="526.495" ypos="355.251" zpos="156.256" type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="PWSzIiA5AU28rrk/SvVdfA==" iconFile="Img\DeltaplaneDepart-EN.png" heightOffset="1"/>
+			<POI MapID="1203" xpos="508.999" ypos="352.633" zpos="149.683" type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="0Pj/cwo2e0+CIwrBVoqptA==" iconFile="Img\DeltaplaneStop.png" heightOffset="1"/>
+			<POI MapID="1203" xpos="505.568" ypos="354.007" zpos="155.321" type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="WEZj8+4YnEmlm+PZFSrrzw=="/>
+			<POI MapID="1203" xpos="503.31"  ypos="354.812" zpos="159.252" type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="qCTJFvWzG0GgAWvUw8tnPA=="/>
+			<POI MapID="1203" xpos="508.589" ypos="356.244" zpos="157.856" type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="CJpiPEBHtUi4RtfdJjzyzg=="/>
+			<POI MapID="1203" xpos="514.295" ypos="358.573" zpos="160.274" type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="Pz8tj3dFZEya11mvIZJ9Hg=="/>
+			<POI MapID="1203" xpos="521.027" ypos="363.654" zpos="161.542" type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="lRpVZA6AiEupRemPx/QKkg=="/>
+			<POI MapID="1203" xpos="526.711" ypos="367.139" zpos="162.042" type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="JRH/HKdu7EKfkKuzRGohQA==" iconFile="Img\DeltaplaneDepart-EN.png" heightOffset="1"/>
+			<POI MapID="1203" xpos="569.141" ypos="356.382" zpos="160.463" type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="UrgOmHB3WkaJe92H1ycMiQ==" iconFile="Img\DeltaplaneStop.png" heightOffset="1"/>
+			<POI MapID="1203" xpos="575.313" ypos="357.546" zpos="165.648" type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="O4cBDcl3xE+6Ux6Ak9yXmA=="/>
+			<POI MapID="1203" xpos="582.094" ypos="360.75"  zpos="170.552" type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="hxpS06afY0KrENxF0VDfRw=="/>
+			<POI MapID="1203" xpos="589.992" ypos="364.298" zpos="175.655" type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="oy1mOVYTikSqqnKx2MGtVg==" iconFile="Img\DeltaplaneDepart-EN.png" heightOffset="1"/>
+			<POI MapID="1203" xpos="579.495" ypos="361.834" zpos="160.774" type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="OEm6VQQXm0+b6apZ6gk3zA==" iconFile="Img\DeltaplaneStop.png" heightOffset="1"/>
+			<POI MapID="1203" xpos="583.98"  ypos="367.137" zpos="155.525" type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="a2wx896ooUi1OJY37EelgA=="/>
+			<POI MapID="1203" xpos="590.533" ypos="373.224" zpos="158.161" type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="Gn9pp++ZYUu4c3ta7wKKJQ==" iconFile="Img\DeltaplaneDepart-EN.png" heightOffset="1"/>
+			<POI MapID="1203" xpos="614.494" ypos="364.392" zpos="150.114" type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="OHoEJrfRg0yxI5BswVYI/A==" iconFile="Img\DeltaplaneStop.png" heightOffset="1"/>
+			<POI MapID="1203" xpos="619.372" ypos="365.081" zpos="144.259" type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="QIb2jcacH0ajnAYyfB79pQ=="/>
+			<POI MapID="1203" xpos="620.566" ypos="364.282" zpos="136.218" type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="FhG3tuQoPkypE3gnybNrfg==" iconFile="Img\DeltaplaneDepart-EN.png" heightOffset="1"/>
+			<POI MapID="1203" xpos="616.143" ypos="364.94"  zpos="132.138" type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="1Z6TSSWUE0ixis3CgUBl+Q==" iconFile="Img\DeltaplaneStop.png" heightOffset="1"/>
+			<POI MapID="1203" xpos="612.205" ypos="366.114" zpos="127.31"  type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="3e9bQVgYtkCbMsvuri7v0w=="/>
+			<POI MapID="1203" xpos="610.697" ypos="369.099" zpos="130.459" type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="i8wnBqsXjEWp7RNtjO6pBw=="/>
+			<POI MapID="1203" xpos="604.434" ypos="368.916" zpos="125.001" type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="cwm6a/SI3UCMCB6gPtUiqg=="/>
+			<POI MapID="1203" xpos="599.245" ypos="370.052" zpos="126.71"  type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="tNy2ME1MYEaHsc2vNszSQg=="/>
+			<POI MapID="1203" xpos="599.704" ypos="371.397" zpos="129.776" type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="R2K/iSnRu0q6hCB5Kbf68g=="/>
+			<POI MapID="1203" xpos="599.413" ypos="372.979" zpos="134.22"  type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="I11tB8VNa02wjpoj4BbEkQ=="/>
+			<POI MapID="1203" xpos="602.753" ypos="374.246" zpos="130.644" type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="pxb144C7nUmlWsHOcDo0Lw=="/>
+			<POI MapID="1203" xpos="606.572" ypos="375.655" zpos="127.737" type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="vGWpBHMR9ESSdn201z3FFA=="/>
+			<POI MapID="1203" xpos="615.494" ypos="376.589" zpos="132.256" type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="NvJTQzbJs0eaO1u5fyM8/w=="/>
+			<POI MapID="1203" xpos="617.226" ypos="378.593" zpos="135.962" type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="ORXoIRRpj0ytOkcSfXLFIg=="/>
+			<POI MapID="1203" xpos="616.055" ypos="379.857" zpos="139.985" type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="PDqMqcGJpk2DsZsImVbJQQ=="/>
+			<POI MapID="1203" xpos="614.539" ypos="380.781" zpos="143.273" type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="Fvsz0GqhCkeBC4cYBEVsHA=="/>
+			<POI MapID="1203" xpos="611.93"  ypos="384.721" zpos="142.005" type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="/FEv4U1S7US6CCynvMRv8A=="/>
+			<POI MapID="1203" xpos="613.518" ypos="387.235" zpos="139.264" type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="BM/Y44I+nEeFXGFqpGk3Rg=="/>
+			<POI MapID="1203" xpos="613.755" ypos="386.202" zpos="133.459" type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="sj3Lrrp29UK2TpOuNKPHZQ=="/>
+			<POI MapID="1203" xpos="608.499" ypos="386.851" zpos="136.747" type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="f8QLifVxTEyKKByCtzqxuw=="/>
+			<POI MapID="1203" xpos="602.353" ypos="386.309" zpos="143.396" type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="mbnnROAerUC03Q4ePWtvvA=="/>
+			<POI MapID="1203" xpos="597.046" ypos="387.537" zpos="144.994" type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="58r8feBzk0iL4KAWPB2tIA=="/>
+			<POI MapID="1203" xpos="604.093" ypos="390.851" zpos="147.685" type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="qUGS+jZkQk23u/qYYzTYsg=="/>
+			<POI MapID="1203" xpos="611.674" ypos="392.522" zpos="146.117" type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="Fr5LRB7BikeUYHhn5V+kVg=="/>
+			<POI MapID="1203" xpos="610.012" ypos="393.045" zpos="139.246" type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="VEfQEJm3/kizhgJq9EAqRg=="/>
+			<POI MapID="1203" xpos="611.376" ypos="395.956" zpos="137.645" type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="UZjvrRleKEChEFgsAiXrRw==" iconFile="Img\DeltaplaneDepart-EN.png" heightOffset="1"/>
+			<POI MapID="1203" xpos="612.096" ypos="391.813" zpos="123.304" type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="8Z/0g/FeHk6CIUlyHYUpkw==" iconFile="Img\DeltaplaneStop.png" heightOffset="1"/>
+			<POI MapID="1203" xpos="601.813" ypos="395.821" zpos="127.877" type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="/hNuDBC8HUuxpN0DZb4jOQ=="/>
+			<POI MapID="1203" xpos="587.234" ypos="401.412" zpos="133.864" type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="Y7GchrOKfECfHUKX/5xe+g=="/>
+			<POI MapID="1203" xpos="579.445" ypos="404.475" zpos="137.442" type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="J56KsygFTUywAFFXzsfdaw=="/>
+			<POI MapID="1203" xpos="572.945" ypos="407.146" zpos="140.313" type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="8THrvwd7cU6K3M8NvIu0uA=="/>
+			<POI MapID="1203" xpos="563.766" ypos="410.352" zpos="143.006" type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="SXQv43yNb0qjcuz7UowIqw==" iconFile="Img\DeltaplaneDepart-EN.png" heightOffset="1"/>
+			<POI MapID="1203" xpos="512.144" ypos="395.086" zpos="139.458" type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="XDY+EwfsC0W/LSxOyE6B2w==" iconFile="Img\DeltaplaneStop.png" heightOffset="1"/>
+			<POI MapID="1203" xpos="506.654" ypos="397.641" zpos="145.318" type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="BsSiHe2nBEm8BvoqjZDxLg=="/>
+			<POI MapID="1203" xpos="510.439" ypos="399.463" zpos="150.443" type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="zylJs9wLH0SBGJWm3gzUIA=="/>
+			<POI MapID="1203" xpos="515.783" ypos="402.934" zpos="153.299" type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="VKJs7OrVUkmxXwy5ger+FA=="/>
+			<POI MapID="1203" xpos="511.154" ypos="404.398" zpos="149.98"  type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="OTtMGowu4UafGo6okknYGA=="/>
+			<POI MapID="1203" xpos="506.056" ypos="404.421" zpos="145.844" type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="fEdr4vqo4EadVV2iAbiTaQ=="/>
+			<POI MapID="1203" xpos="508.672" ypos="406.435" zpos="139.588" type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="09jOOuzIyUOdO/CNXJT71Q=="/>
+			<POI MapID="1203" xpos="512.426" ypos="406.915" zpos="128.768" type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="CTWrzVr2Q0StovhvaJxp7w=="/>
+			<POI MapID="1203" xpos="517.267" ypos="407.421" zpos="122.409" type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="0pF4vizoWkmLhUweeyEW0Q=="/>
+			<POI MapID="1203" xpos="524.242" ypos="408.999" zpos="126.392" type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="MEWzmF56oke2yu4YA3/etw=="/>
+			<POI MapID="1203" xpos="530.937" ypos="411.16"  zpos="128.635" type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="x+Whz5B4bUy3i7UgpKF49w=="/>
+			<POI MapID="1203" xpos="535.194" ypos="412.922" zpos="129.165" type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="B/gOvREwCEmLRvfd85TMrg=="/>
+			<POI MapID="1203" xpos="539.878" ypos="414.542" zpos="129.709" type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="6T4zxcKVW0Cr0fRcgj5aBQ=="/>
+			<POI MapID="1203" xpos="546.39"  ypos="415.897" zpos="127.256" type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="nBU1/MeVak+Z1f8T4cSe0w=="/>
+			<POI MapID="1203" xpos="549.593" ypos="418.492" zpos="128.722" type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="CisK3BDDIku+4qFcVxKERw==" iconFile="Img\DeltaplaneDepart-EN.png" heightOffset="1"/>
+			<POI MapID="1203" xpos="557.645" ypos="418.961" zpos="127.351" type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="nPry7VaCQEC1tY+vlfDAVA==" iconFile="Img\DeltaplaneStop.png" heightOffset="1"/>
+			<POI MapID="1203" xpos="563.511" ypos="421.833" zpos="129.129" type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="O58JpRuDq0i0wcpgGs5D2A=="/>
+			<POI MapID="1203" xpos="555.338" ypos="424.424" zpos="132.044" type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="Upz1vySwP02Iydr5rVwQOw=="/>
+			<POI MapID="1203" xpos="546.123" ypos="422.602" zpos="124.773" type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="F9FlYo9qHkedVUcCMLJ8Ng==" iconFile="Img\DeltaplaneDepart-EN.png" heightOffset="1"/>
+			<POI MapID="1203" xpos="523.571" ypos="416.098" zpos="107.294" type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="G+G4+VL2zU2Iz9S51lXP5A==" iconFile="Img\DeltaplaneStop.png" heightOffset="1"/>
+			<POI MapID="1203" xpos="521.027" ypos="417.367" zpos="114.2"   type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="H8qo7R++j0GvKXSDP+LKbQ=="/>
+			<POI MapID="1203" xpos="517.605" ypos="419.16"  zpos="123.913" type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="HM350EhY1UKsgBoIzdeTtQ=="/>
+			<POI MapID="1203" xpos="511.087" ypos="418.614" zpos="130.797" type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="GNdCseCRZkqVIDqjMr1zMQ=="/>
+			<POI MapID="1203" xpos="509.777" ypos="421.579" zpos="138.914" type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="9agsFe6Xf02HESMHRQpGgA=="/>
+			<POI MapID="1203" xpos="512.859" ypos="424.456" zpos="145.017" type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="+qro2Kemkkq5JfXzyot4EA=="/>
+			<POI MapID="1203" xpos="511.756" ypos="425.828" zpos="136.482" type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="IFZP/fEb/k6LES1omuxiqA=="/>
+			<POI MapID="1203" xpos="510.994" ypos="427.381" zpos="129.874" type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="tGYdAYQFk0e1HpLm4W+7mg=="/>
+			<POI MapID="1203" xpos="514.686" ypos="430.058" zpos="134.312" type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="Eme2Wo4RLE6XN5pmKyGtgg=="/>
+			<POI MapID="1203" xpos="517.679" ypos="432.346" zpos="138.291" type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="xFogOiW05EK2GNDYpodRjg=="/>
+			<POI MapID="1203" xpos="521.839" ypos="435.29"  zpos="141.114" type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="cvRG8NEB6UGkPiutS9r5Ag=="/>
+			<POI MapID="1203" xpos="520.212" ypos="436.247" zpos="148.49"  type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="pM7jAxFvI0mPnMejlYVFTA=="/>
+			<POI MapID="1203" xpos="524.541" ypos="437.739" zpos="150.499" type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="u++VvnJxdUWdAUjuMPGilA=="/>
+			<POI MapID="1203" xpos="528.187" ypos="438.889" zpos="151.419" type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="4c6LrvNMBEmgOTo3QE1V3Q=="/>
+			<POI MapID="1203" xpos="530.427" ypos="439.927" zpos="155.495" type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="fJi+c2/ZnUerjdGyCsTshg=="/>
+			<POI MapID="1203" xpos="533.457" ypos="441.169" zpos="156.737" type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="3XynIbCqoEKQS54fs67eoQ=="/>
+			<POI MapID="1203" xpos="532.576" ypos="443.361" zpos="153.264" type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="HZqulTaszkuZDriDR51rgA=="/>
+			<POI MapID="1203" xpos="533.443" ypos="445.314" zpos="145.476" type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="29OpUIjyvEilxSrxw1ipfg=="/>
+			<POI MapID="1203" xpos="536.159" ypos="447.336" zpos="140.665" type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="1yV+vouU6k2TE3J/7AH7SA=="/>
+			<POI MapID="1203" xpos="536.794" ypos="449.399" zpos="134.761" type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="HVhPGDJkTkups1jxeldd6g=="/>
+			<POI MapID="1203" xpos="528.365" ypos="450.426" zpos="132.341" type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="udyj0gv7kUCvC8eTuyICqQ=="/>
+			<POI MapID="1203" xpos="523.76"  ypos="451.206" zpos="135.307" type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="jt7/9vEyKUerR1zcK+4rvA=="/>
+			<POI MapID="1203" xpos="528.17"  ypos="451.293" zpos="145.314" type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="uuf8zEky9UmYW9oYv572mw=="/>
+			<POI MapID="1203" xpos="526.535" ypos="452.167" zpos="150.456" type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="0U8M/I4hREaXdfYn2RXnVg=="/>
+			<POI MapID="1203" xpos="521.317" ypos="453.708" zpos="149.834" type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="3Hg9vK3F0E+3WbV2WaGklA=="/>
+			<POI MapID="1203" xpos="518.903" ypos="455.133" zpos="145.444" type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="wBvt8RiIrkWe7wDivnR25g=="/>
+			<POI MapID="1203" xpos="522.593" ypos="456.508" zpos="143.487" type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="Lhojkwf5MEqRiAekOmUe4A=="/>
+			<POI MapID="1203" xpos="525.978" ypos="457.495" zpos="139.143" type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="wbnsgQnME06LQ434cpFTvA=="/>
+			<POI MapID="1203" xpos="531.044" ypos="459.068" zpos="138.919" type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="Fja1Vwsu5k6nvomuFHTS0A=="/>
+			<POI MapID="1203" xpos="531.769" ypos="459.941" zpos="134.33"  type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="MydQo/NQtE63Y6WAYJaUSQ=="/>
+			<POI MapID="1203" xpos="528.912" ypos="460.7"   zpos="132.293" type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="uxcTN7STFUWmNwgnSTLW4A=="/>
+			<POI MapID="1203" xpos="525.545" ypos="461.458" zpos="132.103" type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="0wNRj8TLo0uRDxlMVX7geg=="/>
+			<POI MapID="1203" xpos="523.715" ypos="462.7"   zpos="133.668" type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="Y5U6NiyW8UqQrccpq1q+Aw=="/>
+			<POI MapID="1203" xpos="529.621" ypos="465.492" zpos="135.978" type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="QKKuOHONj0OLHuuOta+4Nw=="/>
+			<POI MapID="1203" xpos="538.338" ypos="466.36"  zpos="133.46"  type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="4FwMprgHKUqdq9vB+MaCFw=="/>
+			<POI MapID="1203" xpos="536.028" ypos="467.957" zpos="138.653" type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="ECM9LJAgz0ai3aK5DCdm1A=="/>
+			<POI MapID="1203" xpos="535.275" ypos="469.031" zpos="145.32"  type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="unJA81ShIkubyFVTKVf2NA=="/>
+			<POI MapID="1203" xpos="528.115" ypos="469.979" zpos="147.938" type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="IsmVyv3xukW6QcDMc45Rxg=="/>
+			<POI MapID="1203" xpos="523.655" ypos="469.737" zpos="145.029" type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="J0Lv54OgzkuLu4DShicsLQ=="/>
+			<POI MapID="1203" xpos="528.632" ypos="474.18"  zpos="140.508" type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="iyTS/ooSxUqDu/J0gnlvZA=="/>
+			<POI MapID="1203" xpos="535.011" ypos="479.621" zpos="135.067" type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="1IgK2vwFqkq0z4txB2SStA=="/>
+			<POI MapID="1203" xpos="534.948" ypos="480.62"  zpos="139.301" type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="rRcLXnwPoUipo7fzjXDvbA=="/>
+			<POI MapID="1203" xpos="538.051" ypos="482.242" zpos="144.465" type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="Hu+q0n+b70aFpSpA8iHbcg=="/>
+			<POI MapID="1203" xpos="533.537" ypos="484.028" zpos="146.389" type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="T+bpE2XX+Umw5EZht6seFg=="/>
+			<POI MapID="1203" xpos="532.094" ypos="485.086" zpos="150.647" type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="gKjDD6KsWUCTtdnT/7xjAw=="/>
+			<POI MapID="1203" xpos="535.042" ypos="486.366" zpos="152.712" type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="a7zs5DGiW0Crubu0/J1qrg=="/>
+			<POI MapID="1203" xpos="537.897" ypos="488.022" zpos="152.865" type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="yAK1xuawf06JZA+CWOZwIA=="/>
+			<POI MapID="1203" xpos="533.719" ypos="489.288" zpos="149.271" type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="gAsWDOi1X06UtkHOvXDawQ==" iconFile="Img\DeltaplaneDepart-EN.png" heightOffset="1"/>
+			<POI MapID="1203" xpos="538.105" ypos="488.291" zpos="160.777" type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="TI55D0LgE0CSRSvPKHRA+A==" iconFile="Img\DeltaplaneStop.png" heightOffset="1"/>
+			<POI MapID="1203" xpos="541.918" ypos="488.755" zpos="166.044" type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="F3huKuVO8ESV+Wz0rHTdpw=="/>
+			<POI MapID="1203" xpos="549.118" ypos="490.375" zpos="168.855" type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="Uyq/S6srpEKsE/+85FXLnw=="/>
+			<POI MapID="1203" xpos="556.273" ypos="491.309" zpos="164.789" type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="oVobQynHIESHMQjMisN5VQ=="/>
+			<POI MapID="1203" xpos="559.41"  ypos="495.583" zpos="159.924" type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="fQaG/0AUwk678KquO4CxZQ=="/>
+			<POI MapID="1203" xpos="561.699" ypos="496.634" zpos="150.239" type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="rGg5xBLkkU6sGQvSr03Mkw=="/>
+			<POI MapID="1203" xpos="564.821" ypos="497.914" zpos="141.717" type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="QwnLC0ZIFkCjvPpsG8nraw=="/>
+			<POI MapID="1203" xpos="569.81"  ypos="498.894" zpos="134.98"  type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="bNluK0vFCEGtW8iKI5kz5w=="/>
+			<POI MapID="1203" xpos="571.782" ypos="499.835" zpos="127.002" type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="e0M9PN8Et0KVkqx+ZltLfA=="/>
+			<POI MapID="1203" xpos="573.137" ypos="500.974" zpos="118.77"  type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="r3/kYfGr4kGLG/r4NVn9mw=="/>
+			<POI MapID="1203" xpos="574.324" ypos="505.631" zpos="113.299" type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="aV4O8AWDmUqvHfvRKgkKfQ=="/>
+			<POI MapID="1203" xpos="567.104" ypos="508.546" zpos="109.974" type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="kYNENdg1Jk6J8KAjQns40g=="/>
+		</Route>
+
+		<!-- Points de passages -->
+		<!-- 1 --><POI MapID="1203" xpos="532.058" ypos="170.7"   zpos="160.565" type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="6G0b8cT0P0yLCQoj2h9/Uw==" iconFile="Img\DrapeauPassage.png" iconSize="1"/>
+		<!-- 2 --><POI MapID="1203" xpos="568.561" ypos="285.978" zpos="116.415" type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="Onvm4Iza5E+WXQ6yk6fx2A==" iconFile="Img\DrapeauPassage.png" iconSize="1"/>
+
+		<!-- Coffres -->
+		<!-- 1 --><POI MapID="1203" xpos="528.597" ypos="171.319" zpos="166.317" type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="A0dKGID960uxvlOkQfBYXg==" iconFile="Img\Coffre.png" heightOffset="1"/>
+		<!-- 2 --><POI MapID="1203" xpos="563.867" ypos="287.353" zpos="114.737" type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="tCDHiVOhgUuXWoDrJy+0Cw==" iconFile="Img\Coffre.png" heightOffset="1"/>
+		<!-- 3 --><POI MapID="1203" xpos="569.517" ypos="511.601" zpos="95.4443" type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="H90vvjenCU60YgaylH4uLg==" iconFile="Img\Coffre.png" heightOffset="1"/>
+
+		<!-- Arrivé -->
+		<POI MapID="1203" xpos="567.96" ypos="509.68" zpos="101.487" type="chroniques.saison_3.ep6_le_bout_du_chemin.ascension_d_abaddon" GUID="nRsNCb14WkOfqw/kgJNf/g==" iconFile="Img\DrapeauArrivee.png" iconSize="1.5"/>
+
+	</POIs>
+</OverlayData>

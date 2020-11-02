@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+POIs: ReActif.9251
+Date: 2017/08/15
+-->
+<OverlayData>
+	<MarkerCategory name="histoires_annexes" DisplayName="Side Stories" iconFile="Img\HistoiresAnnexes.png" behavior="3">
+		<MarkerCategory name="preservation_de_la_magie" DisplayName="Conservation of Magic" iconFile="Img\PreservationDeLaMagie.png" behavior="0">
+			<MarkerCategory name="cartographie_des_lignes_de_force" DisplayName="Ley-Line Cartography"/>
+		</MarkerCategory>
+	</MarkerCategory>
+
+	<POIs>
+
+		<!-- Les Steppes de la Strie Flamboyante -->
+		<POI MapID="20" xpos="-505.905" ypos="47.2421" zpos="558.019"  type="histoires_annexes.preservation_de_la_magie.cartographie_des_lignes_de_force" GUID="YgTFXON6s0KpoWtAbxR3/w=="/>
+		<POI MapID="20" xpos="-27.0567" ypos="58.4783" zpos="-181.865" type="histoires_annexes.preservation_de_la_magie.cartographie_des_lignes_de_force" GUID="tp2VLamKckSny0xBMpmvnQ=="/>
+		<POI MapID="20" xpos="28.3016"  ypos="37.0296" zpos="-862.447" type="histoires_annexes.preservation_de_la_magie.cartographie_des_lignes_de_force" GUID="DfkSoWnoREiQz2de8V18PQ=="/>
+
+		<!-- Congères d'Antreneige -->
+		<POI MapID="31" xpos="-1143.5"  ypos="76.9852" zpos="-56.7971" type="histoires_annexes.preservation_de_la_magie.cartographie_des_lignes_de_force" GUID="1luGMG3NM0m/5CMiKuz5nw=="/>
+		<POI MapID="31" xpos="-26.9137" ypos="72.7958" zpos="-159.977" type="histoires_annexes.preservation_de_la_magie.cartographie_des_lignes_de_force" GUID="CsjYbUjkSU2i1GUni+/b1Q=="/>
+		<POI MapID="31" xpos="487.379"  ypos="54.7033" zpos="341.616"  type="histoires_annexes.preservation_de_la_magie.cartographie_des_lignes_de_force" GUID="IHtz0ceockyi0kQQQqoHlA=="/>
+
+		<!-- Mont Maelström -->
+		<POI MapID="39" xpos="-477.328" ypos="117.011" zpos="-455.655" type="histoires_annexes.preservation_de_la_magie.cartographie_des_lignes_de_force" GUID="JcoXf+7uUE2kKjq/jq+ywg=="/>
+		<POI MapID="39" xpos="-79.4288" ypos="77.8596" zpos="-385.732" type="histoires_annexes.preservation_de_la_magie.cartographie_des_lignes_de_force" GUID="bNONiYav2kiSAYTO74gpuw=="/>
+		<POI MapID="39" xpos="616.053"  ypos="26.8019" zpos="-484.118" type="histoires_annexes.preservation_de_la_magie.cartographie_des_lignes_de_force" GUID="TApLvduOd0WEUOWVQLuzHw=="/>
+
+	</POIs>
+</OverlayData>

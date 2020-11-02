@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+POIs: ReActif.9251
+Date: 2017/05/09
+-->
+<OverlayData>
+	<MarkerCategory name="astuces" DisplayName="Tips (No Achievement)">
+		<MarkerCategory name="sites_remarquables" DisplayName="Point of Interest (Access)">
+			<MarkerCategory name="mont_draconis" DisplayName="Draconis Mons">
+				<MarkerCategory name="bassin_eternel" DisplayName="Eternal Pool" iconFile="Img\Guide.png" iconSize="0.75" triggerRange="5"/>
+			</MarkerCategory>
+		</MarkerCategory>
+	</MarkerCategory>
+
+	<POIs>
+
+		<!-- Début -->
+		<POI MapID="1195" xpos="-373.949" ypos="4.12091" zpos="-436.808" type="astuces.sites_remarquables.mont_draconis.bassin_eternel" GUID="beXDuq7O6k6cedafxWh8Og==" iconFile="Img\Fleche.png" iconSize="1.25"/>
+
+		<!-- Route -->
+		<Route MapID="1195" Name="bassin_eternel" resetposx="-373.949" resetposy="4.12091" resetposz="-436.808" resetrange="1">
+			<POI MapID="1195" xpos="-362.201" ypos="5.00692" zpos="-442.456" type="astuces.sites_remarquables.mont_draconis.bassin_eternel" GUID="tvXtYVTz5UO72JFHGRaoDA=="/>
+			<POI MapID="1195" xpos="-352.62" ypos="7.83059" zpos="-450.521" type="astuces.sites_remarquables.mont_draconis.bassin_eternel" GUID="KW5+7NNDwkmmDbRm5Euj7Q=="/>
+			<POI MapID="1195" xpos="-343.842" ypos="7.07381" zpos="-464.272" type="astuces.sites_remarquables.mont_draconis.bassin_eternel" GUID="8TANxLpBSEaIt2Bmi8613A=="/>
+			<POI MapID="1195" xpos="-339.652" ypos="6.95122" zpos="-472.794" type="astuces.sites_remarquables.mont_draconis.bassin_eternel" GUID="wJTfJL1dq02vojbIF8lXdg=="/>
+			<POI MapID="1195" xpos="-342.154" ypos="7.12528" zpos="-483.817" type="astuces.sites_remarquables.mont_draconis.bassin_eternel" GUID="A6QvZq1PZEyzRh7GLOKvVQ=="/>
+			<POI MapID="1195" xpos="-349.029" ypos="5.57927" zpos="-500.305" type="astuces.sites_remarquables.mont_draconis.bassin_eternel" GUID="Q54ln2YKs0OZfJCC83JfTQ=="/>
+			<POI MapID="1195" xpos="-355.604" ypos="5.63919" zpos="-513.977" type="astuces.sites_remarquables.mont_draconis.bassin_eternel" GUID="FByLQVubJEyn259B5A3zEA=="/>
+			<POI MapID="1195" xpos="-359.096" ypos="9.40004" zpos="-528.583" type="astuces.sites_remarquables.mont_draconis.bassin_eternel" GUID="gleP3374n0OXQxFZl+xAbQ=="/>
+			<POI MapID="1195" xpos="-353.54" ypos="14.5643" zpos="-540.912" type="astuces.sites_remarquables.mont_draconis.bassin_eternel" GUID="wjksDHm3i0Kc3EJISeoYgw=="/>
+			<POI MapID="1195" xpos="-347.107" ypos="20.0965" zpos="-553.747" type="astuces.sites_remarquables.mont_draconis.bassin_eternel" GUID="6GRpIwi0o0K8iWZ8YOqnQg=="/>
+			<POI MapID="1195" xpos="-340.189" ypos="25.5577" zpos="-566.33" type="astuces.sites_remarquables.mont_draconis.bassin_eternel" GUID="Asnh6Kioj0iBYg+M7VZA8A=="/>
+			<POI MapID="1195" xpos="-332.295" ypos="29.6425" zpos="-580.342" type="astuces.sites_remarquables.mont_draconis.bassin_eternel" GUID="7LZrwgoy6keRnGL0+h2VwA=="/>
+			<POI MapID="1195" xpos="-326.214" ypos="35.0114" zpos="-592.365" type="astuces.sites_remarquables.mont_draconis.bassin_eternel" GUID="M09GzBzrs0ezm/kzhTjH+w=="/>
+			<POI MapID="1195" xpos="-322.34" ypos="41.12" zpos="-604.426" type="astuces.sites_remarquables.mont_draconis.bassin_eternel" GUID="PJuDlbfCwUqR9QzWDlz0Ww=="/>
+			<POI MapID="1195" xpos="-319.734" ypos="47.3636" zpos="-616.886" type="astuces.sites_remarquables.mont_draconis.bassin_eternel" GUID="UXs8AzF5L0atsHso8rmSXw=="/>
+			<POI MapID="1195" xpos="-317.637" ypos="50.9699" zpos="-630.717" type="astuces.sites_remarquables.mont_draconis.bassin_eternel" GUID="SF/fDCWolkqqrVdeeObS8w=="/>
+			<POI MapID="1195" xpos="-317.827" ypos="52.4297" zpos="-643.935" type="astuces.sites_remarquables.mont_draconis.bassin_eternel" GUID="RDEyDifo1UqcHZ/rs9k0MA=="/>
+			<POI MapID="1195" xpos="-317.844" ypos="57.7442" zpos="-659.896" type="astuces.sites_remarquables.mont_draconis.bassin_eternel" GUID="SxGDUyurfESRgR8lUXsusw=="/>
+			<POI MapID="1195" xpos="-312.5" ypos="64.9804" zpos="-671.999" type="astuces.sites_remarquables.mont_draconis.bassin_eternel" GUID="2XAq06o73UOA40hpLbQdxw=="/>
+			<POI MapID="1195" xpos="-303.535" ypos="72.319" zpos="-680.791" type="astuces.sites_remarquables.mont_draconis.bassin_eternel" GUID="UNgAfXskwkaWpz69o1EaBQ=="/>
+			<POI MapID="1195" xpos="-292.818" ypos="77.479" zpos="-689.299" type="astuces.sites_remarquables.mont_draconis.bassin_eternel" GUID="N/5F1Y6YgUqQywDLse7PIw=="/>
+			<POI MapID="1195" xpos="-282.88" ypos="81.2626" zpos="-697.022" type="astuces.sites_remarquables.mont_draconis.bassin_eternel" GUID="T8dBfdNf5E+2N4XmLZcmOw=="/>
+			<POI MapID="1195" xpos="-267.893" ypos="84.3397" zpos="-702.674" type="astuces.sites_remarquables.mont_draconis.bassin_eternel" GUID="MrsXD9YGm0eybPXdlpKXLA=="/>
+			<POI MapID="1195" xpos="-254.779" ypos="86.3425" zpos="-711.304" type="astuces.sites_remarquables.mont_draconis.bassin_eternel" GUID="TPnX6DaynE6WfPH74IRNBQ=="/>
+			<POI MapID="1195" xpos="-244.874" ypos="91.6913" zpos="-721.116" type="astuces.sites_remarquables.mont_draconis.bassin_eternel" GUID="hRslL0vQE0mEkuS3xRvB3w=="/>
+			<POI MapID="1195" xpos="-235.532" ypos="96.7319" zpos="-730.526" type="astuces.sites_remarquables.mont_draconis.bassin_eternel" GUID="+LVoaym6o0C9m7nYSnsjpA=="/>
+			<POI MapID="1195" xpos="-225.085" ypos="102.179" zpos="-740.87" type="astuces.sites_remarquables.mont_draconis.bassin_eternel" GUID="gROAfMjUrUiqbRiTdAl6uA=="/>
+			<POI MapID="1195" xpos="-213.639" ypos="108.456" zpos="-751.523" type="astuces.sites_remarquables.mont_draconis.bassin_eternel" GUID="GLak2ioheUO2kcYTYyR33Q=="/>
+			<POI MapID="1195" xpos="-201.404" ypos="113.203" zpos="-757.72" type="astuces.sites_remarquables.mont_draconis.bassin_eternel" GUID="iC4+3pDKPkuOaaNv6+b1aA=="/>
+			<POI MapID="1195" xpos="-187.667" ypos="118.245" zpos="-763.359" type="astuces.sites_remarquables.mont_draconis.bassin_eternel" GUID="ehqdAmSag0Wq/8S/EQQtXw=="/>
+			<POI MapID="1195" xpos="-171.894" ypos="123.693" zpos="-768.788" type="astuces.sites_remarquables.mont_draconis.bassin_eternel" GUID="PEyIH8OgZEengNJwg4XrOg=="/>
+			<POI MapID="1195" xpos="-157.069" ypos="128.73" zpos="-773.765" type="astuces.sites_remarquables.mont_draconis.bassin_eternel" GUID="yHuaXuhojE6dQZAqFmu9Jg=="/>
+			<POI MapID="1195" xpos="-142.29" ypos="133.789" zpos="-778.848" type="astuces.sites_remarquables.mont_draconis.bassin_eternel" GUID="El3XqZGQDUm8Qsvjk2U16Q=="/>
+			<POI MapID="1195" xpos="-127.65" ypos="138.914" zpos="-784.26" type="astuces.sites_remarquables.mont_draconis.bassin_eternel" GUID="LIS87+BkZEW5dzLp3o4RdA=="/>
+			<POI MapID="1195" xpos="-114.177" ypos="143.107" zpos="-787.72" type="astuces.sites_remarquables.mont_draconis.bassin_eternel" GUID="sCVp6K8AGUaq4NsHgUHjRw=="/>
+			<POI MapID="1195" xpos="-101.783" ypos="146.736" zpos="-789.708" type="astuces.sites_remarquables.mont_draconis.bassin_eternel" GUID="TD0FETlg4kezrrxEKh+BWQ=="/>
+			<POI MapID="1195" xpos="-88.0502" ypos="150.19" zpos="-790.094" type="astuces.sites_remarquables.mont_draconis.bassin_eternel" GUID="vZlzEJE2LUW1qGEMGlP+rg=="/>
+			<POI MapID="1195" xpos="-75.8298" ypos="152.34" zpos="-787.956" type="astuces.sites_remarquables.mont_draconis.bassin_eternel" GUID="IXZU9f+UW0WVSMMUWVYwZw=="/>
+			<POI MapID="1195" xpos="-65.3988" ypos="153.007" zpos="-782.493" type="astuces.sites_remarquables.mont_draconis.bassin_eternel" GUID="G3BMkO7ke0Os4sOlW1i8Jg=="/>
+			<POI MapID="1195" xpos="-62.5082" ypos="154.054" zpos="-769.054" type="astuces.sites_remarquables.mont_draconis.bassin_eternel" GUID="oPd8olYxik2ZJkwYD4d4uQ=="/>
+			<POI MapID="1195" xpos="-65.1837" ypos="155.489" zpos="-759.297" type="astuces.sites_remarquables.mont_draconis.bassin_eternel" GUID="PSO04LvE5Eat31BHiFSedA=="/>
+			<POI MapID="1195" xpos="-59.9573" ypos="156.818" zpos="-747.987" type="astuces.sites_remarquables.mont_draconis.bassin_eternel" GUID="s+bIhw/6OUWEYwFv/15s3w=="/>
+			<POI MapID="1195" xpos="-47.9759" ypos="156.526" zpos="-741.894" type="astuces.sites_remarquables.mont_draconis.bassin_eternel" GUID="lLlgnfz+nUC2EjDAsRq5lg=="/>
+			<POI MapID="1195" xpos="-35.8784" ypos="154.744" zpos="-742.652" type="astuces.sites_remarquables.mont_draconis.bassin_eternel" GUID="0GCj6mmvfk+qbnHszwSV2w=="/>
+			<POI MapID="1195" xpos="-25.2514" ypos="155.26" zpos="-745.647" type="astuces.sites_remarquables.mont_draconis.bassin_eternel" GUID="exs45nC5QEumdy5hB521EQ=="/>
+			<POI MapID="1195" xpos="-13.6897" ypos="157.048" zpos="-750.363" type="astuces.sites_remarquables.mont_draconis.bassin_eternel" GUID="jijWDdJsAUGAFnl+8H6J2w=="/>
+			<POI MapID="1195" xpos="-2.37005" ypos="160.364" zpos="-753.671" type="astuces.sites_remarquables.mont_draconis.bassin_eternel" GUID="gv/blKT5sEKXGrAi2zApkw=="/>
+			<POI MapID="1195" xpos="8.10379" ypos="162.82" zpos="-756.791" type="astuces.sites_remarquables.mont_draconis.bassin_eternel" GUID="w2W7mexztUO++TAM11dT8g=="/>
+			<POI MapID="1195" xpos="19.4963" ypos="165.899" zpos="-760.146" type="astuces.sites_remarquables.mont_draconis.bassin_eternel" GUID="JJJYw/jBQ0CgeIYSgFVB+Q=="/>
+			<POI MapID="1195" xpos="31.386" ypos="168.787" zpos="-760.577" type="astuces.sites_remarquables.mont_draconis.bassin_eternel" GUID="/67yhREUw0KuLeKjtaFmIw=="/>
+			<POI MapID="1195" xpos="46.5857" ypos="172.626" zpos="-761.571" type="astuces.sites_remarquables.mont_draconis.bassin_eternel" GUID="LIRy81xvhEKXEu1fNTYuLA=="/>
+			<POI MapID="1195" xpos="58.4838" ypos="174.62" zpos="-759.297" type="astuces.sites_remarquables.mont_draconis.bassin_eternel" GUID="2obri5yzGUCFGNR4VvaXKg=="/>
+			<POI MapID="1195" xpos="68.8505" ypos="173.944" zpos="-753.925" type="astuces.sites_remarquables.mont_draconis.bassin_eternel" GUID="1bYn//ZFYEevs5nWbH19GQ=="/>
+			<POI MapID="1195" xpos="82.429" ypos="172.88" zpos="-751.849" type="astuces.sites_remarquables.mont_draconis.bassin_eternel" GUID="GjKZgn4n2k6xiuzwMXON/A=="/>
+			<POI MapID="1195" xpos="96.0291" ypos="173.659" zpos="-755.628" type="astuces.sites_remarquables.mont_draconis.bassin_eternel" GUID="xb+W93QuDESH5MivCgLMQA=="/>
+			<POI MapID="1195" xpos="110.94" ypos="174.603" zpos="-762.034" type="astuces.sites_remarquables.mont_draconis.bassin_eternel" GUID="bnWld2YMjU+0qbPzJ0Lsxg=="/>
+			<POI MapID="1195" xpos="124.736" ypos="175.462" zpos="-768.889" type="astuces.sites_remarquables.mont_draconis.bassin_eternel" GUID="+LwcEOKTkUGebJzwU5+gTg=="/>
+			<POI MapID="1195" xpos="136.339" ypos="176.148" zpos="-777.055" type="astuces.sites_remarquables.mont_draconis.bassin_eternel" GUID="j01h0JI20EqK7IefnCff5Q=="/>
+			<POI MapID="1195" xpos="147.226" ypos="176.768" zpos="-786.186" type="astuces.sites_remarquables.mont_draconis.bassin_eternel" GUID="7NIGW5vMQkmbBEk1P5D3eQ=="/>
+			<POI MapID="1195" xpos="158.038" ypos="177.364" zpos="-796.609" type="astuces.sites_remarquables.mont_draconis.bassin_eternel" GUID="Wo8ngXY5QE2kPWVC4Sjr0g=="/>
+			<POI MapID="1195" xpos="167.716" ypos="177.889" zpos="-806.457" type="astuces.sites_remarquables.mont_draconis.bassin_eternel" GUID="j0AsUCDHEka6MZuEH6G0jA=="/>
+			<POI MapID="1195" xpos="181.097" ypos="178.664" zpos="-816.85" type="astuces.sites_remarquables.mont_draconis.bassin_eternel" GUID="0D6vQFs+3k6K2jFcBtiosA=="/>
+			<POI MapID="1195" xpos="190.803" ypos="179.215" zpos="-824.725" type="astuces.sites_remarquables.mont_draconis.bassin_eternel" GUID="TDxZ334Zz0q/hczi579t9Q=="/>
+			<POI MapID="1195" xpos="199.575" ypos="179.987" zpos="-836.26" type="astuces.sites_remarquables.mont_draconis.bassin_eternel" GUID="rB5ThQsRtk6L/JSgbV7yxg=="/>
+			<POI MapID="1195" xpos="208.305" ypos="182.048" zpos="-847.599" type="astuces.sites_remarquables.mont_draconis.bassin_eternel" GUID="Q9cbzAnwmE6U6/95C4IWUw=="/>
+			<POI MapID="1195" xpos="213.677" ypos="182.642" zpos="-858.788" type="astuces.sites_remarquables.mont_draconis.bassin_eternel" GUID="1TF1OsK06EyO75Tgr/IZ9w=="/>
+			<POI MapID="1195" xpos="216.091" ypos="182.747" zpos="-870.5" type="astuces.sites_remarquables.mont_draconis.bassin_eternel" GUID="nfgHONCmtUieBFghoLSHGg=="/>
+			<POI MapID="1195" xpos="216.925" ypos="182.736" zpos="-883.793" type="astuces.sites_remarquables.mont_draconis.bassin_eternel" GUID="oeMCTusXT0WYp5hf4FJHMw=="/>
+			<POI MapID="1195" xpos="217.015" ypos="182.956" zpos="-894.979" type="astuces.sites_remarquables.mont_draconis.bassin_eternel" GUID="7YCPoYpdLUea1TtPDcv1yA=="/>
+			<POI MapID="1195" xpos="217.215" ypos="182.917" zpos="-906.997" type="astuces.sites_remarquables.mont_draconis.bassin_eternel" GUID="eGo/YqVyIUSiiWenRFayKQ=="/>
+			<POI MapID="1195" xpos="215.829" ypos="183.16" zpos="-918.835" type="astuces.sites_remarquables.mont_draconis.bassin_eternel" GUID="00NSKwNHH0aR6+Oh+B0BIQ=="/>
+			<POI MapID="1195" xpos="211.197" ypos="184.662" zpos="-930.547" type="astuces.sites_remarquables.mont_draconis.bassin_eternel" GUID="l7S3J39fdkSxeXsof/YP2Q=="/>
+			<POI MapID="1195" xpos="202.062" ypos="183.639" zpos="-936.758" type="astuces.sites_remarquables.mont_draconis.bassin_eternel" GUID="NFpyZhXt6UacyIT47MpTaw=="/>
+			<POI MapID="1195" xpos="190.248" ypos="182.903" zpos="-940.281" type="astuces.sites_remarquables.mont_draconis.bassin_eternel" GUID="21PG76h7lUK4GfNdn2vOrw=="/>
+			<POI MapID="1195" xpos="182.637" ypos="182.394" zpos="-945.45" type="astuces.sites_remarquables.mont_draconis.bassin_eternel" GUID="G70U7RfkwkyuwG3SkBs/tg=="/>
+			<POI MapID="1195" xpos="173.888" ypos="175.8" zpos="-952.385" type="astuces.sites_remarquables.mont_draconis.bassin_eternel" GUID="UAtpgP8BlEidLlW5O0PBAg=="/>
+			<POI MapID="1195" xpos="160.436" ypos="171.631" zpos="-956.04" type="astuces.sites_remarquables.mont_draconis.bassin_eternel" GUID="dZzciodHiEWCIB184S32+g=="/>
+			<POI MapID="1195" xpos="147.878" ypos="167.736" zpos="-958.826" type="astuces.sites_remarquables.mont_draconis.bassin_eternel" GUID="23+q335oQkOBNC8YJzufbg=="/>
+			<POI MapID="1195" xpos="134.741" ypos="163.019" zpos="-961.929" type="astuces.sites_remarquables.mont_draconis.bassin_eternel" GUID="7gJEhpqtxkqFR3U9+c8h7w=="/>
+			<POI MapID="1195" xpos="120.234" ypos="158.967" zpos="-965.049" type="astuces.sites_remarquables.mont_draconis.bassin_eternel" GUID="79Ywo1Dt3kOgeCtthLkM7Q=="/>
+			<POI MapID="1195" xpos="104.21" ypos="154.167" zpos="-967.286" type="astuces.sites_remarquables.mont_draconis.bassin_eternel" GUID="8HjC52uXKkK21FVkw/aRlQ=="/>
+			<POI MapID="1195" xpos="86.0411" ypos="148.829" zpos="-969.249" type="astuces.sites_remarquables.mont_draconis.bassin_eternel" GUID="WwzxreqXa0KXm9+mjk6CrA=="/>
+			<POI MapID="1195" xpos="69.0868" ypos="143.93" zpos="-970.756" type="astuces.sites_remarquables.mont_draconis.bassin_eternel" GUID="flM4ZQf3bU+W3JDUAfofBQ=="/>
+			<POI MapID="1195" xpos="55.0866" ypos="139.705" zpos="-972.448" type="astuces.sites_remarquables.mont_draconis.bassin_eternel" GUID="D1pd52Q9bECX1kC/zPjZTQ=="/>
+			<POI MapID="1195" xpos="39.0299" ypos="134.954" zpos="-973.768" type="astuces.sites_remarquables.mont_draconis.bassin_eternel" GUID="c09E6b/oJ0msYx023RFd0Q=="/>
+			<POI MapID="1195" xpos="22.6381" ypos="129.846" zpos="-974.709" type="astuces.sites_remarquables.mont_draconis.bassin_eternel" GUID="d42L+qE1xE+cgjyJNpgK5Q=="/>
+		</Route>
+
+		<!-- Arrivée -->
+		<POI MapID="1195" xpos="3.1668" ypos="124.274" zpos="-976.447" type="astuces.sites_remarquables.mont_draconis.bassin_eternel" GUID="qzZ5mXJhm0uwABs++b6ijA==" iconFile="Img\Croix.png" iconSize="1.25"/>
+
+	</POIs>
+</OverlayData>

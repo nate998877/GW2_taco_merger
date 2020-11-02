@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+POIs: ReActif.9251
+Date: 2017/08/22
+-->
+<OverlayData>
+	<MarkerCategory name="heart_of_thorns.repli_du_dragon">
+		<MarkerCategory name="coffres_d_aeronefs" DisplayName="Strongbox" iconFile="Img\CoffreMaitriseHOT.png" heightOffset="3">
+			<MarkerCategory name="apaizdragon" DisplayName="Dragonrender Strongbox"/>
+			<MarkerCategory name="heritage_de_la_chouette" DisplayName="Legacy of Owl Strongbox"/>
+			<MarkerCategory name="la_fierte_de_l_arche_du_lion" DisplayName="Pride of Lion's Arch Strongbox"/>
+			<MarkerCategory name="lamebrulante_ii" DisplayName="Scorchrazor II Strongbox"/>
+			<MarkerCategory name="l_enigme_irresolue" DisplayName="Unsolved Conundrum Strongbox"/>
+		</MarkerCategory>
+	</MarkerCategory>
+
+	<POIs>
+
+		<!-- "La Fierté de l'Arche du Lion" -->
+		<POI MapID="1041" xpos="721.858" ypos="58.0575" zpos="412.43" type="heart_of_thorns.repli_du_dragon.coffres_d_aeronefs.la_fierte_de_l_arche_du_lion" GUID="ZHkzql9xXkm6UfTqBG7piQ=="/>
+
+		<!-- "Héritage de la Chouette" -->
+		<POI MapID="1041" xpos="891.722" ypos="93.9697" zpos="29.3725" type="heart_of_thorns.repli_du_dragon.coffres_d_aeronefs.heritage_de_la_chouette" GUID="PfKw7go3HUOI4O/Z6c2Naw=="/>
+
+		<!-- "L'Énigme Irrésolue" -->
+		<POI MapID="1041" xpos="223.498" ypos="92.0259" zpos="540.014" type="heart_of_thorns.repli_du_dragon.coffres_d_aeronefs.l_enigme_irresolue" GUID="lSukhQODYUuYm2X6ycou4Q=="/>
+
+		<!-- "Lamebrûlante II" -->
+		<POI MapID="1041" xpos="376.739" ypos="147.153" zpos="135.89" type="heart_of_thorns.repli_du_dragon.coffres_d_aeronefs.lamebrulante_ii" GUID="BvwZsJ0eTUibKFDK2R/5Nw=="/>
+
+		<!-- "Apaizdragon" -->
+		<POI MapID="1041" xpos="-276.422" ypos="18.4887" zpos="574.167" type="heart_of_thorns.repli_du_dragon.coffres_d_aeronefs.apaizdragon" GUID="4xgvWOYg6k6nK/DGv37hkw=="/>
+
+	</POIs>
+</OverlayData>

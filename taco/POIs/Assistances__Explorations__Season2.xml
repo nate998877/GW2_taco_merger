@@ -1,0 +1,39 @@
+<!-- 2020.06.01 -->
+<OverlayData>
+	<POIs>
+
+		<!-- DRY TOP -->
+		<Trail type="assistances.explorations.s2.dry_top" GUID="cihYm7GSkkKlfOZC8QTWaw==" trailData="Data/Assistances/Exploration_Season2_DryTop_1.trl"             texture="Data/SemiLineMid.png" color="ff00ffff" alpha="0.8" fadeNear="3000" fadeFar="4000" animSpeed="1" miniMapVisibility="1" mapVisibility="1" mapDisplaySize="8"/>
+		<Trail type="assistances.explorations.s2.dry_top" GUID="ufpPAeL1+k2ujB1aVQFk0Q==" trailData="Data/Assistances/Exploration_Season2_DryTop_2.trl"             texture="Data/SemiLineMid.png" color="ff00ff99" alpha="0.8" fadeNear="3000" fadeFar="4000" animSpeed="1" miniMapVisibility="1" mapVisibility="1" mapDisplaySize="8"/>
+		<Trail type="assistances.explorations.s2.dry_top" GUID="vpx8dyEXFkyXsz0uIwqmvw==" trailData="Data/Assistances/Exploration_Season2_DryTop_AbandonedMine.trl" texture="Data/SemiLineMid.png" color="ffffff00" alpha="0.8" fadeNear="3000" fadeFar="4000" animSpeed="1" miniMapVisibility="1" mapVisibility="1" mapDisplaySize="8"/>
+		<POI MapID="988" xpos="419.575"  ypos="27.4693" zpos="-530.414" type="assistances.explorations.s2.dry_top" GUID="EVigEqTRWUyQUKzh87U/xA==" iconFile="Img/Assistances/Exploration.png"          minSize="24" heightOffset="0.5" fadeNear="-1" fadeFar="-1" miniMapVisibility="1" mapVisibility="1" mapDisplaySize="45"/>
+		<POI MapID="988" xpos="316.05"   ypos="78.8599" zpos="-344.495" type="assistances.explorations.s2.dry_top" GUID="kdKNBlHw8EW0Zjx4wdE1Mg==" iconFile="Img/Assistances/ReturnToWaypoint.png"/>
+		<POI MapID="988" xpos="215.568"  ypos="13.337"  zpos="-281.306" type="assistances.explorations.s2.dry_top" GUID="mikbMFviUkOoL0MV6o82+g==" iconFile="Img/Assistances/AfterHeroPoint.png"/>
+		<POI MapID="988" xpos="162.017"  ypos="36.8021" zpos="-351.015" type="assistances.explorations.s2.dry_top" GUID="MR9ABr6y1k+GGAT6QvP06g==" iconFile="Img/Assistances/SwapColor.png"            minSize="32" maxSize="48"/>
+		<POI MapID="988" xpos="431.393"  ypos="13.5782" zpos="-298.168" type="assistances.explorations.s2.dry_top" GUID="2UdNY+ChYUOFKfrktmU8ug==" iconFile="Img/Assistances/DryTop_AbandonedMine.png" maxSize="48"/>
+		<POI MapID="988" xpos="-60.8058" ypos="73.2892" zpos="-328.569" type="assistances.explorations.s2.dry_top" GUID="xD2EgYfWDUCZecZXSBB1Hw==" iconFile="Img/Assistances/ReturnToWaypoint.png"/>
+		<POI MapID="988" xpos="58.797"   ypos="32.5463" zpos="-285.889" type="assistances.explorations.s2.dry_top" GUID="ts9lJDh54k6MvOs0MeVOSw==" iconFile="Img/Assistances/AfterHeroPoint.png"/>
+		<POI MapID="988" xpos="-3.69575" ypos="-0.1576" zpos="-710.501" type="assistances.explorations.s2.dry_top" GUID="QM5Xw/KpokaF2rlyDcKhjA==" iconFile="Img/Assistances/ExplorationChest.png"     minSize="24" heightOffset="0" miniMapVisibility="1" mapVisibility="1" mapDisplaySize="25"/>
+
+		<!-- THE SILVERWASTES -->
+		<Trail type="assistances.explorations.s2.the_silverwastes" GUID="xtE15c/ZoE+oXw7hPw0rHw==" trailData="Data/Assistances/Exploration_Season2_TheSilverwastes.trl"                 texture="Data/SemiLineMid.png" color="ff00ffff" alpha="0.8" fadeNear="3000" fadeFar="4000" animSpeed="1" miniMapVisibility="1" mapVisibility="1"/>
+		<Trail type="assistances.explorations.s2.the_silverwastes" GUID="OUEOThk2fE+OTk3HpjKjCA==" trailData="Data/Assistances/Exploration_Season2_TheSilverwastes_FarSilverwastes.trl" texture="Data/SemiLineMid.png" color="ff00ffff" alpha="0.8" fadeNear="3000" fadeFar="4000" animSpeed="1" miniMapVisibility="1" mapVisibility="1"/>
+		<Trail type="assistances.explorations.s2.the_silverwastes" GUID="qE7OwbSuqkaOgKButqVUvQ==" trailData="Data/Assistances/Exploration_Season2_TheSilverwastes_Labyrinth.trl"       texture="Data/SemiLineMid.png" color="ff00ffff" alpha="0.8" fadeNear="3000" fadeFar="4000" animSpeed="1" miniMapVisibility="1" mapVisibility="1"/>
+		<Trail type="assistances.explorations.s2.the_silverwastes" GUID="qpLYe3A0gk6yMZ+Nkhdn5w==" trailData="Data/Assistances/Exploration_Season2_TheSilverwastes_Vinewrath.trl"       texture="Data/SemiLineMid.png" color="ff00ffff" alpha="0.8" fadeNear="3000" fadeFar="4000" animSpeed="1" miniMapVisibility="1" mapVisibility="1"/>
+		<Trail type="assistances.explorations.s2.the_silverwastes" GUID="k43EuJMSgky961vDloKA2w==" trailData="Data/Assistances/Exploration_Season2_TheSilverwastes_GreenPath.trl"       texture="Data/SemiLineMid.png" color="ff00ff00" alpha="0.8" fadeNear="3000" fadeFar="4000" animSpeed="1" miniMapVisibility="1" mapVisibility="1"/>
+		<POI MapID="1015" xpos="597.416"  ypos="414.801" zpos="-186.495" type="assistances.explorations.s2.the_silverwastes" GUID="26MFUYSjf06VMZNQiTjbhA==" iconFile="Img/Assistances/Exploration.png"              minSize="24" heightOffset="0.5" fadeNear="-1" fadeFar="-1" miniMapVisibility="1" mapVisibility="1" mapDisplaySize="45"/>
+		<POI MapID="1015" xpos="26.7611"  ypos="417.891" zpos="-427.267" type="assistances.explorations.s2.the_silverwastes" GUID="By7UGPZkkUusoYOpZPvmWQ==" iconFile="Img/Assistances/Silverwastes_AfterMeta.png"/>
+		<POI MapID="1015" xpos="-234.407" ypos="373.736" zpos="-344.891" type="assistances.explorations.s2.the_silverwastes" GUID="QHb5YHWSzEuwx3oPv+1Nyg==" iconFile="Img/Assistances/ReturnToWaypoint.png"/>
+		<POI MapID="1015" xpos="19.0226"  ypos="420.818" zpos="-430.806" type="assistances.explorations.s2.the_silverwastes" GUID="xL2yMIA0Fk+abOHtJqanFw==" iconFile="Img/Assistances/Silverwastes_AfterLaby.png"/>
+		<POI MapID="1015" xpos="-320.91"  ypos="416.132" zpos="-206.7"   type="assistances.explorations.s2.the_silverwastes" GUID="FWT3bXbNHkOwD3y317e7tQ==" iconFile="Img/Assistances/Silverwastes_Meta.png"/>
+		<POI MapID="1015" xpos="-315.803" ypos="417.357" zpos="-187.862" type="assistances.explorations.s2.the_silverwastes" GUID="WIMVBtk1G0WRV9S6R+zQMg==" iconFile="Img/Assistances/Silverwastes_DontOpen.png"/>
+		<POI MapID="1015" xpos="-80.406"  ypos="417.991" zpos="13.7919"  type="assistances.explorations.s2.the_silverwastes" GUID="+RlQs7gVQUG/4R055ujpwA==" iconFile="Img/Assistances/Silverwastes_Tunnel.png"/>
+		<POI MapID="1015" xpos="-440.564" ypos="425.022" zpos="218.794"  type="assistances.explorations.s2.the_silverwastes" GUID="7ws7IIdOzkyxoCFF1uSMyg==" iconFile="Img/Assistances/ReturnFirstWaypointGreen.png"/>
+		<POI MapID="1015" xpos="499.228"  ypos="412.239" zpos="-227.732" type="assistances.explorations.s2.the_silverwastes" GUID="qapT9C20Nk+DpeR5Xo8yOg==" iconFile="Img/Assistances/FollowGreenPath.png"/>
+		<POI MapID="1015" xpos="179.285"  ypos="412.471" zpos="74.1592"  type="assistances.explorations.s2.the_silverwastes" GUID="S12XTrk6t0OJw50lz7tGww==" iconFile="Img/Signs/Spike.png"                          minSize="20" maxSize="40" heightOffset="0.25"/>
+		<POI MapID="1015" xpos="602.28"   ypos="359.075" zpos="108.829"  type="assistances.explorations.s2.the_silverwastes" GUID="Oeo0Pbg6X0av4V/CUusHSQ==" iconFile="Img/Assistances/Silverwastes_Bandit.png"/>
+		<POI MapID="1015" xpos="294.344"  ypos="274.792" zpos="126.886"  type="assistances.explorations.s2.the_silverwastes" GUID="ipPOmScNhEOXeAe8ZUrs0Q==" iconFile="Img/Assistances/LetFall.png"                  minSize="24" heightOffset="0"/>
+		<POI MapID="1015" xpos="-99.7372" ypos="15.5538" zpos="67.404"   type="assistances.explorations.s2.the_silverwastes" GUID="9H2Tn6PcRkigvFuOcNS1KA==" iconFile="Img/Assistances/ExplorationChest.png"         minSize="24" heightOffset="0" miniMapVisibility="1" mapVisibility="1" mapDisplaySize="25"/>
+
+	</POIs>
+</OverlayData>

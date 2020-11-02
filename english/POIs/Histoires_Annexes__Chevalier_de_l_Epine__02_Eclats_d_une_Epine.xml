@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+POIs: TMKFrench.6427
+Date: 2017/08/15
+-->
+<OverlayData>
+	<MarkerCategory name="histoires_annexes" DisplayName="Side Stories" iconFile="Img\HistoiresAnnexes.png" behavior="3">
+		<MarkerCategory name="chevalier_de_l_epine" DisplayName="Knight of the Thorn" iconFile="Img\ChevalierDeLEpine.png">
+			<MarkerCategory name="eclats_d_une_epine" DisplayName="Shards of a Thorn" heightOffset="3"/>
+		</MarkerCategory>
+	</MarkerCategory>
+
+	<POIs>
+
+		<!-- Orée d'émeraude : Bosquet vicié -->
+		<POI MapID="1052" xpos="-344.785" ypos="459.909"  zpos="396.646"  type="histoires_annexes.chevalier_de_l_epine.eclats_d_une_epine" GUID="chN1u2BB8kiSyQzEwW7OYQ=="/>
+
+		<!-- Bassin Aurique : au pied de la cascade des Chutes -->
+		<POI MapID="1043" xpos="-477.61"  ypos="108.767"  zpos="-256.435" type="histoires_annexes.chevalier_de_l_epine.eclats_d_une_epine" GUID="k9GtxJza60mLacZ615eZuA=="/>
+
+		<!-- Profondeurs Verdoyantes : Grotte de la méduse -->
+		<POI MapID="1045" xpos="-647.805" ypos="-213.556" zpos="-266.167" type="histoires_annexes.chevalier_de_l_epine.eclats_d_une_epine" GUID="7nLQcuX6NUe06KmeVjIl5A=="/>
+
+		<!-- Repli du Dragon : Instance Finale de Mordremoth -->
+		<POI MapID="1095" xpos="-651.521" ypos="175.32"   zpos="-625.086" type="histoires_annexes.chevalier_de_l_epine.eclats_d_une_epine" GUID="/6HpE5aTU0ycEsm0BsCPDA=="/>
+
+	</POIs>
+</OverlayData>

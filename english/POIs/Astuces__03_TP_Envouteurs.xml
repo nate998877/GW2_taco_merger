@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+POIs: ReActif.9251
+Date: 2017/02/23
+-->
+<OverlayData>
+	<MarkerCategory name="astuces" DisplayName="Tips (No Achievement)">
+		<MarkerCategory name="tp_envouteurs" DisplayName="Mesmer's Portal" heightOffset="0">
+			<MarkerCategory name="enigme_au_carre" DisplayName="Conundrum Cubed"/>
+			<MarkerCategory name="reverie_cauchemardesque" DisplayName="Dark Reverie"/>
+			<MarkerCategory name="danseur_disco_discret" DisplayName="Disco Dancing Delver"/>
+			<MarkerCategory name="laboratoire_de_goemm" DisplayName="Goemm's Lab"/>
+			<MarkerCategory name="pas_si_secret_lunette_de_plongee" DisplayName="Not So Secret (Dive)"/>
+			<MarkerCategory name="pas_si_secret_toit_aeronef" DisplayName="Not So Secret (Roof)"/>
+			<MarkerCategory name="zuhl_au_monde" DisplayName="Only Zuhl"/>
+			<MarkerCategory name="observatoire_effondre" DisplayName="The Collapsed Observatory"/>
+			<MarkerCategory name="la_revanche_de_weyandt" DisplayName="Weyandt's Revenge"/>
+		</MarkerCategory>
+	</MarkerCategory>
+
+	<POIs>
+
+		<!-- Observatoire Effondré -->
+		<POI MapID="23" xpos="955.897" ypos="78.1926" zpos="-600.386" type="astuces.tp_envouteurs.observatoire_effondre" GUID="jW9bPmuMTEabpfsj39G4tA==" iconFile="Img\PortailEntree.png"/>
+		<POI MapID="23" xpos="990.152" ypos="84.5322" zpos="-491.847" type="astuces.tp_envouteurs.observatoire_effondre" GUID="k+h5a+mNYEav+0cP1COEJw==" iconFile="Img\PortailSortie.png"/>
+
+		<!-- Pas si Secret - Toit de l'Aéronef -->
+		<POI MapID="24" xpos="-286.408" ypos="92.1966" zpos="-501.956" type="astuces.tp_envouteurs.pas_si_secret_toit_aeronef" GUID="k9VuivuVpEWzgB47ckqRyw==" iconFile="Img\PortailEntree.png"/>
+		<POI MapID="24" xpos="-226.169" ypos="15.7629" zpos="-447.633" type="astuces.tp_envouteurs.pas_si_secret_toit_aeronef" GUID="hlCLi1SfQkKi8MTRlpGQew==" iconFile="Img\PortailSortie.png"/>
+
+		<!-- Pas si Secret - Lunette de Plongée -->
+		<POI MapID="24" xpos="-303.913" ypos="148.193" zpos="-533.481" type="astuces.tp_envouteurs.pas_si_secret_lunette_de_plongee" GUID="oQQoqogdy0KFHbo/PMdV1w==" iconFile="Img\PortailEntree.png"/>
+		<POI MapID="24" xpos="-297.573" ypos="100.91" zpos="-525.276" type="astuces.tp_envouteurs.pas_si_secret_lunette_de_plongee" GUID="w8FwOoaKGkGthHKBWdGbRg==" iconFile="Img\PortailSortie.png"/>
+
+		<!-- Zhul au Monde -->
+		<POI MapID="29" xpos="683.19" ypos="29.68" zpos="945.08" type="astuces.tp_envouteurs.zuhl_au_monde" GUID="5ja/2YALmkKq7rTpaWclaw==" iconFile="Img\PortailEntree.png"/>
+		<POI MapID="29" xpos="675.905" ypos="36.3195" zpos="857.498" type="astuces.tp_envouteurs.zuhl_au_monde" GUID="i1JE0YypWUqj/T6jJE1Tew==" iconFile="Img\PortailSortie.png"/>
+
+		<!-- Reverie Cauchemardesque -->
+		<POI MapID="34" xpos="300.255" ypos="66.4451" zpos="-523.649" type="astuces.tp_envouteurs.reverie_cauchemardesque" GUID="qt86lUGEL02CA5Nc19vZ4A==" iconFile="Img\PortailEntree.png"/>
+		<POI MapID="34" xpos="329.435" ypos="19.2159" zpos="-496.824" type="astuces.tp_envouteurs.reverie_cauchemardesque" GUID="7drjkQ3FuEW7PcEBs3ID6g==" iconFile="Img\PortailSortie.png"/>
+
+		<!-- Laboratoire de Goemm	-->
+		<POI MapID="35" xpos="492.989" ypos="39.5174" zpos="16.1763" type="astuces.tp_envouteurs.laboratoire_de_goemm" GUID="k66c5aeuXkC00zXbXxldKA==" iconFile="Img\PortailEntree.png"/>
+		<POI MapID="35" xpos="508.754" ypos="19.4057" zpos="24.3028" type="astuces.tp_envouteurs.laboratoire_de_goemm" GUID="zvjXvrlGd0WmU3DdjqYOPQ==" iconFile="Img\PortailSortie.png"/>
+
+		<!-- Enigme au carré	-->
+		<POI MapID="39" xpos="-1134.37" ypos="98.5025" zpos="725.357" type="astuces.tp_envouteurs.enigme_au_carre" GUID="tCpb/L10OkemKt/7Mj8+3g==" iconFile="Img\PortailEntree.png"/>
+		<POI MapID="39" xpos="-1124.66" ypos="12.1889" zpos="678.627" type="astuces.tp_envouteurs.enigme_au_carre" GUID="Zkmg10dJtEyNcOGJpW38rA==" iconFile="Img\PortailSortie.png"/>
+
+		<!-- La Revanche de Weyandt -->
+		<POI MapID="50" xpos="459.963" ypos="36.685" zpos="-296.419" type="astuces.tp_envouteurs.la_revanche_de_weyandt" GUID="6I23ww/ga0aVjXhsY9ISGA==" iconFile="Img\PortailEntree.png"/>
+		<POI MapID="50" xpos="457.944" ypos="0.864466" zpos="-258.194" type="astuces.tp_envouteurs.la_revanche_de_weyandt" GUID="30Qh8vfQWUuqj2J11+U+8A==" iconFile="Img\PortailSortie.png"/>
+
+		<!-- Danseur Disco Discret -->
+		<POI MapID="1045" xpos="-262.028" ypos="100.716" zpos="-248.583" type="astuces.tp_envouteurs.danseur_disco_discret" GUID="K2IeGCjOU0qP1ah/EjNvyg==" iconFile="Img\PortailEntree.png"/>
+		<POI MapID="1045" xpos="-302.575" ypos="-1.45168" zpos="-216.727" type="astuces.tp_envouteurs.danseur_disco_discret" GUID="Zn9Nan1H1kqYb4EQZjsRPQ==" iconFile="Img\PortailSortie.png"/>
+
+	</POIs>
+</OverlayData>

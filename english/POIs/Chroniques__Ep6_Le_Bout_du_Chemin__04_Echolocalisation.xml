@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+POIs: ReActif.9251
+Date: 2017/07/30
+-->
+<OverlayData>
+	<MarkerCategory name="chroniques.saison_3">
+		<MarkerCategory name="ep6_le_bout_du_chemin" DisplayName="Ep.6 - One Path Ends" iconFile="Img\LeBoutduChemin.png">
+			<MarkerCategory name="echolocalisation" DisplayName="Echolocation"/>
+		</MarkerCategory>
+	</MarkerCategory>
+
+	<POIs>
+
+		<POI MapID="1203" xpos="-901.551" ypos="68" zpos="-73.7783" type="chroniques.saison_3.ep6_le_bout_du_chemin.echolocalisation" GUID="6P9Z/mbVyECcJRlNmVJ0Aw=="/>
+		<POI MapID="1203" xpos="-901.551" ypos="70" zpos="-73.7783" type="chroniques.saison_3.ep6_le_bout_du_chemin.echolocalisation" GUID="djyfVEdShU6brjci4AKYpw==" iconFile="Img\Combat.png" color="ffff0000"/>
+
+	</POIs>
+</OverlayData>

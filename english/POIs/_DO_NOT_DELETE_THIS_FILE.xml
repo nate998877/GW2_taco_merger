@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+POIs: ReActif.9251
+Date: 2017/08/01
+Note: Ce fichier est un patch à un bug, ne pas effacer (surtout pour créer une version vide) !
+      Il contient un faux POI qui empêche le bug de se produire.
+      Si TacO démarre sans aucun POIs (ni dans poidata.xml, ni aucun fichiers .XML) il n'affichera pas l'icône du marqueur par défaut à la création de POIs.
+      De plus, le logiciel renvoi l'erreur suivante :
+           (Dbg)  Request Atlas Image Failed for -1
+           (Dbg)  [gui] Optimizing Atlas
+           (Err)  [gui] GUI Texture Atlas too small to render current frame. Flushing mid-frame, thiss will result in reduced performance.
+-->
+<OverlayData>
+	<POIs>
+		<POI MapID="0" xpos="0" ypos="0" zpos="0"/>
+	</POIs>
+</OverlayData>

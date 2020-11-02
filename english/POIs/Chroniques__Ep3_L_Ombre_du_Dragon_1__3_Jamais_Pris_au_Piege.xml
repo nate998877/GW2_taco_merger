@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+POIs: ReActif.9251
+Date: 2017/03/06
+-->
+<OverlayData>
+	<MarkerCategory name="chroniques.saison_2">
+		<MarkerCategory name="ep3_l_ombre_du_dragon_1" DisplayName="Ep.3 - The Dragon's Reach, Part 1" iconFile="Img\Saison2OmbreDuDragon1.png">
+			<MarkerCategory name="jamais_pris_au_piege" DisplayName="Nary a Pitfall">
+				<MarkerCategory name="trajet" DisplayName="Guide" iconFile="Img\Guide.png" iconSize="0.75" heightOffset="0" behavior="0"/>
+			</MarkerCategory>
+		</MarkerCategory>
+	</MarkerCategory>
+
+	<POIs>
+
+		<!-- Début (Piteux) -->
+		<POI MapID="1000" xpos="-460.608" ypos="51.0384" zpos="-652.761" type="chroniques.saison_2.ep3_l_ombre_du_dragon_1.jamais_pris_au_piege" GUID="6tjQOZ6k9ky+K2WudkfczA=="/>
+
+		<!-- Route -->
+		<Route MapID="1000" Name="JamaisPrisAuPiege" resetposx="-460.608" resetposy="51.0384" resetposz="-652.761" resetrange="2">
+			<POI MapID="1000" xpos="-456.542" ypos="48.4324" zpos="-657.724" type="chroniques.saison_2.ep3_l_ombre_du_dragon_1.jamais_pris_au_piege.trajet" GUID="yud6V7ORSEiuXKpnpE8i8Q=="/>
+			<POI MapID="1000" xpos="-452.112" ypos="45.8414" zpos="-662.293" type="chroniques.saison_2.ep3_l_ombre_du_dragon_1.jamais_pris_au_piege.trajet" GUID="XlgQYQrxgESZ60BQu6nYMw=="/>
+			<POI MapID="1000" xpos="-450.018" ypos="42.446" zpos="-668.292" type="chroniques.saison_2.ep3_l_ombre_du_dragon_1.jamais_pris_au_piege.trajet" GUID="Mx3bOYE8A0eUqgPI3E4/qQ=="/>
+			<POI MapID="1000" xpos="-450.846" ypos="38.6833" zpos="-674.207" type="chroniques.saison_2.ep3_l_ombre_du_dragon_1.jamais_pris_au_piege.trajet" GUID="iExxslBiM0W+Zk5cKVAycA=="/>
+			<POI MapID="1000" xpos="-453.005" ypos="35.6396" zpos="-680.231" type="chroniques.saison_2.ep3_l_ombre_du_dragon_1.jamais_pris_au_piege.trajet" GUID="M04600juw0GNdt0quLVm0w=="/>
+			<POI MapID="1000" xpos="-454.115" ypos="33.04" zpos="-686.322" type="chroniques.saison_2.ep3_l_ombre_du_dragon_1.jamais_pris_au_piege.trajet" GUID="tL+KYLfOaEaDHF/MovNJtQ=="/>
+			<POI MapID="1000" xpos="-453.674" ypos="29.8401" zpos="-693.193" type="chroniques.saison_2.ep3_l_ombre_du_dragon_1.jamais_pris_au_piege.trajet" GUID="tKGHWNqFfECjUQm0a3ZUPA=="/>
+			<POI MapID="1000" xpos="-450.699" ypos="27.2411" zpos="-699.285" type="chroniques.saison_2.ep3_l_ombre_du_dragon_1.jamais_pris_au_piege.trajet" GUID="3onFBwAAa0OrVUpcGvetBw=="/>
+			<POI MapID="1000" xpos="-445.317" ypos="25.4909" zpos="-704.058" type="chroniques.saison_2.ep3_l_ombre_du_dragon_1.jamais_pris_au_piege.trajet" GUID="lRNZx8unlU+9nrPJ1Swe6w=="/>
+			<POI MapID="1000" xpos="-438.592" ypos="22.8397" zpos="-707.445" type="chroniques.saison_2.ep3_l_ombre_du_dragon_1.jamais_pris_au_piege.trajet" GUID="UQ5D7jui3kuBdjaWSvxC5Q=="/>
+			<POI MapID="1000" xpos="-431.948" ypos="20.1258" zpos="-709.971" type="chroniques.saison_2.ep3_l_ombre_du_dragon_1.jamais_pris_au_piege.trajet" GUID="gpssk3xoMEKwvQe/7nmzRg=="/>
+			<POI MapID="1000" xpos="-425.131" ypos="17.9271" zpos="-712.448" type="chroniques.saison_2.ep3_l_ombre_du_dragon_1.jamais_pris_au_piege.trajet" GUID="OiuXniX1yUuEhWR2fkeMdQ=="/>
+			<POI MapID="1000" xpos="-417.833" ypos="15.7143" zpos="-714.674" type="chroniques.saison_2.ep3_l_ombre_du_dragon_1.jamais_pris_au_piege.trajet" GUID="EFpa+olArkmXs4KiQbaSkQ=="/>
+			<POI MapID="1000" xpos="-410.386" ypos="13.3241" zpos="-716.522" type="chroniques.saison_2.ep3_l_ombre_du_dragon_1.jamais_pris_au_piege.trajet" GUID="+U6cEA4ZFUuV3uzZ+hMOdQ=="/>
+			<POI MapID="1000" xpos="-403.955" ypos="11.2202" zpos="-718.091" type="chroniques.saison_2.ep3_l_ombre_du_dragon_1.jamais_pris_au_piege.trajet" GUID="Lj/uGByjOEmkEDfqMBXJOg=="/>
+			<POI MapID="1000" xpos="-397.326" ypos="10.511" zpos="-718.201" type="chroniques.saison_2.ep3_l_ombre_du_dragon_1.jamais_pris_au_piege.trajet" GUID="cTk8Y30C6UONLYd7k3B2xQ=="/>
+			<POI MapID="1000" xpos="-391.274" ypos="11.78" zpos="-716.496" type="chroniques.saison_2.ep3_l_ombre_du_dragon_1.jamais_pris_au_piege.trajet" GUID="AkTBWbstcUCVklAkn+l3jg=="/>
+			<POI MapID="1000" xpos="-387.55" ypos="4.30306" zpos="-708.408" type="chroniques.saison_2.ep3_l_ombre_du_dragon_1.jamais_pris_au_piege.trajet" GUID="efwqrNXt6kySu7FD1xIXzw=="/>
+			<POI MapID="1000" xpos="-386.612" ypos="3.88241" zpos="-702.889" type="chroniques.saison_2.ep3_l_ombre_du_dragon_1.jamais_pris_au_piege.trajet" GUID="Fjhkyqp3LkiUJYYxiTnf4g=="/>
+			<POI MapID="1000" xpos="-386.392" ypos="2.0078" zpos="-697.641" type="chroniques.saison_2.ep3_l_ombre_du_dragon_1.jamais_pris_au_piege.trajet" GUID="d1r5xwO+KEeVoYhy01Z3Zg=="/>
+			<POI MapID="1000" xpos="-385.108" ypos="1.27084" zpos="-689.61" type="chroniques.saison_2.ep3_l_ombre_du_dragon_1.jamais_pris_au_piege.trajet" GUID="i7AMEs+IyEm7ZlVoPbMLew=="/>
+			<POI MapID="1000" xpos="-380.334" ypos="1.39531" zpos="-687.1" type="chroniques.saison_2.ep3_l_ombre_du_dragon_1.jamais_pris_au_piege.trajet" GUID="37gVaMSx/Ey9rrNFp2AdYg=="/>
+			<POI MapID="1000" xpos="-374.875" ypos="1.76131" zpos="-681.139" type="chroniques.saison_2.ep3_l_ombre_du_dragon_1.jamais_pris_au_piege.trajet" GUID="2mJgdEsbiEWUA8GSvF4oXg=="/>
+			<POI MapID="1000" xpos="-369.589" ypos="2.35526" zpos="-676.625" type="chroniques.saison_2.ep3_l_ombre_du_dragon_1.jamais_pris_au_piege.trajet" GUID="onAnmvEAo0iARjNGVZHmvA=="/>
+			<POI MapID="1000" xpos="-364.643" ypos="2.95135" zpos="-672.758" type="chroniques.saison_2.ep3_l_ombre_du_dragon_1.jamais_pris_au_piege.trajet" GUID="Abw3IFqAWEigCYYk3Bbbng=="/>
+			<POI MapID="1000" xpos="-359.02" ypos="2.65378" zpos="-669.996" type="chroniques.saison_2.ep3_l_ombre_du_dragon_1.jamais_pris_au_piege.trajet" GUID="88OhRfoxvkW6jKv8FhIl0g=="/>
+			<POI MapID="1000" xpos="-352.065" ypos="3.19779" zpos="-669.237" type="chroniques.saison_2.ep3_l_ombre_du_dragon_1.jamais_pris_au_piege.trajet" GUID="neMvx7a1j0uodRQwxKGLkg=="/>
+			<POI MapID="1000" xpos="-344.999" ypos="3.06767" zpos="-669.399" type="chroniques.saison_2.ep3_l_ombre_du_dragon_1.jamais_pris_au_piege.trajet" GUID="zTj/yOJrh0+ypjYCdYgpuw=="/>
+			<POI MapID="1000" xpos="-337.959" ypos="3.27387" zpos="-670.166" type="chroniques.saison_2.ep3_l_ombre_du_dragon_1.jamais_pris_au_piege.trajet" GUID="G9NsjBRnQkmdfVixHM/1tw=="/>
+			<POI MapID="1000" xpos="-331.035" ypos="3.95946" zpos="-671.481" type="chroniques.saison_2.ep3_l_ombre_du_dragon_1.jamais_pris_au_piege.trajet" GUID="Is8cfLbL7UuZeJeVplhhvw=="/>
+			<POI MapID="1000" xpos="-324.7" ypos="4.90999" zpos="-673.32" type="chroniques.saison_2.ep3_l_ombre_du_dragon_1.jamais_pris_au_piege.trajet" GUID="DuPBwIWYrEW+vIL87rerZg=="/>
+			<POI MapID="1000" xpos="-318.867" ypos="5.81699" zpos="-675.643" type="chroniques.saison_2.ep3_l_ombre_du_dragon_1.jamais_pris_au_piege.trajet" GUID="BbKRwA8ohEm6VWZ8NviWXA=="/>
+			<POI MapID="1000" xpos="-318.15" ypos="5.32285" zpos="-683.769" type="chroniques.saison_2.ep3_l_ombre_du_dragon_1.jamais_pris_au_piege.trajet" GUID="jlYNgnHpuEOR0dYvLxBXkA=="/>
+			<POI MapID="1000" xpos="-320.245" ypos="-0.195448" zpos="-692.32" type="chroniques.saison_2.ep3_l_ombre_du_dragon_1.jamais_pris_au_piege.trajet" GUID="0hsck7GmGUiw5VpwOvok+Q=="/>
+			<POI MapID="1000" xpos="-321.572" ypos="-0.19545" zpos="-698.523" type="chroniques.saison_2.ep3_l_ombre_du_dragon_1.jamais_pris_au_piege.trajet" GUID="xm2cAkTNb0++/sDn4Q4YHg=="/>
+			<POI MapID="1000" xpos="-321.256" ypos="-0.203191" zpos="-705.195" type="chroniques.saison_2.ep3_l_ombre_du_dragon_1.jamais_pris_au_piege.trajet" GUID="EA61L5L7bkGlRGYva7au4Q=="/>
+			<POI MapID="1000" xpos="-320.51" ypos="-0.187593" zpos="-711.122" type="chroniques.saison_2.ep3_l_ombre_du_dragon_1.jamais_pris_au_piege.trajet" GUID="nX/3RQXTykC/c23Q89Oa5w=="/>
+			<POI MapID="1000" xpos="-319.453" ypos="0.0761533" zpos="-717.744" type="chroniques.saison_2.ep3_l_ombre_du_dragon_1.jamais_pris_au_piege.trajet" GUID="yVGARnX+sEe7xC+RINurkw=="/>
+			<POI MapID="1000" xpos="-319.664" ypos="1.07336" zpos="-723.233" type="chroniques.saison_2.ep3_l_ombre_du_dragon_1.jamais_pris_au_piege.trajet" GUID="qMXv4i5z1EeZCU5eID7R7g=="/>
+			<POI MapID="1000" xpos="-320.265" ypos="1.40551" zpos="-729.141" type="chroniques.saison_2.ep3_l_ombre_du_dragon_1.jamais_pris_au_piege.trajet" GUID="G3HudpBmbEm65zQEarn3XQ=="/>
+			<POI MapID="1000" xpos="-314.023" ypos="1.45817" zpos="-728.61" type="chroniques.saison_2.ep3_l_ombre_du_dragon_1.jamais_pris_au_piege.trajet" GUID="i+j6C1/ah0uhAVgTKga9Nw=="/>
+			<POI MapID="1000" xpos="-307.372" ypos="2.02428" zpos="-728.058" type="chroniques.saison_2.ep3_l_ombre_du_dragon_1.jamais_pris_au_piege.trajet" GUID="cFluvYFtK0SJgdiGnxB6OA=="/>
+			<POI MapID="1000" xpos="-300.074" ypos="2.60445" zpos="-726.7" type="chroniques.saison_2.ep3_l_ombre_du_dragon_1.jamais_pris_au_piege.trajet" GUID="tCFSFtOHRkOnUj5kt4YGqQ=="/>
+			<POI MapID="1000" xpos="-290.919" ypos="0.739295" zpos="-725.265" type="chroniques.saison_2.ep3_l_ombre_du_dragon_1.jamais_pris_au_piege.trajet" GUID="CwVf2f8LjEqkZbKBI+LOjA=="/>
+			<POI MapID="1000" xpos="-284.643" ypos="0.549559" zpos="-724.332" type="chroniques.saison_2.ep3_l_ombre_du_dragon_1.jamais_pris_au_piege.trajet" GUID="VisGnRVQ0kGa7EIO4IhzKQ=="/>
+			<POI MapID="1000" xpos="-277.636" ypos="-0.193715" zpos="-723.273" type="chroniques.saison_2.ep3_l_ombre_du_dragon_1.jamais_pris_au_piege.trajet" GUID="qHqwhv1M+kev696qeP2ddA=="/>
+			<POI MapID="1000" xpos="-269.817" ypos="-0.19442" zpos="-723.203" type="chroniques.saison_2.ep3_l_ombre_du_dragon_1.jamais_pris_au_piege.trajet" GUID="UZm9ySQYIUO3S88At0p5Mw=="/>
+			<POI MapID="1000" xpos="-263.203" ypos="-0.19546" zpos="-724.524" type="chroniques.saison_2.ep3_l_ombre_du_dragon_1.jamais_pris_au_piege.trajet" GUID="jNUAAzoQyk+zWWbzimkDRg=="/>
+			<POI MapID="1000" xpos="-254.912" ypos="-0.19546" zpos="-727.854" type="chroniques.saison_2.ep3_l_ombre_du_dragon_1.jamais_pris_au_piege.trajet" GUID="dTYLMQbJakCUOHDJlZuU5w=="/>
+			<POI MapID="1000" xpos="-248.262" ypos="-0.113453" zpos="-731.244" type="chroniques.saison_2.ep3_l_ombre_du_dragon_1.jamais_pris_au_piege.trajet" GUID="hUwRicWlyUaA8Nt91+PHXg=="/>
+			<POI MapID="1000" xpos="-240.157" ypos="0.898256" zpos="-734.217" type="chroniques.saison_2.ep3_l_ombre_du_dragon_1.jamais_pris_au_piege.trajet" GUID="wakqqg41J0qdXD237nnLOA=="/>
+			<POI MapID="1000" xpos="-233.282" ypos="0.20181" zpos="-735.951" type="chroniques.saison_2.ep3_l_ombre_du_dragon_1.jamais_pris_au_piege.trajet" GUID="HyFj6VWJREuNhBB/Vgbwag=="/>
+			<POI MapID="1000" xpos="-227.297" ypos="0.566807" zpos="-737.974" type="chroniques.saison_2.ep3_l_ombre_du_dragon_1.jamais_pris_au_piege.trajet" GUID="fGDE6Z7a8kSQq0VMrrsUxA=="/>
+			<POI MapID="1000" xpos="-221" ypos="0.182266" zpos="-740.353" type="chroniques.saison_2.ep3_l_ombre_du_dragon_1.jamais_pris_au_piege.trajet" GUID="SfSUlYKYrEOHWuw6Y0Qyqg=="/>
+			<POI MapID="1000" xpos="-216.169" ypos="2.51678" zpos="-741.519" type="chroniques.saison_2.ep3_l_ombre_du_dragon_1.jamais_pris_au_piege.trajet" GUID="XHJ1jeoimEue7QMYgj9f6A=="/>
+			<POI MapID="1000" xpos="-209.742" ypos="2.5636" zpos="-739.656" type="chroniques.saison_2.ep3_l_ombre_du_dragon_1.jamais_pris_au_piege.trajet" GUID="XLNbvIZB40yJaxEfmBolUA=="/>
+			<POI MapID="1000" xpos="-203.445" ypos="3.3984" zpos="-737.506" type="chroniques.saison_2.ep3_l_ombre_du_dragon_1.jamais_pris_au_piege.trajet" GUID="Ex6xT3g+6EyeOi7LkaIg2w=="/>
+			<POI MapID="1000" xpos="-197.243" ypos="4.25677" zpos="-736.685" type="chroniques.saison_2.ep3_l_ombre_du_dragon_1.jamais_pris_au_piege.trajet" GUID="aq24tgfWk0273+ZdbNk9lA=="/>
+			<POI MapID="1000" xpos="-190.568" ypos="4.68859" zpos="-736.526" type="chroniques.saison_2.ep3_l_ombre_du_dragon_1.jamais_pris_au_piege.trajet" GUID="MXEirFXy/U+1HQIELOyXkw=="/>
+			<POI MapID="1000" xpos="-184.004" ypos="5.70553" zpos="-734.853" type="chroniques.saison_2.ep3_l_ombre_du_dragon_1.jamais_pris_au_piege.trajet" GUID="yLA6Qlas8kW//DM0ZuHl+A=="/>
+			<POI MapID="1000" xpos="-177.715" ypos="4.55434" zpos="-728.047" type="chroniques.saison_2.ep3_l_ombre_du_dragon_1.jamais_pris_au_piege.trajet" GUID="2dGO/+yBGkSfNnp3D2OpqA=="/>
+			<POI MapID="1000" xpos="-179.491" ypos="5.45911" zpos="-731.85" type="chroniques.saison_2.ep3_l_ombre_du_dragon_1.jamais_pris_au_piege.trajet" GUID="gN2YbH6qZkOvPiNhL5MPDA=="/>
+			<POI MapID="1000" xpos="-186.056" ypos="5.483" zpos="-737.381" type="chroniques.saison_2.ep3_l_ombre_du_dragon_1.jamais_pris_au_piege.trajet" GUID="O1X2hZyTUEu4yAta44zPaA=="/>
+			<POI MapID="1000" xpos="-193.453" ypos="4.98904" zpos="-739.733" type="chroniques.saison_2.ep3_l_ombre_du_dragon_1.jamais_pris_au_piege.trajet" GUID="fiEtlKWDz06gt2BMimo2vg=="/>
+			<POI MapID="1000" xpos="-200.503" ypos="4.28498" zpos="-740.172" type="chroniques.saison_2.ep3_l_ombre_du_dragon_1.jamais_pris_au_piege.trajet" GUID="aR3GKHeG4EuGok7JyncC5w=="/>
+			<POI MapID="1000" xpos="-213.471" ypos="2.23362" zpos="-738.718" type="chroniques.saison_2.ep3_l_ombre_du_dragon_1.jamais_pris_au_piege.trajet" GUID="hxenNUVwG0ajlRv/UH0fsA=="/>
+			<POI MapID="1000" xpos="-218.922" ypos="1.98224" zpos="-737.411" type="chroniques.saison_2.ep3_l_ombre_du_dragon_1.jamais_pris_au_piege.trajet" GUID="MLNm4uC7k0abIPIQfEGxQg=="/>
+			<POI MapID="1000" xpos="-226.539" ypos="0.303047" zpos="-735.64" type="chroniques.saison_2.ep3_l_ombre_du_dragon_1.jamais_pris_au_piege.trajet" GUID="ekkG1VQIDUirGsi/zT5hxw=="/>
+			<POI MapID="1000" xpos="-235.391" ypos="-0.18477" zpos="-732.554" type="chroniques.saison_2.ep3_l_ombre_du_dragon_1.jamais_pris_au_piege.trajet" GUID="rMBIeBGdvE6hxsN6pHaTyw=="/>
+			<POI MapID="1000" xpos="-243.492" ypos="-0.156172" zpos="-730.127" type="chroniques.saison_2.ep3_l_ombre_du_dragon_1.jamais_pris_au_piege.trajet" GUID="qFANHMiLBEq1l6fSm1K2sQ=="/>
+			<POI MapID="1000" xpos="-255.339" ypos="-0.153441" zpos="-731.005" type="chroniques.saison_2.ep3_l_ombre_du_dragon_1.jamais_pris_au_piege.trajet" GUID="LL+JBjPLr0+kFlNzny6CHQ=="/>
+			<POI MapID="1000" xpos="-263.882" ypos="-0.189931" zpos="-730.215" type="chroniques.saison_2.ep3_l_ombre_du_dragon_1.jamais_pris_au_piege.trajet" GUID="yaZbSFGGZEOcK+c2IWXGuA=="/>
+			<POI MapID="1000" xpos="-272.01" ypos="-0.188844" zpos="-729.044" type="chroniques.saison_2.ep3_l_ombre_du_dragon_1.jamais_pris_au_piege.trajet" GUID="x5nSVEQoZkqNwH+OKh7VYA=="/>
+			<POI MapID="1000" xpos="-279.362" ypos="-0.140252" zpos="-727.746" type="chroniques.saison_2.ep3_l_ombre_du_dragon_1.jamais_pris_au_piege.trajet" GUID="njAeb9pSFUC9ZfAJXfrzTw=="/>
+			<POI MapID="1000" xpos="-286.638" ypos="0.522822" zpos="-726.225" type="chroniques.saison_2.ep3_l_ombre_du_dragon_1.jamais_pris_au_piege.trajet" GUID="JlGTDI7S7UycLkpz/wtmKA=="/>
+			<POI MapID="1000" xpos="-295.673" ypos="0.937203" zpos="-724.19" type="chroniques.saison_2.ep3_l_ombre_du_dragon_1.jamais_pris_au_piege.trajet" GUID="O7Y/BMX/pkyi4IPOSU33dg=="/>
+			<POI MapID="1000" xpos="-303.285" ypos="1.1142" zpos="-722.469" type="chroniques.saison_2.ep3_l_ombre_du_dragon_1.jamais_pris_au_piege.trajet" GUID="qSoGzChBc0CZAbxjNqFDAA=="/>
+			<POI MapID="1000" xpos="-312.531" ypos="0.373629" zpos="-719.596" type="chroniques.saison_2.ep3_l_ombre_du_dragon_1.jamais_pris_au_piege.trajet" GUID="1+mxXKi+FUSZpbHunZ9Yzw=="/>
+			<POI MapID="1000" xpos="-323.188" ypos="0.163094" zpos="-716.198" type="chroniques.saison_2.ep3_l_ombre_du_dragon_1.jamais_pris_au_piege.trajet" GUID="M7JvgE9j6ky0KPKN/Z9I7Q=="/>
+			<POI MapID="1000" xpos="-331.3" ypos="0.435231" zpos="-713.394" type="chroniques.saison_2.ep3_l_ombre_du_dragon_1.jamais_pris_au_piege.trajet" GUID="XuDm4sbUyEebMFMGCdSGYQ=="/>
+			<POI MapID="1000" xpos="-339.04" ypos="0.556036" zpos="-710.707" type="chroniques.saison_2.ep3_l_ombre_du_dragon_1.jamais_pris_au_piege.trajet" GUID="oSEgCcVImk6XS4yRKuYZ/Q=="/>
+			<POI MapID="1000" xpos="-349.229" ypos="3.30829" zpos="-710.859" type="chroniques.saison_2.ep3_l_ombre_du_dragon_1.jamais_pris_au_piege.trajet" GUID="RVJfkBn1pEWjL2w0PNKCZQ=="/>
+			<POI MapID="1000" xpos="-355.046" ypos="4.05431" zpos="-713.277" type="chroniques.saison_2.ep3_l_ombre_du_dragon_1.jamais_pris_au_piege.trajet" GUID="oAIHnJp85k6ipANZAG+5qQ=="/>
+			<POI MapID="1000" xpos="-362.756" ypos="6.34163" zpos="-716.738" type="chroniques.saison_2.ep3_l_ombre_du_dragon_1.jamais_pris_au_piege.trajet" GUID="mnJPWMZX0kunaYyaLHc5+w=="/>
+			<POI MapID="1000" xpos="-369.622" ypos="7.60549" zpos="-719.815" type="chroniques.saison_2.ep3_l_ombre_du_dragon_1.jamais_pris_au_piege.trajet" GUID="IrqiL+v5MEGdfcXkGOZGGw=="/>
+			<POI MapID="1000" xpos="-377.128" ypos="7.58828" zpos="-723.261" type="chroniques.saison_2.ep3_l_ombre_du_dragon_1.jamais_pris_au_piege.trajet" GUID="qPceeqOJUE6V+f5+BLhuRQ=="/>
+			<POI MapID="1000" xpos="-385.001" ypos="9.62409" zpos="-725.481" type="chroniques.saison_2.ep3_l_ombre_du_dragon_1.jamais_pris_au_piege.trajet" GUID="K8NBWMFRvUik/hzDkpeNbA=="/>
+			<POI MapID="1000" xpos="-392.851" ypos="10.4124" zpos="-723.818" type="chroniques.saison_2.ep3_l_ombre_du_dragon_1.jamais_pris_au_piege.trajet" GUID="Kot0U/c/+kCNsIYqzZG7Kw=="/>
+			<POI MapID="1000" xpos="-400.036" ypos="10.3781" zpos="-721.946" type="chroniques.saison_2.ep3_l_ombre_du_dragon_1.jamais_pris_au_piege.trajet" GUID="yhMZ8+2LPkiclktkoHilqQ=="/>
+			<POI MapID="1000" xpos="-407.005" ypos="12.5774" zpos="-720.858" type="chroniques.saison_2.ep3_l_ombre_du_dragon_1.jamais_pris_au_piege.trajet" GUID="l3e4ZMAEWEmxPthlhrD/3w=="/>
+			<POI MapID="1000" xpos="-413.959" ypos="15.7198" zpos="-719.278" type="chroniques.saison_2.ep3_l_ombre_du_dragon_1.jamais_pris_au_piege.trajet" GUID="8eAO36DyRUKtN2DHtWmptw=="/>
+			<POI MapID="1000" xpos="-421.386" ypos="18.0446" zpos="-716.833" type="chroniques.saison_2.ep3_l_ombre_du_dragon_1.jamais_pris_au_piege.trajet" GUID="YfPOh81NsE+LYi2KiFTeug=="/>
+			<POI MapID="1000" xpos="-428.257" ypos="19.646" zpos="-714.471" type="chroniques.saison_2.ep3_l_ombre_du_dragon_1.jamais_pris_au_piege.trajet" GUID="vubhnCI3JkuI9cxOWYvztA=="/>
+			<POI MapID="1000" xpos="-434.815" ypos="21.6748" zpos="-711.609" type="chroniques.saison_2.ep3_l_ombre_du_dragon_1.jamais_pris_au_piege.trajet" GUID="hdK3FTinPUyNeRMGRfeKAg=="/>
+			<POI MapID="1000" xpos="-440.598" ypos="24.2535" zpos="-708.475" type="chroniques.saison_2.ep3_l_ombre_du_dragon_1.jamais_pris_au_piege.trajet" GUID="LGRx1DQWKkGBJTg67iFi1g=="/>
+			<POI MapID="1000" xpos="-445.267" ypos="25.317" zpos="-701.914" type="chroniques.saison_2.ep3_l_ombre_du_dragon_1.jamais_pris_au_piege.trajet" GUID="P/GFsdicIEOJo+tHKBq+Jw=="/>
+			<POI MapID="1000" xpos="-447.875" ypos="27.0118" zpos="-695.684" type="chroniques.saison_2.ep3_l_ombre_du_dragon_1.jamais_pris_au_piege.trajet" GUID="SHL6t4Lql0achDyLERDFyA=="/>
+			<POI MapID="1000" xpos="-449.193" ypos="31.1471" zpos="-689.74" type="chroniques.saison_2.ep3_l_ombre_du_dragon_1.jamais_pris_au_piege.trajet" GUID="SM1rsoIPW0u4mri5xhaJzQ=="/>
+			<POI MapID="1000" xpos="-448.374" ypos="34.8249" zpos="-683.283" type="chroniques.saison_2.ep3_l_ombre_du_dragon_1.jamais_pris_au_piege.trajet" GUID="qnBABAZYK0uv5ijuevdfMA=="/>
+			<POI MapID="1000" xpos="-447.327" ypos="37.8179" zpos="-674.921" type="chroniques.saison_2.ep3_l_ombre_du_dragon_1.jamais_pris_au_piege.trajet" GUID="3LvU7rBavUWFotcjk+Wgqw=="/>
+			<POI MapID="1000" xpos="-447.59" ypos="42.2939" zpos="-667.68" type="chroniques.saison_2.ep3_l_ombre_du_dragon_1.jamais_pris_au_piege.trajet" GUID="tZF40cMBzUOi8tOH7TFzxA=="/>
+			<POI MapID="1000" xpos="-449.407" ypos="45.8051" zpos="-661.34" type="chroniques.saison_2.ep3_l_ombre_du_dragon_1.jamais_pris_au_piege.trajet" GUID="uASmRMWHmEuQltmSyt31uw=="/>
+			<POI MapID="1000" xpos="-452.31" ypos="48.5795" zpos="-656.463" type="chroniques.saison_2.ep3_l_ombre_du_dragon_1.jamais_pris_au_piege.trajet" GUID="Yc6Nvwa4rUOsyQJ9VTfa2Q=="/>
+			<POI MapID="1000" xpos="-456.343" ypos="50.6829" zpos="-652.044" type="chroniques.saison_2.ep3_l_ombre_du_dragon_1.jamais_pris_au_piege.trajet" GUID="xvrx8bOdyUStKRk0QYGEdg=="/>
+		</Route>
+
+		<!-- Renforcer le Confinement -->
+		<POI MapID="1000" xpos="-315.649" ypos="7.31934" zpos="-677.988" type="chroniques.saison_2.ep3_l_ombre_du_dragon_1.jamais_pris_au_piege" GUID="WZN52GA/8EiBmPfb4dMYxg==" iconFile="Img\OmbreDuDragon_JamaisPrisAuPiege_Confinement-EN.png" iconSize="2" heightOffset="3"/>
+
+		<!-- Extraire le Générateur -->
+		<POI MapID="1000" xpos="-320.539" ypos="2.11338" zpos="-732.143" type="chroniques.saison_2.ep3_l_ombre_du_dragon_1.jamais_pris_au_piege" GUID="B0QsHHpAo0mXDv1k+s/R7w==" iconFile="Img\Loupe.png"/>
+		<POI MapID="1000" xpos="-323.215" ypos="2.26225" zpos="-730.817" type="chroniques.saison_2.ep3_l_ombre_du_dragon_1.jamais_pris_au_piege" GUID="XnBi7H8/ME26Y085Va342A==" iconFile="Img\OmbreDuDragon_JamaisPrisAuPiege_Generateur-EN.png" iconSize="2"/>
+
+		<!-- Détecter la bonne caisse -->
+		<POI MapID="1000" xpos="-177.596" ypos="4.74441" zpos="-724.88" type="chroniques.saison_2.ep3_l_ombre_du_dragon_1.jamais_pris_au_piege" GUID="8We1EfxbhEaZTwq+Zmt3Tg==" iconFile="Img\OmbreDuDragon_JamaisPrisAuPiege_Detection-EN.png" iconSize="2" heightOffset="3"/>
+
+	</POIs>
+</OverlayData>

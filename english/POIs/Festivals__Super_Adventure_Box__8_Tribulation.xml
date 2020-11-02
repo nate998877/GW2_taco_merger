@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+POIs: TMKFrench.6427
+Date: 2017/10/06
+!!! IMPORTANT !!! DO NOT DELETE THIS FILE IF YOU LOAD AT LEAST ONE TRIBULATION WORLD !!!
+-->
+<OverlayData>
+	<MarkerCategory name="festivals" DisplayName="Seasonal Events">
+		<MarkerCategory name="super_adventure_box" DisplayName="Super Adventure Box" iconSize="0.5" fadeNear="6000" fadeFar="7000">
+			<MarkerCategory name="tribulation" DisplayName="Tribulation Help (All World)" iconFile="Img\SAB_Tribulation.png" iconSize="0.5" heightOffset="0.5" fadeNear="1500" fadeFar="1700">
+				<MarkerCategory name="briser_etourdissement" DisplayName="Break Stun" iconFile="Img\SAB_BriserEtourdissement.png"/>
+				<MarkerCategory name="rebond" DisplayName="Bounce" iconFile="Img\Rebondir.png" iconSize="1" heightOffset="0.1"/>
+				<MarkerCategory name="monter" DisplayName="Climb" iconFile="Img\Monter.png" iconSize="1" heightOffset="0.8"/>
+				<MarkerCategory name="danger" DisplayName="Danger" iconFile="Img\Attention.png" fadeNear="1500" fadeFar="2200"/>
+				<MarkerCategory name="attendre_danger" DisplayName="Danger Wait" iconFile="Img\ResterIciDanger.png" iconSize="1" heightOffset="0.1"/>
+				<MarkerCategory name="piege_mortel" DisplayName="Deadly Trap" iconFile="Img\Mort.png" color="ffff0000"/>
+				<MarkerCategory name="esquive" DisplayName="Dodge" iconFile="Img\Esquive.png"/>
+				<MarkerCategory name="esquive_saut" DisplayName="Dodge-Jump" iconFile="Img\EsquiveSaut.png" iconSize="1" heightOffset="0.1"/>
+				<MarkerCategory name="esquive_saut_dessus" DisplayName="Dodge-Jump On It" iconFile="Img\EsquiveSautDessus.png" iconSize="1" heightOffset="0.1"/>
+				<MarkerCategory name="guide" DisplayName="Guide" iconFile="Img\Guide.png" iconSize="0.5" alpha="0.9"/>
+				<MarkerCategory name="ici" DisplayName="Here" iconFile="Img\Fleche.png" iconSize="0.5" alpha="0.9"/>
+				<MarkerCategory name="saut" DisplayName="Jump" iconFile="Img\SautIci.png" iconSize="1" heightOffset="0.1"/>
+				<MarkerCategory name="saut_dessus" DisplayName="Jump Up" iconFile="Img\SautDessus.png" iconSize="1" heightOffset="0.1"/>
+				<MarkerCategory name="chemin_long" DisplayName="Long Way" iconFile="Img\CheminLong.png"/>
+				<MarkerCategory name="vite" DisplayName="Quick" iconFile="Img\Vite.png"/>
+				<MarkerCategory name="zone_sur" DisplayName="Safe Area" iconFile="Img\ZoneSur.png" iconSize="0.4" alpha="0.8"/>
+				<MarkerCategory name="chemin_sur" DisplayName="Safe Way" iconFile="Img\CheminSur.png"/>
+				<MarkerCategory name="chemin_court" DisplayName="Short Way" iconFile="Img\CheminCourt.png"/>
+				<MarkerCategory name="contour_gauche" DisplayName="Turn Left" iconFile="Img\ContourGauche.png"/>
+				<MarkerCategory name="contour_droite" DisplayName="Turn Right" iconFile="Img\ContourDroite.png"/>
+				<MarkerCategory name="attendre" DisplayName="Wait" iconFile="Img\ResterIci.png" iconSize="1" heightOffset="0.1"/>
+			</MarkerCategory>
+		</MarkerCategory>
+	</MarkerCategory>
+</OverlayData>

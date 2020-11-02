@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+POIs: ReActif.9251
+Date: 2017/01/07
+-->
+<OverlayData>
+	<MarkerCategory name="heart_of_thorns.repli_du_dragon">
+		<MarkerCategory name="amateur_de_bauge" DisplayName="Wallowing Whiz"/>
+	</MarkerCategory>
+
+	<POIs>
+
+		<POI MapID="1041" xpos="812.526" ypos="12.5006" zpos="208.38" type="heart_of_thorns.repli_du_dragon.amateur_de_bauge" GUID="ibxzu6rPbUO0Yqu3W/d6rQ=="/>
+
+	</POIs>
+</OverlayData>

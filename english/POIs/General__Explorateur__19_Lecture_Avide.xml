@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+POIs: GW2Info.net
+Date: 2016/11/29
+-->
+<OverlayData>
+	<MarkerCategory name="general" DisplayName="General">
+		<MarkerCategory name="explorateur" DisplayName="Explorer" iconFile="Img\Explorateur.png" behavior="3">
+			<MarkerCategory name="lecture_avide" DisplayName="Speedy Reader" iconFile="Img\Livre.png" behavior="1"/>
+		</MarkerCategory>
+	</MarkerCategory>
+
+	<POIs>
+
+		<POI MapID="21" xpos="-372.017" ypos="70.9828" zpos="-535.266" type="general.explorateur.lecture_avide" GUID="kTtrPR+Gv06ep9eX1Ck4kw=="/>
+		<POI MapID="21" xpos="-358.507" ypos="72.3845" zpos="-556.102" type="general.explorateur.lecture_avide" GUID="m28mTmv/JkGZCLFbc8LCAA=="/>
+		<POI MapID="21" xpos="-466.503" ypos="70.8946" zpos="-454.319" type="general.explorateur.lecture_avide" GUID="TdrWbX5be0y69YDsKjCwbA=="/>
+		<POI MapID="21" xpos="-504.65" ypos="53.8537" zpos="-534.566" type="general.explorateur.lecture_avide" GUID="9zxtGsYU90ubIhZzycEFBw=="/>
+		<POI MapID="21" xpos="-567.582" ypos="56.6222" zpos="-712.697" type="general.explorateur.lecture_avide" GUID="8MIbIhncf0G7HUX7assDzw=="/>
+		<POI MapID="21" xpos="-427.803" ypos="62.0693" zpos="-720.68" type="general.explorateur.lecture_avide" GUID="7SjzNEjePEqcuKyD1Di1Zw=="/>
+		<POI MapID="21" xpos="-420.265" ypos="70.4282" zpos="-695.907" type="general.explorateur.lecture_avide" GUID="oWybYeM6qUWAdqqkBtdsBQ=="/>
+		<POI MapID="21" xpos="-437.799" ypos="67.8522" zpos="-712.548" type="general.explorateur.lecture_avide" GUID="BGH4/Dr9cUuFLYlZ12jyIA=="/>
+		<POI MapID="21" xpos="-425.814" ypos="75.6337" zpos="-688.282" type="general.explorateur.lecture_avide" GUID="UDiNz444d0eq7/L4yMdkiw=="/>
+		<POI MapID="21" xpos="-421.133" ypos="75.6418" zpos="-728.92" type="general.explorateur.lecture_avide" GUID="fGafMq6Hq0mx0+2FLUrepQ=="/>
+		<POI MapID="21" xpos="-555.764" ypos="69.6888" zpos="-810.511" type="general.explorateur.lecture_avide" GUID="BSQITO1I1kuNuuVCUbKBDg=="/>
+		<POI MapID="21" xpos="-492.66" ypos="69.5875" zpos="-823.975" type="general.explorateur.lecture_avide" GUID="PkKHOtHX60Wwfcr/rB5isA=="/>
+		<POI MapID="21" xpos="-562.409" ypos="85.8077" zpos="-784.819" type="general.explorateur.lecture_avide" GUID="6vCegbbB50Gq974lUhx2lA=="/>
+		<POI MapID="21" xpos="-595.026" ypos="83.0684" zpos="-802.498" type="general.explorateur.lecture_avide" GUID="25ZxSZyqJk+ZfBoYbBtbsA=="/>
+		<POI MapID="21" xpos="-691.463" ypos="68.6554" zpos="-773.19" type="general.explorateur.lecture_avide" GUID="KLcHolLpKUCdlcUjecudDQ=="/>
+		<POI MapID="21" xpos="-851.557" ypos="65.6768" zpos="-709.162" type="general.explorateur.lecture_avide" GUID="YnSfoRjBhUim28yeaJiP2Q=="/>
+		<POI MapID="21" xpos="-815.902" ypos="73.7387" zpos="-722.158" type="general.explorateur.lecture_avide" GUID="CwxjgomF+kG/GUiq4z/MBA=="/>
+		<POI MapID="21" xpos="-678.239" ypos="52.0915" zpos="-636.28" type="general.explorateur.lecture_avide" GUID="9tdPlkBAp0+iXk00WjV9+A=="/>
+		<POI MapID="21" xpos="-613.463" ypos="52.768" zpos="-513.951" type="general.explorateur.lecture_avide" GUID="x8c+btdCZEa2up7ucBVVaw=="/>	
+		<POI MapID="21" xpos="-694.732" ypos="71.0047" zpos="-422.663" type="general.explorateur.lecture_avide" GUID="jai4smKZok24UgbYw4mjbQ=="/>
+
+	</POIs>
+</OverlayData>

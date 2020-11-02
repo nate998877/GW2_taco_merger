@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+POIs: ReActif.9251
+Date: 2016/12/09
+-->
+<OverlayData>
+	<MarkerCategory name="chroniques.saison_3">
+		<MarkerCategory name="ep1_hors_des_ombres" DisplayName="Ep.1 - Out of the Shadows" iconFile="Img\MaraisDeLaPierreDeSang.png">
+			<MarkerCategory name="les_memoires_du_justicier_bauer" DisplayName="The Memoirs of justiciar Bauer"/>
+		</MarkerCategory>
+	</MarkerCategory>
+
+	<POIs>
+
+		<!-- Pages -->
+		<POI MapID="1165" xpos="-144.52" ypos="545.688" zpos="142.717" type="chroniques.saison_3.ep1_hors_des_ombres.les_memoires_du_justicier_bauer" GUID="5oah6S6wiUGeQof41/GN5w=="/>
+		<POI MapID="1165" xpos="-19.2257" ypos="711.833" zpos="-38.6156" type="chroniques.saison_3.ep1_hors_des_ombres.les_memoires_du_justicier_bauer" GUID="3lTYTBvuKEqnctHJGXv/cQ=="/>
+		<POI MapID="1165" xpos="219.911" ypos="543.819" zpos="99.5247" type="chroniques.saison_3.ep1_hors_des_ombres.les_memoires_du_justicier_bauer" GUID="J2ucrNRylkyfOP8E2SnIIw=="/>
+		<POI MapID="1165" xpos="74.0865" ypos="545.803" zpos="96.6929" type="chroniques.saison_3.ep1_hors_des_ombres.les_memoires_du_justicier_bauer" GUID="FaFRkSCm4EWIcRqXjSvT9g=="/>
+		<POI MapID="1165" xpos="-191.253" ypos="684.283" zpos="81.1443" type="chroniques.saison_3.ep1_hors_des_ombres.les_memoires_du_justicier_bauer" GUID="SMs5BqODpUKpqNDk/yBQ1A=="/>
+		<POI MapID="1165" xpos="-130.699" ypos="515.928" zpos="54.7316" type="chroniques.saison_3.ep1_hors_des_ombres.les_memoires_du_justicier_bauer" GUID="M5IYfyYUrUC4S+cP9RaiZw=="/>
+		<POI MapID="1165" xpos="-247.558" ypos="529.174" zpos="-127.945" type="chroniques.saison_3.ep1_hors_des_ombres.les_memoires_du_justicier_bauer" GUID="G+8/4MJYPE+Z3BuYP/H9tg=="/>
+		<POI MapID="1165" xpos="1.36813" ypos="692.624" zpos="99.5566" type="chroniques.saison_3.ep1_hors_des_ombres.les_memoires_du_justicier_bauer" GUID="GTKP9MHj+kaLUnmHfQfu3Q=="/>
+		<POI MapID="1165" xpos="228.431" ypos="793.235" zpos="16.1837" type="chroniques.saison_3.ep1_hors_des_ombres.les_memoires_du_justicier_bauer" GUID="WVMltBSs0UmGz8zqz44LLw=="/>
+		<POI MapID="1165" xpos="-180.303" ypos="537.658" zpos="-55.2798" type="chroniques.saison_3.ep1_hors_des_ombres.les_memoires_du_justicier_bauer" GUID="PRNfFhCQf0KYXrbW3aEweQ=="/>
+		<POI MapID="1165" xpos="240.399" ypos="474.766" zpos="50.7728" type="chroniques.saison_3.ep1_hors_des_ombres.les_memoires_du_justicier_bauer" GUID="P/XZ61bStUOnYqr8x/RIEQ=="/>
+		<POI MapID="1165" xpos="-241.044" ypos="508.08" zpos="165.828" type="chroniques.saison_3.ep1_hors_des_ombres.les_memoires_du_justicier_bauer" GUID="z6pWm04bnEKQzVgL3cBBAQ=="/>
+		<POI MapID="1165" xpos="-83.5447" ypos="695.679" zpos="-83.6798" type="chroniques.saison_3.ep1_hors_des_ombres.les_memoires_du_justicier_bauer" GUID="5snMX7rk7kmJoeI3CJs85g=="/>
+		<POI MapID="1165" xpos="-369.361" ypos="538.437" zpos="-88.8967" type="chroniques.saison_3.ep1_hors_des_ombres.les_memoires_du_justicier_bauer" GUID="RJShvQc9mUW2abhUPPIS4A=="/>
+
+	</POIs>
+</OverlayData>

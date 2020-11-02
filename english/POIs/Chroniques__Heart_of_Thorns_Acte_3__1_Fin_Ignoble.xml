@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+POIs: ReActif.9251
+Date: 2017/03/02
+-->
+<OverlayData>
+	<MarkerCategory name="chroniques.hot">
+		<MarkerCategory name="acte_3" DisplayName="Heart of Thorns : Act 3" iconFile="Img\HeartOfThornsActe3.png">
+			<MarkerCategory name="fin_ignoble" DisplayName="An Ignoble End"/>
+		</MarkerCategory>
+	</MarkerCategory>
+
+	<POIs>
+
+		<!-- Garde Punisseur Mordrem -->
+		<POI MapID="1033" xpos="531.292" ypos="85.1517" zpos="355.976" type="chroniques.hot.acte_3.fin_ignoble" GUID="pYWo4cPdpUyY7fW/GD7Raw==" heightOffset="4.3"/>
+
+	</POIs>
+</OverlayData>

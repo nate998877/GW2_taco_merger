@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+POIs: ReActif.9251
+Date: 2017/01/07
+-->
+<OverlayData>
+	<MarkerCategory name="heart_of_thorns.repli_du_dragon">
+		<MarkerCategory name="acrobate_prismatique" DisplayName="Prismatic Percher">
+			<MarkerCategory name="acces" DisplayName="Guide" iconFile="Img\Guide.png" iconSize="0.75" triggerRange="3"/>
+		</MarkerCategory>
+	</MarkerCategory>
+
+	<POIs>
+
+		<!-- Debut -->
+		<POI MapID="1041" xpos="378.25" ypos="64.14" zpos="322.86" type="heart_of_thorns.repli_du_dragon.acrobate_prismatique.acces" GUID="GPNuaJQuy0W8Kxc1CeTc1w==" iconFile="Img\RepliDuDragonDebut-EN.png" iconSize="1"/>
+
+		<!-- Route -->
+		<Route MapID="1041" name="Acrobate_Prismatique" resetposx="378.25" resetposy="64.14" resetposz="322.86" resetrange="0.5">
+			<POI MapID="1041" xpos="387.185" ypos="60.4978" zpos="326.051" type="heart_of_thorns.repli_du_dragon.acrobate_prismatique.acces" GUID="RYjdb67jCkSzwjMO0vicZw=="/>
+			<POI MapID="1041" xpos="397.46" ypos="58.1641" zpos="329.93" type="heart_of_thorns.repli_du_dragon.acrobate_prismatique.acces" GUID="XNp7YlpsdkyCZ/GE5BZkmA=="/>
+			<POI MapID="1041" xpos="407.752" ypos="57.5696" zpos="334.322" type="heart_of_thorns.repli_du_dragon.acrobate_prismatique.acces" GUID="psr4JNSaLEu1AfbDhTMv+A=="/>
+			<POI MapID="1041" xpos="416.85" ypos="58.2214" zpos="338.598" type="heart_of_thorns.repli_du_dragon.acrobate_prismatique.acces" GUID="4h7nwkyR70moJsN5CJrKxg=="/>
+			<POI MapID="1041" xpos="424.861" ypos="59.7248" zpos="342.981" type="heart_of_thorns.repli_du_dragon.acrobate_prismatique.acces" GUID="0TTXGB6wmUKjDtwv4JsiOA=="/>
+			<POI MapID="1041" xpos="434.87" ypos="56.6148" zpos="348.221" type="heart_of_thorns.repli_du_dragon.acrobate_prismatique.acces" GUID="94oYGYFyc0ewejK7woPA8Q=="/>
+			<POI MapID="1041" xpos="442.835" ypos="52.9711" zpos="352.087" type="heart_of_thorns.repli_du_dragon.acrobate_prismatique.acces" GUID="eEIC7I54IkWieusn6ZSiSw=="/>
+			<POI MapID="1041" xpos="450.252" ypos="53.7638" zpos="355.586" type="heart_of_thorns.repli_du_dragon.acrobate_prismatique.acces" GUID="h8ZBCTiu302Ak2eodJwR+w=="/>
+			<POI MapID="1041" xpos="458.904" ypos="55.3918" zpos="360.45" type="heart_of_thorns.repli_du_dragon.acrobate_prismatique.acces" GUID="kJTtvAve4EyTmy4oBoljJg=="/>
+			<POI MapID="1041" xpos="466.741" ypos="56.2487" zpos="364.586" type="heart_of_thorns.repli_du_dragon.acrobate_prismatique.acces" GUID="FXXnOwGmeUSMXjmlG+oaRA=="/>
+			<POI MapID="1041" xpos="474.548" ypos="55.0434" zpos="368.894" type="heart_of_thorns.repli_du_dragon.acrobate_prismatique.acces" GUID="eVrC12Qit0CyYfPuoSyuhA=="/>
+			<POI MapID="1041" xpos="480.765" ypos="55.3303" zpos="375.277" type="heart_of_thorns.repli_du_dragon.acrobate_prismatique.acces" GUID="w633nM69GU2rEwsOTbVzMQ=="/>
+			<POI MapID="1041" xpos="484.727" ypos="57.4843" zpos="380.387" type="heart_of_thorns.repli_du_dragon.acrobate_prismatique.acces" GUID="ydLFS7rT4UOBw7ud5vt86w=="/>
+			<POI MapID="1041" xpos="499.386" ypos="78.848" zpos="385.784" type="heart_of_thorns.repli_du_dragon.acrobate_prismatique.acces" GUID="aAi+591C8UiDEtM5mGluKg=="/>
+			<POI MapID="1041" xpos="503.522" ypos="78.6466" zpos="391.802" type="heart_of_thorns.repli_du_dragon.acrobate_prismatique.acces" GUID="ivhtTh8lMkCWI/MdJrqINw=="/>
+			<POI MapID="1041" xpos="507.326" ypos="79.9714" zpos="391.882" type="heart_of_thorns.repli_du_dragon.acrobate_prismatique.acces" GUID="7ggpVMYiWEqWTQOHKM9MMw=="/>
+			<POI MapID="1041" xpos="514.775" ypos="82.0629" zpos="390.237" type="heart_of_thorns.repli_du_dragon.acrobate_prismatique.acces" GUID="ZN2dVw5/EEaKjhoP52ucow=="/>
+			<POI MapID="1041" xpos="524.56" ypos="84.2651" zpos="392.74" type="heart_of_thorns.repli_du_dragon.acrobate_prismatique.acces" GUID="vrvKHauIlkiaH6FlZ4zkhg=="/>
+			<POI MapID="1041" xpos="536.413" ypos="86.2777" zpos="396.088" type="heart_of_thorns.repli_du_dragon.acrobate_prismatique.acces" GUID="CAMCZj1jZ0CDPcpSf4ceEQ=="/>
+			<POI MapID="1041" xpos="546.24" ypos="87.8112" zpos="396.176" type="heart_of_thorns.repli_du_dragon.acrobate_prismatique.acces" GUID="4IeWW5ylLE2PIKerJVapAw=="/>
+			<POI MapID="1041" xpos="555.128" ypos="91.474" zpos="396.736" type="heart_of_thorns.repli_du_dragon.acrobate_prismatique.acces" GUID="A9EeHGCGdUe3Ykk53S3qZg=="/>
+			<POI MapID="1041" xpos="563.75" ypos="94.6507" zpos="397.938" type="heart_of_thorns.repli_du_dragon.acrobate_prismatique.acces" GUID="AVZ5HPPO9k+qB3NjyCUDRA=="/>
+			<POI MapID="1041" xpos="572.411" ypos="98.6023" zpos="399.996" type="heart_of_thorns.repli_du_dragon.acrobate_prismatique.acces" GUID="v8NHnDAs2kqmhwDGtTHf4A=="/>
+			<POI MapID="1041" xpos="581.112" ypos="100.838" zpos="402.6" type="heart_of_thorns.repli_du_dragon.acrobate_prismatique.acces" GUID="GCJCF77ve0G7ONJ52NF05A=="/>
+			<POI MapID="1041" xpos="589.982" ypos="102.879" zpos="404.443" type="heart_of_thorns.repli_du_dragon.acrobate_prismatique.acces" GUID="IFSkt9RUhEqYFPR2ZzbkOA=="/>
+			<POI MapID="1041" xpos="599.642" ypos="101.62" zpos="403.85" type="heart_of_thorns.repli_du_dragon.acrobate_prismatique.acces" GUID="BDjSUp4ttkSJ4viQ/3LSrQ=="/>
+			<POI MapID="1041" xpos="609.63" ypos="99.9554" zpos="402.264" type="heart_of_thorns.repli_du_dragon.acrobate_prismatique.acces" GUID="m2TWUKLxFE+4gArMx86BcQ=="/>
+			<POI MapID="1041" xpos="618.732" ypos="98.1327" zpos="401.144" type="heart_of_thorns.repli_du_dragon.acrobate_prismatique.acces" GUID="RU++wFE6Dk6CykzjZs1xzw=="/>
+			<POI MapID="1041" xpos="627.941" ypos="95.0204" zpos="402.037" type="heart_of_thorns.repli_du_dragon.acrobate_prismatique.acces" GUID="jq2TM0Kj1U2YvOZrGLEW/Q=="/>
+			<POI MapID="1041" xpos="640.739" ypos="93.0834" zpos="404.018" type="heart_of_thorns.repli_du_dragon.acrobate_prismatique.acces" GUID="4YyNdRp0aE+pWEfHoY9H7Q=="/>
+			<POI MapID="1041" xpos="651.762" ypos="88.7308" zpos="406.688" type="heart_of_thorns.repli_du_dragon.acrobate_prismatique.acces" GUID="MpVOAEixEUidDUreWbKBKA=="/>
+			<POI MapID="1041" xpos="662.597" ypos="84.4928" zpos="408.865" type="heart_of_thorns.repli_du_dragon.acrobate_prismatique.acces" GUID="VWYbpaigK0qdSym+jKFuIw=="/>
+			<POI MapID="1041" xpos="673.282" ypos="80.2547" zpos="411.667" type="heart_of_thorns.repli_du_dragon.acrobate_prismatique.acces" GUID="Vsvv6vdNQEmzWArlia4VFw=="/>
+			<POI MapID="1041" xpos="682.277" ypos="76.4748" zpos="415.643" type="heart_of_thorns.repli_du_dragon.acrobate_prismatique.acces" GUID="7ADzaRL5Uk6IoFa59TWGlA=="/>
+		</Route>
+
+		<!-- Arrivée -->
+		<POI MapID="1041" xpos="682.41" ypos="75.11" zpos="418.36" type="heart_of_thorns.repli_du_dragon.acrobate_prismatique" GUID="7raRmI9iXUGkmlUo+5/mqw=="/>
+
+	</POIs>
+</OverlayData>

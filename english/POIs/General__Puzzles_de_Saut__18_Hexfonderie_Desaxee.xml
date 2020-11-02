@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+POIs: Cloud Strife.7492 - Xenophy.2716 - ReActif.9251
+Date: 2017/08/23
+-->
+<OverlayData>
+	<MarkerCategory name="general" DisplayName="General">
+		<MarkerCategory name="puzzles_de_saut" DisplayName="Jumping Puzzles" iconFile="Img\Guide.png" iconSize="0.75">
+			<MarkerCategory name="hexfonderie_desaxee" DisplayName="Hexfoundry Unhinged" triggerRange="5"/>
+		</MarkerCategory>
+	</MarkerCategory>
+
+	<POIs>
+
+		<!-- Début -->
+		<POI MapID="53" xpos="619.46" ypos="35.47" zpos="-704.32" type="general.puzzles_de_saut.debut" GUID="rBh2clVD9Emc5sd/KCo/og=="/>
+
+		<!-- Route -->
+		<Route MapID="53" name="Hexfonderie_Desaxee" resetposx="619.46" resetposy="35.47" resetposz="-704.32" resetrange="2">
+			<POI MapID="53" xpos="624.585" ypos="38.5588" zpos="-715.939" type="general.puzzles_de_saut.hexfonderie_desaxee" GUID="0tj/2HLb7EaGh5tBcnrJrg=="/>
+			<POI MapID="53" xpos="627.579" ypos="39.9933" zpos="-728.152" type="general.puzzles_de_saut.hexfonderie_desaxee" GUID="LSYxT+E3gE+LoWIempp4lg=="/>
+			<POI MapID="53" xpos="631.169" ypos="42.6988" zpos="-736.679" type="general.puzzles_de_saut.hexfonderie_desaxee" GUID="e5vQEs4BuUqRmZsL1cHIbQ=="/>
+			<POI MapID="53" xpos="634.012" ypos="41.5496" zpos="-741.915" type="general.puzzles_de_saut.hexfonderie_desaxee" GUID="PfeXDRx9fkyJg/B6wG+06Q=="/>
+			<POI MapID="53" xpos="636.709" ypos="40.2504" zpos="-751.687" type="general.puzzles_de_saut.hexfonderie_desaxee" GUID="RG7Hh1/Cp0+NDhOUlC/9dw=="/>
+			<POI MapID="53" xpos="641.585" ypos="40.6646" zpos="-762.73" type="general.puzzles_de_saut.hexfonderie_desaxee" GUID="552lXTj3/ki0Fo8nEflo3A=="/>
+			<POI MapID="53" xpos="646.888" ypos="40.6691" zpos="-771.691" type="general.puzzles_de_saut.hexfonderie_desaxee" GUID="cEQW9WLGtE6T0oB0daF8qA=="/>
+			<POI MapID="53" xpos="652.364" ypos="19.5205" zpos="-786.037" type="general.puzzles_de_saut.hexfonderie_desaxee" GUID="GpaEZg616E6jkfcI8EHWzw=="/>
+			<POI MapID="53" xpos="654.571" ypos="-2.691" zpos="-786.805" type="general.puzzles_de_saut.hexfonderie_desaxee" GUID="JrpymVEuqUKBcgPu9CxZ+A=="/>
+			<POI MapID="53" xpos="666.199" ypos="-11.4884" zpos="-795.422" type="general.puzzles_de_saut.hexfonderie_desaxee" GUID="XFqKoYm3nEiTBZXCTx6mpw=="/>
+			<POI MapID="53" xpos="683.408" ypos="-2.9655" zpos="-799.345" type="general.puzzles_de_saut.hexfonderie_desaxee" GUID="/Dm8ZmsoI069OSA37KWaAg=="/>
+			<POI MapID="53" xpos="688.96" ypos="2.14071" zpos="-807.272" type="general.puzzles_de_saut.hexfonderie_desaxee" GUID="+FCH4FqhKU6/fD1117dK3g=="/>
+			<POI MapID="53" xpos="693.043" ypos="1.78362" zpos="-819.376" type="general.puzzles_de_saut.hexfonderie_desaxee" GUID="qm6muEl7qkqRy0i/F22idA=="/>
+			<POI MapID="53" xpos="693.384" ypos="4.649" zpos="-833.687" type="general.puzzles_de_saut.hexfonderie_desaxee" GUID="jMXMfPagM06dR9OzpPjmBQ=="/>
+			<POI MapID="53" xpos="685.461" ypos="12.287" zpos="-838.606" type="general.puzzles_de_saut.hexfonderie_desaxee" GUID="D0tTx5Ya2UicC2Fcj8HD/Q=="/>
+			<POI MapID="53" xpos="677.574" ypos="17.7259" zpos="-840.341" type="general.puzzles_de_saut.hexfonderie_desaxee" GUID="KlqpAem+8k6cfTrR4W0TjA=="/>
+			<POI MapID="53" xpos="665.425" ypos="19.6681" zpos="-840.743" type="general.puzzles_de_saut.hexfonderie_desaxee" GUID="Td5I0ZXTwkejn8/i1+YsxQ=="/>
+			<POI MapID="53" xpos="653.856" ypos="20.7576" zpos="-833.994" type="general.puzzles_de_saut.hexfonderie_desaxee" GUID="fA/+OeqPJE6OxKbT3d12uw=="/>
+			<POI MapID="53" xpos="646.2" ypos="24.9216" zpos="-824.467" type="general.puzzles_de_saut.hexfonderie_desaxee" GUID="aUqE1BSzVEajHgzMVN7NUA=="/>
+			<POI MapID="53" xpos="637.295" ypos="33.3446" zpos="-817.937" type="general.puzzles_de_saut.hexfonderie_desaxee" GUID="Vs3gg/mC30WAomoSawSoFA=="/>
+			<POI MapID="53" xpos="627.774" ypos="41.7952" zpos="-809.513" type="general.puzzles_de_saut.hexfonderie_desaxee" GUID="9O5cyM9DskqDDHfXkxmsBw=="/>
+			<POI MapID="53" xpos="620.018" ypos="49.0515" zpos="-806.815" type="general.puzzles_de_saut.hexfonderie_desaxee" GUID="FH20fLN+okWvY4ZF/GcJNQ=="/>
+			<POI MapID="53" xpos="629.979" ypos="48.617" zpos="-799.454" type="general.puzzles_de_saut.hexfonderie_desaxee" GUID="U/094ZfPcUG3/U7x/wrvIQ=="/>
+			<POI MapID="53" xpos="637.303" ypos="44.3861" zpos="-810.582" type="general.puzzles_de_saut.hexfonderie_desaxee" GUID="87/kyF9R/Ua+bgc+5K04qA=="/>
+			<POI MapID="53" xpos="641.559" ypos="42.7767" zpos="-823.563" type="general.puzzles_de_saut.hexfonderie_desaxee" GUID="YlFIbzEeD0eho4QpeSbJAA=="/>
+			<POI MapID="53" xpos="643.333" ypos="42.6632" zpos="-832.379" type="general.puzzles_de_saut.hexfonderie_desaxee" GUID="2E1w+7PbAkmsuzv2Bp1XcQ=="/>
+			<POI MapID="53" xpos="641.856" ypos="43.1763" zpos="-839.443" type="general.puzzles_de_saut.hexfonderie_desaxee" GUID="URgyM0d+IEGhn9b1RPs/bQ==" iconFile="Img\Interrupteur.png"/>
+			<POI MapID="53" xpos="643.783" ypos="41.5958" zpos="-850.477" type="general.puzzles_de_saut.hexfonderie_desaxee" GUID="aRTWPHF43kmOubklRm7vtQ=="/>
+			<POI MapID="53" xpos="644.724" ypos="24.6722" zpos="-856.725" type="general.puzzles_de_saut.hexfonderie_desaxee" GUID="f/+9JmJtnEm22q9HOxF7rQ=="/>
+			<POI MapID="53" xpos="651.201" ypos="22.1913" zpos="-870.123" type="general.puzzles_de_saut.hexfonderie_desaxee" GUID="iIrrnO7bdkybdGBrphkoYw=="/>
+			<POI MapID="53" xpos="654.231" ypos="26.5398" zpos="-875.55" type="general.puzzles_de_saut.hexfonderie_desaxee" GUID="4qz5wLK6aU+NkmU2RAQnmA=="/>
+			<POI MapID="53" xpos="657.344" ypos="26.5542" zpos="-881.331" type="general.puzzles_de_saut.hexfonderie_desaxee" GUID="mXia4LuDg06U6//B7UhOfA=="/>
+			<POI MapID="53" xpos="651.218" ypos="32.4216" zpos="-884.798" type="general.puzzles_de_saut.hexfonderie_desaxee" GUID="sg0nUr9QcEylcMljXNIK/Q=="/>
+			<POI MapID="53" xpos="646.415" ypos="39.2364" zpos="-889.544" type="general.puzzles_de_saut.hexfonderie_desaxee" GUID="aoBNVq1ICU6R4MFF7wyEcQ=="/>
+			<POI MapID="53" xpos="654.38" ypos="39.6705" zpos="-894.683" type="general.puzzles_de_saut.hexfonderie_desaxee" GUID="nXYoCeupTEW2nvs0bNUT4A=="/>
+			<POI MapID="53" xpos="664.55" ypos="40.2802" zpos="-896.307" type="general.puzzles_de_saut.hexfonderie_desaxee" GUID="LejuQu7lxESnJfWWBalHXQ=="/>
+			<POI MapID="53" xpos="671.976" ypos="39.3867" zpos="-893.192" type="general.puzzles_de_saut.hexfonderie_desaxee" GUID="WardXbGW0Ea5/XrpeNkwVQ=="/>
+			<POI MapID="53" xpos="677.159" ypos="41.3052" zpos="-892.071" type="general.puzzles_de_saut.hexfonderie_desaxee" GUID="TUDVJWaRg0Wss0qKEwNKLA=="/>
+			<POI MapID="53" xpos="681.589" ypos="41.0201" zpos="-887.225" type="general.puzzles_de_saut.hexfonderie_desaxee" GUID="dIzpr8DWFkSGNeuCKz4uJA=="/>
+			<POI MapID="53" xpos="688.839" ypos="40.0759" zpos="-885.406" type="general.puzzles_de_saut.hexfonderie_desaxee" GUID="wO4eru77F0GR4XXB2L2RsA=="/>
+			<POI MapID="53" xpos="694.57" ypos="40.6997" zpos="-890.093" type="general.puzzles_de_saut.hexfonderie_desaxee" GUID="A32WhHdJnU2ZbaA7ZKataQ=="/>
+			<POI MapID="53" xpos="697.954" ypos="40.9485" zpos="-897.116" type="general.puzzles_de_saut.hexfonderie_desaxee" GUID="cnVIFS02f0WbCD7slpffuw=="/>
+			<POI MapID="53" xpos="703.973" ypos="30.1655" zpos="-905.547" type="general.puzzles_de_saut.hexfonderie_desaxee" GUID="X8ZkCUFVRkO9DPjaxySZuw=="/>
+			<POI MapID="53" xpos="710.745" ypos="31.8617" zpos="-908.616" type="general.puzzles_de_saut.hexfonderie_desaxee" GUID="F7Ffmx3+8USu3jYbquNGrg=="/>
+			<POI MapID="53" xpos="714.348" ypos="33.6952" zpos="-908.249" type="general.puzzles_de_saut.hexfonderie_desaxee" GUID="azLxBMd4oEqHoFiJRqhfdw==" iconFile="Img\Interrupteur.png"/>
+			<POI MapID="53" xpos="707.505" ypos="31.0501" zpos="-904.745" type="general.puzzles_de_saut.hexfonderie_desaxee" GUID="Xa0W9tli/U+oWP81gg7H5w=="/>
+			<POI MapID="53" xpos="702.175" ypos="29.7149" zpos="-897.614" type="general.puzzles_de_saut.hexfonderie_desaxee" GUID="DJ42CmvhRkmw/XgCKaLEQw=="/>
+			<POI MapID="53" xpos="708.51" ypos="16.076" zpos="-885.125" type="general.puzzles_de_saut.hexfonderie_desaxee" GUID="E1W8R4gYv0qTh5PkAyON6g=="/>
+			<POI MapID="53" xpos="710.287" ypos="20.7071" zpos="-879.801" type="general.puzzles_de_saut.hexfonderie_desaxee" GUID="1QXxl8n7LUKv7eePIp7PBg=="/>
+			<POI MapID="53" xpos="711.576" ypos="26.0364" zpos="-870.058" type="general.puzzles_de_saut.hexfonderie_desaxee" GUID="OmBfzFsxnE6DP0vOkaaOEw=="/>
+			<POI MapID="53" xpos="716.474" ypos="25.3919" zpos="-857.344" type="general.puzzles_de_saut.hexfonderie_desaxee" GUID="cPq9++idN0K0DMKbmLPLOg=="/>
+			<POI MapID="53" xpos="718.176" ypos="27.2245" zpos="-848.785" type="general.puzzles_de_saut.hexfonderie_desaxee" GUID="ozdGuFvneE2Gyc7TJ32KUw=="/>
+			<POI MapID="53" xpos="717.785" ypos="28.9786" zpos="-839.025" type="general.puzzles_de_saut.hexfonderie_desaxee" GUID="0LXeukEmnUeDSy/Q8Ihc3g=="/>
+			<POI MapID="53" xpos="720.205" ypos="29.038" zpos="-828.825" type="general.puzzles_de_saut.hexfonderie_desaxee" GUID="nA7mAEqaS02rf2E9zRqffQ=="/>
+			<POI MapID="53" xpos="721.638" ypos="28.1962" zpos="-817.14" type="general.puzzles_de_saut.hexfonderie_desaxee" GUID="d5HuhBLqdkWYDfjT/TTFnw=="/>
+			<POI MapID="53" xpos="717.23" ypos="29.186" zpos="-811.79" type="general.puzzles_de_saut.hexfonderie_desaxee" GUID="oPP4m+SD3UqyjqpPjobbBg=="/>
+			<POI MapID="53" xpos="711.036" ypos="21.0892" zpos="-804.652" type="general.puzzles_de_saut.hexfonderie_desaxee" GUID="IlBlZHEDI0CgZgtIEi+lpw=="/>
+			<POI MapID="53" xpos="708.185" ypos="21.221" zpos="-800.352" type="general.puzzles_de_saut.hexfonderie_desaxee" GUID="L3/0uAcPCU6JAy+jFtS9dA=="/>
+			<POI MapID="53" xpos="709.201" ypos="18.5046" zpos="-793.663" type="general.puzzles_de_saut.hexfonderie_desaxee" GUID="3Zda+zfQ0U6hrNy6km1wQg=="/>
+			<POI MapID="53" xpos="708.091" ypos="19.0151" zpos="-787.815" type="general.puzzles_de_saut.hexfonderie_desaxee" GUID="YXs/gx2iY0qu4hIhLzFt6w=="/>
+			<POI MapID="53" xpos="713.633" ypos="19.3489" zpos="-784.739" type="general.puzzles_de_saut.hexfonderie_desaxee" GUID="njjhjVjl2UCFqhz8KCPaiA=="/>
+			<POI MapID="53" xpos="722.291" ypos="21.8344" zpos="-781.773" type="general.puzzles_de_saut.hexfonderie_desaxee" GUID="nJ1OQqnNoUCJXr6U4j+sCA=="/>
+			<POI MapID="53" xpos="724.083" ypos="23.6839" zpos="-774.753" type="general.puzzles_de_saut.hexfonderie_desaxee" GUID="95V7A4FMvEqaxBMg1UqYlw=="/>
+			<POI MapID="53" xpos="728.269" ypos="23.2104" zpos="-765.432" type="general.puzzles_de_saut.hexfonderie_desaxee" GUID="nmdN/yMfc0OOBq9C30CpBw=="/>
+			<POI MapID="53" xpos="730.414" ypos="21.6235" zpos="-760.087" type="general.puzzles_de_saut.hexfonderie_desaxee" GUID="CQtHqKVhwUKz/I2Fg2JMIA=="/>
+			<POI MapID="53" xpos="728.927" ypos="16.6291" zpos="-750.853" type="general.puzzles_de_saut.hexfonderie_desaxee" GUID="fOPd66MfqUeZRFeoCH1HsA=="/>
+			<POI MapID="53" xpos="733.697" ypos="18.4261" zpos="-741.211" type="general.puzzles_de_saut.hexfonderie_desaxee" GUID="4JtEk6CAvUWEE0Pk/Y5kgA=="/>
+			<POI MapID="53" xpos="741.728" ypos="22.4748" zpos="-742.284" type="general.puzzles_de_saut.hexfonderie_desaxee" GUID="H487FPzhNUK2OLpYhok1Ww=="/>
+			<POI MapID="53" xpos="741.982" ypos="26.0285" zpos="-744.992" type="general.puzzles_de_saut.hexfonderie_desaxee" GUID="/BRJ5onFWEG5UdigJyk2sQ=="/>
+			<POI MapID="53" xpos="734.105" ypos="29.9712" zpos="-746.765" type="general.puzzles_de_saut.hexfonderie_desaxee" GUID="0JLaxKoGMkC2L6s/a/s3xw=="/>
+			<POI MapID="53" xpos="742.929" ypos="30.6011" zpos="-747.415" type="general.puzzles_de_saut.hexfonderie_desaxee" GUID="IHZrwDEmtEyJuLWavBQ5Wg=="/>
+			<POI MapID="53" xpos="750" ypos="31.88" zpos="-740.47" type="general.puzzles_de_saut.hexfonderie_desaxee" GUID="VRPbj6gUyU6s5kRO4GY6Zg==" iconFile="Img\Interrupteur.png"/>
+			<POI MapID="53" xpos="742.164" ypos="30.2893" zpos="-741.394" type="general.puzzles_de_saut.hexfonderie_desaxee" GUID="au8+KOLABkye/K75SOqEQA=="/>
+			<POI MapID="53" xpos="735.478" ypos="28.5034" zpos="-744.293" type="general.puzzles_de_saut.hexfonderie_desaxee" GUID="zcNE3c6bP0CXOuo9xJx7iw=="/>
+			<POI MapID="53" xpos="736.451" ypos="16.5599" zpos="-742.81" type="general.puzzles_de_saut.hexfonderie_desaxee" GUID="MMb4hWpcX0ah3xxXaJL9Yw=="/>
+			<POI MapID="53" xpos="732.219" ypos="16.352" zpos="-750.177" type="general.puzzles_de_saut.hexfonderie_desaxee" GUID="D/XFLWjU8EKiKD168VjQqA=="/>
+			<POI MapID="53" xpos="734.425" ypos="19.5729" zpos="-756.341" type="general.puzzles_de_saut.hexfonderie_desaxee" GUID="SX+4dGuy/ESHzJxlzPZu1A=="/>
+			<POI MapID="53" xpos="727.81" ypos="22.3722" zpos="-762.351" type="general.puzzles_de_saut.hexfonderie_desaxee" GUID="lGjyhA5naEyhPq3oozIO9w=="/>
+			<POI MapID="53" xpos="725.74" ypos="27.194" zpos="-769.902" type="general.puzzles_de_saut.hexfonderie_desaxee" GUID="MAspK5nh70qXqFtW5ao7Jw=="/>
+			<POI MapID="53" xpos="724.198" ypos="22.4773" zpos="-778.227" type="general.puzzles_de_saut.hexfonderie_desaxee" GUID="rOYLuKfo/UW94TtykQMzYA=="/>
+			<POI MapID="53" xpos="722.751" ypos="21.5843" zpos="-790.338" type="general.puzzles_de_saut.hexfonderie_desaxee" GUID="PJaF1FF4vUK8eVBxuKpIow=="/>
+			<POI MapID="53" xpos="711.229" ypos="12.7722" zpos="-789.774" type="general.puzzles_de_saut.hexfonderie_desaxee" GUID="AXF8ipFF3EeGCr4QAT2s2w=="/>
+			<POI MapID="53" xpos="705.44" ypos="8.72889" zpos="-795.024" type="general.puzzles_de_saut.hexfonderie_desaxee" GUID="Z6XEr2mzAEeWY8FVgA0vuQ=="/>
+			<POI MapID="53" xpos="696.664" ypos="-1.0551" zpos="-802.311" type="general.puzzles_de_saut.hexfonderie_desaxee" GUID="yaxhTAcRLkup5nTjw7OFxw=="/>
+			<POI MapID="53" xpos="692.159" ypos="1.253" zpos="-814.28" type="general.puzzles_de_saut.hexfonderie_desaxee" GUID="VN9z4/EVO0ayCLQzmx6aEg=="/>
+			<POI MapID="53" xpos="695.542" ypos="2.02113" zpos="-827.921" type="general.puzzles_de_saut.hexfonderie_desaxee" GUID="WPab/lMdR0e24BWZCkd2Iw=="/>
+			<POI MapID="53" xpos="689.858" ypos="7.50334" zpos="-835.787" type="general.puzzles_de_saut.hexfonderie_desaxee" GUID="WKFcXx2wtES9rS7izw42jg=="/>
+			<POI MapID="53" xpos="680.962" ypos="15.1553" zpos="-840.483" type="general.puzzles_de_saut.hexfonderie_desaxee" GUID="fHK8i51IREyh7CkeEqh0Gw=="/>
+			<POI MapID="53" xpos="669.963" ypos="19.2974" zpos="-840.022" type="general.puzzles_de_saut.hexfonderie_desaxee" GUID="e6+glZv73kK0msHwyh5otA=="/>
+			<POI MapID="53" xpos="658.735" ypos="20.2113" zpos="-838.243" type="general.puzzles_de_saut.hexfonderie_desaxee" GUID="3tQlRJDhfkejgSp6CgJFOw=="/>
+			<POI MapID="53" xpos="649.743" ypos="22.2523" zpos="-829.194" type="general.puzzles_de_saut.hexfonderie_desaxee" GUID="L5CChrmAkkaMvqenJbKJmw=="/>
+			<POI MapID="53" xpos="642.268" ypos="28.0931" zpos="-821.06" type="general.puzzles_de_saut.hexfonderie_desaxee" GUID="Kl6GVJV3G0GOrpNt1BOjvw=="/>
+			<POI MapID="53" xpos="632.434" ypos="37.0426" zpos="-813.872" type="general.puzzles_de_saut.hexfonderie_desaxee" GUID="LVYHo8adMU2uaJTxIUsvtg=="/>
+			<POI MapID="53" xpos="622.885" ypos="45.0122" zpos="-809.658" type="general.puzzles_de_saut.hexfonderie_desaxee" GUID="XbVRZHlE+UiAmL6sRl+wCg=="/>
+			<POI MapID="53" xpos="623.807" ypos="49.0529" zpos="-801.016" type="general.puzzles_de_saut.hexfonderie_desaxee" GUID="GYIEiaKf1ESKG+MXKT3Fpw=="/>
+			<POI MapID="53" xpos="634.055" ypos="48.0377" zpos="-803.006" type="general.puzzles_de_saut.hexfonderie_desaxee" GUID="KVGO95iOkkCvIFaCHxCjXA=="/>
+			<POI MapID="53" xpos="641.252" ypos="42.5687" zpos="-818.952" type="general.puzzles_de_saut.hexfonderie_desaxee" GUID="y7zRf+sWU02FFp9jKaLHdw=="/>
+			<POI MapID="53" xpos="648.313" ypos="38.2638" zpos="-831.237" type="general.puzzles_de_saut.hexfonderie_desaxee" GUID="9v+utQ3zUUaMDo/blv2iUg=="/>
+			<POI MapID="53" xpos="652.341" ypos="33.5979" zpos="-837.697" type="general.puzzles_de_saut.hexfonderie_desaxee" GUID="gEdTMtMEVEu5OWqNRYy40A=="/>
+			<POI MapID="53" xpos="658.901" ypos="31.9149" zpos="-847.167" type="general.puzzles_de_saut.hexfonderie_desaxee" GUID="GlYCLNaQ90K+WieeOLtL4A=="/>
+			<POI MapID="53" xpos="659.053" ypos="15.7275" zpos="-856.226" type="general.puzzles_de_saut.hexfonderie_desaxee" GUID="CTwg+no180e27ovAyUBXuw=="/>
+			<POI MapID="53" xpos="665.519" ypos="7.18094" zpos="-867.759" type="general.puzzles_de_saut.hexfonderie_desaxee" GUID="daZGSgZBjk6tdTPUIb2TJw=="/>
+			<POI MapID="53" xpos="675.474" ypos="-1.82081" zpos="-876.567" type="general.puzzles_de_saut.hexfonderie_desaxee" GUID="mO4D/cGxE0i/U/djKu0Gqw=="/>
+			<POI MapID="53" xpos="685.107" ypos="-0.481396" zpos="-887.497" type="general.puzzles_de_saut.hexfonderie_desaxee" GUID="bIehCUoMDUm94zINjZKNlA=="/>
+			<POI MapID="53" xpos="693.082" ypos="5.79129" zpos="-893.961" type="general.puzzles_de_saut.hexfonderie_desaxee" GUID="uC57GpY+3kSANfZdS1iUpg=="/>
+			<POI MapID="53" xpos="700.11" ypos="7.59865" zpos="-895.461" type="general.puzzles_de_saut.hexfonderie_desaxee" GUID="aw+47ZZFUEqlDGiT0nXg6w=="/>
+			<POI MapID="53" xpos="703.222" ypos="12.51" zpos="-888.009" type="general.puzzles_de_saut.hexfonderie_desaxee" GUID="g5warMridkKYhLPc2OKghA=="/>
+			<POI MapID="53" xpos="707.613" ypos="18.0415" zpos="-880.561" type="general.puzzles_de_saut.hexfonderie_desaxee" GUID="Dp4PUNqMwEychnMq+4Ieww=="/>
+			<POI MapID="53" xpos="710.479" ypos="23.4819" zpos="-873.757" type="general.puzzles_de_saut.hexfonderie_desaxee" GUID="Q+a1QtXztk+89pwdCfRung=="/>
+			<POI MapID="53" xpos="716.775" ypos="26.1948" zpos="-853.43" type="general.puzzles_de_saut.hexfonderie_desaxee" GUID="Gf42OadvpUqe1AWVXiU06A=="/>
+			<POI MapID="53" xpos="718.876" ypos="27.9781" zpos="-845.266" type="general.puzzles_de_saut.hexfonderie_desaxee" GUID="QoP9yTtGVUirkcWkVC9hHg=="/>
+			<POI MapID="53" xpos="725.85" ypos="29.4743" zpos="-846.488" type="general.puzzles_de_saut.hexfonderie_desaxee" GUID="x/ZObChJekOAvFKKgObA7Q=="/>
+			<POI MapID="53" xpos="737.604" ypos="29.4743" zpos="-848.514" type="general.puzzles_de_saut.hexfonderie_desaxee" GUID="9mt4Wh+SMk6JCqsh3pf9lg=="/>
+		</Route>
+
+		<!-- Coffre -->
+		<POI MapID="53" xpos="752.619" ypos="29.4615" zpos="-848.744" type="general.puzzles_de_saut.hexfonderie_desaxee" GUID="ha5tpW1I5UafaQDXZIpMTg==" iconFile="Img\CoffrePuzzle.png" iconSize="1" heightOffset="2.5" behavior="2"/>
+
+	</POIs>
+</OverlayData>

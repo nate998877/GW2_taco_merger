@@ -1,0 +1,435 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+POIs: ReActif.9251 - TMKFrench.6427
+Date: 2017/08/22
+-->
+<OverlayData>
+	<MarkerCategory name="informations.avantages_de_deplacement">
+		<MarkerCategory name="champignons_rebondissants" DisplayName="Bouncing Mushrooms" iconFile="Img\ChampignonRebondissant.png" heightOffset="0"/>
+	</MarkerCategory>
+
+	<POIs>
+
+		<!--
+		Orée d'Emeraude
+		-->
+
+		<POI MapID="1052" xpos="-685.073" ypos="467.06" zpos="57.8407" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="PF6mL3QIAkaXOoq0aHMv+A=="/>
+		<POI MapID="1052" xpos="-619.015" ypos="400.243" zpos="-49.4061" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="bw4104lNL0i9me1d1xhviA=="/>
+		<POI MapID="1052" xpos="-617.284" ypos="463.611" zpos="75.4483" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="KAaPCkhhMEqk/+NMMf6HNg=="/>
+		<POI MapID="1052" xpos="-578.567" ypos="517.274" zpos="172.81" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="9jf/qUSIVE2VulFK9TwFaA=="/>
+		<POI MapID="1052" xpos="-540.996" ypos="392.344" zpos="-139.881" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="VL90MpBbeESSZlFgCJmYIA=="/>
+		<POI MapID="1052" xpos="-526.88" ypos="602.196" zpos="210.705" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="f8M44pWNXUmjpcWGjOWUEA=="/>
+		<POI MapID="1052" xpos="-492.247" ypos="670.527" zpos="-112.03" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="3QYlOuMyMUWFwMIqdp9qpg=="/>
+		<POI MapID="1052" xpos="-481.835" ypos="477.604" zpos="-191.27" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="r1zL3ihCzUeMr5hHoLnbUA=="/>
+		<POI MapID="1052" xpos="-442.675" ypos="494.334" zpos="-335.31" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="lWWRo4OzvkSqzsegmhN8yA=="/>
+		<POI MapID="1052" xpos="-438.412" ypos="495.506" zpos="-380.483" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="HmwrIbEr/EOKQWR0nNwIhw=="/>
+		<POI MapID="1052" xpos="-391.614" ypos="489.954" zpos="-369.675" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="NFEntOgO7ECC6dZknYLYiw=="/>
+		<POI MapID="1052" xpos="-369.991" ypos="428.404" zpos="-199.35" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="ivxtBFL6d0+qv5FBf7x81A=="/>
+		<POI MapID="1052" xpos="-363.558" ypos="533.197" zpos="221.645" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="9UVEEw+Kz0KS42xbPToJvQ=="/>
+		<POI MapID="1052" xpos="-350.186" ypos="385.046" zpos="-180.999" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="Ai0bKQmN4U6ou5TVq0LZHQ=="/>
+		<POI MapID="1052" xpos="-332.078" ypos="417.758" zpos="-173.374" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="4efgKOEGQkCowD2FH2tDgA=="/>
+		<POI MapID="1052" xpos="-268.786" ypos="456.784" zpos="-306.844" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="1+Uq7fO+VUyCXMg5rZEd2w=="/>
+		<POI MapID="1052" xpos="-265.499" ypos="383.039" zpos="-176.572" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="EtWgqe5gCE+me/DvHK366w=="/>
+		<POI MapID="1052" xpos="-261.895" ypos="352.714" zpos="235.22" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="3I4CJNH0cUyfoSwlNjHLfA=="/>
+		<POI MapID="1052" xpos="-237.928" ypos="382.596" zpos="76.3521" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="VOnCgvcKSUOnSmMGBQ3k+w=="/>
+		<POI MapID="1052" xpos="-227.58" ypos="446.387" zpos="-267.957" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="nAK5wYi4Zkytk0z80DvsIw=="/>
+		<POI MapID="1052" xpos="-206.602" ypos="511.975" zpos="205.174" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="N+lqRf+0CUW4sW3Ja3UcNw=="/>
+		<POI MapID="1052" xpos="-138.56" ypos="392.893" zpos="131.134" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="LEA8oOJPMEKclmC23Uo7dw=="/>
+		<POI MapID="1052" xpos="-115.79" ypos="374.709" zpos="35.5886" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="QAT+E7aSYkqpoaVNZHohag=="/>
+		<POI MapID="1052" xpos="-84.2868" ypos="365.178" zpos="-30.6381" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="tLNNkDlxyUaJ4b/6EA2HYw=="/>
+		<POI MapID="1052" xpos="1.78698" ypos="373.891" zpos="-99.5301" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="t3N+EZzoWE21b4gTVDfuGQ=="/>
+		<POI MapID="1052" xpos="10.6035" ypos="359.106" zpos="-292.34" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="IE2MJLXtz0uRNtV+qzcLBw=="/>
+		<POI MapID="1052" xpos="31.4326" ypos="348.581" zpos="-319.992" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="FxmhtIBNv0yQbCutgXtbBw=="/>
+		<POI MapID="1052" xpos="34.3741" ypos="345.042" zpos="-295.393" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="L38+eKpckkih7HLlfSNl6A=="/>
+		<POI MapID="1052" xpos="80.6867" ypos="644.792" zpos="-52.6849" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="TDfNCJ8RE0mqzSmR4mStEQ=="/>
+		<POI MapID="1052" xpos="162.506" ypos="606.711" zpos="-173.767" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="MCSnelyODEiRvFjrfuhW5g=="/>
+		<POI MapID="1052" xpos="225.481" ypos="509.113" zpos="-333.088" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="Rqt+itfIX0Obyl8KZX6E9g=="/>
+		<POI MapID="1052" xpos="251.078" ypos="426.289" zpos="-316.758" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="44cNM4nc9EGTzHhwxSizeA=="/>
+		<POI MapID="1052" xpos="257.119" ypos="399.487" zpos="-301.063" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="44YjdFnlLkm0JbAD7/fKJQ=="/>
+		<POI MapID="1052" xpos="368.792" ypos="632.978" zpos="238.691" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="fVC/l6Pt70q9Bajy6XR9uw=="/>
+		<POI MapID="1052" xpos="424.81" ypos="624.302" zpos="210.44" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="dRGVbC2vDE+LZdotgYCyug=="/>
+		<POI MapID="1052" xpos="428.337" ypos="623.559" zpos="185.489" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="2rB0EVLnQEiqm5+k39NDQg=="/>
+		<POI MapID="1052" xpos="436.085" ypos="623.416" zpos="203.135" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="+QDfXcmOOU2MEqE3o9HOnQ=="/>
+		<POI MapID="1052" xpos="445.766" ypos="650.747" zpos="261.218" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="/O3s/g9HC02zn6Y9a0QpcA=="/>
+		<POI MapID="1052" xpos="462.045" ypos="389.014" zpos="217.818" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="m+4NYivGx0iYTWCVjOwKLQ=="/>
+		<POI MapID="1052" xpos="462.615" ypos="368.945" zpos="235.234" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="WtymMAwO2k2ZzvZdOTnRsA=="/>
+		<POI MapID="1052" xpos="467.209" ypos="367.918" zpos="260.151" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="RKU00WOx2k2vfTQC9l3TDw=="/>
+		<POI MapID="1052" xpos="470.857" ypos="418.379" zpos="197.861" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="RYltcso0Yk+HgH5rdOw3tA=="/>
+		<POI MapID="1052" xpos="475.756" ypos="405.753" zpos="282.136" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="srUXz7Fp2E+h5Mpp4ACD1g=="/>
+		<POI MapID="1052" xpos="481.297" ypos="368.047" zpos="271.052" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="DJWaE5SOakaA7pqb/XyLQw=="/>
+		<POI MapID="1052" xpos="483.881" ypos="396.032" zpos="233.322" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="ajJdY08kuUOJlFOqD3XT4w=="/>
+		<POI MapID="1052" xpos="485.945" ypos="369.584" zpos="244.546" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="76otRx6JnUaIxyTOnhGbLQ=="/>
+		<POI MapID="1052" xpos="501.541" ypos="639.191" zpos="203.724" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="Fvo11wbj7EGYjAPL302PHQ=="/>
+		<POI MapID="1052" xpos="514.878" ypos="397.657" zpos="-339.727" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="z1E1/d4egkCrSF49/o36Pg=="/>
+		<POI MapID="1052" xpos="564.733" ypos="341.892" zpos="400.743" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="NPdIIXP9GEqx/zzSBvOhGg=="/>
+		<POI MapID="1052" xpos="625.916" ypos="410.639" zpos="-310.438" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="wV+xrmJY8UebXOrRsiYOXg=="/>
+		<POI MapID="1052" xpos="654.132" ypos="343.656" zpos="388.79" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="8XqHkJgGcUa/SDcLGYXNeA=="/>
+		<POI MapID="1052" xpos="658.048" ypos="399.232" zpos="-362.237" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="f8X8mKC5eE6EXbucYV9eEw=="/>
+		<POI MapID="1052" xpos="659.294" ypos="372.239" zpos="297.571" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="FQ+Gfh2gFEin7kgh+mLUjw=="/>
+		<POI MapID="1052" xpos="663.655" ypos="376.687" zpos="342.319" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="xWV0te84xUSMCS1vq7wQaQ=="/>
+		<POI MapID="1052" xpos="665.051" ypos="369.121" zpos="170.927" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="GYlb4L5BlEiojdc9V320Ww=="/>
+		<POI MapID="1052" xpos="691.799" ypos="367.055" zpos="300.996" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="jTGnwKNeTk6Z7kHHEClLGA=="/>
+		<POI MapID="1052" xpos="704.97" ypos="351.653" zpos="389.509" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="j7g/xRrSqEa2w6MoBRWGyw=="/>
+		<POI MapID="1052" xpos="720.983" ypos="344.665" zpos="326.362" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="iye/At4U90+ZmB03OqKf0Q=="/>
+		<POI MapID="1052" xpos="731.429" ypos="297.627" zpos="344.246" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="t6SbxRc/SkedFthN6plZVQ=="/>
+		<POI MapID="1052" xpos="750.412" ypos="369.931" zpos="232.419" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="6qNJCYU7JkiFAR3aWD+jXQ=="/>
+		<POI MapID="1052" xpos="758.335" ypos="400.608" zpos="215.767" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="S5Srduh7JUykAdN6yXG3Qw=="/>
+		<POI MapID="1052" xpos="764.631" ypos="350.728" zpos="397.049" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="YPsSGh2OsEGrqZA48odSyA=="/>
+		<POI MapID="1052" xpos="769.938" ypos="336.057" zpos="194.895" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="Yr/rbhssp0m1cTTE4dmQBA=="/>
+		<POI MapID="1052" xpos="774.425" ypos="126.895" zpos="320.286" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="Qed3PhWQ3UKcstfObwuJPQ=="/>
+		<POI MapID="1052" xpos="760.647" ypos="244.733" zpos="359.763" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="pZYl0yjFDkyarU6kDAGDkQ=="/>
+		<POI MapID="1052" xpos="810.004" ypos="12.3599" zpos="333.02" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="T1z1AvKQrUGyxZ9SLvOBpA=="/>
+		<POI MapID="1052" xpos="813.71" ypos="181.321" zpos="373.712" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="1Vox5MgQ6k+VlYrAadD/1A=="/>
+		<POI MapID="1052" xpos="822.55" ypos="338.84" zpos="371.402" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="jc0074ugqEODTIpkDXDJTA=="/>
+		<POI MapID="1052" xpos="841.816" ypos="366.681" zpos="317.472" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="zxG+ufeOEEyAjFFz5+9IWg=="/>
+		<POI MapID="1052" xpos="855.018" ypos="350.918" zpos="387.831" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="EcH+AFrXSk+ttUD/Et4i5Q=="/>
+		<POI MapID="1052" xpos="862.587" ypos="362.363" zpos="295.207" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="LUpoLDWOME+rQ88py4dICw=="/>
+		<POI MapID="1052" xpos="883.073" ypos="349.575" zpos="-226" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="T3TWSACChUyd4efWUso53w=="/>
+		<POI MapID="1052" xpos="897.749" ypos="394.261" zpos="-121.354" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="YRnQI4voVkeYA6UQ2xVMBA=="/>
+		<POI MapID="1052" xpos="906.641" ypos="356.238" zpos="279.017" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="TxhCN8uatEKXq2X5/NHvww=="/>
+		<POI MapID="1052" xpos="916.832" ypos="317.57" zpos="303.245" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="Ji7U4LD9ZEmSpZlzqsiu3g=="/>
+		<POI MapID="1052" xpos="932.999" ypos="378.7" zpos="-267.026" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="0uzt8C5Ni0G/+OfURYSB+Q=="/>
+
+		<!--
+		Bassin Aurique
+		-->
+
+		<POI MapID="1043" xpos="-592.377" ypos="317.814" zpos="581.329" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="NuX40O/IAEiFVHdge6qI4g=="/>
+		<POI MapID="1043" xpos="-569.112" ypos="318.438" zpos="528.559" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="ChDzVBqF5kOivBkw8Wiktg=="/>
+		<POI MapID="1043" xpos="-564.197" ypos="317.522" zpos="564.976" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="lqaMn4eOvUm3cpL+O+44ng=="/>
+		<POI MapID="1043" xpos="-557.844" ypos="319.335" zpos="610.824" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="RNS1V/zHakWlAuq74FDemQ=="/>
+		<POI MapID="1043" xpos="-536.629" ypos="317.875" zpos="628.55" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="bdT7/1gsSkSFcHVzLPm8VA=="/>
+		<POI MapID="1043" xpos="-533.837" ypos="318.614" zpos="590.817" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="n7IneAybf0aQ3fvqw923Ow=="/>
+		<POI MapID="1043" xpos="-419.674" ypos="306.253" zpos="434.591" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="nUBWcT6fr0Ob5f7XHSRNfQ=="/>
+		<POI MapID="1043" xpos="-414.423" ypos="469.536" zpos="587.228" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="6ckLTBABE0KOJUCB5QtoDQ=="/>
+		<POI MapID="1043" xpos="-409.182" ypos="244.6" zpos="98.8664" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="1RQtvKyKV0eQeOtWbsUxOQ=="/>
+		<POI MapID="1043" xpos="-403.516" ypos="279.458" zpos="-139.796" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="sMA5xYCrRU2AUMgaVRq2MA=="/>
+		<POI MapID="1043" xpos="-393.868" ypos="246.726" zpos="46.5931" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="qjciHSTEhkGvOcVoTY2vXA=="/>
+		<POI MapID="1043" xpos="-369.069" ypos="245.491" zpos="136.887" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="OgY8P5bJ7ECdL+SYCYqpVw=="/>
+		<POI MapID="1043" xpos="-348.169" ypos="479.001" zpos="607.85" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="sOXrNkpX8ku5LKfcrvPlBg=="/>
+		<POI MapID="1043" xpos="-345.293" ypos="281.01" zpos="-755.437" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="GkYzOAw7r0mRCL8TjFDsyQ=="/>
+		<POI MapID="1043" xpos="-338.531" ypos="280.071" zpos="-791.826" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="v2stMmmiYESOuSd0nd8umw=="/>
+		<POI MapID="1043" xpos="-336.968" ypos="252.739" zpos="88.1176" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="/KoWdyg+AUKldaiha38O3Q=="/>
+		<POI MapID="1043" xpos="-310.799" ypos="238.25" zpos="-17.4575" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="QgObWEROGkSmKEthdSGQIg=="/>
+		<POI MapID="1043" xpos="-309.326" ypos="261.584" zpos="-5.22952" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="xkpwk0bFHE6TVDlNFVzgzA=="/>
+		<POI MapID="1043" xpos="-308.811" ypos="280.97" zpos="-801.563" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="ji5C47PK7Ei/vhmqsXm++g=="/>
+		<POI MapID="1043" xpos="-243.92" ypos="301.789" zpos="-160.255" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="vTUxk9/rBkqy0hz3YSue6w=="/>
+		<POI MapID="1043" xpos="-243.084" ypos="440.945" zpos="705.806" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="GnGhItF/sE6i3bdjPboaeA=="/>
+		<POI MapID="1043" xpos="-240.22" ypos="322.881" zpos="-146.778" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="0J6nTuRZEkWzeu1eDleuHQ=="/>
+		<POI MapID="1043" xpos="-231.487" ypos="317.582" zpos="-170.427" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="jBAGMPM6CkiExrAX61z7kw=="/>
+		<POI MapID="1043" xpos="-230.928" ypos="268.149" zpos="-623.19" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="P48zzZva5ESt/fjKS3ZREw=="/>
+		<POI MapID="1043" xpos="-230.891" ypos="291.806" zpos="516.018" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="fsiZ0lLyukWVwYY+gnN9XQ=="/>
+		<POI MapID="1043" xpos="-226.868" ypos="12.2112" zpos="269.083" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="UA7js9Ob6EyiHo3Lp8nciQ=="/>
+		<POI MapID="1043" xpos="-211.695" ypos="12.3192" zpos="278.062" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="XTzwyVpjv060sJyiqMcegQ=="/>
+		<POI MapID="1043" xpos="-206.178" ypos="1.60042" zpos="270.55" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="x6p2WS9uf0yqNqdw3rKbAg=="/>
+		<POI MapID="1043" xpos="-205.853" ypos="13.5181" zpos="256.336" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="8n1kOPsn4kmtVpI/bhTLDg=="/>
+		<POI MapID="1043" xpos="-203.857" ypos="1.53854" zpos="275.51" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="qVc/XzmFSkaeE66FxCBbbg=="/>
+		<POI MapID="1043" xpos="-203.351" ypos="291.117" zpos="502.077" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="GaBopDJiiE6Fk5ArL/pshQ=="/>
+		<POI MapID="1043" xpos="-199.321" ypos="1.94072" zpos="277.715" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="oWe7nbP/g0mmk9dKWve3tw=="/>
+		<POI MapID="1043" xpos="-198.695" ypos="1.50105" zpos="263.899" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="6B3DsCPdy0qzClxLNvBRuw=="/>
+		<POI MapID="1043" xpos="-198.471" ypos="13.4756" zpos="298.623" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="VFCc08KALUuFJTudAhsY+w=="/>
+		<POI MapID="1043" xpos="-196.673" ypos="11.8218" zpos="243.353" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="dt6lkldV7E2NDemSnHjWAg=="/>
+		<POI MapID="1043" xpos="-192.166" ypos="1.65177" zpos="270.298" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="5HG2JGT1uUmCuVE4z+jDQQ=="/>
+		<POI MapID="1043" xpos="-190.95" ypos="11.6053" zpos="282.463" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="NmbtZt2giU6v0x1By+U8SQ=="/>
+		<POI MapID="1043" xpos="-185.843" ypos="13.0591" zpos="263.834" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="37IxhFOpHku1/E8HYZqx2A=="/>
+		<POI MapID="1043" xpos="-175.723" ypos="13.4669" zpos="246.949" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="ujZbLnvkzk2NJs3ZZbH9yQ=="/>
+		<POI MapID="1043" xpos="-174.242" ypos="24.3717" zpos="240.834" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="Ex/xcHitbUiW57GU9UMO1A=="/>
+		<POI MapID="1043" xpos="-170.793" ypos="12.2474" zpos="269.489" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="dnSSvILFkEiLJ5Uy4AwyNg=="/>
+		<POI MapID="1043" xpos="-167.43" ypos="260.252" zpos="-788.49" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="bGaGWtk9BUiuNMSm+jf5/w=="/>
+		<POI MapID="1043" xpos="-167.234" ypos="277.541" zpos="-418.153" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="UQqrMs8mV0SRl2QZp2RdDg=="/>
+		<POI MapID="1043" xpos="-165.769" ypos="3.89107" zpos="249.057" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="v49PzIg310+rUh67eAFWDA=="/>
+		<POI MapID="1043" xpos="-151.331" ypos="260.033" zpos="-773.154" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="NZYU/uKmPUi1sHuP9lGsnA=="/>
+		<POI MapID="1043" xpos="-117.136" ypos="270.16" zpos="-819.49" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="0DrT9f7pEE+2IURhEaWpGw=="/>
+		<POI MapID="1043" xpos="-99.6516" ypos="393.951" zpos="711.584" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="jT+OiE5nokWHkYNOGs73nw=="/>
+		<POI MapID="1043" xpos="-94.2452" ypos="256.953" zpos="-805.089" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="zXHUlarqsU6nQAWE2sFeEQ=="/>
+		<POI MapID="1043" xpos="-45.853" ypos="259.336" zpos="-794.497" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="FqI6WqdVr02md6nI+MF/4w=="/>
+		<POI MapID="1043" xpos="28.6753" ypos="60.7626" zpos="26.5311" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="dcz3JgQ2xkCFvr7/9Xi93g=="/>
+		<POI MapID="1043" xpos="31.9039" ypos="36.0457" zpos="31.6343" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="QzdZZb7kE06BnEtPkpZQtw=="/>
+		<POI MapID="1043" xpos="33.1549" ypos="48.5325" zpos="25.5636" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="+NdPC+qn1UGm+jISdwacyg=="/>
+		<POI MapID="1043" xpos="41.2963" ypos="27.0394" zpos="34.2192" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="/Bslzh87y0+aOBsFynhetQ=="/>
+		<POI MapID="1043" xpos="69.1395" ypos="238.814" zpos="-680.627" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="7LEQ2WQL0kWUQZACCTgiMA=="/>
+		<POI MapID="1043" xpos="95.1804" ypos="301.771" zpos="574.724" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="jM4vamrTKkqy+3xc9Ys5/g=="/>
+		<POI MapID="1043" xpos="117.563" ypos="251.094" zpos="-671.824" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="VHxbbL97M0OfiFb2F1Xz/g=="/>
+		<POI MapID="1043" xpos="125.989" ypos="227.185" zpos="-748.122" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="7UGHG1WalkmrdITRjd+zWQ=="/>
+		<POI MapID="1043" xpos="157.311" ypos="84.8235" zpos="-40.0065" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="Qr/DH0knHESpO8H5Ib6OjQ=="/>
+		<POI MapID="1043" xpos="157.322" ypos="85.1623" zpos="41.7196" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="3YnABijfy0mHq+nMzEvmbA=="/>
+		<POI MapID="1043" xpos="351.768" ypos="237.445" zpos="-677.089" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="IrRcFbkmEEyCB55FV4iavw=="/>
+		<POI MapID="1043" xpos="357.265" ypos="248.015" zpos="-677.829" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="fwKZ8qLAQUiKMMBAb0gyqw=="/>
+		<POI MapID="1043" xpos="374.016" ypos="265.383" zpos="-493.453" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="1tgCP+Ap9UOwznzACmAHVg=="/>
+		<POI MapID="1043" xpos="377.02" ypos="274.04" zpos="-495.299" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="xFMHg2EfoUuC8S4E9iHlYg=="/>
+		<POI MapID="1043" xpos="388.252" ypos="239.516" zpos="-802.161" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="fp4BO1UpnUGhh9SK7LrPNA=="/>
+		<POI MapID="1043" xpos="401.729" ypos="266.01" zpos="-442.475" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="6bSRqbZhs0GoYedRV90C+Q=="/>
+		<POI MapID="1043" xpos="403.138" ypos="273.994" zpos="-446.501" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="p6yk0OWAEEGijNtSb2YnsQ=="/>
+		<POI MapID="1043" xpos="424.426" ypos="268.004" zpos="224.072" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="tZa9FFfakkSYWl1615eVSg=="/>
+		<POI MapID="1043" xpos="427.431" ypos="271.617" zpos="-518.634" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="UToi4uvlQ0OBF5zJQe6PVQ=="/>
+		<POI MapID="1043" xpos="428.189" ypos="278.778" zpos="-514.805" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="9sL/CiLk80OSttkEo6tbhQ=="/>
+		<POI MapID="1043" xpos="434.123" ypos="278.525" zpos="235.555" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="lcAEIuwKt0aZE+bKQwBctA=="/>
+		<POI MapID="1043" xpos="449.216" ypos="275.002" zpos="-426.455" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="YO8lHJ9LCEG/3tbjXTGBBg=="/>
+		<POI MapID="1043" xpos="452.026" ypos="266.391" zpos="-422.905" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="D+uFGFn2pUOuvVi/9h/bJA=="/>
+		<POI MapID="1043" xpos="461.864" ypos="283.046" zpos="244.239" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="ffnlVALmK0eDq9wqxliM3A=="/>
+		<POI MapID="1043" xpos="552.485" ypos="288.909" zpos="-250.435" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="B9IdffIM60+clzOHWyFJVw=="/>
+		<POI MapID="1043" xpos="573.257" ypos="288.978" zpos="-214.813" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="jBgzr4tUZ0K5PrUqoaMWWw=="/>
+		<POI MapID="1043" xpos="580.809" ypos="289.018" zpos="-193.849" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="bhCDcbUeuEGk/ROU7xhUng=="/>
+		<POI MapID="1043" xpos="590.943" ypos="301.246" zpos="-210.35" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="aefAOAJWwEux6SgWd6I3tQ=="/>
+
+		<!--
+		Profondeurs Verdoyantes
+		-->
+
+		<POI MapID="1045" xpos="-859.361" ypos="36.57" zpos="-418.411" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="Zd+CZyQPUE2urJdMQXQTCg=="/>
+		<POI MapID="1045" xpos="-851.406" ypos="45.654" zpos="-403.89" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="079GPT7GIUOEYkdLXEa4Gg=="/>
+		<POI MapID="1045" xpos="-491.874" ypos="3.85548" zpos="-299.618" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="eViCvtwwgESGe/R3VC+a+g=="/>
+		<POI MapID="1045" xpos="-411.966" ypos="2.28781" zpos="-427.926" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="85h1EM1RhE+z1lmpnd037g=="/>
+		<POI MapID="1045" xpos="12.8333" ypos="223.752" zpos="360.286" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="vXl1IjKupUuS9r7lNvXRRQ=="/>
+		<POI MapID="1045" xpos="21.7781" ypos="186.136" zpos="390.508" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="cmbm6kfupEGc/EcNimbqNQ=="/>
+		<POI MapID="1045" xpos="90.8517" ypos="173.115" zpos="116.002" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="S4qo+Yb3oEWUdNPI+TNHCg=="/>
+		<POI MapID="1045" xpos="102.287" ypos="163.932" zpos="92.2559" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="ElIsxV9wO02nM29pnzzlkA=="/>
+		<POI MapID="1045" xpos="112.412" ypos="162.289" zpos="91.4088" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="Ywza4lSnFUq/QrcVziqKBw=="/>
+		<POI MapID="1045" xpos="121.092" ypos="170.767" zpos="133.077" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="09ZvAlGp2EejkR0R5URvRg=="/>
+		<POI MapID="1045" xpos="127.291" ypos="168.095" zpos="113.475" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="oDxwHhPbH0uE2aecZcsgqg=="/>
+		<POI MapID="1045" xpos="127.536" ypos="165.243" zpos="121.453" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="7bnnYeEl5EiuYRg5gjYzUA=="/>
+		<POI MapID="1045" xpos="128.07" ypos="154.946" zpos="60.9323" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="eCfkeXYK+E+g6JgO1mbzJA=="/>
+		<POI MapID="1045" xpos="137.779" ypos="167.592" zpos="113.748" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="+8XnL3PnqESpgEn1cnAmaw=="/>
+		<POI MapID="1045" xpos="148.636" ypos="132.339" zpos="54.4721" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="A2e28ABC6UuLFvd3U/UYbA=="/>
+		<POI MapID="1045" xpos="150.487" ypos="203.678" zpos="496.464" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="vr/77jHCnk670u/6b0AA4Q=="/>
+		<POI MapID="1045" xpos="152.235" ypos="106.764" zpos="80.5402" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="r2SkpZaO0U+cEJ4z5Fxh5w=="/>
+		<POI MapID="1045" xpos="157.301" ypos="148.42" zpos="98.7551" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="atpeDL0xVku2npXnac6Z6g=="/>
+		<POI MapID="1045" xpos="162.257" ypos="148.181" zpos="90.5842" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="3BU7T+vsrkOYVv80WWkspw=="/>
+		<POI MapID="1045" xpos="162.704" ypos="131.605" zpos="59.8038" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="b8nNCJk0n0OrfrtMxkfO+w=="/>
+		<POI MapID="1045" xpos="172.123" ypos="159.215" zpos="52.3093" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="rRqNDRmHw0m81lwnH1K9Tg=="/>
+		<POI MapID="1045" xpos="174.464" ypos="214.419" zpos="518.988" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="rIOeVF8VuEydB8X99WcX3Q=="/>
+		<POI MapID="1045" xpos="449.843" ypos="3.01315" zpos="175.716" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="ipYDLY3eMkeFPuWYs6HoSA=="/>
+		<POI MapID="1045" xpos="500.129" ypos="2.29045" zpos="128.525" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="PUp8PrE5CEqOB2EebkfGGw=="/>
+		<POI MapID="1045" xpos="511.519" ypos="2.19987" zpos="60.8112" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="oLHoMjAAiU6pDWbM4vJUVQ=="/>
+		<POI MapID="1045" xpos="516.845" ypos="24.4596" zpos="69.6894" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="OKLF8jNAZEq95j71UjfrxA=="/>
+		<POI MapID="1045" xpos="531.7" ypos="41.2578" zpos="58.4232" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="HNOEKRInN0iFpgpxP4LUZA=="/>
+		<POI MapID="1045" xpos="543.726" ypos="65.3028" zpos="48.9337" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="LBizqCWsFk2jEHP8FNT2AA=="/>
+		<POI MapID="1045" xpos="561.393" ypos="197.173" zpos="-60.9562" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="A/tw4zJVPU+0xJWOxM3J2A=="/>
+		<POI MapID="1045" xpos="564.358" ypos="107.95" zpos="25.1095" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="tj3ARoPc1kSEfeD40K7Nrw=="/>
+		<POI MapID="1045" xpos="567.133" ypos="169.594" zpos="-37.9085" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="bGdDYo+QIE6ux+lNUXM+rQ=="/>
+		<POI MapID="1045" xpos="588.222" ypos="150.459" zpos="2.42624" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="ts3NGj9ZGEqgvLATr4LpCQ=="/>
+		<POI MapID="1045" xpos="645.056" ypos="223.22" zpos="-416.856" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="Fj4tM8TNK0iCWJTfvfKwnQ=="/>
+		<POI MapID="1045" xpos="723.817" ypos="83.1799" zpos="-105.293" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="HsuP0qT9MUCRPbKaDaoc6Q=="/>
+		<POI MapID="1045" xpos="735.588" ypos="39.2856" zpos="-111.156" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="0BszWJnsiU+bJ9TGQlBg9w=="/>
+		<POI MapID="1045" xpos="761.402" ypos="33.5866" zpos="-86.7849" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="ieviVNjUE0Gf/gVvDZvBpQ=="/>
+		<POI MapID="1045" xpos="771.76" ypos="41.6876" zpos="-131.814" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="JMHdEsWN4kGMk1S7lpluPw=="/>
+		<POI MapID="1045" xpos="792.138" ypos="39.8812" zpos="-106.492" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="1f+0TxG1ek65Ul0zHx1K/Q=="/>
+		<POI MapID="1045" xpos="808.326" ypos="67.508" zpos="-91.8179" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="qA6krL9Cjkq4WMXvbQgwrQ=="/>
+
+		<!--
+		Repli du Dragon
+		-->
+
+		<POI MapID="1041" xpos="-582.817" ypos="81.7481" zpos="-444.632" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="zYs6A5wYek6s5nyWEhS1Fw=="/>
+		<POI MapID="1041" xpos="-510.044" ypos="71.7895" zpos="-488.744" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="qOhZsnzqVkOjSXTeJwdBJg=="/>
+		<POI MapID="1041" xpos="-333.674" ypos="76.8393" zpos="414.507" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="ryMxSz5WAk6wdbYnk5Pysw=="/>
+		<POI MapID="1041" xpos="-159.219" ypos="60.1601" zpos="715.565" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="A3WT3LZonkWtsJz9dL5L7A=="/>
+		<POI MapID="1041" xpos="-69.7289" ypos="38.6553" zpos="424.297" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="kMT0d3e0O06+VeYH+iO07Q=="/>
+		<POI MapID="1041" xpos="-60.0641" ypos="62.6577" zpos="434.273" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="YCVyVu0syEO1SYMYJ+lv3w=="/>
+		<POI MapID="1041" xpos="-6.25935" ypos="56.8623" zpos="718.088" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="SlmduJzgPkKDN42/bmST8Q=="/>
+		<POI MapID="1041" xpos="1.89553" ypos="74.6053" zpos="710.225" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="PKG5TSd/g0GbCmxWnAdG1w=="/>
+		<POI MapID="1041" xpos="117.393" ypos="115.163" zpos="241.709" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="u7FkEhYBhkGbM+SNt7nWHg=="/>
+		<POI MapID="1041" xpos="118.28" ypos="105.559" zpos="256.069" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="pYCHaWLwC0OHV4+rvv1rSQ=="/>
+		<POI MapID="1041" xpos="232.39" ypos="145.351" zpos="244.91" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="dTN9qPOtsUSIzrCYviY7Fw=="/>
+		<POI MapID="1041" xpos="253.963" ypos="32.6729" zpos="64.9461" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="jMh39O5cck6osdzP/XTFMw=="/>
+		<POI MapID="1041" xpos="256.186" ypos="51.5586" zpos="20.1587" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="lEU9mELykECMX+WGb2fajA=="/>
+		<POI MapID="1041" xpos="259.535" ypos="134.243" zpos="259.865" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="HplRFjt+jEG0e/LNqO1ouw=="/>
+		<POI MapID="1041" xpos="286.158" ypos="122.436" zpos="287.348" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="wXpd66zKZEaqQtHZLjUJsQ=="/>
+		<POI MapID="1041" xpos="290.917" ypos="121.545" zpos="48.9393" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="g6BzWRcl0UeD2Hu0VGsdpg=="/>
+		<POI MapID="1041" xpos="311.394" ypos="110.813" zpos="338.867" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="X/krCdPatUKIqsXZ+aUryw=="/>
+		<POI MapID="1041" xpos="338.875" ypos="85.0574" zpos="320.909" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="GR9OD327ykuxkkfqHTwVOg=="/>
+		<POI MapID="1041" xpos="360.509" ypos="77.6123" zpos="280.906" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="aQ2ZRId55kqsH1bUQh3mWw=="/>
+		<POI MapID="1041" xpos="363.216" ypos="67.0532" zpos="327.181" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="1Yld4f1p+UqWI/rksRs0Vw=="/>
+		<POI MapID="1041" xpos="370.134" ypos="13.2812" zpos="443.275" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="pnLBOo2ncEanRxPxprQF7A=="/>
+		<POI MapID="1041" xpos="376.973" ypos="43.5342" zpos="370.534" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="6AjclsG4hEqosx5DQzMqJQ=="/>
+		<POI MapID="1041" xpos="377.411" ypos="1.30983" zpos="435.442" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="RNSIlVK770Go8cAX1UyRCg=="/>
+		<POI MapID="1041" xpos="413.143" ypos="84.9438" zpos="-94.8698" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="9X3VN2+wRk2by7n4mWvpDQ=="/>
+		<POI MapID="1041" xpos="423.95" ypos="14.7272" zpos="455.857" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="wiYrwj6S2EyVAYwt4vSD1A=="/>
+		<POI MapID="1041" xpos="424.645" ypos="3.08032" zpos="445.021" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="GCJ7q7UEOESR8kxzKorhCg=="/>
+		<POI MapID="1041" xpos="436.033" ypos="63.4387" zpos="664.226" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="RzI7k7LyBEugltAuv/A5XQ=="/>
+		<POI MapID="1041" xpos="444.301" ypos="1.38386" zpos="400.362" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="UT8bJr7K9UCSrV1oX2FOLw=="/>
+		<POI MapID="1041" xpos="456.755" ypos="39.0391" zpos="654.392" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="DgxiqKlT40yaGW9m1PAO8Q=="/>
+		<POI MapID="1041" xpos="467.497" ypos="77.9639" zpos="31.8278" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="5RvtXdb28E6mFaHUA6QgQQ=="/>
+		<POI MapID="1041" xpos="484.516" ypos="57.1084" zpos="381.052" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="1ICVvkMr/k+EM8MrFALdmA=="/>
+		<POI MapID="1041" xpos="495.786" ypos="65.5115" zpos="-151.809" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="L8FG3udh/EaKJZ6mmpBOtQ=="/>
+		<POI MapID="1041" xpos="542.645" ypos="84.2785" zpos="16.0265" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="BCeB+nQMR0WKpam6f6dLdA=="/>
+		<POI MapID="1041" xpos="609.193" ypos="65.3915" zpos="741.673" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="kSTTrfJnJ0u2f5nFpqAxBg=="/>
+		<POI MapID="1041" xpos="626.909" ypos="47.4006" zpos="-24.1893" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="6tYXsQAIQ0KXgynA2KG9BQ=="/>
+		<POI MapID="1041" xpos="641.204" ypos="88.0778" zpos="662.309" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="Tih492TjKEaAim2ID3C8nw=="/>
+		<POI MapID="1041" xpos="696.035" ypos="4.63648" zpos="391.729" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="sBVPhMoqaUi+KhNJo6632A=="/>
+		<POI MapID="1041" xpos="697.279" ypos="32.3001" zpos="370.92" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="Ir26Y4BIkkOqA2UPstCmNA=="/>
+		<POI MapID="1041" xpos="698.268" ypos="17.0475" zpos="379.258" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="IcjaQNG+SEesEUd/cWT7lw=="/>
+		<POI MapID="1041" xpos="792.022" ypos="39.5955" zpos="-140.062" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="NJP+2pNvKE+p6BXp5GExBA=="/>
+		<POI MapID="1041" xpos="798.621" ypos="15.1055" zpos="230.172" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="IsgqjE/a3E2CGwwGjN0PDA=="/>
+		<POI MapID="1041" xpos="829.056" ypos="68.1198" zpos="281.727" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="XhmlAuszxE6F0FZfMmGN7Q=="/>
+		<POI MapID="1041" xpos="801.374" ypos="34.4139" zpos="242.333" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="AHVH+3ptvEaSChojOVqvRA=="/>
+		<POI MapID="1041" xpos="840.35" ypos="61.0577" zpos="-91.7305" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="ivZBnNO13UOGWmJZvk9Dsg=="/>
+		<POI MapID="1041" xpos="860.996" ypos="49.2183" zpos="-139.299" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="VJG2E3CoeUOlHxJfCmUeTA=="/>
+		<POI MapID="1041" xpos="873.66" ypos="46.0405" zpos="-10.1114" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="fSK7iAlRgkyvoHu4lDRfdQ=="/>
+		<POI MapID="1041" xpos="876.063" ypos="72.9116" zpos="-157.227" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="fln2Zdm2XUaPoSdm/Qyopg=="/>
+		<POI MapID="1041" xpos="886.279" ypos="11.2219" zpos="302.592" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="mlsivx2j4U2UzjdnR9Du3A=="/>
+		<POI MapID="1041" xpos="886.981" ypos="48.0922" zpos="128.63" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="qS6MZNVfd0++57jEgLlWOw=="/>
+		<POI MapID="1041" xpos="888.426" ypos="38.8571" zpos="302.172" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="sR2qHGOaaUKIXNo0YqpcXQ=="/>
+		<POI MapID="1041" xpos="906.753" ypos="23.5089" zpos="313.205" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="Cmh1ssxH80iW8CDpQTXoFQ=="/>
+
+		<!--
+		Marais de la Pierre de Sang
+		-->
+
+		<POI MapID="1165" xpos="-299.011" ypos="47.1681" zpos="24.9764" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="eaig4fh0SkmRQu0cS/0xPA=="/>
+		<POI MapID="1165" xpos="-252.325" ypos="709.942" zpos="135.195" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="d1t05MrB+E2qnERyc2nWzg=="/>
+		<POI MapID="1165" xpos="-236.903" ypos="695.066" zpos="136.887" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="vWmvsAgXJEOVyylXr4hpxg=="/>
+		<POI MapID="1165" xpos="-220.857" ypos="539.354" zpos="76.3464" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="C1XPRIGpAkKWyqv+kmjnlQ=="/>
+		<POI MapID="1165" xpos="-213.15" ypos="606.284" zpos="34.7607" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="EjD73dG+wE+bRCDgqgmqRw=="/>
+		<POI MapID="1165" xpos="-190.279" ypos="525.549" zpos="34.7581" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="IxzAXbTH/0GAH0Krzugmkw=="/>
+		<POI MapID="1165" xpos="-154.503" ypos="539.875" zpos="43.4809" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="MkrkKUH7qUKjMiTTltQykA=="/>
+		<POI MapID="1165" xpos="-153.096" ypos="65.7324" zpos="-13.9608" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="bT4JXW0/ZUOweTAmXG1Bsw=="/>
+		<POI MapID="1165" xpos="-102.856" ypos="671.477" zpos="12.5993" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="8MFN0l0UE0a/cdBwgFef1A=="/>
+		<POI MapID="1165" xpos="-100.685" ypos="713.8" zpos="144.308" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="9V515+7MA0S28DIHB5WQKQ=="/>
+		<POI MapID="1165" xpos="-79.3935" ypos="684.467" zpos="-29.3176" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="xA1z7nqNAESff9mKESWSug=="/>
+		<POI MapID="1165" xpos="-64.6218" ypos="669.169" zpos="119.272" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="L7ntflupt06yHaV7IHczDA=="/>
+		<POI MapID="1165" xpos="-62.0812" ypos="670.91" zpos="3.06465" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="AOHVfutrU065vkstG/wfCg=="/>
+		<POI MapID="1165" xpos="3.69499" ypos="695.114" zpos="98.8017" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="W55Ol7JlI065gZcJeyNEHA=="/>
+		<POI MapID="1165" xpos="37.8843" ypos="701.112" zpos="10.3824" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="e3GBusoqqkSi8Ln6lk/uDg=="/>
+		<POI MapID="1165" xpos="44.4801" ypos="726.818" zpos="-72.9136" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="kkhLsygy6kaODzqJ1doeog=="/>
+		<POI MapID="1165" xpos="49.6392" ypos="572.846" zpos="111.499" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="1hpRLma6FkiqwEw1DuO/0w=="/>
+		<POI MapID="1165" xpos="52.1773" ypos="672.26" zpos="156.956" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="/TM2NlRQJkm3fQPJ1IqmPQ=="/>
+		<POI MapID="1165" xpos="63.3506" ypos="504.683" zpos="57.4344" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="Da4KhPAXs0mkWeL4rtgpSQ=="/>
+		<POI MapID="1165" xpos="68.6015" ypos="785.606" zpos="79.3354" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="u3Vd6bs+qk2w8k4yfk2UxQ=="/>
+		<POI MapID="1165" xpos="73.2047" ypos="549.056" zpos="103.099" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="FZAxElHmpUy1FAIQnUMm2A=="/>
+		<POI MapID="1165" xpos="75.8656" ypos="395.674" zpos="16.5408" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="XKNL+9+1vE2kz6Ke4fJawA=="/>
+		<POI MapID="1165" xpos="79.1851" ypos="137.692" zpos="107.947" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="4NK7CyR6/UCX9Cs98ykLSA=="/>
+		<POI MapID="1165" xpos="79.6003" ypos="623.123" zpos="87.6007" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="3JlO/HmbX0y11GOh7r4mzw=="/>
+		<POI MapID="1165" xpos="140.826" ypos="174.706" zpos="72.9721" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="1v1fnWUFVUSivsJbEbTDkQ=="/>
+		<POI MapID="1165" xpos="145.919" ypos="256.886" zpos="46.5198" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="URtvessMYEqbI0aXjAUfuQ=="/>
+		<POI MapID="1165" xpos="155.753" ypos="307.541" zpos="29.531" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="OSQpxbCHpEeUwUQAf7bs0Q=="/>
+		<POI MapID="1165" xpos="158.859" ypos="772.054" zpos="18.5273" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="9zKqVUDBiEmNi8QdnnJcMg=="/>
+		<POI MapID="1165" xpos="161.115" ypos="496.819" zpos="23.6579" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="fDL/TgxaCkKsYMj9oO7qqQ=="/>
+		<POI MapID="1165" xpos="163.607" ypos="654.742" zpos="166.558" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="Nf1b7a7x7kylwaUiCwQV0w=="/>
+		<POI MapID="1165" xpos="184.366" ypos="521.577" zpos="6.94265" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="2qYRSXZhMUOAfQYIkgDFgg=="/>
+		<POI MapID="1165" xpos="193.536" ypos="634.103" zpos="-16.6076" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="/ufL4252GUCtfc5ea03kig=="/>
+		<POI MapID="1165" xpos="244.37" ypos="553.576" zpos="23.4906" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="rAa8KSBMmUi/D8radMR78A=="/>
+		<POI MapID="1165" xpos="255.134" ypos="823.452" zpos="90.6949" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="aUqYLYRbD0G5tjk/IcSUaQ=="/>
+
+		<!--
+		Baie des Braises
+		-->
+
+		<POI MapID="1175" xpos="-880.881" ypos="26.2828" zpos="-427.534" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="/tPW/Xq7mkK4uwn6vxIClA=="/>
+		<POI MapID="1175" xpos="-869.334" ypos="19.3796" zpos="-419.815" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="KKR0yt2YXEqbdqePn/uKJw=="/>
+		<POI MapID="1175" xpos="-847.616" ypos="13.0831" zpos="-431.093" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="aLzX+1eHtEqvG+5ZHBp4fw=="/>
+		<POI MapID="1175" xpos="-833.941" ypos="2.03339" zpos="-440.325" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="YLcjzTTzRkmb8dlOehXINg=="/>
+		<POI MapID="1175" xpos="-833.756" ypos="27.5485" zpos="-443.922" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="RmYsu9uLjEaKuTZPmuDaFA=="/>
+		<POI MapID="1175" xpos="-788.493" ypos="36.0468" zpos="-338.656" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="WtZgZ6GPfEKaYx2QamaEGA=="/>
+		<POI MapID="1175" xpos="-683.743" ypos="40.1511" zpos="-665.187" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="LM5GDukGVE+2Rrm2HP4rhQ=="/>
+		<POI MapID="1175" xpos="-680.172" ypos="15.4728" zpos="-652.553" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="sDYFaudWQEyG8kTGAJ0U8A=="/>
+		<POI MapID="1175" xpos="-657.475" ypos="17.9011" zpos="-640.973" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="aYuJClVoykmXkse2jzkxNQ=="/>
+		<POI MapID="1175" xpos="-637.63" ypos="22.0129" zpos="-705.318" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="WWaabFWP50ubT0h+vniy+A=="/>
+		<POI MapID="1175" xpos="-627.222" ypos="26.1926" zpos="-672.702" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="nng0Z6Hr8EGaPsvIaY+6+w=="/>
+		<POI MapID="1175" xpos="-609.419" ypos="57.7633" zpos="-739.41" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="mZ6F5uw5Ik+G4+LSe5TNyw=="/>
+		<POI MapID="1175" xpos="-600.324" ypos="4.4653" zpos="-522.094" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="KYjEfkz0WECElE0yd1RSDg=="/>
+		<POI MapID="1175" xpos="-593.139" ypos="51.9202" zpos="-750.831" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="yGQdyDMc9UyssmrimnGr2Q=="/>
+		<POI MapID="1175" xpos="-567.44" ypos="16.8246" zpos="-749.045" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="bRMU2Aey1kiSRvqmALF7Nw=="/>
+		<POI MapID="1175" xpos="-567.142" ypos="48.3237" zpos="-780.981" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="bCdVsX6IM0iABcWDs1kBYg=="/>
+		<POI MapID="1175" xpos="-562.906" ypos="28.426" zpos="-764.197" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="K9Vw/HXqA0CkypSoI5ZzMg=="/>
+		<POI MapID="1175" xpos="-558.704" ypos="34.42" zpos="-776.715" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="sloY2UvoQUOyFWX2pca3uA=="/>
+
+		<!--
+		Confins de Givramer
+		-->
+
+		<POI MapID="1178" xpos="-657.065" ypos="64.2116" zpos="182.075" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="sAWxJKfszkWovJKb/zlHGA=="/>
+		<POI MapID="1178" xpos="-628.552" ypos="56.9639" zpos="111.145" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="2jTzkwDo2kKeUV6+n7qxtg=="/>
+		<POI MapID="1178" xpos="-603.388" ypos="40.9952" zpos="34.4351" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="l8f8L5vWlkSaHP2H00ONEw=="/>
+		<POI MapID="1178" xpos="-556.144" ypos="52.8655" zpos="90.3193" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="yWa1oQsbm064Lj2cL+j1SA=="/>
+		<POI MapID="1178" xpos="-536.195" ypos="46.6003" zpos="27.4035" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="biF64Lp9ZkegSj5AVn6uYg=="/>
+		<POI MapID="1178" xpos="-530.487" ypos="50.7293" zpos="179.847" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="BzZFodk2rESh2az7e23xIQ=="/>
+		<POI MapID="1178" xpos="-495.638" ypos="68.5597" zpos="242.636" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="VXHH6lYehECslisEa1PpKw=="/>
+		<POI MapID="1178" xpos="-494.564" ypos="49.5631" zpos="66.4978" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="LgfXmcmMd0uyHR5C2AlfeQ=="/>
+		<POI MapID="1178" xpos="-459.809" ypos="42.8497" zpos="-18.3449" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="3FiTq6dp/UO9E8EbwOf7og=="/>
+		<POI MapID="1178" xpos="-414.106" ypos="58.7189" zpos="238.795" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="rvRphj6Aa0iZ+C4mYHGuUQ=="/>
+		<POI MapID="1178" xpos="-405.473" ypos="51.4114" zpos="177.342" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="3NtTBlZ1Y0KkGui3vGvuIA=="/>
+		<POI MapID="1178" xpos="-341.727" ypos="51.0074" zpos="174.681" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="ylaD6/8V50ahzqK5H7gY2w=="/>
+		<POI MapID="1178" xpos="-293.216" ypos="79.6397" zpos="304.055" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="XGFOLOhWHk2hGjX0UvBSog=="/>
+		<POI MapID="1178" xpos="-267.015" ypos="60.1732" zpos="221.118" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="d6ahLAdFYUmML1+l99k/ew=="/>
+
+		<!--
+		Mont Draconis
+		-->
+
+		<POI MapID="1195" xpos="-502.902" ypos="3.24865" zpos="-19.5275" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="9W8KzARIzEqbSOTZPwHINA=="/>
+		<POI MapID="1195" xpos="-499.161" ypos="458.046" zpos="-298.884" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="y+GVB6HHkkG2p03/pSW8ow=="/>
+		<POI MapID="1195" xpos="-367.108" ypos="458.098" zpos="-142.039" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="tlxDxDk+kE+UeHXII24HcA=="/>
+		<POI MapID="1195" xpos="-355.521" ypos="4.35839" zpos="-55.7085" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="ouhRkCudQUqm4i5SXETK3w=="/>
+		<POI MapID="1195" xpos="-331.347" ypos="457.272" zpos="-97.8582" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="Ub6JNm8CPUyFi6FbYoEXKw=="/>
+		<POI MapID="1195" xpos="-300.674" ypos="10.33" zpos="-401.937" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="EfzghLugf0WYd6ebQuTjnQ=="/>
+		<POI MapID="1195" xpos="-299.981" ypos="454.728" zpos="-411.816" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="4eWU2v24kE+AxMj6AfO2oQ=="/>
+		<POI MapID="1195" xpos="-270.289" ypos="45.0529" zpos="-231.911" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="AVj3djDsKUS3xXMTlEyrww=="/>
+		<POI MapID="1195" xpos="-261.146" ypos="449.573" zpos="-406.083" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="zAG+uBZCX0eeFM3yenZj9Q=="/>
+		<POI MapID="1195" xpos="-253.082" ypos="432.604" zpos="-382.4" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="e28EuazhEEGPjA3XY27Oaw=="/>
+		<POI MapID="1195" xpos="-252.919" ypos="426.79" zpos="-403.563" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="mfrySQuNfE2+97p4iSiHJg=="/>
+		<POI MapID="1195" xpos="-211.131" ypos="400.575" zpos="-327.92" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="i47YEgq9hEC0S2bVBa2/fg=="/>
+		<POI MapID="1195" xpos="-197.185" ypos="101.884" zpos="-689.521" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="160tQr9GsU6i1lzzL2Tsrg=="/>
+		<POI MapID="1195" xpos="-194.477" ypos="417.422" zpos="-250.053" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="yUT2hJ9rHkKVElgV8SS6IQ=="/>
+		<POI MapID="1195" xpos="-186.129" ypos="114.84" zpos="-703.699" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="8FhBdxXyoEWeegA+/aGSeA=="/>
+		<POI MapID="1195" xpos="-182.951" ypos="441.543" zpos="-54.0458" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="drUu+B2H4UGFCo+pnyAXNA=="/>
+		<POI MapID="1195" xpos="-175.874" ypos="416.263" zpos="-282.063" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="Q3nLvBhJ3UmmqpfTT9oMRA=="/>
+		<POI MapID="1195" xpos="-151.546" ypos="587.566" zpos="119.746" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="GsouA+Amj0SvydRNKci6eg=="/>
+		<POI MapID="1195" xpos="-146.535" ypos="156.754" zpos="-724.854" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="dANB8uFhuECTy5MwaArQMw=="/>
+		<POI MapID="1195" xpos="-141.831" ypos="457.926" zpos="-35.9486" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="Z8jLvtf2cEOWVQR62Qry1w=="/>
+		<POI MapID="1195" xpos="-141.405" ypos="250.67" zpos="27.7744" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="ZNy2M9khhkGnBqPRIlUs/A=="/>
+		<POI MapID="1195" xpos="-132.397" ypos="475.636" zpos="-25.0355" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="hmgVQToVbkiyTDRGOe0VNA=="/>
+		<POI MapID="1195" xpos="-120.61" ypos="274.285" zpos="37.5486" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="2+3LnvPIGE+h0omJaFK/bA=="/>
+		<POI MapID="1195" xpos="-93.4147" ypos="364.201" zpos="69.2318" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="sqFARAscXUKCHaz7Fii5qg=="/>
+		<POI MapID="1195" xpos="-82.8353" ypos="298.711" zpos="43.8707" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="NTSlODYYx0Swz6ZhB9rgtQ=="/>
+		<POI MapID="1195" xpos="-82.6869" ypos="306.722" zpos="13.6834" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="cE/yuSajlUGcWLAvjuTIxg=="/>
+		<POI MapID="1195" xpos="-75.4923" ypos="256.411" zpos="163.402" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="vXXW3nyqBEimw7uOVpNOsg=="/>
+		<POI MapID="1195" xpos="-38.1991" ypos="280.893" zpos="120.999" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="soKJnxkv6UKB0uvZRXmetQ=="/>
+		<POI MapID="1195" xpos="10.752" ypos="457.255" zpos="-25.7412" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="ByJQfjnGfEynNLlLdumWHw=="/>
+		<POI MapID="1195" xpos="41.8449" ypos="229.238" zpos="204.198" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="rIAhcmRBdEmF6cIPBLHkIg=="/>
+		<POI MapID="1195" xpos="41.8738" ypos="300.555" zpos="-874.651" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="vikMCPapRE+pwX0UpfuS8g=="/>
+		<POI MapID="1195" xpos="53.5204" ypos="428.345" zpos="-32.2467" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="d9GCD4O840ui+NJXLh848w=="/>
+		<POI MapID="1195" xpos="80.2985" ypos="276.911" zpos="-856.961" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="tnnCunND/ECWcRHA9sMR4w=="/>
+		<POI MapID="1195" xpos="83.819" ypos="261.049" zpos="13.3174" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="4WUf69BVTUqavERYoIH9+g=="/>
+		<POI MapID="1195" xpos="102.939" ypos="227.461" zpos="133.421" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="Yn57Zt8E8EGROOHBVeS0CA=="/>
+		<POI MapID="1195" xpos="107.674" ypos="501.623" zpos="117.869" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="OejpNJxVHUS78ANrqkvFoQ=="/>
+		<POI MapID="1195" xpos="124.554" ypos="430.648" zpos="-43.5453" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="gRQiQW6HSEiiU/qG52Zu6w=="/>
+		<POI MapID="1195" xpos="127.376" ypos="232.44" zpos="234.301" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="4oEYEXW3pkO4Bi/ieQ+/EA=="/>
+		<POI MapID="1195" xpos="159.316" ypos="223.288" zpos="140.171" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="uRGsK0B3RUuDsSVmRwBtGA=="/>
+		<POI MapID="1195" xpos="175.822" ypos="219.787" zpos="211.34" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="Mz0mcTvc2ESO9oYk/wMLSw=="/>
+		<POI MapID="1195" xpos="192.326" ypos="231.972" zpos="69.7616" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="xKbQr1f7sUWF+5zYHSuZdQ=="/>
+		<POI MapID="1195" xpos="199.75" ypos="225.303" zpos="129.992" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="fF2tYkbOFk2Pqj4rUlbrMw=="/>
+		<POI MapID="1195" xpos="205.418" ypos="223.258" zpos="166.552" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="BnQ1Mf21yEyS6aNP70ehgg=="/>
+		<POI MapID="1195" xpos="267.206" ypos="222.246" zpos="158.992" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="xalFiQFKPEuqxrwZqXw6eg=="/>
+		<POI MapID="1195" xpos="291.544" ypos="3.11219" zpos="-200.941" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="0Bs0yDeHkUGQpZvVIpArbg=="/>
+		<POI MapID="1195" xpos="306.324" ypos="3.60671" zpos="-72.1366" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="44Kfprh870SrpoccxkLQBw=="/>
+		<POI MapID="1195" xpos="311.756" ypos="185.995" zpos="-400.676" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="uddg7xfOOEaCR1CFXaacAw=="/>
+		<POI MapID="1195" xpos="315.684" ypos="250.071" zpos="-618.468" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="cIXzMA3aDUq5tt5EbxKy9w=="/>
+		<POI MapID="1195" xpos="416.98" ypos="459.713" zpos="-52.9792" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="RIJqvgcuHkWVBK6vwF0CWg=="/>
+		<POI MapID="1195" xpos="509.983" ypos="438.227" zpos="-96.0925" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="BWGBA0OIa0aQuJOd8EU9Dw=="/>
+
+		<!--
+		Repaire du Blanc-Manteau
+		-->
+
+		<POI MapID="1202" xpos="146.072" ypos="94.5011" zpos="-513.598" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="BIYT1HfXaUKRCn8EP2nLdQ=="/>
+		<POI MapID="1202" xpos="158.249" ypos="63.1915" zpos="-513.376" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="2D7abghu/UKDVeshmOEqEQ=="/>
+		<POI MapID="1202" xpos="163.158" ypos="5.0632" zpos="-541.987" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="OVVhI270OE+8lyrvgNlskA=="/>
+		<POI MapID="1202" xpos="165.38" ypos="32.0089" zpos="-482.9" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="2dKvnGaeTEGXUWTmWtFK1g=="/>
+		<POI MapID="1202" xpos="176.769" ypos="33.2132" zpos="-480.905" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="1f62mnyF9km32Gi7YtzZfQ=="/>
+		<POI MapID="1202" xpos="183.343" ypos="32.0608" zpos="-489.92" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="VdsvczWsvk6ZZTyd/5fF7g=="/>
+		<POI MapID="1202" xpos="199.117" ypos="48.2757" zpos="-432.898" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="NeyR/vQftUSB4hzxiL16lA=="/>
+		<POI MapID="1202" xpos="236.733" ypos="70.9346" zpos="-476.811" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="k+vetKc6zU+Vdz+JNa0Blw=="/>
+		<POI MapID="1202" xpos="246.112" ypos="37.5134" zpos="-483.44" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="NMuTQo1FWEOqRpWm58mJhA=="/>
+		<POI MapID="1202" xpos="251.808" ypos="51.363" zpos="-510.483" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="sI+WEj9gUUuQvkA3new9Jw=="/>
+
+		<!--
+		Plage des Sirènes
+		-->
+
+		<POI MapID="1203" xpos="-568.931" ypos="97.683" zpos="135.005" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="G25r5dFxKEC1G/cKY7rcBQ=="/>
+		<POI MapID="1203" xpos="113.905" ypos="30.8594" zpos="-266.254" type="informations.avantages_de_deplacement.champignons_rebondissants" GUID="pY3YtPFjSECICOPDsB8JMQ=="/>
+
+	</POIs>
+</OverlayData>

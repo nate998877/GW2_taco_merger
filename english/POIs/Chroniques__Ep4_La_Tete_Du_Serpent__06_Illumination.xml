@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+POIs: ReActif.9251
+Date: 2017/02/15
+-->
+<OverlayData>
+	<MarkerCategory name="chroniques.saison_3">
+		<MarkerCategory name="ep4_la_tete_du_serpent" DisplayName="Ep.4 - The Head of the Snake" iconFile="Img\LacDoric.png">
+			<MarkerCategory name="illumination" DisplayName="Illuminating" iconFile="Img\Cible.png" heightOffset="0" behavior="0"/>
+		</MarkerCategory>
+	</MarkerCategory>
+
+	<POIs>
+
+		<!-- Chandelier -->
+		<POI MapID="1191" xpos="136.076" ypos="30.9205" zpos="103.367" type="chroniques.saison_3.ep4_la_tete_du_serpent.illumination" GUID="N/FIRC7/x0+QlLjX0aA9BA=="/>
+
+	</POIs>
+</OverlayData>

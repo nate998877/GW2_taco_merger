@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+POIs: Xanadias - ReActif.9251
+Date: 2017/08/22
+-->
+<OverlayData>
+	<MarkerCategory name="heart_of_thorns.bassin_aurique">
+		<MarkerCategory name="le_sol_c_est_de_la_lave" DisplayName="The Floor is Lava?" iconFile="Img\Spirale.png"/>
+	</MarkerCategory>
+
+	<POIs>
+
+		<!-- Entrée -->
+		<POI MapID="1043" xpos="-476.161" ypos="334.337" zpos="505.163" type="heart_of_thorns.bassin_aurique.le_sol_c_est_de_la_lave" GUID="HSUgxbwoWUGOi8QRWjgAPw==" iconFile="Img\Fleche.png" iconSize="2"/>
+
+		<!-- Début -->
+		<POI MapID="1043" xpos="-564.308" ypos="325.972" zpos="515.031" type="heart_of_thorns.bassin_aurique.le_sol_c_est_de_la_lave" GUID="hsZ6b5U9/UqRBNFgRLqMqg==" iconFile="Img\AventureActive.png" behavior="0"/>
+
+		<!-- Route -->
+		<Route MapID="1043" name="Le_Sol_c_est_de_la_Lave" resetposx="-562.167" resetposy="326.338" resetposz="515.736" resetrange="0.1">
+			<POI MapID="1043" xpos="-561.976" ypos="325.992" zpos="517.153" type="heart_of_thorns.bassin_aurique.le_sol_c_est_de_la_lave" GUID="SgZSh03S3kGvUbnuXZXfWA==" triggerRange="0.9"/>
+			<POI MapID="1043" xpos="-561.996" ypos="325.425" zpos="509.711" type="heart_of_thorns.bassin_aurique.le_sol_c_est_de_la_lave" GUID="2tZowWsElUqQDftWr8s2eg=="/>
+			<POI MapID="1043" xpos="-533.27" ypos="324.289" zpos="522.531" type="heart_of_thorns.bassin_aurique.le_sol_c_est_de_la_lave" GUID="ds7w9XjUlEmKSaVukTE7zw=="/>
+			<POI MapID="1043" xpos="-565.591" ypos="315.862" zpos="526.432" type="heart_of_thorns.bassin_aurique.le_sol_c_est_de_la_lave" GUID="56bzazSzw0ivtp3/BrYYMA=="/>
+			<POI MapID="1043" xpos="-571.417" ypos="320.36" zpos="535.381" type="heart_of_thorns.bassin_aurique.le_sol_c_est_de_la_lave" GUID="8qMgqhUC406xQrbRKEopXg=="/>
+			<POI MapID="1043" xpos="-569.132" ypos="320.148" zpos="529.114" type="heart_of_thorns.bassin_aurique.le_sol_c_est_de_la_lave" GUID="BB14t4UaYEuzlLnnMzpJfA=="/>
+			<POI MapID="1043" xpos="-590.065" ypos="330.041" zpos="531.272" type="heart_of_thorns.bassin_aurique.le_sol_c_est_de_la_lave" GUID="IHxN7tmIJEO2ckPgux2kKw=="/>
+			<POI MapID="1043" xpos="-594.795" ypos="332.447" zpos="535.386" type="heart_of_thorns.bassin_aurique.le_sol_c_est_de_la_lave" GUID="eFKecTtkqUS8FIBufQP03Q=="/>
+			<POI MapID="1043" xpos="-595.601" ypos="341.489" zpos="548.326" type="heart_of_thorns.bassin_aurique.le_sol_c_est_de_la_lave" GUID="A5tQVXB2gEWliW0OydWyrg=="/>
+			<POI MapID="1043" xpos="-592.305" ypos="325.4" zpos="515.567" type="heart_of_thorns.bassin_aurique.le_sol_c_est_de_la_lave" GUID="g3rd9mXx7ESHpLDubqkECQ=="/>
+			<POI MapID="1043" xpos="-580.404" ypos="315.862" zpos="519.034" type="heart_of_thorns.bassin_aurique.le_sol_c_est_de_la_lave" GUID="f8omHeu+/ECqqB7IdRrtMg=="/>
+			<POI MapID="1043" xpos="-575.026" ypos="315.862" zpos="541.601" type="heart_of_thorns.bassin_aurique.le_sol_c_est_de_la_lave" GUID="PqL8UXGbMUee7R3GmmRKbg=="/>
+			<POI MapID="1043" xpos="-562.561" ypos="315.956" zpos="536.298" type="heart_of_thorns.bassin_aurique.le_sol_c_est_de_la_lave" GUID="4UFFHZ9p3EKx8gH/kq7EPg=="/>
+			<POI MapID="1043" xpos="-560.799" ypos="321.775" zpos="543.275" type="heart_of_thorns.bassin_aurique.le_sol_c_est_de_la_lave" GUID="Iz0qoT3TSEWuputByW9v/A=="/>
+			<POI MapID="1043" xpos="-562.067" ypos="316.326" zpos="553.969" type="heart_of_thorns.bassin_aurique.le_sol_c_est_de_la_lave" GUID="4EaPSBholEeYvOPiLQ8Z0w=="/>
+			<POI MapID="1043" xpos="-547.76" ypos="319.399" zpos="551.716" type="heart_of_thorns.bassin_aurique.le_sol_c_est_de_la_lave" GUID="klSMWUwDL0aZ4R/2r3rA7w=="/>
+			<POI MapID="1043" xpos="-539.369" ypos="316.463" zpos="543.574" type="heart_of_thorns.bassin_aurique.le_sol_c_est_de_la_lave" GUID="4x8rmxVTDUqFUlzPbomunA=="/>
+			<POI MapID="1043" xpos="-541.88" ypos="315.768" zpos="529.883" type="heart_of_thorns.bassin_aurique.le_sol_c_est_de_la_lave" GUID="4PRkkAt+BUO27uU3pudG8Q=="/>
+			<POI MapID="1043" xpos="-525.447" ypos="320.529" zpos="536.611" type="heart_of_thorns.bassin_aurique.le_sol_c_est_de_la_lave" GUID="PbJRBxjSXEqPPkdNBy5F0Q=="/>
+			<POI MapID="1043" xpos="-525.64" ypos="315.866" zpos="546.785" type="heart_of_thorns.bassin_aurique.le_sol_c_est_de_la_lave" GUID="1X+LXdEMXkmO0v6rkhQVXA=="/>
+			<POI MapID="1043" xpos="-531.724" ypos="321.296" zpos="555.269" type="heart_of_thorns.bassin_aurique.le_sol_c_est_de_la_lave" GUID="Wh0sTfMYbU2eq9NDwffwQQ=="/>
+			<POI MapID="1043" xpos="-539.377" ypos="315.873" zpos="563.056" type="heart_of_thorns.bassin_aurique.le_sol_c_est_de_la_lave" GUID="0919gII/zEqbIeBpwBswPw=="/>
+			<POI MapID="1043" xpos="-548.304" ypos="322.41" zpos="569.545" type="heart_of_thorns.bassin_aurique.le_sol_c_est_de_la_lave" GUID="1YYy14mb7UGUAW1PpJu8Cw=="/>
+			<POI MapID="1043" xpos="-534.11" ypos="319.859" zpos="590.997" type="heart_of_thorns.bassin_aurique.le_sol_c_est_de_la_lave" GUID="p22PTNTdhEeNMXFCVHdkaw=="/>
+			<POI MapID="1043" xpos="-527.109" ypos="331.443" zpos="573.46" type="heart_of_thorns.bassin_aurique.le_sol_c_est_de_la_lave" GUID="C3zbHKjVg0+FWdjVfpreGw=="/>
+			<POI MapID="1043" xpos="-513.479" ypos="319.4" zpos="605.122" type="heart_of_thorns.bassin_aurique.le_sol_c_est_de_la_lave" GUID="0/q690knBUK0aSJiwNYaWg=="/>
+			<POI MapID="1043" xpos="-520.297" ypos="320.826" zpos="606.276" type="heart_of_thorns.bassin_aurique.le_sol_c_est_de_la_lave" GUID="aLDd8kyFxEelO+3AoQBMYg=="/>
+			<POI MapID="1043" xpos="-525.911" ypos="315.862" zpos="601.556" type="heart_of_thorns.bassin_aurique.le_sol_c_est_de_la_lave" GUID="bnUH3ZdrKUCkvwG9ASYqWg=="/>
+			<POI MapID="1043" xpos="-526.006" ypos="320.157" zpos="626.738" type="heart_of_thorns.bassin_aurique.le_sol_c_est_de_la_lave" GUID="eCulfi5R0U6S9Y2CuV1Rwg=="/>
+			<POI MapID="1043" xpos="-536.685" ypos="317.985" zpos="628.459" type="heart_of_thorns.bassin_aurique.le_sol_c_est_de_la_lave" GUID="wL7o3mXsl0KiSls1gYblQw=="/>
+			<POI MapID="1043" xpos="-544.574" ypos="331.47" zpos="638.343" type="heart_of_thorns.bassin_aurique.le_sol_c_est_de_la_lave" GUID="lZ2WU36vGECkTuBfuLcZQg=="/>
+			<POI MapID="1043" xpos="-541.198" ypos="323.275" zpos="630.578" type="heart_of_thorns.bassin_aurique.le_sol_c_est_de_la_lave" GUID="OHopmBi0TEqg2g1scQk9zw=="/>
+			<POI MapID="1043" xpos="-540.183" ypos="315.862" zpos="623.614" type="heart_of_thorns.bassin_aurique.le_sol_c_est_de_la_lave" GUID="OsyuM4P9K0yb4H5wu+Y86w=="/>
+			<POI MapID="1043" xpos="-530.868" ypos="315.862" zpos="612.974" type="heart_of_thorns.bassin_aurique.le_sol_c_est_de_la_lave" GUID="q/pyzBRszk+956d14waThQ=="/>
+			<POI MapID="1043" xpos="-537.055" ypos="321.652" zpos="601.623" type="heart_of_thorns.bassin_aurique.le_sol_c_est_de_la_lave" GUID="0fzIkUxAU0aGxGxaRqh6+g=="/>
+			<POI MapID="1043" xpos="-546.827" ypos="315.9" zpos="604.307" type="heart_of_thorns.bassin_aurique.le_sol_c_est_de_la_lave" GUID="n+7P4K13xUG1lK/SqkxTog=="/>
+			<POI MapID="1043" xpos="-553.281" ypos="316.042" zpos="623.301" type="heart_of_thorns.bassin_aurique.le_sol_c_est_de_la_lave" GUID="Nj00SUbnH0+JBf2WTWdUsw=="/>
+			<POI MapID="1043" xpos="-558.458" ypos="321.432" zpos="624.299" type="heart_of_thorns.bassin_aurique.le_sol_c_est_de_la_lave" GUID="P87clZkc3k2NNCtsJcZMGg=="/>
+			<POI MapID="1043" xpos="-554.666" ypos="316.481" zpos="617.4" type="heart_of_thorns.bassin_aurique.le_sol_c_est_de_la_lave" GUID="R2I5GJQdz0OmglJcVoNk7Q=="/>
+			<POI MapID="1043" xpos="-575.483" ypos="318.003" zpos="630.663" type="heart_of_thorns.bassin_aurique.le_sol_c_est_de_la_lave" GUID="VSM792WB5ESQJ8gitfWDRg=="/>
+			<POI MapID="1043" xpos="-582.716" ypos="315.865" zpos="624.401" type="heart_of_thorns.bassin_aurique.le_sol_c_est_de_la_lave" GUID="4yZaT8Z6lEKi4UMuj7daEA=="/>
+			<POI MapID="1043" xpos="-581.553" ypos="321.605" zpos="616.26" type="heart_of_thorns.bassin_aurique.le_sol_c_est_de_la_lave" GUID="Lr1h2EqUt0GTeY0o9SP04g=="/>
+			<POI MapID="1043" xpos="-573.847" ypos="315.972" zpos="617.341" type="heart_of_thorns.bassin_aurique.le_sol_c_est_de_la_lave" GUID="9rH3azw/20mnOO/r4vYuWg=="/>
+			<POI MapID="1043" xpos="-589.387" ypos="319.317" zpos="607.444" type="heart_of_thorns.bassin_aurique.le_sol_c_est_de_la_lave" GUID="ftZOjhWUZ0afx6uD3r4mHg=="/>
+			<POI MapID="1043" xpos="-585.122" ypos="320.839" zpos="600.947" type="heart_of_thorns.bassin_aurique.le_sol_c_est_de_la_lave" GUID="8BrbsuZNY0yOmQdfWkzD3g=="/>
+			<POI MapID="1043" xpos="-602.824" ypos="318.952" zpos="588.694" type="heart_of_thorns.bassin_aurique.le_sol_c_est_de_la_lave" GUID="dnQfHD+yf0yNqBaSmItzmQ=="/>
+			<POI MapID="1043" xpos="-589.575" ypos="316.11" zpos="582.197" type="heart_of_thorns.bassin_aurique.le_sol_c_est_de_la_lave" GUID="VVF3UbckoEqoRr7Dv29qOA=="/>
+			<POI MapID="1043" xpos="-583.786" ypos="320.805" zpos="578.148" type="heart_of_thorns.bassin_aurique.le_sol_c_est_de_la_lave" GUID="XvDLlZ95uUil/oQCti69LQ=="/>
+			<POI MapID="1043" xpos="-577.668" ypos="315.944" zpos="579.373" type="heart_of_thorns.bassin_aurique.le_sol_c_est_de_la_lave" GUID="KyXqN7hFdkCEamr4gt0bKQ=="/>
+			<POI MapID="1043" xpos="-568.827" ypos="315.95" zpos="601.448" type="heart_of_thorns.bassin_aurique.le_sol_c_est_de_la_lave" GUID="2YlnZvV/kE2/YDtYGPd2eg=="/>
+			<POI MapID="1043" xpos="-563.833" ypos="323.376" zpos="594.679" type="heart_of_thorns.bassin_aurique.le_sol_c_est_de_la_lave" GUID="Ge4IH8t/vEOK5p5E22QoRg=="/>
+			<POI MapID="1043" xpos="-565.771" ypos="315.919" zpos="586.807" type="heart_of_thorns.bassin_aurique.le_sol_c_est_de_la_lave" GUID="xSRoLyzzHUmOUztusHoHzw=="/>
+			<POI MapID="1043" xpos="-545.821" ypos="315.57" zpos="585.128" type="heart_of_thorns.bassin_aurique.le_sol_c_est_de_la_lave" GUID="hRJ4UHuiNUOB3Urh/d+CRQ=="/>
+			<POI MapID="1043" xpos="-558.047" ypos="315.959" zpos="569.531" type="heart_of_thorns.bassin_aurique.le_sol_c_est_de_la_lave" GUID="nN4z2B1SLEaRedD1LAvPLw=="/>
+			<POI MapID="1043" xpos="-568.904" ypos="315.94" zpos="569.434" type="heart_of_thorns.bassin_aurique.le_sol_c_est_de_la_lave" GUID="L7DKT5nVkE6ArBYZiezu6A=="/>
+			<POI MapID="1043" xpos="-580.504" ypos="322.127" zpos="553.78" type="heart_of_thorns.bassin_aurique.le_sol_c_est_de_la_lave" GUID="jQstrLtmNkq9VtL09DEeRA=="/>
+			<POI MapID="1043" xpos="-574.394" ypos="315.862" zpos="553.588" type="heart_of_thorns.bassin_aurique.le_sol_c_est_de_la_lave" GUID="oVf4nvFju0aDQHVTsb2WsA=="/>
+		</Route>
+
+	</POIs>
+</OverlayData>

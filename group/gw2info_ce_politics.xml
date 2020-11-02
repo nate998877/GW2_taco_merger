@@ -1,0 +1,27 @@
+<OverlayData>
+	<MarkerCategory name="currentevents" DisplayName="Current Events">
+		<MarkerCategory name="informedpolitics" DisplayName="Informed Politics" iconFile="Data/gw2info/page.png" behavior="3" iconSize="1.0" triggerRange="5" fadeNear="300" fadeFar="12500"/>
+	</MarkerCategory>
+	<POIs>
+		<POI MapID="18" xpos="-159.731" ypos="60.0569" zpos="-392.378" type="currentevents.informedpolitics" GUID="VCB9xAU+/0KzHFGdIRHmJw=="/>
+		<POI MapID="18" xpos="202.418" ypos="63.6052" zpos="-340.859" type="currentevents.informedpolitics" GUID="Knv+Qanr8EiXt3sgXPf8gw=="/>
+		<POI MapID="18" xpos="354.016" ypos="68.8333" zpos="-53.974" type="currentevents.informedpolitics" GUID="5cBKjuO39UOdTD5Jq5ow9A=="/>
+		<POI MapID="18" xpos="-112.201" ypos="56.3958" zpos="285.194" type="currentevents.informedpolitics" GUID="3a7/C0Ako0uNI5l5ZoIPDw=="/>
+		<POI MapID="18" xpos="266.635" ypos="138.51" zpos="32.7265" type="currentevents.informedpolitics" GUID="N9SaTtLkGU2yGfd/mb5H0g=="/>
+		<POI MapID="248" xpos="151.041" ypos="82.1717" zpos="192.994" type="currentevents.informedpolitics" GUID="4WI6O2FImUGccMKI47J3VQ=="/>
+		<POI MapID="15" xpos="955.024" ypos="18.3893" zpos="519.295" type="currentevents.informedpolitics" GUID="Mt8KgZudPUejCSRWfkYukg=="/>
+		<POI MapID="15" xpos="916.549" ypos="14.6169" zpos="532.361" type="currentevents.informedpolitics" GUID="QtmtN1FWdESkOlTjrCkAmg=="/>
+		<POI MapID="15" xpos="836.315" ypos="14.0499" zpos="520.092" type="currentevents.informedpolitics" GUID="i4LQ4HnGl0C2vrBFCRmMqQ=="/>
+		<POI MapID="15" xpos="-312.495" ypos="68.189" zpos="551.027" type="currentevents.informedpolitics" GUID="Y+ZUlQT1rEai7PP3qC3k7w=="/>
+		<POI MapID="15" xpos="-603.507" ypos="34.0215" zpos="-499.599" type="currentevents.informedpolitics" GUID="61FxRCWH9EWudlVhu4zfjg=="/>
+		<POI MapID="23" xpos="164.584" ypos="67.2064" zpos="157.814" type="currentevents.informedpolitics" GUID="BptCKkQLfEGDCzqATTLyOQ=="/>
+		<POI MapID="23" xpos="201.813" ypos="23.3113" zpos="-98.5369" type="currentevents.informedpolitics" GUID="av7fko/7yUqT+Qm8e8jScg=="/>
+		<POI MapID="23" xpos="1208.89" ypos="32.7108" zpos="-392.176" type="currentevents.informedpolitics" GUID="dlNdfSlZfUqbxgBsThLT/Q=="/>
+		<POI MapID="23" xpos="1188.5" ypos="43.2961" zpos="-98.1359" type="currentevents.informedpolitics" GUID="FMwq0WW1H0ezHsnfW2R2kg=="/>
+		<POI MapID="24" xpos="-799.14" ypos="30.085" zpos="32.9267" type="currentevents.informedpolitics" GUID="1lpGUZ8rNkOtj1sLGETgAQ=="/>
+		<POI MapID="24" xpos="-405.432" ypos="8.78916" zpos="19.1654" type="currentevents.informedpolitics" GUID="sthZi1SRlEClo14gvzChmg=="/>
+		<POI MapID="24" xpos="-407.289" ypos="13.4801" zpos="-98.9312" type="currentevents.informedpolitics" GUID="A+hWAr7qJ0WOGKNSj8ZRUQ=="/>
+		<POI MapID="24" xpos="328.185" ypos="12.096" zpos="-177.929" type="currentevents.informedpolitics" GUID="cichAb/4NUm3GxyOyfSo1g=="/>
+		<POI MapID="17" xpos="-735.298" ypos="17.0951" zpos="328.498" type="currentevents.informedpolitics" GUID="UbU1Ks8xA0+EZC4D/ElUkw=="/>
+	</POIs>
+</OverlayData>

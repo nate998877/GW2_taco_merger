@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+POIs: ReActif.9251
+Date: 2017/03/06
+-->
+<OverlayData>
+	<MarkerCategory name="chroniques.saison_2">
+		<MarkerCategory name="ep3_l_ombre_du_dragon_1" DisplayName="Ep.3 - The Dragon's Reach, Part 1" iconFile="Img\Saison2OmbreDuDragon1.png">
+			<MarkerCategory name="recuperateur_de_caisses" DisplayName="Crate Scrapper"/>
+		</MarkerCategory>
+	</MarkerCategory>
+
+	<POIs>
+
+		<!-- Caisse -->
+		<POI MapID="1000" xpos="-121.289" ypos="8.19546" zpos="-644.335" type="chroniques.saison_2.ep3_l_ombre_du_dragon_1.recuperateur_de_caisses" GUID="Znv1RoHNi0SS1yfYk8CAcA=="/>
+
+	</POIs>
+</OverlayData>

@@ -1,0 +1,848 @@
+<!-- 2020.06.09 -->
+<OverlayData>
+	<POIs>
+
+		<!-- Altar Brook Lair - Repère de l'Autel du Ruisseau -->
+		<POI MapID="15" xpos="-377.13" ypos="15.8007" zpos="27.7133" type="guild_missions.treks.a.altar_brook_lair" GUID="mgehGp1uZkuBwdXloB/s5g==" fadeNear="1500" fadeFar="2500"/>
+		<POI MapID="15" xpos="-377.13" ypos="16.8007" zpos="27.7133" type="guild_missions.treks.a.altar_brook_lair" GUID="JOvoU4oycES3zI5Wqu3zRA==" iconFile="Img/GuildMissions/AltarBrookLair.png" minSize="48" maxSize="48" heightOffset="1" mapVisibility="0" miniMapVisibility="0"/>
+
+		<!-- Anthem's Hold - Etreinte de l'Hymne -->
+		<Trail type="guild_missions.treks.a.anthem_s_hold" GUID="FtTEH94pa0asZtGN4y44BA==" trailData="Data/GuildMissions/Treks/AnthemsHold.trl" texture="Data/SemiLine.png" color="ffffdd00" alpha="0.8" fadeNear="1500" fadeFar="2000" animSpeed="0.5" mapDisplaySize="25"/>
+		<POI MapID="62" xpos="283.022" ypos="6.89842" zpos="-890.937" type="guild_missions.treks.a.anthem_s_hold" GUID="9EfioEY/wEmLzJly8xVcxA==" fadeNear="1500" fadeFar="2500" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="62" xpos="283.022" ypos="7.89842" zpos="-890.937" type="guild_missions.treks.a.anthem_s_hold" GUID="4X6IElFYiE2WVTHDctTGiQ==" iconFile="Img/GuildMissions/AnthemsHold.png" minSize="48" maxSize="48" heightOffset="1" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="62" xpos="238.256" ypos="6.98358" zpos="-928.723" type="guild_missions.treks.a.anthem_s_hold" GUID="3rXkdn8glECuxEWU7ZhLzg==" fadeNear="1500" fadeFar="2000"/>
+
+		<!-- Anya's Patch - Coin d'Anya -->
+		<Trail type="guild_missions.treks.a.anya_s_patch" GUID="NpX3GFsQ30m+ccvISjaDnQ==" trailData="Data/GuildMissions/Treks/AnyasPatch.trl" texture="Data/SemiLine.png" color="ff00dd00" alpha="0.8" fadeNear="1500" fadeFar="2000" animSpeed="0.5" mapDisplaySize="25"/>
+		<POI MapID="32" xpos="-951.577" ypos="40.6287" zpos="-611.77"  type="guild_missions.treks.a.anya_s_patch" GUID="pGay3qMw4UysrJdyVXmfbA==" fadeNear="1500" fadeFar="2500" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="32" xpos="-951.577" ypos="41.6287" zpos="-611.77"  type="guild_missions.treks.a.anya_s_patch" GUID="plauVb59DkSJg99zUU8r3g==" iconFile="Img/GuildMissions/AnyasPatch.png" minSize="48" maxSize="48" heightOffset="1" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="32" xpos="-1064.6"  ypos="68.8631" zpos="-619.168" type="guild_missions.treks.a.anya_s_patch" GUID="RZ32OlH0RkSgDy+UAV2I+w==" fadeNear="1500" fadeFar="2000"/>
+
+		<!-- Arctodus Haunt - Repaire de l'Arctodus -->
+		<POI MapID="28" xpos="501.308" ypos="75.4468" zpos="185.225" type="guild_missions.treks.a.arctodus_haunt" GUID="PJQHD11dzUGNdy0vP2gLQA==" fadeNear="1500" fadeFar="2500"/>
+		<POI MapID="28" xpos="501.308" ypos="76.4468" zpos="185.225" type="guild_missions.treks.a.arctodus_haunt" GUID="hrDU+FOeg0eU2VKWYfW43Q==" iconFile="Img/GuildMissions/ArctodusHaunt.png" minSize="48" maxSize="48" heightOffset="1" mapVisibility="0" miniMapVisibility="0"/>
+
+		<!-- Backroot Fountain - Fontaine des Racines Cachées -->
+		<POI MapID="91" xpos="179.03" ypos="38.362" zpos="-57.0156" type="guild_missions.treks.b.backroot_fountain" GUID="ctRuv0ASREGGO5+NemQAXQ==" fadeNear="1500" fadeFar="2500"/>
+		<POI MapID="91" xpos="179.03" ypos="39.362" zpos="-57.0156" type="guild_missions.treks.b.backroot_fountain" GUID="vc/6hQYlF02UB88bUE16rg==" iconFile="Img/GuildMissions/BackrootFountain.png" minSize="48" maxSize="48" heightOffset="1" mapVisibility="0" miniMapVisibility="0"/>
+
+		<!-- Badjelly Kelpbed - Banc de Varech de Malméduse -->
+		<POI MapID="31" xpos="124.525" ypos="-32.1968" zpos="-370.911" type="guild_missions.treks.b.badjelly_kelpbed" GUID="8hpQWpYjr0iSf1kqadhINw==" fadeNear="1500" fadeFar="2500"/>
+		<POI MapID="31" xpos="124.525" ypos="-31.1968" zpos="-370.911" type="guild_missions.treks.b.badjelly_kelpbed" GUID="9O/0DG9Bxk26BtZgBX0gaw==" iconFile="Img/GuildMissions/BadjellyKelpbed.png" minSize="48" maxSize="48" heightOffset="1" mapVisibility="0" miniMapVisibility="0"/>
+
+		<!-- Bandit's Cabbage Patch - Carré de Chou du Bandit -->
+		<POI MapID="17" xpos="-719.078" ypos="1.31472" zpos="-126.977" type="guild_missions.treks.b.bandit_s_cabbage_patch" GUID="vE7VhvgA3USMqvL80xq3Ng==" fadeNear="1500" fadeFar="2500"/>
+		<POI MapID="17" xpos="-719.078" ypos="2.31472" zpos="-126.977" type="guild_missions.treks.b.bandit_s_cabbage_patch" GUID="7KqhqVAFVUeZRfn72MBnBQ==" iconFile="Img/GuildMissions/BanditsCabbagePatch.png" minSize="48" maxSize="48" heightOffset="1" mapVisibility="0" miniMapVisibility="0"/>
+
+		<!-- Beetlestone Mirador - Mirador Beetlestone -->
+		<POI MapID="15" xpos="846.061" ypos="8.15211" zpos="609.761" type="guild_missions.treks.b.beetlestone_mirador" GUID="RdOMQ+TKxEOgYU55/quUcQ==" fadeNear="1500" fadeFar="2500"/>
+		<POI MapID="15" xpos="846.061" ypos="9.15211" zpos="609.761" type="guild_missions.treks.b.beetlestone_mirador" GUID="IBVKjmiZYEa2i/jujK1RUw==" iconFile="Img/GuildMissions/BeetlestoneMirador.png" minSize="48" maxSize="48" heightOffset="1" mapVisibility="0" miniMapVisibility="0"/>
+
+		<!-- Black Lion Root Cellar - Cellier du Lion Noir -->
+		<POI MapID="91" xpos="33.0863" ypos="44.438" zpos="107.831" type="guild_missions.treks.b.black_lion_root_cellar" GUID="gL0PD+2Fh0Cu+E0/jJLVbQ==" fadeNear="1500" fadeFar="2500"/>
+		<POI MapID="91" xpos="33.0863" ypos="45.438" zpos="107.831" type="guild_missions.treks.b.black_lion_root_cellar" GUID="SV2ccPM220CVZeMhcvRB3Q==" iconFile="Img/GuildMissions/BlackLionRootCellar.png" minSize="48" maxSize="48" heightOffset="1" mapVisibility="0" miniMapVisibility="0"/>
+
+		<!-- Blackblade Butte - Motte de Lamenoire -->
+		<Trail type="guild_missions.treks.b.blackblade_butte" GUID="DQ8YBjJDjUKwi3Z5/ybE4g==" trailData="Data/GuildMissions/Treks/BlackbladeButte.trl" texture="Data/SemiLine.png" color="ffffdd00" alpha="0.8" fadeNear="1500" fadeFar="2000" animSpeed="0.5" mapDisplaySize="25"/>
+		<POI MapID="32" xpos="350.734" ypos="42.9682" zpos="488.761" type="guild_missions.treks.b.blackblade_butte" GUID="fj1PbLGwxU6ML2VsOFgCRg==" fadeNear="1500" fadeFar="2500" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="32" xpos="350.734" ypos="43.9682" zpos="488.761" type="guild_missions.treks.b.blackblade_butte" GUID="f+1e0v9ADEmBqRUdQBe1RQ==" iconFile="Img/GuildMissions/BlackbladeButte.png" minSize="48" maxSize="48" heightOffset="1" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="32" xpos="273.795" ypos="48.3651" zpos="353.758" type="guild_missions.treks.b.blackblade_butte" GUID="gzfKZ7nYtU2rC0qlf3XX9w==" fadeNear="1500" fadeFar="2000"/>
+
+		<!-- Blasted Sepulchre - Sépulcre Ravagé -->
+		<Trail type="guild_missions.treks.b.blasted_sepulchre" GUID="aeSe1PpKDkGAv8kHP6RdXA==" trailData="Data/GuildMissions/Treks/BlastedSepulchre.trl" texture="Data/SemiLine.png" color="ffffdd00" alpha="0.8" fadeNear="1500" fadeFar="2000" animSpeed="0.5" mapDisplaySize="25"/>
+		<POI MapID="32" xpos="-150"    ypos="38"      zpos="77"      type="guild_missions.treks.b.blasted_sepulchre" GUID="wU9voatwRUyluvLArv/BIA==" fadeNear="1500" fadeFar="2500" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="32" xpos="-150"    ypos="39"      zpos="77"      type="guild_missions.treks.b.blasted_sepulchre" GUID="hmHCpNeMQUCK8JJ/eOQT7A==" iconFile="Img/GuildMissions/BlastedSepulchre.png" minSize="48" maxSize="48" heightOffset="1" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="32" xpos="-251.84" ypos="2.46026" zpos="47.4854" type="guild_missions.treks.b.blasted_sepulchre" GUID="crHAAo/k+EexYPo6j326gg==" fadeNear="1500" fadeFar="2000"/>
+
+		<!-- Blood Ooze Gallery - Galerie du limon Sanglant -->
+		<POI MapID="73" xpos="21.4624" ypos="75.2227" zpos="-411.332" type="guild_missions.treks.b.blood_ooze_gallery" GUID="txgyISpc6Ei3C8XgbWaa+g==" fadeNear="1500" fadeFar="2500"/>
+		<POI MapID="73" xpos="21.4624" ypos="76.2227" zpos="-411.332" type="guild_missions.treks.b.blood_ooze_gallery" GUID="K9DNw0xfH02f6m8r9VjQeQ==" iconFile="Img/GuildMissions/BloodOozeGallery.png" minSize="48" maxSize="48" heightOffset="1" mapVisibility="0" miniMapVisibility="0"/>
+
+		<!-- Bluup's Comeuppance - Châtiment de Bluup -->
+		<POI MapID="139" xpos="-16.6879" ypos="315.554" zpos="211.521" type="guild_missions.treks.b.bluup_s_comeuppance" GUID="l/ztNILngUaeqvLpbl/qFw==" fadeNear="1500" fadeFar="2500"/>
+		<POI MapID="139" xpos="-16.6879" ypos="316.554" zpos="211.521" type="guild_missions.treks.b.bluup_s_comeuppance" GUID="RMXXROAU90qXom0rzHP/dw==" iconFile="Img/GuildMissions/BluupsComeuppance.png" minSize="48" maxSize="48" heightOffset="1" mapVisibility="0" miniMapVisibility="0"/>
+
+		<!-- Brandstrike Dig - Fouilles de Stigmafrappe -->
+		<Trail type="guild_missions.treks.b.brandstrike_dig" GUID="94xm6LAJm0eLMb098XIFNQ==" trailData="Data/GuildMissions/Treks/BrandstrikeDig.trl" texture="Data/SemiLine.png" color="ffffdd00" alpha="0.8" fadeNear="1500" fadeFar="2000" animSpeed="0.5" mapDisplaySize="25"/>
+		<POI MapID="21" xpos="-749.237" ypos="26.6185" zpos="586.053" type="guild_missions.treks.b.brandstrike_dig" GUID="l2/GeBZOAUKNlPwkV7KaGg==" fadeNear="1500" fadeFar="2500" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="21" xpos="-749.237" ypos="27.6185" zpos="586.053" type="guild_missions.treks.b.brandstrike_dig" GUID="ECSE9emfy0yBf0S3HcJfMw==" iconFile="Img/GuildMissions/BrandstrikeDig.png" minSize="48" maxSize="48" heightOffset="1" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="21" xpos="-929.401" ypos="8.32833" zpos="599.633" type="guild_missions.treks.b.brandstrike_dig" GUID="uKTnCar3E0O6ShX+VfIBRQ==" fadeNear="1500" fadeFar="2000"/>
+
+		<!-- Briarthorn Barrier - Barrière de Bercebruyère -->
+		<POI MapID="34" xpos="574.212" ypos="18.5196" zpos="-384.339" type="guild_missions.treks.b.briarthorn_barrier" GUID="0VAuGbSHBUi/mqw8oFCdvA==" fadeNear="1500" fadeFar="2500"/>
+		<POI MapID="34" xpos="574.212" ypos="19.5196" zpos="-384.339" type="guild_missions.treks.b.briarthorn_barrier" GUID="pPIO00HmzU2TrEmvaZGqpg==" iconFile="Img/GuildMissions/BriarthornBarrier.png" minSize="48" maxSize="48" heightOffset="1" mapVisibility="0" miniMapVisibility="0"/>
+
+		<!-- Broken Falls Courtyard - Cour des Chutes Brisées -->
+		<POI MapID="218" xpos="-73.8478" ypos="0.86569" zpos="-222.374" type="guild_missions.treks.b.broken_falls_courtyard" GUID="Pc8ZbKDKSk+EtDH9ea5tjw==" fadeNear="1500" fadeFar="2500"/>
+		<POI MapID="218" xpos="-73.8478" ypos="1.86569" zpos="-222.374" type="guild_missions.treks.b.broken_falls_courtyard" GUID="2bUp3Iv9vE+rDD8iyhyU9g==" iconFile="Img/GuildMissions/BrokenFallsCourtyard.png" minSize="48" maxSize="48" heightOffset="1" mapVisibility="0" miniMapVisibility="0"/>
+
+		<!-- Broodmother Falls - Chutes de la Génitrice -->
+		<POI MapID="30" xpos="782.893" ypos="-0.270297" zpos="-347.116" type="guild_missions.treks.b.broodmother_falls" GUID="FClwfXM780SNNA7bLTT/UQ==" fadeNear="1500" fadeFar="2500"/>
+		<POI MapID="30" xpos="782.893" ypos="0.770297"  zpos="-347.116" type="guild_missions.treks.b.broodmother_falls" GUID="xltHYER9lk693OnILV4Mfg==" iconFile="Img/GuildMissions/BroodmotherFalls.png" minSize="48" maxSize="48" heightOffset="1" mapVisibility="0" miniMapVisibility="0"/>
+
+		<!-- Brothers' Notch - Col des Frères -->
+		<Trail type="guild_missions.treks.b.brothers_notch" GUID="G3dNEFMg5EW72DGTtvx3zw==" trailData="Data/GuildMissions/Treks/BrothersNotch.trl" texture="Data/SemiLine.png" color="ffffdd00" alpha="0.8" fadeNear="1500" fadeFar="2000" animSpeed="0.5" mapDisplaySize="25"/>
+		<POI MapID="326" xpos="-65.1581" ypos="255.556" zpos="402.912" type="guild_missions.treks.b.brothers_notch" GUID="ltRRyjC5qk6S6atwB1GWCg==" fadeNear="1500" fadeFar="2500" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="326" xpos="-65.1581" ypos="256.556" zpos="402.912" type="guild_missions.treks.b.brothers_notch" GUID="+GFprz68A0aixsu4Icdwqg==" iconFile="Img/GuildMissions/BrothersNotch.png" minSize="48" maxSize="48" heightOffset="1" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="326" xpos="-103.769" ypos="273.62"  zpos="386.532" type="guild_missions.treks.b.brothers_notch" GUID="PzYOcvjO7U+oW07vIYEW1g==" fadeNear="1000" fadeFar="1500"/>
+
+		<!-- Burstbubble Blind - Refuge Percebul -->
+		<POI MapID="20" xpos="-319.265" ypos="8.04421" zpos="-794.434" type="guild_missions.treks.b.burstbubble_blind" GUID="I1QwL2kOcU+hPEIcg06GeQ==" fadeNear="1500" fadeFar="2500"/>
+		<POI MapID="20" xpos="-319.265" ypos="9.04421" zpos="-794.434" type="guild_missions.treks.b.burstbubble_blind" GUID="KTWM0wN1iEquarc+RXitfA==" iconFile="Img/GuildMissions/BurstbubbleBlind.png" minSize="48" maxSize="48" heightOffset="1" mapVisibility="0" miniMapVisibility="0"/>
+
+		<!-- Cache of the Pursued - Cache du Fugitif -->
+		<POI MapID="62" xpos="491.63" ypos="54.0381" zpos="811.706" type="guild_missions.treks.c.cache_of_the_pursued" GUID="wQbb2OfDy0+JYW9966W2Bw==" fadeNear="1500" fadeFar="2500"/>
+		<POI MapID="62" xpos="491.63" ypos="55.0381" zpos="811.706" type="guild_missions.treks.c.cache_of_the_pursued" GUID="4tOc1keOJUG0MXG/oheCWw==" iconFile="Img/GuildMissions/CacheOfThePursued.png" minSize="48" maxSize="48" heightOffset="1" mapVisibility="0" miniMapVisibility="0"/>
+
+		<!-- Cademkrall Overlook - Plateau de Krallcamden -->
+		<POI MapID="19" xpos="1140.63" ypos="41.8412" zpos="66.9592" type="guild_missions.treks.c.cademkrall_overlook" GUID="fXDi9A4V0EGBX4mvWJU7qQ==" fadeNear="1500" fadeFar="2500"/>
+		<POI MapID="19" xpos="1140.63" ypos="42.8412" zpos="66.9592" type="guild_missions.treks.c.cademkrall_overlook" GUID="KTqKhclYsU2HUTHMj6AIdA==" iconFile="Img/GuildMissions/CademkrallOverlook.png" minSize="48" maxSize="48" heightOffset="1" mapVisibility="0" miniMapVisibility="0"/>
+
+		<!-- Canyonweb Cave - Grotte de Gorgetoile -->
+		<POI MapID="20" xpos="-543.519" ypos="37.3149" zpos="374.817" type="guild_missions.treks.c.canyonweb_cave" GUID="s7vSjjXNMEqzi87XqFAUcQ==" fadeNear="1500" fadeFar="2500"/>
+		<POI MapID="20" xpos="-543.519" ypos="38.3149" zpos="374.817" type="guild_missions.treks.c.canyonweb_cave" GUID="5kVfgodrEUiUE74zapDaCg==" iconFile="Img/GuildMissions/CanyonwebCave.png" minSize="48" maxSize="48" heightOffset="1" mapVisibility="0" miniMapVisibility="0"/>
+
+		<!-- Captain's Berth - Mouillage du Capitaine -->
+		<POI MapID="65" xpos="-999.642" ypos="-70.2624" zpos="-20.6241" type="guild_missions.treks.c.captain_s_berth" GUID="zYRASJiCREa68arWWmyNuQ==" fadeNear="1500" fadeFar="2500"/>
+		<POI MapID="65" xpos="-999.642" ypos="-69.2624" zpos="-20.6241" type="guild_missions.treks.c.captain_s_berth" GUID="uTGyE5gt6U698MYvuaHmjw==" iconFile="Img/GuildMissions/CaptainsBerth.png" minSize="48" maxSize="48" heightOffset="1" mapVisibility="0" miniMapVisibility="0"/>
+
+		<!-- Castavall Corner - Coin de Castavall -->
+		<Trail type="guild_missions.treks.c.castavall_corner" GUID="CNLG2riwjEixg29Ctl0IFQ==" trailData="Data/GuildMissions/Treks/CastavallCorner.trl" texture="Data/SemiLine.png" color="ffffdd00" alpha="0.8" fadeNear="1500" fadeFar="2000" animSpeed="0.5" mapDisplaySize="25"/>
+		<POI MapID="73" xpos="-79.5295" ypos="-78.3335" zpos="-624.608" type="guild_missions.treks.c.castavall_corner" GUID="DKcwksOHPkSdE0Sy7SNqAw==" fadeNear="1500" fadeFar="2500" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="73" xpos="-79.5295" ypos="-77.3335" zpos="-624.608" type="guild_missions.treks.c.castavall_corner" GUID="4+P1uhLdckeuvPF52cy5ew==" iconFile="Img/GuildMissions/CastavallCorner.png" minSize="48" maxSize="48" heightOffset="1" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="73" xpos="-228.005" ypos="-126.681" zpos="-556.869" type="guild_missions.treks.c.castavall_corner" GUID="lBLfQ6xsmUq0ivBofm+pzA==" fadeNear="1500" fadeFar="2000"/>
+
+		<!-- Cathedral's Cavity - Cavité de la Cathédrale -->
+		<Trail type="guild_missions.treks.c.cathedral_s_cavity" GUID="yeXTTfHSCkeNpe3bNPMcAA==" trailData="Data/GuildMissions/Treks/CathedralsCavity.trl" texture="Data/SemiLine.png" color="ffffdd00" alpha="0.8" fadeNear="1500" fadeFar="2000" animSpeed="0.5" mapDisplaySize="25"/>
+		<POI MapID="65" xpos="502.148" ypos="18.6977" zpos="-22.6783" type="guild_missions.treks.c.cathedral_s_cavity" GUID="5b1ceHpYPkKnTXp8r3mYAg==" fadeNear="1500" fadeFar="2500" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="65" xpos="502.148" ypos="19.6977" zpos="-22.6783" type="guild_missions.treks.c.cathedral_s_cavity" GUID="dj5DVnhIwkiqPCVXLv8kxQ==" iconFile="Img/GuildMissions/CathedralsCavity.png" minSize="48" maxSize="48" heightOffset="1" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="65" xpos="400.467" ypos="19.2017" zpos="46.9051"  type="guild_missions.treks.c.cathedral_s_cavity" GUID="B5XTcdalq0qBRw6tRzRawg==" fadeNear="1500" fadeFar="2000"/>
+
+		<!-- Cave Bear Cache - Cache de l'Ourse des Cavernes -->
+		<POI MapID="31" xpos="724.022" ypos="37.8552" zpos="-95.9756" type="guild_missions.treks.c.cave_bear_cache" GUID="oJ+B0lDde0SSsbJjYghqew==" fadeNear="1500" fadeFar="2500"/>
+		<POI MapID="31" xpos="724.022" ypos="38.8552" zpos="-95.9756" type="guild_missions.treks.c.cave_bear_cache" GUID="CFdETc42RkCHHqE3ovK0CQ==" iconFile="Img/GuildMissions/CaveBearCache.png" minSize="48" maxSize="48" heightOffset="1" mapVisibility="0" miniMapVisibility="0"/>
+
+		<!-- Cave Spider Nidus - Nid d'Araignée Cavernicole -->
+		<POI MapID="27" xpos="336.938" ypos="186.39" zpos="834.341" type="guild_missions.treks.c.cave_spider_nidus" GUID="gEEBRRqgBkqO7ZpuAEHvew==" fadeNear="1500" fadeFar="2500"/>
+		<POI MapID="27" xpos="336.938" ypos="187.39" zpos="834.341" type="guild_missions.treks.c.cave_spider_nidus" GUID="gvMs2qJWb0u/ensYKKhvNA==" iconFile="Img/GuildMissions/CaveSpiderNidus.png" minSize="48" maxSize="48" heightOffset="1" mapVisibility="0" miniMapVisibility="0"/>
+
+		<!-- Claypool Bailey - Mur d'Enceinte de Claypool -->
+		<POI MapID="15" xpos="-494.467" ypos="48.6741" zpos="-399.948" type="guild_missions.treks.c.claypool_bailey" GUID="haWtHT8aBUCW4uDOzF8I4A==" fadeNear="1500" fadeFar="2500"/>
+		<POI MapID="15" xpos="-494.467" ypos="49.6741" zpos="-399.948" type="guild_missions.treks.c.claypool_bailey" GUID="3KBCOMuC00ypJqcTcAN5LQ==" iconFile="Img/GuildMissions/ClaypoolBailey.png" minSize="48" maxSize="48" heightOffset="1" mapVisibility="0" miniMapVisibility="0"/>
+
+		<!-- Constellation Parapet - Parapet des Constellations -->
+		<POI MapID="91" xpos="19.0359" ypos="58.0329" zpos="-109.274" type="guild_missions.treks.c.constellation_parapet" GUID="WfrBCOhdsEykV7T+lBIJKg==" fadeNear="1500" fadeFar="2500"/>
+		<POI MapID="91" xpos="19.0359" ypos="59.0329" zpos="-109.274" type="guild_missions.treks.c.constellation_parapet" GUID="XgI1+cVUCkGPzxhN2wYRQw==" iconFile="Img/GuildMissions/ConstellationParapet.png" minSize="48" maxSize="48" heightOffset="1" mapVisibility="0" miniMapVisibility="0"/>
+
+		<!-- Corruption's Teeth - Dents de la Corruption -->
+		<POI MapID="30" xpos="-562.844" ypos="16.6561" zpos="890.234" type="guild_missions.treks.c.corruption_s_teeth" GUID="7B0p15a9qE6o8s0dMMFw9A==" fadeNear="1500" fadeFar="2500"/>
+		<POI MapID="30" xpos="-562.844" ypos="17.6561" zpos="890.234" type="guild_missions.treks.c.corruption_s_teeth" GUID="d8ZDKiHKPkyNrlJzOR54Fw==" iconFile="Img/GuildMissions/CorruptionsTeeth.png" minSize="48" maxSize="48" heightOffset="1" mapVisibility="0" miniMapVisibility="0"/>
+
+		<!-- Covington's Stowage - Mouillage de Covington -->
+		<Trail type="guild_missions.treks.c.covington_s_stowage" GUID="cKcCUQAi0kuXFLim6YPJDg==" trailData="Data/GuildMissions/Treks/CovingtonsStowage.trl" texture="Data/SemiLine.png" color="ffffdd00" alpha="0.8" fadeNear="1500" fadeFar="2000" animSpeed="0.5" mapDisplaySize="25"/>
+		<POI MapID="73" xpos="-289.874" ypos="10.032"  zpos="235.777" type="guild_missions.treks.c.covington_s_stowage" GUID="Pa+KJwzfdUucSjdnRyb9hw==" fadeNear="1500" fadeFar="2500" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="73" xpos="-289.874" ypos="11.032"  zpos="235.777" type="guild_missions.treks.c.covington_s_stowage" GUID="6BA7ELKWj02FtNS6PnT/AA==" iconFile="Img/GuildMissions/CovingtonsStowage.png" minSize="48" maxSize="48" heightOffset="1" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="73" xpos="-280.003" ypos="1.45626" zpos="182.296" type="guild_missions.treks.c.covington_s_stowage" GUID="m1m+/Zf5L0iM4lRiXK3wGA==" fadeNear="1500" fadeFar="2000"/>
+
+		<!-- Cutthroat's Rest - Halte de Coupegorge -->
+		<POI MapID="24" xpos="151.796" ypos="0.489824" zpos="139.77" type="guild_missions.treks.c.cutthroat_s_rest" GUID="2k6TS1oIYEavU/QzkFWV5Q==" fadeNear="1500" fadeFar="2500"/>
+		<POI MapID="24" xpos="151.796" ypos="1.489824" zpos="139.77" type="guild_missions.treks.c.cutthroat_s_rest" GUID="FZjh6qR8XE+1FZIkAYcfLw==" iconFile="Img/GuildMissions/CutthroatsRest.png" minSize="48" maxSize="48" heightOffset="1" mapVisibility="0" miniMapVisibility="0"/>
+
+		<!-- Cymbel's Glen - Vallon de Cymbel -->
+		<POI MapID="21" xpos="681.123" ypos="53.2718" zpos="-477.274" type="guild_missions.treks.c.cymbel_s_glen" GUID="bYa4nX/3602yK5RdDhYmIg==" fadeNear="1500" fadeFar="2500"/>
+		<POI MapID="21" xpos="681.123" ypos="54.2718" zpos="-477.274" type="guild_missions.treks.c.cymbel_s_glen" GUID="GC7Q47ezR0+ufPrM3d6xLg==" iconFile="Img/GuildMissions/CymbelsGlen.png" minSize="48" maxSize="48" heightOffset="1" mapVisibility="0" miniMapVisibility="0"/>
+
+		<!-- Dawngleam Pergola - Pergola d'Aubeluit -->
+		<Trail type="guild_missions.treks.d.dawngleam_pergola" GUID="Km5CDLIXDUC9Uf+nMteRvQ==" trailData="Data/GuildMissions/Treks/DawngleamPergola.trl" texture="Data/SemiLine.png" color="ff00dd00" alpha="0.8" fadeNear="1500" fadeFar="2000" animSpeed="0.5" mapDisplaySize="25"/>
+		<POI MapID="91" xpos="10.4606" ypos="1.56024" zpos="214.325" type="guild_missions.treks.d.dawngleam_pergola" GUID="lKm3HZUYEE2ZvKHXmoXA1w==" fadeNear="1500" fadeFar="2500"/>
+		<POI MapID="91" xpos="10.4606" ypos="2.56024" zpos="214.325" type="guild_missions.treks.d.dawngleam_pergola" GUID="TinPTCz5VkevAxkgcsvOAA==" iconFile="Img/GuildMissions/DawngleamPergola.png" minSize="48" maxSize="48" heightOffset="1" mapVisibility="0" miniMapVisibility="0"/>
+
+		<!-- Deepmire Diver - Plongeur Focebourbié -->
+		<POI MapID="39" xpos="177.133" ypos="3.61577" zpos="-3.6774" type="guild_missions.treks.d.deepmire_diver" GUID="Yvv0Tk8NrES1lQQ7flrqDw==" fadeNear="1500" fadeFar="2500"/>
+		<POI MapID="39" xpos="177.133" ypos="4.61577" zpos="-3.6774" type="guild_missions.treks.d.deepmire_diver" GUID="WcSPGu+XCUSxNCrGmM4f2Q==" iconFile="Img/GuildMissions/DeepmireDiver.png" minSize="48" maxSize="48" heightOffset="1" mapVisibility="0" miniMapVisibility="0"/>
+
+		<!-- Defiled Delve - Excavation Profanée -->
+		<POI MapID="23" xpos="1224.37" ypos="45.6864" zpos="-74.2917" type="guild_missions.treks.d.defiled_delve" GUID="alXRBBpNoUiQDtgn+K6EDw==" fadeNear="1500" fadeFar="2500"/>
+		<POI MapID="23" xpos="1224.37" ypos="46.6864" zpos="-74.2917" type="guild_missions.treks.d.defiled_delve" GUID="s9FXial+p0y2cPvq8JXXyw==" iconFile="Img/GuildMissions/DefiledDelve.png" minSize="48" maxSize="48" heightOffset="1" mapVisibility="0" miniMapVisibility="0"/>
+
+		<!-- Delight's Balcony - Balcon des Délices -->
+		<Trail type="guild_missions.treks.d.delight_s_balcony" GUID="2gaPSUQQ7EuHxW6TCmUp/g==" trailData="Data/GuildMissions/Treks/DelightsBalcony.trl" texture="Data/SemiLine.png" color="ffffdd00" alpha="0.8" fadeNear="1500" fadeFar="2000" animSpeed="0.5" mapDisplaySize="25"/>
+		<POI MapID="65" xpos="1017.68" ypos="51.4659" zpos="-452.596" type="guild_missions.treks.d.delight_s_balcony" GUID="sA/N65f1XEyyL6oLxueGVA==" fadeNear="1500" fadeFar="2500" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="65" xpos="1017.68" ypos="52.4659" zpos="-452.596" type="guild_missions.treks.d.delight_s_balcony" GUID="wh2ayb+WEk6HSJEmaRU3Lw==" iconFile="Img/GuildMissions/DelightsBalcony.png" minSize="48" maxSize="48" heightOffset="1" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="65" xpos="956.033" ypos="89.2741" zpos="-469.846" type="guild_missions.treks.d.delight_s_balcony" GUID="vbVlEICaxkCb6BoVu8cqqw==" fadeNear="1000" fadeFar="1500"/>
+
+		<!-- Destiny's Guildhall - Hall de Guilde du Destin -->
+		<POI MapID="15" xpos="-547.856" ypos="39.772" zpos="519.463" type="guild_missions.treks.d.destiny_s_guildhall" GUID="ZAq2RpUUS0Gr8Bz1mggfMg==" fadeNear="1500" fadeFar="2500"/>
+		<POI MapID="15" xpos="-547.856" ypos="40.772" zpos="519.463" type="guild_missions.treks.d.destiny_s_guildhall" GUID="NTKOEkzc0EehfsueaJycfw==" iconFile="Img/GuildMissions/DestinysGuildhall.png" minSize="48" maxSize="48" heightOffset="1" mapVisibility="0" miniMapVisibility="0"/>
+
+		<!-- Dirtclaw Cleft - Faille de Pouacregriffe -->
+		<POI MapID="25" xpos="559.169" ypos="7.67037" zpos="-928.419" type="guild_missions.treks.d.dirtclaw_cleft" GUID="w9KAZBHhGkOsQMFylp+9jQ==" fadeNear="1500" fadeFar="2500"/>
+		<POI MapID="25" xpos="559.169" ypos="8.67037" zpos="-928.419" type="guild_missions.treks.d.dirtclaw_cleft" GUID="AxQv5JC0WEa5p49lPxoNOg==" iconFile="Img/GuildMissions/DirtclawCleft.png" minSize="48" maxSize="48" heightOffset="1" mapVisibility="0" miniMapVisibility="0"/>
+
+		<!-- Doefalls Court - Cour des Chutes de la Biche -->
+		<POI MapID="19" xpos="1220.33" ypos="48.7547" zpos="600.312" type="guild_missions.treks.d.doefalls_court" GUID="DhY7QN9ivE++w8Z07tZdug==" fadeNear="1500" fadeFar="2500"/>
+		<POI MapID="19" xpos="1220.33" ypos="49.7547" zpos="600.312" type="guild_missions.treks.d.doefalls_court" GUID="LeM356ul5kGXLSb6skPuXQ==" iconFile="Img/GuildMissions/DoefallsCourt.png" minSize="48" maxSize="48" heightOffset="1" mapVisibility="0" miniMapVisibility="0"/>
+
+		<!-- Drakecleft Shelf - Saut de Drakefaille -->
+		<Trail type="guild_missions.treks.d.drakecleft_shelf" GUID="1q8GBbcS90+Bg9l6SiriDA==" trailData="Data/GuildMissions/Treks/DrakecleftShelf.trl" texture="Data/SemiLine.png" color="ffffdd00" alpha="0.8" fadeNear="1500" fadeFar="2000" animSpeed="0.5" mapDisplaySize="25"/>
+		<POI MapID="21" xpos="662.283" ypos="18.5021" zpos="179.325" type="guild_missions.treks.d.drakecleft_shelf" GUID="3F8cm+CxdkGInWPZ3ql8AQ==" fadeNear="1500" fadeFar="2500" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="21" xpos="662.283" ypos="19.5021" zpos="179.325" type="guild_missions.treks.d.drakecleft_shelf" GUID="hITPNS7RT0S8U6JbCUyzkQ==" iconFile="Img/GuildMissions/DrakecleftShelf.png" minSize="48" maxSize="48" heightOffset="1" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="21" xpos="634.138" ypos="22.7707" zpos="269.889" type="guild_missions.treks.d.drakecleft_shelf" GUID="NA4/cCGvRUKm8DA4N/BhgQ==" fadeNear="1000" fadeFar="1500"/>
+
+		<!-- Drakehatch Shore - Côte de Couvedrake -->
+		<Trail type="guild_missions.treks.d.drakehatch_shore" GUID="HSVCPRM9xUuG89I4CWB4wg==" trailData="Data/GuildMissions/Treks/DrakehatchShore.trl" texture="Data/SemiLine.png" color="ffffdd00" alpha="0.8" fadeNear="1500" fadeFar="2000" animSpeed="0.5" mapDisplaySize="25"/>
+		<POI MapID="32" xpos="861.69"  ypos="-1.04881" zpos="-460.58"  type="guild_missions.treks.d.drakehatch_shore" GUID="E02Y5Wwkh0C6SHf1ZFtGJA==" fadeNear="1500" fadeFar="2500" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="32" xpos="861.69"  ypos="-0.04881" zpos="-460.58"  type="guild_missions.treks.d.drakehatch_shore" GUID="ftgznsr3IUePlYAXasEQNw==" iconFile="Img/GuildMissions/DrakehatchShore.png" minSize="48" maxSize="48" heightOffset="1" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="32" xpos="1037.57" ypos="10.6326"  zpos="-356.044" type="guild_missions.treks.d.drakehatch_shore" GUID="q4YZ3Mat2Eeajc/8ELgu+Q==" fadeNear="1000" fadeFar="1500"/>
+
+		<!-- Droknah's Gate - Porte de Droknah -->
+		<POI MapID="39" xpos="772.292" ypos="-41.5928" zpos="120.744" type="guild_missions.treks.d.droknah_s_gate" GUID="8Jox4GUwoUOhk4ZQ2OQrrg==" fadeNear="1500" fadeFar="2500"/>
+		<POI MapID="39" xpos="772.292" ypos="-40.5928" zpos="120.744" type="guild_missions.treks.d.droknah_s_gate" GUID="YZuvrQmA5kyGRgFcjm3j9Q==" iconFile="Img/GuildMissions/DroknahsGate.png" minSize="48" maxSize="48" heightOffset="1" mapVisibility="0" miniMapVisibility="0"/>
+
+		<!-- Drowned Plaza - Place Engloutie -->
+		<POI MapID="51" xpos="-386.6" ypos="-116.49" zpos="656.099" type="guild_missions.treks.d.drowned_plaza" GUID="Qvii8eXb2UeymHwUKXIUXA==" fadeNear="1500" fadeFar="2500"/>
+		<POI MapID="51" xpos="-386.6" ypos="-115.49" zpos="656.099" type="guild_missions.treks.d.drowned_plaza" GUID="adwRo1muskuYiGKBdmlcMg==" iconFile="Img/GuildMissions/DrownedPlaza.png" minSize="48" maxSize="48" heightOffset="1" mapVisibility="0" miniMapVisibility="0"/>
+
+		<!-- East End Falls - Chute d'East End -->
+		<POI MapID="54" xpos="525.51" ypos="17.0807" zpos="118.957" type="guild_missions.treks.e.east_end_falls" GUID="RsfseowsIUKPMky8ytO7dw==" fadeNear="1500" fadeFar="2500"/>
+		<POI MapID="54" xpos="525.51" ypos="18.0807" zpos="118.957" type="guild_missions.treks.e.east_end_falls" GUID="KJaFcwD3c0m3vsoyZF4X1w==" iconFile="Img/GuildMissions/EastEndFalls.png" minSize="48" maxSize="48" heightOffset="1" mapVisibility="0" miniMapVisibility="0"/>
+
+		<!-- Eastlurk Alley - Ruelle du Vadrouilleur de l'Est -->
+		<POI MapID="18" xpos="154.005" ypos="65.6957" zpos="-336.895" type="guild_missions.treks.e.eastlurk_alley" GUID="mMoulZBMsU2ZVlFE6QwcqA==" fadeNear="1500" fadeFar="2500"/>
+		<POI MapID="18" xpos="154.005" ypos="66.6957" zpos="-336.895" type="guild_missions.treks.e.eastlurk_alley" GUID="oE1FGsD75EKhv7WU2vaLyA==" iconFile="Img/GuildMissions/EastlurkAlley.png" minSize="48" maxSize="48" heightOffset="1" mapVisibility="0" miniMapVisibility="0"/>
+
+		<!-- Elise's Surprise - Surprise d'Elise -->
+		<POI MapID="17" xpos="-894.332" ypos="122.384" zpos="-572.234" type="guild_missions.treks.e.elise_s_surprise" GUID="aWPwrvRJAkeqQhGC+lq9yw==" fadeNear="1500" fadeFar="2500"/>
+		<POI MapID="17" xpos="-894.332" ypos="123.384" zpos="-572.234" type="guild_missions.treks.e.elise_s_surprise" GUID="LbUQ0czBAkaSTU9F13S73Q==" iconFile="Img/GuildMissions/ElisesSurprise.png" minSize="48" maxSize="48" heightOffset="1" mapVisibility="0" miniMapVisibility="0"/>
+
+		<!-- Ettinbreath Lair - Repaire de Soufflettin -->
+		<POI MapID="27" xpos="-169.112" ypos="93.5619" zpos="-1325.8" type="guild_missions.treks.e.ettinbreath_lair" GUID="m+ycHEimZ0SJIWYbioJPAA==" fadeNear="1500" fadeFar="2500"/>
+		<POI MapID="27" xpos="-169.112" ypos="94.5619" zpos="-1325.8" type="guild_missions.treks.e.ettinbreath_lair" GUID="U2zLkEaiQE+c8iOiE4Wr2Q==" iconFile="Img/GuildMissions/EttinbreathLair.png" minSize="48" maxSize="48" heightOffset="1" mapVisibility="0" miniMapVisibility="0"/>
+
+		<!-- Fathom Five Forcefield - Champ de Force de la Cinquième Brasse -->
+		<Trail type="guild_missions.treks.f.fathom_five_forcefield" GUID="p/2I8nPPskqWfvg4NVcIHA==" trailData="Data/GuildMissions/Treks/FathomFiveForcefield.trl" texture="Data/SemiLine.png" color="ffffdd00" alpha="0.8" fadeNear="1500" fadeFar="2000" animSpeed="0.5" mapDisplaySize="25"/>
+		<POI MapID="51" xpos="241.905" ypos="-60.7712" zpos="100.572"   type="guild_missions.treks.f.fathom_five_forcefield" GUID="bPlB4B2AeEmgVImVYAaGew==" fadeNear="1500" fadeFar="2500" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="51" xpos="241.905" ypos="-59.7712" zpos="100.572"   type="guild_missions.treks.f.fathom_five_forcefield" GUID="Y13J2ILHX0iv+MXNepMFPQ==" iconFile="Img/GuildMissions/FathomFiveForcefield.png" minSize="48" maxSize="48" heightOffset="1" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="51" xpos="422.769" ypos="-80.9487" zpos="-0.695188" type="guild_missions.treks.f.fathom_five_forcefield" GUID="8JZ1WUU5sUKacav7Rv5c8A==" fadeNear="1000" fadeFar="1500"/>
+
+		<!-- Fawcett's Porch - Porche de Fawcett -->
+		<Trail type="guild_missions.treks.f.fawcett_s_porch" GUID="Fnsn7xQySEiTKwIgdaaQmg==" trailData="Data/GuildMissions/Treks/FawcettsPorch.trl" texture="Data/SemiLine.png" color="ffffdd00" alpha="0.8" fadeNear="1500" fadeFar="2000" animSpeed="0.5" mapDisplaySize="25"/>
+		<POI MapID="17" xpos="-370.854" ypos="0.665601" zpos="716.686" type="guild_missions.treks.f.fawcett_s_porch" GUID="AeYBLslxH0uLhnSAF5Rx5g==" fadeNear="1500" fadeFar="2500" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="17" xpos="-370.854" ypos="1.665601" zpos="716.686" type="guild_missions.treks.f.fawcett_s_porch" GUID="l+2NScwWB0Cue7+zetNI+A==" iconFile="Img/GuildMissions/FawcettsPorch.png" minSize="48" maxSize="48" heightOffset="1" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="17" xpos="-389.045" ypos="22.1252"  zpos="754.218" type="guild_missions.treks.f.fawcett_s_porch" GUID="7TRn6kcegEuoiYqpTU4o+A==" iconFile="Img/Icons/Interaction.png" minSize="8" maxSize="16" fadeNear="1500" fadeFar="2000" heightOffset="0.5" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="17" xpos="-375.311" ypos="26.6957"  zpos="765.198" type="guild_missions.treks.f.fawcett_s_porch" GUID="PTmVmHMFPkm27s3Qskf5vg==" iconFile="Img/GuildMissions/FawcettsPorch_Info.png" maxSize="48" fadeNear="1500" fadeFar="2000" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="17" xpos="-350.907" ypos="27.451"   zpos="769.714" type="guild_missions.treks.f.fawcett_s_porch" GUID="UQBGouInM0qqu9pg4P9Ktg==" iconFile="Img/Icons/Interaction.png" minSize="8" maxSize="16" fadeNear="1500" fadeFar="2000" heightOffset="0.5" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="17" xpos="-322.723" ypos="35.6024"  zpos="816.213" type="guild_missions.treks.f.fawcett_s_porch" GUID="QPbbiq2ir0+uNchlyt/XwA==" iconFile="Img/Icons/Interaction.png" minSize="8" maxSize="16" fadeNear="1500" fadeFar="2000" heightOffset="0.5" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="17" xpos="-384.665" ypos="33.8"     zpos="782.32"  type="guild_missions.treks.f.fawcett_s_porch" GUID="r8dcE+sXDki24ItZ/Ar7Qg==" iconFile="Img/Icons/Interaction.png" minSize="8" maxSize="16" fadeNear="1500" fadeFar="2000" heightOffset="0.5" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="17" xpos="-696.564" ypos="8.85941"  zpos="811.358" type="guild_missions.treks.f.fawcett_s_porch" GUID="cd0D0YRJK0yv67u3alHZTA==" fadeNear="2000" fadeFar="2500"/>
+
+		<!-- Fire Imp Pocket - Poche de Diablotin de Feu -->
+		<POI MapID="39" xpos="-322.898" ypos="6.44595" zpos="-329.989" type="guild_missions.treks.f.fire_imp_pocket" GUID="UN/hvqZ9yUmRJ4r9qPj6aQ==" fadeNear="1500" fadeFar="2500"/>
+		<POI MapID="39" xpos="-322.898" ypos="7.44595" zpos="-329.989" type="guild_missions.treks.f.fire_imp_pocket" GUID="YLp8CA3ys0iVqPNYP7SYag==" iconFile="Img/GuildMissions/FireImpPocket.png" minSize="48" maxSize="48" heightOffset="1" mapVisibility="0" miniMapVisibility="0"/>
+
+		<!-- Firefrog Springs - Source de Brûlereinette -->
+		<POI MapID="53" xpos="739.178" ypos="62.0736" zpos="-30.0788" type="guild_missions.treks.f.firefrog_springs" GUID="nHuWNRppvkyd833k4fs4bg==" fadeNear="1500" fadeFar="2500"/>
+		<POI MapID="53" xpos="739.178" ypos="63.0736" zpos="-30.0788" type="guild_missions.treks.f.firefrog_springs" GUID="JaFYlgBicU2rFlPtQyC2kA==" iconFile="Img/GuildMissions/FirefrogSprings.png" minSize="48" maxSize="48" heightOffset="1" mapVisibility="0" miniMapVisibility="0"/>
+
+		<!-- Firewatch Flybridge - Pont du Guet-du-Feu -->
+		<POI MapID="25" xpos="-84.8181" ypos="20.1767" zpos="588.624" type="guild_missions.treks.f.firewatch_flybridge" GUID="m5hTlrSlSUSXYDx/0tAlmQ==" fadeNear="1500" fadeFar="2500"/>
+		<POI MapID="25" xpos="-84.8181" ypos="21.1767" zpos="588.624" type="guild_missions.treks.f.firewatch_flybridge" GUID="MiOW/UQ3TkuBEIMcsOnsxQ==" iconFile="Img/GuildMissions/FirewatchFlybridge.png" minSize="48" maxSize="48" heightOffset="1" mapVisibility="0" miniMapVisibility="0"/>
+
+		<!-- Fisher's Crag - Escarpement du Pêcheur -->
+		<POI MapID="35" xpos="-541.416" ypos="14.3489" zpos="-24.0358" type="guild_missions.treks.f.fisher_s_crag" GUID="vDzmgQaD8EOjyawuTh8PIg==" fadeNear="1500" fadeFar="2500"/>
+		<POI MapID="35" xpos="-541.416" ypos="15.3489" zpos="-24.0358" type="guild_missions.treks.f.fisher_s_crag" GUID="5g5CZGJHskeSK5yoZDiS0A==" iconFile="Img/GuildMissions/FishersCrag.png" minSize="48" maxSize="48" heightOffset="1" mapVisibility="0" miniMapVisibility="0"/>
+
+		<!-- Flakk's Lapidary Nook - Recoin Lapidaire de Flakk -->
+		<POI MapID="139" xpos="-55.6056" ypos="364.737" zpos="252.783" type="guild_missions.treks.f.flakk_s_lapidary_nook" GUID="gxaac9bBe0eOOQveZnVWMQ==" fadeNear="1500" fadeFar="2500"/>
+		<POI MapID="139" xpos="-55.6056" ypos="365.737" zpos="252.783" type="guild_missions.treks.f.flakk_s_lapidary_nook" GUID="1MhfTi7r20aSJmM90nox5A==" iconFile="Img/GuildMissions/FlakksLapidaryNook.png" minSize="48" maxSize="48" heightOffset="1" mapVisibility="0" miniMapVisibility="0"/>
+
+		<!-- Forager's Midden - Fouilleur de Fumier -->
+		<Trail type="guild_missions.treks.f.forager_s_midden" GUID="tvzco/3AF0qDcGsDSkWefA==" trailData="Data/GuildMissions/Treks/ForagersMidden.trl" texture="Data/SemiLine.png" color="ffffdd00" alpha="0.8" fadeNear="1500" fadeFar="2000" animSpeed="0.5" mapDisplaySize="25"/>
+		<POI MapID="26" xpos="-497.466" ypos="73.2533" zpos="-123.727" type="guild_missions.treks.f.forager_s_midden" GUID="cqQuOZYipkqFMTij1sPK2A==" fadeNear="1500" fadeFar="2500" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="26" xpos="-497.466" ypos="74.2533" zpos="-123.727" type="guild_missions.treks.f.forager_s_midden" GUID="/Ajjel0tGkahXo30yDyv+A==" iconFile="Img/GuildMissions/ForagersMidden.png" minSize="48" maxSize="48" heightOffset="1" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="26" xpos="-620.555" ypos="30.8328" zpos="-592.001" type="guild_missions.treks.f.forager_s_midden" GUID="ON1FCLmolEK/NRTCV9zo3Q==" fadeNear="1000" fadeFar="1500"/>
+
+		<!-- Foreman's Recess - Cavité du Contremaître -->
+		<Trail type="guild_missions.treks.f.foreman_s_recess" GUID="QveZWKId5EOfYEVbFyTEzw==" trailData="Data/GuildMissions/Treks/ForemansRecess.trl" texture="Data/SemiLine.png" color="ffffdd00" alpha="0.8" fadeNear="1500" fadeFar="2000" animSpeed="0.5" mapDisplaySize="25"/>
+		<POI MapID="26" xpos="343.911" ypos="55.1133" zpos="-752.384" type="guild_missions.treks.f.foreman_s_recess" GUID="Mi+PZLhAB0ebqBI1mqFoNQ==" fadeNear="1500" fadeFar="2500" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="26" xpos="343.911" ypos="56.1133" zpos="-752.384" type="guild_missions.treks.f.foreman_s_recess" GUID="Hp53Ehdt3UqwQYMpUm9D+Q==" iconFile="Img/GuildMissions/ForemansRecess.png" minSize="48" maxSize="48" heightOffset="1" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="26" xpos="328.31"  ypos="72.6181" zpos="-749.745" type="guild_missions.treks.f.foreman_s_recess" GUID="ZCw+KiUoo0yG7kJNaetPWw==" fadeNear="1000" fadeFar="1500"/>
+
+		<!-- Forgotten Grotto - Grotte Oubliée -->
+		<Trail type="guild_missions.treks.f.forgotten_grotto" GUID="nYTElsrRCUW5TK62e+ltow==" trailData="Data/GuildMissions/Treks/ForgottenGrotto.trl" texture="Data/SemiLine.png" color="ffffdd00" alpha="0.8" fadeNear="1500" fadeFar="2000" animSpeed="0.5" mapDisplaySize="25"/>
+		<POI MapID="20" xpos="382.591" ypos="39.1796" zpos="957.723" type="guild_missions.treks.f.forgotten_grotto" GUID="iKLNbAJPC02jX8uZpw4hCw==" fadeNear="1500" fadeFar="2500" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="20" xpos="382.591" ypos="40.1796" zpos="957.723" type="guild_missions.treks.f.forgotten_grotto" GUID="FU15Th8srEqhDLOnanZyNA==" iconFile="Img/GuildMissions/ForgottenGrotto.png" minSize="48" maxSize="48" heightOffset="1" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="20" xpos="560.932" ypos="46.4369" zpos="1162.38" type="guild_missions.treks.f.forgotten_grotto" GUID="oCVNTfieeEq8/wEPYYcakA==" fadeNear="1500" fadeFar="2000"/>
+
+		<!-- Forbidden Shear - Cisaillement Interdit -->
+		<POI MapID="65" xpos="-817.063" ypos="11.4521" zpos="150.031" type="guild_missions.treks.f.forbidden_shear" GUID="A7mBezIosE2Q0zp+tfvUdQ==" fadeNear="1500" fadeFar="2500"/>
+		<POI MapID="65" xpos="-817.063" ypos="12.4521" zpos="150.031" type="guild_missions.treks.f.forbidden_shear" GUID="cuxEqIsyJkWOPpMoUxI8MA==" iconFile="Img/GuildMissions/ForbiddenShear.png" minSize="48" maxSize="48" heightOffset="1" mapVisibility="0" miniMapVisibility="0"/>
+
+		<!-- Founder's Flagon Hearth - Coeur du Flacon du Fondateur -->
+		<POI MapID="21" xpos="-434.316" ypos="67.8522" zpos="-689.593" type="guild_missions.treks.f.founder_s_flagon_hearth" GUID="0lnk5wf5ZUeUrOs5UK3OZQ==" fadeNear="1500" fadeFar="2500"/>
+		<POI MapID="21" xpos="-434.316" ypos="68.8522" zpos="-689.593" type="guild_missions.treks.f.founder_s_flagon_hearth" GUID="Oz3WRG6csUag31zpygUN1Q==" iconFile="Img/GuildMissions/FoundersFlagonHearth.png" minSize="48" maxSize="48" heightOffset="1" mapVisibility="0" miniMapVisibility="0"/>
+
+		<!-- Freestand Scaffold - Échafaudage Autoporteur -->
+		<POI MapID="218" xpos="-128.122" ypos="10.6317" zpos="-4.67039" type="guild_missions.treks.f.freestand_scaffold" GUID="uAtezXQ/MEmNjxj+H0sVzQ==" fadeNear="1500" fadeFar="2500"/>
+		<POI MapID="218" xpos="-128.122" ypos="11.6317" zpos="-4.67039" type="guild_missions.treks.f.freestand_scaffold" GUID="m59qcT2cJ0W3TfhmMN0vaw==" iconFile="Img/GuildMissions/FreestandScaffold.png" minSize="48" maxSize="48" heightOffset="1" mapVisibility="0" miniMapVisibility="0"/>
+
+		<!-- Frozen Antrum - Retraite Gelée -->
+		<Trail type="guild_missions.treks.f.frozen_antrum" GUID="Ht0dmLHSZ0eyv1gbfyR6/g==" trailData="Data/GuildMissions/Treks/FrozenAntrum.trl" texture="Data/SemiLine.png" color="ffffdd00" alpha="0.8" fadeNear="1500" fadeFar="2000" animSpeed="0.5" mapDisplaySize="25"/>
+		<POI MapID="29" xpos="225.573" ypos="32.4024" zpos="596.674" type="guild_missions.treks.f.frozen_antrum" GUID="jALftkjs/EirSU+yCjtAOA==" fadeNear="1500" fadeFar="2500" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="29" xpos="225.573" ypos="33.4024" zpos="596.674" type="guild_missions.treks.f.frozen_antrum" GUID="GMCz30nwrkK3JQ17/Ci6nQ==" iconFile="Img/GuildMissions/FrozenAntrum.png" minSize="48" maxSize="48" heightOffset="1" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="29" xpos="182.267" ypos="7.66371" zpos="738.9"   type="guild_missions.treks.f.frozen_antrum" GUID="DEK8zkY+FUy2azPT3BEa2Q==" fadeNear="1500" fadeFar="2000"/>
+
+		<!-- Gallow Canyons - Canyons de Gallow -->
+		<POI MapID="54" xpos="-794.632" ypos="11.5599" zpos="386.954" type="guild_missions.treks.g.gallow_canyons" GUID="Qkq1aN8XNUSrQpkeb2pv5Q==" fadeNear="1500" fadeFar="2500"/>
+		<POI MapID="54" xpos="-794.632" ypos="12.5599" zpos="386.954" type="guild_missions.treks.g.gallow_canyons" GUID="sguesdU2Kka7Ec3o0kXNRQ==" iconFile="Img/GuildMissions/GallowCanyons.png" minSize="48" maxSize="48" heightOffset="1" mapVisibility="0" miniMapVisibility="0"/>
+
+		<!-- Gardenroot Alcove - Alcôve de Courtilleracine -->
+		<POI MapID="91" xpos="-99.0923" ypos="60.8519" zpos="225.409" type="guild_missions.treks.g.gardenroot_alcove" GUID="JnXYzahA+UO0Yi8p2FLiPg==" fadeNear="1500" fadeFar="2500"/>
+		<POI MapID="91" xpos="-99.0923" ypos="61.8519" zpos="225.409" type="guild_missions.treks.g.gardenroot_alcove" GUID="gF0VbSsPjkqpjc6iEFNneA==" iconFile="Img/GuildMissions/GardenrootAlcove.png" minSize="48" maxSize="48" heightOffset="1" mapVisibility="0" miniMapVisibility="0"/>
+
+		<!-- Gnashar's Viewpoint - Point de Vue de Gnashar -->
+		<Trail type="guild_missions.treks.g.gnashar_s_viewpoint" GUID="BCj40ZuvVEyuoA34/Ee9CQ==" trailData="Data/GuildMissions/Treks/GnasharsViewpoint.trl" texture="Data/SemiLine.png" color="ffffdd00" alpha="0.8" fadeNear="1500" fadeFar="2000" animSpeed="0.5" mapDisplaySize="25"/>
+		<POI MapID="54" xpos="573.694" ypos="119.249" zpos="676.708" type="guild_missions.treks.g.gnashar_s_viewpoint" GUID="Xyf7IGwi4Eib6e5k+pF//w==" fadeNear="1500" fadeFar="2500" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="54" xpos="573.694" ypos="120.249" zpos="676.708" type="guild_missions.treks.g.gnashar_s_viewpoint" GUID="yc9+n6zMy0+QVmgbZQmDug==" iconFile="Img/GuildMissions/GnasharsViewpoint.png" minSize="48" maxSize="48" heightOffset="1" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="54" xpos="592.564" ypos="150.304" zpos="717.066" type="guild_missions.treks.g.gnashar_s_viewpoint" GUID="Tk730djG+USGK/9yahhbuA==" fadeNear="1000" fadeFar="1500"/>
+
+		<!-- Green Moa Paddock - Paddock du Moa Vert -->
+		<POI MapID="34" xpos="-61.7396" ypos="61.6551" zpos="511.409" type="guild_missions.treks.g.green_moa_paddock" GUID="wDhNyGyjA0G39jTO1P4Xww==" fadeNear="1500" fadeFar="2500"/>
+		<POI MapID="34" xpos="-61.7396" ypos="62.6551" zpos="511.409" type="guild_missions.treks.g.green_moa_paddock" GUID="GoZME4Gk10mY80DPMFGsjQ==" iconFile="Img/GuildMissions/GreenMoaPaddock.png" minSize="48" maxSize="48" heightOffset="1" mapVisibility="0" miniMapVisibility="0"/>
+
+		<!-- Grenth's Pavillion - Pavillon de Grenth -->
+		<POI MapID="18" xpos="5.25979" ypos="61.5433" zpos="343.386" type="guild_missions.treks.g.grenth_s_pavillion" GUID="RGXGkmmgg0i333ZXZQZLTw==" fadeNear="1500" fadeFar="2500"/>
+		<POI MapID="18" xpos="5.25979" ypos="62.5433" zpos="343.386" type="guild_missions.treks.g.grenth_s_pavillion" GUID="09kYnLZ/0Umupnun2yV17w==" iconFile="Img/GuildMissions/GrenthsPavillion.png" minSize="48" maxSize="48" heightOffset="1" mapVisibility="0" miniMapVisibility="0"/>
+
+		<!-- Grimsdottir's Duty - Le Devoir de Morndottir -->
+		<POI MapID="326" xpos="657.261" ypos="205.215" zpos="266.192" type="guild_missions.treks.g.grimsdottir_s_duty" GUID="9lQCoCyBf0CN9oZuJraafQ==" fadeNear="1500" fadeFar="2500"/>
+		<POI MapID="326" xpos="657.261" ypos="206.215" zpos="266.192" type="guild_missions.treks.g.grimsdottir_s_duty" GUID="M3loggcpn0S2wh+AXy5hIw==" iconFile="Img/GuildMissions/GrimsdottirsDuty.png" minSize="48" maxSize="48" heightOffset="1" mapVisibility="0" miniMapVisibility="0"/>
+
+		<!-- Guardian Overwatch - Camp Principal du Gardien -->
+		<POI MapID="17" xpos="348.658" ypos="90.6728" zpos="-311.477" type="guild_missions.treks.g.guardian_overwatch" GUID="FIYMAqEqMEi0bi5/rWLWIA==" fadeNear="1500" fadeFar="2500"/>
+		<POI MapID="17" xpos="348.658" ypos="91.6728" zpos="-311.477" type="guild_missions.treks.g.guardian_overwatch" GUID="QTq6sZbno02uNaJZCHP2yA==" iconFile="Img/GuildMissions/GuardianOverwatch.png" minSize="48" maxSize="48" heightOffset="1" mapVisibility="0" miniMapVisibility="0"/>
+
+		<!-- Hawkeye Perch - Perchoir d'Oeil-de-Faucon -->
+		<POI MapID="29" xpos="27.2789" ypos="54.896" zpos="-612.503" type="guild_missions.treks.h.hawkeye_perch" GUID="zI3yH9WHQUOhcQYKcO2B4w==" fadeNear="1500" fadeFar="2500"/>
+		<POI MapID="29" xpos="27.2789" ypos="55.896" zpos="-612.503" type="guild_missions.treks.h.hawkeye_perch" GUID="FScbElAv7EyofCg5eYj6fg==" iconFile="Img/GuildMissions/HawkeyePerch.png" minSize="48" maxSize="48" heightOffset="1" mapVisibility="0" miniMapVisibility="0"/>
+
+		<!-- Heart Speaks Notch - Col du Coeur Criant -->
+		<POI MapID="22" xpos="-564.019" ypos="48.424" zpos="-133.248" type="guild_missions.treks.h.heart_speaks_notch" GUID="Vx73121dNUS/3OI0OoL7Pw==" fadeNear="1500" fadeFar="2500"/>
+		<POI MapID="22" xpos="-564.019" ypos="49.424" zpos="-133.248" type="guild_missions.treks.h.heart_speaks_notch" GUID="vXcV3YvyuEuu0gw9lqKDQg==" iconFile="Img/GuildMissions/HeartSpeaksNotch.png" minSize="48" maxSize="48" heightOffset="1" mapVisibility="0" miniMapVisibility="0"/>
+
+		<!-- Heartwood Honey Cache - Cache à Miel de Boisecoeur -->
+		<POI MapID="15" xpos="-104.018" ypos="28.1423" zpos="-370.219" type="guild_missions.treks.h.heartwood_honey_cache" GUID="07bi1olCmUaTfBk2or+ofg==" fadeNear="1500" fadeFar="2500"/>
+		<POI MapID="15" xpos="-104.018" ypos="29.1423" zpos="-370.219" type="guild_missions.treks.h.heartwood_honey_cache" GUID="4eYS/KOfA067c9DnDLK65w==" iconFile="Img/GuildMissions/HeartwoodHoneyCache.png" minSize="48" maxSize="48" heightOffset="1" mapVisibility="0" miniMapVisibility="0"/>
+
+		<!-- Heidi's Showpiece - Oeuvre d'Heidi -->
+		<POI MapID="17" xpos="-758.417" ypos="19.266" zpos="401.932" type="guild_missions.treks.h.heidi_s_showpiece" GUID="ptxTeaY2REarIzbgrxXqxw==" fadeNear="1500" fadeFar="2500"/>
+		<POI MapID="17" xpos="-758.417" ypos="20.266" zpos="401.932" type="guild_missions.treks.h.heidi_s_showpiece" GUID="HRtzX1aHrEi/pKWWmk5Y3w==" iconFile="Img/GuildMissions/HeidisShowpiece.png" minSize="48" maxSize="48" heightOffset="1" mapVisibility="0" miniMapVisibility="0"/>
+
+		<!-- Hermit's Roost - Perchoir de l'Ermite -->
+		<Trail type="guild_missions.treks.h.hermit_s_roost" GUID="eA0ZxhJQYEOMQXldPcutXQ==" trailData="Data/GuildMissions/Treks/HermitsRoost.trl" texture="Data/SemiLine.png" color="ffffdd00" alpha="0.8" fadeNear="1500" fadeFar="2000" animSpeed="0.5" mapDisplaySize="25"/>
+		<POI MapID="21" xpos="463.887" ypos="7.01965" zpos="743.585" type="guild_missions.treks.h.hermit_s_roost" GUID="Q2oVcIYT+02UR8JGkDXNCQ==" fadeNear="1500" fadeFar="2500" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="21" xpos="463.887" ypos="8.01965" zpos="743.585" type="guild_missions.treks.h.hermit_s_roost" GUID="hhfefCrurEe1FjRSEP4HIQ==" iconFile="Img/GuildMissions/HermitsRoost.png" minSize="48" maxSize="48" heightOffset="1" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="21" xpos="628.479" ypos="65.1608" zpos="700.889" type="guild_missions.treks.h.hermit_s_roost" GUID="obXmpvMuP0+qI3X2U3LIwA==" fadeNear="1000" fadeFar="1500"/>
+
+		<!-- Hidden Owl Distillery - Distillerie de la Chouette Cachée -->
+		<Trail type="guild_missions.treks.h.hidden_owl_distillery" GUID="mhKc6YBGr0qsV46SJsY44Q==" trailData="Data/GuildMissions/Treks/HiddenOwlDistillery.trl" texture="Data/SemiLine.png" color="ffffdd00" alpha="0.8" fadeNear="1500" fadeFar="2000" animSpeed="0.5" mapDisplaySize="25"/>
+		<POI MapID="31" xpos="1096.51" ypos="110.657" zpos="-388.307" type="guild_missions.treks.h.hidden_owl_distillery" GUID="AHeSibPiJUifJ0euWS0WMQ==" fadeNear="1500" fadeFar="2500" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="31" xpos="1096.51" ypos="111.657" zpos="-388.307" type="guild_missions.treks.h.hidden_owl_distillery" GUID="ebELoGrKBkKTe+pj0uZk+w==" iconFile="Img/GuildMissions/HiddenOwlDistillery.png" minSize="48" maxSize="48" heightOffset="1" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="31" xpos="1186.02" ypos="130.333" zpos="-401.104" type="guild_missions.treks.h.hidden_owl_distillery" GUID="qrz7/PEG30O1S+2f/6WwtA==" fadeNear="1000" fadeFar="1500"/>
+
+		<!-- Holystone Sanctum - Sanctuaire Piersacrée -->
+		<POI MapID="32" xpos="888.823" ypos="37.184" zpos="183.31" type="guild_missions.treks.h.holystone_sanctum" GUID="6kYpPBadOEWjg2kkNmCSNg==" fadeNear="1500" fadeFar="2500"/>
+		<POI MapID="32" xpos="888.823" ypos="38.184" zpos="183.31" type="guild_missions.treks.h.holystone_sanctum" GUID="jY7xBsoPoE6/lTeu3jBGNA==" iconFile="Img/GuildMissions/HolystoneSanctum.png" minSize="48" maxSize="48" heightOffset="1" mapVisibility="0" miniMapVisibility="0"/>
+
+		<!-- Icewurm Trench - Fosse de la Guivre des Glaces -->
+		<POI MapID="30" xpos="-580.471" ypos="-232.434" zpos="417.475" type="guild_missions.treks.i.icewurm_trench" GUID="Jx1Kvo21Lkys5sg4TlNS6A==" fadeNear="1500" fadeFar="2500"/>
+		<POI MapID="30" xpos="-580.471" ypos="-231.434" zpos="417.475" type="guild_missions.treks.i.icewurm_trench" GUID="Di3LveVv90SyDrhrRqg9bA==" iconFile="Img/GuildMissions/IcewurmTrench.png" minSize="48" maxSize="48" heightOffset="1" mapVisibility="0" miniMapVisibility="0"/>
+
+		<!-- Ideation Leap - Saut de la Conceptualisation -->
+		<POI MapID="139" xpos="47.8908" ypos="102.902" zpos="-355.92" type="guild_missions.treks.i.ideation_leap" GUID="0CiY48deik2UgwFiPFBd2w==" fadeNear="1500" fadeFar="2500"/>
+		<POI MapID="139" xpos="47.8908" ypos="103.902" zpos="-355.92" type="guild_missions.treks.i.ideation_leap" GUID="QjQRYiU6UEy/JF1L5SUb/Q==" iconFile="Img/GuildMissions/IdeationLeap.png" minSize="48" maxSize="48" heightOffset="1" mapVisibility="0" miniMapVisibility="0"/>
+
+		<!-- Imphaunt Hallow - Sanctuaire Hanté par un Diablotin -->
+		<POI MapID="34" xpos="-502.432" ypos="21.4466" zpos="1005.45" type="guild_missions.treks.i.imphaunt_hallow" GUID="yA/ME2ZClUe12K5o5//m9w==" fadeNear="1500" fadeFar="2500"/>
+		<POI MapID="34" xpos="-502.432" ypos="22.4466" zpos="1005.45" type="guild_missions.treks.i.imphaunt_hallow" GUID="oaj3WAWCk0mQeVpjf3NY2w==" iconFile="Img/GuildMissions/ImphauntHallow.png" minSize="48" maxSize="48" heightOffset="1" mapVisibility="0" miniMapVisibility="0"/>
+
+		<!-- Irondock Viewpoint - Point de Vue de Dockfer -->
+		<Trail type="guild_missions.treks.i.irondock_viewpoint" GUID="wcsd0z69SECZraw45T47Qw==" trailData="Data/GuildMissions/Treks/IrondockViewpoint.trl" texture="Data/SemiLine.png" color="ffffdd00" alpha="0.8" fadeNear="1500" fadeFar="2000" animSpeed="0.5" mapDisplaySize="25"/>
+		<POI MapID="19" xpos="842.482" ypos="19.517" zpos="-29.2953" type="guild_missions.treks.i.irondock_viewpoint" GUID="NFloaWee+Uqa73omAkURhg==" fadeNear="1500" fadeFar="2500" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="19" xpos="842.482" ypos="20.517" zpos="-29.2953" type="guild_missions.treks.i.irondock_viewpoint" GUID="GDd6OfEPnUmZI8Bm14PSwQ==" iconFile="Img/GuildMissions/IrondockViewpoint.png" minSize="48" maxSize="48" heightOffset="1" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="19" xpos="790.331" ypos="43.061" zpos="-66.1724" type="guild_missions.treks.i.irondock_viewpoint" GUID="DjxwZQ4NuUqjRalt+TgaHg==" fadeNear="1000" fadeFar="1500"/>
+
+		<!-- Isenfell Wash - Crique d'Isenfall -->
+		<POI MapID="31" xpos="-176.498" ypos="0.121445" zpos="501.506" type="guild_missions.treks.i.isenfell_wash" GUID="w5ZuuV4HBUyBRxoBj4+Knw==" fadeNear="1500" fadeFar="2500"/>
+		<POI MapID="31" xpos="-176.498" ypos="1.121445" zpos="501.506" type="guild_missions.treks.i.isenfell_wash" GUID="dPS+6xISG0C/fi3K8LPtPw==" iconFile="Img/GuildMissions/IsenfellWash.png" minSize="48" maxSize="48" heightOffset="1" mapVisibility="0" miniMapVisibility="0"/>
+
+		<!-- Isgarren Viewpoint - Point de Vue d'Isgarren -->
+		<POI MapID="23" xpos="1208.75" ypos="32.8113" zpos="-439.842" type="guild_missions.treks.i.isgarren_viewpoint" GUID="yLgJ0gR8hUiOrQVwIr4afw==" fadeNear="1500" fadeFar="2500"/>
+		<POI MapID="23" xpos="1208.75" ypos="33.8113" zpos="-439.842" type="guild_missions.treks.i.isgarren_viewpoint" GUID="2QZP0Swp6UuNwn2pxTF5jQ==" iconFile="Img/GuildMissions/IsgarrenViewpoint.png" minSize="48" maxSize="48" heightOffset="1" mapVisibility="0" miniMapVisibility="0"/>
+
+		<!-- Jaguar Pride Den - Fière Tanière du Jaguar -->
+		<POI MapID="35" xpos="164.084" ypos="18.4945" zpos="741.45" type="guild_missions.treks.j.jaguar_pride_den" GUID="InhgdIekAkW6ouYn9pNZcQ==" fadeNear="1500" fadeFar="2500"/>
+		<POI MapID="35" xpos="164.084" ypos="19.4945" zpos="741.45" type="guild_missions.treks.j.jaguar_pride_den" GUID="j7w5pfdAgEak0phYi6UYxw==" iconFile="Img/GuildMissions/JaguarPrideDen.png" minSize="48" maxSize="48" heightOffset="1" mapVisibility="0" miniMapVisibility="0"/>
+
+		<!-- Junker's Apex - Sommet de l'Epave -->
+		<POI MapID="218" xpos="93.9495" ypos="177.889" zpos="-54.7101" type="guild_missions.treks.j.junker_s_apex" GUID="LPk+FsMlt02f2rnkSzNjdw==" fadeNear="1500" fadeFar="2500"/>
+		<POI MapID="218" xpos="93.9495" ypos="178.889" zpos="-54.7101" type="guild_missions.treks.j.junker_s_apex" GUID="s/vR9iB1WEK2ED6V9Z8l/Q==" iconFile="Img/GuildMissions/JunkersApex.png" minSize="48" maxSize="48" heightOffset="1" mapVisibility="0" miniMapVisibility="0"/>
+
+		<!-- Kaldar's Hot Seat - La Sellette de Kaldar -->
+		<POI MapID="326" xpos="642.754" ypos="299.547" zpos="-263.984" type="guild_missions.treks.k.kaldar_s_hot_seat" GUID="lolEQuA+SUO+WIBJRV1aow==" fadeNear="1500" fadeFar="2500"/>
+		<POI MapID="326" xpos="642.754" ypos="300.547" zpos="-263.984" type="guild_missions.treks.k.kaldar_s_hot_seat" GUID="EDK87DjwRUCcV2XvRiTKCA==" iconFile="Img/GuildMissions/KaldarsHotSeat.png" minSize="48" maxSize="48" heightOffset="1" mapVisibility="0" miniMapVisibility="0"/>
+
+		<!-- Kari's Hot Spot - Foyer de Kari -->
+		<Trail type="guild_missions.treks.k.kari_s_hot_spot" GUID="ZFjkkADs8ku4vO1r0HTVCQ==" trailData="Data/GuildMissions/Treks/KarisHotSpot.trl" texture="Data/SemiLine.png" color="ffffdd00" alpha="0.8" fadeNear="1500" fadeFar="2000" animSpeed="0.5" mapDisplaySize="25"/>
+		<POI MapID="23" xpos="850.85"  ypos="84.6907" zpos="-343.418" type="guild_missions.treks.k.kari_s_hot_spot" GUID="JJ0GQmt21Ee9Jzb7VnHEkA==" fadeNear="1500" fadeFar="2500" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="23" xpos="850.85"  ypos="85.6907" zpos="-343.418" type="guild_missions.treks.k.kari_s_hot_spot" GUID="y8eA4dDfEEeaD+szKvvgpQ==" iconFile="Img/GuildMissions/KarisHotSpot.png" minSize="48" maxSize="48" heightOffset="1" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="23" xpos="863.726" ypos="55.2972" zpos="-357.054" type="guild_missions.treks.k.kari_s_hot_spot" GUID="kV61xM8vi0yt4kDn8xguZQ==" fadeNear="1000" fadeFar="1500"/>
+
+		<!-- Kegbrawl Watch - Guet de la Bagarre de Barils -->
+		<POI MapID="326" xpos="-374.188" ypos="268.88" zpos="319.33" type="guild_missions.treks.k.kegbrawl_watch" GUID="H8ARpWstYUqWxAy3UfyJuw==" fadeNear="1500" fadeFar="2500"/>
+		<POI MapID="326" xpos="-374.188" ypos="269.88" zpos="319.33" type="guild_missions.treks.k.kegbrawl_watch" GUID="LQGDXJnsgEunCC3rqYpaQg==" iconFile="Img/GuildMissions/KegbrawlWatch.png" minSize="48" maxSize="48" heightOffset="1" mapVisibility="0" miniMapVisibility="0"/>
+
+		<!-- Kevach's Strongroom - Coffre-Fort de Kevach -->
+		<POI MapID="28" xpos="178.169" ypos="33.4991" zpos="668.731" type="guild_missions.treks.k.kevach_s_strongroom" GUID="aorzAQiV60WO/rLU7j2ZRQ==" fadeNear="1500" fadeFar="2500"/>
+		<POI MapID="28" xpos="178.169" ypos="34.4991" zpos="668.731" type="guild_missions.treks.k.kevach_s_strongroom" GUID="B5iGcaiJ40+ce8/NSjzUhA==" iconFile="Img/GuildMissions/KevachsStrongroom.png" minSize="48" maxSize="48" heightOffset="1" mapVisibility="0" miniMapVisibility="0"/>
+
+		<!-- Lakebottom Underpass - Tunnel sous le Lac -->
+		<POI MapID="15" xpos="44.9983" ypos="-17.6635" zpos="489.093" type="guild_missions.treks.l.lakebottom_underpass" GUID="VJgqL+h9XEC7nCh5s6CqWQ==" fadeNear="1500" fadeFar="2500"/>
+		<POI MapID="15" xpos="44.9983" ypos="-16.6635" zpos="489.093" type="guild_missions.treks.l.lakebottom_underpass" GUID="zf44vPo7JU2O7edIVnTOHQ==" iconFile="Img/GuildMissions/LakebottomUnderpass.png" minSize="48" maxSize="48" heightOffset="1" mapVisibility="0" miniMapVisibility="0"/>
+
+		<!-- Lawen Grotto - Grotte de Lawen -->
+		<POI MapID="24" xpos="-785.358" ypos="0.970515" zpos="-576.733" type="guild_missions.treks.l.lawen_grotto" GUID="zIJ+jpOJwUmBpJ4V289ZUA==" fadeNear="1500" fadeFar="2500"/>
+		<POI MapID="24" xpos="-785.358" ypos="1.970515" zpos="-576.733" type="guild_missions.treks.l.lawen_grotto" GUID="gk1uJ2iK60OO0zUIhJamag==" iconFile="Img/GuildMissions/LawenGrotto.png" minSize="48" maxSize="48" heightOffset="1" mapVisibility="0" miniMapVisibility="0"/>
+
+		<!-- Lightfoot Dock - Quai de Lestepied -->
+		<POI MapID="51" xpos="852.275" ypos="2.56563" zpos="-321.8" type="guild_missions.treks.l.lightfoot_dock" GUID="7XTVlynmWkuH06Jy6T8QJQ==" fadeNear="1500" fadeFar="2500"/>
+		<POI MapID="51" xpos="852.275" ypos="3.56563" zpos="-321.8" type="guild_missions.treks.l.lightfoot_dock" GUID="70W30nfPk0eP3CndCZvmOw==" iconFile="Img/GuildMissions/LightfootDock.png" minSize="48" maxSize="48" heightOffset="1" mapVisibility="0" miniMapVisibility="0"/>
+
+		<!-- Lily's Bivvy - Bivouac du Lys -->
+		<POI MapID="22" xpos="-742.876" ypos="55.5609" zpos="816.088" type="guild_missions.treks.l.lily_s_bivvy" GUID="c02D6VZBXUWclbhjztTxJA==" fadeNear="1500" fadeFar="2500"/>
+		<POI MapID="22" xpos="-742.876" ypos="56.5609" zpos="816.088" type="guild_missions.treks.l.lily_s_bivvy" GUID="KyvhEKBC8EybSarMQDT4lQ==" iconFile="Img/GuildMissions/LilysBivvy.png" minSize="48" maxSize="48" heightOffset="1" mapVisibility="0" miniMapVisibility="0"/>
+
+		<!-- Lionguard Larder - Cellier de la Garde du Lion -->
+		<Trail type="guild_missions.treks.l.lionguard_larder" GUID="vzHlE911SE+IEzRwjBZABA==" trailData="Data/GuildMissions/Treks/LionguardLarder.trl" texture="Data/SemiLine.png" color="ffffdd00" alpha="0.8" fadeNear="1500" fadeFar="2000" animSpeed="0.5" mapDisplaySize="25"/>
+		<POI MapID="28" xpos="108.431" ypos="108.335" zpos="110.969" type="guild_missions.treks.l.lionguard_larder" GUID="QVZLhmvYA0iGihajozg4sQ==" fadeNear="1500" fadeFar="2500" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="28" xpos="108.431" ypos="109.335" zpos="110.969" type="guild_missions.treks.l.lionguard_larder" GUID="e05/kuP9Mkmu0Yg+nW9m1g==" iconFile="Img/GuildMissions/LionguardLarder.png" minSize="48" maxSize="48" heightOffset="1" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="28" xpos="96.4457" ypos="104.101" zpos="122.656" type="guild_missions.treks.l.lionguard_larder" GUID="vJZ3hNWqZUOljQ7Ha8dvLQ==" fadeNear="1000" fadeFar="1200"/>
+
+		<!-- Lychcroft Wardenship - Préfecture de Lychcroft -->
+		<POI MapID="23" xpos="-815.385" ypos="27.7328" zpos="-580" type="guild_missions.treks.l.lychcroft_wardenship" GUID="Z2SvxEICVUeJg+9wfuyjiA==" fadeNear="1500" fadeFar="2500"/>
+		<POI MapID="23" xpos="-815.385" ypos="28.7328" zpos="-580" type="guild_missions.treks.l.lychcroft_wardenship" GUID="ML0nbYIDd0eqLg5AIqi3Ig==" iconFile="Img/GuildMissions/LychcroftWardenship.png" minSize="48" maxSize="48" heightOffset="1" mapVisibility="0" miniMapVisibility="0"/>
+
+		<!-- Magihedron Corner - Coin de Magièdre -->
+		<POI MapID="139" xpos="165.009" ypos="385.831" zpos="184.016" type="guild_missions.treks.m.magihedron_corner" GUID="f1xOgXcV6kqGQXmXHqc96g==" fadeNear="1500" fadeFar="2500"/>
+		<POI MapID="139" xpos="165.009" ypos="386.831" zpos="184.016" type="guild_missions.treks.m.magihedron_corner" GUID="jA/nHJblBUq8x9TcwoF4RA==" iconFile="Img/GuildMissions/MagihedronCorner.png" minSize="48" maxSize="48" heightOffset="1" mapVisibility="0" miniMapVisibility="0"/>
+
+		<!-- Master Control LIN39 - Console de Commande Principale LIN39 -->
+		<POI MapID="35" xpos="-375.634" ypos="24.7357" zpos="736.59" type="guild_missions.treks.m.master_control_lin39" GUID="E7vqof/2DUm8B3NllRP9kA==" fadeNear="1500" fadeFar="2500"/>
+		<POI MapID="35" xpos="-375.634" ypos="25.7357" zpos="736.59" type="guild_missions.treks.m.master_control_lin39" GUID="vjfQUvMxjEO+HUhfNzdsPQ==" iconFile="Img/GuildMissions/MasterControlLin39.png" minSize="48" maxSize="48" heightOffset="1" mapVisibility="0" miniMapVisibility="0"/>
+
+		<!-- Melandru's Fount - Source de Mélandru -->
+		<POI MapID="18" xpos="-220.145" ypos="60.2933" zpos="-281.949" type="guild_missions.treks.m.melandru_s_fount" GUID="+/2T5xXDaUqp9Fzn3BDyEA==" fadeNear="1500" fadeFar="2500"/>
+		<POI MapID="18" xpos="-220.145" ypos="61.2933" zpos="-281.949" type="guild_missions.treks.m.melandru_s_fount" GUID="gjY9E5N3wk+CuWcaNmzRnw==" iconFile="Img/GuildMissions/MelandrusFount.png" minSize="48" maxSize="48" heightOffset="1" mapVisibility="0" miniMapVisibility="0"/>
+
+		<!-- Meltwater Cave - Grotte d'Eaudefonte -->
+		<POI MapID="29" xpos="672.702" ypos="-36.3558" zpos="-147.91" type="guild_missions.treks.m.meltwater_cave" GUID="kgK/cm0RBkOk0iKiQc+xjw==" fadeNear="1500" fadeFar="2500"/>
+		<POI MapID="29" xpos="672.702" ypos="-35.3558" zpos="-147.91" type="guild_missions.treks.m.meltwater_cave" GUID="RagQbTWxcUmaOS3u+Mlj0g==" iconFile="Img/GuildMissions/MeltwaterCave.png" minSize="48" maxSize="48" heightOffset="1" mapVisibility="0" miniMapVisibility="0"/>
+
+		<!-- Mina's Target Shoot - Pas de Tir de Mina -->
+		<POI MapID="18" xpos="17.3116" ypos="70.8011" zpos="-309.036" type="guild_missions.treks.m.mina_s_target_shoot" GUID="6kDBUD99ME2Yuj9z3ccbCg==" fadeNear="1500" fadeFar="2500"/>
+		<POI MapID="18" xpos="17.3116" ypos="71.8011" zpos="-309.036" type="guild_missions.treks.m.mina_s_target_shoot" GUID="/XINQLa72kyMnOPFXGCJOg==" iconFile="Img/GuildMissions/MinasTargetShoot.png" minSize="48" maxSize="48" heightOffset="1" mapVisibility="0" miniMapVisibility="0"/>
+
+		<!-- Mistriven Shelf - Saut de Mistriven -->
+		<Trail type="guild_missions.treks.m.mistriven_shelf" GUID="tP+iWXK5XkOlzpByxvE7xQ==" trailData="Data/GuildMissions/Treks/MistrivenShelf.trl" texture="Data/SemiLine.png" color="ffffdd00" alpha="0.8" fadeNear="1500" fadeFar="2000" animSpeed="0.5" mapDisplaySize="25"/>
+		<POI MapID="27" xpos="-81.0633" ypos="81.6959" zpos="847.644" type="guild_missions.treks.m.mistriven_shelf" GUID="bHUheVmGIkOnIbrv8B8NiQ==" fadeNear="1500" fadeFar="2500" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="27" xpos="-81.0633" ypos="82.6959" zpos="847.644" type="guild_missions.treks.m.mistriven_shelf" GUID="VFDYaWerUEWOjR51KrmecQ==" iconFile="Img/GuildMissions/MistrivenShelf.png" minSize="48" maxSize="48" heightOffset="1" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="27" xpos="-143.304" ypos="63.635"  zpos="764.052" type="guild_missions.treks.m.mistriven_shelf" GUID="rwItOmIWJEmfY3GY96CnRQ==" fadeNear="1000" fadeFar="1500"/>
+
+		<!-- Moleberia Prison - Prison de Taupvaquie -->
+		<POI MapID="28" xpos="-438.624" ypos="98.8201" zpos="441.116" type="guild_missions.treks.m.moleberia_prison" GUID="FiADZ4XzO0yoPMeWbH3nAA==" fadeNear="1500" fadeFar="2500"/>
+		<POI MapID="28" xpos="-438.624" ypos="99.8201" zpos="441.116" type="guild_missions.treks.m.moleberia_prison" GUID="nQ6/SxZc60uOcKokTyRQfQ==" iconFile="Img/GuildMissions/MoleberiaPrison.png" minSize="48" maxSize="48" heightOffset="1" mapVisibility="0" miniMapVisibility="0"/>
+
+		<!-- Monument to the Ancient One - Monument à l'Ancien -->
+		<POI MapID="873" xpos="-246.843" ypos="13.7618" zpos="173.173" type="guild_missions.treks.m.monument_to_the_ancient_one" GUID="uFtWwV4pkU2ezLnif0Lxdw==" fadeNear="1500" fadeFar="2500"/>
+		<POI MapID="873" xpos="-246.843" ypos="14.7618" zpos="173.173" type="guild_missions.treks.m.monument_to_the_ancient_one" GUID="HOJOMUFe/0SlbNty3cYJmQ==" iconFile="Img/GuildMissions/MonumentToTheAncientOne.png" minSize="48" maxSize="48" heightOffset="1" mapVisibility="0" miniMapVisibility="0"/>
+
+		<!-- Narrowkraal Crossing - Gué Kraalétroi -->
+		<POI MapID="21" xpos="695.614" ypos="49.7581" zpos="-826.218" type="guild_missions.treks.n.narrowkraal_crossing" GUID="RE5LjOzIr0Ocny8hIAPXBA==" fadeNear="1500" fadeFar="2500"/>
+		<POI MapID="21" xpos="695.614" ypos="50.7581" zpos="-826.218" type="guild_missions.treks.n.narrowkraal_crossing" GUID="lMT9Lgj9OkO88D+Seobl3A==" iconFile="Img/GuildMissions/NarrowkraalCrossing.png" minSize="48" maxSize="48" heightOffset="1" mapVisibility="0" miniMapVisibility="0"/>
+
+		<!-- Necrolith Landing - Plage Nécrolithe -->
+		<POI MapID="91" xpos="33.1203" ypos="72.9539" zpos="284.901" type="guild_missions.treks.n.necrolith_landing" GUID="3fywxQEa/UWTLS4ZXHbEeg==" fadeNear="1500" fadeFar="2500"/>
+		<POI MapID="91" xpos="33.1203" ypos="73.9539" zpos="284.901" type="guild_missions.treks.n.necrolith_landing" GUID="9RFyrqcEgkKBdUrimAHVOw==" iconFile="Img/GuildMissions/NecrolithLanding.png" minSize="48" maxSize="48" heightOffset="1" mapVisibility="0" miniMapVisibility="0"/>
+
+		<!-- Orecart Hoist - Palan Charmine -->
+		<POI MapID="22" xpos="362.715" ypos="59.6487" zpos="-603.312" type="guild_missions.treks.o.orecart_hoist" GUID="PZTlDy+yUkepH7wIsZwvUQ==" fadeNear="1500" fadeFar="2500"/>
+		<POI MapID="22" xpos="362.715" ypos="60.6487" zpos="-603.312" type="guild_missions.treks.o.orecart_hoist" GUID="m1AItHu9VEqBbYGp7TvEyA==" iconFile="Img/GuildMissions/OrecartHoist.png" minSize="48" maxSize="48" heightOffset="1" mapVisibility="0" miniMapVisibility="0"/>
+
+		<!-- Orvanic Sourcewaters - Alimentation en Eau d'Orvanic -->
+		<Trail type="guild_missions.treks.o.orvanic_sourcewaters" GUID="4UQ8ZhRgw0K2dVkzJKcFMg==" trailData="Data/GuildMissions/Treks/OrvanicSourcewaters.trl" texture="Data/SemiLine.png" color="ffffdd00" alpha="0.8" fadeNear="1500" fadeFar="2000" animSpeed="0.5" mapDisplaySize="25"/>
+		<POI MapID="53" xpos="-523.565" ypos="38.2683" zpos="673.669" type="guild_missions.treks.o.orvanic_sourcewaters" GUID="ZgzDrcsRu06ghnSKVqcoyA==" fadeNear="1500" fadeFar="2500" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="53" xpos="-523.565" ypos="39.2683" zpos="673.669" type="guild_missions.treks.o.orvanic_sourcewaters" GUID="lrCPq/+AGEisP5mMCKYpvw==" iconFile="Img/GuildMissions/OrvanicSourcewaters.png" minSize="48" maxSize="48" heightOffset="1" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="53" xpos="-647.26"  ypos="102.164" zpos="487.047" type="guild_missions.treks.o.orvanic_sourcewaters" GUID="ZZBaU56NAky6q8ZtGS1xzQ==" fadeNear="1500" fadeFar="2000"/>
+
+		<!-- Osenfold Counterweights - Contrepoids d'Osenfold -->
+		<POI MapID="28" xpos="-249.42" ypos="170.866" zpos="-415.51" type="guild_missions.treks.o.osenfold_counterweights" GUID="Uu/o7e3YEUe2nNMwFAWN2w==" fadeNear="1500" fadeFar="2500"/>
+		<POI MapID="28" xpos="-249.42" ypos="171.866" zpos="-415.51" type="guild_missions.treks.o.osenfold_counterweights" GUID="wGvUX+/pKUmDfFV9pfbpMQ==" iconFile="Img/GuildMissions/OsenfoldCounterweights.png" minSize="48" maxSize="48" heightOffset="1" mapVisibility="0" miniMapVisibility="0"/>
+
+		<!-- Overlord Lodge - Pavillon du Seigneur -->
+		<POI MapID="23" xpos="-1102.75" ypos="42.6205" zpos="26.4369" type="guild_missions.treks.o.overlord_lodge" GUID="zERbpJbj2ky1dkdD8uJwzw==" fadeNear="1500" fadeFar="2500"/>
+		<POI MapID="23" xpos="-1102.75" ypos="43.6205" zpos="26.4369" type="guild_missions.treks.o.overlord_lodge" GUID="EV5SAYUTAEGwquWaRmxGiw==" iconFile="Img/GuildMissions/OverlordLodge.png" minSize="48" maxSize="48" heightOffset="1" mapVisibility="0" miniMapVisibility="0"/>
+
+		<!-- Phasmatis Prospect - Panorama de Phasmatis -->
+		<Trail type="guild_missions.treks.p.phasmatis_prospect" GUID="V+vhfZp8QE+Ipz8FeU2Bjg==" trailData="Data/GuildMissions/Treks/PhasmatisProspect.trl" texture="Data/SemiLine.png" color="ffffdd00" alpha="0.8" fadeNear="1500" fadeFar="2000" animSpeed="0.5" mapDisplaySize="25"/>
+		<POI MapID="19" xpos="662.887" ypos="3.57517" zpos="-30.3566" type="guild_missions.treks.p.phasmatis_prospect" GUID="1HEf27Mbi0WJ5Km6j8ZMQw==" fadeNear="1500" fadeFar="2500" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="19" xpos="662.887" ypos="4.57517" zpos="-30.3566" type="guild_missions.treks.p.phasmatis_prospect" GUID="rvElfdSQtUGNtT++tuc+OA==" iconFile="Img/GuildMissions/PhasmatisProspect.png" minSize="48" maxSize="48" heightOffset="1" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="19" xpos="580.319" ypos="42.4835" zpos="1.83102"  type="guild_missions.treks.p.phasmatis_prospect" GUID="2HcIzkvK4UqCJN+2SOU/AQ==" fadeNear="1500" fadeFar="2000"/>
+
+		<!-- Pochtecatl's Desire - Désir de Pochtecatl -->
+		<POI MapID="73" xpos="-419.219" ypos="32.1566" zpos="-890.363" type="guild_missions.treks.p.pochtecatl_s_desire" GUID="0wyF1L48m0u1cxnzFeZg7w==" fadeNear="1500" fadeFar="2500"/>
+		<POI MapID="73" xpos="-419.219" ypos="33.1566" zpos="-890.363" type="guild_missions.treks.p.pochtecatl_s_desire" GUID="cmmAPKNcXkKlABfjq5BMGQ==" iconFile="Img/GuildMissions/PochtecatlsDesire.png" minSize="48" maxSize="48" heightOffset="1" mapVisibility="0" miniMapVisibility="0"/>
+
+		<!-- Port Authority Lost and Found - Objets Trouvés de l'Autorité du Port -->
+		<POI MapID="139" xpos="-304.059" ypos="37.1158" zpos="-492.346" type="guild_missions.treks.p.port_authority_lost_and_found" GUID="h/DpC9CtqE69wwNyi1XR9A==" fadeNear="1500" fadeFar="2500"/>
+		<POI MapID="139" xpos="-304.059" ypos="38.1158" zpos="-492.346" type="guild_missions.treks.p.port_authority_lost_and_found" GUID="lxDDJ0c2LkOVIEgq3lQdMw==" iconFile="Img/GuildMissions/PortAuthorityLostAndFound.png" minSize="48" maxSize="48" heightOffset="1" mapVisibility="0" miniMapVisibility="0"/>
+
+		<!-- Portmatt's Promontory - Promontoire de Portmatt -->
+		<Trail type="guild_missions.treks.p.portmatt_s_promontory" GUID="cb7agVE8HUe+KFZCGEJWSA==" trailData="Data/GuildMissions/Treks/PortmattsPromontory.trl" texture="Data/SemiLine.png" color="ffffdd00" alpha="0.8" fadeNear="1500" fadeFar="2000" animSpeed="0.5" mapDisplaySize="25"/>
+		<POI MapID="73" xpos="-401.144" ypos="-69.3862" zpos="683.432" type="guild_missions.treks.p.portmatt_s_promontory" GUID="Zo4XDPpbI0eFn6/+iRV3kg==" fadeNear="1500" fadeFar="2500" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="73" xpos="-401.144" ypos="-68.3862" zpos="683.432" type="guild_missions.treks.p.portmatt_s_promontory" GUID="k1Q8PD5nYEmUlJ+13PeDMg==" iconFile="Img/GuildMissions/PortmattsPromontory.png" minSize="48" maxSize="48" heightOffset="1" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="73" xpos="-423.052" ypos="9.9065"   zpos="605.094" type="guild_missions.treks.p.portmatt_s_promontory" GUID="Z/2REyn9hUyn6f+7xy7mCw==" fadeNear="1000" fadeFar="1500"/>
+		<POI MapID="73" xpos="-490.869" ypos="-132.055" zpos="726.424" type="guild_missions.treks.p.portmatt_s_promontory" GUID="iWIR1rTKWU+8ZIgYr+0wNQ==" iconFile="Img/Numbers/1.png" fadeNear="1500" fadeFar="2000" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="73" xpos="-466.264" ypos="-133.527" zpos="759.827" type="guild_missions.treks.p.portmatt_s_promontory" GUID="sP+4D01Rd0+Fy3YQmbtm3Q==" iconFile="Img/Numbers/1.png" fadeNear="1500" fadeFar="2000" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="73" xpos="-487.21"  ypos="-137.515" zpos="742.466" type="guild_missions.treks.p.portmatt_s_promontory" GUID="MkdCKCJzCUmjpYWAJPs2FA==" iconFile="Img/Numbers/2.png" fadeNear="1500" fadeFar="2000" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="73" xpos="-477.986" ypos="-137.938" zpos="760.449" type="guild_missions.treks.p.portmatt_s_promontory" GUID="GPHRkHsstEO7nFcdj8KbqQ==" iconFile="Img/Numbers/3.png" fadeNear="1500" fadeFar="2000" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="73" xpos="-488.914" ypos="-137.503" zpos="741.223" type="guild_missions.treks.p.portmatt_s_promontory" GUID="MZNFsruFJkOIpSM6R/bxRw==" iconFile="Img/GuildMissions/PortmattsPromontory_Info1.png" minSize="64"  maxSize="96"  fadeNear="1000" fadeFar="1500" alpha="0.7" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="73" xpos="-475.185" ypos="-136.024" zpos="757.523" type="guild_missions.treks.p.portmatt_s_promontory" GUID="qVnksVS7EUKDLkmETcbUxQ==" iconFile="Img/GuildMissions/PortmattsPromontory_Info2.png" minSize="200" maxSize="200" fadeNear="500"  fadeFar="800"  alpha="0.7" mapVisibility="0" miniMapVisibility="0"/>
+
+		<!-- Provatum Carcer - Geôle de Provatum -->
+		<POI MapID="22" xpos="146.149" ypos="4.90675" zpos="182.612" type="guild_missions.treks.p.provatum_carcer" GUID="WtU7hxicd0amSa7jz33rQA==" fadeNear="1500" fadeFar="2500"/>
+		<POI MapID="22" xpos="146.149" ypos="5.90675" zpos="182.612" type="guild_missions.treks.p.provatum_carcer" GUID="mJ2S1XppE0aeoqcsyuWdZg==" iconFile="Img/GuildMissions/ProvatumCarcer.png" minSize="48" maxSize="48" heightOffset="1" mapVisibility="0" miniMapVisibility="0"/>
+
+		<!-- Ramview Peak - Pic du Béliervédère -->
+		<Trail type="guild_missions.treks.r.ramview_peak" GUID="ojxSyjfnl0SxbTrIYggpVA==" trailData="Data/GuildMissions/Treks/RamviewPeak.trl" texture="Data/SemiLine.png" color="ffffdd00" alpha="0.8" fadeNear="1500" fadeFar="2000" animSpeed="0.5" mapDisplaySize="25"/>
+		<POI MapID="26" xpos="-231.695" ypos="65.9851" zpos="741.868" type="guild_missions.treks.r.ramview_peak" GUID="ZFJehZtidEezNEZoj3RLLA==" fadeNear="1500" fadeFar="2500" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="26" xpos="-231.695" ypos="66.9851" zpos="741.868" type="guild_missions.treks.r.ramview_peak" GUID="598sIDBK6Uu36Hi7mc41jw==" iconFile="Img/GuildMissions/RamviewPeak.png" minSize="48" maxSize="48" heightOffset="1" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="26" xpos="-181.216" ypos="115.653" zpos="796.389" type="guild_missions.treks.r.ramview_peak" GUID="W1mMhx/dF0aCyr9hqTSsYQ==" fadeNear="1000" fadeFar="1500"/>
+
+		<!-- Raptor's Aerie - Nid du Raptor -->
+		<POI MapID="25" xpos="-16.2761" ypos="62.0897" zpos="228.068" type="guild_missions.treks.r.raptor_s_aerie" GUID="Mbgm8EPKOUC5vjR8l5Zb3A==" fadeNear="1500" fadeFar="2500"/>
+		<POI MapID="25" xpos="-16.2761" ypos="63.0897" zpos="228.068" type="guild_missions.treks.r.raptor_s_aerie" GUID="ZOPrKCgvBUmF6yQMf2Vlng==" iconFile="Img/GuildMissions/RaptorsAerie.png" minSize="48" maxSize="48" heightOffset="1" mapVisibility="0" miniMapVisibility="0"/>
+
+		<!-- Raptor's Perch - Perchoir de Raptor -->
+		<POI MapID="24" xpos="961.597" ypos="65.5762" zpos="483.64" type="guild_missions.treks.r.raptor_s_perch" GUID="cGRzn21BQE+ufH0OUfkrsQ==" fadeNear="1500" fadeFar="2500"/>
+		<POI MapID="24" xpos="961.597" ypos="66.5762" zpos="483.64" type="guild_missions.treks.r.raptor_s_perch" GUID="NwGW3C/rr0isYDxyE2zAQg==" iconFile="Img/GuildMissions/RaptorsPerch.png" minSize="48" maxSize="48" heightOffset="1" mapVisibility="0" miniMapVisibility="0"/>
+
+		<!-- Rata Pten Portico - Portique de Rata Pten -->
+		<POI MapID="39" xpos="-1071.95" ypos="61.7236" zpos="223.58" type="guild_missions.treks.r.rata_pten_portico" GUID="debj5GuD80KezKJKSKZ8zA==" fadeNear="1500" fadeFar="2500"/>
+		<POI MapID="39" xpos="-1071.95" ypos="62.7236" zpos="223.58" type="guild_missions.treks.r.rata_pten_portico" GUID="Lm4rXdizkUaQi1l71/oaPA==" iconFile="Img/GuildMissions/RataPtenPortico.png" minSize="48" maxSize="48" heightOffset="1" mapVisibility="0" miniMapVisibility="0"/>
+
+		<!-- Raven Nook - Recoin du Corbeau -->
+		<POI MapID="326" xpos="355.885" ypos="275.72" zpos="328.727" type="guild_missions.treks.r.raven_nook" GUID="eqPZIQQVvUGP5+bJNW10iA==" fadeNear="1500" fadeFar="2500"/>
+		<POI MapID="326" xpos="355.885" ypos="276.72" zpos="328.727" type="guild_missions.treks.r.raven_nook" GUID="Ok2VV8Ul20qQEnqWMHWgIg==" iconFile="Img/GuildMissions/RavenNook.png" minSize="48" maxSize="48" heightOffset="1" mapVisibility="0" miniMapVisibility="0"/>
+
+		<!-- Reef Drake Nesting Grounds - Frayère des Drakes des Récifs -->
+		<POI MapID="873" xpos="379.454" ypos="0.560592" zpos="-179.713" type="guild_missions.treks.r.reef_drake_nesting_grounds" GUID="tSUXapqpqkaN3e8Y3hHlbg==" fadeNear="1500" fadeFar="2500"/>
+		<POI MapID="873" xpos="379.454" ypos="1.560592" zpos="-179.713" type="guild_missions.treks.r.reef_drake_nesting_grounds" GUID="kzKo8WBzBkyAdHjuD0BzVw==" iconFile="Img/GuildMissions/ReefDrakeNestingGrounds.png" minSize="48" maxSize="48" heightOffset="1" mapVisibility="0" miniMapVisibility="0"/>
+
+		<!-- Restless Footings - Emprise Agitée -->
+		<POI MapID="39" xpos="460.313" ypos="-151.555" zpos="-91.8999" type="guild_missions.treks.r.restless_footings" GUID="MfSJDMfvIkW0CBMFi12rXQ==" fadeNear="1500" fadeFar="2500"/>
+		<POI MapID="39" xpos="460.313" ypos="-150.555" zpos="-91.8999" type="guild_missions.treks.r.restless_footings" GUID="Z+U/zRvrIEiz1TkNAoe6ww==" iconFile="Img/GuildMissions/RestlessFootings.png" minSize="48" maxSize="48" heightOffset="1" mapVisibility="0" miniMapVisibility="0"/>
+
+		<!-- Reverberant's Watch - Guet Réverbérant -->
+		<POI MapID="28" xpos="70.3967" ypos="4.35677" zpos="-509.431" type="guild_missions.treks.r.reverberant_s_watch" GUID="pzUHLbbVa0G6qLEjnSt9Tw==" fadeNear="1500" fadeFar="2500"/>
+		<POI MapID="28" xpos="70.3967" ypos="5.35677" zpos="-509.431" type="guild_missions.treks.r.reverberant_s_watch" GUID="xHEfHTCFJUKLM/uSDTbpOA==" iconFile="Img/GuildMissions/ReverberantsWatch.png" minSize="48" maxSize="48" heightOffset="1" mapVisibility="0" miniMapVisibility="0"/>
+
+		<!-- Risewild Green - Champ de Montesauvage -->
+		<Trail type="guild_missions.treks.r.risewild_green" GUID="+Aol8RLGf0m4VynX8mluJQ==" trailData="Data/GuildMissions/Treks/RisewildGreen.trl" texture="Data/SemiLine.png" color="ffffdd00" alpha="0.8" fadeNear="1500" fadeFar="2000" animSpeed="0.5" mapDisplaySize="25"/>
+		<POI MapID="73" xpos="678.139" ypos="50.6478" zpos="68.8617" type="guild_missions.treks.r.risewild_green" GUID="aJVK3Z5LkkmtgW81vMWjCQ==" fadeNear="1500" fadeFar="2500" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="73" xpos="678.139" ypos="51.6478" zpos="68.8617" type="guild_missions.treks.r.risewild_green" GUID="NYX6T8+ePUaWHNMYidO7ew==" iconFile="Img/GuildMissions/RisewildGreen.png" minSize="48" maxSize="48" heightOffset="1" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="73" xpos="735.65"  ypos="50.0565" zpos="61.737"  type="guild_missions.treks.r.risewild_green" GUID="h6IZIJyosUuZN4MdV9Ekhg==" fadeNear="1000" fadeFar="1500"/>
+
+		<!-- Rurik's View - Point de Vue de Rurik -->
+		<POI MapID="18" xpos="486.802" ypos="93.5679" zpos="46.1458" type="guild_missions.treks.r.rurik_s_view" GUID="4h20mXsqkUmufbSv5cYUBQ==" fadeNear="1500" fadeFar="2500"/>
+		<POI MapID="18" xpos="486.802" ypos="94.5679" zpos="46.1458" type="guild_missions.treks.r.rurik_s_view" GUID="r6DDMvV3HkeljR/qhxN9vA==" iconFile="Img/GuildMissions/RuriksView.png" minSize="48" maxSize="48" heightOffset="1" mapVisibility="0" miniMapVisibility="0"/>
+
+		<!-- Saltflood Altar - Autel d'Inondesel -->
+		<POI MapID="53" xpos="456.464" ypos="18.2798" zpos="640.236" type="guild_missions.treks.s.saltflood_altar" GUID="I+Qg48zPx0it5vugK+4IgQ==" fadeNear="1500" fadeFar="2500"/>
+		<POI MapID="53" xpos="456.464" ypos="19.2798" zpos="640.236" type="guild_missions.treks.s.saltflood_altar" GUID="N1gyJdBoWkiaw3EFeef+iw==" iconFile="Img/GuildMissions/SaltfloodAltar.png" minSize="48" maxSize="48" heightOffset="1" mapVisibility="0" miniMapVisibility="0"/>
+
+		<!-- Sandwurm Prowl - Guivre des Sables Maraudeuse -->
+		<POI MapID="873" xpos="441.354" ypos="52.0137" zpos="-8.30188" type="guild_missions.treks.s.sandwurm_prowl" GUID="nRbECXVic0eVw+1gLQsE1A==" fadeNear="1500" fadeFar="2500"/>
+		<POI MapID="873" xpos="441.354" ypos="53.0137" zpos="-8.30188" type="guild_missions.treks.s.sandwurm_prowl" GUID="X1ks5vYRpEWUu3bmFIzDTA==" iconFile="Img/GuildMissions/SandwurmProwl.png" minSize="48" maxSize="48" heightOffset="1" mapVisibility="0" miniMapVisibility="0"/>
+
+		<!-- Scholar's Blind - Aveuglement de l'Erudit -->
+		<POI MapID="26" xpos="-478.164" ypos="99.9046"  zpos="143.487" type="guild_missions.treks.s.scholar_s_blind" GUID="YEL5izsCu0m3y8jEkhcGlA==" fadeNear="1500" fadeFar="2500"/>
+		<POI MapID="26" xpos="-478.164" ypos="100.9046" zpos="143.487" type="guild_missions.treks.s.scholar_s_blind" GUID="ODHRbBFH9UauMdYexsGQMw==" iconFile="Img/GuildMissions/ScholarsBlind.png" minSize="48" maxSize="48" heightOffset="1" mapVisibility="0" miniMapVisibility="0"/>
+
+		<!-- Scourgejaw Watchtower - Tour de Guet de Mâchefléau -->
+		<POI MapID="25" xpos="-563.18" ypos="68.9328" zpos="-279.969" type="guild_missions.treks.s.scourgejaw_watchtower" GUID="G9bKu/xTZUC4Up9pzHdAjA==" fadeNear="1500" fadeFar="2500"/>
+		<POI MapID="25" xpos="-563.18" ypos="69.9328" zpos="-279.969" type="guild_missions.treks.s.scourgejaw_watchtower" GUID="CtXLuznaLky4sfizXsPuHA==" iconFile="Img/GuildMissions/ScourgejawWatchtower.png" minSize="48" maxSize="48" heightOffset="1" mapVisibility="0" miniMapVisibility="0"/>
+
+		<!-- Scriptorium Nook - Recoin du Scriptorium -->
+		<POI MapID="218" xpos="246.144" ypos="133.389" zpos="492.652" type="guild_missions.treks.s.scriptorium_nook" GUID="jb8iXRv15UiDsKMGbOwbRQ==" fadeNear="1500" fadeFar="2500"/>
+		<POI MapID="218" xpos="246.144" ypos="134.389" zpos="492.652" type="guild_missions.treks.s.scriptorium_nook" GUID="qOP729EkfU2189WShxP4eg==" iconFile="Img/GuildMissions/ScriptoriumNook.png" minSize="48" maxSize="48" heightOffset="1" mapVisibility="0" miniMapVisibility="0"/>
+
+		<!-- Sea Scorpion's Eye - Oeil du Scorpion des Mers -->
+		<Trail type="guild_missions.treks.s.sea_scorpion_s_eye" GUID="vO/rtNvp5EWToG7ZnqktDg==" trailData="Data/GuildMissions/Treks/SeaScorpionsEye.trl" texture="Data/SemiLine.png" color="ffffdd00" alpha="1" fadeNear="2500" fadeFar="3000" animSpeed="0.5" mapDisplaySize="25"/>
+		<POI MapID="62" xpos="-443.488" ypos="-1.12815" zpos="-33.5098" type="guild_missions.treks.s.sea_scorpion_s_eye" GUID="cxGW20kNdEGq8RGCVe6boA==" fadeNear="1500" fadeFar="2500" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="62" xpos="-443.488" ypos="-0.12815" zpos="-33.5098" type="guild_missions.treks.s.sea_scorpion_s_eye" GUID="y7fUuMFIVEiu57D9oWl9Hg==" iconFile="Img/GuildMissions/SeaScorpionsEye.png" minSize="48" maxSize="48" heightOffset="1" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="62" xpos="-485.925" ypos="-207.195" zpos="-54.0959" type="guild_missions.treks.s.sea_scorpion_s_eye" GUID="OvojEOqUjE2oNvwPULVxgg==" fadeNear="2000" fadeFar="3000"/>
+
+		<!-- Sentinel Sink - Bassin de la Sentinelle -->
+		<Trail type="guild_missions.treks.s.sentinel_sink" GUID="fGegkQQOjk+eaEqHgDN/GA==" trailData="Data/GuildMissions/Treks/SentinelSink.trl" texture="Data/SemiLine.png" color="ffffdd00" alpha="0.8" fadeNear="1500" fadeFar="2000" animSpeed="0.5" mapDisplaySize="25"/>
+		<POI MapID="25" xpos="329.419" ypos="-37.5388" zpos="79.4283" type="guild_missions.treks.s.sentinel_sink" GUID="Gv2BOd3MREiR0r+mVmiRAw==" fadeNear="1500" fadeFar="2500" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="25" xpos="329.419" ypos="-36.5388" zpos="79.4283" type="guild_missions.treks.s.sentinel_sink" GUID="u3cNbOzrbka4qMLQw2sUTg==" iconFile="Img/GuildMissions/SentinelSink.png" minSize="48" maxSize="48" heightOffset="1" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="25" xpos="315.951" ypos="-126.901" zpos="155.751" type="guild_missions.treks.s.sentinel_sink" GUID="cWJKDy/tFUSxfLV0Q2h92Q==" fadeNear="1000" fadeFar="1500"/>
+
+		<!-- Sepulchre Skylight - Sépulcre Azumière -->
+		<Trail type="guild_missions.treks.s.sepulchre_skylight" GUID="xH0plZWah0ud0oOYHgFSHQ==" trailData="Data/GuildMissions/Treks/SepulchreSkylight.trl" texture="Data/SemiLine.png" color="ffffdd00" alpha="0.8" fadeNear="1500" fadeFar="2000" animSpeed="0.5" mapDisplaySize="25"/>
+		<POI MapID="51" xpos="-367.191" ypos="13.6293" zpos="-737.767" type="guild_missions.treks.s.sepulchre_skylight" GUID="8uogTdsoSkSWkfovmpyu7w==" fadeNear="1500" fadeFar="2500" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="51" xpos="-367.191" ypos="14.6293" zpos="-737.767" type="guild_missions.treks.s.sepulchre_skylight" GUID="A+HHIv4dJUW0n0rEfESBdQ==" iconFile="Img/GuildMissions/SepulchreSkylight.png" minSize="48" maxSize="48" heightOffset="1" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="51" xpos="-603.548" ypos="15.624"  zpos="-713.971" type="guild_missions.treks.s.sepulchre_skylight" GUID="k33NWBPuqECjLwfe5w10/g==" fadeNear="1500" fadeFar="2000"/>
+
+		<!-- Sharkhollow's Edge - Bord de Valaigu -->
+		<Trail type="guild_missions.treks.s.sharkhollow_s_edge" GUID="nkcVuzRS8EyjfZ2bJJwplg==" trailData="Data/GuildMissions/Treks/SharkhollowsEdge.trl" texture="Data/SemiLine.png" color="ffffdd00" alpha="0.8" fadeNear="1500" fadeFar="2000" animSpeed="0.5" mapDisplaySize="25"/>
+		<POI MapID="20" xpos="543.71"  ypos="-0.510084" zpos="-762.593" type="guild_missions.treks.s.sharkhollow_s_edge" GUID="Y7oG+swxcEOZ1lTf412EPg==" fadeNear="1500" fadeFar="2500" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="20" xpos="543.71"  ypos="0.510084"  zpos="-762.593" type="guild_missions.treks.s.sharkhollow_s_edge" GUID="U2U1xlwr1U60o293XK5jmw==" iconFile="Img/GuildMissions/SharkhollowsEdge.png" minSize="48" maxSize="48" heightOffset="1" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="20" xpos="607.441" ypos="2.71106"   zpos="-532.474" type="guild_missions.treks.s.sharkhollow_s_edge" GUID="31G8B0YhbEikXoVzoE/tVg==" fadeNear="1500" fadeFar="2000"/>
+
+		<!-- Shattered Loft - Grenier Effondré -->
+		<POI MapID="53" xpos="285.011" ypos="35.4307" zpos="928.103" type="guild_missions.treks.s.shattered_loft" GUID="y6wFcJiAakq3gJcqmFTWOw==" fadeNear="1500" fadeFar="2500"/>
+		<POI MapID="53" xpos="285.011" ypos="36.4307" zpos="928.103" type="guild_missions.treks.s.shattered_loft" GUID="x9IXHbrbZE6ITGouj2zKCA==" iconFile="Img/GuildMissions/ShatteredLoft.png" minSize="48" maxSize="48" heightOffset="1" mapVisibility="0" miniMapVisibility="0"/>
+
+		<!-- Siamoth Refuge - Refuge de Siamouth -->
+		<Trail type="guild_missions.treks.s.siamoth_refuge" GUID="6jYiwrQ5k0aKy4OFOejzHg==" trailData="Data/GuildMissions/Treks/SiamothRefuge.trl" texture="Data/SemiLine.png" color="ffffdd00" alpha="0.8" fadeNear="1500" fadeFar="2000" animSpeed="0.5" mapDisplaySize="25"/>
+		<POI MapID="53" xpos="485.33"  ypos="26.7214" zpos="-856.033" type="guild_missions.treks.s.siamoth_refuge" GUID="kbHmxb+6Y0mJWRhJ6Mz1WA==" fadeNear="1500" fadeFar="2500" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="53" xpos="485.33"  ypos="27.7214" zpos="-856.033" type="guild_missions.treks.s.siamoth_refuge" GUID="bb0dv+xu40OdkKL9kkGXZA==" iconFile="Img/GuildMissions/SiamothRefuge.png" minSize="48" maxSize="48" heightOffset="1" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="53" xpos="593.972" ypos="33.2732" zpos="-873.417" type="guild_missions.treks.s.siamoth_refuge" GUID="mDFaJoMc90KtWltVoXO+3g==" fadeNear="1000" fadeFar="1500"/>
+
+		<!-- Skalecatch Butcher Shop - Boucherie Piègecayeux -->
+		<POI MapID="25" xpos="-252.529" ypos="9.10513"  zpos="-372.441" type="guild_missions.treks.s.skalecatch_butcher_shop" GUID="AhlmidXMNES3lW7gJzCe+A==" fadeNear="1500" fadeFar="2500"/>
+		<POI MapID="25" xpos="-252.529" ypos="10.10513" zpos="-372.441" type="guild_missions.treks.s.skalecatch_butcher_shop" GUID="EoOogUFd5EmuoZzA5Qg7Mw==" iconFile="Img/GuildMissions/SkalecatchButcherShop.png" minSize="48" maxSize="48" heightOffset="1" mapVisibility="0" miniMapVisibility="0"/>
+
+		<!-- Skalefound Cove - Crique de Trouvécaille -->
+		<POI MapID="22" xpos="543.804" ypos="1.23686" zpos="-830.903" type="guild_missions.treks.s.skalefound_cove" GUID="hoSo5WynNEu3hEj80vJgrw==" fadeNear="1500" fadeFar="2500"/>
+		<POI MapID="22" xpos="543.804" ypos="2.23686" zpos="-830.903" type="guild_missions.treks.s.skalefound_cove" GUID="NIH/lPXqTkadJToXMX9tJQ==" iconFile="Img/GuildMissions/SkalefoundCove.png" minSize="48" maxSize="48" heightOffset="1" mapVisibility="0" miniMapVisibility="0"/>
+
+		<!-- Skalesplash Falls - Chutes de Gerbécaille -->
+		<POI MapID="29" xpos="48.9142" ypos="9.7137"  zpos="-894.983" type="guild_missions.treks.s.skalesplash_falls" GUID="ZA6j7Xegl0mwl5Bej9lcaQ==" fadeNear="1500" fadeFar="2500"/>
+		<POI MapID="29" xpos="48.9142" ypos="10.7137" zpos="-894.983" type="guild_missions.treks.s.skalesplash_falls" GUID="gglo/xD3QEuTC/6cmFIpHA==" iconFile="Img/GuildMissions/SkalesplashFalls.png" minSize="48" maxSize="48" heightOffset="1" mapVisibility="0" miniMapVisibility="0"/>
+
+		<!-- Skalestash Hideaway - Antre Cachécailleux -->
+		<POI MapID="19" xpos="-876.996" ypos="-0.180334" zpos="607.853" type="guild_missions.treks.s.skalestash_hideaway" GUID="WByqQCp/3k6LoZ1/CzerGw==" fadeNear="1500" fadeFar="2500"/>
+		<POI MapID="19" xpos="-876.996" ypos="0.980334"  zpos="607.853" type="guild_missions.treks.s.skalestash_hideaway" GUID="bM2Ekh8ylESkoGVhEKjN9Q==" iconFile="Img/GuildMissions/SkalestashHideaway.png" minSize="48" maxSize="48" heightOffset="1" mapVisibility="0" miniMapVisibility="0"/>
+
+		<!-- Skelknest Borehole - Forage du Nid de Skelk -->
+		<Trail type="guild_missions.treks.s.skelknest_borehole" GUID="eAbD5K8rBkydMDbmWanidg==" trailData="Data/GuildMissions/Treks/SkelknestBorehole.trl" texture="Data/SemiLine.png" color="ffffdd00" alpha="0.8" fadeNear="1500" fadeFar="2000" animSpeed="0.5" mapDisplaySize="25"/>
+		<POI MapID="30" xpos="-216.191" ypos="-1.04813" zpos="112.665" type="guild_missions.treks.s.skelknest_borehole" GUID="YVqiCRpFAUSGH9NUjwfoDw==" fadeNear="1500" fadeFar="2500" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="30" xpos="-216.191" ypos="0.04813"  zpos="112.665" type="guild_missions.treks.s.skelknest_borehole" GUID="4tgBML2xgUqBLbUs7zAHyA==" iconFile="Img/GuildMissions/SkelknestBorehole.png" minSize="48" maxSize="48" heightOffset="1" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="30" xpos="-39.4638" ypos="-91.8521" zpos="158.774" type="guild_missions.treks.s.skelknest_borehole" GUID="Uh0sKb+f30GDaUueUpVzVA==" fadeNear="1000" fadeFar="1500"/>
+
+		<!-- Skibo Hall Dormitory - Dortoir du Hall de Skibo -->
+		<POI MapID="139" xpos="59.4602" ypos="333.003" zpos="30.1469" type="guild_missions.treks.s.skibo_hall_dormitory" GUID="mQ7LKZ7EEEW5DI5TxtFhMQ==" fadeNear="1500" fadeFar="2500"/>
+		<POI MapID="139" xpos="59.4602" ypos="334.003" zpos="30.1469" type="guild_missions.treks.s.skibo_hall_dormitory" GUID="kug5oqZIt0ulcuQjt01rbA==" iconFile="Img/GuildMissions/SkiboHallDormitory.png" minSize="48" maxSize="48" heightOffset="1" mapVisibility="0" miniMapVisibility="0"/>
+
+		<!-- Skyshine Scratch - Griffure de l'Eclat Céleste -->
+		<POI MapID="17" xpos="766.358" ypos="103.901" zpos="-112.263" type="guild_missions.treks.s.skyshine_scratch" GUID="1u3d5i2eO0arThSedMyC7g==" fadeNear="1500" fadeFar="2500"/>
+		<POI MapID="17" xpos="766.358" ypos="104.901" zpos="-112.263" type="guild_missions.treks.s.skyshine_scratch" GUID="u+8UYPKpykKsIkarWwmLmw==" iconFile="Img/GuildMissions/SkyshineScratch.png" minSize="48" maxSize="48" heightOffset="1" mapVisibility="0" miniMapVisibility="0"/>
+
+		<!-- Snowden Safehouse - Refuge d'Antreneige -->
+		<POI MapID="31" xpos="-330.037" ypos="37.715" zpos="-52.3314" type="guild_missions.treks.s.snowden_safehouse" GUID="TzXvks6mIUyufb/8RykiMQ==" fadeNear="1500" fadeFar="2500"/>
+		<POI MapID="31" xpos="-330.037" ypos="38.715" zpos="-52.3314" type="guild_missions.treks.s.snowden_safehouse" GUID="/qTzTf7jDkKiTczT6aXH9A==" iconFile="Img/GuildMissions/SnowdenSafehouse.png" minSize="48" maxSize="48" heightOffset="1" mapVisibility="0" miniMapVisibility="0"/>
+
+		<!-- Snowhowl Den - Antre de Hurleneige -->
+		<POI MapID="31" xpos="534.867" ypos="9.11926"  zpos="36.4528" type="guild_missions.treks.s.snowhowl_den" GUID="QQuNrCQIgEWe6puHiYitLw==" fadeNear="1500" fadeFar="2500"/>
+		<POI MapID="31" xpos="534.867" ypos="10.11926" zpos="36.4528" type="guild_missions.treks.s.snowhowl_den" GUID="DakUObd0Ak210aSGIazjQA==" iconFile="Img/GuildMissions/SnowhowlDen.png" minSize="48" maxSize="48" heightOffset="1" mapVisibility="0" miniMapVisibility="0"/>
+
+		<!-- Soggorsort Rotunda - Rotonde de Soggorsort -->
+		<POI MapID="34" xpos="468.03" ypos="-95.1884" zpos="622.642" type="guild_missions.treks.s.soggorsort_rotunda" GUID="nfoDz6NtJUWOWjrwKa0kzA==" fadeNear="1500" fadeFar="2500"/>
+		<POI MapID="34" xpos="468.03" ypos="-94.1884" zpos="622.642" type="guild_missions.treks.s.soggorsort_rotunda" GUID="Ozuq3c6xnkCZEjHbSnVZGA==" iconFile="Img/GuildMissions/SoggorsortRotunda.png" minSize="48" maxSize="48" heightOffset="1" mapVisibility="0" miniMapVisibility="0"/>
+
+		<!-- Soren Draa Rest Stop - Halte de Soren Draa -->
+		<POI MapID="35" xpos="-328.235" ypos="43.3499" zpos="-594.095" type="guild_missions.treks.s.soren_draa_rest_stop" GUID="OB2sf9HOyk2QviaU/y+/fA==" fadeNear="1500" fadeFar="2500"/>
+		<POI MapID="35" xpos="-328.235" ypos="44.3499" zpos="-594.095" type="guild_missions.treks.s.soren_draa_rest_stop" GUID="hqnXjvv1eUO9FpE9wqU00w==" iconFile="Img/GuildMissions/SorenDraaRestStop.png" minSize="48" maxSize="48" heightOffset="1" mapVisibility="0" miniMapVisibility="0"/>
+
+		<!-- Source of Lament - Source des Lamentations -->
+		<POI MapID="30" xpos="-107.197" ypos="0.185958" zpos="-590.984" type="guild_missions.treks.s.source_of_lament" GUID="wrMn5d+R/Ua+3fbFNf452Q==" fadeNear="1500" fadeFar="2500"/>
+		<POI MapID="30" xpos="-107.197" ypos="1.185958" zpos="-590.984" type="guild_missions.treks.s.source_of_lament" GUID="JBJHGE5mgEaQK7RlH2wR7w==" iconFile="Img/GuildMissions/SourceOfLament.png" minSize="48" maxSize="48" heightOffset="1" mapVisibility="0" miniMapVisibility="0"/>
+
+		<!-- Sparwind's Lounge - Salon d'Esparvent -->
+		<POI MapID="218" xpos="69.7354" ypos="214.985" zpos="197.703" type="guild_missions.treks.s.sparwind_s_lounge" GUID="4IyLLffXVUmZ5xhX4gXFsg==" fadeNear="1500" fadeFar="2500"/>
+		<POI MapID="218" xpos="69.7354" ypos="215.985" zpos="197.703" type="guild_missions.treks.s.sparwind_s_lounge" GUID="Bp5saa5uqkGYuk8ZltAdiA==" iconFile="Img/GuildMissions/SparwindsLounge.png" minSize="48" maxSize="48" heightOffset="1" mapVisibility="0" miniMapVisibility="0"/>
+
+		<!-- Steampipe Perch - Perchoir Tubavapeur -->
+		<POI MapID="873" xpos="185.741" ypos="84.2232" zpos="-12.1583" type="guild_missions.treks.s.steampipe_perch" GUID="ZOvFlT8QAUq8fHBxhmYDAQ==" fadeNear="1500" fadeFar="2500"/>
+		<POI MapID="873" xpos="185.741" ypos="85.2232" zpos="-12.1583" type="guild_missions.treks.s.steampipe_perch" GUID="HMzIbz2KukqYPRJXdft3TA==" iconFile="Img/GuildMissions/SteampipePerch.png" minSize="48" maxSize="48" heightOffset="1" mapVisibility="0" miniMapVisibility="0"/>
+
+		<!-- Steamscrap Overlook - Belvédère Goutedo -->
+		<POI MapID="27" xpos="147.941" ypos="127.622" zpos="323.589" type="guild_missions.treks.s.steamscrap_overlook" GUID="eipt7DjCGEeLtCMSjtB+tw==" fadeNear="1500" fadeFar="2500"/>
+		<POI MapID="27" xpos="147.941" ypos="128.622" zpos="323.589" type="guild_missions.treks.s.steamscrap_overlook" GUID="B1wJT/RIjUii4nwk5U3y2w==" iconFile="Img/GuildMissions/SteamscrapOverlook.png" minSize="48" maxSize="48" heightOffset="1" mapVisibility="0" miniMapVisibility="0"/>
+
+		<!-- Steamy Steps - Marche Vaporeuses -->
+		<POI MapID="873" xpos="-18.5355" ypos="0.99785" zpos="277.916" type="guild_missions.treks.s.steamy_steps" GUID="CxdfXjtKxEKqatswvOtTtg==" fadeNear="1500" fadeFar="2500"/>
+		<POI MapID="873" xpos="-18.5355" ypos="1.99785" zpos="277.916" type="guild_missions.treks.s.steamy_steps" GUID="t5q5hmE4CkOXLFHa8GSURQ==" iconFile="Img/GuildMissions/SteamySteps.png" minSize="48" maxSize="48" heightOffset="1" mapVisibility="0" miniMapVisibility="0"/>
+
+		<!-- Spectrehaunt Socket - Emplacement Hanté -->
+		<Trail type="guild_missions.treks.s.spectrehaunt_socket" GUID="nAMQQ7dQm0e307GnE6BMRw==" trailData="Data/GuildMissions/Treks/SpectrehauntSocket.trl" texture="Data/SemiLine.png" color="ffffdd00" alpha="0.8" fadeNear="1500" fadeFar="2000" animSpeed="0.5" mapDisplaySize="25"/>
+		<POI MapID="65" xpos="-270.403" ypos="112.799" zpos="-21.3498" type="guild_missions.treks.s.spectrehaunt_socket" GUID="pOuAwCdXlEyQ16F8QmrkoQ==" fadeNear="1500" fadeFar="2500" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="65" xpos="-270.403" ypos="113.799" zpos="-21.3498" type="guild_missions.treks.s.spectrehaunt_socket" GUID="m9OfwfK7zUWCsHXE7XTFhQ==" iconFile="Img/GuildMissions/SpectrehauntSocket.png" minSize="48" maxSize="48" heightOffset="1" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="65" xpos="-158.663" ypos="77.2031" zpos="94.8387"  type="guild_missions.treks.s.spectrehaunt_socket" GUID="+EvcI0ej7kC7+Q/7w0j0sA==" fadeNear="1500" fadeFar="2000"/>
+
+		<!-- Steelband's Tunnel - Tunnel de Bandacier -->
+		<POI MapID="20" xpos="-218.774" ypos="9.61237"  zpos="-915.715" type="guild_missions.treks.s.steelband_s_tunnel" GUID="82HLGw9fqEWhvk/2KC836Q==" fadeNear="1500" fadeFar="2500"/>
+		<POI MapID="20" xpos="-218.774" ypos="10.61237" zpos="-915.715" type="guild_missions.treks.s.steelband_s_tunnel" GUID="bozshENUH0SheDOFOGsalg==" iconFile="Img/GuildMissions/SteelbandsTunnel.png" minSize="48" maxSize="48" heightOffset="1" mapVisibility="0" miniMapVisibility="0"/>
+
+		<!-- Stentor Shelter - Refuge du Stentor -->
+		<POI MapID="51" xpos="70.1053" ypos="7.02538" zpos="627.657" type="guild_missions.treks.s.stentor_shelter" GUID="nknXX85HLEmp6T7P9ZFBkg==" fadeNear="1500" fadeFar="2500"/>
+		<POI MapID="51" xpos="70.1053" ypos="8.02538" zpos="627.657" type="guild_missions.treks.s.stentor_shelter" GUID="1K+6pzT1zkCeFOCnKeHExA==" iconFile="Img/GuildMissions/StentorShelter.png" minSize="48" maxSize="48" heightOffset="1" mapVisibility="0" miniMapVisibility="0"/>
+
+		<!-- Stonebore Spiderhole - Trou de Tirailleur de Creusepierre -->
+		<Trail type="guild_missions.treks.s.stonebore_spiderhole" GUID="iUveumkWC06+LLqN7edb3g==" trailData="Data/GuildMissions/Treks/StoneboreSpiderhole.trl" texture="Data/SemiLine.png" color="ffffdd00" alpha="0.8" fadeNear="1500" fadeFar="2000" animSpeed="0.5" mapDisplaySize="25"/>
+		<POI MapID="24" xpos="-1128.84" ypos="13.905"  zpos="-343.048" type="guild_missions.treks.s.stonebore_spiderhole" GUID="CEtFGOY3PUCDkGtTM6WP8w==" fadeNear="1500" fadeFar="2500" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="24" xpos="-1128.84" ypos="14.905"  zpos="-343.048" type="guild_missions.treks.s.stonebore_spiderhole" GUID="MImsVgRUKESpac87JGF5fw==" iconFile="Img/GuildMissions/StoneboreSpiderhole.png" minSize="48" maxSize="48" heightOffset="1" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="24" xpos="-1097.77" ypos="31.3471" zpos="-131.254" type="guild_missions.treks.s.stonebore_spiderhole" GUID="cacH9GDBrEC44mjKg00hWg==" fadeNear="1500" fadeFar="2000"/>
+
+		<!-- Strongpaw's Garden - Jardin de Fortepatte -->
+		<POI MapID="32" xpos="-177.442" ypos="53.2408" zpos="-680.77" type="guild_missions.treks.s.strongpaw_s_garden" GUID="RbkMfp2cYk+TOJBHrA1Vng==" fadeNear="1500" fadeFar="2500"/>
+		<POI MapID="32" xpos="-177.442" ypos="54.2408" zpos="-680.77" type="guild_missions.treks.s.strongpaw_s_garden" GUID="S9QCYJGTFkCSEHA6ybNf/g==" iconFile="Img/GuildMissions/StrongpawsGarden.png" minSize="48" maxSize="48" heightOffset="1" mapVisibility="0" miniMapVisibility="0"/>
+
+		<!-- Tactical Retreat - Repli Stratégique -->
+		<POI MapID="62" xpos="500.452" ypos="36.4588" zpos="-803.605" type="guild_missions.treks.t.tactical_retreat" GUID="hVLTfH8b5EaaZ2FczFCwyA==" fadeNear="1500" fadeFar="2500"/>
+		<POI MapID="62" xpos="500.452" ypos="37.4588" zpos="-803.605" type="guild_missions.treks.t.tactical_retreat" GUID="z9rnEjEAMEq7uSbUVX46yA==" iconFile="Img/GuildMissions/TacticalRetreat.png" minSize="48" maxSize="48" heightOffset="1" mapVisibility="0" miniMapVisibility="0"/>
+
+		<!-- Talus Steps - Les Marches du Talus -->
+		<POI MapID="29" xpos="-648.359" ypos="18.0431" zpos="-775.394" type="guild_missions.treks.t.talus_steps" GUID="WT8iESotj0e0mduPfZTnFw==" fadeNear="1500" fadeFar="2500"/>
+		<POI MapID="29" xpos="-648.359" ypos="19.0431" zpos="-775.394" type="guild_missions.treks.t.talus_steps" GUID="tF0GOSz3+kOPPC/oo72Fiw==" iconFile="Img/GuildMissions/TalusSteps.png" minSize="48" maxSize="48" heightOffset="1" mapVisibility="0" miniMapVisibility="0"/>
+
+		<!-- Tarstar Copse - Bosquet de Tarstar -->
+		<POI MapID="22" xpos="-856.051" ypos="66.9989" zpos="-514.086" type="guild_missions.treks.t.tarstar_copse" GUID="Y2IBVYOL+0SObLWOXuF0Zw==" fadeNear="1500" fadeFar="2500"/>
+		<POI MapID="22" xpos="-856.051" ypos="67.9989" zpos="-514.086" type="guild_missions.treks.t.tarstar_copse" GUID="AQnrdjMgFUiSGcqOG6VblQ==" iconFile="Img/GuildMissions/TarstarCopse.png" minSize="48" maxSize="48" heightOffset="1" mapVisibility="0" miniMapVisibility="0"/>
+
+		<!-- Tekki's Drawing Board - Planche à Dessin de Tekki -->
+		<POI MapID="54" xpos="-276.284" ypos="18.1639" zpos="-113.528" type="guild_missions.treks.t.tekki_s_drawing_board" GUID="8jvrSwciaEmyOGr5lxJhNQ==" fadeNear="1500" fadeFar="2500"/>
+		<POI MapID="54" xpos="-276.284" ypos="19.1639" zpos="-113.528" type="guild_missions.treks.t.tekki_s_drawing_board" GUID="bWQeeA+A0kaC+7lombdRaw==" iconFile="Img/GuildMissions/TekkisDrawingBoard.png" minSize="48" maxSize="48" heightOffset="1" mapVisibility="0" miniMapVisibility="0"/>
+
+		<!-- Thaumanova Spillway - Déversoir de Thaumanova -->
+		<POI MapID="35" xpos="-318.589" ypos="10.6149" zpos="825.505" type="guild_missions.treks.t.thaumanova_spillway" GUID="ZFoTAMG5kEC/CQfPKnr/vQ==" fadeNear="1500" fadeFar="2500"/>
+		<POI MapID="35" xpos="-318.589" ypos="11.6149" zpos="825.505" type="guild_missions.treks.t.thaumanova_spillway" GUID="91Onsi4BGkGJHANiJG3ECQ==" iconFile="Img/GuildMissions/ThaumanovaSpillway.png" minSize="48" maxSize="48" heightOffset="1" mapVisibility="0" miniMapVisibility="0"/>
+
+		<!-- The Karka Klub - Klub des Karkas -->
+		<POI MapID="873" xpos="613.938" ypos="0.272284" zpos="-411.602" type="guild_missions.treks.t.the_karka_klub" GUID="B5s0e5v7EEWNtonCf+sZgw==" fadeNear="1500" fadeFar="2500"/>
+		<POI MapID="873" xpos="613.938" ypos="1.272284" zpos="-411.602" type="guild_missions.treks.t.the_karka_klub" GUID="C5gLuCR+g0uiKSaLEpETpw==" iconFile="Img/GuildMissions/TheKarkaKlub.png" minSize="48" maxSize="48" heightOffset="1" mapVisibility="0" miniMapVisibility="0"/>
+
+		<!-- The People's Deadlock - L'Impasse du Peuple -->
+		<POI MapID="30" xpos="-783.084" ypos="49.3836" zpos="-609.681" type="guild_missions.treks.t.the_people_s_deadlock" GUID="nD6TLfsUA0qxVRSV8dB2uQ==" fadeNear="1500" fadeFar="2500"/>
+		<POI MapID="30" xpos="-783.084" ypos="50.3836" zpos="-609.681" type="guild_missions.treks.t.the_people_s_deadlock" GUID="yuC1qwxR50GIAriEVeeCrA==" iconFile="Img/GuildMissions/ThePeoplesDeadlock.png" minSize="48" maxSize="48" heightOffset="1" mapVisibility="0" miniMapVisibility="0"/>
+
+		<!-- The Workers' Stores - Le Magasin des Ouvriers -->
+		<Trail type="guild_missions.treks.t.the_workers_stores" GUID="8o2KdqSZEUOmqEamOFvtbA==" trailData="Data/GuildMissions/Treks/TheWorkersStores.trl" texture="Data/SemiLine.png" color="ffffdd00" alpha="0.8" fadeNear="1500" fadeFar="2000" animSpeed="0.5" mapDisplaySize="25"/>
+		<POI MapID="26" xpos="-24.2316" ypos="108.5"  zpos="-109.733" type="guild_missions.treks.t.the_workers_stores" GUID="JW9QdxAFgUiuhyzXg+TVEQ==" fadeNear="1500" fadeFar="2500" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="26" xpos="-24.2316" ypos="109.5"  zpos="-109.733" type="guild_missions.treks.t.the_workers_stores" GUID="nvuxDkzFoESvHiJnjnUU/g==" iconFile="Img/GuildMissions/TheWorkersStores.png" minSize="48" maxSize="48" heightOffset="1" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="26" xpos="-70.4222" ypos="124.34" zpos="-160.124" type="guild_missions.treks.t.the_workers_stores" GUID="lboVKuf4SU2OhKYG2YQQzg==" fadeNear="1000" fadeFar="1500"/>
+
+		<!-- Togatl Shore - Côte Togatl -->
+		<Trail type="guild_missions.treks.t.togatl_shore" GUID="P8TJ4uXr0EWZL6R93GZnvQ==" trailData="Data/GuildMissions/Treks/TogatlShore.trl" texture="Data/SemiLine.png" color="ffffdd00" alpha="0.8" fadeNear="1500" fadeFar="2000" animSpeed="0.5" mapDisplaySize="25"/>
+		<POI MapID="23" xpos="-240.187" ypos="-1.12113" zpos="-196.734" type="guild_missions.treks.t.togatl_shore" GUID="MLU8ggmC8kqFdF5n5KU77w==" fadeNear="1500" fadeFar="2500" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="23" xpos="-240.187" ypos="-0.12113" zpos="-196.734" type="guild_missions.treks.t.togatl_shore" GUID="aQvDsmzX7Ei6GjF619P08Q==" iconFile="Img/GuildMissions/TogatlShore.png" minSize="48" maxSize="48" heightOffset="1" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="23" xpos="-103.617" ypos="5.73412"  zpos="-33.091"  type="guild_missions.treks.t.togatl_shore" GUID="0vTjZ6URXkaSQ5tB5nY8DA==" fadeNear="2000" fadeFar="2500"/>
+
+		<!-- Tower of Tribulation - Tour de la Tribulation -->
+		<POI MapID="26" xpos="-473.52" ypos="42.3603" zpos="-800.594" type="guild_missions.treks.t.tower_of_tribulation" GUID="dKYpeGWrl06JCdlmTD9sUA==" fadeNear="1500" fadeFar="2500"/>
+		<POI MapID="26" xpos="-473.52" ypos="43.3603" zpos="-800.594" type="guild_missions.treks.t.tower_of_tribulation" GUID="+/sK2FkQdESt25/dMLnT4Q==" iconFile="Img/GuildMissions/TowerOfTribulation.png" minSize="48" maxSize="48" heightOffset="1" mapVisibility="0" miniMapVisibility="0"/>
+
+		<!-- Toxal Spill - Fuite de Toxal -->
+		<POI MapID="54" xpos="-633.092" ypos="15.6702" zpos="-748.868" type="guild_missions.treks.t.toxal_spill" GUID="sXlw/bTwr0aCFVvGlwNtuA==" fadeNear="1500" fadeFar="2500"/>
+		<POI MapID="54" xpos="-633.092" ypos="16.6702" zpos="-748.868" type="guild_missions.treks.t.toxal_spill" GUID="6kMfu309LUChfCdEkPwY1Q==" iconFile="Img/GuildMissions/ToxalSpill.png" minSize="48" maxSize="48" heightOffset="1" mapVisibility="0" miniMapVisibility="0"/>
+
+		<!-- Trader's Stash - Réserve du Marchand -->
+		<POI MapID="326" xpos="158.041" ypos="260.028" zpos="-81.6567" type="guild_missions.treks.t.trader_s_stash" GUID="wPAh2WS7SkOKnVZQ5uzYuQ==" fadeNear="1500" fadeFar="2500"/>
+		<POI MapID="326" xpos="158.041" ypos="261.028" zpos="-81.6567" type="guild_missions.treks.t.trader_s_stash" GUID="2qRxkMI1z0qLm7+vebOMYg==" iconFile="Img/GuildMissions/TradersStash.png" minSize="48" maxSize="48" heightOffset="1" mapVisibility="0" miniMapVisibility="0"/>
+
+		<!-- Trolltrap Pit - Fosse de Piègetroll -->
+		<POI MapID="27" xpos="-439.878" ypos="84.5969" zpos="756.966" type="guild_missions.treks.t.trolltrap_pit" GUID="85yAgge7lEKnj2IKo06qvg==" fadeNear="1500" fadeFar="2500"/>
+		<POI MapID="27" xpos="-439.878" ypos="85.5969" zpos="756.966" type="guild_missions.treks.t.trolltrap_pit" GUID="50hh4OCVC0K7+lfQBeAzpw==" iconFile="Img/GuildMissions/TrolltrapPit.png" minSize="48" maxSize="48" heightOffset="1" mapVisibility="0" miniMapVisibility="0"/>
+
+		<!-- Turai Tavern Stillroom - Laboratoire de la Taverne Turai -->
+		<Trail type="guild_missions.treks.t.turai_tavern_stillroom" GUID="55UK3d4pH0KDfbouZ6i5TA==" trailData="Data/GuildMissions/Treks/TuraiTavernStillroom.trl" texture="Data/SemiLine.png" color="ffffdd00" alpha="0.8" fadeNear="1500" fadeFar="2000" animSpeed="0.5" mapDisplaySize="25"/>
+		<POI MapID="18" xpos="-191.978" ypos="56.3544" zpos="231.776" type="guild_missions.treks.t.turai_tavern_stillroom" GUID="X64eSu2mZkS8ToTgF+c2GQ==" fadeNear="1500" fadeFar="2500" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="18" xpos="-204.496" ypos="54.5237" zpos="218.114" type="guild_missions.treks.t.turai_tavern_stillroom" GUID="AqvhpmwnIESYz4nmdqY+Bw==" iconFile="Img/GuildMissions/TuraiTavernStillroom.png" minSize="48" maxSize="48" heightOffset="1" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="18" xpos="-204.496" ypos="53.5237" zpos="218.114" type="guild_missions.treks.t.turai_tavern_stillroom" GUID="8UcgXBpz4kCE8qvK7DMiYQ==" fadeNear="1000" fadeFar="1200"/>
+
+		<!-- Ulta Scraproom - Débarras d'Ulta -->
+		<POI MapID="54" xpos="-143.678" ypos="21.6047" zpos="-209.33" type="guild_missions.treks.u.ulta_scraproom" GUID="3OWg2NJhz0OpdzaM4SEmnQ==" fadeNear="1500" fadeFar="2500"/>
+		<POI MapID="54" xpos="-143.678" ypos="22.6047" zpos="-209.33" type="guild_missions.treks.u.ulta_scraproom" GUID="ApOsqB1290eMGpKGhpVq9g==" iconFile="Img/GuildMissions/UltaScraproom.png" minSize="48" maxSize="48" heightOffset="1" mapVisibility="0" miniMapVisibility="0"/>
+
+		<!-- Unseen Scratch - Griffure Invisible -->
+		<POI MapID="34" xpos="-30.0115" ypos="0.492678" zpos="369.511" type="guild_missions.treks.u.unseen_scratch" GUID="a/EK0PVmSECbjkwRz6Dfbg==" fadeNear="1500" fadeFar="2500"/>
+		<POI MapID="34" xpos="-30.0115" ypos="1.492678" zpos="369.511" type="guild_missions.treks.u.unseen_scratch" GUID="HgHSTsJTkkWR+ZO9YL4z0Q==" iconFile="Img/GuildMissions/UnseenScratch.png" minSize="48" maxSize="48" heightOffset="1" mapVisibility="0" miniMapVisibility="0"/>
+
+		<!-- Upsilon Hyperboloid - Upsilon Hyperboloïde -->
+		<POI MapID="65" xpos="1014.71" ypos="1.7671" zpos="359.722" type="guild_missions.treks.u.upsilon_hyperboloid" GUID="Cic75LtNOEyCSVKCBFJD0A==" fadeNear="1500" fadeFar="2500"/>
+		<POI MapID="65" xpos="1014.71" ypos="2.7671" zpos="359.722" type="guild_missions.treks.u.upsilon_hyperboloid" GUID="OTOhpn2ckkuYSRWhWAyUzA==" iconFile="Img/GuildMissions/UpsilonHyperboloid.png" minSize="48" maxSize="48" heightOffset="1" mapVisibility="0" miniMapVisibility="0"/>
+
+		<!-- Usharr's Threshold - Seuil d'Usharr -->
+		<POI MapID="53" xpos="31.6513" ypos="1.52559" zpos="-81.8742" type="guild_missions.treks.u.usharr_s_threshold" GUID="MsI08yu2d0Oc5UXcPdwAbQ==" fadeNear="1500" fadeFar="2500"/>
+		<POI MapID="53" xpos="31.6513" ypos="2.52559" zpos="-81.8742" type="guild_missions.treks.u.usharr_s_threshold" GUID="0XkIKKoCHkiDUyP8IFI1/w==" iconFile="Img/GuildMissions/UsharrSThreshold.png" minSize="48" maxSize="48" heightOffset="1" mapVisibility="0" miniMapVisibility="0"/>
+
+		<!-- Vacant Hermitage - Ermitage Abandonné -->
+		<POI MapID="20" xpos="82.0732" ypos="3.26405" zpos="592.052" type="guild_missions.treks.v.vacant_hermitage" GUID="huUDCHeJJkSJ8CTlCAEYjw==" fadeNear="1500" fadeFar="2500"/>
+		<POI MapID="20" xpos="82.0732" ypos="4.26405" zpos="592.052" type="guild_missions.treks.v.vacant_hermitage" GUID="1kGMlIj+nESzujxDvHkR4A==" iconFile="Img/GuildMissions/VacantHermitage.png" minSize="48" maxSize="48" heightOffset="1" mapVisibility="0" miniMapVisibility="0"/>
+
+		<!-- Venison Hollow - Crevasse du Gibier -->
+		<POI MapID="27" xpos="29.6379" ypos="121.128" zpos="-1381.78" type="guild_missions.treks.v.venison_hollow" GUID="/uOh+9IChE2pJ6gERoXIDQ==" fadeNear="1500" fadeFar="2500"/>
+		<POI MapID="27" xpos="29.6379" ypos="122.128" zpos="-1381.78" type="guild_missions.treks.v.venison_hollow" GUID="2PpEqPI7Ck+leWVoDuF58g==" iconFile="Img/GuildMissions/VenisonHollow.png" minSize="48" maxSize="48" heightOffset="1" mapVisibility="0" miniMapVisibility="0"/>
+
+		<!-- Verdance Font - Fontaine de Verdance -->
+		<POI MapID="62" xpos="49.5639" ypos="-15.5159" zpos="313.042" type="guild_missions.treks.v.verdance_font" GUID="waYZM4HAQkCUBlo9/FQsJQ==" fadeNear="1500" fadeFar="2500"/>
+		<POI MapID="62" xpos="49.5639" ypos="-14.5159" zpos="313.042" type="guild_missions.treks.v.verdance_font" GUID="WtjbYC9ldUyCFaUoCC7vIQ==" iconFile="Img/GuildMissions/VerdanceFont.png" minSize="48" maxSize="48" heightOffset="1" mapVisibility="0" miniMapVisibility="0"/>
+
+		<!-- Vizier's Anteport - Port Extérieur du Vizir -->
+		<POI MapID="51" xpos="194.57" ypos="24.4445" zpos="-310.521" type="guild_missions.treks.v.vizier_s_anteport" GUID="jHmKTEMNUk2xvslIA2XGHw==" fadeNear="1500" fadeFar="2500"/>
+		<POI MapID="51" xpos="194.57" ypos="25.4445" zpos="-310.521" type="guild_missions.treks.v.vizier_s_anteport" GUID="i3k/x+gsMkKm06AqsrBvMg==" iconFile="Img/GuildMissions/ViziersAnteport.png" minSize="48" maxSize="48" heightOffset="1" mapVisibility="0" miniMapVisibility="0"/>
+
+		<!-- Wassa's Terrace - Terrasse de Wassa -->
+		<POI MapID="24" xpos="-996.636" ypos="43.8656" zpos="-285.335" type="guild_missions.treks.w.wassa_s_terrace" GUID="j6+5h2uw8k2AB6Le+w+wFQ==" fadeNear="1500" fadeFar="2500"/>
+		<POI MapID="24" xpos="-996.636" ypos="44.8656" zpos="-285.335" type="guild_missions.treks.w.wassa_s_terrace" GUID="mx0Ii91aZ0uvInjpsuRBxA==" iconFile="Img/GuildMissions/WassasTerrace.png" minSize="48" maxSize="48" heightOffset="1" mapVisibility="0" miniMapVisibility="0"/>
+
+		<!-- Watchpoint Decimus - Poste de vigie de Décimus -->
+		<POI MapID="19" xpos="-775.038" ypos="63.8541" zpos="-444.021" type="guild_missions.treks.w.watchpoint_decimus" GUID="08dDX0ol3kOGkl+KEZklqQ==" fadeNear="1500" fadeFar="2500"/>
+		<POI MapID="19" xpos="-775.038" ypos="64.8541" zpos="-444.021" type="guild_missions.treks.w.watchpoint_decimus" GUID="WGa8XDiCWUq65gT0pUG5+g==" iconFile="Img/GuildMissions/WatchpointDecimus.png" minSize="48" maxSize="48" heightOffset="1" mapVisibility="0" miniMapVisibility="0"/>
+
+		<!-- Wheelport Pub - Bistrot Rouport -->
+		<POI MapID="218" xpos="367.039" ypos="150.023" zpos="27.6249" type="guild_missions.treks.w.wheelport_pub" GUID="uA812jYa2UOQInxQ9nMoCA==" fadeNear="1500" fadeFar="2500"/>
+		<POI MapID="218" xpos="367.039" ypos="151.023" zpos="27.6249" type="guild_missions.treks.w.wheelport_pub" GUID="HiKQ0tprGkGXpjzMz02Taw==" iconFile="Img/GuildMissions/WheelportPub.png" minSize="48" maxSize="48" heightOffset="1" mapVisibility="0" miniMapVisibility="0"/>
+
+		<!-- Whitland Sinkhole - Gouffre de Whitland -->
+		<POI MapID="39" xpos="1114.72" ypos="-19.9977" zpos="25.8811" type="guild_missions.treks.w.whitland_sinkhole" GUID="lvJg42eD1E2cl96CseObxg==" fadeNear="1500" fadeFar="2500"/>
+		<POI MapID="39" xpos="1114.72" ypos="-18.9977" zpos="25.8811" type="guild_missions.treks.w.whitland_sinkhole" GUID="kq/Xl42M2kCXCUb4uGvjag==" iconFile="Img/GuildMissions/WhitlandSinkhole.png" minSize="48" maxSize="48" heightOffset="1" mapVisibility="0" miniMapVisibility="0"/>
+
+		<!-- Widd's Folly - Folie de Widd -->
+		<POI MapID="34" xpos="-28.6672" ypos="6.42304" zpos="34.0697" type="guild_missions.treks.w.widd_s_folly" GUID="ghtn+IwrCk+bF4BsGznrDA==" fadeNear="1500" fadeFar="2500"/>
+		<POI MapID="34" xpos="-28.6672" ypos="7.42304" zpos="34.0697" type="guild_missions.treks.w.widd_s_folly" GUID="tjkt2hBAFEm8JwcptHKR8g==" iconFile="Img/GuildMissions/WiddsFolly.png" minSize="48" maxSize="48" heightOffset="1" mapVisibility="0" miniMapVisibility="0"/>
+
+		<!-- Wikk's Gate - Porte de Wikk -->
+		<POI MapID="29" xpos="-566.534" ypos="29.2278" zpos="138.23" type="guild_missions.treks.w.wikk_s_gate" GUID="lLBtrUFD402ZbGFlAN3oqQ==" fadeNear="1500" fadeFar="2500"/>
+		<POI MapID="29" xpos="-566.534" ypos="30.2278" zpos="138.23" type="guild_missions.treks.w.wikk_s_gate" GUID="kwnVll+0IEuRUOrL8dM5iw==" iconFile="Img/GuildMissions/WikksGate.png" minSize="48" maxSize="48" heightOffset="1" mapVisibility="0" miniMapVisibility="0"/>
+
+		<!-- Wildflame Monitor - Surveillant de Folleflamme -->
+		<Trail type="guild_missions.treks.w.wildflame_monitor" GUID="xLqW81UhK0OqlA3xzR4JMA==" trailData="Data/GuildMissions/Treks/WildflameMonitor.trl" texture="Data/SemiLine.png" color="ffffdd00" alpha="0.8" fadeNear="1500" fadeFar="2000" animSpeed="0.5" mapDisplaySize="25"/>
+		<POI MapID="35" xpos="-429.539" ypos="50.921"  zpos="-792.762" type="guild_missions.treks.w.wildflame_monitor" GUID="9rgZSUCcQUiQaAhyGFoyKQ==" fadeNear="1500" fadeFar="2500" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="35" xpos="-429.539" ypos="51.921"  zpos="-792.762" type="guild_missions.treks.w.wildflame_monitor" GUID="JBveA4nNsUuVFtAJ5jXaUg==" iconFile="Img/GuildMissions/WildflameMonitor.png" minSize="48" maxSize="48" heightOffset="1" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="35" xpos="-475.227" ypos="74.6287" zpos="-853.375" type="guild_missions.treks.w.wildflame_monitor" GUID="Kg+DS6cU6kaplwDNARe9Dw==" fadeNear="1000" fadeFar="1500"/>
+
+		<!-- Winterknell Impasse - Impasse du Gladiver -->
+		<Trail type="guild_missions.treks.w.winterknell_impasse" GUID="vI6XOoPNdEe2t2c+FFW3rw==" trailData="Data/GuildMissions/Treks/WinterknellImpasse.trl" texture="Data/SemiLine.png" color="ffffdd00" alpha="0.8" fadeNear="1500" fadeFar="2000" animSpeed="0.5" mapDisplaySize="25"/>
+		<POI MapID="62" xpos="-62.6697" ypos="11.8374" zpos="601.397" type="guild_missions.treks.w.winterknell_impasse" GUID="IPcag97YRE2XVEr2jzinpQ==" fadeNear="1500" fadeFar="2500" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="62" xpos="-62.6697" ypos="12.8374" zpos="601.397" type="guild_missions.treks.w.winterknell_impasse" GUID="1rKaV8fiukKzqCIyxY6U4A==" iconFile="Img/GuildMissions/WinterknellImpasse.png" minSize="48" maxSize="48" heightOffset="1" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="62" xpos="0.297367" ypos="6.10311" zpos="515.295" type="guild_missions.treks.w.winterknell_impasse" GUID="yD5IJPN9jUu/faes4hsgzQ==" fadeNear="1500" fadeFar="2000"/>
+
+		<!-- Wrelk's Salon - Salon de Wrelk -->
+		<POI MapID="24" xpos="678.779" ypos="25.5036" zpos="-110.93" type="guild_missions.treks.w.wrelk_s_salon" GUID="NRgqRqW4BEuJkCSJV/6jIg==" fadeNear="1500" fadeFar="2500"/>
+		<POI MapID="24" xpos="678.779" ypos="26.5036" zpos="-110.93" type="guild_missions.treks.w.wrelk_s_salon" GUID="f0KYj5QuZkqQYtHK9pu/TQ==" iconFile="Img/GuildMissions/WrelksSalon.png" minSize="48" maxSize="48" heightOffset="1" mapVisibility="0" miniMapVisibility="0"/>
+
+	</POIs>
+</OverlayData>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+POIs: ReActif.9251
+Date: 2017/08/22
+-->
+<OverlayData>
+	<MarkerCategory name="heart_of_thorns.bassin_aurique">
+		<MarkerCategory name="coffres_d_aeronefs" DisplayName="Strongbox" iconFile="Img\CoffreMaitriseHOT.png" heightOffset="3">
+			<MarkerCategory name="endurance" DisplayName="Endurance Strongbox"/>
+			<MarkerCategory name="triomphe_d_obsidienne" DisplayName="Obsidian Triumph Strongbox"/>
+			<MarkerCategory name="coin_de_paradis" DisplayName="Slice of Sky Strongbox"/>
+			<MarkerCategory name="droit_chemin" DisplayName="Straight and Narrow Strongbox"/>
+			<MarkerCategory name="represailles_imminentes" DisplayName="Vengeance Rising Strongbox"/>
+		</MarkerCategory>	
+	</MarkerCategory>
+
+	<POIs>
+
+		<!-- "Coin de Paradis" -->
+		<POI MapID="1043" xpos="-324.098" ypos="332.123" zpos="-123.425" type="heart_of_thorns.bassin_aurique.coffres_d_aeronefs.coin_de_paradis" GUID="DfEWGb9xr0KOLP4TDopEkQ=="/>
+
+		<!-- "Droit Chemin" -->
+		<POI MapID="1043" xpos="-198.088" ypos="469.79" zpos="606.877" type="heart_of_thorns.bassin_aurique.coffres_d_aeronefs.droit_chemin" GUID="dr+tx//NREGhqa1cQI/Xhg=="/>
+
+		<!-- "Endurance" -->
+		<POI MapID="1043" xpos="-470.408" ypos="354.675" zpos="-496.26" type="heart_of_thorns.bassin_aurique.coffres_d_aeronefs.endurance" GUID="uf19EaCEmUmRkySBIc+u0Q=="/>
+
+		<!-- "Représailles Imminentes" -->
+		<POI MapID="1043" xpos="586.625" ypos="246.536" zpos="185.667" type="heart_of_thorns.bassin_aurique.coffres_d_aeronefs.represailles_imminentes" GUID="uc3yQ1/f4EiQ5Q+B1iL3Jw=="/>
+
+		<!-- "Triomphe d'Obsidienne" -->
+		<POI MapID="1043" xpos="449.02" ypos="314.264" zpos="-289.789" type="heart_of_thorns.bassin_aurique.coffres_d_aeronefs.triomphe_d_obsidienne" GUID="W1v6rCk2VE6c7O0nAKfvqA=="/>
+
+	</POIs>
+</OverlayData>

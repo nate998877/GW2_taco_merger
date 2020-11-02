@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+POIs: Cloud Strife.7492 - Xenophy.2716 - ReActif.9251
+Date: 2017/08/23
+-->
+<OverlayData>
+	<MarkerCategory name="general" DisplayName="General">
+		<MarkerCategory name="puzzles_de_saut" DisplayName="Jumping Puzzles" iconFile="Img\Guide.png" iconSize="0.75">
+			<MarkerCategory name="ricochets" DisplayName="Skipping Stones"/>
+		</MarkerCategory>
+	</MarkerCategory>
+
+	<POIs>
+
+		<!-- Début -->
+		<POI MapID="873" xpos="-7.39798" ypos="4.08713" zpos="290.831" type="general.puzzles_de_saut.debut" GUID="e/jcaqbuQ0+U3nWreMEx8g=="/>
+
+		<!-- Route -->
+		<Route MapID="873" name="Ricochets" resetposx="-7.39798" resetposy="4.08713" resetposz="290.831" resetrange="2">
+			<POI MapID="873" xpos="-10.7066" ypos="4.02029" zpos="291.191" type="general.puzzles_de_saut.ricochets" GUID="EX/CxqEfwkOOVE20IbeLsA=="/>
+			<POI MapID="873" xpos="-14.6858" ypos="5.23233" zpos="290.165" type="general.puzzles_de_saut.ricochets" GUID="UVafyYsNnEyGc3UlTEueNg=="/>
+			<POI MapID="873" xpos="-19.0252" ypos="6.39609" zpos="293.884" type="general.puzzles_de_saut.ricochets" GUID="WWU19fXwA0K1/PkCQWQwhA=="/>
+			<POI MapID="873" xpos="-21.8865" ypos="7.76096" zpos="289.194" type="general.puzzles_de_saut.ricochets" GUID="BaWgw8loL0OLbjt55ANuhw=="/>
+			<POI MapID="873" xpos="-25.3844" ypos="9.68481" zpos="290.864" type="general.puzzles_de_saut.ricochets" GUID="Cy3qrZt8ekWioNg0CsDxoA=="/>
+			<POI MapID="873" xpos="-29.6634" ypos="6.86725" zpos="296.249" type="general.puzzles_de_saut.ricochets" GUID="oWPGxPDo/EqiZmE4GyORqA=="/>
+			<POI MapID="873" xpos="-29.5755" ypos="8.32584" zpos="299.26" type="general.puzzles_de_saut.ricochets" GUID="dRdYU9exv0qXGCmik7u8Mg=="/>
+			<POI MapID="873" xpos="-32.7061" ypos="10.4324" zpos="299.776" type="general.puzzles_de_saut.ricochets" GUID="0d9Rin117UaMnrZFkZjlsA=="/>
+			<POI MapID="873" xpos="-38.5348" ypos="11.1825" zpos="303.762" type="general.puzzles_de_saut.ricochets" GUID="zhpabUR+9kKNpPhfNCz4rw=="/>
+			<POI MapID="873" xpos="-43.6379" ypos="7.5553" zpos="306.425" type="general.puzzles_de_saut.ricochets" GUID="Az4cppgg+U2nXwPwV4IsXg=="/>
+			<POI MapID="873" xpos="-49.4775" ypos="7.71311" zpos="305.518" type="general.puzzles_de_saut.ricochets" GUID="P3Cc59wA/0ePU5WAVpGW6A=="/>
+			<POI MapID="873" xpos="-56.134" ypos="5.87151" zpos="307.693" type="general.puzzles_de_saut.ricochets" GUID="TxGEYFPCoEWbpqPvacJnRQ=="/>
+			<POI MapID="873" xpos="-61.7904" ypos="5.40494" zpos="310.681" type="general.puzzles_de_saut.ricochets" GUID="kpakje2cAEqahjxDeoB9RA=="/>
+			<POI MapID="873" xpos="-64.3584" ypos="7.19267" zpos="312.471" type="general.puzzles_de_saut.ricochets" GUID="T3Qw5327UUGDAVkk+MMCOw=="/>
+			<POI MapID="873" xpos="-69.1504" ypos="8.45915" zpos="316.862" type="general.puzzles_de_saut.ricochets" GUID="hH1fY2QCeUyxnGaTA+nM/g=="/>
+			<POI MapID="873" xpos="-74.1497" ypos="8.33547" zpos="321.802" type="general.puzzles_de_saut.ricochets" GUID="JMmecFM4C0uLYaWEAfiIpA=="/>
+			<POI MapID="873" xpos="-81.7361" ypos="8.25753" zpos="322.47" type="general.puzzles_de_saut.ricochets" GUID="98JcRqevdke1sLC+76rtBQ=="/>
+			<POI MapID="873" xpos="-85.1526" ypos="9.981" zpos="323.59" type="general.puzzles_de_saut.ricochets" GUID="CFSGdKuHx0yYbLOA6g+I8g=="/>
+			<POI MapID="873" xpos="-93.1332" ypos="9.40753" zpos="326.801" type="general.puzzles_de_saut.ricochets" GUID="aBPk6Og5wEihWQ+1rSK7lQ=="/>
+			<POI MapID="873" xpos="-98.6745" ypos="11.0329" zpos="326.899" type="general.puzzles_de_saut.ricochets" GUID="8h48xUHDDU6U5TwDTSHBXg=="/>
+			<POI MapID="873" xpos="-99.8342" ypos="13.0408" zpos="329.823" type="general.puzzles_de_saut.ricochets" GUID="I3ZLc3N29kqG5Jgqlh4a2w=="/>
+			<POI MapID="873" xpos="-104.977" ypos="15.6207" zpos="330.035" type="general.puzzles_de_saut.ricochets" GUID="fDthDl5wF0WfvEPzgQoU/A=="/>
+			<POI MapID="873" xpos="-112.81" ypos="17.0411" zpos="328.433" type="general.puzzles_de_saut.ricochets" GUID="MAtc1+T1DUK9EITgV0suQA=="/>
+			<POI MapID="873" xpos="-115.016" ypos="18.8572" zpos="333.521" type="general.puzzles_de_saut.ricochets" GUID="tOftna0LrEitmjbZvS51NQ=="/>
+			<POI MapID="873" xpos="-111.164" ypos="20.7442" zpos="332.167" type="general.puzzles_de_saut.ricochets" GUID="ny/Rg3U0Hk+pl4BWl2Xt0Q=="/>
+			<POI MapID="873" xpos="-111.921" ypos="23.5952" zpos="336.642" type="general.puzzles_de_saut.ricochets" GUID="ac5/xJAobk+KkwCNMBLJAg=="/>
+			<POI MapID="873" xpos="-112.297" ypos="28.3459" zpos="347.06" type="general.puzzles_de_saut.ricochets" GUID="RRNoYH+HnkeRrQnw7aHedA=="/>
+			<POI MapID="873" xpos="-115.957" ypos="32.5856" zpos="350.456" type="general.puzzles_de_saut.ricochets" GUID="Inb9OlNZK0m8PT0Dm6ePSA=="/>
+			<POI MapID="873" xpos="-116.686" ypos="31.9583" zpos="358.133" type="general.puzzles_de_saut.ricochets" GUID="kWEt3ackZ0edcDkrSM+eXQ=="/>
+			<POI MapID="873" xpos="-120.454" ypos="29.2092" zpos="366.928" type="general.puzzles_de_saut.ricochets" GUID="SRqPDSZKCUiGYLi8JouXug=="/>
+			<POI MapID="873" xpos="-122.358" ypos="25.4169" zpos="374.82" type="general.puzzles_de_saut.ricochets" GUID="CrUrcEiGxkygFHjTrERdpQ=="/>
+			<POI MapID="873" xpos="-128.66" ypos="26.6127" zpos="376.373" type="general.puzzles_de_saut.ricochets" GUID="g/LpH9YQSUeN2iH4bjfbeg=="/>
+			<POI MapID="873" xpos="-134.356" ypos="19.3967" zpos="383.201" type="general.puzzles_de_saut.ricochets" GUID="0Ym41mv6eEe28yNs+Te6Cw=="/>
+			<POI MapID="873" xpos="-138.502" ypos="15.6022" zpos="387.778" type="general.puzzles_de_saut.ricochets" GUID="lzqXUBdB2kmO6ENMzOp3Wg=="/>
+			<POI MapID="873" xpos="-139.234" ypos="12.2523" zpos="391.506" type="general.puzzles_de_saut.ricochets" GUID="jEDZdG+es0GoA6hozeiRZg=="/>
+			<POI MapID="873" xpos="-142.249" ypos="9.76398" zpos="397.032" type="general.puzzles_de_saut.ricochets" GUID="+UtJ4r398US26uUBVGpTeg=="/>
+			<POI MapID="873" xpos="-148.877" ypos="8.96964" zpos="400.785" type="general.puzzles_de_saut.ricochets" GUID="KQcohAcjFUKGZNE72z1vvw=="/>
+			<POI MapID="873" xpos="-153.687" ypos="10.4428" zpos="403.577" type="general.puzzles_de_saut.ricochets" GUID="jvqXhFQD/06eHPI+Qcn/8g=="/>
+			<POI MapID="873" xpos="-160.536" ypos="7.03921" zpos="402.074" type="general.puzzles_de_saut.ricochets" GUID="CyMMCxpyxE2QyM1v7pf9lA=="/>
+			<POI MapID="873" xpos="-170.182" ypos="7.21667" zpos="402.339" type="general.puzzles_de_saut.ricochets" GUID="mjSbVrgp60W2tuPkK2OplA=="/>
+			<POI MapID="873" xpos="-176.177" ypos="9.50542" zpos="400.853" type="general.puzzles_de_saut.ricochets" GUID="mX3fO30bUk6VdAnMQCr87w=="/>
+			<POI MapID="873" xpos="-182.862" ypos="9.81461" zpos="398.305" type="general.puzzles_de_saut.ricochets" GUID="5OMSoJmpkECQzmfuUigSsQ=="/>
+			<POI MapID="873" xpos="-188.027" ypos="11.2173" zpos="399.823" type="general.puzzles_de_saut.ricochets" GUID="Vv2IjLqmRUiAhkL8JF7qyg=="/>
+			<POI MapID="873" xpos="-192.805" ypos="8.53921" zpos="402.437" type="general.puzzles_de_saut.ricochets" GUID="1fdV3mojTEG0w1sQOAVcTQ=="/>
+			<POI MapID="873" xpos="-197.808" ypos="9.4078" zpos="403.304" type="general.puzzles_de_saut.ricochets" GUID="XCtlfd054EC8cnm/naJXRA=="/>
+			<POI MapID="873" xpos="-202.488" ypos="11.5416" zpos="404.98" type="general.puzzles_de_saut.ricochets" GUID="QjRvQz0T7UGxn8AUaXKhRg=="/>
+			<POI MapID="873" xpos="-206.689" ypos="12.9481" zpos="405.657" type="general.puzzles_de_saut.ricochets" GUID="bI79zKUvL0OJzUEgrzMe4g=="/>
+			<POI MapID="873" xpos="-212.724" ypos="14.2794" zpos="404.065" type="general.puzzles_de_saut.ricochets" GUID="79UBs89zekioS9XJbL6CHg=="/>
+			<POI MapID="873" xpos="-219.381" ypos="13.2572" zpos="405.475" type="general.puzzles_de_saut.ricochets" GUID="H8PwfqfuTE6iIzD1yH7KcQ=="/>
+			<POI MapID="873" xpos="-223.217" ypos="13.0373" zpos="403.598" type="general.puzzles_de_saut.ricochets" GUID="WllNxm7BHkqX2vJW0pUPTw=="/>
+			<POI MapID="873" xpos="-225.986" ypos="13.8488" zpos="404.944" type="general.puzzles_de_saut.ricochets" GUID="GD6Io7gn+UioCicMuC4dQA=="/>
+			<POI MapID="873" xpos="-227.877" ypos="15.3702" zpos="402.611" type="general.puzzles_de_saut.ricochets" GUID="rcBW5NJJNUqLRRdetahJfg=="/>
+			<POI MapID="873" xpos="-230.436" ypos="13.9103" zpos="397.818" type="general.puzzles_de_saut.ricochets" GUID="88418K/qA0CnryB+zP+mrg=="/>
+			<POI MapID="873" xpos="-238.487" ypos="18.18" zpos="399.535" type="general.puzzles_de_saut.ricochets" GUID="/mxkKGMJ0kKTrdfirtaaqw=="/>
+			<POI MapID="873" xpos="-246.968" ypos="21.8028" zpos="403.328" type="general.puzzles_de_saut.ricochets" GUID="zSKmkQZXNUyIf0RA2QmnPA=="/>
+			<POI MapID="873" xpos="-258.424" ypos="23.507" zpos="402.314" type="general.puzzles_de_saut.ricochets" GUID="N5g+p5bJ1kmqEzsWToxLfA=="/>
+			<POI MapID="873" xpos="-267.45" ypos="23.2507" zpos="395.992" type="general.puzzles_de_saut.ricochets" GUID="UKyADVCfqEGwM3s2LpFvZA=="/>
+			<POI MapID="873" xpos="-272.456" ypos="21.8264" zpos="391.463" type="general.puzzles_de_saut.ricochets" GUID="KNS6JWEBekOsNzN4rb+m8w=="/>
+			<POI MapID="873" xpos="-276.542" ypos="21.9872" zpos="383.194" type="general.puzzles_de_saut.ricochets" GUID="Z2hc8ZXJmkKpKp6f47I4IA=="/>
+			<POI MapID="873" xpos="-279.691" ypos="23.7773" zpos="378.153" type="general.puzzles_de_saut.ricochets" GUID="erz/B1icYk+TqtiuUGZcPw=="/>
+			<POI MapID="873" xpos="-282.546" ypos="25.9755" zpos="373.989" type="general.puzzles_de_saut.ricochets" GUID="u5E+BXspGE6qEab9Pk5lxw=="/>
+			<POI MapID="873" xpos="-287.613" ypos="27.6587" zpos="373.631" type="general.puzzles_de_saut.ricochets" GUID="7F8Vvo3KSkaKGJ+pV+AeLA=="/>
+			<POI MapID="873" xpos="-292.394" ypos="29.0133" zpos="371.614" type="general.puzzles_de_saut.ricochets" GUID="RbJII/UALEmGsBu7p41Yrw=="/>
+			<POI MapID="873" xpos="-295.29" ypos="29.1684" zpos="364.61" type="general.puzzles_de_saut.ricochets" GUID="E1y1VBnIgE2SzG+pc2tZRA=="/>
+			<POI MapID="873" xpos="-294.907" ypos="29.2351" zpos="358.274" type="general.puzzles_de_saut.ricochets" GUID="z0CtxZL9QkW6IXlaDelO5Q=="/>
+			<POI MapID="873" xpos="-293.543" ypos="33.1818" zpos="356.607" type="general.puzzles_de_saut.ricochets" GUID="rhJurxJYfEaReayeMPd5yw=="/>
+			<POI MapID="873" xpos="-294.546" ypos="34.538" zpos="361.803" type="general.puzzles_de_saut.ricochets" GUID="BlHJNS0Zl0+HfkdykZGo3g=="/>
+			<POI MapID="873" xpos="-294.947" ypos="34.445" zpos="365.754" type="general.puzzles_de_saut.ricochets" GUID="uayV6BDGek+5sg9jK/7mNw=="/>
+			<POI MapID="873" xpos="-290.645" ypos="35.8353" zpos="368.407" type="general.puzzles_de_saut.ricochets" GUID="VQR/6tdZR0WVOPrVobLZsA=="/>
+			<POI MapID="873" xpos="-289.697" ypos="40.568" zpos="362.259" type="general.puzzles_de_saut.ricochets" GUID="LrCtReM26UaA85MlKDLk+Q=="/>
+			<POI MapID="873" xpos="-283.284" ypos="45.2519" zpos="357.225" type="general.puzzles_de_saut.ricochets" GUID="kJio0Xx4T0W6qgFfy8BYkQ=="/>
+			<POI MapID="873" xpos="-280.356" ypos="46.8514" zpos="356.996" type="general.puzzles_de_saut.ricochets" GUID="DbleYrWUrEahbSsd14muLQ=="/>
+			<POI MapID="873" xpos="-282.948" ypos="48.3613" zpos="362.675" type="general.puzzles_de_saut.ricochets" GUID="+eq+ca9J9EmdRPIo77tuhQ=="/>
+			<POI MapID="873" xpos="-283.062" ypos="49.9507" zpos="367.314" type="general.puzzles_de_saut.ricochets" GUID="R/iD+hsi0kuxhZh1WMlQbg=="/>
+			<POI MapID="873" xpos="-279.527" ypos="51.9051" zpos="368.91" type="general.puzzles_de_saut.ricochets" GUID="h1RbqIBTcUCmvabmIcdZcQ=="/>
+			<POI MapID="873" xpos="-269.219" ypos="49.7706" zpos="372.778" type="general.puzzles_de_saut.ricochets" GUID="wQVOIuM99EudKIJIgzYt1g=="/>
+			<POI MapID="873" xpos="-261.387" ypos="51.9887" zpos="374.521" type="general.puzzles_de_saut.ricochets" GUID="J6EKIvmyw0Oh1AqGwL7xJQ=="/>
+			<POI MapID="873" xpos="-251.587" ypos="52.7014" zpos="365.519" type="general.puzzles_de_saut.ricochets" GUID="6zBCqhT1VECtLz3KXYedSA=="/>
+			<POI MapID="873" xpos="-251.552" ypos="55.5154" zpos="358.148" type="general.puzzles_de_saut.ricochets" GUID="FdOs2y1xYUaJiCS9ePZrCQ=="/>
+			<POI MapID="873" xpos="-247.63" ypos="58.694" zpos="361.423" type="general.puzzles_de_saut.ricochets" GUID="WUb4xnok4U+v7mWr7Npcow=="/>
+			<POI MapID="873" xpos="-244.097" ypos="60.0335" zpos="365.189" type="general.puzzles_de_saut.ricochets" GUID="safRopKEskmpS61y3jsBag=="/>
+			<POI MapID="873" xpos="-243.573" ypos="62.9358" zpos="358.822" type="general.puzzles_de_saut.ricochets" GUID="8Hqgkep1N0Wn1O12v8GZaQ=="/>
+			<POI MapID="873" xpos="-246.508" ypos="66.139" zpos="351.969" type="general.puzzles_de_saut.ricochets" GUID="IMfTdP6Q6kO7z4WOSz48nA=="/>
+			<POI MapID="873" xpos="-249.684" ypos="69.5786" zpos="345.355" type="general.puzzles_de_saut.ricochets" GUID="Ba0Y9I8uuUevxJv0D2/yQg=="/>
+			<POI MapID="873" xpos="-251.047" ypos="73.0683" zpos="336.483" type="general.puzzles_de_saut.ricochets" GUID="BsdN1ziZf0GBKbXxZhUBpw=="/>
+			<POI MapID="873" xpos="-256.731" ypos="76.3183" zpos="331.643" type="general.puzzles_de_saut.ricochets" GUID="PHEjWnOujU2y9ctmdmxjrQ=="/>
+			<POI MapID="873" xpos="-261.105" ypos="72.625" zpos="322.502" type="general.puzzles_de_saut.ricochets" GUID="WPImsPyz/0OxvotXE8NAJA=="/>
+			<POI MapID="873" xpos="-264.486" ypos="72.6038" zpos="315.101" type="general.puzzles_de_saut.ricochets" GUID="l9VOAxBVjE+cUGWtjZYsyw=="/>
+			<POI MapID="873" xpos="-270.93" ypos="71.4286" zpos="308.618" type="general.puzzles_de_saut.ricochets" GUID="Cu3yh+WmO0WvF6nXjqkSzg=="/>
+			<POI MapID="873" xpos="-278.896" ypos="72.0772" zpos="302.232" type="general.puzzles_de_saut.ricochets" GUID="ARCblZcYbkemiw9smQL+lQ=="/>
+			<POI MapID="873" xpos="-285.769" ypos="71.763" zpos="299.562" type="general.puzzles_de_saut.ricochets" GUID="CrryTLMMF0qSRpxEUJ+pDQ=="/>
+			<POI MapID="873" xpos="-289.307" ypos="65.7965" zpos="305" type="general.puzzles_de_saut.ricochets" GUID="zwIWguRzk0eKeHbB2cEmHA=="/>
+			<POI MapID="873" xpos="-296.411" ypos="60.4453" zpos="311.392" type="general.puzzles_de_saut.ricochets" GUID="2+5TVWfSq0eMwtRjhYFJCg=="/>
+			<POI MapID="873" xpos="-302.311" ypos="62.6934" zpos="301" type="general.puzzles_de_saut.ricochets" GUID="AwFQZ30zZUyyk0H1WRLWBw=="/>
+			<POI MapID="873" xpos="-315.232" ypos="49.5493" zpos="300.141" type="general.puzzles_de_saut.ricochets" GUID="QMMyUvbAFkKOY8wpGFEm+w=="/>
+			<POI MapID="873" xpos="-323.23" ypos="50.5275" zpos="298.212" type="general.puzzles_de_saut.ricochets" GUID="p9mknfbJG0i0cgZDZc1OhA=="/>
+			<POI MapID="873" xpos="-327.443" ypos="42.0027" zpos="304.686" type="general.puzzles_de_saut.ricochets" GUID="TI8i+mJJ8Ua1WntToqXXoQ=="/>
+			<POI MapID="873" xpos="-338.799" ypos="36.6361" zpos="303.687" type="general.puzzles_de_saut.ricochets" GUID="0pOsMTevLUeqx/SIoOGjQA=="/>
+			<POI MapID="873" xpos="-348.008" ypos="35.8424" zpos="299.792" type="general.puzzles_de_saut.ricochets" GUID="c9ZpHmVzak6CMpGe7EhsmA=="/>
+			<POI MapID="873" xpos="-352.614" ypos="38.0083" zpos="293.229" type="general.puzzles_de_saut.ricochets" GUID="+0rDSs/i1kumvFElAmreUQ=="/>
+			<POI MapID="873" xpos="-348.545" ypos="42.3838" zpos="293.028" type="general.puzzles_de_saut.ricochets" GUID="7aPinPIO/E+P0cEpp9DxQg=="/>
+			<POI MapID="873" xpos="-348.436" ypos="46.453" zpos="288.368" type="general.puzzles_de_saut.ricochets" GUID="qU/d8kOb50+oyWhgF1PJQw=="/>
+			<POI MapID="873" xpos="-356.533" ypos="47.9336" zpos="289.911" type="general.puzzles_de_saut.ricochets" GUID="qzBx9lAqNE2m68LBXuSsJA=="/>
+			<POI MapID="873" xpos="-364.468" ypos="47.8586" zpos="293.975" type="general.puzzles_de_saut.ricochets" GUID="v6vyEO/YaUevkq1fVtVZ4g=="/>
+			<POI MapID="873" xpos="-372.009" ypos="45.7371" zpos="300.894" type="general.puzzles_de_saut.ricochets" GUID="smeBKsQEmkObUI1xnjWhEg=="/>
+			<POI MapID="873" xpos="-379.023" ypos="45.6667" zpos="303.589" type="general.puzzles_de_saut.ricochets" GUID="OlvjhVisHUC7O7nw4rU7sQ=="/>
+			<POI MapID="873" xpos="-383.428" ypos="45.609" zpos="304.125" type="general.puzzles_de_saut.ricochets" GUID="S9DUGYPuakezbM81/U4s4g=="/>
+			<POI MapID="873" xpos="-391.529" ypos="44.5331" zpos="304.658" type="general.puzzles_de_saut.ricochets" GUID="5dMlwJKLoE+AXzhoscIYuA=="/>
+			<POI MapID="873" xpos="-399.451" ypos="44.7007" zpos="303.176" type="general.puzzles_de_saut.ricochets" GUID="XaGFiNVW2E+wPXYhsD0HPA=="/>
+			<POI MapID="873" xpos="-406.423" ypos="44.7348" zpos="300.228" type="general.puzzles_de_saut.ricochets" GUID="3Qbz0oVPqEG2uWUG1977fA=="/>
+			<POI MapID="873" xpos="-413.725" ypos="40.2245" zpos="298.734" type="general.puzzles_de_saut.ricochets" GUID="Y7g0CXRvlUqBWB7avWoDYg=="/>
+			<POI MapID="873" xpos="-420.154" ypos="39.632" zpos="296.222" type="general.puzzles_de_saut.ricochets" GUID="0JYabKveQk2TeHSmTvIOwg=="/>
+			<POI MapID="873" xpos="-425.573" ypos="39.0532" zpos="294.445" type="general.puzzles_de_saut.ricochets" GUID="vfUdRcPkbkGLifUDq9xMIg=="/>
+			<POI MapID="873" xpos="-436.699" ypos="39.7354" zpos="285.335" type="general.puzzles_de_saut.ricochets" GUID="fwb8L9LeGUaZYodgv72+MA=="/>
+			<POI MapID="873" xpos="-441.787" ypos="39.7376" zpos="288.88" type="general.puzzles_de_saut.ricochets" GUID="VohkY28DFk+CAcnS9ja6Hg=="/>
+			<POI MapID="873" xpos="-444.944" ypos="36.7323" zpos="291.86" type="general.puzzles_de_saut.ricochets" GUID="n5AzTZ5chEGkbxsw3Vg41w=="/>
+			<POI MapID="873" xpos="-450.827" ypos="32.1049" zpos="298.387" type="general.puzzles_de_saut.ricochets" GUID="r8FWlkHT7EagHSwJ9goxvA=="/>
+			<POI MapID="873" xpos="-458.961" ypos="33.3978" zpos="302.031" type="general.puzzles_de_saut.ricochets" GUID="V7Guz3qGsEe5LPV71RM2Rg=="/>
+			<POI MapID="873" xpos="-467.697" ypos="32.6394" zpos="305.974" type="general.puzzles_de_saut.ricochets" GUID="uNEWr/xeHUukE8cEkbyVgQ=="/>
+			<POI MapID="873" xpos="-474.22" ypos="35.5745" zpos="312.574" type="general.puzzles_de_saut.ricochets" GUID="dki5ouHuw0WoOApyhOP5QA=="/>
+			<POI MapID="873" xpos="-473.078" ypos="37.5475" zpos="316.129" type="general.puzzles_de_saut.ricochets" GUID="2wplDoHRU0Gs0dbhdohGjQ=="/>
+			<POI MapID="873" xpos="-468.525" ypos="39.8738" zpos="321.031" type="general.puzzles_de_saut.ricochets" GUID="eUQXk0sMe0y2jJOqco9cRg=="/>
+			<POI MapID="873" xpos="-465.402" ypos="37.7274" zpos="333.352" type="general.puzzles_de_saut.ricochets" GUID="EiR6WNUg30ONnpGvJdaSUw=="/>
+			<POI MapID="873" xpos="-469.871" ypos="41.876" zpos="339.111" type="general.puzzles_de_saut.ricochets" GUID="IjcoxV4AZkm2mGQoJqcdEg=="/>
+			<POI MapID="873" xpos="-475.886" ypos="46.432" zpos="336.361" type="general.puzzles_de_saut.ricochets" GUID="WPgpb+75RkO4Z67gVLthOA=="/>
+			<POI MapID="873" xpos="-484.314" ypos="47.3007" zpos="334.814" type="general.puzzles_de_saut.ricochets" GUID="cOtE9XajVUeNFq0ZScyGZg=="/>
+			<POI MapID="873" xpos="-498.235" ypos="50.4115" zpos="325.863" type="general.puzzles_de_saut.ricochets" GUID="hzWPV4HsOE+/Jx0w+JjbmA=="/>
+			<POI MapID="873" xpos="-509.576" ypos="51.6908" zpos="323.776" type="general.puzzles_de_saut.ricochets" GUID="lwJ7IaxggkeuKPenuQLC8A=="/>
+			<POI MapID="873" xpos="-519.533" ypos="54.1178" zpos="316.145" type="general.puzzles_de_saut.ricochets" GUID="A+igRkeROkuqXLPBb06A1g=="/>
+			<POI MapID="873" xpos="-528.98" ypos="55.7537" zpos="310.943" type="general.puzzles_de_saut.ricochets" GUID="TzT30qN8IUyeHa1a3pU4lg=="/>
+		</Route>
+
+		<!-- Coffre -->
+		<POI MapID="873" xpos="-547.406" ypos="57.7616" zpos="298.545" type="general.puzzles_de_saut.ricochets" GUID="0RzoNLJRvUq/fIS0SH2xWw==" iconFile="Img\CoffrePuzzle.png" iconSize="1" heightOffset="2.5" behavior="2"/>
+
+	</POIs>
+</OverlayData>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+POIs: ReActif.9251
+Date: 2017/05/09
+-->
+<OverlayData>
+	<MarkerCategory name="chroniques.saison_3">
+		<MarkerCategory name="ep5_point_d_ignition" DisplayName="Ep.5 - Flashpoint" iconFile="Img\MontDraconis.png">
+			<MarkerCategory name="arachnogenese" DisplayName="Arachnogenesis"/>
+		</MarkerCategory>
+	</MarkerCategory>
+
+	<POIs>
+
+		<!-- Mère Tricotine Championne -->
+		<POI MapID="1195" xpos="-112.695" ypos="260.142" zpos="202.956" type="chroniques.saison_3.ep5_point_d_ignition.arachnogenese" GUID="qgKaMVvuuEGAF1HF95kCpw=="/>
+		<POI MapID="1195" xpos="-112.695" ypos="262.142" zpos="202.956" type="chroniques.saison_3.ep5_point_d_ignition.arachnogenese" GUID="B4RbchNY6Eaw2tn6VdmvHQ==" iconFile="Img\Combat.png" color="ffff0000"/>
+
+	</POIs>
+</OverlayData>

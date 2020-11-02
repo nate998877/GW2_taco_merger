@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+POIs: ReActif.9251
+Date: 2017/05/16
+-->
+<OverlayData>
+	<MarkerCategory name="chroniques.saison_3">
+		<MarkerCategory name="ep5_point_d_ignition" DisplayName="Ep.5 - Flashpoint" iconFile="Img\MontDraconis.png">
+			<MarkerCategory name="a_quelques_pierres_de_la_maison" DisplayName="A Henge Away from Home">
+				<MarkerCategory name="aestus" DisplayName="Element of Aestus"/>
+				<MarkerCategory name="ignis" DisplayName="Element of Ignis"/>
+				<MarkerCategory name="profanateur" DisplayName="Element of the Desecrator"/>
+				<MarkerCategory name="feu" DisplayName="Element of Fire (Metrica Province)"/>
+				<MarkerCategory name="eau" DisplayName="Element of Water (Gendarran Fields)"/>
+				<MarkerCategory name="air" DisplayName="Element of Air (Mount Maelstrom : Hidden Garden)"/>
+				<MarkerCategory name="terre" DisplayName="Element of Earth (Mount Maelstrom : Hidden Garden)"/>
+				<MarkerCategory name="kodama" DisplayName="A Storn Bouquet for Kodama (and Runestones)" heightOffset="6" behavior="0"/>
+				<MarkerCategory name="liriodendron" DisplayName="A Frozen Bouquet for Liriodendron" heightOffset="6"/>
+				<MarkerCategory name="grand_feuille" DisplayName="A Earthen Bouquet for Broadleaf" heightOffset="6"/>
+				<MarkerCategory name="bois_de_rose" DisplayName="An Infernal Bouquet Rosewood" heightOffset="6"/>
+				<MarkerCategory name="dierdre" DisplayName="Dierdre's Orchard (Mount Maelstrom : Hidden Garden)" heightOffset="4"/>
+				<MarkerCategory name="maguuma" DisplayName="Maguuma's Orchard (Dry Top)" heightOffset="3"/>
+				<MarkerCategory name="melandru" DisplayName="Melandru's Orchard (Cursed Shore)" heightOffset="3"/>
+				<MarkerCategory name="bord_de_mer" DisplayName="Seaside Propagation" heightOffset="3"/>
+				<MarkerCategory name="corniche_des_chevaucheurs_de_vent" DisplayName="Wind Rider Ledge Propagation" heightOffset="3"/>
+				<MarkerCategory name="rata_arcanum" DisplayName="Rata Arcanum Propagation" heightOffset="3"/>
+				<MarkerCategory name="corniches_de_bord_de_mer" DisplayName="Seaside Ledges Propagation" heightOffset="3"/>
+				<MarkerCategory name="nu_ii" DisplayName="Nu II Propagation" heightOffset="3"/>
+				<MarkerCategory name="grotte_ancienne" DisplayName="Ancient Hollow Propagation" heightOffset="3"/>
+			</MarkerCategory>
+		</MarkerCategory>
+	</MarkerCategory>
+
+	<POIs>
+
+		<!-- Élément d'Aestus -->
+		<POI MapID="1195" xpos="353.98" ypos="32.84" zpos="-149.86" type="chroniques.saison_3.ep5_point_d_ignition.a_quelques_pierres_de_la_maison.aestus" GUID="alfEL9Qd1k6ULAKTLCuezw=="/>
+		<POI MapID="1195" xpos="353.98" ypos="34.84" zpos="-149.86" type="chroniques.saison_3.ep5_point_d_ignition.a_quelques_pierres_de_la_maison.aestus" GUID="28La+hkS+U+zFQA+3FsgMw==" iconFile="Img\Combat.png" color="ffff0000"/>
+
+		<!-- Élément d'Ignis -->
+		<POI MapID="1195" xpos="-416.525" ypos="52.4427" zpos="20.5264" type="chroniques.saison_3.ep5_point_d_ignition.a_quelques_pierres_de_la_maison.ignis" GUID="ztD/FBXZUkS48AKzI9zxhg=="/>
+		<POI MapID="1195" xpos="-416.525" ypos="54.4427" zpos="20.5264" type="chroniques.saison_3.ep5_point_d_ignition.a_quelques_pierres_de_la_maison.ignis" GUID="/LLfAUted0C4V5egBiWU3Q==" iconFile="Img\Combat.png" color="ffff0000"/>
+
+		<!-- Élément du profanateur -->
+		<POI MapID="1195" xpos="-117.024" ypos="418.358" zpos="-273.624" type="chroniques.saison_3.ep5_point_d_ignition.a_quelques_pierres_de_la_maison.profanateur" GUID="Tv5072fW9UGoEJoTXLnbGA=="/>
+		<POI MapID="1195" xpos="-117.024" ypos="420.358" zpos="-273.624" type="chroniques.saison_3.ep5_point_d_ignition.a_quelques_pierres_de_la_maison.profanateur" GUID="hOX/uoxtYUiTkBm2brHsUQ==" iconFile="Img\Combat.png" color="ffff0000"/>
+
+		<!-- Élément de Feu (Province de Metrica) -->
+		<POI MapID="35" xpos="-386.918" ypos="48.602" zpos="-817.723" type="chroniques.saison_3.ep5_point_d_ignition.a_quelques_pierres_de_la_maison.feu" GUID="kCucox4fUk298w99ku7oJA=="/>
+
+		<!-- Élément d'Eau (Champs de Gendarran) -->
+		<POI MapID="24" xpos="1019.72" ypos="74.0103" zpos="-482.092" type="chroniques.saison_3.ep5_point_d_ignition.a_quelques_pierres_de_la_maison.eau" GUID="w90MWGEdB0aQNJbuNDyGAw=="/>
+
+		<!-- Élément d'Air (Mont Maëlstrom : Jardin Caché) -->
+		<POI MapID="39" xpos="1079.31" ypos="116.138" zpos="691.428" type="chroniques.saison_3.ep5_point_d_ignition.a_quelques_pierres_de_la_maison.air" GUID="xu28DlFTXUuul8zSjh+JaA=="/>
+
+		<!-- Élément de Terre (Mont Maëlstrom : Jardin Caché) -->
+		<POI MapID="39" xpos="1065.58" ypos="21.9847" zpos="499.103" type="chroniques.saison_3.ep5_point_d_ignition.a_quelques_pierres_de_la_maison.terre" GUID="/IgQPd9Df02+ZEZ5p8vTMQ=="/>
+
+		<!--
+		Pierre de rune d'Aestus
+		Pierre de rune d'Ignis
+		Pierre de rune de profanateur
+		Pierre de rune volcanique
+		Pierre de rune glaciale
+		Pierre de rune chargée
+		Pierre de rune de terre
+		Vision druidique
+		Un bouquet de tempête pour Kodama
+		-->
+		<POI MapID="1195" xpos="572.782" ypos="120.698" zpos="-339.958" type="chroniques.saison_3.ep5_point_d_ignition.a_quelques_pierres_de_la_maison.kodama" GUID="32X5TFmev0mfDD/6Sc4DCw=="/>
+
+		<!-- Un bouquet glacé pour Liriodendron -->
+		<POI MapID="1195" xpos="596.215" ypos="242.667" zpos="-282.229" type="chroniques.saison_3.ep5_point_d_ignition.a_quelques_pierres_de_la_maison.liriodendron" GUID="KtgBMAqXM0O6PEEU7B1JZw=="/>
+
+		<!-- Un bouquet de terre pour Grand-feuille -->
+		<POI MapID="1195" xpos="-218.089" ypos="295.841" zpos="-708.447" type="chroniques.saison_3.ep5_point_d_ignition.a_quelques_pierres_de_la_maison.grand_feuille" GUID="BD9+8d9nHEaNwknrdNKj2A=="/>
+
+		<!-- Un bouquet infernal pour Bois de rose -->
+		<POI MapID="1195" xpos="-1.22426" ypos="309.163" zpos="135.254" type="chroniques.saison_3.ep5_point_d_ignition.a_quelques_pierres_de_la_maison.bois_de_rose" GUID="T4ZwngA320GAFII4P06kUA=="/>
+
+		<!-- Verger de Dierdre (Mont Maëlstrom : Jardin Caché) -->
+		<POI MapID="39" xpos="1000.07" ypos="8.30034" zpos="541.779" type="chroniques.saison_3.ep5_point_d_ignition.a_quelques_pierres_de_la_maison.dierdre" GUID="9aIyI0tPi0ue/S281wIxtg=="/>
+
+		<!-- Verger de Maguuma (Cimesèche) -->
+		<POI MapID="988" xpos="-527.17" ypos="12.3565" zpos="-45.3098" type="chroniques.saison_3.ep5_point_d_ignition.a_quelques_pierres_de_la_maison.maguuma" GUID="kFA8rLu8pUyDI+maUpbZTg=="/>
+
+		<!-- Verger de Melandru (Rivage Maudit) -->
+		<POI MapID="62" xpos="80.0042" ypos="25.2108" zpos="365.934" type="chroniques.saison_3.ep5_point_d_ignition.a_quelques_pierres_de_la_maison.melandru" GUID="ZvyPGqtgvE2ANQXu484YUQ=="/>
+
+		<!-- Propagation de bord de mer -->
+		<POI MapID="1195" xpos="196.719" ypos="4.54491" zpos="-43.0205" type="chroniques.saison_3.ep5_point_d_ignition.a_quelques_pierres_de_la_maison.bord_de_mer" GUID="1tFiMqwOVE+7zw6EKwovlw=="/>
+
+		<!-- Propagation de la Corniche des chevaucheurs de vent -->
+		<POI MapID="1195" xpos="-402.327" ypos="206.392" zpos="-245.255" type="chroniques.saison_3.ep5_point_d_ignition.a_quelques_pierres_de_la_maison.corniche_des_chevaucheurs_de_vent" GUID="kwsJxUMi0kKmDWBlNEmnug=="/>
+
+		<!-- Propagation de Rata Arcanum -->
+		<POI MapID="1195" xpos="-517.398" ypos="457.824" zpos="-359.049" type="chroniques.saison_3.ep5_point_d_ignition.a_quelques_pierres_de_la_maison.rata_arcanum" GUID="FDsCmU9y5E6cQylhhifMUw=="/>
+
+		<!-- Propagation des corniches de bord de mer -->
+		<POI MapID="1195" xpos="481.61" ypos="109.707" zpos="-253.332" type="chroniques.saison_3.ep5_point_d_ignition.a_quelques_pierres_de_la_maison.corniches_de_bord_de_mer" GUID="jSaSHz6+KE+HlMJEVXYNOQ=="/>
+
+		<!-- Propagation de nu II -->
+		<POI MapID="1195" xpos="-407.157" ypos="497.96" zpos="-22.9114" type="chroniques.saison_3.ep5_point_d_ignition.a_quelques_pierres_de_la_maison.nu_ii" GUID="MtB4xXpvEEGmlnSoNdoqJw=="/>
+
+		<!-- Propagation de la Grotte ancienne -->
+		<POI MapID="1195" xpos="-297.656" ypos="360.144" zpos="-58.5281" type="chroniques.saison_3.ep5_point_d_ignition.a_quelques_pierres_de_la_maison.grotte_ancienne" GUID="U4r5hmdqn0qdPhImd9Re6w=="/>
+
+	</POIs>
+</OverlayData>

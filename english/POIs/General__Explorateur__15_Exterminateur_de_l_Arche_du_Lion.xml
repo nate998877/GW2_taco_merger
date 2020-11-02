@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+POIs: GW2Info.net
+Date: 2016/12/05
+-->
+<OverlayData>
+	<MarkerCategory name="general" DisplayName="General">
+		<MarkerCategory name="explorateur" DisplayName="Explorer" iconFile="Img\Explorateur.png" behavior="3">
+			<MarkerCategory name="exterminateur_de_l_arche_du_lion" DisplayName="Lion's Arch Exterminator" iconFile="Img\PetitKarka.png" iconSize="0.5"/>
+		</MarkerCategory>
+	</MarkerCategory>
+
+	<POIs>
+
+		<POI MapID="50" xpos="-291.836" ypos="31.6092" zpos="369.994" type="general.explorateur.exterminateur_de_l_arche_du_lion" GUID="10ibVp+Fq02SUkT4u1uTTg=="/>
+		<POI MapID="50" xpos="-287.403" ypos="43.5801" zpos="376.858" type="general.explorateur.exterminateur_de_l_arche_du_lion" GUID="Dyee0MosvkiyUvJ+X0c4UQ=="/>
+		<POI MapID="50" xpos="-284.801" ypos="43.5785" zpos="384.165" type="general.explorateur.exterminateur_de_l_arche_du_lion" GUID="DtxUl4h7/EGRWq1E3Yssyw=="/>
+		<POI MapID="50" xpos="-322.142" ypos="33.3706" zpos="343.739" type="general.explorateur.exterminateur_de_l_arche_du_lion" GUID="OfFZdwv64E+b9S/FR0FDxA==" fadeFar="1000" fadeNear="150"/>
+		<POI MapID="50" xpos="-322.028" ypos="24.3842" zpos="344.77" type="general.explorateur.exterminateur_de_l_arche_du_lion" GUID="tmZl2zY5rkCr5cKtfZp4tA=="/>
+		<POI MapID="50" xpos="-405.636" ypos="28.1863" zpos="373.546" type="general.explorateur.exterminateur_de_l_arche_du_lion" GUID="QPFyZwyVAU+OJUDQfPzVaQ==" fadeFar="1000" fadeNear="150"/>
+		<POI MapID="50" xpos="-405.146" ypos="21.1568" zpos="373.256" type="general.explorateur.exterminateur_de_l_arche_du_lion" GUID="4Ba/YfMs1kG0P1fxeuGLCA=="/>
+		<POI MapID="50" xpos="-353.489" ypos="28.8255" zpos="351.79" type="general.explorateur.exterminateur_de_l_arche_du_lion" GUID="kGnO4Nq/jkG+4v6SLi8f5Q=="/>
+		<POI MapID="50" xpos="-465.185" ypos="42.6846" zpos="355.613" type="general.explorateur.exterminateur_de_l_arche_du_lion" GUID="VsPJaG3Cu0SRF9yVrhd+Nw=="/>
+		<POI MapID="50" xpos="-423.619" ypos="24.177" zpos="296.432" type="general.explorateur.exterminateur_de_l_arche_du_lion" GUID="dHkhzZnj+0+vzEzmrpXWKg=="/>
+		<POI MapID="50" xpos="-421.208" ypos="7.20125" zpos="231.034" type="general.explorateur.exterminateur_de_l_arche_du_lion" GUID="SOC2/OoVWk2uHV7stxiJ5g==" fadeFar="1000" fadeNear="150"/>
+		<POI MapID="50" xpos="-424.392" ypos="4.8415" zpos="231.619" type="general.explorateur.exterminateur_de_l_arche_du_lion" GUID="xb85/NgCV0yIgQfCib9B7A=="/>
+		<POI MapID="50" xpos="-352.777" ypos="10.79019" zpos="63.3278" type="general.explorateur.exterminateur_de_l_arche_du_lion" GUID="X++5V2pLhEGbzpWKTFwHrw==" fadeFar="1000" fadeNear="150"/>
+		<POI MapID="50" xpos="-352.777" ypos="5.79019" zpos="63.3278" type="general.explorateur.exterminateur_de_l_arche_du_lion" GUID="X++5V1pLhEGbzpWKTFwHrw=="/>
+		<POI MapID="50" xpos="-356.048" ypos="0.691854" zpos="154.793" type="general.explorateur.exterminateur_de_l_arche_du_lion" GUID="vVZlihbCbEqoz3Lu0m80dQ=="/>
+		<POI MapID="50" xpos="-290.42" ypos="38.0713" zpos="228.596" type="general.explorateur.exterminateur_de_l_arche_du_lion" GUID="SlFi5Qc19UC3D/JTDscDKg=="/>
+		<POI MapID="50" xpos="-279.536" ypos="41.0" zpos="222.872" type="general.explorateur.exterminateur_de_l_arche_du_lion" GUID="eGpSB01y0kytgqQNP5lUfg==" fadeFar="1000" fadeNear="150"/>
+		<POI MapID="50" xpos="-347.252" ypos="18.1034" zpos="341.145" type="general.explorateur.exterminateur_de_l_arche_du_lion" GUID="7vpxiFAygkCzfNldrnZM1Q=="/>
+		<POI MapID="50" xpos="-562.793" ypos="29.1321" zpos="2.33175" type="general.explorateur.exterminateur_de_l_arche_du_lion" GUID="CWFeuyBDHUCiVpvH39xTPQ=="/>
+		<POI MapID="50" xpos="-539.422" ypos="0.655822" zpos="-45.2312" type="general.explorateur.exterminateur_de_l_arche_du_lion" GUID="dKdCjPv750CsZJcnH4mLpQ=="/>
+		<POI MapID="50" xpos="-614.492" ypos="40.0096" zpos="-74.1553" type="general.explorateur.exterminateur_de_l_arche_du_lion" GUID="56oCBUirmEGxJHi+s+TgzQ=="/>
+		<POI MapID="50" xpos="-500.45" ypos="76.4714" zpos="-161.992" type="general.explorateur.exterminateur_de_l_arche_du_lion" GUID="WCfiUBpiG0q3ut9cUHgtRQ=="/>
+		<POI MapID="50" xpos="-532.557" ypos="63.9313" zpos="-140.739" type="general.explorateur.exterminateur_de_l_arche_du_lion" GUID="cUosCkJ2vEiU/hf/bWhuKw=="/>
+		<POI MapID="50" xpos="-531.786" ypos="3.59049" zpos="-169.05" type="general.explorateur.exterminateur_de_l_arche_du_lion" GUID="RKssamHnPkmAa8IA8qZ9MA=="/>
+		<POI MapID="50" xpos="-522.937" ypos="7.93073" zpos="-203.858" type="general.explorateur.exterminateur_de_l_arche_du_lion" GUID="Y47/3ckhSkiURo3cY7EPGQ=="/>
+		<POI MapID="50" xpos="-533.937" ypos="26.93073" zpos="-192.858" type="general.explorateur.exterminateur_de_l_arche_du_lion" GUID="Y57/3ckhSkiURo3cY7EPGQ==" fadeFar="2500" fadeNear="150"/>
+		<POI MapID="50" xpos="-13.3549" ypos="40.0763" zpos="330.331" type="general.explorateur.exterminateur_de_l_arche_du_lion" GUID="rKjIXsGipUW7sz3Fcyqvtg==" fadeFar="2500" fadeNear="150"/>
+		<POI MapID="50" xpos="4.25952" ypos="22.8775" zpos="339.831" type="general.explorateur.exterminateur_de_l_arche_du_lion" GUID="1Hcf+Q1I5U+BM8PEEyFPDg=="/>
+		<POI MapID="50" xpos="97.163" ypos="24.3796" zpos="305.376" type="general.explorateur.exterminateur_de_l_arche_du_lion" GUID="Wx+w29gm9kK8H9ImnYqw7g=="/>
+		<POI MapID="50" xpos="97.163" ypos="28.8796" zpos="305.376" type="general.explorateur.exterminateur_de_l_arche_du_lion" GUID="Wx+w19gm9kK8H9ImnYqw7g==" fadeFar="1000" fadeNear="150"/>
+		<POI MapID="50" xpos="224.023" ypos="27.2676" zpos="210.789" type="general.explorateur.exterminateur_de_l_arche_du_lion" GUID="y+rq0Yd+UUGxBgHU0gI+qA=="/>
+		<POI MapID="50" xpos="240.82" ypos="42.5096" zpos="207.623" type="general.explorateur.exterminateur_de_l_arche_du_lion" GUID="h6zhCSZ50E2GxQUU4N4ddA==" fadeFar="2500" fadeNear="150"/>
+		<POI MapID="50" xpos="312.515" ypos="11.111" zpos="139.877" type="general.explorateur.exterminateur_de_l_arche_du_lion" GUID="3b/P6V0SlUOiZJZt5RovgQ==" fadeFar="1500" fadeNear="150"/>
+		<POI MapID="50" xpos="309.434" ypos="1.48946" zpos="127.491" type="general.explorateur.exterminateur_de_l_arche_du_lion" GUID="RlG4gaLST0GmQp0kZT2MbA=="/>
+		<POI MapID="50" xpos="347.643" ypos="10.8987" zpos="281.509" type="general.explorateur.exterminateur_de_l_arche_du_lion" GUID="kPjdCgKcO0SWSQZbPq1Liw=="/>
+		<POI MapID="50" xpos="259.017" ypos="-0.390557" zpos="361.18" type="general.explorateur.exterminateur_de_l_arche_du_lion" GUID="9fazD4V6PEm0M9VzsjAGEA=="/>
+		<POI MapID="50" xpos="368.76" ypos="35.9967" zpos="335.845" type="general.explorateur.exterminateur_de_l_arche_du_lion" GUID="9ERUjORXLEyn61TtmawgGw=="/>
+		<POI MapID="50" xpos="381.95" ypos="26.5268" zpos="416.996" type="general.explorateur.exterminateur_de_l_arche_du_lion" GUID="OTgijGkhjU6ctDi8iDp4GQ=="/>
+		<POI MapID="50" xpos="344.088" ypos="28.0183" zpos="429.114" type="general.explorateur.exterminateur_de_l_arche_du_lion" GUID="otqqdeTKq02TZvERh78fbA==" fadeFar="1500" fadeNear="150"/>
+		<POI MapID="50" xpos="340.359" ypos="20.6603" zpos="428.405" type="general.explorateur.exterminateur_de_l_arche_du_lion" GUID="lp77RM9r9ECSxJg4SO/a+w=="/>
+		<POI MapID="50" xpos="437.067" ypos="0.342828" zpos="238.305" type="general.explorateur.exterminateur_de_l_arche_du_lion" GUID="UOi957JRWU23761DeJYsxA=="/>
+		<POI MapID="50" xpos="425.296" ypos="4.12659" zpos="187.054" type="general.explorateur.exterminateur_de_l_arche_du_lion" GUID="Ig6E5Cs2eE65KIuQx3y55A=="/>
+		<POI MapID="50" xpos="586.83" ypos="15.7962" zpos="382.994" type="general.explorateur.exterminateur_de_l_arche_du_lion" GUID="p47fJLJ+WEqPu0QhBCT5Sw=="/>
+		<POI MapID="50" xpos="664.626" ypos="24.3112" zpos="241.922" type="general.explorateur.exterminateur_de_l_arche_du_lion" GUID="vWV9YVtjkEKAYAzypJDgUQ=="/>
+		<POI MapID="50" xpos="662.385" ypos="29.1431" zpos="251.27" type="general.explorateur.exterminateur_de_l_arche_du_lion" GUID="t1Mlbu7yskatENHTNvjGRA==" fadeFar="1500" fadeNear="150"/>
+		<POI MapID="50" xpos="696.88" ypos="44.4949" zpos="271.464" type="general.explorateur.exterminateur_de_l_arche_du_lion" GUID="L/sGTeXVEk+hnleeZBNtOA==" fadeFar="1500" fadeNear="150"/>
+		<POI MapID="50" xpos="694.88" ypos="39.4949" zpos="271.464" type="general.explorateur.exterminateur_de_l_arche_du_lion" GUID="rSwBFOHUU0GvlfQfXO8/Qg=="/>
+		<POI MapID="50" xpos="384.377" ypos="28.679" zpos="-85.7168" type="general.explorateur.exterminateur_de_l_arche_du_lion" GUID="RSTGuT+6p0KZk5yTve/1Lg=="/>
+		<POI MapID="50" xpos="372.938" ypos="11.3511" zpos="-5.98547" type="general.explorateur.exterminateur_de_l_arche_du_lion" GUID="cznLtFnKBkyioMDO2LZMkg=="/>
+		<POI MapID="50" xpos="-62.728" ypos="5.24861" zpos="-33.0841" type="general.explorateur.exterminateur_de_l_arche_du_lion" GUID="QElmgvCqK0yvgzfpYlCxlA==" fadeFar="1500" fadeNear="150"/>
+		<POI MapID="50" xpos="-65.4359" ypos="1.03171" zpos="-51.1696" type="general.explorateur.exterminateur_de_l_arche_du_lion" GUID="3eGDjcJcFUiUdmiee5fxaw=="/>
+		<POI MapID="50" xpos="-141.774" ypos="33.8655" zpos="-357.046" type="general.explorateur.exterminateur_de_l_arche_du_lion" GUID="D13CYjPImU+Jv7VJyU1hgw=="/>
+		<POI MapID="50" xpos="-149.659" ypos="10.54665" zpos="-361.172" type="general.explorateur.exterminateur_de_l_arche_du_lion" GUID="EhkJ+vMSBEGSCV0M1cG5Rg==" fadeFar="1500" fadeNear="150"/>
+		<POI MapID="50" xpos="-145.148" ypos="-0.536072" zpos="-354.077" type="general.explorateur.exterminateur_de_l_arche_du_lion" GUID="cuYdMZ7RRUmMn70QbkqQ7Q=="/>
+		<POI MapID="50" xpos="-324.352" ypos="58.2179" zpos="-379.428" type="general.explorateur.exterminateur_de_l_arche_du_lion" GUID="QlnT541rLEup3P062F8R5g==" fadeNear="150" fadeFar="2000"/>
+		<POI MapID="50" xpos="-311.322" ypos="58.4081" zpos="-355.537" type="general.explorateur.exterminateur_de_l_arche_du_lion" GUID="bWEG1n/WgEyK9JYzzSxwew=="/>
+		<POI MapID="50" xpos="-311.532" ypos="-0.0553422" zpos="-388.026" type="general.explorateur.exterminateur_de_l_arche_du_lion" GUID="VKPUAoErqEWGntX8sOVBHQ=="/>
+		<POI MapID="50" xpos="460.026" ypos="2.5283" zpos="-322.38" type="general.explorateur.exterminateur_de_l_arche_du_lion" GUID="qSIYgpZgi0OOT80XUK1xAw==" fadeNear="150" fadeFar="1500"/>
+		<POI MapID="50" xpos="451.94" ypos="-0.52832" zpos="-321.268" type="general.explorateur.exterminateur_de_l_arche_du_lion" GUID="ryXJ99CbC06XVV849DI9eQ=="/>
+		<POI MapID="50" xpos="445.448" ypos="16.1707" zpos="-315.836" type="general.explorateur.exterminateur_de_l_arche_du_lion" GUID="EeIcpAm+qE+aMeCw6OuH0A==" fadeNear="150" fadeFar="1500"/>
+		<POI MapID="50" xpos="465.702" ypos="25.4834" zpos="-278.442" type="general.explorateur.exterminateur_de_l_arche_du_lion" GUID="A2Kd+KmDI06UJHz8RN4jvw=="/>
+		<POI MapID="50" xpos="524.684" ypos="13.0867498" zpos="-378.124" type="general.explorateur.exterminateur_de_l_arche_du_lion" GUID="30qZo+dDgU2Vclh6uanp8w==" fadeNear="150" fadeFar="1500"/>
+		<POI MapID="50" xpos="516.922" ypos="-0.391842" zpos="-376.386" type="general.explorateur.exterminateur_de_l_arche_du_lion" GUID="JI843472s0+kOZ0XYros9w=="/>
+		<POI MapID="50" xpos="675.137" ypos="14.3739" zpos="-434.881" type="general.explorateur.exterminateur_de_l_arche_du_lion" GUID="knEKeo2p20iRtFUqWV8A+A==" fadeNear="150" fadeFar="1500"/>
+		<POI MapID="50" xpos="673.626" ypos="-1.05638" zpos="-433.341" type="general.explorateur.exterminateur_de_l_arche_du_lion" GUID="AxyU+8MhIkWK4xT/NGNlBQ=="/>
+		<POI MapID="50" xpos="712.285" ypos="30.046" zpos="-395.542" type="general.explorateur.exterminateur_de_l_arche_du_lion" GUID="jEjqmNSTwk6GaxdWaZagrQ=="/>
+		<POI MapID="50" xpos="684.199" ypos="62.4882" zpos="-358.994" type="general.explorateur.exterminateur_de_l_arche_du_lion" GUID="F/AjGiuVgUuqS6eboXibcg=="/>
+		<POI MapID="50" xpos="718.896" ypos="69.8202" zpos="-329.219" type="general.explorateur.exterminateur_de_l_arche_du_lion" GUID="8pLTa3K4HkWR6mMvZlx2Og=="/>
+		<POI MapID="50" xpos="603.677" ypos="41.874" zpos="-343.994" type="general.explorateur.exterminateur_de_l_arche_du_lion" GUID="cOyMNiveuUW86QopNgNC/A==" fadeNear="150" fadeFar="1500"/>
+
+	</POIs>
+</OverlayData>

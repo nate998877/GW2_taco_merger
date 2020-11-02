@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+POIs: Cloud Strife.7492 - Xenophy.2716 - ReActif.9251
+Date: 2017/08/23
+-->
+<OverlayData>
+	<MarkerCategory name="general" DisplayName="General">
+		<MarkerCategory name="puzzles_de_saut" DisplayName="Jumping Puzzles" iconFile="Img\Guide.png" iconSize="0.75">
+			<MarkerCategory name="revanche_de_weyandt" DisplayName="Weyandt's Revenge"/>
+		</MarkerCategory>
+	</MarkerCategory>
+
+	<POIs>
+
+		<!-- Début -->
+		<POI MapID="50" xpos="504.684" ypos="41.485" zpos="-205.951" type="general.puzzles_de_saut.debut" GUID="GNPuqwBapkuxyL+qFQ3LaA=="/>
+
+		<!-- Route -->
+		<Route MapID="50" name="Revanche_de_Weyandt" resetposx="504.684" resetposy="41.485" resetposz="-205.951" resetrange="2">
+			<POI MapID="50" xpos="498.044" ypos="41.447" zpos="-207.154" type="general.puzzles_de_saut.revanche_de_weyandt" GUID="XO7ms5n3+ESHDCiv5MfBmw=="/>
+			<POI MapID="50" xpos="489.835" ypos="41.4681" zpos="-208.642" type="general.puzzles_de_saut.revanche_de_weyandt" GUID="1dHQX8SXKUaSov3kgxSdJQ=="/>
+			<POI MapID="50" xpos="482.409" ypos="41.5574" zpos="-209.988" type="general.puzzles_de_saut.revanche_de_weyandt" GUID="X8vmCEQitUy7tuExPEfbbQ=="/>
+			<POI MapID="50" xpos="481.168" ypos="41.3737" zpos="-218.67" type="general.puzzles_de_saut.revanche_de_weyandt" GUID="2kVf5sbEakSRSU3HO3SZpg=="/>
+			<POI MapID="50" xpos="480.772" ypos="41.3927" zpos="-226.035" type="general.puzzles_de_saut.revanche_de_weyandt" GUID="uxtqo7gjPkSSKF2KhLDYhw=="/>
+			<POI MapID="50" xpos="484.632" ypos="42.782" zpos="-234.626" type="general.puzzles_de_saut.revanche_de_weyandt" GUID="iEbXUWKpE0+ahqkPuGLFoA=="/>
+			<POI MapID="50" xpos="488.707" ypos="43.3624" zpos="-238.265" type="general.puzzles_de_saut.revanche_de_weyandt" GUID="IXFcR+hRaUe9YbhHh3kRCw=="/>
+			<POI MapID="50" xpos="491.855" ypos="45.7506" zpos="-235.503" type="general.puzzles_de_saut.revanche_de_weyandt" GUID="7G86Yl9i5Uuha5CEd4FJjQ=="/>
+			<POI MapID="50" xpos="495.536" ypos="49.3737" zpos="-234.562" type="general.puzzles_de_saut.revanche_de_weyandt" GUID="8QNBZsQchkSi/tChk5ZmZQ=="/>
+			<POI MapID="50" xpos="505.297" ypos="42.5333" zpos="-231.655" type="general.puzzles_de_saut.revanche_de_weyandt" GUID="uPJXjnHesEi7WfKBPc6byg=="/>
+			<POI MapID="50" xpos="508.637" ypos="43.8439" zpos="-241.731" type="general.puzzles_de_saut.revanche_de_weyandt" GUID="Laao1h6B2U+07tl6pMxhFA=="/>
+			<POI MapID="50" xpos="510.664" ypos="47.1204" zpos="-249.83" type="general.puzzles_de_saut.revanche_de_weyandt" GUID="XyM3mEWcL0OY/Kto5uuh+Q=="/>
+			<POI MapID="50" xpos="511.573" ypos="52.4383" zpos="-256.177" type="general.puzzles_de_saut.revanche_de_weyandt" GUID="9kwZzlwFQEyzPmBAI3231Q=="/>
+			<POI MapID="50" xpos="514.086" ypos="58.1349" zpos="-263.944" type="general.puzzles_de_saut.revanche_de_weyandt" GUID="BtmR95+MekKIWZh8ey6BVg=="/>
+			<POI MapID="50" xpos="515.341" ypos="62.6503" zpos="-270.607" type="general.puzzles_de_saut.revanche_de_weyandt" GUID="uzdEdTx6Ykm8oSAvvrSDMQ=="/>
+			<POI MapID="50" xpos="515" ypos="63.3795" zpos="-277.295" type="general.puzzles_de_saut.revanche_de_weyandt" GUID="8iuWcByocUmwmOFGhX1qVQ=="/>
+			<POI MapID="50" xpos="518.782" ypos="67.5695" zpos="-280.255" type="general.puzzles_de_saut.revanche_de_weyandt" GUID="PpCnYl5/BUiSmAEj0dDMbA=="/>
+			<POI MapID="50" xpos="523.455" ypos="70.2781" zpos="-279.701" type="general.puzzles_de_saut.revanche_de_weyandt" GUID="d+iMsMj1uECLrayoTE+koA=="/>
+			<POI MapID="50" xpos="529.055" ypos="71.6818" zpos="-277.378" type="general.puzzles_de_saut.revanche_de_weyandt" GUID="L5JF0HGy40afFbvIod/sgw=="/>
+			<POI MapID="50" xpos="531.976" ypos="73.5137" zpos="-273.705" type="general.puzzles_de_saut.revanche_de_weyandt" GUID="aSdKsZTDIU2ofl5jEu+A7Q=="/>
+			<POI MapID="50" xpos="539.62" ypos="74.9945" zpos="-271.533" type="general.puzzles_de_saut.revanche_de_weyandt" GUID="C2TY8K0Qt02l2eHVTtzMaw=="/>
+			<POI MapID="50" xpos="544.519" ypos="76.1181" zpos="-275.064" type="general.puzzles_de_saut.revanche_de_weyandt" GUID="TDKYsK0VZkOyUFG46gKMcg=="/>
+			<POI MapID="50" xpos="553.251" ypos="77.9484" zpos="-277.396" type="general.puzzles_de_saut.revanche_de_weyandt" GUID="0j8WTY7yCUiCrwWJU2UeIg=="/>
+			<POI MapID="50" xpos="562.052" ypos="79.3891" zpos="-277.784" type="general.puzzles_de_saut.revanche_de_weyandt" GUID="ENgllND5eU2mk0KZBk5hVg=="/>
+			<POI MapID="50" xpos="572.341" ypos="84.2387" zpos="-279.107" type="general.puzzles_de_saut.revanche_de_weyandt" GUID="6aIP/YMMXkGGtL1boTHDWQ=="/>
+			<POI MapID="50" xpos="579.625" ypos="88.6255" zpos="-276.521" type="general.puzzles_de_saut.revanche_de_weyandt" GUID="DAihZGjDqUeaKCJs7At/4A=="/>
+			<POI MapID="50" xpos="571.596" ypos="90.5461" zpos="-270.235" type="general.puzzles_de_saut.revanche_de_weyandt" GUID="haupK7epr0Sx9X57p6aiWw=="/>
+			<POI MapID="50" xpos="562.315" ypos="93.6187" zpos="-269.116" type="general.puzzles_de_saut.revanche_de_weyandt" GUID="tByCaQbwj02hJUH4uXv7jg=="/>
+			<POI MapID="50" xpos="557.465" ypos="93.4887" zpos="-274.993" type="general.puzzles_de_saut.revanche_de_weyandt" GUID="O7TiFR3D2U2l1ewfin2WPA=="/>
+			<POI MapID="50" xpos="553.906" ypos="93.8757" zpos="-281.626" type="general.puzzles_de_saut.revanche_de_weyandt" GUID="A/Bh+qnDj0etQ4bSgwAFYg=="/>
+			<POI MapID="50" xpos="550.7" ypos="96.4112" zpos="-287.834" type="general.puzzles_de_saut.revanche_de_weyandt" GUID="VEgcytYjQUyOFJYvzpkyEQ=="/>
+			<POI MapID="50" xpos="549.451" ypos="97.5497" zpos="-291.197" type="general.puzzles_de_saut.revanche_de_weyandt" GUID="pP6SVtbH+Ee09t1b61H5cA=="/>
+			<POI MapID="50" xpos="555.28" ypos="98.2831" zpos="-293.427" type="general.puzzles_de_saut.revanche_de_weyandt" GUID="SAg83P2AmUulIfprSEHqlQ=="/>
+			<POI MapID="50" xpos="561.075" ypos="99.6303" zpos="-298.364" type="general.puzzles_de_saut.revanche_de_weyandt" GUID="mmCu1Q2UtkCGlZHG7HxS3g=="/>
+			<POI MapID="50" xpos="564.244" ypos="102.772" zpos="-301.846" type="general.puzzles_de_saut.revanche_de_weyandt" GUID="HGrBQl9QUUGEz7ugMPF7AQ=="/>
+			<POI MapID="50" xpos="568.78" ypos="104.044" zpos="-301.492" type="general.puzzles_de_saut.revanche_de_weyandt" GUID="gNHZDBESxUat29elb7sB+g=="/>
+			<POI MapID="50" xpos="574.596" ypos="106.383" zpos="-302.86" type="general.puzzles_de_saut.revanche_de_weyandt" GUID="jvQCb+abG06hqSa7bIEeZA=="/>
+			<POI MapID="50" xpos="578.781" ypos="106.895" zpos="-313.067" type="general.puzzles_de_saut.revanche_de_weyandt" GUID="8G+YwJPDD0abVeEvEvKE1Q=="/>
+			<POI MapID="50" xpos="578.953" ypos="104.068" zpos="-315.287" type="general.puzzles_de_saut.revanche_de_weyandt" GUID="KVDtrkwHAU6m6sROyvRmuw=="/>
+			<POI MapID="50" xpos="580.865" ypos="90.1708" zpos="-324.198" type="general.puzzles_de_saut.revanche_de_weyandt" GUID="PNlaSayAjEuq9N49TiOknA=="/>
+			<POI MapID="50" xpos="589.908" ypos="63.8901" zpos="-336.404" type="general.puzzles_de_saut.revanche_de_weyandt" GUID="goKIgEforkmvKTQDkCLaSg=="/>
+			<POI MapID="50" xpos="602.278" ypos="23.8402" zpos="-350.578" type="general.puzzles_de_saut.revanche_de_weyandt" GUID="unt+ef1750mqOao1JYn8cQ=="/>
+			<POI MapID="50" xpos="602.568" ypos="-1.3245" zpos="-351.261" type="general.puzzles_de_saut.revanche_de_weyandt" GUID="NvWzj8jetkCs1oEdazGrvw=="/>
+			<POI MapID="50" xpos="598.106" ypos="0.338694" zpos="-352.512" type="general.puzzles_de_saut.revanche_de_weyandt" GUID="NcxW5YSoW0CTz8if6rjO0A=="/>
+			<POI MapID="50" xpos="594.065" ypos="2.71965" zpos="-355.735" type="general.puzzles_de_saut.revanche_de_weyandt" GUID="2V3Laro3tUa5LB62rXnbRQ=="/>
+			<POI MapID="50" xpos="594.223" ypos="5.81203" zpos="-362.389" type="general.puzzles_de_saut.revanche_de_weyandt" GUID="ZXR0TUP1L0GVFxHbfhID8Q=="/>
+			<POI MapID="50" xpos="596.05" ypos="8.83267" zpos="-370.296" type="general.puzzles_de_saut.revanche_de_weyandt" GUID="7Qc69+M4h0yDk8zCgzyTbA=="/>
+			<POI MapID="50" xpos="598.205" ypos="8.53268" zpos="-379.486" type="general.puzzles_de_saut.revanche_de_weyandt" GUID="J4vq4oOblUmKxTCyxrx0aw=="/>
+			<POI MapID="50" xpos="601.259" ypos="5.47508" zpos="-389.197" type="general.puzzles_de_saut.revanche_de_weyandt" GUID="FSjSkxaQEE64aH8vBL2noA=="/>
+			<POI MapID="50" xpos="603.387" ypos="5.22073" zpos="-399.038" type="general.puzzles_de_saut.revanche_de_weyandt" GUID="BCR7FFOoeU2bJnTFZo7plg=="/>
+			<POI MapID="50" xpos="605.521" ypos="6.27938" zpos="-408.072" type="general.puzzles_de_saut.revanche_de_weyandt" GUID="Gxnmw75MZ026+HeXnA9HAA=="/>
+			<POI MapID="50" xpos="606.696" ypos="9.98816" zpos="-416.732" type="general.puzzles_de_saut.revanche_de_weyandt" GUID="r7RBVrsV10Wzp6ZmLXwQUA=="/>
+			<POI MapID="50" xpos="613.033" ypos="11.4722" zpos="-418.578" type="general.puzzles_de_saut.revanche_de_weyandt" GUID="gaPdNF7SdESTY9M4xokakw=="/>
+			<POI MapID="50" xpos="612.11" ypos="13.5735" zpos="-422.848" type="general.puzzles_de_saut.revanche_de_weyandt" GUID="nD25ZrMflkitrU+tBxcpZg=="/>
+			<POI MapID="50" xpos="616.271" ypos="15.3016" zpos="-428.388" type="general.puzzles_de_saut.revanche_de_weyandt" GUID="sy9jgh15i0qk7b/+sGWKZQ=="/>
+			<POI MapID="50" xpos="620.552" ypos="16.1569" zpos="-431.094" type="general.puzzles_de_saut.revanche_de_weyandt" GUID="18pXtOv0j0OLUUgNN1h1iQ=="/>
+			<POI MapID="50" xpos="624.562" ypos="17.7355" zpos="-433.746" type="general.puzzles_de_saut.revanche_de_weyandt" GUID="1HLSwOk/30G4rc8vkLiIRQ=="/>
+			<POI MapID="50" xpos="633.434" ypos="20.3342" zpos="-433.544" type="general.puzzles_de_saut.revanche_de_weyandt" GUID="DiBcJugxiU+iVdnliN2zHA=="/>
+			<POI MapID="50" xpos="640.061" ypos="21.6061" zpos="-433.347" type="general.puzzles_de_saut.revanche_de_weyandt" GUID="zqTo8UEvG0GZJHs5icH97A=="/>
+			<POI MapID="50" xpos="648.955" ypos="24.2124" zpos="-433.069" type="general.puzzles_de_saut.revanche_de_weyandt" GUID="5R4C23dqrEq9fgiPhCHwmw=="/>
+			<POI MapID="50" xpos="660.942" ypos="27.4652" zpos="-434.831" type="general.puzzles_de_saut.revanche_de_weyandt" GUID="79t32Dvt20yOSoF0xMDDBw=="/>
+			<POI MapID="50" xpos="671.669" ypos="30.6866" zpos="-438.18" type="general.puzzles_de_saut.revanche_de_weyandt" GUID="ertJyZyGtEGgM6xubn0LaQ=="/>
+			<POI MapID="50" xpos="679.107" ypos="32.0732" zpos="-442.185" type="general.puzzles_de_saut.revanche_de_weyandt" GUID="jIPVn9C//k2wuYIXmKjt/w=="/>
+			<POI MapID="50" xpos="683.771" ypos="33.6161" zpos="-445.813" type="general.puzzles_de_saut.revanche_de_weyandt" GUID="7+P3duZlR0aGrd52IQdEOw=="/>
+			<POI MapID="50" xpos="694.61" ypos="31.4487" zpos="-450.32" type="general.puzzles_de_saut.revanche_de_weyandt" GUID="WxOke98rSEKFLp4nTyCsNg=="/>
+			<POI MapID="50" xpos="705.902" ypos="31.4859" zpos="-453.135" type="general.puzzles_de_saut.revanche_de_weyandt" GUID="HSn8z4jbo0W+ouZX+gUGlw=="/>
+			<POI MapID="50" xpos="710.258" ypos="30.0784" zpos="-452.265" type="general.puzzles_de_saut.revanche_de_weyandt" GUID="mOxbchqwgkafiTq8vZQqAA=="/>
+			<POI MapID="50" xpos="707.606" ypos="30.0511" zpos="-446.93" type="general.puzzles_de_saut.revanche_de_weyandt" GUID="uo11v5URMkWM/XrMz8im3w=="/>
+			<POI MapID="50" xpos="703.66" ypos="30.0484" zpos="-436.766" type="general.puzzles_de_saut.revanche_de_weyandt" GUID="GiLoJ604BUSKcBRkxJ4SCg=="/>
+			<POI MapID="50" xpos="701.986" ypos="30.3034" zpos="-428.497" type="general.puzzles_de_saut.revanche_de_weyandt" GUID="Val/UWTpAE+A+fyiY6Facg=="/>
+			<POI MapID="50" xpos="704.015" ypos="30.0459" zpos="-416.773" type="general.puzzles_de_saut.revanche_de_weyandt" GUID="PUi9DAayhUOffUSxf347yw=="/>
+			<POI MapID="50" xpos="705.901" ypos="30.0459" zpos="-413.277" type="general.puzzles_de_saut.revanche_de_weyandt" GUID="nHDAeye+MESuZ9nHG333Uw=="/>
+			<POI MapID="50" xpos="707.066" ypos="30.0459" zpos="-408.818" type="general.puzzles_de_saut.revanche_de_weyandt" GUID="svMFYFxYdUKSBUxOgNuL7g=="/>
+			<POI MapID="50" xpos="708.976" ypos="30.0459" zpos="-403.34" type="general.puzzles_de_saut.revanche_de_weyandt" GUID="zS7erCDLCUS52YjihyKDpQ=="/>
+			<POI MapID="50" xpos="712.787" ypos="30.0459" zpos="-396.093" type="general.puzzles_de_saut.revanche_de_weyandt" GUID="J31XEvvp+0e7Xbe66speOg=="/>
+			<POI MapID="50" xpos="715.576" ypos="30.0547" zpos="-392.844" type="general.puzzles_de_saut.revanche_de_weyandt" GUID="v3qX15D7/0iFVM0RsMKwHw=="/>
+			<POI MapID="50" xpos="720.749" ypos="30.0506" zpos="-390.8" type="general.puzzles_de_saut.revanche_de_weyandt" GUID="2YH0KUGZ4UqZSQuQyLRSRw=="/>
+			<POI MapID="50" xpos="733.592" ypos="30.0459" zpos="-389.448" type="general.puzzles_de_saut.revanche_de_weyandt" GUID="eYGNwQSSdkGyxm9RkGdE1A=="/>
+			<POI MapID="50" xpos="737.458" ypos="30.0459" zpos="-387.974" type="general.puzzles_de_saut.revanche_de_weyandt" GUID="uiO3qhUORU6KAGa+v1qsZA=="/>
+			<POI MapID="50" xpos="734.437" ypos="30.0465" zpos="-381.931" type="general.puzzles_de_saut.revanche_de_weyandt" GUID="Z5jb+9FIbkKJQLr3rAkiwA=="/>
+			<POI MapID="50" xpos="729.035" ypos="30.0465" zpos="-381.68" type="general.puzzles_de_saut.revanche_de_weyandt" GUID="ls2prZH5QEKV6IeVjMAzyw=="/>
+			<POI MapID="50" xpos="720.941" ypos="30.9436" zpos="-381.939" type="general.puzzles_de_saut.revanche_de_weyandt" GUID="TW5hiG9BckSArGsefjXUMg=="/>
+			<POI MapID="50" xpos="712.366" ypos="33.7321" zpos="-383.6" type="general.puzzles_de_saut.revanche_de_weyandt" GUID="qzGCI4VvfUK7kPfVBhOY3w=="/>
+			<POI MapID="50" xpos="705.563" ypos="37.7526" zpos="-386.52" type="general.puzzles_de_saut.revanche_de_weyandt" GUID="VV4utqAUEUekLvGQqlr7aw=="/>
+			<POI MapID="50" xpos="699.027" ypos="42.631" zpos="-391.162" type="general.puzzles_de_saut.revanche_de_weyandt" GUID="b0n3mbqVpk2j1OGRgcIfuQ=="/>
+			<POI MapID="50" xpos="695.539" ypos="45.1757" zpos="-395.048" type="general.puzzles_de_saut.revanche_de_weyandt" GUID="GMXDAJb3tEe/qctWZv37Jw=="/>
+			<POI MapID="50" xpos="690.164" ypos="48.1082" zpos="-396.684" type="general.puzzles_de_saut.revanche_de_weyandt" GUID="qdNoP8U2X0WP4N+zZIYWvg=="/>
+			<POI MapID="50" xpos="688.325" ypos="48.5568" zpos="-391.073" type="general.puzzles_de_saut.revanche_de_weyandt" GUID="dOrnGqHtb0+WWojMavfp6w=="/>
+			<POI MapID="50" xpos="683.232" ypos="47.1224" zpos="-383.848" type="general.puzzles_de_saut.revanche_de_weyandt" GUID="gV8yA/8pnU6IKUySmy7kTw=="/>
+			<POI MapID="50" xpos="680.518" ypos="46.6929" zpos="-377.096" type="general.puzzles_de_saut.revanche_de_weyandt" GUID="a948f8ISoEeyguEStUILiQ=="/>
+			<POI MapID="50" xpos="676.362" ypos="45.6586" zpos="-368.876" type="general.puzzles_de_saut.revanche_de_weyandt" GUID="N4fccS03Y0GKZ3rvKAqn3w=="/>
+			<POI MapID="50" xpos="671.4" ypos="43.0479" zpos="-361.413" type="general.puzzles_de_saut.revanche_de_weyandt" GUID="Y5ceTzf640CVq0ASQlr/BA=="/>
+			<POI MapID="50" xpos="671.398" ypos="45.2779" zpos="-353.852" type="general.puzzles_de_saut.revanche_de_weyandt" GUID="4PEVgxTRkUutiCe10xZbnQ=="/>
+			<POI MapID="50" xpos="666.522" ypos="48.1356" zpos="-354.706" type="general.puzzles_de_saut.revanche_de_weyandt" GUID="qNTd6GqXDki1hkve9EKtXw=="/>
+			<POI MapID="50" xpos="661.527" ypos="49.1924" zpos="-351.182" type="general.puzzles_de_saut.revanche_de_weyandt" GUID="31V/D8k82Um0HxmXc4eHvQ=="/>
+			<POI MapID="50" xpos="654.986" ypos="49.8244" zpos="-348.549" type="general.puzzles_de_saut.revanche_de_weyandt" GUID="zgz0zth6e0i7wTbgpKE/IQ=="/>
+			<POI MapID="50" xpos="654.122" ypos="52.4033" zpos="-346.53" type="general.puzzles_de_saut.revanche_de_weyandt" GUID="0ttn24piq0qB6KiQRHEDJQ=="/>
+			<POI MapID="50" xpos="656.075" ypos="56.2597" zpos="-346.53" type="general.puzzles_de_saut.revanche_de_weyandt" GUID="CCdyktiv10WExlbNiJcu5w=="/>
+			<POI MapID="50" xpos="659.42" ypos="58.907" zpos="-344.721" type="general.puzzles_de_saut.revanche_de_weyandt" GUID="vEAFFMwYF0Kwh1/8tHt8iA=="/>
+			<POI MapID="50" xpos="666.422" ypos="63.2264" zpos="-343.033" type="general.puzzles_de_saut.revanche_de_weyandt" GUID="faWVgO9JnEuMvTQsluZQwQ=="/>
+			<POI MapID="50" xpos="674.561" ypos="66.8066" zpos="-340.138" type="general.puzzles_de_saut.revanche_de_weyandt" GUID="UQMrOVKhlk21R/r+vx1d/A=="/>
+			<POI MapID="50" xpos="679.061" ypos="69.5411" zpos="-333.164" type="general.puzzles_de_saut.revanche_de_weyandt" GUID="ZlAXgAUn+kOT5Q9XR/iBrw=="/>
+			<POI MapID="50" xpos="685.02" ypos="69.8859" zpos="-332.102" type="general.puzzles_de_saut.revanche_de_weyandt" GUID="lAdYw0jShkKKpYC38M/18g=="/>
+			<POI MapID="50" xpos="693.618" ypos="69.8859" zpos="-332.335" type="general.puzzles_de_saut.revanche_de_weyandt" GUID="KNPkNoM17kC5X2/XISqlMA=="/>
+			<POI MapID="50" xpos="702.351" ypos="69.8859" zpos="-331.967" type="general.puzzles_de_saut.revanche_de_weyandt" GUID="Byl9TRLkQkaeuPldIv1evw=="/>
+			<POI MapID="50" xpos="713.05" ypos="69.922" zpos="-331.526" type="general.puzzles_de_saut.revanche_de_weyandt" GUID="m74OCTCBKUy6eN8pMHZNQg=="/>
+			<POI MapID="50" xpos="721.648" ypos="69.922" zpos="-331.759" type="general.puzzles_de_saut.revanche_de_weyandt" GUID="VJUc11di40WhvbHxXF6+Bw=="/>
+			<POI MapID="50" xpos="730.246" ypos="69.8202" zpos="-331.993" type="general.puzzles_de_saut.revanche_de_weyandt" GUID="68dTYXyiB0mfrswPvP88LA=="/>
+			<POI MapID="50" xpos="741.609" ypos="69.8716" zpos="-332.108" type="general.puzzles_de_saut.revanche_de_weyandt" GUID="nKISBm9tJkSA4fQlDRXWfw=="/>
+			<POI MapID="50" xpos="751.794" ypos="69.8822" zpos="-332.275" type="general.puzzles_de_saut.revanche_de_weyandt" GUID="Nugh12eLBkylOfRUGxg81w=="/>
+			<POI MapID="50" xpos="762.908" ypos="69.8822" zpos="-331.806" type="general.puzzles_de_saut.revanche_de_weyandt" GUID="W3CmJTY0KEyRyr8rFYgS6Q=="/>
+			<POI MapID="50" xpos="767.325" ypos="69.8822" zpos="-331.529" type="general.puzzles_de_saut.revanche_de_weyandt" GUID="UA1TOZtjUUy7ria09rxplQ=="/>
+			<POI MapID="50" xpos="767.438" ypos="69.8822" zpos="-328.332" type="general.puzzles_de_saut.revanche_de_weyandt" GUID="hit7r01RC0GqIzZZKd/FyA=="/>
+			<POI MapID="50" xpos="767.358" ypos="69.8822" zpos="-322.373" type="general.puzzles_de_saut.revanche_de_weyandt" GUID="6bZCNfsyZ0WapQSQeHRqMA=="/>
+			<POI MapID="50" xpos="767.844" ypos="69.7993" zpos="-314.182" type="general.puzzles_de_saut.revanche_de_weyandt" GUID="9jxwDQcY+U2bus5+1WJWxQ=="/>
+			<POI MapID="50" xpos="767.7" ypos="69.7993" zpos="-303.379" type="general.puzzles_de_saut.revanche_de_weyandt" GUID="MmHHSgc6gEatGo9njr4WcA=="/>
+			<POI MapID="50" xpos="766.979" ypos="69.7454" zpos="-294.013" type="general.puzzles_de_saut.revanche_de_weyandt" GUID="QsHyDe/AGUm5HZLgDmskEw=="/>
+			<POI MapID="50" xpos="762.984" ypos="69.7454" zpos="-291.272" type="general.puzzles_de_saut.revanche_de_weyandt" GUID="ONmv9oCsmEyn+Q2TjfE+uQ=="/>
+			<POI MapID="50" xpos="755.191" ypos="69.8688" zpos="-291.168" type="general.puzzles_de_saut.revanche_de_weyandt" GUID="Ep7oamAMi0qWhY50iFzmbA=="/>
+			<POI MapID="50" xpos="748.04" ypos="69.8688" zpos="-291.22" type="general.puzzles_de_saut.revanche_de_weyandt" GUID="Y8tCSsnJ/0ONrDrC9tMuqg=="/>
+			<POI MapID="50" xpos="735.013" ypos="69.8729" zpos="-291.133" type="general.puzzles_de_saut.revanche_de_weyandt" GUID="pNdpvrLrzUOjs22g3cyaeg=="/>
+			<POI MapID="50" xpos="720.793" ypos="69.835" zpos="-291.238" type="general.puzzles_de_saut.revanche_de_weyandt" GUID="Zwa3+cfb+Uugx6+qd2E+eA=="/>
+			<POI MapID="50" xpos="720.764" ypos="70.0337" zpos="-297.834" type="general.puzzles_de_saut.revanche_de_weyandt" GUID="GDaHt2xYiU6zRVgMnY90Sw=="/>
+			<POI MapID="50" xpos="720.054" ypos="70.0337" zpos="-302.693" type="general.puzzles_de_saut.revanche_de_weyandt" GUID="z5q9omd8vke1IOuG880Y9Q=="/>
+			<POI MapID="50" xpos="712.669" ypos="69.9826" zpos="-304.351" type="general.puzzles_de_saut.revanche_de_weyandt" GUID="NYSHxecKR0GXnk9+sddYvQ=="/>
+			<POI MapID="50" xpos="707.936" ypos="70.0337" zpos="-304.484" type="general.puzzles_de_saut.revanche_de_weyandt" GUID="PBdHusmoKE27TyGvRRKDVg=="/>
+			<POI MapID="50" xpos="700.136" ypos="70.0337" zpos="-304.103" type="general.puzzles_de_saut.revanche_de_weyandt" GUID="KsuGwjOtIEOHY1ZdVjUdqg=="/>
+			<POI MapID="50" xpos="693.528" ypos="70.0337" zpos="-303.69" type="general.puzzles_de_saut.revanche_de_weyandt" GUID="raOP+aS/D0qkaDiymoYPgQ=="/>
+			<POI MapID="50" xpos="683.6" ypos="70.0337" zpos="-303.965" type="general.puzzles_de_saut.revanche_de_weyandt" GUID="yNnGoNFVQkar9NrH3CHQ1g=="/>
+			<POI MapID="50" xpos="676.595" ypos="69.922" zpos="-303.563" type="general.puzzles_de_saut.revanche_de_weyandt" GUID="AzjSLtKJAEeO4puw0Zknog=="/>
+			<POI MapID="50" xpos="667.461" ypos="69.922" zpos="-303.815" type="general.puzzles_de_saut.revanche_de_weyandt" GUID="N7FKE6laeEqbW+6EERqaGg=="/>
+			<POI MapID="50" xpos="657.533" ypos="69.922" zpos="-304.09" type="general.puzzles_de_saut.revanche_de_weyandt" GUID="ymcDaliXQEe91a8MrtRiCg=="/>
+			<POI MapID="50" xpos="647.939" ypos="69.922" zpos="-303.759" type="general.puzzles_de_saut.revanche_de_weyandt" GUID="VBe5nUoJ50yL1p5Aya17Vg=="/>
+			<POI MapID="50" xpos="636.768" ypos="69.8839" zpos="-304.069" type="general.puzzles_de_saut.revanche_de_weyandt" GUID="FabwYn+70EmJ7ZtlbGdDJg=="/>
+			<POI MapID="50" xpos="629.541" ypos="69.8839" zpos="-309.808" type="general.puzzles_de_saut.revanche_de_weyandt" GUID="PjlQ6NfHIkate847C2sVlQ=="/>
+			<POI MapID="50" xpos="629.056" ypos="68.3963" zpos="-319.822" type="general.puzzles_de_saut.revanche_de_weyandt" GUID="8wfyLDof2kGrVr1VbuOfWQ=="/>
+			<POI MapID="50" xpos="629.547" ypos="66.252" zpos="-333.488" type="general.puzzles_de_saut.revanche_de_weyandt" GUID="3FWLDcJOGE+balTfh93Iww=="/>
+			<POI MapID="50" xpos="632.237" ypos="64.112" zpos="-341.967" type="general.puzzles_de_saut.revanche_de_weyandt" GUID="jAdSs9saJUKNzMpIO5mvKA=="/>
+			<POI MapID="50" xpos="627.846" ypos="63.8023" zpos="-344.689" type="general.puzzles_de_saut.revanche_de_weyandt" GUID="ewl6CZvBSkuB+Wn2lS8YzQ=="/>
+			<POI MapID="50" xpos="624.974" ypos="58.5636" zpos="-350.989" type="general.puzzles_de_saut.revanche_de_weyandt" GUID="Hl0E8v2y6kigHhBbWhcEag=="/>
+			<POI MapID="50" xpos="619.891" ypos="47.7229" zpos="-352.199" type="general.puzzles_de_saut.revanche_de_weyandt" GUID="TmnlHIKbaESsagpDaLz98g=="/>
+			<POI MapID="50" xpos="614.433" ypos="45.4357" zpos="-359.503" type="general.puzzles_de_saut.revanche_de_weyandt" GUID="WRb1Bv68/ke9Rdy8C/Qydg=="/>
+			<POI MapID="50" xpos="611.525" ypos="44.0338" zpos="-361.245" type="general.puzzles_de_saut.revanche_de_weyandt" GUID="a4Z86TbN2kqXCJs8XBM2Hg=="/>
+			<POI MapID="50" xpos="608.371" ypos="40.6103" zpos="-365.47" type="general.puzzles_de_saut.revanche_de_weyandt" GUID="qBD85oT8hkC53zXJeXXVrQ==" triggerRange="5"/>
+			<POI MapID="50" xpos="600.246" ypos="39.7444" zpos="-364.485" type="general.puzzles_de_saut.revanche_de_weyandt" GUID="Xj2GDPNTz0+/6g8p9NERKw=="/>
+			<POI MapID="50" xpos="593.163" ypos="42.9174" zpos="-363.911" type="general.puzzles_de_saut.revanche_de_weyandt" GUID="LuBOsuxoe0WJkcuWJgBZVQ=="/>
+			<POI MapID="50" xpos="586.165" ypos="43.4151" zpos="-370.42" type="general.puzzles_de_saut.revanche_de_weyandt" GUID="VIcEoLrEZ0We9DAKCMtZEw=="/>
+			<POI MapID="50" xpos="580.632" ypos="43.5399" zpos="-377.42" type="general.puzzles_de_saut.revanche_de_weyandt" GUID="ZR9Mslg450aHAxzfd/VVJw=="/>
+			<POI MapID="50" xpos="581.734" ypos="43.9773" zpos="-385.061" type="general.puzzles_de_saut.revanche_de_weyandt" GUID="Tt1cR53fFUqD0B9bgzUUZQ=="/>
+			<POI MapID="50" xpos="585.067" ypos="44.7346" zpos="-391.791" type="general.puzzles_de_saut.revanche_de_weyandt" GUID="NEdI0IZfUkOIBM689LNKbA=="/>
+			<POI MapID="50" xpos="589.003" ypos="46.0411" zpos="-400.409" type="general.puzzles_de_saut.revanche_de_weyandt" GUID="nL0+xp1/M0CiOhLiH7zGkg=="/>
+			<POI MapID="50" xpos="593.183" ypos="47.6019" zpos="-409.025" type="general.puzzles_de_saut.revanche_de_weyandt" GUID="r5VvGKo23kO5jEK2q2qaOA=="/>
+			<POI MapID="50" xpos="598.714" ypos="48.6667" zpos="-418.455" type="general.puzzles_de_saut.revanche_de_weyandt" GUID="0bFq4YKFCEOFaZ3R5xy7EA=="/>
+			<POI MapID="50" xpos="601.747" ypos="50.7752" zpos="-426.282" type="general.puzzles_de_saut.revanche_de_weyandt" GUID="l9w2IHb0OEG/H9ZKmqPa8g=="/>
+			<POI MapID="50" xpos="604.031" ypos="52.0362" zpos="-434.738" type="general.puzzles_de_saut.revanche_de_weyandt" GUID="OaGfL2CXDkCTO5hMKev3bw=="/>
+			<POI MapID="50" xpos="603.714" ypos="51.8476" zpos="-444.417" type="general.puzzles_de_saut.revanche_de_weyandt" GUID="G9hMgxc630mt7SjcbX5OPQ=="/>
+			<POI MapID="50" xpos="599.214" ypos="51.6655" zpos="-448.803" type="general.puzzles_de_saut.revanche_de_weyandt" GUID="zTIvZTnUd0qE/ibLWZLygg=="/>
+			<POI MapID="50" xpos="593.484" ypos="51.4691" zpos="-452.757" type="general.puzzles_de_saut.revanche_de_weyandt" GUID="z/eoihpJq0OrLdsZSQDc1g=="/>
+			<POI MapID="50" xpos="586.485" ypos="54.7957" zpos="-457.307" type="general.puzzles_de_saut.revanche_de_weyandt" GUID="NtPG8T6aDk63GGGZgWQQzA=="/>
+			<POI MapID="50" xpos="577.98" ypos="52.4876" zpos="-459.247" type="general.puzzles_de_saut.revanche_de_weyandt" GUID="LFnXxxHdz0CkQJRaXkKIUg=="/>
+			<POI MapID="50" xpos="568.283" ypos="52.0447" zpos="-457.577" type="general.puzzles_de_saut.revanche_de_weyandt" GUID="6TAiGD44FkewXCwTyZUiwQ=="/>
+			<POI MapID="50" xpos="562.296" ypos="52.0221" zpos="-449.506" type="general.puzzles_de_saut.revanche_de_weyandt" GUID="ydkidv1WCEuRsosWqLmJXg=="/>
+			<POI MapID="50" xpos="559.973" ypos="53.1283" zpos="-442.25" type="general.puzzles_de_saut.revanche_de_weyandt" GUID="/mybPB+V4EmiXKIyRDVMBg=="/>
+			<POI MapID="50" xpos="559.924" ypos="52.0786" zpos="-437.043" type="general.puzzles_de_saut.revanche_de_weyandt" GUID="s8abGEpUIk2waha/Uy6j5A=="/>
+			<POI MapID="50" xpos="560.163" ypos="53.3248" zpos="-431.758" type="general.puzzles_de_saut.revanche_de_weyandt" GUID="UC1gAqRiEU62LmWsqCH0Zg=="/>
+			<POI MapID="50" xpos="558.588" ypos="54.2978" zpos="-427.395" type="general.puzzles_de_saut.revanche_de_weyandt" GUID="J7Qmg5s++EeiIZjIhRreAA=="/>
+			<POI MapID="50" xpos="556.026" ypos="54.3523" zpos="-420.38" type="general.puzzles_de_saut.revanche_de_weyandt" GUID="V6UGN0QS1UOczN1SCgWjow=="/>
+			<POI MapID="50" xpos="546.947" ypos="54.5302" zpos="-418.311" type="general.puzzles_de_saut.revanche_de_weyandt" GUID="N24ozt+0O0eqURktObCA1Q=="/>
+			<POI MapID="50" xpos="545.504" ypos="54.1452" zpos="-414.804" type="general.puzzles_de_saut.revanche_de_weyandt" GUID="ycOA7HbUfkmtOA3w9cYWLQ=="/>
+			<POI MapID="50" xpos="545.4" ypos="55.6746" zpos="-410.594" type="general.puzzles_de_saut.revanche_de_weyandt" GUID="9N+E8deUVUehi7HQEHW4Ug=="/>
+			<POI MapID="50" xpos="546.672" ypos="56.843" zpos="-404.665" type="general.puzzles_de_saut.revanche_de_weyandt" GUID="VC/DUZx1ZkmOBvGZolDV/g=="/>
+			<POI MapID="50" xpos="544.977" ypos="56.116" zpos="-401.081" type="general.puzzles_de_saut.revanche_de_weyandt" GUID="kjUd3khvAk2JwBbIEVleCw=="/>
+			<POI MapID="50" xpos="542.943" ypos="57.1701" zpos="-397.462" type="general.puzzles_de_saut.revanche_de_weyandt" GUID="rJL+lS2ga06PYo0pXK8i2Q=="/>
+			<POI MapID="50" xpos="539.211" ypos="50.3024" zpos="-391.25" type="general.puzzles_de_saut.revanche_de_weyandt" GUID="ZfaTK9VGlE+yYx90QrsUCg=="/>
+			<POI MapID="50" xpos="537.15" ypos="51.3645" zpos="-387.54" type="general.puzzles_de_saut.revanche_de_weyandt" GUID="lnfwiIyMxEqHhNGLNvezPw=="/>
+			<POI MapID="50" xpos="533.111" ypos="51.315" zpos="-381.304" type="general.puzzles_de_saut.revanche_de_weyandt" GUID="cvr/KmLZW0Gx28VV9Adwbg=="/>
+			<POI MapID="50" xpos="530.765" ypos="50.3854" zpos="-377.63" type="general.puzzles_de_saut.revanche_de_weyandt" GUID="X3Z3p1XLMU2MCoXMEvf6XQ=="/>
+			<POI MapID="50" xpos="527.438" ypos="30.7023" zpos="-373.775" type="general.puzzles_de_saut.revanche_de_weyandt" GUID="o5r/afbQGUS2rAMZ3FLeWg=="/>
+			<POI MapID="50" xpos="527.306" ypos="8.85551" zpos="-373.622" type="general.puzzles_de_saut.revanche_de_weyandt" GUID="zrVCms/Q+U2aePO0XzE7Kg=="/>
+			<POI MapID="50" xpos="527.83" ypos="-2.03166" zpos="-373.216" type="general.puzzles_de_saut.revanche_de_weyandt" GUID="Mmnbd1/S6U2lLJwpFSZfaw=="/>
+			<POI MapID="50" xpos="529.642" ypos="-0.660318" zpos="-378.14" type="general.puzzles_de_saut.revanche_de_weyandt" GUID="sXmoeGsZwEioiC7bbletMg=="/>
+			<POI MapID="50" xpos="531.103" ypos="-0.669836" zpos="-385.912" type="general.puzzles_de_saut.revanche_de_weyandt" GUID="w82tbIIc30u8lXDT27wETA=="/>
+			<POI MapID="50" xpos="534.129" ypos="-0.666658" zpos="-392.154" type="general.puzzles_de_saut.revanche_de_weyandt" GUID="yl5+OM0xNEu6YuQBTq0oHA=="/>
+			<POI MapID="50" xpos="540.379" ypos="-0.223272" zpos="-394.74" type="general.puzzles_de_saut.revanche_de_weyandt" GUID="g1IGBfCqSkieY0FFMTB9iQ=="/>
+			<POI MapID="50" xpos="547.64" ypos="0.332973" zpos="-396.72" type="general.puzzles_de_saut.revanche_de_weyandt" GUID="vtkOd1q7KkOeE8j9pOj8Pw=="/>
+			<POI MapID="50" xpos="556.817" ypos="-0.549875" zpos="-399.236" type="general.puzzles_de_saut.revanche_de_weyandt" GUID="pxxkuMj/LkGgYQryG7djaA=="/>
+			<POI MapID="50" xpos="565.4" ypos="0.22602" zpos="-401.605" type="general.puzzles_de_saut.revanche_de_weyandt" GUID="xPISzDvb+EyMgsYHrmoD9g=="/>
+		</Route>
+
+		<!-- Coffre -->
+		<POI MapID="50" xpos="573.259" ypos="2.31361" zpos="-407.349" type="general.puzzles_de_saut.revanche_de_weyandt" GUID="Ian4WbKJtkGka+m5JDlDUw==" iconFile="Img\CoffrePuzzle.png" iconSize="1" heightOffset="2.5" behavior="2"/>
+
+	</POIs>
+</OverlayData>

@@ -1,0 +1,404 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+POIs: Cloud Strife.7492 - Xenophy.2716 - ReActif.9251
+Date: 2017/01/18
+-->
+<OverlayData>
+	<MarkerCategory name="chroniques.saison_3">
+		<MarkerCategory name="ep2_l_embrasement" DisplayName="Ep.2 - Rising Flames" iconFile="Img\BaieDesBraises.png">
+			<MarkerCategory name="saut_de_volcan" DisplayName="Skip up the Volcano" iconFile="Img\Guide.png" iconSize="0.75" behavior="0">
+				<MarkerCategory name="debut" DisplayName="Start" iconFile="Img\PuzzleDebut.png" iconSize="1.5"/>
+			</MarkerCategory>
+		</MarkerCategory>
+	</MarkerCategory>
+
+	<POIs>
+
+		<!-- Début -->
+		<POI MapID="1175" xpos="-622.04" ypos="144.72" zpos="43.88" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan.debut" GUID="ado4juYTfkmsoj0QbFsXfA=="/>
+
+		<!-- Route -->
+		<Route MapID="1175" name="Saut_de_Volcan" resetposx="-622.04" resetposy="144.72" resetposz="43.88" resetrange="2">
+			<POI MapID="1175" xpos="-613.569" ypos="148.334" zpos="43.069" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="FC8r2xYDLE2wJX+sQNq7Eg=="/>
+			<POI MapID="1175" xpos="-604.993" ypos="149.252" zpos="43.2449" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="NFNpGqdTQkOI5QWqBwT45Q=="/>
+			<POI MapID="1175" xpos="-599.58" ypos="148.55" zpos="43.77" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="ukdFsVangU6n9ff97tKiWg=="/>
+			<POI MapID="1175" xpos="-594.314" ypos="148.051" zpos="47.9144" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="eG20sY+Y6UqGP6MwOE2jxg=="/>
+			<POI MapID="1175" xpos="-591.544" ypos="149.786" zpos="50.8273" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="mBPT/sbL7Uej+4BRrUN9cQ=="/>
+			<POI MapID="1175" xpos="-587.324" ypos="149.77" zpos="58.7642" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="hCVC0RFK6UqMF3GSp37cLA==" triggerRange="10"/>
+			<POI MapID="1175" xpos="-582.877" ypos="147.365" zpos="62.8844" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="4fLZz1DXhkiWkTYvgz2nig==" triggerRange="10"/>
+			<POI MapID="1175" xpos="-576.416" ypos="144.158" zpos="67.7688" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="TIFshJ4TcEeovknyJo6eKw==" triggerRange="10"/>
+			<POI MapID="1175" xpos="-567.905" ypos="139.92" zpos="73.3509" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="yheql0wubEC3m+FpTCMgBg==" triggerRange="10"/>
+			<POI MapID="1175" xpos="-561.848" ypos="137.515" zpos="72.7418" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="5w0u9h/3bECmkX/S0JMMLQ==" triggerRange="10"/>
+			<POI MapID="1175" xpos="-555.491" ypos="134.995" zpos="72.163" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="UJVqXuBNvUmGbTxZGoiDEQ==" triggerRange="10"/>
+			<POI MapID="1175" xpos="-549.4" ypos="132.59" zpos="71.7279" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="GW3CFHxxb0aZD25XLfOacQ==" triggerRange="10"/>
+			<POI MapID="1175" xpos="-545.68" ypos="132.967" zpos="69.8874" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="PbgABIAWxkiv42BqJIHrRw==" triggerRange="10"/>
+			<POI MapID="1175" xpos="-547.287" ypos="136.291" zpos="60.0947" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="SLdeA9IyqkCGrQr7br8VlQ=="/>
+			<POI MapID="1175" xpos="-548.077" ypos="137.085" zpos="55.1456" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="MaSQDsVEUEmbQYUbfJXp4g=="/>
+			<POI MapID="1175" xpos="-547.253" ypos="137.134" zpos="50.5536" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="WG64gGjJqEqVIdg0GQnnxA=="/>
+			<POI MapID="1175" xpos="-548.327" ypos="135.233" zpos="47.2612" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="boRSU9jZIECYPINweWfuFw=="/>
+			<POI MapID="1175" xpos="-550.103" ypos="131.535" zpos="42.031" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="9HQbN8gnDkeF2yACnVRxsg=="/>
+			<POI MapID="1175" xpos="-554.691" ypos="130.013" zpos="38.0345" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="CSdHqcC4vkG8roFORRSEKw=="/>
+			<POI MapID="1175" xpos="-557.175" ypos="128.952" zpos="33.576" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="cFfPFWRV0UGqGtzVDI5UBg=="/>
+			<POI MapID="1175" xpos="-558.194" ypos="128.292" zpos="30.3756" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="3/BEhoVaVkeX4KkXJXZEkA==" triggerRange="5"/>
+			<POI MapID="1175" xpos="-562.25" ypos="121.785" zpos="20.2556" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="xrmt/O13pU20tuucz2nQSQ==" triggerRange="5"/>
+			<POI MapID="1175" xpos="-565.094" ypos="119.418" zpos="10.8337" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="9PbZ2nn9ykauxPL4xYzc/w=="/>
+			<POI MapID="1175" xpos="-564.47" ypos="119.003" zpos="6.63227" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="bwZEWzMDn0eaaIC0n2Sdiw=="/>
+			<POI MapID="1175" xpos="-556.873" ypos="121.409" zpos="1.06862" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="AiGdUqAGn0GTu2IFgxKlmw=="/>
+			<POI MapID="1175" xpos="-554.287" ypos="123.582" zpos="-2.1582" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="+pIx/BierEmumMFm3eimRg=="/>
+			<POI MapID="1175" xpos="-551.592" ypos="124.94" zpos="-6.36352" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="UF/KipQxC0anukuelLF/jA=="/>
+			<POI MapID="1175" xpos="-549.329" ypos="127.768" zpos="-11.6419" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="Zm0a7cyZ50y6QQ9k94xceA=="/>
+			<POI MapID="1175" xpos="-546.288" ypos="128.76" zpos="-12.0324" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="oP02VNaHgke6f/saDVSQwA=="/>
+			<!-- Brume Rafraîchissante 1 -->
+			<POI MapID="1175" xpos="-545.127" ypos="130.843" zpos="-7.92542" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="pvlJyDcSY0a2ZRU2qOgssg=="/>
+			<POI MapID="1175" xpos="-544.666" ypos="133.388" zpos="-12.291" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="OzYtjGX7LUm0Csddz6EySQ=="/>
+			<POI MapID="1175" xpos="-545.88" ypos="134.093" zpos="-18.8392" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="KpSJ1tBwEkOYbUUfhPqVkQ=="/>
+			<POI MapID="1175" xpos="-546.694" ypos="134.774" zpos="-22.5502" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="eKpRoxHit0qnTqpYozk7Hw=="/>
+			<POI MapID="1175" xpos="-548.318" ypos="136.688" zpos="-26.9642" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="OBLAAXDAbU2v7COL8/nfcA=="/>
+			<POI MapID="1175" xpos="-549.003" ypos="137.217" zpos="-31.1534" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="t6DTwyFXS0q1iu1urX8EhQ=="/>
+			<POI MapID="1175" xpos="-548.248" ypos="137.387" zpos="-37.1709" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="STVJ7CJni0yEhtPqCLlvUA=="/>
+			<POI MapID="1175" xpos="-548.522" ypos="139.705" zpos="-40.9046" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="5nIXzc6V30ePfwYX1+RyKA=="/>
+			<POI MapID="1175" xpos="-553.074" ypos="140.34" zpos="-44.5192" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="qEBZS6ieGkmbSYHZKaWFtA=="/>
+			<POI MapID="1175" xpos="-554.326" ypos="141.671" zpos="-47.9329" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="jMrMuHFfJk6C1Lw1C76rLw=="/>
+			<POI MapID="1175" xpos="-559.265" ypos="138.396" zpos="-51.3488" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="eD1tUjDAh0ib2mEbxTj16g=="/>
+			<POI MapID="1175" xpos="-564.458" ypos="140.721" zpos="-52.1064" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="Mm3GOq/M60Oju9w0dZ9p0g=="/>
+			<POI MapID="1175" xpos="-567.738" ypos="142.606" zpos="-52.4328" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="wz/NF3mDF067dCPk/oqZnA=="/>
+			<POI MapID="1175" xpos="-570.65" ypos="143.367" zpos="-52.7089" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="bDEj1x+3mEe5PojnSSpZsw=="/>
+			<POI MapID="1175" xpos="-572.768" ypos="140.59" zpos="-56.0443" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="Q1tp/wIe00WPmiqa5QeF4A=="/>
+			<POI MapID="1175" xpos="-571.099" ypos="136.332" zpos="-67.68" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="FqgOtYOFhk6/MxhTpbUfzA=="/>
+			<POI MapID="1175" xpos="-569.769" ypos="136.654" zpos="-72.8783" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="fAXV9GywMUGnnmHQ8lF1eg=="/>
+			<POI MapID="1175" xpos="-569.865" ypos="138.341" zpos="-79.6926" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="+iQREb3d0kKOcq1Xmxwn2g=="/>
+			<POI MapID="1175" xpos="-568.081" ypos="138.612" zpos="-82.581" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="+7LQO1ht1UGJlx2yIaZc6w=="/>
+			<POI MapID="1175" xpos="-561.708" ypos="138.115" zpos="-90.1962" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="5vO0xHwFokGTdKJefgPpKw=="/>
+			<POI MapID="1175" xpos="-563.925" ypos="136.478" zpos="-94.6176" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="efulZoBLKUKkcffEAxmEdQ==" triggerRange="10"/>
+			<POI MapID="1175" xpos="-564.994" ypos="137.861" zpos="-98.6975" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="u7eJ7q0jdEanAm21MCfqMA=="/>
+			<POI MapID="1175" xpos="-565.544" ypos="138.331" zpos="-102.371" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="BBHWAHLMoUaw/id+TuLvYA=="/>
+			<POI MapID="1175" xpos="-562.709" ypos="138.988" zpos="-107.954" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="L1ieL4BM10i4JmxA/5H55A=="/>
+			<POI MapID="1175" xpos="-562.467" ypos="141.652" zpos="-113.238" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="wyntvbz52U2olaymox2TlA=="/>
+			<POI MapID="1175" xpos="-559.821" ypos="139.371" zpos="-114.659" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="Dyy44OhGXE6spZi0DrC9JQ=="/>
+			<POI MapID="1175" xpos="-556.499" ypos="138.097" zpos="-116.313" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="RSJjz4/uHke8w/CUyb5/oA=="/>
+			<POI MapID="1175" xpos="-551.101" ypos="139.009" zpos="-117.793" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="aSfzQa1XyE+1k+M9W9xrDQ=="/>
+			<POI MapID="1175" xpos="-547.747" ypos="138.501" zpos="-122.018" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="ORSA/IlACEW6xABJI/dTow=="/>
+			<POI MapID="1175" xpos="-543.942" ypos="139.152" zpos="-124.376" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="s8q57jP8+EqQiO3pQw9Crg=="/>
+			<POI MapID="1175" xpos="-537.075" ypos="140.728" zpos="-126.283" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="nc+bG7M66kOAZ4zo0R+4yg=="/>
+			<POI MapID="1175" xpos="-537.316" ypos="143.657" zpos="-130.359" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="rBlMQINeQUS1h5nJCvXQoQ=="/>
+			<POI MapID="1175" xpos="-537.686" ypos="147.625" zpos="-134.073" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="uDSqilIgmEWIOmt/msJ78A=="/>
+			<POI MapID="1175" xpos="-537.258" ypos="150.767" zpos="-138.741" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="YbhVwqW7/kCpazUguSTjOQ=="/>
+			<!-- Brume Rafraîchissante 2 -->
+			<POI MapID="1175" xpos="-535.968" ypos="152.391" zpos="-133.584" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="P/tUsiF2R0+kvSm2pQYWTg=="/>
+			<POI MapID="1175" xpos="-535.151" ypos="150.214" zpos="-128.063" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="+yRbZd1lYUiSAkP3F02osQ==" triggerRange="2"/>
+			<POI MapID="1175" xpos="-534.527" ypos="147.007" zpos="-119.722" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="shIKtNYnpUabWYb0do2NgQ==" triggerRange="2"/>
+			<POI MapID="1175" xpos="-537.064" ypos="148.057" zpos="-116.087" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="Kz+tKQr/OUqjlUrc36tFOw=="/>
+			<POI MapID="1175" xpos="-538.167" ypos="150.523" zpos="-118.365" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="X1UCQ4cQtEKAsPdzBllY4A=="/>
+			<POI MapID="1175" xpos="-541.454" ypos="153.348" zpos="-117.694" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="dA4FeyutUkmgn6IXr0Vdlg=="/>
+			<POI MapID="1175" xpos="-544.963" ypos="155.357" zpos="-115.671" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="4mzvPgH8VkeKNsGP/GD7VA=="/>
+			<POI MapID="1175" xpos="-547.661" ypos="157.117" zpos="-115.271" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="ZnxnBbYh/Ui3qW0H0xoHqA=="/>
+			<POI MapID="1175" xpos="-550.487" ypos="159.802" zpos="-113.999" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="yppJLBLaHk60uaFas2n1Fw=="/>
+			<POI MapID="1175" xpos="-554.402" ypos="163.482" zpos="-113.793" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="gf8yeCLJG0CsNszGwx40Yw=="/>
+			<POI MapID="1175" xpos="-558.097" ypos="165.601" zpos="-114.781" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="UCtk8L8kIUyCmrjD1YhDmw=="/>
+			<POI MapID="1175" xpos="-557.771" ypos="167.102" zpos="-118.828" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="08JBEvEPIUuithQjZxRh6A=="/>
+			<POI MapID="1175" xpos="-548.913" ypos="166.629" zpos="-119.063" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="0ZYApS/xwEy5kxu+IlWQpA==" triggerRange="2"/>
+			<POI MapID="1175" xpos="-542.203" ypos="163.881" zpos="-121.187" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="KUqXPK8Flkihx0/23TMLxA==" triggerRange="2"/>
+			<POI MapID="1175" xpos="-536.719" ypos="161.704" zpos="-121.521" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="hPdEp5tSPU+cX8bNuL2ocA==" triggerRange="2"/>
+			<POI MapID="1175" xpos="-530.187" ypos="159.07" zpos="-122.758" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="/8kGrLKWfUuHICZ4Hb16qA==" triggerRange="2"/>
+			<POI MapID="1175" xpos="-521.548" ypos="158.524" zpos="-125.354" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="+Qh4ZMxE1Uul2xGsfz4n2A=="/>
+			<POI MapID="1175" xpos="-520.869" ypos="161.65" zpos="-130.271" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="nMgkqx1xekKAj5GYtCGp3w=="/>
+			<POI MapID="1175" xpos="-521.242" ypos="163.8" zpos="-134.012" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="cU55Su2xxUCe54lIViBZkQ=="/>
+			<POI MapID="1175" xpos="-523.506" ypos="166.109" zpos="-137.252" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="BMg0iFiwUU+AYdJZtlKWLQ=="/>
+			<POI MapID="1175" xpos="-524.668" ypos="167.777" zpos="-140.61" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="/gAE7aV9G0yl0zXjgxKrcA=="/>
+			<POI MapID="1175" xpos="-524.725" ypos="170.372" zpos="-144.529" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="ExrYfePuC0KOp9JQmBCSlg=="/>
+			<POI MapID="1175" xpos="-523.804" ypos="173.207" zpos="-149.933" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="6X85iYTUyUuMIX5ALfjwYA=="/>
+			<POI MapID="1175" xpos="-520.164" ypos="173.748" zpos="-153.692" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="suPd/DA/pkiOjitsB6aG0w=="/>
+			<POI MapID="1175" xpos="-512.333" ypos="173.366" zpos="-149.672" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="yOxrDrcGFkqJT0w/spWwpw==" triggerRange="2"/>
+			<POI MapID="1175" xpos="-509.397" ypos="172.184" zpos="-148.172" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="NMoCuoxUdEeloClbhla5lw=="/>
+			<POI MapID="1175" xpos="-508.213" ypos="175.819" zpos="-153.288" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="h7o2BpkDlECrPl/ZUBzUXQ=="/>
+			<POI MapID="1175" xpos="-507.951" ypos="178.738" zpos="-156.933" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="oDB7E/zW1EivClX4SI9fTw=="/>
+			<POI MapID="1175" xpos="-505.79" ypos="182.711" zpos="-159.873" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="uk/lyk8bTkuiyxKNkCcJjA=="/>
+			<POI MapID="1175" xpos="-504.831" ypos="185.617" zpos="-162.15" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="yE+hhS420EaT+/wxXuKjuQ=="/>
+			<POI MapID="1175" xpos="-503.371" ypos="187.69" zpos="-165.929" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="ZUAinkTUs0OStSa5Qg8lVg==" triggerRange="2"/>
+			<POI MapID="1175" xpos="-500.71" ypos="190.311" zpos="-168.468" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="WsTXs8mQjUSgHuTBaKHSYA=="/>
+			<POI MapID="1175" xpos="-495.55" ypos="191.044" zpos="-166.912" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="w3IaO6fB9keENjsQ9giH7A=="/>
+			<POI MapID="1175" xpos="-494.373" ypos="192.48" zpos="-162.14" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="Slo4USyUnE6NRaINhK58kQ=="/>
+			<POI MapID="1175" xpos="-488.328" ypos="194.718" zpos="-156.359" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="G4dqG6R8vUmlfMVW5c7cmg=="/>
+			<POI MapID="1175" xpos="-483.34" ypos="197.125" zpos="-157.367" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="r3BLtq2lpEqAfCHn0IZk+Q=="/>
+			<POI MapID="1175" xpos="-479.979" ypos="195.774" zpos="-153.296" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="KQ7ESUplJkG5BdvTB62TWA=="/>
+			<POI MapID="1175" xpos="-479.427" ypos="195.49" zpos="-143.246" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="UTqrQqQytkK3bJmgQtIi0w==" triggerRange="10"/>
+			<POI MapID="1175" xpos="-479.027" ypos="193.658" zpos="-136.919" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="yqKhLUXrxU6JshWy6I0i9g==" triggerRange="10"/>
+			<POI MapID="1175" xpos="-478.477" ypos="191.138" zpos="-128.219" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="BEoQkxjdp0uq/FOwlSlZgQ==" triggerRange="10"/>
+			<POI MapID="1175" xpos="-477.926" ypos="188.389" zpos="-119.501" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="WSdkwhmjCk25l6dqx64BhA==" triggerRange="10"/>
+			<POI MapID="1175" xpos="-476.408" ypos="185.068" zpos="-111.183" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="yjwPEzGfXEWCiq6/aVIrPA==" triggerRange="10"/>
+			<POI MapID="1175" xpos="-475.2" ypos="182.204" zpos="-103.978" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="awEv/RosZEyNhV/BohYxvA==" triggerRange="10"/>
+			<POI MapID="1175" xpos="-473.715" ypos="179.455" zpos="-97.1714" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="KicjFY9oKUmLo7JVazFkgA==" triggerRange="10"/>
+			<POI MapID="1175" xpos="-472.904" ypos="177.05" zpos="-91.0509" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="lJdlIjNzl0af0yBDUyKw6A==" triggerRange="10"/>
+			<POI MapID="1175" xpos="-471.521" ypos="174.874" zpos="-85.7322" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="As9krX9d6EihgWXMKqsovg==" triggerRange="10"/>
+			<POI MapID="1175" xpos="-469.477" ypos="173.752" zpos="-82.1801" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="PLz7OUt4hUaeVJavS4WCzQ==" triggerRange="10"/>
+			<POI MapID="1175" xpos="-465.687" ypos="175.887" zpos="-79.3167" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="LjaAVLWlt0ad4UpwCTpPOA=="/>
+			<POI MapID="1175" xpos="-462.476" ypos="177.327" zpos="-76.7187" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="DKhpcV3Zc0KDGyJWT0Ic0Q=="/>
+			<POI MapID="1175" xpos="-458.86" ypos="180.36" zpos="-72.06" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="5X74mc6ujkeeub1UXPNoPw=="/>
+			<POI MapID="1175" xpos="-457.928" ypos="182.173" zpos="-75.6563" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="WLhmBjJAIEWjhU+TrJqQhw=="/>
+			<POI MapID="1175" xpos="-462.9" ypos="183.49" zpos="-70.6839" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="bEttTcPA3U+PVvzmR0IVPw=="/>
+			<POI MapID="1175" xpos="-464.575" ypos="184.134" zpos="-65.3258" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="RMj8nqNm0kqI0s2TqxvCIQ=="/>
+			<POI MapID="1175" xpos="-465.955" ypos="186.468" zpos="-63.1605" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="yv0o16HiEE2ifNH3dhspbA=="/>
+			<POI MapID="1175" xpos="-464.357" ypos="188.383" zpos="-60.0519" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="k2wrQXmmwkKiiplSCZg1fw=="/>
+			<POI MapID="1175" xpos="-460.716" ypos="190.121" zpos="-58.3561" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="ylmaDWy3CUms3uHSjAfgcw=="/>
+			<POI MapID="1175" xpos="-457.194" ypos="191.415" zpos="-58.952" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="Req9M8nIbk2lkLGMsvwTKg=="/>
+			<POI MapID="1175" xpos="-455.329" ypos="193.905" zpos="-61.6582" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="NprJTcMSpkuqDGWuXEiBUg=="/>
+			<POI MapID="1175" xpos="-456.904" ypos="195.879" zpos="-65.9949" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="fQ4YBdDbtkKpTGpKbJTezg=="/>
+			<POI MapID="1175" xpos="-462.348" ypos="195.963" zpos="-61.7455" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="UVxDO/+otUqUzxvMAIUmfg==" triggerRange="2"/>
+			<POI MapID="1175" xpos="-466.803" ypos="194.359" zpos="-58.7356" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="AwtZylVQoEW/7wM2j/51UA==" triggerRange="2"/>
+			<POI MapID="1175" xpos="-469.19" ypos="194.572" zpos="-51.8181" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="KyMRIBn85EWKUvwRvY/Anw=="/>
+			<POI MapID="1175" xpos="-475.617" ypos="194.114" zpos="-56.2166" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="rIXmf9Rkt0yz1gJIKfl4hg==" triggerRange="2"/>
+			<POI MapID="1175" xpos="-484.649" ypos="190.784" zpos="-56.6146" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="y2KxLnZ/QU2rwk2uoAxOKw==" triggerRange="2"/>
+			<POI MapID="1175" xpos="-496.004" ypos="187.348" zpos="-54.1112" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="IQ3NWBgP6k2XF/yZD7EfBg==" triggerRange="2"/>
+			<POI MapID="1175" xpos="-505.062" ypos="184.577" zpos="-52.3968" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="/zKUG03gLECmnHJhWt810w=="/>
+			<POI MapID="1175" xpos="-511.043" ypos="191.325" zpos="-47.9135" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="yMY6C44GiE6IdeeuXP7C3A=="/>
+			<POI MapID="1175" xpos="-510.705" ypos="191.201" zpos="-38.5422" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="FyKWCw2flk2gbA3c+Lt91g==" triggerRange="2"/>
+			<POI MapID="1175" xpos="-509.607" ypos="188.208" zpos="-29.189" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="QTHPErG80UGppuJLho7rWw=="/>
+			<POI MapID="1175" xpos="-512.551" ypos="190.75" zpos="-25.5816" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="0wTNUQQ5LEmVTnKlayPgaA=="/>
+			<!-- Coffre Antique 1 -->
+			<POI MapID="1175" xpos="-516.32" ypos="192.43" zpos="-29.16" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="bPiK9SiVJEaD9Cp8gTLZAw=="/>
+			<POI MapID="1175" xpos="-522.363" ypos="199.131" zpos="-25.3243" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="Vy+/5nwRwUmbTgLdr44mOA=="/>
+			<POI MapID="1175" xpos="-527.253" ypos="201.435" zpos="-26.278" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="M9VTUzgxXEasH4TTcEvwlg=="/>
+			<POI MapID="1175" xpos="-529.728" ypos="202.094" zpos="-28.2272" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="nxEq3Mg5qUOksJKyEdsm1A=="/>
+			<POI MapID="1175" xpos="-530.898" ypos="203.711" zpos="-30.6068" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="cPCTx4GOYEWg7DZnJT0ROg=="/>
+			<POI MapID="1175" xpos="-535.113" ypos="205.838" zpos="-32.949" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="vV3IthLEvkeC+fe4SCGtgg=="/>
+			<!-- Brume Rafraîchissante 3 -->
+			<POI MapID="1175" xpos="-533.728" ypos="207.91" zpos="-37.4294" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="92/m25I4F0+5TJhdTipALQ=="/>
+			<POI MapID="1175" xpos="-529.04" ypos="207.805" zpos="-42.6701" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="6cQWyaAqxEWPuyw9ggydxA=="/>
+			<POI MapID="1175" xpos="-527.646" ypos="209.206" zpos="-47.7549" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="37mHeoIAOkuNcPSTFxvMiw==" triggerRange="5"/>
+			<POI MapID="1175" xpos="-525.87" ypos="207.26" zpos="-54.2531" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="y5xLWkcBqkil9WCHIQh7zw==" triggerRange="5"/>
+			<POI MapID="1175" xpos="-523.989" ypos="205.198" zpos="-61.1331" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="aTJOn9UlIESAzmYjyTmiPg==" triggerRange="5"/>
+			<POI MapID="1175" xpos="-522.004" ypos="203.022" zpos="-68.3954" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="VIZkj/Mov0y8L46NN90fNw==" triggerRange="5"/>
+			<POI MapID="1175" xpos="-518.963" ypos="200.159" zpos="-77.7001" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="ZngN/6lbakmMHIspRU6vIw==" triggerRange="5"/>
+			<POI MapID="1175" xpos="-516.184" ypos="197.524" zpos="-86.2716" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="PyUQYMY7lU2/9dN2HyqQ4w==" triggerRange="5"/>
+			<POI MapID="1175" xpos="-513.899" ypos="195.119" zpos="-94.2451" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="J2Yd8vussESC7JWevh0tOw==" triggerRange="5"/>
+			<POI MapID="1175" xpos="-512.123" ypos="193.172" zpos="-100.743" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="iwE5zf8NlkySmIyvoiQXzQ==" triggerRange="5"/>
+			<POI MapID="1175" xpos="-510.553" ypos="190.881" zpos="-108.39" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="yP6JTsQ0qU61qTprJFwmDA==" triggerRange="5"/>
+			<POI MapID="1175" xpos="-510.281" ypos="188.951" zpos="-116.017" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="0TZ+kok7d0GJecBZVYqLzA=="/>
+			<POI MapID="1175" xpos="-512.094" ypos="191.048" zpos="-119.767" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="3HhJcSzJx0OIZ1CJYFlCsw=="/>
+			<POI MapID="1175" xpos="-512.033" ypos="192.45" zpos="-124.167" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="P9lNAUa5vkK1zGAyij4t9Q=="/>
+			<POI MapID="1175" xpos="-511.902" ypos="193.942" zpos="-128.035" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="OSYeuHiIqka77ehT2TYSBA=="/>
+			<POI MapID="1175" xpos="-513.643" ypos="195.761" zpos="-130.9" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="FGIHQKeJx0Kg1O0XhMFkDQ=="/>
+			<POI MapID="1175" xpos="-511.435" ypos="197.546" zpos="-133.478" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="mCvsLE3kKkW4KJ1GlaOsUw=="/>
+			<POI MapID="1175" xpos="-510.961" ypos="199.722" zpos="-136.42" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="jZml2XLmWEO/KmfqNq6csg=="/>
+			<POI MapID="1175" xpos="-511.676" ypos="201.421" zpos="-140.407" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="kkMvCHAjMUuyT+Gb673gcA=="/>
+			<POI MapID="1175" xpos="-512.047" ypos="204.357" zpos="-145.834" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="BhBKRgZZ4U2H9CxtGEKT7Q=="/>
+			<POI MapID="1175" xpos="-515.565" ypos="206.673" zpos="-151.076" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="lV/2Oraus0GPm9MaXilwkQ=="/>
+			<POI MapID="1175" xpos="-511.409" ypos="206.658" zpos="-153.013" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="H1C7B/G4xUWtZlXzhm/UHA=="/>
+			<POI MapID="1175" xpos="-508.627" ypos="207.252" zpos="-158.856" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="J79C8DKj0kyp0zIGZwmjXA==" triggerRange="2"/>
+			<POI MapID="1175" xpos="-506.689" ypos="205.253" zpos="-163.896" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="HC0TjT4eM0OtT4FrkawcYA==" triggerRange="2"/>
+			<POI MapID="1175" xpos="-506.334" ypos="203.65" zpos="-169.429" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="hK+xBnDRUUmuvoMv2tIe7w==" triggerRange="2"/>
+			<POI MapID="1175" xpos="-507.975" ypos="202.872" zpos="-171.87" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="Xlv8hn8j9UC3oA2fHlLC7g=="/>
+			<POI MapID="1175" xpos="-509.611" ypos="204.564" zpos="-174.467" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="3vxbiMi3REqdMcYN4XzsVA=="/>
+			<POI MapID="1175" xpos="-510.592" ypos="205.764" zpos="-178.795" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="6Aiita+OD0m4BWCLfqwyDg=="/>
+			<POI MapID="1175" xpos="-506.933" ypos="209.168" zpos="-179.959" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="+D+w4vh/VUKpFKhoZ2MqZg=="/>
+			<POI MapID="1175" xpos="-506.63" ypos="210.982" zpos="-185.226" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="KxV2y4+GfEe5Cs7zYtzRfg=="/>
+			<POI MapID="1175" xpos="-503.089" ypos="213.563" zpos="-189.054" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="ShfGrxqWkkye1sIXftmSHA=="/>
+			<!-- Brume Rafraîchissante 4 -->
+			<POI MapID="1175" xpos="-503.749" ypos="213.703" zpos="-201.677" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="rdNg0Q/QXkCsggMiogqKuA=="/>
+			<POI MapID="1175" xpos="-509.4" ypos="215.154" zpos="-199.486" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="+wDC95ha/0Wft76Bb1Lzgg=="/>
+			<POI MapID="1175" xpos="-512.573" ypos="215.871" zpos="-196.24" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="2+trb1YcaU67RWONC3xlAQ=="/>
+			<POI MapID="1175" xpos="-510.882" ypos="215.081" zpos="-191.135" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="wXqhmNtS+Ee5vydCW5gQ7A=="/>
+			<POI MapID="1175" xpos="-508.409" ypos="215.962" zpos="-185.577" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="1i9JI4tm80OI9l8FUVb3xg=="/>
+			<POI MapID="1175" xpos="-506.038" ypos="217.998" zpos="-182.097" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="YpX93ew+90+zpnKUMznqYA=="/>
+			<POI MapID="1175" xpos="-504.036" ypos="218.513" zpos="-179.612" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="+d7sjBAb1EOb97G/ww118g=="/>
+			<POI MapID="1175" xpos="-502.345" ypos="218.183" zpos="-172.6" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="+D0a14CnHkqVtRUisHKJnA=="/>
+			<POI MapID="1175" xpos="-505.608" ypos="218.432" zpos="-171.964" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="9cFtmaNTG0yXQddJFSjr6g=="/>
+			<POI MapID="1175" xpos="-508.93" ypos="219.27" zpos="-169.87" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="Jv+kwz83PUmhm3Q7gwX7mw=="/>
+			<POI MapID="1175" xpos="-511.489" ypos="221.423" zpos="-165.179" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="PjM0V7vHjkuQLDrW8qG+ZA=="/>
+			<POI MapID="1175" xpos="-507.762" ypos="220.674" zpos="-157.065" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="ki27VJ5MUUaheJyKc58qfQ==" triggerRange="10"/>
+			<POI MapID="1175" xpos="-503.358" ypos="218.881" zpos="-153.902" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="VMmn/Ots60+PXu+DcKYbrQ==" triggerRange="10"/>
+			<POI MapID="1175" xpos="-497.098" ypos="216.361" zpos="-148.249" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="0BoOq83e2UqdJYSJAh2IAw==" triggerRange="10"/>
+			<POI MapID="1175" xpos="-491.612" ypos="213.955" zpos="-142.371" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="HwfyVjEsY0Kr87PizuK1SA==" triggerRange="10"/>
+			<POI MapID="1175" xpos="-486.946" ypos="211.664" zpos="-136.224" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="FGeDLfB2TEuoSVREaOjWOw==" triggerRange="10"/>
+			<POI MapID="1175" xpos="-482.18" ypos="209.488" zpos="-130.712" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="OKIFr04q30eYd/I+TdG28Q==" triggerRange="10"/>
+			<POI MapID="1175" xpos="-477.859" ypos="207.77" zpos="-126.908" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="kacIQfa6mUKjGXQmlbPx1A==" triggerRange="10"/>
+			<POI MapID="1175" xpos="-473.076" ypos="205.708" zpos="-121.949" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="dygKXrXw9Ee8GAuZjw7XtQ==" triggerRange="10"/>
+			<POI MapID="1175" xpos="-469.754" ypos="202.845" zpos="-112.93" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="z5SJ0nL6GEWL8TL6LOPpBw==" triggerRange="10"/>
+			<POI MapID="1175" xpos="-469.161" ypos="201.444" zpos="-110.127" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="p/JDhEZ560WRNCEVJ1ZcdQ=="/>
+			<POI MapID="1175" xpos="-471.67" ypos="204.312" zpos="-109.212" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="XWtu11tTkEeI5uvmOPfLQw=="/>
+			<POI MapID="1175" xpos="-475.527" ypos="206.376" zpos="-108.119" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="3lzQugzXQ0Wqi7yewQK8VQ=="/>
+			<POI MapID="1175" xpos="-469.364" ypos="207.024" zpos="-108.821" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="beheCkzny0ykKIVY8XkZxw==" triggerRange="2"/>
+			<POI MapID="1175" xpos="-463.59" ypos="204.881" zpos="-108.558" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="mb6LT8LGjEKfQIa+UgGmQw==" triggerRange="2"/>
+			<POI MapID="1175" xpos="-458.025" ypos="202.841" zpos="-106.633" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="Pt0zg7X2eEa7+B2WS3U91w==" triggerRange="2"/>
+			<POI MapID="1175" xpos="-455.066" ypos="199.557" zpos="-97.8571" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="pPHemANFUUqCDlq1RU9+NA=="/>
+			<POI MapID="1175" xpos="-455.885" ypos="199.258" zpos="-92.7361" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="tzuTtV1PnkyClSqYgrvqcg=="/>
+			<POI MapID="1175" xpos="-455.422" ypos="200.693" zpos="-88.6189" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="nEXly9xWvkuKokAuEUN2lQ=="/>
+			<POI MapID="1175" xpos="-455.522" ypos="203.511" zpos="-90.7085" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="rUVzq6g6hEityt3aaQvFoA=="/>
+			<POI MapID="1175" xpos="-462.969" ypos="204.355" zpos="-91.4666" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="ziZKTb/Fbk2dTUEJBJSHVw=="/>
+			<POI MapID="1175" xpos="-465.471" ypos="206.719" zpos="-92.9867" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="cyaETfoIeECKPCtetV7NrQ=="/>
+			<POI MapID="1175" xpos="-468.75" ypos="208.065" zpos="-90.0768" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="prs7Lnmy/kG8IOvNiIQQQQ==" triggerRange="2"/>
+			<POI MapID="1175" xpos="-479.576" ypos="202.056" zpos="-76.1082" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="cwpCzJUBPkun9iYLlDpxVg=="/>
+			<POI MapID="1175" xpos="-477.157" ypos="203.477" zpos="-72.548" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="YCgp4uX0iUaGSsoqLzG3MA=="/>
+			<POI MapID="1175" xpos="-476.058" ypos="204.759" zpos="-69.3816" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="UFbdgSuWWEqntuW3ODRf9A=="/>
+			<!-- Coffre Antique 2 -->
+			<POI MapID="1175" xpos="-477.863" ypos="206.094" zpos="-77.3629" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="ATMidZMmdU+UTRQBaMs2Lw=="/>
+			<POI MapID="1175" xpos="-476.511" ypos="208.327" zpos="-73.5242" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="HibZErMDOEWYbyS/xa+8Ug=="/>
+			<POI MapID="1175" xpos="-474.347" ypos="210.448" zpos="-70.7632" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="25RtzHfbhU6ZlnuXePC9CA=="/>
+			<POI MapID="1175" xpos="-473.431" ypos="211.549" zpos="-67.2331" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="g0lx8lAOe0GKuVISVWV4iw=="/>
+			<POI MapID="1175" xpos="-475.227" ypos="213.135" zpos="-64.1385" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="5BEqnDcZxU6IgZSfvzS7YA==" triggerRange="2"/>
+			<POI MapID="1175" xpos="-477.947" ypos="211.787" zpos="-60.7982" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="1WSipCILxUKGwtPfiLz9SA==" triggerRange="2"/>
+			<POI MapID="1175" xpos="-482.242" ypos="210.16" zpos="-55.9966" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="0Bvp8Mwc90WRtALZjCuv/Q=="/>
+			<POI MapID="1175" xpos="-485.036" ypos="211.333" zpos="-51.375" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="/4/BatdZAEypO1KqI52QFA=="/>
+			<POI MapID="1175" xpos="-486.824" ypos="212.797" zpos="-47.2331" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="USuSRk+Wk0aEXKBresT8+w=="/>
+			<POI MapID="1175" xpos="-483.11" ypos="215.82" zpos="-45.4039" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="pJfMoEdRKkSztxC55NluTg=="/>
+			<POI MapID="1175" xpos="-478.954" ypos="219.226" zpos="-44.0775" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="YWNSuRtmMkWBypxbbg00+g=="/>
+			<POI MapID="1175" xpos="-473.627" ypos="223.142" zpos="-41.2252" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="j2LDBU9qmUuwoVc/XAaTUA=="/>
+			<POI MapID="1175" xpos="-464.987" ypos="225.361" zpos="-40.4438" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="yMvz3pJLkUq4zin+sFGB+g=="/>
+			<POI MapID="1175" xpos="-457.149" ypos="226.423" zpos="-44.4675" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="0TBAItJhUkKKZtrafKWynw=="/>
+			<POI MapID="1175" xpos="-451.803" ypos="227.037" zpos="-44.059" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="3fcyyip4+U+bA9WA1Fek/Q=="/>
+			<POI MapID="1175" xpos="-449.824" ypos="229.392" zpos="-42.461" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="JrC8Rqm5x0GX9WGATasf2g=="/>
+			<POI MapID="1175" xpos="-454.675" ypos="230.89" zpos="-46.2901" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="HOOiKct3wUiRfYF7Jz5K/g=="/>
+			<POI MapID="1175" xpos="-452.867" ypos="232.805" zpos="-48.4108" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="O61xEQIU2UKAX6gzaS83fg=="/>
+			<POI MapID="1175" xpos="-455.961" ypos="233.888" zpos="-62.9163" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="hH9e/j3NwkeNyocqnuEw1w=="/>
+			<POI MapID="1175" xpos="-450.876" ypos="237.179" zpos="-62.6672" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="LYV0Fbcu+kGhxUQpmeiLfA=="/>
+			<POI MapID="1175" xpos="-446.543" ypos="239.381" zpos="-64.0963" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="e1T03EdP50i8+Xlrm7TY8w=="/>
+			<!-- Brume Rafraîchissante 5 -->
+			<POI MapID="1175" xpos="-434.975" ypos="241.05" zpos="-65.322" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="0lbEW6wkJUyH35recJBFRQ=="/>
+			<POI MapID="1175" xpos="-431.757" ypos="241.224" zpos="-61.8822" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="5yFDPDUVKkSw76dSnJUaXA=="/>
+			<POI MapID="1175" xpos="-431.787" ypos="243.022" zpos="-57.0283" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="+emtzYwxwEOpcc5u4E24Pw=="/>
+			<POI MapID="1175" xpos="-432.406" ypos="244.194" zpos="-52.8476" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="n7HLGjHg/EeWvYFqF2Kbnw=="/>
+			<!-- Parcours Optimisé -->
+			<POI MapID="1175" xpos="-434.4" ypos="246.965" zpos="-55.1541" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="DTaJdCxMNUGvXnL4Dq3wYA=="/>
+			<POI MapID="1175" xpos="-437.612" ypos="250.607" zpos="-55.6427" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="xAb7MGDxhUWL5Uc7KuGS3g=="/>
+			<POI MapID="1175" xpos="-440.764" ypos="254.286" zpos="-55.898" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="AKAxwpDfXEWIypnAL66UAw=="/>
+			<POI MapID="1175" xpos="-443.98" ypos="257.966" zpos="-55.9888" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="a+4tHrTv8Uygdhyl9gS0+w=="/>
+			<POI MapID="1175" xpos="-447.735" ypos="259.558" zpos="-56.1681" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="2cCJ1bmY3keDgyXrf8hMlw=="/>
+			<!-- Chemin classique
+			<POI MapID="1175" xpos="-435.288" ypos="245.462" zpos="-50.9803" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="syH/KVq36USCqE9s58a9Gw=="/>
+			<POI MapID="1175" xpos="-436.86" ypos="248.188" zpos="-52.8562" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="LciKDGjqrUunAyWVfTn85w=="/>
+			<POI MapID="1175" xpos="-440.473" ypos="248.535" zpos="-48.0556" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="FCV1XWtwDUyvi3VOdXEZbw=="/>
+			<POI MapID="1175" xpos="-447.906" ypos="249.175" zpos="-47.0679" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="B+BacEvWrk2jDVxQRkuvpA=="/>
+			<POI MapID="1175" xpos="-452.047" ypos="250.781" zpos="-49.7591" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="6VNPsPNgC0SyQhayQn8uTw=="/>
+			<POI MapID="1175" xpos="-446.459" ypos="251.893" zpos="-48.1592" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="j1wOvGf0TkeyKgOkqJnYZA=="/>
+			<POI MapID="1175" xpos="-443.778" ypos="254.658" zpos="-51.7527" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="7w9V2FJ6BUaiZD/QPqJCbg=="/>
+			<POI MapID="1175" xpos="-446.844" ypos="256.17" zpos="-50.0759" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="giaeVcU49EeOl0tSWdMaUQ=="/>
+			<POI MapID="1175" xpos="-448.41" ypos="258.949" zpos="-53.0861" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="1AL9PkvuzE6CCHYG6cNNUw=="/>
+			-->
+			<POI MapID="1175" xpos="-451.469" ypos="261.351" zpos="-56.6007" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="DED4+L7ZwE6Qqbw/kJuVyw=="/>
+			<POI MapID="1175" xpos="-454.442" ypos="262.209" zpos="-55.9304" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="7jJwVzQMzEmjMXADn7dLqA=="/>
+			<POI MapID="1175" xpos="-457.381" ypos="262.464" zpos="-62.7566" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="iwiEDB2vjUq/2W5wNqAv6g==" triggerRange="5"/>
+			<POI MapID="1175" xpos="-459.812" ypos="260.516" zpos="-68.8114" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="pvym2ZE92UuvFtv2PpcSzw==" triggerRange="5"/>
+			<POI MapID="1175" xpos="-462.191" ypos="258.455" zpos="-75.32" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="GpIF4FVv+EKc4TEAlEQAjA==" triggerRange="5"/>
+			<POI MapID="1175" xpos="-463.429" ypos="255.898" zpos="-83.1576" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="H1k+KQ13m0e/Q/Ka6LW9Ig==" triggerRange="5"/>
+			<POI MapID="1175" xpos="-461.016" ypos="253.722" zpos="-90.2873" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="0yMYWn3JXUeC24TmB62yHg==" triggerRange="5"/>
+			<POI MapID="1175" xpos="-458.216" ypos="251.202" zpos="-98.5429" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="UGkBn5AkiUSZhx9gN1Sn/w==" triggerRange="5"/>
+			<POI MapID="1175" xpos="-455.076" ypos="248.297" zpos="-105.611" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="715fgO/e/kGxyjPBFFG+Sw=="/>
+			<POI MapID="1175" xpos="-448.96" ypos="251.604" zpos="-104.763" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="7quirXvBO0SK8dQRDZumSg=="/>
+			<POI MapID="1175" xpos="-442.569" ypos="254.491" zpos="-104.829" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="EBbBlSxCjka9u73GbsOKGw=="/>
+			<POI MapID="1175" xpos="-437.005" ypos="254.408" zpos="-106.291" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="BistQcKQZkON0MI5s7PbFg=="/>
+			<POI MapID="1175" xpos="-430.804" ypos="257.166" zpos="-110.02" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="FM9cPwEb6UmSvlAcDXolaw=="/>
+			<POI MapID="1175" xpos="-427.877" ypos="259.611" zpos="-113.047" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="tMstSReN4kaOb4Y4/rjAhA=="/>
+			<POI MapID="1175" xpos="-427.924" ypos="259.87" zpos="-116.695" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="O+kQmev9x0qo0bWhDhRFag=="/>
+			<POI MapID="1175" xpos="-427.782" ypos="259.833" zpos="-121.296" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="nV4MbORz+UKS50aDEsucRg=="/>
+			<POI MapID="1175" xpos="-421.994" ypos="261.923" zpos="-123.461" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="thlviFAXGEaHmVKiBSAqnw=="/>
+			<POI MapID="1175" xpos="-415.975" ypos="263.875" zpos="-121.735" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="EkFX5KAXT0ys2rHn5on5kQ=="/>
+			<POI MapID="1175" xpos="-413.195" ypos="263.908" zpos="-118.712" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="IRkezC3nnE+yOatyQ5eXeA=="/>
+			<POI MapID="1175" xpos="-408.712" ypos="264.413" zpos="-114.75" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="l5AvWLXoRkmhpxVQjP2o7w=="/>
+			<POI MapID="1175" xpos="-405.258" ypos="264.553" zpos="-111.681" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="4DJdzAxsjUKypZ9GMxhlmQ=="/>
+			<POI MapID="1175" xpos="-407.129" ypos="264.934" zpos="-103.949" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="8Yb3O7Tyy0eYewieg/xkKg==" triggerRange="2"/>
+			<POI MapID="1175" xpos="-408.163" ypos="263.33" zpos="-98.5735" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="kug9vpoaJ0qBicRGT5z0Yg==" triggerRange="2"/>
+			<POI MapID="1175" xpos="-409.881" ypos="260.629" zpos="-90.7648" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="qsg8iUMNL0qSWwhQsQcbnQ==" triggerRange="2"/>
+			<POI MapID="1175" xpos="-413.951" ypos="259.324" zpos="-85.9106" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="jisGt+nw6U2xHVSnK8WLhQ=="/>
+			<POI MapID="1175" xpos="-418.341" ypos="260.673" zpos="-86.4989" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="X0Ks92xEukGNcj1bQ5BJ5w=="/>
+			<POI MapID="1175" xpos="-422.567" ypos="261.17" zpos="-87.3324" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="9Yq0r/PqT02Fddbr4ulS7w=="/>
+			<POI MapID="1175" xpos="-421.78" ypos="263.62" zpos="-84.94" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="/Grv/KczuEOpjTkQhQyD0Q=="/>
+			<POI MapID="1175" xpos="-424.96" ypos="264.08" zpos="-85.01" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="Xr0aOFvFeEOEHIanhCVeDQ=="/>
+			<POI MapID="1175" xpos="-431.531" ypos="263.398" zpos="-86.0041" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="klSPYXQzx0i29tVwPy9xSQ=="/>
+			<POI MapID="1175" xpos="-445.013" ypos="261.203" zpos="-85.3814" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="cRnrC8NTqEanq6kvOjKixA=="/>
+			<POI MapID="1175" xpos="-454.855" ypos="261.808" zpos="-84.6968" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="icZNfmOnUk6ILEx42Hq6Cg=="/>
+			<POI MapID="1175" xpos="-457.806" ypos="264.517" zpos="-83.1402" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="7W0op5kkXEOyBE7b0j5nJg=="/>
+			<POI MapID="1175" xpos="-454.815" ypos="266.604" zpos="-81.2485" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="R/xLB4uJDU+/ee615gtPCw=="/>
+			<POI MapID="1175" xpos="-450.714" ypos="268.327" zpos="-81.4451" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="Gzk9tdk8jUK2ylY701DJGA=="/>
+			<POI MapID="1175" xpos="-445.862" ypos="270.194" zpos="-81.2303" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="JRNCrZ4TYUiCO1hfXn5NJw=="/>
+			<POI MapID="1175" xpos="-440.16" ypos="271.585" zpos="-81.7714" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="QT7DnskRDU2A3BExZ0Bd/Q=="/>
+			<POI MapID="1175" xpos="-435.582" ypos="275.33" zpos="-81.8706" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="9IrAylG9L0i8Fy2tGnswHw=="/>
+			<POI MapID="1175" xpos="-428.497" ypos="275.179" zpos="-84.9762" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="6K7nAGQry0qkRH0q5COFMg==" triggerRange="2"/>
+			<POI MapID="1175" xpos="-421.661" ypos="273.003" zpos="-88.1281" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="QnnpiltUAUGtKuninm1iKA==" triggerRange="2"/>
+			<POI MapID="1175" xpos="-413.394" ypos="270.724" zpos="-93.3794" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="uDR0XwPzFkGDF9qRRbBXiQ==" triggerRange="2"/>
+			<POI MapID="1175" xpos="-410.614" ypos="271.735" zpos="-97.7822" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="3IYRsjABNk22C+yTBgUX1w=="/>
+			<POI MapID="1175" xpos="-410.987" ypos="273.381" zpos="-101.3" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="wLNiGATuW06r/DTo4xA/qQ=="/>
+			<POI MapID="1175" xpos="-414.62" ypos="274.031" zpos="-108.703" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="mqkw2N7ATkSs7XA+yvSVSA=="/>
+			<POI MapID="1175" xpos="-416.568" ypos="275.438" zpos="-113.14" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="6xSLb79ii0GcIaIgUe/Cbg==" triggerRange="2"/>
+			<POI MapID="1175" xpos="-420.238" ypos="273.404" zpos="-118.999" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="1KUQnkzHVU+T1vpGDojw6g==" triggerRange="2"/>
+			<POI MapID="1175" xpos="-422.79" ypos="271.743" zpos="-123.001" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="iPgQbur0E0mfpEsdrrzWdA=="/>
+			<POI MapID="1175" xpos="-423.823" ypos="275.019" zpos="-120.128" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="Z5EG08AalUaQ0UFrC1v7Ug=="/>
+			<POI MapID="1175" xpos="-420.76" ypos="277.77" zpos="-114.32" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="vW6qe5jBR0qBKcXKDEyVMA=="/>
+			<POI MapID="1175" xpos="-419.096" ypos="279.291" zpos="-110.692" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="miN5uR8vCESL6yamW+n+CQ=="/>
+			<POI MapID="1175" xpos="-422.625" ypos="279.221" zpos="-119.19" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="6jQarG43ekepbIM0e9c57Q==" triggerRange="2"/>
+			<POI MapID="1175" xpos="-424.718" ypos="277.617" zpos="-124.327" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="zQQJLjQPtkGmmATF3QQMHg==" triggerRange="2"/>
+			<POI MapID="1175" xpos="-427.545" ypos="275.326" zpos="-131.686" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="iKoE7DzceECu5TmdIgl/KQ==" triggerRange="2"/>
+			<POI MapID="1175" xpos="-428.794" ypos="272.935" zpos="-139.395" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="6ESnKsjnSEy32NXgkV7+Fg==" triggerRange="2"/>
+			<POI MapID="1175" xpos="-429.57" ypos="272.091" zpos="-144.957" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="IwrKd+ltqUCVtm69AiUXXw=="/>
+			<POI MapID="1175" xpos="-426.705" ypos="274.242" zpos="-144.004" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="kdSUfHmsJk6zk7R62Yuksg=="/>
+			<POI MapID="1175" xpos="-425.121" ypos="277.31" zpos="-141.339" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="SnwsvK4u3UKcqnKLL9gJAA=="/>
+			<POI MapID="1175" xpos="-423.203" ypos="279.911" zpos="-139.297" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="rhMe7K+jZUCmipvt9+dRQg=="/>
+			<POI MapID="1175" xpos="-421.466" ypos="282.96" zpos="-137.372" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="Cz85AS6kgkSBUerWJiXXzg=="/>
+			<POI MapID="1175" xpos="-419.829" ypos="285.669" zpos="-134.902" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="SXg+slV4w0+CXr2Vy0ckzg=="/>
+			<POI MapID="1175" xpos="-417.959" ypos="288.367" zpos="-132.238" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="+cVSyQ6TE0CBJHW81swfEw=="/>
+			<POI MapID="1175" xpos="-414.228" ypos="290.481" zpos="-130.658" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="sqWr8Q9QE0SIloUSalI4wA=="/>
+			<POI MapID="1175" xpos="-412.592" ypos="292.933" zpos="-126.968" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="4YHl6oM190yWvut9kQP/1Q=="/>
+			<POI MapID="1175" xpos="-416.663" ypos="294.738" zpos="-124.154" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="cyO4iATZaEK+qXuhWeUiog=="/>
+			<POI MapID="1175" xpos="-416.228" ypos="297.54" zpos="-125.136" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="MDzjpG4dnEq0Y1vX2pBohw=="/>
+			<POI MapID="1175" xpos="-413.911" ypos="300.473" zpos="-126.004" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="yA/JpgKE9UGLg9JTVVQidQ=="/>
+			<POI MapID="1175" xpos="-418.518" ypos="301.625" zpos="-129.336" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="jJyrHx+jiUCbkjzIM31z7g==" triggerRange="10"/>
+			<POI MapID="1175" xpos="-423.654" ypos="299.792" zpos="-133.047" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="+RfApa5GA0yaYhkv61AlNw==" triggerRange="10"/>
+			<POI MapID="1175" xpos="-429.435" ypos="297.73" zpos="-137.224" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="YUShZ0r/UUKn8TVy7UjxOg==" triggerRange="10"/>
+			<POI MapID="1175" xpos="-435.216" ypos="295.668" zpos="-141.401" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="PqaoklF5W0y8GsKIOr7JRw==" triggerRange="10"/>
+			<POI MapID="1175" xpos="-442.876" ypos="293.034" zpos="-146.022" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="5QUG9CVM/ECP/pwaNGRotw==" triggerRange="10"/>
+			<POI MapID="1175" xpos="-449.395" ypos="290.628" zpos="-150.758" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="bE/jVBgmjUOzTUP3fYWcqg==" triggerRange="10"/>
+			<POI MapID="1175" xpos="-454.863" ypos="288.681" zpos="-154.683" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="XbEefW0UcUeTN8cIIzey8Q==" triggerRange="10"/>
+			<POI MapID="1175" xpos="-460.965" ypos="286.504" zpos="-159.092" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="nIbwWneJt0+RoNPUM4X7AA==" triggerRange="10"/>
+			<POI MapID="1175" xpos="-466.746" ypos="284.442" zpos="-163.269" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="HQAoHFC+yEyowirqA+IvzQ==" triggerRange="10"/>
+			<POI MapID="1175" xpos="-472.848" ypos="282.266" zpos="-167.679" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="Toj4addpIE2669yyVlUAtg==" triggerRange="10"/>
+			<POI MapID="1175" xpos="-478.629" ypos="280.204" zpos="-171.856" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="v4q8/OqWsUelsZLrfeGFvw==" triggerRange="10"/>
+			<POI MapID="1175" xpos="-485.374" ypos="277.799" zpos="-176.729" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="VeSFHLZddUiPz8pH6qeguA==" triggerRange="10"/>
+			<POI MapID="1175" xpos="-490.834" ypos="275.851" zpos="-180.674" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="ApiuR3k3PUqIFvyKaqPcZQ==" triggerRange="10"/>
+			<POI MapID="1175" xpos="-496.615" ypos="273.789" zpos="-184.851" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="W5NYiiO5Ik6BksiX1y52sA==" triggerRange="10"/>
+			<POI MapID="1175" xpos="-503.36" ypos="271.384" zpos="-189.724" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="uCySssLhrkGZZgZXJ/uLMg==" triggerRange="10"/>
+			<POI MapID="1175" xpos="-511.389" ypos="268.52" zpos="-195.526" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="rFIN4izDI0WTT75KSGQhYA==" triggerRange="10"/>
+			<POI MapID="1175" xpos="-516.849" ypos="266.573" zpos="-199.471" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="0jZD0CLb80KRytYw2t5fSw==" triggerRange="10"/>
+			<POI MapID="1175" xpos="-521.602" ypos="264.626" zpos="-202.906" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="0zmjbGN8fEKmwyrAoAs+dg==" triggerRange="10"/>
+			<POI MapID="1175" xpos="-527.477" ypos="262.106" zpos="-207.15" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="sjC4Xq/URUu+mrT5mJWTLg==" triggerRange="10"/>
+			<POI MapID="1175" xpos="-533.018" ypos="259.356" zpos="-212.063" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="duCZEbdi0UGR/hrXd7WNXA==" triggerRange="10"/>
+			<POI MapID="1175" xpos="-533.23" ypos="258.32" zpos="-215.8" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="hu4Z+dokn0SUKFX9dzZ2cA=="/>
+			<POI MapID="1175" xpos="-537.789" ypos="259.216" zpos="-216.007" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="dT3+QweJbkuvHkaAC45PkQ=="/>
+			<POI MapID="1175" xpos="-539.7" ypos="259" zpos="-218" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="NTg0YTJkNTE5MGU4NQ==" iconFile="Img\Danger.png" iconSize="0.3"/>
+			<POI MapID="1175" xpos="-539.773" ypos="262.986" zpos="-215.978" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="Z2ZqSWpwM0CnweVQ11nhFw=="/>
+			<POI MapID="1175" xpos="-537.643" ypos="262.802" zpos="-219.178" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="aHFYAe1gOky1tzbKZT1uyQ=="/>
+			<POI MapID="1175" xpos="-535.655" ypos="266.707" zpos="-216.882" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="RXZnT0Ub9kiN0W4XTBS7rg=="/>
+			<POI MapID="1175" xpos="-538.179" ypos="266.606" zpos="-227.245" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="zPB9G/LKeUa3I57Lk+aPrQ=="/>
+			<POI MapID="1175" xpos="-538.02" ypos="268.979" zpos="-229.717" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="O+8gKlSkYkW/M84MdeCYTQ=="/>
+			<POI MapID="1175" xpos="-538.557" ypos="270.288" zpos="-232.875" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="ziHsu7I0P0ua90LckYEJqA=="/>
+			<POI MapID="1175" xpos="-539.182" ypos="272.129" zpos="-237.659" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="Q2fTEIJGikaOwx4qExCmzg=="/>
+			<POI MapID="1175" xpos="-539.723" ypos="273.109" zpos="-240.916" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="zy59Modeh0eNd5gOauUh5A=="/>
+			<POI MapID="1175" xpos="-538.639" ypos="275.238" zpos="-245.124" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="3xNWnskPgUGIVptDVHeBGg=="/>
+			<POI MapID="1175" xpos="-536.967" ypos="274.949" zpos="-242.394" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="PcenVw9cdkCczzZouuAtwQ=="/>
+			<POI MapID="1175" xpos="-535.686" ypos="276.967" zpos="-238.285" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="Sz/ITfeLukm8z0+lrOk4ug=="/>
+			<POI MapID="1175" xpos="-534.98" ypos="278.735" zpos="-235.508" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="BBoDpth49kyv51YIhVrokA=="/>
+			<POI MapID="1175" xpos="-533.871" ypos="280.861" zpos="-231.227" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="b4NkvK5jL0Sk8Lgj+h8r+Q=="/>
+			<POI MapID="1175" xpos="-532.508" ypos="281.668" zpos="-228.319" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="oJTStdtdS0mX16rnKu/dKw=="/>
+			<POI MapID="1175" xpos="-532.28" ypos="283.209" zpos="-225.674" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="DB2xWEO9cUuQbZWYGCgIVg=="/>
+			<POI MapID="1175" xpos="-531.235" ypos="284.024" zpos="-219.317" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="RucI28xJPEWUX8dHqC8+ag=="/>
+			<POI MapID="1175" xpos="-532.852" ypos="286.723" zpos="-221.522" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="BMF9UYzKj06A0AqMg+kg4Q=="/>
+			<POI MapID="1175" xpos="-533.499" ypos="288.169" zpos="-224.224" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="FbRDvmhL/UyjgG2oVV2xKQ=="/>
+			<POI MapID="1175" xpos="-535.164" ypos="291.103" zpos="-229.511" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="Zz7y/aEpzEK/WQBeJgI1Qw=="/>
+			<POI MapID="1175" xpos="-536.3" ypos="292.668" zpos="-233.349" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="0ALUa7tgp0S07kskXoRdpg=="/>
+			<POI MapID="1175" xpos="-537.206" ypos="293.79" zpos="-237.043" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="ws1fCjkBYkGKgkuo72N/tA=="/>
+		</Route>
+
+		<!-- Brumes Rafraîchissantes -->
+		<!-- 1 --><POI MapID="1175" xpos="-547.07" ypos="131.3" zpos="-5.1" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="VAocFQXg602oGJsyS/pLEg==" iconFile="Img\1.png" iconSize="1.5" color="ff00ffff"/>
+		<!-- 2 --><POI MapID="1175" xpos="-536.58" ypos="152.83" zpos="-142.48" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="Ra49giw+wkqxL+mYMotseQ==" iconFile="Img\2.png" iconSize="1.5" color="ff00ffff"/>
+		<!-- 3 --><POI MapID="1175" xpos="-542.01" ypos="206.44" zpos="-37.1" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="uCyVTGsF2ESCYBcH2C11mg==" iconFile="Img\3.png" iconSize="1.5" color="ff00ffff"/>
+		<!-- 4 --><POI MapID="1175" xpos="-497.02" ypos="215.18" zpos="-199.4" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="CrjZZUFI/0GAw5QrgOWySA==" iconFile="Img\4.png" iconSize="1.5" color="ff00ffff"/>
+		<!-- 5 --><POI MapID="1175" xpos="-443.98" ypos="240.53" zpos="-71.84" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="+hrN56V7dEa7S6A+63SukQ==" iconFile="Img\5.png" iconSize="1.5" color="ff00ffff"/>
+
+		<!-- Coffres Antiques -->
+		<POI MapID="1175" xpos="-511.623" ypos="191.333" zpos="-21.5841" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="Q7xvwc70gk6ikm2BNjBkPg==" iconFile="Img\Coffre.png" iconSize="0.5" heightOffset="2" behavior="2"/>
+		<POI MapID="1175" xpos="-472.498" ypos="204.989" zpos="-66.0239" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="SATiy7oNPkCrNto0+nloLQ==" iconFile="Img\Coffre.png" iconSize="0.5" heightOffset="2" behavior="2"/>
+
+		<!-- Coffre Final -->
+		<POI MapID="1175" xpos="-538.65" ypos="295.32" zpos="-241.87" type="chroniques.saison_3.ep2_l_embrasement.saut_de_volcan" GUID="OeV//qhn3UiM2WXOhCFw7g==" iconFile="Img\CoffrePuzzle.png" iconSize="1" heightOffset="3.5"/>
+
+	</POIs>
+</OverlayData>

@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+POIs: ReActif.9251
+Date: 2017/05/09
+-->
+<OverlayData>
+	<MarkerCategory name="astuces" DisplayName="Tips (No Achievement)">
+		<MarkerCategory name="sites_remarquables" DisplayName="Point of Interest (Access)">
+			<MarkerCategory name="mont_draconis" DisplayName="Draconis Mons">
+				<MarkerCategory name="chambre_funeraire" DisplayName="Burial Chamber" iconFile="Img\Guide.png" iconSize="0.75" triggerRange="5"/>
+			</MarkerCategory>
+		</MarkerCategory>
+	</MarkerCategory>
+
+	<POIs>
+
+		<!-- Début -->
+		<POI MapID="1195" xpos="412.843" ypos="409.911" zpos="-316.652" type="astuces.sites_remarquables.mont_draconis.chambre_funeraire" GUID="3g2xd6L69UqSQNHL1vPsJA==" iconFile="Img\Fleche.png" iconSize="1.25"/>
+
+		<!-- Route -->
+		<Route MapID="1195" Name="chambre_funeraire" resetposx="412.843" resetposy="409.911" resetposz="-316.652" resetrange="1">
+			<POI MapID="1195" xpos="414.77" ypos="408.762" zpos="-325.382" type="astuces.sites_remarquables.mont_draconis.chambre_funeraire" GUID="QZGG0jxkA0GebXlzvxSlSQ=="/>
+			<POI MapID="1195" xpos="416.33" ypos="407.231" zpos="-337.814" type="astuces.sites_remarquables.mont_draconis.chambre_funeraire" GUID="QIZACjIeKEeNU1ehd89L8A=="/>
+			<POI MapID="1195" xpos="420.824" ypos="406.101" zpos="-346.695" type="astuces.sites_remarquables.mont_draconis.chambre_funeraire" GUID="39KSEkolJUKJAVI4mDz57g=="/>
+			<POI MapID="1195" xpos="424.809" ypos="405.287" zpos="-356.767" type="astuces.sites_remarquables.mont_draconis.chambre_funeraire" GUID="a0n4gTjfo0aweNtzAxI4Aw=="/>
+			<POI MapID="1195" xpos="428.065" ypos="401.594" zpos="-370.017" type="astuces.sites_remarquables.mont_draconis.chambre_funeraire" GUID="VQHRhEZpi0OoRkRj5QxRgw=="/>
+			<POI MapID="1195" xpos="432.935" ypos="399.726" zpos="-378.781" type="astuces.sites_remarquables.mont_draconis.chambre_funeraire" GUID="sJbmfK1pS0ugvWWPivm0Bg=="/>
+			<POI MapID="1195" xpos="439.521" ypos="398.341" zpos="-388.596" type="astuces.sites_remarquables.mont_draconis.chambre_funeraire" GUID="vB+IL9hMK0iVJqbFVAm7YA=="/>
+			<POI MapID="1195" xpos="445.944" ypos="398.38" zpos="-397.267" type="astuces.sites_remarquables.mont_draconis.chambre_funeraire" GUID="pjqLSpj9B06gVquR6rlFrA=="/>
+			<POI MapID="1195" xpos="455.21" ypos="397.694" zpos="-404.693" type="astuces.sites_remarquables.mont_draconis.chambre_funeraire" GUID="WQlL65sr/USyayZCmb3OGQ=="/>
+			<POI MapID="1195" xpos="464.596" ypos="397.619" zpos="-410.675" type="astuces.sites_remarquables.mont_draconis.chambre_funeraire" GUID="ELy/pr2vvECCsxX9On5GCQ=="/>
+			<POI MapID="1195" xpos="475.235" ypos="397.731" zpos="-417.473" type="astuces.sites_remarquables.mont_draconis.chambre_funeraire" GUID="PH/5QB2jc0i9NNWaYLdl8Q=="/>
+			<POI MapID="1195" xpos="488.736" ypos="397.201" zpos="-425.388" type="astuces.sites_remarquables.mont_draconis.chambre_funeraire" GUID="MhFzbcSBNUS/3b9L72/X+g=="/>
+			<POI MapID="1195" xpos="498.891" ypos="397.086" zpos="-432.965" type="astuces.sites_remarquables.mont_draconis.chambre_funeraire" GUID="ejUCfrGBakC9XlkZkgsd0Q=="/>
+			<POI MapID="1195" xpos="509.554" ypos="395.182" zpos="-441.78" type="astuces.sites_remarquables.mont_draconis.chambre_funeraire" GUID="jLH7Y1mtKkSab26qUhwxwg=="/>
+			<POI MapID="1195" xpos="519.307" ypos="393.897" zpos="-449.891" type="astuces.sites_remarquables.mont_draconis.chambre_funeraire" GUID="WrOM66gGhkOBDOK99sFQcA=="/>
+			<POI MapID="1195" xpos="529.787" ypos="393.417" zpos="-458.36" type="astuces.sites_remarquables.mont_draconis.chambre_funeraire" GUID="iTxJIMf2sUeG1xjCK1qWWg=="/>
+			<POI MapID="1195" xpos="539.593" ypos="391.305" zpos="-466.389" type="astuces.sites_remarquables.mont_draconis.chambre_funeraire" GUID="3bYCgJZ+pk+u1HGu2/ghKg=="/>
+			<POI MapID="1195" xpos="547.23" ypos="389.277" zpos="-475.176" type="astuces.sites_remarquables.mont_draconis.chambre_funeraire" GUID="I0p/KTBBykOy6/anArPO/A=="/>
+			<POI MapID="1195" xpos="550.052" ypos="387.52" zpos="-484.627" type="astuces.sites_remarquables.mont_draconis.chambre_funeraire" GUID="CnA+zLguh0CLEfSM2xu50w=="/>
+			<POI MapID="1195" xpos="546.829" ypos="383.496" zpos="-493.134" type="astuces.sites_remarquables.mont_draconis.chambre_funeraire" GUID="pS+TmQBIIU255v3gYkolBA=="/>
+			<POI MapID="1195" xpos="541.075" ypos="378.799" zpos="-501.791" type="astuces.sites_remarquables.mont_draconis.chambre_funeraire" GUID="HUGprwbac0K00NccnnPx8g=="/>
+			<POI MapID="1195" xpos="532.613" ypos="373.266" zpos="-510.546" type="astuces.sites_remarquables.mont_draconis.chambre_funeraire" GUID="Ipv7IRNOTkuJK+68iKF8XA=="/>
+			<POI MapID="1195" xpos="522.254" ypos="367.235" zpos="-518.302" type="astuces.sites_remarquables.mont_draconis.chambre_funeraire" GUID="XU3R/MhNL0mG1qVNkwBlow=="/>
+			<POI MapID="1195" xpos="511.315" ypos="361.421" zpos="-525.208" type="astuces.sites_remarquables.mont_draconis.chambre_funeraire" GUID="TZEwBxFO6k+ly6KUZMtlaQ=="/>
+			<POI MapID="1195" xpos="500.697" ypos="355.96" zpos="-529.674" type="astuces.sites_remarquables.mont_draconis.chambre_funeraire" GUID="SbpuNIMjnECNU+3O9175EA=="/>
+			<POI MapID="1195" xpos="491.002" ypos="351.217" zpos="-532.674" type="astuces.sites_remarquables.mont_draconis.chambre_funeraire" GUID="tYPagMLPsU2+67fxtNzjAw=="/>
+			<POI MapID="1195" xpos="479.447" ypos="345.771" zpos="-535.292" type="astuces.sites_remarquables.mont_draconis.chambre_funeraire" GUID="0Y1L81SYVEikuH36cXWAfw=="/>
+			<POI MapID="1195" xpos="469.885" ypos="341.595" zpos="-535.929" type="astuces.sites_remarquables.mont_draconis.chambre_funeraire" GUID="+PmXbkRNwkG+2YZCcR/PfA=="/>
+			<POI MapID="1195" xpos="460.92" ypos="338.008" zpos="-536.328" type="astuces.sites_remarquables.mont_draconis.chambre_funeraire" GUID="OPNT3+CGFU6cpIw/rR6+GQ=="/>
+			<POI MapID="1195" xpos="449.117" ypos="332.497" zpos="-537.47" type="astuces.sites_remarquables.mont_draconis.chambre_funeraire" GUID="+E8YqpTZM0mXMRjhNlvZ3w=="/>
+			<POI MapID="1195" xpos="438.487" ypos="327.943" zpos="-537.789" type="astuces.sites_remarquables.mont_draconis.chambre_funeraire" GUID="BuOytU5z1kahwQyNDvry/g=="/>
+			<POI MapID="1195" xpos="427.684" ypos="321.286" zpos="-539.998" type="astuces.sites_remarquables.mont_draconis.chambre_funeraire" GUID="5kveFd5jeUCxNFro/M68TA=="/>
+			<POI MapID="1195" xpos="418.287" ypos="314.965" zpos="-545.039" type="astuces.sites_remarquables.mont_draconis.chambre_funeraire" GUID="jkm/39LDw0GOJBpfQhOvzQ=="/>
+			<POI MapID="1195" xpos="407.318" ypos="307.519" zpos="-551.758" type="astuces.sites_remarquables.mont_draconis.chambre_funeraire" GUID="ZmyH7B2n00Sv+wpMgJuJIg=="/>
+			<POI MapID="1195" xpos="397.111" ypos="301.889" zpos="-559.932" type="astuces.sites_remarquables.mont_draconis.chambre_funeraire" GUID="jADHlX5EL0yhWy6SaZ3sGA=="/>
+			<POI MapID="1195" xpos="390.687" ypos="296.26" zpos="-570.117" type="astuces.sites_remarquables.mont_draconis.chambre_funeraire" GUID="w/m1coWDTEqee4BNIBw1Sg=="/>
+			<POI MapID="1195" xpos="384.68" ypos="290.581" zpos="-580.559" type="astuces.sites_remarquables.mont_draconis.chambre_funeraire" GUID="A8b+Z72P3EC/DPQxSthtKQ=="/>
+			<POI MapID="1195" xpos="378.17" ypos="283.927" zpos="-594.007" type="astuces.sites_remarquables.mont_draconis.chambre_funeraire" GUID="tTaQDoxuWEW4gO7rFzGodg=="/>
+			<POI MapID="1195" xpos="372.215" ypos="277.826" zpos="-604.933" type="astuces.sites_remarquables.mont_draconis.chambre_funeraire" GUID="iezrHQn/5UuRroWN85w5dQ=="/>
+			<POI MapID="1195" xpos="364.892" ypos="271.153" zpos="-615.383" type="astuces.sites_remarquables.mont_draconis.chambre_funeraire" GUID="7d+DbD9iEEagTNWhbpQdug=="/>
+			<POI MapID="1195" xpos="358.447" ypos="265.34" zpos="-624.428" type="astuces.sites_remarquables.mont_draconis.chambre_funeraire" GUID="rlsJovW8C06Y2dEVDT+guA=="/>
+			<POI MapID="1195" xpos="351.571" ypos="259.447" zpos="-634.257" type="astuces.sites_remarquables.mont_draconis.chambre_funeraire" GUID="AYgQvtXaGE+FAbfWGrCV4w=="/>
+			<POI MapID="1195" xpos="347.302" ypos="253.694" zpos="-645.157" type="astuces.sites_remarquables.mont_draconis.chambre_funeraire" GUID="uJTGLXUE5EKtQdcpBlhtFQ=="/>
+			<POI MapID="1195" xpos="347.223" ypos="253.554" zpos="-653.891" type="astuces.sites_remarquables.mont_draconis.chambre_funeraire" GUID="OKK59YxcZEKXlUI02A9qfQ=="/>
+			<POI MapID="1195" xpos="343.662" ypos="253.089" zpos="-668.782" type="astuces.sites_remarquables.mont_draconis.chambre_funeraire" GUID="ih6Iu+l/lEuyNIawUkS4Lw=="/>
+			<POI MapID="1195" xpos="343.594" ypos="254.004" zpos="-680.212" type="astuces.sites_remarquables.mont_draconis.chambre_funeraire" GUID="J9BIhihrBkWHjb/7HJbnGQ=="/>
+			<POI MapID="1195" xpos="347.653" ypos="255.21" zpos="-691.981" type="astuces.sites_remarquables.mont_draconis.chambre_funeraire" GUID="yIXyGrZY4ESlR7GAOTtJuw=="/>
+			<POI MapID="1195" xpos="354.394" ypos="256.892" zpos="-704.359" type="astuces.sites_remarquables.mont_draconis.chambre_funeraire" GUID="9Ixx7GRFVEKtfndFivVlUQ=="/>
+			<POI MapID="1195" xpos="362.3" ypos="257.945" zpos="-714.06" type="astuces.sites_remarquables.mont_draconis.chambre_funeraire" GUID="XBvJi+nzv0yjq+tlqmXKjw=="/>
+			<POI MapID="1195" xpos="371.231" ypos="258.447" zpos="-722.336" type="astuces.sites_remarquables.mont_draconis.chambre_funeraire" GUID="QKA+LK/0CEOoeOJH4OkFMw=="/>
+			<POI MapID="1195" xpos="377.573" ypos="259.149" zpos="-732.497" type="astuces.sites_remarquables.mont_draconis.chambre_funeraire" GUID="rnPKOULkEkeK6lPGDaZR/Q=="/>
+			<POI MapID="1195" xpos="380.325" ypos="260.637" zpos="-744.615" type="astuces.sites_remarquables.mont_draconis.chambre_funeraire" GUID="2iGPhvPjCEejSTnwxj55aw=="/>
+			<POI MapID="1195" xpos="379.79" ypos="262.026" zpos="-756.719" type="astuces.sites_remarquables.mont_draconis.chambre_funeraire" GUID="LGsqXZjtg0eVqdmU0jf1Zw=="/>
+			<POI MapID="1195" xpos="377.993" ypos="263.597" zpos="-769.642" type="astuces.sites_remarquables.mont_draconis.chambre_funeraire" GUID="5VLRii3DmUudeXRX7zR6FA=="/>
+			<POI MapID="1195" xpos="375.841" ypos="265.023" zpos="-780.99" type="astuces.sites_remarquables.mont_draconis.chambre_funeraire" GUID="n8qPL8tJnk6TNiUqSAW0ZA=="/>
+			<POI MapID="1195" xpos="371.489" ypos="266.763" zpos="-793.583" type="astuces.sites_remarquables.mont_draconis.chambre_funeraire" GUID="+sf4/a9u+kyyM7ucYjQyHw=="/>
+			<POI MapID="1195" xpos="367.294" ypos="268.465" zpos="-805.601" type="astuces.sites_remarquables.mont_draconis.chambre_funeraire" GUID="24iLrY8CHEKFkk1iyUglVQ=="/>
+			<POI MapID="1195" xpos="364.862" ypos="270.912" zpos="-823.916" type="astuces.sites_remarquables.mont_draconis.chambre_funeraire" GUID="SvBJlBWpuEG7irbIcw4yNA=="/>
+			<POI MapID="1195" xpos="361.58" ypos="274.517" zpos="-836.828" type="astuces.sites_remarquables.mont_draconis.chambre_funeraire" GUID="ZXPafDn1YEG2f0BRCAiqTA=="/>
+			<POI MapID="1195" xpos="354.878" ypos="274.507" zpos="-848.128" type="astuces.sites_remarquables.mont_draconis.chambre_funeraire" GUID="WtPeb4dDpEuflwT7u7l4NQ=="/>
+			<POI MapID="1195" xpos="346.155" ypos="276.357" zpos="-858.112" type="astuces.sites_remarquables.mont_draconis.chambre_funeraire" GUID="73tS9naVcU2UdKRPdHAy8A=="/>
+			<POI MapID="1195" xpos="335.574" ypos="278.35" zpos="-868.013" type="astuces.sites_remarquables.mont_draconis.chambre_funeraire" GUID="lX92Rw0IWEyTavYhCcqv8g=="/>
+			<POI MapID="1195" xpos="326.217" ypos="280.187" zpos="-877.429" type="astuces.sites_remarquables.mont_draconis.chambre_funeraire" GUID="JYUbPeONykOu4joQaYn6Yw=="/>
+			<POI MapID="1195" xpos="314.722" ypos="282.501" zpos="-886.308" type="astuces.sites_remarquables.mont_draconis.chambre_funeraire" GUID="gzUN4VvyIkGkTvJl/7g5+Q=="/>
+			<POI MapID="1195" xpos="301.537" ypos="283.954" zpos="-893.188" type="astuces.sites_remarquables.mont_draconis.chambre_funeraire" GUID="h1qRkIE9yU+2VaMtZQihHQ=="/>
+			<POI MapID="1195" xpos="288.123" ypos="285.23" zpos="-897.578" type="astuces.sites_remarquables.mont_draconis.chambre_funeraire" GUID="pr7JWLjIuECjxlYciVYgFQ=="/>
+			<POI MapID="1195" xpos="273.022" ypos="286.395" zpos="-900.591" type="astuces.sites_remarquables.mont_draconis.chambre_funeraire" GUID="dLFhRkHlr0+RmlZfEjqpYA=="/>
+			<POI MapID="1195" xpos="260.476" ypos="286.792" zpos="-901.389" type="astuces.sites_remarquables.mont_draconis.chambre_funeraire" GUID="4r6+jbAP20OfrM3BuJZv5Q=="/>
+			<POI MapID="1195" xpos="246.955" ypos="288.299" zpos="-904.043" type="astuces.sites_remarquables.mont_draconis.chambre_funeraire" GUID="+xSIWybphE2Io8+qGOIMcQ=="/>
+			<POI MapID="1195" xpos="235.45" ypos="290.596" zpos="-913.886" type="astuces.sites_remarquables.mont_draconis.chambre_funeraire" GUID="iOc0jkoKsU+lIRWYHqav3A=="/>
+			<POI MapID="1195" xpos="226.408" ypos="292.634" zpos="-924.135" type="astuces.sites_remarquables.mont_draconis.chambre_funeraire" GUID="OyaXoYFVzECbHRQbQNanWw=="/>
+			<POI MapID="1195" xpos="216.907" ypos="294.562" zpos="-934.161" type="astuces.sites_remarquables.mont_draconis.chambre_funeraire" GUID="RV9dFHr7e0K5l4qeknlIFA=="/>
+			<POI MapID="1195" xpos="204.195" ypos="296.365" zpos="-940.755" type="astuces.sites_remarquables.mont_draconis.chambre_funeraire" GUID="3/1PsTnMU0air8+BM+4MIQ=="/>
+			<POI MapID="1195" xpos="189.6" ypos="297.783" zpos="-942.589" type="astuces.sites_remarquables.mont_draconis.chambre_funeraire" GUID="CIk0uRgy0Eacek15bS8h3A=="/>
+			<POI MapID="1195" xpos="174.373" ypos="298.942" zpos="-941.684" type="astuces.sites_remarquables.mont_draconis.chambre_funeraire" GUID="ETV5nYG1wE6mWObYeQqJCw=="/>
+			<POI MapID="1195" xpos="159.951" ypos="299.945" zpos="-939.989" type="astuces.sites_remarquables.mont_draconis.chambre_funeraire" GUID="VTRaoLYlikSirxMwfCnp/w=="/>
+			<POI MapID="1195" xpos="143.869" ypos="301.814" zpos="-938.237" type="astuces.sites_remarquables.mont_draconis.chambre_funeraire" GUID="GPf39oiRwUKx8XytJm6qNg=="/>
+			<POI MapID="1195" xpos="129.653" ypos="303.026" zpos="-936.67" type="astuces.sites_remarquables.mont_draconis.chambre_funeraire" GUID="38o5LUZHEESvZKc42SWNaA=="/>
+			<POI MapID="1195" xpos="117.241" ypos="305.567" zpos="-936.473" type="astuces.sites_remarquables.mont_draconis.chambre_funeraire" GUID="/j/KronM+02t6bagnrftBA=="/>
+			<POI MapID="1195" xpos="102.866" ypos="309.056" zpos="-937.023" type="astuces.sites_remarquables.mont_draconis.chambre_funeraire" GUID="DrNzcMp+NkigyMOqAWN/KQ=="/>
+			<POI MapID="1195" xpos="88.955" ypos="311.385" zpos="-937.315" type="astuces.sites_remarquables.mont_draconis.chambre_funeraire" GUID="5Obk3wWFtEajTMKu5K6Iww=="/>
+			<POI MapID="1195" xpos="77.1819" ypos="313.854" zpos="-939.968" type="astuces.sites_remarquables.mont_draconis.chambre_funeraire" GUID="aGaQJeAiCUyLhmC2KquTog=="/>
+			<POI MapID="1195" xpos="64.2501" ypos="316.571" zpos="-942.406" type="astuces.sites_remarquables.mont_draconis.chambre_funeraire" GUID="dKsXTpiIPEac3bYBAkzIUA=="/>
+			<POI MapID="1195" xpos="53.1964" ypos="318.916" zpos="-944.913" type="astuces.sites_remarquables.mont_draconis.chambre_funeraire" GUID="1fc3bY/OxUKi0BgWTtldCw=="/>
+			<POI MapID="1195" xpos="38.2865" ypos="322.086" zpos="-948.594" type="astuces.sites_remarquables.mont_draconis.chambre_funeraire" GUID="ZmATRM7J00iKbeR8nPFl+w=="/>
+			<POI MapID="1195" xpos="26.5779" ypos="324.576" zpos="-951.514" type="astuces.sites_remarquables.mont_draconis.chambre_funeraire" GUID="glv+bXAjLUiPHjdSwik3yA=="/>
+			<POI MapID="1195" xpos="13.7585" ypos="327.298" zpos="-954.503" type="astuces.sites_remarquables.mont_draconis.chambre_funeraire" GUID="nuGUsW1gEU6HzBsMsietqA=="/>
+			<POI MapID="1195" xpos="1.65037" ypos="329.865" zpos="-957.327" type="astuces.sites_remarquables.mont_draconis.chambre_funeraire" GUID="/08k8a9BRUqQkoQ+aGsSKw=="/>
+			<POI MapID="1195" xpos="-9.7439" ypos="332.287" zpos="-959.984" type="astuces.sites_remarquables.mont_draconis.chambre_funeraire" GUID="Xx+PN6g5iESHjnU8WHOxww=="/>
+			<POI MapID="1195" xpos="-22.5616" ypos="335.017" zpos="-962.974" type="astuces.sites_remarquables.mont_draconis.chambre_funeraire" GUID="zpYdJnNm/EyuTO0GxQ2+qg=="/>
+			<POI MapID="1195" xpos="-34.7205" ypos="337.602" zpos="-965.543" type="astuces.sites_remarquables.mont_draconis.chambre_funeraire" GUID="NLNHzSMS3UelF28op8XRqg=="/>
+			<POI MapID="1195" xpos="-47.0434" ypos="340.124" zpos="-967.226" type="astuces.sites_remarquables.mont_draconis.chambre_funeraire" GUID="WO6uo21nxUSe1muOCdOgRQ=="/>
+			<POI MapID="1195" xpos="-59.4264" ypos="342.76" zpos="-968.002" type="astuces.sites_remarquables.mont_draconis.chambre_funeraire" GUID="iX98DrgFvkGCeBtmZKuv5A=="/>
+			<POI MapID="1195" xpos="-71.8365" ypos="345.316" zpos="-968.283" type="astuces.sites_remarquables.mont_draconis.chambre_funeraire" GUID="kaRMEe2ZcEG730aTUFgKxw=="/>
+			<POI MapID="1195" xpos="-84.924" ypos="348.032" zpos="-969.702" type="astuces.sites_remarquables.mont_draconis.chambre_funeraire" GUID="lO2ljvmaj0iHxjCcKDHJhQ=="/>
+			<POI MapID="1195" xpos="-97.3366" ypos="350.571" zpos="-969.419" type="astuces.sites_remarquables.mont_draconis.chambre_funeraire" GUID="9ZIYI1/NdU6vf4Ni8DjnHg=="/>
+			<POI MapID="1195" xpos="-110.845" ypos="353.324" zpos="-968.711" type="astuces.sites_remarquables.mont_draconis.chambre_funeraire" GUID="ItXWcahXa0anp7ITC63s7g=="/>
+			<POI MapID="1195" xpos="-123.572" ypos="356.033" zpos="-965.471" type="astuces.sites_remarquables.mont_draconis.chambre_funeraire" GUID="ImH0NkkNRUipui9uC1K3Sg=="/>
+			<POI MapID="1195" xpos="-135.411" ypos="358.705" zpos="-960.648" type="astuces.sites_remarquables.mont_draconis.chambre_funeraire" GUID="HB0vUN+9J02camBVQOCWig=="/>
+			<POI MapID="1195" xpos="-146.1" ypos="361.031" zpos="-953.396" type="astuces.sites_remarquables.mont_draconis.chambre_funeraire" GUID="KHJLqyoz+UmPf03rjBT4HA=="/>
+			<POI MapID="1195" xpos="-153.05" ypos="362.471" zpos="-945.884" type="astuces.sites_remarquables.mont_draconis.chambre_funeraire" GUID="5v7v6AIgWEmPPSCPb+KnaQ=="/>
+			<POI MapID="1195" xpos="-163.646" ypos="364.6" zpos="-932.999" type="astuces.sites_remarquables.mont_draconis.chambre_funeraire" GUID="WDILwHnxVk203l/1OcRs9w=="/>
+			<POI MapID="1195" xpos="-172.869" ypos="366.369" zpos="-922.863" type="astuces.sites_remarquables.mont_draconis.chambre_funeraire" GUID="utqXXyZ1iE2+bpmvAHuDRg=="/>
+			<POI MapID="1195" xpos="-181.43" ypos="367.977" zpos="-912.681" type="astuces.sites_remarquables.mont_draconis.chambre_funeraire" GUID="VjsPJA8/lkOh01DjABtZFQ=="/>
+			<POI MapID="1195" xpos="-189.411" ypos="369.653" zpos="-901.528" type="astuces.sites_remarquables.mont_draconis.chambre_funeraire" GUID="MSFxeJXzKU2L1IWu+O35wQ=="/>
+			<POI MapID="1195" xpos="-197.304" ypos="371.33" zpos="-890.313" type="astuces.sites_remarquables.mont_draconis.chambre_funeraire" GUID="o8d/oBd4DEqEaKcTUpHCig=="/>
+			<POI MapID="1195" xpos="-205.865" ypos="372.958" zpos="-879.085" type="astuces.sites_remarquables.mont_draconis.chambre_funeraire" GUID="BCaLzsEKJkqfarsIqS7gtg=="/>
+			<POI MapID="1195" xpos="-215.923" ypos="374.351" zpos="-868.554" type="astuces.sites_remarquables.mont_draconis.chambre_funeraire" GUID="y4YbdIdYqUKS3+w/uf/vnw=="/>
+			<POI MapID="1195" xpos="-226.003" ypos="376.461" zpos="-855.674" type="astuces.sites_remarquables.mont_draconis.chambre_funeraire" GUID="AaFVpCE2UkqBkde2W6H5UA=="/>
+			<POI MapID="1195" xpos="-234.308" ypos="378.079" zpos="-844.245" type="astuces.sites_remarquables.mont_draconis.chambre_funeraire" GUID="w++h/viHmUSDdIbNGMdrxA=="/>
+			<POI MapID="1195" xpos="-243.936" ypos="379.993" zpos="-833.434" type="astuces.sites_remarquables.mont_draconis.chambre_funeraire" GUID="fJM8DPlfgEKQcV7mRL2cbw=="/>
+			<POI MapID="1195" xpos="-253.34" ypos="381.864" zpos="-822.93" type="astuces.sites_remarquables.mont_draconis.chambre_funeraire" GUID="UoTcdzYOVUSmtDtxEP9mxw=="/>
+			<POI MapID="1195" xpos="-262.021" ypos="383.962" zpos="-810.877" type="astuces.sites_remarquables.mont_draconis.chambre_funeraire" GUID="t4DCh+HMzUqrLSS4pTKStA=="/>
+			<POI MapID="1195" xpos="-267.766" ypos="384.671" zpos="-797.959" type="astuces.sites_remarquables.mont_draconis.chambre_funeraire" GUID="T8Kfj9et/06IyB91SCdg2Q=="/>
+			<POI MapID="1195" xpos="-273.227" ypos="385.717" zpos="-786.659" type="astuces.sites_remarquables.mont_draconis.chambre_funeraire" GUID="NX9SSfZ+fEGsmcijvUaVDg=="/>
+		</Route>
+
+		<!-- Arrivée -->
+		<POI MapID="1195" xpos="-279.95" ypos="387.014" zpos="-773.304" type="astuces.sites_remarquables.mont_draconis.chambre_funeraire" GUID="yU7gqHUTnkCgYRd6qpyuaw==" iconFile="Img\Croix.png" iconSize="1.25"/>
+
+	</POIs>
+</OverlayData>

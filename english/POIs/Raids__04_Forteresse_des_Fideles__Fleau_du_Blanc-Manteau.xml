@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+POIs: ReActif.9251
+Date: 2017/08/22
+-->
+<OverlayData>
+	<MarkerCategory name="raids" DisplayName="Raids" iconFile="Img\RaidSucces.png" behavior="3">
+		<MarkerCategory name="forteresse_des_fideles" DisplayName="Stronghold of the Faithful">
+			<MarkerCategory name="fleau_du_blanc-manteau" DisplayName="Scourge of the White Mantle" heightOffset="3.5"/>
+		</MarkerCategory>
+	</MarkerCategory>
+
+	<POIs>
+
+		<POI MapID="1156" xpos="-182.694" ypos="141.275" zpos="302.833" type="raids.forteresse_des_fideles.fleau_du_blanc-manteau" GUID="9/nY5S9snEqe5QDfeHq/JQ=="/>
+
+	</POIs>
+</OverlayData>

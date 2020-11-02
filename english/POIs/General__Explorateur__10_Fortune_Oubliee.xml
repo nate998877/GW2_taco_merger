@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+POIs: ReActif.9251
+Date: 2017/01/25
+-->
+<OverlayData>
+	<MarkerCategory name="general" DisplayName="General">
+		<MarkerCategory name="explorateur" DisplayName="Explorer" iconFile="Img\Explorateur.png" behavior="3">
+			<MarkerCategory name="fortune_oubliee" DisplayName="Forsaken Fortune">
+				<MarkerCategory name="acces" DisplayName="Guide" iconFile="Img\Guide.png" iconSize="0.75"/>
+			</MarkerCategory>
+		</MarkerCategory>
+	</MarkerCategory>
+
+	<POIs>
+
+		<!-- Entrée -->
+		<POI MapID="26" xpos="-572.678" ypos="8.64419" zpos="597.826" type="general.explorateur.fortune_oubliee.acces" GUID="ytzLEIbm5Uq35QITlx4sYA==" iconFile="Img\Fleche.png" iconSize="1.5"/>
+
+		<!-- Porte -->
+		<POI MapID="26" xpos="-578.95" ypos="8.96" zpos="601.8" type="general.explorateur.fortune_oubliee.acces" GUID="ZWWT2WYU4EmFR/VNFLB/tw==" iconFile="Img\Interrupteur.png" heightOffset="4"/>
+
+		<!-- PNJ -->
+		<POI MapID="26" xpos="-343.072" ypos="66.7859" zpos="784.206" type="general.explorateur.fortune_oubliee.acces" GUID="d9P0ekqTYUywkqq0Yw0U1A==" iconFile="Img\EtoileInstance.png" heightOffset="2"/>
+
+		<!-- Livres -->
+		<POI MapID="26" xpos="-345.367" ypos="66.6951" zpos="783.448" type="general.explorateur.fortune_oubliee.acces" GUID="VweAjr63XE6pRLEferL9FQ==" iconFile="Img\Loupe.png" iconSize="0.3" heightOffset="0"/>
+		<POI MapID="26" xpos="-342.5" ypos="66.79" zpos="782.85" type="general.explorateur.fortune_oubliee.acces" GUID="OT+M/xocM0CmrENzJl/Jig==" iconFile="Img\Loupe.png" iconSize="0.3" heightOffset="0"/>
+		<POI MapID="26" xpos="-341.17" ypos="66.69" zpos="785.24" type="general.explorateur.fortune_oubliee.acces" GUID="OlmSxOeJO0Kf615AvhDixg==" iconFile="Img\Loupe.png" iconSize="0.3" heightOffset="0"/>
+
+		<!-- Route (segment 1) -->
+		<Route MapID="26" name="Segment_1" resetposx="662.14" resetposy="43.86" resetposz="961.62" resetrange="1">
+			<POI MapID="26" xpos="659.601" ypos="43.8622" zpos="962.112" type="general.explorateur.fortune_oubliee.acces" GUID="VJ5pSxDEoU2mcrWBCymhPA=="/>
+			<POI MapID="26" xpos="654.96" ypos="43.8622" zpos="955.01" type="general.explorateur.fortune_oubliee.acces" GUID="wcdhN2//+EOTNRkKAVi9Ug=="/>
+			<POI MapID="26" xpos="646.65" ypos="43.8622" zpos="954.901" type="general.explorateur.fortune_oubliee.acces" GUID="w+IQ1gbcbkGLsdmhgprxDw=="/>
+			<POI MapID="26" xpos="638.065" ypos="43.8622" zpos="955.022" type="general.explorateur.fortune_oubliee.acces" GUID="Wv0PdH3LSUOjTabfT9UKsw=="/>
+			<POI MapID="26" xpos="627.246" ypos="43.8615" zpos="954.998" type="general.explorateur.fortune_oubliee.acces" GUID="AIwyApYn/kK32vhco1Ymow=="/>
+			<POI MapID="26" xpos="618.339" ypos="43.3942" zpos="954.554" type="general.explorateur.fortune_oubliee.acces" GUID="WtZH/TPRTEWBfd/atOTuAw=="/>
+			<POI MapID="26" xpos="610.728" ypos="43.4084" zpos="959.08" type="general.explorateur.fortune_oubliee.acces" GUID="6cBPj/DLLUq4STDFdqtutQ=="/>
+			<POI MapID="26" xpos="602.334" ypos="43.8622" zpos="960.747" type="general.explorateur.fortune_oubliee.acces" GUID="JGidl/l/EU60Z79lIMgE9g=="/>
+			<POI MapID="26" xpos="591.851" ypos="43.6624" zpos="956.939" type="general.explorateur.fortune_oubliee.acces" GUID="NlBk9LGyeE2qqt3yDYfzWA=="/>
+			<POI MapID="26" xpos="584.74" ypos="43.6092" zpos="954.195" type="general.explorateur.fortune_oubliee.acces" GUID="zL80lPyPx0G/PNkjcBYh7Q=="/>
+			<POI MapID="26" xpos="576.805" ypos="43.3396" zpos="951.075" type="general.explorateur.fortune_oubliee.acces" GUID="8i/PSYnY10yP5Ouj6hTiyw=="/>
+			<POI MapID="26" xpos="567.033" ypos="43.6132" zpos="954.852" type="general.explorateur.fortune_oubliee.acces" GUID="ThWOo7Qsk06ozyvyJeujpg=="/>
+			<POI MapID="26" xpos="558.297" ypos="43.4647" zpos="961.822" type="general.explorateur.fortune_oubliee.acces" GUID="FuovH7VBt0qZ/Y4ylYvlBA=="/>
+			<POI MapID="26" xpos="548.273" ypos="43.2636" zpos="969.615" type="general.explorateur.fortune_oubliee.acces" GUID="i3b93qsdLkaIQ/WWo2Y89w=="/>
+			<POI MapID="26" xpos="538.648" ypos="43.6324" zpos="967.456" type="general.explorateur.fortune_oubliee.acces" GUID="Ejv8SZZFskm9io4ljqeZkg=="/>
+			<POI MapID="26" xpos="528.367" ypos="43.8622" zpos="962.157" type="general.explorateur.fortune_oubliee.acces" GUID="2NsKjWG6u0mpX3e4CZk17A=="/>
+			<POI MapID="26" xpos="516.46" ypos="43.96" zpos="960.22" type="general.explorateur.fortune_oubliee.acces" GUID="FZzXU3aUAkSACqJZWvsddw=="/>
+		</Route>
+
+		<!-- Torches (Segment 1) -->
+		<POI MapID="26" xpos="659.05" ypos="45.2921" zpos="968.03" type="general.explorateur.fortune_oubliee.acces" GUID="gvo9/easDE6vjDGDl9Fd4w==" iconFile="Img\Torche.png"/>
+		<POI MapID="26" xpos="659.351" ypos="45.2922" zpos="955.127" type="general.explorateur.fortune_oubliee.acces" GUID="eiUStn1spUaqVaj+f0/J1w==" iconFile="Img\Torche.png"/>
+		<POI MapID="26" xpos="523.797" ypos="44.3257" zpos="966.643" type="general.explorateur.fortune_oubliee.acces" GUID="PXj+nwzP9ka6nP5X6Ikzdg==" iconFile="Img\Torche.png"/>
+
+		<!-- Gravats (Ouverture de la porte 1) -->
+		<POI MapID="26" xpos="529.926" ypos="45.0839" zpos="912.583" type="general.explorateur.fortune_oubliee.acces" GUID="4xkMALpl1k2Vrh2eToYuew==" iconFile="Img\Gravat.png"/>
+		<POI MapID="26" xpos="544.162" ypos="43.5034" zpos="994.83" type="general.explorateur.fortune_oubliee.acces" GUID="Ug5hzGEfDUmldaqlTTwOHA==" iconFile="Img\Gravat.png"/>
+		<POI MapID="26" xpos="551.158" ypos="44.0996" zpos="953.08" type="general.explorateur.fortune_oubliee.acces" GUID="+YrISLpjcE6n36LYL4iZ1Q==" iconFile="Img\Gravat.png"/>
+		<POI MapID="26" xpos="579.043" ypos="43.6735" zpos="989.301" type="general.explorateur.fortune_oubliee.acces" GUID="NGnTDI7AsEqunDU01stFow==" iconFile="Img\Gravat.png"/>
+		<POI MapID="26" xpos="582.75" ypos="43.6744" zpos="956.995" type="general.explorateur.fortune_oubliee.acces" GUID="8VIHUJ8m7EOicbLvedGT6w==" iconFile="Img\Gravat.png"/>
+		<POI MapID="26" xpos="586.676" ypos="43.8622" zpos="907.359" type="general.explorateur.fortune_oubliee.acces" GUID="5b3t9ziKtkysLuZi4jbPdA==" iconFile="Img\Gravat.png"/>
+		<POI MapID="26" xpos="595.618" ypos="43.9378" zpos="936.217" type="general.explorateur.fortune_oubliee.acces" GUID="UgRn3/PrZUewdG8fLyc4Qg==" iconFile="Img\Gravat.png"/>
+		<POI MapID="26" xpos="622.228" ypos="43.8607" zpos="971.201" type="general.explorateur.fortune_oubliee.acces" GUID="7QUBZow5sUmlCzLhq4DK8A==" iconFile="Img\Gravat.png"/>
+		<POI MapID="26" xpos="626.77" ypos="44.1123" zpos="922.191" type="general.explorateur.fortune_oubliee.acces" GUID="iE1BJeoTQkCSfzGAalCFNw==" iconFile="Img\Gravat.png"/>
+		<POI MapID="26" xpos="642.531" ypos="44.5497" zpos="1006.31" type="general.explorateur.fortune_oubliee.acces" GUID="MBVWBSGle0qnBuekqxe9Wg==" iconFile="Img\Gravat.png"/>
+
+		<!-- Route (Segment 2) -->
+		<Route MapID="26" name="Segment_2" resetposx="506.43" resetposy="43.43" resetposz="960.32" resetrange="1">
+			<POI MapID="26" xpos="503.486" ypos="43.7132" zpos="960.319" type="general.explorateur.fortune_oubliee.acces" GUID="nwnkEDeOF0uK46lJTRuYFQ=="/>
+			<POI MapID="26" xpos="490.81" ypos="43.2794" zpos="960.172" type="general.explorateur.fortune_oubliee.acces" GUID="f9HOzNMeL06vZ++84mKApg=="/>
+			<POI MapID="26" xpos="480.882" ypos="39.48" zpos="960.027" type="general.explorateur.fortune_oubliee.acces" GUID="TD93SqyyUE+ON6gEVDJvKA=="/>
+			<POI MapID="26" xpos="470.791" ypos="39.3307" zpos="959.755" type="general.explorateur.fortune_oubliee.acces" GUID="Xvc61AOZj0uaFrHSe8PaqQ=="/>
+			<POI MapID="26" xpos="459.075" ypos="39.3775" zpos="957.819" type="general.explorateur.fortune_oubliee.acces" GUID="K5EYlN1TLkaImLoCO7kHXA=="/>
+			<POI MapID="26" xpos="448.151" ypos="39.2155" zpos="954.271" type="general.explorateur.fortune_oubliee.acces" GUID="c3/rp16s1kGbGI5YdwBPng=="/>
+			<POI MapID="26" xpos="447.022" ypos="38.702" zpos="948.361" type="general.explorateur.fortune_oubliee.acces" GUID="63PKY4yY102/NmpDDPJ3eg=="/>
+			<POI MapID="26" xpos="446.618" ypos="37.7504" zpos="941.181" type="general.explorateur.fortune_oubliee.acces" GUID="1XoAKZNilEqt793yrvmuBw=="/>
+			<POI MapID="26" xpos="446.797" ypos="37.635" zpos="933.004" type="general.explorateur.fortune_oubliee.acces" GUID="OKFbJuvng0K4si36Pwx5qw=="/>
+			<POI MapID="26" xpos="446.723" ypos="38.3147" zpos="925.538" type="general.explorateur.fortune_oubliee.acces" GUID="/5gOZ8/SJ0W6TBu+wbyvlg=="/>
+			<POI MapID="26" xpos="446.387" ypos="38.3154" zpos="913.227" type="general.explorateur.fortune_oubliee.acces" GUID="hlDB8oCgzESmv3wr3Kk9Hw=="/>
+			<POI MapID="26" xpos="446.427" ypos="39.7761" zpos="907.287" type="general.explorateur.fortune_oubliee.acces" GUID="b54K3LUot0S16vZglnOXTg=="/>
+			<POI MapID="26" xpos="445.925" ypos="41.1682" zpos="896.187" type="general.explorateur.fortune_oubliee.acces" GUID="UhWhjHlZa0GHTJV6zPhQVw=="/>
+			<POI MapID="26" xpos="445.845" ypos="43.606" zpos="887.555" type="general.explorateur.fortune_oubliee.acces" GUID="UHm37toNHEqAXQjv+5En/g=="/>
+			<POI MapID="26" xpos="446.653" ypos="45.4267" zpos="879.134" type="general.explorateur.fortune_oubliee.acces" GUID="Lf2LJ2UYZUeFD0sp+I9msA=="/>
+			<POI MapID="26" xpos="449.799" ypos="46.8988" zpos="870.178" type="general.explorateur.fortune_oubliee.acces" GUID="dzo2RdCTaUuhdLw8RzZQ9A=="/>
+			<POI MapID="26" xpos="457.281" ypos="49.2578" zpos="867.259" type="general.explorateur.fortune_oubliee.acces" GUID="aLMQCoNw90CA2otUNtzMVA=="/>
+			<POI MapID="26" xpos="465.341" ypos="53.819" zpos="868.166" type="general.explorateur.fortune_oubliee.acces" GUID="WOKWP5y75USlQk3AvEttYQ=="/>
+			<POI MapID="26" xpos="476.009" ypos="57.0605" zpos="869.974" type="general.explorateur.fortune_oubliee.acces" GUID="oEx6XxXd50+fCuKMxLG5uA=="/>
+			<POI MapID="26" xpos="485.361" ypos="56.9385" zpos="873.243" type="general.explorateur.fortune_oubliee.acces" GUID="O9JRTR/tbUeTvtpeV68d2A=="/>
+			<POI MapID="26" xpos="494.969" ypos="60.3075" zpos="879.527" type="general.explorateur.fortune_oubliee.acces" GUID="Shmtn2hvwUWUxT8arSqiUw=="/>
+			<POI MapID="26" xpos="500.907" ypos="64.4733" zpos="886.654" type="general.explorateur.fortune_oubliee.acces" GUID="T0WLYd6bskK5tqB8kJ0vOg=="/>
+			<POI MapID="26" xpos="506.328" ypos="64.5783" zpos="895.568" type="general.explorateur.fortune_oubliee.acces" GUID="N8sbnM02H0+rTEWaIiTKrw=="/>
+			<POI MapID="26" xpos="509.452" ypos="63.88" zpos="905.126" type="general.explorateur.fortune_oubliee.acces" GUID="Fz8ITXcXaEmzPflejmHHiw=="/>
+			<POI MapID="26" xpos="513.943" ypos="63.88" zpos="913.167" type="general.explorateur.fortune_oubliee.acces" GUID="M9t2iMc2K0asVehbgR2Rsw=="/>
+		</Route>
+
+		<!-- Torches (Segment 2) -->
+		<POI MapID="26" xpos="508.525" ypos="45.2533" zpos="966.126" type="general.explorateur.fortune_oubliee.acces" GUID="TdWZuXf8aE6ewqE6oTg0nA==" iconFile="Img\Torche.png"/>
+		<POI MapID="26" xpos="508.436" ypos="44.5576" zpos="953.515" type="general.explorateur.fortune_oubliee.acces" GUID="9cj/0TSvIUKJ0LJefLIitg==" iconFile="Img\Torche.png"/>
+		<POI MapID="26" xpos="509.202" ypos="64.2561" zpos="919.44" type="general.explorateur.fortune_oubliee.acces" GUID="1wpU6ZHkM0SJjmXJ8XIIGA==" iconFile="Img\Torche.png"/>
+
+		<!-- Chaines (Ouverture de la porte 2) -->
+		<POI MapID="26" xpos="413.487" ypos="36.1111" zpos="986.015" type="general.explorateur.fortune_oubliee.acces" GUID="lLrKfEYb6k++g7WYUtY6Dw==" iconFile="Img\Interrupteur.png"/>
+		<POI MapID="26" xpos="398.6" ypos="68.2566" zpos="905.93" type="general.explorateur.fortune_oubliee.acces" GUID="FYK7tRoye0+LB5fG//fAsQ==" iconFile="Img\Interrupteur.png"/>
+		<POI MapID="26" xpos="481.611" ypos="47.2899" zpos="888.793" type="general.explorateur.fortune_oubliee.acces" GUID="abP9205R20GU6aW7UperFw==" iconFile="Img\Interrupteur.png"/>
+		<POI MapID="26" xpos="527.965" ypos="64.2814" zpos="905.293" type="general.explorateur.fortune_oubliee.acces" GUID="UQpastlVDUGdzWaTL9JrVw==" iconFile="Img\Interrupteur.png"/>
+
+		<!-- Chandeliers (Boss) -->
+		<POI MapID="26" xpos="561.21" ypos="44.6193" zpos="926.434" type="general.explorateur.fortune_oubliee.acces" GUID="6l6O2ehCB0SlYMgrjUu48w==" iconFile="Img\Torche.png"/>
+		<POI MapID="26" xpos="611.194" ypos="44.6249" zpos="921.152" type="general.explorateur.fortune_oubliee.acces" GUID="LnvxmZBD5kSaEvf+oN44UA==" iconFile="Img\Torche.png"/>
+		<POI MapID="26" xpos="584.793" ypos="44.6161" zpos="960.265" type="general.explorateur.fortune_oubliee.acces" GUID="63i4SXqj7Eu0P1Z4frmlbg==" iconFile="Img\Torche.png"/>
+		<POI MapID="26" xpos="610.532" ypos="44.6075" zpos="987.652" type="general.explorateur.fortune_oubliee.acces" GUID="hEhgqDhk70O2MOLBn/nB6A==" iconFile="Img\Torche.png"/>
+		<POI MapID="26" xpos="563.782" ypos="44.6041" zpos="988.708" type="general.explorateur.fortune_oubliee.acces" GUID="/P+ZZzodp02nL5NLmn7Xtw==" iconFile="Img\Torche.png"/>
+
+		<!-- Boss -->
+		<POI MapID="26" xpos="536.265" ypos="43.8626" zpos="926.607" type="general.explorateur.fortune_oubliee.acces" GUID="NCDEi8+v/0Gre7AqF6wd8Q==" iconFile="Img\Combat.png" color="ffff0000"/>
+
+		<!-- Coffre -->
+		<POI MapID="26" xpos="561.635" ypos="43.7167" zpos="960.823" type="general.explorateur.fortune_oubliee" GUID="RJtBFvVv4UqDjsuYFeuw9A==" iconFile="Img\CoffreMiniDonjon.png" heightOffset="2"/>
+
+		</POIs>
+</OverlayData>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+POIs: Destiny FNC.5018 - Xenophy.2716 - ReActif.9251
+Date: 2017/08/23
+-->
+<OverlayData>
+	<MarkerCategory name="general" DisplayName="General">
+		<MarkerCategory name="puzzles_de_saut" DisplayName="Jumping Puzzles" iconFile="Img\Guide.png" iconSize="0.75">
+			<MarkerCategory name="sanctuaire_de_saphir" DisplayName="Sapphire Sanctum"/>
+		</MarkerCategory>
+	</MarkerCategory>
+
+	<POIs>
+
+		<!--
+		Territoires frontaliers alpins (Bleu)
+		-->
+
+		<!-- Début -->
+		<POI MapID="96" xpos="-580.947" ypos="32.3365" zpos="577.049" type="general.puzzles_de_saut.debut" GUID="7AJ6l98BgkOkShLeRFOa7w=="/>
+
+		<!-- Route -->
+		<Route MapID="96" name="Caveau_des_Brumes_Bleu" resetposx="-580.947" resetposy="32.3365" resetposz="577.049" resetrange="5">
+			<POI MapID="96" xpos="-585.998" ypos="34.8818" zpos="566.457" type="general.puzzles_de_saut.sanctuaire_de_saphir" GUID="zE/GckAMo0iUtIieiZ8AGw=="/>
+			<POI MapID="96" xpos="-593.069" ypos="45.1484" zpos="543.047" type="general.puzzles_de_saut.sanctuaire_de_saphir" GUID="/TZUrIoU/0uC54s9QL16Bg=="/>
+			<POI MapID="96" xpos="-597.51" ypos="49.7149" zpos="533.143" type="general.puzzles_de_saut.sanctuaire_de_saphir" GUID="sGApveyN/E6A6vf+Z60PLQ=="/>
+			<POI MapID="96" xpos="-598.82" ypos="56.4456" zpos="519.821" type="general.puzzles_de_saut.sanctuaire_de_saphir" GUID="JEToFon9Sk+164oaV5w4kA=="/>
+			<POI MapID="96" xpos="-638.041" ypos="56.8785" zpos="505.676" type="general.puzzles_de_saut.sanctuaire_de_saphir" GUID="QXiNadReGUOVUzo2lXt2/g=="/>
+			<POI MapID="96" xpos="-648.754" ypos="30.9517" zpos="489.866" type="general.puzzles_de_saut.sanctuaire_de_saphir" GUID="LSuU6ZaEE0yoKb/ELYTtIA=="/>
+			<POI MapID="96" xpos="-679.667" ypos="27.8744" zpos="470.682" type="general.puzzles_de_saut.sanctuaire_de_saphir" GUID="4+I7lH6MuUK2lbAFXkj9ZQ=="/>
+			<POI MapID="96" xpos="-707.419" ypos="28.2258" zpos="464.761" type="general.puzzles_de_saut.sanctuaire_de_saphir" GUID="LB2KaUEFO0mS2Ipmf6mBJw=="/>
+			<POI MapID="96" xpos="-719.884" ypos="25.7615" zpos="471.691" type="general.puzzles_de_saut.sanctuaire_de_saphir" GUID="3UfR6AWyW0GjPF/ZhRIMow=="/>
+			<POI MapID="96" xpos="-728.486" ypos="20.2718" zpos="463.768" type="general.puzzles_de_saut.sanctuaire_de_saphir" GUID="4i0hvT8s6U6vzYTe9IqUpA=="/>
+			<POI MapID="96" xpos="-732.1" ypos="21.5439" zpos="453.366" type="general.puzzles_de_saut.sanctuaire_de_saphir" GUID="bxVp7h13BUevGnp1vWGilw=="/>
+			<POI MapID="96" xpos="-732.126" ypos="25.9125" zpos="449.104" type="general.puzzles_de_saut.sanctuaire_de_saphir" GUID="pOSYg5uuj0yaoZ1Tx/i+CQ=="/>
+			<POI MapID="96" xpos="-727.292" ypos="25.7421" zpos="438.932" type="general.puzzles_de_saut.sanctuaire_de_saphir" GUID="0ejDa1D0vE6H11thAPk+ew=="/>
+			<POI MapID="96" xpos="-724.918" ypos="26.3979" zpos="426.916" type="general.puzzles_de_saut.sanctuaire_de_saphir" GUID="VJ9cDIQWSkah+FfPO9yMUQ=="/>
+			<POI MapID="96" xpos="-724.154" ypos="27.4768" zpos="421.146" type="general.puzzles_de_saut.sanctuaire_de_saphir" GUID="dbv5AuvJtES33GuYLTZJ1g=="/>
+			<POI MapID="96" xpos="-731.971" ypos="31.3442" zpos="415.177" type="general.puzzles_de_saut.sanctuaire_de_saphir" GUID="5HLh7ae18kSE9RMcDBQDSg=="/>
+			<POI MapID="96" xpos="-749.656" ypos="34.6874" zpos="423.848" type="general.puzzles_de_saut.sanctuaire_de_saphir" GUID="Q8Y70xW+Mk2SYrlRWvdbtg=="/>
+			<POI MapID="96" xpos="-759.665" ypos="37.169" zpos="443.078" type="general.puzzles_de_saut.sanctuaire_de_saphir" GUID="QvAUiow2Ekmw4ZPwLeoBTg=="/>
+			<POI MapID="96" xpos="-762.491" ypos="41.3316" zpos="454.796" type="general.puzzles_de_saut.sanctuaire_de_saphir" GUID="T8pdGVyelUuyrhpLGY7bZg=="/>
+			<POI MapID="96" xpos="-759.836" ypos="43.1827" zpos="463.416" type="general.puzzles_de_saut.sanctuaire_de_saphir" GUID="5OWFAheWvUOirh/SqKjA+g=="/>
+			<POI MapID="96" xpos="-748.147" ypos="40.748" zpos="465.203" type="general.puzzles_de_saut.sanctuaire_de_saphir" GUID="2RVZMHtmr0eYdC6ed+NTqg=="/>
+			<POI MapID="96" xpos="-738.522" ypos="45.5142" zpos="478.475" type="general.puzzles_de_saut.sanctuaire_de_saphir" GUID="HT6HW2VGb0Cxd4h8ZhWdKQ=="/>
+			<POI MapID="96" xpos="-739.584" ypos="23.534" zpos="483.935" type="general.puzzles_de_saut.sanctuaire_de_saphir" GUID="/gE7cDMEAkSObNY2iHn3uA=="/>
+			<POI MapID="96" xpos="-748.721" ypos="25.0184" zpos="484.036" type="general.puzzles_de_saut.sanctuaire_de_saphir" GUID="OZSsoFUxIUSSCP9/E9x3eg=="/>
+			<POI MapID="96" xpos="-757.344" ypos="28.7177" zpos="484.357" type="general.puzzles_de_saut.sanctuaire_de_saphir" GUID="h3TQgDr18UOqJ0jY17wpsQ=="/>
+			<POI MapID="96" xpos="-761.841" ypos="31.7115" zpos="489.093" type="general.puzzles_de_saut.sanctuaire_de_saphir" GUID="F9aYqUMqjkiGDvA3mQ/Kxw=="/>
+			<POI MapID="96" xpos="-765.925" ypos="38.0946" zpos="501.399" type="general.puzzles_de_saut.sanctuaire_de_saphir" GUID="cxnGmrluGUuw2tx4BzL5jw=="/>
+			<POI MapID="96" xpos="-747.48" ypos="42.5424" zpos="507.826" type="general.puzzles_de_saut.sanctuaire_de_saphir" GUID="SV5U9PZyvk+XPHj2L87s4A=="/>
+			<POI MapID="96" xpos="-750.689" ypos="42.0704" zpos="495.992" type="general.puzzles_de_saut.sanctuaire_de_saphir" GUID="mKnxHct51ESeAqv40LFHdQ=="/>
+			<POI MapID="96" xpos="-756.736" ypos="42.8994" zpos="493.859" type="general.puzzles_de_saut.sanctuaire_de_saphir" GUID="7L1dwhA8EUKtd0l0lm4Psw=="/>
+			<POI MapID="96" xpos="-751.363" ypos="47.8802" zpos="486.322" type="general.puzzles_de_saut.sanctuaire_de_saphir" GUID="5yiwmYQk+EapTnpQ/h/19A=="/>
+			<POI MapID="96" xpos="-756.819" ypos="51.0792" zpos="484.183" type="general.puzzles_de_saut.sanctuaire_de_saphir" GUID="X3wmgIYnwUyLDM3MKw4v/g=="/>
+			<POI MapID="96" xpos="-761.751" ypos="53.2178" zpos="489.271" type="general.puzzles_de_saut.sanctuaire_de_saphir" GUID="GlUv/zOMA0eJG7Axkz02tQ=="/>
+			<POI MapID="96" xpos="-773.396" ypos="47.6036" zpos="495.221" type="general.puzzles_de_saut.sanctuaire_de_saphir" GUID="VSARgsygpU+PjYAT1jV2RA=="/>
+			<POI MapID="96" xpos="-771.623" ypos="49.4251" zpos="503.15" type="general.puzzles_de_saut.sanctuaire_de_saphir" GUID="DOfw5gdaCES/h08VHrohOA=="/>
+			<POI MapID="96" xpos="-765.936" ypos="54.192" zpos="513.198" type="general.puzzles_de_saut.sanctuaire_de_saphir" GUID="WlNXU7E9F0GF8YjR+tgztw=="/>
+			<POI MapID="96" xpos="-752.042" ypos="54.325" zpos="520.453" type="general.puzzles_de_saut.sanctuaire_de_saphir" GUID="dZWsvdbC8EKHx5WC+K90fw=="/>
+			<POI MapID="96" xpos="-742.914" ypos="53.5974" zpos="518.917" type="general.puzzles_de_saut.sanctuaire_de_saphir" GUID="iIshmp+1p0W+W54T7c1DKQ=="/>
+			<POI MapID="96" xpos="-718.396" ypos="51.8099" zpos="514.713" type="general.puzzles_de_saut.sanctuaire_de_saphir" GUID="R297sAmafEuJ+ZyYKuBnTw=="/>
+			<POI MapID="96" xpos="-715.903" ypos="26.0358" zpos="512.162" type="general.puzzles_de_saut.sanctuaire_de_saphir" GUID="I6NwCL7g60qPjUUcQAx2Sw=="/>
+			<POI MapID="96" xpos="-721.279" ypos="28.4173" zpos="519.193" type="general.puzzles_de_saut.sanctuaire_de_saphir" GUID="PAfDtxZeA0a+PDMqKAyhnw=="/>
+			<POI MapID="96" xpos="-725.443" ypos="27.4675" zpos="529.263" type="general.puzzles_de_saut.sanctuaire_de_saphir" GUID="2hAKRLF/eU+OEtImPp1WtA=="/>
+			<POI MapID="96" xpos="-723.704" ypos="24.6851" zpos="534.146" type="general.puzzles_de_saut.sanctuaire_de_saphir" GUID="LK367tTg4EWXFGxdVMatLw=="/>
+			<POI MapID="96" xpos="-720.418" ypos="22.1096" zpos="540.03" type="general.puzzles_de_saut.sanctuaire_de_saphir" GUID="ewCfMXDIt0y1HVw5nopoEw=="/>
+			<POI MapID="96" xpos="-724.521" ypos="22.5075" zpos="543.307" type="general.puzzles_de_saut.sanctuaire_de_saphir" GUID="AZ2VXmDVvUqAP753Ph1yKg=="/>
+			<POI MapID="96" xpos="-725.524" ypos="22.2578" zpos="548.332" type="general.puzzles_de_saut.sanctuaire_de_saphir" GUID="0ofZFCCfcUSaWxc6LsehlA=="/>
+			<POI MapID="96" xpos="-720.219" ypos="16.6445" zpos="557.364" type="general.puzzles_de_saut.sanctuaire_de_saphir" GUID="PmNCJYFVO0WOXdM/oxMpdg=="/>
+			<POI MapID="96" xpos="-715.309" ypos="13.7569" zpos="566.057" type="general.puzzles_de_saut.sanctuaire_de_saphir" GUID="y4bE3+zlb0OKs6mqC6AYYg=="/>
+			<POI MapID="96" xpos="-709.883" ypos="8.79223" zpos="573.676" type="general.puzzles_de_saut.sanctuaire_de_saphir" GUID="Efvuc7Qa2k6H09Gz1p8x3g=="/>
+			<POI MapID="96" xpos="-698.555" ypos="6.11258" zpos="571.762" type="general.puzzles_de_saut.sanctuaire_de_saphir" GUID="0R3Mxa6yZkWMfBqGX/2RTQ=="/>
+			<POI MapID="96" xpos="-690.319" ypos="8.72592" zpos="562.299" type="general.puzzles_de_saut.sanctuaire_de_saphir" GUID="kVzYKZ9z00aZ+Imw5ZXs7w=="/>
+			<POI MapID="96" xpos="-684.136" ypos="12.1218" zpos="560.92" type="general.puzzles_de_saut.sanctuaire_de_saphir" GUID="A2d+38GpV06Fbsrh9DWiHA=="/>
+			<POI MapID="96" xpos="-688.823" ypos="14.4941" zpos="561.896" type="general.puzzles_de_saut.sanctuaire_de_saphir" GUID="hgbBliXvVEGfJl6a0N9sdQ=="/>
+			<POI MapID="96" xpos="-693.144" ypos="14.9521" zpos="563.053" type="general.puzzles_de_saut.sanctuaire_de_saphir" GUID="PKHRScBe3ECsksPJMflFJA=="/>
+			<POI MapID="96" xpos="-693.763" ypos="16.1461" zpos="566.826" type="general.puzzles_de_saut.sanctuaire_de_saphir" GUID="Y2EN8R+bS029743sc3As2w=="/>
+			<POI MapID="96" xpos="-693.074" ypos="19.2967" zpos="566.097" type="general.puzzles_de_saut.sanctuaire_de_saphir" GUID="nv5stxs02EuqJ8T0MGvXKg=="/>
+			<POI MapID="96" xpos="-692.514" ypos="20.2321" zpos="563.086" type="general.puzzles_de_saut.sanctuaire_de_saphir" GUID="KNnRg1BxD0ulZPSHQUdRZQ=="/>
+			<POI MapID="96" xpos="-691.047" ypos="22.887" zpos="563.394" type="general.puzzles_de_saut.sanctuaire_de_saphir" GUID="Zs5GDbVLYECTmuB30lANgg=="/>
+			<POI MapID="96" xpos="-692.461" ypos="25.6213" zpos="567.347" type="general.puzzles_de_saut.sanctuaire_de_saphir" GUID="znyoDa7eFkyZ4vGySRWCKQ=="/>
+			<POI MapID="96" xpos="-695.227" ypos="27.8441" zpos="570.823" type="general.puzzles_de_saut.sanctuaire_de_saphir" GUID="CweqQ/p/CECliWlKqRjVUg=="/>
+			<POI MapID="96" xpos="-701.518" ypos="32.8209" zpos="577.271" type="general.puzzles_de_saut.sanctuaire_de_saphir" GUID="cFCyW2DBMUi4a4e0/pzInQ=="/>
+			<POI MapID="96" xpos="-586.25" ypos="40.502" zpos="553.443" type="general.puzzles_de_saut.sanctuaire_de_saphir" GUID="hhaMY/b1AUyT49VxT2mjeg=="/>
+			<POI MapID="96" xpos="-746.49" ypos="30.2301" zpos="386.165" type="general.puzzles_de_saut.sanctuaire_de_saphir" GUID="AR6VSswKxkCpwFhHZeLyxw=="/>
+		</Route>
+
+		<!-- Morceau de Cle 1 -->
+		<POI MapID="96" xpos="-718.538" ypos="52.9415" zpos="528.079" type="general.puzzles_de_saut.sanctuaire_de_saphir" GUID="aHg11xfqHUiHIViWrvWwGA==" iconFile="Img\Cle.png" iconSize="1" behavior="2"/>
+		<!-- Morceau de Cle 2 -->
+		<POI MapID="96" xpos="-687.158" ypos="36.0194" zpos="579.536" type="general.puzzles_de_saut.sanctuaire_de_saphir" GUID="V+xfyyUwgUyC1ZfYdIoJRQ==" iconFile="Img\Cle.png" iconSize="1" behavior="2"/>
+		<!-- Porte du Coffre -->
+		<POI MapID="96" xpos="-747.105" ypos="30.3948" zpos="382.863" type="general.puzzles_de_saut.sanctuaire_de_saphir" GUID="SUb1Pkxm2EaHoWo2NWO/AA==" iconFile="Img\Interrupteur.png" iconSize="1"/>
+		<!-- Coffre -->
+		<POI MapID="96" xpos="-754.078" ypos="34.5618" zpos="367.986" type="general.puzzles_de_saut.sanctuaire_de_saphir" GUID="4Q1HlXkXf0mI02k19eBuDQ==" iconFile="Img\CoffrePuzzle.png" iconSize="2" heightOffset="5" behavior="2"/>
+
+	</POIs>
+</OverlayData>

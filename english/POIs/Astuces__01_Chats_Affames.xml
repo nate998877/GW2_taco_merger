@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+POIs: ReActif.9251
+Date: 2017/04/06
+-->
+<OverlayData>
+	<MarkerCategory name="astuces" DisplayName="Tips (No Achievement)">
+		<MarkerCategory name="chats_affames" DisplayName="Hungry Cats" iconFile="Img\Chat.png" heightOffset="2.5" behavior="3"/>
+	</MarkerCategory>
+	
+	<POIs>
+
+		<!-- Vallée de la Reine -->
+		<POI MapID="15" xpos="-415.507" ypos="60.8959" zpos="526.808" type="astuces.chats_affames" GUID="o3oCGDNBPkKupkiBrGWUGw=="/>
+		<POI MapID="15" xpos="-404.525" ypos="54.4234" zpos="481.31" type="astuces.chats_affames" GUID="6EjT5akNbUyH4ddhMXH1CA=="/>
+		<POI MapID="15" xpos="952.556" ypos="23.1187" zpos="573.135" type="astuces.chats_affames" GUID="WBfP89DMQEiDgHeTBmMXxg=="/>
+
+		<!-- Promontoire Divin -->
+		<POI MapID="18" xpos="-47.8144" ypos="82.5877" zpos="-178.98" type="astuces.chats_affames" GUID="+SxtFVHfaE+DP2KLDQxokQ=="/>
+
+		<!-- Plaines d'Ashford -->
+		<POI MapID="19" xpos="-1070.17" ypos="51.6215" zpos="222.812" type="astuces.chats_affames" GUID="h2mlkiboaUGm3SfcJfcmNw=="/>
+		<POI MapID="19" xpos="-1119.11" ypos="51.6341" zpos="230.243" type="astuces.chats_affames" GUID="WFl4CEjVxUKAMLJS15Oqyw=="/>
+
+		<!-- Champs de Ruine -->
+		<POI MapID="21" xpos="-581.86" ypos="60.5604" zpos="-433.862" type="astuces.chats_affames" GUID="Z9ec5Ly5cEqryICI8vO6Bg=="/>
+
+		<!-- Contreforts du Voyageur -->
+		<POI MapID="28" xpos="-172.074" ypos="94.3429" zpos="-605.654" type="astuces.chats_affames" GUID="pmoNzDTgYUKD+Y+F3AIvNA=="/>
+
+		<!-- Forêt de Caledon -->
+		<POI MapID="34" xpos="-205.719" ypos="0.949558" zpos="-984.245" type="astuces.chats_affames" GUID="zD4dmZ0c3kaDVB+ovv6L5w=="/>
+		<POI MapID="34" xpos="-170.581" ypos="4.64722" zpos="-999.538" type="astuces.chats_affames" GUID="Q3UtC1vuqEKaOQfB1BtCyg=="/>
+
+		<!-- Province de Metrica -->
+		<POI MapID="35" xpos="-519.828" ypos="54.3914" zpos="-738.171" type="astuces.chats_affames" GUID="fPrYJZx0oUuCYNdHU3r9XQ=="/>
+
+		<!-- Arche du Lion -->
+		<POI MapID="50" xpos="-216.569" ypos="17.1125" zpos="277.853" type="astuces.chats_affames" GUID="J7zWT1utUk6w5bZ1RCllrw=="/>
+		<POI MapID="50" xpos="387.683" ypos="29.6109" zpos="343.501" type="astuces.chats_affames" GUID="pQ9D9eTAEEeDKpoSJjr5Wg=="/>
+
+		<!-- Bosquet -->
+		<POI MapID="91" xpos="-61.2171" ypos="0.707689" zpos="-42.266" type="astuces.chats_affames" GUID="LVTmZRlb006jlXvMo23Kew=="/>
+		<POI MapID="91" xpos="54.0475" ypos="1.98081" zpos="50.5951" type="astuces.chats_affames" GUID="FuOsSP503kW4cZZ2a2GC8g=="/>
+		<POI MapID="91" xpos="75.445" ypos="0.424797" zpos="-13.0022" type="astuces.chats_affames" GUID="rSZwmL5ObUO7ahLxpEuyBA=="/>
+
+		<!-- Rata Sum -->
+		<POI MapID="139" xpos="-14.7599" ypos="315.615" zpos="218.498" type="astuces.chats_affames" GUID="LrRVZG3xdUOromkwPKl1+g=="/>
+
+		<!-- Citadelle Noire -->
+		<POI MapID="218" xpos="186.83" ypos="167.336" zpos="-14.5471" type="astuces.chats_affames" GUID="7bABxVkwFE+zmKMAbpfFBQ=="/>
+
+		<!-- Hoelbrak -->
+		<POI MapID="326" xpos="105.212" ypos="236.642" zpos="163.747" type="astuces.chats_affames" GUID="o5gE3veMsEa4EN+edpGQKQ=="/>
+
+		<!-- Cœur des Brumes (PvP) -->
+		<POI MapID="350" xpos="-49.8953" ypos="60.7308" zpos="-52.7377" type="astuces.chats_affames" GUID="qDVETn21lkelzKNY0Q+IPQ=="/>
+
+		<!-- Cimesèche -->
+		<POI MapID="988" xpos="239.551" ypos="13.5615" zpos="-335.425" type="astuces.chats_affames" GUID="dxO02X3I3k+KS8UiWjAkMg=="/>
+		<POI MapID="988" xpos="416.153" ypos="24.1469" zpos="-506.692" type="astuces.chats_affames" GUID="yrMdAap1Qku+S9weB94f6w=="/>
+
+		<!-- Contrées Sauvages d'Argent -->
+		<POI MapID="1015" xpos="-415.16" ypos="446.572" zpos="-75.6061" type="astuces.chats_affames" GUID="nl3X9ZDr9Eyr3RJbBTq62Q=="/>
+		<POI MapID="1015" xpos="547.872" ypos="414.797" zpos="-152.541" type="astuces.chats_affames" GUID="Of04XGYKjUCmAJtH09SHCw=="/>
+
+		<!-- Baie des Braises -->
+		<POI MapID="1175" xpos="-584.714" ypos="5.52341" zpos="-496.274" type="astuces.chats_affames" GUID="O7B0PhbRSUe6aMAjFL4bAw=="/>
+		<POI MapID="1175" xpos="476.272" ypos="3.30363" zpos="-452.534" type="astuces.chats_affames" GUID="9h/1cF9/lUizeGLEYL/kQw=="/>
+
+		<!-- Confins de Givramer -->
+		<POI MapID="1178" xpos="787.916" ypos="85.4628" zpos="385.137" type="astuces.chats_affames" GUID="Mq5SYeHRc0WZrEOM2lqqRA=="/>
+
+		<!-- Lac Doric -->
+		<POI MapID="1185" xpos="11.7291" ypos="63.1928" zpos="492.754" type="astuces.chats_affames" GUID="90jWlv+B9U20X3j38OOewQ=="/>
+
+		<!-- Manoir Beetlestone (instance) -->
+		<POI MapID="1191" xpos="157.634" ypos="40.0751" zpos="51.1946" type="astuces.chats_affames" GUID="C+n4/V6+PUKvLcF8JyNbSQ=="/>
+
+		<!-- Super Adventure Box (Monde 2 - Zone 2) -->
+		<POI MapID="934" xpos="456.957" ypos="316.808" zpos="-111.658" type="astuces.chats_affames" GUID="QA+pJ2vz5k+TOSTfVomVbg=="/>
+
+	</POIs>
+</OverlayData>

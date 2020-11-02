@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+POIs: ReActif.9251
+Date: 2017/02/11
+-->
+<OverlayData>
+	<MarkerCategory name="chroniques.saison_3">
+		<MarkerCategory name="ep4_la_tete_du_serpent" DisplayName="Ep.4 - The Head of the Snake" iconFile="Img\LacDoric.png">
+			<MarkerCategory name="lanceur_d_appat" DisplayName="Chum Chucker" behavior="0"/>
+		</MarkerCategory>
+	</MarkerCategory>
+
+	<POIs>
+
+		<!-- Zone du Succès -->
+		<POI MapID="1185" xpos="-29.7239" ypos="26.4571" zpos="-461.04" type="chroniques.saison_3.ep4_la_tete_du_serpent.lanceur_d_appat" GUID="xFuxdXqx6Eq+b4jZ/dSjAw=="/>
+
+	</POIs>
+</OverlayData>

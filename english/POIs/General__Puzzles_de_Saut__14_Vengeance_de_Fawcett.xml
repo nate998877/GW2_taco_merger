@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+POIs:  Cloud Strife.7492 - Xenophy.2716 - ReActif.9251
+Date: 2017/08/23
+Notes: Ce puzzle utilise la même première partie que celui du "Butin de Fawcett".
+-->
+<OverlayData>
+	<MarkerCategory name="general" DisplayName="General">
+		<MarkerCategory name="puzzles_de_saut" DisplayName="Jumping Puzzles" iconFile="Img\Guide.png" iconSize="0.75">
+			<MarkerCategory name="vengeance_de_fawcett" DisplayName="Fawcett's Revenger" triggerRange="5"/>
+		</MarkerCategory>
+	</MarkerCategory>
+
+	<POIs>
+
+		<!-- Route -->
+		<Route MapID="17" name="Vengeance_de_Fawcett" resetposx="-395" resetposy="18.61" resetposz="744.25" resetrange="2">
+			<POI MapID="17" xpos="-389.15" ypos="22.12" zpos="754.11" type="general.puzzles_de_saut.vengeance_de_fawcett" GUID="P+BrnzhQ4kCOEbfMToYm+A==" iconFile="Img\Interrupteur.png"/>
+			<POI MapID="17" xpos="-385.499" ypos="23.2956" zpos="759.24" type="general.puzzles_de_saut.vengeance_de_fawcett" GUID="/sdEC2myNk2fy5SgeKsbIQ=="/>
+			<POI MapID="17" xpos="-374.559" ypos="26.6208" zpos="768.343" type="general.puzzles_de_saut.vengeance_de_fawcett" GUID="ecq3tCZNiECXFh09S+rtvA=="/>
+			<POI MapID="17" xpos="-356.123" ypos="28.2743" zpos="814.528" type="general.puzzles_de_saut.vengeance_de_fawcett" GUID="TNYHMVOyokyCOJpTBUrTdg=="/>
+			<POI MapID="17" xpos="-358.527" ypos="29.4014" zpos="824.879" type="general.puzzles_de_saut.vengeance_de_fawcett" GUID="elJVKTAo8kK3TM6K58Q/gQ=="/>
+			<POI MapID="17" xpos="-364.226" ypos="30.8115" zpos="831.067" type="general.puzzles_de_saut.vengeance_de_fawcett" GUID="A4ai14ndPUKPtnsDvUGAag=="/>
+			<POI MapID="17" xpos="-375.142" ypos="33.5519" zpos="831.718" type="general.puzzles_de_saut.vengeance_de_fawcett" GUID="h3WSOeZxWEay7S2Pwtx9mw=="/>
+			<POI MapID="17" xpos="-386.75" ypos="35.5731" zpos="830.711" type="general.puzzles_de_saut.vengeance_de_fawcett" GUID="VOC4ljo0402wkZrT7O+AxQ=="/>
+			<POI MapID="17" xpos="-397.982" ypos="36.8921" zpos="832.709" type="general.puzzles_de_saut.vengeance_de_fawcett" GUID="XQzqeJ90Xku6Qq6BsjUJuw=="/>
+			<!-- Fin (Mourir) -->
+			<POI MapID="17" xpos="-419.27" ypos="0" zpos="834.62" type="general.puzzles_de_saut.vengeance_de_fawcett" GUID="JuOsgf5qeEGDUTc9QvwvXQ==" iconFile="Img\Mort.png" iconSize="10" color="ffff0000" alpha="0.5" triggerRange="20"/>
+		</Route>
+
+
+	</POIs>
+</OverlayData>

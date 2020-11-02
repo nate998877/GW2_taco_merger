@@ -1,0 +1,140 @@
+<OverlayData>
+<MarkerCategory name="tw_guides" DisplayName="Tekkit's Guides">
+  <MarkerCategory name="tw_core" DisplayName="Misc">
+    <MarkerCategory name="tw_core_craftinglist" DisplayName="Crafting List">
+      <MarkerCategory name="tw_core_craftinglist_artificer" DisplayName="Toggle Artificer" miniMapVisibility="0" mapVisibility="0" fadeNear="3000" fadeFar="3100" iconSize="3.0" minSize="100" heightOffset="5.0" iconFile="Data/TekkitsWorkshop/Core/CraftingList/tw_core_craftinglist_artificer.png"/>
+      <MarkerCategory name="tw_core_craftinglist_cook" DisplayName="Toggle Cook" miniMapVisibility="0" mapVisibility="0" fadeNear="3000" fadeFar="3100" iconSize="2.5" minSize="100" heightOffset="3.0" iconFile="Data/TekkitsWorkshop/Core/CraftingList/tw_core_craftinglist_cook.png"/>
+      <MarkerCategory name="tw_core_craftinglist_huntsman" DisplayName="Toggle Huntsman" miniMapVisibility="0" mapVisibility="0" fadeNear="3000" fadeFar="3100" iconSize="3.0" minSize="100" heightOffset="3.5" iconFile="Data/TekkitsWorkshop/Core/CraftingList/tw_core_craftinglist_huntsman.png"/>
+      <MarkerCategory name="tw_core_craftinglist_jeweler" DisplayName="Toggle Jeweler" miniMapVisibility="0" mapVisibility="0" fadeNear="3000" fadeFar="3100" iconSize="3.0" minSize="100" heightOffset="3.5" iconFile="Data/TekkitsWorkshop/Core/CraftingList/tw_core_craftinglist_jeweler.png"/>
+      <MarkerCategory name="tw_core_craftinglist_leatherworker" DisplayName="Toggle Leatherworker" miniMapVisibility="0" mapVisibility="0" fadeNear="3000" fadeFar="3100" minSize="100" iconSize="3.0" heightOffset="5.0" iconFile="Data/TekkitsWorkshop/Core/CraftingList/tw_core_craftinglist_leatherworker.png"/>
+      <MarkerCategory name="tw_core_craftinglist_tailor" DisplayName="Toggle Tailor" miniMapVisibility="0" mapVisibility="0" fadeNear="3000" fadeFar="3100" iconSize="2.5" minSize="100" heightOffset="3.0" iconFile="Data/TekkitsWorkshop/Core/CraftingList/tw_core_craftinglist_tailor.png"/>
+      <MarkerCategory name="tw_core_craftinglist_weaponsmith" DisplayName="Toggle Weaponsmith" miniMapVisibility="0" mapVisibility="0" fadeNear="3000" fadeFar="3100" iconSize="2.5" minSize="100" heightOffset="3.0" iconFile="Data/TekkitsWorkshop/Core/CraftingList/tw_core_craftinglist_weaponsmith.png"/>
+    </MarkerCategory>
+  </MarkerCategory>
+</MarkerCategory>
+	<POIs>
+		<POI MapID="1206" xpos="-81.0949" ypos="119.807" zpos="-5.1071" type="tw_guides.tw_core.tw_core_craftinglist.tw_core_craftinglist_jeweler" GUID="ck4i3wsAsE2bCujsJ3eFFw=="/>
+		<POI MapID="1206" xpos="-80.9589" ypos="119.805" zpos="5.69497" type="tw_guides.tw_core.tw_core_craftinglist.tw_core_craftinglist_cook" GUID="VFs75vM5DkuxE0HYWww9cg=="/>
+		<POI MapID="1206" xpos="-71.0752" ypos="120.086" zpos="15.8101" type="tw_guides.tw_core.tw_core_craftinglist.tw_core_craftinglist_artificer" GUID="QCBfTxlT6EmP+cbUV3qBsw=="/>
+		<POI MapID="1206" xpos="-60.174" ypos="119.805" zpos="15.7759" type="tw_guides.tw_core.tw_core_craftinglist.tw_core_craftinglist_weaponsmith" GUID="PcExVaGrnUSoA8sBdWbxkQ=="/>
+		<POI MapID="1206" xpos="-50.9505" ypos="119.805" zpos="5.66456" type="tw_guides.tw_core.tw_core_craftinglist.tw_core_craftinglist_huntsman" GUID="THl7KPeiZ0ufvjiRCtB5DA=="/>
+		<POI MapID="1206" xpos="-49.9917" ypos="120.1" zpos="-5.2807" type="tw_guides.tw_core.tw_core_craftinglist.tw_core_craftinglist_leatherworker" GUID="Rw0r2KEP/kSYKEFSCd8rXQ=="/>
+		<POI MapID="1206" xpos="-60.2996" ypos="119.805" zpos="-16.0507" type="tw_guides.tw_core.tw_core_craftinglist.tw_core_craftinglist_tailor" GUID="3WRSaj0QsEK4Yy7kuFoETA=="/>
+		<POI MapID="1158" xpos="-268.802" ypos="576.497" zpos="-419.366" type="tw_guides.tw_core.tw_core_craftinglist.tw_core_craftinglist_tailor" GUID="3x3ARk3IgkqmTLArP59Vfw=="/>
+		<POI MapID="1158" xpos="-269.021" ypos="576.7" zpos="-424.032" type="tw_guides.tw_core.tw_core_craftinglist.tw_core_craftinglist_leatherworker" GUID="V7TXSCWhfU2Iuf2XLprZ4A=="/>
+		<POI MapID="1158" xpos="-268.53" ypos="576.502" zpos="-428.937" type="tw_guides.tw_core.tw_core_craftinglist.tw_core_craftinglist_weaponsmith" GUID="gXrRIkf+OEG5cANgQEjHgA=="/>
+		<POI MapID="1158" xpos="-241.774" ypos="576.68" zpos="-463.836" type="tw_guides.tw_core.tw_core_craftinglist.tw_core_craftinglist_jeweler" GUID="d238MMuCkka4+kWCRsp+AA=="/>
+		<POI MapID="1158" xpos="-230.005" ypos="576.869" zpos="-460.567" type="tw_guides.tw_core.tw_core_craftinglist.tw_core_craftinglist_huntsman" GUID="WrS6SkOITUOxV+ZtyTd45Q=="/>
+		<POI MapID="1158" xpos="-222.129" ypos="578.291" zpos="-439.592" type="tw_guides.tw_core.tw_core_craftinglist.tw_core_craftinglist_artificer" GUID="kk9hpfZaHUG6J4MUdNuQOA=="/>
+		<POI MapID="1158" xpos="-231.065" ypos="577.109" zpos="-425.168" type="tw_guides.tw_core.tw_core_craftinglist.tw_core_craftinglist_cook" GUID="tTDWKqJUnUiN8id2BEvtug=="/>
+		<POI MapID="24" xpos="811.614" ypos="161.072" zpos="274.601" type="tw_guides.tw_core.tw_core_craftinglist.tw_core_craftinglist_jeweler" GUID="7ZSmFGOgr0edCLSs/476jQ=="/>
+		<POI MapID="24" xpos="811.848" ypos="159.698" zpos="278.696" type="tw_guides.tw_core.tw_core_craftinglist.tw_core_craftinglist_weaponsmith" GUID="CCr5ZsNSiEWRUsliPltAPg=="/>
+		<POI MapID="24" xpos="809.944" ypos="159.426" zpos="283.44" type="tw_guides.tw_core.tw_core_craftinglist.tw_core_craftinglist_huntsman" GUID="RyGn5rnhD0WfgoZLconNLA=="/>
+		<POI MapID="24" xpos="808.519" ypos="159.732" zpos="289.118" type="tw_guides.tw_core.tw_core_craftinglist.tw_core_craftinglist_artificer" GUID="fVjdS7j5UUiuIt2umii4gA=="/>
+		<POI MapID="24" xpos="820.713" ypos="160.618" zpos="285.029" type="tw_guides.tw_core.tw_core_craftinglist.tw_core_craftinglist_leatherworker" GUID="N+uMEAE81E2EkWQfi8fGHg=="/>
+		<POI MapID="24" xpos="819.609" ypos="159.947" zpos="280.251" type="tw_guides.tw_core.tw_core_craftinglist.tw_core_craftinglist_tailor" GUID="ISLJw4lApUGwG4vQ95IkRA=="/>
+		<POI MapID="24" xpos="819.018" ypos="161.531" zpos="275.17" type="tw_guides.tw_core.tw_core_craftinglist.tw_core_craftinglist_cook" GUID="HbAoIZRZY06BODkchPMqHQ=="/>
+		<POI MapID="18" xpos="-353.241" ypos="76.6311" zpos="70.7083" type="tw_guides.tw_core.tw_core_craftinglist.tw_core_craftinglist_weaponsmith" GUID="LV7eMZZWKECjfEsNycuAdQ=="/>
+		<POI MapID="18" xpos="-350.586" ypos="76.6302" zpos="75.7278" type="tw_guides.tw_core.tw_core_craftinglist.tw_core_craftinglist_tailor" GUID="9j1SyLK7xEOWpYQ4v4fSOw=="/>
+		<POI MapID="18" xpos="-347.898" ypos="76.6322" zpos="80.8232" type="tw_guides.tw_core.tw_core_craftinglist.tw_core_craftinglist_jeweler" GUID="8N562kOflkGSGGTiM7Zvvw=="/>
+		<POI MapID="18" xpos="-345.253" ypos="76.6316" zpos="85.8304" type="tw_guides.tw_core.tw_core_craftinglist.tw_core_craftinglist_cook" GUID="cm8H7y6ZkEqWP1KMX2JAOQ=="/>
+		<POI MapID="18" xpos="-299.286" ypos="76.6313" zpos="96.1396" type="tw_guides.tw_core.tw_core_craftinglist.tw_core_craftinglist_huntsman" GUID="8Cj/CNCp/k60TyQxZ7swig=="/>
+		<POI MapID="18" xpos="-294.178" ypos="76.6321" zpos="93.8756" type="tw_guides.tw_core.tw_core_craftinglist.tw_core_craftinglist_artificer" GUID="FF4xlxrMLkGsQpDOpgTwBA=="/>
+		<POI MapID="18" xpos="-288.662" ypos="76.6321" zpos="91.4301" type="tw_guides.tw_core.tw_core_craftinglist.tw_core_craftinglist_leatherworker" GUID="Wb7J3EwG0Em7bxunnOhEuA=="/>
+		<POI MapID="1210" xpos="-1001.16" ypos="16.9699" zpos="-446.052" type="tw_guides.tw_core.tw_core_craftinglist.tw_core_craftinglist_weaponsmith" GUID="BDliAT3j70q4cToSU+/VZw=="/>
+		<POI MapID="1210" xpos="-1023.27" ypos="16.9117" zpos="-444.866" type="tw_guides.tw_core.tw_core_craftinglist.tw_core_craftinglist_leatherworker" GUID="2LWeMbctREqSdcqOAd0RQA=="/>
+		<POI MapID="1210" xpos="-1016.43" ypos="16.6496" zpos="-425.05" type="tw_guides.tw_core.tw_core_craftinglist.tw_core_craftinglist_jeweler" GUID="BQg55Ivs5E+kmz/k9lK44w=="/>
+		<POI MapID="1210" xpos="-981.54" ypos="16.6522" zpos="-423.3" type="tw_guides.tw_core.tw_core_craftinglist.tw_core_craftinglist_huntsman" GUID="z/63Rt9VgUSn11Uk6w2RYg=="/>
+		<POI MapID="1210" xpos="-970.916" ypos="16.6496" zpos="-446.058" type="tw_guides.tw_core.tw_core_craftinglist.tw_core_craftinglist_artificer" GUID="0UGOHjH3AkG0n9pSxZFeRg=="/>
+		<POI MapID="1210" xpos="-979.081" ypos="16.6496" zpos="-461.355" type="tw_guides.tw_core.tw_core_craftinglist.tw_core_craftinglist_cook" GUID="HybAs2DJQECpDiDzDB0HFg=="/>
+		<POI MapID="1210" xpos="-1016.63" ypos="16.6496" zpos="-462.582" type="tw_guides.tw_core.tw_core_craftinglist.tw_core_craftinglist_tailor" GUID="p4eSmg2Jj0WsS2DnsxZ23g=="/>
+		<POI MapID="1175" xpos="-820.94" ypos="67.031" zpos="-528.999" type="tw_guides.tw_core.tw_core_craftinglist.tw_core_craftinglist_artificer" GUID="GDtritRPQEKW0Yozxc4D+w=="/>
+		<POI MapID="1175" xpos="-815.156" ypos="67.0245" zpos="-529.758" type="tw_guides.tw_core.tw_core_craftinglist.tw_core_craftinglist_huntsman" GUID="mwufcD1E+EKkR7BWAMaG0g=="/>
+		<POI MapID="1175" xpos="-810.697" ypos="67.0245" zpos="-531.292" type="tw_guides.tw_core.tw_core_craftinglist.tw_core_craftinglist_weaponsmith" GUID="ugxU+qF4H0GAc2iYvFL22w=="/>
+		<POI MapID="1175" xpos="-803.775" ypos="67.0274" zpos="-546.489" type="tw_guides.tw_core.tw_core_craftinglist.tw_core_craftinglist_cook" GUID="NRZ1ou9PaUqW12I5U31oig=="/>
+		<POI MapID="1175" xpos="-804.268" ypos="67.1807" zpos="-551.801" type="tw_guides.tw_core.tw_core_craftinglist.tw_core_craftinglist_jeweler" GUID="ZrhjaXya/EGwOPmXmd1xfw=="/>
+		<POI MapID="1175" xpos="-815.255" ypos="67.3156" zpos="-567.969" type="tw_guides.tw_core.tw_core_craftinglist.tw_core_craftinglist_tailor" GUID="jFxhtozDyUulbjKiPTpBvg=="/>
+		<POI MapID="1175" xpos="-819.809" ypos="67.0245" zpos="-569.16" type="tw_guides.tw_core.tw_core_craftinglist.tw_core_craftinglist_leatherworker" GUID="Xm2a0Srark6Ye5tluRP8Ew=="/>
+		<POI MapID="50" xpos="-162.419" ypos="18.1551" zpos="316.725" type="tw_guides.tw_core.tw_core_craftinglist.tw_core_craftinglist_jeweler" GUID="FdrQb/GVVkOIOxNvcvohhw=="/>
+		<POI MapID="50" xpos="-160.829" ypos="17.922" zpos="302.914" type="tw_guides.tw_core.tw_core_craftinglist.tw_core_craftinglist_tailor" GUID="vUBpF8vUPEyVKg9svFYiZg=="/>
+		<POI MapID="50" xpos="-211.548" ypos="17.9057" zpos="317.481" type="tw_guides.tw_core.tw_core_craftinglist.tw_core_craftinglist_weaponsmith" GUID="CWDIdMK2X0KrvUsBphBP2A=="/>
+		<POI MapID="50" xpos="-234.229" ypos="17.9047" zpos="337.217" type="tw_guides.tw_core.tw_core_craftinglist.tw_core_craftinglist_artificer" GUID="9rggpqiv4E6hAOb80rvcfw=="/>
+		<POI MapID="50" xpos="-225.928" ypos="18.1654" zpos="355.187" type="tw_guides.tw_core.tw_core_craftinglist.tw_core_craftinglist_leatherworker" GUID="IY60aZAio0SPazasYH3nUQ=="/>
+		<POI MapID="50" xpos="-201.053" ypos="18.1627" zpos="343.217" type="tw_guides.tw_core.tw_core_craftinglist.tw_core_craftinglist_huntsman" GUID="9oOFokiUxkCy5TXN6kRJDg=="/>
+		<POI MapID="50" xpos="-211.231" ypos="17.2106" zpos="271.664" type="tw_guides.tw_core.tw_core_craftinglist.tw_core_craftinglist_cook" GUID="8dZweoAePEGfmnCRLVf0pQ=="/>
+		<POI MapID="18" xpos="13.7228" ypos="83.28" zpos="-212.026" type="tw_guides.tw_core.tw_core_craftinglist.tw_core_craftinglist_jeweler" GUID="dd1PaP+IP06n+dkVUIqzjQ=="/>
+		<POI MapID="18" xpos="-13.4317" ypos="82.137" zpos="-217.928" type="tw_guides.tw_core.tw_core_craftinglist.tw_core_craftinglist_tailor" GUID="g4ICk1Jo9kuvbuIghfFCSw=="/>
+		<POI MapID="18" xpos="-61.2941" ypos="82.5955" zpos="-185.723" type="tw_guides.tw_core.tw_core_craftinglist.tw_core_craftinglist_cook" GUID="hH7tvyn+zkCws+GvpEQ8IA=="/>
+		<POI MapID="18" xpos="131.503" ypos="81.6497" zpos="-231.445" type="tw_guides.tw_core.tw_core_craftinglist.tw_core_craftinglist_weaponsmith" GUID="8yy0Mf6J3UKoWKNy6j01Xw=="/>
+		<POI MapID="18" xpos="145.693" ypos="81.777" zpos="-226.088" type="tw_guides.tw_core.tw_core_craftinglist.tw_core_craftinglist_artificer" GUID="R/fEf1QUyUOu8pEAIFqFZA=="/>
+		<POI MapID="18" xpos="162.427" ypos="81.7758" zpos="-217.703" type="tw_guides.tw_core.tw_core_craftinglist.tw_core_craftinglist_huntsman" GUID="ujmLnAtFtEW/5u+uSMbcmQ=="/>
+		<POI MapID="18" xpos="188.146" ypos="82.1064" zpos="-195.716" type="tw_guides.tw_core.tw_core_craftinglist.tw_core_craftinglist_leatherworker" GUID="U0Gb0ekwlEK+7EIMFgXcXQ=="/>
+		<POI MapID="15" xpos="-524.78" ypos="35.4282" zpos="-455.34" type="tw_guides.tw_core.tw_core_craftinglist.tw_core_craftinglist_leatherworker" GUID="xFNDpt0wAUy9MktvvPtaDw=="/>
+		<POI MapID="15" xpos="-525.127" ypos="42.2245" zpos="-469.268" type="tw_guides.tw_core.tw_core_craftinglist.tw_core_craftinglist_weaponsmith" GUID="/SguMT/zrEuifWBSdtuRxQ=="/>
+		<POI MapID="15" xpos="-499.514" ypos="35.28" zpos="-447.558" type="tw_guides.tw_core.tw_core_craftinglist.tw_core_craftinglist_artificer" GUID="vOgYrluAhkKkf+aP82oN6A=="/>
+		<POI MapID="15" xpos="-496.36" ypos="35.2733" zpos="-440.1" type="tw_guides.tw_core.tw_core_craftinglist.tw_core_craftinglist_jeweler" GUID="SFzRddwgx02xLG+bWnsUBQ=="/>
+		<POI MapID="15" xpos="-502.299" ypos="35.6169" zpos="-434.672" type="tw_guides.tw_core.tw_core_craftinglist.tw_core_craftinglist_tailor" GUID="n/LxQTB4jU+IBtIHH2EFhw=="/>
+		<POI MapID="15" xpos="-531.765" ypos="35.3392" zpos="-472.625" type="tw_guides.tw_core.tw_core_craftinglist.tw_core_craftinglist_huntsman" GUID="iS4GSpM1pkqnkKh3tBvawQ=="/>
+		<POI MapID="15" xpos="-492.88" ypos="35.2749" zpos="-454.564" type="tw_guides.tw_core.tw_core_craftinglist.tw_core_craftinglist_cook" GUID="9tenCVgQYUqb6SuxvqtTVw=="/>
+		<POI MapID="139" xpos="14.7158" ypos="362.492" zpos="70.4006" type="tw_guides.tw_core.tw_core_craftinglist.tw_core_craftinglist_leatherworker" GUID="zqNwAH6f8kuUum1DNxffyA=="/>
+		<POI MapID="139" xpos="33.3925" ypos="362.111" zpos="66.7943" type="tw_guides.tw_core.tw_core_craftinglist.tw_core_craftinglist_cook" GUID="vbvKsW7M7kiVG+GX4xgteA=="/>
+		<POI MapID="139" xpos="132.948" ypos="362.642" zpos="188.056" type="tw_guides.tw_core.tw_core_craftinglist.tw_core_craftinglist_artificer" GUID="Pm4eFoyT+0+rNJOqWKjLHQ=="/>
+		<POI MapID="139" xpos="142.478" ypos="362.052" zpos="200.738" type="tw_guides.tw_core.tw_core_craftinglist.tw_core_craftinglist_weaponsmith" GUID="6ZEvwCFhAEG2NTSwYT08sQ=="/>
+		<POI MapID="139" xpos="129.669" ypos="362.436" zpos="202.949" type="tw_guides.tw_core.tw_core_craftinglist.tw_core_craftinglist_huntsman" GUID="eYm4ii6jgkuZnvTfQ3tymQ=="/>
+		<POI MapID="139" xpos="-25.2364" ypos="362.99" zpos="228.825" type="tw_guides.tw_core.tw_core_craftinglist.tw_core_craftinglist_tailor" GUID="Taf/Z76z5U2eYq1UCBl73g=="/>
+		<POI MapID="139" xpos="-44.6382" ypos="362.492" zpos="234.747" type="tw_guides.tw_core.tw_core_craftinglist.tw_core_craftinglist_jeweler" GUID="WCpcmTm2EUebZx7WJGeRAA=="/>
+		<POI MapID="35" xpos="284.83" ypos="13.2958" zpos="-100.778" type="tw_guides.tw_core.tw_core_craftinglist.tw_core_craftinglist_leatherworker" GUID="w527pOnw0UC9rgPSLWbLoA=="/>
+		<POI MapID="35" xpos="315.274" ypos="14.0397" zpos="-102.923" type="tw_guides.tw_core.tw_core_craftinglist.tw_core_craftinglist_tailor" GUID="z8X8KoEr6kGgrP6SxD8q9g=="/>
+		<POI MapID="35" xpos="346.475" ypos="14.1101" zpos="-91.6558" type="tw_guides.tw_core.tw_core_craftinglist.tw_core_craftinglist_cook" GUID="haSk1hz1zU+Ji81skXUb6A=="/>
+		<POI MapID="35" xpos="382.551" ypos="18.6948" zpos="-61.4298" type="tw_guides.tw_core.tw_core_craftinglist.tw_core_craftinglist_huntsman" GUID="vkHOzHsxm0iptV7riJCdSw=="/>
+		<POI MapID="35" xpos="288.268" ypos="20.0895" zpos="-43.8568" type="tw_guides.tw_core.tw_core_craftinglist.tw_core_craftinglist_weaponsmith" GUID="J3jndosFAk2IaqercEOB0w=="/>
+		<POI MapID="35" xpos="361.385" ypos="45.857" zpos="-23.19" type="tw_guides.tw_core.tw_core_craftinglist.tw_core_craftinglist_artificer" GUID="7J/ctr4Dw0iP4zEMT5esJw=="/>
+		<POI MapID="35" xpos="330.638" ypos="45.515" zpos="-26.3517" type="tw_guides.tw_core.tw_core_craftinglist.tw_core_craftinglist_jeweler" GUID="Ht99in6UKkm5QkR4Tj+ASw=="/>
+		<POI MapID="91" xpos="115.854" ypos="49.645" zpos="75.3958" type="tw_guides.tw_core.tw_core_craftinglist.tw_core_craftinglist_cook" GUID="wxgpmWFInkKiZW6JERFb4Q=="/>
+		<POI MapID="91" xpos="103.258" ypos="48.5126" zpos="106.426" type="tw_guides.tw_core.tw_core_craftinglist.tw_core_craftinglist_leatherworker" GUID="0vKDYuJmYEW/CtKUF2+XEA=="/>
+		<POI MapID="91" xpos="132.457" ypos="49.7094" zpos="114.916" type="tw_guides.tw_core.tw_core_craftinglist.tw_core_craftinglist_artificer" GUID="flPFDfuRL0KmsY47owhZiA=="/>
+		<POI MapID="91" xpos="124.642" ypos="50.9244" zpos="145.349" type="tw_guides.tw_core.tw_core_craftinglist.tw_core_craftinglist_weaponsmith" GUID="vn5gb1ZckUykCNcQsmp8rQ=="/>
+		<POI MapID="91" xpos="63.1958" ypos="47.8277" zpos="126.645" type="tw_guides.tw_core.tw_core_craftinglist.tw_core_craftinglist_jeweler" GUID="DY3ZrUioz0u8d9rPapGSXg=="/>
+		<POI MapID="91" xpos="80.5079" ypos="47.9472" zpos="115.646" type="tw_guides.tw_core.tw_core_craftinglist.tw_core_craftinglist_tailor" GUID="0lHsgyREKECxbhri01xPyA=="/>
+		<POI MapID="34" xpos="-62.5392" ypos="3.56947" zpos="19.2072" type="tw_guides.tw_core.tw_core_craftinglist.tw_core_craftinglist_cook" GUID="7gw6isnk3EKgUUKhF0V5uA=="/>
+		<POI MapID="34" xpos="-57.3117" ypos="5.95448" zpos="31.085" type="tw_guides.tw_core.tw_core_craftinglist.tw_core_craftinglist_artificer" GUID="ABAiYqLdhUyNmv1qpl4gYg=="/>
+		<POI MapID="34" xpos="-37.1375" ypos="5.02314" zpos="13.9783" type="tw_guides.tw_core.tw_core_craftinglist.tw_core_craftinglist_leatherworker" GUID="/M84+Wvs+E+SFGhK7B1MWw=="/>
+		<POI MapID="34" xpos="-17.532" ypos="6.02592" zpos="12.9599" type="tw_guides.tw_core.tw_core_craftinglist.tw_core_craftinglist_jeweler" GUID="Ip6ES90eWkOhCyCQHSoyag=="/>
+		<POI MapID="34" xpos="-22.2088" ypos="5.55468" zpos="29.9217" type="tw_guides.tw_core.tw_core_craftinglist.tw_core_craftinglist_tailor" GUID="SNhUTBu5QUCR6bpm0WJU7g=="/>
+		<POI MapID="34" xpos="-34.7751" ypos="6.82776" zpos="55.9502" type="tw_guides.tw_core.tw_core_craftinglist.tw_core_craftinglist_weaponsmith" GUID="KcU7/cQrkkKFXkksvpPueQ=="/>
+		<POI MapID="34" xpos="-44.7593" ypos="5.77937" zpos="48.0333" type="tw_guides.tw_core.tw_core_craftinglist.tw_core_craftinglist_huntsman" GUID="CXq/VCYDCES1CLn8uO6ONw=="/>
+		<POI MapID="326" xpos="227.973" ypos="302.128" zpos="-73.6564" type="tw_guides.tw_core.tw_core_craftinglist.tw_core_craftinglist_leatherworker" GUID="CVmBODGDgEuU1Ezzh7nrNA=="/>
+		<POI MapID="326" xpos="264.376" ypos="301.969" zpos="-120.302" type="tw_guides.tw_core.tw_core_craftinglist.tw_core_craftinglist_cook" GUID="He39YqHWA0KK85Hwh6b13Q=="/>
+		<POI MapID="326" xpos="227.201" ypos="301.992" zpos="-163.523" type="tw_guides.tw_core.tw_core_craftinglist.tw_core_craftinglist_jeweler" GUID="4SCidykazku2fn8aIzmlBw=="/>
+		<POI MapID="326" xpos="198.784" ypos="302.04" zpos="-163.824" type="tw_guides.tw_core.tw_core_craftinglist.tw_core_craftinglist_artificer" GUID="tGALIWtPhESWuNhcrxzdDQ=="/>
+		<POI MapID="326" xpos="259.022" ypos="303.975" zpos="-176.422" type="tw_guides.tw_core.tw_core_craftinglist.tw_core_craftinglist_weaponsmith" GUID="tnaCpzLl+UOgMUrDSEkE1Q=="/>
+		<POI MapID="326" xpos="206.55" ypos="301.969" zpos="-188.191" type="tw_guides.tw_core.tw_core_craftinglist.tw_core_craftinglist_huntsman" GUID="e+Vn9sdrc0+QvWiH2GeoGw=="/>
+		<POI MapID="28" xpos="72.3339" ypos="79.8411" zpos="85.3103" type="tw_guides.tw_core.tw_core_craftinglist.tw_core_craftinglist_cook" GUID="H4c+m1WrNkOpGCqtz9y5Xg=="/>
+		<POI MapID="28" xpos="63.9736" ypos="79.8398" zpos="94.1118" type="tw_guides.tw_core.tw_core_craftinglist.tw_core_craftinglist_jeweler" GUID="jwz3G50k0UiqzmBd6pFHGw=="/>
+		<POI MapID="28" xpos="73.0807" ypos="79.8398" zpos="97.8195" type="tw_guides.tw_core.tw_core_craftinglist.tw_core_craftinglist_weaponsmith" GUID="JzL3d/wHiUmAPcnCs/Oeww=="/>
+		<POI MapID="28" xpos="62.7804" ypos="84.8309" zpos="120.039" type="tw_guides.tw_core.tw_core_craftinglist.tw_core_craftinglist_tailor" GUID="ice2PJqovUWETUgQ5a8lNg=="/>
+		<POI MapID="28" xpos="72.9372" ypos="84.4154" zpos="116.749" type="tw_guides.tw_core.tw_core_craftinglist.tw_core_craftinglist_artificer" GUID="I6Re+7wAQ0C+V1lPvw7Dxg=="/>
+		<POI MapID="28" xpos="78.1008" ypos="84.534" zpos="126.25" type="tw_guides.tw_core.tw_core_craftinglist.tw_core_craftinglist_huntsman" GUID="zF0yS+CLU0yzKT27nrSHoA=="/>
+		<POI MapID="28" xpos="68.9741" ypos="84.432" zpos="132.223" type="tw_guides.tw_core.tw_core_craftinglist.tw_core_craftinglist_leatherworker" GUID="82/RyiBffUORpY/GpmsYcA=="/>
+		<POI MapID="218" xpos="179.233" ypos="140.843" zpos="482.083" type="tw_guides.tw_core.tw_core_craftinglist.tw_core_craftinglist_leatherworker" GUID="DNckTLAZiUemFHIrmAp4rg=="/>
+		<POI MapID="218" xpos="84.1137" ypos="140.892" zpos="514.995" type="tw_guides.tw_core.tw_core_craftinglist.tw_core_craftinglist_cook" GUID="82NkVCp09USPreE3gu2DVw=="/>
+		<POI MapID="218" xpos="54.3362" ypos="140.228" zpos="450.849" type="tw_guides.tw_core.tw_core_craftinglist.tw_core_craftinglist_tailor" GUID="30uk96Xj60+f5sI+I50SYg=="/>
+		<POI MapID="218" xpos="42.1328" ypos="140.255" zpos="420.879" type="tw_guides.tw_core.tw_core_craftinglist.tw_core_craftinglist_jeweler" GUID="4eAZ71LYx0eaHFAZ7uoZPw=="/>
+		<POI MapID="218" xpos="88.4518" ypos="139.973" zpos="368.976" type="tw_guides.tw_core.tw_core_craftinglist.tw_core_craftinglist_weaponsmith" GUID="+/aOARfHc0SSDilggr+EEQ=="/>
+		<POI MapID="218" xpos="136.419" ypos="140.414" zpos="388.762" type="tw_guides.tw_core.tw_core_craftinglist.tw_core_craftinglist_artificer" GUID="diSlqJizdUGew12/4OHQkQ=="/>
+		<POI MapID="218" xpos="145.231" ypos="140.182" zpos="402.968" type="tw_guides.tw_core.tw_core_craftinglist.tw_core_craftinglist_huntsman" GUID="BkHZjck2N0yKjw+yxXo3Vw=="/>
+		<POI MapID="19" xpos="-112.585" ypos="50.8233" zpos="-178.334" type="tw_guides.tw_core.tw_core_craftinglist.tw_core_craftinglist_cook" GUID="6HoT0/Zo3EOPPHtTW6Lxqg=="/>
+		<POI MapID="19" xpos="-119.424" ypos="50.4348" zpos="-169.958" type="tw_guides.tw_core.tw_core_craftinglist.tw_core_craftinglist_artificer" GUID="p2UTEQiv8UmAnirRAXIvFA=="/>
+		<POI MapID="19" xpos="-119.647" ypos="50.461" zpos="-159.705" type="tw_guides.tw_core.tw_core_craftinglist.tw_core_craftinglist_tailor" GUID="NylLGBAZdk6YiEKD5nlSQw=="/>
+		<POI MapID="19" xpos="-118.834" ypos="50.4801" zpos="-152.71" type="tw_guides.tw_core.tw_core_craftinglist.tw_core_craftinglist_leatherworker" GUID="+9fot8rN6k+nVRpoLI5l9g=="/>
+		<POI MapID="19" xpos="-111.876" ypos="50.503" zpos="-148.436" type="tw_guides.tw_core.tw_core_craftinglist.tw_core_craftinglist_jeweler" GUID="UaSL2Bqcbkm6bASTG4p6bg=="/>
+		<POI MapID="19" xpos="-127.729" ypos="50.4233" zpos="-137.927" type="tw_guides.tw_core.tw_core_craftinglist.tw_core_craftinglist_weaponsmith" GUID="UC1jE//o+0m1CjYi8Pvh0w=="/>
+		<POI MapID="21" xpos="-550.668" ypos="60.003" zpos="-438.157" type="tw_guides.tw_core.tw_core_craftinglist.tw_core_craftinglist_artificer" GUID="S9AkgOAVUUqFxYqoO4usMA=="/>
+		<POI MapID="21" xpos="-559.358" ypos="59.992" zpos="-434.321" type="tw_guides.tw_core.tw_core_craftinglist.tw_core_craftinglist_huntsman" GUID="NbUyrFcZy0y5Bc9WGq+Bnw=="/>
+		<POI MapID="21" xpos="-577.822" ypos="60.8865" zpos="-434.895" type="tw_guides.tw_core.tw_core_craftinglist.tw_core_craftinglist_cook" GUID="DAw/P3gg9kqQx0lsRjMSbQ=="/>
+		<POI MapID="21" xpos="-598.835" ypos="60.74" zpos="-434.778" type="tw_guides.tw_core.tw_core_craftinglist.tw_core_craftinglist_tailor" GUID="gAz9vLYOBUaE1m0J56MSUA=="/>
+		<POI MapID="21" xpos="-619.034" ypos="60.6243" zpos="-430.358" type="tw_guides.tw_core.tw_core_craftinglist.tw_core_craftinglist_jeweler" GUID="8mO9Rx8UCkSFkvetx+y7FA=="/>
+		<POI MapID="21" xpos="-628.165" ypos="60.5597" zpos="-435.771" type="tw_guides.tw_core.tw_core_craftinglist.tw_core_craftinglist_weaponsmith" GUID="wBPTwSWM206LtovIIcojJg=="/>
+		<POI MapID="21" xpos="-643.325" ypos="59.9991" zpos="-435.089" type="tw_guides.tw_core.tw_core_craftinglist.tw_core_craftinglist_leatherworker" GUID="glIqjRJl1U6GMF9sFwYSNg=="/>
+	</POIs>
+</OverlayData>

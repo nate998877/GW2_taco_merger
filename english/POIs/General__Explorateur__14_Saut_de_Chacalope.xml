@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+POIs: ReActif.9251
+Date: 2017/03/14
+-->
+<OverlayData>
+	<MarkerCategory name="general" DisplayName="General">
+		<MarkerCategory name="explorateur" DisplayName="Explorer" iconFile="Img\Explorateur.png" behavior="3">
+			<MarkerCategory name="saut_de_chacalope" DisplayName="Jackaloping Along" iconFile="Img\CoffreSkritt.png" heightOffset="3" behavior="0"/>
+		</MarkerCategory>
+	</MarkerCategory>
+
+	<POIs>
+
+		<!-- Passage de Lornar -->
+		<POI MapID="27" xpos="176.19" ypos="144.49" zpos="998.207" type="general.explorateur.saut_de_chacalope" GUID="QoFyoOPqYEaLeB8HtEcIAQ=="/>
+
+		<!-- Contreforts du voyageur -->
+		<POI MapID="28" xpos="-422.915" ypos="126.573" zpos="-203.952" type="general.explorateur.saut_de_chacalope" GUID="Y9ANYSVtUkONPtbe93hvGQ=="/>
+		<POI MapID="28" xpos="-413.104" ypos="107.04" zpos="283.977" type="general.explorateur.saut_de_chacalope" GUID="RQ/FUU9MbEa8W3/JCKgR6A=="/>
+		<POI MapID="28" xpos="-35.9618" ypos="186.296" zpos="1070.63" type="general.explorateur.saut_de_chacalope" GUID="GRquDqf6OU+Ae9QdlBlrbw=="/>
+		<POI MapID="28" xpos="445.317" ypos="75.8715" zpos="554.031" type="general.explorateur.saut_de_chacalope" GUID="8Qw0OpuIA0CvrY9ikiSL+g=="/>
+		<POI MapID="28" xpos="464.434" ypos="117.964" zpos="-141.706" type="general.explorateur.saut_de_chacalope" GUID="4xSuHkvaFE2tUAFbKqaavg=="/>
+
+		<!-- Détroit des Gorges Glacées -->
+		<POI MapID="30" xpos="-835.878" ypos="24.7771" zpos="-414.192" type="general.explorateur.saut_de_chacalope" GUID="KxyexyuZ6kCCpFBdOg968A=="/>
+		<POI MapID="30" xpos="-478.98" ypos="38.1958" zpos="-835.245" type="general.explorateur.saut_de_chacalope" GUID="AEDeSnuOWUeHl3kBcqEJvg=="/>
+		<POI MapID="30" xpos="115.088" ypos="60.4432" zpos="-145.369" type="general.explorateur.saut_de_chacalope" GUID="5DBHzpkP5EqhTzPQgCrEDg=="/>
+		<POI MapID="30" xpos="635.275" ypos="6.7565" zpos="169.602" type="general.explorateur.saut_de_chacalope" GUID="ReomyLxmXEmBTMYJ2Ize1g=="/>
+		<POI MapID="30" xpos="810.643" ypos="4.45396" zpos="-573.796" type="general.explorateur.saut_de_chacalope" GUID="/AAJTBR7I0+g9OaRSJ2VeQ=="/>
+
+		<!-- Congères d'Antreneige -->
+		<POI MapID="31" xpos="-800.943" ypos="55.2875" zpos="195.763" type="general.explorateur.saut_de_chacalope" GUID="47YZc0XC4UWb1W1zw7/vpw=="/>
+		<POI MapID="31" xpos="2.72764" ypos="61.9906" zpos="-2.24048" type="general.explorateur.saut_de_chacalope" GUID="f36be1X/skeEC0WgrYIQfQ=="/>
+		<POI MapID="31" xpos="477.512" ypos="47.3374" zpos="-428.304" type="general.explorateur.saut_de_chacalope" GUID="dZ/lDOzD7UmS/RGvW8wC1Q=="/>
+		<POI MapID="31" xpos="836.471" ypos="39.0903" zpos="508.531" type="general.explorateur.saut_de_chacalope" GUID="1TwSbccn4k6nIYwEJuZDUw=="/>
+		<POI MapID="31" xpos="1054.62" ypos="63.4705" zpos="-46.8762" type="general.explorateur.saut_de_chacalope" GUID="mm4Dj0k2NUqYzZn9DDx2/A=="/>
+
+	</POIs>
+</OverlayData>

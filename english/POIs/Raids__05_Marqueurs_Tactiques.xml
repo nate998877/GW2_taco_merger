@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+POIs: BoyC.2653 - ReActif.9251
+Date: 2017/08/15
+-->
+<OverlayData>
+	<MarkerCategory name="raids" DisplayName="Raids" iconFile="Img\RaidSucces.png" behavior="3">
+		<MarkerCategory name="marqueurs_tactiques" DisplayName="Tactical Markers" behavior="0"/>
+	</MarkerCategory>
+
+	<POIs>
+
+
+		<!--
+		Vallee des Esprits
+		-->
+
+		<POI MapID="1062" xpos="-126.917" ypos="62.9524" zpos="111.433"  type="raids.marqueurs_tactiques" GUID="T08Wbp3oZ0KZ9KzU1Gnfqw==" iconFile="Img\N.png"/>
+		<POI MapID="1062" xpos="-132.693" ypos="62.9657" zpos="56.4836"  type="raids.marqueurs_tactiques" GUID="xxtnBLbCIEuoxx5nBpDqSA==" iconFile="Img\S.png"/>
+		<POI MapID="1062" xpos="-101.375" ypos="63.0427" zpos="81.268"   type="raids.marqueurs_tactiques" GUID="7AZv3By300CwPslLkQaEnw==" iconFile="Img\E.png"/>
+		<POI MapID="1062" xpos="-157.841" ypos="62.273"  zpos="86.823"   type="raids.marqueurs_tactiques" GUID="+oNUkf6Qx0KK4u9MhYitew==" iconFile="Img\O-EN.png"/>
+
+		<POI MapID="1062" xpos="-91.0706" ypos="60.9373" zpos="-506.081" type="raids.marqueurs_tactiques" GUID="trI4Ikkxf0uEl0Of2dGZUg==" iconFile="Img\AvantageVitesse.png" heightOffset="3" fadeNear="3400" fadeFar="6800" behavior="4" hasCountdown="1" resetLength="20" triggerRange="1.7"/>
+		<POI MapID="1062" xpos="-151.658" ypos="60.9373" zpos="-507.339" type="raids.marqueurs_tactiques" GUID="VVruJ+afv0CW7XgO9/unJg==" iconFile="Img\AvantageVitesse.png" heightOffset="3" fadeNear="3400" fadeFar="6800" behavior="4" hasCountdown="1" resetLength="20" triggerRange="1.7"/>
+		<POI MapID="1062" xpos="-121.094" ypos="60.9373" zpos="-559.273" type="raids.marqueurs_tactiques" GUID="OCw6WOaUKEqltHMKIqH3aA==" iconFile="Img\AvantageVitesse.png" heightOffset="3" fadeNear="3400" fadeFar="6800" behavior="4" hasCountdown="1" resetLength="20" triggerRange="1.7"/>
+
+		<POI MapID="1062" xpos="43.4115"  ypos="50.4622" zpos="-71.1892" type="raids.marqueurs_tactiques" GUID="YDJ1UP0QvEmp9fzx3WN7LA==" iconFile="Img\N.png"/>
+		<POI MapID="1062" xpos="41.5824"  ypos="50.6292" zpos="-156.164" type="raids.marqueurs_tactiques" GUID="f22RmZnGeE+f9J1Y9hFx0Q==" iconFile="Img\S.png"/>
+		<POI MapID="1062" xpos="83.5754"  ypos="50.6472" zpos="-112.85"  type="raids.marqueurs_tactiques" GUID="+aLCl1nLXEmJ5++BQi/3hg==" iconFile="Img\E.png"/>
+		<POI MapID="1062" xpos="-1.54911" ypos="50.647"  zpos="-110.238" type="raids.marqueurs_tactiques" GUID="QH6GvY7TSUKtao5Vr8yEGA==" iconFile="Img\O-EN.png"/>
+
+		<POI MapID="1062" xpos="-9.39439" ypos="52"      zpos="-69.4607" type="raids.marqueurs_tactiques" GUID="ym6ddWd/wkuQ3gXuVKifTw==" iconFile="Img\1.png"/>
+		<POI MapID="1062" xpos="82.4"     ypos="52"      zpos="-65.25"   type="raids.marqueurs_tactiques" GUID="wukqGmmDoUW2NE3GRpgJQw==" iconFile="Img\2.png"/>
+		<POI MapID="1062" xpos="86.4"     ypos="52"      zpos="-164.2"   type="raids.marqueurs_tactiques" GUID="qQEQlQ2N8UWC1W2x1tKtvA==" iconFile="Img\3.png"/>
+		<POI MapID="1062" xpos="-7.34"    ypos="52"      zpos="-163.7"   type="raids.marqueurs_tactiques" GUID="dHcWkg5DQEClRd48tKNjqA==" iconFile="Img\4.png"/>
+
+		<!--
+		Passage de la Redemption
+		-->
+
+		<POI MapID="1149" xpos="208.926" ypos="4.93307"   zpos="25.22"    type="raids.marqueurs_tactiques" GUID="orHk62LZ8EyzraKa0gGXKg==" iconFile="Img\1.png"/>
+		<POI MapID="1149" xpos="174.536" ypos="2.41479"   zpos="-10.0162" type="raids.marqueurs_tactiques" GUID="FYA1LPmOl0SeX4qUTWMoyw==" iconFile="Img\2.png"/>
+		<POI MapID="1149" xpos="192.923" ypos="0.846338"  zpos="-35.958"  type="raids.marqueurs_tactiques" GUID="y/MQHT7wCkagUkPZlpFa6A==" iconFile="Img\3.png"/>
+		<POI MapID="1149" xpos="224.968" ypos="-0.177503" zpos="-13.498"  type="raids.marqueurs_tactiques" GUID="K4lINKdqcEeKpuQMv9sU1g==" iconFile="Img\4.png"/>
+
+		<POI MapID="1149" xpos="-1.95322"  ypos="1.53214" zpos="-235.489" type="raids.marqueurs_tactiques" GUID="eoxxKScsskiX+qOPk1EYdQ==" iconFile="Img\1.png"/>
+		<POI MapID="1149" xpos="-0.567632" ypos="1.01967" zpos="-290.812" type="raids.marqueurs_tactiques" GUID="uF937Qyrt0qXElHSMUW5nw==" iconFile="Img\2.png"/>
+		<POI MapID="1149" xpos="-32.9359"  ypos="5.87644" zpos="-221.024" type="raids.marqueurs_tactiques" GUID="yrpc6HFBLUa1dwelKFK/vQ==" iconFile="Img\3.png"/>
+
+		<POI MapID="1149" xpos="-173.504"  ypos="131.625" zpos="126.676"  type="raids.marqueurs_tactiques" GUID="pCa90+bN6k2VQkym8Ova6w==" iconFile="Img\1.png"/>
+		<POI MapID="1149" xpos="-174.113"  ypos="131.625" zpos="172.825"  type="raids.marqueurs_tactiques" GUID="C4QcRORmNU+5rMn682ag9g==" iconFile="Img\2.png"/>
+		<POI MapID="1149" xpos="-128.033"  ypos="131.625" zpos="173.313"  type="raids.marqueurs_tactiques" GUID="bAdGkZB4kkisSFhyPTn1bw==" iconFile="Img\3.png"/>
+		<POI MapID="1149" xpos="-127.271"  ypos="131.625" zpos="127.033"  type="raids.marqueurs_tactiques" GUID="s6fhrG1hNkmW5cJJHZsbJg==" iconFile="Img\4.png"/>
+
+		<!--
+		Forteresse des Fideles
+		-->
+
+		<POI MapID="1156" xpos="-113.822" ypos="150.156" zpos="229.125"  type="raids.marqueurs_tactiques" GUID="fg81J0pga0SNm4K8SUYn7Q==" iconFile="Img\Fleche.png" iconSize="0.5"/>
+		<POI MapID="1156" xpos="-97.048"  ypos="150.156" zpos="255.802"  type="raids.marqueurs_tactiques" GUID="fhaeyOkgC0SweDMNHtlWzg==" iconFile="Img\Fleche.png" iconSize="0.5"/>
+		<POI MapID="1156" xpos="-80.6538" ypos="150.156" zpos="229.251"  type="raids.marqueurs_tactiques" GUID="1kMFZOLPCkS6JiJdIcz4YQ==" iconFile="Img\Fleche.png" iconSize="0.5"/>
+
+		<POI MapID="1156" xpos="-97.2206" ypos="150.151" zpos="267.389"  type="raids.marqueurs_tactiques" GUID="Xy6vnGG/Y0SJUR8xjHzBqg==" iconFile="Img\N.png"/>
+		<POI MapID="1156" xpos="-98.1758" ypos="150.156" zpos="206.857"  type="raids.marqueurs_tactiques" GUID="gE3cbGSXgkyJdBCMiahg4g==" iconFile="Img\S.png"/>
+		<POI MapID="1156" xpos="-67.4252" ypos="150.156" zpos="237.165"  type="raids.marqueurs_tactiques" GUID="WvCDu2pYJ0u+VOJFkn/KrQ==" iconFile="Img\E.png"/>
+		<POI MapID="1156" xpos="-128.442" ypos="150.156" zpos="237.494"  type="raids.marqueurs_tactiques" GUID="0lpJKMKli0iNce9LQmbQWw==" iconFile="Img\O-EN.png"/>
+
+		<POI MapID="1156" xpos="180.869"  ypos="83.6924" zpos="400.899"  type="raids.marqueurs_tactiques" GUID="KPcQ+YbMTUu1ewmA/gYEdQ==" iconFile="Img\Combat.png" iconSize="0.5" color="ffc8c8c8"/>
+
+		<POI MapID="1156" xpos="-15.5693" ypos="512.745" zpos="-68.1809" type="raids.marqueurs_tactiques" GUID="+oRwI87i1EqVAygmskdvsg==" iconFile="Img\1.png"/>
+		<POI MapID="1156" xpos="-6.34932" ypos="512.745" zpos="-84.328"  type="raids.marqueurs_tactiques" GUID="S+P76LkLbUqiwqGDMaabeQ==" iconFile="Img\2.png"/>
+		<POI MapID="1156" xpos="-24.8237" ypos="512.745" zpos="-84.9329" type="raids.marqueurs_tactiques" GUID="arz6pluR2EuteRq47oAhPQ==" iconFile="Img\3.png"/>
+
+		<POI MapID="1156" xpos="-101.768" ypos="512.749" zpos="-40.0652" type="raids.marqueurs_tactiques" GUID="JJXz4J5GdUaRTSrObd8Zdg==" iconFile="Img\1.png"/>
+		<POI MapID="1156" xpos="-119.844" ypos="512.749" zpos="-39.9059" type="raids.marqueurs_tactiques" GUID="i3FeOOJmNkCevrHvsXP+PQ==" iconFile="Img\2.png"/>
+		<POI MapID="1156" xpos="-109.686" ypos="512.749" zpos="-23.8733" type="raids.marqueurs_tactiques" GUID="g7mF3S9o4E+7QNVBXH8RgQ==" iconFile="Img\3.png"/>
+
+	</POIs>
+</OverlayData>

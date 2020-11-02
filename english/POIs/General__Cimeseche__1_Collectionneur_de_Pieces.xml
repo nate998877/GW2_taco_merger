@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+POIs: TMKFrench.6427
+Date: 2016/12/05
+-->
+<OverlayData>
+	<MarkerCategory name="general" DisplayName="General">
+		<MarkerCategory name="cimeseche" DisplayName="Dry Top">
+			<MarkerCategory name="collectionneur_de_pieces" DisplayName="Coin Collector" heightOffset="0" behavior="3">
+				<MarkerCategory name="falaises_du_combattant" DisplayName="Challenger Cliffs" iconFile="Img\CimesecheFdC-EN.png"/>
+				<MarkerCategory name="vallee_du_prospecteur" DisplayName="Prospect Valley" iconFile="Img\CimesecheVP-EN.png"/>
+				<MarkerCategory name="hauteurs" DisplayName="Uplands" iconFile="Img\CimesecheH-EN.png"/>
+			</MarkerCategory>
+		</MarkerCategory>
+	</MarkerCategory>
+
+	<POIs>
+
+		<!-- Falaises du Combattant -->
+		<POI MapID="988" xpos="-294.443" ypos="101.331" zpos="-388.908" type="general.cimeseche.collectionneur_de_pieces.falaises_du_combattant" GUID="Auk17Evp306k5DjJWzEY0A=="/>
+		<POI MapID="988" xpos="-539.525" ypos="118.462" zpos="-148.004" type="general.cimeseche.collectionneur_de_pieces.falaises_du_combattant" GUID="jGw5IrbZpk2VFGkmq/3Afg=="/>
+		<POI MapID="988" xpos="-385.941" ypos="108.094" zpos="-180.134" type="general.cimeseche.collectionneur_de_pieces.falaises_du_combattant" GUID="t5tf5OkI30alsrh7uHs7zw=="/>
+		<POI MapID="988" xpos="-463.462" ypos="65.5971" zpos="-403.662" type="general.cimeseche.collectionneur_de_pieces.falaises_du_combattant" GUID="Dgqyjm7q40Clco4berog3w=="/>
+		<POI MapID="988" xpos="-483.138" ypos="28.2856" zpos="-371.774" type="general.cimeseche.collectionneur_de_pieces.falaises_du_combattant" GUID="eihaoCIMq0eWZotrzB9f5A=="/>
+		<POI MapID="988" xpos="-580.005" ypos="15.5302" zpos="-439.488" type="general.cimeseche.collectionneur_de_pieces.falaises_du_combattant" GUID="Rcm1T5tSW0awCSoSoqcVIQ=="/>
+		<POI MapID="988" xpos="-506.97" ypos="73.4289" zpos="-551.264" type="general.cimeseche.collectionneur_de_pieces.falaises_du_combattant" GUID="jOkNGSImxUWBt32Honcxdg=="/>
+		<POI MapID="988" xpos="-579.5" ypos="46.964" zpos="-567.937" type="general.cimeseche.collectionneur_de_pieces.falaises_du_combattant" GUID="LqfOY92wUEWlmxkuhfuOwA=="/>
+		<POI MapID="988" xpos="-373.452" ypos="45.0992" zpos="-373.269" type="general.cimeseche.collectionneur_de_pieces.falaises_du_combattant" GUID="5GvGo6tpEkW/ldjVEroP9w=="/>
+		<POI MapID="988" xpos="-536.538" ypos="157.881" zpos="-587.448" type="general.cimeseche.collectionneur_de_pieces.falaises_du_combattant" GUID="wFh4MYrKfkmmBxblf1T+0Q=="/>
+		<POI MapID="988" xpos="-306.257" ypos="138.547" zpos="-576.387" type="general.cimeseche.collectionneur_de_pieces.falaises_du_combattant" GUID="0Qyqk54fwkKoYeggcAH3WA=="/>
+		<POI MapID="988" xpos="-296.698" ypos="134.212" zpos="-535.87" type="general.cimeseche.collectionneur_de_pieces.falaises_du_combattant" GUID="dP+KRhTsQEmsfXJZEI1yvw=="/>
+
+
+		<!-- Hauteurs -->
+		<POI MapID="988" xpos="235.202" ypos="0.635235" zpos="-156.679" type="general.cimeseche.collectionneur_de_pieces.hauteurs" GUID="BVIWMYdD2kuTseIey+Jn3g=="/>
+		<POI MapID="988" xpos="97.6982" ypos="33.5839" zpos="-289.943" type="general.cimeseche.collectionneur_de_pieces.hauteurs" GUID="djkkWX3XJEGuf3MeaW/1sQ=="/>
+		<POI MapID="988" xpos="32.2466" ypos="73.364" zpos="-314.036" type="general.cimeseche.collectionneur_de_pieces.hauteurs" GUID="NhzzC3Qbrk+St0JjxghAIg=="/>
+		<POI MapID="988" xpos="148.074" ypos="67.919" zpos="-188.158" type="general.cimeseche.collectionneur_de_pieces.hauteurs" GUID="xAv1vv5ntkixAk9ioxOJmA=="/>
+		<POI MapID="988" xpos="-52.0119" ypos="48.8551" zpos="-285.528" type="general.cimeseche.collectionneur_de_pieces.hauteurs" GUID="TavIonE81UW7hWnyOmw+Zw=="/>
+		<POI MapID="988" xpos="-59.6373" ypos="63.6631" zpos="-176.555" type="general.cimeseche.collectionneur_de_pieces.hauteurs" GUID="pbS34xHR9EW5lxprLUkc0Q=="/>
+		<POI MapID="988" xpos="186.989" ypos="31.9432" zpos="-125.86" type="general.cimeseche.collectionneur_de_pieces.hauteurs" GUID="ZUSGMYB2ukSPocTmDFj2CA=="/>
+		<POI MapID="988" xpos="81.9041" ypos="51.5728" zpos="38.3361" type="general.cimeseche.collectionneur_de_pieces.hauteurs" GUID="7WiaNA0vqkGiBF1qnS8/YA=="/>
+		<POI MapID="988" xpos="20.7221" ypos="60.3525" zpos="77.2495" type="general.cimeseche.collectionneur_de_pieces.hauteurs" GUID="3NrMBCQ8GE6S/+axVpAZng=="/>
+		<POI MapID="988" xpos="-61.1593" ypos="55.7003" zpos="61.7588" type="general.cimeseche.collectionneur_de_pieces.hauteurs" GUID="brXb612na0WaPVGrFOWvgg=="/>
+		<POI MapID="988" xpos="-89.6273" ypos="38.682" zpos="67.9073" type="general.cimeseche.collectionneur_de_pieces.hauteurs" GUID="5EbYwSutD0OVB6mxyn5TbA=="/>
+		<POI MapID="988" xpos="-185.54" ypos="53.7189" zpos="49.1058" type="general.cimeseche.collectionneur_de_pieces.hauteurs" GUID="5QuOevHsFEmpkyNLiTsSMA=="/>
+		<POI MapID="988" xpos="-295.601" ypos="26.3636" zpos="56.1019" type="general.cimeseche.collectionneur_de_pieces.hauteurs" GUID="YyXfgkcSqE2VmDFgTId+IA=="/>
+		<POI MapID="988" xpos="-153.529" ypos="57.1112" zpos="-53.3102" type="general.cimeseche.collectionneur_de_pieces.hauteurs" GUID="eHzGfDQds0qlCfxKYq9KxQ=="/>
+		<POI MapID="988" xpos="-526.231" ypos="-1.05664" zpos="14.6191" type="general.cimeseche.collectionneur_de_pieces.hauteurs" GUID="X6zXo829OkSnH7yNd5dOXg=="/>
+		<POI MapID="988" xpos="-554.057" ypos="15.4177" zpos="1.49888" type="general.cimeseche.collectionneur_de_pieces.hauteurs" GUID="79pynTD5h0qpTIYsIYocew=="/>
+		<POI MapID="988" xpos="-566.544" ypos="57.8093" zpos="-156.921" type="general.cimeseche.collectionneur_de_pieces.hauteurs" GUID="+EmdAzJS4EeDiP9Y0m4myA=="/>
+		<POI MapID="988" xpos="-464.641" ypos="20.1098" zpos="-229.923" type="general.cimeseche.collectionneur_de_pieces.hauteurs" GUID="5xNAWxkD80q8OO2F416frw=="/>
+		<POI MapID="988" xpos="-411.377" ypos="69.7884" zpos="-229.033" type="general.cimeseche.collectionneur_de_pieces.hauteurs" GUID="98jnspxFcEGLnQfEezZu8Q=="/>
+		<POI MapID="988" xpos="-384.963" ypos="53.3857" zpos="-129.908" type="general.cimeseche.collectionneur_de_pieces.hauteurs" GUID="uE1d/2jwwUSkadeIa4o0ZQ=="/>
+		<POI MapID="988" xpos="-276.769" ypos="87.9847" zpos="-174.193" type="general.cimeseche.collectionneur_de_pieces.hauteurs" GUID="8MEhzex4PEuCVsz0RJK/gQ=="/>
+		<POI MapID="988" xpos="-145.94" ypos="103.947" zpos="-154.882" type="general.cimeseche.collectionneur_de_pieces.hauteurs" GUID="/5YEzPusbUGlkNFCg4tS2A=="/>
+		<POI MapID="988" xpos="-138.808" ypos="90.4145" zpos="-272.751" type="general.cimeseche.collectionneur_de_pieces.hauteurs" GUID="VbKVEYpC5kSyZ0hjZdB6+w=="/>
+		<POI MapID="988" xpos="-265.128" ypos="83.0475" zpos="-293.008" type="general.cimeseche.collectionneur_de_pieces.hauteurs" GUID="M08fAIxM1UeKNuekkKl7Hw=="/>
+		<POI MapID="988" xpos="-222.812" ypos="105.545" zpos="-330.029" type="general.cimeseche.collectionneur_de_pieces.hauteurs" GUID="27ekDAurdkKkf/I7TgkoSA=="/>
+		<POI MapID="988" xpos="-203.442" ypos="99.1055" zpos="-524.464" type="general.cimeseche.collectionneur_de_pieces.hauteurs" GUID="d+pUHGKEn02BSgnmf4gUrg=="/>
+		<POI MapID="988" xpos="-240.122" ypos="90.1669" zpos="-557.287" type="general.cimeseche.collectionneur_de_pieces.hauteurs" GUID="6MQKKUrOwEeQNX9yB2UFfQ=="/>
+		<POI MapID="988" xpos="-219.358" ypos="45.2661" zpos="-536.253" type="general.cimeseche.collectionneur_de_pieces.hauteurs" GUID="yzY6UP4azEa0/OnBT0dWXA=="/>
+		<POI MapID="988" xpos="-190.304" ypos="102.301" zpos="-308.668" type="general.cimeseche.collectionneur_de_pieces.hauteurs" GUID="c/HJuBOB+UKdpMIRNkugrQ=="/>
+		<POI MapID="988" xpos="-3.64912" ypos="81.9855" zpos="-72.4327" type="general.cimeseche.collectionneur_de_pieces.hauteurs" GUID="bPpOY76Mg0eLRm3qSORjTg=="/>
+
+
+		<!-- Vallée du Prospecteur -->
+		<POI MapID="988" xpos="399.787" ypos="5.22297" zpos="-529.122" type="general.cimeseche.collectionneur_de_pieces.vallee_du_prospecteur" GUID="G7lWHCnd8EGRsgisdmw9DQ=="/>
+		<POI MapID="988" xpos="353.508" ypos="20.633" zpos="-553.267" type="general.cimeseche.collectionneur_de_pieces.vallee_du_prospecteur" GUID="FzXdwAKiFkOwpuU49QS7qg=="/>
+		<POI MapID="988" xpos="262.299" ypos="17.7611" zpos="-418.867" type="general.cimeseche.collectionneur_de_pieces.vallee_du_prospecteur" GUID="nGnzAMAzvU+ixY2SzL5CrQ=="/>
+		<POI MapID="988" xpos="215.988" ypos="46.2592" zpos="-480.85" type="general.cimeseche.collectionneur_de_pieces.vallee_du_prospecteur" GUID="Z3EEZDAOt06jW75JHMHBqQ=="/>
+		<POI MapID="988" xpos="238.952" ypos="45.3372" zpos="-407.697" type="general.cimeseche.collectionneur_de_pieces.vallee_du_prospecteur" GUID="lrS30STgF02uMmZBPaydlg=="/>
+		<POI MapID="988" xpos="323.048" ypos="17.0889" zpos="-483.831" type="general.cimeseche.collectionneur_de_pieces.vallee_du_prospecteur" GUID="Ym0V8FV0006nXlSBBllYOw=="/>
+		<POI MapID="988" xpos="316.893" ypos="21.8135" zpos="-418.734" type="general.cimeseche.collectionneur_de_pieces.vallee_du_prospecteur" GUID="bwk3B8o6FkG0vicDYtLZXw=="/>
+		<POI MapID="988" xpos="404.953" ypos="18.8631" zpos="-353.393" type="general.cimeseche.collectionneur_de_pieces.vallee_du_prospecteur" GUID="zpPAKP4T9E6Ws7k2ntphYQ=="/>
+		<POI MapID="988" xpos="399.071" ypos="25.6065" zpos="-239.234" type="general.cimeseche.collectionneur_de_pieces.vallee_du_prospecteur" GUID="+HkXOcMwM0+MGKPTisdyfw=="/>
+		<POI MapID="988" xpos="333.144" ypos="32.2306" zpos="-190.93" type="general.cimeseche.collectionneur_de_pieces.vallee_du_prospecteur" GUID="thIZgAol4ky4chWIxfOy1A=="/>
+		<POI MapID="988" xpos="254.494" ypos="42.4384" zpos="-176.003" type="general.cimeseche.collectionneur_de_pieces.vallee_du_prospecteur" GUID="h6348s450kuUyOdH0/oP1Q=="/>
+		<POI MapID="988" xpos="290.325" ypos="8.12873" zpos="-211.649" type="general.cimeseche.collectionneur_de_pieces.vallee_du_prospecteur" GUID="MeDjoO485kiRw4jnxGqagg=="/>
+		<POI MapID="988" xpos="435.074" ypos="13.6678" zpos="-126.589" type="general.cimeseche.collectionneur_de_pieces.vallee_du_prospecteur" GUID="U8252WdxV0uNQXzG+fNbgQ=="/>
+		<POI MapID="988" xpos="365.25" ypos="59.3181" zpos="-365.066" type="general.cimeseche.collectionneur_de_pieces.vallee_du_prospecteur" GUID="9tykpkV4r0KJvREZWRtSMg=="/>
+		<POI MapID="988" xpos="416.75" ypos="48.1413" zpos="-398.589" type="general.cimeseche.collectionneur_de_pieces.vallee_du_prospecteur" GUID="ICB8RgQjcUeKCML1E1E0cA=="/>
+		<POI MapID="988" xpos="419.988" ypos="37.3927" zpos="-348.996" type="general.cimeseche.collectionneur_de_pieces.vallee_du_prospecteur" GUID="XpUdRyb910GGuesJlb3mKg=="/>
+		<POI MapID="988" xpos="417.948" ypos="94.3277" zpos="-382.858" type="general.cimeseche.collectionneur_de_pieces.vallee_du_prospecteur" GUID="Y/YL01QBwE6EDbECNuM0tg=="/>
+		<POI MapID="988" xpos="313.323" ypos="78.7427" zpos="-315.827" type="general.cimeseche.collectionneur_de_pieces.vallee_du_prospecteur" GUID="/zJdGxJ8xUGcXvPgQ1Aj0w=="/>
+		<POI MapID="988" xpos="306.608" ypos="135.572" zpos="-416.291" type="general.cimeseche.collectionneur_de_pieces.vallee_du_prospecteur" GUID="kzvQ+eoa8EC6b7OBEN24Sw=="/>
+		<POI MapID="988" xpos="227.415" ypos="30.6823" zpos="-344.266" type="general.cimeseche.collectionneur_de_pieces.vallee_du_prospecteur" GUID="/IZu9PrQOE2FzROAnB31MA=="/>
+		<POI MapID="988" xpos="154.133" ypos="24.8161" zpos="-522.725" type="general.cimeseche.collectionneur_de_pieces.vallee_du_prospecteur" GUID="HtWALrDqOkqThe+fhF5wzg=="/>
+		<POI MapID="988" xpos="192.649" ypos="33.8651" zpos="-251.334" type="general.cimeseche.collectionneur_de_pieces.vallee_du_prospecteur" GUID="uQb34SNAM0egbILi+bjtdQ=="/>
+		<POI MapID="988" xpos="184.194" ypos="55.1344" zpos="-512.127" type="general.cimeseche.collectionneur_de_pieces.vallee_du_prospecteur" GUID="gibg/3OrIES6aaLs5yzxLg=="/>
+		<POI MapID="988" xpos="166.106" ypos="61.1686" zpos="-554.512" type="general.cimeseche.collectionneur_de_pieces.vallee_du_prospecteur" GUID="J9MeoHlX506kWWLUcRxPqQ=="/>
+		<POI MapID="988" xpos="138.335" ypos="25.2704" zpos="-391.525" type="general.cimeseche.collectionneur_de_pieces.vallee_du_prospecteur" GUID="+8aFPwrL3U+uR8jaynGNKQ=="/>
+		<POI MapID="988" xpos="8.88044" ypos="37.42" zpos="-413.276" type="general.cimeseche.collectionneur_de_pieces.vallee_du_prospecteur" GUID="dtu7CYi510u33X1cmfKkAg=="/>
+		<POI MapID="988" xpos="43.6316" ypos="25.4054" zpos="-526.065" type="general.cimeseche.collectionneur_de_pieces.vallee_du_prospecteur" GUID="U272lVkrzU6Z4ClqsamRrg=="/>
+		<POI MapID="988" xpos="33.9721" ypos="49.6227" zpos="-506.23" type="general.cimeseche.collectionneur_de_pieces.vallee_du_prospecteur" GUID="Llj7Sue5V0OF8S7E11PQgA=="/>
+		<POI MapID="988" xpos="75.5555" ypos="31.5403" zpos="-470.804" type="general.cimeseche.collectionneur_de_pieces.vallee_du_prospecteur" GUID="Pa18fa5l1USGCgroFqeBFQ=="/>
+		<POI MapID="988" xpos="506.901" ypos="31.4917" zpos="-216.413" type="general.cimeseche.collectionneur_de_pieces.vallee_du_prospecteur" GUID="XnqwF8ef+U6GCBtcSsIBGg=="/>
+
+	</POIs>
+</OverlayData>

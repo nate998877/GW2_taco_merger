@@ -1,0 +1,91 @@
+<!-- 2020.06.09 -->
+<OverlayData>
+	<POIs>
+
+		<!-- VISIONS OF ISTAN -->
+		<Trail type="collections.legendary_trinkets.vision_1_istan.4" GUID="kxkvL2O8lEm79TiwIvVT3w==" trailData="Data/Collections/LegendaryTrinkets_Vision1_Istan_4.trl" texture="Data/SemiLine.png" color="ffff00ff" alpha="1" fadeNear="3000" fadeFar="4000" animSpeed="0"/>
+		<POI MapID="1263" xpos="-130.211" ypos="117.576" zpos="211.614"  type="collections.legendary_trinkets.vision_1_istan.1" GUID="ciIut0qFp0at/+9YG7OpSg=="/>
+		<POI MapID="1263" xpos="377.887"  ypos="2.22858" zpos="428.278"  type="collections.legendary_trinkets.vision_1_istan.2" GUID="zPccDfWa+UurmKHHo2MWxw==" heightOffset="0"/>
+		<POI MapID="1263" xpos="-129.283" ypos="60.0805" zpos="180.986"  type="collections.legendary_trinkets.vision_1_istan.3" GUID="y1+7WZZFJk25XuluwAZCdw=="/>
+		<POI MapID="1263" xpos="-129.32"  ypos="60.0842" zpos="184.518"  type="collections.legendary_trinkets.vision_1_istan.3" GUID="txtfLeOsvE2exOmTP8MsYg==" iconFile="Img/Collections/Vision_1_Istan_3.png" minSize="90" maxSize="100" fadeNear="800" fadeFar="1500" heightOffset="0.75" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="1263" xpos="375.528"  ypos="1.26027" zpos="431.333"  type="collections.legendary_trinkets.vision_1_istan.3" GUID="Ox2g8pNRCkq8SHzb/R5maw==" heightOffset="4"/>
+		<POI MapID="1263" xpos="377.404"  ypos="1.26027" zpos="432.184"  type="collections.legendary_trinkets.vision_1_istan.3" GUID="pA8AXKUYTUq9D/wp1e622w==" iconFile="Img/Collections/Vision_1_MemoryEssenceEncapsulator.png" minSize="90" maxSize="100" fadeNear="800" fadeFar="1100" heightOffset="0.75" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="1263" xpos="-811.835" ypos="219.656" zpos="645.435"  type="collections.legendary_trinkets.vision_1_istan.4" GUID="Itsc+yaIs0iF35lVEMuaeg=="/>
+		<POI MapID="1263" xpos="-813.668" ypos="134.442" zpos="625.067"  type="collections.legendary_trinkets.vision_1_istan.5" GUID="XoPSgT/4oUeuMmGk5Y2HBw==" heightOffset="3"/>
+		<POI MapID="1263" xpos="-649.675" ypos="81.953"  zpos="520.737"  type="collections.legendary_trinkets.vision_1_istan.6" GUID="ei2JPJs7YUS7u+l0uHDEBg=="/>
+		<POI MapID="1263" xpos="-648.409" ypos="81.8038" zpos="519.621"  type="collections.legendary_trinkets.vision_1_istan.6" GUID="Gqtlg0K1/kCRO9nuZJJa6Q==" iconFile="Img/Collections/Vision_1_Istan_6.png" minSize="90" maxSize="100" fadeNear="800" fadeFar="1100" heightOffset="0.75" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="1263" xpos="-596.688" ypos="30.7814" zpos="-215.36"  type="collections.legendary_trinkets.vision_1_istan.6" GUID="UHuf/Qn3yU+gyZDqo9HkqQ=="/>
+		<POI MapID="1263" xpos="-598.247" ypos="30.3484" zpos="-216.079" type="collections.legendary_trinkets.vision_1_istan.6" GUID="3wfyhVFeF0OkQ+d7AZbvtQ==" iconFile="Img/Collections/Vision_1_Istan_6.png" minSize="90" maxSize="100" fadeNear="800" fadeFar="1100" heightOffset="0.75" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="1263" xpos="397.63"   ypos="22.3558" zpos="289.42"   type="collections.legendary_trinkets.vision_1_istan.6" GUID="3oCnIyHxcUaAwTQ/40gSzg=="/>
+		<POI MapID="1263" xpos="395.681"  ypos="22.1027" zpos="290.086"  type="collections.legendary_trinkets.vision_1_istan.6" GUID="EE7KZUidyk2LBrjmQJJ5jg==" iconFile="Img/Collections/Vision_1_Istan_6.png" minSize="90" maxSize="100" fadeNear="800" fadeFar="1100" heightOffset="0.75" mapVisibility="0" miniMapVisibility="0"/>
+
+		<!-- VISIONS OF SANDSWEPT ISLES -->
+		<Trail type="collections.legendary_trinkets.vision_1_sandsweptisles.4" GUID="ItVAGSCmokSESRWUBWcs9w==" trailData="Data/Collections/LegendaryTrinkets_Vision1_SandsweptIsles_4.trl" texture="Data/SemiLine.png" color="ffff00ff" alpha="1" fadeNear="3000" fadeFar="4000" animSpeed="0"/>
+		<POI MapID="1271" xpos="-138.343" ypos="118.137" zpos="729.93"   type="collections.legendary_trinkets.vision_1_sandsweptisles.1" GUID="arTIwRT0fUSvYivsrJkFLg=="/>
+		<POI MapID="1271" xpos="-147.869" ypos="4.01478" zpos="728.424"  type="collections.legendary_trinkets.vision_1_sandsweptisles.2" GUID="hvatGFv+RECjbI+x9wM0OA==" heightOffset="0"/>
+		<POI MapID="1271" xpos="-255.673" ypos="0.74237" zpos="-132.074" type="collections.legendary_trinkets.vision_1_sandsweptisles.3" GUID="i5+SBERXaUSuTxKf3KcDPQ=="/>
+		<POI MapID="1271" xpos="-255.362" ypos="1.57946" zpos="-137.654" type="collections.legendary_trinkets.vision_1_sandsweptisles.3" GUID="fJzpABrutE6F3D3eZXUVYQ==" iconFile="Img/Collections/Vision_1_SandsweptIsles_3.png" minSize="90" maxSize="100" fadeNear="800" fadeFar="1100" heightOffset="0.75" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="1271" xpos="-121.253" ypos="3.81538" zpos="713.518"  type="collections.legendary_trinkets.vision_1_sandsweptisles.3" GUID="2agpn0H670iRuGqwP5phRg==" heightOffset="4"/>
+		<POI MapID="1271" xpos="-120.502" ypos="4.09192" zpos="716.548"  type="collections.legendary_trinkets.vision_1_sandsweptisles.3" GUID="bHC5bPVlREykqq89xxYC4g==" iconFile="Img/Collections/Vision_1_MemoryEssenceEncapsulator.png" minSize="90" maxSize="100" fadeNear="800" fadeFar="1100" heightOffset="0.75" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="1271" xpos="-301.994" ypos="91.5915" zpos="576.747"  type="collections.legendary_trinkets.vision_1_sandsweptisles.4" GUID="Z/sI+6PO6UGr5Z/LNRvy5Q=="/>
+		<POI MapID="1271" xpos="-121.253" ypos="3.81538" zpos="713.518"  type="collections.legendary_trinkets.vision_1_sandsweptisles.5" GUID="M7y9qV2yvUyOd4MCWOWv+g==" heightOffset="4"/>
+		<POI MapID="1271" xpos="142.049" ypos="0.865592" zpos="485.044"  type="collections.legendary_trinkets.vision_1_sandsweptisles.6" GUID="TwJxEeWPeUWPuZ1daYW80w=="/>
+
+		<!-- VISIONS OF KOURNA -->
+		<Trail type="collections.legendary_trinkets.vision_1_kourna.4" GUID="o1y7rw3USEKYbMipSkAjqA==" trailData="Data/Collections/LegendaryTrinkets_Vision1_Kourna_4.trl" texture="Data/SemiLine.png" color="ffff00ff" alpha="1" fadeNear="3000" fadeFar="4000" animSpeed="0"/>
+		<POI MapID="1288" xpos="-568.833" ypos="67.154"  zpos="298.461"  type="collections.legendary_trinkets.vision_1_kourna.1" GUID="B74qWYCRLUyCDa4AFvOcpQ=="/>
+		<POI MapID="1288" xpos="-589.429" ypos="33.0219" zpos="310.234"  type="collections.legendary_trinkets.vision_1_kourna.2" GUID="3GE3Z0/LwkeGjvEeLaw8iA=="/>
+		<POI MapID="1288" xpos="-468.907" ypos="23.693"  zpos="255.385"  type="collections.legendary_trinkets.vision_1_kourna.3" GUID="TI8xGhLf5U+bpen1UcWD7w==" heightOffset="3"/>
+		<POI MapID="1288" xpos="-470.441" ypos="23.6884" zpos="258.189"  type="collections.legendary_trinkets.vision_1_kourna.3" GUID="tPlnOHzBWU29kBDy6CMGpg==" iconFile="Img/Collections/Vision_1_MemoryEssenceEncapsulator.png" minSize="90" maxSize="100" fadeNear="800" fadeFar="1100" heightOffset="0.75" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="1288" xpos="-608.866" ypos="32.1799" zpos="289.207"  type="collections.legendary_trinkets.vision_1_kourna.3" GUID="9fVkd5cUOkyIq3g/HYPwSw==" heightOffset="4"/>
+		<POI MapID="1288" xpos="-606.51"  ypos="138.317" zpos="176.679"  type="collections.legendary_trinkets.vision_1_kourna.4" GUID="5+ictj7XIEeuqq+oOi9ikA==" heightOffset="0"/>
+		<POI MapID="1288" xpos="-559.988" ypos="21.9192" zpos="309.774"  type="collections.legendary_trinkets.vision_1_kourna.5" GUID="Kl5Mfr9GZ0efadvYD2sgCg==" heightOffset="3"/>
+		<POI MapID="1288" xpos="213.072"  ypos="55.8934" zpos="1235.74"  type="collections.legendary_trinkets.vision_1_kourna.6" GUID="5SjtV9qQ4EyMbrLDp2bvzA==" heightOffset="0"/>
+
+		<!-- VISIONS OF JAHAI -->
+		<Trail type="collections.legendary_trinkets.vision_1_jahai.4" GUID="McyOEmN6kUuwYIA+OIiVKg==" trailData="Data/Collections/LegendaryTrinkets_Vision1_Jahai_4.trl"   texture="Data/SemiLine.png" color="ffff00ff" alpha="1" fadeNear="3000" fadeFar="4000" animSpeed="0"/>
+		<Trail type="collections.legendary_trinkets.vision_1_jahai.5" GUID="FKKPK9FTO06wk7nQeqSmEQ==" trailData="Data/Collections/LegendaryTrinkets_Vision1_Jahai_5-1.trl" texture="Data/SemiLine.png" color="ffff00ff" alpha="1" fadeNear="3000" fadeFar="4000" animSpeed="0"/>
+		<Trail type="collections.legendary_trinkets.vision_1_jahai.5" GUID="uU5uhWamykKWSQaOq8C/pA==" trailData="Data/Collections/LegendaryTrinkets_Vision1_Jahai_5-2.trl" texture="Data/SemiLine.png" color="ffff00ff" alpha="1" fadeNear="3000" fadeFar="4000" animSpeed="0"/>
+		<POI MapID="1301" xpos="752.143"  ypos="69.376"  zpos="-360.581" type="collections.legendary_trinkets.vision_1_jahai.0" GUID="MIGnGNiXDk65NYu7FCBdbg==" heightOffset="3"/>
+		<POI MapID="1301" xpos="752.499"  ypos="69.376"  zpos="-358.053" type="collections.legendary_trinkets.vision_1_jahai.0" GUID="FvBByagnZE2US47H2veqXQ==" iconFile="Img/Collections/Vision_1_Jahai_0.png" minSize="90" maxSize="100" fadeNear="800" fadeFar="1100" heightOffset="0.75" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="1301" xpos="-882.936" ypos="215.727" zpos="99.3256"  type="collections.legendary_trinkets.vision_1_jahai.1" GUID="1to1wQ+1J0WY5dfMbl6pAw=="/>
+		<POI MapID="1301" xpos="-919.119" ypos="39.8659" zpos="205.211"  type="collections.legendary_trinkets.vision_1_jahai.2" GUID="xhxVWOBEaUC0nrao+Ycq6w==" heightOffset="0"/>
+		<POI MapID="1301" xpos="752.143"  ypos="69.376"  zpos="-360.581" type="collections.legendary_trinkets.vision_1_jahai.3" GUID="QQQKB0gK6kiEDfQD/C6tjQ==" heightOffset="3"/>
+		<POI MapID="1301" xpos="750.251"  ypos="69.376"  zpos="-361.485" type="collections.legendary_trinkets.vision_1_jahai.3" GUID="uVohZ/oalEasNRbswfgNEw==" iconFile="Img/Collections/Vision_1_MemoryEssenceEncapsulator.png" minSize="90" maxSize="100" fadeNear="800" fadeFar="1100" heightOffset="0.75" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="1301" xpos="-670.044" ypos="42.8777" zpos="593.281"  type="collections.legendary_trinkets.vision_1_jahai.3" GUID="Dn3PbjvOrUSWc/WvUb3WDA=="/>
+		<POI MapID="1301" xpos="-670.048" ypos="39.9672" zpos="588.278"  type="collections.legendary_trinkets.vision_1_jahai.3" GUID="nRVS7u/zLkuMsNfqIBixMw==" iconFile="Img/Collections/Vision_1_Jahai_3.png" minSize="90" maxSize="100" fadeNear="800" fadeFar="1100" heightOffset="0.75" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="1301" xpos="160.224"  ypos="299.2"   zpos="109.339"  type="collections.legendary_trinkets.vision_1_jahai.4" GUID="BmN3tSS+z0CTVVDu4U2m+Q=="/>
+		<POI MapID="1301" xpos="-861.546" ypos="67.6953" zpos="111.881"  type="collections.legendary_trinkets.vision_1_jahai.5" GUID="ivcF0RbF9Emj3xhx/Ia51A=="/>
+		<POI MapID="1294" xpos="-1056.65" ypos="22.2421" zpos="-443.953" type="collections.legendary_trinkets.vision_1_jahai.5" GUID="RJCpt+pZNkqraFgiS5onDw==" heightOffset="3"/>
+		<POI MapID="1301" xpos="74.8327"  ypos="58.8652" zpos="6.90411"  type="collections.legendary_trinkets.vision_1_jahai.6" GUID="C/oKQZW4zUWxTDpdCBhXcg=="/>
+
+		<!-- VISIONS OF THUNDERHEAD PEAKS -->
+		<Trail type="collections.legendary_trinkets.vision_1_thunderheadpeaks.4" GUID="1H1TWOqlOkW6mXH0jhVwUQ==" trailData="Data/Collections/LegendaryTrinkets_Vision1_Thunderheadpeaks_4.trl" texture="Data/SemiLine.png" color="ffff00ff" alpha="1" fadeNear="3000" fadeFar="4000" animSpeed="0"/>
+		<POI MapID="1310" xpos="-548.436" ypos="198.889" zpos="1037.54"  type="collections.legendary_trinkets.vision_1_thunderheadpeaks.1" GUID="mty1rr+ZBUuh6YI0iszrmA=="/>
+		<POI MapID="1310" xpos="463.173"  ypos="363.571" zpos="593.644"  type="collections.legendary_trinkets.vision_1_thunderheadpeaks.2" GUID="YXs+JW64Z0edE4VYW2JtUQ==" heightOffset="0"/>
+		<POI MapID="1310" xpos="-586.138" ypos="139.354" zpos="991.08"   type="collections.legendary_trinkets.vision_1_thunderheadpeaks.3" GUID="XHCsn6Ux4kOhQ8pM8D8eew==" heightOffset="4"/>
+		<POI MapID="1310" xpos="-582.924" ypos="139.348" zpos="989.359"  type="collections.legendary_trinkets.vision_1_thunderheadpeaks.3" GUID="I9Qwt0pjMEyxHFX74+zQPw==" iconFile="Img/Collections/Vision_1_MemoryEssenceEncapsulator.png" minSize="90" maxSize="100" fadeNear="800" fadeFar="1100" heightOffset="0.75" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="1310" xpos="774.662"  ypos="382.057" zpos="971.199"  type="collections.legendary_trinkets.vision_1_thunderheadpeaks.3" GUID="LZQz6zQsNUmrCCee7J2fRw=="/>
+		<POI MapID="1310" xpos="775.45"   ypos="382.677" zpos="972.523"  type="collections.legendary_trinkets.vision_1_thunderheadpeaks.3" GUID="rRkeORi3yUCQEUzM4IZzJA==" iconFile="Img/Collections/Vision_1_ThunderheadPeaks_3.png" minSize="90" maxSize="100" fadeNear="800" fadeFar="1100" heightOffset="0.75" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="1310" xpos="-367.204" ypos="381.206" zpos="110.577"  type="collections.legendary_trinkets.vision_1_thunderheadpeaks.4" GUID="9U/MCQzjw06C2M3TrhbVkg=="/>
+		<POI MapID="1310" xpos="-534.568" ypos="139.024" zpos="1002.42"  type="collections.legendary_trinkets.vision_1_thunderheadpeaks.5" GUID="y+c4Y04bHki7UW0uHIoehw==" heightOffset="5"/>
+		<POI MapID="1310" xpos="353.673"  ypos="181.346" zpos="-282.153" type="collections.legendary_trinkets.vision_1_thunderheadpeaks.6" GUID="qcxUDHMlU0+RTgxSD1a4Cw=="/>
+
+		<!-- VISIONS OF DRAGONFALL -->
+		<Trail type="collections.legendary_trinkets.vision_1_dragonfall.4" GUID="h7ZACBXSOEmcocgpwwvA2w==" trailData="Data/Collections/LegendaryTrinkets_Vision1_Dragonfall_4.trl" texture="Data/SemiLine.png" color="ffff00ff" alpha="1" fadeNear="3000" fadeFar="4000" animSpeed="0"/>
+		<POI MapID="1317" xpos="784.704"  ypos="213.453" zpos="672.92"   type="collections.legendary_trinkets.vision_1_dragonfall.1" GUID="AV2GFi134UaC1gq+OyPKWw=="/>
+		<POI MapID="1317" xpos="723.359"  ypos="106.039" zpos="678.23"   type="collections.legendary_trinkets.vision_1_dragonfall.2" GUID="awYJqeBEG0uUBBGy+juEnw==" heightOffset="0"/>
+		<POI MapID="1317" xpos="720.522"  ypos="105.178" zpos="676.405"  type="collections.legendary_trinkets.vision_1_dragonfall.3" GUID="EPTgsKDxtE25DCpuXGP0Nw==" heightOffset="4"/>
+		<POI MapID="1317" xpos="717.147"  ypos="105.693" zpos="676.152"  type="collections.legendary_trinkets.vision_1_dragonfall.3" GUID="ouCBBnWDnE6DA+qgQkjIdg==" iconFile="Img/Collections/Vision_1_MemoryEssenceEncapsulator.png" minSize="90" maxSize="100" fadeNear="800" fadeFar="1100" heightOffset="0.75" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="1317" xpos="715.397"  ypos="105.731" zpos="673.212"  type="collections.legendary_trinkets.vision_1_dragonfall.3" GUID="/82JSlmfbkeYsXs/TuRK/A==" iconFile="Img/Collections/Vision_1_Dragonfall_3.png" minSize="90" maxSize="100" fadeNear="800" fadeFar="1100" heightOffset="0.75" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="1317" xpos="-959.24"  ypos="11.1105" zpos="-268.813" type="collections.legendary_trinkets.vision_1_dragonfall.4" GUID="aiJQxCjI9k2Oe4Qiq/4/lw=="/>
+		<POI MapID="1317" xpos="720.522"  ypos="105.178" zpos="676.405"  type="collections.legendary_trinkets.vision_1_dragonfall.5" GUID="QecZWwDvD0qr5dzShBgdYg==" heightOffset="4"/>
+		<POI MapID="1317" xpos="-741.388" ypos="125.823" zpos="507.978"  type="collections.legendary_trinkets.vision_1_dragonfall.6" GUID="319Z3EYpW0KV8ULej3BUaQ==" heightOffset="0"/>
+		<POI MapID="1317" xpos="-438.56"  ypos="135.883" zpos="-377.726" type="collections.legendary_trinkets.vision_1_dragonfall.6" GUID="1dfEIYFdYUqv9ODL1nRVdg==" heightOffset="0"/>
+		<POI MapID="1317" xpos="609.545"  ypos="136.452" zpos="-570.305" type="collections.legendary_trinkets.vision_1_dragonfall.6" GUID="HUucKOpTKkS+LIodfILLnQ==" heightOffset="0"/>
+		<POI MapID="1317" xpos="-741.388" ypos="125.823" zpos="507.978"  type="collections.legendary_trinkets.vision_1_dragonfall.6" GUID="8t0NwBcSHkisnCEudBR0XQ==" heightOffset="2.5" iconFile="Img/Collections/Vision_1_Dragonfall_6-EternalEmbers.png"  minSize="90" maxSize="100" fadeNear="1200" fadeFar="1500" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="1317" xpos="-438.56"  ypos="135.883" zpos="-377.726" type="collections.legendary_trinkets.vision_1_dragonfall.6" GUID="K/xAkZ89NE2tYMhKuxhHYg==" heightOffset="2.5" iconFile="Img/Collections/Vision_1_Dragonfall_6-SoulBinders.png"    minSize="90" maxSize="100" fadeNear="1200" fadeFar="1500" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="1317" xpos="609.545"  ypos="136.452" zpos="-570.305" type="collections.legendary_trinkets.vision_1_dragonfall.6" GUID="++H1+rboHECBXpzpSuRoMQ==" heightOffset="2.5" iconFile="Img/Collections/Vision_1_Dragonfall_6-MelandrusTears.png" minSize="90" maxSize="100" fadeNear="1200" fadeFar="1500" mapVisibility="0" miniMapVisibility="0"/>
+
+	</POIs>
+</OverlayData>

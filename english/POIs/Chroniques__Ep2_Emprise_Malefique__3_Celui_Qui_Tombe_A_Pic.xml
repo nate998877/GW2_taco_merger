@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+POIs: ReActif.9251
+Date: 2017/03/06
+-->
+<OverlayData>
+	<MarkerCategory name="chroniques.saison_2">
+		<MarkerCategory name="ep2_emprise_malefique" DisplayName="Ep.2 - Entanglement" iconFile="Img\Saison2EmpriseMalefique.png">
+			<MarkerCategory name="celui_qui_tombe_a_pic" DisplayName="Timely Arrival"/>
+		</MarkerCategory>
+	</MarkerCategory>
+
+	<POIs>
+
+		<!-- Sauver les soldats -->
+		<Route MapID="999" Name="CeluiQuiTombeAPic" resetposx="-967.533" resetposy="86.3064" resetposz="421.762" resetrange="1">
+			<POI MapID="999" xpos="-883.489" ypos="94.1929" zpos="495.066" type="chroniques.saison_2.ep2_emprise_malefique.celui_qui_tombe_a_pic" GUID="EG7eXVZHn0G/0nsVcxiIjQ==" iconFile="Img\Combat.png" color="ffff0000" triggerRange="10"/>
+			<POI MapID="999" xpos="-942.768" ypos="87.1266" zpos="516.534" type="chroniques.saison_2.ep2_emprise_malefique.celui_qui_tombe_a_pic" GUID="oYApLiJ67E2Nv2jp0TeRTA==" iconFile="Img\Ranimer.png"/>
+			<POI MapID="999" xpos="-888.114" ypos="94.2923" zpos="494.988" type="chroniques.saison_2.ep2_emprise_malefique.celui_qui_tombe_a_pic" GUID="0R6DnooXI0OhUw8fNz/rkQ=="/>
+		</Route>
+
+	</POIs>
+</OverlayData>

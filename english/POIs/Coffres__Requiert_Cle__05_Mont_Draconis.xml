@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+POIs: ReActif.9251 - TMKFrench.6427
+Date: 2017/08/08
+-->
+<OverlayData>
+	<MarkerCategory name="coffres.requiert_cle">
+		<MarkerCategory name="mont_draconis" DisplayName="Draconis Mons" iconFile="Img\SourceAncienneDePuissanceAsura.png" fadeNear="8000" fadeFar="16000" heightOffset="2"/>
+	</MarkerCategory>
+
+	<POIs>
+
+		<POI MapID="1195" xpos="-494.057" ypos="479.865" zpos="-339.034" type="coffres.requiert_cle.mont_draconis" GUID="Mf+7m/VrWkukhPIs3bdlLA=="/>
+		<POI MapID="1195" xpos="-408.365" ypos="378.009" zpos="73.6971" type="coffres.requiert_cle.mont_draconis" GUID="5Efmou6++E6AWy1DWRM9Mw=="/>
+		<POI MapID="1195" xpos="-352.504" ypos="65.3431" zpos="-664.938" type="coffres.requiert_cle.mont_draconis" GUID="wnfW0qCOhkm0AKREIUPx9Q=="/>
+		<POI MapID="1195" xpos="-318.474" ypos="101.163" zpos="-359.617" type="coffres.requiert_cle.mont_draconis" GUID="A92ft6D5nUeLPqQYUvw+4w=="/>
+		<POI MapID="1195" xpos="-315.465" ypos="123.76" zpos="-708.929" type="coffres.requiert_cle.mont_draconis" GUID="jsCE+fhjB0G0AOj95m/uuA=="/>
+		<POI MapID="1195" xpos="-291.536" ypos="458.252" zpos="-443.242" type="coffres.requiert_cle.mont_draconis" GUID="eCvGIn5a6k2iAntKhr8Ifg=="/>
+		<POI MapID="1195" xpos="-270.111" ypos="131.651" zpos="-439.836" type="coffres.requiert_cle.mont_draconis" GUID="UAc/0pDM30iT5fDz92EigQ=="/>
+		<POI MapID="1195" xpos="-261.795" ypos="506.265" zpos="-218.49" type="coffres.requiert_cle.mont_draconis" GUID="SVEqv6UUz0iiRwGnGO4WuA=="/>
+		<POI MapID="1195" xpos="-259.526" ypos="37.2523" zpos="-558.701" type="coffres.requiert_cle.mont_draconis" GUID="xcGINibDRkq/rvyh6vQT/Q=="/>
+		<POI MapID="1195" xpos="-253.936" ypos="468.549" zpos="-191.93" type="coffres.requiert_cle.mont_draconis" GUID="h7DRIa+AZke+Yofsb4tjlw=="/>
+		<POI MapID="1195" xpos="-200.108" ypos="300.536" zpos="98.5041" type="coffres.requiert_cle.mont_draconis" GUID="QLHz3Hxq+k2Sro5yQKOjYQ=="/>
+		<POI MapID="1195" xpos="-173.55" ypos="112.355" zpos="-694.892" type="coffres.requiert_cle.mont_draconis" GUID="U+FTJ3lbCkWY9FN4cJ2Jxw=="/>
+		<POI MapID="1195" xpos="-123.417" ypos="549.474" zpos="131.453" type="coffres.requiert_cle.mont_draconis" GUID="ihabPo3NGEyQiFbsXfTjAA=="/>
+		<POI MapID="1195" xpos="-115.049" ypos="237.349" zpos="63.4731" type="coffres.requiert_cle.mont_draconis" GUID="0efsdX9oXEukCayTeIqw7Q=="/>
+		<POI MapID="1195" xpos="-72.2956" ypos="189.079" zpos="-817.46" type="coffres.requiert_cle.mont_draconis" GUID="3MvDEQnZBEuu3fDpdK9lLQ=="/>
+		<POI MapID="1195" xpos="-63.7415" ypos="347.804" zpos="-996.933" type="coffres.requiert_cle.mont_draconis" GUID="Wmj4K9DUL0uw5LGyhDcvwA=="/>
+		<POI MapID="1195" xpos="-55.8549" ypos="267.719" zpos="156.306" type="coffres.requiert_cle.mont_draconis" GUID="ddCSWtacnkGbdnbNKLb5yQ=="/>
+		<POI MapID="1195" xpos="-46.6575" ypos="291.325" zpos="259.476" type="coffres.requiert_cle.mont_draconis" GUID="WW5YR6pEv0eX+mUbCLVqxQ=="/>
+		<POI MapID="1195" xpos="-43.062" ypos="414.494" zpos="-255.832" type="coffres.requiert_cle.mont_draconis" GUID="8cu8Z38mqke3f61dzU3fvQ=="/>
+		<POI MapID="1195" xpos="-10.2432" ypos="249.738" zpos="213.023" type="coffres.requiert_cle.mont_draconis" GUID="rIgdskfmaEiXBvSqp/Dqow=="/>
+		<POI MapID="1195" xpos="15.065" ypos="253.419" zpos="-788.992" type="coffres.requiert_cle.mont_draconis" GUID="Djxc82Zxs0ylu7eyGkstjA=="/>
+		<POI MapID="1195" xpos="18.314" ypos="288.491" zpos="-22.5251" type="coffres.requiert_cle.mont_draconis" GUID="YTB53QypOEOFYqqKHM4NJA=="/>
+		<POI MapID="1195" xpos="37.2455" ypos="300.433" zpos="-878.003" type="coffres.requiert_cle.mont_draconis" GUID="+4XSTc+QtESNHFJg9hpD6w=="/>
+		<POI MapID="1195" xpos="37.5167" ypos="236.948" zpos="119.181" type="coffres.requiert_cle.mont_draconis" GUID="4z+FNxac50mjS0j1q34dww=="/>
+		<POI MapID="1195" xpos="49.9014" ypos="241.839" zpos="-271.603" type="coffres.requiert_cle.mont_draconis" GUID="Ynr8W7gv/ECcuaVmGhp7Wg=="/>
+		<POI MapID="1195" xpos="52.5066" ypos="229.148" zpos="237.167" type="coffres.requiert_cle.mont_draconis" GUID="UXcQynIVhkCLBIvLKkVWkg=="/>
+		<POI MapID="1195" xpos="74.4228" ypos="45.5109" zpos="-716.725" type="coffres.requiert_cle.mont_draconis" GUID="5IBmGeGT90C3v4lZTH0IrA=="/>
+		<POI MapID="1195" xpos="80.095" ypos="271.637" zpos="-65.2145" type="coffres.requiert_cle.mont_draconis" GUID="eiRFpmXufEagaQI9WQH9Sw=="/>
+		<POI MapID="1195" xpos="109.185" ypos="227.832" zpos="74.8189" type="coffres.requiert_cle.mont_draconis" GUID="1X/LWY6t+kGrexccdsqPBA=="/>
+		<POI MapID="1195" xpos="180.993" ypos="233.199" zpos="255.659" type="coffres.requiert_cle.mont_draconis" GUID="3HCGEw4nA0SCvSArT0YJUg=="/>
+		<POI MapID="1195" xpos="200.169" ypos="230.025" zpos="-792.857" type="coffres.requiert_cle.mont_draconis" GUID="8YcqQ052ak+yowoiMcGlJQ=="/>
+		<POI MapID="1195" xpos="211.404" ypos="249.023" zpos="-677.143" type="coffres.requiert_cle.mont_draconis" GUID="Yuhe6LpcK0aNpdIMxCBaSQ=="/>
+		<POI MapID="1195" xpos="221.231" ypos="288.058" zpos="-903.213" type="coffres.requiert_cle.mont_draconis" GUID="HdUqha4w20a96zLGRkDjmg=="/>
+		<POI MapID="1195" xpos="227.25" ypos="206.116" zpos="-605.992" type="coffres.requiert_cle.mont_draconis" GUID="COnGd/Ck+kCjdiFv/D1lUQ=="/>
+		<POI MapID="1195" xpos="241.019" ypos="403.637" zpos="-252.348" type="coffres.requiert_cle.mont_draconis" GUID="yev3CjwQgU+SKotPf/uVNA=="/>
+		<POI MapID="1195" xpos="282.526" ypos="318.865" zpos="-755.089" type="coffres.requiert_cle.mont_draconis" GUID="JMPVelbfbkiBIKv4fRYlhg=="/>
+		<POI MapID="1195" xpos="286.372" ypos="80.2339" zpos="-450.276" type="coffres.requiert_cle.mont_draconis" GUID="5Ur7KbsajEmLyVCiJqlDrg=="/>
+		<POI MapID="1195" xpos="315.408" ypos="440.218" zpos="43.8896" type="coffres.requiert_cle.mont_draconis" GUID="cYhjdJvkyU2+vUfshFfBgw=="/>
+		<POI MapID="1195" xpos="321.516" ypos="294.236" zpos="-900.266" type="coffres.requiert_cle.mont_draconis" GUID="fWc7EYawGk2ZAt8DY7Eldw=="/>
+		<POI MapID="1195" xpos="339.462" ypos="136.636" zpos="-322.819" type="coffres.requiert_cle.mont_draconis" GUID="20oBGWxNQUO0c8yVAN8q/A=="/>
+		<POI MapID="1195" xpos="341.457" ypos="284.829" zpos="-814.117" type="coffres.requiert_cle.mont_draconis" GUID="0EKRQILqeES81DrBzhYuww=="/>
+		<POI MapID="1195" xpos="371.948" ypos="438.38" zpos="-87.3871" type="coffres.requiert_cle.mont_draconis" GUID="veZrmCQn1k+1xSLdIjCI4A=="/>
+		<POI MapID="1195" xpos="384.935" ypos="350.543" zpos="-893.551" type="coffres.requiert_cle.mont_draconis" GUID="CtfEZBb1lkiAI0Gjo34gyg=="/>
+		<POI MapID="1195" xpos="399.546" ypos="212.933" zpos="-371.711" type="coffres.requiert_cle.mont_draconis" GUID="2mYx1aMui0CRBVlEK7tqMQ=="/>
+		<POI MapID="1195" xpos="405.947" ypos="252.561" zpos="-686.217" type="coffres.requiert_cle.mont_draconis" GUID="Ht6dYu2r9kmc22jKAbGwiw=="/>
+		<POI MapID="1195" xpos="431.826" ypos="466.81" zpos="-26.2875" type="coffres.requiert_cle.mont_draconis" GUID="CMhPeZkHF0+ClXPrQhV6Hg=="/>
+		<POI MapID="1195" xpos="444.921" ypos="222.822" zpos="-555.458" type="coffres.requiert_cle.mont_draconis" GUID="Ve+NNf7Hr0Shth9+vvoiuQ=="/>
+		<POI MapID="1195" xpos="447.921" ypos="309.324" zpos="-510.388" type="coffres.requiert_cle.mont_draconis" GUID="x1+TXnruqkGFrubBa+fBFg=="/>
+		<POI MapID="1195" xpos="467.436" ypos="415.125" zpos="-334.829" type="coffres.requiert_cle.mont_draconis" GUID="eSNSLKfM0USOR00yGDfkQQ=="/>
+		<POI MapID="1195" xpos="519.437" ypos="110.834" zpos="-317.721" type="coffres.requiert_cle.mont_draconis" GUID="ugAMUw+kQ0KmEsWJCzvYAw=="/>
+		<POI MapID="1195" xpos="530.22" ypos="336.563" zpos="-481.09" type="coffres.requiert_cle.mont_draconis" GUID="vDSVFAotUEyni7HUGEHcWw=="/>
+		<POI MapID="1195" xpos="530.53" ypos="274.1" zpos="-419.432" type="coffres.requiert_cle.mont_draconis" GUID="VC5RqeRPAkylXZRkibA8qw=="/>
+		<POI MapID="1195" xpos="566.086" ypos="108.661" zpos="-450.343" type="coffres.requiert_cle.mont_draconis" GUID="366gDTd4vkesvObL/EgqXg=="/>
+		<POI MapID="1195" xpos="591.859" ypos="243.055" zpos="-267.713" type="coffres.requiert_cle.mont_draconis" GUID="dZPupmqxP0OpjqM9ZDIWhQ=="/>
+		<POI MapID="1195" xpos="618.706" ypos="227.524" zpos="-464.449" type="coffres.requiert_cle.mont_draconis" GUID="NgtwnInM3kKIHBQPgjAfOg=="/>
+		<POI MapID="1195" xpos="621.159" ypos="250.9" zpos="-526.36" type="coffres.requiert_cle.mont_draconis" GUID="jrTdJUF4UE2oKjiXpFokpQ=="/>
+		<POI MapID="1195" xpos="635.557" ypos="241.433" zpos="-376.622" type="coffres.requiert_cle.mont_draconis" GUID="6YJBYVbdE0CLZZ97UKxsKg=="/>
+
+	</POIs>
+</OverlayData>

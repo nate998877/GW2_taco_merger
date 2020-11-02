@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+POIs: ReActif.9251
+Date: 2017/05/06
+-->
+<OverlayData>
+	<MarkerCategory name="chroniques.saison_3">
+		<MarkerCategory name="ep5_point_d_ignition" DisplayName="Ep.5 - Flashpoint" iconFile="Img\MontDraconis.png">
+			<MarkerCategory name="exces_d_energie" DisplayName="Excess Energy" iconSize="1.25" color="ff00ffff"/>
+		</MarkerCategory>
+	</MarkerCategory>
+
+	<POIs>
+
+		<!-- Orbes d'Energie -->
+		<POI MapID="1196" xpos="-177.762" ypos="224.005" zpos="-369.617" type="chroniques.saison_3.ep5_point_d_ignition.exces_d_energie" GUID="KPzUOQSDFk+rplPsWrX3GQ=="/>
+		<POI MapID="1196" xpos="-176.741" ypos="243.023" zpos="-295.178" type="chroniques.saison_3.ep5_point_d_ignition.exces_d_energie" GUID="z3Daj9dEP0aa4vMkHYqRHQ=="/>
+		<POI MapID="1196" xpos="-117.512" ypos="205.422" zpos="-254.686" type="chroniques.saison_3.ep5_point_d_ignition.exces_d_energie" GUID="jiio2DjMw0yqRY1yAJbLRA=="/>
+		<POI MapID="1196" xpos="-111.932" ypos="254.033" zpos="-244.222" type="chroniques.saison_3.ep5_point_d_ignition.exces_d_energie" GUID="MbnPFYSC+Ui0AojXeJkbgA=="/>
+		<POI MapID="1196" xpos="-31.7689" ypos="215.364" zpos="-295.533" type="chroniques.saison_3.ep5_point_d_ignition.exces_d_energie" GUID="1qMUpHa3OEq/l+3tQaDRYA=="/>
+		<POI MapID="1196" xpos="-22.3287" ypos="242.904" zpos="-210.996" type="chroniques.saison_3.ep5_point_d_ignition.exces_d_energie" GUID="PzjaOxLo60e3XupRD9gvcQ=="/>
+		<POI MapID="1196" xpos="-21.0425" ypos="92.9567" zpos="-211.695" type="chroniques.saison_3.ep5_point_d_ignition.exces_d_energie" GUID="rUp8nozmbkO125d0r58ymQ=="/>
+		<POI MapID="1196" xpos="-5.71918" ypos="249.352" zpos="-374.444" type="chroniques.saison_3.ep5_point_d_ignition.exces_d_energie" GUID="aNrKm/j7LEy93Oq4qK4o/g=="/>
+		<POI MapID="1196" xpos="-2.15702" ypos="392.434" zpos="-271.247" type="chroniques.saison_3.ep5_point_d_ignition.exces_d_energie" GUID="xMhP+rs0TkihOVR7/0fFIg=="/>
+		<POI MapID="1196" xpos="8.98499" ypos="218.066" zpos="-202.703" type="chroniques.saison_3.ep5_point_d_ignition.exces_d_energie" GUID="AtK/T0rRiEO9luCItVMWjQ=="/>
+		<POI MapID="1196" xpos="117.564" ypos="178.371" zpos="-173.587" type="chroniques.saison_3.ep5_point_d_ignition.exces_d_energie" GUID="MwR3KVNvME+AB9qYc5jcvA=="/>
+		<POI MapID="1196" xpos="138.825" ypos="219.291" zpos="-271.901" type="chroniques.saison_3.ep5_point_d_ignition.exces_d_energie" GUID="kns6aCzbFk6Vfw+20RsLrA=="/>
+
+	</POIs>
+</OverlayData>

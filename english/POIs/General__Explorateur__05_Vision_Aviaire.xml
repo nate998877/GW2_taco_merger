@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+POIs: ReActif.9251 - TMKFrench.6427
+Date: 2017/04/12
+-->
+<OverlayData>
+	<MarkerCategory name="general" DisplayName="General">
+		<MarkerCategory name="explorateur" DisplayName="Explorer" iconFile="Img\Explorateur.png" behavior="3">
+			<MarkerCategory name="vision_aviaire" DisplayName="Chicken Scramble" iconFile="Img\CoffreSkritt.png" heightOffset="3" behavior="0"/>
+		</MarkerCategory>
+	</MarkerCategory>
+
+	<POIs>
+
+		<!-- Vallée de la Reine -->
+		<POI MapID="15" xpos="-926.587" ypos="21.4472" zpos="-298.701" type="general.explorateur.vision_aviaire" GUID="+36Z25BaO0CXxgUXURd05Q=="/>
+		<POI MapID="15" xpos="-784.106" ypos="27.4658" zpos="-138.091" type="general.explorateur.vision_aviaire" GUID="9DCbK42beUCtnrvzH66Aig=="/>
+		<POI MapID="15" xpos="-434.412" ypos="26.367" zpos="-258.967" type="general.explorateur.vision_aviaire" GUID="dzDbchBf3EW5mG57IkxoLQ=="/>
+		<POI MapID="15" xpos="-366.729" ypos="35.3902" zpos="-519.908" type="general.explorateur.vision_aviaire" GUID="/xigM4ZpAkyRgZRRaQmy8A=="/>
+		<POI MapID="15" xpos="-254.56" ypos="13.3476" zpos="-218.098" type="general.explorateur.vision_aviaire" GUID="deedPYdxpE+5Md/968pYyA=="/>
+		<POI MapID="15" xpos="-95.5544" ypos="25.8593" zpos="-360.896" type="general.explorateur.vision_aviaire" GUID="4qhQTVahdECBylHfeiVxOQ=="/>
+		<POI MapID="15" xpos="731.971" ypos="89.966" zpos="-146.527" type="general.explorateur.vision_aviaire" GUID="RpbQ1ozt8UKnC7U8zYmXNA=="/>
+
+		<!-- Collines de Kessex -->
+		<POI MapID="23" xpos="-1105.03" ypos="42.4279" zpos="23.9177" type="general.explorateur.vision_aviaire" GUID="SZlkSW4IH0+r9rme75nUhQ=="/>
+		<POI MapID="23" xpos="-646.039" ypos="3.85682" zpos="-434.732" type="general.explorateur.vision_aviaire" GUID="oYUen21IDESiK/rCOUeAGw=="/>
+		<POI MapID="23" xpos="-159.628" ypos="46.7538" zpos="352.202" type="general.explorateur.vision_aviaire" GUID="CHB1d28hJ0GR5UPbE6X5bg=="/>
+		<POI MapID="23" xpos="711.338" ypos="75.4889" zpos="228.294" type="general.explorateur.vision_aviaire" GUID="XlX9A/GZQUWVnhDg+CXeWQ=="/>
+		<POI MapID="23" xpos="1229.01" ypos="45.68" zpos="-76.825" type="general.explorateur.vision_aviaire" GUID="nXYWFqhnfkqC/k4Kq/XEKw=="/>
+
+		<!-- Champs de Gendarran -->
+		<POI MapID="24" xpos="-932.221" ypos="12.7252" zpos="-295.474" type="general.explorateur.vision_aviaire" GUID="i8mRURzQSkKCCzRX4uZInw=="/>
+		<POI MapID="24" xpos="-518.256" ypos="45.4257" zpos="485.616" type="general.explorateur.vision_aviaire" GUID="2w2xj5WMnkuvUzJ/axWx6Q=="/>
+		<POI MapID="24" xpos="-309.097" ypos="5.09815" zpos="-34.3142" type="general.explorateur.vision_aviaire" GUID="cwKEQUTSH0q1f3O69DMK8A=="/>
+		<POI MapID="24" xpos="701.365" ypos="20.4607" zpos="-133.816" type="general.explorateur.vision_aviaire" GUID="0hcOkdplpEqpZ7gN4MZibg=="/>
+		<POI MapID="24" xpos="1091.79" ypos="46.9073" zpos="108.387" type="general.explorateur.vision_aviaire" GUID="EmOH1rJaQEK39/kFyDgknw=="/>
+
+		<!-- Côte de la marée sanglante -->
+		<POI MapID="73" xpos="-131.65" ypos="35.393" zpos="952.886" type="general.explorateur.vision_aviaire" GUID="EUvDMvv5pUmUIuReKMnJow=="/>
+		<POI MapID="73" xpos="349.949" ypos="32.5743" zpos="55.2773" type="general.explorateur.vision_aviaire" GUID="h2tb5JkO4Ui0U/nIz09JfA=="/>
+		<POI MapID="73" xpos="380.855" ypos="48.9856" zpos="527.012" type="general.explorateur.vision_aviaire" GUID="grhAuuvuZkaJoS3/X7OrZw=="/>
+		<POI MapID="73" xpos="381.621" ypos="22.3501" zpos="13.3452" type="general.explorateur.vision_aviaire" GUID="2VYju5HlLEqe7bBe/yf7YQ=="/>
+		<POI MapID="73" xpos="466.303" ypos="54.9174" zpos="-239.049" type="general.explorateur.vision_aviaire" GUID="6zAg/kAGXE2POJIetWoFmg=="/>
+		<POI MapID="73" xpos="547.031" ypos="24.7445" zpos="-463.187" type="general.explorateur.vision_aviaire" GUID="hbrcisEcpEm4FqcVmyGTxw=="/>
+
+		<!-- Contrées Sauvages d'Argent -->
+		<POI MapID="1015" xpos="-208.696" ypos="416.275" zpos="-142.644" type="general.explorateur.vision_aviaire" GUID="KtSnWo3yfk+l6852VtV0LQ=="/>
+		<POI MapID="1015" xpos="-51.4684" ypos="417.543" zpos="42.2941" type="general.explorateur.vision_aviaire" GUID="SOMoAiC3P0Kzh4HOTnSpMg=="/>
+		<POI MapID="1015" xpos="101.954" ypos="412.842" zpos="-215.247" type="general.explorateur.vision_aviaire" GUID="UPzLQWXLqkm4fd1ze+pguQ=="/>
+
+	</POIs>
+</OverlayData>

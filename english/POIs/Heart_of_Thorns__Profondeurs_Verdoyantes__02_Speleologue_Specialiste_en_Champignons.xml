@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+POIs: ReActif.9251 - TMKFrench.6427
+Date: 2017/08/11
+-->
+<OverlayData>
+	<MarkerCategory name="heart_of_thorns.profondeurs_verdoyantes">
+		<MarkerCategory name="speleologue_specialiste_en_champignons" DisplayName="Master Mushroom Spelunker" iconFile="Img\Guide.png" iconSize="0.75" behavior="0">
+			<MarkerCategory name="debut" DisplayName="Start" iconFile="Img\PuzzleDebut.png" iconSize="1.5"/>
+		</MarkerCategory>
+	</MarkerCategory>
+
+	<POIs>
+
+		<!-- Début -->
+		<POI MapID="1045" xpos="398.86" ypos="39.47" zpos="-67.78" type="heart_of_thorns.profondeurs_verdoyantes.speleologue_specialiste_en_champignons.debut" GUID="zzRcUg10vUmEyuT9JceubQ=="/>
+
+		<!-- Route -->
+		<Route MapID="1045" name="Speleologue_Specialiste_Champignons" resetposx="398.86" resetposy="39.47" resetposz="-67.78" resetrange="2">
+			<POI MapID="1045" xpos="389.243" ypos="39.4236" zpos="-70.5854" type="heart_of_thorns.profondeurs_verdoyantes.speleologue_specialiste_en_champignons" GUID="K4YC6SjLckW17ZV2A7sx4g=="/>
+			<POI MapID="1045" xpos="381.744" ypos="38.4023" zpos="-76.4721" type="heart_of_thorns.profondeurs_verdoyantes.speleologue_specialiste_en_champignons" GUID="TH9NFbagyki5Z8SRm/D54Q=="/>
+			<POI MapID="1045" xpos="374.841" ypos="38.3683" zpos="-82.3531" type="heart_of_thorns.profondeurs_verdoyantes.speleologue_specialiste_en_champignons" GUID="pIZq+WOlg0WjXMVEM61P6Q=="/>
+			<POI MapID="1045" xpos="366.693" ypos="39.2524" zpos="-81.3767" type="heart_of_thorns.profondeurs_verdoyantes.speleologue_specialiste_en_champignons" GUID="1VwBFXnJ30iYwCqqE09oCg=="/>
+			<POI MapID="1045" xpos="348.867" ypos="35.0914" zpos="-74.7116" type="heart_of_thorns.profondeurs_verdoyantes.speleologue_specialiste_en_champignons" GUID="LYBh9tUAA06b5/60F7ExAg=="/>
+			<POI MapID="1045" xpos="346.021" ypos="35.7503" zpos="-67.69" type="heart_of_thorns.profondeurs_verdoyantes.speleologue_specialiste_en_champignons" GUID="hOa8J1lUtEOEp3wcGCsChQ=="/>
+			<POI MapID="1045" xpos="337.565" ypos="34.4417" zpos="-62.1336" type="heart_of_thorns.profondeurs_verdoyantes.speleologue_specialiste_en_champignons" GUID="oY2otrPsHES9WY3VWfBTEg=="/>
+			<POI MapID="1045" xpos="331.076" ypos="36.7218" zpos="-61.0144" type="heart_of_thorns.profondeurs_verdoyantes.speleologue_specialiste_en_champignons" GUID="DPnxfpZPPUmcdnLwPWqEnQ=="/>
+			<POI MapID="1045" xpos="327.457" ypos="38.0703" zpos="-59.8565" type="heart_of_thorns.profondeurs_verdoyantes.speleologue_specialiste_en_champignons" GUID="e6pO+WO3vkiqnqlkdvhAMg=="/>
+			<POI MapID="1045" xpos="329.438" ypos="37.6842" zpos="-53.4695" type="heart_of_thorns.profondeurs_verdoyantes.speleologue_specialiste_en_champignons" GUID="tavXCpzNLEq9s87KzVYxFQ=="/>
+			<POI MapID="1045" xpos="323.461" ypos="40.0312" zpos="-49.0441" type="heart_of_thorns.profondeurs_verdoyantes.speleologue_specialiste_en_champignons" GUID="JBu3y8K5QkKUFZQ1EpYU4w=="/>
+			<POI MapID="1045" xpos="314.07" ypos="41.3187" zpos="-51.5285" type="heart_of_thorns.profondeurs_verdoyantes.speleologue_specialiste_en_champignons" GUID="+EffDr8lcEOTbCTzSoSaJA=="/>
+			<POI MapID="1045" xpos="302.648" ypos="37.2637" zpos="-52.9495" type="heart_of_thorns.profondeurs_verdoyantes.speleologue_specialiste_en_champignons" GUID="NZ7YCyLNWUuj5eEy89Uedg=="/>
+			<POI MapID="1045" xpos="296.207" ypos="40.2187" zpos="-51.4142" type="heart_of_thorns.profondeurs_verdoyantes.speleologue_specialiste_en_champignons" GUID="Jq+0fPAVCEKOnwgbmMxmdg=="/>
+			<POI MapID="1045" xpos="290.543" ypos="43.5816" zpos="-51.1988" type="heart_of_thorns.profondeurs_verdoyantes.speleologue_specialiste_en_champignons" GUID="9OKe/ZLi5UeBh9RTRToU5Q=="/>
+			<POI MapID="1045" xpos="291.232" ypos="44.2077" zpos="-44.3853" type="heart_of_thorns.profondeurs_verdoyantes.speleologue_specialiste_en_champignons" GUID="b79t4QzCp0OSPCxn5VpqYQ=="/>
+			<POI MapID="1045" xpos="284.767" ypos="46.6279" zpos="-46.7589" type="heart_of_thorns.profondeurs_verdoyantes.speleologue_specialiste_en_champignons" GUID="U+EHSWFAG0ODSu8aVtRE9Q=="/>
+			<POI MapID="1045" xpos="285.074" ypos="46.5227" zpos="-55.9281" type="heart_of_thorns.profondeurs_verdoyantes.speleologue_specialiste_en_champignons" GUID="s83aLh6iD0iab/olis56NQ=="/>
+			<POI MapID="1045" xpos="277.606" ypos="42.9134" zpos="-72.6616" type="heart_of_thorns.profondeurs_verdoyantes.speleologue_specialiste_en_champignons" GUID="bxDhXAe1ekyu4tSWxnTSfg=="/>
+			<POI MapID="1045" xpos="273.695" ypos="44.7583" zpos="-78.0111" type="heart_of_thorns.profondeurs_verdoyantes.speleologue_specialiste_en_champignons" GUID="CYyyZeXFSE+HFGK+1oDikA=="/>
+			<POI MapID="1045" xpos="279.79" ypos="46.8116" zpos="-79.2182" type="heart_of_thorns.profondeurs_verdoyantes.speleologue_specialiste_en_champignons" GUID="lxGT6hV4cUm7yUzFeRXWOg=="/>
+			<POI MapID="1045" xpos="290.843" ypos="44.5709" zpos="-89.2034" type="heart_of_thorns.profondeurs_verdoyantes.speleologue_specialiste_en_champignons" GUID="VzcLKNayLkiMwAA96vIXGA=="/>
+			<POI MapID="1045" xpos="301.818" ypos="45.9902" zpos="-86.7778" type="heart_of_thorns.profondeurs_verdoyantes.speleologue_specialiste_en_champignons" GUID="N/d9ze/xz0ezFdtVsaByuA=="/>
+			<POI MapID="1045" xpos="308.24" ypos="46.4302" zpos="-83.0903" type="heart_of_thorns.profondeurs_verdoyantes.speleologue_specialiste_en_champignons" GUID="1JWV9Up2V0ed4TCUYxVqAQ=="/>
+			<POI MapID="1045" xpos="319.024" ypos="47.6809" zpos="-85.6888" type="heart_of_thorns.profondeurs_verdoyantes.speleologue_specialiste_en_champignons" GUID="+cuPD2IG+UC3eQ+mvkuDrw=="/>
+			<POI MapID="1045" xpos="318.95" ypos="46.3058" zpos="-94.61" type="heart_of_thorns.profondeurs_verdoyantes.speleologue_specialiste_en_champignons" GUID="bsu61Uw+5U+znCMWcEP7Ow=="/>
+			<POI MapID="1045" xpos="331.678" ypos="43.9535" zpos="-111.092" type="heart_of_thorns.profondeurs_verdoyantes.speleologue_specialiste_en_champignons" GUID="HByEuzi9F0WBT+pdeHHjOQ=="/>
+			<POI MapID="1045" xpos="336.896" ypos="43.6942" zpos="-117.993" type="heart_of_thorns.profondeurs_verdoyantes.speleologue_specialiste_en_champignons" GUID="cKNltq0f0EOClqXr84TGrw=="/>
+			<POI MapID="1045" xpos="329.366" ypos="44.8872" zpos="-122.155" type="heart_of_thorns.profondeurs_verdoyantes.speleologue_specialiste_en_champignons" GUID="SpJLoGLzmk2VLArolBkBZw=="/>
+			<POI MapID="1045" xpos="322.604" ypos="44.9124" zpos="-120.779" type="heart_of_thorns.profondeurs_verdoyantes.speleologue_specialiste_en_champignons" GUID="oRqfgGyd0kWZ71yFVkmn6A=="/>
+			<POI MapID="1045" xpos="326.439" ypos="47.5699" zpos="-128.758" type="heart_of_thorns.profondeurs_verdoyantes.speleologue_specialiste_en_champignons" GUID="9+FPio5qc0aUhIOnFMoqIA=="/>
+			<POI MapID="1045" xpos="335.237" ypos="49.4711" zpos="-125.673" type="heart_of_thorns.profondeurs_verdoyantes.speleologue_specialiste_en_champignons" GUID="dWVKOXm4ZEuy2CDrFiUjiQ=="/>
+			<POI MapID="1045" xpos="340.152" ypos="47.4541" zpos="-112.004" type="heart_of_thorns.profondeurs_verdoyantes.speleologue_specialiste_en_champignons" GUID="lqrEGm4hwUyuiseG2Ez62g=="/>
+			<POI MapID="1045" xpos="347.89" ypos="49.747" zpos="-113.339" type="heart_of_thorns.profondeurs_verdoyantes.speleologue_specialiste_en_champignons" GUID="aEjETcOrBUeAa5NO1rAL6g=="/>
+			<POI MapID="1045" xpos="355.258" ypos="48.9317" zpos="-121.509" type="heart_of_thorns.profondeurs_verdoyantes.speleologue_specialiste_en_champignons" GUID="rSPSZatbTU64HJO369psBQ=="/>
+		</Route>
+
+		<!-- Coffre -->
+		<POI MapID="1045" xpos="360.62" ypos="49.79" zpos="-127.03" type="heart_of_thorns.profondeurs_verdoyantes.speleologue_specialiste_en_champignons" GUID="c8IgsrW8FECI0J1ybzsosQ==" iconFile="Img\CoffrePuzzle.png" iconSize="1" heightOffset="3.5"/>
+
+	</POIs>
+</OverlayData>

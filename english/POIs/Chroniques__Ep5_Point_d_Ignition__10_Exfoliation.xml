@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+POIs: ReActif.9251
+Date: 2017/05/05
+-->
+<OverlayData>
+	<MarkerCategory name="chroniques.saison_3">
+		<MarkerCategory name="ep5_point_d_ignition" DisplayName="Ep.5 - Flashpoint" iconFile="Img\MontDraconis.png">
+			<MarkerCategory name="exfoliation" DisplayName="Exfoliating"/>
+		</MarkerCategory>
+	</MarkerCategory>
+
+	<POIs>
+
+		<!-- Mourir dans la Mer Bouillante -->
+		<POI MapID="1195" xpos="-406.9" ypos="-1" zpos="-418.13" type="chroniques.saison_3.ep5_point_d_ignition.exfoliation" GUID="zvJL+YEHlUeb/UOxSbaYXw=="/>
+		<POI MapID="1195" xpos="-406.9" ypos="1" zpos="-418.13" type="chroniques.saison_3.ep5_point_d_ignition.exfoliation" GUID="o1i+T+4cjUCbMVgfvEQECw==" iconFile="Img\Mort.png" color="ffff0000"/>
+
+	</POIs>
+</OverlayData>

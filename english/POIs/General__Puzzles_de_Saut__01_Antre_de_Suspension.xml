@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+POIs: Cloud Strife.7492 - Xenophy.2716 - ReActif.9251
+Date: 2017/08/23
+-->
+<OverlayData>
+	<MarkerCategory name="general" DisplayName="General">
+		<MarkerCategory name="puzzles_de_saut" DisplayName="Jumping Puzzles" iconFile="Img\Guide.png" iconSize="0.75">
+			<MarkerCategory name="antre_de_suspension" DisplayName="Antre of Adjournment" triggerRange="3"/>
+		</MarkerCategory>
+	</MarkerCategory>
+
+	<POIs>
+
+		<!-- Début -->
+		<POI MapID="65" xpos="713.094" ypos="-1.05479" zpos="-375.944" type="general.puzzles_de_saut.debut" GUID="i5QtIpqOKkWy/NetdS+4bg=="/>
+
+		<!-- Route -->
+		<Route MapID="65" name="Antre_de_Suspension" resetposx="713.094" resetposy="-1.05479" resetposz="-375.944" resetrange="2">
+			<POI MapID="65" xpos="727.734" ypos="-1.05479" zpos="-377.402" type="general.puzzles_de_saut.antre_de_suspension" GUID="yKIY5OxEDUC/L17zmrO0YA=="/>
+			<POI MapID="65" xpos="739.318" ypos="-1.05479" zpos="-378.42" type="general.puzzles_de_saut.antre_de_suspension" GUID="U/gIiOL0/02npDNYiak0yg=="/>
+			<POI MapID="65" xpos="749.311" ypos="-1.05479" zpos="-378.165" type="general.puzzles_de_saut.antre_de_suspension" GUID="ZrVXOtpBLUaDm3kRON3Wbg=="/>
+			<POI MapID="65" xpos="755.996" ypos="-1.05479" zpos="-365.147" type="general.puzzles_de_saut.antre_de_suspension" GUID="0/7QVAG8L0KoQpx8E6l4CA=="/>
+			<POI MapID="65" xpos="757.847" ypos="-5.59968" zpos="-349.185" type="general.puzzles_de_saut.antre_de_suspension" GUID="FaQpQKuX5EWEMgZT29vjZw=="/>
+			<POI MapID="65" xpos="760.668" ypos="-1.05622" zpos="-342.999" type="general.puzzles_de_saut.antre_de_suspension" GUID="b2OClS1iZEuwWd8XEmD6Xw=="/>
+			<POI MapID="65" xpos="766.178" ypos="1.19291" zpos="-346.218" type="general.puzzles_de_saut.antre_de_suspension" GUID="uZuNOoj2cku4f795cAOYWA=="/>
+			<POI MapID="65" xpos="761.925" ypos="1.88532" zpos="-355.735" type="general.puzzles_de_saut.antre_de_suspension" GUID="C23G1n1K8kGY+bj663zoAA=="/>
+			<POI MapID="65" xpos="756.515" ypos="4.90109" zpos="-353.373" type="general.puzzles_de_saut.antre_de_suspension" GUID="HrvGVpdIMESj/kv9N58apw=="/>
+			<POI MapID="65" xpos="755.855" ypos="5.38555" zpos="-346.027" type="general.puzzles_de_saut.antre_de_suspension" GUID="bP7IlHuxgECGsTcULg9URg=="/>
+			<POI MapID="65" xpos="754.09" ypos="7.69403" zpos="-340.982" type="general.puzzles_de_saut.antre_de_suspension" GUID="fwSMdbdYGE6z3lbNYt3IBQ=="/>
+			<POI MapID="65" xpos="756.791" ypos="10.0923" zpos="-337.976" type="general.puzzles_de_saut.antre_de_suspension" GUID="xvUgY+xlZE2rlxfwC4kKnA=="/>
+			<POI MapID="65" xpos="763.55" ypos="11.0017" zpos="-339.045" type="general.puzzles_de_saut.antre_de_suspension" GUID="lixNXHY+zkyUPd9pJ+UsKA=="/>
+			<POI MapID="65" xpos="768.845" ypos="16.2603" zpos="-343.271" type="general.puzzles_de_saut.antre_de_suspension" GUID="COQ1F+zWcEmYkc/uAGlrUw=="/>
+			<POI MapID="65" xpos="767.882" ypos="11.6393" zpos="-352.659" type="general.puzzles_de_saut.antre_de_suspension" GUID="QMO/szM5s028SVxe0I5jCQ=="/>
+			<POI MapID="65" xpos="767.565" ypos="15.4596" zpos="-355.066" type="general.puzzles_de_saut.antre_de_suspension" GUID="tf+7gwOwjUKcAylCKpNDdQ=="/>
+			<POI MapID="65" xpos="763.503" ypos="16.1205" zpos="-357.245" type="general.puzzles_de_saut.antre_de_suspension" GUID="qFZN7UG3SEKJB1XOGyfBrQ=="/>
+			<POI MapID="65" xpos="761.17" ypos="14.4747" zpos="-359.693" type="general.puzzles_de_saut.antre_de_suspension" GUID="ZabB+r/04UCEuTzADGSbkA=="/>
+			<POI MapID="65" xpos="759.674" ypos="15.3888" zpos="-364.748" type="general.puzzles_de_saut.antre_de_suspension" GUID="8J9AOjrJHUKoegXChcc6Hg=="/>
+			<POI MapID="65" xpos="758.589" ypos="14.1276" zpos="-374.208" type="general.puzzles_de_saut.antre_de_suspension" GUID="ptzJbA0kJkKJigQCsgbOOA=="/>
+			<POI MapID="65" xpos="750.792" ypos="14.0753" zpos="-375.413" type="general.puzzles_de_saut.antre_de_suspension" GUID="NoQPBrJVr06QzR2oLtkhqw=="/>
+			<POI MapID="65" xpos="748.621" ypos="10.4495" zpos="-367.886" type="general.puzzles_de_saut.antre_de_suspension" GUID="cAcIyG3HmkyY/DyyaXEYaw=="/>
+			<POI MapID="65" xpos="750.002" ypos="13.0276" zpos="-359.954" type="general.puzzles_de_saut.antre_de_suspension" GUID="0sRaB98iw0qpHBv01jRGIQ=="/>
+			<POI MapID="65" xpos="748.172" ypos="14.0284" zpos="-356.654" type="general.puzzles_de_saut.antre_de_suspension" GUID="4aFvrPVFYE6L8lILKitxJQ=="/>
+			<POI MapID="65" xpos="747.465" ypos="11.8267" zpos="-349.409" type="general.puzzles_de_saut.antre_de_suspension" GUID="WPDZpkLlnE2TSuiRMn+UAQ=="/>
+			<POI MapID="65" xpos="751.693" ypos="13.5529" zpos="-349.059" type="general.puzzles_de_saut.antre_de_suspension" GUID="L2pQpiijUkig6Ee1knGRrw=="/>
+			<POI MapID="65" xpos="751.783" ypos="15.4375" zpos="-343.974" type="general.puzzles_de_saut.antre_de_suspension" GUID="mq+9keGtdECpRETKjcRzJA=="/>
+			<POI MapID="65" xpos="749.362" ypos="18.4285" zpos="-340.99" type="general.puzzles_de_saut.antre_de_suspension" GUID="pIjq9PNUN0OimhEg+139Rg=="/>
+			<POI MapID="65" xpos="753.085" ypos="20.3759" zpos="-336.324" type="general.puzzles_de_saut.antre_de_suspension" GUID="9oBj1SieZEeedSOQbtZVfw=="/>
+			<POI MapID="65" xpos="757.606" ypos="24.8537" zpos="-335.438" type="general.puzzles_de_saut.antre_de_suspension" GUID="kNR3IXUiekWb1AJDRIMxvw=="/>
+			<POI MapID="65" xpos="760.008" ypos="26.8125" zpos="-339.791" type="general.puzzles_de_saut.antre_de_suspension" GUID="WkRsfi+qx0y4pV3asFppug=="/>
+			<POI MapID="65" xpos="758.656" ypos="24.7291" zpos="-349.637" type="general.puzzles_de_saut.antre_de_suspension" GUID="JmqII14aj0KYythDSwwYfQ=="/>
+			<POI MapID="65" xpos="760.448" ypos="24.3845" zpos="-354.072" type="general.puzzles_de_saut.antre_de_suspension" GUID="yVF3nwKLB0SpTg+fJPdD5A=="/>
+			<POI MapID="65" xpos="759.121" ypos="24.6772" zpos="-360.544" type="general.puzzles_de_saut.antre_de_suspension" GUID="oNMzB6cJf0KHLKIZUdcOog=="/>
+			<POI MapID="65" xpos="761.212" ypos="28.5304" zpos="-370.956" type="general.puzzles_de_saut.antre_de_suspension" GUID="xcdwc8FA206vcXMklSIS9g=="/>
+			<POI MapID="65" xpos="757.888" ypos="30.1953" zpos="-372.382" type="general.puzzles_de_saut.antre_de_suspension" GUID="bUkFwiwCaUagcFP92+7izg=="/>
+			<POI MapID="65" xpos="755.897" ypos="31.9087" zpos="-375.746" type="general.puzzles_de_saut.antre_de_suspension" GUID="Hc/Ffn2Lu0OFlPTEaVcsLg=="/>
+			<POI MapID="65" xpos="754.936" ypos="34.1025" zpos="-380.838" type="general.puzzles_de_saut.antre_de_suspension" GUID="cFsKjD/BaUeI/Cs9yImf0g=="/>
+			<POI MapID="65" xpos="750.882" ypos="35.5278" zpos="-380.623" type="general.puzzles_de_saut.antre_de_suspension" GUID="u4Eo+0+6Y0ScEr52s1USmw=="/>
+			<POI MapID="65" xpos="748.36" ypos="36.1755" zpos="-374.678" type="general.puzzles_de_saut.antre_de_suspension" GUID="jlC+3lS7i0q6AfZm4zI8yA=="/>
+			<POI MapID="65" xpos="750.517" ypos="38.375" zpos="-367.068" type="general.puzzles_de_saut.antre_de_suspension" GUID="GFGl90Xdqk+P/NN80MwpUg=="/>
+			<POI MapID="65" xpos="750.457" ypos="38.9963" zpos="-359.36" type="general.puzzles_de_saut.antre_de_suspension" GUID="boB4bUPSm0CRc7jtbKoH6g=="/>
+			<POI MapID="65" xpos="751.52" ypos="36.7395" zpos="-352.19" type="general.puzzles_de_saut.antre_de_suspension" GUID="w6/lPjE3rUef+E6t4/eBbw=="/>
+			<POI MapID="65" xpos="755.796" ypos="35.7069" zpos="-349.517" type="general.puzzles_de_saut.antre_de_suspension" GUID="AZwzp0W8iki4/+sOokBttg=="/>
+			<POI MapID="65" xpos="763.976" ypos="34.3616" zpos="-346.435" type="general.puzzles_de_saut.antre_de_suspension" GUID="MByQ2aJcJE6b1QmjhHNhzQ=="/>
+			<POI MapID="65" xpos="768.805" ypos="35.4249" zpos="-342.097" type="general.puzzles_de_saut.antre_de_suspension" GUID="BisVRrw8OUWp1Ld16AflVA=="/>
+			<POI MapID="65" xpos="767.663" ypos="36.6192" zpos="-335.779" type="general.puzzles_de_saut.antre_de_suspension" GUID="AvGP/1g3gEy/o9F4TY3Ubw=="/>
+			<POI MapID="65" xpos="756.56" ypos="39.4808" zpos="-336.815" type="general.puzzles_de_saut.antre_de_suspension" GUID="pkQWTxf3KUatq9msqUJ/Sg=="/>
+			<POI MapID="65" xpos="751.628" ypos="41.3329" zpos="-343.669" type="general.puzzles_de_saut.antre_de_suspension" GUID="IJm6saqZukKRh/FG0/ETxQ=="/>
+			<POI MapID="65" xpos="749.056" ypos="42.9979" zpos="-351.125" type="general.puzzles_de_saut.antre_de_suspension" GUID="kRt79EXIgk6C/Wj5JeXvNA=="/>
+			<POI MapID="65" xpos="753.178" ypos="43.2358" zpos="-358.276" type="general.puzzles_de_saut.antre_de_suspension" GUID="AYP0h8O0qkS002zFWIMgag=="/>
+			<POI MapID="65" xpos="758.921" ypos="44.7123" zpos="-362.02" type="general.puzzles_de_saut.antre_de_suspension" GUID="xXOHbHFtxEK/c0vHDdPY7Q=="/>
+			<POI MapID="65" xpos="757.137" ypos="46.721" zpos="-367.007" type="general.puzzles_de_saut.antre_de_suspension" GUID="NV6dXGvuPUGxfS9HnIRW4Q=="/>
+			<POI MapID="65" xpos="753.524" ypos="46.6671" zpos="-369.356" type="general.puzzles_de_saut.antre_de_suspension" GUID="Cn1QPvs4zUCmx3rS9vUv4g=="/>
+		</Route>
+
+		<!-- Coffre -->
+		<POI MapID="65" xpos="754.88" ypos="47.97" zpos="-375.07" type="general.puzzles_de_saut.antre_de_suspension" GUID="3ikd+9fD4U24nts5Nv6lyg==" iconFile="Img\CoffrePuzzle.png" iconSize="1" heightOffset="2" behavior="2"/>
+
+	</POIs>
+</OverlayData>

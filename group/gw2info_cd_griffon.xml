@@ -1,0 +1,100 @@
+<OverlayData>
+	<MarkerCategory name="crystal" DisplayName="Crystal Desert">
+		<MarkerCategory name="riverlands" DisplayName="Elon Riverlands">
+			<MarkerCategory name="shadi" DisplayName="Shadi's Armor" iconFile="Data/gw2info/armor.png" behavior="3" iconSize="1.0" triggerRange="5" fadeNear="300" fadeFar="25000"></MarkerCategory>
+		</MarkerCategory>
+		<MarkerCategory name="griffon" DisplayName="Griffon Mount">
+			<MarkerCategory name="oasis" DisplayName="Open Skies: Crystal Oasis">
+				<MarkerCategory name="vendor" DisplayName="Vendor" iconFile="Data/gw2info/griffon_vendor.png" behavior="3" iconSize="1.0" triggerRange="5" fadeNear="300" fadeFar="25000"></MarkerCategory>
+				<MarkerCategory name="egg" DisplayName="Egg" iconFile="Data/gw2info/griffon_egg.png" behavior="3" iconSize="1.0" triggerRange="5" fadeNear="300" fadeFar="25000"></MarkerCategory>
+				<MarkerCategory name="event" DisplayName="Event" iconFile="Data/gw2info/griffon_event.png" behavior="3" iconSize="1.0" triggerRange="5" fadeNear="300" fadeFar="25000"></MarkerCategory>
+			</MarkerCategory>
+			<MarkerCategory name="highlands" DisplayName="Open Skies: Desert Highlands">
+				<MarkerCategory name="vendor" DisplayName="Vendor" iconFile="Data/gw2info/griffon_vendor.png" behavior="3" iconSize="1.0" triggerRange="5" fadeNear="300" fadeFar="25000"></MarkerCategory>
+				<MarkerCategory name="egg" DisplayName="Egg" iconFile="Data/gw2info/griffon_egg.png" behavior="3" iconSize="1.0" triggerRange="5" fadeNear="300" fadeFar="25000"></MarkerCategory>
+				<MarkerCategory name="event" DisplayName="Event" iconFile="Data/gw2info/griffon_event.png" behavior="3" iconSize="1.0" triggerRange="5" fadeNear="300" fadeFar="25000"></MarkerCategory>
+			</MarkerCategory>
+			<MarkerCategory name="riverlands" DisplayName="Open Skies: Elon Riverlands">
+				<MarkerCategory name="vendor" DisplayName="Vendor" iconFile="Data/gw2info/griffon_vendor.png" behavior="3" iconSize="1.0" triggerRange="5" fadeNear="300" fadeFar="25000"></MarkerCategory>
+				<MarkerCategory name="egg" DisplayName="Egg" iconFile="Data/gw2info/griffon_egg.png" behavior="3" iconSize="1.0" triggerRange="5" fadeNear="300" fadeFar="25000"></MarkerCategory>
+				<MarkerCategory name="event" DisplayName="Event" iconFile="Data/gw2info/griffon_event.png" behavior="3" iconSize="1.0" triggerRange="5" fadeNear="300" fadeFar="25000"></MarkerCategory>
+			</MarkerCategory>
+			<MarkerCategory name="desolation" DisplayName="Open Skies: The Desolation">
+				<MarkerCategory name="vendor" DisplayName="Vendor" iconFile="Data/gw2info/griffon_vendor.png" behavior="3" iconSize="1.0" triggerRange="5" fadeNear="300" fadeFar="25000"></MarkerCategory>
+				<MarkerCategory name="egg" DisplayName="Egg" iconFile="Data/gw2info/griffon_egg.png" behavior="3" iconSize="1.0" triggerRange="5" fadeNear="300" fadeFar="25000"></MarkerCategory>
+				<MarkerCategory name="event" DisplayName="Event" iconFile="Data/gw2info/griffon_event.png" behavior="3" iconSize="1.0" triggerRange="5" fadeNear="300" fadeFar="25000"></MarkerCategory>
+				<MarkerCategory name="rune" DisplayName="Rune" iconFile="Data/gw2info/griffon_rune.png" behavior="3" iconSize="1.0" triggerRange="5" fadeNear="300" fadeFar="25000"></MarkerCategory>
+			</MarkerCategory>
+			<MarkerCategory name="vabbi" DisplayName="Open Skies: Domain of Vabbi">
+				<MarkerCategory name="vendor" DisplayName="Vendor" iconFile="Data/gw2info/griffon_vendor.png" behavior="3" iconSize="1.0" triggerRange="5" fadeNear="300" fadeFar="25000"></MarkerCategory>
+				<MarkerCategory name="egg" DisplayName="Egg" iconFile="Data/gw2info/griffon_egg.png" behavior="3" iconSize="1.0" triggerRange="5" fadeNear="300" fadeFar="25000"></MarkerCategory>
+				<MarkerCategory name="event" DisplayName="Event" iconFile="Data/gw2info/griffon_event.png" behavior="3" iconSize="1.0" triggerRange="5" fadeNear="300" fadeFar="25000"></MarkerCategory>
+			</MarkerCategory>
+			<MarkerCategory name="wisdom" DisplayName="Open Skies: Sunspear Wisdom" iconFile="Data/gw2info/griffon_wisdom.png" behavior="3" iconSize="1.0" triggerRange="5" fadeNear="300" fadeFar="25000"></MarkerCategory>
+		</MarkerCategory>
+	</MarkerCategory>
+	<POIs>
+		<POI MapID="1210" xpos="1235.86" ypos="318.138" zpos="454.307" type="crystal.griffon.oasis.egg" GUID="9mv7CvArLkSgqZkim2+6LQ=="/>
+		<POI MapID="1210" xpos="566.231" ypos="278.34" zpos="378.318" type="crystal.griffon.oasis.egg" GUID="MuCEfNVRAUuKrHMzMTaCnQ=="/>
+		<POI MapID="1210" xpos="744.692" ypos="159.884" zpos="-496.509" type="crystal.griffon.oasis.egg" GUID="QtitIDDfH0WTzxXY3UvXwg=="/>
+		<POI MapID="1210" xpos="169.221" ypos="170.597" zpos="624.462" type="crystal.griffon.oasis.egg" GUID="RDWfgBolyUOI+hKmF1sHYw=="/>
+		<POI MapID="1210" xpos="1227.15" ypos="189.178" zpos="446.086" type="crystal.griffon.oasis.event" GUID="IedMAyOU8Eaenm9uuPeT5w=="/>
+		<POI MapID="1210" xpos="708.239" ypos="124.098" zpos="111.038" type="crystal.griffon.oasis.vendor" GUID="f+rNaNtSs0+EIDxuIIf5rw=="/>
+		<POI MapID="1210" xpos="-353.394" ypos="8.65238" zpos="-345.025" type="crystal.griffon.oasis.vendor" GUID="9GBDbRSqBkepmc+VKXFBUg=="/>
+
+		<POI MapID="1211" xpos="96.1053" ypos="115.458" zpos="-530.95" type="crystal.griffon.highlands.event" GUID="jEmFBDv2ZEy9sVpRpqaWYA=="/>
+		<POI MapID="1211" xpos="606.897" ypos="142.743" zpos="-674.578" type="crystal.griffon.highlands.event" GUID="3+6hl099Ak+k76ZnFW7thQ=="/>
+		<POI MapID="1211" xpos="540.938" ypos="148.187" zpos="-620.297" type="crystal.griffon.highlands.vendor" GUID="a6QMoqeBh0GvDKkhmxCGOg=="/>
+		<POI MapID="1211" xpos="498.813" ypos="194.974" zpos="232.2" type="crystal.griffon.highlands.vendor" GUID="9TCrt2M8jk6/xm4bORpWeg=="/>
+		<POI MapID="1211" xpos="-183.829" ypos="292.112" zpos="-127.751" type="crystal.griffon.highlands.egg" GUID="Njy+ajSxe0azyELaa8NvTA=="/>
+		<POI MapID="1211" xpos="130.862" ypos="250.403" zpos="-358.31" type="crystal.griffon.highlands.egg" GUID="HK3I3fIaG0mOhT+8mtFibw=="/>
+		<POI MapID="1211" xpos="-599.61" ypos="340.061" zpos="124.343" type="crystal.griffon.highlands.egg" GUID="m2jWqv644kK8U63LzpWVgA=="/>
+		<POI MapID="1211" xpos="-992.823" ypos="234.38" zpos="-350.307" type="crystal.griffon.highlands.egg" GUID="6eeCrqSmT0i5FP7Yx486EQ=="/>
+		<POI MapID="1211" xpos="35.7746" ypos="335.923" zpos="215.51" type="crystal.griffon.highlands.egg" GUID="iFeoMGvcTkmdfV17eyetOg=="/>
+
+		<POI MapID="1228" xpos="-1029.31" ypos="16.1822" zpos="-618.403" type="crystal.griffon.riverlands.event" GUID="OvS415u3GkOAgznyMzjedQ=="/>
+		<POI MapID="1228" xpos="480.757" ypos="102.088" zpos="908.985" type="crystal.griffon.riverlands.vendor" GUID="oy/bZAZubEm3deSQ6dgMuA=="/>
+		<POI MapID="1228" xpos="-833.538" ypos="99.3072" zpos="890.79" type="crystal.griffon.riverlands.event" GUID="nBPGDv5e40ucbboZUzWFmg=="/>
+		<POI MapID="1228" xpos="382.101" ypos="45.015" zpos="153.434" type="crystal.griffon.riverlands.vendor" GUID="orePLR4zfEeljqWr0tos+w=="/>
+		<POI MapID="1228" xpos="241.608" ypos="2.66159" zpos="-173.761" type="crystal.griffon.riverlands.event" GUID="OOuNY5uXDkOJUUt4FmU+Pg=="/>
+		<POI MapID="1228" xpos="462.811" ypos="1.44802" zpos="-813.855" type="crystal.griffon.riverlands.event" GUID="8BS3eQRAskuKzFfM9F5msQ=="/>
+		<POI MapID="1228" xpos="-35.8605" ypos="125.576" zpos="51.6881" type="crystal.griffon.riverlands.egg" GUID="0hKHA/xaiE6vTgTPoIsTPw=="/>
+		<POI MapID="1228" xpos="-387.27" ypos="93.6552" zpos="-282.213" type="crystal.griffon.riverlands.egg" GUID="fzeP3Yf1zE6lWItKQMnQSw=="/>
+		<POI MapID="1228" xpos="328.782" ypos="85.7235" zpos="-119.906" type="crystal.griffon.riverlands.egg" GUID="Ck4+v+R8bEqpqXC+hYboHg=="/>
+
+		<POI MapID="1226" xpos="896.951" ypos="253.221" zpos="-198.214" type="crystal.griffon.desolation.vendor" GUID="PMgrVV+msU6X7b9u05smKA=="/>
+		<POI MapID="1226" xpos="205.491" ypos="7.44792" zpos="1329.44" type="crystal.griffon.desolation.vendor" GUID="EHwjVg2xTEe0u8sDQubS4g=="/>
+		<POI MapID="1226" xpos="-671.534" ypos="312.644" zpos="366.724" type="crystal.griffon.desolation.rune" GUID="TPr1eX/crkebxqbJ+xq6mw=="/>
+		<POI MapID="1226" xpos="-418.592" ypos="284.615" zpos="53.4381" type="crystal.griffon.desolation.event" GUID="quXgYVvLO067VRl4v+tC+w=="/>
+		<POI MapID="1226" xpos="227.93" ypos="420.075" zpos="-77.7077" type="crystal.griffon.desolation.egg" GUID="IWRYUYXVKEKiudzQaoOZ8g=="/>
+		<POI MapID="1226" xpos="329.671" ypos="391.22" zpos="180.782" type="crystal.griffon.desolation.egg" GUID="Puiikn3WzkG6MQk8y/oPtQ=="/>
+		<POI MapID="1226" xpos="-129.428" ypos="325.092" zpos="145.803" type="crystal.griffon.desolation.egg" GUID="DbF36Do230+iW32KPLZcqg=="/>
+		<POI MapID="1226" xpos="4.77407" ypos="347.75" zpos="463.855" type="crystal.griffon.desolation.egg" GUID="t062lkPnDkiD57DfiesmJQ=="/>
+
+		<POI MapID="1248" xpos="1411.38" ypos="275.225" zpos="-805.475" type="crystal.griffon.vabbi.egg" GUID="yCflwzVi/Uy8OJhR4LnR8w=="/>
+		<POI MapID="1248" xpos="1287.79" ypos="281.474" zpos="-518.237" type="crystal.griffon.vabbi.egg" GUID="5DMHvihvg0i9sdiMl7gp3Q=="/>
+		<POI MapID="1248" xpos="1318.2" ypos="210.259" zpos="-128.102" type="crystal.griffon.vabbi.egg" GUID="Bgz0WP+J00mDI8hEs2uESQ=="/>
+		<POI MapID="1248" xpos="989.271" ypos="199.595" zpos="-550.016" type="crystal.griffon.vabbi.egg" GUID="ymT8YzYt00a+G+bGSqw62g=="/>
+		<POI MapID="1248" xpos="266.674" ypos="92.6667" zpos="-659.869" type="crystal.griffon.vabbi.event" GUID="u1ZGf6HkmUiyuuebGaIZcw=="/>
+		<POI MapID="1248" xpos="353.405" ypos="92.8058" zpos="-536.134" type="crystal.griffon.vabbi.event" GUID="ESi5SYjRgUSVTgJ1dfPZIA=="/>
+		<POI MapID="1248" xpos="-1215.93" ypos="62.9617" zpos="92.8758" type="crystal.griffon.desolation.vendor" GUID="098uOrwJJ0Oah5HeKntndQ=="/>
+		<POI MapID="1248" xpos="208.699" ypos="66.0437" zpos="-687.733" type="crystal.griffon.vabbi.vendor" GUID="CxA/7Nd+P0u5OCGo8yvi9g=="/>
+
+		<POI MapID="1256" xpos="444.143" ypos="14.0106" zpos="331.741" type="crystal.griffon.wisdom" GUID="I2iYkRc9Ikane7NHZfe2EA=="/>
+		<POI MapID="1256" xpos="425.889" ypos="2.95663" zpos="201.762" type="crystal.griffon.wisdom" GUID="aAXW+rZR8Ee24pv6OXyi5Q=="/>
+		<POI MapID="1256" xpos="456.007" ypos="2.62153" zpos="-4.33525" type="crystal.griffon.wisdom" GUID="pDE0CVT/qUqVLYXGsYnNWw=="/>
+		<POI MapID="1256" xpos="682.137" ypos="3.61071" zpos="-82.6044" type="crystal.griffon.wisdom" GUID="xCWTxCHpKEKO2Et3K5PkAA=="/>
+		<POI MapID="1256" xpos="801.894" ypos="2.75632" zpos="364.573" type="crystal.griffon.wisdom" GUID="mUYOF58G6U6dujp9rjsy9A=="/>
+		<POI MapID="1256" xpos="710.29" ypos="16.3648" zpos="337.525" type="crystal.griffon.wisdom" GUID="v++JMc4RoUC7tYX47jZd2Q=="/>
+		<POI MapID="1256" xpos="416.985" ypos="147.709" zpos="194.898" type="crystal.griffon.wisdom" GUID="kRxSRLbVj0ylCV3IkmPJpA=="/>
+		<POI MapID="1256" xpos="748.226" ypos="141.024" zpos="207.054" type="crystal.griffon.wisdom" GUID="LErcGx5S3kiHQE1k5fFURw=="/>
+		<POI MapID="1256" xpos="675.775" ypos="129.234" zpos="158.781" type="crystal.griffon.wisdom" GUID="F3gXrgzKxUeybjr7Zln5jg=="/>
+		<POI MapID="1256" xpos="561.543" ypos="141.715" zpos="242.137" type="crystal.griffon.wisdom" GUID="K/azY+XQnEi+UcYGCVFEzw=="/>
+		
+		<POI MapID="1228" xpos="-343.31" ypos="4.93279" zpos="176.202" type="crystal.riverlands.shadi" GUID="FWEBsW3fS0GpXL7bmZo6/w=="/>
+		<POI MapID="1228" xpos="-780.162" ypos="108.689" zpos="998.063" type="crystal.riverlands.shadi" GUID="x/RcH2WQ30mwRqPHW6oFcw=="/>
+		<POI MapID="1228" xpos="-593.049" ypos="26.6602" zpos="-343.203" type="crystal.riverlands.shadi" GUID="JQGCKqn2tEKfKpHgeCcj8g=="/>
+		<POI MapID="1228" xpos="-985.567" ypos="42.2137" zpos="279.538" type="crystal.riverlands.shadi" GUID="t2uYKcyD0Ee6aaxhJiyNqg=="/>
+		<POI MapID="1228" xpos="1036.51" ypos="58.1634" zpos="736.228" type="crystal.riverlands.shadi" GUID="IQB3WzoM0EaAxxpdCW4hFg=="/>
+	</POIs>
+</OverlayData>

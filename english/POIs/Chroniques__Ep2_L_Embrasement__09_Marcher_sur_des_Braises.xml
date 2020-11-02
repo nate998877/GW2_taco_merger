@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+POIs: ReActif.9251
+Date: 2017/03/01
+-->
+<OverlayData>
+	<MarkerCategory name="chroniques.saison_3">
+		<MarkerCategory name="ep2_l_embrasement" DisplayName="Ep.2 - Rising Flames" iconFile="Img\BaieDesBraises.png">
+			<MarkerCategory name="marcher_sur_des_braises" DisplayName="Walking on Fire" iconFile="Img\Guide.png" iconSize="0.75" behavior="0">
+				<MarkerCategory name="debut" DisplayName="Start" iconFile="Img\Fleche.png" iconSize="1.5"/>
+			</MarkerCategory>
+		</MarkerCategory>
+	</MarkerCategory>
+
+	<POIs>
+
+		<!-- Début -->
+		<POI MapID="1175" xpos="52.32" ypos="15" zpos="-273.14" type="chroniques.saison_3.ep2_l_embrasement.marcher_sur_des_braises.debut" GUID="Nd7MXv+zOkaT2LK6UTwPeQ=="/>
+
+		<!-- Route -->
+		<Route MapID="1175" name="Marcher_sur_des_Braises" resetposx="52.32" resetposy="18" resetposz="-273.14" resetrange="2">
+			<POI MapID="1175" xpos="55.95" ypos="15" zpos="-262.41" type="chroniques.saison_3.ep2_l_embrasement.marcher_sur_des_braises" GUID="fIA3DOhHZ0ah3gcf+QQ69g==" triggerRange="2"/>
+			<POI MapID="1175" xpos="59.36" ypos="13" zpos="-249.11" type="chroniques.saison_3.ep2_l_embrasement.marcher_sur_des_braises" GUID="tBv/wXFVMUuo756pCxGG9g==" triggerRange="2"/>
+			<POI MapID="1175" xpos="60.92" ypos="13" zpos="-239.98" type="chroniques.saison_3.ep2_l_embrasement.marcher_sur_des_braises" GUID="gdp5/TyUlEOG6pjAY9S7Lw==" triggerRange="2"/>
+			<POI MapID="1175" xpos="61.97" ypos="15" zpos="-227.46" type="chroniques.saison_3.ep2_l_embrasement.marcher_sur_des_braises" GUID="7SLaw1n//0yHPcaF8UL91g==" triggerRange="2"/>
+			<POI MapID="1175" xpos="64.92" ypos="18" zpos="-213.06" type="chroniques.saison_3.ep2_l_embrasement.marcher_sur_des_braises" GUID="Iak95FJOeUuBPw/jZ2+noA==" triggerRange="2"/>
+			<POI MapID="1175" xpos="63.12" ypos="14" zpos="-203.39" type="chroniques.saison_3.ep2_l_embrasement.marcher_sur_des_braises" GUID="m8RDhqY99Ea+8OKJVsUoig==" triggerRange="2"/>
+			<POI MapID="1175" xpos="62.97" ypos="15" zpos="-195.93" type="chroniques.saison_3.ep2_l_embrasement.marcher_sur_des_braises" GUID="onbalURmg0WUbej5sMDZ/w==" triggerRange="2"/>
+			<POI MapID="1175" xpos="65.64" ypos="17" zpos="-187.75" type="chroniques.saison_3.ep2_l_embrasement.marcher_sur_des_braises" GUID="ULeC+azsTkyt2AEUmUpyrw==" triggerRange="2"/>
+			<POI MapID="1175" xpos="70.11" ypos="13" zpos="-179.65" type="chroniques.saison_3.ep2_l_embrasement.marcher_sur_des_braises" GUID="0MI0K3wDl0ea6yx/cCyPHA==" triggerRange="2"/>
+			<POI MapID="1175" xpos="74.19" ypos="16" zpos="-172.33" type="chroniques.saison_3.ep2_l_embrasement.marcher_sur_des_braises" GUID="x2nkjJMWbkKhQd3OMw2VvQ==" triggerRange="2"/>
+			<POI MapID="1175" xpos="79.22" ypos="13" zpos="-165.66" type="chroniques.saison_3.ep2_l_embrasement.marcher_sur_des_braises" GUID="B4Q3XaMZMkenuXmuaZguYg==" triggerRange="2"/>
+			<POI MapID="1175" xpos="87.05" ypos="15" zpos="-155.48" type="chroniques.saison_3.ep2_l_embrasement.marcher_sur_des_braises" GUID="AyLo8l93hEaLnopq0aLjvA==" triggerRange="2"/>
+			<POI MapID="1175" xpos="88.66" ypos="19" zpos="-146.86" type="chroniques.saison_3.ep2_l_embrasement.marcher_sur_des_braises" GUID="YwuLWNNtVECs1zu+GqnNiw==" triggerRange="2"/>
+			<POI MapID="1175" xpos="91.48" ypos="16" zpos="-139.62" type="chroniques.saison_3.ep2_l_embrasement.marcher_sur_des_braises" GUID="3DsMKVYx3k6GwP4iP9Gu7Q==" triggerRange="2"/>
+			<POI MapID="1175" xpos="87.13" ypos="21" zpos="-129.93" type="chroniques.saison_3.ep2_l_embrasement.marcher_sur_des_braises" GUID="zOgeuwOiaE+g07mt68tLiQ==" triggerRange="2"/>
+			<POI MapID="1175" xpos="76.24" ypos="25" zpos="-121.09" type="chroniques.saison_3.ep2_l_embrasement.marcher_sur_des_braises" GUID="pI3xJKNU1UKhD1M57CQrMg==" triggerRange="2"/>
+			<POI MapID="1175" xpos="64.43" ypos="22" zpos="-112.71" type="chroniques.saison_3.ep2_l_embrasement.marcher_sur_des_braises" GUID="Dkkq4NblRkuQzhzAszC/+Q==" triggerRange="2"/>
+			<POI MapID="1175" xpos="57.72" ypos="30" zpos="-105.06" type="chroniques.saison_3.ep2_l_embrasement.marcher_sur_des_braises" GUID="VDqnCKxKPkCluBwHiVabmg==" triggerRange="2"/>
+			<POI MapID="1175" xpos="58.09" ypos="26" zpos="-92.39" type="chroniques.saison_3.ep2_l_embrasement.marcher_sur_des_braises" GUID="8ytEtdsbKkemBvAw2mB0rA==" triggerRange="2"/>
+			<POI MapID="1175" xpos="59.19" ypos="34" zpos="-84.63" type="chroniques.saison_3.ep2_l_embrasement.marcher_sur_des_braises" GUID="hLjwDQkh7U2fIn0txb4QfA==" triggerRange="2"/>
+		</Route>
+
+		<!-- Arrivée -->
+		<POI MapID="1175" xpos="61.98" ypos="36" zpos="-76.57" type="chroniques.saison_3.ep2_l_embrasement.marcher_sur_des_braises" GUID="ozpLyiC1UE6vsgxNySscLw==" iconFile="Img\BaieDesBraises.png" iconSize="1.5"/>
+
+	</POIs>
+</OverlayData>

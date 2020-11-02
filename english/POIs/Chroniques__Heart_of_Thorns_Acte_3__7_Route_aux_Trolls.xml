@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+POIs: ReActif.9251
+Date: 2017/03/02
+-->
+<OverlayData>
+	<MarkerCategory name="chroniques.hot">
+		<MarkerCategory name="acte_3" DisplayName="Heart of Thorns : Act 3" iconFile="Img\HeartOfThornsActe3.png">
+			<MarkerCategory name="route_aux_trolls" DisplayName="The Troll Road" iconSize="1.5">
+				<MarkerCategory name="trajet" DisplayName="Guide" iconFile="Img\Guide.png" iconSize="0.75" heightOffset="0" behavior="0"/>
+			</MarkerCategory>
+		</MarkerCategory>
+	</MarkerCategory>
+
+	<POIs>
+
+		<!-- Entrée (Succès) -->
+		<POI MapID="1046" xpos="-650.41" ypos="73.02" zpos="-49.65" type="chroniques.hot.acte_3.route_aux_trolls" GUID="bvd0q/k6rUiOMdgL+pP3Kg=="/>
+
+		<!-- Route -->
+		<Route MapID="1046" name="RouteAuxTrolls" resetposx="-650.41" resetposy="73.02" resetposz="-49.65" resetrange="1">
+			<POI MapID="1046" xpos="-656.598" ypos="72.9543" zpos="-48.4218" type="chroniques.hot.acte_3.route_aux_trolls.trajet" GUID="L9MyICGy306roWAUD5570Q=="/>
+			<POI MapID="1046" xpos="-662.537" ypos="72.4154" zpos="-47.7416" type="chroniques.hot.acte_3.route_aux_trolls.trajet" GUID="iXB3HwDtVkya6jWpCgAkgg=="/>
+			<POI MapID="1046" xpos="-669.875" ypos="71.1085" zpos="-46.6346" type="chroniques.hot.acte_3.route_aux_trolls.trajet" GUID="OaHMF3ZOlUKop1Z6XWfakg=="/>
+			<POI MapID="1046" xpos="-676.88" ypos="71.7468" zpos="-45.9226" type="chroniques.hot.acte_3.route_aux_trolls.trajet" GUID="R7hOjQi3g0aE65ancq2ZxA=="/>
+			<POI MapID="1046" xpos="-683.745" ypos="73.3231" zpos="-45.7503" type="chroniques.hot.acte_3.route_aux_trolls.trajet" GUID="kFAQxQTq8keRqU4+pYOfPQ=="/>
+			<POI MapID="1046" xpos="-689.83" ypos="75.1681" zpos="-45.8513" type="chroniques.hot.acte_3.route_aux_trolls.trajet" GUID="BIKJsOGZ6kmAPRQ6iUsijA=="/>
+			<POI MapID="1046" xpos="-696.275" ypos="76.9155" zpos="-46.4458" type="chroniques.hot.acte_3.route_aux_trolls.trajet" GUID="gXKmaLWCZEWMYYz+SChjzw=="/>
+			<POI MapID="1046" xpos="-703.619" ypos="77.9626" zpos="-47.1975" type="chroniques.hot.acte_3.route_aux_trolls.trajet" GUID="TivX620zqEul23sOL4y+Qw=="/>
+			<POI MapID="1046" xpos="-708.462" ypos="78.1414" zpos="-47.4653" type="chroniques.hot.acte_3.route_aux_trolls.trajet" GUID="kjcmTwG0FEydP0plcEj8mw=="/>
+			<POI MapID="1046" xpos="-713.115" ypos="77.958" zpos="-47.6734" type="chroniques.hot.acte_3.route_aux_trolls.trajet" GUID="Uw/zrB0W80GzZpx/N3dY1g=="/>
+			<POI MapID="1046" xpos="-718.503" ypos="76.9144" zpos="-47.9182" type="chroniques.hot.acte_3.route_aux_trolls.trajet" GUID="j8j2Nyw7D0+0pU6QZn55ag=="/>
+			<POI MapID="1046" xpos="-724.445" ypos="75.7387" zpos="-48.2011" type="chroniques.hot.acte_3.route_aux_trolls.trajet" GUID="r8c3+RkCZkqgYEIgEiWuyw=="/>
+			<POI MapID="1046" xpos="-730.037" ypos="75.8622" zpos="-48.5087" type="chroniques.hot.acte_3.route_aux_trolls.trajet" GUID="YAInCivuX0uskA9DHh9++g=="/>
+			<POI MapID="1046" xpos="-735.832" ypos="76.6387" zpos="-48.8534" type="chroniques.hot.acte_3.route_aux_trolls.trajet" GUID="I43CaFjIoEaAQhC1rz5iNw=="/>
+			<POI MapID="1046" xpos="-741.268" ypos="75.3316" zpos="-48.9275" type="chroniques.hot.acte_3.route_aux_trolls.trajet" GUID="celyO9kriEiwn2XD5icQyg=="/>
+			<POI MapID="1046" xpos="-747.093" ypos="73.2649" zpos="-48.5364" type="chroniques.hot.acte_3.route_aux_trolls.trajet" GUID="FAAhz+tm/U2c6GvO60b8cg=="/>
+			<POI MapID="1046" xpos="-753.59" ypos="71.84" zpos="-47.9087" type="chroniques.hot.acte_3.route_aux_trolls.trajet" GUID="e4XS6mgZhkS+XZ61w5CyUQ=="/>
+			<POI MapID="1046" xpos="-759.592" ypos="70.4487" zpos="-47.7461" type="chroniques.hot.acte_3.route_aux_trolls.trajet" GUID="YhSAe0hAg0+Rb+c1sx4Jug=="/>
+			<POI MapID="1046" xpos="-766.201" ypos="68.5853" zpos="-49.6335" type="chroniques.hot.acte_3.route_aux_trolls.trajet" GUID="15DVrbJlXkWXBcjfdcCv/w=="/>
+			<POI MapID="1046" xpos="-772.019" ypos="68.7349" zpos="-53.5193" type="chroniques.hot.acte_3.route_aux_trolls.trajet" GUID="uOELPVC9ike5qhdP7Eyr1A=="/>
+			<POI MapID="1046" xpos="-775.532" ypos="69.6558" zpos="-59.5606" type="chroniques.hot.acte_3.route_aux_trolls.trajet" GUID="4ntykf97hkGdZCyaD0cilQ=="/>
+			<POI MapID="1046" xpos="-776.735" ypos="71.0954" zpos="-66.681" type="chroniques.hot.acte_3.route_aux_trolls.trajet" GUID="NcHZ21M0BUWCKDcE4PLVNQ=="/>
+			<POI MapID="1046" xpos="-776.656" ypos="73.6273" zpos="-72.4548" type="chroniques.hot.acte_3.route_aux_trolls.trajet" GUID="GH150uFA8kSSwRw0MoJZrA=="/>
+			<POI MapID="1046" xpos="-777.919" ypos="75.8702" zpos="-76.9249" type="chroniques.hot.acte_3.route_aux_trolls.trajet" GUID="xq/FSjqyUUizZL1yE2D8Lg=="/>
+			<POI MapID="1046" xpos="-782.486" ypos="77.7676" zpos="-79.1626" type="chroniques.hot.acte_3.route_aux_trolls.trajet" GUID="kJr/X+10k0yAdx9fZtglLA=="/>
+			<POI MapID="1046" xpos="-788.064" ypos="79.7054" zpos="-78.5454" type="chroniques.hot.acte_3.route_aux_trolls.trajet" GUID="qO4LToZz8kW1H4YobzQfzQ=="/>
+			<POI MapID="1046" xpos="-792.547" ypos="82.217" zpos="-76.455" type="chroniques.hot.acte_3.route_aux_trolls.trajet" GUID="xjfk9adEm0CC+2E3lAhOyg=="/>
+			<POI MapID="1046" xpos="-795.65" ypos="84.2214" zpos="-71.3582" type="chroniques.hot.acte_3.route_aux_trolls.trajet" GUID="UyGBptegoUqgtw1eDt3ABA=="/>
+			<POI MapID="1046" xpos="-797.543" ypos="84.8048" zpos="-65.7478" type="chroniques.hot.acte_3.route_aux_trolls.trajet" GUID="jfRViVBsD0u8Wy2JMYwlUA=="/>
+			<POI MapID="1046" xpos="-799.213" ypos="84.0351" zpos="-59.2494" type="chroniques.hot.acte_3.route_aux_trolls.trajet" GUID="JDX5f2/djUij713N4lzuwA=="/>
+			<POI MapID="1046" xpos="-801.213" ypos="83.0431" zpos="-53.6953" type="chroniques.hot.acte_3.route_aux_trolls.trajet" GUID="Jw3NZ4GJQEO4pG/MHGijoQ=="/>
+			<POI MapID="1046" xpos="-803.669" ypos="82.7557" zpos="-48.2495" type="chroniques.hot.acte_3.route_aux_trolls.trajet" GUID="SN5lMVdbLE+WSZtZUjvUfQ=="/>
+			<POI MapID="1046" xpos="-807.972" ypos="81.3576" zpos="-43.7413" type="chroniques.hot.acte_3.route_aux_trolls.trajet" GUID="Mnxr+oJ2TUG4j6hA8Bvb1g=="/>
+			<POI MapID="1046" xpos="-813.397" ypos="78.8535" zpos="-41.4346" type="chroniques.hot.acte_3.route_aux_trolls.trajet" GUID="nlyRAhHZVk6A3G8iIQPTnw=="/>
+			<POI MapID="1046" xpos="-819.55" ypos="77.3081" zpos="-40.759" type="chroniques.hot.acte_3.route_aux_trolls.trajet" GUID="txXGGiFW5Ua+F0JcEEokGw=="/>
+			<POI MapID="1046" xpos="-826.61" ypos="77.1243" zpos="-41.2814" type="chroniques.hot.acte_3.route_aux_trolls.trajet" GUID="Li92L4VZhkWNsWuJ3s1VsQ=="/>
+			<POI MapID="1046" xpos="-832.149" ypos="77.7041" zpos="-41.6577" type="chroniques.hot.acte_3.route_aux_trolls.trajet" GUID="6GsCYlmeWE2bo3dyiPZYFA=="/>
+			<POI MapID="1046" xpos="-837.991" ypos="78.8248" zpos="-41.2386" type="chroniques.hot.acte_3.route_aux_trolls.trajet" GUID="y15nqNnBZUGI6RIgDzBj7Q=="/>
+			<POI MapID="1046" xpos="-843.359" ypos="79.8869" zpos="-40.0541" type="chroniques.hot.acte_3.route_aux_trolls.trajet" GUID="DS01AwWZf0uDbWiwDr1pwQ=="/>
+			<POI MapID="1046" xpos="-849.785" ypos="78.3286" zpos="-38.5371" type="chroniques.hot.acte_3.route_aux_trolls.trajet" GUID="AIp2c9Oki0uYqWFeYA3nBA=="/>
+			<POI MapID="1046" xpos="-855.446" ypos="75.7277" zpos="-38.3014" type="chroniques.hot.acte_3.route_aux_trolls.trajet" GUID="qCmvP2IM60qM+kpX0qhzhQ=="/>
+			<POI MapID="1046" xpos="-861.165" ypos="72.5183" zpos="-38.5344" type="chroniques.hot.acte_3.route_aux_trolls.trajet" GUID="mR4/dipHeUGepiS6RKumcg=="/>
+			<POI MapID="1046" xpos="-866.649" ypos="70.6544" zpos="-37.3289" type="chroniques.hot.acte_3.route_aux_trolls.trajet" GUID="ITQy06ZT9EqIHN3nGfFCZQ=="/>
+			<POI MapID="1046" xpos="-871.314" ypos="70.8633" zpos="-33.7666" type="chroniques.hot.acte_3.route_aux_trolls.trajet" GUID="y7lECz9H3EGagNKJTv50pQ=="/>
+			<POI MapID="1046" xpos="-877.361" ypos="71.9507" zpos="-30.7082" type="chroniques.hot.acte_3.route_aux_trolls.trajet" GUID="akOhQdqObEi2Qtnnvt8d0w=="/>
+			<POI MapID="1046" xpos="-884.34" ypos="72.7876" zpos="-29.8628" type="chroniques.hot.acte_3.route_aux_trolls.trajet" GUID="/PAlDptuyUKg/NR3AfkQRg=="/>
+			<POI MapID="1046" xpos="-890.66" ypos="73.21" zpos="-29.5347" type="chroniques.hot.acte_3.route_aux_trolls.trajet" GUID="2TnGmlMQVUmbO6Rhdsc2AQ=="/>
+			<POI MapID="1046" xpos="-898.023" ypos="73.4876" zpos="-30.5693" type="chroniques.hot.acte_3.route_aux_trolls.trajet" GUID="G02003QOEEylVeJp+Lnj/Q=="/>
+			<POI MapID="1046" xpos="-903.751" ypos="73.511" zpos="-35.1117" type="chroniques.hot.acte_3.route_aux_trolls.trajet" GUID="B6HMi1cAvUmNGgrqPTXVGg=="/>
+			<POI MapID="1046" xpos="-907.68" ypos="74.3847" zpos="-40.4721" type="chroniques.hot.acte_3.route_aux_trolls.trajet" GUID="ZajMHuPhrEyiLJWK8kg/Cg=="/>
+			<POI MapID="1046" xpos="-907.739" ypos="75.3714" zpos="-47.5798" type="chroniques.hot.acte_3.route_aux_trolls.trajet" GUID="YTXF2KectE+EsOoT07q6zQ=="/>
+			<POI MapID="1046" xpos="-901.659" ypos="75.3722" zpos="-51.2352" type="chroniques.hot.acte_3.route_aux_trolls.trajet" GUID="yoOiHiFVT0+4IMmCBo17NA=="/>
+			<POI MapID="1046" xpos="-895.403" ypos="77.605" zpos="-52.7547" type="chroniques.hot.acte_3.route_aux_trolls.trajet" GUID="VqkzqoyC+UO06Z8/hw+cGw=="/>
+			<POI MapID="1046" xpos="-890.202" ypos="78.4264" zpos="-52.6447" type="chroniques.hot.acte_3.route_aux_trolls.trajet" GUID="E1wHHtEm8kiGJsPuaqYZcg=="/>
+			<POI MapID="1046" xpos="-885.88" ypos="81.0299" zpos="-54.1494" type="chroniques.hot.acte_3.route_aux_trolls.trajet" GUID="KnE4yzdlm02u4+b7F09R5g=="/>
+			<POI MapID="1046" xpos="-881.155" ypos="82.2969" zpos="-57.1316" type="chroniques.hot.acte_3.route_aux_trolls.trajet" GUID="UZkfc7N0N0mLssZueQKAYw=="/>
+			<POI MapID="1046" xpos="-876.734" ypos="84.6772" zpos="-60.7293" type="chroniques.hot.acte_3.route_aux_trolls.trajet" GUID="Ie9xxVQfUEG7DMJLSjWnEw=="/>
+			<POI MapID="1046" xpos="-872.288" ypos="85.9088" zpos="-64.4268" type="chroniques.hot.acte_3.route_aux_trolls.trajet" GUID="cx9KqjbjIk2Yz6TSoTD0+g=="/>
+			<POI MapID="1046" xpos="-867.926" ypos="87.471" zpos="-67.555" type="chroniques.hot.acte_3.route_aux_trolls.trajet" GUID="kMgaHcbvx0aIlfpTJ40Tiw=="/>
+			<POI MapID="1046" xpos="-863.618" ypos="88.7729" zpos="-70.4763" type="chroniques.hot.acte_3.route_aux_trolls.trajet" GUID="vwK1LCxdF0C3zlrNf/GE6Q=="/>
+			<POI MapID="1046" xpos="-859.858" ypos="90.7973" zpos="-74.4859" type="chroniques.hot.acte_3.route_aux_trolls.trajet" GUID="ZVK5h3fYZkSaK5ZdWYpKUA=="/>
+			<POI MapID="1046" xpos="-855.301" ypos="91.0103" zpos="-77.2496" type="chroniques.hot.acte_3.route_aux_trolls.trajet" GUID="Q0U/el38fUupBTvB5PT3iw=="/>
+			<POI MapID="1046" xpos="-849.557" ypos="92.1482" zpos="-79.4046" type="chroniques.hot.acte_3.route_aux_trolls.trajet" GUID="Bg6Cu+TftU+dvUApM8LYXQ=="/>
+			<POI MapID="1046" xpos="-842.684" ypos="92.582" zpos="-79.5373" type="chroniques.hot.acte_3.route_aux_trolls.trajet" GUID="dXICsPQFn0ixWw3KxzUAkg=="/>
+			<POI MapID="1046" xpos="-836.159" ypos="93.482" zpos="-79.3284" type="chroniques.hot.acte_3.route_aux_trolls.trajet" GUID="UvWC8vCmEEexSA7BjnDWhg=="/>
+			<POI MapID="1046" xpos="-829.932" ypos="94.1505" zpos="-78.6232" type="chroniques.hot.acte_3.route_aux_trolls.trajet" GUID="oNjm0FovekGW0Cuo4OIgcg=="/>
+			<POI MapID="1046" xpos="-824.112" ypos="95.0516" zpos="-77.9424" type="chroniques.hot.acte_3.route_aux_trolls.trajet" GUID="hlY3AHCVQEiqn//if9F0Qw=="/>
+			<POI MapID="1046" xpos="-818.77" ypos="95.1429" zpos="-77.5499" type="chroniques.hot.acte_3.route_aux_trolls.trajet" GUID="1CncsH8aAEqdtWit9w/hcg=="/>
+			<POI MapID="1046" xpos="-814.005" ypos="94.8039" zpos="-79.3267" type="chroniques.hot.acte_3.route_aux_trolls.trajet" GUID="b0XAHcTEgUSDftjoemWXcQ=="/>
+			<POI MapID="1046" xpos="-810.143" ypos="91.1445" zpos="-82.6362" type="chroniques.hot.acte_3.route_aux_trolls.trajet" GUID="z/xZAz33/UuTtusrvzVk0g=="/>
+			<POI MapID="1046" xpos="-805.918" ypos="89.7642" zpos="-86.7142" type="chroniques.hot.acte_3.route_aux_trolls.trajet" GUID="6g5XP20HbkGfndWffvUVpA=="/>
+			<POI MapID="1046" xpos="-802.528" ypos="87.6688" zpos="-90.9133" type="chroniques.hot.acte_3.route_aux_trolls.trajet" GUID="op3RK+AMBkKzEl6CnmMLKg=="/>
+			<POI MapID="1046" xpos="-799.602" ypos="85.7834" zpos="-96.6705" type="chroniques.hot.acte_3.route_aux_trolls.trajet" GUID="vyyi+Dt8PUeRUYJx5Xzm7Q=="/>
+			<POI MapID="1046" xpos="-800.925" ypos="84.3315" zpos="-101.972" type="chroniques.hot.acte_3.route_aux_trolls.trajet" GUID="5CMud8zHxkiZvwlxiauq7A=="/>
+			<POI MapID="1046" xpos="-803.882" ypos="82.5825" zpos="-106.951" type="chroniques.hot.acte_3.route_aux_trolls.trajet" GUID="CUfTGpRey0uhcOQim44bag=="/>
+			<POI MapID="1046" xpos="-807.311" ypos="79.8952" zpos="-111.311" type="chroniques.hot.acte_3.route_aux_trolls.trajet" GUID="ffRfozHuK0uPP7hQ0pDX8Q=="/>
+			<POI MapID="1046" xpos="-810.094" ypos="77.8363" zpos="-113.728" type="chroniques.hot.acte_3.route_aux_trolls.trajet" GUID="JQBOyreZCke9Omzs1ikmbQ=="/>
+		</Route>
+
+	</POIs>
+</OverlayData>

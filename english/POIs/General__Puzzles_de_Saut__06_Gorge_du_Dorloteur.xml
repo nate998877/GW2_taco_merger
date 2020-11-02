@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+POIs: Cloud Strife.7492 - Xenophy.2716 - ReActif.9251
+Date: 2017/08/23
+-->
+<OverlayData>
+	<MarkerCategory name="general" DisplayName="General">
+		<MarkerCategory name="puzzles_de_saut" DisplayName="Jumping Puzzles" iconFile="Img\Guide.png" iconSize="0.75">
+			<MarkerCategory name="gorge_du_dorloteur" DisplayName="Coddler's Cove"/>
+		</MarkerCategory>
+	</MarkerCategory>
+
+	<POIs>
+
+		<!-- Début -->
+		<POI MapID="29" xpos="361.84" ypos="2.85" zpos="-841.65" type="general.puzzles_de_saut.debut" GUID="AdUCH7uIL0G2H9z8OmXmBA=="/>
+
+		<!-- Route -->
+		<Route MapID="29" name="Gorge_du_Dorloteur" resetposx="361.84" resetposy="2.85" resetposz="-841.65" resetrange="2">
+			<POI MapID="29" xpos="352.822" ypos="5.50325" zpos="-845.161" type="general.puzzles_de_saut.gorge_du_dorloteur" GUID="GBrtorCX9EyNivds4lDpyg=="/>
+			<POI MapID="29" xpos="340.293" ypos="7.7598" zpos="-846.155" type="general.puzzles_de_saut.gorge_du_dorloteur" GUID="ah2/crq5skSTPYeFcnzDqA=="/>
+			<POI MapID="29" xpos="330.905" ypos="8.05879" zpos="-846.667" type="general.puzzles_de_saut.gorge_du_dorloteur" GUID="1vSkg7s/U0qPvxuS+XQcig=="/>
+			<POI MapID="29" xpos="324.57" ypos="9.65482" zpos="-850.376" type="general.puzzles_de_saut.gorge_du_dorloteur" GUID="75lv/Oe3ukO1qNl6wlCdEg=="/>
+			<POI MapID="29" xpos="315.849" ypos="10.4479" zpos="-856.973" type="general.puzzles_de_saut.gorge_du_dorloteur" GUID="qMmHSz37r0ScRyFQJUxevw=="/>
+			<POI MapID="29" xpos="304.747" ypos="9.9589" zpos="-861.75" type="general.puzzles_de_saut.gorge_du_dorloteur" GUID="KI6X0uD1UkuU5kQvdyVVCw=="/>
+			<POI MapID="29" xpos="293.626" ypos="10.8461" zpos="-866.572" type="general.puzzles_de_saut.gorge_du_dorloteur" GUID="TFixIwL4QUirXF+GRC9Kbg=="/>
+			<POI MapID="29" xpos="284.352" ypos="13.2555" zpos="-873.792" type="general.puzzles_de_saut.gorge_du_dorloteur" GUID="7Zb9yOCU+0S363QYl1ohaQ=="/>
+			<POI MapID="29" xpos="274.71" ypos="14.6684" zpos="-879.703" type="general.puzzles_de_saut.gorge_du_dorloteur" GUID="8RY8ZUSI2Ey7jrfbb7Y3nA=="/>
+			<POI MapID="29" xpos="268.2" ypos="15.6574" zpos="-888.101" type="general.puzzles_de_saut.gorge_du_dorloteur" GUID="0OKsGsVAEEe7DPzBYuB0fg=="/>
+			<POI MapID="29" xpos="276.223" ypos="15.9859" zpos="-898.51" type="general.puzzles_de_saut.gorge_du_dorloteur" GUID="7RXmWZMzLkSY0Ceo+sd+DQ=="/>
+			<POI MapID="29" xpos="288.365" ypos="14.6961" zpos="-895.505" type="general.puzzles_de_saut.gorge_du_dorloteur" GUID="ajmNiQY1SkCq1uXI8fVZsg=="/>
+			<POI MapID="29" xpos="300.377" ypos="15.2915" zpos="-886.548" type="general.puzzles_de_saut.gorge_du_dorloteur" GUID="H4HkqPH+NEuO6TFjH+oLvQ=="/>
+			<POI MapID="29" xpos="309.876" ypos="15.0847" zpos="-879.501" type="general.puzzles_de_saut.gorge_du_dorloteur" GUID="khxZhjnwQEuwwacuM+aC8A=="/>
+			<POI MapID="29" xpos="321.456" ypos="12.9086" zpos="-873.792" type="general.puzzles_de_saut.gorge_du_dorloteur" GUID="ZFLbGq0ZkkeBfObx+TCGvw=="/>
+			<POI MapID="29" xpos="333.375" ypos="9.1978" zpos="-873.204" type="general.puzzles_de_saut.gorge_du_dorloteur" GUID="KsgVeGpXi0O062nAfuNQjA=="/>
+			<POI MapID="29" xpos="343.612" ypos="5.22843" zpos="-876.851" type="general.puzzles_de_saut.gorge_du_dorloteur" GUID="mjdVR+ydJkmhel41CAxd5Q=="/>
+			<POI MapID="29" xpos="351.616" ypos="0.929418" zpos="-882.846" type="general.puzzles_de_saut.gorge_du_dorloteur" GUID="P0EZV5hiQkmglzOBktJSYw=="/>
+			<POI MapID="29" xpos="360.548" ypos="-0.670883" zpos="-889.831" type="general.puzzles_de_saut.gorge_du_dorloteur" GUID="YLWupFmf9ES2s0sB3xiADw=="/>
+			<POI MapID="29" xpos="368.35" ypos="-1.51" zpos="-895.2" type="general.puzzles_de_saut.gorge_du_dorloteur" GUID="J5LfQQi2wEqWHJGZHyf4Ug=="/>
+			<POI MapID="29" xpos="384.597" ypos="-7" zpos="-893.133" type="general.puzzles_de_saut.gorge_du_dorloteur" GUID="XrffTiV+9UiRHLle0tEWJg=="/>
+			<POI MapID="29" xpos="394.41" ypos="-7" zpos="-889.228" type="general.puzzles_de_saut.gorge_du_dorloteur" GUID="b4JAnLoQsEKZkIUpu6uPFg=="/>
+			<POI MapID="29" xpos="400.252" ypos="-2.14837" zpos="-881.373" type="general.puzzles_de_saut.gorge_du_dorloteur" GUID="Az3NvhKG90CqmgFn9bKOZg=="/>
+			<POI MapID="29" xpos="407.61" ypos="1.00421" zpos="-870.31" type="general.puzzles_de_saut.gorge_du_dorloteur" GUID="VdwqQ9YJIEqrGtyla4SaLQ=="/>
+			<POI MapID="29" xpos="401.566" ypos="4.4399" zpos="-858.355" type="general.puzzles_de_saut.gorge_du_dorloteur" GUID="mn915MDb20qbxDPPlDD0Fg=="/>
+			<POI MapID="29" xpos="388.713" ypos="9.98037" zpos="-859.364" type="general.puzzles_de_saut.gorge_du_dorloteur" GUID="0yaxgFM2/UuVu3p2tqLSzw=="/>
+			<POI MapID="29" xpos="378.672" ypos="14.8575" zpos="-861.914" type="general.puzzles_de_saut.gorge_du_dorloteur" GUID="YxMSxi4Vo06XeZ04hKa2cQ=="/>
+			<POI MapID="29" xpos="371.016" ypos="17.2336" zpos="-867.192" type="general.puzzles_de_saut.gorge_du_dorloteur" GUID="+Xh5yGAT+kWOItiyAcK1zg=="/>
+			<POI MapID="29" xpos="368.497" ypos="21.1553" zpos="-876.507" type="general.puzzles_de_saut.gorge_du_dorloteur" GUID="fKk0n9xq6kaNeku1phEnjg=="/>
+			<POI MapID="29" xpos="371.366" ypos="23.4501" zpos="-887.16" type="general.puzzles_de_saut.gorge_du_dorloteur" GUID="uDTuSdE9/0agBSMJg04fMA=="/>
+			<POI MapID="29" xpos="370.876" ypos="22.1996" zpos="-901.401" type="general.puzzles_de_saut.gorge_du_dorloteur" GUID="vA4m5mDpvk6GVULFldiEAQ=="/>
+			<POI MapID="29" xpos="370.441" ypos="22.5726" zpos="-911.219" type="general.puzzles_de_saut.gorge_du_dorloteur" GUID="l5olsFBbOkenqFC2hd8I5w=="/>
+			<POI MapID="29" xpos="364.575" ypos="22.1591" zpos="-921.215" type="general.puzzles_de_saut.gorge_du_dorloteur" GUID="RxFRSNNcjU+3PM64Dg1JHA=="/>
+			<POI MapID="29" xpos="354.908" ypos="22.499" zpos="-926.335" type="general.puzzles_de_saut.gorge_du_dorloteur" GUID="/blSilR0jEOdK0KIMSXfSg=="/>
+			<POI MapID="29" xpos="344.248" ypos="16.6699" zpos="-925.259" type="general.puzzles_de_saut.gorge_du_dorloteur" GUID="NrOfpiSmhkKXZjiWdaU+6g=="/>
+			<POI MapID="29" xpos="336.371" ypos="13.0798" zpos="-920.669" type="general.puzzles_de_saut.gorge_du_dorloteur" GUID="vH0/a9a2yEeDaK9cElQ/Kw=="/>
+			<POI MapID="29" xpos="331.94" ypos="12.7" zpos="-916.9" type="general.puzzles_de_saut.gorge_du_dorloteur" GUID="nFvqHDoeikiCFAllVoX58g=="/>
+			<POI MapID="29" xpos="332.112" ypos="13.7862" zpos="-911.694" type="general.puzzles_de_saut.gorge_du_dorloteur" GUID="ZKvkd75uKUWqL5k+AnHCOg=="/>
+			<POI MapID="29" xpos="335.293" ypos="14.1633" zpos="-909.101" type="general.puzzles_de_saut.gorge_du_dorloteur" GUID="leYoWnAZkkuLqBwn+aI/rw=="/>
+			<POI MapID="29" xpos="334.773" ypos="14.6463" zpos="-906.027" type="general.puzzles_de_saut.gorge_du_dorloteur" GUID="wHZjpC8nFUGrtHJLh1QpCQ=="/>
+			<POI MapID="29" xpos="333.444" ypos="15.1947" zpos="-902.731" type="general.puzzles_de_saut.gorge_du_dorloteur" GUID="V/Bi+5AZ5UKthFzb7rUMOg=="/>
+			<POI MapID="29" xpos="335.872" ypos="15.6052" zpos="-899.3" type="general.puzzles_de_saut.gorge_du_dorloteur" GUID="2itSLrdPpEGq2qMSd+A3mw=="/>
+			<POI MapID="29" xpos="335.672" ypos="16.6058" zpos="-895.109" type="general.puzzles_de_saut.gorge_du_dorloteur" GUID="7xa6kuT3I0mcAjoAbobFdg=="/>
+			<POI MapID="29" xpos="338.468" ypos="17.683" zpos="-891.694" type="general.puzzles_de_saut.gorge_du_dorloteur" GUID="x/2fgvj1Gk+yLKb3I1pl/w=="/>
+			<POI MapID="29" xpos="341.497" ypos="19.1922" zpos="-890.198" type="general.puzzles_de_saut.gorge_du_dorloteur" GUID="UFdJrJ90zkKEapeK6JFRyg=="/>
+			<POI MapID="29" xpos="341.797" ypos="19.8013" zpos="-885.753" type="general.puzzles_de_saut.gorge_du_dorloteur" GUID="lY4AhHJS0EubqSW0iehfZA=="/>
+			<POI MapID="29" xpos="339.249" ypos="21.1058" zpos="-882.33" type="general.puzzles_de_saut.gorge_du_dorloteur" GUID="50Wn57804kilKtyTKpDuTg=="/>
+			<POI MapID="29" xpos="339.728" ypos="22.4061" zpos="-878.8" type="general.puzzles_de_saut.gorge_du_dorloteur" GUID="IehbZUOjCkek+Kk5Ud7IMw=="/>
+			<POI MapID="29" xpos="342.652" ypos="23.4154" zpos="-879.112" type="general.puzzles_de_saut.gorge_du_dorloteur" GUID="zSwr5U1n/EaCyetAmtyl9g=="/>
+			<POI MapID="29" xpos="345.962" ypos="24.6813" zpos="-876.68" type="general.puzzles_de_saut.gorge_du_dorloteur" GUID="e8ruD5LgbUqkysnGGu7F/w=="/>
+			<POI MapID="29" xpos="344.096" ypos="25.6084" zpos="-871.09" type="general.puzzles_de_saut.gorge_du_dorloteur" GUID="78ec6DrwH0qn4K+qdXhfyA=="/>
+			<POI MapID="29" xpos="337.67" ypos="25.62" zpos="-870.38" type="general.puzzles_de_saut.gorge_du_dorloteur" GUID="j14I9ByyxUan9IagTE3JiA=="/>
+			<POI MapID="29" xpos="333.468" ypos="24.9159" zpos="-873.45" type="general.puzzles_de_saut.gorge_du_dorloteur" GUID="mTA4gFXctUChUaSR3Ju6+w=="/>
+			<POI MapID="29" xpos="329.916" ypos="25.509" zpos="-876.063" type="general.puzzles_de_saut.gorge_du_dorloteur" GUID="ISMz5z29uEm/A1CsYXROIg=="/>
+			<POI MapID="29" xpos="328.81" ypos="26.3027" zpos="-879.945" type="general.puzzles_de_saut.gorge_du_dorloteur" GUID="qQnJMNUuXkWnxUnNUjhF5A=="/>
+			<POI MapID="29" xpos="331.164" ypos="27.4103" zpos="-883.69" type="general.puzzles_de_saut.gorge_du_dorloteur" GUID="1npal7mOSUCvmuCO4qmFiQ=="/>
+			<POI MapID="29" xpos="333.452" ypos="27.3856" zpos="-886.888" type="general.puzzles_de_saut.gorge_du_dorloteur" GUID="RnCpVjgk+km7UXqwewAS/g=="/>
+			<POI MapID="29" xpos="333.15" ypos="28.7337" zpos="-889.984" type="general.puzzles_de_saut.gorge_du_dorloteur" GUID="bhfWYk/q20anl7S+D3EqUw=="/>
+			<POI MapID="29" xpos="330.441" ypos="29.5143" zpos="-893.441" type="general.puzzles_de_saut.gorge_du_dorloteur" GUID="vBmsxpHEfEeDm4P3cfh70w=="/>
+			<POI MapID="29" xpos="327.95" ypos="30.4438" zpos="-898.041" type="general.puzzles_de_saut.gorge_du_dorloteur" GUID="3xrPIYOSDUq9ARaBsWpyLw=="/>
+			<POI MapID="29" xpos="324.233" ypos="30.7422" zpos="-903.033" type="general.puzzles_de_saut.gorge_du_dorloteur" GUID="v1ht8n45fUCSDU/ESYiJfw=="/>
+			<POI MapID="29" xpos="319.753" ypos="29.3397" zpos="-907.313" type="general.puzzles_de_saut.gorge_du_dorloteur" GUID="lsEltYBaVUiqtsGYiBsaLA=="/>
+			<POI MapID="29" xpos="316.188" ypos="30.4053" zpos="-907.969" type="general.puzzles_de_saut.gorge_du_dorloteur" GUID="9By1mcP3q0+jQrNb1um05Q=="/>
+			<POI MapID="29" xpos="311.979" ypos="30.3073" zpos="-908.649" type="general.puzzles_de_saut.gorge_du_dorloteur" GUID="umQzuo2lC0uFI0hFfzDaTQ=="/>
+			<POI MapID="29" xpos="307.829" ypos="30.791" zpos="-907.725" type="general.puzzles_de_saut.gorge_du_dorloteur" GUID="F6y041XrTEuZTV+pNwrbpA=="/>
+			<POI MapID="29" xpos="302.015" ypos="28.3158" zpos="-908.94" type="general.puzzles_de_saut.gorge_du_dorloteur" GUID="4ay+WXATmEqVEbwHY7ZMmQ=="/>
+		</Route>
+
+		<!-- Coffre -->
+		<POI MapID="29" xpos="298.301" ypos="29.7282" zpos="-912.574" type="general.puzzles_de_saut.gorge_du_dorloteur" GUID="FK0ca5KXLECoekz7uMyaRg==" iconFile="Img\CoffrePuzzle.png" iconSize="1" heightOffset="2" behavior="2"/>
+
+	</POIs>
+</OverlayData>

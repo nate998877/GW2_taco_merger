@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+POIs: Cloud Strife.7492 - Xenophy.2716 - ReActif.9251
+Date: 2017/08/23
+-->
+<OverlayData>
+	<MarkerCategory name="general" DisplayName="General">
+		<MarkerCategory name="puzzles_de_saut" DisplayName="Jumping Puzzles" iconFile="Img\Guide.png" iconSize="0.75">
+			<MarkerCategory name="observatoire_effondre" DisplayName="The Collapsed Observatory"/>
+		</MarkerCategory>
+	</MarkerCategory>
+
+	<POIs>
+
+		<!-- Début -->
+		<POI MapID="23" xpos="849.65" ypos="99.1674" zpos="-453.952" type="general.puzzles_de_saut.debut" GUID="Fijg7DCfPkGd4Vs47y2BSQ=="/>
+
+		<!-- Route -->
+		<Route MapID="23" name="Observatoire_Effondre" resetposx="849.65" resetposy="99.1674" resetposz="-453.952" resetrange="2">
+			<POI MapID="23" xpos="852.164" ypos="99.0823" zpos="-461.207" type="general.puzzles_de_saut.observatoire_effondre" GUID="crWBifxQU02Zk/qtlFHytg=="/>
+			<POI MapID="23" xpos="849.573" ypos="96.6055" zpos="-472.224" type="general.puzzles_de_saut.observatoire_effondre" GUID="hgtuE2Fpi0amwaH5qitHYA=="/>
+			<POI MapID="23" xpos="851.284" ypos="98.3904" zpos="-480.83" type="general.puzzles_de_saut.observatoire_effondre" GUID="zD60nriKMkmJwrCoYtrmCg=="/>
+			<POI MapID="23" xpos="855.345" ypos="102.373" zpos="-491.618" type="general.puzzles_de_saut.observatoire_effondre" GUID="ntGuSaVaG0e7dWthnx/BMw=="/>
+			<POI MapID="23" xpos="857.328" ypos="103.232" zpos="-500.333" type="general.puzzles_de_saut.observatoire_effondre" GUID="tGpjJanu8EWGWlTqRelj5A=="/>
+			<POI MapID="23" xpos="859.102" ypos="104.688" zpos="-508.755" type="general.puzzles_de_saut.observatoire_effondre" GUID="VU4i5bOfDkWafoNDyWg8jw=="/>
+			<POI MapID="23" xpos="860.754" ypos="105.741" zpos="-516.997" type="general.puzzles_de_saut.observatoire_effondre" GUID="vzG+p1dJ60C5t2XgNV4lBA=="/>
+			<POI MapID="23" xpos="862.367" ypos="107.846" zpos="-525.261" type="general.puzzles_de_saut.observatoire_effondre" GUID="E2CUruCqKk2bkoIJEOPkWA=="/>
+			<POI MapID="23" xpos="863.02" ypos="110.574" zpos="-533.86" type="general.puzzles_de_saut.observatoire_effondre" GUID="d8WW1KseHkugiVle7HYjjQ=="/>
+			<POI MapID="23" xpos="863.316" ypos="111.674" zpos="-544.407" type="general.puzzles_de_saut.observatoire_effondre" GUID="BH8zeGSzxE6LD2MFJ5k4MA=="/>
+			<POI MapID="23" xpos="862.564" ypos="113.105" zpos="-552.685" type="general.puzzles_de_saut.observatoire_effondre" GUID="qb5a3t1V9UWoydJOFPQorg=="/>
+			<POI MapID="23" xpos="861.97" ypos="115.866" zpos="-561.415" type="general.puzzles_de_saut.observatoire_effondre" GUID="fETCFt/S30aQhyZj+X2SyA=="/>
+			<POI MapID="23" xpos="859.986" ypos="117.208" zpos="-566.356" type="general.puzzles_de_saut.observatoire_effondre" GUID="8Oo94Ht/p0GdzHZ6FlCCmg=="/>
+			<POI MapID="23" xpos="854.869" ypos="117.822" zpos="-569.887" type="general.puzzles_de_saut.observatoire_effondre" GUID="Mh18NFxsak+mg3GFnZzkyg=="/>
+			<POI MapID="23" xpos="859.98" ypos="118.986" zpos="-572.363" type="general.puzzles_de_saut.observatoire_effondre" GUID="ZNbFMhmyzkWBX3EQMJybsw=="/>
+			<POI MapID="23" xpos="857.747" ypos="119.126" zpos="-578.556" type="general.puzzles_de_saut.observatoire_effondre" GUID="EILL2MlseUCGzQZyocmfSA=="/>
+			<POI MapID="23" xpos="859.064" ypos="117.555" zpos="-585.754" type="general.puzzles_de_saut.observatoire_effondre" GUID="MQZV2HUu00W4TFIHevF2yw=="/>
+			<POI MapID="23" xpos="860.149" ypos="116.773" zpos="-590.645" type="general.puzzles_de_saut.observatoire_effondre" GUID="g0vkWe/rKEiXGP6B5By3Yw=="/>
+			<POI MapID="23" xpos="858.257" ypos="116.594" zpos="-593.581" type="general.puzzles_de_saut.observatoire_effondre" GUID="VLOSwnhVaku6IdQxukOlCQ=="/>
+			<POI MapID="23" xpos="854.489" ypos="110.132" zpos="-597.889" type="general.puzzles_de_saut.observatoire_effondre" GUID="u4Ox7TPy+kyIcDXdD74WHA=="/>
+			<POI MapID="23" xpos="853.573" ypos="102.528" zpos="-608.615" type="general.puzzles_de_saut.observatoire_effondre" GUID="woK8Q5gMske4kQ0P9MLCPw=="/>
+			<POI MapID="23" xpos="856.211" ypos="92.2" zpos="-609.104" type="general.puzzles_de_saut.observatoire_effondre" GUID="L3Zc6WLiGUW1D5yk0N9z8Q=="/>
+			<POI MapID="23" xpos="861.049" ypos="87.7597" zpos="-609.163" type="general.puzzles_de_saut.observatoire_effondre" GUID="CLPlmIrx2kuNZ1YaxOeP1g=="/>
+			<POI MapID="23" xpos="862.2" ypos="83.5629" zpos="-601.51" type="general.puzzles_de_saut.observatoire_effondre" GUID="oVj0HNEb7ky5f0uy44c8xQ=="/>
+			<POI MapID="23" xpos="865.212" ypos="81.6571" zpos="-605.926" type="general.puzzles_de_saut.observatoire_effondre" GUID="nHUdE0d3bE6T8Ipki6qHLQ=="/>
+			<POI MapID="23" xpos="868.097" ypos="79.7307" zpos="-610.244" type="general.puzzles_de_saut.observatoire_effondre" GUID="ypCq/yabb0W05TpXNAWhnw=="/>
+			<POI MapID="23" xpos="874.963" ypos="77.7311" zpos="-610.082" type="general.puzzles_de_saut.observatoire_effondre" GUID="aH439gv4KE6ghiAerqmFNg=="/>
+			<POI MapID="23" xpos="877.387" ypos="77.0643" zpos="-615.936" type="general.puzzles_de_saut.observatoire_effondre" GUID="kNv9EEk0hUaVGz94ffoZHA=="/>
+			<POI MapID="23" xpos="878.462" ypos="79.5847" zpos="-620.208" type="general.puzzles_de_saut.observatoire_effondre" GUID="9O2MdiDURUiv9zDSVPVgVg=="/>
+			<POI MapID="23" xpos="884.515" ypos="80.4762" zpos="-611.002" type="general.puzzles_de_saut.observatoire_effondre" GUID="FQr8CqnMFkSCHUf6Yyn+hQ=="/>
+			<POI MapID="23" xpos="890.589" ypos="79.0107" zpos="-613.275" type="general.puzzles_de_saut.observatoire_effondre" GUID="m000WIX4G0KJRwuwvFsl7Q=="/>
+			<POI MapID="23" xpos="896.23" ypos="73.3408" zpos="-612.257" type="general.puzzles_de_saut.observatoire_effondre" GUID="nemp1wAMHEe1kjMjQORZ2Q=="/>
+			<POI MapID="23" xpos="898.518" ypos="73.3572" zpos="-607.073" type="general.puzzles_de_saut.observatoire_effondre" GUID="6+a07zENQkCv+CQ1tsj5Sw=="/>
+			<POI MapID="23" xpos="902.007" ypos="73.0238" zpos="-604.325" type="general.puzzles_de_saut.observatoire_effondre" GUID="i9J1SYowcU6YmdLx/AA8sA=="/>
+			<POI MapID="23" xpos="907.191" ypos="72.9576" zpos="-608.367" type="general.puzzles_de_saut.observatoire_effondre" GUID="aruylK6ghUCkOuKFlOQkZA=="/>
+			<POI MapID="23" xpos="911.961" ypos="72.7141" zpos="-612.988" type="general.puzzles_de_saut.observatoire_effondre" GUID="LtgT9t6ZrUeOYq1nLteuhg=="/>
+			<POI MapID="23" xpos="916.278" ypos="73.6633" zpos="-612.696" type="general.puzzles_de_saut.observatoire_effondre" GUID="tAOHCMjFwEK5BA+m5vTpLg=="/>
+			<POI MapID="23" xpos="912.546" ypos="76.5429" zpos="-614.994" type="general.puzzles_de_saut.observatoire_effondre" GUID="dzCFRp5QREO6R44ejl7RHA=="/>
+			<POI MapID="23" xpos="909.298" ypos="78.4724" zpos="-615.962" type="general.puzzles_de_saut.observatoire_effondre" GUID="YLTTXXze/EiUhXz2vqsKKQ=="/>
+			<POI MapID="23" xpos="908.641" ypos="76.8802" zpos="-605.437" type="general.puzzles_de_saut.observatoire_effondre" GUID="nBKgU5AOP0Oxi5/zd8ijYQ=="/>
+			<POI MapID="23" xpos="912.754" ypos="80.1205" zpos="-601.783" type="general.puzzles_de_saut.observatoire_effondre" GUID="zMNv0wm2x0mNNcB1Ijat5Q=="/>
+			<POI MapID="23" xpos="915.902" ypos="81.9812" zpos="-597.821" type="general.puzzles_de_saut.observatoire_effondre" GUID="TZGwgwfdJk+24BogFVK7rQ=="/>
+			<POI MapID="23" xpos="919.978" ypos="84.3744" zpos="-599.783" type="general.puzzles_de_saut.observatoire_effondre" GUID="xqt+Winus0ysE05cQmNMLw=="/>
+			<POI MapID="23" xpos="924.679" ypos="86.3864" zpos="-601.873" type="general.puzzles_de_saut.observatoire_effondre" GUID="N5vBP09bT0iFgimJRgPNyA=="/>
+			<POI MapID="23" xpos="930.468" ypos="86.4131" zpos="-602.645" type="general.puzzles_de_saut.observatoire_effondre" GUID="jsmHf/M920WpJmFpFyKr7w=="/>
+			<POI MapID="23" xpos="936.105" ypos="86.5645" zpos="-602.77" type="general.puzzles_de_saut.observatoire_effondre" GUID="QGO8d2pgmk6Ho3VCr5bQrA=="/>
+			<POI MapID="23" xpos="941.486" ypos="86.0827" zpos="-602.708" type="general.puzzles_de_saut.observatoire_effondre" GUID="EoADNY6SLEm1KTU8fKH/dw=="/>
+			<POI MapID="23" xpos="947.864" ypos="75.1085" zpos="-599.951" type="general.puzzles_de_saut.observatoire_effondre" GUID="BsXnH0ixSkCRi2NL1g12Ag=="/>
+		</Route>
+
+		<!-- Coffre -->
+		<POI MapID="23" xpos="948.06" ypos="75.7013" zpos="-595.628" type="general.puzzles_de_saut.observatoire_effondre" GUID="yFnTHUUvd0Ki3dQ/cElk4g==" iconFile="Img\CoffrePuzzle.png" iconSize="1" heightOffset="2.5" behavior="2"/>
+
+	</POIs>
+</OverlayData>

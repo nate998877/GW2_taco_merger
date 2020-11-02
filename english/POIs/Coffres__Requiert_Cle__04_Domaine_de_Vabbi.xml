@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+POIs: TMKFrench.6427
+Date: 2017/10/04
+-->
+<OverlayData>
+	<MarkerCategory name="coffres.requiert_cle">
+		<MarkerCategory name="domaine_de_vabbi_tresors_enfouis" DisplayName="Domain of Vabbi - Buried Treasures" iconFile="Img\CoffreDomainedeVabbi.png" fadeNear="8000" fadeFar="16000" heightOffset="2"  behavior="2"/>
+	</MarkerCategory>
+
+	<POIs>
+
+
+	</POIs>
+</OverlayData>

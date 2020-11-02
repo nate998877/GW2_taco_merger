@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+POIs: ReActif.9251
+Date: 2017/08/11
+-->
+<OverlayData>
+	<MarkerCategory name="festivals" DisplayName="Seasonal Events">
+		<MarkerCategory name="un_tres_joyeux_hivernel" DisplayName="A Very Merry Wintersday">
+			<MarkerCategory name="maitrise_du_pays_des_merveilles_d_hiver" DisplayName="Winter Wonderland Mastery" iconFile="Img\Guide.png" iconSize="0.75">
+				<MarkerCategory name="debut" DisplayName="Start" iconFile="Img\PuzzleDebut.png" iconSize="1.5"/>
+			</MarkerCategory>
+		</MarkerCategory>
+	</MarkerCategory>
+
+	<POIs>
+
+		<!-- Entrée -->
+		<POI MapID="18" xpos="-178.19" ypos="69.08" zpos="-116" type="festivals.un_tres_joyeux_hivernel.maitrise_du_pays_des_merveilles_d_hiver.debut" GUID="OniZmR2qz0efoiclKOYjCQ=="/>
+
+		<!-- Partie 1 - Chemin "Bonhommes en Pain d'Epice" (Gauche) -->
+		<Route MapID="882" name="Hivernel_1_Gauche" resetposx="-6.40943" resetposy="30.7109" resetposz="35.5037" resetrange="2">
+			<POI MapID="882" xpos="-14.1719" ypos="31.9997" zpos="38.344" type="festivals.un_tres_joyeux_hivernel.maitrise_du_pays_des_merveilles_d_hiver" GUID="bI37UtV9b0CUG40LNdnUpg=="/>
+			<POI MapID="882" xpos="-18.0836" ypos="33.6647" zpos="39.0885" type="festivals.un_tres_joyeux_hivernel.maitrise_du_pays_des_merveilles_d_hiver" GUID="GN+Wtv4p80+FpGSEOcOkqw=="/>
+			<POI MapID="882" xpos="-24.9803" ypos="35.0583" zpos="36.3791" type="festivals.un_tres_joyeux_hivernel.maitrise_du_pays_des_merveilles_d_hiver" GUID="3Rq2pS4gB02rArBW9h5hgw=="/>
+			<POI MapID="882" xpos="-22.1766" ypos="34.1011" zpos="31.0242" type="festivals.un_tres_joyeux_hivernel.maitrise_du_pays_des_merveilles_d_hiver" GUID="1rYEt8Kauk65jwipbAxMLg=="/>
+			<POI MapID="882" xpos="-25.1268" ypos="35.2596" zpos="25.2232" type="festivals.un_tres_joyeux_hivernel.maitrise_du_pays_des_merveilles_d_hiver" GUID="ReLhm3uFf0eK3Vb74mji7w=="/>
+			<POI MapID="882" xpos="-28.5201" ypos="35.5065" zpos="17.6602" type="festivals.un_tres_joyeux_hivernel.maitrise_du_pays_des_merveilles_d_hiver" GUID="fLPNL4q810inXMLPfypCzQ=="/>
+			<POI MapID="882" xpos="-21.0568" ypos="37.0652" zpos="17.3962" type="festivals.un_tres_joyeux_hivernel.maitrise_du_pays_des_merveilles_d_hiver" GUID="vSnnB3XZeUOX9K+2a/Fi7g=="/>
+			<POI MapID="882" xpos="-18.0608" ypos="36.6619" zpos="12.7421" type="festivals.un_tres_joyeux_hivernel.maitrise_du_pays_des_merveilles_d_hiver" GUID="/2aGMl9W3ES1pmZDqo24Lw=="/>
+			<POI MapID="882" xpos="-15.3551" ypos="37.7272" zpos="7.80058" type="festivals.un_tres_joyeux_hivernel.maitrise_du_pays_des_merveilles_d_hiver" GUID="uuBXkCen+0iAKJxFQDAlww=="/>
+			<POI MapID="882" xpos="-16.6346" ypos="37.9278" zpos="1.48929" type="festivals.un_tres_joyeux_hivernel.maitrise_du_pays_des_merveilles_d_hiver" GUID="g9NTX1+GlEuwqnHwjshW+A=="/>
+			<POI MapID="882" xpos="-23.8129" ypos="38.1771" zpos="-1.14658" type="festivals.un_tres_joyeux_hivernel.maitrise_du_pays_des_merveilles_d_hiver" GUID="L4X/LMwb7U6Yuh8pP5cOog=="/>
+			<POI MapID="882" xpos="-28.0095" ypos="37.3583" zpos="4.98261" type="festivals.un_tres_joyeux_hivernel.maitrise_du_pays_des_merveilles_d_hiver" GUID="ocL/u1L9d06NbWUbXyoyFg=="/>
+			<POI MapID="882" xpos="-32.308" ypos="38.9685" zpos="12.2116" type="festivals.un_tres_joyeux_hivernel.maitrise_du_pays_des_merveilles_d_hiver" GUID="+iSlfgqB1USHLQFo0VA/QA=="/>
+			<POI MapID="882" xpos="-36.2985" ypos="40.681" zpos="17.9736" type="festivals.un_tres_joyeux_hivernel.maitrise_du_pays_des_merveilles_d_hiver" GUID="6zIvZLTrN0SXcYS4cAl+Mw=="/>
+			<POI MapID="882" xpos="-40.3613" ypos="41.4173" zpos="14.6805" type="festivals.un_tres_joyeux_hivernel.maitrise_du_pays_des_merveilles_d_hiver" GUID="Ur6CDXF1eEmCBrVH8OKfbg=="/>
+			<POI MapID="882" xpos="-43.4479" ypos="42.7604" zpos="8.04429" type="festivals.un_tres_joyeux_hivernel.maitrise_du_pays_des_merveilles_d_hiver" GUID="g1e0nPzohkSY4wzud1+sFg=="/>
+			<POI MapID="882" xpos="-42.1331" ypos="43.66" zpos="3.17648" type="festivals.un_tres_joyeux_hivernel.maitrise_du_pays_des_merveilles_d_hiver" GUID="G++RZklOHEmaak2CxUzpdg=="/>
+			<POI MapID="882" xpos="-41.2971" ypos="44.5265" zpos="0.618593" type="festivals.un_tres_joyeux_hivernel.maitrise_du_pays_des_merveilles_d_hiver" GUID="1J+9fz2Bzku/+JB+9tID3g=="/>
+			<POI MapID="882" xpos="-38.3122" ypos="45.5885" zpos="-1.47502" type="festivals.un_tres_joyeux_hivernel.maitrise_du_pays_des_merveilles_d_hiver" GUID="Ey2jBoLpaEOon+PxlsWAOg=="/>
+			<POI MapID="882" xpos="-36.7619" ypos="46.1396" zpos="-6.89585" type="festivals.un_tres_joyeux_hivernel.maitrise_du_pays_des_merveilles_d_hiver" GUID="vYBCZxCUC0GCTAVh/H7QnA==" triggerRange="5"/><!-- Optionnel -->
+			<POI MapID="882" xpos="-32.0474" ypos="47.7155" zpos="-1.82906" type="festivals.un_tres_joyeux_hivernel.maitrise_du_pays_des_merveilles_d_hiver" GUID="kMCU5HMQZEudIMQeOh7+XA=="/>
+			<POI MapID="882" xpos="-27.778" ypos="49.0691" zpos="1.28283" type="festivals.un_tres_joyeux_hivernel.maitrise_du_pays_des_merveilles_d_hiver" GUID="IbZTh1lfcEWKBUjD87KxMQ=="/>
+			<POI MapID="882" xpos="-22.6926" ypos="49.9552" zpos="5.59505" type="festivals.un_tres_joyeux_hivernel.maitrise_du_pays_des_merveilles_d_hiver" GUID="ETrHICk6nEy2jvJMsWneIQ=="/>
+			<POI MapID="882" xpos="-27.5395" ypos="52.2068" zpos="9.06953" type="festivals.un_tres_joyeux_hivernel.maitrise_du_pays_des_merveilles_d_hiver" GUID="wbEcVptic0u36HGRt3BDaw=="/>
+			<POI MapID="882" xpos="-27.3827" ypos="53.0479" zpos="15.1668" type="festivals.un_tres_joyeux_hivernel.maitrise_du_pays_des_merveilles_d_hiver" GUID="3mdORD1ZJkShfoQwdSqkew=="/>
+			<POI MapID="882" xpos="-34.7766" ypos="54.3564" zpos="19.5734" type="festivals.un_tres_joyeux_hivernel.maitrise_du_pays_des_merveilles_d_hiver" GUID="SXla1jVNCUKfaeW50Lwrkw=="/>
+			<POI MapID="882" xpos="-38.2358" ypos="55.6609" zpos="15.4159" type="festivals.un_tres_joyeux_hivernel.maitrise_du_pays_des_merveilles_d_hiver" GUID="K7rFmfQ+X02xHtqS8FUw3Q=="/>
+			<POI MapID="882" xpos="-44.5821" ypos="56.5087" zpos="19.6294" type="festivals.un_tres_joyeux_hivernel.maitrise_du_pays_des_merveilles_d_hiver" GUID="tSCdpUSIFUKUJAtEyYe/lA=="/>
+			<POI MapID="882" xpos="-49.6044" ypos="57.0484" zpos="17.2561" type="festivals.un_tres_joyeux_hivernel.maitrise_du_pays_des_merveilles_d_hiver" GUID="rFqmdzdUME2qTz8bbaKTMA=="/>
+			<POI MapID="882" xpos="-57.4245" ypos="55.6075" zpos="16.1436" type="festivals.un_tres_joyeux_hivernel.maitrise_du_pays_des_merveilles_d_hiver" GUID="MwYtwICtoUCIgXnq5abRAg=="/>
+			<POI MapID="882" xpos="-63.6083" ypos="56.9679" zpos="13.2291" type="festivals.un_tres_joyeux_hivernel.maitrise_du_pays_des_merveilles_d_hiver" GUID="hl6d0vJ+VEaaTQiYbwFmHg=="/>
+			<POI MapID="882" xpos="-61.4888" ypos="55.0914" zpos="7.14796" type="festivals.un_tres_joyeux_hivernel.maitrise_du_pays_des_merveilles_d_hiver" GUID="TANmrufI+UK2IS+LwWXG6w=="/>
+			<POI MapID="882" xpos="-56.4969" ypos="54.9497" zpos="2.96649" type="festivals.un_tres_joyeux_hivernel.maitrise_du_pays_des_merveilles_d_hiver" GUID="Rau7uTNojE2jmK0VXVjXew=="/>
+			<POI MapID="882" xpos="-51.2909" ypos="55.279" zpos="-2.33468" type="festivals.un_tres_joyeux_hivernel.maitrise_du_pays_des_merveilles_d_hiver" GUID="mI9YV/RUgEej3GePqCU6PA=="/>
+			<POI MapID="882" xpos="-48.3883" ypos="56.3809" zpos="-6.36596" type="festivals.un_tres_joyeux_hivernel.maitrise_du_pays_des_merveilles_d_hiver" GUID="MNnmA0Q4KUWWjKU7SSCRLg=="/>
+			<POI MapID="882" xpos="-43.1168" ypos="57.5217" zpos="-9.98881" type="festivals.un_tres_joyeux_hivernel.maitrise_du_pays_des_merveilles_d_hiver" GUID="dkl/iMh08kOZIz0EJQqe+g=="/>
+			<POI MapID="882" xpos="-46.9245" ypos="55.4826" zpos="-17.482" type="festivals.un_tres_joyeux_hivernel.maitrise_du_pays_des_merveilles_d_hiver" GUID="iyC5AlNvKU2f4ESzV7ZZ5w=="/>
+			<POI MapID="882" xpos="-42.8652" ypos="56.5279" zpos="-22.4409" type="festivals.un_tres_joyeux_hivernel.maitrise_du_pays_des_merveilles_d_hiver" GUID="oy+izUXUHkyus+v0K3Slew=="/>
+			<POI MapID="882" xpos="-48.2535" ypos="54.3819" zpos="-27.6262" type="festivals.un_tres_joyeux_hivernel.maitrise_du_pays_des_merveilles_d_hiver" GUID="IVFidF7HN06st3Nqws+zaA=="/>
+			<POI MapID="882" xpos="-54.7731" ypos="53.5276" zpos="-26.4229" type="festivals.un_tres_joyeux_hivernel.maitrise_du_pays_des_merveilles_d_hiver" GUID="Joluobn30kStdTtpbY4Cxw==" triggerRange="6"/><!-- Optionnel -->
+			<POI MapID="882" xpos="-54.92" ypos="52.5852" zpos="-32.9736" type="festivals.un_tres_joyeux_hivernel.maitrise_du_pays_des_merveilles_d_hiver" GUID="1LU9SjJWaUSyG2R3qwUUrQ=="/>
+			<POI MapID="882" xpos="-59.9369" ypos="52.2258" zpos="-30.4234" type="festivals.un_tres_joyeux_hivernel.maitrise_du_pays_des_merveilles_d_hiver" GUID="xre5rHHwR02C0+nsQ1rqMw=="/>
+			<POI MapID="882" xpos="-65.7073" ypos="49.2933" zpos="-26.3162" type="festivals.un_tres_joyeux_hivernel.maitrise_du_pays_des_merveilles_d_hiver" GUID="LMPe65dHjkaQI1XBLaeAjw==" triggerRange="6"/><!-- Optionnel -->
+			<POI MapID="882" xpos="-68.1713" ypos="49.6577" zpos="-30.7091" type="festivals.un_tres_joyeux_hivernel.maitrise_du_pays_des_merveilles_d_hiver" GUID="jAOAShKXk0yvRfqb4lm4CQ=="/>
+			<POI MapID="882" xpos="-71.3167" ypos="50.3083" zpos="-27.0869" type="festivals.un_tres_joyeux_hivernel.maitrise_du_pays_des_merveilles_d_hiver" GUID="xz2esAJgCEuO710UH19OIw==" triggerRange="6"/><!-- Optionnel -->
+			<POI MapID="882" xpos="-76.4783" ypos="48.289" zpos="-30.2058" type="festivals.un_tres_joyeux_hivernel.maitrise_du_pays_des_merveilles_d_hiver" GUID="UXeDoQsVik6ZxwnZrBzaOw==" triggerRange="6"/><!-- Optionnel -->
+			<POI MapID="882" xpos="-77.7133" ypos="49.7559" zpos="-35.0488" type="festivals.un_tres_joyeux_hivernel.maitrise_du_pays_des_merveilles_d_hiver" GUID="CcxnP4c1fUiKcARjk9X5PA=="/>
+			<POI MapID="882" xpos="-83.6922" ypos="48.2967" zpos="-35.6436" type="festivals.un_tres_joyeux_hivernel.maitrise_du_pays_des_merveilles_d_hiver" GUID="8gjBORd0u0ieUmw9tNrI8Q=="/>
+			<POI MapID="882" xpos="-86.1948" ypos="46.7777" zpos="-31.0576" type="festivals.un_tres_joyeux_hivernel.maitrise_du_pays_des_merveilles_d_hiver" GUID="2AcVT8QPnk+86RGbu7M+Gw=="/>
+			<POI MapID="882" xpos="-89.3154" ypos="45.1861" zpos="-26.0378" type="festivals.un_tres_joyeux_hivernel.maitrise_du_pays_des_merveilles_d_hiver" GUID="J0SdVLsPREyswNbuHM3TWw=="/>
+			<POI MapID="882" xpos="-93.9931" ypos="45.4411" zpos="-22.9794" type="festivals.un_tres_joyeux_hivernel.maitrise_du_pays_des_merveilles_d_hiver" GUID="yYH2v5tGJ0KCsxbHyoMYEA=="/>
+			<POI MapID="882" xpos="-97.1262" ypos="47.0949" zpos="-25.7809" type="festivals.un_tres_joyeux_hivernel.maitrise_du_pays_des_merveilles_d_hiver" GUID="j6k5+jirCUC97Tha0C1yRg=="/>
+		</Route>
+
+		<!-- Partie 1 - Chemin "Bonhommes de Neige" (Centre) -->
+		<Route MapID="882" name="Hivernel_1_Centre" resetposx="-18.2841" resetposy="33.8976" resetposz="60.0409" resetrange="2">
+			<POI MapID="882" xpos="-27.066" ypos="32.9692" zpos="56.3623" type="festivals.un_tres_joyeux_hivernel.maitrise_du_pays_des_merveilles_d_hiver" GUID="Glh7UUMPKk+RApOGiSfsxA=="/>
+			<POI MapID="882" xpos="-32.016" ypos="32.5943" zpos="53.5512" type="festivals.un_tres_joyeux_hivernel.maitrise_du_pays_des_merveilles_d_hiver" GUID="XqxznBa/Tkyf5PtgQXnhpw=="/>
+			<POI MapID="882" xpos="-38.4729" ypos="32.6647" zpos="53.1257" type="festivals.un_tres_joyeux_hivernel.maitrise_du_pays_des_merveilles_d_hiver" GUID="nU4ddz25VE6h/mG5Dfs/Rw=="/>
+			<POI MapID="882" xpos="-45.8476" ypos="34.027" zpos="54.9821" type="festivals.un_tres_joyeux_hivernel.maitrise_du_pays_des_merveilles_d_hiver" GUID="+ypiS/tteUKMnk8iHIanOA=="/>
+			<POI MapID="882" xpos="-50.726" ypos="36.0501" zpos="49.5143" type="festivals.un_tres_joyeux_hivernel.maitrise_du_pays_des_merveilles_d_hiver" GUID="W7ko82zGZ0iaK0JsgCaTwA=="/>
+			<POI MapID="882" xpos="-49.726" ypos="36.3962" zpos="42.8343" type="festivals.un_tres_joyeux_hivernel.maitrise_du_pays_des_merveilles_d_hiver" GUID="6rPU81AVYEKqlA9bl3cK8Q=="/>
+			<POI MapID="882" xpos="-54.6602" ypos="37.5911" zpos="38.5281" type="festivals.un_tres_joyeux_hivernel.maitrise_du_pays_des_merveilles_d_hiver" GUID="lPwBxH7XcUy/ZBmX+ANpzw=="/>
+			<POI MapID="882" xpos="-52.6865" ypos="39.5121" zpos="31.4672" type="festivals.un_tres_joyeux_hivernel.maitrise_du_pays_des_merveilles_d_hiver" GUID="1+p+hWccEUaOgvKRin3kxw=="/>
+			<POI MapID="882" xpos="-46.6742" ypos="39.9586" zpos="35.0957" type="festivals.un_tres_joyeux_hivernel.maitrise_du_pays_des_merveilles_d_hiver" GUID="VjIgiiUf0EKyuE62lfFePw=="/>
+			<POI MapID="882" xpos="-40.9336" ypos="41.5881" zpos="30.2198" type="festivals.un_tres_joyeux_hivernel.maitrise_du_pays_des_merveilles_d_hiver" GUID="NuLriAye1Eev6GHhNaTuZA=="/>
+			<POI MapID="882" xpos="-38.3905" ypos="42.5766" zpos="33.6269" type="festivals.un_tres_joyeux_hivernel.maitrise_du_pays_des_merveilles_d_hiver" GUID="tnp47sh8n0OcxR2Wv/ZmEA=="/>
+			<POI MapID="882" xpos="-33.2626" ypos="44.2828" zpos="32.2019" type="festivals.un_tres_joyeux_hivernel.maitrise_du_pays_des_merveilles_d_hiver" GUID="W563fFJFsUyb53WI6Yd8Zg=="/>
+			<POI MapID="882" xpos="-30.8141" ypos="45.0411" zpos="38.1597" type="festivals.un_tres_joyeux_hivernel.maitrise_du_pays_des_merveilles_d_hiver" GUID="sviRUajwY0CZKvTwt45G9g=="/>
+			<POI MapID="882" xpos="-31.0037" ypos="47.2828" zpos="44.0653" type="festivals.un_tres_joyeux_hivernel.maitrise_du_pays_des_merveilles_d_hiver" GUID="AAUqNoZz5Eqq7Ig2Rf/STQ=="/>
+			<POI MapID="882" xpos="-35.3903" ypos="47.3231" zpos="49.1878" type="festivals.un_tres_joyeux_hivernel.maitrise_du_pays_des_merveilles_d_hiver" GUID="13zwX19/AE21pB9yg+M8Xw=="/>
+			<POI MapID="882" xpos="-41.1897" ypos="47.9208" zpos="50.0338" type="festivals.un_tres_joyeux_hivernel.maitrise_du_pays_des_merveilles_d_hiver" GUID="OGTin1Om70Ok/zxuphVoOA=="/>
+			<POI MapID="882" xpos="-48.449" ypos="48.6516" zpos="47.5433" type="festivals.un_tres_joyeux_hivernel.maitrise_du_pays_des_merveilles_d_hiver" GUID="h2i65hTscU28g0Rnvrm1mg=="/>
+			<POI MapID="882" xpos="-53.5427" ypos="49.8802" zpos="43.0333" type="festivals.un_tres_joyeux_hivernel.maitrise_du_pays_des_merveilles_d_hiver" GUID="El5J7Z4RukqO1k9cqHQ2TA=="/>
+			<POI MapID="882" xpos="-59.9929" ypos="51.9159" zpos="42.6604" type="festivals.un_tres_joyeux_hivernel.maitrise_du_pays_des_merveilles_d_hiver" GUID="mMskg3Xu/ECNxuVmIuf46w=="/>
+			<POI MapID="882" xpos="-62.0158" ypos="53.4884" zpos="47.313" type="festivals.un_tres_joyeux_hivernel.maitrise_du_pays_des_merveilles_d_hiver" GUID="eZe+azuxxkelcRLB6U43nA=="/>
+			<POI MapID="882" xpos="-64.7397" ypos="51.1888" zpos="51.9539" type="festivals.un_tres_joyeux_hivernel.maitrise_du_pays_des_merveilles_d_hiver" GUID="+PSjF3QkCUWhAprivU4Vrw=="/>
+			<POI MapID="882" xpos="-69.1236" ypos="50.1102" zpos="55.2437" type="festivals.un_tres_joyeux_hivernel.maitrise_du_pays_des_merveilles_d_hiver" GUID="Hx/adFJJJ0uMqBtERdqmuw=="/>
+			<POI MapID="882" xpos="-72.6578" ypos="51.0936" zpos="51.1283" type="festivals.un_tres_joyeux_hivernel.maitrise_du_pays_des_merveilles_d_hiver" GUID="xsI5nyMvXESOvTCMVymGTw=="/>
+			<POI MapID="882" xpos="-79.4672" ypos="49.9631" zpos="51.4138" type="festivals.un_tres_joyeux_hivernel.maitrise_du_pays_des_merveilles_d_hiver" GUID="qKb4CNTq0USoPe2Ypa4krw=="/>
+			<POI MapID="882" xpos="-80.3932" ypos="52.5369" zpos="43.8836" type="festivals.un_tres_joyeux_hivernel.maitrise_du_pays_des_merveilles_d_hiver" GUID="RV7stAHIvUq7GvcTdu7riA=="/>
+			<POI MapID="882" xpos="-75.8235" ypos="54.2689" zpos="41.9334" type="festivals.un_tres_joyeux_hivernel.maitrise_du_pays_des_merveilles_d_hiver" GUID="cw+hMDfT80qL8tParPa92Q=="/>
+			<POI MapID="882" xpos="-74.1279" ypos="53.6339" zpos="39.6617" type="festivals.un_tres_joyeux_hivernel.maitrise_du_pays_des_merveilles_d_hiver" GUID="Qlt8Xn+rq0S+zkyqxvtTJQ=="/>
+			<POI MapID="882" xpos="-73.2412" ypos="55.2967" zpos="32.093" type="festivals.un_tres_joyeux_hivernel.maitrise_du_pays_des_merveilles_d_hiver" GUID="DNX4p25Pu0GXigdKuUpCrg=="/>
+			<POI MapID="882" xpos="-68.9627" ypos="56.0607" zpos="34.8939" type="festivals.un_tres_joyeux_hivernel.maitrise_du_pays_des_merveilles_d_hiver" GUID="B2GuxZGqdUe2C5t7MiNKxw=="/>
+			<POI MapID="882" xpos="-62.6604" ypos="56.936" zpos="33.8783" type="festivals.un_tres_joyeux_hivernel.maitrise_du_pays_des_merveilles_d_hiver" GUID="reX83zK+e0ismKJzYkj1og=="/>
+			<POI MapID="882" xpos="-59.235" ypos="58.5797" zpos="39.25" type="festivals.un_tres_joyeux_hivernel.maitrise_du_pays_des_merveilles_d_hiver" GUID="6i6mwziHq0i6Edi5CSnYlw=="/>
+			<POI MapID="882" xpos="-58.1552" ypos="59.5848" zpos="46.9318" type="festivals.un_tres_joyeux_hivernel.maitrise_du_pays_des_merveilles_d_hiver" GUID="lBdcMpVep0qYvJzDwZ7g4w=="/>
+			<POI MapID="882" xpos="-59.4021" ypos="59.984" zpos="52.9796" type="festivals.un_tres_joyeux_hivernel.maitrise_du_pays_des_merveilles_d_hiver" GUID="GVNFgKnI30Gn+AM/P0n8jw=="/>
+			<POI MapID="882" xpos="-65.4411" ypos="60.9246" zpos="56.4582" type="festivals.un_tres_joyeux_hivernel.maitrise_du_pays_des_merveilles_d_hiver" GUID="cI5vBOLUjUOPDMaL/BIAjQ=="/>
+			<POI MapID="882" xpos="-73.5004" ypos="63.332" zpos="59.7493" type="festivals.un_tres_joyeux_hivernel.maitrise_du_pays_des_merveilles_d_hiver" GUID="whJ/X3P54Um1iu3aRQO+og=="/>
+			<POI MapID="882" xpos="-75.8247" ypos="63.0096" zpos="55.2445" type="festivals.un_tres_joyeux_hivernel.maitrise_du_pays_des_merveilles_d_hiver" GUID="qUUguH7uMEmPCs+ezMUjfQ=="/>
+			<POI MapID="882" xpos="-82.4473" ypos="60.9089" zpos="49.5565" type="festivals.un_tres_joyeux_hivernel.maitrise_du_pays_des_merveilles_d_hiver" GUID="Zccfe5lja0aUz/vW/mVnJg=="/>
+			<POI MapID="882" xpos="-81.4038" ypos="61.6909" zpos="42.8965" type="festivals.un_tres_joyeux_hivernel.maitrise_du_pays_des_merveilles_d_hiver" GUID="GOsGUXFxtE+0/4sajwZjtg=="/>
+			<POI MapID="882" xpos="-83.0647" ypos="62.9035" zpos="37.8433" type="festivals.un_tres_joyeux_hivernel.maitrise_du_pays_des_merveilles_d_hiver" GUID="QVnjfcidm0CB1VDGpTrnfw=="/>
+			<POI MapID="882" xpos="-79.6293" ypos="62.3143" zpos="31.7472" type="festivals.un_tres_joyeux_hivernel.maitrise_du_pays_des_merveilles_d_hiver" GUID="9m7VzEyw00eH/QhwNCok5Q=="/>
+			<POI MapID="882" xpos="-77.9252" ypos="61.2919" zpos="26.7127" type="festivals.un_tres_joyeux_hivernel.maitrise_du_pays_des_merveilles_d_hiver" GUID="NK5fCKyAEUa07FEyBkp6NQ=="/>
+			<POI MapID="882" xpos="-84.4171" ypos="57.4048" zpos="22.888" type="festivals.un_tres_joyeux_hivernel.maitrise_du_pays_des_merveilles_d_hiver" GUID="QAOSYwKiQk6rC+RoZpAPZA=="/>
+			<POI MapID="882" xpos="-90.4147" ypos="54.8155" zpos="18.5303" type="festivals.un_tres_joyeux_hivernel.maitrise_du_pays_des_merveilles_d_hiver" GUID="dttoKDMVF0OwmpV55n2zig=="/>
+			<POI MapID="882" xpos="-87.2774" ypos="53.0986" zpos="13.7305" type="festivals.un_tres_joyeux_hivernel.maitrise_du_pays_des_merveilles_d_hiver" GUID="BwqyXkIlP0mVOoFdMfdeaw=="/>
+			<POI MapID="882" xpos="-95.6646" ypos="53.6113" zpos="9.93279" type="festivals.un_tres_joyeux_hivernel.maitrise_du_pays_des_merveilles_d_hiver" GUID="upVLMwMZzEiht8+jiR119A=="/>
+			<POI MapID="882" xpos="-91.0843" ypos="51.3983" zpos="3.14623" type="festivals.un_tres_joyeux_hivernel.maitrise_du_pays_des_merveilles_d_hiver" GUID="5yCPSBd9pkagb9t2CVvWhA=="/>
+			<POI MapID="882" xpos="-88.6875" ypos="50.8042" zpos="-1.89318" type="festivals.un_tres_joyeux_hivernel.maitrise_du_pays_des_merveilles_d_hiver" GUID="WQcUy1S0ikCS3xaTV/S+BA=="/>
+			<POI MapID="882" xpos="-92.0998" ypos="47.8985" zpos="-8.49192" type="festivals.un_tres_joyeux_hivernel.maitrise_du_pays_des_merveilles_d_hiver" GUID="m7di6SAdzkO9TAS8qg3hHw=="/>
+			<POI MapID="882" xpos="-98.5627" ypos="46.1939" zpos="-10.3052" type="festivals.un_tres_joyeux_hivernel.maitrise_du_pays_des_merveilles_d_hiver" GUID="6JhGqdsS0keaJgPehLT8qg=="/>
+			<POI MapID="882" xpos="-97.6144" ypos="46.3417" zpos="-16.9897" type="festivals.un_tres_joyeux_hivernel.maitrise_du_pays_des_merveilles_d_hiver" GUID="n03MSAOGEk2jmc5UyjA3PA=="/>
+			<POI MapID="882" xpos="-100.496" ypos="48.1595" zpos="-21.664" type="festivals.un_tres_joyeux_hivernel.maitrise_du_pays_des_merveilles_d_hiver" GUID="Uwrk48Ugs02cJaeynovyiw=="/>
+		</Route>
+
+		<!-- Partie 1 - Chemin "Quaggans" (Droite) -->
+		<Route MapID="882" name="Hivernel_1_Droite" resetposx="-24.9694" resetposy="34.0194" resetposz="85.4393" resetrange="2">
+			<POI MapID="882" xpos="-33.2491" ypos="32.9564" zpos="77.9391" type="festivals.un_tres_joyeux_hivernel.maitrise_du_pays_des_merveilles_d_hiver" GUID="JFfiyUWRLEur7RpIU9kluw=="/>
+			<POI MapID="882" xpos="-39.3222" ypos="35.4202" zpos="76.111" type="festivals.un_tres_joyeux_hivernel.maitrise_du_pays_des_merveilles_d_hiver" GUID="59+3e8w6AUufOLZCnPYSzg=="/>
+			<POI MapID="882" xpos="-47.1382" ypos="34.3032" zpos="77.9088" type="festivals.un_tres_joyeux_hivernel.maitrise_du_pays_des_merveilles_d_hiver" GUID="h4lwmLS42U+3bFwVHlEzHA=="/>
+			<POI MapID="882" xpos="-54.6684" ypos="35.8997" zpos="80.4155" type="festivals.un_tres_joyeux_hivernel.maitrise_du_pays_des_merveilles_d_hiver" GUID="BNGf2BKYH0WmIvovwDV8QQ=="/>
+			<POI MapID="882" xpos="-52.7095" ypos="35.8705" zpos="85.1194" type="festivals.un_tres_joyeux_hivernel.maitrise_du_pays_des_merveilles_d_hiver" GUID="Gbag/B3Rz0i8aBVxvIZcHw=="/>
+			<POI MapID="882" xpos="-51.5862" ypos="35.7803" zpos="91.5416" type="festivals.un_tres_joyeux_hivernel.maitrise_du_pays_des_merveilles_d_hiver" GUID="lIvQ8JO0nEemo5Xt+ufW4g=="/>
+			<POI MapID="882" xpos="-51.438" ypos="36.1774" zpos="98.8411" type="festivals.un_tres_joyeux_hivernel.maitrise_du_pays_des_merveilles_d_hiver" GUID="amqsp9Zk6EyrglUJos3AWA=="/>
+			<POI MapID="882" xpos="-55.0377" ypos="38.2051" zpos="99.6986" type="festivals.un_tres_joyeux_hivernel.maitrise_du_pays_des_merveilles_d_hiver" GUID="SCXLiyNeykCEgYyAH1UBcA=="/>
+			<POI MapID="882" xpos="-57.8662" ypos="39.5119" zpos="105.115" type="festivals.un_tres_joyeux_hivernel.maitrise_du_pays_des_merveilles_d_hiver" GUID="YbsZJzywskauwYSNMFwUKw=="/>
+			<POI MapID="882" xpos="-62.8097" ypos="41.3873" zpos="101.088" type="festivals.un_tres_joyeux_hivernel.maitrise_du_pays_des_merveilles_d_hiver" GUID="VbnYQVQhBEOvnVmkOOFEyQ=="/>
+			<POI MapID="882" xpos="-68.5008" ypos="42.8382" zpos="100.476" type="festivals.un_tres_joyeux_hivernel.maitrise_du_pays_des_merveilles_d_hiver" GUID="j5OVO7IaoEK0zr6iwlL22g=="/>
+			<POI MapID="882" xpos="-70.9215" ypos="43.762" zpos="95.2446" type="festivals.un_tres_joyeux_hivernel.maitrise_du_pays_des_merveilles_d_hiver" GUID="2nikGmuD3kWP0C8DL2nR/g=="/>
+			<POI MapID="882" xpos="-66.1876" ypos="43.7409" zpos="90.6421" type="festivals.un_tres_joyeux_hivernel.maitrise_du_pays_des_merveilles_d_hiver" GUID="2BQQhHCaaEC78NYL6H3qrw=="/>
+			<POI MapID="882" xpos="-64.1231" ypos="45.6205" zpos="88.8666" type="festivals.un_tres_joyeux_hivernel.maitrise_du_pays_des_merveilles_d_hiver" GUID="DUUt5ossL0eYVKXlBEizXQ=="/>
+			<POI MapID="882" xpos="-62.386" ypos="46.5346" zpos="87.1224" type="festivals.un_tres_joyeux_hivernel.maitrise_du_pays_des_merveilles_d_hiver" GUID="Tmz5/DxSnU+yv9MVysn8ww=="/>
+			<POI MapID="882" xpos="-58.4565" ypos="48.6749" zpos="88.0383" type="festivals.un_tres_joyeux_hivernel.maitrise_du_pays_des_merveilles_d_hiver" GUID="P8xtgb05MEKGLhqn25Znog=="/>
+			<POI MapID="882" xpos="-51.6563" ypos="48.8562" zpos="86.439" type="festivals.un_tres_joyeux_hivernel.maitrise_du_pays_des_merveilles_d_hiver" GUID="8gk8+dObEUuYzfaF9l6ycQ=="/>
+			<POI MapID="882" xpos="-48.1876" ypos="50.2875" zpos="94.5966" type="festivals.un_tres_joyeux_hivernel.maitrise_du_pays_des_merveilles_d_hiver" GUID="xcJ/o+ZoQUSzcM987opX8A=="/>
+			<POI MapID="882" xpos="-48.669" ypos="51.3567" zpos="101.82" type="festivals.un_tres_joyeux_hivernel.maitrise_du_pays_des_merveilles_d_hiver" GUID="FzLTrJw61Eu8HpdxgUxuHg=="/>
+			<POI MapID="882" xpos="-52.4787" ypos="52.819" zpos="104.625" type="festivals.un_tres_joyeux_hivernel.maitrise_du_pays_des_merveilles_d_hiver" GUID="JEpPiLTAskeQmY0D+jceMQ=="/>
+			<POI MapID="882" xpos="-59.1312" ypos="54.1909" zpos="106.338" type="festivals.un_tres_joyeux_hivernel.maitrise_du_pays_des_merveilles_d_hiver" GUID="WnTqZmO9VkyriOUpWX2XoQ=="/>
+			<POI MapID="882" xpos="-63.3099" ypos="55.494" zpos="103.206" type="festivals.un_tres_joyeux_hivernel.maitrise_du_pays_des_merveilles_d_hiver" GUID="BGV5LkC1HUKC1Z5e3cWf2A=="/>
+			<POI MapID="882" xpos="-69.0641" ypos="55.7764" zpos="104.229" type="festivals.un_tres_joyeux_hivernel.maitrise_du_pays_des_merveilles_d_hiver" GUID="uvZsMC38SkCRlaVzGKzcKQ=="/>
+			<POI MapID="882" xpos="-73.3407" ypos="56.5263" zpos="100.472" type="festivals.un_tres_joyeux_hivernel.maitrise_du_pays_des_merveilles_d_hiver" GUID="V56DpLY8+ke3MuNEsjKkQw=="/>
+			<POI MapID="882" xpos="-79.7272" ypos="56.8672" zpos="98.5241" type="festivals.un_tres_joyeux_hivernel.maitrise_du_pays_des_merveilles_d_hiver" GUID="3f4I19YJyE2JvPtaw1/sug=="/>
+			<POI MapID="882" xpos="-82.6143" ypos="56.6841" zpos="91.8741" type="festivals.un_tres_joyeux_hivernel.maitrise_du_pays_des_merveilles_d_hiver" GUID="pZm4FPW3rEeSkDyQ1RgSRg=="/>
+			<POI MapID="882" xpos="-91.7373" ypos="57.2928" zpos="90.0928" type="festivals.un_tres_joyeux_hivernel.maitrise_du_pays_des_merveilles_d_hiver" GUID="bizXPL4C+0yxJXmoNGlH6g=="/>
+			<POI MapID="882" xpos="-92.2616" ypos="57.9243" zpos="84.8335" type="festivals.un_tres_joyeux_hivernel.maitrise_du_pays_des_merveilles_d_hiver" GUID="Z+GMddjUqESZdRMeUe5LMg=="/>
+			<POI MapID="882" xpos="-98.4249" ypos="56.4806" zpos="82.4219" type="festivals.un_tres_joyeux_hivernel.maitrise_du_pays_des_merveilles_d_hiver" GUID="Og1WJ4KjkkukU+qg+h4eJg=="/>
+			<POI MapID="882" xpos="-101.664" ypos="57.2226" zpos="76.4455" type="festivals.un_tres_joyeux_hivernel.maitrise_du_pays_des_merveilles_d_hiver" GUID="l0h4i3N7RUSFcncbLyqYvQ=="/>
+			<POI MapID="882" xpos="-106.494" ypos="56.8949" zpos="72.1409" type="festivals.un_tres_joyeux_hivernel.maitrise_du_pays_des_merveilles_d_hiver" GUID="MYILDCRU20eiCa2aihXqTA=="/>
+			<POI MapID="882" xpos="-103.856" ypos="58.1174" zpos="66.4367" type="festivals.un_tres_joyeux_hivernel.maitrise_du_pays_des_merveilles_d_hiver" GUID="RGAS74jfsEKxNV8bGwImYQ=="/>
+			<POI MapID="882" xpos="-110.661" ypos="57.8052" zpos="62.622" type="festivals.un_tres_joyeux_hivernel.maitrise_du_pays_des_merveilles_d_hiver" GUID="DpAzqpYv2k2cp1pujJZ8hQ=="/>
+			<POI MapID="882" xpos="-110.685" ypos="59.8373" zpos="57.4689" type="festivals.un_tres_joyeux_hivernel.maitrise_du_pays_des_merveilles_d_hiver" GUID="1rPfsY+n10WMwsoPXxYHog=="/>
+			<POI MapID="882" xpos="-116.213" ypos="61.9442" zpos="59.9577" type="festivals.un_tres_joyeux_hivernel.maitrise_du_pays_des_merveilles_d_hiver" GUID="lRJ0Pw1vbEyBN6er+AcC5A=="/>
+			<POI MapID="882" xpos="-117.722" ypos="61.9987" zpos="55.0591" type="festivals.un_tres_joyeux_hivernel.maitrise_du_pays_des_merveilles_d_hiver" GUID="Wotc53Tp/0uQ4UvOnXjSnQ=="/>
+			<POI MapID="882" xpos="-114.716" ypos="63.4283" zpos="53.525" type="festivals.un_tres_joyeux_hivernel.maitrise_du_pays_des_merveilles_d_hiver" GUID="LyVXS7MqC0iq8uKP/mu+kQ=="/>
+			<POI MapID="882" xpos="-111.061" ypos="65.3188" zpos="51.4016" type="festivals.un_tres_joyeux_hivernel.maitrise_du_pays_des_merveilles_d_hiver" GUID="mg5L3Wrc/EC8b92vmVQLMA=="/>
+			<POI MapID="882" xpos="-114.211" ypos="67.1677" zpos="46.3298" type="festivals.un_tres_joyeux_hivernel.maitrise_du_pays_des_merveilles_d_hiver" GUID="ycc8CPM+5EGMMnJbGsZVwg=="/>
+			<POI MapID="882" xpos="-111.08" ypos="68.2112" zpos="42.5228" type="festivals.un_tres_joyeux_hivernel.maitrise_du_pays_des_merveilles_d_hiver" GUID="EAfHNnNqHUSbVW/LX3S9Qg=="/>
+			<POI MapID="882" xpos="-114.112" ypos="66.226" zpos="35.6203" type="festivals.un_tres_joyeux_hivernel.maitrise_du_pays_des_merveilles_d_hiver" GUID="6bkZKpXUBEOpoOKa2eO7sg=="/>
+			<POI MapID="882" xpos="-121.349" ypos="66.3712" zpos="34.8622" type="festivals.un_tres_joyeux_hivernel.maitrise_du_pays_des_merveilles_d_hiver" GUID="b/3Ja7gc1UOlnTdgzNR6qA=="/>
+			<POI MapID="882" xpos="-124.478" ypos="66.8574" zpos="29.7481" type="festivals.un_tres_joyeux_hivernel.maitrise_du_pays_des_merveilles_d_hiver" GUID="jP8Q6rXgtEaR0UDKm+9low=="/>
+			<POI MapID="882" xpos="-127.179" ypos="66.6515" zpos="22.7651" type="festivals.un_tres_joyeux_hivernel.maitrise_du_pays_des_merveilles_d_hiver" GUID="F72tW5tSfk25Wo3tYqTo6g=="/>
+			<POI MapID="882" xpos="-120.07" ypos="66.8304" zpos="17.5235" type="festivals.un_tres_joyeux_hivernel.maitrise_du_pays_des_merveilles_d_hiver" GUID="TMZcges6TU2i6w47ZJ5YNA=="/>
+			<POI MapID="882" xpos="-121.562" ypos="61.5349" zpos="10.1905" type="festivals.un_tres_joyeux_hivernel.maitrise_du_pays_des_merveilles_d_hiver" GUID="YYgUBoIQYUC4+E/VMMu+qA=="/>
+			<POI MapID="882" xpos="-119.559" ypos="56.479" zpos="0.684157" type="festivals.un_tres_joyeux_hivernel.maitrise_du_pays_des_merveilles_d_hiver" GUID="muVh6A/CmUebtQJ7DjVNLA=="/>
+			<POI MapID="882" xpos="-114.602" ypos="53.5563" zpos="-1.27053" type="festivals.un_tres_joyeux_hivernel.maitrise_du_pays_des_merveilles_d_hiver" GUID="UWnSWJysNk6HMeFVv5g4/g==" triggerRange="6"/><!-- Optionnel -->
+			<POI MapID="882" xpos="-110.988" ypos="52.6421" zpos="-6.87134" type="festivals.un_tres_joyeux_hivernel.maitrise_du_pays_des_merveilles_d_hiver" GUID="ZDXVY12wb0qZJI5zFuzEhg=="/>
+			<POI MapID="882" xpos="-113.551" ypos="50.2866" zpos="-13.2279" type="festivals.un_tres_joyeux_hivernel.maitrise_du_pays_des_merveilles_d_hiver" GUID="4/3QFGjjCEihB9Ro6x3AfQ=="/>
+			<POI MapID="882" xpos="-111.864" ypos="51.0085" zpos="-17.4816" type="festivals.un_tres_joyeux_hivernel.maitrise_du_pays_des_merveilles_d_hiver" GUID="koQ+14UUekuKxYT3ZLMHzQ=="/>
+			<POI MapID="882" xpos="-107.9" ypos="49.3062" zpos="-22.0926" type="festivals.un_tres_joyeux_hivernel.maitrise_du_pays_des_merveilles_d_hiver" GUID="mDgBkWla1kyrwRuYOZja2w=="/>
+		</Route>
+
+		<!-- Feu de Camps de Tixx -->
+		<POI MapID="882" xpos="-104.186" ypos="47.7029" zpos="-28.5254" type="festivals.un_tres_joyeux_hivernel.maitrise_du_pays_des_merveilles_d_hiver" GUID="Na+HAMICDUOLyJFs0wJ5CA==" iconFile="Img\DrapeauPassage.png" iconSize="1"/>
+
+		<!-- Partie 2 -->
+		<Route MapID="882" name="Hivernel_2" resetposx="-104.186" resetposy="47.7029" resetposz="-28.5254" resetrange="2">
+			<POI MapID="882" xpos="-108.421" ypos="44.8755" zpos="-40.2309" type="festivals.un_tres_joyeux_hivernel.maitrise_du_pays_des_merveilles_d_hiver" GUID="hRWGy1+e/kKcBvjl+d120w=="/>
+			<POI MapID="882" xpos="-109.725" ypos="45.7518" zpos="-43.5331" type="festivals.un_tres_joyeux_hivernel.maitrise_du_pays_des_merveilles_d_hiver" GUID="3e1fmmXsjk2EiZYAN5r9Ng=="/>
+			<POI MapID="882" xpos="-110.929" ypos="47.7076" zpos="-45.6506" type="festivals.un_tres_joyeux_hivernel.maitrise_du_pays_des_merveilles_d_hiver" GUID="iI78AgKgM0Smys5mnO5MiQ=="/>
+			<POI MapID="882" xpos="-111.921" ypos="49.3459" zpos="-48.6445" type="festivals.un_tres_joyeux_hivernel.maitrise_du_pays_des_merveilles_d_hiver" GUID="Vox+wue1FUyFcIrHw6T32w=="/>
+			<POI MapID="882" xpos="-112.662" ypos="50.8826" zpos="-52.4731" type="festivals.un_tres_joyeux_hivernel.maitrise_du_pays_des_merveilles_d_hiver" GUID="9Q3qCTSOokudQM3ba3NmXQ=="/>
+			<POI MapID="882" xpos="-113.243" ypos="52.2517" zpos="-56.3377" type="festivals.un_tres_joyeux_hivernel.maitrise_du_pays_des_merveilles_d_hiver" GUID="iz9Ji4VIskWT2SBuly/Eqw=="/>
+			<POI MapID="882" xpos="-114.374" ypos="53.0289" zpos="-60.7047" type="festivals.un_tres_joyeux_hivernel.maitrise_du_pays_des_merveilles_d_hiver" GUID="l+sUUFiHH0OJy+Qg0CofbQ=="/>
+			<POI MapID="882" xpos="-115.869" ypos="54.7501" zpos="-65.2798" type="festivals.un_tres_joyeux_hivernel.maitrise_du_pays_des_merveilles_d_hiver" GUID="wcW47PI8Bkmj7dGMk5tHGA=="/>
+			<POI MapID="882" xpos="-119.042" ypos="53.0467" zpos="-71.3849" type="festivals.un_tres_joyeux_hivernel.maitrise_du_pays_des_merveilles_d_hiver" GUID="qKTxAOUXuUGes+ne/+WiEQ=="/>
+			<POI MapID="882" xpos="-120.533" ypos="53.0144" zpos="-77.168" type="festivals.un_tres_joyeux_hivernel.maitrise_du_pays_des_merveilles_d_hiver" GUID="+5Icx/WYeUq4dgRBTY+smQ==" iconFile="Img\DangerEsquive-EN.png" triggerRange="1"/><!-- Vent -->
+			<POI MapID="882" xpos="-122.138" ypos="53.3886" zpos="-82.1382" type="festivals.un_tres_joyeux_hivernel.maitrise_du_pays_des_merveilles_d_hiver" GUID="Ks2Jvslp+Uij16sp1+6/fA=="/>
+			<POI MapID="882" xpos="-124.433" ypos="48.8334" zpos="-90.8707" type="festivals.un_tres_joyeux_hivernel.maitrise_du_pays_des_merveilles_d_hiver" GUID="S8S548lW/EmElgPdWbz8ig=="/>
+			<POI MapID="882" xpos="-127.162" ypos="43.5684" zpos="-99.2855" type="festivals.un_tres_joyeux_hivernel.maitrise_du_pays_des_merveilles_d_hiver" GUID="SMYJUx4vw0W8CVJ6TVrltQ=="/>
+			<POI MapID="882" xpos="-132.917" ypos="40.2949" zpos="-116.049" type="festivals.un_tres_joyeux_hivernel.maitrise_du_pays_des_merveilles_d_hiver" GUID="ExT/PaIhpEuuhvHhLS1SUA==" triggerRange="10"/><!-- Optionnel -->
+			<POI MapID="882" xpos="-139.495" ypos="39.461" zpos="-107.96" type="festivals.un_tres_joyeux_hivernel.maitrise_du_pays_des_merveilles_d_hiver" GUID="HC8/MTIaOk+rvXeTKk2WZQ==" triggerRange="3"/><!-- Large -->
+			<POI MapID="882" xpos="-145.937" ypos="39.4071" zpos="-106.604" type="festivals.un_tres_joyeux_hivernel.maitrise_du_pays_des_merveilles_d_hiver" GUID="7LVcUasBYEi4KEpNPgwcIQ=="/>
+			<POI MapID="882" xpos="-152.508" ypos="40.4157" zpos="-97.5246" type="festivals.un_tres_joyeux_hivernel.maitrise_du_pays_des_merveilles_d_hiver" GUID="K80A8zI3fEGNl0peQWKQGQ==" triggerRange="8"/><!-- Optionnel -->
+			<POI MapID="882" xpos="-158.202" ypos="41.34" zpos="-96.6811" type="festivals.un_tres_joyeux_hivernel.maitrise_du_pays_des_merveilles_d_hiver" GUID="ea8arf4ZrkmCHZl1TV+Ccg=="/>
+			<POI MapID="882" xpos="-162.593" ypos="43.4755" zpos="-101.367" type="festivals.un_tres_joyeux_hivernel.maitrise_du_pays_des_merveilles_d_hiver" GUID="pB9NV+Co8Em7SoaG5cXuZw=="/>
+			<POI MapID="882" xpos="-171.513" ypos="46.4658" zpos="-102.45" type="festivals.un_tres_joyeux_hivernel.maitrise_du_pays_des_merveilles_d_hiver" GUID="0A1Z0/kzHEyBK06SWCVLig=="/>
+			<POI MapID="882" xpos="-175.925" ypos="46.4202" zpos="-107.559" type="festivals.un_tres_joyeux_hivernel.maitrise_du_pays_des_merveilles_d_hiver" GUID="HFIFukfBg02hX8dR1wVmTA=="/>
+			<POI MapID="882" xpos="-180.404" ypos="49.5267" zpos="-113.126" type="festivals.un_tres_joyeux_hivernel.maitrise_du_pays_des_merveilles_d_hiver" GUID="pPQbz/E5G0qwIxYllNo9Hw==" iconFile="Img\DangerVent.png" triggerRange="5"/><!-- Large + Danger-->
+			<POI MapID="882" xpos="-177.952" ypos="49.7383" zpos="-118.819" type="festivals.un_tres_joyeux_hivernel.maitrise_du_pays_des_merveilles_d_hiver" GUID="cjyVQQjmPkODf5OVbb5V+Q==" iconFile="Img\DangerVent.png" triggerRange="5"/><!-- Large + Danger-->
+			<POI MapID="882" xpos="-169.281" ypos="45.6135" zpos="-120.807" type="festivals.un_tres_joyeux_hivernel.maitrise_du_pays_des_merveilles_d_hiver" GUID="7/Oy0J/dOkefThORjAyXhQ==" triggerRange="5"/><!-- Large -->
+			<POI MapID="882" xpos="-154.199" ypos="48.9951" zpos="-127.988" type="festivals.un_tres_joyeux_hivernel.maitrise_du_pays_des_merveilles_d_hiver" GUID="a+l/L4tAck+KZQFP5+BuQA=="/>
+			<POI MapID="882" xpos="-149.335" ypos="51.8196" zpos="-134.318" type="festivals.un_tres_joyeux_hivernel.maitrise_du_pays_des_merveilles_d_hiver" GUID="SKY286n3UEKT443kkSZ76Q=="/>
+			<POI MapID="882" xpos="-141.776" ypos="54.6686" zpos="-143.679" type="festivals.un_tres_joyeux_hivernel.maitrise_du_pays_des_merveilles_d_hiver" GUID="PPG66M7VW0e9DdOaiw7Wsg==" triggerRange="6"/><!-- Optionnel -->
+			<POI MapID="882" xpos="-134.362" ypos="57.3664" zpos="-141.834" type="festivals.un_tres_joyeux_hivernel.maitrise_du_pays_des_merveilles_d_hiver" GUID="+TCJWNVku0igUDP8bHee4g=="/>
+			<POI MapID="882" xpos="-132.933" ypos="58.7767" zpos="-148.514" type="festivals.un_tres_joyeux_hivernel.maitrise_du_pays_des_merveilles_d_hiver" GUID="hIQFLfbaa0eFAjnDbPp8Lg=="/>
+			<POI MapID="882" xpos="-137.978" ypos="58.0353" zpos="-150.116" type="festivals.un_tres_joyeux_hivernel.maitrise_du_pays_des_merveilles_d_hiver" GUID="4c7pvbQYhEaYHsX6B0beeA=="/>
+			<POI MapID="882" xpos="-142.101" ypos="58.9935" zpos="-150.399" type="festivals.un_tres_joyeux_hivernel.maitrise_du_pays_des_merveilles_d_hiver" GUID="MECYC6HLgkyJqr5HK/cxMg=="/>
+			<POI MapID="882" xpos="-146.198" ypos="59.9776" zpos="-149.437" type="festivals.un_tres_joyeux_hivernel.maitrise_du_pays_des_merveilles_d_hiver" GUID="6Qv9aR8XRUCj1quiS7x2mA=="/>
+			<POI MapID="882" xpos="-150.796" ypos="61.5993" zpos="-150.219" type="festivals.un_tres_joyeux_hivernel.maitrise_du_pays_des_merveilles_d_hiver" GUID="8XzyVLEUK0iE8GbYxLZc6w=="/>
+			<POI MapID="882" xpos="-154.685" ypos="62.8179" zpos="-148.864" type="festivals.un_tres_joyeux_hivernel.maitrise_du_pays_des_merveilles_d_hiver" GUID="jR5ZGz7Mgk28dZcAbGDOlw=="/>
+			<POI MapID="882" xpos="-159.438" ypos="65.4535" zpos="-148.539" type="festivals.un_tres_joyeux_hivernel.maitrise_du_pays_des_merveilles_d_hiver" GUID="fzLXQCp3rk6lXwUA1s3ngQ=="/>
+			<POI MapID="882" xpos="-163.796" ypos="66.9102" zpos="-149.029" type="festivals.un_tres_joyeux_hivernel.maitrise_du_pays_des_merveilles_d_hiver" GUID="5d0s7A8AoEyCCWf9aVi1Eg=="/>
+			<!-- Arrivée -->
+			<POI MapID="882" xpos="-169.685" ypos="68.377" zpos="-150.178" type="festivals.un_tres_joyeux_hivernel.maitrise_du_pays_des_merveilles_d_hiver" GUID="yZbbBV5h80GYEB6O3OqLBQ==" iconFile="Img\DrapeauArrivee.png" iconSize="1"/>
+		</Route>
+
+		<!-- Coffre -->
+		<POI MapID="882" xpos="79.0155" ypos="72.2076" zpos="99.3518" type="festivals.un_tres_joyeux_hivernel.maitrise_du_pays_des_merveilles_d_hiver" GUID="uxIRyONyHEWVFttCCvMGYw==" iconFile="Img\CoffrePuzzle.png" iconSize="1" heightOffset="3.5"/>
+
+	</POIs>
+</OverlayData>

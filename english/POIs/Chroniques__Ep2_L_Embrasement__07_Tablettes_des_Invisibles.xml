@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+POIs: BoyC.2653
+Date: 2016/11/29
+-->
+<OverlayData>
+	<MarkerCategory name="chroniques.saison_3">
+		<MarkerCategory name="ep2_l_embrasement" DisplayName="Ep.2 - Rising Flames" iconFile="Img\BaieDesBraises.png">
+			<MarkerCategory name="tablettes_des_invisibles" DisplayName="Tablets of the Unseen"/>
+		</MarkerCategory>
+	</MarkerCategory>
+
+	<POIs>
+
+		<!-- Tablettes des Invisibles -->
+		<POI MapID="1175" xpos="-851.872" ypos="22.5798" zpos="-17.2331" type="chroniques.saison_3.ep2_l_embrasement.tablettes_des_invisibles" GUID="vY+rTBBnsk6cBSFoeuXSCw=="/>
+		<POI MapID="1175" xpos="-783.576" ypos="62.8218" zpos="-32.359" type="chroniques.saison_3.ep2_l_embrasement.tablettes_des_invisibles" GUID="5aUF5uQEi0ucTKBHXuuVYQ=="/>
+		<POI MapID="1175" xpos="-757.045" ypos="63.1673" zpos="-42.9694" type="chroniques.saison_3.ep2_l_embrasement.tablettes_des_invisibles" GUID="RTWsheq8FkiO5i1pk6Jz/A=="/>
+		<POI MapID="1175" xpos="-811.361" ypos="32.0013" zpos="-66.3954" type="chroniques.saison_3.ep2_l_embrasement.tablettes_des_invisibles" GUID="b+S7Z22x30yenfG6Z3kCjg=="/>
+		<POI MapID="1175" xpos="-678.925" ypos="91.0088" zpos="-55.7405" type="chroniques.saison_3.ep2_l_embrasement.tablettes_des_invisibles" GUID="0lUfmzfheE6lkGn7sPbdHg=="/>
+		<POI MapID="1175" xpos="-699.009" ypos="113.898" zpos="39.06" type="chroniques.saison_3.ep2_l_embrasement.tablettes_des_invisibles" GUID="oekI90E1PUirRyXXvrDm5Q=="/>
+		<POI MapID="1175" xpos="-639.826" ypos="152.03" zpos="13.0765" type="chroniques.saison_3.ep2_l_embrasement.tablettes_des_invisibles" GUID="Pr+kJrgLxk+4sTawyBq5GQ=="/>
+		<POI MapID="1175" xpos="-666.765" ypos="138.657" zpos="-78.3005" type="chroniques.saison_3.ep2_l_embrasement.tablettes_des_invisibles" GUID="ZbhXAurl6EeW/Y69fEfHqg=="/>
+		<POI MapID="1175" xpos="-901.711" ypos="8.58285" zpos="-19.1171" type="chroniques.saison_3.ep2_l_embrasement.tablettes_des_invisibles" GUID="i24nDBmsFEqn4aJplo8lYg=="/>
+		<POI MapID="1175" xpos="-884.611" ypos="18.0433" zpos="-142.745" type="chroniques.saison_3.ep2_l_embrasement.tablettes_des_invisibles" GUID="lAenGTNScka1NQEFisJZrw=="/>
+
+	</POIs>
+</OverlayData>

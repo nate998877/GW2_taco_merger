@@ -1,0 +1,467 @@
+<!-- 2020.06.14 -->
+<OverlayData>
+	<POIs>
+
+		<!-- ARTICHOKE -->
+		<POI MapID="39" xpos="205.346" ypos="38.6002" zpos="-168.239" type="harvest.plant.artichoke" GUID="T9Hwm2ydLki3e0HkKFxhEg=="/>
+		<POI MapID="39" xpos="213.192" ypos="38.8952" zpos="-165.193" type="harvest.plant.artichoke" GUID="SmIuoBJejkSNkTFdgKRLKw=="/>
+		<POI MapID="39" xpos="214.738" ypos="39.579"  zpos="-171.848" type="harvest.plant.artichoke" GUID="PAznuOcwN0yolPEdFwCCgA=="/>
+		<POI MapID="39" xpos="217.834" ypos="37.7743" zpos="-157.007" type="harvest.plant.artichoke" GUID="p9tf8E2ePku+qEcSiwUQZw=="/>
+		<POI MapID="39" xpos="218.347" ypos="38.8807" zpos="-148.22"  type="harvest.plant.artichoke" GUID="vM0Z0xONjkCK8XymdYms2g=="/>
+		<POI MapID="39" xpos="220.652" ypos="38.0543" zpos="-161.695" type="harvest.plant.artichoke" GUID="2tRBZ3WOXUqpOMaBgcnuQA=="/>
+		<POI MapID="39" xpos="221.832" ypos="38.7151" zpos="-169.327" type="harvest.plant.artichoke" GUID="EuDQ3Q4mG0iYB6krB1GHHg=="/>
+		<POI MapID="39" xpos="227.957" ypos="37.1026" zpos="-154.633" type="harvest.plant.artichoke" GUID="aANYTSeLc0G022mQW1r3tg=="/>
+
+		<POI MapID="51" xpos="819.645" ypos="58.1953" zpos="692.577"  type="harvest.plant.artichoke" GUID="Vb9Ko+LJC0+jet/q+3oQpw=="/>
+		<POI MapID="51" xpos="819.831" ypos="57.8892" zpos="685.62"   type="harvest.plant.artichoke" GUID="aO6N0pezmkWQO7DeKvJy0A=="/>
+		<POI MapID="51" xpos="819.959" ypos="57.9547" zpos="685.962"  type="harvest.plant.artichoke" GUID="/HIYpZIQuEuEBmeQWQQYMA=="/>
+		<POI MapID="51" xpos="820.343" ypos="58.4277" zpos="692.719"  type="harvest.plant.artichoke" GUID="FEQCllwhdEyXlhWdJTwOqw=="/>
+		<POI MapID="51" xpos="821.431" ypos="58.4608" zpos="688.047"  type="harvest.plant.artichoke" GUID="/q7Hx+n02kO29gsj8HWpAA=="/>
+		<POI MapID="51" xpos="821.485" ypos="58.4683" zpos="688.015"  type="harvest.plant.artichoke" GUID="Z48gRHNN70C4m9Hy84qwTQ=="/>
+		<POI MapID="51" xpos="821.971" ypos="58.3481" zpos="686.026"  type="harvest.plant.artichoke" GUID="vffer1C2TUaKaRFrEbls8A=="/>
+		<POI MapID="51" xpos="822.005" ypos="58.3135" zpos="685.68"   type="harvest.plant.artichoke" GUID="xYiYDaXVDkGeHEOmXdxGBw=="/>
+		<POI MapID="51" xpos="822.263" ypos="59.0231" zpos="693.528"  type="harvest.plant.artichoke" GUID="xcL6xKHGWEy934/IidBlVA=="/>
+		<POI MapID="51" xpos="822.51"  ypos="58.9664" zpos="691.261"  type="harvest.plant.artichoke" GUID="tjVC7xdEukaC9u+w0FVMzg=="/>
+		<POI MapID="51" xpos="822.687" ypos="59.1078" zpos="692.693"  type="harvest.plant.artichoke" GUID="Foa7RnzAW0WZ2sDk80AxMw=="/>
+		<POI MapID="51" xpos="823.23"  ypos="58.9358" zpos="689.192"  type="harvest.plant.artichoke" GUID="o953b7K/dEm+f+PsR8dkiA=="/>
+		<POI MapID="51" xpos="823.297" ypos="58.9987" zpos="689.783"  type="harvest.plant.artichoke" GUID="Gqbs6JJQjUqZTBCOg+/80g=="/>
+		<POI MapID="51" xpos="823.815" ypos="58.9018" zpos="686.375"  type="harvest.plant.artichoke" GUID="blk+aDewLEeFRoZEOvHwvg=="/>
+
+		<!-- BLACKBERRY -->
+		<POI MapID="1371" xpos="245.659"  ypos="100.136" zpos="-800.179" type="harvest.plant.blackberry" GUID="x8yjYU0cKEuVzFsQzY/k7Q=="/>
+		<POI MapID="1371" xpos="253.31"   ypos="100.232" zpos="-801.737" type="harvest.plant.blackberry" GUID="/t5PsiUBJEe31o4B4Kb8zw=="/>
+		<POI MapID="1371" xpos="261.589"  ypos="99.2739" zpos="-802.539" type="harvest.plant.blackberry" GUID="TUcLedkyFkO19GyMoFclkw=="/>
+		<POI MapID="1371" xpos="269.546"  ypos="98.9875" zpos="-804.447" type="harvest.plant.blackberry" GUID="a9fUmO9EyEG6V/1wJb+k4w=="/>
+
+		<!-- BLOOMING PASSIFLORA -->
+		<POI MapID="873"  xpos="-609.595" ypos="31.5892"  zpos="-262.571" type="harvest.plant.blooming_passiflora" GUID="6SYoHVXYTEeWFjcJPGDbbQ=="/>
+		<POI MapID="873"  xpos="-531.929" ypos="54.8396"  zpos="313.962"  type="harvest.plant.blooming_passiflora" GUID="9dtKG2t6gUqdRgzlb3K0hA=="/>
+		<POI MapID="873"  xpos="-511.025" ypos="33.9958"  zpos="271.675"  type="harvest.plant.blooming_passiflora" GUID="cEKauvzHdkm4YutZaGgRCA=="/>
+		<POI MapID="873"  xpos="-341.224" ypos="40.7508"  zpos="69.2253"  type="harvest.plant.blooming_passiflora" GUID="JQcpDjn9i0O7zhI7DlBnGA=="/>
+		<POI MapID="873"  xpos="-304.528" ypos="0.872131" zpos="370.25"   type="harvest.plant.blooming_passiflora" GUID="gA/t9rTKmk6HlGJkdn07sw=="/>
+		<POI MapID="873"  xpos="-167.871" ypos="42.9859"  zpos="-208.857" type="harvest.plant.blooming_passiflora" GUID="W8cQJyM7CESUEDJ6HROXTQ=="/>
+		<POI MapID="873"  xpos="396.169"  ypos="58.9432"  zpos="-177.689" type="harvest.plant.blooming_passiflora" GUID="gc0BDwZ4Q0eYy0zFEPrb2Q=="/>
+		<POI MapID="873"  xpos="542.711"  ypos="41.2909"  zpos="-40.5903" type="harvest.plant.blooming_passiflora" GUID="+onLqYLJ/0COkeRGrp7Eyw=="/>
+		<POI MapID="873"  xpos="543.093"  ypos="46.497"   zpos="-196.615" type="harvest.plant.blooming_passiflora" GUID="PEydXXSqQ0a6mGN1HMYGrw=="/>
+		<POI MapID="873"  xpos="636.94"   ypos="34.3887"  zpos="-108.436" type="harvest.plant.blooming_passiflora" GUID="mFU0uDIKAk23PUDJ33svpw=="/>
+		<POI MapID="873"  xpos="686.096"  ypos="17.9656"  zpos="34.0866"  type="harvest.plant.blooming_passiflora" GUID="KeqY8rqlS0aAPpC9+rqEZA=="/>
+
+		<POI MapID="1175" xpos="-865.132" ypos="18.5836"  zpos="-421.395" type="harvest.plant.blooming_passiflora" GUID="UI4BTmW8g0ughfPDG3ZNFQ=="/>
+		<POI MapID="1175" xpos="-757.703" ypos="4.65249"  zpos="-845.743" type="harvest.plant.blooming_passiflora" GUID="w2uvoe+D4UiEkgRlEJGgqQ=="/>
+		<POI MapID="1175" xpos="-465.19"  ypos="30.6688"  zpos="-844.179" type="harvest.plant.blooming_passiflora" GUID="ROE6Ojdu+EG7+PtoRd361Q=="/>
+
+		<!-- BUTTERNUT SQUASH -->
+		<POI MapID="22" xpos="-692.914" ypos="56.8633" zpos="-724.774" type="harvest.plant.butternut_squash" GUID="a/ggLp6aZ0+N43RcMJrI6g=="/>
+		<POI MapID="22" xpos="-692.829" ypos="57.3235" zpos="-729.184" type="harvest.plant.butternut_squash" GUID="N2TgRf32v0y8rTE6N2aQZg=="/>
+		<POI MapID="22" xpos="-688.531" ypos="57.3113" zpos="-721.976" type="harvest.plant.butternut_squash" GUID="Axb0EmGO+ka+kbAv9Zhfjw=="/>
+		<POI MapID="22" xpos="-686.299" ypos="57.1538" zpos="-716.511" type="harvest.plant.butternut_squash" GUID="VXZA54PIBkaosQMWNTMcRg=="/>
+		<POI MapID="22" xpos="-686.034" ypos="61.6436" zpos="-732.546" type="harvest.plant.butternut_squash" GUID="As8O9N8CHUGHzd0Rx++2dA=="/>
+		<POI MapID="22" xpos="-684.731" ypos="60.2417" zpos="-725.539" type="harvest.plant.butternut_squash" GUID="nDIk/Xqm40G0TPy0TMH3Og=="/>
+		<POI MapID="22" xpos="-684.356" ypos="60.9911" zpos="-728.134" type="harvest.plant.butternut_squash" GUID="CcUHRga7g0mxJYaYN5NOaw=="/>
+		<POI MapID="22" xpos="-683.872" ypos="61.5378" zpos="-730.989" type="harvest.plant.butternut_squash" GUID="0xf9nxzCPkS4KDGhKi/dCg=="/>
+
+		<POI MapID="30" xpos="629.123"  ypos="2.1288"  zpos="-606.475" type="harvest.plant.butternut_squash" GUID="i1zylvuYmE6Bf9Xk9MpBkA=="/>
+		<POI MapID="30" xpos="629.466"  ypos="2.81612" zpos="-621.753" type="harvest.plant.butternut_squash" GUID="kjb8MasLgk6LzCgViVrBLw=="/>
+		<POI MapID="30" xpos="630.796"  ypos="9.06565" zpos="-575.706" type="harvest.plant.butternut_squash" GUID="cToxslAqV0ydZi/R1wxm3Q=="/>
+		<POI MapID="30" xpos="637.412"  ypos="8.62568" zpos="-592.51"  type="harvest.plant.butternut_squash" GUID="ad/1R60fhk+wIyGFzQuOIw=="/>
+		<POI MapID="30" xpos="637.723"  ypos="3.17853" zpos="-626.598" type="harvest.plant.butternut_squash" GUID="KKuPNJtd+0iRRXt7sIZhGQ=="/>
+		<POI MapID="30" xpos="640.111"  ypos="8.2729"  zpos="-577.386" type="harvest.plant.butternut_squash" GUID="zcz+qcmq3kqBZzrYt2UjqQ=="/>
+		<POI MapID="30" xpos="642.359"  ypos="2.26914" zpos="-610.809" type="harvest.plant.butternut_squash" GUID="2JzeXXW4ukiQPYFOsCQISQ=="/>
+		<POI MapID="30" xpos="645.803"  ypos="7.80065" zpos="-592.864" type="harvest.plant.butternut_squash" GUID="c5o8Ecn7mEi+YRI2QGm51g=="/>
+
+		<!-- CABBAGE -->
+		<POI MapID="17"  xpos="-713.374" ypos="0.31013"  zpos="-135.013" type="harvest.plant.cabbage" GUID="PtmPdXsFhE+TQsF+3stn3Q=="/>
+		<POI MapID="17"  xpos="-713.107" ypos="0.286012" zpos="-141.684" type="harvest.plant.cabbage" GUID="0jfT0LMbM0+VI0bMLUlXwQ=="/>
+		<POI MapID="17"  xpos="-710.001" ypos="0.686973" zpos="-129.825" type="harvest.plant.cabbage" GUID="t1tuHpJg4U2kCmQxT2S5Gw=="/>
+		<POI MapID="17"  xpos="-706.785" ypos="0.161388" zpos="-143.19"  type="harvest.plant.cabbage" GUID="Pk5O2Jp9f0WrnKAV+ikw6Q=="/>
+		<POI MapID="17"  xpos="-705.155" ypos="0.462063" zpos="-128.031" type="harvest.plant.cabbage" GUID="RkaXRlokg0CI8werBFBWHA=="/>
+		<POI MapID="17"  xpos="-701.773" ypos="0.259399" zpos="-140.732" type="harvest.plant.cabbage" GUID="LXA3UkrBHEy2lthdlEmMkQ=="/>
+		<POI MapID="17"  xpos="-700.587" ypos="0.674885" zpos="-125.706" type="harvest.plant.cabbage" GUID="1upsJXzAu0eWy7tbxWXt5g=="/>
+		<POI MapID="17"  xpos="-698.489" ypos="0.373085" zpos="-135.966" type="harvest.plant.cabbage" GUID="soVWu53SMkyIVfke8D8ZnQ=="/>
+
+		<POI MapID="20"  xpos="458.94"   ypos="43.31"    zpos="589.69"   type="harvest.plant.cabbage" GUID="XIDHjAOoAke0KBEwXO1OlA=="/>
+		<POI MapID="20"  xpos="459.37"   ypos="43.34"    zpos="587.49"   type="harvest.plant.cabbage" GUID="jFX/b4WMf0yGKLhNWOkM3Q=="/>
+		<POI MapID="20"  xpos="459.65"   ypos="43.36"    zpos="585.27"   type="harvest.plant.cabbage" GUID="mUvj2UQCGUaesuAybSU+wg=="/>
+		<POI MapID="20"  xpos="460.04"   ypos="43.38"    zpos="583.07"   type="harvest.plant.cabbage" GUID="r1CXVFdWOEO4maMjLrZDLQ=="/>
+		<POI MapID="20"  xpos="461.4"    ypos="43.48"    zpos="590.37"   type="harvest.plant.cabbage" GUID="9XXOTDnsp0mZ1kFtsGcLoQ=="/>
+		<POI MapID="20"  xpos="461.69"   ypos="43.44"    zpos="588.09"   type="harvest.plant.cabbage" GUID="rPNTmgg/R0amG2LhuOk3BA=="/>
+		<POI MapID="20"  xpos="462.51"   ypos="43.46"    zpos="583.75"   type="harvest.plant.cabbage" GUID="BIAjM5Dhc06p6h5kdlEmlg=="/>
+		<POI MapID="20"  xpos="462.03"   ypos="43.45"    zpos="585.93"   type="harvest.plant.cabbage" GUID="h3ktmDgVSE+uJJPTMxRI4w=="/>
+
+		<POI MapID="26"  xpos="357.021"  ypos="98.4303"  zpos="233.523"  type="harvest.plant.cabbage" GUID="qiEeO+A8IkaTpCRBiM4cYA=="/>
+		<POI MapID="26"  xpos="359.581"  ypos="98.4246"  zpos="234.427"  type="harvest.plant.cabbage" GUID="pDjPi2nkEU6FDCGYgyZj1Q=="/>
+		<POI MapID="26"  xpos="369.437"  ypos="98.1853"  zpos="240.326"  type="harvest.plant.cabbage" GUID="q8jkCvP5SECPMFggNaYQNQ=="/>
+		<POI MapID="26"  xpos="370.057"  ypos="101.043"  zpos="212.595"  type="harvest.plant.cabbage" GUID="NFiBqvrw0U+7/6XeOWSgrA=="/>
+		<POI MapID="26"  xpos="371.793"  ypos="100.704"  zpos="216.02"   type="harvest.plant.cabbage" GUID="IsIInw4sSUGGF3uAfbH3QQ=="/>
+		<POI MapID="26"  xpos="380.929"  ypos="101.025"  zpos="223.585"  type="harvest.plant.cabbage" GUID="M2OfR40Xy0S+fW3wWTNLUw=="/>
+		<POI MapID="26"  xpos="383.149"  ypos="101.474"  zpos="223.293"  type="harvest.plant.cabbage" GUID="cHTWqPA2B0KYXlHIKXGxAQ=="/>
+		<POI MapID="26"  xpos="384.267"  ypos="101.042"  zpos="226.061"  type="harvest.plant.cabbage" GUID="Nx5YFGqNEUGnMfsvgtNiFA=="/>
+
+		<POI MapID="988" xpos="-513.834" ypos="8.20288"  zpos="-2.12293" type="harvest.plant.cabbage" GUID="yN8fm/1lB067mchIqrRMtw=="/>
+		<POI MapID="988" xpos="-513.799" ypos="8.71681"  zpos="-8.94959" type="harvest.plant.cabbage" GUID="+IbWJGPYRUOwttle34g6PA=="/>
+		<POI MapID="988" xpos="-513.474" ypos="9.43028"  zpos="-25.1438" type="harvest.plant.cabbage" GUID="wwsOJhFuT06xqc0xDB6g4w=="/>
+		<POI MapID="988" xpos="-513.396" ypos="9.41472"  zpos="-17.3448" type="harvest.plant.cabbage" GUID="aDReAlC6dky53o22KAhbrg=="/>
+
+		<!-- CACTUS -->
+		<POI MapID="988" xpos="-510.596" ypos="10.7096" zpos="-25.7695" type="harvest.plant.cactus" GUID="dXHiOg2wZkOV1ibndXQR4Q=="/>
+		<POI MapID="988" xpos="-510.351" ypos="9.38054" zpos="-8.1286"  type="harvest.plant.cactus" GUID="sQ9CALlsq0W5DG2cp0jZWw=="/>
+		<POI MapID="988" xpos="-510.193" ypos="9.36707" zpos="-1.27386" type="harvest.plant.cactus" GUID="m2GBYerD80OuhXw5TYvo1A=="/>
+		<POI MapID="988" xpos="-510.093" ypos="10.7156" zpos="-17.4352" type="harvest.plant.cactus" GUID="gGEPPUtdhEum1hZ9m9U3sg=="/>
+
+		<!-- CARROT -->
+		<POI MapID="988" xpos="-523.469" ypos="9.18786" zpos="-16.8317" type="harvest.plant.carrot" GUID="VFQLmTA7pU6nkjU8UPVKwQ=="/>
+		<POI MapID="988" xpos="-523.438" ypos="9.62836" zpos="-25.2625" type="harvest.plant.carrot" GUID="L93kN3mTLk+KkO1LjPjhVg=="/>
+		<POI MapID="988" xpos="-523.007" ypos="8.93021" zpos="-7.57494" type="harvest.plant.carrot" GUID="wkkaqQEPeEqH8cgXOBuFUA=="/>
+		<POI MapID="988" xpos="-522.935" ypos="8.44168" zpos="-1.02567" type="harvest.plant.carrot" GUID="Dl9T+kzrA0mBtG+nN/ps8Q=="/>
+
+		<!-- CAULIFLOWER -->
+		<POI MapID="29" xpos="-579.81" ypos="40.827"   zpos="389.16"  type="harvest.plant.cauliflower" GUID="XqDbxf9G20GcHMXNw6R0TQ=="/>
+		<POI MapID="29" xpos="-575.523" ypos="40.9534" zpos="380.157" type="harvest.plant.cauliflower" GUID="KlntxeDai0muYlmkv3Anlg=="/>
+		<POI MapID="29" xpos="-569.365" ypos="40.541"  zpos="393.184" type="harvest.plant.cauliflower" GUID="98wjVRaOMk29YXBit5WFiw=="/>
+		<POI MapID="29" xpos="-567.414" ypos="40.5679" zpos="402.789" type="harvest.plant.cauliflower" GUID="1DWADDllJUaiAcdxglFYow=="/>
+		<POI MapID="29" xpos="-566.982" ypos="39.8847" zpos="372.538" type="harvest.plant.cauliflower" GUID="RUD6Lb45+Eq17NQaDzGwlQ=="/>
+		<POI MapID="29" xpos="-562.578" ypos="39.9839" zpos="384.702" type="harvest.plant.cauliflower" GUID="A0D5Pql5XU2LT+BsB23Mqg=="/>
+		<POI MapID="29" xpos="-557.555" ypos="39.364"  zpos="380.517" type="harvest.plant.cauliflower" GUID="Hb2+aUMFwEaJN8Izgf0rcg=="/>
+		<POI MapID="29" xpos="-554.058" ypos="38.5141" zpos="393.504" type="harvest.plant.cauliflower" GUID="qPVl2cw9skWJla0yGM4+Pg=="/>
+
+		<POI MapID="53" xpos="-561.377" ypos="89.0317" zpos="501.986" type="harvest.plant.cauliflower" GUID="NLjhdZGkYUCpd+CzaacaiA=="/>
+		<POI MapID="53" xpos="-555.529" ypos="89.0061" zpos="516.553" type="harvest.plant.cauliflower" GUID="f8YBOfRa70qX3OOm6LtX1Q=="/>
+		<POI MapID="53" xpos="-543.836" ypos="89.366"  zpos="503.399" type="harvest.plant.cauliflower" GUID="6HWPCkSnWUGL5hc+CV2Gxg=="/>
+		<POI MapID="53" xpos="-537.61"  ypos="88.0961" zpos="529.573" type="harvest.plant.cauliflower" GUID="SXD2Pqxhzkuid29rB9Ua/g=="/>
+		<POI MapID="53" xpos="-534.927" ypos="91.6972" zpos="482.036" type="harvest.plant.cauliflower" GUID="kPE7mSYTs066ox4+R4NLjg=="/>
+		<POI MapID="53" xpos="-528.439" ypos="86.429"  zpos="514.266" type="harvest.plant.cauliflower" GUID="PySJ8t3iOk+f0nzKienBTg=="/>
+		<POI MapID="53" xpos="-528.272" ypos="88.2596" zpos="494.482" type="harvest.plant.cauliflower" GUID="e0SjkpWS5E+znyJESYm5DQ=="/>
+		<POI MapID="53" xpos="-523.246" ypos="86.9187" zpos="530.425" type="harvest.plant.cauliflower" GUID="h3FZs8ZKIkyMdRBo1mL2Mg=="/>
+
+		<!-- CLAM -->
+		<POI MapID="54" xpos="394.799" ypos="-6.27866" zpos="-400.615" type="harvest.plant.clam" GUID="WjHDdAOe6kSqTnE3dIN3Cw=="/>
+		<POI MapID="54" xpos="425.098" ypos="-7.51096" zpos="-454.316" type="harvest.plant.clam" GUID="U7e6aMrY+Em4m656DPB6Lg=="/>
+		<POI MapID="54" xpos="446.514" ypos="-12.6404" zpos="-459.426" type="harvest.plant.clam" GUID="mA29rXEsSE+VNPN4Xv6Dlg=="/>
+		<POI MapID="54" xpos="466.778" ypos="-13.7911" zpos="-488.218" type="harvest.plant.clam" GUID="LM32soeEY0Sr4fbiLpVpEQ=="/>
+		<POI MapID="54" xpos="501.643" ypos="-11.1777" zpos="-504.748" type="harvest.plant.clam" GUID="yxgz9fNakUinsNi+5QImwQ=="/>
+		<POI MapID="54" xpos="516.085" ypos="-14.3234" zpos="-491"     type="harvest.plant.clam" GUID="sX/oVPiYB0+htK+RnzNwdw=="/>
+		<POI MapID="54" xpos="555.889" ypos="-20.9328" zpos="-478.512" type="harvest.plant.clam" GUID="MTE9w90uZE6ijQqZurYq/A=="/>
+		<POI MapID="54" xpos="562.399" ypos="-16.0603" zpos="-428.257" type="harvest.plant.clam" GUID="4LhPZLDsoE24S7BTf3ghQw=="/>
+		<POI MapID="54" xpos="578.766" ypos="-23.9553" zpos="-483.231" type="harvest.plant.clam" GUID="2rtkKmWaNUCGHaxoKgeewg=="/>
+		<POI MapID="54" xpos="581.363" ypos="-19.6245" zpos="-507.899" type="harvest.plant.clam" GUID="Y+AHFsHwckejSwHCp/G0dw=="/>
+		<POI MapID="54" xpos="586.152" ypos="-15.4782" zpos="-454.235" type="harvest.plant.clam" GUID="xX/THMARwkaCUN5BIGlZCg=="/>
+		<POI MapID="54" xpos="592.651" ypos="-10.348"  zpos="-405.267" type="harvest.plant.clam" GUID="DW7jsaes0kefs+sfnx1/nA=="/>
+		<POI MapID="54" xpos="597.805" ypos="-7.98126" zpos="-460.9"   type="harvest.plant.clam" GUID="SJXsBEDBE0SM2kgPfN3Xzw=="/>
+		<POI MapID="54" xpos="605.237" ypos="-14.9854" zpos="-522.774" type="harvest.plant.clam" GUID="qkdD1ztH8UGOcpAmtDlA/g=="/>
+		<POI MapID="54" xpos="607.509" ypos="-19.8034" zpos="-492.888" type="harvest.plant.clam" GUID="5aVLH8iMFUmS0K62Iqt+jg=="/>
+		<POI MapID="54" xpos="614.795" ypos="-25.1174" zpos="-507.292" type="harvest.plant.clam" GUID="QSuZ1LHNqUuNFh2S6bSaHA=="/>
+		<POI MapID="54" xpos="641.842" ypos="-16.9162" zpos="-492.614" type="harvest.plant.clam" GUID="ZH8n+pGM5EaEkj+mNVaIiw=="/>
+		<POI MapID="54" xpos="662.019" ypos="-14.2978" zpos="-534.559" type="harvest.plant.clam" GUID="COgDmZ9oekORLmnCol+Fag=="/>
+
+		<!-- FLAX -->
+		<POI MapID="1045" xpos="-346.657" ypos="331.422" zpos="-66.2729" type="harvest.plant.flax" GUID="f5slJd3GJEqzIP6Y3dbP9Q=="/>
+		<POI MapID="1045" xpos="-339.794" ypos="329.65"  zpos="-98.4199" type="harvest.plant.flax" GUID="MO/sZVHqO0q1Z8mM2oky3Q=="/>
+		<POI MapID="1045" xpos="-325.421" ypos="329.838" zpos="-76.5554" type="harvest.plant.flax" GUID="eX15FbhjPk243beNwfWlCg=="/>
+		<POI MapID="1045" xpos="-323.677" ypos="328.958" zpos="-100.016" type="harvest.plant.flax" GUID="bKgfi/ZA+kiIEbjLlbIbGA=="/>
+		<POI MapID="1045" xpos="-307.391" ypos="329.952" zpos="-48.697"  type="harvest.plant.flax" GUID="kUT4GhbU40e1NGhOGywHHg=="/>
+		<POI MapID="1045" xpos="-306.485" ypos="329.147" zpos="-81.3153" type="harvest.plant.flax" GUID="WWtCmzQc/0CPk4VVMrFkEA=="/>
+		<POI MapID="1045" xpos="-295.805" ypos="329.352" zpos="-98.7165" type="harvest.plant.flax" GUID="RsUYKLB9Y0q31NdRqtiCVQ=="/>
+		<POI MapID="1045" xpos="-292.582" ypos="329.599" zpos="-65.8172" type="harvest.plant.flax" GUID="c3SKKRS1hEO1OX8thqdYVQ=="/>
+		<POI MapID="1045" xpos="-289.735" ypos="329.621" zpos="-80.9774" type="harvest.plant.flax" GUID="97gVPfJK2EyhZ212hmkFig=="/>
+
+		<POI MapID="1052" xpos="716.687"  ypos="14.0165" zpos="414.954"  type="harvest.plant.flax" GUID="2eR3vBNSCkOi4faAsUXyUg=="/>
+		<POI MapID="1052" xpos="718.108"  ypos="14.0675" zpos="413.422"  type="harvest.plant.flax" GUID="3usTwBJZyUq6IdbCqE5w9A=="/>
+		<POI MapID="1052" xpos="718.333"  ypos="13.8962" zpos="416.674"  type="harvest.plant.flax" GUID="M2Hr4Lej2UCCnAtl86kh2w=="/>
+		<POI MapID="1052" xpos="719.92"   ypos="14.1343" zpos="411.436"  type="harvest.plant.flax" GUID="hPPd5QMQ2Eyoabq1sWqk7Q=="/>
+		<POI MapID="1052" xpos="720.031"  ypos="14.0859" zpos="415.014"  type="harvest.plant.flax" GUID="HYB9TNltmEizDcdOPFwqdQ=="/>
+		<POI MapID="1052" xpos="720.036"  ypos="14.1817" zpos="418.392"  type="harvest.plant.flax" GUID="qNIP+vKBhk+A2kEc661/4Q=="/>
+		<POI MapID="1052" xpos="721.57"   ypos="14.3548" zpos="416.403"  type="harvest.plant.flax" GUID="0DkwU6p+nUOOfrGD7IPdbQ=="/>
+		<POI MapID="1052" xpos="722.09"   ypos="14.3452" zpos="413.307"  type="harvest.plant.flax" GUID="IPfkPhYuP0Ghkw1UfCrZ5g=="/>
+		<POI MapID="1052" xpos="723.174"  ypos="14.5555" zpos="414.987"  type="harvest.plant.flax" GUID="MUgg4rDj+EuK5Gtwi41NqA=="/>
+		<POI MapID="1052" xpos="723.307"  ypos="14.5234" zpos="408.553"  type="harvest.plant.flax" GUID="Od4pxCNI8EKSlfnlngw0qw=="/>
+		<POI MapID="1052" xpos="723.589"  ypos="14.5283" zpos="411.86"   type="harvest.plant.flax" GUID="85VlpqSYz0eiOZgVEiPk1g=="/>
+		<POI MapID="1052" xpos="725.317"  ypos="14.831"  zpos="413.401"  type="harvest.plant.flax" GUID="mOkcnPUOY0GKtji5z7W6/g=="/>
+		<POI MapID="1052" xpos="725.65"   ypos="14.7755" zpos="409.712"  type="harvest.plant.flax" GUID="p/LqISDZckmkGsUm4hfHrQ=="/>
+		<POI MapID="1052" xpos="725.74"   ypos="15.1225" zpos="406.428"  type="harvest.plant.flax" GUID="O1BhZUIHPEuVFBOAuv/pvw=="/>
+		<POI MapID="1052" xpos="727.382"  ypos="15.0915" zpos="411.699"  type="harvest.plant.flax" GUID="Ab1r4tiRrE2wz/RE937pmQ=="/>
+		<POI MapID="1052" xpos="727.923"  ypos="15.4381" zpos="407.444"  type="harvest.plant.flax" GUID="zkcTcNf5+k+AVBFZfcWicA=="/>
+		<POI MapID="1052" xpos="729.237"  ypos="15.3265" zpos="410.213"  type="harvest.plant.flax" GUID="VIrK334y0k+UL4E8wzjxVA=="/>
+
+		<!-- GRAPE -->
+		<POI MapID="21" xpos="534.283"  ypos="38.351"  zpos="-841.798" type="harvest.plant.grape" GUID="rE65bk9jlUmdb2NkF0Jlhg=="/>
+		<POI MapID="21" xpos="536.24"   ypos="39.2522" zpos="-851.172" type="harvest.plant.grape" GUID="BvbaNkF5MkeicFMq8wiyvA=="/>
+		<POI MapID="21" xpos="537.584"  ypos="35.4658" zpos="-813.875" type="harvest.plant.grape" GUID="bijHuZSx8Ua3pznXZiR0OA=="/>
+		<POI MapID="21" xpos="539.719"  ypos="37.2414" zpos="-833.165" type="harvest.plant.grape" GUID="uHtK5CNlL067LVaAq6Lr7w=="/>
+		<POI MapID="21" xpos="546.472"  ypos="35.3478" zpos="-821.684" type="harvest.plant.grape" GUID="/hWih3EkGE285obddZBs+w=="/>
+		<POI MapID="21" xpos="550.183"  ypos="37.0533" zpos="-840.332" type="harvest.plant.grape" GUID="OiNVa2/xxEOTABC/3fLFkg=="/>
+		<POI MapID="21" xpos="557.482"  ypos="38.1931" zpos="-852.931" type="harvest.plant.grape" GUID="iEQzmHsQ0Eqp0lj+SwlPNw=="/>
+		<POI MapID="21" xpos="559.009"  ypos="35.7238" zpos="-835.163" type="harvest.plant.grape" GUID="jeqF0w3E3EiJev81zNuTNg=="/>
+
+		<POI MapID="27" xpos="-482.027" ypos="42.3924" zpos="-997.369" type="harvest.plant.grape" GUID="vXyaeyUMTky1BGeqfL8bEg=="/>
+		<POI MapID="27" xpos="-480.749" ypos="40.6656" zpos="-986.494" type="harvest.plant.grape" GUID="0+SSqAHiK0yGn0GU/ivqSw=="/>
+		<POI MapID="27" xpos="-472.606" ypos="40.053"  zpos="-997.105" type="harvest.plant.grape" GUID="uk6i6wfufkKlCbF7haUIAQ=="/>
+		<POI MapID="27" xpos="-468.533" ypos="36.9028" zpos="-985.308" type="harvest.plant.grape" GUID="Dc591BAahka+cNNz7UdDmA=="/>
+		<POI MapID="27" xpos="-463.151" ypos="37.1634" zpos="-1008.33" type="harvest.plant.grape" GUID="IbAqLg8OtECeRUdQAsKrDA=="/>
+		<POI MapID="27" xpos="-462.181" ypos="34.0271" zpos="-969.72"  type="harvest.plant.grape" GUID="d1VHEqftkkab6ijyzkVzdw=="/>
+		<POI MapID="27" xpos="-434.039" ypos="32.6589" zpos="-1024.65" type="harvest.plant.grape" GUID="vcUqltsimUyKSsfbf1XYuw=="/>
+		<POI MapID="27" xpos="-429.656" ypos="29.6643" zpos="-1046.12" type="harvest.plant.grape" GUID="TG9q+mG51UqeaPNfMfqTrg=="/>
+
+		<!-- LETTUCE -->
+		<POI MapID="15"  xpos="866.465"  ypos="15.9577"  zpos="426.114"  type="harvest.plant.lettuce" GUID="lL2gCzK0t0OkvNRb1KS1Ig=="/>
+		<POI MapID="15"  xpos="872.021"  ypos="15.9571"  zpos="406.399"  type="harvest.plant.lettuce" GUID="wnxNUNjFP0Sw5t4TSh9wVQ=="/>
+		<POI MapID="15"  xpos="872.415"  ypos="15.9544"  zpos="419.174"  type="harvest.plant.lettuce" GUID="wS4uin97+EWXRtpuQe/VQg=="/>
+		<POI MapID="15"  xpos="875.295"  ypos="15.9571"  zpos="399.971"  type="harvest.plant.lettuce" GUID="YqbtdpY840mFsIkZIwwlCg=="/>
+		<POI MapID="15"  xpos="878.516"  ypos="15.9539"  zpos="418.87"   type="harvest.plant.lettuce" GUID="BTE/YiI4oEq76Y9LTyvy+w=="/>
+		<POI MapID="15"  xpos="884.881"  ypos="15.9571"  zpos="405.53"   type="harvest.plant.lettuce" GUID="S6qgNWpyb0uTeisqotwxZA=="/>
+		<POI MapID="15"  xpos="888.907"  ypos="15.954"   zpos="423.897"  type="harvest.plant.lettuce" GUID="+eMspF3rFUuegAWy8pgOMg=="/>
+		<POI MapID="15"  xpos="891.139"  ypos="15.9544"  zpos="394.376"  type="harvest.plant.lettuce" GUID="53Da6XFt/UujvU2azTJxCg=="/>
+		<POI MapID="15"  xpos="893.75"   ypos="15.9571"  zpos="413.259"  type="harvest.plant.lettuce" GUID="X3x3gJAza06xBTn5zm/alw=="/>
+		<POI MapID="15"  xpos="905.512"  ypos="15.954"   zpos="383.101"  type="harvest.plant.lettuce" GUID="2vJPYRhKREmHfSWVoB45mQ=="/>
+		<POI MapID="15"  xpos="905.74"   ypos="15.957"   zpos="403.47"   type="harvest.plant.lettuce" GUID="gCHrkd4tskC7npkNj/+ovw=="/>
+		<POI MapID="15"  xpos="906.291"  ypos="15.954"   zpos="419.839"  type="harvest.plant.lettuce" GUID="smZSEthep0CWvMSW6x+dWw=="/>
+
+		<POI MapID="34"  xpos="132.162"  ypos="1.40931"  zpos="1109.88"  type="harvest.plant.lettuce" GUID="KpQkLf4pw02PDn0l/beM2A=="/>
+		<POI MapID="34"  xpos="163.099"  ypos="0.931215" zpos="1141.86"  type="harvest.plant.lettuce" GUID="+3j9BKLTQ0Gl0W0TQoedXw=="/>
+		<POI MapID="34"  xpos="168.286"  ypos="2.82852"  zpos="1105.36"  type="harvest.plant.lettuce" GUID="a8pMb/2wtkmv2fd/bauSZg=="/>
+		<POI MapID="34"  xpos="194.395"  ypos="2.17678"  zpos="1164.77"  type="harvest.plant.lettuce" GUID="uo5LydJZL0i9aLz7RLgEDg=="/>
+		<POI MapID="34"  xpos="210.117"  ypos="7.74324"  zpos="1140.36"  type="harvest.plant.lettuce" GUID="0p12HfgmoUm9MpYc5ymmGg=="/>
+		<POI MapID="34"  xpos="212.428"  ypos="0.945256" zpos="1187.05"  type="harvest.plant.lettuce" GUID="52NIbH5EJ0esM9331jMEWQ=="/>
+		<POI MapID="34"  xpos="228.091"  ypos="0.945417" zpos="1169.86"  type="harvest.plant.lettuce" GUID="zFkKjhr8o0qBuF1X7E7C5w=="/>
+		<POI MapID="34"  xpos="233.457"  ypos="1.94073"  zpos="1194.34"  type="harvest.plant.lettuce" GUID="/7L63tpxDEyx1GvECk49Dg=="/>
+
+		<POI MapID="988" xpos="-519.023" ypos="9.17371"  zpos="-17.2039" type="harvest.plant.lettuce" GUID="bYEOCn+pdUqySLV7EVpZxw=="/>
+		<POI MapID="988" xpos="-518.592" ypos="9.30712"  zpos="-25.9941" type="harvest.plant.lettuce" GUID="sSkD2mbsQEORFPOm6L67VA=="/>
+		<POI MapID="988" xpos="-518.434" ypos="8.88388"  zpos="-8.58893" type="harvest.plant.lettuce" GUID="1zPE/RRlxkq4NSBtWQ/Y6A=="/>
+		<POI MapID="988" xpos="-518.334" ypos="8.48128"  zpos="-1.49413" type="harvest.plant.lettuce" GUID="rO2N/92YfEaU2DXU6qj6aQ=="/>
+
+		<!-- MUSSELS -->
+		<POI MapID="1052" xpos="-659.546" ypos="449.581" zpos="168.127"  type="harvest.plant.mussel" GUID="YlhzEQLPmUiEdgQ0vfxQ2A=="/>
+		<POI MapID="1052" xpos="-637.731" ypos="450.39"  zpos="162.77"   type="harvest.plant.mussel" GUID="dO0kqB1ChkOHickoI2BskQ=="/>
+		<POI MapID="1052" xpos="-585.147" ypos="452.769" zpos="148.516"  type="harvest.plant.mussel" GUID="t/DxCNrCcUaLj7ZE8dvm1Q=="/>
+		<POI MapID="1052" xpos="62.6037"  ypos="374.769" zpos="-3.81471" type="harvest.plant.mussel" GUID="/eH06F9re0WWub8yfWA52A=="/>
+		<POI MapID="1052" xpos="67.3351"  ypos="342.396" zpos="-253.081" type="harvest.plant.mussel" GUID="SYe5DfGgUEaxinUI2h/f6Q=="/>
+		<POI MapID="1052" xpos="81.1389"  ypos="374.848" zpos="9.9845"   type="harvest.plant.mussel" GUID="QmQ+cZQqhU+TPFI0W1ONXA=="/>
+		<POI MapID="1052" xpos="96.7226"  ypos="341.754" zpos="-250.615" type="harvest.plant.mussel" GUID="beCmv/+gw0eOuJkg/5JzYw=="/>
+		<POI MapID="1052" xpos="118.589"  ypos="342.403" zpos="-240.885" type="harvest.plant.mussel" GUID="8ayuETRDyE2S925gaILZUg=="/>
+		<POI MapID="1052" xpos="137.093"  ypos="341.881" zpos="-226.497" type="harvest.plant.mussel" GUID="GwqAGHD0VEO3MJah2x5HSg=="/>
+		<POI MapID="1052" xpos="140.468"  ypos="340.413" zpos="-165.589" type="harvest.plant.mussel" GUID="ECfcBTAkYUWH250o2Z4WCA=="/>
+		<POI MapID="1052" xpos="142.62"   ypos="341.187" zpos="-197.819" type="harvest.plant.mussel" GUID="moIWzXGiKEeSXjP01FdXqg=="/>
+		<POI MapID="1052" xpos="453.797"  ypos="693.34"  zpos="231.321"  type="harvest.plant.mussel" GUID="6zopU1daq0uPyeNEIRYA9Q=="/>
+		<POI MapID="1052" xpos="750.207"  ypos="327.39"  zpos="151.941"  type="harvest.plant.mussel" GUID="C8XAKh6OtkCtzDTX1Q3NCQ=="/>
+		<POI MapID="1052" xpos="774.884"  ypos="327.546" zpos="183.474"  type="harvest.plant.mussel" GUID="mmLknqCxT0i1Fak/GG2R+A=="/>
+		<POI MapID="1052" xpos="806.022"  ypos="328.235" zpos="207.374"  type="harvest.plant.mussel" GUID="lsX5/OL8xkqa8KqbrQFEig=="/>
+		<POI MapID="1052" xpos="823.482"  ypos="322.348" zpos="36.8628"  type="harvest.plant.mussel" GUID="wnigSkTmzEiAbv7fWX4LoQ=="/>
+		<POI MapID="1052" xpos="837.671"  ypos="332.077" zpos="223.934"  type="harvest.plant.mussel" GUID="Ha14Cx7Vu0+nxv5Xc9Nm2w=="/>
+		<POI MapID="1052" xpos="856.51"   ypos="323.001" zpos="44.1432"  type="harvest.plant.mussel" GUID="IPoK4Atc/UW6fLbuL/Yxvg=="/>
+		<POI MapID="1052" xpos="866.015"  ypos="339.914" zpos="239.581"  type="harvest.plant.mussel" GUID="GZU3+sZDc0+OTdWyKoQKuw=="/>
+		<POI MapID="1052" xpos="867.293"  ypos="322.856" zpos="33.168"   type="harvest.plant.mussel" GUID="4YJoH8DMCkacBYWSMaRG9Q=="/>
+		<POI MapID="1052" xpos="893.468"  ypos="348.186" zpos="86.6868"  type="harvest.plant.mussel" GUID="CdfFboKuxUSR3LrRRaFqoA=="/>
+		<POI MapID="1052" xpos="895.662"  ypos="348.708" zpos="244.384"  type="harvest.plant.mussel" GUID="vBxZzfZUPUuQehKMBJ1XRA=="/>
+		<POI MapID="1052" xpos="915.153"  ypos="348.038" zpos="109.591"  type="harvest.plant.mussel" GUID="preRKG5Q7k6U/a01VH80kA=="/>
+		<POI MapID="1052" xpos="925.603"  ypos="349.774" zpos="285.777"  type="harvest.plant.mussel" GUID="lmfGTOcF202dZ2n1367Rew=="/>
+		<POI MapID="1052" xpos="931.348"  ypos="353.863" zpos="239.224"  type="harvest.plant.mussel" GUID="70wGxdrBkEK9ypDkCif5Jw=="/>
+		<POI MapID="1052" xpos="934.495"  ypos="353.787" zpos="267.175"  type="harvest.plant.mussel" GUID="KYiQ/O6ZIECCFXRIjU59fA=="/>
+		<POI MapID="1052" xpos="943.21"   ypos="348.73"  zpos="121.946"  type="harvest.plant.mussel" GUID="hPlUFbGG00yVTj6aFzAirQ=="/>
+		<POI MapID="1052" xpos="956.319"  ypos="354.621" zpos="228.528"  type="harvest.plant.mussel" GUID="Q9piy5cbuEuCaG/HThiq9A=="/>
+		<POI MapID="1052" xpos="967.927"  ypos="391.388" zpos="-3.18625" type="harvest.plant.mussel" GUID="/T8F3eBMa06SS1RQ61Gyqw=="/>
+
+		<POI MapID="1165" xpos="-381.611" ypos="541.932" zpos="-105.215" type="harvest.plant.mussel" GUID="QLoLVMPoB0GcdOblfxSpdQ=="/>
+		<POI MapID="1165" xpos="-354.249" ypos="534.174" zpos="-92.5636" type="harvest.plant.mussel" GUID="RhY8GVXd6kGWBa5fKCHB0g=="/>
+		<POI MapID="1165" xpos="-327.698" ypos="521.381" zpos="-84.5108" type="harvest.plant.mussel" GUID="Tb84921CwEiOo4qI7HGj3Q=="/>
+		<POI MapID="1165" xpos="-278.614" ypos="503.708" zpos="-77.6242" type="harvest.plant.mussel" GUID="YWJAsj10ZEmUVavxLda1iA=="/>
+		<POI MapID="1165" xpos="-228.186" ypos="502.292" zpos="-74.544"  type="harvest.plant.mussel" GUID="ZnoBiTTXxkyFqaEiKF+XTg=="/>
+		<POI MapID="1165" xpos="-229.36"  ypos="502.292" zpos="-90.9394" type="harvest.plant.mussel" GUID="/crobgaROUy/l3/WSthU6Q=="/>
+
+		<!-- ORRIAN TRUFFLE -->
+		<POI MapID="62" xpos="-123.548" ypos="12.3105" zpos="505.732" type="harvest.plant.orrian_truffle" GUID="yPgfTAnN2k639FqJh4yQ9w=="/>
+		<POI MapID="62" xpos="-112.618" ypos="17.7017" zpos="532.365" type="harvest.plant.orrian_truffle" GUID="C+MY+CfSUk2fjQSlS4nv+A=="/>
+		<POI MapID="62" xpos="-101.145" ypos="18.1353" zpos="541.024" type="harvest.plant.orrian_truffle" GUID="JBwyasJpyEe9qVlP4/lriw=="/>
+
+		<!-- PORTOBELLO MUSHROOM -->
+		<POI MapID="1371" xpos="-557.393" ypos="154.941" zpos="-178.647" type="harvest.plant.portobello" GUID="9WhNqRB7QUubVkTDjlzwYQ=="/>
+		<POI MapID="1371" xpos="-557.318" ypos="153.054" zpos="-170.037" type="harvest.plant.portobello" GUID="JFgymjeCBE6qf59Pd8hwYA=="/>
+		<POI MapID="1371" xpos="-553.327" ypos="154.699" zpos="-186.008" type="harvest.plant.portobello" GUID="s7Arg4oC/0OwOnyk48uUCg=="/>
+		<POI MapID="1371" xpos="-547.428" ypos="156.332" zpos="-190.363" type="harvest.plant.portobello" GUID="HyXdbGCjZ06FgPogiL5v8g=="/>
+
+		<!-- POTATO -->
+		<POI MapID="19" xpos="738.194" ypos="21.3128" zpos="-549.583" type="harvest.plant.potato" GUID="9AKNV6qkDkmcmW6DzE3Y6g=="/>
+		<POI MapID="19" xpos="740.601" ypos="19.1836" zpos="-540.619" type="harvest.plant.potato" GUID="qHzN4oYLOkSaJ7Qd2OUd7A=="/>
+		<POI MapID="19" xpos="742.981" ypos="19.6143" zpos="-546.881" type="harvest.plant.potato" GUID="SjUa4mWkf0muS/8zqjmzqw=="/>
+		<POI MapID="19" xpos="744.01"  ypos="21.0605" zpos="-554.025" type="harvest.plant.potato" GUID="O+n3GkCYHkGTmekPxijL7g=="/>
+		<POI MapID="19" xpos="748.578" ypos="19.735"  zpos="-549.384" type="harvest.plant.potato" GUID="S//38tHLTUyti2YHcsPTTw=="/>
+		<POI MapID="19" xpos="748.988" ypos="17.9261" zpos="-539.823" type="harvest.plant.potato" GUID="gD+GvNQloUasOVH+s7baJg=="/>
+		<POI MapID="19" xpos="751.888" ypos="20.2772" zpos="-553.663" type="harvest.plant.potato" GUID="3p5R0+7viEOfLGrSDrAY8A=="/>
+		<POI MapID="19" xpos="753.721" ypos="18.6194" zpos="-546.649" type="harvest.plant.potato" GUID="I/4WiXG3ZU+ZooPu3cDyXA=="/>
+
+		<POI MapID="35" xpos="397.491" ypos="47.6063" zpos="-389.078" type="harvest.plant.potato" GUID="J50D8TwGsUq96NG9MEpRbw=="/>
+		<POI MapID="35" xpos="400.064" ypos="47.6068" zpos="-383.81"  type="harvest.plant.potato" GUID="yZjVeFYesESVqeWCVTUHsQ=="/>
+		<POI MapID="35" xpos="401.23"  ypos="47.6068" zpos="-378.872" type="harvest.plant.potato" GUID="IZoEf5Nn0UuB6bai5c3QZw=="/>
+		<POI MapID="35" xpos="402.685" ypos="47.6068" zpos="-391.137" type="harvest.plant.potato" GUID="MYutigQQa02xzovRMvKFAg=="/>
+		<POI MapID="35" xpos="404.433" ypos="47.6068" zpos="-398.38"  type="harvest.plant.potato" GUID="71NEejCppkqmYtwmTQmusg=="/>
+		<POI MapID="35" xpos="406.511" ypos="47.6068" zpos="-372.101" type="harvest.plant.potato" GUID="BT3UWao0Q0+LspT+rKPzYw=="/>
+		<POI MapID="35" xpos="407.779" ypos="47.6063" zpos="-385.145" type="harvest.plant.potato" GUID="RPjUeiK7pE6Lf8uW2YzwcA=="/>
+		<POI MapID="35" xpos="409.071" ypos="47.6063" zpos="-378.138" type="harvest.plant.potato" GUID="uBunHXxTz0OTSxltYPOfPQ=="/>
+		<POI MapID="35" xpos="410.041" ypos="47.6068" zpos="-394.175" type="harvest.plant.potato" GUID="O2RyRd8P506v97RXODrevA=="/>
+		<POI MapID="35" xpos="414.504" ypos="47.6068" zpos="-381.47"  type="harvest.plant.potato" GUID="0gzdG6dP/02xG0gfni3bOw=="/>
+		<POI MapID="35" xpos="414.626" ypos="47.6063" zpos="-389.295" type="harvest.plant.potato" GUID="6wefM2xfPUyoBj6QKA07jQ=="/>
+		<POI MapID="35" xpos="418.044" ypos="47.6068" zpos="-385.317" type="harvest.plant.potato" GUID="jx0AB4uDskGWPfHhAS7yXQ=="/>
+
+		<POI MapID="1371" xpos="-551.497" ypos="151.548" zpos="-175.662" type="harvest.plant.potato" GUID="77XTr+U1hkWI3K0JIDDbIw=="/>
+		<POI MapID="1371" xpos="-550.169" ypos="149.624" zpos="-168.968" type="harvest.plant.potato" GUID="eqb85N3BPkyWsLE7jhNV8Q=="/>
+		<POI MapID="1371" xpos="-548.172" ypos="153.108" zpos="-183.337" type="harvest.plant.potato" GUID="MHqFSwo3pEaY9Cj2q4Ep3A=="/>
+		<POI MapID="1371" xpos="-542.634" ypos="154.103" zpos="-187.7"   type="harvest.plant.potato" GUID="MKuyAYOq3Uich2AG+n/nkA=="/>
+		<POI MapID="1371" xpos="-366.456" ypos="193.801" zpos="-627.836" type="harvest.plant.potato" GUID="z0vAXyvKJEyfS9xYdjQv9w=="/>
+		<POI MapID="1371" xpos="-348.219" ypos="197.09"  zpos="-650.315" type="harvest.plant.potato" GUID="rQQnBmxydkeKqlv0+QGc4w=="/>
+		<POI MapID="1371" xpos="-339.59"  ypos="196.457" zpos="-631.022" type="harvest.plant.potato" GUID="QCF81OqQdk2osNDypWGFsA=="/>
+		<POI MapID="1371" xpos="-323.036" ypos="196.515" zpos="-637.718" type="harvest.plant.potato" GUID="hkQlWT1MlE+EBHtyJBpBDw=="/>
+
+		<!-- SCALLION -->
+		<POI MapID="1371" xpos="-542.038" ypos="154.176" zpos="-133.488" type="harvest.plant.scallion" GUID="CNnpwbmar0mjrfF7DYSGpg=="/>
+		<POI MapID="1371" xpos="-537.693" ypos="154.63"  zpos="-125.612" type="harvest.plant.scallion" GUID="1ssnbZ3fyEe0dM0boADdXg=="/>
+		<POI MapID="1371" xpos="-533.376" ypos="154.62"  zpos="-117.9"   type="harvest.plant.scallion" GUID="6hjIBlLb5kOwe0KNmyo8fQ=="/>
+
+		<!-- SEAWEED -->
+		<POI MapID="1175" xpos="-105.659" ypos="-71.5795" zpos="-909.625" type="harvest.plant.seaweed" GUID="zGi4+k3QwkOMB6biHby5oQ=="/>
+		<POI MapID="1175" xpos="-101.487" ypos="-70.7689" zpos="-902.944" type="harvest.plant.seaweed" GUID="ycH01Busukm15f6y/5SDXQ=="/>
+		<POI MapID="1175" xpos="-98.5215" ypos="-71.0475" zpos="-916.956" type="harvest.plant.seaweed" GUID="EViSZhx5j0+ZWnogLuOP8g=="/>
+		<POI MapID="1175" xpos="-97.2662" ypos="-74.3633" zpos="-910.206" type="harvest.plant.seaweed" GUID="8YoebEBK+0SFQXvCvIru0w=="/>
+		<POI MapID="1175" xpos="-88.5943" ypos="-71.8989" zpos="-912.038" type="harvest.plant.seaweed" GUID="At3EnO9rpU2V6bGV8KS+Fw=="/>
+		<POI MapID="1175" xpos="-85.5858" ypos="-73.321"  zpos="-920.813" type="harvest.plant.seaweed" GUID="ei2orESR5UOKTrwv8e/nSw=="/>
+		<POI MapID="1175" xpos="-78.1601" ypos="-73.0232" zpos="-925.431" type="harvest.plant.seaweed" GUID="63GtBYSWU0eTMwNmhUFplA=="/>
+		<POI MapID="1175" xpos="-76.5673" ypos="-72.3844" zpos="-918.941" type="harvest.plant.seaweed" GUID="DYpe4peXfka5k5TGT/87JA=="/>
+
+		<!-- SPINACH -->
+		<POI MapID="24" xpos="-70.3251" ypos="38.8686" zpos="576.852"  type="harvest.plant.spinach" GUID="bgAF2NSVPEeAXBqi3mI2oQ=="/>
+		<POI MapID="24" xpos="-57.2323" ypos="38.8442" zpos="567.728"  type="harvest.plant.spinach" GUID="Y6JmEf/nkkKEbhbZp3q1Vg=="/>
+		<POI MapID="24" xpos="-47.7737" ypos="39.9026" zpos="570.938"  type="harvest.plant.spinach" GUID="TIHYtecKBUC4qUrEWhqIaA=="/>
+		<POI MapID="24" xpos="-45.7455" ypos="38.749"  zpos="560.32"   type="harvest.plant.spinach" GUID="l7yKKJdS1Uqfhclwla5lTA=="/>
+		<POI MapID="24" xpos="-44.4165" ypos="42.7811" zpos="605.722"  type="harvest.plant.spinach" GUID="qK0Jm8naV0GeVAihfkXYvw=="/>
+		<POI MapID="24" xpos="-43.8089" ypos="40.1855" zpos="570.18"   type="harvest.plant.spinach" GUID="BMPXi0B97Eeyqi5rg9EzNQ=="/>
+		<POI MapID="24" xpos="-41.1174" ypos="41.9118" zpos="598.135"  type="harvest.plant.spinach" GUID="7kpknRgXfky42Fj8L5h7FQ=="/>
+		<POI MapID="24" xpos="-39.9978" ypos="39.961"  zpos="585.76"   type="harvest.plant.spinach" GUID="/qnFdL3PwUePIHa9IqKUEg=="/>
+
+		<POI MapID="54" xpos="924.574"  ypos="114.846" zpos="-715.66"  type="harvest.plant.spinach" GUID="97P1UXsQtEmg2SCzr37Sbw=="/>
+		<POI MapID="54" xpos="925.133"  ypos="111.998" zpos="-700.333" type="harvest.plant.spinach" GUID="x56k36B69EezAvSj8cVC+g=="/>
+		<POI MapID="54" xpos="944.981"  ypos="116.03"  zpos="-714.462" type="harvest.plant.spinach" GUID="mwehAh3HgUGkeldxkzznxg=="/>
+		<POI MapID="54" xpos="948.375"  ypos="117.122" zpos="-714.921" type="harvest.plant.spinach" GUID="ivgxwS+U5Uq8354R1WeQQQ=="/>
+		<POI MapID="54" xpos="952.147"  ypos="117.967" zpos="-714.581" type="harvest.plant.spinach" GUID="RZDhH7da0UWO+NahmWEkYg=="/>
+		<POI MapID="54" xpos="963.695"  ypos="125.505" zpos="-739.478" type="harvest.plant.spinach" GUID="1WkZ6Tt+XEeajlS7n+FJaQ=="/>
+		<POI MapID="54" xpos="968.216"  ypos="125.781" zpos="-739.63"  type="harvest.plant.spinach" GUID="xM1dPSrzeUCTyd3P0kr7AA=="/>
+		<POI MapID="54" xpos="972.513"  ypos="126.348" zpos="-740.09"  type="harvest.plant.spinach" GUID="BUFocQkzj0OJI78H/c0eiw=="/>
+		<POI MapID="54" xpos="994.068"  ypos="125.893" zpos="-728.347" type="harvest.plant.spinach" GUID="ye67nwzepU22gB/1WbZrow=="/>
+		<POI MapID="54" xpos="997.247"  ypos="126.175" zpos="-733.688" type="harvest.plant.spinach" GUID="y32esy8gg0mFNGCItNOSYw=="/>
+		<POI MapID="54" xpos="1003.13"  ypos="110.996" zpos="-716.329" type="harvest.plant.spinach" GUID="9C2kyWBRPkW/1ta6+DCSLQ=="/>
+		<POI MapID="54" xpos="1007.19"  ypos="111.221" zpos="-717.329" type="harvest.plant.spinach" GUID="8ThpP01kcUuq1Bufxi3XLw=="/>
+
+		<!-- STRAWBERRY PATCH -->
+		<POI MapID="23" xpos="1059.11"  ypos="89.409"  zpos="-487.199" type="harvest.plant.strawberry_patch" GUID="0LXiPBf17062gZ9/o5H7Yg=="/>
+		<POI MapID="23" xpos="1067.98"  ypos="88.3718" zpos="-481.497" type="harvest.plant.strawberry_patch" GUID="KPjNZUQ5wU20SrROn/D/SQ=="/>
+		<POI MapID="23" xpos="1068.31"  ypos="87.2677" zpos="-493.286" type="harvest.plant.strawberry_patch" GUID="LiaXHK5cHkOOfXSZr3RXfw=="/>
+		<POI MapID="23" xpos="1084.68"  ypos="76.2007" zpos="-460.333" type="harvest.plant.strawberry_patch" GUID="niQPAlZNkk+iRqr6GRYZtQ=="/>
+		<POI MapID="23" xpos="1087.03"  ypos="77.3793" zpos="-451.499" type="harvest.plant.strawberry_patch" GUID="zkFrffUwVku2XB+7hAo/zQ=="/>
+		<POI MapID="23" xpos="1094.62"  ypos="76.7829" zpos="-449.755" type="harvest.plant.strawberry_patch" GUID="nuDIPEx+o0OvxXDBlR0DFg=="/>
+		<POI MapID="23" xpos="1105.42"  ypos="49.6155" zpos="-454.151" type="harvest.plant.strawberry_patch" GUID="7W8QFSubgEWoQIJLILMUfg=="/>
+		<POI MapID="23" xpos="1109.37"  ypos="50.566"  zpos="-445.355" type="harvest.plant.strawberry_patch" GUID="3xMACQus+E+qp+kxgIXHmg=="/>
+
+		<POI MapID="31" xpos="752.601"  ypos="111.417" zpos="-439.935" type="harvest.plant.strawberry_patch" GUID="0cZonKr+y06Mst4DcfA0Jw=="/>
+		<POI MapID="31" xpos="752.657"  ypos="110.961" zpos="-431.219" type="harvest.plant.strawberry_patch" GUID="pVmtiXrNNESqv0B52TOY2w=="/>
+		<POI MapID="31" xpos="754.336"  ypos="111.542" zpos="-436.701" type="harvest.plant.strawberry_patch" GUID="nK5cKMbOeUO/c0w7rcBasA=="/>
+		<POI MapID="31" xpos="758.862"  ypos="111.489" zpos="-433.512" type="harvest.plant.strawberry_patch" GUID="ayi5I7vq806GGcvEHf2QYg=="/>
+		<POI MapID="31" xpos="761.277"  ypos="113.698" zpos="-451.383" type="harvest.plant.strawberry_patch" GUID="6JzDS+oULku2H7pibk5ZkA=="/>
+		<POI MapID="31" xpos="764.822"  ypos="114.138" zpos="-452.705" type="harvest.plant.strawberry_patch" GUID="trMTliE6FUmj02HLYFdS8Q=="/>
+		<POI MapID="31" xpos="767.434"  ypos="111.953" zpos="-434.773" type="harvest.plant.strawberry_patch" GUID="qdU8R+e7UkabZK5N/sVtjQ=="/>
+		<POI MapID="31" xpos="769.544"  ypos="112.828" zpos="-438.899" type="harvest.plant.strawberry_patch" GUID="eM1goK7rWkKCRibV2ptehg=="/>
+
+		<POI MapID="32" xpos="-1043.98" ypos="68.5855" zpos="-621.66"  type="harvest.plant.strawberry_patch" GUID="KJyfPupGVkmIG8R7Cx3Cxg=="/>
+		<POI MapID="32" xpos="-1042.02" ypos="68.5879" zpos="-620.139" type="harvest.plant.strawberry_patch" GUID="4IIIgnTvJ0yFIcW/D9GTCg=="/>
+		<POI MapID="32" xpos="-1041.47" ypos="68.4391" zpos="-624.95"  type="harvest.plant.strawberry_patch" GUID="sDBWBQHz602pgZAUk5+Pgg=="/>
+		<POI MapID="32" xpos="-1041.44" ypos="68.7784" zpos="-622.894" type="harvest.plant.strawberry_patch" GUID="oK61gzuRL0+9rE7IXHQi+Q=="/>
+		<POI MapID="32" xpos="-1040.14" ypos="68.6526" zpos="-618.925" type="harvest.plant.strawberry_patch" GUID="uYzcQISZB0qldGu+8mp4/w=="/>
+		<POI MapID="32" xpos="-1039.98" ypos="68.7579" zpos="-621.114" type="harvest.plant.strawberry_patch" GUID="Eu4Vis/QdEWttCZkJCcgPQ=="/>
+		<POI MapID="32" xpos="-1039.24" ypos="68.4774" zpos="-623.364" type="harvest.plant.strawberry_patch" GUID="rjlQu7H3PkG9erXA8/cdTA=="/>
+		<POI MapID="32" xpos="-1037.79" ypos="68.542"  zpos="-620.911" type="harvest.plant.strawberry_patch" GUID="jOINTNviiEG/VgNOz8UfNg=="/>
+
+		<!-- SUGAR PUMPKIN -->
+		<POI MapID="25" xpos="-437.292" ypos="38.1707" zpos="771.491" type="harvest.plant.sugar_pumpkin" GUID="OqQ/sFOjU0iDKxAQ73xEjQ=="/>
+		<POI MapID="25" xpos="-434.127" ypos="36.259"  zpos="706.148" type="harvest.plant.sugar_pumpkin" GUID="8Rt8HQnkpUm2TIUVNQDyMQ=="/>
+		<POI MapID="25" xpos="-432.349" ypos="37.9194" zpos="726.829" type="harvest.plant.sugar_pumpkin" GUID="tpSK6K03M02mw9veExWrNQ=="/>
+		<POI MapID="25" xpos="-424.231" ypos="38.7949" zpos="747.895" type="harvest.plant.sugar_pumpkin" GUID="dOGUrEfPj0OD8P8D8HJH/Q=="/>
+		<POI MapID="25" xpos="-419.652" ypos="35.7365" zpos="716.682" type="harvest.plant.sugar_pumpkin" GUID="uFaKkN2uVUuPjDEy/Yec9g=="/>
+		<POI MapID="25" xpos="-407.199" ypos="37.8883" zpos="741.538" type="harvest.plant.sugar_pumpkin" GUID="c9zgBG5JiEag9nXanQdwgA=="/>
+		<POI MapID="25" xpos="-397.311" ypos="31.683"  zpos="705.141" type="harvest.plant.sugar_pumpkin" GUID="KIFiYEvh2kqzrSNzOQ0Ibw=="/>
+		<POI MapID="25" xpos="-390.797" ypos="33.3216" zpos="718.762" type="harvest.plant.sugar_pumpkin" GUID="8NZM2QgvNU26O3b+gEuAZA=="/>
+
+		<POI MapID="73" xpos="614.229"  ypos="69.8083" zpos="17.5502" type="harvest.plant.sugar_pumpkin" GUID="ItzTuinUL0ugxGZXJIoq5A=="/>
+		<POI MapID="73" xpos="618.35"   ypos="69.2973" zpos="19.0824" type="harvest.plant.sugar_pumpkin" GUID="OsqutrbSQEqSTEITwciblQ=="/>
+		<POI MapID="73" xpos="620.662"  ypos="67.8628" zpos="9.64507" type="harvest.plant.sugar_pumpkin" GUID="BpFyAfOyvUaR59lwNOzBcA=="/>
+		<POI MapID="73" xpos="622.333"  ypos="68.315"  zpos="15.0414" type="harvest.plant.sugar_pumpkin" GUID="Gywa7sd/uUisYlQqKYHTrg=="/>
+		<POI MapID="73" xpos="626.196"  ypos="67.1597" zpos="10.1379" type="harvest.plant.sugar_pumpkin" GUID="YPXIwwyUYUuA9b9ySBRWNw=="/>
+		<POI MapID="73" xpos="626.706"  ypos="67.5196" zpos="18.4745" type="harvest.plant.sugar_pumpkin" GUID="ruUvzHTeAEOClwTD2hLh4Q=="/>
+		<POI MapID="73" xpos="630.733"  ypos="67.1248" zpos="15.224"  type="harvest.plant.sugar_pumpkin" GUID="2DJXyYDOf02rYJR9iJRryg=="/>
+		<POI MapID="73" xpos="633.17"   ypos="66.7645" zpos="10.156"  type="harvest.plant.sugar_pumpkin" GUID="IylfSdSeWkmcAzg/4NCPZg=="/>
+
+		<!-- TOXIC SEEDLING -->
+		<POI MapID="23" xpos="-1090.79" ypos="25.6725" zpos="-227.75"  type="harvest.plant.toxic_seedling" GUID="9BqLrhNqf0qhU/rWTVg94A=="/>
+		<POI MapID="23" xpos="-1080.87" ypos="32.5069" zpos="152.134"  type="harvest.plant.toxic_seedling" GUID="YbNF4AzQ6UqZPRyKd+4CAg=="/>
+		<POI MapID="23" xpos="-1078.77" ypos="59.1738" zpos="295.941"  type="harvest.plant.toxic_seedling" GUID="/azfLnqglkqBNNhtLyXG1g=="/>
+		<POI MapID="23" xpos="-1078.08" ypos="74.7758" zpos="407.203"  type="harvest.plant.toxic_seedling" GUID="ySjpi26lq0CUS5wsvPf9Fg=="/>
+		<POI MapID="23" xpos="-1066.03" ypos="41.4806" zpos="-25.191"  type="harvest.plant.toxic_seedling" GUID="OxIGP+WKFUqw4c1uZodqXw=="/>
+		<POI MapID="23" xpos="-1062.09" ypos="12.3985" zpos="-384.555" type="harvest.plant.toxic_seedling" GUID="v6jvR8T8FkaB+CmgB/pPlA=="/>
+		<POI MapID="23" xpos="-1043.24" ypos="1.64"    zpos="-467.47"  type="harvest.plant.toxic_seedling" GUID="4VX1ka6CHUKPTDvP5ACE5w=="/>
+		<POI MapID="23" xpos="-1030"    ypos="56.65"   zpos="-280"     type="harvest.plant.toxic_seedling" GUID="FTgL5uJmiUiPiozNsmWzFA=="/>
+		<POI MapID="23" xpos="-1001.99" ypos="74.2155" zpos="132.8"    type="harvest.plant.toxic_seedling" GUID="2m8GyCxoekqarUowrnAorw=="/>
+		<POI MapID="23" xpos="-980"     ypos="81.04"   zpos="495"      type="harvest.plant.toxic_seedling" GUID="q4VqAtSSQ0GCfkdUSoDp0Q=="/>
+		<POI MapID="23" xpos="-960.843" ypos="26.668"  zpos="-56.9203" type="harvest.plant.toxic_seedling" GUID="e05TTWkf1k2rptkJgqVjug=="/>
+		<POI MapID="23" xpos="-915.086" ypos="31.473"  zpos="-213.068" type="harvest.plant.toxic_seedling" GUID="+EiQD37TPUqzc3CedCOeag=="/>
+		<POI MapID="23" xpos="-911.851" ypos="71.6017" zpos="370.45"   type="harvest.plant.toxic_seedling" GUID="CX7tubAmWESKY9CmI1adYw=="/>
+		<POI MapID="23" xpos="-895.159" ypos="55.3304" zpos="188.544"  type="harvest.plant.toxic_seedling" GUID="IzlB/Puc5UGe4aTFEn6oSw=="/>
+		<POI MapID="23" xpos="-891.289" ypos="1.08933" zpos="-526.009" type="harvest.plant.toxic_seedling" GUID="Bx0O+qtm50qg49TxNM1G1g=="/>
+		<POI MapID="23" xpos="-854.981" ypos="40.4133" zpos="-248.867" type="harvest.plant.toxic_seedling" GUID="qaM4W1GdpEusSVWzka/9Uw=="/>
+		<POI MapID="23" xpos="-812.939" ypos="34.5273" zpos="-306.262" type="harvest.plant.toxic_seedling" GUID="bI6nbjtf7kGmLRvJ20QyMg=="/>
+		<POI MapID="23" xpos="-766.681" ypos="44.1981" zpos="271.478"  type="harvest.plant.toxic_seedling" GUID="ARxOH291DE+20gIi8q33xQ=="/>
+		<POI MapID="23" xpos="-757.74"  ypos="35.5758" zpos="-396.19"  type="harvest.plant.toxic_seedling" GUID="A5JLGzQV2U6gTbr8opgp/g=="/>
+		<POI MapID="23" xpos="-732.672" ypos="27.7175" zpos="-275.637" type="harvest.plant.toxic_seedling" GUID="pxfGYvSuB0eXQuE8g2fyBQ=="/>
+		<POI MapID="23" xpos="-666.948" ypos="5.21281" zpos="-391.506" type="harvest.plant.toxic_seedling" GUID="DxwWz+sJsE2YrLN6JxabyQ=="/>
+		<POI MapID="23" xpos="-650"     ypos="26.56"   zpos="-310"     type="harvest.plant.toxic_seedling" GUID="X2Juv4LW2EqSNffGRGYt2w=="/>
+		<POI MapID="23" xpos="-648.003" ypos="9.63888" zpos="-202.282" type="harvest.plant.toxic_seedling" GUID="CIQeP/dtzEqk5+GDfgbtpQ=="/>
+		<POI MapID="23" xpos="-585.252" ypos="33.6624" zpos="-425.528" type="harvest.plant.toxic_seedling" GUID="29vVZu+lt0aq1XNGuQOvlg=="/>
+		<POI MapID="23" xpos="-575.231" ypos="68.9639" zpos="510.868"  type="harvest.plant.toxic_seedling" GUID="512hYWv4kES55AIgA4bjwQ=="/>
+		<POI MapID="23" xpos="-509.188" ypos="25.4977" zpos="336.254"  type="harvest.plant.toxic_seedling" GUID="HqImbuo8Bk6Zta8xknPcwA=="/>
+		<POI MapID="23" xpos="-429.4"   ypos="4.81"    zpos="-420.3"   type="harvest.plant.toxic_seedling" GUID="gjkb0vfoak2+Mmb8+wUquw=="/>
+		<POI MapID="23" xpos="-261.27"  ypos="46.5856" zpos="473.147"  type="harvest.plant.toxic_seedling" GUID="GE/skW5iyESNzvTekxB+hQ=="/>
+		<POI MapID="23" xpos="-245.617" ypos="63.022"  zpos="351.42"   type="harvest.plant.toxic_seedling" GUID="GlpzEPWioUaab+7URXOukA=="/>
+		<POI MapID="23" xpos="-215.355" ypos="28.8381" zpos="-173.338" type="harvest.plant.toxic_seedling" GUID="8m57ablnZk+IzXgSQUni5A=="/>
+		<POI MapID="23" xpos="-152.856" ypos="29.9786" zpos="-76.2644" type="harvest.plant.toxic_seedling" GUID="5QLkj0vdIUi7q0fOUM4+gA=="/>
+		<POI MapID="23" xpos="-38.3056" ypos="62.34"   zpos="125.588"  type="harvest.plant.toxic_seedling" GUID="Ag9HNcizn0S7ou+sTt9+BQ=="/>
+		<POI MapID="23" xpos="124.741"  ypos="41.8443" zpos="430.226"  type="harvest.plant.toxic_seedling" GUID="gIa+GkwgfUWQHAiLW3JN2Q=="/>
+		<POI MapID="23" xpos="158.441"  ypos="66.0316" zpos="128.947"  type="harvest.plant.toxic_seedling" GUID="q6G8vAeOpE2A9Dy8N/TPBg=="/>
+		<POI MapID="23" xpos="181.545"  ypos="72.7749" zpos="325.676"  type="harvest.plant.toxic_seedling" GUID="inj7UiAx3UStph0vg+qauA=="/>
+		<POI MapID="23" xpos="181.881"  ypos="7.77359" zpos="-453.104" type="harvest.plant.toxic_seedling" GUID="z7dV/0KBjE2+I7FOf1hwQw=="/>
+		<POI MapID="23" xpos="363.526"  ypos="52.545"  zpos="374.376"  type="harvest.plant.toxic_seedling" GUID="S5hDWI9rZkOjsFI6v4Yvmw=="/>
+		<POI MapID="23" xpos="450.07"   ypos="53.47"   zpos="450.22"   type="harvest.plant.toxic_seedling" GUID="jB9omhGsjU+3YJoJOFctDQ=="/>
+		<POI MapID="23" xpos="458.158"  ypos="53.7548" zpos="339.144"  type="harvest.plant.toxic_seedling" GUID="mE+8DTqrAk+EIqaOTo96DA=="/>
+		<POI MapID="23" xpos="570"      ypos="73.3"    zpos="-310"     type="harvest.plant.toxic_seedling" GUID="XkWY/yIvpEmXXFpl/eqfyw=="/>
+		<POI MapID="23" xpos="683.632"  ypos="43.3474" zpos="115.88"   type="harvest.plant.toxic_seedling" GUID="o6unite8b0mqngVEVUG5YA=="/>
+		<POI MapID="23" xpos="705.466"  ypos="41.6853" zpos="556.115"  type="harvest.plant.toxic_seedling" GUID="CwYPZdt+6k+BrELDTBPTyA=="/>
+		<POI MapID="23" xpos="731.61"   ypos="47.1"    zpos="497.6"    type="harvest.plant.toxic_seedling" GUID="vtyCAsRwFEGnatQJ5HvG9A=="/>
+		<POI MapID="23" xpos="769.82"   ypos="52.38"   zpos="425.37"   type="harvest.plant.toxic_seedling" GUID="SfVpEaHQAkCA5C4mnJ8KpQ=="/>
+		<POI MapID="23" xpos="862.066"  ypos="102.267" zpos="-415.128" type="harvest.plant.toxic_seedling" GUID="9a/5TA3Q2kKQi2SPinEfBQ=="/>
+		<POI MapID="23" xpos="877.082"  ypos="23.461"  zpos="-152.478" type="harvest.plant.toxic_seedling" GUID="GvWl3NWuPEyQBLgo69Pjrg=="/>
+		<POI MapID="23" xpos="905.51"   ypos="36.9"    zpos="399.66"   type="harvest.plant.toxic_seedling" GUID="DFdVon/QQUG5yjuUAazB2Q=="/>
+		<POI MapID="23" xpos="910"      ypos="24"      zpos="190"      type="harvest.plant.toxic_seedling" GUID="KwuQlwPRokyFaS4kd2B+yw=="/>
+		<POI MapID="23" xpos="934.482"  ypos="43.3463" zpos="-153.647" type="harvest.plant.toxic_seedling" GUID="8QBTxWjW7kG1dH5uoFp99Q=="/>
+		<POI MapID="23" xpos="1056.74"  ypos="40.8831" zpos="240.39"   type="harvest.plant.toxic_seedling" GUID="+xEdPVPxh02JasEPgLoz5g=="/>
+		<POI MapID="23" xpos="1072.47"  ypos="13.351"  zpos="392.52"   type="harvest.plant.toxic_seedling" GUID="c9Uc8ifBmUOpbyeUdHTeuA=="/>
+		<POI MapID="23" xpos="1077.41"  ypos="78.088"  zpos="-271.616" type="harvest.plant.toxic_seedling" GUID="H6oIEq+pakerw6c1XRtfIw=="/>
+		<POI MapID="23" xpos="1124.31"  ypos="19.2099" zpos="444.822"  type="harvest.plant.toxic_seedling" GUID="5IHb9WChp0SYgVFaP57L+g=="/>
+		<POI MapID="23" xpos="1186.36"  ypos="57.5731" zpos="-248.216" type="harvest.plant.toxic_seedling" GUID="zI42GCcgoUKIxNV79G8FGA=="/>
+
+		<!-- VERDANT HERB -->
+		<POI MapID="1371" xpos="-548.019" ypos="155.702" zpos="-130.38"  type="harvest.plant.verdant_herb" GUID="cPSR37kWKUKbJhhGi6V6VA=="/>
+		<POI MapID="1371" xpos="-545.908" ypos="156.913" zpos="-121.543" type="harvest.plant.verdant_herb" GUID="pnI8+gGLJUGXlNcK5+7VVQ=="/>
+		<POI MapID="1371" xpos="-540.425" ypos="154.77"  zpos="-110.521" type="harvest.plant.verdant_herb" GUID="j/aRc5qFRkK5emi+B7l9GA=="/>
+		<POI MapID="1371" xpos="-532.936" ypos="152.623" zpos="-107.828" type="harvest.plant.verdant_herb" GUID="1OJ1hhZMlkKNFke/X4XTDA=="/>
+
+		<!-- WINTER ROOT VEGETABLE -->
+		<POI MapID="1371" xpos="268.421"  ypos="101.253" zpos="-813.68"  type="harvest.plant.winter_root_vegetable" GUID="Aer1Kscq+EGLULJF9tmjtw=="/>
+		<POI MapID="1371" xpos="260.114"  ypos="100.786" zpos="-811.489" type="harvest.plant.winter_root_vegetable" GUID="ezwqbxjk+kiIKZNYyEov2Q=="/>
+		<POI MapID="1371" xpos="251.813"  ypos="101.43"  zpos="-809.614" type="harvest.plant.winter_root_vegetable" GUID="8bzMB63a602vfQ5Aacw17A=="/>
+		<POI MapID="1371" xpos="244.206"  ypos="101.415" zpos="-808.331" type="harvest.plant.winter_root_vegetable" GUID="HsZRJUVH/ECWETXGWaMqPQ=="/>
+
+	</POIs>
+</OverlayData>

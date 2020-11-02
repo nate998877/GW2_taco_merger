@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+POIs: ReActif.9251
+Date: 2017/05/09
+-->
+<OverlayData>
+	<MarkerCategory name="chroniques.saison_3">
+		<MarkerCategory name="ep5_point_d_ignition" DisplayName="Ep.5 - Flashpoint" iconFile="Img\MontDraconis.png">
+			<MarkerCategory name="courroux_de_la_nature" DisplayName="Nature's Wrath"/>
+		</MarkerCategory>
+	</MarkerCategory>
+
+	<POIs>
+
+		<!-- Ramille Supérieure Championne -->
+		<POI MapID="1195" xpos="-26.6324" ypos="124.274" zpos="-982.373" type="chroniques.saison_3.ep5_point_d_ignition.courroux_de_la_nature" GUID="Upfnfq5uHE2NjnTDYTXS/w=="/>
+		<POI MapID="1195" xpos="-26.6324" ypos="126.274" zpos="-982.373" type="chroniques.saison_3.ep5_point_d_ignition.courroux_de_la_nature" GUID="gtjOHfm0fUSAELWEGmTRlQ==" iconFile="Img\Combat.png" color="ffff0000"/>
+
+	</POIs>
+</OverlayData>

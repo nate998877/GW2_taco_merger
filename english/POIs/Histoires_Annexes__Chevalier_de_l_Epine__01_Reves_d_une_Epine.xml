@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+POIs: TMKFrench.6427
+Date: 2017/08/15
+-->
+<OverlayData>
+	<MarkerCategory name="histoires_annexes" DisplayName="Side Stories" iconFile="Img\HistoiresAnnexes.png" behavior="3">
+		<MarkerCategory name="chevalier_de_l_epine" DisplayName="Knight of the Thorn" iconFile="Img\ChevalierDeLEpine.png">
+			<MarkerCategory name="reves_d_une_epine" DisplayName="Dreams of a Thorn" heightOffset="3">
+				<MarkerCategory name="acces" DisplayName="Guide" iconFile="Img\Guide.png" iconSize="0.75" heightOffset="1.5"/>
+			</MarkerCategory>
+		</MarkerCategory>
+	</MarkerCategory>
+
+	<POIs>
+
+		<!-- Le Bosquet : Etage inferieur au Nord -->
+		<POI MapID="91" xpos="8.72644" ypos="0.168639" zpos="215.006" type="histoires_annexes.chevalier_de_l_epine.reves_d_une_epine"       GUID="lNtu9eWNP0qTf8SUxJBUHg=="/>
+		<POI MapID="91" xpos="-24.05"  ypos="0"        zpos="148.62"  type="histoires_annexes.chevalier_de_l_epine.reves_d_une_epine.acces" GUID="0/FlE+q2Mkylm0menHCpFg==" iconFile="Img\Fleche.png" iconSize="1.5"/>
+		<Route MapID="91" name="Acces" resetposx="-24.05" resetposy="0" resetposz="148.62" resetrange="2">
+			<POI MapID="91" xpos="-25.4416" ypos="-5.32599" zpos="163.285" type="histoires_annexes.chevalier_de_l_epine.reves_d_une_epine.acces" GUID="maH+M5Ycc0SYn49lnIzmOw=="/>
+			<POI MapID="91" xpos="-23.4229" ypos="-1.92188" zpos="182.22"  type="histoires_annexes.chevalier_de_l_epine.reves_d_une_epine.acces" GUID="qNtbXcz1X0GyS0aWHBdgSg=="/>
+			<POI MapID="91" xpos="-17.6505" ypos="0.164875" zpos="189.536" type="histoires_annexes.chevalier_de_l_epine.reves_d_une_epine.acces" GUID="0u9AZgjBuUaLv58u0KnFNA=="/>
+		</Route>
+
+		<!-- Champs de Ruine : Vallon isolé -->
+		<POI MapID="21" xpos="-841.578" ypos="65.3647" zpos="856.886" type="histoires_annexes.chevalier_de_l_epine.reves_d_une_epine" GUID="xYel/OFA1UyycQ746v85kw=="/>
+
+		<!-- Montée de Flambecoeur : Main de Dieu -->
+		<POI MapID="22" xpos="-855.993" ypos="70.6184" zpos="-499.263" type="histoires_annexes.chevalier_de_l_epine.reves_d_une_epine" GUID="HmY4moeodkWQJGSqkn7LTA=="/>
+
+		<!-- Cimesèches : Oasis du Nord Ouest -->
+		<POI MapID="988" xpos="-388.472" ypos="20.6737" zpos="-79.128" type="histoires_annexes.chevalier_de_l_epine.reves_d_une_epine" GUID="vjRMVA41w0GfF7akiHb9Vg=="/>
+
+		<!-- Plateau de Diessa : Ville de Nolan -->
+		<POI MapID="32" xpos="-1060.88" ypos="67.894"  zpos="-621.563" type="histoires_annexes.chevalier_de_l_epine.reves_d_une_epine"       GUID="kyX5zRfC20idBhit624VSA=="/>
+		<POI MapID="32" xpos="-729.338" ypos="30.3365" zpos="-539.308" type="histoires_annexes.chevalier_de_l_epine.reves_d_une_epine.acces" GUID="38UKOQgFw0i9l3p45cTqPg==" iconFile="Img\FlecheAvancer.png" iconSize="1.5"/>
+		<Route MapID="32" name="Acces" resetposx="-729.338" resetposy="30.3365" resetposz="-539.308" resetrange="2">
+			<POI MapID="32" xpos="-952.321" ypos="39.9069" zpos="-614.487" type="histoires_annexes.chevalier_de_l_epine.reves_d_une_epine.acces" GUID="Z26B7lHU6E27HP3ygV301Q=="/>
+			<POI MapID="32" xpos="-959.681" ypos="40.4778" zpos="-623.601" type="histoires_annexes.chevalier_de_l_epine.reves_d_une_epine.acces" GUID="x0yij+BGFkOJTIx0L1d08g=="/>
+			<POI MapID="32" xpos="-962.977" ypos="41.7512" zpos="-630.641" type="histoires_annexes.chevalier_de_l_epine.reves_d_une_epine.acces" GUID="wyjk+yN9rEKayF4FEKdEDw=="/>
+			<POI MapID="32" xpos="-973.853" ypos="37.8497" zpos="-643.398" type="histoires_annexes.chevalier_de_l_epine.reves_d_une_epine.acces" GUID="LKOFmnTFT0WmPG+1Ltoptg=="/>
+			<POI MapID="32" xpos="-980.94"  ypos="38.702"  zpos="-653.019" type="histoires_annexes.chevalier_de_l_epine.reves_d_une_epine.acces" GUID="s3ulGg9m/EaoLZGVgaHATQ=="/>
+			<POI MapID="32" xpos="-982.421" ypos="40.1871" zpos="-661.142" type="histoires_annexes.chevalier_de_l_epine.reves_d_une_epine.acces" GUID="AMonR2MlDk2SztJfpFRXEg=="/>
+			<POI MapID="32" xpos="-981.983" ypos="41.5235" zpos="-665.491" type="histoires_annexes.chevalier_de_l_epine.reves_d_une_epine.acces" GUID="Hsh6HETr0EalvgRTvdwZjw=="/>
+			<POI MapID="32" xpos="-980.588" ypos="42.8191" zpos="-671.759" type="histoires_annexes.chevalier_de_l_epine.reves_d_une_epine.acces" GUID="Wjz0O6dbIUWf2p86aHNY/g=="/>
+			<POI MapID="32" xpos="-980.463" ypos="45.1535" zpos="-677.609" type="histoires_annexes.chevalier_de_l_epine.reves_d_une_epine.acces" GUID="hcdgFNUk8kmdeVXf5dZsyw=="/>
+			<POI MapID="32" xpos="-976.602" ypos="46.157"  zpos="-675.441" type="histoires_annexes.chevalier_de_l_epine.reves_d_une_epine.acces" GUID="wHMo0dVh9UmmYcOmzYTcSw=="/>
+			<POI MapID="32" xpos="-977.102" ypos="49.0575" zpos="-671.751" type="histoires_annexes.chevalier_de_l_epine.reves_d_une_epine.acces" GUID="Bh1fL7fiq06rtqYOZQ/+LQ=="/>
+			<POI MapID="32" xpos="-976.769" ypos="50.3716" zpos="-675.769" type="histoires_annexes.chevalier_de_l_epine.reves_d_une_epine.acces" GUID="sUd1syiI6EW6yzGKIx0bGg=="/>
+			<POI MapID="32" xpos="-980.321" ypos="51.2598" zpos="-679.796" type="histoires_annexes.chevalier_de_l_epine.reves_d_une_epine.acces" GUID="5d5IMe/BR0W5FDiDwBLZtw=="/>
+			<POI MapID="32" xpos="-985.852" ypos="51.9231" zpos="-682.821" type="histoires_annexes.chevalier_de_l_epine.reves_d_une_epine.acces" GUID="6QxZ9mRaiUS7NvJOWO7SXA=="/>
+			<POI MapID="32" xpos="-992.158" ypos="53.0237" zpos="-683.034" type="histoires_annexes.chevalier_de_l_epine.reves_d_une_epine.acces" GUID="+ZnzlFqmwEu2QykvFNgIBA=="/>
+			<POI MapID="32" xpos="-995.724" ypos="57.0657" zpos="-693.806" type="histoires_annexes.chevalier_de_l_epine.reves_d_une_epine.acces" GUID="BEWQQzc/+0mTi4T9mk5mvg=="/>
+			<POI MapID="32" xpos="-1006.9"  ypos="59.0626" zpos="-690.219" type="histoires_annexes.chevalier_de_l_epine.reves_d_une_epine.acces" GUID="DnJoSQshaU6kuEvwcc8qOw=="/>
+			<POI MapID="32" xpos="-1003.69" ypos="59.0398" zpos="-676.376" type="histoires_annexes.chevalier_de_l_epine.reves_d_une_epine.acces" GUID="auUXWlZnNkepHcaa1VrJBg=="/>
+			<POI MapID="32" xpos="-1004.83" ypos="61.4117" zpos="-672.236" type="histoires_annexes.chevalier_de_l_epine.reves_d_une_epine.acces" GUID="Rts3CJP6tUSU7Z7f4pUHJA=="/>
+			<POI MapID="32" xpos="-1022.44" ypos="55.1409" zpos="-662.744" type="histoires_annexes.chevalier_de_l_epine.reves_d_une_epine.acces" GUID="DtYDEmCnLky/dNb96KVDXA=="/>
+			<POI MapID="32" xpos="-1035.87" ypos="52.6691" zpos="-648.922" type="histoires_annexes.chevalier_de_l_epine.reves_d_une_epine.acces" GUID="fVsLS5b3AkOvqO5IIzoJvQ=="/>
+			<POI MapID="32" xpos="-1043.64" ypos="56.2393" zpos="-641.109" type="histoires_annexes.chevalier_de_l_epine.reves_d_une_epine.acces" GUID="cgpPr+5fJEqrCXmHncAs0Q=="/>
+			<POI MapID="32" xpos="-1050.09" ypos="61.5746" zpos="-630.647" type="histoires_annexes.chevalier_de_l_epine.reves_d_une_epine.acces" GUID="2OhsNvsJNEquSJ2WBWFnug=="/>
+			<POI MapID="32" xpos="-1050.42" ypos="63.7736" zpos="-625.09"  type="histoires_annexes.chevalier_de_l_epine.reves_d_une_epine.acces" GUID="FSiGpSqNAk2gDuGksUhAsg=="/>
+			<POI MapID="32" xpos="-1054.48" ypos="66.7568" zpos="-620.764" type="histoires_annexes.chevalier_de_l_epine.reves_d_une_epine.acces" GUID="yA4a+jJgKUOC1DmZXxM2HQ=="/>
+		</Route>
+
+		<!-- Hinterlands Harathis : Ourobon caché -->
+		<POI MapID="17" xpos="977.011" ypos="107.707" zpos="308.074" type="histoires_annexes.chevalier_de_l_epine.reves_d_une_epine" GUID="vsn/aUhor0msRjxP5vPuNg=="/>
+
+		<!-- Champs de Gendarran : Cénote de Melandru -->
+		<POI MapID="24" xpos="-1219.76" ypos="29.1487" zpos="-431.598" type="histoires_annexes.chevalier_de_l_epine.reves_d_une_epine" GUID="HXSZWcWg7kSkXtI/rCYfsQ=="/>
+
+		<!-- Collines de Kessex : Au Nord du Point de passage de Cereboth -->
+		<POI MapID="23" xpos="781.599" ypos="33.7614" zpos="-156.422" type="histoires_annexes.chevalier_de_l_epine.reves_d_une_epine" GUID="uQs0q8Fg8E6mrm0zwg8kxg=="/>
+
+		<!-- Marais de Lumillule : Gorges de Chokevine -->
+		<POI MapID="53" xpos="-50.2103" ypos="0.142412" zpos="-644.636" type="histoires_annexes.chevalier_de_l_epine.reves_d_une_epine" GUID="AZTI9lqPRkGELIgegs0Kcg=="/>
+
+		<!-- Terres Sauvages de Brisban : Vestiges d'Aurora -->
+		<POI MapID="54" xpos="-982.54" ypos="16.7258" zpos="-292.536" type="histoires_annexes.chevalier_de_l_epine.reves_d_une_epine" GUID="skLZgHNfAEKTTLJT3++zgg=="/>
+
+	</POIs>
+</OverlayData>

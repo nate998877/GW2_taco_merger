@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<guidescriptor>
+	<gui id="gw2pois">
+		<GW2TacO id="tacoroot">
+			<GW2Dialog id="gw2dialog"/>
+			<GW2RangeDisplay id="ranges"/>
+			<GW2TacticalDisplay id="tactical"/>
+			<GW2TacticalCompass id="compass"/>
+			<TimerDisplay id="locationaltimer"/>
+			<clickthroughbutton id="RedCircle" hidden="1"/>
+			<box id="MenuHoverBox">
+				<clickthroughbutton id="TPButton"/>
+				<button id="MenuButton"/>
+			</box>
+			<MouseHighlight id="mousehighlight"/>
+			<HPGrid id="hpgrid"/>
+		</GW2TacO>
+	</gui>
+	<guitemplate id="markereditor" class="template">
+		<box id="markereditorbox">
+			<label id="defaultmarkertype" text="Default Marker Type: undefined"/>
+			<button id="changedefaultmarkertype" text="Change Default Marker Type"/>
+			<label id="markertype" text=""/>
+			<button id="changemarkertype" text="Change Marker Type"/>
+		</box>
+	</guitemplate>
+	<guitemplate id="notepad" class="template">
+		<box id="notepadbox">
+			<textbox id="notepad" text=""/>
+		</box>
+	</guitemplate>
+</guidescriptor>

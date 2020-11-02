@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+POIs: ReActif.9251
+Date: 2017/08/11
+-->
+<OverlayData>
+	<MarkerCategory name="chroniques.saison_3">
+		<MarkerCategory name="ep6_le_bout_du_chemin" DisplayName="Ep.6 - One Path Ends" iconFile="Img\LeBoutduChemin.png">
+			<MarkerCategory name="conteur__melandru" DisplayName="Storyteller: Melandru"/>
+		</MarkerCategory>
+	</MarkerCategory>
+
+	<POIs>
+
+		<!-- 1 --><POI MapID="1203" xpos="-63.6037" ypos="-2.46122" zpos="-165.584" type="chroniques.saison_3.ep6_le_bout_du_chemin.conteur__melandru" GUID="QfeTyYNSUkKHzog9Wn8jWw=="/>
+		<!-- 2 --><POI MapID="1203" xpos="-321.044" ypos="103.029"  zpos="-360.25"  type="chroniques.saison_3.ep6_le_bout_du_chemin.conteur__melandru" GUID="TBIf4f542kytzYnsy1VZQA=="/>
+		<!-- 3 --><POI MapID="1203" xpos="-132.604" ypos="170.791"  zpos="-130.786" type="chroniques.saison_3.ep6_le_bout_du_chemin.conteur__melandru" GUID="iPKm9uSEb067tFEHQrCe4Q=="/>
+		<!-- 4 --><POI MapID="1203" xpos="52.213"   ypos="64.2888"  zpos="-306.52"  type="chroniques.saison_3.ep6_le_bout_du_chemin.conteur__melandru" GUID="0JgSBTbskkqxiVpKO1yGFw=="/>
+		<!-- 5 --><POI MapID="1203" xpos="-252.524" ypos="92.4159"  zpos="-352.609" type="chroniques.saison_3.ep6_le_bout_du_chemin.conteur__melandru" GUID="8k61chxyckKfK6kT/2mlWA=="/>
+		<!-- 6 --><POI MapID="1203" xpos="-980.232" ypos="4.74637"  zpos="-282.468" type="chroniques.saison_3.ep6_le_bout_du_chemin.conteur__melandru" GUID="RJvsyKk0yEC1RheEreQcVA=="/>
+
+	</POIs>
+</OverlayData>

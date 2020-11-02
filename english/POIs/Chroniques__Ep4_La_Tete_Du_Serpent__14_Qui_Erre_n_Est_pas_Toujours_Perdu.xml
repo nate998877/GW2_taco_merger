@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+POIs: ReActif.9251
+Date: 2017/02/20
+-->
+<OverlayData>
+	<MarkerCategory name="chroniques.saison_3">
+		<MarkerCategory name="ep4_la_tete_du_serpent" DisplayName="Ep.4 - The Head of the Snake" iconFile="Img\LacDoric.png">
+			<MarkerCategory name="qui_erre_n_est_pas_toujours_perdu" DisplayName="Not All Who Wander Are Lost" iconFile="Img\Guide.png" iconSize="0.75" behavior="0">
+				<MarkerCategory name="torche" DisplayName="Torch" iconSize="1"/>
+				<MarkerCategory name="escorte" DisplayName="Escort" iconFile="Img\TorcheContourClair.png" iconSize="1" heightOffset="0.5"/>
+			</MarkerCategory>
+		</MarkerCategory>
+	</MarkerCategory>
+
+	<POIs>
+
+		<!-- Batonnet -->
+		<POI MapID="1185" xpos="40.7366" ypos="37.3488" zpos="-535.391" type="chroniques.saison_3.ep4_la_tete_du_serpent.qui_erre_n_est_pas_toujours_perdu.torche" GUID="SIB/rpd4+kCMfDSrE8e6eA==" iconFile="Img\1.png"/>
+
+		<!-- Feu -->
+		<POI MapID="1185" xpos="49.14" ypos="40" zpos="-527.52" type="chroniques.saison_3.ep4_la_tete_du_serpent.qui_erre_n_est_pas_toujours_perdu.torche" GUID="etdOhPPwF0mGP4KSqJx1+Q==" iconFile="Img\2.png"/>
+
+		<!-- Départ du PNJ -->
+		<POI MapID="1185" xpos="25.95" ypos="34" zpos="-699.5" type="chroniques.saison_3.ep4_la_tete_du_serpent.qui_erre_n_est_pas_toujours_perdu.escorte" GUID="Zaf9CWBbVkm+mDo9csI1sg==" iconFile="Img\EventBouclier.png"/>
+		<POI MapID="1185" xpos="25.95" ypos="32" zpos="-699.5" type="chroniques.saison_3.ep4_la_tete_du_serpent.qui_erre_n_est_pas_toujours_perdu.escorte" GUID="uDscMYzIN0WBKzxuh3zAXA==" iconFile="Img\3.png"/>
+
+		<!-- Torches -->
+		<POI MapID="1185" xpos="78.9638" ypos="30.511" zpos="-698.494" type="chroniques.saison_3.ep4_la_tete_du_serpent.qui_erre_n_est_pas_toujours_perdu.escorte" GUID="NaQDxMMT80mI+41tKmYStg==" heightOffset="2"/>
+		<POI MapID="1185" xpos="104.138" ypos="32.4259" zpos="-683.785" type="chroniques.saison_3.ep4_la_tete_du_serpent.qui_erre_n_est_pas_toujours_perdu.escorte" GUID="jM89zDnyh0yqqAplvWtbKw==" heightOffset="2"/>
+		<POI MapID="1185" xpos="133.74" ypos="32.4318" zpos="-694.873" type="chroniques.saison_3.ep4_la_tete_du_serpent.qui_erre_n_est_pas_toujours_perdu.escorte" GUID="HDNsqFcpn0e+ynt8qBRxFw==" heightOffset="2"/>
+		<POI MapID="1185" xpos="183.364" ypos="32.6886" zpos="-706.776" type="chroniques.saison_3.ep4_la_tete_du_serpent.qui_erre_n_est_pas_toujours_perdu.escorte" GUID="uw29sB5nFkOIY1yRLHc5hA==" heightOffset="2"/>
+		<POI MapID="1185" xpos="217.389" ypos="31.4471" zpos="-688.881" type="chroniques.saison_3.ep4_la_tete_du_serpent.qui_erre_n_est_pas_toujours_perdu.escorte" GUID="D8Kd5FInIkGguEWoXIr2WQ==" heightOffset="2"/>
+		<POI MapID="1185" xpos="259.093" ypos="31.6352" zpos="-689.738" type="chroniques.saison_3.ep4_la_tete_du_serpent.qui_erre_n_est_pas_toujours_perdu.escorte" GUID="mGOzrHN0b0WcPP8I3M0a5g==" heightOffset="2"/>
+		<POI MapID="1185" xpos="283.719" ypos="27.5786" zpos="-695.081" type="chroniques.saison_3.ep4_la_tete_du_serpent.qui_erre_n_est_pas_toujours_perdu.escorte" GUID="MGmaIpfjREijv9dKOhwZSw==" iconFile="Img\Destination.png" iconSize="1"/><!-- Statue de Melandru -->
+
+
+		<!-- Entrée -->
+		<POI MapID="1185" xpos="293.17" ypos="20.15" zpos="-671.88" type="chroniques.saison_3.ep4_la_tete_du_serpent.qui_erre_n_est_pas_toujours_perdu" GUID="oyaRkBBdok2EZXIzXyKISg==" iconFile="Img\Fleche.png" iconSize="1.5"/>
+
+		<!-- Route -->
+		<Route MapID="1185" name="Refuge_de_Melandru" resetposx="293.17" resetposy="20.15" resetposz="-671.88" resetrange="2">
+			<POI MapID="1185" xpos="298.985" ypos="18.7305" zpos="-672.356" type="chroniques.saison_3.ep4_la_tete_du_serpent.qui_erre_n_est_pas_toujours_perdu" GUID="daBsKNVnDkapwmOJWfk48A=="/>
+			<POI MapID="1185" xpos="304.096" ypos="18.0829" zpos="-677.773" type="chroniques.saison_3.ep4_la_tete_du_serpent.qui_erre_n_est_pas_toujours_perdu" GUID="xE2zj7jgr065tQGW6lOT1g=="/>
+			<POI MapID="1185" xpos="307.645" ypos="16.2642" zpos="-683.023" type="chroniques.saison_3.ep4_la_tete_du_serpent.qui_erre_n_est_pas_toujours_perdu" GUID="6wcPCoKA80i8VsUH23h4Bg=="/>
+			<POI MapID="1185" xpos="311.563" ypos="11.4321" zpos="-689.473" type="chroniques.saison_3.ep4_la_tete_du_serpent.qui_erre_n_est_pas_toujours_perdu" GUID="08iaf/l5JESsr+I1bUZ4uw=="/>
+			<POI MapID="1185" xpos="315.845" ypos="8.86548" zpos="-694.633" type="chroniques.saison_3.ep4_la_tete_du_serpent.qui_erre_n_est_pas_toujours_perdu" GUID="CKT5AyaPB0GJki7Uifo2Tg=="/>
+			<POI MapID="1185" xpos="320.689" ypos="6.15161" zpos="-698.36" type="chroniques.saison_3.ep4_la_tete_du_serpent.qui_erre_n_est_pas_toujours_perdu" GUID="poMO5TvGyE2HwtCNxYztXg=="/>
+			<POI MapID="1185" xpos="326.126" ypos="3.09342" zpos="-701.956" type="chroniques.saison_3.ep4_la_tete_du_serpent.qui_erre_n_est_pas_toujours_perdu" GUID="BWD8xst840+7rxfdX/+6IA=="/>
+			<POI MapID="1185" xpos="332.361" ypos="-0.0250894" zpos="-703.805" type="chroniques.saison_3.ep4_la_tete_du_serpent.qui_erre_n_est_pas_toujours_perdu" GUID="K4JhGALFo02UrzmIRE8cRg=="/>
+			<POI MapID="1185" xpos="339.495" ypos="-0.681002" zpos="-705.874" type="chroniques.saison_3.ep4_la_tete_du_serpent.qui_erre_n_est_pas_toujours_perdu" GUID="rBYx/2sPj0GDcV84tF+AtQ=="/>
+			<POI MapID="1185" xpos="344.73" ypos="0.125993" zpos="-711.552" type="chroniques.saison_3.ep4_la_tete_du_serpent.qui_erre_n_est_pas_toujours_perdu" GUID="6NHO0DlEH0OitLhO9dS0Xg=="/>
+			<POI MapID="1185" xpos="348.239" ypos="4.06764" zpos="-716.631" type="chroniques.saison_3.ep4_la_tete_du_serpent.qui_erre_n_est_pas_toujours_perdu" GUID="GB4wiGwjyk6LvLBb6K/eyg=="/>
+			<POI MapID="1185" xpos="349.452" ypos="7.63435" zpos="-720.784" type="chroniques.saison_3.ep4_la_tete_du_serpent.qui_erre_n_est_pas_toujours_perdu" GUID="CIafIWJUPEyM+Lwtg2qlSg=="/>
+			<POI MapID="1185" xpos="352.375" ypos="10.3274" zpos="-722.327" type="chroniques.saison_3.ep4_la_tete_du_serpent.qui_erre_n_est_pas_toujours_perdu" GUID="eE6FNSJwNkGHguSEPhLhAg=="/>
+			<POI MapID="1185" xpos="357.944" ypos="10.0804" zpos="-722.256" type="chroniques.saison_3.ep4_la_tete_du_serpent.qui_erre_n_est_pas_toujours_perdu" GUID="GNWNMhUopkWOjD88eyfwHg=="/>
+			<POI MapID="1185" xpos="363.807" ypos="10.555" zpos="-719.446" type="chroniques.saison_3.ep4_la_tete_du_serpent.qui_erre_n_est_pas_toujours_perdu" GUID="g7FAsowyK0uh1YxYREhKOA=="/>
+			<POI MapID="1185" xpos="365.986" ypos="7.73063" zpos="-708.267" type="chroniques.saison_3.ep4_la_tete_du_serpent.qui_erre_n_est_pas_toujours_perdu" GUID="eisM3zpuyEGAzUJ3o/Kvlw==" iconFile="Img\VentAscendant.png" iconSize="1"/><!-- Vents Ascendants -->
+			<POI MapID="1185" xpos="345.227" ypos="18.2472" zpos="-701.528" type="chroniques.saison_3.ep4_la_tete_du_serpent.qui_erre_n_est_pas_toujours_perdu" GUID="OQU+N2GoPEG8jX9l1JQEuw==" iconFile="Img\VentAscendant.png" iconSize="1"/><!-- Vents Ascendants -->
+			<POI MapID="1185" xpos="359.96" ypos="29.1072" zpos="-690.498" type="chroniques.saison_3.ep4_la_tete_du_serpent.qui_erre_n_est_pas_toujours_perdu" GUID="dfJVD91bME6hOXyj+08n2Q==" iconFile="Img\VentAscendant.png" iconSize="1"/><!-- Vents Ascendants -->
+			<POI MapID="1185" xpos="358.302" ypos="34.8089" zpos="-667.794" type="chroniques.saison_3.ep4_la_tete_du_serpent.qui_erre_n_est_pas_toujours_perdu" GUID="xD8bxpbgGECPYx9h6ZhSow=="/>
+		</Route>
+
+		<!-- Coffre -->
+		<POI MapID="1185" xpos="368.853" ypos="34.4666" zpos="-656.408" type="chroniques.saison_3.ep4_la_tete_du_serpent.qui_erre_n_est_pas_toujours_perdu" GUID="idhjjx2xQ0CugzyAIGOzGA==" iconFile="Img\CoffrePuzzle.png" iconSize="1" heightOffset="2.5" behavior="2"/>
+
+	</POIs>
+</OverlayData>

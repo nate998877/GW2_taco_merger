@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+POIs: ReActif.9251
+Date: 2017/08/15
+-->
+<OverlayData>
+	<MarkerCategory name="histoires_annexes" DisplayName="Side Stories" iconFile="Img\HistoiresAnnexes.png" behavior="3">
+		<MarkerCategory name="occurrences_d_anomalie" DisplayName="Anomalous Occurrences" iconFile="Img\OccurrencesDAnomalie.png">
+			<MarkerCategory name="recolte_de_pierres_de_sang" DisplayName="Bloodstone Harvest"/>
+		</MarkerCategory>
+	</MarkerCategory>
+
+	<POIs>
+
+		<!-- Les Contrées sauvages d'Argent : celui-ci a atteri directement sur le Vice-versa. Récuperez-le avant que les Skritts ne le trouvent. -->
+		<POI MapID="1015" xpos="268.042"  ypos="319.038" zpos="167.227"  type="histoires_annexes.occurrences_d_anomalie.recolte_de_pierres_de_sang" GUID="0s9fZ73h6UWZDd8d5JBjww=="/>
+
+		<!-- Détroit des gorges glacées : découvert dans les Eaux troubles et profondes, où réside la Voix. -->
+		<POI MapID="30"   xpos="-435.893" ypos="49.3512" zpos="556.089"  type="histoires_annexes.occurrences_d_anomalie.recolte_de_pierres_de_sang" GUID="EQ8ueTzRNkGdyh4v/WOmMQ=="/>
+
+		<!-- Les Steppes de la strie flamboyante : ce morceau a voyagé avec le courant dans la Folie de Delirius. -->
+		<POI MapID="20"   xpos="590.46"   ypos="42.7248" zpos="1108.77"  type="histoires_annexes.occurrences_d_anomalie.recolte_de_pierres_de_sang" GUID="bSM8GAcRM0KfApTSBD5Cww=="/>
+
+		<!-- Terres sauvages de Brisban : trouvé dans le Lac caché. Cet endroit a déjà vécu une situation fâcheuse avec des esprits et de la pierre de sang. -->
+		<POI MapID="54"   xpos="-48.252"  ypos="9.85538" zpos="663.385"  type="histoires_annexes.occurrences_d_anomalie.recolte_de_pierres_de_sang" GUID="+RPp/9cuhEWeiYLk5+fpsw=="/>
+
+		<!-- Orée d'emeraude : celui-ci s'est niché quelque part sur les Falaise de la vouivre. -->
+		<POI MapID="1052" xpos="405.535"  ypos="436.321" zpos="164.76"   type="histoires_annexes.occurrences_d_anomalie.recolte_de_pierres_de_sang" GUID="wXY1L23H506gY4hvwJCWXQ=="/>
+
+		<!-- La Vallée de la reine : ne le laissez pas perturber le repos des morts. -->
+		<POI MapID="15"   xpos="-130.676" ypos="58.4469" zpos="565.735"  type="histoires_annexes.occurrences_d_anomalie.recolte_de_pierres_de_sang" GUID="iK7GzNOhLE6IrTVNxow74w=="/>
+
+		<!-- Hinterlands harathis : celui-ci surplomb la bataille depuis le Camp du belvédère. -->
+		<POI MapID="17"   xpos="202.55"   ypos="83"      zpos="-393"     type="histoires_annexes.occurrences_d_anomalie.recolte_de_pierres_de_sang" GUID="qydlK3Er/02Z6EQ67ojkVg=="/>
+
+		<!-- Rata Sum : faites preuve de prudence avec celui-ci. -->
+		<POI MapID="139"  xpos="137.484"  ypos="399.409" zpos="149.365"  type="histoires_annexes.occurrences_d_anomalie.recolte_de_pierres_de_sang" GUID="8NdUF0CT8ECFjjdFF06vwA=="/>
+
+		<!-- Chutes de la canopée : si les Kraits avaient des jambes, ils l'auraient probablement déjà trouvé. -->
+		<POI MapID="29"   xpos="255.88"   ypos="83.9047" zpos="-511.946" type="histoires_annexes.occurrences_d_anomalie.recolte_de_pierres_de_sang" GUID="FHpA/rl8NkeleWHOeAecFQ=="/>
+
+		<!-- Mont Maelström : au sud-ouest du Coeur du Maelström se trouve une fissure à flanc de volcan. -->
+		<POI MapID="39"   xpos="-430.333" ypos="120.577" zpos="-407.257" type="histoires_annexes.occurrences_d_anomalie.recolte_de_pierres_de_sang" GUID="Ob4MY9c1i0GVFg2aBBszvg=="/>
+
+	</POIs>
+</OverlayData>

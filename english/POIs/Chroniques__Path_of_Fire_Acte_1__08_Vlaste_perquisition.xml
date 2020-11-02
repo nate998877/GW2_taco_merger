@@ -1,0 +1,26 @@
+<!--
+POIs: TMKFrench.6427
+Date: 2017/10/14
+-->
+<OverlayData>
+	<MarkerCategory name="chroniques.pof">
+		<MarkerCategory name="acte_1" DisplayName="Path of Fire : Act 1" iconFile="Img\PathofFireacte1.png">
+			<MarkerCategory name="vlast_perquisition" DisplayName="Vlast from the Past" fadeNear="10000" fadeFar="20000" behavior="3"/>
+		</MarkerCategory>
+	</MarkerCategory>
+
+	<POIs>
+		<POI MapID="1211" xpos="372.003" ypos="151.317" zpos="-258.523" type="chroniques.pof.acte_1.vlast_perquisition" GUID="3PtAVQQTm0S18YqIej9DIQ=="/>
+		<POI MapID="1211" xpos="686.575" ypos="199.379" zpos="15.3093" type="chroniques.pof.acte_1.vlast_perquisition" GUID="bIqaWrPdP0mdx2rtpTspdA=="/>
+		<POI MapID="1211" xpos="877.538" ypos="247.325" zpos="285.722" type="chroniques.pof.acte_1.vlast_perquisition" GUID="PVMDIBzEPUSs+AOyGsJx/Q=="/>
+		<POI MapID="1211" xpos="584.199" ypos="161.82" zpos="617.38" type="chroniques.pof.acte_1.vlast_perquisition" GUID="yPorkykzokmVl6YbrhBcNA=="/>
+		<POI MapID="1211" xpos="355.856" ypos="242.649" zpos="13.5646" type="chroniques.pof.acte_1.vlast_perquisition" GUID="VdKohGlCrUCLjUex7Q9Wgw=="/>
+		<POI MapID="1211" xpos="33.9534" ypos="208.633" zpos="5.54641" type="chroniques.pof.acte_1.vlast_perquisition" GUID="RccvDdY/oE2e96mOxRlTpA=="/>
+		<POI MapID="1211" xpos="36.2538" ypos="274.417" zpos="393.624" type="chroniques.pof.acte_1.vlast_perquisition" GUID="UNvEcTpvV0mNpGqvD8noLQ=="/>
+		<POI MapID="1211" xpos="-371.554" ypos="318.51" zpos="616.374" type="chroniques.pof.acte_1.vlast_perquisition" GUID="e/mtQPE6JEiR9fmqy2gfKA=="/>
+		<POI MapID="1211" xpos="-484.058" ypos="262.493" zpos="327.31" type="chroniques.pof.acte_1.vlast_perquisition" GUID="CjNoXnj1y0GVivBTVTt8MA=="/>
+		<POI MapID="1211" xpos="-605.638" ypos="339.755" zpos="108.873" type="chroniques.pof.acte_1.vlast_perquisition" GUID="0WUCTn5XLUqyBniELeWcZw=="/>
+		<POI MapID="1211" xpos="-418.312" ypos="68.7531" zpos="-373.37" type="chroniques.pof.acte_1.vlast_perquisition" GUID="ixVvKIboiU6f8fn8S71sLQ=="/>
+		<POI MapID="1211" xpos="-719.131" ypos="37.5891" zpos="-457.936" type="chroniques.pof.acte_1.vlast_perquisition" GUID="PuvBRzDWpEq6aPBEdcZBaA=="/>
+	</POIs>
+</OverlayData>

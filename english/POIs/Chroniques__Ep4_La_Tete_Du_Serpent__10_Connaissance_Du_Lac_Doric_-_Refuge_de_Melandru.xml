@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+POIs: ReActif.9251
+Date: 2017/08/11
+-->
+<OverlayData>
+	<MarkerCategory name="chroniques.saison_3">
+		<MarkerCategory name="ep4_la_tete_du_serpent" DisplayName="Ep.4 - The Head of the Snake" iconFile="Img\LacDoric.png">
+			<MarkerCategory name="connaissance_du_lac_doric__refuge_de_melandru" DisplayName="Lake Doric Insight: Melandru's Refuge" iconFile="Img\Guide.png" iconSize="0.75" behavior="0">
+				<MarkerCategory name="acces" DisplayName="Guide" iconFile="Img\MaitriseHOT.png" iconSize="1.5" alpha="0.7"/>
+			</MarkerCategory>
+		</MarkerCategory>
+	</MarkerCategory>
+
+	<POIs>
+
+		<!-- Début -->
+		<POI MapID="1185" xpos="282.72" ypos="52.33" zpos="-734.81" type="chroniques.saison_3.ep4_la_tete_du_serpent.connaissance_du_lac_doric__refuge_de_melandru.acces" GUID="ElAyKWGhPUWGPqQb5G2trg=="/>
+
+		<!-- Route -->
+		<Route MapID="1185" name="Refuge_de_Melandru" resetposx="282.72" resetposy="52.33" resetposz="-734.81" resetrange="2">
+			<POI MapID="1185" xpos="286.902" ypos="54.7193" zpos="-735.479" type="chroniques.saison_3.ep4_la_tete_du_serpent.connaissance_du_lac_doric__refuge_de_melandru" GUID="ZvQga6TMtEqdLl+C0NMCnQ=="/>
+			<POI MapID="1185" xpos="290.15"  ypos="54.4984" zpos="-731.529" type="chroniques.saison_3.ep4_la_tete_du_serpent.connaissance_du_lac_doric__refuge_de_melandru" GUID="imCspUmj0E2eFKKe6DlXpQ=="/>
+			<POI MapID="1185" xpos="288.307" ypos="54.144"  zpos="-727.216" type="chroniques.saison_3.ep4_la_tete_du_serpent.connaissance_du_lac_doric__refuge_de_melandru" GUID="bFdtgH6zGkCTS6hFbK63KA=="/>
+			<POI MapID="1185" xpos="287.825" ypos="57.0089" zpos="-724.495" type="chroniques.saison_3.ep4_la_tete_du_serpent.connaissance_du_lac_doric__refuge_de_melandru" GUID="XgCvYFVkjk669vq7wtGoeA=="/>
+		</Route>
+
+	</POIs>
+</OverlayData>

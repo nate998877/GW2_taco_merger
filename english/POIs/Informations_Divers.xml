@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+POIs: ReActif.9251
+Date: 2017/02/27
+-->
+<OverlayData>
+	<POIs>
+
+		<!-- Marais de Fer - Raccourci pour accéder à la zone du Chamane de Feu -->
+		<POI MapID="25" xpos="-398.346" ypos="57.3774" zpos="1084.97" type="informations.epingles.vert" GUID="+PdO6Ac760mI++7k1UXfsA=="/>
+
+		<!-- Confins de Givramer - Recette de l'Elixir de Dégel -->
+		<POI MapID="1178" xpos="806.832" ypos="-0.0168089" zpos="-384.422" type="informations" GUID="aOLf6nEK80uTewUlyZPerg==" iconFile="Img\IngredientsElixirDeDegel-EN.png" iconSize="2"/>
+
+		<!-- Confins de Givramer (Ouverture de porte) -->
+		<POI MapID="1178" xpos="-709.81" ypos="37.98" zpos="-71.34" type="informations.icones.interrupteurs" GUID="OLGXQW3jUUmlwja1laBI0Q==" behavior="4" resetLength="300"/>
+
+		<!-- Confins de Givramer (Stèle) -->
+		<POI MapID="1178" xpos="689.561" ypos="38.8846" zpos="242.52" type="informations.icones.interrupteurs" GUID="owG7ZHTc/kaIsJi2hUM42g==" heightOffset="3.5"/>
+		<POI MapID="1178" xpos="-611.55" ypos="54.82" zpos="244.22" type="informations.icones.interrupteurs" GUID="AHyjkOPlM0+kbtCWl7sIXg==" heightOffset="1"/>
+
+	</POIs>
+</OverlayData>

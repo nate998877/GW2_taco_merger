@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+POIs: ReActif.9251
+Date: 2017/05/09
+-->
+<OverlayData>
+	<MarkerCategory name="chroniques.saison_3">
+		<MarkerCategory name="ep5_point_d_ignition" DisplayName="Ep.5 - Flashpoint" iconFile="Img\MontDraconis.png">
+			<MarkerCategory name="ascension_du_roi_des_dinosaures" DisplayName="Dinosaur King Ascension"/>
+		</MarkerCategory>
+	</MarkerCategory>
+
+	<POIs>
+
+		<!-- Roi Têtenpierre Champion -->
+		<POI MapID="1195" xpos="469.241" ypos="213.405" zpos="-377.567" type="chroniques.saison_3.ep5_point_d_ignition.ascension_du_roi_des_dinosaures" GUID="dKl7wdF1IkanodyiKz+Wfw=="/>
+		<POI MapID="1195" xpos="469.241" ypos="215.405" zpos="-377.567" type="chroniques.saison_3.ep5_point_d_ignition.ascension_du_roi_des_dinosaures" GUID="eBPxphzavkGPuUiIFLvptQ==" iconFile="Img\Combat.png" color="ffff0000"/>
+
+	</POIs>
+</OverlayData>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+POIs: ReActif.9251
+Date: 2017/05/16
+-->
+<OverlayData>
+	<MarkerCategory name="chroniques.saison_3">
+		<MarkerCategory name="ep5_point_d_ignition" DisplayName="Ep.5 - Flashpoint" iconFile="Img\MontDraconis.png">
+			<MarkerCategory name="la_pierre_druidique" DisplayName="The Druid Stone" heightOffset="6">
+				<MarkerCategory name="kodama" DisplayName="A Flower for Kodama (and Runestone)" behavior="0"/>
+				<MarkerCategory name="liriodendron" DisplayName="A Flower for Liriodendron"/>
+				<MarkerCategory name="grand_feuille" DisplayName="A Flower for Broadleaf"/>
+				<MarkerCategory name="bois_de_rose" DisplayName="A Flower for Rosewood"/>
+			</MarkerCategory>
+		</MarkerCategory>
+	</MarkerCategory>
+
+	<POIs>
+
+		<!--
+		l'histoire de druide
+		Une fleur pour Kodama
+		-->
+		<POI MapID="1195" xpos="572.782" ypos="120.698" zpos="-339.958" type="chroniques.saison_3.ep5_point_d_ignition.la_pierre_druidique.kodama" GUID="SzdorNMMNEagpfXJplNInw=="/>
+
+		<!-- Une fleur pour Liriodendron -->
+		<POI MapID="1195" xpos="596.215" ypos="242.667" zpos="-282.229" type="chroniques.saison_3.ep5_point_d_ignition.la_pierre_druidique.liriodendron" GUID="Wk+DBPSJk0S3pv+QoDYSnQ=="/>
+
+		<!-- Une fleur pour Grand-feuille -->
+		<POI MapID="1195" xpos="-218.089" ypos="295.841" zpos="-708.447" type="chroniques.saison_3.ep5_point_d_ignition.la_pierre_druidique.grand_feuille" GUID="dBV1VuNjOE2XTWYGvbBJzA=="/>
+
+		<!-- Une fleur pour Bois de rose -->
+		<POI MapID="1195" xpos="-1.22426" ypos="309.163" zpos="135.254" type="chroniques.saison_3.ep5_point_d_ignition.la_pierre_druidique.bois_de_rose" GUID="ikVGIeMaL0CfMIT/P7pj5Q=="/>
+
+	</POIs>
+</OverlayData>

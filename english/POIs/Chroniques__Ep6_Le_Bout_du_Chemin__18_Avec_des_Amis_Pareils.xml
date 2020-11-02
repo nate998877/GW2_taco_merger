@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+POIs: TMKFrench.6427
+Date: 2017/07/28
+-->
+<OverlayData>
+	<MarkerCategory name="chroniques.saison_3">
+		<MarkerCategory name="ep6_le_bout_du_chemin" DisplayName="Ep.6 - One Path Ends" iconFile="Img\LeBoutduChemin.png">
+			<MarkerCategory name="avec_des_amis_pareils" DisplayName="With Friends Like These..."/>
+		</MarkerCategory>
+	</MarkerCategory>
+
+	<POIs>
+
+		<POI MapID="1202" xpos="113" ypos="143" zpos="-315" type="chroniques.saison_3.ep6_le_bout_du_chemin.Avec_des_amis_pareils" GUID="zrqt9TsDGU2vu73d6FLb3Q==" iconFile="Img\AvecDesAmisPareils-EN.png" iconSize="1.5"/>
+		<POI MapID="1202" xpos="91"  ypos="141" zpos="-330" type="chroniques.saison_3.ep6_le_bout_du_chemin.Avec_des_amis_pareils" GUID="teggk25chUe/I4xLGzdHRg==" iconFile="Img\1.png"/>
+		<POI MapID="1202" xpos="104" ypos="141" zpos="-324" type="chroniques.saison_3.ep6_le_bout_du_chemin.Avec_des_amis_pareils" GUID="5DgVNwvHtkyCqWdyYmFCug==" iconFile="Img\2.png"/>
+		<POI MapID="1202" xpos="91"  ypos="141" zpos="-318" type="chroniques.saison_3.ep6_le_bout_du_chemin.Avec_des_amis_pareils" GUID="73BkykA/ckuHv7zAClQWhQ==" iconFile="Img\3.png"/>
+		<POI MapID="1202" xpos="97"  ypos="141" zpos="-330" type="chroniques.saison_3.ep6_le_bout_du_chemin.Avec_des_amis_pareils" GUID="ZBDi1eYBIkSlsQHEN1MHUw==" iconFile="Img\4.png"/>
+		<POI MapID="1202" xpos="104" ypos="141" zpos="-324" type="chroniques.saison_3.ep6_le_bout_du_chemin.Avec_des_amis_pareils" GUID="dOEF7BHxCky8YYWD8rtbVg==" iconFile="Img\5.png" heightOffset="3"/>
+		<POI MapID="1202" xpos="104" ypos="141" zpos="-330" type="chroniques.saison_3.ep6_le_bout_du_chemin.Avec_des_amis_pareils" GUID="2Js/Dsg2YEKqzE0RAlH5fQ==" iconFile="Img\6.png"/>
+
+	</POIs>
+</OverlayData>

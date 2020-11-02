@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+POIs: ReActif.9251
+Date: 2017/03/01
+-->
+<OverlayData>
+	<MarkerCategory name="chroniques.saison_3">
+		<MarkerCategory name="ep2_l_embrasement" DisplayName="Ep.2 - Rising Flames" iconFile="Img\BaieDesBraises.png">
+			<MarkerCategory name="l_ultime_voyage_de_cami" DisplayName="Cami's Final Voyage"/>
+		</MarkerCategory>
+	</MarkerCategory>
+
+	<POIs>
+
+		<!-- 1. Cape infernale : regarder autour de la pointe de la péninsule. -->
+		<POI MapID="1175" xpos="-177.697" ypos="4.38741" zpos="-729.484" type="chroniques.saison_3.ep2_l_embrasement.l_ultime_voyage_de_cami" GUID="6U72DEp3wk+VLgfpabbpXw=="/>
+
+		<!-- 2. Plage du naufrage : au sud-ouest du Cirque maudit, enfoui sous des pierres après le labyrinthe de la plage. -->
+		<POI MapID="1175" xpos="-693.514" ypos="9.3685" zpos="-387.64" type="chroniques.saison_3.ep2_l_embrasement.l_ultime_voyage_de_cami" GUID="A/m5KxEO/kW0ydQ8nvhKMA=="/>
+
+		<!-- 3. Chaire sanglante : situé au nord-est de la caldera bouillonnante. -->
+		<POI MapID="1175" xpos="-213.828" ypos="30.4573" zpos="-221.936" type="chroniques.saison_3.ep2_l_embrasement.l_ultime_voyage_de_cami" GUID="qvBnA5gWrUWf4zS/uchSEQ=="/>
+
+		<!-- 4. Plaines de lave : sous les surplombs de pierre rocheux dans les zones des bassins. -->
+		<POI MapID="1175" xpos="357.808" ypos="13.4791" zpos="-373.899" type="chroniques.saison_3.ep2_l_embrasement.l_ultime_voyage_de_cami" GUID="a2qFGAJQqE+MwzqUVOji4w=="/>
+
+		<!-- 5. Cime de basalte : sous le plus grand affleurement rocheux, à l'est du panorama. -->
+		<POI MapID="1175" xpos="551.55" ypos="31.5508" zpos="-156.923" type="chroniques.saison_3.ep2_l_embrasement.l_ultime_voyage_de_cami" GUID="muDAylwr3kS/raiD/5d7bA=="/>
+
+		<!-- 6. Caldera fracturée : au nord-est de Mélangeatron. -->
+		<POI MapID="1175" xpos="278.312" ypos="61.6982" zpos="74.864" type="chroniques.saison_3.ep2_l_embrasement.l_ultime_voyage_de_cami" GUID="UqeYpy0rtESBlWCo+EiIOg=="/>
+
+		<!-- 7. Titan Sopor : caché directement à l'ouest, sous le deuxième escalier, dans les ruines. -->
+		<POI MapID="1175" xpos="-776.658" ypos="56.3217" zpos="-50.8763" type="chroniques.saison_3.ep2_l_embrasement.l_ultime_voyage_de_cami" GUID="1TxmUgaoZkyK8GfMkpxe9A=="/>
+
+	</POIs>
+</OverlayData>

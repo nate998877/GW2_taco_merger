@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+POIs: Cloud Strife.7492 - Xenophy.2716 - ReActif.9251
+Date: 2017/08/23
+-->
+<OverlayData>
+	<MarkerCategory name="general" DisplayName="General">
+		<MarkerCategory name="puzzles_de_saut" DisplayName="Jumping Puzzles" iconFile="Img\Guide.png" iconSize="0.75">
+			<MarkerCategory name="nouvelle_direction" DisplayName="Under New Management"/>
+		</MarkerCategory>
+	</MarkerCategory>
+
+	<POIs>
+
+		<!-- Début -->
+		<POI MapID="873" xpos="645.029" ypos="31.341" zpos="-352.949" type="general.puzzles_de_saut.debut" GUID="rg4BG4b5nEG8k+RB7MuFYg=="/>
+
+		<!-- Route -->
+		<Route MapID="873" name="Nouvelle_Direction" resetposx="645.029" resetposy="31.341" resetposz="-352.949" resetrange="2">
+			<POI MapID="873" xpos="658.846" ypos="36.0672" zpos="-359.038" type="general.puzzles_de_saut.nouvelle_direction" GUID="fjMobAdzq0GzlDRTNkFIog=="/>
+			<POI MapID="873" xpos="664.27" ypos="40.4061" zpos="-363.193" type="general.puzzles_de_saut.nouvelle_direction" GUID="kFWNs/FwvESWIUi8P28ksw=="/>
+			<POI MapID="873" xpos="670.192" ypos="44.0314" zpos="-368.133" type="general.puzzles_de_saut.nouvelle_direction" GUID="nnoyxzLL/U2CvB8qRDQ1zg=="/>
+			<POI MapID="873" xpos="667.469" ypos="44.0318" zpos="-374.52" type="general.puzzles_de_saut.nouvelle_direction" GUID="KtA/BhjkwkqpanoZp8EgJg=="/>
+			<POI MapID="873" xpos="673.942" ypos="43.9677" zpos="-379.833" type="general.puzzles_de_saut.nouvelle_direction" GUID="qdcSuwHJ0Eyi1gElzSQBsQ=="/>
+			<POI MapID="873" xpos="680.406" ypos="43.9677" zpos="-382.474" type="general.puzzles_de_saut.nouvelle_direction" GUID="H3Ww2F6j2kyDAIv4G/X68g=="/>
+			<POI MapID="873" xpos="682.362" ypos="46.0842" zpos="-374.249" type="general.puzzles_de_saut.nouvelle_direction" GUID="d5BBlNeQQ0aFyALkm7xY0A=="/>
+			<POI MapID="873" xpos="687.398" ypos="46.2389" zpos="-364.488" type="general.puzzles_de_saut.nouvelle_direction" GUID="FvJ3qOWkN0+x/LVa9DI4Qg=="/>
+			<POI MapID="873" xpos="684.736" ypos="47.9567" zpos="-359.63" type="general.puzzles_de_saut.nouvelle_direction" GUID="FNrtnebX7kCALNNpymOoJw=="/>
+			<POI MapID="873" xpos="685.646" ypos="51.2127" zpos="-351.09" type="general.puzzles_de_saut.nouvelle_direction" GUID="Q1LHz7QyyEynPUssEHKz3Q=="/>
+			<POI MapID="873" xpos="688.414" ypos="46.2061" zpos="-342.344" type="general.puzzles_de_saut.nouvelle_direction" GUID="etvTcMiQk0u2rmZ1iUTBfA=="/>
+			<POI MapID="873" xpos="677.298" ypos="46.4725" zpos="-342.566" type="general.puzzles_de_saut.nouvelle_direction" GUID="tA0ItyVsdUSOgShpCySrTA=="/>
+			<POI MapID="873" xpos="674.417" ypos="46.1195" zpos="-336.929" type="general.puzzles_de_saut.nouvelle_direction" GUID="iIb9i4E2l0KtjbUidZuEog=="/>
+			<POI MapID="873" xpos="668.481" ypos="42.9811" zpos="-343.101" type="general.puzzles_de_saut.nouvelle_direction" GUID="0SXJjyCRc0iYQLP9axdnAA=="/>
+			<POI MapID="873" xpos="664.99" ypos="43.2933" zpos="-351.059" type="general.puzzles_de_saut.nouvelle_direction" GUID="HCXECAvn+0y6uh9r3xwJ+Q=="/>
+			<POI MapID="873" xpos="667.1" ypos="44.9334" zpos="-353.269" type="general.puzzles_de_saut.nouvelle_direction" GUID="g+I1TTUiZUmEmBQVuNmP7g=="/>
+			<POI MapID="873" xpos="665.726" ypos="47.2338" zpos="-355.792" type="general.puzzles_de_saut.nouvelle_direction" GUID="05HpsuHHNkWTSk7rqEOMwQ=="/>
+			<POI MapID="873" xpos="659.374" ypos="50.1727" zpos="-351.971" type="general.puzzles_de_saut.nouvelle_direction" GUID="bbErnRtTZkejp27mAFvkxA=="/>
+			<POI MapID="873" xpos="664.723" ypos="51.2287" zpos="-353.224" type="general.puzzles_de_saut.nouvelle_direction" GUID="2626kcfAM061/E6JnAGISQ=="/>
+			<POI MapID="873" xpos="664.876" ypos="53.1816" zpos="-356.274" type="general.puzzles_de_saut.nouvelle_direction" GUID="zXfDw6ACikm62geKt7zprA=="/>
+			<POI MapID="873" xpos="667.254" ypos="54.0053" zpos="-358.109" type="general.puzzles_de_saut.nouvelle_direction" GUID="Lw3IkARRL06bN/alR/dGzA=="/>
+			<POI MapID="873" xpos="672.72" ypos="54.2113" zpos="-358.604" type="general.puzzles_de_saut.nouvelle_direction" GUID="rWIP0yvu0UKZf4oDK6FlwA=="/>
+			<POI MapID="873" xpos="669.497" ypos="54.2126" zpos="-366.005" type="general.puzzles_de_saut.nouvelle_direction" GUID="xZZd1KznLkuXGB8iqOHTxg=="/>
+			<POI MapID="873" xpos="665.229" ypos="54.5417" zpos="-370.319" type="general.puzzles_de_saut.nouvelle_direction" GUID="fG0aipFjNkS4EYhprhBSlA=="/>
+			<POI MapID="873" xpos="666.693" ypos="55.8652" zpos="-375.497" type="general.puzzles_de_saut.nouvelle_direction" GUID="offdgeDAMUiIKHjGW8BCEg=="/>
+			<POI MapID="873" xpos="672.611" ypos="55.9382" zpos="-378.497" type="general.puzzles_de_saut.nouvelle_direction" GUID="h7X892rlfkKpLXYuu/6yMg=="/>
+			<POI MapID="873" xpos="676.189" ypos="56.8949" zpos="-371.696" type="general.puzzles_de_saut.nouvelle_direction" GUID="0OuBEY9nVESk+y+w6kyvIQ=="/>
+		</Route>
+
+		<!-- Coffre -->
+		<POI MapID="873" xpos="677.73" ypos="59.0201" zpos="-368.113" type="general.puzzles_de_saut.nouvelle_direction" GUID="SG+qpX9MsUmFrKZiDWO5kw==" iconFile="Img\CoffrePuzzle.png" iconSize="1" heightOffset="2.5" behavior="2"/>
+
+	</POIs>
+</OverlayData>

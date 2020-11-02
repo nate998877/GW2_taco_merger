@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+POIs: ReActif.9251
+Date: 2016/12/29
+-->
+<OverlayData>
+	<MarkerCategory name="general" DisplayName="General">
+		<MarkerCategory name="explorateur" DisplayName="Explorer" iconFile="Img\Explorateur.png" behavior="3">
+			<MarkerCategory name="grand_detour" DisplayName="The Long Way Around">
+				<MarkerCategory name="acces" DisplayName="Guide" behavior="0"/>
+			</MarkerCategory>
+		</MarkerCategory>
+	</MarkerCategory>
+
+	<POIs>
+
+		<!-- Entrée -->
+		<POI MapID="51" xpos="244.44" ypos="-60.25" zpos="97.47" type="general.explorateur.grand_detour.acces" GUID="zyRoFGrVbEywBZr6vuPEew==" iconFile="Img\Fleche.png" iconSize="1.5"/>
+
+		<!-- PNJ pour retirer la corruption -->
+		<POI MapID="51" xpos="269.82" ypos="-66.48" zpos="86.74" type="general.explorateur.grand_detour.acces" GUID="r0mIWu68v06MgwZ4GtKTLA==" iconFile="Img\Coeur.png"/>
+
+		<!-- Blocs de contrôle Asura -->
+		<POI MapID="51" xpos="334.21" ypos="-54.4" zpos="62" type="general.explorateur.grand_detour.acces" GUID="0Bvnk8UlU0uhSc/R0k281Q==" iconFile="Img\1.png" behavior="4" resetLength="320" hasCountdown="1"/>
+		<POI MapID="51" xpos="334.45" ypos="-73.41" zpos="28.41" type="general.explorateur.grand_detour.acces" GUID="R2dzRqQnwk6ELYPju4JRGQ==" iconFile="Img\2.png" behavior="4" resetLength="320" hasCountdown="1"/>
+		<POI MapID="51" xpos="344.19" ypos="-39.14" zpos="46.12" type="general.explorateur.grand_detour.acces" GUID="I7iqEwWz5kK8NpPu7o9TOQ==" iconFile="Img\3.png" behavior="4" resetLength="320" hasCountdown="1"/>
+		<POI MapID="51" xpos="381" ypos="-62.4" zpos="21.62" type="general.explorateur.grand_detour.acces" GUID="KXpuGGtJ6UOr36ASCAL/hA==" iconFile="Img\4.png" behavior="4" resetLength="320" hasCountdown="1"/>
+		<POI MapID="51" xpos="410.1" ypos="-71.45" zpos="-37.97" type="general.explorateur.grand_detour.acces" GUID="VNkHrdL+y0O0dBQpG7LzxQ==" iconFile="Img\5.png" behavior="4" resetLength="320" hasCountdown="1"/>
+		<POI MapID="51" xpos="436.54" ypos="-76.28" zpos="-2.33" type="general.explorateur.grand_detour.acces" GUID="K4hUcekSMEGOVc298nDz/g==" iconFile="Img\6.png" behavior="4" resetLength="320" hasCountdown="1"/>
+
+		<!-- Champs de Force -->
+		<POI MapID="51" xpos="451.63" ypos="-69.05" zpos="14.85" type="general.explorateur.grand_detour.acces" GUID="vAvZekkkdEWghVXwt8txxQ==" iconFile="Img\Croix.png"/>
+
+		<!-- Coffre -->
+		<POI MapID="51" xpos="455.22" ypos="-93.05" zpos="11.32" type="general.explorateur.grand_detour" GUID="Oo5wjcNtr0usOxOO0JN2DQ==" iconFile="Img\CoffreMiniDonjon.png" heightOffset="2"/>
+
+	</POIs>
+</OverlayData>

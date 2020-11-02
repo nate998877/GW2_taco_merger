@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+POIs: ReActif.9251
+Date: 2017/03/07
+-->
+<OverlayData>
+	<MarkerCategory name="chroniques.saison_2">
+		<MarkerCategory name="ep6_la_voie_des_ronces" DisplayName="Ep.6 - Tangled Paths" iconFile="Img\Saison2LaVoieDesRonces.png">
+			<MarkerCategory name="mise_a_feu" DisplayName="Light 'Em Up"/>
+		</MarkerCategory>
+	</MarkerCategory>
+
+	<POIs>
+
+		<!-- Lance Flamme -->
+		<POI MapID="1023" xpos="183.152" ypos="360.052" zpos="-193.224" type="chroniques.saison_2.ep6_la_voie_des_ronces.mise_a_feu" GUID="UQ8JeLGvtk2XKBBt7v6RtA==" heightOffset="3"/>
+
+	</POIs>
+</OverlayData>

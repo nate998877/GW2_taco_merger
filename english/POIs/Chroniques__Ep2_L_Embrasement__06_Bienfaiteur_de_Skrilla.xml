@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+POIs: ReActif.9251
+Date: 2017/03/01
+-->
+<OverlayData>
+	<MarkerCategory name="chroniques.saison_3">
+		<MarkerCategory name="ep2_l_embrasement" DisplayName="Ep.2 - Rising Flames" iconFile="Img\BaieDesBraises.png">
+			<MarkerCategory name="bienfaiteur_de_skrilla" DisplayName="Skrilla's Benefactor" iconFile="Img\BaieDesBraises_Skrilla-EN.png" iconSize="2" heightOffset="3"/>
+		</MarkerCategory>
+	</MarkerCategory>
+
+	<POIs>
+
+		<!-- Skrilla -->
+		<POI MapID="1175" xpos="603.989" ypos="13.7295" zpos="-321.12" type="chroniques.saison_3.ep2_l_embrasement.bienfaiteur_de_skrilla" GUID="n6WpH+y0fkSlmUH1w7g7uw==" iconSize="2"/>
+
+	</POIs>
+</OverlayData>

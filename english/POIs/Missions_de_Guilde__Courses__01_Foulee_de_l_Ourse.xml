@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+POIs: ReActif.9251
+Date: 2017/08/11
+-->
+<OverlayData>
+	<MarkerCategory name="missions_de_guilde" DisplayName="Guild Missions">
+		<MarkerCategory name="courses" DisplayName="Races" iconFile="Img\Guide.png" iconSize="0.75" triggerRange="3">
+			<MarkerCategory name="foulee_de_l_ourse" DisplayName="Bear Lope">
+				<MarkerCategory name="drapeaux" DisplayName="Checkpoints" iconFile="Img\DrapeauPassage.png" iconSize="1" fadeNear="2000" fadeFar="5000"/>
+				<MarkerCategory name="pieges" DisplayName="Traps" iconSize="1">
+					<MarkerCategory name="piques" DisplayName="Spikes" iconFile="Img\DangerPiques.png" fadeNear="1000" fadeFar="2000" heightOffset="0"/>
+					<MarkerCategory name="chutes_de_pierres" DisplayName="Rockfalls" iconFile="Img\DangerPierres.png" fadeNear="1000" fadeFar="2000" heightOffset="0"/>
+				</MarkerCategory>
+			</MarkerCategory>
+		</MarkerCategory>
+	</MarkerCategory>
+
+	<POIs>
+
+		<!-- Début -->
+		<POI MapID="27" xpos="-425.13" ypos="127.66" zpos="373.53" type="missions_de_guilde.courses.debut" GUID="sHlQV6d7Ik2s4VEx3CjDcw=="/>
+
+		<!-- Route -->
+		<Route MapID="27" name="Parcours" resetposx="-425.13" resetposy="127.66" resetposz="373.53" resetrange="2">
+			<POI MapID="27" xpos="-430.058" ypos="127.856" zpos="381.123" type="missions_de_guilde.courses.foulee_de_l_ourse" GUID="haMZG8MVSki+5yVHWDOM4A=="/>
+			<POI MapID="27" xpos="-433.354" ypos="127.77"  zpos="388.484" type="missions_de_guilde.courses.foulee_de_l_ourse" GUID="DelpzEFBXEWNTo9tHloFnQ=="/>
+			<POI MapID="27" xpos="-436.801" ypos="127.976" zpos="395.092" type="missions_de_guilde.courses.foulee_de_l_ourse" GUID="Gy6fbinKokGEMPDe30CWhg=="/>
+			<POI MapID="27" xpos="-443.107" ypos="128.039" zpos="400.333" type="missions_de_guilde.courses.foulee_de_l_ourse" GUID="aYv6UbKDCEqnpXutefHFdQ=="/>
+			<POI MapID="27" xpos="-449.276" ypos="128.229" zpos="402.534" type="missions_de_guilde.courses.foulee_de_l_ourse" GUID="8JAAtjXwwEmkpQx2kwbltA=="/>
+			<POI MapID="27" xpos="-457.3"   ypos="126.587" zpos="406.452" type="missions_de_guilde.courses.foulee_de_l_ourse" GUID="1JgiJ8GolkKM2APRSP/2bQ=="/>
+			<POI MapID="27" xpos="-463.827" ypos="124.776" zpos="408.216" type="missions_de_guilde.courses.foulee_de_l_ourse" GUID="+sM9zAWfKEC9ePcZbu/DXw=="/>
+			<POI MapID="27" xpos="-470.667" ypos="123.11"  zpos="407.551" type="missions_de_guilde.courses.foulee_de_l_ourse" GUID="iu8Cu/eqJ06Yh0lEike9Pw=="/>
+			<POI MapID="27" xpos="-476.91"  ypos="123.469" zpos="412.04"  type="missions_de_guilde.courses.foulee_de_l_ourse" GUID="e/Oblsj6O0yfUgvZ4b+/HQ=="/>
+			<POI MapID="27" xpos="-479.473" ypos="123.695" zpos="415.702" type="missions_de_guilde.courses.foulee_de_l_ourse" GUID="XjnaMmnCukCM08WbMSNYwQ=="/>
+			<POI MapID="27" xpos="-483.513" ypos="123.922" zpos="413.579" type="missions_de_guilde.courses.foulee_de_l_ourse" GUID="AzfJSHMSRkypXifTche2OA=="/>
+			<POI MapID="27" xpos="-488.524" ypos="124.215" zpos="417.113" type="missions_de_guilde.courses.foulee_de_l_ourse" GUID="uzwlfzTg1U6vqkJkNDk/Zg=="/>
+			<POI MapID="27" xpos="-494.591" ypos="124.627" zpos="421.385" type="missions_de_guilde.courses.foulee_de_l_ourse" GUID="YfLvg1wpP0S9yCNQtEjbDA=="/>
+			<POI MapID="27" xpos="-499.581" ypos="124.841" zpos="427.132" type="missions_de_guilde.courses.foulee_de_l_ourse" GUID="PYPM6axzGEKN/NHkldrd+A=="/>
+			<POI MapID="27" xpos="-501.386" ypos="124.555" zpos="430.848" type="missions_de_guilde.courses.foulee_de_l_ourse" GUID="yfQCceB600CXaLHCLX2D2g=="/>
+			<POI MapID="27" xpos="-508.34"  ypos="123.505" zpos="428.952" type="missions_de_guilde.courses.foulee_de_l_ourse" GUID="WFvtb7iOmUSZrgIzU6eL5A=="/>
+			<POI MapID="27" xpos="-512.505" ypos="122.881" zpos="432.571" type="missions_de_guilde.courses.foulee_de_l_ourse" GUID="R0wrVrm3rEq9+djwX6XHZg=="/>
+			<POI MapID="27" xpos="-514.637" ypos="118.558" zpos="439.913" type="missions_de_guilde.courses.foulee_de_l_ourse" GUID="MgJYOMAehU2lZVnA7f3Oog=="/>
+			<POI MapID="27" xpos="-514.498" ypos="114.258" zpos="448.093" type="missions_de_guilde.courses.foulee_de_l_ourse" GUID="xqPyE0ZxMEef2ebalJDIFA=="/>
+			<POI MapID="27" xpos="-511.481" ypos="109.582" zpos="457.906" type="missions_de_guilde.courses.foulee_de_l_ourse" GUID="X1rNjMKZhkueQTvtXyqWLQ=="/>
+			<POI MapID="27" xpos="-507.849" ypos="106.533" zpos="467.486" type="missions_de_guilde.courses.foulee_de_l_ourse" GUID="O5AKl4lg5027/Qs5DXKkiA=="/>
+			<POI MapID="27" xpos="-505.624" ypos="106.243" zpos="475.208" type="missions_de_guilde.courses.foulee_de_l_ourse" GUID="HSCBjOA5dU+xmI9DX53lAQ=="/>
+			<POI MapID="27" xpos="-506.128" ypos="104.837" zpos="482.604" type="missions_de_guilde.courses.foulee_de_l_ourse" GUID="l2w9Y/p38UuQViur2lnyBQ=="/>
+			<POI MapID="27" xpos="-508.913" ypos="101.309" zpos="491.918" type="missions_de_guilde.courses.foulee_de_l_ourse" GUID="kmoESv9SukKZ98VHf85cuw=="/>
+			<POI MapID="27" xpos="-508.54"  ypos="97.3666" zpos="500.407" type="missions_de_guilde.courses.foulee_de_l_ourse" GUID="B+uiDbG/LkurzCX/mk8EiA=="/>
+			<POI MapID="27" xpos="-506.128" ypos="92.0291" zpos="508.392" type="missions_de_guilde.courses.foulee_de_l_ourse" GUID="tb2WXPfK6UCQEZSb36Z3Lw=="/>
+			<POI MapID="27" xpos="-504.666" ypos="89.466"  zpos="515.025" type="missions_de_guilde.courses.foulee_de_l_ourse" GUID="CxTLW4aBKkuRrE8POBR07A=="/>
+			<POI MapID="27" xpos="-505.979" ypos="87.2189" zpos="524.32"  type="missions_de_guilde.courses.foulee_de_l_ourse" GUID="Ng1xoKwFF0mELia7AWXX0A=="/>
+			<POI MapID="27" xpos="-509.705" ypos="86.6684" zpos="534.006" type="missions_de_guilde.courses.foulee_de_l_ourse" GUID="OOxhELsUVUiPPu3svausjA=="/>
+			<POI MapID="27" xpos="-511.085" ypos="82.6167" zpos="543.672" type="missions_de_guilde.courses.foulee_de_l_ourse" GUID="vNVEts/4KUaBv3zA0O4k5w=="/>
+			<POI MapID="27" xpos="-511.446" ypos="81.7087" zpos="551.924" type="missions_de_guilde.courses.foulee_de_l_ourse" GUID="oGvPOdCp9EGOYY1iWi103w=="/>
+			<POI MapID="27" xpos="-512.841" ypos="81.7914" zpos="557.998" type="missions_de_guilde.courses.foulee_de_l_ourse" GUID="6NCs+3vM3kqJ2FyTmxfzJg=="/>
+			<POI MapID="27" xpos="-514.523" ypos="81.6748" zpos="566.343" type="missions_de_guilde.courses.foulee_de_l_ourse" GUID="QOhZc5F/6USeB7QbKQW2KA=="/>
+			<POI MapID="27" xpos="-516.075" ypos="81.6738" zpos="577.103" type="missions_de_guilde.courses.foulee_de_l_ourse" GUID="4m2kCxENaEqaLnsI5Y0IsQ=="/>
+			<POI MapID="27" xpos="-512.959" ypos="81.6799" zpos="584.133" type="missions_de_guilde.courses.foulee_de_l_ourse" GUID="KHOzdbZM3EWoLSeHCWvK+g=="/>
+			<POI MapID="27" xpos="-509.137" ypos="81.7002" zpos="590.196" type="missions_de_guilde.courses.foulee_de_l_ourse" GUID="NNFPF42a/Uuw29AecH+WNA=="/>
+			<POI MapID="27" xpos="-507.368" ypos="81.8054" zpos="597.206" type="missions_de_guilde.courses.foulee_de_l_ourse" GUID="YW9FECCrHE2/VFXtoV1LDw=="/>
+			<POI MapID="27" xpos="-506.874" ypos="82.161"  zpos="604.775" type="missions_de_guilde.courses.foulee_de_l_ourse" GUID="f4T7mlCt30qQE6/1+2509Q=="/>
+			<POI MapID="27" xpos="-507.421" ypos="82.1503" zpos="612.222" type="missions_de_guilde.courses.foulee_de_l_ourse" GUID="2aQNLzMNjE+bi7nCNK92iQ=="/>
+			<POI MapID="27" xpos="-507.836" ypos="82.1873" zpos="619.678" type="missions_de_guilde.courses.foulee_de_l_ourse" GUID="EIq1P/bvakimGaY0+RMy7A=="/>
+			<POI MapID="27" xpos="-508.352" ypos="82.2025" zpos="628.406" type="missions_de_guilde.courses.foulee_de_l_ourse" GUID="NbsKlKqN3E6S3r21Qmwwkw=="/>
+			<POI MapID="27" xpos="-509.008" ypos="82.1196" zpos="635.349" type="missions_de_guilde.courses.foulee_de_l_ourse" GUID="BPHLZj+OrkeeNtNWEGRJLg=="/>
+			<POI MapID="27" xpos="-506.331" ypos="82.0061" zpos="643.349" type="missions_de_guilde.courses.foulee_de_l_ourse" GUID="anvs+O9oKkqImyWn5OP2mQ=="/>
+			<POI MapID="27" xpos="-500.677" ypos="82.0957" zpos="649.27"  type="missions_de_guilde.courses.foulee_de_l_ourse" GUID="KBjZNMlmZUG3DEgl7mSlNw=="/>
+			<POI MapID="27" xpos="-495.383" ypos="82.3519" zpos="657.341" type="missions_de_guilde.courses.foulee_de_l_ourse" GUID="m341SAIq+EumQvaQ1Rlg+Q=="/>
+			<POI MapID="27" xpos="-493.61"  ypos="82.3519" zpos="666.531" type="missions_de_guilde.courses.foulee_de_l_ourse" GUID="SDAc6vVkNk+X9JUyqTk81w=="/>
+			<POI MapID="27" xpos="-493.945" ypos="82.3519" zpos="675.112" type="missions_de_guilde.courses.foulee_de_l_ourse" GUID="k9HCXLh2HkG0E//NFCcKvA=="/>
+			<POI MapID="27" xpos="-493.608" ypos="82.3519" zpos="683.638" type="missions_de_guilde.courses.foulee_de_l_ourse" GUID="2jHabc4OOUCrK/AHtBXMXQ=="/>
+			<POI MapID="27" xpos="-493.782" ypos="82.3519" zpos="693.438" type="missions_de_guilde.courses.foulee_de_l_ourse" GUID="q+Ld6/pgT0+6MAfQfjhMHw=="/>
+			<POI MapID="27" xpos="-493.875" ypos="84.0362" zpos="701.839" type="missions_de_guilde.courses.foulee_de_l_ourse" GUID="90SQpKrB9EmClIBmsqecjA=="/>
+			<POI MapID="27" xpos="-494.263" ypos="89.1418" zpos="710.241" type="missions_de_guilde.courses.foulee_de_l_ourse" GUID="RD2pgXRDK0ybmRqH654F/Q=="/>
+			<POI MapID="27" xpos="-494.236" ypos="93.5664" zpos="717.327" type="missions_de_guilde.courses.foulee_de_l_ourse" GUID="DgvAmYp/pUCdbL1h7q0xoA=="/>
+			<POI MapID="27" xpos="-493.579" ypos="97.7869" zpos="725.206" type="missions_de_guilde.courses.foulee_de_l_ourse" GUID="0xSmLhjY1UOoiAq3957nMA=="/>
+			<POI MapID="27" xpos="-492.528" ypos="99.1112" zpos="736.025" type="missions_de_guilde.courses.foulee_de_l_ourse" GUID="WOAD/UNnkUKHALKYlLgZaA=="/>
+			<POI MapID="27" xpos="-484.333" ypos="103.458" zpos="744.438" type="missions_de_guilde.courses.foulee_de_l_ourse" GUID="zPTX/w4pKUikla8unNZMYg=="/>
+			<POI MapID="27" xpos="-478.665" ypos="105.443" zpos="752.136" type="missions_de_guilde.courses.foulee_de_l_ourse" GUID="zLJ1N5HU7Um1d9Yj5FtAOA=="/>
+			<POI MapID="27" xpos="-474.579" ypos="106.528" zpos="759.285" type="missions_de_guilde.courses.foulee_de_l_ourse" GUID="ZLCL+2SyEkuSZ5QOi0vNkA=="/>
+			<POI MapID="27" xpos="-476.839" ypos="104.376" zpos="768.301" type="missions_de_guilde.courses.foulee_de_l_ourse" GUID="JLxIOqZnSki0uc/e7y4mrg=="/>
+			<POI MapID="27" xpos="-476.066" ypos="104.376" zpos="772.604" type="missions_de_guilde.courses.foulee_de_l_ourse" GUID="fCgF9uSqIkSF/PIRRxNT3Q=="/>
+			<POI MapID="27" xpos="-471.662" ypos="104.265" zpos="775.687" type="missions_de_guilde.courses.foulee_de_l_ourse" GUID="V4E4wmsFoECDd229/QKxLQ=="/>
+			<POI MapID="27" xpos="-466.901" ypos="103.226" zpos="779.198" type="missions_de_guilde.courses.foulee_de_l_ourse" GUID="FFd7fQZwCUCYPDx4eQ6JRA=="/>
+			<POI MapID="27" xpos="-459.914" ypos="100.544" zpos="784.82"  type="missions_de_guilde.courses.foulee_de_l_ourse" GUID="qCnPsOaLTkGq/JKUrix24A=="/>
+			<POI MapID="27" xpos="-452.052" ypos="96.8711" zpos="791.256" type="missions_de_guilde.courses.foulee_de_l_ourse" GUID="dhBpP8aE30CjhIYkkIRLyg=="/>
+			<POI MapID="27" xpos="-443.515" ypos="93.4611" zpos="794.04"  type="missions_de_guilde.courses.foulee_de_l_ourse" GUID="GGuWSE5YI0qyrRr3qcqZvg=="/>
+			<POI MapID="27" xpos="-433.867" ypos="91.2304" zpos="797.197" type="missions_de_guilde.courses.foulee_de_l_ourse" GUID="40u9Ra3e0kmPH4xVuBu/kA=="/>
+			<POI MapID="27" xpos="-424.982" ypos="90.3648" zpos="797.467" type="missions_de_guilde.courses.foulee_de_l_ourse" GUID="RmuFokfQokOvleXdG0GoYw=="/>
+			<POI MapID="27" xpos="-419.823" ypos="90.9544" zpos="792.922" type="missions_de_guilde.courses.foulee_de_l_ourse" GUID="xuWNNCcvqkOBrsHm09I1qA=="/>
+			<POI MapID="27" xpos="-416.177" ypos="91.1886" zpos="783.702" type="missions_de_guilde.courses.foulee_de_l_ourse" GUID="lorgH48WCk2bwUZSJ8mVsg=="/>
+			<POI MapID="27" xpos="-410.402" ypos="92.8582" zpos="777.345" type="missions_de_guilde.courses.foulee_de_l_ourse" GUID="5OSvfl2Wi0+IsCqClxxTWg=="/>
+			<POI MapID="27" xpos="-399.749" ypos="95.2057" zpos="776.069" type="missions_de_guilde.courses.foulee_de_l_ourse" GUID="4YASsBs190iJ6HYnbJCg1A=="/>
+			<POI MapID="27" xpos="-392.923" ypos="95.3059" zpos="773.374" type="missions_de_guilde.courses.foulee_de_l_ourse" GUID="SPl+/hTMr062qXrd48moag=="/>
+			<POI MapID="27" xpos="-387.179" ypos="97.1122" zpos="772.292" type="missions_de_guilde.courses.foulee_de_l_ourse" GUID="ZhdJCS15hU+61UQFlIfnJw=="/>
+			<POI MapID="27" xpos="-381.3"   ypos="96.5295" zpos="773.005" type="missions_de_guilde.courses.foulee_de_l_ourse" GUID="IpdJockhgU6R6LB3cQpK5A=="/>
+			<POI MapID="27" xpos="-378.474" ypos="95.775"  zpos="778.4"   type="missions_de_guilde.courses.foulee_de_l_ourse" GUID="+EBd50C8SE2pR5NKEi4F5w=="/>
+			<POI MapID="27" xpos="-376.287" ypos="94.8042" zpos="785.437" type="missions_de_guilde.courses.foulee_de_l_ourse" GUID="Ato4iyLUK0STR8NEvMSvjA=="/>
+			<POI MapID="27" xpos="-370.308" ypos="94.1199" zpos="794.25"  type="missions_de_guilde.courses.foulee_de_l_ourse" GUID="o9HvA1o300ScckwGzAW/RA=="/>
+			<POI MapID="27" xpos="-365.506" ypos="95.5381" zpos="799.116" type="missions_de_guilde.courses.foulee_de_l_ourse" GUID="Kz57UZgTT0iR9pvGNBrSsg=="/>
+			<POI MapID="27" xpos="-360.309" ypos="96.6094" zpos="799.227" type="missions_de_guilde.courses.foulee_de_l_ourse" GUID="hPJ6VzY+rkKosT9OOn4wHw=="/>
+			<POI MapID="27" xpos="-355.694" ypos="96.2131" zpos="794.469" type="missions_de_guilde.courses.foulee_de_l_ourse" GUID="81mMJS3DKkKdw46nNwFVZQ=="/>
+			<POI MapID="27" xpos="-350.717" ypos="95.9819" zpos="791.742" type="missions_de_guilde.courses.foulee_de_l_ourse" GUID="ek0AXjwx3E2p89Ag95tyYA=="/>
+			<POI MapID="27" xpos="-345.238" ypos="96.1291" zpos="790.427" type="missions_de_guilde.courses.foulee_de_l_ourse" GUID="rC4A/EuyC06/1GTm20SKfw=="/>
+			<POI MapID="27" xpos="-339.234" ypos="94.8957" zpos="792.113" type="missions_de_guilde.courses.foulee_de_l_ourse" GUID="Z8rjWKOcRkqMlnly7AxujA=="/>
+			<POI MapID="27" xpos="-330.329" ypos="93.9366" zpos="792.674" type="missions_de_guilde.courses.foulee_de_l_ourse" GUID="XTkihiSsy0utDo90XaJ/8A=="/>
+			<POI MapID="27" xpos="-320.734" ypos="92.7617" zpos="791.177" type="missions_de_guilde.courses.foulee_de_l_ourse" GUID="HyoOV8gHAk6Gg7d7YF2ImQ=="/>
+			<POI MapID="27" xpos="-312.912" ypos="91.7325" zpos="791.757" type="missions_de_guilde.courses.foulee_de_l_ourse" GUID="1QDABCZgAUqDe/xZjDj/eA=="/>
+			<POI MapID="27" xpos="-305.187" ypos="86.4599" zpos="794.349" type="missions_de_guilde.courses.foulee_de_l_ourse" GUID="AGDO5C6BLUq2zHgEhrgFHw=="/>
+			<POI MapID="27" xpos="-303.182" ypos="88.3196" zpos="802.318" type="missions_de_guilde.courses.foulee_de_l_ourse" GUID="XlQE3IJeP0O4RBJT7Xl8hw=="/>
+			<POI MapID="27" xpos="-299.263" ypos="90.6411" zpos="807.663" type="missions_de_guilde.courses.foulee_de_l_ourse" GUID="YWF1IrWJZUOk/82/2hO89g=="/>
+			<POI MapID="27" xpos="-293.775" ypos="93.0315" zpos="811.865" type="missions_de_guilde.courses.foulee_de_l_ourse" GUID="H9az9eOyJEqiWLijGULBug=="/>
+			<POI MapID="27" xpos="-290.584" ypos="96.1771" zpos="820.119" type="missions_de_guilde.courses.foulee_de_l_ourse" GUID="zJ7UXfG81UmySnYpoIo7rQ=="/>
+			<POI MapID="27" xpos="-293.947" ypos="97.6545" zpos="827.234" type="missions_de_guilde.courses.foulee_de_l_ourse" GUID="xlVFVCXekEe1HEmV/U2H8Q=="/>
+			<POI MapID="27" xpos="-297.536" ypos="101.946" zpos="832.764" type="missions_de_guilde.courses.foulee_de_l_ourse" GUID="oOVNKxWoPEu1M4Oj5ixmGQ=="/>
+			<POI MapID="27" xpos="-306.003" ypos="106.575" zpos="835.474" type="missions_de_guilde.courses.foulee_de_l_ourse" GUID="6aZpxkCLMUanLiMoLDvDyQ=="/>
+			<POI MapID="27" xpos="-313.131" ypos="109.275" zpos="834.935" type="missions_de_guilde.courses.foulee_de_l_ourse" GUID="mtZl3wV5s0yKc79QDs+Z0A=="/>
+			<POI MapID="27" xpos="-318.922" ypos="108.401" zpos="831.07"  type="missions_de_guilde.courses.foulee_de_l_ourse" GUID="hL/0QGuzIUuAMYhCJb+A7w=="/>
+			<POI MapID="27" xpos="-324.339" ypos="105.721" zpos="826.867" type="missions_de_guilde.courses.foulee_de_l_ourse" GUID="iVdn93GCT0uX1LAUwW4P5g=="/>
+			<POI MapID="27" xpos="-329.369" ypos="104.792" zpos="823.472" type="missions_de_guilde.courses.foulee_de_l_ourse" GUID="WSbUVVdJPU68jHITS+G3EA=="/>
+			<POI MapID="27" xpos="-337.716" ypos="106.69"  zpos="821.801" type="missions_de_guilde.courses.foulee_de_l_ourse" GUID="2ntEMmtuMEm23tD0Nm578g=="/>
+			<POI MapID="27" xpos="-343.35"  ypos="110.903" zpos="821.439" type="missions_de_guilde.courses.foulee_de_l_ourse" GUID="bJGMhXf6ik2kfbnc3R6KtA=="/>
+			<POI MapID="27" xpos="-347.713" ypos="113.945" zpos="823.11"  type="missions_de_guilde.courses.foulee_de_l_ourse" GUID="9DMMKb+2kEu9ldhYEFMUOw=="/>
+			<POI MapID="27" xpos="-352.297" ypos="116.425" zpos="826.815" type="missions_de_guilde.courses.foulee_de_l_ourse" GUID="S9DZDdSs1UeGEwLr3PCVZQ=="/>
+			<POI MapID="27" xpos="-360.322" ypos="118.682" zpos="830.29"  type="missions_de_guilde.courses.foulee_de_l_ourse" GUID="zVkbLNyuQkOJajTJMS5k3Q=="/>
+			<POI MapID="27" xpos="-366.384" ypos="119.831" zpos="835.226" type="missions_de_guilde.courses.foulee_de_l_ourse" GUID="6m/bir8Uy02iKlmqvGj9mw=="/>
+			<POI MapID="27" xpos="-370.789" ypos="115.395" zpos="842.59"  type="missions_de_guilde.courses.foulee_de_l_ourse" GUID="xPFswohHUUaTPKLIlDQHgg=="/>
+			<POI MapID="27" xpos="-375.303" ypos="114.877" zpos="849.923" type="missions_de_guilde.courses.foulee_de_l_ourse" GUID="8l+Ifk8THU+5e64IK11/xg=="/>
+			<POI MapID="27" xpos="-379.533" ypos="116.245" zpos="856.271" type="missions_de_guilde.courses.foulee_de_l_ourse" GUID="2mf6w4SV70Cx48Gz7eeBJA=="/>
+			<POI MapID="27" xpos="-384.48"  ypos="117.523" zpos="861.991" type="missions_de_guilde.courses.foulee_de_l_ourse" GUID="wyIXmDyqVEep2FmEV0fR7g=="/>
+			<POI MapID="27" xpos="-382.351" ypos="119.851" zpos="856.881" type="missions_de_guilde.courses.foulee_de_l_ourse" GUID="Lu8F+rzlcUOS9KCgvK9MrA=="/>
+			<POI MapID="27" xpos="-380.659" ypos="121.874" zpos="852.168" type="missions_de_guilde.courses.foulee_de_l_ourse" GUID="X3ScdsLngE+1ycBh250q7A=="/>
+			<POI MapID="27" xpos="-375.159" ypos="127.198" zpos="844.51"  type="missions_de_guilde.courses.foulee_de_l_ourse" GUID="8JgB3xG2S06sZYfUWMaBWA=="/>
+			<POI MapID="27" xpos="-369.602" ypos="131.365" zpos="837.961" type="missions_de_guilde.courses.foulee_de_l_ourse" GUID="DBjkmds4n0m+5iDHNu7r5w=="/>
+			<POI MapID="27" xpos="-363.639" ypos="134.285" zpos="832.652" type="missions_de_guilde.courses.foulee_de_l_ourse" GUID="1n2AdqSQJUCc5aaOsDNsyg=="/>
+			<POI MapID="27" xpos="-355.082" ypos="136.227" zpos="825.738" type="missions_de_guilde.courses.foulee_de_l_ourse" GUID="1X/5c4CA9EWcYuW4fKmm5w=="/>
+			<POI MapID="27" xpos="-349.019" ypos="137.83"  zpos="820.996" type="missions_de_guilde.courses.foulee_de_l_ourse" GUID="rJ6ZftA+c0m2Y3Ixo1mizA=="/>
+			<POI MapID="27" xpos="-349.243" ypos="140.126" zpos="814.297" type="missions_de_guilde.courses.foulee_de_l_ourse" GUID="P34QbuLnK02axmgVmy/z9g=="/>
+			<POI MapID="27" xpos="-346.854" ypos="135.072" zpos="808.901" type="missions_de_guilde.courses.foulee_de_l_ourse" GUID="/AKo8NJG2UO6B65yc4xVOg=="/>
+			<POI MapID="27" xpos="-347.337" ypos="135.047" zpos="799.295" type="missions_de_guilde.courses.foulee_de_l_ourse" GUID="v8WGGzP0/EaN8GWHc4D1Nw=="/>
+			<POI MapID="27" xpos="-345.856" ypos="134.744" zpos="790.811" type="missions_de_guilde.courses.foulee_de_l_ourse" GUID="nRI50aqsPkeX+u8Qm/DGAQ=="/>
+			<POI MapID="27" xpos="-341.901" ypos="129.591" zpos="781.911" type="missions_de_guilde.courses.foulee_de_l_ourse" GUID="3jbJNTyyBUue55uOvd2HLA=="/>
+			<POI MapID="27" xpos="-337.287" ypos="124.423" zpos="771.377" type="missions_de_guilde.courses.foulee_de_l_ourse" GUID="zBRe8eIR50aIR4+11YHwPQ=="/>
+			<POI MapID="27" xpos="-334.822" ypos="123.98"  zpos="764.748" type="missions_de_guilde.courses.foulee_de_l_ourse" GUID="pqehLXi/AEmFAJpHN/HzXw=="/>
+			<POI MapID="27" xpos="-332.569" ypos="122.243" zpos="760.334" type="missions_de_guilde.courses.foulee_de_l_ourse" GUID="QsO9mgFvckiEhBJ6uA65lw=="/>
+			<POI MapID="27" xpos="-327.462" ypos="121.805" zpos="759.071" type="missions_de_guilde.courses.foulee_de_l_ourse" GUID="HC/CVfGUWkmIWjOpAW43qA=="/>
+			<POI MapID="27" xpos="-323.175" ypos="122.943" zpos="755.701" type="missions_de_guilde.courses.foulee_de_l_ourse" GUID="bpFzQVD46ECSxYkWjnwisw=="/>
+			<POI MapID="27" xpos="-320.24"  ypos="121.949" zpos="747.872" type="missions_de_guilde.courses.foulee_de_l_ourse" GUID="/WrW4jUH0EyktARrgu+olw=="/>
+			<POI MapID="27" xpos="-316"     ypos="122.362" zpos="742.2"   type="missions_de_guilde.courses.foulee_de_l_ourse" GUID="rxkoGPDWDUWZEqCyrejoZA=="/>
+			<POI MapID="27" xpos="-311.933" ypos="122.088" zpos="736.483" type="missions_de_guilde.courses.foulee_de_l_ourse" GUID="VO6d0/ScfkujrBgbCU3JZw=="/>
+			<POI MapID="27" xpos="-306.318" ypos="120.464" zpos="728.091" type="missions_de_guilde.courses.foulee_de_l_ourse" GUID="+yLNHOz8BUOuLiKPZVZyeA=="/>
+			<POI MapID="27" xpos="-301.528" ypos="120.633" zpos="719.587" type="missions_de_guilde.courses.foulee_de_l_ourse" GUID="NdJd7K+9KEehS1FvNVso7w=="/>
+			<POI MapID="27" xpos="-297.814" ypos="120.904" zpos="710.208" type="missions_de_guilde.courses.foulee_de_l_ourse" GUID="UGdNVcn95kKuYRvYGC7ynQ=="/>
+			<POI MapID="27" xpos="-297.763" ypos="120.83"  zpos="701.012" type="missions_de_guilde.courses.foulee_de_l_ourse" GUID="YKVezSfDyUiFDb/PvJFB7A=="/>
+			<POI MapID="27" xpos="-301.459" ypos="120.506" zpos="691.23"  type="missions_de_guilde.courses.foulee_de_l_ourse" GUID="Nswav5YReUaVOWde4fdV6w=="/>
+			<POI MapID="27" xpos="-305.624" ypos="123.157" zpos="683.111" type="missions_de_guilde.courses.foulee_de_l_ourse" GUID="Us/nU01gpE2K2gSdCZgyUg=="/>
+			<POI MapID="27" xpos="-308.348" ypos="125.698" zpos="674.018" type="missions_de_guilde.courses.foulee_de_l_ourse" GUID="ZXzfbjtZekK4Ca34TL+BKQ=="/>
+			<POI MapID="27" xpos="-311.058" ypos="128.05"  zpos="664.2"   type="missions_de_guilde.courses.foulee_de_l_ourse" GUID="IszTveVJ4EO/PNhz5aaARw=="/>
+			<POI MapID="27" xpos="-312.772" ypos="129.142" zpos="653.999" type="missions_de_guilde.courses.foulee_de_l_ourse" GUID="lKzxTEotaUOeTYUrKitR/g=="/>
+			<POI MapID="27" xpos="-313.409" ypos="129.644" zpos="643.29"  type="missions_de_guilde.courses.foulee_de_l_ourse" GUID="POa9dQ9IAU2qHcsjZlvOTw=="/>
+			<POI MapID="27" xpos="-314.607" ypos="131.944" zpos="633.23"  type="missions_de_guilde.courses.foulee_de_l_ourse" GUID="kCe5SAMrMkK1RQ2/L0ZeCA=="/>
+			<POI MapID="27" xpos="-316.099" ypos="133.401" zpos="623.096" type="missions_de_guilde.courses.foulee_de_l_ourse" GUID="JOzh0j1VgkWXYTArd3kICA=="/>
+			<POI MapID="27" xpos="-317.206" ypos="132.828" zpos="612.849" type="missions_de_guilde.courses.foulee_de_l_ourse" GUID="5Vj/yBIC+EadbzZl6KTtvg=="/>
+			<POI MapID="27" xpos="-319.147" ypos="134.299" zpos="603.317" type="missions_de_guilde.courses.foulee_de_l_ourse" GUID="Ky+x4uLa90WfR2D+Yzw7gA=="/>
+			<POI MapID="27" xpos="-323.71"  ypos="132.754" zpos="592.42"  type="missions_de_guilde.courses.foulee_de_l_ourse" GUID="yjdroScalECgOp0QmBh49g=="/>
+			<POI MapID="27" xpos="-329.043" ypos="134.71"  zpos="584.049" type="missions_de_guilde.courses.foulee_de_l_ourse" GUID="7iIRdeHV2kuKAEqbPDBqiQ=="/>
+			<POI MapID="27" xpos="-334.878" ypos="138.398" zpos="575.514" type="missions_de_guilde.courses.foulee_de_l_ourse" GUID="9ueSexVJEk6/Lm6CBkLj9g=="/>
+			<POI MapID="27" xpos="-338.745" ypos="141.515" zpos="567.284" type="missions_de_guilde.courses.foulee_de_l_ourse" GUID="tlQx4gipq0SIYk3gUs/bsg=="/>
+			<POI MapID="27" xpos="-340.904" ypos="144.696" zpos="558.878" type="missions_de_guilde.courses.foulee_de_l_ourse" GUID="Vn8I51gdgUqIzgiFLVs/Yg=="/>
+			<POI MapID="27" xpos="-343.059" ypos="147.345" zpos="550.611" type="missions_de_guilde.courses.foulee_de_l_ourse" GUID="4lppa804e0q2zX0N9NFf8w=="/>
+		</Route>
+
+		<!-- Arrivée -->
+		<POI MapID="27" xpos="-345.575" ypos="150.447" zpos="541.476" type="missions_de_guilde.courses.foulee_de_l_ourse" GUID="AzngiA4SKUeySBwaB3nXHQ==" iconFile="Img\DrapeauArrivee.png" iconSize="1"/>
+
+		<!-- Drapeaux de Passage -->
+		<POI MapID="27" xpos="-288.024" ypos="95.7877" zpos="818.171" type="missions_de_guilde.courses.foulee_de_l_ourse.drapeaux" GUID="dxmFVoSOy0O+HZET2zDIZA=="/>
+		<POI MapID="27" xpos="-300.036" ypos="120.748" zpos="688.159" type="missions_de_guilde.courses.foulee_de_l_ourse.drapeaux" GUID="x87Y2okwSE+y0j/PaVw2Iw=="/>
+		<POI MapID="27" xpos="-301.804" ypos="104.406" zpos="838.826" type="missions_de_guilde.courses.foulee_de_l_ourse.drapeaux" GUID="C7MwxhSn60OpRfrnGSRirA=="/>
+		<POI MapID="27" xpos="-329.331" ypos="135.077" zpos="579.985" type="missions_de_guilde.courses.foulee_de_l_ourse.drapeaux" GUID="iuWsi40PsEe94WYwCG0Oqg=="/>
+		<POI MapID="27" xpos="-345.546" ypos="135.166" zpos="804.059" type="missions_de_guilde.courses.foulee_de_l_ourse.drapeaux" GUID="z5GVCeqXp0OtoiogsoIdKQ=="/>
+		<POI MapID="27" xpos="-358.23"  ypos="135.867" zpos="828.861" type="missions_de_guilde.courses.foulee_de_l_ourse.drapeaux" GUID="KEOUFAd1YE2vI+1MbcQH1g=="/>
+		<POI MapID="27" xpos="-384.398" ypos="121.838" zpos="855.853" type="missions_de_guilde.courses.foulee_de_l_ourse.drapeaux" GUID="GRDmIQO+70qz1I4mwylsjA=="/>
+		<POI MapID="27" xpos="-426.743" ypos="90.8901" zpos="790.559" type="missions_de_guilde.courses.foulee_de_l_ourse.drapeaux" GUID="hAYvKLeWfkybRGdO9nWoew=="/>
+		<POI MapID="27" xpos="-439.09"  ypos="127.993" zpos="397.595" type="missions_de_guilde.courses.foulee_de_l_ourse.drapeaux" GUID="WXsTkghse0OIb8RxvLsEaw=="/>
+		<POI MapID="27" xpos="-486.641" ypos="97.3632" zpos="727.875" type="missions_de_guilde.courses.foulee_de_l_ourse.drapeaux" GUID="q5ffnvqH4kOXJKBQzF/h1A=="/>
+		<POI MapID="27" xpos="-503.722" ypos="123.7"   zpos="428.673" type="missions_de_guilde.courses.foulee_de_l_ourse.drapeaux" GUID="oc2YbTp93UGHJBQEUPI5Vw=="/>
+		<POI MapID="27" xpos="-506.694" ypos="87.6005" zpos="520.654" type="missions_de_guilde.courses.foulee_de_l_ourse.drapeaux" GUID="zuevxchmE0i3ng7tNgCZkA=="/>
+
+		<!-- Pieges à Piques -->
+		<POI MapID="27" xpos="-298.624" ypos="88.8828" zpos="802.212" type="missions_de_guilde.courses.foulee_de_l_ourse.pieges.piques" GUID="45PFsMOUek2ghs2VF5KPgA=="/>
+		<POI MapID="27" xpos="-308.419" ypos="87.5832" zpos="799.411" type="missions_de_guilde.courses.foulee_de_l_ourse.pieges.piques" GUID="DLccRMm2OEqxoyBfQMVmZA=="/>
+		<POI MapID="27" xpos="-309.778" ypos="107.578" zpos="831.068" type="missions_de_guilde.courses.foulee_de_l_ourse.pieges.piques" GUID="QiOIjs0h2kyUFtaongIiew=="/>
+		<POI MapID="27" xpos="-319.631" ypos="120.755" zpos="739.534" type="missions_de_guilde.courses.foulee_de_l_ourse.pieges.piques" GUID="UKTWXfGMI0KBWkLeZGNnmQ=="/>
+		<POI MapID="27" xpos="-328.172" ypos="121.716" zpos="754.885" type="missions_de_guilde.courses.foulee_de_l_ourse.pieges.piques" GUID="JAd8waQVbU6nueDCMOpGMg=="/>
+		<POI MapID="27" xpos="-340.954" ypos="137.011" zpos="811"     type="missions_de_guilde.courses.foulee_de_l_ourse.pieges.piques" GUID="T+EFnQEZV06K6KGIQ3ZjiA=="/>
+		<POI MapID="27" xpos="-348.928" ypos="95.143"  zpos="794.115" type="missions_de_guilde.courses.foulee_de_l_ourse.pieges.piques" GUID="4fYsgbylj0q04XSAZQCW8w=="/>
+		<POI MapID="27" xpos="-363.426" ypos="118.029" zpos="840.245" type="missions_de_guilde.courses.foulee_de_l_ourse.pieges.piques" GUID="lgeEZXDtI0unmCval6maUw=="/>
+		<POI MapID="27" xpos="-363.449" ypos="95.5574" zpos="795.378" type="missions_de_guilde.courses.foulee_de_l_ourse.pieges.piques" GUID="btUmLSzwfkqr0kHQfVnSlw=="/>
+		<POI MapID="27" xpos="-375.208" ypos="115.384" zpos="859.435" type="missions_de_guilde.courses.foulee_de_l_ourse.pieges.piques" GUID="bPlxrjrNiEupZbKvgK6n8Q=="/>
+		<POI MapID="27" xpos="-387.706" ypos="117.261" zpos="868.595" type="missions_de_guilde.courses.foulee_de_l_ourse.pieges.piques" GUID="RSv+qo8wyE2l9OiKmW9cJA=="/>
+		<POI MapID="27" xpos="-407.329" ypos="93.7914" zpos="770.39"  type="missions_de_guilde.courses.foulee_de_l_ourse.pieges.piques" GUID="e8uIk361QECZfzgAJT5XQA=="/>
+		<POI MapID="27" xpos="-461.44"  ypos="125.502" zpos="403.916" type="missions_de_guilde.courses.foulee_de_l_ourse.pieges.piques" GUID="8t/tmTnsqEqUtC2OM/rEfQ=="/>
+		<POI MapID="27" xpos="-471.407" ypos="104.437" zpos="768.86"  type="missions_de_guilde.courses.foulee_de_l_ourse.pieges.piques" GUID="fuRhBGtPT0GJSMoGLnbGkg=="/>
+		<POI MapID="27" xpos="-474.129" ypos="104.193" zpos="781.311" type="missions_de_guilde.courses.foulee_de_l_ourse.pieges.piques" GUID="hROMj/+sZkyGMAiblVFR3w=="/>
+		<POI MapID="27" xpos="-482.315" ypos="124.19"  zpos="417.68"  type="missions_de_guilde.courses.foulee_de_l_ourse.pieges.piques" GUID="vkUf3Pkkvka0VYMe1aurTQ=="/>
+		<POI MapID="27" xpos="-502.342" ypos="86.5072" zpos="530.924" type="missions_de_guilde.courses.foulee_de_l_ourse.pieges.piques" GUID="OcMHDr5dWk+DTpnilzqA6Q=="/>
+		<POI MapID="27" xpos="-503.341" ypos="124.363" zpos="424.69"  type="missions_de_guilde.courses.foulee_de_l_ourse.pieges.piques" GUID="CsxMc2sHAEm1p1Z1oAkJ/A=="/>
+		<POI MapID="27" xpos="-507.397" ypos="122.414" zpos="433.897" type="missions_de_guilde.courses.foulee_de_l_ourse.pieges.piques" GUID="ia2x7tVnI0iiUa5DWrOm8A=="/>
+
+		<!-- Pieges de Chutes de Pierres -->
+
+		<POI MapID="27" xpos="-322.001" ypos="123.61"  zpos="766.832" type="missions_de_guilde.courses.foulee_de_l_ourse.pieges.chutes_de_pierres" GUID="gxFFo/umjkuzVAErnNd0hw=="/>
+		<POI MapID="27" xpos="-331.238" ypos="122.108" zpos="764.089" type="missions_de_guilde.courses.foulee_de_l_ourse.pieges.chutes_de_pierres" GUID="OUzU3n3JEUKV9ydSSYfkEQ=="/>
+		<POI MapID="27" xpos="-325.438" ypos="122.511" zpos="761.397" type="missions_de_guilde.courses.foulee_de_l_ourse.pieges.chutes_de_pierres" GUID="S5Xqk6GbpEa8Z4XrewJIJA=="/>
+		<POI MapID="27" xpos="-328.717" ypos="122.641" zpos="770.003" type="missions_de_guilde.courses.foulee_de_l_ourse.pieges.chutes_de_pierres" GUID="N5kIItC10UG6EoiJSjjYBw=="/>
+		<POI MapID="27" xpos="-344.786" ypos="109.642" zpos="816.311" type="missions_de_guilde.courses.foulee_de_l_ourse.pieges.chutes_de_pierres" GUID="quqGepR9e0WRgdRdaZ0SpA=="/>
+		<POI MapID="27" xpos="-348.542" ypos="112.217" zpos="820.667" type="missions_de_guilde.courses.foulee_de_l_ourse.pieges.chutes_de_pierres" GUID="aw7xOQZYOkqw/vCpEUCPTw=="/>
+		<POI MapID="27" xpos="-350.77"  ypos="110.523" zpos="812.575" type="missions_de_guilde.courses.foulee_de_l_ourse.pieges.chutes_de_pierres" GUID="uaG9wr+wYU67KfwXRZJOHw=="/>
+		<POI MapID="27" xpos="-352.368" ypos="112.504" zpos="818.99"  type="missions_de_guilde.courses.foulee_de_l_ourse.pieges.chutes_de_pierres" GUID="w8nEAxibdU65v1CZnRv0Dw=="/>
+		<POI MapID="27" xpos="-381.58"  ypos="94.4959" zpos="780.711" type="missions_de_guilde.courses.foulee_de_l_ourse.pieges.chutes_de_pierres" GUID="+8kcAXccaUWOawnMqHeykQ=="/>
+		<POI MapID="27" xpos="-382.959" ypos="95.5801" zpos="775.612" type="missions_de_guilde.courses.foulee_de_l_ourse.pieges.chutes_de_pierres" GUID="tgd7Co/0TEihKkyN/3sgGA=="/>
+		<POI MapID="27" xpos="-388.429" ypos="94.8791" zpos="776.14"  type="missions_de_guilde.courses.foulee_de_l_ourse.pieges.chutes_de_pierres" GUID="8lIiQh6POkucQYGths4+Yg=="/>
+		<POI MapID="27" xpos="-388.506" ypos="94.8691" zpos="781.886" type="missions_de_guilde.courses.foulee_de_l_ourse.pieges.chutes_de_pierres" GUID="NJIUxyLFn0yygpmis8BUAw=="/>
+		<POI MapID="27" xpos="-421.13"  ypos="90.4364" zpos="789.806" type="missions_de_guilde.courses.foulee_de_l_ourse.pieges.chutes_de_pierres" GUID="Hvwu117hEkOtslM6Qm3KwQ=="/>
+		<POI MapID="27" xpos="-424.057" ypos="91.0906" zpos="783.732" type="missions_de_guilde.courses.foulee_de_l_ourse.pieges.chutes_de_pierres" GUID="TeBcexWyEkG9M/JMD/s4GQ=="/>
+		<POI MapID="27" xpos="-429.564" ypos="91.0899" zpos="792.998" type="missions_de_guilde.courses.foulee_de_l_ourse.pieges.chutes_de_pierres" GUID="Uh3yOr2BWk23d/Yia9s53w=="/>
+		<POI MapID="27" xpos="-430.427" ypos="91.393"  zpos="786.552" type="missions_de_guilde.courses.foulee_de_l_ourse.pieges.chutes_de_pierres" GUID="TSaHgCd5b0+r6Uk5q2eUKQ=="/>
+		<POI MapID="27" xpos="-479.689" ypos="98.2631" zpos="728.321" type="missions_de_guilde.courses.foulee_de_l_ourse.pieges.chutes_de_pierres" GUID="sSirgApEo0+ao2GytDXOZg=="/>
+		<POI MapID="27" xpos="-483.525" ypos="99.2199" zpos="733.972" type="missions_de_guilde.courses.foulee_de_l_ourse.pieges.chutes_de_pierres" GUID="pp/qWEtT+EGQ/G08ragQaw=="/>
+		<POI MapID="27" xpos="-486.069" ypos="96.5289" zpos="724.432" type="missions_de_guilde.courses.foulee_de_l_ourse.pieges.chutes_de_pierres" GUID="LKcGzk39AkOSKQ8URsHuDQ=="/>
+		<POI MapID="27" xpos="-488.944" ypos="98.0202" zpos="731.396" type="missions_de_guilde.courses.foulee_de_l_ourse.pieges.chutes_de_pierres" GUID="mefVs1/fYECQguWfTgqsKQ=="/>
+		<POI MapID="27" xpos="-494.971" ypos="89.2217" zpos="520.045" type="missions_de_guilde.courses.foulee_de_l_ourse.pieges.chutes_de_pierres" GUID="Uqua8pww50SMI2E7L1+JEw=="/>
+		<POI MapID="27" xpos="-498.023" ypos="89.2204" zpos="516.241" type="missions_de_guilde.courses.foulee_de_l_ourse.pieges.chutes_de_pierres" GUID="P8ZGlwFoq0mNPzA6anxH7w=="/>
+		<POI MapID="27" xpos="-499.305" ypos="87.4405" zpos="524.612" type="missions_de_guilde.courses.foulee_de_l_ourse.pieges.chutes_de_pierres" GUID="dI+UgyM/zU2tv5cfSm5eTg=="/>
+		<POI MapID="27" xpos="-503.324" ypos="87.6568" zpos="520.124" type="missions_de_guilde.courses.foulee_de_l_ourse.pieges.chutes_de_pierres" GUID="XJnNwaO8DEyCF4LRwlutQw=="/>
+		<POI MapID="27" xpos="-507.817" ypos="88.7259" zpos="517.328" type="missions_de_guilde.courses.foulee_de_l_ourse.pieges.chutes_de_pierres" GUID="4JfjQT++TUyP6n7pEtMwrQ=="/>
+		<POI MapID="27" xpos="-511.917" ypos="89.8556" zpos="514.109" type="missions_de_guilde.courses.foulee_de_l_ourse.pieges.chutes_de_pierres" GUID="xg5WGXsmB0msCCLz50smRw=="/>
+		<POI MapID="27" xpos="-511.929" ypos="87.5343" zpos="521.402" type="missions_de_guilde.courses.foulee_de_l_ourse.pieges.chutes_de_pierres" GUID="DADZnz1b80KFI6A/5f/GMw=="/>
+		<POI MapID="27" xpos="-516.062" ypos="89.8766" zpos="516.826" type="missions_de_guilde.courses.foulee_de_l_ourse.pieges.chutes_de_pierres" GUID="TRc/8F5mKkSRvtyRk2eofA=="/>
+
+	</POIs>
+</OverlayData>

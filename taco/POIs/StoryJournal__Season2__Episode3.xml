@@ -1,0 +1,31 @@
+<!-- 2020.06.09 -->
+<OverlayData>
+	<POIs>
+
+		<!-- CRATE SCRAPPER -->
+		<POI MapID="1000" xpos="-121.289" ypos="8.19546" zpos="-644.335" type="story_journal.season_2.the_dragon_s_reach_part_1.crate_scrapper" GUID="Znv1RoHNi0SS1yfYk8CAcA=="/>
+
+		<!-- LEAVE NO SURVIVORS -->
+		<POI MapID="1000" xpos="-416.695" ypos="19.1299"   zpos="-690.935" type="story_journal.season_2.the_dragon_s_reach_part_1.leave_no_survivors" GUID="oCXJ7h0tRkmLT4/GXpkOHA=="/>
+		<POI MapID="1000" xpos="-356.077" ypos="-0.196571" zpos="-691.552" type="story_journal.season_2.the_dragon_s_reach_part_1.leave_no_survivors" GUID="pnRIjAZ+6Ei/MAkubkdSEA=="/>
+		<POI MapID="1000" xpos="-314.67"  ypos="7.40737"   zpos="-680.018" type="story_journal.season_2.the_dragon_s_reach_part_1.leave_no_survivors" GUID="YBwPxdQ+A066RdQmd97RuA=="/>
+		<POI MapID="1000" xpos="-300.064" ypos="-0.195356" zpos="-703.241" type="story_journal.season_2.the_dragon_s_reach_part_1.leave_no_survivors" GUID="ea+nwcffj0e+LrZJzh7f7Q=="/>
+		<POI MapID="1000" xpos="-320.281" ypos="5.20728"   zpos="-732.397" type="story_journal.season_2.the_dragon_s_reach_part_1.leave_no_survivors" GUID="UppAESXddEqVG1SamJ/k7w=="/>
+		<POI MapID="1000" xpos="-236.567" ypos="6.0974"    zpos="-676.711" type="story_journal.season_2.the_dragon_s_reach_part_1.leave_no_survivors" GUID="rBEysmh5mEq/GthP9o6Q5g=="/>
+		<POI MapID="1000" xpos="-223.406" ypos="-0.224084" zpos="-716.256" type="story_journal.season_2.the_dragon_s_reach_part_1.leave_no_survivors" GUID="Rj1CQ1oDDUyPAHbOy4qWjg=="/>
+		<POI MapID="1000" xpos="-238.404" ypos="2.87936"   zpos="-751.27"  type="story_journal.season_2.the_dragon_s_reach_part_1.leave_no_survivors" GUID="MelbUCMf/ECJd2rPYb5l8A=="/>
+		<POI MapID="1000" xpos="-179.783" ypos="5.31728"   zpos="-724.243" type="story_journal.season_2.the_dragon_s_reach_part_1.leave_no_survivors" GUID="yXZkRlCRoEOLh5gkve9CLA=="/>
+		<POI MapID="1000" xpos="-121.289" ypos="8.19546"   zpos="-644.335" type="story_journal.season_2.the_dragon_s_reach_part_1.leave_no_survivors" GUID="rMbdguabLUGyBzB2aoRVnQ=="/>
+		<POI MapID="1000" xpos="-219.08"  ypos="15.8839"   zpos="-657.996" type="story_journal.season_2.the_dragon_s_reach_part_1.leave_no_survivors" GUID="m+R0I5WrT0y7G83vHVsZTQ=="/>
+		<POI MapID="1000" xpos="-234.541" ypos="35.4305"   zpos="-599.58"  type="story_journal.season_2.the_dragon_s_reach_part_1.leave_no_survivors" GUID="Cl87dVUm7kWvOfY6OyCUOQ=="/>
+
+		<!-- NARY A PITFALL -->
+		<Trail type="story_journal.season_2.the_dragon_s_reach_part_1.nary_a_pitfall" GUID="yud6V7ORSEiuXKpnpE8i8Q==" trailData="Data/StoryJournal/Season2/TheDragonsReachPart1/NaryAPitfall.trl" texture="Data/Arrow.png" color="ffffdd00" alpha="0.8" fadeNear="1500" fadeFar="2000" animSpeed="0" mapDisplaySize="15"/>
+		<POI MapID="1000" xpos="-460.608" ypos="51.0384" zpos="-652.761" type="story_journal.season_2.the_dragon_s_reach_part_1.nary_a_pitfall" GUID="6tjQOZ6k9ky+K2WudkfczA=="/>
+		<POI MapID="1000" xpos="-315.649" ypos="7.31934" zpos="-677.988" type="story_journal.season_2.the_dragon_s_reach_part_1.nary_a_pitfall" GUID="WZN52GA/8EiBmPfb4dMYxg==" iconFile="Img/Season2/NaryAPitfall_1.png" minSize="48" maxSize="64" mapVisibility="0" miniMapVisibility="0" heightOffset="3"/>
+		<POI MapID="1000" xpos="-320.539" ypos="2.11338" zpos="-732.143" type="story_journal.season_2.the_dragon_s_reach_part_1.nary_a_pitfall" GUID="B0QsHHpAo0mXDv1k+s/R7w==" iconFile="Img/Icons/Detail.png"           minSize="10" maxSize="16" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="1000" xpos="-323.215" ypos="2.26225" zpos="-730.817" type="story_journal.season_2.the_dragon_s_reach_part_1.nary_a_pitfall" GUID="XnBi7H8/ME26Y085Va342A==" iconFile="Img/Season2/NaryAPitfall_2.png" minSize="48" maxSize="64" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="1000" xpos="-177.596" ypos="4.74441" zpos="-724.88"  type="story_journal.season_2.the_dragon_s_reach_part_1.nary_a_pitfall" GUID="8We1EfxbhEaZTwq+Zmt3Tg==" iconFile="Img/Season2/NaryAPitfall_3.png" minSize="48" maxSize="64" mapVisibility="0" miniMapVisibility="0" heightOffset="3"/>
+
+	</POIs>
+</OverlayData>

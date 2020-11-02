@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+POIs: TMKFrench.6427
+Date: 2017/10/01
+-->
+<OverlayData>
+	<MarkerCategory name="chroniques.pof">
+		<MarkerCategory name="acte_1" DisplayName="Path of Fire : Act 1" iconFile="Img\PathofFireacte1.png">
+			<MarkerCategory name="controle_de_degats" DisplayName="Damage Control" iconFile="Img\Combat.png" color="ffff0000" iconSize="2" fadeNear="10000" fadeFar="20000"/>
+		</MarkerCategory>
+	</MarkerCategory>
+
+	<POIs>
+
+		<!-- Détruire les catapultes des forgés -->
+		<POI MapID="1209" xpos="637.474" ypos="139.183" zpos="-496.432" type="chroniques.pof.acte_1.controle_de_degats" GUID="wjfUYJjEE0CgBWMOFUd3mg=="/>
+		<POI MapID="1209" xpos="533.283" ypos="137.648" zpos="-362.341" type="chroniques.pof.acte_1.controle_de_degats" GUID="jXLse8S/VESW3gwALbpqDA=="/>
+		<POI MapID="1209" xpos="254.157" ypos="149.676" zpos="-651.448" type="chroniques.pof.acte_1.controle_de_degats" GUID="m56p05pJ+kOMmGKMqqCkqA=="/>
+		<POI MapID="1209" xpos="139.221" ypos="139.02" zpos="-537.609" type="chroniques.pof.acte_1.controle_de_degats" GUID="yuFybJlrKkqB6XLZGxJBWA=="/>
+
+	</POIs>
+</OverlayData>

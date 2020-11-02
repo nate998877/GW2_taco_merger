@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+POIs: ReActif.9251
+Date: 2017/08/11
+-->
+<OverlayData>
+	<MarkerCategory name="missions_de_guilde" DisplayName="Guild Missions">
+		<MarkerCategory name="courses" DisplayName="Races" iconFile="Img\Guide.png" iconSize="0.75" triggerRange="3">
+			<MarkerCategory name="fugue_du_crabe" DisplayName="Crab Scuttle">
+				<MarkerCategory name="drapeaux" DisplayName="Checkpoints" iconFile="Img\DrapeauPassage.png" iconSize="1" fadeNear="2000" fadeFar="5000"/>
+				<MarkerCategory name="pieges" DisplayName="Traps" iconFile="Img\DangerExplosif.png" iconSize="1" fadeNear="1000" fadeFar="2000" heightOffset="0"/>
+			</MarkerCategory>
+		</MarkerCategory>
+	</MarkerCategory>
+
+	<POIs>
+
+		<!-- Début -->
+		<POI MapID="873" xpos="286.787" ypos="3.089" zpos="146.268" type="missions_de_guilde.courses.debut" GUID="BBJDjVwR4kyOuhHpGa4NUQ=="/>
+
+		<!-- Route -->
+		<Route MapID="873" name="Fugue_du_Crabe" resetposx="286.787" resetposy="3.089" resetposz="146.268" resetrange="3">
+			<POI MapID="873" xpos="274.973" ypos="-0.661526" zpos="135.906"   type="missions_de_guilde.courses.fugue_du_crabe" GUID="o26SY9iQZEGMaNcABxTtdw=="/>
+			<POI MapID="873" xpos="273.102" ypos="-0.671447" zpos="123.898"   type="missions_de_guilde.courses.fugue_du_crabe" GUID="JdaCHUzeuEuDPVPY+4np+g=="/>
+			<POI MapID="873" xpos="268.16"  ypos="-0.64"     zpos="111.82"    type="missions_de_guilde.courses.fugue_du_crabe" GUID="eIngkU8AiECmHnqVnnkcDQ=="/>
+			<POI MapID="873" xpos="278.804" ypos="-0.680154" zpos="86.5996"   type="missions_de_guilde.courses.fugue_du_crabe" GUID="R+o7dH+tokuihVe0KVDBxA=="/>
+			<POI MapID="873" xpos="286.967" ypos="-0.68045"  zpos="76.1904"   type="missions_de_guilde.courses.fugue_du_crabe" GUID="rFa3JuOKFkORe0K9OjCCog=="/>
+			<POI MapID="873" xpos="295.036" ypos="-0.680676" zpos="67.409"    type="missions_de_guilde.courses.fugue_du_crabe" GUID="afDA2hmiqUSSC0uKZ6dw3Q=="/>
+			<POI MapID="873" xpos="303.136" ypos="-0.733858" zpos="58.3743"   type="missions_de_guilde.courses.fugue_du_crabe" GUID="juLXW0VIJ0m8RMjuhlIRVg=="/>
+			<POI MapID="873" xpos="309.325" ypos="-0.567847" zpos="46.5068"   type="missions_de_guilde.courses.fugue_du_crabe" GUID="IfuOa853aUSDfvKy+HVC5g=="/>
+			<POI MapID="873" xpos="317"     ypos="-0.681035" zpos="31.6783"   type="missions_de_guilde.courses.fugue_du_crabe" GUID="mgPaR2Yxm0aJDdmbTkglhA=="/>
+			<POI MapID="873" xpos="324.28"  ypos="-0.66309"  zpos="14.6597"   type="missions_de_guilde.courses.fugue_du_crabe" GUID="wS3UPMTqEE+AnGP9pf7pag=="/>
+			<POI MapID="873" xpos="329.218" ypos="-0.457497" zpos="-0.675891" type="missions_de_guilde.courses.fugue_du_crabe" GUID="U5O4VxcBpUyV5pnJZ2GBBw=="/>
+			<POI MapID="873" xpos="335.394" ypos="0.331804"  zpos="-15.5368"  type="missions_de_guilde.courses.fugue_du_crabe" GUID="2x9e/3oHpkmldFphHsMThA=="/>
+			<POI MapID="873" xpos="339.858" ypos="-0.508954" zpos="-30.7202"  type="missions_de_guilde.courses.fugue_du_crabe" GUID="WvttgmsLYkeewb378KxQZA=="/>
+			<POI MapID="873" xpos="341.597" ypos="0.477409"  zpos="-43.2193"  type="missions_de_guilde.courses.fugue_du_crabe" GUID="mPSJ4HnOiEmlbxaJj9hNgg=="/>
+			<POI MapID="873" xpos="337.557" ypos="6.57823"   zpos="-64.8191"  type="missions_de_guilde.courses.fugue_du_crabe" GUID="cOhGoOvhXkqY5gIYUqZulA=="/>
+			<POI MapID="873" xpos="328.554" ypos="9.57273"   zpos="-77.7324"  type="missions_de_guilde.courses.fugue_du_crabe" GUID="Mcx0hCog4EONbT/gaPYPlw=="/>
+			<POI MapID="873" xpos="331.345" ypos="11.3302"   zpos="-87.9341"  type="missions_de_guilde.courses.fugue_du_crabe" GUID="Wo8yg37VxkSWP3tUZmszDw=="/>
+			<POI MapID="873" xpos="329.012" ypos="7.80568"   zpos="-100.866"  type="missions_de_guilde.courses.fugue_du_crabe" GUID="Siy+LOLFgkyvrjEJble2eA=="/>
+			<POI MapID="873" xpos="322.105" ypos="3.08445"   zpos="-113.451"  type="missions_de_guilde.courses.fugue_du_crabe" GUID="8XnjyMILR0SgFYlK6c02ew=="/>
+			<POI MapID="873" xpos="316.75"  ypos="1.14316"   zpos="-123.176"  type="missions_de_guilde.courses.fugue_du_crabe" GUID="1j6KLGo2i0ayf0lY0yuGsg=="/>
+			<POI MapID="873" xpos="313.4"   ypos="0.5592"    zpos="-133.767"  type="missions_de_guilde.courses.fugue_du_crabe" GUID="oEr0wVj9lkCabfkhMaxtyQ=="/>
+			<POI MapID="873" xpos="314.885" ypos="-0.217323" zpos="-144.664"  type="missions_de_guilde.courses.fugue_du_crabe" GUID="DcKSAjmPWUCQ/4FSS/txpA=="/>
+			<POI MapID="873" xpos="316.463" ypos="-0.341333" zpos="-152.795"  type="missions_de_guilde.courses.fugue_du_crabe" GUID="KzEtEdm2K0+5Auy5lwZtjA=="/>
+			<POI MapID="873" xpos="327.641" ypos="0.0860259" zpos="-161.021"  type="missions_de_guilde.courses.fugue_du_crabe" GUID="L5pGSrntp0iGow5gcKB1Gg=="/>
+			<POI MapID="873" xpos="337.345" ypos="0.839031"  zpos="-164.753"  type="missions_de_guilde.courses.fugue_du_crabe" GUID="JB9L7iieoUe/p4Y9PpPA1w=="/>
+			<POI MapID="873" xpos="347.286" ypos="0.235203"  zpos="-168.584"  type="missions_de_guilde.courses.fugue_du_crabe" GUID="5b6d/i4vcUCxmGB/7wY5mA=="/>
+			<POI MapID="873" xpos="353.374" ypos="1.29095"   zpos="-176.835"  type="missions_de_guilde.courses.fugue_du_crabe" GUID="e0mmbcCTSUmp30rvKwogug=="/>
+			<POI MapID="873" xpos="351.018" ypos="6.50552"   zpos="-190.749"  type="missions_de_guilde.courses.fugue_du_crabe" GUID="qaGMVLDJS0KeSXezeu4wlw=="/>
+			<POI MapID="873" xpos="354.946" ypos="7.83425"   zpos="-204.123"  type="missions_de_guilde.courses.fugue_du_crabe" GUID="2H8QJidzIUGpd9zOTCOp0g=="/>
+			<POI MapID="873" xpos="357.397" ypos="6.00016"   zpos="-212.43"   type="missions_de_guilde.courses.fugue_du_crabe" GUID="swCXuc5Kq0mbOS7upofzew=="/>
+			<POI MapID="873" xpos="358.687" ypos="1.98514"   zpos="-222.198"  type="missions_de_guilde.courses.fugue_du_crabe" GUID="dyxmkN4JlUiYDwvHJA/eiA=="/>
+			<POI MapID="873" xpos="377.326" ypos="0.549492"  zpos="-228.471"  type="missions_de_guilde.courses.fugue_du_crabe" GUID="Kh4NgNafeEWY5hw0i2+jGg=="/>
+			<POI MapID="873" xpos="395.548" ypos="0.89921"   zpos="-227.636"  type="missions_de_guilde.courses.fugue_du_crabe" GUID="JB+unGV/XUiOIGWZmp8HNg=="/>
+			<POI MapID="873" xpos="404"     ypos="1.7"       zpos="-232.41"   type="missions_de_guilde.courses.fugue_du_crabe" GUID="NTg1NmQ1YTg0ODY4NQ=="/>
+			<POI MapID="873" xpos="407.558" ypos="0.979464"  zpos="-243.032"  type="missions_de_guilde.courses.fugue_du_crabe" GUID="FKd8RDPA10aWAqfSzJ4Zrg=="/>
+			<POI MapID="873" xpos="418.558" ypos="-0.483546" zpos="-257.428"  type="missions_de_guilde.courses.fugue_du_crabe" GUID="U8usLm6k+kS2CRK0dyWU0Q=="/>
+			<POI MapID="873" xpos="426.479" ypos="-0.110412" zpos="-267.388"  type="missions_de_guilde.courses.fugue_du_crabe" GUID="Cez8zbGLv06Bp6XdrHge2g=="/>
+			<POI MapID="873" xpos="433.898" ypos="0.0893369" zpos="-280.449"  type="missions_de_guilde.courses.fugue_du_crabe" GUID="C+7lrCefFkaEyhorbIBjpQ=="/>
+			<POI MapID="873" xpos="438.72"  ypos="0.524812"  zpos="-291.988"  type="missions_de_guilde.courses.fugue_du_crabe" GUID="t4pvX0o7nU+rJmhO1cmOlg=="/>
+			<POI MapID="873" xpos="441.483" ypos="0.722163"  zpos="-301.327"  type="missions_de_guilde.courses.fugue_du_crabe" GUID="3mw7jsl2v06dmWDZTPlnsQ=="/>
+			<POI MapID="873" xpos="443.552" ypos="0.666257"  zpos="-308.922"  type="missions_de_guilde.courses.fugue_du_crabe" GUID="2BoJFzEZV0C7o3GpOkJDUA=="/>
+			<POI MapID="873" xpos="446.386" ypos="0.716955"  zpos="-317.419"  type="missions_de_guilde.courses.fugue_du_crabe" GUID="bimi3W4+Qk2WYaJheYGXyA=="/>
+			<POI MapID="873" xpos="452.186" ypos="4.05634"   zpos="-321.751"  type="missions_de_guilde.courses.fugue_du_crabe" GUID="8mW0ZWofNkGlh/eKFuphag=="/>
+			<POI MapID="873" xpos="456.868" ypos="7.54443"   zpos="-322.762"  type="missions_de_guilde.courses.fugue_du_crabe" GUID="lxUqJVLkOEKcyt1oJSh5hw=="/>
+			<POI MapID="873" xpos="462.466" ypos="10.6837"   zpos="-319.148"  type="missions_de_guilde.courses.fugue_du_crabe" GUID="xGyo/vDIuUyW3a/JSjSPpg=="/>
+			<POI MapID="873" xpos="473.527" ypos="15.015"    zpos="-310.678"  type="missions_de_guilde.courses.fugue_du_crabe" GUID="iXFsew9GZEKJd5t64FinwQ=="/>
+			<POI MapID="873" xpos="477.578" ypos="18.4077"   zpos="-301.432"  type="missions_de_guilde.courses.fugue_du_crabe" GUID="n04PQ0Zh0kiEpG7wt+M2zA=="/>
+			<POI MapID="873" xpos="483.956" ypos="26.5126"   zpos="-284.378"  type="missions_de_guilde.courses.fugue_du_crabe" GUID="HnFj4I1vWkeWXRZC4ZBKRQ=="/>
+			<POI MapID="873" xpos="491.922" ypos="30.1222"   zpos="-277.784"  type="missions_de_guilde.courses.fugue_du_crabe" GUID="gGdV6FB8BkaobwxsxLQocg=="/>
+			<POI MapID="873" xpos="500.577" ypos="34.7569"   zpos="-273.518"  type="missions_de_guilde.courses.fugue_du_crabe" GUID="2U3PQgFc8kqt4/39EuHi0Q=="/>
+			<POI MapID="873" xpos="510.028" ypos="38.5225"   zpos="-270.076"  type="missions_de_guilde.courses.fugue_du_crabe" GUID="P/TW9+3Z+0SJHtcexaC3iQ=="/>
+			<POI MapID="873" xpos="520.173" ypos="39.4084"   zpos="-263.645"  type="missions_de_guilde.courses.fugue_du_crabe" GUID="DZnz0Q4dMEWbVqZsNjFUVA=="/>
+			<POI MapID="873" xpos="528.988" ypos="40.3027"   zpos="-256.482"  type="missions_de_guilde.courses.fugue_du_crabe" GUID="H8GuEqu9xEeDUz2WlZP2aQ=="/>
+			<POI MapID="873" xpos="531.252" ypos="39.754"    zpos="-246.336"  type="missions_de_guilde.courses.fugue_du_crabe" GUID="wgrhdHkd2k+A2tJQxUqqKw=="/>
+			<POI MapID="873" xpos="534.744" ypos="39.1362"   zpos="-236.695"  type="missions_de_guilde.courses.fugue_du_crabe" GUID="FRt20X4utkKtLHsezOxd/A=="/>
+			<POI MapID="873" xpos="544.123" ypos="37.536"    zpos="-229.597"  type="missions_de_guilde.courses.fugue_du_crabe" GUID="cr/S1Au0z0yPhza4sFsHng=="/>
+			<POI MapID="873" xpos="555.359" ypos="35.7087"   zpos="-223.6"    type="missions_de_guilde.courses.fugue_du_crabe" GUID="VOtBIs0vCUu3CDbXX/9Tzw=="/>
+			<POI MapID="873" xpos="576.158" ypos="33.8521"   zpos="-205.357"  type="missions_de_guilde.courses.fugue_du_crabe" GUID="AEZXfc+RsUuLXo+xK68Taw=="/>
+			<POI MapID="873" xpos="586.028" ypos="32.6691"   zpos="-198.573"  type="missions_de_guilde.courses.fugue_du_crabe" GUID="NE2TFR6WNESuoe93eUqO6A=="/>
+			<POI MapID="873" xpos="592.524" ypos="34.1179"   zpos="-186.078"  type="missions_de_guilde.courses.fugue_du_crabe" GUID="mmtND1JezkaDvKlrlq96Dw=="/>
+			<POI MapID="873" xpos="586.04"  ypos="33.5639"   zpos="-180.35"   type="missions_de_guilde.courses.fugue_du_crabe" GUID="3k78T8iFyESCK6hCe9mF9A=="/>
+			<POI MapID="873" xpos="578.655" ypos="31.8581"   zpos="-172.938"  type="missions_de_guilde.courses.fugue_du_crabe" GUID="CiLaYi2CEEyyWvBBU8R1RA=="/>
+			<POI MapID="873" xpos="566.299" ypos="32.1904"   zpos="-168.485"  type="missions_de_guilde.courses.fugue_du_crabe" GUID="iq8yfWa6ZU+MGWPD+OnFvg=="/>
+			<POI MapID="873" xpos="554.339" ypos="32.7599"   zpos="-164.297"  type="missions_de_guilde.courses.fugue_du_crabe" GUID="TRrTElnnH0G8K5pwTBd21A=="/>
+			<POI MapID="873" xpos="545.216" ypos="33.2444"   zpos="-157.008"  type="missions_de_guilde.courses.fugue_du_crabe" GUID="w79LCQhZuUSmhl0FTsbi8A=="/>
+			<POI MapID="873" xpos="539.095" ypos="33.974"    zpos="-146.81"   type="missions_de_guilde.courses.fugue_du_crabe" GUID="PHsKeTJuj0ii3etZhjBNow=="/>
+			<POI MapID="873" xpos="535.401" ypos="35.0256"   zpos="-133.812"  type="missions_de_guilde.courses.fugue_du_crabe" GUID="2Qoxlq/Tt0OkAAA+2MYjIg=="/>
+			<POI MapID="873" xpos="532.58"  ypos="35.7436"   zpos="-119.491"  type="missions_de_guilde.courses.fugue_du_crabe" GUID="qWXLr7++wE2cuTaD/0th0Q=="/>
+			<POI MapID="873" xpos="531.359" ypos="36.5155"   zpos="-108.317"  type="missions_de_guilde.courses.fugue_du_crabe" GUID="KzRABTSWa0Wj/WLz8VMszQ=="/>
+			<POI MapID="873" xpos="530.566" ypos="36.7185"   zpos="-96.4033"  type="missions_de_guilde.courses.fugue_du_crabe" GUID="+JlUsQcV4E64akAdEauGmg=="/>
+			<POI MapID="873" xpos="529.181" ypos="36.9141"   zpos="-86.6583"  type="missions_de_guilde.courses.fugue_du_crabe" GUID="cvdUv7o75EadOmYf/46/HQ=="/>
+			<POI MapID="873" xpos="518.82"  ypos="39.34"     zpos="-70.79"    type="missions_de_guilde.courses.fugue_du_crabe" GUID="SHUVw1xKT0KSlP/nrdVGuA=="/>
+			<POI MapID="873" xpos="523.35"  ypos="37.44"     zpos="-79.11"    type="missions_de_guilde.courses.fugue_du_crabe" GUID="ZMcrybjLUUyCJ4EaYSS8qw=="/>
+			<POI MapID="873" xpos="525.813" ypos="36.9696"   zpos="-90.2949"  type="missions_de_guilde.courses.fugue_du_crabe" GUID="Gk5cfjiqEEWJuuwoswFEkQ=="/>
+			<POI MapID="873" xpos="522.339" ypos="36.7763"   zpos="-95.5964"  type="missions_de_guilde.courses.fugue_du_crabe" GUID="m4jFcZRhY0+vRdiCRlWqeg=="/>
+			<POI MapID="873" xpos="516.958" ypos="36.9"      zpos="-99.6989"  type="missions_de_guilde.courses.fugue_du_crabe" GUID="QEzYZ/1oAEW5coKjPkzVFg=="/>
+			<POI MapID="873" xpos="505.606" ypos="37.4577"   zpos="-104.35"   type="missions_de_guilde.courses.fugue_du_crabe" GUID="/tJLMKP5VEqHYzZdueqo4g=="/>
+			<POI MapID="873" xpos="493.223" ypos="39.6999"   zpos="-107.079"  type="missions_de_guilde.courses.fugue_du_crabe" GUID="37QtFS8aK0iEeFV6vfmiBg=="/>
+			<POI MapID="873" xpos="484.861" ypos="41.8387"   zpos="-108.39"   type="missions_de_guilde.courses.fugue_du_crabe" GUID="nzlr0xcoIEiLhAwmj5nFpA=="/>
+			<POI MapID="873" xpos="474.999" ypos="45.327"    zpos="-103.286"  type="missions_de_guilde.courses.fugue_du_crabe" GUID="A7LoPvz6YkCtuAg7k3W6Yw=="/>
+			<POI MapID="873" xpos="463.148" ypos="48.8254"   zpos="-97.1878"  type="missions_de_guilde.courses.fugue_du_crabe" GUID="2CGOiCVh4EuX2ux+btk11g=="/>
+			<POI MapID="873" xpos="449.977" ypos="52.0668"   zpos="-93.0469"  type="missions_de_guilde.courses.fugue_du_crabe" GUID="Dv7OOxzKMkavshwZg5YfqQ=="/>
+			<POI MapID="873" xpos="435.622" ypos="53.4113"   zpos="-89.2688"  type="missions_de_guilde.courses.fugue_du_crabe" GUID="s8ZquD0200WcHIjFy1ZeEg=="/>
+			<POI MapID="873" xpos="422.366" ypos="54.692"    zpos="-85.9365"  type="missions_de_guilde.courses.fugue_du_crabe" GUID="caBxc7X1QUua48bovlQYhw=="/>
+			<POI MapID="873" xpos="412.643" ypos="57.4496"   zpos="-81.7839"  type="missions_de_guilde.courses.fugue_du_crabe" GUID="S7bKWFiQDU6ECKGZa6vKew=="/>
+			<POI MapID="873" xpos="405.274" ypos="58.6054"   zpos="-72.9362"  type="missions_de_guilde.courses.fugue_du_crabe" GUID="HN+t0fkwlEiAH9ckg7o9mA=="/>
+			<POI MapID="873" xpos="401.468" ypos="60.7942"   zpos="-63.5154"  type="missions_de_guilde.courses.fugue_du_crabe" GUID="Bu7tuwcCTUKGzwD7wU/QJQ=="/>
+			<POI MapID="873" xpos="397.691" ypos="64.7361"   zpos="-53.6765"  type="missions_de_guilde.courses.fugue_du_crabe" GUID="qB4t8J6uB0yAQMjPQsE1FA=="/>
+			<POI MapID="873" xpos="395.99"  ypos="67.4457"   zpos="-45.6992"  type="missions_de_guilde.courses.fugue_du_crabe" GUID="A35R7ULZ7k6p4bhmxt0W3w=="/>
+			<POI MapID="873" xpos="395.004" ypos="70.2034"   zpos="-36.2099"  type="missions_de_guilde.courses.fugue_du_crabe" GUID="4mHnSkjHMUaSJAPiRXfE4w=="/>
+			<POI MapID="873" xpos="393.515" ypos="70.9474"   zpos="-30.6058"  type="missions_de_guilde.courses.fugue_du_crabe" GUID="QAkO0If3c0KCF1slHQ/7kg=="/>
+			<POI MapID="873" xpos="382.096" ypos="47.0306"   zpos="-46.9301"  type="missions_de_guilde.courses.fugue_du_crabe" GUID="rqeTUGTtqEGBDG3JsWyqsA=="/>
+			<POI MapID="873" xpos="382.996" ypos="49.656"    zpos="-56.1139"  type="missions_de_guilde.courses.fugue_du_crabe" GUID="hXco3FNz4EehfZIrKXczMA=="/>
+			<POI MapID="873" xpos="373.6"   ypos="46.8503"   zpos="-62.2223"  type="missions_de_guilde.courses.fugue_du_crabe" GUID="mb84Lcbjf0OLAdk1pEpbGQ=="/>
+			<POI MapID="873" xpos="359.747" ypos="43.2859"   zpos="-66.5761"  type="missions_de_guilde.courses.fugue_du_crabe" GUID="TFayJ+ttLEyReWDPgICGWg=="/>
+			<POI MapID="873" xpos="350.16"  ypos="41.6651"   zpos="-69.5388"  type="missions_de_guilde.courses.fugue_du_crabe" GUID="6+CJnhrSNkaEEPbpbyYKQw=="/>
+			<POI MapID="873" xpos="341.191" ypos="38.7165"   zpos="-74.4764"  type="missions_de_guilde.courses.fugue_du_crabe" GUID="X8G4cvf3LUKQgpaqzU+gIA=="/>
+			<POI MapID="873" xpos="332.82"  ypos="39.3035"   zpos="-88.4965"  type="missions_de_guilde.courses.fugue_du_crabe" GUID="aDcDlninrkulZ57f8JqtlQ=="/>
+			<POI MapID="873" xpos="326.187" ypos="40.8056"   zpos="-93.7037"  type="missions_de_guilde.courses.fugue_du_crabe" GUID="unUnTiRpWkaM6XPiM00/Ew=="/>
+			<POI MapID="873" xpos="317.544" ypos="40.8596"   zpos="-96.6416"  type="missions_de_guilde.courses.fugue_du_crabe" GUID="Oh2EHHBUiE+l3AoSFy37Dg=="/>
+			<POI MapID="873" xpos="296.934" ypos="41.6476"   zpos="-101.46"   type="missions_de_guilde.courses.fugue_du_crabe" GUID="SpF0JvP04EKZ2bx/OSxVLA=="/>
+			<POI MapID="873" xpos="263.542" ypos="46.6878"   zpos="-97.5404"  type="missions_de_guilde.courses.fugue_du_crabe" GUID="exaDAR4xn0adCt+D8iXJsw=="/>
+			<POI MapID="873" xpos="243.798" ypos="48.4803"   zpos="-90.7834"  type="missions_de_guilde.courses.fugue_du_crabe" GUID="jWHU4T8wj0OQPPoJILYvPA=="/>
+			<POI MapID="873" xpos="221.331" ypos="48.4147"   zpos="-82.8191"  type="missions_de_guilde.courses.fugue_du_crabe" GUID="3leXzrVRGE2Fbn4nPox68A=="/>
+			<POI MapID="873" xpos="202.098" ypos="48.4172"   zpos="-75.6604"  type="missions_de_guilde.courses.fugue_du_crabe" GUID="yKd4ujTQX0e8XfmLH0NLuA=="/>
+			<POI MapID="873" xpos="185.971" ypos="46.1229"   zpos="-68.2176"  type="missions_de_guilde.courses.fugue_du_crabe" GUID="R9bSWeKGRU+HY5qLdjWIng=="/>
+			<POI MapID="873" xpos="181.268" ypos="46.2291"   zpos="-64.1252"  type="missions_de_guilde.courses.fugue_du_crabe" GUID="Bn9ZB5HMtES4coA209LOYw=="/>
+			<POI MapID="873" xpos="173.736" ypos="46.1008"   zpos="-62.2391"  type="missions_de_guilde.courses.fugue_du_crabe" GUID="8YgTfCHQxE64SMbT+U28gg=="/>
+			<POI MapID="873" xpos="162.258" ypos="46.2633"   zpos="-56.2581"  type="missions_de_guilde.courses.fugue_du_crabe" GUID="RhsLCzGBsEGSN34tMBLbmw=="/>
+			<POI MapID="873" xpos="156.877" ypos="46.2616"   zpos="-52.5214"  type="missions_de_guilde.courses.fugue_du_crabe" GUID="OEG3vmHfQU6WAIW9LKt8yg=="/>
+			<POI MapID="873" xpos="144.909" ypos="46.3045"   zpos="-52.4155"  type="missions_de_guilde.courses.fugue_du_crabe" GUID="dVCcpJOi00Svi4TGjd9qcg=="/>
+			<POI MapID="873" xpos="139.52"  ypos="46.2622"   zpos="-55.1996"  type="missions_de_guilde.courses.fugue_du_crabe" GUID="lzyMRFNCsUiPZ0X9jcZGPA=="/>
+			<POI MapID="873" xpos="127.215" ypos="45.6928"   zpos="-57.1087"  type="missions_de_guilde.courses.fugue_du_crabe" GUID="s7CnzFf7pU+510I5WZDqdQ=="/>
+			<POI MapID="873" xpos="133.108" ypos="45.9426"   zpos="-55.5413"  type="missions_de_guilde.courses.fugue_du_crabe" GUID="scm0JbH0yUOvjTnDpbVh8Q=="/>
+			<POI MapID="873" xpos="114.936" ypos="45.0474"   zpos="-60.1885"  type="missions_de_guilde.courses.fugue_du_crabe" GUID="y87qyNaKh0WcpZxso7EvXg=="/>
+			<POI MapID="873" xpos="107.873" ypos="44.8767"   zpos="-63.8454"  type="missions_de_guilde.courses.fugue_du_crabe" GUID="4lZRvPdc9UqxLP1JKg+dsg=="/>
+		</Route>
+
+		<!-- Arrivée -->
+		<POI MapID="873" xpos="98.1359" ypos="43.8241"   zpos="-72.0608" type="missions_de_guilde.courses.fugue_du_crabe" GUID="I0wIJbGnWkKYVQLsOkiA9Q==" iconFile="Img\DrapeauArrivee.png" iconSize="1"/>
+
+		<!-- Drapeaux de Passage -->
+		<POI MapID="873" xpos="566.32"  ypos="34.4118"   zpos="-216.313" type="missions_de_guilde.courses.fugue_du_crabe.drapeaux" GUID="8X21QssTHEumrVejcb24yg=="/>
+		<POI MapID="873" xpos="525.088" ypos="37.3774"   zpos="-77.599"  type="missions_de_guilde.courses.fugue_du_crabe.drapeaux" GUID="LQcs2MFhlECY6HXIxX7VpQ=="/>
+		<POI MapID="873" xpos="478.303" ypos="20.5724"   zpos="-296.368" type="missions_de_guilde.courses.fugue_du_crabe.drapeaux" GUID="VEI1unxCX06hBvVKFVvwiQ=="/>
+		<POI MapID="873" xpos="395.001" ypos="49.3946"   zpos="-31.6149" type="missions_de_guilde.courses.fugue_du_crabe.drapeaux" GUID="30SaHUiejUqMxp3WZiXRrA=="/>
+		<POI MapID="873" xpos="365.06"  ypos="0.672715"  zpos="-229.323" type="missions_de_guilde.courses.fugue_du_crabe.drapeaux" GUID="XvNTJ8UuRkmPeYEYdBFMWg=="/>
+		<POI MapID="873" xpos="339.99"  ypos="4.64"      zpos="-57.81"   type="missions_de_guilde.courses.fugue_du_crabe.drapeaux" GUID="Z0W2vRpap0Gu2u7OLNnlPw=="/>
+		<POI MapID="873" xpos="282.231" ypos="44.8313"   zpos="-102.578" type="missions_de_guilde.courses.fugue_du_crabe.drapeaux" GUID="ZY6BZmjvQkqOFM9V2KqQhw=="/>
+		<POI MapID="873" xpos="267.978" ypos="-0.676427" zpos="97.3898"  type="missions_de_guilde.courses.fugue_du_crabe.drapeaux" GUID="kPIqNBnyREiOTnM/1uyO2A=="/>
+		<POI MapID="873" xpos="130.369" ypos="46.6175"   zpos="-43.9965" type="missions_de_guilde.courses.fugue_du_crabe.drapeaux" GUID="eMf/kSKg3U+qifReTNvL0Q=="/>
+
+		<!-- Pièges Tas de Sable Explosif -->
+		<POI MapID="873" xpos="584.515" ypos="33.1921"   zpos="-185.693" type="missions_de_guilde.courses.fugue_du_crabe.pieges" GUID="PRVyZF5QykmBLLyZeCEE3g=="/>
+		<POI MapID="873" xpos="578.538" ypos="33.0804"   zpos="-188.126" type="missions_de_guilde.courses.fugue_du_crabe.pieges" GUID="q5thk93e/Emtvjg9uZOSPA=="/>
+		<POI MapID="873" xpos="571.636" ypos="34.4362"   zpos="-194.868" type="missions_de_guilde.courses.fugue_du_crabe.pieges" GUID="HP26STQPqUC1+SS6D0ByMg=="/>
+		<POI MapID="873" xpos="567.951" ypos="31.7779"   zpos="-128.913" type="missions_de_guilde.courses.fugue_du_crabe.pieges" GUID="jIGzHXuJUE+zbzjkB5rGqw=="/>
+		<POI MapID="873" xpos="565.236" ypos="32.2654"   zpos="-124.888" type="missions_de_guilde.courses.fugue_du_crabe.pieges" GUID="boE3sW+TDUWyuDRJ5dMFIw=="/>
+		<POI MapID="873" xpos="560.674" ypos="32.1386"   zpos="-129.683" type="missions_de_guilde.courses.fugue_du_crabe.pieges" GUID="VfN0jahzYk+B0eAFu/9nBw=="/>
+		<POI MapID="873" xpos="545.374" ypos="37.2774"   zpos="-97.774"  type="missions_de_guilde.courses.fugue_du_crabe.pieges" GUID="TiCGTcqHeEmVKY8qMbHSDw=="/>
+		<POI MapID="873" xpos="522.816" ypos="41.5695"   zpos="-56.6315" type="missions_de_guilde.courses.fugue_du_crabe.pieges" GUID="nxOUNxtbTE6cBiqVZkfkVw=="/>
+		<POI MapID="873" xpos="520.871" ypos="37.4354"   zpos="-85.8071" type="missions_de_guilde.courses.fugue_du_crabe.pieges" GUID="shFmI6lBZ0OS18h464rTLA=="/>
+		<POI MapID="873" xpos="517.955" ypos="45.1555"   zpos="-42.207"  type="missions_de_guilde.courses.fugue_du_crabe.pieges" GUID="qkYSbqM/QkengeN4Xf9iug=="/>
+		<POI MapID="873" xpos="510.205" ypos="46.9384"   zpos="-41.8227" type="missions_de_guilde.courses.fugue_du_crabe.pieges" GUID="OKDYUoPzkECIrnmFRaIKkg=="/>
+		<POI MapID="873" xpos="504.293" ypos="39.8913"   zpos="-73.1771" type="missions_de_guilde.courses.fugue_du_crabe.pieges" GUID="Dea4YL6kPEaVoGmUPRAmTw=="/>
+		<POI MapID="873" xpos="473.308" ypos="49.5224"   zpos="-20.2787" type="missions_de_guilde.courses.fugue_du_crabe.pieges" GUID="v3kP51FXXkyv1CCQ2CTSDA=="/>
+		<POI MapID="873" xpos="472.897" ypos="50.3234"   zpos="-11.6668" type="missions_de_guilde.courses.fugue_du_crabe.pieges" GUID="02WlDyXMV0uz5IZJhzpd9w=="/>
+		<POI MapID="873" xpos="472.639" ypos="17.7052"   zpos="-301.032" type="missions_de_guilde.courses.fugue_du_crabe.pieges" GUID="fII51Qx4LEe+KDBuigG3Ww=="/>
+		<POI MapID="873" xpos="453.521" ypos="7.92396"   zpos="-304.124" type="missions_de_guilde.courses.fugue_du_crabe.pieges" GUID="ORB+gauRME2LGFPaSUk6Zw=="/>
+		<POI MapID="873" xpos="451.36"  ypos="4.21682"   zpos="-309.371" type="missions_de_guilde.courses.fugue_du_crabe.pieges" GUID="BUqLVgvw20GEc59oaupuUQ=="/>
+		<POI MapID="873" xpos="449.597" ypos="4.71623"   zpos="-303.35"  type="missions_de_guilde.courses.fugue_du_crabe.pieges" GUID="5VGv1XdtJk202QvZ6bzGBQ=="/>
+		<POI MapID="873" xpos="448.698" ypos="4.54582"   zpos="-297.17"  type="missions_de_guilde.courses.fugue_du_crabe.pieges" GUID="q2QYu4yEPE+Io8JcIxLUEg=="/>
+		<POI MapID="873" xpos="416.65"  ypos="0.565036"  zpos="-242.667" type="missions_de_guilde.courses.fugue_du_crabe.pieges" GUID="XfBFoK96WUK12oZjG0LAXQ=="/>
+		<POI MapID="873" xpos="378.397" ypos="0.60105"   zpos="-221.009" type="missions_de_guilde.courses.fugue_du_crabe.pieges" GUID="MykOQf09Ukiqs4PEVzVdTg=="/>
+		<POI MapID="873" xpos="350.15"  ypos="6.44923"   zpos="-207.241" type="missions_de_guilde.courses.fugue_du_crabe.pieges" GUID="G8q5YpQo+UKKvxlYdYmqWg=="/>
+		<POI MapID="873" xpos="345.371" ypos="0.451406"  zpos="-229.279" type="missions_de_guilde.courses.fugue_du_crabe.pieges" GUID="xcopeI1OHUO6winQMbaPLw=="/>
+		<POI MapID="873" xpos="342.929" ypos="5.09796"   zpos="-56.69"   type="missions_de_guilde.courses.fugue_du_crabe.pieges" GUID="6Zfq+Nm13k+GuDumCPcw8w=="/>
+		<POI MapID="873" xpos="337.907" ypos="3.57293"   zpos="-55.8664" type="missions_de_guilde.courses.fugue_du_crabe.pieges" GUID="iuRFFZoSHE6eX+vbFit5NA=="/>
+		<POI MapID="873" xpos="336.609" ypos="11.1125"   zpos="-81.9078" type="missions_de_guilde.courses.fugue_du_crabe.pieges" GUID="pL7vrR//c0GHfdoxrrCt4w=="/>
+		<POI MapID="873" xpos="334.259" ypos="3.81552"   zpos="-59.8313" type="missions_de_guilde.courses.fugue_du_crabe.pieges" GUID="26nfAWg0mEiLWIZ28nOn/g=="/>
+		<POI MapID="873" xpos="327.034" ypos="0.508634"  zpos="-153.417" type="missions_de_guilde.courses.fugue_du_crabe.pieges" GUID="MgUPdSX+O0GRlWqy54dU0A=="/>
+		<POI MapID="873" xpos="305.346" ypos="0.803015"  zpos="-200.578" type="missions_de_guilde.courses.fugue_du_crabe.pieges" GUID="cCMAXdoSuE2Xngn0in8k7g=="/>
+		<POI MapID="873" xpos="304.701" ypos="0.464843"  zpos="-142.883" type="missions_de_guilde.courses.fugue_du_crabe.pieges" GUID="TFdMoLupCkS1SJzNPpZanQ=="/>
+		<POI MapID="873" xpos="291.178" ypos="0.676839"  zpos="-181.985" type="missions_de_guilde.courses.fugue_du_crabe.pieges" GUID="g/lpgFBkkUS3UMfInuHkqw=="/>
+		<POI MapID="873" xpos="289.465" ypos="0.818329"  zpos="-161.508" type="missions_de_guilde.courses.fugue_du_crabe.pieges" GUID="mqjt6HVBWEi5z5TkOuOIPg=="/>
+		<POI MapID="873" xpos="287.59"  ypos="0.61"      zpos="-162.93"  type="missions_de_guilde.courses.fugue_du_crabe.pieges" GUID="EiJ0MsXWWEGfzm9qFvWR9Q=="/>
+		<POI MapID="873" xpos="286.4"   ypos="0.73466"   zpos="-165.748" type="missions_de_guilde.courses.fugue_du_crabe.pieges" GUID="6mBbjFJ2wkG82sJBBZY6jQ=="/>
+		<POI MapID="873" xpos="279.535" ypos="2.2636"    zpos="103.817"  type="missions_de_guilde.courses.fugue_du_crabe.pieges" GUID="KjgcRP127Uix3XCP0EJm/w=="/>
+		<POI MapID="873" xpos="275.846" ypos="0.0149722" zpos="98.8066"  type="missions_de_guilde.courses.fugue_du_crabe.pieges" GUID="1KwjvbPaqk2ytJNYkVsVFA=="/>
+		<POI MapID="873" xpos="178.124" ypos="46.1101"   zpos="-68.7241" type="missions_de_guilde.courses.fugue_du_crabe.pieges" GUID="UvX6ehk3iES7ab2fKL48YA=="/>
+		<POI MapID="873" xpos="174.775" ypos="46.1353"   zpos="-57.062"  type="missions_de_guilde.courses.fugue_du_crabe.pieges" GUID="e8zVT2CbrEOidI6lTO1MtA=="/>
+		<POI MapID="873" xpos="163.776" ypos="46.1535"   zpos="-70.0488" type="missions_de_guilde.courses.fugue_du_crabe.pieges" GUID="wtbQAtTIskCf1ZQE+xE4ow=="/>
+		<POI MapID="873" xpos="161.557" ypos="46.6455"   zpos="-48.2243" type="missions_de_guilde.courses.fugue_du_crabe.pieges" GUID="AueFut3I2kqhazKd4WYmDA=="/>
+		<POI MapID="873" xpos="144.232" ypos="46.7887"   zpos="-34.7069" type="missions_de_guilde.courses.fugue_du_crabe.pieges" GUID="SezOoM/k3kOru1O0XKjWfQ=="/>
+		<POI MapID="873" xpos="139.408" ypos="46.3333"   zpos="-50.28"   type="missions_de_guilde.courses.fugue_du_crabe.pieges" GUID="6kUmxe6I4EaiO5TWFTnlBA=="/>
+		<POI MapID="873" xpos="125.492" ypos="45.8904"   zpos="-75.8627" type="missions_de_guilde.courses.fugue_du_crabe.pieges" GUID="ghvYldkYPk6aS6qr41td4w=="/>
+		<POI MapID="873" xpos="123.533" ypos="45.3728"   zpos="-62.72"   type="missions_de_guilde.courses.fugue_du_crabe.pieges" GUID="6mSr7iUyiEug4jxv6LQirQ=="/>
+		<POI MapID="873" xpos="110.031" ypos="44.8646"   zpos="-42.9662" type="missions_de_guilde.courses.fugue_du_crabe.pieges" GUID="gtEP0GJo50u/ZIlo+tjYPA=="/>
+		<POI MapID="873" xpos="100.26"  ypos="44.8757"   zpos="-38.4189" type="missions_de_guilde.courses.fugue_du_crabe.pieges" GUID="FTWWZprEUU608UrQ6iVKzA=="/>
+		<POI MapID="873" xpos="95.7552" ypos="44.3641"   zpos="-55.304"  type="missions_de_guilde.courses.fugue_du_crabe.pieges" GUID="n6AKPEw+/k+T7oDqZIm/Wg=="/>
+
+		<!-- Signalisations Spéciales -->
+		<POI MapID="873" xpos="511.433" ypos="40.2177"   zpos="-68.0292" type="missions_de_guilde.courses.fugue_du_crabe" GUID="x90dNV29ckO4g4M6D0NARA==" iconFile="Img\DemiTour.png" fadeFar="2000" fadeNear="1000"/>
+		<POI MapID="873" xpos="340.354" ypos="2.86267"   zpos="-53.5084" type="missions_de_guilde.courses.fugue_du_crabe" GUID="dpdVgNp2gEqPrVKYnQtREg==" iconFile="Img\DangerDoubleEsquive-EN.png" fadeFar="2000" fadeNear="1000"/>
+		<POI MapID="873" xpos="299.412" ypos="0.158708"  zpos="-151.011" type="missions_de_guilde.courses.fugue_du_crabe" GUID="vbpfg01qX0SeRD7LA/WzMw==" iconFile="Img\SensInterdit.png" fadeFar="2000" fadeNear="1000"/>
+
+	</POIs>
+</OverlayData>

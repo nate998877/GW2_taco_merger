@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+POIs:  ReActif.9251 - TMKFrench.6427
+Date:  2017/08/14
+Notes: Les coffres des puzzles sauts et ceux accessibles que par le puzzle ne seront pas indiqué !
+       EV : Coffres après Event
+       FB : Coffres après Combat / Boss / World Boss
+       PJ : Coffres de fin des puzzles sauts.
+       PA : Coffres accessibles uniquement par un puzzle.
+       SE : Coffres de Succès : Explorateur
+-->
+<OverlayData>
+	<MarkerCategory name="coffres.permanents">
+		<MarkerCategory name="saison_3" DisplayName="Season 3">
+			<MarkerCategory name="confins_de_givramer" DisplayName="Bitterfrost Frontier" iconFile="Img\CoffrePrisonglace.png" heightOffset="2"/>
+			<MarkerCategory name="lac_doric" DisplayName="Lake Doric"/>
+			<MarkerCategory name="plage_des_sirenes" DisplayName="Siren's Landing" heightOffset="1.5"/>
+		</MarkerCategory>
+	</MarkerCategory>
+
+	<POIs>
+
+		<!--
+		Confins de Givramer
+		-->
+
+		<POI MapID="1178" xpos="-744.562" ypos="0.231929" zpos="-171.612" type="coffres.permanents.saison_3.confins_de_givramer" GUID="9U8/D5tmOEa0m4S7zlhUCw=="/>
+		<POI MapID="1178" xpos="-738.058" ypos="0.157903" zpos="-335.423" type="coffres.permanents.saison_3.confins_de_givramer" GUID="8x025/rSH0WSsvnhPl1vfQ=="/>
+		<POI MapID="1178" xpos="-734.331" ypos="36.7942" zpos="-69.5414" type="coffres.permanents.saison_3.confins_de_givramer" GUID="GCdbjgDbFEC3vVaYQ4bX0Q=="/>
+		<POI MapID="1178" xpos="-668.743" ypos="113.227" zpos="183.204" type="coffres.permanents.saison_3.confins_de_givramer" GUID="ZHH5+9yecUWOJMaWyL/vzg=="/>
+		<POI MapID="1178" xpos="-667.029" ypos="1.07128" zpos="-219.366" type="coffres.permanents.saison_3.confins_de_givramer" GUID="InByyEg3ZEqyeRNOYmoNwA=="/>
+		<POI MapID="1178" xpos="-652.048" ypos="58.4588" zpos="279.608" type="coffres.permanents.saison_3.confins_de_givramer" GUID="FszRInjzbkGyhj2GdFvT7w=="/>
+		<POI MapID="1178" xpos="-639.115" ypos="1.32991" zpos="-100.349" type="coffres.permanents.saison_3.confins_de_givramer" GUID="zMIElaEQtkK2qO0LKC8UsQ=="/>
+		<POI MapID="1178" xpos="-620.775" ypos="91.9973" zpos="102.071" type="coffres.permanents.saison_3.confins_de_givramer" GUID="Xu1DabnDNEKdjdZOz+6g2g=="/>
+		<POI MapID="1178" xpos="-619.044" ypos="1.11218" zpos="-54.2898" type="coffres.permanents.saison_3.confins_de_givramer" GUID="v+e9zDB2SkKP9EcKOPsLQQ=="/>
+		<POI MapID="1178" xpos="-617.944" ypos="0.367782" zpos="-139.949" type="coffres.permanents.saison_3.confins_de_givramer" GUID="N0gAR3PaNkClnNqxZRTvEA=="/>
+		<POI MapID="1178" xpos="-606.302" ypos="80.3701" zpos="54.0234" type="coffres.permanents.saison_3.confins_de_givramer" GUID="OQt1ogwSWkqmfb/hjxzQOw=="/>
+		<POI MapID="1178" xpos="-600.012" ypos="0.233686" zpos="-219.123" type="coffres.permanents.saison_3.confins_de_givramer" GUID="kPtA5Do4UU+msiO2RUTKPw=="/>
+		<POI MapID="1178" xpos="-583.159" ypos="0.189813" zpos="-288.926" type="coffres.permanents.saison_3.confins_de_givramer" GUID="C8av56V4S0G1yr5PTscwnA=="/>
+		<POI MapID="1178" xpos="-558.681" ypos="0.156675" zpos="-149.196" type="coffres.permanents.saison_3.confins_de_givramer" GUID="yUF/numpE0SAQKV7NR8uCw=="/>
+		<POI MapID="1178" xpos="-544.234" ypos="1.02056" zpos="-292.132" type="coffres.permanents.saison_3.confins_de_givramer" GUID="LTYjMT7mUUmSDanYZWQDQw=="/>
+		<POI MapID="1178" xpos="-541.602" ypos="82.6539" zpos="165.954" type="coffres.permanents.saison_3.confins_de_givramer" GUID="ipEHYAq6dU6DGyChhYvv+A=="/>
+		<POI MapID="1178" xpos="-526.069" ypos="10.7354" zpos="-200.349" type="coffres.permanents.saison_3.confins_de_givramer" GUID="xeoR0FZwX0uL54MYjv2T2Q=="/>
+		<POI MapID="1178" xpos="-520.974" ypos="0.531205" zpos="-241.803" type="coffres.permanents.saison_3.confins_de_givramer" GUID="79XjyE4Tb06P97hixFks1A=="/>
+		<POI MapID="1178" xpos="-516.051" ypos="15.516" zpos="-334.462" type="coffres.permanents.saison_3.confins_de_givramer" GUID="fmbrccOpXki9rt7Dne46fg=="/>
+		<POI MapID="1178" xpos="-482.04" ypos="1.14321" zpos="-98.2191" type="coffres.permanents.saison_3.confins_de_givramer" GUID="tH0dY7KkYUG/UEcDRtiGxQ=="/>
+		<POI MapID="1178" xpos="-480.51" ypos="0.0569342" zpos="-184.225" type="coffres.permanents.saison_3.confins_de_givramer" GUID="DDmDyt8/rkya159j/i0xhg=="/>
+		<POI MapID="1178" xpos="-470.04" ypos="92.309" zpos="40.8337" type="coffres.permanents.saison_3.confins_de_givramer" GUID="sI/Bj4IThkWfWxWonTc3TQ=="/>
+		<POI MapID="1178" xpos="-463.051" ypos="96.8904" zpos="-27.5607" type="coffres.permanents.saison_3.confins_de_givramer" GUID="1Dot1Upyx02vZBFy0YvdMA=="/>
+		<POI MapID="1178" xpos="-371.873" ypos="27.2603" zpos="-7.71656" type="coffres.permanents.saison_3.confins_de_givramer" GUID="4ewtf/EsAUekBLPCK/B89A=="/>
+		<POI MapID="1178" xpos="-359.876" ypos="99.1187" zpos="175.577" type="coffres.permanents.saison_3.confins_de_givramer" GUID="UvIlib0t6kWem7L07CBBVw=="/>
+		<POI MapID="1178" xpos="-353.316" ypos="34.0122" zpos="59.0665" type="coffres.permanents.saison_3.confins_de_givramer" GUID="eWlTUvJ3P0OgbLRGcCzS7g=="/>
+		<POI MapID="1178" xpos="-297.124" ypos="116.635" zpos="297.8" type="coffres.permanents.saison_3.confins_de_givramer" GUID="TCacjbUWuEOWXpoznul7kw=="/>
+		<POI MapID="1178" xpos="-292.103" ypos="1.34749" zpos="-53.8723" type="coffres.permanents.saison_3.confins_de_givramer" GUID="sc9awnAgl0ygBU/+On+UHw=="/>
+		<POI MapID="1178" xpos="-271.711" ypos="95.7983" zpos="241.413" type="coffres.permanents.saison_3.confins_de_givramer" GUID="HYBxjGBCBkOmh0/Gmb0IDg=="/>
+		<POI MapID="1178" xpos="-266.359" ypos="0.583615" zpos="28.3183" type="coffres.permanents.saison_3.confins_de_givramer" GUID="ljqjlKrrpkWK2s2KCFJeVw=="/>
+		<POI MapID="1178" xpos="-256.019" ypos="0.750632" zpos="-112.52" type="coffres.permanents.saison_3.confins_de_givramer" GUID="EGz1xdDeMkiFHRkUbgfV0w=="/>
+		<POI MapID="1178" xpos="-217.407" ypos="0.42026" zpos="2.7443" type="coffres.permanents.saison_3.confins_de_givramer" GUID="7s1Plt2QWE6W73cqYvq3WQ=="/>
+		<POI MapID="1178" xpos="-178.84" ypos="1.34107" zpos="38.9629" type="coffres.permanents.saison_3.confins_de_givramer" GUID="/1oH4fekAk2WynfC2ZssHw=="/>
+		<POI MapID="1178" xpos="-146.495" ypos="1.50266" zpos="78.3374" type="coffres.permanents.saison_3.confins_de_givramer" GUID="OkWtnxYNoEio/9o6cHLSSg=="/>
+		<POI MapID="1178" xpos="-145.92" ypos="0.621948" zpos="-129.086" type="coffres.permanents.saison_3.confins_de_givramer" GUID="FCL0lKFA9UK6A0rocFNeUg=="/>
+		<POI MapID="1178" xpos="-134.022" ypos="0.534671" zpos="-54.2587" type="coffres.permanents.saison_3.confins_de_givramer" GUID="RsAsXs1D4U+9piOCalosEw=="/>
+		<POI MapID="1178" xpos="-117.704" ypos="1.48972" zpos="-0.829434" type="coffres.permanents.saison_3.confins_de_givramer" GUID="dat3SjXZLUq1PZCMzIFMHg=="/>
+		<POI MapID="1178" xpos="-117.692" ypos="1.41849" zpos="-170.764" type="coffres.permanents.saison_3.confins_de_givramer" GUID="qEOY4SX9xkyMrnkNcaOUNA=="/>
+		<POI MapID="1178" xpos="-95.5671" ypos="58.0038" zpos="-334.206" type="coffres.permanents.saison_3.confins_de_givramer" GUID="1AJSxDxSg06HXy+tpDHuJg=="/>
+		<POI MapID="1178" xpos="-91.4044" ypos="1.38489" zpos="-129.804" type="coffres.permanents.saison_3.confins_de_givramer" GUID="ewUa4r/p50Wd3tBnSnnP+Q=="/>
+		<POI MapID="1178" xpos="-74.6626" ypos="1.81802" zpos="101.12" type="coffres.permanents.saison_3.confins_de_givramer" GUID="pZBLrOfx2kGkQ3qdjKAJ5g=="/>
+		<POI MapID="1178" xpos="-55.3495" ypos="1.39896" zpos="-228.455" type="coffres.permanents.saison_3.confins_de_givramer" GUID="TbQo+ltahUexLfDHBp3Btg=="/>
+		<POI MapID="1178" xpos="-29.5641" ypos="1.7455" zpos="52.7713" type="coffres.permanents.saison_3.confins_de_givramer" GUID="z2ZJ/Rb47U6qMcjx/AhU0g=="/>
+		<POI MapID="1178" xpos="-26.2461" ypos="2.27364" zpos="361.913" type="coffres.permanents.saison_3.confins_de_givramer" GUID="LyE4mG7cek67VW5yMnuODA=="/>
+		<POI MapID="1178" xpos="-22.7253" ypos="0.679923" zpos="-176.506" type="coffres.permanents.saison_3.confins_de_givramer" GUID="HdhGB3RMAEaQc0afP1dm/A=="/>
+		<POI MapID="1178" xpos="-6.59739" ypos="1.4932" zpos="-270.782" type="coffres.permanents.saison_3.confins_de_givramer" GUID="yM49vre20EqziBUkCgEofw=="/>
+		<POI MapID="1178" xpos="2.91959" ypos="3.31476" zpos="-315.454" type="coffres.permanents.saison_3.confins_de_givramer" GUID="GBRW2B/q2E+pEMjwI8HS5A=="/>
+		<POI MapID="1178" xpos="3.24849" ypos="-94.6764" zpos="-92.1333" type="coffres.permanents.saison_3.confins_de_givramer" GUID="W0UXLZybQ0ySWieLtjKGUw=="/>
+		<POI MapID="1178" xpos="11.2808" ypos="1.39982" zpos="-208.645" type="coffres.permanents.saison_3.confins_de_givramer" GUID="hYpzClMZG0G6Bry6QRiDtQ=="/>
+		<POI MapID="1178" xpos="16.60" ypos="45.95" zpos="-103.38" type="coffres.permanents.saison_3.confins_de_givramer" GUID="UixlbCsBC0uF2OYjkALkwQ=="/>
+		<POI MapID="1178" xpos="14.6275" ypos="-152.215" zpos="-81.9368" type="coffres.permanents.saison_3.confins_de_givramer" GUID="KjDt3ngJ3EWLVr/rC0nPDg=="/>
+		<POI MapID="1178" xpos="31.8696" ypos="0.485661" zpos="-45.6903" type="coffres.permanents.saison_3.confins_de_givramer" GUID="27flJ5cf6kevnOpuTUy0nw=="/>
+		<POI MapID="1178" xpos="37.5387" ypos="2.17331" zpos="-4.80004" type="coffres.permanents.saison_3.confins_de_givramer" GUID="JQSX/lHskEORPT6o+d7Scg=="/>
+		<POI MapID="1178" xpos="50.782" ypos="0.786082" zpos="-261.773" type="coffres.permanents.saison_3.confins_de_givramer" GUID="pqptlxcd9k2MhYJsaRYCIQ=="/>
+		<POI MapID="1178" xpos="75.8704" ypos="1.29897" zpos="-154.342" type="coffres.permanents.saison_3.confins_de_givramer" GUID="28fJlUdr1kyJdz0eLD6NLg=="/>
+		<POI MapID="1178" xpos="80.183" ypos="1.08107" zpos="-181.024" type="coffres.permanents.saison_3.confins_de_givramer" GUID="cplATB7I3Ea482q7PH/vwQ=="/>
+		<POI MapID="1178" xpos="96.3231" ypos="1.39665" zpos="-237.458" type="coffres.permanents.saison_3.confins_de_givramer" GUID="YU/CIESYVUebVKbq25JAnA=="/>
+		<POI MapID="1178" xpos="118.649" ypos="1.38173" zpos="-157.02" type="coffres.permanents.saison_3.confins_de_givramer" GUID="ZXtduQU/9UmfaZTWyDWK/g=="/>
+		<POI MapID="1178" xpos="122.46" ypos="1.48087" zpos="-16.9291" type="coffres.permanents.saison_3.confins_de_givramer" GUID="etZirwibMkyaFljBtHlImA=="/>
+		<POI MapID="1178" xpos="147.62" ypos="16.4745" zpos="415.475" type="coffres.permanents.saison_3.confins_de_givramer" GUID="VffRg/OQP0eaa7brmARWmQ=="/>
+		<POI MapID="1178" xpos="162.625" ypos="2.85925" zpos="-127.11" type="coffres.permanents.saison_3.confins_de_givramer" GUID="0I+cfkDeeEu2SnHcoXlqpg=="/>
+		<POI MapID="1178" xpos="174.771" ypos="0.634149" zpos="-175.816" type="coffres.permanents.saison_3.confins_de_givramer" GUID="D57R0VCOVkGnQqbjZj8egw=="/>
+		<POI MapID="1178" xpos="178.999" ypos="2.03239" zpos="-206.557" type="coffres.permanents.saison_3.confins_de_givramer" GUID="KLLOxjcevUWOUIVoe3Mo3A=="/>
+		<POI MapID="1178" xpos="179.343" ypos="1.3199" zpos="12.9594" type="coffres.permanents.saison_3.confins_de_givramer" GUID="prfR+6dwO0iSYGrWpvkz/A=="/>
+		<POI MapID="1178" xpos="186.854" ypos="1.28571" zpos="-43.033" type="coffres.permanents.saison_3.confins_de_givramer" GUID="1sQ20umgzEiXLDqMnGkBbw=="/>
+		<POI MapID="1178" xpos="191.962" ypos="1.30561" zpos="-91.1302" type="coffres.permanents.saison_3.confins_de_givramer" GUID="rTzpLaIUm0yV32mWdeQyoQ=="/>
+		<POI MapID="1178" xpos="200.392" ypos="1.24736" zpos="-140.494" type="coffres.permanents.saison_3.confins_de_givramer" GUID="BpQK11ugv0OR0Y4VUM7IdA=="/>
+		<POI MapID="1178" xpos="218.375" ypos="10.1612" zpos="-249.099" type="coffres.permanents.saison_3.confins_de_givramer" GUID="LOa/ZaOj3Eet0d/MmrveUw=="/>
+		<POI MapID="1178" xpos="243.234" ypos="1.34327" zpos="-54.1603" type="coffres.permanents.saison_3.confins_de_givramer" GUID="0QJF+K1OhU2gSpGRrdlICQ=="/>
+		<POI MapID="1178" xpos="248.863" ypos="3.99969" zpos="97.9267" type="coffres.permanents.saison_3.confins_de_givramer" GUID="M13kmSwq80iDf5Kxd0bl2Q=="/>
+		<POI MapID="1178" xpos="264.785" ypos="2.79425" zpos="-153.121" type="coffres.permanents.saison_3.confins_de_givramer" GUID="qQ9OCwgJgkylTmAD+gIUug=="/>
+		<POI MapID="1178" xpos="287.186" ypos="1.63429" zpos="-75.29" type="coffres.permanents.saison_3.confins_de_givramer" GUID="LLsZbS5/OUSrAMYQo6/WKQ=="/>
+		<POI MapID="1178" xpos="295.482" ypos="1.51993" zpos="-11.0079" type="coffres.permanents.saison_3.confins_de_givramer" GUID="M4QnA0770Euyr8eS28gGfw=="/>
+		<POI MapID="1178" xpos="298.056" ypos="1.472" zpos="91.0142" type="coffres.permanents.saison_3.confins_de_givramer" GUID="ubAKfK0y7UOzgiKV0y+/ow=="/>
+		<POI MapID="1178" xpos="327.176" ypos="0.820385" zpos="44.3132" type="coffres.permanents.saison_3.confins_de_givramer" GUID="LYa+v22IBES0T6A2JDzsKA=="/>
+		<POI MapID="1178" xpos="342.913" ypos="1.58131" zpos="-20.8186" type="coffres.permanents.saison_3.confins_de_givramer" GUID="VtplhceLSkeU4zgMUKqeKw=="/>
+		<POI MapID="1178" xpos="346.213" ypos="0.926121" zpos="58.3155" type="coffres.permanents.saison_3.confins_de_givramer" GUID="1F/whyADOUGviiG7i5N1ag=="/>
+		<POI MapID="1178" xpos="400.66" ypos="11.3503" zpos="106.464" type="coffres.permanents.saison_3.confins_de_givramer" GUID="6PEc3Qgs+0+EV5Aufph8mQ=="/>
+		<POI MapID="1178" xpos="400.866" ypos="1.34666" zpos="-0.582169" type="coffres.permanents.saison_3.confins_de_givramer" GUID="IeO2hbwKiE+vVdmXpeiTBA=="/>
+		<POI MapID="1178" xpos="410.854" ypos="1.42169" zpos="88.6923" type="coffres.permanents.saison_3.confins_de_givramer" GUID="MCx3reNUKUmphWa5YxBBEg=="/>
+		<POI MapID="1178" xpos="453.567" ypos="1.34116" zpos="75.1222" type="coffres.permanents.saison_3.confins_de_givramer" GUID="tU07YDV7gEOMiqfDHfc8Nw=="/>
+		<POI MapID="1178" xpos="465.061" ypos="61.6798" zpos="-82.7978" type="coffres.permanents.saison_3.confins_de_givramer" GUID="UcQckB9kGkm0DCKlVAI/og=="/>
+		<POI MapID="1178" xpos="466.187" ypos="1.38666" zpos="34.1216" type="coffres.permanents.saison_3.confins_de_givramer" GUID="h35n/fF9pUqP3nCzcQxALQ=="/>
+		<POI MapID="1178" xpos="466.621" ypos="127.927" zpos="-447.388" type="coffres.permanents.saison_3.confins_de_givramer" GUID="Q/xZaAgLHUCcV6n0hFUy6w=="/>
+		<POI MapID="1178" xpos="475.704" ypos="14.1057" zpos="78.9783" type="coffres.permanents.saison_3.confins_de_givramer" GUID="kku2mfvWHk2ErgatgjR9Xg=="/>
+		<POI MapID="1178" xpos="526.104" ypos="1.23716" zpos="32.1738" type="coffres.permanents.saison_3.confins_de_givramer" GUID="OWX7SooiO0O6QLItT+cmwg=="/>
+		<POI MapID="1178" xpos="542.622" ypos="2.15641" zpos="-8.87201" type="coffres.permanents.saison_3.confins_de_givramer" GUID="QL8qLDd1Q0e6gQU7xsq1bA=="/>
+		<POI MapID="1178" xpos="542.877" ypos="-187.623" zpos="-296.416" type="coffres.permanents.saison_3.confins_de_givramer" GUID="KauE8URbG0G18cesQ+jmow=="/>
+		<POI MapID="1178" xpos="568.351" ypos="45.0233" zpos="223.154" type="coffres.permanents.saison_3.confins_de_givramer" GUID="tFKLBunRsEGJ8VOPdkIMUg=="/>
+		<POI MapID="1178" xpos="689.558" ypos="19.0187" zpos="215.382" type="coffres.permanents.saison_3.confins_de_givramer" GUID="6cXlsUDj9ke4sBhkfg1SIw=="/>
+		<POI MapID="1178" xpos="771.189" ypos="-9.68861" zpos="155.935" type="coffres.permanents.saison_3.confins_de_givramer" GUID="L5B57nHlT0qWScmXzbL/jQ=="/>
+		<POI MapID="1178" xpos="791.366" ypos="80.5262" zpos="-172.261" type="coffres.permanents.saison_3.confins_de_givramer" GUID="Hb/3bK9tokOuVZbTEkasrg=="/>
+		<POI MapID="1178" xpos="792.567" ypos="52.7322" zpos="28.906" type="coffres.permanents.saison_3.confins_de_givramer" GUID="TTAEB7H74EGzEz0mlRaLyw=="/>
+		<POI MapID="1178" xpos="836.864" ypos="1.67526" zpos="330.233" type="coffres.permanents.saison_3.confins_de_givramer" GUID="7uk7EFiLykaFx7v02tVYXw=="/>
+
+
+		<!--
+		Lac Doric
+		-->
+
+		<POI MapID="1185" xpos="178.627" ypos="175.601" zpos="715.353" type="coffres.permanents.saison_3.lac_doric" GUID="IL2IilErdUWwpVwUc6I2ZA=="/>
+		<POI MapID="1185" xpos="217.614" ypos="110.772" zpos="444.281" type="coffres.permanents.saison_3.lac_doric" GUID="yOLHTXmLpk+RlTa3HGRI6w=="/>
+		<POI MapID="1185" xpos="224.77" ypos="72.3623" zpos="590.128" type="coffres.permanents.saison_3.lac_doric" GUID="1C7dtNJT0UOp1VgXjf3zVw=="/>
+		<POI MapID="1185" xpos="242.473" ypos="149.088" zpos="602.091" type="coffres.permanents.saison_3.lac_doric" GUID="ls+4Z0Bh7UWS1y1WIEI9JQ=="/>
+		<POI MapID="1185" xpos="245.613" ypos="78.0572" zpos="525.746" type="coffres.permanents.saison_3.lac_doric" GUID="dyIY6FE0SkqUU5yKPLB8lQ=="/>
+		<POI MapID="1185" xpos="258.736" ypos="157.684" zpos="569.002" type="coffres.permanents.saison_3.lac_doric" GUID="PRwZn5avWkmgBoWdYY8nQA=="/>
+		<POI MapID="1185" xpos="262.107" ypos="192.208" zpos="684.515" type="coffres.permanents.saison_3.lac_doric" GUID="ESRkZHBYVUOLvLGeR3ndHw=="/>
+		<POI MapID="1185" xpos="265.911" ypos="189.463" zpos="620.136" type="coffres.permanents.saison_3.lac_doric" GUID="6pOdSGE51Ui80ZcTuheQDA=="/>
+		<POI MapID="1185" xpos="287.549" ypos="150.002" zpos="520.941" type="coffres.permanents.saison_3.lac_doric" GUID="mT0hm20SDkO9yPgQVQpVVA=="/>
+		<POI MapID="1185" xpos="288.553" ypos="173.486" zpos="583.421" type="coffres.permanents.saison_3.lac_doric" GUID="IB7RiHKV9kKW+23WktGLsw=="/>
+		<POI MapID="1185" xpos="311.286" ypos="196.814" zpos="661.148" type="coffres.permanents.saison_3.lac_doric" GUID="1Iy6hSuy3k+IwOWrVWTO6w=="/>
+		<POI MapID="1185" xpos="325.842" ypos="162.099" zpos="587.891" type="coffres.permanents.saison_3.lac_doric" GUID="YszIoQ6cs0mi68sIO5bLmQ=="/>
+		<POI MapID="1185" xpos="327.147" ypos="153.644" zpos="554.408" type="coffres.permanents.saison_3.lac_doric" GUID="tYJo+HaYLkeQq/zek71P4g=="/>
+		<POI MapID="1185" xpos="350.543" ypos="187.444" zpos="737.311" type="coffres.permanents.saison_3.lac_doric" GUID="Ty7MCLZ5k0iqaseX+slEiw=="/>
+		<POI MapID="1185" xpos="351.775" ypos="195.536" zpos="607.631" type="coffres.permanents.saison_3.lac_doric" GUID="/jjlrgWbVkSBvl1hJsjMvQ=="/>
+		<POI MapID="1185" xpos="375.228" ypos="192.261" zpos="634.637" type="coffres.permanents.saison_3.lac_doric" GUID="gyamecM2f06bnX/QR8Pi7g=="/>
+		<POI MapID="1185" xpos="384.434" ypos="204.293" zpos="657.789" type="coffres.permanents.saison_3.lac_doric" GUID="F+TnlmH8x0y04I1u250RQA=="/>
+
+
+		<!--
+		Plage des Sirènes
+		-->
+
+		<POI MapID="1203" xpos="-626.557" ypos="127.688" zpos="161.138" type="coffres.permanents.saison_3.plage_des_sirenes" GUID="xc+nsabe+EySZa+jFfUqZA=="/>
+		<POI MapID="1203" xpos="-466.059" ypos="21.8901" zpos="-81.5925" type="coffres.permanents.saison_3.plage_des_sirenes" GUID="lFSsZL+qQkOLwk/wLIR7Ig=="/>
+		<POI MapID="1203" xpos="-408.667" ypos="94.9769" zpos="1.53701" type="coffres.permanents.saison_3.plage_des_sirenes" GUID="3RFIF1UZ0EWunE6vpIJYVw=="/>
+		<POI MapID="1203" xpos="-396.776" ypos="23.1949" zpos="-25.947" type="coffres.permanents.saison_3.plage_des_sirenes" GUID="w/2+c00w106yrk94ZDIfeg=="/>
+		<POI MapID="1203" xpos="-368.988" ypos="34.0039" zpos="-171.551" type="coffres.permanents.saison_3.plage_des_sirenes" GUID="Dmd88utzZ0a1rYLei4S4gA=="/>
+		<POI MapID="1203" xpos="-356.89" ypos="106.538" zpos="281.318" type="coffres.permanents.saison_3.plage_des_sirenes" GUID="IByxuzDyw0W1aknJqRspnA=="/>
+		<POI MapID="1203" xpos="-345.111" ypos="24.7184" zpos="-29.9126" type="coffres.permanents.saison_3.plage_des_sirenes" GUID="0T2eu5Yp9EyNzKSDn8iUVw=="/>
+		<POI MapID="1203" xpos="-316.909" ypos="36.2403" zpos="-140.461" type="coffres.permanents.saison_3.plage_des_sirenes" GUID="Z4AzPo4Vg0Ss7oDGI9DTdA=="/>
+		<POI MapID="1203" xpos="-256.841" ypos="107.302" zpos="-324.669" type="coffres.permanents.saison_3.plage_des_sirenes" GUID="SJCmRQNOwESBx3cWot+ifw=="/>
+		<POI MapID="1203" xpos="-231.814" ypos="88.4706" zpos="-188.751" type="coffres.permanents.saison_3.plage_des_sirenes" GUID="LVyzvZqkW0mx5RZWTof0Xg=="/>
+		<POI MapID="1203" xpos="-230.948" ypos="32.6717" zpos="-47.0401" type="coffres.permanents.saison_3.plage_des_sirenes" GUID="268X8Enr5EWgGXE9UK1ODw=="/>
+		<POI MapID="1203" xpos="-215.476" ypos="71.6394" zpos="127.811" type="coffres.permanents.saison_3.plage_des_sirenes" GUID="hE94sDk7LEOgQ1KHKbysPQ=="/>
+		<POI MapID="1203" xpos="-148.432" ypos="10.0218" zpos="45.4207" type="coffres.permanents.saison_3.plage_des_sirenes" GUID="ack+LA3+ykOKXKqmXBbt7g=="/>
+		<POI MapID="1203" xpos="-138.724" ypos="100.932" zpos="-364.651" type="coffres.permanents.saison_3.plage_des_sirenes" GUID="n2UREeZoYEq5n52PUakjjg=="/>
+		<POI MapID="1203" xpos="-111.366" ypos="117.68" zpos="-323.697" type="coffres.permanents.saison_3.plage_des_sirenes" GUID="AcwF8aSpWUKG38MXKaPlvQ=="/>
+		<POI MapID="1203" xpos="68.193" ypos="89.0495" zpos="-341.988" type="coffres.permanents.saison_3.plage_des_sirenes" GUID="Cm03SlJAJEGHtkKK1YZRRA=="/>
+		<POI MapID="1203" xpos="136.573" ypos="10.0489" zpos="163.419" type="coffres.permanents.saison_3.plage_des_sirenes" GUID="9Fy2ir6Tq0+TXSTds2uFUA=="/>
+		<POI MapID="1203" xpos="322.775" ypos="58.3114" zpos="-262.784" type="coffres.permanents.saison_3.plage_des_sirenes" GUID="NTUzmzP2J0+T+dTbN7FCdQ=="/>
+		<POI MapID="1203" xpos="528.885" ypos="171.321" zpos="166.376" type="coffres.permanents.saison_3.plage_des_sirenes" GUID="PMoQIbbTdkCVqCuiwkWBTg=="/>
+		<POI MapID="1203" xpos="564.016" ypos="287.329" zpos="114.681" type="coffres.permanents.saison_3.plage_des_sirenes" GUID="CtngufEvx02yMDxlX03a/Q=="/>
+
+	</POIs>
+</OverlayData>

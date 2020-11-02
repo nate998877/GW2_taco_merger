@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+POIs: ReActif.9251
+Date: 2017/08/11
+-->
+<OverlayData>
+	<MarkerCategory name="chroniques.saison_3">
+		<MarkerCategory name="ep5_point_d_ignition" DisplayName="Ep.5 - Flashpoint" iconFile="Img\MontDraconis.png">
+			<MarkerCategory name="connaissance_du_mont_draconis__gorge_brulante" DisplayName="Draconis Mons Insight: Scalding Gorge" heightOffset="5">
+				<MarkerCategory name="acces" DisplayName="Guide" iconFile="Img\Guide.png" iconSize="0.75" heightOffset="0" behavior="0"/>
+			</MarkerCategory>
+		</MarkerCategory>
+	</MarkerCategory>
+
+	<POIs>
+
+		<!-- Point de maîtrise -->
+		<POI MapID="1195" xpos="43.5913" ypos="567.431" zpos="54.604" type="chroniques.saison_3.ep5_point_d_ignition.connaissance_du_mont_draconis__gorge_brulante" GUID="VJamEKrMCkW4sj+UTZKqgg=="/>
+
+		<!-- Accès -->
+		<Route MapID="1195" name="Gorge_Brulante" resetposx="409.69" resetposy="410.79" resetposz="-310.99" resetrange="1">
+			<POI MapID="1195" xpos="409.405" ypos="411.938" zpos="-305.239" type="chroniques.saison_3.ep5_point_d_ignition.connaissance_du_mont_draconis__gorge_brulante.acces" GUID="hqhcNt42N0aCWCjy1WlDTg==" iconFile="Img\Fleche.png" iconSize="1" heightOffset="1.5"/>
+			<POI MapID="1195" xpos="406.366" ypos="411.191" zpos="-298.576" type="chroniques.saison_3.ep5_point_d_ignition.connaissance_du_mont_draconis__gorge_brulante.acces" GUID="wifniN/6H0iA2EG/9QMQvA=="/>
+			<POI MapID="1195" xpos="403.186" ypos="412.484" zpos="-290.229" type="chroniques.saison_3.ep5_point_d_ignition.connaissance_du_mont_draconis__gorge_brulante.acces" GUID="BF6l0CcCNUmu19S+kkjzyg=="/>
+			<POI MapID="1195" xpos="400.673" ypos="413.057" zpos="-283.568" type="chroniques.saison_3.ep5_point_d_ignition.connaissance_du_mont_draconis__gorge_brulante.acces" GUID="PsCGjWIVXkaClQ8hRESEmA=="/>
+			<POI MapID="1195" xpos="396.7"   ypos="414.23"  zpos="-275.631" type="chroniques.saison_3.ep5_point_d_ignition.connaissance_du_mont_draconis__gorge_brulante.acces" GUID="IGZwb5INMESUdbuGgL/EdA=="/>
+			<POI MapID="1195" xpos="395.469" ypos="414.683" zpos="-268.146" type="chroniques.saison_3.ep5_point_d_ignition.connaissance_du_mont_draconis__gorge_brulante.acces" GUID="3BUKzZw9+UqA10N+if9SBg=="/>
+			<POI MapID="1195" xpos="397.77"  ypos="415.465" zpos="-259.373" type="chroniques.saison_3.ep5_point_d_ignition.connaissance_du_mont_draconis__gorge_brulante.acces" GUID="F0szAxrKBU2z9AiGn0utNw=="/>
+			<POI MapID="1195" xpos="400.341" ypos="416.147" zpos="-250.482" type="chroniques.saison_3.ep5_point_d_ignition.connaissance_du_mont_draconis__gorge_brulante.acces" GUID="cplt1XcMBE2EjcS8KOJ7Lw=="/>
+			<POI MapID="1195" xpos="402.25"  ypos="415.709" zpos="-243.707" type="chroniques.saison_3.ep5_point_d_ignition.connaissance_du_mont_draconis__gorge_brulante.acces" GUID="cGTU3+xp1EOI+B66vkqaMQ=="/>
+			<POI MapID="1195" xpos="404.565" ypos="416.795" zpos="-237.22"  type="chroniques.saison_3.ep5_point_d_ignition.connaissance_du_mont_draconis__gorge_brulante.acces" GUID="yXJPwujDzE63DwIzGN/FqA=="/>
+			<POI MapID="1195" xpos="406.262" ypos="417.995" zpos="-229.668" type="chroniques.saison_3.ep5_point_d_ignition.connaissance_du_mont_draconis__gorge_brulante.acces" GUID="5ynLW3OQOkW6IEUIuiVvCg=="/>
+			<POI MapID="1195" xpos="407.82"  ypos="419.647" zpos="-219.872" type="chroniques.saison_3.ep5_point_d_ignition.connaissance_du_mont_draconis__gorge_brulante.acces" GUID="n3Aad/YWsE2qTL9rrqKlrQ=="/>
+			<POI MapID="1195" xpos="407.805" ypos="422.014" zpos="-209.709" type="chroniques.saison_3.ep5_point_d_ignition.connaissance_du_mont_draconis__gorge_brulante.acces" GUID="GMUFZQOUE02uspA9ryJqoQ=="/>
+			<POI MapID="1195" xpos="408.028" ypos="425.855" zpos="-201.462" type="chroniques.saison_3.ep5_point_d_ignition.connaissance_du_mont_draconis__gorge_brulante.acces" GUID="tTweEjt5w0C0nKlZw/oLJw=="/>
+			<POI MapID="1195" xpos="409.202" ypos="427.074" zpos="-192.015" type="chroniques.saison_3.ep5_point_d_ignition.connaissance_du_mont_draconis__gorge_brulante.acces" GUID="PgtTu9a7dkKo7t0J3KRy8g=="/>
+			<POI MapID="1195" xpos="411.345" ypos="428.289" zpos="-183.4"   type="chroniques.saison_3.ep5_point_d_ignition.connaissance_du_mont_draconis__gorge_brulante.acces" GUID="BZIDXQ+l2EOnpw8C5A48gg=="/>
+			<POI MapID="1195" xpos="412.921" ypos="430.016" zpos="-175.179" type="chroniques.saison_3.ep5_point_d_ignition.connaissance_du_mont_draconis__gorge_brulante.acces" GUID="HxBaGFfjYk+5mOyHFqYW4g=="/>
+			<POI MapID="1195" xpos="413.863" ypos="432.239" zpos="-166.558" type="chroniques.saison_3.ep5_point_d_ignition.connaissance_du_mont_draconis__gorge_brulante.acces" GUID="G84SiwJYqUG0hMbBns5r2Q=="/>
+			<POI MapID="1195" xpos="414.531" ypos="434.303" zpos="-157.478" type="chroniques.saison_3.ep5_point_d_ignition.connaissance_du_mont_draconis__gorge_brulante.acces" GUID="Hepc5wmrXkeQvEiVN3/Qyw=="/>
+			<POI MapID="1195" xpos="415.356" ypos="436.122" zpos="-148.748" type="chroniques.saison_3.ep5_point_d_ignition.connaissance_du_mont_draconis__gorge_brulante.acces" GUID="U8afO2tWtEaAjXWPB5Sz3g=="/>
+			<POI MapID="1195" xpos="416.105" ypos="438.697" zpos="-140.345" type="chroniques.saison_3.ep5_point_d_ignition.connaissance_du_mont_draconis__gorge_brulante.acces" GUID="Qd0mjiYY5kmTgjhNLkrF2w=="/>
+			<POI MapID="1195" xpos="416.153" ypos="441.899" zpos="-132.764" type="chroniques.saison_3.ep5_point_d_ignition.connaissance_du_mont_draconis__gorge_brulante.acces" GUID="peGFuBWJAkaEbaT8YYMUuw=="/>
+			<POI MapID="1195" xpos="415.516" ypos="443.705" zpos="-124.399" type="chroniques.saison_3.ep5_point_d_ignition.connaissance_du_mont_draconis__gorge_brulante.acces" GUID="fdCW1fE19k+xPVFUWw1UoA=="/>
+			<POI MapID="1195" xpos="415.542" ypos="445.34"  zpos="-115.6"   type="chroniques.saison_3.ep5_point_d_ignition.connaissance_du_mont_draconis__gorge_brulante.acces" GUID="KtYu7hAVJEWbvXu9LeSJVA=="/>
+			<POI MapID="1195" xpos="416.269" ypos="447.193" zpos="-104.957" type="chroniques.saison_3.ep5_point_d_ignition.connaissance_du_mont_draconis__gorge_brulante.acces" GUID="kJAtNNW+vkqVjT6NJ741KA=="/>
+			<POI MapID="1195" xpos="416.966" ypos="449.917" zpos="-94.3092" type="chroniques.saison_3.ep5_point_d_ignition.connaissance_du_mont_draconis__gorge_brulante.acces" GUID="6ANWiMCunEW2gSQuXEb0dQ=="/>
+			<POI MapID="1195" xpos="417.29"  ypos="451.922" zpos="-85.5912" type="chroniques.saison_3.ep5_point_d_ignition.connaissance_du_mont_draconis__gorge_brulante.acces" GUID="FRxGPeJ2MkytaXTpZf679Q=="/>
+			<POI MapID="1195" xpos="417.252" ypos="452.221" zpos="-75.5529" type="chroniques.saison_3.ep5_point_d_ignition.connaissance_du_mont_draconis__gorge_brulante.acces" GUID="iauVZK1J6UynN5UaSlBWlA=="/>
+			<POI MapID="1195" xpos="417.233" ypos="453.516" zpos="-65.9327" type="chroniques.saison_3.ep5_point_d_ignition.connaissance_du_mont_draconis__gorge_brulante.acces" GUID="K+5jMoUD5UyjaCC3kRaIOg=="/>
+			<POI MapID="1195" xpos="417.217" ypos="456.531" zpos="-57.7374" type="chroniques.saison_3.ep5_point_d_ignition.connaissance_du_mont_draconis__gorge_brulante.acces" GUID="DqewVGXvK0m+v489uFQTAg=="/>
+			<POI MapID="1195" xpos="416.433" ypos="472.804" zpos="-37.3137" type="chroniques.saison_3.ep5_point_d_ignition.connaissance_du_mont_draconis__gorge_brulante.acces" GUID="PE/rNzoctUKpPD6jeeVVNQ=="/>
+			<POI MapID="1195" xpos="412.113" ypos="473.367" zpos="-24.6137" type="chroniques.saison_3.ep5_point_d_ignition.connaissance_du_mont_draconis__gorge_brulante.acces" GUID="qmNMXUUL7Eyltyc1ZW5sSQ=="/>
+			<POI MapID="1195" xpos="407.566" ypos="474.537" zpos="-14.8581" type="chroniques.saison_3.ep5_point_d_ignition.connaissance_du_mont_draconis__gorge_brulante.acces" GUID="V2G5WZpi40a8e/FhtNQpoQ=="/>
+			<POI MapID="1195" xpos="403.996" ypos="475.272" zpos="-7.91909" type="chroniques.saison_3.ep5_point_d_ignition.connaissance_du_mont_draconis__gorge_brulante.acces" GUID="rFXXHTkyK0CNE7XDsvj+yw=="/>
+			<POI MapID="1195" xpos="397.243" ypos="475.778" zpos="0.714688" type="chroniques.saison_3.ep5_point_d_ignition.connaissance_du_mont_draconis__gorge_brulante.acces" GUID="wNWsXJ5jVkex263/AQLfDQ=="/>
+			<POI MapID="1195" xpos="390.9"   ypos="478.33"  zpos="7.60504"  type="chroniques.saison_3.ep5_point_d_ignition.connaissance_du_mont_draconis__gorge_brulante.acces" GUID="25CKrnQLM0mAOas3JEAscA=="/>
+			<POI MapID="1195" xpos="383.22"  ypos="478.21"  zpos="13.7368"  type="chroniques.saison_3.ep5_point_d_ignition.connaissance_du_mont_draconis__gorge_brulante.acces" GUID="3FM4x4kDdU+k1/ReL6FV6A=="/>
+			<POI MapID="1195" xpos="375.784" ypos="479.619" zpos="18.8721"  type="chroniques.saison_3.ep5_point_d_ignition.connaissance_du_mont_draconis__gorge_brulante.acces" GUID="bcsjTnvX6UmW1UneDT81NA=="/>
+			<POI MapID="1195" xpos="368.614" ypos="482.003" zpos="24.3525"  type="chroniques.saison_3.ep5_point_d_ignition.connaissance_du_mont_draconis__gorge_brulante.acces" GUID="ce3nGvGd102VVwMIPuBROA=="/>
+			<POI MapID="1195" xpos="360.713" ypos="483.601" zpos="29.9771"  type="chroniques.saison_3.ep5_point_d_ignition.connaissance_du_mont_draconis__gorge_brulante.acces" GUID="TRmj5evTx06PYzPmmRvdaw=="/>
+			<POI MapID="1195" xpos="354.546" ypos="483.581" zpos="34.2435"  type="chroniques.saison_3.ep5_point_d_ignition.connaissance_du_mont_draconis__gorge_brulante.acces" GUID="UscDJ4EmSU6ky2GmQQpaHA=="/>
+			<POI MapID="1195" xpos="347.237" ypos="485.194" zpos="38.0482"  type="chroniques.saison_3.ep5_point_d_ignition.connaissance_du_mont_draconis__gorge_brulante.acces" GUID="y/zo2ZTXcE6jovxHbsbg1g=="/>
+			<POI MapID="1195" xpos="339.76"  ypos="487.072" zpos="40.675"   type="chroniques.saison_3.ep5_point_d_ignition.connaissance_du_mont_draconis__gorge_brulante.acces" GUID="zdm0i38ajUGG6SJ+cNoKGw=="/>
+			<POI MapID="1195" xpos="331.284" ypos="487.519" zpos="43.1043"  type="chroniques.saison_3.ep5_point_d_ignition.connaissance_du_mont_draconis__gorge_brulante.acces" GUID="2+e6UakrCUKqTiKn6Awt0Q=="/>
+			<POI MapID="1195" xpos="323.408" ypos="489.981" zpos="46.1175"  type="chroniques.saison_3.ep5_point_d_ignition.connaissance_du_mont_draconis__gorge_brulante.acces" GUID="ngmJnMej206BHS3WxqkGiQ=="/>
+			<POI MapID="1195" xpos="316.931" ypos="491.055" zpos="51.4143"  type="chroniques.saison_3.ep5_point_d_ignition.connaissance_du_mont_draconis__gorge_brulante.acces" GUID="qjO1oItEXkyk/6cjaMM7bQ=="/>
+			<POI MapID="1195" xpos="311.729" ypos="492.806" zpos="58.0081"  type="chroniques.saison_3.ep5_point_d_ignition.connaissance_du_mont_draconis__gorge_brulante.acces" GUID="4gddfNMI+kqN9BfRcTqofA=="/>
+			<POI MapID="1195" xpos="308.034" ypos="495.033" zpos="63.6549"  type="chroniques.saison_3.ep5_point_d_ignition.connaissance_du_mont_draconis__gorge_brulante.acces" GUID="J8o6M8Y4X0i3sjlW2RJf0w==" iconFile="Img\Interaction.png"/>
+			<POI MapID="1195" xpos="300.662" ypos="496.94"  zpos="68.0654"  type="chroniques.saison_3.ep5_point_d_ignition.connaissance_du_mont_draconis__gorge_brulante.acces" GUID="u/FnpdwvcEeclYx6ZBcPlw=="/>
+			<POI MapID="1195" xpos="293.285" ypos="498.943" zpos="72.7086"  type="chroniques.saison_3.ep5_point_d_ignition.connaissance_du_mont_draconis__gorge_brulante.acces" GUID="rnTAFK8oNUCcUMRfc8jmJQ=="/>
+			<POI MapID="1195" xpos="283.453" ypos="503.106" zpos="79.3871"  type="chroniques.saison_3.ep5_point_d_ignition.connaissance_du_mont_draconis__gorge_brulante.acces" GUID="who1uIbUD0C9uvQYwLD8jw=="/>
+			<POI MapID="1195" xpos="244.916" ypos="554.29"  zpos="85.5291"  type="chroniques.saison_3.ep5_point_d_ignition.connaissance_du_mont_draconis__gorge_brulante.acces" GUID="/ccJc5VNnkScswr0Be8mbA==" iconFile="Img\Cible.png"/>
+			<POI MapID="1195" xpos="241.562" ypos="554.656" zpos="77.8483"  type="chroniques.saison_3.ep5_point_d_ignition.connaissance_du_mont_draconis__gorge_brulante.acces" GUID="jiiZJLovn0Gx/CA+KN2S/A=="/>
+			<POI MapID="1195" xpos="238.993" ypos="554.405" zpos="70.0595"  type="chroniques.saison_3.ep5_point_d_ignition.connaissance_du_mont_draconis__gorge_brulante.acces" GUID="njZkqa6rtU+Jz9/cRFKLtQ=="/>
+			<POI MapID="1195" xpos="234.658" ypos="554.282" zpos="62.2181"  type="chroniques.saison_3.ep5_point_d_ignition.connaissance_du_mont_draconis__gorge_brulante.acces" GUID="gPpHzNPevEifUik8lXLl8A=="/>
+			<POI MapID="1195" xpos="228.942" ypos="554.33"  zpos="55.8893"  type="chroniques.saison_3.ep5_point_d_ignition.connaissance_du_mont_draconis__gorge_brulante.acces" GUID="668SUxlqW06F1sVNgZ5yQg=="/>
+			<POI MapID="1195" xpos="222.681" ypos="554.524" zpos="49.4999"  type="chroniques.saison_3.ep5_point_d_ignition.connaissance_du_mont_draconis__gorge_brulante.acces" GUID="8ajy3PhJqEmW5GzyRzskLQ=="/>
+			<POI MapID="1195" xpos="221.568" ypos="556.625" zpos="44.7234"  type="chroniques.saison_3.ep5_point_d_ignition.connaissance_du_mont_draconis__gorge_brulante.acces" GUID="a20ZDHulJE6VcuMsFKax4A=="/>
+			<POI MapID="1195" xpos="219.151" ypos="554.511" zpos="40.9903"  type="chroniques.saison_3.ep5_point_d_ignition.connaissance_du_mont_draconis__gorge_brulante.acces" GUID="CsPNf7S9eUKTFjsGXoTpCg=="/>
+			<POI MapID="1195" xpos="214.039" ypos="554.707" zpos="41.1327"  type="chroniques.saison_3.ep5_point_d_ignition.connaissance_du_mont_draconis__gorge_brulante.acces" GUID="pWRYWcBhfEKIcsEOaMm7Nw=="/>
+			<POI MapID="1195" xpos="207.852" ypos="554.928" zpos="41.9365"  type="chroniques.saison_3.ep5_point_d_ignition.connaissance_du_mont_draconis__gorge_brulante.acces" GUID="CA0QLr7QvkS3j1VnbgUL8Q=="/>
+			<POI MapID="1195" xpos="201.911" ypos="554.565" zpos="37.1165"  type="chroniques.saison_3.ep5_point_d_ignition.connaissance_du_mont_draconis__gorge_brulante.acces" GUID="gW8dOCGUGEG4felXr0fqYg=="/>
+			<POI MapID="1195" xpos="196.974" ypos="554.155" zpos="32.0514"  type="chroniques.saison_3.ep5_point_d_ignition.connaissance_du_mont_draconis__gorge_brulante.acces" GUID="Sos0OBYoGUODZT9XeWAQKQ=="/>
+			<POI MapID="1195" xpos="192.751" ypos="553.987" zpos="29.607"   type="chroniques.saison_3.ep5_point_d_ignition.connaissance_du_mont_draconis__gorge_brulante.acces" GUID="uKkNivw29USoC0yCQk2AyQ=="/>
+			<POI MapID="1195" xpos="182.017" ypos="582.84"  zpos="28.212"   type="chroniques.saison_3.ep5_point_d_ignition.connaissance_du_mont_draconis__gorge_brulante.acces" GUID="oF1zWmSDQUWJtZZCC9xkIQ==" iconFile="Img\Cible.png"/>
+			<POI MapID="1195" xpos="174.157" ypos="567.004" zpos="25.0711"  type="chroniques.saison_3.ep5_point_d_ignition.connaissance_du_mont_draconis__gorge_brulante.acces" GUID="U5b+zllBY0mpxgt+vYnesg=="/>
+			<POI MapID="1195" xpos="163.51"  ypos="565.838" zpos="17.6547"  type="chroniques.saison_3.ep5_point_d_ignition.connaissance_du_mont_draconis__gorge_brulante.acces" GUID="3a9tG09cL0OZkga2qwkpSw=="/>
+			<POI MapID="1195" xpos="153.332" ypos="566.166" zpos="17.7309"  type="chroniques.saison_3.ep5_point_d_ignition.connaissance_du_mont_draconis__gorge_brulante.acces" GUID="Zm/7mxRSO0WiNR8uu/6Y2g=="/>
+			<POI MapID="1195" xpos="142.693" ypos="566.365" zpos="19.7134"  type="chroniques.saison_3.ep5_point_d_ignition.connaissance_du_mont_draconis__gorge_brulante.acces" GUID="DCYc7KFbe0+IeucgXQB02w=="/>
+			<POI MapID="1195" xpos="133.068" ypos="563.934" zpos="21.6467"  type="chroniques.saison_3.ep5_point_d_ignition.connaissance_du_mont_draconis__gorge_brulante.acces" GUID="YX701kaPukS3haw1TlTpag=="/>
+			<POI MapID="1195" xpos="124.851" ypos="564.951" zpos="25.9061"  type="chroniques.saison_3.ep5_point_d_ignition.connaissance_du_mont_draconis__gorge_brulante.acces" GUID="Ku1ZR4cSkE6Qu9Y8nP/AZg=="/>
+			<POI MapID="1195" xpos="118.054" ypos="567.111" zpos="30.3115"  type="chroniques.saison_3.ep5_point_d_ignition.connaissance_du_mont_draconis__gorge_brulante.acces" GUID="xstGRJhfXU2ZdZ5jSq77zw=="/>
+			<POI MapID="1195" xpos="107.814" ypos="567.319" zpos="33.599"   type="chroniques.saison_3.ep5_point_d_ignition.connaissance_du_mont_draconis__gorge_brulante.acces" GUID="wga7R1xosUOG9tlRZZvfcA=="/>
+			<POI MapID="1195" xpos="97.1989" ypos="566.905" zpos="37.1643"  type="chroniques.saison_3.ep5_point_d_ignition.connaissance_du_mont_draconis__gorge_brulante.acces" GUID="1MAZvY97h0WkUglAUWM9NQ=="/>
+			<POI MapID="1195" xpos="87.219"  ypos="567.22"  zpos="40.2454"  type="chroniques.saison_3.ep5_point_d_ignition.connaissance_du_mont_draconis__gorge_brulante.acces" GUID="LstBS7RXR0W7IaDFVSGDkQ=="/>
+			<POI MapID="1195" xpos="77.1191" ypos="568.06"  zpos="43.9553"  type="chroniques.saison_3.ep5_point_d_ignition.connaissance_du_mont_draconis__gorge_brulante.acces" GUID="b6Zek9vepkGYrHXffl6djA=="/>
+			<POI MapID="1195" xpos="67.7209" ypos="569.18"  zpos="47.3221"  type="chroniques.saison_3.ep5_point_d_ignition.connaissance_du_mont_draconis__gorge_brulante.acces" GUID="FtjxR/BD40+4BaaiZ/rswQ=="/>
+			<POI MapID="1195" xpos="58.0688" ypos="568.731" zpos="50.2499"  type="chroniques.saison_3.ep5_point_d_ignition.connaissance_du_mont_draconis__gorge_brulante.acces" GUID="JqPEFRLe+kaK/iinuot1Gg=="/>
+		</Route>
+
+	</POIs>
+</OverlayData>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+POIs: ReActif.9251
+Date: 2017/08/11
+-->
+<OverlayData>
+	<MarkerCategory name="heart_of_thorns.oree_d_emeraude">
+		<MarkerCategory name="maitre_de_la_plongee__oree_d_emeraude" DisplayName="Dive Master: Verdant Brink" iconFile="Img\Plongeon.png" heightOffset="0">
+			<MarkerCategory name="guide" DisplayName="Guide" iconFile="Img\Guide.png" iconSize="0.75"/>
+		</MarkerCategory>
+	</MarkerCategory>
+
+	<POIs>
+
+		<!-- Lunettes de plongée -->
+		<POI MapID="1052" xpos="98.5821" ypos="690.09" zpos="21.0419" type="heart_of_thorns.oree_d_emeraude.maitre_de_la_plongee__oree_d_emeraude" GUID="m1N97XcAtUCPdHrlJuDRzw=="/>
+
+		<!-- Saut -->
+		<Route MapID="1052" name="Maitre_de_la_Plongee_Oree_d_Emeraude" resetposx="98.5821" resetposy="690.09" resetposz="21.0419" resetrange="2">
+			<POI MapID="1052" xpos="93.036"  ypos="686.803" zpos="21.384"    type="heart_of_thorns.oree_d_emeraude.maitre_de_la_plongee__oree_d_emeraude.guide" GUID="CGC3cwRHQUGawcEA+QzCjQ=="/>
+			<POI MapID="1052" xpos="86.8234" ypos="687.646" zpos="22.1866"   type="heart_of_thorns.oree_d_emeraude.maitre_de_la_plongee__oree_d_emeraude.guide" GUID="sLy6V23X3keqRFsqGdDGtg=="/>
+			<POI MapID="1052" xpos="86.7921" ypos="650"     zpos="22.6255"   type="heart_of_thorns.oree_d_emeraude.maitre_de_la_plongee__oree_d_emeraude.guide" GUID="us24rKRi+UC6Y+rDyHJjMg==" triggerRange="10"/>
+			<POI MapID="1052" xpos="86.8714" ypos="625"     zpos="22.7813"   type="heart_of_thorns.oree_d_emeraude.maitre_de_la_plongee__oree_d_emeraude.guide" GUID="53RbDx/ZTUqzTKof8BW6JQ==" triggerRange="10"/>
+			<POI MapID="1052" xpos="86.9027" ypos="600"     zpos="22.8428"   type="heart_of_thorns.oree_d_emeraude.maitre_de_la_plongee__oree_d_emeraude.guide" GUID="wp0sO7F3QUSk+wDYMafXgw==" triggerRange="10"/>
+			<POI MapID="1052" xpos="86.7073" ypos="575"     zpos="22.0126"   type="heart_of_thorns.oree_d_emeraude.maitre_de_la_plongee__oree_d_emeraude.guide" GUID="HKc8nt09AkyHlPaJVVNdnw==" triggerRange="10"/>
+			<POI MapID="1052" xpos="85.9136" ypos="550"     zpos="17.7308"   type="heart_of_thorns.oree_d_emeraude.maitre_de_la_plongee__oree_d_emeraude.guide" GUID="qAU8ytUWhEKXsUtfyWqk3A==" triggerRange="10"/>
+			<POI MapID="1052" xpos="85.5231" ypos="525"     zpos="15.503"    type="heart_of_thorns.oree_d_emeraude.maitre_de_la_plongee__oree_d_emeraude.guide" GUID="/PVP/nmW1UG6Q0gPY2zDjA==" triggerRange="10"/>
+			<POI MapID="1052" xpos="85.4488" ypos="500"     zpos="12.7131"   type="heart_of_thorns.oree_d_emeraude.maitre_de_la_plongee__oree_d_emeraude.guide" GUID="/6zehrGsL0iBQXltQ8poPA==" triggerRange="10"/>
+			<POI MapID="1052" xpos="85.4345" ypos="475"     zpos="12.4037"   type="heart_of_thorns.oree_d_emeraude.maitre_de_la_plongee__oree_d_emeraude.guide" GUID="VWWKdHDsjkSoY6Tex2c3HA==" triggerRange="10"/>
+			<POI MapID="1052" xpos="85.1254" ypos="450"     zpos="9.41607"   type="heart_of_thorns.oree_d_emeraude.maitre_de_la_plongee__oree_d_emeraude.guide" GUID="+QjRzMf/E0iSxk6lAP2rWA==" triggerRange="10"/>
+			<POI MapID="1052" xpos="84.8549" ypos="425"     zpos="6.85392"   type="heart_of_thorns.oree_d_emeraude.maitre_de_la_plongee__oree_d_emeraude.guide" GUID="F1KLCWhwBE+Htcrag3KBRQ==" triggerRange="10"/>
+			<POI MapID="1052" xpos="84.8047" ypos="400"     zpos="2.97934"   type="heart_of_thorns.oree_d_emeraude.maitre_de_la_plongee__oree_d_emeraude.guide" GUID="MK/ALn4ZkEO7iwk42QMsaA==" triggerRange="10"/>
+			<POI MapID="1052" xpos="84.897"  ypos="390"     zpos="-0.491086" type="heart_of_thorns.oree_d_emeraude.maitre_de_la_plongee__oree_d_emeraude.guide" GUID="Jt6ssBDrfU+hXTkWUbUNnQ==" triggerRange="10"/>
+			<POI MapID="1052" xpos="84.8528" ypos="380"     zpos="-2.29893"  type="heart_of_thorns.oree_d_emeraude.maitre_de_la_plongee__oree_d_emeraude.guide" GUID="2YaUgYdGUU+ZpGh3ve8yNw==" triggerRange="10"/>
+		</Route>
+
+		<!-- Arrivée -->
+		<POI MapID="1052" xpos="84.13" ypos="374.679" zpos="-3.65066" type="heart_of_thorns.oree_d_emeraude.maitre_de_la_plongee__oree_d_emeraude" GUID="WrZMC56o7EK/ZFogiy91NQ==" iconFile="Img\Cible.png" iconSize="2.5" heightOffset="0"/>
+
+	</POIs>
+</OverlayData>

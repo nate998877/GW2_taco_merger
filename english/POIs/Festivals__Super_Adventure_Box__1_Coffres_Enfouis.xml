@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+POIs: Lulleh.6714 - Ainillia.5794 - Elycian - ReActif.9251
+Date: 2017/04/18
+-->
+<OverlayData>
+	<MarkerCategory name="festivals" DisplayName="Seasonal Events">
+		<MarkerCategory name="super_adventure_box" DisplayName="Super Adventure Box" iconSize="0.5" fadeNear="6000" fadeFar="7000">
+			<MarkerCategory name="coffres_enfouis" DisplayName="Buried Chests" iconFile="Img\Coffre.png" heightOffset="0" behavior="2">
+				<MarkerCategory name="5"  DisplayName="  5 Baubles" iconFile="Img\SAB_Coffre5.png" iconSize="1"/>
+				<MarkerCategory name="10" DisplayName=" 10 Baubles" iconFile="Img\SAB_Coffre10.png" iconSize="1"/>
+				<MarkerCategory name="20" DisplayName=" 20 Baubles" iconFile="Img\SAB_Coffre20.png" iconSize="1"/>
+				<MarkerCategory name="40" DisplayName=" 40 Baubles" iconFile="Img\SAB_Coffre40.png" iconSize="1"/>
+				<MarkerCategory name="50" DisplayName=" 50 Baubles" iconFile="Img\SAB_Coffre50.png" iconSize="1"/>
+			</MarkerCategory>
+		</MarkerCategory>
+	</MarkerCategory>
+
+	<POIs>
+
+		<!-- Monde 1 - Zone 1 (40) -->
+		<POI MapID="895" xpos="-1108.33" ypos="56.08" zpos="474.64" type="festivals.super_adventure_box.coffres_enfouis.20" GUID="dQJEoDRjUEuf8eek6gdG+w=="/>
+		<POI MapID="895" xpos="-1106.26" ypos="60.16" zpos="442.48" type="festivals.super_adventure_box.coffres_enfouis.20" GUID="fxx+QHErJkKZp8WZB7h/3Q=="/>
+
+		<!-- Monde 1 - Zone 2 (195) -->
+		<POI MapID="895" xpos="-645.79" ypos="53.66" zpos="492.87" type="festivals.super_adventure_box.coffres_enfouis.5" GUID="xqpuhed8v0a0GA+8vwUEXQ=="/>
+		<POI MapID="895" xpos="-456.18" ypos="54.50" zpos="513.35" type="festivals.super_adventure_box.coffres_enfouis.5" GUID="X40ZNPKNA0OS2yTFoLx3kg=="/>
+		<POI MapID="895" xpos="-446.54" ypos="62.99" zpos="478.96" type="festivals.super_adventure_box.coffres_enfouis.10" GUID="6KA69DEQx0Wjl4XS422INQ=="/>
+		<POI MapID="895" xpos="-432.64" ypos="84.39" zpos="539.28" type="festivals.super_adventure_box.coffres_enfouis.20" GUID="OfcMMNYUAEutfdHayZSnFg=="/>
+		<POI MapID="895" xpos="-377.87" ypos="54.23" zpos="466.18" type="festivals.super_adventure_box.coffres_enfouis.10" GUID="7U9HnaSgbkeUm8ECYqhcTA=="/>
+		<POI MapID="895" xpos="-340.73" ypos="50.72" zpos="479.05" type="festivals.super_adventure_box.coffres_enfouis.20" GUID="pOpTNvHNWUmS3hyf6pO9RQ=="/>
+		<POI MapID="895" xpos="-252.04" ypos="66.55" zpos="537.78" type="festivals.super_adventure_box.coffres_enfouis.50" GUID="lnpRRJofOU6ErWqwFPY5Jg=="/>
+		<POI MapID="895" xpos="-244.01" ypos="78.71" zpos="464.36" type="festivals.super_adventure_box.coffres_enfouis.20" GUID="jPYkk38BiEuC/QYt/9xSRg=="/>
+		<POI MapID="895" xpos="-97.55" ypos="54.21" zpos="495.94" type="festivals.super_adventure_box.coffres_enfouis.10" GUID="D0weDwb0NkO8tuKolaGiWg=="/>
+		<POI MapID="895" xpos="-75.75" ypos="71.23" zpos="486.21" type="festivals.super_adventure_box.coffres_enfouis.20" GUID="dER+MO4KQ02yJ1+CmBAIig=="/>
+		<POI MapID="895" xpos="-65.46" ypos="71.23" zpos="491.34" type="festivals.super_adventure_box.coffres_enfouis.20" GUID="z5QVbgU+XEei6bRuMa1anw=="/>
+		<POI MapID="895" xpos="-46.99" ypos="62.41" zpos="450.75" type="festivals.super_adventure_box.coffres_enfouis.5" GUID="aP6QxBCt7U677915tTOgMQ=="/>
+
+		<!-- Monde 1 - Zone 3 (170) -->
+		<POI MapID="895" xpos="-850.55" ypos="63.64" zpos="369.99" type="festivals.super_adventure_box.coffres_enfouis.20" GUID="KS7id5OmGUi59nI5NBdwmA=="/>
+		<POI MapID="895" xpos="-781.24" ypos="45.25" zpos="371.50" type="festivals.super_adventure_box.coffres_enfouis.20" GUID="NLwicyZ1gkqsCZ4/Phw7pQ=="/>
+		<POI MapID="895" xpos="-769.78" ypos="60.16" zpos="296.65" type="festivals.super_adventure_box.coffres_enfouis.10" GUID="ZvUQO3iS20qVschxJ9CIBw=="/>
+		<POI MapID="895" xpos="-742.16" ypos="46.25" zpos="361.44" type="festivals.super_adventure_box.coffres_enfouis.50" GUID="Fr2BhvOmEk2FnSklp4LYuQ=="/>
+		<POI MapID="895" xpos="-328.27" ypos="55.94" zpos="380.25" type="festivals.super_adventure_box.coffres_enfouis.20" GUID="lbsNt7u2YUe8YOmMNF9FJw=="/>
+		<POI MapID="895" xpos="-325.53" ypos="62.36" zpos="319.24" type="festivals.super_adventure_box.coffres_enfouis.50" GUID="kWVOyxNdI0eoJZnTWSJnRQ=="/>
+
+
+		<!-- Monde 2 - Zone 1 (220) -->
+		<POI MapID="934" xpos="-613.73" ypos="219.23" zpos="-486.16" type="festivals.super_adventure_box.coffres_enfouis.50" GUID="5LPe8RzSGUigouexVurccA=="/>
+		<POI MapID="934" xpos="-592.74" ypos="223.99" zpos="-435.93" type="festivals.super_adventure_box.coffres_enfouis.20" GUID="EasAmfoACEO4dVZGfpYtIQ=="/>
+		<POI MapID="934" xpos="-541.09" ypos="187.10" zpos="-429.92" type="festivals.super_adventure_box.coffres_enfouis.20" GUID="NVBQbFdkDUC9CmLTJjYwFQ=="/>
+		<POI MapID="934" xpos="-532.69" ypos="217.18" zpos="-387.92" type="festivals.super_adventure_box.coffres_enfouis.20" GUID="bdKTf97Rh06JQ1Dkp5BJ9w=="/>
+		<POI MapID="934" xpos="-263.91" ypos="202.17" zpos="-439.88" type="festivals.super_adventure_box.coffres_enfouis.20" GUID="Z7EAHIGyvkWlUUIXwmyGTw=="/>
+		<POI MapID="934" xpos="-223.10" ypos="215.52" zpos="-386.97" type="festivals.super_adventure_box.coffres_enfouis.20" GUID="U50DbKMKCEyzOT/j96Rbbw=="/>
+		<POI MapID="934" xpos="-212.26" ypos="208.05" zpos="-213.38" type="festivals.super_adventure_box.coffres_enfouis.20" GUID="uQZ2dtYjJ0i6QB49RqhLuQ=="/>
+		<POI MapID="934" xpos="-163.92" ypos="210.872" zpos="-330.78" type="festivals.super_adventure_box.coffres_enfouis.50" GUID="p4sKLT6XaUSWJHIgBA5x8g=="/>
+
+		<!-- Monde 2 - Zone 2 (180) -->
+		<POI MapID="934" xpos="219.239" ypos="256.226" zpos="-95.4962" type="festivals.super_adventure_box.coffres_enfouis.50" GUID="WZu2HIqkA0WQJmAOJUEQeQ=="/>
+		<POI MapID="934" xpos="275.569" ypos="221.043" zpos="-311.202" type="festivals.super_adventure_box.coffres_enfouis.50" GUID="5x1ijRqT2kyXianK/vCWJQ=="/>
+		<POI MapID="934" xpos="336.572" ypos="271.985" zpos="212.64" type="festivals.super_adventure_box.coffres_enfouis.20" GUID="aeBE0HKnFUeKZQP5pGhD0Q=="/>
+		<POI MapID="934" xpos="377.709" ypos="253.2" zpos="-296.027" type="festivals.super_adventure_box.coffres_enfouis.20" GUID="TbF2Vs5xB0SHU9cM9PNFsQ=="/>
+		<POI MapID="934" xpos="561.882" ypos="284.329" zpos="-86.0825" type="festivals.super_adventure_box.coffres_enfouis.20" GUID="ltIkkHu9mEm9QJ1sn4MRRw=="/>
+		<POI MapID="934" xpos="603.158" ypos="275.202" zpos="-16.0616" type="festivals.super_adventure_box.coffres_enfouis.20" GUID="SBwdFoabz0+v/Hlbn6JCPg=="/>
+
+		<!-- Monde 2 - Zone 3 (300) -->
+		<POI MapID="934" xpos="-61.76" ypos="126.45" zpos="133.99" type="festivals.super_adventure_box.coffres_enfouis.10" GUID="mT83Oo1w80yFJf/bsULzZw=="/>
+		<POI MapID="934" xpos="-54.11" ypos="126.09" zpos="50.82" type="festivals.super_adventure_box.coffres_enfouis.10" GUID="UYNQlpkglUiuIElFeSHTzw=="/>
+		<POI MapID="934" xpos="-53.88" ypos="174.99" zpos="217.08" type="festivals.super_adventure_box.coffres_enfouis.20" GUID="68EebcuYuke9Q1GCB3AKzg=="/>
+		<POI MapID="934" xpos="-35.48" ypos="125.21" zpos="74.43" type="festivals.super_adventure_box.coffres_enfouis.20" GUID="7xnndY5z+Em/WVJkg5jn1Q=="/>
+		<POI MapID="934" xpos="-26.96" ypos="82.07" zpos="62.04" type="festivals.super_adventure_box.coffres_enfouis.20" GUID="KLpji6/eQ0CcilEeJTPX4Q=="/>
+		<POI MapID="934" xpos="-26.66" ypos="31.54" zpos="145.27" type="festivals.super_adventure_box.coffres_enfouis.50" GUID="k4HwD6kX00qPExFrj+dr/Q=="/>
+		<POI MapID="934" xpos="-23.68" ypos="41.03" zpos="134.87" type="festivals.super_adventure_box.coffres_enfouis.50" GUID="zlj2z1WxsU+2uqES4XvIsA=="/>
+		<POI MapID="934" xpos="-20.36" ypos="167.46" zpos="64.19" type="festivals.super_adventure_box.coffres_enfouis.20" GUID="v/tLlTRDvUKKGXsSWuhTcg=="/>
+		<POI MapID="934" xpos="-11.36" ypos="42.17" zpos="70.81" type="festivals.super_adventure_box.coffres_enfouis.50" GUID="jHd4g1JuwUOExr1xrl1MhQ=="/>
+		<POI MapID="934" xpos="11.66" ypos="134.72" zpos="125.44" type="festivals.super_adventure_box.coffres_enfouis.50" GUID="pCLDNLE+fk+g1rISbKUrDg=="/>
+
+	</POIs>
+</OverlayData>

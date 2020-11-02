@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+POIs: ReActif.9251
+Date: 2016/12/27
+-->
+<OverlayData>
+	<MarkerCategory name="general" DisplayName="General">
+		<MarkerCategory name="explorateur" DisplayName="Explorer" iconFile="Img\Explorateur.png" behavior="3">
+			<MarkerCategory name="cours_d_eau_oublie" DisplayName="Forgotten Stream"/>
+		</MarkerCategory>
+	</MarkerCategory>
+
+	<POIs>
+
+		<!-- Entrée -->
+		<POI MapID="62" xpos="156.197" ypos="-11.5941" zpos="413.501" type="general.explorateur.cours_d_eau_oublie" GUID="xvn4KLTSNEC/xoPd09/9Zg==" iconFile="Img\Fleche.png" iconSize="1.5"/>
+
+		<!-- Coffre -->
+		<POI MapID="62" xpos="376.305" ypos="0.489664" zpos="538.948" type="general.explorateur.cours_d_eau_oublie" GUID="cMY/U62D9k2U1mJHSQbu9A==" iconFile="Img\CoffreMiniDonjon.png" heightOffset="2"/>
+
+	</POIs>
+</OverlayData>

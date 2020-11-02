@@ -1,0 +1,27 @@
+<!-- 2019.12.25 -->
+<OverlayData>
+	<POIs>
+
+		<!-- DREAMS OF A THORNS -->
+		<!--  2 --> <POI MapID="91"  xpos="8.72644"  ypos="0.168639" zpos="215.006"  type="side_stories.dreams_of_a_thorn" GUID="lNtu9eWNP0qTf8SUxJBUHg==" behavior="3"/>
+					<Trail type="side_stories.dreams_of_a_thorn" GUID="7K9x6DT/rk+xj5qvahReQQ==" trailData="Data/SideStories/KnightOfTheThorn/DreamsOfAThorn1.trl" texture="Data/Arrow.png" color="ffffdd00" alpha="0.8" fadeNear="1500" fadeFar="2000" animSpeed="0"/>
+		<!--  3 --> <POI MapID="21"  xpos="-841.578" ypos="65.3647"  zpos="856.886"  type="side_stories.dreams_of_a_thorn" GUID="xYel/OFA1UyycQ746v85kw==" behavior="3"/>
+		<!--  4 --> <POI MapID="22"  xpos="-855.993" ypos="70.6184"  zpos="-499.263" type="side_stories.dreams_of_a_thorn" GUID="HmY4moeodkWQJGSqkn7LTA==" behavior="3"/>
+		<!--  5 --> <POI MapID="988" xpos="-388.472" ypos="20.6737"  zpos="-79.128"  type="side_stories.dreams_of_a_thorn" GUID="vjRMVA41w0GfF7akiHb9Vg==" behavior="3"/>
+		<!--  6 --> <POI MapID="32"  xpos="-1060.88" ypos="67.894"   zpos="-621.563" type="side_stories.dreams_of_a_thorn" GUID="kyX5zRfC20idBhit624VSA==" behavior="3"/>
+					<POI MapID="32"  xpos="-952.816" ypos="40.6695"  zpos="-611.553" type="side_stories.dreams_of_a_thorn" GUID="h1inch6/6UuapECsYID49A=="/>
+					<Trail type="side_stories.dreams_of_a_thorn" GUID="Rp5iwXVxc0aJ3/rlcax/yQ==" trailData="Data/SideStories/KnightOfTheThorn/DreamsOfAThorn2.trl" texture="Data/Arrow.png" color="ffffdd00" alpha="0.8" fadeNear="1500" fadeFar="2000" animSpeed="0"/>
+		<!--  7 --> <POI MapID="17"  xpos="977.011"  ypos="107.707"  zpos="308.074"  type="side_stories.dreams_of_a_thorn" GUID="vsn/aUhor0msRjxP5vPuNg==" behavior="3"/>
+		<!--  8 --> <POI MapID="24"  xpos="-1219.76" ypos="29.1487"  zpos="-431.598" type="side_stories.dreams_of_a_thorn" GUID="HXSZWcWg7kSkXtI/rCYfsQ==" behavior="3"/>
+		<!--  9 --> <POI MapID="23"  xpos="781.599"  ypos="33.7614"  zpos="-156.422" type="side_stories.dreams_of_a_thorn" GUID="uQs0q8Fg8E6mrm0zwg8kxg==" behavior="3"/>
+		<!-- 10 --> <POI MapID="53"  xpos="-50.2103" ypos="0.142412" zpos="-644.636" type="side_stories.dreams_of_a_thorn" GUID="AZTI9lqPRkGELIgegs0Kcg==" behavior="3"/>
+		<!-- 11 --> <POI MapID="54"  xpos="-982.54"  ypos="16.7258"  zpos="-292.536" type="side_stories.dreams_of_a_thorn" GUID="skLZgHNfAEKTTLJT3++zgg==" behavior="3"/>
+
+		<!-- SHARDS OF A THORN -->
+		<!-- 2 --><POI MapID="1052" xpos="-344.785" ypos="459.909"  zpos="396.646"  type="side_stories.shards_of_a_thorn" GUID="chN1u2BB8kiSyQzEwW7OYQ=="/>
+		<!-- 3 --><POI MapID="1043" xpos="-477.61"  ypos="108.767"  zpos="-256.435" type="side_stories.shards_of_a_thorn" GUID="k9GtxJza60mLacZ615eZuA=="/>
+		<!-- 4 --><POI MapID="1045" xpos="-647.805" ypos="-213.556" zpos="-266.167" type="side_stories.shards_of_a_thorn" GUID="7nLQcuX6NUe06KmeVjIl5A=="/>
+		<!-- 5 --><POI MapID="1095" xpos="-651.521" ypos="175.32"   zpos="-625.086" type="side_stories.shards_of_a_thorn" GUID="/6HpE5aTU0ycEsm0BsCPDA=="/>
+
+	</POIs>
+</OverlayData>

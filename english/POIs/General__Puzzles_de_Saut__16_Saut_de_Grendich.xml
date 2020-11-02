@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+POIs: Cloud Strife.7492 - Xenophy.2716 - ReActif.9251
+Date: 2017/08/23
+-->
+<OverlayData>
+	<MarkerCategory name="general" DisplayName="General">
+		<MarkerCategory name="puzzles_de_saut" DisplayName="Jumping Puzzles" iconFile="Img\Guide.png" iconSize="0.75">
+			<MarkerCategory name="saut_de_grendich" DisplayName="Grendich Gamble" triggerRange="2"/>
+		</MarkerCategory>
+	</MarkerCategory>
+
+	<POIs>
+
+		<!-- Début -->
+		<POI MapID="32" xpos="-124.59" ypos="42.47" zpos="110.15" type="general.puzzles_de_saut.debut" GUID="vT5WwvjHwk2OSTlrvS8QQQ=="/>
+
+		<!-- Route -->
+		<Route MapID="32" name="Saut_de_Grendich" resetposx="-124.59" resetposy="42.47" resetposz="110.15" resetrange="2">
+			<POI MapID="32" xpos="-121.622" ypos="46.2165" zpos="115.142" type="general.puzzles_de_saut.saut_de_grendich" GUID="qJLk89GjmkuXkq/NqOZi5A=="/>
+			<POI MapID="32" xpos="-118.703" ypos="48.0199" zpos="120.635" type="general.puzzles_de_saut.saut_de_grendich" GUID="jGonzvyEi024ce+GHII5Vw=="/>
+			<POI MapID="32" xpos="-116.436" ypos="48.0199" zpos="125.938" type="general.puzzles_de_saut.saut_de_grendich" GUID="ms/XLFFfM0qdb0se4eT8tA=="/>
+			<POI MapID="32" xpos="-111.856" ypos="50.4622" zpos="126.184" type="general.puzzles_de_saut.saut_de_grendich" GUID="+N2nX7jHpEud9HDm9AeZMA=="/>
+			<POI MapID="32" xpos="-106.872" ypos="54.0882" zpos="124.161" type="general.puzzles_de_saut.saut_de_grendich" GUID="8Zl0tod83k2VQfce24EOmA=="/>
+			<POI MapID="32" xpos="-99.8544" ypos="55.39" zpos="120.702" type="general.puzzles_de_saut.saut_de_grendich" GUID="HoZSzCp75EC/+cL7PiWpJw=="/>
+			<POI MapID="32" xpos="-102.369" ypos="55.39" zpos="112.324" type="general.puzzles_de_saut.saut_de_grendich" GUID="R15skXQKtkqkz0d3SA0Sqw=="/>
+			<POI MapID="32" xpos="-105.52" ypos="54.5435" zpos="107.367" type="general.puzzles_de_saut.saut_de_grendich" GUID="gwHpn2EWlEONSRAbKYrSGg=="/>
+			<POI MapID="32" xpos="-108.465" ypos="57.092" zpos="102.34" type="general.puzzles_de_saut.saut_de_grendich" GUID="PgkcBezGkEKBrvZJ0StvTw=="/>
+			<POI MapID="32" xpos="-110.724" ypos="58.4197" zpos="99.5343" type="general.puzzles_de_saut.saut_de_grendich" GUID="LxxiLB74uku7Z2hXM/1P4Q=="/>
+			<POI MapID="32" xpos="-112.446" ypos="58.2481" zpos="95.0674" type="general.puzzles_de_saut.saut_de_grendich" GUID="KkfaAcnxoU6s+0b9Y5h4bw==" triggerRange="3"/>
+			<POI MapID="32" xpos="-114.784" ypos="61.5624" zpos="96.7" type="general.puzzles_de_saut.saut_de_grendich" GUID="h7xm9e1wg0egkHJLlw/tAw=="/>
+			<POI MapID="32" xpos="-119.225" ypos="64.7225" zpos="98.0241" type="general.puzzles_de_saut.saut_de_grendich" GUID="qxo2L2YP5ky7DdNRuNBWLw=="/>
+			<POI MapID="32" xpos="-121.345" ypos="66.8051" zpos="98.9209" type="general.puzzles_de_saut.saut_de_grendich" GUID="fRwBt/pexE+G9bWuRxoRbQ=="/>
+			<POI MapID="32" xpos="-116.266" ypos="67.3319" zpos="103.111" type="general.puzzles_de_saut.saut_de_grendich" GUID="6AFrSomVX0uYH9sLbPgErQ=="/>
+			<POI MapID="32" xpos="-112.101" ypos="68.7521" zpos="100.936" type="general.puzzles_de_saut.saut_de_grendich" GUID="5mam+xTiBUGD1ym3muZZ8g=="/>
+			<POI MapID="32" xpos="-110.371" ypos="70.9016" zpos="103.087" type="general.puzzles_de_saut.saut_de_grendich" GUID="JsWvOyKxqkiRHNKQ2MZAow=="/>
+			<POI MapID="32" xpos="-114.932" ypos="72.289" zpos="105.22" type="general.puzzles_de_saut.saut_de_grendich" GUID="AdlgxyMWok2l7NIPKekF5g=="/>
+			<POI MapID="32" xpos="-117.261" ypos="69.7248" zpos="110.393" type="general.puzzles_de_saut.saut_de_grendich" GUID="5UA6JuEP9kudNrS7EH3FzQ=="/>
+			<POI MapID="32" xpos="-115.303" ypos="68.8115" zpos="115.66" type="general.puzzles_de_saut.saut_de_grendich" GUID="V5U0JBQYk0y+VpoM+B7IZQ=="/>
+			<POI MapID="32" xpos="-113.405" ypos="68.8201" zpos="120.543" type="general.puzzles_de_saut.saut_de_grendich" GUID="R4zGvIsDUUuLGdAJ6DcRFQ=="/>
+			<POI MapID="32" xpos="-107.733" ypos="70.3431" zpos="120.117" type="general.puzzles_de_saut.saut_de_grendich" GUID="ys4K0GTurEqwiB9Sg6St4A=="/>
+			<POI MapID="32" xpos="-105.503" ypos="70.8718" zpos="122.234" type="general.puzzles_de_saut.saut_de_grendich" GUID="XmQmOT94T0284IlYBfw4Jw=="/>
+			<POI MapID="32" xpos="-103.458" ypos="72.5497" zpos="119.852" type="general.puzzles_de_saut.saut_de_grendich" GUID="NMQj8s9njUqbBrmvNo1Ldg=="/>
+			<POI MapID="32" xpos="-105.904" ypos="74.2651" zpos="122.079" type="general.puzzles_de_saut.saut_de_grendich" GUID="rGDkwGLfr0ioY8SF4zejow=="/>
+			<POI MapID="32" xpos="-108.701" ypos="74.6137" zpos="120.36" type="general.puzzles_de_saut.saut_de_grendich" GUID="pYtUWe+It0SRpdqXvoFfhw=="/>
+			<POI MapID="32" xpos="-110.891" ypos="73.0197" zpos="116.322" type="general.puzzles_de_saut.saut_de_grendich" GUID="c/o0nUJkNk+KElaxeDpaDg=="/>
+			<POI MapID="32" xpos="-113.119" ypos="74.6158" zpos="110.881" type="general.puzzles_de_saut.saut_de_grendich" GUID="wWgNjkPuvESDeRai2wHonA=="/>
+			<POI MapID="32" xpos="-113.912" ypos="76.641" zpos="106.998" type="general.puzzles_de_saut.saut_de_grendich" GUID="Q3YqzXJz80qTWR/n4O75MA=="/>
+			<POI MapID="32" xpos="-108.657" ypos="77.2351" zpos="106.649" type="general.puzzles_de_saut.saut_de_grendich" GUID="q09zWzzs7EmHUFyUNpIJIQ=="/>
+		</Route>
+
+		<!-- Combat -->
+		<POI MapID="32" xpos="-106.74" ypos="77.2351" zpos="111.566" type="general.puzzles_de_saut.saut_de_grendich" GUID="ztSPkDHFmUOToMcS/lHdNw==" iconFile="Img\Combat.png" iconSize="1" color="ffe52020" behavior="2"/>
+
+	</POIs>
+</OverlayData>

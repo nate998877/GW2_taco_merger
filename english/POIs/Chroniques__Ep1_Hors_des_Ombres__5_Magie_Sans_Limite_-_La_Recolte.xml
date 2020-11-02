@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+POIs: ReActif.9251
+Date: 2017/08/11
+-->
+<OverlayData>
+	<MarkerCategory name="chroniques.saison_3">
+		<MarkerCategory name="ep1_hors_des_ombres" DisplayName="Ep.1 - Out of the Shadows" iconFile="Img\MaraisDeLaPierreDeSang.png">
+			<MarkerCategory name="magie_sans_limite__la_recolte" DisplayName="Magic Unbound: The Gathering" behavior="0"/>
+		</MarkerCategory>
+	</MarkerCategory>
+
+	<POIs>
+
+		<!-- Orbes de Magie Déliée -->
+		<POI MapID="1165" xpos="116.03"  ypos="842.895" zpos="82.8139" type="chroniques.saison_3.ep1_hors_des_ombres.magie_sans_limite__la_recolte" GUID="NQn9/LWEAEqAjhKH2+H+YQ=="/>
+		<POI MapID="1165" xpos="114.59"  ypos="824.77"  zpos="82.5525" type="chroniques.saison_3.ep1_hors_des_ombres.magie_sans_limite__la_recolte" GUID="0s6bvh7VuE+0ueYZzrpigQ=="/>
+		<POI MapID="1165" xpos="112.077" ypos="792.124" zpos="81.6815" type="chroniques.saison_3.ep1_hors_des_ombres.magie_sans_limite__la_recolte" GUID="RIB+t2eMbUyl0lUP3zSR1g=="/>
+		<POI MapID="1165" xpos="111.977" ypos="713.864" zpos="82.9486" type="chroniques.saison_3.ep1_hors_des_ombres.magie_sans_limite__la_recolte" GUID="NAZUufRWgUuGiLJ2wU2vAw=="/>
+		<POI MapID="1165" xpos="111.811" ypos="681.793" zpos="81.6053" type="chroniques.saison_3.ep1_hors_des_ombres.magie_sans_limite__la_recolte" GUID="mCFsnIpl8kaHAz5X2eruog=="/>
+		<POI MapID="1165" xpos="113.356" ypos="651.631" zpos="82.5468" type="chroniques.saison_3.ep1_hors_des_ombres.magie_sans_limite__la_recolte" GUID="VZZYliYEH0qe3HuINEj9WQ=="/>
+		<POI MapID="1165" xpos="112.082" ypos="592.81"  zpos="82.6854" type="chroniques.saison_3.ep1_hors_des_ombres.magie_sans_limite__la_recolte" GUID="ct+BmqcCH0CVpimONpfgpw=="/>
+		<POI MapID="1165" xpos="112.258" ypos="541.45"  zpos="82.3616" type="chroniques.saison_3.ep1_hors_des_ombres.magie_sans_limite__la_recolte" GUID="NJq4+Obh30iFKyhbYzPt6g=="/>
+		<POI MapID="1165" xpos="111.804" ypos="491.547" zpos="83.0436" type="chroniques.saison_3.ep1_hors_des_ombres.magie_sans_limite__la_recolte" GUID="9JA5d/LiX0O1S2jAwhrGDA=="/>
+		<POI MapID="1165" xpos="109.813" ypos="423.354" zpos="93.2766" type="chroniques.saison_3.ep1_hors_des_ombres.magie_sans_limite__la_recolte" GUID="8EJBX1QXKUq0ufuSKSqnfQ=="/>
+		<POI MapID="1165" xpos="117.641" ypos="379.825" zpos="81.175"  type="chroniques.saison_3.ep1_hors_des_ombres.magie_sans_limite__la_recolte" GUID="zG04pLn6q0awzj5/AKmoGA=="/>
+		<POI MapID="1165" xpos="116.988" ypos="348.21"  zpos="82.4965" type="chroniques.saison_3.ep1_hors_des_ombres.magie_sans_limite__la_recolte" GUID="iMe1AN+HdUe54pRNklSLLg=="/>
+		<POI MapID="1165" xpos="116.755" ypos="310.867" zpos="82.8784" type="chroniques.saison_3.ep1_hors_des_ombres.magie_sans_limite__la_recolte" GUID="40xdmlWozU6/3542QY3byg=="/>
+		<POI MapID="1165" xpos="117.426" ypos="279.71"  zpos="82.215"  type="chroniques.saison_3.ep1_hors_des_ombres.magie_sans_limite__la_recolte" GUID="IZEDYFEb+U6vrbj3rWxl/A=="/>
+		<POI MapID="1165" xpos="116.049" ypos="245.002" zpos="82.7116" type="chroniques.saison_3.ep1_hors_des_ombres.magie_sans_limite__la_recolte" GUID="6Y5xfg75UE2qYoC/V83JEQ=="/>
+		<POI MapID="1165" xpos="111.874" ypos="214.532" zpos="82.1328" type="chroniques.saison_3.ep1_hors_des_ombres.magie_sans_limite__la_recolte" GUID="PpL3yGyRPkmSGovDBmgYeg=="/>
+		<POI MapID="1165" xpos="109.356" ypos="187.73"  zpos="82.9555" type="chroniques.saison_3.ep1_hors_des_ombres.magie_sans_limite__la_recolte" GUID="FB3/FD6GkU+zt996kz/iWQ=="/>
+
+	</POIs>
+</OverlayData>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+POIs: ReActif.9251 - TMKFrench.6427
+Date: 2017/08/11
+-->
+<OverlayData>
+	<MarkerCategory name="chroniques.saison_3">
+		<MarkerCategory name="ep3_une_fissure_dans_la_glace" DisplayName="Ep.3 - A Crack in the Ice" iconFile="Img\ConfinsDeGivramer.png">
+			<MarkerCategory name="maitre_de_la_plongee__garder_la_tete_froide" DisplayName="Dive Master: Cold Feet" iconFile="Img\Plongeon.png" heightOffset="0"/>
+		</MarkerCategory>
+	</MarkerCategory>
+
+	<POIs>
+
+		<!-- Lunettes de Plongée -->
+		<POI MapID="1178" xpos="779.021" ypos="64.1348" zpos="136.384" type="chroniques.saison_3.ep3_une_fissure_dans_la_glace.maitre_de_la_plongee__garder_la_tete_froide" GUID="g50goYGngkCQFzgydrgO0Q=="/>
+
+		<!-- Cible -->
+		<POI MapID="1178" xpos="772.987" ypos="-1.05639" zpos="153.159" type="chroniques.saison_3.ep3_une_fissure_dans_la_glace.maitre_de_la_plongee__garder_la_tete_froide" GUID="zJuBjeGAAk2eq4Iv7SQYbA==" iconFile="Img\Cible.png" iconSize="2.5" heightOffset="0"/>
+
+	</POIs>
+</OverlayData>

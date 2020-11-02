@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+POIs: Lulleh.6714 - Ainillia.5794 - Elycian - ReActif.9251
+Date: 2017/04/06
+-->
+<OverlayData>
+	<MarkerCategory name="festivals" DisplayName="Seasonal Events">
+		<MarkerCategory name="super_adventure_box" DisplayName="Super Adventure Box" iconSize="0.5" fadeNear="6000" fadeFar="7000">
+			<MarkerCategory name="sciences_environnementales" DisplayName="Environmental Science" iconFile="Img\SAB.png" heightOffset="0" behavior="2"/>
+		</MarkerCategory>
+	</MarkerCategory>
+
+	<POIs>
+
+		<!-- Monde 1 - Zone 1 -->
+		<POI MapID="895" xpos="-932.229" ypos="49.3942" zpos="450.084" type="festivals.super_adventure_box.sciences_environnementales" GUID="j0rZQey0zU+RWJjpwTkXWw=="/>
+		<POI MapID="895" xpos="-936.297" ypos="49.3942" zpos="428.331" type="festivals.super_adventure_box.sciences_environnementales" GUID="SBVVI5JEV0u7zWaT9rnYCw=="/>
+		<POI MapID="895" xpos="-943.722" ypos="49.3942" zpos="429.237" type="festivals.super_adventure_box.sciences_environnementales" GUID="vPUfzIehjkCp1iZVIQumXw=="/>
+		<POI MapID="895" xpos="-957.779" ypos="49.3147" zpos="426.25" type="festivals.super_adventure_box.sciences_environnementales" GUID="kytWDWMP+Eu3MMknhz/P0g=="/>
+		<POI MapID="895" xpos="-966.201" ypos="49.3547" zpos="431.998" type="festivals.super_adventure_box.sciences_environnementales" GUID="51rTJzq3BkiXgiYCtyBO/w=="/>
+		<POI MapID="895" xpos="-967.005" ypos="49.2766" zpos="442.825" type="festivals.super_adventure_box.sciences_environnementales" GUID="5oIZdHfnYEOjkU1vfqBSJA=="/>
+		<POI MapID="895" xpos="-974.669" ypos="49.3529" zpos="445.468" type="festivals.super_adventure_box.sciences_environnementales" GUID="+ZyVgW8zj0Cvm21t2CU/4Q=="/>
+		<POI MapID="895" xpos="-983.916" ypos="53.0152" zpos="438.357" type="festivals.super_adventure_box.sciences_environnementales" GUID="Tqci5zKfEUum8QFCCN60bw=="/>
+		<POI MapID="895" xpos="-1001.2" ypos="49.2196" zpos="440.954" type="festivals.super_adventure_box.sciences_environnementales" GUID="+gPTO8NA6E246i01LczYIQ=="/>
+		<POI MapID="895" xpos="-1020.2" ypos="54.2585" zpos="451.062" type="festivals.super_adventure_box.sciences_environnementales" GUID="OVgOJhqu5EKgKwm5/mH/uw=="/>
+		<POI MapID="895" xpos="-1035.44" ypos="49.4668" zpos="454.662" type="festivals.super_adventure_box.sciences_environnementales" GUID="Z1hxTMUWJ0iR3XVdJd5iiA=="/>
+		<POI MapID="895" xpos="-1052.62" ypos="49.5385" zpos="456.69" type="festivals.super_adventure_box.sciences_environnementales" GUID="zyfKdIK2ek2W2n/YLC2p3A=="/>
+		<POI MapID="895" xpos="-1095.53" ypos="49.7316" zpos="473.762" type="festivals.super_adventure_box.sciences_environnementales" GUID="KDVyYTcTLE6GPM+Lq62UEQ=="/>
+
+		<!-- Monde 1 - Zone 2 -->
+		<POI MapID="895" xpos="-261.87" ypos="56.594" zpos="487.197" type="festivals.super_adventure_box.sciences_environnementales" GUID="CWSZW/p4EkSaAuFFi7hALQ=="/>
+		<POI MapID="895" xpos="-230.739" ypos="54.2504" zpos="498.297" type="festivals.super_adventure_box.sciences_environnementales" GUID="J1VJKzj1aUKIel150pKGhg=="/>
+		<POI MapID="895" xpos="-213.468" ypos="54.1145" zpos="515.688" type="festivals.super_adventure_box.sciences_environnementales" GUID="8YV1jFe/rU+VPBx750kztw=="/>
+
+		<!-- Monde 1 - Zone 3 -->
+		<POI MapID="895" xpos="-755.37" ypos="47.1699" zpos="339.379" type="festivals.super_adventure_box.sciences_environnementales" GUID="+Ij2aVedRk2X/E3y38xuzg=="/>
+		<POI MapID="895" xpos="-756.826" ypos="45.3896" zpos="370.268" type="festivals.super_adventure_box.sciences_environnementales" GUID="XR6d44voZkSVo215PGz9Cw=="/>
+		<POI MapID="895" xpos="-776.502" ypos="45.2525" zpos="383.685" type="festivals.super_adventure_box.sciences_environnementales" GUID="FFTk/1EhE0KWjqC7hlORkw=="/>
+		<POI MapID="895" xpos="-767.878" ypos="45.2634" zpos="388.774" type="festivals.super_adventure_box.sciences_environnementales" GUID="GDuDluDTEECb37ZTDL9iow=="/>
+		<POI MapID="895" xpos="-774.831" ypos="45.1423" zpos="394.812" type="festivals.super_adventure_box.sciences_environnementales" GUID="0QmClEw3FEmYGYsAE14BNA=="/>
+		<POI MapID="895" xpos="-764.414" ypos="45.38" zpos="401.811" type="festivals.super_adventure_box.sciences_environnementales" GUID="Xaqgaknhbku8OI7WK/FCdw=="/>
+		<POI MapID="895" xpos="-753.496" ypos="45.2538" zpos="393.052" type="festivals.super_adventure_box.sciences_environnementales" GUID="KhtWQSiwd0KzieFsIr/heg=="/>
+		<POI MapID="895" xpos="-738.059" ypos="46.7148" zpos="394.111" type="festivals.super_adventure_box.sciences_environnementales" GUID="sngoMZsr40ahERoDFDsxHQ=="/>
+		<POI MapID="895" xpos="-728.611" ypos="54.405" zpos="405.447" type="festivals.super_adventure_box.sciences_environnementales" GUID="XlirRFMuLkWqjkABl9sIzw=="/>
+
+
+		<!-- Monde 2 - Zone 1 -->
+		<POI MapID="934" xpos="-256.567" ypos="218.433" zpos="-246.465" type="festivals.super_adventure_box.sciences_environnementales" GUID="yLS1SvorYUeI7uhueer8mg=="/>
+		<POI MapID="934" xpos="-241.338" ypos="208.047" zpos="-233.774" type="festivals.super_adventure_box.sciences_environnementales" GUID="X0YcaFjHQk+jOtEebqXGJg=="/>
+		<POI MapID="934" xpos="-223.725" ypos="208.045" zpos="-218.866" type="festivals.super_adventure_box.sciences_environnementales" GUID="OMEbEhL4OU+KSvqzCH3rkw=="/>
+		<POI MapID="934" xpos="-222.451" ypos="208.205" zpos="-192.551" type="festivals.super_adventure_box.sciences_environnementales" GUID="CjqbXN+3cUeEJptw2Y9vfw=="/>
+		<POI MapID="934" xpos="-232.523" ypos="208.203" zpos="-178.493" type="festivals.super_adventure_box.sciences_environnementales" GUID="kKAXI6kHEUWpUg8m2fiLRQ=="/>
+		<POI MapID="934" xpos="-237.105" ypos="208.205" zpos="-202.157" type="festivals.super_adventure_box.sciences_environnementales" GUID="jGRqUjU35ECS6woTkheNBg=="/>
+		<POI MapID="934" xpos="-263.106" ypos="209.915" zpos="-196.534" type="festivals.super_adventure_box.sciences_environnementales" GUID="81J2SqsR+ke5Kwf8GO4KIg=="/>
+
+		<!-- Monde 2 - Zone 2 -->
+		<POI MapID="934" xpos="471.51" ypos="293.555" zpos="-77.3012" type="festivals.super_adventure_box.sciences_environnementales" GUID="JzRftPz9bUeW7gCBICxwHA=="/>
+		<POI MapID="934" xpos="480.186" ypos="296.176" zpos="-70.6214" type="festivals.super_adventure_box.sciences_environnementales" GUID="sUs1VsSYxU6y7kxkA7PzrA=="/>
+		<POI MapID="934" xpos="472.405" ypos="305.546" zpos="-85.3617" type="festivals.super_adventure_box.sciences_environnementales" GUID="Yj/ok/QckEqILFg4xvZpEQ=="/>
+		<POI MapID="934" xpos="490.354" ypos="307.709" zpos="-81.1213" type="festivals.super_adventure_box.sciences_environnementales" GUID="YwA2PUiu9EifOMCZETsVmg=="/>
+		<POI MapID="934" xpos="486.394" ypos="311.186" zpos="-85.6636" type="festivals.super_adventure_box.sciences_environnementales" GUID="DnJH7H6UkEaPLuKDWQEkuQ=="/>
+		<POI MapID="934" xpos="486.404" ypos="311.186" zpos="-118.387" type="festivals.super_adventure_box.sciences_environnementales" GUID="/TlVnUNht0CSpwElkG0pBA=="/>
+		<POI MapID="934" xpos="470.025" ypos="315.076" zpos="-124.081" type="festivals.super_adventure_box.sciences_environnementales" GUID="rD4ueM4ABEy5ECHlViLMPg=="/>
+		<POI MapID="934" xpos="449.402" ypos="318.912" zpos="-122.168" type="festivals.super_adventure_box.sciences_environnementales" GUID="XpByTzN9XEqfz9Mb4UAmqA=="/>
+		<POI MapID="934" xpos="483.454" ypos="326.43" zpos="-87.7989" type="festivals.super_adventure_box.sciences_environnementales" GUID="Es30bKWK/kyaWZca8KLUQw=="/>
+		<POI MapID="934" xpos="493.072" ypos="314.048" zpos="-75.5385" type="festivals.super_adventure_box.sciences_environnementales" GUID="2jNjq+BwI0at3LKhHf9zEQ=="/>
+		<POI MapID="934" xpos="498.824" ypos="318.053" zpos="-63.6704" type="festivals.super_adventure_box.sciences_environnementales" GUID="99eIC7FU+UCdWQ4g79AkCg=="/>
+		<POI MapID="934" xpos="530.755" ypos="305.245" zpos="-44.6273" type="festivals.super_adventure_box.sciences_environnementales" GUID="fS9lN4Tv+kG0InL+wmK/sg=="/>
+		<POI MapID="934" xpos="544.616" ypos="295.266" zpos="-37.8236" type="festivals.super_adventure_box.sciences_environnementales" GUID="49HaiU3W7ECietUJvTh3iQ=="/>
+		<POI MapID="934" xpos="554.254" ypos="292.766" zpos="-43.4489" type="festivals.super_adventure_box.sciences_environnementales" GUID="oV6yXFVl90OZ52MPrmJwjg=="/>
+		<POI MapID="934" xpos="574.236" ypos="289.227" zpos="-36.8547" type="festivals.super_adventure_box.sciences_environnementales" GUID="iVeChmZPt0mhRad0KpSKxw=="/>
+		<POI MapID="934" xpos="586.741" ypos="279.714" zpos="-35.307" type="festivals.super_adventure_box.sciences_environnementales" GUID="vLmORzbNBEWa+pINbS4egQ=="/>
+		<POI MapID="934" xpos="590.2" ypos="275.756" zpos="-42.6015" type="festivals.super_adventure_box.sciences_environnementales" GUID="18C4uYA/mk+QtWG44mI2uw=="/>
+		<POI MapID="934" xpos="588.814" ypos="284.329" zpos="-51.9086" type="festivals.super_adventure_box.sciences_environnementales" GUID="18qH4xiRok6KNdXO8usKSA=="/>
+		<POI MapID="934" xpos="594.479" ypos="284.329" zpos="-74.5155" type="festivals.super_adventure_box.sciences_environnementales" GUID="KAV4nLY2YkSSPwPNfEB+BA=="/>
+		<POI MapID="934" xpos="576.954" ypos="282.322" zpos="-77.1184" type="festivals.super_adventure_box.sciences_environnementales" GUID="QhR03DSQXku6y0vILkJ9iw=="/>
+		<POI MapID="934" xpos="591.757" ypos="282.605" zpos="-104.678" type="festivals.super_adventure_box.sciences_environnementales" GUID="vkqE+99p0ECJXman3U38mg=="/>
+		<POI MapID="934" xpos="571.105" ypos="280.689" zpos="-119.153" type="festivals.super_adventure_box.sciences_environnementales" GUID="63yk8hJLTEelLtQN0NgXAw=="/>
+		<POI MapID="934" xpos="561.89" ypos="289.227" zpos="-111.355" type="festivals.super_adventure_box.sciences_environnementales" GUID="eiNW4iX5wEGKZWP0Pw0+Dw=="/>
+		<POI MapID="934" xpos="551.454" ypos="286.553" zpos="-124.602" type="festivals.super_adventure_box.sciences_environnementales" GUID="EQ9gQcW3+Em1z5iKIQNM0Q=="/>
+		<POI MapID="934" xpos="565.828" ypos="285.818" zpos="-137.587" type="festivals.super_adventure_box.sciences_environnementales" GUID="5r2T1dxaNkS8m566Z/NhIg=="/>
+		<POI MapID="934" xpos="593.433" ypos="282.004" zpos="-141.006" type="festivals.super_adventure_box.sciences_environnementales" GUID="VoG14swllkSno1w9G86b6g=="/>
+		<POI MapID="934" xpos="619.982" ypos="287.64" zpos="-151.586" type="festivals.super_adventure_box.sciences_environnementales" GUID="b/Xel6S3gU67+PFbbe1qXQ=="/>
+
+		<!-- Monde 2 - Zone 3 -->
+		<POI MapID="934" xpos="-101.26" ypos="40.82" zpos="78.94" type="festivals.super_adventure_box.sciences_environnementales" GUID="1ARQ/Ga/YkG0nFNyG/39XA=="/>
+		<POI MapID="934" xpos="-74.97" ypos="40.78" zpos="72.84" type="festivals.super_adventure_box.sciences_environnementales" GUID="El2iz4f4AUm8GC0XaVv/CA=="/>
+		<POI MapID="934" xpos="-70.46" ypos="40.78" zpos="79.39" type="festivals.super_adventure_box.sciences_environnementales" GUID="zDsam7z/lkuTQ59ZK0drDQ=="/>
+		<POI MapID="934" xpos="-56.88" ypos="40.78" zpos="70.52" type="festivals.super_adventure_box.sciences_environnementales" GUID="z6iU8mZchk6iSM/qX3h37Q=="/>
+		<POI MapID="934" xpos="-48.2" ypos="40.94" zpos="67.79" type="festivals.super_adventure_box.sciences_environnementales" GUID="DsxeGKglb0SjA9OfkqcoRg=="/>
+		<POI MapID="934" xpos="-45.49" ypos="40.94" zpos="79.14" type="festivals.super_adventure_box.sciences_environnementales" GUID="zIbUqReyH06UDqqriA4PVA=="/>
+		<POI MapID="934" xpos="-36.78" ypos="40.94" zpos="84.82" type="festivals.super_adventure_box.sciences_environnementales" GUID="w7B/FGPu+kmv0wiP3dBT2g=="/>
+		<POI MapID="934" xpos="-28.43" ypos="40.9" zpos="107.8" type="festivals.super_adventure_box.sciences_environnementales" GUID="q2YU0jD4Ak6pjj8ztzA0jg=="/>
+		<POI MapID="934" xpos="-1.70" ypos="42.72" zpos="105.6" type="festivals.super_adventure_box.sciences_environnementales" GUID="Q5JUGpyo00yEj2trZE/ahw=="/>
+
+	</POIs>
+</OverlayData>

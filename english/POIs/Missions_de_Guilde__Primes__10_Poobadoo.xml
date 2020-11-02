@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+POIs: BoyC.2653 - TMKFrench.6427
+Date: 2017/08/11
+-->
+<OverlayData>
+	<MarkerCategory name="missions_de_guilde" DisplayName="Guild Missions">
+		<MarkerCategory name="primes" DisplayName="Bounties" iconFile="Img\GuildePrime.png" color="ffd8a200" triggerRange="15">
+			<MarkerCategory name="poobadoo" DisplayName="Poobadoo (Kessex Hills)"/>
+		</MarkerCategory>
+	</MarkerCategory>
+
+	<POIs>
+
+		<Route MapID="23" name="Poobadoo" BackwardDirection="1">
+			<POI MapID="23" xpos="-812.605" ypos="31.2715"    zpos="-247.553" type="missions_de_guilde.primes.poobadoo" GUID="MkHZCLbLa0WR29Cd9N/mRA=="/>
+			<POI MapID="23" xpos="-820.23"  ypos="33.7948"    zpos="-246.25"  type="missions_de_guilde.primes.poobadoo" GUID="t9hWGCkG30yfxsUB+05XfQ=="/>
+			<POI MapID="23" xpos="-831.396" ypos="35.617"     zpos="-247.446" type="missions_de_guilde.primes.poobadoo" GUID="6vufSCB/DE6y6avjOmKwvA=="/>
+			<POI MapID="23" xpos="-839.769" ypos="35.7931"    zpos="-251.939" type="missions_de_guilde.primes.poobadoo" GUID="WcyTAxt+LkyZ0nlE4a2X2A=="/>
+			<POI MapID="23" xpos="-848.633" ypos="38.591"     zpos="-255.461" type="missions_de_guilde.primes.poobadoo" GUID="mLC5mOf+ck+LIp25aZ+x7A=="/>
+			<POI MapID="23" xpos="-858.349" ypos="41.1154"    zpos="-253.391" type="missions_de_guilde.primes.poobadoo" GUID="3x3tKsDwjEOftzxDyLhsNA=="/>
+			<POI MapID="23" xpos="-871.288" ypos="41.9122"    zpos="-248.109" type="missions_de_guilde.primes.poobadoo" GUID="cxQ8FyvGek6FKg9N9AnRsA=="/>
+			<POI MapID="23" xpos="-881.28"  ypos="40.1802"    zpos="-245.662" type="missions_de_guilde.primes.poobadoo" GUID="vdvLaoDbQ0qwiF3k9GMsHA=="/>
+			<POI MapID="23" xpos="-893.073" ypos="38.7968"    zpos="-245.325" type="missions_de_guilde.primes.poobadoo" GUID="ceJ+ZtjrY0+osR/j2kZngg=="/>
+			<POI MapID="23" xpos="-906.121" ypos="37.1156"    zpos="-246.76"  type="missions_de_guilde.primes.poobadoo" GUID="XB5+bvDK8Uen8YhMC9P4aw=="/>
+			<POI MapID="23" xpos="-916.168" ypos="36.0186"    zpos="-253.549" type="missions_de_guilde.primes.poobadoo" GUID="xHq8dwE3OUSvabzpXOI8ew=="/>
+			<POI MapID="23" xpos="-923.289" ypos="34.2464"    zpos="-263.825" type="missions_de_guilde.primes.poobadoo" GUID="sYkpsNuyvE6Lpg5whOiPaw=="/>
+			<POI MapID="23" xpos="-925.834" ypos="35.045"     zpos="-277.382" type="missions_de_guilde.primes.poobadoo" GUID="lwjmENo6i0WFpSm46W9QNQ=="/>
+			<POI MapID="23" xpos="-925.318" ypos="33.1949"    zpos="-291.22"  type="missions_de_guilde.primes.poobadoo" GUID="ziIdJTIvI0GgRvUuH/Q9BA=="/>
+			<POI MapID="23" xpos="-924.054" ypos="32.0211"    zpos="-303.653" type="missions_de_guilde.primes.poobadoo" GUID="7ovW7cgmEkq+g3ZXpdWtRA=="/>
+			<POI MapID="23" xpos="-915.439" ypos="30.2224"    zpos="-319.492" type="missions_de_guilde.primes.poobadoo" GUID="eXfbPDF050K1Q0cXWoCtyQ=="/>
+			<POI MapID="23" xpos="-908.027" ypos="30.9733"    zpos="-327.658" type="missions_de_guilde.primes.poobadoo" GUID="bmiibuKlGkeNRn8R582fDQ=="/>
+			<POI MapID="23" xpos="-899.249" ypos="30.8469"    zpos="-337.069" type="missions_de_guilde.primes.poobadoo" GUID="xokPbFqPb0SCXCn0GgO3FQ=="/>
+			<POI MapID="23" xpos="-888.185" ypos="29.6383"    zpos="-347.117" type="missions_de_guilde.primes.poobadoo" GUID="P1rEYXpuY0qYV3mq32F8/A=="/>
+			<POI MapID="23" xpos="-876.637" ypos="28.4573"    zpos="-353.838" type="missions_de_guilde.primes.poobadoo" GUID="d++DYpq1w0ubsXfFDNvN5w=="/>
+			<POI MapID="23" xpos="-858.882" ypos="29.3604"    zpos="-362.08"  type="missions_de_guilde.primes.poobadoo" GUID="OwVPRTR36k2m0bTaQeH7Hw=="/>
+			<POI MapID="23" xpos="-844.7"   ypos="27.3733"    zpos="-371.532" type="missions_de_guilde.primes.poobadoo" GUID="iSbEdO2TaUmLyVsm4JDiVA=="/>
+			<POI MapID="23" xpos="-828.805" ypos="22.5841"    zpos="-391.855" type="missions_de_guilde.primes.poobadoo" GUID="G6btZ1K8YkOKG+WzVmmMAQ=="/>
+			<POI MapID="23" xpos="-827.666" ypos="15.886"     zpos="-406.019" type="missions_de_guilde.primes.poobadoo" GUID="gfpSQxfZ106VTV//jLpO9A=="/>
+			<POI MapID="23" xpos="-831.376" ypos="13.8938"    zpos="-419.509" type="missions_de_guilde.primes.poobadoo" GUID="L1QSJ3wV80W/jc5poUmbbA=="/>
+			<POI MapID="23" xpos="-836.067" ypos="10.533"     zpos="-432.067" type="missions_de_guilde.primes.poobadoo" GUID="W5k6IRCpwESwahDIxYSz5w=="/>
+			<POI MapID="23" xpos="-833.115" ypos="8.73256"    zpos="-443.75"  type="missions_de_guilde.primes.poobadoo" GUID="HlkAywTQqk2rJ6RkTHZhLQ=="/>
+			<POI MapID="23" xpos="-827.849" ypos="8.98398"    zpos="-447.284" type="missions_de_guilde.primes.poobadoo" GUID="qjEtQHjmCkG+kK5eojCqVw=="/>
+			<POI MapID="23" xpos="-811.097" ypos="16.0709"    zpos="-448.837" type="missions_de_guilde.primes.poobadoo" GUID="B7JrA0944E+JqHYIzk+GjQ=="/>
+			<POI MapID="23" xpos="-798.073" ypos="18.5719"    zpos="-448.147" type="missions_de_guilde.primes.poobadoo" GUID="NT5S8LWVGUCH9HMIH72SHA=="/>
+			<POI MapID="23" xpos="-784.04"  ypos="13.7784"    zpos="-450.497" type="missions_de_guilde.primes.poobadoo" GUID="KSZo4MDAsk+FKQW4FGlFYw=="/>
+			<POI MapID="23" xpos="-770.38"  ypos="7.90031"    zpos="-452.29"  type="missions_de_guilde.primes.poobadoo" GUID="eEcz9lvKRUaLOMdQk7ij6Q=="/>
+			<POI MapID="23" xpos="-751.871" ypos="1.03505"    zpos="-452.35"  type="missions_de_guilde.primes.poobadoo" GUID="E9aXJmMQWUyUV1ANZS8fWg=="/>
+			<POI MapID="23" xpos="-737.134" ypos="1.13566"    zpos="-454.656" type="missions_de_guilde.primes.poobadoo" GUID="OO2zNbIm1kmxPaILsTPBJA=="/>
+			<POI MapID="23" xpos="-720.269" ypos="1.72105"    zpos="-457.469" type="missions_de_guilde.primes.poobadoo" GUID="Jp9FV4oNK0WWtuL5XtYwfA=="/>
+			<POI MapID="23" xpos="-711.468" ypos="0.0501056"  zpos="-460.691" type="missions_de_guilde.primes.poobadoo" GUID="mywej2ORHE25wVnOjuYmLw=="/>
+			<POI MapID="23" xpos="-704.615" ypos="-3.39636"   zpos="-468.434" type="missions_de_guilde.primes.poobadoo" GUID="aR2PChEa2U2mjzdDxFJ7Zg=="/>
+			<POI MapID="23" xpos="-681.63"  ypos="-6.88361"   zpos="-484.163" type="missions_de_guilde.primes.poobadoo" GUID="FzIFYJdH6U2RbqycciTLgg=="/>
+			<POI MapID="23" xpos="-665.026" ypos="-12.121"    zpos="-493.079" type="missions_de_guilde.primes.poobadoo" GUID="kWKZjpb+O06208LSGgReZQ=="/>
+			<POI MapID="23" xpos="-645.593" ypos="-11.6447"   zpos="-496.123" type="missions_de_guilde.primes.poobadoo" GUID="3K7KKrBopkuzMVuBIaGoSw=="/>
+			<POI MapID="23" xpos="-628.923" ypos="-10.8984"   zpos="-495.255" type="missions_de_guilde.primes.poobadoo" GUID="XHHFd3mzN0uY1wsgtYzpbg=="/>
+			<POI MapID="23" xpos="-604.954" ypos="-12.8467"   zpos="-493.738" type="missions_de_guilde.primes.poobadoo" GUID="opGaYmYFfEyeZJmieM/Yhw=="/>
+			<POI MapID="23" xpos="-583.636" ypos="-13.3068"   zpos="-491.477" type="missions_de_guilde.primes.poobadoo" GUID="wLHAQMUz4UCReV5ynZ3W3g=="/>
+			<POI MapID="23" xpos="-568.19"  ypos="-11.1238"   zpos="-487.725" type="missions_de_guilde.primes.poobadoo" GUID="OICS7icMXUyR3iv4MsHkSQ=="/>
+			<POI MapID="23" xpos="-546.125" ypos="-8.85807"   zpos="-474.107" type="missions_de_guilde.primes.poobadoo" GUID="JcEpLwZRg0a7yoESoRrq2g=="/>
+			<POI MapID="23" xpos="-527.726" ypos="-8.43579"   zpos="-454.274" type="missions_de_guilde.primes.poobadoo" GUID="EVuf7nCqo0eh4/JD/nwrsw=="/>
+			<POI MapID="23" xpos="-517.002" ypos="-6.27014"   zpos="-437.295" type="missions_de_guilde.primes.poobadoo" GUID="qgwT8/DfmE2cnuWoon2ayQ=="/>
+			<POI MapID="23" xpos="-503.799" ypos="-6.13739"   zpos="-413.679" type="missions_de_guilde.primes.poobadoo" GUID="o5hcl+NKE0aLCXp2sZX1cw=="/>
+			<POI MapID="23" xpos="-488.923" ypos="-8.20015"   zpos="-390.41"  type="missions_de_guilde.primes.poobadoo" GUID="yve5AvoqAEORDtpT729Wiw=="/>
+			<POI MapID="23" xpos="-474.701" ypos="-6.9237"    zpos="-382.517" type="missions_de_guilde.primes.poobadoo" GUID="HNk0nkOM8U6xrudJpwKnjA=="/>
+			<POI MapID="23" xpos="-459.82"  ypos="-3.24267"   zpos="-380.621" type="missions_de_guilde.primes.poobadoo" GUID="ydRJ3Jkk80WSB6YjCbeT7A=="/>
+			<POI MapID="23" xpos="-430.548" ypos="-4.42288"   zpos="-392.811" type="missions_de_guilde.primes.poobadoo" GUID="yu+YfWRarkiGFdv3ToXjGw=="/>
+			<POI MapID="23" xpos="-419.152" ypos="-0.139899"  zpos="-399.588" type="missions_de_guilde.primes.poobadoo" GUID="YBra7kHpgE6Ht4Uve9VPZw=="/>
+			<POI MapID="23" xpos="-405.046" ypos="2.08191"    zpos="-409.107" type="missions_de_guilde.primes.poobadoo" GUID="H0KWGKukgEySwAdPL+JtBg=="/>
+			<POI MapID="23" xpos="-398.266" ypos="5.72255"    zpos="-422.776" type="missions_de_guilde.primes.poobadoo" GUID="IWR0DralJkOHd8yWIuFYMw=="/>
+			<POI MapID="23" xpos="-391.814" ypos="11.9625"    zpos="-436.126" type="missions_de_guilde.primes.poobadoo" GUID="h97xHCMRCEy610TbOvMmug=="/>
+			<POI MapID="23" xpos="-379.273" ypos="14.7859"    zpos="-447.048" type="missions_de_guilde.primes.poobadoo" GUID="GFiPY69BzEee+8pmh7WqjQ=="/>
+			<POI MapID="23" xpos="-366.438" ypos="16.7727"    zpos="-458.376" type="missions_de_guilde.primes.poobadoo" GUID="bsVskIdrP0W5XD85WoxKJQ=="/>
+			<POI MapID="23" xpos="-359.882" ypos="19.7106"    zpos="-473.149" type="missions_de_guilde.primes.poobadoo" GUID="T1cL/7D1ykGGOB0YYzg/Dw=="/>
+			<POI MapID="23" xpos="-350.84"  ypos="23.335"     zpos="-486.578" type="missions_de_guilde.primes.poobadoo" GUID="V1UXNwbC/Emf/Vw/HB9cqg=="/>
+			<POI MapID="23" xpos="-334.481" ypos="23.9975"    zpos="-497.103" type="missions_de_guilde.primes.poobadoo" GUID="w+Qdpp18zU6e+TnlxmiWFg=="/>
+			<POI MapID="23" xpos="-318.136" ypos="22.9547"    zpos="-502.082" type="missions_de_guilde.primes.poobadoo" GUID="RsOnBkwEKE2SsauK+S6Vkg=="/>
+			<POI MapID="23" xpos="-297.062" ypos="22.191"     zpos="-504.335" type="missions_de_guilde.primes.poobadoo" GUID="TwxShwLPnkWOY/uPshUIwg=="/>
+			<POI MapID="23" xpos="-275.08"  ypos="21.3425"    zpos="-503.056" type="missions_de_guilde.primes.poobadoo" GUID="obXrEQcqbUWDmArrmr0d5g=="/>
+			<POI MapID="23" xpos="-247.81"  ypos="21.6152"    zpos="-498.964" type="missions_de_guilde.primes.poobadoo" GUID="Mmf+vz3W9E+Ika2OXFP3gw=="/>
+			<POI MapID="23" xpos="-230.623" ypos="22.603"     zpos="-493.894" type="missions_de_guilde.primes.poobadoo" GUID="yBHKqIRNM06MkJyqKX6qyg=="/>
+			<POI MapID="23" xpos="-209.717" ypos="23.3866"    zpos="-487.546" type="missions_de_guilde.primes.poobadoo" GUID="JflSEJB+NEme0/gYGEeA1g=="/>
+			<POI MapID="23" xpos="-194.707" ypos="26.4611"    zpos="-484.095" type="missions_de_guilde.primes.poobadoo" GUID="1coLKKXd7Um2F0kYFnfzeg=="/>
+			<POI MapID="23" xpos="-173.315" ypos="30.4148"    zpos="-482.575" type="missions_de_guilde.primes.poobadoo" GUID="kHYl32eJmUWUSvDDIoxPVA=="/>
+			<POI MapID="23" xpos="-154.072" ypos="34.6993"    zpos="-484.164" type="missions_de_guilde.primes.poobadoo" GUID="8yO3DB8hx0mefPdJwPpC/g=="/>
+			<POI MapID="23" xpos="-127.795" ypos="36.7531"    zpos="-487.548" type="missions_de_guilde.primes.poobadoo" GUID="YiI9KUv+ykeTVFHy1TkK8w=="/>
+			<POI MapID="23" xpos="-115.756" ypos="37.6742"    zpos="-496.384" type="missions_de_guilde.primes.poobadoo" GUID="6iP1DuhFgkqwPkyt/GdUNQ=="/>
+			<POI MapID="23" xpos="-103.943" ypos="38.2994"    zpos="-510.764" type="missions_de_guilde.primes.poobadoo" GUID="SEGs+s9KPUO/gg1SWe4r8A=="/>
+			<POI MapID="23" xpos="-84.6089" ypos="39.2104"    zpos="-512.839" type="missions_de_guilde.primes.poobadoo" GUID="68FjxKUZSEamoqqmWXGEZQ=="/>
+			<POI MapID="23" xpos="-69.1403" ypos="30.4853"    zpos="-497.299" type="missions_de_guilde.primes.poobadoo" GUID="8rppdWHMvkmxiKbGEdWR4w=="/>
+			<POI MapID="23" xpos="-69.097"  ypos="22.6367"    zpos="-483.915" type="missions_de_guilde.primes.poobadoo" GUID="W0IR6s8e2k+s91qcKTkcpw=="/>
+			<POI MapID="23" xpos="-78.7592" ypos="17.6086"    zpos="-470.331" type="missions_de_guilde.primes.poobadoo" GUID="/LS8w5tlo0i8G0Oa98ZsiQ=="/>
+			<POI MapID="23" xpos="-90.1711" ypos="13.451"     zpos="-454.824" type="missions_de_guilde.primes.poobadoo" GUID="VMxBRWnBW0K934uDWU7rjA=="/>
+			<POI MapID="23" xpos="-108.931" ypos="7.88304"    zpos="-438.725" type="missions_de_guilde.primes.poobadoo" GUID="P1NSSxtMFkqu8haP9bnvug=="/>
+			<POI MapID="23" xpos="-118.282" ypos="4.3831"     zpos="-432.046" type="missions_de_guilde.primes.poobadoo" GUID="wdVbANJxzEqN8lEjJFabmw=="/>
+			<POI MapID="23" xpos="-127.588" ypos="1.26058"    zpos="-416.94"  type="missions_de_guilde.primes.poobadoo" GUID="BOhdcxfX90OgbYhiE+BpFA=="/>
+			<POI MapID="23" xpos="-133.858" ypos="1.26762"    zpos="-401.777" type="missions_de_guilde.primes.poobadoo" GUID="SW5w35tae0CjCvqKutQ0Bg=="/>
+			<POI MapID="23" xpos="-144.212" ypos="1.1435"     zpos="-381.403" type="missions_de_guilde.primes.poobadoo" GUID="CWz0unMVHEGBDMGV0ID/gg=="/>
+			<POI MapID="23" xpos="-160.84"  ypos="0.713384"   zpos="-363.84"  type="missions_de_guilde.primes.poobadoo" GUID="ieAQLBmgtk6lF7JBZr1nlw=="/>
+			<POI MapID="23" xpos="-175.813" ypos="1.40653"    zpos="-340.76"  type="missions_de_guilde.primes.poobadoo" GUID="q1uf15cge0uBqeOodK10kA=="/>
+			<POI MapID="23" xpos="-183.079" ypos="0.0464345"  zpos="-317.66"  type="missions_de_guilde.primes.poobadoo" GUID="H/xX7Ss3C0eXTjjXwBoqlA=="/>
+			<POI MapID="23" xpos="-195.593" ypos="-0.0201414" zpos="-298.745" type="missions_de_guilde.primes.poobadoo" GUID="wz2lepfFGEyuqsZKdZUByg=="/>
+			<POI MapID="23" xpos="-201.92"  ypos="-0.460574"  zpos="-277.738" type="missions_de_guilde.primes.poobadoo" GUID="rs+nrrviuUuV/yJjaXUAhw=="/>
+			<POI MapID="23" xpos="-210.668" ypos="0.555328"   zpos="-258.515" type="missions_de_guilde.primes.poobadoo" GUID="JpE/UXwN7UaEGf+wtJvwPw=="/>
+			<POI MapID="23" xpos="-221.982" ypos="0.496988"   zpos="-240.225" type="missions_de_guilde.primes.poobadoo" GUID="hcytflbe1UCMm1N0aFX0Pg=="/>
+			<POI MapID="23" xpos="-238.56"  ypos="0.489844"   zpos="-230.635" type="missions_de_guilde.primes.poobadoo" GUID="cGyJoK3iUEC40toHfCGTzw=="/>
+			<POI MapID="23" xpos="-255.677" ypos="-1.17078"   zpos="-227.265" type="missions_de_guilde.primes.poobadoo" GUID="qNjsclXCMEe4wnlClUhl0g=="/>
+			<POI MapID="23" xpos="-284.728" ypos="-3.82132"   zpos="-227.005" type="missions_de_guilde.primes.poobadoo" GUID="aoBbt+9B90iTypCdjGeCFg=="/>
+			<POI MapID="23" xpos="-310.252" ypos="-3.44548"   zpos="-229.635" type="missions_de_guilde.primes.poobadoo" GUID="b87Tp21RBEmXozodeVClPg=="/>
+			<POI MapID="23" xpos="-335.233" ypos="-5.46974"   zpos="-226.656" type="missions_de_guilde.primes.poobadoo" GUID="HgRL5O7FaUGjEE8xXelmQA=="/>
+			<POI MapID="23" xpos="-361.525" ypos="-4.86044"   zpos="-211.676" type="missions_de_guilde.primes.poobadoo" GUID="mXoiIHdRRUCT7kwZHque5w=="/>
+			<POI MapID="23" xpos="-386.584" ypos="-7.24021"   zpos="-201.413" type="missions_de_guilde.primes.poobadoo" GUID="eiCM+2ZCpkCI/7w4TU7v3Q=="/>
+			<POI MapID="23" xpos="-409.368" ypos="-7.05883"   zpos="-198.782" type="missions_de_guilde.primes.poobadoo" GUID="OxUVkCbQPka/eyatjWgD2g=="/>
+			<POI MapID="23" xpos="-429.045" ypos="-8.1429"    zpos="-196.445" type="missions_de_guilde.primes.poobadoo" GUID="Uk2Op2F9qkSvEJwQbut71Q=="/>
+			<POI MapID="23" xpos="-448.757" ypos="-7.41642"   zpos="-193.934" type="missions_de_guilde.primes.poobadoo" GUID="rTS5VEfn6Ea+DtP0MlIjmw=="/>
+			<POI MapID="23" xpos="-474.347" ypos="-6.87111"   zpos="-187.919" type="missions_de_guilde.primes.poobadoo" GUID="bBZBgL1NwU6qjeNvOW4Mag=="/>
+			<POI MapID="23" xpos="-504.716" ypos="-8.42716"   zpos="-180.158" type="missions_de_guilde.primes.poobadoo" GUID="aIY3K82XlkmeSeD+6Bq5wg=="/>
+			<POI MapID="23" xpos="-532.998" ypos="-7.97284"   zpos="-171.523" type="missions_de_guilde.primes.poobadoo" GUID="7C3dmpqISUmTpJT5hvPBQg=="/>
+			<POI MapID="23" xpos="-546.217" ypos="-8.26672"   zpos="-166.426" type="missions_de_guilde.primes.poobadoo" GUID="8KM7UxMbK0667+1N8uyKtQ=="/>
+			<POI MapID="23" xpos="-552.391" ypos="-9.61928"   zpos="-159.538" type="missions_de_guilde.primes.poobadoo" GUID="kBYugLGUAUShMVy8ZTFq2g=="/>
+			<POI MapID="23" xpos="-569.776" ypos="-8.30681"   zpos="-154.938" type="missions_de_guilde.primes.poobadoo" GUID="4wCokLPPqUeUsTRupshMMA=="/>
+			<POI MapID="23" xpos="-592.654" ypos="-7.85655"   zpos="-137.946" type="missions_de_guilde.primes.poobadoo" GUID="sAceX9CyPUC5y0d+atRxpg=="/>
+			<POI MapID="23" xpos="-606.942" ypos="-10.3425"   zpos="-123.059" type="missions_de_guilde.primes.poobadoo" GUID="tbT9wxhqe0Gfl//pPKNFZw=="/>
+			<POI MapID="23" xpos="-623.312" ypos="-9.95404"   zpos="-106.859" type="missions_de_guilde.primes.poobadoo" GUID="1IQln692t0W4bp8talskxQ=="/>
+			<POI MapID="23" xpos="-640.867" ypos="-7.71834"   zpos="-90.0418" type="missions_de_guilde.primes.poobadoo" GUID="CHdqKpxYw0iRHfF0PbnGBQ=="/>
+			<POI MapID="23" xpos="-660.218" ypos="-2.62513"   zpos="-72.9169" type="missions_de_guilde.primes.poobadoo" GUID="EC2DzcxAZ0ia8yVilyALCg=="/>
+			<POI MapID="23" xpos="-677.333" ypos="0.0306587"  zpos="-63.0208" type="missions_de_guilde.primes.poobadoo" GUID="Ga7WyoCZNkyrf4fAY3P/qg=="/>
+			<POI MapID="23" xpos="-695.999" ypos="1.24778"    zpos="-60.1363" type="missions_de_guilde.primes.poobadoo" GUID="89BUZv5xb0upmCsg9hVGIw=="/>
+			<POI MapID="23" xpos="-714.95"  ypos="-0.115193"  zpos="-63.5303" type="missions_de_guilde.primes.poobadoo" GUID="lPdYvj5qUEmlSZ+L5aYGfw=="/>
+			<POI MapID="23" xpos="-726.095" ypos="2.97925"    zpos="-73.9141" type="missions_de_guilde.primes.poobadoo" GUID="Nl6z1CHYyEWxmAHthGey6g=="/>
+			<POI MapID="23" xpos="-730.767" ypos="2.62553"    zpos="-89.8102" type="missions_de_guilde.primes.poobadoo" GUID="sh2gfY7cykygs3Ov2Hf/hA=="/>
+			<POI MapID="23" xpos="-733.37"  ypos="3.06765"    zpos="-105.625" type="missions_de_guilde.primes.poobadoo" GUID="7jHqhjPiSEe049/5x2ol1A=="/>
+			<POI MapID="23" xpos="-734.885" ypos="3.02896"    zpos="-120.848" type="missions_de_guilde.primes.poobadoo" GUID="mlpgq4DOjk2Y6q74NY/U7g=="/>
+			<POI MapID="23" xpos="-735.129" ypos="3.09196"    zpos="-139.893" type="missions_de_guilde.primes.poobadoo" GUID="tuScQLGOQEuoeuFstIhFxw=="/>
+			<POI MapID="23" xpos="-735.297" ypos="2.67316"    zpos="-155.355" type="missions_de_guilde.primes.poobadoo" GUID="cOzV3R+OikegvuvI5C24EA=="/>
+			<POI MapID="23" xpos="-734.704" ypos="5.25444"    zpos="-170.771" type="missions_de_guilde.primes.poobadoo" GUID="iatJLvhEekeOUhb81R1meQ=="/>
+			<POI MapID="23" xpos="-741.232" ypos="11.6406"    zpos="-184.074" type="missions_de_guilde.primes.poobadoo" GUID="aNHRZN4wH0qKN3n54bFslg=="/>
+			<POI MapID="23" xpos="-746.089" ypos="12.8829"    zpos="-197.332" type="missions_de_guilde.primes.poobadoo" GUID="THZGgnh6JUWFl/xUTUe8RA=="/>
+			<POI MapID="23" xpos="-746.443" ypos="11.5267"    zpos="-214.658" type="missions_de_guilde.primes.poobadoo" GUID="797+KxLJbEqtnAJ3wsErig=="/>
+			<POI MapID="23" xpos="-749.014" ypos="14.6079"    zpos="-229.219" type="missions_de_guilde.primes.poobadoo" GUID="770LZKNJlkGwYHeBxkdKiw=="/>
+			<POI MapID="23" xpos="-760.086" ypos="15.483"     zpos="-242.709" type="missions_de_guilde.primes.poobadoo" GUID="d6dpx1yoc02WpzPkaaBRBQ=="/>
+			<POI MapID="23" xpos="-773.726" ypos="19.2599"    zpos="-247.323" type="missions_de_guilde.primes.poobadoo" GUID="RtdLWDVCzEm2uHfLtKuSFA=="/>
+			<POI MapID="23" xpos="-781.409" ypos="23.3012"    zpos="-249.397" type="missions_de_guilde.primes.poobadoo" GUID="Yy0bCQOLYkiX18BH54Ubow=="/>
+			<POI MapID="23" xpos="-795.391" ypos="24.6186"    zpos="-248.665" type="missions_de_guilde.primes.poobadoo" GUID="BkflbchAV0yy1GEyFp9+rQ=="/>
+			<POI MapID="23" xpos="-803.873" ypos="28.3189"    zpos="-248.249" type="missions_de_guilde.primes.poobadoo" GUID="1KklU8EriUukf4QJHP461Q=="/>
+		</Route>
+
+	</POIs>
+</OverlayData>

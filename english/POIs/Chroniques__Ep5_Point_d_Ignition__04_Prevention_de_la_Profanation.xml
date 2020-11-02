@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+POIs: ReActif.9251
+Date: 2017/05/09
+-->
+<OverlayData>
+	<MarkerCategory name="chroniques.saison_3">
+		<MarkerCategory name="ep5_point_d_ignition" DisplayName="Ep.5 - Flashpoint" iconFile="Img\MontDraconis.png">
+			<MarkerCategory name="prevention_de_la_profanation" DisplayName="Desecration Prevention"/>
+		</MarkerCategory>
+	</MarkerCategory>
+
+	<POIs>
+
+		<!-- Profanateur de la Fusion Champion -->
+		<POI MapID="1195" xpos="-117.024" ypos="418.358" zpos="-273.624" type="chroniques.saison_3.ep5_point_d_ignition.prevention_de_la_profanation" GUID="+WpGd9TJvECUouISTWsRJQ=="/>
+		<POI MapID="1195" xpos="-117.024" ypos="420.358" zpos="-273.624" type="chroniques.saison_3.ep5_point_d_ignition.prevention_de_la_profanation" GUID="2eU0k6Vt4E2KjsIGzAwfEQ==" iconFile="Img\Combat.png" color="ffff0000"/>
+
+	</POIs>
+</OverlayData>

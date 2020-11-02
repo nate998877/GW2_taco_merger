@@ -1,0 +1,57 @@
+<!-- 2020.06.09 -->
+<OverlayData>
+	<POIs>
+
+		<!-- DRAGONRENDER STRONGBOX -->
+		<Trail type="heart_of_thorns.dragon_s_stand.strongboxes.dragonrender_strongbox" GUID="w26lVTqq9UKR//jrcHhzYQ==" trailData="Data/HeartOfThorns/DragonsStand/DragonrenderStrongbox.trl" texture="Data/Arrow.png" color="ffffdd00" alpha="0.8" fadeNear="1500" fadeFar="2500" animSpeed="1" mapDisplaySize="15"/>
+		<POI MapID="1041" xpos="-47.2581" ypos="86.3064" zpos="436.297" type="heart_of_thorns.dragon_s_stand.strongboxes.dragonrender_strongbox" GUID="Bp7RtS632keFh13KvIM8Cw=="                                        heightOffset="0.5"/>
+		<POI MapID="1041" xpos="-222.28"  ypos="34.6599" zpos="532.228" type="heart_of_thorns.dragon_s_stand.strongboxes.dragonrender_strongbox" GUID="ETw2ndtrAUiasfPH6GaVbw==" iconFile="Img/HoT/GliderAtTopJump.png" heightOffset="0" fadeNear="1000" fadeFar="1400" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="1041" xpos="-276.422" ypos="18.4887" zpos="574.167" type="heart_of_thorns.dragon_s_stand.strongboxes.dragonrender_strongbox" GUID="4xgvWOYg6k6nK/DGv37hkw=="                                        fadeNear="1500" fadeFar="2000" mapVisibility="0" miniMapVisibility="0"/>
+
+		<!-- LEGACY OF OWL STRONGBOX -->
+		<Trail type="heart_of_thorns.dragon_s_stand.strongboxes.legacy_of_owl_strongbox" GUID="3jQwjSfEVUKirszkiPfVZg==" trailData="Data/HeartOfThorns/DragonsStand/LegacyOfOwlStrongbox.trl" texture="Data/Arrow.png" color="ffffdd00" alpha="0.8" fadeNear="1500" fadeFar="2500" animSpeed="1" mapDisplaySize="15"/>
+		<POI MapID="1041" xpos="820.435" ypos="62.0932" zpos="68.2951" type="heart_of_thorns.dragon_s_stand.strongboxes.legacy_of_owl_strongbox" GUID="TSlYi8FAM0WEffL4wajEBA==" heightOffset="0.5"/>
+		<POI MapID="1041" xpos="891.722" ypos="93.9697" zpos="29.3725" type="heart_of_thorns.dragon_s_stand.strongboxes.legacy_of_owl_strongbox" GUID="PfKw7go3HUOI4O/Z6c2Naw==" fadeNear="1000" fadeFar="2000" mapVisibility="0" miniMapVisibility="0"/>
+
+		<!-- PRIDE OF LION'S ARCH STRONGBOX -->
+		<Trail type="heart_of_thorns.dragon_s_stand.strongboxes.pride_of_lion_s_arch_strongbox" GUID="I037joeHaEGZzIn78H82cg==" trailData="Data/HeartOfThorns/DragonsStand/PrideOfLionsArchStrongbox.trl" texture="Data/Arrow.png" color="ffffdd00" alpha="0.8" fadeNear="1500" fadeFar="2500" animSpeed="1" mapDisplaySize="15"/>
+		<POI MapID="1041" xpos="720.475" ypos="47.8008" zpos="367.543" type="heart_of_thorns.dragon_s_stand.strongboxes.pride_of_lion_s_arch_strongbox" GUID="ATx4JUhdzEGAAAUqbWY9Gw==" heightOffset="0.5"/>
+		<POI MapID="1041" xpos="721.858" ypos="58.0575" zpos="412.43"  type="heart_of_thorns.dragon_s_stand.strongboxes.pride_of_lion_s_arch_strongbox" GUID="ZHkzql9xXkm6UfTqBG7piQ==" fadeNear="1000" fadeFar="2000" mapVisibility="0" miniMapVisibility="0"/>
+
+		<!-- SCORCHRAZOR II STRONGBOX -->
+		<Trail type="heart_of_thorns.dragon_s_stand.strongboxes.scorchrazor_ii_strongbox" GUID="mssjJ0F6O0q0FBaxc5h80w==" trailData="Data/HeartOfThorns/DragonsStand/ScorchrazorIIStrongbox.trl" texture="Data/Arrow.png" color="ffffdd00" alpha="0.8" fadeNear="1500" fadeFar="2500" animSpeed="1" mapDisplaySize="15"/>
+		<POI MapID="1041" xpos="371.608" ypos="64.4445" zpos="325.37" type="heart_of_thorns.dragon_s_stand.strongboxes.scorchrazor_ii_strongbox" GUID="gQ9wuN95skWBQ25PemOdCw==" heightOffset="0.5"/>
+		<POI MapID="1041" xpos="376.739" ypos="147.153" zpos="135.89" type="heart_of_thorns.dragon_s_stand.strongboxes.scorchrazor_ii_strongbox" GUID="BvwZsJ0eTUibKFDK2R/5Nw==" fadeNear="1000" fadeFar="2000" mapVisibility="0" miniMapVisibility="0"/>
+
+		<!-- UNSOLVED CONUNDRUM STRONGBOX -->
+		<Trail type="heart_of_thorns.dragon_s_stand.strongboxes.unsolved_conundrum_strongbox" GUID="3fdV64EtwEeWzAqkFTaVAg==" trailData="Data/HeartOfThorns/DragonsStand/UnsolvedConundrumStrongbox.trl" texture="Data/Arrow.png" color="ffffdd00" alpha="0.8" fadeNear="1500" fadeFar="2500" animSpeed="1" mapDisplaySize="15"/>
+		<POI MapID="1041" xpos="250.073" ypos="87.1708" zpos="672.051" type="heart_of_thorns.dragon_s_stand.strongboxes.unsolved_conundrum_strongbox" GUID="4PJRaeJE30S82hDcXXzNtw==" heightOffset="0.5"/>
+		<POI MapID="1041" xpos="223.498" ypos="92.0259" zpos="540.014" type="heart_of_thorns.dragon_s_stand.strongboxes.unsolved_conundrum_strongbox" GUID="lSukhQODYUuYm2X6ycou4Q==" fadeNear="1000" fadeFar="2000" mapVisibility="0" miniMapVisibility="0"/>
+
+		<!-- DRAGON'S STAND OVERVIEWER -->
+		<Trail type="heart_of_thorns.dragon_s_stand.dragon_s_stand_overviewer" GUID="JZHnfrNAGEiZaI6wy0dYqA==" trailData="Data/HeartOfThorns/DragonsStand/DragonsStandOverviewer.trl" texture="Data/Arrow.png" color="ffffdd00" alpha="0.8" fadeNear="3000" fadeFar="3500" animSpeed="1" mapDisplaySize="15"/>
+		<POI MapID="1041" xpos="-716.467" ypos="181.244" zpos="-389.156" type="heart_of_thorns.dragon_s_stand.dragon_s_stand_overviewer" GUID="JfHc/CxLv0Cs+mJDHadhCg=="                                         minSize="18" maxSize="20"/>
+		<POI MapID="1041" xpos="-717.1"   ypos="182.52"  zpos="-385.81"  type="heart_of_thorns.dragon_s_stand.dragon_s_stand_overviewer" GUID="gu3U1UbfJk2zrrLlkbWLNA==" iconFile="Img/Gliders/GliderLevel5.png" minSize="18" maxSize="20" fadeNear="1500" fadeFar="2000" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="1041" xpos="-868.74"  ypos="145.83"  zpos="-214.14"  type="heart_of_thorns.dragon_s_stand.dragon_s_stand_overviewer" GUID="F1x7ehaXpEW0IP2CyIscFw=="                                         minSize="18" maxSize="20" fadeNear="1500" fadeFar="2000" mapVisibility="0" miniMapVisibility="0"/>
+
+		<!-- PRISMATIC PERCHER -->
+		<Trail type="heart_of_thorns.dragon_s_stand.prismatic_percher" GUID="RYjdb67jCkSzwjMO0vicZw==" trailData="Data/HeartOfThorns/DragonsStand/PrismaticPercher.trl" texture="Data/Arrow.png" color="ffffdd00" alpha="0.8" fadeNear="1500" fadeFar="2000" animSpeed="1" mapDisplaySize="15"/>
+		<POI MapID="1041" xpos="527.609" ypos="85.9718" zpos="389.855" type="heart_of_thorns.dragon_s_stand.prismatic_percher" GUID="lWa0Lm89f06A9WO+lgFjDQ==" iconFile="Img/HoT/DragonStandStart.png" minSize="18" maxSize="20"/>
+		<POI MapID="1041" xpos="654.955" ypos="81.3155" zpos="394.453" type="heart_of_thorns.dragon_s_stand.prismatic_percher" GUID="Qj0kkTo+ikaV2xKlGrV+Xw==" iconFile="Img/Gliders/GliderStart.png"  fadeNear="1500" fadeFar="2000" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="1041" xpos="682.931" ypos="75.904"  zpos="420.181" type="heart_of_thorns.dragon_s_stand.prismatic_percher" GUID="7raRmI9iXUGkmlUo+5/mqw=="                                         minSize="18" maxSize="20" heightOffset="0.5" mapVisibility="0" miniMapVisibility="0"/>
+
+		<!-- SHOOTING STAR -->
+		<Trail type="heart_of_thorns.dragon_s_stand.shooting_star" GUID="/NJ7e6IFP0e03akj5hL54w==" trailData="Data/HeartOfThorns/DragonsStand/ShootingStar.trl" texture="Data/Arrow.png" color="ffffdd00" alpha="0.8" fadeNear="1500" fadeFar="2000" animSpeed="1" mapDisplaySize="15"/>
+		<POI MapID="1041" xpos="318.557" ypos="108.101" zpos="71.0003" type="heart_of_thorns.dragon_s_stand.shooting_star" GUID="pIVgrRNG4E6IMozd34fglg=="                                        minSize="18" maxSize="20"/>
+		<POI MapID="1041" xpos="369.027" ypos="126.823" zpos="35.5521" type="heart_of_thorns.dragon_s_stand.shooting_star" GUID="rrieRtiVCUatIUE7tIyfYA==" iconFile="Img/Gliders/GliderStart.png" fadeNear="1500" fadeFar="2000" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="1041" xpos="291.081" ypos="42.6455" zpos="46.2361" type="heart_of_thorns.dragon_s_stand.shooting_star" GUID="FU7DKmu0sUikYi2++KAAjQ=="                                        minSize="18" maxSize="20" mapVisibility="0" miniMapVisibility="0"/>
+
+		<!-- SUM VIEWER -->
+		<Trail type="heart_of_thorns.dragon_s_stand.sum_viewer" GUID="qtkE90IXUkmVtez+yIBvHA==" trailData="Data/HeartOfThorns/DragonsStand/SumViewer.trl" texture="Data/Arrow.png" color="ffffdd00" alpha="0.8" fadeNear="1500" fadeFar="2000" animSpeed="1" mapDisplaySize="15"/>
+		<POI MapID="1041" xpos="875.49" ypos="77.38" zpos="303.56" type="heart_of_thorns.dragon_s_stand.sum_viewer" GUID="1A+CywZrGESefHPaTXmKNg==" minSize="18" maxSize="20"/>
+
+		<!-- WALLOWING WHIZ -->
+		<POI MapID="1041" xpos="812.526" ypos="12.5006" zpos="208.38" type="heart_of_thorns.dragon_s_stand.wallowing_whiz" GUID="ibxzu6rPbUO0Yqu3W/d6rQ=="/>
+
+	</POIs>
+</OverlayData>

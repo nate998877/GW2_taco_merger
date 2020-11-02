@@ -1,0 +1,19 @@
+<!-- 2020.06.09 -->
+<OverlayData>
+	<POIs>
+
+		<!-- GROTHMAR VALLEY - ASH CODE -->
+		<POI MapID="1330" xpos="228.152" ypos="35.2356" zpos="27.1187"  type="assistances.grothmar_valley.ash_code" GUID="Kq/KmrSVJk+qsSxGFqn2Mw==" iconFile="Img/Season5/BoundByBlood.png"         inGameVisibility="0"/>
+		<POI MapID="1330" xpos="228.152" ypos="35.2356" zpos="27.1187"  type="assistances.grothmar_valley.ash_code" GUID="qSdvcHulAkyjs9f5xRCT3Q==" iconFile="Img/Season5/ACarvedPath_Info.png"     minSize="110" maxSize="140" fadeNear="600" fadeFar="800" heightOffset="2" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="1330" xpos="231.161" ypos="34.9478" zpos="25.5739"  type="assistances.grothmar_valley.ash_code" GUID="1YkKP6VOaUi9uc18uri9Yw==" iconFile="Img/Season5/ACarvedPath_Symbol.png"   minSize="96"  maxSize="110" fadeNear="600" fadeFar="800" heightOffset="2" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="1330" xpos="216.76"  ypos="50.0395" zpos="-131.648" type="assistances.grothmar_valley.ash_code" GUID="K2VtREHpg0W94xcKQEOxHw==" iconFile="Img/Season5/ACarvedPath_Symbol_1.png" fadeNear="15000" fadeFar="20000"/>
+		<POI MapID="1330" xpos="208.918" ypos="45.1909" zpos="-202.292" type="assistances.grothmar_valley.ash_code" GUID="QYxM/Rl99EiwAF2zKsLm1Q==" iconFile="Img/Season5/ACarvedPath_Symbol_2.png" fadeNear="15000" fadeFar="20000"/>
+		<POI MapID="1330" xpos="244.182" ypos="45.2001" zpos="-300.759" type="assistances.grothmar_valley.ash_code" GUID="Qxpvvov/TUCMu5f6C9j8Qw==" iconFile="Img/Season5/ACarvedPath_Symbol_3.png" fadeNear="15000" fadeFar="20000"/>
+		<POI MapID="1330" xpos="185.102" ypos="15.5317" zpos="-319.037" type="assistances.grothmar_valley.ash_code" GUID="9CNtiepVzk2nCFHC6ywinw==" iconFile="Img/Season5/ACarvedPath_Symbol_4.png" fadeNear="15000" fadeFar="20000"/>
+		<POI MapID="1330" xpos="142.588" ypos="25.7277" zpos="-417.588" type="assistances.grothmar_valley.ash_code" GUID="CPp6V+/X0kK79uTvo7L/uw==" iconFile="Img/Season5/ACarvedPath_Symbol_5.png" fadeNear="15000" fadeFar="20000"/>
+		<POI MapID="1330" xpos="83.8491" ypos="42.8451" zpos="-369.617" type="assistances.grothmar_valley.ash_code" GUID="i4sDcQtAd0SwvtK9f8blJw==" iconFile="Img/Season5/ACarvedPath_Symbol_6.png" fadeNear="15000" fadeFar="20000"/>
+		<POI MapID="1330" xpos="57.2493" ypos="50.0545" zpos="-366.384" type="assistances.grothmar_valley.ash_code" GUID="k0TA4DAH8E6T3xbtgpHEdQ==" iconFile="Img/Season5/ACarvedPath_Symbol_7.png" fadeNear="15000" fadeFar="20000"/>
+		<POI MapID="1330" xpos="-31.277" ypos="31.7997" zpos="-281.62"  type="assistances.grothmar_valley.ash_code" GUID="hurU6PO0uEivoVOP43CpPA==" iconFile="Img/Season5/ACarvedPath_Symbol_8.png" fadeNear="15000" fadeFar="20000"/>
+
+	</POIs>
+</OverlayData>

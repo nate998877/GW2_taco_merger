@@ -1,0 +1,211 @@
+<!-- 2020.06.25 -->
+<OverlayData>
+	<POIs>
+
+		<!-- ENDURANCE STRONGBOX -->
+		<Trail type="heart_of_thorns.auric_basin.strongboxes.endurance_strongbox" GUID="b6Q8W6aEb0CvtQeV9jX8TQ==" trailData="Data/HeartOfThorns/AuricBasin/EnduranceStrongbox.trl" texture="Data/Arrow.png" color="ffffdd00" alpha="0.8" fadeNear="1500" fadeFar="2500" animSpeed="1" mapDisplaySize="20"/>
+		<POI MapID="1043" xpos="-333.784" ypos="291.961" zpos="-553.52" type="heart_of_thorns.auric_basin.strongboxes.endurance_strongbox" GUID="T2whNQgVbUu5v+42aQWetA==" heightOffset="0.5"/>
+		<POI MapID="1043" xpos="-470.408" ypos="354.675" zpos="-496.26" type="heart_of_thorns.auric_basin.strongboxes.endurance_strongbox" GUID="uf19EaCEmUmRkySBIc+u0Q==" fadeNear="1000" fadeFar="2000" mapVisibility="0" miniMapVisibility="0"/>
+
+		<!-- OBSIDIAN TRIUMPH STRONGBOX -->
+		<POI MapID="1043" xpos="449.02" ypos="314.264" zpos="-289.789" type="heart_of_thorns.auric_basin.strongboxes.obsidian_triumph_strongbox" GUID="W1v6rCk2VE6c7O0nAKfvqA=="/>
+
+		<!-- SLICE OF SKY STRONGBOX -->
+		<Trail type="heart_of_thorns.auric_basin.strongboxes.slice_of_sky_strongbox" GUID="H2/lcd/q2UyYb99Yqgw9Lw==" trailData="Data/HeartOfThorns/AuricBasin/SlideOfSkyStrongbox.trl" texture="Data/Arrow.png" color="ffffdd00" alpha="0.8" fadeNear="1500" fadeFar="2500" animSpeed="1" mapDisplaySize="20"/>
+		<POI MapID="1043" xpos="-240.856" ypos="297.972" zpos="-166.685" type="heart_of_thorns.auric_basin.strongboxes.slice_of_sky_strongbox" GUID="6YvzhPXKbU6/cX1t+T1gwA==" heightOffset="0.5"/>
+		<POI MapID="1043" xpos="-324.098" ypos="332.123" zpos="-123.425" type="heart_of_thorns.auric_basin.strongboxes.slice_of_sky_strongbox" GUID="DfEWGb9xr0KOLP4TDopEkQ==" fadeNear="1000" fadeFar="2000" mapVisibility="0" miniMapVisibility="0"/>
+
+		<!-- STRAIGHT AND NARROW STRONGBOX -->
+		<Trail type="heart_of_thorns.auric_basin.strongboxes.straight_and_narrow_strongbox" GUID="vZBsuIsGMU+4t6o2BoOaXg==" trailData="Data/HeartOfThorns/AuricBasin/StraightAndNarrowStrongbox.trl" texture="Data/Arrow.png" color="ffffdd00" alpha="0.8" fadeNear="1500" fadeFar="2500" animSpeed="1" mapDisplaySize="20"/>
+		<POI MapID="1043" xpos="-359.566" ypos="476.575" zpos="634.342" type="heart_of_thorns.auric_basin.strongboxes.straight_and_narrow_strongbox" GUID="r9dderaFGUW2r/Bo7IDMHw==" heightOffset="0.5"/>
+		<POI MapID="1043" xpos="-276.179" ypos="495.69"  zpos="593.942" type="heart_of_thorns.auric_basin.strongboxes.straight_and_narrow_strongbox" GUID="8Xi2HQTZrkCciib9slrMag==" iconFile="Img/Gliders/GliderStart.png" heightOffset="0.5" fadeNear="800"  fadeFar="1000" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="1043" xpos="-198.088" ypos="469.79"  zpos="606.877" type="heart_of_thorns.auric_basin.strongboxes.straight_and_narrow_strongbox" GUID="dr+tx//NREGhqa1cQI/Xhg=="                                                           fadeNear="1000" fadeFar="2000" mapVisibility="0" miniMapVisibility="0"/>
+
+		<!-- VENGEANCE RISING STRONGBOX -->
+		<Trail type="heart_of_thorns.auric_basin.strongboxes.vengeance_rising_strongbox" GUID="lSDVJDtzlUKEjBI86X3lWA==" trailData="Data/HeartOfThorns/AuricBasin/VengeanceRisingStrongbox.trl" texture="Data/Arrow.png" color="ffffdd00" alpha="0.8" fadeNear="1500" fadeFar="2500" animSpeed="1" mapDisplaySize="20"/>
+		<POI MapID="1043" xpos="512.845" ypos="293.446" zpos="46.9582" type="heart_of_thorns.auric_basin.strongboxes.vengeance_rising_strongbox" GUID="82FwxPaCLUK5R22kPHAR+g==" heightOffset="0.5"/>
+		<POI MapID="1043" xpos="586.625" ypos="246.536" zpos="185.667" type="heart_of_thorns.auric_basin.strongboxes.vengeance_rising_strongbox" GUID="uc3yQ1/f4EiQ5Q+B1iL3Jw==" fadeNear="1000" fadeFar="2000" mapVisibility="0" miniMapVisibility="0"/>
+
+		<!-- A FUNGUS AMONG US -->
+		<Trail type="heart_of_thorns.auric_basin.a_fungus_among_us" GUID="HKiCWHuob0Onwr1d0a9cDQ==" trailData="Data/HeartOfThorns/AuricBasin/AFungusAmongUs.trl" texture="Data/Arrow.png" color="ffffff00" alpha="0.8" fadeNear="3000" fadeFar="3500" animSpeed="1" miniMapVisibility="1" mapVisibility="1" mapDisplaySize="20"/>
+		<POI MapID="1043" xpos="-315.767" ypos="319.794" zpos="-510.852" type="heart_of_thorns.auric_basin.a_fungus_among_us" GUID="UjYSJBE5qkG0LSXHpIBxMg==" iconFile="Img/Icons/Adventure.png" heightOffset="0.5" miniMapVisibility="1" mapVisibility="1"/>
+		<POI MapID="1043" xpos="-325.046" ypos="321.094" zpos="-461.148" type="heart_of_thorns.auric_basin.a_fungus_among_us" GUID="Gqxgs0ER2UCvYroEf6B9UQ==" iconFile="Img/Numbers/1.png"       fadeNear="2500" fadeFar="3000"/>
+		<POI MapID="1043" xpos="-372.808" ypos="331.496" zpos="-405.986" type="heart_of_thorns.auric_basin.a_fungus_among_us" GUID="j1GLmW4n/kqy54P/PW2KFQ==" iconFile="Img/Numbers/2.png"       fadeNear="2500" fadeFar="3000"/>
+		<POI MapID="1043" xpos="-409.423" ypos="336.764" zpos="-417.18"  type="heart_of_thorns.auric_basin.a_fungus_among_us" GUID="v7mWQAMkh0mmDLIBoY7kPQ==" iconFile="Img/Icons/Target.png"    fadeNear="2500" fadeFar="3000" heightOffset="0"/>
+		<POI MapID="1043" xpos="-480.472" ypos="352.254" zpos="-502.313" type="heart_of_thorns.auric_basin.a_fungus_among_us" GUID="PaqSzcvwcEStug2V+fjsTA==" iconFile="Img/Numbers/1.png"       fadeNear="2500" fadeFar="3000"/>
+		<POI MapID="1043" xpos="-488.344" ypos="362.02"  zpos="-569.423" type="heart_of_thorns.auric_basin.a_fungus_among_us" GUID="Zb3Wf9gA7km+uqaf2FNm+g==" iconFile="Img/Numbers/1.png"       fadeNear="2500" fadeFar="3000"/>
+		<POI MapID="1043" xpos="-415.423" ypos="339.828" zpos="-558.38"  type="heart_of_thorns.auric_basin.a_fungus_among_us" GUID="Thj0dP0iZ0GsHy/OhF5NWQ==" iconFile="Img/Numbers/1.png"       fadeNear="2500" fadeFar="3000"/>
+		<POI MapID="1043" xpos="-367.612" ypos="338.63"  zpos="-592.02"  type="heart_of_thorns.auric_basin.a_fungus_among_us" GUID="IgEDrT9zv0ag5lHkVnIfkA==" iconFile="Img/Numbers/2.png"       fadeNear="2500" fadeFar="3000"/>
+		<POI MapID="1043" xpos="-351.896" ypos="335.137" zpos="-625.963" type="heart_of_thorns.auric_basin.a_fungus_among_us" GUID="GMD192cBR06xnJvlxjQWPQ==" iconFile="Img/Icons/Target.png"    fadeNear="2500" fadeFar="3000" heightOffset="0"/>
+		<POI MapID="1043" xpos="-369.428" ypos="336.813" zpos="-651.945" type="heart_of_thorns.auric_basin.a_fungus_among_us" GUID="RlSY7L2/p06sbkafq28LEQ==" iconFile="Img/Numbers/1.png"       fadeNear="2500" fadeFar="3000"/>
+		<POI MapID="1043" xpos="-417.54"  ypos="341.362" zpos="-673.21"  type="heart_of_thorns.auric_basin.a_fungus_among_us" GUID="va7ZOMCePU2kcMmQfMLcgw==" iconFile="Img/Numbers/2.png"       fadeNear="2500" fadeFar="3000"/>
+		<POI MapID="1043" xpos="-427.524" ypos="352.165" zpos="-641.384" type="heart_of_thorns.auric_basin.a_fungus_among_us" GUID="+IK1Fzn0nEmhz+USBqrhKQ==" iconFile="Img/Icons/Target.png"    fadeNear="2500" fadeFar="3000" heightOffset="0"/>
+
+		<!-- A STUDY IN GOLD -->
+		<POI MapID="1043" xpos="-234.65" ypos="230"   zpos="-92.6"   type="heart_of_thorns.auric_basin.a_study_in_gold" GUID="8qO+yrwYqEqaRdNnXQjRag==" achievementBit="0"/>
+		<POI MapID="1043" xpos="-41"     ypos="126"   zpos="-41"     type="heart_of_thorns.auric_basin.a_study_in_gold" GUID="4w6ms4OK0EqZRzhUjXvOvA==" achievementBit="1"/>
+		<POI MapID="1043" xpos="41"      ypos="126"   zpos="-41"     type="heart_of_thorns.auric_basin.a_study_in_gold" GUID="x9nmIzmK4kqzcW8lOD/avg==" achievementBit="2"/>
+		<POI MapID="1043" xpos="-41"     ypos="126"   zpos="41"      type="heart_of_thorns.auric_basin.a_study_in_gold" GUID="808fc4b2QUacVE8RoLDtwQ==" achievementBit="3"/>
+		<POI MapID="1043" xpos="137.4"   ypos="172"   zpos="208.9"   type="heart_of_thorns.auric_basin.a_study_in_gold" GUID="Tn99LjvmGEuhRltOk/bW3Q==" achievementBit="4"/>
+		<POI MapID="1043" xpos="350.59"  ypos="154"   zpos="-25.86"  type="heart_of_thorns.auric_basin.a_study_in_gold" GUID="xBsVS5GWd0Cdn/Ucb/yCsQ==" achievementBit="5"/>
+		<POI MapID="1043" xpos="156.76"  ypos="152"   zpos="-83.84"  type="heart_of_thorns.auric_basin.a_study_in_gold" GUID="SDNNaN3d1Ei2YBiVZ+DvLA==" achievementBit="6"/>
+		<POI MapID="1043" xpos="-202"    ypos="184"   zpos="-220"    type="heart_of_thorns.auric_basin.a_study_in_gold" GUID="VVYf51UWE0ODwCevSA2ACg==" achievementBit="7"/>
+		<POI MapID="1043" xpos="-198.43" ypos="157"   zpos="95"      type="heart_of_thorns.auric_basin.a_study_in_gold" GUID="GwrzOyQi7UqFuCA0IxYNPA==" achievementBit="8"/>
+		<POI MapID="1043" xpos="0.37"    ypos="244.7" zpos="-241.37" type="heart_of_thorns.auric_basin.a_study_in_gold" GUID="bakzatn200C4ChpqrnAUkA==" achievementBit="9"/>
+		<POI MapID="1043" xpos="0.73"    ypos="279"   zpos="201"     type="heart_of_thorns.auric_basin.a_study_in_gold" GUID="sUZmhabL4Eun3bM29Crw+A==" achievementBit="10"/>
+		<POI MapID="1043" xpos="-189.52" ypos="266.7" zpos="-207.43" type="heart_of_thorns.auric_basin.a_study_in_gold" GUID="gjghCGwXFUO/E0VHtgqbgQ==" achievementBit="11"/>
+		<POI MapID="1043" xpos="-214.83" ypos="311"   zpos="32"      type="heart_of_thorns.auric_basin.a_study_in_gold" GUID="qqf0DPvqWEyPoGbgo3TNjA==" achievementBit="12"/>
+		<POI MapID="1043" xpos="-198.35" ypos="47"    zpos="322"     type="heart_of_thorns.auric_basin.a_study_in_gold" GUID="qPsm32BbI0OYJ1+k21DVbA==" achievementBit="13"/>
+		<POI MapID="1043" xpos="4.36"    ypos="21"    zpos="212.56"  type="heart_of_thorns.auric_basin.a_study_in_gold" GUID="yO+RQ7kqbUOKbnwX8xWKIg==" achievementBit="14"/>
+		<POI MapID="1043" xpos="71.37"   ypos="5.5"   zpos="-8.61"   type="heart_of_thorns.auric_basin.a_study_in_gold" GUID="TFTL3lXO9k2YcK17s8fWWw==" achievementBit="15"/>
+		<POI MapID="1043" xpos="319.66"  ypos="0"     zpos="-273.5"  type="heart_of_thorns.auric_basin.a_study_in_gold" GUID="+XMuQQvFqkanyoCAZBrRKw==" achievementBit="16"/>
+		<POI MapID="1043" xpos="556.44"  ypos="235"   zpos="306"     type="heart_of_thorns.auric_basin.a_study_in_gold" GUID="531XXZFiRUWq7UiBkOJYtw==" iconFile="Img/HoT/Herta.png" behavior="0"/>
+
+		<!-- EGG BEARER -->
+		<Trail type="heart_of_thorns.auric_basin.egg_bearer" GUID="GuZyJ7V+AkWjzhSmiM+suQ" trailData="Data/HeartOfThorns/AuricBasin/EggBearer.trl" texture="Data/Arrow.png" color="ff00ff00" alpha="0.8" fadeNear="1500" fadeFar="2000" animSpeed="1" miniMapVisibility="1" mapVisibility="1" mapDisplaySize="20"/>
+		<POI MapID="1043" xpos="134.718" ypos="4.05034" zpos="-303.731" type="heart_of_thorns.auric_basin.egg_bearer" GUID="otbX4Bpg70+bKt/q8A3HUQ=="                                        minSize="18" maxSize="20" heightOffset="0.5" miniMapVisibility="1" mapVisibility="1"/>
+		<POI MapID="1043" xpos="204.955" ypos="213.569" zpos="-228.616" type="heart_of_thorns.auric_basin.egg_bearer" GUID="hsBdS28HXEKL4KLk0fXRBA==" iconFile="Img/HoT/AuricBasinChest.png" minSize="18" maxSize="20" heightOffset="2.5"/>
+
+		<!-- HIDDEN AMPHIBIAN -->
+		<Trail type="heart_of_thorns.auric_basin.hidden_amphibian" GUID="WLCOG9YpKUiyb/W3PGWzeQ==" trailData="Data/HeartOfThorns/AuricBasin/HiddenAmphibian.trl" texture="Data/Arrow.png" color="ff00dd00" alpha="0.8" fadeNear="1500" fadeFar="2000" animSpeed="1" mapDisplaySize="20"/>
+		<POI MapID="1043" xpos="-333.22"  ypos="292.164" zpos="-552.441" type="heart_of_thorns.auric_basin.hidden_amphibian" GUID="MAL7qSTe2E2mKvIcospAeA=="                                nimSize="18" maxSize="20"/>
+		<POI MapID="1043" xpos="-496.473" ypos="369.337" zpos="-668.181" type="heart_of_thorns.auric_basin.hidden_amphibian" GUID="U8zsSXCK3U+Dx7E0A6bmhQ=="                                nimSize="18" maxSize="20" fadeNear="1500" fadeFar="2000" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="1043" xpos="-496.473" ypos="371"     zpos="-668.181" type="heart_of_thorns.auric_basin.hidden_amphibian" GUID="D+KTDOX6cUmmMKkxS4owZQ==" iconFile="Img/Icons/Fight.png" nimSize="18" maxSize="20" fadeNear="1500" fadeFar="2000" mapVisibility="0" miniMapVisibility="0"/>
+
+		<!-- HIGHEST GEAR -->
+		<Trail type="heart_of_thorns.auric_basin.highest_gear" GUID="pydJurCGtEq3wkCxZ4zkuA==" trailData="Data/HeartOfThorns/AuricBasin/HighestGear.trl" texture="Data/Arrow.png" color="ff00ff00" alpha="0.8" fadeNear="1500" fadeFar="2000" animSpeed="1" mapDisplaySize="20"/>
+		<POI MapID="1043" xpos="-240.691" ypos="297.971" zpos="-166.921" type="heart_of_thorns.auric_basin.highest_gear" GUID="HrjDtgWIrECr+Rp6hgG46A=="                                         minSize="18" maxSize="20" heightOffset="0.5"/>
+		<POI MapID="1043" xpos="-577.298" ypos="271.537" zpos="-433.694" type="heart_of_thorns.auric_basin.highest_gear" GUID="M0ur0UNeMkOVAjri6XamIQ==" iconFile="Img/General/PuzzleChest.png"  minSize="18" maxSize="20" fadeNear="1500" fadeFar="2000"/>
+
+		<!-- NO MASK LEFT BEHIND -->
+		<POI MapID="1043" xpos="66.8613"  ypos="301.777" zpos="536.273"  type="heart_of_thorns.auric_basin.no_mask_left_behind" GUID="9lKF+5GzxUqjYXUlft049A==" achievementBit="0"/>
+		<POI MapID="1043" xpos="571.86"   ypos="299.41"  zpos="356.86"   type="heart_of_thorns.auric_basin.no_mask_left_behind" GUID="Pctk37FZYUahSQtbPt3yGw==" achievementBit="1"/>
+		<POI MapID="1043" xpos="476.66"   ypos="342.98"  zpos="131.46"   type="heart_of_thorns.auric_basin.no_mask_left_behind" GUID="SgPkysGtMU67Pf8cMYR7Wg==" achievementBit="2"/>
+		<POI MapID="1043" xpos="-432.35"  ypos="291.73"  zpos="-432.58"  type="heart_of_thorns.auric_basin.no_mask_left_behind" GUID="IXwWOUgwbkao7ERSHpVYyQ==" achievementBit="3"/>
+		<POI MapID="1043" xpos="206.64"   ypos="266.955" zpos="-647.837" type="heart_of_thorns.auric_basin.no_mask_left_behind" GUID="UNGzrPOogUa8hJ+Gsa29Eg==" achievementBit="4"/>
+		<POI MapID="1043" xpos="62.78"    ypos="223.52"  zpos="-804.48"  type="heart_of_thorns.auric_basin.no_mask_left_behind" GUID="6fZnceB0306QKALtAGHAAg==" achievementBit="5"/>
+		<POI MapID="1043" xpos="320.645"  ypos="282.435" zpos="-232.825" type="heart_of_thorns.auric_basin.no_mask_left_behind" GUID="sHWvc6sbikqEDXyvbsGAJA==" achievementBit="6"/>
+		<POI MapID="1043" xpos="613.44"   ypos="307.45"  zpos="64.2412"  type="heart_of_thorns.auric_basin.no_mask_left_behind" GUID="igv7p/tgsESIYvLNdWKKjg==" achievementBit="7"/>
+		<POI MapID="1043" xpos="-337.17"  ypos="295.56"  zpos="-369.8"   type="heart_of_thorns.auric_basin.no_mask_left_behind" GUID="sHWMO14dIkmeVTL1AbZFzQ==" achievementBit="8"/>
+		<POI MapID="1043" xpos="-510.36"  ypos="122.76"  zpos="-266.26"  type="heart_of_thorns.auric_basin.no_mask_left_behind" GUID="NjReN6ivzESNW6SS37NA0Q==" achievementBit="9"/>
+		<POI MapID="1043" xpos="-593.29"  ypos="291.33"  zpos="152.48"   type="heart_of_thorns.auric_basin.no_mask_left_behind" GUID="fCTfKTL/9UqL34QbgvC/8Q==" achievementBit="10"/>
+		<POI MapID="1043" xpos="-364.616" ypos="420.724" zpos="523.228"  type="heart_of_thorns.auric_basin.no_mask_left_behind" GUID="te/SeuaA2kme1jOFwI5O3A==" achievementBit="11"/>
+		<POI MapID="1043" xpos="-18.25"   ypos="389.61"  zpos="547.25"   type="heart_of_thorns.auric_basin.no_mask_left_behind" GUID="IWIg/jcj1UGQuVc7G4LYyA==" achievementBit="12"/>
+		<POI MapID="1043" xpos="377.85"   ypos="347.48"  zpos="536.55"   type="heart_of_thorns.auric_basin.no_mask_left_behind" GUID="s4QxpgYwvkeYeUms9jQ74A==" achievementBit="13"/>
+		<POI MapID="1043" xpos="542.821"  ypos="371.659" zpos="718.002"  type="heart_of_thorns.auric_basin.no_mask_left_behind" GUID="j5QXdJ8umUO7pEeAMOWnTQ==" achievementBit="14"/>
+		<POI MapID="1043" xpos="503.501"  ypos="282.944" zpos="-527.938" type="heart_of_thorns.auric_basin.no_mask_left_behind" GUID="8EWfOfgsDUKuug1WSoaTvw==" achievementBit="15"/>
+		<POI MapID="1043" xpos="431.12"   ypos="246.69"  zpos="-819.12"  type="heart_of_thorns.auric_basin.no_mask_left_behind" GUID="qt871X5X1E+qVw2jBcoq2g==" achievementBit="16"/>
+		<POI MapID="1043" xpos="94.54"    ypos="277.88"  zpos="-681.48"  type="heart_of_thorns.auric_basin.no_mask_left_behind" GUID="jjMsNPzvu0KqSxVCzW9+vA==" achievementBit="17"/>
+		<POI MapID="1043" xpos="-179.67"  ypos="305.31"  zpos="-581.63"  type="heart_of_thorns.auric_basin.no_mask_left_behind" GUID="wF3ZJ91r1E2SYCXyrXpXvQ==" achievementBit="18"/>
+		<POI MapID="1043" xpos="-108.266" ypos="305.411" zpos="-382.819" type="heart_of_thorns.auric_basin.no_mask_left_behind" GUID="G5JC47jlXEmnK/s7pL4S6w==" achievementBit="19"/>
+		<POI MapID="1043" xpos="59.57"    ypos="319.33"  zpos="-295"     type="heart_of_thorns.auric_basin.no_mask_left_behind" GUID="NT0EttNUfkCIwYkAC35nlg==" achievementBit="20"/>
+		<POI MapID="1043" xpos="148.1"    ypos="303.8"   zpos="-446.3"   type="heart_of_thorns.auric_basin.no_mask_left_behind" GUID="7RzDdLdKw0mPl25k7/JMaA==" achievementBit="21"/>
+		<POI MapID="1043" xpos="-309.24"  ypos="364.484" zpos="735.021"  type="heart_of_thorns.auric_basin.no_mask_left_behind" GUID="JNT9yDcee0igZ+4dbBvfYQ==" achievementBit="22"/>
+		<POI MapID="1043" xpos="-576.307" ypos="288.592" zpos="-42.9795" type="heart_of_thorns.auric_basin.no_mask_left_behind" GUID="KOnaUbU4U0ubsUm2F3a6Ug==" achievementBit="23"/>
+		<POI MapID="1043" xpos="82.9037"  ypos="352.824" zpos="327.469"  type="heart_of_thorns.auric_basin.no_mask_left_behind" GUID="x8hupUErt0+xmcoDdzAKtA==" achievementBit="24"/>
+
+		<!-- SANCTUM SCRAMBLE -->
+		<Trail type="heart_of_thorns.auric_basin.sanctum_scramble" GUID="fPR7cmh1rEqh5VjV0qTKsw==" trailData="Data/HeartOfThorns/AuricBasin/SanctumScramble.trl" texture="Data/Arrow.png" color="ffffff00" alpha="0.8" fadeNear="3000" fadeFar="3500" animSpeed="1" miniMapVisibility="1" mapVisibility="1" mapDisplaySize="20"/>
+		<POI MapID="1043" xpos="138.25"  ypos="4.25776" zpos="-299.349" type="heart_of_thorns.auric_basin.sanctum_scramble" GUID="MD2QsB3LF0mX+U7i4NtoAw==" iconFile="Img/Icons/Adventure.png" heightOffset="0.5" miniMapVisibility="1" mapVisibility="1"/>
+		<POI MapID="1043" xpos="160.553" ypos="17.5955" zpos="-327.889" type="heart_of_thorns.auric_basin.sanctum_scramble" GUID="hdOJaU/vgk+vRC5lHhf2yQ==" iconFile="Img/Numbers/1.png"       fadeNear="2500" fadeFar="3000"/>
+		<POI MapID="1043" xpos="183.061" ypos="29.2862" zpos="-327.036" type="heart_of_thorns.auric_basin.sanctum_scramble" GUID="PWGwTq+A+0C4HSsrCFP4jA==" iconFile="Img/Numbers/2.png"       fadeNear="2500" fadeFar="3000"/>
+		<POI MapID="1043" xpos="239.483" ypos="40.4966" zpos="-325.989" type="heart_of_thorns.auric_basin.sanctum_scramble" GUID="wRFsEDBDHUiH9HgYTLg0CA==" iconFile="Img/Numbers/3.png"       fadeNear="2500" fadeFar="3000"/>
+		<POI MapID="1043" xpos="294.326" ypos="49.3219" zpos="-314.116" type="heart_of_thorns.auric_basin.sanctum_scramble" GUID="jgEa34+WzUOWEelgAar4vg==" iconFile="Img/Numbers/1.png"       fadeNear="2500" fadeFar="3000"/>
+		<POI MapID="1043" xpos="321.146" ypos="60.7552" zpos="-279.681" type="heart_of_thorns.auric_basin.sanctum_scramble" GUID="wn40S0QJ40SMzYPlvFhwag==" iconFile="Img/Numbers/3.png"       fadeNear="2500" fadeFar="3000"/>
+		<POI MapID="1043" xpos="326.737" ypos="61.9737" zpos="-238.007" type="heart_of_thorns.auric_basin.sanctum_scramble" GUID="yxWVq+NilES+yH9PJNLqDQ==" iconFile="Img/Numbers/1.png"       fadeNear="2500" fadeFar="3000"/>
+		<POI MapID="1043" xpos="325.847" ypos="71.5149" zpos="-231.331" type="heart_of_thorns.auric_basin.sanctum_scramble" GUID="LbvZbWJnR0ygdgIAynCEAg==" iconFile="Img/Numbers/2.png"       fadeNear="2500" fadeFar="3000"/>
+		<POI MapID="1043" xpos="308.973" ypos="59.9884" zpos="-155.389" type="heart_of_thorns.auric_basin.sanctum_scramble" GUID="2qu7UxTaukOZ6q/R/rqMXQ==" iconFile="Img/Numbers/3.png"       fadeNear="2500" fadeFar="3000"/>
+		<POI MapID="1043" xpos="302.924" ypos="86.7041" zpos="-152.264" type="heart_of_thorns.auric_basin.sanctum_scramble" GUID="xj1hUgVUsUOZMTZN594V/w==" iconFile="Img/Icons/Target.png"    fadeNear="2500" fadeFar="3000"/>
+		<POI MapID="1043" xpos="298.335" ypos="80.8302" zpos="-147.936" type="heart_of_thorns.auric_basin.sanctum_scramble" GUID="6JGby7x0uUiwt2SHIblprw==" iconFile="Img/Numbers/2.png"       fadeNear="2500" fadeFar="3000"/>
+		<POI MapID="1043" xpos="232.255" ypos="58.9249" zpos="-106.496" type="heart_of_thorns.auric_basin.sanctum_scramble" GUID="AzTJNFC9fE6VavcfaC4CwQ==" iconFile="Img/Numbers/1.png"       fadeNear="2500" fadeFar="3000"/>
+		<POI MapID="1043" xpos="226.46"  ypos="68.6953" zpos="-106.228" type="heart_of_thorns.auric_basin.sanctum_scramble" GUID="v8MmCobnbEuOE1U2QnqBMA==" iconFile="Img/Numbers/2.png"       fadeNear="2500" fadeFar="3000"/>
+		<POI MapID="1043" xpos="137.034" ypos="62.8187" zpos="-134.975" type="heart_of_thorns.auric_basin.sanctum_scramble" GUID="m5/X30rA4kieBnDwe1aoPg==" iconFile="Img/Numbers/3.png"       fadeNear="2500" fadeFar="3000"/>
+		<POI MapID="1043" xpos="109.898" ypos="80.8337" zpos="-198.601" type="heart_of_thorns.auric_basin.sanctum_scramble" GUID="r8m6f0mokEyP6qDvCgGpoQ==" iconFile="Img/Numbers/2.png"       fadeNear="2500" fadeFar="3000"/>
+		<POI MapID="1043" xpos="118.98"  ypos="83.6684" zpos="-274.497" type="heart_of_thorns.auric_basin.sanctum_scramble" GUID="6wESn1+5dk6tG8nrcTZEKg==" iconFile="Img/Numbers/3.png"       fadeNear="2500" fadeFar="3000"/>
+		<POI MapID="1043" xpos="150.573" ypos="95.6563" zpos="-302.699" type="heart_of_thorns.auric_basin.sanctum_scramble" GUID="hWYPcbsQz0auGutNMfA9ZQ==" iconFile="Img/Numbers/2.png"       fadeNear="2500" fadeFar="3000"/>
+		<POI MapID="1043" xpos="182.521" ypos="95.8043" zpos="-322.187" type="heart_of_thorns.auric_basin.sanctum_scramble" GUID="L7JJgwepQkaiP2pTKD7Mdw==" iconFile="Img/Numbers/1.png"       fadeNear="2500" fadeFar="3000"/>
+		<POI MapID="1043" xpos="239.947" ypos="108.486" zpos="-315.199" type="heart_of_thorns.auric_basin.sanctum_scramble" GUID="Wx78BMa5LEWe1g7fYO+3iw==" iconFile="Img/Numbers/1.png"       fadeNear="2500" fadeFar="3000"/>
+		<POI MapID="1043" xpos="281.95"  ypos="126.244" zpos="-278.845" type="heart_of_thorns.auric_basin.sanctum_scramble" GUID="wawnhV0EikuhA9tdrXiRaQ==" iconFile="Img/Numbers/3.png"       fadeNear="2500" fadeFar="3000"/>
+		<POI MapID="1043" xpos="287.122" ypos="159.045" zpos="-271.888" type="heart_of_thorns.auric_basin.sanctum_scramble" GUID="R6VRtQb5rUaQBCwpXa67tQ==" iconFile="Img/Icons/Target.png"    fadeNear="2500" fadeFar="3000"/>
+		<POI MapID="1043" xpos="297.984" ypos="149.752" zpos="-233.762" type="heart_of_thorns.auric_basin.sanctum_scramble" GUID="8DuFKwHTXUeaXqk8t57iUA==" iconFile="Img/Numbers/3.png"       fadeNear="2500" fadeFar="3000"/>
+		<POI MapID="1043" xpos="299.762" ypos="189.721" zpos="-228.736" type="heart_of_thorns.auric_basin.sanctum_scramble" GUID="qV4K198vnU24UgsIjORRsA==" iconFile="Img/Icons/Target.png"    fadeNear="2500" fadeFar="3000"/>
+		<POI MapID="1043" xpos="299.208" ypos="185.506" zpos="-224.435" type="heart_of_thorns.auric_basin.sanctum_scramble" GUID="IIAIGpD5/UW8yJjdhJb+7g==" iconFile="Img/Numbers/2.png"       fadeNear="2500" fadeFar="3000"/>
+		<POI MapID="1043" xpos="241.101" ypos="181.018" zpos="-143.059" type="heart_of_thorns.auric_basin.sanctum_scramble" GUID="VzASdpYMS0aM9erD07DTLw==" iconFile="Img/Numbers/1.png"       fadeNear="2500" fadeFar="3000"/>
+		<POI MapID="1043" xpos="225.903" ypos="186.506" zpos="-144.681" type="heart_of_thorns.auric_basin.sanctum_scramble" GUID="9qeuLNpin0+EIEE2+EcIDQ==" iconFile="Img/Numbers/2.png"       fadeNear="2500" fadeFar="3000"/>
+		<POI MapID="1043" xpos="164.394" ypos="181.635" zpos="-162.828" type="heart_of_thorns.auric_basin.sanctum_scramble" GUID="9uRjyVeLhEuZgFLxhbkfFA==" iconFile="Img/Numbers/3.png"       fadeNear="2500" fadeFar="3000"/>
+		<POI MapID="1043" xpos="144.563" ypos="189.317" zpos="-231.268" type="heart_of_thorns.auric_basin.sanctum_scramble" GUID="qgB7r6XzCUSa7HpTHtTNQA==" iconFile="Img/Numbers/3.png"       fadeNear="2500" fadeFar="3000"/>
+		<POI MapID="1043" xpos="172.779" ypos="216.118" zpos="-258.534" type="heart_of_thorns.auric_basin.sanctum_scramble" GUID="eRDrWUzf40aUlyk5JGIiyg==" iconFile="Img/Numbers/2.png"       fadeNear="2500" fadeFar="3000"/>
+
+		<!-- THE FLOOR IS LAVA? -->
+		<Trail type="heart_of_thorns.auric_basin.the_floor_is_lava" GUID="SgZSh03S3kGvUbnuXZXfWA==" trailData="Data/HeartOfThorns/AuricBasin/TheFloorIsLava.trl" texture="Data/Arrow.png" color="ff00ff00" alpha="0.8" fadeNear="1500" fadeFar="2000" animSpeed="1" miniMapVisibility="1" mapVisibility="1" mapDisplaySize="20"/>
+		<POI MapID="1043" xpos="-562.163" ypos="326.362" zpos="515.486" type="heart_of_thorns.auric_basin.the_floor_is_lava" GUID="zi0JWL65gkG09p6WguH97w==" iconFile="Img/Icons/Adventure.png"   heightOffset="0.5" miniMapVisibility="1" mapVisibility="1"/>
+		<POI MapID="1043" xpos="-562.108" ypos="325.443" zpos="517.81"  type="heart_of_thorns.auric_basin.the_floor_is_lava" GUID="WpXtC231uUupwLBj5cRhKA==" iconFile="Img/Icons/Interaction.png" minSize="8" maxSize="16" fadeNear="1500" fadeFar="2000" heightOffset="0.5"/>
+		<POI MapID="1043" xpos="-533.27"  ypos="324.289" zpos="522.531" type="heart_of_thorns.auric_basin.the_floor_is_lava" GUID="ds7w9XjUlEmKSaVukTE7zw==" iconFile="Img/Icons/Interaction.png" minSize="8" maxSize="16" fadeNear="1500" fadeFar="2000" heightOffset="0.5"/>
+		<POI MapID="1043" xpos="-565.591" ypos="315.862" zpos="526.432" type="heart_of_thorns.auric_basin.the_floor_is_lava" GUID="56bzazSzw0ivtp3/BrYYMA==" iconFile="Img/Icons/Interaction.png" minSize="8" maxSize="16" fadeNear="1500" fadeFar="2000" heightOffset="0.5"/>
+		<POI MapID="1043" xpos="-571.417" ypos="320.36"  zpos="535.381" type="heart_of_thorns.auric_basin.the_floor_is_lava" GUID="8qMgqhUC406xQrbRKEopXg==" iconFile="Img/Icons/Interaction.png" minSize="8" maxSize="16" fadeNear="1500" fadeFar="2000" heightOffset="0.5"/>
+		<POI MapID="1043" xpos="-589.257" ypos="330.214" zpos="531.082" type="heart_of_thorns.auric_basin.the_floor_is_lava" GUID="IHxN7tmIJEO2ckPgux2kKw==" iconFile="Img/Icons/Interaction.png" minSize="8" maxSize="16" fadeNear="1500" fadeFar="2000" heightOffset="0.5"/>
+		<POI MapID="1043" xpos="-593.619" ypos="341.573" zpos="548.552" type="heart_of_thorns.auric_basin.the_floor_is_lava" GUID="A5tQVXB2gEWliW0OydWyrg==" iconFile="Img/Icons/Interaction.png" minSize="8" maxSize="16" fadeNear="1500" fadeFar="2000" heightOffset="0.5"/>
+		<POI MapID="1043" xpos="-592.305" ypos="325.4"   zpos="515.567" type="heart_of_thorns.auric_basin.the_floor_is_lava" GUID="g3rd9mXx7ESHpLDubqkECQ==" iconFile="Img/Icons/Interaction.png" minSize="8" maxSize="16" fadeNear="1500" fadeFar="2000" heightOffset="0.5"/>
+		<POI MapID="1043" xpos="-580.404" ypos="315.862" zpos="519.034" type="heart_of_thorns.auric_basin.the_floor_is_lava" GUID="f8omHeu+/ECqqB7IdRrtMg==" iconFile="Img/Icons/Interaction.png" minSize="8" maxSize="16" fadeNear="1500" fadeFar="2000" heightOffset="0.5"/>
+		<POI MapID="1043" xpos="-575.026" ypos="315.862" zpos="541.601" type="heart_of_thorns.auric_basin.the_floor_is_lava" GUID="PqL8UXGbMUee7R3GmmRKbg==" iconFile="Img/Icons/Interaction.png" minSize="8" maxSize="16" fadeNear="1500" fadeFar="2000" heightOffset="0.5"/>
+		<POI MapID="1043" xpos="-562.561" ypos="315.956" zpos="536.298" type="heart_of_thorns.auric_basin.the_floor_is_lava" GUID="4UFFHZ9p3EKx8gH/kq7EPg==" iconFile="Img/Icons/Interaction.png" minSize="8" maxSize="16" fadeNear="1500" fadeFar="2000" heightOffset="0.5"/>
+		<POI MapID="1043" xpos="-560.154" ypos="321.816" zpos="542.768" type="heart_of_thorns.auric_basin.the_floor_is_lava" GUID="Iz0qoT3TSEWuputByW9v/A==" iconFile="Img/Icons/Interaction.png" minSize="8" maxSize="16" fadeNear="1500" fadeFar="2000" heightOffset="0.5"/>
+		<POI MapID="1043" xpos="-562.067" ypos="316.326" zpos="553.969" type="heart_of_thorns.auric_basin.the_floor_is_lava" GUID="4EaPSBholEeYvOPiLQ8Z0w==" iconFile="Img/Icons/Interaction.png" minSize="8" maxSize="16" fadeNear="1500" fadeFar="2000" heightOffset="0.5"/>
+		<POI MapID="1043" xpos="-547.76"  ypos="319.399" zpos="551.716" type="heart_of_thorns.auric_basin.the_floor_is_lava" GUID="klSMWUwDL0aZ4R/2r3rA7w==" iconFile="Img/Icons/Interaction.png" minSize="8" maxSize="16" fadeNear="1500" fadeFar="2000" heightOffset="0.5"/>
+		<POI MapID="1043" xpos="-539.369" ypos="316.463" zpos="543.574" type="heart_of_thorns.auric_basin.the_floor_is_lava" GUID="4x8rmxVTDUqFUlzPbomunA==" iconFile="Img/Icons/Interaction.png" minSize="8" maxSize="16" fadeNear="1500" fadeFar="2000" heightOffset="0.5"/>
+		<POI MapID="1043" xpos="-541.88"  ypos="315.768" zpos="529.883" type="heart_of_thorns.auric_basin.the_floor_is_lava" GUID="4PRkkAt+BUO27uU3pudG8Q==" iconFile="Img/Icons/Interaction.png" minSize="8" maxSize="16" fadeNear="1500" fadeFar="2000" heightOffset="0.5"/>
+		<POI MapID="1043" xpos="-525.447" ypos="320.529" zpos="536.611" type="heart_of_thorns.auric_basin.the_floor_is_lava" GUID="PbJRBxjSXEqPPkdNBy5F0Q==" iconFile="Img/Icons/Interaction.png" minSize="8" maxSize="16" fadeNear="1500" fadeFar="2000" heightOffset="0.5"/>
+		<POI MapID="1043" xpos="-525.64"  ypos="315.866" zpos="546.785" type="heart_of_thorns.auric_basin.the_floor_is_lava" GUID="1X+LXdEMXkmO0v6rkhQVXA==" iconFile="Img/Icons/Interaction.png" minSize="8" maxSize="16" fadeNear="1500" fadeFar="2000" heightOffset="0.5"/>
+		<POI MapID="1043" xpos="-531.254" ypos="321.593" zpos="556.391" type="heart_of_thorns.auric_basin.the_floor_is_lava" GUID="Wh0sTfMYbU2eq9NDwffwQQ==" iconFile="Img/Icons/Interaction.png" minSize="8" maxSize="16" fadeNear="1500" fadeFar="2000" heightOffset="0.5"/>
+		<POI MapID="1043" xpos="-539.377" ypos="315.873" zpos="563.056" type="heart_of_thorns.auric_basin.the_floor_is_lava" GUID="0919gII/zEqbIeBpwBswPw==" iconFile="Img/Icons/Interaction.png" minSize="8" maxSize="16" fadeNear="1500" fadeFar="2000" heightOffset="0.5"/>
+		<POI MapID="1043" xpos="-548.304" ypos="322.41"  zpos="569.545" type="heart_of_thorns.auric_basin.the_floor_is_lava" GUID="1YYy14mb7UGUAW1PpJu8Cw==" iconFile="Img/Icons/Interaction.png" minSize="8" maxSize="16" fadeNear="1500" fadeFar="2000" heightOffset="0.5"/>
+		<POI MapID="1043" xpos="-528.217" ypos="331.443" zpos="573.773" type="heart_of_thorns.auric_basin.the_floor_is_lava" GUID="C3zbHKjVg0+FWdjVfpreGw==" iconFile="Img/Icons/Interaction.png" minSize="8" maxSize="16" fadeNear="1500" fadeFar="2000" heightOffset="0.5"/>
+		<POI MapID="1043" xpos="-520.297" ypos="320.826" zpos="606.276" type="heart_of_thorns.auric_basin.the_floor_is_lava" GUID="aLDd8kyFxEelO+3AoQBMYg==" iconFile="Img/Icons/Interaction.png" minSize="8" maxSize="16" fadeNear="1500" fadeFar="2000" heightOffset="0.5"/>
+		<POI MapID="1043" xpos="-525.911" ypos="315.862" zpos="601.556" type="heart_of_thorns.auric_basin.the_floor_is_lava" GUID="bnUH3ZdrKUCkvwG9ASYqWg==" iconFile="Img/Icons/Interaction.png" minSize="8" maxSize="16" fadeNear="1500" fadeFar="2000" heightOffset="0.5"/>
+		<POI MapID="1043" xpos="-525.919" ypos="320.284" zpos="627.184" type="heart_of_thorns.auric_basin.the_floor_is_lava" GUID="eCulfi5R0U6S9Y2CuV1Rwg==" iconFile="Img/Icons/Interaction.png" minSize="8" maxSize="16" fadeNear="1500" fadeFar="2000" heightOffset="0.5"/>
+		<POI MapID="1043" xpos="-544.574" ypos="331.47"  zpos="638.343" type="heart_of_thorns.auric_basin.the_floor_is_lava" GUID="lZ2WU36vGECkTuBfuLcZQg==" iconFile="Img/Icons/Interaction.png" minSize="8" maxSize="16" fadeNear="1500" fadeFar="2000" heightOffset="0.5"/>
+		<POI MapID="1043" xpos="-541.198" ypos="323.275" zpos="630.578" type="heart_of_thorns.auric_basin.the_floor_is_lava" GUID="OHopmBi0TEqg2g1scQk9zw==" iconFile="Img/Icons/Interaction.png" minSize="8" maxSize="16" fadeNear="1500" fadeFar="2000" heightOffset="0.5"/>
+		<POI MapID="1043" xpos="-540.183" ypos="315.862" zpos="623.614" type="heart_of_thorns.auric_basin.the_floor_is_lava" GUID="OsyuM4P9K0yb4H5wu+Y86w==" iconFile="Img/Icons/Interaction.png" minSize="8" maxSize="16" fadeNear="1500" fadeFar="2000" heightOffset="0.5"/>
+		<POI MapID="1043" xpos="-530.868" ypos="315.862" zpos="612.974" type="heart_of_thorns.auric_basin.the_floor_is_lava" GUID="q/pyzBRszk+956d14waThQ==" iconFile="Img/Icons/Interaction.png" minSize="8" maxSize="16" fadeNear="1500" fadeFar="2000" heightOffset="0.5"/>
+		<POI MapID="1043" xpos="-537.055" ypos="321.652" zpos="601.623" type="heart_of_thorns.auric_basin.the_floor_is_lava" GUID="0fzIkUxAU0aGxGxaRqh6+g==" iconFile="Img/Icons/Interaction.png" minSize="8" maxSize="16" fadeNear="1500" fadeFar="2000" heightOffset="0.5"/>
+		<POI MapID="1043" xpos="-546.827" ypos="315.9"   zpos="604.307" type="heart_of_thorns.auric_basin.the_floor_is_lava" GUID="n+7P4K13xUG1lK/SqkxTog==" iconFile="Img/Icons/Interaction.png" minSize="8" maxSize="16" fadeNear="1500" fadeFar="2000" heightOffset="0.5"/>
+		<POI MapID="1043" xpos="-553.281" ypos="316.042" zpos="623.301" type="heart_of_thorns.auric_basin.the_floor_is_lava" GUID="Nj00SUbnH0+JBf2WTWdUsw==" iconFile="Img/Icons/Interaction.png" minSize="8" maxSize="16" fadeNear="1500" fadeFar="2000" heightOffset="0.5"/>
+		<POI MapID="1043" xpos="-558.942" ypos="320.848" zpos="623.373" type="heart_of_thorns.auric_basin.the_floor_is_lava" GUID="P87clZkc3k2NNCtsJcZMGg==" iconFile="Img/Icons/Interaction.png" minSize="8" maxSize="16" fadeNear="1500" fadeFar="2000" heightOffset="0.5"/>
+		<POI MapID="1043" xpos="-554.666" ypos="316.481" zpos="617.4"   type="heart_of_thorns.auric_basin.the_floor_is_lava" GUID="R2I5GJQdz0OmglJcVoNk7Q==" iconFile="Img/Icons/Interaction.png" minSize="8" maxSize="16" fadeNear="1500" fadeFar="2000" heightOffset="0.5"/>
+		<POI MapID="1043" xpos="-575.679" ypos="317.995" zpos="630.064" type="heart_of_thorns.auric_basin.the_floor_is_lava" GUID="VSM792WB5ESQJ8gitfWDRg==" iconFile="Img/Icons/Interaction.png" minSize="8" maxSize="16" fadeNear="1500" fadeFar="2000" heightOffset="0.5"/>
+		<POI MapID="1043" xpos="-582.716" ypos="315.865" zpos="624.401" type="heart_of_thorns.auric_basin.the_floor_is_lava" GUID="4yZaT8Z6lEKi4UMuj7daEA==" iconFile="Img/Icons/Interaction.png" minSize="8" maxSize="16" fadeNear="1500" fadeFar="2000" heightOffset="0.5"/>
+		<POI MapID="1043" xpos="-580.774" ypos="321.459" zpos="616.39"  type="heart_of_thorns.auric_basin.the_floor_is_lava" GUID="Lr1h2EqUt0GTeY0o9SP04g==" iconFile="Img/Icons/Interaction.png" minSize="8" maxSize="16" fadeNear="1500" fadeFar="2000" heightOffset="0.5"/>
+		<POI MapID="1043" xpos="-573.847" ypos="315.972" zpos="617.341" type="heart_of_thorns.auric_basin.the_floor_is_lava" GUID="9rH3azw/20mnOO/r4vYuWg==" iconFile="Img/Icons/Interaction.png" minSize="8" maxSize="16" fadeNear="1500" fadeFar="2000" heightOffset="0.5"/>
+		<POI MapID="1043" xpos="-585.122" ypos="320.839" zpos="600.947" type="heart_of_thorns.auric_basin.the_floor_is_lava" GUID="8BrbsuZNY0yOmQdfWkzD3g==" iconFile="Img/Icons/Interaction.png" minSize="8" maxSize="16" fadeNear="1500" fadeFar="2000" heightOffset="0.5"/>
+		<POI MapID="1043" xpos="-602.178" ypos="318.936" zpos="588.392" type="heart_of_thorns.auric_basin.the_floor_is_lava" GUID="dnQfHD+yf0yNqBaSmItzmQ==" iconFile="Img/Icons/Interaction.png" minSize="8" maxSize="16" fadeNear="1500" fadeFar="2000" heightOffset="0.5"/>
+		<POI MapID="1043" xpos="-589.575" ypos="316.11"  zpos="582.197" type="heart_of_thorns.auric_basin.the_floor_is_lava" GUID="VVF3UbckoEqoRr7Dv29qOA==" iconFile="Img/Icons/Interaction.png" minSize="8" maxSize="16" fadeNear="1500" fadeFar="2000" heightOffset="0.5"/>
+		<POI MapID="1043" xpos="-583.786" ypos="320.805" zpos="578.148" type="heart_of_thorns.auric_basin.the_floor_is_lava" GUID="XvDLlZ95uUil/oQCti69LQ==" iconFile="Img/Icons/Interaction.png" minSize="8" maxSize="16" fadeNear="1500" fadeFar="2000" heightOffset="0.5"/>
+		<POI MapID="1043" xpos="-577.668" ypos="315.944" zpos="579.373" type="heart_of_thorns.auric_basin.the_floor_is_lava" GUID="KyXqN7hFdkCEamr4gt0bKQ==" iconFile="Img/Icons/Interaction.png" minSize="8" maxSize="16" fadeNear="1500" fadeFar="2000" heightOffset="0.5"/>
+		<POI MapID="1043" xpos="-568.827" ypos="315.95"  zpos="601.448" type="heart_of_thorns.auric_basin.the_floor_is_lava" GUID="2YlnZvV/kE2/YDtYGPd2eg==" iconFile="Img/Icons/Interaction.png" minSize="8" maxSize="16" fadeNear="1500" fadeFar="2000" heightOffset="0.5"/>
+		<POI MapID="1043" xpos="-563.833" ypos="323.376" zpos="594.679" type="heart_of_thorns.auric_basin.the_floor_is_lava" GUID="Ge4IH8t/vEOK5p5E22QoRg==" iconFile="Img/Icons/Interaction.png" minSize="8" maxSize="16" fadeNear="1500" fadeFar="2000" heightOffset="0.5"/>
+		<POI MapID="1043" xpos="-565.771" ypos="315.919" zpos="586.807" type="heart_of_thorns.auric_basin.the_floor_is_lava" GUID="xSRoLyzzHUmOUztusHoHzw==" iconFile="Img/Icons/Interaction.png" minSize="8" maxSize="16" fadeNear="1500" fadeFar="2000" heightOffset="0.5"/>
+		<POI MapID="1043" xpos="-545.821" ypos="315.57"  zpos="585.128" type="heart_of_thorns.auric_basin.the_floor_is_lava" GUID="hRJ4UHuiNUOB3Urh/d+CRQ==" iconFile="Img/Icons/Interaction.png" minSize="8" maxSize="16" fadeNear="1500" fadeFar="2000" heightOffset="0.5"/>
+		<POI MapID="1043" xpos="-558.047" ypos="315.959" zpos="569.531" type="heart_of_thorns.auric_basin.the_floor_is_lava" GUID="nN4z2B1SLEaRedD1LAvPLw==" iconFile="Img/Icons/Interaction.png" minSize="8" maxSize="16" fadeNear="1500" fadeFar="2000" heightOffset="0.5"/>
+		<POI MapID="1043" xpos="-568.904" ypos="315.94"  zpos="569.434" type="heart_of_thorns.auric_basin.the_floor_is_lava" GUID="L7DKT5nVkE6ArBYZiezu6A==" iconFile="Img/Icons/Interaction.png" minSize="8" maxSize="16" fadeNear="1500" fadeFar="2000" heightOffset="0.5"/>
+		<POI MapID="1043" xpos="-579.984" ypos="322.187" zpos="553.864" type="heart_of_thorns.auric_basin.the_floor_is_lava" GUID="jQstrLtmNkq9VtL09DEeRA==" iconFile="Img/Icons/Interaction.png" minSize="8" maxSize="16" fadeNear="1500" fadeFar="2000" heightOffset="0.5"/>
+		<POI MapID="1043" xpos="-574.394" ypos="315.862" zpos="553.588" type="heart_of_thorns.auric_basin.the_floor_is_lava" GUID="oVf4nvFju0aDQHVTsb2WsA==" iconFile="Img/Icons/Interaction.png" minSize="8" maxSize="16" fadeNear="1500" fadeFar="2000" heightOffset="0.5"/>
+
+		<!-- THE GOLDEN CHICKEN -->
+		<Trail type="heart_of_thorns.auric_basin.the_golden_chicken" GUID="JqsacjqPTk+KegNGjlZ9DQ==" trailData="Data/HeartOfThorns/AuricBasin/TheGoldenChicken.trl" texture="Data/Arrow.png" color="ffffdd00" alpha="0.7" fadeNear="1500" fadeFar="2000" animSpeed="1" mapDisplaySize="20"/>
+		<POI MapID="1043" xpos="-88.2327" ypos="334.355" zpos="-5.01127"  type="heart_of_thorns.auric_basin.the_golden_chicken" GUID="GgL4tvzD6UOG4tZp6RbOfA==" iconFile="Img/HoT/GoldenChickenStart.png" minSize="24" maxSize="64"/>
+		<POI MapID="1043" xpos="-164.672" ypos="220.604" zpos="-0.044988" type="heart_of_thorns.auric_basin.the_golden_chicken" GUID="KBB9Qv6o/Uy29VmD2ztw3w==" iconFile="Img/HoT/GoldenChicken.png"      fadeNear="1500" fadeFar="2000" mapVisibility="0" miniMapVisibility="0"/>
+
+		<!-- TREETOP RETRIEVER -->
+		<POI MapID="1043" xpos="-394.616" ypos="493.066" zpos="749.356" type="heart_of_thorns.auric_basin.treetop_retriever" GUID="HqRPfxq9QkuR+vMX8pY3vg==" achievementBit="0"/>
+		<POI MapID="1043" xpos="-285.653" ypos="495.908" zpos="595.285" type="heart_of_thorns.auric_basin.treetop_retriever" GUID="YqVt1n6rFk6GHq0bcRWCqw==" achievementBit="1"/>
+		<POI MapID="1043" xpos="-419.077" ypos="472.673" zpos="495.49"  type="heart_of_thorns.auric_basin.treetop_retriever" GUID="3D8avH3jTk2LHdIYL6r7xA==" achievementBit="2"/>
+		<POI MapID="1043" xpos="-254.831" ypos="455.127" zpos="523.442" type="heart_of_thorns.auric_basin.treetop_retriever" GUID="bMIGLQM1ZkywwF8wb721rA==" achievementBit="3"/>
+		<POI MapID="1043" xpos="-434.573" ypos="467.862" zpos="582.828" type="heart_of_thorns.auric_basin.treetop_retriever" GUID="JZb4YCo8FUS4gdpFFLw1yA==" achievementBit="4"/>
+		<POI MapID="1043" xpos="-181.337" ypos="429.825" zpos="588.172" type="heart_of_thorns.auric_basin.treetop_retriever" GUID="QM4/1IS56EKtC9bpBBhPcg==" achievementBit="5"/>
+		<POI MapID="1043" xpos="-275.481" ypos="459.474" zpos="565.563" type="heart_of_thorns.auric_basin.treetop_retriever" GUID="kPc8W6gz4UuLoGqvTjMk+g==" achievementBit="6"/>
+		<POI MapID="1043" xpos="-312.45"  ypos="424.247" zpos="580.136" type="heart_of_thorns.auric_basin.treetop_retriever" GUID="MsGTMB6HYkmnFw2YqSKpWg==" achievementBit="7"/>
+		<POI MapID="1043" xpos="-223.974" ypos="441.365" zpos="725.268" type="heart_of_thorns.auric_basin.treetop_retriever" GUID="KqZXn2/lr0qJ7v4emUIrdw==" achievementBit="8"/>
+		<POI MapID="1043" xpos="-316.258" ypos="473.662" zpos="478.196" type="heart_of_thorns.auric_basin.treetop_retriever" GUID="nFqtKtHodUST/9UcC/UYpA==" achievementBit="9"/>
+
+	</POIs>
+</OverlayData>

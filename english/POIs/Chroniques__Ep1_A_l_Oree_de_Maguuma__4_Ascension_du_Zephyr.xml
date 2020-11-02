@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+POIs: ReActif.9251
+Date: 2017/03/06
+-->
+<OverlayData>
+	<MarkerCategory name="chroniques.saison_2">
+		<MarkerCategory name="ep1_a_l_oree_de_maguuma" DisplayName="Ep.1 - Gates of Maguuma" iconFile="Img\Saison2AOreeDeMaguuma.png">
+			<MarkerCategory name="ascension_du_zephyr" DisplayName="Zephyr's Ascent">
+				<MarkerCategory name="trajet" DisplayName="Guide" iconFile="Img\Guide.png" iconSize="0.75" heightOffset="0" behavior="0"/>
+			</MarkerCategory>
+		</MarkerCategory>
+	</MarkerCategory>
+
+	<POIs>
+
+		<!-- Début -->
+		<POI MapID="992" xpos="340.649" ypos="83.8777" zpos="-389.765" type="chroniques.saison_2.ep1_a_l_oree_de_maguuma.ascension_du_zephyr.trajet" GUID="3642SKXLrUW98lphTKmLoA==" iconFile="Img\Fleche.png" iconSize="1.5"/>
+
+		<!-- Route -->
+		<Route MapID="992" name="AscensionZephyr" resetposx="340.649" resetposy="83.8777" resetposz="-389.765" resetrange="1">
+			<POI MapID="992" xpos="342.005" ypos="84.9282" zpos="-393.992" type="chroniques.saison_2.ep1_a_l_oree_de_maguuma.ascension_du_zephyr.trajet" GUID="fVO+pOMba0miY03AEphpIg=="/>
+			<POI MapID="992" xpos="343.569" ypos="87.4296" zpos="-397.838" type="chroniques.saison_2.ep1_a_l_oree_de_maguuma.ascension_du_zephyr.trajet" GUID="fEUMEZkqA0iATtdb66D7qA=="/>
+			<POI MapID="992" xpos="344.803" ypos="90.4474" zpos="-401.341" type="chroniques.saison_2.ep1_a_l_oree_de_maguuma.ascension_du_zephyr.trajet" GUID="GbwN+jzk4kS3pzKtu4IsBA=="/>
+			<POI MapID="992" xpos="346.181" ypos="93.9684" zpos="-404.801" type="chroniques.saison_2.ep1_a_l_oree_de_maguuma.ascension_du_zephyr.trajet" GUID="TpgoTop0P0aNM2lco3hBIA=="/>
+			<POI MapID="992" xpos="347.389" ypos="97.1551" zpos="-407.593" type="chroniques.saison_2.ep1_a_l_oree_de_maguuma.ascension_du_zephyr.trajet" GUID="yNGX96n160+2AJsFyYYLUg=="/>
+			<POI MapID="992" xpos="339.851" ypos="93.7676" zpos="-406.613" type="chroniques.saison_2.ep1_a_l_oree_de_maguuma.ascension_du_zephyr.trajet" GUID="ontDkGcKMEah8eCUtreuhA=="/>
+			<POI MapID="992" xpos="337.58" ypos="93.5231" zpos="-406.83" type="chroniques.saison_2.ep1_a_l_oree_de_maguuma.ascension_du_zephyr.trajet" GUID="byo7XCaksUOfkU8ugVWLSQ=="/>
+			<POI MapID="992" xpos="337.007" ypos="95.4737" zpos="-409.836" type="chroniques.saison_2.ep1_a_l_oree_de_maguuma.ascension_du_zephyr.trajet" GUID="i4w7mTR32ESledOyz9c55Q=="/>
+			<POI MapID="992" xpos="336.311" ypos="98.3331" zpos="-413.215" type="chroniques.saison_2.ep1_a_l_oree_de_maguuma.ascension_du_zephyr.trajet" GUID="VUYT6jRrx0aZ3gIy508odg=="/>
+			<POI MapID="992" xpos="333.195" ypos="98.8024" zpos="-411.481" type="chroniques.saison_2.ep1_a_l_oree_de_maguuma.ascension_du_zephyr.trajet" GUID="zXv5bmxTDkiRfap8MLe5BQ=="/>
+			<POI MapID="992" xpos="330.115" ypos="101.227" zpos="-409.051" type="chroniques.saison_2.ep1_a_l_oree_de_maguuma.ascension_du_zephyr.trajet" GUID="QEhY5dknoU2qF5FhH7QSOQ=="/>
+			<POI MapID="992" xpos="326.639" ypos="103.948" zpos="-406.34" type="chroniques.saison_2.ep1_a_l_oree_de_maguuma.ascension_du_zephyr.trajet" GUID="hqtKzCOZJUCvBF9fU5i/yw=="/>
+			<POI MapID="992" xpos="328.673" ypos="104.612" zpos="-400.396" type="chroniques.saison_2.ep1_a_l_oree_de_maguuma.ascension_du_zephyr.trajet" GUID="dBDLfaeb2EmF29MMhtnjag=="/>
+			<POI MapID="992" xpos="324.769" ypos="107.415" zpos="-401.061" type="chroniques.saison_2.ep1_a_l_oree_de_maguuma.ascension_du_zephyr.trajet" GUID="o5DP2Pn3f0+Pi0Bc7zkjEw=="/>
+			<POI MapID="992" xpos="320.945" ypos="110.278" zpos="-401.92" type="chroniques.saison_2.ep1_a_l_oree_de_maguuma.ascension_du_zephyr.trajet" GUID="LgH1zMTjvEWss4hGKOLd9Q=="/>
+			<POI MapID="992" xpos="317.289" ypos="112.67" zpos="-403.009" type="chroniques.saison_2.ep1_a_l_oree_de_maguuma.ascension_du_zephyr.trajet" GUID="Mi8egsZHjUSrhIdg/CtoFg=="/>
+			<POI MapID="992" xpos="312.317" ypos="115.74" zpos="-404.241" type="chroniques.saison_2.ep1_a_l_oree_de_maguuma.ascension_du_zephyr.trajet" GUID="we6f5jDXUUanT90K/X2Liw=="/>
+			<POI MapID="992" xpos="307.968" ypos="118.068" zpos="-406.034" type="chroniques.saison_2.ep1_a_l_oree_de_maguuma.ascension_du_zephyr.trajet" GUID="BgJfolOiB0erTmlWUL0Ang=="/>
+			<POI MapID="992" xpos="303.48" ypos="120.137" zpos="-407.76" type="chroniques.saison_2.ep1_a_l_oree_de_maguuma.ascension_du_zephyr.trajet" GUID="ZhznDccNSUOQxMdFTv81GA=="/>
+			<POI MapID="992" xpos="300.479" ypos="121.95" zpos="-409.158" type="chroniques.saison_2.ep1_a_l_oree_de_maguuma.ascension_du_zephyr.trajet" GUID="k21gk2mgq0KdBQ7526ff9Q=="/>
+			<POI MapID="992" xpos="298.473" ypos="123.052" zpos="-406.134" type="chroniques.saison_2.ep1_a_l_oree_de_maguuma.ascension_du_zephyr.trajet" GUID="dUwakQs2B0C8+KQpd74iew=="/>
+			<POI MapID="992" xpos="295.633" ypos="120.7" zpos="-405.378" type="chroniques.saison_2.ep1_a_l_oree_de_maguuma.ascension_du_zephyr.trajet" GUID="iNPxSCqwVkysgY0wkZoknA=="/>
+			<POI MapID="992" xpos="295.616" ypos="123.917" zpos="-409.961" type="chroniques.saison_2.ep1_a_l_oree_de_maguuma.ascension_du_zephyr.trajet" GUID="oDS/glRw6EW4N6rY6cN4IQ=="/>
+			<POI MapID="992" xpos="295.53" ypos="127.334" zpos="-414.85" type="chroniques.saison_2.ep1_a_l_oree_de_maguuma.ascension_du_zephyr.trajet" GUID="PqZ4qonduk+WFGuZvM1BSA=="/>
+			<POI MapID="992" xpos="290.666" ypos="125.414" zpos="-413.408" type="chroniques.saison_2.ep1_a_l_oree_de_maguuma.ascension_du_zephyr.trajet" GUID="c/UgFqugb0+oOGGi5duTfg=="/>
+			<POI MapID="992" xpos="286.635" ypos="122.272" zpos="-409.014" type="chroniques.saison_2.ep1_a_l_oree_de_maguuma.ascension_du_zephyr.trajet" GUID="n4WQPfA9+U6Vw7UWcLVnLg=="/>
+			<POI MapID="992" xpos="286.615" ypos="124.464" zpos="-413.154" type="chroniques.saison_2.ep1_a_l_oree_de_maguuma.ascension_du_zephyr.trajet" GUID="4mzBGnXUxUenQXvWP6rYGw=="/>
+			<POI MapID="992" xpos="286.297" ypos="125.941" zpos="-416.146" type="chroniques.saison_2.ep1_a_l_oree_de_maguuma.ascension_du_zephyr.trajet" GUID="5JGl67De1kaVYWb3dZNXEQ=="/>
+			<POI MapID="992" xpos="284.695" ypos="126.18" zpos="-418.743" type="chroniques.saison_2.ep1_a_l_oree_de_maguuma.ascension_du_zephyr.trajet" GUID="erSeWwbI8EORxPH3hsr1qw=="/>
+			<POI MapID="992" xpos="288.61" ypos="127.726" zpos="-418.423" type="chroniques.saison_2.ep1_a_l_oree_de_maguuma.ascension_du_zephyr.trajet" GUID="bkksMCJ3+USUJhxv9QKqlw=="/>
+			<POI MapID="992" xpos="292.69" ypos="129.336" zpos="-418.208" type="chroniques.saison_2.ep1_a_l_oree_de_maguuma.ascension_du_zephyr.trajet" GUID="IfloDOkABUKBn3bRrF3oDQ=="/>
+			<POI MapID="992" xpos="292.034" ypos="131.042" zpos="-415.875" type="chroniques.saison_2.ep1_a_l_oree_de_maguuma.ascension_du_zephyr.trajet" GUID="bHzGv8dRjUG6RuerDwBCyw=="/>
+			<POI MapID="992" xpos="291.455" ypos="132.51" zpos="-411.845" type="chroniques.saison_2.ep1_a_l_oree_de_maguuma.ascension_du_zephyr.trajet" GUID="6v67ZtDv4UKwuU5rlx5MSg=="/>
+			<POI MapID="992" xpos="292.399" ypos="132.53" zpos="-406.485" type="chroniques.saison_2.ep1_a_l_oree_de_maguuma.ascension_du_zephyr.trajet" GUID="0HtQs9rKBUSq7dHTKLgHwQ=="/>
+			<POI MapID="992" xpos="295.397" ypos="134.091" zpos="-407.215" type="chroniques.saison_2.ep1_a_l_oree_de_maguuma.ascension_du_zephyr.trajet" GUID="nSIk2Sd8lke+JLagm2ixYQ=="/>
+			<POI MapID="992" xpos="299.015" ypos="134.9" zpos="-409.731" type="chroniques.saison_2.ep1_a_l_oree_de_maguuma.ascension_du_zephyr.trajet" GUID="G1bGf7NbQUWEX1x7Ex1w6Q=="/>
+			<POI MapID="992" xpos="302.549" ypos="135.658" zpos="-412.022" type="chroniques.saison_2.ep1_a_l_oree_de_maguuma.ascension_du_zephyr.trajet" GUID="M7r9eFFGKUWi1dnVYN7GdQ=="/>
+			<POI MapID="992" xpos="306.019" ypos="135.668" zpos="-411.862" type="chroniques.saison_2.ep1_a_l_oree_de_maguuma.ascension_du_zephyr.trajet" GUID="13XRJqCLMUu3cs9Q3lDH4g=="/>
+		</Route>
+
+		<!-- Succès -->
+		<POI MapID="992" xpos="311.247" ypos="135.825" zpos="-410.481" type="chroniques.saison_2.ep1_a_l_oree_de_maguuma.ascension_du_zephyr" GUID="vPy5KFTgAEGmAtYd7R4LGw=="/>
+
+	</POIs>
+</OverlayData>

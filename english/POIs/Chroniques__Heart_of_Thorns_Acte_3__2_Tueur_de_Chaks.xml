@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+POIs: ReActif.9251
+Date: 2017/03/02
+-->
+<OverlayData>
+	<MarkerCategory name="chroniques.hot">
+		<MarkerCategory name="acte_3" DisplayName="Heart of Thorns : Act 3" iconFile="Img\HeartOfThornsActe3.png">
+			<MarkerCategory name="tueur_de_chaks" DisplayName="Chak Killer">
+				<MarkerCategory name="debutant" DisplayName="Débutant"/>
+				<MarkerCategory name="expert" DisplayName="Expert"/>
+				<MarkerCategory name="maitre" DisplayName="Maître"/>
+			</MarkerCategory>
+		</MarkerCategory>
+	</MarkerCategory>
+
+	<POIs>
+
+		<!-- Débutant -->
+		<POI MapID="1046" xpos="-894.948" ypos="76.5805" zpos="-106.707" type="chroniques.hot.acte_3.tueur_de_chaks.debutant" GUID="DBNBPc+Tfk28SZVcbHBgmQ==" iconFile="Img\HeartOfThornsActe3_TueurDeChaks_Debutant-EN.png" iconSize="2"/>
+
+		<!-- Expert -->
+		<POI MapID="1046" xpos="-901.656" ypos="76.3683" zpos="-106.608" type="chroniques.hot.acte_3.tueur_de_chaks.expert" GUID="WL4jGjE/yEuJCeKp+kgk0Q==" iconFile="Img\HeartOfThornsActe3_TueurDeChaks_Expert-EN.png" iconSize="2"/>
+
+		<!-- Maitre -->
+		<POI MapID="1046" xpos="-910.42" ypos="76.0948" zpos="-107.727" type="chroniques.hot.acte_3.tueur_de_chaks.maitre" GUID="6/llOjbbIEGQ9bri68BDdg==" iconFile="Img\HeartOfThornsActe3_TueurDeChaks_Maitre-EN.png" iconSize="2"/>
+
+	</POIs>
+</OverlayData>

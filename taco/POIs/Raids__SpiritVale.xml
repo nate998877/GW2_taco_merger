@@ -1,0 +1,33 @@
+<!-- 2020.05.28 -->
+<OverlayData>
+	<POIs>
+
+		<!-- CLOSURE -->
+		<POI MapID="1062" xpos="-179.417" ypos="43.4912" zpos="-715.788" type="raids.closure" GUID="Ha0HiR+q70SwZX4mRprajA=="/>
+		<POI MapID="1062" xpos="-83.1274" ypos="44.0782" zpos="-704.972" type="raids.closure" GUID="aOD6CL4b3k64KFfm+Gd77A=="/>
+		<POI MapID="1062" xpos="-149.886" ypos="50.1062" zpos="-631.796" type="raids.closure" GUID="WeKIm5iLTEypdR56CK8OwA=="/>
+		<POI MapID="1062" xpos="-81.8997" ypos="50.0209" zpos="-654.667" type="raids.closure" GUID="4bMVAKjQSky6Kq02pFrNxg=="/>
+		<POI MapID="1062" xpos="-61.063"  ypos="43.87"   zpos="-700.162" type="raids.closure" GUID="gVRI8xpFUUCb73jg+Kyrjg=="/>
+		<POI MapID="1062" xpos="-204.635" ypos="67.4591" zpos="-475.968" type="raids.closure" GUID="4Bth3atRTkq83XmRWjq0ww=="/>
+		<POI MapID="1062" xpos="-132.132" ypos="63.1783" zpos="-445.195" type="raids.closure" GUID="qW+Qdi/eFkuf6/aO/rFeGg=="/>
+		<POI MapID="1062" xpos="-121.779" ypos="61.4288" zpos="-448.753" type="raids.closure" GUID="gmM+lMm9/0GdSaPtvEGr5g=="/>
+		<POI MapID="1062" xpos="-147.091" ypos="26.7585" zpos="-222.407" type="raids.closure" GUID="9GrYsC+ztkGrNjtc/+FGGw=="/>
+		<POI MapID="1062" xpos="-152.229" ypos="26.924"  zpos="-221.959" type="raids.closure" GUID="9i8qCL3NJ0CuoHB7ws7rSQ=="/>
+
+		<!-- PIECING IT TOGETHER -->
+		<POI MapID="1062" xpos="-266.477" ypos="52.4114" zpos="-628.789" type="raids.piecing_it_together" GUID="XtFDXUUJO0aDsDzjZOt7NQ=="/>
+		<POI MapID="1062" xpos="-32.8246" ypos="57.4231" zpos="-574.184" type="raids.piecing_it_together" GUID="cYtCeJ+oH0iECNETdKVO1Q=="/>
+		<POI MapID="1062" xpos="-32.5553" ypos="39.9995" zpos="-295.739" type="raids.piecing_it_together" GUID="agiWbTxiUkepAJ5IIzyETg=="/>
+		<POI MapID="1062" xpos="-136.047" ypos="42.1139" zpos="-275.673" type="raids.piecing_it_together" GUID="WbD16EVNO0OmQKSkbsJB/A=="/>
+		<POI MapID="1062" xpos="-45.4445" ypos="46.154"  zpos="-228.635" type="raids.piecing_it_together" GUID="nk9srGgQm06moQezvQ2EXQ=="/>
+		<POI MapID="1062" xpos="-140.928" ypos="63.2188" zpos="-170.182" type="raids.piecing_it_together" GUID="RoUkk+JEQky8euDL7PxT/A=="/>
+		<POI MapID="1062" xpos="29.325"   ypos="55.7629" zpos="213.281"  type="raids.piecing_it_together" GUID="obi+y3rf00u3JNiqrtWlaQ=="/>
+		<POI MapID="1062" xpos="-23.981"  ypos="49.9197" zpos="176.47"   type="raids.piecing_it_together" GUID="jOramCCU8kiFw+LxVl5lnQ=="/>
+		<POI MapID="1062" xpos="-16.6295" ypos="61.3915" zpos="83.0691"  type="raids.piecing_it_together" GUID="8BDVIXBL6UCV6DFH20w2ig=="/>
+		<POI MapID="1062" xpos="-214.192" ypos="99.729"  zpos="4.45443"  type="raids.piecing_it_together" GUID="sCzJWn5BMkSqCrsQ7Z8Aew=="/>
+		<POI MapID="1062" xpos="-218.852" ypos="96.2856" zpos="116.541"  type="raids.piecing_it_together" GUID="QfguGY/v7k6mLDQTgerE9A=="/>
+		<POI MapID="1062" xpos="-173.447" ypos="98.5591" zpos="40.5802"  type="raids.piecing_it_together" GUID="UgbmPW5nb06kEeu0Kp7fUg=="/>
+		<POI MapID="1062" xpos="-233.641" ypos="122.353" zpos="8.14578"  type="raids.piecing_it_together" GUID="FvuHMk92oU6AdJ+90wKehA=="/>
+
+	</POIs>
+</OverlayData>

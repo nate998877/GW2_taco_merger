@@ -1,0 +1,1616 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+POIs: ReActif.9251 - TMKFrench.6427
+Date: 2017/08/11
+!!! ENGLISH VERSION !!!
+-->
+<OverlayData>
+	<MarkerCategory name="missions_de_guilde" DisplayName="Guild Missions">
+		<MarkerCategory name="randonnees" DisplayName="Treks" iconFile="Img\GuildeRando.png" iconSize="1.5">
+			<MarkerCategory name="a" DisplayName="  A  ">
+				<MarkerCategory name="repere_de_l_autel_du_ruisseau" DisplayName="Altar Brook Lair (Queensdale)"/>
+				<MarkerCategory name="etreinte_de_l_hymne" DisplayName="Anthem's Hold (Cursed Shore)"/>
+				<MarkerCategory name="coin_d_anya" DisplayName="Anya's Patch (Diessa Plateau)"/>
+				<MarkerCategory name="repaire_de_l_arctodus" DisplayName="Arctodus Haunt (Wayfarer Foothills)"/>
+			</MarkerCategory>
+			<MarkerCategory name="b" DisplayName="  B  ">
+				<MarkerCategory name="fontaine_des_racines_cachees" DisplayName="Backroot Fountain (The Grove)"/>
+				<MarkerCategory name="banc_de_varech_de_malmeduse" DisplayName="Badjelly Kelpbed (Snowden Drifts)"/>
+				<MarkerCategory name="carre_de_chou_du_bandit" DisplayName="Bandit's Cabbage Patch (Harathi Hinterlands)"/>
+				<MarkerCategory name="mirador_de_beetletun" DisplayName="Beetlestone Mirador (Queensdale)"/>
+				<MarkerCategory name="cellier_du_lion_noir" DisplayName="Black Lion Root Cellar (The Grove)"/>
+				<MarkerCategory name="motte_de_lamenoire" DisplayName="Blackblade Butte (Diessa Plateau)"/>
+				<MarkerCategory name="sepulcre_ravage" DisplayName="Blasted Sepulchre (Diessa Plateau)"/>
+				<MarkerCategory name="galerie_du_limon_de_sang" DisplayName="Blood Ooze Gallery (Bloodtide Coast)"/>
+				<MarkerCategory name="chatiment_de_bluup" DisplayName="Bluup's Comeuppance (Rata Sum)"/>
+				<MarkerCategory name="fouilles_de_stigmafrappe" DisplayName="Brandstrike Dig (Fields of Ruins)"/>
+				<MarkerCategory name="barriere_de_bercebruyere" DisplayName="Briarthorn Barrier (Caledon Forest)"/>
+				<MarkerCategory name="cour_de_chutes_brisees" DisplayName="Broken Falls Courtyard  (Black Citadel)"/>
+				<MarkerCategory name="chutes_de_la_genitrice" DisplayName="Broodmother Falls (Frostgorge Sound)"/>
+				<MarkerCategory name="col_des_freres" DisplayName="Brothers' Notch (Hoelbrak)"/>
+				<MarkerCategory name="refuge_percebul" DisplayName="Burstbubble Blind (Blazeridge Steppes)"/>
+			</MarkerCategory>
+			<MarkerCategory name="c" DisplayName="  C  ">
+				<MarkerCategory name="cache_du_fugitif" DisplayName="Cache of the Pursued (Cursed Shore)"/>
+				<MarkerCategory name="plateau_de_krallcamden" DisplayName="Cademkrall Overlook (Plains of Ashford)"/>
+				<MarkerCategory name="grotte_de_gorgetoile" DisplayName="Canyonweb Cave (Blazeridge Steppes)"/>
+				<MarkerCategory name="mouillage_du_capitaine" DisplayName="Captain's Berth (Malchor's Leap)"/>
+				<MarkerCategory name="coin_de_castavall" DisplayName="Castavall Corner (Bloodtide Coast)"/>
+				<MarkerCategory name="cavite_de_la_cathedrale" DisplayName="Cathedral's Cavity (Malchor's Leap)"/>
+				<MarkerCategory name="cache_de_l_ours_des_cavernes" DisplayName="Cave Bear Cache (Snowden Drifts)"/>
+				<MarkerCategory name="nid_d_araignee_cavernicole" DisplayName="Cave Spider Nidus (Lornar's Pass)"/>
+				<MarkerCategory name="mur_d_enceinte_de_claypool" DisplayName="Claypool Bailey (Queensdale)"/>
+				<MarkerCategory name="parapet_des_constellations" DisplayName="Constellation Parapet (The Grove)"/>
+				<MarkerCategory name="dents_de_la_corruption" DisplayName="Corruption's Teeth (Frostgorge Sound)"/>
+				<MarkerCategory name="mouillage_de_covington" DisplayName="Covington's Stowage (Bloodtide Coast)"/>
+				<MarkerCategory name="halte_de_coupegorge" DisplayName="Cutthroat's Rest (Gendarran Fields)"/>
+				<MarkerCategory name="vallon_de_cymbel" DisplayName="Cymbel's Glen (Fields of Ruins)"/>
+			</MarkerCategory>
+			<MarkerCategory name="d" DisplayName="  D  ">
+				<MarkerCategory name="pergola_d_aubeluit" DisplayName="Dawngleam Pergola (The Grove)"/>
+				<MarkerCategory name="plongeur_facebourbie" DisplayName="Deepmire Diver (Mount Maelstrom)"/>
+				<MarkerCategory name="excavation_profanee" DisplayName="Defiled Delve (Kessex Hills)"/>
+				<MarkerCategory name="balcon_des_delices" DisplayName="Delight's Balcony (Malchor's Leap)"/>
+				<MarkerCategory name="hall_de_guilde_du_destin" DisplayName="Destiny's Guildhall (Queensdale)"/>
+				<MarkerCategory name="faille_de_pouacregriffe" DisplayName="Dirtclaw Cleft (Iron Marches)"/>
+				<MarkerCategory name="cour_des_chutes_de_la_biche" DisplayName="Doefalls Court (Plains of Ashford)"/>
+				<MarkerCategory name="saut_de_drakefaille" DisplayName="Drakecleft Shelf (Fields of Ruins)"/>
+				<MarkerCategory name="cote_de_couvedrake" DisplayName="Drakehatch Shore (Diessa Plateau)"/>
+				<MarkerCategory name="porte_de_droknah" DisplayName="Droknah's Gate (Mount Maelstrom)"/>
+				<MarkerCategory name="place_engloutie" DisplayName="Drowned Plaza (Straits of Devastation)"/>
+			</MarkerCategory>
+			<MarkerCategory name="e" DisplayName="  E  ">
+				<MarkerCategory name="chute_d_east_end" DisplayName="East End Falls (Brisban Wildlands)"/>
+				<MarkerCategory name="ruelle_du_rodeur_de_l_est" DisplayName="Eastlurk Alley (Divinity's Reach)"/>
+				<MarkerCategory name="surprise_d_elise" DisplayName="Elise's Surprise (Harathi Hinterlands)"/>
+				<MarkerCategory name="repaire_de_soufflettin" DisplayName="Ettinbreath Lair (Lornar's Pass)"/>
+			</MarkerCategory>
+			<MarkerCategory name="f" DisplayName="  F  ">
+				<MarkerCategory name="champ_de_force_de_la_cinquieme_brasse" DisplayName="Fathom Five Forcefield (Straits of Devastation)"/>
+				<MarkerCategory name="porche_de_fawcett" DisplayName="Fawcett's Porch (Harathi Hinterlands)"/>
+				<MarkerCategory name="poche_de_diablotin_de_feu" DisplayName="Fire Imp Pocket (Mount Maelstrom)"/>
+				<MarkerCategory name="source_de_brulereinette" DisplayName="Firefrog Springs (Sparkfly Fen)"/>
+				<MarkerCategory name="pont_de_guet_du_feu" DisplayName="Firewatch Flybridge (Iron Marches)"/>
+				<MarkerCategory name="escarpement_du_pecheur" DisplayName="Fisher's Crag (Metrica Province)"/>
+				<MarkerCategory name="recoin_lapidaire_de_flakk" DisplayName="Flakk's Lapidary Nook (Rata Sum)"/>
+				<MarkerCategory name="fouilleur_de_fumier" DisplayName="Forager's Midden (Dredgehaunt Cliffs)"/>
+				<MarkerCategory name="cavite_du_contremaitre" DisplayName="Foreman's Recess (Dredgehaunt Cliffs)"/>
+				<MarkerCategory name="grotte_oubliee" DisplayName="Forgotten Grotto (Blazeridge Steppes)"/>
+				<MarkerCategory name="cisaillement_interdit" DisplayName="Forbidden Shear (Malchor's Leap)"/>
+				<MarkerCategory name="coeur_du_flacon_du_fondateur" DisplayName="Founder's Flagon Hearth (Fields of Ruins)"/>
+				<MarkerCategory name="echafaudage_autoporteur" DisplayName="Freestand Scaffold (Black Citadel)"/>
+				<MarkerCategory name="retraite_gelee" DisplayName="Frozen Antrum (Timberline Falls)"/>
+			</MarkerCategory>
+			<MarkerCategory name="g" DisplayName="  G  ">
+				<MarkerCategory name="canyons_de_gallow" DisplayName="Gallow Canyons (Brisban Wildlands)"/>
+				<MarkerCategory name="alcove_de_courtilleracine" DisplayName="Gardenroot Alcove (The Grove)"/>
+				<MarkerCategory name="point_de_vue_de_gnashar" DisplayName="Gnashar's Viewpoint (Brisban Wildlands)"/>
+				<MarkerCategory name="paddock_du_moa_vert" DisplayName="Green Moa Paddock (Caledon Forest)"/>
+				<MarkerCategory name="pavillon_de_grenth" DisplayName="Grenth's Pavillion (Divinity's Reach)"/>
+				<MarkerCategory name="le_devoir_de_morndottir" DisplayName="Grimsdottir's Duty (Hoelbrak)"/>
+				<MarkerCategory name="camp_principal_du_gardien" DisplayName="Guardian Overwatch (Harathi Hinterlands)"/>
+			</MarkerCategory>
+			<MarkerCategory name="h" DisplayName="  H  ">
+				<MarkerCategory name="perchoir_d_oeil_de_faucon" DisplayName="Hawkeye Perch (Timberline Falls)"/>
+				<MarkerCategory name="col_du_coeur_criant" DisplayName="Heart Speaks Notch (Fireheart Rise)"/>
+				<MarkerCategory name="cache_a_miel_de_boisecoeur" DisplayName="Heartwood Honey Cache (Queensdale)"/>
+				<MarkerCategory name="oeuvre_d_heidi" DisplayName="Heidi's Showpiece (Harathi Hinterlands)"/>
+				<MarkerCategory name="perchoir_de_l_ermite" DisplayName="Hermit's Roost (Fields of Ruins)"/>
+				<MarkerCategory name="distillerie_de_la_chouette_cachee" DisplayName="Hidden Owl Distillery (Snowden Drifts)"/>
+				<MarkerCategory name="sanctuaire_piersacree" DisplayName="Holystone Sanctum (Diessa Plateau)"/>
+			</MarkerCategory>
+			<MarkerCategory name="i" DisplayName="  I  ">
+				<MarkerCategory name="fosse_de_la_guivre_des_glaces" DisplayName="Icewurm Trench (Frostgorge Sound)"/>
+				<MarkerCategory name="saut_de_la_conceptualisation" DisplayName="Ideation Leap (Rata Sum)"/>
+				<MarkerCategory name="sanctuaire_hante_par_un_diablotin" DisplayName="Imphaunt Hallow (Caledon Forest)"/>
+				<MarkerCategory name="point_de_vue_de_dockfer" DisplayName="Irondock Viewpoint (Plains of Ashford)"/>
+				<MarkerCategory name="crique_d_isenfell" DisplayName="Isenfell Wash (Snowden Drifts)"/>
+				<MarkerCategory name="point_de_vue_d_isgarren" DisplayName="Isgarren Viewpoint (Kessex Hills)"/>
+			</MarkerCategory>
+			<MarkerCategory name="j" DisplayName="  J  ">
+				<MarkerCategory name="fiere_taniere_du_jaguar" DisplayName="Jaguar Pride Den (Metrica Province)"/>
+				<MarkerCategory name="sommet_de_l_epave" DisplayName="Junker's Apex (Black Citadel)"/>
+			</MarkerCategory>
+			<MarkerCategory name="k" DisplayName="  K  ">
+				<MarkerCategory name="la_sellette_de_kaldar" DisplayName="Kaldar's Hot Seat (Hoelbrak)"/>
+				<MarkerCategory name="foyer_de_kari" DisplayName="Kari's Hot Spot (Kessex Hills)"/>
+				<MarkerCategory name="guet_de_la_bagarre_de_barils" DisplayName="Kegbrawl Watch (Hoelbrak)"/>
+				<MarkerCategory name="coffre_fort_de_kevach" DisplayName="Kevach's Strongroom (Wayfarer Foothills)"/>
+			</MarkerCategory>
+			<MarkerCategory name="l" DisplayName="  L  ">
+				<MarkerCategory name="tunnel_sous_le_lac" DisplayName="Lakebottom Underpass (Queensdale)"/>
+				<MarkerCategory name="grotte_de_lawen" DisplayName="Lawen Grotto (Gendarran Fields)"/>
+				<MarkerCategory name="quai_de_lestepied" DisplayName="Lightfoot Dock (Straits of Devastation)"/>
+				<MarkerCategory name="bivouac_du_lys" DisplayName="Lily's Bivvy (Fireheart Rise)"/>
+				<MarkerCategory name="cellier_de_la_garde_du_lion" DisplayName="Lionguard Larder (Wayfarer Foothills)"/>
+				<MarkerCategory name="prefecture_de_lychcroft" DisplayName="Lychcroft Wardenship (Kessex Hills)"/>
+			</MarkerCategory>
+			<MarkerCategory name="m" DisplayName="  M  ">
+				<MarkerCategory name="coin_de_magiedre" DisplayName="Magihedron Corner (Rata Sum)"/>
+				<MarkerCategory name="console_de_commande_principale_lin39" DisplayName="Master Control LIN39 (Metrica Province)"/>
+				<MarkerCategory name="source_de_melandru" DisplayName="Melandru's Fount (Divinity's Reach)"/>
+				<MarkerCategory name="grotte_d_eaudefonte" DisplayName="Meltwater Cave (Timberline Falls)"/>
+				<MarkerCategory name="pas_de_tir_de_mina" DisplayName="Mina's Target Shoot (Divinity's Reach)"/>
+				<MarkerCategory name="saut_de_mistriven" DisplayName="Mistriven Shelf (Lornar's Pass)"/>
+				<MarkerCategory name="prison_de_taupvaquie" DisplayName="Moleberia Prison (Wayfarer Foothills)"/>
+				<MarkerCategory name="monument_a_l_ancien" DisplayName="Monument to the Ancient One (Southsun Cove)"/>
+			</MarkerCategory>
+			<MarkerCategory name="n" DisplayName="  N  ">
+				<MarkerCategory name="gue_kraaletroi" DisplayName="Narrowkraal Crossing (Fields of Ruins)"/>
+				<MarkerCategory name="plage_necrolithe" DisplayName="Necrolith Landing (The Grove)"/>
+			</MarkerCategory>
+			<MarkerCategory name="o" DisplayName="  O  ">
+				<MarkerCategory name="palan_charmine" DisplayName="Orecart Hoist (Fireheart Rise)"/>
+				<MarkerCategory name="alimentation_en_eau_d_orvanic" DisplayName="Orvanic Sourcewaters (Sparkfly Fen)"/>
+				<MarkerCategory name="contrepoids_d_osenfold" DisplayName="Osenfold Counterweights (Wayfarer Foothills)"/>
+				<MarkerCategory name="pavillon_du_seigneur" DisplayName="Overlord Lodge (Kessex Hills)"/>
+			</MarkerCategory>
+			<MarkerCategory name="p" DisplayName="  P  ">
+				<MarkerCategory name="panorama_de_phasmatis" DisplayName="Phasmatis Prospect (Plains of Ashford)"/>
+				<MarkerCategory name="desir_de_pochtecatl" DisplayName="Pochtecatl's Desire (Bloodtide Coast)"/>
+				<MarkerCategory name="objets_trouves_de_l_autorite_du_port" DisplayName="Port Authority Lost and Found (Rata Sum)"/>
+				<MarkerCategory name="promontoire_de_portmatt" DisplayName="Portmatt's Promontory (Bloodtide Coast)"/>
+				<MarkerCategory name="geole_de_provatum" DisplayName="Provatum Carcer (Fireheart Rise)"/>
+			</MarkerCategory>
+			<MarkerCategory name="r" DisplayName="  R  ">
+				<MarkerCategory name="pic_du_beliervedere" DisplayName="Ramview Peak (Dredgehaunt Cliffs)"/>
+				<MarkerCategory name="nid_du_raptor" DisplayName="Raptor's Aerie (Iron Marches)"/>
+				<MarkerCategory name="perchoir_de_raptor" DisplayName="Raptor's Perch (Gendarran Fields)"/>
+				<MarkerCategory name="portique_de_rata_pten" DisplayName="Rata Pten Portico (Mount Maelstrom)"/>
+				<MarkerCategory name="recoin_du_corbeau" DisplayName="Raven Nook (Hoelbrak)"/>
+				<MarkerCategory name="frayere_des_drakes_des_recifs" DisplayName="Reef Drake Nesting Grounds (Southsun Cove)"/>
+				<MarkerCategory name="emprise_agitee" DisplayName="Restless Footings (Mount Maelstrom)"/>
+				<MarkerCategory name="guet_reverberant" DisplayName="Reverberant's Watch (Wayfarer Foothills)"/>
+				<MarkerCategory name="champ_de_montesauvage" DisplayName="Risewild Green (Bloodtide Coast)"/>
+				<MarkerCategory name="point_de_vue_de_rurik" DisplayName="Rurik's View (Divinity's Reach)"/>
+			</MarkerCategory>
+			<MarkerCategory name="s" DisplayName="  S  ">
+				<MarkerCategory name="autel_d_inondesel" DisplayName="Saltflood Altar (Sparkfly Fen)"/>
+				<MarkerCategory name="guivre_des_sables_maraudeuse" DisplayName="Sandwurm Prowl (Southsun Cove)"/>
+				<MarkerCategory name="aveuglement_de_l_erudit" DisplayName="Scholar's Blind (Dredgehaunt Cliffs)"/>
+				<MarkerCategory name="tour_de_guet_de_machefleau" DisplayName="Scourgejaw Watchtower (Iron Marches)"/>
+				<MarkerCategory name="recoin_du_scriptorium" DisplayName="Scriptorium Nook (Black Citadel)"/>
+				<MarkerCategory name="oeil_du_scorpion_des_mers" DisplayName="Sea Scorpion's Eye (Cursed Shore)"/>
+				<MarkerCategory name="sentinelle_engloutie" DisplayName="Sentinel Sink (Iron Marches)"/>
+				<MarkerCategory name="sepulcre_azumiere" DisplayName="Sepulchre Skylight (Straits of Devastation)"/>
+				<MarkerCategory name="bord_de_valaigu" DisplayName="Sharkhollow's Edge (Blazeridge Steppes)"/>
+				<MarkerCategory name="grenier_effondre" DisplayName="Shattered Loft (Sparkfly Fen)"/>
+				<MarkerCategory name="refuge_de_siamouth" DisplayName="Siamoth Refuge (Sparkfly Fen)"/>
+				<MarkerCategory name="boucherie_piegecayeux" DisplayName="Skalecatch Butcher Shop (Iron Marches)"/>
+				<MarkerCategory name="crique_de_trouvecaille" DisplayName="Skalefound Cove (Fireheart Rise)"/>
+				<MarkerCategory name="chutes_de_gerbecaille" DisplayName="Skalesplash Falls (Timberline Falls)"/>
+				<MarkerCategory name="antre_cachecailleux" DisplayName="Skalestash Hideaway (Plains of Ashford)"/>
+				<MarkerCategory name="forage_du_nid_de_skelk" DisplayName="Skelknest Borehole (Frostgorge Sound)"/>
+				<MarkerCategory name="dortoir_du_hall_de_skibo" DisplayName="Skibo Hall Dormitory (Rata Sum)"/>
+				<MarkerCategory name="griffure_de_l_eclat_celeste" DisplayName="Skyshine Scratch (Harathi Hinterlands)"/>
+				<MarkerCategory name="refuge_d_antreneige" DisplayName="Snowden Safehouse (Snowden Drifts)"/>
+				<MarkerCategory name="antre_de_hurleneige" DisplayName="Snowhowl Den (Snowden Drifts)"/>
+				<MarkerCategory name="rotonde_de_soggorsort" DisplayName="Soggorsort Rotunda (Caledon Forest)"/>
+				<MarkerCategory name="halte_de_soren_draa" DisplayName="Soren Draa Rest Stop (Metrica Province)"/>
+				<MarkerCategory name="source_des_lamentations" DisplayName="Source of Lament (Frostgorge Sound)"/>
+				<MarkerCategory name="salon_d_esparvent" DisplayName="Sparwind's Lounge (Black Citadel)"/>
+				<MarkerCategory name="perchoir_tubavapeur" DisplayName="Steampipe Perch (Southsun Cove)"/>
+				<MarkerCategory name="belvedere_goutedo" DisplayName="Steamscrap Overlook (Lornar's Pass)"/>
+				<MarkerCategory name="marche_vaporeuses" DisplayName="Steamy Steps (Southsun Cove)"/>
+				<MarkerCategory name="emplacement_hante" DisplayName="Spectrehaunt Socket (Malchor's Leap)"/>
+				<MarkerCategory name="tunnel_de_bandacier" DisplayName="Steelband's Tunnel (Blazeridge Steppes)"/>
+				<MarkerCategory name="refuge_du_stentor" DisplayName="Stentor Shelter (Straits of Devastation)"/>
+				<MarkerCategory name="trou_de_tirailleur_de_creusepierre" DisplayName="Stonebore Spiderhole (Gendarran Fields)"/>
+				<MarkerCategory name="jardin_de_fortepatte" DisplayName="Strongpaw's Garden (Diessa Plateau)"/>
+			</MarkerCategory>
+			<MarkerCategory name="t" DisplayName="  T  ">
+				<MarkerCategory name="repli_strategique" DisplayName="Tactical Retreat (Cursed Shore)"/>
+				<MarkerCategory name="les_marches_du_talus" DisplayName="Talus Steps (Timberline Falls)"/>
+				<MarkerCategory name="bosquet_de_tarstar" DisplayName="Tarstar Copse (Fireheart Rise)"/>
+				<MarkerCategory name="planche_a_dessin_de_tekki" DisplayName="Tekki's Drawing Board (Brisban Wildlands)"/>
+				<MarkerCategory name="deversoir_de_thaumanova" DisplayName="Thaumanova Spillway (Metrica Province)"/>
+				<MarkerCategory name="les_karkas_associes" DisplayName="The Karka Klub (Southsun Cove)"/>
+				<MarkerCategory name="l_impasse_du_peuple" DisplayName="The People's Deadlock (Frostgorge Sound)"/>
+				<MarkerCategory name="le_magasin_des_ouvriers" DisplayName="The Workers' Stores (Dredgehaunt Cliffs)"/>
+				<MarkerCategory name="cote_de_togatl" DisplayName="Togatl Shore (Kessex Hills)"/>
+				<MarkerCategory name="tour_de_la_tribulation" DisplayName="Tower of Tribulation (Dredgehaunt Cliffs)"/>
+				<MarkerCategory name="fuite_de_toxal" DisplayName="Toxal Spill (Brisban Wildlands)"/>
+				<MarkerCategory name="reserve_du_marchand" DisplayName="Trader's Stash (Hoelbrak)"/>
+				<MarkerCategory name="fosse_de_piegetroll" DisplayName="Trolltrap Pit (Lornar's Pass)"/>
+				<MarkerCategory name="laboratoire_de_la_taverne_de_turai" DisplayName="Turai Tavern Stillroom (Divinity's Reach)"/>
+			</MarkerCategory>
+			<MarkerCategory name="u" DisplayName="  U  ">
+				<MarkerCategory name="debarras_d_ulta" DisplayName="Ulta Scraproom (Brisban Wildlands)"/>
+				<MarkerCategory name="griffure_invisible" DisplayName="Unseen Scratch (Caledon Forest)"/>
+				<MarkerCategory name="upsilon_hyperboloide" DisplayName="Upsilon Hyperboloid (Malchor's Leap)"/>
+				<MarkerCategory name="seuil_d_usharr" DisplayName="Usharr's Threshold (Sparkfly Fen)"/>
+			</MarkerCategory>
+			<MarkerCategory name="v" DisplayName="  V  ">
+				<MarkerCategory name="ermitage_abandonne" DisplayName="Vacant Hermitage (Blazeridge Steppes)"/>
+				<MarkerCategory name="crevasse_du_gibier" DisplayName="Venison Hollow (Lornar's Pass)"/>
+				<MarkerCategory name="fontaine_de_verdance" DisplayName="Verdance Font (Cursed Shore)"/>
+				<MarkerCategory name="port_exterieur_du_vizir" DisplayName="Vizier's Anteport (Straits of Devastation)"/>
+			</MarkerCategory>
+			<MarkerCategory name="w" DisplayName="  W  ">
+				<MarkerCategory name="terrasse_de_wassa" DisplayName="Wassa's Terrace (Gendarran Fields)"/>
+				<MarkerCategory name="poste_de_vigie_de_decimus" DisplayName="Watchpoint Decimus (Plains of Ashford)"/>
+				<MarkerCategory name="bistrot_rouport" DisplayName="Wheelport Pub (Black Citadel)"/>
+				<MarkerCategory name="gouffre_de_whitland" DisplayName="Whitland Sinkhole (Mount Maelstrom)"/>
+				<MarkerCategory name="folie_de_widd" DisplayName="Widd's Folly (Caledon Forest)"/>
+				<MarkerCategory name="porte_de_wikk" DisplayName="Wikk's Gate (Timberline Falls)"/>
+				<MarkerCategory name="surveillant_de_folleflamme" DisplayName="Wildflame Monitor (Metrica Province)"/>
+				<MarkerCategory name="impasse_du_gladiver" DisplayName="Winterknell Impasse (Cursed Shore)"/>
+				<MarkerCategory name="salon_de_wrelk" DisplayName="Wrelk's Salon (Gendarran Fields)"/>
+			</MarkerCategory>
+			<MarkerCategory name="acces" DisplayName="Guide (All)" iconFile="Img\Guide.png" iconSize="0.75" heightOffset="0.5"/>
+		</MarkerCategory>
+	</MarkerCategory>
+
+	<POIs>
+
+		<!-- Alcôve de Courtilleracine -->
+		<POI MapID="91" xpos="-99.0923" ypos="60.8519" zpos="225.409" type="missions_de_guilde.randonnees.g.alcove_de_courtilleracine" GUID="JnXYzahA+UO0Yi8p2FLiPg=="/>
+
+		<!-- Alimentation en Eau d'Orvanic -->
+		<POI MapID="53" xpos="-647.26"  ypos="102.164" zpos="487.047" type="missions_de_guilde.randonnees.o.alimentation_en_eau_d_orvanic" GUID="ZZBaU56NAky6q8ZtGS1xzQ=="/>
+		<POI MapID="53" xpos="-348.079" ypos="22.409"  zpos="530.489" type="missions_de_guilde.randonnees.acces" GUID="Jq/3KK2I6E6p3kwmzdaL5Q==" iconFile="Img\FlecheAvancer.png"/>
+		<Route MapID="53" name="Acces" resetposx="-348.079" resetposy="22.409" resetposz="530.489" resetrange="2">
+			<POI MapID="53" xpos="-365.852" ypos="24.6018" zpos="547.816" type="missions_de_guilde.randonnees.acces" GUID="LcZ07vp6oEeU9ogqxaqbdg=="/>
+			<POI MapID="53" xpos="-380.518" ypos="26.1258" zpos="564.152" type="missions_de_guilde.randonnees.acces" GUID="t9enz9QKtEG5nvy5knUsnQ=="/>
+			<POI MapID="53" xpos="-395.186" ypos="28.4011" zpos="578.638" type="missions_de_guilde.randonnees.acces" GUID="mBGbgUxJQUCBEJfAQ0hn9Q=="/>
+			<POI MapID="53" xpos="-410.889" ypos="29.1969" zpos="595.727" type="missions_de_guilde.randonnees.acces" GUID="Y1yUkKLZEU6jwmdce/z6Cw=="/>
+			<POI MapID="53" xpos="-428.38"  ypos="35.2828" zpos="615.879" type="missions_de_guilde.randonnees.acces" GUID="ez1XfTuhaUCGuxT+qK1Yrw=="/>
+			<POI MapID="53" xpos="-453.069" ypos="36.0678" zpos="632.887" type="missions_de_guilde.randonnees.acces" GUID="CK8qVix9g0qaVM2/bCoGAQ=="/>
+			<POI MapID="53" xpos="-483.873" ypos="32.9927" zpos="652.113" type="missions_de_guilde.randonnees.acces" GUID="N9hJio73FkmbGrRxu+2YOg=="/>
+			<POI MapID="53" xpos="-521.516" ypos="38.2184" zpos="673.235" type="missions_de_guilde.randonnees.acces" GUID="sPeXLwO2U06eMfJD4d/mDA=="/>
+			<POI MapID="53" xpos="-549.056" ypos="43.2761" zpos="678.93"  type="missions_de_guilde.randonnees.acces" GUID="xwXHdOACxEORTFFLcJfUsQ=="/>
+			<POI MapID="53" xpos="-561.257" ypos="44.3551" zpos="688.781" type="missions_de_guilde.randonnees.acces" GUID="104cJweR90+pXwP16lK3fg=="/>
+			<POI MapID="53" xpos="-570.302" ypos="45.8625" zpos="712.019" type="missions_de_guilde.randonnees.acces" GUID="IrG+GKAax0yHbjgMwsed9A=="/>
+			<POI MapID="53" xpos="-594.072" ypos="45.8267" zpos="722.053" type="missions_de_guilde.randonnees.acces" GUID="TJNkTi4dA0ivcg4MwEG4dg=="/>
+			<POI MapID="53" xpos="-619.729" ypos="45.8659" zpos="705.903" type="missions_de_guilde.randonnees.acces" GUID="lCJJChyB8k+odrfUfehXDw=="/>
+			<POI MapID="53" xpos="-645.665" ypos="46.555"  zpos="680.592" type="missions_de_guilde.randonnees.acces" GUID="hE+0UXVqcEuFQVX7qJf1OQ=="/>
+			<POI MapID="53" xpos="-656.965" ypos="51.1299" zpos="649.376" type="missions_de_guilde.randonnees.acces" GUID="6nBF7b+e/EG65Sse144J0A=="/>
+			<POI MapID="53" xpos="-653.444" ypos="62.1775" zpos="621.389" type="missions_de_guilde.randonnees.acces" GUID="ZBvRwuwNyECIQm936Xse1g=="/>
+			<POI MapID="53" xpos="-629.691" ypos="76.1367" zpos="595.698" type="missions_de_guilde.randonnees.acces" GUID="zb+dJxVj7ky++XlNKawDuw=="/>
+			<POI MapID="53" xpos="-614.453" ypos="86.6921" zpos="563.708" type="missions_de_guilde.randonnees.acces" GUID="LxDr0NqhT0KMIsDwah+j8Q=="/>
+			<POI MapID="53" xpos="-627.178" ypos="93.0369" zpos="547.079" type="missions_de_guilde.randonnees.acces" GUID="yabd1o40pkGtvRhQRwmfWw=="/>
+			<POI MapID="53" xpos="-640.958" ypos="100.087" zpos="525.303" type="missions_de_guilde.randonnees.acces" GUID="Sbkjo4fipk2rW7KsHKQvSA=="/>
+			<POI MapID="53" xpos="-646.458" ypos="108.753" zpos="503.515" type="missions_de_guilde.randonnees.acces" GUID="MfKoYOU0ZU+61nZNqY+qIA=="/>
+		</Route>
+
+		<!-- Antre Cachécailleux -->
+		<POI MapID="19" xpos="-876.996" ypos="-0.180334" zpos="607.853" type="missions_de_guilde.randonnees.s.antre_cachecailleux" GUID="WByqQCp/3k6LoZ1/CzerGw=="/>
+
+		<!-- Antre de Hurleneige -->
+		<POI MapID="31" xpos="534.867" ypos="9.11926" zpos="36.4528" type="missions_de_guilde.randonnees.s.antre_de_hurleneige" GUID="QQuNrCQIgEWe6puHiYitLw=="/>
+
+		<!-- Autel d'Inondesel -->
+		<POI MapID="53" xpos="456.464" ypos="18.2798" zpos="640.236" type="missions_de_guilde.randonnees.s.autel_d_inondesel" GUID="I+Qg48zPx0it5vugK+4IgQ=="/>
+
+		<!-- Aveuglement de l'Erudit -->
+		<POI MapID="26" xpos="-478.164" ypos="99.9046" zpos="143.487" type="missions_de_guilde.randonnees.s.aveuglement_de_l_erudit" GUID="YEL5izsCu0m3y8jEkhcGlA=="/>
+
+		<!-- Balcon des Délices -->
+		<POI MapID="65" xpos="956.033" ypos="89.2741" zpos="-469.846" type="missions_de_guilde.randonnees.d.balcon_des_delices" GUID="vbVlEICaxkCb6BoVu8cqqw=="/>
+		<POI MapID="65" xpos="1038.36" ypos="30.2856" zpos="-366.074" type="missions_de_guilde.randonnees.acces" GUID="/7+/YlS+vkW4JL/ud9DbAg==" iconFile="Img\FlecheAvancer.png"/>
+		<Route MapID="65" name="Acces" resetposx="1038.36" resetposy="30.2856" resetposz="-366.074" resetrange="2">
+			<POI MapID="65" xpos="1052.59" ypos="31.1269" zpos="-370.159" type="missions_de_guilde.randonnees.acces" GUID="IEyXtapEuUmjLNLmXm7UGA=="/>
+			<POI MapID="65" xpos="1058.39" ypos="35.9136" zpos="-385.875" type="missions_de_guilde.randonnees.acces" GUID="RVlWTWAwjEW8Np6ambmGjQ=="/>
+			<POI MapID="65" xpos="1060.45" ypos="37.5721" zpos="-404.28"  type="missions_de_guilde.randonnees.acces" GUID="UNRyIQSr+ka7lFPYZx0YWg=="/>
+			<POI MapID="65" xpos="1057.49" ypos="41.9303" zpos="-422.399" type="missions_de_guilde.randonnees.acces" GUID="FqxDfoAGqkmAb/pCIIB1sw=="/>
+			<POI MapID="65" xpos="1051.59" ypos="45.0931" zpos="-434.389" type="missions_de_guilde.randonnees.acces" GUID="M+MTipFzb0SSl8+RF+wHFg=="/>
+			<POI MapID="65" xpos="1041.69" ypos="47.0688" zpos="-443.017" type="missions_de_guilde.randonnees.acces" GUID="SLkot8j3qUCfuGo4dwoxFQ=="/>
+			<POI MapID="65" xpos="1018.51" ypos="51.2349" zpos="-453.078" type="missions_de_guilde.randonnees.acces" GUID="6YhX0P7bM0C02/Io+GpMwQ=="/>
+			<POI MapID="65" xpos="1020.55" ypos="56.4836" zpos="-458.27"  type="missions_de_guilde.randonnees.acces" GUID="eLXDRm50YEO1EVV/bRVYZg=="/>
+			<POI MapID="65" xpos="1023.32" ypos="61.297"  zpos="-465.474" type="missions_de_guilde.randonnees.acces" GUID="ugemOeRgZka+GN43Q6kVGA=="/>
+			<POI MapID="65" xpos="1010.68" ypos="66.4881" zpos="-462.747" type="missions_de_guilde.randonnees.acces" GUID="x2ExMz6E9kGoc7aMc8VZVA=="/>
+			<POI MapID="65" xpos="1004.58" ypos="73.2192" zpos="-462.457" type="missions_de_guilde.randonnees.acces" GUID="xhQ4d/gOrEOwEpzQJvHqhA=="/>
+			<POI MapID="65" xpos="999.339" ypos="74.9038" zpos="-456.658" type="missions_de_guilde.randonnees.acces" GUID="zLD2QCgkTUam8MK5opK5LA=="/>
+			<POI MapID="65" xpos="988.975" ypos="76.5523" zpos="-461.152" type="missions_de_guilde.randonnees.acces" GUID="7M7meUDFk0KHViZ253RtsA=="/>
+			<POI MapID="65" xpos="979.405" ypos="78.1895" zpos="-463.42"  type="missions_de_guilde.randonnees.acces" GUID="Wtljg1fPD0+QXRa0trwvTg=="/>
+			<POI MapID="65" xpos="969.87"  ypos="85.6258" zpos="-469.279" type="missions_de_guilde.randonnees.acces" GUID="wucgx4QAFE2bhiWvRZ2o6g=="/>
+		</Route>
+
+		<!-- Banc de Varech de Malméduse -->
+		<POI MapID="31" xpos="124.525" ypos="-32.1968" zpos="-370.911" type="missions_de_guilde.randonnees.b.banc_de_varech_de_malmeduse" GUID="8hpQWpYjr0iSf1kqadhINw=="/>
+
+		<!-- Barrière de Bercebruyère -->
+		<POI MapID="34" xpos="574.212" ypos="18.5196" zpos="-384.339" type="missions_de_guilde.randonnees.b.barriere_de_bercebruyere" GUID="0VAuGbSHBUi/mqw8oFCdvA=="/>
+
+		<!-- Belvédère Goutedo -->
+		<POI MapID="27" xpos="147.941" ypos="127.622" zpos="323.589" type="missions_de_guilde.randonnees.s.belvedere_goutedo" GUID="eipt7DjCGEeLtCMSjtB+tw=="/>
+
+		<!-- Bistrot Rouport -->
+		<POI MapID="218" xpos="367.039" ypos="150.023" zpos="27.6249" type="missions_de_guilde.randonnees.w.bistrot_rouport" GUID="uA812jYa2UOQInxQ9nMoCA=="/>
+
+		<!-- Bivouac du Lys -->
+		<POI MapID="22" xpos="-742.876" ypos="55.5609" zpos="816.088" type="missions_de_guilde.randonnees.l.bivouac_du_lys" GUID="c02D6VZBXUWclbhjztTxJA=="/>
+
+		<!-- Bord de Valaigu -->
+		<POI MapID="20" xpos="607.441" ypos="2.71106" zpos="-532.474" type="missions_de_guilde.randonnees.s.bord_de_valaigu" GUID="31G8B0YhbEikXoVzoE/tVg=="/>
+		<POI MapID="20" xpos="257.873" ypos="73.8898" zpos="-603.497" type="missions_de_guilde.randonnees.acces" GUID="WMJcyiIsR0Su9mYth5qiBg==" iconFile="Img\FlecheAvancer.png"/>
+		<Route MapID="20" name="Acces" resetposx="257.873" resetposy="73.8898" resetposz="-603.497" resetrange="2">
+			<POI MapID="20" xpos="262.524" ypos="70.5479"    zpos="-625.18"  type="missions_de_guilde.randonnees.acces" GUID="j8FWH4chB0euS+fPBXPQQw=="/>
+			<POI MapID="20" xpos="265.975" ypos="66.8394"    zpos="-648.611" type="missions_de_guilde.randonnees.acces" GUID="Qdl+qfZP+0C3OJVe3prDFA=="/>
+			<POI MapID="20" xpos="269.506" ypos="68.0661"    zpos="-670.785" type="missions_de_guilde.randonnees.acces" GUID="j7N9MVkaZUedtS3AD+mB8A=="/>
+			<POI MapID="20" xpos="271.453" ypos="68.1207"    zpos="-685.308" type="missions_de_guilde.randonnees.acces" GUID="JAi6usIpW0eVL/TX3anSDA=="/>
+			<POI MapID="20" xpos="273.44"  ypos="69.0518"    zpos="-701.359" type="missions_de_guilde.randonnees.acces" GUID="mmcJalGn4km822AZRb+4yg=="/>
+			<POI MapID="20" xpos="275.767" ypos="64.2082"    zpos="-724.042" type="missions_de_guilde.randonnees.acces" GUID="KQ3O4ZcVD0uf1xN/1oNM4w=="/>
+			<POI MapID="20" xpos="279.335" ypos="57.1023"    zpos="-752.529" type="missions_de_guilde.randonnees.acces" GUID="ecpzUukLqUSFiTCNYw/1Sw=="/>
+			<POI MapID="20" xpos="292.296" ypos="50.0743"    zpos="-781.33"  type="missions_de_guilde.randonnees.acces" GUID="E2T0VdSQQEGJUeVX7ft5zQ=="/>
+			<POI MapID="20" xpos="317.254" ypos="47.862"     zpos="-797.218" type="missions_de_guilde.randonnees.acces" GUID="9NLZs3NexEuYjGcpCkFXHg=="/>
+			<POI MapID="20" xpos="352.873" ypos="30.8233"    zpos="-810.913" type="missions_de_guilde.randonnees.acces" GUID="eaYbDuXT7EShtR46+osgeg=="/>
+			<POI MapID="20" xpos="398.348" ypos="21.2503"    zpos="-807.802" type="missions_de_guilde.randonnees.acces" GUID="5/czgQVBBkq4Ha/jK/uVJw=="/>
+			<POI MapID="20" xpos="447.845" ypos="11.2642"    zpos="-795.061" type="missions_de_guilde.randonnees.acces" GUID="QoKmEQHen0+Eoq0z89PEeQ=="/>
+			<POI MapID="20" xpos="481.978" ypos="10.5424"    zpos="-788.785" type="missions_de_guilde.randonnees.acces" GUID="dnA1Q4V7pU+XeB56ZBaHyA=="/>
+			<POI MapID="20" xpos="501.025" ypos="11.0181"    zpos="-772.99"  type="missions_de_guilde.randonnees.acces" GUID="jkprkjC/fEiIR3DFdDC5sw=="/>
+			<POI MapID="20" xpos="523.364" ypos="11.4356"    zpos="-763.19"  type="missions_de_guilde.randonnees.acces" GUID="xNekJHRJAEKq3AmgICJ4sA=="/>
+			<POI MapID="20" xpos="548.418" ypos="-0.0585488" zpos="-758.055" type="missions_de_guilde.randonnees.acces" GUID="1VUWUwA1qk2LR2f7PBJpBQ=="/>
+			<POI MapID="20" xpos="571.684" ypos="0.0562214"  zpos="-739.69"  type="missions_de_guilde.randonnees.acces" GUID="B9C52wUXEk6YUHNBKALVAA=="/>
+			<POI MapID="20" xpos="583.478" ypos="3.89"       zpos="-728.06"  type="missions_de_guilde.randonnees.acces" GUID="KOw6csTnn021ZsR506y4CQ=="/>
+			<POI MapID="20" xpos="591.752" ypos="6.94697"    zpos="-702.578" type="missions_de_guilde.randonnees.acces" GUID="J1JNXLCo+U+dxmNkxj68gA=="/>
+			<POI MapID="20" xpos="592.354" ypos="-0.439563"  zpos="-687.388" type="missions_de_guilde.randonnees.acces" GUID="D8/boU9FGUqyFkU2eyUIMg=="/>
+			<POI MapID="20" xpos="591.395" ypos="-6.96028"   zpos="-665.068" type="missions_de_guilde.randonnees.acces" GUID="jfkNh4yiSkGODl8DaQov/g=="/>
+			<POI MapID="20" xpos="592.367" ypos="-5.39843"   zpos="-644.223" type="missions_de_guilde.randonnees.acces" GUID="YJ4wfeSIIEWoGgjIraNZ2w=="/>
+			<POI MapID="20" xpos="586.201" ypos="-1.05664"   zpos="-621.09"  type="missions_de_guilde.randonnees.acces" GUID="qirrMom1CkS/SPmKCfwZpA=="/>
+			<POI MapID="20" xpos="579.395" ypos="-1.05664"   zpos="-592.104" type="missions_de_guilde.randonnees.acces" GUID="12NpTS9wtUy3Ur080BA1NA=="/>
+			<POI MapID="20" xpos="581.639" ypos="-1.05664"   zpos="-571.788" type="missions_de_guilde.randonnees.acces" GUID="xHTIIRumkkW7Vml89+1yFg=="/>
+			<POI MapID="20" xpos="587.854" ypos="-1.05664"   zpos="-552.223" type="missions_de_guilde.randonnees.acces" GUID="IAu+vhCKmUquyjh4b05fSg=="/>
+			<POI MapID="20" xpos="597.435" ypos="0.15876"    zpos="-523.208" type="missions_de_guilde.randonnees.acces" GUID="DLWXLX8Um06uNYzgS/FOcw=="/>
+		</Route>
+
+		<!-- Bosquet de Tarstar -->
+		<POI MapID="22" xpos="-856.051" ypos="66.9989" zpos="-514.086" type="missions_de_guilde.randonnees.t.bosquet_de_tarstar" GUID="Y2IBVYOL+0SObLWOXuF0Zw=="/>
+
+		<!-- Boucherie Piègecayeux -->
+		<POI MapID="25" xpos="-252.529" ypos="9.10513" zpos="-372.441" type="missions_de_guilde.randonnees.s.boucherie_piegecayeux" GUID="AhlmidXMNES3lW7gJzCe+A=="/>
+
+		<!-- Cache à Miel de Boisecoeur -->
+		<POI MapID="15" xpos="-104.018" ypos="28.1423" zpos="-370.219" type="missions_de_guilde.randonnees.h.cache_a_miel_de_boisecoeur" GUID="07bi1olCmUaTfBk2or+ofg=="/>
+
+		<!-- Cache de l'Ours des Cavernes -->
+		<POI MapID="31" xpos="724.022" ypos="37.8552" zpos="-95.9756" type="missions_de_guilde.randonnees.c.cache_de_l_ours_des_cavernes" GUID="oJ+B0lDde0SSsbJjYghqew=="/>
+
+		<!-- Cache du Fugitif -->
+		<POI MapID="62" xpos="491.63" ypos="54.0381" zpos="811.706" type="missions_de_guilde.randonnees.c.cache_du_fugitif" GUID="wQbb2OfDy0+JYW9966W2Bw=="/>
+		<POI MapID="62" xpos="118.604" ypos="35.0511" zpos="909.943" type="missions_de_guilde.randonnees.acces" GUID="LUSmD353hUCRY9OTeO6Oeg==" iconFile="Img\FlecheAvancer.png"/>
+		<Route MapID="62" name="Acces" resetposx="118.604" resetposy="35.0511" resetposz="909.943" resetrange="2">
+			<POI MapID="62" xpos="127.827" ypos="38.3918" zpos="895.868" type="missions_de_guilde.randonnees.acces" GUID="7mu598i8bUW9GzYpJ6SE8A=="/>
+			<POI MapID="62" xpos="140.527" ypos="38.0062" zpos="888.335" type="missions_de_guilde.randonnees.acces" GUID="ks763dowSE6qha4yJxPcsQ=="/>
+			<POI MapID="62" xpos="155.66"  ypos="36.3585" zpos="891.539" type="missions_de_guilde.randonnees.acces" GUID="sGRWnpLFR0Gd7dZpym+oCg=="/>
+			<POI MapID="62" xpos="171.54"  ypos="38.0903" zpos="897.764" type="missions_de_guilde.randonnees.acces" GUID="veqxR/FS0ESdl3SpF61dUQ=="/>
+			<POI MapID="62" xpos="190.791" ypos="38.6896" zpos="904.199" type="missions_de_guilde.randonnees.acces" GUID="r4HVZPMgcEir/j2j1oGIkw=="/>
+			<POI MapID="62" xpos="210.338" ypos="38.0381" zpos="909.561" type="missions_de_guilde.randonnees.acces" GUID="M0xRNFbIhEqA6Y9mM5LtYw=="/>
+			<POI MapID="62" xpos="229.314" ypos="37.1273" zpos="913.752" type="missions_de_guilde.randonnees.acces" GUID="gO4LdU/CzUKcopbtmOgUwQ=="/>
+			<POI MapID="62" xpos="249.662" ypos="35.6872" zpos="916.224" type="missions_de_guilde.randonnees.acces" GUID="qiZLIOquKkSJnfJTqHItOw=="/>
+			<POI MapID="62" xpos="270.558" ypos="37.1308" zpos="910.773" type="missions_de_guilde.randonnees.acces" GUID="SyQPS0wFg0eHFJ/zOkdUVQ=="/>
+			<POI MapID="62" xpos="294.897" ypos="35.3694" zpos="894.703" type="missions_de_guilde.randonnees.acces" GUID="J5gSkLlP70exdpMvTKJkjQ=="/>
+			<POI MapID="62" xpos="318.543" ypos="36.2294" zpos="883.331" type="missions_de_guilde.randonnees.acces" GUID="MUFxlMS2nUuLw5rzgz0+ew=="/>
+			<POI MapID="62" xpos="339.078" ypos="39.8499" zpos="870.781" type="missions_de_guilde.randonnees.acces" GUID="CI2lwLpEY0iD6xNYUo1EOw=="/>
+			<POI MapID="62" xpos="363.017" ypos="43.5797" zpos="854.985" type="missions_de_guilde.randonnees.acces" GUID="Y7WyFIc/1UWraDZk5Ds2MQ=="/>
+			<POI MapID="62" xpos="379.896" ypos="49.1984" zpos="843.331" type="missions_de_guilde.randonnees.acces" GUID="vtVT1NfOAkGMSoItJgEQbg=="/>
+			<POI MapID="62" xpos="398.707" ypos="52.0401" zpos="828.154" type="missions_de_guilde.randonnees.acces" GUID="Gq9PuuuI80iza4vDSytCdg=="/>
+			<POI MapID="62" xpos="425.656" ypos="57.4203" zpos="804.507" type="missions_de_guilde.randonnees.acces" GUID="YpMcRIsZw0634h5xIv5mxA=="/>
+			<POI MapID="62" xpos="451.267" ypos="56.954"  zpos="800.95"  type="missions_de_guilde.randonnees.acces" GUID="iu5sFXoMPEe0xCY8ck+VtQ=="/>
+		</Route>
+
+		<!-- Camp Principal du Gardien -->
+		<POI MapID="17" xpos="348.658" ypos="90.6728" zpos="-311.477" type="missions_de_guilde.randonnees.g.camp_principal_du_gardien" GUID="FIYMAqEqMEi0bi5/rWLWIA=="/>
+
+		<!-- Canyons de Gallow -->
+		<POI MapID="54" xpos="-794.632" ypos="11.5599" zpos="386.954" type="missions_de_guilde.randonnees.g.canyons_de_gallow" GUID="Qkq1aN8XNUSrQpkeb2pv5Q=="/>
+
+		<!-- Carré de Chou du Bandit -->
+		<POI MapID="17" xpos="-719.078" ypos="1.31472" zpos="-126.977" type="missions_de_guilde.randonnees.b.carre_de_chou_du_bandit" GUID="vE7VhvgA3USMqvL80xq3Ng=="/>
+
+		<!-- Cavité de la Cathédrale -->
+		<POI MapID="65" xpos="400.467" ypos="19.2017" zpos="46.9051" type="missions_de_guilde.randonnees.c.cavite_de_la_cathedrale" GUID="B5XTcdalq0qBRw6tRzRawg=="/>
+		<POI MapID="65" xpos="196.427" ypos="41.6527" zpos="-111.62" type="missions_de_guilde.randonnees.acces" GUID="OlO8BN/9o06bN5QbRsBnUA==" iconFile="Img\FlecheAvancer.png"/>
+		<Route MapID="65" name="Acces" resetposx="196.427" resetposy="41.6527" resetposz="-111.62" resetrange="2">
+			<POI MapID="65" xpos="207.099" ypos="42.7231" zpos="-124.486" type="missions_de_guilde.randonnees.acces" GUID="hYVmd5KUREiJjpsZiOLTvA=="/>
+			<POI MapID="65" xpos="223.927" ypos="38.1022" zpos="-140.337" type="missions_de_guilde.randonnees.acces" GUID="38wD6oDoiEKt0AlbCZy0hQ=="/>
+			<POI MapID="65" xpos="242.695" ypos="37.1897" zpos="-153.621" type="missions_de_guilde.randonnees.acces" GUID="tjapIkdmxk2YIhWA1/RFKQ=="/>
+			<POI MapID="65" xpos="267.136" ypos="39.8145" zpos="-163.494" type="missions_de_guilde.randonnees.acces" GUID="KGXguMAFzUGhwoEPKQek1Q=="/>
+			<POI MapID="65" xpos="295.1"   ypos="37.6538" zpos="-160.781" type="missions_de_guilde.randonnees.acces" GUID="YFA2SzL+2UWtthQPSsE70w=="/>
+			<POI MapID="65" xpos="323.169" ypos="34.1455" zpos="-156.677" type="missions_de_guilde.randonnees.acces" GUID="L3X7/yld80ipamv5kAnlCQ=="/>
+			<POI MapID="65" xpos="355.045" ypos="34.3352" zpos="-155.738" type="missions_de_guilde.randonnees.acces" GUID="Tiqf8OMhY027JVnURJZ5Wg=="/>
+			<POI MapID="65" xpos="383.486" ypos="40.2212" zpos="-148.073" type="missions_de_guilde.randonnees.acces" GUID="EF7sJwwKrEKWoUqzDl/b5Q=="/>
+			<POI MapID="65" xpos="412.484" ypos="39.0308" zpos="-140.771" type="missions_de_guilde.randonnees.acces" GUID="bSMeGEZG8EuHERm7juddSw=="/>
+			<POI MapID="65" xpos="444.534" ypos="24.5094" zpos="-125.81"  type="missions_de_guilde.randonnees.acces" GUID="njQ/4Clsp0GjepICpdA0fw=="/>
+			<POI MapID="65" xpos="462.617" ypos="17.3852" zpos="-109.276" type="missions_de_guilde.randonnees.acces" GUID="pUSSyrSqMUa7s+6zqd0I/w=="/>
+			<POI MapID="65" xpos="480.513" ypos="17.0413" zpos="-82.6809" type="missions_de_guilde.randonnees.acces" GUID="Ttxw0syPe0mlx1mwJ/xmBA=="/>
+			<POI MapID="65" xpos="498.498" ypos="14.2265" zpos="-56.2578" type="missions_de_guilde.randonnees.acces" GUID="hhMtTyszgEi4zWDvWIltbQ=="/>
+			<POI MapID="65" xpos="500.24"  ypos="18.1392" zpos="-33.9021" type="missions_de_guilde.randonnees.acces" GUID="rM9hqc3nzESy5+KZ4HD2nQ=="/>
+			<POI MapID="65" xpos="499.118" ypos="25.8614" zpos="-4.26811" type="missions_de_guilde.randonnees.acces" GUID="oZZlgQzPREepPp6NrxmHtg=="/>
+			<POI MapID="65" xpos="499.369" ypos="32.6721" zpos="23.5712"  type="missions_de_guilde.randonnees.acces" GUID="UpmCHMTbZUyH4ivxdME9MQ=="/>
+			<POI MapID="65" xpos="475.6"   ypos="9.85509" zpos="72.0831"  type="missions_de_guilde.randonnees.acces" GUID="/eMKpXPY90mPLFxY515eJg=="/>
+			<POI MapID="65" xpos="441.667" ypos="11.6553" zpos="63.3199"  type="missions_de_guilde.randonnees.acces" GUID="QINM2Au+uk+Y0PZzmDUQUw=="/>
+			<POI MapID="65" xpos="418.92"  ypos="19.91"   zpos="46.5664"  type="missions_de_guilde.randonnees.acces" GUID="8fWnu3vZGkWlRds4fI6AfA=="/>
+		</Route>
+
+		<!-- Cavité du Contremaître -->
+		<POI MapID="26" xpos="328.31" ypos="72.6181" zpos="-749.745" type="missions_de_guilde.randonnees.f.cavite_du_contremaitre" GUID="ZCw+KiUoo0yG7kJNaetPWw=="/>
+		<POI MapID="26" xpos="170.874" ypos="81.9839" zpos="-693.955" type="missions_de_guilde.randonnees.acces" GUID="ZnBPkXrNU0eOBwPNOFIHFQ==" iconFile="Img\FlecheAvancer.png"/>
+		<Route MapID="26" name="Acces" resetposx="170.874" resetposy="81.9839" resetposz="-693.955" resetrange="2">
+			<POI MapID="26" xpos="173.435" ypos="87.2404" zpos="-716.954" type="missions_de_guilde.randonnees.acces" GUID="75ZKrvBbmEuiL6IT9hNlpA=="/>
+			<POI MapID="26" xpos="175.599" ypos="94.1629" zpos="-739.705" type="missions_de_guilde.randonnees.acces" GUID="L8YNKnyydEy98KFSogkWZQ=="/>
+			<POI MapID="26" xpos="176.736" ypos="100.132" zpos="-760.092" type="missions_de_guilde.randonnees.acces" GUID="/whz45Q620WjOHCMHC6XnQ=="/>
+			<POI MapID="26" xpos="178.393" ypos="107.226" zpos="-777.609" type="missions_de_guilde.randonnees.acces" GUID="UDdx3kYdKkmqq9BB+o6dkw=="/>
+			<POI MapID="26" xpos="190.383" ypos="112.93"  zpos="-784.899" type="missions_de_guilde.randonnees.acces" GUID="qSG8RaHgakCEhYMVblANlg=="/>
+			<POI MapID="26" xpos="206.716" ypos="118.67"  zpos="-782.664" type="missions_de_guilde.randonnees.acces" GUID="npsjTfZ4Ak21n/d6wVy9OA=="/>
+			<POI MapID="26" xpos="223.985" ypos="123.944" zpos="-776.796" type="missions_de_guilde.randonnees.acces" GUID="BdyLqpbkhk2DnWo+csWDeQ=="/>
+			<POI MapID="26" xpos="238.693" ypos="125.393" zpos="-765.166" type="missions_de_guilde.randonnees.acces" GUID="mSu9iL4CHUSVYL+H6Eq3FQ=="/>
+			<POI MapID="26" xpos="257.161" ypos="124.737" zpos="-746.66"  type="missions_de_guilde.randonnees.acces" GUID="kz5viL2a/kmZN1XRCICEvA=="/>
+			<POI MapID="26" xpos="275.273" ypos="121.903" zpos="-731.233" type="missions_de_guilde.randonnees.acces" GUID="peCCMoCyDk+kL05/db1B5Q=="/>
+			<POI MapID="26" xpos="289.857" ypos="118.654" zpos="-719.224" type="missions_de_guilde.randonnees.acces" GUID="mQv14Bj1+EW5nAYFO+4rrw=="/>
+			<POI MapID="26" xpos="303.357" ypos="109.686" zpos="-711.402" type="missions_de_guilde.randonnees.acces" GUID="fz0ujBKuI0284vGMwJMzAQ=="/>
+			<POI MapID="26" xpos="317.474" ypos="106.603" zpos="-719.764" type="missions_de_guilde.randonnees.acces" GUID="OUnqa1CXEEqDPNpCPpwzhg=="/>
+			<POI MapID="26" xpos="322.272" ypos="105.921" zpos="-738.014" type="missions_de_guilde.randonnees.acces" GUID="qh8FrqgF6EaND0tLC18wRw=="/>
+			<POI MapID="26" xpos="324.953" ypos="90.4997" zpos="-748.166" type="missions_de_guilde.randonnees.acces" GUID="fm0tdZsfmkWE+rG1cP8Atw=="/>
+		</Route>
+
+		<!-- Cellier de la Garde du Lion -->
+		<POI MapID="28" xpos="96.4457" ypos="104.101" zpos="122.656" type="missions_de_guilde.randonnees.l.cellier_de_la_garde_du_lion" GUID="vJZ3hNWqZUOljQ7Ha8dvLQ=="/>
+		<POI MapID="28" xpos="24.6678" ypos="79.4943" zpos="129.612" type="missions_de_guilde.randonnees.acces" GUID="mCQUsCotAEaIm98sMchz2w==" iconFile="Img\FlecheAvancer.png"/>
+		<Route MapID="28" name="Acces" resetposx="24.6678" resetposy="79.4943" resetposz="129.612" resetrange="2">
+			<POI MapID="28" xpos="43.3305" ypos="84.3197" zpos="138.116" type="missions_de_guilde.randonnees.acces" GUID="mnZdIITSkUeXj1HLMmVujQ=="/>
+			<POI MapID="28" xpos="56.4516" ypos="85.0455" zpos="143.252" type="missions_de_guilde.randonnees.acces" GUID="An+P1pfrg0mP6kCbImdSkQ=="/>
+			<POI MapID="28" xpos="73.1098" ypos="99.9102" zpos="137.105" type="missions_de_guilde.randonnees.acces" GUID="MBYARtzoyk6qRZAbe2HHiA=="/>
+			<POI MapID="28" xpos="85.9729" ypos="100.976" zpos="137.862" type="missions_de_guilde.randonnees.acces" GUID="xzm/7LmewESCnPtXnV9FMg=="/>
+			<POI MapID="28" xpos="101.577" ypos="100.412" zpos="139.474" type="missions_de_guilde.randonnees.acces" GUID="bDu+Q/WRNUqf+zT6PJbn2Q=="/>
+			<POI MapID="28" xpos="109.846" ypos="103.789" zpos="131.305" type="missions_de_guilde.randonnees.acces" GUID="eP27oQ+Qhk6eiwN+nnsrhA=="/>
+			<POI MapID="28" xpos="105.325" ypos="107.112" zpos="113.769" type="missions_de_guilde.randonnees.acces" GUID="ZMK/u1rIUkO9iGx8nHN4Eg=="/>
+			<POI MapID="28" xpos="104.359" ypos="109.179" zpos="115.733" type="missions_de_guilde.randonnees.acces" GUID="aOzly56SXkSMMtuEL+Ihbw=="/>
+			<POI MapID="28" xpos="106.63"  ypos="110.597" zpos="118.799" type="missions_de_guilde.randonnees.acces" GUID="Iv7LesAVx0SeNS5bVY53aA=="/>
+			<POI MapID="28" xpos="100.15"  ypos="111.472" zpos="125.263" type="missions_de_guilde.randonnees.acces" GUID="FV2M23jVCUa+iNYhyk81Gw=="/>
+		</Route>
+
+		<!-- Cellier du Lion Noir -->
+		<POI MapID="91" xpos="33.0863" ypos="44.438" zpos="107.831" type="missions_de_guilde.randonnees.b.cellier_du_lion_noir" GUID="gL0PD+2Fh0Cu+E0/jJLVbQ=="/>
+
+		<!-- Champ de Montesauvage -->
+		<POI MapID="73" xpos="735.65" ypos="50.0565" zpos="61.737" type="missions_de_guilde.randonnees.r.champ_de_montesauvage" GUID="h6IZIJyosUuZN4MdV9Ekhg=="/>
+		<POI MapID="73" xpos="521.876" ypos="0.0238103" zpos="310.985" type="missions_de_guilde.randonnees.acces" GUID="GpON6ePlW0+PfjiK+b/Zcw==" iconFile="Img\FlecheAvancer.png"/>
+		<Route MapID="73" name="Acces" resetposx="521.876" resetposy="0.0238103" resetposz="310.985" resetrange="2">
+			<POI MapID="73" xpos="538.793" ypos="0.164648" zpos="305.139" type="missions_de_guilde.randonnees.acces" GUID="2kb2HTducUSjDxs2AhvXDw=="/>
+			<POI MapID="73" xpos="555.973" ypos="9.71389"  zpos="300.298" type="missions_de_guilde.randonnees.acces" GUID="p7DSOcrkXEazZieGU5VBXA=="/>
+			<POI MapID="73" xpos="579.885" ypos="0.610579" zpos="290.825" type="missions_de_guilde.randonnees.acces" GUID="Fme5doIWP0uaAqax5KUkCA=="/>
+			<POI MapID="73" xpos="604.933" ypos="0.486713" zpos="278.999" type="missions_de_guilde.randonnees.acces" GUID="PfDGbc2MyU6Jis/iEGheoA=="/>
+			<POI MapID="73" xpos="626.134" ypos="7.26241"  zpos="262.38"  type="missions_de_guilde.randonnees.acces" GUID="PU/iHXb/D0GuUT8itAenxA=="/>
+			<POI MapID="73" xpos="645.556" ypos="11.936"   zpos="239.514" type="missions_de_guilde.randonnees.acces" GUID="4NKHwvIrXUON/gic5/mQCQ=="/>
+			<POI MapID="73" xpos="666.379" ypos="14.6255"  zpos="216.203" type="missions_de_guilde.randonnees.acces" GUID="kPluIg6+g0iLX/IZg/SDjA=="/>
+			<POI MapID="73" xpos="670.611" ypos="21.9752"  zpos="184.145" type="missions_de_guilde.randonnees.acces" GUID="NtFo84nzd0eC6F4dQ8iZ3g=="/>
+			<POI MapID="73" xpos="672.112" ypos="26.4848"  zpos="161.11"  type="missions_de_guilde.randonnees.acces" GUID="X0hOWLglLki/cAD6WWO+Jg=="/>
+			<POI MapID="73" xpos="675.429" ypos="33.8177"  zpos="132.179" type="missions_de_guilde.randonnees.acces" GUID="5W8BmdUekEaFUBX7krE2JQ=="/>
+			<POI MapID="73" xpos="673.638" ypos="42.2719"  zpos="97.9036" type="missions_de_guilde.randonnees.acces" GUID="Oldx/WfXX0uF98AriY6Y3Q=="/>
+			<POI MapID="73" xpos="677.538" ypos="49.0214"  zpos="72.6636" type="missions_de_guilde.randonnees.acces" GUID="+XefKD8ycUC/gzmSoHnlBQ=="/>
+			<POI MapID="73" xpos="692.651" ypos="57.3741"  zpos="62.1976" type="missions_de_guilde.randonnees.acces" GUID="JxliWLKdvUqCUV/rBU7V7Q=="/>
+		</Route>
+
+		<!-- Champ de Force de la Cinquième Brasse -->
+		<POI MapID="51" xpos="422.769" ypos="-80.9487" zpos="-0.695188" type="missions_de_guilde.randonnees.f.champ_de_force_de_la_cinquieme_brasse" GUID="8JZ1WUU5sUKacav7Rv5c8A=="/>
+		<POI MapID="51" xpos="702.371" ypos="19.506" zpos="109.024" type="missions_de_guilde.randonnees.acces" GUID="JDaZUpSW0UKCv/gAY2n+KA==" iconFile="Img\FlecheAvancer.png"/>
+		<Route MapID="51" name="Acces" resetposx="702.371" resetposy="19.506" resetposz="109.024" resetrange="2">
+			<POI MapID="51" xpos="686.93"  ypos="19.8924"  zpos="103.957"  type="missions_de_guilde.randonnees.acces" GUID="WGdDuYR/r0qUm85/jb4+QA=="/>
+			<POI MapID="51" xpos="655.27"  ypos="21.5895"  zpos="102.989"  type="missions_de_guilde.randonnees.acces" GUID="cLclUdY92EaqCbQ2EW2l8Q=="/>
+			<POI MapID="51" xpos="622.387" ypos="27.7306"  zpos="101.158"  type="missions_de_guilde.randonnees.acces" GUID="qBJW4rrdMUeKAq7YZ9yJdQ=="/>
+			<POI MapID="51" xpos="591.321" ypos="22.3109"  zpos="101.797"  type="missions_de_guilde.randonnees.acces" GUID="VFFmMI1EIECiCb/Ut9YzBg=="/>
+			<POI MapID="51" xpos="566.062" ypos="21.1671"  zpos="101.744"  type="missions_de_guilde.randonnees.acces" GUID="KRcRcKAbtEaKWsMbq3klSA=="/>
+			<POI MapID="51" xpos="552.056" ypos="18.5562"  zpos="104.549"  type="missions_de_guilde.randonnees.acces" GUID="BvaGd7aVOkit7ajlv1r8uA=="/>
+			<POI MapID="51" xpos="529.267" ypos="-1.0746"  zpos="108.807"  type="missions_de_guilde.randonnees.acces" GUID="2bnizAUiUEW3HbAmGSg/yg==" triggerRange="5"/>
+			<POI MapID="51" xpos="500.215" ypos="-1.0746"  zpos="107.938"  type="missions_de_guilde.randonnees.acces" GUID="vo/EGkWLEkGy8dFA2hyUpQ==" triggerRange="5"/>
+			<POI MapID="51" xpos="467.92"  ypos="-1.0746"  zpos="104.499"  type="missions_de_guilde.randonnees.acces" GUID="vAZ3ugexDkaFQpQBuQvZ0g==" triggerRange="5"/>
+			<POI MapID="51" xpos="438.261" ypos="-1.0746"  zpos="100.962"  type="missions_de_guilde.randonnees.acces" GUID="8KLteUGTcEW9uwQo8Jb8gA==" triggerRange="5"/>
+			<POI MapID="51" xpos="415.32"  ypos="-1.0746"  zpos="97.8784"  type="missions_de_guilde.randonnees.acces" GUID="bKGjy4lcxkmEtBIaxdFuuA==" triggerRange="5"/>
+			<POI MapID="51" xpos="386.865" ypos="-1.0746"  zpos="93.7596"  type="missions_de_guilde.randonnees.acces" GUID="UxAJbdFd1kaRRx07S8v0ig==" triggerRange="5"/>
+			<POI MapID="51" xpos="360.343" ypos="-1.0746"  zpos="89.3705"  type="missions_de_guilde.randonnees.acces" GUID="jFvu4abpek+xFpDMSqzs0Q==" triggerRange="5"/>
+			<POI MapID="51" xpos="332.156" ypos="-1.0746"  zpos="86.4851"  type="missions_de_guilde.randonnees.acces" GUID="zuPo+hSDHUWh/AOIbblVYw==" triggerRange="5"/>
+			<POI MapID="51" xpos="308.783" ypos="-1.0746"  zpos="88.8714"  type="missions_de_guilde.randonnees.acces" GUID="VWMeVRofzEu3yfFNEla8xw==" triggerRange="5"/>
+			<POI MapID="51" xpos="288.945" ypos="-1.92925" zpos="93.8064"  type="missions_de_guilde.randonnees.acces" GUID="x0EWna2Dz0WslQIXE0wcaQ==" triggerRange="5"/>
+			<POI MapID="51" xpos="267.849" ypos="-1.05657" zpos="96.2669"  type="missions_de_guilde.randonnees.acces" GUID="mdydG0eNHkGazfvBKiJVwQ==" triggerRange="5"/>
+			<POI MapID="51" xpos="251.552" ypos="-1.05657" zpos="98.6068"  type="missions_de_guilde.randonnees.acces" GUID="6N2D6KNBIUGf4QVtytuyxQ==" triggerRange="5"/>
+			<POI MapID="51" xpos="245.083" ypos="-26.3747" zpos="103.806"  type="missions_de_guilde.randonnees.acces" GUID="VTziLF2dxUqnhsM8U9IhoA==" triggerRange="5"/>
+			<POI MapID="51" xpos="244.931" ypos="-54.7014" zpos="99.0531"  type="missions_de_guilde.randonnees.acces" GUID="f6t9BU5GuUysALJAtPxeyQ==" triggerRange="5"/>
+			<POI MapID="51" xpos="261.328" ypos="-62.159"  zpos="85.1753"  type="missions_de_guilde.randonnees.acces" GUID="JuNhw6vVf06VxdW0oaxYiA==" triggerRange="5"/>
+			<POI MapID="51" xpos="279.497" ypos="-68.0142" zpos="63.0516"  type="missions_de_guilde.randonnees.acces" GUID="b3EhjfBaXEe0EVsR0bT2Jg==" triggerRange="5"/>
+			<POI MapID="51" xpos="302.002" ypos="-68.6433" zpos="51.4377"  type="missions_de_guilde.randonnees.acces" GUID="f5ipOjdM0EK9Me5FXtptPg==" triggerRange="5"/>
+			<POI MapID="51" xpos="325.333" ypos="-66.2195" zpos="40.9802"  type="missions_de_guilde.randonnees.acces" GUID="lQdBJNUoOEq9yytBJd9JIQ==" triggerRange="5"/>
+			<POI MapID="51" xpos="349.576" ypos="-64.6989" zpos="28.1948"  type="missions_de_guilde.randonnees.acces" GUID="bdH1dzH9LkCudBBLUmuzGw==" triggerRange="5"/>
+			<POI MapID="51" xpos="374.217" ypos="-67.6832" zpos="9.95078"  type="missions_de_guilde.randonnees.acces" GUID="y6hB3Jrh8UKlKwW3vCdquw==" triggerRange="5"/>
+			<POI MapID="51" xpos="394.411" ypos="-70.5104" zpos="-4.85125" type="missions_de_guilde.randonnees.acces" GUID="i7a//xjufkmGqrmWSHjSQQ==" triggerRange="5"/>
+			<POI MapID="51" xpos="416.184" ypos="-75.4337" zpos="-11.8759" type="missions_de_guilde.randonnees.acces" GUID="09gk8NG8XkWOoyzhr2C8sQ==" triggerRange="5"/>
+		</Route>
+
+		<!-- Châtiment de Bluup -->
+		<POI MapID="139" xpos="-16.6879" ypos="315.554" zpos="211.521" type="missions_de_guilde.randonnees.b.chatiment_de_bluup" GUID="l/ztNILngUaeqvLpbl/qFw=="/>
+
+		<!-- Chute d'East End -->
+		<POI MapID="54" xpos="525.51" ypos="17.0807" zpos="118.957" type="missions_de_guilde.randonnees.e.chute_d_east_end" GUID="RsfseowsIUKPMky8ytO7dw=="/>
+
+		<!-- Chutes de Gerbécaille -->
+		<POI MapID="29" xpos="48.9142" ypos="9.7137" zpos="-894.983" type="missions_de_guilde.randonnees.s.chutes_de_gerbecaille" GUID="ZA6j7Xegl0mwl5Bej9lcaQ=="/>
+
+		<!-- Chutes de la Génitrice -->
+		<POI MapID="30" xpos="785.204" ypos="-0.270297" zpos="-336.473" type="missions_de_guilde.randonnees.b.chutes_de_la_genitrice" GUID="FClwfXM780SNNA7bLTT/UQ=="/>
+
+		<!-- Cisaillement Interdit -->
+		<POI MapID="65" xpos="-817.063" ypos="11.4521" zpos="150.031" type="missions_de_guilde.randonnees.f.cisaillement_interdit" GUID="A7mBezIosE2Q0zp+tfvUdQ=="/>
+
+		<!-- Coeur du Flacon du Fondateur -->
+		<POI MapID="21" xpos="-434.316" ypos="67.8522" zpos="-689.593" type="missions_de_guilde.randonnees.f.coeur_du_flacon_du_fondateur" GUID="0lnk5wf5ZUeUrOs5UK3OZQ=="/>
+
+		<!-- Coffre-Fort de Kevach -->
+		<POI MapID="28" xpos="178.169" ypos="33.4991" zpos="668.731" type="missions_de_guilde.randonnees.k.coffre_fort_de_kevach" GUID="aorzAQiV60WO/rLU7j2ZRQ=="/>
+
+		<!-- Coin d'Anya -->
+		<POI MapID="32" xpos="-1064.6" ypos="68.8631" zpos="-619.168" type="missions_de_guilde.randonnees.a.coin_d_anya" GUID="RZ32OlH0RkSgDy+UAV2I+w=="/>
+		<POI MapID="32" xpos="-729.338" ypos="30.3365" zpos="-539.308" type="missions_de_guilde.randonnees.acces" GUID="Ji5yjqc2tkGVtwxyq/ROVQ==" iconFile="Img\FlecheAvancer.png"/>
+		<Route MapID="32" name="Acces" resetposx="-729.338" resetposy="30.3365" resetposz="-539.308" resetrange="2">
+			<POI MapID="32" xpos="-750.005" ypos="27.8637" zpos="-538.017" type="missions_de_guilde.randonnees.acces" GUID="NpX3GFsQ30m+ccvISjaDnQ=="/>
+			<POI MapID="32" xpos="-783.071" ypos="29.4168" zpos="-538.85"  type="missions_de_guilde.randonnees.acces" GUID="TBMy7RqF+0e8WXtpcvAAdQ=="/>
+			<POI MapID="32" xpos="-815.461" ypos="28.6876" zpos="-537.909" type="missions_de_guilde.randonnees.acces" GUID="8XOyE9ocbkqIUTmPMO9odg=="/>
+			<POI MapID="32" xpos="-848.707" ypos="29.624"  zpos="-556.822" type="missions_de_guilde.randonnees.acces" GUID="h+ZFrSQ6Xk67RMD82x9Lng=="/>
+			<POI MapID="32" xpos="-873.353" ypos="31.1172" zpos="-566.621" type="missions_de_guilde.randonnees.acces" GUID="UQ2NY0+fkUq39tj6Y0RXOg=="/>
+			<POI MapID="32" xpos="-900.042" ypos="32.2057" zpos="-575.421" type="missions_de_guilde.randonnees.acces" GUID="2aocPmcF406EfrrrOJmuFQ=="/>
+			<POI MapID="32" xpos="-920.885" ypos="35.6177" zpos="-585.674" type="missions_de_guilde.randonnees.acces" GUID="56aaGr+Ynk2eIjhfBXRwKA=="/>
+			<POI MapID="32" xpos="-941.161" ypos="39.7247" zpos="-597.103" type="missions_de_guilde.randonnees.acces" GUID="TLgnOAPzc0mr2e+wz3zJiA=="/>
+			<POI MapID="32" xpos="-952.321" ypos="39.9069" zpos="-614.487" type="missions_de_guilde.randonnees.acces" GUID="nquTs/Mw9EiEFofR2h6E9A=="/>
+			<POI MapID="32" xpos="-959.681" ypos="40.4778" zpos="-623.601" type="missions_de_guilde.randonnees.acces" GUID="L3oQvGRWs0a/S3gAU73Htg=="/>
+			<POI MapID="32" xpos="-962.977" ypos="41.7512" zpos="-630.641" type="missions_de_guilde.randonnees.acces" GUID="nOc0UHRVK0mTMZNk2lluKg=="/>
+			<POI MapID="32" xpos="-973.853" ypos="37.8497" zpos="-643.398" type="missions_de_guilde.randonnees.acces" GUID="0gRsXz9nPUmFHYFlBMxtZA=="/>
+			<POI MapID="32" xpos="-980.94"  ypos="38.702"  zpos="-653.019" type="missions_de_guilde.randonnees.acces" GUID="qJaA/TxuRU6x9I4YOQmeYQ=="/>
+			<POI MapID="32" xpos="-982.421" ypos="40.1871" zpos="-661.142" type="missions_de_guilde.randonnees.acces" GUID="Qo8kVHQf6UuT/NqFOAJfig=="/>
+			<POI MapID="32" xpos="-981.983" ypos="41.5235" zpos="-665.491" type="missions_de_guilde.randonnees.acces" GUID="p0mIyOvKy0yDUwsGg2gLzA=="/>
+			<POI MapID="32" xpos="-980.588" ypos="42.8191" zpos="-671.759" type="missions_de_guilde.randonnees.acces" GUID="FDhOcunUjkWZ2f6rfTi2NA=="/>
+			<POI MapID="32" xpos="-980.463" ypos="45.1535" zpos="-677.609" type="missions_de_guilde.randonnees.acces" GUID="j030NwrTm0+sSifPvLr0wQ=="/>
+			<POI MapID="32" xpos="-976.602" ypos="46.157"  zpos="-675.441" type="missions_de_guilde.randonnees.acces" GUID="fkH757j3WkSYsZrApVDtaA=="/>
+			<POI MapID="32" xpos="-977.102" ypos="49.0575" zpos="-671.751" type="missions_de_guilde.randonnees.acces" GUID="6AdSrdbQh0WtZqOA1qUkRA=="/>
+			<POI MapID="32" xpos="-976.769" ypos="50.3716" zpos="-675.769" type="missions_de_guilde.randonnees.acces" GUID="1NyfpOSrqUy4otftBANXbw=="/>
+			<POI MapID="32" xpos="-980.321" ypos="51.2598" zpos="-679.796" type="missions_de_guilde.randonnees.acces" GUID="qALm0IdTok+JxYlSC2dLpQ=="/>
+			<POI MapID="32" xpos="-985.852" ypos="51.9231" zpos="-682.821" type="missions_de_guilde.randonnees.acces" GUID="3Z7MAQ9CNUCKoLkCyrOOwg=="/>
+			<POI MapID="32" xpos="-992.158" ypos="53.0237" zpos="-683.034" type="missions_de_guilde.randonnees.acces" GUID="8kJRd39vukqOxmrRMC9n/Q=="/>
+			<POI MapID="32" xpos="-995.724" ypos="57.0657" zpos="-693.806" type="missions_de_guilde.randonnees.acces" GUID="4EHzLCl5qki6dkYIHcTqvw=="/>
+			<POI MapID="32" xpos="-1006.9"  ypos="59.0626" zpos="-690.219" type="missions_de_guilde.randonnees.acces" GUID="uQlkm8mp/06TKj+MQn21yA=="/>
+			<POI MapID="32" xpos="-1003.69" ypos="59.0398" zpos="-676.376" type="missions_de_guilde.randonnees.acces" GUID="mvrrxPN9v0uf45HmK26qqQ=="/>
+			<POI MapID="32" xpos="-1004.83" ypos="61.4117" zpos="-672.236" type="missions_de_guilde.randonnees.acces" GUID="OVLwctYj/UOo7OQ9YhD3Lw=="/>
+			<POI MapID="32" xpos="-1022.44" ypos="55.1409" zpos="-662.744" type="missions_de_guilde.randonnees.acces" GUID="LL4YE8OHBUOszTYxUIoBCQ=="/>
+			<POI MapID="32" xpos="-1035.87" ypos="52.6691" zpos="-648.922" type="missions_de_guilde.randonnees.acces" GUID="U8/3GBK4pkSax9qSYeg98w=="/>
+			<POI MapID="32" xpos="-1043.64" ypos="56.2393" zpos="-641.109" type="missions_de_guilde.randonnees.acces" GUID="lCzDgyJj6Um6iMHJQh0pxA=="/>
+			<POI MapID="32" xpos="-1050.09" ypos="61.5746" zpos="-630.647" type="missions_de_guilde.randonnees.acces" GUID="7I/rtva310CWTF1CATxAIw=="/>
+			<POI MapID="32" xpos="-1050.42" ypos="63.7736" zpos="-625.09"  type="missions_de_guilde.randonnees.acces" GUID="PDGboTiQUUqCtcGl6X6ZOw=="/>
+			<POI MapID="32" xpos="-1054.48" ypos="66.7568" zpos="-620.764" type="missions_de_guilde.randonnees.acces" GUID="e17a7xr2lEqOryeA0ynXRQ=="/>
+		</Route>
+
+		<!-- Coin de Castavall -->
+		<POI MapID="73" xpos="-228.005" ypos="-126.681" zpos="-556.869" type="missions_de_guilde.randonnees.c.coin_de_castavall" GUID="lBLfQ6xsmUq0ivBofm+pzA=="/>
+		<POI MapID="73" xpos="-108.087" ypos="-133.485" zpos="-634.083" type="missions_de_guilde.randonnees.acces" GUID="ACLlG1hYF0O2NE2cwUmfoA==" iconFile="Img\FlecheAvancer.png" triggerRange="5"/>
+		<Route MapID="73" name="Acces" resetposx="-108.087" resetposy="-133.485" resetposz="-634.083" resetrange="2">
+			<POI MapID="73" xpos="-129.139" ypos="-127.392" zpos="-637.615" type="missions_de_guilde.randonnees.acces" GUID="pkSlxYeXVkqCgfel/8O6DA==" triggerRange="5"/>
+			<POI MapID="73" xpos="-151.911" ypos="-120.545" zpos="-639.546" type="missions_de_guilde.randonnees.acces" GUID="fzzKKV01jkOGWsfSGs8Vjw==" triggerRange="5"/>
+			<POI MapID="73" xpos="-171.3"   ypos="-115.033" zpos="-639.336" type="missions_de_guilde.randonnees.acces" GUID="dDBWGuZjtUelOLgXO05ydA==" triggerRange="5"/>
+			<POI MapID="73" xpos="-189.914" ypos="-112.615" zpos="-635.249" type="missions_de_guilde.randonnees.acces" GUID="VXdS1UaaZkCVHUWC6kW0Fw==" triggerRange="5"/>
+			<POI MapID="73" xpos="-204.847" ypos="-115.104" zpos="-627.994" type="missions_de_guilde.randonnees.acces" GUID="7ApSFIkHm0SG5Wp1X8fnfA==" triggerRange="5"/>
+			<POI MapID="73" xpos="-212.658" ypos="-117.213" zpos="-617"     type="missions_de_guilde.randonnees.acces" GUID="sWszZpMxo02Hi8GFhOtx1A==" triggerRange="5"/>
+			<POI MapID="73" xpos="-219.178" ypos="-119.204" zpos="-593.402" type="missions_de_guilde.randonnees.acces" GUID="pu79qS5RGkaJATu4/wxtIg==" triggerRange="5"/>
+		</Route>
+
+		<!-- Coin de Magièdre -->
+		<POI MapID="139" xpos="165.009" ypos="385.831" zpos="184.016" type="missions_de_guilde.randonnees.m.coin_de_magiedre" GUID="f1xOgXcV6kqGQXmXHqc96g=="/>
+
+		<!-- Col des Frères -->
+		<POI MapID="326" xpos="-103.769" ypos="273.62" zpos="386.532" type="missions_de_guilde.randonnees.b.col_des_freres" GUID="PzYOcvjO7U+oW07vIYEW1g=="/>
+		<POI MapID="326" xpos="-65.1581" ypos="255.556" zpos="402.912" type="missions_de_guilde.randonnees.acces" GUID="ltRRyjC5qk6S6atwB1GWCg==" iconFile="Img\FlecheAvancer.png"/>
+		<Route MapID="326" name="Acces" resetposx="-65.1581" resetposy="255.556" resetposz="402.912" resetrange="2">
+			<POI MapID="326" xpos="-92.6221" ypos="265.895" zpos="393.35"  type="missions_de_guilde.randonnees.acces" GUID="xeuIbVq4Wk6s4EP/Fi4ekw=="/>
+			<POI MapID="326" xpos="-83.8306" ypos="260.285" zpos="399.416" type="missions_de_guilde.randonnees.acces" GUID="X8VsV2g2gUu1TQKZ+3MbKA=="/>
+		</Route>
+
+		<!-- Col du Coeur Criant -->
+		<POI MapID="22" xpos="-564.019" ypos="48.424" zpos="-133.248" type="missions_de_guilde.randonnees.h.col_du_coeur_criant" GUID="Vx73121dNUS/3OI0OoL7Pw=="/>
+
+		<!-- Console de Commande Principale LIN39 -->
+		<POI MapID="35" xpos="-375.634" ypos="24.7357" zpos="736.59" type="missions_de_guilde.randonnees.m.console_de_commande_principale_lin39" GUID="E7vqof/2DUm8B3NllRP9kA=="/>
+
+		<!-- Contrepoids d'Osenfold -->
+		<POI MapID="28" xpos="-249.42" ypos="170.866" zpos="-415.51" type="missions_de_guilde.randonnees.o.contrepoids_d_osenfold" GUID="Uu/o7e3YEUe2nNMwFAWN2w=="/>
+
+		<!-- Côte de Couvedrake -->
+		<POI MapID="32" xpos="1037.57" ypos="10.6326" zpos="-356.044" type="missions_de_guilde.randonnees.d.cote_de_couvedrake" GUID="q4YZ3Mat2Eeajc/8ELgu+Q=="/>
+		<POI MapID="32" xpos="834.541" ypos="7.29594" zpos="-622.599" type="missions_de_guilde.randonnees.acces" GUID="WIdORGZbsUG9xUWgcrQq4w==" iconFile="Img\FlecheAvancer.png"/>
+		<Route MapID="32" name="Acces" resetposx="834.541" resetposy="7.29594" resetposz="-622.599" resetrange="2">
+			<POI MapID="32" xpos="836.491" ypos="4.57423"  zpos="-603.065" type="missions_de_guilde.randonnees.acces" GUID="RgYYH8TjUkK565Ei1HmhVQ=="/>
+			<POI MapID="32" xpos="850.245" ypos="3.95598"  zpos="-569.773" type="missions_de_guilde.randonnees.acces" GUID="IpA4j5nLTEWpWjtlibZGBw=="/>
+			<POI MapID="32" xpos="861.415" ypos="8.36868"  zpos="-549.272" type="missions_de_guilde.randonnees.acces" GUID="sPMYo6/JAE+Jd5Jksp8Dtw=="/>
+			<POI MapID="32" xpos="872.111" ypos="6.98885"  zpos="-528.997" type="missions_de_guilde.randonnees.acces" GUID="lr/hPjOxzEW+9YLBJg3Qgw=="/>
+			<POI MapID="32" xpos="873.606" ypos="8.8589"   zpos="-501.359" type="missions_de_guilde.randonnees.acces" GUID="8Pk8AXxA2EKR3wJ/rEdRZg=="/>
+			<POI MapID="32" xpos="876.415" ypos="8.07924"  zpos="-476.845" type="missions_de_guilde.randonnees.acces" GUID="Qaw6dlSAs0eYgFBHfZj4gw=="/>
+			<POI MapID="32" xpos="880.491" ypos="-1.05282" zpos="-462.739" type="missions_de_guilde.randonnees.acces" GUID="0lm5823dMUGKuXOvXrLeHQ==" triggerRange="5"/>
+			<POI MapID="32" xpos="886.935" ypos="-20.535"  zpos="-444.376" type="missions_de_guilde.randonnees.acces" GUID="zTxI8lwhUkCEwj8cloJlIw==" triggerRange="5"/>
+			<POI MapID="32" xpos="906.034" ypos="-26.6622" zpos="-437.966" type="missions_de_guilde.randonnees.acces" GUID="nrdo7Xmc50G0fdoP+HYQIQ==" triggerRange="5"/>
+			<POI MapID="32" xpos="924.951" ypos="-25.7508" zpos="-436.71"  type="missions_de_guilde.randonnees.acces" GUID="awm2nI/qREqETNxi3Q7yLA==" triggerRange="5"/>
+			<POI MapID="32" xpos="951.025" ypos="-14.2892" zpos="-430.874" type="missions_de_guilde.randonnees.acces" GUID="1JTVFwaSJECepAHocHkA3A==" triggerRange="5"/>
+			<POI MapID="32" xpos="974.723" ypos="-4.6515"  zpos="-418.189" type="missions_de_guilde.randonnees.acces" GUID="qBxqqYyBN0uBiYrySJKfFQ==" triggerRange="5"/>
+			<POI MapID="32" xpos="1004.62" ypos="-1.05654" zpos="-396.721" type="missions_de_guilde.randonnees.acces" GUID="ndOQrHjtqkOBZ4QDaXuzbw==" triggerRange="5"/>
+			<POI MapID="32" xpos="1021.02" ypos="0.939055" zpos="-372.032" type="missions_de_guilde.randonnees.acces" GUID="Iy87iOFVY0WMfeEitlOq4Q=="/>
+		</Route>
+
+		<!-- Côte de Togatl -->
+		<POI MapID="23" xpos="-103.617" ypos="5.73412" zpos="-33.091" type="missions_de_guilde.randonnees.t.cote_de_togatl" GUID="0vTjZ6URXkaSQ5tB5nY8DA=="/>
+		<POI MapID="23" xpos="-247.198" ypos="-0.115714" zpos="-221.005" type="missions_de_guilde.randonnees.acces" GUID="jpCCf7IqBUC/4TQYalUp9w==" iconFile="Img\FlecheAvancer.png"/>
+		<Route MapID="23" name="Acces" resetposx="-247.198" resetposy="-0.115714" resetposz="-221.005" resetrange="2">
+			<POI MapID="23" xpos="-234.31"  ypos="-1.16012" zpos="-182.465" type="missions_de_guilde.randonnees.acces" GUID="b+fGC1ajPku70/Nlfc7vqg=="/>
+			<POI MapID="23" xpos="-231.923" ypos="-10.5647" zpos="-176.353" type="missions_de_guilde.randonnees.acces" GUID="SCUwAqrn20CSVNQ2/RpACw==" triggerRange="5"/>
+			<POI MapID="23" xpos="-228.261" ypos="-26.9054" zpos="-171.331" type="missions_de_guilde.randonnees.acces" GUID="bejuAq/0VEWHajk9eAthkA==" triggerRange="5"/>
+			<POI MapID="23" xpos="-223.182" ypos="-45.8939" zpos="-166.862" type="missions_de_guilde.randonnees.acces" GUID="D6B0OvBYl0OTzDTfHc1mgQ==" triggerRange="5"/>
+			<POI MapID="23" xpos="-215.225" ypos="-63.5653" zpos="-161.508" type="missions_de_guilde.randonnees.acces" GUID="2ZsaJoz8wkSrAbsWHOsGPA==" triggerRange="5"/>
+			<POI MapID="23" xpos="-204.702" ypos="-71.584"  zpos="-152.779" type="missions_de_guilde.randonnees.acces" GUID="zu270dqugE+SiJdJS3eaiQ==" triggerRange="5"/>
+			<POI MapID="23" xpos="-187.118" ypos="-69.3477" zpos="-135.306" type="missions_de_guilde.randonnees.acces" GUID="aeWIrOTkNEesHjY6INI4xw==" triggerRange="5"/>
+			<POI MapID="23" xpos="-167.446" ypos="-68.2694" zpos="-112.87"  type="missions_de_guilde.randonnees.acces" GUID="hK3y5eEEAEWl2byZqIM7WQ==" triggerRange="5"/>
+			<POI MapID="23" xpos="-156.359" ypos="-67.4887" zpos="-99.3258" type="missions_de_guilde.randonnees.acces" GUID="CtXrQO4Sr0SFg25lgZu43Q==" triggerRange="5"/>
+			<POI MapID="23" xpos="-150.274" ypos="-60.3008" zpos="-92.1764" type="missions_de_guilde.randonnees.acces" GUID="tww89XdHgEGUoXAg+QqPmA==" triggerRange="5"/>
+			<POI MapID="23" xpos="-146.162" ypos="-36.5088" zpos="-85.9232" type="missions_de_guilde.randonnees.acces" GUID="6IO8wGav2UmdknKg0Uadyg==" triggerRange="5"/>
+			<POI MapID="23" xpos="-143.258" ypos="-6.58584" zpos="-87.1005" type="missions_de_guilde.randonnees.acces" GUID="34b6aVmR50ego2D1HQhjlw==" triggerRange="5"/>
+			<POI MapID="23" xpos="-131.042" ypos="-1.05523" zpos="-71.1163" type="missions_de_guilde.randonnees.acces" GUID="vQ46mgcFskOL4S5yNP1dAg==" triggerRange="5"/>
+			<POI MapID="23" xpos="-120.037" ypos="0.650928" zpos="-55.9562" type="missions_de_guilde.randonnees.acces" GUID="BxEblPIQhUOWwXu7sFOk9Q=="/>
+		</Route>
+
+		<!-- Cour de Chutes Brisées -->
+		<POI MapID="218" xpos="-73.8478" ypos="0.86569" zpos="-222.374" type="missions_de_guilde.randonnees.b.cour_de_chutes_brisees" GUID="Pc8ZbKDKSk+EtDH9ea5tjw=="/>
+
+		<!-- Cour des Chutes de la Biche -->
+		<POI MapID="19" xpos="1220.33" ypos="48.7547" zpos="600.312" type="missions_de_guilde.randonnees.d.cour_des_chutes_de_la_biche" GUID="DhY7QN9ivE++w8Z07tZdug=="/>
+
+		<!-- Crevasse du Gibier -->
+		<POI MapID="27" xpos="29.6379" ypos="121.128" zpos="-1381.78" type="missions_de_guilde.randonnees.v.crevasse_du_gibier" GUID="/uOh+9IChE2pJ6gERoXIDQ=="/>
+
+		<!-- Crique d'Isenfell -->
+		<POI MapID="31" xpos="-176.498" ypos="0.121445" zpos="501.506" type="missions_de_guilde.randonnees.i.crique_d_isenfell" GUID="w5ZuuV4HBUyBRxoBj4+Knw=="/>
+
+		<!-- Crique de Trouvécaille -->
+		<POI MapID="22" xpos="543.804" ypos="1.23686" zpos="-830.903" type="missions_de_guilde.randonnees.s.crique_de_trouvecaille" GUID="hoSo5WynNEu3hEj80vJgrw=="/>
+
+		<!-- Débarras d'Ulta -->
+		<POI MapID="54" xpos="-143.678" ypos="21.6047" zpos="-209.33" type="missions_de_guilde.randonnees.u.debarras_d_ulta" GUID="3OWg2NJhz0OpdzaM4SEmnQ=="/>
+
+		<!-- Dents de la Corruption -->
+		<POI MapID="30" xpos="-562.844" ypos="16.6561" zpos="890.234" type="missions_de_guilde.randonnees.c.dents_de_la_corruption" GUID="7B0p15a9qE6o8s0dMMFw9A=="/>
+
+		<!-- Désir de Pochtecatl -->
+		<POI MapID="73" xpos="-419.219" ypos="32.1566" zpos="-890.363" type="missions_de_guilde.randonnees.p.desir_de_pochtecatl" GUID="0wyF1L48m0u1cxnzFeZg7w=="/>
+
+		<!-- Déversoir de Thaumanova -->
+		<POI MapID="35" xpos="-318.589" ypos="10.6149" zpos="825.505" type="missions_de_guilde.randonnees.t.deversoir_de_thaumanova" GUID="ZFoTAMG5kEC/CQfPKnr/vQ=="/>
+
+		<!-- Distillerie de la Chouette Cachée -->
+		<POI MapID="31" xpos="1186.02" ypos="130.333" zpos="-401.104" type="missions_de_guilde.randonnees.h.distillerie_de_la_chouette_cachee" GUID="qrz7/PEG30O1S+2f/6WwtA=="/>
+		<POI MapID="31" xpos="1088.64" ypos="109.862" zpos="-386.423" type="missions_de_guilde.randonnees.acces" GUID="3UxtoY05OUWuA/xaUELNvA==" iconFile="Img\FlecheAvancer.png"/>
+		<Route MapID="31" name="Acces" resetposx="1088.64" resetposy="109.862" resetposz="-386.423" resetrange="2">
+			<POI MapID="31" xpos="1102.88" ypos="111.19"  zpos="-392.092" type="missions_de_guilde.randonnees.acces" GUID="NMG/ByJSckmZtQzz9qfhXg=="/>
+			<POI MapID="31" xpos="1115.56" ypos="114.032" zpos="-407.129" type="missions_de_guilde.randonnees.acces" GUID="jZPUhK9sd0uOr83XMdSpwA=="/>
+			<POI MapID="31" xpos="1124.84" ypos="116.871" zpos="-421.31"  type="missions_de_guilde.randonnees.acces" GUID="t/vvllF8DkSJIFo4PUT92g=="/>
+			<POI MapID="31" xpos="1138.27" ypos="120.777" zpos="-432.896" type="missions_de_guilde.randonnees.acces" GUID="oHCBOXzmnU+xNHnbfzYHbg=="/>
+			<POI MapID="31" xpos="1154.21" ypos="124.599" zpos="-435.665" type="missions_de_guilde.randonnees.acces" GUID="N3sam1MilEeS0xKEsxH9zw=="/>
+			<POI MapID="31" xpos="1177.52" ypos="129.528" zpos="-428.978" type="missions_de_guilde.randonnees.acces" GUID="zW9LkTrMfEqy7YPklVxKPw=="/>
+		</Route>
+
+		<!-- Dortoir du Hall de Skibo -->
+		<POI MapID="139" xpos="59.4602" ypos="333.003" zpos="30.1469" type="missions_de_guilde.randonnees.s.dortoir_du_hall_de_skibo" GUID="mQ7LKZ7EEEW5DI5TxtFhMQ=="/>
+
+		<!-- Échafaudage Autoporteur -->
+		<POI MapID="218" xpos="-128.122" ypos="10.6317" zpos="-4.67039" type="missions_de_guilde.randonnees.f.echafaudage_autoporteur" GUID="uAtezXQ/MEmNjxj+H0sVzQ=="/>
+
+		<!-- Emplacement Hanté -->
+		<POI MapID="65" xpos="-158.663" ypos="77.2031" zpos="94.8387" type="missions_de_guilde.randonnees.s.emplacement_hante" GUID="+EvcI0ej7kC7+Q/7w0j0sA=="/>
+		<POI MapID="65" xpos="-273.562" ypos="111.514" zpos="-13.839" type="missions_de_guilde.randonnees.acces" GUID="palomgssUU67ObRREdVjoA==" iconFile="Img\FlecheAvancer.png"/>
+		<Route MapID="65" name="Acces" resetposx="-273.562" resetposy="111.514" resetposz="-13.839" resetrange="2">
+			<POI MapID="65" xpos="-286.483" ypos="110.419" zpos="0.463867" type="missions_de_guilde.randonnees.acces" GUID="TA4X0puknUqot/DACW8nng=="/>
+			<POI MapID="65" xpos="-310.828" ypos="116.531" zpos="-5.948"   type="missions_de_guilde.randonnees.acces" GUID="3k6yP53QvEu5xEYz8KBosQ=="/>
+			<POI MapID="65" xpos="-333.396" ypos="122.743" zpos="-16.8644" type="missions_de_guilde.randonnees.acces" GUID="FVPH0cOmfUGBhe5aouk+ZQ=="/>
+			<POI MapID="65" xpos="-346.236" ypos="125.163" zpos="-35.4067" type="missions_de_guilde.randonnees.acces" GUID="PegITW8Hlkqk8CdCXqiwUQ=="/>
+			<POI MapID="65" xpos="-359.584" ypos="127.142" zpos="-53.0877" type="missions_de_guilde.randonnees.acces" GUID="WEgZNpisYkKnXTSFW2ddiA=="/>
+			<POI MapID="65" xpos="-371.951" ypos="137.372" zpos="-43.542"  type="missions_de_guilde.randonnees.acces" GUID="4AC7Ci1gOEC0pKU7dFOmBw=="/>
+			<POI MapID="65" xpos="-375.752" ypos="145.069" zpos="-22.1674" type="missions_de_guilde.randonnees.acces" GUID="j+7es6jHk0O4+pYQaE+PfQ=="/>
+			<POI MapID="65" xpos="-378.899" ypos="151.73"  zpos="-1.25498" type="missions_de_guilde.randonnees.acces" GUID="/RUtKuwjUEe1RvQa8PKt1w=="/>
+			<POI MapID="65" xpos="-370.921" ypos="150.64"  zpos="17.7834"  type="missions_de_guilde.randonnees.acces" GUID="OTzze7DSWEe+hMyHq1qnYQ=="/>
+			<POI MapID="65" xpos="-357.826" ypos="147.885" zpos="45.7907"  type="missions_de_guilde.randonnees.acces" GUID="gOlYrfWBf0ygWEEN41wguw=="/>
+			<POI MapID="65" xpos="-343.594" ypos="145.994" zpos="65.1938"  type="missions_de_guilde.randonnees.acces" GUID="xJxS0DZIjkqEFqfMlyKwrA=="/>
+			<POI MapID="65" xpos="-327.537" ypos="146.487" zpos="76.3056"  type="missions_de_guilde.randonnees.acces" GUID="cIzG+Chw2UyVXHwyX7rEOA=="/>
+			<POI MapID="65" xpos="-315.106" ypos="146.822" zpos="86.4707"  type="missions_de_guilde.randonnees.acces" GUID="lEv8qrSOik+XGpGWCtwdyA=="/>
+			<POI MapID="65" xpos="-302.081" ypos="146.839" zpos="89.6657"  type="missions_de_guilde.randonnees.acces" GUID="kpXEX1gHEEeR0dOzPfToMA=="/>
+			<POI MapID="65" xpos="-293.679" ypos="147.039" zpos="86.0309"  type="missions_de_guilde.randonnees.acces" GUID="QbWf5o56t0GohS22w0G99g=="/>
+			<POI MapID="65" xpos="-285.496" ypos="121.803" zpos="81.6378"  type="missions_de_guilde.randonnees.acces" GUID="FMCjyMWGokSXSUJJ4XaKJg=="/>
+			<POI MapID="65" xpos="-267.711" ypos="123.373" zpos="85.7976"  type="missions_de_guilde.randonnees.acces" GUID="lsYxkEwfAk2OcO4jW7nzew=="/>
+			<POI MapID="65" xpos="-261.862" ypos="104.879" zpos="100.606"  type="missions_de_guilde.randonnees.acces" GUID="lVbYiTWYSEG4g7iDB0edlQ=="/>
+			<POI MapID="65" xpos="-266.662" ypos="90.4969" zpos="104.841"  type="missions_de_guilde.randonnees.acces" GUID="qp1hB7cH/kWqUzeQ2t9SKw=="/>
+			<POI MapID="65" xpos="-269.196" ypos="74.9896" zpos="112.496"  type="missions_de_guilde.randonnees.acces" GUID="8L6lSoCLOE+7Gn39h8uH6A=="/>
+			<POI MapID="65" xpos="-254.255" ypos="77.4236" zpos="123.542"  type="missions_de_guilde.randonnees.acces" GUID="8U9EHWzzzkOKXq/oAahmbg=="/>
+			<POI MapID="65" xpos="-241.623" ypos="82.4385" zpos="138.615"  type="missions_de_guilde.randonnees.acces" GUID="G9fkK81In0W05NNKP9bGeA=="/>
+			<POI MapID="65" xpos="-229.701" ypos="80.5898" zpos="144.759"  type="missions_de_guilde.randonnees.acces" GUID="CeQQAqBQ+EWBcoDZU1PgXQ=="/>
+			<POI MapID="65" xpos="-213.243" ypos="77.6958" zpos="143.642"  type="missions_de_guilde.randonnees.acces" GUID="pTjHamlCNUaSaIbF/tCF8Q=="/>
+			<POI MapID="65" xpos="-199.663" ypos="77.2297" zpos="155.357"  type="missions_de_guilde.randonnees.acces" GUID="/I4JWrEiLkuswGpGBq1m+A=="/>
+			<POI MapID="65" xpos="-190.319" ypos="76.5614" zpos="158.226"  type="missions_de_guilde.randonnees.acces" GUID="TecVEWney0GZyxiVxnBTZw=="/>
+			<POI MapID="65" xpos="-183.954" ypos="77.5379" zpos="152.794"  type="missions_de_guilde.randonnees.acces" GUID="Uy9s0JcghEuxP+4TaG/cDw=="/>
+			<POI MapID="65" xpos="-182.498" ypos="67.4338" zpos="144.444"  type="missions_de_guilde.randonnees.acces" GUID="QNfEtzI6JECjdS6fjrRuHQ=="/>
+			<POI MapID="65" xpos="-172.446" ypos="70.0703" zpos="137.738"  type="missions_de_guilde.randonnees.acces" GUID="JwK1LQgn60CWeGRwmtXBpw=="/>
+			<POI MapID="65" xpos="-158.526" ypos="67.7661" zpos="127.738"  type="missions_de_guilde.randonnees.acces" GUID="DARryVuYYUumMOpBGR5RVQ=="/>
+			<POI MapID="65" xpos="-142.102" ypos="67.4585" zpos="111.01"   type="missions_de_guilde.randonnees.acces" GUID="oCByxm3/hEGUCtznADBhoQ=="/>
+			<POI MapID="65" xpos="-138.699" ypos="69.0013" zpos="103.207"  type="missions_de_guilde.randonnees.acces" GUID="G/LFkz+T7k2oFMbgTBCXRg=="/>
+			<POI MapID="65" xpos="-141.029" ypos="71.0649" zpos="102.631"  type="missions_de_guilde.randonnees.acces" GUID="WyeujsRt+06i38HDR0ly2g=="/>
+			<POI MapID="65" xpos="-138.821" ypos="72.9348" zpos="98.2743"  type="missions_de_guilde.randonnees.acces" GUID="VmfLFs5ymEuruE3LWJu3Uw=="/>
+			<POI MapID="65" xpos="-142.573" ypos="75.6249" zpos="97.9331"  type="missions_de_guilde.randonnees.acces" GUID="keEcluJafkygcLKo+96+lw=="/>
+			<POI MapID="65" xpos="-147.755" ypos="74.2258" zpos="91.632"   type="missions_de_guilde.randonnees.acces" GUID="4cUhM7SJOkSlM2GZ1oPoVg=="/>
+		</Route>
+
+		<!-- Emprise Agitée -->
+		<POI MapID="39" xpos="460.313" ypos="-151.555" zpos="-91.8999" type="missions_de_guilde.randonnees.r.emprise_agitee" GUID="MfSJDMfvIkW0CBMFi12rXQ=="/>
+
+		<!-- Ermitage Abandonné -->
+		<POI MapID="20" xpos="82.0732" ypos="3.26405" zpos="592.052" type="missions_de_guilde.randonnees.v.ermitage_abandonne" GUID="huUDCHeJJkSJ8CTlCAEYjw=="/>
+
+		<!-- Escarpement du Pêcheur -->
+		<POI MapID="35" xpos="-541.416" ypos="14.3489" zpos="-24.0358" type="missions_de_guilde.randonnees.f.escarpement_du_pecheur" GUID="vDzmgQaD8EOjyawuTh8PIg=="/>
+
+		<!-- Etreinte de l'Hymne -->
+		<POI MapID="62" xpos="238.256" ypos="6.98358" zpos="-928.723" type="missions_de_guilde.randonnees.a.etreinte_de_l_hymne" GUID="3rXkdn8glECuxEWU7ZhLzg=="/>
+		<POI MapID="62" xpos="283.022" ypos="6.89842" zpos="-890.937" type="missions_de_guilde.randonnees.acces" GUID="9EfioEY/wEmLzJly8xVcxA==" iconFile="Img\FlecheAvancer.png"/>
+		<Route MapID="62" name="Acces" resetposx="283.022" resetposy="6.89842" resetposz="-890.937" resetrange="2">
+			<POI MapID="62" xpos="273.464" ypos="12.3637" zpos="-897.973" type="missions_de_guilde.randonnees.acces" GUID="FtTEH94pa0asZtGN4y44BA=="/>
+			<POI MapID="62" xpos="259.843" ypos="20.1722" zpos="-908.303" type="missions_de_guilde.randonnees.acces" GUID="cH2gB8wkVE+7t+0LtAYi8Q=="/>
+			<POI MapID="62" xpos="261.503" ypos="21.3711" zpos="-925.187" type="missions_de_guilde.randonnees.acces" GUID="acJIDvuNjEKAQNLzZxtPGQ=="/>
+			<POI MapID="62" xpos="266.459" ypos="22.2059" zpos="-943.535" type="missions_de_guilde.randonnees.acces" GUID="50TIHtouZkOY+680bJgvGg=="/>
+			<POI MapID="62" xpos="261.493" ypos="15.786"  zpos="-945.988" type="missions_de_guilde.randonnees.acces" GUID="wcCMtt/Vt0u6HebHE0rgdg=="/>
+			<POI MapID="62" xpos="250.112" ypos="15.9599" zpos="-937.182" type="missions_de_guilde.randonnees.acces" GUID="iFZ4KbnO0U6r5yh+2zEssA=="/>
+			<POI MapID="62" xpos="236.568" ypos="16.2017" zpos="-925.98"  type="missions_de_guilde.randonnees.acces" GUID="zKBUlXCeuU6weI6hemc4lA=="/>
+			<POI MapID="62" xpos="228.213" ypos="12.4569" zpos="-919.77"  type="missions_de_guilde.randonnees.acces" GUID="4W5D8FldrEmR/NlMkboc0A=="/>
+			<POI MapID="62" xpos="232.629" ypos="10.3927" zpos="-911.134" type="missions_de_guilde.randonnees.acces" GUID="qhS3gVFu00eIU0CCJp5A2g=="/>
+			<POI MapID="62" xpos="242.674" ypos="5.88549" zpos="-921.64"  type="missions_de_guilde.randonnees.acces" GUID="uYZJs1KU6kiDQU/t3/hgKA=="/>
+		</Route>
+
+		<!-- Excavation Profanée -->
+		<POI MapID="23" xpos="1224.37" ypos="45.6864" zpos="-74.2917" type="missions_de_guilde.randonnees.d.excavation_profanee" GUID="alXRBBpNoUiQDtgn+K6EDw=="/>
+
+		<!-- Faille de Pouacregriffe -->
+		<POI MapID="25" xpos="559.169" ypos="7.67037" zpos="-928.419" type="missions_de_guilde.randonnees.d.faille_de_pouacregriffe" GUID="w9KAZBHhGkOsQMFylp+9jQ=="/>
+
+		<!-- Fière Tanière du Jaguar -->
+		<POI MapID="35" xpos="164.084" ypos="18.4945" zpos="741.45" type="missions_de_guilde.randonnees.j.fiere_taniere_du_jaguar" GUID="InhgdIekAkW6ouYn9pNZcQ=="/>
+
+		<!-- Folie de Widd -->
+		<POI MapID="34" xpos="-28.6672" ypos="6.42304" zpos="34.0697" type="missions_de_guilde.randonnees.w.folie_de_widd" GUID="ghtn+IwrCk+bF4BsGznrDA=="/>
+
+		<!-- Fontaine de Verdance -->
+		<POI MapID="62" xpos="49.5639" ypos="-15.5159" zpos="313.042" type="missions_de_guilde.randonnees.v.fontaine_de_verdance" GUID="waYZM4HAQkCUBlo9/FQsJQ=="/>
+
+		<!-- Fontaine des Racines Cachées -->
+		<POI MapID="91" xpos="179.03" ypos="38.362" zpos="-57.0156" type="missions_de_guilde.randonnees.b.fontaine_des_racines_cachees" GUID="ctRuv0ASREGGO5+NemQAXQ=="/>
+
+		<!-- Forage du Nid de Skelk -->
+		<POI MapID="30" xpos="-39.4638" ypos="-91.8521" zpos="158.774" type="missions_de_guilde.randonnees.s.forage_du_nid_de_skelk" GUID="Uh0sKb+f30GDaUueUpVzVA=="/>
+		<POI MapID="30" xpos="128.247" ypos="37.6639" zpos="358.326" type="missions_de_guilde.randonnees.acces" GUID="41yGIHFmSkugg6J3unJLeA==" iconFile="Img\FlecheAvancer.png"/>
+		<Route MapID="30" name="Acces" resetposx="128.247" resetposy="37.6639" resetposz="358.326" resetrange="2">
+			<POI MapID="30" xpos="138.061"  ypos="35.1879"  zpos="364.589" type="missions_de_guilde.randonnees.acces" GUID="EmfQ7/DW0k2FkYNo420N8w=="/>
+			<POI MapID="30" xpos="132.06"   ypos="34.031"   zpos="376.582" type="missions_de_guilde.randonnees.acces" GUID="OHQNM/8JnECTvM6N/K7Smw=="/>
+			<POI MapID="30" xpos="114.682"  ypos="36.4039"  zpos="379.647" type="missions_de_guilde.randonnees.acces" GUID="DZyGpYBmC0u3xRWJsggm2w=="/>
+			<POI MapID="30" xpos="101.04"   ypos="37.0135"  zpos="376.943" type="missions_de_guilde.randonnees.acces" GUID="6s4UvR6Mjk6cRHP7rmO8ng=="/>
+			<POI MapID="30" xpos="88.4006"  ypos="38.3028"  zpos="368.83"  type="missions_de_guilde.randonnees.acces" GUID="Wrg8C46w8UiJJQtDhwsSTQ=="/>
+			<POI MapID="30" xpos="76.5552"  ypos="39.3462"  zpos="357.376" type="missions_de_guilde.randonnees.acces" GUID="4pPzDowVF0WW0TzT62tRPg=="/>
+			<POI MapID="30" xpos="70.5062"  ypos="39.1369"  zpos="338.72"  type="missions_de_guilde.randonnees.acces" GUID="fIeZ+NeuUEuGl9yWz60mmA=="/>
+			<POI MapID="30" xpos="68.5341"  ypos="38.2461"  zpos="322.793" type="missions_de_guilde.randonnees.acces" GUID="r6q13bmz2E+l03qGvNwq/g=="/>
+			<POI MapID="30" xpos="68.996"   ypos="38.4984"  zpos="305.365" type="missions_de_guilde.randonnees.acces" GUID="wThIYIA8TEKvllNv+RabKQ=="/>
+			<POI MapID="30" xpos="70.2001"  ypos="38.2477"  zpos="293.245" type="missions_de_guilde.randonnees.acces" GUID="V7OuomzV/EiBCfl8JrpKZQ=="/>
+			<POI MapID="30" xpos="71.5353"  ypos="36.5308"  zpos="278.825" type="missions_de_guilde.randonnees.acces" GUID="/gyo/0p30kijyqy+iHnRzQ=="/>
+			<POI MapID="30" xpos="69.6497"  ypos="39.3472"  zpos="257.362" type="missions_de_guilde.randonnees.acces" GUID="iWcqhzxkTEmtRLttb/cwxA=="/>
+			<POI MapID="30" xpos="88.3538"  ypos="31.274"   zpos="245.49"  type="missions_de_guilde.randonnees.acces" GUID="J5DXQh2DREy9jmURtDRG/w=="/>
+			<POI MapID="30" xpos="106.159"  ypos="25.0581"  zpos="236.218" type="missions_de_guilde.randonnees.acces" GUID="xl8DaoXfkEuTjEI8yaXwNA=="/>
+			<POI MapID="30" xpos="126.78"   ypos="19.7252"  zpos="228.805" type="missions_de_guilde.randonnees.acces" GUID="LYH1726HwkSlr3pakF472A=="/>
+			<POI MapID="30" xpos="143.237"  ypos="20.4111"  zpos="219.906" type="missions_de_guilde.randonnees.acces" GUID="XmsDL3CIR0OkDIOBDXi/kw=="/>
+			<POI MapID="30" xpos="154.125"  ypos="14.2125"  zpos="207.413" type="missions_de_guilde.randonnees.acces" GUID="vO8RWKLt+UCHqCkAuDJkqw=="/>
+			<POI MapID="30" xpos="147.012"  ypos="11.1917"  zpos="187.364" type="missions_de_guilde.randonnees.acces" GUID="rh+DRBa5YkaIsDLpzOcTnw=="/>
+			<POI MapID="30" xpos="136.786"  ypos="9.57763"  zpos="168.346" type="missions_de_guilde.randonnees.acces" GUID="7zTXIWcBKUyfM9Es5/da3A=="/>
+			<POI MapID="30" xpos="130.606"  ypos="7.22696"  zpos="149.731" type="missions_de_guilde.randonnees.acces" GUID="Pyzd83l+GUGjz7oTDhC3zg=="/>
+			<POI MapID="30" xpos="126.428"  ypos="-4.05113" zpos="111.346" type="missions_de_guilde.randonnees.acces" GUID="Hk7cPSTHzUqmo7kilm1CSw==" triggerRange="5"/>
+			<POI MapID="30" xpos="104.506"  ypos="-15.323"  zpos="124.799" type="missions_de_guilde.randonnees.acces" GUID="CIaUbo3xGUOqW0YLVQfFLw==" triggerRange="5"/>
+			<POI MapID="30" xpos="86.0734"  ypos="-25.1026" zpos="138.465" type="missions_de_guilde.randonnees.acces" GUID="xwH9PCKZLkODeKLC/iCcBg==" triggerRange="5"/>
+			<POI MapID="30" xpos="63.6025"  ypos="-31.7499" zpos="156.797" type="missions_de_guilde.randonnees.acces" GUID="3gaFRr38PE6RYTLRS3gC5Q==" triggerRange="5"/>
+			<POI MapID="30" xpos="27.2418"  ypos="-36.1196" zpos="170.494" type="missions_de_guilde.randonnees.acces" GUID="60lS5Q7MXUOFhejmZMLdZA==" triggerRange="5"/>
+			<POI MapID="30" xpos="2.0674"   ypos="-38.1826" zpos="164.535" type="missions_de_guilde.randonnees.acces" GUID="Qc8JNjN+eEq1WJfVzxbDFg==" triggerRange="5"/>
+			<POI MapID="30" xpos="-21.3857" ypos="-46.0712" zpos="158.755" type="missions_de_guilde.randonnees.acces" GUID="CAU5VWUXfkOMzdKmS1VSPA==" triggerRange="5"/>
+			<POI MapID="30" xpos="-34.5114" ypos="-57.8863" zpos="156.547" type="missions_de_guilde.randonnees.acces" GUID="MYr+tSMF7EGpZUfPTxr/Nw==" triggerRange="5"/>
+		</Route>
+
+		<!-- Fosse de Piègetroll -->
+		<POI MapID="27" xpos="-448.743" ypos="89.554" zpos="761.013" type="missions_de_guilde.randonnees.t.fosse_de_piegetroll" GUID="rxbTRaoWRUiH2vOxDVyQyQ=="/>
+
+		<!-- Fosse de la Guivre des Glaces -->
+		<POI MapID="30" xpos="-580.471" ypos="-232.434" zpos="417.475" type="missions_de_guilde.randonnees.i.fosse_de_la_guivre_des_glaces" GUID="Jx1Kvo21Lkys5sg4TlNS6A=="/>
+
+		<!-- Fouilles de Stigmafrappe -->
+		<POI MapID="21" xpos="-929.401" ypos="8.32833" zpos="599.633" type="missions_de_guilde.randonnees.b.fouilles_de_stigmafrappe" GUID="uKTnCar3E0O6ShX+VfIBRQ=="/>
+		<POI MapID="21" xpos="-758.21" ypos="12.4922" zpos="312.98" type="missions_de_guilde.randonnees.acces" GUID="/LAWK2LoM0SaonlZPrX5Rw==" iconFile="Img\FlecheAvancer.png"/>
+		<Route MapID="21" name="Acces" resetposx="-758.21" resetposy="12.4922" resetposz="312.98" resetrange="2">
+			<POI MapID="21" xpos="-755.61"  ypos="12.0465" zpos="327.756" type="missions_de_guilde.randonnees.acces" GUID="kmNbhdVIr0yv/+OT2Dj73Q=="/>
+			<POI MapID="21" xpos="-742.884" ypos="13.8377" zpos="343.024" type="missions_de_guilde.randonnees.acces" GUID="XSHDh5077kiFJkKguD+tLA=="/>
+			<POI MapID="21" xpos="-745.553" ypos="11.5444" zpos="365.97"  type="missions_de_guilde.randonnees.acces" GUID="TWN5EnYjL0CFfmeYS4gmqg=="/>
+			<POI MapID="21" xpos="-755.77"  ypos="11.2084" zpos="394.329" type="missions_de_guilde.randonnees.acces" GUID="nxyixgsA60yGQWWu5SWhuA=="/>
+			<POI MapID="21" xpos="-761.001" ypos="16.3444" zpos="414.098" type="missions_de_guilde.randonnees.acces" GUID="2koSH+rvNUKM2ikGrLoNOQ=="/>
+			<POI MapID="21" xpos="-751.325" ypos="20.946"  zpos="436.01"  type="missions_de_guilde.randonnees.acces" GUID="55r5cvq/ZEiGCtLhG2V5gg=="/>
+			<POI MapID="21" xpos="-730.386" ypos="21.9846" zpos="456.018" type="missions_de_guilde.randonnees.acces" GUID="D3ECkTobmkW3GJVPyYsabg=="/>
+			<POI MapID="21" xpos="-712.909" ypos="26.1409" zpos="476.73"  type="missions_de_guilde.randonnees.acces" GUID="dM0R1a1KK0W4BDsiMocHRg=="/>
+			<POI MapID="21" xpos="-718.563" ypos="30.6778" zpos="509.367" type="missions_de_guilde.randonnees.acces" GUID="Pdf/Ab61ZkiSTkfbwDY3Tw=="/>
+			<POI MapID="21" xpos="-727.845" ypos="28.938"  zpos="533.783" type="missions_de_guilde.randonnees.acces" GUID="nPqNeku2I0Odv12MdoTKyA=="/>
+			<POI MapID="21" xpos="-736.77"  ypos="27.1743" zpos="560.836" type="missions_de_guilde.randonnees.acces" GUID="a1Wb2e/v+UORCph5WEStGQ=="/>
+			<POI MapID="21" xpos="-752.948" ypos="26.6925" zpos="585.761" type="missions_de_guilde.randonnees.acces" GUID="Q2p/KJg5/km9x4t1tFg3HA=="/>
+			<POI MapID="21" xpos="-779.141" ypos="22.7086" zpos="580.208" type="missions_de_guilde.randonnees.acces" GUID="YrsVUEmkW0yMjwf5tl1DWQ=="/>
+			<POI MapID="21" xpos="-807.591" ypos="19.8894" zpos="571.752" type="missions_de_guilde.randonnees.acces" GUID="Dmm3OUq/vE2IsnqCUMAXsg=="/>
+			<POI MapID="21" xpos="-832.492" ypos="21.3064" zpos="574.521" type="missions_de_guilde.randonnees.acces" GUID="iNixntAXXkCItG9SzCa3Dg=="/>
+			<POI MapID="21" xpos="-860.214" ypos="10.1823" zpos="586.487" type="missions_de_guilde.randonnees.acces" GUID="I74THGXc/kWGqfb7aQX7Sg=="/>
+			<POI MapID="21" xpos="-892.178" ypos="5.30362" zpos="597.321" type="missions_de_guilde.randonnees.acces" GUID="RAuSYp+jdkGuQVMGub2Q3w=="/>
+			<POI MapID="21" xpos="-913.458" ypos="8.65003" zpos="602.503" type="missions_de_guilde.randonnees.acces" GUID="Gn1J/cJQ90yDlKqwa+PzHg=="/>
+		</Route>
+
+		<!-- Fouilleur de Fumier -->
+		<POI MapID="26" xpos="-620.555" ypos="30.8328" zpos="-592.001" type="missions_de_guilde.randonnees.f.fouilleur_de_fumier" GUID="ON1FCLmolEK/NRTCV9zo3Q=="/>
+		<POI MapID="26" xpos="-415.483" ypos="82.5868" zpos="-273.622" type="missions_de_guilde.randonnees.acces" GUID="MEKiJE0vAEqlnHkonfrELQ==" iconFile="Img\FlecheAvancer.png"/>
+		<Route MapID="26" name="Acces" resetposx="-415.483" resetposy="82.5868" resetposz="-273.622" resetrange="2">
+			<POI MapID="26" xpos="-429.11"  ypos="78.273"  zpos="-252.39"  type="missions_de_guilde.randonnees.acces" GUID="tNO4UUzee0eFVOHP2xkLSQ=="/>
+			<POI MapID="26" xpos="-442.08"  ypos="78.7357" zpos="-231.453" type="missions_de_guilde.randonnees.acces" GUID="0jUcfAXtOkOtpuT4LX7n7g=="/>
+			<POI MapID="26" xpos="-453.56"  ypos="78.5902" zpos="-213.086" type="missions_de_guilde.randonnees.acces" GUID="zt0WUwSBLEOsUtTa3DftEw=="/>
+			<POI MapID="26" xpos="-464.241" ypos="79.0891" zpos="-195.633" type="missions_de_guilde.randonnees.acces" GUID="67CRXnhIxkWaI8sHha6aDw=="/>
+			<POI MapID="26" xpos="-474.774" ypos="82.3676" zpos="-176.46"  type="missions_de_guilde.randonnees.acces" GUID="9UNYf0Km9ky4KcQ/bJiqSw=="/>
+			<POI MapID="26" xpos="-484.531" ypos="85.7161" zpos="-158.741" type="missions_de_guilde.randonnees.acces" GUID="e/SBZmT7rEmRviud+qn+cw=="/>
+			<POI MapID="26" xpos="-487.444" ypos="85.4366" zpos="-140.81"  type="missions_de_guilde.randonnees.acces" GUID="iYFnSVM6MkyKDiLjzmfVJg=="/>
+			<POI MapID="26" xpos="-492.888" ypos="74.7233" zpos="-130.513" type="missions_de_guilde.randonnees.acces" GUID="pMPQsj/kXEC7LsRx9KBKZw=="/>
+			<POI MapID="26" xpos="-508.774" ypos="72.3066" zpos="-133.042" type="missions_de_guilde.randonnees.acces" GUID="uFIaIJAeMkWtaVL72ODMTQ=="/>
+			<POI MapID="26" xpos="-530.955" ypos="68.417"  zpos="-150.431" type="missions_de_guilde.randonnees.acces" GUID="lzB51vuJBkaIZ8RIl4gX4w=="/>
+			<POI MapID="26" xpos="-554.874" ypos="62.4848" zpos="-170.513" type="missions_de_guilde.randonnees.acces" GUID="LiHq+qi69UOoqZGiNd/xGw=="/>
+			<POI MapID="26" xpos="-577.366" ypos="64.3518" zpos="-189.376" type="missions_de_guilde.randonnees.acces" GUID="TJUS3aU+wUSyzG65/T9sUw=="/>
+			<POI MapID="26" xpos="-596.095" ypos="67.4395" zpos="-206.742" type="missions_de_guilde.randonnees.acces" GUID="lvEkKqC3AEupZkNTCb8abw=="/>
+			<POI MapID="26" xpos="-612.612" ypos="69.5058" zpos="-223.734" type="missions_de_guilde.randonnees.acces" GUID="fkH5In1BaUCGhFFXXK1a2A=="/>
+			<POI MapID="26" xpos="-607.614" ypos="75.6956" zpos="-246.404" type="missions_de_guilde.randonnees.acces" GUID="u6NxXZyBhU+LnkxSeT7Uvw=="/>
+			<POI MapID="26" xpos="-602.177" ypos="79.6086" zpos="-267.484" type="missions_de_guilde.randonnees.acces" GUID="4OGNASOgL0OzUM73ajyRQQ=="/>
+			<POI MapID="26" xpos="-604.19"  ypos="84.5061" zpos="-287.785" type="missions_de_guilde.randonnees.acces" GUID="faaYDT4N7Um46qjqd66i0Q=="/>
+			<POI MapID="26" xpos="-608.504" ypos="87.2468" zpos="-309.043" type="missions_de_guilde.randonnees.acces" GUID="8V1TxT+Qq0C+DDahxB/VmQ=="/>
+			<POI MapID="26" xpos="-606.698" ypos="88.6369" zpos="-328.676" type="missions_de_guilde.randonnees.acces" GUID="87oweZtL+U+ZrlJbv0mKIg=="/>
+			<POI MapID="26" xpos="-596.243" ypos="90.6736" zpos="-345.491" type="missions_de_guilde.randonnees.acces" GUID="iQOBFiLAfUmgaf8D3qFC/A=="/>
+			<POI MapID="26" xpos="-592.727" ypos="91.5073" zpos="-360.153" type="missions_de_guilde.randonnees.acces" GUID="P1D5erx92k2SeOdeJ2Daow=="/>
+			<POI MapID="26" xpos="-584.852" ypos="92.4473" zpos="-375.4"   type="missions_de_guilde.randonnees.acces" GUID="Fyfcso3C302FZQvyGM/IYg=="/>
+			<POI MapID="26" xpos="-579.294" ypos="93.1253" zpos="-390.873" type="missions_de_guilde.randonnees.acces" GUID="JsIZrIVWPU2OR0S+fqNuZA=="/>
+			<POI MapID="26" xpos="-583.945" ypos="95.4997" zpos="-417.403" type="missions_de_guilde.randonnees.acces" GUID="F7rT4LzRREasYjkBbEm8PA=="/>
+			<POI MapID="26" xpos="-588.853" ypos="94.9863" zpos="-445.455" type="missions_de_guilde.randonnees.acces" GUID="VSTyMdgpW0CD9J2BmC81Vg=="/>
+			<POI MapID="26" xpos="-589.426" ypos="82.1561" zpos="-474.447" type="missions_de_guilde.randonnees.acces" GUID="zH6UqBi8+Uy8Yq18fGpAbQ=="/>
+			<POI MapID="26" xpos="-584.663" ypos="74.1827" zpos="-497.332" type="missions_de_guilde.randonnees.acces" GUID="tfYltFZM30qnuIygwuebLg=="/>
+			<POI MapID="26" xpos="-605.631" ypos="59.7355" zpos="-513.133" type="missions_de_guilde.randonnees.acces" GUID="WjVtXuL8c0mLqlkn8X489A=="/>
+			<POI MapID="26" xpos="-589.765" ypos="51.5525" zpos="-530.607" type="missions_de_guilde.randonnees.acces" GUID="MFHgO0KBfkC6EB7GBLekMw=="/>
+			<POI MapID="26" xpos="-613.206" ypos="35.828"  zpos="-547.446" type="missions_de_guilde.randonnees.acces" GUID="EkDQ+Hq7jkGZ9evMea4nKw=="/>
+			<POI MapID="26" xpos="-608.983" ypos="30.7349" zpos="-572.548" type="missions_de_guilde.randonnees.acces" GUID="yzH0PFIYlkmDIYvmasF08w=="/>
+		</Route>
+
+		<!-- Foyer de Kari -->
+		<POI MapID="23" xpos="863.726" ypos="55.2972" zpos="-357.054" type="missions_de_guilde.randonnees.k.foyer_de_kari" GUID="kV61xM8vi0yt4kDn8xguZQ=="/>
+		<POI MapID="23" xpos="837.953" ypos="81.9664" zpos="-291.687" type="missions_de_guilde.randonnees.acces" GUID="/TgN/hNT60GU4fj1vrjRbg==" iconFile="Img\FlecheAvancer.png"/>
+		<Route MapID="23" name="Acces" resetposx="837.953" resetposy="81.9664" resetposz="-291.687" resetrange="2">
+			<POI MapID="23" xpos="844.924" ypos="83.1945" zpos="-309.759" type="missions_de_guilde.randonnees.acces" GUID="00O56SUvIku9r/P2K4kB7w=="/>
+			<POI MapID="23" xpos="852.049" ypos="86.0568" zpos="-327.42"  type="missions_de_guilde.randonnees.acces" GUID="8xJojpZ0BUa1BQO8drE/Uw=="/>
+			<POI MapID="23" xpos="858.291" ypos="82.5307" zpos="-345.327" type="missions_de_guilde.randonnees.acces" GUID="+PmYeVEOpEyZGg4vu/DyiQ=="/>
+			<POI MapID="23" xpos="862.268" ypos="72.2929" zpos="-344.342" type="missions_de_guilde.randonnees.acces" GUID="9TBVYhViMkSS7cIdA/MWHQ=="/>
+			<POI MapID="23" xpos="865.922" ypos="64.2014" zpos="-339.373" type="missions_de_guilde.randonnees.acces" GUID="jPvAOPuFn0SSKhEBuLo+6Q=="/>
+		</Route>
+
+		<!-- Frayère des Drakes des Récifs -->
+		<POI MapID="873" xpos="379.454" ypos="0.560592" zpos="-179.713" type="missions_de_guilde.randonnees.r.frayere_des_drakes_des_recifs" GUID="tSUXapqpqkaN3e8Y3hHlbg=="/>
+
+		<!-- Fuite de Toxal -->
+		<POI MapID="54" xpos="-633.092" ypos="15.6702" zpos="-748.868" type="missions_de_guilde.randonnees.t.fuite_de_toxal" GUID="sXlw/bTwr0aCFVvGlwNtuA=="/>
+
+		<!-- Galerie du limon de Sang -->
+		<POI MapID="73" xpos="21.4624" ypos="75.2227" zpos="-411.332" type="missions_de_guilde.randonnees.b.galerie_du_limon_de_sang" GUID="txgyISpc6Ei3C8XgbWaa+g=="/>
+		<POI MapID="73" xpos="-103.656" ypos="5.50608" zpos="-492.942" type="missions_de_guilde.randonnees.acces" GUID="dgHtm6sz1E69WNF7gsHw2g==" iconFile="Img\FlecheAvancer.png"/>
+		<Route MapID="73" name="Acces" resetposx="-103.656" resetposy="5.50608" resetposz="-492.942" resetrange="2">
+			<POI MapID="73" xpos="-120.322" ypos="3.88339" zpos="-482.908" type="missions_de_guilde.randonnees.acces" GUID="oSd2B47oa02qQr+nRYWjtA=="/>
+			<POI MapID="73" xpos="-124.782" ypos="7.51308" zpos="-470.437" type="missions_de_guilde.randonnees.acces" GUID="dCIPnnBGhUmMhmyUmvoahA=="/>
+			<POI MapID="73" xpos="-114.425" ypos="11.3007" zpos="-452.235" type="missions_de_guilde.randonnees.acces" GUID="iTFbplDxaEOViVPRloMPtA=="/>
+			<POI MapID="73" xpos="-102.578" ypos="16.3259" zpos="-432.153" type="missions_de_guilde.randonnees.acces" GUID="z+lIIfnPWU+NTFIFZjLX6g=="/>
+			<POI MapID="73" xpos="-88.7516" ypos="17.6915" zpos="-415.72"  type="missions_de_guilde.randonnees.acces" GUID="HwJzNByXtk6LygVL81ou2w=="/>
+			<POI MapID="73" xpos="-68.1781" ypos="22.0659" zpos="-396.341" type="missions_de_guilde.randonnees.acces" GUID="bNW/hp2xuEGSefQl4zbFvQ=="/>
+			<POI MapID="73" xpos="-45.1439" ypos="28.36"   zpos="-376.533" type="missions_de_guilde.randonnees.acces" GUID="wu7XGFVp30KD09t/iszfGw=="/>
+			<POI MapID="73" xpos="-26.1037" ypos="30.165"  zpos="-360.141" type="missions_de_guilde.randonnees.acces" GUID="YUoPceVkdEK37zXk+hj1YA=="/>
+			<POI MapID="73" xpos="-8.60546" ypos="33.4586" zpos="-332.646" type="missions_de_guilde.randonnees.acces" GUID="172/PcMykEWs9K3Og4SG0Q=="/>
+			<POI MapID="73" xpos="2.11784"  ypos="44.3339" zpos="-311.898" type="missions_de_guilde.randonnees.acces" GUID="TOaujSScX0O77jBeuxCmxg=="/>
+			<POI MapID="73" xpos="10.7764"  ypos="58.0668" zpos="-290.577" type="missions_de_guilde.randonnees.acces" GUID="UYN9IVX+yUmfP78SI4SK2Q=="/>
+			<POI MapID="73" xpos="13.3027"  ypos="59.9962" zpos="-278.537" type="missions_de_guilde.randonnees.acces" GUID="SwZdAhIa3kSkaao1swkDcQ=="/>
+			<POI MapID="73" xpos="8.33266"  ypos="59.987"  zpos="-257.718" type="missions_de_guilde.randonnees.acces" GUID="U/ApJnF+x0qrYqq3pUgjCA=="/>
+			<POI MapID="73" xpos="1.18142"  ypos="59.1238" zpos="-238.93"  type="missions_de_guilde.randonnees.acces" GUID="KoE5tP9UIES3ZsmyyEIrDQ=="/>
+			<POI MapID="73" xpos="-9.03358" ypos="58.6252" zpos="-218.105" type="missions_de_guilde.randonnees.acces" GUID="DOHfpXSV9Ui7rJd9aaPaAg=="/>
+			<POI MapID="73" xpos="-22.8833" ypos="58.0887" zpos="-223.089" type="missions_de_guilde.randonnees.acces" GUID="5bHYy8b4zECKZk+W5idbJw=="/>
+			<POI MapID="73" xpos="-31.6565" ypos="57.8239" zpos="-237.835" type="missions_de_guilde.randonnees.acces" GUID="phGwYHpa80+jdF7PB353DQ=="/>
+			<POI MapID="73" xpos="-42.8196" ypos="60.1708" zpos="-262.184" type="missions_de_guilde.randonnees.acces" GUID="5sb9LzuTrUyJVYA1zBNrIA=="/>
+			<POI MapID="73" xpos="-54.5453" ypos="62.4751" zpos="-285.965" type="missions_de_guilde.randonnees.acces" GUID="1N4NBvDKME25wscg/1372g=="/>
+			<POI MapID="73" xpos="-60.5939" ypos="63.1762" zpos="-306.421" type="missions_de_guilde.randonnees.acces" GUID="xFXjGOL5ok2VF/Boo2MdXQ=="/>
+			<POI MapID="73" xpos="-61.8289" ypos="64.9477" zpos="-326.612" type="missions_de_guilde.randonnees.acces" GUID="dY7POljy0EyHZVbcECoang=="/>
+			<POI MapID="73" xpos="-61.1565" ypos="66.4648" zpos="-346.753" type="missions_de_guilde.randonnees.acces" GUID="X5yprIz0sEOlKctyQdzsEg=="/>
+			<POI MapID="73" xpos="-56.0176" ypos="66.2723" zpos="-361.842" type="missions_de_guilde.randonnees.acces" GUID="bcDPQjgyE0qzbKq2ySMELQ=="/>
+			<POI MapID="73" xpos="-40.044"  ypos="66.6987" zpos="-374.995" type="missions_de_guilde.randonnees.acces" GUID="h31ywuOAZU+ZYr9fT9m5aQ=="/>
+			<POI MapID="73" xpos="-25.4461" ypos="66.1474" zpos="-385.59"  type="missions_de_guilde.randonnees.acces" GUID="joS5Ae3ubkelp0Kyee869w=="/>
+			<POI MapID="73" xpos="-10.8114" ypos="65.6347" zpos="-393.291" type="missions_de_guilde.randonnees.acces" GUID="SAuql+ub50m/LsoXqxM4jA==" iconFile="Img\Danger.png" iconSize="0.75"/>
+			<POI MapID="73" xpos="3.60074"  ypos="67.4136" zpos="-388.898" type="missions_de_guilde.randonnees.acces" GUID="P9rYq05Cs0WENEZ/npI52g==" iconFile="Img\Danger.png" iconSize="0.75"/>
+			<POI MapID="73" xpos="17.1166"  ypos="72.2158" zpos="-397.07"  type="missions_de_guilde.randonnees.acces" GUID="T5/barHy/USGOjlk3jCrvw==" iconFile="Img\Danger.png" iconSize="0.75"/>
+		</Route>
+
+		<!-- Géôle de Provatum -->
+		<POI MapID="22" xpos="146.149" ypos="4.90675" zpos="182.612" type="missions_de_guilde.randonnees.p.geole_de_provatum" GUID="WtU7hxicd0amSa7jz33rQA=="/>
+
+		<!-- Gouffre de Whitland -->
+		<POI MapID="39" xpos="1114.72" ypos="-19.9977" zpos="25.8811" type="missions_de_guilde.randonnees.w.gouffre_de_whitland" GUID="lvJg42eD1E2cl96CseObxg=="/>
+
+		<!-- Grenier Effondré -->
+		<POI MapID="53" xpos="285.011" ypos="35.4307" zpos="928.103" type="missions_de_guilde.randonnees.s.grenier_effondre" GUID="y6wFcJiAakq3gJcqmFTWOw=="/>
+
+		<!-- Griffure de l'Eclat Céleste -->
+		<POI MapID="17" xpos="766.358" ypos="103.901" zpos="-112.263" type="missions_de_guilde.randonnees.s.griffure_de_l_eclat_celeste" GUID="1u3d5i2eO0arThSedMyC7g=="/>
+
+		<!-- Griffure Invisible -->
+		<POI MapID="34" xpos="-30.0115" ypos="0.492678" zpos="369.511" type="missions_de_guilde.randonnees.u.griffure_invisible" GUID="a/EK0PVmSECbjkwRz6Dfbg=="/>
+
+		<!-- Grotte Oubliée -->
+		<POI MapID="20" xpos="560.932" ypos="46.4369" zpos="1162.38" type="missions_de_guilde.randonnees.f.grotte_oubliee" GUID="oCVNTfieeEq8/wEPYYcakA=="/>
+		<POI MapID="20" xpos="384.257" ypos="40.2154" zpos="961.76" type="missions_de_guilde.randonnees.acces" GUID="R3SgcZqoRk69GN0xB2+x8g==" iconFile="Img\FlecheAvancer.png"/>
+		<Route MapID="20" name="Acces" resetposx="384.257" resetposy="40.2154" resetposz="961.76" resetrange="2">
+			<POI MapID="20" xpos="386.237" ypos="41.5783" zpos="975.816" type="missions_de_guilde.randonnees.acces" GUID="88dObA8tYUujJCQJZBZ8GA=="/>
+			<POI MapID="20" xpos="390.003" ypos="42.211"  zpos="1005.13" type="missions_de_guilde.randonnees.acces" GUID="TQbzzxHY1kCr4V/HmSk6Wg=="/>
+			<POI MapID="20" xpos="393.374" ypos="39.6797" zpos="1021.05" type="missions_de_guilde.randonnees.acces" GUID="7X2FRBGj10iIApi6oM3X5Q=="/>
+			<POI MapID="20" xpos="406.195" ypos="39.8703" zpos="1031.53" type="missions_de_guilde.randonnees.acces" GUID="82Nx89pV1028Bouxf8l6mA=="/>
+			<POI MapID="20" xpos="426.69"  ypos="43.5758" zpos="1050.9"  type="missions_de_guilde.randonnees.acces" GUID="umpGRyRyhUqP9v9vfsQfMQ=="/>
+			<POI MapID="20" xpos="446.875" ypos="44.5466" zpos="1053.01" type="missions_de_guilde.randonnees.acces" GUID="a4Co+v2+pEuhn0ww9s8S/w=="/>
+			<POI MapID="20" xpos="463.515" ypos="46.5763" zpos="1050.92" type="missions_de_guilde.randonnees.acces" GUID="+C9woh4xSEO4MTA9WVPQvA=="/>
+			<POI MapID="20" xpos="484.282" ypos="47.7546" zpos="1043.86" type="missions_de_guilde.randonnees.acces" GUID="Je5CWrF+/Ue/CTnzVwS7mA=="/>
+			<POI MapID="20" xpos="486.503" ypos="53.1855" zpos="1052.39" type="missions_de_guilde.randonnees.acces" GUID="1xDDe4HNhEGUExvualoibA=="/>
+			<POI MapID="20" xpos="486.635" ypos="58.7829" zpos="1044.45" type="missions_de_guilde.randonnees.acces" GUID="E85cSfxxx0qzscV9U4H6Xw=="/>
+			<POI MapID="20" xpos="480.116" ypos="58.7684" zpos="1045.38" type="missions_de_guilde.randonnees.acces" GUID="gE+1ZyiKpUCFcCZjxoaK3w=="/>
+			<POI MapID="20" xpos="473.56"  ypos="59.9251" zpos="1048.17" type="missions_de_guilde.randonnees.acces" GUID="2okkdnt4BUGFp6pez3wlnQ=="/>
+			<POI MapID="20" xpos="475.605" ypos="60.99"   zpos="1055.47" type="missions_de_guilde.randonnees.acces" GUID="slvr8m2d20WGDyMnpqcH/Q=="/>
+			<POI MapID="20" xpos="481.18"  ypos="60.1491" zpos="1057.83" type="missions_de_guilde.randonnees.acces" GUID="e2wkzBAwcESdBm0FezruDg=="/>
+			<POI MapID="20" xpos="487.524" ypos="64.5071" zpos="1056.81" type="missions_de_guilde.randonnees.acces" GUID="mP8OvLzUPUCbjzJdkucaog=="/>
+			<POI MapID="20" xpos="486.386" ypos="66.7658" zpos="1057.6"  type="missions_de_guilde.randonnees.acces" GUID="SLrbMXkbIESmX/TtEWd80Q=="/>
+			<POI MapID="20" xpos="492.607" ypos="69.7711" zpos="1050.54" type="missions_de_guilde.randonnees.acces" GUID="Lc9GFVgOcUS8x+zfT9s0ag=="/>
+			<POI MapID="20" xpos="504.256" ypos="70.7042" zpos="1051.23" type="missions_de_guilde.randonnees.acces" GUID="lMy/Y3Lj8kOYdFUTnN00pg=="/>
+			<POI MapID="20" xpos="509.805" ypos="76.3718" zpos="1057.67" type="missions_de_guilde.randonnees.acces" GUID="x8njj9pEP0uXf2VfQpPRQw=="/>
+			<POI MapID="20" xpos="529.374" ypos="69.6787" zpos="1072.41" type="missions_de_guilde.randonnees.acces" GUID="fSFOKcV+bEKEe1Ldj0YnPQ=="/>
+			<POI MapID="20" xpos="539.95"  ypos="53.0549" zpos="1088.38" type="missions_de_guilde.randonnees.acces" GUID="BYXNfy++HkGp5F3cTRTU3g=="/>
+			<POI MapID="20" xpos="544.136" ypos="45.9543" zpos="1102.98" type="missions_de_guilde.randonnees.acces" GUID="lucklF7EZE6cvHdfIuZs8w=="/>
+			<POI MapID="20" xpos="549.464" ypos="45.2833" zpos="1121.35" type="missions_de_guilde.randonnees.acces" GUID="ZYoxJFfSVEiXE9sMgKh+6g=="/>
+			<POI MapID="20" xpos="563.067" ypos="45.244"  zpos="1143.03" type="missions_de_guilde.randonnees.acces" GUID="uRcRgN6/rUe6k079T4L0Bg=="/>
+		</Route>
+
+		<!-- Grotte d'Eaudefonte -->
+		<POI MapID="29" xpos="672.702" ypos="-36.3558" zpos="-147.91" type="missions_de_guilde.randonnees.m.grotte_d_eaudefonte" GUID="kgK/cm0RBkOk0iKiQc+xjw=="/>
+
+		<!-- Grotte de Gorgetoile -->
+		<POI MapID="20" xpos="-543.519" ypos="37.3149" zpos="374.817" type="missions_de_guilde.randonnees.c.grotte_de_gorgetoile" GUID="s7vSjjXNMEqzi87XqFAUcQ=="/>
+
+		<!-- Grotte de Lawen -->
+		<POI MapID="24" xpos="-789.356" ypos="4.93482" zpos="-569.296" type="missions_de_guilde.randonnees.l.grotte_de_lawen" GUID="VxW3C0w+6EqoLpZOOYXOfg=="/>
+
+		<!-- Gué Kraalétroi -->
+		<POI MapID="21" xpos="695.614" ypos="49.7581" zpos="-826.218" type="missions_de_guilde.randonnees.n.gue_kraaletroi" GUID="RE5LjOzIr0Ocny8hIAPXBA=="/>
+
+		<!-- Guet de la Bagarre de Barils -->
+		<POI MapID="326" xpos="-374.188" ypos="268.88" zpos="319.33" type="missions_de_guilde.randonnees.k.guet_de_la_bagarre_de_barils" GUID="H8ARpWstYUqWxAy3UfyJuw=="/>
+
+		<!-- Guet Réverbérant -->
+		<POI MapID="28" xpos="70.3967" ypos="4.35677" zpos="-509.431" type="missions_de_guilde.randonnees.r.guet_reverberant" GUID="pzUHLbbVa0G6qLEjnSt9Tw=="/>
+
+		<!-- Guivre des Sables Maraudeuse -->
+		<POI MapID="873" xpos="441.354" ypos="52.0137" zpos="-8.30188" type="missions_de_guilde.randonnees.s.guivre_des_sables_maraudeuse" GUID="nRbECXVic0eVw+1gLQsE1A=="/>
+
+		<!-- Hall de Guilde du Destin -->
+		<POI MapID="15" xpos="-547.856" ypos="39.772" zpos="519.463" type="missions_de_guilde.randonnees.d.hall_de_guilde_du_destin" GUID="ZAq2RpUUS0Gr8Bz1mggfMg=="/>
+
+		<!-- Halte de Coupegorge -->
+		<POI MapID="24" xpos="151.796" ypos="0.489824" zpos="139.77" type="missions_de_guilde.randonnees.c.halte_de_coupegorge" GUID="2k6TS1oIYEavU/QzkFWV5Q=="/>
+
+		<!-- Halte de Soren Draa -->
+		<POI MapID="35" xpos="-328.235" ypos="43.3499" zpos="-594.095" type="missions_de_guilde.randonnees.s.halte_de_soren_draa" GUID="OB2sf9HOyk2QviaU/y+/fA=="/>
+
+		<!-- Impasse du Gladiver -->
+		<POI MapID="62" xpos="0.297367" ypos="6.10311" zpos="515.295" type="missions_de_guilde.randonnees.w.impasse_du_gladiver" GUID="yD5IJPN9jUu/faes4hsgzQ=="/>
+		<POI MapID="62" xpos="-61.5166" ypos="11.605" zpos="600.268" type="missions_de_guilde.randonnees.acces" GUID="nWQ5CSdfjUuhphol5vvgAQ==" iconFile="Img\FlecheAvancer.png"/>
+		<Route MapID="62" name="Acces" resetposx="-61.5166" resetposy="11.605" resetposz="600.268" resetrange="2">
+			<POI MapID="62" xpos="-48.9237"  ypos="9.36338" zpos="587.184" type="missions_de_guilde.randonnees.acces" GUID="YM12nqZWy0SyREAZn2xMpw=="/>
+			<POI MapID="62" xpos="-36.6706"  ypos="11.165"  zpos="575.471" type="missions_de_guilde.randonnees.acces" GUID="U+vtUQe9vU2C5dIDQ5mVdw=="/>
+			<POI MapID="62" xpos="-33.8793"  ypos="11.0341" zpos="560.794" type="missions_de_guilde.randonnees.acces" GUID="XCCtDsIKFUa4Y1Q0O29CfQ=="/>
+			<POI MapID="62" xpos="-32.2915"  ypos="10.4809" zpos="544.348" type="missions_de_guilde.randonnees.acces" GUID="cfmX1d9Zg0eCvlrrBsyZAg=="/>
+			<POI MapID="62" xpos="-36.6488"  ypos="10.1063" zpos="527.681" type="missions_de_guilde.randonnees.acces" GUID="0kjk2sWN8U+hN++FgerYOg=="/>
+			<POI MapID="62" xpos="-40.3846"  ypos="9.79312" zpos="509.754" type="missions_de_guilde.randonnees.acces" GUID="2SosiCbJT0myegJNQ/H3Kg=="/>
+			<POI MapID="62" xpos="-32.3274"  ypos="8.3502"  zpos="492.269" type="missions_de_guilde.randonnees.acces" GUID="JaMLKVEPi0Gs7+yvxTgv2g=="/>
+			<POI MapID="62" xpos="-19.6449"  ypos="7.00865" zpos="480.064" type="missions_de_guilde.randonnees.acces" GUID="aoVWBNrgsUG4jCvj2PmLFA=="/>
+			<POI MapID="62" xpos="-6.22925"  ypos="6.7059"  zpos="477.34"  type="missions_de_guilde.randonnees.acces" GUID="J0QVLpPI70qCD7SNKvsNwg=="/>
+			<POI MapID="62" xpos="4.23926"   ypos="6.38372" zpos="475.182" type="missions_de_guilde.randonnees.acces" GUID="YFaQCrlMLEOUgEk5KdJSSw=="/>
+			<POI MapID="62" xpos="14.0586"   ypos="6.6278"  zpos="464.463" type="missions_de_guilde.randonnees.acces" GUID="TY6AGYLpE0+ObsjH7sqesQ=="/>
+			<POI MapID="62" xpos="22.2341"   ypos="5.55264" zpos="470.34"  type="missions_de_guilde.randonnees.acces" GUID="s5IZ7sJRwkmlCsvouGdi7Q=="/>
+			<POI MapID="62" xpos="14.1104"   ypos="5.4983"  zpos="482.333" type="missions_de_guilde.randonnees.acces" GUID="UDIUNBjG6Eunzkb1iE7mSg=="/>
+			<POI MapID="62" xpos="2.38662"   ypos="6.04952" zpos="494.892" type="missions_de_guilde.randonnees.acces" GUID="FswZjKhTs023s/b+Ei7vAA=="/>
+			<POI MapID="62" xpos="-7.51586"  ypos="6.7578"  zpos="506.025" type="missions_de_guilde.randonnees.acces" GUID="cA2CWuVWYEOzTzyLNqvbvg=="/>
+			<POI MapID="62" xpos="-13.9335"  ypos="7.43512" zpos="519.576" type="missions_de_guilde.randonnees.acces" GUID="3Qgxaz2n3ECnaTSp5G8c2w=="/>
+			<POI MapID="62" xpos="-14.5493"  ypos="8.2967"  zpos="538.556" type="missions_de_guilde.randonnees.acces" GUID="wflu9RQ6AUGdgGDx5W+MjA=="/>
+			<POI MapID="62" xpos="-19.5718"  ypos="8.86658" zpos="551.209" type="missions_de_guilde.randonnees.acces" GUID="kRAV4S5VfUip9T7wCCCUVg=="/>
+			<POI MapID="62" xpos="-21.3834"  ypos="9.49301" zpos="564.635" type="missions_de_guilde.randonnees.acces" GUID="xeIwwYB9YkinuKfq2xqU7A=="/>
+			<POI MapID="62" xpos="-26.709"   ypos="8.54829" zpos="581.579" type="missions_de_guilde.randonnees.acces" GUID="UCzfw0Z1NkuvRo1XhZMLYA=="/>
+			<POI MapID="62" xpos="-36.3469"  ypos="8.01217" zpos="595.887" type="missions_de_guilde.randonnees.acces" GUID="QKnGAcIGwUWOmz91clElYw=="/>
+			<POI MapID="62" xpos="-23.7887"  ypos="6.93053" zpos="604.055" type="missions_de_guilde.randonnees.acces" GUID="a71TdAvpak2G9snYCS/W6Q=="/>
+			<POI MapID="62" xpos="-12.1655"  ypos="6.9889"  zpos="596.212" type="missions_de_guilde.randonnees.acces" GUID="Qz9yRuw+lEyMCmnx2yDeUA=="/>
+			<POI MapID="62" xpos="-3.8274"   ypos="7.27728" zpos="585.304" type="missions_de_guilde.randonnees.acces" GUID="5O9LnpEBeEqIeeZGJ9scRg=="/>
+			<POI MapID="62" xpos="-0.210189" ypos="6.93224" zpos="566.188" type="missions_de_guilde.randonnees.acces" GUID="mGhFU6pm706jn8O5B1SmyQ=="/>
+			<POI MapID="62" xpos="1.51901"   ypos="7.053"   zpos="550.607" type="missions_de_guilde.randonnees.acces" GUID="GFTODLCvbkKCp/LHXZCaaQ=="/>
+			<POI MapID="62" xpos="7.87485"   ypos="6.09399" zpos="535.439" type="missions_de_guilde.randonnees.acces" GUID="so3Lnql8AkWAPX7m/H2QuQ=="/>
+			<POI MapID="62" xpos="13.1153"   ypos="4.93799" zpos="519.125" type="missions_de_guilde.randonnees.acces" GUID="A4Yvi+HpiEWrgUiL7nTnRw=="/>
+			<POI MapID="62" xpos="23.5735"   ypos="3.38797" zpos="505.89"  type="missions_de_guilde.randonnees.acces" GUID="EyLFYNNvUEqhaImarWmvKA=="/>
+			<POI MapID="62" xpos="30.5497"   ypos="3.5172"  zpos="493.521" type="missions_de_guilde.randonnees.acces" GUID="7nF1jShTQ0abtTfAg8ei/w=="/>
+			<POI MapID="62" xpos="19.5746"   ypos="4.33442" zpos="492.04"  type="missions_de_guilde.randonnees.acces" GUID="yQ3K7zWIyEyKtUre2niaxg=="/>
+		</Route>
+
+		<!-- Jardin de Fortepatte -->
+		<POI MapID="32" xpos="-177.442" ypos="53.2408" zpos="-680.77" type="missions_de_guilde.randonnees.s.jardin_de_fortepatte" GUID="RbkMfp2cYk+TOJBHrA1Vng=="/>
+
+		<!-- Laboratoire de la Taverne de Turai -->
+		<POI MapID="18" xpos="-204.496" ypos="53.5237" zpos="218.114" type="missions_de_guilde.randonnees.t.laboratoire_de_la_taverne_de_turai" GUID="8UcgXBpz4kCE8qvK7DMiYQ=="/>
+
+		<!-- La Sellette de Kaldar -->
+		<POI MapID="326" xpos="642.754" ypos="299.547" zpos="-263.984" type="missions_de_guilde.randonnees.k.la_sellette_de_kaldar" GUID="lolEQuA+SUO+WIBJRV1aow=="/>
+
+		<!-- Le Devoir de Morndottir -->
+		<POI MapID="326" xpos="657.261" ypos="205.215" zpos="266.192" type="missions_de_guilde.randonnees.g.le_devoir_de_morndottir" GUID="9lQCoCyBf0CN9oZuJraafQ=="/>
+
+		<!-- Le Magasin des Ouvriers -->
+		<POI MapID="26" xpos="-70.4222" ypos="124.34" zpos="-160.124" type="missions_de_guilde.randonnees.t.le_magasin_des_ouvriers" GUID="lboVKuf4SU2OhKYG2YQQzg=="/>
+		<POI MapID="26" xpos="-22.7892" ypos="109.229" zpos="-110.878" type="missions_de_guilde.randonnees.acces" GUID="7C/SHy7o9UqX/oH2SBl67A==" iconFile="Img\FlecheAvancer.png"/>
+		<Route MapID="26" name="Acces" resetposx="-22.7892" resetposy="109.229" resetposz="-110.878" resetrange="2">
+			<POI MapID="26" xpos="-12.4663" ypos="111.785" zpos="-121.719" type="missions_de_guilde.randonnees.acces" GUID="GqCFResIE0y1bbZ5qIi9Zw=="/>
+			<POI MapID="26" xpos="-17.723"  ypos="118.734" zpos="-138.213" type="missions_de_guilde.randonnees.acces" GUID="Y/FW1PNuaUakOhyc6uKFew=="/>
+			<POI MapID="26" xpos="-32.7956" ypos="121.543" zpos="-140.673" type="missions_de_guilde.randonnees.acces" GUID="A+VwComrjEupjtPwaISlVQ=="/>
+			<POI MapID="26" xpos="-50.9281" ypos="123.366" zpos="-138.703" type="missions_de_guilde.randonnees.acces" GUID="gsDjmiaxxEue2OV+Mb9TRQ=="/>
+			<POI MapID="26" xpos="-71.7566" ypos="123.531" zpos="-147.338" type="missions_de_guilde.randonnees.acces" GUID="0EQqjb8x2kq8OBq13+gU8A=="/>
+		</Route>
+
+		<!-- Les Marches du Talus -->
+		<POI MapID="29" xpos="-648.359" ypos="18.0431" zpos="-775.394" type="missions_de_guilde.randonnees.t.les_marches_du_talus" GUID="WT8iESotj0e0mduPfZTnFw=="/>
+
+		<!-- Les Karkas Associés -->
+		<POI MapID="873" xpos="613.938" ypos="0.272284" zpos="-411.602" type="missions_de_guilde.randonnees.t.les_karkas_associes" GUID="B5s0e5v7EEWNtonCf+sZgw=="/>
+
+		<!-- L'Impasse du Peuple -->
+		<POI MapID="30" xpos="-783.084" ypos="49.3836" zpos="-609.681" type="missions_de_guilde.randonnees.t.l_impasse_du_peuple" GUID="nD6TLfsUA0qxVRSV8dB2uQ=="/>
+
+		<!-- Marche Vaporeuses -->
+		<POI MapID="873" xpos="-18.5355" ypos="0.99785" zpos="277.916" type="missions_de_guilde.randonnees.s.marche_vaporeuses" GUID="CxdfXjtKxEKqatswvOtTtg=="/>
+
+		<!-- Mirador de Beetletun -->
+		<POI MapID="15" xpos="846.061" ypos="8.15211" zpos="609.761" type="missions_de_guilde.randonnees.b.mirador_de_beetletun" GUID="RdOMQ+TKxEOgYU55/quUcQ=="/>
+
+		<!-- Monument à l'Ancien -->
+		<POI MapID="873" xpos="-246.843" ypos="13.7618" zpos="173.173" type="missions_de_guilde.randonnees.m.monument_a_l_ancien" GUID="uFtWwV4pkU2ezLnif0Lxdw=="/>
+
+		<!-- Motte de Lamenoire -->
+		<POI MapID="32" xpos="273.795" ypos="48.3651" zpos="353.758" type="missions_de_guilde.randonnees.b.motte_de_lamenoire" GUID="gzfKZ7nYtU2rC0qlf3XX9w=="/>
+		<POI MapID="32" xpos="350.734" ypos="42.9682" zpos="488.761" type="missions_de_guilde.randonnees.acces" GUID="fj1PbLGwxU6ML2VsOFgCRg==" iconFile="Img\FlecheAvancer.png"/>
+		<Route MapID="32" name="Acces" resetposx="350.734" resetposy="42.9682" resetposz="488.761" resetrange="2">
+			<POI MapID="32" xpos="347.883" ypos="35.9526" zpos="474.705" type="missions_de_guilde.randonnees.acces" GUID="DQ8YBjJDjUKwi3Z5/ybE4g=="/>
+			<POI MapID="32" xpos="352.053" ypos="33.6039" zpos="471.75"  type="missions_de_guilde.randonnees.acces" GUID="9ZRKvms0t0eNJJWiLFh4cQ=="/>
+			<POI MapID="32" xpos="352.031" ypos="35.0177" zpos="466.466" type="missions_de_guilde.randonnees.acces" GUID="BaAI+xwrPUWgrAtPVnPTFQ=="/>
+			<POI MapID="32" xpos="349.026" ypos="34.018"  zpos="456.824" type="missions_de_guilde.randonnees.acces" GUID="tcpE50x2MEy/+xecrYSf4w=="/>
+			<POI MapID="32" xpos="342.686" ypos="27.7118" zpos="436.401" type="missions_de_guilde.randonnees.acces" GUID="wBuGirXVxUmYboIMZXonIg=="/>
+			<POI MapID="32" xpos="324.499" ypos="26.3771" zpos="428.171" type="missions_de_guilde.randonnees.acces" GUID="90aR6fU/V0S0FkB9FUPBPw=="/>
+			<POI MapID="32" xpos="303.182" ypos="37.6283" zpos="417.078" type="missions_de_guilde.randonnees.acces" GUID="SEgVwzcui0CelWWGFSXajw=="/>
+			<POI MapID="32" xpos="291.955" ypos="42.7729" zpos="401.214" type="missions_de_guilde.randonnees.acces" GUID="jtlw+07a80WD2gwte8EAyA=="/>
+			<POI MapID="32" xpos="282.075" ypos="45.1807" zpos="377.213" type="missions_de_guilde.randonnees.acces" GUID="TYiqsRyx4km5/SNpEe29dw=="/>
+		</Route>
+
+		<!-- Mouillage de Covington -->
+		<POI MapID="73" xpos="-280.003" ypos="1.45626" zpos="182.296" type="missions_de_guilde.randonnees.c.mouillage_de_covington" GUID="m1m+/Zf5L0iM4lRiXK3wGA=="/>
+		<POI MapID="73" xpos="-175.35" ypos="2.22" zpos="88.22" type="missions_de_guilde.randonnees.acces" GUID="tGqFmQ7Fx0SdnIchS9AKeg==" iconFile="Img\FlecheAvancer.png"/>
+		<Route MapID="73" name="Acces" resetposx="-175.35" resetposy="2.22" resetposz="88.22" resetrange="2">
+			<POI MapID="73" xpos="-190.495" ypos="2.94472"   zpos="89.1282" type="missions_de_guilde.randonnees.acces" GUID="FrobwcrvO06v6AsxrrhXMA=="/>
+			<POI MapID="73" xpos="-229.923" ypos="-0.180111" zpos="88.8407" type="missions_de_guilde.randonnees.acces" GUID="42llLigBEkOS9dsAhi78GQ=="/>
+			<POI MapID="73" xpos="-266.934" ypos="3.46863"   zpos="94.0973" type="missions_de_guilde.randonnees.acces" GUID="p4YDq/B0FE2N81PUamEFqw=="/>
+			<POI MapID="73" xpos="-274.783" ypos="8.03282"   zpos="113.464" type="missions_de_guilde.randonnees.acces" GUID="10ev0cZhM0q3SMn6gGh9Ww=="/>
+			<POI MapID="73" xpos="-286.222" ypos="16.4506"   zpos="123.868" type="missions_de_guilde.randonnees.acces" GUID="c4ObcIEpC0K5oqnNQXY5Ig=="/>
+			<POI MapID="73" xpos="-301.237" ypos="21.9245"   zpos="125.959" type="missions_de_guilde.randonnees.acces" GUID="pCDoIEoyHEakOcJO4OAsBA=="/>
+			<POI MapID="73" xpos="-323.017" ypos="23.9542"   zpos="135.264" type="missions_de_guilde.randonnees.acces" GUID="3lrG7Bg5L02jtCtQmxLAew=="/>
+			<POI MapID="73" xpos="-331.75"  ypos="35.0094"   zpos="158.412" type="missions_de_guilde.randonnees.acces" GUID="jMwEJu0KeEK0ACH2+UBBZg=="/>
+			<POI MapID="73" xpos="-323.669" ypos="36.0543"   zpos="183.286" type="missions_de_guilde.randonnees.acces" GUID="opqPrW6sl0iF/Nq2AGwSiA=="/>
+			<POI MapID="73" xpos="-309.992" ypos="29.2167"   zpos="192.742" type="missions_de_guilde.randonnees.acces" GUID="UJS3N3zI7kufsWB0QR6pEA=="/>
+			<POI MapID="73" xpos="-297.2"   ypos="28.4906"   zpos="191.111" type="missions_de_guilde.randonnees.acces" GUID="kI35EjisN02MClsmzDg7+g=="/>
+			<POI MapID="73" xpos="-292.71"  ypos="25.5607"   zpos="186.97"  type="missions_de_guilde.randonnees.acces" GUID="NJF0U6JfT0eZJ4TOS7B2VA=="/>
+			<POI MapID="73" xpos="-290.463" ypos="25.7468"   zpos="180.891" type="missions_de_guilde.randonnees.acces" GUID="rrtM9doXkkigXMFx8CZaKA=="/>
+			<POI MapID="73" xpos="-287.096" ypos="16.6365"   zpos="192.396" type="missions_de_guilde.randonnees.acces" GUID="qLqjriZ73EeM1R9nn3yuwg=="/>
+			<POI MapID="73" xpos="-282.658" ypos="15.8538"   zpos="193.315" type="missions_de_guilde.randonnees.acces" GUID="P9YmoWFj8UODI/12YOgm5Q=="/>
+			<POI MapID="73" xpos="-287.289" ypos="15.8531"   zpos="178.551" type="missions_de_guilde.randonnees.acces" GUID="KOOLD6KS3EOGTEY0eOQVlw=="/>
+			<POI MapID="73" xpos="-290.757" ypos="15.8486"   zpos="179.658" type="missions_de_guilde.randonnees.acces" GUID="5dpqL555W02r7lKlRBWd6g=="/>
+			<POI MapID="73" xpos="-286.998" ypos="5.99883"   zpos="193.333" type="missions_de_guilde.randonnees.acces" GUID="KhOmapNakkyosqdLc2UiOg=="/>
+			<POI MapID="73" xpos="-283.036" ypos="6.01522"   zpos="205.728" type="missions_de_guilde.randonnees.acces" GUID="xfymy/Vhx06mViNe4HFm2w=="/>
+			<POI MapID="73" xpos="-272.359" ypos="1.71864"   zpos="211.687" type="missions_de_guilde.randonnees.acces" GUID="X2RUJDtsbkShwYobyGNw3Q=="/>
+		</Route>
+
+		<!-- Mouillage du Capitaine -->
+		<POI MapID="65" xpos="-999.642" ypos="-70.2624" zpos="-20.6241" type="missions_de_guilde.randonnees.c.mouillage_du_capitaine" GUID="zYRASJiCREa68arWWmyNuQ=="/>
+
+		<!-- Mur d'Enceinte de Claypool -->
+		<POI MapID="15" xpos="-494.467" ypos="48.6741" zpos="-399.948" type="missions_de_guilde.randonnees.c.mur_d_enceinte_de_claypool" GUID="haWtHT8aBUCW4uDOzF8I4A=="/>
+
+		<!-- Nid d'Araignée Cavernicole -->
+		<POI MapID="27" xpos="336.938" ypos="186.39" zpos="834.341" type="missions_de_guilde.randonnees.c.nid_d_araignee_cavernicole" GUID="gEEBRRqgBkqO7ZpuAEHvew=="/>
+
+		<!-- Nid du Raptor -->
+		<POI MapID="25" xpos="-16.2761" ypos="62.0897" zpos="228.068" type="missions_de_guilde.randonnees.r.nid_du_raptor" GUID="Mbgm8EPKOUC5vjR8l5Zb3A=="/>
+
+		<!-- Objets Trouvés de l'Autorité du Port -->
+		<POI MapID="139" xpos="-304.059" ypos="37.1158" zpos="-492.346" type="missions_de_guilde.randonnees.p.objets_trouves_de_l_autorite_du_port" GUID="h/DpC9CtqE69wwNyi1XR9A=="/>
+
+		<!-- Oeil du Scorpion des Mers -->
+		<POI MapID="62" xpos="-485.925" ypos="-207.195" zpos="-54.0959" type="missions_de_guilde.randonnees.s.oeil_du_scorpion_des_mers" GUID="OvojEOqUjE2oNvwPULVxgg=="/>
+
+		<!-- Oeuvre d'Heidi -->
+		<POI MapID="17" xpos="-758.417" ypos="19.266" zpos="401.932" type="missions_de_guilde.randonnees.h.oeuvre_d_heidi" GUID="ptxTeaY2REarIzbgrxXqxw=="/>
+
+		<!-- Paddock du Moa Vert -->
+		<POI MapID="34" xpos="-61.7396" ypos="61.6551" zpos="511.409" type="missions_de_guilde.randonnees.g.paddock_du_moa_vert" GUID="wDhNyGyjA0G39jTO1P4Xww=="/>
+
+		<!-- Palan Charmine -->
+		<POI MapID="22" xpos="362.715" ypos="59.6487" zpos="-603.312" type="missions_de_guilde.randonnees.o.palan_charmine" GUID="PZTlDy+yUkepH7wIsZwvUQ=="/>
+
+		<!-- Panorama de Phasmatis -->
+		<POI MapID="19" xpos="580.319" ypos="42.4835" zpos="1.83102" type="missions_de_guilde.randonnees.p.panorama_de_phasmatis" GUID="2HcIzkvK4UqCJN+2SOU/AQ=="/>
+		<POI MapID="19" xpos="663.36" ypos="4.56862" zpos="-31.5935" type="missions_de_guilde.randonnees.acces" GUID="4NKSAzUbWEi1zR7nvFTpsg==" iconFile="Img\FlecheAvancer.png"/>
+		<Route MapID="19" name="Acces" resetposx="663.36" resetposy="4.56862" resetposz="-31.5935" resetrange="2">
+			<POI MapID="19" xpos="674.787" ypos="12.2655" zpos="-38.8139" type="missions_de_guilde.randonnees.acces" GUID="gSVMgQYzcUuZ3Dvnw9fBNQ=="/>
+			<POI MapID="19" xpos="678.301" ypos="19.0135" zpos="-51.2793" type="missions_de_guilde.randonnees.acces" GUID="kNj8Awo38Uaco5YZaURmBQ=="/>
+			<POI MapID="19" xpos="669.077" ypos="23.818"  zpos="-66.0682" type="missions_de_guilde.randonnees.acces" GUID="+g3NsFscLEGXlmjNn5ZEfg=="/>
+			<POI MapID="19" xpos="655.843" ypos="26.2008" zpos="-72.8822" type="missions_de_guilde.randonnees.acces" GUID="UIqU42S0DESd48n3k6yI7A=="/>
+			<POI MapID="19" xpos="643.497" ypos="26.3067" zpos="-72.3963" type="missions_de_guilde.randonnees.acces" GUID="FTa03NPZcEqALm4kJ1KayQ=="/>
+			<POI MapID="19" xpos="626.484" ypos="25.3312" zpos="-73.352"  type="missions_de_guilde.randonnees.acces" GUID="RF86x5f24kC5o66MdG+vUA=="/>
+			<POI MapID="19" xpos="602.377" ypos="28.8867" zpos="-63.9817" type="missions_de_guilde.randonnees.acces" GUID="KC8cb3M9vUOb7pDc4lvW1w=="/>
+			<POI MapID="19" xpos="592.658" ypos="33.2503" zpos="-51.5234" type="missions_de_guilde.randonnees.acces" GUID="H1Tr1M7hHEyJTpygy1t8Zg=="/>
+			<POI MapID="19" xpos="588.054" ypos="40.0158" zpos="-36.0721" type="missions_de_guilde.randonnees.acces" GUID="VXM7J50ujEGPFRWDmlzj1w=="/>
+			<POI MapID="19" xpos="584.349" ypos="41.6443" zpos="-20.6054" type="missions_de_guilde.randonnees.acces" GUID="Rr/AE+7TXUesuhVno5PP7w=="/>
+		</Route>
+
+		<!-- Parapet des Constellations -->
+		<POI MapID="91" xpos="19.0359" ypos="58.0329" zpos="-109.274" type="missions_de_guilde.randonnees.c.parapet_des_constellations" GUID="WfrBCOhdsEykV7T+lBIJKg=="/>
+
+		<!-- Pas de Tir de Mina -->
+		<POI MapID="18" xpos="17.3116" ypos="70.8011" zpos="-309.036" type="missions_de_guilde.randonnees.m.pas_de_tir_de_mina" GUID="6kDBUD99ME2Yuj9z3ccbCg=="/>
+
+		<!-- Pavillon de Grenth -->
+		<POI MapID="18" xpos="5.25979" ypos="61.5433" zpos="343.386" type="missions_de_guilde.randonnees.g.pavillon_de_grenth" GUID="RGXGkmmgg0i333ZXZQZLTw=="/>
+
+		<!-- Pavillon du Seigneur -->
+		<POI MapID="23" xpos="-1102.75" ypos="42.6205" zpos="26.4369" type="missions_de_guilde.randonnees.o.pavillon_du_seigneur" GUID="zERbpJbj2ky1dkdD8uJwzw=="/>
+
+		<!-- Perchoir Tubavapeur -->
+		<POI MapID="873" xpos="185.741" ypos="84.2232" zpos="-12.1583" type="missions_de_guilde.randonnees.s.perchoir_tubavapeur" GUID="ZOvFlT8QAUq8fHBxhmYDAQ=="/>
+
+		<!-- Perchoir de Raptor -->
+		<POI MapID="24" xpos="961.597" ypos="65.5762" zpos="483.64" type="missions_de_guilde.randonnees.r.perchoir_de_raptor" GUID="cGRzn21BQE+ufH0OUfkrsQ=="/>
+
+		<!-- Perchoir de l'Ermite -->
+		<POI MapID="21" xpos="628.479" ypos="65.1608" zpos="700.889" type="missions_de_guilde.randonnees.h.perchoir_de_l_ermite" GUID="obXmpvMuP0+qI3X2U3LIwA=="/>
+		<POI MapID="21" xpos="462.133" ypos="6.75654" zpos="744.909" type="missions_de_guilde.randonnees.acces" GUID="kl3P+K/lh0yY2p8C2g/Ocw==" iconFile="Img\FlecheAvancer.png"/>
+		<Route MapID="21" name="Acces" resetposx="462.133" resetposy="6.75654" resetposz="744.909" resetrange="2">
+			<POI MapID="21" xpos="451.534" ypos="12.9441" zpos="749.177" type="missions_de_guilde.randonnees.acces" GUID="XE2D2wu6YkWwCNFERZCceQ=="/>
+			<POI MapID="21" xpos="453.735" ypos="16.2009" zpos="756.198" type="missions_de_guilde.randonnees.acces" GUID="mGm+6L1ctUCfDrZhfm4QvQ=="/>
+			<POI MapID="21" xpos="460.177" ypos="19.3934" zpos="753.991" type="missions_de_guilde.randonnees.acces" GUID="fbJ1uIG3p0KHC+frBb4Szw=="/>
+			<POI MapID="21" xpos="464.573" ypos="18.496"  zpos="767.101" type="missions_de_guilde.randonnees.acces" GUID="2gdj87dgFUKmxZl2VUdUZQ=="/>
+			<POI MapID="21" xpos="470.186" ypos="18.5969" zpos="774.9"   type="missions_de_guilde.randonnees.acces" GUID="aGA/jDlzi0+FxQ4Rbi3Udg=="/>
+			<POI MapID="21" xpos="482.546" ypos="19.7504" zpos="780.907" type="missions_de_guilde.randonnees.acces" GUID="ezBNFAZLq0W6C4ityl7dpA=="/>
+			<POI MapID="21" xpos="494.528" ypos="21.8112" zpos="782.821" type="missions_de_guilde.randonnees.acces" GUID="uih8rspLYUKZGTetqC8yUQ=="/>
+			<POI MapID="21" xpos="506.09"  ypos="23.081"  zpos="788.784" type="missions_de_guilde.randonnees.acces" GUID="BSWaqOfJ70m1JYbfspJE3Q=="/>
+			<POI MapID="21" xpos="520.903" ypos="24.7483" zpos="801.576" type="missions_de_guilde.randonnees.acces" GUID="Ru1vuaCqHUOOAyDE7G2WFw=="/>
+			<POI MapID="21" xpos="533.549" ypos="17.6668" zpos="801.96"  type="missions_de_guilde.randonnees.acces" GUID="E+iCMbC7LkGALR1ZeJlX8Q=="/>
+			<POI MapID="21" xpos="539.57"  ypos="19.5867" zpos="800.238" type="missions_de_guilde.randonnees.acces" GUID="U/s8aeZGfESyg20KY6U0fQ=="/>
+			<POI MapID="21" xpos="544.794" ypos="20.5041" zpos="795.772" type="missions_de_guilde.randonnees.acces" GUID="mNEmyXdUdUG/qvXoKEfoGg=="/>
+			<POI MapID="21" xpos="552.863" ypos="15.848"  zpos="797.612" type="missions_de_guilde.randonnees.acces" GUID="GMK3EPibZ0u8DuiGktMUSA=="/>
+			<POI MapID="21" xpos="557.793" ypos="17.1253" zpos="796.81"  type="missions_de_guilde.randonnees.acces" GUID="e4wIGlrlaESgjdyKzXlqiw=="/>
+			<POI MapID="21" xpos="559.861" ypos="18.9793" zpos="798.692" type="missions_de_guilde.randonnees.acces" GUID="w8VNNTa3nE+KCWz8WIOGuA=="/>
+			<POI MapID="21" xpos="562.473" ypos="19.414"  zpos="804.139" type="missions_de_guilde.randonnees.acces" GUID="l1rBw2Cl8Emc0ro+RmE7QA=="/>
+			<POI MapID="21" xpos="565.115" ypos="21.1638" zpos="806.256" type="missions_de_guilde.randonnees.acces" GUID="ToDh7+iUOkWt+YA39zJQFw=="/>
+			<POI MapID="21" xpos="572.275" ypos="20.215"  zpos="809.805" type="missions_de_guilde.randonnees.acces" GUID="zPZGGnCYRE65bKPL2vxHfQ=="/>
+			<POI MapID="21" xpos="578.897" ypos="23.8751" zpos="812.975" type="missions_de_guilde.randonnees.acces" GUID="tr+1WXOw1k6e9m8mWjNc/w=="/>
+			<POI MapID="21" xpos="590.51"  ypos="33.3016" zpos="811.115" type="missions_de_guilde.randonnees.acces" GUID="XIG8Z/ewDkGBCYFQpktWgg=="/>
+			<POI MapID="21" xpos="594.989" ypos="38.8517" zpos="797.285" type="missions_de_guilde.randonnees.acces" GUID="ij9euIbi5UCkmBo15XWCMA=="/>
+			<POI MapID="21" xpos="597.408" ypos="45.1026" zpos="785.783" type="missions_de_guilde.randonnees.acces" GUID="0vjjIdMWr0uoi7cWkT+ZrQ=="/>
+			<POI MapID="21" xpos="601.359" ypos="50.4595" zpos="772.967" type="missions_de_guilde.randonnees.acces" GUID="q8wEotghd0WElTP0VtJ4Dg=="/>
+			<POI MapID="21" xpos="606.244" ypos="58.3217" zpos="759.014" type="missions_de_guilde.randonnees.acces" GUID="rU+T/3g7AU2WW33M+jVgsA=="/>
+			<POI MapID="21" xpos="610.224" ypos="61.1197" zpos="745.025" type="missions_de_guilde.randonnees.acces" GUID="11oyjRhHFkmUz9+nti5MCg=="/>
+			<POI MapID="21" xpos="615.648" ypos="60.767"  zpos="731.976" type="missions_de_guilde.randonnees.acces" GUID="xdpeqpmNE0uTU+2H0MSZqQ=="/>
+			<POI MapID="21" xpos="622.742" ypos="61.7139" zpos="719.347" type="missions_de_guilde.randonnees.acces" GUID="y1FZKmGwDU+jUbG4NJyUlA=="/>
+			<POI MapID="21" xpos="626.995" ypos="63.4269" zpos="709.714" type="missions_de_guilde.randonnees.acces" GUID="0NJq932k80+1Dt5RXX7WQQ=="/>
+		</Route>
+
+		<!-- Perchoir d'Oeil-de-Faucon -->
+		<POI MapID="29" xpos="27.2789" ypos="54.896" zpos="-612.503" type="missions_de_guilde.randonnees.h.perchoir_d_oeil_de_faucon" GUID="zI3yH9WHQUOhcQYKcO2B4w=="/>
+
+		<!-- Pergola d'Aubeluit -->
+		<POI MapID="91" xpos="10.4606" ypos="1.56024" zpos="214.325" type="missions_de_guilde.randonnees.d.pergola_d_aubeluit" GUID="lKm3HZUYEE2ZvKHXmoXA1w=="/>
+		<POI MapID="91" xpos="-25.2323" ypos="-0.125174" zpos="143.791" type="missions_de_guilde.randonnees.acces" GUID="Km5CDLIXDUC9Uf+nMteRvQ==" iconFile="Img\FlecheAvancer.png"/>
+		<Route MapID="91" name="Acces" resetposx="-25.2323" resetposy="-0.125174" resetposz="143.791" resetrange="2">
+			<POI MapID="91" xpos="-26.0496" ypos="-4.48638"  zpos="158.979" type="missions_de_guilde.randonnees.acces" GUID="CeTvL/ooW0Wq8G0rf1I8Fg=="/>
+			<POI MapID="91" xpos="-27.0972" ypos="-5.64632"  zpos="175.511" type="missions_de_guilde.randonnees.acces" GUID="oNrZdlcpNk2iiIQmEurfrg=="/>
+			<POI MapID="91" xpos="-22.3335" ypos="-0.485189" zpos="187.295" type="missions_de_guilde.randonnees.acces" GUID="ZXQOQCI8GEKaRerB8LuduQ=="/>
+			<POI MapID="91" xpos="-11.271"  ypos="0.149646"  zpos="196.867" type="missions_de_guilde.randonnees.acces" GUID="2RBcfR+W7Ei39fxyS1JyBg=="/>
+			<POI MapID="91" xpos="-2.74118" ypos="0.175471"  zpos="204.29"  type="missions_de_guilde.randonnees.acces" GUID="nVVDMUSUwUKyw7U5xUQMWA=="/>
+		</Route>
+
+		<!-- Pic du Béliervédère -->
+		<POI MapID="26" xpos="-181.216" ypos="115.653" zpos="796.389" type="missions_de_guilde.randonnees.r.pic_du_beliervedere" GUID="W1mMhx/dF0aCyr9hqTSsYQ=="/>
+		<POI MapID="26" xpos="-275.992" ypos="58.8498" zpos="740.373" type="missions_de_guilde.randonnees.acces" GUID="aFD6JKCpsEq6QvvY/lpBwA==" iconFile="Img\FlecheAvancer.png"/>
+		<Route MapID="26" name="Acces" resetposx="-275.992" resetposy="58.8498" resetposz="740.373" resetrange="2">
+			<POI MapID="26" xpos="-267.059" ypos="59.4286" zpos="740.451" type="missions_de_guilde.randonnees.acces" GUID="EAJOJlL2WU+RBJhSJhfgXQ=="/>
+			<POI MapID="26" xpos="-255.549" ypos="60.3768" zpos="740.513" type="missions_de_guilde.randonnees.acces" GUID="/Me/kDbOO0mHEn+WcljFig=="/>
+			<POI MapID="26" xpos="-242.486" ypos="63.2981" zpos="741.044" type="missions_de_guilde.randonnees.acces" GUID="ui/nDVTCb0GkFTVcRUgCMw=="/>
+			<POI MapID="26" xpos="-228.114" ypos="68.604"  zpos="742.523" type="missions_de_guilde.randonnees.acces" GUID="xbIz8I0J+0CmO5pv28kjVQ=="/>
+			<POI MapID="26" xpos="-221.372" ypos="74.1814" zpos="744.657" type="missions_de_guilde.randonnees.acces" GUID="neSiPhNhSECeQNjq+JxWKw=="/>
+			<POI MapID="26" xpos="-217.61"  ypos="76.756"  zpos="746.602" type="missions_de_guilde.randonnees.acces" GUID="3qc0qH3Svk24AQs1EsctzA=="/>
+			<POI MapID="26" xpos="-213.068" ypos="84.5767" zpos="753.449" type="missions_de_guilde.randonnees.acces" GUID="qoSZt+UwHUGw6ST7FFoLFg=="/>
+			<POI MapID="26" xpos="-208.823" ypos="88.1286" zpos="750.383" type="missions_de_guilde.randonnees.acces" GUID="HsLWr+a8VEKYTn2NgNepcg=="/>
+			<POI MapID="26" xpos="-210.115" ypos="91.7747" zpos="760.527" type="missions_de_guilde.randonnees.acces" GUID="yJFPLAoXcUOmSKzi9689Tw=="/>
+			<POI MapID="26" xpos="-212.376" ypos="95.7032" zpos="770.034" type="missions_de_guilde.randonnees.acces" GUID="87Tm6BFGcUaoVFsbSL/10A=="/>
+			<POI MapID="26" xpos="-212.086" ypos="100.858" zpos="780.753" type="missions_de_guilde.randonnees.acces" GUID="s49XARkuXUGPL3gdH6JQDQ=="/>
+			<POI MapID="26" xpos="-208.611" ypos="106.97"  zpos="790.81"  type="missions_de_guilde.randonnees.acces" GUID="7lAsiJ+ANE6eDWBVzJkgzQ=="/>
+			<POI MapID="26" xpos="-204.836" ypos="111.846" zpos="797.801" type="missions_de_guilde.randonnees.acces" GUID="pfMjc+fgH0iXfBBVc3dHHQ=="/>
+			<POI MapID="26" xpos="-181.216" ypos="115.653" zpos="796.389" type="missions_de_guilde.randonnees" GUID="W1mMhx/dF0aCyr9hqTSsYQ=="/>
+		</Route>
+
+		<!-- Place Engloutie -->
+		<POI MapID="51" xpos="-386.6" ypos="-116.49" zpos="656.099" type="missions_de_guilde.randonnees.d.place_engloutie" GUID="Qvii8eXb2UeymHwUKXIUXA=="/>
+
+		<!-- Plage Nécrolithe -->
+		<POI MapID="91" xpos="33.1203" ypos="72.9539" zpos="284.901" type="missions_de_guilde.randonnees.n.plage_necrolithe" GUID="3fywxQEa/UWTLS4ZXHbEeg=="/>
+
+		<!-- Planche à Dessin de Tekki -->
+		<POI MapID="54" xpos="-276.284" ypos="18.1639" zpos="-113.528" type="missions_de_guilde.randonnees.t.planche_a_dessin_de_tekki" GUID="8jvrSwciaEmyOGr5lxJhNQ=="/>
+
+		<!-- Plateau de Krallcamden -->
+		<POI MapID="19" xpos="1140.63" ypos="41.8412" zpos="66.9592" type="missions_de_guilde.randonnees.c.plateau_de_krallcamden" GUID="fXDi9A4V0EGBX4mvWJU7qQ=="/>
+		<POI MapID="19" xpos="1099.2" ypos="22.454" zpos="62.8402" type="missions_de_guilde.randonnees.acces" GUID="7In3CWCbdEedvDywxfE7Aw==" iconFile="Img\FlecheAvancer.png"/>
+		<Route MapID="19" name="Acces" resetposx="1099.2" resetposy="22.454" resetposz="62.8402" resetrange="2">
+			<POI MapID="19" xpos="1102.05" ypos="26.1651" zpos="53.5533" type="missions_de_guilde.randonnees.acces" GUID="ZbrAwvr6JE2VnnzCu6/6bQ=="/>
+			<POI MapID="19" xpos="1107.31" ypos="31.4656" zpos="46.2247" type="missions_de_guilde.randonnees.acces" GUID="YDHqUBdym0CS1qtNC37uIA=="/>
+			<POI MapID="19" xpos="1119.74" ypos="36.1775" zpos="50.926"  type="missions_de_guilde.randonnees.acces" GUID="WPSjgf2dIk2K+rybH1Pmdg=="/>
+		</Route>
+
+		<!-- Plongeur Facebourbié -->
+		<POI MapID="39" xpos="177.133" ypos="3.61577" zpos="-3.6774" type="missions_de_guilde.randonnees.d.plongeur_facebourbie" GUID="Yvv0Tk8NrES1lQQ7flrqDw=="/>
+
+		<!-- Poche de Diablotin de Feu -->
+		<POI MapID="39" xpos="-322.898" ypos="6.44595" zpos="-329.989" type="missions_de_guilde.randonnees.f.poche_de_diablotin_de_feu" GUID="UN/hvqZ9yUmRJ4r9qPj6aQ=="/>
+
+		<!-- Point de Vue de Dockfer -->
+		<POI MapID="19" xpos="790.331" ypos="43.061" zpos="-66.1724" type="missions_de_guilde.randonnees.i.point_de_vue_de_dockfer" GUID="rrxhQpbMqk6pvmzbjCtv4Q=="/>
+		<POI MapID="19" xpos="844.17" ypos="27.1269" zpos="-39.5656" type="missions_de_guilde.randonnees.acces" GUID="NmrXjCIdnkeiGgw2M9osJA==" iconFile="Img\FlecheAvancer.png"/>
+		<Route MapID="19" name="Acces" resetposx="844.17" resetposy="27.1269" resetposz="-39.5656" resetrange="2">
+			<POI MapID="19" xpos="849.737" ypos="35.0465" zpos="-57.7323" type="missions_de_guilde.randonnees.acces" GUID="DjxwZQ4NuUqjRalt+TgaHg=="/>
+			<POI MapID="19" xpos="863.847" ypos="37.8113" zpos="-75.2562" type="missions_de_guilde.randonnees.acces" GUID="q1pEs3CWjkakBgbPucnvqw=="/>
+			<POI MapID="19" xpos="862.477" ypos="40.8921" zpos="-79.7443" type="missions_de_guilde.randonnees.acces" GUID="O2L7z0NWUUCGJwJZ9gr7XA=="/>
+			<POI MapID="19" xpos="856.833" ypos="43.1082" zpos="-79.491"  type="missions_de_guilde.randonnees.acces" GUID="KR5pMTVWaEKq29+xXhhehg=="/>
+			<POI MapID="19" xpos="852.747" ypos="45.2108" zpos="-79.2586" type="missions_de_guilde.randonnees.acces" GUID="Ijrwitjaj0aXTeiMLCVm+A=="/>
+			<POI MapID="19" xpos="846.937" ypos="47.6757" zpos="-79.6246" type="missions_de_guilde.randonnees.acces" GUID="emU3dwplTEKjnlT/cKzmBA=="/>
+			<POI MapID="19" xpos="790.331" ypos="43.061"  zpos="-66.1724" type="missions_de_guilde.randonnees" GUID="rrxhQpbMqk6pvmzbjCtv4Q=="/>
+		</Route>
+
+		<!-- Point de Vue de Gnashar -->
+		<POI MapID="54" xpos="592.564" ypos="150.304" zpos="717.066" type="missions_de_guilde.randonnees.g.point_de_vue_de_gnashar" GUID="Tk730djG+USGK/9yahhbuA=="/>
+		<POI MapID="54" xpos="573.694" ypos="119.249" zpos="676.708" type="missions_de_guilde.randonnees.acces" GUID="Xyf7IGwi4Eib6e5k+pF//w==" iconFile="Img\FlecheAvancer.png"/>
+		<Route MapID="54" name="Acces" resetposx="573.694" resetposy="119.249" resetposz="676.708" resetrange="2">
+			<POI MapID="54" xpos="576.602" ypos="131.808" zpos="690.484" type="missions_de_guilde.randonnees.acces" GUID="55YTuVzBiEKR13LwM8QWxQ=="/>
+			<POI MapID="54" xpos="582.401" ypos="146.04"  zpos="701.527" type="missions_de_guilde.randonnees.acces" GUID="mpp570iToE+5WK2UUwdoVA=="/>
+		</Route>
+
+		<!-- Point de Vue de Rurik -->
+		<POI MapID="18" xpos="486.802" ypos="93.5679" zpos="46.1458" type="missions_de_guilde.randonnees.r.point_de_vue_de_rurik" GUID="4h20mXsqkUmufbSv5cYUBQ=="/>
+
+		<!-- Point de Vue d'Isgarren -->
+		<POI MapID="23" xpos="1208.75" ypos="32.8113" zpos="-439.842" type="missions_de_guilde.randonnees.i.point_de_vue_d_isgarren" GUID="yLgJ0gR8hUiOrQVwIr4afw=="/>
+
+		<!-- Pont de Guet-du-Feu -->
+		<POI MapID="25" xpos="-84.8181" ypos="20.1767" zpos="588.624" type="missions_de_guilde.randonnees.f.pont_de_guet_du_feu" GUID="m5hTlrSlSUSXYDx/0tAlmQ=="/>
+
+		<!-- Porche de Fawcett -->
+		<POI MapID="17" xpos="-696.564" ypos="8.85941" zpos="811.358" type="missions_de_guilde.randonnees.f.porche_de_fawcett" GUID="cd0D0YRJK0yv67u3alHZTA=="/>
+
+		<!-- Porte de Droknah -->
+		<POI MapID="39" xpos="772.292" ypos="-41.5928" zpos="120.744" type="missions_de_guilde.randonnees.d.porte_de_droknah" GUID="8Jox4GUwoUOhk4ZQ2OQrrg=="/>
+
+		<!-- Porte de Wikk -->
+		<POI MapID="29" xpos="-566.534" ypos="29.2278" zpos="138.23" type="missions_de_guilde.randonnees.w.porte_de_wikk" GUID="lLBtrUFD402ZbGFlAN3oqQ=="/>
+
+		<!-- Port Extérieur du Vizir -->
+		<POI MapID="51" xpos="194.57" ypos="24.4445" zpos="-310.521" type="missions_de_guilde.randonnees.v.port_exterieur_du_vizir" GUID="jHmKTEMNUk2xvslIA2XGHw=="/>
+
+		<!-- Portique de Rata Pten -->
+		<POI MapID="39" xpos="-1071.95" ypos="61.7236" zpos="223.58" type="missions_de_guilde.randonnees.r.portique_de_rata_pten" GUID="debj5GuD80KezKJKSKZ8zA=="/>
+
+		<!-- Poste de vigie de Décimus -->
+		<POI MapID="19" xpos="-775.038" ypos="63.8541" zpos="-444.021" type="missions_de_guilde.randonnees.w.poste_de_vigie_de_decimus" GUID="08dDX0ol3kOGkl+KEZklqQ=="/>
+
+		<!-- Préfecture de Lychcroft -->
+		<POI MapID="23" xpos="-815.385" ypos="27.7328" zpos="-580" type="missions_de_guilde.randonnees.l.prefecture_de_lychcroft" GUID="Z2SvxEICVUeJg+9wfuyjiA=="/>
+
+		<!-- Prison de Taupvaquie -->
+		<POI MapID="28" xpos="-438.624" ypos="98.8201" zpos="441.116" type="missions_de_guilde.randonnees.m.prison_de_taupvaquie" GUID="FiADZ4XzO0yoPMeWbH3nAA=="/>
+
+		<!-- Promontoire de Portmatt -->
+		<POI MapID="73" xpos="-423.052" ypos="9.9065"   zpos="605.094" type="missions_de_guilde.randonnees.p.promontoire_de_portmatt" GUID="Z/2REyn9hUyn6f+7xy7mCw=="/>
+		<POI MapID="73" xpos="-402"     ypos="-69"      zpos="683.5"   type="missions_de_guilde.randonnees.acces" GUID="L/ecFd5ID0uNHXn2MqtOuA==" iconFile="Img\FlecheAvancer.png"/>
+		<POI MapID="73" xpos="-402"     ypos="-68"      zpos="683.5"   type="missions_de_guilde.randonnees.acces" GUID="9HgEgzGKjkuWg7pSkK8uog==" iconFile="Img\GuildeRando.png" iconSize="1"/>
+		<POI MapID="73" xpos="-490.869" ypos="-132.055" zpos="726.424" type="missions_de_guilde.randonnees.acces" GUID="H4ALR9KS+UW6o0pYAYBpUw==" iconFile="Img\1.png" iconSize="1"/>
+		<POI MapID="73" xpos="-487.21"  ypos="-137.515" zpos="742.466" type="missions_de_guilde.randonnees.acces" GUID="Ve9AHCJCR0OjpMuv0L6VMg==" iconFile="Img\2.png" iconSize="1"/>
+		<POI MapID="73" xpos="-488.914" ypos="-137.503" zpos="741.223" type="missions_de_guilde.randonnees.acces" GUID="mtu5ncgRK0mqNYtioc++EA==" iconFile="Img\PuzzlePortmattConsole1-EN.png" iconSize="1.5" alpha="0.5"/>
+		<POI MapID="73" xpos="-477.986" ypos="-137.938" zpos="760.449" type="missions_de_guilde.randonnees.acces" GUID="zwiO0OO+y02mZDr2ap97qQ==" iconFile="Img\3.png" iconSize="1"/>
+		<POI MapID="73" xpos="-475.185" ypos="-136.024" zpos="757.523" type="missions_de_guilde.randonnees.acces" GUID="WwuX3S7iQU2J8xrQ+E3QJw==" iconFile="Img\PuzzlePortmattConsole2-EN.png" iconSize="2" alpha="0.5"/>
+
+		<!-- Quai de Lestepied -->
+		<POI MapID="51" xpos="852.275" ypos="2.56563" zpos="-321.8" type="missions_de_guilde.randonnees.l.quai_de_lestepied" GUID="7XTVlynmWkuH06Jy6T8QJQ=="/>
+
+		<!-- Recoin du Scriptorium -->
+		<POI MapID="218" xpos="223.006" ypos="133.386" zpos="525.302" type="missions_de_guilde.randonnees.s.recoin_du_scriptorium" GUID="I1n7dPO0bkG01daNQU00UQ=="/>
+
+		<!-- Recoin du Corbeau -->
+		<POI MapID="326" xpos="355.885" ypos="275.72" zpos="328.727" type="missions_de_guilde.randonnees.r.recoin_du_corbeau" GUID="eqPZIQQVvUGP5+bJNW10iA=="/>
+
+		<!-- Recoin Lapidaire de Flakk -->
+		<POI MapID="139" xpos="-55.6056" ypos="364.737" zpos="252.783" type="missions_de_guilde.randonnees.f.recoin_lapidaire_de_flakk" GUID="gxaac9bBe0eOOQveZnVWMQ=="/>
+
+		<!-- Refuge d'Antreneige -->
+		<POI MapID="31" xpos="-330.037" ypos="37.715" zpos="-52.3314" type="missions_de_guilde.randonnees.s.refuge_d_antreneige" GUID="TzXvks6mIUyufb/8RykiMQ=="/>
+
+		<!-- Refuge de Siamouth -->
+		<POI MapID="53" xpos="593.972" ypos="33.2732" zpos="-873.417" type="missions_de_guilde.randonnees.s.refuge_de_siamouth" GUID="mDFaJoMc90KtWltVoXO+3g=="/>
+		<POI MapID="53" xpos="475.245" ypos="25.4951" zpos="-849.463" type="missions_de_guilde.randonnees.acces" GUID="A0xITwOTa0iXadr0q23Maw==" iconFile="Img\FlecheAvancer.png"/>
+		<Route MapID="53" name="Acces" resetposx="475.245" resetposy="25.4951" resetposz="-849.463" resetrange="2">
+			<POI MapID="53" xpos="495.84"  ypos="27.3311" zpos="-855.029" type="missions_de_guilde.randonnees.acces" GUID="R+rKOdHkB0O6h9aGrAvy/g=="/>
+			<POI MapID="53" xpos="511.243" ypos="28.0025" zpos="-857.496" type="missions_de_guilde.randonnees.acces" GUID="YONX4y2uy0eMi1fs36wb6A=="/>
+			<POI MapID="53" xpos="518.438" ypos="31.0044" zpos="-869.885" type="missions_de_guilde.randonnees.acces" GUID="MN1uB+UE8kCkNBjkMOQZzA=="/>
+			<POI MapID="53" xpos="523.022" ypos="31.411"  zpos="-887.869" type="missions_de_guilde.randonnees.acces" GUID="eRYo3ip+0Umv75yyGHSYtA=="/>
+			<POI MapID="53" xpos="532.395" ypos="30.3502" zpos="-902.924" type="missions_de_guilde.randonnees.acces" GUID="woHQB/5zA0KljX0o6JlT9g=="/>
+			<POI MapID="53" xpos="547.021" ypos="28.3521" zpos="-910.091" type="missions_de_guilde.randonnees.acces" GUID="Dt7XG4KJwUCgwivZ+Z+Iew=="/>
+			<POI MapID="53" xpos="563.819" ypos="26.9611" zpos="-911.624" type="missions_de_guilde.randonnees.acces" GUID="m8GvM6v3qk63y+u9/+lYuw=="/>
+			<POI MapID="53" xpos="580.18"  ypos="27.7334" zpos="-904.535" type="missions_de_guilde.randonnees.acces" GUID="uVKwzUmjek21dCcGCbBWHg=="/>
+			<POI MapID="53" xpos="590.103" ypos="29.7457" zpos="-892.181" type="missions_de_guilde.randonnees.acces" GUID="d9sYZSsSEEGl6GDUldceNQ=="/>
+		</Route>
+
+		<!-- Refuge du Stentor -->
+		<POI MapID="51" xpos="70.1053" ypos="7.02538" zpos="627.657" type="missions_de_guilde.randonnees.s.refuge_du_stentor" GUID="nknXX85HLEmp6T7P9ZFBkg=="/>
+
+		<!-- Refuge Percebul -->
+		<POI MapID="20" xpos="-319.265" ypos="8.04421" zpos="-794.434" type="missions_de_guilde.randonnees.b.refuge_percebul" GUID="I1QwL2kOcU+hPEIcg06GeQ=="/>
+
+		<!-- Repaire de Soufflettin -->
+		<POI MapID="27" xpos="-169.112" ypos="93.5619" zpos="-1325.8" type="missions_de_guilde.randonnees.e.repaire_de_soufflettin" GUID="m+ycHEimZ0SJIWYbioJPAA=="/>
+
+		<!-- Repaire de l'Arctodus -->
+		<POI MapID="28" xpos="501.308" ypos="75.4468" zpos="185.225" type="missions_de_guilde.randonnees.a.repaire_de_l_arctodus" GUID="PJQHD11dzUGNdy0vP2gLQA=="/>
+
+		<!-- Repère de l'Autel du Ruisseau -->
+		<POI MapID="15" xpos="-377.13" ypos="15.8007" zpos="27.7133" type="missions_de_guilde.randonnees.a.repere_de_l_autel_du_ruisseau" GUID="mgehGp1uZkuBwdXloB/s5g=="/>
+
+		<!-- Repli Stratégique -->
+		<POI MapID="62" xpos="500.452" ypos="36.4588" zpos="-803.605" type="missions_de_guilde.randonnees.t.repli_strategique" GUID="hVLTfH8b5EaaZ2FczFCwyA=="/>
+		<POI MapID="62" xpos="434.828" ypos="15.1755" zpos="-847.471" type="missions_de_guilde.randonnees.acces" GUID="7JROG3rvm0SWl6xymjKnsw==" iconFile="Img\FlecheAvancer.png"/>
+		<Route MapID="62" name="Acces" resetposx="434.828" resetposy="15.1755" resetposz="-847.471" resetrange="2">
+			<POI MapID="62" xpos="438.16"  ypos="15.9707" zpos="-838.377" type="missions_de_guilde.randonnees.acces" GUID="MZJig5JsBk2XJJ03oCcaXg=="/>
+			<POI MapID="62" xpos="442.047" ypos="17.1954" zpos="-826.729" type="missions_de_guilde.randonnees.acces" GUID="VD0D7TXiw0aCADsoXDI0Qg=="/>
+			<POI MapID="62" xpos="447.96"  ypos="17.7176" zpos="-816.819" type="missions_de_guilde.randonnees.acces" GUID="VOu6PkXIt0iXxnAXPEyCeA=="/>
+			<POI MapID="62" xpos="456.179" ypos="17.7882" zpos="-807.699" type="missions_de_guilde.randonnees.acces" GUID="B1dVzRrP4E21+ydVMtMovg=="/>
+			<POI MapID="62" xpos="465.381" ypos="18.9043" zpos="-799.095" type="missions_de_guilde.randonnees.acces" GUID="DJKYS9bcOESy7PxyXtLhHg=="/>
+			<POI MapID="62" xpos="476.42"  ypos="20.5123" zpos="-790.954" type="missions_de_guilde.randonnees.acces" GUID="lLaZ7gm8cU6RJnAyGqCPXw=="/>
+			<POI MapID="62" xpos="488.07"  ypos="23.894"  zpos="-788.271" type="missions_de_guilde.randonnees.acces" GUID="Sp5yCn1Ps0up5nYbmCm/5w=="/>
+			<POI MapID="62" xpos="497.888" ypos="31.372"  zpos="-790.724" type="missions_de_guilde.randonnees.acces" GUID="lawQNHVrpU+9JDn59OlaZg=="/>
+			<POI MapID="62" xpos="502.856" ypos="33.6604" zpos="-795.044" type="missions_de_guilde.randonnees.acces" GUID="kRCik9BR9UOIumX78bjhmA=="/>
+		</Route>
+
+		<!-- Réserve du Marchand -->
+		<POI MapID="326" xpos="158.041" ypos="260.028" zpos="-81.6567" type="missions_de_guilde.randonnees.t.reserve_du_marchand" GUID="wPAh2WS7SkOKnVZQ5uzYuQ=="/>
+
+		<!-- Retraite Gelée -->
+		<POI MapID="29" xpos="182.267" ypos="7.66371" zpos="738.9" type="missions_de_guilde.randonnees.f.retraite_gelee" GUID="DEK8zkY+FUy2azPT3BEa2Q=="/>
+		<POI MapID="29" xpos="219.702" ypos="39.5461" zpos="572.181" type="missions_de_guilde.randonnees.acces" GUID="g0HXTMRl5EasjKyMvxQv9A==" iconFile="Img\FlecheAvancer.png"/>
+		<Route MapID="29" name="Acces" resetposx="219.702" resetposy="39.5461" resetposz="572.181" resetrange="2">
+			<POI MapID="29" xpos="225.385" ypos="35.6482" zpos="586.397" type="missions_de_guilde.randonnees.acces" GUID="VOZAgrXNek+ZhmabLWNFzA=="/>
+			<POI MapID="29" xpos="216.573" ypos="28.6576" zpos="601.339" type="missions_de_guilde.randonnees.acces" GUID="CQ99cZKNskOlSSO1Adzxyw=="/>
+			<POI MapID="29" xpos="204.052" ypos="25.6616" zpos="597.591" type="missions_de_guilde.randonnees.acces" GUID="228jCHfepUm/0ma/VkgBFw=="/>
+			<POI MapID="29" xpos="192.527" ypos="20.8068" zpos="584.636" type="missions_de_guilde.randonnees.acces" GUID="L8RolpAENUOV1NehJ2p7Dg=="/>
+			<POI MapID="29" xpos="177.657" ypos="15.596"  zpos="583.293" type="missions_de_guilde.randonnees.acces" GUID="BhsCL8iSn02eE5DgG6oL3Q=="/>
+			<POI MapID="29" xpos="165.235" ypos="8.71983" zpos="605.859" type="missions_de_guilde.randonnees.acces" GUID="VnPJkcfMRU6EavbPqWUnkg=="/>
+			<POI MapID="29" xpos="157.37"  ypos="7.08921" zpos="626.297" type="missions_de_guilde.randonnees.acces" GUID="KiKkwHMLrkigUcYDYoNZtA=="/>
+			<POI MapID="29" xpos="162.153" ypos="6.01133" zpos="646.25"  type="missions_de_guilde.randonnees.acces" GUID="/0CDx5F/NUeLqwJDyIlr6A=="/>
+			<POI MapID="29" xpos="171.731" ypos="4.9609"  zpos="679.814" type="missions_de_guilde.randonnees.acces" GUID="zdM6w8ncakakoS9NuAv+dw=="/>
+			<POI MapID="29" xpos="170.712" ypos="4.57435" zpos="698.629" type="missions_de_guilde.randonnees.acces" GUID="00WBQXcaVUmqOGwmUIMDvw=="/>
+			<POI MapID="29" xpos="176.343" ypos="4.57435" zpos="707.576" type="missions_de_guilde.randonnees.acces" GUID="kJYuLuHEP028vUu59fXzhg=="/>
+			<POI MapID="29" xpos="179.513" ypos="5.39458" zpos="719.814" type="missions_de_guilde.randonnees.acces" GUID="7FUnfuRVgUGcsFiPgtcISg=="/>
+		</Route>
+
+		<!-- Rotonde de Soggorsort -->
+		<POI MapID="34" xpos="468.03" ypos="-95.1884" zpos="622.642" type="missions_de_guilde.randonnees.s.rotonde_de_soggorsort" GUID="nfoDz6NtJUWOWjrwKa0kzA=="/>
+
+		<!-- Ruelle du Rôdeur de l'Est -->
+		<POI MapID="18" xpos="154.005" ypos="65.6957" zpos="-336.895" type="missions_de_guilde.randonnees.e.ruelle_du_rodeur_de_l_est" GUID="mMoulZBMsU2ZVlFE6QwcqA=="/>
+
+		<!-- Salon d'Esparvent -->
+		<POI MapID="218" xpos="69.7354" ypos="214.985" zpos="197.703" type="missions_de_guilde.randonnees.s.salon_d_esparvent" GUID="4IyLLffXVUmZ5xhX4gXFsg=="/>
+
+		<!-- Salon de Wrelk -->
+		<POI MapID="24" xpos="678.779" ypos="25.5036" zpos="-110.93" type="missions_de_guilde.randonnees.w.salon_de_wrelk" GUID="NRgqRqW4BEuJkCSJV/6jIg=="/>
+
+		<!-- Sanctuaire Hanté par un Diablotin -->
+		<POI MapID="34" xpos="-502.432" ypos="21.4466" zpos="1005.45" type="missions_de_guilde.randonnees.i.sanctuaire_hante_par_un_diablotin" GUID="yA/ME2ZClUe12K5o5//m9w=="/>
+
+		<!-- Sanctuaire Piersacrée -->
+		<POI MapID="32" xpos="888.823" ypos="37.184" zpos="183.31" type="missions_de_guilde.randonnees.h.sanctuaire_piersacree" GUID="6kYpPBadOEWjg2kkNmCSNg=="/>
+
+		<!-- Saut de Drakefaille -->
+		<POI MapID="21" xpos="634.138" ypos="22.7707" zpos="269.889" type="missions_de_guilde.randonnees.d.saut_de_drakefaille" GUID="NA4/cCGvRUKm8DA4N/BhgQ=="/>
+		<POI MapID="21" xpos="635.856" ypos="16.0435" zpos="120.081" type="missions_de_guilde.randonnees.acces" GUID="KhQgoCM8WUqmaUcfijKLPw==" iconFile="Img\FlecheAvancer.png"/>
+		<Route MapID="21" name="Acces" resetposx="635.856" resetposy="16.0435" resetposz="120.081" resetrange="2">
+			<POI MapID="21" xpos="639.86"  ypos="17.6806" zpos="126.776" type="missions_de_guilde.randonnees.acces" GUID="Z9HKk8taGkWkJDbkZLxp0g=="/>
+			<POI MapID="21" xpos="645.928" ypos="18.2176" zpos="136.633" type="missions_de_guilde.randonnees.acces" GUID="8wblnNp+DUmMhsOACu9TCg=="/>
+			<POI MapID="21" xpos="651.873" ypos="18.541"  zpos="146.535" type="missions_de_guilde.randonnees.acces" GUID="6C1BFvHYjkaP0hUDyd9ymA=="/>
+			<POI MapID="21" xpos="656.357" ypos="18.9728" zpos="156.739" type="missions_de_guilde.randonnees.acces" GUID="TGdBtJwT4Emi3+UFgQwAnQ=="/>
+			<POI MapID="21" xpos="658.35"  ypos="18.8498" zpos="166.892" type="missions_de_guilde.randonnees.acces" GUID="SkWqvvvMNk+5Ah5Q+gO3XA=="/>
+			<POI MapID="21" xpos="660.199" ypos="18.0281" zpos="180.004" type="missions_de_guilde.randonnees.acces" GUID="ZOlRLhqrekWs6omWil/3gg=="/>
+			<POI MapID="21" xpos="660.816" ypos="18.4284" zpos="192.97"  type="missions_de_guilde.randonnees.acces" GUID="Q8wAD6DJrkqqV2oaVV7D6A=="/>
+			<POI MapID="21" xpos="661.277" ypos="20.1323" zpos="199.4"   type="missions_de_guilde.randonnees.acces" GUID="A3WVul81lEmfYs+bDaZLqA=="/>
+			<POI MapID="21" xpos="662.419" ypos="19.743"  zpos="209.973" type="missions_de_guilde.randonnees.acces" GUID="hctJJF01BUu4pSTPVks6qA=="/>
+			<POI MapID="21" xpos="660.858" ypos="17.7353" zpos="220.03"  type="missions_de_guilde.randonnees.acces" GUID="RDSVP5JdLUeVIvRJMYLceQ=="/>
+			<POI MapID="21" xpos="657.948" ypos="15.1964" zpos="229.657" type="missions_de_guilde.randonnees.acces" GUID="Ehm1YBGTbUext7nCPaAW+w=="/>
+			<POI MapID="21" xpos="652.69"  ypos="13.0473" zpos="239.779" type="missions_de_guilde.randonnees.acces" GUID="TTkWldX97EmkddqIkc6m+Q=="/>
+			<POI MapID="21" xpos="647.686" ypos="12.8492" zpos="246.784" type="missions_de_guilde.randonnees.acces" GUID="jfGRdCW9pkudSx425Ej7Tw=="/>
+			<POI MapID="21" xpos="642.431" ypos="13.882"  zpos="251.803" type="missions_de_guilde.randonnees.acces" GUID="bbXSPRaWDke+10aoSG60fQ=="/>
+			<POI MapID="21" xpos="631.159" ypos="15.3218" zpos="261.837" type="missions_de_guilde.randonnees.acces" GUID="v9bdIFt2Uk2puw0p9Lz7zQ=="/>
+			<POI MapID="21" xpos="624.883" ypos="17.3095" zpos="265.199" type="missions_de_guilde.randonnees.acces" GUID="2sYUf1F0KE6Ouqw6wbWm7w=="/>
+			<POI MapID="21" xpos="623.703" ypos="19.0004" zpos="270.398" type="missions_de_guilde.randonnees.acces" GUID="SCnI9+Xz50yGEqV60qmruQ=="/>
+			<POI MapID="21" xpos="626.853" ypos="20.5634" zpos="274.109" type="missions_de_guilde.randonnees.acces" GUID="IAkfSg+fJkWPvPpwPq8rxg=="/>
+			<POI MapID="21" xpos="630.974" ypos="21.6082" zpos="273.469" type="missions_de_guilde.randonnees.acces" GUID="6Kq27e1MskW7M7pPqUzf/w=="/>
+		</Route>
+
+		<!-- Saut de Mistriven -->
+		<POI MapID="27" xpos="-143.304" ypos="63.635" zpos="764.052" type="missions_de_guilde.randonnees.m.saut_de_mistriven" GUID="rwItOmIWJEmfY3GY96CnRQ=="/>
+		<POI MapID="27" xpos="-82.9381" ypos="81.0306" zpos="848.07" type="missions_de_guilde.randonnees.acces" GUID="CtSSKwKQiU+/yK29BxzRjg==" iconFile="Img\FlecheAvancer.png"/>
+		<Route MapID="27" name="Acces" resetposx="-82.9381" resetposy="81.0306" resetposz="848.07" resetrange="2">
+			<POI MapID="27" xpos="-89.108"  ypos="77.8157" zpos="850.534" type="missions_de_guilde.randonnees.acces" GUID="KZhMxVRVEkmvLyWjbDSrbQ=="/>
+			<POI MapID="27" xpos="-99.4759" ypos="73.8549" zpos="846.027" type="missions_de_guilde.randonnees.acces" GUID="GMKyxU4C0UizvltxK0AOrg=="/>
+			<POI MapID="27" xpos="-105.677" ypos="69.218"  zpos="838.038" type="missions_de_guilde.randonnees.acces" GUID="WE4LhNZ+0UiBMcgO2zAfRA=="/>
+			<POI MapID="27" xpos="-106.903" ypos="66.2215" zpos="825.9"   type="missions_de_guilde.randonnees.acces" GUID="YpP5bJQfpUCDYUPFPPvs9g=="/>
+			<POI MapID="27" xpos="-118.322" ypos="61.5619" zpos="813.673" type="missions_de_guilde.randonnees.acces" GUID="SYcyNhkIrUK5cd+IDE4P7g=="/>
+			<POI MapID="27" xpos="-123.859" ypos="59.1731" zpos="804.878" type="missions_de_guilde.randonnees.acces" GUID="q9pXBoXIeUSdl9n3WhmIlg=="/>
+			<POI MapID="27" xpos="-131.247" ypos="60.505"  zpos="789.559" type="missions_de_guilde.randonnees.acces" GUID="gnfqXKKOUEiou6PPOYMprw=="/>
+			<POI MapID="27" xpos="-139.093" ypos="61.3219" zpos="779.855" type="missions_de_guilde.randonnees.acces" GUID="9m4/bjVJE0G611pMsWqovg=="/>
+		</Route>
+
+		<!-- Saut de la Conceptualisation -->
+		<POI MapID="139" xpos="47.8908" ypos="102.902" zpos="-355.92" type="missions_de_guilde.randonnees.i.saut_de_la_conceptualisation" GUID="0CiY48deik2UgwFiPFBd2w=="/>
+
+		<!-- Sentinelle Engloutie -->
+		<POI MapID="25" xpos="317.184" ypos="-126.908" zpos="157.71" type="missions_de_guilde.randonnees.s.sentinelle_engloutie" GUID="Z9bxq377VUetUL6cj8+1/Q=="/>
+		<POI MapID="25" xpos="330.173" ypos="-34.1252" zpos="80.9992" type="missions_de_guilde.randonnees.acces" GUID="7HOWWOt6YE2NmigJgKZvJg==" iconFile="Img\FlecheAvancer.png"/>
+		<Route MapID="25" name="Acces" resetposx="330.173" resetposy="-34.1252" resetposz="80.9992" resetrange="2">
+			<POI MapID="25" xpos="332.972" ypos="-41.9222" zpos="96.5554" type="missions_de_guilde.randonnees.acces" GUID="XuIGk+e2S0KVdh4wI73K6A=="/>
+			<POI MapID="25" xpos="333.84"  ypos="-50.2039" zpos="110.222" type="missions_de_guilde.randonnees.acces" GUID="w+QrmB1MBk2NsQfiRN4VDw=="/>
+			<POI MapID="25" xpos="331.798" ypos="-58.7041" zpos="122.203" type="missions_de_guilde.randonnees.acces" GUID="LASXNGKq0kKxSUft9678Ow=="/>
+			<POI MapID="25" xpos="327.65"  ypos="-67.1017" zpos="130.717" type="missions_de_guilde.randonnees.acces" GUID="FnbvnCuqEUWoQ9oe3cJgzA=="/>
+			<POI MapID="25" xpos="324.639" ypos="-77.1045" zpos="137.912" type="missions_de_guilde.randonnees.acces" GUID="h+hMohHNSUWiB0WsKON6sw=="/>
+			<POI MapID="25" xpos="322.501" ypos="-87.9333" zpos="143.285" type="missions_de_guilde.randonnees.acces" GUID="dMeVLk2AiUepts/kdEvApA=="/>
+			<POI MapID="25" xpos="321.06"  ypos="-101.046" zpos="147.386" type="missions_de_guilde.randonnees.acces" GUID="T4d2hDTy2k+vTIgvjhaAEg=="/>
+			<POI MapID="25" xpos="319.664" ypos="-116.016" zpos="152.064" type="missions_de_guilde.randonnees.acces" GUID="Vi59p7w+xkOr43tPX9w7og=="/>
+		</Route>
+
+		<!-- Sépulcre Azumière -->
+		<POI MapID="51" xpos="-603.548" ypos="15.624" zpos="-713.971" type="missions_de_guilde.randonnees.s.sepulcre_azumiere" GUID="k33NWBPuqECjLwfe5w10/g=="/>
+		<POI MapID="51" xpos="-377.325" ypos="12.9073" zpos="-743.021" type="missions_de_guilde.randonnees.acces" GUID="qLjmMo0PZkKSHbdV0DwFyg==" iconFile="Img\FlecheAvancer.png"/>
+		<Route MapID="51" name="Acces" resetposx="-377.325" resetposy="12.9073" resetposz="-743.021" resetrange="2">
+			<POI MapID="51" xpos="-397.481" ypos="13.1598" zpos="-756.621" type="missions_de_guilde.randonnees.acces" GUID="N0GwhT4u50aVjRoJ/NBiWg=="/>
+			<POI MapID="51" xpos="-409.703" ypos="11.7395" zpos="-765.037" type="missions_de_guilde.randonnees.acces" GUID="UWVu7qsFREiU76nFgxRLQw=="/>
+			<POI MapID="51" xpos="-422.032" ypos="12.3618" zpos="-768.237" type="missions_de_guilde.randonnees.acces" GUID="sOl4SC7i80yws3qekiHrFA=="/>
+			<POI MapID="51" xpos="-434.919" ypos="12.206"  zpos="-765.472" type="missions_de_guilde.randonnees.acces" GUID="IMiYU5VfOECIM1xCfTMZnQ=="/>
+			<POI MapID="51" xpos="-443.919" ypos="11.8937" zpos="-759.929" type="missions_de_guilde.randonnees.acces" GUID="GMEImUJy7ku9RKCrn0Js4A=="/>
+			<POI MapID="51" xpos="-450.398" ypos="10.8995" zpos="-750.852" type="missions_de_guilde.randonnees.acces" GUID="QZnOV96n/kOCkW8Vd9fi8g=="/>
+			<POI MapID="51" xpos="-455.095" ypos="10.5992" zpos="-737.336" type="missions_de_guilde.randonnees.acces" GUID="K9BxTkQhsk2xwaKJhdp3nw=="/>
+			<POI MapID="51" xpos="-457.535" ypos="10.3946" zpos="-727.245" type="missions_de_guilde.randonnees.acces" GUID="K6rAaydwTECCxgDaUONZ6w=="/>
+			<POI MapID="51" xpos="-463.867" ypos="11.1386" zpos="-718.563" type="missions_de_guilde.randonnees.acces" GUID="7/VHOMMq+kaRQ3pE7VKi/Q=="/>
+			<POI MapID="51" xpos="-477.647" ypos="11.8083" zpos="-714.453" type="missions_de_guilde.randonnees.acces" GUID="ExvB8yy1gUiilFds4TMPmQ=="/>
+			<POI MapID="51" xpos="-491.302" ypos="12.5422" zpos="-715.706" type="missions_de_guilde.randonnees.acces" GUID="+xMGdNw8W0CxwV18y409nw=="/>
+			<POI MapID="51" xpos="-502.981" ypos="12.5805" zpos="-716.828" type="missions_de_guilde.randonnees.acces" GUID="q0mVJi3pR0We1BAvi+A/kA=="/>
+			<POI MapID="51" xpos="-515.956" ypos="12.0412" zpos="-718.003" type="missions_de_guilde.randonnees.acces" GUID="h6hic0755UGADuObtuVbGw=="/>
+			<POI MapID="51" xpos="-529.472" ypos="10.9577" zpos="-718.81"  type="missions_de_guilde.randonnees.acces" GUID="IxUgWCxUZE6rLSgiLfbeXg=="/>
+			<POI MapID="51" xpos="-541.12"  ypos="12.8455" zpos="-717.996" type="missions_de_guilde.randonnees.acces" GUID="hCCDtSmNBUyJ71BOYjZnIw=="/>
+			<POI MapID="51" xpos="-551.96"  ypos="15.2095" zpos="-717.42"  type="missions_de_guilde.randonnees.acces" GUID="sYx4J6kMpEyM1dEKv5yg+w=="/>
+			<POI MapID="51" xpos="-566.056" ypos="15.7995" zpos="-716.706" type="missions_de_guilde.randonnees.acces" GUID="AaoUBWbMC0qkprYX9RF4NA=="/>
+			<POI MapID="51" xpos="-579.619" ypos="15.758"  zpos="-716.29"  type="missions_de_guilde.randonnees.acces" GUID="VAFojZuw50in10AB7ULnFQ=="/>
+		</Route>
+
+		<!-- Sépulcre Ravagé -->
+		<POI MapID="32" xpos="-251.84" ypos="2.46026" zpos="47.4854" type="missions_de_guilde.randonnees.b.sepulcre_ravage" GUID="crHAAo/k+EexYPo6j326gg=="/>
+		<POI MapID="32" xpos="-150" ypos="38" zpos="77" type="missions_de_guilde.randonnees.acces" GUID="wU9voatwRUyluvLArv/BIA==" iconFile="Img\GuildeRando.png" iconSize="1"/>
+		<POI MapID="32" xpos="-150" ypos="36" zpos="77" type="missions_de_guilde.randonnees.acces" GUID="XmzNOYVSw0WSTObyksDdwg==" iconFile="Img\Fleche.png" iconSize="1"/>
+		<Route MapID="32" name="Acces" resetposx="-150" resetposy="38" resetposz="77" resetrange="2">
+			<POI MapID="32" xpos="-150"     ypos="30"        zpos="77"      type="missions_de_guilde.randonnees.acces"/>
+			<POI MapID="32" xpos="-150"     ypos="20"        zpos="77"      type="missions_de_guilde.randonnees.acces"/>
+			<POI MapID="32" xpos="-150"     ypos="10"        zpos="77"      type="missions_de_guilde.randonnees.acces"/>
+			<POI MapID="32" xpos="-150"     ypos="5.72626"   zpos="78.0547" type="missions_de_guilde.randonnees.acces" GUID="cd0yx4zI9kma8NLwQ4YKPg=="/>
+			<POI MapID="32" xpos="-164.829" ypos="-0.175959" zpos="84.7514" type="missions_de_guilde.randonnees.acces" GUID="VYMoPwbYeEy/m6zTCkYk8w=="/>
+			<POI MapID="32" xpos="-178.799" ypos="0.838353"  zpos="84.5116" type="missions_de_guilde.randonnees.acces" GUID="9oQ9E08OuU2sPicdMVFm3A=="/>
+			<POI MapID="32" xpos="-189.501" ypos="0.256497"  zpos="84.9238" type="missions_de_guilde.randonnees.acces" GUID="L9ciIpfdtEGi3DVWrqcZwg=="/>
+			<POI MapID="32" xpos="-200.675" ypos="0.544632"  zpos="85.4387" type="missions_de_guilde.randonnees.acces" GUID="oDB8/K85a0WB7w4lEp5gHw=="/>
+			<POI MapID="32" xpos="-211.538" ypos="1.11388"   zpos="86.405"  type="missions_de_guilde.randonnees.acces" GUID="5heFsMz8OU2psuUNwoTnrQ=="/>
+			<POI MapID="32" xpos="-221.19"  ypos="2.33772"   zpos="84.6057" type="missions_de_guilde.randonnees.acces" GUID="BAO6kemeckCbE0ASdy9fGg=="/>
+			<POI MapID="32" xpos="-226.253" ypos="3.03194"   zpos="75.549"  type="missions_de_guilde.randonnees.acces" GUID="x9+WzPGrlUKqWW3jF07YNw=="/>
+			<POI MapID="32" xpos="-232.495" ypos="2.08054"   zpos="62.9181" type="missions_de_guilde.randonnees.acces" GUID="kDg5cdVk7Uubcqkrxz1xXA=="/>
+		</Route>
+
+		<!-- Seuil d'Usharr -->
+		<POI MapID="53" xpos="31.6513" ypos="1.52559" zpos="-81.8742" type="missions_de_guilde.randonnees.u.seuil_d_usharr" GUID="MsI08yu2d0Oc5UXcPdwAbQ=="/>
+
+		<!-- Sommet de l'Epave -->
+		<POI MapID="218" xpos="93.9495" ypos="177.889" zpos="-54.7101" type="missions_de_guilde.randonnees.j.sommet_de_l_epave" GUID="LPk+FsMlt02f2rnkSzNjdw=="/>
+
+		<!-- Source de Brûlereinette -->
+		<POI MapID="53" xpos="739.178" ypos="62.0736" zpos="-30.0788" type="missions_de_guilde.randonnees.f.source_de_brulereinette" GUID="nHuWNRppvkyd833k4fs4bg=="/>
+
+		<!-- Source de Mélandru -->
+		<POI MapID="18" xpos="-220.145" ypos="60.2933" zpos="-281.949" type="missions_de_guilde.randonnees.m.source_de_melandru" GUID="+/2T5xXDaUqp9Fzn3BDyEA=="/>
+
+		<!-- Source des Lamentations -->
+		<POI MapID="30" xpos="-107.197" ypos="0.185958" zpos="-590.984" type="missions_de_guilde.randonnees.s.source_des_lamentations" GUID="wrMn5d+R/Ua+3fbFNf452Q=="/>
+
+		<!-- Surprise d'Elise -->
+		<POI MapID="17" xpos="-894.332" ypos="122.384" zpos="-572.234" type="missions_de_guilde.randonnees.e.surprise_d_elise" GUID="aWPwrvRJAkeqQhGC+lq9yw=="/>
+
+		<!-- Surveillant de Folleflamme -->
+		<POI MapID="35" xpos="-475.227" ypos="74.6287" zpos="-853.375" type="missions_de_guilde.randonnees.w.surveillant_de_folleflamme" GUID="Kg+DS6cU6kaplwDNARe9Dw=="/>
+		<POI MapID="35" xpos="-429.66" ypos="51" zpos="-793" type="missions_de_guilde.randonnees.acces" GUID="tYGIYbMoRkmtnCdFPPKYkA==" iconFile="Img\FlecheAvancer.png"/>
+		<Route MapID="35" name="Acces" resetposx="-429.66" resetposy="51" resetposz="-793" resetrange="1">
+			<POI MapID="35" xpos="-429.616" ypos="56.6879" zpos="-799.565" type="missions_de_guilde.randonnees.acces" GUID="j1QpBSZ6OESUNdJK4JqDaQ=="/>
+			<POI MapID="35" xpos="-443.747" ypos="65.6865" zpos="-800.851" type="missions_de_guilde.randonnees.acces" GUID="XOb8cYXIeka3+X4GGPqY/Q=="/>
+			<POI MapID="35" xpos="-453.643" ypos="71.6247" zpos="-801.078" type="missions_de_guilde.randonnees.acces" GUID="QgX3K+4CdkSQyllWWfo4Kg=="/>
+			<POI MapID="35" xpos="-470.55"  ypos="72.748"  zpos="-816.565" type="missions_de_guilde.randonnees.acces" GUID="IkA4PH35H0q9kZArgCMRXw=="/>
+		</Route>
+
+		<!-- Terrasse de Wassa -->
+		<POI MapID="24" xpos="-996.636" ypos="43.8656" zpos="-285.335" type="missions_de_guilde.randonnees.w.terrasse_de_wassa" GUID="j6+5h2uw8k2AB6Le+w+wFQ=="/>
+
+		<!-- Tour de Guet de Mâchefléau -->
+		<POI MapID="25" xpos="-563.18" ypos="68.9328" zpos="-279.969" type="missions_de_guilde.randonnees.s.tour_de_guet_de_machefleau" GUID="G9bKu/xTZUC4Up9pzHdAjA=="/>
+
+		<!-- Tour de la Tribulation -->
+		<POI MapID="26" xpos="-473.52" ypos="42.3603" zpos="-800.594" type="missions_de_guilde.randonnees.t.tour_de_la_tribulation" GUID="dKYpeGWrl06JCdlmTD9sUA=="/>
+
+		<!-- Trou de Tirailleur de Creusepierre -->
+		<POI MapID="24" xpos="-1097.77" ypos="31.3471" zpos="-131.254" type="missions_de_guilde.randonnees.s.trou_de_tirailleur_de_creusepierre" GUID="cacH9GDBrEC44mjKg00hWg=="/>
+		<POI MapID="24" xpos="-1128.81" ypos="13.9011" zpos="-343.17" type="missions_de_guilde.randonnees.acces" GUID="rodCVenJCUm8lB9TFRoCzQ==" iconFile="Img\FlecheAvancer.png"/>
+		<Route MapID="24" name="Acces" resetposx="-1128.81" resetposy="13.9011" resetposz="-343.17" resetrange="2">
+			<POI MapID="24" xpos="-1146.61" ypos="14.1119" zpos="-342.149" type="missions_de_guilde.randonnees.acces" GUID="arh80WtUskuLNtZxl/oGeA=="/>
+			<POI MapID="24" xpos="-1165.3"  ypos="14.315"  zpos="-339.529" type="missions_de_guilde.randonnees.acces" GUID="Ttv9peF3gUef/ZGGWCjCyQ=="/>
+			<POI MapID="24" xpos="-1179.23" ypos="14.8905" zpos="-330.536" type="missions_de_guilde.randonnees.acces" GUID="cIEowHk0bU6w0NNTlpc8Xg=="/>
+			<POI MapID="24" xpos="-1188.03" ypos="15.0376" zpos="-317.214" type="missions_de_guilde.randonnees.acces" GUID="3aK5SKp5oEq1+mVhMUaFVg=="/>
+			<POI MapID="24" xpos="-1193.55" ypos="14.9363" zpos="-299.551" type="missions_de_guilde.randonnees.acces" GUID="Bs/ZE0m6ekyO6P+3YeRvvg=="/>
+			<POI MapID="24" xpos="-1194.96" ypos="20.0949" zpos="-283.834" type="missions_de_guilde.randonnees.acces" GUID="bO02L1+B9UO8XDAnTvxM0Q=="/>
+			<POI MapID="24" xpos="-1194.33" ypos="25.0066" zpos="-268.675" type="missions_de_guilde.randonnees.acces" GUID="6MAdHelUyUq8dqdkbVAQJg=="/>
+			<POI MapID="24" xpos="-1190.1"  ypos="30.3994" zpos="-254.406" type="missions_de_guilde.randonnees.acces" GUID="za1+Q8AbsUShLn1om+dBgw=="/>
+			<POI MapID="24" xpos="-1183.83" ypos="31.0103" zpos="-240.063" type="missions_de_guilde.randonnees.acces" GUID="mlhrguneMkSBU1BGi0qw4Q=="/>
+			<POI MapID="24" xpos="-1176.57" ypos="30.9953" zpos="-224.502" type="missions_de_guilde.randonnees.acces" GUID="WrjR9A/c6k6iCjEH81MQmg=="/>
+			<POI MapID="24" xpos="-1170.41" ypos="31.9171" zpos="-211.362" type="missions_de_guilde.randonnees.acces" GUID="Jw2JdI+cEUWGgOiDAybocg=="/>
+			<POI MapID="24" xpos="-1163.95" ypos="30.0643" zpos="-195.677" type="missions_de_guilde.randonnees.acces" GUID="pZ5sgDwiI0qkU9YJxWtqCA=="/>
+			<POI MapID="24" xpos="-1157.43" ypos="30.0029" zpos="-179.929" type="missions_de_guilde.randonnees.acces" GUID="HG3yiFHC40qNsbSyRpUdDg=="/>
+			<POI MapID="24" xpos="-1150.24" ypos="30.1383" zpos="-165.063" type="missions_de_guilde.randonnees.acces" GUID="1ST97fBUpkqDD8qBvtZ+Pg=="/>
+			<POI MapID="24" xpos="-1141.92" ypos="30.3572" zpos="-153.332" type="missions_de_guilde.randonnees.acces" GUID="yd8M2glzTkK3gEG0uWVVIQ=="/>
+			<POI MapID="24" xpos="-1132.35" ypos="32.7115" zpos="-140.592" type="missions_de_guilde.randonnees.acces" GUID="BcWj83hq9kC1YF9lRaul6A=="/>
+			<POI MapID="24" xpos="-1119.93" ypos="32.454"  zpos="-127.85"  type="missions_de_guilde.randonnees.acces" GUID="X38DlJ8SCkqeDnRBJK1pbQ=="/>
+		</Route>
+
+		<!-- Tunnel de Bandacier -->
+		<POI MapID="20" xpos="-218.774" ypos="9.61237" zpos="-915.715" type="missions_de_guilde.randonnees.s.tunnel_de_bandacier" GUID="82HLGw9fqEWhvk/2KC836Q=="/>
+
+		<!-- Tunnel sous le Lac -->
+		<POI MapID="15" xpos="44.9983" ypos="-17.6635" zpos="489.093" type="missions_de_guilde.randonnees.l.tunnel_sous_le_lac" GUID="VJgqL+h9XEC7nCh5s6CqWQ=="/>
+
+		<!-- Upsilon Hyperboloïde -->
+		<POI MapID="65" xpos="1014.71" ypos="1.7671" zpos="359.722" type="missions_de_guilde.randonnees.u.upsilon_hyperboloide" GUID="Cic75LtNOEyCSVKCBFJD0A=="/>
+
+		<!-- Vallon de Cymbel -->
+		<POI MapID="21" xpos="681.123" ypos="53.2718" zpos="-477.274" type="missions_de_guilde.randonnees.c.vallon_de_cymbel" GUID="bYa4nX/3602yK5RdDhYmIg=="/>
+
+	</POIs>
+</OverlayData>

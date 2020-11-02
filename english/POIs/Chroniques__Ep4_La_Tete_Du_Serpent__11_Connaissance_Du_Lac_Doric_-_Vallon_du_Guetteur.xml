@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+POIs: ReActif.9251
+Date: 2017/08/11
+-->
+<OverlayData>
+	<MarkerCategory name="chroniques.saison_3">
+		<MarkerCategory name="ep4_la_tete_du_serpent" DisplayName="Ep.4 - The Head of the Snake" iconFile="Img\LacDoric.png">
+			<MarkerCategory name="connaissance_du_lac_doric__vallon_du_guetteur" DisplayName="Lake Doric Insight: Watcher's Hollow" iconFile="Img\Guide.png" iconSize="0.75" triggerRange="3" behavior="0">
+				<MarkerCategory name="acces" DisplayName="Guide" iconFile="Img\MaitriseHOT.png" iconSize="1.5" alpha="0.7"/>
+			</MarkerCategory>
+		</MarkerCategory>
+	</MarkerCategory>
+
+	<POIs>
+
+		<!-- Début -->
+		<POI MapID="1185" xpos="-65.53" ypos="101.98" zpos="677.66" type="chroniques.saison_3.ep4_la_tete_du_serpent.connaissance_du_lac_doric__vallon_du_guetteur.acces" GUID="lA1RVZEeEUqFM14Nm/2YTw=="/>
+
+		<!-- Route -->
+		<Route MapID="1185" name="Vallon_du_Guetteur" resetposx="-65.53" resetposy="101.98" resetposz="677.66" resetrange="2">
+			<POI MapID="1185" xpos="-61.6614" ypos="103.158" zpos="681.898" type="chroniques.saison_3.ep4_la_tete_du_serpent.connaissance_du_lac_doric__vallon_du_guetteur" GUID="93lnZhfSSky3M8M2lNcvOA=="/>
+			<POI MapID="1185" xpos="-63.5031" ypos="104.927" zpos="687.89"  type="chroniques.saison_3.ep4_la_tete_du_serpent.connaissance_du_lac_doric__vallon_du_guetteur" GUID="t3c3ca5BpkqSGbT5qRpRvw=="/>
+			<POI MapID="1185" xpos="-68.047"  ypos="105.906" zpos="693.187" type="chroniques.saison_3.ep4_la_tete_du_serpent.connaissance_du_lac_doric__vallon_du_guetteur" GUID="l1j/UQPx9E++3+cot40JLQ=="/>
+			<POI MapID="1185" xpos="-72.1848" ypos="105.218" zpos="697.746" type="chroniques.saison_3.ep4_la_tete_du_serpent.connaissance_du_lac_doric__vallon_du_guetteur" GUID="aWxXRX/xzUaU1Wt6EKQeXg=="/>
+			<POI MapID="1185" xpos="-74.7079" ypos="104.192" zpos="701.806" type="chroniques.saison_3.ep4_la_tete_du_serpent.connaissance_du_lac_doric__vallon_du_guetteur" GUID="LizQGnTQq0mSWNyfIooaOA=="/>
+			<POI MapID="1185" xpos="-74.5329" ypos="102.998" zpos="706.722" type="chroniques.saison_3.ep4_la_tete_du_serpent.connaissance_du_lac_doric__vallon_du_guetteur" GUID="mxZT+yx5aU+wu3yIDX5zjg=="/>
+			<POI MapID="1185" xpos="-70.8797" ypos="102.614" zpos="709.507" type="chroniques.saison_3.ep4_la_tete_du_serpent.connaissance_du_lac_doric__vallon_du_guetteur" GUID="01r05GpCCUy97a4TeQ47MQ=="/>
+			<POI MapID="1185" xpos="-63.994"  ypos="102.573" zpos="709.677" type="chroniques.saison_3.ep4_la_tete_du_serpent.connaissance_du_lac_doric__vallon_du_guetteur" GUID="WhcIgoRSg0Sm4bGvPAvn+Q=="/>
+			<POI MapID="1185" xpos="-56.376"  ypos="100.776" zpos="711.094" type="chroniques.saison_3.ep4_la_tete_du_serpent.connaissance_du_lac_doric__vallon_du_guetteur" GUID="Kcrau63vqEOT8CLrOWvD+A=="/>
+			<POI MapID="1185" xpos="-44.9257" ypos="97.2423" zpos="712.017" type="chroniques.saison_3.ep4_la_tete_du_serpent.connaissance_du_lac_doric__vallon_du_guetteur" GUID="CMkc7LE6P0CF/KuwoukcjQ=="/>
+			<POI MapID="1185" xpos="-37.6289" ypos="95.3472" zpos="712.074" type="chroniques.saison_3.ep4_la_tete_du_serpent.connaissance_du_lac_doric__vallon_du_guetteur" GUID="qDTb3SUYx0aQNd4u6o/jfQ=="/>
+			<POI MapID="1185" xpos="-29.5387" ypos="89.4803" zpos="710.631" type="chroniques.saison_3.ep4_la_tete_du_serpent.connaissance_du_lac_doric__vallon_du_guetteur" GUID="lUaJGqpqs06O/hHBH0kw5Q=="/>
+			<POI MapID="1185" xpos="-20.4704" ypos="85.3049" zpos="709.252" type="chroniques.saison_3.ep4_la_tete_du_serpent.connaissance_du_lac_doric__vallon_du_guetteur" GUID="FP4q+g3XB0OCrMHgRGSEOQ=="/>
+			<POI MapID="1185" xpos="-12.704"  ypos="83.2697" zpos="708.607" type="chroniques.saison_3.ep4_la_tete_du_serpent.connaissance_du_lac_doric__vallon_du_guetteur" GUID="P897WRiTF0eNc08PECBXOQ=="/>
+			<POI MapID="1185" xpos="-4.92824" ypos="82.1675" zpos="707.576" type="chroniques.saison_3.ep4_la_tete_du_serpent.connaissance_du_lac_doric__vallon_du_guetteur" GUID="cq7LwM5y20ajE9zrFMVRTQ=="/>
+			<POI MapID="1185" xpos="1.83778"  ypos="80.6661" zpos="707.756" type="chroniques.saison_3.ep4_la_tete_du_serpent.connaissance_du_lac_doric__vallon_du_guetteur" GUID="he3yVLY/SUmLV6EJVJILKw=="/>
+			<POI MapID="1185" xpos="8.06396"  ypos="79.4317" zpos="711.032" type="chroniques.saison_3.ep4_la_tete_du_serpent.connaissance_du_lac_doric__vallon_du_guetteur" GUID="sVQSWlVLP0G3+CE3yn1DqQ=="/>
+			<POI MapID="1185" xpos="14.0698"  ypos="77.1714" zpos="713.286" type="chroniques.saison_3.ep4_la_tete_du_serpent.connaissance_du_lac_doric__vallon_du_guetteur" GUID="CWSlXwLgHUG75B2763SptQ=="/>
+			<POI MapID="1185" xpos="21.6583"  ypos="65.9308" zpos="717.42"  type="chroniques.saison_3.ep4_la_tete_du_serpent.connaissance_du_lac_doric__vallon_du_guetteur" GUID="ZQAbsne9aEml6T1znnboQA=="/>
+			<POI MapID="1185" xpos="28.331"   ypos="65.9308" zpos="721.327" type="chroniques.saison_3.ep4_la_tete_du_serpent.connaissance_du_lac_doric__vallon_du_guetteur" GUID="qg/L2+irbU+tYJVEfz8Zag=="/>
+			<POI MapID="1185" xpos="36.2316"  ypos="66.2288" zpos="725.631" type="chroniques.saison_3.ep4_la_tete_du_serpent.connaissance_du_lac_doric__vallon_du_guetteur" GUID="QONJIQINmU23kcnVwVWOKg=="/>
+			<POI MapID="1185" xpos="43.3184"  ypos="66.288"  zpos="728.949" type="chroniques.saison_3.ep4_la_tete_du_serpent.connaissance_du_lac_doric__vallon_du_guetteur" GUID="oZK/qZpEN0ipW8ENgEgHdg=="/>
+			<POI MapID="1185" xpos="50.3962"  ypos="66.288"  zpos="731.33"  type="chroniques.saison_3.ep4_la_tete_du_serpent.connaissance_du_lac_doric__vallon_du_guetteur" GUID="qw2QRqAGdUuZqvAtiy73TA=="/>
+			<POI MapID="1185" xpos="57.5655"  ypos="66.288"  zpos="733.378" type="chroniques.saison_3.ep4_la_tete_du_serpent.connaissance_du_lac_doric__vallon_du_guetteur" GUID="HAjFd2ae/UeVFh3FzYkd8A=="/>
+			<POI MapID="1185" xpos="64.955"   ypos="66.2911" zpos="734.381" type="chroniques.saison_3.ep4_la_tete_du_serpent.connaissance_du_lac_doric__vallon_du_guetteur" GUID="JQRUJOLAkEKPcOlHOiHixw=="/>
+			<POI MapID="1185" xpos="72.4169"  ypos="66.171"  zpos="734.759" type="chroniques.saison_3.ep4_la_tete_du_serpent.connaissance_du_lac_doric__vallon_du_guetteur" GUID="JF85JS72c0GkiLbNUYGFWA=="/>
+			<POI MapID="1185" xpos="80.1653"  ypos="65.9807" zpos="733.608" type="chroniques.saison_3.ep4_la_tete_du_serpent.connaissance_du_lac_doric__vallon_du_guetteur" GUID="qDMW1TY4o0qTiCm+jGsrPw=="/>
+			<POI MapID="1185" xpos="88.6023"  ypos="65.9313" zpos="732.018" type="chroniques.saison_3.ep4_la_tete_du_serpent.connaissance_du_lac_doric__vallon_du_guetteur" GUID="++cRW2jSVUGjAwFU0mLrAQ=="/>
+			<POI MapID="1185" xpos="95.9072"  ypos="65.9313" zpos="730.486" type="chroniques.saison_3.ep4_la_tete_du_serpent.connaissance_du_lac_doric__vallon_du_guetteur" GUID="B6Ag/ExdlEOtQLyomyzVjA=="/>
+			<POI MapID="1185" xpos="104.119"  ypos="65.9313" zpos="727.974" type="chroniques.saison_3.ep4_la_tete_du_serpent.connaissance_du_lac_doric__vallon_du_guetteur" GUID="ZZqFOsk5P0esCw6AMlWrxg=="/>
+			<POI MapID="1185" xpos="111.17"   ypos="65.9313" zpos="726.599" type="chroniques.saison_3.ep4_la_tete_du_serpent.connaissance_du_lac_doric__vallon_du_guetteur" GUID="CGts6TXBY0SGui6VyJl9mg=="/>
+			<POI MapID="1185" xpos="120.821"  ypos="65.9389" zpos="725.577" type="chroniques.saison_3.ep4_la_tete_du_serpent.connaissance_du_lac_doric__vallon_du_guetteur" GUID="Fed4dmw0zECkg8pL5gSbDQ=="/>
+			<POI MapID="1185" xpos="127.4"    ypos="65.9308" zpos="724.281" type="chroniques.saison_3.ep4_la_tete_du_serpent.connaissance_du_lac_doric__vallon_du_guetteur" GUID="vQgKKH44q0y4Qzvb3/53/w=="/>
+			<POI MapID="1185" xpos="134.265"  ypos="65.9308" zpos="720.592" type="chroniques.saison_3.ep4_la_tete_du_serpent.connaissance_du_lac_doric__vallon_du_guetteur" GUID="qneDjtHdpECKeK7BI6Mk/g=="/>
+			<POI MapID="1185" xpos="140.177"  ypos="65.9308" zpos="713.89"  type="chroniques.saison_3.ep4_la_tete_du_serpent.connaissance_du_lac_doric__vallon_du_guetteur" GUID="J3PXJjudNEGaQaT8uQ06Yg=="/>
+			<POI MapID="1185" xpos="142.657"  ypos="65.9308" zpos="706.163" type="chroniques.saison_3.ep4_la_tete_du_serpent.connaissance_du_lac_doric__vallon_du_guetteur" GUID="fcTGSTxmVka89T5lTlFK6Q=="/>
+			<POI MapID="1185" xpos="142.895"  ypos="67.4369" zpos="697.238" type="chroniques.saison_3.ep4_la_tete_du_serpent.connaissance_du_lac_doric__vallon_du_guetteur" GUID="ljc47ecyNUaHXcKyvUEQ+Q=="/>
+			<POI MapID="1185" xpos="139.311"  ypos="69.6453" zpos="693.211" type="chroniques.saison_3.ep4_la_tete_du_serpent.connaissance_du_lac_doric__vallon_du_guetteur" GUID="rmYDoKFxDE+cVDdikxVpcw=="/>
+			<POI MapID="1185" xpos="136.052"  ypos="72.4815" zpos="697.568" type="chroniques.saison_3.ep4_la_tete_du_serpent.connaissance_du_lac_doric__vallon_du_guetteur" GUID="n4rJsnqauUSqKCtE9cg/HQ=="/>
+			<POI MapID="1185" xpos="132.076"  ypos="73.0427" zpos="702.916" type="chroniques.saison_3.ep4_la_tete_du_serpent.connaissance_du_lac_doric__vallon_du_guetteur" GUID="pSuzccbG6U6DBTYdh3nYug=="/>
+			<POI MapID="1185" xpos="129.602"  ypos="73.8268" zpos="707.768" type="chroniques.saison_3.ep4_la_tete_du_serpent.connaissance_du_lac_doric__vallon_du_guetteur" GUID="LwPB3ivdikKfzS1jot+8Bw=="/>
+			<POI MapID="1185" xpos="125.923"  ypos="76.1567" zpos="711.948" type="chroniques.saison_3.ep4_la_tete_du_serpent.connaissance_du_lac_doric__vallon_du_guetteur" GUID="8y8aRVtCwkyQk/QlGSp/Jg=="/>
+			<POI MapID="1185" xpos="119.856"  ypos="76.282"  zpos="714.574" type="chroniques.saison_3.ep4_la_tete_du_serpent.connaissance_du_lac_doric__vallon_du_guetteur" GUID="0FKuEkUg5kymwwPxHs4r/g=="/>
+			<POI MapID="1185" xpos="113.549"  ypos="76.3406" zpos="714.848" type="chroniques.saison_3.ep4_la_tete_du_serpent.connaissance_du_lac_doric__vallon_du_guetteur" GUID="7FkQApa0xEGbO+ngZq2zJQ=="/>
+			<POI MapID="1185" xpos="106.237"  ypos="76.6665" zpos="714.367" type="chroniques.saison_3.ep4_la_tete_du_serpent.connaissance_du_lac_doric__vallon_du_guetteur" GUID="geXYP4LpdECo73ZO0GuuMw=="/>
+			<POI MapID="1185" xpos="99.2483"  ypos="77.0774" zpos="715.266" type="chroniques.saison_3.ep4_la_tete_du_serpent.connaissance_du_lac_doric__vallon_du_guetteur" GUID="3LUz6n4gX06bS5/av9kwgQ=="/>
+			<POI MapID="1185" xpos="92.1895"  ypos="79.5069" zpos="712.086" type="chroniques.saison_3.ep4_la_tete_du_serpent.connaissance_du_lac_doric__vallon_du_guetteur" GUID="DJmpJOtxtk+rZj+ejtJGgQ=="/>
+			<POI MapID="1185" xpos="95.8602"  ypos="79.48"   zpos="724.442" type="chroniques.saison_3.ep4_la_tete_du_serpent.connaissance_du_lac_doric__vallon_du_guetteur" GUID="tBO1T4wHK0C+59T31CaRUw=="/>
+			<POI MapID="1185" xpos="100.899"  ypos="80.238"  zpos="734.788" type="chroniques.saison_3.ep4_la_tete_du_serpent.connaissance_du_lac_doric__vallon_du_guetteur" GUID="UXygn6Tk0UK/wLmJ2eoBbQ=="/>
+			<POI MapID="1185" xpos="102.198"  ypos="80.4267" zpos="747.894" type="chroniques.saison_3.ep4_la_tete_du_serpent.connaissance_du_lac_doric__vallon_du_guetteur" GUID="uR4q3aXql0G/mm0zNRY9rw=="/>
+			<POI MapID="1185" xpos="97.1962"  ypos="83.5628" zpos="750.916" type="chroniques.saison_3.ep4_la_tete_du_serpent.connaissance_du_lac_doric__vallon_du_guetteur" GUID="AUnWaE14M0upaBNPjESRWg=="/>
+			<POI MapID="1185" xpos="90.2074"  ypos="84.0191" zpos="750.144" type="chroniques.saison_3.ep4_la_tete_du_serpent.connaissance_du_lac_doric__vallon_du_guetteur" GUID="Y3uN86S/kUiHsMJ1Ok3VuQ=="/>
+			<POI MapID="1185" xpos="84.4559"  ypos="82.9469" zpos="739.478" type="chroniques.saison_3.ep4_la_tete_du_serpent.connaissance_du_lac_doric__vallon_du_guetteur" GUID="m+sgosikuESYKFbKE7YLlw=="/>
+			<POI MapID="1185" xpos="73.5322"  ypos="84.6389" zpos="728.532" type="chroniques.saison_3.ep4_la_tete_du_serpent.connaissance_du_lac_doric__vallon_du_guetteur" GUID="fqQml8zVcESJpioTCIu62w=="/>
+			<POI MapID="1185" xpos="67.1544"  ypos="85.157"  zpos="721.141" type="chroniques.saison_3.ep4_la_tete_du_serpent.connaissance_du_lac_doric__vallon_du_guetteur" GUID="OkxGAtvCJU2B8YGHPcvoSw=="/>
+			<POI MapID="1185" xpos="61.2943"  ypos="88.4201" zpos="719.115" type="chroniques.saison_3.ep4_la_tete_du_serpent.connaissance_du_lac_doric__vallon_du_guetteur" GUID="7D4+j2gCBEOT5Xjh+GoXaA=="/>
+			<POI MapID="1185" xpos="53.2524"  ypos="87.032"  zpos="717.702" type="chroniques.saison_3.ep4_la_tete_du_serpent.connaissance_du_lac_doric__vallon_du_guetteur" GUID="U4RWeI7eVEeKUIiNRS7n7w=="/>
+			<POI MapID="1185" xpos="45.1744"  ypos="86.0777" zpos="715.138" type="chroniques.saison_3.ep4_la_tete_du_serpent.connaissance_du_lac_doric__vallon_du_guetteur" GUID="1TSXPUsP3UO7zB5abkW4vg=="/>
+			<POI MapID="1185" xpos="39.2966"  ypos="85.811"  zpos="711.246" type="chroniques.saison_3.ep4_la_tete_du_serpent.connaissance_du_lac_doric__vallon_du_guetteur" GUID="EjpNOw+lV0KhwogCPH0VrQ=="/>
+			<POI MapID="1185" xpos="36.684"   ypos="86.1333" zpos="705.778" type="chroniques.saison_3.ep4_la_tete_du_serpent.connaissance_du_lac_doric__vallon_du_guetteur" GUID="aW8OsIKfGEOvn17DrLEVug=="/>
+			<POI MapID="1185" xpos="40.897"   ypos="89.7851" zpos="704.892" type="chroniques.saison_3.ep4_la_tete_du_serpent.connaissance_du_lac_doric__vallon_du_guetteur" GUID="3rWjlfgsf0S1rQ0Eo7ALBg=="/>
+			<POI MapID="1185" xpos="47.0454"  ypos="91.7871" zpos="706.073" type="chroniques.saison_3.ep4_la_tete_du_serpent.connaissance_du_lac_doric__vallon_du_guetteur" GUID="zHPqagkOM0aGUCo04Yfd2g=="/>
+			<POI MapID="1185" xpos="55.5409"  ypos="92.7852" zpos="700.006" type="chroniques.saison_3.ep4_la_tete_du_serpent.connaissance_du_lac_doric__vallon_du_guetteur" GUID="p8ZeVvXXv0uZzYVpOwuamA=="/>
+			<POI MapID="1185" xpos="63.1296"  ypos="94.5449" zpos="694.22"  type="chroniques.saison_3.ep4_la_tete_du_serpent.connaissance_du_lac_doric__vallon_du_guetteur" GUID="L9pCmAGWmU2/ZM2DAFgTxw=="/>
+			<POI MapID="1185" xpos="70.4881"  ypos="95.8132" zpos="687.704" type="chroniques.saison_3.ep4_la_tete_du_serpent.connaissance_du_lac_doric__vallon_du_guetteur" GUID="HPoTusrhYkWdySiVd16Ysw=="/>
+			<POI MapID="1185" xpos="77.1333"  ypos="95.9321" zpos="681.707" type="chroniques.saison_3.ep4_la_tete_du_serpent.connaissance_du_lac_doric__vallon_du_guetteur" GUID="2NAbR42nV0qDf22ngslEiA=="/>
+			<POI MapID="1185" xpos="85.9578"  ypos="95.3392" zpos="673.729" type="chroniques.saison_3.ep4_la_tete_du_serpent.connaissance_du_lac_doric__vallon_du_guetteur" GUID="wlePf2X2+kS83NVty99SLA=="/>
+			<POI MapID="1185" xpos="93.1069"  ypos="96.9681" zpos="666.501" type="chroniques.saison_3.ep4_la_tete_du_serpent.connaissance_du_lac_doric__vallon_du_guetteur" GUID="k3v7rOwhCEOK6KdkXVo2iw=="/>
+			<POI MapID="1185" xpos="107.345"  ypos="94.6519" zpos="656.008" type="chroniques.saison_3.ep4_la_tete_du_serpent.connaissance_du_lac_doric__vallon_du_guetteur" GUID="3T0cy7K1x0efy3wTcnzq7Q=="/>
+			<POI MapID="1185" xpos="112.686"  ypos="95.4424" zpos="655.232" type="chroniques.saison_3.ep4_la_tete_du_serpent.connaissance_du_lac_doric__vallon_du_guetteur" GUID="aDaW4MLP/kuRGvwqcSkkLA=="/>
+			<POI MapID="1185" xpos="119.736"  ypos="95.0798" zpos="653.359" type="chroniques.saison_3.ep4_la_tete_du_serpent.connaissance_du_lac_doric__vallon_du_guetteur" GUID="YurBBw6NokCXnFCWV8x5sg=="/>
+			<POI MapID="1185" xpos="129.701"  ypos="93.9738" zpos="660.876" type="chroniques.saison_3.ep4_la_tete_du_serpent.connaissance_du_lac_doric__vallon_du_guetteur" GUID="jTQCe1HhMEiPBVJNlaW6tQ=="/>
+			<POI MapID="1185" xpos="138.628"  ypos="93.4378" zpos="662.499" type="chroniques.saison_3.ep4_la_tete_du_serpent.connaissance_du_lac_doric__vallon_du_guetteur" GUID="isUD8RQppUmLt+DIeiHRDg=="/>
+			<POI MapID="1185" xpos="147.819"  ypos="94.2674" zpos="661.546" type="chroniques.saison_3.ep4_la_tete_du_serpent.connaissance_du_lac_doric__vallon_du_guetteur" GUID="BEwBVqC+kESFpFJwcd+NLA=="/>
+			<POI MapID="1185" xpos="155.573"  ypos="93.965"  zpos="661.995" type="chroniques.saison_3.ep4_la_tete_du_serpent.connaissance_du_lac_doric__vallon_du_guetteur" GUID="ppLM1X3+uE6Yl7i8QVqtGg=="/>
+			<POI MapID="1185" xpos="165.537"  ypos="91.6275" zpos="663.339" type="chroniques.saison_3.ep4_la_tete_du_serpent.connaissance_du_lac_doric__vallon_du_guetteur" GUID="wLgrOubAc0uIUNXo9TTZVw=="/>
+			<POI MapID="1185" xpos="175.424"  ypos="90.4478" zpos="665.139" type="chroniques.saison_3.ep4_la_tete_du_serpent.connaissance_du_lac_doric__vallon_du_guetteur" GUID="lEBna3bixkuq0qJj+PHssA=="/>
+			<POI MapID="1185" xpos="184.603"  ypos="92.8012" zpos="665.326" type="chroniques.saison_3.ep4_la_tete_du_serpent.connaissance_du_lac_doric__vallon_du_guetteur" GUID="j/kM3XVKzkOFIPXhB3Il7w=="/>
+			<POI MapID="1185" xpos="191.983"  ypos="96.2098" zpos="663.178" type="chroniques.saison_3.ep4_la_tete_du_serpent.connaissance_du_lac_doric__vallon_du_guetteur" GUID="lJmvH/6D4065K34HrXmHkw=="/>
+			<POI MapID="1185" xpos="196.286"  ypos="96.7362" zpos="655.772" type="chroniques.saison_3.ep4_la_tete_du_serpent.connaissance_du_lac_doric__vallon_du_guetteur" GUID="7FPJbKOgCEO4RElED6iCIw=="/>
+			<POI MapID="1185" xpos="196.309"  ypos="96.9199" zpos="647.083" type="chroniques.saison_3.ep4_la_tete_du_serpent.connaissance_du_lac_doric__vallon_du_guetteur" GUID="Olxs9UqSlUefBVoj6kU0aQ=="/>
+			<POI MapID="1185" xpos="188.231"  ypos="96.1287" zpos="641.132" type="chroniques.saison_3.ep4_la_tete_du_serpent.connaissance_du_lac_doric__vallon_du_guetteur" GUID="8wEtMkGNvU6WVfOhXvaBTg=="/>
+			<POI MapID="1185" xpos="179.922"  ypos="96.5904" zpos="636.953" type="chroniques.saison_3.ep4_la_tete_du_serpent.connaissance_du_lac_doric__vallon_du_guetteur" GUID="PJpIOUEZokaRZo29i3n1qw=="/>
+			<POI MapID="1185" xpos="171.261"  ypos="99.33"   zpos="633.702" type="chroniques.saison_3.ep4_la_tete_du_serpent.connaissance_du_lac_doric__vallon_du_guetteur" GUID="Vrts8cYjxU6s0lKwMaw0vg=="/>
+			<POI MapID="1185" xpos="162.818"  ypos="102.767" zpos="631.802" type="chroniques.saison_3.ep4_la_tete_du_serpent.connaissance_du_lac_doric__vallon_du_guetteur" GUID="s80YoTGwnUiG7ZrRTsWP0g=="/>
+			<POI MapID="1185" xpos="154.462"  ypos="106.717" zpos="630.585" type="chroniques.saison_3.ep4_la_tete_du_serpent.connaissance_du_lac_doric__vallon_du_guetteur" GUID="EbV25euYj0mEypK/HeHN4w=="/>
+			<POI MapID="1185" xpos="144.984"  ypos="110.891" zpos="629.118" type="chroniques.saison_3.ep4_la_tete_du_serpent.connaissance_du_lac_doric__vallon_du_guetteur" GUID="NHKfO/SmYUGg8rzLxWivAg=="/>
+			<POI MapID="1185" xpos="136.329"  ypos="114.336" zpos="628.829" type="chroniques.saison_3.ep4_la_tete_du_serpent.connaissance_du_lac_doric__vallon_du_guetteur" GUID="CsijZf23Lki2y38C7gNgDQ=="/>
+			<POI MapID="1185" xpos="128.007"  ypos="117.313" zpos="626.168" type="chroniques.saison_3.ep4_la_tete_du_serpent.connaissance_du_lac_doric__vallon_du_guetteur" GUID="8p5dYLJNhUublYJRBIHyJg=="/>
+			<POI MapID="1185" xpos="119.249"  ypos="119.622" zpos="622.703" type="chroniques.saison_3.ep4_la_tete_du_serpent.connaissance_du_lac_doric__vallon_du_guetteur" GUID="pzauUBLtg06+6TXZzNIuew=="/>
+			<POI MapID="1185" xpos="110.186"  ypos="120.734" zpos="621.831" type="chroniques.saison_3.ep4_la_tete_du_serpent.connaissance_du_lac_doric__vallon_du_guetteur" GUID="SH7qFYFyoECJMtY98ku2UQ=="/>
+			<POI MapID="1185" xpos="101.215"  ypos="121.444" zpos="625.449" type="chroniques.saison_3.ep4_la_tete_du_serpent.connaissance_du_lac_doric__vallon_du_guetteur" GUID="aQjiBbI+l0m2dlWTQwVKyQ=="/>
+			<POI MapID="1185" xpos="89.4844"  ypos="122.329" zpos="631.037" type="chroniques.saison_3.ep4_la_tete_du_serpent.connaissance_du_lac_doric__vallon_du_guetteur" GUID="Wqdxgtlznk+Wmn/1yfIu8A=="/>
+			<POI MapID="1185" xpos="78.9513"  ypos="123.013" zpos="634.571" type="chroniques.saison_3.ep4_la_tete_du_serpent.connaissance_du_lac_doric__vallon_du_guetteur" GUID="FpsTTYjI1023JbrCQ+ksuA=="/>
+			<POI MapID="1185" xpos="70.2524"  ypos="123.631" zpos="637.885" type="chroniques.saison_3.ep4_la_tete_du_serpent.connaissance_du_lac_doric__vallon_du_guetteur" GUID="2mS0sZD7I0mMHcHSEBaJ1w=="/>
+			<POI MapID="1185" xpos="61.3433"  ypos="124.513" zpos="641.639" type="chroniques.saison_3.ep4_la_tete_du_serpent.connaissance_du_lac_doric__vallon_du_guetteur" GUID="jIdpxM4KPUStarE0XgirFg=="/>
+			<POI MapID="1185" xpos="51.0323"  ypos="125.482" zpos="645.899" type="chroniques.saison_3.ep4_la_tete_du_serpent.connaissance_du_lac_doric__vallon_du_guetteur" GUID="dXZnH5TCS02jxuBoRb2CGg=="/>
+			<POI MapID="1185" xpos="39.4202"  ypos="126.69"  zpos="651.066" type="chroniques.saison_3.ep4_la_tete_du_serpent.connaissance_du_lac_doric__vallon_du_guetteur" GUID="CqlIBUMQtUGDIsTrZ5lHxg=="/>
+			<POI MapID="1185" xpos="30.4582"  ypos="127.257" zpos="654.345" type="chroniques.saison_3.ep4_la_tete_du_serpent.connaissance_du_lac_doric__vallon_du_guetteur" GUID="WM8PYkQbhUqvU6wLPw/xew=="/>
+			<POI MapID="1185" xpos="20.765"   ypos="126.207" zpos="658.141" type="chroniques.saison_3.ep4_la_tete_du_serpent.connaissance_du_lac_doric__vallon_du_guetteur" GUID="x3SlcWCwIUah8/M/ami7gg=="/>
+			<POI MapID="1185" xpos="12.1636"  ypos="125.326" zpos="661.733" type="chroniques.saison_3.ep4_la_tete_du_serpent.connaissance_du_lac_doric__vallon_du_guetteur" GUID="zlCVQ86TJUil+UumKKxw7g=="/>
+			<POI MapID="1185" xpos="3.27455"  ypos="125.124" zpos="665.627" type="chroniques.saison_3.ep4_la_tete_du_serpent.connaissance_du_lac_doric__vallon_du_guetteur" GUID="qdF6jtdUsEe1WSqqahQziA=="/>
+			<POI MapID="1185" xpos="-6.35514" ypos="125.005" zpos="669.692" type="chroniques.saison_3.ep4_la_tete_du_serpent.connaissance_du_lac_doric__vallon_du_guetteur" GUID="Gz6IJ6mmd0Gyjwaahhswjg=="/>
+			<POI MapID="1185" xpos="-15.5605" ypos="124.931" zpos="673.795" type="chroniques.saison_3.ep4_la_tete_du_serpent.connaissance_du_lac_doric__vallon_du_guetteur" GUID="qot4ZrxTsUOl/fCwJvNtpQ=="/>
+			<POI MapID="1185" xpos="-23.7256" ypos="125.358" zpos="677.599" type="chroniques.saison_3.ep4_la_tete_du_serpent.connaissance_du_lac_doric__vallon_du_guetteur" GUID="w8jg1y/Eak2/PzurA837PQ=="/>
+			<POI MapID="1185" xpos="-34.3233" ypos="124.812" zpos="682.229" type="chroniques.saison_3.ep4_la_tete_du_serpent.connaissance_du_lac_doric__vallon_du_guetteur" GUID="E4CMNnPoa0GnoYOO4n7nZg=="/>
+			<POI MapID="1185" xpos="-43.7373" ypos="124.537" zpos="685.842" type="chroniques.saison_3.ep4_la_tete_du_serpent.connaissance_du_lac_doric__vallon_du_guetteur" GUID="mAtkfdS510GisBNdOAQJng=="/>
+			<POI MapID="1185" xpos="-53.4978" ypos="124.159" zpos="689.591" type="chroniques.saison_3.ep4_la_tete_du_serpent.connaissance_du_lac_doric__vallon_du_guetteur" GUID="OIsQUg9giUCVYzXzPNBcdQ=="/>
+			<POI MapID="1185" xpos="-62.9939" ypos="123.871" zpos="692.96"  type="chroniques.saison_3.ep4_la_tete_du_serpent.connaissance_du_lac_doric__vallon_du_guetteur" GUID="DHvo6WOQY0iZt3xZ8SbOug=="/>
+			<POI MapID="1185" xpos="-71.4906" ypos="123.562" zpos="695.789" type="chroniques.saison_3.ep4_la_tete_du_serpent.connaissance_du_lac_doric__vallon_du_guetteur" GUID="6feX/VZ2nEyxhvUmx0jypQ=="/>
+			<POI MapID="1185" xpos="-79.5872" ypos="123.268" zpos="698.658" type="chroniques.saison_3.ep4_la_tete_du_serpent.connaissance_du_lac_doric__vallon_du_guetteur" GUID="LgbUlQEHA0iYyXif8c8KlQ=="/>
+		</Route>
+
+	</POIs>
+</OverlayData>

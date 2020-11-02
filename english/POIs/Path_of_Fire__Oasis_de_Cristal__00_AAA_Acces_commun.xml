@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+POIs: TMKFrench.6427
+Date: 2017/10/10
+
+Note: Chemin d'accès commun à plusieurs succès 
+-->
+
+<OverlayData>
+
+	<MarkerCategory name="path_of_fire.oasis_de_cristal">
+		<MarkerCategory name="acces_commun" DisplayName="Multi-Achivment Common Acces" heightOffset="3" fadeNear="10000" fadeFar="20000">
+			<MarkerCategory name="acces_raptor" DisplayName="Raptor Acces" iconFile="Img\PanneauRaptor.png" iconSize="1.5" heightOffset="0" fadeNear="4000" fadeFar="8000"/>
+			<MarkerCategory name="acces_frappesol" DisplayName="Springer Acces" iconFile="Img\PanneauFrappesol.png" iconSize="1.5" heightOffset="0" fadeNear="4000" fadeFar="8000"/>
+			<MarkerCategory name="acces_raie" DisplayName="Skimmer Acces" iconFile="Img\PanneauRaie.png" iconSize="1.5" heightOffset="0" fadeNear="4000" fadeFar="8000"/>
+			<MarkerCategory name="acces_chacal" DisplayName="Jackal Acces" iconFile="Img\PanneauChacal.png" iconSize="1.5" heightOffset="0" fadeNear="4000" fadeFar="8000"/>
+			<MarkerCategory name="guide" DisplayName="Guide" iconFile="Img\Guide.png" iconSize="0.75" heightOffset="1" fadeNear="4000" fadeFar="8000"/>
+		</MarkerCategory>
+	</MarkerCategory>
+
+	<POIs>
+	
+		<!-- Bay of Elon : Mastery Insight, Bleached bones, Lost Lore page -->
+		<POI MapID="1210" xpos="-1220.9" ypos="0.578932" zpos="-468.106" type="path_of_fire.oasis_de_cristal.acces_commun.acces_frappesol" GUID="uXFGVc3Qh0WKEoXtSmkyHw=="/>
+		<POI MapID="1210" xpos="-1220.9" ypos="2.578932" zpos="-468.106" type="path_of_fire.oasis_de_cristal.acces_commun.guide" GUID="eUwykvOz5EK5NRI+TmnuuQ==" iconFile="Img\FlecheHaut.png"/>
+		<POI MapID="1210" xpos="-1177.86" ypos="0.117651" zpos="-595.518" type="path_of_fire.oasis_de_cristal.acces_commun.acces_raptor" GUID="Ybm/pUMQHECfGwwOynKaGw=="/>
+		<POI MapID="1210" xpos="-1181.72" ypos="0.612811" zpos="-593.67" type="path_of_fire.oasis_de_cristal.acces_commun.guide" GUID="id3YW7MXhkOJk6zPgJL/Yg==" iconFile="Img\FlecheAvancer.png"/>
+		<POI MapID="1210" xpos="-1206.61" ypos="1.14399" zpos="-581.561" type="path_of_fire.oasis_de_cristal.acces_commun.guide" GUID="I5tBRCjFD0SfesDsUYVhMg==" iconFile="Img\SautIci.png"/>
+		<POI MapID="1210" xpos="-1208.81" ypos="1.04611" zpos="-583.432" type="path_of_fire.oasis_de_cristal.acces_commun.acces_frappesol" GUID="PQC4R6304ECx8RbOCDBJ+w=="/>
+		<POI MapID="1210" xpos="-1209.09" ypos="4.75733" zpos="-583.185" type="path_of_fire.oasis_de_cristal.acces_commun.guide" GUID="Ne/sJmppOkqW5cf6oNuV5Q=="/>
+		<POI MapID="1210" xpos="-1214.76" ypos="8.62616" zpos="-583.264" type="path_of_fire.oasis_de_cristal.acces_commun.guide" GUID="Q53iPMPLaEuiJDKeTX4xMg=="/>
+
+		<!-- Sifuri Sand Sea: Mastery Insight, Bleached bones -->
+		<POI MapID="1210" xpos="-570.176" ypos="56.7953" zpos="706.056" type="path_of_fire.oasis_de_cristal.acces_commun.acces_frappesol" GUID="TV5KbnZ2rkiEcwMIcf5wew==" iconFile="Img\PanneauFrappesolNiv3.png"/>
+		<POI MapID="1210" xpos="-566.495" ypos="72.8937" zpos="706.32" type="path_of_fire.oasis_de_cristal.acces_commun.guide" GUID="Y+rq2HKxrE2taN5RHFDQJg=="/>
+		<POI MapID="1210" xpos="-566.4" ypos="88.7682" zpos="708.255" type="path_of_fire.oasis_de_cristal.acces_commun.guide" GUID="YmgdSrWtgkCZ4ZpBK5RP0A=="/>
+		<POI MapID="1210" xpos="-560.683" ypos="100.098" zpos="708.175" type="path_of_fire.oasis_de_cristal.acces_commun.guide" GUID="RIjksaahiU24uRfBiumCrg=="/>
+		<POI MapID="1210" xpos="-563.733" ypos="116.158" zpos="714.856" type="path_of_fire.oasis_de_cristal.acces_commun.guide" GUID="3L/0nPFAiEOe2iWzykAINg=="/>
+		<POI MapID="1210" xpos="-561.33" ypos="137.032" zpos="720.085" type="path_of_fire.oasis_de_cristal.acces_commun.guide" GUID="6ZJInUEk70u4Po5r7YfDdw=="/>
+		<POI MapID="1210" xpos="-531.686" ypos="138.884" zpos="719.177" type="path_of_fire.oasis_de_cristal.acces_commun.guide" GUID="GmQmcXVFiUeuwHj8uFPw2g=="/>
+		<POI MapID="1210" xpos="-492.185" ypos="145.409" zpos="714.909" type="path_of_fire.oasis_de_cristal.acces_commun.guide" GUID="D51o5pobOUSOarm7pJ5nTQ=="/>
+		<POI MapID="1210" xpos="-463.669" ypos="146.969" zpos="714.955" type="path_of_fire.oasis_de_cristal.acces_commun.guide" GUID="uqrhetYXAUuch8DeOhPNUg=="/>
+		<POI MapID="1210" xpos="-436.031" ypos="138.562" zpos="712.904" type="informations.deltaplane.depart" GUID="uiUXHd7dE0qXYxBNaSmzbw==" iconFile="Img\DeltaplaneDepart-EN.png"/>
+		<POI MapID="1210" xpos="-250.167" ypos="65.0492" zpos="653.474" type="informations.deltaplane.stop" GUID="C9l1Z3NVCkqkcDqTTvemwA==" iconFile="Img\DeltaplaneStop.png"/>
+
+		<!-- Elona Reach : Lost Pilgrims, Bleached bones -->
+		<POI MapID="1210" xpos="624.635" ypos="230.494" zpos="436.72" type="path_of_fire.oasis_de_cristal.acces_commun.acces_frappesol" GUID="F8i+bUJdikGV75cPCBPNtA==" iconFile="Img\PanneauFrappesolNiv3.png"/>
+		<POI MapID="1210" xpos="624.601" ypos="257.801" zpos="422.858" type="path_of_fire.oasis_de_cristal.acces_commun.guide" GUID="nnnQ6LqH00ObmDbqgs/jPw=="/>
+		<POI MapID="1210" xpos="630.768" ypos="273.053" zpos="402.773" type="path_of_fire.oasis_de_cristal.acces_commun.guide" GUID="qubIkyiQrUutCRC2HGLV9Q=="/>
+		<POI MapID="1210" xpos="621.951" ypos="273.377" zpos="400.617" type="path_of_fire.oasis_de_cristal.acces_commun.acces_frappesol" GUID="+K1HccGhVkWcO2ZUpPYokw=="/>
+		
+		<!-- Glint's Legacy : Mastery Insight, Bleached bones, Lost Lore page -->
+		<POI MapID="1210" xpos="1305.14" ypos="131.41" zpos="-225.416" type="path_of_fire.oasis_de_cristal.acces_commun.acces_frappesol" GUID="dxbQSwGDsUiRQHMPh7f7Ig==" iconFile="Img\PanneauFrappesolNiv3.png"/>
+		<POI MapID="1210" xpos="1306.26" ypos="140.602" zpos="-226.865" type="path_of_fire.oasis_de_cristal.acces_commun.guide" GUID="swP617L23U6wH9hR1yHodQ=="/>
+		<POI MapID="1210" xpos="1312.78" ypos="156.314" zpos="-220.939" type="path_of_fire.oasis_de_cristal.acces_commun.guide" GUID="PDSBR8/7FEuHnJLCSH8deQ=="/>
+		<POI MapID="1210" xpos="1310.85" ypos="179.496" zpos="-223.996" type="path_of_fire.oasis_de_cristal.acces_commun.guide" GUID="0yu2Rd79oUiCy+IOYurgqg=="/>
+		<POI MapID="1210" xpos="1311.51" ypos="198.36" zpos="-224.182" type="path_of_fire.oasis_de_cristal.acces_commun.guide" GUID="XchD6MDn5Ey/4x2IOYVZew=="/>
+		
+	</POIs>
+	
+</OverlayData>

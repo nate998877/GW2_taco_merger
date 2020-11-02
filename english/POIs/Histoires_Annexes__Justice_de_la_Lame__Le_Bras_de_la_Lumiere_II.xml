@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+POIs: ReActif.9251
+Date: 2017/08/15
+-->
+<OverlayData>
+	<MarkerCategory name="histoires_annexes" DisplayName="Side Stories" iconFile="Img\HistoiresAnnexes.png" behavior="3">
+		<MarkerCategory name="justice_de_la_lame" DisplayName="Justice of the Blade" iconFile="Img\JusticeDeLaLame.png">
+			<MarkerCategory name="le_bras_de_la_lumiere_ii" DisplayName="Long Arm of the Light II"/>
+		</MarkerCategory>
+	</MarkerCategory>
+
+	<POIs>
+
+		<!-- Varre le Sournois -->
+		<POI MapID="23" xpos="1024.14"  ypos="63.1573" zpos="145.651"  type="histoires_annexes.justice_de_la_lame.le_bras_de_la_lumiere_ii" GUID="n3sn4UAnUUOv7ryZU8d96Q=="/>
+
+		<!-- Temvay l'Arrogante -->
+		<POI MapID="23" xpos="-139.153" ypos="87.1275" zpos="169.706"  type="histoires_annexes.justice_de_la_lame.le_bras_de_la_lumiere_ii" GUID="6vCH/u3ZvESe9czZK1GPKw=="/>
+
+		<!-- Ezal la Preste -->
+		<POI MapID="17" xpos="-297.895" ypos="53.5425" zpos="-266.434" type="histoires_annexes.justice_de_la_lame.le_bras_de_la_lumiere_ii" GUID="lj7DS/m8okq2HqOlQPUD7g=="/>
+
+		<!-- Ulssen l'Enclume -->
+		<POI MapID="17" xpos="-209.52"  ypos="43.3534" zpos="672.808"  type="histoires_annexes.justice_de_la_lame.le_bras_de_la_lumiere_ii" GUID="9jXRFP/9y068YM3VLYDO0g=="/>
+
+		<!-- Lenner le Vigilant -->
+		<POI MapID="24" xpos="-1042.67" ypos="26.398"  zpos="-143.976" type="histoires_annexes.justice_de_la_lame.le_bras_de_la_lumiere_ii" GUID="fXdLQsSfqEqAhbrbVYGBow=="/>
+
+	</POIs>
+</OverlayData>

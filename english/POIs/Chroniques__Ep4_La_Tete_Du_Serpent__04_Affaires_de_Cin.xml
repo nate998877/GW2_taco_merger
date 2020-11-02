@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+POIs: ReActif.9251
+Date: 2017/02/13
+-->
+<OverlayData>
+	<MarkerCategory name="chroniques.saison_3">
+		<MarkerCategory name="ep4_la_tete_du_serpent" DisplayName="Ep.4 - The Head of the Snake" iconFile="Img\LacDoric.png">
+			<MarkerCategory name="affaires_de_cin" DisplayName="Cin Business"/>
+		</MarkerCategory>
+	</MarkerCategory>
+
+	<POIs>
+
+		<!-- 1. Bon d'Expédition -->
+		<POI MapID="1185" xpos="342.579" ypos="56.8559" zpos="-315.784" type="chroniques.saison_3.ep4_la_tete_du_serpent.affaires_de_cin" GUID="hYazhS+ArUCv4LC7CDkgWQ=="/>
+
+		<!-- 2. Ration du Blanc-Manteau -->
+		<POI MapID="1185" xpos="-308.329" ypos="34.6533" zpos="-137.827" type="chroniques.saison_3.ep4_la_tete_du_serpent.affaires_de_cin" GUID="xpF3LE0CjkyrL05ggoErGA==" iconFile="Img\RationDuBlancManteau-EN.png" iconSize="2"/>
+
+		<!-- 3. Peau d'Animal Chaude -->
+		<POI MapID="1185" xpos="-158.615" ypos="91.61" zpos="694.749" type="chroniques.saison_3.ep4_la_tete_du_serpent.affaires_de_cin" GUID="+i7TuKFpD0OQrNzaN5jDWA=="/>
+
+		<!-- 4. Eclat de Tour -->
+		<POI MapID="1185" xpos="327.033" ypos="155.401" zpos="555.27" type="chroniques.saison_3.ep4_la_tete_du_serpent.affaires_de_cin" GUID="3LyhiMaSEEikuf8hXF96kQ=="/>
+
+		<!-- 5. Corde de Bois Volé -->
+		<POI MapID="1185" xpos="-195.14" ypos="45.2774" zpos="334.995" type="chroniques.saison_3.ep4_la_tete_du_serpent.affaires_de_cin" GUID="L5Tj3/zbXkmj9d20uOpEMg==" iconFile="Img\LacDoricCombat.png" iconSize="1.5"/>
+
+		<!-- 6. Nourriture Quaggan -->
+		<POI MapID="1185" xpos="-157.373" ypos="0.230204" zpos="102.703" type="chroniques.saison_3.ep4_la_tete_du_serpent.affaires_de_cin" GUID="S7e8L34O8U6UMSvL7sNWFg=="/>
+
+		<!-- 7. Espadon Elégant -->
+		<POI MapID="1185" xpos="-357.518" ypos="33.8638" zpos="-574.975" type="chroniques.saison_3.ep4_la_tete_du_serpent.affaires_de_cin" GUID="HS18K/NzwkqtxufzN+Lsyw=="/>
+
+		<!-- 8. Réserve de Poisson -->
+		<POI MapID="1185" xpos="21.2661" ypos="34.3038" zpos="-444.344" type="chroniques.saison_3.ep4_la_tete_du_serpent.affaires_de_cin" GUID="uTbsm1XLd0iOIUk+g7Rb0Q=="/>
+
+		<!-- 9. Médaillon Perdu -->
+		<POI MapID="1185" xpos="156.357" ypos="66.7268" zpos="714.446" type="chroniques.saison_3.ep4_la_tete_du_serpent.affaires_de_cin" GUID="E8VQexh/yUOvWPTl1oOH0g=="/>
+
+		<!-- 10. Noyau de Pêche Enchantée -->
+		<POI MapID="1185" xpos="100.312" ypos="96.5041" zpos="689.04" type="chroniques.saison_3.ep4_la_tete_du_serpent.affaires_de_cin" GUID="dpwn+NGpIkKG2sQVdqI+7g=="/>
+
+		<!-- 11. Carapace de Perles -->
+		<POI MapID="1185" xpos="-338.019" ypos="-0.680717" zpos="-613" type="chroniques.saison_3.ep4_la_tete_du_serpent.affaires_de_cin" GUID="fXP3izDYNEWUP6/V1fpHOA=="/>
+
+		<!-- 12. Champignon Vénéneux Infusé de Pierre de Sang -->
+		<POI MapID="1185" xpos="260.354" ypos="29.6312" zpos="-680.735" type="chroniques.saison_3.ep4_la_tete_du_serpent.affaires_de_cin" GUID="nzkXfZiVskOGZyWiY3zjQw=="/>
+
+		<!-- 13. Sextant de Vairon -->
+		<POI MapID="1185" xpos="-17.4886" ypos="5.65699" zpos="123.857" type="chroniques.saison_3.ep4_la_tete_du_serpent.affaires_de_cin" GUID="7jNHyaEvFU+UzVt+g6XkWQ=="/>
+
+		<!-- 14. Tissu Mystique -->
+		<POI MapID="1185" xpos="98.8113" ypos="47.8294" zpos="36.5259" type="chroniques.saison_3.ep4_la_tete_du_serpent.affaires_de_cin" GUID="QHLcdB0oO0mCjBmFF9Zs/w==" iconFile="Img\LacDoricCombat.png" iconSize="1.5"/>
+
+		<!-- 15. Morceau de Jade du Régicide -->
+		<POI MapID="1185" xpos="22.3243" ypos="31.6598" zpos="-492.271" type="chroniques.saison_3.ep4_la_tete_du_serpent.affaires_de_cin" GUID="QGhDbGVbx0yC8giCv/mzlw==" iconFile="Img\LacDoricCombat.png" iconSize="1.5"/>
+
+		<!-- 16. Bavette Volée -->
+		<POI MapID="1185" xpos="-170.153" ypos="90.6203" zpos="614.371" GUID="S18ktt8SYEOXxB+7ZBJc5g==" type="chroniques.saison_3.ep4_la_tete_du_serpent.affaires_de_cin" iconFile="Img\LacDoricCombat.png" iconSize="1.5"/><!-- Cascades nourricières -->
+		<POI MapID="1185" xpos="55.6282" ypos="74.3462" zpos="565.323" GUID="9VXg3lsPsE+/7ggMCXDloA==" type="chroniques.saison_3.ep4_la_tete_du_serpent.affaires_de_cin" iconFile="Img\LacDoricCombat.png" iconSize="1.5"/><!-- Tour de Guet -->
+
+		<!-- 17. Bouteille de Vin Rouge du Blanc-Manteau -->
+		<POI MapID="1185" xpos="337.083" ypos="105" zpos="321.832" type="chroniques.saison_3.ep4_la_tete_du_serpent.affaires_de_cin" GUID="KyHDJB465ES9h5iAHpBrjA=="/>
+
+		<!-- 18. Démolisseur du Barrage de Doric -->
+		<POI MapID="1185" xpos="-337.399" ypos="0.546585" zpos="42.2727" type="chroniques.saison_3.ep4_la_tete_du_serpent.affaires_de_cin" GUID="gCc9aAj630GXp5iw+o1O1g=="/>
+
+	</POIs>
+</OverlayData>

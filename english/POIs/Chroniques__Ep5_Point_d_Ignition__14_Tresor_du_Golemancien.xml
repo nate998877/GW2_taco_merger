@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+POIs: ReActif.9251
+Date: 2017/05/09
+-->
+<OverlayData>
+	<MarkerCategory name="chroniques.saison_3">
+		<MarkerCategory name="ep5_point_d_ignition" DisplayName="Ep.5 - Flashpoint" iconFile="Img\MontDraconis.png">
+			<MarkerCategory name="tresor_du_golemancien" DisplayName="Golemancer's Treasure"/>
+		</MarkerCategory>
+	</MarkerCategory>
+
+	<POIs>
+
+		<!-- Dévoreur Aride Champion -->
+		<POI MapID="1195" xpos="-186.158" ypos="408.499" zpos="-581.367" type="chroniques.saison_3.ep5_point_d_ignition.tresor_du_golemancien" GUID="0lwSVkS9iUaVg5fJM5aGMg=="/>
+		<POI MapID="1195" xpos="-186.158" ypos="410.499" zpos="-581.367" type="chroniques.saison_3.ep5_point_d_ignition.tresor_du_golemancien" GUID="KgXOBrH/dkOHRV2/io0y9w==" iconFile="Img\Combat.png" color="ffff0000"/>
+
+	</POIs>
+</OverlayData>

@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+POIs: ReActif.9251
+Date: 2017/08/11
+-->
+<OverlayData>
+	<MarkerCategory name="missions_de_guilde" DisplayName="Guild Missions">
+		<MarkerCategory name="courses" DisplayName="Races" iconFile="Img\Guide.png" iconSize="0.75" triggerRange="3">
+			<MarkerCategory name="course_arachnide" DisplayName="Spider Scurry">
+				<MarkerCategory name="drapeaux" DisplayName="Checkpoints" iconFile="Img\DrapeauPassage.png" iconSize="1" fadeNear="1000" fadeFar="2000"/>
+				<MarkerCategory name="pieges" DisplayName="Traps" iconSize="1">
+					<MarkerCategory name="piques" DisplayName="Spikes" iconFile="Img\DangerPiques.png" fadeNear="1000" fadeFar="2000" heightOffset="0"/>
+					<MarkerCategory name="chutes_de_pierres" DisplayName="Rockfalls" iconFile="Img\DangerPierres.png" fadeNear="1000" fadeFar="2000" heightOffset="0"/>
+				</MarkerCategory>
+				<MarkerCategory name="sens_interdits" DisplayName="Not This Way" iconFile="Img\SensInterdit.png" iconSize="1" fadeNear="1000" fadeFar="1200"/>
+			</MarkerCategory>
+		</MarkerCategory>
+	</MarkerCategory>
+
+	<POIs>
+
+		<!-- Début -->
+		<POI MapID="26" xpos="-269.346" ypos="110.553" zpos="75.9282" type="missions_de_guilde.courses.debut" GUID="axTsTYJY90SFYY8cPhVfUQ=="/>
+
+		<!-- Route -->
+		<Route MapID="26" name="Course_Arachnide" resetposx="-269.346" resetposy="110.553" resetposz="75.9282" resetrange="2">
+			<POI MapID="26" xpos="-260.259" ypos="112.22"  zpos="78.5819"   type="missions_de_guilde.courses.course_arachnide" GUID="PT/FJo1ROku9VKlsyJWElg=="/>
+			<POI MapID="26" xpos="-258.515" ypos="113.393" zpos="69.3698"   type="missions_de_guilde.courses.course_arachnide" GUID="aaAA7uM9EUCGOXhh+2Q0WQ=="/>
+			<POI MapID="26" xpos="-246.29"  ypos="114.039" zpos="56.6971"   type="missions_de_guilde.courses.course_arachnide" GUID="oLmnTMTuOUanjxwgmNYERg=="/>
+			<POI MapID="26" xpos="-237.096" ypos="114.732" zpos="53.2744"   type="missions_de_guilde.courses.course_arachnide" GUID="xrjkC02XeUuxvPSwapa4VA=="/>
+			<POI MapID="26" xpos="-228.952" ypos="116.904" zpos="51.5135"   type="missions_de_guilde.courses.course_arachnide" GUID="5E4CXFgEPkSw1jFBjk18ig=="/>
+			<POI MapID="26" xpos="-227.597" ypos="114.986" zpos="41.4128"   type="missions_de_guilde.courses.course_arachnide" GUID="B4ccF1m2I0a/6tvLBWjLvg=="/>
+			<POI MapID="26" xpos="-219.733" ypos="113.033" zpos="30.8973"   type="missions_de_guilde.courses.course_arachnide" GUID="bIir3/wwZEWQ3fm7gFs9lw=="/>
+			<POI MapID="26" xpos="-209.459" ypos="109.368" zpos="18.8668"   type="missions_de_guilde.courses.course_arachnide" GUID="HoLD5uRmRU+PgUlBmChDbQ=="/>
+			<POI MapID="26" xpos="-203.716" ypos="108.686" zpos="9.37488"   type="missions_de_guilde.courses.course_arachnide" GUID="oU0KfrYpfUyWhU/3AV664w=="/>
+			<POI MapID="26" xpos="-211.374" ypos="109.175" zpos="-12.6504"  type="missions_de_guilde.courses.course_arachnide" GUID="kfLHT+dWXE+i+itG0GsyPQ=="/>
+			<POI MapID="26" xpos="-217.809" ypos="109.753" zpos="-24.4222"  type="missions_de_guilde.courses.course_arachnide" GUID="Lh6D3Y/q/0+o6fPGpe/4Nw=="/>
+			<POI MapID="26" xpos="-220.866" ypos="110.995" zpos="-37.4672"  type="missions_de_guilde.courses.course_arachnide" GUID="AnUJcCk1TUm03WXGUIshPQ=="/>
+			<POI MapID="26" xpos="-219.994" ypos="112.169" zpos="-44.3617"  type="missions_de_guilde.courses.course_arachnide" GUID="ZIFYQIdT30uXe3EfvdbKtw=="/>
+			<POI MapID="26" xpos="-225.007" ypos="111.425" zpos="-52.6721"  type="missions_de_guilde.courses.course_arachnide" GUID="gWc9eQ83ekq7s/fdufLJOA=="/>
+			<POI MapID="26" xpos="-214.63"  ypos="112.19"  zpos="-58.63"    type="missions_de_guilde.courses.course_arachnide" GUID="f2K0L9euXkGUcI5/DiDcFA=="/>
+			<POI MapID="26" xpos="-203.105" ypos="114.79"  zpos="-58.8916"  type="missions_de_guilde.courses.course_arachnide" GUID="yMQ4ZJsRzkiPtXkkP9tN9w=="/>	
+			<POI MapID="26" xpos="-186.474" ypos="112.059" zpos="-68.202"   type="missions_de_guilde.courses.course_arachnide" GUID="gGCRj0BG30uRIxndjl+6Uw=="/>
+			<!-- Saut avec Grappin -->
+			<POI MapID="26" xpos="-173.754" ypos="111.985" zpos="-68.6842"  type="missions_de_guilde.courses.course_arachnide" GUID="8TZI4izPJ0u6xVj3F2Tspw==" iconFile="Img\Stop.png" iconSize="0.5" heightOffset="0.5"/>
+			<POI MapID="26" xpos="-158.594" ypos="126.038" zpos="-78.054"   type="missions_de_guilde.courses.course_arachnide" GUID="DFG+LmrSZUS5twcwyv9LuA==" iconFile="Img\GrappinAraignee.png"/>
+			<POI MapID="26" xpos="-132.733" ypos="130.81"  zpos="-96.7016"  type="missions_de_guilde.courses.course_arachnide" GUID="yXAy3e8koEqBfE8reKkLuw=="/>
+			<POI MapID="26" xpos="-126.079" ypos="130.807" zpos="-100.502"  type="missions_de_guilde.courses.course_arachnide" GUID="i4KkmYJwOk68GmAfVypqvA=="/>
+			<!-- Saut avec Grappin -->
+			<POI MapID="26" xpos="-123.045" ypos="130.847" zpos="-108.257"  type="missions_de_guilde.courses.course_arachnide" GUID="tNGTExCy40a2LgvP8fZMug==" iconFile="Img\Stop.png" iconSize="0.5" heightOffset="0.5"/>
+			<POI MapID="26" xpos="-117.514" ypos="149.383" zpos="-119.858"  type="missions_de_guilde.courses.course_arachnide" GUID="4xMfc83QVUeRAME5E5bvhw==" iconFile="Img\GrappinAraignee.png"/>
+			<POI MapID="26" xpos="-107.988" ypos="149.384" zpos="-120.576"  type="missions_de_guilde.courses.course_arachnide" GUID="NRTKwxrh70eu2hJVdfsrag=="/>
+			<POI MapID="26" xpos="-100.391" ypos="149.68"  zpos="-118.417"  type="missions_de_guilde.courses.course_arachnide" GUID="oJEPOMBWoUmxhGg6f40AmA=="/>
+			<POI MapID="26" xpos="-87.7491" ypos="149.697" zpos="-120.261"  type="missions_de_guilde.courses.course_arachnide" GUID="l4rPIdbkaUGIPOvmVwXTNg=="/>
+			<POI MapID="26" xpos="-82.1796" ypos="149.741" zpos="-105.575"  type="missions_de_guilde.courses.course_arachnide" GUID="tyvAG/nMPE6oF72z7lbiYQ=="/>
+			<POI MapID="26" xpos="-69.9184" ypos="149.789" zpos="-106.169"  type="missions_de_guilde.courses.course_arachnide" GUID="ThxZ4aySRUqaP9SMFE+emw=="/>
+			<POI MapID="26" xpos="-58.9842" ypos="146.533" zpos="-98.5644"  type="missions_de_guilde.courses.course_arachnide" GUID="Doj1Gkyoy0aILj7glmGdng=="/>
+			<POI MapID="26" xpos="-55.7965" ypos="146.017" zpos="-94.6682"  type="missions_de_guilde.courses.course_arachnide" GUID="ae56g6TMj0+L04g4HUkFBw=="/>
+			<POI MapID="26" xpos="-48.0775" ypos="144.175" zpos="-96.1677"  type="missions_de_guilde.courses.course_arachnide" GUID="M00D5Ee42kutBwEffdmzkg=="/>
+			<!-- Saut avec Grappin -->
+			<POI MapID="26" xpos="-39.0561" ypos="141.807" zpos="-96.4201"  type="missions_de_guilde.courses.course_arachnide" GUID="EgvGMAEWYkKTAu+ImpiISg==" iconFile="Img\Stop.png" iconSize="0.5" heightOffset="0.5"/>
+			<POI MapID="26" xpos="-34.6949" ypos="139.196" zpos="-83.6862"  type="missions_de_guilde.courses.course_arachnide" GUID="LL/agfnz+UiSF8nl0/7WZA==" iconFile="Img\GrappinAraignee.png"/>
+			<!-- Saut avec Grappin -->
+			<POI MapID="26" xpos="-31.686"  ypos="139.14"  zpos="-67.8651"  type="missions_de_guilde.courses.course_arachnide" GUID="ic8VqvpP/keRRAN9t7fvYQ==" iconFile="Img\Stop.png" iconSize="0.5" heightOffset="0.5"/>
+			<POI MapID="26" xpos="-26.9826" ypos="144.499" zpos="-56.5625"  type="missions_de_guilde.courses.course_arachnide" GUID="p6L1VhXqo0WnoHRRUr7UlA==" iconFile="Img\GrappinAraignee.png"/>
+			<POI MapID="26" xpos="-39.7984" ypos="145.834" zpos="-47.6899"  type="missions_de_guilde.courses.course_arachnide" GUID="f74Y1bWBh0yljY0OE86QmA=="/>
+			<POI MapID="26" xpos="-49.0992" ypos="147.585" zpos="-49.5146"  type="missions_de_guilde.courses.course_arachnide" GUID="pbS5MMqBPk+P676SfBgclg=="/>
+			<POI MapID="26" xpos="-55.7788" ypos="147.73"  zpos="-49.8198"  type="missions_de_guilde.courses.course_arachnide" GUID="IprQCqaDx0yk8nNj6D/30A=="/>
+			<POI MapID="26" xpos="-58.2644" ypos="147.734" zpos="-47.3145"  type="missions_de_guilde.courses.course_arachnide" GUID="AAbo2akVrEuvX/p4oGT4UQ=="/>
+			<POI MapID="26" xpos="-61.5336" ypos="147.759" zpos="-41.3183"  type="missions_de_guilde.courses.course_arachnide" GUID="FQPnNpijUUS4LU253EWpzQ=="/>
+			<POI MapID="26" xpos="-70.0094" ypos="147.819" zpos="-34.2936"  type="missions_de_guilde.courses.course_arachnide" GUID="dJ0GVBT5VkORnddnLt/y4Q=="/>
+			<POI MapID="26" xpos="-83.9039" ypos="151.997" zpos="-28.8347"  type="missions_de_guilde.courses.course_arachnide" GUID="Uz6ZMkNOPkqTKfhqlba7zA=="/>
+			<POI MapID="26" xpos="-92.1749" ypos="146.943" zpos="-27.5778"  type="missions_de_guilde.courses.course_arachnide" GUID="I7MYRI1r/Em9YazvD/gUQQ=="/>
+			<POI MapID="26" xpos="-109.242" ypos="143.254" zpos="-27.3423"  type="missions_de_guilde.courses.course_arachnide" GUID="xSqa69FUGkyr3qJiWwiuEA=="/>
+			<POI MapID="26" xpos="-111.283" ypos="139.443" zpos="-37.1799"  type="missions_de_guilde.courses.course_arachnide" GUID="JAQybYu0kUCI7BxOFJP0XA=="/>
+			<POI MapID="26" xpos="-121.698" ypos="137.432" zpos="-36.8189"  type="missions_de_guilde.courses.course_arachnide" GUID="181hP/ECSkqZ0JKyisLp3A=="/>
+			<POI MapID="26" xpos="-129.227" ypos="135.61"  zpos="-34.31"    type="missions_de_guilde.courses.course_arachnide" GUID="urwhQfZLxESOVgyhhWpXJg=="/>
+			<POI MapID="26" xpos="-127.211" ypos="133.29"  zpos="-23.6403"  type="missions_de_guilde.courses.course_arachnide" GUID="U33VHNtuq06CO3oWRGJ/Mw=="/>
+			<!-- Saut avec Grappin -->
+			<POI MapID="26" xpos="-105.305" ypos="128.156" zpos="-19.6018"  type="missions_de_guilde.courses.course_arachnide" GUID="nFeYqXYlMUWx55LsoN8CGQ==" iconFile="Img\Stop.png" iconSize="0.5" heightOffset="0.5"/>
+			<POI MapID="26" xpos="-87.1234" ypos="120.072" zpos="-9.65267"  type="missions_de_guilde.courses.course_arachnide" GUID="Rq9zwY55pEaKkoiGUl9z9g==" iconFile="Img\GrappinAraignee.png"/>
+			<POI MapID="26" xpos="-83.3485" ypos="118.951" zpos="-0.539559" type="missions_de_guilde.courses.course_arachnide" GUID="toY9g5J3T0Ok6VxM6Pvzqw=="/>
+			<POI MapID="26" xpos="-80.2399" ypos="116.139" zpos="8.15359"   type="missions_de_guilde.courses.course_arachnide" GUID="tQEKTL0W5kqS6vX0VPwZIw=="/>
+			<POI MapID="26" xpos="-72.41"   ypos="115.107" zpos="7.49942"   type="missions_de_guilde.courses.course_arachnide" GUID="eey+HAJqJE6w5E/+F/VxdA=="/>
+			<POI MapID="26" xpos="-62.5788" ypos="112.285" zpos="4.90859"   type="missions_de_guilde.courses.course_arachnide" GUID="6z3zMfQyjk6XRucD94ngsw=="/>
+		</Route>
+
+		<!-- Arrivée -->
+		<POI MapID="26" xpos="-49.082"  ypos="114.146" zpos="1.54566"  type="missions_de_guilde.courses.course_arachnide" GUID="BJCwN/kcpk2U03ura0FuTg==" iconFile="Img\DrapeauArrivee.png" iconSize="1"/>
+
+		<!-- Drapeaux de Passage -->
+		<POI MapID="26" xpos="-29.1854" ypos="144.486" zpos="-50.5933" type="missions_de_guilde.courses.course_arachnide.drapeaux" GUID="UaRfTNTY8Eq2xZV+rP9FJg=="/>
+		<POI MapID="26" xpos="-33.0772" ypos="139.174" zpos="-77.656"  type="missions_de_guilde.courses.course_arachnide.drapeaux" GUID="GkWHu2Y36EK6+JQZ6FE4BQ=="/>
+		<POI MapID="26" xpos="-60.6647" ypos="149.712" zpos="-107.632" type="missions_de_guilde.courses.course_arachnide.drapeaux" GUID="LdtyZAwxS0KehaJh166nQg=="/>
+		<POI MapID="26" xpos="-84.512"  ypos="120.067" zpos="-6.36275" type="missions_de_guilde.courses.course_arachnide.drapeaux" GUID="34kBQ8kBlU2hlVjCCMqH0w=="/>
+		<POI MapID="26" xpos="-97.41"   ypos="145.71"  zpos="-25.76"   type="missions_de_guilde.courses.course_arachnide.drapeaux" GUID="DRme/kY87EW610a26dkhgA=="/>
+		<POI MapID="26" xpos="-114.311" ypos="149.369" zpos="-120.941" type="missions_de_guilde.courses.course_arachnide.drapeaux" GUID="PkYEJ2m6hU6cnmLFxrZFBQ=="/>
+		<POI MapID="26" xpos="-119.73"  ypos="131.91"  zpos="-18.45"   type="missions_de_guilde.courses.course_arachnide.drapeaux" GUID="OuAUSU9WmE+ibhnjpbcvcA=="/>
+		<POI MapID="26" xpos="-149.071" ypos="125.976" zpos="-86.4873" type="missions_de_guilde.courses.course_arachnide.drapeaux" GUID="NRWOkoFXjUqzl1RM9x2GKA=="/>
+		<POI MapID="26" xpos="-201.925" ypos="112.282" zpos="-68.4865" type="missions_de_guilde.courses.course_arachnide.drapeaux" GUID="HkQBsdl7/0CdMTb54EGuaQ=="/>
+		<POI MapID="26" xpos="-204.984" ypos="108.761" zpos="-4.18948" type="missions_de_guilde.courses.course_arachnide.drapeaux" GUID="ilPlPmPWXkCCEtlcGH4dTA=="/>
+
+		<!-- Pieges à Piques -->
+		<POI MapID="26" xpos="-171.293" ypos="112.08"  zpos="-66.4831" type="missions_de_guilde.courses.course_arachnide.pieges.piques" GUID="E/JdEMvKHk6VgdI5bs3ktA=="/>
+		<POI MapID="26" xpos="-177.045" ypos="112.012" zpos="-71.0357" type="missions_de_guilde.courses.course_arachnide.pieges.piques" GUID="3LMGs3fGr0OIa/A+gZoAlg=="/>
+		<POI MapID="26" xpos="-212.791" ypos="112.053" zpos="-63.5196" type="missions_de_guilde.courses.course_arachnide.pieges.piques" GUID="zzSZTmXrAkqv/b3QSx/WpA=="/>
+		<POI MapID="26" xpos="-219.283" ypos="111.877" zpos="-61.5047" type="missions_de_guilde.courses.course_arachnide.pieges.piques" GUID="fwsK1JWOck6DNENkfRGBng=="/>
+		<POI MapID="26" xpos="-224.082" ypos="110.627" zpos="-39.6955" type="missions_de_guilde.courses.course_arachnide.pieges.piques" GUID="01ReB99EkkyFJWj6HOjeMQ=="/>
+		<POI MapID="26" xpos="-227.692" ypos="110.397" zpos="-36.6054" type="missions_de_guilde.courses.course_arachnide.pieges.piques" GUID="ogIJlVMIbkW8aQSdwwUFFQ=="/>
+		<POI MapID="26" xpos="-229.437" ypos="111.714" zpos="-47.3919" type="missions_de_guilde.courses.course_arachnide.pieges.piques" GUID="Ox1ycQHuHk+fYjMEhKFj0Q=="/>
+		<POI MapID="26" xpos="-232.481" ypos="114.772" zpos="46.5758"  type="missions_de_guilde.courses.course_arachnide.pieges.piques" GUID="jkxWRmS+AEiz+fotEaFMaw=="/>
+		<POI MapID="26" xpos="-234.711" ypos="116.712" zpos="57.8793"  type="missions_de_guilde.courses.course_arachnide.pieges.piques" GUID="tbSYnm4YfkWnhAq1Qj5/jw=="/>
+		<POI MapID="26" xpos="-242.282" ypos="114.593" zpos="49.9733"  type="missions_de_guilde.courses.course_arachnide.pieges.piques" GUID="zTrruhiZnkKdLRbHvw3N/w=="/>
+		<POI MapID="26" xpos="-243.54"  ypos="114.75"  zpos="61.963"   type="missions_de_guilde.courses.course_arachnide.pieges.piques" GUID="xGghdKlG5E2UafMh60Yy6g=="/>
+		<POI MapID="26" xpos="-251.262" ypos="116.16"  zpos="52.8862"  type="missions_de_guilde.courses.course_arachnide.pieges.piques" GUID="D660phKcFk+RPXlSEYw5qw=="/>
+
+		<!-- Pieges de Chutes de Pierres -->
+		<POI MapID="26" xpos="-51.8696" ypos="147.767" zpos="-43.4548" type="missions_de_guilde.courses.course_arachnide.pieges.chutes_de_pierres" GUID="UbWChPZnOEeosgJm+s6Wug=="/>
+		<POI MapID="26" xpos="-54.8022" ypos="147.744" zpos="-46.5916" type="missions_de_guilde.courses.course_arachnide.pieges.chutes_de_pierres" GUID="WSQ3tnpZyEqKs5exgSmElw=="/>
+		<POI MapID="26" xpos="-56.0838" ypos="147.766" zpos="-41.9432" type="missions_de_guilde.courses.course_arachnide.pieges.chutes_de_pierres" GUID="7aomWhZcvku6tCgM27QBxA=="/>
+		<POI MapID="26" xpos="-59.149"  ypos="147.723" zpos="-50.4013" type="missions_de_guilde.courses.course_arachnide.pieges.chutes_de_pierres" GUID="Vi0Mz8t3AECk2yQnEHIj9g=="/>
+		<POI MapID="26" xpos="-61.4167" ypos="147.73"  zpos="-46.8675" type="missions_de_guilde.courses.course_arachnide.pieges.chutes_de_pierres" GUID="ppadAEDs6UiIruRdq3hv4g=="/>
+		<POI MapID="26" xpos="-62.6683" ypos="147.723" zpos="-51.2984" type="missions_de_guilde.courses.course_arachnide.pieges.chutes_de_pierres" GUID="SycB7SkqBku5cnQ2VkyZ2A=="/>
+		<POI MapID="26" xpos="-98.7161" ypos="149.317" zpos="-125.951" type="missions_de_guilde.courses.course_arachnide.pieges.chutes_de_pierres" GUID="xGYDuMgtKk+3HB+kSqPvyA=="/>
+		<POI MapID="26" xpos="-103.501" ypos="149.364" zpos="-121.692" type="missions_de_guilde.courses.course_arachnide.pieges.chutes_de_pierres" GUID="yuqEAF0eP0iZ+ZnE/WSkDg=="/>
+		<POI MapID="26" xpos="-105.162" ypos="149.326" zpos="-129.284" type="missions_de_guilde.courses.course_arachnide.pieges.chutes_de_pierres" GUID="cNzb6v7Qo02Fvl1CuiZkTg=="/>
+		<POI MapID="26" xpos="-109.923" ypos="149.358" zpos="-123.616" type="missions_de_guilde.courses.course_arachnide.pieges.chutes_de_pierres" GUID="IPWPY8C+9ESNhorDgOVKKA=="/>
+		<POI MapID="26" xpos="-135.873" ypos="130.562" zpos="-98.7677" type="missions_de_guilde.courses.course_arachnide.pieges.chutes_de_pierres" GUID="nGV9+OfoYkubB8qKRb9LiQ=="/>
+
+
+		<!-- Sens Interdits -->
+		<POI MapID="26" xpos="-22.4488" ypos="144.453" zpos="-42.956"  type="missions_de_guilde.courses.course_arachnide.sens_interdits" GUID="1SQX5WRD8EG7rjXYfcwscQ=="/>
+		<POI MapID="26" xpos="-25.5269" ypos="139.076" zpos="-71.0884" type="missions_de_guilde.courses.course_arachnide.sens_interdits" GUID="GGm/xG1gLk6ei+5QrR7olQ=="/>
+		<POI MapID="26" xpos="-75.3192" ypos="151.207" zpos="-21.8308" type="missions_de_guilde.courses.course_arachnide.sens_interdits" GUID="bmQwvStZJEuEM2sbg0QRTw=="/>
+		<POI MapID="26" xpos="-77.3492" ypos="122.052" zpos="-10.2859" type="missions_de_guilde.courses.course_arachnide.sens_interdits" GUID="OsQseZcgfkS6xMhaWnyvOQ=="/>
+		<POI MapID="26" xpos="-108.934" ypos="128.152" zpos="-26.1527" type="missions_de_guilde.courses.course_arachnide.sens_interdits" GUID="lpkg36fzbkK5R02wblxcPg=="/>
+		<POI MapID="26" xpos="-143.499" ypos="125.986" zpos="-83.7454" type="missions_de_guilde.courses.course_arachnide.sens_interdits" GUID="544NdpK1akC9Muc55SeCag=="/>
+		<POI MapID="26" xpos="-152.974" ypos="109.561" zpos="-74.0409" type="missions_de_guilde.courses.course_arachnide.sens_interdits" GUID="axO7hfjMQUaqAeyHVKiiQA=="/>
+		<POI MapID="26" xpos="-154.541" ypos="109.243" zpos="-67.4986" type="missions_de_guilde.courses.course_arachnide.sens_interdits" GUID="+FjYccsLE0CcWSi4r7oV+w=="/>
+		<POI MapID="26" xpos="-156.336" ypos="110.206" zpos="-61.9889" type="missions_de_guilde.courses.course_arachnide.sens_interdits" GUID="TAmspUiSQkqGCVrwf+z4sg=="/>
+		<POI MapID="26" xpos="-228.104" ypos="115.703" zpos="-70.4272" type="missions_de_guilde.courses.course_arachnide.sens_interdits" GUID="h8JaHvabG0yOEoLdzXGleA=="/>
+		<POI MapID="26" xpos="-233.445" ypos="115.776" zpos="-69.31"   type="missions_de_guilde.courses.course_arachnide.sens_interdits" GUID="HrxEKLkX2k+cvwbNosix2Q=="/>
+		<POI MapID="26" xpos="-239.75"  ypos="115.639" zpos="-67.5353" type="missions_de_guilde.courses.course_arachnide.sens_interdits" GUID="HKvic+EQ4EquaJaQs8zx+A=="/>
+
+	</POIs>
+</OverlayData>

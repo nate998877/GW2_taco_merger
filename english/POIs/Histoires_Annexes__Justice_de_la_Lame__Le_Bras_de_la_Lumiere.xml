@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+POIs: ReActif.9251
+Date: 2017/08/15
+-->
+<OverlayData>
+	<MarkerCategory name="histoires_annexes" DisplayName="Side Stories" iconFile="Img\HistoiresAnnexes.png" behavior="3">
+		<MarkerCategory name="justice_de_la_lame" DisplayName="Justice of the Blade" iconFile="Img\JusticeDeLaLame.png">
+			<MarkerCategory name="le_bras_de_la_lumiere" DisplayName="Long Arm of the Light"/>
+		</MarkerCategory>
+	</MarkerCategory>
+
+	<POIs>
+
+		<!-- Vic le Fer -->
+		<POI MapID="15" xpos="399.859"  ypos="11.0206" zpos="672.676" type="histoires_annexes.justice_de_la_lame.le_bras_de_la_lumiere" GUID="QZz8PHRxcUiJFHw2u5OQPw=="/>
+
+		<!-- Zirh le Venimeux -->
+		<POI MapID="15" xpos="-945.563" ypos="14.5825" zpos="-572.73" type="histoires_annexes.justice_de_la_lame.le_bras_de_la_lumiere" GUID="IA1eaVvQfkO4DSywzMTyZQ=="/>
+
+		<!-- Ruye le Cramoisi -->
+		<POI MapID="23" xpos="-1051.18" ypos="87.8275" zpos="530.109" type="histoires_annexes.justice_de_la_lame.le_bras_de_la_lumiere" GUID="9dvKGKNxSEqwsOYv2Q03yw=="/>
+
+		<!-- Flyrra l'Insensible -->
+		<POI MapID="54" xpos="223.746"  ypos="99.3816" zpos="713.109" type="histoires_annexes.justice_de_la_lame.le_bras_de_la_lumiere" GUID="TJvAWSRm70qCMkjn01JP2Q=="/>
+
+		<!-- Aerl la Silencieuse -->
+		<POI MapID="54" xpos="-540.15"  ypos="38.3408" zpos="28.8047" type="histoires_annexes.justice_de_la_lame.le_bras_de_la_lumiere" GUID="Q0wy0zUsSUaHVO7LOKj85w=="/>
+
+	</POIs>
+</OverlayData>

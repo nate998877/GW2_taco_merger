@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+POIs: ReActif.9251
+Date: 2017/05/12
+-->
+<OverlayData>
+	<MarkerCategory name="chroniques.saison_3">
+		<MarkerCategory name="ep5_point_d_ignition" DisplayName="Ep.5 - Flashpoint" iconFile="Img\MontDraconis.png">
+			<MarkerCategory name="combinaison_sans_pouvoir" DisplayName="Powerless Suit"/>
+		</MarkerCategory>
+	</MarkerCategory>
+
+	<POIs>
+
+		<!-- Agent de l'Enqueste en Combinaison Champion -->
+		<POI MapID="1195" xpos="-437.488" ypos="445.814" zpos="-371.688" type="chroniques.saison_3.ep5_point_d_ignition.combinaison_sans_pouvoir" GUID="QAHW49lOoEWOvGKuIjbVhg=="/>
+		<POI MapID="1195" xpos="-437.488" ypos="447.814" zpos="-371.688" type="chroniques.saison_3.ep5_point_d_ignition.combinaison_sans_pouvoir" GUID="HMGDCGh99EKb0gDd4Z9o+A==" iconFile="Img\Combat.png" color="ffff0000"/>
+
+	</POIs>
+</OverlayData>

@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+POIs: Cloud Strife.7492 - Xenophy.2716 - ReActif.9251
+Date: 2017/08/23
+-->
+<OverlayData>
+	<MarkerCategory name="general" DisplayName="General">
+		<MarkerCategory name="puzzles_de_saut" DisplayName="Jumping Puzzles" iconFile="Img\Guide.png" iconSize="0.75">
+			<MarkerCategory name="laboratoire_de_spekks" DisplayName="Spekks's Laboratory"/>
+		</MarkerCategory>
+	</MarkerCategory>
+
+	<POIs>
+
+		<!-- Début -->
+		<POI MapID="34" xpos="-436.423" ypos="5.31503" zpos="-289.892" type="general.puzzles_de_saut.debut" GUID="DOoCD9bz8ECcGOMEluLufg=="/>
+
+		<!-- Route -->
+		<Route MapID="34" name="Laboratoire_de_Spekks" resetposx="-436.423" resetposy="5.31503" resetposz="-289.892" resetrange="2">
+			<POI MapID="34" xpos="-443.659" ypos="5.60246" zpos="-290.641" type="general.puzzles_de_saut.laboratoire_de_spekks" GUID="51cfdIUcxk2KpTWMq4UHDg=="/>
+			<POI MapID="34" xpos="-451.314" ypos="5.66133" zpos="-290.499" type="general.puzzles_de_saut.laboratoire_de_spekks" GUID="yfChQ72boEiOGARD7HRfKg=="/>
+			<POI MapID="34" xpos="-458.278" ypos="6.53706" zpos="-288.901" type="general.puzzles_de_saut.laboratoire_de_spekks" GUID="+SnpcMSiTEaqzdpmNCxs6g=="/>
+			<POI MapID="34" xpos="-460.054" ypos="8.26206" zpos="-284.084" type="general.puzzles_de_saut.laboratoire_de_spekks" GUID="PzRB42a5+0qbijsqXQ4y3w=="/>
+			<POI MapID="34" xpos="-462.529" ypos="10.2903" zpos="-286.232" type="general.puzzles_de_saut.laboratoire_de_spekks" GUID="HrJ/SHVhM0W8Dg5Pvrd0ZQ=="/>
+			<POI MapID="34" xpos="-468.085" ypos="13.4826" zpos="-284.5" type="general.puzzles_de_saut.laboratoire_de_spekks" GUID="Vvq6y944lEaQPwT+9OClSw=="/>
+			<POI MapID="34" xpos="-474.235" ypos="13.3144" zpos="-278.789" type="general.puzzles_de_saut.laboratoire_de_spekks" GUID="Vw5lqXnuaU+KkarTHmuVjQ=="/>
+			<POI MapID="34" xpos="-476.331" ypos="12.6498" zpos="-272.05" type="general.puzzles_de_saut.laboratoire_de_spekks" GUID="ddekAzps2EmceKNUfdz4fg=="/>
+			<POI MapID="34" xpos="-481.003" ypos="12.71" zpos="-265.161" type="general.puzzles_de_saut.laboratoire_de_spekks" GUID="Ax1VF6fkC0W39+g0MwkFfQ=="/>
+			<POI MapID="34" xpos="-487.029" ypos="12.6734" zpos="-258.955" type="general.puzzles_de_saut.laboratoire_de_spekks" GUID="wwMXwSGWbUeXXXRPzC1GSg=="/>
+			<!-- Console 1 -->
+			<POI MapID="34" xpos="-493.891" ypos="12.6509" zpos="-257.885" type="general.puzzles_de_saut.laboratoire_de_spekks" GUID="XwCKkfNTN0GJ6SkPuI1drQ==" iconFile="Img\Interrupteur.png"/>
+			<POI MapID="34" xpos="-498.623" ypos="13.5438" zpos="-253.845" type="general.puzzles_de_saut.laboratoire_de_spekks" GUID="VGoAyGni3Eq8LORfdu8D6A=="/>
+			<POI MapID="34" xpos="-498.897" ypos="15.5845" zpos="-249.079" type="general.puzzles_de_saut.laboratoire_de_spekks" GUID="AStb1E4T8EKDduoakZQsxQ=="/>
+			<POI MapID="34" xpos="-507.119" ypos="16.6577" zpos="-248.278" type="general.puzzles_de_saut.laboratoire_de_spekks" GUID="/yO79TyrDkqsjWEsZlPsYw=="/>
+			<POI MapID="34" xpos="-510.496" ypos="13.1776" zpos="-254.166" type="general.puzzles_de_saut.laboratoire_de_spekks" GUID="6xvhHeKK7E6VqtWdRODzxA=="/>
+			<POI MapID="34" xpos="-513.687" ypos="13.2703" zpos="-258.682" type="general.puzzles_de_saut.laboratoire_de_spekks" GUID="/YgPdMZv0EaZRbiBv9ezQw=="/>
+			<!-- Console 2 -->
+			<POI MapID="34" xpos="-517.903" ypos="15.6026" zpos="-260.398" type="general.puzzles_de_saut.laboratoire_de_spekks" GUID="hPuBNrPAVE66ynQVmsDP6A==" iconFile="Img\Interrupteur.png"/>
+			<POI MapID="34" xpos="-527.712" ypos="13.1022" zpos="-260.949" type="general.puzzles_de_saut.laboratoire_de_spekks" GUID="n/4+Vr2CZE2sbZLwUFXyiw=="/>
+			<POI MapID="34" xpos="-532.696" ypos="13.1389" zpos="-254.654" type="general.puzzles_de_saut.laboratoire_de_spekks" GUID="xt12VZIoX0aPtN1/wTKbrQ=="/>
+			<POI MapID="34" xpos="-531.998" ypos="13.6895" zpos="-248.757" type="general.puzzles_de_saut.laboratoire_de_spekks" GUID="nddIqz50Sky/ao3zGLzgpQ=="/>
+			<POI MapID="34" xpos="-527.695" ypos="8.76924" zpos="-241.165" type="general.puzzles_de_saut.laboratoire_de_spekks" GUID="ZdjNWSMkn0KH/yliEXOfoA=="/>
+			<POI MapID="34" xpos="-524.281" ypos="12.2079" zpos="-235.191" type="general.puzzles_de_saut.laboratoire_de_spekks" GUID="MS1pnTCqlEaqxzXgt1neSQ=="/>
+			<POI MapID="34" xpos="-525.491" ypos="13.3733" zpos="-229.258" type="general.puzzles_de_saut.laboratoire_de_spekks" GUID="Yr6ud0p+DUag11V9G6YwZg=="/>
+			<POI MapID="34" xpos="-531.556" ypos="15.1582" zpos="-228.788" type="general.puzzles_de_saut.laboratoire_de_spekks" GUID="AV5k2l+YSEylXk0SWkLLhw=="/>
+			<POI MapID="34" xpos="-533.816" ypos="16.5683" zpos="-233.222" type="general.puzzles_de_saut.laboratoire_de_spekks" GUID="voLhcaWekEWSRSpY1WQ1Xg=="/>
+			<POI MapID="34" xpos="-536.171" ypos="17.6779" zpos="-239.437" type="general.puzzles_de_saut.laboratoire_de_spekks" GUID="c65bzBDPTketPnEGgBbwcg=="/>
+			<!-- Console 3 -->
+			<POI MapID="34" xpos="-540.27" ypos="20.3721" zpos="-238.524" type="general.puzzles_de_saut.laboratoire_de_spekks" GUID="ArFq3gdhdU6EySkbXsXR0w==" iconFile="Img\Interrupteur.png"/>
+			<POI MapID="34" xpos="-539.294" ypos="22.666" zpos="-233.649" type="general.puzzles_de_saut.laboratoire_de_spekks" GUID="uam8MuUDP0G+g9f4K16mzQ=="/>
+			<POI MapID="34" xpos="-540.487" ypos="24.1257" zpos="-225.55" type="general.puzzles_de_saut.laboratoire_de_spekks" GUID="u5hpYcm+mEWqBDhzHjnD9Q=="/>
+			<POI MapID="34" xpos="-539.863" ypos="22.8246" zpos="-217.895" type="general.puzzles_de_saut.laboratoire_de_spekks" GUID="4IOA1unckUmffJMwhDL35A=="/>
+			<POI MapID="34" xpos="-532.964" ypos="22.9372" zpos="-213.034" type="general.puzzles_de_saut.laboratoire_de_spekks" GUID="Yov9hbBInE6hgvYO/CY65g=="/>
+			<POI MapID="34" xpos="-528.858" ypos="20.1089" zpos="-207.091" type="general.puzzles_de_saut.laboratoire_de_spekks" GUID="HDx0BrSglkuI/WMdVhPL0g=="/>
+			<POI MapID="34" xpos="-521.442" ypos="20.1738" zpos="-203.333" type="general.puzzles_de_saut.laboratoire_de_spekks" GUID="ekBwaxdjkUqB1Co7whevtQ=="/>
+			<POI MapID="34" xpos="-523.16" ypos="20.2534" zpos="-196.973" type="general.puzzles_de_saut.laboratoire_de_spekks" GUID="YBdrYeQ3jUWUAiRdxCB+DA=="/>
+			<POI MapID="34" xpos="-529.025" ypos="20.2982" zpos="-193.407" type="general.puzzles_de_saut.laboratoire_de_spekks" GUID="Dy88R9AlckmDiSm9C4oUgQ=="/>
+			<POI MapID="34" xpos="-535.282" ypos="12.323" zpos="-190.435" type="general.puzzles_de_saut.laboratoire_de_spekks" GUID="0wVo+w0h3EOHnsUzSG1PYw=="/>
+			<POI MapID="34" xpos="-539.753" ypos="14.0097" zpos="-183.47" type="general.puzzles_de_saut.laboratoire_de_spekks" GUID="MXnPtFmCkEuzEi1iIOy1jw=="/>
+			<POI MapID="34" xpos="-542.361" ypos="14.4833" zpos="-175.464" type="general.puzzles_de_saut.laboratoire_de_spekks" GUID="tPAcDvFrQ0GLcgBL4SZY8g=="/>
+			<POI MapID="34" xpos="-535.222" ypos="12.7827" zpos="-169.24" type="general.puzzles_de_saut.laboratoire_de_spekks" GUID="WL7E4QsQSkW81tQS6YxISQ=="/>
+			<POI MapID="34" xpos="-537.576" ypos="12.4092" zpos="-161.318" type="general.puzzles_de_saut.laboratoire_de_spekks" GUID="ivmVPZIoYkqcnKvc95ZXVA=="/>
+			<POI MapID="34" xpos="-532.078" ypos="12.4996" zpos="-155.026" type="general.puzzles_de_saut.laboratoire_de_spekks" GUID="6+LpyjEZ7U6eydefwYMUww=="/>
+			<POI MapID="34" xpos="-536.287" ypos="12.6926" zpos="-147.031" type="general.puzzles_de_saut.laboratoire_de_spekks" GUID="rWbwBq2NZ0aBtZWJAwX2HA=="/>
+			<POI MapID="34" xpos="-541.57" ypos="12.7689" zpos="-140.111" type="general.puzzles_de_saut.laboratoire_de_spekks" GUID="Ng3+JuH9e0u3rq8JqKR2Nw=="/>
+			<POI MapID="34" xpos="-541.266" ypos="11.0833" zpos="-131.176" type="general.puzzles_de_saut.laboratoire_de_spekks" GUID="NcXg2svKRU6dxgEPARq52w=="/>
+			<POI MapID="34" xpos="-538.243" ypos="12.5911" zpos="-125.239" type="general.puzzles_de_saut.laboratoire_de_spekks" GUID="SfILt0ha50uomoLz2Oiw8g=="/>
+			<POI MapID="34" xpos="-530.83" ypos="12.4945" zpos="-121.322" type="general.puzzles_de_saut.laboratoire_de_spekks" GUID="kpxFz/mIgE2Y0Nrl73rFEA=="/>
+			<POI MapID="34" xpos="-523.93" ypos="12.933" zpos="-120.099" type="general.puzzles_de_saut.laboratoire_de_spekks" GUID="uGEM0QBiLk6kvUqG969dEQ=="/>
+			<POI MapID="34" xpos="-522.89" ypos="13.8968" zpos="-127.852" type="general.puzzles_de_saut.laboratoire_de_spekks" GUID="oOFN07zfiU+ympXhE24bRQ=="/>
+			<POI MapID="34" xpos="-515.92" ypos="15.5085" zpos="-128.59" type="general.puzzles_de_saut.laboratoire_de_spekks" GUID="YXjiSCee8UqBURhZdjb8rg=="/>
+			<POI MapID="34" xpos="-515.133" ypos="17.1248" zpos="-136.238" type="general.puzzles_de_saut.laboratoire_de_spekks" GUID="XUN9wyZq1kebAJGyctKBDg=="/>
+			<POI MapID="34" xpos="-515.666" ypos="18.5515" zpos="-142.516" type="general.puzzles_de_saut.laboratoire_de_spekks" GUID="t4H2vpRnX0+ihrDu642iXw=="/>
+			<POI MapID="34" xpos="-515.35" ypos="20.977" zpos="-149.541" type="general.puzzles_de_saut.laboratoire_de_spekks" GUID="dD8phG7JVE+uKr6Ah/ILgA=="/>
+			<POI MapID="34" xpos="-517.011" ypos="24.1547" zpos="-155.161" type="general.puzzles_de_saut.laboratoire_de_spekks" GUID="hv44GSXVT0yeydzNJ18sQw=="/>
+			<POI MapID="34" xpos="-510.574" ypos="26.1504" zpos="-154.899" type="general.puzzles_de_saut.laboratoire_de_spekks" GUID="yfjjkRRndUuiK+jSvgxKIw=="/>
+			<POI MapID="34" xpos="-504.258" ypos="27.3134" zpos="-157.142" type="general.puzzles_de_saut.laboratoire_de_spekks" GUID="dVHsOLRJikewqP9iNDtYog=="/>
+			<POI MapID="34" xpos="-498.833" ypos="27.2922" zpos="-156.365" type="general.puzzles_de_saut.laboratoire_de_spekks" GUID="5e0Wk6/9aEaRwojRXzg0Cg=="/>
+			<!-- Console 4 -->
+			<POI MapID="34" xpos="-489.056" ypos="26.1128" zpos="-163.998" type="general.puzzles_de_saut.laboratoire_de_spekks" GUID="7yfPDiS3VE6WByt9jJyqVA==" iconFile="Img\Interrupteur.png"/>
+			<POI MapID="34" xpos="-482.889" ypos="24.9555" zpos="-167.329" type="general.puzzles_de_saut.laboratoire_de_spekks" GUID="oXHnwnRD4UG8HO9lZYkv/A=="/>
+			<POI MapID="34" xpos="-486.821" ypos="21.5814" zpos="-173.134" type="general.puzzles_de_saut.laboratoire_de_spekks" GUID="2ja75dw3pkmbo2sYz1+GmA=="/>
+			<POI MapID="34" xpos="-487.175" ypos="23.0107" zpos="-180.474" type="general.puzzles_de_saut.laboratoire_de_spekks" GUID="Z9qNltR3OEiRaoSk75pXsw=="/>
+			<POI MapID="34" xpos="-484.047" ypos="23.4877" zpos="-187.042" type="general.puzzles_de_saut.laboratoire_de_spekks" GUID="yXs12to+NUqQ5RAcLbFVwA=="/>
+			<POI MapID="34" xpos="-476.63" ypos="23.8954" zpos="-190.009" type="general.puzzles_de_saut.laboratoire_de_spekks" GUID="z3xA+Af9sUyU/m6/l2kt0Q=="/>
+			<POI MapID="34" xpos="-471.309" ypos="24.0603" zpos="-185.971" type="general.puzzles_de_saut.laboratoire_de_spekks" GUID="2E8RcxBCbEK2z9wHU/XWHw=="/>
+			<POI MapID="34" xpos="-461.338" ypos="22.8628" zpos="-189.695" type="general.puzzles_de_saut.laboratoire_de_spekks" GUID="fqIAk2tUwUiFskIg5u1XPg=="/>
+			<POI MapID="34" xpos="-455.268" ypos="23.7187" zpos="-191.717" type="general.puzzles_de_saut.laboratoire_de_spekks" GUID="+v0Ocm+tLkqOqj0Zbko2vQ=="/>
+			<!-- Console 5 -->
+			<POI MapID="34" xpos="-446.86" ypos="23.7234" zpos="-191.351" type="general.puzzles_de_saut.laboratoire_de_spekks" GUID="3JT4F+qR1Uey2lnCiKprPg==" iconFile="Img\Interrupteur.png"/>
+			<POI MapID="34" xpos="-458.634" ypos="23.3901" zpos="-198.782" type="general.puzzles_de_saut.laboratoire_de_spekks" GUID="ACkbqLPrP02QaSU3KIfNbA=="/>
+			<POI MapID="34" xpos="-464.534" ypos="23.0762" zpos="-203.95" type="general.puzzles_de_saut.laboratoire_de_spekks" GUID="m6iwT44PyUilbjBU8F+p7Q=="/>
+			<POI MapID="34" xpos="-468.551" ypos="24.9375" zpos="-207.413" type="general.puzzles_de_saut.laboratoire_de_spekks" GUID="QPTKWaINXE2bVWhKcHvWog=="/>
+			<POI MapID="34" xpos="-473.606" ypos="26.8631" zpos="-214.222" type="general.puzzles_de_saut.laboratoire_de_spekks" GUID="Rrydevqms0qqAa1hHLV2yQ=="/>
+			<POI MapID="34" xpos="-471.494" ypos="27.4301" zpos="-220.447" type="general.puzzles_de_saut.laboratoire_de_spekks" GUID="TjbVtT+XTUyUpg2ISeV4Vw=="/>
+			<POI MapID="34" xpos="-467.486" ypos="30.1496" zpos="-226.91" type="general.puzzles_de_saut.laboratoire_de_spekks" GUID="ygG7mOllM0uK58HwmUCMhw=="/>
+			<POI MapID="34" xpos="-466.483" ypos="31.1443" zpos="-233.103" type="general.puzzles_de_saut.laboratoire_de_spekks" GUID="1FSSQjI4FUS5zzTlSy559Q=="/>
+			<POI MapID="34" xpos="-467.671" ypos="32.3083" zpos="-237.444" type="general.puzzles_de_saut.laboratoire_de_spekks" GUID="xjccL5SXakacEe6IN0Vtgg=="/>
+			<!-- Console 6 -->
+			<POI MapID="34" xpos="-471.366" ypos="32.3129" zpos="-236.697" type="general.puzzles_de_saut.laboratoire_de_spekks" GUID="dTrgEBZ4tkWveEyWFn5RKw==" iconFile="Img\Interrupteur.png"/>
+			<POI MapID="34" xpos="-479.433" ypos="32.3077" zpos="-242.882" type="general.puzzles_de_saut.laboratoire_de_spekks" GUID="lLoIPk+v7UaesJIl3u59UQ=="/>
+			<POI MapID="34" xpos="-479.505" ypos="33.5729" zpos="-249.087" type="general.puzzles_de_saut.laboratoire_de_spekks" GUID="N1QqfbYJgEar9G3WAB0glg=="/>
+			<POI MapID="34" xpos="-485.49" ypos="36.0523" zpos="-253.36" type="general.puzzles_de_saut.laboratoire_de_spekks" GUID="hV+4/xQNWkuqpeGjD1SpKQ=="/>
+			<POI MapID="34" xpos="-490.438" ypos="36.0158" zpos="-255.871" type="general.puzzles_de_saut.laboratoire_de_spekks" GUID="eIienc64ZE+G9yEQ54zx9g=="/>
+			<POI MapID="34" xpos="-494.292" ypos="39.0529" zpos="-255.984" type="general.puzzles_de_saut.laboratoire_de_spekks" GUID="TuSnqEesNkqg25GDpHPStg=="/>
+			<POI MapID="34" xpos="-503.072" ypos="40.929" zpos="-255.083" type="general.puzzles_de_saut.laboratoire_de_spekks" GUID="I2gHolECbkK3Lvyby+2Dyw=="/>
+			<POI MapID="34" xpos="-507.061" ypos="40.9462" zpos="-251.797" type="general.puzzles_de_saut.laboratoire_de_spekks" GUID="JWU3XqqheEi1jYDRBWCQhA=="/>
+			<POI MapID="34" xpos="-510.036" ypos="41.3084" zpos="-245.064" type="general.puzzles_de_saut.laboratoire_de_spekks" GUID="s2JTpZQOTUaLJdfxbPR9pw=="/>
+			<POI MapID="34" xpos="-516.382" ypos="43.2407" zpos="-247.989" type="general.puzzles_de_saut.laboratoire_de_spekks" GUID="TuPJpT1DAECwUWhC8Pj2lA=="/>
+			<POI MapID="34" xpos="-518.717" ypos="43.7894" zpos="-252.706" type="general.puzzles_de_saut.laboratoire_de_spekks" GUID="rVFCmunCA0GyXQA4x0NbKw=="/>
+			<!-- Console 7 -->
+			<POI MapID="34" xpos="-520.885" ypos="44.0292" zpos="-258.488" type="general.puzzles_de_saut.laboratoire_de_spekks" GUID="FlT2Koz610imuH4jXLWCTg==" iconFile="Img\Interrupteur.png"/>
+			<POI MapID="34" xpos="-526.034" ypos="43.0475" zpos="-250.466" type="general.puzzles_de_saut.laboratoire_de_spekks" GUID="wHUNRpSmtEqWTFoT01bHnA=="/>
+			<POI MapID="34" xpos="-531.948" ypos="42.9736" zpos="-249.466" type="general.puzzles_de_saut.laboratoire_de_spekks" GUID="YjRxZaYGIkWHqkDzWOZvpg=="/>
+			<POI MapID="34" xpos="-536.669" ypos="42.2463" zpos="-254.671" type="general.puzzles_de_saut.laboratoire_de_spekks" GUID="PE/fWMHZyEuBTHimMrgFpw=="/>
+			<POI MapID="34" xpos="-540.258" ypos="43.6131" zpos="-249.608" type="general.puzzles_de_saut.laboratoire_de_spekks" GUID="F9Q6lgwGlUCWt0k/HljNhQ=="/>
+			<POI MapID="34" xpos="-541.059" ypos="44.4298" zpos="-243.51" type="general.puzzles_de_saut.laboratoire_de_spekks" GUID="gZzshjMHEkmGHmAIiPXz1Q=="/>
+			<POI MapID="34" xpos="-535.399" ypos="45.244" zpos="-241.467" type="general.puzzles_de_saut.laboratoire_de_spekks" GUID="1nuX4nNbfkuIQ2FZ19b1HA=="/>
+			<POI MapID="34" xpos="-535.716" ypos="45.4535" zpos="-234.536" type="general.puzzles_de_saut.laboratoire_de_spekks" GUID="rMGAcTfRh021iucI7dBFHw=="/>
+			<POI MapID="34" xpos="-539.332" ypos="45.3261" zpos="-229.469" type="general.puzzles_de_saut.laboratoire_de_spekks" GUID="Sn9/bjT63EWaTLfy6wPfTg=="/>
+			<POI MapID="34" xpos="-540.404" ypos="45.3808" zpos="-221.164" type="general.puzzles_de_saut.laboratoire_de_spekks" GUID="laxDf7qa9kKGw94j+eCWCg=="/>
+			<POI MapID="34" xpos="-540.286" ypos="45.3808" zpos="-214.24" type="general.puzzles_de_saut.laboratoire_de_spekks" GUID="FMCvfyjT0UihIZdIjfGnJQ=="/>
+			<POI MapID="34" xpos="-540.412" ypos="44.677" zpos="-209.01" type="general.puzzles_de_saut.laboratoire_de_spekks" GUID="wcRU90NDxEqcyO5jN855Ew=="/>
+			<!-- Console 8 -->
+			<POI MapID="34" xpos="-534.656" ypos="44.8345" zpos="-211.35" type="general.puzzles_de_saut.laboratoire_de_spekks" GUID="ZjsTptOF5Em73LeEFNQ3Jw==" iconFile="Img\Interrupteur.png"/>
+			<POI MapID="34" xpos="-535.615" ypos="44.6397" zpos="-206.773" type="general.puzzles_de_saut.laboratoire_de_spekks" GUID="soUxMLM320C6Ykkk90Ss/Q=="/>
+			<POI MapID="34" xpos="-536.372" ypos="44.3566" zpos="-199.95" type="general.puzzles_de_saut.laboratoire_de_spekks" GUID="DLf+5aRYgUCdMdsAvAQ6hg=="/>
+			<POI MapID="34" xpos="-537.064" ypos="44.0982" zpos="-193.721" type="general.puzzles_de_saut.laboratoire_de_spekks" GUID="0cw38RrD6USWdjXkhmjOUQ=="/>
+			<POI MapID="34" xpos="-537.429" ypos="43.7984" zpos="-186.375" type="general.puzzles_de_saut.laboratoire_de_spekks" GUID="H+8BHyXtU062FJQOP6+jhg=="/>
+			<POI MapID="34" xpos="-537.435" ypos="43.4695" zpos="-178.208" type="general.puzzles_de_saut.laboratoire_de_spekks" GUID="tA3l2lbOpU2QZJb8heYOUQ=="/>
+			<POI MapID="34" xpos="-537.138" ypos="44.4782" zpos="-169.106" type="general.puzzles_de_saut.laboratoire_de_spekks" GUID="UTWLsmJEbUSIya3chuoh1g==" iconFile="Img\Combat.png" iconSize="1" color="ffe52020"/>
+			<POI MapID="34" xpos="-536.549" ypos="44.4736" zpos="-163.03" type="general.puzzles_de_saut.laboratoire_de_spekks" GUID="Df7pLzv0WkCveS9Q6CZTfw=="/>
+			<POI MapID="34" xpos="-535.865" ypos="44.4608" zpos="-158.024" type="general.puzzles_de_saut.laboratoire_de_spekks" GUID="NzAujO18m0u4IltcAj5j9Q=="/>
+			<POI MapID="34" xpos="-534.48" ypos="44.1412" zpos="-153.901" type="general.puzzles_de_saut.laboratoire_de_spekks" GUID="5JnPvi6fvEaWiIJy6jZkWA=="/>
+			<POI MapID="34" xpos="-533.157" ypos="43.993" zpos="-150.038" type="general.puzzles_de_saut.laboratoire_de_spekks" GUID="jY1yZYgLEUSKE42W1gOCrg=="/>
+		</Route>
+
+		<!-- Coffre -->
+		<POI MapID="34" xpos="-531.879" ypos="43.8468" zpos="-146.227" type="general.puzzles_de_saut.laboratoire_de_spekks" GUID="izlOWLfVmU22GVUr2ctmzA==" iconFile="Img\CoffrePuzzle.png" iconSize="1" heightOffset="2.5" behavior="2"/>
+
+	</POIs>
+</OverlayData>

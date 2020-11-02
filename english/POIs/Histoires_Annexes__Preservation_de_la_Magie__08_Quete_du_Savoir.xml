@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+POIs: ReActif.9251
+Date: 2017/08/15
+-->
+<OverlayData>
+	<MarkerCategory name="histoires_annexes" DisplayName="Side Stories" iconFile="Img\HistoiresAnnexes.png" behavior="3">
+		<MarkerCategory name="preservation_de_la_magie" DisplayName="Conservation of Magic" iconFile="Img\PreservationDeLaMagie.png" behavior="0">
+			<MarkerCategory name="quete_du_savoir" DisplayName="Pursuit of Knowledge" heightOffset="4"/>
+		</MarkerCategory>
+	</MarkerCategory>
+
+	<POIs>
+
+		<!-- Ela Makkay -->
+		<POI MapID="50" xpos="-519.333" ypos="0.881745" zpos="15.6758" type="histoires_annexes.preservation_de_la_magie.quete_du_savoir" GUID="SsriS2xMu0G/Eqyj9hBN5g=="/>
+
+	</POIs>
+</OverlayData>

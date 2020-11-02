@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+POIs: Cloud Strife.7492 - Xenophy.2716 - ReActif.9251
+Date: 2017/08/23
+-->
+<OverlayData>
+	<MarkerCategory name="general" DisplayName="General">
+		<MarkerCategory name="puzzles_de_saut" DisplayName="Jumping Puzzles" iconFile="Img\Guide.png" iconSize="0.75">
+			<MarkerCategory name="crique_du_bretteur" DisplayName="Swashbuckler's Cove" triggerRange="5"/>
+		</MarkerCategory>
+	</MarkerCategory>
+
+	<POIs>
+
+		<!-- Début -->
+		<POI MapID="24" xpos="615.878" ypos="23.3352" zpos="-549.332" type="general.puzzles_de_saut.debut" GUID="gEA2DUAvX0aqsrnsQbIOwQ=="/>
+
+		<!-- Route -->
+		<Route MapID="24" name="Crique_du_Bretteur" resetposx="615.878" resetposy="23.3352" resetposz="-549.332" resetrange="2">
+			<POI MapID="24" xpos="626.215" ypos="23.6332" zpos="-553.416" type="general.puzzles_de_saut.crique_du_bretteur" GUID="KO4I/mNK/E6ErNAOrmjVYw=="/>
+			<POI MapID="24" xpos="632.283" ypos="18.1526" zpos="-555.285" type="general.puzzles_de_saut.crique_du_bretteur" GUID="HtOarwwIQ0Sww2fpQP4sfA=="/>
+			<POI MapID="24" xpos="638.171" ypos="10.5128" zpos="-554.002" type="general.puzzles_de_saut.crique_du_bretteur" GUID="ocAEsh5OcUaXKwpq8Z/3AQ=="/>
+			<POI MapID="24" xpos="647.949" ypos="6.45177" zpos="-554.966" type="general.puzzles_de_saut.crique_du_bretteur" GUID="BXALlATfVkGk+sr7gb8/3Q=="/>
+			<POI MapID="24" xpos="653.478" ypos="0.962797" zpos="-562.984" type="general.puzzles_de_saut.crique_du_bretteur" GUID="wXtl3jyUQU6ETTD9uvkJdw=="/>
+			<POI MapID="24" xpos="665.645" ypos="0.421021" zpos="-568.436" type="general.puzzles_de_saut.crique_du_bretteur" GUID="tNd9tYd8vkmxkdXSOxgJow=="/>
+			<POI MapID="24" xpos="671.723" ypos="0.917315" zpos="-576.695" type="general.puzzles_de_saut.crique_du_bretteur" GUID="1s+f4xbDwUuxvSHtJPZDxA=="/>
+			<POI MapID="24" xpos="678.614" ypos="1.28679" zpos="-580.827" type="general.puzzles_de_saut.crique_du_bretteur" GUID="qMhQ7/pYFkuSZ0g6+RZluQ=="/>
+			<POI MapID="24" xpos="686.722" ypos="0.964555" zpos="-579.333" type="general.puzzles_de_saut.crique_du_bretteur" GUID="yIGMbrVXPUebH0xreduh/A=="/>
+			<POI MapID="24" xpos="697.442" ypos="0.122031" zpos="-586.63" type="general.puzzles_de_saut.crique_du_bretteur" GUID="YyIR7A37vEeFn1i2r2GBcQ=="/>
+			<POI MapID="24" xpos="699.335" ypos="-0.0515473" zpos="-596.923" type="general.puzzles_de_saut.crique_du_bretteur" GUID="aJPBGDj7Z0qMlM+OV1TkmA=="/>
+			<POI MapID="24" xpos="687.597" ypos="-7.42492" zpos="-607.912" type="general.puzzles_de_saut.crique_du_bretteur" GUID="19p6rDCdM0GqOxCqGzVP2Q=="/>
+			<POI MapID="24" xpos="680.066" ypos="-13.6305" zpos="-598.441" type="general.puzzles_de_saut.crique_du_bretteur" GUID="Fswg3c5XtEyB7/EYtnssdQ=="/>
+			<POI MapID="24" xpos="681.296" ypos="-16.668" zpos="-586.619" type="general.puzzles_de_saut.crique_du_bretteur" GUID="tRO/7ZFDbU6KcYBcvsWp8w=="/>
+			<POI MapID="24" xpos="685.844" ypos="-28.3137" zpos="-579.045" type="general.puzzles_de_saut.crique_du_bretteur" GUID="HAhVx5EjJUmg2UnYIbeRrA=="/>
+			<POI MapID="24" xpos="687.133" ypos="-38.9885" zpos="-582.522" type="general.puzzles_de_saut.crique_du_bretteur" GUID="U0cVp7GGtEG1MxJVBMlOIA=="/>
+			<POI MapID="24" xpos="684.383" ypos="-46.4662" zpos="-589.954" type="general.puzzles_de_saut.crique_du_bretteur" GUID="IEekx72WI0G3d48M5g+zNA=="/>
+			<POI MapID="24" xpos="674.854" ypos="-47.7118" zpos="-604.405" type="general.puzzles_de_saut.crique_du_bretteur" GUID="/lSZpGTytEGC1i04NqvrGA=="/>
+			<POI MapID="24" xpos="671.69" ypos="-38.1204" zpos="-608.415" type="general.puzzles_de_saut.crique_du_bretteur" GUID="QJDh8NcGp0aC9uNv8IGTaA=="/>
+			<POI MapID="24" xpos="669.529" ypos="-31.9755" zpos="-604.832" type="general.puzzles_de_saut.crique_du_bretteur" GUID="QY611t9Cf02KX51lJ/v5WA=="/>
+			<POI MapID="24" xpos="660.408" ypos="-31.391" zpos="-607.734" type="general.puzzles_de_saut.crique_du_bretteur" GUID="UJ7NyRp+w0+XnW9/7L7y5w=="/>
+			<POI MapID="24" xpos="639.404" ypos="-28.1119" zpos="-609.897" type="general.puzzles_de_saut.crique_du_bretteur" GUID="oy7QnOZWxEugjoBEujlJAQ=="/>
+			<POI MapID="24" xpos="635.167" ypos="-14.3701" zpos="-609.95" type="general.puzzles_de_saut.crique_du_bretteur" GUID="OI5jio9M2UOlucWBNQKwxg=="/>
+			<POI MapID="24" xpos="633.222" ypos="-5.27645" zpos="-609.819" type="general.puzzles_de_saut.crique_du_bretteur" GUID="f7skfYj6F063WsEHOgKglw=="/>
+			<POI MapID="24" xpos="627.752" ypos="0.63197" zpos="-605.711" type="general.puzzles_de_saut.crique_du_bretteur" GUID="hcPpemy7H0aKRSYQFOkOGA=="/>
+			<POI MapID="24" xpos="622.119" ypos="0.194939" zpos="-608.748" type="general.puzzles_de_saut.crique_du_bretteur" GUID="c48bDKBgSUWq+0SDVz0EtA=="/>
+			<POI MapID="24" xpos="610.608" ypos="0.016604" zpos="-605.22" type="general.puzzles_de_saut.crique_du_bretteur" GUID="Gf9RxW6UX0S7dgA8VIDXsg=="/>
+			<POI MapID="24" xpos="596.634" ypos="0.0416133" zpos="-596.711" type="general.puzzles_de_saut.crique_du_bretteur" GUID="GOSxk4roHkWVVtmqjC/g9w=="/>
+			<POI MapID="24" xpos="592.357" ypos="0.41979" zpos="-585.368" type="general.puzzles_de_saut.crique_du_bretteur" GUID="R0iORPW5t0aLa/A8Ga0NzA=="/>
+			<POI MapID="24" xpos="591.947" ypos="1.74099" zpos="-572.482" type="general.puzzles_de_saut.crique_du_bretteur" GUID="VMRHa+0FXk6C+dMqZmXWzg=="/>
+			<POI MapID="24" xpos="581.701" ypos="0.925865" zpos="-557.674" type="general.puzzles_de_saut.crique_du_bretteur" GUID="r4mX3ZD6Kki2ZoFN0yTmmQ==" iconFile="Img\Interrupteur.png"/>
+			<POI MapID="24" xpos="570.314" ypos="8.59118" zpos="-585.653" type="general.puzzles_de_saut.crique_du_bretteur" GUID="KjJRUVQoakekN4cLiDSuGQ=="/>
+			<POI MapID="24" xpos="561.488" ypos="13.2238" zpos="-599.302" type="general.puzzles_de_saut.crique_du_bretteur" GUID="rU4mxaCuOEqTaDMdkV1RHg=="/>
+			<POI MapID="24" xpos="563.63" ypos="14.4699" zpos="-613.54" type="general.puzzles_de_saut.crique_du_bretteur" GUID="DfTtHTfHpUCNHknkW6HvFw==" iconFile="Img\Interrupteur.png"/>
+			<POI MapID="24" xpos="539.707" ypos="15.3693" zpos="-606.929" type="general.puzzles_de_saut.crique_du_bretteur" GUID="z3+XNMPflkaDWivuY2wi9w=="/>
+			<POI MapID="24" xpos="538.529" ypos="15.0881" zpos="-590.349" type="general.puzzles_de_saut.crique_du_bretteur" GUID="6raYGOG1L0G+NA1mFw4Gjg=="/>
+			<POI MapID="24" xpos="541.426" ypos="14.3013" zpos="-579.027" type="general.puzzles_de_saut.crique_du_bretteur" GUID="DmmOfaACokq0okTn+Tu2ow=="/>
+			<POI MapID="24" xpos="529.873" ypos="14.9136" zpos="-575.67" type="general.puzzles_de_saut.crique_du_bretteur" GUID="xCeJhAS9pEmK+MTIM72hFw=="/>
+			<POI MapID="24" xpos="534.026" ypos="15.41" zpos="-569.334" type="general.puzzles_de_saut.crique_du_bretteur" GUID="FAyqVibrckuT3UpN4fuPgw=="/>
+			<POI MapID="24" xpos="538.421" ypos="9.84571" zpos="-567.268" type="general.puzzles_de_saut.crique_du_bretteur" GUID="6SSBHJbaeUu7Wa81sZB5Bw=="/>
+			<POI MapID="24" xpos="543.072" ypos="9.189" zpos="-561.315" type="general.puzzles_de_saut.crique_du_bretteur" GUID="7dFEdPgiUkWmgCpyszOceQ=="/>
+			<POI MapID="24" xpos="546.909" ypos="9.16168" zpos="-556.486" type="general.puzzles_de_saut.crique_du_bretteur" GUID="SCMDV3fqUke/Ix3EB5FYhA=="/>
+			<POI MapID="24" xpos="551.832" ypos="3.7655" zpos="-554.29" type="general.puzzles_de_saut.crique_du_bretteur" GUID="w5TDyA9WlEKEikT9E+rWBg=="/>
+			<POI MapID="24" xpos="561.896" ypos="4.89293" zpos="-552.648" type="general.puzzles_de_saut.crique_du_bretteur" GUID="ltTpabKxi0GUUyCs3u+lvg==" iconFile="Img\Interrupteur.png"/>
+			<POI MapID="24" xpos="573.554" ypos="2.94476" zpos="-575.115" type="general.puzzles_de_saut.crique_du_bretteur" GUID="0u/znHF8ZkukWeVZsclIWw=="/>
+			<POI MapID="24" xpos="566.392" ypos="3.49657" zpos="-583.384" type="general.puzzles_de_saut.crique_du_bretteur" GUID="Mc/Umoaxo0CAZYR30VFcOw=="/>
+			<POI MapID="24" xpos="562.428" ypos="4.22372" zpos="-586.966" type="general.puzzles_de_saut.crique_du_bretteur" GUID="QFpA1j2+KUeXafDZuNyT3Q=="/>
+			<POI MapID="24" xpos="557.461" ypos="6.05164" zpos="-591.586" type="general.puzzles_de_saut.crique_du_bretteur" GUID="+RaK3Te9f0KtAEuw7aXDbw=="/>
+			<POI MapID="24" xpos="550.437" ypos="3.9347" zpos="-595.687" type="general.puzzles_de_saut.crique_du_bretteur" GUID="GWYXPweLyUi28jTe0FcXmg=="/>
+			<POI MapID="24" xpos="539.426" ypos="3.30108" zpos="-601.38" type="general.puzzles_de_saut.crique_du_bretteur" GUID="pnQdESpjoUOtMyYHxyIgZQ=="/>
+			<POI MapID="24" xpos="530.603" ypos="3.62555" zpos="-604.937" type="general.puzzles_de_saut.crique_du_bretteur" GUID="MSqAPNoB+E+XC0L7OodIvw=="/>
+			<POI MapID="24" xpos="524.69" ypos="3.7949" zpos="-608.007" type="general.puzzles_de_saut.crique_du_bretteur" GUID="ekzjMsisJUW+p99LxWvTKQ==" iconFile="Img\Interrupteur.png"/>
+			<POI MapID="24" xpos="547.664" ypos="3.30922" zpos="-590.738" type="general.puzzles_de_saut.crique_du_bretteur" GUID="lDf4+lMCWUGyvn6dnfb2UQ=="/>
+			<POI MapID="24" xpos="559.455" ypos="-1.04849" zpos="-576.496" type="general.puzzles_de_saut.crique_du_bretteur" GUID="XPE0MrjvDkajSFSHVl/ttw=="/>
+			<POI MapID="24" xpos="573.384" ypos="0.4462" zpos="-569.669" type="general.puzzles_de_saut.crique_du_bretteur" GUID="R0QEUdBK3EW9xvkYgmwhtA=="/>
+			<POI MapID="24" xpos="568.642" ypos="8.78128" zpos="-588.366" type="general.puzzles_de_saut.crique_du_bretteur" GUID="9CWbHWCx00y3LpMtvKXBtA=="/>
+			<POI MapID="24" xpos="558.95" ypos="13.4029" zpos="-601.615" type="general.puzzles_de_saut.crique_du_bretteur" GUID="lT9hZJtJZkyKykV5LBLRuQ=="/>
+			<POI MapID="24" xpos="545.739" ypos="14.2068" zpos="-606.669" type="general.puzzles_de_saut.crique_du_bretteur" GUID="xoexXSnq3Eaa6MJOZM4ygQ=="/>
+			<POI MapID="24" xpos="532.422" ypos="15.521" zpos="-605.774" type="general.puzzles_de_saut.crique_du_bretteur" GUID="KwY8NBRARUulEHfBt4+GBQ==" iconFile="Img\Combat.png" color="ffe52020"/>
+			<POI MapID="24" xpos="554.771" ypos="-8.14932" zpos="-580.975" type="general.puzzles_de_saut.crique_du_bretteur" GUID="sTL+7yMzDESqoJHgdMLDFQ=="/>
+			<POI MapID="24" xpos="554.58" ypos="-15.6449" zpos="-585.309" type="general.puzzles_de_saut.crique_du_bretteur" GUID="Sk+CFQQrS0q8LFQxN26nGQ=="/>
+			<POI MapID="24" xpos="544.719" ypos="-27.0205" zpos="-596.221" type="general.puzzles_de_saut.crique_du_bretteur" GUID="9bEqixafzkOi83T36DTxkQ=="/>
+			<POI MapID="24" xpos="529.37" ypos="-33.2761" zpos="-601.496" type="general.puzzles_de_saut.crique_du_bretteur" GUID="3BCxZ/mb10aa4SlwqIfy+g=="/>
+			<POI MapID="24" xpos="515.082" ypos="-32.7023" zpos="-605.189" type="general.puzzles_de_saut.crique_du_bretteur" GUID="GtBOcrbQT0iQvNQNHnbndQ=="/>
+			<POI MapID="24" xpos="498.423" ypos="-32.2986" zpos="-604.679" type="general.puzzles_de_saut.crique_du_bretteur" GUID="Ve8h5Gm71EKMTUYKX19RvQ=="/>
+			<POI MapID="24" xpos="477.984" ypos="-34.6323" zpos="-592.504" type="general.puzzles_de_saut.crique_du_bretteur" GUID="Brv9C3/WZkWPErE4+Ik2wg=="/>
+			<POI MapID="24" xpos="472.867" ypos="-30.5248" zpos="-584.425" type="general.puzzles_de_saut.crique_du_bretteur" GUID="TWNsmo/C4ESdNoApsAMGtw=="/>
+			<POI MapID="24" xpos="463.671" ypos="-29.752" zpos="-572.534" type="general.puzzles_de_saut.crique_du_bretteur" GUID="GLA2RRdj/EC3tjlWIgGczw=="/>
+			<POI MapID="24" xpos="462.107" ypos="-20.0891" zpos="-569.64" type="general.puzzles_de_saut.crique_du_bretteur" GUID="NymA690JrkKjPgTdJ7hfVA=="/>
+			<POI MapID="24" xpos="457.261" ypos="-4.44422" zpos="-562.065" type="general.puzzles_de_saut.crique_du_bretteur" GUID="XLacrdvMikGGoKPNLJ00ow=="/>
+			<POI MapID="24" xpos="459.578" ypos="-1.13847" zpos="-568.636" type="general.puzzles_de_saut.crique_du_bretteur" GUID="+pTx1I5e10CEFMdOD0P5JQ=="/>
+			<POI MapID="24" xpos="457.143" ypos="0.4538" zpos="-580.304" type="general.puzzles_de_saut.crique_du_bretteur" GUID="MdqOILZra0yb/1zSumm8wA=="/>
+			<POI MapID="24" xpos="454.041" ypos="3.71091" zpos="-587.948" type="general.puzzles_de_saut.crique_du_bretteur" GUID="H6vaLEeOAUaQcjeCYHJ0fw=="/>
+			<POI MapID="24" xpos="459.999" ypos="4.97457" zpos="-594.652" type="general.puzzles_de_saut.crique_du_bretteur" GUID="Zt9GucpznEW2+lJ1RiUycw=="/>
+			<POI MapID="24" xpos="465.936" ypos="4.50957" zpos="-600.119" type="general.puzzles_de_saut.crique_du_bretteur" GUID="bv4libt5IkW8vTJtnNTVNw=="/>
+			<POI MapID="24" xpos="472.066" ypos="4.76864" zpos="-605.749" type="general.puzzles_de_saut.crique_du_bretteur" GUID="rH4XZe1010K5rU2pFpappA=="/>
+			<POI MapID="24" xpos="479.783" ypos="5.11745" zpos="-607.753" type="general.puzzles_de_saut.crique_du_bretteur" GUID="ZnFcr697wEqOSTsiVDpL4Q=="/>
+			<POI MapID="24" xpos="488.497" ypos="5.37481" zpos="-603.003" type="general.puzzles_de_saut.crique_du_bretteur" GUID="nckaHrejLUKwDZI1m7KPcQ=="/>
+			<POI MapID="24" xpos="487.642" ypos="5.52183" zpos="-592.94" type="general.puzzles_de_saut.crique_du_bretteur" GUID="r3LNxLLBaEKfypvqqWqD+g=="/>
+			<POI MapID="24" xpos="491.232" ypos="8.77148" zpos="-586.005" type="general.puzzles_de_saut.crique_du_bretteur" GUID="SUrs/MD7sUGeB+s3vy0ohw=="/>
+			<POI MapID="24" xpos="493.995" ypos="12.7988" zpos="-577.638" type="general.puzzles_de_saut.crique_du_bretteur" GUID="1OtYphtGw0SAXbF7g2bIFw=="/>
+			<POI MapID="24" xpos="501.497" ypos="17.1719" zpos="-570.754" type="general.puzzles_de_saut.crique_du_bretteur" GUID="/pR3rc/cEkeFiQGR5Vf26A=="/>
+			<POI MapID="24" xpos="510.522" ypos="21.2821" zpos="-573.047" type="general.puzzles_de_saut.crique_du_bretteur" GUID="s6AEcU58d0KfjrOpHFpbog=="/>
+			<POI MapID="24" xpos="529.451" ypos="27.7543" zpos="-571.91" type="general.puzzles_de_saut.crique_du_bretteur" GUID="Hp/EjalYGkqykle1SLxkqA=="/>
+			<POI MapID="24" xpos="534.542" ypos="31.2412" zpos="-569.763" type="general.puzzles_de_saut.crique_du_bretteur" GUID="6YFnv0HlREmLj6nHlEfIkA=="/>
+			<POI MapID="24" xpos="549.077" ypos="36.6695" zpos="-566.492" type="general.puzzles_de_saut.crique_du_bretteur" GUID="6QSDWLAXcUm6wNQ2i+TdFQ=="/>
+			<POI MapID="24" xpos="559.416" ypos="40.5298" zpos="-565.351" type="general.puzzles_de_saut.crique_du_bretteur" GUID="YB9XRZ3Dm06rI9jLVUdeTw=="/>
+			<POI MapID="24" xpos="570.929" ypos="40.0473" zpos="-564.455" type="general.puzzles_de_saut.crique_du_bretteur" GUID="55EFk/rzI0+Wg3Rj80qzMg=="/>
+			<POI MapID="24" xpos="586.621" ypos="40.8021" zpos="-555.927" type="general.puzzles_de_saut.crique_du_bretteur" GUID="aIAZHb/tb0qj0FmSoX+lUQ=="/>
+			<POI MapID="24" xpos="592.824" ypos="41.2959" zpos="-563.169" type="general.puzzles_de_saut.crique_du_bretteur" GUID="MI1XoaUs5Uu3fKc+cKqqrg=="/>
+			<POI MapID="24" xpos="600.545" ypos="40.8" zpos="-566.58" type="general.puzzles_de_saut.crique_du_bretteur" GUID="97dpGU41iUCormvcFamFSw=="/>
+			<POI MapID="24" xpos="606.183" ypos="43.5274" zpos="-567.912" type="general.puzzles_de_saut.crique_du_bretteur" GUID="YbedjOuo6Eadt7r2p1Ke3w=="/>
+			<POI MapID="24" xpos="611.755" ypos="43.8054" zpos="-562.392" type="general.puzzles_de_saut.crique_du_bretteur" GUID="uF0sNvsA00ipPZhTH0v1rg=="/>
+			<POI MapID="24" xpos="617.237" ypos="43.4976" zpos="-557.574" type="general.puzzles_de_saut.crique_du_bretteur" GUID="1bIBf3l5vk+TbreN9sDjTQ=="/>
+			<POI MapID="24" xpos="628.468" ypos="36.0679" zpos="-546.683" type="general.puzzles_de_saut.crique_du_bretteur" GUID="zUD14AcP2kGi6QGKtWpk5A=="/>
+			<POI MapID="24" xpos="632.341" ypos="35.0882" zpos="-544.121" type="general.puzzles_de_saut.crique_du_bretteur" GUID="du7OCp+1dk2Q5TFelMASbw=="/>
+			<POI MapID="24" xpos="638.734" ypos="32.2965" zpos="-543.259" type="general.puzzles_de_saut.crique_du_bretteur" GUID="1tW+ikLcxUC3eNCHn/GvZw=="/>
+			<POI MapID="24" xpos="645.52" ypos="32.7203" zpos="-542.928" type="general.puzzles_de_saut.crique_du_bretteur" GUID="fky6+z5140Sfdm5MauB4eg=="/>
+			<POI MapID="24" xpos="653.598" ypos="32.0461" zpos="-544.912" type="general.puzzles_de_saut.crique_du_bretteur" GUID="UMHHCDHoBkStkhhR6SsF8w=="/>
+			<POI MapID="24" xpos="662.171" ypos="31.2981" zpos="-546.309" type="general.puzzles_de_saut.crique_du_bretteur" GUID="xmv1gcl/d0W8jwhIi5iguA=="/>
+			<POI MapID="24" xpos="670.44" ypos="30.4717" zpos="-547.706" type="general.puzzles_de_saut.crique_du_bretteur" GUID="4os5gmqf9EyrNfqKINlFjQ=="/>
+			<POI MapID="24" xpos="677.86" ypos="29.6075" zpos="-549.986" type="general.puzzles_de_saut.crique_du_bretteur" GUID="55Hl65fLpECGQ5rQl8W5xw=="/>
+		</Route>
+
+		<!-- Coffre -->
+		<POI MapID="24" xpos="688.891" ypos="28.0959" zpos="-552.209" type="general.puzzles_de_saut.crique_du_bretteur" GUID="EdLfOLuMtEKAaTSz3j77aA==" iconFile="Img\CoffrePuzzle.png" iconSize="1" heightOffset="2.5" behavior="2"/>
+
+	</POIs>
+</OverlayData>

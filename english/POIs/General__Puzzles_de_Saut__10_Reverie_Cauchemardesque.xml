@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+POIs: Cloud Strife.7492 - Xenophy.2716 - ReActif.9251
+Date: 2017/08/23
+-->
+<OverlayData>
+	<MarkerCategory name="general" DisplayName="General">
+		<MarkerCategory name="puzzles_de_saut" DisplayName="Jumping Puzzles" iconFile="Img\Guide.png" iconSize="0.75">
+			<MarkerCategory name="reverie_cauchemardesque" DisplayName="Dark Reverie"/>
+		</MarkerCategory>
+	</MarkerCategory>
+
+	<POIs>
+
+		<!-- Début -->
+		<POI MapID="34" xpos="441.024" ypos="48.8915" zpos="-604.365" type="general.puzzles_de_saut.debut" GUID="LbNWkCPjQEiPbcN9KfhKqA=="/>
+
+		<!-- Route -->
+		<Route MapID="34" name="Reverie_Cauchemardesque" resetposx="441.024" resetposy="48.8915" resetposz="-604.365" resetrange="2">
+			<POI MapID="34" xpos="439.009" ypos="51.4779" zpos="-596.027" type="general.puzzles_de_saut.reverie_cauchemardesque" GUID="+TlbE4GKrU6/YOyqR4m7pQ=="/>
+			<POI MapID="34" xpos="434.337" ypos="54.0704" zpos="-588.878" type="general.puzzles_de_saut.reverie_cauchemardesque" GUID="HO/xhp0Q/Uayrqicd52mgA=="/>
+			<POI MapID="34" xpos="428.769" ypos="56.4035" zpos="-579.471" type="general.puzzles_de_saut.reverie_cauchemardesque" GUID="nDIzaTeWgE2/QDA7igH4Wg=="/>
+			<POI MapID="34" xpos="424.171" ypos="57.079" zpos="-575.416" type="general.puzzles_de_saut.reverie_cauchemardesque" GUID="wgsYMJ+WlkyLrPnyB9+Z5A=="/>
+			<POI MapID="34" xpos="419.612" ypos="58.2875" zpos="-569.952" type="general.puzzles_de_saut.reverie_cauchemardesque" GUID="IwtH8xxdVEaw4ZFmCGcDtg=="/>
+			<POI MapID="34" xpos="413.62" ypos="58.7036" zpos="-566.901" type="general.puzzles_de_saut.reverie_cauchemardesque" GUID="ISPj1Lq/nE2w9teZCuQXWw=="/>
+			<POI MapID="34" xpos="407.985" ypos="58.9039" zpos="-564.485" type="general.puzzles_de_saut.reverie_cauchemardesque" GUID="eVwnFaCmy0W6BdpLVhINcg=="/>
+			<POI MapID="34" xpos="398.794" ypos="58.048" zpos="-562.107" type="general.puzzles_de_saut.reverie_cauchemardesque" GUID="zqH69wapZ0OmDNEPzAVGww=="/>
+			<POI MapID="34" xpos="391.768" ypos="58.1338" zpos="-563.514" type="general.puzzles_de_saut.reverie_cauchemardesque" GUID="lWUHFiSJ/0iIjOyYY/f/gw=="/>
+			<POI MapID="34" xpos="384.207" ypos="58.5127" zpos="-564.423" type="general.puzzles_de_saut.reverie_cauchemardesque" GUID="Ayw0vilaHUa3YDECPavksg=="/>
+			<POI MapID="34" xpos="376.692" ypos="57.8387" zpos="-563.522" type="general.puzzles_de_saut.reverie_cauchemardesque" GUID="SHLwOYTwRkCtx31d9xg9Dg=="/>
+			<POI MapID="34" xpos="371.382" ypos="52.8236" zpos="-561.829" type="general.puzzles_de_saut.reverie_cauchemardesque" GUID="WT6ER4/4BUSDwXxZuJa/Mg=="/>
+			<POI MapID="34" xpos="358.838" ypos="52.3793" zpos="-559.372" type="general.puzzles_de_saut.reverie_cauchemardesque" GUID="gpe5zDHah026lHZOkH/gZw=="/>
+			<POI MapID="34" xpos="350.922" ypos="52.2444" zpos="-560.832" type="general.puzzles_de_saut.reverie_cauchemardesque" GUID="i1KLOeKj4keUa9gd6KKejg=="/>
+			<POI MapID="34" xpos="344.44" ypos="51.1188" zpos="-561.381" type="general.puzzles_de_saut.reverie_cauchemardesque" GUID="UIUtDTqUVE24Hg969N+sdA=="/>
+			<POI MapID="34" xpos="338.724" ypos="50.3684" zpos="-556.788" type="general.puzzles_de_saut.reverie_cauchemardesque" GUID="7t4AUeniqkGH/m6vX721dg=="/>
+			<POI MapID="34" xpos="336.553" ypos="45.0262" zpos="-549.66" type="general.puzzles_de_saut.reverie_cauchemardesque" GUID="3a08YrmRQUekWGGqMQDHcA=="/>
+			<POI MapID="34" xpos="330.56" ypos="39.9774" zpos="-542.663" type="general.puzzles_de_saut.reverie_cauchemardesque" GUID="XhThFCkbmEu1EcQLmYWS5g=="/>
+			<POI MapID="34" xpos="323.718" ypos="36.017" zpos="-541.659" type="general.puzzles_de_saut.reverie_cauchemardesque" GUID="VgT3z60YA0quhAC3o2bBew=="/>
+			<POI MapID="34" xpos="323.284" ypos="33.5281" zpos="-546.815" type="general.puzzles_de_saut.reverie_cauchemardesque" GUID="DNVXixNrOU2SmJSJPommRA=="/>
+			<POI MapID="34" xpos="317.502" ypos="26.7106" zpos="-545.418" type="general.puzzles_de_saut.reverie_cauchemardesque" GUID="y0WNkOMc60Os8uP6vLwh8w=="/>
+			<POI MapID="34" xpos="326.651" ypos="20.2358" zpos="-543.188" type="general.puzzles_de_saut.reverie_cauchemardesque" GUID="JlRRY4IviEOKcMUigo+G3A=="/>
+			<POI MapID="34" xpos="331.04" ypos="16.7699" zpos="-545.206" type="general.puzzles_de_saut.reverie_cauchemardesque" GUID="v1sGAMPGmk29Fp30VDdQJQ=="/>
+			<POI MapID="34" xpos="329.823" ypos="11.749" zpos="-546.676" type="general.puzzles_de_saut.reverie_cauchemardesque" GUID="1p/5j0hTTkizXrbZx8c3sQ=="/>
+			<POI MapID="34" xpos="334.488" ypos="6.52541" zpos="-545.245" type="general.puzzles_de_saut.reverie_cauchemardesque" GUID="Q/kaEMBfv0uVGcvCHxbsxg=="/>
+			<POI MapID="34" xpos="332.858" ypos="2.68229" zpos="-553.437" type="general.puzzles_de_saut.reverie_cauchemardesque" GUID="Pj0FL1z1CkKOBuV16EyPtQ=="/>
+			<POI MapID="34" xpos="329.881" ypos="2.43634" zpos="-561.271" type="general.puzzles_de_saut.reverie_cauchemardesque" GUID="aG9czmVpek6ETDJJWCTVMA=="/>
+			<POI MapID="34" xpos="323.515" ypos="1.50749" zpos="-568.261" type="general.puzzles_de_saut.reverie_cauchemardesque" GUID="qpgqVuHkW0O3Ugd9hx7F5Q=="/>
+			<POI MapID="34" xpos="317.97" ypos="0.282104" zpos="-574.416" type="general.puzzles_de_saut.reverie_cauchemardesque" GUID="JQicZpleVEyecEabvvW8UA=="/>
+			<POI MapID="34" xpos="310.443" ypos="-0.446359" zpos="-578.072" type="general.puzzles_de_saut.reverie_cauchemardesque" GUID="seaKBJ87rUqrPy3J2KahAA=="/>
+			<POI MapID="34" xpos="303.562" ypos="0.525876" zpos="-583.712" type="general.puzzles_de_saut.reverie_cauchemardesque" GUID="5DAvIa9mf0G+AJKlqClWCA=="/>
+			<POI MapID="34" xpos="297.01" ypos="0.0601973" zpos="-590.957" type="general.puzzles_de_saut.reverie_cauchemardesque" GUID="LI+Uia+yWUSTzM4dlmEgqQ=="/>
+			<POI MapID="34" xpos="293.328" ypos="2.96437" zpos="-596.543" type="general.puzzles_de_saut.reverie_cauchemardesque" GUID="H+5u1gHMGUmr5IZvNF4wUw=="/>
+			<POI MapID="34" xpos="290.211" ypos="3.7077" zpos="-594.357" type="general.puzzles_de_saut.reverie_cauchemardesque" GUID="/YrMMZOTREC5hRGoAQz0EQ=="/>
+			<POI MapID="34" xpos="287.229" ypos="4.86558" zpos="-593.683" type="general.puzzles_de_saut.reverie_cauchemardesque" GUID="vmEU47ZT1EypIfRgvBH3Aw=="/>
+			<POI MapID="34" xpos="284.031" ypos="5.00466" zpos="-597.098" type="general.puzzles_de_saut.reverie_cauchemardesque" GUID="4iUiCI2URUuR6xcNr5eeUw=="/>
+			<POI MapID="34" xpos="279.151" ypos="6.39452" zpos="-599.98" type="general.puzzles_de_saut.reverie_cauchemardesque" GUID="fN2TtFCSVkmMwERBNc9yUg=="/>
+			<POI MapID="34" xpos="274.361" ypos="7.12508" zpos="-606.379" type="general.puzzles_de_saut.reverie_cauchemardesque" GUID="qMJnG4B/CUiM419RHzsJuw=="/>
+			<POI MapID="34" xpos="270.307" ypos="7.33031" zpos="-611.88" type="general.puzzles_de_saut.reverie_cauchemardesque" GUID="b88hLaG3zUGxnNv9ySsslg=="/>
+			<POI MapID="34" xpos="265.424" ypos="7.34307" zpos="-616.217" type="general.puzzles_de_saut.reverie_cauchemardesque" GUID="ENysReCka0+EBk9f0Ckq7w=="/>
+			<POI MapID="34" xpos="261.49" ypos="7.37986" zpos="-611.7" type="general.puzzles_de_saut.reverie_cauchemardesque" GUID="1yhgAxTGKEGtnJOddyRPDA=="/>
+			<POI MapID="34" xpos="256.7" ypos="8.88" zpos="-605.95" type="general.puzzles_de_saut.reverie_cauchemardesque" GUID="0Bws3OfVtk2zxCgg6vIrdw=="/>
+			<POI MapID="34" xpos="255.16" ypos="11.78" zpos="-599.34" type="general.puzzles_de_saut.reverie_cauchemardesque" GUID="/23y3Ujr6kaYdKfcg8X0Lw=="/>
+			<POI MapID="34" xpos="255.336" ypos="11.6225" zpos="-595.287" type="general.puzzles_de_saut.reverie_cauchemardesque" GUID="r3QCq5hdRU+zCJ7HGJX40g=="/>
+			<POI MapID="34" xpos="254.986" ypos="12.6109" zpos="-590.593" type="general.puzzles_de_saut.reverie_cauchemardesque" GUID="XDl8OllA8UiCCvFr63cbtg=="/>
+			<POI MapID="34" xpos="254.234" ypos="13.6841" zpos="-586.426" type="general.puzzles_de_saut.reverie_cauchemardesque" GUID="Y0vPSugTRUOTxjWdIhFLLQ=="/>
+			<POI MapID="34" xpos="252.764" ypos="15.8907" zpos="-582.525" type="general.puzzles_de_saut.reverie_cauchemardesque" GUID="E9qUfgcxQ0iV/UX3bI7pTA=="/>
+			<POI MapID="34" xpos="253.804" ypos="16.6601" zpos="-576.906" type="general.puzzles_de_saut.reverie_cauchemardesque" GUID="dtYCuBag5EmsUCZMx/BebA=="/>
+			<POI MapID="34" xpos="254.842" ypos="15.4511" zpos="-570.979" type="general.puzzles_de_saut.reverie_cauchemardesque" GUID="gSIgLgihsUSLmGGlRUMJ0g=="/>
+			<POI MapID="34" xpos="257.467" ypos="15.0502" zpos="-567.9" type="general.puzzles_de_saut.reverie_cauchemardesque" GUID="ELAhj8u1KkSSwozezD7B0g=="/>
+			<POI MapID="34" xpos="262.717" ypos="15.9746" zpos="-569.567" type="general.puzzles_de_saut.reverie_cauchemardesque" GUID="nuUvfe412Ui8fGgJWAgIKw=="/>
+			<POI MapID="34" xpos="266.756" ypos="18.6145" zpos="-569.756" type="general.puzzles_de_saut.reverie_cauchemardesque" GUID="Y5rLE4OnQECpuXPJNkRDRw=="/>
+			<POI MapID="34" xpos="272.219" ypos="19.7117" zpos="-571.049" type="general.puzzles_de_saut.reverie_cauchemardesque" GUID="Ied9Tnqp2kGoUc39L3/tAQ=="/>
+			<POI MapID="34" xpos="276" ypos="19.8952" zpos="-572.775" type="general.puzzles_de_saut.reverie_cauchemardesque" GUID="oVnwmsGMDEa/VFuwXnc3iQ=="/>
+			<POI MapID="34" xpos="279.35" ypos="21.33" zpos="-569.61" type="general.puzzles_de_saut.reverie_cauchemardesque" GUID="xybg6wx5qUOo+fD6iU1yhw=="/>
+			<POI MapID="34" xpos="283.06" ypos="23.5931" zpos="-569.081" type="general.puzzles_de_saut.reverie_cauchemardesque" GUID="JtHKY9myC06/obAeK23xDQ=="/>
+			<POI MapID="34" xpos="285.319" ypos="23.5711" zpos="-566.304" type="general.puzzles_de_saut.reverie_cauchemardesque" GUID="o5uKM/8We0KDwptw90cWAw=="/>
+			<POI MapID="34" xpos="284.938" ypos="25.9112" zpos="-571.682" type="general.puzzles_de_saut.reverie_cauchemardesque" GUID="ISKWi5AIi0+uVbhUnQ2law=="/>
+			<POI MapID="34" xpos="284.744" ypos="26.8993" zpos="-576.397" type="general.puzzles_de_saut.reverie_cauchemardesque" GUID="iAw3JLqmSEKlpwWZkQh00w=="/>
+			<POI MapID="34" xpos="281.145" ypos="28.7658" zpos="-575.13" type="general.puzzles_de_saut.reverie_cauchemardesque" GUID="3V9fQ85QekuNxkZOkhWIYQ=="/>
+			<POI MapID="34" xpos="279.735" ypos="30.4846" zpos="-570.872" type="general.puzzles_de_saut.reverie_cauchemardesque" GUID="9dkbw5X/mUSc+gzAUNvyZg=="/>
+			<POI MapID="34" xpos="281.434" ypos="32.1546" zpos="-567.201" type="general.puzzles_de_saut.reverie_cauchemardesque" GUID="IfUsJMo6d0qw/pd2DqqN/A=="/>
+			<POI MapID="34" xpos="283.808" ypos="33.1046" zpos="-562.241" type="general.puzzles_de_saut.reverie_cauchemardesque" GUID="eHMIJF6N30iYWX7ZLnKNZA=="/>
+			<POI MapID="34" xpos="284.882" ypos="34.3303" zpos="-556.86" type="general.puzzles_de_saut.reverie_cauchemardesque" GUID="ykteYj51ZkaRKSsSLWi20g=="/>
+			<POI MapID="34" xpos="293.168" ypos="39.838" zpos="-554.45" type="general.puzzles_de_saut.reverie_cauchemardesque" GUID="f/puXmfMSUi7FmtzyLEwIA=="/>
+			<POI MapID="34" xpos="297.673" ypos="40.5749" zpos="-552.092" type="general.puzzles_de_saut.reverie_cauchemardesque" GUID="RxJhUFCZyU2cA7LAL+og3A=="/>
+			<POI MapID="34" xpos="300.792" ypos="40.4029" zpos="-549.268" type="general.puzzles_de_saut.reverie_cauchemardesque" GUID="cNVfPjnBuEW3qerQ8eqlUw=="/>
+			<POI MapID="34" xpos="305.139" ypos="40.9294" zpos="-543.93" type="general.puzzles_de_saut.reverie_cauchemardesque" GUID="MsogS+dp7EeHwgzuS+Y8QA=="/>
+			<POI MapID="34" xpos="309.608" ypos="42.7649" zpos="-542.819" type="general.puzzles_de_saut.reverie_cauchemardesque" GUID="2LN1J+BTMEi1K4jsqvo8RA=="/>
+			<POI MapID="34" xpos="310.204" ypos="44.0657" zpos="-547.487" type="general.puzzles_de_saut.reverie_cauchemardesque" GUID="ajwH89pul06th5NAmFS3wg=="/>
+			<POI MapID="34" xpos="305.66" ypos="46.276" zpos="-547.872" type="general.puzzles_de_saut.reverie_cauchemardesque" GUID="9Vyqvb1IREe2BTtSpcd6sQ=="/>
+			<POI MapID="34" xpos="306.69" ypos="48.38" zpos="-552.16" type="general.puzzles_de_saut.reverie_cauchemardesque" GUID="b1h5BfLRPEe7qR2/Dq7NYQ=="/>
+			<POI MapID="34" xpos="305.671" ypos="48.8922" zpos="-553.213" type="general.puzzles_de_saut.reverie_cauchemardesque" GUID="26Ff8sU2fU+VnlmoVNoPhg=="/>
+			<POI MapID="34" xpos="304.537" ypos="50.7509" zpos="-547.264" type="general.puzzles_de_saut.reverie_cauchemardesque" GUID="rMZIajHkG0+d7gRpQndfGg=="/>
+			<POI MapID="34" xpos="306.463" ypos="52.1053" zpos="-544.198" type="general.puzzles_de_saut.reverie_cauchemardesque" GUID="/gHJ431kq0WpoaWKKf3aWQ=="/>
+			<POI MapID="34" xpos="310.672" ypos="53.6915" zpos="-545.569" type="general.puzzles_de_saut.reverie_cauchemardesque" GUID="rqoHUZ5BqkyE0R2+xHNVfw=="/>
+			<POI MapID="34" xpos="305.586" ypos="55.4917" zpos="-547.846" type="general.puzzles_de_saut.reverie_cauchemardesque" GUID="Pv3CrmYNOkqEXJFhw4BQrQ=="/>
+			<POI MapID="34" xpos="307.812" ypos="56.545" zpos="-543.894" type="general.puzzles_de_saut.reverie_cauchemardesque" GUID="BIz64vfbREiCGkNM7y1yxg=="/>
+			<POI MapID="34" xpos="311.725" ypos="57.3154" zpos="-545.808" type="general.puzzles_de_saut.reverie_cauchemardesque" GUID="dflrhYB2hkimh71Cx7Qj2g=="/>
+			<POI MapID="34" xpos="314.705" ypos="59.0538" zpos="-548.35" type="general.puzzles_de_saut.reverie_cauchemardesque" GUID="BRD8Hd0mXk+5a5YnvfQtUQ=="/>
+			<POI MapID="34" xpos="310.724" ypos="60.1317" zpos="-548.877" type="general.puzzles_de_saut.reverie_cauchemardesque" GUID="jreatl3LeECUcGmY6kAXAA=="/>
+			<POI MapID="34" xpos="306.88" ypos="61.4329" zpos="-545.6" type="general.puzzles_de_saut.reverie_cauchemardesque" GUID="DbMyjuzY90ywSKN4+VVF6Q=="/>
+			<POI MapID="34" xpos="309.631" ypos="63.22" zpos="-545.01" type="general.puzzles_de_saut.reverie_cauchemardesque" GUID="G0xKHuyGzUWBwImPLWx82A=="/>
+			<POI MapID="34" xpos="314.229" ypos="64.5651" zpos="-545.98" type="general.puzzles_de_saut.reverie_cauchemardesque" GUID="yjeDrQVZoEaMKTQ/TJU/Ew=="/>
+			<POI MapID="34" xpos="311.746" ypos="66.5123" zpos="-544.579" type="general.puzzles_de_saut.reverie_cauchemardesque" GUID="nL5HFDU0+kGe65EnL+2ZfA=="/>
+			<POI MapID="34" xpos="307.874" ypos="67.1332" zpos="-540.426" type="general.puzzles_de_saut.reverie_cauchemardesque" GUID="xWwSEed910W4rhBqnNrtag=="/>
+			<POI MapID="34" xpos="304.228" ypos="67.8243" zpos="-535.647" type="general.puzzles_de_saut.reverie_cauchemardesque" GUID="EOHXTLwdSUq3x1m7cyLnMg=="/>
+		</Route>
+
+		<!-- Coffre -->
+		<POI MapID="34" xpos="296.409" ypos="66.9896" zpos="-531.927" type="general.puzzles_de_saut.reverie_cauchemardesque" GUID="DGpphYh/S06yu1aZUAtYog==" iconFile="Img\CoffrePuzzle.png" iconSize="1" heightOffset="2.5" behavior="2"/>
+
+	</POIs>
+</OverlayData>

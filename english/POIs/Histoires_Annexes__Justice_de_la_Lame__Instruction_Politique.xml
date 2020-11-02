@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+POIs: GW2Info.net - ReActif.9251
+Date: 2017/08/15
+-->
+<OverlayData>
+	<MarkerCategory name="histoires_annexes" DisplayName="Side Stories" iconFile="Img\HistoiresAnnexes.png" behavior="3">
+		<MarkerCategory name="justice_de_la_lame" DisplayName="Justice of the Blade" iconFile="Img\JusticeDeLaLame.png">
+			<MarkerCategory name="instruction_politique" DisplayName="Informed Politics" heightOffset="3"/>
+		</MarkerCategory>
+	</MarkerCategory>
+
+	<POIs>
+
+		<POI MapID="15" xpos="-603.51" ypos="34.021" zpos="-499.60" type="histoires_annexes.justice_de_la_lame.instruction_politique" GUID="61FxRCWH9EWudlVhu4zfjg=="/>
+		<POI MapID="15" xpos="-312.49" ypos="68.189" zpos="551.027" type="histoires_annexes.justice_de_la_lame.instruction_politique" GUID="Y+ZUlQT1rEai7PP3qC3k7w=="/>
+		<POI MapID="15" xpos="836.315" ypos="14.050" zpos="520.092" type="histoires_annexes.justice_de_la_lame.instruction_politique" GUID="i4LQ4HnGl0C2vrBFCRmMqQ=="/>
+		<POI MapID="15" xpos="916.549" ypos="14.617" zpos="532.361" type="histoires_annexes.justice_de_la_lame.instruction_politique" GUID="QtmtN1FWdESkOlTjrCkAmg=="/>
+		<POI MapID="15" xpos="955.024" ypos="18.389" zpos="519.295" type="histoires_annexes.justice_de_la_lame.instruction_politique" GUID="Mt8KgZudPUejCSRWfkYukg=="/>
+
+		<POI MapID="17" xpos="-735.30" ypos="17.095" zpos="328.498" type="histoires_annexes.justice_de_la_lame.instruction_politique" GUID="UbU1Ks8xA0+EZC4D/ElUkw=="/>
+
+		<POI MapID="18" xpos="-159.73" ypos="60.057" zpos="-392.38" type="histoires_annexes.justice_de_la_lame.instruction_politique" GUID="VCB9xAU+/0KzHFGdIRHmJw=="/>
+		<POI MapID="18" xpos="-112.20" ypos="56.396" zpos="285.194" type="histoires_annexes.justice_de_la_lame.instruction_politique" GUID="3a7/C0Ako0uNI5l5ZoIPDw=="/>
+		<POI MapID="18" xpos="202.418" ypos="63.605" zpos="-340.86" type="histoires_annexes.justice_de_la_lame.instruction_politique" GUID="Knv+Qanr8EiXt3sgXPf8gw=="/>
+		<POI MapID="18" xpos="266.635" ypos="138.51" zpos="32.7265" type="histoires_annexes.justice_de_la_lame.instruction_politique" GUID="N9SaTtLkGU2yGfd/mb5H0g=="/>
+		<POI MapID="18" xpos="354.016" ypos="68.833" zpos="-53.974" type="histoires_annexes.justice_de_la_lame.instruction_politique" GUID="5cBKjuO39UOdTD5Jq5ow9A=="/>
+
+		<POI MapID="23" xpos="164.584" ypos="67.206" zpos="157.814" type="histoires_annexes.justice_de_la_lame.instruction_politique" GUID="BptCKkQLfEGDCzqATTLyOQ=="/>
+		<POI MapID="23" xpos="201.813" ypos="23.311" zpos="-98.537" type="histoires_annexes.justice_de_la_lame.instruction_politique" GUID="av7fko/7yUqT+Qm8e8jScg=="/>
+		<POI MapID="23" xpos="1188.50" ypos="43.296" zpos="-98.136" type="histoires_annexes.justice_de_la_lame.instruction_politique" GUID="FMwq0WW1H0ezHsnfW2R2kg=="/>
+		<POI MapID="23" xpos="1208.89" ypos="32.711" zpos="-392.18" type="histoires_annexes.justice_de_la_lame.instruction_politique" GUID="dlNdfSlZfUqbxgBsThLT/Q=="/>
+
+		<POI MapID="24" xpos="-799.14" ypos="30.085" zpos="32.9267" type="histoires_annexes.justice_de_la_lame.instruction_politique" GUID="1lpGUZ8rNkOtj1sLGETgAQ=="/>
+		<POI MapID="24" xpos="-407.29" ypos="13.480" zpos="-98.931" type="histoires_annexes.justice_de_la_lame.instruction_politique" GUID="A+hWAr7qJ0WOGKNSj8ZRUQ=="/>
+		<POI MapID="24" xpos="-405.43" ypos="8.7892" zpos="19.1654" type="histoires_annexes.justice_de_la_lame.instruction_politique" GUID="sthZi1SRlEClo14gvzChmg=="/>
+		<POI MapID="24" xpos="328.185" ypos="12.096" zpos="-177.93" type="histoires_annexes.justice_de_la_lame.instruction_politique" GUID="cichAb/4NUm3GxyOyfSo1g=="/>
+
+		<POI MapID="248" xpos="151.04" ypos="82.172" zpos="192.994" type="histoires_annexes.justice_de_la_lame.instruction_politique" GUID="4WI6O2FImUGccMKI47J3VQ=="/>
+
+	</POIs>
+</OverlayData>

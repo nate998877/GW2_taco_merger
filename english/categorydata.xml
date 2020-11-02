@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<OverlayData>
+
+	<!-- Story Journal -->
+	<MarkerCategory name="chroniques" DisplayName="Story Journal" behavior="3">
+		<MarkerCategory name="hot" DisplayName="Heart of Thorns"/>
+		<MarkerCategory name="pof" DisplayName="Path of Fire"/>
+		<MarkerCategory name="saison_2" DisplayName="Season 2"/>
+		<MarkerCategory name="saison_3" DisplayName="Season 3"/>
+	</MarkerCategory>
+
+	<!-- General -->
+	<MarkerCategory name="general" DisplayName="General"/>
+
+	<!-- Heart of Thorns -->
+	<MarkerCategory name="heart_of_thorns" DisplayName="Heart of Thorns" behavior="3">
+		<MarkerCategory name="oree_d_emeraude" DisplayName="Verdant Brink" iconFile="Img\OreeEmeraude.png"/>
+		<MarkerCategory name="bassin_aurique" DisplayName="Auric Basin" iconFile="Img\BassinAurique.png"/>
+		<MarkerCategory name="profondeurs_verdoyantes" DisplayName="Tangled Depths" iconFile="Img\ProfondeursVerdoyantes.png"/>
+		<MarkerCategory name="repli_du_dragon" DisplayName="Dragon's Stand" iconFile="Img\RepliDuDragon.png"/>
+	</MarkerCategory>
+
+	<!-- Path of Fire -->
+	<MarkerCategory name="path_of_fire" DisplayName="Path of Fire" behavior="3">
+		<MarkerCategory name="oasis_de_cristal" DisplayName="Crystal Oasis" iconFile="Img\Oasisdecristal.png"/>
+		<MarkerCategory name="hautes_terres_du_desert" DisplayName="Desert Highlands" iconFile="Img\HautesTerresduDesert.png"/>
+	</MarkerCategory>
+	
+	<!-- Side Stories -->
+	<MarkerCategory name="histoires_annexes" DisplayName="Side Stories" iconFile="Img\HistoiresAnnexes.png" behavior="3"/>
+
+	<!-- Seasonal Events -->
+	<MarkerCategory name="festivals" DisplayName="Seasonal Events"/>
+
+	<!-- Competitive -->
+	<MarkerCategory name="tactical" DisplayName="Competitive">
+		<!-- World vs World
+		ATTENTION : Never change the tree structure of it : "tactical.WvW" or name
+		or TacO will not show marks in WvW because this is integred in TacO executable -->
+		<MarkerCategory name="WvW" DisplayName="World vs World" minSize="10" maxSize="20">
+			<MarkerCategory name="Camp" iconFile="Img\McM_Camp.png"/>
+			<MarkerCategory name="Tower" iconFile="Img\McM_Tour.png"/>
+			<MarkerCategory name="Keep" iconFile="Img\McM_Fort.png"/>
+			<MarkerCategory name="Ruins" iconFile="Img\McM_Ruine.png"/>
+			<MarkerCategory name="Generic" iconFile="Img\McM_Generique.png"/>
+			<MarkerCategory name="Resource" iconFile="Img\McM_Ressource.png"/>
+			<MarkerCategory name="Castle" iconFile="Img\McM_Chateau.png"/>
+		</MarkerCategory>
+	</MarkerCategory>
+
+	<!-- Raids -->
+	<MarkerCategory name="raids" DisplayName="Raids" iconFile="Img\RaidSucces.png" behavior="3"/>
+
+	<!-- Fractals of the Mists -->
+	<MarkerCategory name="fractales_des_brumes" DisplayName="Fractals of the Mists" iconFile="Img\FractalesDesBrumes.png" behavior="3"/>
+
+	<!-- Collections -->
+	<MarkerCategory name="collections" DisplayName="Collections" behavior="3"/>
+
+	<!-- Guild Missions -->
+	<MarkerCategory name="missions_de_guilde" DisplayName="Guild Missions"/>
+
+	<!-- Chests -->
+	<MarkerCategory name="coffres" DisplayName="Chests" iconFile="Img\Coffre.png">
+		<MarkerCategory name="permanents" DisplayName="Permanent" heightOffset="3" behavior="2"/>
+		<MarkerCategory name="requiert_cle" DisplayName="Key Required" iconFile="Img\CoffreCle.png" fadeNear="10000" fadeFar="20000" behavior="6"/>
+	</MarkerCategory>
+
+	<!-- Harvest -->
+	<MarkerCategory name="recoltes" DisplayName="Harvest" fadeNear="10000" fadeFar="20000" behavior="6"/>
+
+	<!-- Tips (No Achievement) -->
+	<MarkerCategory name="astuces" DisplayName="Tips"/>
+
+	<!-- Informations -->
+	<MarkerCategory name="informations" DisplayName="Informations" iconFile="Img\Information.png">
+		<MarkerCategory name="avantages_de_deplacement" DisplayName="Assistances" fadeNear="4000" fadeFar="8000" triggerRange="2.1"/>
+		<MarkerCategory name="boussole" DisplayName="Compass" iconFile="Img\Exploration.png">
+			<MarkerCategory name="n" DisplayName="North" iconFile="Img\N.png"/>
+			<MarkerCategory name="ne" DisplayName="Nord-East" iconFile="Img\NE.png"/>
+			<MarkerCategory name="e" DisplayName="East" iconFile="Img\E.png"/>
+			<MarkerCategory name="se" DisplayName="South-East" iconFile="Img\SE.png"/>
+			<MarkerCategory name="s" DisplayName="South" iconFile="Img\S.png"/>
+			<MarkerCategory name="so" DisplayName="Sud-West" iconFile="Img\SO-EN.png"/>
+			<MarkerCategory name="o" DisplayName="West" iconFile="Img\O-EN.png"/>
+			<MarkerCategory name="no" DisplayName="North-West" iconFile="Img\NO-EN.png"/>
+		</MarkerCategory>
+		<MarkerCategory name="deltaplane" DisplayName="Glidder" iconFile="Img\Deltaplane.png">
+			<MarkerCategory name="depart" DisplayName="Start" iconFile="Img\DeltaplaneDepart-EN.png"/>
+			<MarkerCategory name="stop" DisplayName="Stop" iconFile="Img\DeltaplaneStop.png"/>
+			<MarkerCategory name="niveau_1" DisplayName="Level 1" iconFile="Img\DeltaplaneNiveau1-EN.png"/>
+			<MarkerCategory name="niveau_2" DisplayName="Level 2" iconFile="Img\DeltaplaneNiveau2-EN.png"/>
+			<MarkerCategory name="niveau_3" DisplayName="Level 3" iconFile="Img\DeltaplaneNiveau3-EN.png"/>
+			<MarkerCategory name="niveau_4" DisplayName="Level 4" iconFile="Img\DeltaplaneNiveau4-EN.png"/>
+			<MarkerCategory name="niveau_5" DisplayName="Level 5" iconFile="Img\DeltaplaneNiveau5-EN.png"/>
+			<MarkerCategory name="niveau_6" DisplayName="Level 6" iconFile="Img\DeltaplaneNiveau6-EN.png"/>
+		</MarkerCategory>
+		<MarkerCategory name="icones" DisplayName="Icons" fadeNear="2000" fadeFar="4000">
+			<MarkerCategory name="fleche" DisplayName="Arrow (Here)" iconFile="Img\Fleche.png"/>
+			<MarkerCategory name="fleche_haut" DisplayName="Arrow (Up)" iconFile="Img\FlecheHaut.png"/>
+			<MarkerCategory name="fleche_avant" DisplayName="Arrow (Go forward)" iconFile="Img\FlecheAvancer.png"/>
+			<MarkerCategory name="sac" DisplayName="Bag" iconFile="Img\Sac.png"/>
+			<MarkerCategory name="bombes" DisplayName="Bomb" iconFile="Img\Bombe.png" color="ffff0000" iconSize="0.75"/>
+			<MarkerCategory name="livre" DisplayName="Book" iconFile="Img\Livre.png"/>
+			<MarkerCategory name="chats" DisplayName="Cat" iconFile="Img\Chat.png"/>
+			<MarkerCategory name="coffre" DisplayName="Chest" iconFile="Img\Coffre.png"/>
+			<MarkerCategory name="cercle" DisplayName="Circle" iconFile="Img\Cercle.png"/>
+			<MarkerCategory name="croix" DisplayName="Cross" iconFile="Img\Croix.png"/>
+			<MarkerCategory name="destination" DisplayName="Destination" iconFile="Img\Destination.png"/>
+			<MarkerCategory name="details" DisplayName="Detail" iconFile="Img\Loupe.png" iconSize="0.75"/>
+			<MarkerCategory name="plongeon" DisplayName="Dive" iconFile="Img\Plongeon.png"/>
+			<MarkerCategory name="combats" DisplayName="Fight" iconFile="Img\Combat.png" color="ffff0000"/>
+			<MarkerCategory name="drapeaux_passage" DisplayName="Flag (Checkpoint)" iconFile="Img\DrapeauPassage.png"/>
+			<MarkerCategory name="drapeaux_arrivee" DisplayName="Flag (Final)" iconFile="Img\DrapeauArrivee.png"/>
+			<MarkerCategory name="contour_gauche" DisplayName="Get around (left)" iconFile="Img\ContourGauche.png" iconSize="0.75"/>
+			<MarkerCategory name="contour_droite" DisplayName="Get around (right)" iconFile="Img\ContourDroite.png" iconSize="0.75"/>
+			<MarkerCategory name="coffre_or" DisplayName="Gold Chest" iconFile="Img\CoffreOr.png"/>
+			<MarkerCategory name="guide" DisplayName="Guide" iconFile="Img\Guide.png" iconSize="0.75" heightOffset="0"/>
+			<MarkerCategory name="coeur" DisplayName="Heart" iconFile="Img\Coeur.png"/>
+			<MarkerCategory name="interactions" DisplayName="Interaction" iconFile="Img\Interaction.png" iconSize="0.5"/>
+			<MarkerCategory name="sauter_ici" DisplayName="Jump Here" iconFile="Img\SautIci.png" iconSize="0.75"/>
+			<MarkerCategory name="sauter_dessus" DisplayName="Jump Upstair" iconFile="Img\SautDessus.png" iconSize="0.75"/>
+			<MarkerCategory name="cles" DisplayName="Key" iconFile="Img\Cle.png" iconSize="0.75"/>
+			<MarkerCategory name="note_musique" DisplayName="Music" iconFile="Img\Note.png"/>
+			<MarkerCategory name="parchemin" DisplayName="Parchment" iconFile="Img\Parchemin.png"/>
+			<MarkerCategory name="photo" DisplayName="Photo" iconFile="Img\Photo.png"/>
+			<MarkerCategory name="interrogations" DisplayName="Question" iconFile="Img\Interrogation.png"/>
+			<MarkerCategory name="ranimer" DisplayName="Reanimate" iconFile="Img\Ranimer.png"/>
+			<MarkerCategory name="courir" DisplayName="Run" iconFile="Img\Vite.png" iconSize="0.75"/>
+			<MarkerCategory name="spirale" DisplayName="Spiral" iconFile="Img\Spirale.png"/>
+			<MarkerCategory name="carre" DisplayName="Square" iconFile="Img\Carre.png"/>
+			<MarkerCategory name="etoile" DisplayName="Star" iconFile="Img\Etoile.png"/>
+			<MarkerCategory name="rester_ici" DisplayName="Stay Here" iconFile="Img\ResterIci.png" iconSize="0.75"/>
+			<MarkerCategory name="interrupteurs" DisplayName="Switch" iconFile="Img\Interrupteur.png" iconSize="0.75"/>
+			<MarkerCategory name="cibles" DisplayName="Target" iconFile="Img\Cible.png"/>
+			<MarkerCategory name="torche" DisplayName="Torch" iconFile="Img\Torche.png" iconSize="0.5" heightOffset="0.5"/>
+			<MarkerCategory name="triangle" DisplayName="Triangle" iconFile="Img\Triangle.png"/>
+			<MarkerCategory name="monter" DisplayName="Upstair" iconFile="Img\Monter.png" iconSize="0.75"/>
+			<MarkerCategory name="attention" DisplayName="Warning" iconFile="Img\Attention.png"/>
+			<MarkerCategory name="vent_ascendant" DisplayName="Wind" iconFile="Img\VentAscendant.png"/>
+		</MarkerCategory>
+		<MarkerCategory name="portail" DisplayName="Mesmer Portals" alpha="0.5" heightOffset="0">
+			<MarkerCategory name="entree" DisplayName="In" iconFile="Img\PortailEntree.png"/>
+			<MarkerCategory name="sortie" DisplayName="Out" iconFile="Img\PortailSortie.png"/>
+		</MarkerCategory>
+		<MarkerCategory name="chiffres" DisplayName="Numbers">
+			<MarkerCategory name="1"  DisplayName="  1  " iconFile="Img\1.png"/>
+			<MarkerCategory name="2"  DisplayName="  2  " iconFile="Img\2.png"/>
+			<MarkerCategory name="3"  DisplayName="  3  " iconFile="Img\3.png"/>
+			<MarkerCategory name="4"  DisplayName="  4  " iconFile="Img\4.png"/>
+			<MarkerCategory name="5"  DisplayName="  5  " iconFile="Img\5.png"/>
+			<MarkerCategory name="6"  DisplayName="  6  " iconFile="Img\6.png"/>
+			<MarkerCategory name="7"  DisplayName="  7  " iconFile="Img\7.png"/>
+			<MarkerCategory name="8"  DisplayName="  8  " iconFile="Img\8.png"/>
+			<MarkerCategory name="9"  DisplayName="  9  " iconFile="Img\9.png"/>
+			<MarkerCategory name="10" DisplayName=" 10  " iconFile="Img\10.png"/>
+			<MarkerCategory name="11" DisplayName=" 11  " iconFile="Img\11.png"/>
+			<MarkerCategory name="12" DisplayName=" 12  " iconFile="Img\12.png"/>
+			<MarkerCategory name="13" DisplayName=" 13  " iconFile="Img\13.png"/>
+			<MarkerCategory name="14" DisplayName=" 14  " iconFile="Img\14.png"/>
+			<MarkerCategory name="15" DisplayName=" 15  " iconFile="Img\15.png"/>
+			<MarkerCategory name="16" DisplayName=" 16  " iconFile="Img\16.png"/>
+			<MarkerCategory name="17" DisplayName=" 17  " iconFile="Img\17.png"/>
+			<MarkerCategory name="18" DisplayName=" 18  " iconFile="Img\18.png"/>
+			<MarkerCategory name="19" DisplayName=" 19  " iconFile="Img\19.png"/>
+			<MarkerCategory name="20" DisplayName=" 20  " iconFile="Img\20.png"/>
+		</MarkerCategory>
+		<MarkerCategory name="epingles" DisplayName="Pins" iconFile="Img\Epingle.png">
+			<MarkerCategory name="bleu" DisplayName="Blue" color="ff0000ff"/>
+			<MarkerCategory name="vert" DisplayName="Green" color="ff00ff00"/>
+			<MarkerCategory name="orange" DisplayName="Orange" color="ffff8000"/>
+			<MarkerCategory name="rouge" DisplayName="Red" color="ffff0000"/>
+			<MarkerCategory name="jaune" DisplayName="Yellow" color="ffffff00"/>
+		</MarkerCategory>
+		<MarkerCategory name="panneaux" DisplayName="Sign" fadeNear="2000" fadeFar="4000">
+			<MarkerCategory name="chacal" DisplayName="" iconFile="Img\PanneauChacal.png" heightOffset="0"/>
+			<MarkerCategory name="raptor" DisplayName="" iconFile="Img\PanneauRaptor.png" heightOffset="0"/>
+			<MarkerCategory name="raie" DisplayName="" iconFile="Img\PanneauRaie.png" heightOffset="0"/>
+			<MarkerCategory name="frappesol" DisplayName="" iconFile="Img\PanneauFrappesol.png" heightOffset="0"/>
+			<MarkerCategory name="chacalniv3" DisplayName="Acces with Jackal Lvl 3" iconFile="Img\PanneauChacalNiv3.png" heightOffset="0"/>
+			<MarkerCategory name="raptorniv3" DisplayName="Acces with Raptor Lvl 3" iconFile="Img\PanneauRaptorNiv3.png" heightOffset="0"/>
+			<MarkerCategory name="raieniv3" DisplayName="Acces with Skimmer Lvl 3" iconFile="Img\PanneauRaieNiv3.png" heightOffset="0"/>
+			<MarkerCategory name="frappesolniv3" DisplayName="Acces with Springer Lvl 3" iconFile="Img\PanneauFrappesolNiv3.png" heightOffset="0"/>
+			<MarkerCategory name="dangers" DisplayName="Danger" iconFile="Img\Danger.png"/>
+			<MarkerCategory name="mort" DisplayName="Death" iconFile="Img\Mort.png" color="ffff0000"/>
+			<MarkerCategory name="esquives" DisplayName="Dodge" iconFile="Img\DangerEsquive-EN.png"/>
+			<MarkerCategory name="double_esquives" DisplayName="Double Dodge" iconFile="Img\DangerDoubleEsquive-EN.png"/>
+			<MarkerCategory name="explosifs" DisplayName="Explosive" iconFile="Img\DangerExplosif.png"/>
+			<MarkerCategory name="sens_interdits" DisplayName="No Entry" iconFile="Img\SensInterdit.png"/>
+			<MarkerCategory name="chutes_de_pierres" DisplayName="Rockfall" iconFile="Img\DangerPierres.png"/>
+			<MarkerCategory name="glissants" DisplayName="Slippy" iconFile="Img\DangerGlissant.png"/>
+			<MarkerCategory name="piques" DisplayName="Spike" iconFile="Img\DangerPiques.png"/>
+			<MarkerCategory name="stop" DisplayName="Stop" iconFile="Img\Stop.png"/>
+			<MarkerCategory name="demi_tours" DisplayName="U Turn" iconFile="Img\DemiTour.png"/>
+			<MarkerCategory name="vents" DisplayName="Winds" iconFile="Img\DangerVent.png"/>
+		</MarkerCategory>
+	</MarkerCategory>
+
+	<!-- Allows you to reset the base marker if you have assigned a specific marker (do not delete) -->
+	<MarkerCategory name="defaut" DisplayName="Defaut Marker" iconFile="Img\DefautTMP.png"/>
+
+</OverlayData>

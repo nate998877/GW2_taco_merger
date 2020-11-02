@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+POIs: ReActif.9251
+Date: 2017/08/11
+-->
+<OverlayData>
+	<MarkerCategory name="heart_of_thorns.bassin_aurique">
+		<MarkerCategory name="le_poulet_d_or" DisplayName="The Golden Chicken" iconFile="Img\PouletOr.png" triggerRange="5">
+			<MarkerCategory name="guide" DisplayName="Guide" iconFile="Img\Guide.png" iconSize="0.75"/>
+			<MarkerCategory name="debut" DisplayName="Start" iconFile="Img\PouletOrDebut.png" iconSize="1.5"/>
+		</MarkerCategory>
+	</MarkerCategory>
+
+	<POIs>
+
+		<!-- Début -->
+		<POI MapID="1043" xpos="-88.2327" ypos="334.355" zpos="-5.01127" type="heart_of_thorns.bassin_aurique.le_poulet_d_or.debut" GUID="GgL4tvzD6UOG4tZp6RbOfA=="/>
+
+		<!-- Route -->
+		<Route MapID="1043" name="Le_Poulet_d_Or.Guide" resetposx="-88.2327" resetposy="334.355" resetposz="-5.01127" resetrange="2">
+			<POI MapID="1043" xpos="-79.847" ypos="336.531" zpos="-11.4394" type="heart_of_thorns.bassin_aurique.le_poulet_d_or.guide" GUID="JqsacjqPTk+KegNGjlZ9DQ=="/>
+			<POI MapID="1043" xpos="-72.0222" ypos="336.696" zpos="-14.3647" type="heart_of_thorns.bassin_aurique.le_poulet_d_or.guide" GUID="MEktFNVNeE6KmjJKSUJBmg==" iconFile="Img\Deltaplane.png"/>
+			<POI MapID="1043" xpos="-68.111" ypos="332.573" zpos="-23.247" type="heart_of_thorns.bassin_aurique.le_poulet_d_or.guide" GUID="6Tgr5uGZU0SqMaz2Z2DjLw==" iconFile="Img\Deltaplane.png"/>
+			<POI MapID="1043" xpos="-75.6879" ypos="328.563" zpos="-29.9227" type="heart_of_thorns.bassin_aurique.le_poulet_d_or.guide" GUID="X/7InJwfuk6h/VND84nXqQ==" iconFile="Img\Deltaplane.png"/>
+			<POI MapID="1043" xpos="-90.2066" ypos="320.132" zpos="-31.8341" type="heart_of_thorns.bassin_aurique.le_poulet_d_or.guide" GUID="U+OlfWTJCUCpuJaIjgC9CA==" iconFile="Img\Deltaplane.png"/>
+			<POI MapID="1043" xpos="-90.5602" ypos="302.517" zpos="-32.1107" type="heart_of_thorns.bassin_aurique.le_poulet_d_or.guide" GUID="AtZ7jp+P4EeFFYkqKgMwow==" iconFile="Img\Deltaplane.png"/>
+			<POI MapID="1043" xpos="-90.6058" ypos="282.75" zpos="-32.1463" type="heart_of_thorns.bassin_aurique.le_poulet_d_or.guide" GUID="X9j0tM7PKku4PdGiJUuYPA==" iconFile="Img\Deltaplane.png"/>
+			<POI MapID="1043" xpos="-102.312" ypos="269.338" zpos="-35.724" type="heart_of_thorns.bassin_aurique.le_poulet_d_or.guide" GUID="2OlY8GeywkGWQ35Af3juPg==" iconFile="Img\Deltaplane.png"/>
+			<POI MapID="1043" xpos="-114.209" ypos="264.412" zpos="-40.551" type="heart_of_thorns.bassin_aurique.le_poulet_d_or.guide" GUID="qIrNSkKSWUCgPZ4AdoSa7w==" iconFile="Img\Deltaplane.png"/>
+			<POI MapID="1043" xpos="-129.747" ypos="257.883" zpos="-39.0617" type="heart_of_thorns.bassin_aurique.le_poulet_d_or.guide" GUID="GnoSqMw3Tkqnq9muojMRaA==" iconFile="Img\Deltaplane.png"/>
+			<POI MapID="1043" xpos="-130.118" ypos="248.293" zpos="-38.6571" type="heart_of_thorns.bassin_aurique.le_poulet_d_or.guide" GUID="8kxj7ohW9UyzMFmWaOrCAA==" iconFile="Img\Deltaplane.png"/>
+			<POI MapID="1043" xpos="-136.812" ypos="240.34" zpos="-29.6252" type="heart_of_thorns.bassin_aurique.le_poulet_d_or.guide" GUID="tUdQzDlxG06yh9vPWIyYEQ==" iconFile="Img\Deltaplane.png"/>
+			<POI MapID="1043" xpos="-142.285" ypos="234.665" zpos="-17.9826" type="heart_of_thorns.bassin_aurique.le_poulet_d_or.guide" GUID="B/pOJnABakGXWF+7BpnKCw==" iconFile="Img\Deltaplane.png"/>
+			<POI MapID="1043" xpos="-148.94" ypos="230.312" zpos="-9.2058" type="heart_of_thorns.bassin_aurique.le_poulet_d_or.guide" GUID="kwvUbIocw0yIZ0TJsgAzqA==" iconFile="Img\Deltaplane.png"/>
+		</Route>
+
+		<!-- Poulet d'Or -->
+		<POI MapID="1043" xpos="-164.672" ypos="220.604" zpos="-0.044988" type="heart_of_thorns.bassin_aurique.le_poulet_d_or" GUID="KBB9Qv6o/Uy29VmD2ztw3w=="/>
+
+	</POIs>
+</OverlayData>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+POIs: Cloud Strife.7492 - Xenophy.2716 - ReActif.9251
+Date: 2017/08/23
+-->
+<OverlayData>
+	<MarkerCategory name="general" DisplayName="General">
+		<MarkerCategory name="puzzles_de_saut" DisplayName="Jumping Puzzles" iconFile="Img\Guide.png" iconSize="0.75">
+			<MarkerCategory name="carriere_de_fonte_brute" DisplayName="Pig Iron Quarry" triggerRange="2"/>
+		</MarkerCategory>
+	</MarkerCategory>
+
+	<POIs>
+
+		<!-- Début -->
+		<POI MapID="22" xpos="307.06" ypos="0.222927" zpos="-521.776" type="general.puzzles_de_saut.debut" GUID="0N7xp1ZE2kS+Xl4y3pKvRw=="/>
+
+		<!-- Route -->
+		<Route MapID="22" name="Carriere_de_Fonte_Brute" resetposx="307.06" resetposy="0.222927" resetposz="-521.776" resetrange="2">
+			<POI MapID="22" xpos="311.326" ypos="2.34885" zpos="-522.466" type="general.puzzles_de_saut.carriere_de_fonte_brute" GUID="yUZgpuSH7kO0ly1p0rslXg=="/>
+			<POI MapID="22" xpos="312.197" ypos="5.04461" zpos="-530.082" type="general.puzzles_de_saut.carriere_de_fonte_brute" GUID="arrkbkECh0KpYRYKPkbKxA=="/>
+			<POI MapID="22" xpos="319.141" ypos="9.5607" zpos="-531.191" type="general.puzzles_de_saut.carriere_de_fonte_brute" GUID="+hGIOJ5V0ESHirKtlW1JAw=="/>
+			<POI MapID="22" xpos="318.381" ypos="12.381" zpos="-537.826" type="general.puzzles_de_saut.carriere_de_fonte_brute" GUID="CJf/2H2tCUKsslZd94UGQQ=="/>
+			<POI MapID="22" xpos="311.938" ypos="14.8134" zpos="-536.17" type="general.puzzles_de_saut.carriere_de_fonte_brute" GUID="iOYC9RCIyU+TZX81znoABw=="/>
+			<POI MapID="22" xpos="317.471" ypos="19.4397" zpos="-525.567" type="general.puzzles_de_saut.carriere_de_fonte_brute" GUID="f5NuN7TwAUKOtIrTusa/Qg=="/>
+			<POI MapID="22" xpos="324.333" ypos="21.9497" zpos="-526.607" type="general.puzzles_de_saut.carriere_de_fonte_brute" GUID="hRgyYl00BUGGDDQbVYSLLw=="/>
+			<POI MapID="22" xpos="322.382" ypos="24.5238" zpos="-533.327" type="general.puzzles_de_saut.carriere_de_fonte_brute" GUID="eYYeFmEufk2TdcPyknYSnw=="/>
+			<POI MapID="22" xpos="317.862" ypos="28.2331" zpos="-539.172" type="general.puzzles_de_saut.carriere_de_fonte_brute" GUID="hc10NcjM30SavEvaRuhMZg=="/>
+			<POI MapID="22" xpos="315.131" ypos="26.5429" zpos="-550.875" type="general.puzzles_de_saut.carriere_de_fonte_brute" GUID="qpj/8ZLN3Eiw/RYdPks2og=="/>
+			<POI MapID="22" xpos="313.907" ypos="25.2508" zpos="-558.927" type="general.puzzles_de_saut.carriere_de_fonte_brute" GUID="46m03xH25kqoqyGUJR1Wqg=="/>
+			<POI MapID="22" xpos="322.179" ypos="26.0294" zpos="-561.212" type="general.puzzles_de_saut.carriere_de_fonte_brute" GUID="PKU9sBSDxEuGYmFP9R0QSA=="/>
+			<POI MapID="22" xpos="323.465" ypos="28.6873" zpos="-553.341" type="general.puzzles_de_saut.carriere_de_fonte_brute" GUID="E9RorDjNdUO0u6es0Ep0Gg=="/>
+			<POI MapID="22" xpos="329.883" ypos="31.3387" zpos="-554.875" type="general.puzzles_de_saut.carriere_de_fonte_brute" GUID="WEVUgz0We0S99vE+AuXi3g=="/>
+			<POI MapID="22" xpos="328.235" ypos="33.9175" zpos="-561.763" type="general.puzzles_de_saut.carriere_de_fonte_brute" GUID="tAtUZHOTEEWRMdqbTtgmkw=="/>
+			<POI MapID="22" xpos="317.478" ypos="38.5354" zpos="-555.411" type="general.puzzles_de_saut.carriere_de_fonte_brute" GUID="zb5zYOvOYU6SYC4OALCxUg=="/>
+			<POI MapID="22" xpos="318.331" ypos="41.0538" zpos="-548.776" type="general.puzzles_de_saut.carriere_de_fonte_brute" GUID="SbwCaZLDAUSWACkroCOAqQ=="/>
+			<POI MapID="22" xpos="325.096" ypos="43.625" zpos="-550.742" type="general.puzzles_de_saut.carriere_de_fonte_brute" GUID="aH0xoEXP0EyhcZYyP32WHg=="/>
+			<POI MapID="22" xpos="332.907" ypos="48.0773" zpos="-555.633" type="general.puzzles_de_saut.carriere_de_fonte_brute" GUID="jcBJZb+xR0mRmnXHo4zlNA=="/>
+			<POI MapID="22" xpos="338.661" ypos="50.2792" zpos="-550.826" type="general.puzzles_de_saut.carriere_de_fonte_brute" GUID="VCW/hFO98UmmYh2a6VEhwA=="/>
+			<POI MapID="22" xpos="347.288" ypos="50.6005" zpos="-555.233" type="general.puzzles_de_saut.carriere_de_fonte_brute" GUID="q3SR0ehXl0yrIyLVRmAqXw=="/>
+			<POI MapID="22" xpos="341.585" ypos="51.3853" zpos="-560.812" type="general.puzzles_de_saut.carriere_de_fonte_brute" GUID="tAM6gxn3n0GGa73kKndRqQ=="/>
+			<POI MapID="22" xpos="338.284" ypos="49.243" zpos="-567.662" type="general.puzzles_de_saut.carriere_de_fonte_brute" GUID="Yfx+zCIimkOdJZfIuregAA=="/>
+			<POI MapID="22" xpos="331.104" ypos="48.9309" zpos="-565.712" type="general.puzzles_de_saut.carriere_de_fonte_brute" GUID="Zyd5csv2RUi38qsW9Aq5tg=="/>
+			<POI MapID="22" xpos="327.924" ypos="48.9412" zpos="-576.666" type="general.puzzles_de_saut.carriere_de_fonte_brute" GUID="cojA3+LfZ0W1OtKj9u0oYQ=="/>
+			<POI MapID="22" xpos="330.144" ypos="50.921" zpos="-580.14" type="general.puzzles_de_saut.carriere_de_fonte_brute" GUID="V8qanMcr0UyTseS6Nn8O7g=="/>
+			<POI MapID="22" xpos="330.354" ypos="52.2605" zpos="-585.033" type="general.puzzles_de_saut.carriere_de_fonte_brute" GUID="gB1oi1UL5kORqqkRHABfqA=="/>
+			<POI MapID="22" xpos="330.15" ypos="53.1311" zpos="-595.21" type="general.puzzles_de_saut.carriere_de_fonte_brute" GUID="nftZPBpUXUK5+YNkq4z9OA=="/>
+			<POI MapID="22" xpos="339.446" ypos="53.1366" zpos="-597.919" type="general.puzzles_de_saut.carriere_de_fonte_brute" GUID="epk041IkVU22h9xXrc6MAg=="/>
+			<POI MapID="22" xpos="342.793" ypos="54.2678" zpos="-595.67" type="general.puzzles_de_saut.carriere_de_fonte_brute" GUID="pxLyh58nvky0S0+JTXtteQ=="/>
+			<POI MapID="22" xpos="347.146" ypos="55.1029" zpos="-597.201" type="general.puzzles_de_saut.carriere_de_fonte_brute" GUID="INGD7AJJdEyOQ/pHJjrrcQ=="/>
+			<POI MapID="22" xpos="350.98" ypos="57.0653" zpos="-593.793" type="general.puzzles_de_saut.carriere_de_fonte_brute" GUID="rvUl79rb7ECm9lOkxa6lfA=="/>
+			<POI MapID="22" xpos="353.225" ypos="58.3902" zpos="-598.974" type="general.puzzles_de_saut.carriere_de_fonte_brute" GUID="lPdE+b80YEuW6H2Eq6xzfw=="/>
+			<POI MapID="22" xpos="358.6" ypos="59.1143" zpos="-599.354" type="general.puzzles_de_saut.carriere_de_fonte_brute" GUID="EaxfZerrf0+gcetCBfcdNg=="/>
+			<POI MapID="22" xpos="363.07" ypos="59.6458" zpos="-603.357" type="general.puzzles_de_saut.carriere_de_fonte_brute" GUID="OSxjexnSuU6aK2dStuAUHQ=="/>
+			<POI MapID="22" xpos="370.118" ypos="55.2127" zpos="-607.147" type="general.puzzles_de_saut.carriere_de_fonte_brute" GUID="9g94fi0hO0Wz4r5x7A0hwg=="/>
+			<POI MapID="22" xpos="378.975" ypos="50.1101" zpos="-610.851" type="general.puzzles_de_saut.carriere_de_fonte_brute" GUID="rOdT4NZ0nUGrqroGTAvjUg=="/>
+			<POI MapID="22" xpos="386.641" ypos="46.6342" zpos="-614.935" type="general.puzzles_de_saut.carriere_de_fonte_brute" GUID="E503MEhhOEi+ZEbm6+uIRg=="/>
+			<POI MapID="22" xpos="394.254" ypos="43.3649" zpos="-618.147" type="general.puzzles_de_saut.carriere_de_fonte_brute" GUID="U1d8isjEOE+d40H50VpHVA=="/>
+			<POI MapID="22" xpos="400.808" ypos="40.6273" zpos="-621.751" type="general.puzzles_de_saut.carriere_de_fonte_brute" GUID="OesZ5HwSS02E8vb5/VfiPg=="/>
+			<POI MapID="22" xpos="408.396" ypos="38.2172" zpos="-624.638" type="general.puzzles_de_saut.carriere_de_fonte_brute" GUID="WCkT6AOsg0KQFodgD/EgLA=="/>
+			<POI MapID="22" xpos="416.066" ypos="36.4283" zpos="-628.814" type="general.puzzles_de_saut.carriere_de_fonte_brute" GUID="ozGjCwVVnEi259qYaE3WqQ=="/>
+			<POI MapID="22" xpos="423.237" ypos="34.5875" zpos="-631.978" type="general.puzzles_de_saut.carriere_de_fonte_brute" GUID="NQocvEOUp0m4UUYfkBl4TQ=="/>
+			<POI MapID="22" xpos="430.242" ypos="33.4677" zpos="-635.744" type="general.puzzles_de_saut.carriere_de_fonte_brute" GUID="7puwQOzGQ0au0ZF8/SbzhA=="/>
+			<POI MapID="22" xpos="439.618" ypos="30.2139" zpos="-638.952" type="general.puzzles_de_saut.carriere_de_fonte_brute" GUID="cQ82mXcN+EeRYF0cPIlvJw=="/>
+			<POI MapID="22" xpos="447.773" ypos="25.7965" zpos="-639.083" type="general.puzzles_de_saut.carriere_de_fonte_brute" GUID="5xixRKD3o0yS4zBKO0hXag=="/>
+			<POI MapID="22" xpos="451.494" ypos="22.1077" zpos="-638.085" type="general.puzzles_de_saut.carriere_de_fonte_brute" GUID="m9I9DMXmQU6+AEu9yCEsnA=="/>
+			<POI MapID="22" xpos="456.954" ypos="24.5443" zpos="-633.536" type="general.puzzles_de_saut.carriere_de_fonte_brute" GUID="fPK4ayq3q0iwkJxTk1LzSw=="/>
+			<POI MapID="22" xpos="458.4" ypos="26.7658" zpos="-629.357" type="general.puzzles_de_saut.carriere_de_fonte_brute" GUID="/mvyYRDMpEq5CTlTIlvdVw=="/>
+			<POI MapID="22" xpos="464.393" ypos="29.2744" zpos="-632.556" type="general.puzzles_de_saut.carriere_de_fonte_brute" GUID="ly685DOA+0C+ascJFB+69g=="/>
+			<POI MapID="22" xpos="461.194" ypos="31.8648" zpos="-637.697" type="general.puzzles_de_saut.carriere_de_fonte_brute" GUID="fI26PxKXPUekf2r2SrnJ8g=="/>
+			<POI MapID="22" xpos="455.896" ypos="36.303" zpos="-644.995" type="general.puzzles_de_saut.carriere_de_fonte_brute" GUID="mXI4jcQ9eEyqjgdqXpeq+g=="/>
+			<POI MapID="22" xpos="457.128" ypos="36.787" zpos="-649.783" type="general.puzzles_de_saut.carriere_de_fonte_brute" GUID="CdbiXDONbkieoU/SenOx2g=="/>
+			<POI MapID="22" xpos="455.272" ypos="33.9113" zpos="-656.353" type="general.puzzles_de_saut.carriere_de_fonte_brute" GUID="/cXsp6S6dkiUhElAUkSmZA=="/>
+			<POI MapID="22" xpos="460.484" ypos="34.8405" zpos="-658.985" type="general.puzzles_de_saut.carriere_de_fonte_brute" GUID="+xYybd7Sq0enrUbfTbHTPA=="/>
+			<POI MapID="22" xpos="468.774" ypos="35.88" zpos="-663.116" type="general.puzzles_de_saut.carriere_de_fonte_brute" GUID="ljQV75ExCEyThgyFkkTD7g==" iconFile="Img\Combat.png" color="ffe52020"/>
+		</Route>
+
+		<!-- Coffre -->
+		<POI MapID="22" xpos="475.542" ypos="36.2506" zpos="-665.013" type="general.puzzles_de_saut.carriere_de_fonte_brute" GUID="r1Ynvi9SvkmDpB8Xxzr3aw==" iconFile="Img\CoffrePuzzle.png" iconSize="1" heightOffset="3" behavior="2"/>
+
+	</POIs>
+</OverlayData>

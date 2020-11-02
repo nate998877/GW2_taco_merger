@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+POIs: ReActif.9251
+Date: 2017/02/11
+-->
+<OverlayData>
+	<MarkerCategory name="chroniques.saison_3">
+		<MarkerCategory name="ep4_la_tete_du_serpent" DisplayName="Ep.4 - The Head of the Snake" iconFile="Img\LacDoric.png">
+			<MarkerCategory name="puits_d_abondance" DisplayName="Well Fare"/>
+		</MarkerCategory>
+	</MarkerCategory>
+
+	<POIs>
+
+		<!-- Arbre : Miel -->
+		<POI MapID="1185" xpos="315.76" ypos="79.97" zpos="-93.16" type="chroniques.saison_3.ep4_la_tete_du_serpent.puits_d_abondance" GUID="VlcbrLAI9Ua4O/7qppKThw==" iconFile="Img\Loupe.png"/>
+		<POI MapID="1185" xpos="315.76" ypos="82" zpos="-93.16" type="chroniques.saison_3.ep4_la_tete_du_serpent.puits_d_abondance" GUID="UYtnsdubvECFXYsk4HeSkw==" iconFile="Img\1.png" iconSize="1.5"/>
+
+		<!-- Puit -->
+		<POI MapID="1185" xpos="229.5" ypos="46.09" zpos="-333.53" type="chroniques.saison_3.ep4_la_tete_du_serpent.puits_d_abondance" GUID="PWMEU8prNUqKV/XmD0NR9w=="/>
+		<POI MapID="1185" xpos="229.5" ypos="48" zpos="-333.53" type="chroniques.saison_3.ep4_la_tete_du_serpent.puits_d_abondance" GUID="uLFrjHcayku/0sa6CALtNw==" iconFile="Img\2.png" iconSize="1.5"/>
+
+	</POIs>
+</OverlayData>

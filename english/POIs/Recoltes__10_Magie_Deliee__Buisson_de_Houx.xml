@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+POIs: ReActif.9251 - TMKFrench.6427
+Date: 2017/02/02
+-->
+<OverlayData>
+	<MarkerCategory name="recoltes" DisplayName="Harvest" fadeNear="10000" fadeFar="20000" behavior="6">
+		<MarkerCategory name="magie_deliee" DisplayName="Unbound Magic" iconFile="Img\MagieDeliee.png" triggerRange="3">
+			<MarkerCategory name="buisson_de_houx" DisplayName="Winterberry Bushes" iconFile="Img\HouxFrais.png"/>
+		</MarkerCategory>
+	</MarkerCategory>
+
+	<POIs>
+
+		<POI MapID="1178" xpos="-776.868" ypos="88.6486" zpos="69.3526" type="recoltes.magie_deliee.buisson_de_houx" GUID="QMN4rGdUYkaIgw8Qus7t/w=="/>
+		<POI MapID="1178" xpos="-747.509" ypos="102.579" zpos="263.433" type="recoltes.magie_deliee.buisson_de_houx" GUID="zILP8E33oUCnV94hMl4p/A=="/>
+		<POI MapID="1178" xpos="-715.689" ypos="67.102" zpos="171.076" type="recoltes.magie_deliee.buisson_de_houx" GUID="+nL3LoMFjE+06veU5pyErQ=="/>
+		<POI MapID="1178" xpos="-703.248" ypos="73.4853" zpos="229.432" type="recoltes.magie_deliee.buisson_de_houx" GUID="u9bLrLfrOECvOVShLy0Rjw=="/>
+		<POI MapID="1178" xpos="-552.338" ypos="70.4482" zpos="283.833" type="recoltes.magie_deliee.buisson_de_houx" GUID="YiVOcdZXBEqg2xcfU2ATcg=="/>
+		<POI MapID="1178" xpos="-576.681" ypos="40.5079" zpos="-22.4962" type="recoltes.magie_deliee.buisson_de_houx" GUID="DPw/ax3dCEK6aXszfdFwAg=="/>
+		<POI MapID="1178" xpos="-427.803" ypos="15.0329" zpos="-97.6261" type="recoltes.magie_deliee.buisson_de_houx" GUID="2wUCFzJK7kmEDMxYkhaZtw=="/>
+		<POI MapID="1178" xpos="-377.288" ypos="88.8575" zpos="331.457" type="recoltes.magie_deliee.buisson_de_houx" GUID="K8ocVSZLGUWeMFjJrgwK2w=="/>
+		<POI MapID="1178" xpos="-346.252" ypos="30.3934" zpos="-62.7106" type="recoltes.magie_deliee.buisson_de_houx" GUID="6/o7DTJ2eU2abUMzwrffdg=="/>
+		<POI MapID="1178" xpos="-343.209" ypos="32.7489" zpos="45.9213" type="recoltes.magie_deliee.buisson_de_houx" GUID="APtUYYKbnEuYxGud/ZpftQ=="/>
+		<POI MapID="1178" xpos="-308.341" ypos="49.025" zpos="210.655" type="recoltes.magie_deliee.buisson_de_houx" GUID="4kVL3Pmn40uXPyGUpqy4CQ=="/>
+		<POI MapID="1178" xpos="-299.395" ypos="34.8258" zpos="105.483" type="recoltes.magie_deliee.buisson_de_houx" GUID="vhFRm2+BhEaDIDU+NaVjIA=="/>
+		<POI MapID="1178" xpos="-270.878" ypos="74.873" zpos="303.557" type="recoltes.magie_deliee.buisson_de_houx" GUID="ffhwfD933UeckfyDJ20QyQ=="/>
+		<POI MapID="1178" xpos="-231.19" ypos="35.0731" zpos="169.615" type="recoltes.magie_deliee.buisson_de_houx" GUID="sSdDxRidiEGq7grDMAE7sA=="/>
+		<POI MapID="1178" xpos="-206.603" ypos="16.4684" zpos="58.0118" type="recoltes.magie_deliee.buisson_de_houx" GUID="Z8Ztbdz7eU6O9/yJEaEW8Q=="/>
+		<POI MapID="1178" xpos="-183.185" ypos="23.6547" zpos="162.851" type="recoltes.magie_deliee.buisson_de_houx" GUID="dpPcOFCXjkigUO9VMkM1sQ=="/>
+		<POI MapID="1178" xpos="-168.135" ypos="101.717" zpos="289.629" type="recoltes.magie_deliee.buisson_de_houx" GUID="ggRd+M8x6kOSQZZsO04vHA=="/>
+		<POI MapID="1178" xpos="-129.779" ypos="1.51435" zpos="123.415" type="recoltes.magie_deliee.buisson_de_houx" GUID="zfSGWaSmFUGqKhSsyYhlwA=="/>
+		<POI MapID="1178" xpos="64.5388" ypos="9.30694" zpos="-344.716" type="recoltes.magie_deliee.buisson_de_houx" GUID="C3y8L/zBdE+U2QhMISRcGA=="/>
+		<POI MapID="1178" xpos="247.844" ypos="34.5969" zpos="212.604" type="recoltes.magie_deliee.buisson_de_houx" GUID="9DPmFflMOE28jFgssWLM/w=="/>
+		<POI MapID="1178" xpos="566.114" ypos="1.89689" zpos="-29.4778" type="recoltes.magie_deliee.buisson_de_houx" GUID="n4YZuQIlf0OXti+xinZzzg=="/>
+
+	</POIs>
+</OverlayData>

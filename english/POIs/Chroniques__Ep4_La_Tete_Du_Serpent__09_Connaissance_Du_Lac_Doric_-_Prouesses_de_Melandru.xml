@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+POIs: ReActif.9251
+Date: 2017/08/11
+-->
+<OverlayData>
+	<MarkerCategory name="chroniques.saison_3">
+		<MarkerCategory name="ep4_la_tete_du_serpent" DisplayName="Ep.4 - The Head of the Snake" iconFile="Img\LacDoric.png">
+			<MarkerCategory name="connaissance_du_lac_doric__prouesses_de_melandru" DisplayName="Lake Doric Insight: Melandru's Flourish" iconFile="Img\Guide.png" iconSize="0.75" triggerRange="3" behavior="0">
+				<MarkerCategory name="acces" DisplayName="Guide" iconFile="Img\MaitriseHOT.png" iconSize="1.5" alpha="0.7"/>
+			</MarkerCategory>
+		</MarkerCategory>
+	</MarkerCategory>
+
+	<POIs>
+
+		<!-- Début -->
+		<POI MapID="1185" xpos="246.96" ypos="39.98" zpos="-450.68" type="chroniques.saison_3.ep4_la_tete_du_serpent.connaissance_du_lac_doric__prouesses_de_melandru.acces" GUID="oYAic7BZD0GRcVdp7MdXgw=="/>
+
+		<!-- Route -->
+		<Route MapID="1185" name="Prouesse_De_Melandru" resetposx="246.96" resetposy="39.98" resetposz="-450.68" resetrange="2">
+			<POI MapID="1185" xpos="255.611" ypos="38.0945" zpos="-452.032" type="chroniques.saison_3.ep4_la_tete_du_serpent.connaissance_du_lac_doric__prouesses_de_melandru" GUID="RBjtaTAdBUSWej2z8ngwbg=="/>
+			<POI MapID="1185" xpos="263.38"  ypos="41.5935" zpos="-452.135" type="chroniques.saison_3.ep4_la_tete_du_serpent.connaissance_du_lac_doric__prouesses_de_melandru" GUID="SOxBjSshikyI+Ugqnzc02Q=="/>
+			<POI MapID="1185" xpos="271.87"  ypos="44.78"   zpos="-451.76"  type="chroniques.saison_3.ep4_la_tete_du_serpent.connaissance_du_lac_doric__prouesses_de_melandru" GUID="GcSFgyuBw0ipIRiUb6jCiA=="/>
+			<POI MapID="1185" xpos="276.62"  ypos="46.61"   zpos="-453.94"  type="chroniques.saison_3.ep4_la_tete_du_serpent.connaissance_du_lac_doric__prouesses_de_melandru" GUID="vUl0/uESokqD45JJfaenwA=="/>
+			<POI MapID="1185" xpos="281.082" ypos="49.2495" zpos="-457.216" type="chroniques.saison_3.ep4_la_tete_du_serpent.connaissance_du_lac_doric__prouesses_de_melandru" GUID="P4/5z07sU0Cle6O/R3ja1Q=="/>
+			<POI MapID="1185" xpos="282.59"  ypos="51.33"   zpos="-462.19"  type="chroniques.saison_3.ep4_la_tete_du_serpent.connaissance_du_lac_doric__prouesses_de_melandru" GUID="9l940uffoUq0cK8cZDdV+w=="/>
+			<POI MapID="1185" xpos="279.353" ypos="52.4834" zpos="-467.434" type="chroniques.saison_3.ep4_la_tete_du_serpent.connaissance_du_lac_doric__prouesses_de_melandru" GUID="L4j9RUHZEku8y5ZgxnzXVw=="/>
+			<POI MapID="1185" xpos="273.22"  ypos="53.72"   zpos="-466.45"  type="chroniques.saison_3.ep4_la_tete_du_serpent.connaissance_du_lac_doric__prouesses_de_melandru" GUID="YZ3bd/T/xUuVWCDjfHth3g=="/>
+			<POI MapID="1185" xpos="270.879" ypos="55.6459" zpos="-463.049" type="chroniques.saison_3.ep4_la_tete_du_serpent.connaissance_du_lac_doric__prouesses_de_melandru" GUID="8xQv/kqSJkagUWjQFLtOkA=="/>
+			<POI MapID="1185" xpos="276.157" ypos="58.7834" zpos="-459.847" type="chroniques.saison_3.ep4_la_tete_du_serpent.connaissance_du_lac_doric__prouesses_de_melandru" GUID="CqjSUUrjqUanpaXhabPndQ=="/>
+			<POI MapID="1185" xpos="283.748" ypos="62.4914" zpos="-461.287" type="chroniques.saison_3.ep4_la_tete_du_serpent.connaissance_du_lac_doric__prouesses_de_melandru" GUID="eVWB1fMRRkGhLMDJVySkOg=="/>
+			<POI MapID="1185" xpos="291.624" ypos="63.6377" zpos="-460.2"   type="chroniques.saison_3.ep4_la_tete_du_serpent.connaissance_du_lac_doric__prouesses_de_melandru" GUID="ihOmFihtnUOJjoA4sOPfaA=="/>
+			<POI MapID="1185" xpos="299.267" ypos="64.6572" zpos="-456.751" type="chroniques.saison_3.ep4_la_tete_du_serpent.connaissance_du_lac_doric__prouesses_de_melandru" GUID="b+R4KA++gkCu9TXPis/Mqg=="/>
+			<POI MapID="1185" xpos="306.933" ypos="65.2171" zpos="-455.883" type="chroniques.saison_3.ep4_la_tete_du_serpent.connaissance_du_lac_doric__prouesses_de_melandru" GUID="VVb0jldTlEKcsFVjBmt2YA=="/>
+			<POI MapID="1185" xpos="312.008" ypos="65.2077" zpos="-463.087" type="chroniques.saison_3.ep4_la_tete_du_serpent.connaissance_du_lac_doric__prouesses_de_melandru" GUID="F7Ls1Isn/keAeC45JyQtcg=="/>
+			<POI MapID="1185" xpos="313.198" ypos="65.1837" zpos="-471.558" type="chroniques.saison_3.ep4_la_tete_du_serpent.connaissance_du_lac_doric__prouesses_de_melandru" GUID="XoOuq/BcrEGT33/Nogo6jw=="/>
+			<POI MapID="1185" xpos="317.078" ypos="65.929"  zpos="-479.917" type="chroniques.saison_3.ep4_la_tete_du_serpent.connaissance_du_lac_doric__prouesses_de_melandru" GUID="8GKURofvl0eVwWSgawCe0g=="/>
+			<POI MapID="1185" xpos="323.626" ypos="66.1221" zpos="-484.814" type="chroniques.saison_3.ep4_la_tete_du_serpent.connaissance_du_lac_doric__prouesses_de_melandru" GUID="o0osNVPl0kmA5ZKqYgpIWQ=="/>
+			<POI MapID="1185" xpos="329.261" ypos="66.3547" zpos="-486.442" type="chroniques.saison_3.ep4_la_tete_du_serpent.connaissance_du_lac_doric__prouesses_de_melandru" GUID="bNdUILyjakqPDAgx7DEgrw=="/>
+			<POI MapID="1185" xpos="347.68"  ypos="67.5341" zpos="-485.683" type="chroniques.saison_3.ep4_la_tete_du_serpent.connaissance_du_lac_doric__prouesses_de_melandru" GUID="qg/pfvprIEqODfah8PMuOQ=="/>
+			<POI MapID="1185" xpos="377.927" ypos="69.9764" zpos="-481.044" type="chroniques.saison_3.ep4_la_tete_du_serpent.connaissance_du_lac_doric__prouesses_de_melandru" GUID="1vyTan8dBU+ebAXO5B5SQw=="/>
+		</Route>
+
+	</POIs>
+</OverlayData>

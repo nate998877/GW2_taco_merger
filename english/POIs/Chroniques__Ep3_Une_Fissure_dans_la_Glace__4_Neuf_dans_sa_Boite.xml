@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+POIs: ReActif.9251
+Date: 2016/12/07
+-->
+<OverlayData>
+	<MarkerCategory name="chroniques.saison_3">
+		<MarkerCategory name="ep3_une_fissure_dans_la_glace" DisplayName="Ep.3 - A Crack in the Ice" iconFile="Img\ConfinsDeGivramer.png">
+			<MarkerCategory name="neuf_dans_sa_boite" DisplayName="New in Box"/>
+		</MarkerCategory>
+	</MarkerCategory>
+
+	<POIs>
+
+		<!-- Boite de Jouet -->
+		<POI MapID="1182" xpos="185.452" ypos="-9.74821" zpos="-3.50007" type="chroniques.saison_3.ep3_une_fissure_dans_la_glace.neuf_dans_sa_boite" GUID="mLvcpaIYmkG51r9Rw9pxTA=="/>
+
+	</POIs>
+</OverlayData>

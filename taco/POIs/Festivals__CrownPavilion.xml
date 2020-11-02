@@ -1,0 +1,15 @@
+<!-- 2020.06.09 -->
+<OverlayData>
+	<POIs>
+
+		<!-- OGRE OBLITERATOR -->
+		<POI MapID="929" xpos="26.3987" ypos="35.6102" zpos="-201.447" type="festivals.ogre_obliterator" GUID="VXnpVOUfPUCnOCW/TJtReg=="/>
+		<POI MapID="929" xpos="130.487" ypos="44.9572" zpos="134.572"  type="festivals.ogre_obliterator" GUID="JsNX97GCl0KKiw+uxZRG6A=="/>
+
+		<!-- PAVILION PURSUER -->
+		<Trail type="festivals.pavilion_pursuer" GUID="r5iXi55eo0WvmtDJZi2ebA==" trailData="Data/Festivals/CrownPavilion/PavilionPursuer.trl" texture="Data/Arrow.png" color="ff00ffff" alpha="0.8" fadeNear="2500" fadeFar="3000" animSpeed="0" mapDisplaySize="25"/>
+		<POI MapID="929" xpos="-0.541"  ypos="32.2554" zpos="-37.1676" type="festivals.pavilion_pursuer" GUID="j9D3cQEi6UqN2XgYlujM+Q==" heightOffset="0.5"/>
+		<POI MapID="929" xpos="26.4521" ypos="32.0457" zpos="-26.0593" type="festivals.pavilion_pursuer" GUID="TvXleK4uF0qOrEOQ1pZ7qQ==" iconFile="Img/Icons/FlagFinal.png" heightOffset="0.5" fadeNear="2500" fadeFar="3000" mapVisibility="0" miniMapVisibility="0"/>
+
+	</POIs>
+</OverlayData>

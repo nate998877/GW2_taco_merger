@@ -1,0 +1,32 @@
+<!-- 2020.05.30 -->
+<OverlayData>
+	<POIs>
+
+		<!-- HELPFUL HERO -->
+		<POI MapID="1316" xpos="3.25578"  ypos="339.079" zpos="75.4128"  type="side_stories.helpful_hero" GUID="yTtk2nKIR0avWxHtA7eTow==" iconFile="Img/Compass/NW.png"/>
+		<POI MapID="1316" xpos="64.491"   ypos="339.279" zpos="82.5479"  type="side_stories.helpful_hero" GUID="5r+QQ4s+REq4b18xSUH9JQ==" iconFile="Img/Compass/NE.png"/>
+		<POI MapID="1316" xpos="0.340894" ypos="338.894" zpos="12.1097"  type="side_stories.helpful_hero" GUID="0zUxn/lzu0K/9njnQIBBjg==" iconFile="Img/Compass/W.png"/>
+
+		<POI MapID="23"   xpos="512.879"  ypos="72.8796" zpos="-334.336" type="side_stories.helpful_hero" GUID="biHNqhlUck2xOIVRvwfjpA=="/>
+		<POI MapID="27"   xpos="-8.03151" ypos="97.6032" zpos="1118.46"  type="side_stories.helpful_hero" GUID="C8H5eGJDLkO0hpe5Sj51/A=="/>
+		<POI MapID="25"   xpos="-362.075" ypos="57.0515" zpos="-752.801" type="side_stories.helpful_hero" GUID="+/G8+NQkDUSolt4oklUCxw=="/>
+		<POI MapID="54"   xpos="498.873"  ypos="104.032" zpos="491.152"  type="side_stories.helpful_hero" GUID="bO5fYuw9zkeUEhTvJQOidA=="/>
+		<POI MapID="26"   xpos="-79.8292" ypos="75.4288" zpos="-699.099" type="side_stories.helpful_hero" GUID="VqV1m94G3kmEmeFin2qbdw=="/>
+		<POI MapID="32"   xpos="99.3499"  ypos="38.2692" zpos="-144.92"  type="side_stories.helpful_hero" GUID="ZykN4SoS80Cz3BszQx3rrw=="/>
+		<POI MapID="31"   xpos="174.468"  ypos="59.9799" zpos="-3.38446" type="side_stories.helpful_hero" GUID="H8daiQj+6kKxchDT4++VYg=="/>
+
+		<!-- LOST IN TRANSIT -->
+		<POI MapID="873" xpos="-515.551" ypos="58.5194"   zpos="-225.593" type="side_stories.lost_in_transit" GUID="LyaLrj7hTUqzXr5q/ss7Jg=="/>
+		<POI MapID="873" xpos="39.5017"  ypos="-0.511553" zpos="-144.091" type="side_stories.lost_in_transit" GUID="8KKMkvqcIUWCD9LCtR7hxA=="/>
+		<POI MapID="873" xpos="305.95"   ypos="-100.959"  zpos="-398.217" type="side_stories.lost_in_transit" GUID="E9u1Adl6gkClQ5a2ubQqWA=="/>
+		<POI MapID="873" xpos="313.257"  ypos="15.3526"   zpos="-72.729"  type="side_stories.lost_in_transit" GUID="O+q3CIJtrUGUWDRpvdny5g=="/>
+		<POI MapID="873" xpos="740.624"  ypos="-1.05664"  zpos="-373.508" type="side_stories.lost_in_transit" GUID="HGITDNitP0W6cC18jmUFIg=="/>
+
+		<!-- SURVEY ON SUBJECT OF IMPORTANCE -->
+		<POI MapID="873" xpos="596.027" ypos="27.0341" zpos="-272.159" type="side_stories.survey_on_subject_of_importance" GUID="WgVtRvk3sUeFDXCfaM0QOw==" heightOffset="3"/>
+
+		<!-- SURVEY ON SUBJECT OF IMPORTANCE 2 -->
+		<POI MapID="32" xpos="-164.348" ypos="32.464" zpos="-528.871" type="side_stories.survey_on_subject_of_importance_2" GUID="f0avVGz3JUaaNCd9iA7btw==" heightOffset="3"/>
+
+	</POIs>
+</OverlayData>

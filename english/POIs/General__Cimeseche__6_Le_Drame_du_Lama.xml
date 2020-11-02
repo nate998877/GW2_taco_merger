@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+POIs: ReActif.9251
+Date: 2017/03/13
+-->
+<OverlayData>
+	<MarkerCategory name="general" DisplayName="General">
+		<MarkerCategory name="cimeseche" DisplayName="Dry Top">
+			<MarkerCategory name="le_drame_du_lama" DisplayName="Llama Drama" iconFile="Img\CoffreSkritt.png" iconSize="1.5" heightOffset="3" behavior="0"/>
+		</MarkerCategory>
+	</MarkerCategory>
+
+	<POIs>
+
+		<POI MapID="988" xpos="395.26" ypos="17.8531" zpos="-265.853" type="general.cimeseche.le_drame_du_lama" GUID="BaG6t1HHNk6EDe0IDDmrbQ=="/>
+		<POI MapID="988" xpos="173.697" ypos="13.6172" zpos="-312.971" type="general.cimeseche.le_drame_du_lama" GUID="YESSuwq/NkGFkOjO7LEbEw=="/>
+		<POI MapID="988" xpos="128.67" ypos="28.784" zpos="-524.418" type="general.cimeseche.le_drame_du_lama" GUID="QvenPI3htUmagAJ1R2JpKA=="/>
+		<POI MapID="988" xpos="114.652" ypos="27.7989" zpos="-302.82" type="general.cimeseche.le_drame_du_lama" GUID="+Jm2si9djEim2t02IuMrpg=="/>
+		<POI MapID="988" xpos="29.5549" ypos="30.3602" zpos="-455.397" type="general.cimeseche.le_drame_du_lama" GUID="bN0y7t6gOkSbTw9Mq0ZJTw=="/><!-- Emplacement approximatif ! -->
+
+	</POIs>
+</OverlayData>

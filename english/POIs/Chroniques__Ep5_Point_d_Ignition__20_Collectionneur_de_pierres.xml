@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+POIs: TMKFrench.6427 - ReActif.9251
+Date: 2017/08/11
+-->
+<OverlayData>
+	<MarkerCategory name="chroniques.saison_3">
+		<MarkerCategory name="ep5_point_d_ignition" DisplayName="Ep.5 - Flashpoint" iconFile="Img\MontDraconis.png">
+			<MarkerCategory name="collectionneur_de_pierres" DisplayName="Rock Collector"/>
+		</MarkerCategory>
+	</MarkerCategory>
+
+	<POIs>
+
+		<!-- Débarcadère du marin -->
+
+		<!--  1  --><POI MapID="1195" xpos="-399.615" ypos="60.482"  zpos="-615.203" type="chroniques.saison_3.ep5_point_d_ignition.collectionneur_de_pierres" GUID="6Kcsf8L4bE+MVkI5etohMA=="/>
+		<!--  2  --><POI MapID="1195" xpos="-329.913" ypos="3.52954" zpos="-411.975" type="chroniques.saison_3.ep5_point_d_ignition.collectionneur_de_pierres" GUID="CdqIj3KvykSAn5dW1WvNKw=="/>
+		<!--  3  --><POI MapID="1195" xpos="-265.448" ypos="10.751"  zpos="-686.288" type="chroniques.saison_3.ep5_point_d_ignition.collectionneur_de_pierres" GUID="J8NizOccuEyDJWfoEu7f+Q==" triggerRange="5"/>
+		<!--  4  --><POI MapID="1195" xpos="10.1168"  ypos="74.8651" zpos="-744.472" type="chroniques.saison_3.ep5_point_d_ignition.collectionneur_de_pierres" GUID="tPd42ubAeEqtF1fMJl2y7g=="/>
+		<!--  5  --><POI MapID="1195" xpos="-352.51"  ypos="24.5205" zpos="-578.368" type="chroniques.saison_3.ep5_point_d_ignition.collectionneur_de_pierres" GUID="f+y81XTlL0iYzE8GLe9j0Q=="/>
+
+		<!-- Mer bouillonnante orientale -->
+
+		<!--  6  --><POI MapID="1195" xpos="-487.716" ypos="76.8543" zpos="-271.758" type="chroniques.saison_3.ep5_point_d_ignition.collectionneur_de_pierres" GUID="99nwU0mXBkeECOmMF0lelw=="/>
+		<!--  7  --><POI MapID="1195" xpos="-242.119" ypos="3.00911" zpos="-265.964" type="chroniques.saison_3.ep5_point_d_ignition.collectionneur_de_pierres" GUID="IFVFnWj2y02f6eJ2pd+sdw==" triggerRange="5"/>
+		<!--  8  --><POI MapID="1195" xpos="-163.686" ypos="35.3778" zpos="-48.2927" type="chroniques.saison_3.ep5_point_d_ignition.collectionneur_de_pierres" GUID="upss/s5e0USxBduAA02NdQ=="/>
+		<!--  9  --><POI MapID="1195" xpos="-460.698" ypos="11.5186" zpos="124.266"  type="chroniques.saison_3.ep5_point_d_ignition.collectionneur_de_pierres" GUID="NqeelIpbeUyiX/lVp+wAuw=="/>
+		<!--  10 --><POI MapID="1195" xpos="-309.517" ypos="8.43905" zpos="-15.8377" type="chroniques.saison_3.ep5_point_d_ignition.collectionneur_de_pierres" GUID="20jvJl4JWk+h2/rKSpFXxQ=="/>
+		<!--  11 --><POI MapID="1195" xpos="200.836"  ypos="51.2193" zpos="-49.5753" type="chroniques.saison_3.ep5_point_d_ignition.collectionneur_de_pierres" GUID="42kgsw359k6j2gyboHvpPg=="/>
+		<!--  12 --><POI MapID="1195" xpos="277.697"  ypos="66.9435" zpos="172.535"  type="chroniques.saison_3.ep5_point_d_ignition.collectionneur_de_pierres" GUID="80gvMAP8RkKeuW+Rqk9idg==" iconFile="Img\FlecheAvancer.png" iconSize="2"/>
+					<POI MapID="1195" xpos="385.823"  ypos="87.5664" zpos="178.776"  type="chroniques.saison_3.ep5_point_d_ignition.collectionneur_de_pierres" GUID="xJzyFbFsgU6n+TFhO8caUA=="/>
+
+		<!-- Cap sauvage -->
+
+		<!--  13 --><POI MapID="1195" xpos="384.455"  ypos="185.338" zpos="-839.708" type="chroniques.saison_3.ep5_point_d_ignition.collectionneur_de_pierres" GUID="81AjaBH0OUu/XSN3yBhiLQ==" iconFile="Img\FlecheAvancer.png" iconSize="2"/>
+					<POI MapID="1195" xpos="408.784"  ypos="193.289" zpos="-869.624" type="chroniques.saison_3.ep5_point_d_ignition.collectionneur_de_pierres" GUID="2HSrjyLqiUCpTlVaH44aYA==" iconFile="Img\PorteeDeCoeurDeChene.png"/>
+					<POI MapID="1195" xpos="421.491"  ypos="210.609" zpos="-835.557" type="chroniques.saison_3.ep5_point_d_ignition.collectionneur_de_pierres" GUID="Y51RApBrN0KxdVhMhLeOLw==" iconFile="Img\PorteeDeCoeurDeChene.png"/>
+					<POI MapID="1195" xpos="404.925"  ypos="212.058" zpos="-808.327" type="chroniques.saison_3.ep5_point_d_ignition.collectionneur_de_pierres" GUID="c1ej5jucTkuv+vQ1ynaWnQ=="/>
+		<!--  14 --><POI MapID="1195" xpos="629.027"  ypos="253.629" zpos="-289.971" type="chroniques.saison_3.ep5_point_d_ignition.collectionneur_de_pierres" GUID="CBhX8FXNVUyseCNmfcTVbA==" iconFile="Img\Fleche.png" iconSize="2"/>
+					<POI MapID="1195" xpos="621.972"  ypos="314.334" zpos="-258.337" type="chroniques.saison_3.ep5_point_d_ignition.collectionneur_de_pierres" GUID="EHT5WcxJ9UaHQokNEa+e1Q==" iconFile="Img\PorteeDeCoeurDeChene.png"/>
+					<POI MapID="1195" xpos="605.664"  ypos="312"     zpos="-251.957" type="chroniques.saison_3.ep5_point_d_ignition.collectionneur_de_pierres" GUID="kA1hE435bkSnpezQ9nHtBw==" triggerRange="10"/>
+		<!--  15 --><POI MapID="1195" xpos="-29.3325" ypos="163.251" zpos="-648.322" type="chroniques.saison_3.ep5_point_d_ignition.collectionneur_de_pierres" GUID="BB5VMwzZj0+wN/td8/11AA=="/>
+		<!--  16 --><POI MapID="1195" xpos="-210.819" ypos="106.74"  zpos="-743.008" type="chroniques.saison_3.ep5_point_d_ignition.collectionneur_de_pierres" GUID="fBFo0nEZAEW4BBX4b0y/dQ=="/>
+		<!--  17 --><POI MapID="1195" xpos="291.233"  ypos="193.769" zpos="-452.135" type="chroniques.saison_3.ep5_point_d_ignition.collectionneur_de_pierres" GUID="e7gDEz5n/Uu6ebg2YUYt8w=="/>
+		<!--  18 --><POI MapID="1195" xpos="312.792"  ypos="349.321" zpos="-319.193" type="chroniques.saison_3.ep5_point_d_ignition.collectionneur_de_pierres" GUID="A86UX85ISkyY7CHVKMncSg==" iconFile="Img\Fleche.png" iconSize="2"/>
+					<POI MapID="1195" xpos="331.819"  ypos="350.25"  zpos="-339.431" type="chroniques.saison_3.ep5_point_d_ignition.collectionneur_de_pierres" GUID="OuRUHZJRSEWao9L/0t6ABQ==" triggerRange="10"/>
+		<!--  19 --><POI MapID="1195" xpos="268.142"  ypos="187.08"  zpos="-560.636" type="chroniques.saison_3.ep5_point_d_ignition.collectionneur_de_pierres" GUID="7FOwmuPFLk26WmQ2S5MLZQ==" iconFile="Img\FlecheAvancer.png" iconSize="2"/>
+					<POI MapID="1195" xpos="272.68"   ypos="187.929" zpos="-540.1"   type="chroniques.saison_3.ep5_point_d_ignition.collectionneur_de_pierres" GUID="B7F5nBLh3ka4J8bk2mwUsw==" triggerRange="10"/>
+
+		<!-- Corniche des chevaucheurs de vent -->
+
+		<!--  20 --><POI MapID="1195" xpos="-224.004" ypos="417.11"  zpos="-288.847" type="chroniques.saison_3.ep5_point_d_ignition.collectionneur_de_pierres" GUID="5oO20ZXGhUanPshznuHCvg==" iconFile="Img\FlecheAvancer.png" iconSize="2"/>
+					<POI MapID="1195" xpos="-242.882" ypos="370.611" zpos="-304.882" type="chroniques.saison_3.ep5_point_d_ignition.collectionneur_de_pierres" GUID="BkOHJWFPwkqeo+/A7u44Vw==" iconFile="Img\Guide.png" iconSize="0.75" heightOffset="0"/>
+					<POI MapID="1195" xpos="-213.001" ypos="360.464" zpos="-363.124" type="chroniques.saison_3.ep5_point_d_ignition.collectionneur_de_pierres" GUID="MeXlNj3Z0UuQJUIhx1QTXA=="/>
+		<!--  21 --><POI MapID="1195" xpos="-460.66"  ypos="372"     zpos="-403.82" type="chroniques.saison_3.ep5_point_d_ignition.collectionneur_de_pierres" GUID="jidPqeiNVUW2qR9qAp7VEQ==" triggerRange="15"/>
+		<!--  22 --><POI MapID="1195" xpos="-463.797" ypos="394.422" zpos="-263.812" type="chroniques.saison_3.ep5_point_d_ignition.collectionneur_de_pierres" GUID="VuVcNbolN0mbVRWGXiUjlQ==" triggerRange="5"/>
+		<!--  23 --><POI MapID="1195" xpos="-576.334" ypos="259.716" zpos="-82.7173" type="chroniques.saison_3.ep5_point_d_ignition.collectionneur_de_pierres" GUID="2LDZGlF340yq/c6BhwJYyw==" triggerRange="5"/>
+		<!--  24 --><POI MapID="1195" xpos="-378.742" ypos="168.06"  zpos="-477.352" type="chroniques.saison_3.ep5_point_d_ignition.collectionneur_de_pierres" GUID="0H26X3bF4kWjq6ohSKteLA==" triggerRange="15"/>
+		<!--  25 --><POI MapID="1195" xpos="-485.234" ypos="225.833" zpos="-225.477" type="chroniques.saison_3.ep5_point_d_ignition.collectionneur_de_pierres" GUID="Z1DiUKYETEujfZQ1hNXMTQ==" iconFile="Img\FlecheAvancer.png" iconSize="2"/>
+					<Route MapID="1195" name="25">
+						<POI MapID="1195" xpos="-510.358" ypos="218.399" zpos="-224.601" type="chroniques.saison_3.ep5_point_d_ignition.collectionneur_de_pierres" GUID="wCxb6E8yzUuf8+7oTu5FNQ==" iconFile="Img\Guide.png" iconSize="0.75" heightOffset="0"/>
+						<POI MapID="1195" xpos="-528.389" ypos="219.962" zpos="-225.05"  type="chroniques.saison_3.ep5_point_d_ignition.collectionneur_de_pierres" GUID="Lbf2bpfJ3keUdOHFjL4sWg==" iconFile="Img\Guide.png" iconSize="0.75" heightOffset="0"/>
+						<POI MapID="1195" xpos="-546.737" ypos="217.18"  zpos="-225.998" type="chroniques.saison_3.ep5_point_d_ignition.collectionneur_de_pierres" GUID="W/5Tz54Q90u5/kN/OMbBLA==" iconFile="Img\Guide.png" iconSize="0.75" heightOffset="0"/>
+						<POI MapID="1195" xpos="-561.479" ypos="218.146" zpos="-226.037" type="chroniques.saison_3.ep5_point_d_ignition.collectionneur_de_pierres" GUID="bzh8DbI0XEWQu8f7yDskSw==" iconFile="Img\Guide.png" iconSize="0.75" heightOffset="0"/>
+						<POI MapID="1195" xpos="-575.322" ypos="221.019" zpos="-225.565" type="chroniques.saison_3.ep5_point_d_ignition.collectionneur_de_pierres" GUID="AD5cDRAXAkW/rJxlUiSUVQ==" iconFile="Img\Guide.png" iconSize="0.75" heightOffset="0"/>
+					</Route>
+					<POI MapID="1195" xpos="-584.161" ypos="213.504" zpos="-224.169" type="chroniques.saison_3.ep5_point_d_ignition.collectionneur_de_pierres" GUID="EbYiMNWGakSWDT+U+aNMng=="/>
+
+		<!-- Grotte ancienne -->
+
+		<!--  26 --><POI MapID="1195" xpos="-124.561" ypos="238.67"  zpos="79.0258"  type="chroniques.saison_3.ep5_point_d_ignition.collectionneur_de_pierres" GUID="vAgqziSooUuPfO/d8MQK6g=="/>
+		<!--  27 --><POI MapID="1195" xpos="92.7073"  ypos="229.641" zpos="257.254"  type="chroniques.saison_3.ep5_point_d_ignition.collectionneur_de_pierres" GUID="/VaiYvm0RE2r7sSyNynRvA=="/>
+		<!--  28 --><POI MapID="1195" xpos="105.392"  ypos="230.147" zpos="12.4482"  type="chroniques.saison_3.ep5_point_d_ignition.collectionneur_de_pierres" GUID="jbQxLwCF6kOmn4FhCOJqKg=="/>
+		<!--  29 --><POI MapID="1195" xpos="-170.75"  ypos="247.356" zpos="-54.4779" type="chroniques.saison_3.ep5_point_d_ignition.collectionneur_de_pierres" GUID="NB5/h3tM4EyXVKjPeO4bgg=="/>
+
+		<!-- Gorges du titan -->
+
+		<!--  30 --><POI MapID="1195" xpos="132.357" ypos="464.744" zpos="-328.152" type="chroniques.saison_3.ep5_point_d_ignition.collectionneur_de_pierres" GUID="Y1RBPc3EoE6zIuFdSFD+6g==" iconFile="Img\FlecheAvancer.png" iconSize="2"/>
+					<POI MapID="1195" xpos="89.6322" ypos="467.439" zpos="-322.959" type="chroniques.saison_3.ep5_point_d_ignition.collectionneur_de_pierres" GUID="PU5m/BkzVEu3kzIX04WHyg=="/>
+		<!--  31 --><POI MapID="1195" xpos="56.6542" ypos="480.592" zpos="-278.356" type="chroniques.saison_3.ep5_point_d_ignition.collectionneur_de_pierres" GUID="7pAYoE02n0CM9uZHBbceWw=="/>
+		<!--  32 --><POI MapID="1195" xpos="92.8858" ypos="444.941" zpos="-298.566" type="chroniques.saison_3.ep5_point_d_ignition.collectionneur_de_pierres" GUID="BY1lyEp5v0+gChcAgkn7Dw=="/>
+
+		<!-- Fort du païen -->
+
+		<!--  33 --><POI MapID="1195" xpos="154.777"  ypos="426.798" zpos="-205.685" type="chroniques.saison_3.ep5_point_d_ignition.collectionneur_de_pierres" GUID="Mm72jjS3h0iAxk9NU3Degg==" iconFile="Img\FlecheAvancer.png" iconSize="2"/>
+					<POI MapID="1195" xpos="170.535"  ypos="423.002" zpos="-211.058" type="chroniques.saison_3.ep5_point_d_ignition.collectionneur_de_pierres" GUID="zNx0A5+noUSk8AJf+KKv+Q==" iconFile="Img\Guide.png" iconSize="0.75" heightOffset="0"/>
+					<POI MapID="1195" xpos="186.326"  ypos="419.326" zpos="-207.33"  type="chroniques.saison_3.ep5_point_d_ignition.collectionneur_de_pierres" GUID="p8MYlsAvkUycodwHpID1KA==" iconFile="Img\Guide.png" iconSize="0.75" heightOffset="0"/>
+					<POI MapID="1195" xpos="191.945"  ypos="415.092" zpos="-193.878" type="chroniques.saison_3.ep5_point_d_ignition.collectionneur_de_pierres" GUID="kXaGHkqudUqHvqu4WeIvzw=="/>
+		<!--  34 --><POI MapID="1195" xpos="441.134"  ypos="548.661" zpos="-94.5188" type="chroniques.saison_3.ep5_point_d_ignition.collectionneur_de_pierres" GUID="YdcS3RRCeUGPvYIIqQawUw=="/>
+		<!--  35 --><POI MapID="1195" xpos="164.762"  ypos="657.507" zpos="69.3889"  type="chroniques.saison_3.ep5_point_d_ignition.collectionneur_de_pierres" GUID="ZGRwcNtt0kCyWvGPstp3og==" triggerRange="5"/>
+		<!--  36 --><POI MapID="1195" xpos="288.135"  ypos="410.24"  zpos="35.8282"  type="chroniques.saison_3.ep5_point_d_ignition.collectionneur_de_pierres" GUID="i4nLdmsXJECbj6sRDl1+YQ=="/>
+		<!--  37 --><POI MapID="1195" xpos="-23.8537" ypos="513.885" zpos="194.366"  type="chroniques.saison_3.ep5_point_d_ignition.collectionneur_de_pierres" GUID="0mqEyzVpk02Lq84P9Xn6qA==" iconFile="Img\FlecheAvancer.png" iconSize="2"/>
+					<POI MapID="1195" xpos="-16.3003" ypos="500.931" zpos="226.624"  type="chroniques.saison_3.ep5_point_d_ignition.collectionneur_de_pierres" GUID="8P+j43S2n0eQIO8NWIE7tg=="/>
+		<!--  38 --><POI MapID="1195" xpos="239.91"   ypos="574.69"  zpos="140.51"   type="chroniques.saison_3.ep5_point_d_ignition.collectionneur_de_pierres" GUID="J/zRoyJ19kK2DRyxn2M68g=="/>
+		<!--  39 --><POI MapID="1195" xpos="58.1964"  ypos="654.292" zpos="120.331"  type="chroniques.saison_3.ep5_point_d_ignition.collectionneur_de_pierres" GUID="vHvtBGGafEGGQoZ6uCXcNg==" iconFile="Img\FlecheAvancer.png" iconSize="2"/>
+					<POI MapID="1195" xpos="64.2602"  ypos="654.015" zpos="145.093"  type="chroniques.saison_3.ep5_point_d_ignition.collectionneur_de_pierres" GUID="TloWXuUd80uYHZVufaOBZA=="/>
+		<!--  40 --><POI MapID="1195" xpos="175.998"  ypos="419.35"  zpos="-35.1488" type="chroniques.saison_3.ep5_point_d_ignition.collectionneur_de_pierres" GUID="wuMx+WxXo0eYD/P8N5P6lA=="/>
+		<!--  41 --><POI MapID="1195" xpos="230.316"  ypos="450.838" zpos="-186.607" type="chroniques.saison_3.ep5_point_d_ignition.collectionneur_de_pierres" GUID="/+9RwZJRCUycAgqwC6YhNw=="/>
+
+		<!-- Gorge brûlante -->
+
+		<!--  42 --><POI MapID="1195" xpos="14.4944"  ypos="624.073" zpos="93.5465"  type="chroniques.saison_3.ep5_point_d_ignition.collectionneur_de_pierres" GUID="IEjJWHrKG0WCaKafX4ekjQ=="/>
+		<!--  43 --><POI MapID="1195" xpos="-213.014" ypos="625.179" zpos="97.748"   type="chroniques.saison_3.ep5_point_d_ignition.collectionneur_de_pierres" GUID="KhNh7UfGfEqm0oC4OaOPHA=="/>
+		<!--  44 --><POI MapID="1195" xpos="-163.616" ypos="591.286" zpos="177.208"  type="chroniques.saison_3.ep5_point_d_ignition.collectionneur_de_pierres" GUID="UoNDtwMrTUW5Tr/LD1LMPQ=="/>
+		<!--  45 --><POI MapID="1195" xpos="61.1517"  ypos="431.804" zpos="-125.839" type="chroniques.saison_3.ep5_point_d_ignition.collectionneur_de_pierres" GUID="fLLoIm63IEu8V4LArzlq2Q=="/>
+		<!--  46 --><POI MapID="1195" xpos="41.6847"  ypos="387.973" zpos="-46.2525" type="chroniques.saison_3.ep5_point_d_ignition.collectionneur_de_pierres" GUID="+F2NYe2zMEmLRaZaAX3Pyg==" iconFile="Img\FlecheAvancer.png" iconSize="2"/>
+					<POI MapID="1195" xpos="42.5779"  ypos="388.337" zpos="-27.0248" type="chroniques.saison_3.ep5_point_d_ignition.collectionneur_de_pierres" GUID="vZgOWS4+v0m3pgTXUJs4IQ=="/>
+		<!--  47 --><POI MapID="1195" xpos="-56.1302" ypos="457.653" zpos="-37.7039" type="chroniques.saison_3.ep5_point_d_ignition.collectionneur_de_pierres" GUID="Ep52d/N67kKd9dMN/oVrdw==" triggerRange="15"/>
+		<!--  48 --><POI MapID="1195" xpos="-122.275" ypos="497.866" zpos="241.529"  type="chroniques.saison_3.ep5_point_d_ignition.collectionneur_de_pierres" GUID="kE+7Zv1A2EOmTzUuBf9O6A=="/>
+
+		<!-- Rata Arcanum -->
+
+		<!--  49 --><POI MapID="1195" xpos="-291.711" ypos="540.041" zpos="-32.9174" type="chroniques.saison_3.ep5_point_d_ignition.collectionneur_de_pierres" GUID="K02bQQNjikqAd1/A1VaVfQ==" iconFile="Img\FlecheAvancer.png" iconSize="2"/>
+					<Route MapID="1195" name="49">
+						<POI MapID="1195" xpos="-308.388" ypos="542.204" zpos="-22.6424" type="chroniques.saison_3.ep5_point_d_ignition.collectionneur_de_pierres" GUID="FRsfgcnWfUmcmUZdVMwT7g==" iconFile="Img\Guide.png" iconSize="0.75" heightOffset="0"/>
+						<POI MapID="1195" xpos="-323.448" ypos="547.284" zpos="-7.84738" type="chroniques.saison_3.ep5_point_d_ignition.collectionneur_de_pierres" GUID="/oYBKNGBvEatBG+fs/nOfg==" iconFile="Img\Guide.png" iconSize="0.75" heightOffset="0"/>
+						<POI MapID="1195" xpos="-338.498" ypos="547.08"  zpos="10.7051"  type="chroniques.saison_3.ep5_point_d_ignition.collectionneur_de_pierres" GUID="eA1I8AbIOkajmXZE47T2yA==" iconFile="Img\Guide.png" iconSize="0.75" heightOffset="0"/>
+						<POI MapID="1195" xpos="-371.358" ypos="542.314" zpos="15.0903"  type="chroniques.saison_3.ep5_point_d_ignition.collectionneur_de_pierres" GUID="MyC39wgPcUCL213tw52cow==" iconFile="Img\Guide.png" iconSize="0.75" heightOffset="0"/>
+					</Route>
+					<POI MapID="1195" xpos="-382.014" ypos="530.08"  zpos="7.85493"  type="chroniques.saison_3.ep5_point_d_ignition.collectionneur_de_pierres" GUID="fvh0lUJ/yUKBLBukke1SnQ==" triggerRange="5"/>
+		<!--  50 --><POI MapID="1195" xpos="-186.77"  ypos="417.582" zpos="-252.49"  type="chroniques.saison_3.ep5_point_d_ignition.collectionneur_de_pierres" GUID="DdUKnBkFtk+N6ZmZ5dxQCA=="/>
+		<!--  51 --><POI MapID="1195" xpos="-288.136" ypos="464.302" zpos="-387.376" type="chroniques.saison_3.ep5_point_d_ignition.collectionneur_de_pierres" GUID="HICLtOmz9UKi9uu/QVf0/Q==" triggerRange="5"/>
+		<!--  52 --><POI MapID="1195" xpos="-448.654" ypos="449.514" zpos="-287.205" type="chroniques.saison_3.ep5_point_d_ignition.collectionneur_de_pierres" GUID="TAETeMBoh0i84tuG5cIwDQ=="/>
+		<!--  53 --><POI MapID="1195" xpos="-419.586" ypos="469.33"  zpos="-379.69"  type="chroniques.saison_3.ep5_point_d_ignition.collectionneur_de_pierres" GUID="tHWfF6sIf06vEkun+Q3WBQ=="/>
+		<!--  54 --><POI MapID="1195" xpos="-437.522" ypos="526.361" zpos="-81.5271" type="chroniques.saison_3.ep5_point_d_ignition.collectionneur_de_pierres" GUID="Ed+IFYBwxkyM1HIsnMZCEg==" iconFile="Img\FlecheAvancer.png" iconSize="2"/>
+					<Route MapID="1195" name="54">
+						<POI MapID="1195" xpos="-462.37"  ypos="551.333" zpos="-77.8949" type="chroniques.saison_3.ep5_point_d_ignition.collectionneur_de_pierres" GUID="r663YLm2uEifcf8wMrygEg==" iconFile="Img\Guide.png" iconSize="0.75" heightOffset="0"/>
+						<POI MapID="1195" xpos="-473.039" ypos="561.287" zpos="-73.8632" type="chroniques.saison_3.ep5_point_d_ignition.collectionneur_de_pierres" GUID="qv+pA8G8q0+dE3i18a1cjQ==" iconFile="Img\Guide.png" iconSize="0.75" heightOffset="0"/>
+					</Route>
+					<POI MapID="1195" xpos="-496.255" ypos="559.68"  zpos="-46.9785" type="chroniques.saison_3.ep5_point_d_ignition.collectionneur_de_pierres" GUID="QFjNVwBOgkaKjYc46vmEEQ==" triggerRange="5"/>
+		<!--  55 --><POI MapID="1195" xpos="-366.327" ypos="448.685" zpos="-191.305" type="chroniques.saison_3.ep5_point_d_ignition.collectionneur_de_pierres" GUID="sNpbnp8G3k+RhUDhlnSERA=="/>
+		<!--  56 --><POI MapID="1195" xpos="-515.032" ypos="459.725" zpos="-310.071" type="chroniques.saison_3.ep5_point_d_ignition.collectionneur_de_pierres" GUID="pA0t+39h5kCTiU60VzGYng==" iconFile="Img\FlecheAvancer.png" iconSize="2"/>
+					<Route MapID="1195" name="56">
+						<POI MapID="1195" xpos="-518.778" ypos="460.262" zpos="-330.393" type="chroniques.saison_3.ep5_point_d_ignition.collectionneur_de_pierres" GUID="qYmA99EfS06zd9cmYImbjA==" iconFile="Img\Guide.png" iconSize="0.75" heightOffset="0"/>
+						<POI MapID="1195" xpos="-531.31"  ypos="466.847" zpos="-333.956" type="chroniques.saison_3.ep5_point_d_ignition.collectionneur_de_pierres" GUID="Gm+YLFW7GEOzoDhdmLGRIg==" iconFile="Img\Guide.png" iconSize="0.75" heightOffset="0"/>
+						<POI MapID="1195" xpos="-542.275" ypos="472.848" zpos="-329.683" type="chroniques.saison_3.ep5_point_d_ignition.collectionneur_de_pierres" GUID="Ijddr87hZEmfp3f/sh/61w==" iconFile="Img\Guide.png" iconSize="0.75" heightOffset="0"/>
+					</Route>
+					<POI MapID="1195" xpos="-546.076" ypos="473.811" zpos="-321.164" type="chroniques.saison_3.ep5_point_d_ignition.collectionneur_de_pierres" GUID="/BAH/IhEy0KQnwvuj3Ea+w=="/>
+
+		<!-- Tombeau du golemancien -->
+
+		<!--  57 --><POI MapID="1195" xpos="-148.054" ypos="382.398" zpos="-655.205" type="chroniques.saison_3.ep5_point_d_ignition.collectionneur_de_pierres" GUID="xST+X6X40k+q5YfF68i5Ug==" iconFile="Img\FlecheAvancer.png" iconSize="2"/>
+					<Route MapID="1195" name="57">
+						<POI MapID="1195" xpos="-164.139" ypos="386.463" zpos="-649.509" type="chroniques.saison_3.ep5_point_d_ignition.collectionneur_de_pierres" GUID="7/U+24SuQkymkS+rivJBTw==" iconFile="Img\Guide.png" iconSize="0.75" heightOffset="0"/>
+						<POI MapID="1195" xpos="-175.775" ypos="399.568" zpos="-641.95"  type="chroniques.saison_3.ep5_point_d_ignition.collectionneur_de_pierres" GUID="bHSvXwcbbEKez9nyVPVyTQ==" iconFile="Img\Guide.png" iconSize="0.75" heightOffset="0"/>
+					</Route>
+					<POI MapID="1195" xpos="-161.958" ypos="401.325" zpos="-643.863" type="chroniques.saison_3.ep5_point_d_ignition.collectionneur_de_pierres" GUID="M8djYFAC20mHnwOg+XfUhA=="/>
+		<!--  58 --><POI MapID="1195" xpos="-140.416" ypos="446.815" zpos="-734.133" type="chroniques.saison_3.ep5_point_d_ignition.collectionneur_de_pierres" GUID="rknYzYFeDUuS+sUW5BsdLw=="/>
+		<!--  59 --><POI MapID="1195" xpos="-227.116" ypos="293.937" zpos="-681.568" type="chroniques.saison_3.ep5_point_d_ignition.collectionneur_de_pierres" GUID="zOm4CLiLMkiBq3mXO3W1mQ=="/>
+		<!--  60 --><POI MapID="1195" xpos="-239.184" ypos="437.866" zpos="-626.322" type="chroniques.saison_3.ep5_point_d_ignition.collectionneur_de_pierres" GUID="rLAm15rs1k+qov8wX6hFTg=="/>
+
+	</POIs>
+</OverlayData>

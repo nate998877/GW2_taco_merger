@@ -1,0 +1,14 @@
+<!-- 2020.05.28 -->
+<OverlayData>
+	<POIs>
+
+		<!-- LET US FINISH WHAT YOU STARTED -->
+		<Trail type="general.drakkar.let_us_finish_what_you_started" GUID="4AuO3zByik2bEatzZiFbng==" trailData="Data/General/Drakkar/LetUsFinishWhatAtYouStarted.trl" texture="Data/SemiLine.png" color="ff00ffff" alpha="0.8" fadeNear="1500" fadeFar="2000" animSpeed="1" mapDisplaySize="18"/>
+		<POI MapID="1343" xpos="-224.306" ypos="164.769" zpos="202.514"  type="general.drakkar.let_us_finish_what_you_started" GUID="Ksmcp7b4rk2ewdA9wUJFlQ=="/>
+		<POI MapID="1343" xpos="-556.306" ypos="91.1021" zpos="117.658"  type="general.drakkar.let_us_finish_what_you_started" GUID="5mFIKvMwoUqI/0VuYzAFmg==" iconFile="Img/Icons/EventSwords.png" fadeNear="2000" fadeFar="4000"/>
+		<POI MapID="1343" xpos="-767.321" ypos="44.3166" zpos="53.5589"  type="general.drakkar.let_us_finish_what_you_started" GUID="RzMhg5b3702BAhBGrb1yMg==" iconFile="Img/Icons/EventSwords.png" fadeNear="2000" fadeFar="4000"/>
+		<POI MapID="1343" xpos="-914.297" ypos="27.2884" zpos="99.2205"  type="general.drakkar.let_us_finish_what_you_started" GUID="+7bXSwPZIkq2v2Yz0znVZw==" iconFile="Img/Icons/EventSwords.png" fadeNear="2000" fadeFar="4000"/>
+		<POI MapID="1343" xpos="-929.225" ypos="82.8962" zpos="-44.1362" type="general.drakkar.let_us_finish_what_you_started" GUID="pniBKo+bSUuRKZFlnsl/IA==" iconFile="Img/Icons/Destination.png" fadeNear="1500" fadeFar="3000"/>
+
+	</POIs>
+</OverlayData>

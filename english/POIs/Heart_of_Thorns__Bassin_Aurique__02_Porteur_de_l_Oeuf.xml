@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+POIs: ReActif.9251
+Date: 2017/08/11
+-->
+<OverlayData>
+	<MarkerCategory name="heart_of_thorns.bassin_aurique">
+		<MarkerCategory name="porteur_de_l_oeuf" DisplayName="Egg Bearer" iconFile="Img\Guide.png" iconSize="0.75" behavior="0">
+			<MarkerCategory name="debut" DisplayName="Start" iconFile="Img\PuzzleDebut.png" iconSize="1.5"/>
+		</MarkerCategory>
+	</MarkerCategory>
+
+	<POIs>
+
+		<!-- Début -->
+		<POI MapID="1043" xpos="138.17" ypos="4.14983" zpos="-299.091" type="heart_of_thorns.bassin_aurique.porteur_de_l_oeuf.debut" GUID="xlica4j1GE21OmR52xjegw=="/>
+
+		<!-- Route (sans l'utilisation des pouvoirs de l'aventure) -->
+		<Route MapID="1043" name="Porteur_de_l_Oeuf" resetposx="138.17" resetposy="4.14983" resetposz="-299.091" resetrange="2">
+			<POI MapID="1043" xpos="140.921" ypos="6.97466" zpos="-315.961" type="heart_of_thorns.bassin_aurique.porteur_de_l_oeuf" GUID="GuZyJ7V+AkWjzhSmiM+suQ=="/>
+			<POI MapID="1043" xpos="143.73" ypos="12.3933" zpos="-326.396" type="heart_of_thorns.bassin_aurique.porteur_de_l_oeuf" GUID="S6sP+XrB4EOCezj85rhiJA=="/>
+			<POI MapID="1043" xpos="154.277" ypos="15.2928" zpos="-328.649" type="heart_of_thorns.bassin_aurique.porteur_de_l_oeuf" GUID="8EXlPPZC6USiEOlqlWmH3A=="/>
+			<POI MapID="1043" xpos="164.214" ypos="21.9695" zpos="-327.485" type="heart_of_thorns.bassin_aurique.porteur_de_l_oeuf" GUID="v9u5SL24R0CnIcoOse/OEw=="/>
+			<POI MapID="1043" xpos="176.517" ypos="27.6474" zpos="-325.337" type="heart_of_thorns.bassin_aurique.porteur_de_l_oeuf" GUID="b58cg9kK/0m/wITXa4uLeA=="/>
+			<POI MapID="1043" xpos="191.609" ypos="34.8217" zpos="-324.775" type="heart_of_thorns.bassin_aurique.porteur_de_l_oeuf" GUID="jmo1CJNwb0+TCF5xFCLVeg=="/>
+			<POI MapID="1043" xpos="205.669" ypos="31.819" zpos="-323.721" type="heart_of_thorns.bassin_aurique.porteur_de_l_oeuf" GUID="BkoQKowQoEu29mJbtz59qQ=="/>
+			<POI MapID="1043" xpos="216.352" ypos="37.2502" zpos="-320.528" type="heart_of_thorns.bassin_aurique.porteur_de_l_oeuf" GUID="YcuzB0Icek6dpy0SGboO7Q=="/>
+			<POI MapID="1043" xpos="230.157" ypos="40.6754" zpos="-320.059" type="heart_of_thorns.bassin_aurique.porteur_de_l_oeuf" GUID="YFareOQEzkSuul5IlSGCcw=="/>
+			<POI MapID="1043" xpos="241.007" ypos="40.8917" zpos="-325.821" type="heart_of_thorns.bassin_aurique.porteur_de_l_oeuf" GUID="6Q4LpRGNsU6UvLdhRatR0g=="/>
+			<POI MapID="1043" xpos="246.023" ypos="42.9032" zpos="-328.345" type="heart_of_thorns.bassin_aurique.porteur_de_l_oeuf" GUID="4pFBuyfxr0+73719xB7Ixg=="/>
+			<POI MapID="1043" xpos="248.619" ypos="43.7395" zpos="-328.567" type="heart_of_thorns.bassin_aurique.porteur_de_l_oeuf" GUID="GKoWHrkfw0ejImtHlSdp9w=="/>
+			<POI MapID="1043" xpos="250.41" ypos="44.8535" zpos="-332.583" type="heart_of_thorns.bassin_aurique.porteur_de_l_oeuf" GUID="VKneFilFWU+N3Ui1ZlYSKw=="/>
+			<POI MapID="1043" xpos="252.518" ypos="46.2575" zpos="-332.577" type="heart_of_thorns.bassin_aurique.porteur_de_l_oeuf" GUID="HFSAZhb29ECohPsDPiM6VA=="/>
+			<POI MapID="1043" xpos="253.48" ypos="48.2239" zpos="-334.721" type="heart_of_thorns.bassin_aurique.porteur_de_l_oeuf" GUID="GOrqbnCwdEWmxaOvetQ08Q=="/>
+			<POI MapID="1043" xpos="255.82" ypos="50.0378" zpos="-336.299" type="heart_of_thorns.bassin_aurique.porteur_de_l_oeuf" GUID="OfvZg5HNRUevDi+V6RV1fA=="/>
+			<POI MapID="1043" xpos="258.164" ypos="51.5772" zpos="-335.799" type="heart_of_thorns.bassin_aurique.porteur_de_l_oeuf" GUID="zp/Gy7+yrkOvzWXr8ag5nw=="/>
+			<POI MapID="1043" xpos="264.138" ypos="53.0601" zpos="-337.914" type="heart_of_thorns.bassin_aurique.porteur_de_l_oeuf" GUID="UuoWo1zODE2m0cYFDIJ8tA=="/>
+			<POI MapID="1043" xpos="269.412" ypos="53.0575" zpos="-338.407" type="heart_of_thorns.bassin_aurique.porteur_de_l_oeuf" GUID="yx8U8aW+FUq51eIaRA+8Jw==" iconFile="Img\DeltaplaneDepart-EN.png"/>
+			<POI MapID="1043" xpos="280.436" ypos="49.3441" zpos="-326.96" type="heart_of_thorns.bassin_aurique.porteur_de_l_oeuf" GUID="1rUPkr0/aU2OrzmoIm1fdQ==" iconFile="Img\DeltaplaneStop.png"/>
+			<POI MapID="1043" xpos="287.274" ypos="49.3982" zpos="-321.942" type="heart_of_thorns.bassin_aurique.porteur_de_l_oeuf" GUID="Pn126eWkr0ySLH6l6FW6Og=="/>
+			<POI MapID="1043" xpos="299.668" ypos="49.6053" zpos="-316.446" type="heart_of_thorns.bassin_aurique.porteur_de_l_oeuf" GUID="Jue+NKtQjUeXUUTxLx5iWA=="/>
+			<POI MapID="1043" xpos="306.511" ypos="49.6377" zpos="-311.159" type="heart_of_thorns.bassin_aurique.porteur_de_l_oeuf" GUID="nvPPtqSo+Uib+16yh/oWEA=="/>
+			<POI MapID="1043" xpos="303.583" ypos="49.4975" zpos="-306.526" type="heart_of_thorns.bassin_aurique.porteur_de_l_oeuf" GUID="jIe1r7NKm06W7PGJxu9kUA=="/>
+			<POI MapID="1043" xpos="307.929" ypos="50.8479" zpos="-302.162" type="heart_of_thorns.bassin_aurique.porteur_de_l_oeuf" GUID="kYKEFpgAa06HIgUN79bqKg=="/>
+			<POI MapID="1043" xpos="312.082" ypos="52.7573" zpos="-298.771" type="heart_of_thorns.bassin_aurique.porteur_de_l_oeuf" GUID="Fn1EeMKzY0O+HaWqxmGiIQ=="/>
+			<POI MapID="1043" xpos="314.96" ypos="55.4309" zpos="-296.8" type="heart_of_thorns.bassin_aurique.porteur_de_l_oeuf" GUID="dpH+WRR/2kCHAkh2TZwzaQ=="/>
+			<POI MapID="1043" xpos="316.529" ypos="57.8114" zpos="-294.593" type="heart_of_thorns.bassin_aurique.porteur_de_l_oeuf" GUID="wb8RHfAQWkyHVE9Jj7m/4A=="/>
+			<POI MapID="1043" xpos="317.342" ypos="59.01" zpos="-292.777" type="heart_of_thorns.bassin_aurique.porteur_de_l_oeuf" GUID="Fg7PP2/Sm0+roKGTWFM5hA=="/>
+			<POI MapID="1043" xpos="322.139" ypos="60.8032" zpos="-280.85" type="heart_of_thorns.bassin_aurique.porteur_de_l_oeuf" GUID="N/qmEzd5V0uPeiIMqNnGKQ==" iconFile="Img\Danger.png" iconSize="0.75"/>
+			<POI MapID="1043" xpos="326.678" ypos="59.8105" zpos="-276.86" type="heart_of_thorns.bassin_aurique.porteur_de_l_oeuf" GUID="l4gs+lSMqEKheNfgOVVt+g=="/>
+			<POI MapID="1043" xpos="329.718" ypos="61.5467" zpos="-275.099" type="heart_of_thorns.bassin_aurique.porteur_de_l_oeuf" GUID="Hn1twKsMUku8BdlTRsnfbQ=="/>
+			<POI MapID="1043" xpos="330.212" ypos="60.0495" zpos="-270.031" type="heart_of_thorns.bassin_aurique.porteur_de_l_oeuf" GUID="5ldRUmII20itev7RiduhCA==" iconFile="Img\Danger.png" iconSize="0.75"/>
+			<POI MapID="1043" xpos="327.86" ypos="59.8746" zpos="-262.01" type="heart_of_thorns.bassin_aurique.porteur_de_l_oeuf" GUID="gOa0xo48JU+xqX1xIbJo0g==" iconFile="Img\Danger.png" iconSize="0.75"/>
+			<POI MapID="1043" xpos="327.59" ypos="61.1813" zpos="-256.918" type="heart_of_thorns.bassin_aurique.porteur_de_l_oeuf" GUID="vXbdHzYEIE6eJmcC6p0qpg=="/>
+			<POI MapID="1043" xpos="327.912" ypos="61.9795" zpos="-244.594" type="heart_of_thorns.bassin_aurique.porteur_de_l_oeuf" GUID="A8DeR4iWvEG46OhQzstGQQ=="/>
+			<POI MapID="1043" xpos="328.544" ypos="61.9257" zpos="-233.964" type="heart_of_thorns.bassin_aurique.porteur_de_l_oeuf" GUID="/8NVuni7+keKeVLSD4gtVw==" iconFile="Img\DeltaplaneDepart-EN.png"/>
+			<POI MapID="1043" xpos="316.103" ypos="51.7008" zpos="-216.223" type="heart_of_thorns.bassin_aurique.porteur_de_l_oeuf" GUID="AfJYNduM4kCdMoeGf5BtuA==" iconFile="Img\DeltaplaneStop.png"/>
+			<POI MapID="1043" xpos="314.96" ypos="51.7123" zpos="-204" type="heart_of_thorns.bassin_aurique.porteur_de_l_oeuf" GUID="EZvhWd73I0OwMfkNAwrdaw=="/>
+			<POI MapID="1043" xpos="313.06" ypos="52.9673" zpos="-191.639" type="heart_of_thorns.bassin_aurique.porteur_de_l_oeuf" GUID="e2ZqeQdFHkCZrOsiaa97EQ=="/>
+			<POI MapID="1043" xpos="321.969" ypos="54.8651" zpos="-184.745" type="heart_of_thorns.bassin_aurique.porteur_de_l_oeuf" GUID="eZ0Ln2KGb0WVWXAuLJs8SA=="/>
+			<POI MapID="1043" xpos="323.86" ypos="56.922" zpos="-176.284" type="heart_of_thorns.bassin_aurique.porteur_de_l_oeuf" GUID="wm1aemIIvE2TVgcikRnhvA=="/>
+			<POI MapID="1043" xpos="317.671" ypos="59.3988" zpos="-171.912" type="heart_of_thorns.bassin_aurique.porteur_de_l_oeuf" GUID="S00iPNdR606kEtJh9ZZ8QQ=="/>
+			<POI MapID="1043" xpos="318.993" ypos="60.2609" zpos="-162.939" type="heart_of_thorns.bassin_aurique.porteur_de_l_oeuf" GUID="mJEyUFGv/0qBmOnP6mK8tA=="/>
+			<POI MapID="1043" xpos="309.423" ypos="59.9856" zpos="-155.481" type="heart_of_thorns.bassin_aurique.porteur_de_l_oeuf" GUID="IVbWnwESbk67gHSSmWvWXw==" iconFile="Img\Danger.png" iconSize="0.75"/>
+			<POI MapID="1043" xpos="304.42" ypos="59.4089" zpos="-151.243" type="heart_of_thorns.bassin_aurique.porteur_de_l_oeuf" GUID="8YDRNQgLkEmJ2/53MpVF3g=="/>
+			<POI MapID="1043" xpos="297.827" ypos="56.8996" zpos="-144.107" type="heart_of_thorns.bassin_aurique.porteur_de_l_oeuf" GUID="mPKNBeDjMUu2TVanK7ZqRA=="/>
+			<POI MapID="1043" xpos="291.119" ypos="57.3598" zpos="-140.578" type="heart_of_thorns.bassin_aurique.porteur_de_l_oeuf" GUID="Yc5DyiTZy0excPfVVVfRDw=="/>
+			<POI MapID="1043" xpos="285.543" ypos="57.212" zpos="-136.791" type="heart_of_thorns.bassin_aurique.porteur_de_l_oeuf" GUID="t54avcJc2kS9x3IIKmXb+w==" iconFile="Img\DeltaplaneDepart-EN.png"/>
+			<POI MapID="1043" xpos="269.518" ypos="50.5288" zpos="-115.155" type="heart_of_thorns.bassin_aurique.porteur_de_l_oeuf" GUID="ERT7KlWJskWi2HSfog1klg==" iconFile="Img\DeltaplaneStop.png"/>
+			<POI MapID="1043" xpos="266.315" ypos="50.9566" zpos="-114.642" type="heart_of_thorns.bassin_aurique.porteur_de_l_oeuf" GUID="JhadlFOVNkSbiF897XpgwA=="/>
+			<POI MapID="1043" xpos="263.059" ypos="52.6387" zpos="-115.091" type="heart_of_thorns.bassin_aurique.porteur_de_l_oeuf" GUID="z4vyIEdr3EiAT8TISH6VNQ=="/>
+			<POI MapID="1043" xpos="262.634" ypos="54.3156" zpos="-113.137" type="heart_of_thorns.bassin_aurique.porteur_de_l_oeuf" GUID="79mryd7jQEidcjxlWVTD5Q=="/>
+			<POI MapID="1043" xpos="259.839" ypos="56.3095" zpos="-113.129" type="heart_of_thorns.bassin_aurique.porteur_de_l_oeuf" GUID="g4eWgaE0FUyp3FNTrKNXUw=="/>
+			<POI MapID="1043" xpos="254.945" ypos="59.5455" zpos="-111.06" type="heart_of_thorns.bassin_aurique.porteur_de_l_oeuf" GUID="kbYxhzj6/kuBrfIs9FA7dw=="/>
+			<POI MapID="1043" xpos="244.244" ypos="58.9281" zpos="-108.018" type="heart_of_thorns.bassin_aurique.porteur_de_l_oeuf" GUID="zqsMxRJyV0+lGIjM6COF+w=="/>
+			<POI MapID="1043" xpos="231.217" ypos="58.9173" zpos="-109.375" type="heart_of_thorns.bassin_aurique.porteur_de_l_oeuf" GUID="pPHoCuAR2k++pSbbTpBPzQ==" iconFile="Img\DeltaplaneDepart-EN.png"/>
+			<POI MapID="1043" xpos="215.83" ypos="51.7008" zpos="-121.194" type="heart_of_thorns.bassin_aurique.porteur_de_l_oeuf" GUID="3epoAMzzeEaQL0K4GLk+Vg==" iconFile="Img\DeltaplaneStop.png"/>
+			<POI MapID="1043" xpos="202.985" ypos="51.7119" zpos="-122.286" type="heart_of_thorns.bassin_aurique.porteur_de_l_oeuf" GUID="jtm3vug5z0qrJu+Jz3MTkA=="/>
+			<POI MapID="1043" xpos="190.116" ypos="51.7121" zpos="-125.277" type="heart_of_thorns.bassin_aurique.porteur_de_l_oeuf" GUID="YtijnkuVUEW/d5BeKnY7Wg==" iconFile="Img\DeltaplaneDepart-EN.png"/>
+			<POI MapID="1043" xpos="177.649" ypos="49.3008" zpos="-117.562" type="heart_of_thorns.bassin_aurique.porteur_de_l_oeuf" GUID="r+9Ed5cQ/U6sBjTpNkKBeA==" iconFile="Img\DeltaplaneStop.png"/>
+			<POI MapID="1043" xpos="172.374" ypos="50.2163" zpos="-113.546" type="heart_of_thorns.bassin_aurique.porteur_de_l_oeuf" GUID="XOT3FF0OF0u97eiEZFWhdg=="/>
+			<POI MapID="1043" xpos="170.397" ypos="52.1476" zpos="-111.092" type="heart_of_thorns.bassin_aurique.porteur_de_l_oeuf" GUID="5ieDG61Zf0e0oo8Sg7Op0w=="/>
+			<POI MapID="1043" xpos="167.026" ypos="54.7863" zpos="-111.036" type="heart_of_thorns.bassin_aurique.porteur_de_l_oeuf" GUID="92CpGowEI0SsK/9GD+4+qQ=="/>
+			<POI MapID="1043" xpos="163.343" ypos="57.0213" zpos="-109.381" type="heart_of_thorns.bassin_aurique.porteur_de_l_oeuf" GUID="cRDBXBxZCk+xC9KEd7yrlw=="/>
+			<POI MapID="1043" xpos="159.609" ypos="58.663" zpos="-108.76" type="heart_of_thorns.bassin_aurique.porteur_de_l_oeuf" GUID="P+dJe3kNJEqst3j7cgKeuQ=="/>
+			<POI MapID="1043" xpos="151.894" ypos="59.2285" zpos="-115.134" type="heart_of_thorns.bassin_aurique.porteur_de_l_oeuf" GUID="PMa6ngU7mk2NlIlzvMi6aw=="/>
+			<POI MapID="1043" xpos="142.45" ypos="60.3787" zpos="-123.827" type="heart_of_thorns.bassin_aurique.porteur_de_l_oeuf" GUID="L9AMZSsEmUmJ6P06FQLvvQ==" iconFile="Img\Danger.png" iconSize="0.75"/>
+			<POI MapID="1043" xpos="135.743" ypos="63.56" zpos="-137.265" type="heart_of_thorns.bassin_aurique.porteur_de_l_oeuf" GUID="7dLh6o79Gka/OgaO2MJLrg=="/>
+			<POI MapID="1043" xpos="130.322" ypos="66.935" zpos="-148.232" type="heart_of_thorns.bassin_aurique.porteur_de_l_oeuf" GUID="9m3Hai44+ESc8VdJn98g4g=="/>
+			<POI MapID="1043" xpos="125.611" ypos="69.8252" zpos="-157.543" type="heart_of_thorns.bassin_aurique.porteur_de_l_oeuf" GUID="dK9dgpvRckSjISmC90xzlw=="/>
+			<POI MapID="1043" xpos="120.429" ypos="72.8634" zpos="-167.796" type="heart_of_thorns.bassin_aurique.porteur_de_l_oeuf" GUID="jXuV+to8ZUG6l/rE1EcZew=="/>
+			<POI MapID="1043" xpos="119.86" ypos="75.3886" zpos="-179.028" type="heart_of_thorns.bassin_aurique.porteur_de_l_oeuf" GUID="1WERLO8l1EmuJ3eIz9y3Og=="/>
+			<POI MapID="1043" xpos="115.315" ypos="77.9588" zpos="-188.017" type="heart_of_thorns.bassin_aurique.porteur_de_l_oeuf" GUID="nCDSAKoFukyDefrvyR3sqw=="/>
+			<POI MapID="1043" xpos="110.665" ypos="80.5115" zpos="-197.006" type="heart_of_thorns.bassin_aurique.porteur_de_l_oeuf" GUID="1N9kaofvZUO8iyLM8X7fWA==" iconFile="Img\DeltaplaneDepart-EN.png"/>
+			<POI MapID="1043" xpos="98.0692" ypos="70.2269" zpos="-236.008" type="heart_of_thorns.bassin_aurique.porteur_de_l_oeuf" GUID="Ub6WwJ5atk6sVk4jQ6XN3g==" iconFile="Img\DeltaplaneStop.png"/>
+			<POI MapID="1043" xpos="101.064" ypos="73.1" zpos="-247.599" type="heart_of_thorns.bassin_aurique.porteur_de_l_oeuf" GUID="cty16EWV70S14GmYo/awnA=="/>
+			<POI MapID="1043" xpos="105.415" ypos="77.153" zpos="-258.951" type="heart_of_thorns.bassin_aurique.porteur_de_l_oeuf" GUID="ddLFuRsfPkyOaBRkLxp2uA=="/>
+			<POI MapID="1043" xpos="113.797" ypos="81.8047" zpos="-269.732" type="heart_of_thorns.bassin_aurique.porteur_de_l_oeuf" GUID="N2Xdg4niOU+kxlMybTvwGQ=="/>
+			<POI MapID="1043" xpos="120.61" ypos="86.7532" zpos="-281.15" type="heart_of_thorns.bassin_aurique.porteur_de_l_oeuf" GUID="7qvPba1dAUGuXVUnvEfhPQ=="/>
+			<POI MapID="1043" xpos="127.936" ypos="92.2866" zpos="-293.97" type="heart_of_thorns.bassin_aurique.porteur_de_l_oeuf" GUID="M4AP59XMs0O7DDMyCQ1LxA==" iconFile="Img\Danger.png" iconSize="0.75"/>
+			<POI MapID="1043" xpos="133.159" ypos="92.3835" zpos="-294.149" type="heart_of_thorns.bassin_aurique.porteur_de_l_oeuf" GUID="DLzOfeYH60aV8+uIkdGEfQ=="/>
+			<POI MapID="1043" xpos="133.958" ypos="95.2995" zpos="-296.555" type="heart_of_thorns.bassin_aurique.porteur_de_l_oeuf" GUID="TVMGU8ZDok2g/O+BWUKRmA=="/>
+			<POI MapID="1043" xpos="136.858" ypos="96.2785" zpos="-297.378" type="heart_of_thorns.bassin_aurique.porteur_de_l_oeuf" GUID="+dOGgHN+VEu48bwMExCG2Q==" iconFile="Img\Danger.png" iconSize="0.75"/>
+			<POI MapID="1043" xpos="143.279" ypos="95.8037" zpos="-299.474" type="heart_of_thorns.bassin_aurique.porteur_de_l_oeuf" GUID="gpZxwtAeikyorzbO9AXT7A=="/>
+			<POI MapID="1043" xpos="155.906" ypos="95.5785" zpos="-306.478" type="heart_of_thorns.bassin_aurique.porteur_de_l_oeuf" GUID="AJ6iaSf1kUmjtk/YpxWjJw=="/>
+			<POI MapID="1043" xpos="168.03" ypos="95.5833" zpos="-313.822" type="heart_of_thorns.bassin_aurique.porteur_de_l_oeuf" GUID="Ognvxa5sz02+FdMvdMrc+g=="/>
+			<POI MapID="1043" xpos="178.489" ypos="95.7571" zpos="-320.501" type="heart_of_thorns.bassin_aurique.porteur_de_l_oeuf" GUID="VXHPNSYhdEiUFq0gp6U/iQ=="/>
+			<POI MapID="1043" xpos="178.99" ypos="97.3557" zpos="-330.369" type="heart_of_thorns.bassin_aurique.porteur_de_l_oeuf" GUID="X4Gfx6O/1kGwRes7fyboyg=="/>
+			<POI MapID="1043" xpos="182.152" ypos="99.6787" zpos="-338.224" type="heart_of_thorns.bassin_aurique.porteur_de_l_oeuf" GUID="pOFsKOPal02k465zKLzfig=="/>
+			<POI MapID="1043" xpos="188.15" ypos="101.021" zpos="-348.079" type="heart_of_thorns.bassin_aurique.porteur_de_l_oeuf" GUID="zdDuEcv4U02VgUcizjhBrA=="/>
+			<POI MapID="1043" xpos="196.609" ypos="104.909" zpos="-348.214" type="heart_of_thorns.bassin_aurique.porteur_de_l_oeuf" GUID="g5EzhRPSS0W67TOhn3PLow=="/>
+			<POI MapID="1043" xpos="201.136" ypos="106.782" zpos="-345.795" type="heart_of_thorns.bassin_aurique.porteur_de_l_oeuf" GUID="g8pqiKsTJU+31SfbCsaANg=="/>
+			<POI MapID="1043" xpos="206.481" ypos="107.866" zpos="-332.445" type="heart_of_thorns.bassin_aurique.porteur_de_l_oeuf" GUID="rbmchvyI0UKS/rRTJKPx+Q==" iconFile="Img\Danger.png" iconSize="0.75"/>
+			<POI MapID="1043" xpos="209.013" ypos="107.558" zpos="-324.315" type="heart_of_thorns.bassin_aurique.porteur_de_l_oeuf" GUID="BxqYa76B1Umquu8YkChi4w=="/>
+			<POI MapID="1043" xpos="220.851" ypos="109.507" zpos="-323.414" type="heart_of_thorns.bassin_aurique.porteur_de_l_oeuf" GUID="gKNzGv/8s0GqwUtMXj70JQ=="/>
+			<POI MapID="1043" xpos="234.27" ypos="106.449" zpos="-320.137" type="heart_of_thorns.bassin_aurique.porteur_de_l_oeuf" GUID="zGOwGDUiRE6ADj31a5ahXQ=="/>
+			<POI MapID="1043" xpos="240.186" ypos="108.726" zpos="-315.383" type="heart_of_thorns.bassin_aurique.porteur_de_l_oeuf" GUID="DNDYkmdC10W0r/XfI0D2TQ=="/>
+			<POI MapID="1043" xpos="244.098" ypos="110.824" zpos="-315.175" type="heart_of_thorns.bassin_aurique.porteur_de_l_oeuf" GUID="LcqXYXSpVEuGW8jzveRDXA==" iconFile="Img\Danger.png" iconSize="0.75"/>
+			<POI MapID="1043" xpos="248.874" ypos="113.064" zpos="-312.704" type="heart_of_thorns.bassin_aurique.porteur_de_l_oeuf" GUID="x3uWawVIL0q5a0BYyPwWAA=="/>
+			<POI MapID="1043" xpos="249.58" ypos="115.35" zpos="-309.353" type="heart_of_thorns.bassin_aurique.porteur_de_l_oeuf" GUID="siOEaEgMYkO1pkIhLVBcmA=="/>
+			<POI MapID="1043" xpos="252.598" ypos="117.06" zpos="-310.14" type="heart_of_thorns.bassin_aurique.porteur_de_l_oeuf" GUID="5jgl9qi87kuuKFMfXZKyDg=="/>
+			<POI MapID="1043" xpos="255.671" ypos="119.745" zpos="-306.146" type="heart_of_thorns.bassin_aurique.porteur_de_l_oeuf" GUID="7jTZCoGfYEO8FYLWyXA+4w=="/>
+			<POI MapID="1043" xpos="259.393" ypos="121.329" zpos="-301.034" type="heart_of_thorns.bassin_aurique.porteur_de_l_oeuf" GUID="vAxT++8l6UKP1OkNFrgTmg=="/>
+			<POI MapID="1043" xpos="261.741" ypos="121.615" zpos="-295.203" type="heart_of_thorns.bassin_aurique.porteur_de_l_oeuf" GUID="T/H4VMJulkiDoB44/8CxwQ=="/>
+			<POI MapID="1043" xpos="266.105" ypos="120.662" zpos="-290.105" type="heart_of_thorns.bassin_aurique.porteur_de_l_oeuf" GUID="aAzLlHOabEWxSRqojkFzkg=="/>
+			<POI MapID="1043" xpos="270.67" ypos="122.659" zpos="-286.013" type="heart_of_thorns.bassin_aurique.porteur_de_l_oeuf" GUID="Bqza/JFc/UK5sAddA1Fe9A=="/>
+			<POI MapID="1043" xpos="278.561" ypos="124.615" zpos="-280.31" type="heart_of_thorns.bassin_aurique.porteur_de_l_oeuf" GUID="XjlFlTK2lUy7UaxjIDAjug=="/>
+			<POI MapID="1043" xpos="282.547" ypos="126.085" zpos="-279.472" type="heart_of_thorns.bassin_aurique.porteur_de_l_oeuf" GUID="RRSg4H+pFEuU5McIRoYaSQ=="/>
+			<POI MapID="1043" xpos="284.806" ypos="127.687" zpos="-275.656" type="heart_of_thorns.bassin_aurique.porteur_de_l_oeuf" GUID="AqdpUgi1ykaJ39v6cXqFtA=="/>
+			<POI MapID="1043" xpos="285.712" ypos="128.361" zpos="-269.473" type="heart_of_thorns.bassin_aurique.porteur_de_l_oeuf" GUID="ieFvmaSGm0KBTc9l2CiTJA=="/>
+			<POI MapID="1043" xpos="287.612" ypos="129.28" zpos="-267.042" type="heart_of_thorns.bassin_aurique.porteur_de_l_oeuf" GUID="5v3M5lqwikSecRSzc/Qo1Q=="/>
+			<POI MapID="1043" xpos="291.563" ypos="130.256" zpos="-262.247" type="heart_of_thorns.bassin_aurique.porteur_de_l_oeuf" GUID="6CCNbjiLEk2FHZ5NThUmKQ=="/>
+			<POI MapID="1043" xpos="294.044" ypos="131.598" zpos="-261.018" type="heart_of_thorns.bassin_aurique.porteur_de_l_oeuf" GUID="Zyqj7ga0IEuNcB5IixfqjQ=="/>
+			<POI MapID="1043" xpos="293.199" ypos="133.451" zpos="-258.597" type="heart_of_thorns.bassin_aurique.porteur_de_l_oeuf" GUID="YMiOF9cBFEqL9GzGvIzkTg=="/>
+			<POI MapID="1043" xpos="294.827" ypos="135.282" zpos="-256.395" type="heart_of_thorns.bassin_aurique.porteur_de_l_oeuf" GUID="MKPGHLuYeECUxzzvOUgKPA=="/>
+			<POI MapID="1043" xpos="296.881" ypos="138.218" zpos="-252.708" type="heart_of_thorns.bassin_aurique.porteur_de_l_oeuf" GUID="CErXtrNOXkGqPcJEg9/qjQ=="/>
+			<POI MapID="1043" xpos="300.267" ypos="140.924" zpos="-251.467" type="heart_of_thorns.bassin_aurique.porteur_de_l_oeuf" GUID="sjlfU8wclEqyaIGxXvg9uQ=="/>
+			<POI MapID="1043" xpos="300.228" ypos="142.612" zpos="-257.601" type="heart_of_thorns.bassin_aurique.porteur_de_l_oeuf" GUID="zItj3y8QwEKJ6N+QDxYmBw=="/>
+			<POI MapID="1043" xpos="302.543" ypos="144.73" zpos="-255.11" type="heart_of_thorns.bassin_aurique.porteur_de_l_oeuf" GUID="zFhWH7IJvk+MEPxv1XCZeA=="/>
+			<POI MapID="1043" xpos="302.836" ypos="146.639" zpos="-252.809" type="heart_of_thorns.bassin_aurique.porteur_de_l_oeuf" GUID="cq5ZtiT0LUGbZmDuDFSzMQ=="/>
+			<POI MapID="1043" xpos="303.497" ypos="148.386" zpos="-249.907" type="heart_of_thorns.bassin_aurique.porteur_de_l_oeuf" GUID="r8O3Z2AOuEiEfKx5poVQaA=="/>
+			<POI MapID="1043" xpos="303.234" ypos="149.986" zpos="-245.264" type="heart_of_thorns.bassin_aurique.porteur_de_l_oeuf" GUID="NtsNRUMuJk+GGDOZwZqvYQ=="/>
+			<POI MapID="1043" xpos="298.701" ypos="149.754" zpos="-234.084" type="heart_of_thorns.bassin_aurique.porteur_de_l_oeuf" GUID="gh3cUYVx5ESVRLrZSv0H6g==" iconFile="Img\Danger.png" iconSize="0.75"/>
+			<POI MapID="1043" xpos="299.649" ypos="149.65" zpos="-228.318" type="heart_of_thorns.bassin_aurique.porteur_de_l_oeuf" GUID="QlFbktoEukioP+86+Nu3pg=="/>
+			<POI MapID="1043" xpos="299.822" ypos="150.26" zpos="-222.752" type="heart_of_thorns.bassin_aurique.porteur_de_l_oeuf" GUID="oZhG/Y0jBUaXAvOvH4OALg=="/>
+			<POI MapID="1043" xpos="299.187" ypos="151.555" zpos="-216.821" type="heart_of_thorns.bassin_aurique.porteur_de_l_oeuf" GUID="UR57T/4vXUi/t88uOS7dEA=="/>
+			<POI MapID="1043" xpos="301.655" ypos="153.009" zpos="-207.127" type="heart_of_thorns.bassin_aurique.porteur_de_l_oeuf" GUID="+sgvyJvJ0Ey3GW/gwucnDw=="/>
+			<POI MapID="1043" xpos="302.125" ypos="156.402" zpos="-201.356" type="heart_of_thorns.bassin_aurique.porteur_de_l_oeuf" GUID="7nmYZUgQdk6ymdOEAuk6zA=="/>
+			<POI MapID="1043" xpos="301.946" ypos="157.808" zpos="-198.337" type="heart_of_thorns.bassin_aurique.porteur_de_l_oeuf" GUID="/sqkEN3aLkSoKgmBqKlIug=="/>
+			<POI MapID="1043" xpos="301.383" ypos="159.265" zpos="-194.851" type="heart_of_thorns.bassin_aurique.porteur_de_l_oeuf" GUID="GkTWdIsDFUylEwak8QYUGA==" iconFile="Img\Danger.png" iconSize="0.75"/>
+			<POI MapID="1043" xpos="300.016" ypos="160.641" zpos="-190.806" type="heart_of_thorns.bassin_aurique.porteur_de_l_oeuf" GUID="pJgExD6EmkipD2CzCHqTWg=="/>
+			<POI MapID="1043" xpos="297.057" ypos="163.884" zpos="-187.975" type="heart_of_thorns.bassin_aurique.porteur_de_l_oeuf" GUID="4elFJBCw2kikQbaUi/1yQA=="/>
+			<POI MapID="1043" xpos="292.983" ypos="165.46" zpos="-180.973" type="heart_of_thorns.bassin_aurique.porteur_de_l_oeuf" GUID="9PY0LPfvQkCaWTwcLxspzQ=="/>
+			<POI MapID="1043" xpos="291.35" ypos="172.151" zpos="-174.154" type="heart_of_thorns.bassin_aurique.porteur_de_l_oeuf" GUID="ZxZ1+5zHFEOmkV2bx85gzg=="/>
+			<POI MapID="1043" xpos="288.035" ypos="174.02" zpos="-168.186" type="heart_of_thorns.bassin_aurique.porteur_de_l_oeuf" GUID="Eh7+RYsRVkqcnZ6oMo3HNg=="/>
+			<POI MapID="1043" xpos="285.149" ypos="175.815" zpos="-165.977" type="heart_of_thorns.bassin_aurique.porteur_de_l_oeuf" GUID="vfpAyNaD8kOtgupwdcob/g==" iconFile="Img\Danger.png" iconSize="0.75"/>
+			<POI MapID="1043" xpos="282.691" ypos="177.627" zpos="-162.707" type="heart_of_thorns.bassin_aurique.porteur_de_l_oeuf" GUID="//yBwa9XIUaE/dYsZ0+SJQ=="/>
+			<POI MapID="1043" xpos="271.662" ypos="177.347" zpos="-157.883" type="heart_of_thorns.bassin_aurique.porteur_de_l_oeuf" GUID="Bi1zZS6jEUSm19k9F4YO6g==" iconFile="Img\Danger.png" iconSize="0.75"/>
+			<POI MapID="1043" xpos="267.816" ypos="177.627" zpos="-154.906" type="heart_of_thorns.bassin_aurique.porteur_de_l_oeuf" GUID="ae274wK3oEqfIw5rADckdA=="/>
+			<POI MapID="1043" xpos="263.329" ypos="178.235" zpos="-152.122" type="heart_of_thorns.bassin_aurique.porteur_de_l_oeuf" GUID="xIDhePbxMUGoGBob0WJgnQ=="/>
+			<POI MapID="1043" xpos="258.232" ypos="179.532" zpos="-149.129" type="heart_of_thorns.bassin_aurique.porteur_de_l_oeuf" GUID="YE5SzvnOC0CeftAfyV0GZg=="/>
+			<POI MapID="1043" xpos="253.166" ypos="180.699" zpos="-146.071" type="heart_of_thorns.bassin_aurique.porteur_de_l_oeuf" GUID="CZcqRvWaaEa7p2svV84rLQ=="/>
+			<POI MapID="1043" xpos="239.066" ypos="180.96" zpos="-140.01" type="heart_of_thorns.bassin_aurique.porteur_de_l_oeuf" GUID="5BgNLUP36Uu7/I2fW9++gw==" iconFile="Img\DeltaplaneDepart-EN.png"/>
+			<POI MapID="1043" xpos="226.421" ypos="178.222" zpos="-137.692" type="heart_of_thorns.bassin_aurique.porteur_de_l_oeuf" GUID="aQWmkRBS9kS6TPbHcVVE0A==" iconFile="Img\DeltaplaneStop.png"/>
+			<POI MapID="1043" xpos="217.772" ypos="178.461" zpos="-136.358" type="heart_of_thorns.bassin_aurique.porteur_de_l_oeuf" GUID="jNWMvwdcWE+6c81T8bhYyw=="/>
+			<POI MapID="1043" xpos="211.639" ypos="178.442" zpos="-135.145" type="heart_of_thorns.bassin_aurique.porteur_de_l_oeuf" GUID="CgqiImGpTkCJFu6BlIQ39A==" iconFile="Img\Danger.png" iconSize="0.75"/>
+			<POI MapID="1043" xpos="203.246" ypos="178.578" zpos="-137.096" type="heart_of_thorns.bassin_aurique.porteur_de_l_oeuf" GUID="nPPnSPZQi0KsWIwu7ocpdg=="/>
+			<POI MapID="1043" xpos="194.857" ypos="178.548" zpos="-143.181" type="heart_of_thorns.bassin_aurique.porteur_de_l_oeuf" GUID="Eaw+83UR5Uur2T6kUPZSNQ==" iconFile="Img\Danger.png" iconSize="0.75"/>
+			<POI MapID="1043" xpos="188.922" ypos="178.235" zpos="-145.608" type="heart_of_thorns.bassin_aurique.porteur_de_l_oeuf" GUID="WGAmYP+dCk2JEwEiNTiMRA=="/>
+			<POI MapID="1043" xpos="184.064" ypos="178.845" zpos="-148.25" type="heart_of_thorns.bassin_aurique.porteur_de_l_oeuf" GUID="0TkDcAZl3kukSAwxWkVPjw=="/>
+			<POI MapID="1043" xpos="179.408" ypos="180.14" zpos="-150.494" type="heart_of_thorns.bassin_aurique.porteur_de_l_oeuf" GUID="IHCm6pvHO0KCGDuKj5wGvw=="/>
+			<POI MapID="1043" xpos="174.34" ypos="181.43" zpos="-152.885" type="heart_of_thorns.bassin_aurique.porteur_de_l_oeuf" GUID="RG05W5UVfk2EKpFiip7gjw=="/>
+			<POI MapID="1043" xpos="164.15" ypos="181.635" zpos="-159.498" type="heart_of_thorns.bassin_aurique.porteur_de_l_oeuf" GUID="uLjns4uj5kqjz5KheJPP9Q=="/>
+			<POI MapID="1043" xpos="157.193" ypos="183.026" zpos="-166.893" type="heart_of_thorns.bassin_aurique.porteur_de_l_oeuf" GUID="L/a2LUjKL0iBadb0ROy2qA==" iconFile="Img\Danger.png" iconSize="0.75"/>
+			<POI MapID="1043" xpos="155.815" ypos="184.026" zpos="-169.895" type="heart_of_thorns.bassin_aurique.porteur_de_l_oeuf" GUID="3UaO3A7IV0GYxOD92WenOQ=="/>
+			<POI MapID="1043" xpos="153.537" ypos="184.636" zpos="-174.528" type="heart_of_thorns.bassin_aurique.porteur_de_l_oeuf" GUID="4+3f9b99dUe7WzgjIrBLGQ=="/>
+			<POI MapID="1043" xpos="150.134" ypos="185.931" zpos="-178.976" type="heart_of_thorns.bassin_aurique.porteur_de_l_oeuf" GUID="OdgirxjxpUapQAArHgnk+A=="/>
+			<POI MapID="1043" xpos="146.207" ypos="187.848" zpos="-190.051" type="heart_of_thorns.bassin_aurique.porteur_de_l_oeuf" GUID="dnbtrFH/Ukip9nBEwt4+5w==" iconFile="Img\Danger.png" iconSize="0.75"/>
+			<POI MapID="1043" xpos="144.145" ypos="185.903" zpos="-195.9" type="heart_of_thorns.bassin_aurique.porteur_de_l_oeuf" GUID="mlfzTsezA0OhiEsYQg8LyQ=="/>
+			<POI MapID="1043" xpos="141.568" ypos="186.1" zpos="-204.025" type="heart_of_thorns.bassin_aurique.porteur_de_l_oeuf" GUID="3PRjcrpvKE6M3yx8yFlaVA==" iconFile="Img\Danger.png" iconSize="0.75"/>
+			<POI MapID="1043" xpos="141.207" ypos="185.169" zpos="-209.612" type="heart_of_thorns.bassin_aurique.porteur_de_l_oeuf" GUID="aUwq8lpBlUihzejjXq3+hg=="/>
+			<POI MapID="1043" xpos="141.004" ypos="185.779" zpos="-215.171" type="heart_of_thorns.bassin_aurique.porteur_de_l_oeuf" GUID="iDe9ANijm0Cup4K282CHHQ=="/>
+			<POI MapID="1043" xpos="140.924" ypos="187.074" zpos="-220.386" type="heart_of_thorns.bassin_aurique.porteur_de_l_oeuf" GUID="6BeqnssKmkq4euqch9S1Jw=="/>
+			<POI MapID="1043" xpos="141.243" ypos="188.755" zpos="-226.377" type="heart_of_thorns.bassin_aurique.porteur_de_l_oeuf" GUID="LUrBLKVl4EGDBXkWe2s1sA=="/>
+			<POI MapID="1043" xpos="142.536" ypos="190.686" zpos="-233.645" type="heart_of_thorns.bassin_aurique.porteur_de_l_oeuf" GUID="ws2rIFfEoUW5oaDDV4/dJw=="/>
+			<POI MapID="1043" xpos="139.893" ypos="193.293" zpos="-234.767" type="heart_of_thorns.bassin_aurique.porteur_de_l_oeuf" GUID="DW2Hb6a+PkSd1mW34pT79g=="/>
+			<POI MapID="1043" xpos="141.897" ypos="194.21" zpos="-236.697" type="heart_of_thorns.bassin_aurique.porteur_de_l_oeuf" GUID="b7++Xk0abU2EX5MHsaV2UQ=="/>
+			<POI MapID="1043" xpos="143.46" ypos="195.737" zpos="-237.125" type="heart_of_thorns.bassin_aurique.porteur_de_l_oeuf" GUID="TtciPj6Bs0OsO2dl/NFpeQ=="/>
+			<POI MapID="1043" xpos="145.599" ypos="197.452" zpos="-237.524" type="heart_of_thorns.bassin_aurique.porteur_de_l_oeuf" GUID="UkBx3oiojkWHXqboXQyvyg=="/>
+			<POI MapID="1043" xpos="148.439" ypos="199.007" zpos="-237.923" type="heart_of_thorns.bassin_aurique.porteur_de_l_oeuf" GUID="iEeZsuqjFk+mis0Gm7gpqw=="/>
+			<POI MapID="1043" xpos="150.616" ypos="200.885" zpos="-239.472" type="heart_of_thorns.bassin_aurique.porteur_de_l_oeuf" GUID="yIXjJbrxfk6R18ISNfi44Q=="/>
+			<POI MapID="1043" xpos="146.141" ypos="204.741" zpos="-243.931" type="heart_of_thorns.bassin_aurique.porteur_de_l_oeuf" GUID="y2Y6nSjrxkWOhs45mBuxEQ=="/>
+			<POI MapID="1043" xpos="148.235" ypos="207.839" zpos="-250.939" type="heart_of_thorns.bassin_aurique.porteur_de_l_oeuf" GUID="lsnsQeWqNESgSjMAsAOsUg=="/>
+			<POI MapID="1043" xpos="149.947" ypos="211.332" zpos="-256.86" type="heart_of_thorns.bassin_aurique.porteur_de_l_oeuf" GUID="iVKMdyrgRUy3GDwJLR6Ctg=="/>
+			<POI MapID="1043" xpos="151.723" ypos="215.231" zpos="-262.932" type="heart_of_thorns.bassin_aurique.porteur_de_l_oeuf" GUID="GudXnGzmSEip9md6yRVMHg=="/>
+			<POI MapID="1043" xpos="158.115" ypos="216.385" zpos="-264.798" type="heart_of_thorns.bassin_aurique.porteur_de_l_oeuf" GUID="H7GNN6FzJ0iCG4Q4zPZSYw=="/>
+			<POI MapID="1043" xpos="165.949" ypos="216.346" zpos="-264.261" type="heart_of_thorns.bassin_aurique.porteur_de_l_oeuf" GUID="WDlBEhHrxE6glBEzEzWXOg=="/>
+			<POI MapID="1043" xpos="171.969" ypos="215.989" zpos="-259.232" type="heart_of_thorns.bassin_aurique.porteur_de_l_oeuf" GUID="1UorpRzbukercALZKsPyVw==" iconFile="Img\DeltaplaneDepart-EN.png"/>
+			<POI MapID="1043" xpos="192.48" ypos="210.098" zpos="-241.125" type="heart_of_thorns.bassin_aurique.porteur_de_l_oeuf" GUID="B9zqOtK49UmYHLZjBDpI1w==" iconFile="Img\DeltaplaneStop.png"/>
+		</Route>
+
+		<!-- Coffre -->
+		<POI MapID="1043" xpos="204.955" ypos="213.569" zpos="-228.616" type="heart_of_thorns.bassin_aurique.porteur_de_l_oeuf" GUID="hsBdS28HXEKL4KLk0fXRBA==" iconFile="Img\CoffreBassinAurique.png" heightOffset="2.5"/>
+
+	</POIs>
+</OverlayData>

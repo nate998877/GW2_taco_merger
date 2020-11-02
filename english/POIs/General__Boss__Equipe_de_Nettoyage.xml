@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+POIs: TMKFrench.6427
+Date: 2017/08/11
+-->
+<OverlayData>
+	<MarkerCategory name="general" DisplayName="General">
+		<MarkerCategory name="boss" DisplayName="Bosses" iconFile="Img\Boss.png">
+			<MarkerCategory name="equipe_de_nettoyage" DisplayName="Clenup Crew" iconFile="Img\CleMatricielleCubique.png" iconSize="0.5"/>
+		</MarkerCategory>
+	</MarkerCategory>
+
+	<POIs>
+
+		<!-- Emplacement possible des Clef Matricielle Cubique -->
+		<POI MapID="35" xpos="-307.137" ypos="16.3272" zpos="796.536" type="general.boss.equipe_de_nettoyage" GUID="TYwL+F90z0WtaQvb5GKIxQ=="/>
+		<POI MapID="35" xpos="-365.207" ypos="21.6336" zpos="846.123" type="general.boss.equipe_de_nettoyage" GUID="3dj5m39cu0Wiy9ZNUJGX8g=="/>
+		<POI MapID="35" xpos="-334.349" ypos="23.53" zpos="909.494" type="general.boss.equipe_de_nettoyage" GUID="kxss5CMebUyNQs3BOHIZhg=="/>
+		<POI MapID="35" xpos="-340.445" ypos="9.69198" zpos="839.6" type="general.boss.equipe_de_nettoyage" GUID="sz+A7T3AGUClYGpxtvpzWA=="/>
+		<POI MapID="35" xpos="-436.603" ypos="18.6937" zpos="638.111" type="general.boss.equipe_de_nettoyage" GUID="HonPHJeE3UeHbho7Z5rfJw=="/>
+		<POI MapID="35" xpos="-441.695" ypos="49.2586" zpos="708.561" type="general.boss.equipe_de_nettoyage" GUID="gcFAU8q77UO1NlQoE0OBdA=="/>
+		<POI MapID="35" xpos="-333.372" ypos="26.7202" zpos="647.61" type="general.boss.equipe_de_nettoyage" GUID="o/De51OlnEKpejJ4Vk3ErA=="/>
+		<POI MapID="35" xpos="-421.212" ypos="24.6468" zpos="717.103" type="general.boss.equipe_de_nettoyage" GUID="sixndl48MEeCjmko3pZ6Nw=="/>
+		<POI MapID="35" xpos="-431.202" ypos="21.7246" zpos="678.533" type="general.boss.equipe_de_nettoyage" GUID="2z+kwNhzKkiuYV/avJsZcg=="/>
+		<POI MapID="35" xpos="-288.974" ypos="18.1782" zpos="807.792" type="general.boss.equipe_de_nettoyage" GUID="pTjEctgfeECpK1QZoVVgNQ=="/>
+		<POI MapID="35" xpos="-270.842" ypos="18.0996" zpos="806.233" type="general.boss.equipe_de_nettoyage" GUID="3HsPYO4FKEa6Q7lnutX6ow=="/>
+		<POI MapID="35" xpos="-278.895" ypos="36.386" zpos="639.849" type="general.boss.equipe_de_nettoyage" GUID="E4nvqCfRbkeMQ4wJYT6PCQ=="/>
+		<POI MapID="35" xpos="-318.204" ypos="21.7315" zpos="872.946" type="general.boss.equipe_de_nettoyage" GUID="Bu4DjmwoeU2wWI7bTwuJBA=="/>
+		<POI MapID="35" xpos="-321.584" ypos="10.6085" zpos="822.73" type="general.boss.equipe_de_nettoyage" GUID="T/HXMh9u2UeSQnEc8KSoxg=="/>
+		<POI MapID="35" xpos="-323.849" ypos="18.7288" zpos="630.262" type="general.boss.equipe_de_nettoyage" GUID="CJycWm0kcU6WlbtcbUo2Rg=="/>
+		<POI MapID="35" xpos="-270.986" ypos="18.1224" zpos="688.328" type="general.boss.equipe_de_nettoyage" GUID="X/Xq1L+J7kqruaB+/fjmuw=="/>
+		<POI MapID="35" xpos="-265.742" ypos="18.6367" zpos="660.201" type="general.boss.equipe_de_nettoyage" GUID="3jm2XLntuUGDKLY4I01m8g=="/>
+		<POI MapID="35" xpos="-286.12" ypos="19.7895" zpos="764.819" type="general.boss.equipe_de_nettoyage" GUID="G4LWnkbNnUaOBl+nQBnbVQ=="/>
+		<POI MapID="35" xpos="-347.343" ypos="21.6343" zpos="852.571" type="general.boss.equipe_de_nettoyage" GUID="wcdontDYdku87hvTV27HDQ=="/>
+		<POI MapID="35" xpos="-339.988" ypos="13.5241" zpos="804.765" type="general.boss.equipe_de_nettoyage" GUID="NPzt7bX9UU+uo8BXawvE/w=="/>
+
+		<!--
+		Chargement CMC avec élément Eau
+		-->
+
+		<!-- Début -->
+		<POI MapID="35" xpos="-401.896" ypos="11.3982" zpos="806.74" type="general.boss.equipe_de_nettoyage" GUID="Pe89hQBO40yOKzZkcq8LVQ==" iconFile="Img\1.png"/>
+
+		<!-- Route -->
+		<Route MapID="35" name="Element_eau" resetposx="-401.896" resetposy="11.3982" resetposz="806.74" resetrange="2">
+			<POI MapID="35" xpos="-401.663" ypos="10.9951" zpos="795.731" type="general.boss.equipe_de_nettoyage" GUID="bHJHYDOvBUS+POhYNUKe4A==" iconFile="Img\Guide.png"/>
+			<POI MapID="35" xpos="-423.676" ypos="8.01726" zpos="798.639" type="general.boss.equipe_de_nettoyage" GUID="kSdSpfT+1E+8T4E3Jb/Uuw==" iconFile="Img\Guide.png"/>
+			<POI MapID="35" xpos="-442.061" ypos="9.6154" zpos="814.272" type="general.boss.equipe_de_nettoyage" GUID="9JPO5iItsEibTw5p0grQvA==" iconFile="Img\Guide.png"/>
+		</Route>
+
+		<!-- Consigne -->
+		<POI MapID="35" xpos="-450.14" ypos="12.8609" zpos="820.595" type="general.boss.equipe_de_nettoyage" GUID="CMIPRj0oHU+7rXHhoH3trg==" iconFile="Img\Combat.png" color="ffff0000" iconSize="0.75"/>
+		<POI MapID="35" xpos="-450.14" ypos="14.8609" zpos="820.595" type="general.boss.equipe_de_nettoyage" GUID="8sT9lA5eL0uyeTRE7fFHPw==" iconFile="Img\CleMatricielleCubiqueInfoEau-EN.png" iconSize="1.5"/>
+
+		<!--
+		Chargement CMC avec élément Terre
+		-->
+
+		<!-- Début -->
+		<POI MapID="35" xpos="-345.859" ypos="27.4767" zpos="708.698" type="general.boss.equipe_de_nettoyage" GUID="IlOSrtkqoUivnlC94SpiWA==" iconFile="Img\2.png"/>
+
+		<!-- Route -->
+
+			<!-- Segment 1 -->
+			<Route MapID="35" name="Element_Terre_S1" resetposx="-345.859" resetposy="27.4767" resetposz="708.698" resetrange="2">
+				<POI MapID="35" xpos="-336.176" ypos="27.4697" zpos="698.863" type="general.boss.equipe_de_nettoyage" GUID="U5pyukWnd0W28qReFwIUQw==" iconFile="Img\Guide.png"/>
+				<POI MapID="35" xpos="-328.153" ypos="24.79" zpos="683.193" type="general.boss.equipe_de_nettoyage" GUID="4o5soyZQf0q65yknMSl43A==" iconFile="Img\Guide.png"/>
+				<POI MapID="35" xpos="-322.291" ypos="22.1335" zpos="676.955" type="general.boss.equipe_de_nettoyage" GUID="Ah0rxPUOzE6HUeoE30r0Ow==" iconFile="Img\Guide.png"/>
+				<POI MapID="35" xpos="-321.844" ypos="18.3128" zpos="664.81" type="general.boss.equipe_de_nettoyage" GUID="e75XxxJ7RUCfpC7IPP77kg==" iconFile="Img\Guide.png"/>
+				<POI MapID="35" xpos="-329.058" ypos="17.9615" zpos="658.738" type="general.boss.equipe_de_nettoyage" GUID="YMG3yESOcUepx1f7lSAGvg==" iconFile="Img\Guide.png"/>
+			</Route>
+
+			<!-- Segment 2 -->
+			<Route MapID="35" name="Element_Terre_S2" resetposx="-329.058" resetposy="17.9615" resetposz="658.738" resetrange="1">
+				<POI MapID="35" xpos="-330.383" ypos="25.6797" zpos="649.717" type="general.boss.equipe_de_nettoyage" GUID="a7yFoUPudEKAd/Znwt+hcQ==" iconFile="Img\Guide.png"/>
+				<POI MapID="35" xpos="-324.187" ypos="30.217" zpos="643.935" type="general.boss.equipe_de_nettoyage" GUID="7Lr6Ewp4ckyh+dd4yeCHLg==" iconFile="Img\Guide.png"/>
+				<POI MapID="35" xpos="-317.158" ypos="31.559" zpos="638.781" type="general.boss.equipe_de_nettoyage" GUID="u2RFUq2qzE+dn7XeUBgV7g==" iconFile="Img\Guide.png"/>
+				<POI MapID="35" xpos="-308.502" ypos="31.7876" zpos="638.455" type="general.boss.equipe_de_nettoyage" GUID="57KE7yfQk06vJ+8O8XS3QA==" iconFile="Img\Guide.png"/>
+				<POI MapID="35" xpos="-301.823" ypos="32.9825" zpos="638.415" type="general.boss.equipe_de_nettoyage" GUID="L2sJKaJnt0+JKnuqr6aCkA==" iconFile="Img\Guide.png"/>
+				<POI MapID="35" xpos="-295.764" ypos="33.7064" zpos="638.124" type="general.boss.equipe_de_nettoyage" GUID="wbOsNsDXC0qikq/jMYTWuw==" iconFile="Img\Guide.png"/>
+				<POI MapID="35" xpos="-293.099" ypos="36.1448" zpos="638.53" type="general.boss.equipe_de_nettoyage" GUID="x0AINl7bnEi5uer3okDbXQ==" iconFile="Img\Guide.png"/>
+				<POI MapID="35" xpos="-282.907" ypos="36.3031" zpos="643.976" type="general.boss.equipe_de_nettoyage" GUID="7+gWyKYLmke4S07iMpVX5g==" iconFile="Img\Guide.png"/>
+				<POI MapID="35" xpos="-279.48" ypos="36.1564" zpos="655.698" type="general.boss.equipe_de_nettoyage" GUID="mhzOd9HNCke3piaXPnahEw==" iconFile="Img\Guide.png"/>
+				<POI MapID="35" xpos="-281.727" ypos="35.0389" zpos="665.752" type="general.boss.equipe_de_nettoyage" GUID="D8RD0KJOs0yCV4sXEEbjMg==" iconFile="Img\Guide.png"/>
+				<POI MapID="35" xpos="-283.593" ypos="35.3686" zpos="674.164" type="general.boss.equipe_de_nettoyage" GUID="0hBf26sgD0iE2PxilQBEwg==" iconFile="Img\Guide.png"/>
+				<POI MapID="35" xpos="-287.127" ypos="35.6216" zpos="682.228" type="general.boss.equipe_de_nettoyage" GUID="TVmx3zbfoEyVxUL4djClBA==" iconFile="Img\Guide.png"/>
+			</Route>
+
+		<!-- Consigne -->
+		<POI MapID="35" xpos="-284.98" ypos="36.3718" zpos="696.789" type="general.boss.equipe_de_nettoyage" GUID="2JsD3i1S00aniIaqQHa9XQ==" iconFile="Img\CleMatricielleCubiqueInfoTerre-EN.png" iconSize="1.5"/>
+
+		<!--
+		Chargement CMC avec élément Glace
+		-->
+
+		<!-- Début -->
+		<POI MapID="35" xpos="-387.615" ypos="27.5421" zpos="709.36" type="general.boss.equipe_de_nettoyage" GUID="1r6nN6cXKEiZ0N4WCyWG3A==" iconFile="Img\3.png"/>
+
+		<!-- Route -->
+
+			<!-- Segment 1 -->
+			<Route MapID="35" name="Element_Glace_S1" resetposx="-387.615" resetposy="27.5421" resetposz="709.36" resetrange="2">
+				<POI MapID="35" xpos="-402.313" ypos="27.5329" zpos="698.078" type="general.boss.equipe_de_nettoyage" GUID="fpnb479zwE2abXvwGPUFQQ==" iconFile="Img\Guide.png"/>
+				<POI MapID="35" xpos="-419.596" ypos="24.844" zpos="693.572" type="general.boss.equipe_de_nettoyage" GUID="bf+q0h+E40CBJwrSgwBnVw==" iconFile="Img\Guide.png"/>
+				<POI MapID="35" xpos="-430.169" ypos="25.6844" zpos="690.003" type="general.boss.equipe_de_nettoyage" GUID="gZNQaS0lP0mY9jtnIUm5PQ==" iconFile="Img\Guide.png"/>
+			</Route>
+
+			<!-- Segment 2 -->
+			<Route MapID="35" name="Element_Glace_S2" resetposx="-430.169" resetposy="25.6844" resetposz="690.003" resetrange="1">
+				<POI MapID="35" xpos="-431.883" ypos="28.0596" zpos="687.987" type="general.boss.equipe_de_nettoyage" GUID="976EiWWrRUGwbYjbLKMlXg==" iconFile="Img\Guide.png"/>
+				<POI MapID="35" xpos="-424.634" ypos="29.0602" zpos="686.854" type="general.boss.equipe_de_nettoyage" GUID="vUQCOAMM1kaApWWjmOehZw==" iconFile="Img\Guide.png"/>
+				<POI MapID="35" xpos="-422.218" ypos="30.7035" zpos="684.478" type="general.boss.equipe_de_nettoyage" GUID="Xi65Fv39SkW/71WVVB16Bw==" iconFile="Img\Guide.png"/>
+				<POI MapID="35" xpos="-420.838" ypos="32.482" zpos="681.055" type="general.boss.equipe_de_nettoyage" GUID="ribpkaEbsEecTHHMfipsbg==" iconFile="Img\Guide.png"/>
+				<POI MapID="35" xpos="-420.576" ypos="34.9284" zpos="677.506" type="general.boss.equipe_de_nettoyage" GUID="3xx+WPrk7UCy4p2WKSp8rQ==" iconFile="Img\Guide.png"/>
+				<POI MapID="35" xpos="-414.387" ypos="37.1983" zpos="672.868" type="general.boss.equipe_de_nettoyage" GUID="B2kNyhFCpkqGMNrdAMbbYA==" iconFile="Img\Guide.png"/>
+				<POI MapID="35" xpos="-423.123" ypos="37.5857" zpos="668.084" type="general.boss.equipe_de_nettoyage" GUID="/yV9gAhuJ0uhRReNTTf4tQ==" iconFile="Img\Guide.png"/>
+				<POI MapID="35" xpos="-423.387" ypos="38.3492" zpos="659.747" type="general.boss.equipe_de_nettoyage" GUID="yjJaVIhSBEG56XSWHf/AOg==" iconFile="Img\Guide.png"/>
+				<POI MapID="35" xpos="-425.872" ypos="38.8872" zpos="649.654" type="general.boss.equipe_de_nettoyage" GUID="aXwUf+dXjU2iXLsAwYPwOg==" iconFile="Img\Guide.png"/>
+				<POI MapID="35" xpos="-431.335" ypos="37.2539" zpos="640.059" type="general.boss.equipe_de_nettoyage" GUID="KMlEoRRJeEy/yDL1sW+2tg==" iconFile="Img\Guide.png"/>
+				<POI MapID="35" xpos="-439.672" ypos="41.524" zpos="638.655" type="general.boss.equipe_de_nettoyage" GUID="uH1tflAe9E+NeTtd6f/IWA==" iconFile="Img\Guide.png"/>
+				<POI MapID="35" xpos="-439.204" ypos="43.0883" zpos="644.604" type="general.boss.equipe_de_nettoyage" GUID="h6nsSyNvpUmadbS+4ZiKMA==" iconFile="Img\Guide.png"/>
+				<POI MapID="35" xpos="-436.75" ypos="44.9611" zpos="649.887" type="general.boss.equipe_de_nettoyage" GUID="a+D6wU/U1kasyXkonzp1GA==" iconFile="Img\Guide.png"/>
+				<POI MapID="35" xpos="-435.342" ypos="46.0394" zpos="655.982" type="general.boss.equipe_de_nettoyage" GUID="q26JF1FlskKBOreDE8E5bw==" iconFile="Img\Guide.png"/>
+				<POI MapID="35" xpos="-433.159" ypos="46.8869" zpos="663.55" type="general.boss.equipe_de_nettoyage" GUID="SfiL2X3hy0iww6r4/4kULA==" iconFile="Img\Guide.png"/>
+				<POI MapID="35" xpos="-433.092" ypos="48.4597" zpos="672.321" type="general.boss.equipe_de_nettoyage" GUID="kIo7nQ20GUqUMjr5MdH3lw==" iconFile="Img\Guide.png"/>
+				<POI MapID="35" xpos="-432.824" ypos="49.8836" zpos="684.974" type="general.boss.equipe_de_nettoyage" GUID="GTq+ffAXT0Ga5miZvQnl9Q==" iconFile="Img\Guide.png"/>
+				<POI MapID="35" xpos="-442.785" ypos="51.4244" zpos="682.833" type="general.boss.equipe_de_nettoyage" GUID="xgzhe6MxUUmSfhn4k80gaw==" iconFile="Img\Guide.png"/>
+				<POI MapID="35" xpos="-445.664" ypos="53.1515" zpos="677.39" type="general.boss.equipe_de_nettoyage" GUID="6gd5wk26b0SQznbmlA0RGQ==" iconFile="Img\Guide.png"/>
+				<POI MapID="35" xpos="-446.903" ypos="54.9768" zpos="673.112" type="general.boss.equipe_de_nettoyage" GUID="/JZ1JDsHu0i8dKqqKqIWWQ==" iconFile="Img\Guide.png"/>
+				<POI MapID="35" xpos="-445.869" ypos="56.2968" zpos="666.375" type="general.boss.equipe_de_nettoyage" GUID="9+Y13HM9dU64U5EJLyY6xA==" iconFile="Img\Guide.png"/>
+				<POI MapID="35" xpos="-438.625" ypos="59.4203" zpos="666.884" type="general.boss.equipe_de_nettoyage" GUID="GaQ2x0e2lECTFAPV40bQkw==" iconFile="Img\Guide.png"/>
+				<POI MapID="35" xpos="-429.081" ypos="59.558" zpos="669.151" type="general.boss.equipe_de_nettoyage" GUID="weMy+NkCkUiORyBD8Iga5Q==" iconFile="Img\Guide.png"/>
+				<POI MapID="35" xpos="-430.34" ypos="57.629" zpos="679.219" type="general.boss.equipe_de_nettoyage" GUID="o4VduLmkfE2dzm7dfXGUiw==" iconFile="Img\Guide.png"/>
+				<POI MapID="35" xpos="-434.222" ypos="57.629" zpos="678.255" type="general.boss.equipe_de_nettoyage" GUID="Om5oqAyFTkGhCSmgBHbAVw==" iconFile="Img\Guide.png"/>
+			</Route>
+
+		<!-- Consigne -->
+		<POI MapID="35" xpos="-435.454" ypos="57.629" zpos="680.367" type="general.boss.equipe_de_nettoyage" GUID="OeEPaRN1WESRs3rIl1QERg==" iconFile="Img\CleMatricielleCubiqueInfoGlace-EN.png" iconSize="1.5"/>
+
+		<!--
+		Chargement CMC avec élément FEU
+		-->
+
+		<!-- Début -->
+		<POI MapID="35" xpos="-376.587" ypos="24.5641" zpos="793.809" type="general.boss.equipe_de_nettoyage" GUID="RvmPffN2rUKWahCcZExt9w==" iconFile="Img\4.png"/>
+
+		<!-- Route -->
+		<Route MapID="35" name="Element_feu" resetposx="-376.587" resetposy="24.5641" resetposz="793.809" resetrange="2">
+			<POI MapID="35" xpos="-377.215" ypos="24.6914" zpos="815.394" type="general.boss.equipe_de_nettoyage" GUID="yFwL70mMckGY6NqcsqYCUw==" iconFile="Img\Guide.png"/>
+			<POI MapID="35" xpos="-376.592" ypos="24.6291" zpos="842.611" type="general.boss.equipe_de_nettoyage" GUID="YpMNfhT2y0ybiqmb877vOw==" iconFile="Img\Guide.png"/>
+			<POI MapID="35" xpos="-372.029" ypos="21.6336" zpos="862.831" type="general.boss.equipe_de_nettoyage" GUID="MN+Bo2DOTkOs+Q233J+CrQ==" iconFile="Img\Guide.png"/>
+		</Route>
+
+		<!-- Consigne -->
+		<POI MapID="35" xpos="-371.264" ypos="21.6336" zpos="888.975" type="general.boss.equipe_de_nettoyage" GUID="wbDiAOAUKkqwJlu9f8mxpA==" iconFile="Img\Combat.png" color="ffff0000" iconSize="0.75"/>
+		<POI MapID="35" xpos="-371.264" ypos="23.6336" zpos="888.975" type="general.boss.equipe_de_nettoyage" GUID="lIynjD7lxk2rR44aSVHpDw==" iconFile="Img\CleMatricielleCubiqueInfoFeu-EN.png" iconSize="1.5"/>
+
+	</POIs>
+</OverlayData>

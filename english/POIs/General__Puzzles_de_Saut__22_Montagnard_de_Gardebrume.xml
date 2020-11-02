@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+POIs: Destiny FNC.5018 - Xenophy.2716 - ReActif.9251
+Date: 2017/08/22
+-->
+<OverlayData>
+	<MarkerCategory name="general" DisplayName="General">
+		<MarkerCategory name="puzzles_de_saut" DisplayName="Jumping Puzzles" iconFile="Img\Guide.png" iconSize="0.75">
+			<MarkerCategory name="montagnard_de_gardebrume" DisplayName="Mistlock Mountaineer"/>
+		</MarkerCategory>
+	</MarkerCategory>
+
+	<POIs>
+
+		<!-- Début -->
+		<POI MapID="872" xpos="70.4" ypos="226.7" zpos="-61.6" type="general.puzzles_de_saut.montagnard_de_gardebrume" GUID="9KcpCY4SH06vg/dfjKDilQ==" iconFile="Img\PuzzleDebut.png" iconSize="1.5"/>
+
+		<!-- Segment 1 -->
+		<Route MapID="872" name="Segment_1" resetposx="70.4" resetposy="226.7" resetposz="-61.6" resetrange="2">
+			<POI MapID="872" xpos="85.316" ypos="213.499" zpos="-111.644" type="general.puzzles_de_saut.montagnard_de_gardebrume" GUID="Ja4AzoqMN0C9gB9D7nS/ow=="/>
+			<POI MapID="872" xpos="91.0845" ypos="213.781" zpos="-117.497" type="general.puzzles_de_saut.montagnard_de_gardebrume" GUID="cgiqw0PuQEKEGh0FqqTjeA=="/>
+			<POI MapID="872" xpos="200.385" ypos="207.382" zpos="-71.0671" type="general.puzzles_de_saut.montagnard_de_gardebrume" GUID="yCuZfWAp10CnP9vola1SrA=="/>
+			<POI MapID="872" xpos="188.468" ypos="207.268" zpos="-62.9369" type="general.puzzles_de_saut.montagnard_de_gardebrume" GUID="ngR2vkduSEmWqvSJoo6l8g=="/>
+			<POI MapID="872" xpos="167.409" ypos="204.182" zpos="-58.9496" type="general.puzzles_de_saut.montagnard_de_gardebrume" GUID="MiagE4J2TEOC5mCgeePrEQ=="/>
+			<POI MapID="872" xpos="150.128" ypos="205.291" zpos="-63.0123" type="general.puzzles_de_saut.montagnard_de_gardebrume" GUID="n2n61dGvyESnHrmb4DO2Ow=="/>
+			<POI MapID="872" xpos="159.672" ypos="207.858" zpos="-78.7038" type="general.puzzles_de_saut.montagnard_de_gardebrume" GUID="NXXiSZE3b0eyx5qZnC0/YQ=="/>
+			<POI MapID="872" xpos="159.346" ypos="207.758" zpos="-85.6135" type="general.puzzles_de_saut.montagnard_de_gardebrume" GUID="jJcTHbHZfUWmDzrDkG5nyw=="/>
+			<POI MapID="872" xpos="157.281" ypos="207.445" zpos="-89.9147" type="general.puzzles_de_saut.montagnard_de_gardebrume" GUID="C+iHjLWus0mBpcTDAuamBQ=="/>
+		</Route>
+
+		<!-- Segment 2 -->
+		<Route MapID="872" name="Segment_2" resetposx="157.39" resetposy="207.76" resetposz="-90.65" resetrange="0.5">
+			<POI MapID="872" xpos="155.36" ypos="210.31" zpos="-96.99" type="general.puzzles_de_saut.montagnard_de_gardebrume" GUID="byGExRPgtkmMoUSuEt2yhQ=="/>
+			<POI MapID="872" xpos="158.306" ypos="212.739" zpos="-99.4713" type="general.puzzles_de_saut.montagnard_de_gardebrume" GUID="EdEA6wXQJ0K64na4ugSHmQ=="/>
+			<POI MapID="872" xpos="157.006" ypos="214.724" zpos="-96.1137" type="general.puzzles_de_saut.montagnard_de_gardebrume" GUID="hEy4vtctH0GcBkUHUEsvTQ=="/>
+			<POI MapID="872" xpos="165.47" ypos="212.286" zpos="-84.2919" type="general.puzzles_de_saut.montagnard_de_gardebrume" GUID="tTRJj3yvoUSki5skLhe++A=="/>
+			<POI MapID="872" xpos="171.278" ypos="220.067" zpos="-85.6604" type="general.puzzles_de_saut.montagnard_de_gardebrume" GUID="3UVKnWiENkyNfXG9lMgFNA=="/>
+			<POI MapID="872" xpos="178.419" ypos="221.376" zpos="-79.8987" type="general.puzzles_de_saut.montagnard_de_gardebrume" GUID="8hFO2jIR70GfeHpUFiJKbQ=="/>
+			<POI MapID="872" xpos="181.582" ypos="218.018" zpos="-71.8957" type="general.puzzles_de_saut.montagnard_de_gardebrume" GUID="EMpLNSAOR0+G5t8B4oVHkw=="/>
+			<POI MapID="872" xpos="186.094" ypos="221.632" zpos="-65.7598" type="general.puzzles_de_saut.montagnard_de_gardebrume" GUID="y41qkwqFIUeaBsE2C4VWjA=="/>
+			<POI MapID="872" xpos="189.15" ypos="223.787" zpos="-65.7147" type="general.puzzles_de_saut.montagnard_de_gardebrume" GUID="prZ5d5V8SEGYOz5uxidzzA=="/>
+			<POI MapID="872" xpos="192.872" ypos="226.952" zpos="-67.6454" type="general.puzzles_de_saut.montagnard_de_gardebrume" GUID="Kxw0GjxQjke1P/+Slp3Ggw=="/>
+			<POI MapID="872" xpos="197.894" ypos="223.575" zpos="-61.3085" type="general.puzzles_de_saut.montagnard_de_gardebrume" GUID="XL724EH630ingBebzQH1Kg=="/>
+			<POI MapID="872" xpos="199.928" ypos="225.67" zpos="-57.1578" type="general.puzzles_de_saut.montagnard_de_gardebrume" GUID="32yfRokEUkqOnJmZgsavZA=="/>
+			<POI MapID="872" xpos="197.697" ypos="226.735" zpos="-54.9941" type="general.puzzles_de_saut.montagnard_de_gardebrume" GUID="D9llTLpOEUKMTaXr4AqdJw=="/>
+			<POI MapID="872" xpos="192.301" ypos="230.661" zpos="-60.649" type="general.puzzles_de_saut.montagnard_de_gardebrume" GUID="pFx/wd7MIESBQXndW1hf0w=="/>
+			<POI MapID="872" xpos="189.455" ypos="231.134" zpos="-65.2605" type="general.puzzles_de_saut.montagnard_de_gardebrume" GUID="/UNQWtHAR021QWMfs0oCtQ=="/>
+			<POI MapID="872" xpos="193.647" ypos="235.691" zpos="-70.4711" type="general.puzzles_de_saut.montagnard_de_gardebrume" GUID="2UBkgzCqakKHNPM9wUQjSQ=="/>
+			<POI MapID="872" xpos="198.961" ypos="235.578" zpos="-64.7488" type="general.puzzles_de_saut.montagnard_de_gardebrume" GUID="ayqFVT6kLUewuXN+/UXjIQ=="/>
+			<POI MapID="872" xpos="204.389" ypos="237.934" zpos="-62.6049" type="general.puzzles_de_saut.montagnard_de_gardebrume" GUID="cFU8C6KQH0WdaxZjy/oEjw=="/>
+			<POI MapID="872" xpos="197.594" ypos="240.841" zpos="-67.151" type="general.puzzles_de_saut.montagnard_de_gardebrume" GUID="jDnefw887Uq4x9XR/s/g+A=="/>
+			<POI MapID="872" xpos="201.504" ypos="240.548" zpos="-69.2858" type="general.puzzles_de_saut.montagnard_de_gardebrume" GUID="aCixVGai20SPyxdJC2ytuQ=="/>
+			<POI MapID="872" xpos="203.514" ypos="239.296" zpos="-75.7078" type="general.puzzles_de_saut.montagnard_de_gardebrume" GUID="Xv+0akrm8EWaaQAB2eR6Zg=="/>
+			<POI MapID="872" xpos="199.668" ypos="235.584" zpos="-84.0693" type="general.puzzles_de_saut.montagnard_de_gardebrume" GUID="JPdtxcV2zkyagSszV0/EaQ=="/>
+			<POI MapID="872" xpos="202.136" ypos="227.341" zpos="-91.4998" type="general.puzzles_de_saut.montagnard_de_gardebrume" GUID="chluW8VoF0uP1G4N51a0fA=="/>
+			<POI MapID="872" xpos="200.365" ypos="222.828" zpos="-103.365" type="general.puzzles_de_saut.montagnard_de_gardebrume" GUID="V2v6oEez6EGdBqELjSnhdA=="/>
+			<POI MapID="872" xpos="192.041" ypos="227.979" zpos="-108.946" type="general.puzzles_de_saut.montagnard_de_gardebrume" GUID="vwAkqg01i0OtYLt+NyTlWg=="/>
+			<POI MapID="872" xpos="187.734" ypos="228.355" zpos="-116.79" type="general.puzzles_de_saut.montagnard_de_gardebrume" GUID="bKOal8P2PkaobJurSc0RRg=="/>
+			<POI MapID="872" xpos="184.599" ypos="216.913" zpos="-119.075" type="general.puzzles_de_saut.montagnard_de_gardebrume" GUID="slbgfj6dc0emSvfz3VaZMw=="/>
+			<POI MapID="872" xpos="179.205" ypos="212.596" zpos="-122.924" type="general.puzzles_de_saut.montagnard_de_gardebrume" GUID="eYZEXdbX7kGarPc6R9R/xw=="/>
+			<POI MapID="872" xpos="170.728" ypos="209.21" zpos="-128.313" type="general.puzzles_de_saut.montagnard_de_gardebrume" GUID="7nNmOBgr40amlzfoduvUsQ=="/>
+			<POI MapID="872" xpos="149.819" ypos="223.704" zpos="-131.451" type="general.puzzles_de_saut.montagnard_de_gardebrume" GUID="856G0l0JMkCi49fykQDJ7g=="/>
+			<POI MapID="872" xpos="155.413" ypos="223.626" zpos="-146.135" type="general.puzzles_de_saut.montagnard_de_gardebrume" GUID="kbbeYgJpykGBqBYjTROFQw=="/>
+			<POI MapID="872" xpos="167.224" ypos="223.849" zpos="-144.541" type="general.puzzles_de_saut.montagnard_de_gardebrume" GUID="wJgUEE/GHEG5oD7f5fr2gg=="/>
+			<POI MapID="872" xpos="167.544" ypos="229.717" zpos="-131.081" type="general.puzzles_de_saut.montagnard_de_gardebrume" GUID="Cm4IQNsnK0aqG0rnBYpPCQ=="/>
+			<POI MapID="872" xpos="154.174" ypos="231.063" zpos="-133.682" type="general.puzzles_de_saut.montagnard_de_gardebrume" GUID="Ub+z/G/O8kSzordQyBQwjA=="/>
+			<POI MapID="872" xpos="138.377" ypos="229.935" zpos="-133.565" type="general.puzzles_de_saut.montagnard_de_gardebrume" GUID="41X3xQyrBEGG2xFq9DBwEA=="/>
+			<POI MapID="872" xpos="129.141" ypos="227.293" zpos="-128.565" type="general.puzzles_de_saut.montagnard_de_gardebrume" GUID="jKYvTGIMRU+PDdPzknK8YA=="/>
+			<POI MapID="872" xpos="118.782" ypos="224.889" zpos="-128.678" type="general.puzzles_de_saut.montagnard_de_gardebrume" GUID="X0XAnZ8H5Ui7G66GhxMbGA=="/>
+			<POI MapID="872" xpos="111.266" ypos="235.461" zpos="-141.233" type="general.puzzles_de_saut.montagnard_de_gardebrume" GUID="CoOplxipRkSJ+Swe1KDv4g=="/>
+			<POI MapID="872" xpos="102.838" ypos="238.229" zpos="-140.689" type="general.puzzles_de_saut.montagnard_de_gardebrume" GUID="og+EgMKRjUanxOPlLaSrEw=="/>
+			<POI MapID="872" xpos="108.029" ypos="245.271" zpos="-141.436" type="general.puzzles_de_saut.montagnard_de_gardebrume" GUID="TxvcH8JJM06FMDYYiLY1wA=="/>
+			<POI MapID="872" xpos="104.246" ypos="243.392" zpos="-122.439" type="general.puzzles_de_saut.montagnard_de_gardebrume" GUID="z35/N31mBkG0lhjVcytPbg=="/>
+		</Route>
+
+		<!-- Coffre -->
+		<POI MapID="872" xpos="102.177" ypos="243.24" zpos="-118.665" type="general.puzzles_de_saut.montagnard_de_gardebrume" GUID="dnitkrE/f0eCkqF42Lsd9w==" iconFile="Img\CoffrePuzzle.png" iconSize="1" heightOffset="2.5" behavior="2"/>
+
+	</POIs>
+</OverlayData>

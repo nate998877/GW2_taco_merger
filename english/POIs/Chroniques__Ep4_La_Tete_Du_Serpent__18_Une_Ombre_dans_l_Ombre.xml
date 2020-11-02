@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+POIs: ReActif.9251
+Date: 2017/02/12
+-->
+<OverlayData>
+	<MarkerCategory name="chroniques.saison_3">
+		<MarkerCategory name="ep4_la_tete_du_serpent" DisplayName="Ep.4 - The Head of the Snake" iconFile="Img\LacDoric.png">
+			<MarkerCategory name="une_ombre_dans_l_ombre" DisplayName="Shadow in the Shadows"/>
+		</MarkerCategory>
+	</MarkerCategory>
+
+	<POIs>
+
+		<!-- Passages d'Ombre -->
+		<POI MapID="1190" xpos="63.9458" ypos="138.804" zpos="-112.145" type="chroniques.saison_3.ep4_la_tete_du_serpent.une_ombre_dans_l_ombre" GUID="8prvJQPb/kyCtfWawyni6Q=="/>
+		<POI MapID="1190" xpos="78.2118" ypos="139.604" zpos="-107.096" type="chroniques.saison_3.ep4_la_tete_du_serpent.une_ombre_dans_l_ombre" GUID="GyAaKpgPyUaoQOrfcMDM/A=="/>
+		<POI MapID="1190" xpos="80.9376" ypos="140.209" zpos="-128.377" type="chroniques.saison_3.ep4_la_tete_du_serpent.une_ombre_dans_l_ombre" GUID="rA1ZU3CD20a+rTRKwRSzDw=="/>
+		<POI MapID="1190" xpos="55.1102" ypos="138.665" zpos="-60.9705" type="chroniques.saison_3.ep4_la_tete_du_serpent.une_ombre_dans_l_ombre" GUID="67V1ZhmvHEq/aiH+AIF8Vw=="/>
+		<POI MapID="1190" xpos="61.0147" ypos="141.167" zpos="-89.3532" type="chroniques.saison_3.ep4_la_tete_du_serpent.une_ombre_dans_l_ombre" GUID="wtTgvd6+NkOCrc+NBH/boA=="/>
+		<POI MapID="1190" xpos="68.1746" ypos="141.237" zpos="-95.6073" type="chroniques.saison_3.ep4_la_tete_du_serpent.une_ombre_dans_l_ombre" GUID="WA8qkH2o40i04LFFTlnKtA=="/>
+		<POI MapID="1190" xpos="76.7879" ypos="138.393" zpos="-56.8593" type="chroniques.saison_3.ep4_la_tete_du_serpent.une_ombre_dans_l_ombre" GUID="zIvJYM80z02pHjA7PRMd0Q=="/>
+
+	</POIs>
+</OverlayData>

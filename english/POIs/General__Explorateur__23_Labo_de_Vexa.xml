@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+POIs: ReActif.9251
+Date: 2016/12/27
+-->
+<OverlayData>
+	<MarkerCategory name="general" DisplayName="General">
+		<MarkerCategory name="explorateur" DisplayName="Explorer" iconFile="Img\Explorateur.png" behavior="3">
+			<MarkerCategory name="labo_de_vexa" DisplayName="Vexa's Lab">
+				<MarkerCategory name="acces" DisplayName="Guide" iconFile="Img\Guide.png" iconSize="0.75"/>
+			</MarkerCategory>
+		</MarkerCategory>
+	</MarkerCategory>
+
+	<POIs>
+
+		<!-- Entrée -->
+		<POI MapID="22" xpos="353.599" ypos="36.8533" zpos="-3.71669" type="general.explorateur.labo_de_vexa.acces" GUID="Gri8vHLTYEuliMud7lBJRw==" iconFile="Img\Fleche.png" iconSize="1.5"/>
+
+		<!-- Segment 1 -->
+		<Route MapID="22" name="Segment_1" resetposx="-353.599" resetposy="36.8533" resetposz="-3.71669" resetrange="2">
+			<POI MapID="22" xpos="353.016" ypos="37.0629" zpos="1.39639" type="general.explorateur.labo_de_vexa.acces" GUID="qMX/GL1phUCeNJuARnS4nQ=="/>
+			<POI MapID="22" xpos="350.96" ypos="36.3467" zpos="6.49692" type="general.explorateur.labo_de_vexa.acces" GUID="c0uibEEQdUuY289gDXMf+A=="/>
+			<POI MapID="22" xpos="345.736" ypos="36.8343" zpos="10.6892" type="general.explorateur.labo_de_vexa.acces" GUID="9WI/BL3esU6ILKT0RUDbpg=="/>
+			<POI MapID="22" xpos="345.686" ypos="36.8122" zpos="17.1119" type="general.explorateur.labo_de_vexa.acces" GUID="vOMWWj6oOUi7SBbCR6ciQw=="/>
+			<POI MapID="22" xpos="342.363" ypos="37.4137" zpos="19.7865" type="general.explorateur.labo_de_vexa.acces" GUID="xt8hls1530+1002/uiKX7g=="/>
+			<POI MapID="22" xpos="342.763" ypos="38.1399" zpos="24.5937" type="general.explorateur.labo_de_vexa.acces" GUID="qL2KiZ87Wk2e/G5cSfgq+g=="/>
+			<POI MapID="22" xpos="348.698" ypos="37.0041" zpos="29.1522" type="general.explorateur.labo_de_vexa.acces" GUID="nRFT6yLnC0uJc2Lnf2UlXg=="/>
+			<POI MapID="22" xpos="353.246" ypos="37.1694" zpos="33.4983" type="general.explorateur.labo_de_vexa.acces" GUID="L4zSB6Qht0iDlou3o88USw=="/>
+			<POI MapID="22" xpos="352.968" ypos="37.1633" zpos="39.5543" type="general.explorateur.labo_de_vexa.acces" GUID="7yiP00msSESV0PTddcEj+Q=="/>
+			<POI MapID="22" xpos="356.541" ypos="37.385" zpos="44.4775" type="general.explorateur.labo_de_vexa.acces" GUID="lNuLScLyu0yjguA/thjRIg=="/>
+			<POI MapID="22" xpos="357.112" ypos="37.3589" zpos="50.7329" type="general.explorateur.labo_de_vexa.acces" GUID="l7dwmInoT0OM/I9LalUSeQ=="/>
+			<POI MapID="22" xpos="351.523" ypos="37.0221" zpos="54.4126" type="general.explorateur.labo_de_vexa.acces" GUID="r4wzEAgmcUOeiWv4GaS5Jw=="/>
+			<POI MapID="22" xpos="350.441" ypos="37.0131" zpos="60.6639" type="general.explorateur.labo_de_vexa.acces" GUID="RgDCM+8B7EOa+Wjx5edTtw=="/>
+			<POI MapID="22" xpos="345.192" ypos="37.0489" zpos="62.5605" type="general.explorateur.labo_de_vexa.acces" GUID="ZfXzrHELyEKmTqqpeyfO7A=="/>
+			<POI MapID="22" xpos="-362.645" ypos="28.162" zpos="-669.194" type="general.explorateur.labo_de_vexa.acces" GUID="uFWAKB0XWE+hvG/7X7nYTg=="/>
+			<POI MapID="22" xpos="-348.025" ypos="26.1052" zpos="-667.163" type="general.explorateur.labo_de_vexa.acces" GUID="JQlP97ZUcUyH+B/GnEfMkQ=="/>
+			<POI MapID="22" xpos="-336.124" ypos="26.126" zpos="-667.796" type="general.explorateur.labo_de_vexa.acces" GUID="CmXDAXx+YUm6hizLuHO16Q==" triggerRange="5"/>
+			<POI MapID="22" xpos="-326.407" ypos="25.8845" zpos="-674.305" type="general.explorateur.labo_de_vexa.acces" GUID="DD8HfBCCHUWr+99H0v0PTA==" triggerRange="5"/>
+			<POI MapID="22" xpos="-319.277" ypos="25.1302" zpos="-682.463" type="general.explorateur.labo_de_vexa.acces" GUID="xMXvDuzNLESAanLJU1fdRQ=="/>
+			<POI MapID="22" xpos="-312.014" ypos="23.2064" zpos="-692.168" type="general.explorateur.labo_de_vexa.acces" GUID="idaQV9XV60Opj71HgYlmeA=="/>
+			<POI MapID="22" xpos="-303.256" ypos="22.6438" zpos="-700.129" type="general.explorateur.labo_de_vexa.acces" GUID="/pTwmILBmkqNE1tMsjrpvQ=="/>
+			<POI MapID="22" xpos="-293.954" ypos="22.936" zpos="-701.331" type="general.explorateur.labo_de_vexa.acces" GUID="ovYBk8pC3E2+YdJLjUP2og=="/>
+			<POI MapID="22" xpos="-283.394" ypos="28.5075" zpos="-701.615" type="general.explorateur.labo_de_vexa.acces" GUID="pcVWgesNsU2AHJ7pqAxxbQ=="/>
+			<POI MapID="22" xpos="-271.74" ypos="28.2804" zpos="-701.321" type="general.explorateur.labo_de_vexa.acces" GUID="p3LH0NffT0KF/uPeg+Eeig==" iconFile="Img\Combat.png" iconSize="1" color="ffff0000"/>
+			<POI MapID="22" xpos="-273.68" ypos="28.4393" zpos="-716.439" type="general.explorateur.labo_de_vexa.acces" GUID="aWf46rhbSUa9h8MaKmDiYA=="/>
+			<POI MapID="22" xpos="-283.864" ypos="31.5283" zpos="-723.669" type="general.explorateur.labo_de_vexa.acces" GUID="hCCfam4buUKuoAqpvEAqZA=="/>
+			<POI MapID="22" xpos="-298.218" ypos="31.6298" zpos="-721.672" type="general.explorateur.labo_de_vexa.acces" GUID="bYW/3pxZ6UaoD6J4ya0+Sg=="/>
+			<POI MapID="22" xpos="-307.228" ypos="31.5155" zpos="-714.626" type="general.explorateur.labo_de_vexa.acces" GUID="2RUkkosadEKxPElYEHg1VA==" triggerRange="5"/>
+			<POI MapID="22" xpos="-316.706" ypos="31.5234" zpos="-712.618" type="general.explorateur.labo_de_vexa.acces" GUID="9QKQmpZmP0yTmp9n5MAWQg=="/>
+			<POI MapID="22" xpos="-323.407" ypos="29.7599" zpos="-713.211" type="general.explorateur.labo_de_vexa.acces" GUID="xusmcaglckWqQCq2/S1I7Q=="/>
+			<POI MapID="22" xpos="-329.514" ypos="24.4125" zpos="-713.923" type="general.explorateur.labo_de_vexa.acces" GUID="yAaqyPAEyEWTQ+xKqOSfkQ=="/>
+			<POI MapID="22" xpos="-340.131" ypos="21.0048" zpos="-713.693" type="general.explorateur.labo_de_vexa.acces" GUID="RdGIVeSfoEyV3PUIwACBDA=="/>
+		</Route>
+
+		<!-- Chemin Aléatoire 1 (Rouge) -->
+		<POI MapID="22" xpos="-372" ypos="9.5" zpos="-730" type="general.explorateur.labo_de_vexa.acces" GUID="l8iM1/10lE6M/pPddTPq2Q==" iconFile="Img\1.png" iconSize="1" color="ffff0000"/>
+		<POI MapID="22" xpos="-379" ypos="21" zpos="-750" type="general.explorateur.labo_de_vexa.acces" GUID="heZANuo9hkSdtkOZN5DCWQ==" iconFile="Img\2.png" iconSize="1" color="ffff0000"/>
+		<POI MapID="22" xpos="-376" ypos="43.5" zpos="-732" type="general.explorateur.labo_de_vexa.acces" GUID="KmFBE5nnX0KbJDAB5F3IPA==" iconFile="Img\3.png" iconSize="1" color="ffff0000"/>
+
+		<!-- Chemin Aléatoire 2 (Jaune) -->
+		<POI MapID="22" xpos="-370" ypos="9.5" zpos="-730" type="general.explorateur.labo_de_vexa.acces" GUID="giBqS23gkUy4EzqxT9Q8lQ==" iconFile="Img\1.png" iconSize="1" color="ffffd800"/>
+		<POI MapID="22" xpos="-342.5" ypos="27.5" zpos="-744" type="general.explorateur.labo_de_vexa.acces" GUID="nVLTJqTLB0SyoWdcLHwQ2Q==" iconFile="Img\2.png" iconSize="1" color="ffffd800"/>
+		<POI MapID="22" xpos="-376" ypos="43.5" zpos="-734" type="general.explorateur.labo_de_vexa.acces" GUID="KsA+ORVib062ZwIg9H5EbQ==" iconFile="Img\3.png" iconSize="1" color="ffffd800"/>
+
+		<!-- Chemin Aléatoire 3 (Bleu) -->
+		<POI MapID="22" xpos="-380" ypos="21" zpos="-704" type="general.explorateur.labo_de_vexa.acces" GUID="rj+rq+DTZEiNiXKzmNfuhQ==" iconFile="Img\1.png" iconSize="1" color="fff0026ff"/>
+		<POI MapID="22" xpos="-342.5" ypos="27.5" zpos="-742" type="general.explorateur.labo_de_vexa.acces" GUID="dLWy1F3mtkapCfZj08DagQ==" iconFile="Img\2.png" iconSize="1" color="ff0026ff"/>
+		<POI MapID="22" xpos="-375" ypos="43.5" zpos="-733" type="general.explorateur.labo_de_vexa.acces" GUID="m/Cu680uO0i9IUNKvCxLJA==" iconFile="Img\3.png" iconSize="1" color="ff0026ff"/>
+
+		<!-- Chemin Aléatoire 4 (Vert) -->
+		<POI MapID="22" xpos="-380" ypos="21" zpos="-706" type="general.explorateur.labo_de_vexa.acces" GUID="YkacnitQZka9Hj+1KEJutw==" iconFile="Img\1.png" iconSize="1" color="ff00c113"/>
+		<POI MapID="22" xpos="-379" ypos="19" zpos="-750" type="general.explorateur.labo_de_vexa.acces" GUID="hlWPKFDFd0CzoZkEltL1yA==" iconFile="Img\2.png" iconSize="1" color="ff00c113"/>
+		<POI MapID="22" xpos="-377" ypos="43.5" zpos="-733" type="general.explorateur.labo_de_vexa.acces" GUID="YjvSePN8gUqMc+WHSGUllg==" iconFile="Img\3.png" iconSize="1" color="ff00c113"/>
+
+		<!-- Segment 2 -->
+		<Route MapID="22" name="Segment_2" resetposx="-374.727" resetposy="39.8906" resetposz="-778.619" resetrange="5">
+			<POI MapID="22" xpos="-374.74" ypos="39.8941" zpos="-790.904" type="general.explorateur.labo_de_vexa.acces" GUID="w2b7v+emqkm6lsiJnfXQLA=="/>
+			<POI MapID="22" xpos="-382.367" ypos="37.8502" zpos="-807.477" type="general.explorateur.labo_de_vexa.acces" GUID="HXib+qz+I0KQ2fW9haOduQ=="/>
+			<POI MapID="22" xpos="-397.927" ypos="35.3484" zpos="-815.894" type="general.explorateur.labo_de_vexa.acces" GUID="vMQ0A2IZZ0y6eqIK2dexyQ=="/>
+			<POI MapID="22" xpos="-406.858" ypos="32.3513" zpos="-803.91" type="general.explorateur.labo_de_vexa.acces" GUID="xRk8RfYLFEyp/nR7xdHZ5A=="/>
+			<POI MapID="22" xpos="-406.776" ypos="28.004" zpos="-790.995" type="general.explorateur.labo_de_vexa.acces" GUID="XOCXorEp2kCWaNCTqg/qvg=="/>
+			<POI MapID="22" xpos="-406.581" ypos="23.7216" zpos="-775.836" type="general.explorateur.labo_de_vexa.acces" GUID="KrzgmerVv0KDG87FwEH/kQ=="/>
+			<POI MapID="22" xpos="-421.107" ypos="21.3452" zpos="-777.475" type="general.explorateur.labo_de_vexa.acces" GUID="4jx5KDEnB0ab0gYXYZINxQ=="/>
+			<POI MapID="22" xpos="-431.082" ypos="18.4185" zpos="-783.157" type="general.explorateur.labo_de_vexa.acces" GUID="VGbMlKOpj0uMd7TyOKQvaA=="/>
+		</Route>
+
+		<!-- Segment 3 -->
+		<Route MapID="22" name="Segment_2" resetposx="-429.02" resetposy="17.4" resetposz="-791.76" resetrange="5">
+			<POI MapID="22" xpos="-438.511" ypos="17.0625" zpos="-796.534" type="general.explorateur.labo_de_vexa.acces" GUID="OGRZTYbL3E65Z4qA5J+z5g=="/>
+			<POI MapID="22" xpos="-436.59" ypos="13.1978" zpos="-808.312" type="general.explorateur.labo_de_vexa.acces" GUID="kqr51MCPfUGv9sJlcOwfIw=="/>
+			<POI MapID="22" xpos="-433.442" ypos="13.4339" zpos="-826.649" type="general.explorateur.labo_de_vexa.acces" GUID="H/RNP3NpdUeAQJrJ3WVO4g=="/>
+			<POI MapID="22" xpos="-418.964" ypos="13.4397" zpos="-839.061" type="general.explorateur.labo_de_vexa.acces" GUID="wbcsgoY2eUet7H20nvc4jg==" triggerRange="7"/>
+			<POI MapID="22" xpos="-408.579" ypos="13.4341" zpos="-838.957" type="general.explorateur.labo_de_vexa.acces" GUID="8zJpNEtMwEi66TYXxOxunw==" triggerRange="7"/>
+			<POI MapID="22" xpos="-397.754" ypos="13.4378" zpos="-839.156" type="general.explorateur.labo_de_vexa.acces" GUID="/1mhOAD6TkqYoQwcjdTb7g==" triggerRange="7"/>
+			<POI MapID="22" xpos="-382.452" ypos="13.6756" zpos="-838.764" type="general.explorateur.labo_de_vexa.acces" GUID="9M1AqNZtJE2QpbeeF3+RNg==" triggerRange="7"/>
+			<POI MapID="22" xpos="-370.22" ypos="13.7368" zpos="-833.359" type="general.explorateur.labo_de_vexa.acces" GUID="d2Ypz8ApvESOdRKIWZatRQ==" triggerRange="7"/>
+			<POI MapID="22" xpos="-359.485" ypos="9.75111" zpos="-822.565" type="general.explorateur.labo_de_vexa.acces" GUID="unwaoxP7bk283jJvE5YjQQ==" triggerRange="7"/>
+			<POI MapID="22" xpos="-360.48" ypos="9.57323" zpos="-806.891" type="general.explorateur.labo_de_vexa.acces" GUID="m0vzcSHsyEePByiz7O83lQ==" triggerRange="7"/>
+			<POI MapID="22" xpos="-351.467" ypos="9.97056" zpos="-797.695" type="general.explorateur.labo_de_vexa.acces" GUID="yChN/4OfR0ym+PRIQp507Q==" triggerRange="7"/>
+			<POI MapID="22" xpos="-340.19" ypos="9.97056" zpos="-796.479" type="general.explorateur.labo_de_vexa.acces" GUID="P+1RixrJ9E2aHuuxWk+FVg==" triggerRange="7"/>
+			<POI MapID="22" xpos="-324.885" ypos="9.82187" zpos="-796.749" type="general.explorateur.labo_de_vexa.acces" GUID="KTVZ+xJ4aEKGaLN32djDSA==" triggerRange="7"/>
+			<POI MapID="22" xpos="-307.059" ypos="9.39758" zpos="-796.604" type="general.explorateur.labo_de_vexa.acces" GUID="s2LYskCL8kafDtjAMWJAng=="/>
+			<POI MapID="22" xpos="-280.592" ypos="5.33451" zpos="-796.547" type="general.explorateur.labo_de_vexa.acces" GUID="yFudHGBhu0aePWSsqZ40ww==" iconFile="Img\Combat.png" iconSize="1" color="ffff0000"/>
+		</Route>
+
+		<!-- Coffre -->
+		<POI MapID="22" xpos="-272.386" ypos="5.23588" zpos="-797.493" type="general.explorateur.labo_de_vexa" GUID="+JXhLYu8gUyrV/wBTCTzWA==" iconFile="Img\CoffreMiniDonjon.png" heightOffset="2"/>
+
+	</POIs>
+</OverlayData>

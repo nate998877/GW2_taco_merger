@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+POIs: ReActif.9251
+Date: 2017/02/12
+Note: Il est possible de répondre aussi "Poulet" puis "Centaure".
+-->
+<OverlayData>
+	<MarkerCategory name="chroniques.saison_3">
+		<MarkerCategory name="ep4_la_tete_du_serpent" DisplayName="Ep.4 - The Head of the Snake" iconFile="Img\LacDoric.png">
+			<MarkerCategory name="le_mot_de_l_enigme" DisplayName="Riddle Me This" heightOffset="3"/>
+		</MarkerCategory>
+	</MarkerCategory>
+
+	<POIs>
+
+		<!-- 1. Maïs -->
+		<POI MapID="1191" xpos="-238.68" ypos="39.62" zpos="-259.53" type="chroniques.saison_3.ep4_la_tete_du_serpent.le_mot_de_l_enigme" GUID="o9BR4vOLBkCTOEljTzQjag==" heightOffset="3"/>
+
+		<!-- 2. Charr -->
+		<POI MapID="1191" xpos="-260.52" ypos="39.62" zpos="-247.31" type="chroniques.saison_3.ep4_la_tete_du_serpent.le_mot_de_l_enigme" GUID="2JRgcKyenkqgn+5JTwMskQ==" heightOffset="4"/>
+
+	</POIs>
+</OverlayData>

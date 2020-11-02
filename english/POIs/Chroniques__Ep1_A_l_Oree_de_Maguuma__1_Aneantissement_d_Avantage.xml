@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+POIs: ReActif.9251
+Date: 2017/03/08
+-->
+<OverlayData>
+	<MarkerCategory name="chroniques.saison_2">
+		<MarkerCategory name="ep1_a_l_oree_de_maguuma" DisplayName="Ep.1 - Gates of Maguuma" iconFile="Img\Saison2AOreeDeMaguuma.png">
+			<MarkerCategory name="aneantissement_d_avantage" DisplayName="Dashed Advantage"/>
+		</MarkerCategory>
+	</MarkerCategory>
+
+	<POIs>
+
+		<!-- Parcours -->
+		<POI MapID="990" xpos="-14.2563" ypos="48.071" zpos="-509.449" type="chroniques.saison_2.ep1_a_l_oree_de_maguuma.aneantissement_d_avantage" GUID="17uYSQLIyE+pd11IbIn0YQ==" iconFile="Img\BondAssiste.png" iconSize="0.5" alpha="0.7" heightOffset="0"/>
+		<POI MapID="990" xpos="-12.4459" ypos="57.2967" zpos="-504.445" type="chroniques.saison_2.ep1_a_l_oree_de_maguuma.aneantissement_d_avantage" GUID="CLPTnYnlck+6VgU5zmZykg==" iconFile="Img\Cible.png" iconSize="0.5"/>
+		<POI MapID="990" xpos="-11.6735" ypos="57.8283" zpos="-496.026" type="chroniques.saison_2.ep1_a_l_oree_de_maguuma.aneantissement_d_avantage" GUID="Qz3UwZGpRkSTX7R9luwXoA==" iconFile="Img\BondAssiste.png" iconSize="0.5" alpha="0.7" heightOffset="0"/>
+		<POI MapID="990" xpos="-15.2693" ypos="66.8712" zpos="-492.946" type="chroniques.saison_2.ep1_a_l_oree_de_maguuma.aneantissement_d_avantage" GUID="MRbPlIMKh0Se6BPEeHNhow==" iconFile="Img\Cible.png" iconSize="0.5"/>
+		<POI MapID="990" xpos="-25.6586" ypos="75.5205" zpos="-464.483" type="chroniques.saison_2.ep1_a_l_oree_de_maguuma.aneantissement_d_avantage" GUID="9qk97jC4GUqg+lC4+JXiEw==" iconFile="Img\RueeDeLaLumiere.png" iconSize="0.5" alpha="0.7" heightOffset="0"/>
+		<POI MapID="990" xpos="-30.1954" ypos="74.7613" zpos="-455.607" type="chroniques.saison_2.ep1_a_l_oree_de_maguuma.aneantissement_d_avantage" GUID="LMVHSZw7IU2hYlop+rYV/g==" iconFile="Img\Cible.png" iconSize="0.5"/>
+
+		<!-- Combat (panier) -->
+		<POI MapID="990" xpos="-61.4038" ypos="73.2912" zpos="-333.827" type="chroniques.saison_2.ep1_a_l_oree_de_maguuma.aneantissement_d_avantage" GUID="gNI0D31uGEOgr+Cse+suBw==" iconFile="Img\Combat.png" iconSize="2" color="ffff0000"/>
+
+
+	</POIs>
+</OverlayData>

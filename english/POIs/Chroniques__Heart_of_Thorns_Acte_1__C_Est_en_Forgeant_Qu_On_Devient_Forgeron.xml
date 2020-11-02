@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+POIs: ReActif.9251
+Date: 2017/03/01
+-->
+<OverlayData>
+	<MarkerCategory name="chroniques.hot">
+		<MarkerCategory name="acte_1" DisplayName="Heart of Thorns : Act 1" iconFile="Img\HeartOfThornsActe1.png">
+			<MarkerCategory name="c_est_en_forgeant_qu_on_devient_forgeron" DisplayName="My Friends, the Smiths"/>
+		</MarkerCategory>
+	</MarkerCategory>
+
+	<POIs>
+
+		<!-- Secourir les Maîtres Forgerons -->
+		<POI MapID="1051" xpos="-699.17" ypos="422.736" zpos="-12.5935" type="chroniques.hot.acte_1.c_est_en_forgeant_qu_on_devient_forgeron" GUID="EREazW3ksk6xcvUSGnfLPQ=="/>
+		<POI MapID="1051" xpos="-652.937" ypos="464.373" zpos="53.5441" type="chroniques.hot.acte_1.c_est_en_forgeant_qu_on_devient_forgeron" GUID="cSXZp6yi6k2CK+WpQEBK8Q=="/>
+		<POI MapID="1051" xpos="-513.595" ypos="463.29" zpos="65.3898" type="chroniques.hot.acte_1.c_est_en_forgeant_qu_on_devient_forgeron" GUID="MUq/kun+qkCdPR0v0L7Hhg=="/>
+		<POI MapID="1051" xpos="-601.686" ypos="452.448" zpos="155.792" type="chroniques.hot.acte_1.c_est_en_forgeant_qu_on_devient_forgeron" GUID="Nvuroxs3HUeon7vrctq0Sg=="/>
+		<POI MapID="1051" xpos="-732.997" ypos="464.134" zpos="-25.4067" type="chroniques.hot.acte_1.c_est_en_forgeant_qu_on_devient_forgeron" GUID="Ll/I/u6ZU0Wie7R7u87m9g=="/>
+
+	</POIs>
+</OverlayData>

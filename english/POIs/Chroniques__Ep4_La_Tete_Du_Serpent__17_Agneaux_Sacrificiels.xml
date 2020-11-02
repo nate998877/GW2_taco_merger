@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+POIs: ReActif.9251
+Date: 2017/02/12
+-->
+<OverlayData>
+	<MarkerCategory name="chroniques.saison_3">
+		<MarkerCategory name="ep4_la_tete_du_serpent" DisplayName="Ep.4 - The Head of the Snake" iconFile="Img\LacDoric.png">
+			<MarkerCategory name="agneaux_sacrificiels" DisplayName="Sacrificial Lambs"/>
+		</MarkerCategory>
+	</MarkerCategory>
+
+	<POIs>
+
+		<!-- PNJ à Sauver -->
+		<POI MapID="1190" xpos="-8.9662" ypos="138.686" zpos="-105.798" type="chroniques.saison_3.ep4_la_tete_du_serpent.agneaux_sacrificiels" GUID="nePIt+tcbEqX0+ffRznuRA=="/>
+		<POI MapID="1190" xpos="51.4551" ypos="141.206" zpos="-74.5969" type="chroniques.saison_3.ep4_la_tete_du_serpent.agneaux_sacrificiels" GUID="LlA15zVCXUiW7n/xr5g4eg=="/>
+		<POI MapID="1190" xpos="108.466" ypos="142.686" zpos="-77.0035" type="chroniques.saison_3.ep4_la_tete_du_serpent.agneaux_sacrificiels" GUID="+4IFOnDQOka6HnL6mtyHIA=="/>
+		<POI MapID="1190" xpos="161.159" ypos="145.224" zpos="-86.8841" type="chroniques.saison_3.ep4_la_tete_du_serpent.agneaux_sacrificiels" GUID="+vSs+HuHcU+z1k9nn/KUBg=="/>
+
+	</POIs>
+</OverlayData>

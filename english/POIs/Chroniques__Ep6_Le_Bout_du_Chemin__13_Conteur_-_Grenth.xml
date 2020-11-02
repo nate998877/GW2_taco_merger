@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+POIs: ReActif.9251
+Date: 2017/08/11
+-->
+<OverlayData>
+	<MarkerCategory name="chroniques.saison_3">
+		<MarkerCategory name="ep6_le_bout_du_chemin" DisplayName="Ep.6 - One Path Ends" iconFile="Img\LeBoutduChemin.png">
+			<MarkerCategory name="conteur__grenth" DisplayName="Storyteller: Grenth"/>
+		</MarkerCategory>
+	</MarkerCategory>
+
+	<POIs>
+
+		<!-- 1 --><POI MapID="1203" xpos="-659.59"  ypos="77.0786"  zpos="-140.387" type="chroniques.saison_3.ep6_le_bout_du_chemin.conteur__grenth" GUID="dJkUgdkdm0S4kXX9IL2pOQ=="/>
+		<!-- 2 --><POI MapID="1203" xpos="-470.207" ypos="-63.292"  zpos="-160.273" type="chroniques.saison_3.ep6_le_bout_du_chemin.conteur__grenth" GUID="EjFuSQq/j0iUZdfUbwRl1w=="/>
+		<!-- 3 --><POI MapID="1203" xpos="-575.276" ypos="50.8546"  zpos="-212.485" type="chroniques.saison_3.ep6_le_bout_du_chemin.conteur__grenth" GUID="u6Xhf2DYiEGiWunqzAkl0Q=="/>
+		<!-- 4 --><POI MapID="1203" xpos="-663.575" ypos="76.2221"  zpos="-143.811" type="chroniques.saison_3.ep6_le_bout_du_chemin.conteur__grenth" GUID="whHLlrr6W0KBkanNBnkdwQ=="/>
+		<!-- 5 --><POI MapID="1203" xpos="-507.075" ypos="67.2695"  zpos="-69.846"  type="chroniques.saison_3.ep6_le_bout_du_chemin.conteur__grenth" GUID="sJ5lOVl4N0ynN5IwH2CZkA=="/>
+		<!-- 6 --><POI MapID="1203" xpos="-401.803" ypos="34.877"   zpos="-238.435" type="chroniques.saison_3.ep6_le_bout_du_chemin.conteur__grenth" GUID="D4jT7447WkOQJuxJOyCGEw=="/>
+		<!-- 7 --><POI MapID="1203" xpos="773.646"  ypos="17.9904"  zpos="-184.862" type="chroniques.saison_3.ep6_le_bout_du_chemin.conteur__grenth" GUID="P8J5wtWb0EyV0dZswWqSvA=="/>
+		<!-- 8 --><POI MapID="1203" xpos="327.901"  ypos="-60.4285" zpos="356.125"  type="chroniques.saison_3.ep6_le_bout_du_chemin.conteur__grenth" GUID="sJmxY1kB4Uy/8wqe2D+aXw=="/>
+
+	</POIs>
+</OverlayData>

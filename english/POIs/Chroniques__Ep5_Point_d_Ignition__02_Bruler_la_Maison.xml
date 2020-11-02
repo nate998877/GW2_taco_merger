@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+POIs: ReActif.9251
+Date: 2017/05/05
+-->
+<OverlayData>
+	<MarkerCategory name="chroniques.saison_3">
+		<MarkerCategory name="ep5_point_d_ignition" DisplayName="Ep.5 - Flashpoint" iconFile="Img\MontDraconis.png">
+			<MarkerCategory name="bruler_la_maison" DisplayName="Burnin' Down the House"/>
+		</MarkerCategory>
+	</MarkerCategory>
+
+	<POIs>
+
+		<!-- Baril d'huile -->
+		<POI MapID="1195" xpos="329.3" ypos="438.75" zpos="81.13" type="chroniques.saison_3.ep5_point_d_ignition.bruler_la_maison" GUID="1vEnh5TW1kavst4zCvf47Q=="/>
+		<POI MapID="1195" xpos="329.3" ypos="440.75" zpos="81.13" type="chroniques.saison_3.ep5_point_d_ignition.bruler_la_maison" GUID="ITk8j/YW0UyZu3KKDhty3w==" iconFile="Img\1.png" color="ff00ff00"/>
+
+		<!-- Tourelle -->
+		<POI MapID="1195" xpos="332.62" ypos="439.10" zpos="85.25" type="chroniques.saison_3.ep5_point_d_ignition.bruler_la_maison" GUID="egES6E2oNUaAbP9FArLvvw=="/>
+		<POI MapID="1195" xpos="332.62" ypos="441.10" zpos="85.25" type="chroniques.saison_3.ep5_point_d_ignition.bruler_la_maison" GUID="Rz58HHf3MUGpGSvE6wG4qw==" iconFile="Img\2.png" color="ffff8000"/>
+
+		<!-- Feu -->
+		<POI MapID="1195" xpos="334.03" ypos="438.07" zpos="69.80" type="chroniques.saison_3.ep5_point_d_ignition.bruler_la_maison" GUID="VxC1/SufqUmQ7SYJYoGVHw=="/>
+		<POI MapID="1195" xpos="334.03" ypos="440.07" zpos="69.80" type="chroniques.saison_3.ep5_point_d_ignition.bruler_la_maison" GUID="E/39DDCURkq3qA6bo7y9ow==" iconFile="Img\3.png" color="ffff0000"/>
+
+	</POIs>
+</OverlayData>

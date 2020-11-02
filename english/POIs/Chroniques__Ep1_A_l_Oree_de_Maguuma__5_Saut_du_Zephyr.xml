@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+POIs: ReActif.9251
+Date: 2017/05/26
+-->
+<OverlayData>
+	<MarkerCategory name="chroniques.saison_2">
+		<MarkerCategory name="ep1_a_l_oree_de_maguuma" DisplayName="Ep.1 - Gates of Maguuma" iconFile="Img\Saison2AOreeDeMaguuma.png">
+			<MarkerCategory name="saut_du_zephyr" DisplayName="Zephyr's Lead"/>
+		</MarkerCategory>
+	</MarkerCategory>
+
+	<POIs>
+
+		<!-- Saut -->
+		<POI MapID="992" xpos="324.687" ypos="136.354" zpos="-405.17" type="chroniques.saison_2.ep1_a_l_oree_de_maguuma.saut_du_zephyr" GUID="6G84ZUJGTkKMSncAFJoIkw=="/>
+
+		<!-- Botte de Foin -->
+		<POI MapID="992" xpos="328.616" ypos="84.5375" zpos="-397.389" type="chroniques.saison_2.ep1_a_l_oree_de_maguuma.saut_du_zephyr" GUID="lomyfHcdHkGnkylrk814qQ==" iconFile="Img\Cible.png" heightOffset="0"/>
+
+	</POIs>
+</OverlayData>

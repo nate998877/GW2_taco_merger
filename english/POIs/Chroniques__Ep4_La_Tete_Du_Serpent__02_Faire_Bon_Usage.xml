@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+POIs: ReActif.9251
+Date: 2017/02/11
+-->
+<OverlayData>
+	<MarkerCategory name="chroniques.saison_3">
+		<MarkerCategory name="ep4_la_tete_du_serpent" DisplayName="Ep.4 - The Head of the Snake" iconFile="Img\LacDoric.png">
+			<MarkerCategory name="faire_bon_usage" DisplayName="A Good Use" behavior="0"/>
+		</MarkerCategory>
+	</MarkerCategory>
+
+	<POIs>
+
+		<!-- PNJ -->
+		<POI MapID="1185" xpos="310.22" ypos="48.16" zpos="-326.2" type="chroniques.saison_3.ep4_la_tete_du_serpent.faire_bon_usage" GUID="8VZNY9dPQUOihZeKR3Mwlg==" heightOffset="3.5"/>
+
+		<!-- Grosse Perle -->
+		<POI MapID="1185" xpos="-74.5" ypos="9" zpos="-508.65" type="chroniques.saison_3.ep4_la_tete_du_serpent.faire_bon_usage" GUID="TJTXDo7e40Sf7QOJ45BKMA==" iconFile="Img\GrossePerle-EN.png" iconSize="2"/>
+
+	</POIs>
+</OverlayData>

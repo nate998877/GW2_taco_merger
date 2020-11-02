@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+POIs: ReActif.9251
+Date: 2017/01/07
+-->
+<OverlayData>
+	<MarkerCategory name="heart_of_thorns.repli_du_dragon">
+		<MarkerCategory name="observateur_du_repli_du_dragon" DisplayName="Dragon's Stand Overviewer">
+			<MarkerCategory name="acces" DisplayName="Guide" iconFile="Img\Deltaplane.png" iconSize="0.75" triggerRange="10"/>
+		</MarkerCategory>
+	</MarkerCategory>
+
+	<POIs>
+
+		<!-- Début -->
+		<POI MapID="1041" xpos="-717.1" ypos="182.52" zpos="-385.81" type="heart_of_thorns.repli_du_dragon.observateur_du_repli_du_dragon.acces" GUID="gu3U1UbfJk2zrrLlkbWLNA==" iconFile="Img\DeltaplaneNiveau5-EN.png" iconSize="1"/>
+
+		<!-- Route -->
+		<Route MapID="1041" name="Observateur_Repli_Dragon" resetposx="-717.1" resetposy="182.52" resetposz="-385.81" resetrange="1">
+			<POI MapID="1041" xpos="-721.678" ypos="182.305" zpos="-381.004" type="heart_of_thorns.repli_du_dragon.observateur_du_repli_du_dragon.acces" GUID="JZHnfrNAGEiZaI6wy0dYqA=="/>
+			<POI MapID="1041" xpos="-731.063" ypos="176.808" zpos="-370.165" type="heart_of_thorns.repli_du_dragon.observateur_du_repli_du_dragon.acces" GUID="B3zP90DzIUyaEEpTWfK8pQ=="/>
+			<POI MapID="1041" xpos="-743.02" ypos="170.279" zpos="-356.98" type="heart_of_thorns.repli_du_dragon.observateur_du_repli_du_dragon.acces" GUID="cuMGZqhMm02b3NWRLPSKYQ=="/>
+			<POI MapID="1041" xpos="-753.292" ypos="165.927" zpos="-345.971" type="heart_of_thorns.repli_du_dragon.observateur_du_repli_du_dragon.acces" GUID="E1ivYyVTokOJZocm7uLxXw=="/>
+			<POI MapID="1041" xpos="-763.994" ypos="161.345" zpos="-334.28" type="heart_of_thorns.repli_du_dragon.observateur_du_repli_du_dragon.acces" GUID="8TeSaHue3EWXKe+EgZhLKw=="/>
+			<POI MapID="1041" xpos="-774.696" ypos="156.764" zpos="-322.589" type="heart_of_thorns.repli_du_dragon.observateur_du_repli_du_dragon.acces" GUID="HMPOx7h0V0OT1sy3PTUjvw=="/>
+			<POI MapID="1041" xpos="-785.13" ypos="152.297" zpos="-311.19" type="heart_of_thorns.repli_du_dragon.observateur_du_repli_du_dragon.acces" GUID="lfACP9jSR0u97c23sPT6/g=="/>
+			<POI MapID="1041" xpos="-796.099" ypos="147.601" zpos="-299.207" type="heart_of_thorns.repli_du_dragon.observateur_du_repli_du_dragon.acces" GUID="dPQOqiA3bEi1qK83ZXMCFw=="/>
+			<POI MapID="1041" xpos="-806.801" ypos="143.02" zpos="-287.516" type="heart_of_thorns.repli_du_dragon.observateur_du_repli_du_dragon.acces" GUID="1XLdw7A6Q0im05UJMjH7hw=="/>
+			<POI MapID="1041" xpos="-818.306" ypos="138.095" zpos="-274.948" type="heart_of_thorns.repli_du_dragon.observateur_du_repli_du_dragon.acces" GUID="OeQ2hMvBIU6iPqjUdf7vQg=="/>
+			<POI MapID="1041" xpos="-827.819" ypos="133.628" zpos="-264.418" type="heart_of_thorns.repli_du_dragon.observateur_du_repli_du_dragon.acces" GUID="tA1VgCexl0+FobYbSKv1kg=="/>
+			<POI MapID="1041" xpos="-835.683" ypos="129.046" zpos="-255.422" type="heart_of_thorns.repli_du_dragon.observateur_du_repli_du_dragon.acces" GUID="IG7bH2CzBkmJpOvlptYm/w=="/>
+			<POI MapID="1041" xpos="-844.419" ypos="128.851" zpos="-247.116" type="heart_of_thorns.repli_du_dragon.observateur_du_repli_du_dragon.acces" GUID="Sfgzq8MyJEurY89hzrGzVg==" iconFile="Img\Guide.png"/>
+			<POI MapID="1041" xpos="-849.929" ypos="132.092" zpos="-242.61" type="heart_of_thorns.repli_du_dragon.observateur_du_repli_du_dragon.acces" GUID="B9oa6DcVOE2MPKB1WDClfw==" iconFile="Img\Guide.png"/>
+			<POI MapID="1041" xpos="-854.061" ypos="135.72" zpos="-236.886" type="heart_of_thorns.repli_du_dragon.observateur_du_repli_du_dragon.acces" GUID="RxC28ekdFUKy2E7le66qAQ==" iconFile="Img\Guide.png"/>
+			<POI MapID="1041" xpos="-859.826" ypos="141.34" zpos="-228.253" type="heart_of_thorns.repli_du_dragon.observateur_du_repli_du_dragon.acces" GUID="HyIYXBh5o0+8BOxqsHO+8Q==" iconFile="Img\Guide.png"/>
+			<POI MapID="1041" xpos="-867.553" ypos="145.485" zpos="-220.146" type="heart_of_thorns.repli_du_dragon.observateur_du_repli_du_dragon.acces" GUID="r6g9DnySW0KmcngnDTDVNw==" iconFile="Img\Guide.png"/>
+		</Route>
+
+		<!-- Arrivée -->
+		<POI MapID="1041" xpos="-868.74" ypos="145.83" zpos="-214.14" type="heart_of_thorns.repli_du_dragon.observateur_du_repli_du_dragon" GUID="F1x7ehaXpEW0IP2CyIscFw=="/>
+
+	</POIs>
+</OverlayData>

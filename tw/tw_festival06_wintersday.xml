@@ -1,0 +1,47 @@
+<OverlayData>
+	<MarkerCategory name="tw_guides" DisplayName="Tekkit's Guides">
+		<MarkerCategory name="tw_festival_wintersday" DisplayName="Wintersday">
+			<MarkerCategory name="tw_festival_wintersday_orphans" DisplayName="Orphans">
+				<MarkerCategory name="tw_festival_wintersday_orphans_toggletrail" DisplayName="Toggle Route"/>
+				<MarkerCategory name="tw_festival_wintersday_orphans_orphan" DisplayName="Toggle Orphans" mapDisplaySize="30" iconFile="Data/TekkitsWorkshop/Festival/Wintersday/tw_festival_wintersday_orphans_orphan.png" iconSize="0.7" fadeNear="3200" fadeFar="3300" heightOffset="2.5" behavior="7"/>
+				<MarkerCategory name="tw_festival_wintersday_orphans_startsign" DisplayName="Toggle Starting Sign" mapDisplaySize="130" iconFile="Data/TekkitsWorkshop/Festival/Wintersday/tw_festival_wintersday_orphans_startsign.png" iconSize="2" heightOffset="2.5"/>
+				<MarkerCategory name="tw_festival_wintersday_orphans_finishsign" DisplayName="Toggle Finish Sign" mapDisplaySize="80" iconFile="Data/TekkitsWorkshop/General/tw_trail_finish_w.png" iconSize="1.5" heightOffset="4.5"/>
+		  </MarkerCategory>
+	 </MarkerCategory>
+  </MarkerCategory>
+	<POIs>
+		<POI MapID="18" xpos="101.496" ypos="100.431" zpos="-472.497" type="tw_guides.tw_festival_wintersday.tw_festival_wintersday_orphans.tw_festival_wintersday_orphans_orphan" GUID="BZ9pxcIiKkS2YEjbKgnSjA=="/>
+		<POI MapID="18" xpos="170.815" ypos="54.1336" zpos="-461.712" type="tw_guides.tw_festival_wintersday.tw_festival_wintersday_orphans.tw_festival_wintersday_orphans_orphan" GUID="NCAKIlwoE0yRm3bpaF2oqw=="/>
+		<POI MapID="18" xpos="148.273" ypos="79.8994" zpos="-281.366" type="tw_guides.tw_festival_wintersday.tw_festival_wintersday_orphans.tw_festival_wintersday_orphans_orphan" GUID="N36hr0cZW0ebyCMWD5BlLQ=="/>
+		<POI MapID="18" xpos="265.589" ypos="72.8114" zpos="-264.436" type="tw_guides.tw_festival_wintersday.tw_festival_wintersday_orphans.tw_festival_wintersday_orphans_orphan" GUID="78pghI7byEmWj6HUMu26eQ=="/>
+		<POI MapID="18" xpos="275.862" ypos="55.093" zpos="-395.278" type="tw_guides.tw_festival_wintersday.tw_festival_wintersday_orphans.tw_festival_wintersday_orphans_orphan" GUID="eYhEEX/56k+S2WoNMe4eRw=="/>
+		<POI MapID="18" xpos="372.973" ypos="58.5128" zpos="-282.364" type="tw_guides.tw_festival_wintersday.tw_festival_wintersday_orphans.tw_festival_wintersday_orphans_orphan" GUID="vVt6ypKk+ES59wmgBZJgCA=="/>
+		<POI MapID="18" xpos="440.475" ypos="56.1307" zpos="-130.434" type="tw_guides.tw_festival_wintersday.tw_festival_wintersday_orphans.tw_festival_wintersday_orphans_orphan" GUID="qEu9zcagJ0iRNvVqhM0Axw=="/>
+		<POI MapID="18" xpos="513.776" ypos="55.9895" zpos="-48.2249" type="tw_guides.tw_festival_wintersday.tw_festival_wintersday_orphans.tw_festival_wintersday_orphans_orphan" GUID="nlZ898pwuEuRlbEKbRqIAQ=="/>
+		<POI MapID="18" xpos="342.417" ypos="55.7745" zpos="-67.2788" type="tw_guides.tw_festival_wintersday.tw_festival_wintersday_orphans.tw_festival_wintersday_orphans_orphan" GUID="F8Npq7IhfkutHb7CHeMZUg=="/>
+		<POI MapID="18" xpos="337.798" ypos="57.9073" zpos="0.483428" type="tw_guides.tw_festival_wintersday.tw_festival_wintersday_orphans.tw_festival_wintersday_orphans_orphan" GUID="RO/IrnpuyUeWZ9Tpl0FprQ=="/>
+		<POI MapID="18" xpos="484.898" ypos="66.5882" zpos="76.5358" type="tw_guides.tw_festival_wintersday.tw_festival_wintersday_orphans.tw_festival_wintersday_orphans_orphan" GUID="PQbOb7OCX0i6uK+p3clTVQ=="/>
+		<POI MapID="18" xpos="191.248" ypos="80.0337" zpos="115.076" type="tw_guides.tw_festival_wintersday.tw_festival_wintersday_orphans.tw_festival_wintersday_orphans_orphan" GUID="mo5Zd5D2k0mhryVbUao6XQ=="/>
+		<POI MapID="18" xpos="148.027" ypos="139.064" zpos="-70.3664" type="tw_guides.tw_festival_wintersday.tw_festival_wintersday_orphans.tw_festival_wintersday_orphans_orphan" GUID="nFlSOhLZi0m46b82TUAw6w=="/>
+		<POI MapID="18" xpos="-1.63627" ypos="140.895" zpos="-33.81" type="tw_guides.tw_festival_wintersday.tw_festival_wintersday_orphans.tw_festival_wintersday_orphans_orphan" GUID="/qB434jd5kapcPd6sw9gQg=="/>
+		<POI MapID="18" xpos="-59.3389" ypos="79.9473" zpos="111.258" type="tw_guides.tw_festival_wintersday.tw_festival_wintersday_orphans.tw_festival_wintersday_orphans_orphan" GUID="7MW+JFZKnkm3MzgL2X7Wiw=="/>
+		<POI MapID="18" xpos="-34.2533" ypos="72.0478" zpos="239.988" type="tw_guides.tw_festival_wintersday.tw_festival_wintersday_orphans.tw_festival_wintersday_orphans_orphan" GUID="To34VMHkKECaNWqKMAmx/w=="/>
+		<POI MapID="18" xpos="2.85101" ypos="61.6317" zpos="338.876" type="tw_guides.tw_festival_wintersday.tw_festival_wintersday_orphans.tw_festival_wintersday_orphans_orphan" GUID="TNokd9rNaUWox3oTV1dF2Q=="/>
+		<POI MapID="18" xpos="-116.932" ypos="52.9205" zpos="331.616" type="tw_guides.tw_festival_wintersday.tw_festival_wintersday_orphans.tw_festival_wintersday_orphans_orphan" GUID="fr2xqSYRG0G5S5stJXt9fQ=="/>
+		<POI MapID="18" xpos="-196.303" ypos="56.562" zpos="186.911" type="tw_guides.tw_festival_wintersday.tw_festival_wintersday_orphans.tw_festival_wintersday_orphans_orphan" GUID="eHbETkIsaUSKh5cxw8ybWQ=="/>
+		<POI MapID="18" xpos="-247.491" ypos="62.4799" zpos="32.5367" type="tw_guides.tw_festival_wintersday.tw_festival_wintersday_orphans.tw_festival_wintersday_orphans_orphan" GUID="xnKQsKfI0E60bM91qUed2Q=="/>
+		<POI MapID="18" xpos="-352.985" ypos="63.9288" zpos="10.8551" type="tw_guides.tw_festival_wintersday.tw_festival_wintersday_orphans.tw_festival_wintersday_orphans_orphan" GUID="aPuvU09Takus0BEtkjB+ZQ=="/>
+		<POI MapID="18" xpos="-145.259" ypos="79.8053" zpos="-44.8611" type="tw_guides.tw_festival_wintersday.tw_festival_wintersday_orphans.tw_festival_wintersday_orphans_orphan" GUID="mtbiGLkXIEKs3hKQkGd1XA=="/>
+		<POI MapID="18" xpos="-264.12" ypos="60.8554" zpos="-130.816" type="tw_guides.tw_festival_wintersday.tw_festival_wintersday_orphans.tw_festival_wintersday_orphans_orphan" GUID="yP/8nBnRCUGD48TuChQPFg=="/>
+		<POI MapID="18" xpos="-206.488" ypos="59.5767" zpos="-287.118" type="tw_guides.tw_festival_wintersday.tw_festival_wintersday_orphans.tw_festival_wintersday_orphans_orphan" GUID="8fbCCsIMxECOtrS6TTTHpw=="/>
+		<POI MapID="18" xpos="-77.5673" ypos="80.1235" zpos="-246.986" type="tw_guides.tw_festival_wintersday.tw_festival_wintersday_orphans.tw_festival_wintersday_orphans_orphan" GUID="q6sN6BBDlkOrfLzwo3GRkQ=="/>
+		<POI MapID="18" xpos="16.0618" ypos="79.9641" zpos="-284.912" type="tw_guides.tw_festival_wintersday.tw_festival_wintersday_orphans.tw_festival_wintersday_orphans_orphan" GUID="JZOKR66BdkCeTh0apOYqqg=="/>
+		<POI MapID="18" xpos="36.2641" ypos="138.723" zpos="-254.044" type="tw_guides.tw_festival_wintersday.tw_festival_wintersday_orphans.tw_festival_wintersday_orphans_orphan" GUID="Goc30tryUUeiEk44I3Wfwg=="/>
+		<POI MapID="18" xpos="-188.675" ypos="66.0755" zpos="-184.127" type="tw_guides.tw_festival_wintersday.tw_festival_wintersday_orphans.tw_festival_wintersday_orphans_orphan" GUID="KVl1rsyLnkWZenrLdeRHgw=="/>
+		<POI MapID="18" xpos="-315.708" ypos="64.245" zpos="-158.351" type="tw_guides.tw_festival_wintersday.tw_festival_wintersday_orphans.tw_festival_wintersday_orphans_orphan" GUID="9cvnrXeMG064MQCqqoT+qQ=="/>
+		<POI MapID="18" xpos="-357.487" ypos="60.8672" zpos="-155.506" type="tw_guides.tw_festival_wintersday.tw_festival_wintersday_orphans.tw_festival_wintersday_orphans_orphan" GUID="HSjtpYc+4UOwg+pYpfv4cw=="/>
+		<POI MapID="18" xpos="65.2725" ypos="100.298" zpos="-494.752" type="tw_guides.tw_festival_wintersday.tw_festival_wintersday_orphans.tw_festival_wintersday_orphans_startsign" GUID="BEvAcEU+9E688+H5um38pA=="/>
+		<POI MapID="18" xpos="35.9289" ypos="138.718" zpos="-253.905" type="tw_guides.tw_festival_wintersday.tw_festival_wintersday_orphans.tw_festival_wintersday_orphans_finishsign" GUID="OmOelWlMcUyTdUALpJhosw=="/>
+		<Trail type="tw_guides.tw_festival_wintersday.tw_festival_wintersday_orphans.tw_festival_wintersday_orphans_toggletrail" GUID="KL8VS1sU1EO4mxhm8AmLWg==" fadeNear="5000" fadeFar="5100" trailData="Data/TekkitsWorkshop/Festival/Wintersday/tw_festival_wintersday_orphans.trl" animSpeed="0" texture="Data/TekkitsWorkshop/General/tw_trail_w.png"/>
+	</POIs>
+</OverlayData>

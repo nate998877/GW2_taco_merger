@@ -1,0 +1,789 @@
+<OverlayData>
+<MarkerCategory name="tw_guides" DisplayName="Tekkit's Guides">
+  <MarkerCategory name="tw_hot" DisplayName="Heart of Thorns">
+    <MarkerCategory name="tw_hot_ab" DisplayName="Auric Basin">
+      <MarkerCategory name="separatorab1" IsSeparator="1" DisplayName="<-----[FARMING]----->">
+          </MarkerCategory>  
+      <MarkerCategory name="tw_hot_ab_exaltedchests" DisplayName="Exalted Chests">
+        <MarkerCategory name="tw_hot_ab_exaltedchests_exaltedchest" DisplayName="Toggle Exalted Chests" iconFile="Data/TekkitsWorkshop/HoT/tw_hot_ab_exaltedchests_exaltedchest.png" iconSize="0.5" heightOffset="0.5" minSize="10" fadeNear="5000" fadeFar="5100" behavior="1"/>
+      </MarkerCategory>
+      <MarkerCategory name="tw_hot_ab_miscchests_miscchest" DisplayName="Misc Chests" iconFile="Data/TekkitsWorkshop/HoT/tw_hot_miscchests_miscchest.png" iconSize="0.5" heightOffset="0.5" minSize="10" fadeNear="5000" fadeFar="5100" behavior="2"/>
+      <MarkerCategory name="tw_hot_ab_richveins" DisplayName="Rich Veins" iconFile="Data/TekkitsWorkshop/HoT/tw_hot_richveins.png" iconSize="0.5" heightOffset="0.5" minSize="10" fadeNear="5000" fadeFar="5100" behavior="2"/>
+      <MarkerCategory name="separatorab2" IsSeparator="1" DisplayName="<-----[EXPLORATION]----->">
+          </MarkerCategory>
+      <MarkerCategory name="tw_hot_ab_masterypoints" DisplayName="Mastery Points">
+        <MarkerCategory name="tw_hot_ab_masterypoint_afungusamongus" DisplayName="Adventure - A Fungus Among Us" mapDisplaySize="80" iconFile="Data/TekkitsWorkshop/HoT/tw_hot_ab_masterypoint_afungusamongus.png" iconSize="1.0" heightOffset="2.5" minSize="40" behavior="3"/>
+        <MarkerCategory name="tw_hot_ab_masterypoint_fallenmasks" DisplayName="Adventure - Fallen Masks" mapDisplaySize="80" iconFile="Data/TekkitsWorkshop/HoT/tw_hot_ab_masterypoint_fallenmasks.png" iconSize="1.0" heightOffset="2.5" minSize="40" behavior="3"/>
+        <MarkerCategory name="tw_hot_ab_masterypoint_onwingsofgold" DisplayName="Adventure - On Wings of Gold" mapDisplaySize="80" iconFile="Data/TekkitsWorkshop/HoT/tw_hot_ab_masterypoint_onwingsofgold.png" iconSize="1.0" heightOffset="2.5" minSize="40" behavior="3"/>
+        <MarkerCategory name="tw_hot_ab_masterypoint_sanctumscramble" DisplayName="Adventure - Sanctum Scramble" mapDisplaySize="80" iconFile="Data/TekkitsWorkshop/HoT/tw_hot_ab_masterypoint_sanctumscramble.png" iconSize="1.0" heightOffset="2.5" minSize="40" behavior="3"/>
+        <MarkerCategory name="tw_hot_ab_masterypoint_thefloorislava" DisplayName="Adventure - The Floor is Lava" mapDisplaySize="80" iconFile="Data/TekkitsWorkshop/HoT/tw_hot_ab_masterypoint_thefloorislava.png" iconSize="1.0" heightOffset="2.5" minSize="40" behavior="3"/>
+        <MarkerCategory name="tw_hot_ab_masterypoint_droppinbombs" DisplayName="Droppin' Bombs" mapDisplaySize="80" iconFile="Data/TekkitsWorkshop/HoT/tw_hot_ab_masterypoint_droppinbombs.png" iconSize="1.0" heightOffset="2.5" minSize="40" behavior="3"/>
+        <MarkerCategory name="tw_hot_ab_masterypoint_forgottencityarches" DisplayName="Forgotten City Arches" mapDisplaySize="80" iconFile="Data/TekkitsWorkshop/HoT/tw_hot_ab_masterypoint_forgottencityarches.png" iconSize="1.0" heightOffset="2.5" minSize="40" behavior="3"/>
+        <MarkerCategory name="tw_hot_ab_masterypoint_invisibleking" DisplayName="Invisible King" mapDisplaySize="80" iconFile="Data/TekkitsWorkshop/HoT/tw_hot_ab_masterypoint_invisibleking.png" iconSize="1.0" heightOffset="2.5" minSize="40" behavior="3"/>
+        <MarkerCategory name="tw_hot_ab_masterypoint_tarirchallengewinner" DisplayName="Tarir Challenge Winner" mapDisplaySize="80" iconFile="Data/TekkitsWorkshop/HoT/tw_hot_ab_masterypoint_tarirchallengewinner.png" iconSize="1.0" heightOffset="2.5" minSize="40" minSize="20" behavior="3"/>
+        <MarkerCategory name="tw_hot_ab_masterypoint_vinetoothhunter" DisplayName="Vinetooth Hunter" mapDisplaySize="80" iconFile="Data/TekkitsWorkshop/HoT/tw_hot_ab_masterypoint_vinetoothhunter.png" iconSize="1.0" heightOffset="2.5" minSize="40" behavior="3"/>
+        <MarkerCategory name="tw_hot_ab_masterypoint_burnisherquarry" DisplayName="Insight - Burnisher Quarry" mapDisplaySize="80" iconFile="Data/TekkitsWorkshop/HoT/tw_hot_ds_masterypoint_burnisherquarry.png" iconSize="1.0" heightOffset="2.5" minSize="40" behavior="3"/>
+        <MarkerCategory name="tw_hot_ab_masterypoint_eastwatchbluff" DisplayName="Insight - Eastwatch Bluff" mapDisplaySize="80" iconFile="Data/TekkitsWorkshop/HoT/tw_hot_ds_masterypoint_eastwatchbluff.png" iconSize="1.0" heightOffset="2.5" minSize="40" behavior="3"/>
+        <MarkerCategory name="tw_hot_ab_masterypoint_jawatlgrounds" DisplayName="Insight - Jawatl Grounds" mapDisplaySize="80" iconFile="Data/TekkitsWorkshop/HoT/tw_hot_ds_masterypoint_jawatlgrounds.png" iconSize="1.0" heightOffset="2.5" minSize="40" behavior="3"/>
+        <MarkerCategory name="tw_hot_ab_masterypoint_lastgearstanding" DisplayName="Insight - Lastgear Standing" mapDisplaySize="80" iconFile="Data/TekkitsWorkshop/HoT/tw_hot_ds_masterypoint_lastgearstanding.png" iconSize="1.0" heightOffset="2.5" minSize="40" behavior="3"/>
+        <MarkerCategory name="tw_hot_ab_masterypoint_luminatesthrone" DisplayName="Insight - Luminate's Throne" mapDisplaySize="80" iconFile="Data/TekkitsWorkshop/HoT/tw_hot_ds_masterypoint_luminatesthrone.png" iconSize="1.0" heightOffset="2.5" minSize="40" behavior="3"/>
+        <MarkerCategory name="tw_hot_ab_masterypoint_masksofthefallen" DisplayName="Insight - Masks of the Fallen" mapDisplaySize="80" iconFile="Data/TekkitsWorkshop/HoT/tw_hot_ds_masterypoint_masksofthefallen.png" iconSize="1.0" heightOffset="2.5" minSize="40" behavior="3"/>
+        <MarkerCategory name="tw_hot_ab_masterypoint_southwatchcreep" DisplayName="Insight - Southwatch Creep" mapDisplaySize="80" iconFile="Data/TekkitsWorkshop/HoT/tw_hot_ds_masterypoint_southwatchcreep.png" iconSize="1.0" heightOffset="2.5" minSize="40" behavior="3"/>
+        <MarkerCategory name="tw_hot_ab_masterypoint_thefalls" DisplayName="Insight - The Falls" mapDisplaySize="80" iconFile="Data/TekkitsWorkshop/HoT/tw_hot_ds_masterypoint_thefalls.png" iconSize="1.0" heightOffset="2.5" minSize="40" behavior="3"/>
+        <MarkerCategory name="tw_hot_ab_masterypoint_endurance" DisplayName="Strongbox - Endurance" mapDisplaySize="80" iconFile="Data/TekkitsWorkshop/HoT/tw_hot_ab_masterypoint_endurance.png" iconSize="1.0" heightOffset="2.5" minSize="40" behavior="3"/>
+        <MarkerCategory name="tw_hot_ab_masterypoint_obsidiantriumph" DisplayName="Strongbox - Obsidian Triumph" mapDisplaySize="80" iconFile="Data/TekkitsWorkshop/HoT/tw_hot_ab_masterypoint_obsidiantriumph.png" iconSize="1.0" heightOffset="2.5" minSize="40" behavior="3"/>
+        <MarkerCategory name="tw_hot_ab_masterypoint_sliceofsky" DisplayName="Strongbox - Slice of Sky" mapDisplaySize="80" iconFile="Data/TekkitsWorkshop/HoT/tw_hot_ab_masterypoint_sliceofsky.png" iconSize="1.0" heightOffset="2.5" minSize="40" behavior="3"/>
+        <MarkerCategory name="tw_hot_ab_masterypoint_straightandnarrow" DisplayName="Strongbox - Straight and Narrow" mapDisplaySize="80" iconFile="Data/TekkitsWorkshop/HoT/tw_hot_ab_masterypoint_straightandnarrow.png" iconSize="1.0" heightOffset="2.5" minSize="40" behavior="3"/>
+        <MarkerCategory name="tw_hot_ab_masterypoint_vengeancerising" DisplayName="Strongbox - Vengeance Rising" mapDisplaySize="80" iconFile="Data/TekkitsWorkshop/HoT/tw_hot_ab_masterypoint_vengeancerising.png" iconSize="1.0" heightOffset="2.5" minSize="40" behavior="3"/>
+      </MarkerCategory>
+      <MarkerCategory name="tw_hot_ab_heropoints" DisplayName="Hero Points" iconFile="Data/TekkitsWorkshop/HoT/tw_hot_heropoint.png" mapDisplaySize="30" iconSize="0.5" heightOffset="0.5" minSize="10" behavior="2"/>
+      <MarkerCategory name="separatorab3" IsSeparator="1" DisplayName="<-----[MUSHROOMS]----->">
+          </MarkerCategory>
+      <MarkerCategory name="tw_hot_ab_jumpingmushroom" DisplayName="Jumping Mushrooms" iconFile="Data/TekkitsWorkshop/HoT/tw_hot_jumpingmushroom.png" iconSize="0.5" heightOffset="0.2" minSize="10" fadeNear="5000" fadeFar="5100"/>
+      <MarkerCategory name="tw_hot_ab_speedmushroom" DisplayName="Speed Boost Mushrooms" iconFile="Data/TekkitsWorkshop/HoT/tw_hot_speedmushroom.png" iconSize="0.5" heightOffset="0.5" minSize="10" fadeNear="5000" fadeFar="5100"/>
+      <MarkerCategory name="tw_hot_ab_adrenalmushroom" DisplayName="Adrenal Mushrooms" iconFile="Data/TekkitsWorkshop/HoT/tw_hot_adrenalmushroom.png" iconSize="0.5" heightOffset="0.5" minSize="10" fadeNear="5000" fadeFar="5100"/>
+      <MarkerCategory name="separatorab4" IsSeparator="1" DisplayName="<-----[ACHIEVEMENTS]----->">
+          </MarkerCategory>
+      <MarkerCategory name="tw_hot_ab_treatopretriever" DisplayName="Treetop Retriever" mapDisplaySize="30" iconFile="Data/TekkitsWorkshop/HoT/tw_hot_ab_treatopretriever.png" iconSize="0.5" heightOffset="0.5" minSize="10" behavior="3"/>
+      <MarkerCategory name="tw_hot_ab_nomaskleftbehind" DisplayName="No Mask Left Behind" mapDisplaySize="30" iconFile="Data/TekkitsWorkshop/HoT/tw_hot_ab_nomaskleftbehind.png" iconSize="0.5" heightOffset="0.5" minSize="10" behavior="3"/>
+      <MarkerCategory name="tw_hot_ab_astudyingold" DisplayName="A Study in Gold" mapDisplaySize="30" iconFile="Data/TekkitsWorkshop/HoT/tw_hot_ab_astudyingold.png" iconSize="0.5" heightOffset="0.5" minSize="10" behavior="3"/>
+      <MarkerCategory name="tw_hot_ab_thegoldenchicken" DisplayName="The Golden Chicken" mapDisplaySize="30" iconFile="Data/TekkitsWorkshop/HoT/tw_hot_ab_thegoldenchicken.png" iconSize="0.5" heightOffset="0.5" minSize="10" behavior="3"/>
+      <MarkerCategory name="tw_hot_ab_hiddenamphibian" DisplayName="Hidden Amphibian" mapDisplaySize="30" iconFile="Data/TekkitsWorkshop/HoT/tw_hot_ab_hiddenamphibian.png" iconSize="0.5" heightOffset="0.5" minSize="10" behavior="3"/>
+      <MarkerCategory name="tw_hot_ab_tarnishedtraitor" DisplayName="Tarnished Traitor" mapDisplaySize="30" iconFile="Data/TekkitsWorkshop/HoT/tw_hot_ab_tarnishedtraitor.png" iconSize="0.5" heightOffset="0.5" minSize="10" behavior="3"/> 
+      <MarkerCategory name="separatorab5" IsSeparator="1" DisplayName="<-----[ADVENTURES]----->">
+          </MarkerCategory>
+      <MarkerCategory name="tw_hot_ab_adv_fungusamongus" DisplayName="A Fungus Among Us">
+        <MarkerCategory name="tw_hot_ab_adv_fungusamongus_markers" DisplayName="Toggle Markers">
+          <MarkerCategory name="tw_hot_ab_adv_fungusamongus_markers_jump" miniMapVisibility="0" mapVisibility="0" DisplayName="Toggle Jump" iconFile="Data/TekkitsWorkshop/General/tw_trailpoint_dot_b.png" iconSize="0.5" heightOffset="0.5" minSize="10" fadeNear="2000" fadeFar="2100"/>
+          <MarkerCategory name="tw_hot_ab_adv_fungusamongus_markers_skill1" miniMapVisibility="0" mapVisibility="0" DisplayName="Toggle Use Skill 1" iconFile="Data/TekkitsWorkshop/HoT/tw_hot_useskill1.png" iconSize="0.7" heightOffset="0.5" minSize="10" fadeNear="2000" fadeFar="2100"/>
+          <MarkerCategory name="tw_hot_ab_adv_fungusamongus_markers_skill2" miniMapVisibility="0" mapVisibility="0" DisplayName="Toggle Use Skill 2" iconFile="Data/TekkitsWorkshop/HoT/tw_hot_useskill2.png" iconSize="0.7" heightOffset="0.5" minSize="10" fadeNear="2000" fadeFar="2100"/>
+          <MarkerCategory name="tw_hot_ab_adv_fungusamongus_markers_aimskill2" miniMapVisibility="0" mapVisibility="0" DisplayName="Toggle Aim Skill 2" iconFile="Data/TekkitsWorkshop/HoT/tw_hot_aimskill2.png" minSize="10" iconSize="0.7" heightOffset="0.5" fadeNear="2000" fadeFar="2100"/>
+        </MarkerCategory>
+        <MarkerCategory name="tw_hot_ab_adv_fungusamongus_toggletrail" DisplayName="Toggle Trail">
+          </MarkerCategory>
+        <MarkerCategory name="tw_hot_ab_adv_fungusamongus_signs" DisplayName="Toggle Signs">
+          <MarkerCategory name="tw_hot_ab_adv_fungusamongus_startsign" DisplayName="Starting Sign" mapDisplaySize="130" iconFile="Data/TekkitsWorkshop/HoT/tw_hot_ab_adv_fungusamongus_startsign.png" iconSize="1" heightOffset="2.5" minSize="70" fadeNear="5000" fadeFar="5100"/>
+          <MarkerCategory name="tw_hot_ab_adv_fungusamongus_finish" DisplayName="Finish Sign" mapDisplaySize="80" iconFile="Data/TekkitsWorkshop/General/tw_trail_finish_b.png" iconSize="1" heightOffset="2.5" minSize="50" fadeNear="5000" fadeFar="5100"/>
+        </MarkerCategory>
+      </MarkerCategory>
+      <MarkerCategory name="tw_hot_ab_adv_fallenmasks" DisplayName="Fallen Masks">
+        <MarkerCategory name="tw_hot_ab_adv_fallenmasks_mask" DisplayName="Toggle Masks" iconFile="Data/TekkitsWorkshop/HoT/tw_hot_ab_adv_fallenmasks_mask.png" iconSize="0.7" heightOffset="1.5" fadeNear="5000" fadeFar="5100"/>
+        <MarkerCategory name="tw_hot_ab_adv_fallenmasks_toggletrail" DisplayName="Toggle Trail">
+          </MarkerCategory>
+        <MarkerCategory name="tw_hot_ab_adv_fallenmasks_signs" DisplayName="Toggle Signs">
+          <MarkerCategory name="tw_hot_ab_adv_fallenmasks_startsign" DisplayName="Starting Sign" mapDisplaySize="130" iconFile="Data/TekkitsWorkshop/PoF/DesertHighlands/tw_pof_dh_dwarvenremnants_sign1.png" iconSize="1" heightOffset="2.5" minSize="50" fadeNear="5000" fadeFar="5100"/>
+          <MarkerCategory name="tw_hot_ab_adv_fallenmasks_finish" DisplayName="Finish Sign" mapDisplaySize="80" iconFile="Data/TekkitsWorkshop/General/tw_trail_finish_b.png" iconSize="1" heightOffset="2.5" minSize="50" fadeNear="5000" fadeFar="5100"/>
+        </MarkerCategory>
+      </MarkerCategory>
+      <MarkerCategory name="tw_hot_ab_adv_thefloorislava" DisplayName="The Floor is Lava">
+        <MarkerCategory name="tw_hot_ab_adv_thefloorislava_markers" DisplayName="Toggle Markers">
+          <MarkerCategory name="tw_hot_ab_adv_thefloorislava_markers_rockvinefruit" DisplayName="Toggle Rockvine Fruits" iconFile="Data/TekkitsWorkshop/HoT/tw_hot_ab_adv_thefloorislava_markers_rockvinefruit.png" iconSize="0.3" heightOffset="1.5" minSize="10" fadeNear="5000" fadeFar="5100"/>
+          <MarkerCategory name="tw_hot_ab_adv_thefloorislava_markers_sporecluster" DisplayName="Toggle Spore Clusters" iconFile="Data/TekkitsWorkshop/HoT/tw_hot_ab_adv_thefloorislava_markers_sporecluster.png" iconSize="0.3" heightOffset="1.5" minSize="10" fadeNear="5000" fadeFar="5100"/>
+        </MarkerCategory>
+        <MarkerCategory name="tw_hot_ab_adv_thefloorislava_toggletrail" DisplayName="Toggle Trail">
+          </MarkerCategory>
+        <MarkerCategory name="tw_hot_ab_adv_thefloorislava_signs" DisplayName="Toggle Signs">
+          <MarkerCategory name="tw_hot_ab_adv_thefloorislava_startsign" DisplayName="Starting Sign" mapDisplaySize="130" iconFile="Data/TekkitsWorkshop/HoT/tw_hot_ab_adv_thefloorislava_startsign.png" iconSize="1" heightOffset="2.5" minSize="50" fadeNear="5000" fadeFar="5100"/>
+          <MarkerCategory name="tw_hot_ab_adv_thefloorislava_finish" DisplayName="Finish Sign" mapDisplaySize="80" iconFile="Data/TekkitsWorkshop/General/tw_trail_finish_b.png" iconSize="1" heightOffset="2.5" minSize="50" fadeNear="5000" fadeFar="5100"/>
+        </MarkerCategory>
+      </MarkerCategory>
+      <MarkerCategory name="tw_hot_ab_adv_sanctumscramble" DisplayName="Sanctum Scramble">
+        <MarkerCategory name="tw_hot_ab_adv_sanctumscramble_markers" DisplayName="Toggle Markers">
+          <MarkerCategory name="tw_hot_ab_adv_sanctumscramble_markers_skill1" miniMapVisibility="0" mapVisibility="0" DisplayName="Toggle Use Skill 1" iconFile="Data/TekkitsWorkshop/HoT/tw_hot_useskill1.png" iconSize="0.7" heightOffset="0.5" minSize="10" fadeNear="5000" fadeFar="5100"/>
+          <MarkerCategory name="tw_hot_ab_adv_sanctumscramble_markers_skill2" miniMapVisibility="0" mapVisibility="0" DisplayName="Toggle Use Skill 2" iconFile="Data/TekkitsWorkshop/HoT/tw_hot_useskill2.png" iconSize="0.7" heightOffset="0.5" minSize="10" fadeNear="5000" fadeFar="5100"/>
+          <MarkerCategory name="tw_hot_ab_adv_sanctumscramble_markers_aimskill2" miniMapVisibility="0" mapVisibility="0" DisplayName="Toggle Aim Skill 2" iconFile="Data/TekkitsWorkshop/HoT/tw_hot_aimskill2.png" minSize="10" iconSize="0.7" heightOffset="0.5" fadeNear="5000" fadeFar="5100"/>
+          <MarkerCategory name="tw_hot_ab_adv_sanctumscramble_markers_skill3" miniMapVisibility="0" mapVisibility="0" DisplayName="Toggle Use Skill 3" iconFile="Data/TekkitsWorkshop/HoT/tw_hot_useskill3.png" iconSize="0.7" heightOffset="0.5" minSize="10" fadeNear="5000" fadeFar="5100"/>
+          <MarkerCategory name="tw_hot_ab_adv_sanctumscramble_markers_aimskill3" miniMapVisibility="0" mapVisibility="0" DisplayName="Toggle Aim Skill 3" iconFile="Data/TekkitsWorkshop/HoT/tw_hot_aimskill3.png" minSize="10" iconSize="0.7" heightOffset="0.5" fadeNear="5000" fadeFar="5100"/>
+        </MarkerCategory>
+        <MarkerCategory name="tw_hot_ab_adv_sanctumscramble_toggletrail" DisplayName="Toggle Trail">
+          </MarkerCategory>
+        <MarkerCategory name="tw_hot_ab_adv_sanctumscramble_signs" DisplayName="Toggle Signs">
+          <MarkerCategory name="tw_hot_ab_adv_sanctumscramble_startsign" DisplayName="Starting Sign" mapDisplaySize="130" iconFile="Data/TekkitsWorkshop/HoT/tw_hot_ab_adv_sanctumscramble_startsign.png" iconSize="1" heightOffset="2.5" minSize="50" fadeNear="5000" fadeFar="5100"/>
+          <MarkerCategory name="tw_hot_ab_adv_sanctumscramble_finish" DisplayName="Finish Sign" mapDisplaySize="80" iconFile="Data/TekkitsWorkshop/General/tw_trail_finish_b.png" iconSize="1" heightOffset="2.5" minSize="50" fadeNear="5000" fadeFar="5100"/>
+        </MarkerCategory>
+      </MarkerCategory>
+      <MarkerCategory name="tw_hot_ab_adv_onwingsofgold" DisplayName="On Wings of Gold">
+        <MarkerCategory name="tw_hot_ab_adv_onwingsofgold_toggletrail" DisplayName="Toggle Trail">
+          </MarkerCategory>
+        <MarkerCategory name="tw_hot_ab_adv_onwingsofgold_signs" DisplayName="Toggle Signs">
+          <MarkerCategory name="tw_hot_ab_adv_onwingsofgold_startsign" DisplayName="Starting Sign" mapDisplaySize="130" iconFile="Data/TekkitsWorkshop/HoT/tw_hot_ab_adv_onwingsofgold_startsign.png" iconSize="1" heightOffset="2.5" minSize="50" fadeNear="5000" fadeFar="5100"/>
+          <MarkerCategory name="tw_hot_ab_adv_onwingsofgold_finish" DisplayName="Finish Sign" mapDisplaySize="80" iconFile="Data/TekkitsWorkshop/General/tw_trail_finish_b.png" iconSize="1" heightOffset="2.5" minSize="50" fadeNear="5000" fadeFar="5100"/>
+        </MarkerCategory>
+      </MarkerCategory>
+      <MarkerCategory name="separatorab6" IsSeparator="1" DisplayName="<-----[JUMPING PUZZLES]----->">
+          </MarkerCategory>
+      <MarkerCategory name="tw_hot_ab_jp_highestgear" DisplayName="Highest Gear">
+        <MarkerCategory name="tw_hot_ab_jp_highestgear_jump" miniMapVisibility="0" mapVisibility="0" DisplayName="Toggle Jump Spots" iconFile="Data/TekkitsWorkshop/General/tw_trailpoint_dot_b.png" iconSize="0.5" heightOffset="0.5" minSize="10" fadeNear="2000" fadeFar="2100"/>
+        <MarkerCategory name="tw_hot_ab_jp_highestgear_toggletrail" DisplayName="Toggle Trail">
+          </MarkerCategory>
+        <MarkerCategory name="tw_hot_ab_jp_highestgear_signs" DisplayName="Toggle Signs">
+          <MarkerCategory name="tw_hot_ab_jp_highestgear_startsign" DisplayName="Starting Sign" mapDisplaySize="130" iconFile="Data/TekkitsWorkshop/HoT/tw_hot_ab_jp_highestgear_startsign.png" iconSize="1" heightOffset="2.5" minSize="70" fadeNear="5000" fadeFar="5100"/>
+          <MarkerCategory name="tw_hot_ab_jp_highestgear_finish" DisplayName="Finish Sign" mapDisplaySize="80" iconFile="Data/TekkitsWorkshop/General/tw_trail_finish_b.png" iconSize="1" heightOffset="2.5" minSize="50" fadeNear="5000" fadeFar="5100"/>
+        </MarkerCategory>
+      </MarkerCategory>
+    </MarkerCategory>
+  </MarkerCategory>
+</MarkerCategory>
+	<POIs>
+		<POI MapID="1043" xpos="104.984" ypos="335.831" zpos="496.955" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_exaltedchests.tw_hot_ab_exaltedchests_exaltedchest" GUID="9wDnG0rgx06nlKCUubIJVQ=="/>
+		<POI MapID="1043" xpos="225.526" ypos="365.541" zpos="660.697" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_speedmushroom" GUID="46MLumW35U+p5/6NZHjpIg=="/>
+		<POI MapID="1043" xpos="254.172" ypos="369.922" zpos="584.747" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_speedmushroom" GUID="duAKUVKGaEOL41rLbnTyeA=="/>
+		<POI MapID="1043" xpos="268.608" ypos="370.642" zpos="591.496" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_adrenalmushroom" GUID="tk81ONswK0GY45IJaz/pxQ=="/>
+		<POI MapID="1043" xpos="50.8517" ypos="342.481" zpos="555.485" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_speedmushroom" GUID="q0geo+Ns/Uqz4r2CrF25Ag=="/>
+		<POI MapID="1043" xpos="58.2127" ypos="342.798" zpos="539.794" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_adrenalmushroom" GUID="7uJq/UVK3UiRoilu3sc9GA=="/>
+		<POI MapID="1043" xpos="66.7016" ypos="348.235" zpos="560.27" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_exaltedchests.tw_hot_ab_exaltedchests_exaltedchest" GUID="GfBSwbWnkU2+0A4pqmA6JA=="/>
+		<POI MapID="1043" xpos="-11.0508" ypos="328.186" zpos="507.149" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_speedmushroom" GUID="6+bxyODHjUa80WCDyRb1QQ=="/>
+		<POI MapID="1043" xpos="-95.8033" ypos="309.614" zpos="496.628" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_speedmushroom" GUID="+MS4CFGcdUSVXZOXoCPcPQ=="/>
+		<POI MapID="1043" xpos="-163.699" ypos="294.171" zpos="464.903" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_speedmushroom" GUID="QXMOq83h90u1HtG5dR19Uw=="/>
+		<POI MapID="1043" xpos="-215.569" ypos="291.453" zpos="470.71" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_adrenalmushroom" GUID="xc5io+sgbEe2+DTwtbT8zw=="/>
+		<POI MapID="1043" xpos="-219.341" ypos="291.176" zpos="452.556" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_speedmushroom" GUID="OF6mDDRSe0GAi6D/fcm4KA=="/>
+		<POI MapID="1043" xpos="-192.2" ypos="288.087" zpos="377.865" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_speedmushroom" GUID="tONRPqhp00GhcGfhSXHbPg=="/>
+		<POI MapID="1043" xpos="-246.168" ypos="280.431" zpos="400.08" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_speedmushroom" GUID="FThbpy/YSkqZLHxxgKdiWw=="/>
+		<POI MapID="1043" xpos="-338.61" ypos="276.006" zpos="378.205" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_speedmushroom" GUID="tu1YF6y/9EOmBJDL6WoZ8g=="/>
+		<POI MapID="1043" xpos="-335.679" ypos="278.72" zpos="356.751" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_exaltedchests.tw_hot_ab_exaltedchests_exaltedchest" GUID="YSnFIKT0ZUyeza/1djmFHw=="/>
+		<POI MapID="1043" xpos="-335.667" ypos="278.293" zpos="340.686" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_speedmushroom" GUID="QALSKkRFD0CRZnEJsjr7GQ=="/>
+		<POI MapID="1043" xpos="-368.654" ypos="281.728" zpos="368.998" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_speedmushroom" GUID="ZcbDOiMde0y0vGfy22oyrw=="/>
+		<POI MapID="1043" xpos="-408.382" ypos="283.647" zpos="291.286" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_exaltedchests.tw_hot_ab_exaltedchests_exaltedchest" GUID="lqatS9hrjESw+odTXpOQ4A=="/>
+		<POI MapID="1043" xpos="-415.301" ypos="280.573" zpos="324.969" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_speedmushroom" GUID="gL4HYFrAa0mqzjtuYhGNyw=="/>
+		<POI MapID="1043" xpos="-394.206" ypos="269.863" zpos="224.801" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_speedmushroom" GUID="LfT1LNJLe0uYTC1OyBQw7w=="/>
+		<POI MapID="1043" xpos="-353.54" ypos="272.327" zpos="184.588" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_speedmushroom" GUID="BqZy18cNTUe7FqXZ6xxGMw=="/>
+		<POI MapID="1043" xpos="-330.61" ypos="256.377" zpos="248.016" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_speedmushroom" GUID="2aVS+mWGZUyoVVqDBRKgxg=="/>
+		<POI MapID="1043" xpos="-313.728" ypos="254.984" zpos="214.66" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_adrenalmushroom" GUID="5VESDFGCBU6vuiyuMhEklA=="/>
+		<POI MapID="1043" xpos="-300.558" ypos="248.589" zpos="292.818" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_speedmushroom" GUID="zscnmwuAKUierKBTMRBWxQ=="/>
+		<POI MapID="1043" xpos="-377.766" ypos="244.496" zpos="160.132" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_speedmushroom" GUID="ZSTVtvkd7E+N0INhr0lUng=="/>
+		<POI MapID="1043" xpos="-391.338" ypos="243.131" zpos="104.763" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_speedmushroom" GUID="f4FygT4KW0+OXcatxxqYhw=="/>
+		<POI MapID="1043" xpos="-365.326" ypos="244.063" zpos="67.5849" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_speedmushroom" GUID="qz2xZNrTRk2PRUXEkCzBag=="/>
+		<POI MapID="1043" xpos="-384.658" ypos="245.268" zpos="21.0453" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_speedmushroom" GUID="KSXhZ87iH0a7GebqO8N//g=="/>
+		<POI MapID="1043" xpos="-285.389" ypos="334.56" zpos="-17.9166" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_richveins" GUID="A5dJGjnR8UaRWbVEE+vLvw=="/>
+		<POI MapID="1043" xpos="-244.381" ypos="267.74" zpos="-475.1" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_speedmushroom" GUID="HnJviqKkvEOG8ad5FrGIBQ=="/>
+		<POI MapID="1043" xpos="-223.652" ypos="263.52" zpos="-532.487" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_speedmushroom" GUID="1+j52kUt+E6STu3MS5F/4g=="/>
+		<POI MapID="1043" xpos="-302.081" ypos="276.716" zpos="-509.735" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_speedmushroom" GUID="oT+M3d37L0axxo6Myl0gdA=="/>
+		<POI MapID="1043" xpos="-425.612" ypos="302.951" zpos="-596.152" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_adrenalmushroom" GUID="nSjt1oucf0CI/zWvhcw+vQ=="/>
+		<POI MapID="1043" xpos="-398.007" ypos="303.037" zpos="-650.996" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_speedmushroom" GUID="1g2mYwL+rUKHPdBHumyXvg=="/>
+		<POI MapID="1043" xpos="-310.844" ypos="272.322" zpos="-573.541" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_speedmushroom" GUID="UTfza1JhW0mIFAf4hFfYlQ=="/>
+		<POI MapID="1043" xpos="-257.118" ypos="262.616" zpos="-570.603" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_adrenalmushroom" GUID="0UY8H8Nz10yLpv7trbBKmQ=="/>
+		<POI MapID="1043" xpos="-40.9691" ypos="281.386" zpos="-515.94" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_speedmushroom" GUID="zUx0XOXFiEGa58W+C19XVQ=="/>
+		<POI MapID="1043" xpos="-70.3872" ypos="270.527" zpos="-457.544" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_speedmushroom" GUID="nlr1wfaiT0+esDsPdaMVWA=="/>
+		<POI MapID="1043" xpos="-108.382" ypos="272.851" zpos="-473.973" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_adrenalmushroom" GUID="JQPzCg68vUSAD9grAqTqsg=="/>
+		<POI MapID="1043" xpos="-168.132" ypos="273.956" zpos="-445.32" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_speedmushroom" GUID="pJvjdut3RUa6+/r1ytNLGg=="/>
+		<POI MapID="1043" xpos="-273.957" ypos="262.303" zpos="-595.358" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_speedmushroom" GUID="xG310Bc8qUOyX0ZGdkPyeA=="/>
+		<POI MapID="1043" xpos="-143.519" ypos="268.603" zpos="-700.1" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_speedmushroom" GUID="5DQeAddC3kqwIGaKz+N3Xw=="/>
+		<POI MapID="1043" xpos="-89.2193" ypos="255.962" zpos="-806.093" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_speedmushroom" GUID="DTeiebJutE6DMKwfgSmN0Q=="/>
+		<POI MapID="1043" xpos="-49.9566" ypos="262.956" zpos="-743.55" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_speedmushroom" GUID="r9e31KQy0EWeBM+TlwkyJA=="/>
+		<POI MapID="1043" xpos="72.6992" ypos="228.563" zpos="-765.203" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_speedmushroom" GUID="XjwEN8IH5kCXWkOLFCdz1Q=="/>
+		<POI MapID="1043" xpos="149.911" ypos="228.471" zpos="-744.627" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_speedmushroom" GUID="cH5rvKnKtkyiPPAYxLbI5A=="/>
+		<POI MapID="1043" xpos="209.031" ypos="232.398" zpos="-747.29" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_speedmushroom" GUID="qwLtz2WXu0qBxWXEVgRzCw=="/>
+		<POI MapID="1043" xpos="204.985" ypos="245.079" zpos="-642.18" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_speedmushroom" GUID="I3+MchEqNE2MPbJXMuKzCA=="/>
+		<POI MapID="1043" xpos="172.023" ypos="247.124" zpos="-607.986" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_miscchests_miscchest" GUID="RsRlOKjr30CW7RgotwFb7Q=="/>
+		<POI MapID="1043" xpos="267.249" ypos="237.876" zpos="-645.732" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_speedmushroom" GUID="rbpp0TeWJkuE3E43lWoZMw=="/>
+		<POI MapID="1043" xpos="281.413" ypos="232.705" zpos="-661.241" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_speedmushroom" GUID="PJz3hF9+rEOACtXwl12ULw=="/>
+		<POI MapID="1043" xpos="322.978" ypos="237.788" zpos="-654.654" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_speedmushroom" GUID="scqAzaozmEC0sNr6SlEuJw=="/>
+		<POI MapID="1043" xpos="263.356" ypos="258.965" zpos="-567.804" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_speedmushroom" GUID="w+g+ABjsoEevimkScrxF/g=="/>
+		<POI MapID="1043" xpos="295.846" ypos="262.595" zpos="-557.011" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_speedmushroom" GUID="/LolxiepD0OHz0f+gRAc2A=="/>
+		<POI MapID="1043" xpos="345.037" ypos="269.251" zpos="-522.331" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_speedmushroom" GUID="OjNtaawduEac8o35RpjCzA=="/>
+		<POI MapID="1043" xpos="444.125" ypos="283.55" zpos="-482.072" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_speedmushroom" GUID="QJyspECWUU6PjCIW8xl5Qg=="/>
+		<POI MapID="1043" xpos="417.457" ypos="283.555" zpos="-450.659" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_adrenalmushroom" GUID="Jnb+NMwFH0Kqoo7KrHy3wQ=="/>
+		<POI MapID="1043" xpos="402.418" ypos="264.281" zpos="-429.161" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_speedmushroom" GUID="MKDZXg3iB02KVmDc4W4jDg=="/>
+		<POI MapID="1043" xpos="357.702" ypos="257.602" zpos="-388.114" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_speedmushroom" GUID="lPB/Us8TkUiebhbTSquFiA=="/>
+		<POI MapID="1043" xpos="289.948" ypos="254.023" zpos="-385.26" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_speedmushroom" GUID="VtwNwzckM0+wfGxBaaa+Lg=="/>
+		<POI MapID="1043" xpos="244.785" ypos="247.665" zpos="-456.784" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_speedmushroom" GUID="Fkmn21LGTECU01Y3hfm/ag=="/>
+		<POI MapID="1043" xpos="250.236" ypos="251.175" zpos="-490.532" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_adrenalmushroom" GUID="hXf8Fl57GUmrJUke6w6TpA=="/>
+		<POI MapID="1043" xpos="224.676" ypos="251.69" zpos="-512.88" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_speedmushroom" GUID="hFTy00VNiU6qi/BwmtlR4w=="/>
+		<POI MapID="1043" xpos="182.33" ypos="252.539" zpos="-453.934" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_speedmushroom" GUID="m8BVvRs2Hkix0F5dYTzQGg=="/>
+		<POI MapID="1043" xpos="201.162" ypos="275.965" zpos="-355.119" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_adrenalmushroom" GUID="CxWysPxjhk64u8cEfl0qWQ=="/>
+		<POI MapID="1043" xpos="135.671" ypos="257.128" zpos="-379" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_speedmushroom" GUID="ENVXBBFhi0qAA+xfjKE3uQ=="/>
+		<POI MapID="1043" xpos="63.0291" ypos="285.076" zpos="-318.667" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_speedmushroom" GUID="Azjt9xcrVkGcSBAvECJjJA=="/>
+		<POI MapID="1043" xpos="7.39956" ypos="262.288" zpos="-387.122" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_speedmushroom" GUID="sinrDbma2Um48FN6TBoowA=="/>
+		<POI MapID="1043" xpos="13.3598" ypos="282.82" zpos="-438.604" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_exaltedchests.tw_hot_ab_exaltedchests_exaltedchest" GUID="YmGTVH2rekCNRpWcKyNx2A=="/>
+		<POI MapID="1043" xpos="3.08859" ypos="287.241" zpos="-458.601" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_exaltedchests.tw_hot_ab_exaltedchests_exaltedchest" GUID="KzPx8DdOX0qDMM3JDNrLNA=="/>
+		<POI MapID="1043" xpos="-7.08148" ypos="287.237" zpos="-472.957" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_exaltedchests.tw_hot_ab_exaltedchests_exaltedchest" GUID="QbeMqwirAk2puihYCHgzqQ=="/>
+		<POI MapID="1043" xpos="271.389" ypos="272.13" zpos="-312.156" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_speedmushroom" GUID="eFt8HctkNUqFyr1II8PkIA=="/>
+		<POI MapID="1043" xpos="363.443" ypos="251.734" zpos="-126.139" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_speedmushroom" GUID="z/EdRPJr+U2zy83Ud/XsYg=="/>
+		<POI MapID="1043" xpos="463.775" ypos="253.499" zpos="-137.869" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_speedmushroom" GUID="1tL+wdtTPE6DihMxvQeiTA=="/>
+		<POI MapID="1043" xpos="519.699" ypos="290.884" zpos="-213.438" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_speedmushroom" GUID="XOBWC4j+6EihIajgek0mhw=="/>
+		<POI MapID="1043" xpos="581.154" ypos="287.861" zpos="-230.823" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_speedmushroom" GUID="/RXd/tvyxEm6DPxocnalvQ=="/>
+		<POI MapID="1043" xpos="519.961" ypos="303.752" zpos="-274.964" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_speedmushroom" GUID="GJdO0cXP40GzXT7DbpVHYg=="/>
+		<POI MapID="1043" xpos="599.28" ypos="316.326" zpos="-399.827" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_speedmushroom" GUID="NuQhBH0wiEuX7xVu0Ex51A=="/>
+		<POI MapID="1043" xpos="449.049" ypos="314.269" zpos="-289.694" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_masterypoints.tw_hot_ab_masterypoint_obsidiantriumph" GUID="QtFkpvi080SX4UqPs+/wcw=="/>
+		<POI MapID="1043" xpos="384.904" ypos="287.958" zpos="-163.857" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_miscchests_miscchest" GUID="omQI6qsQrkGwAbZeJIwFyQ=="/>
+		<POI MapID="1043" xpos="439.037" ypos="254.177" zpos="-2.64725" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_speedmushroom" GUID="w19DBBIVC0ulTSDzgD/c9A=="/>
+		<POI MapID="1043" xpos="426.964" ypos="271.427" zpos="74.3728" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_speedmushroom" GUID="dTj5wCIe4UaxY9TsvChYtQ=="/>
+		<POI MapID="1043" xpos="418.91" ypos="280.455" zpos="138.058" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_speedmushroom" GUID="q4BeqzkMSUKJIrXuf3H2ww=="/>
+		<POI MapID="1043" xpos="331.118" ypos="288.869" zpos="141.338" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_speedmushroom" GUID="J0Ms8OB+E0qAaEnAus2Mbw=="/>
+		<POI MapID="1043" xpos="406.927" ypos="271.188" zpos="224.237" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_speedmushroom" GUID="EV3JR1ZP8UiaIoBRqdvCkA=="/>
+		<POI MapID="1043" xpos="500.822" ypos="294.933" zpos="196.466" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_speedmushroom" GUID="K1y2rg+OmkGU499jlB6nTw=="/>
+		<POI MapID="1043" xpos="484.18" ypos="301.053" zpos="130.686" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_speedmushroom" GUID="LlwPMQDE9UeOEmtnOkxtJQ=="/>
+		<POI MapID="1043" xpos="547.133" ypos="307.292" zpos="126.94" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_speedmushroom" GUID="hMOj+9+v4ECVOUDcN2/+xA=="/>
+		<POI MapID="1043" xpos="509.627" ypos="296.859" zpos="77.5784" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_speedmushroom" GUID="8XKxLD7OYUqIWY6C8b08Gg=="/>
+		<POI MapID="1043" xpos="457.407" ypos="294.379" zpos="53.5412" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_speedmushroom" GUID="Sv011eB12keNzUSvraMK3Q=="/>
+		<POI MapID="1043" xpos="472.501" ypos="283.513" zpos="-1.39917" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_speedmushroom" GUID="gODZCnj/bkiV0JRkW50pug=="/>
+		<POI MapID="1043" xpos="531.419" ypos="299.439" zpos="100.211" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_adrenalmushroom" GUID="O0wSfTqrDUCM14YpGazkdg=="/>
+		<POI MapID="1043" xpos="557.538" ypos="315.105" zpos="73.9679" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_speedmushroom" GUID="XHx6sFnoDkWtDrTRQwjlfw=="/>
+		<POI MapID="1043" xpos="605.171" ypos="298.981" zpos="28.6944" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_speedmushroom" GUID="BxmbewARzk6Bp0PXq2EAOg=="/>
+		<POI MapID="1043" xpos="597.332" ypos="298.485" zpos="-4.43883" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_speedmushroom" GUID="gGU/L5enl0uOk6z/bqCxyg=="/>
+		<POI MapID="1043" xpos="573.973" ypos="305.685" zpos="-76.3451" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_speedmushroom" GUID="OQJex5TxREyzm8ghZ4LNFQ=="/>
+		<POI MapID="1043" xpos="571.754" ypos="295.47" zpos="-133.38" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_speedmushroom" GUID="O27NSxuKhEWmdehO7rGvig=="/>
+		<POI MapID="1043" xpos="591.412" ypos="312.245" zpos="-190.326" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_masterypoints.tw_hot_ab_masterypoint_eastwatchbluff" GUID="th3uQboDCEOb+MD08mTMkw=="/>
+		<POI MapID="1043" xpos="594.165" ypos="302.637" zpos="91.5191" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_speedmushroom" GUID="WFtKoVuCFkC43Qv/75NW2g=="/>
+		<POI MapID="1043" xpos="583.113" ypos="300.851" zpos="87.8092" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_miscchests_miscchest" GUID="/ScgpmfVvEClS/alV+U3Mw=="/>
+		<POI MapID="1043" xpos="610.632" ypos="273.102" zpos="77.1372" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_speedmushroom" GUID="EVpKQEqPfUK3UbHzPPnb9g=="/>
+		<POI MapID="1043" xpos="586.534" ypos="246.542" zpos="185.698" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_masterypoints.tw_hot_ab_masterypoint_vengeancerising" GUID="DXJteyyE60OLfZQneaYJXw=="/>
+		<POI MapID="1043" xpos="502.624" ypos="328.081" zpos="199.145" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_speedmushroom" GUID="3b3/qF+ON0CWInfe14Vxww=="/>
+		<POI MapID="1043" xpos="508.45" ypos="383.321" zpos="260.492" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_miscchests_miscchest" GUID="OHCNA7U2zEmeDEdAWl4Ygg=="/>
+		<POI MapID="1043" xpos="502.713" ypos="239.994" zpos="350.13" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_speedmushroom" GUID="lIAg2oGauUabhrtK7gwzCA=="/>
+		<POI MapID="1043" xpos="498.493" ypos="241.292" zpos="308.544" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_adrenalmushroom" GUID="wMQmq897ykirIRyQ3zq69A=="/>
+		<POI MapID="1043" xpos="535.849" ypos="239.712" zpos="290.361" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_speedmushroom" GUID="FY2zq9PKTUG7+f28uVAo7w=="/>
+		<POI MapID="1043" xpos="590.175" ypos="238.897" zpos="320.635" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_speedmushroom" GUID="VcmyEwi1yEW7ZtdQk0tfeA=="/>
+		<POI MapID="1043" xpos="575.858" ypos="272.028" zpos="223.939" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_speedmushroom" GUID="xh0hHr4BDUm0VPcL5uRktg=="/>
+		<POI MapID="1043" xpos="342.069" ypos="304.44" zpos="229.07" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_speedmushroom" GUID="YSpegVGWb0W8hNbbf0tUtQ=="/>
+		<POI MapID="1043" xpos="294.978" ypos="306.913" zpos="336.61" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_speedmushroom" GUID="sbt6cy1j1kGrsXMn3DA0Hg=="/>
+		<POI MapID="1043" xpos="247.867" ypos="312.065" zpos="410.835" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_speedmushroom" GUID="By1yaBnDYE6CDVUcBkalwg=="/>
+		<POI MapID="1043" xpos="337.411" ypos="313.889" zpos="393.316" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_speedmushroom" GUID="frSxlldytEmy13f/ce3SFA=="/>
+		<POI MapID="1043" xpos="352.88" ypos="324.474" zpos="496.447" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_speedmushroom" GUID="BYUNj0SzoU6p2q0LLhCGLw=="/>
+		<POI MapID="1043" xpos="359.5" ypos="323.506" zpos="512.234" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_adrenalmushroom" GUID="v+IhcoOQfkmUfmATiRGeKw=="/>
+		<POI MapID="1043" xpos="352.863" ypos="323.882" zpos="545.68" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_exaltedchests.tw_hot_ab_exaltedchests_exaltedchest" GUID="xQOFFrQRYUuGg5QGhig2tA=="/>
+		<POI MapID="1043" xpos="316.887" ypos="326.636" zpos="618.772" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_speedmushroom" GUID="Bj0wphz5xUKpduEL5cywRg=="/>
+		<POI MapID="1043" xpos="307.443" ypos="322.148" zpos="487.558" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_speedmushroom" GUID="9b2t+/TiT0CJJWb/okC9pw=="/>
+		<POI MapID="1043" xpos="254.352" ypos="331.121" zpos="514.265" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_exaltedchests.tw_hot_ab_exaltedchests_exaltedchest" GUID="MDr+7Z6Fv0uaH+R8RD3dEA=="/>
+		<POI MapID="1043" xpos="243.953" ypos="332.609" zpos="493.94" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_speedmushroom" GUID="8eMbZXBcbkmrNYThbePCHw=="/>
+		<POI MapID="1043" xpos="196.195" ypos="376.552" zpos="687.61" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_speedmushroom" GUID="yxRpsGSankSWqo+hCRLUiA=="/>
+		<POI MapID="1043" xpos="166.335" ypos="388.032" zpos="724.024" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_speedmushroom" GUID="o3v3BLc6D02u82tAB+Y15g=="/>
+		<POI MapID="1043" xpos="131.383" ypos="398.281" zpos="723.829" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_speedmushroom" GUID="21MYrl+NxUGOn4iKNKRFHw=="/>
+		<POI MapID="1043" xpos="-73.8598" ypos="329.067" zpos="696.217" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_speedmushroom" GUID="ckv/7lUVvkGdbb/kxg9lhQ=="/>
+		<POI MapID="1043" xpos="-467.286" ypos="336.425" zpos="490.248" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_speedmushroom" GUID="U6DzuhXzaUu+dH5xn8MVTQ=="/>
+		<POI MapID="1043" xpos="-562.698" ypos="325.417" zpos="509.472" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_speedmushroom" GUID="0qM5MDFF40u1byOa+UWfsw=="/>
+		<POI MapID="1043" xpos="-531.347" ypos="321.462" zpos="555.366" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_speedmushroom" GUID="+FDREZT5ekqhn8vcgE3mCQ=="/>
+		<POI MapID="1043" xpos="-551.276" ypos="320.805" zpos="570.463" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_speedmushroom" GUID="FlE+gqLhh0SS04vVQLMIIQ=="/>
+		<POI MapID="1043" xpos="-512.875" ypos="319.781" zpos="605.883" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_speedmushroom" GUID="DxMaZ53DlkGBp7UX5xzagg=="/>
+		<POI MapID="1043" xpos="-589.332" ypos="319.481" zpos="606.974" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_speedmushroom" GUID="9Zmp34O7I020sXqFeFiGVw=="/>
+		<POI MapID="1043" xpos="-598.811" ypos="341.12" zpos="545.906" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_speedmushroom" GUID="9g6Jnngzw0aZrCkf1Gw+pQ=="/>
+		<POI MapID="1043" xpos="-30.6025" ypos="315.71" zpos="406.486" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_speedmushroom" GUID="wcOM3cpPfUKtAUNb9RVO2Q=="/>
+		<POI MapID="1043" xpos="141.673" ypos="82.7434" zpos="-44.6172" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_adrenalmushroom" GUID="uvY7Zw2ltEi774b/JdGyAA=="/>
+		<POI MapID="1043" xpos="157.312" ypos="83.2892" zpos="9.49662" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_speedmushroom" GUID="ExuBJTF4nk+sXac5y27r0g=="/>
+		<POI MapID="1043" xpos="77.5532" ypos="21.3295" zpos="120.341" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_tarnishedtraitor" GUID="uloLEB7JTEGQ9Bm/THkKuQ=="/>
+		<POI MapID="1043" xpos="22.039" ypos="20.7155" zpos="208.297" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_exaltedchests.tw_hot_ab_exaltedchests_exaltedchest" GUID="BKqYKHdk6kKQWSS00dAfUw=="/>
+		<POI MapID="1043" xpos="12.6922" ypos="21.1059" zpos="204.004" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_exaltedchests.tw_hot_ab_exaltedchests_exaltedchest" GUID="NQ7UW/xsL025xDro6I3gGw=="/>
+		<POI MapID="1043" xpos="10.1193" ypos="19.4068" zpos="201.42" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_exaltedchests.tw_hot_ab_exaltedchests_exaltedchest" GUID="EEnE4ypMiUiTkIQddbgxsA=="/>
+		<POI MapID="1043" xpos="-87.3577" ypos="10.8459" zpos="197.288" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_exaltedchests.tw_hot_ab_exaltedchests_exaltedchest" GUID="kuKzDNGQ9EeVuZ0W65pRfg=="/>
+		<POI MapID="1043" xpos="-74.3027" ypos="10.8501" zpos="207.11" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_exaltedchests.tw_hot_ab_exaltedchests_exaltedchest" GUID="EF3tRvWapU2fhhatpY1jXg=="/>
+		<POI MapID="1043" xpos="-81.1864" ypos="10.746" zpos="215.648" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_exaltedchests.tw_hot_ab_exaltedchests_exaltedchest" GUID="sBbMrHza/USi+HDkW8cJlQ=="/>
+		<POI MapID="1043" xpos="-74.9382" ypos="10.869" zpos="177.25" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_exaltedchests.tw_hot_ab_exaltedchests_exaltedchest" GUID="hVFMXrX4FEC8L5gSF0vkLQ=="/>
+		<POI MapID="1043" xpos="-87.6233" ypos="10.8684" zpos="177.233" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_exaltedchests.tw_hot_ab_exaltedchests_exaltedchest" GUID="Gm8ssty8UUeqTeH1mh4GdQ=="/>
+		<POI MapID="1043" xpos="-45.1086" ypos="-0.39671" zpos="83.3745" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_exaltedchests.tw_hot_ab_exaltedchests_exaltedchest" GUID="EpNzgGYcsUG9bbVJZCLTJw=="/>
+		<POI MapID="1043" xpos="-54.1783" ypos="-0.404801" zpos="90.7963" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_exaltedchests.tw_hot_ab_exaltedchests_exaltedchest" GUID="xMVvxqS88EeTlG5LWA5dfw=="/>
+		<POI MapID="1043" xpos="-45.8035" ypos="-0.4029" zpos="43.4631" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_exaltedchests.tw_hot_ab_exaltedchests_exaltedchest" GUID="DYkf2f140E6SU2z7VIzvnw=="/>
+		<POI MapID="1043" xpos="-56.4156" ypos="-0.405597" zpos="48.7517" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_exaltedchests.tw_hot_ab_exaltedchests_exaltedchest" GUID="kyMZCWju00irGkNAhDQN+w=="/>
+		<POI MapID="1043" xpos="-71.4245" ypos="-0.362862" zpos="47.0538" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_exaltedchests.tw_hot_ab_exaltedchests_exaltedchest" GUID="EF0YFKitCki5GtplLwVQIw=="/>
+		<POI MapID="1043" xpos="-134.458" ypos="7.0198" zpos="41.339" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_exaltedchests.tw_hot_ab_exaltedchests_exaltedchest" GUID="blqUtqfvYE+JY0ZEB7thYA=="/>
+		<POI MapID="1043" xpos="-171.448" ypos="6.98578" zpos="65.5749" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_exaltedchests.tw_hot_ab_exaltedchests_exaltedchest" GUID="Vg82Tzx1NU+jccvGXo/oEg=="/>
+		<POI MapID="1043" xpos="-161.797" ypos="6.87739" zpos="92.6915" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_exaltedchests.tw_hot_ab_exaltedchests_exaltedchest" GUID="Ub9iU7JlnEuLpKPjUsFT4w=="/>
+		<POI MapID="1043" xpos="-198.618" ypos="6.929" zpos="41.2317" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_exaltedchests.tw_hot_ab_exaltedchests_exaltedchest" GUID="VY8Aqp8sJU+I/KnOjbfysQ=="/>
+		<POI MapID="1043" xpos="-230.517" ypos="19.0654" zpos="-72.3754" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_exaltedchests.tw_hot_ab_exaltedchests_exaltedchest" GUID="WdsOTT4oIEuJfMB3vUdxRA=="/>
+		<POI MapID="1043" xpos="-237.922" ypos="19.3991" zpos="-90.0693" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_exaltedchests.tw_hot_ab_exaltedchests_exaltedchest" GUID="FKgaOtRBVEaBQvgCHV/x9A=="/>
+		<POI MapID="1043" xpos="-257.056" ypos="18.995" zpos="-118.65" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_exaltedchests.tw_hot_ab_exaltedchests_exaltedchest" GUID="Ms02SoV8sE6aKQzRq8b4/A=="/>
+		<POI MapID="1043" xpos="-237.713" ypos="19.268" zpos="-118.855" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_exaltedchests.tw_hot_ab_exaltedchests_exaltedchest" GUID="3Dv8qZOoGEmMu9HYTpgFIg=="/>
+		<POI MapID="1043" xpos="-197.81" ypos="9.84554" zpos="-63.5881" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_exaltedchests.tw_hot_ab_exaltedchests_exaltedchest" GUID="RXXDyXW1tkijR93BSxyFcA=="/>
+		<POI MapID="1043" xpos="-88.922" ypos="-4.25721" zpos="-111.677" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_exaltedchests.tw_hot_ab_exaltedchests_exaltedchest" GUID="2RGmtJEUsEO0qn3R2viEuA=="/>
+		<POI MapID="1043" xpos="-48.523" ypos="1.61923" zpos="-101.5" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_exaltedchests.tw_hot_ab_exaltedchests_exaltedchest" GUID="tvj3znkek0WIlRpMzw+35A=="/>
+		<POI MapID="1043" xpos="-30.5298" ypos="11.452" zpos="-88.8419" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_exaltedchests.tw_hot_ab_exaltedchests_exaltedchest" GUID="pCWEvSSQnkO82adjfh0WZw=="/>
+		<POI MapID="1043" xpos="-52.0496" ypos="1.65689" zpos="-75.2448" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_exaltedchests.tw_hot_ab_exaltedchests_exaltedchest" GUID="zxywL68d/U+UCp8TvaUH4Q=="/>
+		<POI MapID="1043" xpos="-88.2107" ypos="-4.68455" zpos="-62.8815" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_exaltedchests.tw_hot_ab_exaltedchests_exaltedchest" GUID="slIqK8FTWE+bVrpO1Cg/dQ=="/>
+		<POI MapID="1043" xpos="131.696" ypos="4.40545" zpos="-304.012" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_speedmushroom" GUID="vXFkjKZ8SkSHEQe4BkmLBg=="/>
+		<POI MapID="1043" xpos="313.119" ypos="60.2467" zpos="-151.584" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_speedmushroom" GUID="eBQNaD5LQUiI4oMvj3xWDg=="/>
+		<POI MapID="1043" xpos="205.14" ypos="213.724" zpos="-228.565" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_miscchests_miscchest" GUID="b1iAQyRQG024M3NYXevSqw=="/>
+		<POI MapID="1043" xpos="44.3174" ypos="83.8167" zpos="97.853" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_speedmushroom" GUID="avN2tCswAkK+bthYrPo80w=="/>
+		<POI MapID="1043" xpos="-445.888" ypos="350.969" zpos="637.467" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_speedmushroom" GUID="O5DC8fPIj067ENnEeZHkvA=="/>
+		<POI MapID="1043" xpos="-471.973" ypos="475.028" zpos="492.55" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_miscchests_miscchest" GUID="UnUm55btIUOze9wHSzBvCA=="/>
+		<POI MapID="1043" xpos="-372.59" ypos="474.699" zpos="479.812" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_speedmushroom" GUID="X6A697aIFEKwfVOvtOVKvQ=="/>
+		<POI MapID="1043" xpos="-308.431" ypos="474.564" zpos="509.025" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_speedmushroom" GUID="i2q3XCEvxE6KKmJXL6Bowg=="/>
+		<POI MapID="1043" xpos="-69.1585" ypos="355.98" zpos="455.837" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_miscchests_miscchest" GUID="MBHCMByt40Sip6nQPyZrUQ=="/>
+		<POI MapID="1043" xpos="-347.593" ypos="273.34" zpos="218.095" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_exaltedchests.tw_hot_ab_exaltedchests_exaltedchest" GUID="5pKT9/oHMEGcrGoLm7EjoQ=="/>
+		<POI MapID="1043" xpos="90.5035" ypos="322.124" zpos="613.698" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_speedmushroom" GUID="HgRXrdItYkyt3NoYLCM9Ww=="/>
+		<POI MapID="1043" xpos="121.814" ypos="319.302" zpos="555.88" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_speedmushroom" GUID="MTZAp5gTd06dUtmbKXTJRw=="/>
+		<POI MapID="1043" xpos="61.5126" ypos="305.925" zpos="521.203" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_speedmushroom" GUID="sEi1LO06K0qAZwFIMqexIQ=="/>
+		<POI MapID="1043" xpos="79.9006" ypos="301.109" zpos="534.346" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_speedmushroom" GUID="TrRzEoCJCE2xpjiRzYRzlQ=="/>
+		<POI MapID="1043" xpos="43.6625" ypos="301.554" zpos="580.354" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_speedmushroom" GUID="OhN8g+8Qw0OR/Qb5EyA4gg=="/>
+		<POI MapID="1043" xpos="-312.632" ypos="333.388" zpos="533.335" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_speedmushroom" GUID="JyrefQcoekiIUBaosnowqA=="/>
+		<POI MapID="1043" xpos="-200.02" ypos="291.616" zpos="512.419" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_speedmushroom" GUID="x8RPvXzEA0mzdiwLvE6qUw=="/>
+		<POI MapID="1043" xpos="151.453" ypos="340.25" zpos="539.763" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_exaltedchests.tw_hot_ab_exaltedchests_exaltedchest" GUID="aZiFMnzmSUui0BIARu6HbQ=="/>
+		<POI MapID="1043" xpos="-110.951" ypos="304.352" zpos="382.939" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_speedmushroom" GUID="sNXcO9bY50Ky2umwFtUvyQ=="/>
+		<POI MapID="1043" xpos="-438.965" ypos="305.408" zpos="430.644" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_adrenalmushroom" GUID="5/sgh4vp1k2codBZz8pM7Q=="/>
+		<POI MapID="1043" xpos="-499.03" ypos="312.696" zpos="339.156" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_speedmushroom" GUID="sLgHHv76GUm8B1xVb3W+vQ=="/>
+		<POI MapID="1043" xpos="-507.633" ypos="308.731" zpos="269.23" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_speedmushroom" GUID="5bU1Xfgp3E6BUJYdz3SeAA=="/>
+		<POI MapID="1043" xpos="-505.66" ypos="286.241" zpos="190.471" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_speedmushroom" GUID="4f9yzVHCXkOFD7Synz7mrg=="/>
+		<POI MapID="1043" xpos="-504.03" ypos="290.945" zpos="137.465" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_speedmushroom" GUID="5dAomKChn0iguHKu7nFj7g=="/>
+		<POI MapID="1043" xpos="-594.428" ypos="291.676" zpos="156.584" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_speedmushroom" GUID="66IluPnAwEGLwSDOiPhqOQ=="/>
+		<POI MapID="1043" xpos="-543.328" ypos="292.765" zpos="175.383" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_miscchests_miscchest" GUID="vEhkRIUdaUKSJfyU1/f87A=="/>
+		<POI MapID="1043" xpos="-519.37" ypos="267.708" zpos="110.783" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_speedmushroom" GUID="LA4jNLh+BEanTlULK3mT3Q=="/>
+		<POI MapID="1043" xpos="-580.187" ypos="263.025" zpos="153.825" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_adrenalmushroom" GUID="e7bw9/yYfUydmbb8PYOONw=="/>
+		<POI MapID="1043" xpos="-584.117" ypos="262.043" zpos="103.824" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_speedmushroom" GUID="IO6cYy7+FESPC0tVu1+sWQ=="/>
+		<POI MapID="1043" xpos="-604.219" ypos="236.877" zpos="11.6995" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_miscchests_miscchest" GUID="FkmFgN3MGECjusx8CG9xvg=="/>
+		<POI MapID="1043" xpos="-386.436" ypos="289.507" zpos="7.33062" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_miscchests_miscchest" GUID="OItFyRUzW0yaLrNL7D9QjA=="/>
+		<POI MapID="1043" xpos="370.025" ypos="229.2" zpos="-769.275" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_speedmushroom" GUID="qcKWU0cT6kSfqTW5EIANYg=="/>
+		<POI MapID="1043" xpos="21.2404" ypos="282.615" zpos="-416.324" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_speedmushroom" GUID="MMhIqfe/E0unZyLxKsGeaw=="/>
+		<POI MapID="1043" xpos="60.3834" ypos="270.508" zpos="-451.47" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_speedmushroom" GUID="0DSGNsM3yU+5abr9rxRKgA=="/>
+		<POI MapID="1043" xpos="47.9027" ypos="237.289" zpos="-678.997" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_speedmushroom" GUID="uB5u4nGLx0CriQ/hTzlPvg=="/>
+		<POI MapID="1043" xpos="-230.094" ypos="259.26" zpos="-682.461" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_speedmushroom" GUID="fTg8pWKUYkyU1R4cn3a38g=="/>
+		<POI MapID="1043" xpos="-316.315" ypos="278.416" zpos="-762.291" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_speedmushroom" GUID="dft0WefrpE2FFBnkfk5Y6A=="/>
+		<POI MapID="1043" xpos="-327.47" ypos="280.066" zpos="-817.529" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_adrenalmushroom" GUID="iJr084YoGEWZukXWHvoKzw=="/>
+		<POI MapID="1043" xpos="-322.017" ypos="321.475" zpos="-473.82" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_speedmushroom" GUID="IvRBpyAqBEC+NoWgJLQ6gQ=="/>
+		<POI MapID="1043" xpos="-442.639" ypos="294.265" zpos="-453.768" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_miscchests_miscchest" GUID="D+3YxWYVOUmKw2lwzDDyLA=="/>
+		<POI MapID="1043" xpos="-449.689" ypos="351.594" zpos="-471.622" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_speedmushroom" GUID="cTmibsO0VkuXhrRX5T8Ojg=="/>
+		<POI MapID="1043" xpos="-470.582" ypos="354.471" zpos="-496.109" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_masterypoints.tw_hot_ab_masterypoint_endurance" GUID="6XFibsE4rk6EKM9TRy+u/w=="/>
+		<POI MapID="1043" xpos="-458.057" ypos="366.771" zpos="-586.557" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_adrenalmushroom" GUID="1bD6sliFYEuxuutOJwcfOg=="/>
+		<POI MapID="1043" xpos="-457.2" ypos="344.094" zpos="-677.98" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_speedmushroom" GUID="I3EqENnNLUiGs5xn9sjdgw=="/>
+		<POI MapID="1043" xpos="-133.94" ypos="81.0635" zpos="-51.1008" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_speedmushroom" GUID="c10eFJcOe06/dnPtzUIGZA=="/>
+		<POI MapID="1043" xpos="-8.29457" ypos="82.7973" zpos="57.6443" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_speedmushroom" GUID="eREmxNbNCk6UkWz07YjA+A=="/>
+		<POI MapID="1043" xpos="204.912" ypos="117.347" zpos="64.5689" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_speedmushroom" GUID="va6O5CV9ZEaC9b2yZSGntA=="/>
+		<POI MapID="1043" xpos="449.041" ypos="314.24" zpos="5.75812" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_miscchests_miscchest" GUID="9M7rIBA0R0Gpd2kF+hbbog=="/>
+		<POI MapID="1043" xpos="518.64" ypos="288.702" zpos="-55.4973" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_speedmushroom" GUID="HOq23F0LzEimO2MEENA6Iw=="/>
+		<POI MapID="1043" xpos="460.959" ypos="267.928" zpos="-442.406" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_speedmushroom" GUID="TF3VRjc/jE2vkPJrdguAIQ=="/>
+		<POI MapID="1043" xpos="440.915" ypos="298.799" zpos="126.374" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_speedmushroom" GUID="H+ObNLRR0k6dX8bommkCxQ=="/>
+		<POI MapID="1043" xpos="69.2808" ypos="418.999" zpos="717.076" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_exaltedchests.tw_hot_ab_exaltedchests_exaltedchest" GUID="iYbqI/a1ckKoKBKSJ7tF7g=="/>
+		<POI MapID="1043" xpos="57.5225" ypos="418.996" zpos="722.595" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_exaltedchests.tw_hot_ab_exaltedchests_exaltedchest" GUID="HWpmhVIzX0GMgYBh/9vMow=="/>
+		<POI MapID="1043" xpos="20.4055" ypos="419.826" zpos="705.628" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_exaltedchests.tw_hot_ab_exaltedchests_exaltedchest" GUID="d/jAY9Eiv0yc5Hicn4ii9w=="/>
+		<POI MapID="1043" xpos="56.0728" ypos="420.274" zpos="670.53" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_exaltedchests.tw_hot_ab_exaltedchests_exaltedchest" GUID="hJLNzTxprUO8lRYn8csmkg=="/>
+		<POI MapID="1043" xpos="505.834" ypos="363.582" zpos="682.203" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_miscchests_miscchest" GUID="LvIKDz2+Zkyx0+iPQcCtDg=="/>
+		<POI MapID="1043" xpos="-198.166" ypos="469.786" zpos="606.721" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_masterypoints.tw_hot_ab_masterypoint_straightandnarrow" GUID="BhHp5rNCL0q14AcC7vZ2+Q=="/>
+		<POI MapID="1043" xpos="-313.598" ypos="262.672" zpos="148.193" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_exaltedchests.tw_hot_ab_exaltedchests_exaltedchest" GUID="xF614NyoI0KY1mQx67TMtA=="/>
+		<POI MapID="1043" xpos="-347.755" ypos="261.004" zpos="112.846" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_exaltedchests.tw_hot_ab_exaltedchests_exaltedchest" GUID="U1uhYZ2yU0WQjkIrJylK/A=="/>
+		<POI MapID="1043" xpos="-325.201" ypos="260.312" zpos="113.285" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_speedmushroom" GUID="HKqj8XxFoE6FituamlVhBg=="/>
+		<POI MapID="1043" xpos="-308.253" ypos="252.269" zpos="85.9468" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_speedmushroom" GUID="g/yjgo0EtE6mite8loNRgw=="/>
+		<POI MapID="1043" xpos="-359.517" ypos="245.147" zpos="81.0416" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_adrenalmushroom" GUID="PqkehfdWq0SzGk+QLvYBjQ=="/>
+		<POI MapID="1043" xpos="-252.671" ypos="256.691" zpos="133.765" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_speedmushroom" GUID="7qYf2vf6OEacePW2Ia0JUg=="/>
+		<POI MapID="1043" xpos="-268.013" ypos="252.626" zpos="194.408" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_speedmushroom" GUID="lYVoh7wspkWJrVh+6JEbbA=="/>
+		<POI MapID="1043" xpos="-486.256" ypos="308.319" zpos="279.316" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_exaltedchests.tw_hot_ab_exaltedchests_exaltedchest" GUID="7SUWOfni70CGkbxgyJ/E+w=="/>
+		<POI MapID="1043" xpos="-543.195" ypos="260.381" zpos="134.165" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_exaltedchests.tw_hot_ab_exaltedchests_exaltedchest" GUID="LxeovdWbTEejkUkcjGKiJw=="/>
+		<POI MapID="1043" xpos="-304.923" ypos="275.996" zpos="399.746" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_exaltedchests.tw_hot_ab_exaltedchests_exaltedchest" GUID="RVrf7vxyX0GHjYhmd8dSdA=="/>
+		<POI MapID="1043" xpos="-315.298" ypos="277.528" zpos="364.595" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_exaltedchests.tw_hot_ab_exaltedchests_exaltedchest" GUID="em3XiSvYdUm3Tme1l703wA=="/>
+		<POI MapID="1043" xpos="-307.233" ypos="259.883" zpos="334.751" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_speedmushroom" GUID="N3fCRqC/x0GCzeFdHJlJrA=="/>
+		<POI MapID="1043" xpos="-242.071" ypos="278.187" zpos="368.81" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_exaltedchests.tw_hot_ab_exaltedchests_exaltedchest" GUID="/hGl7holYEqu7nrdNQQP+Q=="/>
+		<POI MapID="1043" xpos="418.862" ypos="324.128" zpos="182.033" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_speedmushroom" GUID="mIqjG5AiFUybuqGkkxuAnA=="/>
+		<POI MapID="1043" xpos="31.7921" ypos="21.1059" zpos="204.292" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_exaltedchests.tw_hot_ab_exaltedchests_exaltedchest" GUID="F/Z+XXn9zUWockiAcJQW0w=="/>
+		<POI MapID="1043" xpos="-87.6142" ypos="10.9204" zpos="206.944" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_exaltedchests.tw_hot_ab_exaltedchests_exaltedchest" GUID="9CuYeKEES0W9KFJyFxOoiw=="/>
+		<POI MapID="1043" xpos="-74.8377" ypos="10.7936" zpos="196.945" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_exaltedchests.tw_hot_ab_exaltedchests_exaltedchest" GUID="Rga4JsZe1UCdOLtksJsSYg=="/>
+		<POI MapID="1043" xpos="-74.6214" ypos="10.8336" zpos="167.376" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_exaltedchests.tw_hot_ab_exaltedchests_exaltedchest" GUID="P6X56W9a8Uu1dflBcmVclA=="/>
+		<POI MapID="1043" xpos="-68.4449" ypos="-0.405608" zpos="90.2426" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_exaltedchests.tw_hot_ab_exaltedchests_exaltedchest" GUID="wLvMfBLJ10CW8Bc3fz0QDQ=="/>
+		<POI MapID="1043" xpos="-74.5028" ypos="-0.405608" zpos="77.6602" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_exaltedchests.tw_hot_ab_exaltedchests_exaltedchest" GUID="yxFz5BxE20yQ5Tjqd7tmcg=="/>
+		<POI MapID="1043" xpos="-159.174" ypos="6.91186" zpos="28.9839" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_exaltedchests.tw_hot_ab_exaltedchests_exaltedchest" GUID="EleqsG+jcUmMWn/le4BUsw=="/>
+		<POI MapID="1043" xpos="-177.645" ypos="7.05949" zpos="102.046" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_exaltedchests.tw_hot_ab_exaltedchests_exaltedchest" GUID="85G8dhl/mkqrkvziV6uF8w=="/>
+		<POI MapID="1043" xpos="-208.787" ypos="11.6007" zpos="-118.791" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_exaltedchests.tw_hot_ab_exaltedchests_exaltedchest" GUID="NGMFQZn/ekOZPE5F9Uxuag=="/>
+		<POI MapID="1043" xpos="-102.795" ypos="-4.70336" zpos="-88.7639" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_exaltedchests.tw_hot_ab_exaltedchests_exaltedchest" GUID="kkV8ySnMGEmLC4mKNumLaA=="/>
+		<POI MapID="1043" xpos="-67.2372" ypos="-4.58351" zpos="-115.3" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_exaltedchests.tw_hot_ab_exaltedchests_exaltedchest" GUID="dmAn4eOjg0C+O7n+91J13A=="/>
+		<POI MapID="1043" xpos="495.775" ypos="301.065" zpos="120.081" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_exaltedchests.tw_hot_ab_exaltedchests_exaltedchest" GUID="riW9bUI840uM7ZDQryTWHQ=="/>
+		<POI MapID="1043" xpos="490.342" ypos="300.664" zpos="133.997" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_exaltedchests.tw_hot_ab_exaltedchests_exaltedchest" GUID="y22DRlKTIUyLb8bafQQ0Iw=="/>
+		<POI MapID="1043" xpos="521.954" ypos="298.792" zpos="168.538" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_exaltedchests.tw_hot_ab_exaltedchests_exaltedchest" GUID="3Ro5Zsi3r0+zFkpoCD1dSw=="/>
+		<POI MapID="1043" xpos="492.393" ypos="292.181" zpos="31.9304" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_exaltedchests.tw_hot_ab_exaltedchests_exaltedchest" GUID="1LHTB+b9GEyDoAyacVlPLQ=="/>
+		<POI MapID="1043" xpos="565.94" ypos="295.317" zpos="-6.90413" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_exaltedchests.tw_hot_ab_exaltedchests_exaltedchest" GUID="3UPbzPrJZE6yh373wXU7aw=="/>
+		<POI MapID="1043" xpos="558.491" ypos="295.564" zpos="-20.3058" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_exaltedchests.tw_hot_ab_exaltedchests_exaltedchest" GUID="XitrkSNOJ0WNj7Z9to8CVQ=="/>
+		<POI MapID="1043" xpos="569.774" ypos="287.524" zpos="-167.842" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_exaltedchests.tw_hot_ab_exaltedchests_exaltedchest" GUID="lsD6v2v6k06JUaIr37DctA=="/>
+		<POI MapID="1043" xpos="551.343" ypos="286.275" zpos="-216.223" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_exaltedchests.tw_hot_ab_exaltedchests_exaltedchest" GUID="qiaO7WrVuEmBe7YHG7BVPQ=="/>
+		<POI MapID="1043" xpos="555.372" ypos="285.8" zpos="-228.318" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_exaltedchests.tw_hot_ab_exaltedchests_exaltedchest" GUID="vYT8Irr0ik2+Eixbu411CA=="/>
+		<POI MapID="1043" xpos="-117.839" ypos="306.195" zpos="436.68" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_speedmushroom" GUID="+mF4xGfX5U+GmO4Og/jEkw=="/>
+		<POI MapID="1043" xpos="-87.379" ypos="10.8519" zpos="167.598" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_exaltedchests.tw_hot_ab_exaltedchests_exaltedchest" GUID="9Kt5REQri0+gnQGDlfHWUA=="/>
+		<POI MapID="1043" xpos="-176.936" ypos="6.99166" zpos="29.6739" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_exaltedchests.tw_hot_ab_exaltedchests_exaltedchest" GUID="IBbluPu0LE6ky4QxGgMJkQ=="/>
+		<POI MapID="1043" xpos="-197.559" ypos="6.96408" zpos="90.405" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_exaltedchests.tw_hot_ab_exaltedchests_exaltedchest" GUID="Yk9rjjdgLUuECFU8iaN0mw=="/>
+		<POI MapID="1043" xpos="-258.587" ypos="19.1911" zpos="-59.2741" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_exaltedchests.tw_hot_ab_exaltedchests_exaltedchest" GUID="OJyLmbBJ6ESMv8Ge7xD4mA=="/>
+		<POI MapID="1043" xpos="-67.7958" ypos="-4.19959" zpos="-65.8885" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_exaltedchests.tw_hot_ab_exaltedchests_exaltedchest" GUID="iCgaDBCD5kqNg9bCByvONg=="/>
+		<POI MapID="1043" xpos="-61.1394" ypos="316.824" zpos="459.522" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_speedmushroom" GUID="SJk4AAAWZUas+BZB4FO9sA=="/>
+		<POI MapID="1043" xpos="-397.067" ypos="304.161" zpos="-625.2" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_exaltedchests.tw_hot_ab_exaltedchests_exaltedchest" GUID="M4uMLLKyp0KYif44FvUItg=="/>
+		<POI MapID="1043" xpos="-409.072" ypos="304.255" zpos="-617.08" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_exaltedchests.tw_hot_ab_exaltedchests_exaltedchest" GUID="udryKCFmOkKKl+Mp+pGaNg=="/>
+		<POI MapID="1043" xpos="-442.033" ypos="307.537" zpos="-634.389" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_exaltedchests.tw_hot_ab_exaltedchests_exaltedchest" GUID="h53KtViTHk2O/cODIHty6w=="/>
+		<POI MapID="1043" xpos="-384.828" ypos="304.963" zpos="-655.864" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_exaltedchests.tw_hot_ab_exaltedchests_exaltedchest" GUID="boeLOHtwmEmIzrR2NPOf9A=="/>
+		<POI MapID="1043" xpos="66.6856" ypos="224.028" zpos="-805.409" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_exaltedchests.tw_hot_ab_exaltedchests_exaltedchest" GUID="/zc+zyx1ZU6pvqhAnu5cuA=="/>
+		<POI MapID="1043" xpos="74.7995" ypos="223.353" zpos="-793.511" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_adrenalmushroom" GUID="whxj/yV2O0uW5a6OUKFI2w=="/>
+		<POI MapID="1043" xpos="92.7937" ypos="219.334" zpos="-839.266" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_exaltedchests.tw_hot_ab_exaltedchests_exaltedchest" GUID="xmwJPMotw0C92vpsdPnXQg=="/>
+		<POI MapID="1043" xpos="39.5186" ypos="222.351" zpos="-832.334" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_exaltedchests.tw_hot_ab_exaltedchests_exaltedchest" GUID="z7mkfBJ3j0yAGqIRFSIMqQ=="/>
+		<POI MapID="1043" xpos="54.5626" ypos="223.844" zpos="-805.38" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_exaltedchests.tw_hot_ab_exaltedchests_exaltedchest" GUID="cPkRJqCtlECUeGR5IyhInQ=="/>
+		<POI MapID="1043" xpos="-558.182" ypos="260.381" zpos="119.829" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_exaltedchests.tw_hot_ab_exaltedchests_exaltedchest" GUID="IbJxL643UE6bYK67sAKK2w=="/>
+		<POI MapID="1043" xpos="-135.343" ypos="7.0696" zpos="88.8882" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_exaltedchests.tw_hot_ab_exaltedchests_exaltedchest" GUID="HaUdHNgYHUKkII0+lZpZ3Q=="/>
+		<POI MapID="1043" xpos="356.028" ypos="292.408" zpos="-442.281" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_exaltedchests.tw_hot_ab_exaltedchests_exaltedchest" GUID="fNNDV5z/skKN9IfGL3fjVQ=="/>
+		<POI MapID="1043" xpos="349.631" ypos="292.17" zpos="-455.548" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_exaltedchests.tw_hot_ab_exaltedchests_exaltedchest" GUID="7d9Q6rjYgEKBthFgy9kb2A=="/>
+		<POI MapID="1043" xpos="406.464" ypos="284.268" zpos="-469.775" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_exaltedchests.tw_hot_ab_exaltedchests_exaltedchest" GUID="5ug9bDn1dUOmTyxcOSicMw=="/>
+		<POI MapID="1043" xpos="403.739" ypos="284.445" zpos="-475.774" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_exaltedchests.tw_hot_ab_exaltedchests_exaltedchest" GUID="xaFpLBvLcEOTAnWrSTQV9w=="/>
+		<POI MapID="1043" xpos="522.093" ypos="237.535" zpos="302.846" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_exaltedchests.tw_hot_ab_exaltedchests_exaltedchest" GUID="kh7Vhocb9EegrltWiTplbQ=="/>
+		<POI MapID="1043" xpos="556.553" ypos="237.848" zpos="367.335" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_exaltedchests.tw_hot_ab_exaltedchests_exaltedchest" GUID="9DEgjGTbP0qX1HNBMbpyHw=="/>
+		<POI MapID="1043" xpos="591.131" ypos="239.334" zpos="333.423" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_exaltedchests.tw_hot_ab_exaltedchests_exaltedchest" GUID="h7LmYWMk2EurqR0MElh+gw=="/>
+		<POI MapID="1043" xpos="587.153" ypos="239.542" zpos="309.883" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_exaltedchests.tw_hot_ab_exaltedchests_exaltedchest" GUID="V1XUbc466kaicB8toTW31w=="/>
+		<POI MapID="1043" xpos="-300.386" ypos="276.057" zpos="371.258" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_exaltedchests.tw_hot_ab_exaltedchests_exaltedchest" GUID="7UhmesHpTk6A07BrnSvN5w=="/>
+		<POI MapID="1043" xpos="-275.832" ypos="459.486" zpos="565.45" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_treatopretriever" GUID="17yrrbYnVUCn8qOIqMFKrQ=="/>
+		<POI MapID="1043" xpos="-254.701" ypos="455.139" zpos="523.811" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_treatopretriever" GUID="IBGRTt7CxEaxABnstJ+LBg=="/>
+		<POI MapID="1043" xpos="-316.525" ypos="473.884" zpos="477.261" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_treatopretriever" GUID="A5DexyvBnk2JGzlpxLS0gg=="/>
+		<POI MapID="1043" xpos="-419.45" ypos="472.671" zpos="495.498" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_treatopretriever" GUID="zE+X+0bmUUaVqCzfBPb+3A=="/>
+		<POI MapID="1043" xpos="-433.206" ypos="467.831" zpos="582.607" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_treatopretriever" GUID="5AvBebbRr0G4yG3MsSuogA=="/>
+		<POI MapID="1043" xpos="-285.827" ypos="495.909" zpos="595.443" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_treatopretriever" GUID="bShsE40OrEKeeOXwRSt/RQ=="/>
+		<POI MapID="1043" xpos="-223.98" ypos="441.408" zpos="725.515" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_treatopretriever" GUID="GFB/vyqcRECWa3+c75INUA=="/>
+		<POI MapID="1043" xpos="-394.962" ypos="493.068" zpos="749.447" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_treatopretriever" GUID="CjjPG/XaI0SGMxXelyAbaA=="/>
+		<POI MapID="1043" xpos="-181.408" ypos="429.819" zpos="588.339" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_treatopretriever" GUID="/NPI+3LRWU6A5jNYLrFSYw=="/>
+		<POI MapID="1043" xpos="-312.185" ypos="424.281" zpos="580.297" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_treatopretriever" GUID="hTWxZctkZEu4b+R2EdzGGQ=="/>
+		<POI MapID="1043" xpos="-364.647" ypos="420.739" zpos="523.247" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_nomaskleftbehind" GUID="z+NtMdjoxEiDA96j6cgEPA=="/>
+		<POI MapID="1043" xpos="-593.669" ypos="291.396" zpos="152.385" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_nomaskleftbehind" GUID="mR/l2CMU+0OOhl6YKHFRZw=="/>
+		<POI MapID="1043" xpos="365.876" ypos="374.762" zpos="559.028" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_miscchests_miscchest" GUID="+pwS49w6M0qCYWkykobVNw=="/>
+		<POI MapID="1043" xpos="377.87" ypos="347.511" zpos="536.654" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_nomaskleftbehind" GUID="e7QiFr1yRUOvNGYJY7Djbw=="/>
+		<POI MapID="1043" xpos="67.118" ypos="301.749" zpos="536.307" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_nomaskleftbehind" GUID="5iimz0lbR0uC4sn0y96inQ=="/>
+		<POI MapID="1043" xpos="571.714" ypos="299.471" zpos="357.102" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_nomaskleftbehind" GUID="IKceMhuifU6yOo5HRmgWXw=="/>
+		<POI MapID="1043" xpos="476.304" ypos="342.978" zpos="131.154" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_nomaskleftbehind" GUID="zKKN33XkJUynS87wvmTYIw=="/>
+		<POI MapID="1043" xpos="-432.866" ypos="291.864" zpos="-432.175" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_nomaskleftbehind" GUID="w3BK0VpYAE6KGfYeM5ZhGA=="/>
+		<POI MapID="1043" xpos="206.717" ypos="266.883" zpos="-648.141" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_nomaskleftbehind" GUID="FkOnU1gXREaOYKiiYhUhZQ=="/>
+		<POI MapID="1043" xpos="320.678" ypos="282.456" zpos="-232.8" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_nomaskleftbehind" GUID="ufs2MjqlS0GXpKLbWv+M8g=="/>
+		<POI MapID="1043" xpos="613.375" ypos="307.601" zpos="64.7552" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_nomaskleftbehind" GUID="VQ15scyQlEiWBeazHnAGuA=="/>
+		<POI MapID="1043" xpos="-337.287" ypos="295.531" zpos="-369.692" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_nomaskleftbehind" GUID="37DdzuMOqkiGDQyywPlI5Q=="/>
+		<POI MapID="1043" xpos="-510.321" ypos="122.756" zpos="-266.247" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_nomaskleftbehind" GUID="kYaAMsk9okix90UbLSgnog=="/>
+		<POI MapID="1043" xpos="-18.1276" ypos="389.618" zpos="547.075" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_nomaskleftbehind" GUID="Iz/W0BRp2kO3Qe7Zs+A9EQ=="/>
+		<POI MapID="1043" xpos="542.126" ypos="371.499" zpos="717.461" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_nomaskleftbehind" GUID="gz7DZh/tsUy3wJf3PKnYZA=="/>
+		<POI MapID="1043" xpos="503.93" ypos="282.945" zpos="-527.595" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_nomaskleftbehind" GUID="VD8f79GIUEmTxuXPOLJxGg=="/>
+		<POI MapID="1043" xpos="431.061" ypos="246.695" zpos="-819.189" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_nomaskleftbehind" GUID="AyMeYfv2KU6/hI/zBDnN7A=="/>
+		<POI MapID="1043" xpos="78.242" ypos="271.275" zpos="-627.247" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_miscchests_miscchest" GUID="BT71k/csbku0nePhvb2xvA=="/>
+		<POI MapID="1043" xpos="94.5764" ypos="277.848" zpos="-681.583" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_nomaskleftbehind" GUID="fDOCUQvlqUWgacXyHb5Xvg=="/>
+		<POI MapID="1043" xpos="-179.726" ypos="305.309" zpos="-581.637" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_nomaskleftbehind" GUID="1mb6CEm/WkiSAmz9ZfvdNQ=="/>
+		<POI MapID="1043" xpos="-108.577" ypos="305.418" zpos="-383.023" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_nomaskleftbehind" GUID="GQ8IYMhqc0m89o+mJu+MqQ=="/>
+		<POI MapID="1043" xpos="59.5472" ypos="319.325" zpos="-294.845" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_nomaskleftbehind" GUID="ExTHbNu6Tk+65xNvejklJA=="/>
+		<POI MapID="1043" xpos="148.069" ypos="303.81" zpos="-446.209" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_nomaskleftbehind" GUID="k2P1C7IQjU+S5oFPV9Lbmw=="/>
+		<POI MapID="1043" xpos="-309.293" ypos="364.729" zpos="735.498" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_nomaskleftbehind" GUID="sQNwm9XuCE6x/7CsOCcFng=="/>
+		<POI MapID="1043" xpos="-576.803" ypos="288.803" zpos="-41.2897" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_nomaskleftbehind" GUID="JAOLxThRKU6coMWWDa99mQ=="/>
+		<POI MapID="1043" xpos="82.3772" ypos="352.834" zpos="327.311" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_nomaskleftbehind" GUID="PkF3+WXPKEC40CB4DEbyaw=="/>
+		<POI MapID="1043" xpos="-156.828" ypos="256.481" zpos="-567.494" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_adrenalmushroom" GUID="SY/Gu9Lv1EqPlUOheHmitA=="/>
+		<POI MapID="1043" xpos="-119.852" ypos="258.557" zpos="-569.443" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_speedmushroom" GUID="8habf3tXpkGPUWoeuxltaw=="/>
+		<POI MapID="1043" xpos="-45.3818" ypos="282.347" zpos="-733.489" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_miscchests_miscchest" GUID="i4HRGAry+0G/Y2zKmdrtxA=="/>
+		<POI MapID="1043" xpos="62.7917" ypos="223.596" zpos="-804.737" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_nomaskleftbehind" GUID="U+GVDCxnx0SK8hQHlZe/Sw=="/>
+		<POI MapID="1043" xpos="-238.846" ypos="229.184" zpos="-86.7906" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_astudyingold" GUID="63W8DoflyU26GoQbFUn5EQ=="/>
+		<POI MapID="1043" xpos="-234.791" ypos="229.974" zpos="-91.4769" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_astudyingold" GUID="YDGK3t3jEEekx1H4Dmi8Hw=="/>
+		<POI MapID="1043" xpos="-40.58" ypos="126.036" zpos="-40.7703" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_astudyingold" GUID="kelSB8GuIkWxXccND4sRYA=="/>
+		<POI MapID="1043" xpos="40.6276" ypos="126.005" zpos="-40.6494" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_astudyingold" GUID="CvZewA5gmEOWiVDWl1HL8A=="/>
+		<POI MapID="1043" xpos="-41.214" ypos="126.035" zpos="41.7954" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_astudyingold" GUID="45GI29wC90aravqSPflGDw=="/>
+		<POI MapID="1043" xpos="136.84" ypos="172.566" zpos="207.814" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_astudyingold" GUID="Kja7TDazxEenKszQDa58xg=="/>
+		<POI MapID="1043" xpos="349.434" ypos="154.031" zpos="-25.2843" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_astudyingold" GUID="xvI2BllPAEyPDClpn/78gg=="/>
+		<POI MapID="1043" xpos="155.578" ypos="152.892" zpos="-83.4836" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_astudyingold" GUID="UviwDF5xDUi+ZV3xUr4TWw=="/>
+		<POI MapID="1043" xpos="-200.803" ypos="184.051" zpos="-219.664" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_astudyingold" GUID="Dcm2IDqDCk2I7zVtJxgY7A=="/>
+		<POI MapID="1043" xpos="-199.196" ypos="157.414" zpos="94.1281" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_astudyingold" GUID="qBVtHihjnkW8DLKfHAzTiQ=="/>
+		<POI MapID="1043" xpos="0.273667" ypos="245.023" zpos="-242.68" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_astudyingold" GUID="7Uq5sFdgGkqvD3hNdIm51Q=="/>
+		<POI MapID="1043" xpos="0.697188" ypos="278.644" zpos="201.491" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_astudyingold" GUID="2yBcugDndU2lfFT/9UHkWg=="/>
+		<POI MapID="1043" xpos="-188.214" ypos="266.699" zpos="-207.086" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_astudyingold" GUID="hufxSZOPCUSqzIxd/3LcLQ=="/>
+		<POI MapID="1043" xpos="-213.483" ypos="311.236" zpos="31.9676" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_astudyingold" GUID="Lti4MpvaqkeC85JnB+KuWw=="/>
+		<POI MapID="1043" xpos="-183.835" ypos="10.9006" zpos="244.1" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_speedmushroom" GUID="tqjIYNkb+0G1Xt2Q3dT82A=="/>
+		<POI MapID="1043" xpos="-215.687" ypos="11.457" zpos="266.162" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_speedmushroom" GUID="uED7eHC4CkSNo6axJx/p8w=="/>
+		<POI MapID="1043" xpos="-208.191" ypos="11.1648" zpos="291.145" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_speedmushroom" GUID="NR6P61dNTE+50mC4V57z5A=="/>
+		<POI MapID="1043" xpos="-183.274" ypos="11.2668" zpos="275.059" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_speedmushroom" GUID="6HZCwh7QKkyyc3AVtqEm3Q=="/>
+		<POI MapID="1043" xpos="-198.321" ypos="47.7936" zpos="321.063" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_astudyingold" GUID="1dnVJk2JHU+kO7dktV0JKg=="/>
+		<POI MapID="1043" xpos="-203.25" ypos="47.0288" zpos="318.163" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_speedmushroom" GUID="noM6HX1IC0OW9uOaYuxDFA=="/>
+		<POI MapID="1043" xpos="-250.633" ypos="46.8903" zpos="265.475" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_speedmushroom" GUID="UF8sFH6UN0uQFlBlcdEWNQ=="/>
+		<POI MapID="1043" xpos="-223.644" ypos="22.6162" zpos="273.769" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_speedmushroom" GUID="BtmR8rai7UiZZs5/CHu43g=="/>
+		<POI MapID="1043" xpos="-203.573" ypos="22.556" zpos="293.078" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_speedmushroom" GUID="ZN5a7UeDHEWUNKGs6jaMEA=="/>
+		<POI MapID="1043" xpos="-173.421" ypos="22.0858" zpos="276.625" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_speedmushroom" GUID="eqq9b5R+aEGgtyiCK7tR1w=="/>
+		<POI MapID="1043" xpos="-193.996" ypos="22.0504" zpos="245.444" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_speedmushroom" GUID="LQft1VKVDkadC4dn+Q6stg=="/>
+		<POI MapID="1043" xpos="-193.354" ypos="47.1482" zpos="220.567" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_speedmushroom" GUID="HhJhZi4q4E+3erAYBnRBgQ=="/>
+		<POI MapID="1043" xpos="-146.922" ypos="46.9877" zpos="273.903" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_speedmushroom" GUID="3wQjYMgWOUebQdgg7IemRw=="/>
+		<POI MapID="1043" xpos="-183.076" ypos="1.17291" zpos="277.345" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_speedmushroom" GUID="l3LEjY1NWkGsedVEhn4QCQ=="/>
+		<POI MapID="1043" xpos="5.58361" ypos="21.414" zpos="212.572" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_astudyingold" GUID="g/MUKeRb2EiOT0Sp266FVQ=="/>
+		<POI MapID="1043" xpos="72.4216" ypos="5.90562" zpos="-9.26893" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_astudyingold" GUID="P1lJfYVDBUyycobM4c8DDg=="/>
+		<POI MapID="1043" xpos="319.089" ypos="0.714837" zpos="-272.404" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_astudyingold" GUID="5MJHR2KWFU+sTnMZCx834Q=="/>
+		<POI MapID="1043" xpos="556.509" ypos="235.707" zpos="306.26" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_astudyingold" GUID="O7UQOsfk7E+4qN2cKfJIfw=="/>
+		<POI MapID="1043" xpos="-314.596" ypos="319.9" zpos="-507.833" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_adv_fungusamongus.tw_hot_ab_adv_fungusamongus_signs.tw_hot_ab_adv_fungusamongus_startsign" GUID="WCs9HohTg0SI5wSVxLbA1Q=="/>
+		<POI MapID="1043" xpos="-314.383" ypos="320.116" zpos="-503.379" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_adv_fungusamongus.tw_hot_ab_adv_fungusamongus_markers.tw_hot_ab_adv_fungusamongus_markers_skill1" GUID="oYzBmWvgR0SBU70Aeah9hg=="/>
+		<POI MapID="1043" xpos="-336.662" ypos="315.87" zpos="-445.039" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_adv_fungusamongus.tw_hot_ab_adv_fungusamongus_markers.tw_hot_ab_adv_fungusamongus_markers_skill1" GUID="lFOmcwIvuUmEpNIj0eCirw=="/>
+		<POI MapID="1043" xpos="-372.513" ypos="331.827" zpos="-404.051" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_adv_fungusamongus.tw_hot_ab_adv_fungusamongus_markers.tw_hot_ab_adv_fungusamongus_markers_skill2" GUID="sXFBcvj9U0yxuMQ0WPqCHA=="/>
+		<POI MapID="1043" xpos="-412.615" ypos="337.99" zpos="-420.872" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_adv_fungusamongus.tw_hot_ab_adv_fungusamongus_markers.tw_hot_ab_adv_fungusamongus_markers_aimskill2" GUID="vUSMF108jUqpRLThKKBcsA=="/>
+		<POI MapID="1043" xpos="-470.097" ypos="349.924" zpos="-475.764" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_adv_fungusamongus.tw_hot_ab_adv_fungusamongus_markers.tw_hot_ab_adv_fungusamongus_markers_skill1" GUID="RTvEHNBeLUu40iWt8bxZ4w=="/>
+		<POI MapID="1043" xpos="-480.401" ypos="365.218" zpos="-577.531" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_adv_fungusamongus.tw_hot_ab_adv_fungusamongus_markers.tw_hot_ab_adv_fungusamongus_markers_skill1" GUID="L41H+JB2hUOY5Qu0xjwx5A=="/>
+		<POI MapID="1043" xpos="-374.694" ypos="340.466" zpos="-575.188" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_adv_fungusamongus.tw_hot_ab_adv_fungusamongus_markers.tw_hot_ab_adv_fungusamongus_markers_skill2" GUID="i62FRY4XikqRbkELernstQ=="/>
+		<POI MapID="1043" xpos="-352.684" ypos="342.033" zpos="-609.141" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_adv_fungusamongus.tw_hot_ab_adv_fungusamongus_markers.tw_hot_ab_adv_fungusamongus_markers_aimskill2" GUID="0+GE5m0PHUKh2J+/vZOKrA=="/>
+		<POI MapID="1043" xpos="-374.642" ypos="336.077" zpos="-657.298" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_adv_fungusamongus.tw_hot_ab_adv_fungusamongus_markers.tw_hot_ab_adv_fungusamongus_markers_skill1" GUID="+9qr51e6oUqxtu6yI67L1g=="/>
+		<POI MapID="1043" xpos="-417.13" ypos="341.238" zpos="-673.527" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_adv_fungusamongus.tw_hot_ab_adv_fungusamongus_markers.tw_hot_ab_adv_fungusamongus_markers_skill2" GUID="zaAN6bj4vkuCm4XR6VpH1A=="/>
+		<POI MapID="1043" xpos="-410.573" ypos="338.374" zpos="-559.913" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_adv_fungusamongus.tw_hot_ab_adv_fungusamongus_markers.tw_hot_ab_adv_fungusamongus_markers_skill1" GUID="DDtHYpksEkq3CGkGLqj+bg=="/>
+		<POI MapID="1043" xpos="-428.841" ypos="352.223" zpos="-640.549" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_adv_fungusamongus.tw_hot_ab_adv_fungusamongus_markers.tw_hot_ab_adv_fungusamongus_markers_aimskill2" GUID="NGWZohWKKUm1fNN61++pRQ=="/>
+		<POI MapID="1043" xpos="-418.052" ypos="355.763" zpos="-638.882" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_adv_fungusamongus.tw_hot_ab_adv_fungusamongus_signs.tw_hot_ab_adv_fungusamongus_finish" GUID="KsGYlQJz4kW8s95yujc4SA=="/>
+		<POI MapID="1043" xpos="-428.648" ypos="352.886" zpos="-638.928" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_adv_fungusamongus.tw_hot_ab_adv_fungusamongus_markers.tw_hot_ab_adv_fungusamongus_markers_jump" GUID="WnVjhoZRf0aMIw783fIEwA=="/>
+		<POI MapID="1043" xpos="-418.25" ypos="340.292" zpos="-430.055" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_adv_fungusamongus.tw_hot_ab_adv_fungusamongus_markers.tw_hot_ab_adv_fungusamongus_markers_jump" GUID="4M2NnQigUUmj1/SPfuxHQA=="/>
+		<POI MapID="1043" xpos="-420.528" ypos="342.053" zpos="-434.6" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_adv_fungusamongus.tw_hot_ab_adv_fungusamongus_markers.tw_hot_ab_adv_fungusamongus_markers_jump" GUID="qTbFugCVy0eXUHrIP0PXBA=="/>
+		<POI MapID="1043" xpos="-422.398" ypos="343.365" zpos="-436.42" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_adv_fungusamongus.tw_hot_ab_adv_fungusamongus_markers.tw_hot_ab_adv_fungusamongus_markers_jump" GUID="8mytxYM300WjnxALhYhrYw=="/>
+		<POI MapID="1043" xpos="-426.061" ypos="348.727" zpos="-445.339" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_adv_fungusamongus.tw_hot_ab_adv_fungusamongus_markers.tw_hot_ab_adv_fungusamongus_markers_jump" GUID="RR1i3zU0W0WXe4cYlB3Rjg=="/>
+		<POI MapID="1043" xpos="-428.921" ypos="348.815" zpos="-455.821" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_adv_fungusamongus.tw_hot_ab_adv_fungusamongus_markers.tw_hot_ab_adv_fungusamongus_markers_jump" GUID="zROJlE0pAkKZK2s8tFjGKQ=="/>
+		<POI MapID="1043" xpos="-433.044" ypos="350.936" zpos="-458.565" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_adv_fungusamongus.tw_hot_ab_adv_fungusamongus_markers.tw_hot_ab_adv_fungusamongus_markers_jump" GUID="4ZpgY/zhqEmquVPOsI8bXg=="/>
+		<POI MapID="1043" xpos="-438.098" ypos="350.724" zpos="-459.705" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_adv_fungusamongus.tw_hot_ab_adv_fungusamongus_markers.tw_hot_ab_adv_fungusamongus_markers_jump" GUID="PWWL+ushxkKGfir1zt4Z2w=="/>
+		<POI MapID="1043" xpos="-386.315" ypos="334.3" zpos="-566.987" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_adv_fungusamongus.tw_hot_ab_adv_fungusamongus_markers.tw_hot_ab_adv_fungusamongus_markers_jump" GUID="AdZulx5/NU++Jf5V0mKTiw=="/>
+		<POI MapID="1043" xpos="-383.505" ypos="335.968" zpos="-567.816" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_adv_fungusamongus.tw_hot_ab_adv_fungusamongus_markers.tw_hot_ab_adv_fungusamongus_markers_jump" GUID="EOHF6PI7HE+Z2vXD8lhBDQ=="/>
+		<POI MapID="1043" xpos="-379.895" ypos="337.778" zpos="-569.804" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_adv_fungusamongus.tw_hot_ab_adv_fungusamongus_markers.tw_hot_ab_adv_fungusamongus_markers_jump" GUID="Gmk5HT60b0+HbpiQ3yHw/A=="/>
+		<POI MapID="1043" xpos="-377.963" ypos="339.18" zpos="-571.659" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_adv_fungusamongus.tw_hot_ab_adv_fungusamongus_markers.tw_hot_ab_adv_fungusamongus_markers_jump" GUID="hd2zbyTClk6UQm68Swy/OA=="/>
+		<POI MapID="1043" xpos="-356.02" ypos="334.62" zpos="-618.43" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_adv_fungusamongus.tw_hot_ab_adv_fungusamongus_markers.tw_hot_ab_adv_fungusamongus_markers_jump" GUID="YBjIbK/hzEinT2uH0HjNbQ=="/>
+		<POI MapID="1043" xpos="-355.773" ypos="334.24" zpos="-626.116" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_adv_fungusamongus.tw_hot_ab_adv_fungusamongus_markers.tw_hot_ab_adv_fungusamongus_markers_jump" GUID="T3Tv0Ji6ukSQS9OPV0nDhg=="/>
+		<POI MapID="1043" xpos="-358.258" ypos="337.155" zpos="-632.701" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_adv_fungusamongus.tw_hot_ab_adv_fungusamongus_markers.tw_hot_ab_adv_fungusamongus_markers_jump" GUID="EhYQDTsJ80mQSifn/vCNig=="/>
+		<POI MapID="1043" xpos="-392.027" ypos="332.454" zpos="-668.38" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_adv_fungusamongus.tw_hot_ab_adv_fungusamongus_markers.tw_hot_ab_adv_fungusamongus_markers_jump" GUID="lpSTRXoQFUy3Rj1CD5CnCg=="/>
+		<POI MapID="1043" xpos="-401.519" ypos="332.492" zpos="-671.255" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_adv_fungusamongus.tw_hot_ab_adv_fungusamongus_markers.tw_hot_ab_adv_fungusamongus_markers_jump" GUID="8w9xxX7wOkuKM6zie/0Gdg=="/>
+		<POI MapID="1043" xpos="-403.097" ypos="333.693" zpos="-671.588" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_adv_fungusamongus.tw_hot_ab_adv_fungusamongus_markers.tw_hot_ab_adv_fungusamongus_markers_jump" GUID="i/y9z82Cz0eXCpAO06U+Pw=="/>
+		<POI MapID="1043" xpos="-404.743" ypos="335.328" zpos="-671.724" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_adv_fungusamongus.tw_hot_ab_adv_fungusamongus_markers.tw_hot_ab_adv_fungusamongus_markers_jump" GUID="na2pNuIP1kOAeOWURnJfOQ=="/>
+		<POI MapID="1043" xpos="-406.809" ypos="337.263" zpos="-672.544" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_adv_fungusamongus.tw_hot_ab_adv_fungusamongus_markers.tw_hot_ab_adv_fungusamongus_markers_jump" GUID="YPYz5OgvgUa3lVF3FUns6Q=="/>
+		<POI MapID="1043" xpos="-185.81" ypos="12.2129" zpos="263.393" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_jumpingmushroom" GUID="gg0H2Lrc8EmoLGglmG+Pwg=="/>
+		<POI MapID="1043" xpos="-192.161" ypos="1.69181" zpos="270.603" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_jumpingmushroom" GUID="RgIYdx2rHU+hG+Fi6UIFiw=="/>
+		<POI MapID="1043" xpos="-198.926" ypos="1.57301" zpos="277.591" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_jumpingmushroom" GUID="QOtKpMV3eEim2duuX998cA=="/>
+		<POI MapID="1043" xpos="-203.854" ypos="1.5385" zpos="275.597" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_jumpingmushroom" GUID="0HGcEveDlEafXpcA6NyzGg=="/>
+		<POI MapID="1043" xpos="-205.977" ypos="1.62395" zpos="270.643" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_jumpingmushroom" GUID="DM1sde4CTEyTN7JyxJLxmw=="/>
+		<POI MapID="1043" xpos="-199.012" ypos="1.53523" zpos="263.665" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_jumpingmushroom" GUID="eLV1lzLr10atNI3yNZkqjg=="/>
+		<POI MapID="1043" xpos="-175.338" ypos="11.6905" zpos="247.014" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_jumpingmushroom" GUID="6LiPpcOHW0u1G73TpxmY9g=="/>
+		<POI MapID="1043" xpos="-165.91" ypos="3.37353" zpos="249.089" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_jumpingmushroom" GUID="xIKDbn3E7E6xlnmmNE+KEQ=="/>
+		<POI MapID="1043" xpos="-174.005" ypos="24.3412" zpos="240.381" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_jumpingmushroom" GUID="UuDIOp+hr0eix4KjFEX9lg=="/>
+		<POI MapID="1043" xpos="-170.507" ypos="12.2747" zpos="269.717" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_jumpingmushroom" GUID="OXm0NxNrKkOROCEXP/Hm2A=="/>
+		<POI MapID="1043" xpos="-191.499" ypos="11.976" zpos="283.182" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_jumpingmushroom" GUID="jBdOsm9aVUml1it81sPkmg=="/>
+		<POI MapID="1043" xpos="-205.51" ypos="12.16" zpos="256.388" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_jumpingmushroom" GUID="NYH22SZB4EexPPseaceG9Q=="/>
+		<POI MapID="1043" xpos="-211.245" ypos="12.2229" zpos="277.57" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_jumpingmushroom" GUID="24micjDzokOph+N/Q6nnoQ=="/>
+		<POI MapID="1043" xpos="-197.435" ypos="12.2027" zpos="242.796" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_jumpingmushroom" GUID="9nOM//LtQU26DLT2Kt+6Pw=="/>
+		<POI MapID="1043" xpos="-198.275" ypos="12.3128" zpos="298.2" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_jumpingmushroom" GUID="TkmmqnsXjkW+vBwwsuPv/w=="/>
+		<POI MapID="1043" xpos="-226.39" ypos="12.333" zpos="269.469" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_jumpingmushroom" GUID="HbJ0WuigUkKE141gaKKpqQ=="/>
+		<POI MapID="1043" xpos="28.5166" ypos="60.7725" zpos="26.5337" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_jumpingmushroom" GUID="kQKvmHrZNUChvEljYT9gsg=="/>
+		<POI MapID="1043" xpos="33.242" ypos="48.5544" zpos="25.3109" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_jumpingmushroom" GUID="hDXo45WJwkW/AvouxclC4A=="/>
+		<POI MapID="1043" xpos="31.9858" ypos="35.9032" zpos="31.8491" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_jumpingmushroom" GUID="e+nZVKbkvke13fj0lWFynQ=="/>
+		<POI MapID="1043" xpos="41.4003" ypos="27.023" zpos="34.1332" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_jumpingmushroom" GUID="eaSo2ixW4E6V6A3xu0bqPw=="/>
+		<POI MapID="1043" xpos="94.7877" ypos="301.806" zpos="575.069" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_jumpingmushroom" GUID="RHcjWaUfCEamD92f9xmmzA=="/>
+		<POI MapID="1043" xpos="461.869" ypos="283.045" zpos="244.189" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_jumpingmushroom" GUID="Ngoz6ojPQEedyAGwV3UqIQ=="/>
+		<POI MapID="1043" xpos="434.072" ypos="278.514" zpos="235.489" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_jumpingmushroom" GUID="+UZLX3HudUe1IonZOFH5Cg=="/>
+		<POI MapID="1043" xpos="424.29" ypos="267.994" zpos="224.029" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_jumpingmushroom" GUID="OPQOF2Pd/U+Xfpoi6RPwbw=="/>
+		<POI MapID="1043" xpos="581.234" ypos="289.081" zpos="-194.208" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_jumpingmushroom" GUID="1IOplMtAaU6giE2uM36+WA=="/>
+		<POI MapID="1043" xpos="590.886" ypos="301.201" zpos="-210.945" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_jumpingmushroom" GUID="Ig9sdCRnaE2gw308qrm+fA=="/>
+		<POI MapID="1043" xpos="552.179" ypos="288.902" zpos="-250.007" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_jumpingmushroom" GUID="v3baCbk2CEuXGR4Gt6UIbQ=="/>
+		<POI MapID="1043" xpos="373.872" ypos="265.386" zpos="-493.325" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_jumpingmushroom" GUID="B9XlFT6jZU+qik30CE/ZGA=="/>
+		<POI MapID="1043" xpos="377.24" ypos="274.115" zpos="-494.717" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_jumpingmushroom" GUID="ky5T+7+QdU2JQPOe86/ctA=="/>
+		<POI MapID="1043" xpos="403.57" ypos="273.993" zpos="-446.72" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_jumpingmushroom" GUID="X68waLUUA0O20X7wavk4iA=="/>
+		<POI MapID="1043" xpos="401.733" ypos="265.495" zpos="-442.496" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_jumpingmushroom" GUID="yrkPkPWS1keyTVM+bu/tEw=="/>
+		<POI MapID="1043" xpos="427.221" ypos="271.786" zpos="-517.919" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_jumpingmushroom" GUID="L4xTY/fTdEqFGpUMYbEN0w=="/>
+		<POI MapID="1043" xpos="428.167" ypos="278.765" zpos="-514.728" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_jumpingmushroom" GUID="uIFi/JmqwEaecdTn62r7WQ=="/>
+		<POI MapID="1043" xpos="352.394" ypos="237.539" zpos="-677.167" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_jumpingmushroom" GUID="Quwat0/b7EGPb9DqJIaHVg=="/>
+		<POI MapID="1043" xpos="357.625" ypos="247.369" zpos="-678.186" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_jumpingmushroom" GUID="VVm1iphIkUeuux1K8T+sKA=="/>
+		<POI MapID="1043" xpos="388.344" ypos="239.248" zpos="-802.225" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_jumpingmushroom" GUID="rQkNEyhLWkyazOucYgu2sw=="/>
+		<POI MapID="1043" xpos="272.489" ypos="230.032" zpos="-824.837" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_heropoints" GUID="zM4zGsDQ0UGYF5pM2M4uWg=="/>
+		<POI MapID="1043" xpos="125.94" ypos="227.225" zpos="-748.466" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_jumpingmushroom" GUID="k8zwfK8sXE2+lCIQwNiMvQ=="/>
+		<POI MapID="1043" xpos="69.1876" ypos="238.86" zpos="-680.978" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_jumpingmushroom" GUID="ir6WYOwh8U+XgKE/sTQgMA=="/>
+		<POI MapID="1043" xpos="117.799" ypos="251.139" zpos="-672.095" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_jumpingmushroom" GUID="BF3bgWPI8kGJWxRpdH21Sw=="/>
+		<POI MapID="1043" xpos="-46.1561" ypos="259.35" zpos="-794.312" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_jumpingmushroom" GUID="jxZhTEkAx0exiG9nh8f5Nw=="/>
+		<POI MapID="1043" xpos="-94.2972" ypos="256.981" zpos="-804.966" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_jumpingmushroom" GUID="Bkz3nJh28U+ZhdyIWj1IbQ=="/>
+		<POI MapID="1043" xpos="-116.85" ypos="270.138" zpos="-819.037" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_jumpingmushroom" GUID="kjz0g0Un2UuAzcEvfBMamQ=="/>
+		<POI MapID="1043" xpos="-167.286" ypos="260.043" zpos="-788.403" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_jumpingmushroom" GUID="FcGcBusU0U2DY3HPkm4kXg=="/>
+		<POI MapID="1043" xpos="-150.253" ypos="260.458" zpos="-772.532" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_jumpingmushroom" GUID="INF8VBIfakCDUG6H7Jyw7w=="/>
+		<POI MapID="1043" xpos="-319.673" ypos="279.195" zpos="-771.104" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_heropoints" GUID="Qn3QnIF+zkCN3XSZXwRaFw=="/>
+		<POI MapID="1043" xpos="-345.384" ypos="281.043" zpos="-755.111" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_jumpingmushroom" GUID="EYMsaUYwY0iqBbm+nKHn6A=="/>
+		<POI MapID="1043" xpos="-338.357" ypos="280.018" zpos="-792.273" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_jumpingmushroom" GUID="jGJYpMnOw0KjGdXi4NMD+g=="/>
+		<POI MapID="1043" xpos="-308.557" ypos="280.974" zpos="-801.419" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_jumpingmushroom" GUID="mtmH6dbupk2ZpWBXvNB5TQ=="/>
+		<POI MapID="1043" xpos="-231.216" ypos="268.194" zpos="-623.26" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_jumpingmushroom" GUID="R4Hx6pSIRUOj7uvXOA2TIg=="/>
+		<POI MapID="1043" xpos="157.251" ypos="85.1984" zpos="41.1729" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_jumpingmushroom" GUID="Q0HTAJuyOkeMRQD9VnX2AQ=="/>
+		<POI MapID="1043" xpos="157.045" ypos="84.8416" zpos="-40.1529" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_jumpingmushroom" GUID="5y1hqGLQ7ECmZ+ap9FndGQ=="/>
+		<POI MapID="1043" xpos="50.5934" ypos="83.7843" zpos="-133.07" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_speedmushroom" GUID="bhIWfRjubUSG+gGw/CgsAQ=="/>
+		<POI MapID="1043" xpos="-310.765" ypos="238.261" zpos="-17.529" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_jumpingmushroom" GUID="EDvUAohmrUm9ec1RP4dlvA=="/>
+		<POI MapID="1043" xpos="-309.459" ypos="261.595" zpos="-4.98286" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_jumpingmushroom" GUID="3LFfwXsfz0+vT024EoZUAw=="/>
+		<POI MapID="1043" xpos="120.887" ypos="199.383" zpos="123.317" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_heropoints" GUID="aYefFggUrUWJILVMBbXXrg=="/>
+		<POI MapID="1043" xpos="-167.103" ypos="277.585" zpos="-417.842" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_jumpingmushroom" GUID="seq16IIhBEabPGnA7KmmsQ=="/>
+		<POI MapID="1043" xpos="-244.048" ypos="300.079" zpos="-160.522" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_jumpingmushroom" GUID="/PuUjQlLWkKuaeV50z2eAg=="/>
+		<POI MapID="1043" xpos="-231.229" ypos="317.662" zpos="-170.595" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_jumpingmushroom" GUID="BVudtYPjqkWNyhC1JL4S6A=="/>
+		<POI MapID="1043" xpos="-240.137" ypos="322.885" zpos="-146.479" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_jumpingmushroom" GUID="3oSevXATW0C0bcM7FsUuiw=="/>
+		<POI MapID="1043" xpos="-543.966" ypos="211.1" zpos="-309.692" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_heropoints" GUID="Ghjybq7TakeWEsbj0gOsYg=="/>
+		<POI MapID="1043" xpos="-369.193" ypos="245.504" zpos="136.587" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_jumpingmushroom" GUID="E9EDBnNKZkOPixsgWQq8nQ=="/>
+		<POI MapID="1043" xpos="-409.265" ypos="244.516" zpos="98.5088" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_jumpingmushroom" GUID="SDd7mABTMkuCEKns3Hl7UA=="/>
+		<POI MapID="1043" xpos="-394.133" ypos="246.275" zpos="47.3604" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_jumpingmushroom" GUID="WLHtW1iNekamiXsFsoFQxQ=="/>
+		<POI MapID="1043" xpos="-337.036" ypos="252.764" zpos="88.4069" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_jumpingmushroom" GUID="xXcShxdeTEi7HwU2//3xEg=="/>
+		<POI MapID="1043" xpos="-403.445" ypos="279.457" zpos="-139.585" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_jumpingmushroom" GUID="An1CHNPcz0SD+ZQ5yaHB4Q=="/>
+		<POI MapID="1043" xpos="-203.313" ypos="291.114" zpos="502.063" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_jumpingmushroom" GUID="ksvhlRCQBE+LBbKvtkkj8g=="/>
+		<POI MapID="1043" xpos="-231.173" ypos="291.858" zpos="516.052" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_jumpingmushroom" GUID="X+ZJkd87j0ar+AVU7YajBA=="/>
+		<POI MapID="1043" xpos="-419.019" ypos="306.41" zpos="435.049" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_jumpingmushroom" GUID="kgNJdmqX70igcTfH7RqI7w=="/>
+		<POI MapID="1043" xpos="-424.717" ypos="304.167" zpos="430.499" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_heropoints" GUID="WqYzVFAfRUeMUkTUkhYRIg=="/>
+		<POI MapID="1043" xpos="-243.175" ypos="441.007" zpos="705.463" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_jumpingmushroom" GUID="ppkvSQo2j067sfb9ptdelg=="/>
+		<POI MapID="1043" xpos="-347.829" ypos="479.215" zpos="608.682" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_jumpingmushroom" GUID="Y9mdcPslCEKcgKopmQ4iXA=="/>
+		<POI MapID="1043" xpos="-414.418" ypos="469.537" zpos="587.036" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_jumpingmushroom" GUID="NO4PsoPiDEq4QU4S4FTsQg=="/>
+		<POI MapID="1043" xpos="-402.871" ypos="331.811" zpos="565.86" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_heropoints" GUID="aGfb4ZvEdEeHxkaTL4tEiw=="/>
+		<POI MapID="1043" xpos="-569.214" ypos="317.847" zpos="529.215" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_jumpingmushroom" GUID="OplqLuA8iUacQtGEoJPtqA=="/>
+		<POI MapID="1043" xpos="-564.317" ypos="317.532" zpos="564.658" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_jumpingmushroom" GUID="FuMuqhKt1EysrwWphIXadA=="/>
+		<POI MapID="1043" xpos="-534.077" ypos="318.115" zpos="591.146" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_jumpingmushroom" GUID="zEoRuxCO50u5eDWrxAeDOQ=="/>
+		<POI MapID="1043" xpos="-536.573" ypos="317.845" zpos="628.329" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_jumpingmushroom" GUID="UpXM9zl1FUumKmr2eLWToA=="/>
+		<POI MapID="1043" xpos="-557.6" ypos="317.979" zpos="610.933" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_jumpingmushroom" GUID="tYVURo12r0KCZHrMmWrUiA=="/>
+		<POI MapID="1043" xpos="-591.986" ypos="317.908" zpos="580.921" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_jumpingmushroom" GUID="E/MSdtHruUWSlnUgDSRiMA=="/>
+		<POI MapID="1043" xpos="142.792" ypos="307.766" zpos="389.228" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_heropoints" GUID="k/+Tzxi9R0WTH7RXuzfHlg=="/>
+		<POI MapID="1043" xpos="548.107" ypos="345.887" zpos="249.751" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_heropoints" GUID="LE0Ka/mIT0WRYjVjk2Z9yQ=="/>
+		<POI MapID="1043" xpos="576.016" ypos="316.084" zpos="-383.32" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_heropoints" GUID="Koxsw/j2gkOy0jIHfFew5Q=="/>
+		<POI MapID="1043" xpos="-14.9657" ypos="21.3613" zpos="120.319" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_heropoints" GUID="ZXTEFafjW0iFdkvqICiEog=="/>
+		<POI MapID="1043" xpos="339.589" ypos="419.267" zpos="775.254" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_heropoints" GUID="Xq3Z9JD+jkGdnUHMwP/kTg=="/>
+		<POI MapID="1043" xpos="-562.13" ypos="325.325" zpos="517.974" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_adv_thefloorislava.tw_hot_ab_adv_thefloorislava_markers.tw_hot_ab_adv_thefloorislava_markers_rockvinefruit" GUID="e5VX5fX5RUabiGODzBBCtw=="/>
+		<POI MapID="1043" xpos="-571.285" ypos="320.385" zpos="535.021" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_adv_thefloorislava.tw_hot_ab_adv_thefloorislava_markers.tw_hot_ab_adv_thefloorislava_markers_rockvinefruit" GUID="x9mw33HxskOjq0yiJ7LHCA=="/>
+		<POI MapID="1043" xpos="-559.97" ypos="321.82" zpos="542.797" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_adv_thefloorislava.tw_hot_ab_adv_thefloorislava_markers.tw_hot_ab_adv_thefloorislava_markers_rockvinefruit" GUID="Tt8VqbJecE6KmqMni9JPtw=="/>
+		<POI MapID="1043" xpos="-548.014" ypos="319.352" zpos="551.565" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_adv_thefloorislava.tw_hot_ab_adv_thefloorislava_markers.tw_hot_ab_adv_thefloorislava_markers_rockvinefruit" GUID="4ffm3cj9qEG9u08uQi4rtA=="/>
+		<POI MapID="1043" xpos="-531.19" ypos="321.571" zpos="556.524" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_adv_thefloorislava.tw_hot_ab_adv_thefloorislava_markers.tw_hot_ab_adv_thefloorislava_markers_rockvinefruit" GUID="ghIEk2pNDUOCEw2K4r3SCA=="/>
+		<POI MapID="1043" xpos="-547.931" ypos="322.407" zpos="569.308" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_adv_thefloorislava.tw_hot_ab_adv_thefloorislava_markers.tw_hot_ab_adv_thefloorislava_markers_rockvinefruit" GUID="bnBKzLHPPk+gkXPJpG8FVQ=="/>
+		<POI MapID="1043" xpos="-580.041" ypos="322.182" zpos="553.936" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_adv_thefloorislava.tw_hot_ab_adv_thefloorislava_markers.tw_hot_ab_adv_thefloorislava_markers_rockvinefruit" GUID="Gf5pWdKCXEig8z9gDmboQQ=="/>
+		<POI MapID="1043" xpos="-589.102" ypos="330.245" zpos="531.067" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_adv_thefloorislava.tw_hot_ab_adv_thefloorislava_markers.tw_hot_ab_adv_thefloorislava_markers_rockvinefruit" GUID="CFga1qSbz0eV5EMrGk51ZA=="/>
+		<POI MapID="1043" xpos="-591.708" ypos="324.505" zpos="515.574" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_adv_thefloorislava.tw_hot_ab_adv_thefloorislava_markers.tw_hot_ab_adv_thefloorislava_markers_rockvinefruit" GUID="ZGhPP4++nUenVOGgiB3cEg=="/>
+		<POI MapID="1043" xpos="-584.013" ypos="320.852" zpos="577.936" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_adv_thefloorislava.tw_hot_ab_adv_thefloorislava_markers.tw_hot_ab_adv_thefloorislava_markers_rockvinefruit" GUID="NVzB+PjubkWAhsDIiSLyyQ=="/>
+		<POI MapID="1043" xpos="-601.932" ypos="318.932" zpos="588.171" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_adv_thefloorislava.tw_hot_ab_adv_thefloorislava_markers.tw_hot_ab_adv_thefloorislava_markers_rockvinefruit" GUID="y6Glj8/BPk6+qCAXzCJRog=="/>
+		<POI MapID="1043" xpos="-584.84" ypos="320.815" zpos="601.153" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_adv_thefloorislava.tw_hot_ab_adv_thefloorislava_markers.tw_hot_ab_adv_thefloorislava_markers_rockvinefruit" GUID="N6E36JTdgUyFJ58E4v3BCg=="/>
+		<POI MapID="1043" xpos="-580.734" ypos="321.426" zpos="616.305" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_adv_thefloorislava.tw_hot_ab_adv_thefloorislava_markers.tw_hot_ab_adv_thefloorislava_markers_rockvinefruit" GUID="ziXcKqMMWkKugzfLYY4LVA=="/>
+		<POI MapID="1043" xpos="-575.607" ypos="317.977" zpos="630.071" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_adv_thefloorislava.tw_hot_ab_adv_thefloorislava_markers.tw_hot_ab_adv_thefloorislava_markers_rockvinefruit" GUID="T8R/h2BpSkeDUiuTsT4HDw=="/>
+		<POI MapID="1043" xpos="-559.246" ypos="320.867" zpos="623.446" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_adv_thefloorislava.tw_hot_ab_adv_thefloorislava_markers.tw_hot_ab_adv_thefloorislava_markers_rockvinefruit" GUID="e5PJc1Z5ck+hYK+o03c1Kg=="/>
+		<POI MapID="1043" xpos="-545.01" ypos="331.511" zpos="637.947" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_adv_thefloorislava.tw_hot_ab_adv_thefloorislava_markers.tw_hot_ab_adv_thefloorislava_markers_rockvinefruit" GUID="o/zUPj9ZAEaA6BdaYcfjLg=="/>
+		<POI MapID="1043" xpos="-540.987" ypos="323.367" zpos="630.13" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_adv_thefloorislava.tw_hot_ab_adv_thefloorislava_markers.tw_hot_ab_adv_thefloorislava_markers_rockvinefruit" GUID="aM/i2uQou0+RDY/sl7Gv6Q=="/>
+		<POI MapID="1043" xpos="-533.447" ypos="324.293" zpos="522.234" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_adv_thefloorislava.tw_hot_ab_adv_thefloorislava_markers.tw_hot_ab_adv_thefloorislava_markers_rockvinefruit" GUID="yMIP4LtDTkCT6rY4Ju9myw=="/>
+		<POI MapID="1043" xpos="-525.743" ypos="320.752" zpos="536.643" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_adv_thefloorislava.tw_hot_ab_adv_thefloorislava_markers.tw_hot_ab_adv_thefloorislava_markers_rockvinefruit" GUID="A/vJ+gbGAECfiq9coThxBA=="/>
+		<POI MapID="1043" xpos="-528.468" ypos="331.468" zpos="573.999" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_adv_thefloorislava.tw_hot_ab_adv_thefloorislava_markers.tw_hot_ab_adv_thefloorislava_markers_rockvinefruit" GUID="3fgvv92DG0yulQshSxaW6A=="/>
+		<POI MapID="1043" xpos="-537.242" ypos="321.556" zpos="601.312" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_adv_thefloorislava.tw_hot_ab_adv_thefloorislava_markers.tw_hot_ab_adv_thefloorislava_markers_rockvinefruit" GUID="Hoi/3KHS3USeQnnUEQ3ouA=="/>
+		<POI MapID="1043" xpos="-520.61" ypos="320.826" zpos="606.128" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_adv_thefloorislava.tw_hot_ab_adv_thefloorislava_markers.tw_hot_ab_adv_thefloorislava_markers_rockvinefruit" GUID="M9cQ2xVJY0yN6lAAY3PnQw=="/>
+		<POI MapID="1043" xpos="-525.791" ypos="320.323" zpos="627.251" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_adv_thefloorislava.tw_hot_ab_adv_thefloorislava_markers.tw_hot_ab_adv_thefloorislava_markers_rockvinefruit" GUID="Ex0tKzqGBUqYzcCqmrvuuw=="/>
+		<POI MapID="1043" xpos="-563.739" ypos="323.394" zpos="594.654" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_adv_thefloorislava.tw_hot_ab_adv_thefloorislava_markers.tw_hot_ab_adv_thefloorislava_markers_rockvinefruit" GUID="J9rHDhmTV0qWinqHG75dnw=="/>
+		<POI MapID="1043" xpos="-593.708" ypos="341.564" zpos="548.579" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_adv_thefloorislava.tw_hot_ab_adv_thefloorislava_markers.tw_hot_ab_adv_thefloorislava_markers_rockvinefruit" GUID="JzQuEDrGZkm8js7j+Q0SbA=="/>
+		<POI MapID="1043" xpos="-565.226" ypos="315.862" zpos="526.708" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_adv_thefloorislava.tw_hot_ab_adv_thefloorislava_markers.tw_hot_ab_adv_thefloorislava_markers_sporecluster" GUID="bOiJzcb4hUqN9ABsTe0OqQ=="/>
+		<POI MapID="1043" xpos="-562.189" ypos="315.993" zpos="536.011" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_adv_thefloorislava.tw_hot_ab_adv_thefloorislava_markers.tw_hot_ab_adv_thefloorislava_markers_sporecluster" GUID="vp/uI5MSYUqfINpvchjx9w=="/>
+		<POI MapID="1043" xpos="-580.544" ypos="315.862" zpos="519.099" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_adv_thefloorislava.tw_hot_ab_adv_thefloorislava_markers.tw_hot_ab_adv_thefloorislava_markers_sporecluster" GUID="YHRl+IP26EyhlL+pRc0o/g=="/>
+		<POI MapID="1043" xpos="-539.427" ypos="316.465" zpos="544.007" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_adv_thefloorislava.tw_hot_ab_adv_thefloorislava_markers.tw_hot_ab_adv_thefloorislava_markers_sporecluster" GUID="g4rCqOu7bEKRo0q0DFgPWw=="/>
+		<POI MapID="1043" xpos="-541.7" ypos="315.755" zpos="530.539" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_adv_thefloorislava.tw_hot_ab_adv_thefloorislava_markers.tw_hot_ab_adv_thefloorislava_markers_sporecluster" GUID="aJWXhl1N/UO0qoRkkw/wOg=="/>
+		<POI MapID="1043" xpos="-525.531" ypos="315.87" zpos="546.355" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_adv_thefloorislava.tw_hot_ab_adv_thefloorislava_markers.tw_hot_ab_adv_thefloorislava_markers_sporecluster" GUID="8VOaMeamoE6mrGlJOIOriw=="/>
+		<POI MapID="1043" xpos="-531.161" ypos="321.613" zpos="556.35" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_adv_thefloorislava.tw_hot_ab_adv_thefloorislava_markers.tw_hot_ab_adv_thefloorislava_markers_sporecluster" GUID="VluHmOe/t0SQQqMt99wmlA=="/>
+		<POI MapID="1043" xpos="-539.021" ypos="315.875" zpos="563.334" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_adv_thefloorislava.tw_hot_ab_adv_thefloorislava_markers.tw_hot_ab_adv_thefloorislava_markers_sporecluster" GUID="DSm4BZ5hTE2CDhGZNttQBA=="/>
+		<POI MapID="1043" xpos="-548.003" ypos="322.392" zpos="569.285" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_adv_thefloorislava.tw_hot_ab_adv_thefloorislava_markers.tw_hot_ab_adv_thefloorislava_markers_sporecluster" GUID="hfbW8/LiuUSfov+GBDi1Fg=="/>
+		<POI MapID="1043" xpos="-558.213" ypos="315.968" zpos="569.63" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_adv_thefloorislava.tw_hot_ab_adv_thefloorislava_markers.tw_hot_ab_adv_thefloorislava_markers_sporecluster" GUID="7WVrh5XI0kmrS3D8FCtUHA=="/>
+		<POI MapID="1043" xpos="-569.091" ypos="315.935" zpos="569.504" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_adv_thefloorislava.tw_hot_ab_adv_thefloorislava_markers.tw_hot_ab_adv_thefloorislava_markers_sporecluster" GUID="YS0PKLbRe0Ovy61kRoy5jQ=="/>
+		<POI MapID="1043" xpos="-574.914" ypos="315.864" zpos="541.035" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_adv_thefloorislava.tw_hot_ab_adv_thefloorislava_markers.tw_hot_ab_adv_thefloorislava_markers_sporecluster" GUID="8qD4iMArcUanACSPPwIYHw=="/>
+		<POI MapID="1043" xpos="-561.867" ypos="316.331" zpos="553.882" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_adv_thefloorislava.tw_hot_ab_adv_thefloorislava_markers.tw_hot_ab_adv_thefloorislava_markers_sporecluster" GUID="EPJR7rGl9Uq1FojEL+oEqQ=="/>
+		<POI MapID="1043" xpos="-574.403" ypos="315.862" zpos="553.772" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_adv_thefloorislava.tw_hot_ab_adv_thefloorislava_markers.tw_hot_ab_adv_thefloorislava_markers_sporecluster" GUID="wiskLIN3HkivAP+w5aI1uA=="/>
+		<POI MapID="1043" xpos="-578.253" ypos="315.965" zpos="579.568" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_adv_thefloorislava.tw_hot_ab_adv_thefloorislava_markers.tw_hot_ab_adv_thefloorislava_markers_sporecluster" GUID="ofAn1ZSBLEistW7dSHgbKA=="/>
+		<POI MapID="1043" xpos="-568.858" ypos="315.915" zpos="602.546" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_adv_thefloorislava.tw_hot_ab_adv_thefloorislava_markers.tw_hot_ab_adv_thefloorislava_markers_sporecluster" GUID="jN6KadfE70WEWmpJpPz3tg=="/>
+		<POI MapID="1043" xpos="-565.86" ypos="315.914" zpos="586.597" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_adv_thefloorislava.tw_hot_ab_adv_thefloorislava_markers.tw_hot_ab_adv_thefloorislava_markers_sporecluster" GUID="+Fkvj+4NUEKhbQqlTudf2w=="/>
+		<POI MapID="1043" xpos="-574.328" ypos="315.996" zpos="617.322" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_adv_thefloorislava.tw_hot_ab_adv_thefloorislava_markers.tw_hot_ab_adv_thefloorislava_markers_sporecluster" GUID="UANpkSUtVky9v90IDbXLhQ=="/>
+		<POI MapID="1043" xpos="-582.797" ypos="315.869" zpos="624.357" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_adv_thefloorislava.tw_hot_ab_adv_thefloorislava_markers.tw_hot_ab_adv_thefloorislava_markers_sporecluster" GUID="a90JkwjsdkGDrsKX6uqW6Q=="/>
+		<POI MapID="1043" xpos="-554.751" ypos="316.491" zpos="617.088" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_adv_thefloorislava.tw_hot_ab_adv_thefloorislava_markers.tw_hot_ab_adv_thefloorislava_markers_sporecluster" GUID="yTkAma4cbkiAocW13WtbrQ=="/>
+		<POI MapID="1043" xpos="-589.083" ypos="316.108" zpos="581.584" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_adv_thefloorislava.tw_hot_ab_adv_thefloorislava_markers.tw_hot_ab_adv_thefloorislava_markers_sporecluster" GUID="EWOWMj2iMUqw04gZbFuMlw=="/>
+		<POI MapID="1043" xpos="-552.176" ypos="316.073" zpos="622.724" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_adv_thefloorislava.tw_hot_ab_adv_thefloorislava_markers.tw_hot_ab_adv_thefloorislava_markers_sporecluster" GUID="TGPElOc/v0m8vJGdYDIhCw=="/>
+		<POI MapID="1043" xpos="-530.909" ypos="315.862" zpos="613.448" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_adv_thefloorislava.tw_hot_ab_adv_thefloorislava_markers.tw_hot_ab_adv_thefloorislava_markers_sporecluster" GUID="l3XFa2VYa0aAtpGF02231w=="/>
+		<POI MapID="1043" xpos="-526.346" ypos="315.862" zpos="601.704" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_adv_thefloorislava.tw_hot_ab_adv_thefloorislava_markers.tw_hot_ab_adv_thefloorislava_markers_sporecluster" GUID="gnq5OgnkVUSkG0eNtya/5w=="/>
+		<POI MapID="1043" xpos="-547.19" ypos="315.898" zpos="604.396" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_adv_thefloorislava.tw_hot_ab_adv_thefloorislava_markers.tw_hot_ab_adv_thefloorislava_markers_sporecluster" GUID="WyF8aovslEiLyMslxdamBQ=="/>
+		<POI MapID="1043" xpos="-540.194" ypos="315.862" zpos="623.345" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_adv_thefloorislava.tw_hot_ab_adv_thefloorislava_markers.tw_hot_ab_adv_thefloorislava_markers_sporecluster" GUID="NRuRS1llDUuWTNgDduKM+g=="/>
+		<POI MapID="1043" xpos="-545.342" ypos="315.632" zpos="585.376" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_adv_thefloorislava.tw_hot_ab_adv_thefloorislava_markers.tw_hot_ab_adv_thefloorislava_markers_sporecluster" GUID="cBhFF/qfwkWG06TGxC4W8Q=="/>
+		<POI MapID="1043" xpos="-545.29" ypos="315.633" zpos="585.324" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_adv_thefloorislava.tw_hot_ab_adv_thefloorislava_signs.tw_hot_ab_adv_thefloorislava_finish" GUID="0dDkuK3bUEO6q+bQ6jCvrw=="/>
+		<POI MapID="1043" xpos="-562.01" ypos="326.384" zpos="515.672" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_adv_thefloorislava.tw_hot_ab_adv_thefloorislava_signs.tw_hot_ab_adv_thefloorislava_startsign" GUID="ogCunnBTp0OqCV0uveWEBg=="/>
+		<POI MapID="1043" xpos="168.86" ypos="48.9078" zpos="-337.828" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_adv_sanctumscramble.tw_hot_ab_adv_sanctumscramble_markers.tw_hot_ab_adv_sanctumscramble_markers_aimskill3" GUID="SWINNdIN+Uu793El6tX+qg=="/>
+		<POI MapID="1043" xpos="159.673" ypos="16.9441" zpos="-332.175" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_adv_sanctumscramble.tw_hot_ab_adv_sanctumscramble_markers.tw_hot_ab_adv_sanctumscramble_markers_skill3" GUID="LsgQP7RDmkeZmxoC9fnySw=="/>
+		<POI MapID="1043" xpos="243.807" ypos="41.6523" zpos="-327.285" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_adv_sanctumscramble.tw_hot_ab_adv_sanctumscramble_markers.tw_hot_ab_adv_sanctumscramble_markers_aimskill2" GUID="mmLDD6M43Eu9N1XYZLXQBw=="/>
+		<POI MapID="1043" xpos="245.97" ypos="42.8942" zpos="-328.574" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_adv_sanctumscramble.tw_hot_ab_adv_sanctumscramble_markers.tw_hot_ab_adv_sanctumscramble_markers_skill1" GUID="V7BKt6makUWU8v/2nib0XA=="/>
+		<POI MapID="1043" xpos="174.965" ypos="49.3589" zpos="-336.709" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_adv_sanctumscramble.tw_hot_ab_adv_sanctumscramble_markers.tw_hot_ab_adv_sanctumscramble_markers_skill2" GUID="mvn/yANH5k+EDqDGNcXyGg=="/>
+		<POI MapID="1043" xpos="293.701" ypos="49.3219" zpos="-314.651" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_adv_sanctumscramble.tw_hot_ab_adv_sanctumscramble_markers.tw_hot_ab_adv_sanctumscramble_markers_skill3" GUID="iIglDdq4P0qddNE7vRHbRA=="/>
+		<POI MapID="1043" xpos="325.727" ypos="61.9739" zpos="-238.431" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_adv_sanctumscramble.tw_hot_ab_adv_sanctumscramble_markers.tw_hot_ab_adv_sanctumscramble_markers_skill1" GUID="O2xzKivL1k6PjlTZDMI7cw=="/>
+		<POI MapID="1043" xpos="321.021" ypos="60.1561" zpos="-163.988" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_adv_sanctumscramble.tw_hot_ab_adv_sanctumscramble_markers.tw_hot_ab_adv_sanctumscramble_markers_aimskill2" GUID="SECp0iokJ0mQVgVsn3jKoQ=="/>
+		<POI MapID="1043" xpos="325.561" ypos="71.8806" zpos="-233.655" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_adv_sanctumscramble.tw_hot_ab_adv_sanctumscramble_markers.tw_hot_ab_adv_sanctumscramble_markers_skill2" GUID="HGdrSH/8Y06QC1T25gDPqQ=="/>
+		<POI MapID="1043" xpos="281.357" ypos="78.5109" zpos="-126.933" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_adv_sanctumscramble.tw_hot_ab_adv_sanctumscramble_markers.tw_hot_ab_adv_sanctumscramble_markers_aimskill3" GUID="YykmCjzn50uIXFNj8xDplQ=="/>
+		<POI MapID="1043" xpos="231.949" ypos="58.9336" zpos="-106.685" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_adv_sanctumscramble.tw_hot_ab_adv_sanctumscramble_markers.tw_hot_ab_adv_sanctumscramble_markers_skill1" GUID="+vwowvaUqEqpg3HXC0ZuMA=="/>
+		<POI MapID="1043" xpos="309" ypos="59.9856" zpos="-156.295" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_adv_sanctumscramble.tw_hot_ab_adv_sanctumscramble_markers.tw_hot_ab_adv_sanctumscramble_markers_skill3" GUID="fBxEJhN4aEiKe+sfAP+n7A=="/>
+		<POI MapID="1043" xpos="292.581" ypos="70.1936" zpos="-139.844" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_adv_sanctumscramble.tw_hot_ab_adv_sanctumscramble_markers.tw_hot_ab_adv_sanctumscramble_markers_skill2" GUID="ip8lZVX2k0e+0aKs0RHtxQ=="/>
+		<POI MapID="1043" xpos="155.483" ypos="59.1773" zpos="-109.917" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_adv_sanctumscramble.tw_hot_ab_adv_sanctumscramble_markers.tw_hot_ab_adv_sanctumscramble_markers_aimskill2" GUID="hFf5EW99hUmySCVkkbTq/Q=="/>
+		<POI MapID="1043" xpos="144.278" ypos="60.3256" zpos="-119.958" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_adv_sanctumscramble.tw_hot_ab_adv_sanctumscramble_markers.tw_hot_ab_adv_sanctumscramble_markers_skill3" GUID="hrmq5iOhZkq79TG4IHKwpw=="/>
+		<POI MapID="1043" xpos="121.113" ypos="72.3219" zpos="-166.125" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_adv_sanctumscramble.tw_hot_ab_adv_sanctumscramble_markers.tw_hot_ab_adv_sanctumscramble_markers_aimskill3" GUID="lgOQ1k93X0aIhuSBtCKbbw=="/>
+		<POI MapID="1043" xpos="298.466" ypos="73.2653" zpos="-312.795" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_adv_sanctumscramble.tw_hot_ab_adv_sanctumscramble_markers.tw_hot_ab_adv_sanctumscramble_markers_aimskill3" GUID="OB2NL/TRy0mYlUmnpCxmsg=="/>
+		<POI MapID="1043" xpos="301.214" ypos="75.6139" zpos="-307.511" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_adv_sanctumscramble.tw_hot_ab_adv_sanctumscramble_markers.tw_hot_ab_adv_sanctumscramble_markers_skill2" GUID="JCm70d4k0EKYUw8Gt9e/7Q=="/>
+		<POI MapID="1043" xpos="223.037" ypos="67.9306" zpos="-107.214" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_adv_sanctumscramble.tw_hot_ab_adv_sanctumscramble_markers.tw_hot_ab_adv_sanctumscramble_markers_skill2" GUID="zUum1EBIlUqyuaBxui9uAA=="/>
+		<POI MapID="1043" xpos="117.976" ypos="77.4629" zpos="-189.573" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_adv_sanctumscramble.tw_hot_ab_adv_sanctumscramble_markers.tw_hot_ab_adv_sanctumscramble_markers_skill1" GUID="+/q2vzmUXkKtPuJtdJvotg=="/>
+		<POI MapID="1043" xpos="117.267" ypos="86.6453" zpos="-197.459" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_adv_sanctumscramble.tw_hot_ab_adv_sanctumscramble_markers.tw_hot_ab_adv_sanctumscramble_markers_skill2" GUID="ZuVBEMTS70OHvXyjuFmaGQ=="/>
+		<POI MapID="1043" xpos="111.373" ypos="78.1456" zpos="-262.041" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_adv_sanctumscramble.tw_hot_ab_adv_sanctumscramble_markers.tw_hot_ab_adv_sanctumscramble_markers_aimskill2" GUID="4ZeVxAAkzE+tsfduE/rMIg=="/>
+		<POI MapID="1043" xpos="117.667" ypos="83.1404" zpos="-273.124" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_adv_sanctumscramble.tw_hot_ab_adv_sanctumscramble_markers.tw_hot_ab_adv_sanctumscramble_markers_skill3" GUID="JH5X5bOId0+JhjSU5M/YZQ=="/>
+		<POI MapID="1043" xpos="143.245" ypos="95.7471" zpos="-301.376" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_adv_sanctumscramble.tw_hot_ab_adv_sanctumscramble_markers.tw_hot_ab_adv_sanctumscramble_markers_aimskill3" GUID="4VDSC5VF8USf4oSFTnCtpg=="/>
+		<POI MapID="1043" xpos="244.722" ypos="59.0886" zpos="-105.857" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_adv_sanctumscramble.tw_hot_ab_adv_sanctumscramble_markers.tw_hot_ab_adv_sanctumscramble_markers_aimskill2" GUID="+CrTctRd0UWTNPANVP52YQ=="/>
+		<POI MapID="1043" xpos="171.077" ypos="95.6555" zpos="-313.194" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_adv_sanctumscramble.tw_hot_ab_adv_sanctumscramble_markers.tw_hot_ab_adv_sanctumscramble_markers_skill1" GUID="XjgeECgeaUWUG6DiQVmxQw=="/>
+		<POI MapID="1043" xpos="327.593" ypos="61.4575" zpos="-254.422" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_adv_sanctumscramble.tw_hot_ab_adv_sanctumscramble_markers.tw_hot_ab_adv_sanctumscramble_markers_aimskill2" GUID="Z6zXcWA5uU+N4UPztq+kbg=="/>
+		<POI MapID="1043" xpos="290.381" ypos="49.3838" zpos="-317.369" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_adv_sanctumscramble.tw_hot_ab_adv_sanctumscramble_markers.tw_hot_ab_adv_sanctumscramble_markers_aimskill2" GUID="AIK6SvrmVUOjfMtWNUoY2w=="/>
+		<POI MapID="1043" xpos="197.797" ypos="104.91" zpos="-321.301" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_adv_sanctumscramble.tw_hot_ab_adv_sanctumscramble_markers.tw_hot_ab_adv_sanctumscramble_markers_aimskill2" GUID="PDqwVriCC0qcb99UNdrDcA=="/>
+		<POI MapID="1043" xpos="178.938" ypos="104.883" zpos="-315.33" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_adv_sanctumscramble.tw_hot_ab_adv_sanctumscramble_markers.tw_hot_ab_adv_sanctumscramble_markers_skill2" GUID="4XY5yJg8Vk+jHF9wrRdueg=="/>
+		<POI MapID="1043" xpos="243.865" ypos="135.803" zpos="-304.2" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_adv_sanctumscramble.tw_hot_ab_adv_sanctumscramble_markers.tw_hot_ab_adv_sanctumscramble_markers_aimskill3" GUID="+8Yw0IoE4UKD4QOo9FtQJQ=="/>
+		<POI MapID="1043" xpos="226.572" ypos="107.256" zpos="-320.365" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_adv_sanctumscramble.tw_hot_ab_adv_sanctumscramble_markers.tw_hot_ab_adv_sanctumscramble_markers_skill3" GUID="6urL6ySdlkmxdcGqK00Quw=="/>
+		<POI MapID="1043" xpos="246.802" ypos="134.05" zpos="-298.517" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_adv_sanctumscramble.tw_hot_ab_adv_sanctumscramble_markers.tw_hot_ab_adv_sanctumscramble_markers_skill2" GUID="OD0IIEsK1kql/CN6lsUFDA=="/>
+		<POI MapID="1043" xpos="284.942" ypos="127.781" zpos="-275.503" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_adv_sanctumscramble.tw_hot_ab_adv_sanctumscramble_markers.tw_hot_ab_adv_sanctumscramble_markers_aimskill2" GUID="vG0y3BbWmUuKLOu85H6Uew=="/>
+		<POI MapID="1043" xpos="303.424" ypos="150.677" zpos="-237.702" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_adv_sanctumscramble.tw_hot_ab_adv_sanctumscramble_markers.tw_hot_ab_adv_sanctumscramble_markers_aimskill3" GUID="0cIkLtL8dUKkk2OH+cpTEg=="/>
+		<POI MapID="1043" xpos="285.622" ypos="128.348" zpos="-269.535" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_adv_sanctumscramble.tw_hot_ab_adv_sanctumscramble_markers.tw_hot_ab_adv_sanctumscramble_markers_skill3" GUID="PlYymro9/E29AKlOikVWxA=="/>
+		<POI MapID="1043" xpos="297.78" ypos="153.053" zpos="-196.98" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_adv_sanctumscramble.tw_hot_ab_adv_sanctumscramble_markers.tw_hot_ab_adv_sanctumscramble_markers_skill1" GUID="KO91qktzmE6cBq0RLAh4Bg=="/>
+		<POI MapID="1043" xpos="291.225" ypos="172.151" zpos="-174.322" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_adv_sanctumscramble.tw_hot_ab_adv_sanctumscramble_markers.tw_hot_ab_adv_sanctumscramble_markers_skill3" GUID="dcD4z5MUwEiqIRBPXUrgeA=="/>
+		<POI MapID="1043" xpos="287.176" ypos="203.717" zpos="-171.661" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_adv_sanctumscramble.tw_hot_ab_adv_sanctumscramble_markers.tw_hot_ab_adv_sanctumscramble_markers_aimskill3" GUID="sm8/UflZIUOvCZ+ubR233g=="/>
+		<POI MapID="1043" xpos="283.167" ypos="201.841" zpos="-169.264" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_adv_sanctumscramble.tw_hot_ab_adv_sanctumscramble_markers.tw_hot_ab_adv_sanctumscramble_markers_skill2" GUID="ZdwGkZvAIk2/sbcw9i9KTQ=="/>
+		<POI MapID="1043" xpos="169.101" ypos="212.577" zpos="-156.754" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_adv_sanctumscramble.tw_hot_ab_adv_sanctumscramble_markers.tw_hot_ab_adv_sanctumscramble_markers_aimskill3" GUID="gxm5yYe0qkWxwWnv/Cajmg=="/>
+		<POI MapID="1043" xpos="147.981" ypos="202.862" zpos="-241.451" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_adv_sanctumscramble.tw_hot_ab_adv_sanctumscramble_markers.tw_hot_ab_adv_sanctumscramble_markers_aimskill2" GUID="yC5StDmvh0Cfxq9ifaW4pQ=="/>
+		<POI MapID="1043" xpos="162.878" ypos="208.575" zpos="-179.868" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_adv_sanctumscramble.tw_hot_ab_adv_sanctumscramble_markers.tw_hot_ab_adv_sanctumscramble_markers_skill2" GUID="Fl7lX1lez0K1+bElHs50KQ=="/>
+		<POI MapID="1043" xpos="154.576" ypos="208.542" zpos="-255.845" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_adv_sanctumscramble.tw_hot_ab_adv_sanctumscramble_markers.tw_hot_ab_adv_sanctumscramble_markers_skill1" GUID="jzsfU7QklUud/T5nB6W5/g=="/>
+		<POI MapID="1043" xpos="175.269" ypos="217.199" zpos="-256.384" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_adv_sanctumscramble.tw_hot_ab_adv_sanctumscramble_markers.tw_hot_ab_adv_sanctumscramble_markers_skill2" GUID="SgHdMNUE5E2btPhgJnzP2g=="/>
+		<POI MapID="1043" xpos="178.287" ypos="181.308" zpos="-158.103" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_adv_sanctumscramble.tw_hot_ab_adv_sanctumscramble_markers.tw_hot_ab_adv_sanctumscramble_markers_aimskill2" GUID="ivUsK4IIMECAn1j/O1NSvA=="/>
+		<POI MapID="1043" xpos="175.39" ypos="181.308" zpos="-155.274" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_adv_sanctumscramble.tw_hot_ab_adv_sanctumscramble_markers.tw_hot_ab_adv_sanctumscramble_markers_skill3" GUID="9inUhH0V9EWo50ZJcdVQVw=="/>
+		<POI MapID="1043" xpos="132.09" ypos="3.4345" zpos="-298.141" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_adv_sanctumscramble.tw_hot_ab_adv_sanctumscramble_signs.tw_hot_ab_adv_sanctumscramble_startsign" GUID="Twe/eMt+OEeIMtI2jFihiQ=="/>
+		<POI MapID="1043" xpos="199.68" ypos="211.528" zpos="-234.259" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_adv_sanctumscramble.tw_hot_ab_adv_sanctumscramble_signs.tw_hot_ab_adv_sanctumscramble_finish" GUID="yB/0/woJV0S2hIwIWHXqvg=="/>
+		<POI MapID="1043" xpos="268.323" ypos="54.2225" zpos="-334.59" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_adv_sanctumscramble.tw_hot_ab_adv_sanctumscramble_markers.tw_hot_ab_adv_sanctumscramble_markers_skill2" GUID="F4khPYbEb0GEoIwVBTCNaQ=="/>
+		<POI MapID="1043" xpos="-198.953" ypos="0.923458" zpos="270.442" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_masterypoints.tw_hot_ab_masterypoint_fallenmasks" GUID="Jq9oVJbVF0CTf01DHy/J2g=="/>
+		<POI MapID="1043" xpos="-564.499" ypos="325.947" zpos="515.049" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_masterypoints.tw_hot_ab_masterypoint_thefloorislava" GUID="xbha3haT5kigXi+RhH2SpQ=="/>
+		<POI MapID="1043" xpos="138.366" ypos="4.23635" zpos="-299.194" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_masterypoints.tw_hot_ab_masterypoint_sanctumscramble" GUID="1C4koTTiQEq0MO8rpI1Qog=="/>
+		<POI MapID="1043" xpos="-315.588" ypos="319.792" zpos="-510.719" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_masterypoints.tw_hot_ab_masterypoint_afungusamongus" GUID="ZA7eGfH30UeySLkitQ1XRQ=="/>
+		<POI MapID="1043" xpos="59.3043" ypos="81.4329" zpos="-0.0802226" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_masterypoints.tw_hot_ab_masterypoint_droppinbombs" GUID="zjkSKB/7VkSx25K4h/yl5w=="/>
+		<POI MapID="1043" xpos="204.175" ypos="111.467" zpos="-0.316117" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_masterypoints.tw_hot_ab_masterypoint_forgottencityarches" GUID="87ui8C3XqEiomESAWI+K0Q=="/>
+		<POI MapID="1043" xpos="-229.45" ypos="345.847" zpos="672.097" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_masterypoints.tw_hot_ab_masterypoint_invisibleking" GUID="nqy6xc6Q20WK1ywzqQLb3A=="/>
+		<POI MapID="1043" xpos="93.9509" ypos="335.115" zpos="515.782" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_masterypoints.tw_hot_ab_masterypoint_tarirchallengewinner" GUID="0qmvvbunqk+EbY6ny110PA=="/>
+		<POI MapID="1043" xpos="553.951" ypos="234.68" zpos="322.778" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_masterypoints.tw_hot_ab_masterypoint_vinetoothhunter" GUID="1fH68Lgo0ESdXvpYzpDHxw=="/>
+		<POI MapID="1043" xpos="508.816" ypos="292.933" zpos="441.077" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_masterypoints.tw_hot_ab_masterypoint_burnisherquarry" GUID="/wy+eCceC0SRC9a30cFrUw=="/>
+		<POI MapID="1043" xpos="167.1" ypos="303.899" zpos="-597.801" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_masterypoints.tw_hot_ab_masterypoint_jawatlgrounds" GUID="a8b6/Xdv50K7AHN0BSTcDw=="/>
+		<POI MapID="1043" xpos="-417.166" ypos="299.549" zpos="-150.757" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_masterypoints.tw_hot_ab_masterypoint_lastgearstanding" GUID="wI8VS3oVDkGQ5jcCzdJKtg=="/>
+		<POI MapID="1043" xpos="-111.901" ypos="331.259" zpos="-5.16123" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_masterypoints.tw_hot_ab_masterypoint_luminatesthrone" GUID="e4YbpJ32kECuUZPn8H9N6g=="/>
+		<POI MapID="1043" xpos="-151.188" ypos="345.48" zpos="265.942" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_masterypoints.tw_hot_ab_masterypoint_masksofthefallen" GUID="WibcV9nb1kexetqYVK9MXw=="/>
+		<POI MapID="1043" xpos="-78.7278" ypos="316.408" zpos="-512.828" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_masterypoints.tw_hot_ab_masterypoint_southwatchcreep" GUID="WTmMQaQvtk6336A0wBsoCw=="/>
+		<POI MapID="1043" xpos="-424.112" ypos="250.382" zpos="-294.024" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_masterypoints.tw_hot_ab_masterypoint_thefalls" GUID="meYuoQXdfUqqgxtwR7A1XA=="/>
+		<POI MapID="1043" xpos="-324.344" ypos="332.105" zpos="-123.518" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_masterypoints.tw_hot_ab_masterypoint_sliceofsky" GUID="HCvKl8KvNUeSvKyLh/ZTHg=="/>
+		<POI MapID="1043" xpos="-372.155" ypos="331.676" zpos="-360.454" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_miscchests_miscchest" GUID="pyra++B6F0izDq+wpXBGzw=="/>
+		<POI MapID="1043" xpos="-487.454" ypos="197.758" zpos="-372.177" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_jp_highestgear.tw_hot_ab_jp_highestgear_jump" GUID="C4wucwhSBEW8D2zZIUDEkA=="/>
+		<POI MapID="1043" xpos="-486.105" ypos="200.061" zpos="-370.351" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_jp_highestgear.tw_hot_ab_jp_highestgear_jump" GUID="k3sj3Li9f0+YjPR2OT2K3Q=="/>
+		<POI MapID="1043" xpos="-472.908" ypos="207.368" zpos="-362.64" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_jp_highestgear.tw_hot_ab_jp_highestgear_jump" GUID="2CktnY7agE6vQNPmBydwyQ=="/>
+		<POI MapID="1043" xpos="-465.354" ypos="211.197" zpos="-360.277" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_jp_highestgear.tw_hot_ab_jp_highestgear_jump" GUID="721zKtgbWUO39zPRtjXZ1g=="/>
+		<POI MapID="1043" xpos="-464.143" ypos="213.141" zpos="-362.281" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_jp_highestgear.tw_hot_ab_jp_highestgear_jump" GUID="rb+sWHLc202VSW4/3HtaGA=="/>
+		<POI MapID="1043" xpos="-463.376" ypos="215.234" zpos="-364.856" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_jp_highestgear.tw_hot_ab_jp_highestgear_jump" GUID="lo5eCa7/lUiBiV80ii7tcQ=="/>
+		<POI MapID="1043" xpos="-462.234" ypos="217.197" zpos="-367.519" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_jp_highestgear.tw_hot_ab_jp_highestgear_jump" GUID="gIYE6NuHYkipIb23jJU52w=="/>
+		<POI MapID="1043" xpos="-461.289" ypos="218.932" zpos="-369.86" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_jp_highestgear.tw_hot_ab_jp_highestgear_jump" GUID="kOjH95gKgEWCeXY8IfIQ/A=="/>
+		<POI MapID="1043" xpos="-460.737" ypos="220.339" zpos="-371.05" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_jp_highestgear.tw_hot_ab_jp_highestgear_jump" GUID="YvWNYU/4l0mYH46uQP8OSg=="/>
+		<POI MapID="1043" xpos="-460.198" ypos="222.116" zpos="-373.18" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_jp_highestgear.tw_hot_ab_jp_highestgear_jump" GUID="JbfjHltnF0WflmtM6UYGYA=="/>
+		<POI MapID="1043" xpos="-460.624" ypos="224.083" zpos="-376.204" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_jp_highestgear.tw_hot_ab_jp_highestgear_jump" GUID="2aydTVH3lUqtLfHNSOqDOg=="/>
+		<POI MapID="1043" xpos="-478.702" ypos="223.317" zpos="-422.182" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_jp_highestgear.tw_hot_ab_jp_highestgear_jump" GUID="/KkwIZDP6kOOLc0Zu82L8A=="/>
+		<POI MapID="1043" xpos="-480.481" ypos="226.904" zpos="-426.308" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_jp_highestgear.tw_hot_ab_jp_highestgear_jump" GUID="1/JDoOCPYkacqi4DZI/Yzg=="/>
+		<POI MapID="1043" xpos="-480.011" ypos="225.084" zpos="-425.208" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_jp_highestgear.tw_hot_ab_jp_highestgear_jump" GUID="yThpkXsocUGIrLvsCuYeLA=="/>
+		<POI MapID="1043" xpos="-480.634" ypos="228.531" zpos="-427.481" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_jp_highestgear.tw_hot_ab_jp_highestgear_jump" GUID="syCK3VWTc0CsUhIspKw8CA=="/>
+		<POI MapID="1043" xpos="-484.096" ypos="229.964" zpos="-428.281" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_jp_highestgear.tw_hot_ab_jp_highestgear_jump" GUID="g0MnnOFReUKnRcGMb9hMyg=="/>
+		<POI MapID="1043" xpos="-486.949" ypos="230.667" zpos="-428.785" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_jp_highestgear.tw_hot_ab_jp_highestgear_jump" GUID="kGF9DbD1pEa0IzCFnMmvCw=="/>
+		<POI MapID="1043" xpos="-533.391" ypos="230.986" zpos="-432.084" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_jp_highestgear.tw_hot_ab_jp_highestgear_jump" GUID="YUV/vOcVAEm5WtkIWVtWSA=="/>
+		<POI MapID="1043" xpos="-538.169" ypos="233.477" zpos="-433.489" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_jp_highestgear.tw_hot_ab_jp_highestgear_jump" GUID="ZYv6TetTAkGVw+n5faU4Cw=="/>
+		<POI MapID="1043" xpos="-541.088" ypos="235.351" zpos="-434.359" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_jp_highestgear.tw_hot_ab_jp_highestgear_jump" GUID="Tj2HhHwD30ajIMYQqvwmqw=="/>
+		<POI MapID="1043" xpos="-546.219" ypos="237.617" zpos="-434.104" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_jp_highestgear.tw_hot_ab_jp_highestgear_jump" GUID="GZcJB4GVtE6xDjITTWs7AA=="/>
+		<POI MapID="1043" xpos="-547.293" ypos="239.73" zpos="-433.899" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_jp_highestgear.tw_hot_ab_jp_highestgear_jump" GUID="hTrWXWeX2EiJhQyf4PnQcA=="/>
+		<POI MapID="1043" xpos="-548.935" ypos="241.728" zpos="-431.91" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_jp_highestgear.tw_hot_ab_jp_highestgear_jump" GUID="GlDEZURm5UGQc5ggTUaYEg=="/>
+		<POI MapID="1043" xpos="-550.001" ypos="243.586" zpos="-429.558" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_jp_highestgear.tw_hot_ab_jp_highestgear_jump" GUID="DxNunc0R60+QtpryGMjQqQ=="/>
+		<POI MapID="1043" xpos="-549.793" ypos="245.555" zpos="-425.285" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_jp_highestgear.tw_hot_ab_jp_highestgear_jump" GUID="k85q4jBvqk204t959bxKOg=="/>
+		<POI MapID="1043" xpos="-601.905" ypos="262.561" zpos="-302.509" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_jp_highestgear.tw_hot_ab_jp_highestgear_jump" GUID="hMnqHJI1Nk6P/Hgo+4h79g=="/>
+		<POI MapID="1043" xpos="-599.824" ypos="262.982" zpos="-298.878" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_jp_highestgear.tw_hot_ab_jp_highestgear_jump" GUID="LWWupMxg0kGLBtFdxRlzig=="/>
+		<POI MapID="1043" xpos="-598.819" ypos="264.156" zpos="-296.768" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_jp_highestgear.tw_hot_ab_jp_highestgear_jump" GUID="yg9XGX6QGEuSIXJbEgYAKw=="/>
+		<POI MapID="1043" xpos="-598.07" ypos="265.949" zpos="-293.133" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_jp_highestgear.tw_hot_ab_jp_highestgear_jump" GUID="iHfsyLAo50a5GVk6JmvPgQ=="/>
+		<POI MapID="1043" xpos="-598.053" ypos="267.488" zpos="-289.797" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_jp_highestgear.tw_hot_ab_jp_highestgear_jump" GUID="3oBaga5+ykKgUtlredt2Jg=="/>
+		<POI MapID="1043" xpos="-596.424" ypos="268.868" zpos="-289.552" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_jp_highestgear.tw_hot_ab_jp_highestgear_jump" GUID="tcnvnmvRwEO6Y12dXjn8Xw=="/>
+		<POI MapID="1043" xpos="-595.685" ypos="270.352" zpos="-288.027" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_jp_highestgear.tw_hot_ab_jp_highestgear_jump" GUID="CJ4WkQn5mEqcmjEsxouC7g=="/>
+		<POI MapID="1043" xpos="-594.321" ypos="272.259" zpos="-285.71" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_jp_highestgear.tw_hot_ab_jp_highestgear_jump" GUID="Iw72w59kw06NGhECJtjuJw=="/>
+		<POI MapID="1043" xpos="-588.948" ypos="273.75" zpos="-281.763" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_jp_highestgear.tw_hot_ab_jp_highestgear_jump" GUID="UJk8htiX4U28ziWonTgXdQ=="/>
+		<POI MapID="1043" xpos="-581.55" ypos="274.918" zpos="-279.498" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_jp_highestgear.tw_hot_ab_jp_highestgear_jump" GUID="8o/ir6yIxkuE1EEGyrkoRA=="/>
+		<POI MapID="1043" xpos="-579.05" ypos="276.522" zpos="-279.885" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_jp_highestgear.tw_hot_ab_jp_highestgear_jump" GUID="+dnTlgPOD0mxO3ea8rW8/A=="/>
+		<POI MapID="1043" xpos="-575.947" ypos="278.036" zpos="-281.742" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_jp_highestgear.tw_hot_ab_jp_highestgear_jump" GUID="EIp/FSP0WEmOtW7coQskSg=="/>
+		<POI MapID="1043" xpos="-527.392" ypos="267.565" zpos="-370.58" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_jp_highestgear.tw_hot_ab_jp_highestgear_jump" GUID="Kcl+p/tcJ0mi8htPeZbsMw=="/>
+		<POI MapID="1043" xpos="-504.834" ypos="271.022" zpos="-365.113" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_jp_highestgear.tw_hot_ab_jp_highestgear_jump" GUID="QPiILI5CO0e8IMTeu6Ta8A=="/>
+		<POI MapID="1043" xpos="-502.877" ypos="272.267" zpos="-364.38" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_jp_highestgear.tw_hot_ab_jp_highestgear_jump" GUID="p96vh7qdLES2gOW8VUv/Kg=="/>
+		<POI MapID="1043" xpos="-500.642" ypos="274.006" zpos="-365.114" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_jp_highestgear.tw_hot_ab_jp_highestgear_jump" GUID="vhPrh7SF8UeNs/mBl90OQg=="/>
+		<POI MapID="1043" xpos="-499.035" ypos="275.276" zpos="-363.605" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_jp_highestgear.tw_hot_ab_jp_highestgear_jump" GUID="ZelJkhJZPEivviu61+Tq0w=="/>
+		<POI MapID="1043" xpos="-498.04" ypos="277.838" zpos="-358.893" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_jp_highestgear.tw_hot_ab_jp_highestgear_jump" GUID="kYhGwcFAykC7idoUB8Qy1g=="/>
+		<POI MapID="1043" xpos="-483.166" ypos="279.673" zpos="-373.044" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_jp_highestgear.tw_hot_ab_jp_highestgear_jump" GUID="gk7UP+mKj0WvDQyFR5yprQ=="/>
+		<POI MapID="1043" xpos="-476.826" ypos="280.645" zpos="-373.863" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_jp_highestgear.tw_hot_ab_jp_highestgear_jump" GUID="eX5cteFjmU23Qz7jlVpuZw=="/>
+		<POI MapID="1043" xpos="-472.946" ypos="281.376" zpos="-378.439" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_jp_highestgear.tw_hot_ab_jp_highestgear_jump" GUID="9DZdwUA1OEqe9S31RrlQQQ=="/>
+		<POI MapID="1043" xpos="-471.16" ypos="281.023" zpos="-383.145" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_jp_highestgear.tw_hot_ab_jp_highestgear_jump" GUID="ozqTYv+7BEKqI6xOIR78YQ=="/>
+		<POI MapID="1043" xpos="-577.259" ypos="271.537" zpos="-433.663" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_jp_highestgear.tw_hot_ab_jp_highestgear_signs.tw_hot_ab_jp_highestgear_finish" GUID="tacxuBmJ/ku5VQWLoQhRmg=="/>
+		<POI MapID="1043" xpos="115.67" ypos="155.167" zpos="-557.591" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_jumpingmushroom" GUID="9khZ5u7BPEGxenfeGpjZ2w=="/>
+		<POI MapID="1043" xpos="110.103" ypos="163.743" zpos="-561.192" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_jumpingmushroom" GUID="GXowGytjYEG6zniUqgFEmQ=="/>
+		<POI MapID="1043" xpos="109.813" ypos="172.078" zpos="-556.411" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_jumpingmushroom" GUID="t+C8E4WgY0eXinzbFRtryg=="/>
+		<POI MapID="1043" xpos="128.481" ypos="155.074" zpos="-534.904" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_jumpingmushroom" GUID="PFlmMJ5d30eMffNX3k8exg=="/>
+		<POI MapID="1043" xpos="136.75" ypos="163.899" zpos="-536.446" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_jumpingmushroom" GUID="hXS3MYCYqUeRKKB1te99rQ=="/>
+		<POI MapID="1043" xpos="137.886" ypos="172.198" zpos="-547.513" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_jumpingmushroom" GUID="cfzWUWh3GkaHZeid6FwQIg=="/>
+		<POI MapID="1043" xpos="-530.28" ypos="176.366" zpos="-365.105" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_jp_highestgear.tw_hot_ab_jp_highestgear_signs.tw_hot_ab_jp_highestgear_startsign" GUID="aNrc/hoW2UmMLB4B1MzaVQ=="/>
+		<POI MapID="1043" xpos="-164.899" ypos="220.62" zpos="0.197352" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_thegoldenchicken" GUID="6fYOnB3xdUKRx7Oia7l4EQ=="/>
+		<POI MapID="1043" xpos="-496.58" ypos="369.352" zpos="-668.311" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_hiddenamphibian" GUID="VcuTXxVCjkqDFcVlhRUTUA=="/>
+		<POI MapID="1043" xpos="178.781" ypos="261.428" zpos="89.6679" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_masterypoints.tw_hot_ab_masterypoint_onwingsofgold" GUID="TcCg8rt4a0aviwxkiw3g7A=="/>
+		<POI MapID="1043" xpos="177.926" ypos="261.432" zpos="89.9329" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_adv_onwingsofgold.tw_hot_ab_adv_onwingsofgold_signs.tw_hot_ab_adv_onwingsofgold_startsign" GUID="QVJ8ROo4fkOgDJKisMfOjw=="/>
+		<POI MapID="1043" xpos="164.319" ypos="261.706" zpos="91.5432" type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_adv_onwingsofgold.tw_hot_ab_adv_onwingsofgold_signs.tw_hot_ab_adv_onwingsofgold_finish" GUID="gg3zRfT+TkGEWlrHJnt25A=="/>
+		<Trail type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_adv_fungusamongus.tw_hot_ab_adv_fungusamongus_toggletrail" GUID="WJwAKfg5MUKPHswLyxV9Bg==" fadeNear="2500" fadeFar="2600" trailData="Data/TekkitsWorkshop/HoT/tw_hot_ab_fungusamongus.trl" animSpeed="0" texture="Data/TekkitsWorkshop/General/tw_trail_nb.png"/>
+		<Trail type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_adv_fallenmasks.tw_hot_ab_adv_fallenmasks_toggletrail" GUID="gwXmi8lQ0E2UwNfJ/a1tqw==" fadeNear="2500" fadeFar="2600" trailData="Data/TekkitsWorkshop/HoT/tw_hot_ab_fallenmasks.trl" animSpeed="0" texture="Data/TekkitsWorkshop/General/tw_trail_link.png"/>
+		<Trail type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_adv_thefloorislava.tw_hot_ab_adv_thefloorislava_toggletrail" GUID="C8HgDNpbvU+98fuKljr50A==" fadeNear="2500" fadeFar="2600" trailData="Data/TekkitsWorkshop/HoT/tw_hot_ab_thefloorislava.trl" animSpeed="0" texture="Data/TekkitsWorkshop/General/tw_trail_nb.png"/>
+		<Trail type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_adv_sanctumscramble.tw_hot_ab_adv_sanctumscramble_toggletrail" GUID="CWIaBn7EXUaCIJhoiRRrRg==" fadeNear="2500" fadeFar="2600" trailData="Data/TekkitsWorkshop/HoT/tw_hot_ab_sanctumscramble.trl" animSpeed="0" texture="Data/TekkitsWorkshop/General/tw_trail_nb.png"/>
+		<Trail type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_adv_onwingsofgold.tw_hot_ab_adv_onwingsofgold_toggletrail" GUID="xeTf0U0Ab0qQzAjFR+2b2g==" fadeNear="2500" fadeFar="2600" trailData="Data/TekkitsWorkshop/HoT/tw_hot_ab_adv_onwingsofgold.trl" animSpeed="0" texture="Data/TekkitsWorkshop/General/tw_trail_nb.png"/>
+		<Trail type="tw_guides.tw_hot.tw_hot_ab.tw_hot_ab_jp_highestgear.tw_hot_ab_jp_highestgear_toggletrail" GUID="CjhmbNQSCEKr4EUo+9dEhw==" fadeNear="2500" fadeFar="2600" trailData="Data/TekkitsWorkshop/HoT/tw_hot_ab_jp_highestgear.trl" animSpeed="0" texture="Data/TekkitsWorkshop/General/tw_trail_nb.png"/>
+	</POIs>
+</OverlayData>

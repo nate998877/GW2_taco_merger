@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+POIs: Cloud Strife.7492 - Xenophy.2716 - ReActif.9251
+Date: 2017/08/23
+-->
+<OverlayData>
+	<MarkerCategory name="general" DisplayName="General">
+		<MarkerCategory name="puzzles_de_saut" DisplayName="Jumping Puzzles" iconFile="Img\Guide.png" iconSize="0.75">
+			<MarkerCategory name="labo_du_professeur_portmatt" DisplayName="Professor Portmatt's Lab"/>
+		</MarkerCategory>
+	</MarkerCategory>
+
+	<POIs>
+
+		<!-- Début -->
+		<POI MapID="73" xpos="-402.08" ypos="-70.32" zpos="683.73" type="general.puzzles_de_saut.debut" GUID="Xr99gnPhSE+7sDP1l5L/uA=="/>
+
+		<!-- Route -->
+		<Route MapID="73" name="Labo_du_Professeur_Portmatt" resetposx="-402.08" resetposy="-70.32" resetposz="683.73" resetrange="3">
+			<POI MapID="73" xpos="-490.869" ypos="-132.055" zpos="726.424" type="general.puzzles_de_saut.labo_du_professeur_portmatt" GUID="H4ALR9KS+UW6o0pYAYBpUw==" iconFile="Img\1.png" iconSize="1"/>
+			<POI MapID="73" xpos="-487.21" ypos="-137.515" zpos="742.466" type="general.puzzles_de_saut.labo_du_professeur_portmatt" GUID="Ve9AHCJCR0OjpMuv0L6VMg==" iconFile="Img\2.png" iconSize="1"/>
+			<POI MapID="73" xpos="-477.986" ypos="-137.938" zpos="760.449" type="general.puzzles_de_saut.labo_du_professeur_portmatt" GUID="zwiO0OO+y02mZDr2ap97qQ==" iconFile="Img\3.png" iconSize="1"/>
+		</Route>
+
+		<!-- Consoles -->
+		<POI MapID="73" xpos="-488.914" ypos="-137.503" zpos="741.223" type="general.puzzles_de_saut.labo_du_professeur_portmatt" GUID="mtu5ncgRK0mqNYtioc++EA==" iconFile="Img\PuzzlePortmattConsole1-EN.png" alpha="0.7"/>
+		<POI MapID="73" xpos="-475.185" ypos="-136.024" zpos="757.523" type="general.puzzles_de_saut.labo_du_professeur_portmatt" GUID="WwuX3S7iQU2J8xrQ+E3QJw==" iconFile="Img\PuzzlePortmattConsole2-EN.png" iconSize="2" alpha="0.7"/>
+
+		<!-- Coffre -->
+		<POI MapID="73" xpos="-427.084" ypos="23.6932" zpos="670.594" type="general.puzzles_de_saut.labo_du_professeur_portmatt" GUID="C/jeNVBlI0eYIO03l0p9JA==" iconFile="Img\CoffrePuzzle.png" iconSize="1" heightOffset="2.5" behavior="2"/>
+
+	</POIs>
+</OverlayData>

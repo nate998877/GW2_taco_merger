@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+POIs: ReActif.9251
+Date: 2017/05/05
+-->
+<OverlayData>
+	<MarkerCategory name="chroniques.saison_3">
+		<MarkerCategory name="ep5_point_d_ignition" DisplayName="Ep.5 - Flashpoint" iconFile="Img\MontDraconis.png">
+			<MarkerCategory name="gardien_de_la_crypte" DisplayName="Crypt Keeper"/>
+		</MarkerCategory>
+	</MarkerCategory>
+
+	<POIs>
+
+		<!-- Tombeau du Golemancien-->
+		<POI MapID="1195" xpos="-365.583" ypos="426.716" zpos="-562.267" type="chroniques.saison_3.ep5_point_d_ignition.gardien_de_la_crypte" GUID="+WDxUs9XQU2Pwbv9UAvAUw=="/>
+
+	</POIs>
+</OverlayData>

@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+POIs: Lulleh.6714 - Ainillia.5794 - Elycian - ReActif.9251
+Date: 2017/04/10
+-->
+<OverlayData>
+	<MarkerCategory name="festivals" DisplayName="Seasonal Events">
+		<MarkerCategory name="super_adventure_box" DisplayName="Super Adventure Box" iconSize="0.5" fadeNear="6000" fadeFar="7000">
+			<MarkerCategory name="boutiques" DisplayName="Shops" iconFile="Img\PieceOr.png">
+				<MarkerCategory name="acces" DisplayName="Guide" iconFile="Img\Guide.png" heightOffset="0" fadeNear="2000" fadeFar="2200"/>
+			</MarkerCategory>
+		</MarkerCategory>
+	</MarkerCategory>
+
+	<POIs>
+
+		<!-- Monde 1 - Zone 1 -->
+		<POI MapID="895" xpos="-1164.08" ypos="48" zpos="517.246" type="festivals.super_adventure_box.boutiques" GUID="zJs6S5iDB0qxxI2+6JXuhg=="/>
+		<POI MapID="895" xpos="-838.702" ypos="49.3" zpos="455.899" type="festivals.super_adventure_box.boutiques" GUID="aQiwwYzHh0y7/fukrvZ6Hg=="/>
+
+		<!-- Monde 1 - Zone 2 -->
+		<POI MapID="895" xpos="-371.8" ypos="53.7" zpos="466.048" type="festivals.super_adventure_box.boutiques" GUID="MpycK9NfPUGlPIsVN+042g=="/>
+		<POI MapID="895" xpos="-289.572" ypos="53.7" zpos="458.324" type="festivals.super_adventure_box.boutiques" GUID="H565wcLeMU2O7kCuorWeTg=="/>
+		<POI MapID="895" xpos="-227.143" ypos="53.7" zpos="431.387" type="festivals.super_adventure_box.boutiques" GUID="Z9KDB8yRjEqSaDBQvYXioA=="/>
+
+		<!-- Monde 1 - Zone 3 -->
+		<POI MapID="895" xpos="-449.04" ypos="63.9824" zpos="293.344" type="festivals.super_adventure_box.boutiques" GUID="yIDN/ibqBEG6rgxkuA4Cnw=="/>
+		<POI MapID="895" xpos="-362.283" ypos="37.5" zpos="291.864" type="festivals.super_adventure_box.boutiques" GUID="G1K3/cf9gkCQrKJN5QmoYg=="/>
+		<POI MapID="895" xpos="-353.989" ypos="57.2" zpos="353.148" type="festivals.super_adventure_box.boutiques" GUID="0V3J5dq20UybKdJigBA65g=="/>
+			<POI MapID="895" xpos="-358.81" ypos="39.09" zpos="351.32" type="festivals.super_adventure_box.boutiques.acces" GUID="MBh59T1WZEa/JYiqDxMqyQ==" iconFile="Img\Fleche.png"/>
+			<POI MapID="895" xpos="-365.725" ypos="39.983" zpos="352.63" type="festivals.super_adventure_box.boutiques.acces" GUID="2TQUobn2D0apzRQbAk2c+A=="/>
+			<POI MapID="895" xpos="-366.851" ypos="39.6176" zpos="359.538" type="festivals.super_adventure_box.boutiques.acces" GUID="1No0U4DCbUy+1ewUxI8JWA=="/>
+			<POI MapID="895" xpos="-366.999" ypos="38.672" zpos="364.862" type="festivals.super_adventure_box.boutiques.acces" GUID="xydFe78nyU255O9iXAFi8A=="/>
+			<POI MapID="895" xpos="-362.843" ypos="38.3259" zpos="368.421" type="festivals.super_adventure_box.boutiques.acces" GUID="ny4I6X6enEaD9jsuBf5Kng=="/>
+			<POI MapID="895" xpos="-358.772" ypos="40.7275" zpos="371.528" type="festivals.super_adventure_box.boutiques.acces" GUID="Yr7IR1hxxkiJAg0RUXt47w=="/>
+			<POI MapID="895" xpos="-358.522" ypos="44.0835" zpos="375.263" type="festivals.super_adventure_box.boutiques.acces" GUID="NyO71oS860OOy7eQuAzjcQ=="/>
+			<POI MapID="895" xpos="-355.078" ypos="44.0959" zpos="384.469" type="festivals.super_adventure_box.boutiques.acces" GUID="IYVpPBGfO0OubC3wKgcpsw=="/>
+			<POI MapID="895" xpos="-354.145" ypos="50.2808" zpos="386.162" type="festivals.super_adventure_box.boutiques.acces" GUID="puqTkWcURE+KpJZvNkp5iA=="/>
+			<POI MapID="895" xpos="-361.249" ypos="53.3753" zpos="381.645" type="festivals.super_adventure_box.boutiques.acces" GUID="bx3v5sVu1Eie1Cj1jVuA9g=="/>
+			<POI MapID="895" xpos="-361.554" ypos="58.6585" zpos="379.011" type="festivals.super_adventure_box.boutiques.acces" GUID="9/2FhKY310q2WFWqNoS2ag=="/>
+			<POI MapID="895" xpos="-351.533" ypos="57.9904" zpos="383.417" type="festivals.super_adventure_box.boutiques.acces" GUID="Xy2sWqQPoEK0kyP50wdDpw=="/>
+			<POI MapID="895" xpos="-357.968" ypos="64.3099" zpos="385.357" type="festivals.super_adventure_box.boutiques.acces" GUID="bZHpUP4EvESqTRkx/x1pkg=="/>
+			<POI MapID="895" xpos="-361.382" ypos="70.7218" zpos="381.696" type="festivals.super_adventure_box.boutiques.acces" GUID="Nm1JKpKk2U6xIQwN7RWskQ=="/>
+			<POI MapID="895" xpos="-359.243" ypos="70.6719" zpos="375.185" type="festivals.super_adventure_box.boutiques.acces" GUID="LxeS0Z8rpkibH0FtYl3zwA=="/>
+			<POI MapID="895" xpos="-353.833" ypos="72.2506" zpos="373.089" type="festivals.super_adventure_box.boutiques.acces" GUID="4OHb/Do9CkehJf2CV0alvw=="/>
+			<POI MapID="895" xpos="-351.863" ypos="82.8222" zpos="374.65" type="festivals.super_adventure_box.boutiques.acces" GUID="9kuiXZDoIUG+FX1f8ezp2A=="/>
+			<POI MapID="895" xpos="-351.139" ypos="93.1319" zpos="374.072" type="festivals.super_adventure_box.boutiques.acces" GUID="oFy55Ufa/EOKw5mg1iWAhQ=="/>
+			<POI MapID="895" xpos="-348.981" ypos="93.8178" zpos="366.877" type="festivals.super_adventure_box.boutiques.acces" GUID="aEWSd+9MFkuhVkWlfcEISA=="/>
+			<POI MapID="895" xpos="-351.019" ypos="74.9281" zpos="359.75" type="festivals.super_adventure_box.boutiques.acces" GUID="dIlLvBpZcUW08VOR02JgSQ=="/>
+		<POI MapID="895" xpos="-282.48" ypos="40" zpos="341.835" type="festivals.super_adventure_box.boutiques" GUID="1EQi0m5wAkuHtC7h+vwwBg=="/>
+
+
+		<!-- Monde 2 - Zone 1 -->
+		<POI MapID="934" xpos="-353.187" ypos="208.1" zpos="-399.181" type="festivals.super_adventure_box.boutiques" GUID="eyQ3dEmuDU+gLaOk7xBfhQ=="/>
+		<POI MapID="934" xpos="-223.29" ypos="234" zpos="-273.275" type="festivals.super_adventure_box.boutiques" GUID="NogjRHqL+UChCFCnXS4NPg=="/>
+			<POI MapID="934" xpos="-178.273" ypos="212.172" zpos="-242.472" type="festivals.super_adventure_box.boutiques.acces" GUID="hL9txEctAUicyThl4kJSAg==" iconFile="Img\Fleche.png"/>
+			<POI MapID="934" xpos="-179.765" ypos="210.487" zpos="-236.723" type="festivals.super_adventure_box.boutiques.acces" GUID="opmZEyxyqkKRsqlunduBtw=="/>
+			<POI MapID="934" xpos="-175.331" ypos="208.751" zpos="-231.083" type="festivals.super_adventure_box.boutiques.acces" GUID="O47GfN2MGUuOimqnc4iQ7g=="/>
+			<POI MapID="934" xpos="-169.095" ypos="205.186" zpos="-225.374" type="festivals.super_adventure_box.boutiques.acces" GUID="42Y9L4oxbEyRhWa9XnB2jw=="/>
+			<POI MapID="934" xpos="-157.851" ypos="195.468" zpos="-216.751" type="festivals.super_adventure_box.boutiques.acces" GUID="g2Fu4e7v/UequnGvO6GCpw=="/>
+			<POI MapID="934" xpos="-162.533" ypos="193.249" zpos="-206.415" type="festivals.super_adventure_box.boutiques.acces" GUID="ZMsFhmcYJEGAxWgHS215RA=="/>
+			<POI MapID="934" xpos="-170.981" ypos="192.741" zpos="-198.21" type="festivals.super_adventure_box.boutiques.acces" GUID="sBY4ZF5TFECvgxvAg7pFVw=="/>
+			<POI MapID="934" xpos="-176.893" ypos="196.189" zpos="-193.413" type="festivals.super_adventure_box.boutiques.acces" GUID="CNtezxyPLkOXDZKruXDQHw=="/>
+			<POI MapID="934" xpos="-171.492" ypos="197.19" zpos="-200.096" type="festivals.super_adventure_box.boutiques.acces" GUID="307dg4R0/kWgp/PTG3ZEkw=="/>
+			<POI MapID="934" xpos="-169.375" ypos="200.31" zpos="-202.357" type="festivals.super_adventure_box.boutiques.acces" GUID="QdnfmFUzd0m/8RK0cQgFzA=="/>
+			<POI MapID="934" xpos="-168.339" ypos="202.318" zpos="-204.512" type="festivals.super_adventure_box.boutiques.acces" GUID="or0XI4gT8U6zo+hU63FX7A=="/>
+			<POI MapID="934" xpos="-170.102" ypos="204.708" zpos="-203.982" type="festivals.super_adventure_box.boutiques.acces" GUID="+ASEV0l960OE1h5qZtvxWQ=="/>
+			<POI MapID="934" xpos="-164.893" ypos="205.317" zpos="-206.027" type="festivals.super_adventure_box.boutiques.acces" GUID="jTNRY8CHeUCpBZx/o9s/EQ=="/>
+			<POI MapID="934" xpos="-168.622" ypos="211.041" zpos="-206.388" type="festivals.super_adventure_box.boutiques.acces" GUID="MnlbtbJGOEKsXy0hSiRMKQ=="/>
+			<POI MapID="934" xpos="-189.782" ypos="225.017" zpos="-214.091" type="festivals.super_adventure_box.boutiques.acces" GUID="dRcMtv5kwEmu92hQMqFDBQ=="/>
+			<POI MapID="934" xpos="-190.49" ypos="229.609" zpos="-219.546" type="festivals.super_adventure_box.boutiques.acces" GUID="fwUVXOJHkku92wtPat6Mag=="/>
+			<POI MapID="934" xpos="-229.283" ypos="225.686" zpos="-255.348" type="festivals.super_adventure_box.boutiques.acces" GUID="Db7qAAz3s0ipS/FXw5t61A=="/>
+		<POI MapID="934" xpos="-124.37" ypos="238.81" zpos="-394.08" type="festivals.super_adventure_box.boutiques" GUID="rni76AsbDkCx1MMBQXoxMg=="/>
+		<POI MapID="934" xpos="-113.295" ypos="210.614" zpos="-302.159" type="festivals.super_adventure_box.boutiques" GUID="oO5rLrdcTk2JILEkmjmmbQ=="/>
+
+		<!-- Monde 2 - Zone 2 -->
+		<POI MapID="934" xpos="342.359" ypos="284.954" zpos="-51.2108" type="festivals.super_adventure_box.boutiques" GUID="POdeO6XVjkWJGgd0sMcogA=="/>
+		<POI MapID="934" xpos="385.211" ypos="250.631" zpos="-214.834" type="festivals.super_adventure_box.boutiques" GUID="hitovWNsz0CT+3QuILNbwA==" heightOffset="3.5"/>
+			<POI MapID="934" xpos="358.83" ypos="246.808" zpos="-223.396" type="festivals.super_adventure_box.boutiques.acces" GUID="iyf6aAxv0kuNvDEA9Gxn0Q==" iconFile="Img\Fleche.png"/>
+			<POI MapID="934" xpos="376.391" ypos="251.687" zpos="-226.622" type="festivals.super_adventure_box.boutiques.acces" GUID="TpXBxdORSEW9BKp684VBVA=="/>
+		<POI MapID="934" xpos="470.3" ypos="255.497" zpos="-201" type="festivals.super_adventure_box.boutiques" GUID="ZS5KkyU3GESAktCadmA/QA=="/>
+		<POI MapID="934" xpos="482.505" ypos="278.604" zpos="-82.1174" type="festivals.super_adventure_box.boutiques" GUID="qVlGpOlVVUu80u/lkDlKhQ=="/>
+
+		<!-- Monde 2 - Zone 3 -->
+		<POI MapID="934" xpos="-420.72" ypos="360.1" zpos="467.138" type="festivals.super_adventure_box.boutiques" GUID="mJwj8F9Ld0StnHsuWpJWCQ=="/>
+			<POI MapID="934" xpos="-415.046" ypos="359.914" zpos="387.615" type="festivals.super_adventure_box.boutiques.acces" GUID="7eCsGUENJUeWdV/HL6d2Yw==" iconFile="Img\Fleche.png"/>
+			<POI MapID="934" xpos="-412.109" ypos="360.074" zpos="390.943" type="festivals.super_adventure_box.boutiques.acces" GUID="/3vI3FN4/EycWJKMfIYcdQ=="/>
+			<POI MapID="934" xpos="-407.214" ypos="359.687" zpos="397.771" type="festivals.super_adventure_box.boutiques.acces" GUID="abY44L4GGEaQWu9dDVNlHQ=="/>
+			<POI MapID="934" xpos="-404.533" ypos="359.687" zpos="406.021" type="festivals.super_adventure_box.boutiques.acces" GUID="wFubP74fUkG523Rk6Wo2hg=="/>
+			<POI MapID="934" xpos="-401.481" ypos="361.026" zpos="412.771" type="festivals.super_adventure_box.boutiques.acces" GUID="Xs7ADyVb/UWroZ4SgJ5T4w=="/>
+			<POI MapID="934" xpos="-395.281" ypos="362.109" zpos="410.867" type="festivals.super_adventure_box.boutiques.acces" GUID="EGWhZomHNEi+P18poPY4Xw=="/>
+			<POI MapID="934" xpos="-390.308" ypos="362.859" zpos="413.252" type="festivals.super_adventure_box.boutiques.acces" GUID="AvfN2Y3Zf0mnJmGfMFgnpg=="/>
+			<POI MapID="934" xpos="-392.789" ypos="363.638" zpos="419.137" type="festivals.super_adventure_box.boutiques.acces" GUID="+8yLFOZYR0Cl4obSPwzhvg=="/>
+			<POI MapID="934" xpos="-394.672" ypos="364.413" zpos="427.791" type="festivals.super_adventure_box.boutiques.acces" GUID="KToezn78+EG1jlwt0I+R0Q=="/>
+			<POI MapID="934" xpos="-399.018" ypos="365.38" zpos="431.346" type="festivals.super_adventure_box.boutiques.acces" GUID="cCClvlU6YU6l+38DddsbNw=="/>
+			<POI MapID="934" xpos="-403.542" ypos="365.99" zpos="435.013" type="festivals.super_adventure_box.boutiques.acces" GUID="1w8laPaMQkaOMVIxgGAp3g=="/>
+			<POI MapID="934" xpos="-407.349" ypos="366.6" zpos="438.118" type="festivals.super_adventure_box.boutiques.acces" GUID="iBghmxiU1UG6XXsBjemHDQ=="/>
+			<POI MapID="934" xpos="-411.041" ypos="363.649" zpos="448.595" type="festivals.super_adventure_box.boutiques.acces" GUID="QOqsj37Y+E61dMNR071jjQ=="/>
+			<POI MapID="934" xpos="-413.134" ypos="364.068" zpos="443.687" type="festivals.super_adventure_box.boutiques.acces" GUID="Bo+rQsVgnUyV4cAo8MbDHA=="/>
+			<POI MapID="934" xpos="-414.017" ypos="360.1" zpos="472.589" type="festivals.super_adventure_box.boutiques.acces" GUID="rJ14kql+GECLxIGEzuIaBQ=="/>
+		<POI MapID="934" xpos="-19.2665" ypos="69.2" zpos="121.803" type="festivals.super_adventure_box.boutiques" GUID="jRtVgywrWUeNb9mseeQgDQ=="/>
+		<POI MapID="934" xpos="-4.73681" ypos="80.6409" zpos="62.887" type="festivals.super_adventure_box.boutiques" GUID="A7KGjT3kIUWoJg1QipzV8A=="/>
+		<POI MapID="934" xpos="-2.63903" ypos="68.7121" zpos="104.07" type="festivals.super_adventure_box.boutiques" GUID="xPv92cRfnUWigBC3HSTbEw=="/>
+
+	</POIs>
+</OverlayData>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+POIs: ReActif.9151
+Date: 2017/04/06
+-->
+<OverlayData>
+	<MarkerCategory name="festivals" DisplayName="Seasonal Events">
+		<MarkerCategory name="super_adventure_box" DisplayName="Super Adventure Box" iconSize="0.5" fadeNear="6000" fadeFar="7000">
+			<MarkerCategory name="expert_en_decouvertes" DisplayName="Doctor of Secret" iconFile="Img\Guide.png" heightOffset="0"/>
+		</MarkerCategory>
+	</MarkerCategory>
+
+	<POIs>
+
+		<!-- Monde 1 - Zone 2 -->
+		<POI MapID="895" xpos="-319.546" ypos="56.6302" zpos="478.232" type="festivals.super_adventure_box.expert_en_decouvertes" GUID="OQMIu663JUueIJTyuJhV+Q==" iconFile="Img\Fleche.png" heightOffset="1"/>
+		<POI MapID="895" xpos="-321.223" ypos="57.0044" zpos="472.693" type="festivals.super_adventure_box.expert_en_decouvertes" GUID="GVJuusOX+0y2qnfCQr3qVQ==" iconFile="Img\SautIci.png"/>
+		<POI MapID="895" xpos="-315.682" ypos="56.6369" zpos="472.067" type="festivals.super_adventure_box.expert_en_decouvertes" GUID="8CqeFQLjqEiEl474vy6byA==" iconFile="Img\SautIci.png"/>
+		<POI MapID="895" xpos="-310.079" ypos="56.2502" zpos="475.444" type="festivals.super_adventure_box.expert_en_decouvertes" GUID="6mtVQhUf5UG0YLtF4GjtdA=="/>
+		<POI MapID="895" xpos="-302.196" ypos="47.0903" zpos="480.548" type="festivals.super_adventure_box.expert_en_decouvertes" GUID="1DgijDjCDUSK/GE327ma4Q=="/>
+		<POI MapID="895" xpos="-292.143" ypos="46.8131" zpos="485.68" type="festivals.super_adventure_box.expert_en_decouvertes" GUID="JD3KO7hMmESE8XmC+oRKVg=="/>
+		<POI MapID="895" xpos="-283.13" ypos="37.5521" zpos="490.338" type="festivals.super_adventure_box.expert_en_decouvertes" GUID="XwFIIskkq0aTUg63lz56Zw=="/>
+		<POI MapID="895" xpos="-273.112" ypos="37.0703" zpos="499.178" type="festivals.super_adventure_box.expert_en_decouvertes" GUID="VqVAdE+kR0+BavWmw4yW3g==" iconFile="Img\FlecheAvancer.png"/>
+		<POI MapID="895" xpos="-257.363" ypos="153.918" zpos="402.581" type="festivals.super_adventure_box.expert_en_decouvertes" GUID="FZizaOopq0uPnDO8HtCmWw=="/>
+		<POI MapID="895" xpos="-243.497" ypos="156.029" zpos="415.277" type="festivals.super_adventure_box.expert_en_decouvertes" GUID="SR0TcCj7sk6jXp2MHnokNQ=="/>
+		<POI MapID="895" xpos="-221.538" ypos="148.467" zpos="416.157" type="festivals.super_adventure_box.expert_en_decouvertes" GUID="z8RoeSQen0+JQTNSemGG0A=="/>
+		<POI MapID="895" xpos="-202.893" ypos="159.772" zpos="416.329" type="festivals.super_adventure_box.expert_en_decouvertes" GUID="pELFqyq/FUmHsn7zgPdhVA=="/>
+		<POI MapID="895" xpos="-187.22" ypos="155.764" zpos="416.529" type="festivals.super_adventure_box.expert_en_decouvertes" GUID="ANDosW2TA0mYHPteGtvEVg=="/>
+		<POI MapID="895" xpos="-176.176" ypos="163.265" zpos="416.584" type="festivals.super_adventure_box.expert_en_decouvertes" GUID="VshjOhwdqUi3tt+7wLOabg=="/>
+		<POI MapID="895" xpos="-158.042" ypos="155.376" zpos="416.384" type="festivals.super_adventure_box.expert_en_decouvertes" GUID="fIjiyNaUQUKSkGVXiwIUnA=="/>
+		<POI MapID="895" xpos="-145.805" ypos="144.313" zpos="412.514" type="festivals.super_adventure_box.expert_en_decouvertes" GUID="T20T29V6MUOYaJ+TaV3Umw=="/>
+		<POI MapID="895" xpos="-129.575" ypos="147.367" zpos="412.347" type="festivals.super_adventure_box.expert_en_decouvertes" GUID="mH9KRBPx5UqVzB6rV6RvNw=="/>
+		<POI MapID="895" xpos="-114.612" ypos="150.953" zpos="417.026" type="festivals.super_adventure_box.expert_en_decouvertes" GUID="M2O2Zr5Rzku+vHtRptHG0w=="/>
+		<POI MapID="895" xpos="-99.9314" ypos="163.288" zpos="416.424" type="festivals.super_adventure_box.expert_en_decouvertes" GUID="+HxYmdTh8E+lyhShZPomCA=="/>
+
+	</POIs>
+</OverlayData>

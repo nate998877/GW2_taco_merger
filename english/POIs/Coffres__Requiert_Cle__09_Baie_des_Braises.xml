@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+POIs: Xenophy.2716 - ReActif.9251 - TMKFrench.6427
+Date: 2016/12/10
+-->
+<OverlayData>
+	<MarkerCategory name="coffres.requiert_cle">
+		<MarkerCategory name="baie_des_braises" DisplayName="Ember Bay" iconFile="Img\Sac.png"/>
+	</MarkerCategory>
+
+	<POIs>
+
+		<POI MapID="1175" xpos="-865.731" ypos="48.2096" zpos="-439.198" type="coffres.requiert_cle.baie_des_braises" GUID="CHzcA6/hC0yZMPAq8o/LOQ=="/>
+		<POI MapID="1175" xpos="-660.944" ypos="23.6205" zpos="-310.602" type="coffres.requiert_cle.baie_des_braises" GUID="ZbP6PqDrhkqfkT4Dp23NJw=="/>
+		<POI MapID="1175" xpos="-568.194" ypos="70.1282" zpos="-800.129" type="coffres.requiert_cle.baie_des_braises" GUID="n4qtdULzQkC9S50z7QLRxw=="/>
+		<POI MapID="1175" xpos="-453.867" ypos="143.602" zpos="-255.324" type="coffres.requiert_cle.baie_des_braises" GUID="2cW394k9D0y6kjRn3NuwgQ=="/>
+		<POI MapID="1175" xpos="-318.544" ypos="172.33" zpos="-181.212" type="coffres.requiert_cle.baie_des_braises" GUID="b4lBHSAIx0KQUlGjgca3TQ=="/>
+		<POI MapID="1175" xpos="-237.567" ypos="12.9056" zpos="-314.38" type="coffres.requiert_cle.baie_des_braises" GUID="b3JrFizPLkKLI0wcrCs6ag=="/>
+		<POI MapID="1175" xpos="-211.173" ypos="11.6899" zpos="-363.736" type="coffres.requiert_cle.baie_des_braises" GUID="caSzuR/vrkOXMyta0cTpFg=="/>
+		<POI MapID="1175" xpos="-190.948" ypos="81.8243" zpos="-366.418" type="coffres.requiert_cle.baie_des_braises" GUID="rVfn4+BM80WeogXhrLZSAg=="/>
+		<POI MapID="1175" xpos="-174.865" ypos="36.693" zpos="-300.329" type="coffres.requiert_cle.baie_des_braises" GUID="u7PWIja4aUGa84NL8fnpug=="/>
+		<POI MapID="1175" xpos="47.2162" ypos="45.0051" zpos="-196.61" type="coffres.requiert_cle.baie_des_braises" GUID="UpzWxgsRY0SBQuKKzS27KQ=="/>
+		<POI MapID="1175" xpos="123.09" ypos="127.858" zpos="-99.9263" type="coffres.requiert_cle.baie_des_braises" GUID="17Hn/xX6N0ePk51D7toPPw=="/>
+		<POI MapID="1175" xpos="243.821" ypos="143.826" zpos="-714.652" type="coffres.requiert_cle.baie_des_braises" GUID="OEeS8mPGskioedh4ltmORA=="/>
+		<POI MapID="1175" xpos="284.523" ypos="62.6138" zpos="278.178" type="coffres.requiert_cle.baie_des_braises" GUID="inh3WfYo2U27tYr6khERYQ=="/>
+		<POI MapID="1175" xpos="315.233" ypos="16.1462" zpos="-297.702" type="coffres.requiert_cle.baie_des_braises" GUID="93O+nqV4Zk2N+B5lKGhYqw=="/>
+		<POI MapID="1175" xpos="332.124" ypos="103.29" zpos="-6.88745" type="coffres.requiert_cle.baie_des_braises" GUID="9qT5PpMDtkyVnRZTOah+Pw=="/>
+		<POI MapID="1175" xpos="337.712" ypos="103.023" zpos="125.371" type="coffres.requiert_cle.baie_des_braises" GUID="hveaaYysTEuLBcjbxjcaKQ=="/>
+		<POI MapID="1175" xpos="389.473" ypos="99.5058" zpos="1.36097" type="coffres.requiert_cle.baie_des_braises" GUID="+j622J5iZEiSb9YsLvZShg=="/>
+		<POI MapID="1175" xpos="416.43" ypos="2.55199" zpos="-489.858" type="coffres.requiert_cle.baie_des_braises" GUID="gGuintAKh0aA+Hy+IN6SCg=="/>
+		<POI MapID="1175" xpos="450.869" ypos="1.89151" zpos="-638.58" type="coffres.requiert_cle.baie_des_braises" GUID="K+jlqmlfvUCb0CNkx+LR/A=="/>
+		<POI MapID="1175" xpos="698.358" ypos="8.88468" zpos="-94.9153" type="coffres.requiert_cle.baie_des_braises" GUID="UHV+yUYoFkSIElA9ICewEw=="/>
+		<POI MapID="1175" xpos="749.728" ypos="1.72331" zpos="157.06" type="coffres.requiert_cle.baie_des_braises" GUID="VC8D4xqNG0aux0vt/Nv2Ew=="/>
+		<POI MapID="1175" xpos="843.003" ypos="2.66603" zpos="-215.454" type="coffres.requiert_cle.baie_des_braises" GUID="sPbP77mwE0yez8m6u/9gEQ=="/>
+		<POI MapID="1175" xpos="885.834" ypos="0.767973" zpos="42.851" type="coffres.requiert_cle.baie_des_braises" GUID="M19sZstI5UGc8ZPVcskvBw=="/>
+
+	</POIs>
+</OverlayData>

@@ -1,0 +1,221 @@
+<!-- 2020.06.18 -->
+<OverlayData>
+	<POIs>
+
+		<!-- ABADDON'S ASCENT -->
+		<Trail type="story_journal.season_3.one_path_ends.abaddon_s_ascent" GUID="CnWa23/SzUeqD+5joXD5Cg==" trailData="Data/StoryJournal/Season3/OnePathEnds/AbaddonsAscent.trl" texture="Data/Arrow.png" color="ffffdd00" alpha="0.8" fadeNear="1500" fadeFar="2000" animSpeed="0" mapDisplaySize="15" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="1203" xpos="585.814" ypos="3.23077" zpos="236.144" type="story_journal.season_3.one_path_ends.abaddon_s_ascent" GUID="jrMujbROfkm7yHb9G92B7g==" iconFile="Img/General/PuzzleStart.png"  heightOffset="0.5" mapDisplaySize="45"/>
+		<POI MapID="1203" xpos="565.883" ypos="508.812" zpos="107.649" type="story_journal.season_3.one_path_ends.abaddon_s_ascent" GUID="+11eef20l0GIhaFq1ynGpA==" iconFile="Img/Icons/FlagFinal.png"      fadeNear="1500" fadeFar="2000"/>
+		<POI MapID="1203" xpos="532.058" ypos="170.7"   zpos="160.565" type="story_journal.season_3.one_path_ends.abaddon_s_ascent" GUID="6G0b8cT0P0yLCQoj2h9/Uw==" iconFile="Img/Icons/FlagCheckpoint.png" minSize="10" maxSize="16" fadeNear="1500" fadeFar="2000"/>
+		<POI MapID="1203" xpos="568.561" ypos="285.978" zpos="116.415" type="story_journal.season_3.one_path_ends.abaddon_s_ascent" GUID="Onvm4Iza5E+WXQ6yk6fx2A==" iconFile="Img/Icons/FlagCheckpoint.png" minSize="10" maxSize="16" fadeNear="1500" fadeFar="2000"/>
+		<POI MapID="1203" xpos="528.597" ypos="171.319" zpos="166.317" type="story_journal.season_3.one_path_ends.abaddon_s_ascent" GUID="A0dKGID960uxvlOkQfBYXg==" iconFile="Img/Icons/Chest.png"          minSize="10" maxSize="16" fadeNear="1500" fadeFar="2000" heightOffset="1"/>
+		<POI MapID="1203" xpos="563.867" ypos="287.353" zpos="114.737" type="story_journal.season_3.one_path_ends.abaddon_s_ascent" GUID="tCDHiVOhgUuXWoDrJy+0Cw==" iconFile="Img/Icons/Chest.png"          minSize="10" maxSize="16" fadeNear="1500" fadeFar="2000" heightOffset="1"/>
+		<POI MapID="1203" xpos="569.517" ypos="511.601" zpos="95.4443" type="story_journal.season_3.one_path_ends.abaddon_s_ascent" GUID="H90vvjenCU60YgaylH4uLg==" iconFile="Img/Icons/Chest.png"          minSize="10" maxSize="16" fadeNear="1500" fadeFar="2000" heightOffset="1"/>
+		<POI MapID="1203" xpos="557.673" ypos="82.3237" zpos="208.985" type="story_journal.season_3.one_path_ends.abaddon_s_ascent" GUID="UUrA2O3GJEqEpGxDoiKgiw==" iconFile="Img/Gliders/GliderStart.png"  fadeNear="1500" fadeFar="2000" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="1203" xpos="573.72"  ypos="78.66"   zpos="191.27"  type="story_journal.season_3.one_path_ends.abaddon_s_ascent" GUID="T+E4dmKxRk+Z+WMT7lU1lg==" iconFile="Img/Gliders/GliderStop.png"   fadeNear="1500" fadeFar="2000" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="1203" xpos="600.287" ypos="95.0154" zpos="97.2153" type="story_journal.season_3.one_path_ends.abaddon_s_ascent" GUID="kpKDiQXyyk6F41SWdpPHiA==" iconFile="Img/Gliders/GliderStart.png"  fadeNear="1500" fadeFar="2000" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="1203" xpos="589.81"  ypos="90.5011" zpos="102.952" type="story_journal.season_3.one_path_ends.abaddon_s_ascent" GUID="+innb72FcUmEVd5okHv60Q==" iconFile="Img/Gliders/GliderStop.png"   fadeNear="1500" fadeFar="2000" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="1203" xpos="549.961" ypos="104.443" zpos="98.0427" type="story_journal.season_3.one_path_ends.abaddon_s_ascent" GUID="4DvvijW0YUy52lfkT0yFDw==" iconFile="Img/Gliders/GliderStart.png"  fadeNear="1500" fadeFar="2000" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="1203" xpos="552.95"  ypos="103.311" zpos="108.26"  type="story_journal.season_3.one_path_ends.abaddon_s_ascent" GUID="NdWu9oSQu0KJPPPosrNbng==" iconFile="Img/Gliders/GliderStop.png"   fadeNear="1500" fadeFar="2000" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="1203" xpos="585.397" ypos="113.387" zpos="106.111" type="story_journal.season_3.one_path_ends.abaddon_s_ascent" GUID="c/GistSPOkG/PsMJ5rA6lg==" iconFile="Img/Gliders/GliderStart.png"  fadeNear="1500" fadeFar="2000" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="1203" xpos="597.704" ypos="111.807" zpos="99.1628" type="story_journal.season_3.one_path_ends.abaddon_s_ascent" GUID="6QoKxGIi6U6cbJEB/LxeCA==" iconFile="Img/Gliders/GliderStop.png"   fadeNear="1500" fadeFar="2000" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="1203" xpos="539.421" ypos="136.257" zpos="107.597" type="story_journal.season_3.one_path_ends.abaddon_s_ascent" GUID="AUazPsLy2U6E+Yo1/X5bew==" iconFile="Img/Gliders/GliderStart.png"  fadeNear="1500" fadeFar="2000" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="1203" xpos="525.446" ypos="134.119" zpos="106.456" type="story_journal.season_3.one_path_ends.abaddon_s_ascent" GUID="VFurSe25vUyhFCEWLzRScg==" iconFile="Img/Gliders/GliderStop.png"   fadeNear="1500" fadeFar="2000" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="1203" xpos="549.638" ypos="158.772" zpos="116.109" type="story_journal.season_3.one_path_ends.abaddon_s_ascent" GUID="VNfvoyKYXk+L9SJe5snJ9A==" iconFile="Img/Gliders/GliderStart.png"  fadeNear="1500" fadeFar="2000" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="1203" xpos="569.219" ypos="156.086" zpos="118.076" type="story_journal.season_3.one_path_ends.abaddon_s_ascent" GUID="oGDs4TAdKUGuozuEco2DgA==" iconFile="Img/Gliders/GliderStop.png"   fadeNear="1500" fadeFar="2000" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="1203" xpos="518.452" ypos="186.751" zpos="174.991" type="story_journal.season_3.one_path_ends.abaddon_s_ascent" GUID="8YwMmC2E6EOFAyk+U39VSA==" iconFile="Img/Gliders/GliderStart.png"  fadeNear="1500" fadeFar="2000" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="1203" xpos="566.361" ypos="174.274" zpos="191.575" type="story_journal.season_3.one_path_ends.abaddon_s_ascent" GUID="SedHqhLMMU2VYuBTw8DwOw==" iconFile="Img/Gliders/GliderStop.png"   fadeNear="1500" fadeFar="2000" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="1203" xpos="583.893" ypos="181.137" zpos="200.723" type="story_journal.season_3.one_path_ends.abaddon_s_ascent" GUID="ckFKLbWBmkSqTxoUYg8XVA==" iconFile="Img/Gliders/GliderStart.png"  fadeNear="1500" fadeFar="2000" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="1203" xpos="595.488" ypos="177.967" zpos="184.947" type="story_journal.season_3.one_path_ends.abaddon_s_ascent" GUID="uJx6O/Fl3kmrMJJoATKRuQ==" iconFile="Img/Gliders/GliderStop.png"   fadeNear="1500" fadeFar="2000" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="1203" xpos="585.748" ypos="193.503" zpos="179.79"  type="story_journal.season_3.one_path_ends.abaddon_s_ascent" GUID="3xvYnfN4kE+YBClPfkJXeQ==" iconFile="Img/Gliders/GliderStart.png"  fadeNear="1500" fadeFar="2000" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="1203" xpos="599.302" ypos="193.341" zpos="176.319" type="story_journal.season_3.one_path_ends.abaddon_s_ascent" GUID="cY1Mj/dMj0CnErhj/I0ymA==" iconFile="Img/Gliders/GliderStop.png"   fadeNear="1500" fadeFar="2000" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="1203" xpos="580.779" ypos="247.132" zpos="209.981" type="story_journal.season_3.one_path_ends.abaddon_s_ascent" GUID="mJ4SN8Z8m0eIEiMr1CW30A==" iconFile="Img/Gliders/GliderStart.png"  fadeNear="1500" fadeFar="2000" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="1203" xpos="635.952" ypos="208.281" zpos="121.597" type="story_journal.season_3.one_path_ends.abaddon_s_ascent" GUID="7QrncpKEMEOzeQRWYgZ/zQ==" iconFile="Img/Gliders/GliderStop.png"   fadeNear="1500" fadeFar="2000" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="1203" xpos="562.472" ypos="256.901" zpos="126.396" type="story_journal.season_3.one_path_ends.abaddon_s_ascent" GUID="CAtWp8gL5U+tgr11F+nQ8w==" iconFile="Img/Gliders/GliderStart.png"  fadeNear="1500" fadeFar="2000" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="1203" xpos="612.518" ypos="242.523" zpos="117.206" type="story_journal.season_3.one_path_ends.abaddon_s_ascent" GUID="grRqOQ+l60iOuOr0NbBxyQ==" iconFile="Img/Gliders/GliderStop.png"   fadeNear="1500" fadeFar="2000" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="1203" xpos="582.451" ypos="277.354" zpos="148.108" type="story_journal.season_3.one_path_ends.abaddon_s_ascent" GUID="tNmeMB8wu0mcgrA1+OErjA==" iconFile="Img/Gliders/GliderStart.png"  fadeNear="1500" fadeFar="2000" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="1203" xpos="599.599" ypos="275.942" zpos="148.534" type="story_journal.season_3.one_path_ends.abaddon_s_ascent" GUID="NxyeI2pJDkSEajaxAL/KVQ==" iconFile="Img/Gliders/GliderStop.png"   fadeNear="1500" fadeFar="2000" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="1203" xpos="557.928" ypos="290.146" zpos="114.832" type="story_journal.season_3.one_path_ends.abaddon_s_ascent" GUID="VBjRFjqHjU+ROOOjvEMGEA==" iconFile="Img/Gliders/GliderStart.png"  fadeNear="1500" fadeFar="2000" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="1203" xpos="551.833" ypos="289.594" zpos="127.002" type="story_journal.season_3.one_path_ends.abaddon_s_ascent" GUID="lVNzgaJ2R0mgpexYLDKcSA==" iconFile="Img/Gliders/GliderStop.png"   fadeNear="1500" fadeFar="2000" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="1203" xpos="536.209" ypos="303.934" zpos="128.309" type="story_journal.season_3.one_path_ends.abaddon_s_ascent" GUID="t7e3WnWcbkeeXeADX2ZM3A==" iconFile="Img/Gliders/GliderStart.png"  fadeNear="1500" fadeFar="2000" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="1203" xpos="562.45"  ypos="296.65"  zpos="116.51"  type="story_journal.season_3.one_path_ends.abaddon_s_ascent" GUID="9wNu8S/670abSoS0ccWyaw==" iconFile="Img/Gliders/GliderStop.png"   fadeNear="1500" fadeFar="2000" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="1203" xpos="568.479" ypos="295.778" zpos="113.296" type="story_journal.season_3.one_path_ends.abaddon_s_ascent" GUID="7FNkendwR0+Pblafxv4oGA==" iconFile="Img/Gliders/GliderStart.png"  fadeNear="1500" fadeFar="2000" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="1203" xpos="582.673" ypos="292.447" zpos="122.88"  type="story_journal.season_3.one_path_ends.abaddon_s_ascent" GUID="cP/ZzJ0qfUupSyIJgv0t9g==" iconFile="Img/Gliders/GliderStop.png"   fadeNear="1500" fadeFar="2000" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="1203" xpos="551.459" ypos="316.831" zpos="118.822" type="story_journal.season_3.one_path_ends.abaddon_s_ascent" GUID="lzkAAE/vZkaoXMt87snf/Q==" iconFile="Img/Gliders/GliderStart.png"  fadeNear="1500" fadeFar="2000" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="1203" xpos="511.679" ypos="300.526" zpos="118.969" type="story_journal.season_3.one_path_ends.abaddon_s_ascent" GUID="qJMaO9hok0y0wQDoxCflXw==" iconFile="Img/Gliders/GliderStop.png"   fadeNear="1500" fadeFar="2000" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="1203" xpos="508.7"   ypos="306.28"  zpos="125.912" type="story_journal.season_3.one_path_ends.abaddon_s_ascent" GUID="2iBICicjwka/x0L08PqbnA==" iconFile="Img/Gliders/GliderStart.png"  fadeNear="1500" fadeFar="2000" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="1203" xpos="495.089" ypos="298.341" zpos="157.878" type="story_journal.season_3.one_path_ends.abaddon_s_ascent" GUID="0r19RM1tb0edBH3r1U/o2Q==" iconFile="Img/Gliders/GliderStop.png"   fadeNear="1500" fadeFar="2000" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="1203" xpos="486.852" ypos="302.726" zpos="172.721" type="story_journal.season_3.one_path_ends.abaddon_s_ascent" GUID="1KeVWIXc3ki84T2XHDo3zA==" iconFile="Img/Gliders/GliderStart.png"  fadeNear="1500" fadeFar="2000" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="1203" xpos="510.853" ypos="298.068" zpos="173.186" type="story_journal.season_3.one_path_ends.abaddon_s_ascent" GUID="rdjhNWtY3USw+S7aELcQ1g==" iconFile="Img/Gliders/GliderStop.png"   fadeNear="1500" fadeFar="2000" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="1203" xpos="526.495" ypos="355.251" zpos="156.256" type="story_journal.season_3.one_path_ends.abaddon_s_ascent" GUID="PWSzIiA5AU28rrk/SvVdfA==" iconFile="Img/Gliders/GliderStart.png"  fadeNear="1500" fadeFar="2000" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="1203" xpos="508.999" ypos="352.633" zpos="149.683" type="story_journal.season_3.one_path_ends.abaddon_s_ascent" GUID="0Pj/cwo2e0+CIwrBVoqptA==" iconFile="Img/Gliders/GliderStop.png"   fadeNear="1500" fadeFar="2000" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="1203" xpos="526.711" ypos="367.139" zpos="162.042" type="story_journal.season_3.one_path_ends.abaddon_s_ascent" GUID="JRH/HKdu7EKfkKuzRGohQA==" iconFile="Img/Gliders/GliderStart.png"  fadeNear="1500" fadeFar="2000" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="1203" xpos="569.141" ypos="356.382" zpos="160.463" type="story_journal.season_3.one_path_ends.abaddon_s_ascent" GUID="UrgOmHB3WkaJe92H1ycMiQ==" iconFile="Img/Gliders/GliderStop.png"   fadeNear="1500" fadeFar="2000" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="1203" xpos="589.992" ypos="364.298" zpos="175.655" type="story_journal.season_3.one_path_ends.abaddon_s_ascent" GUID="oy1mOVYTikSqqnKx2MGtVg==" iconFile="Img/Gliders/GliderStart.png"  fadeNear="1500" fadeFar="2000" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="1203" xpos="579.495" ypos="361.834" zpos="160.774" type="story_journal.season_3.one_path_ends.abaddon_s_ascent" GUID="OEm6VQQXm0+b6apZ6gk3zA==" iconFile="Img/Gliders/GliderStop.png"   fadeNear="1500" fadeFar="2000" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="1203" xpos="590.533" ypos="373.224" zpos="158.161" type="story_journal.season_3.one_path_ends.abaddon_s_ascent" GUID="Gn9pp++ZYUu4c3ta7wKKJQ==" iconFile="Img/Gliders/GliderStart.png"  fadeNear="1500" fadeFar="2000" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="1203" xpos="614.494" ypos="364.392" zpos="150.114" type="story_journal.season_3.one_path_ends.abaddon_s_ascent" GUID="OHoEJrfRg0yxI5BswVYI/A==" iconFile="Img/Gliders/GliderStop.png"   fadeNear="1500" fadeFar="2000" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="1203" xpos="620.566" ypos="364.282" zpos="136.218" type="story_journal.season_3.one_path_ends.abaddon_s_ascent" GUID="FhG3tuQoPkypE3gnybNrfg==" iconFile="Img/Gliders/GliderStart.png"  fadeNear="1500" fadeFar="2000" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="1203" xpos="616.143" ypos="364.94"  zpos="132.138" type="story_journal.season_3.one_path_ends.abaddon_s_ascent" GUID="1Z6TSSWUE0ixis3CgUBl+Q==" iconFile="Img/Gliders/GliderStop.png"   fadeNear="1500" fadeFar="2000" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="1203" xpos="611.376" ypos="395.956" zpos="137.645" type="story_journal.season_3.one_path_ends.abaddon_s_ascent" GUID="UZjvrRleKEChEFgsAiXrRw==" iconFile="Img/Gliders/GliderStart.png"  fadeNear="1500" fadeFar="2000" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="1203" xpos="612.096" ypos="391.813" zpos="123.304" type="story_journal.season_3.one_path_ends.abaddon_s_ascent" GUID="8Z/0g/FeHk6CIUlyHYUpkw==" iconFile="Img/Gliders/GliderStop.png"   fadeNear="1500" fadeFar="2000" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="1203" xpos="563.766" ypos="410.352" zpos="143.006" type="story_journal.season_3.one_path_ends.abaddon_s_ascent" GUID="SXQv43yNb0qjcuz7UowIqw==" iconFile="Img/Gliders/GliderStart.png"  fadeNear="1500" fadeFar="2000" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="1203" xpos="512.144" ypos="395.086" zpos="139.458" type="story_journal.season_3.one_path_ends.abaddon_s_ascent" GUID="XDY+EwfsC0W/LSxOyE6B2w==" iconFile="Img/Gliders/GliderStop.png"   fadeNear="1500" fadeFar="2000" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="1203" xpos="549.593" ypos="418.492" zpos="128.722" type="story_journal.season_3.one_path_ends.abaddon_s_ascent" GUID="CisK3BDDIku+4qFcVxKERw==" iconFile="Img/Gliders/GliderStart.png"  fadeNear="1500" fadeFar="2000" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="1203" xpos="557.645" ypos="418.961" zpos="127.351" type="story_journal.season_3.one_path_ends.abaddon_s_ascent" GUID="nPry7VaCQEC1tY+vlfDAVA==" iconFile="Img/Gliders/GliderStop.png"   fadeNear="1500" fadeFar="2000" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="1203" xpos="546.123" ypos="422.602" zpos="124.773" type="story_journal.season_3.one_path_ends.abaddon_s_ascent" GUID="F9FlYo9qHkedVUcCMLJ8Ng==" iconFile="Img/Gliders/GliderStart.png"  fadeNear="1500" fadeFar="2000" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="1203" xpos="523.571" ypos="416.098" zpos="107.294" type="story_journal.season_3.one_path_ends.abaddon_s_ascent" GUID="G+G4+VL2zU2Iz9S51lXP5A==" iconFile="Img/Gliders/GliderStop.png"   fadeNear="1500" fadeFar="2000" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="1203" xpos="533.719" ypos="489.288" zpos="149.271" type="story_journal.season_3.one_path_ends.abaddon_s_ascent" GUID="gAsWDOi1X06UtkHOvXDawQ==" iconFile="Img/Gliders/GliderStart.png"  fadeNear="1500" fadeFar="2000" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="1203" xpos="538.105" ypos="488.291" zpos="160.777" type="story_journal.season_3.one_path_ends.abaddon_s_ascent" GUID="TI55D0LgE0CSRSvPKHRA+A==" iconFile="Img/Gliders/GliderStop.png"   fadeNear="1500" fadeFar="2000" mapVisibility="0" miniMapVisibility="0"/>
+
+		<!-- ART CRITIC -->
+		<POI MapID="1202" xpos="216.032"  ypos="141.381" zpos="-316.065" type="story_journal.season_3.one_path_ends.art_critic" GUID="iFPA0fT/p0O2BCliQxTpvA=="/>
+		<POI MapID="1202" xpos="177.596"  ypos="141.715" zpos="-339.677" type="story_journal.season_3.one_path_ends.art_critic" GUID="OiKp1RLPRkiOr1MDw6XibA=="/>
+		<POI MapID="1202" xpos="121.8"    ypos="150.358" zpos="-213.722" type="story_journal.season_3.one_path_ends.art_critic" GUID="GNEZmcwpzUWSDWzFt3RFig=="/>
+		<POI MapID="1202" xpos="121.411"  ypos="150.357" zpos="-261.334" type="story_journal.season_3.one_path_ends.art_critic" GUID="TQEopF7pcEyzujfK1mMlkg=="/>
+		<POI MapID="1202" xpos="109.979"  ypos="135.078" zpos="-395.033" type="story_journal.season_3.one_path_ends.art_critic" GUID="VM/UGFoIVEuFtrqg27qgyw=="/>
+		<POI MapID="1202" xpos="108.913"  ypos="141.272" zpos="-312.482" type="story_journal.season_3.one_path_ends.art_critic" GUID="m/lGXEvxMUWqEvJYeXuZfg=="/>
+		<POI MapID="1202" xpos="108.176"  ypos="141.389" zpos="-336.209" type="story_journal.season_3.one_path_ends.art_critic" GUID="xKfKzkHS60e2fj7qP7xZSw=="/>
+		<POI MapID="1202" xpos="98.2716"  ypos="135.151" zpos="-461.125" type="story_journal.season_3.one_path_ends.art_critic" GUID="BnB9gXgD1kWP+EkP/+BalQ=="/>
+		<POI MapID="1202" xpos="85.5053"  ypos="141.275" zpos="-312.355" type="story_journal.season_3.one_path_ends.art_critic" GUID="XN+sKDs8OESXGEfIFFC66g=="/>
+		<POI MapID="1202" xpos="85.3546"  ypos="141.395" zpos="-336.491" type="story_journal.season_3.one_path_ends.art_critic" GUID="viE2j+u4nECJPUBi/k4MLQ=="/>
+		<POI MapID="1202" xpos="83.3172"  ypos="135.078" zpos="-395.901" type="story_journal.season_3.one_path_ends.art_critic" GUID="zKN5NYCNR0yFiYKAjtP5hA=="/>
+		<POI MapID="1202" xpos="74.63"    ypos="150.381" zpos="-213.705" type="story_journal.season_3.one_path_ends.art_critic" GUID="Yx4PVR/r8kKlK0gjtNMwHg=="/>
+		<POI MapID="1202" xpos="74.0365"  ypos="150.357" zpos="-260.975" type="story_journal.season_3.one_path_ends.art_critic" GUID="UZdacHJ4IkKgQIdkJOHcIA=="/>
+		<POI MapID="1202" xpos="24.6914"  ypos="141.271" zpos="-361.142" type="story_journal.season_3.one_path_ends.art_critic" GUID="/V2/1ba6gEiHs7GSOIQhSg=="/>
+		<POI MapID="1202" xpos="-16.2334" ypos="140.985" zpos="-329.148" type="story_journal.season_3.one_path_ends.art_critic" GUID="cyDQmdhYj0qB+xXhl8pYyQ=="/>
+		<POI MapID="1202" xpos="-16.7638" ypos="141.196" zpos="-319.685" type="story_journal.season_3.one_path_ends.art_critic" GUID="Y315jpIp0Emm7y8+6ZhicQ=="/>
+		<POI MapID="1202" xpos="-65.9734" ypos="135.078" zpos="-421.726" type="story_journal.season_3.one_path_ends.art_critic" GUID="CTnXDKIsEkuaxNnx5bCmrA=="/>
+
+		<!-- DIVE MASTER: MASTED -->
+		<POI MapID="1203" xpos="534.707" ypos="517.358" zpos="235.353" type="story_journal.season_3.one_path_ends.dive_master__masted" GUID="5/jCZJgCdkq/JrPuQGYrqw=="/>
+
+		<!-- ECHOLOCATION -->
+		<POI MapID="1203" xpos="-901.551" ypos="68" zpos="-73.7783" type="story_journal.season_3.one_path_ends.echolocation" GUID="6P9Z/mbVyECcJRlNmVJ0Aw==" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="1203" xpos="-901.551" ypos="70" zpos="-73.7783" type="story_journal.season_3.one_path_ends.echolocation" GUID="djyfVEdShU6brjci4AKYpw==" iconFile="Img/Icons/Fight.png" inGameVisibility="0"/>
+
+		<!-- INTO THE MIND OF MADNESS -->
+		<POI MapID="1202" xpos="213.45"   ypos="-31.1336" zpos="-434.204" type="story_journal.season_3.one_path_ends.into_the_mind_of_madness" GUID="qII+Qfit40qqWfe9qNrvIw=="/>
+		<POI MapID="1202" xpos="171.913"  ypos="141.245"  zpos="-313.53"  type="story_journal.season_3.one_path_ends.into_the_mind_of_madness" GUID="qnKQOkl0X02l7Ix3ZkRYVg=="/>
+		<POI MapID="1202" xpos="126.14"   ypos="142.79"   zpos="-302.91"  type="story_journal.season_3.one_path_ends.into_the_mind_of_madness" GUID="ThgGQ7vCqkqrLu/jvt7f/w=="/>
+		<POI MapID="1202" xpos="97.6"     ypos="150.88"   zpos="-239"     type="story_journal.season_3.one_path_ends.into_the_mind_of_madness" GUID="1GeFwmvN70aupEZvqUSqHA=="/>
+		<POI MapID="1202" xpos="85.0817"  ypos="58.2059"  zpos="-642.14"  type="story_journal.season_3.one_path_ends.into_the_mind_of_madness" GUID="AlXoCofilkmgviooX5IAYg=="/>
+		<POI MapID="1202" xpos="-39.2381" ypos="135.169"  zpos="-440.492" type="story_journal.season_3.one_path_ends.into_the_mind_of_madness" GUID="ncheIdSwt06EF4Ny3q+6lg=="/>
+
+		<!-- KING CRAB -->
+		<POI MapID="1202" xpos="276.988" ypos="52.8514" zpos="-492.299" type="story_journal.season_3.one_path_ends.king_crab" GUID="OeXDwThWeE+CqtRXifr1lw=="/>
+		<POI MapID="1202" xpos="173.587" ypos="-31.168" zpos="-397.202" type="story_journal.season_3.one_path_ends.king_crab" GUID="Cwwu4pnTaEeH5QHv7+/GAg=="/>
+
+		<!-- PRUNING THE WEED -->
+		<POI MapID="1203" xpos="-659.08" ypos="127.661" zpos="108.598" type="story_journal.season_3.one_path_ends.pruning_the_weed" GUID="NQPCSVKopU6oXxrNg8Fxtg=="/>
+
+		<!-- RISEN RESEARCH -->
+		<POI MapID="1203" xpos="179.508"  ypos="50.7957" zpos="-286.531" type="story_journal.season_3.one_path_ends.risen_research" GUID="JIhbCS53skW0MGapVG1ECQ=="/>
+		<POI MapID="1203" xpos="-35.9851" ypos="106.329" zpos="-353.58"  type="story_journal.season_3.one_path_ends.risen_research" GUID="/gSd7sqxaku+7AmLacnYlw=="/>
+		<POI MapID="1203" xpos="-273.116" ypos="111.717" zpos="-221.735" type="story_journal.season_3.one_path_ends.risen_research" GUID="qh+gn03J1UasYNkLVLSa3Q=="/>
+		<POI MapID="1203" xpos="-688.764" ypos="36.4758" zpos="-311.202" type="story_journal.season_3.one_path_ends.risen_research" GUID="BBdG5QOyFUWkiHV0IRwWDQ=="/>
+		<POI MapID="1203" xpos="-856.93"  ypos="73.0679" zpos="-135.653" type="story_journal.season_3.one_path_ends.risen_research" GUID="Vr4dDeUZLEKzm6ipAntJnw=="/>
+		<POI MapID="1203" xpos="-694.109" ypos="68.4813" zpos="-6.35011" type="story_journal.season_3.one_path_ends.risen_research" GUID="Jj+k8OBxeUaJviuPxKWI6A=="/>
+		<POI MapID="1203" xpos="-441.656" ypos="95.4347" zpos="157.193"  type="story_journal.season_3.one_path_ends.risen_research" GUID="8hnvMulXyEibvyaJ20zWag=="/>
+
+		<!-- SIREN'S LANDING INSIGHT: BUOYANT BOUGH -->
+		<Trail type="story_journal.season_3.one_path_ends.siren_s_landing_insight__buoyant_bough" GUID="/wogCVYqHEGwbTmAVeIo3Q==" trailData="Data/StoryJournal/Season3/OnePathEnds/SirensLandingInsight.trl" texture="Data/Arrow.png" color="ff00dd00" alpha="0.8" fadeNear="1500" fadeFar="2000" animSpeed="0" mapDisplaySize="15"/>
+		<POI MapID="1203" xpos="581.301" ypos="3.08782" zpos="235.484"  type="story_journal.season_3.one_path_ends.siren_s_landing_insight__buoyant_bough" GUID="k59sv+4jNke7cUCW/DWrXQ==" iconFile="Img/HoT/MasteryHoT.png"       heightOffset="0.5" mapDisplaySize="40"/>
+		<POI MapID="1203" xpos="557.617" ypos="82.2572" zpos="208.941"  type="story_journal.season_3.one_path_ends.siren_s_landing_insight__buoyant_bough" GUID="wgcBtnX6G0mctjj9r+gm1A==" iconFile="Img/Gliders/GliderStart.png"  fadeNear="1500" fadeFar="2000" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="1203" xpos="573.72"  ypos="78.66"   zpos="191.27"   type="story_journal.season_3.one_path_ends.siren_s_landing_insight__buoyant_bough" GUID="kr9jxwpPF02hKOo28LxPbw==" iconFile="Img/Gliders/GliderStop.png"   fadeNear="1500" fadeFar="2000" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="1203" xpos="629.548" ypos="84.0298" zpos="75.844"   type="story_journal.season_3.one_path_ends.siren_s_landing_insight__buoyant_bough" GUID="n/xFSaZ84UubXSWabbLYVQ==" iconFile="Img/Gliders/GliderLevel5.png" fadeNear="1500" fadeFar="2000" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="1203" xpos="752.67"  ypos="25.36"   zpos="-71.32"   type="story_journal.season_3.one_path_ends.siren_s_landing_insight__buoyant_bough" GUID="9hSMwBY1XU2fy5jNKFhs8w==" iconFile="Img/Gliders/GliderStop.png"   fadeNear="1500" fadeFar="2000" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="1203" xpos="768.061" ypos="12.6593" zpos="-78.4447" type="story_journal.season_3.one_path_ends.siren_s_landing_insight__buoyant_bough" GUID="42DIgZzbzU+XLscdZxzmzQ==" iconFile="Img/Icons/Interaction.png"    fadeNear="1500" fadeFar="2000" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="1203" xpos="767.562" ypos="50.3061" zpos="-79.137"  type="story_journal.season_3.one_path_ends.siren_s_landing_insight__buoyant_bough" GUID="FZvUd0ZhhEqyL/0o/c+0Kw==" iconFile="Img/Gliders/Glider.png"       fadeNear="1500" fadeFar="2000" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="1203" xpos="751.379" ypos="37.5843" zpos="-86.0661" type="story_journal.season_3.one_path_ends.siren_s_landing_insight__buoyant_bough" GUID="QuAgnMyPAEqSBHUwWcVUxQ==" iconFile="Img/Gliders/GliderStop.png"   fadeNear="1500" fadeFar="2000" mapVisibility="0" miniMapVisibility="0"/>
+
+		<!-- STORYTELLER: ABADDON -->
+		<POI MapID="1203" xpos="-449.279" ypos="97.9905"  zpos="121.077"  type="story_journal.season_3.one_path_ends.storyteller__abaddon" GUID="myFWlzfmOEqyMZWqKmc0bA==" heightOffset="3.5" behavior="0"/>
+		<POI MapID="1203" xpos="-635.448" ypos="166.897"  zpos="-126.26"  type="story_journal.season_3.one_path_ends.storyteller__abaddon" GUID="tV12lZwVekiDS85MKEkSew=="/>
+		<POI MapID="1203" xpos="-985.113" ypos="4.8065"   zpos="-290.261" type="story_journal.season_3.one_path_ends.storyteller__abaddon" GUID="UMrzcB0nQUWgxVwa+P8ZEw=="/>
+		<POI MapID="1203" xpos="-647.108" ypos="122.587"  zpos="303.64"   type="story_journal.season_3.one_path_ends.storyteller__abaddon" GUID="tdHJCLs5okqrinCms+icXQ=="/>
+		<POI MapID="1203" xpos="-700.194" ypos="78.7433"  zpos="193.664"  type="story_journal.season_3.one_path_ends.storyteller__abaddon" GUID="PAbsp1R4O02acZ495sPY7A=="/>
+		<POI MapID="1203" xpos="-698.459" ypos="78.731"   zpos="195.325"  type="story_journal.season_3.one_path_ends.storyteller__abaddon" GUID="atzhMiqZNEmhD0tAdNd89Q=="/>
+		<POI MapID="1203" xpos="-801.001" ypos="-15.3118" zpos="113.691"  type="story_journal.season_3.one_path_ends.storyteller__abaddon" GUID="Jf+iAsUoKE2dX3mpvPmDBg=="/>
+		<POI MapID="1203" xpos="-248.445" ypos="72.4078"  zpos="123.854"  type="story_journal.season_3.one_path_ends.storyteller__abaddon" GUID="5A5wDDLeN0C1jhIRMV0j9g=="/>
+		<POI MapID="1203" xpos="-413.145" ypos="-7.41363" zpos="90.2533"  type="story_journal.season_3.one_path_ends.storyteller__abaddon" GUID="TjwXtNxkXkqP76rjG33VBQ=="/>
+		<POI MapID="1203" xpos="-606.25"  ypos="126.058"  zpos="49.0908"  type="story_journal.season_3.one_path_ends.storyteller__abaddon" GUID="PW/1r1YRxUSTTE6fD7J0/w==" heightOffset="2"/>
+		<POI MapID="1203" xpos="84.2031"  ypos="133.736"  zpos="362.196"  type="story_journal.season_3.one_path_ends.storyteller__abaddon" GUID="gZFHMLzzUkWDlNw0cLjUlQ=="/>
+		<POI MapID="1203" xpos="-429.599" ypos="128.123"  zpos="148.595"  type="story_journal.season_3.one_path_ends.storyteller__abaddon" GUID="C9VJRZ8kaE+NHJlzYTYYZA=="/>
+
+		<!-- STORYTELLER: BALTHAZAR -->
+		<POI MapID="1203" xpos="-909.347" ypos="115.067" zpos="143.453" type="story_journal.season_3.one_path_ends.storyteller__balthazar" GUID="5KlWQDMoQUS2fofrbJSmpg=="/>
+		<POI MapID="1203" xpos="-693.614" ypos="133.087" zpos="354.973" type="story_journal.season_3.one_path_ends.storyteller__balthazar" GUID="wrGNFuMuK0SVw7bKvhJIeA=="/>
+		<POI MapID="1203" xpos="-745.948" ypos="114.978" zpos="353.514" type="story_journal.season_3.one_path_ends.storyteller__balthazar" GUID="c6tT2A4hpE2w+ygDbtPkRg=="/>
+		<POI MapID="1203" xpos="-308.044" ypos="99.6291" zpos="352.949" type="story_journal.season_3.one_path_ends.storyteller__balthazar" GUID="ISs9ivwwYU2Kk6cVbduq9Q=="/>
+		<POI MapID="1203" xpos="-296.014" ypos="70.2813" zpos="314.445" type="story_journal.season_3.one_path_ends.storyteller__balthazar" GUID="BD7AvNcA6UuBSvo0PLrgOg=="/>
+		<POI MapID="1203" xpos="589.501"  ypos="18.5585" zpos="104.595" type="story_journal.season_3.one_path_ends.storyteller__balthazar" GUID="re47E5t/3Ue1yUWL0YvMpw=="/>
+
+		<!-- STORYTELLER: DWAYNA -->
+		<POI MapID="1203" xpos="-977.836" ypos="3.48102"  zpos="-292.919" type="story_journal.season_3.one_path_ends.storyteller__dwayna" GUID="WWKmFBCR1E2D5bPiS9t7vg=="/>
+		<POI MapID="1203" xpos="-806.958" ypos="-22.8374" zpos="-102.763" type="story_journal.season_3.one_path_ends.storyteller__dwayna" GUID="Jw3W2jKfC0WAM+zlnDlwmw=="/>
+		<POI MapID="1203" xpos="-896.965" ypos="126.107"  zpos="-141.643" type="story_journal.season_3.one_path_ends.storyteller__dwayna" GUID="ToU+h66AyU6wxhhcdRMLUg=="/>
+		<POI MapID="1203" xpos="-654.407" ypos="136.126"  zpos="-87.2148" type="story_journal.season_3.one_path_ends.storyteller__dwayna" GUID="2t1Oxot1+EGcaRVHWLzB1w=="/>
+		<POI MapID="1203" xpos="-657.948" ypos="145.337"  zpos="-295.422" type="story_journal.season_3.one_path_ends.storyteller__dwayna" GUID="teRMF1B0E0ytXaQX81/Uug==" heightOffset="4"/>
+		<POI MapID="1203" xpos="-698.135" ypos="6.24375"  zpos="-15.8043" type="story_journal.season_3.one_path_ends.storyteller__dwayna" GUID="AApvAZLaE0yxlsWFfMLRvA=="/>
+
+		<!-- STORYTELLER: GRENTH -->
+		<POI MapID="1203" xpos="-659.59"  ypos="77.0786"  zpos="-140.387" type="story_journal.season_3.one_path_ends.storyteller__grenth" GUID="dJkUgdkdm0S4kXX9IL2pOQ=="/>
+		<POI MapID="1203" xpos="-470.207" ypos="-63.292"  zpos="-160.273" type="story_journal.season_3.one_path_ends.storyteller__grenth" GUID="EjFuSQq/j0iUZdfUbwRl1w=="/>
+		<POI MapID="1203" xpos="-575.276" ypos="50.8546"  zpos="-212.485" type="story_journal.season_3.one_path_ends.storyteller__grenth" GUID="u6Xhf2DYiEGiWunqzAkl0Q=="/>
+		<POI MapID="1203" xpos="-663.575" ypos="76.2221"  zpos="-143.811" type="story_journal.season_3.one_path_ends.storyteller__grenth" GUID="whHLlrr6W0KBkanNBnkdwQ=="/>
+		<POI MapID="1203" xpos="-507.075" ypos="67.2695"  zpos="-69.846"  type="story_journal.season_3.one_path_ends.storyteller__grenth" GUID="sJ5lOVl4N0ynN5IwH2CZkA=="/>
+		<POI MapID="1203" xpos="-401.803" ypos="34.877"   zpos="-238.435" type="story_journal.season_3.one_path_ends.storyteller__grenth" GUID="D4jT7447WkOQJuxJOyCGEw=="/>
+		<POI MapID="1203" xpos="773.646"  ypos="17.9904"  zpos="-184.862" type="story_journal.season_3.one_path_ends.storyteller__grenth" GUID="P8J5wtWb0EyV0dZswWqSvA=="/>
+		<POI MapID="1203" xpos="327.901"  ypos="-60.4285" zpos="356.125"  type="story_journal.season_3.one_path_ends.storyteller__grenth" GUID="sJmxY1kB4Uy/8wqe2D+aXw=="/>
+
+		<!-- STORYTELLER: LYSSA -->
+		<POI MapID="1203" xpos="136.766"  ypos="131.192"  zpos="308.689"  type="story_journal.season_3.one_path_ends.storyteller__lyssa" GUID="A0bt9oHNM0q+CTRNY4nC3g=="/>
+		<POI MapID="1203" xpos="83.4575"  ypos="149.445"  zpos="200.331"  type="story_journal.season_3.one_path_ends.storyteller__lyssa" GUID="KcxWgp9bEEKcKgbBUKpLfQ=="/>
+		<POI MapID="1203" xpos="111.201"  ypos="117.371"  zpos="202.041"  type="story_journal.season_3.one_path_ends.storyteller__lyssa" GUID="zfbVZGYtX0SLFgvZYbbiXQ=="/>
+		<POI MapID="1203" xpos="-185.947" ypos="173.309"  zpos="346.691"  type="story_journal.season_3.one_path_ends.storyteller__lyssa" GUID="SOPZwcsISEqJ8xMJ3QMAPA=="/>
+		<POI MapID="1203" xpos="-94.9231" ypos="143.538"  zpos="251.293"  type="story_journal.season_3.one_path_ends.storyteller__lyssa" GUID="5sQNr604c0mjJt0LTZesqw=="/>
+		<POI MapID="1203" xpos="89.69"    ypos="88.6261"  zpos="175.258"  type="story_journal.season_3.one_path_ends.storyteller__lyssa" GUID="OrR80QHLJ0CfKPfknRu4jQ=="/>
+		<POI MapID="1203" xpos="598.584"  ypos="-98.5145" zpos="-25.4449" type="story_journal.season_3.one_path_ends.storyteller__lyssa" GUID="a+9qgU+lkkWEv0OBhh1NSw=="/>
+		<POI MapID="1203" xpos="254.157"  ypos="-59.7019" zpos="333.723"  type="story_journal.season_3.one_path_ends.storyteller__lyssa" GUID="zXD3wrwF/EODiQFjH8HM0A=="/>
+
+		<!-- STORYTELLER: MELANDRU -->
+		<POI MapID="1203" xpos="-63.6037" ypos="-2.46122" zpos="-165.584" type="story_journal.season_3.one_path_ends.storyteller__melandru" GUID="QfeTyYNSUkKHzog9Wn8jWw=="/>
+		<POI MapID="1203" xpos="-321.044" ypos="103.029"  zpos="-360.25"  type="story_journal.season_3.one_path_ends.storyteller__melandru" GUID="TBIf4f542kytzYnsy1VZQA=="/>
+		<POI MapID="1203" xpos="-132.604" ypos="170.791"  zpos="-130.786" type="story_journal.season_3.one_path_ends.storyteller__melandru" GUID="iPKm9uSEb067tFEHQrCe4Q=="/>
+		<POI MapID="1203" xpos="52.213"   ypos="64.2888"  zpos="-306.52"  type="story_journal.season_3.one_path_ends.storyteller__melandru" GUID="0JgSBTbskkqxiVpKO1yGFw=="/>
+		<POI MapID="1203" xpos="-252.524" ypos="92.4159"  zpos="-352.609" type="story_journal.season_3.one_path_ends.storyteller__melandru" GUID="8k61chxyckKfK6kT/2mlWA=="/>
+		<POI MapID="1203" xpos="-980.232" ypos="4.74637"  zpos="-282.468" type="story_journal.season_3.one_path_ends.storyteller__melandru" GUID="RJvsyKk0yEC1RheEreQcVA=="/>
+
+		<!-- STUDENT OF BARTHOLOS -->
+		<POI MapID="1208" xpos="-7.60525"   ypos="9.07965" zpos="-5.53504" type="story_journal.season_3.one_path_ends.student_of_bartholos" GUID="3uC8xBm8aEuvFwmeY9TIBw=="/>
+		<POI MapID="1208" xpos="6.40004"    ypos="9.12408" zpos="8.53485"  type="story_journal.season_3.one_path_ends.student_of_bartholos" GUID="z1DAAzPhtkGOMbaphA8UcA=="/>
+		<POI MapID="1208" xpos="-3.28981"   ypos="8.74501" zpos="-6.92215" type="story_journal.season_3.one_path_ends.student_of_bartholos" GUID="xwQSORzlAEyy+c9M+u5BDg=="/>
+		<POI MapID="1208" xpos="-7"         ypos="13.1332" zpos="-5"       type="story_journal.season_3.one_path_ends.student_of_bartholos" GUID="gzpDb/G0002e3N70xrweUQ==" heightOffset="1.15"/>
+		<POI MapID="1208" xpos="-7.27252"   ypos="13.1336" zpos="0.449109" type="story_journal.season_3.one_path_ends.student_of_bartholos" GUID="Vd8hnWgkx0yg8cTyBU3pew=="/>
+		<POI MapID="1208" xpos="-0.0460004" ypos="13.1332" zpos="-5.13895" type="story_journal.season_3.one_path_ends.student_of_bartholos" GUID="Elu5vOAMQ0CNuV38oOVLMA=="/>
+		<POI MapID="1208" xpos="-2.61"      ypos="13.13"   zpos="2.51"     type="story_journal.season_3.one_path_ends.student_of_bartholos" GUID="7ZS5rmLWokSq3hthJoepcw==" heightOffset="1.5"/>
+		<POI MapID="1208" xpos="-1.39"      ypos="13.13"   zpos="1.78"     type="story_journal.season_3.one_path_ends.student_of_bartholos" GUID="vRl7PIgZp0KGgK1OwPd5Ww==" heightOffset="1.5"/>
+		<POI MapID="1208" xpos="6.40719"    ypos="13.1332" zpos="5.62584"  type="story_journal.season_3.one_path_ends.student_of_bartholos" GUID="2A8i34pLp0e0O+ux/yd7Hw==" heightOffset="1.5"/>
+		<POI MapID="1208" xpos="7.43309"    ypos="13.1332" zpos="7.3443"   type="story_journal.season_3.one_path_ends.student_of_bartholos" GUID="aPpYmvyqnkmpM3UHDzVDYQ==" heightOffset="1.5"/>
+		<POI MapID="1208" xpos="8.49946"    ypos="13.1332" zpos="9.10376"  type="story_journal.season_3.one_path_ends.student_of_bartholos" GUID="AUie5Sg7GE+gbFbt4rblpQ==" heightOffset="1.5"/>
+		<POI MapID="1208" xpos="1.63152"    ypos="14.1032" zpos="11.5696"  type="story_journal.season_3.one_path_ends.student_of_bartholos" GUID="znMHssqVAEK49XzznC+qlQ=="/>
+
+		<!-- THE WITHERED ROSE -->
+		<Trail type="story_journal.season_3.one_path_ends.the_withered_rose" GUID="lVjSg1AbyUeUawdMszRFDA==" trailData="Data/StoryJournal/Season3/OnePathEnds/TheWitheredRose.trl" texture="Data/Dot.png" color="ffff0000" alpha="0.8" fadeNear="1500" fadeFar="2000" animSpeed="1" mapDisplaySize="10" ingameVisibility="0"/>
+		<POI MapID="1203" xpos="297.17"   ypos="44"      zpos="-354.04" type="story_journal.season_3.one_path_ends.the_withered_rose" GUID="wCBX3avoWUamRTuyZduNZQ==" heightOffset="3" behavior="0"/>
+		<POI MapID="1203" xpos="-659.08"  ypos="129"     zpos="108.598" type="story_journal.season_3.one_path_ends.the_withered_rose" GUID="61XLfTboMkWcilqtm0Jfdg==" iconFile="Img/Icons/Fight.png"/>
+		<POI MapID="1203" xpos="-587.539" ypos="127.764" zpos="114.645" type="story_journal.season_3.one_path_ends.the_withered_rose" GUID="1Ec/xKe1oEO2aZ4JqmJ1Vg==" infoRange="10" info="GO BACK TO DAHLIA AFTER YOU GET THE JOURNAL"/>
+
+		<!-- WITH FRIENDS LIKE THESE... -->
+		<POI MapID="1202" xpos="113" ypos="143" zpos="-315" type="story_journal.season_3.one_path_ends.with_friends_like_these" GUID="Y3/4TInWnkWT9nHBMJaH2w==" heightOffset="0"/>
+		<POI MapID="1202" xpos="113" ypos="143" zpos="-315" type="story_journal.season_3.one_path_ends.with_friends_like_these" GUID="zrqt9TsDGU2vu73d6FLb3Q==" iconFile="Img/Season3/WithFriendsLikeThese.png" minSize="64" maxSize="64" heightOffset="2.5" fadeNear="2000" fadeFar="3000" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="1202" xpos="91"  ypos="141" zpos="-330" type="story_journal.season_3.one_path_ends.with_friends_like_these" GUID="teggk25chUe/I4xLGzdHRg==" iconFile="Img/Numbers/1.png" fadeNear="2000" fadeFar="3000" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="1202" xpos="104" ypos="141" zpos="-324" type="story_journal.season_3.one_path_ends.with_friends_like_these" GUID="5DgVNwvHtkyCqWdyYmFCug==" iconFile="Img/Numbers/2.png" fadeNear="2000" fadeFar="3000" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="1202" xpos="91"  ypos="141" zpos="-318" type="story_journal.season_3.one_path_ends.with_friends_like_these" GUID="73BkykA/ckuHv7zAClQWhQ==" iconFile="Img/Numbers/3.png" fadeNear="2000" fadeFar="3000" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="1202" xpos="97"  ypos="141" zpos="-330" type="story_journal.season_3.one_path_ends.with_friends_like_these" GUID="ZBDi1eYBIkSlsQHEN1MHUw==" iconFile="Img/Numbers/4.png" fadeNear="2000" fadeFar="3000" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="1202" xpos="104" ypos="141" zpos="-324" type="story_journal.season_3.one_path_ends.with_friends_like_these" GUID="dOEF7BHxCky8YYWD8rtbVg==" iconFile="Img/Numbers/5.png" fadeNear="2000" fadeFar="3000" mapVisibility="0" miniMapVisibility="0" heightOffset="3"/>
+		<POI MapID="1202" xpos="104" ypos="141" zpos="-330" type="story_journal.season_3.one_path_ends.with_friends_like_these" GUID="2Js/Dsg2YEKqzE0RAlH5fQ==" iconFile="Img/Numbers/6.png" fadeNear="2000" fadeFar="3000" mapVisibility="0" miniMapVisibility="0"/>
+
+	</POIs>
+</OverlayData>

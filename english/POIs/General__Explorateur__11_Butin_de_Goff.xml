@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+POIs: ReActif.9251
+Date: 2016/12/27
+-->
+<OverlayData>
+	<MarkerCategory name="general" DisplayName="General">
+		<MarkerCategory name="explorateur" DisplayName="Explorer" iconFile="Img\Explorateur.png" behavior="3">
+			<MarkerCategory name="butin_de_goff" DisplayName="Goff's Loot"/>
+		</MarkerCategory>
+	</MarkerCategory>
+
+	<POIs>
+
+		<!-- Coffre-->
+		<POI MapID="23" xpos="-33.3204" ypos="43.7785" zpos="557.758" type="general.explorateur.butin_de_goff" GUID="2lKEWmDtT0KAA/irIZ80JQ==" iconFile="Img\CoffreMiniDonjon.png" heightOffset="2"/>
+
+	</POIs>
+</OverlayData>

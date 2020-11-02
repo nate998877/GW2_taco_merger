@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+POIs: ReActif.9251
+Date: 2017/08/11
+-->
+<OverlayData>
+	<MarkerCategory name="missions_de_guilde" DisplayName="Guild Missions">
+		<MarkerCategory name="courses" DisplayName="Races" iconFile="Img\Guide.png" iconSize="0.75" triggerRange="3">
+			<MarkerCategory name="pagaie_quaggan" DisplayName="Quaggan Paddle" triggerRange="5">
+				<MarkerCategory name="cercles" DisplayName="Checkpoints" iconFile="Img\DrapeauPassage.png" iconSize="1" fadeNear="2000" fadeFar="5000"/>
+				<MarkerCategory name="pieges" DisplayName="Traps" fadeNear="2000" fadeFar="3000" iconSize="1">
+					<MarkerCategory name="mines" DisplayName="Bombs" iconFile="Img\Bombe.png" iconSize="0.5" color="ffe52f22"/>
+					<MarkerCategory name="cheminees" DisplayName="Vents" iconFile="Img\Danger.png"/>
+				</MarkerCategory>
+			</MarkerCategory>
+		</MarkerCategory>
+	</MarkerCategory>
+
+	<POIs>
+
+		<!-- Début -->
+		<POI MapID="30" xpos="-540.18" ypos="-129.82" zpos="-165.01" type="missions_de_guilde.courses.debut" GUID="FQTUIexqaE25bBdLtsB4yA=="/>
+
+		<!-- Route -->
+		<Route MapID="30" name="Pagaie_Quaggan" resetposx="-540.18" resetposy="-129.82" resetposz="-165.01" resetrange="2">
+			<POI MapID="30" xpos="-538.86"  ypos="-131.424" zpos="-156.462" type="missions_de_guilde.courses.pagaie_quaggan" GUID="/Dv8qhOahk+o0uOxtbBWug=="/>
+			<POI MapID="30" xpos="-539.057" ypos="-136.418" zpos="-145.716" type="missions_de_guilde.courses.pagaie_quaggan" GUID="IZWrpqwwakGhnkvsnVOjUw=="/>
+			<POI MapID="30" xpos="-538.986" ypos="-143.105" zpos="-133.04"  type="missions_de_guilde.courses.pagaie_quaggan" GUID="GnAS/SifyEW9rUx4qHZXFA=="/>
+			<POI MapID="30" xpos="-539.148" ypos="-149.801" zpos="-121.733" type="missions_de_guilde.courses.pagaie_quaggan" GUID="pA1tqUh8jUG2tc6qp5IuHA=="/>
+			<POI MapID="30" xpos="-539.443" ypos="-155.877" zpos="-112.151" type="missions_de_guilde.courses.pagaie_quaggan" GUID="m85Y35S1OUSuq6lSgOngjg=="/>
+			<POI MapID="30" xpos="-539"     ypos="-165.434" zpos="-92.9101" type="missions_de_guilde.courses.pagaie_quaggan" GUID="gBtH+tKAiE2KhWdCPKC+EA=="/>
+			<POI MapID="30" xpos="-537.652" ypos="-170.751" zpos="-81.6701" type="missions_de_guilde.courses.pagaie_quaggan" GUID="leqVQlOiKE+JcSqHi6k1JA=="/>
+			<POI MapID="30" xpos="-535.727" ypos="-176.572" zpos="-74.7464" type="missions_de_guilde.courses.pagaie_quaggan" GUID="bWxTr7woUk6ltBjoFYeUsQ=="/>
+			<POI MapID="30" xpos="-533.418" ypos="-182.334" zpos="-67.5029" type="missions_de_guilde.courses.pagaie_quaggan" GUID="OzRDoihWskGuoRs38IZ+Hw=="/>
+			<POI MapID="30" xpos="-530.34"  ypos="-188.525" zpos="-58.1282" type="missions_de_guilde.courses.pagaie_quaggan" GUID="p54pS92h00SQWO50w35iBg=="/>
+			<POI MapID="30" xpos="-527.88"  ypos="-193.226" zpos="-50.546"  type="missions_de_guilde.courses.pagaie_quaggan" GUID="mRYRMoVsC0KRCqarxtP3mg=="/>
+			<POI MapID="30" xpos="-524.628" ypos="-197.839" zpos="-41.3938" type="missions_de_guilde.courses.pagaie_quaggan" GUID="VZm0eovW2UuGzDaGtajnlA=="/>
+			<POI MapID="30" xpos="-520.716" ypos="-203.239" zpos="-30.7706" type="missions_de_guilde.courses.pagaie_quaggan" GUID="W6aRSHSjs0CzGjc1v+w7pA=="/>
+			<POI MapID="30" xpos="-518.881" ypos="-208.538" zpos="-17.7724" type="missions_de_guilde.courses.pagaie_quaggan" GUID="xnyRtvMUfEeV1JvsLNBCXA=="/>
+			<POI MapID="30" xpos="-520.947" ypos="-209.782" zpos="-9.21527" type="missions_de_guilde.courses.pagaie_quaggan" GUID="LEn7Sojiwk2hldGXkgCNTw=="/>
+			<POI MapID="30" xpos="-523.08"  ypos="-210.72"  zpos="-3.14701" type="missions_de_guilde.courses.pagaie_quaggan" GUID="W3RLy4AprU2Y8geULod18g=="/>
+			<POI MapID="30" xpos="-529.911" ypos="-212.435" zpos="3.27179"  type="missions_de_guilde.courses.pagaie_quaggan" GUID="HdaPBtN8aUCG4wphv3mg9g=="/>
+			<POI MapID="30" xpos="-537.16"  ypos="-213.766" zpos="8.36218"  type="missions_de_guilde.courses.pagaie_quaggan" GUID="SM+utViHq0m58MN/Gt4Oxg=="/>
+			<POI MapID="30" xpos="-544.661" ypos="-215.368" zpos="13.5445"  type="missions_de_guilde.courses.pagaie_quaggan" GUID="nFLJ28N38ES9j5PgOaHe4w=="/>
+			<POI MapID="30" xpos="-553.665" ypos="-217.437" zpos="20.1356"  type="missions_de_guilde.courses.pagaie_quaggan" GUID="sriYOuW63kO3wXay5/4T/A=="/>
+			<POI MapID="30" xpos="-561.596" ypos="-218.694" zpos="26.8045"  type="missions_de_guilde.courses.pagaie_quaggan" GUID="J4d8atZzj0egmRzsIX22ng=="/>
+			<POI MapID="30" xpos="-569.803" ypos="-219.629" zpos="35.0118"  type="missions_de_guilde.courses.pagaie_quaggan" GUID="lH/RFuhp1kG+U8+cbMPfgQ=="/>
+			<POI MapID="30" xpos="-579.639" ypos="-220.599" zpos="43.9616"  type="missions_de_guilde.courses.pagaie_quaggan" GUID="S+d7RxFlv0urGj1smL5xsA=="/>
+			<POI MapID="30" xpos="-594.445" ypos="-223.756" zpos="52.4917"  type="missions_de_guilde.courses.pagaie_quaggan" GUID="Ow616w9ig0+W4xahxE27HQ=="/>
+			<POI MapID="30" xpos="-603.127" ypos="-224.783" zpos="54.1907"  type="missions_de_guilde.courses.pagaie_quaggan" GUID="yd/YNcWxI0qd90DVhPjJEQ=="/>
+			<POI MapID="30" xpos="-613.753" ypos="-225.47"  zpos="57.6203"  type="missions_de_guilde.courses.pagaie_quaggan" GUID="T1tmkZFfoUSHkdAKQz4Pcg=="/>
+			<POI MapID="30" xpos="-624.855" ypos="-226.535" zpos="61.2332"  type="missions_de_guilde.courses.pagaie_quaggan" GUID="ke8rjcrCnUOf/L+HYiD32A=="/>
+			<POI MapID="30" xpos="-637.628" ypos="-227.162" zpos="64.907"   type="missions_de_guilde.courses.pagaie_quaggan" GUID="vEoybqcLuEOLIysJ1YeC6g=="/>
+			<POI MapID="30" xpos="-647.69"  ypos="-228.261" zpos="69.6356"  type="missions_de_guilde.courses.pagaie_quaggan" GUID="8LWmePnVrkabEGCkXM8LwA=="/>
+			<POI MapID="30" xpos="-660.244" ypos="-229.124" zpos="75.8214"  type="missions_de_guilde.courses.pagaie_quaggan" GUID="Wtt5u6d86UOIFQzN+n07hw=="/>
+			<POI MapID="30" xpos="-669.215" ypos="-230.936" zpos="81.9555"  type="missions_de_guilde.courses.pagaie_quaggan" GUID="w3jIW0osmUqroXI8hg89AA=="/>
+			<POI MapID="30" xpos="-675.621" ypos="-230.653" zpos="89.6674"  type="missions_de_guilde.courses.pagaie_quaggan" GUID="d17ugn5tOkakER3zW6RYjw=="/>
+			<POI MapID="30" xpos="-681.964" ypos="-229.737" zpos="95.4108"  type="missions_de_guilde.courses.pagaie_quaggan" GUID="axAmnfnR4UOSlSpjFcFhtg=="/>
+			<POI MapID="30" xpos="-688.915" ypos="-229.563" zpos="103.919"  type="missions_de_guilde.courses.pagaie_quaggan" GUID="Nqk4/4lMk022y69hTcDquQ=="/>
+			<POI MapID="30" xpos="-689.83"  ypos="-228.032" zpos="113.517"  type="missions_de_guilde.courses.pagaie_quaggan" GUID="75fYHTEfg0qMrQpIgrnvEA=="/>
+			<POI MapID="30" xpos="-689.599" ypos="-227.204" zpos="133.532"  type="missions_de_guilde.courses.pagaie_quaggan" GUID="Ybv6P+89bk+nPd45fZBDVA=="/>
+			<POI MapID="30" xpos="-686.257" ypos="-229.655" zpos="142.534"  type="missions_de_guilde.courses.pagaie_quaggan" GUID="wwged8Tc8U+QjoQQPuHxPw=="/>
+			<POI MapID="30" xpos="-680.748" ypos="-227.627" zpos="150.379"  type="missions_de_guilde.courses.pagaie_quaggan" GUID="hDNEehmAl0qt7+Ub8p7P2g=="/>
+			<POI MapID="30" xpos="-672.647" ypos="-225.03"  zpos="155.742"  type="missions_de_guilde.courses.pagaie_quaggan" GUID="GSNInZpleUuq7rxUbUnXlg=="/>
+			<POI MapID="30" xpos="-664.259" ypos="-226.215" zpos="163.666"  type="missions_de_guilde.courses.pagaie_quaggan" GUID="ZVrl7fuBz0qrG/6JdMNGlw=="/>
+			<POI MapID="30" xpos="-657.265" ypos="-229.021" zpos="175.664"  type="missions_de_guilde.courses.pagaie_quaggan" GUID="AjbcQe2Yd0uvKCSyWR6W1w=="/>
+			<POI MapID="30" xpos="-652.311" ypos="-230.156" zpos="189.375"  type="missions_de_guilde.courses.pagaie_quaggan" GUID="d1pbvQ6/aUSnf4R7qjAWHQ=="/>
+			<POI MapID="30" xpos="-645.938" ypos="-230.582" zpos="202.125"  type="missions_de_guilde.courses.pagaie_quaggan" GUID="IUGTVA3RYUGxI42+fbW9Jw=="/>
+			<POI MapID="30" xpos="-644.969" ypos="-230.557" zpos="211.554"  type="missions_de_guilde.courses.pagaie_quaggan" GUID="41uDkmFCnEKCCR5mLQyQWQ=="/>
+			<POI MapID="30" xpos="-648.518" ypos="-230.978" zpos="224.343"  type="missions_de_guilde.courses.pagaie_quaggan" GUID="SFXlFcvYoEWJ4kO2N9zLBg=="/>
+			<POI MapID="30" xpos="-653.647" ypos="-230.005" zpos="231.471"  type="missions_de_guilde.courses.pagaie_quaggan" GUID="wtsyMthKt0GG+5y3ajgDkg=="/>
+			<POI MapID="30" xpos="-653.783" ypos="-226.276" zpos="242.249"  type="missions_de_guilde.courses.pagaie_quaggan" GUID="oR8ijPyM0UeoMqg1Dw229g=="/>
+			<POI MapID="30" xpos="-649.986" ypos="-229.743" zpos="250.046"  type="missions_de_guilde.courses.pagaie_quaggan" GUID="whkaszoSRUuBYGtK9Cm7Yw=="/>
+			<POI MapID="30" xpos="-646.1"   ypos="-231.28"  zpos="257.747"  type="missions_de_guilde.courses.pagaie_quaggan" GUID="kJPRCNB7KUu1fEx2tuvvqA=="/>
+			<POI MapID="30" xpos="-637.689" ypos="-232.165" zpos="264.806"  type="missions_de_guilde.courses.pagaie_quaggan" GUID="pGI4MeSnr0q53uFQkp3q9A=="/>
+			<POI MapID="30" xpos="-631.776" ypos="-232.516" zpos="272.053"  type="missions_de_guilde.courses.pagaie_quaggan" GUID="0zzm3dHXCU6jBB8wq1tkAg=="/>
+			<POI MapID="30" xpos="-625.933" ypos="-232.382" zpos="279.117"  type="missions_de_guilde.courses.pagaie_quaggan" GUID="MDIP7OHDAkKTXxbVnFED4Q=="/>
+			<POI MapID="30" xpos="-621.239" ypos="-231.537" zpos="284.565"  type="missions_de_guilde.courses.pagaie_quaggan" GUID="n5/m9dJdLkWxr/H5LB2bMQ=="/>
+			<POI MapID="30" xpos="-614.701" ypos="-230.532" zpos="292.467"  type="missions_de_guilde.courses.pagaie_quaggan" GUID="fj/Au5ncAEm6IONABcqODg=="/>
+			<POI MapID="30" xpos="-608.3"   ypos="-229.479" zpos="301.445"  type="missions_de_guilde.courses.pagaie_quaggan" GUID="8hAPuu9EjECsMBOshq3ebA=="/>
+			<POI MapID="30" xpos="-602.076" ypos="-227.707" zpos="309.798"  type="missions_de_guilde.courses.pagaie_quaggan" GUID="AzKmLAKDA0CAMvjPlzD7Yw=="/>
+			<POI MapID="30" xpos="-596.919" ypos="-224.5"   zpos="317.906"  type="missions_de_guilde.courses.pagaie_quaggan" GUID="pLCwrm+zwUS9w6pb/Qm6tA=="/>
+			<POI MapID="30" xpos="-594.486" ypos="-222.812" zpos="325.628"  type="missions_de_guilde.courses.pagaie_quaggan" GUID="6pSaB5nbbEOpFWZBIg38+g=="/>
+			<POI MapID="30" xpos="-597.261" ypos="-223.164" zpos="331.136"  type="missions_de_guilde.courses.pagaie_quaggan" GUID="lO9vS/LoT0SHpDolnwfgzg=="/>
+			<POI MapID="30" xpos="-602.293" ypos="-223.975" zpos="330.705"  type="missions_de_guilde.courses.pagaie_quaggan" GUID="frfxalUqrUqOhtWJ4oO93w=="/>
+			<POI MapID="30" xpos="-607.99"  ypos="-225.535" zpos="343.452"  type="missions_de_guilde.courses.pagaie_quaggan" GUID="SiWYqPJxB0WG1AhSMtLy1g=="/>
+			<POI MapID="30" xpos="-607.427" ypos="-230.284" zpos="354.903"  type="missions_de_guilde.courses.pagaie_quaggan" GUID="JjCGLn0lCECoXG2fRYCBJg=="/>
+			<POI MapID="30" xpos="-608.724" ypos="-231.401" zpos="365.862"  type="missions_de_guilde.courses.pagaie_quaggan" GUID="XvKfAKpW+kK5d936jkrRdg=="/>
+			<POI MapID="30" xpos="-609.764" ypos="-229.561" zpos="375.089"  type="missions_de_guilde.courses.pagaie_quaggan" GUID="ozyB/jZe6EesuBVWkfmmSA=="/>
+			<POI MapID="30" xpos="-606.935" ypos="-226.268" zpos="384.516"  type="missions_de_guilde.courses.pagaie_quaggan" GUID="IKnKrcV/xkSUiwaijJ+IOg=="/>
+			<POI MapID="30" xpos="-601.184" ypos="-224.467" zpos="393.722"  type="missions_de_guilde.courses.pagaie_quaggan" GUID="Ly+FeHMz0UGhuSb4RlZ+BA=="/>
+			<POI MapID="30" xpos="-592.884" ypos="-220.814" zpos="414.84"   type="missions_de_guilde.courses.pagaie_quaggan" GUID="rLrR50gDukm6pu3tIt5oHQ=="/>
+			<POI MapID="30" xpos="-592.749" ypos="-217.615" zpos="419.721"  type="missions_de_guilde.courses.pagaie_quaggan" GUID="5KxBdkdmB0+hF2AQcpMO7A=="/>
+			<POI MapID="30" xpos="-594.137" ypos="-215.754" zpos="427.873"  type="missions_de_guilde.courses.pagaie_quaggan" GUID="6jMHm0Yxk0KoJAw4oSVlEw=="/>
+			<POI MapID="30" xpos="-591.284" ypos="-215.413" zpos="436.282"  type="missions_de_guilde.courses.pagaie_quaggan" GUID="eOZHvR188Eu7NTTyWqgX+A=="/>
+			<POI MapID="30" xpos="-586.507" ypos="-213.734" zpos="445.56"   type="missions_de_guilde.courses.pagaie_quaggan" GUID="ijC7s+kOW0iaVCkCkcALMw=="/>
+			<POI MapID="30" xpos="-582.022" ypos="-213.892" zpos="449.573"  type="missions_de_guilde.courses.pagaie_quaggan" GUID="1dFcWWajukOqf2IJ5UKo7w=="/>
+			<POI MapID="30" xpos="-575.762" ypos="-213.075" zpos="460.232"  type="missions_de_guilde.courses.pagaie_quaggan" GUID="MkCb55mv5k2+Z5XTmLyfrw=="/>
+			<POI MapID="30" xpos="-573.46"  ypos="-207.807" zpos="466.152"  type="missions_de_guilde.courses.pagaie_quaggan" GUID="xsieCcdrLU6dVh65yCNP0w=="/>
+			<POI MapID="30" xpos="-573.025" ypos="-198.436" zpos="469.177"  type="missions_de_guilde.courses.pagaie_quaggan" GUID="Ghj+h4Sxy0K8AlWLdi6YWA=="/>
+			<POI MapID="30" xpos="-571.684" ypos="-189.444" zpos="472.094"  type="missions_de_guilde.courses.pagaie_quaggan" GUID="NHFExnfY5kuW9kianpGs6Q=="/>
+			<POI MapID="30" xpos="-569.76"  ypos="-179.832" zpos="474.729"  type="missions_de_guilde.courses.pagaie_quaggan" GUID="e3D8uGKjekmPJu1VrfoJGA=="/>
+			<POI MapID="30" xpos="-565.136" ypos="-170.642" zpos="477.785"  type="missions_de_guilde.courses.pagaie_quaggan" GUID="pC2QiZYUiUuqHhyH+DBOTg=="/>
+			<POI MapID="30" xpos="-560.066" ypos="-161.962" zpos="481.592"  type="missions_de_guilde.courses.pagaie_quaggan" GUID="vM3Ab2T2mUuc9Pmejawtvw=="/>
+			<POI MapID="30" xpos="-553.797" ypos="-152.751" zpos="486.661"  type="missions_de_guilde.courses.pagaie_quaggan" GUID="g4oRuo6xrkm5a3stnMW+6g=="/>
+			<POI MapID="30" xpos="-546.545" ypos="-143.668" zpos="492.754"  type="missions_de_guilde.courses.pagaie_quaggan" GUID="Ib0mfx3KIEmrb1Fumcia+w=="/>
+			<POI MapID="30" xpos="-532.545" ypos="-136.137" zpos="504.052"  type="missions_de_guilde.courses.pagaie_quaggan" GUID="mJgFpWh05keLdnr+IBTeyw=="/>
+			<POI MapID="30" xpos="-524.448" ypos="-133.081" zpos="509.314"  type="missions_de_guilde.courses.pagaie_quaggan" GUID="gvLSyTNNFkSD6hrvfG9s+A=="/>
+			<POI MapID="30" xpos="-514.81"  ypos="-129.95"  zpos="515.62"   type="missions_de_guilde.courses.pagaie_quaggan" GUID="XNWB1fcpjka8Z9ssxt6A/g=="/>
+			<POI MapID="30" xpos="-494.714" ypos="-127.018" zpos="529.521"  type="missions_de_guilde.courses.pagaie_quaggan" GUID="ZHV+vt5L1Em01KG54zzjBQ=="/>
+			<POI MapID="30" xpos="-482.995" ypos="-127.771" zpos="538.176"  type="missions_de_guilde.courses.pagaie_quaggan" GUID="89BcEIZCk0eY4OfCUSn0iQ=="/>
+			<POI MapID="30" xpos="-469.459" ypos="-131.305" zpos="547.805"  type="missions_de_guilde.courses.pagaie_quaggan" GUID="rGT4k2cZE0G0jJ6Cr2yqgw=="/>
+			<POI MapID="30" xpos="-458.44"  ypos="-133.398" zpos="555.651"  type="missions_de_guilde.courses.pagaie_quaggan" GUID="5kR9PAVe20C+k3qM8xBO2Q=="/>
+			<POI MapID="30" xpos="-444.616" ypos="-136.964" zpos="566.227"  type="missions_de_guilde.courses.pagaie_quaggan" GUID="YHZHcQITD0+C4xKEoT0oqQ=="/>
+		</Route>
+
+		<!-- Arrivée -->
+		<POI MapID="30" xpos="-438.423" ypos="-136.958" zpos="569.703" type="missions_de_guilde.courses.pagaie_quaggan" GUID="s8iIwj/dnEOgETaoJCxZpA==" iconFile="Img\DrapeauArrivee.png" iconSize="1"/>
+
+		<!-- Cercle de Passage -->
+		<POI MapID="30" xpos="-451.072" ypos="-135.988" zpos="560.757"  type="missions_de_guilde.courses.pagaie_quaggan.cercles" GUID="gvMC/LQbJE2DRS+Pevfkug=="/>
+		<POI MapID="30" xpos="-503.092" ypos="-126.916" zpos="523.453"  type="missions_de_guilde.courses.pagaie_quaggan.cercles" GUID="1rhVwqGZWkmLtcgEVafl9Q=="/>
+		<POI MapID="30" xpos="-518.427" ypos="-206.571" zpos="-23.1263" type="missions_de_guilde.courses.pagaie_quaggan.cercles" GUID="F5NRmI4tFk62k9sqDskKLA=="/>
+		<POI MapID="30" xpos="-539.866" ypos="-161.802" zpos="-101.302" type="missions_de_guilde.courses.pagaie_quaggan.cercles" GUID="s5uD801R+E+dhzQdDCVNIA=="/>
+		<POI MapID="30" xpos="-540.576" ypos="-136.001" zpos="497.87"   type="missions_de_guilde.courses.pagaie_quaggan.cercles" GUID="wMqAZvjurkCO8YBxKHeOmQ=="/>
+		<POI MapID="30" xpos="-577.753" ypos="-213.848" zpos="452.794"  type="missions_de_guilde.courses.pagaie_quaggan.cercles" GUID="/WUZt4QRzESeoFDa8Nb8Sg=="/>
+		<POI MapID="30" xpos="-587.985" ypos="-221.119" zpos="49.9905"  type="missions_de_guilde.courses.pagaie_quaggan.cercles" GUID="Xks8bBuqwEOyUSDwXEoj+w=="/>
+		<POI MapID="30" xpos="-591.637" ypos="-221.552" zpos="406.854"  type="missions_de_guilde.courses.pagaie_quaggan.cercles" GUID="oxY/FZnUnkGYtpu6HdTuMA=="/>
+		<POI MapID="30" xpos="-607.287" ypos="-222.243" zpos="335.022"  type="missions_de_guilde.courses.pagaie_quaggan.cercles" GUID="s9bm2MerI0Gix4cYkSFQ2A=="/>
+		<POI MapID="30" xpos="-654.999" ypos="-224.112" zpos="236.958"  type="missions_de_guilde.courses.pagaie_quaggan.cercles" GUID="PvLHQiO5XkCTAQWZ1ebSow=="/>
+		<POI MapID="30" xpos="-690.744" ypos="-224.681" zpos="124.78"   type="missions_de_guilde.courses.pagaie_quaggan.cercles" GUID="X+jZXDamN0eqROdzJHQE7g=="/>
+
+		<!-- Mines -->
+		<POI MapID="30" xpos="-699.589" ypos="-228.682" zpos="158.276" type="missions_de_guilde.courses.pagaie_quaggan.pieges.mines" GUID="d+FO/OwZh0ePSHTExw3GHQ=="/>
+		<POI MapID="30" xpos="-695.701" ypos="-217.443" zpos="128.596" type="missions_de_guilde.courses.pagaie_quaggan.pieges.mines" GUID="lh/JPIwbPESV3lat53GVAQ=="/>
+		<POI MapID="30" xpos="-695.61"  ypos="-207.757" zpos="123.023" type="missions_de_guilde.courses.pagaie_quaggan.pieges.mines" GUID="Lp2mgVGo50KfkioZsp9wxw=="/>
+		<POI MapID="30" xpos="-694.336" ypos="-213.336" zpos="135.878" type="missions_de_guilde.courses.pagaie_quaggan.pieges.mines" GUID="iSb2TRf0oE6v+oh7tlv14Q=="/>
+		<POI MapID="30" xpos="-691.986" ypos="-213.733" zpos="108.597" type="missions_de_guilde.courses.pagaie_quaggan.pieges.mines" GUID="IlAA6PhBAkiul8723ixLKw=="/>
+		<POI MapID="30" xpos="-691.675" ypos="-213.456" zpos="114.045" type="missions_de_guilde.courses.pagaie_quaggan.pieges.mines" GUID="gkv8UlSb8Eec58r7CeeBDQ=="/>
+		<POI MapID="30" xpos="-688.289" ypos="-207.77"  zpos="121.007" type="missions_de_guilde.courses.pagaie_quaggan.pieges.mines" GUID="K6vQ60kEJEuGhdrkYCx4FQ=="/>
+		<POI MapID="30" xpos="-687.405" ypos="-219.451" zpos="113.51"  type="missions_de_guilde.courses.pagaie_quaggan.pieges.mines" GUID="mwrwYR62gUCjQKd6u03O7g=="/>
+		<POI MapID="30" xpos="-686.651" ypos="-222.669" zpos="154.687" type="missions_de_guilde.courses.pagaie_quaggan.pieges.mines" GUID="nYbLzNKcpEuF6cLkDx/WXw=="/>
+		<POI MapID="30" xpos="-686.584" ypos="-226.665" zpos="162.186" type="missions_de_guilde.courses.pagaie_quaggan.pieges.mines" GUID="mlMWkMg8HECUnvSBSYXwTA=="/>
+		<POI MapID="30" xpos="-684.79"  ypos="-220.033" zpos="171.721" type="missions_de_guilde.courses.pagaie_quaggan.pieges.mines" GUID="F1vjsW28QU6kjOIKm+0EMw=="/>
+		<POI MapID="30" xpos="-683.719" ypos="-206.238" zpos="102.462" type="missions_de_guilde.courses.pagaie_quaggan.pieges.mines" GUID="f41QyU+lf0mn7N15lxxvjA=="/>
+		<POI MapID="30" xpos="-682.854" ypos="-227.534" zpos="155.152" type="missions_de_guilde.courses.pagaie_quaggan.pieges.mines" GUID="M/34uaHPb0mLvkBEZ3zcBA=="/>
+		<POI MapID="30" xpos="-680.18"  ypos="-210.335" zpos="130.341" type="missions_de_guilde.courses.pagaie_quaggan.pieges.mines" GUID="Dygn0QsCp0mbBpDghFzJQw=="/>
+		<POI MapID="30" xpos="-680.065" ypos="-210.33"  zpos="112.204" type="missions_de_guilde.courses.pagaie_quaggan.pieges.mines" GUID="Fn6gJ1kRZEKy2/wsNlrHzw=="/>
+		<POI MapID="30" xpos="-676.729" ypos="-212.487" zpos="81.9949" type="missions_de_guilde.courses.pagaie_quaggan.pieges.mines" GUID="WVuG514BJEOUvYZwDcdfKw=="/>
+		<POI MapID="30" xpos="-675.602" ypos="-231.24"  zpos="165.043" type="missions_de_guilde.courses.pagaie_quaggan.pieges.mines" GUID="qzofAapXSU2XSQh7AsUwHQ=="/>
+		<POI MapID="30" xpos="-675.568" ypos="-231.444" zpos="81.4392" type="missions_de_guilde.courses.pagaie_quaggan.pieges.mines" GUID="5IWegvMDyEqpenlSmwRgWQ=="/>
+		<POI MapID="30" xpos="-675.162" ypos="-213.805" zpos="114.356" type="missions_de_guilde.courses.pagaie_quaggan.pieges.mines" GUID="zPwb0UpUf0SXUQQsQJk6aA=="/>
+		<POI MapID="30" xpos="-671.731" ypos="-211.305" zpos="102.184" type="missions_de_guilde.courses.pagaie_quaggan.pieges.mines" GUID="38DJlos6+06vNcq3/FTg5w=="/>
+		<POI MapID="30" xpos="-669.172" ypos="-206.018" zpos="64.2097" type="missions_de_guilde.courses.pagaie_quaggan.pieges.mines" GUID="IEDwYWF7UEKlvUTmXTdX7Q=="/>
+		<POI MapID="30" xpos="-666.9"   ypos="-228.659" zpos="69.3506" type="missions_de_guilde.courses.pagaie_quaggan.pieges.mines" GUID="J5uYlQFXtECuh5/JHzOp2Q=="/>
+		<POI MapID="30" xpos="-664.516" ypos="-213.607" zpos="195.536" type="missions_de_guilde.courses.pagaie_quaggan.pieges.mines" GUID="jS5mkyZe+EGao+R+OMmEsg=="/>
+		<POI MapID="30" xpos="-662.72"  ypos="-220.656" zpos="183.194" type="missions_de_guilde.courses.pagaie_quaggan.pieges.mines" GUID="dW/BVqplq0Wpin0FppZj2g=="/>
+		<POI MapID="30" xpos="-662.362" ypos="-216.935" zpos="227.884" type="missions_de_guilde.courses.pagaie_quaggan.pieges.mines" GUID="nARmE9yrGEq9dNvRjEECow=="/>
+		<POI MapID="30" xpos="-662.236" ypos="-207.152" zpos="93.1482" type="missions_de_guilde.courses.pagaie_quaggan.pieges.mines" GUID="CCmCN737JkyBI+xbe5yoig=="/>
+		<POI MapID="30" xpos="-662.222" ypos="-222.712" zpos="197.107" type="missions_de_guilde.courses.pagaie_quaggan.pieges.mines" GUID="8YBSa45w/ki/KOBlZdf1OA=="/>
+		<POI MapID="30" xpos="-661.532" ypos="-212.492" zpos="209.174" type="missions_de_guilde.courses.pagaie_quaggan.pieges.mines" GUID="Pc5yt8nyUUmX+cX56LFN8Q=="/>
+		<POI MapID="30" xpos="-661.347" ypos="-204.478" zpos="57.7865" type="missions_de_guilde.courses.pagaie_quaggan.pieges.mines" GUID="T06BeV/400CK36xBSK+EEA=="/>
+		<POI MapID="30" xpos="-661.036" ypos="-227.961" zpos="229.664" type="missions_de_guilde.courses.pagaie_quaggan.pieges.mines" GUID="3kpjisQeekeJxbW155ktNA=="/>
+		<POI MapID="30" xpos="-658.672" ypos="-209.247" zpos="231.838" type="missions_de_guilde.courses.pagaie_quaggan.pieges.mines" GUID="swFTC+WvkU6r/y5N6yQj0w=="/>
+		<POI MapID="30" xpos="-658.598" ypos="-218.364" zpos="231.898" type="missions_de_guilde.courses.pagaie_quaggan.pieges.mines" GUID="Om48b+B/gEO26nDg+hLrnQ=="/>
+		<POI MapID="30" xpos="-658.542" ypos="-221.849" zpos="215.99"  type="missions_de_guilde.courses.pagaie_quaggan.pieges.mines" GUID="H39vcW721UCtouUhLQmtwg=="/>
+		<POI MapID="30" xpos="-658.414" ypos="-211.596" zpos="227.309" type="missions_de_guilde.courses.pagaie_quaggan.pieges.mines" GUID="FzzeZvJRuU+9lBl2J9qO5w=="/>
+		<POI MapID="30" xpos="-657.868" ypos="-212.45"  zpos="197.055" type="missions_de_guilde.courses.pagaie_quaggan.pieges.mines" GUID="CD9dOBdAOUK6xKhvisVANw=="/>
+		<POI MapID="30" xpos="-656.701" ypos="-207.27"  zpos="237.482" type="missions_de_guilde.courses.pagaie_quaggan.pieges.mines" GUID="uSzpDwLnYUi4MM67IruUfA=="/>
+		<POI MapID="30" xpos="-655.716" ypos="-224.611" zpos="199.393" type="missions_de_guilde.courses.pagaie_quaggan.pieges.mines" GUID="PvWUVWIjYUmmaJSCU3uF/w=="/>
+		<POI MapID="30" xpos="-655.204" ypos="-228.519" zpos="224.402" type="missions_de_guilde.courses.pagaie_quaggan.pieges.mines" GUID="3qudXv5d90yqw2+NeozaAg=="/>
+		<POI MapID="30" xpos="-653.959" ypos="-216.695" zpos="237.428" type="missions_de_guilde.courses.pagaie_quaggan.pieges.mines" GUID="rHj7OezCyUSFL1gyOwfN0w=="/>
+		<POI MapID="30" xpos="-653.488" ypos="-210.378" zpos="223.662" type="missions_de_guilde.courses.pagaie_quaggan.pieges.mines" GUID="1AlxQTF6R0SzXAORU35OCA=="/>
+		<POI MapID="30" xpos="-653.273" ypos="-219.225" zpos="219.761" type="missions_de_guilde.courses.pagaie_quaggan.pieges.mines" GUID="Y6UTIqZHVUWZ1ucyuto87g=="/>
+		<POI MapID="30" xpos="-651.662" ypos="-210.408" zpos="208.725" type="missions_de_guilde.courses.pagaie_quaggan.pieges.mines" GUID="dWvND3LD+U+PyMRegG5NRA=="/>
+		<POI MapID="30" xpos="-651.497" ypos="-219.39"  zpos="208.744" type="missions_de_guilde.courses.pagaie_quaggan.pieges.mines" GUID="5rbCwHArikCdA4yl3MiMWw=="/>
+		<POI MapID="30" xpos="-650.797" ypos="-224.844" zpos="230.202" type="missions_de_guilde.courses.pagaie_quaggan.pieges.mines" GUID="S8nQIjd1ukeAR+bmWs06yg=="/>
+		<POI MapID="30" xpos="-650.225" ypos="-213.174" zpos="221.224" type="missions_de_guilde.courses.pagaie_quaggan.pieges.mines" GUID="CTwAHx+BnUmFheIj+sf21A=="/>
+		<POI MapID="30" xpos="-650.187" ypos="-206.946" zpos="237.738" type="missions_de_guilde.courses.pagaie_quaggan.pieges.mines" GUID="WuWRIcxdJEWcR15m/6pRvQ=="/>
+		<POI MapID="30" xpos="-648.106" ypos="-224.551" zpos="60.9621" type="missions_de_guilde.courses.pagaie_quaggan.pieges.mines" GUID="KXlazVfPU0eTU8MYlAmBxA=="/>
+		<POI MapID="30" xpos="-647.563" ypos="-206.588" zpos="255.276" type="missions_de_guilde.courses.pagaie_quaggan.pieges.mines" GUID="MnZvjCwKMUWxMw+nfCpHUg=="/>
+		<POI MapID="30" xpos="-644.891" ypos="-203.15"  zpos="69.1519" type="missions_de_guilde.courses.pagaie_quaggan.pieges.mines" GUID="h06QEPcAQkKyuEZBuxcxNA=="/>
+		<POI MapID="30" xpos="-641.67"  ypos="-210.344" zpos="233.506" type="missions_de_guilde.courses.pagaie_quaggan.pieges.mines" GUID="8mkPM3mjSE2sAD1/CscpwA=="/>
+		<POI MapID="30" xpos="-641.589" ypos="-229.783" zpos="232.733" type="missions_de_guilde.courses.pagaie_quaggan.pieges.mines" GUID="mk//bExHykq5I5PPEmhvIg=="/>
+		<POI MapID="30" xpos="-641.059" ypos="-214.944" zpos="64.0852" type="missions_de_guilde.courses.pagaie_quaggan.pieges.mines" GUID="np7jzHglsEKIuAE+O1szuQ=="/>
+		<POI MapID="30" xpos="-639.543" ypos="-227.545" zpos="268.866" type="missions_de_guilde.courses.pagaie_quaggan.pieges.mines" GUID="Ztdz44g95UWY44SyJfrhbQ=="/>
+		<POI MapID="30" xpos="-638.09"  ypos="-218.878" zpos="234.701" type="missions_de_guilde.courses.pagaie_quaggan.pieges.mines" GUID="IvFofl0XpUuLxQdBFccGoA=="/>
+		<POI MapID="30" xpos="-637.87"  ypos="-216.063" zpos="273.283" type="missions_de_guilde.courses.pagaie_quaggan.pieges.mines" GUID="zZEyV7nuu0qtfiBNP+VWLg=="/>
+		<POI MapID="30" xpos="-637.827" ypos="-230.046" zpos="250.393" type="missions_de_guilde.courses.pagaie_quaggan.pieges.mines" GUID="0k5N66aoR0uvT7dxgXgCKg=="/>
+		<POI MapID="30" xpos="-632.638" ypos="-210.501" zpos="48.0686" type="missions_de_guilde.courses.pagaie_quaggan.pieges.mines" GUID="acp4tTYo+0qrUo746/dH4Q=="/>
+		<POI MapID="30" xpos="-629.872" ypos="-218.084" zpos="277.313" type="missions_de_guilde.courses.pagaie_quaggan.pieges.mines" GUID="6deX/4Z+2kmc4zZIy5vu6w=="/>
+		<POI MapID="30" xpos="-626.209" ypos="-225.602" zpos="290.265" type="missions_de_guilde.courses.pagaie_quaggan.pieges.mines" GUID="AjDg1MRFbEKvgcbMNh950w=="/>
+		<POI MapID="30" xpos="-626.111" ypos="-226.092" zpos="274.221" type="missions_de_guilde.courses.pagaie_quaggan.pieges.mines" GUID="WwWgQh8cZ0eu0v4t9ur/vw=="/>
+		<POI MapID="30" xpos="-624.704" ypos="-229.091" zpos="301.219" type="missions_de_guilde.courses.pagaie_quaggan.pieges.mines" GUID="JGfEu9AciUabggb+apBK2w=="/>
+		<POI MapID="30" xpos="-624.158" ypos="-230.756" zpos="317.498" type="missions_de_guilde.courses.pagaie_quaggan.pieges.mines" GUID="H8YEYCNUK0GPkGB/hRtCWA=="/>
+		<POI MapID="30" xpos="-620.925" ypos="-220.598" zpos="301.503" type="missions_de_guilde.courses.pagaie_quaggan.pieges.mines" GUID="WTYL/lms40qQUs2P30oR+w=="/>
+		<POI MapID="30" xpos="-619.897" ypos="-213.327" zpos="62.8078" type="missions_de_guilde.courses.pagaie_quaggan.pieges.mines" GUID="qR9Bb4UXqkar4X+5fYQKKg=="/>
+		<POI MapID="30" xpos="-619.164" ypos="-215.075" zpos="317.19"  type="missions_de_guilde.courses.pagaie_quaggan.pieges.mines" GUID="mcZBu1lY7UWsB7e0mvILMg=="/>
+		<POI MapID="30" xpos="-619.046" ypos="-210.067" zpos="316.856" type="missions_de_guilde.courses.pagaie_quaggan.pieges.mines" GUID="7KzKCneqtEC4t7w3Ho6Dww=="/>
+		<POI MapID="30" xpos="-616.787" ypos="-220.517" zpos="318.909" type="missions_de_guilde.courses.pagaie_quaggan.pieges.mines" GUID="JCKGp2bb7UCDX7BKG3k1KQ=="/>
+		<POI MapID="30" xpos="-616.551" ypos="-222.809" zpos="302.835" type="missions_de_guilde.courses.pagaie_quaggan.pieges.mines" GUID="hqWJ4GbceEGCDcfas7VNHA=="/>
+		<POI MapID="30" xpos="-616.144" ypos="-208.306" zpos="301.988" type="missions_de_guilde.courses.pagaie_quaggan.pieges.mines" GUID="Bo35Y3aj7kS3dB0O9RfrwQ=="/>
+		<POI MapID="30" xpos="-615.026" ypos="-219.839" zpos="309.265" type="missions_de_guilde.courses.pagaie_quaggan.pieges.mines" GUID="dDSDz7hZFkqgm2X5deURuA=="/>
+		<POI MapID="30" xpos="-614.755" ypos="-225.417" zpos="329.193" type="missions_de_guilde.courses.pagaie_quaggan.pieges.mines" GUID="ylAetraU3UyZsK32bz+JKw=="/>
+		<POI MapID="30" xpos="-613.898" ypos="-214.015" zpos="316.633" type="missions_de_guilde.courses.pagaie_quaggan.pieges.mines" GUID="UoHnWnzZPEC4GZa1YVmh0Q=="/>
+		<POI MapID="30" xpos="-612.359" ypos="-232.54"  zpos="327.147" type="missions_de_guilde.courses.pagaie_quaggan.pieges.mines" GUID="QbTd6ZnTLke4rEIVg2ll+Q=="/>
+		<POI MapID="30" xpos="-611.711" ypos="-224.687" zpos="313.649" type="missions_de_guilde.courses.pagaie_quaggan.pieges.mines" GUID="uzPRGYDRjUSIAn+D7dOwSw=="/>
+		<POI MapID="30" xpos="-611.192" ypos="-215.703" zpos="326.21"  type="missions_de_guilde.courses.pagaie_quaggan.pieges.mines" GUID="0EqiUyGCgkGiwd+NzT6uBA=="/>
+		<POI MapID="30" xpos="-610.472" ypos="-215.833" zpos="335.803" type="missions_de_guilde.courses.pagaie_quaggan.pieges.mines" GUID="qRh+v5YJSkaKcaUxrNEBfw=="/>
+		<POI MapID="30" xpos="-610.097" ypos="-220.734" zpos="322.927" type="missions_de_guilde.courses.pagaie_quaggan.pieges.mines" GUID="DEi+66/x7kqZr1sXU3lqwQ=="/>
+		<POI MapID="30" xpos="-608.901" ypos="-211.992" zpos="318.105" type="missions_de_guilde.courses.pagaie_quaggan.pieges.mines" GUID="zeZmia7jz06fAtfdr3poOQ=="/>
+		<POI MapID="30" xpos="-607.834" ypos="-215.282" zpos="328.919" type="missions_de_guilde.courses.pagaie_quaggan.pieges.mines" GUID="AUU0lj6UhEygFoAmBRcekg=="/>
+		<POI MapID="30" xpos="-607.436" ypos="-217.404" zpos="52.064"  type="missions_de_guilde.courses.pagaie_quaggan.pieges.mines" GUID="lY7pcqGP7EOKec812aU8Fg=="/>
+		<POI MapID="30" xpos="-606.907" ypos="-214.891" zpos="353.578" type="missions_de_guilde.courses.pagaie_quaggan.pieges.mines" GUID="Bo2qJs5iCkuqLH0Q4xkgxg=="/>
+		<POI MapID="30" xpos="-606.055" ypos="-213.992" zpos="60.3058" type="missions_de_guilde.courses.pagaie_quaggan.pieges.mines" GUID="Jwb5O3skSUGQMdUgPB4wDA=="/>
+		<POI MapID="30" xpos="-605.938" ypos="-211.647" zpos="370.423" type="missions_de_guilde.courses.pagaie_quaggan.pieges.mines" GUID="wOr41ECzRU6jzkxQsnVUfw=="/>
+		<POI MapID="30" xpos="-605.386" ypos="-211.536" zpos="328.266" type="missions_de_guilde.courses.pagaie_quaggan.pieges.mines" GUID="EBiN8BGOKk+bzfVpZ/3kFw=="/>
+		<POI MapID="30" xpos="-605.262" ypos="-222.27"  zpos="324.848" type="missions_de_guilde.courses.pagaie_quaggan.pieges.mines" GUID="20TeKh0+7E6j4M7Sr+vk+A=="/>
+		<POI MapID="30" xpos="-602.079" ypos="-214.634" zpos="366.15"  type="missions_de_guilde.courses.pagaie_quaggan.pieges.mines" GUID="CBVB7F19r0OHBZrcJu4Ulw=="/>
+		<POI MapID="30" xpos="-601.549" ypos="-208.763" zpos="383.401" type="missions_de_guilde.courses.pagaie_quaggan.pieges.mines" GUID="RQgWw/HzHEO5MWst04UKXQ=="/>
+		<POI MapID="30" xpos="-600.554" ypos="-218.277" zpos="379.069" type="missions_de_guilde.courses.pagaie_quaggan.pieges.mines" GUID="LZ/KdseOjkqPOqfGWMSviA=="/>
+		<POI MapID="30" xpos="-599.676" ypos="-222.792" zpos="357.466" type="missions_de_guilde.courses.pagaie_quaggan.pieges.mines" GUID="nlSpM7bs+0Cur+zGkiN2Cw=="/>
+		<POI MapID="30" xpos="-599.399" ypos="-225.891" zpos="383.195" type="missions_de_guilde.courses.pagaie_quaggan.pieges.mines" GUID="aaBIrB3sukqznVPgetZT0Q=="/>
+		<POI MapID="30" xpos="-598.337" ypos="-211.962" zpos="370.475" type="missions_de_guilde.courses.pagaie_quaggan.pieges.mines" GUID="ac0MemJqdEC9dVMiSudMcw=="/>
+		<POI MapID="30" xpos="-598.091" ypos="-214.566" zpos="365.629" type="missions_de_guilde.courses.pagaie_quaggan.pieges.mines" GUID="9RHmIoLOGUi4559eIDmoZA=="/>
+		<POI MapID="30" xpos="-597.599" ypos="-216.276" zpos="346.112" type="missions_de_guilde.courses.pagaie_quaggan.pieges.mines" GUID="HjsoMn2jqE6v6bJ8htB02Q=="/>
+		<POI MapID="30" xpos="-597.506" ypos="-210.398" zpos="398.935" type="missions_de_guilde.courses.pagaie_quaggan.pieges.mines" GUID="IErF/f7RpkKo0J2IS83PAQ=="/>
+		<POI MapID="30" xpos="-597.168" ypos="-218.426" zpos="398.969" type="missions_de_guilde.courses.pagaie_quaggan.pieges.mines" GUID="EGWYBTLUrUGULE+EiTPGJw=="/>
+		<POI MapID="30" xpos="-595.095" ypos="-222.236" zpos="388.341" type="missions_de_guilde.courses.pagaie_quaggan.pieges.mines" GUID="/cg8SVqXP0KbKZJ0LvCbEQ=="/>
+		<POI MapID="30" xpos="-594.569" ypos="-213.61"  zpos="395.998" type="missions_de_guilde.courses.pagaie_quaggan.pieges.mines" GUID="qTSDFr52W0eN4/coM3Q6LQ=="/>
+		<POI MapID="30" xpos="-594.269" ypos="-229.13"  zpos="368.009" type="missions_de_guilde.courses.pagaie_quaggan.pieges.mines" GUID="NW2PUQNQjUyyQCedIHjKDw=="/>
+		<POI MapID="30" xpos="-594.215" ypos="-213.222" zpos="368.232" type="missions_de_guilde.courses.pagaie_quaggan.pieges.mines" GUID="I1po6swWNEKz+fVOQDa5og=="/>
+		<POI MapID="30" xpos="-593.842" ypos="-214.215" zpos="377.489" type="missions_de_guilde.courses.pagaie_quaggan.pieges.mines" GUID="FNHJgtbjHk2+HwLP8BE/dA=="/>
+		<POI MapID="30" xpos="-592.879" ypos="-223.446" zpos="358.266" type="missions_de_guilde.courses.pagaie_quaggan.pieges.mines" GUID="nf6iky02jk6sPQkcLAOLPg=="/>
+		<POI MapID="30" xpos="-591.259" ypos="-214.952" zpos="409.266" type="missions_de_guilde.courses.pagaie_quaggan.pieges.mines" GUID="9piePrUOvkWDZG6t+o2Qug=="/>
+		<POI MapID="30" xpos="-588.095" ypos="-218.506" zpos="404.909" type="missions_de_guilde.courses.pagaie_quaggan.pieges.mines" GUID="ENBRFoSm+ECjBWAkunTXpA=="/>
+		<POI MapID="30" xpos="-586.814" ypos="-213.679" zpos="389.711" type="missions_de_guilde.courses.pagaie_quaggan.pieges.mines" GUID="/OJ41iX1W0GkQhsL4RcXbw=="/>
+		<POI MapID="30" xpos="-586.446" ypos="-220.07"  zpos="389.951" type="missions_de_guilde.courses.pagaie_quaggan.pieges.mines" GUID="Re66CM0TAk6DhFq8dyaN5A=="/>
+		<POI MapID="30" xpos="-586.288" ypos="-231.741" zpos="431.569" type="missions_de_guilde.courses.pagaie_quaggan.pieges.mines" GUID="ZI9ZzEU/TkCCKepul2U3FQ=="/>
+		<POI MapID="30" xpos="-583.733" ypos="-222.246" zpos="432.939" type="missions_de_guilde.courses.pagaie_quaggan.pieges.mines" GUID="a4TWbYhnJUaQsGe+LKqkOw=="/>
+		<POI MapID="30" xpos="-583.573" ypos="-213.022" zpos="432.708" type="missions_de_guilde.courses.pagaie_quaggan.pieges.mines" GUID="5kRXAOaao0yhDGwIeKgb9Q=="/>
+		<POI MapID="30" xpos="-580.418" ypos="-216.439" zpos="422.936" type="missions_de_guilde.courses.pagaie_quaggan.pieges.mines" GUID="gwQVK5mzCE6Ue0QifnsKpA=="/>
+		<POI MapID="30" xpos="-579.486" ypos="-203.349" zpos="442.72"  type="missions_de_guilde.courses.pagaie_quaggan.pieges.mines" GUID="cUWqQhxwnkOdjDs/YlZ+dQ=="/>
+		<POI MapID="30" xpos="-576.995" ypos="-213.688" zpos="438.678" type="missions_de_guilde.courses.pagaie_quaggan.pieges.mines" GUID="evVowioHC0q61Jp8vPf8qQ=="/>
+		<POI MapID="30" xpos="-575.022" ypos="-221.125" zpos="439.045" type="missions_de_guilde.courses.pagaie_quaggan.pieges.mines" GUID="lFdKrimnsUaRJ8cJjZHcww=="/>
+		<POI MapID="30" xpos="-574.477" ypos="-205.592" zpos="443.256" type="missions_de_guilde.courses.pagaie_quaggan.pieges.mines" GUID="rIiIDEDwa0eDyxFjxd3xpA=="/>
+
+		<!-- Cheminées -->
+		<POI MapID="30" xpos="-683.71" ypos="-195" zpos="182.75" type="missions_de_guilde.courses.pagaie_quaggan.pieges.cheminees" GUID="NbrTUEEvYEGqDzmbT74r1w=="/>
+		<POI MapID="30" xpos="-683.71" ypos="-200" zpos="182.75" type="missions_de_guilde.courses.pagaie_quaggan.pieges.cheminees" GUID="XV3EXftbK0aZ2qqHmNcrqQ=="/>
+		<POI MapID="30" xpos="-683.71" ypos="-205" zpos="182.75" type="missions_de_guilde.courses.pagaie_quaggan.pieges.cheminees" GUID="EHLDsrMvt0KT9TmZzwhGUQ=="/>
+		<POI MapID="30" xpos="-683.71" ypos="-210" zpos="182.75" type="missions_de_guilde.courses.pagaie_quaggan.pieges.cheminees" GUID="vEdbKtl7QESl9ZB5GxLIEQ=="/>
+		<POI MapID="30" xpos="-683.71" ypos="-215" zpos="182.75" type="missions_de_guilde.courses.pagaie_quaggan.pieges.cheminees" GUID="ikxVlfES9EadC8l4XZBDEg=="/>
+		<POI MapID="30" xpos="-683.71" ypos="-220" zpos="182.58" type="missions_de_guilde.courses.pagaie_quaggan.pieges.cheminees" GUID="Ec9XcLkItkix9SS8dU5T4Q=="/>
+		<POI MapID="30" xpos="-671.31" ypos="-195" zpos="172.19" type="missions_de_guilde.courses.pagaie_quaggan.pieges.cheminees" GUID="9ouviLz5oEGC0//gCnqeYg=="/>
+		<POI MapID="30" xpos="-671.31" ypos="-200" zpos="172.19" type="missions_de_guilde.courses.pagaie_quaggan.pieges.cheminees" GUID="A4j6wRWB7U+WjJLe81ZTdg=="/>
+		<POI MapID="30" xpos="-671.31" ypos="-205" zpos="172.19" type="missions_de_guilde.courses.pagaie_quaggan.pieges.cheminees" GUID="i+Iv7LxYSkyONhj7AXwHTg=="/>
+		<POI MapID="30" xpos="-671.31" ypos="-210" zpos="172.19" type="missions_de_guilde.courses.pagaie_quaggan.pieges.cheminees" GUID="Zj3D+7fnBUueJX4WctW5IQ=="/>
+		<POI MapID="30" xpos="-671.31" ypos="-215" zpos="172.19" type="missions_de_guilde.courses.pagaie_quaggan.pieges.cheminees" GUID="2w0f1IhOs0K7RwDoqaAj2Q=="/>
+		<POI MapID="30" xpos="-671.31" ypos="-220" zpos="172.19" type="missions_de_guilde.courses.pagaie_quaggan.pieges.cheminees" GUID="HGkCsw7T4U6WnSomo+uU7A=="/>
+		<POI MapID="30" xpos="-671.31" ypos="-225" zpos="172.19" type="missions_de_guilde.courses.pagaie_quaggan.pieges.cheminees" GUID="BR2m5oUHX0Sj1ZYuAgYe4g=="/>
+		<POI MapID="30" xpos="-553.36" ypos="-195" zpos="28.79"  type="missions_de_guilde.courses.pagaie_quaggan.pieges.cheminees" GUID="gf+oM3jT40eEwnJdIsqNIg=="/>
+		<POI MapID="30" xpos="-553.36" ypos="-200" zpos="28.79"  type="missions_de_guilde.courses.pagaie_quaggan.pieges.cheminees" GUID="GpJLhDnDAEiKEDwRIZ7PWw=="/>
+		<POI MapID="30" xpos="-553.36" ypos="-205" zpos="28.79"  type="missions_de_guilde.courses.pagaie_quaggan.pieges.cheminees" GUID="E+IZZleH2E2+wMJuBa8RpA=="/>
+		<POI MapID="30" xpos="-553.36" ypos="-210" zpos="28.79"  type="missions_de_guilde.courses.pagaie_quaggan.pieges.cheminees" GUID="8XnKhBRshE621UsjRfiA+w=="/>
+		<POI MapID="30" xpos="-553.36" ypos="-215" zpos="28.79"  type="missions_de_guilde.courses.pagaie_quaggan.pieges.cheminees" GUID="SOnG2MwNkUKiTE5NvxaKdQ=="/>
+		<POI MapID="30" xpos="-553.36" ypos="-220" zpos="28.79"  type="missions_de_guilde.courses.pagaie_quaggan.pieges.cheminees" GUID="4m0SndSBfESmRUlDeoEoSg=="/>
+		<POI MapID="30" xpos="-537.67" ypos="-200" zpos="24.85"  type="missions_de_guilde.courses.pagaie_quaggan.pieges.cheminees" GUID="4fjHuvkO10Co4i39X1YXSQ=="/>
+		<POI MapID="30" xpos="-537.67" ypos="-205" zpos="24.85"  type="missions_de_guilde.courses.pagaie_quaggan.pieges.cheminees" GUID="ejOoq2ACwEuQ5coKkMeGnw=="/>
+		<POI MapID="30" xpos="-537.67" ypos="-210" zpos="24.85"  type="missions_de_guilde.courses.pagaie_quaggan.pieges.cheminees" GUID="vOaz3BLCFEWYODZJwYdlHg=="/>
+		<POI MapID="30" xpos="-537.67" ypos="-215" zpos="24.85"  type="missions_de_guilde.courses.pagaie_quaggan.pieges.cheminees" GUID="baxbUGOUiEi4DKyXS3wZqQ=="/>
+		<POI MapID="30" xpos="-537.67" ypos="-220" zpos="24.85"  type="missions_de_guilde.courses.pagaie_quaggan.pieges.cheminees" GUID="I+lGiSgL9kmWxRdNzFR5Zg=="/>
+		<POI MapID="30" xpos="-537.67" ypos="-225" zpos="24.85"  type="missions_de_guilde.courses.pagaie_quaggan.pieges.cheminees" GUID="XBFYF0nr7EmowpAJvJirxQ=="/>
+
+		<!-- Guivre Championne -->
+		<POI MapID="30" xpos="-579.297" ypos="-235.933" zpos="439.515" type="missions_de_guilde.courses.pagaie_quaggan.pieges" GUID="EGNynFb0qkWCcDB23ioXDw==" iconFile="Img\Danger.png" iconSize="1.5"/>
+
+	</POIs>
+</OverlayData>

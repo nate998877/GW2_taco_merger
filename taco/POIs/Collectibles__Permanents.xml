@@ -1,0 +1,573 @@
+<!-- 2020.06.18 -->
+<OverlayData>
+	<POIs>
+
+		<!--
+		#################
+		CHESTS PERMANENTS
+		#################
+		-->
+
+		<POI MapID="15"   xpos="-913.993" ypos="52.0699"   zpos="-193.123"  type="collectibles.chests_permanents" GUID="0/zPs0g6Ak2S3NZ1GtcTFQ=="/>
+		<POI MapID="15"   xpos="-458.51"  ypos="16.7428"   zpos="21.7384"   type="collectibles.chests_permanents" GUID="iPWerPkt4E6nr96ODWfMZg=="/>
+		<POI MapID="15"   xpos="748.985"  ypos="92.007"    zpos="-162.733"  type="collectibles.chests_permanents" GUID="KLIsp4Pi3EGOWIBhJmfLqQ=="/>
+		<POI MapID="15"   xpos="1051.95"  ypos="47.6339"   zpos="-446.995"  type="collectibles.chests_permanents" GUID="6NKWs9RSxUSXLXrhIguWxg==" iconFile="Img/Icons/Bag.png" heightOffset="0"/>
+		<POI MapID="15"   xpos="1058.61"  ypos="59.6303"   zpos="-433.872"  type="collectibles.chests_permanents" GUID="fooBbzvb2UiSytmj/gloIA=="/>
+		<POI MapID="15"   xpos="1083.43"  ypos="49.988"    zpos="-416.14"   type="collectibles.chests_permanents" GUID="KOVvIJSKGEK9FuyzUbPuyA=="/>
+
+		<POI MapID="17"   xpos="-901.308" ypos="125.794"   zpos="-128.44"   type="collectibles.chests_permanents" GUID="TLjOLrS+okWSyZNSG6sndA=="/>
+		<POI MapID="17"   xpos="76.9494"  ypos="71.8125"   zpos="572.016"   type="collectibles.chests_permanents" GUID="0stXRoRn2k2Re96MHNZJsA=="/>
+		<POI MapID="17"   xpos="326.633"  ypos="127.33"    zpos="817.744"   type="collectibles.chests_permanents" GUID="cwRck4DBL0Sq4CUbICOPlA=="/>
+		<POI MapID="17"   xpos="352.642"  ypos="52.5129"   zpos="-232.336"  type="collectibles.chests_permanents" GUID="8PGmMNltOkOM2UhI8GtTng=="/>
+		<POI MapID="17"   xpos="376.772"  ypos="64.528"    zpos="354.748"   type="collectibles.chests_permanents" GUID="I6aSNgxQVkCi1ljkYWTMeA=="/>
+		<POI MapID="17"   xpos="411.658"  ypos="0.09"      zpos="257.437"   type="collectibles.chests_permanents" GUID="SsctAW+X+k6SyO9FHIiaAQ=="/>
+		<POI MapID="17"   xpos="716.333"  ypos="72.6553"   zpos="-54.6445"  type="collectibles.chests_permanents" GUID="QMdXIvmhW0qVuBWonlktwA=="/>
+		<POI MapID="17"   xpos="819.489"  ypos="93.9872"   zpos="-128.809"  type="collectibles.chests_permanents" GUID="4s9eyV6U1k23hUQ+3X45/Q=="/>
+
+		<POI MapID="19"   xpos="-1085.93" ypos="39.5101"   zpos="-324.701"  type="collectibles.chests_permanents" GUID="npK/qKy3xkSbtgcIdvNonQ=="/>
+		<POI MapID="19"   xpos="-619.302" ypos="4.13214"   zpos="79.4553"   type="collectibles.chests_permanents" GUID="j9pFwO2NjEC6xC1QFV4U/A=="/>
+		<POI MapID="19"   xpos="-463.453" ypos="29.5183"   zpos="543.678"   type="collectibles.chests_permanents" GUID="Sj12CsK8i0SfVBhdQ+SEFA=="/>
+		<POI MapID="19"   xpos="152.551"  ypos="81.7157"   zpos="549.491"   type="collectibles.chests_permanents" GUID="04GpihlodE+pYXXO3WEZJA=="/>
+		<POI MapID="19"   xpos="303.711"  ypos="0.537502"  zpos="-508.551"  type="collectibles.chests_permanents" GUID="OYfSAaV5DUiRpe0WpkTPPg=="/>
+		<POI MapID="19"   xpos="1212.15"  ypos="45.9195"   zpos="601.931"   type="collectibles.chests_permanents" GUID="cl7lsT3zoEGM/l/ATNszAw=="/>
+
+		<POI MapID="20"   xpos="-277.586" ypos="3.54657"   zpos="284.872"   type="collectibles.chests_permanents" GUID="4rHfbuHqi0KevcYPDiVLPA=="/>
+		<POI MapID="20"   xpos="-150.835" ypos="36.2926"   zpos="-910.84"   type="collectibles.chests_permanents" GUID="+5DpLoa7706Mb1I10hW52Q=="/>
+		<POI MapID="20"   xpos="-69.6068" ypos="63.9945"   zpos="638.628"   type="collectibles.chests_permanents" GUID="JcfuVNWY60miUA9JfJsifA=="/>
+
+		<POI MapID="21"   xpos="212.861"  ypos="17.6042"   zpos="827.923"   type="collectibles.chests_permanents" GUID="yTmLo0UG1kaEGjkQg6UkeQ=="/>
+
+		<POI MapID="22"   xpos="-956.758" ypos="74.1792"   zpos="-646.975"  type="collectibles.chests_permanents" GUID="+WUgNFBeakO8qznH9oETMA=="/>
+		<POI MapID="22"   xpos="-427.394" ypos="58.9962"   zpos="-751.182"  type="collectibles.chests_permanents" GUID="vrCGVLPRaE6Kx7dz1Y5LHg=="/>
+		<POI MapID="22"   xpos="-190.486" ypos="63.8047"   zpos="604.051"   type="collectibles.chests_permanents" GUID="4Hb4esIgq02ZDZ/osRLvEw=="/>
+		<POI MapID="22"   xpos="337.715"  ypos="45.7845"   zpos="-518.529"  type="collectibles.chests_permanents" GUID="n086pHWIVkKRFFsX/7GxLg=="/>
+		<POI MapID="22"   xpos="896.195"  ypos="15.2533"   zpos="-12.2806"  type="collectibles.chests_permanents" GUID="veLe5IqR4EKb1SLkWRbkiQ=="/>
+
+		<POI MapID="23"   xpos="-33.2599" ypos="43.767"    zpos="557.89"    type="collectibles.chests_permanents" GUID="1FWDJMcI80GX0/Qi8GPzig=="/>
+
+		<POI MapID="24"   xpos="-568.773" ypos="48.326"    zpos="394.575"   type="collectibles.chests_permanents" GUID="ZFOYRQoL6EGonZdyFSA04w=="/>
+		<POI MapID="24"   xpos="452.784"  ypos="0.424439"  zpos="354.416"   type="collectibles.chests_permanents" GUID="H8m66yjTIUmvalMcprNt3g=="/>
+		<POI MapID="24"   xpos="785.152"  ypos="61.7504"   zpos="425.14"    type="collectibles.chests_permanents" GUID="thg7RORXekOyrRxWTupkGw=="/>
+
+		<POI MapID="25"   xpos="-566.044" ypos="79.6215"   zpos="-1076.42"  type="collectibles.chests_permanents" GUID="wv9RB/h5mE6TkP1GqInQjg=="/>
+		<POI MapID="25"   xpos="326.604"  ypos="-118.2"    zpos="172.285"   type="collectibles.chests_permanents" GUID="mD28N+wgJU2GKwAhAyaccg=="/>
+		<POI MapID="25"   xpos="595.234"  ypos="0.988941"  zpos="-893.699"  type="collectibles.chests_permanents" GUID="2lreN/+WSkG/mCM5R4jONA=="/>
+
+		<POI MapID="26"   xpos="-488.236" ypos="93.0275"   zpos="111.302"   type="collectibles.chests_permanents" GUID="uipzT2gLgki1V5jeVIVx6g=="/>
+		<POI MapID="26"   xpos="-417.569" ypos="84.9936"   zpos="818.237"   type="collectibles.chests_permanents" GUID="IGGy9as45U+Czn9CfF82fw=="/>
+		<POI MapID="26"   xpos="-320.239" ypos="110.637"   zpos="-449.184"  type="collectibles.chests_permanents" GUID="t0xVMyhXqEGqeyypQb8yjA=="/>
+		<POI MapID="26"   xpos="-70.549"  ypos="148.422"   zpos="-36.6593"  type="collectibles.chests_permanents" GUID="Pe6YQYwVz0yiMCUpq3+nLg=="/>
+		<POI MapID="26"   xpos="-2.68218" ypos="124.557"   zpos="-155.898"  type="collectibles.chests_permanents" GUID="Cwx5pxBgI0iX1/OhZ0qGtw=="/>
+
+		<POI MapID="27"   xpos="-391.338" ypos="92.3023"   zpos="805.528"   type="collectibles.chests_permanents" GUID="ywTWfYRQ2kajPiXcS7GLxA=="/>
+		<POI MapID="27"   xpos="337.432"  ypos="186.289"   zpos="832.04"    type="collectibles.chests_permanents" GUID="jXBlQ5CZA0eytFiE/DVKRA=="/>
+		<POI MapID="27"   xpos="478.705"  ypos="158.914"   zpos="-1279.02"  type="collectibles.chests_permanents" GUID="01qyKVDPr0Sj/dhdHxFnQw=="/>
+
+		<POI MapID="28"   xpos="-468.017" ypos="125.146"   zpos="-170.187"  type="collectibles.chests_permanents" GUID="8nplfWDVgEaan0HjP3wxSw=="/>
+		<POI MapID="28"   xpos="-83.796"  ypos="54.4911"   zpos="-1334.07"  type="collectibles.chests_permanents" GUID="IJx84xZ9LkK5HV02TxuZ5g=="/>
+		<POI MapID="28"   xpos="-20.9149" ypos="95.5002"   zpos="592.268"   type="collectibles.chests_permanents" GUID="/27UbvNmqE2BVuIAkyv0ow=="/>
+
+		<POI MapID="29"   xpos="-465.233" ypos="5.54319"   zpos="426.255"   type="collectibles.chests_permanents" GUID="ZiA7GqFlQkmcOPjDXKfSvA=="/>
+		<POI MapID="29"   xpos="329.63"   ypos="63.3248"   zpos="-534.48"   type="collectibles.chests_permanents" GUID="/B2l0HzChUWNzAcp7QE9mA=="/>
+
+		<POI MapID="30"   xpos="512.901"  ypos="10.2314"   zpos="144.512"   type="collectibles.chests_permanents" GUID="7LnsDbjCd0WSupmSL02DYA=="/>
+
+		<POI MapID="31"   xpos="-674.511" ypos="103.149"   zpos="539.911"   type="collectibles.chests_permanents" GUID="LXpl0C+04kS5Qib5yvQ7rA=="/>
+
+		<POI MapID="32"   xpos="345.125"  ypos="-64.3533"  zpos="577.56"    type="collectibles.chests_permanents" GUID="J5YVIAvvZ0CG+syJyq7uBA=="/>
+		<POI MapID="32"   xpos="470.466"  ypos="61.1344"   zpos="-111.932"  type="collectibles.chests_permanents" GUID="LlYNk+JuGU61eCZsI1fXkA=="/>
+
+		<POI MapID="35"   xpos="258.289"  ypos="36.3251"   zpos="470.501"   type="collectibles.chests_permanents" GUID="Qqt5tpppGE2KMiO3D5lAJA=="/>
+		<POI MapID="35"   xpos="560.668"  ypos="62.6071"   zpos="42.1722"   type="collectibles.chests_permanents" GUID="kV/Ez/uTtU2HC1tK8TiCcQ=="/>
+		<POI MapID="35"   xpos="588.726"  ypos="44.2368"   zpos="-380.521"  type="collectibles.chests_permanents" GUID="lxWU5y9XqUKfClEVkJwenw=="/>
+		<POI MapID="35"   xpos="678.36"   ypos="13.2194"   zpos="-780.263"  type="collectibles.chests_permanents" GUID="n6eiy9sqHkSvMEw6s3BN0Q=="/>
+
+		<POI MapID="39"   xpos="-102.903" ypos="77.6616"   zpos="-302.436"  type="collectibles.chests_permanents" GUID="YDdieWlIvESCtX8Pm8ODbA=="/>
+		<POI MapID="39"   xpos="552.397"  ypos="65.2783"   zpos="-234.887"  type="collectibles.chests_permanents" GUID="V+0jvh0N80yqRU840pDHAQ=="/>
+
+		<POI MapID="51"   xpos="-928.823" ypos="57.6086"   zpos="-260.467"  type="collectibles.chests_permanents" GUID="C3fk4Bgn0UqAiX6mXFxFhQ=="/>
+		<POI MapID="51"   xpos="-742.741" ypos="28.5612"   zpos="-13.679"   type="collectibles.chests_permanents" GUID="YD5Teq+yOEKHE1z04Qm/3A=="/>
+		<POI MapID="51"   xpos="-330.346" ypos="38.1252"   zpos="48.486"    type="collectibles.chests_permanents" GUID="Y5edLOanKUm+8GPl+UUhqw=="/>
+		<POI MapID="51"   xpos="-141.954" ypos="27.1615"   zpos="-671.411"  type="collectibles.chests_permanents" GUID="med70ZszxkmHgR2x+TqAeg=="/>
+		<POI MapID="51"   xpos="-125.575" ypos="37.2167"   zpos="-571.174"  type="collectibles.chests_permanents" GUID="kPhORvIyDESbeJpwaI1arA=="/>
+
+		<POI MapID="53"   xpos="-663.963" ypos="56.4938"   zpos="336.473"   type="collectibles.chests_permanents" GUID="D746VyoDo0WF8W5GGK/RbA=="/>
+		<POI MapID="53"   xpos="-658.572" ypos="0.84128"   zpos="-538.668"  type="collectibles.chests_permanents" GUID="8Tp/6EsRUk2KWsdE9xNfeg=="/>
+		<POI MapID="53"   xpos="-237.168" ypos="36.8835"   zpos="-432.603"  type="collectibles.chests_permanents" GUID="nDapla9s60OfA8a6fdQoVA=="/>
+		<POI MapID="53"   xpos="253.794"  ypos="52.3162"   zpos="994.493"   type="collectibles.chests_permanents" GUID="gijmx7Vx8kGpi+QttfBPsQ=="/>
+		<POI MapID="53"   xpos="280.45"   ypos="35.2993"   zpos="992.321"   type="collectibles.chests_permanents" GUID="TZ6rDLnqq0S7Of/jdhGyhA=="/>
+		<POI MapID="53"   xpos="608.822"  ypos="27.0461"   zpos="670.08"    type="collectibles.chests_permanents" GUID="54opZNX5QEivQlIM8S7xJQ=="/>
+		<POI MapID="53"   xpos="702.109"  ypos="69.2536"   zpos="-312.128"  type="collectibles.chests_permanents" GUID="a32KKqmvmEG7PiMHwMDNqw=="/>
+
+		<POI MapID="54"   xpos="101.74"   ypos="5.19526"   zpos="16.2889"   type="collectibles.chests_permanents" GUID="HeT+AAdkZ0ip8q8Yeco56g=="/>
+		<POI MapID="54"   xpos="419.814"  ypos="32.3016"   zpos="161.006"   type="collectibles.chests_permanents" GUID="sranfc5HzEuS3vBaR9NUYQ=="/>
+		<POI MapID="54"   xpos="425.979"  ypos="32.6922"   zpos="142.05"    type="collectibles.chests_permanents" GUID="DxnYggkxt0mxXCkWLXNN9A=="/>
+
+		<POI MapID="62"   xpos="484.816"  ypos="54.6342"   zpos="814.762"   type="collectibles.chests_permanents" GUID="ST4Wo/Tfq0qeF7Nt7JCTxA=="/>
+		<POI MapID="62"   xpos="-303.679" ypos="34.4136"   zpos="770.36"    type="collectibles.chests_permanents" GUID="bx7QQE01sUqlNaczYz57Rw=="/>
+		<POI MapID="62"   xpos="-130.442" ypos="58.9512"   zpos="-857.569"  type="collectibles.chests_permanents" GUID="OIxK9hZ7OkOzdoenv0UGOQ=="/>
+		<POI MapID="62"   xpos="274.935"  ypos="4.52896"   zpos="-944.895"  type="collectibles.chests_permanents" GUID="NSY1DH3hekeCrhbiZuw7Ug=="/>
+		<POI MapID="62"   xpos="303.82"   ypos="4.69556"   zpos="-58.1711"  type="collectibles.chests_permanents" GUID="qRPBzSyq/0yWMh6Lb41WgQ=="/>
+		<POI MapID="62"   xpos="413.284"  ypos="44.847"    zpos="958.996"   type="collectibles.chests_permanents" GUID="UweqG8lkuUy5UGnZYrY1Yw=="/>
+		<POI MapID="62"   xpos="484.816"  ypos="54.6342"   zpos="814.762"   type="collectibles.chests_permanents" GUID="x6SpwmjI1U6hhk2AqpR6aQ=="/>
+		<POI MapID="62"   xpos="552.142"  ypos="134.876"   zpos="-41.3619"  type="collectibles.chests_permanents" GUID="qgMs23t/JkqRuMBUk9KVGw=="/>
+
+		<POI MapID="65"   xpos="-1079.36" ypos="27.0613"   zpos="-280.415"  type="collectibles.chests_permanents" GUID="MqH8IYjjf0mguXzCNc3/uQ=="/>
+		<POI MapID="65"   xpos="-230.796" ypos="82.7271"   zpos="117.342"   type="collectibles.chests_permanents" GUID="bV7NK5K/nUOricAwYKmUHw=="/>
+		<POI MapID="65"   xpos="-14.5318" ypos="39.4586"   zpos="-332.113"  type="collectibles.chests_permanents" GUID="TyRHSijWWkGttHY3cAV5RQ=="/>
+		<POI MapID="65"   xpos="40.3569"  ypos="29.306"    zpos="-57.7233"  type="collectibles.chests_permanents" GUID="TkkY7d4MEkaxZhQZ+rYxqQ=="/>
+		<POI MapID="65"   xpos="708.359"  ypos="-6.22504"  zpos="-526.302"  type="collectibles.chests_permanents" GUID="cB3ZWH9HeUecIMULYcmibQ=="/>
+		<POI MapID="65"   xpos="1037.47"  ypos="-11.1442"  zpos="355.229"   type="collectibles.chests_permanents" GUID="N5h7HXC2OkSi/FFbeU8FbQ=="/>
+
+		<POI MapID="873"  xpos="-547.731" ypos="58.084"    zpos="298.259"   type="collectibles.chests_permanents" GUID="/M100EKTrE6csSelwdg0PQ=="/>
+
+		<POI MapID="988"  xpos="-138.356" ypos="43.1563"   zpos="-743.618"  type="collectibles.chests_permanents" GUID="BDxNlkxGyUOmDawlIzXMuA=="/>
+		<POI MapID="988"  xpos="165.531"  ypos="18.3966"   zpos="-559.581"  type="collectibles.chests_permanents" GUID="K7qlf6yOeUaQpY+Wfesa4g=="/>
+
+		<POI MapID="1043" xpos="-543.585" ypos="292.757"   zpos="175.027"   type="collectibles.chests_permanents" GUID="UZaPE/SzykObGqfgacRdhQ=="/>
+		<POI MapID="1043" xpos="-471.612" ypos="475.041"   zpos="491.817"   type="collectibles.chests_permanents" GUID="WQqeA3EuI0C9GyU8KjktYA=="/>
+		<POI MapID="1043" xpos="-442.56"  ypos="294.259"   zpos="-453.807"  type="collectibles.chests_permanents" GUID="epGErgiyPE6akQb6hIbHeg=="/>
+		<POI MapID="1043" xpos="-372.29"  ypos="331.625"   zpos="-360.317"  type="collectibles.chests_permanents" GUID="W2eJNyz+YEyL4Eb+5kkIcA=="/>
+		<POI MapID="1043" xpos="-275.042" ypos="324.383"   zpos="61.0509"   type="collectibles.chests_permanents" GUID="WRB+0FGP20q6JZBpZRKjLw=="/>
+		<POI MapID="1043" xpos="-173.977" ypos="324.566"   zpos="292.94"    type="collectibles.chests_permanents" GUID="sOMHD5p0F0+KmpcWuupFnQ=="/>
+		<POI MapID="1043" xpos="-69.2537" ypos="355.949"   zpos="455.652"   type="collectibles.chests_permanents" GUID="X5HdHee5EkCAbOM+QP9CrA=="/>
+		<POI MapID="1043" xpos="-45.1939" ypos="282.349"   zpos="-733.515"  type="collectibles.chests_permanents" GUID="iDV9twshhE+blgjMmKJYjA=="/>
+		<POI MapID="1043" xpos="78.4299"  ypos="271.268"   zpos="-627.271"  type="collectibles.chests_permanents" GUID="36eM9ny6iUuRTWmWtN/ZZA=="/>
+		<POI MapID="1043" xpos="171.91"   ypos="247.136"   zpos="-608.267"  type="collectibles.chests_permanents" GUID="DlgbJ1FZ/Uywqefhix/jUA=="/>
+		<POI MapID="1043" xpos="346.487"  ypos="291.414"   zpos="-314.812"  type="collectibles.chests_permanents" GUID="tER9p6I0SEqGgvmdoM1tkA=="/>
+		<POI MapID="1043" xpos="365.533"  ypos="374.764"   zpos="558.965"   type="collectibles.chests_permanents" GUID="nidJU3WlLUiMuHL6CdWzeg=="/>
+		<POI MapID="1043" xpos="384.774"  ypos="287.951"   zpos="-163.937"  type="collectibles.chests_permanents" GUID="8TBE3Br5OEqGQj/KyyJW9g=="/>
+		<POI MapID="1043" xpos="449.058"  ypos="314.235"   zpos="5.77384"   type="collectibles.chests_permanents" GUID="aj7MinuboU2cpy/qMbqSiQ=="/>
+		<POI MapID="1043" xpos="505.895"  ypos="363.541"   zpos="682.314"   type="collectibles.chests_permanents" GUID="zuJgDLGLl0uiK6MkVf02KA=="/>
+		<POI MapID="1043" xpos="583.097"  ypos="300.877"   zpos="88.025"    type="collectibles.chests_permanents" GUID="PPaFkLtLL0C552Ua+YgY9w=="/>
+
+		<POI MapID="1045" xpos="-891.512" ypos="87.39"     zpos="-26.5477"  type="collectibles.chests_permanents" GUID="072+BttzY06UzNom9+H8FQ=="/>
+		<POI MapID="1045" xpos="-865.848" ypos="64.4845"   zpos="-477.446"  type="collectibles.chests_permanents" GUID="ucNi0M805U2uncEYb9KF7g=="/>
+		<POI MapID="1045" xpos="-834.712" ypos="252.722"   zpos="-287.504"  type="collectibles.chests_permanents" GUID="G5nxA8y26E6PM8lqufIQIA=="/>
+		<POI MapID="1045" xpos="-656.964" ypos="184.129"   zpos="-69.6488"  type="collectibles.chests_permanents" GUID="oVBb3O7/f0qfI8mvKOGh7Q=="/>
+		<POI MapID="1045" xpos="-502.94"  ypos="281.614"   zpos="-298.053"  type="collectibles.chests_permanents" GUID="OpVeA68AVU+wxy5I5SscRw=="/>
+		<POI MapID="1045" xpos="-502.063" ypos="-137.913"  zpos="-86.2593"  type="collectibles.chests_permanents" GUID="DhvHd3gql0StI1Tj/m6IoA=="/>
+		<POI MapID="1045" xpos="-501.773" ypos="331.902"   zpos="76.0528"   type="collectibles.chests_permanents" GUID="fqzMtv3+rk2cTSap3e2AMA=="/>
+		<POI MapID="1045" xpos="-499.174" ypos="-4.42413"  zpos="112.83"    type="collectibles.chests_permanents" GUID="iv7tSFC+SkSkNaHuBekw0g=="/>
+		<POI MapID="1045" xpos="-431.422" ypos="329.643"   zpos="-26.9142"  type="collectibles.chests_permanents" GUID="Qp3W8BHBLUikpFQBqida4A=="/>
+		<POI MapID="1045" xpos="-429.462" ypos="329.632"   zpos="-22.4218"  type="collectibles.chests_permanents" GUID="3Wn4pewbfkC50Xg/lMPQXg=="/>
+		<POI MapID="1045" xpos="-402.725" ypos="168.79"    zpos="304.414"   type="collectibles.chests_permanents" GUID="fjXilxuphUS90dc+O62RSA=="/>
+		<POI MapID="1045" xpos="-331.09"  ypos="223.723"   zpos="-266.713"  type="collectibles.chests_permanents" GUID="3/AD6oimNUSAvtuT8goi2Q=="/>
+		<POI MapID="1045" xpos="-303.089" ypos="258.013"   zpos="-107.191"  type="collectibles.chests_permanents" GUID="uSbmRJ9SGk6r5lINwBbpgA=="/>
+		<POI MapID="1045" xpos="-226.293" ypos="302.459"   zpos="-381.261"  type="collectibles.chests_permanents" GUID="aLGxulYHY02mXXYHRIY/Mw=="/>
+		<POI MapID="1045" xpos="-213.133" ypos="233.789"   zpos="350.002"   type="collectibles.chests_permanents" GUID="XqduGm6CcEGsf67MYWGo+g=="/>
+		<POI MapID="1045" xpos="-90.8798" ypos="311.769"   zpos="-325.838"  type="collectibles.chests_permanents" GUID="IKL3wg6hFUqkNIA+2A6Nfg=="/>
+		<POI MapID="1045" xpos="401.174"  ypos="19.859"    zpos="-135.781"  type="collectibles.chests_permanents" GUID="JivaWtyKMkCXQ7ZRqRQKGw=="/>
+		<POI MapID="1045" xpos="402.369"  ypos="2.28943"   zpos="563.344"   type="collectibles.chests_permanents" GUID="jZUHndtL+Uezmnb/StjBKA=="/>
+		<POI MapID="1045" xpos="601.228"  ypos="242.521"   zpos="-472.243"  type="collectibles.chests_permanents" GUID="N1hnydEMTEuzNNjQRF5+IA=="/>
+
+		<POI MapID="1178" xpos="-744.562" ypos="0.231929"  zpos="-171.612"  type="collectibles.chests_permanents" GUID="5KRAAeghW0qHirR43vUVoQ=="/>
+		<POI MapID="1178" xpos="-738.058" ypos="0.157903"  zpos="-335.423"  type="collectibles.chests_permanents" GUID="z0mSeJP16k6LNVTlydqDHA=="/>
+		<POI MapID="1178" xpos="-734.331" ypos="36.7942"   zpos="-69.5414"  type="collectibles.chests_permanents" GUID="jfYdqEF6YUCPRPQ4mIoWqg=="/>
+		<POI MapID="1178" xpos="-668.743" ypos="113.227"   zpos="183.204"   type="collectibles.chests_permanents" GUID="1jUbOrKtV0ixUa6egUXkQg=="/>
+		<POI MapID="1178" xpos="-667.029" ypos="1.07128"   zpos="-219.366"  type="collectibles.chests_permanents" GUID="/cWtJbxI3kuStToEPP5rPA=="/>
+		<POI MapID="1178" xpos="-652.048" ypos="58.4588"   zpos="279.608"   type="collectibles.chests_permanents" GUID="7+dSkJsTA0OD1nCDV2umnw=="/>
+		<POI MapID="1178" xpos="-639.115" ypos="1.32991"   zpos="-100.349"  type="collectibles.chests_permanents" GUID="z3vTRmGuUU2OAPnhPJOtSQ=="/>
+		<POI MapID="1178" xpos="-620.775" ypos="91.9973"   zpos="102.071"   type="collectibles.chests_permanents" GUID="rrIizUX8dEGl8GnNFyt3+A=="/>
+		<POI MapID="1178" xpos="-619.044" ypos="1.11218"   zpos="-54.2898"  type="collectibles.chests_permanents" GUID="hzQ1KoaRsU+rT+T6L1ViMg=="/>
+		<POI MapID="1178" xpos="-617.944" ypos="0.367782"  zpos="-139.949"  type="collectibles.chests_permanents" GUID="kTzjqdy0N06k7+IkaTIROg=="/>
+		<POI MapID="1178" xpos="-606.302" ypos="80.3701"   zpos="54.0234"   type="collectibles.chests_permanents" GUID="TgiNoX+rx0+n/MnqcOUHYQ=="/>
+		<POI MapID="1178" xpos="-600.012" ypos="0.233686"  zpos="-219.123"  type="collectibles.chests_permanents" GUID="212ho4L/XUyPWCBhdMY+mw=="/>
+		<POI MapID="1178" xpos="-583.159" ypos="0.189813"  zpos="-288.926"  type="collectibles.chests_permanents" GUID="AH7sZuCkfkeqNol+dPxABA=="/>
+		<POI MapID="1178" xpos="-558.681" ypos="0.156675"  zpos="-149.196"  type="collectibles.chests_permanents" GUID="00cPO4ldnkWR6UOmySJQcw=="/>
+		<POI MapID="1178" xpos="-544.234" ypos="1.02056"   zpos="-292.132"  type="collectibles.chests_permanents" GUID="xKV22QZBA0SPPbNzGL52Rw=="/>
+		<POI MapID="1178" xpos="-541.602" ypos="82.6539"   zpos="165.954"   type="collectibles.chests_permanents" GUID="lR8iU1wSaEm/U5dXvEK0Gg=="/>
+		<POI MapID="1178" xpos="-526.069" ypos="10.7354"   zpos="-200.349"  type="collectibles.chests_permanents" GUID="SybrO1UukEyMOLvp3sFr3w=="/>
+		<POI MapID="1178" xpos="-520.974" ypos="0.531205"  zpos="-241.803"  type="collectibles.chests_permanents" GUID="i2UR98YpgUGahrCUT86hHg=="/>
+		<POI MapID="1178" xpos="-516.051" ypos="15.516"    zpos="-334.462"  type="collectibles.chests_permanents" GUID="dZcMushISkS4Q73AnJr3kA=="/>
+		<POI MapID="1178" xpos="-482.04"  ypos="1.14321"   zpos="-98.2191"  type="collectibles.chests_permanents" GUID="4Qly/z99tE+vFMYylYs+UA=="/>
+		<POI MapID="1178" xpos="-480.51"  ypos="0.0569342" zpos="-184.225"  type="collectibles.chests_permanents" GUID="MilORUwwdUCLgRzbuxn2Jg=="/>
+		<POI MapID="1178" xpos="-470.04"  ypos="92.309"    zpos="40.8337"   type="collectibles.chests_permanents" GUID="OLJu1GIMZk+TWyjBhVyQ1A=="/>
+		<POI MapID="1178" xpos="-463.051" ypos="96.8904"   zpos="-27.5607"  type="collectibles.chests_permanents" GUID="cA99TzzU+UKhFLZxJDFQRA=="/>
+		<POI MapID="1178" xpos="-371.873" ypos="27.2603"   zpos="-7.71656"  type="collectibles.chests_permanents" GUID="iQvXEn0zD0K6yAV0TYtqzQ=="/>
+		<POI MapID="1178" xpos="-359.876" ypos="99.1187"   zpos="175.577"   type="collectibles.chests_permanents" GUID="Q6aDdrezuk6j1ais2FyL1A=="/>
+		<POI MapID="1178" xpos="-353.316" ypos="34.0122"   zpos="59.0665"   type="collectibles.chests_permanents" GUID="LVLRbrPet0KIgX27S9zZUQ=="/>
+		<POI MapID="1178" xpos="-297.124" ypos="116.635"   zpos="297.8"     type="collectibles.chests_permanents" GUID="1NwP/37oREKiaqT6gG1oag=="/>
+		<POI MapID="1178" xpos="-292.103" ypos="1.34749"   zpos="-53.8723"  type="collectibles.chests_permanents" GUID="FxgGCYnSaEGI09TSFZFCXg=="/>
+		<POI MapID="1178" xpos="-271.711" ypos="95.7983"   zpos="241.413"   type="collectibles.chests_permanents" GUID="ojA/9o+qTUO3QxuzteW/fw=="/>
+		<POI MapID="1178" xpos="-266.359" ypos="0.583615"  zpos="28.3183"   type="collectibles.chests_permanents" GUID="IodjdbUOK0KC+Au8WCAKnQ=="/>
+		<POI MapID="1178" xpos="-256.019" ypos="0.750632"  zpos="-112.52"   type="collectibles.chests_permanents" GUID="M7LZGSWKmkeK3Gtii4K50g=="/>
+		<POI MapID="1178" xpos="-217.407" ypos="0.42026"   zpos="2.7443"    type="collectibles.chests_permanents" GUID="9HF9zby7p0mQqCXMOG1thA=="/>
+		<POI MapID="1178" xpos="-178.84"  ypos="1.34107"   zpos="38.9629"   type="collectibles.chests_permanents" GUID="RH+In25FJUSUZknkOvIX3g=="/>
+		<POI MapID="1178" xpos="-146.495" ypos="1.50266"   zpos="78.3374"   type="collectibles.chests_permanents" GUID="3wNnn/jWm0iZm7Ny/Th0pQ=="/>
+		<POI MapID="1178" xpos="-145.92"  ypos="0.621948"  zpos="-129.086"  type="collectibles.chests_permanents" GUID="ZvjS5/lymUqgVD7QYpvCSQ=="/>
+		<POI MapID="1178" xpos="-134.022" ypos="0.534671"  zpos="-54.2587"  type="collectibles.chests_permanents" GUID="whAbXmaBF0m8uGK5rITOeA=="/>
+		<POI MapID="1178" xpos="-117.704" ypos="1.48972"   zpos="-0.829434" type="collectibles.chests_permanents" GUID="61GKc4iqEU2logsAt/GoLA=="/>
+		<POI MapID="1178" xpos="-117.692" ypos="1.41849"   zpos="-170.764"  type="collectibles.chests_permanents" GUID="xBNWhY491UCEa7VW3T2Acg=="/>
+		<POI MapID="1178" xpos="-95.5671" ypos="58.0038"   zpos="-334.206"  type="collectibles.chests_permanents" GUID="BOXleG5fM022snkCG0GNtA=="/>
+		<POI MapID="1178" xpos="-91.4044" ypos="1.38489"   zpos="-129.804"  type="collectibles.chests_permanents" GUID="U+pMGM1nI0GnNvlow+JUwQ=="/>
+		<POI MapID="1178" xpos="-74.6626" ypos="1.81802"   zpos="101.12"    type="collectibles.chests_permanents" GUID="f2kxyyKDGEWWjYuMwThClA=="/>
+		<POI MapID="1178" xpos="-55.3495" ypos="1.39896"   zpos="-228.455"  type="collectibles.chests_permanents" GUID="vBxRirVgxk61lkmcRkLwNQ=="/>
+		<POI MapID="1178" xpos="-29.5641" ypos="1.7455"    zpos="52.7713"   type="collectibles.chests_permanents" GUID="NNnfp2+LKECq0J08q4z2vA=="/>
+		<POI MapID="1178" xpos="-26.2461" ypos="2.27364"   zpos="361.913"   type="collectibles.chests_permanents" GUID="eU9PSJWBcEqjLw8PL4VBlQ=="/>
+		<POI MapID="1178" xpos="-22.7253" ypos="0.679923"  zpos="-176.506"  type="collectibles.chests_permanents" GUID="4gBni94GHUCDBqLcX+znOA=="/>
+		<POI MapID="1178" xpos="-6.59739" ypos="1.4932"    zpos="-270.782"  type="collectibles.chests_permanents" GUID="qngXOkB3XUuOVALnnWBqyg=="/>
+		<POI MapID="1178" xpos="2.91959"  ypos="3.31476"   zpos="-315.454"  type="collectibles.chests_permanents" GUID="TT6Ll7Iyqkeihh1eA9cJtA=="/>
+		<POI MapID="1178" xpos="3.24849"  ypos="-94.6764"  zpos="-92.1333"  type="collectibles.chests_permanents" GUID="M1Ss/XhfrU+zfkizYvu38g=="/>
+		<POI MapID="1178" xpos="11.2808"  ypos="1.39982"   zpos="-208.645"  type="collectibles.chests_permanents" GUID="fv33ITjZa0yRnD/V6lcdpQ=="/>
+		<POI MapID="1178" xpos="16.60"    ypos="45.95"     zpos="-103.38"   type="collectibles.chests_permanents" GUID="e2zdtcJMDESGyJY73B8ewQ=="/>
+		<POI MapID="1178" xpos="14.6275"  ypos="-152.215"  zpos="-81.9368"  type="collectibles.chests_permanents" GUID="aGxr8Bzx4kmNPBoNXSqvxg=="/>
+		<POI MapID="1178" xpos="31.8696"  ypos="0.485661"  zpos="-45.6903"  type="collectibles.chests_permanents" GUID="XRFHy8U8Ukq68XKxSataLg=="/>
+		<POI MapID="1178" xpos="37.5387"  ypos="2.17331"   zpos="-4.80004"  type="collectibles.chests_permanents" GUID="qIWEUbzUk0KQpEyAPcklPA=="/>
+		<POI MapID="1178" xpos="50.782"   ypos="0.786082"  zpos="-261.773"  type="collectibles.chests_permanents" GUID="j/CJqz6x1U6gQxDK4x8AkQ=="/>
+		<POI MapID="1178" xpos="75.8704"  ypos="1.29897"   zpos="-154.342"  type="collectibles.chests_permanents" GUID="EGEE1XYm3E6JC6iOhjrxuw=="/>
+		<POI MapID="1178" xpos="80.183"   ypos="1.08107"   zpos="-181.024"  type="collectibles.chests_permanents" GUID="STjogYWjXUKMt23S9A/ejw=="/>
+		<POI MapID="1178" xpos="96.3231"  ypos="1.39665"   zpos="-237.458"  type="collectibles.chests_permanents" GUID="c2Sdw2wGXE2+WvotdjOZaQ=="/>
+		<POI MapID="1178" xpos="118.649"  ypos="1.38173"   zpos="-157.02"   type="collectibles.chests_permanents" GUID="meiiFz2WQkWduvRXkoaCRg=="/>
+		<POI MapID="1178" xpos="122.46"   ypos="1.48087"   zpos="-16.9291"  type="collectibles.chests_permanents" GUID="YctECCwNEkC+CTWEnC3iEw=="/>
+		<POI MapID="1178" xpos="147.62"   ypos="16.4745"   zpos="415.475"   type="collectibles.chests_permanents" GUID="HZGxNeseI0WnYkV1I29z8g=="/>
+		<POI MapID="1178" xpos="162.625"  ypos="2.85925"   zpos="-127.11"   type="collectibles.chests_permanents" GUID="kCzp4mTyokKd7wYAVEp6XA=="/>
+		<POI MapID="1178" xpos="174.771"  ypos="0.634149"  zpos="-175.816"  type="collectibles.chests_permanents" GUID="A8A6buf16UmGCRKemQ0DbQ=="/>
+		<POI MapID="1178" xpos="178.999"  ypos="2.03239"   zpos="-206.557"  type="collectibles.chests_permanents" GUID="i17A2+iLU0S12uHIqq1xwA=="/>
+		<POI MapID="1178" xpos="179.343"  ypos="1.3199"    zpos="12.9594"   type="collectibles.chests_permanents" GUID="qpfd+QkXrUioTBEyo/0zPg=="/>
+		<POI MapID="1178" xpos="186.854"  ypos="1.28571"   zpos="-43.033"   type="collectibles.chests_permanents" GUID="7t9idWNzTEq3FEAB0I4sNA=="/>
+		<POI MapID="1178" xpos="191.962"  ypos="1.30561"   zpos="-91.1302"  type="collectibles.chests_permanents" GUID="7CpBn34UcEalQuAgDi/7yQ=="/>
+		<POI MapID="1178" xpos="200.392"  ypos="1.24736"   zpos="-140.494"  type="collectibles.chests_permanents" GUID="Zq66e81Z0UqyZ9PPerow+g=="/>
+		<POI MapID="1178" xpos="218.375"  ypos="10.1612"   zpos="-249.099"  type="collectibles.chests_permanents" GUID="Qs7DL5xOlUmeMX4YAkpMkA=="/>
+		<POI MapID="1178" xpos="243.234"  ypos="1.34327"   zpos="-54.1603"  type="collectibles.chests_permanents" GUID="5ckytp79m0qTOgyRuvKqGA=="/>
+		<POI MapID="1178" xpos="248.863"  ypos="3.99969"   zpos="97.9267"   type="collectibles.chests_permanents" GUID="fIhRL2ViSU+ureNPxxd+Pg=="/>
+		<POI MapID="1178" xpos="264.785"  ypos="2.79425"   zpos="-153.121"  type="collectibles.chests_permanents" GUID="agjQu2C6x0WegFyNoe8rYg=="/>
+		<POI MapID="1178" xpos="287.186"  ypos="1.63429"   zpos="-75.29"    type="collectibles.chests_permanents" GUID="0k5Gjtq4s0SLG/mnyq6vHw=="/>
+		<POI MapID="1178" xpos="295.482"  ypos="1.51993"   zpos="-11.0079"  type="collectibles.chests_permanents" GUID="41fN/KA8SkyVnJnPWPSoXA=="/>
+		<POI MapID="1178" xpos="298.056"  ypos="1.472"     zpos="91.0142"   type="collectibles.chests_permanents" GUID="FtOIKNdBKk6oYYnsiG7nHw=="/>
+		<POI MapID="1178" xpos="327.176"  ypos="0.820385"  zpos="44.3132"   type="collectibles.chests_permanents" GUID="FcxnsqOUjE6Q77rNTLvxLA=="/>
+		<POI MapID="1178" xpos="342.913"  ypos="1.58131"   zpos="-20.8186"  type="collectibles.chests_permanents" GUID="TpqwxbEaPkSsXWEKXCRu/w=="/>
+		<POI MapID="1178" xpos="346.213"  ypos="0.926121"  zpos="58.3155"   type="collectibles.chests_permanents" GUID="govviD60AE+BCnCLsH9/qA=="/>
+		<POI MapID="1178" xpos="400.66"   ypos="11.3503"   zpos="106.464"   type="collectibles.chests_permanents" GUID="4W74HB9gvkO9lj8tzIyIgA=="/>
+		<POI MapID="1178" xpos="400.866"  ypos="1.34666"   zpos="-0.582169" type="collectibles.chests_permanents" GUID="sxf2Lw0wMUKJjA/DFABaTA=="/>
+		<POI MapID="1178" xpos="410.854"  ypos="1.42169"   zpos="88.6923"   type="collectibles.chests_permanents" GUID="lGViTE/U2UKDkmnyjLaavA=="/>
+		<POI MapID="1178" xpos="453.567"  ypos="1.34116"   zpos="75.1222"   type="collectibles.chests_permanents" GUID="kUr5XMOikEGQqsiHcjOFoQ=="/>
+		<POI MapID="1178" xpos="465.061"  ypos="61.6798"   zpos="-82.7978"  type="collectibles.chests_permanents" GUID="CMK4qYwcZE6ITas35An1jw=="/>
+		<POI MapID="1178" xpos="466.187"  ypos="1.38666"   zpos="34.1216"   type="collectibles.chests_permanents" GUID="i6rkAou8L0eHwZWTymWtyg=="/>
+		<POI MapID="1178" xpos="466.621"  ypos="127.927"   zpos="-447.388"  type="collectibles.chests_permanents" GUID="sOY7FC/8m0KGyFZccBAi+A=="/>
+		<POI MapID="1178" xpos="475.704"  ypos="14.1057"   zpos="78.9783"   type="collectibles.chests_permanents" GUID="WRGspzAYX0OAQ4pm6SReXw=="/>
+		<POI MapID="1178" xpos="526.104"  ypos="1.23716"   zpos="32.1738"   type="collectibles.chests_permanents" GUID="jigg0D8ysUaWjEeu2X2dXQ=="/>
+		<POI MapID="1178" xpos="542.622"  ypos="2.15641"   zpos="-8.87201"  type="collectibles.chests_permanents" GUID="uPTylU05i0GMnqlXMQly1Q=="/>
+		<POI MapID="1178" xpos="542.877"  ypos="-187.623"  zpos="-296.416"  type="collectibles.chests_permanents" GUID="yXnQ+H2b+0iX9ka+oM9I1w=="/>
+		<POI MapID="1178" xpos="568.351"  ypos="45.0233"   zpos="223.154"   type="collectibles.chests_permanents" GUID="0jlSzg19ukqAiTC2TKW7hA=="/>
+		<POI MapID="1178" xpos="689.558"  ypos="19.0187"   zpos="215.382"   type="collectibles.chests_permanents" GUID="gUAl7EFIgke41ExJcENStQ=="/>
+		<POI MapID="1178" xpos="771.189"  ypos="-9.68861"  zpos="155.935"   type="collectibles.chests_permanents" GUID="jQTaLyX4XUOlDeeIRgw4Fg=="/>
+		<POI MapID="1178" xpos="791.366"  ypos="80.5262"   zpos="-172.261"  type="collectibles.chests_permanents" GUID="q83RqIkv/kiJ77802TMZXA=="/>
+		<POI MapID="1178" xpos="792.567"  ypos="52.7322"   zpos="28.906"    type="collectibles.chests_permanents" GUID="83ivoilPtUCcIkN9uggL0g=="/>
+		<POI MapID="1178" xpos="836.864"  ypos="1.67526"   zpos="330.233"   type="collectibles.chests_permanents" GUID="vy4S0e0Hnkew7Ny3BqzfKg=="/>
+
+		<POI MapID="1185" xpos="178.627"  ypos="175.601"   zpos="715.353"   type="collectibles.chests_permanents" GUID="0wF8KzwT20edEZYvzo0Jog=="/>
+		<POI MapID="1185" xpos="217.614"  ypos="110.772"   zpos="444.281"   type="collectibles.chests_permanents" GUID="ipThbtk/ZEeknsv2EQjYgQ=="/>
+		<POI MapID="1185" xpos="224.77"   ypos="72.3623"   zpos="590.128"   type="collectibles.chests_permanents" GUID="RAhYz2WYtUeiu/iSP2325w=="/>
+		<POI MapID="1185" xpos="242.473"  ypos="149.088"   zpos="602.091"   type="collectibles.chests_permanents" GUID="1EYpUzmX9k2amZ7SQTyEsw=="/>
+		<POI MapID="1185" xpos="245.613"  ypos="78.0572"   zpos="525.746"   type="collectibles.chests_permanents" GUID="reVN/brBQU6fgnZHyZUEuw=="/>
+		<POI MapID="1185" xpos="258.736"  ypos="157.684"   zpos="569.002"   type="collectibles.chests_permanents" GUID="sUc70XIOJUmfbELdk+3bHA=="/>
+		<POI MapID="1185" xpos="262.107"  ypos="192.208"   zpos="684.515"   type="collectibles.chests_permanents" GUID="mGibDZF97ECmrq/9Sp+R5Q=="/>
+		<POI MapID="1185" xpos="265.911"  ypos="189.463"   zpos="620.136"   type="collectibles.chests_permanents" GUID="Pn2mgZEMRk2fPGd94DSbYg=="/>
+		<POI MapID="1185" xpos="287.549"  ypos="150.002"   zpos="520.941"   type="collectibles.chests_permanents" GUID="w3vz76rrNU6+kqg5Fc4vFA=="/>
+		<POI MapID="1185" xpos="288.553"  ypos="173.486"   zpos="583.421"   type="collectibles.chests_permanents" GUID="edmRrnYvJECeod44GaRGLQ=="/>
+		<POI MapID="1185" xpos="311.286"  ypos="196.814"   zpos="661.148"   type="collectibles.chests_permanents" GUID="xzX6bfR+JEOqaNdIKn4q5g=="/>
+		<POI MapID="1185" xpos="325.842"  ypos="162.099"   zpos="587.891"   type="collectibles.chests_permanents" GUID="FeNyLnvXB0mE3NneH00oYA=="/>
+		<POI MapID="1185" xpos="327.147"  ypos="153.644"   zpos="554.408"   type="collectibles.chests_permanents" GUID="cp+vuE50uUKwGNJpXCYk3Q=="/>
+		<POI MapID="1185" xpos="350.543"  ypos="187.444"   zpos="737.311"   type="collectibles.chests_permanents" GUID="2Tk1ETkH4USeCOh9Lo3P/Q=="/>
+		<POI MapID="1185" xpos="351.775"  ypos="195.536"   zpos="607.631"   type="collectibles.chests_permanents" GUID="pxkG3FyIHkCDJAoDrhivhA=="/>
+		<POI MapID="1185" xpos="375.228"  ypos="192.261"   zpos="634.637"   type="collectibles.chests_permanents" GUID="LWeQYY74JUeWaFFvGM4wkQ=="/>
+		<POI MapID="1185" xpos="384.434"  ypos="204.293"   zpos="657.789"   type="collectibles.chests_permanents" GUID="gNEEsdjDSUOZiqI/1dKndg=="/>
+
+		<POI MapID="1203" xpos="-626.557" ypos="127.688"   zpos="161.138"   type="collectibles.chests_permanents" GUID="dmS872AE4kmOHEs6xQaBzg=="/>
+		<POI MapID="1203" xpos="-466.059" ypos="21.8901"   zpos="-81.5925"  type="collectibles.chests_permanents" GUID="0OKI021WJ0GRNAQN4PjV5Q=="/>
+		<POI MapID="1203" xpos="-408.667" ypos="94.9769"   zpos="1.53701"   type="collectibles.chests_permanents" GUID="oJwV7bdCIEKfQEiu5l1N8A=="/>
+		<POI MapID="1203" xpos="-396.776" ypos="23.1949"   zpos="-25.947"   type="collectibles.chests_permanents" GUID="ggdjASyRHkaOtm/LjY6O6Q=="/>
+		<POI MapID="1203" xpos="-368.988" ypos="34.0039"   zpos="-171.551"  type="collectibles.chests_permanents" GUID="AHcBV93e7UGlscDC8NioZw=="/>
+		<POI MapID="1203" xpos="-356.89"  ypos="106.538"   zpos="281.318"   type="collectibles.chests_permanents" GUID="Z6peqjc5Hkecj/s2xZZa9Q=="/>
+		<POI MapID="1203" xpos="-345.111" ypos="24.7184"   zpos="-29.9126"  type="collectibles.chests_permanents" GUID="c+NQenS6fkOkAi2lOEOZrg=="/>
+		<POI MapID="1203" xpos="-316.909" ypos="36.2403"   zpos="-140.461"  type="collectibles.chests_permanents" GUID="VmrwEyAHiEuf/9r/OwPJng=="/>
+		<POI MapID="1203" xpos="-256.841" ypos="107.302"   zpos="-324.669"  type="collectibles.chests_permanents" GUID="o7c8sMZz8E6/7w80mjGedg=="/>
+		<POI MapID="1203" xpos="-231.814" ypos="88.4706"   zpos="-188.751"  type="collectibles.chests_permanents" GUID="/1tN0bJ7q0+d3/rgdWi38w=="/>
+		<POI MapID="1203" xpos="-230.948" ypos="32.6717"   zpos="-47.0401"  type="collectibles.chests_permanents" GUID="chkBmgtFFEOm79LsryhoUg=="/>
+		<POI MapID="1203" xpos="-215.476" ypos="71.6394"   zpos="127.811"   type="collectibles.chests_permanents" GUID="EKpWl++a+Emsfxz+Hi6q2g=="/>
+		<POI MapID="1203" xpos="-148.432" ypos="10.0218"   zpos="45.4207"   type="collectibles.chests_permanents" GUID="RIXtVPjnKEiJ7I3Dw6Ca5A=="/>
+		<POI MapID="1203" xpos="-138.724" ypos="100.932"   zpos="-364.651"  type="collectibles.chests_permanents" GUID="n89aZ+6cfUWTFFnFkWaMbA=="/>
+		<POI MapID="1203" xpos="-111.366" ypos="117.68"    zpos="-323.697"  type="collectibles.chests_permanents" GUID="Qo+TQ6l5DEqkQ+GkvDMH6w=="/>
+		<POI MapID="1203" xpos="68.193"   ypos="89.0495"   zpos="-341.988"  type="collectibles.chests_permanents" GUID="pED79g11hka1CmNllFexWw=="/>
+		<POI MapID="1203" xpos="136.573"  ypos="10.0489"   zpos="163.419"   type="collectibles.chests_permanents" GUID="Bfi35RvfIEqtQ90Rf7U5CA=="/>
+		<POI MapID="1203" xpos="322.775"  ypos="58.3114"   zpos="-262.784"  type="collectibles.chests_permanents" GUID="ROFD042e90SN/zkpGnPDdw=="/>
+		<POI MapID="1203" xpos="528.885"  ypos="171.321"   zpos="166.376"   type="collectibles.chests_permanents" GUID="AKPTMM8P6kyCeFVE1dL8Kw=="/>
+		<POI MapID="1203" xpos="564.016"  ypos="287.329"   zpos="114.681"   type="collectibles.chests_permanents" GUID="ySeQKdy0S0KvlAfP+uU4tA=="/>
+		<POI MapID="1203" xpos="569.642"  ypos="511.576"   zpos="95.2385"   type="collectibles.chests_permanents" GUID="/Na6hvRujUW8neoYBgM5mg=="/>
+
+		<POI MapID="1210" xpos="-898.784" ypos="66.968"    zpos="21.762"    type="collectibles.chests_permanents" GUID="eShEl0UZ4UG/Gp71MQyVTw=="/>
+		<POI MapID="1210" xpos="-837.64"  ypos="168.766"   zpos="487.361"   type="collectibles.chests_permanents" GUID="m0P3hTQW2keTYSDnY2CGKA=="/>
+		<POI MapID="1210" xpos="-951.288" ypos="178.692"   zpos="513.864"   type="collectibles.chests_permanents" GUID="GJOt1jDtCEmDykqSqTw6kg=="/>
+		<POI MapID="1210" xpos="-867.091" ypos="252.917"   zpos="592.744"   type="collectibles.chests_permanents" GUID="3hI+I9RqfkmzeIBp4DB8OA=="/>
+		<POI MapID="1210" xpos="29.7655"  ypos="105.59"    zpos="644.804"   type="collectibles.chests_permanents" GUID="DlJi0hIsAUqxRGKcAS9zkA=="/>
+		<POI MapID="1210" xpos="428.044"  ypos="22.8176"   zpos="-537.23"   type="collectibles.chests_permanents" GUID="kj5dMTUUPkG0e94gaPcd0Q=="/>
+		<POI MapID="1210" xpos="574.954"  ypos="230.599"   zpos="397.545"   type="collectibles.chests_permanents" GUID="Il7x9FsJXE+Yvmgk6ZaANA=="/>
+		<POI MapID="1210" xpos="623.63"   ypos="20.3685"   zpos="-470.004"  type="collectibles.chests_permanents" GUID="2vTRy+1l7k+UcM2pYrZ8sA=="/>
+		<POI MapID="1210" xpos="727.71"   ypos="134.581"   zpos="471.927"   type="collectibles.chests_permanents" GUID="1G7y4AZIg02Qg/kCgeLW4w=="/>
+		<POI MapID="1210" xpos="762.585"  ypos="150.845"   zpos="157.159"   type="collectibles.chests_permanents" GUID="I3M3z/Pe5k2HMT7lS1JVLg=="/>
+		<POI MapID="1210" xpos="1240.51"  ypos="278.447"   zpos="455.009"   type="collectibles.chests_permanents" GUID="ziQcMvMMr0q5KyD6VpakCw=="/>
+		<POI MapID="1210" xpos="1160.94"  ypos="103.555"   zpos="50.7495"   type="collectibles.chests_permanents" GUID="xsJefiMWUkeLLdjjT96Esw=="/>
+		<POI MapID="1210" xpos="1170.2"   ypos="106.518"   zpos="159.767"   type="collectibles.chests_permanents" GUID="1EaLgU0vQEGADQTrBVZ7cA=="/>
+		<POI MapID="1210" xpos="1365.44"  ypos="161.017"   zpos="-492.316"  type="collectibles.chests_permanents" GUID="GqqOMGK6wUyfyOzxnP4qNw=="/>
+		<POI MapID="1210" xpos="1376.37"  ypos="97.6836"   zpos="-266.606"  type="collectibles.chests_permanents" GUID="Is5DMIG3XkaAl3+nqcb3dg=="/>
+		<POI MapID="1210" xpos="1463.42"  ypos="163.147"   zpos="-462.17"   type="collectibles.chests_permanents" GUID="8SVQY23RLEKrvWG2WgO53A=="/>
+
+		<POI MapID="1211" xpos="604.542"  ypos="190.693"   zpos="608.178"   type="collectibles.chests_permanents" GUID="i/ta0IBaJkW7p7p7z5W2IA=="/>
+
+		<POI MapID="1263" xpos="-884.721" ypos="75.9015"   zpos="91.9236"   type="collectibles.chests_permanents" GUID="vPvf0qdxQ02y2cngeGMFhQ=="/>
+		<POI MapID="1263" xpos="-830.957" ypos="64.817"    zpos="-348.472"  type="collectibles.chests_permanents" GUID="sCppymgH+U2+tp2jxQGneQ=="/>
+		<POI MapID="1263" xpos="-808.705" ypos="97.4723"   zpos="-25.8081"  type="collectibles.chests_permanents" GUID="o3aUXAJOtkyQyhPCI61tWg=="/>
+		<POI MapID="1263" xpos="-774.466" ypos="91.2697"   zpos="169.72"    type="collectibles.chests_permanents" GUID="HtkOS7xmiUKZHExir7r4mA=="/>
+		<POI MapID="1263" xpos="-684.312" ypos="82.6748"   zpos="-462.064"  type="collectibles.chests_permanents" GUID="wuebyzWNBUy3rvgZ9AoMlw=="/>
+		<POI MapID="1263" xpos="-638.939" ypos="114.785"   zpos="-320.843"  type="collectibles.chests_permanents" GUID="bho/hG0aMUqmpOK2ZzdSLQ=="/>
+		<POI MapID="1263" xpos="-603.903" ypos="51.155"    zpos="-38.7935"  type="collectibles.chests_permanents" GUID="pPj3w26E3kOLlPqY8Y95FA=="/>
+		<POI MapID="1263" xpos="-561.631" ypos="1.62546"   zpos="-687.286"  type="collectibles.chests_permanents" GUID="4hchr07wRE2+g1XKZ28piQ=="/>
+		<POI MapID="1263" xpos="-555.241" ypos="2.7578"    zpos="425.716"   type="collectibles.chests_permanents" GUID="pQZX/Mn8aEyZSe9H59c56Q=="/>
+		<POI MapID="1263" xpos="-533.109" ypos="38.4727"   zpos="224.127"   type="collectibles.chests_permanents" GUID="rSRNobhtDkKB1+ekbiQWUA=="/>
+		<POI MapID="1263" xpos="-520.964" ypos="88.8538"   zpos="-162.603"  type="collectibles.chests_permanents" GUID="keoQIHuDw0SDi1jbXhWYoQ=="/>
+		<POI MapID="1263" xpos="-513.981" ypos="140.188"   zpos="-413.571"  type="collectibles.chests_permanents" GUID="AikreeDKA0eIDGU8S+/pvA=="/>
+		<POI MapID="1263" xpos="-457.541" ypos="73.1713"   zpos="-75.2617"  type="collectibles.chests_permanents" GUID="rHcC629Aj0e1e87JniMdjw=="/>
+		<POI MapID="1263" xpos="-451.641" ypos="64.1448"   zpos="-369.189"  type="collectibles.chests_permanents" GUID="IoR90ks9TEi8CDuKY9Um9Q=="/>
+		<POI MapID="1263" xpos="-366.654" ypos="84.3554"   zpos="-437.047"  type="collectibles.chests_permanents" GUID="dFFjLQNe5UquUHtClvUc3g=="/>
+		<POI MapID="1263" xpos="-320.681" ypos="25.8756"   zpos="-53.4944"  type="collectibles.chests_permanents" GUID="1X0rcIwinUK/I6p4QZWCJg=="/>
+		<POI MapID="1263" xpos="-261.277" ypos="8.32559"   zpos="530.057"   type="collectibles.chests_permanents" GUID="Ohl6RpNlLUu3vrAdooHXzw=="/>
+		<POI MapID="1263" xpos="-180.529" ypos="157.66"    zpos="295.091"   type="collectibles.chests_permanents" GUID="b2cM6dyB6U6FMMTFTLVQGg=="/>
+		<POI MapID="1263" xpos="-165.237" ypos="71.1616"   zpos="290.362"   type="collectibles.chests_permanents" GUID="oPdVkQUgYECuM2yhV7+w6w=="/>
+		<POI MapID="1263" xpos="-153.833" ypos="61.1462"   zpos="237.34"    type="collectibles.chests_permanents" GUID="wg9q1xcM1E+SFxiIrIhmQA=="/>
+		<POI MapID="1263" xpos="-152.499" ypos="63.3583"   zpos="322.468"   type="collectibles.chests_permanents" GUID="sWOIxu/860Ca1Ou1CZ2EVA=="/>
+		<POI MapID="1263" xpos="-145.97"  ypos="111.074"   zpos="37.8379"   type="collectibles.chests_permanents" GUID="wprMSOCUI0qu6ZZXNsOTlg=="/>
+		<POI MapID="1263" xpos="-145.235" ypos="61.2971"   zpos="232.573"   type="collectibles.chests_permanents" GUID="L8UcH8ry3keI9SZ8vTR+sA=="/>
+		<POI MapID="1263" xpos="-143.304" ypos="63.3583"   zpos="358.87"    type="collectibles.chests_permanents" GUID="M6taq8fV6EOjGwUWcsRxDA=="/>
+		<POI MapID="1263" xpos="-142.626" ypos="68.5992"   zpos="266.513"   type="collectibles.chests_permanents" GUID="tfZK1rqigEe0XE/PnMdFmQ=="/>
+		<POI MapID="1263" xpos="-139.172" ypos="61.2759"   zpos="227.992"   type="collectibles.chests_permanents" GUID="O3T9ZBHHLUSTLZbFjfFdwQ=="/>
+		<POI MapID="1263" xpos="-129.704" ypos="62.4421"   zpos="340.184"   type="collectibles.chests_permanents" GUID="HkNXvnTPjk+iqJkAUtm1SA=="/>
+		<POI MapID="1263" xpos="-127.139" ypos="264.612"   zpos="-32.613"   type="collectibles.chests_permanents" GUID="Hn6v/+YREkCInIAwByJhDw=="/>
+		<POI MapID="1263" xpos="-115.999" ypos="63.3583"   zpos="359.288"   type="collectibles.chests_permanents" GUID="y0cfNOtBiEesrvxbANC/Bw=="/>
+		<POI MapID="1263" xpos="-115.817" ypos="68.5988"   zpos="267.086"   type="collectibles.chests_permanents" GUID="n2NxbyslmUCI7DiG/kbw4w=="/>
+		<POI MapID="1263" xpos="-109.128" ypos="155.65"    zpos="-238.112"  type="collectibles.chests_permanents" GUID="2MM4Fg6SbkmmtEJlYImgnQ=="/>
+		<POI MapID="1263" xpos="-105.512" ypos="63.3583"   zpos="322.921"   type="collectibles.chests_permanents" GUID="ZAo05/nCNE2M0cpqmIYzsw=="/>
+		<POI MapID="1263" xpos="-97.3352" ypos="71.1486"   zpos="290.726"   type="collectibles.chests_permanents" GUID="4NAzrV/63kOa+yfwx2AJVw=="/>
+		<POI MapID="1263" xpos="-77.3758" ypos="60.9662"   zpos="207.861"   type="collectibles.chests_permanents" GUID="+QI87GVBCEeYHoTi6RXTmQ=="/>
+		<POI MapID="1263" xpos="-67.7131" ypos="62.0816"   zpos="216.437"   type="collectibles.chests_permanents" GUID="wv5VLFLEjkCmyEp3LNeDvA=="/>
+		<POI MapID="1263" xpos="-34.1763" ypos="207.879"   zpos="-105.226"  type="collectibles.chests_permanents" GUID="2UbrLFuLIE28mEDViBd8rA=="/>
+		<POI MapID="1263" xpos="-24.8416" ypos="177.408"   zpos="-179.581"  type="collectibles.chests_permanents" GUID="mMx6Ol0wmEaw4GzdhxHByg=="/>
+		<POI MapID="1263" xpos="71.3601"  ypos="3.61814"   zpos="-370.661"  type="collectibles.chests_permanents" GUID="HE4v4gA4pU+9ba8C+2aOOQ=="/>
+		<POI MapID="1263" xpos="83.3314"  ypos="36.9754"   zpos="-56.9287"  type="collectibles.chests_permanents" GUID="kgamgqBAKkqW02AqWBiLnw=="/>
+		<POI MapID="1263" xpos="86.5371"  ypos="36.9754"   zpos="-97.46"    type="collectibles.chests_permanents" GUID="2zcOYcvot0mYZdUX4Ehi3Q=="/>
+		<POI MapID="1263" xpos="99.0355"  ypos="29.9873"   zpos="-130.334"  type="collectibles.chests_permanents" GUID="lAiKExwh+E6t+O3CheObaA=="/>
+		<POI MapID="1263" xpos="101.932"  ypos="46.607"    zpos="-554.458"  type="collectibles.chests_permanents" GUID="I6mhV3rCDUKubuYe0RfYiw=="/>
+		<POI MapID="1263" xpos="101.961"  ypos="5.72563"   zpos="726.362"   type="collectibles.chests_permanents" GUID="qZULXU/VOEeYBeN0HjFjaQ=="/>
+		<POI MapID="1263" xpos="132.084"  ypos="90.8372"   zpos="683.579"   type="collectibles.chests_permanents" GUID="HixbUlrM2UmxsxgUjpjDAg=="/>
+		<POI MapID="1263" xpos="140.94"   ypos="17.5942"   zpos="-78.1915"  type="collectibles.chests_permanents" GUID="GzhdCRUuRUyDZP1kmV1b+Q=="/>
+		<POI MapID="1263" xpos="163.677"  ypos="7.2247"    zpos="46.0787"   type="collectibles.chests_permanents" GUID="D8tdL7E8r02Pe8YUcPCuyA=="/>
+		<POI MapID="1263" xpos="172.58"   ypos="46.3119"   zpos="259.364"   type="collectibles.chests_permanents" GUID="hGM3xZGcSEevP/7/pQpb6g=="/>
+		<POI MapID="1263" xpos="179.42"   ypos="112.053"   zpos="566.048"   type="collectibles.chests_permanents" GUID="fBPsdN9KE020behvm1vwDg=="/>
+		<POI MapID="1263" xpos="183.547"  ypos="211.971"   zpos="467.539"   type="collectibles.chests_permanents" GUID="0As6mfkwfUeHeEUZyEGekw=="/>
+		<POI MapID="1263" xpos="190.3"    ypos="6.89275"   zpos="17.8895"   type="collectibles.chests_permanents" GUID="EmTJSoP7YE+eiYzuYjIebw=="/>
+		<POI MapID="1263" xpos="215.29"   ypos="239.215"   zpos="-477.834"  type="collectibles.chests_permanents" GUID="7gmwQVxK/EGxpyf0Hg6hTA=="/>
+		<POI MapID="1263" xpos="244.013"  ypos="7.34069"   zpos="85.8801"   type="collectibles.chests_permanents" GUID="e4RU5x+BwUCsVlcOrpvUAg=="/>
+		<POI MapID="1263" xpos="262.755"  ypos="8.42724"   zpos="-221.351"  type="collectibles.chests_permanents" GUID="wDg36GeY/Eedj3NIzGA6rw=="/>
+		<POI MapID="1263" xpos="271.7"    ypos="19.3033"   zpos="-68.4513"  type="collectibles.chests_permanents" GUID="s31abJthFUKHm7tqYyJQHw=="/>
+		<POI MapID="1263" xpos="273.809"  ypos="36.4676"   zpos="-79.9437"  type="collectibles.chests_permanents" GUID="+/wgiPaMl0Ouv12aifPtMA=="/>
+		<POI MapID="1263" xpos="282.266"  ypos="86.8046"   zpos="582.775"   type="collectibles.chests_permanents" GUID="c4ZJ80icWECJgrkfVUSaEQ=="/>
+		<POI MapID="1263" xpos="288.466"  ypos="7.01709"   zpos="-184.797"  type="collectibles.chests_permanents" GUID="QZ4vj2BXyEqkNop9FCs1Yw=="/>
+		<POI MapID="1263" xpos="308.006"  ypos="197.761"   zpos="-520.491"  type="collectibles.chests_permanents" GUID="qq9pvASqZkCPIZv+QYD3/Q=="/>
+		<POI MapID="1263" xpos="314.903"  ypos="7.07889"   zpos="-138.545"  type="collectibles.chests_permanents" GUID="+UnzwnkdOkWCydRJ5lP0Ug=="/>
+		<POI MapID="1263" xpos="315.284"  ypos="118.26"    zpos="-461.931"  type="collectibles.chests_permanents" GUID="vsWS3VUy3EWGHXNuG2hQyw=="/>
+		<POI MapID="1263" xpos="315.319"  ypos="12.1434"   zpos="-31.4749"  type="collectibles.chests_permanents" GUID="doggiX7gKU61metyWyuhxg=="/>
+		<POI MapID="1263" xpos="323.81"   ypos="12.8329"   zpos="39.1796"   type="collectibles.chests_permanents" GUID="Jr2qTknJm0iFQ090ede6Ng=="/>
+		<POI MapID="1263" xpos="329.27"   ypos="13.5801"   zpos="111.138"   type="collectibles.chests_permanents" GUID="YewT56ARtESzzMIP5JW5Kw=="/>
+		<POI MapID="1263" xpos="345.602"  ypos="12.4855"   zpos="66.6444"   type="collectibles.chests_permanents" GUID="BeDqE1f42k27xzdt+qaAow=="/>
+		<POI MapID="1263" xpos="356.989"  ypos="36.4676"   zpos="-77.1868"  type="collectibles.chests_permanents" GUID="8N1AiwQ88kGhGYDygElEjA=="/>
+		<POI MapID="1263" xpos="375.315"  ypos="12.7984"   zpos="-215.975"  type="collectibles.chests_permanents" GUID="bPJRb9yhP0OH+Hz7AHTswQ=="/>
+		<POI MapID="1263" xpos="415.786"  ypos="26.3357"   zpos="258.933"   type="collectibles.chests_permanents" GUID="Z26IjyD8IUiUs3pxxXCtig=="/>
+		<POI MapID="1263" xpos="451.694"  ypos="8.81713"   zpos="-200.149"  type="collectibles.chests_permanents" GUID="TZi9ugaKxkOaE7qetMxKag=="/>
+		<POI MapID="1263" xpos="472.392"  ypos="6.99954"   zpos="-78.2915"  type="collectibles.chests_permanents" GUID="ttQ5kYr0zEmWF3pEFa6Q1Q=="/>
+		<POI MapID="1263" xpos="476.232"  ypos="86.1774"   zpos="-626.351"  type="collectibles.chests_permanents" GUID="R8e4iYZxWkmzwOrK+ujBhw=="/>
+		<POI MapID="1263" xpos="489.98"   ypos="31.3122"   zpos="258.34"    type="collectibles.chests_permanents" GUID="cu1V4D43LUaWpIoJf+8brQ=="/>
+		<POI MapID="1263" xpos="519.368"  ypos="34.3489"   zpos="229.828"   type="collectibles.chests_permanents" GUID="HJV+j6D1XUyGjdIa6n0Y4A=="/>
+		<POI MapID="1263" xpos="521.322"  ypos="13.0812"   zpos="-204.447"  type="collectibles.chests_permanents" GUID="BOt9sGqdCU2prEYjqLLbEg=="/>
+		<POI MapID="1263" xpos="521.38"   ypos="13.0807"   zpos="-225.289"  type="collectibles.chests_permanents" GUID="/AHlgoarmUiMIUuribjQNw=="/>
+		<POI MapID="1263" xpos="555.402"  ypos="37.2659"   zpos="282.384"   type="collectibles.chests_permanents" GUID="hnICdhf2RU+M7zz4hR6q+w=="/>
+		<POI MapID="1263" xpos="595.019"  ypos="17.4135"   zpos="234.081"   type="collectibles.chests_permanents" GUID="vGol/I9A7E2tn3WGADt5gg=="/>
+		<POI MapID="1263" xpos="627.952"  ypos="17.2816"   zpos="268.541"   type="collectibles.chests_permanents" GUID="bfLeiFAV3USPtort02r3fg=="/>
+		<POI MapID="1263" xpos="628.024"  ypos="16.8765"   zpos="200.506"   type="collectibles.chests_permanents" GUID="I3gwVGydLU+Bly1Pv1znjA=="/>
+		<POI MapID="1263" xpos="639.475"  ypos="6.99971"   zpos="-17.9401"  type="collectibles.chests_permanents" GUID="EXXWvaxNR0CF4sjRw/GlzQ=="/>
+		<POI MapID="1263" xpos="645.35"   ypos="41.6849"   zpos="301.763"   type="collectibles.chests_permanents" GUID="PEFA8PNDLE647O/ltWueRA=="/>
+		<POI MapID="1263" xpos="650.527"  ypos="24.9553"   zpos="-132.011"  type="collectibles.chests_permanents" GUID="sX5rYzFamkqzekgoBic+7A=="/>
+		<POI MapID="1263" xpos="654.927"  ypos="7.44676"   zpos="-111.057"  type="collectibles.chests_permanents" GUID="A4lahZPvf0eMf10xRntgQw=="/>
+		<POI MapID="1263" xpos="655.661"  ypos="7.00604"   zpos="-143.923"  type="collectibles.chests_permanents" GUID="5yFROFE02kCHfuthL/bibg=="/>
+		<POI MapID="1263" xpos="661.818"  ypos="15.7292"   zpos="-10.9"     type="collectibles.chests_permanents" GUID="HUFWHRnFnkGhn3aSlw4sQg=="/>
+		<POI MapID="1263" xpos="663.539"  ypos="17.0755"   zpos="234.269"   type="collectibles.chests_permanents" GUID="3CisuWZ4d0OmuvYDSqnrXg=="/>
+		<POI MapID="1263" xpos="677.19"   ypos="7.48071"   zpos="4.968"     type="collectibles.chests_permanents" GUID="DPO7Zs5+I0i0oSaQrD0nTQ=="/>
+		<POI MapID="1263" xpos="691.448"  ypos="44.9421"   zpos="192.76"    type="collectibles.chests_permanents" GUID="p6My0XmsB0inN27t6/K9hA=="/>
+		<POI MapID="1263" xpos="695.835"  ypos="21.3216"   zpos="-75.6388"  type="collectibles.chests_permanents" GUID="3+OiCnv6HUeU3QzQnwSSOQ=="/>
+		<POI MapID="1263" xpos="701.225"  ypos="7.49872"   zpos="-60.8188"  type="collectibles.chests_permanents" GUID="btVmNCxW0U6JxJKMRjJtRw=="/>
+		<POI MapID="1263" xpos="706.002"  ypos="7.5254"    zpos="-79.2028"  type="collectibles.chests_permanents" GUID="TFnM68jQikmQ9abJu7ErMA=="/>
+
+		<POI MapID="1271" xpos="-387.925" ypos="7.73991"   zpos="-33.3425"  type="collectibles.chests_permanents" GUID="Prmf9PhsUECGYkb2XcfZGg=="/>
+		<POI MapID="1271" xpos="-123.426" ypos="96.3444"   zpos="837.419"   type="collectibles.chests_permanents" GUID="iE0vLpeHMEaeNd8M1iuAlg=="/>
+		<POI MapID="1271" xpos="26.48"    ypos="44.66"     zpos="-615.68"   type="collectibles.chests_permanents" GUID="dJHZ0LIMIEyngtCAO0iTbQ=="/>
+		<POI MapID="1271" xpos="518.703"  ypos="21.4497"   zpos="-280.54"   type="collectibles.chests_permanents" GUID="RhQLuLITgEuSrB3dDnc52g=="/>
+		<POI MapID="1271" xpos="809.046"  ypos="27.7634"   zpos="-486.603"  type="collectibles.chests_permanents" GUID="kOuYWQ0cBUqyeneCGhwBIw=="/>
+
+		<POI MapID="1288" xpos="-1118.86" ypos="84.5718"   zpos="-505.574"  type="collectibles.chests_permanents" GUID="REGdHFKBPUKEmbO9QnHo7w==" heightOffset="0.5"/>
+		<POI MapID="1288" xpos="-1030.25" ypos="-184.726"  zpos="894.429"   type="collectibles.chests_permanents" GUID="gyTy433loUK6epemwhfZkg=="/>
+		<POI MapID="1288" xpos="-945.217" ypos="-208.865"  zpos="949.782"   type="collectibles.chests_permanents" GUID="crGD2u2U3UGJK1kcMlPNxA=="/>
+		<POI MapID="1288" xpos="-937.259" ypos="123.639"   zpos="847.288"   type="collectibles.chests_permanents" GUID="xCI2vZJ1mk+eqMKksfjaeQ=="/>
+		<POI MapID="1288" xpos="-813.582" ypos="146.402"   zpos="1086.64"   type="collectibles.chests_permanents" GUID="H58WYkgdPk2Yrpdwki86BQ=="/>
+		<POI MapID="1288" xpos="-654.002" ypos="25.3158"   zpos="-356.486"  type="collectibles.chests_permanents" GUID="y6lLXeVIsE+AOtgsh9ziKg=="/>
+		<POI MapID="1288" xpos="-578.535" ypos="22.2602"   zpos="-310.545"  type="collectibles.chests_permanents" GUID="b2MNWaiKokC/UbX2TyzatA=="/>
+		<POI MapID="1288" xpos="-226.772" ypos="20.2524"   zpos="410.608"   type="collectibles.chests_permanents" GUID="f8vmC+uOYEeu9i0ZNgSu7w=="/>
+		<POI MapID="1288" xpos="-215.467" ypos="19.1629"   zpos="407.222"   type="collectibles.chests_permanents" GUID="m4IPL5nQGkOogqFnOr0Elg=="/>
+		<POI MapID="1288" xpos="-165.387" ypos="46.0374"   zpos="642.421"   type="collectibles.chests_permanents" GUID="wYCDGZdnXECXtm5z6tBuyw==" heightOffset="0.5"/>
+		<POI MapID="1288" xpos="-123.701" ypos="-8.5621"   zpos="1361.03"   type="collectibles.chests_permanents" GUID="a8Gk+phXuEusrGECoAceoQ=="/>
+		<POI MapID="1288" xpos="-78.7759" ypos="88.6591"   zpos="661.91"    type="collectibles.chests_permanents" GUID="7G3HJ74QVEeo0XSMSkbsLg=="/>
+		<POI MapID="1288" xpos="-75.525"  ypos="88.6653"   zpos="661.184"   type="collectibles.chests_permanents" GUID="b8lxGyvDv0mkLDhAagfbkA=="/>
+		<POI MapID="1288" xpos="-74.5973" ypos="88.6742"   zpos="654.064"   type="collectibles.chests_permanents" GUID="ybT67Mm+AEenR5MQ2j4Ixg=="/>
+		<POI MapID="1288" xpos="-32.0859" ypos="6.91736"   zpos="1326.7"    type="collectibles.chests_permanents" GUID="iI9je7saLEut0xAdEyRgmw=="/>
+		<POI MapID="1288" xpos="-6.9442"  ypos="53.3532"   zpos="593.777"   type="collectibles.chests_permanents" GUID="wNb2MgjB9k2XazspTX7STQ=="/>
+		<POI MapID="1288" xpos="-6.46053" ypos="53.2538"   zpos="594.741"   type="collectibles.chests_permanents" GUID="Ex4nXzAsIEmBY0dEf0h1LA==" heightOffset="0.5"/>
+		<POI MapID="1288" xpos="557.259"  ypos="3.08417"   zpos="211.97"    type="collectibles.chests_permanents" GUID="cbF6+JgzMUK7xBG5wk1Gyw=="/>
+		<POI MapID="1288" xpos="560.52"   ypos="3.09696"   zpos="205.152"   type="collectibles.chests_permanents" GUID="yz1IK6LLHUy6KRXIZyFQtg=="/>
+		<POI MapID="1288" xpos="614.653"  ypos="26.6242"   zpos="681.469"   type="collectibles.chests_permanents" GUID="qlviQjPDDkOHafhL3v2A5w=="/>
+		<POI MapID="1288" xpos="628.183"  ypos="22.4132"   zpos="696.733"   type="collectibles.chests_permanents" GUID="z9jIWpPL9UmHOQZDhPt7RA=="/>
+
+		<POI MapID="1301" xpos="-1163.5"  ypos="68.7127"   zpos="117.99"    type="collectibles.chests_permanents" GUID="hOG43Q52tUKsJXMYkfPFNg=="/>
+		<POI MapID="1301" xpos="-1136.16" ypos="174.033"   zpos="226.2"     type="collectibles.chests_permanents" GUID="nvJiFuKv0UqEcLwNqgFMkw=="/>
+		<POI MapID="1301" xpos="-1028.16" ypos="96.0715"   zpos="480.533"   type="collectibles.chests_permanents" GUID="kVdU1uJ04kOKO3fJmBmn9Q=="/>
+		<POI MapID="1301" xpos="-852.142" ypos="135.227"   zpos="83.2248"   type="collectibles.chests_permanents" GUID="07OJA/qoSUS7knWV1kTdMQ=="/>
+		<POI MapID="1301" xpos="-821.786" ypos="125"       zpos="866.283"   type="collectibles.chests_permanents" GUID="E0nQ4RI9kEuV0Fjre032cA=="/>
+		<POI MapID="1301" xpos="-559.486" ypos="131.944"   zpos="-524.784"  type="collectibles.chests_permanents" GUID="+GqKxXxFnE6ZbdIkC2TzkQ=="/>
+		<POI MapID="1301" xpos="-474.87"  ypos="61.5895"   zpos="-319.94"   type="collectibles.chests_permanents" GUID="8DCQ1rKa7kGFdeQeIlxMiw=="/>
+		<POI MapID="1301" xpos="-443.244" ypos="146.691"   zpos="207.715"   type="collectibles.chests_permanents" GUID="MHPsPaW6Tkau+Czn/M/Lgw=="/>
+		<POI MapID="1301" xpos="-438.037" ypos="63.4422"   zpos="913.199"   type="collectibles.chests_permanents" GUID="ctflymHM50u0ZzuAnkMNHA=="/>
+		<POI MapID="1301" xpos="-389.934" ypos="74.4483"   zpos="682.825"   type="collectibles.chests_permanents" GUID="vZQFFSqDlEii/oyMYdkFuQ=="/>
+		<POI MapID="1301" xpos="-388.588" ypos="74.4556"   zpos="689.669"   type="collectibles.chests_permanents" GUID="FxuaN8JvKkmquuIxjVMyWg=="/>
+		<POI MapID="1301" xpos="-380.023" ypos="57.277"    zpos="-148.767"  type="collectibles.chests_permanents" GUID="GKhVE5n/U0yNCEA1XCTDew=="/>
+		<POI MapID="1301" xpos="-284.838" ypos="59.1246"   zpos="117.049"   type="collectibles.chests_permanents" GUID="/j71IVALt0CcaH9ZApUi2Q=="/>
+		<POI MapID="1301" xpos="-279.365" ypos="59.0421"   zpos="119.665"   type="collectibles.chests_permanents" GUID="MYkJXe+T1Uyaajts8J31DQ=="/>
+		<POI MapID="1301" xpos="-85.5877" ypos="152.522"   zpos="695.949"   type="collectibles.chests_permanents" GUID="QrHffzsBlkmLPEObVhafcQ=="/>
+		<POI MapID="1301" xpos="-37.7005" ypos="133.779"   zpos="542.362"   type="collectibles.chests_permanents" GUID="NNoiRvyVrkKFTqsSJAAhCQ=="/>
+		<POI MapID="1301" xpos="99.3025"  ypos="91.1838"   zpos="-458.392"  type="collectibles.chests_permanents" GUID="a7lSFrOsLE6HMnJso6ZfSA=="/>
+		<POI MapID="1301" xpos="103.111"  ypos="138.923"   zpos="-476.31"   type="collectibles.chests_permanents" GUID="h9+3r7X860uXZLGa6WJQZg=="/>
+		<POI MapID="1301" xpos="103.374"  ypos="50.9085"   zpos="-489.896"  type="collectibles.chests_permanents" GUID="SawamBE4RU6nXHu6/xOdhQ=="/>
+		<POI MapID="1301" xpos="160.284"  ypos="215.255"   zpos="128.964"   type="collectibles.chests_permanents" GUID="C3QkUJ/OyE6/+NQPa3PGXw=="/>
+		<POI MapID="1301" xpos="185.029"  ypos="198.126"   zpos="308.229"   type="collectibles.chests_permanents" GUID="Cci99Z7fhk6D+AhJlqPUKA=="/>
+		<POI MapID="1301" xpos="228.045"  ypos="159.105"   zpos="118.333"   type="collectibles.chests_permanents" GUID="R3i50gdh5EKNlGvNfJUscw=="/>
+		<POI MapID="1301" xpos="272.59"   ypos="129.465"   zpos="532.631"   type="collectibles.chests_permanents" GUID="+Cj+JfuAjEmyksRK8eS70w=="/>
+		<POI MapID="1301" xpos="278.799"  ypos="173.135"   zpos="641.744"   type="collectibles.chests_permanents" GUID="5jC+mjelO0qM/yDXwv2tEA=="/>
+		<POI MapID="1301" xpos="426.778"  ypos="133.783"   zpos="96.1112"   type="collectibles.chests_permanents" GUID="NekaT3khH0KkBTO+7f9qoQ=="/>
+		<POI MapID="1301" xpos="461.873"  ypos="155.379"   zpos="195.662"   type="collectibles.chests_permanents" GUID="nGt3Ypz0VU+M2iiz+rbqwA=="/>
+		<POI MapID="1301" xpos="541.078"  ypos="145.873"   zpos="449.361"   type="collectibles.chests_permanents" GUID="QKJJPXsx/U6uDaX7zUOSBg=="/>
+		<POI MapID="1301" xpos="547.148"  ypos="145.58"    zpos="447.464"   type="collectibles.chests_permanents" GUID="s/aiwk17iU+WoiMVWvASRA=="/>
+		<POI MapID="1301" xpos="550.218"  ypos="127.488"   zpos="81.4528"   type="collectibles.chests_permanents" GUID="ZfXT3yzwF0eDHxU8mjg21A=="/>
+		<POI MapID="1301" xpos="591.077"  ypos="184.43"    zpos="212.847"   type="collectibles.chests_permanents" GUID="xshlapvWy0O615O8UAyAvQ=="/>
+		<POI MapID="1301" xpos="656.219"  ypos="106.467"   zpos="-466.531"  type="collectibles.chests_permanents" GUID="QXkHfgqCaE+3GsHcTlNomA=="/>
+		<POI MapID="1301" xpos="690.616"  ypos="27.033"    zpos="-86.9837"  type="collectibles.chests_permanents" GUID="dwxU4j0l+0mYEb9c2UJZew=="/>
+		<POI MapID="1301" xpos="704.901"  ypos="0.04609"   zpos="-105.387"  type="collectibles.chests_permanents" GUID="/Skh+MK5+0aLxoHjwDkFyA=="/>
+		<POI MapID="1301" xpos="704.961"  ypos="0.05608"   zpos="-97.402"   type="collectibles.chests_permanents" GUID="SdGWSBF7xUClZoRA0+srhQ=="/>
+		<POI MapID="1301" xpos="760.702"  ypos="221.5"     zpos="423.564"   type="collectibles.chests_permanents" GUID="+1M8cBKPQE2Wo8jIrbyLfg=="/>
+		<POI MapID="1301" xpos="770.178"  ypos="132.666"   zpos="-5.02531"  type="collectibles.chests_permanents" GUID="C3Aw3h7+y0qilcPSv2GChA=="/>
+		<POI MapID="1301" xpos="771.624"  ypos="178.738"   zpos="243.855"   type="collectibles.chests_permanents" GUID="FANwNCZ/cUuDc/Fmyx1fUg=="/>
+		<POI MapID="1301" xpos="829.387"  ypos="115.771"   zpos="910.39"    type="collectibles.chests_permanents" GUID="HS7W/bi5vU2gAmHWz23k9A=="/>
+		<POI MapID="1301" xpos="878.064"  ypos="227.171"   zpos="284.972"   type="collectibles.chests_permanents" GUID="ZfRWamq8eUi0XuM/dl0QTw=="/>
+		<POI MapID="1301" xpos="939.9"    ypos="172.316"   zpos="-200.104"  type="collectibles.chests_permanents" GUID="2M8CWbiQp0acAbRJAHjBUA=="/>
+		<POI MapID="1301" xpos="1061.59"  ypos="62.2677"   zpos="-425.496"  type="collectibles.chests_permanents" GUID="TRi+Ooljq0upJfZdaRs8KQ=="/>
+		<POI MapID="1301" xpos="1133.43"  ypos="120.085"   zpos="547.738"   type="collectibles.chests_permanents" GUID="0/kPXRQLoUahSJCUheS00A=="/>
+		<POI MapID="1301" xpos="1139.52"  ypos="119.927"   zpos="552.004"   type="collectibles.chests_permanents" GUID="EO4VHh/D00GWzuc0MWjtgg=="/>
+		<POI MapID="1301" xpos="1213.45"  ypos="119.607"   zpos="842.946"   type="collectibles.chests_permanents" GUID="JNyF8JmUlUygldJkGNqwtA=="/>
+
+		<POI MapID="1310" xpos="-913.123" ypos="-6.99514"  zpos="-916.693"  type="collectibles.chests_permanents" GUID="OzdtOCU1UkuAYMPRsOy6CA=="/>
+		<POI MapID="1310" xpos="-738.178" ypos="150.299"   zpos="953.638"   type="collectibles.chests_permanents" GUID="Z1RZ4PJxXUmYFf3Wl1YT+A=="/>
+		<POI MapID="1310" xpos="-531.357" ypos="156.406"   zpos="-25.2412"  type="collectibles.chests_permanents" GUID="JyKHgGS1SkGq4xwbhL3bLw=="/>
+		<POI MapID="1310" xpos="-346.254" ypos="425.097"   zpos="-85.5642"  type="collectibles.chests_permanents" GUID="0jfxLCDnMkWrwCfVCuQx2Q=="/>
+		<POI MapID="1310" xpos="-261.877" ypos="264.835"   zpos="1042.38"   type="collectibles.chests_permanents" GUID="JhwO2BsEOUi76dMzrei1FQ=="/>
+		<POI MapID="1310" xpos="-208.395" ypos="568.283"   zpos="224.146"   type="collectibles.chests_permanents" GUID="KJQDNfsIkkC+2pUW+2olGQ=="/>
+		<POI MapID="1310" xpos="-142.713" ypos="297.909"   zpos="1066.12"   type="collectibles.chests_permanents" GUID="DWCyIaTqQkOgKhTLwZu9Lg=="/>
+		<POI MapID="1310" xpos="-109.336" ypos="262.901"   zpos="924.014"   type="collectibles.chests_permanents" GUID="2jSLt3B3+kivGXhPMWOOog=="/>
+		<POI MapID="1310" xpos="23.7123"  ypos="316.62"    zpos="438.733"   type="collectibles.chests_permanents" GUID="uEaFotL8LkiSXEvBJse6wg=="/>
+		<POI MapID="1310" xpos="71.8135"  ypos="359.78"    zpos="183.851"   type="collectibles.chests_permanents" GUID="vgsso5aO/USIiwz9Iww1FQ=="/>
+		<POI MapID="1310" xpos="77.9021"  ypos="6.33016"   zpos="-669.813"  type="collectibles.chests_permanents" GUID="qYVUhatYyEqEwzrmbZ2m+Q=="/>
+		<POI MapID="1310" xpos="267.824"  ypos="6.35655"   zpos="-834.244"  type="collectibles.chests_permanents" GUID="FaYOKG2mE0Gg/5UZkTCSgg=="/>
+		<POI MapID="1310" xpos="326.056"  ypos="276.194"   zpos="997.176"   type="collectibles.chests_permanents" GUID="UxQHMDQVwU+f2TJagVGoKQ=="/>
+		<POI MapID="1310" xpos="341.445"  ypos="358.337"   zpos="-110.493"  type="collectibles.chests_permanents" GUID="ElUaXSdyN0GIeRCOTMyrNg=="/>
+		<POI MapID="1310" xpos="371.719"  ypos="1.10593"   zpos="-835.706"  type="collectibles.chests_permanents" GUID="JNUxv7M9YEybeakBUggEMA=="/>
+		<POI MapID="1310" xpos="426.662"  ypos="178.402"   zpos="-404.331"  type="collectibles.chests_permanents" GUID="hZORqpUbKEu3McVfljeI+g=="/>
+		<POI MapID="1310" xpos="466.188"  ypos="20.1689"   zpos="-326.285"  type="collectibles.chests_permanents" GUID="7LKb5AB9r0KLDdSM+Hw4bQ=="/>
+		<POI MapID="1310" xpos="501.132"  ypos="338.308"   zpos="141.975"   type="collectibles.chests_permanents" GUID="z43LXjD9S0SeL7HWbIwSrw=="/>
+		<POI MapID="1310" xpos="579.458"  ypos="147.197"   zpos="-217.567"  type="collectibles.chests_permanents" GUID="9jWSpuVjlE2KN5vWcj8jLw=="/>
+		<POI MapID="1310" xpos="681.897"  ypos="387.795"   zpos="48.3018"   type="collectibles.chests_permanents" GUID="BDRWcW4yWkueMMNapzhqJQ=="/>
+		<POI MapID="1310" xpos="722.089"  ypos="416.59"    zpos="13.659"    type="collectibles.chests_permanents" GUID="dOht5e/C/kKYi7UaWrf8+Q=="/>
+		<POI MapID="1310" xpos="767.596"  ypos="345.347"   zpos="997.322"   type="collectibles.chests_permanents" GUID="7RIjGUlld0i+ksqIQKFiZA=="/>
+		<POI MapID="1310" xpos="838.386"  ypos="371.678"   zpos="511.817"   type="collectibles.chests_permanents" GUID="A+EqDry88EScdrwGBhlsEA=="/>
+		<POI MapID="1310" xpos="915.584"  ypos="246.221"   zpos="555.326"   type="collectibles.chests_permanents" GUID="KHqvpK/3LESG2zazHyJIog=="/>
+
+		<POI MapID="1330" xpos="-567.411" ypos="29.535"    zpos="249.366"   type="collectibles.chests_permanents" GUID="7q4cplMrG0S56wnZ7YXCNg=="/>
+		<POI MapID="1330" xpos="-476.362" ypos="113.649"   zpos="-366.256"  type="collectibles.chests_permanents" GUID="I3vSKcOSHE23+sS9BPhXBg=="/>
+		<POI MapID="1330" xpos="-420.788" ypos="8.94818"   zpos="130.41"    type="collectibles.chests_permanents" GUID="aDdEwmGycEaxACAZfAMe0A=="/>
+		<POI MapID="1330" xpos="-390.365" ypos="81.1746"   zpos="469.957"   type="collectibles.chests_permanents" GUID="nq8Ei6mSVE+5XwiuDAeJvg=="/>
+		<POI MapID="1330" xpos="-268.245" ypos="-1.05235"  zpos="30.3557"   type="collectibles.chests_permanents" GUID="hqdsiDTLTkuO31Rq6z40AA=="/>
+		<POI MapID="1330" xpos="-256.23"  ypos="-1.77217"  zpos="-378.683"  type="collectibles.chests_permanents" GUID="BbpjU7kymEGyb5d0OWz8MA=="/>
+		<POI MapID="1330" xpos="-191.643" ypos="2.91916"   zpos="-699.216"  type="collectibles.chests_permanents" GUID="DOqguPaPYE+YRQiktrJUYA=="/>
+		<POI MapID="1330" xpos="-168.21"  ypos="39.9166"   zpos="455.58"    type="collectibles.chests_permanents" GUID="iJb8GxI6EEycQj8jm9BipQ=="/>
+		<POI MapID="1330" xpos="-46.139"  ypos="14.6027"   zpos="664.459"   type="collectibles.chests_permanents" GUID="LAtmXsOjY0GDcIbZUqqr3g=="/>
+		<POI MapID="1330" xpos="-9.07278" ypos="59.0972"   zpos="242.022"   type="collectibles.chests_permanents" GUID="wTAyaTa2KUWumCt4abtSlg=="/>
+		<POI MapID="1330" xpos="220.053"  ypos="76.4733"   zpos="-156.129"  type="collectibles.chests_permanents" GUID="j0RCGdEDFUS7XgcMFgivuw=="/>
+		<POI MapID="1330" xpos="235.786"  ypos="55.7884"   zpos="-678.538"  type="collectibles.chests_permanents" GUID="ijAmGEXbyUGEBdOwC7bn9Q=="/>
+		<POI MapID="1330" xpos="372.194"  ypos="82.5591"   zpos="431.273"   type="collectibles.chests_permanents" GUID="vhRIcgA8c0u0CKbKYPma5g=="/>
+		<POI MapID="1330" xpos="411.094"  ypos="-13.8479"  zpos="-48.9613"  type="collectibles.chests_permanents" GUID="PyYqKOsnfkmns5jNxrX3tQ=="/>
+		<POI MapID="1330" xpos="433.682"  ypos="45.746"    zpos="-388.121"  type="collectibles.chests_permanents" GUID="ShuBxQVhn0SOnDExj5oeKg=="/>
+		<POI MapID="1330" xpos="456.676"  ypos="63.0586"   zpos="-657.693"  type="collectibles.chests_permanents" GUID="k+ZsmtrnF0epaP4sIZEqfw=="/>
+		<POI MapID="1330" xpos="481.593"  ypos="3.14016"   zpos="432.075"   type="collectibles.chests_permanents" GUID="JhhxmCauMkW10PQq2D80Nw=="/>
+		<POI MapID="1330" xpos="586.076"  ypos="79.9591"   zpos="-338.62"   type="collectibles.chests_permanents" GUID="zis6Tf3AS06es0t7k1sywg=="/>
+		<POI MapID="1330" xpos="612.185"  ypos="2.1111"    zpos="-117.266"  type="collectibles.chests_permanents" GUID="7gyz9Sbo0EuZ9nRBj45bEA=="/>
+		<POI MapID="1330" xpos="686.72"   ypos="-30.8936"  zpos="-356.905"  type="collectibles.chests_permanents" GUID="3w703DH41UaBjCVZXdjr7g=="/>
+		<POI MapID="1330" xpos="714.027"  ypos="15.8275"   zpos="486.057"   type="collectibles.chests_permanents" GUID="sqztZ2FOcEGl1aJ7wZJu+w=="/>
+		<POI MapID="1330" xpos="866.062"  ypos="62.9549"   zpos="358.497"   type="collectibles.chests_permanents" GUID="ZkUVdg7k7k+8KEGAgue5oA=="/>
+		<POI MapID="1330" xpos="907.197"  ypos="0.631999"  zpos="-231.606"  type="collectibles.chests_permanents" GUID="p6tylkj7pkCvbrkvrV3U/A=="/>
+
+		<POI MapID="1343" xpos="19.6561"  ypos="154.312"   zpos="356.663"   type="collectibles.chests_permanents" GUID="4Xe1RJumiU2R2HoNXKv7uA=="/>
+		<POI MapID="1343" xpos="21.56"    ypos="154.312"   zpos="360.903"   type="collectibles.chests_permanents" GUID="cs4s1fpDpEi66o7/8GtbFg=="/>
+		<POI MapID="1343" xpos="25.8391"  ypos="154.311"   zpos="355.737"   type="collectibles.chests_permanents" GUID="mATchzV5S0WkudVVjLEeyg=="/>
+		<POI MapID="1343" xpos="26.144"   ypos="154.312"   zpos="362.167"   type="collectibles.chests_permanents" GUID="2bwHbNO3E0i20pawAtR2og=="/>
+		<POI MapID="1343" xpos="218.53"   ypos="222.253"   zpos="497.376"   type="collectibles.chests_permanents" GUID="3uvRUyQ3QkmI3Xuq1Qtd+Q=="/>
+		<POI MapID="1343" xpos="359.703"  ypos="216.132"   zpos="407.072"   type="collectibles.chests_permanents" GUID="TGTOincb30mBWYrfqhLuQg=="/>
+		<POI MapID="1343" xpos="442.541"  ypos="214.978"   zpos="542.305"   type="collectibles.chests_permanents" GUID="4iTXyiw7xkinzoU7VnqkvQ=="/>
+		<POI MapID="1343" xpos="480.45"   ypos="208.037"   zpos="416.819"   type="collectibles.chests_permanents" GUID="VUNj/4R4B02EXZgNkeZp4w=="/>
+		<POI MapID="1343" xpos="646.932"  ypos="130.314"   zpos="352.174"   type="collectibles.chests_permanents" GUID="Qe9piuEhpEiBuQ9CPwIjWg=="/>
+		<POI MapID="1343" xpos="676.445"  ypos="134.347"   zpos="75.8831"   type="collectibles.chests_permanents" GUID="7g+vL4a1J06Runy05iUBQA=="/>
+		<POI MapID="1343" xpos="836.665"  ypos="113.784"   zpos="158.047"   type="collectibles.chests_permanents" GUID="TmLI+Smt7kiSaKZH7dYz4Q=="/>
+		<POI MapID="1343" xpos="904.433"  ypos="61.3661"   zpos="62.7915"   type="collectibles.chests_permanents" GUID="+O46e6UjwESrwbh97tlY5Q=="/>
+		<POI MapID="1343" xpos="925.699"  ypos="128.158"   zpos="406.885"   type="collectibles.chests_permanents" GUID="hf+QYn31uUq4T32Qw3QrZg=="/>
+		<POI MapID="1343" xpos="1168.88"  ypos="110.228"   zpos="-466.894"  type="collectibles.chests_permanents" GUID="+t/cT+14FUCGfTYgGZmqUQ=="/>
+		<POI MapID="1343" xpos="1196.06"  ypos="53.3114"   zpos="134.834"   type="collectibles.chests_permanents" GUID="R1RkJvEPP0iuKpoPmyZKhg=="/>
+		<POI MapID="1343" xpos="1286.01"  ypos="52.9102"   zpos="604.536"   type="collectibles.chests_permanents" GUID="GOqATNkmI0+aHp2z63+M/A=="/>
+		<POI MapID="1343" xpos="1310.11"  ypos="34.9177"   zpos="606.745"   type="collectibles.chests_permanents" GUID="9Yk47lH9MU+33gfyjarp0A=="/>
+		<POI MapID="1343" xpos="1316.88"  ypos="55.5253"   zpos="564.099"   type="collectibles.chests_permanents" GUID="vEbJDsOr70qAVRDiuDXtvw=="/>
+		<POI MapID="1343" xpos="1344.8"   ypos="34.9651"   zpos="497.601"   type="collectibles.chests_permanents" GUID="5tO1USYY2U6wF+Cp0khRfw=="/>
+
+		<POI MapID="1371" xpos="-548.208" ypos="140.714"   zpos="-600.683"  type="collectibles.chests_permanents" GUID="Wp0XqFBMdEiA9nezGB6eGA=="/>
+		<POI MapID="1371" xpos="-519.932" ypos="164.248"   zpos="-1162.91"  type="collectibles.chests_permanents" GUID="StLhjJSB+0aucsElhP6Vmw=="/>
+		<POI MapID="1371" xpos="-489.379" ypos="92.9436"   zpos="63.8461"   type="collectibles.chests_permanents" GUID="gjw3WIv5kk6VP0ur2yfjVA=="/>
+		<POI MapID="1371" xpos="-366.149" ypos="82.4858"   zpos="-127.508"  type="collectibles.chests_permanents" GUID="NITF5uxW2kSZy5SX0aRRQg=="/>
+		<POI MapID="1371" xpos="-227.896" ypos="245.485"   zpos="-918.057"  type="collectibles.chests_permanents" GUID="b5h2F4lSZ0yOjLJojIhUmA=="/>
+		<POI MapID="1371" xpos="-171.502" ypos="91.2537"   zpos="-388.541"  type="collectibles.chests_permanents" GUID="APCYQQJQjE6I9m33BVzcCQ=="/>
+		<POI MapID="1371" xpos="-167.178" ypos="252.617"   zpos="-1085.13"  type="collectibles.chests_permanents" GUID="eKAYucPcOEShCLgmMivVnA=="/>
+		<POI MapID="1371" xpos="-49.0599" ypos="308.93"    zpos="-1033.83"  type="collectibles.chests_permanents" GUID="C5qq+b+Ym0W+/ACctl2pRA=="/>
+		<POI MapID="1371" xpos="-38.3299" ypos="135.581"   zpos="-738.319"  type="collectibles.chests_permanents" GUID="KlLPXaVVZUiVJNZ1214kIg=="/>
+		<POI MapID="1371" xpos="12.3903"  ypos="105.866"   zpos="-583.883"  type="collectibles.chests_permanents" GUID="qYiE1ce7f0ObgZw1YTcxJA=="/>
+		<POI MapID="1371" xpos="61.2806"  ypos="16.1884"   zpos="-449.315"  type="collectibles.chests_permanents" GUID="TC/m7vU4oEaIMc8x6EW5fg=="/>
+		<POI MapID="1371" xpos="115.14"   ypos="2.18432"   zpos="-232.487"  type="collectibles.chests_permanents" GUID="gv9WtyfGkUOuspMghlrAuA=="/>
+		<POI MapID="1371" xpos="245.307"  ypos="123.653"   zpos="-535.38"   type="collectibles.chests_permanents" GUID="NnBm5SoXOk2dJ8fsqhfwlQ=="/>
+		<POI MapID="1371" xpos="245.806"  ypos="160.416"   zpos="-993.348"  type="collectibles.chests_permanents" GUID="QMBXnLZx3UqDkkuAY9qVBQ=="/>
+		<POI MapID="1371" xpos="431.636"  ypos="108.33"    zpos="-1232.82"  type="collectibles.chests_permanents" GUID="HqfrA8g/FkCGSZTzk0snCg=="/>
+		<POI MapID="1371" xpos="436.194"  ypos="95.9"      zpos="-461.702"  type="collectibles.chests_permanents" GUID="a2EsnLNOqEi766iAlF6iZg=="/>
+		<POI MapID="1371" xpos="519.035"  ypos="83.5626"   zpos="-149.798"  type="collectibles.chests_permanents" GUID="A9i1BWeDnUOmsohVs4B4PA=="/>
+		<POI MapID="1371" xpos="557.944"  ypos="1.77876"   zpos="-1175.41"  type="collectibles.chests_permanents" GUID="diW1CQS0xEugyU8hJ8onkg=="/>
+		<POI MapID="1371" xpos="572.03"   ypos="48.4559"   zpos="-905.842"  type="collectibles.chests_permanents" GUID="T3yJvxi8l0uVHlo3RiO5xA=="/>
+		<POI MapID="1371" xpos="591.073"  ypos="69.3323"   zpos="-1189.89"  type="collectibles.chests_permanents" GUID="xi1PoCBY5UWYSzlce7jo0A=="/>
+
+	</POIs>
+</OverlayData>

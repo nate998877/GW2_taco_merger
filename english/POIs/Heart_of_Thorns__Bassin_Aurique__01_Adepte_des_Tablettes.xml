@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+POIs: ReActif.9251
+Date: 2017/08/11
+-->
+<OverlayData>
+	<MarkerCategory name="heart_of_thorns.bassin_aurique">
+		<MarkerCategory name="adepte_des_tablettes" DisplayName="A Study in Gold" heightOffset="3"/>
+	</MarkerCategory>
+
+	<POIs>
+
+		<!-- 1. Porte ouest : près du sage Laural -->
+		<POI MapID="1043" xpos="-234.65" ypos="230" zpos="-92.6" type="heart_of_thorns.bassin_aurique.adepte_des_tablettes" GUID="8qO+yrwYqEqaRdNnXQjRag=="/>
+
+		<!-- 2. Piliers de l'héritage : sud-ouest -->
+		<POI MapID="1043" xpos="-41" ypos="126" zpos="-41" type="heart_of_thorns.bassin_aurique.adepte_des_tablettes" GUID="4w6ms4OK0EqZRzhUjXvOvA=="/>
+
+		<!-- 3. Piliers de l'héritage : sud-est -->
+		<POI MapID="1043" xpos="41" ypos="126" zpos="-41" type="heart_of_thorns.bassin_aurique.adepte_des_tablettes" GUID="x9nmIzmK4kqzcW8lOD/avg=="/>
+
+		<!-- 4. Piliers de l'héritage : nord-ouest -->
+		<POI MapID="1043" xpos="-41" ypos="126" zpos="41" type="heart_of_thorns.bassin_aurique.adepte_des_tablettes" GUID="808fc4b2QUacVE8RoLDtwQ=="/>
+
+		<!-- 5. Porte nord : où l'eau coule verticalement -->
+		<POI MapID="1043" xpos="137.4" ypos="172" zpos="208.9" type="heart_of_thorns.bassin_aurique.adepte_des_tablettes" GUID="Tn99LjvmGEuhRltOk/bW3Q=="/>
+
+		<!-- 6. Porte est : ici s'achèvent les Chutes et commence la Nature -->
+		<POI MapID="1043" xpos="350.59" ypos="154" zpos="-25.86" type="heart_of_thorns.bassin_aurique.adepte_des_tablettes" GUID="xBsVS5GWd0Cdn/Ucb/yCsQ=="/>
+
+		<!-- 7. Porte est : une vue imprenable sur un arbre majestueux -->
+		<POI MapID="1043" xpos="156.76" ypos="152" zpos="-83.84" type="heart_of_thorns.bassin_aurique.adepte_des_tablettes" GUID="SDNNaN3d1Ei2YBiVZ+DvLA=="/>
+
+		<!-- 8. Porte sud : dissimulée au sud-ouest -->
+		<POI MapID="1043" xpos="-202" ypos="184" zpos="-220" type="heart_of_thorns.bassin_aurique.adepte_des_tablettes" GUID="VVYf51UWE0ODwCevSA2ACg=="/>
+
+		<!-- 9. Porte ouest : accès impraticable si ce n'est par les airs -->
+		<POI MapID="1043" xpos="-198.43" ypos="157" zpos="95" type="heart_of_thorns.bassin_aurique.adepte_des_tablettes" GUID="GwrzOyQi7UqFuCA0IxYNPA=="/>
+
+		<!-- 10. Porte sud : entrée -->
+		<POI MapID="1043" xpos="0.37" ypos="244.7" zpos="-241.37" type="heart_of_thorns.bassin_aurique.adepte_des_tablettes" GUID="bakzatn200C4ChpqrnAUkA=="/>
+
+		<!-- 11. Porte nord : entrée -->
+		<POI MapID="1043" xpos="0.73" ypos="279" zpos="201" type="heart_of_thorns.bassin_aurique.adepte_des_tablettes" GUID="sUZmhabL4Eun3bM29Crw+A=="/>
+
+		<!-- 12. Porte sud : vous ne pourrez l'atteindre qu'en prenant un maximum d'altitude -->
+		<POI MapID="1043" xpos="-189.52" ypos="266.7" zpos="-207.43" type="heart_of_thorns.bassin_aurique.adepte_des_tablettes" GUID="gjghCGwXFUO/E0VHtgqbgQ=="/>
+
+		<!-- 13. Trône de Luminante : la jungle pousse jusqu'ici -->
+		<POI MapID="1043" xpos="-214.83" ypos="311" zpos="32" type="heart_of_thorns.bassin_aurique.adepte_des_tablettes" GUID="qqf0DPvqWEyPoGbgo3TNjA=="/>
+
+		<!-- 14. Porte nord : là où les masques tombent -->
+		<POI MapID="1043" xpos="-198.35" ypos="47" zpos="322" type="heart_of_thorns.bassin_aurique.adepte_des_tablettes" GUID="qPsm32BbI0OYJ1+k21DVbA=="/>
+
+		<!-- 15. Salles des épreuves : un feuillage dense la dissimule au regard -->
+		<POI MapID="1043" xpos="4.36" ypos="21" zpos="212.56" type="heart_of_thorns.bassin_aurique.adepte_des_tablettes" GUID="yO+RQ7kqbUOKbnwX8xWKIg=="/>
+
+		<!-- 16. Salles des épreuves : les enseignements de Brill nous guident -->
+		<POI MapID="1043" xpos="71.37" ypos="5.5" zpos="-8.61" type="heart_of_thorns.bassin_aurique.adepte_des_tablettes" GUID="TFTL3lXO9k2YcK17s8fWWw=="/>
+
+		<!-- 17. Chambre intérieure : un jour, un autre viendra -->
+		<POI MapID="1043" xpos="319.66" ypos="0" zpos="-273.5" type="heart_of_thorns.bassin_aurique.adepte_des_tablettes" GUID="+XMuQQvFqkanyoCAZBrRKw=="/>
+
+		<!-- Herta -->
+		<POI MapID="1043" xpos="556.44" ypos="235" zpos="306" type="heart_of_thorns.bassin_aurique.adepte_des_tablettes" GUID="531XXZFiRUWq7UiBkOJYtw==" iconFile="Img\Herta.png"/>
+
+	</POIs>
+</OverlayData>

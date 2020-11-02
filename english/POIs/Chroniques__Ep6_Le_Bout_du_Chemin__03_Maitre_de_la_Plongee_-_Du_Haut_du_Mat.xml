@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+POIs: ReActif.9251
+Date: 2017/08/11
+-->
+<OverlayData>
+	<MarkerCategory name="chroniques.saison_3">
+		<MarkerCategory name="ep6_le_bout_du_chemin" DisplayName="Ep.6 - One Path Ends" iconFile="Img\LeBoutduChemin.png">
+			<MarkerCategory name="maitre_de_la_plongee__du_haut_du_mat" DisplayName="Dive Master: Masted" iconFile="Img\Plongeon.png" heightOffset="0"/>
+		</MarkerCategory>
+	</MarkerCategory>
+
+	<POIs>
+
+		<POI MapID="1203" xpos="534.707" ypos="517.358" zpos="235.353" type="chroniques.saison_3.ep6_le_bout_du_chemin.maitre_de_la_plongee__du_haut_du_mat" GUID="5/jCZJgCdkq/JrPuQGYrqw=="/>
+
+	</POIs>
+</OverlayData>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+POIs: ReActif.9251
+Date: 2017/02/12
+-->
+<OverlayData>
+	<MarkerCategory name="chroniques.saison_3">
+		<MarkerCategory name="ep4_la_tete_du_serpent" DisplayName="Ep.4 - The Head of the Snake" iconFile="Img\LacDoric.png">
+			<MarkerCategory name="maitre_des_marionnettes" DisplayName="Master of Puppets"/>
+		</MarkerCategory>
+	</MarkerCategory>
+
+	<POIs>
+
+		<!-- 1. A Propos des Convertis -->
+		<POI MapID="1191" xpos="66.3455" ypos="40.9486" zpos="87.5373" type="chroniques.saison_3.ep4_la_tete_du_serpent.maitre_des_marionnettes" GUID="0XdC3J/CakS3vmfX+bBS5Q=="/>
+
+		<!-- 2. Chatiment par le Feu -->
+		<POI MapID="1191" xpos="51.1777" ypos="27.5727" zpos="203.878" type="chroniques.saison_3.ep4_la_tete_du_serpent.maitre_des_marionnettes" GUID="eR16DmoXI0urJB8GaiqTLA=="/>
+
+		<!-- 3. Compagnie des Faucons -->
+		<POI MapID="1191" xpos="73.2563" ypos="23.6552" zpos="80.6392" type="chroniques.saison_3.ep4_la_tete_du_serpent.maitre_des_marionnettes" GUID="Rjm/AyJ8XkmbmywW44ACng=="/>
+
+		<!-- 4. Une Promotion Opportune -->
+		<POI MapID="1191" xpos="124.251" ypos="40.9516" zpos="21.7351" type="chroniques.saison_3.ep4_la_tete_du_serpent.maitre_des_marionnettes" GUID="HnycaiIfIEKytceTto3/fg=="/>
+
+		<!-- 5. De Piètres Compagnons -->
+		<POI MapID="1191" xpos="166.596" ypos="40.0757" zpos="60.2898" type="chroniques.saison_3.ep4_la_tete_du_serpent.maitre_des_marionnettes" GUID="Asdxh2lU/0mBEw80VjGwCA=="/>
+
+		<!-- 6. Il est en Vie... -->
+		<POI MapID="1191" xpos="157.967" ypos="31.9981" zpos="82.2446" type="chroniques.saison_3.ep4_la_tete_du_serpent.maitre_des_marionnettes" GUID="nl/OCQpASEaJBW1/BQ8x6w=="/>
+
+		<!-- 7. Peu Raffiné mais Efficace -->
+		<POI MapID="1191" xpos="-38.6926" ypos="32.3967" zpos="293.923" type="chroniques.saison_3.ep4_la_tete_du_serpent.maitre_des_marionnettes" GUID="drYcNb7QEkWmR1m5Fct8FA=="/>
+
+		<!-- 8. Un Nouveau Protégé -->
+		<POI MapID="1191" xpos="-45.5787" ypos="33.5445" zpos="243.231" type="chroniques.saison_3.ep4_la_tete_du_serpent.maitre_des_marionnettes" GUID="uNC2bbE6QEK+8d0y3wmgAw=="/>
+
+		<!-- 9. Des Sacrifices à Faire -->
+		<POI MapID="1191" xpos="84.6466" ypos="41.0029" zpos="86.7527" type="chroniques.saison_3.ep4_la_tete_du_serpent.maitre_des_marionnettes" GUID="M1VgN7kKNUmM5Esvh5pPBw=="/>
+
+		<!-- 10. Le Rideau Tombe -->
+		<POI MapID="1191" xpos="63.335" ypos="41.0364" zpos="41.9757" type="chroniques.saison_3.ep4_la_tete_du_serpent.maitre_des_marionnettes" GUID="0sZh81DxdEO9MPR+gbn8yw=="/>
+
+		<!-- 11. Un Léger Contretemps -->
+		<POI MapID="1191" xpos="70.0491" ypos="40.9945" zpos="58.0571" type="chroniques.saison_3.ep4_la_tete_du_serpent.maitre_des_marionnettes" GUID="KM4h5LW+xUC16z2xlEduDA=="/>
+
+		<!-- 12. Les Ennemis de Mon Ennemi -->
+		<POI MapID="1191" xpos="135.126" ypos="40.5332" zpos="9.18124" type="chroniques.saison_3.ep4_la_tete_du_serpent.maitre_des_marionnettes" GUID="tpwYUr7sXUawP9jwUhGc9w=="/>
+
+		<!-- 13. La Nouvelle Direction -->
+		<POI MapID="1191" xpos="128.223" ypos="23.6167" zpos="111.289" type="chroniques.saison_3.ep4_la_tete_du_serpent.maitre_des_marionnettes" GUID="5B1IfJTilk+0l0IKK9NS8A=="/>
+
+		<!-- 14. Des Ennemis Encore Plus Vieux que les Amis -->
+		<POI MapID="1191" xpos="-63.2423" ypos="31.3029" zpos="99.1802" type="chroniques.saison_3.ep4_la_tete_du_serpent.maitre_des_marionnettes" GUID="OzXyLhAOa02gemwYm2Js6Q=="/>
+
+		<!-- 15. Problèmes Domestiques -->
+		<POI MapID="1191" xpos="58.2869" ypos="31.9148" zpos="54.3488" type="chroniques.saison_3.ep4_la_tete_du_serpent.maitre_des_marionnettes" GUID="4k/14MZxxEu9meJhzj0tVw=="/>
+
+		<!-- 16. Des Pirates ? Vraiment ? -->
+		<POI MapID="1191" xpos="79.8737" ypos="31.7417" zpos="104.602" type="chroniques.saison_3.ep4_la_tete_du_serpent.maitre_des_marionnettes" GUID="JZ80nYnYDUyB1ANCi11Htw=="/>
+
+		<!-- 17. Problème de Wi -->
+		<POI MapID="1191" xpos="101.652" ypos="41.3711" zpos="133.955" type="chroniques.saison_3.ep4_la_tete_du_serpent.maitre_des_marionnettes" GUID="Qk8nqVtTE0Sdrd33Vpg9tQ=="/>
+
+		<!-- 18. Oeil pour Oeil, Enfant pour Enfant -->
+		<POI MapID="1191" xpos="98.769" ypos="32.1958" zpos="131.594" type="chroniques.saison_3.ep4_la_tete_du_serpent.maitre_des_marionnettes" GUID="vCmS7YVrGUKhOvuatUn9DA=="/>
+
+		<!-- 19. Encore une Nouvelle Protégée -->
+		<POI MapID="1191" xpos="170.863" ypos="41.0003" zpos="68.9509" type="chroniques.saison_3.ep4_la_tete_du_serpent.maitre_des_marionnettes" GUID="cI6yacAadE2R+I20Rlgs2w=="/>
+
+		<!-- 20. Et ne te Relève Pas -->
+		<POI MapID="1191" xpos="58.28" ypos="23.3207" zpos="45.0409" type="chroniques.saison_3.ep4_la_tete_du_serpent.maitre_des_marionnettes" GUID="+zOErO3KKECghxOl5IxXrg=="/>
+
+		<!-- 21. Correspondance de Caudecus (incomplète) -->
+		<!-- S'obtient automatiquement à la première lettre trouvé -->
+
+	</POIs>
+</OverlayData>

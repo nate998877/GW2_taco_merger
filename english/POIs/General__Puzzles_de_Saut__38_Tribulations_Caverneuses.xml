@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+POIs: Cloud Strife.7492 - Xenophy.2716 - ReActif.9251
+Date: 2017/08/23
+-->
+<OverlayData>
+	<MarkerCategory name="general" DisplayName="General">
+		<MarkerCategory name="puzzles_de_saut" DisplayName="Jumping Puzzles" iconFile="Img\Guide.png" iconSize="0.75">
+			<MarkerCategory name="tribulations_caverneuses" DisplayName="Tribulation Caverns" triggerRange="3"/>
+		</MarkerCategory>
+	</MarkerCategory>
+
+	<POIs>
+
+		<!-- Début -->
+		<POI MapID="26" xpos="-579.077" ypos="68.4556" zpos="-860.841" type="general.puzzles_de_saut.debut" GUID="E55fex1Cg0aIFcAHROdstQ=="/>
+
+		<!-- Route -->
+		<Route MapID="26" name="Tribulations_Caverneuses" resetposx="-579.077" resetposy="68.4556" resetposz="-860.841" resetrange="2">
+			<POI MapID="26" xpos="-584.254" ypos="66.9426" zpos="-871.592" type="general.puzzles_de_saut.tribulations_caverneuses" GUID="3W0xrK3el0O3IFu/gvFntQ=="/>
+			<POI MapID="26" xpos="-587.395" ypos="59.19" zpos="-879.337" type="general.puzzles_de_saut.tribulations_caverneuses" GUID="xgEkdLr7uUSgb8HfHUjTRg=="/>
+			<POI MapID="26" xpos="-593.669" ypos="52.1694" zpos="-884.845" type="general.puzzles_de_saut.tribulations_caverneuses" GUID="Xvp4jfr6V0apdZKEFOB/aQ=="/>
+			<POI MapID="26" xpos="-600.544" ypos="45.928" zpos="-886.719" type="general.puzzles_de_saut.tribulations_caverneuses" GUID="H7HununnJU+9sfFRKTv8ZQ=="/>
+			<POI MapID="26" xpos="-610.872" ypos="38.9906" zpos="-884.209" type="general.puzzles_de_saut.tribulations_caverneuses" GUID="ZdKjxqHETEmJwy2fdc+zNg=="/>
+			<POI MapID="26" xpos="-619.414" ypos="34.3013" zpos="-877.926" type="general.puzzles_de_saut.tribulations_caverneuses" GUID="leeCQ1X8r0irJG1DqmWQSA=="/>
+			<POI MapID="26" xpos="-629.28" ypos="32.3212" zpos="-872.819" type="general.puzzles_de_saut.tribulations_caverneuses" GUID="zlDZAw5MskGuPW5mQA///Q=="/>
+			<POI MapID="26" xpos="-643.264" ypos="29.7651" zpos="-859.819" type="general.puzzles_de_saut.tribulations_caverneuses" GUID="+JVc2Ktl5EGU2Wdy5Spdtg=="/>
+			<POI MapID="26" xpos="-642.953" ypos="28.3367" zpos="-849.164" type="general.puzzles_de_saut.tribulations_caverneuses" GUID="IwY97fPxz0udsYMZRna9MA=="/>
+			<POI MapID="26" xpos="-639.744" ypos="27.8887" zpos="-837.895" type="general.puzzles_de_saut.tribulations_caverneuses" GUID="V9wIX4HnTkugEhyD7GldRg=="/>
+			<POI MapID="26" xpos="-633.365" ypos="28.5595" zpos="-826.882" type="general.puzzles_de_saut.tribulations_caverneuses" GUID="TFRuC0Jp70mRcOwCeCD5fQ=="/>
+			<POI MapID="26" xpos="-625.442" ypos="31.0046" zpos="-817.385" type="general.puzzles_de_saut.tribulations_caverneuses" GUID="d86iOpsOAkyGZn9x3TVcPQ=="/>
+			<POI MapID="26" xpos="-625.701" ypos="31.4177" zpos="-809.66" type="general.puzzles_de_saut.tribulations_caverneuses" GUID="Rbvp7cMuPUatHPk1eQopUA=="/>
+			<POI MapID="26" xpos="-628.539" ypos="28.7519" zpos="-802.671" type="general.puzzles_de_saut.tribulations_caverneuses" GUID="R2pbz+hY6kKRMgGIVS/4nw=="/>
+			<POI MapID="26" xpos="-623.567" ypos="27.1858" zpos="-794.187" type="general.puzzles_de_saut.tribulations_caverneuses" GUID="u+aJVISIskCppziptiZV2g=="/>
+			<POI MapID="26" xpos="-615.82" ypos="24.0698" zpos="-788.709" type="general.puzzles_de_saut.tribulations_caverneuses" GUID="qUAQOrgRQUedjvqDt44HFA=="/>
+			<POI MapID="26" xpos="-618.045" ypos="19.3961" zpos="-777.692" type="general.puzzles_de_saut.tribulations_caverneuses" GUID="XhLNCvnPSUKOugqI6C1YCQ=="/>
+			<POI MapID="26" xpos="-621.826" ypos="15.7879" zpos="-771.852" type="general.puzzles_de_saut.tribulations_caverneuses" GUID="Qdv9ze5YJEujWMM1aRyA3A=="/>
+			<POI MapID="26" xpos="-627.429" ypos="15.8498" zpos="-769.857" type="general.puzzles_de_saut.tribulations_caverneuses" GUID="6RQIGIxCJU2XLONfpM8U7Q=="/>
+			<POI MapID="26" xpos="-627.624" ypos="16.9793" zpos="-764.909" type="general.puzzles_de_saut.tribulations_caverneuses" GUID="wWUW1qMgmUWwaPyVhCp4jA=="/>
+			<POI MapID="26" xpos="-624.052" ypos="15.0201" zpos="-761.007" type="general.puzzles_de_saut.tribulations_caverneuses" GUID="95Xq2Nh2iU+i1umRmOD7/w=="/>
+			<POI MapID="26" xpos="-617.229" ypos="14.3908" zpos="-758.32" type="general.puzzles_de_saut.tribulations_caverneuses" GUID="4ITbvmvbdECxVR9B7OJFaQ=="/>
+			<POI MapID="26" xpos="-612.784" ypos="18.3769" zpos="-755.921" type="general.puzzles_de_saut.tribulations_caverneuses" GUID="vubZE1Fc70mW2PJGTjI11g=="/>
+			<POI MapID="26" xpos="-608.718" ypos="21.4416" zpos="-753.891" type="general.puzzles_de_saut.tribulations_caverneuses" GUID="8SCJMGYReUaJFL9ZxjT2bA=="/>
+			<POI MapID="26" xpos="-604.945" ypos="22.6808" zpos="-752.546" type="general.puzzles_de_saut.tribulations_caverneuses" GUID="nZBR0jB4BkyT10hvsRNyPQ=="/>
+			<POI MapID="26" xpos="-601.941" ypos="19.0774" zpos="-750.395" type="general.puzzles_de_saut.tribulations_caverneuses" GUID="yv9e7xtHbkKWLaHHW+F/eA=="/>
+			<POI MapID="26" xpos="-596.12" ypos="14.0869" zpos="-748.574" type="general.puzzles_de_saut.tribulations_caverneuses" GUID="F/pdIaBYxkmR2+EIiinU5g=="/>
+			<POI MapID="26" xpos="-588.508" ypos="14.889" zpos="-750.643" type="general.puzzles_de_saut.tribulations_caverneuses" GUID="kwH7BqC3fUGSf7P9WcP0CQ=="/>
+			<POI MapID="26" xpos="-579.906" ypos="17.9398" zpos="-753.803" type="general.puzzles_de_saut.tribulations_caverneuses" GUID="cJ+pLSEMZkaUwmOwCFdsVA=="/>
+			<POI MapID="26" xpos="-574.381" ypos="20.6561" zpos="-753.734" type="general.puzzles_de_saut.tribulations_caverneuses" GUID="S48qgwb17E6OwHx6/m4F0A=="/>
+			<POI MapID="26" xpos="-568.927" ypos="24.504" zpos="-748.688" type="general.puzzles_de_saut.tribulations_caverneuses" GUID="G34X9RhvOEeWAFp1uLUQVw=="/>
+			<POI MapID="26" xpos="-564.578" ypos="25.7574" zpos="-742.245" type="general.puzzles_de_saut.tribulations_caverneuses" GUID="hC+gs/VxUEWJPmDxSCs3bA=="/>
+			<POI MapID="26" xpos="-571.157" ypos="26.4195" zpos="-735.814" type="general.puzzles_de_saut.tribulations_caverneuses" GUID="k7oLXtqQGkOYN5ZPkwTWnw=="/>
+			<POI MapID="26" xpos="-579.612" ypos="27.0309" zpos="-727.107" type="general.puzzles_de_saut.tribulations_caverneuses" GUID="cobhaUeqCkmtBlzyER9+eg=="/>
+			<POI MapID="26" xpos="-588.117" ypos="26.6507" zpos="-718.88" type="general.puzzles_de_saut.tribulations_caverneuses" GUID="WY9FTtWLLkm+cQWT47Ao5w=="/>
+			<POI MapID="26" xpos="-596.853" ypos="26.2648" zpos="-712.214" type="general.puzzles_de_saut.tribulations_caverneuses" GUID="4iYqycxkLkSqosuYovWTYg=="/>
+			<POI MapID="26" xpos="-606.41" ypos="26.2722" zpos="-699.719" type="general.puzzles_de_saut.tribulations_caverneuses" GUID="ouBuFCr4qkO7T5IMj0a6SQ=="/>
+			<POI MapID="26" xpos="-611.676" ypos="28.1036" zpos="-689.47" type="general.puzzles_de_saut.tribulations_caverneuses" GUID="RsSIPn6ekUy4eIlLaIyQcQ=="/>
+			<POI MapID="26" xpos="-614.722" ypos="31.7643" zpos="-682.14" type="general.puzzles_de_saut.tribulations_caverneuses" GUID="PCZ9ezmn4EGS0UeSzWKysg=="/>
+			<POI MapID="26" xpos="-625.401" ypos="33.7284" zpos="-680.822" type="general.puzzles_de_saut.tribulations_caverneuses" GUID="R2P6EO8DHU+MVLhAfmhchw=="/>
+			<POI MapID="26" xpos="-633.049" ypos="33.7162" zpos="-680.779" type="general.puzzles_de_saut.tribulations_caverneuses" GUID="cH3hSAFB9ESHevnJF5TJIg=="/>
+			<POI MapID="26" xpos="-638.945" ypos="34.5609" zpos="-676.843" type="general.puzzles_de_saut.tribulations_caverneuses" GUID="6im2WThnZ06AogSecbUWbA=="/>
+			<POI MapID="26" xpos="-639.06" ypos="36.552" zpos="-670.32" type="general.puzzles_de_saut.tribulations_caverneuses" GUID="Du/LLZoBVE64VqNeNW8zag=="/>
+			<POI MapID="26" xpos="-642.63" ypos="38.8357" zpos="-667.867" type="general.puzzles_de_saut.tribulations_caverneuses" GUID="ekyHYaNhQE+kC9AWg1JdNg=="/>
+			<POI MapID="26" xpos="-638.891" ypos="40.7431" zpos="-664.356" type="general.puzzles_de_saut.tribulations_caverneuses" GUID="sf6TiI+bOkK1QthqFSJPBQ=="/>
+			<POI MapID="26" xpos="-640.91" ypos="44.3168" zpos="-661.645" type="general.puzzles_de_saut.tribulations_caverneuses" GUID="Cdokt6iaAkehgdA4sB9LAg=="/>
+			<POI MapID="26" xpos="-637.869" ypos="45.1857" zpos="-660.591" type="general.puzzles_de_saut.tribulations_caverneuses" GUID="0gcyEDiPP06bGShiww5U1w=="/>
+			<POI MapID="26" xpos="-635.389" ypos="47.2897" zpos="-660.009" type="general.puzzles_de_saut.tribulations_caverneuses" GUID="qmHGUTKjXEOjdbndU0llNQ=="/>
+			<POI MapID="26" xpos="-623.39" ypos="39.055" zpos="-665.875" type="general.puzzles_de_saut.tribulations_caverneuses" GUID="wHkU/TpKLkykirgv/wPMrg=="/>
+			<POI MapID="26" xpos="-618.244" ypos="42.1569" zpos="-666.07" type="general.puzzles_de_saut.tribulations_caverneuses" GUID="ux7WgRESFEq84NCBLSxcTA=="/>
+			<POI MapID="26" xpos="-620.999" ypos="43.2979" zpos="-662.524" type="general.puzzles_de_saut.tribulations_caverneuses" GUID="9r9IR0VphEqUOif4eIFMAg=="/>
+			<POI MapID="26" xpos="-619.153" ypos="50.218" zpos="-657.904" type="general.puzzles_de_saut.tribulations_caverneuses" GUID="m4zSdfoKPkOEcCpTNTj/1A=="/>
+			<POI MapID="26" xpos="-622.34" ypos="52.4237" zpos="-657.664" type="general.puzzles_de_saut.tribulations_caverneuses" GUID="IY0f+Hz+JkWdSQcwUJzBMA=="/>
+			<POI MapID="26" xpos="-619.929" ypos="55.1409" zpos="-654.999" type="general.puzzles_de_saut.tribulations_caverneuses" GUID="BPD6JheIA0OblSEUaiZ1rA=="/>
+			<POI MapID="26" xpos="-617.113" ypos="56.6424" zpos="-653.965" type="general.puzzles_de_saut.tribulations_caverneuses" GUID="HZkfyuuBdUaqkm2TfjkDQA=="/>
+			<POI MapID="26" xpos="-616.971" ypos="59.6227" zpos="-652.119" type="general.puzzles_de_saut.tribulations_caverneuses" GUID="VTCOpmAYxU2my+gVtoQclA=="/>
+			<POI MapID="26" xpos="-621.173" ypos="60.8447" zpos="-651.436" type="general.puzzles_de_saut.tribulations_caverneuses" GUID="AedzWZE/EUG/ZRPCZownLA=="/>
+			<POI MapID="26" xpos="-625.627" ypos="62.5962" zpos="-649.486" type="general.puzzles_de_saut.tribulations_caverneuses" GUID="eQklZIrG+U2LBAmKOTeFiw=="/>
+			<POI MapID="26" xpos="-633.698" ypos="58.7866" zpos="-651.554" type="general.puzzles_de_saut.tribulations_caverneuses" GUID="QvBBtIQk4UaHZD8MMznc4Q=="/>
+			<POI MapID="26" xpos="-638.155" ypos="62.3979" zpos="-649.427" type="general.puzzles_de_saut.tribulations_caverneuses" GUID="aYY2wKLC2UidCX4Q2USzUw=="/>
+			<POI MapID="26" xpos="-639.137" ypos="66.8287" zpos="-643.914" type="general.puzzles_de_saut.tribulations_caverneuses" GUID="FYMitogz20anWso14KcGtw=="/>
+			<POI MapID="26" xpos="-633.645" ypos="70.0438" zpos="-643.711" type="general.puzzles_de_saut.tribulations_caverneuses" GUID="mb1pgAG440G8960l3GWJHw=="/>
+			<POI MapID="26" xpos="-628.601" ypos="73.0906" zpos="-642.45" type="general.puzzles_de_saut.tribulations_caverneuses" GUID="WmbHWugZM0Kow2hts0gGjA=="/>
+			<POI MapID="26" xpos="-618.422" ypos="73.902" zpos="-642.542" type="general.puzzles_de_saut.tribulations_caverneuses" GUID="a08AEjY3IUG6Wd7v+vqeEg=="/>
+			<POI MapID="26" xpos="-616.407" ypos="75.9677" zpos="-651.261" type="general.puzzles_de_saut.tribulations_caverneuses" GUID="hv/JRXt+WUeJyoiN1ffknQ=="/>
+			<POI MapID="26" xpos="-625.435" ypos="75.7095" zpos="-655.456" type="general.puzzles_de_saut.tribulations_caverneuses" GUID="VvQfZIL6sE+qgifaHewQSg=="/>
+			<POI MapID="26" xpos="-634.521" ypos="74.6565" zpos="-655.56" type="general.puzzles_de_saut.tribulations_caverneuses" GUID="cGELQfpl3kGB1t6NcftqiQ=="/>
+			<POI MapID="26" xpos="-641.847" ypos="75.9917" zpos="-657.512" type="general.puzzles_de_saut.tribulations_caverneuses" GUID="QPk8PMmzDkC11+P4Xkdd/w=="/>
+			<POI MapID="26" xpos="-642.364" ypos="79.3576" zpos="-648.682" type="general.puzzles_de_saut.tribulations_caverneuses" GUID="K5kXxCc5CU2SKIbJDXmFEA=="/>
+			<POI MapID="26" xpos="-640.485" ypos="80.6023" zpos="-643.993" type="general.puzzles_de_saut.tribulations_caverneuses" GUID="Kw+ayC+IOUKJKcCHa6FZpQ=="/>
+			<POI MapID="26" xpos="-635.757" ypos="83.7459" zpos="-637.507" type="general.puzzles_de_saut.tribulations_caverneuses" GUID="vxCC97DLJ0+rTWFCkJsLJA=="/>
+			<POI MapID="26" xpos="-631.808" ypos="84.6191" zpos="-635.521" type="general.puzzles_de_saut.tribulations_caverneuses" GUID="2l6+CMp0z0GhIYWwN1BFdg=="/>
+			<POI MapID="26" xpos="-628.599" ypos="86.4122" zpos="-634.247" type="general.puzzles_de_saut.tribulations_caverneuses" GUID="2BC7C0oLIkCqpScGkVuKhQ=="/>
+			<POI MapID="26" xpos="-627.043" ypos="86.8826" zpos="-630.466" type="general.puzzles_de_saut.tribulations_caverneuses" GUID="MnM1mLgQzka0reNbHpVMFQ=="/>
+		</Route>
+
+		<!-- Coffre -->
+		<POI MapID="26" xpos="-625.86" ypos="88.5718" zpos="-625.121" type="general.puzzles_de_saut.tribulations_caverneuses" GUID="neTUM4qfLEmfDNAdIPsvjw==" iconFile="Img\CoffrePuzzle.png" iconSize="1" heightOffset="2.5" behavior="2"/>
+
+	</POIs>
+</OverlayData>

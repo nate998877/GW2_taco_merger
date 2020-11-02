@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+POIs: ReActif.9251
+Date: 2017/02/11
+-->
+<OverlayData>
+	<MarkerCategory name="chroniques.saison_3">
+		<MarkerCategory name="ep4_la_tete_du_serpent" DisplayName="Ep.4 - The Head of the Snake" iconFile="Img\LacDoric.png">
+			<MarkerCategory name="nourrir_l_amoureux_des_arbres" DisplayName="Tree-Hugger Hugger" heightOffset="3.5" behavior="2"/>
+		</MarkerCategory>
+	</MarkerCategory>
+
+	<POIs>
+
+		<!-- Amoureux des Arbres -->
+		<POI MapID="1185" xpos="167.854" ypos="72.2594" zpos="-639.597" type="chroniques.saison_3.ep4_la_tete_du_serpent.nourrir_l_amoureux_des_arbres" GUID="b+rNgah4fEebmZG81+5Hww=="/>
+
+	</POIs>
+</OverlayData>

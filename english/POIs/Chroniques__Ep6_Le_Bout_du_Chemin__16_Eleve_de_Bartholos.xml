@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+POIs: ReActif.9251
+Date: 2017/08/11
+-->
+<OverlayData>
+	<MarkerCategory name="chroniques.saison_3">
+		<MarkerCategory name="ep6_le_bout_du_chemin" DisplayName="Ep.6 - One Path Ends" iconFile="Img\LeBoutduChemin.png">
+			<MarkerCategory name="eleve_de_bartholos" DisplayName="Student of Bartholos" iconSize="0.5" heightOffset="0.5"/>
+		</MarkerCategory>
+	</MarkerCategory>
+
+	<POIs>
+
+		<!--  1  --><POI MapID="1208" xpos="-7.60525"   ypos="9.07965" zpos="-5.53504" type="chroniques.saison_3.ep6_le_bout_du_chemin.eleve_de_bartholos" GUID="3uC8xBm8aEuvFwmeY9TIBw=="/>
+		<!--  2  --><POI MapID="1208" xpos="6.40004"    ypos="9.12408" zpos="8.53485"  type="chroniques.saison_3.ep6_le_bout_du_chemin.eleve_de_bartholos" GUID="z1DAAzPhtkGOMbaphA8UcA=="/>
+		<!--  3  --><POI MapID="1208" xpos="-3.28981"   ypos="8.74501" zpos="-6.92215" type="chroniques.saison_3.ep6_le_bout_du_chemin.eleve_de_bartholos" GUID="xwQSORzlAEyy+c9M+u5BDg=="/>
+		<!--  4  --><POI MapID="1208" xpos="-7"         ypos="13.1332" zpos="-5"       type="chroniques.saison_3.ep6_le_bout_du_chemin.eleve_de_bartholos" GUID="gzpDb/G0002e3N70xrweUQ==" heightOffset="1.15"/>
+		<!--  5  --><POI MapID="1208" xpos="-7.27252"   ypos="13.1336" zpos="0.449109" type="chroniques.saison_3.ep6_le_bout_du_chemin.eleve_de_bartholos" GUID="Vd8hnWgkx0yg8cTyBU3pew=="/>
+		<!--  6  --><POI MapID="1208" xpos="-0.0460004" ypos="13.1332" zpos="-5.13895" type="chroniques.saison_3.ep6_le_bout_du_chemin.eleve_de_bartholos" GUID="Elu5vOAMQ0CNuV38oOVLMA=="/>
+		<!--  7  --><POI MapID="1208" xpos="-2.61"      ypos="13.13"   zpos="2.51"     type="chroniques.saison_3.ep6_le_bout_du_chemin.eleve_de_bartholos" GUID="7ZS5rmLWokSq3hthJoepcw==" heightOffset="1.5"/>
+		<!--  8  --><POI MapID="1208" xpos="-1.39"      ypos="13.13"   zpos="1.78"     type="chroniques.saison_3.ep6_le_bout_du_chemin.eleve_de_bartholos" GUID="vRl7PIgZp0KGgK1OwPd5Ww==" heightOffset="1.5"/>
+		<!--  9  --><POI MapID="1208" xpos="6.40719"    ypos="13.1332" zpos="5.62584"  type="chroniques.saison_3.ep6_le_bout_du_chemin.eleve_de_bartholos" GUID="2A8i34pLp0e0O+ux/yd7Hw==" heightOffset="1.5"/>
+					<POI MapID="1208" xpos="7.43309"    ypos="13.1332" zpos="7.3443"   type="chroniques.saison_3.ep6_le_bout_du_chemin.eleve_de_bartholos" GUID="aPpYmvyqnkmpM3UHDzVDYQ==" heightOffset="1.5"/>
+					<POI MapID="1208" xpos="8.49946"    ypos="13.1332" zpos="9.10376"  type="chroniques.saison_3.ep6_le_bout_du_chemin.eleve_de_bartholos" GUID="AUie5Sg7GE+gbFbt4rblpQ==" heightOffset="1.5"/>
+		<!--  10 --><POI MapID="1208" xpos="1.63152"    ypos="14.1032" zpos="11.5696"  type="chroniques.saison_3.ep6_le_bout_du_chemin.eleve_de_bartholos" GUID="znMHssqVAEK49XzznC+qlQ=="/>
+
+	</POIs>
+</OverlayData>

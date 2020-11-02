@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+POIs: Cloud Strife.7492 - Xenophy.2716 - ReActif.9251
+Date: 2017/08/23
+-->
+<OverlayData>
+	<MarkerCategory name="general" DisplayName="General">
+		<MarkerCategory name="puzzles_de_saut" DisplayName="Jumping Puzzles" iconFile="Img\Guide.png" iconSize="0.75">
+			<MarkerCategory name="ascension_de_la_faille_de_la_tribulation" DisplayName="Tribulation Rift Scaffolding"/>
+		</MarkerCategory>
+	</MarkerCategory>
+
+	<POIs>
+
+		<!-- Début -->
+		<POI MapID="26" xpos="-479.3" ypos="4.56" zpos="-800" type="general.puzzles_de_saut.debut" GUID="Z64hEUm15UWBPO6nhnUjxw=="/>
+
+		<!-- Route -->
+		<Route MapID="26" name="Ascension_de_la_Faille_de_la_Tribulation" resetposx="-479.3" resetposy="4.56" resetposz="-800" resetrange="2">
+			<POI MapID="26" xpos="-480.979" ypos="8.21092" zpos="-796.935" type="general.puzzles_de_saut.ascension_de_la_faille_de_la_tribulation" GUID="eheOAJZl1UKjyKdgqiY9qQ=="/>
+			<POI MapID="26" xpos="-484.679" ypos="13.2203" zpos="-791.99" type="general.puzzles_de_saut.ascension_de_la_faille_de_la_tribulation" GUID="bKY4lNs7wEqZs9oexBkpEw=="/>
+			<POI MapID="26" xpos="-477.619" ypos="19.7149" zpos="-795.544" type="general.puzzles_de_saut.ascension_de_la_faille_de_la_tribulation" GUID="85QX0LNDbUu3Ut6d05ScGQ=="/>
+			<POI MapID="26" xpos="-486.515" ypos="20.8164" zpos="-794.959" type="general.puzzles_de_saut.ascension_de_la_faille_de_la_tribulation" GUID="ZIX46qc4rEqAJpXu6wdMNA=="/>
+			<POI MapID="26" xpos="-478.753" ypos="22.0526" zpos="-788.62" type="general.puzzles_de_saut.ascension_de_la_faille_de_la_tribulation" GUID="tVa5rnd5jkaDXKHDF7t12A=="/>
+			<POI MapID="26" xpos="-477.653" ypos="26.7195" zpos="-795.5" type="general.puzzles_de_saut.ascension_de_la_faille_de_la_tribulation" GUID="Ve6OkbEPuUmSaRQhGNfP2w=="/>
+			<POI MapID="26" xpos="-480.544" ypos="25.651" zpos="-789.909" type="general.puzzles_de_saut.ascension_de_la_faille_de_la_tribulation" GUID="jwEUy4rTrku+KtwDDcRcQQ=="/>
+			<POI MapID="26" xpos="-483.776" ypos="24.8556" zpos="-779.691" type="general.puzzles_de_saut.ascension_de_la_faille_de_la_tribulation" GUID="MgK3FGPcOUu2Mj/COvYcbA=="/>
+			<POI MapID="26" xpos="-489.232" ypos="24.8391" zpos="-783.009" type="general.puzzles_de_saut.ascension_de_la_faille_de_la_tribulation" GUID="2r9u5LeJtE6IVrUZQh3bkg=="/>
+			<POI MapID="26" xpos="-496.111" ypos="25.2207" zpos="-788.311" type="general.puzzles_de_saut.ascension_de_la_faille_de_la_tribulation" GUID="GF06HWdH60+E/e0pqx4aFg=="/>
+			<POI MapID="26" xpos="-501.997" ypos="25.2064" zpos="-787.145" type="general.puzzles_de_saut.ascension_de_la_faille_de_la_tribulation" GUID="p88/E/0MlkejOHnu8kzhEg=="/>
+			<POI MapID="26" xpos="-504.804" ypos="26.1476" zpos="-780.25" type="general.puzzles_de_saut.ascension_de_la_faille_de_la_tribulation" GUID="/Oj6fSD6akib7Ny1rrZcog=="/>
+			<POI MapID="26" xpos="-509.414" ypos="27.6054" zpos="-781.869" type="general.puzzles_de_saut.ascension_de_la_faille_de_la_tribulation" GUID="XSRzcZ1qqEO26P7KM/zxrQ=="/>
+			<POI MapID="26" xpos="-513.503" ypos="28.1711" zpos="-787.881" type="general.puzzles_de_saut.ascension_de_la_faille_de_la_tribulation" GUID="u9fEUVBY/E6Tps9g6lsvBw=="/>
+			<POI MapID="26" xpos="-510.146" ypos="29.6955" zpos="-798.676" type="general.puzzles_de_saut.ascension_de_la_faille_de_la_tribulation" GUID="ka5x1TJ800WawxSPVq1iOQ=="/>
+			<POI MapID="26" xpos="-506.001" ypos="31.608" zpos="-805.403" type="general.puzzles_de_saut.ascension_de_la_faille_de_la_tribulation" GUID="yYpCKvU0kE+KJSQu0349Qw=="/>
+			<POI MapID="26" xpos="-506.941" ypos="36.0197" zpos="-800.293" type="general.puzzles_de_saut.ascension_de_la_faille_de_la_tribulation" GUID="1/crLLOdMEyVxbrIaNJ25Q=="/>
+			<POI MapID="26" xpos="-504.341" ypos="38.3711" zpos="-792.609" type="general.puzzles_de_saut.ascension_de_la_faille_de_la_tribulation" GUID="Nr9MSz8nS0Cu2cIORkMgoA=="/>
+			<POI MapID="26" xpos="-501.168" ypos="41.3186" zpos="-801.549" type="general.puzzles_de_saut.ascension_de_la_faille_de_la_tribulation" GUID="bFY59K8TY0S0RMaEan7evg=="/>
+			<POI MapID="26" xpos="-499.882" ypos="44.0574" zpos="-806.211" type="general.puzzles_de_saut.ascension_de_la_faille_de_la_tribulation" GUID="HJ/TPv8GGUqFlk3R1TImiA=="/>
+			<POI MapID="26" xpos="-500.522" ypos="47.5697" zpos="-802.168" type="general.puzzles_de_saut.ascension_de_la_faille_de_la_tribulation" GUID="OnGmtBV/JE+adyriJX7wNw=="/>
+			<POI MapID="26" xpos="-506.557" ypos="51.5988" zpos="-794.489" type="general.puzzles_de_saut.ascension_de_la_faille_de_la_tribulation" GUID="tKb81Z7ex0aHYtr6N0nNOg=="/>
+			<POI MapID="26" xpos="-503.375" ypos="53.915" zpos="-796.784" type="general.puzzles_de_saut.ascension_de_la_faille_de_la_tribulation" GUID="tzQj5pRKBEC1e5DNNJk/0g=="/>
+			<POI MapID="26" xpos="-500.015" ypos="57.242" zpos="-802.74" type="general.puzzles_de_saut.ascension_de_la_faille_de_la_tribulation" GUID="aYMbY4JTaki28HHnTjxtxw=="/>
+			<POI MapID="26" xpos="-496.095" ypos="60.6115" zpos="-809.136" type="general.puzzles_de_saut.ascension_de_la_faille_de_la_tribulation" GUID="C5pn0qlRRkGkt519BWQh4w=="/>
+			<POI MapID="26" xpos="-490.195" ypos="61.262" zpos="-803.684" type="general.puzzles_de_saut.ascension_de_la_faille_de_la_tribulation" GUID="rk7XYdx1Rkq9zwKTELvYTg=="/>
+			<POI MapID="26" xpos="-483.305" ypos="61.2281" zpos="-796.81" type="general.puzzles_de_saut.ascension_de_la_faille_de_la_tribulation" GUID="fjwr5DYZZ0yY/Fw8kkbwpw=="/>
+			<POI MapID="26" xpos="-488.094" ypos="61.2123" zpos="-787.372" type="general.puzzles_de_saut.ascension_de_la_faille_de_la_tribulation" GUID="4PTD3C5G1ECHvLOEWXMQMg=="/>
+			<POI MapID="26" xpos="-492.422" ypos="63.034" zpos="-783.142" type="general.puzzles_de_saut.ascension_de_la_faille_de_la_tribulation" GUID="5i+dYNAhzU2BjWG8M11haA=="/>
+			<POI MapID="26" xpos="-500.429" ypos="67.9989" zpos="-787.465" type="general.puzzles_de_saut.ascension_de_la_faille_de_la_tribulation" GUID="6U46nY5yyEeG8jeA4lueGg=="/>
+			<POI MapID="26" xpos="-499.319" ypos="68.5978" zpos="-795.54" type="general.puzzles_de_saut.ascension_de_la_faille_de_la_tribulation" GUID="PJmFSb2eNkqitisrVi9xCQ=="/>
+			<POI MapID="26" xpos="-491.217" ypos="72.4661" zpos="-794.754" type="general.puzzles_de_saut.ascension_de_la_faille_de_la_tribulation" GUID="mGtcB9H2LEOY23kzVf7uHg=="/>
+			<POI MapID="26" xpos="-486.345" ypos="74.3415" zpos="-791.968" type="general.puzzles_de_saut.ascension_de_la_faille_de_la_tribulation" GUID="YmHk4EsCu0iSc8bcP7rQ7A=="/>
+			<POI MapID="26" xpos="-492.2" ypos="73.0958" zpos="-783.666" type="general.puzzles_de_saut.ascension_de_la_faille_de_la_tribulation" GUID="wwGa40C4okatsmDqD79n0g=="/>
+			<POI MapID="26" xpos="-500.945" ypos="77.2293" zpos="-788.62" type="general.puzzles_de_saut.ascension_de_la_faille_de_la_tribulation" GUID="7GNEj1J010maA6ly+Jx7UA=="/>
+			<POI MapID="26" xpos="-497.89" ypos="77.2259" zpos="-791.269" type="general.puzzles_de_saut.ascension_de_la_faille_de_la_tribulation" GUID="9hUg3uN6Y0KsfUPMC4lsRQ=="/>
+			<POI MapID="26" xpos="-492.663" ypos="77.5558" zpos="-795.022" type="general.puzzles_de_saut.ascension_de_la_faille_de_la_tribulation" GUID="lFY6WTL3uUmVq6nTO4uutQ=="/>
+			<POI MapID="26" xpos="-489.603" ypos="79.1461" zpos="-790.047" type="general.puzzles_de_saut.ascension_de_la_faille_de_la_tribulation" GUID="9JGdl2Rtg0SMhCjWz5uaZQ=="/>
+			<POI MapID="26" xpos="-491.775" ypos="80.955" zpos="-785.933" type="general.puzzles_de_saut.ascension_de_la_faille_de_la_tribulation" GUID="ZqudkqhEQkaUBW43oPEMgg=="/>
+			<POI MapID="26" xpos="-494.923" ypos="81.5412" zpos="-784.318" type="general.puzzles_de_saut.ascension_de_la_faille_de_la_tribulation" GUID="KnZs4KCsh0GdUtyc9Z6W1Q=="/>
+			<POI MapID="26" xpos="-500.17" ypos="84.1305" zpos="-788.328" type="general.puzzles_de_saut.ascension_de_la_faille_de_la_tribulation" GUID="SJl48P3hEUubp6sD5PmKRg=="/>
+			<POI MapID="26" xpos="-496.934" ypos="86.7802" zpos="-795.655" type="general.puzzles_de_saut.ascension_de_la_faille_de_la_tribulation" GUID="jWHhmt9dmEy8Tmmg7vM1Vg=="/>
+			<POI MapID="26" xpos="-496.69" ypos="89.2" zpos="-789.69" type="general.puzzles_de_saut.ascension_de_la_faille_de_la_tribulation" GUID="voD3sydsvESUZSvWBQjIUg=="/>
+			<POI MapID="26" xpos="-502.488" ypos="89.6927" zpos="-786.104" type="general.puzzles_de_saut.ascension_de_la_faille_de_la_tribulation" GUID="uBi3j8x/30OAPDOncqOYEg=="/>
+			<POI MapID="26" xpos="-507.955" ypos="90.1649" zpos="-782.487" type="general.puzzles_de_saut.ascension_de_la_faille_de_la_tribulation" GUID="k+u8Nz2b1EWMtxKpLehq9w=="/>
+			<POI MapID="26" xpos="-515.556" ypos="90.8007" zpos="-777.992" type="general.puzzles_de_saut.ascension_de_la_faille_de_la_tribulation" GUID="yyRrUfU4Mk+oZs+C3+Nvaw=="/>
+			<POI MapID="26" xpos="-528.417" ypos="75.0287" zpos="-776.918" type="general.puzzles_de_saut.ascension_de_la_faille_de_la_tribulation" GUID="pPUPDRmooEiXw+tsPvp9fg=="/>
+			<POI MapID="26" xpos="-529.388" ypos="75.1405" zpos="-783.696" type="general.puzzles_de_saut.ascension_de_la_faille_de_la_tribulation" GUID="zPaRsy5RKk6CyeBjlxcM4g=="/>
+			<POI MapID="26" xpos="-537.179" ypos="75.1812" zpos="-783.912" type="general.puzzles_de_saut.ascension_de_la_faille_de_la_tribulation" GUID="i+RIKyPlc0mYoQ26NxqbyA=="/>
+			<POI MapID="26" xpos="-541.839" ypos="68.857" zpos="-789.711" type="general.puzzles_de_saut.ascension_de_la_faille_de_la_tribulation" GUID="e8t4OCVqAUmHcIX/4PIm8A=="/>
+			<POI MapID="26" xpos="-541.261" ypos="65.1571" zpos="-795.844" type="general.puzzles_de_saut.ascension_de_la_faille_de_la_tribulation" GUID="pNn3bNFF9EKuTBUC8cZbWQ=="/>
+			<POI MapID="26" xpos="-540.631" ypos="62.5984" zpos="-802.529" type="general.puzzles_de_saut.ascension_de_la_faille_de_la_tribulation" GUID="CML0a6BXzEO0fzPR1V5uLw=="/>
+			<POI MapID="26" xpos="-539.315" ypos="62.9654" zpos="-810.436" type="general.puzzles_de_saut.ascension_de_la_faille_de_la_tribulation" GUID="dBHx5GPVOkOCkEW7gfTzGw=="/>
+			<POI MapID="26" xpos="-539.542" ypos="62.4436" zpos="-818.924" type="general.puzzles_de_saut.ascension_de_la_faille_de_la_tribulation" GUID="GR573wDH7kK/dFZ4oOaegg=="/>
+			<POI MapID="26" xpos="-541.81" ypos="63.1164" zpos="-825.35" type="general.puzzles_de_saut.ascension_de_la_faille_de_la_tribulation" GUID="2iAEoWZFNUSZWRwkYYuJ+g=="/>
+			<POI MapID="26" xpos="-548.056" ypos="62.0434" zpos="-829.685" type="general.puzzles_de_saut.ascension_de_la_faille_de_la_tribulation" GUID="pSNniY51MU63AkBrMioCXQ=="/>
+			<POI MapID="26" xpos="-555.874" ypos="62.0162" zpos="-831.799" type="general.puzzles_de_saut.ascension_de_la_faille_de_la_tribulation" GUID="6qS1WJOOu0eaTKdOhCxOrg=="/>
+			<POI MapID="26" xpos="-560.749" ypos="63.8415" zpos="-830.7" type="general.puzzles_de_saut.ascension_de_la_faille_de_la_tribulation" GUID="3wGCnbQaLUGUBg2AbpNR9Q=="/>
+			<POI MapID="26" xpos="-559.091" ypos="66.7968" zpos="-827.41" type="general.puzzles_de_saut.ascension_de_la_faille_de_la_tribulation" GUID="a9t2IKm7CEGHxDNl8CwZsA=="/>
+			<POI MapID="26" xpos="-565.34" ypos="66.588" zpos="-824.47" type="general.puzzles_de_saut.ascension_de_la_faille_de_la_tribulation" GUID="ABBPsPd9GUOa3hetFyH8og=="/>
+			<POI MapID="26" xpos="-572.989" ypos="66.1064" zpos="-830.73" type="general.puzzles_de_saut.ascension_de_la_faille_de_la_tribulation" GUID="fYGGDgX6IkKyQxSbhDI5MQ==" iconFile="Img\Combat.png" iconSize="1" color="ffe52020"/>
+		</Route>
+
+		<!-- Coffre -->
+		<POI MapID="26" xpos="-582.278" ypos="67.6636" zpos="-837.102" type="general.puzzles_de_saut.ascension_de_la_faille_de_la_tribulation" GUID="xaOgGSTyn0aWmyDIU/VW7Q==" iconFile="Img\CoffrePuzzle.png" iconSize="1" heightOffset="2.5" behavior="2"/>
+
+	</POIs>
+</OverlayData>

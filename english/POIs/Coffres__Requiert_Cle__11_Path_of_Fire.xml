@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+POIs: TMKFrench.6427
+Date: 2017/09/30
+-->
+<OverlayData>
+	<MarkerCategory name="coffres.requiert_cle">
+		<MarkerCategory name="path_of_fire" DisplayName="Path of Fire">
+			<MarkerCategory name="cowrie" DisplayName="Cowrie Cache" iconFile="Img\CacheCowrie.png" fadeNear="8000" fadeFar="16000" heightOffset="2"/>
+			<MarkerCategory name="daoud" DisplayName="Daoud Cache" iconFile="Img\CacheDaoud.png" fadeNear="8000" fadeFar="16000" heightOffset="2"/>
+			<MarkerCategory name="hamaseen" DisplayName="Hamaseen Cache" iconFile="Img\CacheHamaseen.png" fadeNear="8000" fadeFar="16000" heightOffset="2"/>
+		</MarkerCategory>
+	</MarkerCategory>
+
+	<POIs>
+
+		<!--
+		Cache de Cowrie
+		-->
+		<POI MapID="1210" xpos="-1291.94" ypos="-36.7909" zpos="-136.702" type="coffres.requiert_cle.path_of_fire.cowrie" GUID="nesK4qOAb0ijE97iaq8DzQ=="/>
+		<POI MapID="1210" xpos="-1228.87" ypos="21.1192" zpos="544.844" type="coffres.requiert_cle.path_of_fire.cowrie" GUID="Oo9arf2YvEWsu3ZybppCEg=="/>
+		<POI MapID="1210" xpos="-1185.91" ypos="5.23056" zpos="-493.564" type="coffres.requiert_cle.path_of_fire.cowrie" GUID="w2qXTGUyB06SIll2Ed4qlQ=="/>
+		<POI MapID="1210" xpos="-1046.38" ypos="15.9653" zpos="-268.891" type="coffres.requiert_cle.path_of_fire.cowrie" GUID="WM1EzLGXQk2TUoBD35Wacw=="/>
+		<POI MapID="1210" xpos="-922.523" ypos="46.7184" zpos="178.469" type="coffres.requiert_cle.path_of_fire.cowrie" GUID="uCYiF8EdMkS8fI7JOC0x4A=="/>
+		<POI MapID="1210" xpos="-910.894" ypos="67.6864" zpos="21.3121" type="coffres.requiert_cle.path_of_fire.cowrie" GUID="gxv6ytPNzECsPFBQXrRx3A=="/>
+		<POI MapID="1210" xpos="-896.86" ypos="43.7032" zpos="-184.059" type="coffres.requiert_cle.path_of_fire.cowrie" GUID="sKbPb/zDc0y/1AGTEWP/kA=="/>
+		<POI MapID="1210" xpos="-814.097" ypos="98.3744" zpos="132.88" type="coffres.requiert_cle.path_of_fire.cowrie" GUID="tpvTy9o/gEaKCK5+ZY+iDA=="/>
+		<POI MapID="1210" xpos="-502.244" ypos="25.3581" zpos="463.627" type="coffres.requiert_cle.path_of_fire.cowrie" GUID="7LTjx/HKpkm5XjK/NFlGtQ=="/>
+		<POI MapID="1210" xpos="-465.737" ypos="-8.22052" zpos="-454.557" type="coffres.requiert_cle.path_of_fire.cowrie" GUID="hxLj7LHpckSmsgXRF/fA7A=="/>
+		<POI MapID="1210" xpos="-439.279" ypos="-7.09976" zpos="-106.241" type="coffres.requiert_cle.path_of_fire.cowrie" GUID="8BH9Uh2fkkGSCpu0BGY4KQ=="/>
+		<POI MapID="1210" xpos="-438.321" ypos="67.5253" zpos="686.233" type="coffres.requiert_cle.path_of_fire.cowrie" GUID="T0NXuzTcX0mRlCjgzTXL8Q=="/>
+		<POI MapID="1210" xpos="-391.46" ypos="49.9589" zpos="543.465" type="coffres.requiert_cle.path_of_fire.cowrie" GUID="TSEJ+GE+0UC1h9d/xV4FNA=="/>
+		<POI MapID="1210" xpos="-342.616" ypos="20.8701" zpos="-321.385" type="coffres.requiert_cle.path_of_fire.cowrie" GUID="RAVLJLFcj0ydN1o6DYXMmg=="/>
+		<POI MapID="1210" xpos="-65.7506" ypos="53.7963" zpos="585.554" type="coffres.requiert_cle.path_of_fire.cowrie" GUID="z9333h+Fy0yqfvl9zPYKqw=="/>
+		<POI MapID="1210" xpos="5.49615" ypos="3.74399" zpos="-163.077" type="coffres.requiert_cle.path_of_fire.cowrie" GUID="PjyGnaGGQkGzGdSi71vzPg=="/>
+		<POI MapID="1210" xpos="103.502" ypos="0.594613" zpos="385.637" type="coffres.requiert_cle.path_of_fire.cowrie" GUID="KZvqJlnuwUS2qRhtkencvw=="/>
+		<POI MapID="1210" xpos="158.392" ypos="72.7081" zpos="251.724" type="coffres.requiert_cle.path_of_fire.cowrie" GUID="jxS9Lh3sYUWRBW+79Y0KJg=="/>
+		<POI MapID="1210" xpos="246.572" ypos="66.2958" zpos="710.96" type="coffres.requiert_cle.path_of_fire.cowrie" GUID="F1tnkaXo9USMHprAgB94QQ=="/>
+		<POI MapID="1210" xpos="450.584" ypos="130.368" zpos="526.555" type="coffres.requiert_cle.path_of_fire.cowrie" GUID="mMODE1yTlEu0JwXj761njA=="/>
+		<POI MapID="1210" xpos="666.778" ypos="57.2246" zpos="-136.338" type="coffres.requiert_cle.path_of_fire.cowrie" GUID="Zo1yr+SRg0aKs3pzYOp85A=="/>
+		<POI MapID="1210" xpos="1018.22" ypos="101.122" zpos="69.3328" type="coffres.requiert_cle.path_of_fire.cowrie" GUID="YtY7pLZmyEqhIhNDwl2qeA=="/>
+		<POI MapID="1210" xpos="1037.29" ypos="182.309" zpos="447.079" type="coffres.requiert_cle.path_of_fire.cowrie" GUID="Zo0Gen0IQEOZd5YBjidIeQ=="/>
+		<POI MapID="1210" xpos="1245.37" ypos="50.9506" zpos="-465.574" type="coffres.requiert_cle.path_of_fire.cowrie" GUID="MvnAPr+OEE+KC8NfNBpOQg=="/>
+	
+		<POI MapID="1211" xpos="-191.369" ypos="245.181" zpos="368.356" type="coffres.requiert_cle.path_of_fire.cowrie" GUID="WUR9itJBnUK+OI54TuipiQ=="/>
+		<POI MapID="1211" xpos="602.065" ypos="138.394" zpos="-341.381" type="coffres.requiert_cle.path_of_fire.cowrie" GUID="yuBCp29Q20O68GRCFHm2GA=="/>
+
+		<!--
+		Cache de Daoud
+		-->
+		<POI MapID="1210" xpos="-1436.07" ypos="0.765152" zpos="114.251" type="coffres.requiert_cle.path_of_fire.daoud" GUID="4p6aVTQ0Ak6MZ/qNnP6szw=="/>
+		<POI MapID="1210" xpos="-1104.73" ypos="62.8055" zpos="148.327" type="coffres.requiert_cle.path_of_fire.daoud" GUID="pvIzgXubykK/+/FSkLa9fw=="/>
+		<POI MapID="1210" xpos="-805.424" ypos="57.1654" zpos="-263.179" type="coffres.requiert_cle.path_of_fire.daoud" GUID="xFA2ApUSEkaauW5N6s2EjQ=="/>
+		<POI MapID="1210" xpos="-709.833" ypos="15.1039" zpos="670.424" type="coffres.requiert_cle.path_of_fire.daoud" GUID="rZu7OCQ3ZkuZVuvTIwx4Rw=="/>
+		<POI MapID="1210" xpos="-687.96" ypos="1.33614" zpos="501.478" type="coffres.requiert_cle.path_of_fire.daoud" GUID="AkdaI4BM20ufuIxczxaJIQ=="/>
+		<POI MapID="1210" xpos="-155.798" ypos="2.27477" zpos="-25.9667" type="coffres.requiert_cle.path_of_fire.daoud" GUID="6jbo2dP0nEKBL2rSHWJc+Q=="/>
+		<POI MapID="1210" xpos="71.2473" ypos="53.9901" zpos="446.922" type="coffres.requiert_cle.path_of_fire.daoud" GUID="uKaxT2nHL0G5SRyRDiuTkQ=="/>
+		<POI MapID="1210" xpos="208.032" ypos="45.991" zpos="197.726" type="coffres.requiert_cle.path_of_fire.daoud" GUID="ucw/RlJgAES5t7RX6Bt+7g=="/>
+		<POI MapID="1210" xpos="419.044" ypos="58.6544" zpos="53.0446" type="coffres.requiert_cle.path_of_fire.daoud" GUID="WxgQWQtZlUejDXqYKjxBRw=="/>
+		<POI MapID="1210" xpos="502.211" ypos="24.2683" zpos="-318.92" type="coffres.requiert_cle.path_of_fire.daoud" GUID="b4uo1u7yJUytTeiZfhvPAg=="/>
+		<POI MapID="1210" xpos="663.244" ypos="7.10177" zpos="-539.811" type="coffres.requiert_cle.path_of_fire.daoud" GUID="mlC+lINtLEG20cviGrbhQg=="/>
+		<POI MapID="1210" xpos="813.512" ypos="31.0756" zpos="-646.73" type="coffres.requiert_cle.path_of_fire.daoud" GUID="dDWeH1TLkkaUQC9BWRkk5Q=="/>
+		<POI MapID="1210" xpos="947.128" ypos="13.0687" zpos="-139.313" type="coffres.requiert_cle.path_of_fire.daoud" GUID="QQeIx3aS+kOt4sY708Ap/w=="/>
+		<POI MapID="1210" xpos="977.626" ypos="205.781" zpos="604.971" type="coffres.requiert_cle.path_of_fire.daoud" GUID="IQ3VC13l0keDEhTwSIyvig=="/>
+		<POI MapID="1210" xpos="1047.75" ypos="179.105" zpos="211.097" type="coffres.requiert_cle.path_of_fire.daoud" GUID="K/ZEFLK9N0KPTEr7PnadPA=="/>
+		<POI MapID="1210" xpos="1255.8" ypos="81.3043" zpos="-12.4022" type="coffres.requiert_cle.path_of_fire.daoud" GUID="imnTiWgKq0aLXQthomouXg=="/>
+		<POI MapID="1210" xpos="1277.58" ypos="190.889" zpos="457.828" type="coffres.requiert_cle.path_of_fire.daoud" GUID="i4UybMIK4EKU16aDX5bYUQ=="/>
+		<POI MapID="1210" xpos="1356.29" ypos="80.1621" zpos="-145.687" type="coffres.requiert_cle.path_of_fire.daoud" GUID="+jRh1nZ0rUqWfvWVokOC2g=="/>
+
+		<POI MapID="1211" xpos="-82.5789" ypos="254.165" zpos="413.717" type="coffres.requiert_cle.path_of_fire.daoud" GUID="8DhTJ+SyFUW+5CTZjKZ3KA=="/>
+		<POI MapID="1211" xpos="342.809" ypos="238.4" zpos="24.213" type="coffres.requiert_cle.path_of_fire.daoud" GUID="LLKS2lw+Q0CQ72PAQalzkA=="/>
+		<POI MapID="1211" xpos="584.556" ypos="253.249" zpos="684.583" type="coffres.requiert_cle.path_of_fire.daoud" GUID="csLI1xp49UCi7dyQ1Pnr9g=="/>
+		<POI MapID="1211" xpos="895.83" ypos="284.851" zpos="197.586" type="coffres.requiert_cle.path_of_fire.daoud" GUID="28Y5HL/pWE2RGT5MZRwq4g=="/>
+		<POI MapID="1211" xpos="1080.21" ypos="187.818" zpos="212.783" type="coffres.requiert_cle.path_of_fire.daoud" GUID="nj/prNETgESAmM7zHmdRYw=="/>
+
+		<!--
+		Cache des Hamaseen
+		-->
+		<POI MapID="1210" xpos="-1289.38" ypos="1.07193" zpos="530.989" type="coffres.requiert_cle.path_of_fire.hamaseen" GUID="FwA7DlQEzkebxvn+5j60hQ=="/>
+		<POI MapID="1210" xpos="-1260.46" ypos="12.4461" zpos="162.98" type="coffres.requiert_cle.path_of_fire.hamaseen" GUID="qPFWRwxXYkiGZoUINDs8AA=="/>
+		<POI MapID="1210" xpos="-1257.35" ypos="-4.65738" zpos="-573.03" type="coffres.requiert_cle.path_of_fire.hamaseen" GUID="iPt4yJx0DECPkksuBLS0VQ=="/>
+		<POI MapID="1210" xpos="-1121.51" ypos="3.34213" zpos="5.29855" type="coffres.requiert_cle.path_of_fire.hamaseen" GUID="zDvn0KMzQkK3WU1Veao/4w=="/>
+		<POI MapID="1210" xpos="-987.205" ypos="51.8836" zpos="146.98" type="coffres.requiert_cle.path_of_fire.hamaseen" GUID="AwJQeDmulU24Uv4vzt72mA=="/>
+		<POI MapID="1210" xpos="-943.942" ypos="53.5118" zpos="224.712" type="coffres.requiert_cle.path_of_fire.hamaseen" GUID="LQSvw27tE0GfXEJio1J3Zg=="/>
+		<POI MapID="1210" xpos="-916.978" ypos="1.22148" zpos="-503.501" type="coffres.requiert_cle.path_of_fire.hamaseen" GUID="xUB3Sxi1mkWe0/7LiHnwlw=="/>
+		<POI MapID="1210" xpos="-775.663" ypos="37.7374" zpos="628.385" type="coffres.requiert_cle.path_of_fire.hamaseen" GUID="3m1V5kCuEUuCseXiHcfvTA=="/>
+		<POI MapID="1210" xpos="-641.494" ypos="30.1385" zpos="621.695" type="coffres.requiert_cle.path_of_fire.hamaseen" GUID="mYvWqWbHd0y0M/x5WpMZsg=="/>
+		<POI MapID="1210" xpos="-342.354" ypos="11.4291" zpos="38.754" type="coffres.requiert_cle.path_of_fire.hamaseen" GUID="aafuj7EgOEm3LvD49esFpw=="/>
+		<POI MapID="1210" xpos="-182.303" ypos="11.6149" zpos="215.526" type="coffres.requiert_cle.path_of_fire.hamaseen" GUID="EB3a1E2N9kiYYPYiO0XRMg=="/>
+		<POI MapID="1210" xpos="46.6405" ypos="7.4605" zpos="-35.4596" type="coffres.requiert_cle.path_of_fire.hamaseen" GUID="eAfVsqC7d0mzB7DXdhxMsg=="/>
+		<POI MapID="1210" xpos="114.253" ypos="30.7271" zpos="-171.366" type="coffres.requiert_cle.path_of_fire.hamaseen" GUID="TprJlWVokEKHhJl8FqRxHg=="/>
+		<POI MapID="1210" xpos="317.714" ypos="27.1626" zpos="-235.438" type="coffres.requiert_cle.path_of_fire.hamaseen" GUID="636PScIJP0W6QCeqVpX+Xg=="/>
+		<POI MapID="1210" xpos="352.748" ypos="140.657" zpos="464.256" type="coffres.requiert_cle.path_of_fire.hamaseen" GUID="i5j2hYjaY0K0BLvCyS30OA=="/>
+		<POI MapID="1210" xpos="562.532" ypos="98.4867" zpos="517.878" type="coffres.requiert_cle.path_of_fire.hamaseen" GUID="0KNmLkthSEG7rYT3Zy5tHA=="/>
+		<POI MapID="1210" xpos="632.576" ypos="122.861" zpos="80.0207" type="coffres.requiert_cle.path_of_fire.hamaseen" GUID="TJN2bz3cqkGkNNDPvgnKpA=="/>
+		<POI MapID="1210" xpos="742.098" ypos="122.713" zpos="574.816" type="coffres.requiert_cle.path_of_fire.hamaseen" GUID="2zoPHdvB50ySz6yQ7tLATg=="/>
+		<POI MapID="1210" xpos="765.494" ypos="203.55" zpos="478.686" type="coffres.requiert_cle.path_of_fire.hamaseen" GUID="QuFPHeBzY0+79pHLHWRpKQ=="/>
+		<POI MapID="1210" xpos="1023.99" ypos="19.3859" zpos="-328.645" type="coffres.requiert_cle.path_of_fire.hamaseen" GUID="qMXYG5l9hUaA24SIzwvk/Q=="/>
+		<POI MapID="1210" xpos="1199.39" ypos="90.7868" zpos="-343.81" type="coffres.requiert_cle.path_of_fire.hamaseen" GUID="/RD2+u4uXEyxrSSv8r05DA=="/>
+		<POI MapID="1210" xpos="1439.08" ypos="160.125" zpos="142.406" type="coffres.requiert_cle.path_of_fire.hamaseen" GUID="Md88a8beik+RnDjRlbeW2g=="/>
+		<POI MapID="1210" xpos="1448.51" ypos="189.808" zpos="672.916" type="coffres.requiert_cle.path_of_fire.hamaseen" GUID="hTLMbpJP+UC0GRYrFXsL6g=="/>
+
+		<POI MapID="1211" xpos="-113.109" ypos="248.424" zpos="352.886" type="coffres.requiert_cle.path_of_fire.hamaseen" GUID="vwVkOVHPwEGncGd8QJh3Fg=="/>
+		<POI MapID="1211" xpos="634.113" ypos="209.833" zpos="133.715" type="coffres.requiert_cle.path_of_fire.hamaseen" GUID="RptGmNYJ/Eiy6Jilb8Z81Q=="/>
+		<POI MapID="1211" xpos="1023.56" ypos="200.41" zpos="150.963" type="coffres.requiert_cle.path_of_fire.hamaseen" GUID="M5uWxEZ8YEeTwbWY1hlC9g=="/>
+	</POIs>
+</OverlayData>

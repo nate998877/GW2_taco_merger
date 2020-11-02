@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+POIs: ReActif.9251
+Date: 2017/08/11
+-->
+<OverlayData>
+	<MarkerCategory name="chroniques.saison_3">
+		<MarkerCategory name="ep6_le_bout_du_chemin" DisplayName="Ep.6 - One Path Ends" iconFile="Img\LeBoutduChemin.png">
+			<MarkerCategory name="conteur__abaddon" DisplayName="Storyteller: Abaddon"/>
+		</MarkerCategory>
+	</MarkerCategory>
+
+	<POIs>
+
+		<!-- Prêtre d'Abaddon -->
+		<POI MapID="1203" xpos="-449.279" ypos="97.9905" zpos="121.077" type="chroniques.saison_3.ep6_le_bout_du_chemin.conteur__abaddon" GUID="myFWlzfmOEqyMZWqKmc0bA==" heightOffset="3.5" behavior="0"/>
+
+		<!--  1 --><POI MapID="1203" xpos="-635.448" ypos="166.897"  zpos="-126.26"  type="chroniques.saison_3.ep6_le_bout_du_chemin.conteur__abaddon" GUID="tV12lZwVekiDS85MKEkSew=="/>
+		<!--  2 --><POI MapID="1203" xpos="-985.113" ypos="4.8065"   zpos="-290.261" type="chroniques.saison_3.ep6_le_bout_du_chemin.conteur__abaddon" GUID="UMrzcB0nQUWgxVwa+P8ZEw=="/>
+		<!--  3 --><POI MapID="1203" xpos="-647.108" ypos="122.587"  zpos="303.64"   type="chroniques.saison_3.ep6_le_bout_du_chemin.conteur__abaddon" GUID="tdHJCLs5okqrinCms+icXQ=="/>
+		<!--  4 --><POI MapID="1203" xpos="-700.194" ypos="78.7433"  zpos="193.664"  type="chroniques.saison_3.ep6_le_bout_du_chemin.conteur__abaddon" GUID="PAbsp1R4O02acZ495sPY7A=="/>
+		<!--  5 --><POI MapID="1203" xpos="-698.459" ypos="78.731"   zpos="195.325"  type="chroniques.saison_3.ep6_le_bout_du_chemin.conteur__abaddon" GUID="atzhMiqZNEmhD0tAdNd89Q=="/>
+		<!--  6 --><POI MapID="1203" xpos="-801.001" ypos="-15.3118" zpos="113.691"  type="chroniques.saison_3.ep6_le_bout_du_chemin.conteur__abaddon" GUID="Jf+iAsUoKE2dX3mpvPmDBg=="/>
+		<!--  7 --><POI MapID="1203" xpos="-248.445" ypos="72.4078"  zpos="123.854"  type="chroniques.saison_3.ep6_le_bout_du_chemin.conteur__abaddon" GUID="5A5wDDLeN0C1jhIRMV0j9g=="/>
+		<!--  8 --><POI MapID="1203" xpos="-413.145" ypos="-7.41363" zpos="90.2533"  type="chroniques.saison_3.ep6_le_bout_du_chemin.conteur__abaddon" GUID="TjwXtNxkXkqP76rjG33VBQ=="/>
+		<!--  9 --><POI MapID="1203" xpos="-606.25"  ypos="126.058"  zpos="49.0908"  type="chroniques.saison_3.ep6_le_bout_du_chemin.conteur__abaddon" GUID="PW/1r1YRxUSTTE6fD7J0/w==" heightOffset="2"/>
+		<!-- 10 --><POI MapID="1203" xpos="84.2031"  ypos="133.736"  zpos="362.196"  type="chroniques.saison_3.ep6_le_bout_du_chemin.conteur__abaddon" GUID="gZFHMLzzUkWDlNw0cLjUlQ=="/>
+		<!-- 11 --><POI MapID="1203" xpos="-429.599" ypos="128.123"  zpos="148.595"  type="chroniques.saison_3.ep6_le_bout_du_chemin.conteur__abaddon" GUID="C9VJRZ8kaE+NHJlzYTYYZA=="/>
+
+	</POIs>
+</OverlayData>

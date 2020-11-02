@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+POIs: ReActif.9251
+Date: 2017/03/15
+-->
+<OverlayData>
+	<MarkerCategory name="general" DisplayName="General">
+		<MarkerCategory name="explorateur" DisplayName="Explorer" iconFile="Img\Explorateur.png" behavior="3">
+			<MarkerCategory name="une_periode_inoubliable" DisplayName="A Waddle to Remember" iconFile="Img\CoffreSkritt.png" heightOffset="3" behavior="0"/>
+		</MarkerCategory>
+	</MarkerCategory>
+
+	<POIs>
+
+		<!-- Forêt de Caledon -->
+		<POI MapID="34" xpos="-443.617" ypos="39.6026" zpos="-376.069" type="general.explorateur.une_periode_inoubliable" GUID="j5AH2fE0oUWgYE+u1C1gDA=="/>
+		<POI MapID="34" xpos="-368.571" ypos="38.1906" zpos="158.003" type="general.explorateur.une_periode_inoubliable" GUID="vHrrObOy/km5qtaCBsQ/LQ=="/>
+		<POI MapID="34" xpos="-288.231" ypos="3.36071" zpos="959.057" type="general.explorateur.une_periode_inoubliable" GUID="hrtLvYM4ZU2xyto1UXm85g=="/>
+		<POI MapID="34" xpos="-53.6904" ypos="53.6025" zpos="563.398" type="general.explorateur.une_periode_inoubliable" GUID="EpTrK/uc80OtejbQq6sMHQ=="/>
+		<POI MapID="34" xpos="281.79" ypos="35.3704" zpos="-336.797" type="general.explorateur.une_periode_inoubliable" GUID="WD2PmtjZ5ESF3a3lP42Wkg=="/>
+
+		<!-- Provinces de Metrica -->
+		<POI MapID="35" xpos="-57.895" ypos="5.54881" zpos="31.7815" type="general.explorateur.une_periode_inoubliable" GUID="aQyA7kYSUU+LvcSCVNylzw=="/>
+		<POI MapID="35" xpos="89.7958" ypos="15.2937" zpos="640.572" type="general.explorateur.une_periode_inoubliable" GUID="CzQ9/OUQKEunRyFb4iN8Mw=="/>
+		<POI MapID="35" xpos="126.791" ypos="-0.092451" zpos="939.292" type="general.explorateur.une_periode_inoubliable" GUID="kfrV9Uk9j0O3dMWamUgSGw=="/>
+		<POI MapID="35" xpos="376.754" ypos="10.9969" zpos="227.15" type="general.explorateur.une_periode_inoubliable" GUID="ezbFqTCUdE+PenHD4Xp49w=="/>
+		<POI MapID="35" xpos="585.53" ypos="-0.576606" zpos="-523.676" type="general.explorateur.une_periode_inoubliable" GUID="IEYvdlMgCE6hgbbWX+gX/Q=="/>
+
+		<!-- Mont Maelstrom -->
+		<POI MapID="39" xpos="-1058.89" ypos="61.0942" zpos="222.846" type="general.explorateur.une_periode_inoubliable" GUID="UCOuKeDKg0SpcUHYVajZQQ=="/>
+		<POI MapID="39" xpos="-933.373" ypos="14.9409" zpos="-433.657" type="general.explorateur.une_periode_inoubliable" GUID="xWxxKWDLVkK/nu5yS+CwNA=="/>
+		<POI MapID="39" xpos="-99.2454" ypos="3.41894" zpos="530.939" type="general.explorateur.une_periode_inoubliable" GUID="3ZcRtCjTl0+5LVGa6OVdFg=="/>
+		<POI MapID="39" xpos="277.134" ypos="54.3203" zpos="526.174" type="general.explorateur.une_periode_inoubliable" GUID="btFiT73CvkW9lRg/kz1iNg=="/>
+		<POI MapID="39" xpos="539.019" ypos="7.74153" zpos="-537.898" type="general.explorateur.une_periode_inoubliable" GUID="OMX0QrA8dE+nt4k00/q5yw=="/>
+
+		<!-- Terres Sauvages de Brisban -->
+		<POI MapID="54" xpos="-757.447" ypos="8.50487" zpos="415.805" type="general.explorateur.une_periode_inoubliable" GUID="YK+Ha0w8bE+ubQOig4N1YA=="/>
+		<POI MapID="54" xpos="-611.7" ypos="27.8802" zpos="-338.106" type="general.explorateur.une_periode_inoubliable" GUID="PzkDAYO8dk+HKfG76Jx+EQ=="/>
+		<POI MapID="54" xpos="-553.118" ypos="16.307" zpos="-652.782" type="general.explorateur.une_periode_inoubliable" GUID="Cykr8cAnyEKWhzKRoDB56A=="/>
+		<POI MapID="54" xpos="338.686" ypos="117.103" zpos="409.8" type="general.explorateur.une_periode_inoubliable" GUID="E12mrg+SSkeYB1ZhFtwpdQ=="/>
+		<POI MapID="54" xpos="954.192" ypos="123.027" zpos="-732.938" type="general.explorateur.une_periode_inoubliable" GUID="Go6tjfG8wk+Xqru2y5rXxA=="/>
+
+	</POIs>
+</OverlayData>

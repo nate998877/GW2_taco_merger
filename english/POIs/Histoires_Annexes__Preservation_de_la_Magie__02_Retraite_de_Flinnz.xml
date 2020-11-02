@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+POIs: ReActif.9251
+Date: 2017/08/15
+-->
+<OverlayData>
+	<MarkerCategory name="histoires_annexes" DisplayName="Side Stories" iconFile="Img\HistoiresAnnexes.png" behavior="3">
+		<MarkerCategory name="preservation_de_la_magie" DisplayName="Conservation of Magic" iconFile="Img\PreservationDeLaMagie.png" behavior="0">
+			<MarkerCategory name="retraite_de_flinnz" DisplayName="Flinnz's Retirement"/>
+		</MarkerCategory>
+	</MarkerCategory>
+
+	<POIs>
+
+		<!-- Flinnz -->
+		<POI MapID="20" xpos="-506.35" ypos="32.09" zpos="-458.68" type="histoires_annexes.preservation_de_la_magie.retraite_de_flinnz" GUID="YtgNXJSq4UeFpTO5efKKbg==" heightOffset="4"/>
+
+	</POIs>
+</OverlayData>

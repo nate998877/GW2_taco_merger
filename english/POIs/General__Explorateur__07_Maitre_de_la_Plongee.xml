@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+POIs: GW2Info.net - TMKFrench.6427
+Date: 2016/11/30
+-->
+<OverlayData>
+	<MarkerCategory name="general" DisplayName="General">
+		<MarkerCategory name="explorateur" DisplayName="Explorer" iconFile="Img\Explorateur.png" behavior="3">
+			<MarkerCategory name="maitre_de_la_plongee" DisplayName="Dive Master" iconFile="Img\Plongeon.png" heightOffset="0"/>
+		</MarkerCategory>
+	</MarkerCategory>
+
+	<POIs>
+
+		<POI MapID="17" xpos="666.001" ypos="29.6502" zpos="-717.454" type="general.explorateur.maitre_de_la_plongee" GUID="1+wWuuHasES05c6ZR3La7A=="/>
+		<POI MapID="17" xpos="-368.547" ypos="33.9852" zpos="636.386" type="general.explorateur.maitre_de_la_plongee" GUID="lf9yeKMzU0mx6eE6+6wFfg=="/>
+
+		<POI MapID="19" xpos="611.077" ypos="48.5678" zpos="-383.16" type="general.explorateur.maitre_de_la_plongee" GUID="mB+06QuqB0uqM70LcPjn7g=="/>
+		<POI MapID="19" xpos="-347.627" ypos="20.2792" zpos="-385.118" type="general.explorateur.maitre_de_la_plongee" GUID="+rULBNwRUE+CogqDf82s0A=="/>
+
+		<POI MapID="21" xpos="-43.3557" ypos="35.8663" zpos="77.5656" type="general.explorateur.maitre_de_la_plongee" GUID="gTHJK1r3IUqkxuyvKOPq/w=="/>
+		<POI MapID="21" xpos="-546.471" ypos="14.2692" zpos="712.592" type="general.explorateur.maitre_de_la_plongee" GUID="Y3sZ7Sl53E6fZW3/El5m4w=="/>
+
+		<POI MapID="22" xpos="316.298" ypos="56.5006" zpos="-584.852" type="general.explorateur.maitre_de_la_plongee" GUID="u95FkttWFk+nQXvRcmjs1g=="/>
+
+		<POI MapID="23" xpos="1072.46" ypos="87.9465" zpos="-486.758" type="general.explorateur.maitre_de_la_plongee" GUID="IUbYe+F9xUCQ7YTLIwNIbA=="/>
+
+		<POI MapID="24" xpos="120.669" ypos="28.933" zpos="164.881" type="general.explorateur.maitre_de_la_plongee" GUID="J23YFCDP7Eqttx9BM4+/SQ=="/>
+		<POI MapID="24" xpos="599.17" ypos="69.1291" zpos="532.252" type="general.explorateur.maitre_de_la_plongee" GUID="aQ3AUXUnWUW9NeRoetxNJA=="/>
+		<POI MapID="24" xpos="-305.642" ypos="148.443" zpos="-531.939" type="general.explorateur.maitre_de_la_plongee" GUID="YbePWaCaE0OEzDdKoWSKDw=="/>
+
+		<POI MapID="25" xpos="-502.176" ypos="54.9407" zpos="-963.155" type="general.explorateur.maitre_de_la_plongee" GUID="azKny5aRi06SqWuzuh3wiA=="/>
+		<POI MapID="25" xpos="133.224" ypos="34.8035" zpos="-777.286" type="general.explorateur.maitre_de_la_plongee" GUID="zt9nwE+Y1ECOGEIHqKXmmA=="/>
+
+		<POI MapID="27" xpos="-431.033" ypos="52.7826" zpos="-1243.56" type="general.explorateur.maitre_de_la_plongee" GUID="L++zgmDr4EKAV2o5N9sG6g=="/>
+		<POI MapID="27" xpos="-247.209" ypos="26.6247" zpos="-649.419" type="general.explorateur.maitre_de_la_plongee" GUID="Z3LZUoEutEyfNLzjoExCkg=="/>
+
+		<POI MapID="28" xpos="143.041" ypos="41.064" zpos="-52.1583" type="general.explorateur.maitre_de_la_plongee" GUID="Du8xsQWnf06PlLPXeOlxgw=="/>
+		<POI MapID="28" xpos="283.183" ypos="41.0717" zpos="-718.103" type="general.explorateur.maitre_de_la_plongee" GUID="HRh5rPxJdkWJyKR2YaZNqA=="/>
+
+		<POI MapID="29" xpos="-167.139" ypos="29.023" zpos="888.028" type="general.explorateur.maitre_de_la_plongee" GUID="3PwE3wyXukaPY2GdMFFoJQ=="/>
+		<POI MapID="29" xpos="257.598" ypos="89.6286" zpos="-533.982" type="general.explorateur.maitre_de_la_plongee" GUID="yVpkW9RPeUSWmOkWTR2rLQ=="/>
+
+		<POI MapID="30" xpos="-117.401" ypos="49.7636" zpos="379.939" type="general.explorateur.maitre_de_la_plongee" GUID="7IjE4JjVHU+AxpOONqa7pw=="/>
+
+		<POI MapID="32" xpos="125.154" ypos="24.8792" zpos="333.349" type="general.explorateur.maitre_de_la_plongee" GUID="J90bvES5m0+FspnkoW3bVQ=="/>
+		<POI MapID="32" xpos="885.592" ypos="26.8922" zpos="-426.796" type="general.explorateur.maitre_de_la_plongee" GUID="C9EtYcQk1kWaxnW4cnU5cw=="/>
+
+		<POI MapID="34" xpos="457.953" ypos="22.5996" zpos="244.201" type="general.explorateur.maitre_de_la_plongee" GUID="UbqVLND3/UaYWURnfaAYKQ=="/>
+
+		<POI MapID="35" xpos="333.472" ypos="18.5816" zpos="890.814" type="general.explorateur.maitre_de_la_plongee" GUID="1hlG+rjajkuHFHryCjgNNg=="/>
+		<POI MapID="35" xpos="-25.7014" ypos="25.7587" zpos="-566.702" type="general.explorateur.maitre_de_la_plongee" GUID="6EDReEgwUUmO5bu57uuyCQ=="/>
+
+		<POI MapID="39" xpos="1077.7" ypos="112.212" zpos="670.234" type="general.explorateur.maitre_de_la_plongee" GUID="JyEX/m0rDUm0gjFgl7JE5A=="/>
+		<POI MapID="39" xpos="1037.74" ypos="103.133" zpos="497.965" type="general.explorateur.maitre_de_la_plongee" GUID="SVv3bSHqPEaKb1T/7KALaA=="/>
+
+		<POI MapID="50" xpos="-313.969" ypos="160.009" zpos="-375.408" type="general.explorateur.maitre_de_la_plongee" GUID="vSlV7wWOB0qcKJvVp73M8Q=="/>
+
+		<POI MapID="51" xpos="492.352" ypos="36.5014" zpos="98.1356" type="general.explorateur.maitre_de_la_plongee" GUID="mvSH6BFA0ESCnSfcd7iCAg=="/>
+		<POI MapID="51" xpos="166.939" ypos="37.8735" zpos="-384.222" type="general.explorateur.maitre_de_la_plongee" GUID="/8gInvaj/06Nu4NNI8tUew=="/>
+
+		<POI MapID="54" xpos="152.17" ypos="35.3494" zpos="56.128" type="general.explorateur.maitre_de_la_plongee" GUID="oB56WA6jBUmmVcE6N5jhNw=="/>
+		<POI MapID="54" xpos="511.661" ypos="52.1656" zpos="165.402" type="general.explorateur.maitre_de_la_plongee" GUID="gICUO1D9PUWw+nN4QAXm+g=="/>
+
+		<POI MapID="62" xpos="102.329" ypos="24.7463" zpos="372.16" type="general.explorateur.maitre_de_la_plongee" GUID="V5pVs+wQbEKpO8AaxAfXaQ=="/>
+		<POI MapID="62" xpos="-15.7593" ypos="36.4912" zpos="-871.189" type="general.explorateur.maitre_de_la_plongee" GUID="rkRm5mj510GXa2zrQrueXg=="/>
+
+		<POI MapID="65" xpos="-402.408" ypos="153.443" zpos="131.78" type="general.explorateur.maitre_de_la_plongee" GUID="ZSsh3f8M/0WyvJIZeEPL3g=="/>
+
+		<POI MapID="73" xpos="350.768" ypos="53.8876" zpos="520.809" type="general.explorateur.maitre_de_la_plongee" GUID="o7F4PmSUlEO5Y5GrirTAYw=="/>
+
+		<POI MapID="91" xpos="56.3771" ypos="74.6481" zpos="-17.758" type="general.explorateur.maitre_de_la_plongee" GUID="hvO5B7kAoEWElrzcXHLuEg=="/>
+
+		<POI MapID="139" xpos="-4.80752" ypos="108.835" zpos="-349.995" type="general.explorateur.maitre_de_la_plongee" GUID="Ca7ZpkxvC06oLPiQufW3OA=="/>
+
+	</POIs>
+</OverlayData>

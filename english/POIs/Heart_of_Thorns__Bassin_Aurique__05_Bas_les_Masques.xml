@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+POIs: ReActif.9251
+Date: 2017/08/11
+-->
+<OverlayData>
+	<MarkerCategory name="heart_of_thorns.bassin_aurique">
+		<MarkerCategory name="bas_les_masques" DisplayName="No Mask Left Behind" heightOffset="2"/>
+	</MarkerCategory>
+
+	<POIs>
+
+		<!-- 1. Descente de la Garde du Nord : dans les profondeurs de la terre sous l'avant-poste. -->
+		<POI MapID="1043" xpos="66.8613" ypos="301.777" zpos="536.273" type="heart_of_thorns.bassin_aurique.bas_les_masques" GUID="9lKF+5GzxUqjYXUlft049A=="/>
+
+		<!-- 2. Gouffre aux hérissosaures : quelque part en haut de l'Antre du viveliane. -->
+		<POI MapID="1043" xpos="571.86" ypos="299.41" zpos="356.86" type="heart_of_thorns.bassin_aurique.bas_les_masques" GUID="Pctk37FZYUahSQtbPt3yGw=="/>
+
+		<!-- 3. Falaise de la Garde de l'Est : en surplomb d'un pylône de la Garde de l'Est où un sage exalté a été relevé de ses fonctions. -->
+		<POI MapID="1043" xpos="476.66" ypos="342.98" zpos="131.46" type="heart_of_thorns.bassin_aurique.bas_les_masques" GUID="SgPkysGtMU67Pf8cMYR7Wg=="/>
+
+		<!-- 4. Chute du Griffon : au fond d'une cascade secrète. -->
+		<POI MapID="1043" xpos="-432.35" ypos="291.73" zpos="-432.58" type="heart_of_thorns.bassin_aurique.bas_les_masques" GUID="IXwWOUgwbkao7ERSHpVYyQ=="/>
+
+		<!-- 5. Vallon du chak : en surplomb d'un village nuhoch en ruine. -->
+		<POI MapID="1043" xpos="206.64" ypos="266.955" zpos="-647.837" type="heart_of_thorns.bassin_aurique.bas_les_masques" GUID="UNGzrPOogUa8hJ+Gsa29Eg=="/>
+
+		<!-- 6. Contrées sauvages de Morbois : derrière le mur de lianes. Attention, le timing est très important ! -->
+		<POI MapID="1043" xpos="62.78" ypos="223.52" zpos="-804.48" type="heart_of_thorns.bassin_aurique.bas_les_masques" GUID="6fZnceB0306QKALtAGHAAg=="/>
+
+		<!-- 7. Gouffre aux hérissosaures : en face de la cascade, dans un arbre. -->
+		<POI MapID="1043" xpos="320.645" ypos="282.435" zpos="-232.825" type="heart_of_thorns.bassin_aurique.bas_les_masques" GUID="sHWvc6sbikqEDXyvbsGAJA=="/>
+
+		<!-- 8. Falaise de la Garde de l'Est : derrière les différentes cascades. -->
+		<POI MapID="1043" xpos="613.44" ypos="307.45" zpos="64.2412" type="heart_of_thorns.bassin_aurique.bas_les_masques" GUID="igv7p/tgsESIYvLNdWKKjg=="/>
+
+		<!-- 9. Les Chutes : dans chaque branche d'arbre tournée vers le sud et menant aux chutes. -->
+		<POI MapID="1043" xpos="-337.17" ypos="295.56" zpos="-369.8" type="heart_of_thorns.bassin_aurique.bas_les_masques" GUID="sHWMO14dIkmeVTL1AbZFzQ=="/>
+
+		<!-- 10. Les Chutes : derrière la chute d'eau elle-même. -->
+		<POI MapID="1043" xpos="-510.36" ypos="122.76" zpos="-266.26" type="heart_of_thorns.bassin_aurique.bas_les_masques" GUID="NjReN6ivzESNW6SS37NA0Q=="/>
+
+		<!-- 11. Parterre de la Garde de l'Ouest : entre les murs hauts de la caverne du limon doré. -->
+		<POI MapID="1043" xpos="-593.29" ypos="291.33" zpos="152.48" type="heart_of_thorns.bassin_aurique.bas_les_masques" GUID="fCTfKTL/9UqL34QbgvC/8Q=="/>
+
+		<!-- 12. Cime ternie : dans les branches des arbres de la canopée du sud. -->
+		<POI MapID="1043" xpos="-364.616" ypos="420.724" zpos="523.228" type="heart_of_thorns.bassin_aurique.bas_les_masques" GUID="te/SeuaA2kme1jOFwI5O3A=="/>
+
+		<!-- 13. Descente de la Garde du Nord : sur la corniche sud-ouest, avec une vue imprenable sur l'avant-poste. -->
+		<POI MapID="1043" xpos="-18.25" ypos="389.61" zpos="547.25" type="heart_of_thorns.bassin_aurique.bas_les_masques" GUID="IWIg/jcj1UGQuVc7G4LYyA=="/>
+
+		<!-- 14. Hauts-fonds de Maguuma : sur un perchoir élevé, près de l'endroit où les créatures peuvent devenir très grandes. -->
+		<POI MapID="1043" xpos="377.85" ypos="347.48" zpos="536.55" type="heart_of_thorns.bassin_aurique.bas_les_masques" GUID="s4QxpgYwvkeYeUms9jQ74A=="/>
+
+		<!-- 15. Carrière de l'aviveur : dans l'eau au sommet de la cascade. -->
+		<POI MapID="1043" xpos="542.821" ypos="371.659" zpos="718.002" type="heart_of_thorns.bassin_aurique.bas_les_masques" GUID="j5QXdJ8umUO7pEeAMOWnTQ=="/>
+
+		<!-- 16. Chaussée des moussecœurs : dans une petite grotte en face du pylône de la vouivre. -->
+		<POI MapID="1043" xpos="503.501" ypos="282.944" zpos="-527.938" type="heart_of_thorns.bassin_aurique.bas_les_masques" GUID="8EWfOfgsDUKuug1WSoaTvw=="/>
+
+		<!-- 17. Vallon du chak : dans une alcôve au sud avec une bonne vue sur l'accès aux Profondeurs verdoyantes. -->
+		<POI MapID="1043" xpos="431.12" ypos="246.69" zpos="-819.12" type="heart_of_thorns.bassin_aurique.bas_les_masques" GUID="qt871X5X1E+qVw2jBcoq2g=="/>
+
+		<!-- 18. Contrées sauvages de Morbois : dans le ciel, surplombant l'une des pousses viciées. -->
+		<POI MapID="1043" xpos="94.54" ypos="277.88" zpos="-681.48" type="heart_of_thorns.bassin_aurique.bas_les_masques" GUID="jjMsNPzvu0KqSxVCzW9+vA=="/>
+
+		<!-- 19. Repos de Balthazar : sur un rocher avec une vue dégagée sur la porte du temple. -->
+		<POI MapID="1043" xpos="-179.67" ypos="305.31" zpos="-581.63" type="heart_of_thorns.bassin_aurique.bas_les_masques" GUID="wF3ZJ91r1E2SYCXyrXpXvQ=="/>
+
+		<!-- 20. Rampe de la Garde du Sud : derrière le mur nord-ouest qui fait face à l'avant-poste. -->
+		<POI MapID="1043" xpos="-108.266" ypos="305.411" zpos="-382.819" type="heart_of_thorns.bassin_aurique.bas_les_masques" GUID="G5JC47jlXEmnK/s7pL4S6w=="/>
+
+		<!-- 21. Rampe de la Garde du sud : à l'est près du sommet de l'accès à Tarir. -->
+		<POI MapID="1043" xpos="59.57" ypos="319.33" zpos="-295" type="heart_of_thorns.bassin_aurique.bas_les_masques" GUID="NT0EttNUfkCIwYkAC35nlg=="/>
+
+		<!-- 22. Rampe de la Garde du Sud : vers les racines les plus hautes, en allant vers l'est, sur le chemin du site du crash. -->
+		<POI MapID="1043" xpos="148.1" ypos="303.8" zpos="-446.3" type="heart_of_thorns.bassin_aurique.bas_les_masques" GUID="7RzDdLdKw0mPl25k7/JMaA=="/>
+
+		<!-- 23. Cime ternie : regarder la canopée inférieure, près de la cour royale des champignons. -->
+		<POI MapID="1043" xpos="-309.24" ypos="364.484" zpos="735.021" type="heart_of_thorns.bassin_aurique.bas_les_masques" GUID="JNT9yDcee0igZ+4dbBvfYQ=="/>
+
+		<!-- 24. Perche du dernier rouage : aux abords de l'entrée de la grotte. -->
+		<POI MapID="1043" xpos="-576.307" ypos="288.592" zpos="-42.9795" type="heart_of_thorns.bassin_aurique.bas_les_masques" GUID="KOnaUbU4U0ubsUm2F3a6Ug=="/>
+
+		<!-- 25. Vallée de la têtenflèche : en surplomb de l'accès nord à Tarir. -->
+		<POI MapID="1043" xpos="82.9037" ypos="352.824" zpos="327.469" type="heart_of_thorns.bassin_aurique.bas_les_masques" GUID="x8hupUErt0+xmcoDdzAKtA=="/>
+
+	</POIs>
+</OverlayData>

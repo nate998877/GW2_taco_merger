@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+POIs: ReActif.9251
+Date: 2017/08/22
+-->
+<OverlayData>
+	<MarkerCategory name="heart_of_thorns.oree_d_emeraude">
+		<MarkerCategory name="coffres_d_aeronefs" DisplayName="Strongbox" iconFile="Img\CoffreMaitriseHOT.png" heightOffset="3">
+			<MarkerCategory name="envol_de_faren" DisplayName="Faren's Flyer Strongbox"/>
+			<MarkerCategory name="glorieuse_tyrie" DisplayName="Glory of Tyria Strongbox"/>
+			<MarkerCategory name="pointe-mortelle" DisplayName="Lethal Vantage Strongbox"/>
+			<MarkerCategory name="bavoure_de_mellagan" DisplayName="Mellaggan's Valor Strongbox"/>
+			<MarkerCategory name="brisetonnerre" DisplayName="Thunderbreaker Strongbox"/>
+		</MarkerCategory>
+	</MarkerCategory>
+
+	<POIs>
+
+		<!-- "Pointe-Mortelle" -->
+		<POI MapID="1052" xpos="643.624" ypos="123.386" zpos="-59.3765" type="heart_of_thorns.oree_d_emeraude.coffres_d_aeronefs.pointe-mortelle" GUID="l4INLefP+Ea6M0fl4Xm3Nw=="/>
+
+		<!-- "Bavoure de Mellagan" -->
+		<POI MapID="1052" xpos="-507.402" ypos="617.919" zpos="226.098" type="heart_of_thorns.oree_d_emeraude.coffres_d_aeronefs.bavoure_de_mellagan" GUID="O7JSBzWHNEOrIjCvQLcIBg=="/>
+
+		<!-- "Brisetonnerre" -->
+		<POI MapID="1052" xpos="-588.633" ypos="533.609" zpos="-260.84" type="heart_of_thorns.oree_d_emeraude.coffres_d_aeronefs.brisetonnerre" GUID="Cb89haTaZkqASDK93zvJPg=="/>
+
+		<!-- "Envol de Faren" -->
+		<POI MapID="1052" xpos="-573.722" ypos="621.123" zpos="27.4728" type="heart_of_thorns.oree_d_emeraude.coffres_d_aeronefs.envol_de_faren" GUID="J63DvcbiW0C/ZkWksWFocQ=="/>
+
+		<!-- "Glorieuse Tyrie" -->
+		<POI MapID="1052" xpos="-460.272" ypos="496.628" zpos="-418.228" type="heart_of_thorns.oree_d_emeraude.coffres_d_aeronefs.glorieuse_tyrie" GUID="Bn1UZwVR20aqpwtmNG4J9g=="/>
+
+	</POIs>
+</OverlayData>

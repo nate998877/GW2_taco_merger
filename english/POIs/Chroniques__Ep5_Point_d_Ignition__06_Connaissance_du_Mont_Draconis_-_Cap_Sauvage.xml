@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+POIs: ReActif.9251
+Date: 2017/08/11
+-->
+<OverlayData>
+	<MarkerCategory name="chroniques.saison_3">
+		<MarkerCategory name="ep5_point_d_ignition" DisplayName="Ep.5 - Flashpoint" iconFile="Img\MontDraconis.png">
+			<MarkerCategory name="connaissance_du_mont_draconis__cap_sauvage" DisplayName="Draconis Mons Insight: Savage Rise" heightOffset="5">
+				<MarkerCategory name="acces" DisplayName="Guide" iconFile="Img\Guide.png" iconSize="0.75" heightOffset="0" behavior="0"/>
+			</MarkerCategory>
+		</MarkerCategory>
+	</MarkerCategory>
+
+	<POIs>
+
+		<!-- Point de maîtrise -->
+		<POI MapID="1195" xpos="300.614" ypos="323.081" zpos="-758.818" type="chroniques.saison_3.ep5_point_d_ignition.connaissance_du_mont_draconis__cap_sauvage" GUID="GNhzXPk8GEKMu999k6k0zQ=="/>
+
+		<!-- Accès -->
+		<Route MapID="1195" name="Cap_Sauvage" resetposx="409.69" resetposy="410.79" resetposz="-310.99" resetrange="1">
+			<POI MapID="1195" xpos="414.586" ypos="409.534" zpos="-318.382" type="chroniques.saison_3.ep5_point_d_ignition.connaissance_du_mont_draconis__cap_sauvage.acces" GUID="tIK9xOcbZU+d+7D5dEmLww==" iconFile="Img\Fleche.png" iconSize="1" heightOffset="1.5"/>
+			<POI MapID="1195" xpos="416.064" ypos="408.235" zpos="-329.048" type="chroniques.saison_3.ep5_point_d_ignition.connaissance_du_mont_draconis__cap_sauvage.acces" GUID="ncsOYXfIp0+7nlWr09tEVg=="/>
+			<POI MapID="1195" xpos="416.649" ypos="407.222" zpos="-338.587" type="chroniques.saison_3.ep5_point_d_ignition.connaissance_du_mont_draconis__cap_sauvage.acces" GUID="RtjbG2XxlEW0hO8QglaH2A=="/>
+			<POI MapID="1195" xpos="417.569" ypos="405.809" zpos="-348.596" type="chroniques.saison_3.ep5_point_d_ignition.connaissance_du_mont_draconis__cap_sauvage.acces" GUID="JFt86Yw1uUyL/v7DYl6FrQ=="/>
+			<POI MapID="1195" xpos="418.502" ypos="404.547" zpos="-358.746" type="chroniques.saison_3.ep5_point_d_ignition.connaissance_du_mont_draconis__cap_sauvage.acces" GUID="dzjx31ena0GWJ18TV5h6Rw=="/>
+			<POI MapID="1195" xpos="419.39"  ypos="402.315" zpos="-367.764" type="chroniques.saison_3.ep5_point_d_ignition.connaissance_du_mont_draconis__cap_sauvage.acces" GUID="NyJ70Hm4x0GbPynN2Q5Fmg=="/>
+			<POI MapID="1195" xpos="421.055" ypos="399.891" zpos="-378.57"  type="chroniques.saison_3.ep5_point_d_ignition.connaissance_du_mont_draconis__cap_sauvage.acces" GUID="F8BUZGIFZUKPocQszIzlBw=="/>
+			<POI MapID="1195" xpos="422.937" ypos="397.981" zpos="-388.337" type="chroniques.saison_3.ep5_point_d_ignition.connaissance_du_mont_draconis__cap_sauvage.acces" GUID="vanjmEo4LkyvykX9qE4K8A=="/>
+			<POI MapID="1195" xpos="424.84"  ypos="396.065" zpos="-398.415" type="chroniques.saison_3.ep5_point_d_ignition.connaissance_du_mont_draconis__cap_sauvage.acces" GUID="CLNbEZMp6Uip0JnBBZ4M4Q=="/>
+			<POI MapID="1195" xpos="426.522" ypos="395.02"  zpos="-407.548" type="chroniques.saison_3.ep5_point_d_ignition.connaissance_du_mont_draconis__cap_sauvage.acces" GUID="tlM016ynsEyxE/KW8KvanQ=="/>
+			<POI MapID="1195" xpos="427.99"  ypos="393.13"  zpos="-416.724" type="chroniques.saison_3.ep5_point_d_ignition.connaissance_du_mont_draconis__cap_sauvage.acces" GUID="HqyJZyLh70KDT2b3srgEtg=="/>
+			<POI MapID="1195" xpos="429.157" ypos="393.485" zpos="-426.125" type="chroniques.saison_3.ep5_point_d_ignition.connaissance_du_mont_draconis__cap_sauvage.acces" GUID="cJBAPoFj3Uen4ZuF4A7mDw=="/>
+			<POI MapID="1195" xpos="431.124" ypos="393.2"   zpos="-435.241" type="chroniques.saison_3.ep5_point_d_ignition.connaissance_du_mont_draconis__cap_sauvage.acces" GUID="FOrV5ToqB0a8h+mQuYkcHg=="/>
+			<POI MapID="1195" xpos="434.091" ypos="392.771" zpos="-444.481" type="chroniques.saison_3.ep5_point_d_ignition.connaissance_du_mont_draconis__cap_sauvage.acces" GUID="98ZRUgoI2EmO3+yUK1nLhQ=="/>
+			<POI MapID="1195" xpos="437.228" ypos="391.833" zpos="-452.47"  type="chroniques.saison_3.ep5_point_d_ignition.connaissance_du_mont_draconis__cap_sauvage.acces" GUID="d06ElbM21k+MZs5aJmGm9A=="/>
+			<POI MapID="1195" xpos="442.423" ypos="392.401" zpos="-459.756" type="chroniques.saison_3.ep5_point_d_ignition.connaissance_du_mont_draconis__cap_sauvage.acces" GUID="Z/qFteOArUmemCeKF5/aUA=="/>
+			<POI MapID="1195" xpos="449.42"  ypos="392.7"   zpos="-467.249" type="chroniques.saison_3.ep5_point_d_ignition.connaissance_du_mont_draconis__cap_sauvage.acces" GUID="BO1tgYIX1UODwTn9YBbW7g=="/>
+			<POI MapID="1195" xpos="456.07"  ypos="392.367" zpos="-474.275" type="chroniques.saison_3.ep5_point_d_ignition.connaissance_du_mont_draconis__cap_sauvage.acces" GUID="g2P/Z51N30yGAs1TqLg8FQ=="/>
+			<POI MapID="1195" xpos="462.937" ypos="392.538" zpos="-481.093" type="chroniques.saison_3.ep5_point_d_ignition.connaissance_du_mont_draconis__cap_sauvage.acces" GUID="KJW8UG4iw0eyKxN7eZOkiA=="/>
+			<POI MapID="1195" xpos="470.503" ypos="393.591" zpos="-486.601" type="chroniques.saison_3.ep5_point_d_ignition.connaissance_du_mont_draconis__cap_sauvage.acces" GUID="PWfAZngaH0ibLAS+XOavKg=="/>
+			<POI MapID="1195" xpos="479.064" ypos="394.542" zpos="-491.736" type="chroniques.saison_3.ep5_point_d_ignition.connaissance_du_mont_draconis__cap_sauvage.acces" GUID="quLTYcMjJUyNvNkoCISK+A=="/>
+			<POI MapID="1195" xpos="488.671" ypos="395.708" zpos="-497.357" type="chroniques.saison_3.ep5_point_d_ignition.connaissance_du_mont_draconis__cap_sauvage.acces" GUID="vQXzz/eApUCiinkQKCyLew=="/>
+			<POI MapID="1195" xpos="497.819" ypos="396.107" zpos="-502.978" type="chroniques.saison_3.ep5_point_d_ignition.connaissance_du_mont_draconis__cap_sauvage.acces" GUID="36TxloksyEKYPUWOKEjISg=="/>
+			<POI MapID="1195" xpos="507.642" ypos="396.433" zpos="-509.67"  type="chroniques.saison_3.ep5_point_d_ignition.connaissance_du_mont_draconis__cap_sauvage.acces" GUID="uZZiltbkc0ydCjrTNgLD1A=="/>
+			<POI MapID="1195" xpos="516.436" ypos="395.816" zpos="-517.063" type="chroniques.saison_3.ep5_point_d_ignition.connaissance_du_mont_draconis__cap_sauvage.acces" GUID="TBPcD5n01UGkBoE8hm0whA=="/>
+			<POI MapID="1195" xpos="522.831" ypos="397.203" zpos="-523.797" type="chroniques.saison_3.ep5_point_d_ignition.connaissance_du_mont_draconis__cap_sauvage.acces" GUID="M8ujTShMJ0eMivdUx1JNSA=="/>
+			<POI MapID="1195" xpos="528.442" ypos="398.472" zpos="-531.922" type="chroniques.saison_3.ep5_point_d_ignition.connaissance_du_mont_draconis__cap_sauvage.acces" GUID="1mvngGhVaEOqtDX/qMIReg=="/>
+			<POI MapID="1195" xpos="532.244" ypos="396.653" zpos="-541.084" type="chroniques.saison_3.ep5_point_d_ignition.connaissance_du_mont_draconis__cap_sauvage.acces" GUID="ZuvzfS936kCK6M2KrzYiRw=="/>
+			<POI MapID="1195" xpos="533.851" ypos="395.174" zpos="-550.94"  type="chroniques.saison_3.ep5_point_d_ignition.connaissance_du_mont_draconis__cap_sauvage.acces" GUID="khLYYxRDUEelQdmJzWJuVQ=="/>
+			<POI MapID="1195" xpos="532.067" ypos="394.146" zpos="-560.577" type="chroniques.saison_3.ep5_point_d_ignition.connaissance_du_mont_draconis__cap_sauvage.acces" GUID="AuXO3JuWC0mEtDjqbt067w=="/>
+			<POI MapID="1195" xpos="529.905" ypos="392.332" zpos="-571.766" type="chroniques.saison_3.ep5_point_d_ignition.connaissance_du_mont_draconis__cap_sauvage.acces" GUID="isLQTw8QuEi4ydYj0cq3jg=="/>
+			<POI MapID="1195" xpos="527.781" ypos="389.379" zpos="-582.03"  type="chroniques.saison_3.ep5_point_d_ignition.connaissance_du_mont_draconis__cap_sauvage.acces" GUID="JnKV7ub48ECGCjDblyzhMA=="/>
+			<POI MapID="1195" xpos="525.901" ypos="388.143" zpos="-590.702" type="chroniques.saison_3.ep5_point_d_ignition.connaissance_du_mont_draconis__cap_sauvage.acces" GUID="e5TeUe1BBUShQIhRIcXwdQ=="/>
+			<POI MapID="1195" xpos="523.845" ypos="387.664" zpos="-600.503" type="chroniques.saison_3.ep5_point_d_ignition.connaissance_du_mont_draconis__cap_sauvage.acces" GUID="uqtu3fovPkiY9ChZFVyomA=="/>
+			<POI MapID="1195" xpos="521.5"   ypos="385.693" zpos="-610.942" type="chroniques.saison_3.ep5_point_d_ignition.connaissance_du_mont_draconis__cap_sauvage.acces" GUID="G8a1whHMDUOgusUHBhO3lg=="/>
+			<POI MapID="1195" xpos="519.231" ypos="384.076" zpos="-621.33"  type="chroniques.saison_3.ep5_point_d_ignition.connaissance_du_mont_draconis__cap_sauvage.acces" GUID="cph1UJ+Vc0+YT7AqaS1Cgw=="/>
+			<POI MapID="1195" xpos="516.686" ypos="382.446" zpos="-632.107" type="chroniques.saison_3.ep5_point_d_ignition.connaissance_du_mont_draconis__cap_sauvage.acces" GUID="ho+OFpGON0WoFFJYhHnw/w=="/>
+			<POI MapID="1195" xpos="513.828" ypos="381.133" zpos="-642.848" type="chroniques.saison_3.ep5_point_d_ignition.connaissance_du_mont_draconis__cap_sauvage.acces" GUID="SrCIFJEmzUaUw9VyK9BbSQ=="/>
+			<POI MapID="1195" xpos="510.658" ypos="379.946" zpos="-651.941" type="chroniques.saison_3.ep5_point_d_ignition.connaissance_du_mont_draconis__cap_sauvage.acces" GUID="Y8V23YAJhE2XXDifWDPoNA=="/>
+			<POI MapID="1195" xpos="508.998" ypos="380.683" zpos="-660.892" type="chroniques.saison_3.ep5_point_d_ignition.connaissance_du_mont_draconis__cap_sauvage.acces" GUID="XXXN+5PE4kmafBVerc0b8g=="/>
+			<POI MapID="1195" xpos="510.067" ypos="381.862" zpos="-672.251" type="chroniques.saison_3.ep5_point_d_ignition.connaissance_du_mont_draconis__cap_sauvage.acces" GUID="nJk8QEQwK0y/Z3uDYndd1Q=="/>
+			<POI MapID="1195" xpos="506.074" ypos="385.647" zpos="-678.134" type="chroniques.saison_3.ep5_point_d_ignition.connaissance_du_mont_draconis__cap_sauvage.acces" GUID="HTp2tpLSzEKTK3qw1UU0Qg=="/>
+			<POI MapID="1195" xpos="504.922" ypos="389.341" zpos="-685.761" type="chroniques.saison_3.ep5_point_d_ignition.connaissance_du_mont_draconis__cap_sauvage.acces" GUID="9l/aBrFKAU2BWvLP382oGQ=="/>
+			<POI MapID="1195" xpos="504.823" ypos="391.311" zpos="-691.25"  type="chroniques.saison_3.ep5_point_d_ignition.connaissance_du_mont_draconis__cap_sauvage.acces" GUID="aHsUEh4Ab0uGIla/958vjg=="/>
+			<POI MapID="1195" xpos="503.774" ypos="390.79"  zpos="-702.235" type="chroniques.saison_3.ep5_point_d_ignition.connaissance_du_mont_draconis__cap_sauvage.acces" GUID="1RixbCKIJECUDbgE8gWryQ=="/>
+			<POI MapID="1195" xpos="500.092" ypos="390.462" zpos="-709.471" type="chroniques.saison_3.ep5_point_d_ignition.connaissance_du_mont_draconis__cap_sauvage.acces" GUID="2JnuK6eisUOyRg889/DPBQ==" iconFile="Img\DeltaplaneDepart-EN.png"/>
+			<POI MapID="1195" xpos="488.28"  ypos="389.369" zpos="-712.447" type="chroniques.saison_3.ep5_point_d_ignition.connaissance_du_mont_draconis__cap_sauvage.acces" GUID="dstCC3dZb0SNdnaNo2QQHA==" iconFile="Img\Deltaplane.png" triggerRange="15"/>
+			<POI MapID="1195" xpos="475.915" ypos="385.704" zpos="-715.247" type="chroniques.saison_3.ep5_point_d_ignition.connaissance_du_mont_draconis__cap_sauvage.acces" GUID="cFf8muDs+EGLVw1HelkH1g==" iconFile="Img\Deltaplane.png" triggerRange="15"/>
+			<POI MapID="1195" xpos="461.27"  ypos="381.351" zpos="-718.735" type="chroniques.saison_3.ep5_point_d_ignition.connaissance_du_mont_draconis__cap_sauvage.acces" GUID="Up43a9qcqkKfT3BdT1Qsuw==" iconFile="Img\Deltaplane.png" triggerRange="15"/>
+			<POI MapID="1195" xpos="446.995" ypos="377.113" zpos="-722.076" type="chroniques.saison_3.ep5_point_d_ignition.connaissance_du_mont_draconis__cap_sauvage.acces" GUID="SzOlSLfUbEyMMFoFkZ+SNg==" iconFile="Img\Deltaplane.png" triggerRange="15"/>
+			<POI MapID="1195" xpos="435.04"  ypos="373.562" zpos="-724.893" type="chroniques.saison_3.ep5_point_d_ignition.connaissance_du_mont_draconis__cap_sauvage.acces" GUID="XrLdwosrBUaztzAlaFzopQ==" iconFile="Img\Deltaplane.png" triggerRange="15"/>
+			<POI MapID="1195" xpos="421.605" ypos="369.552" zpos="-728.334" type="chroniques.saison_3.ep5_point_d_ignition.connaissance_du_mont_draconis__cap_sauvage.acces" GUID="icoS7YGU4E+OresYaH9ynw==" iconFile="Img\Deltaplane.png" triggerRange="15"/>
+			<POI MapID="1195" xpos="408.171" ypos="365.543" zpos="-731.776" type="chroniques.saison_3.ep5_point_d_ignition.connaissance_du_mont_draconis__cap_sauvage.acces" GUID="5+PVeYluf0KxnKpyX6bOZQ==" iconFile="Img\Deltaplane.png" triggerRange="15"/>
+			<POI MapID="1195" xpos="395.888" ypos="361.878" zpos="-734.922" type="chroniques.saison_3.ep5_point_d_ignition.connaissance_du_mont_draconis__cap_sauvage.acces" GUID="0RrLNV2vdkKwLJ/44qr8Cg==" iconFile="Img\Deltaplane.png" triggerRange="15"/>
+			<POI MapID="1195" xpos="383.604" ypos="358.212" zpos="-738.068" type="chroniques.saison_3.ep5_point_d_ignition.connaissance_du_mont_draconis__cap_sauvage.acces" GUID="sfFqevSL60yCoE+ABoEcGQ==" iconFile="Img\Deltaplane.png" triggerRange="15"/>
+			<POI MapID="1195" xpos="371.288" ypos="354.432" zpos="-741.127" type="chroniques.saison_3.ep5_point_d_ignition.connaissance_du_mont_draconis__cap_sauvage.acces" GUID="8kfKJhSwDEmcMxUS0eYq4g==" iconFile="Img\Deltaplane.png" triggerRange="15"/>
+			<POI MapID="1195" xpos="360.525" ypos="350.194" zpos="-743.645" type="chroniques.saison_3.ep5_point_d_ignition.connaissance_du_mont_draconis__cap_sauvage.acces" GUID="W4ZsGZh7tE6Z1f4ADdrEQA==" iconFile="Img\Deltaplane.png" triggerRange="15"/>
+			<POI MapID="1195" xpos="349.188" ypos="345.726" zpos="-746.326" type="chroniques.saison_3.ep5_point_d_ignition.connaissance_du_mont_draconis__cap_sauvage.acces" GUID="JRLaaX7mWEGgw92iImIpqA==" iconFile="Img\Deltaplane.png" triggerRange="15"/>
+			<POI MapID="1195" xpos="337.613" ypos="341.145" zpos="-749.29"  type="chroniques.saison_3.ep5_point_d_ignition.connaissance_du_mont_draconis__cap_sauvage.acces" GUID="9Z0MM+yUF0eFEBcpahVPRg==" iconFile="Img\Deltaplane.png" triggerRange="15"/>
+			<POI MapID="1195" xpos="326.301" ypos="336.677" zpos="-752.073" type="chroniques.saison_3.ep5_point_d_ignition.connaissance_du_mont_draconis__cap_sauvage.acces" GUID="BGFiP0aKSE+HYhVyuTOiQQ==" iconFile="Img\Deltaplane.png" triggerRange="15"/>
+			<POI MapID="1195" xpos="314.386" ypos="331.981" zpos="-754.907" type="chroniques.saison_3.ep5_point_d_ignition.connaissance_du_mont_draconis__cap_sauvage.acces" GUID="vXrbKjpvgU+jcJ5quGhf6w==" iconFile="Img\Deltaplane.png" triggerRange="15"/>
+		</Route>
+
+	</POIs>
+</OverlayData>

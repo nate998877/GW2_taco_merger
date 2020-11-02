@@ -1,0 +1,31 @@
+██████╗  ██████╗ ██╗███████╗    ███████╗ ██████╗ ██╗     ██████╗ ███████╗██████╗ 
+██╔══██╗██╔═══██╗██║██╔════╝    ██╔════╝██╔═══██╗██║     ██╔══██╗██╔════╝██╔══██╗
+██████╔╝██║   ██║██║███████╗    █████╗  ██║   ██║██║     ██║  ██║█████╗  ██████╔╝
+██╔═══╝ ██║   ██║██║╚════██║    ██╔══╝  ██║   ██║██║     ██║  ██║██╔══╝  ██╔══██╗
+██║     ╚██████╔╝██║███████║    ██║     ╚██████╔╝███████╗██████╔╝███████╗██║  ██║
+╚═╝      ╚═════╝ ╚═╝╚══════╝    ╚═╝      ╚═════╝ ╚══════╝╚═════╝ ╚══════╝╚═╝  ╚═╝
+
+----- [ENGLISH] -----
+"XML Files", "TACO Files" or "ZIP Files" (not decompressed) put in this directory
+will be read as <POIs> data and show up as markers on GW2 TacO (it is necessary
+to restart GW2TacO after adding files).
+
+----- [FRANÇAIS] -----
+"Fichiers XML", "Fichiers TACO" ou "Fichiers ZIP" (non décompressés) placés dans
+ce répertoire seront lu comme des données <POIs> et apparaîtront comme marqueurs
+dans GW2 TacO (il faut redémarrer GW2TacO après l'ajout de fichiers).
+
+----- [DEUTSCH] -----
+"XML-Dateien", "TACO-Dateien" oder "ZIP-Dateien" (nicht dekomprimiert), die in
+diesem Verzeichnis abgelegt sind, werden als <POIs>-Daten gelesen und erscheinen
+als Marker auf GW2 TacO (es ist notwendig, GW2TacO nach dem Hinzufügen von Dateien
+neu zu starten).
+
+----- [ESPAÑOL] -----
+Los "XML Files", "TACO Files" o "ZIP Files" (no descomprimidos) puestos en este
+directorio se leerán como <POIs> data y se mostrarán como marcadores en GW2 TacO
+(es necesario reiniciar GW2TacO después de añadir archivos).
+
+----- [中文] -----
+放在此目录中的“XML文件”，“TACO文件”或“ZIP文件”（未解压缩）将作为<POIs>数据读取，并在GW2 TacO
+上显示为标记（添加文件后需要重新启动GW2TacO）。

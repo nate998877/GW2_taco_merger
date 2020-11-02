@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+POIs: ReActif.9251
+Date: 2017/03/21
+-->
+<OverlayData>
+	<MarkerCategory name="general" DisplayName="General">
+		<MarkerCategory name="explorateur" DisplayName="Explorer" iconFile="Img\Explorateur.png" behavior="3">
+			<MarkerCategory name="derriere_le_masque" DisplayName="Behind the Mask" iconFile="Img\CoffreSkritt.png" heightOffset="3" behavior="0"/>
+		</MarkerCategory>
+	</MarkerCategory>
+
+	<POIs>
+
+		<!-- Plateau d'Ashford -->
+		<POI MapID="19" xpos="1191.75" ypos="30.3697" zpos="208.16" type="general.explorateur.derriere_le_masque" GUID="64rtqU0TPU+UUp5zqVxNgg=="/>
+		<POI MapID="19" xpos="461.28" ypos="35.757" zpos="578.786" type="general.explorateur.derriere_le_masque" GUID="8+NZVq2P4EKPZuoFfedEbQ=="/>
+		<POI MapID="19" xpos="452.208" ypos="2.50864" zpos="-421.398" type="general.explorateur.derriere_le_masque" GUID="aEMnLpfiZkyUg2vGMkP8Dw=="/>
+		<POI MapID="19" xpos="-192.775" ypos="58.4663" zpos="346.705" type="general.explorateur.derriere_le_masque" GUID="0mr9xT4/uEC32L7K1hyu2w=="/>
+		<POI MapID="19" xpos="-658.92" ypos="47.0588" zpos="-369.263" type="general.explorateur.derriere_le_masque" GUID="6lqr2HcxckiAFMNywJEFEQ=="/>
+
+		<!-- Champs de Ruine -->
+		<POI MapID="21" xpos="51.2264" ypos="3.08918" zpos="137.144" type="general.explorateur.derriere_le_masque" GUID="slEf0RxH50i+zxBzm6G+gA=="/>
+		<POI MapID="21" xpos="550.884" ypos="40.6325" zpos="-868.066" type="general.explorateur.derriere_le_masque" GUID="WuUbseJpdkW/U9VcTUJvXA=="/>
+
+		<!-- Montée de Flambecoeur -->
+		<POI MapID="22" xpos="91.4032" ypos="22.0672" zpos="-279.987" type="general.explorateur.derriere_le_masque" GUID="U5/Qibt55EOj1JSjvPtxDA=="/>
+		<POI MapID="22" xpos="-175.839" ypos="67.9951" zpos="755.578" type="general.explorateur.derriere_le_masque" GUID="wZeJEOJYJ02ejDWf1Bb3hg=="/>
+		<POI MapID="22" xpos="-177.5" ypos="22.1307" zpos="188.274" type="general.explorateur.derriere_le_masque" GUID="g1+Tdt1dfEmncNg5lmqRyA=="/>
+		<POI MapID="22" xpos="-426.696" ypos="40.9831" zpos="-700.366" type="general.explorateur.derriere_le_masque" GUID="L/qzf0fBxU6BvZAd9n5M8A=="/>
+		<POI MapID="22" xpos="-491.141" ypos="57.5285" zpos="159.942" type="general.explorateur.derriere_le_masque" GUID="Z5rQ7IE7d0KNM6z4aM09AA=="/>
+
+		<!-- Plateau de Diessa -->
+		<POI MapID="32" xpos="-930.877" ypos="106.44" zpos="516.088" type="general.explorateur.derriere_le_masque" GUID="TiXN2nI4nk64c0ubD/lbvg=="/>
+		<POI MapID="32" xpos="911.073" ypos="47.3343" zpos="396.893" type="general.explorateur.derriere_le_masque" GUID="pTm1LYTWCUqA1DcryDU/uA=="/>
+		<POI MapID="32" xpos="-824.414" ypos="36.1012" zpos="-369.486" type="general.explorateur.derriere_le_masque" GUID="8E6RB2vHe02zNTPb+JW1Qw=="/>
+		<POI MapID="32" xpos="150.865" ypos="69.9383" zpos="524.26" type="general.explorateur.derriere_le_masque" GUID="dBet1OUExUqzY1QMqG83yg=="/>
+
+	</POIs>
+</OverlayData>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+POIs: ReActif.9251
+Date: 2017/01/07
+-->
+<OverlayData>
+	<MarkerCategory name="heart_of_thorns.repli_du_dragon">
+		<MarkerCategory name="observateur_de_rata_sum" DisplayName="Sum Viewer">
+			<MarkerCategory name="acces" DisplayName="Guide" iconFile="Img\Guide.png" iconSize="0.75"/>
+		</MarkerCategory>
+	</MarkerCategory>
+
+	<POIs>
+
+		<!-- Début -->
+		<POI MapID="1041" xpos="855.25" ypos="66.94" zpos="219.96" type="heart_of_thorns.repli_du_dragon.observateur_de_rata_sum.acces" GUID="IOeW6Nq2/UqJ4RZ1jj2YqQ=="/>
+
+		<!-- Route -->
+		<Route MapID="1041" name="Observateur_Rata_Sum" resetposx="855.25" resetposy="66.94" resetposz="219.96" resetrange="1">
+			<POI MapID="1041" xpos="846.263" ypos="64.811" zpos="228.751" type="heart_of_thorns.repli_du_dragon.observateur_de_rata_sum.acces" GUID="RKKOV4JdM0GLK6J7lbyT2A=="/>
+			<POI MapID="1041" xpos="841.723" ypos="63.4656" zpos="238.892" type="heart_of_thorns.repli_du_dragon.observateur_de_rata_sum.acces" GUID="G/5yd1pazUeBIzgvERx3sA=="/>
+			<POI MapID="1041" xpos="837.549" ypos="62.4792" zpos="248.851" type="heart_of_thorns.repli_du_dragon.observateur_de_rata_sum.acces" GUID="0aGRjcjQ8Ee5IX/6yiOzHA=="/>
+			<POI MapID="1041" xpos="834.243" ypos="62.5461" zpos="257.562" type="heart_of_thorns.repli_du_dragon.observateur_de_rata_sum.acces" GUID="WyD9Vprwr06u8OcsGr7Sjg=="/>
+			<POI MapID="1041" xpos="830.786" ypos="63.314" zpos="266.53" type="heart_of_thorns.repli_du_dragon.observateur_de_rata_sum.acces" GUID="Yc2RoFhdC0qrmex9pF6keQ=="/>
+			<POI MapID="1041" xpos="828.839" ypos="65.1315" zpos="273.588" type="heart_of_thorns.repli_du_dragon.observateur_de_rata_sum.acces" GUID="NsIKu9iFME6lCZuVT8j99A=="/>
+			<POI MapID="1041" xpos="829.303" ypos="67.326" zpos="280.993" type="heart_of_thorns.repli_du_dragon.observateur_de_rata_sum.acces" GUID="EDd+C61LvU6nxfpwzC1KRA=="/>
+			<POI MapID="1041" xpos="834.562" ypos="77.123" zpos="288.736" type="heart_of_thorns.repli_du_dragon.observateur_de_rata_sum.acces" GUID="qtkE90IXUkmVtez+yIBvHA=="/>
+			<POI MapID="1041" xpos="840.782" ypos="77.4153" zpos="290.895" type="heart_of_thorns.repli_du_dragon.observateur_de_rata_sum.acces" GUID="VhE2UixVc0+W4pGeIqq3wA=="/>
+			<POI MapID="1041" xpos="847.342" ypos="77.7571" zpos="293.113" type="heart_of_thorns.repli_du_dragon.observateur_de_rata_sum.acces" GUID="aSEEcYZJdUK+OiQ7h6LniQ=="/>
+			<POI MapID="1041" xpos="853.046" ypos="78.0789" zpos="295.032" type="heart_of_thorns.repli_du_dragon.observateur_de_rata_sum.acces" GUID="GzrBQS7R/EuTsdf2d8bveA=="/>
+			<POI MapID="1041" xpos="860.663" ypos="76.9149" zpos="298.082" type="heart_of_thorns.repli_du_dragon.observateur_de_rata_sum.acces" GUID="QS8eQbpwV0eyPwdZdh6Hnw=="/>
+			<POI MapID="1041" xpos="869.591" ypos="77.7265" zpos="301.558" type="heart_of_thorns.repli_du_dragon.observateur_de_rata_sum.acces" GUID="9Tp4zygjoEa0GGYpmXk/SQ=="/>
+		</Route>
+
+		<!-- Arrivée -->
+		<POI MapID="1041" xpos="875.49" ypos="77.38" zpos="303.56" type="heart_of_thorns.repli_du_dragon.observateur_de_rata_sum" GUID="1A+CywZrGESefHPaTXmKNg=="/>
+
+	</POIs>
+</OverlayData>

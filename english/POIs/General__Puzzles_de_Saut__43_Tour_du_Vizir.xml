@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+POIs: Cloud Strife.7492 - Xenophy.2716 - ReActif.9251
+Date: 2017/08/23
+-->
+<OverlayData>
+	<MarkerCategory name="general" DisplayName="General">
+		<MarkerCategory name="puzzles_de_saut" DisplayName="Jumping Puzzles" iconFile="Img\Guide.png" iconSize="0.75">
+			<MarkerCategory name="tour_du_vizir" DisplayName="Vizier's Tower"/>
+		</MarkerCategory>
+	</MarkerCategory>
+
+	<POIs>
+
+		<!-- Début -->
+		<POI MapID="51" xpos="110.693" ypos="19.2187" zpos="-419.052" type="general.puzzles_de_saut.debut" GUID="kwJbUf+m0EqLgeD/BeMBpQ=="/>
+
+		<!-- Route -->
+		<Route MapID="51" name="Tour_du_Vizir" resetposx="110.693" resetposy="19.2187" resetposz="-419.052" resetrange="2">
+			<POI MapID="51" xpos="119.356" ypos="23.9579" zpos="-413.885" type="general.puzzles_de_saut.tour_du_vizir" GUID="tCb+W+uzTEiI8olUdmIqDw=="/>
+			<POI MapID="51" xpos="125.169" ypos="27.142" zpos="-410.446" type="general.puzzles_de_saut.tour_du_vizir" GUID="T3AjSITm50W97rOtOU73YQ=="/>
+			<POI MapID="51" xpos="127.798" ypos="27.5547" zpos="-405.835" type="general.puzzles_de_saut.tour_du_vizir" GUID="3d6yuxDk6UafvVSw6PVllg=="/>
+			<POI MapID="51" xpos="137.884" ypos="26.3351" zpos="-403.632" type="general.puzzles_de_saut.tour_du_vizir" GUID="WrzmRF70UU+TaYvdLUFlzA=="/>
+			<POI MapID="51" xpos="145.943" ypos="29.0903" zpos="-401.364" type="general.puzzles_de_saut.tour_du_vizir" GUID="bpfcBO6frE6Dh8ehG0V/tQ=="/>
+			<POI MapID="51" xpos="153.717" ypos="28.5226" zpos="-394.81" type="general.puzzles_de_saut.tour_du_vizir" GUID="en4P6q9O2UGczRKaSInpeQ=="/>
+			<POI MapID="51" xpos="155.397" ypos="29.4957" zpos="-384.313" type="general.puzzles_de_saut.tour_du_vizir" GUID="FXMiNGgcMkSrd3fm1az3wQ=="/>
+			<POI MapID="51" xpos="159.326" ypos="29.6901" zpos="-374.969" type="general.puzzles_de_saut.tour_du_vizir" GUID="l8hiKu/9mkClk7dsTJrVpA=="/>
+			<POI MapID="51" xpos="166.676" ypos="32.0843" zpos="-366.16" type="general.puzzles_de_saut.tour_du_vizir" GUID="MLSfVD60kEujy3kxmarbUA=="/>
+			<POI MapID="51" xpos="173.586" ypos="34.6792" zpos="-359.783" type="general.puzzles_de_saut.tour_du_vizir" GUID="7iLV4nQ7e02gvcLvP3x/uw=="/>
+			<POI MapID="51" xpos="183.765" ypos="36.8088" zpos="-351.88" type="general.puzzles_de_saut.tour_du_vizir" GUID="OX9qYmZtwE+m50TPQMn/kg=="/>
+			<POI MapID="51" xpos="193.066" ypos="38.6542" zpos="-347.331" type="general.puzzles_de_saut.tour_du_vizir" GUID="s5l/bYJifEeELxjZ4BI2XQ=="/>
+			<POI MapID="51" xpos="196.516" ypos="40.669" zpos="-340.154" type="general.puzzles_de_saut.tour_du_vizir" GUID="dYW8+dZvoUOO0BdEutRofg=="/>
+			<POI MapID="51" xpos="203.465" ypos="43.412" zpos="-333.12" type="general.puzzles_de_saut.tour_du_vizir" GUID="mYO9t+eTQkekhcsrum1ZqQ=="/>
+			<POI MapID="51" xpos="199.02" ypos="47.1099" zpos="-331.513" type="general.puzzles_de_saut.tour_du_vizir" GUID="MmImX/FLqUqH4MsuSYyhcg=="/>
+			<POI MapID="51" xpos="193.376" ypos="50.0072" zpos="-337.665" type="general.puzzles_de_saut.tour_du_vizir" GUID="i8WTTwOVn0eZ0VIfIn/4/w=="/>
+			<POI MapID="51" xpos="181.371" ypos="48.83" zpos="-336.902" type="general.puzzles_de_saut.tour_du_vizir" GUID="5SXTJJ0by0eGUWh0pKrfjg=="/>
+			<POI MapID="51" xpos="175.069" ypos="47.8553" zpos="-333.155" type="general.puzzles_de_saut.tour_du_vizir" GUID="MSU01MJcQk+DMGhvOPGKCQ=="/>
+			<POI MapID="51" xpos="167.591" ypos="48.8055" zpos="-331.031" type="general.puzzles_de_saut.tour_du_vizir" GUID="t+AhseDWL0GGAhCO5QJcUA=="/>
+			<POI MapID="51" xpos="164.944" ypos="47.2114" zpos="-323.52" type="general.puzzles_de_saut.tour_du_vizir" GUID="7/HxgTzxmE6MZFJ0/Uf6BA=="/>
+			<POI MapID="51" xpos="161.713" ypos="46.4693" zpos="-317.595" type="general.puzzles_de_saut.tour_du_vizir" GUID="+iC6q7+FFUaLMGpTOmmTIQ=="/>
+			<POI MapID="51" xpos="160.487" ypos="46.3401" zpos="-308.161" type="general.puzzles_de_saut.tour_du_vizir" GUID="/M6CvgvN2EyzXbESrgXOwA=="/>
+			<POI MapID="51" xpos="162.663" ypos="47.3098" zpos="-303.228" type="general.puzzles_de_saut.tour_du_vizir" GUID="fQIbBIkLLUW/vRXUzLYf6Q=="/>
+			<POI MapID="51" xpos="166.282" ypos="48.1733" zpos="-296.601" type="general.puzzles_de_saut.tour_du_vizir" GUID="sZjjx4cB30ys0Moj6yGu4w=="/>
+			<POI MapID="51" xpos="173.635" ypos="51.3055" zpos="-292.264" type="general.puzzles_de_saut.tour_du_vizir" GUID="Rhk/jXO6NkiYInw4kuuflw=="/>
+			<POI MapID="51" xpos="183.689" ypos="53.2171" zpos="-291.44" type="general.puzzles_de_saut.tour_du_vizir" GUID="X5HcYgn7Jk6B+T5cwDynFw=="/>
+			<POI MapID="51" xpos="181.483" ypos="55.2433" zpos="-295.214" type="general.puzzles_de_saut.tour_du_vizir" GUID="tnBwOS6XGUun23XSGowjnA=="/>
+			<POI MapID="51" xpos="174.251" ypos="55.6167" zpos="-296.109" type="general.puzzles_de_saut.tour_du_vizir" GUID="DV80UwX1bEaNQk/X/0mdnw=="/>
+			<POI MapID="51" xpos="167.031" ypos="55.4714" zpos="-304.691" type="general.puzzles_de_saut.tour_du_vizir" GUID="oiZByvKwd0W/hGcYst45dg=="/>
+			<POI MapID="51" xpos="162.387" ypos="55.7777" zpos="-311.7" type="general.puzzles_de_saut.tour_du_vizir" GUID="DPxQ2tRR/0eE2niVViHAQg=="/>
+			<POI MapID="51" xpos="166.359" ypos="58.9759" zpos="-314.336" type="general.puzzles_de_saut.tour_du_vizir" GUID="kiFwJuw4sEuV0SbQOrnt0g=="/>
+			<POI MapID="51" xpos="171.523" ypos="62.601" zpos="-309.403" type="general.puzzles_de_saut.tour_du_vizir" GUID="/P71UeTTKEysbP/c+b0DjQ=="/>
+			<POI MapID="51" xpos="171.507" ypos="65.0803" zpos="-316.021" type="general.puzzles_de_saut.tour_du_vizir" GUID="GQlSAPaMbU6owVH+U5PKXg=="/>
+			<POI MapID="51" xpos="177.615" ypos="69.4153" zpos="-319.684" type="general.puzzles_de_saut.tour_du_vizir" GUID="K61Xylvkdkum/dadQHDI9Q=="/>
+			<POI MapID="51" xpos="177.694" ypos="70.1782" zpos="-327.782" type="general.puzzles_de_saut.tour_du_vizir" GUID="3GhXqFFlvEuUjWspNF4S7g=="/>
+			<POI MapID="51" xpos="173.895" ypos="72.9358" zpos="-330.944" type="general.puzzles_de_saut.tour_du_vizir" GUID="mOsl7KzG4Uua52MxHjMnjw=="/>
+			<POI MapID="51" xpos="168.755" ypos="76.7002" zpos="-331.043" type="general.puzzles_de_saut.tour_du_vizir" GUID="xmHcxl1NHUq2F7/KKPnqBA=="/>
+			<POI MapID="51" xpos="168.754" ypos="80.6723" zpos="-327.202" type="general.puzzles_de_saut.tour_du_vizir" GUID="BV462rg3UUmDj+OHtUqAUw=="/>
+			<POI MapID="51" xpos="174.307" ypos="77.7587" zpos="-320.537" type="general.puzzles_de_saut.tour_du_vizir" GUID="9ipNJeHJXkyi3wy6HbbAEA=="/>
+			<POI MapID="51" xpos="177.141" ypos="78.0699" zpos="-314.772" type="general.puzzles_de_saut.tour_du_vizir" GUID="pRNGcSl0PUSm5UBPZXHEIg=="/>
+		</Route>
+
+		<!-- Coffre -->
+		<POI MapID="51" xpos="181.87" ypos="78.3" zpos="-305.42" type="general.puzzles_de_saut.tour_du_vizir" GUID="u2vbLxZOKEedWvJcn/T1Tg==" iconFile="Img\CoffrePuzzle.png" iconSize="1" heightOffset="2.5" behavior="2"/>
+
+	</POIs>
+</OverlayData>

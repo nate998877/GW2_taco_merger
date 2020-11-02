@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+POIs: ReActif.9251
+Date: 2017/08/11
+-->
+<OverlayData>
+	<MarkerCategory name="chroniques.saison_3">
+		<MarkerCategory name="ep4_la_tete_du_serpent" DisplayName="Ep.4 - The Head of the Snake" iconFile="Img\LacDoric.png">
+			<MarkerCategory name="connaissance_du_lac_doric__bazar_lacustre" DisplayName="Lake Doric Insight: Lakeside Bazaar" iconFile="Img\Guide.png" iconSize="0.75" triggerRange="3" behavior="0">
+				<MarkerCategory name="acces" DisplayName="Guide" iconFile="Img\MaitriseHOT.png" iconSize="1.5" alpha="0.7"/>
+			</MarkerCategory>
+		</MarkerCategory>
+	</MarkerCategory>
+
+	<POIs>
+
+		<!-- Début -->
+		<POI MapID="1185" xpos="305.76" ypos="48.35" zpos="-319.63" type="chroniques.saison_3.ep4_la_tete_du_serpent.connaissance_du_lac_doric__bazar_lacustre.acces" GUID="Bm3rTn7F2kCyFLhlrJhUJw=="/>
+
+		<!-- Route -->
+		<Route MapID="1185" name="Bazar_Lacustre" resetposx="305.76" resetposy="48.35" resetposz="-319.63" resetrange="2">
+			<POI MapID="1185" xpos="311.816" ypos="48.1582" zpos="-322.223" type="chroniques.saison_3.ep4_la_tete_du_serpent.connaissance_du_lac_doric__bazar_lacustre" GUID="rNtdccRsJk+J36Y4YRPYAA=="/>
+			<POI MapID="1185" xpos="317.453" ypos="48.1573" zpos="-320.605" type="chroniques.saison_3.ep4_la_tete_du_serpent.connaissance_du_lac_doric__bazar_lacustre" GUID="rKw1KHj88E+rFXhnDck4Vw=="/>
+			<POI MapID="1185" xpos="321.859" ypos="48.5205" zpos="-315.961" type="chroniques.saison_3.ep4_la_tete_du_serpent.connaissance_du_lac_doric__bazar_lacustre" GUID="M+LlEtiwxU6YU4Nrmm06aA=="/>
+			<POI MapID="1185" xpos="323.096" ypos="51.4062" zpos="-311.786" type="chroniques.saison_3.ep4_la_tete_du_serpent.connaissance_du_lac_doric__bazar_lacustre" GUID="ItWcPyc1lE2ymt9oNx8NIQ=="/>
+			<POI MapID="1185" xpos="327.41"  ypos="53.3173" zpos="-311.438" type="chroniques.saison_3.ep4_la_tete_du_serpent.connaissance_du_lac_doric__bazar_lacustre" GUID="Mq5kL3493UyyWni04ouJgQ=="/>
+			<POI MapID="1185" xpos="331.119" ypos="54.9855" zpos="-314.395" type="chroniques.saison_3.ep4_la_tete_du_serpent.connaissance_du_lac_doric__bazar_lacustre" GUID="nZTWJIvjWU+XMggvGCehjg=="/>
+			<POI MapID="1185" xpos="328.58"  ypos="54.9855" zpos="-320.942" type="chroniques.saison_3.ep4_la_tete_du_serpent.connaissance_du_lac_doric__bazar_lacustre" GUID="ZXkEXYO/vEuBp7OZcVGeeA=="/>
+			<POI MapID="1185" xpos="327.596" ypos="54.9855" zpos="-330.902" type="chroniques.saison_3.ep4_la_tete_du_serpent.connaissance_du_lac_doric__bazar_lacustre" GUID="buZKclwevkaK68NeBU17BQ=="/>
+			<POI MapID="1185" xpos="327.225" ypos="55.154"  zpos="-338.252" type="chroniques.saison_3.ep4_la_tete_du_serpent.connaissance_du_lac_doric__bazar_lacustre" GUID="q0j+3lgjykKiyAT8ApJXiA=="/>
+			<POI MapID="1185" xpos="322.234" ypos="58.0706" zpos="-339.043" type="chroniques.saison_3.ep4_la_tete_du_serpent.connaissance_du_lac_doric__bazar_lacustre" GUID="qUSIJs7tekORkxDrNc1Htw=="/>
+			<POI MapID="1185" xpos="314.576" ypos="61.536"  zpos="-337.136" type="chroniques.saison_3.ep4_la_tete_du_serpent.connaissance_du_lac_doric__bazar_lacustre" GUID="y0SyWItUfkSTx2b7fCxqnA=="/>
+			<POI MapID="1185" xpos="308.916" ypos="62.314"  zpos="-337.84"  type="chroniques.saison_3.ep4_la_tete_du_serpent.connaissance_du_lac_doric__bazar_lacustre" GUID="ET8xI8cYIUSuLWJIZNerlQ=="/>
+			<POI MapID="1185" xpos="303.09"  ypos="62.4038" zpos="-340.087" type="chroniques.saison_3.ep4_la_tete_du_serpent.connaissance_du_lac_doric__bazar_lacustre" GUID="Hq/zkOzc0EqH+rUaGoajAw=="/>
+			<POI MapID="1185" xpos="296.898" ypos="62.3115" zpos="-344.222" type="chroniques.saison_3.ep4_la_tete_du_serpent.connaissance_du_lac_doric__bazar_lacustre" GUID="VfEfRV9mL02kBqXVizf4hA=="/>
+			<POI MapID="1185" xpos="291.873" ypos="62.2035" zpos="-348.089" type="chroniques.saison_3.ep4_la_tete_du_serpent.connaissance_du_lac_doric__bazar_lacustre" GUID="+pS0+RI+JkuH21Eq60zPGg=="/>
+			<POI MapID="1185" xpos="287.218" ypos="62.5778" zpos="-353.115" type="chroniques.saison_3.ep4_la_tete_du_serpent.connaissance_du_lac_doric__bazar_lacustre" GUID="5Wj0SmICNE+iX2rY0giIaQ=="/>
+			<POI MapID="1185" xpos="283.244" ypos="64.3761" zpos="-356.662" type="chroniques.saison_3.ep4_la_tete_du_serpent.connaissance_du_lac_doric__bazar_lacustre" GUID="pC5ObZWntEmimgUufEX3QQ=="/>
+			<POI MapID="1185" xpos="278.028" ypos="64.3229" zpos="-359.482" type="chroniques.saison_3.ep4_la_tete_du_serpent.connaissance_du_lac_doric__bazar_lacustre" GUID="pEBVNGCrK0iEL7ltr0SLPQ=="/>
+			<POI MapID="1185" xpos="271.834" ypos="64.3229" zpos="-358.132" type="chroniques.saison_3.ep4_la_tete_du_serpent.connaissance_du_lac_doric__bazar_lacustre" GUID="o9bjwQwnhkenIoJrCMe7YA=="/>
+			<POI MapID="1185" xpos="267.078" ypos="64.361"  zpos="-358.857" type="chroniques.saison_3.ep4_la_tete_du_serpent.connaissance_du_lac_doric__bazar_lacustre" GUID="yP43iBDYZUORHl2B5ocpOA=="/>
+			<POI MapID="1185" xpos="264.534" ypos="64.361"  zpos="-362.991" type="chroniques.saison_3.ep4_la_tete_du_serpent.connaissance_du_lac_doric__bazar_lacustre" GUID="6taMCYgJC0SHYrhl6y1tEg=="/>
+			<POI MapID="1185" xpos="261.468" ypos="64.361"  zpos="-364.581" type="chroniques.saison_3.ep4_la_tete_du_serpent.connaissance_du_lac_doric__bazar_lacustre" GUID="ZW+/rsA1NEm6dWWWACxn0w=="/>
+			<POI MapID="1185" xpos="255.19"  ypos="65.6338" zpos="-361.24"  type="chroniques.saison_3.ep4_la_tete_du_serpent.connaissance_du_lac_doric__bazar_lacustre" GUID="LmLOdPeYt0CQVnobS7dxzQ=="/>
+			<POI MapID="1185" xpos="250.144" ypos="66.0792" zpos="-360.41"  type="chroniques.saison_3.ep4_la_tete_du_serpent.connaissance_du_lac_doric__bazar_lacustre" GUID="sujJVMTb90Ob1SH0SU+Naw=="/>
+			<POI MapID="1185" xpos="242.416" ypos="66.3342" zpos="-363.485" type="chroniques.saison_3.ep4_la_tete_du_serpent.connaissance_du_lac_doric__bazar_lacustre" GUID="NmGoZzpdC0epZBEfHO+IBA=="/>
+			<POI MapID="1185" xpos="236.498" ypos="68.3473" zpos="-367.301" type="chroniques.saison_3.ep4_la_tete_du_serpent.connaissance_du_lac_doric__bazar_lacustre" GUID="jTRt0nh3c0+uVsW5mYJOTQ=="/>
+			<POI MapID="1185" xpos="228.835" ypos="70.9453" zpos="-368.271" type="chroniques.saison_3.ep4_la_tete_du_serpent.connaissance_du_lac_doric__bazar_lacustre" GUID="8FMcv7kbIEyBoMJG5boC/A=="/>
+			<POI MapID="1185" xpos="220.701" ypos="71.5074" zpos="-367.603" type="chroniques.saison_3.ep4_la_tete_du_serpent.connaissance_du_lac_doric__bazar_lacustre" GUID="svOdRcGhHk2RohM9xIeYJQ=="/>
+			<POI MapID="1185" xpos="210.739" ypos="71.8569" zpos="-364.589" type="chroniques.saison_3.ep4_la_tete_du_serpent.connaissance_du_lac_doric__bazar_lacustre" GUID="BCgn4Hpf8U2f6A7EA4Z8WQ=="/>
+			<POI MapID="1185" xpos="201.053" ypos="70.7061" zpos="-360.68"  type="chroniques.saison_3.ep4_la_tete_du_serpent.connaissance_du_lac_doric__bazar_lacustre" GUID="nlEwyIBVF0+ZWFbIc/FTzQ=="/>
+			<POI MapID="1185" xpos="191.109" ypos="69.2328" zpos="-356.482" type="chroniques.saison_3.ep4_la_tete_du_serpent.connaissance_du_lac_doric__bazar_lacustre" GUID="PNk5DTZV/0iejpfS3dnGVQ=="/>
+			<POI MapID="1185" xpos="181.035" ypos="67.1944" zpos="-352.628" type="chroniques.saison_3.ep4_la_tete_du_serpent.connaissance_du_lac_doric__bazar_lacustre" GUID="ASZN8tooC0u9Kxstj/SWjw=="/>
+			<POI MapID="1185" xpos="171.639" ypos="65.8048" zpos="-349.044" type="chroniques.saison_3.ep4_la_tete_du_serpent.connaissance_du_lac_doric__bazar_lacustre" GUID="DrZLU0xCIEGO9R+b57SXdw=="/>
+			<POI MapID="1185" xpos="161.951" ypos="64.7493" zpos="-346.491" type="chroniques.saison_3.ep4_la_tete_du_serpent.connaissance_du_lac_doric__bazar_lacustre" GUID="tOGyD1xqfk2v/C1rIp/zHQ=="/>
+			<POI MapID="1185" xpos="151.192" ypos="62.6254" zpos="-345.112" type="chroniques.saison_3.ep4_la_tete_du_serpent.connaissance_du_lac_doric__bazar_lacustre" GUID="VX/TGa3ll0WrzgTXIjeEIA=="/>
+			<POI MapID="1185" xpos="142.058" ypos="61.8872" zpos="-342.037" type="chroniques.saison_3.ep4_la_tete_du_serpent.connaissance_du_lac_doric__bazar_lacustre" GUID="CqNwaltaT0iV2QLGYsZPAw=="/>
+		</Route>
+
+	</POIs>
+</OverlayData>

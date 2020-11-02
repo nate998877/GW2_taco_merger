@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+POIs: ReActif.9251
+Date: 2017/08/11
+-->
+<OverlayData>
+	<MarkerCategory name="missions_de_guilde" DisplayName="Guild Missions">
+		<MarkerCategory name="courses" DisplayName="Races" iconFile="Img\Guide.png" iconSize="0.75" triggerRange="3">
+			<MarkerCategory name="fuite_du_loup_fantome" DisplayName="Ghost Wolf Run">
+				<MarkerCategory name="drapeaux" DisplayName="Checkpoints" iconFile="Img\DrapeauPassage.png" iconSize="1" fadeNear="2000" fadeFar="5000"/>
+				<MarkerCategory name="pieges" DisplayName="Traps" iconSize="1">
+					<MarkerCategory name="piques" DisplayName="Spikes" iconFile="Img\DangerPiques.png" fadeNear="1000" fadeFar="2000" heightOffset="0"/>
+					<MarkerCategory name="chutes_de_pierres" DisplayName="Rockfalls" iconFile="Img\DangerPierres.png" fadeNear="1000" fadeFar="2000" heightOffset="0"/>
+				</MarkerCategory>
+			</MarkerCategory>
+		</MarkerCategory>
+	</MarkerCategory>
+
+	<POIs>
+
+		<!-- Début -->
+		<POI MapID="17" xpos="-818.689" ypos="117.008" zpos="-661.598" type="missions_de_guilde.courses.debut" GUID="p0ylw3PN50ug8/IHn8yLWA=="/>
+
+		<!-- Route -->
+		<Route MapID="17" name="Fuite_du_Loup_Fantome" resetposx="-818.689" resetposy="117.008" resetposz="-661.598" resetrange="2">
+			<POI MapID="17" xpos="-807.344" ypos="113.454" zpos="-678.737" type="missions_de_guilde.courses.fuite_du_loup_fantome" GUID="JestUVPzVkaWHJ+BlWEoFw=="/>
+			<POI MapID="17" xpos="-780.553" ypos="107.206" zpos="-690.691" type="missions_de_guilde.courses.fuite_du_loup_fantome" GUID="yhWJ5VrSR0W0kbWPUrYIow=="/>
+			<POI MapID="17" xpos="-763.30"  ypos="107.36"  zpos="-683.30"  type="missions_de_guilde.courses.fuite_du_loup_fantome" GUID="HFJHcRT/1EySa+RwriFVOg=="/>
+			<POI MapID="17" xpos="-742.056" ypos="110.025" zpos="-678.621" type="missions_de_guilde.courses.fuite_du_loup_fantome" GUID="jNe0G1c58kC+cwgG6m/SAw=="/>
+			<POI MapID="17" xpos="-735.817" ypos="110.8"   zpos="-657.247" type="missions_de_guilde.courses.fuite_du_loup_fantome" GUID="Jza5YyNzIkOcdkKNFCK6sg=="/>
+			<POI MapID="17" xpos="-741.053" ypos="106.542" zpos="-639.575" type="missions_de_guilde.courses.fuite_du_loup_fantome" GUID="E7emiNr+uk2bbdnOXegOtQ=="/>
+			<POI MapID="17" xpos="-737.505" ypos="105.08"  zpos="-628.052" type="missions_de_guilde.courses.fuite_du_loup_fantome" GUID="DftKmcrNUkWQXVd7inyC7g=="/>
+			<POI MapID="17" xpos="-721.024" ypos="106.539" zpos="-628.859" type="missions_de_guilde.courses.fuite_du_loup_fantome" GUID="2965q2Qqpkm+TDyDnmur9Q=="/>
+			<POI MapID="17" xpos="-715.954" ypos="106.802" zpos="-624.951" type="missions_de_guilde.courses.fuite_du_loup_fantome" GUID="JRcKWSHrmEOXeAlg6vqpcQ=="/>
+			<POI MapID="17" xpos="-710.549" ypos="105.121" zpos="-619.311" type="missions_de_guilde.courses.fuite_du_loup_fantome" GUID="bh7mxUc6X0Oy/K5nDbNhEQ=="/>
+			<POI MapID="17" xpos="-700.886" ypos="103.994" zpos="-614.207" type="missions_de_guilde.courses.fuite_du_loup_fantome" GUID="B7hgAGSDbkm2TAiar9BNiA=="/>
+			<POI MapID="17" xpos="-681.059" ypos="101.381" zpos="-598.333" type="missions_de_guilde.courses.fuite_du_loup_fantome" GUID="QmqgusHMPE6mPYQLI6PNcQ=="/>
+			<POI MapID="17" xpos="-660.059" ypos="100.088" zpos="-585.596" type="missions_de_guilde.courses.fuite_du_loup_fantome" GUID="Fl2fjkhr1ECmAAN64T3l+Q=="/>
+			<POI MapID="17" xpos="-636.965" ypos="98.9543" zpos="-594.684" type="missions_de_guilde.courses.fuite_du_loup_fantome" GUID="3b2IIyCmbkywxfVQApX/gQ=="/>
+			<POI MapID="17" xpos="-624.914" ypos="103.079" zpos="-613.197" type="missions_de_guilde.courses.fuite_du_loup_fantome" GUID="sh0vjcP28ECyEYNkpOzB1w=="/>
+			<POI MapID="17" xpos="-602.476" ypos="100.406" zpos="-620.461" type="missions_de_guilde.courses.fuite_du_loup_fantome" GUID="SelpoVOqPUSM1VuqQfI6rQ=="/>
+			<POI MapID="17" xpos="-594.326" ypos="99.2441" zpos="-617.8"   type="missions_de_guilde.courses.fuite_du_loup_fantome" GUID="A/Lhaoi9qEyU5g33UAuc/g=="/>
+			<POI MapID="17" xpos="-591.039" ypos="98.5412" zpos="-612.217" type="missions_de_guilde.courses.fuite_du_loup_fantome" GUID="5VTpum9KcE2zaJ4ScFPhzg=="/>
+			<POI MapID="17" xpos="-572.42"  ypos="101.29"  zpos="-619.88"  type="missions_de_guilde.courses.fuite_du_loup_fantome" GUID="VwqNBnZ2VES/8fJuzxXxvw=="/>
+			<POI MapID="17" xpos="-558.747" ypos="95.3465" zpos="-639.731" type="missions_de_guilde.courses.fuite_du_loup_fantome" GUID="0lxzgVTaGUqZq5L2OXvfbw=="/>
+			<POI MapID="17" xpos="-542.433" ypos="94.012"  zpos="-647.421" type="missions_de_guilde.courses.fuite_du_loup_fantome" GUID="J4IYS6WCGUWwR6CdZ9rPYQ=="/>
+			<POI MapID="17" xpos="-529.71"  ypos="87.8702" zpos="-663.522" type="missions_de_guilde.courses.fuite_du_loup_fantome" GUID="qANMZ7IfPEmGBkaIQ89Yjw=="/>
+			<POI MapID="17" xpos="-527.281" ypos="84.3956" zpos="-685.839" type="missions_de_guilde.courses.fuite_du_loup_fantome" GUID="Mn4FOmfPvkyVXQNlxq5A8A=="/>
+			<POI MapID="17" xpos="-502.124" ypos="72.3941" zpos="-726.997" type="missions_de_guilde.courses.fuite_du_loup_fantome" GUID="XvXzj/77E0i/+Q7YtB+Q/A=="/>
+			<POI MapID="17" xpos="-502.323" ypos="72.8535" zpos="-744.7"   type="missions_de_guilde.courses.fuite_du_loup_fantome" GUID="4lwBkZVNWUCD10W91100kg=="/>
+			<POI MapID="17" xpos="-481.524" ypos="73.9886" zpos="-752.047" type="missions_de_guilde.courses.fuite_du_loup_fantome" GUID="oZZAjnO190a9Lp4Sm41P3A=="/>
+			<POI MapID="17" xpos="-482.668" ypos="74.9815" zpos="-767.911" type="missions_de_guilde.courses.fuite_du_loup_fantome" GUID="6ew1gHzUY0WTisrmnimq0Q=="/>
+			<POI MapID="17" xpos="-511.659" ypos="76.1101" zpos="-783.311" type="missions_de_guilde.courses.fuite_du_loup_fantome" GUID="gSpnja82skO90Rjqrd4xnA=="/>
+			<POI MapID="17" xpos="-522.164" ypos="79.4669" zpos="-774.515" type="missions_de_guilde.courses.fuite_du_loup_fantome" GUID="AYgrWu/R5kOmgTNYw2VaCQ=="/>
+			<POI MapID="17" xpos="-533.752" ypos="93.2168" zpos="-741.276" type="missions_de_guilde.courses.fuite_du_loup_fantome" GUID="k7Rn3eaqnk21SVBie93BIQ=="/>
+			<POI MapID="17" xpos="-512.346" ypos="96.5928" zpos="-736.381" type="missions_de_guilde.courses.fuite_du_loup_fantome" GUID="nzp86Cz0Fk20PUJSe/3woA=="/>
+			<POI MapID="17" xpos="-491.392" ypos="116.427" zpos="-760.395" type="missions_de_guilde.courses.fuite_du_loup_fantome" GUID="Ar/crZE3nk25nXelKE/ImQ=="/>
+			<POI MapID="17" xpos="-478.192" ypos="116.24"  zpos="-765.103" type="missions_de_guilde.courses.fuite_du_loup_fantome" GUID="d6NtTNtWb0CRPUUE10zT1A=="/>
+			<POI MapID="17" xpos="-469.705" ypos="116.24"  zpos="-761.542" type="missions_de_guilde.courses.fuite_du_loup_fantome" GUID="NY/rUPulhUyZWX/OFfylkQ=="/>
+			<POI MapID="17" xpos="-454.76"  ypos="67.4182" zpos="-695.309" type="missions_de_guilde.courses.fuite_du_loup_fantome" GUID="QAWH8Bnje0S/vUoSUqIR0A==" iconSize="1"/>
+			<POI MapID="17" xpos="-449.106" ypos="66.2881" zpos="-685.689" type="missions_de_guilde.courses.fuite_du_loup_fantome" GUID="D0+8SRKzPkKq3x+/JV+Ecg=="/>
+			<POI MapID="17" xpos="-432.485" ypos="66.2536" zpos="-688.063" type="missions_de_guilde.courses.fuite_du_loup_fantome" GUID="VCxSXqrjpEO/rQOq/o7YYg=="/>
+			<POI MapID="17" xpos="-401.427" ypos="66.9205" zpos="-669.574" type="missions_de_guilde.courses.fuite_du_loup_fantome" GUID="x2PWpSKiWUKK1JbRuaYjaA=="/>
+			<POI MapID="17" xpos="-378.583" ypos="60.3113" zpos="-678.725" type="missions_de_guilde.courses.fuite_du_loup_fantome" GUID="DYIcJVnb6UidwiXO0uGY+w=="/>
+			<POI MapID="17" xpos="-358.279" ypos="55.3079" zpos="-683.324" type="missions_de_guilde.courses.fuite_du_loup_fantome" GUID="LN76LNS0gEer0c0Oek34mQ=="/>
+			<POI MapID="17" xpos="-339.735" ypos="52.4548" zpos="-681.012" type="missions_de_guilde.courses.fuite_du_loup_fantome" GUID="s1xfufy11E2w2814/+nErg=="/>
+			<POI MapID="17" xpos="-326.718" ypos="49.6477" zpos="-691.784" type="missions_de_guilde.courses.fuite_du_loup_fantome" GUID="BxD6qf01BUCPeBMObwy56w=="/>
+			<POI MapID="17" xpos="-307.22"  ypos="47.6064" zpos="-706.087" type="missions_de_guilde.courses.fuite_du_loup_fantome" GUID="PRvrmuvxtEiqZkS0YsgRPg=="/>
+			<POI MapID="17" xpos="-293.349" ypos="45.5652" zpos="-721.16"  type="missions_de_guilde.courses.fuite_du_loup_fantome" GUID="zrAaXtb/yU2PboruFfF0Ew=="/>
+			<POI MapID="17" xpos="-276.809" ypos="44.0218" zpos="-715.722" type="missions_de_guilde.courses.fuite_du_loup_fantome" GUID="7nLZWM3X+0KVe/OGaE7G8g=="/>
+			<POI MapID="17" xpos="-262.799" ypos="44.4063" zpos="-717.84"  type="missions_de_guilde.courses.fuite_du_loup_fantome" GUID="w0bicUeykkumx+ya/hyx7A=="/>
+			<POI MapID="17" xpos="-248.06"  ypos="42.6646" zpos="-737.039" type="missions_de_guilde.courses.fuite_du_loup_fantome" GUID="MMsTHBNZtU6h9eqVYnojtA=="/>
+			<POI MapID="17" xpos="-235.166" ypos="41.5595" zpos="-743.292" type="missions_de_guilde.courses.fuite_du_loup_fantome" GUID="cAeJ5fDw1kKbp6p6SZVJzQ=="/>
+			<POI MapID="17" xpos="-226.128" ypos="43.3515" zpos="-736.878" type="missions_de_guilde.courses.fuite_du_loup_fantome" GUID="F0Ym6/AgQUe3rZARhI8BQQ=="/>
+			<POI MapID="17" xpos="-219.515" ypos="41.2646" zpos="-735.455" type="missions_de_guilde.courses.fuite_du_loup_fantome" GUID="HZ3kUAO+PE+JnhQaYHyGNA=="/>
+			<POI MapID="17" xpos="-209.165" ypos="39.2294" zpos="-732.566" type="missions_de_guilde.courses.fuite_du_loup_fantome" GUID="bsqMFdFNXEywsOm3MHguPQ=="/>
+			<POI MapID="17" xpos="-181.872" ypos="31.3229" zpos="-730.198" type="missions_de_guilde.courses.fuite_du_loup_fantome" GUID="f5xOiMY39UCoIDX8u4yKrw=="/>
+		</Route>
+
+		<!-- Arrivée -->
+		<POI MapID="17" xpos="-178.658" ypos="27.3418" zpos="-704.054" type="missions_de_guilde.courses.fuite_du_loup_fantome" GUID="iZ+90qcmnUSDXITQMUSwlw==" iconFile="Img\DrapeauArrivee.png" iconSize="1"/>
+
+		<!-- Drapeaux de Passage -->
+		<POI MapID="17" xpos="-438.688" ypos="66.4893" zpos="-687.262" type="missions_de_guilde.courses.fuite_du_loup_fantome.drapeaux" GUID="bqXhKO1Uj0OIbsd1uV3PJg=="/>
+		<POI MapID="17" xpos="-469.15"  ypos="117.197" zpos="-750.408" type="missions_de_guilde.courses.fuite_du_loup_fantome.drapeaux" GUID="Wfs+cJxE3UCOORg72I5f+Q=="/>
+		<POI MapID="17" xpos="-514.118" ypos="81.5243" zpos="-697.698" type="missions_de_guilde.courses.fuite_du_loup_fantome.drapeaux" GUID="iq5XVfjjT0GuhXLx2pRs2Q=="/>
+		<POI MapID="17" xpos="-521.871" ypos="96.2224" zpos="-732.262" type="missions_de_guilde.courses.fuite_du_loup_fantome.drapeaux" GUID="PPjXe2Q0iEiNuZAyw5ynUA=="/>
+		<POI MapID="17" xpos="-608.567" ypos="99.379"  zpos="-618.062" type="missions_de_guilde.courses.fuite_du_loup_fantome.drapeaux" GUID="51SV0AO+HU2llZcx3ASLSw=="/>
+		<POI MapID="17" xpos="-727.154" ypos="105.089" zpos="-628.845" type="missions_de_guilde.courses.fuite_du_loup_fantome.drapeaux" GUID="4Stjn+ibfUig1iQxR+Hk6A=="/>
+
+		<!-- Pièges à Piques -->
+		<POI MapID="17" xpos="-780.561" ypos="106.847" zpos="-681.774" type="missions_de_guilde.courses.fuite_du_loup_fantome.pieges.piques" GUID="qK9CjZFcPEWp/UkwJBGGeA=="/>
+		<POI MapID="17" xpos="-784.045" ypos="106.427" zpos="-673.418" type="missions_de_guilde.courses.fuite_du_loup_fantome.pieges.piques" GUID="cs2D6m8MMUi6VzCEtTuAKQ=="/>
+		<POI MapID="17" xpos="-766.493" ypos="104.027" zpos="-651.133" type="missions_de_guilde.courses.fuite_du_loup_fantome.pieges.piques" GUID="UZqqUBq8HUSMbH5Yl5/oMQ=="/>
+		<POI MapID="17" xpos="-756.085" ypos="104.818" zpos="-648.879" type="missions_de_guilde.courses.fuite_du_loup_fantome.pieges.piques" GUID="YqGPfv+b50+jau8tPFUkGQ=="/>
+		<POI MapID="17" xpos="-765.497" ypos="105.331" zpos="-637.704" type="missions_de_guilde.courses.fuite_du_loup_fantome.pieges.piques" GUID="jvdtzu/HaUWs6SlbeB6zFw=="/>
+		<POI MapID="17" xpos="-746.194" ypos="105.5"   zpos="-632.191" type="missions_de_guilde.courses.fuite_du_loup_fantome.pieges.piques" GUID="iQu16S6AsUaM7Lq1OTYHFw=="/>
+		<POI MapID="17" xpos="-743.66"  ypos="107.38"  zpos="-645.26"  type="missions_de_guilde.courses.fuite_du_loup_fantome.pieges.piques" GUID="Fu0iu5+WLU2J1uIAIhChdg=="/>
+		<POI MapID="17" xpos="-732.018" ypos="107.172" zpos="-638.351" type="missions_de_guilde.courses.fuite_du_loup_fantome.pieges.piques" GUID="ucF/QQ1WJEu9j5Q+w3bm8Q=="/>
+		<POI MapID="17" xpos="-693.374" ypos="101.678" zpos="-598.642" type="missions_de_guilde.courses.fuite_du_loup_fantome.pieges.piques" GUID="GdO/dWThtE+PHRZ79oYoEw=="/>
+		<POI MapID="17" xpos="-681.26"  ypos="100.806" zpos="-584.151" type="missions_de_guilde.courses.fuite_du_loup_fantome.pieges.piques" GUID="igykpqeJGEmqSiiMYFrmNA=="/>
+		<POI MapID="17" xpos="-664.184" ypos="100.769" zpos="-579.245" type="missions_de_guilde.courses.fuite_du_loup_fantome.pieges.piques" GUID="Fs4zV2P7KkWiKj25DlUqcA=="/>
+		<POI MapID="17" xpos="-662.903" ypos="100.538" zpos="-594.112" type="missions_de_guilde.courses.fuite_du_loup_fantome.pieges.piques" GUID="jE7Gr0nyME64PTvvmFkAiw=="/>
+		<POI MapID="17" xpos="-645.891" ypos="101.557" zpos="-597.567" type="missions_de_guilde.courses.fuite_du_loup_fantome.pieges.piques" GUID="+vj1x5qlkE+hr7ufju1xBg=="/>
+		<POI MapID="17" xpos="-636.873" ypos="103.843" zpos="-609.99"  type="missions_de_guilde.courses.fuite_du_loup_fantome.pieges.piques" GUID="nISG1nUJikuLzY2RDFA+SQ=="/>
+		<POI MapID="17" xpos="-631.748" ypos="98.2213" zpos="-591.084" type="missions_de_guilde.courses.fuite_du_loup_fantome.pieges.piques" GUID="WYKWJLwMTUyXMbfoat5Z0w=="/>
+		<POI MapID="17" xpos="-618.317" ypos="99.3249" zpos="-604.711" type="missions_de_guilde.courses.fuite_du_loup_fantome.pieges.piques" GUID="VdSK7hz4d0Kfqr76zGju5A=="/>
+		<POI MapID="17" xpos="-555.641" ypos="95.8034" zpos="-634.645" type="missions_de_guilde.courses.fuite_du_loup_fantome.pieges.piques" GUID="3dO596GiVkSkB5mXXXBcZg=="/>
+		<POI MapID="17" xpos="-540.256" ypos="89.9399" zpos="-662.777" type="missions_de_guilde.courses.fuite_du_loup_fantome.pieges.piques" GUID="2NBTn2cFGEyEVIH0ZZRVzQ=="/>
+		<POI MapID="17" xpos="-539.047" ypos="88.5394" zpos="-683.297" type="missions_de_guilde.courses.fuite_du_loup_fantome.pieges.piques" GUID="4KXQdnaXK0i/ipcuPUlb8A=="/>
+		<POI MapID="17" xpos="-532.225" ypos="91.8198" zpos="-653.789" type="missions_de_guilde.courses.fuite_du_loup_fantome.pieges.piques" GUID="KIJ43OgQLUKcQlvDG1IFgA=="/>
+		<POI MapID="17" xpos="-528.072" ypos="84.7086" zpos="-697.395" type="missions_de_guilde.courses.fuite_du_loup_fantome.pieges.piques" GUID="kLmrpPsiOkWYnEro3y1WnQ=="/>
+		<POI MapID="17" xpos="-519.865" ypos="84.4864" zpos="-684.391" type="missions_de_guilde.courses.fuite_du_loup_fantome.pieges.piques" GUID="6/DZsQrMpkKLk5BxHwEu/A=="/>
+		<POI MapID="17" xpos="-508.447" ypos="73.6"    zpos="-728.347" type="missions_de_guilde.courses.fuite_du_loup_fantome.pieges.piques" GUID="ualrGOLyqkio+krTuZ66EA=="/>
+		<POI MapID="17" xpos="-499.04"  ypos="110.54"  zpos="-752.74"  type="missions_de_guilde.courses.fuite_du_loup_fantome.pieges.piques" GUID="B2WPciCFwUmxvdHVuWXtEQ=="/>
+		<POI MapID="17" xpos="-493.377" ypos="75.0248" zpos="-773.373" type="missions_de_guilde.courses.fuite_du_loup_fantome.pieges.piques" GUID="xtVc3cXXrEyPdDddK6QRaA==" iconSize="0.5"/>
+		<POI MapID="17" xpos="-461.679" ypos="73.6643" zpos="-727.335" type="missions_de_guilde.courses.fuite_du_loup_fantome.pieges.piques" GUID="Pq2Xj7hhb0q0XNWe1pDM3w=="/>
+		<POI MapID="17" xpos="-461.08"  ypos="66.5156" zpos="-684.506" type="missions_de_guilde.courses.fuite_du_loup_fantome.pieges.piques" GUID="eWcm1b+4IkKMrgdBuZHLcw=="/>
+		<POI MapID="17" xpos="-446.509" ypos="68.4225" zpos="-696.936" type="missions_de_guilde.courses.fuite_du_loup_fantome.pieges.piques" GUID="a9rmS3ocX0qJgx5SqnPAbA=="/>
+		<POI MapID="17" xpos="-418.993" ypos="66.6006" zpos="-686.802" type="missions_de_guilde.courses.fuite_du_loup_fantome.pieges.piques" GUID="9VZ+CWaYF0m4j5tIIMHtgw=="/>
+		<POI MapID="17" xpos="-410.479" ypos="65.1138" zpos="-673.995" type="missions_de_guilde.courses.fuite_du_loup_fantome.pieges.piques" GUID="6Ozf+zvduEGxOAOmGLFkbg=="/>
+		<POI MapID="17" xpos="-356.027" ypos="55.1231" zpos="-678.748" type="missions_de_guilde.courses.fuite_du_loup_fantome.pieges.piques" GUID="p4mUxCXC30m6ujZsxTYsmw=="/>
+		<POI MapID="17" xpos="-344.539" ypos="52.226"  zpos="-685.402" type="missions_de_guilde.courses.fuite_du_loup_fantome.pieges.piques" GUID="gpuuRO5Mi06Cyrf3UvV4pA=="/>
+		<POI MapID="17" xpos="-291.34"  ypos="45.4434" zpos="-712.054" type="missions_de_guilde.courses.fuite_du_loup_fantome.pieges.piques" GUID="jaGv6ao/e0ySCvZY5coFqQ=="/>
+		<POI MapID="17" xpos="-284.506" ypos="44.8391" zpos="-724.25"  type="missions_de_guilde.courses.fuite_du_loup_fantome.pieges.piques" GUID="1w5g3FKU3Eq4MfzLeFdgnw=="/>
+		<POI MapID="17" xpos="-269.028" ypos="42.9498" zpos="-724.19"  type="missions_de_guilde.courses.fuite_du_loup_fantome.pieges.piques" GUID="CrS/H7Flhka4tSj/11bnxg=="/>
+		<POI MapID="17" xpos="-272.396" ypos="45.2858" zpos="-710.1"   type="missions_de_guilde.courses.fuite_du_loup_fantome.pieges.piques" GUID="TWO0hkskJkC780OwSFyIBw=="/>
+		<POI MapID="17" xpos="-245.093" ypos="41.7957" zpos="-744.322" type="missions_de_guilde.courses.fuite_du_loup_fantome.pieges.piques" GUID="luFl8CFCMkabrKBYpEQ9GQ=="/>
+		<POI MapID="17" xpos="-206.293" ypos="37.5567" zpos="-736.541" type="missions_de_guilde.courses.fuite_du_loup_fantome.pieges.piques" GUID="Pj7ufQ4XeEubJZp72kgeKQ=="/>
+
+		<!-- Pièges à Chutes de Pierres -->
+		<POI MapID="17" xpos="-218.068" ypos="41.1292" zpos="-745.996" type="missions_de_guilde.courses.fuite_du_loup_fantome.pieges.chutes_de_pierres" GUID="8oxKjCUSCE65WaOQvgJ4qQ=="/>
+		<POI MapID="17" xpos="-221.542" ypos="39.8321" zpos="-743.081" type="missions_de_guilde.courses.fuite_du_loup_fantome.pieges.chutes_de_pierres" GUID="PwbjiaeWoUmIEipfPOOonw=="/>
+		<POI MapID="17" xpos="-221.657" ypos="39.9288" zpos="-739.507" type="missions_de_guilde.courses.fuite_du_loup_fantome.pieges.chutes_de_pierres" GUID="8AOesLPJm0a4JCyy5GykQg=="/>
+		<POI MapID="17" xpos="-224.061" ypos="40.2734" zpos="-746.493" type="missions_de_guilde.courses.fuite_du_loup_fantome.pieges.chutes_de_pierres" GUID="sw4uCuZi3UuqUhM0qIpE4A=="/>
+		<POI MapID="17" xpos="-226.25"  ypos="40.3696" zpos="-742.903" type="missions_de_guilde.courses.fuite_du_loup_fantome.pieges.chutes_de_pierres" GUID="eZzIQKjiVkKmwZgNBX+aGA=="/>
+		<POI MapID="17" xpos="-314.073" ypos="48.6965" zpos="-699.94"  type="missions_de_guilde.courses.fuite_du_loup_fantome.pieges.chutes_de_pierres" GUID="yNqU1SjIeEmofwYB5Lcb5A=="/>
+		<POI MapID="17" xpos="-315.321" ypos="49.3413" zpos="-694.822" type="missions_de_guilde.courses.fuite_du_loup_fantome.pieges.chutes_de_pierres" GUID="RDJjJYcA7kmfEacbcrsgpA=="/>
+		<POI MapID="17" xpos="-319.465" ypos="48.6194" zpos="-700.706" type="missions_de_guilde.courses.fuite_du_loup_fantome.pieges.chutes_de_pierres" GUID="ELWi/punike48/3av9jiow=="/>
+		<POI MapID="17" xpos="-321.746" ypos="48.9907" zpos="-695.517" type="missions_de_guilde.courses.fuite_du_loup_fantome.pieges.chutes_de_pierres" GUID="3t9+bBogIUCMW9yOt3ue0Q=="/>
+		<POI MapID="17" xpos="-399.43"  ypos="64.3947" zpos="-683.701" type="missions_de_guilde.courses.fuite_du_loup_fantome.pieges.chutes_de_pierres" GUID="9NCIEeoth0uDtjrG3ab1bg=="/>
+		<POI MapID="17" xpos="-401.97"  ypos="64.3923" zpos="-675.992" type="missions_de_guilde.courses.fuite_du_loup_fantome.pieges.chutes_de_pierres" GUID="uVOzcVANpECtSiWU111PhA=="/>
+		<POI MapID="17" xpos="-404.21"  ypos="64.4253" zpos="-679.811" type="missions_de_guilde.courses.fuite_du_loup_fantome.pieges.chutes_de_pierres" GUID="YUOJ26FkzUGJWksLPEIlZg=="/>
+		<POI MapID="17" xpos="-407.376" ypos="65.2955" zpos="-684.3"   type="missions_de_guilde.courses.fuite_du_loup_fantome.pieges.chutes_de_pierres" GUID="r1Of349uIk2reu8tYT9ZNA=="/>
+		<POI MapID="17" xpos="-408.229" ypos="64.6679" zpos="-676.78"  type="missions_de_guilde.courses.fuite_du_loup_fantome.pieges.chutes_de_pierres" GUID="IvxVyecErkm1N7G64TITag=="/>
+		<POI MapID="17" xpos="-434.667" ypos="65.9393" zpos="-681.112" type="missions_de_guilde.courses.fuite_du_loup_fantome.pieges.chutes_de_pierres" GUID="7KtkHBzlPE2lbrVctIWEAw=="/>
+		<POI MapID="17" xpos="-473.744" ypos="116.24"  zpos="-755.3"   type="missions_de_guilde.courses.fuite_du_loup_fantome.pieges.chutes_de_pierres" GUID="ZGRV51zrJ0GaIIypVCgBCg=="/>
+		<POI MapID="17" xpos="-477.014" ypos="116.24"  zpos="-762.1"   type="missions_de_guilde.courses.fuite_du_loup_fantome.pieges.chutes_de_pierres" GUID="FHTeylxte0WKFgN0D6SgxQ=="/>
+		<POI MapID="17" xpos="-479.067" ypos="116.24"  zpos="-757.927" type="missions_de_guilde.courses.fuite_du_loup_fantome.pieges.chutes_de_pierres" GUID="Et6QwDKJUkuZtLYAGpXiOQ=="/>
+		<POI MapID="17" xpos="-480.851" ypos="116.202" zpos="-753.098" type="missions_de_guilde.courses.fuite_du_loup_fantome.pieges.chutes_de_pierres" GUID="9fbMOXlu2UqB7IezPQU9Lg=="/>
+		<POI MapID="17" xpos="-484.565" ypos="116.316" zpos="-760.182" type="missions_de_guilde.courses.fuite_du_loup_fantome.pieges.chutes_de_pierres" GUID="ua0bDEUlbUu8dQzu+QvaPQ=="/>
+		<POI MapID="17" xpos="-549.75"  ypos="92.9367" zpos="-650.301" type="missions_de_guilde.courses.fuite_du_loup_fantome.pieges.chutes_de_pierres" GUID="IW3gPt/5CEKTMVtbKyI5Ag=="/>
+		<POI MapID="17" xpos="-551.684" ypos="92.6235" zpos="-655.503" type="missions_de_guilde.courses.fuite_du_loup_fantome.pieges.chutes_de_pierres" GUID="gaIApFdNpUGOnbJ/qpQMrg=="/>
+		<POI MapID="17" xpos="-555.052" ypos="94.2476" zpos="-646.595" type="missions_de_guilde.courses.fuite_du_loup_fantome.pieges.chutes_de_pierres" GUID="zRUaYEz4KkyEaBlyjYrlgQ=="/>
+		<POI MapID="17" xpos="-556.998" ypos="93.9851" zpos="-653.341" type="missions_de_guilde.courses.fuite_du_loup_fantome.pieges.chutes_de_pierres" GUID="p/mtzp09t0mzor9EIwNevg=="/>
+		<POI MapID="17" xpos="-563.456" ypos="98.1103" zpos="-616.089" type="missions_de_guilde.courses.fuite_du_loup_fantome.pieges.chutes_de_pierres" GUID="5cGXALPYSUOZKrkXO3IZgQ=="/>
+		<POI MapID="17" xpos="-569.578" ypos="101.539" zpos="-620.172" type="missions_de_guilde.courses.fuite_du_loup_fantome.pieges.chutes_de_pierres" GUID="fAlod7fDL0eULuJ0qxKzew=="/>
+		<POI MapID="17" xpos="-597.303" ypos="98.5081" zpos="-609.435" type="missions_de_guilde.courses.fuite_du_loup_fantome.pieges.chutes_de_pierres" GUID="r+Xkvw5CzUKO13wm3wp/ig=="/>
+		<POI MapID="17" xpos="-600.854" ypos="98.4964" zpos="-614.003" type="missions_de_guilde.courses.fuite_du_loup_fantome.pieges.chutes_de_pierres" GUID="Jqaf++CxzEK8k0zI2o4lcg=="/>
+		<POI MapID="17" xpos="-606.229" ypos="98.3886" zpos="-610.747" type="missions_de_guilde.courses.fuite_du_loup_fantome.pieges.chutes_de_pierres" GUID="JPA3U96iREWa6FQXQv7skQ=="/>
+		<POI MapID="17" xpos="-709.193" ypos="103.551" zpos="-610.936" type="missions_de_guilde.courses.fuite_du_loup_fantome.pieges.chutes_de_pierres" GUID="dp2bdmB7zkGmh7wDXgmX3Q=="/>
+		<POI MapID="17" xpos="-715.954" ypos="106.802" zpos="-624.951" type="missions_de_guilde.courses.fuite_du_loup_fantome.pieges.chutes_de_pierres" GUID="AHLMYTUq2km/9TZwC+Yqbw=="/>
+		<POI MapID="17" xpos="-723.648" ypos="104.632" zpos="-621.837" type="missions_de_guilde.courses.fuite_du_loup_fantome.pieges.chutes_de_pierres" GUID="NfMCL+BVfUCXGkSLDLpmOQ=="/>
+
+	</POIs>
+</OverlayData>

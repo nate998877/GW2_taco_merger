@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+POIs: BoyC.2653
+Date: 2016/11/29
+-->
+<OverlayData>
+	<MarkerCategory name="chroniques.saison_3">
+		<MarkerCategory name="ep2_l_embrasement" DisplayName="Ep.2 - Rising Flames" iconFile="Img\BaieDesBraises.png">
+			<MarkerCategory name="collectionneur_de_trophees" DisplayName="Token Collector"/>
+		</MarkerCategory>
+	</MarkerCategory>
+
+	<POIs>
+
+		<!-- Trophées Mursaat -->
+		<POI MapID="1175" xpos="-889.962" ypos="5.19594" zpos="-11.5472" type="chroniques.saison_3.ep2_l_embrasement.collectionneur_de_trophees" GUID="KpGHkmflJEKzgo5s2vTk4Q=="/>
+		<POI MapID="1175" xpos="-879.385" ypos="35.4771" zpos="81.1571" type="chroniques.saison_3.ep2_l_embrasement.collectionneur_de_trophees" GUID="thQcJx/OskWXkX0gtjvQiA=="/>
+		<POI MapID="1175" xpos="-783.291" ypos="129.824" zpos="108.004" type="chroniques.saison_3.ep2_l_embrasement.collectionneur_de_trophees" GUID="npG1uBfsEEm4+5Z0JVmPyQ=="/>
+		<POI MapID="1175" xpos="-710.462" ypos="88.8859" zpos="16.5956" type="chroniques.saison_3.ep2_l_embrasement.collectionneur_de_trophees" GUID="YZkPJGPDYky0nnd8t9kUNg=="/>
+		<POI MapID="1175" xpos="-677.785" ypos="39.464" zpos="-147.931" type="chroniques.saison_3.ep2_l_embrasement.collectionneur_de_trophees" GUID="VirmbdjHEEeyn6ZRCnqZ9w=="/>
+		<POI MapID="1175" xpos="-662.992" ypos="34.8571" zpos="-830.5" type="chroniques.saison_3.ep2_l_embrasement.collectionneur_de_trophees" GUID="Q3FBQUuEH0OEV2wAzPaykQ=="/>
+		<POI MapID="1175" xpos="-652.448" ypos="89.9262" zpos="-20.6756" type="chroniques.saison_3.ep2_l_embrasement.collectionneur_de_trophees" GUID="2o6sODzSLkmBz6N+S4pb3Q=="/>
+		<POI MapID="1175" xpos="-602.893" ypos="75.0816" zpos="0.0554095" type="chroniques.saison_3.ep2_l_embrasement.collectionneur_de_trophees" GUID="SdKBoZuFfEmIAe6MpLfcJA=="/>
+		<POI MapID="1175" xpos="-581.357" ypos="110.872" zpos="29.0266" type="chroniques.saison_3.ep2_l_embrasement.collectionneur_de_trophees" GUID="Y62Lqq385UONbPbS5b20yw=="/>
+		<POI MapID="1175" xpos="-576.203" ypos="115.679" zpos="-420.306" type="chroniques.saison_3.ep2_l_embrasement.collectionneur_de_trophees" GUID="+gPf5MW3zE6r82KsfCjJ7w=="/>
+		<POI MapID="1175" xpos="-531.874" ypos="176.892" zpos="-184.525" type="chroniques.saison_3.ep2_l_embrasement.collectionneur_de_trophees" GUID="0xc+zOHFwEGG9TACkNdJiw=="/>
+		<POI MapID="1175" xpos="-518.615" ypos="4.76293" zpos="-461.826" type="chroniques.saison_3.ep2_l_embrasement.collectionneur_de_trophees" GUID="BDeyJ5ebKECo4TVQa2N98A=="/>
+		<POI MapID="1175" xpos="-447.083" ypos="179.771" zpos="-72.6809" type="chroniques.saison_3.ep2_l_embrasement.collectionneur_de_trophees" GUID="gVlKJewfeU+OSESSGUN5qg=="/>
+		<POI MapID="1175" xpos="-252.802" ypos="12.7265" zpos="-254.92" type="chroniques.saison_3.ep2_l_embrasement.collectionneur_de_trophees" GUID="ys/VsJul0UCKF3J+XMFkrw=="/>
+		<POI MapID="1175" xpos="-248.828" ypos="151.84" zpos="-44.716" type="chroniques.saison_3.ep2_l_embrasement.collectionneur_de_trophees" GUID="q8Y4iN1dhU+wV+0fuhL9qg=="/>
+		<POI MapID="1175" xpos="-229.761" ypos="181.811" zpos="-47.8067" type="chroniques.saison_3.ep2_l_embrasement.collectionneur_de_trophees" GUID="txg+/NGvfUCHaDIgPfKCjQ=="/>
+		<POI MapID="1175" xpos="-203.246" ypos="132.227" zpos="-403.233" type="chroniques.saison_3.ep2_l_embrasement.collectionneur_de_trophees" GUID="nIVYdjZRtUyIW+o/waww2w=="/>
+		<POI MapID="1175" xpos="-199.044" ypos="-87.1407" zpos="-427.768" type="chroniques.saison_3.ep2_l_embrasement.collectionneur_de_trophees" GUID="BlF204uTq024ilFrpHGuhQ=="/>
+		<POI MapID="1175" xpos="-178.953" ypos="187.632" zpos="-432.956" type="chroniques.saison_3.ep2_l_embrasement.collectionneur_de_trophees" GUID="YDlGGV1MQUCNZFOoJaOCaQ=="/>
+		<POI MapID="1175" xpos="-168.286" ypos="46.6126" zpos="-342.913" type="chroniques.saison_3.ep2_l_embrasement.collectionneur_de_trophees" GUID="rCDfQJ7jQkug8gZTL48m/g=="/>
+		<POI MapID="1175" xpos="-165.783" ypos="149.467" zpos="10.7436" type="chroniques.saison_3.ep2_l_embrasement.collectionneur_de_trophees" GUID="fcr4SAk3ZEiIvmrR4TxXHg=="/>
+		<POI MapID="1175" xpos="-81.3851" ypos="5.21959" zpos="-458.236" type="chroniques.saison_3.ep2_l_embrasement.collectionneur_de_trophees" GUID="1GfK6/xaWEKJJ9xIXgIhJg=="/>
+		<POI MapID="1175" xpos="22.6204" ypos="65.5461" zpos="-125.201" type="chroniques.saison_3.ep2_l_embrasement.collectionneur_de_trophees" GUID="uX0hxD/1LEKIDmE9EzIV5A=="/>
+		<POI MapID="1175" xpos="63.2847" ypos="32.7774" zpos="-217.432" type="chroniques.saison_3.ep2_l_embrasement.collectionneur_de_trophees" GUID="fP3vpIkLREugKVhFkK9DrA=="/>
+		<POI MapID="1175" xpos="96.3155" ypos="17.8958" zpos="-136.423" type="chroniques.saison_3.ep2_l_embrasement.collectionneur_de_trophees" GUID="AT71fRz2O0WR6e29us9/Yw=="/>
+		<POI MapID="1175" xpos="96.3797" ypos="-42.1374" zpos="-453.43" type="chroniques.saison_3.ep2_l_embrasement.collectionneur_de_trophees" GUID="yJPJhbu7iEuXW03LI97j8w=="/>
+		<POI MapID="1175" xpos="117.1" ypos="46.4997" zpos="-234.588" type="chroniques.saison_3.ep2_l_embrasement.collectionneur_de_trophees" GUID="gFjNWhe4R0+gCjCGbH5xIg=="/>
+		<POI MapID="1175" xpos="230.962" ypos="18.731" zpos="-666.598" type="chroniques.saison_3.ep2_l_embrasement.collectionneur_de_trophees" GUID="mX4JlWH3eUqBfUkmIqfuZA=="/>
+		<POI MapID="1175" xpos="248.47" ypos="86.1504" zpos="-752.96" type="chroniques.saison_3.ep2_l_embrasement.collectionneur_de_trophees" GUID="8FwqfNZL9kquPeHMdLFsSg=="/>
+		<POI MapID="1175" xpos="252.181" ypos="35.8122" zpos="-874.395" type="chroniques.saison_3.ep2_l_embrasement.collectionneur_de_trophees" GUID="nqYqa/awmkKqSNXn+hRKLw=="/>
+		<POI MapID="1175" xpos="257.187" ypos="32.473" zpos="-660.406" type="chroniques.saison_3.ep2_l_embrasement.collectionneur_de_trophees" GUID="ebahKvyDik+ao+pSqdg4sw=="/>
+		<POI MapID="1175" xpos="259.268" ypos="121.911" zpos="-864.432" type="chroniques.saison_3.ep2_l_embrasement.collectionneur_de_trophees" GUID="X5AXX7FvQkS1yBetHN60hg=="/>
+		<POI MapID="1175" xpos="303.932" ypos="92.1196" zpos="-77.5633" type="chroniques.saison_3.ep2_l_embrasement.collectionneur_de_trophees" GUID="71mph8S5rkWhNbQCNo+Mmg=="/>
+		<POI MapID="1175" xpos="334.693" ypos="1.6355" zpos="-993.243" type="chroniques.saison_3.ep2_l_embrasement.collectionneur_de_trophees" GUID="Niaq+ZUQEE2dLp5pN7gwig=="/>
+		<POI MapID="1175" xpos="343.263" ypos="94.7842" zpos="-831.88" type="chroniques.saison_3.ep2_l_embrasement.collectionneur_de_trophees" GUID="Gp4SRiuEkUeAnJpvryTQlQ=="/>
+		<POI MapID="1175" xpos="373.283" ypos="-1.06577" zpos="-905.615" type="chroniques.saison_3.ep2_l_embrasement.collectionneur_de_trophees" GUID="RCKj6mk2VEqc9mewL588ig=="/>
+		<POI MapID="1175" xpos="378.13" ypos="-3.72214" zpos="-984.241" type="chroniques.saison_3.ep2_l_embrasement.collectionneur_de_trophees" GUID="T0SxuOvh3kubuhEgpC/ctw=="/>
+		<POI MapID="1175" xpos="545.903" ypos="38.2931" zpos="-429.238" type="chroniques.saison_3.ep2_l_embrasement.collectionneur_de_trophees" GUID="OYibQYZ8h0qfCCJuXlwIYg=="/>
+		<POI MapID="1175" xpos="570.701" ypos="16.4704" zpos="-330.885" type="chroniques.saison_3.ep2_l_embrasement.collectionneur_de_trophees" GUID="i5uDUbPtb0KeHxCQwmzUHg=="/>
+		<POI MapID="1175" xpos="815.97" ypos="4.80585" zpos="190.298" type="chroniques.saison_3.ep2_l_embrasement.collectionneur_de_trophees" GUID="OOSGz/iSE0yFZyxdJ7VnpQ=="/>
+
+	</POIs>
+</OverlayData>

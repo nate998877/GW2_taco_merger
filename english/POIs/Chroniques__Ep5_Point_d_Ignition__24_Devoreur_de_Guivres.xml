@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+POIs: ReActif.9251
+Date: 2017/05/09
+-->
+<OverlayData>
+	<MarkerCategory name="chroniques.saison_3">
+		<MarkerCategory name="ep5_point_d_ignition" DisplayName="Ep.5 - Flashpoint" iconFile="Img\MontDraconis.png">
+			<MarkerCategory name="devoreur_de_guivres" DisplayName="Wurm Slurper"/>
+		</MarkerCategory>
+	</MarkerCategory>
+
+	<POIs>
+
+		<!-- Guivre de lave chargée de pierre de sang championne -->
+		<POI MapID="1195" xpos="239.029" ypos="430.817" zpos="-93.4907" type="chroniques.saison_3.ep5_point_d_ignition.devoreur_de_guivres" GUID="hAF7Q5FmQEqIFCd1MEnl+Q=="/>
+		<POI MapID="1195" xpos="239.029" ypos="432.817" zpos="-93.4907" type="chroniques.saison_3.ep5_point_d_ignition.devoreur_de_guivres" GUID="6EsOQaIuxUO918VThHQuwg==" iconFile="Img\Combat.png" color="ffff0000"/>
+
+	</POIs>
+</OverlayData>

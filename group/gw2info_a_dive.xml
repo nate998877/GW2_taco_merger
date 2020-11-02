@@ -1,0 +1,104 @@
+<OverlayData>
+	<MarkerCategory name="achievements" DisplayName="Achievements">
+		<MarkerCategory name="explorer" DisplayName="Explorer">
+			<MarkerCategory name="divemaster" DisplayName="Dive Master" iconFile="data/gw2info/goggles.png" behavior="3" iconSize="1.0" triggerRange="5" fadeNear="300" fadeFar="12500"></MarkerCategory>
+			<MarkerCategory name="divemasteradd" DisplayName="Additional Dive Master Achievements">
+				<MarkerCategory name="drytop" DisplayName="Dry Top">
+					<MarkerCategory name="prospect" DisplayName="Dive Master: Prospect Valley" iconFile="data/gw2info/goggles2.png" behavior="3" iconSize="1.0" triggerRange="5" fadeNear="300" fadeFar="12500"></MarkerCategory>
+				</MarkerCategory>
+				<MarkerCategory name="silver" DisplayName="Silverwastes">
+					<MarkerCategory name="drydock" DisplayName="Dive Master: Drydock Scratch" iconFile="data/gw2info/goggles2.png" behavior="3" iconSize="1.0" triggerRange="5" fadeNear="300" fadeFar="12500"></MarkerCategory>
+				</MarkerCategory>
+				<MarkerCategory name="verdant" DisplayName="Verdant Brink">
+					<MarkerCategory name="brink" DisplayName="Dive Master: Verdant Brink" iconFile="data/gw2info/goggles2.png" behavior="3" iconSize="1.0" triggerRange="5" fadeNear="300" fadeFar="12500"></MarkerCategory>
+				</MarkerCategory>
+				<MarkerCategory name="tangled" DisplayName="Tangled Depths">
+					<MarkerCategory name="chak" DisplayName="Dive Master: Chak Hive" iconFile="data/gw2info/goggles2.png" behavior="3" iconSize="1.0" triggerRange="5" fadeNear="300" fadeFar="12500"></MarkerCategory>			
+				</MarkerCategory>
+				<MarkerCategory name="blood" DisplayName="Bloodstone Fen">
+					<MarkerCategory name="droppin" DisplayName="Dive Master: Just Dropping By" iconFile="data/gw2info/goggles2.png" behavior="3" iconSize="1.0" triggerRange="5" fadeNear="300" fadeFar="12500"></MarkerCategory>			
+				</MarkerCategory>
+				<MarkerCategory name="bitter" DisplayName="Bitterfrost Frontier">
+					<MarkerCategory name="cold" DisplayName="Dive Master: Cold Feet" iconFile="data/gw2info/goggles2.png" behavior="3" iconSize="1.0" triggerRange="5" fadeNear="300" fadeFar="12500"></MarkerCategory>			
+				</MarkerCategory>
+				<MarkerCategory name="draconis" DisplayName="Draconis Mons">
+					<MarkerCategory name="splash" DisplayName="Hot Splashes" iconFile="data/gw2info/goggles2.png" behavior="3" iconSize="1.0" triggerRange="5" fadeNear="300" fadeFar="12500"></MarkerCategory>			
+				</MarkerCategory>
+				<MarkerCategory name="siren" DisplayName="Siren's Landing">
+					<MarkerCategory name="masted" DisplayName="Dive Master: Masted" iconFile="data/gw2info/goggles2.png" behavior="3" iconSize="1.0" triggerRange="5" fadeNear="300" fadeFar="12500"></MarkerCategory>			
+				</MarkerCategory>
+				<MarkerCategory name="desert" DisplayName="Desert Highlands">
+					<MarkerCategory name="leap" DisplayName="Freezing Leap" iconFile="data/gw2info/goggles2.png" behavior="3" iconSize="1.0" triggerRange="5" fadeNear="300" fadeFar="12500"></MarkerCategory>			
+				</MarkerCategory>
+				<MarkerCategory name="elon" DisplayName="Elon Riverlands">
+					<MarkerCategory name="erdm" DisplayName="Elon River Dive Master" iconFile="data/gw2info/goggles2.png" behavior="3" iconSize="1.0" triggerRange="5" fadeNear="300" fadeFar="12500"></MarkerCategory>			
+				</MarkerCategory>
+				<MarkerCategory name="fotm" DisplayName="Fractals of the Mists">
+					<MarkerCategory name="falling" DisplayName="Falling! Screaming! Diving!" iconFile="data/gw2info/goggles2.png" behavior="3" iconSize="1.0" triggerRange="5" fadeNear="300" fadeFar="12500"></MarkerCategory>
+				</MarkerCategory>
+				<MarkerCategory name="eotm" DisplayName="Edge of the Mists">
+					<MarkerCategory name="inferno" DisplayName="Tidal Splash" iconFile="data/gw2info/goggles2.png" behavior="3" iconSize="1.0" triggerRange="5" fadeNear="300" fadeFar="12500"></MarkerCategory>
+					<MarkerCategory name="spire" DisplayName="Daring Dunk" iconFile="data/gw2info/goggles2.png" behavior="3" iconSize="1.0" triggerRange="5" fadeNear="300" fadeFar="12500"></MarkerCategory>
+					<MarkerCategory name="tytone" DisplayName="Hold Your Breath" iconFile="data/gw2info/goggles2.png" behavior="3" iconSize="1.0" triggerRange="5" fadeNear="300" fadeFar="12500"></MarkerCategory>
+				</MarkerCategory>
+			</MarkerCategory>
+		</MarkerCategory>
+	</MarkerCategory>
+	<POIs>
+		<POI MapID="17" xpos="666.001" ypos="29.6502" zpos="-717.454" type="achievements.explorer.divemaster" GUID="1+wWuuHasES05c6ZR3La7A=="/>
+		<POI MapID="17" xpos="-368.547" ypos="33.9852" zpos="636.386" type="achievements.explorer.divemaster" GUID="lf9yeKMzU0mx6eE6+6wFfg=="/>
+		<POI MapID="19" xpos="611.077" ypos="48.5678" zpos="-383.16" type="achievements.explorer.divemaster" GUID="mB+06QuqB0uqM70LcPjn7g=="/>
+		<POI MapID="19" xpos="-347.627" ypos="20.2792" zpos="-385.118" type="achievements.explorer.divemaster" GUID="+rULBNwRUE+CogqDf82s0A=="/>
+		<POI MapID="21" xpos="-43.3557" ypos="35.8663" zpos="77.5656" type="achievements.explorer.divemaster" GUID="gTHJK1r3IUqkxuyvKOPq/w=="/>
+		<POI MapID="21" xpos="-546.471" ypos="14.2692" zpos="712.592" type="achievements.explorer.divemaster" GUID="Y3sZ7Sl53E6fZW3/El5m4w=="/>
+		<POI MapID="22" xpos="316.298" ypos="56.5006" zpos="-584.852" type="achievements.explorer.divemaster" GUID="u95FkttWFk+nQXvRcmjs1g=="/>
+		<POI MapID="23" xpos="1072.46" ypos="87.9465" zpos="-486.758" type="achievements.explorer.divemaster" GUID="IUbYe+F9xUCQ7YTLIwNIbA=="/>
+		<POI MapID="24" xpos="120.669" ypos="28.933" zpos="164.881" type="achievements.explorer.divemaster" GUID="J23YFCDP7Eqttx9BM4+/SQ=="/>
+		<POI MapID="24" xpos="599.17" ypos="69.1291" zpos="532.252" type="achievements.explorer.divemaster" GUID="aQ3AUXUnWUW9NeRoetxNJA=="/>
+		<POI MapID="24" xpos="-305.642" ypos="148.443" zpos="-531.939" type="achievements.explorer.divemaster" GUID="YbePWaCaE0OEzDdKoWSKDw=="/>
+		<POI MapID="25" xpos="-502.176" ypos="54.9407" zpos="-963.155" type="achievements.explorer.divemaster" GUID="azKny5aRi06SqWuzuh3wiA=="/>
+		<POI MapID="25" xpos="133.224" ypos="34.8035" zpos="-777.286" type="achievements.explorer.divemaster" GUID="zt9nwE+Y1ECOGEIHqKXmmA=="/>
+		<POI MapID="27" xpos="-431.033" ypos="52.7826" zpos="-1243.56" type="achievements.explorer.divemaster" GUID="L++zgmDr4EKAV2o5N9sG6g=="/>
+		<POI MapID="27" xpos="-247.209" ypos="26.6247" zpos="-649.419" type="achievements.explorer.divemaster" GUID="Z3LZUoEutEyfNLzjoExCkg=="/>
+		<POI MapID="28" xpos="143.041" ypos="41.064" zpos="-52.1583" type="achievements.explorer.divemaster" GUID="Du8xsQWnf06PlLPXeOlxgw=="/>
+		<POI MapID="28" xpos="283.183" ypos="41.0717" zpos="-718.103" type="achievements.explorer.divemaster" GUID="HRh5rPxJdkWJyKR2YaZNqA=="/>
+		<POI MapID="29" xpos="-167.139" ypos="29.023" zpos="888.028" type="achievements.explorer.divemaster" GUID="3PwE3wyXukaPY2GdMFFoJQ=="/>
+		<POI MapID="29" xpos="257.598" ypos="89.6286" zpos="-533.982" type="achievements.explorer.divemaster" GUID="yVpkW9RPeUSWmOkWTR2rLQ=="/>
+		<POI MapID="30" xpos="-117.401" ypos="49.7636" zpos="379.939" type="achievements.explorer.divemaster" GUID="7IjE4JjVHU+AxpOONqa7pw=="/>
+		<POI MapID="32" xpos="125.154" ypos="24.8792" zpos="333.349" type="achievements.explorer.divemaster" GUID="J90bvES5m0+FspnkoW3bVQ=="/>
+		<POI MapID="32" xpos="885.592" ypos="26.8922" zpos="-426.796" type="achievements.explorer.divemaster" GUID="C9EtYcQk1kWaxnW4cnU5cw=="/>
+		<POI MapID="34" xpos="457.953" ypos="22.5996" zpos="244.201" type="achievements.explorer.divemaster" GUID="UbqVLND3/UaYWURnfaAYKQ=="/>
+		<POI MapID="35" xpos="333.472" ypos="18.5816" zpos="890.814" type="achievements.explorer.divemaster" GUID="1hlG+rjajkuHFHryCjgNNg=="/>
+		<POI MapID="35" xpos="-25.7014" ypos="25.7587" zpos="-566.702" type="achievements.explorer.divemaster" GUID="6EDReEgwUUmO5bu57uuyCQ=="/>
+		<POI MapID="39" xpos="1077.7" ypos="112.212" zpos="670.234" type="achievements.explorer.divemaster" GUID="JyEX/m0rDUm0gjFgl7JE5A=="/>
+		<POI MapID="39" xpos="1037.74" ypos="103.133" zpos="497.965" type="achievements.explorer.divemaster" GUID="SVv3bSHqPEaKb1T/7KALaA=="/>
+		<POI MapID="50" xpos="-313.969" ypos="160.009" zpos="-375.408" type="achievements.explorer.divemaster" GUID="vSlV7wWOB0qcKJvVp73M8Q=="/>
+		<POI MapID="51" xpos="492.352" ypos="36.5014" zpos="98.1356" type="achievements.explorer.divemaster" GUID="mvSH6BFA0ESCnSfcd7iCAg=="/>
+		<POI MapID="51" xpos="166.939" ypos="37.8735" zpos="-384.222" type="achievements.explorer.divemaster" GUID="/8gInvaj/06Nu4NNI8tUew=="/>
+		<POI MapID="54" xpos="152.17" ypos="35.3494" zpos="56.128" type="achievements.explorer.divemaster" GUID="oB56WA6jBUmmVcE6N5jhNw=="/>
+		<POI MapID="54" xpos="511.661" ypos="52.1656" zpos="165.402" type="achievements.explorer.divemaster" GUID="gICUO1D9PUWw+nN4QAXm+g=="/>
+		<POI MapID="62" xpos="102.329" ypos="24.7463" zpos="372.16" type="achievements.explorer.divemaster" GUID="V5pVs+wQbEKpO8AaxAfXaQ=="/>
+		<POI MapID="62" xpos="-15.7593" ypos="36.4912" zpos="-871.189" type="achievements.explorer.divemaster" GUID="rkRm5mj510GXa2zrQrueXg=="/>
+		<POI MapID="65" xpos="-402.408" ypos="153.443" zpos="131.78" type="achievements.explorer.divemaster" GUID="ZSsh3f8M/0WyvJIZeEPL3g=="/>
+		<POI MapID="73" xpos="350.768" ypos="53.8876" zpos="520.809" type="achievements.explorer.divemaster" GUID="o7F4PmSUlEO5Y5GrirTAYw=="/>
+		<POI MapID="91" xpos="56.3771" ypos="74.6481" zpos="-17.758" type="achievements.explorer.divemaster" GUID="hvO5B7kAoEWElrzcXHLuEg=="/>
+		<POI MapID="139" xpos="-4.80752" ypos="108.835" zpos="-349.995" type="achievements.explorer.divemaster" GUID="Ca7ZpkxvC06oLPiQufW3OA=="/>
+
+		<POI MapID="1015" xpos="291.561" ypos="410.878" zpos="155.066" type="achievements.explorer.divemasteradd.silver.drydock" GUID="C4A5nCLEdUuLOT6VS1d5ug=="/>
+		<POI MapID="1045" xpos="779.122" ypos="282.189" zpos="-196.215" type="achievements.explorer.divemasteradd.tangled.chak" GUID="MJQu5J/9GU22l9Bc9i4Zuw=="/>
+		<POI MapID="1052" xpos="97.7406" ypos="690.047" zpos="21.2146" type="achievements.explorer.divemasteradd.verdant.brink" GUID="0WApPf3AMUS97ZJB2o8pPg=="/>
+		<POI MapID="1165" xpos="125.348" ypos="843.394" zpos="84.22" type="achievements.explorer.divemasteradd.droppin" GUID="lsY0vEZQwkmYCf8Vtbr44w=="/>		
+		<POI MapID="1178" xpos="778.727" ypos="64.0922" zpos="136.453" type="achievements.explorer.divemasteradd.bitter.cold" GUID="ApYCwawd00WeT8zKpnUOug=="/>
+		<POI MapID="1195" xpos="-24.2043" ypos="546.879" zpos="-258.874" type="achievements.explorer.divemasteradd.draconis.splash" GUID="xpPks1wXLkqkS/ulqxUKnQ=="/>
+		<POI MapID="1203" xpos="534.87" ypos="517.31" zpos="235.123" type="achievements.explorer.divemasteradd.siren.masted" GUID="nLlKR7VKlE6AtA+RPKZxZw=="/>		
+		<POI MapID="1211" xpos="-1214.9" ypos="298.497" zpos="-348.791" type="achievements.explorer.divemasteradd.desert.leap" GUID="cMdnLJbT5kKT3CkwRWFsxA=="/>
+		<POI MapID="1228" xpos="-337.388" ypos="97.4039" zpos="-334.288" type="achievements.explorer.divemasteradd.elon.erdm" GUID="AVEPQgL6DUGU6WkKEGh/PQ=="/>
+		<POI MapID="1228" xpos="-620.192" ypos="75.4717" zpos="-184.844" type="achievements.explorer.divemasteradd.elon.erdm" GUID="7nf10XvyUU6TZuOIuAvR6w=="/>
+		<POI MapID="1228" xpos="337.258" ypos="113.436" zpos="-128.569" type="achievements.explorer.divemasteradd.elon.erdm" GUID="CTjMi+7jqE2/nGgsUC4WTQ=="/>
+		<POI MapID="872" xpos="94.5031" ypos="257.258" zpos="-117.836" type="achievements.explorer.divemasteradd.fotm.falling" GUID="kBDkcRkCd0mGEHq4zgLFkQ=="/>
+		<POI MapID="968" xpos="-349.206" ypos="319.148" zpos="191.055" type="achievements.explorer.divemasteradd.eotm.spire" GUID="/FYaO2hQAkmId30PLkDANg=="/>
+		<POI MapID="968" xpos="-4.80113" ypos="335.674" zpos="-389.093" type="achievements.explorer.divemasteradd.eotm.inferno" GUID="U0ehDXYLDEmuFsnguPDg2g=="/>
+		<POI MapID="968" xpos="355.633" ypos="306.856" zpos="194.803" type="achievements.explorer.divemasteradd.eotm.tytone" GUID="PtopAQJojEi7oUYT/ki+LQ=="/>
+		<POI MapID="988" xpos="310.321" ypos="157.477" zpos="-405.514" type="achievements.explorer.divemasteradd.drytop.prospect" GUID="s4cSN7nx1UmiMiQrzb6DqA=="/>
+	</POIs>
+</OverlayData>

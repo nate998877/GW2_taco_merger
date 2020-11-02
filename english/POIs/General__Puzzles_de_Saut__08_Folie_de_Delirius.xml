@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+POIs: Cloud Strife.7492 - Xenophy.2716 - ReActif.9251
+Date: 2017/08/23
+-->
+<OverlayData>
+	<MarkerCategory name="general" DisplayName="General">
+		<MarkerCategory name="puzzles_de_saut" DisplayName="Jumping Puzzles" iconFile="Img\Guide.png" iconSize="0.75">
+			<MarkerCategory name="folie_de_delirius" DisplayName="Craze's Folly"/>
+		</MarkerCategory>
+	</MarkerCategory>
+
+	<POIs>
+
+		<!-- Début -->
+		<POI MapID="20" xpos="421.903" ypos="42.9188" zpos="1052.98" type="general.puzzles_de_saut.debut" GUID="x5HuB4yerkSBQ82Q44aunw=="/>
+
+		<!-- Route -->
+		<Route MapID="20" name="Folie_de_Delirius" resetposx="421.903" resetposy="42.9188" resetposz="1052.98" resetrange="2">
+			<POI MapID="20" xpos="435.556" ypos="43.7761" zpos="1052.78" type="general.puzzles_de_saut.folie_de_delirius" GUID="MrptFsmN4E6HSuQWzHp48w=="/>
+			<POI MapID="20" xpos="446.581" ypos="44.522" zpos="1052.58" type="general.puzzles_de_saut.folie_de_delirius" GUID="m7tP0pSzk0WyBdNBYUVvZA=="/>
+			<POI MapID="20" xpos="457.525" ypos="45.7453" zpos="1052.4" type="general.puzzles_de_saut.folie_de_delirius" GUID="HyLzokOVWEKnfuLAMss/rQ=="/>
+			<POI MapID="20" xpos="472.038" ypos="47.1975" zpos="1047.06" type="general.puzzles_de_saut.folie_de_delirius" GUID="L1EShCJFX0K6tCGYYs9rXw=="/>
+			<POI MapID="20" xpos="484.323" ypos="47.7672" zpos="1044.08" type="general.puzzles_de_saut.folie_de_delirius" GUID="jF6wrBkaDUGoNn5xrWKzsA=="/>
+			<POI MapID="20" xpos="485.813" ypos="53.1412" zpos="1053.83" type="general.puzzles_de_saut.folie_de_delirius" GUID="V5EyV8TgB0yRKWMJBZKUag=="/>
+			<POI MapID="20" xpos="486.67" ypos="58.7829" zpos="1044.2" type="general.puzzles_de_saut.folie_de_delirius" GUID="3g5nPhjVJEm+lnTT2IISfA=="/>
+			<POI MapID="20" xpos="479.248" ypos="58.7663" zpos="1045.58" type="general.puzzles_de_saut.folie_de_delirius" GUID="ind1p7Pfo0iz0+6b6ALAdA=="/>
+			<POI MapID="20" xpos="473.571" ypos="59.9346" zpos="1047.96" type="general.puzzles_de_saut.folie_de_delirius" GUID="vLuGbgUVNk25WYZAAgsMyA=="/>
+			<POI MapID="20" xpos="473.359" ypos="61.3543" zpos="1054.89" type="general.puzzles_de_saut.folie_de_delirius" GUID="2b429hejtEiPjjepN1Maew=="/>
+			<POI MapID="20" xpos="483.078" ypos="61.4486" zpos="1057.53" type="general.puzzles_de_saut.folie_de_delirius" GUID="5NOZVgWaXkiRswQ2pvEY4w=="/>
+			<POI MapID="20" xpos="485.475" ypos="67.0035" zpos="1057.67" type="general.puzzles_de_saut.folie_de_delirius" GUID="soROxZx/q0GqrXiMiTIugA=="/>
+			<POI MapID="20" xpos="489.624" ypos="66.7892" zpos="1053.92" type="general.puzzles_de_saut.folie_de_delirius" GUID="1hVo90/kt0OTqITAZEIXQg=="/>
+			<POI MapID="20" xpos="494.385" ypos="70.4836" zpos="1050.55" type="general.puzzles_de_saut.folie_de_delirius" GUID="SlHBreTgrEKn3uWZv8emew=="/>
+			<POI MapID="20" xpos="500.611" ypos="69.7542" zpos="1052.88" type="general.puzzles_de_saut.folie_de_delirius" GUID="WWj6KzH0xUeAirwiTAy4sg=="/>
+			<POI MapID="20" xpos="507.264" ypos="75.0869" zpos="1056.67" type="general.puzzles_de_saut.folie_de_delirius" GUID="4vnOv4i/JE2jZLmW8iEmmA=="/>
+			<POI MapID="20" xpos="514.181" ypos="68.979" zpos="1072.26" type="general.puzzles_de_saut.folie_de_delirius" GUID="HwVVdROfHE268Nm+SOIeUA=="/>
+			<POI MapID="20" xpos="518.935" ypos="76.5107" zpos="1081.84" type="general.puzzles_de_saut.folie_de_delirius" GUID="ANhFL8WBhEOzSmnRu/n2ig=="/>
+			<POI MapID="20" xpos="519.616" ypos="75.3776" zpos="1090.64" type="general.puzzles_de_saut.folie_de_delirius" GUID="+9aQLIp0cEqE0dcuXDRg9w=="/>
+			<POI MapID="20" xpos="522.899" ypos="72.836" zpos="1098.68" type="general.puzzles_de_saut.folie_de_delirius" GUID="Dz2cZlD2r0aC/v9AkjVBBg=="/>
+			<POI MapID="20" xpos="533.967" ypos="67.0848" zpos="1103.58" type="general.puzzles_de_saut.folie_de_delirius" GUID="Y5PgQWsglUyNVUxN1aQUkw=="/>
+			<POI MapID="20" xpos="535.667" ypos="54.0881" zpos="1116.64" type="general.puzzles_de_saut.folie_de_delirius" GUID="6FX3Q2RAokig8OH/qe/3mw=="/>
+			<POI MapID="20" xpos="534.443" ypos="51.9886" zpos="1128.24" type="general.puzzles_de_saut.folie_de_delirius" GUID="o6+SmfXBd0qOpQ2DZv9h6w=="/>
+			<POI MapID="20" xpos="527.805" ypos="53.0852" zpos="1130.28" type="general.puzzles_de_saut.folie_de_delirius" GUID="ihPp0wwKqEupzYgoL4FGiw=="/>
+			<POI MapID="20" xpos="525.774" ypos="52.7288" zpos="1137.41" type="general.puzzles_de_saut.folie_de_delirius" GUID="YD2HtVjI5kWaII/DGAhlYg=="/>
+			<POI MapID="20" xpos="525.096" ypos="55.4596" zpos="1144.28" type="general.puzzles_de_saut.folie_de_delirius" GUID="q83++IYktE6Bx4f06l+vHA=="/>
+			<POI MapID="20" xpos="524.883" ypos="57.2418" zpos="1148.16" type="general.puzzles_de_saut.folie_de_delirius" GUID="j7PC3KfY0UWWM3kRLoWn8w=="/>
+			<POI MapID="20" xpos="523.427" ypos="59.0277" zpos="1154.48" type="general.puzzles_de_saut.folie_de_delirius" GUID="zcChcXF7gUirohyDfaWzPg=="/>
+			<POI MapID="20" xpos="525.831" ypos="61.0154" zpos="1155.65" type="general.puzzles_de_saut.folie_de_delirius" GUID="G6+qAPO4EEG4rYXmFiU16w=="/>
+			<POI MapID="20" xpos="522.077" ypos="64.7056" zpos="1159.06" type="general.puzzles_de_saut.folie_de_delirius" GUID="fYu9AvAZ90S0l8skfdAUHA=="/>
+			<POI MapID="20" xpos="523.491" ypos="66.1281" zpos="1153.34" type="general.puzzles_de_saut.folie_de_delirius" GUID="5nfbB8q2qESHKMaok9wozQ=="/>
+			<POI MapID="20" xpos="527.522" ypos="68.1314" zpos="1150.15" type="general.puzzles_de_saut.folie_de_delirius" GUID="F3DFWI/fFEG4kUhpana24w=="/>
+			<POI MapID="20" xpos="525.62" ypos="70.3624" zpos="1147.99" type="general.puzzles_de_saut.folie_de_delirius" GUID="rREZXrrMhk+wOsxrAjjaMQ=="/>
+			<POI MapID="20" xpos="518.049" ypos="69.642" zpos="1149.57" type="general.puzzles_de_saut.folie_de_delirius" GUID="Md7e81NJB0umaS9k4P34Fg=="/>
+			<POI MapID="20" xpos="509.48" ypos="68.2465" zpos="1149.49" type="general.puzzles_de_saut.folie_de_delirius" GUID="/YCTzgfzWECTRSMrB0I8pw=="/>
+			<POI MapID="20" xpos="496.124" ypos="67.5641" zpos="1153.14" type="general.puzzles_de_saut.folie_de_delirius" GUID="xP0ZmAe4qk+ACz0Ek0AwXw=="/>
+			<POI MapID="20" xpos="484.958" ypos="74.8971" zpos="1154.91" type="general.puzzles_de_saut.folie_de_delirius" GUID="dYQEudwkPke+DGwZ40FYIQ=="/>
+			<POI MapID="20" xpos="478.104" ypos="80.4907" zpos="1154.95" type="general.puzzles_de_saut.folie_de_delirius" GUID="TrBOaHgda0OuP7uteZ+IXw=="/>
+			<POI MapID="20" xpos="473.331" ypos="84.0032" zpos="1154.16" type="general.puzzles_de_saut.folie_de_delirius" GUID="je97gKIj30iD1JDnzSomEw=="/>
+			<POI MapID="20" xpos="469"	 ypos="84.6758" zpos="1147.4" type="general.puzzles_de_saut.folie_de_delirius" GUID="qR+ny+ycjU2grZ0vEbBkeQ=="/>
+			<POI MapID="20" xpos="467.082" ypos="88.5705" zpos="1141.1" type="general.puzzles_de_saut.folie_de_delirius" GUID="1F8lENuHHEeVo/Gjz93KTw=="/>
+			<POI MapID="20" xpos="459.001" ypos="89.5112" zpos="1140.18" type="general.puzzles_de_saut.folie_de_delirius" GUID="qlkLvWEbd0KI/iK4FRDvvA=="/>
+			<POI MapID="20" xpos="449.12" ypos="87.0029" zpos="1131.69" type="general.puzzles_de_saut.folie_de_delirius" GUID="DQddxH+kfEukIEB5m499Ng=="/>
+			<POI MapID="20" xpos="436.068" ypos="86.8025" zpos="1125.27" type="general.puzzles_de_saut.folie_de_delirius" GUID="K8B84UqQrUOnlNvLV2bFLA=="/>
+			<POI MapID="20" xpos="416.11" ypos="86.2341" zpos="1126.34" type="general.puzzles_de_saut.folie_de_delirius" GUID="OcJRzxnzIUSsZx/WHAHvLA=="/>
+			<POI MapID="20" xpos="410.245" ypos="88.5004" zpos="1138.25" type="general.puzzles_de_saut.folie_de_delirius" GUID="bBeFNxC/o0K8cnb2vaZzYQ=="/>
+			<POI MapID="20" xpos="397.42" ypos="84.5351" zpos="1147.31" type="general.puzzles_de_saut.folie_de_delirius" GUID="nIjDUPCAPEGzuRnGi5rhwA=="/>
+			<POI MapID="20" xpos="388.036" ypos="79.6263" zpos="1158.86" type="general.puzzles_de_saut.folie_de_delirius" GUID="19O8HPcb0UyAWk+pHcsTbw=="/>
+			<POI MapID="20" xpos="389.061" ypos="75.4239" zpos="1194.93" type="general.puzzles_de_saut.folie_de_delirius" GUID="s4lceIPry0uiDZwqTxGVTA=="/>
+			<POI MapID="20" xpos="379.164" ypos="76.2116" zpos="1208.85" type="general.puzzles_de_saut.folie_de_delirius" GUID="zOWVbhUHykCA55/tGENG/Q=="/>
+			<POI MapID="20" xpos="370.533" ypos="81.8545" zpos="1219.08" type="general.puzzles_de_saut.folie_de_delirius" GUID="QjAqnxBWj0a7xdeBZN3PrA=="/>
+			<POI MapID="20" xpos="380.343" ypos="86.7316" zpos="1221.76" type="general.puzzles_de_saut.folie_de_delirius" GUID="6HwCwsvHD0WgQeQs6Ey6lg=="/>
+			<POI MapID="20" xpos="396.043" ypos="86.6848" zpos="1227.05" type="general.puzzles_de_saut.folie_de_delirius" GUID="V7lskPXoi0uJAA8HUbqXnw=="/>
+			<POI MapID="20" xpos="412.414" ypos="86.9228" zpos="1223.27" type="general.puzzles_de_saut.folie_de_delirius" GUID="5Xpxv9mW4EiCM6ZaR6o8CQ=="/>
+			<POI MapID="20" xpos="416.235" ypos="89.607" zpos="1213.65" type="general.puzzles_de_saut.folie_de_delirius" GUID="aGkkRlbPP0KNhHry2jF9kQ=="/>
+			<POI MapID="20" xpos="416.97" ypos="90.5394" zpos="1201.8" type="general.puzzles_de_saut.folie_de_delirius" GUID="KKYMMRiNTUiB+Q0ODhIwOQ=="/>
+			<POI MapID="20" xpos="413.795" ypos="92.5719" zpos="1194.91" type="general.puzzles_de_saut.folie_de_delirius" GUID="GZ3f3UGPZkWHw6IvxkHLzA=="/>
+			<POI MapID="20" xpos="408.131" ypos="95.259" zpos="1183.39" type="general.puzzles_de_saut.folie_de_delirius" GUID="0jMRRXbJb0ubngc/lbBN1w=="/>
+			<POI MapID="20" xpos="406.134" ypos="98.8074" zpos="1173.53" type="general.puzzles_de_saut.folie_de_delirius" GUID="+vY7sDVHZUeTHGOwz9KcZg=="/>
+			<POI MapID="20" xpos="404.133" ypos="101.43" zpos="1161.33" type="general.puzzles_de_saut.folie_de_delirius" GUID="9tMIYUTy/0iPR0NV4wTrXA=="/>
+			<POI MapID="20" xpos="393.893" ypos="101.092" zpos="1164.17" type="general.puzzles_de_saut.folie_de_delirius" GUID="cQUBEACQKUaBLaKqD2PPbg=="/>
+			<POI MapID="20" xpos="389.685" ypos="96.2834" zpos="1172.41" type="general.puzzles_de_saut.folie_de_delirius" GUID="FE77Rljm1UqbgIlS+XrcNA=="/>
+			<POI MapID="20" xpos="383.146" ypos="98.2363" zpos="1182.9" type="general.puzzles_de_saut.folie_de_delirius" GUID="ObaVPhwZDUWYki8EZYh5Xw=="/>
+			<POI MapID="20" xpos="370.815" ypos="98.6967" zpos="1182.45" type="general.puzzles_de_saut.folie_de_delirius" GUID="gizPzNIkg0+Z7JAclqMNOg=="/>
+			<POI MapID="20" xpos="366.063" ypos="91.3272" zpos="1183.64" type="general.puzzles_de_saut.folie_de_delirius" GUID="NobeB9ehM02mogs5B2+lFw=="/>
+			<POI MapID="20" xpos="365.06" ypos="87.29" zpos="1183.55" type="general.puzzles_de_saut.folie_de_delirius" GUID="crXFcRZcW0ylt7f69lLNRQ=="/>
+			<POI MapID="20" xpos="364.448" ypos="83.7173" zpos="1183.6" type="general.puzzles_de_saut.folie_de_delirius" GUID="h1ECmkEJx0+h3/rHlf7MyA=="/>
+			<POI MapID="20" xpos="365.226" ypos="79.309" zpos="1184.41" type="general.puzzles_de_saut.folie_de_delirius" GUID="7q9M3jCNiEm8Ug9+Da0xHA=="/>
+			<POI MapID="20" xpos="365.577" ypos="70.7073" zpos="1184.91" type="general.puzzles_de_saut.folie_de_delirius" GUID="NrXHFGB9B0u/WQNUbCZicw=="/>
+			<POI MapID="20" xpos="359.085" ypos="69.5136" zpos="1181.91" type="general.puzzles_de_saut.folie_de_delirius" GUID="/Nz3epIpe06W0w6j24TBPg=="/>
+			<POI MapID="20" xpos="352.285" ypos="67.7524" zpos="1174.97" type="general.puzzles_de_saut.folie_de_delirius" GUID="xbuBq39DnUuQJQ0icK9K/Q=="/>
+			<POI MapID="20" xpos="346.762" ypos="63.6899" zpos="1167.07" type="general.puzzles_de_saut.folie_de_delirius" GUID="okLy7go2fUKSr1C+Fj2wTQ=="/>
+			<POI MapID="20" xpos="343.762" ypos="58.4334" zpos="1157.14" type="general.puzzles_de_saut.folie_de_delirius" GUID="HbH87GEK/EGnVPXPMgKFoQ=="/>
+			<POI MapID="20" xpos="342.263" ypos="56.4888" zpos="1148.16" type="general.puzzles_de_saut.folie_de_delirius" GUID="g7k7uv1X/02hPbxR/kfk1A=="/>
+			<POI MapID="20" xpos="344.557" ypos="56.0645" zpos="1141.82" type="general.puzzles_de_saut.folie_de_delirius" GUID="IhdzzAJ4P0+ucj64925Z6w=="/>
+			<POI MapID="20" xpos="348.042" ypos="55.5616" zpos="1135.08" type="general.puzzles_de_saut.folie_de_delirius" GUID="WYA4DCCU8kaymBFeTUQhdw==" iconFile="Img\Combat.png" iconSize="1" color="ffe52020"/>
+		</Route>
+
+		<!-- Coffre -->
+		<POI MapID="20" xpos="348.089" ypos="55.545" zpos="1134.79" type="general.puzzles_de_saut.Defi_de_Behem" GUID="ukXWRxMIeU+xHL/d6X5SOg==" iconFile="Img\coffrePuzzle.png" iconSize="1" heightOffset="2.5" behavior="2"/>
+
+	</POIs>
+</OverlayData>

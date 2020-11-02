@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+POIs: Destiny FNC.5018 - Xenophy.2716 - ReActif.9251
+Date: 2017/08/23
+-->
+<OverlayData>
+	<MarkerCategory name="general" DisplayName="General">
+		<MarkerCategory name="puzzles_de_saut" DisplayName="Jumping Puzzles" iconFile="Img\Guide.png" iconSize="0.75">
+			<MarkerCategory name="sanctuaire_obsidienne" DisplayName="Obsidian Sanctum"/>
+		</MarkerCategory>
+	</MarkerCategory>
+
+	<POIs>
+
+		<!-- Début -->
+		<POI MapID="899" xpos="666.396" ypos="22.3038" zpos="449.227" type="general.puzzles_de_saut.debut" GUID="Tvgve+CMEk6OqL6kc9hC6g=="/>
+
+		<!-- Route -->
+		<Route MapID="899" name="Sanctuaire_Obsidienne" resetposx="666.396" resetposy="22.3038" resetposz="449.227" resetrange="2">
+			<POI MapID="899" xpos="698.443" ypos="16.4477" zpos="449.879" type="general.puzzles_de_saut.sanctuaire_obsidienne" GUID="3EjpuUzRoU2i293mOBVA2A=="/>
+			<POI MapID="899" xpos="699.657" ypos="18.185" zpos="429.866" type="general.puzzles_de_saut.sanctuaire_obsidienne" GUID="LGEOJw5lw0W8GLEML1wTQw=="/>
+			<POI MapID="899" xpos="700.695" ypos="17.5744" zpos="414.546" type="general.puzzles_de_saut.sanctuaire_obsidienne" GUID="+AB1BQwuVUionJ7URP7trg=="/>
+			<POI MapID="899" xpos="703.829" ypos="16.8383" zpos="403.595" type="general.puzzles_de_saut.sanctuaire_obsidienne" GUID="fCc1NPu5JkejqvJZZQOd8Q=="/>
+			<POI MapID="899" xpos="721.566" ypos="17.7386" zpos="407.437" type="general.puzzles_de_saut.sanctuaire_obsidienne" GUID="5SpESzvByUqwRoC2Loe4bg=="/>
+			<POI MapID="899" xpos="710.977" ypos="17.7875" zpos="433.407" type="general.puzzles_de_saut.sanctuaire_obsidienne" GUID="CZw5w5lZ10yNbeVBjB2aCA=="/>
+			<POI MapID="899" xpos="708.446" ypos="17.8571" zpos="454.126" type="general.puzzles_de_saut.sanctuaire_obsidienne" GUID="I/HxU6CoT06UHEfl8+tvwg=="/>
+			<POI MapID="899" xpos="705.778" ypos="15.3633" zpos="466.064" type="general.puzzles_de_saut.sanctuaire_obsidienne" GUID="X9IDtrsP4keXBHdoOYOOZg=="/>
+			<POI MapID="899" xpos="705.715" ypos="15.3633" zpos="472.933" type="general.puzzles_de_saut.sanctuaire_obsidienne" GUID="CYagl944qkK0PAbQXVYpxw=="/>
+			<POI MapID="899" xpos="713.129" ypos="16.9311" zpos="496.369" type="general.puzzles_de_saut.sanctuaire_obsidienne" GUID="BZ3uZyGZD0q6HM0sdJV78Q=="/>
+			<POI MapID="899" xpos="711.985" ypos="17.1665" zpos="509.449" type="general.puzzles_de_saut.sanctuaire_obsidienne" GUID="dHbOnTjGt0qAHGUw6FVd6w=="/>
+			<POI MapID="899" xpos="709.741" ypos="17.2261" zpos="528.104" type="general.puzzles_de_saut.sanctuaire_obsidienne" GUID="oVnYYRla40qJ2PyeE+Jydw=="/>
+			<POI MapID="899" xpos="711.467" ypos="17.7515" zpos="540.029" type="general.puzzles_de_saut.sanctuaire_obsidienne" GUID="7TI1M6nxCEKuGqEg7JqiUw=="/>
+			<POI MapID="899" xpos="696.056" ypos="20.1753" zpos="543.498" type="general.puzzles_de_saut.sanctuaire_obsidienne" GUID="l2C0MoNtNE+VKQQDXqa1ew=="/>
+			<POI MapID="899" xpos="683.421" ypos="21.951" zpos="545.743" type="general.puzzles_de_saut.sanctuaire_obsidienne" GUID="xyArbre7kk+IMjWfIensXA=="/>
+			<POI MapID="899" xpos="670.305" ypos="21.9975" zpos="576.818" type="general.puzzles_de_saut.sanctuaire_obsidienne" GUID="+EiRo8JkbEesjTrXJ23ehw=="/>
+			<POI MapID="899" xpos="680.783" ypos="21.9526" zpos="590.197" type="general.puzzles_de_saut.sanctuaire_obsidienne" GUID="cUDJEzRBXkSxSlRTaQGhEQ=="/>
+			<POI MapID="899" xpos="704.52" ypos="13.801" zpos="598.551" type="general.puzzles_de_saut.sanctuaire_obsidienne" GUID="t42AQvc7mkm0pAAhG2y7DA=="/>
+			<POI MapID="899" xpos="715.894" ypos="14.5551" zpos="599.185" type="general.puzzles_de_saut.sanctuaire_obsidienne" GUID="3och1eQueECJEAvfpcwXLA=="/>
+			<POI MapID="899" xpos="719.638" ypos="17.8562" zpos="591.721" type="general.puzzles_de_saut.sanctuaire_obsidienne" GUID="1LYJqQ8j6E2os0v0KHf8/w=="/>
+			<POI MapID="899" xpos="710.552" ypos="20.3255" zpos="593.582" type="general.puzzles_de_saut.sanctuaire_obsidienne" GUID="YoHm/Bso30CRLAT+Fc2lrg=="/>
+			<POI MapID="899" xpos="710.585" ypos="22.8655" zpos="588.509" type="general.puzzles_de_saut.sanctuaire_obsidienne" GUID="m+ZxHO3SnEuomBn3S7m6Pg=="/>
+			<POI MapID="899" xpos="717.481" ypos="24.6983" zpos="594.99" type="general.puzzles_de_saut.sanctuaire_obsidienne" GUID="lgu6oZ+Ybk+73u0Y/rfagg=="/>
+			<POI MapID="899" xpos="710.872" ypos="26.6651" zpos="597.688" type="general.puzzles_de_saut.sanctuaire_obsidienne" GUID="tv9pMnoj00GnCOvku80F1w=="/>
+			<POI MapID="899" xpos="707.416" ypos="29.753" zpos="591.731" type="general.puzzles_de_saut.sanctuaire_obsidienne" GUID="lXO3onesn0KPDs1yU0bsow=="/>
+			<POI MapID="899" xpos="710.43" ypos="31.3653" zpos="588.635" type="general.puzzles_de_saut.sanctuaire_obsidienne" GUID="9zrPnH7ByU+O/qR0IfXTAA=="/>
+			<POI MapID="899" xpos="717.445" ypos="33.6476" zpos="590.948" type="general.puzzles_de_saut.sanctuaire_obsidienne" GUID="VUY+G3m9HEur3UnJHUNaHw=="/>
+			<POI MapID="899" xpos="713.791" ypos="35.2858" zpos="598.268" type="general.puzzles_de_saut.sanctuaire_obsidienne" GUID="69tPE8qPwEyPbi9BzfdxHQ=="/>
+			<POI MapID="899" xpos="708.241" ypos="38.1908" zpos="595.707" type="general.puzzles_de_saut.sanctuaire_obsidienne" GUID="1BlP54p4s0KqRSYCbbb7yA=="/>
+			<POI MapID="899" xpos="710.835" ypos="40.5858" zpos="589.168" type="general.puzzles_de_saut.sanctuaire_obsidienne" GUID="f0/4+6FxsUSh/85M9bZ2Mg=="/>
+			<POI MapID="899" xpos="716.15" ypos="43.583" zpos="590.7" type="general.puzzles_de_saut.sanctuaire_obsidienne" GUID="DIVX54FbvkmdDFYQcdPmPw=="/>
+			<POI MapID="899" xpos="715.961" ypos="45.7439" zpos="596.583" type="general.puzzles_de_saut.sanctuaire_obsidienne" GUID="TLH26cyZw0G99P/ebS/Cag=="/>
+			<POI MapID="899" xpos="709.443" ypos="47.2238" zpos="596.878" type="general.puzzles_de_saut.sanctuaire_obsidienne" GUID="pPHoQI9AqUS+nM/Ib+dypA=="/>
+			<POI MapID="899" xpos="712.575" ypos="52.1572" zpos="588.268" type="general.puzzles_de_saut.sanctuaire_obsidienne" GUID="PkzhwFOfd0GoZk44a6PrWg=="/>
+			<POI MapID="899" xpos="715.892" ypos="56.5174" zpos="594.622" type="general.puzzles_de_saut.sanctuaire_obsidienne" GUID="DqZeqpoAskGss+x4O64Qpg=="/>
+			<POI MapID="899" xpos="708.627" ypos="58.7935" zpos="591.363" type="general.puzzles_de_saut.sanctuaire_obsidienne" GUID="gtJFQlog6k+y2lvOY9qy0Q=="/>
+			<POI MapID="899" xpos="713.603" ypos="60.8224" zpos="589.211" type="general.puzzles_de_saut.sanctuaire_obsidienne" GUID="28QeFmXxnEmCstLVvRnBcg=="/>
+			<POI MapID="899" xpos="716.523" ypos="61.3998" zpos="591.337" type="general.puzzles_de_saut.sanctuaire_obsidienne" GUID="TUQolYWBo0GyxK6ts3pBDQ=="/>
+			<POI MapID="899" xpos="708.501" ypos="63.2657" zpos="594.42" type="general.puzzles_de_saut.sanctuaire_obsidienne" GUID="+ZAsOJu2/UWwd07OT6ypmA=="/>
+			<POI MapID="899" xpos="710.524" ypos="64.3491" zpos="590.015" type="general.puzzles_de_saut.sanctuaire_obsidienne" GUID="u4YsZ8aJuEGkGQI0jZ8GDw=="/>
+			<POI MapID="899" xpos="715.085" ypos="65.9049" zpos="590.748" type="general.puzzles_de_saut.sanctuaire_obsidienne" GUID="5AUxtZZ1D0utbweogMXi4w=="/>
+			<POI MapID="899" xpos="713.35" ypos="67.8574" zpos="596.99" type="general.puzzles_de_saut.sanctuaire_obsidienne" GUID="8q9WBzmoAk643CSg+WGpaw=="/>
+			<POI MapID="899" xpos="710.65" ypos="70.3941" zpos="589.591" type="general.puzzles_de_saut.sanctuaire_obsidienne" GUID="vit+kxBdqE+6+rvyfjov3w=="/>
+			<POI MapID="899" xpos="715.61" ypos="72.5471" zpos="594.07" type="general.puzzles_de_saut.sanctuaire_obsidienne" GUID="A7EfdDd270e/b5XFOBX98A=="/>
+			<POI MapID="899" xpos="711.093" ypos="75.1513" zpos="597.654" type="general.puzzles_de_saut.sanctuaire_obsidienne" GUID="Qfq2HT8IUkyoA7r8E7jOsA=="/>
+			<POI MapID="899" xpos="726.945" ypos="71.695" zpos="598.035" type="general.puzzles_de_saut.sanctuaire_obsidienne" GUID="O1YxJtQ8xEGUFJk4Q331+A=="/>
+			<POI MapID="899" xpos="744.737" ypos="69.335" zpos="595.919" type="general.puzzles_de_saut.sanctuaire_obsidienne" GUID="wmqbFtLt0UynyP2srGK4KQ=="/>
+			<POI MapID="899" xpos="768.282" ypos="64.9279" zpos="593.22" type="general.puzzles_de_saut.sanctuaire_obsidienne" GUID="Ik/ITkk97EiTmvngceTlVA=="/>
+			<POI MapID="899" xpos="803.172" ypos="58.1351" zpos="580.776" type="general.puzzles_de_saut.sanctuaire_obsidienne" GUID="h75BF3Uze0+hivQzSubrEQ=="/>
+			<POI MapID="899" xpos="818.608" ypos="57.7165" zpos="558.612" type="general.puzzles_de_saut.sanctuaire_obsidienne" GUID="kR90jYY48EKY//grWua4YA=="/>
+			<POI MapID="899" xpos="810.166" ypos="59.8899" zpos="548.837" type="general.puzzles_de_saut.sanctuaire_obsidienne" GUID="kzeBwaQl20Wj00roBNuceQ=="/>
+			<POI MapID="899" xpos="800.242" ypos="53.5092" zpos="539.341" type="general.puzzles_de_saut.sanctuaire_obsidienne" GUID="OhzNfErcLUOwx1oaZjWwxA=="/>
+			<POI MapID="899" xpos="785.797" ypos="43.3634" zpos="536.009" type="general.puzzles_de_saut.sanctuaire_obsidienne" GUID="8rFGFIbyHUm+aXS7ZGrM2g=="/>
+			<POI MapID="899" xpos="769.961" ypos="43.5592" zpos="523.373" type="general.puzzles_de_saut.sanctuaire_obsidienne" GUID="wsTnub0jvUW3XgXjzZArkg=="/>
+			<POI MapID="899" xpos="775.232" ypos="47.9542" zpos="518.081" type="general.puzzles_de_saut.sanctuaire_obsidienne" GUID="oWJYFX+rq0uf03XHCkIHtg=="/>
+			<POI MapID="899" xpos="774.326" ypos="51.6004" zpos="516.016" type="general.puzzles_de_saut.sanctuaire_obsidienne" GUID="A5VTPkZ5AkilQHatnBXlsA=="/>
+			<POI MapID="899" xpos="777.566" ypos="50.9796" zpos="509.135" type="general.puzzles_de_saut.sanctuaire_obsidienne" GUID="Gz9bM1QgYUe9M2Ug4lCujw=="/>
+			<POI MapID="899" xpos="775.653" ypos="49.2097" zpos="501.664" type="general.puzzles_de_saut.sanctuaire_obsidienne" GUID="wOkdFdtJrk20hGjc/7Vxug=="/>
+			<POI MapID="899" xpos="773.281" ypos="38.1407" zpos="489.742" type="general.puzzles_de_saut.sanctuaire_obsidienne" GUID="9bbclZQeUEiE0l1USj99uA=="/>
+			<POI MapID="899" xpos="783.287" ypos="39.0496" zpos="489.518" type="general.puzzles_de_saut.sanctuaire_obsidienne" GUID="vmhthB1LDEO0Jd7ELVQ/BA=="/>
+			<POI MapID="899" xpos="790.116" ypos="40.9557" zpos="479.44" type="general.puzzles_de_saut.sanctuaire_obsidienne" GUID="P2ZlmfhFDE6aK5vb1FL0zg=="/>
+			<POI MapID="899" xpos="800.138" ypos="37.4913" zpos="469.149" type="general.puzzles_de_saut.sanctuaire_obsidienne" GUID="Iray5g2ti0CLnnbJKj/RMw=="/>
+			<POI MapID="899" xpos="807.636" ypos="38.3449" zpos="479.068" type="general.puzzles_de_saut.sanctuaire_obsidienne" GUID="cshtcObCwkOD+jkGGLUXrg=="/>
+			<POI MapID="899" xpos="810.221" ypos="36.4921" zpos="488.97" type="general.puzzles_de_saut.sanctuaire_obsidienne" GUID="wFsE4ixzwk+ZAWYVh3QlRw=="/>
+			<POI MapID="899" xpos="817.193" ypos="39.0911" zpos="489.562" type="general.puzzles_de_saut.sanctuaire_obsidienne" GUID="p1T6fIj2sU674GWU1CJ5qA=="/>
+			<POI MapID="899" xpos="817.847" ypos="36.1231" zpos="481.835" type="general.puzzles_de_saut.sanctuaire_obsidienne" GUID="z0t2zlTnaUiMXtgB+Wbc/g=="/>
+			<POI MapID="899" xpos="823.612" ypos="36.0454" zpos="475.744" type="general.puzzles_de_saut.sanctuaire_obsidienne" GUID="GufmYyK6Bkuw7AafjDKe9Q=="/>
+			<POI MapID="899" xpos="839.233" ypos="35.2698" zpos="475.861" type="general.puzzles_de_saut.sanctuaire_obsidienne" GUID="W8D57AxaB0aJ8O5KrigKPw=="/>
+			<POI MapID="899" xpos="846.928" ypos="33.8899" zpos="484.453" type="general.puzzles_de_saut.sanctuaire_obsidienne" GUID="zRk57Z/HQUqHyQZdlFLmAg=="/>
+			<POI MapID="899" xpos="849.538" ypos="36.1006" zpos="494.91" type="general.puzzles_de_saut.sanctuaire_obsidienne" GUID="E9oN04qqj0qh+D+VKv69TA=="/>
+			<POI MapID="899" xpos="844.782" ypos="37.6725" zpos="494.571" type="general.puzzles_de_saut.sanctuaire_obsidienne" GUID="dAgt8PF6v0uIa6jijiTLNw==" triggerRange="1"/>
+			<POI MapID="899" xpos="845.191" ypos="40.3141" zpos="497.516" type="general.puzzles_de_saut.sanctuaire_obsidienne" GUID="RRwxF9riO0Wu2XBKZkmtfA==" triggerRange="1"/>
+			<POI MapID="899" xpos="848.915" ypos="42.4137" zpos="492.749" type="general.puzzles_de_saut.sanctuaire_obsidienne" GUID="HpcGvZQxzEasGYZxlMxVGQ=="/>
+			<POI MapID="899" xpos="842.284" ypos="44.7424" zpos="493.322" type="general.puzzles_de_saut.sanctuaire_obsidienne" GUID="Mt2DSJDzIU2LGQU+yBbM0w=="/>
+			<POI MapID="899" xpos="858.158" ypos="37.278" zpos="473.07" type="general.puzzles_de_saut.sanctuaire_obsidienne" GUID="uXRlCrh5YE+pgFz2uCJJbA=="/>
+			<POI MapID="899" xpos="877.833" ypos="31.4855" zpos="482.105" type="general.puzzles_de_saut.sanctuaire_obsidienne" GUID="usrcpTdiLkiK6SHaFhQpNw=="/>
+			<POI MapID="899" xpos="894.084" ypos="40.647" zpos="486.713" type="general.puzzles_de_saut.sanctuaire_obsidienne" GUID="P2E1xNZkMkCl6uSjtiNHdQ=="/>
+			<POI MapID="899" xpos="894.879" ypos="42.4471" zpos="482.101" type="general.puzzles_de_saut.sanctuaire_obsidienne" GUID="ApG/vgYMy0y5gy1gTco0LA=="/>
+			<POI MapID="899" xpos="887.072" ypos="42.4471" zpos="476.69" type="general.puzzles_de_saut.sanctuaire_obsidienne" GUID="cvA8YFUvuUOZRYEoijhP7w=="/>
+			<POI MapID="899" xpos="888.938" ypos="42.7455" zpos="454.104" type="general.puzzles_de_saut.sanctuaire_obsidienne" GUID="dwA0/2q5p0u5lFcxkZxjEg=="/>
+			<POI MapID="899" xpos="886.999" ypos="35.233" zpos="429.499" type="general.puzzles_de_saut.sanctuaire_obsidienne" GUID="gSWVDQMHN0WGMCEGn2E5Ww=="/>
+			<POI MapID="899" xpos="885.452" ypos="19.6564" zpos="392.127" type="general.puzzles_de_saut.sanctuaire_obsidienne" GUID="OdIgS9pdh0KoQiT5kNOs6A=="/>
+			<POI MapID="899" xpos="869.695" ypos="19.8822" zpos="388.782" type="general.puzzles_de_saut.sanctuaire_obsidienne" GUID="p7ejdZI+9EOj3Cqt6VPYTA=="/>
+			<POI MapID="899" xpos="861.513" ypos="20.0325" zpos="388.801" type="general.puzzles_de_saut.sanctuaire_obsidienne" GUID="QDtJ7CWyMUKqW22Eza+e0Q=="/>
+			<POI MapID="899" xpos="860.879" ypos="20.0325" zpos="398.774" type="general.puzzles_de_saut.sanctuaire_obsidienne" GUID="pvzFJVUZHESRXxRSc57FyA=="/>
+			<POI MapID="899" xpos="860.726" ypos="19.5482" zpos="414.268" type="general.puzzles_de_saut.sanctuaire_obsidienne" GUID="LejlBiKGaE2O3ojEuFoxUg=="/>
+			<POI MapID="899" xpos="847.711" ypos="19.368" zpos="414.015" type="general.puzzles_de_saut.sanctuaire_obsidienne" GUID="hqaJAXsGok6yVos0qykBgg=="/>
+			<POI MapID="899" xpos="828.761" ypos="19.1937" zpos="412.074" type="general.puzzles_de_saut.sanctuaire_obsidienne" GUID="BWLjlL3eu0izkBqk8Bs7KA=="/>
+			<POI MapID="899" xpos="827.225" ypos="16.9427" zpos="403.146" type="general.puzzles_de_saut.sanctuaire_obsidienne" GUID="BjlrdURJe0CrGHQ5iDujiQ=="/>
+			<POI MapID="899" xpos="827.912" ypos="17.1555" zpos="394.483" type="general.puzzles_de_saut.sanctuaire_obsidienne" GUID="g+P7O0RGOku9fZho1cyvLQ=="/>
+			<POI MapID="899" xpos="820.346" ypos="17.152" zpos="393.4" type="general.puzzles_de_saut.sanctuaire_obsidienne" GUID="r/52Y69qm0y2rncA0JUQDA=="/>
+			<POI MapID="899" xpos="810.963" ypos="17.561" zpos="393.362" type="general.puzzles_de_saut.sanctuaire_obsidienne" GUID="5B2dTeeC1ECqKVqaxpBiSQ=="/>
+			<POI MapID="899" xpos="811.422" ypos="16.8227" zpos="381.538" type="general.puzzles_de_saut.sanctuaire_obsidienne" GUID="5Tdf9X2aUEKXXIbZYlFLaA=="/>
+			<POI MapID="899" xpos="820.404" ypos="17.2294" zpos="380.712" type="general.puzzles_de_saut.sanctuaire_obsidienne" GUID="HGkqc0kySEaq2tCxspzyfg=="/>
+			<POI MapID="899" xpos="824.363" ypos="15.8041" zpos="380.34" type="general.puzzles_de_saut.sanctuaire_obsidienne" GUID="zTAm+ZW0rUSRnkZ4RTA8Ww=="/>
+			<POI MapID="899" xpos="829.862" ypos="10.7861" zpos="377.183" type="general.puzzles_de_saut.sanctuaire_obsidienne" GUID="CVFyp6ydO0udW3sruFGcVQ=="/>
+			<POI MapID="899" xpos="837.815" ypos="7.62277" zpos="375.656" type="general.puzzles_de_saut.sanctuaire_obsidienne" GUID="ZTjN8g+rRUuuznDb3yFD5g=="/>
+			<POI MapID="899" xpos="836.847" ypos="7.62276" zpos="369.156" type="general.puzzles_de_saut.sanctuaire_obsidienne" GUID="nmcH4UlCA06QfUP1nVmv2A=="/>
+			<POI MapID="899" xpos="844.301" ypos="10.392" zpos="370.955" type="general.puzzles_de_saut.sanctuaire_obsidienne" GUID="oNKwY/ujr0WJkLvLN/5PSQ=="/>
+			<POI MapID="899" xpos="854.601" ypos="15.144" zpos="372.244" type="general.puzzles_de_saut.sanctuaire_obsidienne" GUID="HU7ZUKbtIEqjnEH1pteBFA=="/>
+			<POI MapID="899" xpos="847.923" ypos="14.8832" zpos="372.111" type="general.puzzles_de_saut.sanctuaire_obsidienne" GUID="OnOkAM4MkkO6TWYXK7/plQ=="/>
+			<POI MapID="899" xpos="838.319" ypos="17.0842" zpos="372.067" type="general.puzzles_de_saut.sanctuaire_obsidienne" GUID="rYnEG3rDvUmq2g1hKb9bNg=="/>
+			<POI MapID="899" xpos="834.569" ypos="17.0842" zpos="369.14" type="general.puzzles_de_saut.sanctuaire_obsidienne" GUID="ZgdmfooBcUKRBHfShE2XVg=="/>
+			<POI MapID="899" xpos="830.422" ypos="17.0842" zpos="371.332" type="general.puzzles_de_saut.sanctuaire_obsidienne" GUID="qFACPYy9/0CbC2ZHv/mEgA=="/>
+			<POI MapID="899" xpos="824.485" ypos="18.4932" zpos="371.056" type="general.puzzles_de_saut.sanctuaire_obsidienne" GUID="zJDUwm3ivkGE+qob5uMzgw=="/>
+			<POI MapID="899" xpos="814.43" ypos="22.1374" zpos="370.601" type="general.puzzles_de_saut.sanctuaire_obsidienne" GUID="Mba86tGL00SEMbcD+LZvxg=="/>
+			<POI MapID="899" xpos="808.11" ypos="25.8311" zpos="358.014" type="general.puzzles_de_saut.sanctuaire_obsidienne" GUID="7KIfgVQvOkW45JN/BYaYRw=="/>
+			<POI MapID="899" xpos="817.614" ypos="25.1154" zpos="357.413" type="general.puzzles_de_saut.sanctuaire_obsidienne" GUID="0efRPd1yjESkz8usPom2RQ=="/>
+			<POI MapID="899" xpos="830.708" ypos="24.1129" zpos="356.78" type="general.puzzles_de_saut.sanctuaire_obsidienne" GUID="3BsNFtyQI0u/G3YRYkuuLA=="/>
+			<POI MapID="899" xpos="848.237" ypos="25.9405" zpos="374.072" type="general.puzzles_de_saut.sanctuaire_obsidienne" GUID="AXSsmon51E2frmZJczP/cQ=="/>
+			<POI MapID="899" xpos="855.028" ypos="25.294" zpos="372.281" type="general.puzzles_de_saut.sanctuaire_obsidienne" GUID="CPWt1QBTZki4qNZy/u7tlg=="/>
+			<POI MapID="899" xpos="859.044" ypos="25.5461" zpos="363.099" type="general.puzzles_de_saut.sanctuaire_obsidienne" GUID="cI70pXC/FU+KRc0a13evZw=="/>
+			<POI MapID="899" xpos="856.447" ypos="25.8026" zpos="345.237" type="general.puzzles_de_saut.sanctuaire_obsidienne" GUID="nvikVjgRV0WiaLtVFSv8jw=="/>
+			<POI MapID="899" xpos="855.125" ypos="25.6349" zpos="335.547" type="general.puzzles_de_saut.sanctuaire_obsidienne" GUID="vHWk3ey7XEqY7rQaFIRuug=="/>
+			<POI MapID="899" xpos="844.435" ypos="25.4431" zpos="336.769" type="general.puzzles_de_saut.sanctuaire_obsidienne" GUID="p/Lb1JNQI0GAE6m6uunDUA=="/>
+			<POI MapID="899" xpos="844.453" ypos="25.6918" zpos="342.502" type="general.puzzles_de_saut.sanctuaire_obsidienne" GUID="585/MKfiBUWkXLZZk89+jA=="/>
+			<POI MapID="899" xpos="837.188" ypos="25.2911" zpos="343.025" type="general.puzzles_de_saut.sanctuaire_obsidienne" GUID="6ALcveeYc0up41X4Zy3JJg=="/>
+			<POI MapID="899" xpos="836.917" ypos="25.1552" zpos="336.049" type="general.puzzles_de_saut.sanctuaire_obsidienne" GUID="5lHkyaaNgUe8jrRh8pk1/Q=="/>
+			<POI MapID="899" xpos="825.818" ypos="25.5791" zpos="341.862" type="general.puzzles_de_saut.sanctuaire_obsidienne" GUID="excV1gphnUyJUAkrxr2qFg=="/>
+			<POI MapID="899" xpos="816.377" ypos="25.109" zpos="338.821" type="general.puzzles_de_saut.sanctuaire_obsidienne" GUID="uTClkXhQd0GFEhuNW0Npdw=="/>
+			<POI MapID="899" xpos="808.491" ypos="26.3125" zpos="341.034" type="general.puzzles_de_saut.sanctuaire_obsidienne" GUID="/6waDe4wxEKBoh+UW9qPCg=="/>
+			<POI MapID="899" xpos="807.744" ypos="27.9036" zpos="324.763" type="general.puzzles_de_saut.sanctuaire_obsidienne" GUID="xjuyY1cW9kK1KospTHoDUg=="/>
+			<POI MapID="899" xpos="813.757" ypos="31.005" zpos="316.395" type="general.puzzles_de_saut.sanctuaire_obsidienne" GUID="DosB4dOUu0CyqcK+6uFD2w=="/>
+			<POI MapID="899" xpos="816.025" ypos="31.061" zpos="306.136" type="general.puzzles_de_saut.sanctuaire_obsidienne" GUID="FmP7ZEFhr06meGS/pdSPPA=="/>
+			<POI MapID="899" xpos="812.683" ypos="27.8105" zpos="296.384" type="general.puzzles_de_saut.sanctuaire_obsidienne" GUID="20ZL8p35dkeMCj59INiMng=="/>
+			<POI MapID="899" xpos="804.641" ypos="23.1418" zpos="295.475" type="general.puzzles_de_saut.sanctuaire_obsidienne" GUID="gCuF5kG7TESs+kXz+X3WYg=="/>
+			<POI MapID="899" xpos="803.281" ypos="16.7795" zpos="282.262" type="general.puzzles_de_saut.sanctuaire_obsidienne" GUID="3Dcr2EciOUysQW5+O0etRg=="/>
+			<POI MapID="899" xpos="801.417" ypos="16.7795" zpos="270.173" type="general.puzzles_de_saut.sanctuaire_obsidienne" GUID="u1A3an9HmU6+/mLYXFSKMw=="/>
+			<POI MapID="899" xpos="779.237" ypos="13.9633" zpos="265.578" type="general.puzzles_de_saut.sanctuaire_obsidienne" GUID="jU+ch/F0FE6h+d8n1AKfiA=="/>
+			<POI MapID="899" xpos="775.249" ypos="16.5735" zpos="255.638" type="general.puzzles_de_saut.sanctuaire_obsidienne" GUID="kX4M+MzN+Eq/NVhpz0qqmw=="/>
+			<POI MapID="899" xpos="775.41" ypos="15.5522" zpos="243.975" type="general.puzzles_de_saut.sanctuaire_obsidienne" GUID="L3aoMwQL0k60uX/XLd2gWw=="/>
+			<POI MapID="899" xpos="780.893" ypos="15.6478" zpos="237.439" type="general.puzzles_de_saut.sanctuaire_obsidienne" GUID="ONJXc42K10W7IMsdb43qag=="/>
+			<POI MapID="899" xpos="789.459" ypos="14.3357" zpos="228.955" type="general.puzzles_de_saut.sanctuaire_obsidienne" GUID="2WH1UynI+0yGmUpOwt/z6w=="/>
+			<POI MapID="899" xpos="790.795" ypos="15.8696" zpos="226.328" type="general.puzzles_de_saut.sanctuaire_obsidienne" GUID="NFRWOkWLNUC0XvMHg7pp2Q=="/>
+			<POI MapID="899" xpos="798.323" ypos="15.0172" zpos="227.487" type="general.puzzles_de_saut.sanctuaire_obsidienne" GUID="SVtY0Wo+sEubIicLf5MDHA=="/>
+			<POI MapID="899" xpos="806.69" ypos="14.4991" zpos="227.104" type="general.puzzles_de_saut.sanctuaire_obsidienne" GUID="z27VX7c1WEOhTcPRZ2QUSA=="/>
+			<POI MapID="899" xpos="811.585" ypos="17.1737" zpos="228.705" type="general.puzzles_de_saut.sanctuaire_obsidienne" GUID="vWb5Px61bk6tALh2uDHwTA=="/>
+			<POI MapID="899" xpos="805.281" ypos="21.2729" zpos="226.78" type="general.puzzles_de_saut.sanctuaire_obsidienne" GUID="slb5OtWookS8e2gCS4+Lcg=="/>
+			<POI MapID="899" xpos="808.644" ypos="22.6776" zpos="227.705" type="general.puzzles_de_saut.sanctuaire_obsidienne" GUID="9sUOZVVIYUugHMaansYRLA=="/>
+			<POI MapID="899" xpos="812.713" ypos="23.2304" zpos="229.357" type="general.puzzles_de_saut.sanctuaire_obsidienne" GUID="uYZotYFOA02nlAaxZhn7lQ=="/>
+			<POI MapID="899" xpos="816.537" ypos="19.1679" zpos="233.667" type="general.puzzles_de_saut.sanctuaire_obsidienne" GUID="CkCfAEDQIUSQMUOkpnSF4w=="/>
+			<POI MapID="899" xpos="825.112" ypos="16.9156" zpos="241.949" type="general.puzzles_de_saut.sanctuaire_obsidienne" GUID="R3Uvtns/XkuALB0zVqyvjQ=="/>
+			<POI MapID="899" xpos="825.653" ypos="17.3444" zpos="251.561" type="general.puzzles_de_saut.sanctuaire_obsidienne" GUID="ahshxGDtm0mV+7jWpknrDA=="/>
+			<POI MapID="899" xpos="824.682" ypos="18.4289" zpos="260.547" type="general.puzzles_de_saut.sanctuaire_obsidienne" GUID="Jxf3IQjo+k+TsVFIPlkKnw=="/>
+			<POI MapID="899" xpos="826.837" ypos="22.8481" zpos="260.343" type="general.puzzles_de_saut.sanctuaire_obsidienne" GUID="qKV1zONIjkWElfaGtkO1Zw=="/>
+			<POI MapID="899" xpos="827.877" ypos="25.0379" zpos="254.774" type="general.puzzles_de_saut.sanctuaire_obsidienne" GUID="o9OxUul1WEWXzQPnmZN6qg=="/>
+			<POI MapID="899" xpos="828.007" ypos="27.7062" zpos="259.477" type="general.puzzles_de_saut.sanctuaire_obsidienne" GUID="JxjP9WGQGk+BIxW/hAx32w=="/>
+			<POI MapID="899" xpos="818.379" ypos="27.3296" zpos="268.305" type="general.puzzles_de_saut.sanctuaire_obsidienne" GUID="LZvsO0qt5E6K7hbqHmhxWA=="/>
+			<POI MapID="899" xpos="808.299" ypos="26.7935" zpos="280.369" type="general.puzzles_de_saut.sanctuaire_obsidienne" GUID="5HuI8c55mU6A5Po5mHvWTQ=="/>
+			<POI MapID="899" xpos="796.255" ypos="26.7197" zpos="280.6" type="general.puzzles_de_saut.sanctuaire_obsidienne" GUID="topDcaZK/kyc7DmTkvL9HQ=="/>
+			<POI MapID="899" xpos="791.433" ypos="27.5111" zpos="276.905" type="general.puzzles_de_saut.sanctuaire_obsidienne" GUID="0zBuJyW5f0Soe+P+XJ5G8w=="/>
+			<POI MapID="899" xpos="783.94" ypos="27.3294" zpos="273.7" type="general.puzzles_de_saut.sanctuaire_obsidienne" GUID="WsG6vVz4REaj+SsGZc+whw=="/>
+			<POI MapID="899" xpos="776.418" ypos="31.3641" zpos="271.813" type="general.puzzles_de_saut.sanctuaire_obsidienne" GUID="CeXDm9QWiUKuctDQvslmUg=="/>
+			<POI MapID="899" xpos="764.157" ypos="31.0857" zpos="295.07" type="general.puzzles_de_saut.sanctuaire_obsidienne" GUID="Adff9ane1UWKUkH8VqVhFQ=="/>
+			<POI MapID="899" xpos="756.917" ypos="34.6191" zpos="312.05" type="general.puzzles_de_saut.sanctuaire_obsidienne" GUID="Tj2AYan+qk634sNPB6KGrA=="/>
+			<POI MapID="899" xpos="755.915" ypos="44.1706" zpos="333.578" type="general.puzzles_de_saut.sanctuaire_obsidienne" GUID="mIOKb/HmK0e5y2ToaGS5bw=="/>
+			<POI MapID="899" xpos="782.687" ypos="42.969" zpos="319.451" type="general.puzzles_de_saut.sanctuaire_obsidienne" GUID="nMn/8JiBDkyK8J7wCQSmhA=="/>
+			<POI MapID="899" xpos="790.645" ypos="42.9308" zpos="298.951" type="general.puzzles_de_saut.sanctuaire_obsidienne" GUID="9ljZBkX6vkKBuoCGumaOfA=="/>
+			<POI MapID="899" xpos="798.513" ypos="45.8058" zpos="284.364" type="general.puzzles_de_saut.sanctuaire_obsidienne" GUID="Im3NKYumJEurTuWiir48+g=="/>
+			<POI MapID="899" xpos="801.811" ypos="49.1782" zpos="275.536" type="general.puzzles_de_saut.sanctuaire_obsidienne" GUID="ma5RZfEdHEKqdVY2f/thPg=="/>
+			<POI MapID="899" xpos="804.602" ypos="56.7555" zpos="262.958" type="general.puzzles_de_saut.sanctuaire_obsidienne" GUID="b/GeYDoZ0E63jTWRyplbKw=="/>
+			<POI MapID="899" xpos="806.929" ypos="55.1982" zpos="265.538" type="general.puzzles_de_saut.sanctuaire_obsidienne" GUID="LTuQnCUyiUWYJwMOxPnPTQ=="/>
+			<POI MapID="899" xpos="812.697" ypos="51.7772" zpos="277.135" type="general.puzzles_de_saut.sanctuaire_obsidienne" GUID="M7ytP8DGqUW7CelPdunuDQ=="/>
+			<POI MapID="899" xpos="818.349" ypos="53.5929" zpos="281.36" type="general.puzzles_de_saut.sanctuaire_obsidienne" GUID="QrUvC2cJvEO8btaISyjs4A=="/>
+			<POI MapID="899" xpos="825.395" ypos="54.7856" zpos="297.681" type="general.puzzles_de_saut.sanctuaire_obsidienne" GUID="MWax4KmJekyuOWUVw2W3qg=="/>
+			<POI MapID="899" xpos="812.625" ypos="67.1737" zpos="299.559" type="general.puzzles_de_saut.sanctuaire_obsidienne" GUID="gELehULVeESiYKK0VhaxFA=="/>
+			<POI MapID="899" xpos="814.852" ypos="66.2361" zpos="290.062" type="general.puzzles_de_saut.sanctuaire_obsidienne" GUID="y712ph9Af0adS+oalHXaOw=="/>
+			<POI MapID="899" xpos="828.769" ypos="66.3978" zpos="290.285" type="general.puzzles_de_saut.sanctuaire_obsidienne" GUID="HCVLMPs9y0SGhMhGo0sBUg=="/>
+			<POI MapID="899" xpos="830.574" ypos="66.4977" zpos="298.921" type="general.puzzles_de_saut.sanctuaire_obsidienne" GUID="lz961yT8tUC4FQM7D4/7Fg=="/>
+			<POI MapID="899" xpos="842.053" ypos="65.1464" zpos="297.128" type="general.puzzles_de_saut.sanctuaire_obsidienne" GUID="XDXjXx9zJU+oVtIeuhweIw=="/>
+			<POI MapID="899" xpos="842.563" ypos="68.0355" zpos="310.612" type="general.puzzles_de_saut.sanctuaire_obsidienne" GUID="N8RUyWRDREKyO5rZWTgPhQ=="/>
+			<POI MapID="899" xpos="851.645" ypos="72.4197" zpos="311.149" type="general.puzzles_de_saut.sanctuaire_obsidienne" GUID="/TKRXN9pr0GVA0MxkQxrzw=="/>
+			<POI MapID="899" xpos="860.772" ypos="72.9325" zpos="316.025" type="general.puzzles_de_saut.sanctuaire_obsidienne" GUID="ywFw/2PM3k+wMF6AHdll1g=="/>
+			<POI MapID="899" xpos="850.753" ypos="72.9971" zpos="325.871" type="general.puzzles_de_saut.sanctuaire_obsidienne" GUID="xHcoqOtwa0y2PIX6gA3YNw=="/>
+			<POI MapID="899" xpos="840.165" ypos="75.8752" zpos="319.514" type="general.puzzles_de_saut.sanctuaire_obsidienne" GUID="MZUFmZxKlUi6mWhCP+iDog=="/>
+			<POI MapID="899" xpos="847.928" ypos="76.4275" zpos="314.194" type="general.puzzles_de_saut.sanctuaire_obsidienne" GUID="fmsoivSJekqgbiY8p5lnaw=="/>
+			<POI MapID="899" xpos="843.469" ypos="79.4363" zpos="308.892" type="general.puzzles_de_saut.sanctuaire_obsidienne" GUID="LQ1KUL50mk+Ji6nQv9z6TQ=="/>
+			<POI MapID="899" xpos="852.073" ypos="79.8659" zpos="307.749" type="general.puzzles_de_saut.sanctuaire_obsidienne" GUID="27x8+lvxgESeBE+QYTMjzg=="/>
+			<POI MapID="899" xpos="864.089" ypos="81.9714" zpos="304.922" type="general.puzzles_de_saut.sanctuaire_obsidienne" GUID="VbyFZvj6HEKVLo2ON7tcmQ=="/>
+			<POI MapID="899" xpos="863.759" ypos="85.6672" zpos="307.059" type="general.puzzles_de_saut.sanctuaire_obsidienne" GUID="7Nh7ieZWD0GU1vSEltq+WA=="/>
+			<POI MapID="899" xpos="863.807" ypos="86.002" zpos="321.436" type="general.puzzles_de_saut.sanctuaire_obsidienne" GUID="ApyA463PJEaZ9zorgh5BAQ=="/>
+			<POI MapID="899" xpos="861.766" ypos="85.8416" zpos="330.747" type="general.puzzles_de_saut.sanctuaire_obsidienne" GUID="pY+ikw1J6k2VSPAk5blb4g=="/>
+			<POI MapID="899" xpos="859.056" ypos="85.4321" zpos="336.135" type="general.puzzles_de_saut.sanctuaire_obsidienne" GUID="lzTdh9gijkOIGlheHB36xA=="/>
+			<POI MapID="899" xpos="876.165" ypos="78.8976" zpos="345.529" type="general.puzzles_de_saut.sanctuaire_obsidienne" GUID="yAJ9f7Sw60ekQaTC8ys6kQ=="/>
+			<POI MapID="899" xpos="886.789" ypos="78.9298" zpos="345.479" type="general.puzzles_de_saut.sanctuaire_obsidienne" GUID="gIpCKMp7aEeZgspWsmqorQ=="/>
+			<POI MapID="899" xpos="902.462" ypos="82.3498" zpos="344.617" type="general.puzzles_de_saut.sanctuaire_obsidienne" GUID="FZT9KgqpO0ux+FadL1nF7Q=="/>
+			<POI MapID="899" xpos="902.388" ypos="88.5277" zpos="355.878" type="general.puzzles_de_saut.sanctuaire_obsidienne" GUID="9hQLcfX1pUWtn5FkwwWMtg=="/>
+			<POI MapID="899" xpos="887.818" ypos="89.3997" zpos="357.358" type="general.puzzles_de_saut.sanctuaire_obsidienne" GUID="sUvo92ZmD0Sl1Mn7xvZs6g=="/>
+			<POI MapID="899" xpos="886.024" ypos="89.6869" zpos="350.258" type="general.puzzles_de_saut.sanctuaire_obsidienne" GUID="krE1LjZGPUCEksvmBD6sYw=="/>
+			<POI MapID="899" xpos="884.227" ypos="91.0128" zpos="353.425" type="general.puzzles_de_saut.sanctuaire_obsidienne" GUID="34OxpyAGGUuEIo5RmozE+Q=="/>
+			<POI MapID="899" xpos="884.027" ypos="90.9331" zpos="362.171" type="general.puzzles_de_saut.sanctuaire_obsidienne" GUID="mUrFD/x7jkqmVf/COv4JMQ=="/>
+			<POI MapID="899" xpos="884.567" ypos="91.6172" zpos="367.11" type="general.puzzles_de_saut.sanctuaire_obsidienne" GUID="2EWWeb0aVU6HZoEeGGEHcA=="/>
+			<POI MapID="899" xpos="890.912" ypos="92.7569" zpos="368.011" type="general.puzzles_de_saut.sanctuaire_obsidienne" GUID="DDksGwuQa0CVfy+cvebTEQ=="/>
+			<POI MapID="899" xpos="900.94" ypos="92.8286" zpos="368.094" type="general.puzzles_de_saut.sanctuaire_obsidienne" GUID="sH+x9OpMgk6qvrUzu5QK9w=="/>
+			<POI MapID="899" xpos="910.366" ypos="93.4424" zpos="367.127" type="general.puzzles_de_saut.sanctuaire_obsidienne" GUID="wr193rLYU0mlLdFCPUXz5Q=="/>
+			<POI MapID="899" xpos="910.952" ypos="97.9194" zpos="359.084" type="general.puzzles_de_saut.sanctuaire_obsidienne" GUID="DjedeC5USUuJ/9YP7GV+iQ=="/>
+			<POI MapID="899" xpos="910.608" ypos="102.293" zpos="351.685" type="general.puzzles_de_saut.sanctuaire_obsidienne" GUID="wWitjZNX+U2Wzm9auRP6xA=="/>
+			<POI MapID="899" xpos="902.782" ypos="102.328" zpos="347.154" type="general.puzzles_de_saut.sanctuaire_obsidienne" GUID="rwx9CKHfJkat3MU13jngZg=="/>
+		</Route>
+
+		<!-- Coffre -->
+		<POI MapID="899" xpos="895.438" ypos="102.724" zpos="348.351" type="general.puzzles_de_saut.sanctuaire_obsidienne" GUID="ECE7OB4mqk6Y62wV52EXzA==" iconFile="Img\CoffrePuzzle.png" iconSize="1" heightOffset="2.5" behavior="2"/>
+
+	</POIs>
+</OverlayData>

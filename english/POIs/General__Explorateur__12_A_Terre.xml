@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+POIs: ReActif.9251
+Date: 2016/12/27
+-->
+<OverlayData>
+	<MarkerCategory name="general" DisplayName="General">
+		<MarkerCategory name="explorateur" DisplayName="Explorer" iconFile="Img\Explorateur.png" behavior="3">
+			<MarkerCategory name="a_terre" DisplayName="Grounded">
+				<MarkerCategory name="acces" DisplayName="Guide" iconFile="Img\Guide.png" iconSize="0.75"/>
+			</MarkerCategory>
+		</MarkerCategory>
+	</MarkerCategory>
+
+	<POIs>
+
+		<!-- Entrée -->
+		<POI MapID="62" xpos="261.5" ypos="19.03" zpos="-906.27" type="general.explorateur.a_terre.acces" GUID="lqGiwtMOTEO7PMJqJvz0uA==" iconFile="Img\Fleche.png" iconSize="1.5"/>
+
+		<!-- Route -->
+		<Route MapID="62" name="A_Terre" resetposx="261.5" resetposy="19.03" resetposz="-906.27" resetrange="2">
+			<POI MapID="62" xpos="257.933" ypos="21.1242" zpos="-911.402" type="general.explorateur.a_terre.acces" GUID="qa3wpn87CUGMMTH5WpZfIg=="/>
+			<POI MapID="62" xpos="261.373" ypos="21.2394" zpos="-922.782" type="general.explorateur.a_terre.acces" GUID="mqyqKLDFC0SMF55BEj8s5Q=="/>
+			<POI MapID="62" xpos="266.146" ypos="21.6244" zpos="-936.117" type="general.explorateur.a_terre.acces" GUID="NrUUTMSBbEu9C/uljvnaqQ=="/>
+			<POI MapID="62" xpos="267.098" ypos="18.9559" zpos="-949.503" type="general.explorateur.a_terre.acces" GUID="AoPsAzR8n0aH/OV12Opqaw=="/>
+			<POI MapID="62" xpos="258.174" ypos="15.7414" zpos="-942.526" type="general.explorateur.a_terre.acces" GUID="+mRwe8fHCkuPWffslW5Q1Q=="/>
+			<POI MapID="62" xpos="250.07" ypos="15.9557" zpos="-937.098" type="general.explorateur.a_terre.acces" GUID="VvXx0iVjC02Ki4itw4EHVA=="/>
+			<POI MapID="62" xpos="239.112" ypos="16.1667" zpos="-927.956" type="general.explorateur.a_terre.acces" GUID="viJkRJqrBUWRQgtr4MWajQ=="/>
+			<POI MapID="62" xpos="232.187" ypos="15.5242" zpos="-922.659" type="general.explorateur.a_terre.acces" GUID="kRLfif07t0Wyt0YIxJ8J/w=="/>
+			<POI MapID="62" xpos="226.269" ypos="11.4184" zpos="-916.924" type="general.explorateur.a_terre.acces" GUID="vRAVeGfa4EeP+kfghJYRJg=="/>
+			<POI MapID="62" xpos="229.249" ypos="10.5026" zpos="-909.882" type="general.explorateur.a_terre.acces" GUID="AYwmR1D/CUOmEDyulsX5kw=="/>
+			<POI MapID="62" xpos="235.364" ypos="9.34955" zpos="-913.521" type="general.explorateur.a_terre.acces" GUID="AoskZwiGhEOqQ4ulwR9UEw=="/>
+			<POI MapID="62" xpos="241.726" ypos="5.72734" zpos="-919.127" type="general.explorateur.a_terre.acces" GUID="QspE+IL7KESsfGi54oD35w=="/>
+			<POI MapID="62" xpos="243.05" ypos="6.3799" zpos="-927.06" type="general.explorateur.a_terre.acces" GUID="nyKuYLC3OkSadPUfJThmIA=="/>
+			<POI MapID="62" xpos="245.847" ypos="7.08304" zpos="-936.451" type="general.explorateur.a_terre.acces" GUID="jW17zboTf0qnCVwwHUaXRQ=="/>
+			<POI MapID="62" xpos="256.476" ypos="4.98671" zpos="-944.775" type="general.explorateur.a_terre.acces" GUID="nKohxool4Euqsyd6hmAdDg=="/>
+		</Route>
+
+		<!-- Coffre -->
+		<POI MapID="62" xpos="270.159" ypos="4.71883" zpos="-954.935" type="general.explorateur.a_terre" GUID="14RgL34ZtUejx8/mHCe+rA==" iconFile="Img\CoffreMiniDonjon.png" heightOffset="2"/>
+
+	</POIs>
+</OverlayData>

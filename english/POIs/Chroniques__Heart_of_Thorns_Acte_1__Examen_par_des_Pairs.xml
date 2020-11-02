@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+POIs: ReActif.9251
+Date: 2017/03/01
+-->
+<OverlayData>
+	<MarkerCategory name="chroniques.hot">
+		<MarkerCategory name="acte_1" DisplayName="Heart of Thorns : Act 1" iconFile="Img\HeartOfThornsActe1.png">
+			<MarkerCategory name="examen_par_des_pairs" DisplayName="Peer Review"/>
+		</MarkerCategory>
+	</MarkerCategory>
+
+	<POIs>
+
+		<!-- Pages de Journal -->
+		<POI MapID="1051" xpos="-566.104" ypos="370.21" zpos="-33.2747" type="chroniques.hot.acte_1.examen_par_des_pairs" GUID="EqE3/bdSJEqnLHBUk7NDHQ=="/>
+		<POI MapID="1051" xpos="-576.748" ypos="379.455" zpos="-6.67195" type="chroniques.hot.acte_1.examen_par_des_pairs" GUID="/zE//VjVy0uEtYFh0v4lVg=="/>
+		<POI MapID="1051" xpos="-614.02" ypos="386.236" zpos="6.03855" type="chroniques.hot.acte_1.examen_par_des_pairs" GUID="cYH+i9sVkkq/3Yen2Xi0DA=="/>
+		<POI MapID="1051" xpos="-616.469" ypos="386.303" zpos="6.82635" type="chroniques.hot.acte_1.examen_par_des_pairs" GUID="hfwc5+vdGU6has9qgXmSng=="/>
+		<POI MapID="1051" xpos="-586.501" ypos="398.441" zpos="-4.02788" type="chroniques.hot.acte_1.examen_par_des_pairs" GUID="IHnTuGtQ5U2Q4c3EYUt/iw=="/>
+		<POI MapID="1051" xpos="-608.511" ypos="411.963" zpos="2.22064" type="chroniques.hot.acte_1.examen_par_des_pairs" GUID="YscOE6u+8Eu7kghB1rxtLA=="/>
+		<POI MapID="1051" xpos="-649.952" ypos="423.118" zpos="71.8144" type="chroniques.hot.acte_1.examen_par_des_pairs" GUID="E9F3uLei/kGV8nNJ90tXWw=="/>
+		<POI MapID="1051" xpos="-656.724" ypos="425.707" zpos="83.1702" type="chroniques.hot.acte_1.examen_par_des_pairs" GUID="uiLutQEkf0SMpH3EUGzHoA=="/>
+		<POI MapID="1051" xpos="-655.019" ypos="426.74" zpos="94.6839" type="chroniques.hot.acte_1.examen_par_des_pairs" GUID="Shcu5o68DUWgYOj9ag7pxw=="/>
+		<POI MapID="1051" xpos="-659.997" ypos="427.039" zpos="97.578" type="chroniques.hot.acte_1.examen_par_des_pairs" GUID="CQ3xfREqVk+oQPJ2h+ZWFg=="/>
+		<POI MapID="1051" xpos="-656.419" ypos="427.296" zpos="106.63" type="chroniques.hot.acte_1.examen_par_des_pairs" GUID="jg+0fgm/b0WfTRtHRj/dtg==" iconFile="Img\Combat.png" color="ffff0000"/>
+
+	</POIs>
+</OverlayData>

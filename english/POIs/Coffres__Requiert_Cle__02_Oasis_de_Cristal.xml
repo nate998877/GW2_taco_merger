@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+POIs: TMKFrench.6427
+Date: 2017/10/04
+-->
+<OverlayData>
+	<MarkerCategory name="coffres.requiert_cle">
+		<MarkerCategory name="oasis_de_cristal_tresors_enfouis" DisplayName="Crystal Oasis - Buried Treasures" iconFile="Img\CoffreOasisdeCristal.png" fadeNear="8000" fadeFar="16000" heightOffset="2" behavior="2"/>
+	</MarkerCategory>
+
+	<POIs>
+
+		<POI MapID="1210" xpos="-339.181" ypos="47.3928" zpos="563.425" type="coffres.requiert_cle.oasis_de_cristal_tresors_enfouis" GUID="gmyszT1RX0y77JCrLt5bOg=="/>
+		<POI MapID="1210" xpos="-738.34" ypos="11.4133" zpos="310.589" type="coffres.requiert_cle.oasis_de_cristal_tresors_enfouis" GUID="OxDdJG4pJk6/8pYXIZMl+g=="/>
+		<POI MapID="1210" xpos="1278.94" ypos="178.678" zpos="573.906" type="coffres.requiert_cle.oasis_de_cristal_tresors_enfouis" GUID="PfD86RPhJUqtoitBHIz0kQ=="/>
+
+	</POIs>
+</OverlayData>

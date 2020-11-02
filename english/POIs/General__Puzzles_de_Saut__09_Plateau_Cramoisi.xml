@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+POIs: Cloud Strife.7492 - Xenophy.2716 - ReActif.9251
+Date: 2017/08/23
+-->
+<OverlayData>
+	<MarkerCategory name="general" DisplayName="General">
+		<MarkerCategory name="puzzles_de_saut" DisplayName="Jumping Puzzles" iconFile="Img\Guide.png" iconSize="0.75">
+			<MarkerCategory name="plateau_cramoisi" DisplayName="Crimson Plateau"/>
+		</MarkerCategory>
+	</MarkerCategory>
+
+	<POIs>
+
+		<!-- Début -->
+		<POI MapID="32" xpos="568.21" ypos="25.44" zpos="-366.81" type="general.puzzles_de_saut.debut" GUID="NHgxPy8T9UmhePPn/6axwQ=="/>
+
+		<!-- Route -->
+		<Route MapID="32" name="Plateau_Cramoisi" resetposx="568.21" resetposy="25.44" resetposz="-366.81" resetrange="2">
+			<POI MapID="32" xpos="562.83" ypos="28.6058" zpos="-367.53" type="general.puzzles_de_saut.plateau_cramoisi" GUID="dm2p7GwL406BZG51RpQ0WA=="/>
+			<POI MapID="32" xpos="558.214" ypos="32.575" zpos="-368.432" type="general.puzzles_de_saut.plateau_cramoisi" GUID="sDVcqtH2RUqGSLxt41OzQQ=="/>
+			<POI MapID="32" xpos="559.618" ypos="33.9555" zpos="-372.898" type="general.puzzles_de_saut.plateau_cramoisi" GUID="QEBMV658RE2NTmNEbxKPmQ=="/>
+			<POI MapID="32" xpos="560.595" ypos="34.4119" zpos="-377.025" type="general.puzzles_de_saut.plateau_cramoisi" GUID="t2KHTZr700+x7Duri71a2A=="/>
+			<POI MapID="32" xpos="557.243" ypos="36.3267" zpos="-378.991" type="general.puzzles_de_saut.plateau_cramoisi" GUID="kjEWkc10Y0GiMfCbYhGbpA=="/>
+			<POI MapID="32" xpos="551.044" ypos="37.1643" zpos="-383.455" type="general.puzzles_de_saut.plateau_cramoisi" GUID="MiyrfSRLSUWI++4hGh5jxg=="/>
+			<POI MapID="32" xpos="542.937" ypos="38.4989" zpos="-389.789" type="general.puzzles_de_saut.plateau_cramoisi" GUID="kawzoQDCZ02drwTIUuMrFw=="/>
+			<POI MapID="32" xpos="535.735" ypos="40.0134" zpos="-395.878" type="general.puzzles_de_saut.plateau_cramoisi" GUID="crxKdOiKnk6wg9OQprazGQ=="/>
+			<POI MapID="32" xpos="524.733" ypos="41.0687" zpos="-402.802" type="general.puzzles_de_saut.plateau_cramoisi" GUID="AbKIs7krDUa5BdNuqY07yg=="/>
+			<POI MapID="32" xpos="519.355" ypos="41.8466" zpos="-401.974" type="general.puzzles_de_saut.plateau_cramoisi" GUID="hku8AjOB7kulSTYhB7C6tg=="/>
+			<POI MapID="32" xpos="517.152" ypos="44.9201" zpos="-398.092" type="general.puzzles_de_saut.plateau_cramoisi" GUID="3yqmwuHfYkqIPCTbt7Uclg=="/>
+			<POI MapID="32" xpos="520.34" ypos="46.3664" zpos="-398.752" type="general.puzzles_de_saut.plateau_cramoisi" GUID="OOfvFUYkwEGSQBzLO2QpSw=="/>
+			<POI MapID="32" xpos="514.162" ypos="47.8234" zpos="-399.029" type="general.puzzles_de_saut.plateau_cramoisi" GUID="Eg8lFiIIdkiFOvQ2vFN9Zg=="/>
+			<POI MapID="32" xpos="511.506" ypos="50.9055" zpos="-399.753" type="general.puzzles_de_saut.plateau_cramoisi" GUID="aaBH4cTfYUCB5sf6jm6tZQ=="/>
+			<POI MapID="32" xpos="515.003" ypos="52.0285" zpos="-396.651" type="general.puzzles_de_saut.plateau_cramoisi" GUID="R4aL6GjCGkqbqJGnzoqWRQ=="/>
+			<POI MapID="32" xpos="518.506" ypos="53.8149" zpos="-396.006" type="general.puzzles_de_saut.plateau_cramoisi" GUID="vCtD8/u66ESpv5Eo4Fra8Q=="/>
+			<POI MapID="32" xpos="514.404" ypos="56.9411" zpos="-392.094" type="general.puzzles_de_saut.plateau_cramoisi" GUID="Cu236Air70WhWvudC7gbBQ=="/>
+			<POI MapID="32" xpos="514.309" ypos="59.0075" zpos="-387.718" type="general.puzzles_de_saut.plateau_cramoisi" GUID="EG2Neu6qDEujYSx+d35HQA=="/>
+			<POI MapID="32" xpos="515.932" ypos="60.1311" zpos="-381.494" type="general.puzzles_de_saut.plateau_cramoisi" GUID="c2yoddk9ME6B8T0thnbl/g=="/>
+			<POI MapID="32" xpos="523.931" ypos="60.1514" zpos="-379.435" type="general.puzzles_de_saut.plateau_cramoisi" GUID="/Xa7dBmnnUmyZY8AVEfBcQ=="/>
+			<POI MapID="32" xpos="531.401" ypos="58.8028" zpos="-384.533" type="general.puzzles_de_saut.plateau_cramoisi" GUID="d/0N327B4UasJ3IsJZjW/Q=="/>
+			<POI MapID="32" xpos="537.121" ypos="58.9585" zpos="-382.408" type="general.puzzles_de_saut.plateau_cramoisi" GUID="/oh8Q9ut40WW8/57p5kglQ=="/>
+			<POI MapID="32" xpos="536.372" ypos="61.083" zpos="-379.335" type="general.puzzles_de_saut.plateau_cramoisi" GUID="Fhp3I8voDU+9DsRrVNXxgg=="/>
+			<POI MapID="32" xpos="533.836" ypos="60.9738" zpos="-372.567" type="general.puzzles_de_saut.plateau_cramoisi" GUID="87YNfdusIkuf5Zy7kfFT+Q=="/>
+			<POI MapID="32" xpos="534.585" ypos="61.7375" zpos="-367.501" type="general.puzzles_de_saut.plateau_cramoisi" GUID="GTFBFlz0p0uTe/g//erCeg=="/>
+			<POI MapID="32" xpos="542.624" ypos="63.8692" zpos="-365.616" type="general.puzzles_de_saut.plateau_cramoisi" GUID="z+vy8IvuWUW4FcPeVe1J/A=="/>
+			<POI MapID="32" xpos="547.859" ypos="66.2344" zpos="-368.354" type="general.puzzles_de_saut.plateau_cramoisi" GUID="uTZrQV2EukGie4XHQpzJ7g=="/>
+			<POI MapID="32" xpos="540.348" ypos="70.0909" zpos="-373.925" type="general.puzzles_de_saut.plateau_cramoisi" GUID="TUiRrCSM50ydHSkss/8LOw=="/>
+			<POI MapID="32" xpos="540.896" ypos="70.8707" zpos="-368.456" type="general.puzzles_de_saut.plateau_cramoisi" GUID="1ztVL45lx0ao3VtyTeZOLw=="/>
+			<POI MapID="32" xpos="539.098" ypos="68.6505" zpos="-360.462" type="general.puzzles_de_saut.plateau_cramoisi" GUID="1WmflkTeIkSKIwyPwIC2FQ=="/>
+			<POI MapID="32" xpos="539.274" ypos="64.2822" zpos="-351.977" type="general.puzzles_de_saut.plateau_cramoisi" GUID="bVcVVNUGJUq1FBPbUzIoqQ=="/>
+			<POI MapID="32" xpos="539.493" ypos="66.2534" zpos="-347.048" type="general.puzzles_de_saut.plateau_cramoisi" GUID="WuKVCPoRO0ymvDTYuzcwrg=="/>
+			<POI MapID="32" xpos="539.168" ypos="66.8733" zpos="-338.277" type="general.puzzles_de_saut.plateau_cramoisi" GUID="vaFkRT/NQEeypgpddIIAsQ=="/>
+			<POI MapID="32" xpos="535.55" ypos="67.1361" zpos="-333.308" type="general.puzzles_de_saut.plateau_cramoisi" GUID="EDegteCF5k+wBz7lJzo9Iw=="/>
+			<POI MapID="32" xpos="527.761" ypos="66.4242" zpos="-336.813" type="general.puzzles_de_saut.plateau_cramoisi" GUID="CU2zrpwsdUOJjrPLBMIBFA=="/>
+			<POI MapID="32" xpos="524.18" ypos="65.9911" zpos="-345.025" type="general.puzzles_de_saut.plateau_cramoisi" GUID="ZR+VYp9bqUKSqrrFKyqe6Q=="/>
+			<POI MapID="32" xpos="516.365" ypos="65.6977" zpos="-351.463" type="general.puzzles_de_saut.plateau_cramoisi" GUID="T/Q7jVEYokSA8+KGo6/I6w=="/>
+			<POI MapID="32" xpos="511.45" ypos="67.4321" zpos="-350.519" type="general.puzzles_de_saut.plateau_cramoisi" GUID="CxRQcXwrzEWvzH+rM65WYw=="/>
+			<POI MapID="32" xpos="511.158" ypos="68.6894" zpos="-344.06" type="general.puzzles_de_saut.plateau_cramoisi" GUID="qu9CFnZCAkikQmn4bKzwvQ=="/>
+			<POI MapID="32" xpos="510.857" ypos="70.5555" zpos="-335.615" type="general.puzzles_de_saut.plateau_cramoisi" GUID="Ug7ks6h9CUujsIxndxcheg=="/>
+			<POI MapID="32" xpos="507.055" ypos="73.9268" zpos="-331.066" type="general.puzzles_de_saut.plateau_cramoisi" GUID="EGhYU4PR6UWddXpctxuvGQ=="/>
+			<POI MapID="32" xpos="506.037" ypos="75.5163" zpos="-336.336" type="general.puzzles_de_saut.plateau_cramoisi" GUID="LmaokoYoPEGGXOJSHFIcGQ=="/>
+			<POI MapID="32" xpos="505.057" ypos="76.9418" zpos="-341.126" type="general.puzzles_de_saut.plateau_cramoisi" GUID="OLlQ40xBy0+xxNk1YbgFgQ=="/>
+			<POI MapID="32" xpos="504.72" ypos="76.5063" zpos="-348.207" type="general.puzzles_de_saut.plateau_cramoisi" GUID="JC2xt6G/f0WAwqKHfH9VpQ=="/>
+			<POI MapID="32" xpos="506.063" ypos="75.9902" zpos="-355.603" type="general.puzzles_de_saut.plateau_cramoisi" GUID="DUf4AuU6PESFLih5DNegLg=="/>
+			<POI MapID="32" xpos="510.593" ypos="73.8285" zpos="-363.041" type="general.puzzles_de_saut.plateau_cramoisi" GUID="M4a4hUcYH0+ylLxtOECKBA=="/>
+			<POI MapID="32" xpos="517.14" ypos="73.7442" zpos="-364.479" type="general.puzzles_de_saut.plateau_cramoisi" GUID="zfGn/sPO80ik/iVilyKDZg=="/>
+			<POI MapID="32" xpos="522.09" ypos="70.6212" zpos="-361.223" type="general.puzzles_de_saut.plateau_cramoisi" GUID="TQzAOlM2vUysyx+l8Nd2Mw=="/>
+			<POI MapID="32" xpos="522.863" ypos="72.0345" zpos="-354.943" type="general.puzzles_de_saut.plateau_cramoisi" GUID="QMaNo7pMu0WS/ZpXsBr1hg=="/>
+			<POI MapID="32" xpos="525.912" ypos="73.0003" zpos="-353.459" type="general.puzzles_de_saut.plateau_cramoisi" GUID="qmwF2Sk0oka2HHRJKH4REQ=="/>
+			<POI MapID="32" xpos="526.167" ypos="75.8442" zpos="-357.659" type="general.puzzles_de_saut.plateau_cramoisi" GUID="GgH7lowUYEmPfZTlsjqJWA=="/>
+			<POI MapID="32" xpos="526.142" ypos="78.5101" zpos="-363.692" type="general.puzzles_de_saut.plateau_cramoisi" GUID="NdHE5fvPVESbR2FsEkHPFQ=="/>
+			<POI MapID="32" xpos="525.919" ypos="78.5101" zpos="-374.837" type="general.puzzles_de_saut.plateau_cramoisi" GUID="O2FjCNRy50uY8twCpK1Ygg=="/>
+			<POI MapID="32" xpos="524.692" ypos="75.0333" zpos="-383.545" type="general.puzzles_de_saut.plateau_cramoisi" GUID="j/D7GZ1OV0+bcBP4I7PThg=="/>
+			<POI MapID="32" xpos="519.344" ypos="74.6906" zpos="-385.707" type="general.puzzles_de_saut.plateau_cramoisi" GUID="4Z/Dr4IFxkSORpPxaoLjIg=="/>
+			<POI MapID="32" xpos="509.892" ypos="67.4775" zpos="-388.638" type="general.puzzles_de_saut.plateau_cramoisi" GUID="In9A8jmOMUKMuCTT3mFFlg=="/>
+			<POI MapID="32" xpos="504.149" ypos="68.6964" zpos="-390.083" type="general.puzzles_de_saut.plateau_cramoisi" GUID="m/RsJgCIzUeUy71vFcKhIQ=="/>
+			<POI MapID="32" xpos="494.814" ypos="67.5903" zpos="-391.56" type="general.puzzles_de_saut.plateau_cramoisi" GUID="Ne9fv1GkO0WRA0jOUlUXCw=="/>
+			<POI MapID="32" xpos="482.114" ypos="61.0343" zpos="-392.74" type="general.puzzles_de_saut.plateau_cramoisi" GUID="5eMlljMKc069a2z2K3yynw=="/>
+			<POI MapID="32" xpos="476.738" ypos="62.653" zpos="-389.471" type="general.puzzles_de_saut.plateau_cramoisi" GUID="Wqy+BrOLE0KmKN+dTNmOcA=="/>
+			<POI MapID="32" xpos="468.133" ypos="65.163" zpos="-384.929" type="general.puzzles_de_saut.plateau_cramoisi" GUID="9T8WOoytWUuegvOCavI63A==" iconFile="Img\Combat.png" iconSize="1" color="ffe52020"/>
+		</Route>
+
+		<!-- Coffre -->
+		<POI MapID="32" xpos="463.186" ypos="66.6657" zpos="-382.409" type="general.puzzles_de_saut.plateau_cramoisi" GUID="XGKJX4zhBkeJdBkUJAD0Fg==" iconFile="Img\CoffrePuzzle.png" iconSize="1" heightOffset="3" behavior="2"/>
+
+	</POIs>
+</OverlayData>

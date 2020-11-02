@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+POIs: Cloud Strife.7492 - Xenophy.2716 - ReActif.9251
+Date: 2017/08/23
+-->
+<OverlayData>
+	<MarkerCategory name="general" DisplayName="General">
+		<MarkerCategory name="puzzles_de_saut" DisplayName="Jumping Puzzles" iconFile="Img\Guide.png" iconSize="0.75">
+			<MarkerCategory name="ruines_de_la_banquise_brisee" DisplayName="Shattered Ice Ruins"/>
+		</MarkerCategory>
+	</MarkerCategory>
+
+	<POIs>
+
+		<!-- Début -->
+		<POI MapID="30" xpos="-122.12" ypos="-25.45" zpos="376.7" type="general.puzzles_de_saut.debut" GUID="UO2/BAaYi0GNbaZPVAm1MQ=="/>
+
+		<!-- Route -->
+		<Route MapID="30" name="Ruines_de_la_Banquise_Brisee" resetposx="-122.12" resetposy="-25.45" resetposz="376.7" resetrange="2">
+			<POI MapID="30" xpos="-134.234" ypos="-23.9958" zpos="375.391" type="general.puzzles_de_saut.ruines_de_la_banquise_brisee" GUID="ToedCM1VcUuQYVrcgSWr0w=="/>
+			<POI MapID="30" xpos="-141.572" ypos="-13.4535" zpos="373.276" type="general.puzzles_de_saut.ruines_de_la_banquise_brisee" GUID="3h8HUDjvV0GzPcehFYkJpA=="/>
+			<POI MapID="30" xpos="-147.937" ypos="-4.38297" zpos="369.245" type="general.puzzles_de_saut.ruines_de_la_banquise_brisee" GUID="kJqg+p6VkkODWJfph/6KLQ=="/>
+			<POI MapID="30" xpos="-155.268" ypos="2.16304" zpos="366.601" type="general.puzzles_de_saut.ruines_de_la_banquise_brisee" GUID="d9PqgGILjkGWeupwJQivNA=="/>
+			<POI MapID="30" xpos="-161.306" ypos="2.83223" zpos="366.077" type="general.puzzles_de_saut.ruines_de_la_banquise_brisee" GUID="J627TGy4fkqu7Fhq3SzNKg=="/>
+			<POI MapID="30" xpos="-171.733" ypos="1.02037" zpos="352.494" type="general.puzzles_de_saut.ruines_de_la_banquise_brisee" GUID="3Yv/zAEgXEKA1pEQ1biz2A=="/>
+			<POI MapID="30" xpos="-174.47" ypos="1.56269" zpos="342.138" type="general.puzzles_de_saut.ruines_de_la_banquise_brisee" GUID="BDkQdnlhw0mzrZev7UXJHA=="/>
+			<POI MapID="30" xpos="-166.824" ypos="4.31256" zpos="341.583" type="general.puzzles_de_saut.ruines_de_la_banquise_brisee" GUID="NJlHjPpqZUuxHFkhs3akVw=="/>
+			<POI MapID="30" xpos="-160.409" ypos="5.77609" zpos="345.9" type="general.puzzles_de_saut.ruines_de_la_banquise_brisee" GUID="ERmaosqoLEG0eWLgT3YN1g=="/>
+			<POI MapID="30" xpos="-161.147" ypos="6.41021" zpos="350.871" type="general.puzzles_de_saut.ruines_de_la_banquise_brisee" GUID="c37TBj+FJkSAttcmHYdxqw=="/>
+			<POI MapID="30" xpos="-155.159" ypos="7.62694" zpos="353.801" type="general.puzzles_de_saut.ruines_de_la_banquise_brisee" GUID="6uH35id+DkC1Z1HkLo6u5A=="/>
+			<POI MapID="30" xpos="-150.488" ypos="10.2853" zpos="358.361" type="general.puzzles_de_saut.ruines_de_la_banquise_brisee" GUID="LKOX+0/njkmo4xqyIVDvOw=="/>
+			<POI MapID="30" xpos="-142.585" ypos="11.835" zpos="357.979" type="general.puzzles_de_saut.ruines_de_la_banquise_brisee" GUID="ReJnzs6/+EWT7pDSv1FFMw=="/>
+			<POI MapID="30" xpos="-142.047" ypos="13.9016" zpos="362.185" type="general.puzzles_de_saut.ruines_de_la_banquise_brisee" GUID="7FD172J5s0Ca8ULPEd3vIQ=="/>
+			<POI MapID="30" xpos="-143.392" ypos="16.5712" zpos="368.623" type="general.puzzles_de_saut.ruines_de_la_banquise_brisee" GUID="mSbiY4vGzkmNIUCm+PXawQ=="/>
+			<POI MapID="30" xpos="-135.243" ypos="20.5398" zpos="368.533" type="general.puzzles_de_saut.ruines_de_la_banquise_brisee" GUID="aFikKdJL7k2TTMHZdgSBOg=="/>
+			<POI MapID="30" xpos="-131.029" ypos="23.5211" zpos="365.424" type="general.puzzles_de_saut.ruines_de_la_banquise_brisee" GUID="UWGeY90kMEe4vaQjcXvVAQ=="/>
+			<POI MapID="30" xpos="-139.249" ypos="21.5393" zpos="361.846" type="general.puzzles_de_saut.ruines_de_la_banquise_brisee" GUID="uhKw+UR3SUinpXZbN8P1aQ=="/>
+			<POI MapID="30" xpos="-139.2" ypos="22.876" zpos="353.92" type="general.puzzles_de_saut.ruines_de_la_banquise_brisee" GUID="wv5YIFw9iEyJ0GUD9b0PSw=="/>
+			<POI MapID="30" xpos="-140.955" ypos="23.3872" zpos="346.257" type="general.puzzles_de_saut.ruines_de_la_banquise_brisee" GUID="hcrIz1MFHkO+W7l0TWd48Q=="/>
+			<POI MapID="30" xpos="-147.714" ypos="21.6918" zpos="350.072" type="general.puzzles_de_saut.ruines_de_la_banquise_brisee" GUID="v5gIvn2AgUyKMvTGNd91xw=="/>
+			<POI MapID="30" xpos="-154.374" ypos="16.2364" zpos="356.98" type="general.puzzles_de_saut.ruines_de_la_banquise_brisee" GUID="3muqPbB6PUGVf5dGQeE3HA=="/>
+			<POI MapID="30" xpos="-160.391" ypos="15.9856" zpos="361.028" type="general.puzzles_de_saut.ruines_de_la_banquise_brisee" GUID="M5kmv7TyJ0u4nsZk29rduw=="/>
+			<POI MapID="30" xpos="-174.834" ypos="17.2922" zpos="371.773" type="general.puzzles_de_saut.ruines_de_la_banquise_brisee" GUID="y/L5CoDITkuUT9BwrCb2Tg=="/>
+			<POI MapID="30" xpos="-172.359" ypos="17.3527" zpos="359.578" type="general.puzzles_de_saut.ruines_de_la_banquise_brisee" GUID="GkQTLmG2nEu2icUTrNv1CA=="/>
+			<POI MapID="30" xpos="-170.293" ypos="18.5295" zpos="345.226" type="general.puzzles_de_saut.ruines_de_la_banquise_brisee" GUID="Grsy7o0Q1kebkS5oVOoLNA=="/>
+			<POI MapID="30" xpos="-164.775" ypos="19.9545" zpos="335.275" type="general.puzzles_de_saut.ruines_de_la_banquise_brisee" GUID="rXxesUQAiUW8ToeTEpn1rQ=="/>
+			<POI MapID="30" xpos="-160.67" ypos="24.4629" zpos="325.879" type="general.puzzles_de_saut.ruines_de_la_banquise_brisee" GUID="slOD316RHE+a9fyl035NQA=="/>
+			<POI MapID="30" xpos="-172.638" ypos="22.8867" zpos="327.499" type="general.puzzles_de_saut.ruines_de_la_banquise_brisee" GUID="pEewC1Jl/kmHk+hMkokPqA=="/>
+			<POI MapID="30" xpos="-184.793" ypos="19.2982" zpos="332.944" type="general.puzzles_de_saut.ruines_de_la_banquise_brisee" GUID="44SZcLxre06yV3ivrj6F6Q=="/>
+			<POI MapID="30" xpos="-191.158" ypos="18.5701" zpos="343.28" type="general.puzzles_de_saut.ruines_de_la_banquise_brisee" GUID="3HOy96CUd0uQdAOzNiNK9Q=="/>
+			<POI MapID="30" xpos="-197.2" ypos="21.4712" zpos="350.816" type="general.puzzles_de_saut.ruines_de_la_banquise_brisee" GUID="025NXFoW8kGqT5nCERptSg=="/>
+			<POI MapID="30" xpos="-198.36" ypos="23.2742" zpos="358.55" type="general.puzzles_de_saut.ruines_de_la_banquise_brisee" GUID="XR7WqO9CCEedpVZOaC8Ojg=="/>
+			<POI MapID="30" xpos="-205.576" ypos="28.227" zpos="363.322" type="general.puzzles_de_saut.ruines_de_la_banquise_brisee" GUID="aZC1nz3giUKTbJqDl0aiRg=="/>
+			<POI MapID="30" xpos="-211.335" ypos="31.8284" zpos="367.587" type="general.puzzles_de_saut.ruines_de_la_banquise_brisee" GUID="AucTKlfksUaYnG8q/WKDUA=="/>
+			<POI MapID="30" xpos="-214.603" ypos="34.4599" zpos="360.781" type="general.puzzles_de_saut.ruines_de_la_banquise_brisee" GUID="a58kiMMC2UygzsyTjD+1cA=="/>
+			<POI MapID="30" xpos="-209.493" ypos="34.287" zpos="351.538" type="general.puzzles_de_saut.ruines_de_la_banquise_brisee" GUID="zB+GtXqLK0yu2fh/qW5xiQ=="/>
+			<POI MapID="30" xpos="-200.105" ypos="33.9637" zpos="342.438" type="general.puzzles_de_saut.ruines_de_la_banquise_brisee" GUID="dSZeQiZ1Rku0XnIuaFJiqA=="/>
+			<POI MapID="30" xpos="-191.433" ypos="32.599" zpos="343.545" type="general.puzzles_de_saut.ruines_de_la_banquise_brisee" GUID="eXzK9AjiakCGuSySqt+6Lw=="/>
+			<POI MapID="30" xpos="-180.251" ypos="31.6771" zpos="344.306" type="general.puzzles_de_saut.ruines_de_la_banquise_brisee" GUID="J46IMSjL/EOuT4tHYWrQFA=="/>
+			<POI MapID="30" xpos="-173.197" ypos="32.1549" zpos="348.062" type="general.puzzles_de_saut.ruines_de_la_banquise_brisee" GUID="GZcL0nob30+xT/8zXNIEXA=="/>
+			<POI MapID="30" xpos="-178.028" ypos="32.9936" zpos="353.981" type="general.puzzles_de_saut.ruines_de_la_banquise_brisee" GUID="HyBiEFYv5Eq0rlkrKoSsxw=="/>
+			<POI MapID="30" xpos="-183.261" ypos="33.632" zpos="358.313" type="general.puzzles_de_saut.ruines_de_la_banquise_brisee" GUID="f4qWIiBUT0KuP3OL0lXlGw=="/>
+			<POI MapID="30" xpos="-174.737" ypos="34.541" zpos="359.892" type="general.puzzles_de_saut.ruines_de_la_banquise_brisee" GUID="/j4b78Cj10GRKWwfXKfA5g=="/>
+			<POI MapID="30" xpos="-174.478" ypos="35.6129" zpos="369.951" type="general.puzzles_de_saut.ruines_de_la_banquise_brisee" GUID="uI6wgd52mkODRe7zp0bRZg=="/>
+			<POI MapID="30" xpos="-183.136" ypos="41.3848" zpos="373.336" type="general.puzzles_de_saut.ruines_de_la_banquise_brisee" GUID="SKyOhNPi+E+K4BLH97V28Q=="/>
+			<POI MapID="30" xpos="-180.307" ypos="42.6694" zpos="367.704" type="general.puzzles_de_saut.ruines_de_la_banquise_brisee" GUID="THSQEfBu/ke7Z1Ky6Ed91Q=="/>
+			<POI MapID="30" xpos="-173.859" ypos="43.8964" zpos="363.596" type="general.puzzles_de_saut.ruines_de_la_banquise_brisee" GUID="SWOMT/SfNUezonbpVDHQVA=="/>
+			<POI MapID="30" xpos="-170.138" ypos="44.9791" zpos="372.393" type="general.puzzles_de_saut.ruines_de_la_banquise_brisee" GUID="jPjqnl2pI0mTU441T4yMfw=="/>
+			<POI MapID="30" xpos="-177.291" ypos="46.7905" zpos="377.706" type="general.puzzles_de_saut.ruines_de_la_banquise_brisee" GUID="rFq0OIkLS0GK4VAqBHFCCQ=="/>
+			<POI MapID="30" xpos="-182.551" ypos="47.1449" zpos="372.218" type="general.puzzles_de_saut.ruines_de_la_banquise_brisee" GUID="4jOtYfYP6kinTYnW+S6bbg=="/>
+			<POI MapID="30" xpos="-177.882" ypos="48.0871" zpos="367.141" type="general.puzzles_de_saut.ruines_de_la_banquise_brisee" GUID="3oRiP0EUUk6qM+FAQiX4FA=="/>
+			<POI MapID="30" xpos="-182.585" ypos="51.1567" zpos="365.261" type="general.puzzles_de_saut.ruines_de_la_banquise_brisee" GUID="lxVF3JZ1m0qyW2dOQBdszQ=="/>
+			<POI MapID="30" xpos="-183.237" ypos="52.8134" zpos="371.341" type="general.puzzles_de_saut.ruines_de_la_banquise_brisee" GUID="zLgtWwYzhU6NQBuKmH5ctw=="/>
+			<POI MapID="30" xpos="-173.951" ypos="52.6646" zpos="377.528" type="general.puzzles_de_saut.ruines_de_la_banquise_brisee" GUID="5GbKwG0Bf020IF294gJg3A=="/>
+		</Route>
+
+		<!-- Coffre -->
+		<POI MapID="30" xpos="-166.717" ypos="54.1604" zpos="374.905" type="general.puzzles_de_saut.ruines_de_la_banquise_brisee" GUID="LzgvJzz12kSPaX+s2RSu1A==" iconFile="Img\CoffrePuzzle.png" iconSize="1" heightOffset="2.5" behavior="2"/>
+
+	</POIs>
+</OverlayData>

@@ -1,0 +1,397 @@
+<!-- 2020.06.09 -->
+<OverlayData>
+	<POIs>
+
+	<!-- ASCALON -->
+
+		<!-- Branded Mine - Mine stigmatisée -->
+		<Trail type="general.ascalon.branded_mine" GUID="vBenmAnloEm2asIlNT3sdw==" trailData="Data/General/JumpingPuzzles/BrandedMine.trl" texture="Data/Arrow.png" color="ff00ff00" alpha="0.7" fadeNear="1500" fadeFar="2000" animSpeed="1" mapDisplaySize="20"/>
+		<POI MapID="21" xpos="-759.19"  ypos="26.35"   zpos="584.09"  type="general.ascalon.branded_mine" GUID="lZcrGlvYHE+inr/SzlDS/w==" iconFile="Img/General/PuzzleStart.png" heightOffset="1.5"/>
+		<POI MapID="21" xpos="-928.727" ypos="51.6522" zpos="549.342" type="general.ascalon.branded_mine" GUID="6TtG7D5j0kCzKZ9eFenRmA==" iconFile="Img/General/PuzzleChest.png" minSize="12" heightOffset="3" behavior="2"/>
+
+		<!-- Behem Gauntlet - Défi de Behem -->
+		<Trail type="general.ascalon.behem_gauntlet" GUID="oj7kWGAdH0mrRPCSpgEUfg==" trailData="Data/General/JumpingPuzzles/BehemGauntlet.trl" texture="Data/Arrow.png" color="ff00ff00" alpha="0.7" fadeNear="1500" fadeFar="2000" animSpeed="1" mapDisplaySize="20"/>
+		<POI MapID="20" xpos="254.262" ypos="76.6018" zpos="-588.288" type="general.ascalon.behem_gauntlet" GUID="bqcvLrNaqEycNo4rKyzJ8A==" iconFile="Img/General/PuzzleStart.png" heightOffset="1.5"/>
+		<POI MapID="20" xpos="571.21"  ypos="19.15"   zpos="-520.98"  type="general.ascalon.behem_gauntlet" GUID="AYZo5+eJOECHOIJvIG7V0A==" iconFile="Img/General/PuzzleChest.png" minSize="12" heightOffset="2.5" behavior="2"/>
+
+		<!-- Chaos Crystal Cavern - Grotte du cristal du chaos -->
+		<Trail type="general.ascalon.chaos_crystal_cavern" GUID="HaS5WFUviEKOPOcS4L/uUw==" trailData="Data/General/JumpingPuzzles/ChaosCrystalCavern.trl" texture="Data/Arrow.png" color="ff00ff00" alpha="0.7" fadeNear="1500" fadeFar="2000" animSpeed="1" mapDisplaySize="20"/>
+		<POI MapID="25" xpos="-499.09"  ypos="54.57"  zpos="-961.82"  type="general.ascalon.chaos_crystal_cavern" GUID="2it4T7NtkUCVJtyj2iQfVw==" iconFile="Img/General/PuzzleStart.png" heightOffset="1.5"/>
+		<POI MapID="25" xpos="-573.576" ypos="9.1651" zpos="-769.642" type="general.ascalon.chaos_crystal_cavern" GUID="EVqoVT2UO0yZ/6ToYZTp8w==" iconFile="Img/General/PuzzleChest.png" minSize="12" heightOffset="2.5" behavior="2"/>
+
+		<!-- Craze's Folly - La Folie de Delirius -->
+		<Trail type="general.ascalon.craze_s_folly" GUID="MrptFsmN4E6HSuQWzHp48w==" trailData="Data/General/JumpingPuzzles/CrazesFolly.trl" texture="Data/Arrow.png" color="ff00ff00" alpha="0.7" fadeNear="1500" fadeFar="2000" animSpeed="1" mapDisplaySize="20"/>
+		<POI MapID="20" xpos="382.269" ypos="38.7326" zpos="956.613" type="general.ascalon.craze_s_folly" GUID="x5HuB4yerkSBQ82Q44aunw==" iconFile="Img/General/PuzzleStart.png" heightOffset="1.5"/>
+		<POI MapID="20" xpos="348.089" ypos="55.545"  zpos="1134.79" type="general.ascalon.craze_s_folly" GUID="ukXWRxMIeU+xHL/d6X5SOg==" iconFile="Img/General/PuzzleChest.png" minSize="12" heightOffset="2.5" behavior="2"/>
+
+		<!-- Crimson Plateau - Plateau cramoisi -->
+		<Trail type="general.ascalon.crimson_plateau" GUID="dm2p7GwL406BZG51RpQ0WA==" trailData="Data/General/JumpingPuzzles/CrimsonPlateau.trl" texture="Data/Arrow.png" color="ff00ff00" alpha="0.7" fadeNear="1500" fadeFar="2000" animSpeed="1" mapDisplaySize="20"/>
+		<POI MapID="32" xpos="568.21"  ypos="25.44"   zpos="-366.81"  type="general.ascalon.crimson_plateau" GUID="NHgxPy8T9UmhePPn/6axwQ==" iconFile="Img/General/PuzzleStart.png" heightOffset="1.5"/>
+		<POI MapID="32" xpos="463.186" ypos="66.6657" zpos="-382.409" type="general.ascalon.crimson_plateau" GUID="XGKJX4zhBkeJdBkUJAD0Fg==" iconFile="Img/General/PuzzleChest.png" minSize="12" heightOffset="3" behavior="2"/>
+
+		<!-- Grendich Gamble - Saut de Grendich -->
+		<Trail type="general.ascalon.grendich_gamble" GUID="Cnfr7ztd+Ee8B3KPE0U54w==" trailData="Data/General/JumpingPuzzles/GrendichGamble.trl" texture="Data/Arrow.png" color="ff00ff00" alpha="0.7" fadeNear="1500" fadeFar="2000" animSpeed="1" mapDisplaySize="20"/>
+		<POI MapID="32" xpos="-124.59" ypos="42.47"   zpos="110.15"  type="general.ascalon.grendich_gamble" GUID="vT5WwvjHwk2OSTlrvS8QQQ==" iconFile="Img/General/PuzzleStart.png" heightOffset="1.5"/>
+		<POI MapID="32" xpos="-102.56" ypos="55.3955" zpos="111.798" type="general.ascalon.grendich_gamble" GUID="g39fIUJbk0q/+Q2yfaBJ4g==" iconFile="Img/Signs/Jump.png"          minSize="8" maxSize="16" fadeNear="800" fadeFar="1500" heightOffset="0.5" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="32" xpos="-109.78" ypos="57.9056" zpos="98.6886" type="general.ascalon.grendich_gamble" GUID="b7QH5W1Kp0uhH0y4pvG8bg==" iconFile="Img/Signs/Jump.png"          minSize="8" maxSize="16" fadeNear="800" fadeFar="1500" heightOffset="0.5" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="32" xpos="-105.18" ypos="77.2351" zpos="114.996" type="general.ascalon.grendich_gamble" GUID="ztSPkDHFmUOToMcS/lHdNw==" iconFile="Img/Icons/Fight.png"         fadeNear="1500" fadeFar="2000" mapVisibility="0" miniMapVisibility="0"/>
+
+		<!-- Loreclaw Expanse - Étendue de Fablegriffe -->
+		<Trail type="general.ascalon.loreclaw_expanse" GUID="QFRlhWgbnUiNJ7nyDpwxbA==" trailData="Data/General/JumpingPuzzles/LoreclawExpanse.trl" texture="Data/Arrow.png" color="ff00ff00" alpha="0.7" fadeNear="1500" fadeFar="2000" animSpeed="1" mapDisplaySize="20"/>
+		<POI MapID="19" xpos="809.37"  ypos="5.81747" zpos="-506.749" type="general.ascalon.loreclaw_expanse" GUID="2zuR02SBi0aZTgB4/X7E1w==" iconFile="Img/General/PuzzleStart.png" heightOffset="1.5"/>
+		<POI MapID="19" xpos="1027.61" ypos="53.4906" zpos="-597.925" type="general.ascalon.loreclaw_expanse" GUID="w/XSZzTEg0CYloEQ9o1M/g==" iconFile="Img/General/PuzzleChest.png" minSize="12" heightOffset="3" behavior="2"/>
+		<POI MapID="19" xpos="896.216" ypos="51.7421" zpos="-595.051" type="general.ascalon.loreclaw_expanse" GUID="risOmV5k60a5YQcY7ek0Dw==" iconFile="Img/Signs/Rockfall.png"      minSize="8" maxSize="16" fadeNear="1500" fadeFar="2000" heightOffset="0.5" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="19" xpos="896.175" ypos="49.2418" zpos="-591.334" type="general.ascalon.loreclaw_expanse" GUID="tuPb2ZaFFk66Qd8VGv3Dpg==" iconFile="Img/Signs/Rockfall.png"      minSize="8" maxSize="16" fadeNear="1500" fadeFar="2000" heightOffset="0.5" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="19" xpos="896.233" ypos="47.1582" zpos="-588.236" type="general.ascalon.loreclaw_expanse" GUID="tfpSRYWvqkCufeU7VN0MVw==" iconFile="Img/Signs/Rockfall.png"      minSize="8" maxSize="16" fadeNear="1500" fadeFar="2000" heightOffset="0.5" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="19" xpos="896.267" ypos="44.6669" zpos="-584.153" type="general.ascalon.loreclaw_expanse" GUID="qMcereMBBU+Ma8ZRZYWqIw==" iconFile="Img/Signs/Rockfall.png"      minSize="8" maxSize="16" fadeNear="1500" fadeFar="2000" heightOffset="0.5" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="19" xpos="896.295" ypos="42.3746" zpos="-580.745" type="general.ascalon.loreclaw_expanse" GUID="VkKR0ULa6ESjkwBSnwiO9Q==" iconFile="Img/Signs/Rockfall.png"      minSize="8" maxSize="16" fadeNear="1500" fadeFar="2000" heightOffset="0.5" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="19" xpos="932.342" ypos="51.9522" zpos="-584.635" type="general.ascalon.loreclaw_expanse" GUID="TQvV6ESL90WJWAjpOnp03Q==" iconFile="Img/Signs/Jump.png"          minSize="8" maxSize="16" fadeNear="1500" fadeFar="2000" heightOffset="0.5" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="19" xpos="937.989" ypos="51.7237" zpos="-582.473" type="general.ascalon.loreclaw_expanse" GUID="FW2240CpE063aHFxXTY2RQ==" iconFile="Img/Icons/Jump.png"          minSize="8" maxSize="16" fadeNear="1500" fadeFar="2000" heightOffset="0.5" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="19" xpos="978.93"  ypos="54.0687" zpos="-587.95"  type="general.ascalon.loreclaw_expanse" GUID="rsAX1XqMg0aMETWWB4CFhQ==" iconFile="Img/Icons/Interaction.png"   minSize="8" maxSize="16" fadeNear="1500" fadeFar="2000" heightOffset="0.5" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="19" xpos="979.88"  ypos="54.5363" zpos="-587.883" type="general.ascalon.loreclaw_expanse" GUID="pLyiRB4DsUuFb6KeTjqv4Q==" iconFile="Img/Icons/Fight.png"         fadeNear="1500" fadeFar="2000" heightOffset="0.5" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="19" xpos="970.708" ypos="66.2234" zpos="-580.697" type="general.ascalon.loreclaw_expanse" GUID="cpRbvSDux02u6QFWSQ7kWg==" iconFile="Img/Icons/Interaction.png"   minSize="8" maxSize="16" fadeNear="1500" fadeFar="2000" heightOffset="0.5" mapVisibility="0" miniMapVisibility="0"/>
+
+		<!-- Pig Iron Quarry - La Carrière de fonte brute -->
+		<Trail type="general.ascalon.pig_iron_quarry" GUID="tpjhu0QrCkOVzEUWAdHWww==" trailData="Data/General/JumpingPuzzles/PigIronQuarry.trl" texture="Data/Arrow.png" color="ff00ff00" alpha="0.7" fadeNear="1500" fadeFar="2000" animSpeed="1" mapDisplaySize="20"/>
+		<POI MapID="22" xpos="307.06" ypos="0.222927" zpos="-521.776" type="general.ascalon.pig_iron_quarry" GUID="0N7xp1ZE2kS+Xl4y3pKvRw==" iconFile="Img/General/PuzzleStart.png" heightOffset="1.5"/>
+		<POI MapID="22" xpos="475.542" ypos="36.2506" zpos="-665.013" type="general.ascalon.pig_iron_quarry" GUID="r1Ynvi9SvkmDpB8Xxzr3aw==" iconFile="Img/General/PuzzleChest.png" minSize="12" heightOffset="3" behavior="2"/>
+
+		<!-- Wall Breach Blitz - Brèche du mur en folie -->
+		<Trail type="general.ascalon.wall_breach_blitz" GUID="qZyTIopwxEGvzV8XzjSdOw==" trailData="Data/General/JumpingPuzzles/WallBreachBlitz.trl" texture="Data/Arrow.png" color="ff00ff00" alpha="0.7" fadeNear="1500" fadeFar="2000" animSpeed="1" mapDisplaySize="20"/>
+		<POI MapID="32" xpos="115.263" ypos="28.9689" zpos="-585.666" type="general.ascalon.wall_breach_blitz" GUID="egXRsvMYdki/+gR98g616g==" iconFile="Img/General/PuzzleStart.png" heightOffset="1.5"/>
+		<POI MapID="32" xpos="360.388" ypos="58.6717" zpos="-563.721" type="general.ascalon.wall_breach_blitz" GUID="ftnRcwXj50egto/GdW9MKg==" iconFile="Img/Signs/Jump.png"          minSize="8" maxSize="16" alpha="0.7" fadeNear="1500" fadeFar="2000" heightOffset="0.5" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="32" xpos="368.68"  ypos="61.23"   zpos="-565.58"  type="general.ascalon.wall_breach_blitz" GUID="mRMvEGg1RUaSngph60AeHA==" iconFile="Img/Icons/Fight.png"         fadeNear="1500" fadeFar="2000" mapVisibility="0" miniMapVisibility="0"/>
+
+
+	<!-- SHIVERPEAK -->
+
+		<!-- Coddler's Cove - Gorge du dorloteur -->
+		<Trail type="general.shiverpeak.coddler_s_cove" GUID="KH/ZLp2fw0+O/HyB/mF1Fg==" trailData="Data/General/JumpingPuzzles/CoddlersCove.trl" texture="Data/Arrow.png" color="ff00ff00" alpha="0.7" fadeNear="1500" fadeFar="2000" animSpeed="1" mapDisplaySize="20"/>
+		<POI MapID="29" xpos="352.99"  ypos="5.45"    zpos="-845.43"  type="general.shiverpeak.coddler_s_cove" GUID="AdUCH7uIL0G2H9z8OmXmBA==" iconFile="Img/General/PuzzleStart.png" heightOffset="1.5"/>
+		<POI MapID="29" xpos="298.301" ypos="29.7282" zpos="-912.574" type="general.shiverpeak.coddler_s_cove" GUID="FK0ca5KXLECoekz7uMyaRg==" iconFile="Img/General/PuzzleChest.png" minSize="12" heightOffset="2" behavior="2"/>
+
+		<!-- Griffonrook Run - Piste de Griffonroc -->
+		<Trail type="general.shiverpeak.griffonrook_run" GUID="qJLk89GjmkuXkq/NqOZi5A==" trailData="Data/General/JumpingPuzzles/GriffonrookRun.trl" texture="Data/Arrow.png" color="ff00ff00" alpha="0.7" fadeNear="1500" fadeFar="2000" animSpeed="1" mapDisplaySize="20"/>
+		<POI MapID="27" xpos="-261.368" ypos="0.285115" zpos="-815.543" type="general.shiverpeak.griffonrook_run" GUID="pB5QgOMmi0+qIip2bvSP5Q==" iconFile="Img/General/PuzzleStart.png" heightOffset="1.5"/>
+		<POI MapID="27" xpos="-370.088" ypos="106.776"  zpos="-753.663" type="general.shiverpeak.griffonrook_run" GUID="L+SPy2i1okKglny6IlKyAg==" iconFile="Img/General/PuzzleChest.png" minSize="12" heightOffset="2" behavior="2"/>
+		<POI MapID="27" xpos="-477.474" ypos="0.539721" zpos="-650.254" type="general.shiverpeak.griffonrook_run" GUID="GRTbHq+3TEiG4Q4Bbp+i7A==" iconFile="Img/Icons/Interaction.png"   fadeNear="1500" fadeFar="2000" heightOffset="0.5" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="27" xpos="-488.072" ypos="87.5631"  zpos="-735.461" type="general.shiverpeak.griffonrook_run" GUID="2PbK2Y3qs0Os8GiZ/h07LQ==" iconFile="Img/Icons/Chest.png"         fadeNear="1500" fadeFar="2000" heightOffset="0.5" mapVisibility="0" miniMapVisibility="0"/>
+
+		<!-- King Jali's Refuge - Refuge du roi Jalis -->
+		<Trail type="general.shiverpeak.king_jali_s_refuge" GUID="odrwR5+820iRl9kwzS8JfQ==" trailData="Data/General/JumpingPuzzles/KingJalissRefuge.trl" texture="Data/Arrow.png" color="ff00ff00" alpha="0.7" fadeNear="1500" fadeFar="2000" animSpeed="1" mapDisplaySize="20"/>
+		<POI MapID="31" xpos="1070.54" ypos="60.1513" zpos="-3.33377" type="general.shiverpeak.king_jali_s_refuge" GUID="8MEUwnwiGEOoA90Kux//Ww==" iconFile="Img/General/PuzzleStart.png" heightOffset="1.5"/>
+		<POI MapID="31" xpos="1224.88" ypos="28.6933" zpos="151.724"  type="general.shiverpeak.king_jali_s_refuge" GUID="8hcJ2PkWDUy2ZMy/+dH2Jg==" iconFile="Img/General/PuzzleChest.png" minSize="12" heightOffset="2" behavior="2"/>
+		<POI MapID="31" xpos="1222.05" ypos="21.77"   zpos="128.94"   type="general.shiverpeak.king_jali_s_refuge" GUID="zDYg/XVWbUWprnLiW1SSgw==" iconFile="Img/Icons/Fight.png"         fadeNear="1500" fadeFar="2000" heightOffset="0.5" mapVisibility="0" miniMapVisibility="0"/>
+
+		<!-- Only Zuhl - Zuhl au monde -->
+		<Trail type="general.shiverpeak.only_zuhl" GUID="r9QI0gk7d0uPoJCrub06rg==" trailData="Data/General/JumpingPuzzles/OnlyZuhl.trl" texture="Data/Arrow.png" color="ff00ff00" alpha="0.7" fadeNear="1500" fadeFar="2000" animSpeed="1" mapDisplaySize="20"/>
+		<POI MapID="29" xpos="601.214" ypos="28.0115" zpos="574.057" type="general.shiverpeak.only_zuhl" GUID="gAt+XkCq/0W/fQn01pGL7g==" iconFile="Img/General/PuzzleStart.png" heightOffset="1.5"/>
+		<POI MapID="29" xpos="667.163" ypos="27.1571" zpos="1005.35" type="general.shiverpeak.only_zuhl" GUID="eBEkjXNBt0CQOFGOaeV0zQ==" iconFile="Img/General/PuzzleChest.png" minSize="12" heightOffset="2.5" behavior="2"/>
+		<POI MapID="29" xpos="618.266" ypos="22.8977" zpos="883.557" type="general.shiverpeak.only_zuhl" GUID="1fkV2Jo6dUSp0GmF+vOvEQ==" iconFile="Img/Icons/Interaction.png"   minSize="8" maxSize="16" fadeNear="1500" fadeFar="2000" heightOffset="0.5" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="29" xpos="526.048" ypos="52.3433" zpos="898.632" type="general.shiverpeak.only_zuhl" GUID="RXaEhzbdmUy5dvyY3AdeEQ==" iconFile="Img/Icons/Chest.png"         fadeNear="1500" fadeFar="2000" heightOffset="0.5" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="29" xpos="662.341" ypos="21.4141" zpos="985.232" type="general.shiverpeak.only_zuhl" GUID="SKF9HPKzc06SevO+VpXo9A==" iconFile="Img/Icons/Fight.png"         fadeNear="1500" fadeFar="2000" heightOffset="0.5" mapVisibility="0" miniMapVisibility="0"/>
+
+		<!-- Shaman's Rookery - Perchoir des chamanes -->
+		<Trail type="general.shiverpeak.shaman_s_rookery" GUID="tkes6jP+KUGOXkW1WBzZ0Q==" trailData="Data/General/JumpingPuzzles/ShamansRookery.trl" texture="Data/Arrow.png" color="ff00ff00" alpha="0.7" fadeNear="1500" fadeFar="2000" animSpeed="1" mapDisplaySize="20"/>
+		<POI MapID="28" xpos="-368.77"  ypos="105.9"   zpos="-11.48"  type="general.shiverpeak.shaman_s_rookery" GUID="0eOVIvZGA0uBz2ipTGFKGg==" iconFile="Img/General/PuzzleStart.png" heightOffset="1.5"/>
+		<POI MapID="28" xpos="-506.938" ypos="105.188" zpos="49.6966" type="general.shiverpeak.shaman_s_rookery" GUID="zVYeo5rhhUmBT9T03HRHJA==" iconFile="Img/General/PuzzleChest.png" minSize="12" heightOffset="2.5" behavior="2"/>
+		<POI MapID="28" xpos="-510.32"  ypos="102.719" zpos="31.1895" type="general.shiverpeak.shaman_s_rookery" GUID="9RI3xg5ln02P4kE2ysvhsA==" iconFile="Img/Icons/Fight.png"         fadeNear="1500" fadeFar="2000" heightOffset="0.5" mapVisibility="0" miniMapVisibility="0"/>
+
+		<!-- Shattered Ice Ruins - Ruines de la banquise brisée -->
+		<Trail type="general.shiverpeak.shattered_ice_ruins" GUID="ToedCM1VcUuQYVrcgSWr0w==" trailData="Data/General/JumpingPuzzles/ShatteredIceRuins.trl" texture="Data/Arrow.png" color="ff00ff00" alpha="0.7" fadeNear="1500" fadeFar="2000" animSpeed="1" mapDisplaySize="20"/>
+		<POI MapID="30" xpos="-118.332" ypos="-30.056" zpos="376.816" type="general.shiverpeak.shattered_ice_ruins" GUID="UO2/BAaYi0GNbaZPVAm1MQ==" iconFile="Img/General/PuzzleStart.png" heightOffset="1.5"/>
+		<POI MapID="30" xpos="-166.717" ypos="54.1604" zpos="374.905" type="general.shiverpeak.shattered_ice_ruins" GUID="LzgvJzz12kSPaX+s2RSu1A==" iconFile="Img/General/PuzzleChest.png" minSize="12" heightOffset="2.5" behavior="2"/>
+
+		<!-- Tribulation Caverns - Tribulations caverneuses -->
+		<Trail type="general.shiverpeak.tribulation_caverns" GUID="3W0xrK3el0O3IFu/gvFntQ==" trailData="Data/General/JumpingPuzzles/TribulationCaverns.trl" texture="Data/Arrow.png" color="ff00ff00" alpha="0.7" fadeNear="1500" fadeFar="2000" animSpeed="1" mapDisplaySize="20"/>
+		<POI MapID="26" xpos="-477.169" ypos="4.47669" zpos="-802.888" type="general.shiverpeak.tribulation_caverns" GUID="E55fex1Cg0aIFcAHROdstQ==" iconFile="Img/General/PuzzleStart.png" heightOffset="1.5"/>
+		<POI MapID="26" xpos="-625.86"  ypos="88.5718" zpos="-625.121" type="general.shiverpeak.tribulation_caverns" GUID="neTUM4qfLEmfDNAdIPsvjw==" iconFile="Img/General/PuzzleChest.png" minSize="12" heightOffset="2.5" behavior="2"/>
+
+		<!-- Tribulation Rift Scaffolding - Ascension de la faille de la tribulation -->
+		<Trail type="general.shiverpeak.tribulation_rift_scaffolding" GUID="xgEkdLr7uUSgb8HfHUjTRg==" trailData="Data/General/JumpingPuzzles/TribulationRiftScaffolding.trl" texture="Data/Arrow.png" color="ff00ff00" alpha="0.7" fadeNear="1500" fadeFar="2000" animSpeed="1" mapDisplaySize="20"/>
+		<POI MapID="26" xpos="-477.169" ypos="4.47669" zpos="-802.888" type="general.shiverpeak.tribulation_rift_scaffolding" GUID="Z64hEUm15UWBPO6nhnUjxw==" iconFile="Img/General/PuzzleStart.png" heightOffset="1.5"/>
+		<POI MapID="26" xpos="-582.278" ypos="67.6636" zpos="-837.102" type="general.shiverpeak.tribulation_rift_scaffolding" GUID="xaOgGSTyn0aWmyDIU/VW7Q==" iconFile="Img/General/PuzzleChest.png" minSize="12" heightOffset="2.5" behavior="2"/>
+
+
+	<!-- MAGUUMA JUNGLE -->
+
+		<!-- Conundrum Cubed - Énigme au carré -->
+		<Trail type="general.maguuma_jungle.conundrum_cubed" GUID="WB6Jkr7C6EuGB46gaLQ5Hg==" trailData="Data/General/JumpingPuzzles/ConundrumCubed.trl" texture="Data/Arrow.png" color="ff00ff00" alpha="0.7" fadeNear="1500" fadeFar="2000" animSpeed="1" mapDisplaySize="20"/>
+		<POI MapID="39" xpos="-1070.82" ypos="46"      zpos="619.42"  type="general.maguuma_jungle.conundrum_cubed" GUID="B2KuNF8B6EqxcudWRhKPkg==" iconFile="Img/General/PuzzleStart.png" heightOffset="1.5"/>
+		<POI MapID="39" xpos="-1134.58" ypos="84.715"  zpos="753.013" type="general.maguuma_jungle.conundrum_cubed" GUID="1W+9jlmWOkyjWabllgmt9Q==" iconFile="Img/General/PuzzleChest.png" minSize="12" heightOffset="2.5" behavior="2"/>
+		<POI MapID="39" xpos="-1118.83" ypos="30.3882" zpos="697.501" type="general.maguuma_jungle.conundrum_cubed" GUID="QPeF/KVLqUKpx88abfMGRg==" iconFile="Img/Signs/Spike.png"         minSize="10" maxSize="16" alpha="0.7" fadeNear="1500" fadeFar="2000" heightOffset="0" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="39" xpos="-1121.81" ypos="31.2276" zpos="693.325" type="general.maguuma_jungle.conundrum_cubed" GUID="UkodVfsri0GwZGMTyo1eXg==" iconFile="Img/Signs/Spike.png"         minSize="10" maxSize="16" alpha="0.7" fadeNear="1500" fadeFar="2000" heightOffset="0" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="39" xpos="-1123.64" ypos="33.6875" zpos="691.801" type="general.maguuma_jungle.conundrum_cubed" GUID="6UhRQxa0ok+cB0Q3l3GymQ==" iconFile="Img/Signs/Spike.png"         minSize="10" maxSize="16" alpha="0.7" fadeNear="1500" fadeFar="2000" heightOffset="0" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="39" xpos="-1149.83" ypos="40.0755" zpos="713.603" type="general.maguuma_jungle.conundrum_cubed" GUID="2ad0znPx00mDTqzitmstvw==" iconFile="Img/icons/Run.png"           minSize="10" maxSize="16" fadeNear="1500" fadeFar="2000" heightOffset="0.5" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="39" xpos="-1152.03" ypos="40.0755" zpos="703.768" type="general.maguuma_jungle.conundrum_cubed" GUID="8JfaKIikLkmOiBsBaii5yw==" iconFile="Img/icons/Run.png"           minSize="10" maxSize="16" fadeNear="1500" fadeFar="2000" heightOffset="0.5" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="39" xpos="-1078.67" ypos="50.0665" zpos="715.022" type="general.maguuma_jungle.conundrum_cubed" GUID="YBdnwBpwnUeOhyvWG0hh/Q==" iconFile="Img/Signs/Spike.png"         minSize="10" maxSize="16" alpha="0.7" fadeNear="1500" fadeFar="2000" heightOffset="0" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="39" xpos="-1084.55" ypos="51.1183" zpos="716.382" type="general.maguuma_jungle.conundrum_cubed" GUID="fy4tXXs/L0iAJ3SlODHfXQ==" iconFile="Img/Signs/Spike.png"         minSize="10" maxSize="16" alpha="0.7" fadeNear="1500" fadeFar="2000" heightOffset="0" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="39" xpos="-1088.07" ypos="52.7036" zpos="720.8"   type="general.maguuma_jungle.conundrum_cubed" GUID="7r2m3YrxakS5SLPj/GAjrw==" iconFile="Img/Signs/Spike.png"         minSize="10" maxSize="16" alpha="0.7" fadeNear="1500" fadeFar="2000" heightOffset="0" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="39" xpos="-1091.04" ypos="51.7735" zpos="723.859" type="general.maguuma_jungle.conundrum_cubed" GUID="vCaj+P40jEKzduqIgSGoaw==" iconFile="Img/Signs/Spike.png"         minSize="10" maxSize="16" alpha="0.7" fadeNear="1500" fadeFar="2000" heightOffset="0" mapVisibility="0" miniMapVisibility="0"/>
+
+		<!-- Dark Reverie - Rêverie cauchemardesque -->
+		<Trail type="general.maguuma_jungle.dark_reverie" GUID="+TlbE4GKrU6/YOyqR4m7pQ==" trailData="Data/General/JumpingPuzzles/DarkReverie.trl" texture="Data/Arrow.png" color="ff00ff00" alpha="0.7" fadeNear="1500" fadeFar="2000" animSpeed="1" mapDisplaySize="20"/>
+		<POI MapID="34" xpos="475.27"  ypos="0.64"    zpos="-711.06"  type="general.maguuma_jungle.dark_reverie" GUID="LbNWkCPjQEiPbcN9KfhKqA==" iconFile="Img/General/PuzzleStart.png" heightOffset="1.5"/>
+		<POI MapID="34" xpos="296.409" ypos="66.9896" zpos="-531.927" type="general.maguuma_jungle.dark_reverie" GUID="DGpphYh/S06yu1aZUAtYog==" iconFile="Img/General/PuzzleChest.png" minSize="12" heightOffset="2.5" behavior="2"/>
+
+		<!-- Goemm's Lab - Laboratoire de Goemm -->
+		<Trail type="general.maguuma_jungle.goemm_s_lab" GUID="cBp0oEwBdk6MFlA3xy4xyA==" trailData="Data/General/JumpingPuzzles/GoemmsLab.trl" texture="Data/Arrow.png" color="ff00ff00" alpha="0.7" fadeNear="1500" fadeFar="2000" animSpeed="1" mapDisplaySize="20"/>
+		<POI MapID="35" xpos="632.157" ypos="29.7332" zpos="-94.0035" type="general.maguuma_jungle.goemm_s_lab" GUID="c4uNF+BytEaz56/SASkmOQ==" iconFile="Img/General/PuzzleStart.png" heightOffset="1.5"/>
+		<POI MapID="35" xpos="567.052" ypos="557.564" zpos="746.66"   type="general.maguuma_jungle.goemm_s_lab" GUID="4P0Hp5grHkmJWUvmcQ/6+Q==" iconFile="Img/General/PuzzleChest.png" minSize="12" heightOffset="2.5" behavior="2"/>
+		<POI MapID="35" xpos="504.571" ypos="247.013" zpos="539.941"  type="general.maguuma_jungle.goemm_s_lab" GUID="U+MKhEn7qk6CQyG7DfZIcA==" iconFile="Img/Icons/Interaction.png"   minSize="8" maxSize="16" fadeNear="1500" fadeFar="2000" heightOffset="0.5" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="35" xpos="535.547" ypos="274.529" zpos="614.226"  type="general.maguuma_jungle.goemm_s_lab" GUID="e1k9lCN2BUuVJiPkIoItiA==" iconFile="Img/Signs/Wind.png"          minSize="8" maxSize="16" fadeNear="1500" fadeFar="2000" heightOffset="0.5" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="35" xpos="529.64"  ypos="274.119" zpos="617.198"  type="general.maguuma_jungle.goemm_s_lab" GUID="IZlTieaaL02Ni/eI7eaBQQ==" iconFile="Img/Icons/SpotSafe.png"      minSize="8" maxSize="16" fadeNear="1500" fadeFar="2000" heightOffset="0.5" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="35" xpos="521.022" ypos="274.539" zpos="621.527"  type="general.maguuma_jungle.goemm_s_lab" GUID="uD4qG/9D1kuNh6uCOqchRA==" iconFile="Img/Icons/SpotSafe.png"      minSize="8" maxSize="16" fadeNear="1500" fadeFar="2000" heightOffset="0.5" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="35" xpos="494.258" ypos="274.97"  zpos="632.274"  type="general.maguuma_jungle.goemm_s_lab" GUID="y0hb9yW2UU28ObzXAlmFnQ==" iconFile="Img/Signs/Wind.png"          minSize="8" maxSize="16" fadeNear="1500" fadeFar="2000" heightOffset="0.5" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="35" xpos="439.579" ypos="357.854" zpos="785.487"  type="general.maguuma_jungle.goemm_s_lab" GUID="5dyC8RHVG0ONn7UVByfDEQ==" iconFile="Img/Signs/Thunder.png"       minSize="8" maxSize="16" fadeNear="1500" fadeFar="2000" heightOffset="0.5" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="35" xpos="441.307" ypos="354.476" zpos="793.13"   type="general.maguuma_jungle.goemm_s_lab" GUID="EAYPRq6zpUqzx0SzHTr8Ng==" iconFile="Img/Signs/Thunder.png"       minSize="8" maxSize="16" fadeNear="1500" fadeFar="2000" heightOffset="0.5" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="35" xpos="447.907" ypos="353.616" zpos="797.138"  type="general.maguuma_jungle.goemm_s_lab" GUID="hOxjQDYRI0OtgqPvxLXWRQ==" iconFile="Img/Signs/Thunder.png"       minSize="8" maxSize="16" fadeNear="1500" fadeFar="2000" heightOffset="0.5" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="35" xpos="453.337" ypos="351.616" zpos="803.008"  type="general.maguuma_jungle.goemm_s_lab" GUID="3yp8tHnWtkadpQ7onDdbbQ==" iconFile="Img/Signs/Thunder.png"       minSize="8" maxSize="16" fadeNear="1500" fadeFar="2000" heightOffset="0.5" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="35" xpos="451.681" ypos="350.94"  zpos="809.671"  type="general.maguuma_jungle.goemm_s_lab" GUID="LbNIAttWU0Stj/buMwD2kA==" iconFile="Img/Signs/Thunder.png"       minSize="8" maxSize="16" fadeNear="1500" fadeFar="2000" heightOffset="0.5" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="35" xpos="456.757" ypos="324.701" zpos="821.117"  type="general.maguuma_jungle.goemm_s_lab" GUID="cHPmkxko2EelzjDOD20iLA==" iconFile="Img/Signs/Slippy.png"        minSize="8" maxSize="16" fadeNear="1500" fadeFar="2000" heightOffset="0.5" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="35" xpos="444.609" ypos="316.215" zpos="853.663"  type="general.maguuma_jungle.goemm_s_lab" GUID="+iLGZOls2UOmcKwaSSiFtA==" iconFile="Img/Icons/Interaction.png"   minSize="8" maxSize="16" fadeNear="1500" fadeFar="2000" heightOffset="0.5" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="35" xpos="464.416" ypos="349.249" zpos="825.816"  type="general.maguuma_jungle.goemm_s_lab" GUID="mb8CVU150UOAY76RdRxS9A==" iconFile="Img/Icons/Jump.png"          fadeNear="1500" fadeFar="2000" heightOffset="0.5" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="35" xpos="447.079" ypos="333.01"  zpos="768.772"  type="general.maguuma_jungle.goemm_s_lab" GUID="jgm4W9x0gEy6N2133/4z5Q==" iconFile="Img/Signs/Wind.png"          minSize="8" maxSize="16" fadeNear="1500" fadeFar="2000" heightOffset="0" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="35" xpos="447.534" ypos="330.463" zpos="755.149"  type="general.maguuma_jungle.goemm_s_lab" GUID="K53gHnEC1UWkVth85z6qnA==" iconFile="Img/Signs/Thunder.png"       minSize="8" maxSize="16" fadeNear="1500" fadeFar="2000" heightOffset="0.5" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="35" xpos="453.598" ypos="330.035" zpos="750.175"  type="general.maguuma_jungle.goemm_s_lab" GUID="VGFns4Of+0mWu/BUd61gjg==" iconFile="Img/Signs/Thunder.png"       minSize="8" maxSize="16" fadeNear="1500" fadeFar="2000" heightOffset="0.5" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="35" xpos="461.195" ypos="329.17"  zpos="747.839"  type="general.maguuma_jungle.goemm_s_lab" GUID="GrYU25IKBE+cenyhBq+rMw==" iconFile="Img/Signs/Thunder.png"       minSize="8" maxSize="16" fadeNear="1500" fadeFar="2000" heightOffset="0.5" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="35" xpos="424.018" ypos="522.763" zpos="590.055"  type="general.maguuma_jungle.goemm_s_lab" GUID="4ksZc7x7AkGxSve0iXzdCw==" iconFile="Img/Signs/Danger.png"        minSize="8" maxSize="16" fadeNear="1500" fadeFar="2000" heightOffset="0" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="35" xpos="428.835" ypos="519.548" zpos="585.453"  type="general.maguuma_jungle.goemm_s_lab" GUID="E9IdJPJTuEK+JYxrDT69GQ==" iconFile="Img/Signs/Danger.png"        minSize="8" maxSize="16" fadeNear="1500" fadeFar="2000" heightOffset="0" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="35" xpos="436.109" ypos="516.093" zpos="580.72"   type="general.maguuma_jungle.goemm_s_lab" GUID="gczV8pcAqEuy5f3MlP5y0g==" iconFile="Img/Signs/Danger.png"        minSize="8" maxSize="16" fadeNear="1500" fadeFar="2000" heightOffset="0" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="35" xpos="438.691" ypos="515.329" zpos="574.672"  type="general.maguuma_jungle.goemm_s_lab" GUID="9+dFOpeNWkOt0P41ppfOeQ==" iconFile="Img/Signs/Danger.png"        minSize="8" maxSize="16" fadeNear="1500" fadeFar="2000" heightOffset="0" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="35" xpos="445.034" ypos="514.754" zpos="568.098"  type="general.maguuma_jungle.goemm_s_lab" GUID="r4Rw8ZsVFEum+fXgOsr5BQ==" iconFile="Img/Signs/Danger.png"        minSize="8" maxSize="16" fadeNear="1500" fadeFar="2000" heightOffset="0" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="35" xpos="450.795" ypos="512.62"  zpos="568.843"  type="general.maguuma_jungle.goemm_s_lab" GUID="DtGZrbVsZk+1RiUEP+jqWQ==" iconFile="Img/Signs/Danger.png"        minSize="8" maxSize="16" fadeNear="1500" fadeFar="2000" heightOffset="0" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="35" xpos="457.39"  ypos="512.228" zpos="562.711"  type="general.maguuma_jungle.goemm_s_lab" GUID="lA6vIgBvdES5i2MIb2EkAg==" iconFile="Img/Signs/Danger.png"        minSize="8" maxSize="16" fadeNear="1500" fadeFar="2000" heightOffset="0" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="35" xpos="480.959" ypos="509.859" zpos="551.859"  type="general.maguuma_jungle.goemm_s_lab" GUID="HUF0b+a5sUGNOPtypSQ5mw==" iconFile="Img/Signs/Wind.png"          minSize="8" maxSize="16" fadeNear="1500" fadeFar="2000" heightOffset="0" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="35" xpos="615.563" ypos="495.454" zpos="560.422"  type="general.maguuma_jungle.goemm_s_lab" GUID="4SwWoTL3HUaHETJ30Qs0CQ==" iconFile="Img/Icons/Interaction.png"   minSize="8" maxSize="16" fadeNear="1500" fadeFar="2000" heightOffset="0.5" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="35" xpos="502.738" ypos="516.44"  zpos="603.532"  type="general.maguuma_jungle.goemm_s_lab" GUID="xPBeY3x3aESuUUjBs5rFkQ==" iconFile="Img/Signs/Danger.png"        minSize="8" maxSize="16" fadeNear="1500" fadeFar="2000" heightOffset="0" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="35" xpos="508.233" ypos="513.744" zpos="609.001"  type="general.maguuma_jungle.goemm_s_lab" GUID="ry/nBluusUWkt2BoY6Kq2g==" iconFile="Img/Signs/Danger.png"        minSize="8" maxSize="16" fadeNear="1500" fadeFar="2000" heightOffset="0" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="35" xpos="515.502" ypos="513.365" zpos="612.276"  type="general.maguuma_jungle.goemm_s_lab" GUID="0STFFf46Uk2D8fiVRbZ7KQ==" iconFile="Img/Signs/Danger.png"        minSize="8" maxSize="16" fadeNear="1500" fadeFar="2000" heightOffset="0" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="35" xpos="522.397" ypos="512.881" zpos="616.214"  type="general.maguuma_jungle.goemm_s_lab" GUID="jVQnzXVA+Uq/TLmgaOFuow==" iconFile="Img/Signs/Danger.png"        minSize="8" maxSize="16" fadeNear="1500" fadeFar="2000" heightOffset="0" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="35" xpos="529.883" ypos="512.157" zpos="619.305"  type="general.maguuma_jungle.goemm_s_lab" GUID="1Qi3nCpJqUqZ5ZZdYCI5aw==" iconFile="Img/Signs/Danger.png"        minSize="8" maxSize="16" fadeNear="1500" fadeFar="2000" heightOffset="0" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="35" xpos="544.782" ypos="557.968" zpos="690.267"  type="general.maguuma_jungle.goemm_s_lab" GUID="1hTbxXzZQkSGkHw3eur64g==" iconFile="Img/Icons/Fight.png"         fadeNear="1500" fadeFar="2000" mapVisibility="0" miniMapVisibility="0"/>
+
+		<!-- Hexfoundry Unhinged - Hexfonderie désaxée -->
+		<Trail type="general.maguuma_jungle.hexfoundry_unhinged" GUID="0tj/2HLb7EaGh5tBcnrJrg==" trailData="Data/General/JumpingPuzzles/HexfoundryUnhinged1.trl" texture="Data/Arrow.png" color="ff00ff00" alpha="0.7" fadeNear="1500" fadeFar="2000" animSpeed="1" mapDisplaySize="20"/>
+		<Trail type="general.maguuma_jungle.hexfoundry_unhinged" GUID="LSYxT+E3gE+LoWIempp4lg==" trailData="Data/General/JumpingPuzzles/HexfoundryUnhinged2.trl" texture="Data/Arrow.png" color="ffdddd00" alpha="0.7" fadeNear="1500" fadeFar="2000" animSpeed="1" mapDisplaySize="20"/>
+		<Trail type="general.maguuma_jungle.hexfoundry_unhinged" GUID="e5vQEs4BuUqRmZsL1cHIbQ==" trailData="Data/General/JumpingPuzzles/HexfoundryUnhinged3.trl" texture="Data/Arrow.png" color="ffff8800" alpha="0.7" fadeNear="1500" fadeFar="2000" animSpeed="1" mapDisplaySize="20"/>
+		<Trail type="general.maguuma_jungle.hexfoundry_unhinged" GUID="PfeXDRx9fkyJg/B6wG+06Q==" trailData="Data/General/JumpingPuzzles/HexfoundryUnhinged4.trl" texture="Data/Arrow.png" color="ffdd0000" alpha="0.7" fadeNear="1500" fadeFar="2000" animSpeed="1" mapDisplaySize="20"/>
+		<POI MapID="53" xpos="619.46"  ypos="35.47"   zpos="-704.32"  type="general.maguuma_jungle.hexfoundry_unhinged" GUID="rBh2clVD9Emc5sd/KCo/og==" iconFile="Img/General/PuzzleStart.png" heightOffset="1.5"/>
+		<POI MapID="53" xpos="752.619" ypos="29.4615" zpos="-848.744" type="general.maguuma_jungle.hexfoundry_unhinged" GUID="ha5tpW1I5UafaQDXZIpMTg==" iconFile="Img/General/PuzzleChest.png" minSize="12" heightOffset="2.5" behavior="2"/>
+		<POI MapID="53" xpos="642.033" ypos="43.1763" zpos="-838.804" type="general.maguuma_jungle.hexfoundry_unhinged" GUID="0udRNHh5WkCfAy11x+bI2g==" iconFile="Img/Icons/Interaction.png"   minSize="8" maxSize="16" fadeNear="1500" fadeFar="2000" heightOffset="0.5" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="53" xpos="714.185" ypos="33.5464" zpos="-908.283" type="general.maguuma_jungle.hexfoundry_unhinged" GUID="0ftDcLKO0Um9jx4GVZyfBQ==" iconFile="Img/Icons/Interaction.png"   minSize="8" maxSize="16" fadeNear="1500" fadeFar="2000" heightOffset="0.5" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="53" xpos="749.765" ypos="31.7453" zpos="-741.054" type="general.maguuma_jungle.hexfoundry_unhinged" GUID="3LQnmVMDxk2IFCY2pT7LpQ==" iconFile="Img/Icons/Interaction.png"   minSize="8" maxSize="16" fadeNear="1500" fadeFar="2000" heightOffset="0.5" mapVisibility="0" miniMapVisibility="0"/>
+
+		<!-- Hidden Garden - Jardin caché -->
+		<Trail type="general.maguuma_jungle.hidden_garden" GUID="hd6omHJ69UalSFRv/i8EFA==" trailData="Data/General/JumpingPuzzles/HiddenGarden1.trl" texture="Data/Arrow.png" color="ff00ffff" alpha="0.7" fadeNear="1500" fadeFar="2000" animSpeed="1" mapDisplaySize="20"/>
+		<Trail type="general.maguuma_jungle.hidden_garden" GUID="KkfLDy00fkGlRa4U8SgIRA==" trailData="Data/General/JumpingPuzzles/HiddenGarden2.trl" texture="Data/Arrow.png" color="ff00ff00" alpha="0.7" fadeNear="1500" fadeFar="2000" animSpeed="1" mapDisplaySize="20"/>
+		<Trail type="general.maguuma_jungle.hidden_garden" GUID="D0c46gxHV0KlN+Fnp/Nm3g==" trailData="Data/General/JumpingPuzzles/HiddenGarden3.trl" texture="Data/Arrow.png" color="ffffff00" alpha="0.7" fadeNear="1500" fadeFar="2000" animSpeed="1" mapDisplaySize="20"/>
+		<POI MapID="39" xpos="-845.7"   ypos="50.6801" zpos="322.078"  type="general.maguuma_jungle.hidden_garden" GUID="dyk4JYxMd0ipWzQWetNqRw==" iconFile="Img/General/PuzzleStart.png"   heightOffset="1.5"/>
+		<POI MapID="39" xpos="-118.764" ypos="77.6269" zpos="-32.9492" type="general.maguuma_jungle.hidden_garden" GUID="DyuOIWaqUE6iFD2vGP3DzQ==" iconFile="Img/General/PuzzleStart.png"   heightOffset="1.5"/>
+		<POI MapID="39" xpos="261.863"  ypos="-0.6792" zpos="271.471"  type="general.maguuma_jungle.hidden_garden" GUID="it049weu8U6bVNtKPiuUcw==" iconFile="Img/General/PuzzleStart.png"   heightOffset="1.5"/>
+		<POI MapID="39" xpos="647.267"  ypos="16.4181" zpos="-436.883" type="general.maguuma_jungle.hidden_garden" GUID="zFDmaXSwvUKNmIKxxxAYIw==" iconFile="Img/General/PuzzleStart.png"   heightOffset="1.5"/>
+		<POI MapID="39" xpos="1055.94"  ypos="63.4758" zpos="509.322"  type="general.maguuma_jungle.hidden_garden" GUID="8rYY8XacG0mNEZNO7+So2g==" iconFile="Img/General/PuzzleChest.png"   minSize="12" heightOffset="2.5" behavior="2"/>
+		<POI MapID="39" xpos="1071.88"  ypos="22"      zpos="503.64"   type="general.maguuma_jungle.hidden_garden" GUID="knYXDOznR0+ytnyjwsIQsw==" iconFile="Img/Numbers/1.png"             fadeNear="6000" fadeFar="8000" color="ffff7f00" heightOffset="0"/>
+		<POI MapID="39" xpos="1125.31"  ypos="1"       zpos="351.64"   type="general.maguuma_jungle.hidden_garden" GUID="AZf40IffN0av5fxccNtXdg==" iconFile="Img/Numbers/2.png"             fadeNear="6000" fadeFar="8000" color="ff00ffff" heightOffset="0"/>
+		<POI MapID="39" xpos="1052.42"  ypos="5"       zpos="648.9"    type="general.maguuma_jungle.hidden_garden" GUID="7TChM4Mz6k6rADP0nryjJQ==" iconFile="Img/Numbers/3.png"             fadeNear="6000" fadeFar="8000" color="ff00ff00" heightOffset="0"/>
+		<POI MapID="39" xpos="1093.97"  ypos="52"      zpos="498.45"   type="general.maguuma_jungle.hidden_garden" GUID="Jd5WCSSEoUGofRUE60v7DA==" iconFile="Img/Numbers/4.png"             fadeNear="6000" fadeFar="8000" color="ffffff00" heightOffset="0"/>
+		<POI MapID="39" xpos="1071.88"  ypos="24"      zpos="503.64"   type="general.maguuma_jungle.hidden_garden" GUID="nrwk9VmMZUyqRZkLPYMPCg==" iconFile="Img/General/CantleOfEarth.png" alpha="0.7" fadeNear="1500" fadeFar="2000" heightOffset="0.5" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="39" xpos="1121.17"  ypos="44.15"   zpos="335.06"   type="general.maguuma_jungle.hidden_garden" GUID="+krC3dO1B0+cM/BZndP0hw==" iconFile="Img/General/CantleOfSea.png"   alpha="0.7" fadeNear="1500" fadeFar="2000" heightOffset="0.5" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="39" xpos="1071.80"  ypos="114.05"  zpos="687.18"   type="general.maguuma_jungle.hidden_garden" GUID="7Hpklj+df0SM82S252ly0g==" iconFile="Img/General/CantleOfSky.png"   alpha="0.7" fadeNear="1500" fadeFar="2000" heightOffset="0.5" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="39" xpos="1045.89"  ypos="104.95"  zpos="495.63"   type="general.maguuma_jungle.hidden_garden" GUID="PG9sw3KiqEWDtrUW0AMoaA==" iconFile="Img/General/CantleOfSun.png"   alpha="0.7" fadeNear="1500" fadeFar="2000" heightOffset="0.5" mapVisibility="0" miniMapVisibility="0"/>
+
+		<!-- Morgan's Leap - Bond de Morgan -->
+		<Trail type="general.maguuma_jungle.morgan_s_leap" GUID="Orhf2GCAuUuCKrkO+T/Tiw==" trailData="Data/General/JumpingPuzzles/MorgansLeap.trl" texture="Data/Arrow.png" color="ff00ff00" alpha="0.7" fadeNear="1500" fadeFar="2000" animSpeed="1" mapDisplaySize="20"/>
+		<POI MapID="34" xpos="475.27"  ypos="0.64"    zpos="-711.06"  type="general.maguuma_jungle.morgan_s_leap" GUID="e5XYMrWY5Uyu8IVKvPaxTw==" iconFile="Img/General/PuzzleStart.png" heightOffset="1.5"/>
+		<POI MapID="34" xpos="442.341" ypos="44.8369" zpos="-627.994" type="general.maguuma_jungle.morgan_s_leap" GUID="/XRIuTTK/EappiyJdaunig==" iconFile="Img/General/PuzzleChest.png" minSize="12" heightOffset="2.5" behavior="2"/>
+
+		<!-- Spekks's Laboratory - Laboratoire de Spekks -->
+		<Trail type="general.maguuma_jungle.spekks_s_laboratory" GUID="51cfdIUcxk2KpTWMq4UHDg==" trailData="Data/General/JumpingPuzzles/SpekkssLaboratory.trl" texture="Data/Arrow.png" color="ff00ff00" alpha="0.7" fadeNear="1500" fadeFar="2000" animSpeed="1" mapDisplaySize="20"/>
+		<POI MapID="34" xpos="-432.428" ypos="4.66004" zpos="-288.505" type="general.maguuma_jungle.spekks_s_laboratory" GUID="DOoCD9bz8ECcGOMEluLufg==" iconFile="Img/General/PuzzleStart.png" heightOffset="1.5"/>
+		<POI MapID="34" xpos="-531.879" ypos="43.8468" zpos="-146.227" type="general.maguuma_jungle.spekks_s_laboratory" GUID="izlOWLfVmU22GVUr2ctmzA==" iconFile="Img/General/PuzzleChest.png" minSize="12" heightOffset="2.5" behavior="2"/>
+		<POI MapID="34" xpos="-493.81"  ypos="12.6509" zpos="-257.626" type="general.maguuma_jungle.spekks_s_laboratory" GUID="KxpXgPSdv0CD/gGrSx8hRQ==" iconFile="Img/Icons/Interaction.png"   minSize="8" maxSize="16" fadeNear="1500" fadeFar="2000" heightOffset="0.5" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="34" xpos="-518.463" ypos="15.5928" zpos="-260.482" type="general.maguuma_jungle.spekks_s_laboratory" GUID="xYza7ike/kaj7CGekDlXeA==" iconFile="Img/Icons/Interaction.png"   minSize="8" maxSize="16" fadeNear="1500" fadeFar="2000" heightOffset="0.5" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="34" xpos="-540.703" ypos="24.1361" zpos="-225.54"  type="general.maguuma_jungle.spekks_s_laboratory" GUID="E8YiZKmdPUmi+kphI9+19Q==" iconFile="Img/Icons/Interaction.png"   minSize="8" maxSize="16" fadeNear="1500" fadeFar="2000" heightOffset="0.5" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="34" xpos="-498.643" ypos="27.2896" zpos="-156.437" type="general.maguuma_jungle.spekks_s_laboratory" GUID="gr+4KPnrgkaRhVTX2xM1Fw==" iconFile="Img/Icons/Interaction.png"   minSize="8" maxSize="16" fadeNear="1500" fadeFar="2000" heightOffset="0.5" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="34" xpos="-446.855" ypos="23.728"  zpos="-191.225" type="general.maguuma_jungle.spekks_s_laboratory" GUID="Mk4ywv34dE+OvFPtbE5zcg==" iconFile="Img/Icons/Interaction.png"   minSize="8" maxSize="16" fadeNear="1500" fadeFar="2000" heightOffset="0.5" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="34" xpos="-471.737" ypos="32.3098" zpos="-237.047" type="general.maguuma_jungle.spekks_s_laboratory" GUID="vce6UD3p2UikQQHwiebxXw==" iconFile="Img/Icons/Interaction.png"   minSize="8" maxSize="16" fadeNear="1500" fadeFar="2000" heightOffset="0.5" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="34" xpos="-520.851" ypos="44.251"  zpos="-258.636" type="general.maguuma_jungle.spekks_s_laboratory" GUID="W5L5bAas70WZWS8u4S3Ijw==" iconFile="Img/Icons/Interaction.png"   minSize="8" maxSize="16" fadeNear="1500" fadeFar="2000" heightOffset="0.5" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="34" xpos="-534.763" ypos="44.8361" zpos="-211.418" type="general.maguuma_jungle.spekks_s_laboratory" GUID="HwOwLNFiUUuf9Ul9nwVIfw==" iconFile="Img/Icons/Interaction.png"   minSize="8" maxSize="16" fadeNear="1500" fadeFar="2000" heightOffset="0.5" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="34" xpos="-536.971" ypos="44.4606" zpos="-161.833" type="general.maguuma_jungle.spekks_s_laboratory" GUID="1/WItzkQNkSN1gXy3PN4nQ==" iconFile="Img/Icons/Fight.png"         fadeNear="1500" fadeFar="2000" heightOffset="0.5" mapVisibility="0" miniMapVisibility="0"/>
+
+		<!-- Spelunker's Delve - Grottes du spéléologue -->
+		<Trail type="general.maguuma_jungle.spelunker_s_delve" GUID="eheOAJZl1UKjyKdgqiY9qQ==" trailData="Data/General/JumpingPuzzles/SpelunkersDelve.trl" texture="Data/Arrow.png" color="ff00ff00" alpha="0.7" fadeNear="1500" fadeFar="2000" animSpeed="1" mapDisplaySize="20"/>
+		<POI MapID="34" xpos="226.343" ypos="15.1651" zpos="-1109.8"  type="general.maguuma_jungle.spelunker_s_delve" GUID="kk81+sz6jEumFpLymoXsAA==" iconFile="Img/General/PuzzleStart.png" heightOffset="1.5"/>
+		<POI MapID="34" xpos="463.329" ypos="22.2873" zpos="-1112.53" type="general.maguuma_jungle.spelunker_s_delve" GUID="A/hc33NST0KAPBqq1EuRGQ==" iconFile="Img/General/PuzzleChest.png" minSize="12" heightOffset="2.5" behavior="2"/>
+
+
+	<!-- KRYTA -->
+
+		<!-- Demongrub Pits - Fosses de l'engeance -->
+		<Trail type="general.kryta.demongrub_pits" GUID="JtwRg8wm4UqSwZ8dBQCq1Q==" trailData="Data/General/JumpingPuzzles/DemongrubPits.trl" texture="Data/Arrow.png" color="ff00ff00" alpha="0.7" fadeNear="1500" fadeFar="2000" animSpeed="1" mapDisplaySize="20"/>
+		<POI MapID="15" xpos="937.104" ypos="69.8533" zpos="-461.552" type="general.kryta.demongrub_pits" GUID="Ayfw+31k6EGEOZ1e8pbJ+Q==" iconFile="Img/General/PuzzleStart.png" heightOffset="1.5"/>
+		<POI MapID="15" xpos="1034.72" ypos="46.0266" zpos="-672.023" type="general.kryta.demongrub_pits" GUID="z6tZKf2dYEi82AdphjTYwg==" iconFile="Img/General/PuzzleChest.png" minSize="12" heightOffset="2.5" behavior="2"/>
+
+		<!-- Fawcett's Bounty - Le butin de Fawcett -->
+		<Trail type="general.kryta.fawcett_s_bounty" GUID="P8KA32wsaUuGaxPWrbmEnw==" trailData="Data/General/JumpingPuzzles/FawcettsBounty.trl" texture="Data/Arrow.png" color="ff00ff00" alpha="0.7" fadeNear="1500" fadeFar="2000" animSpeed="1" mapDisplaySize="20"/>
+		<POI MapID="17" xpos="-370.955" ypos="0.64988" zpos="716.534" type="general.kryta.fawcett_s_bounty" GUID="ZiL7vLXs5EuulCmiLXifWg==" iconFile="Img/General/PuzzleStart.png"    heightOffset="1.5"/>
+		<POI MapID="17" xpos="-662.488" ypos="3.26397" zpos="779.51"  type="general.kryta.fawcett_s_bounty" GUID="rSbTftEzEUm2L25h4ak5gw==" iconFile="Img/General/PuzzleChest.png"    minSize="12" heightOffset="2.5" behavior="2"/>
+		<POI MapID="17" xpos="-389.045" ypos="22.1252" zpos="754.218" type="general.kryta.fawcett_s_bounty" GUID="NSqYEVu6kkmi/8EPSb82hw==" iconFile="Img/Icons/Interaction.png"      minSize="8" maxSize="16" fadeNear="1500" fadeFar="2000" heightOffset="0.5" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="17" xpos="-375.311" ypos="26.6957" zpos="765.198" type="general.kryta.fawcett_s_bounty" GUID="uHxb9pXMHkCnGiGT1hJ5lA==" iconFile="Img/General/FawcettsBounty.png" maxSize="48" fadeNear="1500" fadeFar="2000" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="17" xpos="-350.907" ypos="27.451"  zpos="769.714" type="general.kryta.fawcett_s_bounty" GUID="H1r/FkLW1EC8GNZnivAGFg==" iconFile="Img/Icons/Interaction.png"      minSize="8" maxSize="16" fadeNear="1500" fadeFar="2000" heightOffset="0.5" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="17" xpos="-322.723" ypos="35.6024" zpos="816.213" type="general.kryta.fawcett_s_bounty" GUID="LRZ78cg6aUW3FvkIhp31lw==" iconFile="Img/Icons/Interaction.png"      minSize="8" maxSize="16" fadeNear="1500" fadeFar="2000" heightOffset="0.5" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="17" xpos="-384.665" ypos="33.8"    zpos="782.32"  type="general.kryta.fawcett_s_bounty" GUID="eLLiUifTHE24La/sUuWz4A==" iconFile="Img/Icons/Interaction.png"      minSize="8" maxSize="16" fadeNear="1500" fadeFar="2000" heightOffset="0.5" mapVisibility="0" miniMapVisibility="0"/>
+
+		<!-- Fawcett's Revenger - La vengeance de Fawcett -->
+		<Trail type="general.kryta.fawcett_s_revenger" GUID="VOC4ljo0402wkZrT7O+AxQ==" trailData="Data/General/JumpingPuzzles/FawcettsRevenger.trl" texture="Data/Arrow.png" color="ff00ff00" alpha="0.7" fadeNear="1500" fadeFar="2000" animSpeed="1" mapDisplaySize="20"/>
+		<POI MapID="17" xpos="-370.955" ypos="0.64988" zpos="716.534" type="general.kryta.fawcett_s_revenger" GUID="P+BrnzhQ4kCOEbfMToYm+A==" iconFile="Img/General/PuzzleStart.png"    heightOffset="1.5"/>
+		<POI MapID="17" xpos="-389.045" ypos="22.1252" zpos="754.218" type="general.kryta.fawcett_s_revenger" GUID="/sdEC2myNk2fy5SgeKsbIQ==" iconFile="Img/Icons/Interaction.png"      minSize="8" maxSize="16" fadeNear="1500" fadeFar="2000" heightOffset="0.5" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="17" xpos="-375.311" ypos="26.6957" zpos="765.198" type="general.kryta.fawcett_s_revenger" GUID="ecq3tCZNiECXFh09S+rtvA==" iconFile="Img/General/FawcettsBounty.png" maxSize="48" fadeNear="1500" fadeFar="2000" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="17" xpos="-350.907" ypos="27.451"  zpos="769.714" type="general.kryta.fawcett_s_revenger" GUID="TNYHMVOyokyCOJpTBUrTdg==" iconFile="Img/Icons/Interaction.png"      minSize="8" maxSize="16" fadeNear="1500" fadeFar="2000" heightOffset="0.5" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="17" xpos="-322.723" ypos="35.6024" zpos="816.213" type="general.kryta.fawcett_s_revenger" GUID="elJVKTAo8kK3TM6K58Q/gQ==" iconFile="Img/Icons/Interaction.png"      minSize="8" maxSize="16" fadeNear="1500" fadeFar="2000" heightOffset="0.5" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="17" xpos="-384.665" ypos="33.8"    zpos="782.32"  type="general.kryta.fawcett_s_revenger" GUID="A4ai14ndPUKPtnsDvUGAag==" iconFile="Img/Icons/Interaction.png"      minSize="8" maxSize="16" fadeNear="1500" fadeFar="2000" heightOffset="0.5" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="17" xpos="-398.56"  ypos="36.7667" zpos="831.567" type="general.kryta.fawcett_s_revenger" GUID="h3WSOeZxWEay7S2Pwtx9mw==" iconFile="Img/Icons/Jump.png"             fadeNear="1500" fadeFar="2000" heightOffset="0.5" mapVisibility="0" miniMapVisibility="0"/>
+
+		<!-- Not So Secret - Pas si secret -->
+		<Trail type="general.kryta.not_so_secret" GUID="3sdxfCd0l0ygQiP1BOowVQ==" trailData="Data/General/JumpingPuzzles/NotSoSecret.trl" texture="Data/Arrow.png" color="ff00ff00" alpha="0.7" fadeNear="1500" fadeFar="2000" animSpeed="1" mapDisplaySize="20"/>
+		<POI MapID="24" xpos="-67.5752" ypos="35.3659" zpos="-581.735" type="general.kryta.not_so_secret" GUID="JGpZ2OUqekaRtJQp/mQPZA==" iconFile="Img/General/PuzzleStart.png" heightOffset="1.5"/>
+		<POI MapID="24" xpos="-277.082" ypos="70.4808" zpos="-490.216" type="general.kryta.not_so_secret" GUID="Ee4IBHUqrkeiuL6svFmujg==" iconFile="Img/General/PuzzleChest.png" minSize="12" heightOffset="2.5" behavior="2"/>
+
+		<!-- Professor Portmatt's Lab - Labo du professeur Portmatt -->
+		<POI MapID="73" xpos="-402.08"  ypos="-70.32"   zpos="683.73"  type="general.kryta.professor_portmatt_s_lab" GUID="Xr99gnPhSE+7sDP1l5L/uA==" iconFile="Img/General/PuzzleStart.png"             heightOffset="1.5"/>
+		<POI MapID="73" xpos="-427.084" ypos="23.6932"  zpos="670.594" type="general.kryta.professor_portmatt_s_lab" GUID="C/jeNVBlI0eYIO03l0p9JA==" iconFile="Img/General/PuzzleChest.png"             minSize="12" heightOffset="2.5" behavior="2"/>
+		<POI MapID="73" xpos="-490.869" ypos="-132.055" zpos="726.424" type="general.kryta.professor_portmatt_s_lab" GUID="H4ALR9KS+UW6o0pYAYBpUw==" iconFile="Img/Numbers/1.png"                       fadeNear="1500" fadeFar="2000" heightOffset="0"/>
+		<POI MapID="73" xpos="-466.264" ypos="-133.527" zpos="759.827" type="general.kryta.professor_portmatt_s_lab" GUID="YsSOW2xl+UGReubvfsfobw==" iconFile="Img/Numbers/1.png"                       fadeNear="1500" fadeFar="2000" heightOffset="0"/>
+		<POI MapID="73" xpos="-487.21"  ypos="-137.515" zpos="742.466" type="general.kryta.professor_portmatt_s_lab" GUID="Ve9AHCJCR0OjpMuv0L6VMg==" iconFile="Img/Numbers/2.png"                       fadeNear="1500" fadeFar="2000" heightOffset="0"/>
+		<POI MapID="73" xpos="-477.986" ypos="-137.938" zpos="760.449" type="general.kryta.professor_portmatt_s_lab" GUID="zwiO0OO+y02mZDr2ap97qQ==" iconFile="Img/Numbers/3.png"                       fadeNear="1500" fadeFar="2000" heightOffset="0"/>
+		<POI MapID="73" xpos="-488.914" ypos="-137.503" zpos="741.223" type="general.kryta.professor_portmatt_s_lab" GUID="mtu5ncgRK0mqNYtioc++EA==" iconFile="Img/General/ProfessorPortmattsLab_1.png" minSize="64"  maxSize="96"  alpha="0.7" fadeNear="1000" fadeFar="1500" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="73" xpos="-475.185" ypos="-136.024" zpos="757.523" type="general.kryta.professor_portmatt_s_lab" GUID="WwuX3S7iQU2J8xrQ+E3QJw==" iconFile="Img/General/ProfessorPortmattsLab_2.png" minSize="200" maxSize="200" alpha="0.7" fadeNear="1500" fadeFar="2000" mapVisibility="0" miniMapVisibility="0"/>
+
+		<!-- Skipping Stones - Ricochets -->
+		<Trail type="general.kryta.skipping_stones" GUID="EX/CxqEfwkOOVE20IbeLsA==" trailData="Data/General/JumpingPuzzles/SkippingStones.trl" texture="Data/Arrow.png" color="ff00ff00" alpha="0.7" fadeNear="1500" fadeFar="2000" animSpeed="1" mapDisplaySize="20"/>
+		<POI MapID="873" xpos="18.7435" ypos="-0.6805" zpos="263.501" type="general.kryta.skipping_stones" GUID="PicDq2b4WEqrqPb2noT02Q==" iconFile="Img/General/PuzzleStart.png" heightOffset="1.5"/>
+		<POI MapID="873" xpos="-425.74" ypos="39.0166" zpos="294.257" type="general.kryta.skipping_stones" GUID="E1VNFZrllk2fJBN1iOhiRA==" iconFile="Img/General/PuzzleChest.png" minSize="12" heightOffset="2.5" behavior="2"/>
+		<POI MapID="873" xpos="-234.26" ypos="15.0301" zpos="398.755" type="general.kryta.skipping_stones" GUID="PBhXJr7gLEGS5LHJd/Vb1A==" iconFile="Img/Signs/Jump.png"          minSize="8" maxSize="16" alpha="0.7" fadeNear="1500" fadeFar="2000" heightOffset="0.5" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="873" xpos="-294.99" ypos="34.4448" zpos="365.633" type="general.kryta.skipping_stones" GUID="AuU5IDwUsUeONQXkCIhxoQ==" iconFile="Img/Signs/Jump.png"          minSize="8" maxSize="16" alpha="0.7" fadeNear="1500" fadeFar="2000" heightOffset="0.5" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="873" xpos="-342.01" ypos="36.1147" zpos="302.018" type="general.kryta.skipping_stones" GUID="J4pBfF+IEUCafAUhbP9Y5Q==" iconFile="Img/Signs/Jump.png"          minSize="8" maxSize="16" alpha="0.7" fadeNear="1500" fadeFar="2000" heightOffset="0.5" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="873" xpos="-383.41" ypos="45.6112" zpos="304.105" type="general.kryta.skipping_stones" GUID="1VkgLwdrI0qBC1lfMP84tQ==" iconFile="Img/Signs/Jump.png"          minSize="8" maxSize="16" alpha="0.7" fadeNear="1500" fadeFar="2000" heightOffset="0.5" mapVisibility="0" miniMapVisibility="0"/>
+
+		<!-- Swashbuckler's Cove - La Crique du bretteur -->
+		<Trail type="general.kryta.swashbuckler_s_cove" GUID="8UK83U0ic0iEMBD87XHuOg==" trailData="Data/General/JumpingPuzzles/SwashbucklersCove1.trl" texture="Data/Arrow.png" color="ff00ff00" alpha="0.7" fadeNear="1500" fadeFar="2000" animSpeed="1" mapDisplaySize="20"/>
+		<Trail type="general.kryta.swashbuckler_s_cove" GUID="KwY8NBRARUulEHfBt4+GBQ==" trailData="Data/General/JumpingPuzzles/SwashbucklersCove2.trl" texture="Data/Arrow.png" color="ffffdd00" alpha="0.7" fadeNear="1500" fadeFar="2000" animSpeed="1" mapDisplaySize="20"/>
+		<Trail type="general.kryta.swashbuckler_s_cove" GUID="sTL+7yMzDESqoJHgdMLDFQ==" trailData="Data/General/JumpingPuzzles/SwashbucklersCove3.trl" texture="Data/Arrow.png" color="ffdd0000" alpha="0.7" fadeNear="1500" fadeFar="2000" animSpeed="1" mapDisplaySize="20"/>
+		<POI MapID="24" xpos="723.864" ypos="-0.794003" zpos="-529.948" type="general.kryta.swashbuckler_s_cove" GUID="5j+DyavaREC1VgkcUlTJhg==" iconFile="Img/General/PuzzleStart.png" heightOffset="1.5"/>
+		<POI MapID="24" xpos="688.891" ypos="28.0959"   zpos="-552.209" type="general.kryta.swashbuckler_s_cove" GUID="EdLfOLuMtEKAaTSz3j77aA==" iconFile="Img/General/PuzzleChest.png" minSize="12" heightOffset="2.5" behavior="2"/>
+		<POI MapID="24" xpos="581.55"  ypos="0.904929"  zpos="-557.564" type="general.kryta.swashbuckler_s_cove" GUID="Mb9ft8CpBkihs5V65nSFdQ==" iconFile="Img/Icons/Interaction.png"   minSize="8" maxSize="16" fadeNear="1500" fadeFar="2000" heightOffset="0.5" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="24" xpos="563.956" ypos="14.473"    zpos="-613.553" type="general.kryta.swashbuckler_s_cove" GUID="R/eI9XF+/USBDfq+eluz4Q==" iconFile="Img/Icons/Interaction.png"   minSize="8" maxSize="16" fadeNear="1500" fadeFar="2000" heightOffset="0.5" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="24" xpos="562.081" ypos="4.94928"   zpos="-552.549" type="general.kryta.swashbuckler_s_cove" GUID="JZGXTF5xO0WXSWw+NslRfg==" iconFile="Img/Icons/Interaction.png"   minSize="8" maxSize="16" fadeNear="1500" fadeFar="2000" heightOffset="0.5" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="24" xpos="524.667" ypos="3.79906"   zpos="-607.988" type="general.kryta.swashbuckler_s_cove" GUID="N/e7XpT87Ea1F8phxpgusQ==" iconFile="Img/Icons/Interaction.png"   minSize="8" maxSize="16" fadeNear="1500" fadeFar="2000" heightOffset="0.5" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="24" xpos="530.565" ypos="15.2416"   zpos="-605.355" type="general.kryta.swashbuckler_s_cove" GUID="w6krRRpnDEqSqR7HogYtbw==" iconFile="Img/Icons/Fight.png"         fadeNear="1500" fadeFar="2000" heightOffset="0.5" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="24" xpos="571.311" ypos="44.2217"   zpos="-549.367" type="general.kryta.swashbuckler_s_cove" GUID="om8P5mL0IkmIj3JjMKvvUg==" iconFile="Img/Icons/Interaction.png"   minSize="8" maxSize="16" fadeNear="1500" fadeFar="2000" heightOffset="0.5" mapVisibility="0" miniMapVisibility="0"/>
+
+		<!-- The Collapsed Observatory - Observatoire effondré -->
+		<Trail type="general.kryta.the_collapsed_observatory" GUID="hgtuE2Fpi0amwaH5qitHYA==" trailData="Data/General/JumpingPuzzles/TheCollapsedObservatory.trl" texture="Data/Arrow.png" color="ff00ff00" alpha="0.7" fadeNear="1500" fadeFar="2000" animSpeed="1" mapDisplaySize="20"/>
+		<POI MapID="23" xpos="847.861" ypos="98.6992" zpos="-450.244" type="general.kryta.the_collapsed_observatory" GUID="Fijg7DCfPkGd4Vs47y2BSQ==" iconFile="Img/General/PuzzleStart.png" heightOffset="1.5"/>
+		<POI MapID="23" xpos="948.06"  ypos="75.7013" zpos="-595.628" type="general.kryta.the_collapsed_observatory" GUID="yFnTHUUvd0Ki3dQ/cElk4g==" iconFile="Img/General/PuzzleChest.png" minSize="12" heightOffset="2.5" behavior="2"/>
+
+		<!-- Troll's Revenge - Vengeance du troll -->
+		<Trail type="general.kryta.troll_s_revenge" GUID="pr9+Cio6EkyZzWIqZIzVJQ==" trailData="Data/General/JumpingPuzzles/TrollsRevenge.trl" texture="Data/Arrow.png" color="ff00ff00" alpha="0.7" fadeNear="1500" fadeFar="2000" animSpeed="1" mapDisplaySize="20"/>
+		<POI MapID="50" xpos="135.91"   ypos="34.599"  zpos="-17.082" type="general.kryta.troll_s_revenge" GUID="FAAGaMjP/Ue+6wFT1FEvPg==" iconFile="Img/General/PuzzleStart.png" heightOffset="1.5"/>
+		<POI MapID="50" xpos="-480.585" ypos="77.9771" zpos="278.715" type="general.kryta.troll_s_revenge" GUID="ZCDRYXda9UajgxcTDtk3lg==" iconFile="Img/General/PuzzleChest.png" minSize="12" heightOffset="2.5" behavior="2"/>
+		<POI MapID="50" xpos="-165.96"  ypos="36.4663" zpos="32.7585" type="general.kryta.troll_s_revenge" GUID="h54GKheVvE2IPj5G+GDv5Q==" iconFile="Img/Icons/Key.png"           minSize="8" maxSize="16" heightOffset="2" behavior="6"/>
+		<POI MapID="50" xpos="-329.216" ypos="32.1624" zpos="74.8397" type="general.kryta.troll_s_revenge" GUID="YT43q5+hUUys3nSwbESfYQ==" iconFile="Img/Icons/Key.png"           minSize="8" maxSize="16" heightOffset="2" behavior="6"/>
+		<POI MapID="50" xpos="-394.195" ypos="39.12"   zpos="129.697" type="general.kryta.troll_s_revenge" GUID="JPFUcwGimkSk0u4mbeO6cQ==" iconFile="Img/Icons/Key.png"           minSize="8" maxSize="16" heightOffset="2" behavior="6"/>
+		<POI MapID="50" xpos="-476.572" ypos="78.3675" zpos="367.704" type="general.kryta.troll_s_revenge" GUID="x06O0Srg5EGjyax4mS6RFw==" iconFile="Img/Icons/Key.png"           minSize="8" maxSize="16" heightOffset="2" behavior="6"/>
+
+		<!-- Under New Management - La nouvelle direction -->
+		<Trail type="general.kryta.under_new_management" GUID="fjMobAdzq0GzlDRTNkFIog==" trailData="Data/General/JumpingPuzzles/UnderNewManagement.trl" texture="Data/Arrow.png" color="ff00ff00" alpha="0.7" fadeNear="1500" fadeFar="2000" animSpeed="1" mapDisplaySize="20"/>
+		<POI MapID="873" xpos="645.029" ypos="31.341"  zpos="-352.949" type="general.kryta.under_new_management" GUID="rg4BG4b5nEG8k+RB7MuFYg==" iconFile="Img/General/PuzzleStart.png" heightOffset="1.5"/>
+		<POI MapID="873" xpos="677.73"  ypos="59.0201" zpos="-368.113" type="general.kryta.under_new_management" GUID="SG+qpX9MsUmFrKZiDWO5kw==" iconFile="Img/General/PuzzleChest.png" minSize="12" heightOffset="2.5" behavior="2"/>
+
+		<!-- Urmaug's Secret - Le secret d'Urmaug -->
+		<Trail type="general.kryta.urmaug_s_secret" GUID="0Ne6OJH5LUamKAni6Cj4Ig==" trailData="Data/General/JumpingPuzzles/UrmaugsSecret.trl" texture="Data/Arrow.png" color="ff00ff00" alpha="0.7" fadeNear="1500" fadeFar="2000" animSpeed="1" mapDisplaySize="20"/>
+		<POI MapID="50" xpos="609.716" ypos="13.8505" zpos="309.03"  type="general.kryta.urmaug_s_secret" GUID="lwaJrLbzBkeaI4FbiacWug==" iconFile="Img/General/PuzzleStart.png" heightOffset="1.5"/>
+		<POI MapID="50" xpos="670.882" ypos="67.519"  zpos="374.918" type="general.kryta.urmaug_s_secret" GUID="fO6DvRKMdU6iQ6g8WKQ6kA==" iconFile="Img/General/PuzzleChest.png" minSize="12" heightOffset="2.5" behavior="2"/>
+
+		<!-- Weyandt's Revenge - La revanche de Weyandt -->
+		<Trail type="general.kryta.weyandt_s_revenge" GUID="XO7ms5n3+ESHDCiv5MfBmw==" trailData="Data/General/JumpingPuzzles/WeyandtsRevenge.trl" texture="Data/Arrow.png" color="ff00ff00" alpha="0.7" fadeNear="1500" fadeFar="2000" animSpeed="1" mapDisplaySize="20"/>
+		<POI MapID="50" xpos="504.684" ypos="41.485"  zpos="-205.951" type="general.kryta.weyandt_s_revenge" GUID="GNPuqwBapkuxyL+qFQ3LaA==" iconFile="Img/General/PuzzleStart.png" heightOffset="1.5"/>
+		<POI MapID="50" xpos="573.259" ypos="2.31361" zpos="-407.349" type="general.kryta.weyandt_s_revenge" GUID="Ian4WbKJtkGka+m5JDlDUw==" iconFile="Img/General/PuzzleChest.png" minSize="12" heightOffset="2.5" behavior="2"/>
+
+
+	<!-- RUIN OF ORR -->
+
+		<!-- Antre of Adjournment - Antre de suspension -->
+		<Trail type="general.ruin_of_orr.antre_of_adjournment" GUID="P15GrwgIKU6hS4ycdUjhNg==" trailData="Data/General/JumpingPuzzles/AntreOfAdjournment.trl" texture="Data/Arrow.png" color="ff00ff00" alpha="0.7" fadeNear="1500" fadeFar="2000" animSpeed="1" mapDisplaySize="20"/>
+		<POI MapID="65" xpos="721.712" ypos="-2.00098" zpos="-376.996" type="general.ruin_of_orr.antre_of_adjournment" GUID="i5QtIpqOKkWy/NetdS+4bg==" iconFile="Img/General/PuzzleStart.png" heightOffset="1.5"/>
+		<POI MapID="65" xpos="754.88"  ypos="47.97"    zpos="-375.07"  type="general.ruin_of_orr.antre_of_adjournment" GUID="3ikd+9fD4U24nts5Nv6lyg==" iconFile="Img/General/PuzzleChest.png" minSize="12" heightOffset="2" behavior="2"/>
+
+		<!-- Buried Archives - Archives ensevelies -->
+		<Trail type="general.ruin_of_orr.buried_archives" GUID="V/GvY45lqEmLWfxb1vw58g==" trailData="Data/General/JumpingPuzzles/BuriedArchives.trl" texture="Data/Arrow.png" color="ff00ff00" alpha="0.7" fadeNear="1500" fadeFar="2000" animSpeed="1" mapDisplaySize="20"/>
+		<POI MapID="62" xpos="18.813"  ypos="1.15511" zpos="-944.74"  type="general.ruin_of_orr.buried_archives" GUID="ZvjKuK/fn02yGH3HMgje+g==" iconFile="Img/General/PuzzleStart.png" heightOffset="1.5"/>
+		<POI MapID="62" xpos="-107.64" ypos="92.1807" zpos="-938.157" type="general.ruin_of_orr.buried_archives" GUID="VJQL0yF2/0GuuGZnatd2Rw==" iconFile="Img/General/PuzzleChest.png" minSize="12" heightOffset="2.5" behavior="2"/>
+
+		<!-- Scavenger's Chasm - Gouffre du charognard -->
+		<Trail type="general.ruin_of_orr.scavenger_s_chasm" GUID="/qxyfmTm5U2Q7QgURMfUFw==" trailData="Data/General/JumpingPuzzles/ScavengersChasm1.trl" texture="Data/Arrow.png" color="ff00ff00" alpha="0.7" fadeNear="1500" fadeFar="2000" animSpeed="1" mapDisplaySize="20"/>
+		<Trail type="general.ruin_of_orr.scavenger_s_chasm" GUID="zErz5boYT0OFYLYT/G5INA==" trailData="Data/General/JumpingPuzzles/ScavengersChasm2.trl" texture="Data/Arrow.png" color="ffffdd00" alpha="0.7" fadeNear="1500" fadeFar="2000" animSpeed="1" mapDisplaySize="20"/>
+		<POI MapID="65" xpos="739.241" ypos="76.8406" zpos="-524.896" type="general.ruin_of_orr.scavenger_s_chasm"      GUID="354vYwRtOUCfGMONj6wq5w==" iconFile="Img/General/PuzzleStart.png" heightOffset="1.5"/>
+		<POI MapID="65" xpos="935.405" ypos="54.1427" zpos="-585.924" type="general.ruin_of_orr.scavenger_s_chasm"      GUID="1iOuju4wDUuy7VL7tg9GjQ==" iconFile="Img/General/PuzzleChest.png" minSize="12" heightOffset="2" behavior="2"/>
+		<POI MapID="65" xpos="937.235" ypos="53.7943" zpos="-602.993" type="general.ruin_of_orr.scavenger_s_chasm"      GUID="acXHEzG6LUO6Rfp6jgCmwA==" iconFile="Img/General/PuzzleChest.png" minSize="12" heightOffset="2"/>
+		<POI MapID="65" xpos="948.195" ypos="54.5678" zpos="-593.413" type="general.ruin_of_orr.scavenger_s_chasm"      GUID="Nwc5VrLjm0SXVu7B5zrRmg==" iconFile="Img/General/PuzzleChest.png" minSize="12" heightOffset="2"/>
+		<POI MapID="65" xpos="856.26"  ypos="19.23"   zpos="-588.81"  type="general.ruin_of_orr.scavenger_s_chasm.orbs" GUID="m2z9EKKdqUmbT2u84TEfNA==" iconFile="Img/General/Orb.png"         color="ffffff00" minSize="12" maxSize="16" alpha="0.9" fadeNear="4000" fadeFar="5000" heightOffset="0" triggerRange="5" behavior="4" resetLength="10800"/>
+		<POI MapID="65" xpos="870.34"  ypos="9.82"    zpos="-600.91"  type="general.ruin_of_orr.scavenger_s_chasm.orbs" GUID="oe80N2jBlUqZncUywWO3PA==" iconFile="Img/General/Orb.png"         color="ffffff00" minSize="12" maxSize="16" alpha="0.9" fadeNear="4000" fadeFar="5000" heightOffset="0" triggerRange="5" behavior="4" resetLength="10800"/>
+		<POI MapID="65" xpos="922.13"  ypos="-16.1"   zpos="-597.15"  type="general.ruin_of_orr.scavenger_s_chasm.orbs" GUID="Lzp5s124HEG5CwOa5xDY9g==" iconFile="Img/General/Orb.png"         color="ffffff00" minSize="12" maxSize="16" alpha="0.9" fadeNear="4000" fadeFar="5000" heightOffset="0" triggerRange="5" behavior="4" resetLength="10800"/>
+		<POI MapID="65" xpos="741.53"  ypos="-21.72"  zpos="-571.07"  type="general.ruin_of_orr.scavenger_s_chasm.orbs" GUID="n5Cjjwsrp02zbyPDaX6QHQ==" iconFile="Img/General/Orb.png"         color="ffffff00" minSize="12" maxSize="16" alpha="0.9" fadeNear="4000" fadeFar="5000" heightOffset="0" triggerRange="5" behavior="4" resetLength="10800"/>
+		<POI MapID="65" xpos="909.64"  ypos="44.15"   zpos="-602.36"  type="general.ruin_of_orr.scavenger_s_chasm.orbs" GUID="eIxoSyIe10aPjMFOHKdBQQ==" iconFile="Img/General/Orb.png"         color="ffffff00" minSize="12" maxSize="16" alpha="0.9" fadeNear="4000" fadeFar="5000" heightOffset="0" triggerRange="5" behavior="4" resetLength="10800"/>
+		<POI MapID="65" xpos="815.82"  ypos="70.18"   zpos="-585.19"  type="general.ruin_of_orr.scavenger_s_chasm.orbs" GUID="VLUDWf55WEyusAUDxi1Eng==" iconFile="Img/General/Orb.png"         color="ffffff00" minSize="12" maxSize="16" alpha="0.9" fadeNear="4000" fadeFar="5000" heightOffset="0" triggerRange="5" behavior="4" resetLength="10800"/>
+		<POI MapID="65" xpos="832.39"  ypos="72.93"   zpos="-597.5"   type="general.ruin_of_orr.scavenger_s_chasm.orbs" GUID="3QbmDIRnBUazgndnd3InXQ==" iconFile="Img/General/Orb.png"         color="ffffff00" minSize="12" maxSize="16" alpha="0.9" fadeNear="4000" fadeFar="5000" heightOffset="0" triggerRange="5" behavior="4" resetLength="10800"/>
+		<POI MapID="65" xpos="918.39"  ypos="86.68"   zpos="-605.51"  type="general.ruin_of_orr.scavenger_s_chasm.orbs" GUID="yfKZ/CYNvE6CxRv5Hf6sbg==" iconFile="Img/General/Orb.png"         color="ffffff00" minSize="12" maxSize="16" alpha="0.9" fadeNear="4000" fadeFar="5000" heightOffset="0" triggerRange="5" behavior="4" resetLength="10800"/>
+		<POI MapID="65" xpos="889"     ypos="90.12"   zpos="-580.44"  type="general.ruin_of_orr.scavenger_s_chasm.orbs" GUID="moGd/XvBs0aKXJsLJ0Tl2Q==" iconFile="Img/General/Orb.png"         color="ffffff00" minSize="12" maxSize="16" alpha="0.9" fadeNear="4000" fadeFar="5000" heightOffset="0" triggerRange="5" behavior="4" resetLength="10800"/>
+		<POI MapID="65" xpos="865.01"  ypos="79.85"   zpos="-589.24"  type="general.ruin_of_orr.scavenger_s_chasm.orbs" GUID="B3BNKvdXkki5p8vDVQgvwg==" iconFile="Img/General/Orb.png"         color="ffffff00" minSize="12" maxSize="16" alpha="0.9" fadeNear="4000" fadeFar="5000" heightOffset="0" triggerRange="5" behavior="4" resetLength="10800"/>
+		<POI MapID="65" xpos="758.47"  ypos="44.73"   zpos="-591.61"  type="general.ruin_of_orr.scavenger_s_chasm.orbs" GUID="YRUL13kZGECGTuD4IkxNVg==" iconFile="Img/General/Orb.png"         color="ffffff00" minSize="12" maxSize="16" alpha="0.9" fadeNear="4000" fadeFar="5000" heightOffset="0" triggerRange="5" behavior="4" resetLength="10800"/>
+		<POI MapID="65" xpos="881.61"  ypos="50.09"   zpos="-617.01"  type="general.ruin_of_orr.scavenger_s_chasm.orbs" GUID="pUSgnDG4BEWafNJUGofqvw==" iconFile="Img/General/Orb.png"         color="ffffff00" minSize="12" maxSize="16" alpha="0.9" fadeNear="4000" fadeFar="5000" heightOffset="0" triggerRange="5" behavior="4" resetLength="10800"/>
+
+		<!-- Vizier's Tower - La Tour du Vizir -->
+		<Trail type="general.ruin_of_orr.vizier_s_tower" GUID="tCb+W+uzTEiI8olUdmIqDw==" trailData="Data/General/JumpingPuzzles/ViziersTower.trl" texture="Data/Arrow.png" color="ff00ff00" alpha="0.7" fadeNear="1500" fadeFar="2000" animSpeed="1" mapDisplaySize="20"/>
+		<POI MapID="51" xpos="110.693" ypos="19.2187" zpos="-419.052" type="general.ruin_of_orr.vizier_s_tower" GUID="kwJbUf+m0EqLgeD/BeMBpQ==" iconFile="Img/General/PuzzleStart.png" heightOffset="1.5"/>
+		<POI MapID="51" xpos="181.87"  ypos="78.3"    zpos="-305.42"  type="general.ruin_of_orr.vizier_s_tower" GUID="u2vbLxZOKEedWvJcn/T1Tg==" iconFile="Img/General/PuzzleChest.png" minSize="12" heightOffset="2.5" behavior="2"/>
+
+
+	<!-- WVW -->
+
+		<!-- Emerald Sanctum - Sanctuaire d'émeraude -->
+		<Trail type="general.wvw.emerald_sanctum" GUID="8XDf/Un9v0qo8OrtdgG+1w==" trailData="Data/General/JumpingPuzzles/EmeraldSanctum1.trl" texture="Data/Arrow.png" color="ff00ff00" fadeNear="1500" fadeFar="2000" animSpeed="1" mapDisplaySize="20"/>
+		<Trail type="general.wvw.emerald_sanctum" GUID="zE/GckAMo0iUtIieiZ8AGw==" trailData="Data/General/JumpingPuzzles/EmeraldSanctum2.trl" texture="Data/Arrow.png" color="ffffdd00" fadeNear="1500" fadeFar="2000" animSpeed="1" mapDisplaySize="20"/>
+		<POI MapID="95" xpos="-586.314" ypos="27.3285" zpos="498.383" type="general.wvw.emerald_sanctum" GUID="UrGCAkoqD0iJIMgEbFLqkg==" iconFile="Img/General/PuzzleStart.png" heightOffset="1.5"/>
+		<POI MapID="95" xpos="-754.152" ypos="34.678"  zpos="367.488" type="general.wvw.emerald_sanctum" GUID="Vty95MjAOEeIQ5YqzQ5D3w==" iconFile="Img/General/PuzzleChest.png" minSize="12" heightOffset="2.5" behavior="2"/>
+		<POI MapID="95" xpos="-646.713" ypos="30.4944" zpos="489.361" type="general.wvw.emerald_sanctum" GUID="v55ld+g380qOb+U6zMqZDg==" iconFile="Img/Icons/Jump.png"          fadeNear="1500" fadeFar="2000" heightOffset="0"/>
+		<POI MapID="95" xpos="-716.668" ypos="26.6651" zpos="512.025" type="general.wvw.emerald_sanctum" GUID="LB2U0LQoO0OLszj/6XTkRA==" iconFile="Img/Icons/Jump.png"          fadeNear="1500" fadeFar="2000" heightOffset="0"/>
+		<POI MapID="95" xpos="-718.625" ypos="52.9473" zpos="528.16"  type="general.wvw.emerald_sanctum" GUID="uz7BaiRd2USCH/WuPD20ZQ==" iconFile="Img/Icons/Key.png"           minSize="8" maxSize="16" fadeNear="2500" fadeFar="4000" behavior="2"/>
+		<POI MapID="95" xpos="-686.673" ypos="36.0637" zpos="579.737" type="general.wvw.emerald_sanctum" GUID="5qsgduDLM0yldZS7CZuKjA==" iconFile="Img/Icons/Key.png"           minSize="8" maxSize="16" fadeNear="2500" fadeFar="4000" behavior="2"/>
+		<POI MapID="95" xpos="-745.689" ypos="30.279"  zpos="385.962" type="general.wvw.emerald_sanctum" GUID="SUb1Pkxm2EaHoWo2NWO/AA==" iconFile="Img/Icons/Interaction.png"   minSize="8" maxSize="16" fadeNear="1500" fadeFar="2000" heightOffset="0.5"/>
+
+		<!-- Obsidian Sanctum - Sanctuaire d'obsidienne -->
+		<Trail type="general.wvw.obsidian_sanctum" GUID="3EjpuUzRoU2i293mOBVA2A==" trailData="Data/General/JumpingPuzzles/ObsidianSanctum.trl" texture="Data/Arrow.png" color="ff00ff00" alpha="0.7" fadeNear="1500" fadeFar="2000" animSpeed="1" mapDisplaySize="20"/>
+		<POI MapID="899" xpos="603.772" ypos="33.8284" zpos="374.058" type="general.wvw.obsidian_sanctum" GUID="Tvgve+CMEk6OqL6kc9hC6g==" iconFile="Img/General/PuzzleStart.png" heightOffset="1.5"/>
+		<POI MapID="899" xpos="895.438" ypos="102.724" zpos="348.351" type="general.wvw.obsidian_sanctum" GUID="ECE7OB4mqk6Y62wV52EXzA==" iconFile="Img/General/PuzzleChest.png" minSize="12" heightOffset="2.5" behavior="2"/>
+		<POI MapID="899" xpos="892.013" ypos="42.4277" zpos="450.601" type="general.wvw.obsidian_sanctum" GUID="1LefL29AkkuCerUAgFixLQ==" iconFile="Img/Icons/Interaction.png"   minSize="8" maxSize="16" fadeNear="1500" fadeFar="2000" heightOffset="0.5"/>
+		<POI MapID="899" xpos="858.397" ypos="19.5483" zpos="413.9"   type="general.wvw.obsidian_sanctum" GUID="Zfx9ez6Us0+lwjYERFcpgQ==" iconFile="Img/Signs/Dodge.png"         minSize="8" maxSize="16" alpha="0.5" fadeNear="1500" fadeFar="2000" heightOffset="0.5"/>
+		<POI MapID="899" xpos="808.737" ypos="17.6328" zpos="392.753" type="general.wvw.obsidian_sanctum" GUID="SPmYtXIG40uVGtlkXIZScg==" iconFile="Img/Icons/Interaction.png"   minSize="8" maxSize="16" fadeNear="1500" fadeFar="2000" heightOffset="0.5"/>
+		<POI MapID="899" xpos="856.569" ypos="25.6224" zpos="354.361" type="general.wvw.obsidian_sanctum" GUID="Xw5fA9kX7U+PK32wkHMRAQ==" iconFile="Img/Signs/DoubleDodge.png"   minSize="8" maxSize="16" alpha="0.5" fadeNear="1500" fadeFar="2000" heightOffset="0.5"/>
+		<POI MapID="899" xpos="797.024" ypos="26.7568" zpos="280.803" type="general.wvw.obsidian_sanctum" GUID="ARNd22OiYUWwfhVxriT29Q==" iconFile="Img/Signs/Jump.png"          minSize="8" maxSize="16" alpha="0.5" fadeNear="1500" fadeFar="2000" heightOffset="0.5"/>
+		<POI MapID="899" xpos="800.574" ypos="47.3958" zpos="280.39"  type="general.wvw.obsidian_sanctum" GUID="4XP2+GHDt0+7YUB48Ed2Hw==" iconFile="Img/Signs/Jump.png"          minSize="8" maxSize="16" alpha="0.5" fadeNear="1500" fadeFar="2000" heightOffset="0.5"/>
+		<POI MapID="899" xpos="905.676" ypos="92.8303" zpos="368.195" type="general.wvw.obsidian_sanctum" GUID="tnIK1Ma2t06+L12AqnB0eQ==" iconFile="Img/Signs/Jump.png"          minSize="8" maxSize="16" alpha="0.5" fadeNear="1500" fadeFar="2000" heightOffset="0.5"/>
+
+		<!-- Sapphire Sanctum - Sanctuaire de saphir -->
+		<Trail type="general.wvw.sapphire_sanctum" GUID="QXiNadReGUOVUzo2lXt2/g==" trailData="Data/General/JumpingPuzzles/SapphireSanctum1.trl" texture="Data/Arrow.png" color="ff00ff00" fadeNear="1500" fadeFar="2000" animSpeed="1" mapDisplaySize="20"/>
+		<Trail type="general.wvw.sapphire_sanctum" GUID="LSuU6ZaEE0yoKb/ELYTtIA==" trailData="Data/General/JumpingPuzzles/SapphireSanctum2.trl" texture="Data/Arrow.png" color="ffffdd00" fadeNear="1500" fadeFar="2000" animSpeed="1" mapDisplaySize="20"/>
+		<POI MapID="96" xpos="-586.314" ypos="27.3285" zpos="498.383" type="general.wvw.sapphire_sanctum" GUID="7AJ6l98BgkOkShLeRFOa7w==" iconFile="Img/General/PuzzleStart.png" heightOffset="1.5"/>
+		<POI MapID="96" xpos="-754.152" ypos="34.678"  zpos="367.488" type="general.wvw.sapphire_sanctum" GUID="aHg11xfqHUiHIViWrvWwGA==" iconFile="Img/General/PuzzleChest.png" minSize="12" heightOffset="2.5" behavior="2"/>
+		<POI MapID="96" xpos="-646.713" ypos="30.4944" zpos="489.361" type="general.wvw.sapphire_sanctum" GUID="V+xfyyUwgUyC1ZfYdIoJRQ==" iconFile="Img/Icons/Jump.png"          fadeNear="1500" fadeFar="2000" heightOffset="0"/>
+		<POI MapID="96" xpos="-716.668" ypos="26.6651" zpos="512.025" type="general.wvw.sapphire_sanctum" GUID="SUb1Pkxm2EaHoWo2NWO/AA==" iconFile="Img/Icons/Jump.png"          fadeNear="1500" fadeFar="2000" heightOffset="0"/>
+		<POI MapID="96" xpos="-718.625" ypos="52.9473" zpos="528.16"  type="general.wvw.sapphire_sanctum" GUID="4Q1HlXkXf0mI02k19eBuDQ==" iconFile="Img/Icons/Key.png"           minSize="8" maxSize="16" fadeNear="2500" fadeFar="4000" behavior="2"/>
+		<POI MapID="96" xpos="-686.673" ypos="36.0637" zpos="579.737" type="general.wvw.sapphire_sanctum" GUID="sGApveyN/E6A6vf+Z60PLQ==" iconFile="Img/Icons/Key.png"           minSize="8" maxSize="16" fadeNear="2500" fadeFar="4000" behavior="2"/>
+		<POI MapID="96" xpos="-745.689" ypos="30.279"  zpos="385.962" type="general.wvw.sapphire_sanctum" GUID="JEToFon9Sk+164oaV5w4kA==" iconFile="Img/Icons/Interaction.png"   minSize="8" maxSize="16" fadeNear="1500" fadeFar="2000" heightOffset="0.5"/>
+
+	</POIs>
+</OverlayData>

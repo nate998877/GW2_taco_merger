@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+POIs: ReActif.9251
+Date: 2016/12/05
+-->
+<OverlayData>
+	<MarkerCategory name="heart_of_thorns.bassin_aurique">
+		<MarkerCategory name="explorateur_des_cimes" DisplayName="Treetop Retriever"/>
+	</MarkerCategory>
+
+	<POIs>
+
+		<!-- Une chercheuse asura a été vue pour la dernière fois au Point de passage du voyageur -->
+		<POI MapID="1043" xpos="-394.616" ypos="493.066" zpos="749.356" type="heart_of_thorns.bassin_aurique.explorateur_des_cimes" GUID="HqRPfxq9QkuR+vMX8pY3vg=="/>
+
+		<!-- On n'a pas revu le chercheur asura depuis qu'il s'est rendu sur la corniche supérieure pour examiner le portail des Exaltés -->
+		<POI MapID="1043" xpos="-285.653" ypos="495.908" zpos="595.285" type="heart_of_thorns.bassin_aurique.explorateur_des_cimes" GUID="YqVt1n6rFk6GHq0bcRWCqw=="/>
+
+		<!-- On a entendu les Zintls se vanter d'avoir trouvé la dépouille d'une exploratrice charr -->
+		<POI MapID="1043" xpos="-419.077" ypos="472.673" zpos="495.49" type="heart_of_thorns.bassin_aurique.explorateur_des_cimes" GUID="3D8avH3jTk2LHdIYL6r7xA=="/>
+
+		<!-- Dans la canopée, on a entendu les échos d'un combat entre un explorateur charr et une colonie de suceurs de sang -->
+		<POI MapID="1043" xpos="-254.831" ypos="455.127" zpos="523.442" type="heart_of_thorns.bassin_aurique.explorateur_des_cimes" GUID="bMIGLQM1ZkywwF8wb721rA=="/>
+
+		<!-- Une exploratrice humaine a sauté trop tôt d'un aéronef. Elle est tombée dans les environs des terres capitzels -->
+		<POI MapID="1043" xpos="-434.573" ypos="467.862" zpos="582.828" type="heart_of_thorns.bassin_aurique.explorateur_des_cimes" GUID="JZb4YCo8FUS4gdpFFLw1yA=="/>
+
+		<!-- En chemin vers l'est, un explorateur a été pris au piège par un jaguar. Cet Humain n'est jamais redescendu de la canopée -->
+		<POI MapID="1043" xpos="-181.337" ypos="429.825" zpos="588.172" type="heart_of_thorns.bassin_aurique.explorateur_des_cimes" GUID="QM4/1IS56EKtC9bpBBhPcg=="/>
+
+		<!-- Une historienne norn est restée derrière pour retenir les brise-os. Son sacrifice n'aura pas été vain -->
+		<POI MapID="1043" xpos="-275.481" ypos="459.474" zpos="565.563" type="heart_of_thorns.bassin_aurique.explorateur_des_cimes" GUID="kPc8W6gz4UuLoGqvTjMk+g=="/>
+
+		<!-- L'explorateur norn a atterri sain et sauf sur une corniche basse, mais a aussitôt été encerclé par des éclaireurs tengus -->
+		<POI MapID="1043" xpos="-312.45" ypos="424.247" zpos="580.136" type="heart_of_thorns.bassin_aurique.explorateur_des_cimes" GUID="MsGTMB6HYkmnFw2YqSKpWg=="/>
+
+		<!-- Une historienne sylvari s'est retrouvée coincée le long de la falaise nord de la Cime ternie. Il est peu probable qu'elle ait survécu -->
+		<POI MapID="1043" xpos="-223.974" ypos="441.365" zpos="725.268" type="heart_of_thorns.bassin_aurique.explorateur_des_cimes" GUID="KqZXn2/lr0qJ7v4emUIrdw=="/>
+
+		<!-- Un explorateur a tenté de trouver un accès par le sud, au pied de la canopée. Ce Sylvari n'est tombé que sur une embuscade coztic -->
+		<POI MapID="1043" xpos="-316.258" ypos="473.662" zpos="478.196" type="heart_of_thorns.bassin_aurique.explorateur_des_cimes" GUID="nFqtKtHodUST/9UcC/UYpA=="/>
+
+	</POIs>
+</OverlayData>

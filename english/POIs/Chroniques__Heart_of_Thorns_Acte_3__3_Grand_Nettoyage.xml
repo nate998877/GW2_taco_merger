@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+POIs: ReActif.9251
+Date: 2017/03/02
+-->
+<OverlayData>
+	<MarkerCategory name="chroniques.hot">
+		<MarkerCategory name="acte_3" DisplayName="Heart of Thorns : Act 3" iconFile="Img\HeartOfThornsActe3.png">
+			<MarkerCategory name="grand_nettoyage" DisplayName="Cleaning House" heightOffset="2.5"/>
+		</MarkerCategory>
+	</MarkerCategory>
+
+	<POIs>
+
+		<!-- Golems Sentinelles (se déplace) -->
+		<POI MapID="1033" xpos="433.9" ypos="19.0563" zpos="-17.0396" type="chroniques.hot.acte_3.grand_nettoyage" GUID="cCQrMvaPkkqMKfRWU8m2Bw==" iconFile="Img\Combat.png" color="ffff0000"/>
+		<POI MapID="1033" xpos="488.882" ypos="32.6386" zpos="-123.753" type="chroniques.hot.acte_3.grand_nettoyage" GUID="SJNuLNio3k6rzLV2X1+UXA==" iconFile="Img\Combat.png" color="ffff0000"/>
+		<POI MapID="1033" xpos="455.785" ypos="19.8287" zpos="8.67479" type="chroniques.hot.acte_3.grand_nettoyage" GUID="iUAFrAgas0u815Ctf8cZyg==" iconFile="Img\Combat.png" color="ffff0000"/>
+
+		<!-- Tourelles Balistiques -->
+		<POI MapID="1033" xpos="571.356" ypos="43.6418" zpos="220.64" type="chroniques.hot.acte_3.grand_nettoyage" GUID="hzsFYt2LSEexG3zPbGTiQg=="/>
+		<POI MapID="1033" xpos="578.919" ypos="45.5304" zpos="231.673" type="chroniques.hot.acte_3.grand_nettoyage" GUID="YziyiLtQhUK6dgQ45EQNjQ=="/>
+		<POI MapID="1033" xpos="561.998" ypos="47.2045" zpos="231.297" type="chroniques.hot.acte_3.grand_nettoyage" GUID="/CJORuaW+kCK131JfSW/CQ=="/>
+		<POI MapID="1033" xpos="562.97" ypos="48.0374" zpos="249.048" type="chroniques.hot.acte_3.grand_nettoyage" GUID="Yj1QH3dR2EWoJbp05pi6kA=="/>
+		<POI MapID="1033" xpos="442.859" ypos="0.783046" zpos="163.264" type="chroniques.hot.acte_3.grand_nettoyage" GUID="ZfO/iSZnDEyoEAnCDUhFlw=="/>
+		<POI MapID="1033" xpos="434.662" ypos="1.00198" zpos="138.575" type="chroniques.hot.acte_3.grand_nettoyage" GUID="xgjy+itap0uoH4SBBOqS7w=="/>
+		<POI MapID="1033" xpos="412.948" ypos="1.67444" zpos="148.29" type="chroniques.hot.acte_3.grand_nettoyage" GUID="mrDOiMLp7k6RyCeHfWeLXQ=="/>
+		<POI MapID="1033" xpos="400.655" ypos="1.67579" zpos="162.197" type="chroniques.hot.acte_3.grand_nettoyage" GUID="pjsMok7NMEynyF9U1VP3dQ=="/>
+		<POI MapID="1033" xpos="404.747" ypos="1.51593" zpos="185.56" type="chroniques.hot.acte_3.grand_nettoyage" GUID="XCMsYHuDaE2QcB7ir2mhaw=="/>
+		<POI MapID="1033" xpos="427.354" ypos="1.0084" zpos="181.89" type="chroniques.hot.acte_3.grand_nettoyage" GUID="mbN88viSPEGdy0kna1AZSg=="/>
+		<POI MapID="1033" xpos="310.994" ypos="2.43692" zpos="90.6484" type="chroniques.hot.acte_3.grand_nettoyage" GUID="mi9S7foBjUycMfcAwKgZ5A=="/>
+		<POI MapID="1033" xpos="315.414" ypos="1.96368" zpos="106.863" type="chroniques.hot.acte_3.grand_nettoyage" GUID="a0en4uPz90eFTZ3j+5F/Aw=="/>
+		<POI MapID="1033" xpos="297.655" ypos="0.463363" zpos="110.603" type="chroniques.hot.acte_3.grand_nettoyage" GUID="eSYhX6xYXEmDAh2mUMvuiQ=="/>
+		<POI MapID="1033" xpos="294.071" ypos="3.36312" zpos="139.383" type="chroniques.hot.acte_3.grand_nettoyage" GUID="mAO981COyEOy47Z2tuVFnQ=="/>
+		<POI MapID="1033" xpos="372.453" ypos="5.65643" zpos="22.5489" type="chroniques.hot.acte_3.grand_nettoyage" GUID="ugfVYMcakEq0mThLk8foYQ=="/>
+		<POI MapID="1033" xpos="391.72" ypos="17.2466" zpos="-11.5304" type="chroniques.hot.acte_3.grand_nettoyage" GUID="R1EGWXc+FUui/QyFg5xJvA=="/>
+		<POI MapID="1033" xpos="511.955" ypos="20.6684" zpos="86.6424" type="chroniques.hot.acte_3.grand_nettoyage" GUID="jWaHKdkQZ0CpiL7yAJXpbQ=="/>
+		<POI MapID="1033" xpos="536.159" ypos="17.9696" zpos="80.2202" type="chroniques.hot.acte_3.grand_nettoyage" GUID="/ivRyE8X0U6z1iy0aaGIhg=="/>
+		<POI MapID="1033" xpos="513.079" ypos="18.6912" zpos="102.065" type="chroniques.hot.acte_3.grand_nettoyage" GUID="YLtvsX2UwEGjepSAIyNGMw=="/>
+		<POI MapID="1033" xpos="432.73" ypos="-55.0163" zpos="135.674" type="chroniques.hot.acte_3.grand_nettoyage" GUID="SWHqarwTDU+uEaCMFBCTvw=="/>
+		<POI MapID="1033" xpos="432.731" ypos="-43.4039" zpos="135.671" type="chroniques.hot.acte_3.grand_nettoyage" GUID="Vtdv4uzRmUe1qYzdKXhXXQ=="/>
+		<POI MapID="1033" xpos="432.099" ypos="-55.3938" zpos="118.323" type="chroniques.hot.acte_3.grand_nettoyage" GUID="osPDntQg/UKfyOMUfV5C0Q=="/>
+		<POI MapID="1033" xpos="432.1" ypos="-43.4765" zpos="118.326" type="chroniques.hot.acte_3.grand_nettoyage" GUID="F334K4ODE0iI+TtuezNPRg=="/>
+		<POI MapID="1033" xpos="485.403" ypos="19.3494" zpos="-31.5034" type="chroniques.hot.acte_3.grand_nettoyage" GUID="KU/vmqUgMkm58QRaav+gVw=="/>
+		<POI MapID="1033" xpos="467.299" ypos="24.0201" zpos="-22.8281" type="chroniques.hot.acte_3.grand_nettoyage" GUID="7PRC4Sd0okeaCDrM7zN9hQ=="/>
+		<POI MapID="1033" xpos="458" ypos="37.5603" zpos="-54.5317" type="chroniques.hot.acte_3.grand_nettoyage" GUID="4Wjegy9XBU+nSRDWnAd0ww=="/>
+		<POI MapID="1033" xpos="466.155" ypos="37.6775" zpos="-65.4335" type="chroniques.hot.acte_3.grand_nettoyage" GUID="slUr4VIJXkS19IlrsFeqLQ=="/>
+		<POI MapID="1033" xpos="470.361" ypos="33.5765" zpos="-94.6155" type="chroniques.hot.acte_3.grand_nettoyage" GUID="7xhAu31XFESsgnOAE1iVtA=="/>
+		<POI MapID="1033" xpos="503.376" ypos="34.3172" zpos="-124.191" type="chroniques.hot.acte_3.grand_nettoyage" GUID="sVxJfd48G0a+ilwe07iCwQ=="/>
+
+	</POIs>
+</OverlayData>

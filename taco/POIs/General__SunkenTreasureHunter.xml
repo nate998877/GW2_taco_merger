@@ -1,0 +1,18 @@
+<!-- 2019.12.25 -->
+<OverlayData>
+	<POIs>
+
+		<!-- SUNKEN TREASURE HUNTER -->
+		<POI MapID="24" xpos="-8.13045" ypos="-38.3686" zpos="37.7036"  type="general.sunken_treasure_hunter.gendarran_fields"    GUID="QUD9vPKVtky3Hg/MYXLgzA==" heightOffset="2"/>
+		<POI MapID="73" xpos="263.555"  ypos="-48.6629" zpos="391.105"  type="general.sunken_treasure_hunter.bloodtide_coast"     GUID="aZpojlSiv06aIDydFZpDAA==" heightOffset="2"/>
+		<POI MapID="30" xpos="-34.4235" ypos="-13.7234" zpos="156.548"  type="general.sunken_treasure_hunter.frostgorge_sound"    GUID="4lsY9GYIcE++dw8QQJomPA==" heightOffset="2"/>
+		<POI MapID="17" xpos="709.629"  ypos="-83.1603" zpos="-730.943" type="general.sunken_treasure_hunter.harathi_hinterlands" GUID="QSTePYR/Dki/IFoLg0yuBQ==" heightOffset="2"/>
+		<POI MapID="25" xpos="325.333"  ypos="-31.7194" zpos="157.922"  type="general.sunken_treasure_hunter.iron_marches"        GUID="vmOmsHpy/UOLQsnqsegwYg==" heightOffset="2"/>
+		<POI MapID="23" xpos="111.77"   ypos="-51.5565" zpos="-341.153" type="general.sunken_treasure_hunter.kessex_hills"        GUID="3a6ThkFSz0WWX7THp+CvqQ==" heightOffset="2"/>
+		<POI MapID="27" xpos="-243.121" ypos="-38.2087" zpos="-942.916" type="general.sunken_treasure_hunter.lornar_s_pass"       GUID="YMfJ+cJEDkK3vIAVn/lEyg==" heightOffset="2"/>
+		<POI MapID="39" xpos="995.188"  ypos="-97.2368" zpos="-326.533" type="general.sunken_treasure_hunter.mount_maelstrom"     GUID="c2io+IX6AE+er/Omw2RGzA==" heightOffset="2"/>
+		<POI MapID="31" xpos="112.594"  ypos="-22.7815" zpos="-434.441" type="general.sunken_treasure_hunter.snowden_drifts"      GUID="0StzMhqVoUyBXzEXofkPmQ==" heightOffset="2"/>
+		<POI MapID="29" xpos="514.334"  ypos="-30.4882" zpos="165.463"  type="general.sunken_treasure_hunter.timberline_falls"    GUID="CtxXxt5Bl0+t0eOc3Lc+sA==" heightOffset="2"/>
+
+	</POIs>
+</OverlayData>

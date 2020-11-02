@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+POIs: ReActif.9251
+Date: 2017/05/06
+-->
+<OverlayData>
+	<MarkerCategory name="chroniques.saison_3">
+		<MarkerCategory name="ep5_point_d_ignition" DisplayName="Ep.5 - Flashpoint" iconFile="Img\MontDraconis.png">
+			<MarkerCategory name="faire_chauffer_le_scanneur" DisplayName="Go Nuts with the Scanning"/>
+		</MarkerCategory>
+	</MarkerCategory>
+
+	<POIs>
+
+		<!-- Le champ de force (1) -->
+		<POI MapID="1196" xpos="30.188" ypos="1427.52" zpos="-172.418" type="chroniques.saison_3.ep5_point_d_ignition.faire_chauffer_le_scanneur" GUID="vrElvWda+0Gdb1AdwBI9Tw=="/>
+
+		<!-- Ancres -->
+		<POI MapID="1196" xpos="12.768" ypos="1430.99" zpos="-201.233" type="chroniques.saison_3.ep5_point_d_ignition.faire_chauffer_le_scanneur" GUID="nBEJ/e3vk0SPnSDmj8VzAw=="/>
+		<POI MapID="1196" xpos="30.4479" ypos="1431.16" zpos="-143.485" type="chroniques.saison_3.ep5_point_d_ignition.faire_chauffer_le_scanneur" GUID="6Q+aTEe8lk6spF6H4bQ0Jw=="/>
+		<POI MapID="1196" xpos="62.1155" ypos="1430.27" zpos="-191.459" type="chroniques.saison_3.ep5_point_d_ignition.faire_chauffer_le_scanneur" GUID="ooWqjBFOZkuexU04bMeoZw=="/>
+
+		<!-- Taimi -->
+		<POI MapID="1196" xpos="85" ypos="1440" zpos="-156.49" type="chroniques.saison_3.ep5_point_d_ignition.faire_chauffer_le_scanneur" GUID="6NSNAjcSKU2HAJSNDKpMFA=="/>
+
+		<!-- Le champ de force (2) -->
+		<POI MapID="1196" xpos="32.6653" ypos="1427.54" zpos="-176.793" type="chroniques.saison_3.ep5_point_d_ignition.faire_chauffer_le_scanneur" GUID="ycQivlZS9UiVfqjj1o8K7g=="/>
+
+		<!-- Un destructeur -->
+		<POI MapID="1196" xpos="28.29" ypos="1206.93" zpos="-125.031" type="chroniques.saison_3.ep5_point_d_ignition.faire_chauffer_le_scanneur" GUID="gE6GBBhqgEyM4cQvzfqXnA=="/>
+
+		<!-- Balthazar -->
+		<POI MapID="1196" xpos="31.9093" ypos="121.96" zpos="-183.515" type="chroniques.saison_3.ep5_point_d_ignition.faire_chauffer_le_scanneur" GUID="Dxni7yhKk0qprX9xXczq6A=="/>
+
+		<!-- Les deux molosses de Balthazar -->
+		<POI MapID="1196" xpos="17.6546" ypos="107.678" zpos="-188.16" type="chroniques.saison_3.ep5_point_d_ignition.faire_chauffer_le_scanneur" GUID="Lyu/9WQcoUGqQW4ocs0wuA=="/><!-- Temar -->
+		<POI MapID="1196" xpos="18.3153" ypos="107.678" zpos="-175.356" type="chroniques.saison_3.ep5_point_d_ignition.faire_chauffer_le_scanneur" GUID="TIE2ivMDPEKJGjZQ1q7+MA=="/><!-- Tegon -->
+
+		<!-- La machine d'Omadd -->
+		<POI MapID="1196" xpos="31.4437" ypos="114.59" zpos="-183.109" type="chroniques.saison_3.ep5_point_d_ignition.faire_chauffer_le_scanneur" GUID="lZ896abdSUeeFgfsp76gNw=="/>
+
+	</POIs>
+</OverlayData>

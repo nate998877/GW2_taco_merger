@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+POIs: ReActif.9251
+Date: 2017/08/22
+-->
+<OverlayData>
+	<MarkerCategory name="collections" DisplayName="Collections" behavior="3">
+		<MarkerCategory name="collections_rares" DisplayName="Rares Collections" iconFile="Img\CollectionRare.png">
+			<MarkerCategory name="benediction_de_koda" DisplayName="Koda's Blessing"/>
+		</MarkerCategory>
+	</MarkerCategory>
+
+	<POIs>
+
+		<!-- Offrande pour les réfugiés tenaces -->
+		<POI MapID="22" xpos="-826.879" ypos="5.64471" zpos="361.417" type="collections.collections_rares.benediction_de_koda" GUID="wM4FzqOrpUqmxA+VUSpkTA=="/>
+
+		<!-- Offrande pour la restauration de la jungle -->
+		<POI MapID="1041" xpos="-736.632" ypos="183.588" zpos="-425.095" type="collections.collections_rares.benediction_de_koda" GUID="jnIQa8GIBUm6DTxuMU66CA=="/>
+
+		<!-- Offrande pour l'harmonie élémentaire -->
+		<POI MapID="39" xpos="1049.97" ypos="106.517" zpos="492.943" type="collections.collections_rares.benediction_de_koda" GUID="fwKG6/Xfz0q25Nipf/Ij5Q=="/>
+
+		<!-- Offrande pour la paix élémentaire -->
+		<POI MapID="23" xpos="1183.12" ypos="33.1503" zpos="-324.613" type="collections.collections_rares.benediction_de_koda" GUID="sHHZinAnqk2fuSEyDC5X2g=="/>
+
+		<!-- Offrande pour la survie des Quaggans -->
+		<POI MapID="29" xpos="279.712" ypos="15.3715" zpos="-900.98" type="collections.collections_rares.benediction_de_koda" GUID="CsUof1ARk0itBJ/dshdFxQ=="/>
+
+		<!-- Offrande pour la paix -->
+		<POI MapID="21" xpos="55.7756" ypos="42.2211" zpos="335.533" type="collections.collections_rares.benediction_de_koda" GUID="vFzqb2ZYK0GX/oKSh4N58Q=="/>
+
+		<!-- Offrande pour la rédemption -->
+		<POI MapID="1043" xpos="217.263" ypos="10.0665" zpos="-221.679" type="collections.collections_rares.benediction_de_koda" GUID="syY4bkEcOE2N6jDFrT4Ejg=="/>
+
+		<!-- Offrande pour restaurer la grandeur de la nature -->
+		<POI MapID="1045" xpos="-405.594" ypos="329.63" zpos="-23.7643" type="collections.collections_rares.benediction_de_koda" GUID="oALWaz1BXk+gFHErI2TrEQ=="/>
+
+		<!-- Offrande pour en finir avec la corruption -->
+		<POI MapID="648" xpos="30.6769" ypos="103.03" zpos="56.7805" type="collections.collections_rares.benediction_de_koda" GUID="3/saxbGInEWzc0+t/2foTA=="/>
+
+		<!-- Offrande pour le sanctuaire de Kodan -->
+		<POI MapID="30" xpos="-559.884" ypos="39.8743" zpos="-248.197" type="collections.collections_rares.benediction_de_koda" GUID="JKsXf46shUW+mfEb2AwjPg=="/>
+
+		<!-- Offrande pour les émissaires exilés -->
+		<POI MapID="31" xpos="284.723" ypos="20.904" zpos="-395.218" type="collections.collections_rares.benediction_de_koda" GUID="HcVs1WY3LECiK+MfIL7kSA=="/>
+
+		<!-- Offrande pour la coopération entre les races -->
+		<POI MapID="50" xpos="142.124" ypos="40.6779" zpos="218.771" type="collections.collections_rares.benediction_de_koda" GUID="Ly9pSmuxn0qku11QVUJXmA=="/>
+
+		<!-- Offrande d'effort commun -->
+		<POI MapID="54" xpos="408.203" ypos="32.0219" zpos="146.9" type="collections.collections_rares.benediction_de_koda" GUID="fYJ8AyDrtkW2axdyv7Bu7A=="/>
+
+		<!-- Offrande pour la communion avec la nature -->
+		<POI MapID="1052" xpos="-65.7226" ypos="402.076" zpos="-397.7" type="collections.collections_rares.benediction_de_koda" GUID="5PcPzmYQBUqz7AuYglo3Jw=="/>
+
+		<!-- Offrande pour la stabilité dimensionnelle -->
+		<POI MapID="15" xpos="450.25" ypos="1.84075" zpos="-292.975" type="collections.collections_rares.benediction_de_koda" GUID="k3e1wctC806uMM/9HlPi+Q=="/>
+
+		<!-- Offrande pour la stabilité élémentaire -->
+		<POI MapID="25" xpos="-459.776" ypos="46.8836" zpos="1156.07" type="collections.collections_rares.benediction_de_koda" GUID="ZWAoQyI99EmIZzlXzpODfw=="/>
+
+		<!-- Offrande pour la récupération élémentaire -->
+		<POI MapID="28" xpos="399.23" ypos="71.5972" zpos="344.932" type="collections.collections_rares.benediction_de_koda" GUID="KtVbWMVkXUqn/sKAm/Bgmw=="/>
+
+		<!-- Offrande pour l'équilibre de la vie -->
+		<POI MapID="51" xpos="914.407" ypos="3.85997" zpos="-200.373" type="collections.collections_rares.benediction_de_koda" GUID="zn0H6rUhD0GGx3oPzomVUA=="/>
+
+		<!-- Offrande pour restaurer l'équilibre magique -->
+		<POI MapID="1165" xpos="-230.106" ypos="76.3381" zpos="-8.65013" type="collections.collections_rares.benediction_de_koda" GUID="rxHSDc9xC06kmh1GJUtKWw=="/>
+
+	</POIs>
+</OverlayData>

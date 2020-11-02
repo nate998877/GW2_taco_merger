@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+POIs: ReActif.9251 - TMKFrench.6427
+Date: 2017/08/23
+-->
+<OverlayData>
+	<MarkerCategory name="general" DisplayName="General">
+		<MarkerCategory name="puzzles_de_saut" DisplayName="Jumping Puzzles" iconFile="Img\Guide.png" iconSize="0.75">
+			<MarkerCategory name="gouffre_du_charognard" DisplayName="Scavenger's Chasm" triggerRange="2">
+				<MarkerCategory name="orbes" DisplayName="Orbs" iconFile="Img\Orbe.png" alpha="0.75" behavior="4" resetLength="10800"/>
+			</MarkerCategory>
+		</MarkerCategory>
+	</MarkerCategory>
+
+	<POIs>
+
+		<!-- Début -->
+		<POI MapID="65" xpos="729.15" ypos="70.05" zpos="-517.13" type="general.puzzles_de_saut.debut" GUID="exqbLq7W10CWNMJNsULV+w=="/>
+
+		<!-- Segment 1 -->
+		<Route MapID="65" name="Segment_1" resetposx="729.15" resetposy="70.05" resetposz="-517.13" resetrange="3">
+			<POI MapID="65" xpos="737.41" ypos="49.32" zpos="-523.95" type="general.puzzles_de_saut.gouffre_du_charognard" GUID="/qxyfmTm5U2Q7QgURMfUFw=="/>
+			<POI MapID="65" xpos="738.489" ypos="37.1757" zpos="-517.774" type="general.puzzles_de_saut.gouffre_du_charognard" GUID="537+9ciR40Sy0Pk3pCXo3g=="/>
+			<POI MapID="65" xpos="740.203" ypos="30.4407" zpos="-514.883" type="general.puzzles_de_saut.gouffre_du_charognard" GUID="gzWq49KqzUqyULHKhxw6kQ=="/>
+			<POI MapID="65" xpos="732.721" ypos="26.0382" zpos="-513.488" type="general.puzzles_de_saut.gouffre_du_charognard" GUID="QB7YuMi8P0W0FkqlBmIx5A=="/>
+			<POI MapID="65" xpos="740.925" ypos="25.886" zpos="-502.06" type="general.puzzles_de_saut.gouffre_du_charognard" GUID="2QSpzYcwCESv40ywAEtu0A=="/>
+			<POI MapID="65" xpos="754.255" ypos="24.0675" zpos="-493.786" type="general.puzzles_de_saut.gouffre_du_charognard" GUID="xnad0KczS0mdWyDGTjpMgg=="/>
+			<POI MapID="65" xpos="765.858" ypos="24.0684" zpos="-490.91" type="general.puzzles_de_saut.gouffre_du_charognard" GUID="GR919gooEkqqh4TfuVPhuA=="/>
+			<POI MapID="65" xpos="773.722" ypos="25.1435" zpos="-505.775" type="general.puzzles_de_saut.gouffre_du_charognard" GUID="EhcR2M1Pwke7MUOKVR0yaA=="/>
+			<POI MapID="65" xpos="775.246" ypos="27.2613" zpos="-513.408" type="general.puzzles_de_saut.gouffre_du_charognard" GUID="7MNFK+WUa0mdcyrcuvLqDQ=="/>
+			<POI MapID="65" xpos="761.787" ypos="26.0258" zpos="-525.245" type="general.puzzles_de_saut.gouffre_du_charognard" GUID="dn+/s9pYsEye/C9zAky1mw=="/>
+			<POI MapID="65" xpos="764.361" ypos="20.8624" zpos="-547.329" type="general.puzzles_de_saut.gouffre_du_charognard" GUID="1feGEVJCz0+F2qtpwy+cfw=="/>
+			<POI MapID="65" xpos="773.229" ypos="19.6303" zpos="-562.975" type="general.puzzles_de_saut.gouffre_du_charognard" GUID="GnHTsrKjxE6ilqtRY8+nkA=="/>
+			<POI MapID="65" xpos="777.511" ypos="21.6239" zpos="-564.714" type="general.puzzles_de_saut.gouffre_du_charognard" GUID="4T6ZqTCk1ESMFBeIPsslXw=="/>
+			<POI MapID="65" xpos="780.941" ypos="21.3131" zpos="-575.863" type="general.puzzles_de_saut.gouffre_du_charognard" GUID="FYPA1LNpfEC6jgtwXi4N1Q=="/>
+			<POI MapID="65" xpos="782.336" ypos="25.075" zpos="-582.912" type="general.puzzles_de_saut.gouffre_du_charognard" GUID="G+cMONRrfkCyCsUT6Oiziw=="/>
+			<POI MapID="65" xpos="783.096" ypos="26.2453" zpos="-589.345" type="general.puzzles_de_saut.gouffre_du_charognard" GUID="jZLWXBEp70KlvnhtoGj6vw=="/>
+			<POI MapID="65" xpos="792.94" ypos="20.07" zpos="-594.81" type="general.puzzles_de_saut.gouffre_du_charognard" GUID="xIHvn8gLmUORXcLLDLRQNg=="/>
+			<POI MapID="65" xpos="799.431" ypos="19.8792" zpos="-599.638" type="general.puzzles_de_saut.gouffre_du_charognard" GUID="TuBnmwLbZ0uhMR6dLVUjIA=="/>
+			<POI MapID="65" xpos="802.447" ypos="21.6531" zpos="-601.345" type="general.puzzles_de_saut.gouffre_du_charognard" GUID="LSZSeVXxJkKqKWVnBTpDEQ=="/>
+			<POI MapID="65" xpos="810.715" ypos="25.7947" zpos="-595.674" type="general.puzzles_de_saut.gouffre_du_charognard" GUID="93s9b6JX5kqCkVBK6LZgvA=="/>
+			<POI MapID="65" xpos="819.384" ypos="28.389" zpos="-588.717" type="general.puzzles_de_saut.gouffre_du_charognard" GUID="Uus136Nw20SdYMP3+GREBA=="/>
+			<POI MapID="65" xpos="826.787" ypos="28.6913" zpos="-585.156" type="general.puzzles_de_saut.gouffre_du_charognard" GUID="RhGMmYbdn0iHpRIWAyIOOQ=="/>
+			<POI MapID="65" xpos="834.891" ypos="28.2693" zpos="-581.733" type="general.puzzles_de_saut.gouffre_du_charognard" GUID="NNmNjSvy606Q3vgq4/LoZQ=="/>
+			<POI MapID="65" xpos="839.457" ypos="28.2898" zpos="-587.744" type="general.puzzles_de_saut.gouffre_du_charognard" GUID="r7wdmo+rJkC5X9/XDTk6jQ=="/>
+			<POI MapID="65" xpos="846.437" ypos="22.7014" zpos="-590.449" type="general.puzzles_de_saut.gouffre_du_charognard" GUID="P3BNjEQFgEuuDBuBUu9F1Q=="/>
+			<POI MapID="65" xpos="852.93" ypos="18.0025" zpos="-589.229" type="general.puzzles_de_saut.gouffre_du_charognard" GUID="eeUVKTjfDUKUnhFYrWQ7Iw=="/>
+			<POI MapID="65" xpos="851.024" ypos="0.1" zpos="-589.61" type="general.puzzles_de_saut.gouffre_du_charognard" GUID="u81lA8c7N0aY9ml5dCOxiw=="/>
+			<POI MapID="65" xpos="867.455" ypos="-8.55257" zpos="-592.287" type="general.puzzles_de_saut.gouffre_du_charognard" GUID="yH9iR5HVCk+aDhbh4X7AIw=="/>
+			<POI MapID="65" xpos="892.392" ypos="-8.50228" zpos="-590.599" type="general.puzzles_de_saut.gouffre_du_charognard" GUID="WbeaY5rzpk+H9vLbgo34Rg=="/>
+			<POI MapID="65" xpos="898.308" ypos="-15.1015" zpos="-580.307" type="general.puzzles_de_saut.gouffre_du_charognard" GUID="2pRw9gQ8aUqOALaLPbeXQw=="/>
+			<POI MapID="65" xpos="904.977" ypos="-17.0145" zpos="-585.264" type="general.puzzles_de_saut.gouffre_du_charognard" GUID="PgTk1V4lbUWYdwFAHVHMFg=="/>
+			<POI MapID="65" xpos="915.31" ypos="-17.8107" zpos="-595.459" type="general.puzzles_de_saut.gouffre_du_charognard" GUID="TgROOOMzvkKv3JRooOUWjQ=="/>
+			<POI MapID="65" xpos="918.136" ypos="-17.6862" zpos="-598.844" type="general.puzzles_de_saut.gouffre_du_charognard" GUID="7zL98Xv8sEyLFro5x+URKg=="/>
+			<POI MapID="65" xpos="909.486" ypos="-19.3919" zpos="-587.867" type="general.puzzles_de_saut.gouffre_du_charognard" GUID="C6KmyMVwcE2x4dP8kEt81Q=="/>
+			<POI MapID="65" xpos="894.94" ypos="-13.45" zpos="-583.88" type="general.puzzles_de_saut.gouffre_du_charognard" GUID="S9KLRqT+sE+RAp5d/Cc1lg=="/>
+			<POI MapID="65" xpos="890.98" ypos="-5.84135" zpos="-593.619" type="general.puzzles_de_saut.gouffre_du_charognard" GUID="D2WOyQlhskO5t8S7tt3Y3Q=="/>
+			<POI MapID="65" xpos="875.026" ypos="-3.88364" zpos="-604.206" type="general.puzzles_de_saut.gouffre_du_charognard" GUID="O+PToDfc0k28IPxWSAqZOg=="/>
+			<POI MapID="65" xpos="864.897" ypos="-4.57226" zpos="-607.296" type="general.puzzles_de_saut.gouffre_du_charognard" GUID="MjoSbM83QkSwMJlGry7+aA=="/>
+			<POI MapID="65" xpos="851.917" ypos="-5.53471" zpos="-608.642" type="general.puzzles_de_saut.gouffre_du_charognard" GUID="z9gJ4oRouUG1qIw/MvMlvg=="/>
+			<POI MapID="65" xpos="838.758" ypos="-3.45014" zpos="-610.809" type="general.puzzles_de_saut.gouffre_du_charognard" GUID="K++vLyEkjkKmS4LXHKh2NA=="/>
+			<POI MapID="65" xpos="820.671" ypos="-6.89058" zpos="-611.429" type="general.puzzles_de_saut.gouffre_du_charognard" GUID="qikD91hxgEecy+yDZOP0WQ=="/>
+			<POI MapID="65" xpos="800.836" ypos="-7.7995" zpos="-609.474" type="general.puzzles_de_saut.gouffre_du_charognard" GUID="TzuszSEi00G9dwG8vV99CA=="/>
+			<POI MapID="65" xpos="785.737" ypos="-6.8845" zpos="-606.836" type="general.puzzles_de_saut.gouffre_du_charognard" GUID="K5oxyWio9kmJGbjXB2IYzQ=="/>
+			<POI MapID="65" xpos="772.628" ypos="-11.4251" zpos="-603.349" type="general.puzzles_de_saut.gouffre_du_charognard" GUID="6UAhGampBEK6skA9Yh4qHg=="/>
+			<POI MapID="65" xpos="759.097" ypos="-15.3128" zpos="-598.297" type="general.puzzles_de_saut.gouffre_du_charognard" GUID="2u0lJFjMx0Shv5hawjTzng=="/>
+			<POI MapID="65" xpos="745.001" ypos="-21.3442" zpos="-592.462" type="general.puzzles_de_saut.gouffre_du_charognard" GUID="IxvQ7Rgz0kC9P66izStTJg=="/>
+			<POI MapID="65" xpos="739.544" ypos="-21.4911" zpos="-584.777" type="general.puzzles_de_saut.gouffre_du_charognard" GUID="w6MwjwatzkG9TN4TXQmOkg=="/>
+			<POI MapID="65" xpos="740.727" ypos="-22.2468" zpos="-576.241" type="general.puzzles_de_saut.gouffre_du_charognard" GUID="TQAQ0tTO4k2N8mItJNjyDQ=="/>
+			<POI MapID="65" xpos="745.655" ypos="-18.1871" zpos="-592.649" type="general.puzzles_de_saut.gouffre_du_charognard" GUID="h0m4l5kpgkG3SIlvXYjTTQ=="/>
+			<POI MapID="65" xpos="757.64" ypos="-14.548" zpos="-589.335" type="general.puzzles_de_saut.gouffre_du_charognard" GUID="7FVuCfgvREeEZJ6R9AW/4g=="/>
+			<POI MapID="65" xpos="766.819" ypos="-5.98628" zpos="-587.719" type="general.puzzles_de_saut.gouffre_du_charognard" GUID="rmxqNYrk7UaBwXt6eAUiqQ=="/>
+		</Route>
+
+		<!-- Segment 2 -->
+		<Route MapID="65" name="Segment_2" resetposx="765.263" resetposy="0" resetposz="-585.242" resetrange="2">
+			<POI MapID="65" xpos="762.853" ypos="1.31816" zpos="-590.07" type="general.puzzles_de_saut.gouffre_du_charognard" GUID="zErz5boYT0OFYLYT/G5INA=="/>
+			<POI MapID="65" xpos="767.907" ypos="3.86616" zpos="-600.512" type="general.puzzles_de_saut.gouffre_du_charognard" GUID="dZd+WLgciEKN+kEGAncUTA=="/>
+			<POI MapID="65" xpos="775.272" ypos="5.8374" zpos="-609.918" type="general.puzzles_de_saut.gouffre_du_charognard" GUID="Q2whHLPpGES54/QkgUwCmA=="/>
+			<POI MapID="65" xpos="782.568" ypos="8.13431" zpos="-616.753" type="general.puzzles_de_saut.gouffre_du_charognard" GUID="exPVz1nru0mJ/P1fD79F4w=="/>
+			<POI MapID="65" xpos="779.592" ypos="11.8787" zpos="-615.534" type="general.puzzles_de_saut.gouffre_du_charognard" GUID="0Sn6PRrqWEKNlDg2qZlkbg=="/>
+			<POI MapID="65" xpos="778.251" ypos="15.3592" zpos="-616.719" type="general.puzzles_de_saut.gouffre_du_charognard" GUID="5yU3jUotx065tbNOqDhyJg=="/>
+			<POI MapID="65" xpos="781.695" ypos="17.7796" zpos="-619.569" type="general.puzzles_de_saut.gouffre_du_charognard" GUID="g4wPJgA1tUKloVOJh5E0pw=="/>
+			<POI MapID="65" xpos="789.34" ypos="18.9455" zpos="-618.116" type="general.puzzles_de_saut.gouffre_du_charognard" GUID="e/4mmuvS9kOkNJduNyR5pg=="/>
+			<POI MapID="65" xpos="797.093" ypos="15.7069" zpos="-612.065" type="general.puzzles_de_saut.gouffre_du_charognard" GUID="DyWtGQvRFk2Ox9DKGJYx/A=="/>
+			<POI MapID="65" xpos="807.083" ypos="12.8878" zpos="-608.125" type="general.puzzles_de_saut.gouffre_du_charognard" GUID="m/eFIfHA3kCkmbL+Okq2Hg=="/>
+			<POI MapID="65" xpos="809.907" ypos="13.9405" zpos="-610.786" type="general.puzzles_de_saut.gouffre_du_charognard" GUID="qZtu2LRJsUyO9ia7Yl7mww=="/>
+			<POI MapID="65" xpos="817.175" ypos="3.86572" zpos="-618.79" type="general.puzzles_de_saut.gouffre_du_charognard" GUID="Uv5hX3Dgz0SyGXynEa6TYw=="/>
+			<POI MapID="65" xpos="823.524" ypos="5.07557" zpos="-618.774" type="general.puzzles_de_saut.gouffre_du_charognard" GUID="uWd7Mm511kSF5bX8UKfHbQ=="/>
+			<POI MapID="65" xpos="829.355" ypos="5.47275" zpos="-619.808" type="general.puzzles_de_saut.gouffre_du_charognard" GUID="uam+kdsRkkqdgCcM17IwHg=="/>
+			<POI MapID="65" xpos="835.234" ypos="7.04438" zpos="-620.439" type="general.puzzles_de_saut.gouffre_du_charognard" GUID="5+yu8rifREawy00hYdVyKA=="/>
+			<POI MapID="65" xpos="849.487" ypos="3.74558" zpos="-619.415" type="general.puzzles_de_saut.gouffre_du_charognard" GUID="G+Pwe3gv/EWyL/2wzgWFEA=="/>
+			<POI MapID="65" xpos="858.576" ypos="4.83036" zpos="-621.564" type="general.puzzles_de_saut.gouffre_du_charognard" GUID="OFqsAitnykurTyVRaYMing=="/>
+			<POI MapID="65" xpos="865.338" ypos="9.96485" zpos="-618.895" type="general.puzzles_de_saut.gouffre_du_charognard" GUID="o86m333120eI4DQoedpkNw=="/>
+			<POI MapID="65" xpos="872.58" ypos="16.061" zpos="-618.928" type="general.puzzles_de_saut.gouffre_du_charognard" GUID="8H++8pmrUUyfZjxF2SM1UQ=="/>
+			<POI MapID="65" xpos="879.259" ypos="18.1025" zpos="-616.32" type="general.puzzles_de_saut.gouffre_du_charognard" GUID="vgGvhHsriUOWE1SS1+c5zw=="/>
+			<POI MapID="65" xpos="888.025" ypos="18.7295" zpos="-607.821" type="general.puzzles_de_saut.gouffre_du_charognard" GUID="hWV4V78W0E+egnEWK0sRcw=="/>
+			<POI MapID="65" xpos="876.775" ypos="10.2877" zpos="-606.894" type="general.puzzles_de_saut.gouffre_du_charognard" GUID="UxF2J6vKsEKO8Zddk0ganA=="/>
+			<POI MapID="65" xpos="871.986" ypos="8.88672" zpos="-603.512" type="general.puzzles_de_saut.gouffre_du_charognard" GUID="VElnk900pUWWEqZPrhayRw=="/>
+			<POI MapID="65" xpos="874.409" ypos="11.6611" zpos="-608.296" type="general.puzzles_de_saut.gouffre_du_charognard" GUID="RK97/hHK2kCepF7FttR8PQ=="/>
+			<POI MapID="65" xpos="876.72" ypos="15.6681" zpos="-609.415" type="general.puzzles_de_saut.gouffre_du_charognard" GUID="24Hld52Gake8DB6NQpw5uw=="/>
+			<POI MapID="65" xpos="872.847" ypos="18.1948" zpos="-611.341" type="general.puzzles_de_saut.gouffre_du_charognard" GUID="mzv/dp/E2kuskBYO6sexDQ=="/>
+			<POI MapID="65" xpos="874.528" ypos="20.9001" zpos="-611.504" type="general.puzzles_de_saut.gouffre_du_charognard" GUID="GR1Gp0WAW0ajV9MqtlR3vQ=="/>
+			<POI MapID="65" xpos="884.751" ypos="19.2437" zpos="-616.198" type="general.puzzles_de_saut.gouffre_du_charognard" GUID="KT7dQ62wwk+X51QBgrOGdg=="/>
+			<POI MapID="65" xpos="892.795" ypos="19.3314" zpos="-618.71" type="general.puzzles_de_saut.gouffre_du_charognard" GUID="P3QSLkyBvEWCB/VhuomvWA=="/>
+			<POI MapID="65" xpos="898.169" ypos="24.2909" zpos="-619.244" type="general.puzzles_de_saut.gouffre_du_charognard" GUID="5V0yEEZjxkaUpbKKyFreeA=="/>
+			<POI MapID="65" xpos="900.398" ypos="27.0631" zpos="-612.78" type="general.puzzles_de_saut.gouffre_du_charognard" GUID="SOuFTBjYAUG3dAUTLMPwgA=="/>
+			<POI MapID="65" xpos="908.716" ypos="24.7783" zpos="-605.164" type="general.puzzles_de_saut.gouffre_du_charognard" GUID="BiQ7l1oi90CvrngBLjGtXw=="/>
+			<POI MapID="65" xpos="911.268" ypos="28.3431" zpos="-600.421" type="general.puzzles_de_saut.gouffre_du_charognard" GUID="/UfQeXCLWkObvCElGNfSNQ=="/>
+			<POI MapID="65" xpos="910.127" ypos="31.0583" zpos="-599.438" type="general.puzzles_de_saut.gouffre_du_charognard" GUID="j1g4MSX2PUufu6G7A4KLug=="/>
+			<POI MapID="65" xpos="899.224" ypos="29.3101" zpos="-599.355" type="general.puzzles_de_saut.gouffre_du_charognard" GUID="Yf+o4HFRpk+lt6zakk5leg=="/>
+			<POI MapID="65" xpos="894.276" ypos="30.4518" zpos="-592.033" type="general.puzzles_de_saut.gouffre_du_charognard" GUID="3tQEWJpkGkasDVqFFLFCcw=="/>
+			<POI MapID="65" xpos="885.946" ypos="30.3955" zpos="-590.158" type="general.puzzles_de_saut.gouffre_du_charognard" GUID="Qu7x+YTnJUaTxj/+itw33Q=="/>
+			<POI MapID="65" xpos="884.482" ypos="36.1071" zpos="-597.54" type="general.puzzles_de_saut.gouffre_du_charognard" GUID="pFjwzJ18mEmPllg7NXDuaw=="/>
+			<POI MapID="65" xpos="890.411" ypos="37.9058" zpos="-598.353" type="general.puzzles_de_saut.gouffre_du_charognard" GUID="n2VY4C8zH0OBMA3kjWVhEA=="/>
+			<POI MapID="65" xpos="897.295" ypos="37.897" zpos="-599.811" type="general.puzzles_de_saut.gouffre_du_charognard" GUID="HtPllC4Gv0i7luv4T4Eh4A=="/>
+			<POI MapID="65" xpos="903.89" ypos="38.2238" zpos="-604.407" type="general.puzzles_de_saut.gouffre_du_charognard" GUID="Md03yQpSKk6nBi2lb257pQ=="/>
+			<POI MapID="65" xpos="902.823" ypos="38.8915" zpos="-600.759" type="general.puzzles_de_saut.gouffre_du_charognard" GUID="0stQeXvsrUKxTKLDcllWMA=="/>
+			<POI MapID="65" xpos="890.014" ypos="39.5041" zpos="-596.262" type="general.puzzles_de_saut.gouffre_du_charognard" GUID="DGnHs22N302mFcoeER/dgw=="/>
+			<POI MapID="65" xpos="894.199" ypos="42.3059" zpos="-587.848" type="general.puzzles_de_saut.gouffre_du_charognard" GUID="2QV52jlzVEKzDlf1KhqsBQ=="/>
+			<POI MapID="65" xpos="900.886" ypos="43.4186" zpos="-584.534" type="general.puzzles_de_saut.gouffre_du_charognard" GUID="F1npg5au0U6+/4/iPRbHVQ=="/>
+			<POI MapID="65" xpos="902.231" ypos="44.6012" zpos="-586.392" type="general.puzzles_de_saut.gouffre_du_charognard" GUID="ZM3Kr8286Ee/mSWUqDREWw=="/>
+			<POI MapID="65" xpos="896.527" ypos="48.7528" zpos="-578.843" type="general.puzzles_de_saut.gouffre_du_charognard" GUID="3z1GoYkD+Ua3r8Ld8SYw/Q=="/>
+			<POI MapID="65" xpos="892.182" ypos="49.3028" zpos="-578.517" type="general.puzzles_de_saut.gouffre_du_charognard" GUID="7pEOWhxtLUqSvoKJzhiDvA=="/>
+			<POI MapID="65" xpos="891.349" ypos="51.8513" zpos="-581.291" type="general.puzzles_de_saut.gouffre_du_charognard" GUID="exnrMSYS90qMKHOmoTDMkQ=="/>
+			<POI MapID="65" xpos="890.255" ypos="54.6666" zpos="-584.638" type="general.puzzles_de_saut.gouffre_du_charognard" GUID="rbngckduOUyarU3ev5xeZw=="/>
+			<POI MapID="65" xpos="878.822" ypos="53.2293" zpos="-587.772" type="general.puzzles_de_saut.gouffre_du_charognard" GUID="s/ORaUU00Eqmtgws1y2SaA=="/>
+			<POI MapID="65" xpos="864.698" ypos="53.5358" zpos="-588.983" type="general.puzzles_de_saut.gouffre_du_charognard" GUID="5wvUJ3zV00qYpYeXxl8b2Q=="/>
+			<POI MapID="65" xpos="858.383" ypos="55.4519" zpos="-590.225" type="general.puzzles_de_saut.gouffre_du_charognard" GUID="NTfRvdKDf0Kx/+9NheO25g=="/>
+			<POI MapID="65" xpos="857.446" ypos="57.9174" zpos="-592.008" type="general.puzzles_de_saut.gouffre_du_charognard" GUID="5K73w1EbaUSOiv4l1OL1Cw=="/>
+			<POI MapID="65" xpos="848.288" ypos="59.7992" zpos="-590.659" type="general.puzzles_de_saut.gouffre_du_charognard" GUID="C+o4hZVUIUKkE8GKCXjeCw=="/>
+			<POI MapID="65" xpos="840.933" ypos="60.4596" zpos="-587.198" type="general.puzzles_de_saut.gouffre_du_charognard" GUID="DsX71Mc4f0SRzPGOyg65nQ=="/>
+			<POI MapID="65" xpos="837.36" ypos="61.2796" zpos="-591.932" type="general.puzzles_de_saut.gouffre_du_charognard" GUID="oMmn77ip6kGdBYCzJJsqwQ=="/>
+			<POI MapID="65" xpos="841.924" ypos="63.7691" zpos="-593.614" type="general.puzzles_de_saut.gouffre_du_charognard" GUID="Odyz6nvA4UeXBekayl75GQ=="/>
+			<POI MapID="65" xpos="851.049" ypos="63.9311" zpos="-594.668" type="general.puzzles_de_saut.gouffre_du_charognard" GUID="RCHmssRB/kul7sLeh65V5A=="/>
+			<POI MapID="65" xpos="859.28" ypos="65.0809" zpos="-595.389" type="general.puzzles_de_saut.gouffre_du_charognard" GUID="3OHaJWOSl0a0h0W1idKsDw=="/>
+			<POI MapID="65" xpos="862.679" ypos="67.9145" zpos="-595.116" type="general.puzzles_de_saut.gouffre_du_charognard" GUID="fFc+fSokWkWDOnasSzc6Ew=="/>
+			<POI MapID="65" xpos="864.77" ypos="70.0595" zpos="-589.306" type="general.puzzles_de_saut.gouffre_du_charognard" GUID="+8xldZijj0mXvkmmEG4tAQ=="/>
+			<POI MapID="65" xpos="860.587" ypos="70.0903" zpos="-579.059" type="general.puzzles_de_saut.gouffre_du_charognard" GUID="F4drUK4ftEqIi3asxtSErw=="/>
+			<POI MapID="65" xpos="846.931" ypos="70.8224" zpos="-577.32" type="general.puzzles_de_saut.gouffre_du_charognard" GUID="jlCS82qlBkm1mp/TmZ3ORA=="/>
+			<POI MapID="65" xpos="842.534" ypos="71.4864" zpos="-581.548" type="general.puzzles_de_saut.gouffre_du_charognard" GUID="LqRP9ttDHEWhn78GSen3sg=="/>
+			<POI MapID="65" xpos="834.658" ypos="71.2428" zpos="-584.611" type="general.puzzles_de_saut.gouffre_du_charognard" GUID="AkfIdvr45EmnWiJTb0FIAA=="/>
+			<POI MapID="65" xpos="829.254" ypos="71.9196" zpos="-586.143" type="general.puzzles_de_saut.gouffre_du_charognard" GUID="FiI76B6LuUOm9UlUFoCSFA=="/>
+			<POI MapID="65" xpos="823.68" ypos="71.29" zpos="-586" type="general.puzzles_de_saut.gouffre_du_charognard" GUID="Q5GEq1ijwk6+iln0tR5glQ=="/>
+			<POI MapID="65" xpos="817.46" ypos="70.72" zpos="-583.6" type="general.puzzles_de_saut.gouffre_du_charognard" GUID="f44IQ6oWe0WFaGErNEqPEQ=="/>
+			<POI MapID="65" xpos="822.423" ypos="71.3044" zpos="-586.2" type="general.puzzles_de_saut.gouffre_du_charognard" GUID="hRcOjYo3akSahq4aftAuFA=="/>
+			<POI MapID="65" xpos="831.344" ypos="71.8554" zpos="-585.755" type="general.puzzles_de_saut.gouffre_du_charognard" GUID="2A2av3PZXk6h1RHebKbp3Q=="/>
+			<POI MapID="65" xpos="842.261" ypos="71.1082" zpos="-583.689" type="general.puzzles_de_saut.gouffre_du_charognard" GUID="dMPkk4szakeWEWQfBHIcoQ=="/>
+			<POI MapID="65" xpos="853.332" ypos="70.573" zpos="-581.678" type="general.puzzles_de_saut.gouffre_du_charognard" GUID="/NBqy9TrO0mcHo/QlgBUqw=="/>
+			<POI MapID="65" xpos="864.444" ypos="70.0706" zpos="-585.051" type="general.puzzles_de_saut.gouffre_du_charognard" GUID="0QmSPEPpTEKTfeDfjVbI5A=="/>
+			<POI MapID="65" xpos="869.849" ypos="69.0187" zpos="-598.793" type="general.puzzles_de_saut.gouffre_du_charognard" GUID="I2TwlzwZukWv0nj+b9T9Rw=="/>
+			<POI MapID="65" xpos="867.873" ypos="69.9158" zpos="-604.803" type="general.puzzles_de_saut.gouffre_du_charognard" GUID="P2Juj4zHEEKimWndSShG0g=="/>
+			<POI MapID="65" xpos="853.69" ypos="68.0893" zpos="-606.74" type="general.puzzles_de_saut.gouffre_du_charognard" GUID="WO66OSz0B0uKx7qdvouftg=="/>
+			<POI MapID="65" xpos="844.435" ypos="70.5669" zpos="-604.513" type="general.puzzles_de_saut.gouffre_du_charognard" GUID="P4h/RJ4Cn02tfqDbL024BA=="/>
+			<POI MapID="65" xpos="834.946" ypos="71.327" zpos="-599.835" type="general.puzzles_de_saut.gouffre_du_charognard" GUID="zyP3SMmnKUyc1SqBYk2FDw=="/>
+			<POI MapID="65" xpos="841.767" ypos="71.5834" zpos="-603.411" type="general.puzzles_de_saut.gouffre_du_charognard" GUID="IGr2WcJ0cESx82TXRySo5g=="/>
+			<POI MapID="65" xpos="850.943" ypos="71.7843" zpos="-601.564" type="general.puzzles_de_saut.gouffre_du_charognard" GUID="qtop6uRbrUG2XHZWoIO/3A=="/>
+			<POI MapID="65" xpos="855.918" ypos="73.818" zpos="-601.717" type="general.puzzles_de_saut.gouffre_du_charognard" GUID="+lC/w0qrTE6ifKR4LP4fow=="/>
+			<POI MapID="65" xpos="857.112" ypos="76.8793" zpos="-600.427" type="general.puzzles_de_saut.gouffre_du_charognard" GUID="VwSApNZBK0+q/jdJha6Xiw=="/>
+			<POI MapID="65" xpos="861.219" ypos="78.6071" zpos="-600.153" type="general.puzzles_de_saut.gouffre_du_charognard" GUID="sPop2izyPkyGd2KqC8Xsig=="/>
+			<POI MapID="65" xpos="866.458" ypos="78.3479" zpos="-609.011" type="general.puzzles_de_saut.gouffre_du_charognard" GUID="QqCXGKildE+JqtJOKkgrkw=="/>
+			<POI MapID="65" xpos="878.514" ypos="77.7071" zpos="-608.672" type="general.puzzles_de_saut.gouffre_du_charognard" GUID="ZUmIUejBzEi78mW6VmvqJw=="/>
+			<POI MapID="65" xpos="890.017" ypos="77.9742" zpos="-608.901" type="general.puzzles_de_saut.gouffre_du_charognard" GUID="pYa3mHiu6EGJ/VpkOjs+kw=="/>
+			<POI MapID="65" xpos="899.172" ypos="77.7803" zpos="-605.605" type="general.puzzles_de_saut.gouffre_du_charognard" GUID="Qzzb3xYPjkeIELiGjc2tXQ=="/>
+			<POI MapID="65" xpos="903.449" ypos="77.7662" zpos="-607.485" type="general.puzzles_de_saut.gouffre_du_charognard" GUID="D13On6wKk0ShjVFTAsTlSg=="/>
+			<POI MapID="65" xpos="906.84" ypos="71.3058" zpos="-617.228" type="general.puzzles_de_saut.gouffre_du_charognard" GUID="g7yANfTaJUKzZoNXVEZigw=="/>
+			<POI MapID="65" xpos="916.855" ypos="73.2854" zpos="-610.858" type="general.puzzles_de_saut.gouffre_du_charognard" GUID="H8uwUabebUeTlLfx2KGcuA=="/>
+			<POI MapID="65" xpos="919.841" ypos="67.2083" zpos="-600.542" type="general.puzzles_de_saut.gouffre_du_charognard" GUID="zkQNRfQbOE+NNeCl9vX7gw=="/>
+			<POI MapID="65" xpos="923.08" ypos="68.0631" zpos="-605.013" type="general.puzzles_de_saut.gouffre_du_charognard" GUID="U+RofVsc+U+ffZwiO6ssiQ=="/>
+			<POI MapID="65" xpos="921.158" ypos="69.2818" zpos="-609.851" type="general.puzzles_de_saut.gouffre_du_charognard" GUID="/bNpa7kDe0SYPUGO9TCiUA=="/>
+			<POI MapID="65" xpos="924.658" ypos="70.711" zpos="-611.087" type="general.puzzles_de_saut.gouffre_du_charognard" GUID="gxHbrDNv00SiQUI85kv68A=="/>
+			<POI MapID="65" xpos="928.874" ypos="72.1966" zpos="-611.936" type="general.puzzles_de_saut.gouffre_du_charognard" GUID="H0VlKneqJ0e/KByb9Kgfkw=="/>
+			<POI MapID="65" xpos="931.03" ypos="73.9766" zpos="-612.871" type="general.puzzles_de_saut.gouffre_du_charognard" GUID="mk5DdkSCIEmju98XLa+3mw=="/>
+			<POI MapID="65" xpos="931.654" ypos="75.9178" zpos="-611.555" type="general.puzzles_de_saut.gouffre_du_charognard" GUID="yXFNZ3gVMUiPWZwxbT7Y/w=="/>
+			<POI MapID="65" xpos="930.013" ypos="77.9272" zpos="-613.939" type="general.puzzles_de_saut.gouffre_du_charognard" GUID="mfFDPHDdfUeOKM/Wdy99bA=="/>
+			<POI MapID="65" xpos="927.438" ypos="79.8697" zpos="-613.744" type="general.puzzles_de_saut.gouffre_du_charognard" GUID="+JbULQoszU2EiasmnRPxwA=="/>
+			<POI MapID="65" xpos="926.696" ypos="81.4411" zpos="-615.047" type="general.puzzles_de_saut.gouffre_du_charognard" GUID="SfROAAf2YkybS5g3SJlsSg=="/>
+			<POI MapID="65" xpos="923.908" ypos="84.0156" zpos="-614.458" type="general.puzzles_de_saut.gouffre_du_charognard" GUID="64/uyroeH06cjlJgImyRIQ=="/>
+			<POI MapID="65" xpos="920.462" ypos="86.6807" zpos="-614.906" type="general.puzzles_de_saut.gouffre_du_charognard" GUID="q5KnRBL8aEeTVNpjU6Wtsw=="/>
+			<POI MapID="65" xpos="918.544" ypos="86.6808" zpos="-609.292" type="general.puzzles_de_saut.gouffre_du_charognard" GUID="thRkZ6y/bkCll6tw6+dkCA=="/>
+			<POI MapID="65" xpos="913.207" ypos="86.6827" zpos="-616.331" type="general.puzzles_de_saut.gouffre_du_charognard" GUID="7xj7C5k8T0O6YNp0/PvGBQ=="/>
+			<POI MapID="65" xpos="903.93" ypos="86.68" zpos="-615.36" type="general.puzzles_de_saut.gouffre_du_charognard" GUID="3vRd9HitgEiF+7bWMMj2UQ=="/>
+			<POI MapID="65" xpos="899.903" ypos="86.6896" zpos="-603.514" type="general.puzzles_de_saut.gouffre_du_charognard" GUID="s21g6Pycqkyge/nHwE2oZw=="/>
+			<POI MapID="65" xpos="898.675" ypos="78.3583" zpos="-590.128" type="general.puzzles_de_saut.gouffre_du_charognard" GUID="SA/XgFJuGUmcPHr2dTe8SQ=="/>
+			<POI MapID="65" xpos="896.724" ypos="80.7438" zpos="-584.288" type="general.puzzles_de_saut.gouffre_du_charognard" GUID="liOA18AJwU2SkfO4SonS1A=="/>
+			<POI MapID="65" xpos="898.513" ypos="81.1986" zpos="-583.071" type="general.puzzles_de_saut.gouffre_du_charognard" GUID="tK1l/5iA9UKcOxz4dy1ndg=="/>
+			<POI MapID="65" xpos="896.706" ypos="83.4568" zpos="-579.807" type="general.puzzles_de_saut.gouffre_du_charognard" GUID="awb62Im6TUK3ACyyKCokuw=="/>
+			<POI MapID="65" xpos="896.655" ypos="84.7541" zpos="-582.212" type="general.puzzles_de_saut.gouffre_du_charognard" GUID="CDnl/UK2VkmO+8wXyxvC1Q=="/>
+			<POI MapID="65" xpos="891.385" ypos="86.7216" zpos="-582.432" type="general.puzzles_de_saut.gouffre_du_charognard" GUID="6mEuWxfDkEmwNJbV3XGk3A=="/>
+			<POI MapID="65" xpos="887.797" ypos="89.0013" zpos="-581.758" type="general.puzzles_de_saut.gouffre_du_charognard" GUID="1X7F6ktLlU2JeVrg6s9z2g=="/>
+			<POI MapID="65" xpos="880.087" ypos="76.2079" zpos="-588.282" type="general.puzzles_de_saut.gouffre_du_charognard" GUID="y8G8Nxyzs0GZ8xn2lDxGiQ=="/>
+			<POI MapID="65" xpos="866.899" ypos="78.621" zpos="-590.227" type="general.puzzles_de_saut.gouffre_du_charognard" GUID="XXj16qCGkk2MHVS7XxKWWA=="/>
+			<POI MapID="65" xpos="863.454" ypos="78.4153" zpos="-598.488" type="general.puzzles_de_saut.gouffre_du_charognard" GUID="2sYscMNCu0e7UUvSq+Sc6A=="/>
+			<POI MapID="65" xpos="861.196" ypos="78.7079" zpos="-604.535" type="general.puzzles_de_saut.gouffre_du_charognard" GUID="T731g2TPgUuzhJ/iJon1vA=="/>
+			<POI MapID="65" xpos="852.955" ypos="78.5773" zpos="-606.128" type="general.puzzles_de_saut.gouffre_du_charognard" GUID="2p1Sslr44kyJOXXWxFXiUw=="/>
+			<POI MapID="65" xpos="846.667" ypos="69.471" zpos="-609.319" type="general.puzzles_de_saut.gouffre_du_charognard" GUID="yYvuZOX09EG8vPOt3cpYIA=="/>
+			<POI MapID="65" xpos="842.642" ypos="71.8473" zpos="-612.327" type="general.puzzles_de_saut.gouffre_du_charognard" GUID="c3JvDkyHKka7yfMBLx/Qog=="/>
+			<POI MapID="65" xpos="833.852" ypos="72.0124" zpos="-614.846" type="general.puzzles_de_saut.gouffre_du_charognard" GUID="XGUtzSO7dkGgYNZ3pPox5Q=="/>
+			<POI MapID="65" xpos="825.66" ypos="72.3744" zpos="-610.53" type="general.puzzles_de_saut.gouffre_du_charognard" GUID="Z3ZnXUXVqEaBW2SjRiJwrw=="/>
+			<POI MapID="65" xpos="819.654" ypos="72.2541" zpos="-611.739" type="general.puzzles_de_saut.gouffre_du_charognard" GUID="s0Ob6dswvUe/6PRjRwkmhw=="/>
+			<POI MapID="65" xpos="807.425" ypos="64.7854" zpos="-613.083" type="general.puzzles_de_saut.gouffre_du_charognard" GUID="WEK50ZZnqEOsoExY/rCzoQ=="/>
+			<POI MapID="65" xpos="794.739" ypos="59.5904" zpos="-614.556" type="general.puzzles_de_saut.gouffre_du_charognard" GUID="ajcw1Ze8vEGsAEE6itZh3Q=="/>
+			<POI MapID="65" xpos="780.008" ypos="59.605" zpos="-614.157" type="general.puzzles_de_saut.gouffre_du_charognard" GUID="F6tU6lTlfUiqx1QwuAI/kQ=="/>
+			<POI MapID="65" xpos="771.164" ypos="60.4445" zpos="-614.241" type="general.puzzles_de_saut.gouffre_du_charognard" GUID="BIdDh9o4q0ird7fEFUeyRA=="/>
+			<POI MapID="65" xpos="763.975" ypos="60.0058" zpos="-614.555" type="general.puzzles_de_saut.gouffre_du_charognard" GUID="2cbK0+hyJEi/dYwDoTnbnQ=="/>
+			<POI MapID="65" xpos="755.588" ypos="58.2642" zpos="-611.802" type="general.puzzles_de_saut.gouffre_du_charognard" GUID="pnMKEgsH5EyGKI0FW9+/YQ=="/>
+			<POI MapID="65" xpos="753.887" ypos="58.2526" zpos="-597.773" type="general.puzzles_de_saut.gouffre_du_charognard" GUID="1w8mQjFOPE+vc5cjnCv9XQ=="/>
+			<POI MapID="65" xpos="757.9" ypos="44.36" zpos="-592.3" type="general.puzzles_de_saut.gouffre_du_charognard" GUID="cjUbFYOI2EKKTSqNKBj01g=="/>
+			<POI MapID="65" xpos="752.794" ypos="43.9315" zpos="-596.569" type="general.puzzles_de_saut.gouffre_du_charognard" GUID="OMsAZuPRREGa0chZrSFXKg=="/>
+			<POI MapID="65" xpos="758.036" ypos="43.9331" zpos="-607.51" type="general.puzzles_de_saut.gouffre_du_charognard" GUID="6O0oTFU8WkefbR+rzYCyNw=="/>
+			<POI MapID="65" xpos="762.796" ypos="36.0907" zpos="-608.718" type="general.puzzles_de_saut.gouffre_du_charognard" GUID="WUcffqreBUyrlXFVZdtu4w=="/>
+			<POI MapID="65" xpos="774.85" ypos="36.1685" zpos="-618.632" type="general.puzzles_de_saut.gouffre_du_charognard" GUID="0BTjOmvnmUS+7oPv06LtjQ=="/>
+			<POI MapID="65" xpos="780.677" ypos="35.6333" zpos="-619.529" type="general.puzzles_de_saut.gouffre_du_charognard" GUID="qEn6hrlk6EidB++hXKhi4w=="/>
+			<POI MapID="65" xpos="787.085" ypos="33.9186" zpos="-614.848" type="general.puzzles_de_saut.gouffre_du_charognard" GUID="hTGqmiD3hku+5LrN8Dad6Q=="/>
+			<POI MapID="65" xpos="791.388" ypos="33.8586" zpos="-615.93" type="general.puzzles_de_saut.gouffre_du_charognard" GUID="GtV40FsPJ0yQmzcw50raRQ=="/>
+			<POI MapID="65" xpos="796.981" ypos="33.0438" zpos="-616.36" type="general.puzzles_de_saut.gouffre_du_charognard" GUID="lRRKZYLi1UeEt+YoajXYBQ=="/>
+			<POI MapID="65" xpos="808.591" ypos="29.009" zpos="-618.592" type="general.puzzles_de_saut.gouffre_du_charognard" GUID="f1PpdO/juE2/E8HxE2DI8A=="/>
+			<POI MapID="65" xpos="826.35" ypos="29.3873" zpos="-619.135" type="general.puzzles_de_saut.gouffre_du_charognard" GUID="HxBS5g1UIE6g/9dLyCwjjQ=="/>
+			<POI MapID="65" xpos="838.771" ypos="26.3295" zpos="-617.361" type="general.puzzles_de_saut.gouffre_du_charognard" GUID="neZtd+JS8E2pf4TcXQx5/w=="/>
+			<POI MapID="65" xpos="849.233" ypos="25.4986" zpos="-615.218" type="general.puzzles_de_saut.gouffre_du_charognard" GUID="56gSU+YQkk2DzS1dvD/xZw=="/>
+			<POI MapID="65" xpos="866.503" ypos="25.4877" zpos="-620.44" type="general.puzzles_de_saut.gouffre_du_charognard" GUID="/TktLWG9cUWkBHg9Ss16AA=="/>
+			<POI MapID="65" xpos="877.34" ypos="18.5393" zpos="-617.929" type="general.puzzles_de_saut.gouffre_du_charognard" GUID="xHiEM+gJl02YD2/+gELnWQ=="/>
+			<POI MapID="65" xpos="884.755" ypos="19.0617" zpos="-613.38" type="general.puzzles_de_saut.gouffre_du_charognard" GUID="KWuXh+RY3EWkGD1PcMu4xw=="/>
+			<POI MapID="65" xpos="891.242" ypos="17.6197" zpos="-618.745" type="general.puzzles_de_saut.gouffre_du_charognard" GUID="Tq+37MoEyECT1s4Sy+GiMQ=="/>
+			<POI MapID="65" xpos="895.644" ypos="22.0179" zpos="-619.984" type="general.puzzles_de_saut.gouffre_du_charognard" GUID="0rXXF515PEe7glinQ4Zmzw=="/>
+			<POI MapID="65" xpos="899.897" ypos="20.9528" zpos="-606.457" type="general.puzzles_de_saut.gouffre_du_charognard" GUID="N01lMvebKU6e7D8gewab/g=="/>
+			<POI MapID="65" xpos="912.09" ypos="26.2524" zpos="-604.3" type="general.puzzles_de_saut.gouffre_du_charognard" GUID="/u+W/Sxa3kegyOTX6tS0pQ=="/>
+			<POI MapID="65" xpos="912.446" ypos="29.8351" zpos="-599.204" type="general.puzzles_de_saut.gouffre_du_charognard" GUID="TvpE4KqK4k2eH1AdSUYddw=="/>
+			<POI MapID="65" xpos="905.691" ypos="31.1291" zpos="-600.2" type="general.puzzles_de_saut.gouffre_du_charognard" GUID="Otp8dDldcka2zOZbTx7rLQ=="/>
+			<POI MapID="65" xpos="898.914" ypos="29.4975" zpos="-592.924" type="general.puzzles_de_saut.gouffre_du_charognard" GUID="leDCnCOzhEO3X9+R/XKDrw=="/>
+			<POI MapID="65" xpos="889.663" ypos="31.0357" zpos="-591.356" type="general.puzzles_de_saut.gouffre_du_charognard" GUID="ZJWgNg2wPU2t5FcRUpjoBg=="/>
+			<POI MapID="65" xpos="885.616" ypos="34.9157" zpos="-595.145" type="general.puzzles_de_saut.gouffre_du_charognard" GUID="c4x1bbdiiUSYJBd9qEkK1w=="/>
+			<POI MapID="65" xpos="887.886" ypos="37.4421" zpos="-599.714" type="general.puzzles_de_saut.gouffre_du_charognard" GUID="oS0R2Fe+LkuSyNXvjUCX+Q=="/>
+			<POI MapID="65" xpos="890.535" ypos="39.8978" zpos="-594.1" type="general.puzzles_de_saut.gouffre_du_charognard" GUID="m4/6Iojix0CuIV9UHEzJVQ=="/>
+			<POI MapID="65" xpos="892.893" ypos="41.7525" zpos="-591.689" type="general.puzzles_de_saut.gouffre_du_charognard" GUID="3hr/LofRcU23bnwk04bB6Q=="/>
+			<POI MapID="65" xpos="899.864" ypos="42.3263" zpos="-586.158" type="general.puzzles_de_saut.gouffre_du_charognard" GUID="jASZC33en0uIl0eeIFZ47g=="/>
+			<POI MapID="65" xpos="902.674" ypos="45.9126" zpos="-581.524" type="general.puzzles_de_saut.gouffre_du_charognard" GUID="vt2CrAoglkWzFgyQeHucGg=="/>
+			<POI MapID="65" xpos="896.407" ypos="49.6401" zpos="-577.016" type="general.puzzles_de_saut.gouffre_du_charognard" GUID="VA7AVGINEEeqrcI4syW1fg=="/>
+			<POI MapID="65" xpos="892.38" ypos="49.31" zpos="-579.22" type="general.puzzles_de_saut.gouffre_du_charognard" GUID="rH9eSrkmCUahpUdUWfpKTg=="/>
+			<POI MapID="65" xpos="891.01" ypos="53.0868" zpos="-583.415" type="general.puzzles_de_saut.gouffre_du_charognard" GUID="iSZZlw+Quk2kjZIokP/WBw=="/>
+			<POI MapID="65" xpos="894.003" ypos="54.3093" zpos="-588.187" type="general.puzzles_de_saut.gouffre_du_charognard" GUID="Re/dZhheCEG3OAf0uhTbRw=="/>
+			<POI MapID="65" xpos="899.236" ypos="53.0497" zpos="-586.15" type="general.puzzles_de_saut.gouffre_du_charognard" GUID="LdP+6pWei0meKeC7ASutCQ=="/>
+			<POI MapID="65" xpos="901.597" ypos="50.5128" zpos="-594.088" type="general.puzzles_de_saut.gouffre_du_charognard" GUID="qGeLAsq4A0m4V/728LpPBQ=="/>
+			<POI MapID="65" xpos="898.413" ypos="50.9782" zpos="-599.957" type="general.puzzles_de_saut.gouffre_du_charognard" GUID="7D4+cC0oj0aHxYtYby/RZQ=="/>
+			<POI MapID="65" xpos="888.997" ypos="52.5144" zpos="-602.129" type="general.puzzles_de_saut.gouffre_du_charognard" GUID="7JQkCq+zXEuKf23QZ5Z5CA=="/>
+			<POI MapID="65" xpos="877.765" ypos="52.3308" zpos="-604.464" type="general.puzzles_de_saut.gouffre_du_charognard" GUID="+ABSsbNQ/kSMLmjesAMMeg=="/>
+			<POI MapID="65" xpos="873.259" ypos="52.8574" zpos="-606.76" type="general.puzzles_de_saut.gouffre_du_charognard" GUID="ynYMxX/8xEqkO+HYBvjABQ=="/>
+			<POI MapID="65" xpos="871.925" ypos="49.7159" zpos="-610.129" type="general.puzzles_de_saut.gouffre_du_charognard" GUID="sxqGQv8sb0ipaGKYNzYl+A=="/>
+			<POI MapID="65" xpos="868.177" ypos="49.6688" zpos="-614.85" type="general.puzzles_de_saut.gouffre_du_charognard" GUID="tOgb7IuOiEiAI7IfsBcWFw=="/>
+			<POI MapID="65" xpos="874.309" ypos="49.7421" zpos="-621.456" type="general.puzzles_de_saut.gouffre_du_charognard" GUID="D0RfNHlXLEq9c49+0cymkQ=="/>
+			<POI MapID="65" xpos="882.568" ypos="49.6688" zpos="-615.316" type="general.puzzles_de_saut.gouffre_du_charognard" GUID="kNPcw+kFC0SkTmiN03QzfA=="/>
+			<POI MapID="65" xpos="892.556" ypos="49.1817" zpos="-617.84" type="general.puzzles_de_saut.gouffre_du_charognard" GUID="VJ9z30XooUSGWe5bjPCYYg=="/>
+			<POI MapID="65" xpos="899.905" ypos="49.3507" zpos="-615.304" type="general.puzzles_de_saut.gouffre_du_charognard" GUID="iO96eSVJrkyCLkqBRR9Amg=="/>
+			<POI MapID="65" xpos="909.318" ypos="50.8195" zpos="-611.559" type="general.puzzles_de_saut.gouffre_du_charognard" GUID="9bBDYrtwp0i53+RiqTho3g=="/>
+			<POI MapID="65" xpos="919.322" ypos="51.764" zpos="-603.268" type="general.puzzles_de_saut.gouffre_du_charognard" GUID="FwoHRrnRJ0mRFLnP/6xoOQ=="/>
+			<POI MapID="65" xpos="926.966" ypos="50.7848" zpos="-601.394" type="general.puzzles_de_saut.gouffre_du_charognard" GUID="7gYYmrVDRkS5R2i10WnRUw=="/>
+		</Route>
+
+		<!-- Orbes -->
+		<POI MapID="65" xpos="856.26" ypos="19.23" zpos="-588.81" type="general.puzzles_de_saut.gouffre_du_charognard.orbes" GUID="m2z9EKKdqUmbT2u84TEfNA=="/>
+		<POI MapID="65" xpos="922.13" ypos="-16.1" zpos="-597.15" type="general.puzzles_de_saut.gouffre_du_charognard.orbes" GUID="Lzp5s124HEG5CwOa5xDY9g=="/>
+		<POI MapID="65" xpos="741.53" ypos="-21.72" zpos="-571.07" type="general.puzzles_de_saut.gouffre_du_charognard.orbes" GUID="n5Cjjwsrp02zbyPDaX6QHQ=="/>
+		<POI MapID="65" xpos="870.34" ypos="9.82" zpos="-600.91" type="general.puzzles_de_saut.gouffre_du_charognard.orbes" GUID="oe80N2jBlUqZncUywWO3PA=="/>
+		<POI MapID="65" xpos="909.64" ypos="44.15" zpos="-602.36" type="general.puzzles_de_saut.gouffre_du_charognard.orbes" GUID="eIxoSyIe10aPjMFOHKdBQQ=="/>
+		<POI MapID="65" xpos="815.82" ypos="70.18" zpos="-585.19" type="general.puzzles_de_saut.gouffre_du_charognard.orbes" GUID="VLUDWf55WEyusAUDxi1Eng=="/>
+		<POI MapID="65" xpos="832.39" ypos="72.93" zpos="-597.5" type="general.puzzles_de_saut.gouffre_du_charognard.orbes" GUID="3QbmDIRnBUazgndnd3InXQ=="/>
+		<POI MapID="65" xpos="918.44" ypos="86.68" zpos="-606.91" type="general.puzzles_de_saut.gouffre_du_charognard.orbes" GUID="yfKZ/CYNvE6CxRv5Hf6sbg=="/>
+		<POI MapID="65" xpos="889" ypos="90.12" zpos="-580.44" type="general.puzzles_de_saut.gouffre_du_charognard.orbes" GUID="moGd/XvBs0aKXJsLJ0Tl2Q=="/>
+		<POI MapID="65" xpos="865.01" ypos="79.85" zpos="-589.24" type="general.puzzles_de_saut.gouffre_du_charognard.orbes" GUID="B3BNKvdXkki5p8vDVQgvwg=="/>
+		<POI MapID="65" xpos="758.47" ypos="44.73" zpos="-591.61" type="general.puzzles_de_saut.gouffre_du_charognard.orbes" GUID="YRUL13kZGECGTuD4IkxNVg=="/>
+		<POI MapID="65" xpos="881.61" ypos="50.09" zpos="-617.01" type="general.puzzles_de_saut.gouffre_du_charognard.orbes" GUID="pUSgnDG4BEWafNJUGofqvw=="/>
+
+		<!-- Coffres -->
+		<POI MapID="65" xpos="935.405" ypos="54.1427" zpos="-585.924" type="general.puzzles_de_saut.gouffre_du_charognard" GUID="1iOuju4wDUuy7VL7tg9GjQ==" iconFile="Img\CoffrePuzzle.png" iconSize="1" heightOffset="2" behavior="2"/>
+		<POI MapID="65" xpos="937.235" ypos="53.7943" zpos="-602.993" type="general.puzzles_de_saut.gouffre_du_charognard" GUID="acXHEzG6LUO6Rfp6jgCmwA==" iconFile="Img\CoffrePuzzle.png" iconSize="1" heightOffset="2"/>
+		<POI MapID="65" xpos="948.195" ypos="54.5678" zpos="-593.413" type="general.puzzles_de_saut.gouffre_du_charognard" GUID="Nwc5VrLjm0SXVu7B5zrRmg==" iconFile="Img\CoffrePuzzle.png" iconSize="1" heightOffset="2"/>
+
+	</POIs>
+</OverlayData>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+POIs: ReActif.9251
+Date: 2017/08/22
+-->
+<OverlayData>
+	<MarkerCategory name="heart_of_thorns.profondeurs_verdoyantes">
+		<MarkerCategory name="coffres_d_aeronefs" DisplayName="Strongbox" iconFile="Img\CoffreMaitriseHOT.png" heightOffset="3">
+			<MarkerCategory name="cryptonyme" DisplayName="Cryptonym Strongbox"/>
+			<MarkerCategory name="plaines_de_golghein" DisplayName="Plains of Golghein Strongbox"/>
+			<MarkerCategory name="fragment_etincelant" DisplayName="Shard of Brilliance Strongbox"/>
+			<MarkerCategory name="epee_du_smodur" DisplayName="Sword of Smodur Strongbox"/>
+			<MarkerCategory name="orgueil_d_ours_blanc_ii" DisplayName="Whitebear's Pride II Strongbox"/>
+		</MarkerCategory>
+	</MarkerCategory>
+
+	<POIs>
+
+		<!-- "Cryptonyme" -->
+		<POI MapID="1045" xpos="-365.708" ypos="197.488" zpos="529.197" type="heart_of_thorns.profondeurs_verdoyantes.coffres_d_aeronefs.cryptonyme" GUID="lX+QxXBIfUqYWgbUl9piWg=="/>
+
+		<!-- "Epée du Smodur" -->
+		<POI MapID="1045" xpos="-426.382" ypos="205.696" zpos="401.834" type="heart_of_thorns.profondeurs_verdoyantes.coffres_d_aeronefs.epee_du_smodur" GUID="5KnwH94hIUODsrqg3u9EkA=="/>
+
+		<!-- "Fragment Etincelant" -->
+		<POI MapID="1045" xpos="-626.01" ypos="310.309" zpos="38.2254" type="heart_of_thorns.profondeurs_verdoyantes.coffres_d_aeronefs.fragment_etincelant" GUID="OtMjtu7b0EmsJZnsb3wuIA=="/>
+
+		<!-- "Orgueil d'Ours Blanc II" -->
+		<POI MapID="1045" xpos="148.828" ypos="126.506" zpos="13.9794" type="heart_of_thorns.profondeurs_verdoyantes.coffres_d_aeronefs.orgueil_d_ours_blanc_ii" GUID="DJqidIIaRUC6/jGUdRPCdw=="/>
+
+		<!-- "Plaines de Golghein" -->
+		<POI MapID="1045" xpos="139.848" ypos="15.7477" zpos="-533.471" type="heart_of_thorns.profondeurs_verdoyantes.coffres_d_aeronefs.plaines_de_golghein" GUID="gHjDKzI55UCNd7KQgMhqQw=="/>
+
+	</POIs>
+</OverlayData>

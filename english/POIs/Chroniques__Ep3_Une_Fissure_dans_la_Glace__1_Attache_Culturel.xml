@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+POIs: ReActif.9251
+Date: 2016/12/08
+-->
+<OverlayData>
+	<MarkerCategory name="chroniques.saison_3">
+		<MarkerCategory name="ep3_une_fissure_dans_la_glace" DisplayName="Ep.3 - A Crack in the Ice" iconFile="Img\ConfinsDeGivramer.png">
+			<MarkerCategory name="attache_culturel" DisplayName="Cultural Attaché" heightOffset="3"/>
+		</MarkerCategory>
+	</MarkerCategory>
+
+	<POIs>
+
+		<!-- Statue de factionnaire -->
+		<POI MapID="18" xpos="-171.056" ypos="72.0795" zpos="-63.6074" type="chroniques.saison_3.ep3_une_fissure_dans_la_glace.attache_culturel" GUID="WvB65qSHA06Ha0S5+hvu2w=="/>
+
+		<!-- Petites voitures charr -->
+		<POI MapID="218" xpos="214.518" ypos="155.939" zpos="197.457" type="chroniques.saison_3.ep3_une_fissure_dans_la_glace.attache_culturel" GUID="AWChMbApRkykzwhGuLfLYg=="/>
+
+		<!-- Statue souvenir d'Eir -->
+		<POI MapID="326" xpos="530.982" ypos="307.501" zpos="-271.172" type="chroniques.saison_3.ep3_une_fissure_dans_la_glace.attache_culturel" GUID="uTkoPeGfPUmN9hsn7cHYNg=="/>
+
+		<!-- Maquette des portails asuras -->
+		<POI MapID="139" xpos="43.1675" ypos="385.789" zpos="174.615" type="chroniques.saison_3.ep3_une_fissure_dans_la_glace.attache_culturel" GUID="LHTD7ZGV40u9FiFpavQf8g=="/>
+
+		<!-- Plante en pot sylvari -->
+		<POI MapID="91" xpos="137.884" ypos="51.3054" zpos="135.932" type="chroniques.saison_3.ep3_une_fissure_dans_la_glace.attache_culturel" GUID="K0zznx0AQEeMUMVAO8aWYA=="/>
+
+		<!-- Poulet orrien en cage -->
+		<POI MapID="65" xpos="-93.0146" ypos="59.1724" zpos="-457.05" type="chroniques.saison_3.ep3_une_fissure_dans_la_glace.attache_culturel" GUID="JrR3QFLkPUmKpJZyiFb3hw=="/>
+
+		<!-- Maquette du sanctuaire du Zéphyr -->
+		<POI MapID="988" xpos="-592.969" ypos="81.6256" zpos="-343.931" type="chroniques.saison_3.ep3_une_fissure_dans_la_glace.attache_culturel" GUID="/q1n144fkEKWLVvr/bydsQ=="/>
+
+	</POIs>
+</OverlayData>

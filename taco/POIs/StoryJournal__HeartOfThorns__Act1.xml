@@ -1,0 +1,34 @@
+<!-- 2020.06.09 -->
+<OverlayData>
+	<POIs>
+
+		<!-- MY FRIENDS, THE SMITHS -->
+		<POI MapID="1051" xpos="-699.17"  ypos="422.736" zpos="-12.5935" type="story_journal.heart_of_thorns.act_1.my_friends_the_smiths" GUID="EREazW3ksk6xcvUSGnfLPQ=="/>
+		<POI MapID="1051" xpos="-652.937" ypos="464.373" zpos="53.5441"  type="story_journal.heart_of_thorns.act_1.my_friends_the_smiths" GUID="cSXZp6yi6k2CK+WpQEBK8Q=="/>
+		<POI MapID="1051" xpos="-513.595" ypos="463.29"  zpos="65.3898"  type="story_journal.heart_of_thorns.act_1.my_friends_the_smiths" GUID="MUq/kun+qkCdPR0v0L7Hhg=="/>
+		<POI MapID="1051" xpos="-601.686" ypos="452.448" zpos="155.792"  type="story_journal.heart_of_thorns.act_1.my_friends_the_smiths" GUID="Nvuroxs3HUeon7vrctq0Sg=="/>
+		<POI MapID="1051" xpos="-732.997" ypos="464.134" zpos="-25.4067" type="story_journal.heart_of_thorns.act_1.my_friends_the_smiths" GUID="Ll/I/u6ZU0Wie7R7u87m9g=="/>
+
+		<!-- PEER REVIEW -->
+		<POI MapID="1051" xpos="-566.104" ypos="370.21"  zpos="-33.2747" type="story_journal.heart_of_thorns.act_1.peer_review" GUID="EqE3/bdSJEqnLHBUk7NDHQ=="/>
+		<POI MapID="1051" xpos="-576.748" ypos="379.455" zpos="-6.67195" type="story_journal.heart_of_thorns.act_1.peer_review" GUID="/zE//VjVy0uEtYFh0v4lVg=="/>
+		<POI MapID="1051" xpos="-614.02"  ypos="386.236" zpos="6.03855"  type="story_journal.heart_of_thorns.act_1.peer_review" GUID="cYH+i9sVkkq/3Yen2Xi0DA=="/>
+		<POI MapID="1051" xpos="-616.469" ypos="386.303" zpos="6.82635"  type="story_journal.heart_of_thorns.act_1.peer_review" GUID="hfwc5+vdGU6has9qgXmSng=="/>
+		<POI MapID="1051" xpos="-586.501" ypos="398.441" zpos="-4.02788" type="story_journal.heart_of_thorns.act_1.peer_review" GUID="IHnTuGtQ5U2Q4c3EYUt/iw=="/>
+		<POI MapID="1051" xpos="-608.511" ypos="411.963" zpos="2.22064"  type="story_journal.heart_of_thorns.act_1.peer_review" GUID="YscOE6u+8Eu7kghB1rxtLA=="/>
+		<POI MapID="1051" xpos="-649.952" ypos="423.118" zpos="71.8144"  type="story_journal.heart_of_thorns.act_1.peer_review" GUID="E9F3uLei/kGV8nNJ90tXWw=="/>
+		<POI MapID="1051" xpos="-656.724" ypos="425.707" zpos="83.1702"  type="story_journal.heart_of_thorns.act_1.peer_review" GUID="uiLutQEkf0SMpH3EUGzHoA=="/>
+		<POI MapID="1051" xpos="-655.019" ypos="426.74"  zpos="94.6839"  type="story_journal.heart_of_thorns.act_1.peer_review" GUID="Shcu5o68DUWgYOj9ag7pxw=="/>
+		<POI MapID="1051" xpos="-659.997" ypos="427.039" zpos="97.578"   type="story_journal.heart_of_thorns.act_1.peer_review" GUID="CQ3xfREqVk+oQPJ2h+ZWFg=="/>
+		<POI MapID="1051" xpos="-656.419" ypos="427.296" zpos="106.63"   type="story_journal.heart_of_thorns.act_1.peer_review" GUID="jg+0fgm/b0WfTRtHRj/dtg==" iconFile="Img/Icons/Fight.png" mapVisibility="0" miniMapVisibility="0"/>
+
+		<!-- TOTEMS OF THE ITZEL -->
+		<POI MapID="1037" xpos="723.96" ypos="319"    zpos="233.35" type="story_journal.heart_of_thorns.act_1.totems_of_the_itzel" GUID="JyG4fW1BxEGUGjM8pOGZCg==" heightOffset="4"/>
+		<POI MapID="1037" xpos="728.45" ypos="332.72" zpos="155.23" type="story_journal.heart_of_thorns.act_1.totems_of_the_itzel" GUID="DK9szBKQZUacrXWBtFQoqQ=="/>
+		<POI MapID="1037" xpos="721.36" ypos="340.51" zpos="332.85" type="story_journal.heart_of_thorns.act_1.totems_of_the_itzel" GUID="0L9l9eTHNUWvhH+nMAVo5Q=="/>
+		<POI MapID="1037" xpos="870.58" ypos="325.46" zpos="353.33" type="story_journal.heart_of_thorns.act_1.totems_of_the_itzel" GUID="oBD2qB1SDkm3uwQHA27q5A=="/>
+		<POI MapID="1037" xpos="526.07" ypos="442.44" zpos="367.24" type="story_journal.heart_of_thorns.act_1.totems_of_the_itzel" GUID="TBoko8ImJ0e6H0NxpoJRDw=="/>
+		<POI MapID="1037" xpos="528.27" ypos="414.05" zpos="294.62" type="story_journal.heart_of_thorns.act_1.totems_of_the_itzel" GUID="vNYEVYfuX0uSanv/zDgh0A=="/>
+
+	</POIs>
+</OverlayData>

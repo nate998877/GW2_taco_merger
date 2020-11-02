@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+POIs: ReActif.9251
+Date: 2017/03/06
+-->
+<OverlayData>
+	<MarkerCategory name="chroniques.saison_2">
+		<MarkerCategory name="ep3_l_ombre_du_dragon_1" DisplayName="Ep.3 - The Dragon's Reach, Part 1" iconFile="Img\Saison2OmbreDuDragon1.png">
+			<MarkerCategory name="sans_pitie" DisplayName="Leave No Survivors"/>
+		</MarkerCategory>
+	</MarkerCategory>
+
+	<POIs>
+
+		<!-- Pièges et Ennemis -->
+		<POI MapID="1000" xpos="-416.695" ypos="19.1299" zpos="-690.935" type="chroniques.saison_2.ep3_l_ombre_du_dragon_1.sans_pitie" GUID="oCXJ7h0tRkmLT4/GXpkOHA=="/>
+		<POI MapID="1000" xpos="-356.077" ypos="-0.196571" zpos="-691.552" type="chroniques.saison_2.ep3_l_ombre_du_dragon_1.sans_pitie" GUID="pnRIjAZ+6Ei/MAkubkdSEA=="/>
+		<POI MapID="1000" xpos="-314.67" ypos="7.40737" zpos="-680.018" type="chroniques.saison_2.ep3_l_ombre_du_dragon_1.sans_pitie" GUID="YBwPxdQ+A066RdQmd97RuA=="/>
+		<POI MapID="1000" xpos="-300.064" ypos="-0.195356" zpos="-703.241" type="chroniques.saison_2.ep3_l_ombre_du_dragon_1.sans_pitie" GUID="ea+nwcffj0e+LrZJzh7f7Q=="/>
+		<POI MapID="1000" xpos="-320.281" ypos="5.20728" zpos="-732.397" type="chroniques.saison_2.ep3_l_ombre_du_dragon_1.sans_pitie" GUID="UppAESXddEqVG1SamJ/k7w=="/>
+		<POI MapID="1000" xpos="-236.567" ypos="6.0974" zpos="-676.711" type="chroniques.saison_2.ep3_l_ombre_du_dragon_1.sans_pitie" GUID="rBEysmh5mEq/GthP9o6Q5g=="/>
+		<POI MapID="1000" xpos="-223.406" ypos="-0.224084" zpos="-716.256" type="chroniques.saison_2.ep3_l_ombre_du_dragon_1.sans_pitie" GUID="Rj1CQ1oDDUyPAHbOy4qWjg=="/>
+		<POI MapID="1000" xpos="-238.404" ypos="2.87936" zpos="-751.27" type="chroniques.saison_2.ep3_l_ombre_du_dragon_1.sans_pitie" GUID="MelbUCMf/ECJd2rPYb5l8A=="/>
+		<POI MapID="1000" xpos="-179.783" ypos="5.31728" zpos="-724.243" type="chroniques.saison_2.ep3_l_ombre_du_dragon_1.sans_pitie" GUID="yXZkRlCRoEOLh5gkve9CLA=="/>
+		<POI MapID="1000" xpos="-121.289" ypos="8.19546" zpos="-644.335" type="chroniques.saison_2.ep3_l_ombre_du_dragon_1.sans_pitie" GUID="rMbdguabLUGyBzB2aoRVnQ=="/>
+		<POI MapID="1000" xpos="-219.08" ypos="15.8839" zpos="-657.996" type="chroniques.saison_2.ep3_l_ombre_du_dragon_1.sans_pitie" GUID="m+R0I5WrT0y7G83vHVsZTQ=="/>
+		<POI MapID="1000" xpos="-234.541" ypos="35.4305" zpos="-599.58" type="chroniques.saison_2.ep3_l_ombre_du_dragon_1.sans_pitie" GUID="Cl87dVUm7kWvOfY6OyCUOQ=="/>
+
+	</POIs>
+</OverlayData>

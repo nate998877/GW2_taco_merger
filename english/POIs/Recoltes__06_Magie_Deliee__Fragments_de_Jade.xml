@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+POIs: ReActif.9251 - TMKFrench.6427
+Date: 2017/07/21
+-->
+<OverlayData>
+	<MarkerCategory name="recoltes" DisplayName="Harvest" fadeNear="10000" fadeFar="20000" behavior="6">
+		<MarkerCategory name="magie_deliee" DisplayName="Unbound Magic" iconFile="Img\MagieDeliee.png" triggerRange="3">
+			<MarkerCategory name="fragments_de_jade" DisplayName="Jade Fragments" iconFile="Img\EclatDeJade.png"/>
+		</MarkerCategory>
+	</MarkerCategory>
+
+	<POIs>
+
+		<POI MapID="1185" xpos="-289.019" ypos="-0.524374" zpos="44.7211" type="recoltes.magie_deliee.fragments_de_jade" GUID="ly5bTvw+e062Fd8qjLeBDw=="/>
+		<POI MapID="1185" xpos="-276.306" ypos="-0.401361" zpos="85.3175" type="recoltes.magie_deliee.fragments_de_jade" GUID="qtWqTWZRgkuHcXseT+V6Sg=="/>
+		<POI MapID="1185" xpos="-254.401" ypos="-0.187995" zpos="24.2143" type="recoltes.magie_deliee.fragments_de_jade" GUID="a4ISGadRVUarJO64I/dftA=="/>
+		<POI MapID="1185" xpos="-247.698" ypos="-1.83147" zpos="80.9375" type="recoltes.magie_deliee.fragments_de_jade" GUID="qTyu+GsATUytOyemHcGjcQ=="/>
+		<POI MapID="1185" xpos="-244.584" ypos="1.5283" zpos="-462.79" type="recoltes.magie_deliee.fragments_de_jade" GUID="BpEWX5IrGU60BPUr7bpovg=="/>
+		<POI MapID="1185" xpos="-243.288" ypos="1.52136" zpos="-290.024" type="recoltes.magie_deliee.fragments_de_jade" GUID="oVBcVkOnh0u7LRLhAXnGdw=="/>
+		<POI MapID="1185" xpos="-236.834" ypos="0.838025" zpos="-484.37" type="recoltes.magie_deliee.fragments_de_jade" GUID="l8vi/KXr+kO0VAg2Z02W8A=="/>
+		<POI MapID="1185" xpos="-230.731" ypos="2.11324" zpos="-518.034" type="recoltes.magie_deliee.fragments_de_jade" GUID="GQUGU8sCXUKy6f8cA87NDA=="/>
+		<POI MapID="1185" xpos="-221.737" ypos="-18.5554" zpos="16.3092" type="recoltes.magie_deliee.fragments_de_jade" GUID="q6lJUwGtv06heTDY2Hh87A=="/>
+		<POI MapID="1185" xpos="-218.351" ypos="6.08028" zpos="-252.824" type="recoltes.magie_deliee.fragments_de_jade" GUID="WcEZSwLlYEi0SIPmAhe9OA=="/>
+		<POI MapID="1185" xpos="-211.217" ypos="6.39279" zpos="-508.614" type="recoltes.magie_deliee.fragments_de_jade" GUID="vCXT5B8apkiG50eYNnQvlA=="/>
+		<POI MapID="1185" xpos="-211.102" ypos="1.30049" zpos="-307.547" type="recoltes.magie_deliee.fragments_de_jade" GUID="8exo1drEgkOAuvJsPslz4g=="/>
+		<POI MapID="1185" xpos="-210.292" ypos="-26.9984" zpos="73.6169" type="recoltes.magie_deliee.fragments_de_jade" GUID="CxSL3baw5k+7sLERXlK/xw=="/>
+		<POI MapID="1185" xpos="-209.925" ypos="1.18846" zpos="-476.689" type="recoltes.magie_deliee.fragments_de_jade" GUID="63AT/KGsKkag9JRfH1QxWg=="/>
+		<POI MapID="1185" xpos="-199.721" ypos="-33.3922" zpos="37.5781" type="recoltes.magie_deliee.fragments_de_jade" GUID="uZpqzlUubU6TXmXwOIYGOw=="/>
+		<POI MapID="1185" xpos="-199.259" ypos="-0.0306226" zpos="-523.568" type="recoltes.magie_deliee.fragments_de_jade" GUID="gtRMZpR5r0CYqLp7DCvwAA=="/>
+		<POI MapID="1185" xpos="-199.071" ypos="-1.81717" zpos="126.643" type="recoltes.magie_deliee.fragments_de_jade" GUID="y40WjYpr4EqaU9vRofOysA=="/>
+		<POI MapID="1185" xpos="-188.213" ypos="-26.315" zpos="109.297" type="recoltes.magie_deliee.fragments_de_jade" GUID="ZDGvk/7CNUeBZ6qIV7f74g=="/>
+		<POI MapID="1185" xpos="-186.463" ypos="-41.4709" zpos="46.847" type="recoltes.magie_deliee.fragments_de_jade" GUID="pWryYb+Gj0Sl2H1FyfW4Hg=="/>
+		<POI MapID="1185" xpos="-182.569" ypos="2.54895" zpos="150.542" type="recoltes.magie_deliee.fragments_de_jade" GUID="MF6IfjGrUUWazgIp9m1aAQ=="/>
+		<POI MapID="1185" xpos="-181.394" ypos="-0.174387" zpos="-527.713" type="recoltes.magie_deliee.fragments_de_jade" GUID="JuX1R8KEYkGn9uBh36NGsw=="/>
+		<POI MapID="1185" xpos="-180.788" ypos="1.61273" zpos="-248.405" type="recoltes.magie_deliee.fragments_de_jade" GUID="CltSG+5dH0CjwiDiUrv/gA=="/>
+		<POI MapID="1185" xpos="-177.253" ypos="3.12491" zpos="-496.836" type="recoltes.magie_deliee.fragments_de_jade" GUID="2ogM4B8k30CcyJQHEFbtpQ=="/>
+		<POI MapID="1185" xpos="-173.594" ypos="1.06595" zpos="132.861" type="recoltes.magie_deliee.fragments_de_jade" GUID="XjDvQS5I/Ey6VqyEXiAP/g=="/>
+		<POI MapID="1185" xpos="-172.847" ypos="2.66847" zpos="146.088" type="recoltes.magie_deliee.fragments_de_jade" GUID="0OIrp7i3ZEKeJx6IMHkLew=="/>
+		<POI MapID="1185" xpos="-171.893" ypos="-52.3455" zpos="71.5813" type="recoltes.magie_deliee.fragments_de_jade" GUID="qsQpGwr+GUOKKQd2lPwZHQ=="/>
+		<POI MapID="1185" xpos="-160.368" ypos="-0.221902" zpos="-527.609" type="recoltes.magie_deliee.fragments_de_jade" GUID="d0Px8JyhuECfCbbOwHJs+g=="/>
+		<POI MapID="1185" xpos="-159.201" ypos="0.0732895" zpos="-258.274" type="recoltes.magie_deliee.fragments_de_jade" GUID="gH0n1ek8fk61hhPd1SAf0g=="/>
+		<POI MapID="1185" xpos="-151.841" ypos="5.66393" zpos="190.376" type="recoltes.magie_deliee.fragments_de_jade" GUID="VZWqEf3f50+LTj4CirOq2w=="/>
+		<POI MapID="1185" xpos="-150.495" ypos="-0.187806" zpos="-575.779" type="recoltes.magie_deliee.fragments_de_jade" GUID="RaZZ+Ai5O0yt0h2nz7S5Tg=="/>
+		<POI MapID="1185" xpos="-148.062" ypos="-0.227215" zpos="-229.959" type="recoltes.magie_deliee.fragments_de_jade" GUID="YBlcq64fb0i4/066tviMvw=="/>
+		<POI MapID="1185" xpos="-141.63" ypos="0.746515" zpos="-568.665" type="recoltes.magie_deliee.fragments_de_jade" GUID="qgpCIA3hMUe/XDXzbiC1fA=="/>
+		<POI MapID="1185" xpos="-140.619" ypos="0.87257" zpos="-557.629" type="recoltes.magie_deliee.fragments_de_jade" GUID="1yGL/ft7C0qiJ0vFoFnheQ=="/>
+		<POI MapID="1185" xpos="-137.04" ypos="-0.0355908" zpos="-260.23" type="recoltes.magie_deliee.fragments_de_jade" GUID="qcBXvkNABUmnqzf7ARYkwQ=="/>
+		<POI MapID="1185" xpos="-129.227" ypos="3.70436" zpos="202.633" type="recoltes.magie_deliee.fragments_de_jade" GUID="98C0VyxOIk6B4KFNu4yrZw=="/>
+		<POI MapID="1185" xpos="-127.265" ypos="-0.209711" zpos="-208.857" type="recoltes.magie_deliee.fragments_de_jade" GUID="Vs5Ux0HYlEalM4Y4CvWPiQ=="/>
+		<POI MapID="1185" xpos="-123.508" ypos="0.577762" zpos="-571.29" type="recoltes.magie_deliee.fragments_de_jade" GUID="ChSDiJp3dk2/pZrChhic/Q=="/>
+		<POI MapID="1185" xpos="-123.369" ypos="8.59428" zpos="218.565" type="recoltes.magie_deliee.fragments_de_jade" GUID="X8uyp7H8nECGq1HKFDqSNw=="/>
+		<POI MapID="1185" xpos="-98.8196" ypos="23.4603" zpos="261.144" type="recoltes.magie_deliee.fragments_de_jade" GUID="y43GHp6ViE+SyJbDXILg3Q=="/>
+		<POI MapID="1185" xpos="-97.8519" ypos="15.1244" zpos="245.245" type="recoltes.magie_deliee.fragments_de_jade" GUID="s+nr0gmnnUWfJFKg9QW6Cg=="/>
+		<POI MapID="1185" xpos="-82.4126" ypos="1.54482" zpos="-601.053" type="recoltes.magie_deliee.fragments_de_jade" GUID="gXCETCwPRU6noYNq9WQTQA=="/>
+		<POI MapID="1185" xpos="-80.4033" ypos="-0.20779" zpos="-229.591" type="recoltes.magie_deliee.fragments_de_jade" GUID="i15ezIATFkWA5BjKvotI/A=="/>
+		<POI MapID="1185" xpos="-65.4192" ypos="0.109741" zpos="-207.18" type="recoltes.magie_deliee.fragments_de_jade" GUID="j6Wp4JClFUOPkGSiD7m2sQ=="/>
+		<POI MapID="1185" xpos="-64.1594" ypos="31.2563" zpos="286.234" type="recoltes.magie_deliee.fragments_de_jade" GUID="scqR8b0GC0ylAd+IDB5LOQ=="/>
+		<POI MapID="1185" xpos="-63.5255" ypos="4.92529" zpos="-600.83" type="recoltes.magie_deliee.fragments_de_jade" GUID="b/6kRMlisUadeDsBvpNt0g=="/>
+		<POI MapID="1185" xpos="-51.0073" ypos="47.0167" zpos="328.959" type="recoltes.magie_deliee.fragments_de_jade" GUID="EBqpoisflUafbG2ALamVNw=="/>
+		<POI MapID="1185" xpos="-48.0864" ypos="3.55123" zpos="-193.541" type="recoltes.magie_deliee.fragments_de_jade" GUID="9eyrGi0OykCjkuOh4daHAw=="/>
+		<POI MapID="1185" xpos="-45.3427" ypos="4.65468" zpos="-613.843" type="recoltes.magie_deliee.fragments_de_jade" GUID="a47vwJ3dG0WZpJvW9W4zUw=="/>
+		<POI MapID="1185" xpos="-39.4035" ypos="48.514" zpos="337.181" type="recoltes.magie_deliee.fragments_de_jade" GUID="hlT9Xs6JX0GNbhIIVFKSLw=="/>
+		<POI MapID="1185" xpos="-38.855" ypos="1.70282" zpos="-224.185" type="recoltes.magie_deliee.fragments_de_jade" GUID="FjdgzOJ6xEOvHZ0KkUtJ7w=="/>
+		<POI MapID="1185" xpos="-33.4594" ypos="36.548" zpos="321.474" type="recoltes.magie_deliee.fragments_de_jade" GUID="12dNIzPC5kaBm7LGzL7NnQ=="/>
+		<POI MapID="1185" xpos="-13.296" ypos="68.3535" zpos="361.354" type="recoltes.magie_deliee.fragments_de_jade" GUID="IIdiF71ZMUugz561mxLzIw=="/>
+		<POI MapID="1185" xpos="-10.3061" ypos="4.33987" zpos="-203.872" type="recoltes.magie_deliee.fragments_de_jade" GUID="54Q0xmsQwkGxT0NDpmCYOg=="/>
+		<POI MapID="1185" xpos="-1.8114" ypos="38.431" zpos="357.907" type="recoltes.magie_deliee.fragments_de_jade" GUID="C/IbVLnpPUSNEjtiaQ/b2Q=="/>
+		<POI MapID="1185" xpos="35.3623" ypos="23.7979" zpos="-180.951" type="recoltes.magie_deliee.fragments_de_jade" GUID="1rAcoE9lI0C+xdLAwJHWtA=="/>
+		<POI MapID="1185" xpos="50.0637" ypos="30.1911" zpos="-178.809" type="recoltes.magie_deliee.fragments_de_jade" GUID="pmG/TaDzmkCU3LerXKu97A=="/>
+		<POI MapID="1185" xpos="51.7474" ypos="31.9357" zpos="-170.377" type="recoltes.magie_deliee.fragments_de_jade" GUID="8Dk6d0NsrUqIrPK/MF69SQ=="/>
+		<POI MapID="1185" xpos="66.5593" ypos="30.9587" zpos="-715.936" type="recoltes.magie_deliee.fragments_de_jade" GUID="TCi0vXubA02U33b6lGLZlA=="/>
+		<POI MapID="1185" xpos="90.7869" ypos="30.0616" zpos="-694.758" type="recoltes.magie_deliee.fragments_de_jade" GUID="+TnA0c8MrUmf0Y+JV8mo6w=="/>
+		<POI MapID="1185" xpos="120" ypos="31.4423" zpos="-688.69" type="recoltes.magie_deliee.fragments_de_jade" GUID="GO0Gvz3gbEKQFPYJa05DIg=="/>
+		<POI MapID="1185" xpos="149.325" ypos="30.568" zpos="-701.624" type="recoltes.magie_deliee.fragments_de_jade" GUID="scuG56BNSESR3H1yBtaraA=="/>
+		<POI MapID="1185" xpos="166.564" ypos="29.6137" zpos="-719.606" type="recoltes.magie_deliee.fragments_de_jade" GUID="DeGHHggdrUiIdIqz8p7Yaw=="/>
+		<POI MapID="1185" xpos="195.965" ypos="60.4592" zpos="-117.071" type="recoltes.magie_deliee.fragments_de_jade" GUID="2DOPvI8Mn0OMR2NUDmvJ5g=="/>
+		<POI MapID="1185" xpos="197.078" ypos="30.1366" zpos="-708.726" type="recoltes.magie_deliee.fragments_de_jade" GUID="NvsnkCMbsEuLvG5BSAUeSA=="/>
+		<POI MapID="1185" xpos="215.818" ypos="68.2851" zpos="-70.741" type="recoltes.magie_deliee.fragments_de_jade" GUID="wsxdhGmBQ0uI2BSghEQbTw=="/>
+		<POI MapID="1185" xpos="216.09" ypos="31.5334" zpos="-696.287" type="recoltes.magie_deliee.fragments_de_jade" GUID="SLMbp1bxE0exvLvujfcCog=="/>
+		<POI MapID="1185" xpos="240.277" ypos="31.3203" zpos="-690.091" type="recoltes.magie_deliee.fragments_de_jade" GUID="JdhHvMP0lE+wvOD7ZBXtRw=="/>
+		<POI MapID="1185" xpos="245.621" ypos="66.7391" zpos="-102.685" type="recoltes.magie_deliee.fragments_de_jade" GUID="nlMatD+v+km6+I/DVxvD/Q=="/>
+		<POI MapID="1185" xpos="247.142" ypos="60.1166" zpos="-190.744" type="recoltes.magie_deliee.fragments_de_jade" GUID="0pgB/RFFuEipWAf7PPFNQw=="/>
+		<POI MapID="1185" xpos="247.986" ypos="91.7336" zpos="21.4562" type="recoltes.magie_deliee.fragments_de_jade" GUID="cXqko8wlBkCIh3btFOi/JA=="/>
+		<POI MapID="1185" xpos="248.992" ypos="30.5757" zpos="-665.924" type="recoltes.magie_deliee.fragments_de_jade" GUID="EsWM1RedjUq7chskkfBKGw=="/>
+		<POI MapID="1185" xpos="251.067" ypos="33.0887" zpos="-724.284" type="recoltes.magie_deliee.fragments_de_jade" GUID="HtnK3hdyukOr8cFApyq+Xg=="/>
+		<POI MapID="1185" xpos="266.07" ypos="67.0472" zpos="-1.15612" type="recoltes.magie_deliee.fragments_de_jade" GUID="eXWauGOs9Eq/R3SaarJApg=="/>
+		<POI MapID="1185" xpos="270.223" ypos="93.0455" zpos="45.1387" type="recoltes.magie_deliee.fragments_de_jade" GUID="rEiDF0FIlk+xToiEl+ToSQ=="/>
+		<POI MapID="1185" xpos="274.988" ypos="88.3372" zpos="31.7059" type="recoltes.magie_deliee.fragments_de_jade" GUID="WCv6VR0Z5Eee02izL1KX7g=="/>
+		<POI MapID="1185" xpos="280.701" ypos="104.664" zpos="55.934" type="recoltes.magie_deliee.fragments_de_jade" GUID="3MVRhbrfuUCMFRzEYOiGRA=="/>
+		<POI MapID="1185" xpos="285.427" ypos="94.6463" zpos="48.2895" type="recoltes.magie_deliee.fragments_de_jade" GUID="1nbUu5B3p0O5ux9xgUs+Cg=="/>
+		<POI MapID="1185" xpos="294.801" ypos="76.147" zpos="-131.081" type="recoltes.magie_deliee.fragments_de_jade" GUID="OGPilC68M0uQFE0QFcQJbw=="/>
+		<POI MapID="1185" xpos="295.645" ypos="93.055" zpos="39.7254" type="recoltes.magie_deliee.fragments_de_jade" GUID="NXgris27ykya+rbLCPqufg=="/>
+		<POI MapID="1185" xpos="300.546" ypos="75.4585" zpos="-70.6568" type="recoltes.magie_deliee.fragments_de_jade" GUID="HrSHw5Apr0GCr456rkChpw=="/>
+		<POI MapID="1185" xpos="305.948" ypos="98.9013" zpos="303.121" type="recoltes.magie_deliee.fragments_de_jade" GUID="yJCCW8c89kKSwtkQQMfphA=="/>
+		<POI MapID="1185" xpos="338.217" ypos="98.7232" zpos="348.112" type="recoltes.magie_deliee.fragments_de_jade" GUID="XOUhJhreXE2OtN12n85eHg=="/>
+		<POI MapID="1185" xpos="359.655" ypos="112.39" zpos="107.333" type="recoltes.magie_deliee.fragments_de_jade" GUID="09Q1F14/YkedTxfP3OmZIg=="/>
+
+	</POIs>
+</OverlayData>

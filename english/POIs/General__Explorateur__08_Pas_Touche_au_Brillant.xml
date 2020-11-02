@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+POIs: ReActif.9251
+Date: 2017/08/11
+-->
+<OverlayData>
+	<MarkerCategory name="general" DisplayName="General">
+		<MarkerCategory name="explorateur" DisplayName="Explorer" iconFile="Img\Explorateur.png" behavior="3">
+			<MarkerCategory name="pas_touche_au_brillant" DisplayName="Don't Touch the Shiny">
+				<MarkerCategory name="acces" DisplayName="Guide" iconFile="Img\Guide.png" iconSize="0.75"/>
+			</MarkerCategory>
+		</MarkerCategory>
+	</MarkerCategory>
+
+	<POIs>
+
+		<!-- Entrée -->
+		<POI MapID="34" xpos="-86.95" ypos="23.4" zpos="272.7" type="general.explorateur.pas_touche_au_brillant.acces" GUID="f8tDV5XpnEqqWlqnb0qGUQ==" iconFile="Img\Fleche.png" iconSize="1.5"/>
+
+		<!-- Route -->
+		<Route MapID="34" name="Acces" resetposx="-86.95" resetposy="23.4" resetposz="272.7" resetrange="2">
+			<POI MapID="34" xpos="-79.4531" ypos="20.6934" zpos="281.143" type="general.explorateur.pas_touche_au_brillant.acces" GUID="z8dGXmIeB0WiHTs49msfeg=="/>
+			<POI MapID="34" xpos="-72.5551" ypos="19.7282" zpos="290.808" type="general.explorateur.pas_touche_au_brillant.acces" GUID="r6vKyCIAh0OU1D1gs7sC+w=="/>
+			<POI MapID="34" xpos="-67.349" ypos="19.2112" zpos="301.523" type="general.explorateur.pas_touche_au_brillant.acces" GUID="SqG6M7IjHk+SG66b/Bwznw=="/>
+			<POI MapID="34" xpos="-58.6755" ypos="17.5025" zpos="308.268" type="general.explorateur.pas_touche_au_brillant.acces" GUID="XNLRlVpUg0iY0a+ig/a5Hg=="/>
+			<POI MapID="34" xpos="-48.8124" ypos="15.1681" zpos="314.623" type="general.explorateur.pas_touche_au_brillant.acces" GUID="8y8C0zI7LEC6xNpc0IheyQ=="/>
+			<POI MapID="34" xpos="-40.2963" ypos="11.5751" zpos="322.513" type="general.explorateur.pas_touche_au_brillant.acces" GUID="nwikfXw4g0yqmlDhayboQw=="/>
+			<POI MapID="34" xpos="-37.7045" ypos="8.30957" zpos="330.311" type="general.explorateur.pas_touche_au_brillant.acces" GUID="ejbhsOuCB06w9CqCjyz9Iw=="/>
+			<POI MapID="34" xpos="-31.9645" ypos="4.92137" zpos="336.729" type="general.explorateur.pas_touche_au_brillant.acces" GUID="Y1S6AUCTNk6LXhGavhIF6A=="/>
+			<POI MapID="34" xpos="-24.4979" ypos="3.31555" zpos="335.289" type="general.explorateur.pas_touche_au_brillant.acces" GUID="d38DF3pyxEyDXu9nuOPMhw=="/>
+			<POI MapID="34" xpos="-15.7738" ypos="4.18603" zpos="332.488" type="general.explorateur.pas_touche_au_brillant.acces" GUID="Zzuxiiq0PkOlxsmrjBf+JQ=="/>
+			<POI MapID="34" xpos="-9.72118" ypos="6.76979" zpos="336.525" type="general.explorateur.pas_touche_au_brillant.acces" GUID="QiWmFX/Ol0qQh6HTKxFVrA=="/>
+			<POI MapID="34" xpos="-3.00107" ypos="8.14052" zpos="341.957" type="general.explorateur.pas_touche_au_brillant.acces" GUID="V93QbFnGCkqnMf3/HFVbLw=="/>
+			<POI MapID="34" xpos="0.683843" ypos="7.97399" zpos="343.813" type="general.explorateur.pas_touche_au_brillant.acces" GUID="OQNEjpcLiESRvEclqJAlfw==" iconFile="Img\Orbe.png"/>
+			<POI MapID="34" xpos="-2.40801" ypos="9.15476" zpos="350.845" type="general.explorateur.pas_touche_au_brillant.acces" GUID="plQgDKB8KU+XE8sw/muAZg=="/>
+			<POI MapID="34" xpos="-5.0212" ypos="10.8804" zpos="360.003" type="general.explorateur.pas_touche_au_brillant.acces" GUID="s036lkEtKE2dKbHcN+gybA=="/>
+			<POI MapID="34" xpos="-12.3955" ypos="9.40185" zpos="367.477" type="general.explorateur.pas_touche_au_brillant.acces" GUID="iConLEBsLEKWFyXZdtzvuw=="/>
+			<POI MapID="34" xpos="-19.9423" ypos="9.33189" zpos="368.993" type="general.explorateur.pas_touche_au_brillant.acces" GUID="pXDVeTQfu02Hvxoanf6uQw=="/>
+			<POI MapID="34" xpos="-25.5607" ypos="9.22161" zpos="363.71" type="general.explorateur.pas_touche_au_brillant.acces" GUID="fQKQW9JNkEKcwMogrZqkUQ=="/>
+			<POI MapID="34" xpos="-31.2682" ypos="9.23105" zpos="360.173" type="general.explorateur.pas_touche_au_brillant.acces" GUID="Rk0XWQLdmkaaZaQe0sZzKQ=="/>
+			<POI MapID="34" xpos="-37.137" ypos="9.85857" zpos="362.798" type="general.explorateur.pas_touche_au_brillant.acces" GUID="Ou6Z9vzC206jhPBz4oiRkw==" iconFile="Img\Croix.png"/>
+			<POI MapID="34" xpos="-43.1374" ypos="10.9211" zpos="366.705" type="general.explorateur.pas_touche_au_brillant.acces" GUID="AUEOrCZdB0aMYdPxYXi/hQ=="/>
+			<POI MapID="34" xpos="-48.2887" ypos="11.1915" zpos="369.963" type="general.explorateur.pas_touche_au_brillant.acces" GUID="eXE/nTrIBUS/nDQfMl9XFA=="/>
+			<POI MapID="34" xpos="-52.5485" ypos="11.1915" zpos="373.878" type="general.explorateur.pas_touche_au_brillant.acces" GUID="jIWisZbn006yvy9oGhRNCA=="/>
+			<POI MapID="34" xpos="-53.6514" ypos="11.1882" zpos="382.925" type="general.explorateur.pas_touche_au_brillant.acces" GUID="OrmJitOAv0C4QMmbbrD3sA=="/>
+			<POI MapID="34" xpos="-50.7241" ypos="11.3457" zpos="392.457" type="general.explorateur.pas_touche_au_brillant.acces" GUID="a60YBWQ0SUuisd/F6GLwHg=="/>
+			<POI MapID="34" xpos="-43.6336" ypos="11.2896" zpos="399.359" type="general.explorateur.pas_touche_au_brillant.acces" GUID="gphqgARtQ0a5u9I71nBcWQ=="/>
+			<POI MapID="34" xpos="-35.9236" ypos="11.3288" zpos="403.914" type="general.explorateur.pas_touche_au_brillant.acces" GUID="/fe3V1hbEEmzbmv1Rvnctg=="/>
+			<POI MapID="34" xpos="-23.0429" ypos="9.89049" zpos="408.764" type="general.explorateur.pas_touche_au_brillant.acces" GUID="0OgX3zrvsESVZs4I6Eokig=="/>
+		</Route>
+
+		<!-- Coffre (optionnel) -->
+		<POI MapID="34" xpos="-1.57176" ypos="10.0181" zpos="409.228" type="general.explorateur.pas_touche_au_brillant" GUID="1JZlV6cfokamDg5TgN1kbA==" iconFile="Img\Coffre.png" heightOffset="2"/>
+
+		<!-- Babiole Sacrée Skritt -->
+		<POI MapID="34" xpos="-10.3212" ypos="8.99809" zpos="411.578" type="general.explorateur.pas_touche_au_brillant" GUID="uJ7zVTnhiUOkAreHHx80dw==" iconFile="Img\CoffreMiniDonjon.png" heightOffset="2"/>
+
+	</POIs>
+</OverlayData>

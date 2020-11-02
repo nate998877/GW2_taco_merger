@@ -1,0 +1,61 @@
+<OverlayData>
+	<MarkerCategory name="crystal" DisplayName="Crystal Desert">
+		<MarkerCategory name="oasis" DisplayName="Crystal Oasis">
+			<MarkerCategory name="collectibles" DisplayName="Collectibles">
+				<MarkerCategory name="bleached" DisplayName="Bleached Bones" iconFile="Data/gw2info/bones.png" behavior="3" triggerRange="5"></MarkerCategory>
+				<MarkerCategory name="garden" DisplayName="Garden of the Gods (Lost Lore)" iconFile="Data/gw2info/book.png" behavior="3" triggerRange="5"></MarkerCategory>
+			</MarkerCategory>
+			<MarkerCategory name="raptor" DisplayName="Reins of the Raptor" iconFile="Data/gw2info/dino.png" behavior="3" triggerRange="5" fadeNear="300" fadeFar="15000"></MarkerCategory>
+			<MarkerCategory name="pilgrim" DisplayName="Lost Pilgrims">
+				<MarkerCategory name="crystal" DisplayName="Vision Crystal" iconFile="Data/gw2info/pilgram_crystal.png" behavior="3" triggerRange="5" fadeNear="300" fadeFar="25000"></MarkerCategory>
+				<MarkerCategory name="bones" DisplayName="Bones" iconFile="Data/gw2info/pilgram_bones.png" behavior="3" triggerRange="5" fadeNear="300" fadeFar="25000"></MarkerCategory>
+			</MarkerCategory>
+		</MarkerCategory>
+	</MarkerCategory>
+	<POIs>
+		<POI MapID="1210" xpos="-1092.43" ypos="38.5204" zpos="469.138" type="crystal.oasis.collectibles.bleached" GUID="uF00UlYwQkKrsS3CgqO4oQ=="/>
+		<POI MapID="1210" xpos="-1231.26" ypos="14.6284" zpos="-598.437" type="crystal.oasis.collectibles.bleached" GUID="GD7bxnu0NEKf5wHdSc2nAw=="/>
+		<POI MapID="1210" xpos="-1249.65" ypos="-33.1111" zpos="-212.634" type="crystal.oasis.collectibles.bleached" GUID="0JZEIXbDN0a+u+LfZYKxew=="/>
+		<POI MapID="1210" xpos="-232.837" ypos="58.7866" zpos="667.885" type="crystal.oasis.collectibles.bleached" GUID="Odd6Tj55u06VD7u5z3hKOg=="/>
+		<POI MapID="1210" xpos="-379.682" ypos="56.458" zpos="556.254" type="crystal.oasis.collectibles.bleached" GUID="TfwUAcrgDkmD4VhDvTiRAQ=="/>
+		<POI MapID="1210" xpos="-492.227" ypos="-9.65098" zpos="-514.538" type="crystal.oasis.collectibles.bleached" GUID="kt104Km7CEqQtXSl7KvVIQ=="/>
+		<POI MapID="1210" xpos="-500.916" ypos="33.8937" zpos="421.056" type="crystal.oasis.collectibles.bleached" GUID="PJSy/PQkdE+smHOrg/ln0Q=="/>
+		<POI MapID="1210" xpos="-834.661" ypos="38.6644" zpos="657.031" type="crystal.oasis.collectibles.bleached" GUID="HiGhvxI6k06XC2105/QmcA=="/>
+		<POI MapID="1210" xpos="-850.497" ypos="13.7492" zpos="303.958" type="crystal.oasis.collectibles.bleached" GUID="ho/8dz98hUW4EsIWVo9itA=="/>
+		<POI MapID="1210" xpos="-895.897" ypos="87.7471" zpos="18.0297" type="crystal.oasis.collectibles.bleached" GUID="nunapKDia0OveF8PUkLOrA=="/>
+		<POI MapID="1210" xpos="-937.533" ypos="46.5769" zpos="362.587" type="crystal.oasis.collectibles.bleached" GUID="k8eh2YpffEio6a+O5J0bhQ=="/>
+		<POI MapID="1210" xpos="1017.15" ypos="209.595" zpos="439.874" type="crystal.oasis.collectibles.bleached" GUID="jgNb35hmmkqVq/S3P5ArlQ=="/>
+		<POI MapID="1210" xpos="1022.07" ypos="100.484" zpos="47.4011" type="crystal.oasis.collectibles.bleached" GUID="sZpfij866kSq3HCEh3kXxQ=="/>
+		<POI MapID="1210" xpos="1452.56" ypos="165.701" zpos="-421.34" type="crystal.oasis.collectibles.bleached" GUID="/tgXLQgNsk6gy2b6ZWXFhA=="/>
+		<POI MapID="1210" xpos="172.374" ypos="80.1587" zpos="-155.116" type="crystal.oasis.collectibles.bleached" GUID="ARVA1OU8jEiMC6FgR5sLEA=="/>
+		<POI MapID="1210" xpos="22.8778" ypos="105.689" zpos="627.967" type="crystal.oasis.collectibles.bleached" GUID="pOro5EYfFkCWQ+K+t05scQ=="/>
+		<POI MapID="1210" xpos="287.412" ypos="4.15458" zpos="-351.761" type="crystal.oasis.collectibles.bleached" GUID="W0yFVzGbm0ecm6mdOKAmCQ=="/>
+		<POI MapID="1210" xpos="291.35" ypos="59.0199" zpos="513.357" type="crystal.oasis.collectibles.bleached" GUID="cgguBN13/Uu7vvnZo/nMUA=="/>
+		<POI MapID="1210" xpos="483.082" ypos="69.9919" zpos="15.1533" type="crystal.oasis.collectibles.bleached" GUID="BGZCJ8QFWEuLnGSkQ2BACg=="/>
+		<POI MapID="1210" xpos="552.153" ypos="278.758" zpos="331.288" type="crystal.oasis.collectibles.bleached" GUID="Z/PqH1n78kqTG4X0eTjmWQ=="/>
+		<POI MapID="1210" xpos="572.034" ypos="146.863" zpos="195.98" type="crystal.oasis.collectibles.bleached" GUID="2Q16MvHClkS8BQqKY9iK2Q=="/>
+		<POI MapID="1210" xpos="766.094" ypos="86.9446" zpos="-624.12" type="crystal.oasis.collectibles.bleached" GUID="DskiNqJJEkOo/3FTSS9wOQ=="/>
+		<POI MapID="1210" xpos="806.97" ypos="204.899" zpos="704.38" type="crystal.oasis.collectibles.bleached" GUID="y6LznzpDwECGdHLMXmpCYA=="/>
+		<POI MapID="1210" xpos="1186.34" ypos="375.037" zpos="393.953" type="crystal.oasis.collectibles.bleached" GUID="mMZMvlxF3EeM7no70D5fLg=="/>
+
+		<POI MapID="1210" xpos="987.192" ypos="209.564" zpos="394.431" type="crystal.oasis.collectibles.garden" GUID="Hz3SXSBCcU23dANqL//qfg=="/>
+		<POI MapID="1210" xpos="-1226.77" ypos="3.47884" zpos="-570.789" type="crystal.oasis.collectibles.garden" GUID="b4EoMe5Su0KE69VJQ06Fzg=="/>
+		<POI MapID="1210" xpos="-858.704" ypos="13.3255" zpos="18.1137" type="crystal.oasis.collectibles.garden" GUID="Cr9Rrht6oUKyDZN766rHZg=="/>
+		<POI MapID="1210" xpos="1241.97" ypos="170.475" zpos="-450.205" type="crystal.oasis.collectibles.garden" GUID="j8xBLmwtOUK4aduYlgopcg=="/>
+		<POI MapID="1210" xpos="255.831" ypos="60.5601" zpos="620.462" type="crystal.oasis.collectibles.garden" GUID="clmnsuUn3kO1Cg1kSPbF0A=="/>
+		<POI MapID="1210" xpos="824.518" ypos="224.977" zpos="122.679" type="crystal.oasis.collectibles.garden" GUID="WkR5fwWPCkiATXe6QklgEw=="/>
+		<POI MapID="1210" xpos="1206.63" ypos="372.513" zpos="392.127" type="crystal.oasis.collectibles.garden" GUID="ws2IfO8iSkexJXntRNLGmQ=="/>
+
+		<POI MapID="1210" xpos="799.943" ypos="83.2631" zpos="254.931" type="crystal.oasis.pilgrim.crystal" GUID="EmrFKjaHbU6/rP3BojdbYA=="/>
+		<POI MapID="1210" xpos="656.203" ypos="181.689" zpos="13.7814" type="crystal.oasis.pilgrim.crystal" GUID="GNloR/2LhkK9JYykW5EuWQ=="/>
+		<POI MapID="1210" xpos="558.566" ypos="230.471" zpos="413.394" type="crystal.oasis.pilgrim.crystal" GUID="O6BaeBXBK0u3qBuzXccv6g=="/>
+		<POI MapID="1210" xpos="917.06" ypos="56.9486" zpos="286.26" type="crystal.oasis.pilgrim.bones" GUID="tOPbf+tB+0KYBP+RBsH3BQ=="/>
+		<POI MapID="1210" xpos="530.481" ypos="228.033" zpos="164.911" type="crystal.oasis.pilgrim.bones" GUID="NdjeVGg/pkGaZZB+vD2cfg=="/>
+		<POI MapID="1210" xpos="605.862" ypos="286.863" zpos="373.626" type="crystal.oasis.pilgrim.bones" GUID="qzSdVwDGl0O3hsCKCIxCiQ=="/>
+		
+		<POI MapID="1210" xpos="708.117" ypos="124.096" zpos="110.687" type="crystal.oasis.raptor" GUID="A1wpVbjQjUKIz/SlAmDN4g=="/>
+		<POI MapID="1210" xpos="-345.784" ypos="8.26265" zpos="-349.59" type="crystal.oasis.raptor" GUID="1nftjztUcUWUycBdwnrfuQ=="/>
+		<POI MapID="1210" xpos="-353.844" ypos="8.60427" zpos="-345.181" type="crystal.oasis.raptor" GUID="Lr7QVvYUhEmoDp4IOz33Dw=="/>
+		<POI MapID="1210" xpos="1055.9" ypos="20.9281" zpos="-325.441" type="crystal.oasis.raptor" GUID="tgL8DTDswU2LMcLwy0fCeQ=="/>
+	</POIs>
+</OverlayData>

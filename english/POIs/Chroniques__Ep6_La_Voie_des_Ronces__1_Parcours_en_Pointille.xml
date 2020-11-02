@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+POIs: ReActif.9251
+Date: 2017/08/11
+-->
+<OverlayData>
+	<MarkerCategory name="chroniques.saison_2">
+		<MarkerCategory name="ep6_la_voie_des_ronces" DisplayName="Ep.6 - Tangled Paths" iconFile="Img\Saison2LaVoieDesRonces.png">
+			<MarkerCategory name="parcours_en_pointille" DisplayName="Connect the Dots">
+				<MarkerCategory name="trajet" DisplayName="Guide" iconFile="Img\Guide.png" iconSize="0.75" heightOffset="0" behavior="0"/>
+			</MarkerCategory>
+		</MarkerCategory>
+	</MarkerCategory>
+
+	<POIs>
+
+		<!-- Début -->
+		<POI MapID="1021" xpos="-41.9" ypos="358.85" zpos="-331.12" type="chroniques.saison_2.ep6_la_voie_des_ronces.parcours_en_pointille.trajet" GUID="qhLFuopAgUKNCrXQeC1YUA==" iconFile="Img\EtoileInstanceViolet.png" iconSize="0.5" heightOffset="1.5"/>
+
+		<!-- Ordre des PNJ -->
+		<Route MapID="1021" name="PNJ" resetposx="-41.9" resetposy="358.85" resetposz="-331.12" resetrange="1">
+			<!-- Rox & Engelure-->
+			<POI MapID="1021" xpos="-210.928" ypos="348.999" zpos="-374.904" type="chroniques.saison_2.ep6_la_voie_des_ronces.parcours_en_pointille" GUID="ISs0VnNcTU2UqA/4SxY1ZQ==" iconFile="Img\1.png" iconSize="2" color="ff00ff00" heightOffset="4"/>
+			<!-- Braham Eirsson -->
+			<POI MapID="1021" xpos="-347.465" ypos="338.481" zpos="-271.944" type="chroniques.saison_2.ep6_la_voie_des_ronces.parcours_en_pointille" GUID="tQPPvkhJ8keNr86NJkvveg==" iconFile="Img\2.png" iconSize="2" color="ff00a9ff" heightOffset="4"/>
+			<!-- Marjory Delaqua -->
+			<POI MapID="1021" xpos="-70.895" ypos="346.472" zpos="-343.444" type="chroniques.saison_2.ep6_la_voie_des_ronces.parcours_en_pointille" GUID="ULedKEoM3EqylODAGXaOLg==" iconFile="Img\3.png" iconSize="2" color="ffff0000" heightOffset="4"/>
+			<!-- Kasmeer Meade -->
+			<POI MapID="1021" xpos="-158.632" ypos="358.195" zpos="-254.453" type="chroniques.saison_2.ep6_la_voie_des_ronces.parcours_en_pointille" GUID="hgulWHMrk024odv8co9stw==" iconFile="Img\4.png" iconSize="2" color="ffff00ff" heightOffset="4"/>
+		</Route>
+
+		<!-- Parcours -->
+		<Route MapID="1021" name="ParcoursEnPointille" resetposx="-41.9" resetposy="358.85" resetposz="-331.12" resetrange="1" triggerRange="5">
+			<POI MapID="1021" xpos="-56.5607" ypos="350.255" zpos="-321.732" type="chroniques.saison_2.ep6_la_voie_des_ronces.parcours_en_pointille.trajet" GUID="s2eMxSxGPkmBKJlHDsXIqw=="/>
+			<POI MapID="1021" xpos="-65.2852" ypos="347.471" zpos="-320.218" type="chroniques.saison_2.ep6_la_voie_des_ronces.parcours_en_pointille.trajet" GUID="x6hUTqtnLkCYjCWVk/DZ5A=="/>
+			<POI MapID="1021" xpos="-74.4136" ypos="346.468" zpos="-321.544" type="chroniques.saison_2.ep6_la_voie_des_ronces.parcours_en_pointille.trajet" GUID="75XQLYKgn0KgQiX7wAhguQ=="/>
+			<POI MapID="1021" xpos="-83.0367" ypos="346.571" zpos="-325.86" type="chroniques.saison_2.ep6_la_voie_des_ronces.parcours_en_pointille.trajet" GUID="VSrk6z+SrU6AiwnYS6ubkg=="/>
+			<POI MapID="1021" xpos="-88.2406" ypos="346.567" zpos="-332.535" type="chroniques.saison_2.ep6_la_voie_des_ronces.parcours_en_pointille.trajet" GUID="sQuqOgLcmUyVkRZNPreYMA=="/>
+			<POI MapID="1021" xpos="-91.1051" ypos="346.922" zpos="-340.957" type="chroniques.saison_2.ep6_la_voie_des_ronces.parcours_en_pointille.trajet" GUID="fV3Rpw0mZEGPQlYCrWOlRA=="/>
+			<POI MapID="1021" xpos="-92.1582" ypos="347.005" zpos="-350.605" type="chroniques.saison_2.ep6_la_voie_des_ronces.parcours_en_pointille.trajet" GUID="EIuZ9nfA/k2TZUlQQzb78Q=="/>
+			<POI MapID="1021" xpos="-95.1443" ypos="347.571" zpos="-359.602" type="chroniques.saison_2.ep6_la_voie_des_ronces.parcours_en_pointille.trajet" GUID="l9F+CKuolEW5YR9TJe2Kng=="/>
+			<POI MapID="1021" xpos="-104.732" ypos="348.37" zpos="-362.936" type="chroniques.saison_2.ep6_la_voie_des_ronces.parcours_en_pointille.trajet" GUID="FgXrTdB1J06Jiepim5jGZQ=="/>
+			<POI MapID="1021" xpos="-116.809" ypos="348.746" zpos="-360.956" type="chroniques.saison_2.ep6_la_voie_des_ronces.parcours_en_pointille.trajet" GUID="AVk3T6cb0UWmFYuy2aehvA=="/>
+			<POI MapID="1021" xpos="-127.708" ypos="348.611" zpos="-358.385" type="chroniques.saison_2.ep6_la_voie_des_ronces.parcours_en_pointille.trajet" GUID="XNRXsntxIUOLfmm4xGOXeQ=="/>
+			<POI MapID="1021" xpos="-138.493" ypos="349.384" zpos="-355.526" type="chroniques.saison_2.ep6_la_voie_des_ronces.parcours_en_pointille.trajet" GUID="onhTs6iMOUixcexp5brB7w=="/>
+			<POI MapID="1021" xpos="-149.585" ypos="350.334" zpos="-352.879" type="chroniques.saison_2.ep6_la_voie_des_ronces.parcours_en_pointille.trajet" GUID="WyTvLPHD0UONzSWqL50VFA=="/>
+			<POI MapID="1021" xpos="-160.613" ypos="350.709" zpos="-352.081" type="chroniques.saison_2.ep6_la_voie_des_ronces.parcours_en_pointille.trajet" GUID="OmKLPF+USkKBWd7p61eotQ=="/>
+			<POI MapID="1021" xpos="-172.092" ypos="350.065" zpos="-352.386" type="chroniques.saison_2.ep6_la_voie_des_ronces.parcours_en_pointille.trajet" GUID="HtwLyAKUmE+cL921PXGmgw=="/>
+			<POI MapID="1021" xpos="-182.109" ypos="350.292" zpos="-353.262" type="chroniques.saison_2.ep6_la_voie_des_ronces.parcours_en_pointille.trajet" GUID="2cMJeCI0BkWLUg3Vh8c6MQ=="/>
+			<POI MapID="1021" xpos="-192.346" ypos="349.777" zpos="-355.147" type="chroniques.saison_2.ep6_la_voie_des_ronces.parcours_en_pointille.trajet" GUID="LG6T8XZWhUarF0LgUT9w9w=="/>
+			<POI MapID="1021" xpos="-198.403" ypos="350.786" zpos="-359.122" type="chroniques.saison_2.ep6_la_voie_des_ronces.parcours_en_pointille.trajet" GUID="GBdp3bQjtEm80ohtVXm+vw=="/>
+			<POI MapID="1021" xpos="-205.783" ypos="349.735" zpos="-368.507" type="chroniques.saison_2.ep6_la_voie_des_ronces.parcours_en_pointille.trajet" GUID="hH7Yv6OlDEyERm3EEhIXjw=="/>
+			<POI MapID="1021" xpos="-209.115" ypos="349.509" zpos="-371.442" type="chroniques.saison_2.ep6_la_voie_des_ronces.parcours_en_pointille.trajet" GUID="a7PVD6kM1kuyDlRH6aoDOw=="/>
+			<POI MapID="1021" xpos="-204.682" ypos="350.397" zpos="-365.527" type="chroniques.saison_2.ep6_la_voie_des_ronces.parcours_en_pointille.trajet" GUID="lSvbPpRzoU+M+TigTJBDQA=="/>
+			<POI MapID="1021" xpos="-197.581" ypos="351.238" zpos="-355.111" type="chroniques.saison_2.ep6_la_voie_des_ronces.parcours_en_pointille.trajet" GUID="BXV1aD0haU+q8bj6xyJWcg=="/>
+			<POI MapID="1021" xpos="-189.323" ypos="350.143" zpos="-351.157" type="chroniques.saison_2.ep6_la_voie_des_ronces.parcours_en_pointille.trajet" GUID="RDoiESaG40OFROblYCCxCg=="/>
+			<POI MapID="1021" xpos="-181.568" ypos="350.527" zpos="-350.281" type="chroniques.saison_2.ep6_la_voie_des_ronces.parcours_en_pointille.trajet" GUID="gZb53+iPCEWfu6maMnz0Fg=="/>
+			<POI MapID="1021" xpos="-174.137" ypos="350.584" zpos="-349.568" type="chroniques.saison_2.ep6_la_voie_des_ronces.parcours_en_pointille.trajet" GUID="aH/897vl3UKKUVFuxQKsSQ=="/>
+			<POI MapID="1021" xpos="-166.358" ypos="350.885" zpos="-348.77" type="chroniques.saison_2.ep6_la_voie_des_ronces.parcours_en_pointille.trajet" GUID="85Q33MRXAEyD6MkvSrEJag=="/>
+			<POI MapID="1021" xpos="-158.193" ypos="351.17" zpos="-348.056" type="chroniques.saison_2.ep6_la_voie_des_ronces.parcours_en_pointille.trajet" GUID="5CEPSY+F3kmOLc07yrVGhQ=="/>
+			<POI MapID="1021" xpos="-150.234" ypos="351.886" zpos="-348.285" type="chroniques.saison_2.ep6_la_voie_des_ronces.parcours_en_pointille.trajet" GUID="ctq10qRtfEKS7RrirTbnng=="/>
+			<POI MapID="1021" xpos="-144.586" ypos="350.194" zpos="-354.044" type="chroniques.saison_2.ep6_la_voie_des_ronces.parcours_en_pointille.trajet" GUID="yD+NFDd160+9tdJ9RqYqgw=="/>
+			<POI MapID="1021" xpos="-140.439" ypos="347.205" zpos="-360.1" type="chroniques.saison_2.ep6_la_voie_des_ronces.parcours_en_pointille.trajet" GUID="1lmvj81AD06u3wihFjGZfg=="/>
+			<POI MapID="1021" xpos="-141.113" ypos="343.33" zpos="-368.291" type="chroniques.saison_2.ep6_la_voie_des_ronces.parcours_en_pointille.trajet" GUID="r5XLsLKTsEe0MZ1ZZ7gUFg=="/>
+			<POI MapID="1021" xpos="-142.903" ypos="340.649" zpos="-375.478" type="chroniques.saison_2.ep6_la_voie_des_ronces.parcours_en_pointille.trajet" GUID="djumATigO06b1G5WKtx0nQ=="/>
+			<POI MapID="1021" xpos="-146.243" ypos="338.043" zpos="-382.933" type="chroniques.saison_2.ep6_la_voie_des_ronces.parcours_en_pointille.trajet" GUID="tYL2toikc0KpxNCMnajMbA=="/>
+			<POI MapID="1021" xpos="-150.698" ypos="336.809" zpos="-390.128" type="chroniques.saison_2.ep6_la_voie_des_ronces.parcours_en_pointille.trajet" GUID="Ms0n5QsbT0WoV+WkO7R0TA=="/>
+			<POI MapID="1021" xpos="-155.987" ypos="337.537" zpos="-397.298" type="chroniques.saison_2.ep6_la_voie_des_ronces.parcours_en_pointille.trajet" GUID="J/qiSNHUukq+zL11ctC/NQ=="/>
+			<POI MapID="1021" xpos="-161.077" ypos="338.312" zpos="-404.151" type="chroniques.saison_2.ep6_la_voie_des_ronces.parcours_en_pointille.trajet" GUID="+kdxwTsrDES5wCsCv0DO6w=="/>
+			<POI MapID="1021" xpos="-167.473" ypos="340.084" zpos="-410.564" type="chroniques.saison_2.ep6_la_voie_des_ronces.parcours_en_pointille.trajet" GUID="oVHr2ZfOj0mJTlCJ6Mg3Tw=="/>
+			<POI MapID="1021" xpos="-174.094" ypos="340.837" zpos="-410.927" type="chroniques.saison_2.ep6_la_voie_des_ronces.parcours_en_pointille.trajet" GUID="6gCpJYgVdkWCcpjHyGkVqQ=="/>
+			<POI MapID="1021" xpos="-177.948" ypos="341.487" zpos="-404.263" type="chroniques.saison_2.ep6_la_voie_des_ronces.parcours_en_pointille.trajet" GUID="HyEtySmuh0KlHXv6eSARkA=="/>
+			<POI MapID="1021" xpos="-180.965" ypos="342.237" zpos="-396.687" type="chroniques.saison_2.ep6_la_voie_des_ronces.parcours_en_pointille.trajet" GUID="RghuLpxdUEyWQJkUhvlL8A=="/>
+			<POI MapID="1021" xpos="-189.773" ypos="344.299" zpos="-391.597" type="chroniques.saison_2.ep6_la_voie_des_ronces.parcours_en_pointille.trajet" GUID="7cYGUvtzrESx3WYXKLRiuw=="/>
+			<POI MapID="1021" xpos="-199.865" ypos="346.246" zpos="-396.337" type="chroniques.saison_2.ep6_la_voie_des_ronces.parcours_en_pointille.trajet" GUID="bLaGONJK+UiwKlulx4CDig=="/>
+			<POI MapID="1021" xpos="-209.903" ypos="347.306" zpos="-398.751" type="chroniques.saison_2.ep6_la_voie_des_ronces.parcours_en_pointille.trajet" GUID="GuL+T4rWFESVTReF/ZvaOg=="/>
+			<POI MapID="1021" xpos="-220.35" ypos="347.61" zpos="-400.204" type="chroniques.saison_2.ep6_la_voie_des_ronces.parcours_en_pointille.trajet" GUID="uF8Vet2Ff0iEhCPtgI+4Hg=="/>
+			<POI MapID="1021" xpos="-231.214" ypos="348.495" zpos="-401.729" type="chroniques.saison_2.ep6_la_voie_des_ronces.parcours_en_pointille.trajet" GUID="8uUl2pKyz0SrRltkN7JS7w=="/>
+			<POI MapID="1021" xpos="-240.962" ypos="350.487" zpos="-400.162" type="chroniques.saison_2.ep6_la_voie_des_ronces.parcours_en_pointille.trajet" GUID="eMO+ShjYMUmeoR6AsMq9QA=="/>
+			<POI MapID="1021" xpos="-256.019" ypos="349.606" zpos="-398.8" type="chroniques.saison_2.ep6_la_voie_des_ronces.parcours_en_pointille.trajet" GUID="aUVpAICbt0+IqDqzpwOBwQ=="/>
+			<POI MapID="1021" xpos="-266.369" ypos="348.949" zpos="-398.229" type="chroniques.saison_2.ep6_la_voie_des_ronces.parcours_en_pointille.trajet" GUID="RrDuHTuIFUOi0rrdwMfGrQ=="/>
+			<POI MapID="1021" xpos="-275.529" ypos="350.273" zpos="-397.639" type="chroniques.saison_2.ep6_la_voie_des_ronces.parcours_en_pointille.trajet" GUID="0+mJ49JDUU6z2X77kzjc9A=="/>
+			<POI MapID="1021" xpos="-285.235" ypos="350.573" zpos="-397.288" type="chroniques.saison_2.ep6_la_voie_des_ronces.parcours_en_pointille.trajet" GUID="xwaY3N0d+0aIY6ihCiLNgg=="/>
+			<POI MapID="1021" xpos="-295.353" ypos="350.861" zpos="-397.159" type="chroniques.saison_2.ep6_la_voie_des_ronces.parcours_en_pointille.trajet" GUID="i96gx/55eU+cLu31cshBxg=="/>
+			<POI MapID="1021" xpos="-304.853" ypos="351.447" zpos="-397.029" type="chroniques.saison_2.ep6_la_voie_des_ronces.parcours_en_pointille.trajet" GUID="vxwHbxZ3sEut46KHqoFQ0Q=="/>
+			<POI MapID="1021" xpos="-312.072" ypos="351.687" zpos="-394.828" type="chroniques.saison_2.ep6_la_voie_des_ronces.parcours_en_pointille.trajet" GUID="HyBK+AJmGEqfo5arxYVz2A=="/>
+			<POI MapID="1021" xpos="-319.11" ypos="351.205" zpos="-385.624" type="chroniques.saison_2.ep6_la_voie_des_ronces.parcours_en_pointille.trajet" GUID="A8SPCwse60uPNRTVTyD+yg=="/>
+			<POI MapID="1021" xpos="-318.371" ypos="348.871" zpos="-373.643" type="chroniques.saison_2.ep6_la_voie_des_ronces.parcours_en_pointille.trajet" GUID="02a3aOFU10Ok2+RXpGVGaQ=="/>
+			<POI MapID="1021" xpos="-316.357" ypos="345.604" zpos="-360.252" type="chroniques.saison_2.ep6_la_voie_des_ronces.parcours_en_pointille.trajet" GUID="DTDiy3wrzUObv40HsEbhvQ=="/>
+			<POI MapID="1021" xpos="-315.789" ypos="340.553" zpos="-347.661" type="chroniques.saison_2.ep6_la_voie_des_ronces.parcours_en_pointille.trajet" GUID="K/Y7z0pdUEGoHSIhmVFGtw=="/>
+			<POI MapID="1021" xpos="-315.082" ypos="336.226" zpos="-336.165" type="chroniques.saison_2.ep6_la_voie_des_ronces.parcours_en_pointille.trajet" GUID="TEAUYwaR6ka3uqmzAvlT5A=="/>
+			<POI MapID="1021" xpos="-311.579" ypos="334.69" zpos="-323.057" type="chroniques.saison_2.ep6_la_voie_des_ronces.parcours_en_pointille.trajet" GUID="f6a4fAuqS0ql0ieH8Ec+pQ=="/>
+			<POI MapID="1021" xpos="-306.896" ypos="333.469" zpos="-311.765" type="chroniques.saison_2.ep6_la_voie_des_ronces.parcours_en_pointille.trajet" GUID="M84BceCCrE68l87rY9HBmw=="/>
+			<POI MapID="1021" xpos="-302.517" ypos="334.204" zpos="-301.493" type="chroniques.saison_2.ep6_la_voie_des_ronces.parcours_en_pointille.trajet" GUID="dP9MoYJDVEKZNjdEObTklA=="/>
+			<POI MapID="1021" xpos="-297.71" ypos="335.987" zpos="-290.302" type="chroniques.saison_2.ep6_la_voie_des_ronces.parcours_en_pointille.trajet" GUID="JU9HmfcqL0GNJfrwQcUung=="/>
+			<POI MapID="1021" xpos="-294.083" ypos="337.613" zpos="-279.072" type="chroniques.saison_2.ep6_la_voie_des_ronces.parcours_en_pointille.trajet" GUID="YAhkYTz8zEGlS4gxPwkzUA=="/>
+			<POI MapID="1021" xpos="-290.946" ypos="342.146" zpos="-268.53" type="chroniques.saison_2.ep6_la_voie_des_ronces.parcours_en_pointille.trajet" GUID="onCYVmvV6kKXsjldbzvlKA=="/>
+			<POI MapID="1021" xpos="-289.628" ypos="345.23" zpos="-259.465" type="chroniques.saison_2.ep6_la_voie_des_ronces.parcours_en_pointille.trajet" GUID="+w3zZOpc3kCzNKVJWU0rpw=="/>
+			<POI MapID="1021" xpos="-289.756" ypos="347.272" zpos="-250.385" type="chroniques.saison_2.ep6_la_voie_des_ronces.parcours_en_pointille.trajet" GUID="F517tHdJHUuZYpAGbUVTMA=="/>
+			<POI MapID="1021" xpos="-294.184" ypos="351.288" zpos="-243.085" type="chroniques.saison_2.ep6_la_voie_des_ronces.parcours_en_pointille.trajet" GUID="XDmVBkGb/kianadGzAymWw=="/>
+			<POI MapID="1021" xpos="-301.529" ypos="355.727" zpos="-239.339" type="chroniques.saison_2.ep6_la_voie_des_ronces.parcours_en_pointille.trajet" GUID="fWFGn7RL7EyEPvYsMMSqow=="/>
+			<POI MapID="1021" xpos="-311.086" ypos="357.063" zpos="-241.83" type="chroniques.saison_2.ep6_la_voie_des_ronces.parcours_en_pointille.trajet" GUID="oGcqROHvXEqItpf0/f4jLQ=="/>
+			<POI MapID="1021" xpos="-321.573" ypos="357.499" zpos="-243.97" type="chroniques.saison_2.ep6_la_voie_des_ronces.parcours_en_pointille.trajet" GUID="xrCkuYlGG0iShZ9AYTB+yw=="/>
+			<POI MapID="1021" xpos="-326.332" ypos="357.977" zpos="-242.145" type="chroniques.saison_2.ep6_la_voie_des_ronces.parcours_en_pointille.trajet" GUID="YR9tlP5Ry0Wkz+KTnniq4A==" iconFile="Img\Loupe.png" iconSize="1"/>
+			<POI MapID="1021" xpos="-333.835" ypos="355.738" zpos="-242.669" type="chroniques.saison_2.ep6_la_voie_des_ronces.parcours_en_pointille.trajet" GUID="mbC4S1TMFkC+VWhT4a8EKQ=="/>
+			<POI MapID="1021" xpos="-339.178" ypos="351.178" zpos="-248.677" type="chroniques.saison_2.ep6_la_voie_des_ronces.parcours_en_pointille.trajet" GUID="c1wjzzaJY0GHacL3V5w/7g=="/>
+			<POI MapID="1021" xpos="-341.802" ypos="346.599" zpos="-254.654" type="chroniques.saison_2.ep6_la_voie_des_ronces.parcours_en_pointille.trajet" GUID="64RvlhABnEWF8jwm5kcllg=="/>
+			<POI MapID="1021" xpos="-344.357" ypos="341.522" zpos="-262.045" type="chroniques.saison_2.ep6_la_voie_des_ronces.parcours_en_pointille.trajet" GUID="dS2HqKjV7UCl5h37QUr/pg=="/>
+			<POI MapID="1021" xpos="-345.22" ypos="339.689" zpos="-266.581" type="chroniques.saison_2.ep6_la_voie_des_ronces.parcours_en_pointille.trajet" GUID="MtwhI9xHZEyzar5FKpr7ig=="/>
+			<POI MapID="1021" xpos="-342.161" ypos="343.439" zpos="-259.663" type="chroniques.saison_2.ep6_la_voie_des_ronces.parcours_en_pointille.trajet" GUID="FNC8e9UZHkSU16b9Kx0/HA=="/>
+			<POI MapID="1021" xpos="-339.175" ypos="348.675" zpos="-252.548" type="chroniques.saison_2.ep6_la_voie_des_ronces.parcours_en_pointille.trajet" GUID="T7D0fs5hdUivb4dNd6qG+Q=="/>
+			<POI MapID="1021" xpos="-336.354" ypos="353.279" zpos="-246.872" type="chroniques.saison_2.ep6_la_voie_des_ronces.parcours_en_pointille.trajet" GUID="zaVeV8A3P0OLka+s8ahRvA=="/>
+			<POI MapID="1021" xpos="-330.723" ypos="356.81" zpos="-241.786" type="chroniques.saison_2.ep6_la_voie_des_ronces.parcours_en_pointille.trajet" GUID="RLTDzZk9k0OVkRru2QiuAw=="/>
+			<POI MapID="1021" xpos="-319.969" ypos="357.328" zpos="-246.276" type="chroniques.saison_2.ep6_la_voie_des_ronces.parcours_en_pointille.trajet" GUID="dniASHBbSkuBTOc11t8aLA=="/>
+			<POI MapID="1021" xpos="-312.9" ypos="356.408" zpos="-246.352" type="chroniques.saison_2.ep6_la_voie_des_ronces.parcours_en_pointille.trajet" GUID="TGTgbaT2X0WptjFZ9N4mXA=="/>
+			<POI MapID="1021" xpos="-304.815" ypos="354.794" zpos="-245.234" type="chroniques.saison_2.ep6_la_voie_des_ronces.parcours_en_pointille.trajet" GUID="hgrK4JIJdEuh+3f1ZhL7rQ=="/>
+			<POI MapID="1021" xpos="-296.343" ypos="351.264" zpos="-245.49" type="chroniques.saison_2.ep6_la_voie_des_ronces.parcours_en_pointille.trajet" GUID="a5qRk1TfbU6j+oMkfVBbeA=="/>
+			<POI MapID="1021" xpos="-288.537" ypos="348.115" zpos="-245.779" type="chroniques.saison_2.ep6_la_voie_des_ronces.parcours_en_pointille.trajet" GUID="ribeB035uEyzUcuEc2PXJw=="/>
+			<POI MapID="1021" xpos="-286.219" ypos="346.273" zpos="-253.87" type="chroniques.saison_2.ep6_la_voie_des_ronces.parcours_en_pointille.trajet" GUID="dGHRqS2rA0i1HNCvUIPbrw=="/>
+			<POI MapID="1021" xpos="-288.945" ypos="344.335" zpos="-263.011" type="chroniques.saison_2.ep6_la_voie_des_ronces.parcours_en_pointille.trajet" GUID="XWKf2Y5ZO0CoNGcP1fxMog=="/>
+			<POI MapID="1021" xpos="-292.614" ypos="339.872" zpos="-273.118" type="chroniques.saison_2.ep6_la_voie_des_ronces.parcours_en_pointille.trajet" GUID="aPlejHNS2UKnyGa3bEPlCQ=="/>
+			<POI MapID="1021" xpos="-296.126" ypos="336.569" zpos="-284.031" type="chroniques.saison_2.ep6_la_voie_des_ronces.parcours_en_pointille.trajet" GUID="enKzbpd7sEW5ikkrZBbY9w=="/>
+			<POI MapID="1021" xpos="-300.341" ypos="335.252" zpos="-295.237" type="chroniques.saison_2.ep6_la_voie_des_ronces.parcours_en_pointille.trajet" GUID="69yS/tD/WE6j2yqTijP9YQ=="/>
+			<POI MapID="1021" xpos="-304.546" ypos="333.814" zpos="-306.499" type="chroniques.saison_2.ep6_la_voie_des_ronces.parcours_en_pointille.trajet" GUID="MtoOOYsFmUmqHW9D0wEypA=="/>
+			<POI MapID="1021" xpos="-309.949" ypos="333.898" zpos="-317.734" type="chroniques.saison_2.ep6_la_voie_des_ronces.parcours_en_pointille.trajet" GUID="kNQFKWH3FUW6Ito/2ZGVYw=="/>
+			<POI MapID="1021" xpos="-313.693" ypos="334.952" zpos="-329.284" type="chroniques.saison_2.ep6_la_voie_des_ronces.parcours_en_pointille.trajet" GUID="Tjz24C5ZlUGXs/fB+5bd6w=="/>
+			<POI MapID="1021" xpos="-314.518" ypos="338.133" zpos="-341.801" type="chroniques.saison_2.ep6_la_voie_des_ronces.parcours_en_pointille.trajet" GUID="LH5z4GOvm0um6dNuP9WOKw=="/>
+			<POI MapID="1021" xpos="-313.54" ypos="342.53" zpos="-352.052" type="chroniques.saison_2.ep6_la_voie_des_ronces.parcours_en_pointille.trajet" GUID="KNP4ZLUUIkCoxvY60y+Rkg=="/>
+			<POI MapID="1021" xpos="-312.706" ypos="345.504" zpos="-359.759" type="chroniques.saison_2.ep6_la_voie_des_ronces.parcours_en_pointille.trajet" GUID="iv4yizATQkWhEdUwszFweQ=="/>
+			<POI MapID="1021" xpos="-310.331" ypos="348.875" zpos="-365.925" type="chroniques.saison_2.ep6_la_voie_des_ronces.parcours_en_pointille.trajet" GUID="McwFd5gxGk2OTHKlrG1HwA=="/>
+			<POI MapID="1021" xpos="-306.606" ypos="351.519" zpos="-370.247" type="chroniques.saison_2.ep6_la_voie_des_ronces.parcours_en_pointille.trajet" GUID="81vDXKXXGkOGoTPU0KItVg=="/>
+			<POI MapID="1021" xpos="-297.408" ypos="353.522" zpos="-374.305" type="chroniques.saison_2.ep6_la_voie_des_ronces.parcours_en_pointille.trajet" GUID="5cfaO6KTv0C2FtDx33YW7A=="/>
+			<POI MapID="1021" xpos="-287.768" ypos="354.275" zpos="-377.03" type="chroniques.saison_2.ep6_la_voie_des_ronces.parcours_en_pointille.trajet" GUID="8Zlc1EGm1k+7RwTmSl0jug=="/>
+			<POI MapID="1021" xpos="-277.491" ypos="354.389" zpos="-378.638" type="chroniques.saison_2.ep6_la_voie_des_ronces.parcours_en_pointille.trajet" GUID="DaNMALBqj0SmRuPyL2lW+A=="/>
+			<POI MapID="1021" xpos="-266.675" ypos="354.103" zpos="-379.079" type="chroniques.saison_2.ep6_la_voie_des_ronces.parcours_en_pointille.trajet" GUID="WYqwXvpe0EqDLYkqYbCKNQ=="/>
+			<POI MapID="1021" xpos="-256.574" ypos="353.614" zpos="-379.197" type="chroniques.saison_2.ep6_la_voie_des_ronces.parcours_en_pointille.trajet" GUID="hJuLz5sf7UKtMtOgPLCV4w=="/>
+			<POI MapID="1021" xpos="-247.267" ypos="353.6" zpos="-379.815" type="chroniques.saison_2.ep6_la_voie_des_ronces.parcours_en_pointille.trajet" GUID="N2RurbmD70yFuyAY6ZFGrg=="/>
+			<POI MapID="1021" xpos="-240.755" ypos="353.572" zpos="-384.497" type="chroniques.saison_2.ep6_la_voie_des_ronces.parcours_en_pointille.trajet" GUID="K3ZDKME+UUmoOiOU4v7PiA=="/>
+			<POI MapID="1021" xpos="-237.143" ypos="352.797" zpos="-393.114" type="chroniques.saison_2.ep6_la_voie_des_ronces.parcours_en_pointille.trajet" GUID="jU3w0RflMkqpZ04nA+1mOg=="/>
+			<POI MapID="1021" xpos="-236.46" ypos="352.037" zpos="-398.602" type="chroniques.saison_2.ep6_la_voie_des_ronces.parcours_en_pointille.trajet" GUID="NHf2Tm6FwEu3VmggPu/QJw=="/>
+			<POI MapID="1021" xpos="-229.539" ypos="347.987" zpos="-404.452" type="chroniques.saison_2.ep6_la_voie_des_ronces.parcours_en_pointille.trajet" GUID="0JIMPiOJ2Ui17XW97rDVeQ=="/>
+			<POI MapID="1021" xpos="-221.772" ypos="347.863" zpos="-404.603" type="chroniques.saison_2.ep6_la_voie_des_ronces.parcours_en_pointille.trajet" GUID="6Yrbwd7i90WxvtcSCQvL5A=="/>
+			<POI MapID="1021" xpos="-211.773" ypos="347.569" zpos="-401.824" type="chroniques.saison_2.ep6_la_voie_des_ronces.parcours_en_pointille.trajet" GUID="odW4pQyot0qL1BrSDGkSVg=="/>
+			<POI MapID="1021" xpos="-203.373" ypos="346.661" zpos="-398.701" type="chroniques.saison_2.ep6_la_voie_des_ronces.parcours_en_pointille.trajet" GUID="xj3aOScP30qXPCWflaZGnA=="/>
+			<POI MapID="1021" xpos="-195.406" ypos="345.396" zpos="-395.559" type="chroniques.saison_2.ep6_la_voie_des_ronces.parcours_en_pointille.trajet" GUID="IwOoFGOO2kOR+99zSZDY0w=="/>
+			<POI MapID="1021" xpos="-185.416" ypos="343.115" zpos="-392.263" type="chroniques.saison_2.ep6_la_voie_des_ronces.parcours_en_pointille.trajet" GUID="gFsqDixGm06Tca9nMYBMlg=="/>
+			<POI MapID="1021" xpos="-179.956" ypos="341.962" zpos="-401.242" type="chroniques.saison_2.ep6_la_voie_des_ronces.parcours_en_pointille.trajet" GUID="6PTrKtA2YECKXavydXb6Og=="/>
+			<POI MapID="1021" xpos="-174.831" ypos="340.67" zpos="-407.621" type="chroniques.saison_2.ep6_la_voie_des_ronces.parcours_en_pointille.trajet" GUID="HAcfTmIQ+kSiUQ5MtHXZ1A=="/>
+			<POI MapID="1021" xpos="-169.61" ypos="340.661" zpos="-412.325" type="chroniques.saison_2.ep6_la_voie_des_ronces.parcours_en_pointille.trajet" GUID="a6lBDyCnUUidtcNCjaxOfg=="/>
+			<POI MapID="1021" xpos="-161.043" ypos="339.284" zpos="-408.141" type="chroniques.saison_2.ep6_la_voie_des_ronces.parcours_en_pointille.trajet" GUID="P6i122ezc06NSzEMdHQgLA=="/>
+			<POI MapID="1021" xpos="-156.451" ypos="338.243" zpos="-401.519" type="chroniques.saison_2.ep6_la_voie_des_ronces.parcours_en_pointille.trajet" GUID="eyZWOkY9CUmdKq6fSmi3TQ=="/>
+			<POI MapID="1021" xpos="-151.132" ypos="337.867" zpos="-395.744" type="chroniques.saison_2.ep6_la_voie_des_ronces.parcours_en_pointille.trajet" GUID="/18NmRo4kkSj4vrqECgiIA=="/>
+			<POI MapID="1021" xpos="-144.913" ypos="337.198" zpos="-388.414" type="chroniques.saison_2.ep6_la_voie_des_ronces.parcours_en_pointille.trajet" GUID="jflx7nRCAEGUYhhf8FoMoA=="/>
+			<POI MapID="1021" xpos="-140.35" ypos="339.748" zpos="-380.753" type="chroniques.saison_2.ep6_la_voie_des_ronces.parcours_en_pointille.trajet" GUID="jLPhdKanCEaXMHTtxQ/ywA=="/>
+			<POI MapID="1021" xpos="-136.946" ypos="341.823" zpos="-373.162" type="chroniques.saison_2.ep6_la_voie_des_ronces.parcours_en_pointille.trajet" GUID="lH+KJkefCES7DHMlrBRB7A=="/>
+			<POI MapID="1021" xpos="-134.237" ypos="344.09" zpos="-367.52" type="chroniques.saison_2.ep6_la_voie_des_ronces.parcours_en_pointille.trajet" GUID="Aum9uSQdm0mwnBUOuwV2IA=="/>
+			<POI MapID="1021" xpos="-127.466" ypos="346.378" zpos="-364.868" type="chroniques.saison_2.ep6_la_voie_des_ronces.parcours_en_pointille.trajet" GUID="wAg5L1fINU2wm0OncbcV6w=="/>
+			<POI MapID="1021" xpos="-120.887" ypos="347.732" zpos="-364.798" type="chroniques.saison_2.ep6_la_voie_des_ronces.parcours_en_pointille.trajet" GUID="O7uKuHhGrUefTuFo/mMKMg=="/>
+			<POI MapID="1021" xpos="-111.696" ypos="348.796" zpos="-365.696" type="chroniques.saison_2.ep6_la_voie_des_ronces.parcours_en_pointille.trajet" GUID="Yw70UzVGE0eO0GN4OVFyeg=="/>
+			<POI MapID="1021" xpos="-103.76" ypos="349.151" zpos="-367.592" type="chroniques.saison_2.ep6_la_voie_des_ronces.parcours_en_pointille.trajet" GUID="dfeJhz+6LUuvNqrOXlOTaw=="/>
+			<POI MapID="1021" xpos="-95.543" ypos="349.625" zpos="-371.098" type="chroniques.saison_2.ep6_la_voie_des_ronces.parcours_en_pointille.trajet" GUID="Kdn40swIHk6uenpcGJFnIw=="/>
+			<POI MapID="1021" xpos="-84.9703" ypos="349.38" zpos="-370.517" type="chroniques.saison_2.ep6_la_voie_des_ronces.parcours_en_pointille.trajet" GUID="ZEsmCKHC/0KicpOmFp0eaw=="/>
+			<POI MapID="1021" xpos="-74.745" ypos="347.369" zpos="-366.32" type="chroniques.saison_2.ep6_la_voie_des_ronces.parcours_en_pointille.trajet" GUID="35exf/lmz0qMoeHVzCPERA=="/>
+			<POI MapID="1021" xpos="-65.9903" ypos="346.467" zpos="-362.298" type="chroniques.saison_2.ep6_la_voie_des_ronces.parcours_en_pointille.trajet" GUID="bgz8opQNDkuK+3kc9XOwsA=="/>
+			<POI MapID="1021" xpos="-57.5166" ypos="346.452" zpos="-359.425" type="chroniques.saison_2.ep6_la_voie_des_ronces.parcours_en_pointille.trajet" GUID="ofb9UgJANUmOXeRzsQPGBA=="/>
+			<POI MapID="1021" xpos="-52.9885" ypos="346.447" zpos="-352.177" type="chroniques.saison_2.ep6_la_voie_des_ronces.parcours_en_pointille.trajet" GUID="k0IhKrPrZ0++GQDM7/EMvg=="/>
+			<POI MapID="1021" xpos="-57.7556" ypos="346.576" zpos="-345.202" type="chroniques.saison_2.ep6_la_voie_des_ronces.parcours_en_pointille.trajet" GUID="/KmBqeRasEqimBfZPJdo6g=="/>
+			<POI MapID="1021" xpos="-62.6088" ypos="346.733" zpos="-341.437" type="chroniques.saison_2.ep6_la_voie_des_ronces.parcours_en_pointille.trajet" GUID="OBmgbKjnQU6S3uEqxD5hvg=="/>
+			<POI MapID="1021" xpos="-63.5269" ypos="346.569" zpos="-344.255" type="chroniques.saison_2.ep6_la_voie_des_ronces.parcours_en_pointille.trajet" GUID="qMzXxG5n1kiVV6Azs1pKdw=="/>
+			<POI MapID="1021" xpos="-56.3895" ypos="346.487" zpos="-347.202" type="chroniques.saison_2.ep6_la_voie_des_ronces.parcours_en_pointille.trajet" GUID="D7eFPa783kS1D7fkp3o6Vw=="/>
+			<POI MapID="1021" xpos="-54.6014" ypos="346.453" zpos="-355.118" type="chroniques.saison_2.ep6_la_voie_des_ronces.parcours_en_pointille.trajet" GUID="CnEHwnoRgUC1lWb2H4TXuQ=="/>
+			<POI MapID="1021" xpos="-60.8046" ypos="346.45" zpos="-360.344" type="chroniques.saison_2.ep6_la_voie_des_ronces.parcours_en_pointille.trajet" GUID="GhbzresmFUiR65i43KDR0g=="/>
+			<POI MapID="1021" xpos="-69.781" ypos="346.726" zpos="-363.885" type="chroniques.saison_2.ep6_la_voie_des_ronces.parcours_en_pointille.trajet" GUID="bf7fWrZoUkuucbyMGT2I8w=="/>
+			<POI MapID="1021" xpos="-78.4403" ypos="348.249" zpos="-366.736" type="chroniques.saison_2.ep6_la_voie_des_ronces.parcours_en_pointille.trajet" GUID="IdTwG8eG6Ua3DksfcqQYXQ=="/>
+			<POI MapID="1021" xpos="-85.5353" ypos="348.423" zpos="-365.294" type="chroniques.saison_2.ep6_la_voie_des_ronces.parcours_en_pointille.trajet" GUID="HiFHA/Etu0+JY7hUug2Vkw=="/>
+			<POI MapID="1021" xpos="-88.5524" ypos="347.308" zpos="-358.392" type="chroniques.saison_2.ep6_la_voie_des_ronces.parcours_en_pointille.trajet" GUID="suDbgLzBW0ClDYpVyP1kDA=="/>
+			<POI MapID="1021" xpos="-89.8493" ypos="347.01" zpos="-347.446" type="chroniques.saison_2.ep6_la_voie_des_ronces.parcours_en_pointille.trajet" GUID="wvgN80cKp0i+dOomSAFyXA=="/>
+			<POI MapID="1021" xpos="-89.7317" ypos="346.454" zpos="-337.365" type="chroniques.saison_2.ep6_la_voie_des_ronces.parcours_en_pointille.trajet" GUID="/s4VcvkdwECAjM9ExVBsEg=="/>
+			<POI MapID="1021" xpos="-91.8639" ypos="346.692" zpos="-328.377" type="chroniques.saison_2.ep6_la_voie_des_ronces.parcours_en_pointille.trajet" GUID="5RhpbKYmL0O7TBYPB8B68w=="/>
+			<POI MapID="1021" xpos="-96.466" ypos="347.274" zpos="-320.286" type="chroniques.saison_2.ep6_la_voie_des_ronces.parcours_en_pointille.trajet" GUID="9yflgIFdwkuklY5o4F3JIg=="/>
+			<POI MapID="1021" xpos="-101.238" ypos="347.018" zpos="-312.697" type="chroniques.saison_2.ep6_la_voie_des_ronces.parcours_en_pointille.trajet" GUID="2OidBUfWMUy+To3xVgT70w=="/>
+			<POI MapID="1021" xpos="-106.159" ypos="346.424" zpos="-306.577" type="chroniques.saison_2.ep6_la_voie_des_ronces.parcours_en_pointille.trajet" GUID="YW7g/Us8Hk2vP91oJSoW6g=="/>
+			<POI MapID="1021" xpos="-111.606" ypos="345.587" zpos="-299.931" type="chroniques.saison_2.ep6_la_voie_des_ronces.parcours_en_pointille.trajet" GUID="wK2UyZ5Gd0yXKSH5bSugxQ=="/>
+			<POI MapID="1021" xpos="-118.335" ypos="345.032" zpos="-292.44" type="chroniques.saison_2.ep6_la_voie_des_ronces.parcours_en_pointille.trajet" GUID="gnslJYSi9U++WRtro+ymXg=="/>
+			<POI MapID="1021" xpos="-125.056" ypos="345.255" zpos="-286.6" type="chroniques.saison_2.ep6_la_voie_des_ronces.parcours_en_pointille.trajet" GUID="XyhdpP0l+kmPYMWIWWYC7Q=="/>
+			<POI MapID="1021" xpos="-132.864" ypos="344.674" zpos="-279.719" type="chroniques.saison_2.ep6_la_voie_des_ronces.parcours_en_pointille.trajet" GUID="oAtoSpxkVEKu4/vDn/K2ug=="/>
+			<POI MapID="1021" xpos="-136.917" ypos="344.174" zpos="-270.574" type="chroniques.saison_2.ep6_la_voie_des_ronces.parcours_en_pointille.trajet" GUID="bjR37pLXFUyqmdWdb3bWOA=="/>
+			<POI MapID="1021" xpos="-137.211" ypos="344.167" zpos="-261.66" type="chroniques.saison_2.ep6_la_voie_des_ronces.parcours_en_pointille.trajet" GUID="LrQ+hrb9zESQxMM/CqG74w=="/>
+			<POI MapID="1021" xpos="-136.909" ypos="344.154" zpos="-252.332" type="chroniques.saison_2.ep6_la_voie_des_ronces.parcours_en_pointille.trajet" GUID="wBTlSdIhQ0a1+hGBENkTKg=="/>
+			<POI MapID="1021" xpos="-136.705" ypos="344.082" zpos="-243.003" type="chroniques.saison_2.ep6_la_voie_des_ronces.parcours_en_pointille.trajet" GUID="kvwSt9Zvl0aEGtjYebnXGA=="/>
+			<POI MapID="1021" xpos="-137.332" ypos="343.106" zpos="-234.88" type="chroniques.saison_2.ep6_la_voie_des_ronces.parcours_en_pointille.trajet" GUID="9VM0dKPGlUeUPHQcpUw1Eg=="/>
+			<POI MapID="1021" xpos="-141.488" ypos="344.387" zpos="-229.349" type="chroniques.saison_2.ep6_la_voie_des_ronces.parcours_en_pointille.trajet" GUID="/wFpm/WLbkiTWUgS81NFQA=="/>
+			<POI MapID="1021" xpos="-148.742" ypos="347.715" zpos="-228.093" type="chroniques.saison_2.ep6_la_voie_des_ronces.parcours_en_pointille.trajet" GUID="4DXWBSVnM0Obm+QYoaRf8A=="/>
+			<POI MapID="1021" xpos="-156.823" ypos="350.212" zpos="-228.929" type="chroniques.saison_2.ep6_la_voie_des_ronces.parcours_en_pointille.trajet" GUID="8fYhBRIMtky8p1eRocC4bA=="/>
+			<POI MapID="1021" xpos="-164.306" ypos="351.575" zpos="-232.045" type="chroniques.saison_2.ep6_la_voie_des_ronces.parcours_en_pointille.trajet" GUID="myM1kBw+QkOQZ90UctOAsA=="/>
+			<POI MapID="1021" xpos="-170.314" ypos="352.91" zpos="-238.432" type="chroniques.saison_2.ep6_la_voie_des_ronces.parcours_en_pointille.trajet" GUID="iQhcLaD19kycSYc+8hVBdQ=="/>
+			<POI MapID="1021" xpos="-169.977" ypos="354.814" zpos="-246.451" type="chroniques.saison_2.ep6_la_voie_des_ronces.parcours_en_pointille.trajet" GUID="K1wFS+4ZAEWyD6YQaxb71w=="/>
+			<POI MapID="1021" xpos="-165.661" ypos="356.722" zpos="-249.878" type="chroniques.saison_2.ep6_la_voie_des_ronces.parcours_en_pointille.trajet" GUID="hZoV/+3FUUWI7+Z28LDRtw=="/>
+			<POI MapID="1021" xpos="-162.268" ypos="356.756" zpos="-247.535" type="chroniques.saison_2.ep6_la_voie_des_ronces.parcours_en_pointille.trajet" GUID="AuuZL35UoU2TfYt24Vxr8w=="/>
+			<POI MapID="1021" xpos="-164.112" ypos="357.034" zpos="-240.938" type="chroniques.saison_2.ep6_la_voie_des_ronces.parcours_en_pointille.trajet" GUID="i+w1G8HMFE6TyqXp4pGKVg=="/>
+			<POI MapID="1021" xpos="-164.92" ypos="351.975" zpos="-234.191" type="chroniques.saison_2.ep6_la_voie_des_ronces.parcours_en_pointille.trajet" GUID="j5avELxmhk+xJa6YPyTgkQ=="/>
+			<POI MapID="1021" xpos="-160.447" ypos="350.836" zpos="-229.401" type="chroniques.saison_2.ep6_la_voie_des_ronces.parcours_en_pointille.trajet" GUID="JuZWHeeZ5U+7dceLUIHSsQ=="/>
+			<POI MapID="1021" xpos="-153.692" ypos="349.587" zpos="-227.982" type="chroniques.saison_2.ep6_la_voie_des_ronces.parcours_en_pointille.trajet" GUID="L2I4/SDZPk+zcTrsEalaXA=="/>
+			<POI MapID="1021" xpos="-146.395" ypos="346.505" zpos="-228.895" type="chroniques.saison_2.ep6_la_voie_des_ronces.parcours_en_pointille.trajet" GUID="CZSQGPlAAUGj3NAhSVN1GA=="/>
+			<POI MapID="1021" xpos="-139.011" ypos="343.401" zpos="-231.872" type="chroniques.saison_2.ep6_la_voie_des_ronces.parcours_en_pointille.trajet" GUID="asc12+dQ+UKg8qvZlhLFQA=="/>
+			<POI MapID="1021" xpos="-135.732" ypos="343.482" zpos="-237.639" type="chroniques.saison_2.ep6_la_voie_des_ronces.parcours_en_pointille.trajet" GUID="aBmcttVNoU29l2xBW9spKA=="/>
+			<POI MapID="1021" xpos="-136.74" ypos="344.155" zpos="-246.391" type="chroniques.saison_2.ep6_la_voie_des_ronces.parcours_en_pointille.trajet" GUID="qw4JMc9As0qKYW6hBvgorg=="/>
+			<POI MapID="1021" xpos="-136.615" ypos="344.155" zpos="-255.719" type="chroniques.saison_2.ep6_la_voie_des_ronces.parcours_en_pointille.trajet" GUID="nRwB//CtaUKy6YPC2QCQDA=="/>
+			<POI MapID="1021" xpos="-136.514" ypos="344.345" zpos="-265.023" type="chroniques.saison_2.ep6_la_voie_des_ronces.parcours_en_pointille.trajet" GUID="oUQgtbPGuUSnu2B+SO99qw=="/>
+			<POI MapID="1021" xpos="-135.531" ypos="344.146" zpos="-274.234" type="chroniques.saison_2.ep6_la_voie_des_ronces.parcours_en_pointille.trajet" GUID="F1I3g3JTmEe24aks+7Cq9w=="/>
+			<POI MapID="1021" xpos="-130.329" ypos="345.276" zpos="-282.701" type="chroniques.saison_2.ep6_la_voie_des_ronces.parcours_en_pointille.trajet" GUID="yibWprp1GkqeL+X9rFePrw=="/>
+			<POI MapID="1021" xpos="-122.75" ypos="345.381" zpos="-289.762" type="chroniques.saison_2.ep6_la_voie_des_ronces.parcours_en_pointille.trajet" GUID="z5MlvBI98EOE32JSzGjDrA=="/>
+			<POI MapID="1021" xpos="-117.585" ypos="345.573" zpos="-295.559" type="chroniques.saison_2.ep6_la_voie_des_ronces.parcours_en_pointille.trajet" GUID="kGVaNKmLykSVJg2dBZS54g=="/>
+			<POI MapID="1021" xpos="-111.631" ypos="345.956" zpos="-302.055" type="chroniques.saison_2.ep6_la_voie_des_ronces.parcours_en_pointille.trajet" GUID="xUA4PeB9C0K8st14m1yP8A=="/>
+			<POI MapID="1021" xpos="-106.3" ypos="346.525" zpos="-309.022" type="chroniques.saison_2.ep6_la_voie_des_ronces.parcours_en_pointille.trajet" GUID="vgy+Zh3RskexQyl3ZFSefA=="/>
+			<POI MapID="1021" xpos="-103.105" ypos="347.369" zpos="-313.716" type="chroniques.saison_2.ep6_la_voie_des_ronces.parcours_en_pointille.trajet" GUID="mg9XEq3OeU2ksak65fhukA=="/>
+			<POI MapID="1021" xpos="-100.69" ypos="347.704" zpos="-318.362" type="chroniques.saison_2.ep6_la_voie_des_ronces.parcours_en_pointille.trajet" GUID="DQbNWJLVfUGCIgL4apBDSw=="/>
+			<POI MapID="1021" xpos="-105.017" ypos="348.027" zpos="-322.595" type="chroniques.saison_2.ep6_la_voie_des_ronces.parcours_en_pointille.trajet" GUID="tH0zXtVuDE+DMxK//55XEQ=="/>
+			<POI MapID="1021" xpos="-114.765" ypos="348.375" zpos="-325.496" type="chroniques.saison_2.ep6_la_voie_des_ronces.parcours_en_pointille.trajet" GUID="1j9rjaBj7k6FilSU92QNsQ=="/>
+			<POI MapID="1021" xpos="-121.721" ypos="349.633" zpos="-326.672" type="chroniques.saison_2.ep6_la_voie_des_ronces.parcours_en_pointille.trajet" GUID="BwQZkECalkCjL49z3byPdQ=="/>
+			<POI MapID="1021" xpos="-130.382" ypos="351.111" zpos="-327.136" type="chroniques.saison_2.ep6_la_voie_des_ronces.parcours_en_pointille.trajet" GUID="YQ8KX2TSX0+uIpzosm0G8g=="/>
+			<POI MapID="1021" xpos="-140.377" ypos="352.678" zpos="-327.419" type="chroniques.saison_2.ep6_la_voie_des_ronces.parcours_en_pointille.trajet" GUID="DdK6RrLiRE25XA/6OQ6vGw=="/>
+			<POI MapID="1021" xpos="-150.528" ypos="354.883" zpos="-327.665" type="chroniques.saison_2.ep6_la_voie_des_ronces.parcours_en_pointille.trajet" GUID="ZxaS9Rq1X0igFDqovKc/NA=="/>
+			<POI MapID="1021" xpos="-159.654" ypos="356.772" zpos="-327.779" type="chroniques.saison_2.ep6_la_voie_des_ronces.parcours_en_pointille.trajet" GUID="1xLOUKe5I0qFbUbhFvKhGQ=="/>
+			<POI MapID="1021" xpos="-168.794" ypos="359.663" zpos="-328.023" type="chroniques.saison_2.ep6_la_voie_des_ronces.parcours_en_pointille.trajet" GUID="iF35c5BlC0CkmZJMfVXMHQ=="/>
+			<POI MapID="1021" xpos="-177.531" ypos="361.912" zpos="-328.167" type="chroniques.saison_2.ep6_la_voie_des_ronces.parcours_en_pointille.trajet" GUID="4wLCPl6mMkKQTGOjwZUAMg=="/>
+			<POI MapID="1021" xpos="-186.382" ypos="364.256" zpos="-328.052" type="chroniques.saison_2.ep6_la_voie_des_ronces.parcours_en_pointille.trajet" GUID="px+XQi3BeEeJAW3werCtLQ=="/>
+			<POI MapID="1021" xpos="-196.094" ypos="367.985" zpos="-328.013" type="chroniques.saison_2.ep6_la_voie_des_ronces.parcours_en_pointille.trajet" GUID="Y7b/oL5MakmxEfqAXBXl8Q=="/>
+			<POI MapID="1021" xpos="-205.484" ypos="370.42" zpos="-327.632" type="chroniques.saison_2.ep6_la_voie_des_ronces.parcours_en_pointille.trajet" GUID="yoTOnzHC10uroN5cPh3k8Q=="/>
+		</Route>
+
+		<!-- Validation du succès -->
+		<POI MapID="1021" xpos="-217.242" ypos="372.448" zpos="-327.161" type="chroniques.saison_2.ep6_la_voie_des_ronces.parcours_en_pointille" GUID="WVqWqAgXQUiR8g/hLfK5eg=="/>
+
+	</POIs>
+</OverlayData>

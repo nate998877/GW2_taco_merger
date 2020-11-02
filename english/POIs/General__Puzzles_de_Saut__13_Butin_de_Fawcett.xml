@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+POIs:  Cloud Strife.7492 - Xenophy.2716 - ReActif.9251
+Date: 2017/08/23
+Notes: Ce puzzle utilise la même première partie que celui de la "Vengeance de Fawcett".
+-->
+<OverlayData>
+	<MarkerCategory name="general" DisplayName="General">
+		<MarkerCategory name="puzzles_de_saut" DisplayName="Jumping Puzzles" iconFile="Img\Guide.png" iconSize="0.75">
+			<MarkerCategory name="butin_de_fawcett" DisplayName="Fawcett's Bounty" triggerRange="5"/>
+		</MarkerCategory>
+	</MarkerCategory>
+
+	<POIs>
+
+		<!-- Début -->
+		<POI MapID="17" xpos="-395" ypos="18.61" zpos="744.25" type="general.puzzles_de_saut.debut" GUID="ZiL7vLXs5EuulCmiLXifWg=="/>
+
+		<!-- Route -->
+		<Route MapID="17" name="Butin_de_Fawcett" resetposx="-395" resetposy="18.61" resetposz="744.25" resetrange="2">
+			<POI MapID="17" xpos="-389.15" ypos="22.12" zpos="754.11" type="general.puzzles_de_saut.butin_de_fawcett" GUID="P8KA32wsaUuGaxPWrbmEnw==" iconFile="Img\Interrupteur.png"/>
+			<POI MapID="17" xpos="-385.499" ypos="23.2956" zpos="759.24" type="general.puzzles_de_saut.butin_de_fawcett" GUID="O+9pQki0I0m2snGBl1foYg=="/>
+			<POI MapID="17" xpos="-374.559" ypos="26.6208" zpos="768.343" type="general.puzzles_de_saut.butin_de_fawcett" GUID="kHK8drQ5zEKaHGc6JxX9hg=="/>
+			<POI MapID="17" xpos="-367.58" ypos="25.3952" zpos="773.789" type="general.puzzles_de_saut.butin_de_fawcett" GUID="doJS9n74A0CuSyDoyjLZnQ=="/>
+			<POI MapID="17" xpos="-367.676" ypos="27.4456" zpos="784.331" type="general.puzzles_de_saut.butin_de_fawcett" GUID="AKyQBXOgg0qrHU4Efc6CLg=="/>
+			<POI MapID="17" xpos="-376.276" ypos="32.5431" zpos="786.507" type="general.puzzles_de_saut.butin_de_fawcett" GUID="krCXN+et8kyLZ1f4VTH+UA=="/>
+			<POI MapID="17" xpos="-384.346" ypos="33.7999" zpos="782.103" type="general.puzzles_de_saut.butin_de_fawcett" GUID="k7Tjd/0MekKsECWNGtpvgQ=="/>
+			<POI MapID="17" xpos="-382.176" ypos="33.1066" zpos="788.989" type="general.puzzles_de_saut.butin_de_fawcett" GUID="teesa85VdE+uh7HgY845fA=="/>
+			<POI MapID="17" xpos="-367.08" ypos="28.0119" zpos="791.943" type="general.puzzles_de_saut.butin_de_fawcett" GUID="M1NW2b3Xz0O4AzvCidvwdA=="/>
+			<POI MapID="17" xpos="-360.088" ypos="27.3601" zpos="793.635" type="general.puzzles_de_saut.butin_de_fawcett" GUID="HlmXBOd6o0SLomcG9qfPgw=="/>
+			<POI MapID="17" xpos="-351.232" ypos="26.5768" zpos="795.679" type="general.puzzles_de_saut.butin_de_fawcett" GUID="XROn7AqpmEuhPPqRPMSmcw=="/>
+			<POI MapID="17" xpos="-342.912" ypos="27.0979" zpos="798.252" type="general.puzzles_de_saut.butin_de_fawcett" GUID="AATJxtpSwk2ezGJyYn8ekQ=="/>
+			<POI MapID="17" xpos="-333.377" ypos="28.5686" zpos="800.448" type="general.puzzles_de_saut.butin_de_fawcett" GUID="AUUOeQdW8UOMe7U3edVe/Q=="/>
+			<POI MapID="17" xpos="-324.543" ypos="32.7588" zpos="807.232" type="general.puzzles_de_saut.butin_de_fawcett" GUID="j61+/ffAU06BhhoMt/PD5Q=="/>
+			<POI MapID="17" xpos="-322.821" ypos="35.5997" zpos="815.776" type="general.puzzles_de_saut.butin_de_fawcett" GUID="BtzyHWWugUCUQwr+HaV0/Q=="/>
+			<POI MapID="17" xpos="-334.407" ypos="28.342" zpos="794.142" type="general.puzzles_de_saut.butin_de_fawcett" GUID="BSuWfIe/UUmKlvJ4iEfovA=="/>
+			<POI MapID="17" xpos="-338.548" ypos="27.6616" zpos="785.554" type="general.puzzles_de_saut.butin_de_fawcett" GUID="OiT54L0rb0Sr8NcdAt1ziw=="/>
+			<POI MapID="17" xpos="-344.411" ypos="27.391" zpos="776.196" type="general.puzzles_de_saut.butin_de_fawcett" GUID="d9bxvL94okWHb8/tS86y1w=="/>
+			<POI MapID="17" xpos="-350.596" ypos="27.451" zpos="769.132" type="general.puzzles_de_saut.butin_de_fawcett" GUID="iPWj8rQSwkWjq3Rkfx/Quw=="/>
+			<POI MapID="17" xpos="-356.418" ypos="27.6143" zpos="775.93" type="general.puzzles_de_saut.butin_de_fawcett" GUID="Jy4zkRDkEEmR97y9my3AtQ=="/>
+			<POI MapID="17" xpos="-356.119" ypos="26.2167" zpos="785.512" type="general.puzzles_de_saut.butin_de_fawcett" GUID="DD8YawAP/E6h/UEpaa+MbQ=="/>
+			<POI MapID="17" xpos="-355.622" ypos="26.7194" zpos="794.285" type="general.puzzles_de_saut.butin_de_fawcett" GUID="fDKfFzxDcEKdxvjhaEEKdg=="/>
+			<POI MapID="17" xpos="-354.992" ypos="27.3278" zpos="804.257" type="general.puzzles_de_saut.butin_de_fawcett" GUID="MCDsAhOUKkq+bBGh/Ebp7g=="/>
+			<POI MapID="17" xpos="-356.123" ypos="28.2743" zpos="814.528" type="general.puzzles_de_saut.butin_de_fawcett" GUID="RKXw+17edkCmE/iffCa9mg=="/>
+			<POI MapID="17" xpos="-358.527" ypos="29.4014" zpos="824.879" type="general.puzzles_de_saut.butin_de_fawcett" GUID="jB5HaYUNBkK+OxfMHgiysg=="/>
+			<POI MapID="17" xpos="-364.226" ypos="30.8115" zpos="831.067" type="general.puzzles_de_saut.butin_de_fawcett" GUID="RcG3q59pME6c0US6DDbv+w=="/>
+			<POI MapID="17" xpos="-375.142" ypos="33.5519" zpos="831.718" type="general.puzzles_de_saut.butin_de_fawcett" GUID="JvkadFvJWkm+CzyRO5PdGA=="/>
+			<POI MapID="17" xpos="-386.75" ypos="35.5731" zpos="830.711" type="general.puzzles_de_saut.butin_de_fawcett" GUID="dtVT59B9vkCRdX1npYHrxQ=="/>
+			<POI MapID="17" xpos="-397.982" ypos="36.8921" zpos="832.709" type="general.puzzles_de_saut.butin_de_fawcett" GUID="X5A8IuZLAkmqNSxMuYcfJw=="/>
+			<POI MapID="17" xpos="-411.084" ypos="36.8754" zpos="833.908" type="general.puzzles_de_saut.butin_de_fawcett" GUID="b+eHMF6/lkGYmlC8no7BGg=="/>
+			<POI MapID="17" xpos="-429.007" ypos="37.2403" zpos="834.865" type="general.puzzles_de_saut.butin_de_fawcett" GUID="sAkozqLE1k2mGIStOAR/3g=="/>
+			<POI MapID="17" xpos="-447.128" ypos="36.8907" zpos="834.797" type="general.puzzles_de_saut.butin_de_fawcett" GUID="qNs/MRwnEEejSxEfp/fk0A=="/>
+			<POI MapID="17" xpos="-455.504" ypos="36.8518" zpos="824.353" type="general.puzzles_de_saut.butin_de_fawcett" GUID="ENEJdk4x6k6gNcqlLynC0g=="/>
+			<POI MapID="17" xpos="-462.364" ypos="38.0401" zpos="814.753" type="general.puzzles_de_saut.butin_de_fawcett" GUID="2YWb1mxueUCvwg8d8Yo4gg=="/>
+			<POI MapID="17" xpos="-472.208" ypos="39.645" zpos="806.494" type="general.puzzles_de_saut.butin_de_fawcett" GUID="iAYv4nzJCEmfvY1LDi7mBw=="/>
+			<POI MapID="17" xpos="-484.579" ypos="42.2802" zpos="811.033" type="general.puzzles_de_saut.butin_de_fawcett" GUID="VOD+2912yESGxB/W81QEmg=="/>
+			<POI MapID="17" xpos="-497.167" ypos="43.9028" zpos="808.472" type="general.puzzles_de_saut.butin_de_fawcett" GUID="sDZVHiqwkkuXtyo4IDdUHg=="/>
+			<POI MapID="17" xpos="-504.04" ypos="44.4391" zpos="801.138" type="general.puzzles_de_saut.butin_de_fawcett" GUID="ujmHPgVbtky1TxUfw3oM/Q=="/>
+			<POI MapID="17" xpos="-513.908" ypos="44.9051" zpos="803.333" type="general.puzzles_de_saut.butin_de_fawcett" GUID="Puok7XoTykqzxK061A4nHg=="/>
+			<POI MapID="17" xpos="-521.074" ypos="44.9989" zpos="810.789" type="general.puzzles_de_saut.butin_de_fawcett" GUID="CK+lWjRfl0aEScaz7HbHaQ=="/>
+			<POI MapID="17" xpos="-527.271" ypos="45.166" zpos="826.526" type="general.puzzles_de_saut.butin_de_fawcett" GUID="SwMObA0kWkOq00//9h3GeA=="/>
+			<POI MapID="17" xpos="-538.551" ypos="45.2239" zpos="825.697" type="general.puzzles_de_saut.butin_de_fawcett" GUID="8dHcIOT0mESVQwvHJ+9OnQ=="/>
+			<POI MapID="17" xpos="-552.118" ypos="42.3529" zpos="821.19" type="general.puzzles_de_saut.butin_de_fawcett" GUID="KvJo/OYV/ketLeM/xEDsKA=="/>
+			<POI MapID="17" xpos="-563.813" ypos="31.7472" zpos="817.144" type="general.puzzles_de_saut.butin_de_fawcett" GUID="TnmiB5Z61ESJyXqgiQjTWw=="/>
+			<POI MapID="17" xpos="-576.742" ypos="20.6605" zpos="815.757" type="general.puzzles_de_saut.butin_de_fawcett" GUID="2LKtd1RRl0iENeiuT9RcZw=="/>
+			<POI MapID="17" xpos="-587.867" ypos="15.8426" zpos="813.932" type="general.puzzles_de_saut.butin_de_fawcett" GUID="R7648w8/dkKEt0Eb2pXaHg=="/>
+			<POI MapID="17" xpos="-595.824" ypos="10.916" zpos="806.314" type="general.puzzles_de_saut.butin_de_fawcett" GUID="Ad6iJSONi0KM6vuGF6g32A=="/>
+			<POI MapID="17" xpos="-594.754" ypos="2.75563" zpos="793.415" type="general.puzzles_de_saut.butin_de_fawcett" GUID="+IuzA5LIs0SHp2M3PnQHLQ=="/>
+			<POI MapID="17" xpos="-595.41" ypos="3.64099" zpos="780.595" type="general.puzzles_de_saut.butin_de_fawcett" GUID="8oknGHAPq02i1VBKjEUyuQ=="/>
+			<POI MapID="17" xpos="-594.894" ypos="3.80818" zpos="767.394" type="general.puzzles_de_saut.butin_de_fawcett" GUID="2GCgJlU65EW9Qtb5sU+RDg=="/>
+			<POI MapID="17" xpos="-595.807" ypos="7.28068" zpos="757.094" type="general.puzzles_de_saut.butin_de_fawcett" GUID="fDIBb6Er60OdJbGoXuLN3g=="/>
+			<POI MapID="17" xpos="-603.503" ypos="10.3833" zpos="767.221" type="general.puzzles_de_saut.butin_de_fawcett" GUID="aXMhd63Vs02cfLdUOlGeOg=="/>
+			<POI MapID="17" xpos="-606.398" ypos="10.0467" zpos="779.909" type="general.puzzles_de_saut.butin_de_fawcett" GUID="nOjlX2TlPUiKrPdl0x4koQ=="/>
+			<POI MapID="17" xpos="-597.462" ypos="14.0292" zpos="784.485" type="general.puzzles_de_saut.butin_de_fawcett" GUID="UQB2lN4140eU/EWwdRQcAA=="/>
+			<POI MapID="17" xpos="-589.642" ypos="17.5319" zpos="789.118" type="general.puzzles_de_saut.butin_de_fawcett" GUID="ROUe239UkUafTCQ0q9iswQ=="/>
+			<POI MapID="17" xpos="-579.125" ypos="20.6626" zpos="791.493" type="general.puzzles_de_saut.butin_de_fawcett" GUID="gclW8hVPhkGTiUON7k6h6A=="/>
+			<POI MapID="17" xpos="-568.083" ypos="23.5398" zpos="787.112" type="general.puzzles_de_saut.butin_de_fawcett" GUID="LixSZlIgek+ubI/jiI0MHg=="/>
+			<POI MapID="17" xpos="-557.833" ypos="25.6785" zpos="778.632" type="general.puzzles_de_saut.butin_de_fawcett" GUID="IRaUuHKXyUavDjpJa6AAOw=="/>
+			<POI MapID="17" xpos="-564.942" ypos="23.2561" zpos="770.438" type="general.puzzles_de_saut.butin_de_fawcett" GUID="LmkBNn6I0EuvfEcej4rusQ=="/>
+			<POI MapID="17" xpos="-577.293" ypos="19.614" zpos="771.836" type="general.puzzles_de_saut.butin_de_fawcett" GUID="M1dS0bFtiE+dTtvay+czTg=="/>
+			<POI MapID="17" xpos="-584.486" ypos="21.674" zpos="767.206" type="general.puzzles_de_saut.butin_de_fawcett" GUID="LCDYI4rBJk6YLYZKMVVmaw=="/>
+			<POI MapID="17" xpos="-590.057" ypos="24.0906" zpos="760.223" type="general.puzzles_de_saut.butin_de_fawcett" GUID="hHRp+Pih6U2w/2HREk08cA=="/>
+			<POI MapID="17" xpos="-597.487" ypos="28.2994" zpos="750.768" type="general.puzzles_de_saut.butin_de_fawcett" GUID="YJgrh6baME6AoSqwBU52jw=="/>
+			<POI MapID="17" xpos="-601.404" ypos="31.1307" zpos="744.238" type="general.puzzles_de_saut.butin_de_fawcett" GUID="iUTUVm+UWE65qZ+erJdfyg=="/>
+			<POI MapID="17" xpos="-608.97" ypos="30.1295" zpos="747.913" type="general.puzzles_de_saut.butin_de_fawcett" GUID="iKNeyfqRb0uL3/6Z3SDovQ=="/>
+			<POI MapID="17" xpos="-614.094" ypos="30.8451" zpos="746.358" type="general.puzzles_de_saut.butin_de_fawcett" GUID="ssKbtCc3Bk6giGsfZAlKew=="/>
+			<POI MapID="17" xpos="-617.914" ypos="32.0884" zpos="743.554" type="general.puzzles_de_saut.butin_de_fawcett" GUID="65qxXDNt+UGhzTEdx7123g=="/>
+			<POI MapID="17" xpos="-620.42" ypos="32.5254" zpos="741.141" type="general.puzzles_de_saut.butin_de_fawcett" GUID="CjrsRqUx50G4jmTFYRcatQ=="/>
+			<POI MapID="17" xpos="-624.666" ypos="32.4267" zpos="742.768" type="general.puzzles_de_saut.butin_de_fawcett" GUID="bCuKXjsdx06RbqSaTUuR6w=="/>
+			<POI MapID="17" xpos="-633.546" ypos="29.2292" zpos="752.615" type="general.puzzles_de_saut.butin_de_fawcett" GUID="N6/hgs6gr0OaHGQmYLQ3Qw=="/>
+			<POI MapID="17" xpos="-644.061" ypos="20.1957" zpos="756.521" type="general.puzzles_de_saut.butin_de_fawcett" GUID="h3N7lY2S30q3gEf2B2gkdw=="/>
+			<POI MapID="17" xpos="-649.654" ypos="12.091" zpos="762.968" type="general.puzzles_de_saut.butin_de_fawcett" GUID="jH8mtbTDR0as6ueqgw6o/w=="/>
+			<POI MapID="17" xpos="-658.602" ypos="6.35537" zpos="769.915" type="general.puzzles_de_saut.butin_de_fawcett" GUID="5gwuyGJoWkiYlQEYZzC+kg=="/>
+			<POI MapID="17" xpos="-672.946" ypos="8.84876" zpos="786.141" type="general.puzzles_de_saut.butin_de_fawcett" GUID="dSQXKRQ+EUK7Yc9GxMdpWw=="/>
+			<POI MapID="17" xpos="-678.885" ypos="3.25598" zpos="792.067" type="general.puzzles_de_saut.butin_de_fawcett" GUID="dq4zJqNJdEmWEe/JC1UiZw=="/>
+			<POI MapID="17" xpos="-673.384" ypos="3.26051" zpos="786.818" type="general.puzzles_de_saut.butin_de_fawcett" GUID="2WSkT9jk/kqMWQS6/fttXA=="/>
+			<POI MapID="17" xpos="-667.016" ypos="3.26017" zpos="783.706" type="general.puzzles_de_saut.butin_de_fawcett" GUID="n6rTC3GCp02L8QOzOCExDg=="/>
+		</Route>
+
+		<!-- Coffre -->
+		<POI MapID="17" xpos="-662.488" ypos="3.26397" zpos="779.51" type="general.puzzles_de_saut.butin_de_fawcett" GUID="rSbTftEzEUm2L25h4ak5gw==" iconFile="Img\CoffrePuzzle.png" iconSize="1" heightOffset="2.5" behavior="2"/>
+
+	</POIs>
+</OverlayData>

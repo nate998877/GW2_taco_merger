@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+POIs: ReActif.9251
+Date: 2017/08/15
+-->
+<OverlayData>
+	<MarkerCategory name="histoires_annexes" DisplayName="Side Stories" iconFile="Img\HistoiresAnnexes.png" behavior="3">
+		<MarkerCategory name="preservation_de_la_magie" DisplayName="Conservation of Magic" iconFile="Img\PreservationDeLaMagie.png" behavior="0">
+			<MarkerCategory name="defense_de_garen" DisplayName="Garen's Defense"/>
+		</MarkerCategory>
+	</MarkerCategory>
+
+	<POIs>
+
+		<!-- Garen -->
+		<POI MapID="39" xpos="-9.71" ypos="72.14" zpos="41.35" type="histoires_annexes.preservation_de_la_magie.defense_de_garen" GUID="YTq4Uts9PEqOsEKax/dn6g==" heightOffset="4"/>
+
+	</POIs>
+</OverlayData>

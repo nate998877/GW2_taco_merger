@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+POIs: Cloud Strife.7492 - Xenophy.2716 - ReActif.9251
+Date: 2017/08/23
+-->
+<OverlayData>
+	<MarkerCategory name="general" DisplayName="General">
+		<MarkerCategory name="puzzles_de_saut" DisplayName="Jumping Puzzles" iconFile="Img\Guide.png" iconSize="0.75">
+			<MarkerCategory name="refuge_du_roi_jalis" DisplayName="King Jali's Refuge"/>
+		</MarkerCategory>
+	</MarkerCategory>
+
+	<POIs>
+
+		<!-- Début -->
+		<POI MapID="31" xpos="1070.54" ypos="60.1513" zpos="-3.33377" type="general.puzzles_de_saut.debut" GUID="8MEUwnwiGEOoA90Kux//Ww=="/>
+
+		<!-- Route -->
+		<Route MapID="31" name="Refuge_du_Roi_Jalis" resetposx="1070.54" resetposy="60.1513" resetposz="-3.33377" resetrange="2">
+			<POI MapID="31" xpos="1083.85" ypos="56.9216" zpos="-0.406027" type="general.puzzles_de_saut.refuge_du_roi_jalis" GUID="odrwR5+820iRl9kwzS8JfQ=="/>
+			<POI MapID="31" xpos="1093.14" ypos="55.5809" zpos="3.22596" type="general.puzzles_de_saut.refuge_du_roi_jalis" GUID="iO/vyCmAYUWBwsE9h1yRIw=="/>
+			<POI MapID="31" xpos="1101.35" ypos="52.376" zpos="10.1822" type="general.puzzles_de_saut.refuge_du_roi_jalis" GUID="3HzsOt3Drk6v1ii+M3TXbA=="/>
+			<POI MapID="31" xpos="1104.9" ypos="50.0426" zpos="18.1905" type="general.puzzles_de_saut.refuge_du_roi_jalis" GUID="OUD3mLqwXUSH4hetGiy1bA=="/>
+			<POI MapID="31" xpos="1108.89" ypos="50.0681" zpos="19.6408" type="general.puzzles_de_saut.refuge_du_roi_jalis" GUID="MNUxe33yi0qBKlz7TNZ9nw=="/>
+			<POI MapID="31" xpos="1115.61" ypos="49.3746" zpos="20.799" type="general.puzzles_de_saut.refuge_du_roi_jalis" GUID="AJm5W73nkUi9nSl5qVikJQ=="/>
+			<POI MapID="31" xpos="1122.11" ypos="47.5893" zpos="22.9389" type="general.puzzles_de_saut.refuge_du_roi_jalis" GUID="JJwpNJbBGEC0oA3Mqx+DnQ=="/>
+			<POI MapID="31" xpos="1128.35" ypos="46.7001" zpos="25.8052" type="general.puzzles_de_saut.refuge_du_roi_jalis" GUID="VqMyoD6gx0WTuWtItcLwaw=="/>
+			<POI MapID="31" xpos="1135.81" ypos="40.7043" zpos="33.5341" type="general.puzzles_de_saut.refuge_du_roi_jalis" GUID="/C+MDS7Pz0qZ4mB9YYx/vw=="/>
+			<POI MapID="31" xpos="1139.68" ypos="39.3064" zpos="39.2229" type="general.puzzles_de_saut.refuge_du_roi_jalis" GUID="fexpP+HBR06h5TAGJ3BnHQ=="/>
+			<POI MapID="31" xpos="1142.56" ypos="37.8246" zpos="45.2278" type="general.puzzles_de_saut.refuge_du_roi_jalis" GUID="THaKcgHHDUefyaD+9QqDKA=="/>
+			<POI MapID="31" xpos="1143.9" ypos="36.3912" zpos="51.5539" type="general.puzzles_de_saut.refuge_du_roi_jalis" GUID="7Pq8/2Xs80SI67FGdxN+vg=="/>
+			<POI MapID="31" xpos="1145.14" ypos="34.9036" zpos="60.3082" type="general.puzzles_de_saut.refuge_du_roi_jalis" GUID="T19RABwZik+6ho0Z9GTqMw=="/>
+			<POI MapID="31" xpos="1142.53" ypos="34.7122" zpos="65.8624" type="general.puzzles_de_saut.refuge_du_roi_jalis" GUID="ZlL/vZfPVkmyv4V2OypBbA=="/>
+			<POI MapID="31" xpos="1139.6" ypos="34.7204" zpos="70.0814" type="general.puzzles_de_saut.refuge_du_roi_jalis" GUID="toE2mE4yQ0+NaKtW2hXudw=="/>
+			<POI MapID="31" xpos="1134.18" ypos="35.2966" zpos="74.1343" type="general.puzzles_de_saut.refuge_du_roi_jalis" GUID="kI295Olzt0i+n1sZQRe+Nw=="/>
+			<POI MapID="31" xpos="1133.16" ypos="35.3546" zpos="80.2743" type="general.puzzles_de_saut.refuge_du_roi_jalis" GUID="w06g012sVUKfrF5lHt1r8w=="/>
+			<POI MapID="31" xpos="1134.64" ypos="35.3223" zpos="85.1399" type="general.puzzles_de_saut.refuge_du_roi_jalis" GUID="iKWYPfiTGUyXH9x/p1gILw=="/>
+			<POI MapID="31" xpos="1137.95" ypos="36.6238" zpos="89.2666" type="general.puzzles_de_saut.refuge_du_roi_jalis" GUID="qOrmSIaO70GOS7Un+OFArQ=="/>
+			<POI MapID="31" xpos="1140.21" ypos="38.8942" zpos="95.344" type="general.puzzles_de_saut.refuge_du_roi_jalis" GUID="RsRjXMSwTk+qR3SMDzbQjg=="/>
+			<POI MapID="31" xpos="1139.83" ypos="41.2542" zpos="99.8486" type="general.puzzles_de_saut.refuge_du_roi_jalis" GUID="tKhrr58ZjkK1bxc+YPVZ3Q=="/>
+			<POI MapID="31" xpos="1136.01" ypos="42.2721" zpos="95.7305" type="general.puzzles_de_saut.refuge_du_roi_jalis" GUID="PIG26jj7AUOeroLgJUnmqg=="/>
+			<POI MapID="31" xpos="1131.25" ypos="44.3221" zpos="91.364" type="general.puzzles_de_saut.refuge_du_roi_jalis" GUID="PKX9ynZIgk+v+WC4CQNTcw=="/>
+			<POI MapID="31" xpos="1126.31" ypos="46.3998" zpos="86.456" type="general.puzzles_de_saut.refuge_du_roi_jalis" GUID="Hw8HxEVFe0OkS6wLGf7Jbw=="/>
+			<POI MapID="31" xpos="1124.43" ypos="49.3135" zpos="90.129" type="general.puzzles_de_saut.refuge_du_roi_jalis" GUID="yaOEMCkk906yFR7SmpnPKw=="/>
+			<POI MapID="31" xpos="1121.21" ypos="50.3455" zpos="94.1245" type="general.puzzles_de_saut.refuge_du_roi_jalis" GUID="JuL2BPu35ESMOXGZDAs6XA=="/>
+			<POI MapID="31" xpos="1119.88" ypos="52.7867" zpos="101.103" type="general.puzzles_de_saut.refuge_du_roi_jalis" GUID="PLQ/r+GsbUCSPWLIjWypuQ=="/>
+			<POI MapID="31" xpos="1124.35" ypos="53.1249" zpos="105.516" type="general.puzzles_de_saut.refuge_du_roi_jalis" GUID="AgWbVcvZikuCr6OSfGdtUQ=="/>
+			<POI MapID="31" xpos="1130.57" ypos="52.1357" zpos="110.729" type="general.puzzles_de_saut.refuge_du_roi_jalis" GUID="+RD+/P9ze0qWaX+Rsz1Szw=="/>
+			<POI MapID="31" xpos="1136.36" ypos="51.0029" zpos="114.499" type="general.puzzles_de_saut.refuge_du_roi_jalis" GUID="jEPBvoPukkubMTQTYhgWVw=="/>
+			<POI MapID="31" xpos="1143.61" ypos="48.7348" zpos="119.394" type="general.puzzles_de_saut.refuge_du_roi_jalis" GUID="olY8krLX2U2MS7JIuJUF1Q=="/>
+			<POI MapID="31" xpos="1150.32" ypos="46.8435" zpos="122.426" type="general.puzzles_de_saut.refuge_du_roi_jalis" GUID="Z7u9M+Yeckq5oXte0lAU2g=="/>
+			<POI MapID="31" xpos="1155.3" ypos="46.8956" zpos="123.937" type="general.puzzles_de_saut.refuge_du_roi_jalis" GUID="syPj8qgorUOca9WfCnAuMA=="/>
+			<POI MapID="31" xpos="1160.69" ypos="40.5067" zpos="125.94" type="general.puzzles_de_saut.refuge_du_roi_jalis" GUID="vl4Gi5ie00+B569aT6eDXg=="/>
+			<POI MapID="31" xpos="1167.33" ypos="37.3111" zpos="124.951" type="general.puzzles_de_saut.refuge_du_roi_jalis" GUID="gzLH6zGv3Eivf54TXWVi1Q=="/>
+			<POI MapID="31" xpos="1174.77" ypos="33.7567" zpos="124.258" type="general.puzzles_de_saut.refuge_du_roi_jalis" GUID="r+Twm309D0iR9C+7grHWag=="/>
+			<POI MapID="31" xpos="1178.42" ypos="29.468" zpos="128.252" type="general.puzzles_de_saut.refuge_du_roi_jalis" GUID="P3RIvAt3gUuBpID7kx+GiQ=="/>
+			<POI MapID="31" xpos="1178.99" ypos="29.0286" zpos="134.236" type="general.puzzles_de_saut.refuge_du_roi_jalis" GUID="8Cucr2KOwEumrrnQcOS7fA=="/>
+			<POI MapID="31" xpos="1182.81" ypos="22.5653" zpos="137.811" type="general.puzzles_de_saut.refuge_du_roi_jalis" GUID="neyCKhxpikKbNZYf0oBS2w=="/>
+			<POI MapID="31" xpos="1184.61" ypos="20.1656" zpos="132.054" type="general.puzzles_de_saut.refuge_du_roi_jalis" GUID="VYF+wG8Oik62ZA/0GMDPNw=="/>
+			<POI MapID="31" xpos="1186.09" ypos="19.4467" zpos="127.567" type="general.puzzles_de_saut.refuge_du_roi_jalis" GUID="RON6Pzntz0yUazu016Ph/w=="/>
+			<POI MapID="31" xpos="1188.57" ypos="18.327" zpos="123.874" type="general.puzzles_de_saut.refuge_du_roi_jalis" GUID="hUidwkVILEqZds42deJdUQ=="/>
+			<POI MapID="31" xpos="1193.21" ypos="18.1998" zpos="121.96" type="general.puzzles_de_saut.refuge_du_roi_jalis" GUID="CKAL2Gb35kSZpwAqiFfSmQ=="/>
+			<POI MapID="31" xpos="1197.07" ypos="18.0508" zpos="121.872" type="general.puzzles_de_saut.refuge_du_roi_jalis" GUID="FNb1cVmxgES5H7qna/oJPw=="/>
+			<POI MapID="31" xpos="1201.01" ypos="17.8974" zpos="122.494" type="general.puzzles_de_saut.refuge_du_roi_jalis" GUID="KyIjTn71nUOhZbgT2cE4wQ=="/>
+			<POI MapID="31" xpos="1204.93" ypos="15.8327" zpos="123.957" type="general.puzzles_de_saut.refuge_du_roi_jalis" GUID="IwTl6KITEEm1MLcYRLOrxg=="/>
+			<POI MapID="31" xpos="1204.41" ypos="16.124" zpos="127.491" type="general.puzzles_de_saut.refuge_du_roi_jalis" GUID="Qaz+OdzGTEa3J+nnFTZORA=="/>
+			<POI MapID="31" xpos="1203.62" ypos="16.5611" zpos="132.792" type="general.puzzles_de_saut.refuge_du_roi_jalis" GUID="1ulD/GnvOU2MhxkB6QsCuQ=="/>
+			<POI MapID="31" xpos="1202.97" ypos="16.9253" zpos="137.209" type="general.puzzles_de_saut.refuge_du_roi_jalis" GUID="tAXqh5aynEW0J/c2ZH2+OA=="/>
+			<POI MapID="31" xpos="1204.52" ypos="19.8178" zpos="137.561" type="general.puzzles_de_saut.refuge_du_roi_jalis" GUID="zKMqgw6phk2ZR2FfvMSkWQ=="/>
+			<POI MapID="31" xpos="1208.02" ypos="20.6254" zpos="137.083" type="general.puzzles_de_saut.refuge_du_roi_jalis" GUID="M4XgciSBZU+ViW1uaQKUMg=="/>
+			<POI MapID="31" xpos="1211.16" ypos="21.7625" zpos="136.941" type="general.puzzles_de_saut.refuge_du_roi_jalis" GUID="ll6OSZOQmU2Ye78eGL+pRQ=="/>
+			<POI MapID="31" xpos="1215.8" ypos="21.7624" zpos="133.749" type="general.puzzles_de_saut.refuge_du_roi_jalis" GUID="rM6v+qboIEGVFWfKwpYtSw=="/>
+			<POI MapID="31" xpos="1222.05" ypos="21.77" zpos="128.94" type="general.puzzles_de_saut.refuge_du_roi_jalis" GUID="zDYg/XVWbUWprnLiW1SSgw==" iconFile="Img\Combat.png" iconSize="1" color="ffe52020"/>
+			<POI MapID="31" xpos="1231.66" ypos="21.7728" zpos="134.724" type="general.puzzles_de_saut.refuge_du_roi_jalis" GUID="u1CVazJAE0SWqfwfFOlhkQ=="/>
+			<POI MapID="31" xpos="1232.4" ypos="25.7844" zpos="141.641" type="general.puzzles_de_saut.refuge_du_roi_jalis" GUID="iSQX9TsMGkObsB2jUcD0ww=="/>
+			<POI MapID="31" xpos="1232" ypos="27.557" zpos="149.856" type="general.puzzles_de_saut.refuge_du_roi_jalis" GUID="UHh2pTFyaUepGBd/klxWMA=="/>
+		</Route>
+
+		<!-- Coffre -->
+		<POI MapID="31" xpos="1224.88" ypos="28.6933" zpos="151.724" type="general.puzzles_de_saut.refuge_du_roi_jalis" GUID="8hcJ2PkWDUy2ZMy/+dH2Jg==" iconFile="Img\CoffrePuzzle.png" iconSize="1" heightOffset="2" behavior="2"/>
+
+	</POIs>
+</OverlayData>

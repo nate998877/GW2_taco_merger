@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+POIs: ReActif.9251
+Date: 2017/08/15
+-->
+<OverlayData>
+	<MarkerCategory name="histoires_annexes" DisplayName="Side Stories" iconFile="Img\HistoiresAnnexes.png" behavior="3">
+		<MarkerCategory name="preservation_de_la_magie" DisplayName="Conservation of Magic" iconFile="Img\PreservationDeLaMagie.png" behavior="0">
+			<MarkerCategory name="ambition_de_shana" DisplayName="Shana's Ambition"/>
+		</MarkerCategory>
+	</MarkerCategory>
+
+	<POIs>
+
+		<!-- Shana -->
+		<POI MapID="31" xpos="-364.685" ypos="41.2184" zpos="-532.565" type="histoires_annexes.preservation_de_la_magie.ambition_de_shana" GUID="mkV6bMpda0aXNr7uiXSqJg==" heightOffset="3.5"/>
+
+	</POIs>
+</OverlayData>

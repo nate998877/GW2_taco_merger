@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+POIs: ReActif.9251
+Date: 2016/12/05
+-->
+<OverlayData>
+	<MarkerCategory name="chroniques.saison_3">
+		<MarkerCategory name="ep3_une_fissure_dans_la_glace" DisplayName="Ep.3 - A Crack in the Ice" iconFile="Img\ConfinsDeGivramer.png">
+			<MarkerCategory name="la_quete_d_un_curieux_quaggan" DisplayName="Quirky Quaggan Quest"/>
+		</MarkerCategory>
+	</MarkerCategory>
+
+	<POIs>
+
+		<!-- Strophe 1 -->
+		<POI MapID="1178" xpos="544.366" ypos="66.6356" zpos="175.64" type="chroniques.saison_3.ep3_une_fissure_dans_la_glace.la_quete_d_un_curieux_quaggan" GUID="hyDI77X3BUiw7QqOqDoWKQ=="/>
+
+		<!-- Strophe 2 -->
+		<POI MapID="1178" xpos="-662.716" ypos="94.8778" zpos="289.372" type="chroniques.saison_3.ep3_une_fissure_dans_la_glace.la_quete_d_un_curieux_quaggan" GUID="9La/Bv2dx0WpS6DalsYGEQ=="/>
+
+		<!-- Strophe 3 -->
+		<POI MapID="1178" xpos="413.049" ypos="81.126" zpos="-345.001" type="chroniques.saison_3.ep3_une_fissure_dans_la_glace.la_quete_d_un_curieux_quaggan" GUID="ZJ8OFtlLkUCmIZi3ZsrE4w=="/>
+
+		<!-- Strophe 4 -->
+		<POI MapID="1178" xpos="677.85" ypos="102.92" zpos="-100.12" type="chroniques.saison_3.ep3_une_fissure_dans_la_glace.la_quete_d_un_curieux_quaggan" GUID="oreWy7vq00SV53CIBiifyw=="/>
+
+		<!-- Strophe 5 -->
+		<POI MapID="1178" xpos="250.918" ypos="-68.3929" zpos="-40.4613" type="chroniques.saison_3.ep3_une_fissure_dans_la_glace.la_quete_d_un_curieux_quaggan" GUID="d/l1o1jt3UuXtZdGOzm2PA=="/>
+
+		<!-- Strophe 6 -->
+		<POI MapID="1178" xpos="-140.424" ypos="-40.6189" zpos="82.862" type="chroniques.saison_3.ep3_une_fissure_dans_la_glace.la_quete_d_un_curieux_quaggan" GUID="dSiZZueS70qH299z6Eym+g=="/>
+
+		<!-- Neekoolaa + Strophe 7 -->
+		<POI MapID="1178" xpos="10.3036" ypos="53.0615" zpos="-65.201" type="chroniques.saison_3.ep3_une_fissure_dans_la_glace.la_quete_d_un_curieux_quaggan" GUID="/YtBdIxd9k6MAf1ATi1WLQ==" heightOffset="3" behavior="0"/>
+
+	</POIs>
+</OverlayData>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+POIs: ReActif.9251
+Date: 2017/08/15
+-->
+<OverlayData>
+	<MarkerCategory name="histoires_annexes" DisplayName="Side Stories" iconFile="Img\HistoiresAnnexes.png" behavior="3">
+		<MarkerCategory name="justice_de_la_lame" DisplayName="Justice of the Blade" iconFile="Img\JusticeDeLaLame.png">
+			<MarkerCategory name="lettres_ouvertes" DisplayName="Open Letters" heightOffset="3"/>
+		</MarkerCategory>
+	</MarkerCategory>
+
+	<POIs>
+
+		<!-- Vallée de la Reine : Comté de Beetletun -->
+		<POI MapID="15" xpos="987.44"   ypos="26.2125" zpos="600.777"  type="histoires_annexes.justice_de_la_lame.lettres_ouvertes" GUID="u1JpR/skoU6+h2EbgR8N5A=="/>
+
+		<!-- Collines de Kessex : Bras de Viathan -->
+		<POI MapID="23" xpos="176.44"   ypos="9.42605" zpos="-149.582" type="histoires_annexes.justice_de_la_lame.lettres_ouvertes" GUID="nvautrN3LUq3p0PLDrQenQ=="/>
+
+		<!-- Champs de Gendarran : Colonie d'Ascalon -->
+		<POI MapID="24" xpos="-313.97"  ypos="5.22881" zpos="-24.0104" type="histoires_annexes.justice_de_la_lame.lettres_ouvertes" GUID="2sKAafp5602LJmuAGGmCBA=="/>
+
+		<!-- Hinterlands Harathi : Lac Arca -->
+		<POI MapID="17" xpos="-706.803" ypos="9.91953" zpos="346.021"  type="histoires_annexes.justice_de_la_lame.lettres_ouvertes" GUID="2llBpEvMdUuVkeHRK3xyNg=="/>
+
+		<!-- Vallée de la Reine : Champs de Sheamoor -->
+		<POI MapID="15" xpos="-737.714" ypos="45.5207" zpos="235.247"  type="histoires_annexes.justice_de_la_lame.lettres_ouvertes" GUID="12Qz/EgQ70673aduFfS6Og=="/>
+
+		<!-- Caché au milieu des réserves de bandits en Kryte : Imposteur -->
+		<POI MapID="15" xpos="403.728"  ypos="11.4562" zpos="671.188"  type="histoires_annexes.justice_de_la_lame.lettres_ouvertes" GUID="8iHhN1zjGUCUJFYbBep9Pg=="/>
+
+		<!-- Caché au milieu des réserves de bandits en Kryte : Prospérité -->
+		<POI MapID="15" xpos="-948.23"  ypos="15.2487" zpos="-577.722" type="histoires_annexes.justice_de_la_lame.lettres_ouvertes" GUID="WP/jqwIGVUau4gNAG3j8Zg=="/>
+
+		<!-- Caché au milieu des réserves de bandits en Kryte : Fardeau -->
+		<POI MapID="23" xpos="-1050.97" ypos="91.7213" zpos="544.062"  type="histoires_annexes.justice_de_la_lame.lettres_ouvertes" GUID="OXnJnyX+Xk2h/gLTAzv/xA=="/>
+
+		<!-- Caché au milieu des réserves de bandits en Kryte : Puissance -->
+		<POI MapID="17" xpos="-205.257" ypos="44.7257" zpos="679.027"  type="histoires_annexes.justice_de_la_lame.lettres_ouvertes" GUID="YmmQEEAJcEi+cKCLKbm5SQ=="/>
+
+		<!-- Caché au milieu des réserves de bandits en Kryte : Hérésie -->
+		<POI MapID="24" xpos="-1047.74" ypos="26.6166" zpos="-140.428" type="histoires_annexes.justice_de_la_lame.lettres_ouvertes" GUID="fgTfVxlChEi5AXgKtoUVtQ=="/>
+
+	</POIs>
+</OverlayData>

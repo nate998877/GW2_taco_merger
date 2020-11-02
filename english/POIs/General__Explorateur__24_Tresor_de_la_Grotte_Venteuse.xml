@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+POIs: ReActif.9251
+Date: 2017/08/11
+-->
+<OverlayData>
+	<MarkerCategory name="general" DisplayName="General">
+		<MarkerCategory name="explorateur" DisplayName="Explorer" iconFile="Img\Explorateur.png" behavior="3">
+			<MarkerCategory name="tresor_de_la_grotte_venteuse" DisplayName="Windy Cave Treasure">
+				<MarkerCategory name="acces" DisplayName="Guide" iconFile="Img\Guide.png" iconSize="0.75"/>
+			</MarkerCategory>
+		</MarkerCategory>
+	</MarkerCategory>
+
+	<POIs>
+
+		<!-- Entrée -->
+		<POI MapID="27" xpos="-145.93" ypos="59.69" zpos="880.07" type="general.explorateur.tresor_de_la_grotte_venteuse.acces" GUID="duFFbEdJlES0G6XLq8rO+Q==" iconFile="Img\Fleche.png" iconSize="1.5"/>
+
+		<!-- Route -->
+		<Route MapID="27" name="Acces" resetposx="-145.93" resetposy="59.69" resetposz="880.07" resetrange="3">
+			<POI MapID="27" xpos="-144.481" ypos="58.6169" zpos="891.567" type="general.explorateur.tresor_de_la_grotte_venteuse.acces" GUID="pDKBpLFYb0iQetl71AXCzg=="/>
+			<POI MapID="27" xpos="-148.237" ypos="58.2379" zpos="906.36" type="general.explorateur.tresor_de_la_grotte_venteuse.acces" GUID="p2dT3DBKB02XscnrvpLADQ=="/>
+			<POI MapID="27" xpos="-151.979" ypos="58.2219" zpos="918.481" type="general.explorateur.tresor_de_la_grotte_venteuse.acces" GUID="eMU8xmTeEEWLkFa6ZtJn4A=="/>
+			<POI MapID="27" xpos="-155.474" ypos="58.5325" zpos="929.387" type="general.explorateur.tresor_de_la_grotte_venteuse.acces" GUID="RkcsmqctpU2EBqfC9ow9cw=="/>
+			<POI MapID="27" xpos="-160.469" ypos="58.7737" zpos="935.651" type="general.explorateur.tresor_de_la_grotte_venteuse.acces" GUID="sYuwyR2MpUSrJRLgbwFHnQ=="/>
+			<POI MapID="27" xpos="-169.613" ypos="58.7863" zpos="936.516" type="general.explorateur.tresor_de_la_grotte_venteuse.acces" GUID="s/Ull4kmC06lbYFDPUf02A=="/>
+			<POI MapID="27" xpos="-177.805" ypos="60.566" zpos="936.842" type="general.explorateur.tresor_de_la_grotte_venteuse.acces" GUID="lEami480vk66vMwBS94V2w=="/>
+			<POI MapID="27" xpos="-181.01" ypos="60.4097" zpos="941.295" type="general.explorateur.tresor_de_la_grotte_venteuse.acces" GUID="NIIrbvutUkWKVidgKQ5bQg=="/>
+			<POI MapID="27" xpos="-181.383" ypos="58.2369" zpos="949.338" type="general.explorateur.tresor_de_la_grotte_venteuse.acces" GUID="MAD2jU9rXECYdZbs5Sm/FA=="/>
+			<POI MapID="27" xpos="-181.781" ypos="55.6183" zpos="958.923" type="general.explorateur.tresor_de_la_grotte_venteuse.acces" GUID="R+tFk0lWj0KtzaEn08UvBg=="/>
+			<POI MapID="27" xpos="-181.758" ypos="55.6399" zpos="968.775" type="general.explorateur.tresor_de_la_grotte_venteuse.acces" GUID="jo0TlFwuikuM62t7hdnAkw=="/>
+			<POI MapID="27" xpos="-179.885" ypos="55.6934" zpos="977.276" type="general.explorateur.tresor_de_la_grotte_venteuse.acces" GUID="KrghL3Lf7UOZrVmfMs0UdA=="/>
+			<POI MapID="27" xpos="-176.344" ypos="55.5743" zpos="984.448" type="general.explorateur.tresor_de_la_grotte_venteuse.acces" GUID="ky7Zx1HVSUKRrQs1UAeuRg=="/>
+			<POI MapID="27" xpos="-173.818" ypos="55.6649" zpos="990.315" type="general.explorateur.tresor_de_la_grotte_venteuse.acces" GUID="R59T2ZZtBUqdBS1O9ARdAA=="/>
+			<POI MapID="27" xpos="-169.592" ypos="57.7215" zpos="997.777" type="general.explorateur.tresor_de_la_grotte_venteuse.acces" GUID="gua8VnRUX0aWMjCmalrlVg=="/>
+			<POI MapID="27" xpos="-166.632" ypos="57.7215" zpos="1002.53" type="general.explorateur.tresor_de_la_grotte_venteuse.acces" GUID="Q+8YVZa2NkeV8nS2ykHO6g=="/>
+			<POI MapID="27" xpos="-159.173" ypos="55.1691" zpos="1010.34" type="general.explorateur.tresor_de_la_grotte_venteuse.acces" GUID="ut/zaKDzW0GqZdSu3ZTCpQ=="/>
+			<POI MapID="27" xpos="-150.202" ypos="56.2131" zpos="1008.66" type="general.explorateur.tresor_de_la_grotte_venteuse.acces" GUID="9kVU3VbJI0iAl0JnguqXjQ=="/>
+			<POI MapID="27" xpos="-141.875" ypos="56.1849" zpos="1016.09" type="general.explorateur.tresor_de_la_grotte_venteuse.acces" GUID="BRlGfd+YRkWp+OyRGCqufg=="/>
+			<POI MapID="27" xpos="-133.494" ypos="54.938" zpos="1023.81" type="general.explorateur.tresor_de_la_grotte_venteuse.acces" GUID="wO7tLA2orEWtejbWj4hf3Q=="/>
+			<POI MapID="27" xpos="-126.437" ypos="55.1133" zpos="1026.35" type="general.explorateur.tresor_de_la_grotte_venteuse.acces" GUID="y4DqFQ7dOEWT78seYMI1uw=="/>
+			<POI MapID="27" xpos="-123.09" ypos="56.4954" zpos="1019.54" type="general.explorateur.tresor_de_la_grotte_venteuse.acces" GUID="MGSqH1wCPkeym8cmxibYYQ=="/>
+			<POI MapID="27" xpos="-127.735" ypos="57.6911" zpos="1013.49" type="general.explorateur.tresor_de_la_grotte_venteuse.acces" GUID="8waoMRoq+EyMHC0XMDTrZQ=="/>
+			<POI MapID="27" xpos="-130.909" ypos="60.9045" zpos="1005.71" type="general.explorateur.tresor_de_la_grotte_venteuse.acces" GUID="LcCqAdezzU6Sj7nqsy4qtQ=="/>
+			<POI MapID="27" xpos="-132.351" ypos="63.8712" zpos="1003.35" type="general.explorateur.tresor_de_la_grotte_venteuse.acces" GUID="8g4skSkpjEqocLk6MJeLGg=="/>
+			<POI MapID="27" xpos="-132.647" ypos="67.437" zpos="1001.34" type="general.explorateur.tresor_de_la_grotte_venteuse.acces" GUID="j7RtVTKrV0i+BoMNrWGb9w=="/>
+			<POI MapID="27" xpos="-134.075" ypos="69.4283" zpos="998.683" type="general.explorateur.tresor_de_la_grotte_venteuse.acces" GUID="7uN1s1f3YESX6ynwWrJDUA=="/>
+			<POI MapID="27" xpos="-137.114" ypos="70.8026" zpos="992.155" type="general.explorateur.tresor_de_la_grotte_venteuse.acces" GUID="LJoPkoRPXkiPFWWta09Vqg=="/>
+			<POI MapID="27" xpos="-139.287" ypos="70.8026" zpos="987.578" type="general.explorateur.tresor_de_la_grotte_venteuse.acces" GUID="eswv9RQAzUiI126mBXl+AA=="/>
+			<POI MapID="27" xpos="-140.879" ypos="72.3164" zpos="984.191" type="general.explorateur.tresor_de_la_grotte_venteuse.acces" GUID="/mlC4hKr/kKFADEzVNgY4A=="/>
+			<POI MapID="27" xpos="-141.545" ypos="73.989" zpos="982.571" type="general.explorateur.tresor_de_la_grotte_venteuse.acces" GUID="PuI68zYkCUmNVMIN0nFWMQ=="/>
+			<POI MapID="27" xpos="-142.748" ypos="75.8191" zpos="979.42" type="general.explorateur.tresor_de_la_grotte_venteuse.acces" GUID="V4TNW+omkUeokXlJc5dBMA=="/>
+			<POI MapID="27" xpos="-144.064" ypos="75.1565" zpos="975.67" type="general.explorateur.tresor_de_la_grotte_venteuse.acces" GUID="tt5O6BK7ukOE/y/KQctfcQ=="/>
+			<POI MapID="27" xpos="-145.508" ypos="72.8562" zpos="969.326" type="general.explorateur.tresor_de_la_grotte_venteuse.acces" GUID="jRE2jbqLFkWL6ue/4+I88w=="/>
+			<POI MapID="27" xpos="-137.364" ypos="69.6871" zpos="960.356" type="general.explorateur.tresor_de_la_grotte_venteuse.acces" GUID="2FClhrvRlkCRnZBrVm7GzA=="/>
+			<POI MapID="27" xpos="-128.524" ypos="69.041" zpos="956.208" type="general.explorateur.tresor_de_la_grotte_venteuse.acces" GUID="yVT4sr8dh0aXDq9O6AfLyA=="/>
+			<POI MapID="27" xpos="-125.539" ypos="69.1139" zpos="959.953" type="general.explorateur.tresor_de_la_grotte_venteuse.acces" GUID="uyO3JRDsckCiViObdTe6Gw=="/>
+			<POI MapID="27" xpos="-122.374" ypos="64.7442" zpos="969.459" type="general.explorateur.tresor_de_la_grotte_venteuse.acces" GUID="1+DeoDWZtEWXUslW4u3Q5w=="/>
+			<POI MapID="27" xpos="-118.578" ypos="65.1775" zpos="979.009" type="general.explorateur.tresor_de_la_grotte_venteuse.acces" GUID="mlon2XAcC0mpOgJlNZHQhg=="/>
+			<POI MapID="27" xpos="-115.713" ypos="65.1753" zpos="983.598" type="general.explorateur.tresor_de_la_grotte_venteuse.acces" GUID="AAtLE3qWoE6Y2yW6Yqja4A=="/>
+			<POI MapID="27" xpos="-116.019" ypos="67.7968" zpos="979.984" type="general.explorateur.tresor_de_la_grotte_venteuse.acces" GUID="AR/0PD/lbEmArzJkNcCXww=="/>
+			<POI MapID="27" xpos="-118.526" ypos="68.996" zpos="975.32" type="general.explorateur.tresor_de_la_grotte_venteuse.acces" GUID="F+ksVsEK70aZKTZdNwkv5g=="/>
+			<POI MapID="27" xpos="-115.954" ypos="71.6684" zpos="979.429" type="general.explorateur.tresor_de_la_grotte_venteuse.acces" GUID="xElKjpSWx0a1Bn1fSJuu1A=="/>
+			<POI MapID="27" xpos="-114.524" ypos="72.6032" zpos="983.572" type="general.explorateur.tresor_de_la_grotte_venteuse.acces" GUID="CsiiCC0FYkic/uZSxebusg=="/>
+			<POI MapID="27" xpos="-112.07" ypos="73.7807" zpos="987.067" type="general.explorateur.tresor_de_la_grotte_venteuse.acces" GUID="gPw4dbU6m0+L0mz/rMFwiw=="/>
+			<POI MapID="27" xpos="-108.855" ypos="65.4976" zpos="993.298" type="general.explorateur.tresor_de_la_grotte_venteuse.acces" GUID="XHQSSLvjA0CcWNZg9AY+pw=="/>
+			<POI MapID="27" xpos="-103.013" ypos="67.7755" zpos="991.646" type="general.explorateur.tresor_de_la_grotte_venteuse.acces" GUID="kqrRxNYh2EiWSdQ1qpPjrQ=="/>
+			<POI MapID="27" xpos="-102.868" ypos="69.0583" zpos="981.482" type="general.explorateur.tresor_de_la_grotte_venteuse.acces" GUID="/x8uX9IB/UarAPLdPFr7Mg=="/>
+			<POI MapID="27" xpos="-95.5505" ypos="69.0583" zpos="976.661" type="general.explorateur.tresor_de_la_grotte_venteuse.acces" GUID="T1++aOYuUEKGf2lGrk+i5A=="/>
+			<POI MapID="27" xpos="-91.8747" ypos="69.0583" zpos="972.125" type="general.explorateur.tresor_de_la_grotte_venteuse.acces" GUID="NUEsejQ2PESG3exGcxlxBw=="/>
+			<POI MapID="27" xpos="-99.2109" ypos="68.8621" zpos="970.461" type="general.explorateur.tresor_de_la_grotte_venteuse.acces" GUID="w5vdBH+a2ka1EhDWZZZaRA=="/>
+			<POI MapID="27" xpos="-106.155" ypos="68.8621" zpos="973.206" type="general.explorateur.tresor_de_la_grotte_venteuse.acces" GUID="yvfs5hzvDUGTF/5F9Br69g=="/>
+			<POI MapID="27" xpos="-113.051" ypos="68.8621" zpos="972.291" type="general.explorateur.tresor_de_la_grotte_venteuse.acces" GUID="HI+RvjergEK14RjV8AYMYg=="/>
+			<POI MapID="27" xpos="-112.573" ypos="68.8621" zpos="964.441" type="general.explorateur.tresor_de_la_grotte_venteuse.acces" GUID="ScZZJSWh+0WH3MQ3p9LiUA=="/>
+			<POI MapID="27" xpos="-104.457" ypos="68.8621" zpos="960.624" type="general.explorateur.tresor_de_la_grotte_venteuse.acces" GUID="53Rtmn9EokuNjUrReqfpWw=="/>
+			<POI MapID="27" xpos="-99.6712" ypos="68.9337" zpos="954.011" type="general.explorateur.tresor_de_la_grotte_venteuse.acces" GUID="Ev7oYJ61oUygloRq/a5JJQ=="/>
+			<POI MapID="27" xpos="-106.885" ypos="68.9002" zpos="951.05" type="general.explorateur.tresor_de_la_grotte_venteuse.acces" GUID="eC2rfuFU2UCray0jayoffA=="/>
+			<POI MapID="27" xpos="-113.196" ypos="68.9002" zpos="955.938" type="general.explorateur.tresor_de_la_grotte_venteuse.acces" GUID="sE5cPXkquUuEoGarNr7B4Q=="/>
+			<POI MapID="27" xpos="-112.582" ypos="61.8355" zpos="959.066" type="general.explorateur.tresor_de_la_grotte_venteuse.acces" GUID="0nHKef8t5kuYSfVWR5qZYA=="/>
+			<POI MapID="27" xpos="-105.375" ypos="57.7093" zpos="958.237" type="general.explorateur.tresor_de_la_grotte_venteuse.acces" GUID="3NtcOHsTX0igHZZzrtmZKQ=="/>
+			<POI MapID="27" xpos="-101.724" ypos="52.9069" zpos="963.399" type="general.explorateur.tresor_de_la_grotte_venteuse.acces" GUID="vkJQQF72sEaHziC0xUYnAQ=="/>
+			<POI MapID="27" xpos="-101.06" ypos="52.7593" zpos="971.382" type="general.explorateur.tresor_de_la_grotte_venteuse.acces" GUID="vC+mQQj1QkmaVWRlcjK+kQ==" iconFile="Img\Combat.png" iconSize="1" color="ffff0000"/>
+		</Route>
+
+		<!-- Coffre -->
+		<POI MapID="27" xpos="-95.6053" ypos="54.9115" zpos="975.2" type="general.explorateur.tresor_de_la_grotte_venteuse" GUID="XlzOqaGIskeLtyvF1KP/hA==" iconFile="Img\CoffreMiniDonjon.png"/>
+
+	</POIs>
+</OverlayData>

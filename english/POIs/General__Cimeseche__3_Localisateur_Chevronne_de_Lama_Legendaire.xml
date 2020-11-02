@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+POIs: ReActif.9251
+Date: 2016/12/29
+-->
+<OverlayData>
+	<MarkerCategory name="general" DisplayName="General">
+		<MarkerCategory name="cimeseche" DisplayName="Dry Top">
+			<MarkerCategory name="localisateur_chevronne_de_lama_legendaire" DisplayName="Learned Legendary Llama Locator" iconFile="Img\Guide.png" iconSize="0.75"/>
+		</MarkerCategory>
+	</MarkerCategory>
+
+	<POIs>
+
+		<!-- Début -->
+		<POI MapID="988" xpos="185.75" ypos="18.23" zpos="-74.71" type="general.cimeseche.localisateur_chevronne_de_lama_legendaire" GUID="xo25RphkBEeUoaoI8pyMFg==" iconFile="Img\Fleche.png" iconSize="1.5"/>
+
+		<!-- Route -->
+		<Route MapID="988" name="Lama_2" resetposx="185.75" resetposy="18.23" resetposz="-74.71" resetrange="1">
+			<POI MapID="988" xpos="192.201" ypos="18.2118" zpos="-81.4256" type="general.cimeseche.localisateur_chevronne_de_lama_legendaire" GUID="lOrreE0tMkqhesd1bWgXIA==" iconFile="Img\Interrupteur.png" heightOffset="2"/>
+			<POI MapID="988" xpos="194.483" ypos="19.9682" zpos="-73.157" type="general.cimeseche.localisateur_chevronne_de_lama_legendaire" GUID="X/xC94PtDEyt4/mmgZIjDg=="/>
+			<POI MapID="988" xpos="195.58" ypos="27.9745" zpos="-65.3171" type="general.cimeseche.localisateur_chevronne_de_lama_legendaire" GUID="UQ6rhn18iUWsuvx1UitbqQ=="/>
+			<POI MapID="988" xpos="198.647" ypos="32.4357" zpos="-60.7626" type="general.cimeseche.localisateur_chevronne_de_lama_legendaire" GUID="3Vyz9MPjbEOVxSFtE4XuYw=="/>
+			<POI MapID="988" xpos="199.865" ypos="37.3666" zpos="-55.7435" type="general.cimeseche.localisateur_chevronne_de_lama_legendaire" GUID="K8/4DkohW0WVqP/T8qKcpg==" iconFile="Img\Interrupteur.png" heightOffset="2"/>
+			<POI MapID="988" xpos="197.578" ypos="47.4147" zpos="-49.4289" type="general.cimeseche.localisateur_chevronne_de_lama_legendaire" GUID="qGlvMq9wlES5+kSzpXtUZA=="/>
+			<POI MapID="988" xpos="192.926" ypos="55.4411" zpos="-42.5742" type="general.cimeseche.localisateur_chevronne_de_lama_legendaire" GUID="MaxZf2FfKE6+IfR8HKDbxw=="/>
+			<POI MapID="988" xpos="196.719" ypos="65.4429" zpos="-41.7366" type="general.cimeseche.localisateur_chevronne_de_lama_legendaire" GUID="xo8OF3Gzx0+CpSPsaRFwCQ=="/>
+			<POI MapID="988" xpos="200.013" ypos="71.2966" zpos="-50.5799" type="general.cimeseche.localisateur_chevronne_de_lama_legendaire" GUID="5bYk5+WpxkuzrByIPksm/Q=="/>
+			<POI MapID="988" xpos="197.753" ypos="71.4871" zpos="-61.4301" type="general.cimeseche.localisateur_chevronne_de_lama_legendaire" GUID="hswUGSC7U0+n7P/nOZY+Ag=="/>
+			<POI MapID="988" xpos="197.363" ypos="69.7353" zpos="-73.9463" type="general.cimeseche.localisateur_chevronne_de_lama_legendaire" GUID="wdoDxX+n1E6Z6yMOEISLhg=="/>
+			<POI MapID="988" xpos="195.729" ypos="64.9594" zpos="-85.3261" type="general.cimeseche.localisateur_chevronne_de_lama_legendaire" GUID="Kclw2Z8gcEeceV8LP/WvTg==" iconFile="Img\Interrupteur.png" heightOffset="2"/>
+			<POI MapID="988" xpos="196.259" ypos="57.9565" zpos="-102.892" type="general.cimeseche.localisateur_chevronne_de_lama_legendaire" GUID="z93Al9p+X0amMOb8HJ+jWA=="/>
+			<POI MapID="988" xpos="194.25" ypos="64.3798" zpos="-112.762" type="general.cimeseche.localisateur_chevronne_de_lama_legendaire" GUID="4LtonfZcY06Gxn6rdciZSg=="/>
+			<POI MapID="988" xpos="188.509" ypos="70.1664" zpos="-123.532" type="general.cimeseche.localisateur_chevronne_de_lama_legendaire" GUID="08d99SjiUESDxRO7O/YCmw=="/>
+			<POI MapID="988" xpos="193.774" ypos="79.6213" zpos="-124.903" type="general.cimeseche.localisateur_chevronne_de_lama_legendaire" GUID="RyfFjrVdNUeYkcM2WXxZbA=="/>
+		</Route>
+
+		<!-- Lama Légendaire -->
+		<POI MapID="988" xpos="201.567" ypos="82.0724" zpos="-128.633" type="general.cimeseche.localisateur_chevronne_de_lama_legendaire" GUID="i464G3PI3E6PVpcEDM9NEw==" iconFile="Img\Lama.png" iconSize="1" heightOffset="3" behavior="3"/>
+
+	</POIs>
+</OverlayData>

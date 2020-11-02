@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+POIs: Cloud Strife.7492 - Xenophy.2716 - ReActif.9251
+Date: 2017/08/23
+-->
+<OverlayData>
+	<MarkerCategory name="general" DisplayName="General">
+		<MarkerCategory name="puzzles_de_saut" DisplayName="Jumping Puzzles" iconFile="Img\Guide.png" iconSize="0.75">
+			<MarkerCategory name="grottes_du_speleologue" DisplayName="Spelunker's Delve"/>
+		</MarkerCategory>
+	</MarkerCategory>
+
+	<POIs>
+
+		<!-- Début -->
+		<POI MapID="34" xpos="234.024" ypos="15.8241" zpos="-1106.89" type="general.puzzles_de_saut.debut" GUID="kk81+sz6jEumFpLymoXsAA=="/>
+
+		<!-- Route -->
+		<Route MapID="34" name="Grottes_du_Speleologue" resetposx="234.024" resetposy="15.8241" resetposz="-1106.89" resetrange="2">
+			<POI MapID="34" xpos="237.996" ypos="14.8449" zpos="-1108.83" type="general.puzzles_de_saut.grottes_du_speleologue" GUID="8UK83U0ic0iEMBD87XHuOg=="/>
+			<POI MapID="34" xpos="238.861" ypos="13.8419" zpos="-1116.32" type="general.puzzles_de_saut.grottes_du_speleologue" GUID="PBN9bh6clESH4eY9fxxIyA=="/>
+			<POI MapID="34" xpos="235.018" ypos="8.01023" zpos="-1115.21" type="general.puzzles_de_saut.grottes_du_speleologue" GUID="jw+0tUPH2kaT1x/C44vs5Q=="/>
+			<POI MapID="34" xpos="233.61" ypos="1.53628" zpos="-1115.05" type="general.puzzles_de_saut.grottes_du_speleologue" GUID="wpsBLnYMlEau+d9zHLa20w=="/>
+			<POI MapID="34" xpos="229.47" ypos="1.63954" zpos="-1114.34" type="general.puzzles_de_saut.grottes_du_speleologue" GUID="2+f1zTAkN06rsXmqUxLDgA=="/>
+			<POI MapID="34" xpos="222.695" ypos="3.46314" zpos="-1111.6" type="general.puzzles_de_saut.grottes_du_speleologue" GUID="Pb9Nbb/DfkStEEnopYG/JQ=="/>
+			<POI MapID="34" xpos="216.2" ypos="0.841587" zpos="-1108.48" type="general.puzzles_de_saut.grottes_du_speleologue" GUID="w5lT8kNZYU+jGSVIvsyitg=="/>
+			<POI MapID="34" xpos="208.868" ypos="2.06191" zpos="-1106.62" type="general.puzzles_de_saut.grottes_du_speleologue" GUID="6GEaRihkJUCD7B4XpYLYTQ=="/>
+			<POI MapID="34" xpos="201.697" ypos="2.5733" zpos="-1106.97" type="general.puzzles_de_saut.grottes_du_speleologue" GUID="uWUg48PVnkSebN9LCsz3Yw=="/>
+			<POI MapID="34" xpos="197.557" ypos="1.45675" zpos="-1106.02" type="general.puzzles_de_saut.grottes_du_speleologue" GUID="9v6n8pJrG06uuP2AX1Nfjg=="/>
+			<POI MapID="34" xpos="192.943" ypos="-1.46261" zpos="-1105.17" type="general.puzzles_de_saut.grottes_du_speleologue" GUID="Wh9raIhIukOHAJJiY/YIQg=="/>
+			<POI MapID="34" xpos="188.352" ypos="-2.02434" zpos="-1103.42" type="general.puzzles_de_saut.grottes_du_speleologue" GUID="JbuYKj4YQ0iR/j66vE0FJg=="/>
+			<POI MapID="34" xpos="179.222" ypos="-5.57695" zpos="-1099.67" type="general.puzzles_de_saut.grottes_du_speleologue" GUID="aoEw5gtB0kiDS7x8dJtODA=="/>
+			<POI MapID="34" xpos="172.622" ypos="-7.84119" zpos="-1096.64" type="general.puzzles_de_saut.grottes_du_speleologue" GUID="8rcHKzNI+ECb1kWNuPRECg=="/>
+			<POI MapID="34" xpos="163.124" ypos="-14.0971" zpos="-1095.43" type="general.puzzles_de_saut.grottes_du_speleologue" GUID="EySX27H70028kkjs9sqD+A=="/>
+			<POI MapID="34" xpos="158.526" ypos="-18.0487" zpos="-1098.62" type="general.puzzles_de_saut.grottes_du_speleologue" GUID="olhOt143lUeE29Jxj++fvA=="/>
+			<POI MapID="34" xpos="155.299" ypos="-25.2369" zpos="-1108.04" type="general.puzzles_de_saut.grottes_du_speleologue" GUID="xYOoupn0TEO/mFn4sWLdLQ=="/>
+			<POI MapID="34" xpos="152.867" ypos="-30.5123" zpos="-1114.88" type="general.puzzles_de_saut.grottes_du_speleologue" GUID="LCMVf0jWtUKBOtgZtEUVvA=="/>
+			<POI MapID="34" xpos="156.022" ypos="-35.8118" zpos="-1121.14" type="general.puzzles_de_saut.grottes_du_speleologue" GUID="CnIUaO0CHkG6iiw4Y4dJEA=="/>
+			<POI MapID="34" xpos="167.555" ypos="-37.6887" zpos="-1126.4" type="general.puzzles_de_saut.grottes_du_speleologue" GUID="E1kk0Mao8USxLclx5DOCgA=="/>
+			<POI MapID="34" xpos="177.851" ypos="-32.9683" zpos="-1129.96" type="general.puzzles_de_saut.grottes_du_speleologue" GUID="8DHst2PeN0aS1m8Sby0vew=="/>
+			<POI MapID="34" xpos="187.228" ypos="-24.6528" zpos="-1133.39" type="general.puzzles_de_saut.grottes_du_speleologue" GUID="UAb+KWFtXkmhAIsi58JgXA=="/>
+			<POI MapID="34" xpos="197.543" ypos="-19.6096" zpos="-1136.66" type="general.puzzles_de_saut.grottes_du_speleologue" GUID="uieyKF0FqUeICNeduGILow=="/>
+			<POI MapID="34" xpos="207.905" ypos="-13.8877" zpos="-1140.45" type="general.puzzles_de_saut.grottes_du_speleologue" GUID="5c5Ks8N7VEu1xrgrTg8r6A=="/>
+			<POI MapID="34" xpos="219.424" ypos="-10.295" zpos="-1144.67" type="general.puzzles_de_saut.grottes_du_speleologue" GUID="1AhMIoKjrUyRJW3ljkxytw=="/>
+			<POI MapID="34" xpos="229.321" ypos="-5.10608" zpos="-1150.73" type="general.puzzles_de_saut.grottes_du_speleologue" GUID="7cFkafTF+k6DVb7Av6BJaA=="/>
+			<POI MapID="34" xpos="239.043" ypos="-1.05631" zpos="-1154.29" type="general.puzzles_de_saut.grottes_du_speleologue" GUID="SKPqELR84E2Bn1On+yp50A=="/>
+			<POI MapID="34" xpos="247.568" ypos="0.472572" zpos="-1156.21" type="general.puzzles_de_saut.grottes_du_speleologue" GUID="Ne1o1/3mnE+bO9rdwMVdqA=="/>
+			<POI MapID="34" xpos="254.395" ypos="1.18285" zpos="-1155.89" type="general.puzzles_de_saut.grottes_du_speleologue" GUID="sKBjqvhlv0asXK1j18l6sQ=="/>
+			<POI MapID="34" xpos="260.542" ypos="2.29832" zpos="-1155.62" type="general.puzzles_de_saut.grottes_du_speleologue" GUID="ZAGaGy8vGEa9ZS86hgHhGg=="/>
+			<POI MapID="34" xpos="265.044" ypos="4.03319" zpos="-1156.34" type="general.puzzles_de_saut.grottes_du_speleologue" GUID="wGDKn/frQkqhIRUggmRD9Q=="/>
+			<POI MapID="34" xpos="264.849" ypos="4.87007" zpos="-1151.17" type="general.puzzles_de_saut.grottes_du_speleologue" GUID="p2UYMejeE0artu60x6ro3g=="/>
+			<POI MapID="34" xpos="270.786" ypos="4.8862" zpos="-1149.3" type="general.puzzles_de_saut.grottes_du_speleologue" GUID="OMU947vSvUizRsPcpm2taw=="/>
+			<POI MapID="34" xpos="272.035" ypos="4.91583" zpos="-1145.46" type="general.puzzles_de_saut.grottes_du_speleologue" GUID="KrlqUmws2E6zp4VY2eAxWg=="/>
+			<POI MapID="34" xpos="274.209" ypos="5.5541" zpos="-1141.16" type="general.puzzles_de_saut.grottes_du_speleologue" GUID="PozhBWnsAU2TIJeSMXVvKw=="/>
+			<POI MapID="34" xpos="279.278" ypos="6.11372" zpos="-1141.39" type="general.puzzles_de_saut.grottes_du_speleologue" GUID="hnQ23WPMfUSS60lT/G57qA=="/>
+			<POI MapID="34" xpos="285.073" ypos="6.05478" zpos="-1139.22" type="general.puzzles_de_saut.grottes_du_speleologue" GUID="w22oZ/2f00iQg4qk7TnabA=="/>
+			<POI MapID="34" xpos="288.888" ypos="6.76677" zpos="-1139.16" type="general.puzzles_de_saut.grottes_du_speleologue" GUID="TCFeZfUlc0WgMW2nY1pJ5Q=="/>
+			<POI MapID="34" xpos="296.499" ypos="6.00456" zpos="-1139.61" type="general.puzzles_de_saut.grottes_du_speleologue" GUID="l14CV40HXUmSRp1jVKdVkA=="/>
+			<POI MapID="34" xpos="300.117" ypos="6.90063" zpos="-1143.12" type="general.puzzles_de_saut.grottes_du_speleologue" GUID="o65DZPPlHky+kDN5l7dz/A=="/>
+			<POI MapID="34" xpos="303.422" ypos="6.2141" zpos="-1149.18" type="general.puzzles_de_saut.grottes_du_speleologue" GUID="UH2/tpSDxUOZJFCj1qB2dg=="/>
+			<POI MapID="34" xpos="303.124" ypos="6.50696" zpos="-1153.52" type="general.puzzles_de_saut.grottes_du_speleologue" GUID="PYGK4+Yqekm7GxyRiDRNZQ=="/>
+			<POI MapID="34" xpos="304.705" ypos="7.68882" zpos="-1158.06" type="general.puzzles_de_saut.grottes_du_speleologue" GUID="FUo1s0puYkux0vW9orq5Tg=="/>
+			<POI MapID="34" xpos="309.795" ypos="6.87299" zpos="-1160.61" type="general.puzzles_de_saut.grottes_du_speleologue" GUID="wVGfSP2TPUOhG99M4kIqaQ=="/>
+			<POI MapID="34" xpos="314.604" ypos="6.68034" zpos="-1158.5" type="general.puzzles_de_saut.grottes_du_speleologue" GUID="zGElqCx2K06xdQOFX4eXEg=="/>
+			<POI MapID="34" xpos="316.907" ypos="7.56653" zpos="-1153.84" type="general.puzzles_de_saut.grottes_du_speleologue" GUID="+LpfXoXVVkuCizZ+nFOmFQ=="/>
+			<POI MapID="34" xpos="316.832" ypos="8.44115" zpos="-1149.29" type="general.puzzles_de_saut.grottes_du_speleologue" GUID="le7XA3WHCk66Yh/dPnXXkw=="/>
+			<POI MapID="34" xpos="316.42" ypos="7.49691" zpos="-1143.68" type="general.puzzles_de_saut.grottes_du_speleologue" GUID="jUo/EoRQBkCDDokTWnb6Pg=="/>
+			<POI MapID="34" xpos="314.154" ypos="7.32145" zpos="-1140.52" type="general.puzzles_de_saut.grottes_du_speleologue" GUID="T2W50G2TuE2L6U05TWKQrw=="/>
+			<POI MapID="34" xpos="313.947" ypos="8.36219" zpos="-1134.93" type="general.puzzles_de_saut.grottes_du_speleologue" GUID="GZYPcGOYf0GFGFLRc26s/A=="/>
+			<POI MapID="34" xpos="318.389" ypos="9.05326" zpos="-1132.02" type="general.puzzles_de_saut.grottes_du_speleologue" GUID="9qauDyD6HkefhgDabcC2yA=="/>
+			<POI MapID="34" xpos="325.244" ypos="9.41034" zpos="-1132.13" type="general.puzzles_de_saut.grottes_du_speleologue" GUID="nYE+CwFbCkiNL68Pz5muow=="/>
+			<POI MapID="34" xpos="328.463" ypos="10.0495" zpos="-1136.9" type="general.puzzles_de_saut.grottes_du_speleologue" GUID="MK2+YJX90EajlcGIjHT1aw=="/>
+			<POI MapID="34" xpos="327.032" ypos="10.4621" zpos="-1141.65" type="general.puzzles_de_saut.grottes_du_speleologue" GUID="KOR/kuBxtU+sduR3PAElUw=="/>
+			<POI MapID="34" xpos="328.623" ypos="9.78283" zpos="-1146.21" type="general.puzzles_de_saut.grottes_du_speleologue" GUID="0ftGzQIxI0K/NIN1dBExUA=="/>
+			<POI MapID="34" xpos="328.711" ypos="7.97534" zpos="-1151.55" type="general.puzzles_de_saut.grottes_du_speleologue" GUID="qtEkculW0Ua0NjSc7EGtMA=="/>
+			<POI MapID="34" xpos="331.545" ypos="8.08672" zpos="-1157.8" type="general.puzzles_de_saut.grottes_du_speleologue" GUID="RgRYi2m0TEOYs/sJpol0OA=="/>
+			<POI MapID="34" xpos="337.653" ypos="9.48446" zpos="-1159.36" type="general.puzzles_de_saut.grottes_du_speleologue" GUID="AkiMHg2Rl0KNIsdn+IKcfA=="/>
+			<POI MapID="34" xpos="338.743" ypos="9.7262" zpos="-1153.46" type="general.puzzles_de_saut.grottes_du_speleologue" GUID="al/ho+CkK0WdnjEetxRHXg=="/>
+			<POI MapID="34" xpos="344.284" ypos="10.4499" zpos="-1153.23" type="general.puzzles_de_saut.grottes_du_speleologue" GUID="kCCSKME8102wyZl0H4/I4A=="/>
+			<POI MapID="34" xpos="348.748" ypos="9.84619" zpos="-1153.33" type="general.puzzles_de_saut.grottes_du_speleologue" GUID="LmiWS7jtfEOpHL42v/KlRg=="/>
+			<POI MapID="34" xpos="355.134" ypos="6.36587" zpos="-1152.23" type="general.puzzles_de_saut.grottes_du_speleologue" GUID="6sbZ1Q2ewk6XcMRnZzpl3w=="/>
+			<POI MapID="34" xpos="359.1" ypos="7.35934" zpos="-1148.45" type="general.puzzles_de_saut.grottes_du_speleologue" GUID="sAep5vijI02JyEm0poKPEQ=="/>
+			<POI MapID="34" xpos="365.243" ypos="8.20063" zpos="-1145.97" type="general.puzzles_de_saut.grottes_du_speleologue" GUID="IWCj+1nkcEGSdcodIM4Kkg=="/>
+			<POI MapID="34" xpos="370.075" ypos="9.1994" zpos="-1148.55" type="general.puzzles_de_saut.grottes_du_speleologue" GUID="Tc7p22JaNEuQ11twBp1Fpw=="/>
+			<POI MapID="34" xpos="376.307" ypos="8.33661" zpos="-1150.46" type="general.puzzles_de_saut.grottes_du_speleologue" GUID="EE7FuVJJsEqgwdm0oRd/GQ=="/>
+			<POI MapID="34" xpos="381.304" ypos="8.63795" zpos="-1150.18" type="general.puzzles_de_saut.grottes_du_speleologue" GUID="lnghMIxz00SsjRFk+RTS1w=="/>
+			<POI MapID="34" xpos="385.051" ypos="8.95003" zpos="-1147.52" type="general.puzzles_de_saut.grottes_du_speleologue" GUID="C25sITxf3U6GBh99GuKjWA=="/>
+			<POI MapID="34" xpos="390.353" ypos="10.0027" zpos="-1145.24" type="general.puzzles_de_saut.grottes_du_speleologue" GUID="QR5vhIvfSkC8rfdV/dzCKA=="/>
+			<POI MapID="34" xpos="395.18" ypos="8.34731" zpos="-1140.65" type="general.puzzles_de_saut.grottes_du_speleologue" GUID="3ojcWnO3wEikbWofHzdC8w=="/>
+			<POI MapID="34" xpos="399.412" ypos="9.04156" zpos="-1140.11" type="general.puzzles_de_saut.grottes_du_speleologue" GUID="PKTz2DT2yUO9Zn1SvnNiZw=="/>
+			<POI MapID="34" xpos="402.942" ypos="7.20653" zpos="-1141.95" type="general.puzzles_de_saut.grottes_du_speleologue" GUID="8uTPYOW000W4eP3Sb2HVXQ=="/>
+			<POI MapID="34" xpos="406.59" ypos="8.1636" zpos="-1145.82" type="general.puzzles_de_saut.grottes_du_speleologue" GUID="0zEr2S+2xk2IyD6W3PbS0A=="/>
+			<POI MapID="34" xpos="412.898" ypos="9.65055" zpos="-1150.07" type="general.puzzles_de_saut.grottes_du_speleologue" GUID="o6A8FOIsm02TgcqZxTHYVA=="/>
+			<POI MapID="34" xpos="416.398" ypos="10.4281" zpos="-1153.67" type="general.puzzles_de_saut.grottes_du_speleologue" GUID="qBmpdX+3hU2NbDcKWLRU+Q=="/>
+			<POI MapID="34" xpos="421.04" ypos="8.30165" zpos="-1155.89" type="general.puzzles_de_saut.grottes_du_speleologue" GUID="f0u+53m72UKxNBHX7FNakg=="/>
+			<POI MapID="34" xpos="426.064" ypos="9.02459" zpos="-1155.65" type="general.puzzles_de_saut.grottes_du_speleologue" GUID="mH+dlXoz50i0Ax+t8xXJpQ=="/>
+			<POI MapID="34" xpos="430.829" ypos="9.72174" zpos="-1156.9" type="general.puzzles_de_saut.grottes_du_speleologue" GUID="PmiXHSpaK0CESsYPJ31dUw=="/>
+			<POI MapID="34" xpos="436.423" ypos="9.01036" zpos="-1160.28" type="general.puzzles_de_saut.grottes_du_speleologue" GUID="jBDYl8zL6UGtb8XEXS4MjA=="/>
+			<POI MapID="34" xpos="440.198" ypos="9.54513" zpos="-1159.41" type="general.puzzles_de_saut.grottes_du_speleologue" GUID="6/p8ApOoMEm7Jl3nfDz/Qg=="/>
+			<POI MapID="34" xpos="445.7" ypos="10.4901" zpos="-1157.58" type="general.puzzles_de_saut.grottes_du_speleologue" GUID="LmBUMbrx9EqcY53xLwylew=="/>
+			<POI MapID="34" xpos="450.856" ypos="9.68313" zpos="-1154.22" type="general.puzzles_de_saut.grottes_du_speleologue" GUID="7lJ3ka5id0G5bkQ91xLcug=="/>
+			<POI MapID="34" xpos="446.809" ypos="8.85828" zpos="-1149.78" type="general.puzzles_de_saut.grottes_du_speleologue" GUID="oieTmgdLnE2Rjq7AsQymRA=="/>
+			<POI MapID="34" xpos="443.72" ypos="9.39796" zpos="-1147.31" type="general.puzzles_de_saut.grottes_du_speleologue" GUID="QMkQnseS7km8ZsL5c6BdXg=="/>
+			<POI MapID="34" xpos="441.932" ypos="10.4753" zpos="-1141.55" type="general.puzzles_de_saut.grottes_du_speleologue" GUID="e9fGHWuHnUGHSAFURXfJog=="/>
+			<POI MapID="34" xpos="436.856" ypos="8.85391" zpos="-1141.55" type="general.puzzles_de_saut.grottes_du_speleologue" GUID="mtoQuIfgqUiZsUJKAg4qoQ=="/>
+			<POI MapID="34" xpos="434.325" ypos="8.86002" zpos="-1145.82" type="general.puzzles_de_saut.grottes_du_speleologue" GUID="yvNz740q9kys4V4GUdQ3bg=="/>
+			<POI MapID="34" xpos="429.188" ypos="8.25011" zpos="-1146.05" type="general.puzzles_de_saut.grottes_du_speleologue" GUID="DLKxOb6HbEe5J1uFhro5CQ=="/>
+			<POI MapID="34" xpos="425.887" ypos="9.01791" zpos="-1142.4" type="general.puzzles_de_saut.grottes_du_speleologue" GUID="x5vuJn3Jk0Cr28ddUOXpzg=="/>
+			<POI MapID="34" xpos="419.667" ypos="9.10049" zpos="-1137.77" type="general.puzzles_de_saut.grottes_du_speleologue" GUID="0L13uK/2SU+tWRjtYvxkRQ=="/>
+			<POI MapID="34" xpos="422.857" ypos="10.3408" zpos="-1134.65" type="general.puzzles_de_saut.grottes_du_speleologue" GUID="nOrCcfFmR0Km+jQc7hhr6g=="/>
+			<POI MapID="34" xpos="427.561" ypos="11.4305" zpos="-1131.24" type="general.puzzles_de_saut.grottes_du_speleologue" GUID="Pc8Oc/Eoekm2IrFPPoPJXw=="/>
+			<POI MapID="34" xpos="431.211" ypos="12.7813" zpos="-1129.4" type="general.puzzles_de_saut.grottes_du_speleologue" GUID="4G/ginb/pUWV4qRteoPN7Q=="/>
+			<POI MapID="34" xpos="436.92" ypos="13.8679" zpos="-1128.62" type="general.puzzles_de_saut.grottes_du_speleologue" GUID="xHrXRT3+sE6ngniJFBGPAA=="/>
+			<POI MapID="34" xpos="441.064" ypos="15.8788" zpos="-1127.17" type="general.puzzles_de_saut.grottes_du_speleologue" GUID="tVoIqgjSokKlMiRFOztzsA=="/>
+			<POI MapID="34" xpos="446.236" ypos="16.8734" zpos="-1126.1" type="general.puzzles_de_saut.grottes_du_speleologue" GUID="nO16GZ67y0ahFkFwvhdEiw=="/>
+			<POI MapID="34" xpos="450.304" ypos="18.0455" zpos="-1127" type="general.puzzles_de_saut.grottes_du_speleologue" GUID="0m5gxlvJ5UmYVyDMJsUErg=="/>
+			<POI MapID="34" xpos="453.407" ypos="19.1222" zpos="-1121.92" type="general.puzzles_de_saut.grottes_du_speleologue" GUID="r7dfTWh/B0C9aRfKJtCUQw=="/>
+			<POI MapID="34" xpos="457.542" ypos="20.6412" zpos="-1120.41" type="general.puzzles_de_saut.grottes_du_speleologue" GUID="V0xAgy3pbU6dxC6OjEbiOQ=="/>
+			<POI MapID="34" xpos="459.73" ypos="21.4211" zpos="-1117.04" type="general.puzzles_de_saut.grottes_du_speleologue" GUID="ImckELCbGUWKHBqWeX8+EA=="/>
+		</Route>
+
+		<!-- Coffre -->
+		<POI MapID="34" xpos="463.329" ypos="22.2873" zpos="-1112.53" type="general.puzzles_de_saut.grottes_du_speleologue" GUID="A/hc33NST0KAPBqq1EuRGQ==" iconFile="Img\CoffrePuzzle.png" iconSize="1" heightOffset="2.5" behavior="2"/>
+
+	</POIs>
+</OverlayData>

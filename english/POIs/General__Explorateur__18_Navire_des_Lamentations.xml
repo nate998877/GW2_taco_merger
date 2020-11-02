@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+POIs: ReActif.9251
+Date: 2016/12/27
+-->
+<OverlayData>
+	<MarkerCategory name="general" DisplayName="General">
+		<MarkerCategory name="explorateur" DisplayName="Explorer" iconFile="Img\Explorateur.png" behavior="3">
+			<MarkerCategory name="navire_des_lamentations" DisplayName="Ship of Sorrows">
+				<MarkerCategory name="acces" DisplayName="Guide" iconFile="Img\Guide.png" iconSize="0.75"/>
+			</MarkerCategory>
+		</MarkerCategory>
+	</MarkerCategory>
+
+	<POIs>
+
+		<!-- Entrée -->
+		<POI MapID="51" xpos="-615.854" ypos="-109.76" zpos="673.815" type="general.explorateur.navire_des_lamentations.acces" GUID="+0F5FulBdUuNcoINI5z2gw==" iconFile="Img\Fleche.png" iconSize="1.5"/>
+
+		<!-- Route -->
+		<Route MapID="51" name="Acces" resetposx="-615.854" resetposy="-109.76" resetposz="673.815" resetrange="2">
+			<POI MapID="51" xpos="-601.796" ypos="-107.315" zpos="683.492" type="general.explorateur.navire_des_lamentations.acces" GUID="bkVWMw8TvEiv6GcCebN/qA==" triggerRange="10"/>
+			<POI MapID="51" xpos="-608.118" ypos="-97.2472" zpos="691.344" type="general.explorateur.navire_des_lamentations.acces" GUID="CWfm5N//zEyIUlColOO/Ug==" triggerRange="10"/>
+			<POI MapID="51" xpos="-622.381" ypos="-101.913" zpos="688.027" type="general.explorateur.navire_des_lamentations.acces" GUID="ih2GQCCc3k+K05q4+wStkA==" triggerRange="10"/>
+			<POI MapID="51" xpos="-637.175" ypos="-106.206" zpos="682.912" type="general.explorateur.navire_des_lamentations.acces" GUID="cAc7x808BkuHCUZTM68tsw==" triggerRange="10"/>
+			<POI MapID="51" xpos="-659.644" ypos="-117.454" zpos="672.807" type="general.explorateur.navire_des_lamentations.acces" GUID="PSyYk7mWsk+08VeHvUAqiw==" triggerRange="10"/>
+			<POI MapID="51" xpos="-657.113" ypos="-124.528" zpos="665.834" type="general.explorateur.navire_des_lamentations.acces" GUID="hqnfNcAQ0E6pr4y0pF+bhw==" triggerRange="10"/>
+			<POI MapID="51" xpos="-665.716" ypos="-132.921" zpos="663.52" type="general.explorateur.navire_des_lamentations.acces" GUID="x/Qb25IM8E+PX/DnplKkgg==" triggerRange="10"/>
+			<POI MapID="51" xpos="-672.045" ypos="-127.187" zpos="669.707" type="general.explorateur.navire_des_lamentations.acces" GUID="44Nkqna1gEu7g79jgsxEhA==" triggerRange="10"/>
+			<POI MapID="51" xpos="-660.184" ypos="-126.964" zpos="675.269" type="general.explorateur.navire_des_lamentations.acces" GUID="+pic6aRAwU+D40rqsvkClw==" triggerRange="10"/>
+			<POI MapID="51" xpos="-650.294" ypos="-126.953" zpos="676.973" type="general.explorateur.navire_des_lamentations.acces" GUID="Ls6+HOYrLEOa6DwYxw5ApQ==" triggerRange="10"/>
+			<POI MapID="51" xpos="-638.314" ypos="-127.054" zpos="676.566" type="general.explorateur.navire_des_lamentations.acces" GUID="jIBIEnHjTk2KTxbRp2X+xQ==" triggerRange="10"/>
+			<POI MapID="51" xpos="-614.029" ypos="-124.052" zpos="679.222" type="general.explorateur.navire_des_lamentations.acces" GUID="3OTNRgsDnUGlJGdTUGWoqw==" triggerRange="10"/>
+		</Route>
+
+		<!-- Coffre -->
+		<POI MapID="51" xpos="-598.965" ypos="-119.362" zpos="681.82" type="general.explorateur.navire_des_lamentations" GUID="Ltdsra4hQUCqfV7oWnrDXg==" iconFile="Img\CoffreMiniDonjon.png" heightOffset="2"/>
+
+	</POIs>
+</OverlayData>

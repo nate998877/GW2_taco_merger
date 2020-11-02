@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+POIs: Lulleh.6714 - Ainillia.5794 - Elycian - ReActif.9251
+Date: 2017/04/06
+-->
+<OverlayData>
+	<MarkerCategory name="festivals" DisplayName="Seasonal Events">
+		<MarkerCategory name="super_adventure_box" DisplayName="Super Adventure Box" iconSize="0.5" fadeNear="6000" fadeFar="7000">
+			<MarkerCategory name="passages" DisplayName="Hidden Passages" iconFile="Img\Guide.png" heightOffset="0" fadeNear="2400" fadeFar="2600">
+				<MarkerCategory name="sifflets" DisplayName="Whistle" iconFile="Img\Note.png" iconSize="1" heightOffset="1.5">
+					<MarkerCategory name="berceuse_de_la_nuit" DisplayName="Gatekeeper Lullaby" iconFile="Img\SAB_Sifflet_Berceuse.png"/>
+					<MarkerCategory name="serenade_de_brisure" DisplayName="Shatter Serenade" iconFile="Img\SAB_Sifflet_Serenade.png"/>
+				</MarkerCategory>
+			</MarkerCategory>
+		</MarkerCategory>
+	</MarkerCategory>
+
+	<POIs>
+
+		<!-- Berceuse de la Nuit : 3.3.2.3.3.1.-->
+		<POI MapID="934" xpos="-413.789" ypos="364.4" zpos="460.311" type="festivals.super_adventure_box.passages.sifflets.berceuse_de_la_nuit" GUID="qJ1JMbn82EWv4QQOg2JgEQ=="/>
+		<POI MapID="934" xpos="-369.325" ypos="347.652" zpos="273.062" type="festivals.super_adventure_box.passages.sifflets.berceuse_de_la_nuit" GUID="QXUsMa4ZnEKUXbgkqAHH+A=="/>
+		<POI MapID="934" xpos="-328.547" ypos="357" zpos="202.43" type="festivals.super_adventure_box.passages.sifflets.berceuse_de_la_nuit" GUID="yPNeByGM3EamkwL1VO1asg=="/>
+		<POI MapID="934" xpos="-286.66" ypos="308.718" zpos="356.783" type="festivals.super_adventure_box.passages.sifflets.berceuse_de_la_nuit" GUID="o05mOPois02aZb4S6VSAAg=="/>
+		<POI MapID="934" xpos="-111.251" ypos="260.579" zpos="365.478" type="festivals.super_adventure_box.passages.sifflets.berceuse_de_la_nuit" GUID="1wCCK9oMnEyXYdD71jUngQ=="/>
+		<POI MapID="934" xpos="-58.8717" ypos="99.4219" zpos="140.831" type="festivals.super_adventure_box.passages.sifflets.berceuse_de_la_nuit" GUID="aYqnTWb6OUmnx/2NgaUpNg=="/>
+		<POI MapID="934" xpos="-46.2253" ypos="45" zpos="124.734" type="festivals.super_adventure_box.passages.sifflets.berceuse_de_la_nuit" GUID="BC8MJAEIsU2uSQgKtg3mDw=="/>
+		<POI MapID="934" xpos="-31.9255" ypos="228.9" zpos="307.066" type="festivals.super_adventure_box.passages.sifflets.berceuse_de_la_nuit" GUID="PxtDl0ZEP0KYdokUZc4ZxA=="/>
+		<POI MapID="934" xpos="-8.74883" ypos="99.7984" zpos="120.687" type="festivals.super_adventure_box.passages.sifflets.berceuse_de_la_nuit" GUID="IeFg+6oZb0GHcxYX4nBLrw=="/>
+		<POI MapID="934" xpos="620.841" ypos="191" zpos="-120.753" type="festivals.super_adventure_box.passages.sifflets.berceuse_de_la_nuit" GUID="F3k47Hf+pUK+VE0RhsTR6w=="/>
+
+		<!-- Serenade de Brisure : 1.3.3.1.3.3 -->
+		<POI MapID="934" xpos="-353.981" ypos="352.517" zpos="274.248" type="festivals.super_adventure_box.passages.sifflets.serenade_de_brisure" GUID="QRsrD1ljpUa/IBc6lmW5kA=="/>
+		<POI MapID="934" xpos="-15.3913" ypos="228.927" zpos="252.108" type="festivals.super_adventure_box.passages.sifflets.serenade_de_brisure" GUID="zKYOjasGVEWpVo9BH+oxVA=="/>
+		<POI MapID="934" xpos="-6.19909" ypos="229.118" zpos="278.781" type="festivals.super_adventure_box.passages.sifflets.serenade_de_brisure" GUID="BoIt6gg1GEy6Tqj48Hs2gw=="/>
+
+	</POIs>
+</OverlayData>

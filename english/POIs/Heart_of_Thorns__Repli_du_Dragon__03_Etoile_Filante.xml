@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+POIs: ReActif.9251
+Date: 2017/01/07
+-->
+<OverlayData>
+	<MarkerCategory name="heart_of_thorns.repli_du_dragon">
+		<MarkerCategory name="etoile_filante" DisplayName="Shooting Star">
+			<MarkerCategory name="acces" DisplayName="Guide" iconFile="Img\Guide.png" iconSize="0.75" triggerRange="5"/>
+		</MarkerCategory>
+	</MarkerCategory>
+
+	<POIs>
+
+		<!-- Début -->
+		<POI MapID="1041" xpos="325.7" ypos="105.56" zpos="89.77" type="heart_of_thorns.repli_du_dragon.etoile_filante.acces" GUID="ScyztGI/e0+XI84TqlCHHA=="/>
+
+		<!-- Route -->
+		<Route MapID="1041" name="Etoile_Filante" resetposx="325.7" resetposy="105.56" resetposz="89.77" resetrange="1">
+			<POI MapID="1041" xpos="322.462" ypos="105.811" zpos="82.2651" type="heart_of_thorns.repli_du_dragon.etoile_filante.acces" GUID="/NJ7e6IFP0e03akj5hL54w=="/>
+			<POI MapID="1041" xpos="320.27" ypos="108.127" zpos="75.6757" type="heart_of_thorns.repli_du_dragon.etoile_filante.acces" GUID="eqre+w9AQU6ev5cyzHobKw=="/>
+			<POI MapID="1041" xpos="318.201" ypos="109.016" zpos="69.4358" type="heart_of_thorns.repli_du_dragon.etoile_filante.acces" GUID="/EelRHKXk0OHMuc9kIPYZw=="/>
+			<POI MapID="1041" xpos="320.69" ypos="113.301" zpos="64.7849" type="heart_of_thorns.repli_du_dragon.etoile_filante.acces" GUID="Kp2npvwfqUq2sEoNuLVT6Q=="/>
+			<POI MapID="1041" xpos="326.928" ypos="116.751" zpos="61.1572" type="heart_of_thorns.repli_du_dragon.etoile_filante.acces" GUID="Cgh7R2XqdEmUEBrlXKh0gw=="/>
+			<POI MapID="1041" xpos="331.273" ypos="120.833" zpos="56.3398" type="heart_of_thorns.repli_du_dragon.etoile_filante.acces" GUID="l5QyHg85AU2sYIdX9dJlDg=="/>
+			<POI MapID="1041" xpos="333.491" ypos="121.679" zpos="51.8768" type="heart_of_thorns.repli_du_dragon.etoile_filante.acces" GUID="L0UPYdVWtUWqtUyFAnSbtg=="/>
+			<POI MapID="1041" xpos="336.802" ypos="123.792" zpos="47.4849" type="heart_of_thorns.repli_du_dragon.etoile_filante.acces" GUID="Ei3w2lFeKUawRF+tm5EjqQ=="/>
+			<POI MapID="1041" xpos="341" ypos="125.569" zpos="45.9837" type="heart_of_thorns.repli_du_dragon.etoile_filante.acces" GUID="jxtXLv5k3EKDSZHMjNA7eA=="/>
+			<POI MapID="1041" xpos="347.526" ypos="126.029" zpos="44.534" type="heart_of_thorns.repli_du_dragon.etoile_filante.acces" GUID="XB1QEQyaiEWmn0Qf1ykDKg=="/>
+			<POI MapID="1041" xpos="354.784" ypos="127.843" zpos="42.4127" type="heart_of_thorns.repli_du_dragon.etoile_filante.acces" GUID="M4fTs6/Nh0eAUjA3ywjfdQ=="/>
+			<POI MapID="1041" xpos="360.451" ypos="127.416" zpos="38.7342" type="heart_of_thorns.repli_du_dragon.etoile_filante.acces" GUID="u6Xtl6xk+E6Ff8fbgZ+aag=="/>
+			<POI MapID="1041" xpos="378.72" ypos="103.448" zpos="28.5334" type="heart_of_thorns.repli_du_dragon.etoile_filante.acces" GUID="l0zNzYl1akKduUfhgIRFyQ==" iconFile="Img\Deltaplane.png" triggerRange="10"/>
+			<POI MapID="1041" xpos="384.119" ypos="90.5031" zpos="24.8895" type="heart_of_thorns.repli_du_dragon.etoile_filante.acces" GUID="KqpMEXUQsE2VHWjg3Cg+ZQ==" iconFile="Img\Deltaplane.png" triggerRange="10"/>
+			<POI MapID="1041" xpos="373.39" ypos="84.776" zpos="19.8602" type="heart_of_thorns.repli_du_dragon.etoile_filante.acces" GUID="s0GTIcWzKU2A4Pn5oJQgOQ==" iconFile="Img\Deltaplane.png" triggerRange="10"/>
+			<POI MapID="1041" xpos="362.876" ypos="77.948" zpos="17.6424" type="heart_of_thorns.repli_du_dragon.etoile_filante.acces" GUID="YNGe0XoHD0+OfQDT2sbCgg==" iconFile="Img\Deltaplane.png" triggerRange="10"/>
+			<POI MapID="1041" xpos="353.038" ypos="73.71" zpos="22.6255" type="heart_of_thorns.repli_du_dragon.etoile_filante.acces" GUID="L12SrMplt0SSIryUbsrjLg==" iconFile="Img\Deltaplane.png" triggerRange="10"/>
+			<POI MapID="1041" xpos="342.926" ypos="69.5865" zpos="26.244" type="heart_of_thorns.repli_du_dragon.etoile_filante.acces" GUID="3cDXzMk3AUSTCyx2xkqmqQ==" iconFile="Img\Deltaplane.png" triggerRange="10"/>
+			<POI MapID="1041" xpos="329.917" ypos="64.3175" zpos="30.652" type="heart_of_thorns.repli_du_dragon.etoile_filante.acces" GUID="AW9VspyzIEW3MrK1DkZnSw==" iconFile="Img\Deltaplane.png" triggerRange="10"/>
+			<POI MapID="1041" xpos="320.285" ypos="60.3086" zpos="34.7122" type="heart_of_thorns.repli_du_dragon.etoile_filante.acces" GUID="9hglFJwPJUKerAFhw1LQHA==" iconFile="Img\Deltaplane.png" triggerRange="10"/>
+			<POI MapID="1041" xpos="310.6" ypos="56.0705" zpos="40.0261" type="heart_of_thorns.repli_du_dragon.etoile_filante.acces" GUID="IwrQTsB/wUKLWVhFtpceHg==" iconFile="Img\Deltaplane.png" triggerRange="10"/>
+			<POI MapID="1041" xpos="301.256" ypos="52.1761" zpos="43.9258" type="heart_of_thorns.repli_du_dragon.etoile_filante.acces" GUID="+rj/JzOGhE6Cbj5S0Mct/g==" iconFile="Img\Deltaplane.png" triggerRange="10"/>
+		</Route>
+
+		<!-- Début du Saut -->
+		<POI MapID="1041" xpos="365.088" ypos="126.66" zpos="35.6341" type="heart_of_thorns.repli_du_dragon.etoile_filante" GUID="I/MRnGB5HE2lmQehb7zi8w==" iconFile="Img\DeltaplaneDepart-EN.png" iconSize="1"/>
+
+		<!-- Arrivée -->
+		<POI MapID="1041" xpos="291.081" ypos="42.6455" zpos="46.2361" type="heart_of_thorns.repli_du_dragon.etoile_filante" GUID="FU7DKmu0sUikYi2++KAAjQ=="/>
+
+	</POIs>
+</OverlayData>

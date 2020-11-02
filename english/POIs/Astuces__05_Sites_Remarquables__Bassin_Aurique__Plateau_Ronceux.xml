@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+POIs: ReActif.9251
+Date: 2017/05/09
+-->
+<OverlayData>
+	<MarkerCategory name="astuces" DisplayName="Tips (No Achievement)">
+		<MarkerCategory name="sites_remarquables" DisplayName="Point of Interest (Access)">
+			<MarkerCategory name="bassin_aurique" DisplayName="Auric Basin">
+				<MarkerCategory name="plateau_ronceux" DisplayName="Bramble Plateau" iconFile="Img\Guide.png" iconSize="0.75" triggerRange="2"/>
+			</MarkerCategory>
+		</MarkerCategory>
+	</MarkerCategory>
+
+	<POIs>
+
+		<!-- Début -->
+		<POI MapID="1043" xpos="-383.652" ypos="475.163" zpos="669.952" type="astuces.sites_remarquables.bassin_aurique.plateau_ronceux" GUID="Du/InrqK8UGQkvEx5Gdb1A==" iconFile="Img\BassinAuriqueDebut-EN.png" iconSize="1.5"/>
+
+		<!-- Route -->
+		<Route MapID="1043" Name="Plateau_Ronceux" resetposx="-383.652" resetposy="475.163" resetposz="669.952" resetrange="2">
+			<POI MapID="1043" xpos="-368.441" ypos="474.745" zpos="659.884" type="astuces.sites_remarquables.bassin_aurique.plateau_ronceux" GUID="VFfwDUFceEiLA4NQa4RcpA=="/>
+			<POI MapID="1043" xpos="-360.55" ypos="475.6" zpos="640.942" type="astuces.sites_remarquables.bassin_aurique.plateau_ronceux" GUID="Og1FxWIL+ECre7k1pMDJBg=="/>
+			<POI MapID="1043" xpos="-359.09" ypos="479.021" zpos="621.002" type="astuces.sites_remarquables.bassin_aurique.plateau_ronceux" GUID="ACqVuS6CtEuw7Be7GmW9ag=="/>
+			<POI MapID="1043" xpos="-346.647" ypos="478.742" zpos="608.418" type="astuces.sites_remarquables.bassin_aurique.plateau_ronceux" GUID="X/LzaEk8pkuwkmg0zwzCww=="/>
+			<POI MapID="1043" xpos="-325.945" ypos="495.684" zpos="596.277" type="astuces.sites_remarquables.bassin_aurique.plateau_ronceux" GUID="6Yr1DMNxNUCWKWOUk19uSg=="/>
+			<POI MapID="1043" xpos="-312.666" ypos="495.677" zpos="584.281" type="astuces.sites_remarquables.bassin_aurique.plateau_ronceux" GUID="AqGbDccdnkOvvOecLx7/rA=="/>
+			<POI MapID="1043" xpos="-300.602" ypos="495.682" zpos="580.35" type="astuces.sites_remarquables.bassin_aurique.plateau_ronceux" GUID="r2a9BCDVNUCYSHCpE/wUaQ=="/>
+			<POI MapID="1043" xpos="-287.718" ypos="495.819" zpos="590.193" type="astuces.sites_remarquables.bassin_aurique.plateau_ronceux" GUID="ipLHQLrMXkerD/OJHUkyKA=="/>
+			<POI MapID="1043" xpos="-277.727" ypos="496.107" zpos="595.479" type="astuces.sites_remarquables.bassin_aurique.plateau_ronceux" GUID="Ewr3rVVUi0+YmNYABFLiEQ==" iconFile="Img\Deltaplane.png"/>
+			<POI MapID="1043" xpos="-213.053" ypos="469.716" zpos="613.84" type="astuces.sites_remarquables.bassin_aurique.plateau_ronceux" GUID="c75/tWiPn0mUXpWOEzqoAQ==" iconFile="Img\DeltaplaneStop.png"/>
+			<POI MapID="1043" xpos="-182.03" ypos="468.906" zpos="617.055" type="astuces.sites_remarquables.bassin_aurique.plateau_ronceux" GUID="AAmNXAk8KU+borJipiR2/w=="/>
+			<POI MapID="1043" xpos="-172.122" ypos="461.943" zpos="644.871" type="astuces.sites_remarquables.bassin_aurique.plateau_ronceux" GUID="v6OR52xUIUaWhkgZgMyOyQ=="/>
+			<POI MapID="1043" xpos="-151.605" ypos="469.798" zpos="661.035" type="astuces.sites_remarquables.bassin_aurique.plateau_ronceux" GUID="twa0jYqIDU2WRp6y3KvHFg=="/>
+			<POI MapID="1043" xpos="-141.993" ypos="475.306" zpos="673.313" type="astuces.sites_remarquables.bassin_aurique.plateau_ronceux" GUID="jURadH7EvEirtXdJn33yVw=="/>
+			<POI MapID="1043" xpos="-135.479" ypos="479.303" zpos="686.846" type="astuces.sites_remarquables.bassin_aurique.plateau_ronceux" GUID="0FER7Yopb0CuKmaWS+FJYA==" iconFile="Img\DangerGlissant.png" iconSize="0.5"/>
+			<POI MapID="1043" xpos="-126.814" ypos="484.384" zpos="692.359" type="astuces.sites_remarquables.bassin_aurique.plateau_ronceux" GUID="8g4grJyQck+dEpz9UrE9jw==" iconFile="Img\DeltaplaneNiveau5-EN.png"/>
+			<POI MapID="1043" xpos="-109.944" ypos="480.479" zpos="692.692" type="astuces.sites_remarquables.bassin_aurique.plateau_ronceux" GUID="AcSImYsMmUC+0tdRyuLNqw==" iconFile="Img\Deltaplane.png" triggerRanger="5"/>
+			<POI MapID="1043" xpos="-92.4914" ypos="474.179" zpos="692.708" type="astuces.sites_remarquables.bassin_aurique.plateau_ronceux" GUID="i9apdxVbzU6fpzZ5/AwTow==" iconFile="Img\Deltaplane.png" triggerRanger="5"/>
+			<POI MapID="1043" xpos="-75.1231" ypos="469.139" zpos="691.287" type="astuces.sites_remarquables.bassin_aurique.plateau_ronceux" GUID="CHvcBitpjkOdQM3RQSbCqQ==" iconFile="Img\Deltaplane.png" triggerRanger="5"/>
+			<POI MapID="1043" xpos="-59.3329" ypos="464.557" zpos="689.931" type="astuces.sites_remarquables.bassin_aurique.plateau_ronceux" GUID="b2Yvi9GY90miBm5fz5Cgaw==" iconFile="Img\Deltaplane.png" triggerRanger="5"/>
+			<POI MapID="1043" xpos="-41.9742" ypos="459.517" zpos="688.305" type="astuces.sites_remarquables.bassin_aurique.plateau_ronceux" GUID="8fwCHns+dUSVXur/43iVug==" iconFile="Img\Deltaplane.png" triggerRanger="5"/>
+			<POI MapID="1043" xpos="-27.7716" ypos="455.393" zpos="686.975" type="astuces.sites_remarquables.bassin_aurique.plateau_ronceux" GUID="GFQakC+u9UCeWVlAqqi9YA==" iconFile="Img\Deltaplane.png" triggerRanger="5"/>
+			<POI MapID="1043" xpos="-14.3581" ypos="451.498" zpos="685.718" type="astuces.sites_remarquables.bassin_aurique.plateau_ronceux" GUID="AY8jM0TxI0Sm3wPrI7hvqQ==" iconFile="Img\Deltaplane.png" triggerRanger="5"/>
+			<POI MapID="1043" xpos="-1.71008" ypos="447.833" zpos="684.887" type="astuces.sites_remarquables.bassin_aurique.plateau_ronceux" GUID="VhjNcztRcUSRGZy+mC7+Uw==" iconFile="Img\Deltaplane.png" triggerRanger="5"/>
+			<POI MapID="1043" xpos="13.6187" ypos="443.365" zpos="685.793" type="astuces.sites_remarquables.bassin_aurique.plateau_ronceux" GUID="sUafKGNE/UikbmthTYmBIg==" iconFile="Img\Deltaplane.png" triggerRanger="5"/>
+			<POI MapID="1043" xpos="29.2028" ypos="436.291" zpos="686.505" type="astuces.sites_remarquables.bassin_aurique.plateau_ronceux" GUID="9HeDEJQivESW/8RcYAiWiQ==" iconFile="Img\DeltaplaneStop.png" triggerRanger="5"/>
+		</Route>
+
+		<!-- Arrivée -->
+		<POI MapID="1043" xpos="33.8365" ypos="428.012" zpos="686.798" type="astuces.sites_remarquables.bassin_aurique.plateau_ronceux" GUID="S6MlhUgwpUKd4Y75AwJ4kQ==" iconFile="Img\Croix.png" iconSize="1.25"/>
+
+	</POIs>
+</OverlayData>

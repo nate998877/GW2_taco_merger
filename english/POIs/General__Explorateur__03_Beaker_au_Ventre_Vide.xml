@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+POIs: ReActif.9251
+Date: 2017/08/11
+-->
+<OverlayData>
+	<MarkerCategory name="general" DisplayName="General">
+		<MarkerCategory name="explorateur" DisplayName="Explorer" iconFile="Img\Explorateur.png" behavior="3">
+			<MarkerCategory name="beaker_au_ventre_vide" DisplayName="Beaker's Empty Belly">
+				<MarkerCategory name="acces" DisplayName="Guide" iconFile="Img\Guide.png" iconSize="0.75"/>
+			</MarkerCategory>
+		</MarkerCategory>
+	</MarkerCategory>
+
+	<POIs>
+
+		<!-- Entrée -->
+		<POI MapID="27" xpos="-261.368" ypos="0.285115" zpos="-815.543" type="general.explorateur.beaker_au_ventre_vide.acces" GUID="pDAe3K+g6k6QxTJR0MRYDQ==" iconFile="Img\Fleche.png" iconSize="1.5"/>
+
+		<!-- Route -->
+		<Route MapID="27" name="Acces" resetposx="-261.368" resetposy="0.285115" resetposz="-815.543" resetrange="2">
+			<POI MapID="27" xpos="-260.393" ypos="-4.6885" zpos="-824.965" type="general.explorateur.beaker_au_ventre_vide.acces" GUID="mP62n6kahE6FRJAuTg9Y7g==" triggerRange="5"/>
+			<POI MapID="27" xpos="-273.583" ypos="-8.73507" zpos="-834.18" type="general.explorateur.beaker_au_ventre_vide.acces" GUID="rN4z08ntOEaw1robEASQVA=="/>
+			<POI MapID="27" xpos="-277.213" ypos="-14.6941" zpos="-834.852" type="general.explorateur.beaker_au_ventre_vide.acces" GUID="iA4Y43r0OkiReAlqj2GlUQ=="/>
+			<POI MapID="27" xpos="-280.322" ypos="-16.9394" zpos="-838.164" type="general.explorateur.beaker_au_ventre_vide.acces" GUID="MRIQRwFVik2PVvWQBopXtw=="/>
+			<POI MapID="27" xpos="-287.514" ypos="-20.7237" zpos="-836.411" type="general.explorateur.beaker_au_ventre_vide.acces" GUID="803DPMSkB0KP/tz5edK8XA=="/>
+			<POI MapID="27" xpos="-299.52" ypos="-22.1232" zpos="-832.003" type="general.explorateur.beaker_au_ventre_vide.acces" GUID="Z0385PAzFkCqqVNuUvRfwQ=="/>
+			<POI MapID="27" xpos="-311.714" ypos="-20.0771" zpos="-827.391" type="general.explorateur.beaker_au_ventre_vide.acces" GUID="rb/nFwQGzkW+nqc/jnZOng=="/>
+			<POI MapID="27" xpos="-323.561" ypos="-20.1451" zpos="-820.336" type="general.explorateur.beaker_au_ventre_vide.acces" GUID="o4Svr5i/qkyg8jvewPmJsg=="/>
+			<POI MapID="27" xpos="-334.086" ypos="-19.2166" zpos="-813.478" type="general.explorateur.beaker_au_ventre_vide.acces" GUID="MW+cmljCBEGHhzRl27urDA=="/>
+			<POI MapID="27" xpos="-348.094" ypos="-17.9069" zpos="-803.504" type="general.explorateur.beaker_au_ventre_vide.acces" GUID="AdGiWDn2BkG/H0pNXDt2aA=="/>
+			<POI MapID="27" xpos="-356.537" ypos="-14.0782" zpos="-796.082" type="general.explorateur.beaker_au_ventre_vide.acces" GUID="C9dep+h/dEWD5oIahv1bUQ=="/>
+			<POI MapID="27" xpos="-373.006" ypos="-8.11813" zpos="-783.813" type="general.explorateur.beaker_au_ventre_vide.acces" GUID="RTu3g0dFI0eds842AKXCCg=="/>
+			<POI MapID="27" xpos="-385.292" ypos="-3.19817" zpos="-775.758" type="general.explorateur.beaker_au_ventre_vide.acces" GUID="lbW0eguY90yd0kWzUQXXjA=="/>
+			<POI MapID="27" xpos="-397.701" ypos="-1.05481" zpos="-767.588" type="general.explorateur.beaker_au_ventre_vide.acces" GUID="YM+UQVl6W0iBGLyyLzCHDQ=="/>
+			<POI MapID="27" xpos="-410.642" ypos="-1.04022" zpos="-758.299" type="general.explorateur.beaker_au_ventre_vide.acces" GUID="mZhM7N9NT0uilS8UFGPPtQ=="/>
+			<POI MapID="27" xpos="-423.093" ypos="-0.646335" zpos="-750.178" type="general.explorateur.beaker_au_ventre_vide.acces" GUID="gUyDsnCG0kmsRMJfbngHQQ=="/>
+			<POI MapID="27" xpos="-434.165" ypos="-0.64209" zpos="-740.512" type="general.explorateur.beaker_au_ventre_vide.acces" GUID="dyZfMGz2G0Kl6UDXUJu7Gg=="/>
+			<POI MapID="27" xpos="-444.718" ypos="-0.432105" zpos="-732.579" type="general.explorateur.beaker_au_ventre_vide.acces" GUID="c/WTD73hKkGtwgmGQ/EN0Q=="/>
+			<POI MapID="27" xpos="-451.244" ypos="-0.421973" zpos="-723.966" type="general.explorateur.beaker_au_ventre_vide.acces" GUID="5YcQ/iLdMUiMpUHyk9MCTg=="/>
+			<POI MapID="27" xpos="-458.052" ypos="-0.51639" zpos="-718.181" type="general.explorateur.beaker_au_ventre_vide.acces" GUID="RTfTZLVErki2U+4eq52Paw=="/>
+			<POI MapID="27" xpos="-463.927" ypos="-0.338113" zpos="-710.621" type="general.explorateur.beaker_au_ventre_vide.acces" GUID="ExMCBV/OtEeJ3P4/SuruSg=="/>
+			<POI MapID="27" xpos="-466.565" ypos="0.0973942" zpos="-701.038" type="general.explorateur.beaker_au_ventre_vide.acces" GUID="q5bpltuAJEWuYpFY+0YYEA=="/>
+			<POI MapID="27" xpos="-468.744" ypos="-0.705349" zpos="-688.655" type="general.explorateur.beaker_au_ventre_vide.acces" GUID="TABZLFAyg02ezQFBG2SQlQ=="/>
+			<POI MapID="27" xpos="-471.859" ypos="-0.678954" zpos="-674.853" type="general.explorateur.beaker_au_ventre_vide.acces" GUID="EwseQVOmMkO3/84O+hNXSg=="/>
+			<POI MapID="27" xpos="-475.315" ypos="-0.552478" zpos="-665.043" type="general.explorateur.beaker_au_ventre_vide.acces" GUID="USry8mRtekKiEnLnGouvDg=="/>
+			<POI MapID="27" xpos="-476.831" ypos="-0.1852" zpos="-656.182" type="general.explorateur.beaker_au_ventre_vide.acces" GUID="1knoyt7hQ0aXQiudzOitSA=="/>
+			<POI MapID="27" xpos="-477.474" ypos="0.539721" zpos="-650.254" type="general.explorateur.beaker_au_ventre_vide.acces" GUID="oEt2C1+A/kasJoYHkPnjNg==" iconFile="Img\Interrupteur.png"/>
+			<POI MapID="27" xpos="-496.462" ypos="121.313" zpos="-504.594" type="general.explorateur.beaker_au_ventre_vide.acces" GUID="paZX3RacmEiYPOtvBfzI/g=="/>
+			<POI MapID="27" xpos="-501.195" ypos="121.199" zpos="-500.722" type="general.explorateur.beaker_au_ventre_vide.acces" GUID="8Arot/6e1UKYiU2hvYq5kw=="/>
+			<POI MapID="27" xpos="-502.846" ypos="121.199" zpos="-496.587" type="general.explorateur.beaker_au_ventre_vide.acces" GUID="MYUgFkPIoUKd9aKOgTq6LQ=="/>
+			<POI MapID="27" xpos="-501.284" ypos="123.224" zpos="-494.128" type="general.explorateur.beaker_au_ventre_vide.acces" GUID="5eu3+Xw7a02fRcLQ/qOgNQ=="/>
+			<POI MapID="27" xpos="-499.13" ypos="125.945" zpos="-496.542" type="general.explorateur.beaker_au_ventre_vide.acces" GUID="BBwTIurrhkyow1A8h7VXGQ=="/>
+			<POI MapID="27" xpos="-494.144" ypos="129.699" zpos="-498.916" type="general.explorateur.beaker_au_ventre_vide.acces" GUID="/UYdUz8Jkk2vxlqOrS/kaw=="/>
+			<POI MapID="27" xpos="-501.877" ypos="128.118" zpos="-493.478" type="general.explorateur.beaker_au_ventre_vide.acces" GUID="A04YT3omFUy5pyVd/X834w=="/>
+			<POI MapID="27" xpos="-504.651" ypos="129.017" zpos="-495.677" type="general.explorateur.beaker_au_ventre_vide.acces" GUID="LaGSSVabNku0weWPQthcfQ=="/>
+			<POI MapID="27" xpos="-506.713" ypos="104.723" zpos="-492.957" type="general.explorateur.beaker_au_ventre_vide.acces" GUID="n+FvPMQ030uqiDWUqkAzQw=="/>
+			<POI MapID="27" xpos="-510.122" ypos="104.246" zpos="-484.307" type="general.explorateur.beaker_au_ventre_vide.acces" GUID="ABGy7NcKQEe33klAyLvRDQ=="/>
+			<POI MapID="27" xpos="-505.436" ypos="93.6504" zpos="-478.826" type="general.explorateur.beaker_au_ventre_vide.acces" GUID="W2nn8FPDq064DrmsnA45GQ=="/>
+			<POI MapID="27" xpos="-499.693" ypos="85.3051" zpos="-473.246" type="general.explorateur.beaker_au_ventre_vide.acces" GUID="c/POMbeoFUmXyQPY2JQxPw=="/>
+			<POI MapID="27" xpos="-498.151" ypos="84.2591" zpos="-461.498" type="general.explorateur.beaker_au_ventre_vide.acces" GUID="dRyEB0a5pEahHlsFfMxGsw=="/>
+			<POI MapID="27" xpos="-493.94" ypos="82.7129" zpos="-450.385" type="general.explorateur.beaker_au_ventre_vide.acces" GUID="/dGz/Qzv0k+3uQ65B0NOrA=="/>
+			<POI MapID="27" xpos="-489.274" ypos="81.371" zpos="-439.84" type="general.explorateur.beaker_au_ventre_vide.acces" GUID="M+xZzpZm7EGKs2Dmln40SA=="/>
+			<POI MapID="27" xpos="-485.927" ypos="80.0899" zpos="-429.984" type="general.explorateur.beaker_au_ventre_vide.acces" GUID="sqxNBAds0kON9MlNGYvXIA=="/>
+			<POI MapID="27" xpos="-484.708" ypos="79.5132" zpos="-420.836" type="general.explorateur.beaker_au_ventre_vide.acces" GUID="vjbAiSKc8E2WM80atEPTtw=="/>
+			<POI MapID="27" xpos="-484.71" ypos="77.3463" zpos="-409.044" type="general.explorateur.beaker_au_ventre_vide.acces" GUID="GzGEgyvL0ECV2ZxZK+4LPQ=="/>
+			<POI MapID="27" xpos="-485.475" ypos="75.6979" zpos="-396.526" type="general.explorateur.beaker_au_ventre_vide.acces" GUID="L44rCF/WtUy+4iuZCvMsBQ=="/>
+			<POI MapID="27" xpos="-487.361" ypos="76.2293" zpos="-383.255" type="general.explorateur.beaker_au_ventre_vide.acces" GUID="abk+6c08AEuvUsN8Ys+1Mg=="/>
+			<POI MapID="27" xpos="-488.599" ypos="78.4812" zpos="-373.141" type="general.explorateur.beaker_au_ventre_vide.acces" GUID="XjoMRHFsEE2vmHpEYCv4sw=="/>
+			<!-- Viande -->
+			<POI MapID="27" xpos="-488.664" ypos="82.3821" zpos="-361.176" type="general.explorateur.beaker_au_ventre_vide.acces" GUID="6wBvlwMhCkKQpQG9h/DlZQ==" iconFile="Img\Croix.png"/>
+			<POI MapID="27" xpos="-485.756" ypos="80.1465" zpos="-367.409" type="general.explorateur.beaker_au_ventre_vide.acces" GUID="sKaQ9PgEw0CkwhPsFJUhFQ=="/>
+			<POI MapID="27" xpos="-484.787" ypos="77.8708" zpos="-375.238" type="general.explorateur.beaker_au_ventre_vide.acces" GUID="/kKDBWJjqE60rNRibiNcRA=="/>
+		</Route>
+
+		<!-- Beaker -->
+		<POI MapID="27" xpos="-483.685" ypos="76.0148" zpos="-384.31" type="general.explorateur.beaker_au_ventre_vide" GUID="mkANwQ4Fa06tqbJki+93Fw==" iconFile="Img\EtoileInstance.png" iconSize="1"/>
+
+	</POIs>
+</OverlayData>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+POIs: BoyC.2653
+Date: 2016/12/14
+-->
+<OverlayData>
+	<MarkerCategory name="festivals" DisplayName="Seasonal Events">
+		<MarkerCategory name="un_tres_joyeux_hivernel" DisplayName="A Very Merry Wintersday">
+			<MarkerCategory name="orphelins" DisplayName="Donation Drive (Daily)" iconFile="Img\Enfant.png" iconSize="0.5" heightOffset="2.5" fadeNear="6000" fadeFar="10000" behavior="2"/>
+		</MarkerCategory>
+	</MarkerCategory>
+
+	<POIs>
+
+		<POI MapID="18" type="festivals.un_tres_joyeux_hivernel.orphelins" xpos="-357.364" ypos="60.8528" zpos="-155.296" GUID="rRkpiuBKak6OiU8NnQ8Iqw=="/>
+		<POI MapID="18" type="festivals.un_tres_joyeux_hivernel.orphelins" xpos="-352.79" ypos="63.26" zpos="10.99" GUID="0prRYf5wzU6LZBQJIO6fJw=="/>
+		<POI MapID="18" type="festivals.un_tres_joyeux_hivernel.orphelins" xpos="-303.35" ypos="62.68" zpos="-165.20" GUID="DZ6YtE6Jwkmn80/iCmqB8A=="/>
+		<POI MapID="18" type="festivals.un_tres_joyeux_hivernel.orphelins" xpos="-263.99" ypos="60.8552" zpos="-130.511" GUID="vi7PXrJtCUKJd0r9fNwvEQ=="/>
+		<POI MapID="18" type="festivals.un_tres_joyeux_hivernel.orphelins" xpos="-247.59" ypos="63.29" zpos="32.16" GUID="UL8NiiJ110emJ3ASvSCGcw=="/>
+		<POI MapID="18" type="festivals.un_tres_joyeux_hivernel.orphelins" xpos="-234.03" ypos="60.8105" zpos="-180.964" GUID="5B6izt8JkEu4J2HdleSr7g=="/>
+		<POI MapID="18" type="festivals.un_tres_joyeux_hivernel.orphelins" xpos="-206.67" ypos="59.55" zpos="-287.36" GUID="jZFaCMvk3UKgBCr4eZj+3w=="/>
+		<POI MapID="18" type="festivals.un_tres_joyeux_hivernel.orphelins" xpos="-196.191" ypos="56.5598" zpos="186.372" GUID="QGELxMYNCk+9iu3ZlQ2y/Q=="/>
+		<POI MapID="18" type="festivals.un_tres_joyeux_hivernel.orphelins" xpos="-145.201" ypos="79.804" zpos="-44.2897" GUID="BgoYW1eiQk2Imy11KaxSvg=="/>
+		<POI MapID="18" type="festivals.un_tres_joyeux_hivernel.orphelins" xpos="-116.783" ypos="52.9126" zpos="331.607" GUID="nXaX3CfVNUqAL+LKAtlK/Q=="/>
+		<POI MapID="18" type="festivals.un_tres_joyeux_hivernel.orphelins" xpos="-77.5615" ypos="80.1241" zpos="-246.93" GUID="XOls5wgeeEOCG+/2ngvXUA=="/>
+		<POI MapID="18" type="festivals.un_tres_joyeux_hivernel.orphelins" xpos="-59.7201" ypos="79.9681" zpos="111.021" GUID="s2LcjoBMT0elitEW25ktJw=="/>
+		<POI MapID="18" type="festivals.un_tres_joyeux_hivernel.orphelins" xpos="-34.5049" ypos="72.0458" zpos="240.291" GUID="X11UnUbTjkKZEMHppG1f2g=="/>
+		<POI MapID="18" type="festivals.un_tres_joyeux_hivernel.orphelins" xpos="-1.48372" ypos="140.895" zpos="-33.7787" GUID="OCU2E4t4P0mDkNQ3YFoniw=="/>
+		<POI MapID="18" type="festivals.un_tres_joyeux_hivernel.orphelins" xpos="2.97" ypos="61.65" zpos="338.68" GUID="fPvMPLdrrkOtpICqXwNphw=="/>
+		<POI MapID="18" type="festivals.un_tres_joyeux_hivernel.orphelins" xpos="16.1376" ypos="79.9519" zpos="-284.566" GUID="Vb9uiWy/xUCJasuWLevs1Q=="/>
+		<POI MapID="18" type="festivals.un_tres_joyeux_hivernel.orphelins" xpos="36.0517" ypos="138.728" zpos="-254.122" GUID="Q2StHwzqFUuSf7nysLFBpg=="/>
+		<POI MapID="18" type="festivals.un_tres_joyeux_hivernel.orphelins" xpos="101.27" ypos="100.43" zpos="-472.72" GUID="Qf2kHNg4Ak6trzztTjOOfQ=="/>
+		<POI MapID="18" type="festivals.un_tres_joyeux_hivernel.orphelins" xpos="148.167" ypos="79.9021" zpos="-281.325" GUID="IG41BrX/A0OjS0gUXpftVw=="/>
+		<POI MapID="18" type="festivals.un_tres_joyeux_hivernel.orphelins" xpos="148.209" ypos="139.063" zpos="-70.4107" GUID="1/jEh7SlUUCkQqm0zdAOLQ=="/>
+		<POI MapID="18" type="festivals.un_tres_joyeux_hivernel.orphelins" xpos="170.986" ypos="54.149" zpos="-461.855" GUID="RVME/Ltd6kmOE/EIQrq7MA=="/>
+		<POI MapID="18" type="festivals.un_tres_joyeux_hivernel.orphelins" xpos="191.245" ypos="80.0219" zpos="115.222" GUID="a4LxSzrdDk6qLu4dyMCJsA=="/>
+		<POI MapID="18" type="festivals.un_tres_joyeux_hivernel.orphelins" xpos="265.546" ypos="72.8216" zpos="-264.437" GUID="0sD37byTlUi3XxIFgwSNgA=="/>
+		<POI MapID="18" type="festivals.un_tres_joyeux_hivernel.orphelins" xpos="275.836" ypos="55.0837" zpos="-395.204" GUID="mVzZ/o1G/kmmqcZIMRFPTA=="/>
+		<POI MapID="18" type="festivals.un_tres_joyeux_hivernel.orphelins" xpos="337.867" ypos="57.911" zpos="0.682329" GUID="wzM9ePNu0k2YoPHqG9x2sQ=="/>
+		<POI MapID="18" type="festivals.un_tres_joyeux_hivernel.orphelins" xpos="342.449" ypos="55.7698" zpos="-67.4541" GUID="Ip2W5ftlhUis1mEbWVFZRg=="/>
+		<POI MapID="18" type="festivals.un_tres_joyeux_hivernel.orphelins" xpos="372.829" ypos="58.511" zpos="-282.274" GUID="Q8TwtZ3bBkyxjuJHw7QoiQ=="/>
+		<POI MapID="18" type="festivals.un_tres_joyeux_hivernel.orphelins" xpos="440.107" ypos="56.0018" zpos="-130.428" GUID="9Y4dHcQE2UWB0bRD3Hqu+g=="/>
+		<POI MapID="18" type="festivals.un_tres_joyeux_hivernel.orphelins" xpos="484.908" ypos="66.5881" zpos="76.4935" GUID="OmrBVKhMEEuvJHxoH5xizw=="/>
+		<POI MapID="18" type="festivals.un_tres_joyeux_hivernel.orphelins" xpos="513.615" ypos="55.9846" zpos="-48.179" GUID="EO1kL7uXvEeizKaF2XKEww=="/>
+
+	</POIs>
+</OverlayData>

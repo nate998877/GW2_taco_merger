@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+POIs: TMKFrench.6427
+Date: 2017/01/25
+-->
+<OverlayData>
+	<MarkerCategory name="general" DisplayName="General">
+		<MarkerCategory name="explorateur" DisplayName="Explorer" iconFile="Img\Explorateur.png" behavior="3">
+			<MarkerCategory name="voisinage_malsain" DisplayName="Bad Neighborhood">
+				<MarkerCategory name="acces" DisplayName="Guide" iconFile="Img\Guide.png" iconSize="0.75"/>
+			</MarkerCategory>
+		</MarkerCategory>
+	</MarkerCategory>
+
+	<POIs>
+
+		<!-- Début -->
+		<POI MapID="15" xpos="55.1962" ypos="1.36459" zpos="594.773" type="general.explorateur.voisinage_malsain.acces" GUID="emFwYbvRzkKVi57ZCTL3tA==" iconFile="Img\Fleche.png" iconSize="1.5"/>
+
+		<!-- Route -->
+		<Route MapID="15" name="Acces" resetposx="55.1962" resetposy="1.36459" resetposz="594.773" resetrange="2">
+			<POI MapID="15" xpos="42.4623" ypos="2.46345" zpos="608.07" type="general.explorateur.voisinage_malsain.acces" GUID="pmF88jFeu0KW1lEeN++5tw==" triggerRange="5"/>
+			<POI MapID="15" xpos="40.7709" ypos="2.40742" zpos="622.837" type="general.explorateur.voisinage_malsain.acces" GUID="W05HoMpQh06nu3vDuhQaQQ==" triggerRange="5"/>
+			<POI MapID="15" xpos="27.4135" ypos="1.75478" zpos="648.839" type="general.explorateur.voisinage_malsain.acces" GUID="n48YcMGWFEqJ6eT9FEugKQ==" triggerRange="5"/>
+			<POI MapID="15" xpos="26.9245" ypos="2.48636" zpos="673.898" type="general.explorateur.voisinage_malsain.acces" GUID="N18a6Pz/G0CemF7vjZyjsA==" triggerRange="5"/>
+			<POI MapID="15" xpos="25.7225" ypos="1.07757" zpos="719.907" type="general.explorateur.voisinage_malsain.acces" GUID="OYhOc8Car0CfUhhFfe9Nug==" triggerRange="5"/>
+			<POI MapID="15" xpos="6.33836" ypos="8.88426" zpos="714.872" type="general.explorateur.voisinage_malsain.acces" GUID="uCpNTFtTcEWj8kSjhIGRgQ==" triggerRange="5"/>
+		</Route>
+
+		<!-- Coffre -->
+		<POI MapID="15" xpos="0.393018" ypos="8.66614" zpos="699.258" type="General.Explorateur.voisinage_malsain" GUID="QDEgKI08QU2kUkjagKHDgg==" iconFile="Img\CoffreMiniDonjon.png" heightOffset="2"/>
+
+	</POIs>
+</OverlayData>

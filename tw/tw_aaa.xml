@@ -1,0 +1,83 @@
+<OverlayData>
+  <MarkerCategory name="tw_guides" DisplayName="Tekkit's Guides">
+    <MarkerCategory name="separatormenu01" IsSeparator="1" DisplayName="  [-AIO-|-v2.2.8-|-27.10.2020-]"/>
+    <MarkerCategory name="separatormenu02" IsSeparator="1" DisplayName="       [-CORE GAME-]"/>
+    <MarkerCategory name="tw_pactsupplynetwork" DisplayName="Pact Supply Network Agents">
+    <MarkerCategory name="separatormenupsna01" IsSeparator="1" DisplayName="&lt;-----[-PACT SUPPLY NETWORK AGENTS-]-----&gt;"/>
+      </MarkerCategory>
+    <MarkerCategory name="tw_beetleraces" DisplayName="Beetle Races">
+    <MarkerCategory name="separatormenubr01" IsSeparator="1" DisplayName="&lt;-----[-BEETLE RACES-]-----&gt;"/>
+      </MarkerCategory>
+    <MarkerCategory name="tw_gatheringnodes" DisplayName="Gathering Nodes">
+      </MarkerCategory>
+    <MarkerCategory name="tw_jp" DisplayName="Jumping Puzzles">
+      </MarkerCategory>
+    <MarkerCategory name="tw_gm" DisplayName="Guild Missions">
+      </MarkerCategory>
+    <MarkerCategory name="separatormenu03" IsSeparator="1" DisplayName="       [-EXPANSIONS-]"/>
+    <MarkerCategory name="tw_hot" DisplayName="Heart of Thorns">
+    <MarkerCategory name="separatormenuhot" IsSeparator="1" DisplayName="&lt;-----[-HEART OF THORNS-]-----&gt;"/>
+      </MarkerCategory>
+    <MarkerCategory name="tw_pof" DisplayName="Path of Fire">
+    <MarkerCategory name="separatormenupof" IsSeparator="1" DisplayName="&lt;-----[-PATH OF FIRE-]-----&gt;"/>
+      </MarkerCategory>
+    <MarkerCategory name="separatormenu04" IsSeparator="1" DisplayName="      [-LIVING WORLD-]"/>
+    <MarkerCategory name="tw_lws2" DisplayName="Season 2">
+      <MarkerCategory name="separatormenus02" IsSeparator="1" DisplayName="&lt;-----[-SEASON 2-]-----&gt;"/>
+    </MarkerCategory>
+    <MarkerCategory name="tw_lws3" DisplayName="Season 3">
+      <MarkerCategory name="separatormenus03" IsSeparator="1" DisplayName="&lt;-----[-SEASON 3-]-----&gt;"/>
+    </MarkerCategory>
+    <MarkerCategory name="tw_lws4" DisplayName="Season 4">
+      <MarkerCategory name="separatormenus04" IsSeparator="1" DisplayName="&lt;-----[-SEASON 4-]-----&gt;"/>
+    </MarkerCategory>
+    <MarkerCategory name="tw_lws5" DisplayName="Season 5">
+      <MarkerCategory name="separatormenus05" IsSeparator="1" DisplayName="&lt;-----[-ICEBROOD SAGA-]-----&gt;"/>
+    </MarkerCategory>
+    <MarkerCategory name="separatormenu05" IsSeparator="1" DisplayName="     [-MAP COMPLETION-]"/>
+    <MarkerCategory name="tw_mc" DisplayName="Core Tyria">
+    <MarkerCategory name="separatormenumc01" IsSeparator="1" DisplayName="&lt;-----[-CORE TYRIA-]-----&gt;"/>
+      </MarkerCategory>
+    <MarkerCategory name="tw_mc_hot" DisplayName="Heart of Thorns">
+    <MarkerCategory name="separatormenumc02" IsSeparator="1" DisplayName="&lt;-----[-HEART OF THORNS-]-----&gt;"/>
+      </MarkerCategory>
+    <MarkerCategory name="tw_mc_lws3" DisplayName="Living World Season 3">
+    <MarkerCategory name="separatormenumc03" IsSeparator="1" DisplayName="&lt;-----[-LIVING WORLD SEASON 4-]-----&gt;"/>
+      </MarkerCategory>
+    <MarkerCategory name="tw_mc_pof" DisplayName="Path of Fire">
+    <MarkerCategory name="separatormenumc04" IsSeparator="1" DisplayName="&lt;-----[-PATH OF FIRE-]-----&gt;"/>
+      </MarkerCategory>
+    <MarkerCategory name="tw_mc_lws4" DisplayName="Living World Season 4">
+    <MarkerCategory name="separatormenumc05" IsSeparator="1" DisplayName="&lt;-----[-LIVING WORLD SEASON 4-]-----&gt;"/>
+      </MarkerCategory>
+    <MarkerCategory name="tw_mc_lws5" DisplayName="Icebrood Saga">
+    <MarkerCategory name="separatormenumc06" IsSeparator="1" DisplayName="&lt;-----[-ICEBROOD SAGA-]-----&gt;"/>
+      </MarkerCategory>
+    <MarkerCategory name="separatormenu06" IsSeparator="1" DisplayName="        [-FESTIVALS-]"/>
+    <MarkerCategory name="tw_festival_lunarnewyear" DisplayName="Lunar New Year">
+      <MarkerCategory name="separatormenulny01" IsSeparator="1" DisplayName="&lt;-----[-LUNAR NEW YEAR-]-----&gt;"/>
+    </MarkerCategory>
+    <MarkerCategory name="tw_sab" DisplayName="Super Adventure Box">
+      <MarkerCategory name="separatormenusab" IsSeparator="1" DisplayName="&lt;-----[-SUPER ADVENTURE BOX-]-----&gt;"/>
+    </MarkerCategory>
+    <MarkerCategory name="tw_festival_dragonbash" DisplayName="Dragon Bash">
+      <MarkerCategory name="separatormenudb01" IsSeparator="1" DisplayName="&lt;-----[-DRAGON BASH-]-----&gt;"/>
+    </MarkerCategory>
+    <MarkerCategory name="tw_festival_fourwinds" DisplayName="Four Winds">
+      <MarkerCategory name="separatormenufw01" IsSeparator="1" DisplayName="&lt;-----[-FOUR WINDS-]-----&gt;"/>
+    </MarkerCategory>
+    <MarkerCategory name="tw_festival_halloween" DisplayName="Halloween">
+      <MarkerCategory name="separatormenuh01" IsSeparator="1" DisplayName="&lt;-----[-HALLOWEEN-]-----&gt;"/>
+    </MarkerCategory>
+    <MarkerCategory name="tw_festival_wintersday" DisplayName="Wintersday">
+      <MarkerCategory name="separatormenuwd01" IsSeparator="1" DisplayName="&lt;-----[-WINTERSDAY-]-----&gt;"/>
+      </MarkerCategory>
+    <MarkerCategory name="tw_festival_dragonbash" DisplayName="Dragon Bash">
+      <MarkerCategory name="separatormenudb01" IsSeparator="1" DisplayName="&lt;-----[-DRAGON BASH-]-----&gt;"/>
+      </MarkerCategory>
+    <MarkerCategory name="separatormenu07" IsSeparator="1" DisplayName="       [-COLLECTIONS-]"/>
+      <MarkerCategory name="tw_collections_legendarytrinkets" DisplayName="Legendary Trinkets">
+      <MarkerCategory name="separatormenucol01" IsSeparator="1" DisplayName="&lt;-----[-LEGENDARY COLLECTIONS-]-----&gt;"/>
+    </MarkerCategory>
+  </MarkerCategory>
+</OverlayData>

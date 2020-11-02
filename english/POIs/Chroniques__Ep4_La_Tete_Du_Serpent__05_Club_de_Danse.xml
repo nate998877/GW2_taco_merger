@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+POIs: ReActif.9251
+Date: 2017/02/12
+-->
+<OverlayData>
+	<MarkerCategory name="chroniques.saison_3">
+		<MarkerCategory name="ep4_la_tete_du_serpent" DisplayName="Ep.4 - The Head of the Snake" iconFile="Img\LacDoric.png">
+			<MarkerCategory name="club_de_danse" DisplayName="Dance Club"/>
+		</MarkerCategory>
+	</MarkerCategory>
+
+	<POIs>
+
+		<!-- Drake House -->
+		<POI MapID="1185" xpos="315.17" ypos="48.44" zpos="-272.05" type="chroniques.saison_3.ep4_la_tete_du_serpent.club_de_danse" GUID="YH4oOh3gQk+T2Ih6RVPBiw=="/>
+
+		<!-- Emote /danse -->
+		<POI MapID="1185" xpos="315.17" ypos="50" zpos="-272.05" type="chroniques.saison_3.ep4_la_tete_du_serpent.club_de_danse" GUID="7tlKBvOmhkuND2tka+hdPA==" iconFile="Img\EmoteDanse-EN.png"/>
+
+	</POIs>
+</OverlayData>

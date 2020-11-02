@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+POIs: ReActif.9251
+Date: 2017/09/02
+-->
+<OverlayData>
+	<MarkerCategory name="astuces" DisplayName="Tips (No Achievement)">
+		<MarkerCategory name="chroniques" DisplayName="Story Journal" iconFile="Img\EtoileInstance.png">
+			<MarkerCategory name="saison_3" DisplayName="Season 3">
+				<MarkerCategory name="episode_6" DisplayName="Episode 6">
+					<MarkerCategory name="ou_est_balthazar" DisplayName="Where is Balthazar ?"/>
+				</MarkerCategory>
+			</MarkerCategory>
+		</MarkerCategory>
+	</MarkerCategory>
+	<POIs>
+
+		<!-- Monter sans les champignons -->
+		<POI MapID="1202" xpos="150.51" ypos="5.1" zpos="-522.426" type="astuces.chroniques.saison_3.episode_6.ou_est_balthazar" GUID="G27yQ5mYtkWROdY7I7sHqg==" iconFile="Img\Monter.png"/>
+		<Route MapID="1202" name="Sans_Champignon" resetposx="150.51" resetposy="5.1" resetposz="-522.426" resetrange="0.5">
+			<POI MapID="1202" xpos="152.926" ypos="6.94036" zpos="-519.004" type="astuces.chroniques.saison_3.episode_6.ou_est_balthazar" GUID="qf5CFGUdWU2mrtNS0L/0qg==" iconFile="Img\Guide.png" iconSize="0.75" heightOffset="0"/>
+			<POI MapID="1202" xpos="154.156" ypos="8.95868" zpos="-516.291" type="astuces.chroniques.saison_3.episode_6.ou_est_balthazar" GUID="mv8CVynbUU6iTQn0XqllYw==" iconFile="Img\Guide.png" iconSize="0.75" heightOffset="0"/>
+			<POI MapID="1202" xpos="155.022" ypos="10.8481" zpos="-511.074" type="astuces.chroniques.saison_3.episode_6.ou_est_balthazar" GUID="F7VncgFDlka316Mh6+g6zA==" iconFile="Img\Guide.png" iconSize="0.75" heightOffset="0"/>
+			<POI MapID="1202" xpos="156.729" ypos="13.3866" zpos="-505.969" type="astuces.chroniques.saison_3.episode_6.ou_est_balthazar" GUID="9/bNMQfzXE+0f0KLwipnDQ==" iconFile="Img\Guide.png" iconSize="0.75" heightOffset="0"/>
+			<POI MapID="1202" xpos="157.823" ypos="15.6163" zpos="-501.347" type="astuces.chroniques.saison_3.episode_6.ou_est_balthazar" GUID="iI1H32FeV0mXpKBWEN0Ynw==" iconFile="Img\Guide.png" iconSize="0.75" heightOffset="0"/>
+			<POI MapID="1202" xpos="156.866" ypos="18.4457" zpos="-498.227" type="astuces.chroniques.saison_3.episode_6.ou_est_balthazar" GUID="qCupODiA5k2NHdaQNn+JiA==" iconFile="Img\Guide.png" iconSize="0.75" heightOffset="0"/>
+			<POI MapID="1202" xpos="156.294" ypos="20.0631" zpos="-494.596" type="astuces.chroniques.saison_3.episode_6.ou_est_balthazar" GUID="7Hb5lzex9U6Ojtgn5cEdhQ==" iconFile="Img\Guide.png" iconSize="0.75" heightOffset="0"/>
+			<POI MapID="1202" xpos="154.099" ypos="21.067"  zpos="-489.703" type="astuces.chroniques.saison_3.episode_6.ou_est_balthazar" GUID="+auAsEjPAEyx36YgTw41YQ==" iconFile="Img\Guide.png" iconSize="0.75" heightOffset="0"/>
+			<POI MapID="1202" xpos="156.145" ypos="23.2995" zpos="-486.334" type="astuces.chroniques.saison_3.episode_6.ou_est_balthazar" GUID="2+pO5YKAI0m7JDQBH8789A==" iconFile="Img\Guide.png" iconSize="0.75" heightOffset="0"/>
+			<POI MapID="1202" xpos="159.75"  ypos="24.3066" zpos="-483.526" type="astuces.chroniques.saison_3.episode_6.ou_est_balthazar" GUID="Dplm+Ibvv0WIwqHumHdSEA==" iconFile="Img\Guide.png" iconSize="0.75" heightOffset="0"/>
+			<POI MapID="1202" xpos="162.547" ypos="25.3189" zpos="-483.001" type="astuces.chroniques.saison_3.episode_6.ou_est_balthazar" GUID="eTV18vQEI0Gs+gf3Gdlnvg==" iconFile="Img\Guide.png" iconSize="0.75" heightOffset="0"/>
+			<POI MapID="1202" xpos="166.124" ypos="26.7456" zpos="-480.096" type="astuces.chroniques.saison_3.episode_6.ou_est_balthazar" GUID="IVJzQXSN+UW2202sAPNNtQ==" iconFile="Img\Guide.png" iconSize="0.75" heightOffset="0"/>
+			<POI MapID="1202" xpos="170.697" ypos="28.1897" zpos="-481.491" type="astuces.chroniques.saison_3.episode_6.ou_est_balthazar" GUID="BcOCt2JHs02JGKrJ799YsQ==" iconFile="Img\Guide.png" iconSize="0.75" heightOffset="0"/>
+			<POI MapID="1202" xpos="170.785" ypos="30.5124" zpos="-485.248" type="astuces.chroniques.saison_3.episode_6.ou_est_balthazar" GUID="UKv2aFD29EiHsyH6AZyTCQ==" iconFile="Img\Guide.png" iconSize="0.75" heightOffset="0"/>
+			<POI MapID="1202" xpos="168.027" ypos="30.4773" zpos="-491.085" type="astuces.chroniques.saison_3.episode_6.ou_est_balthazar" GUID="SzaEl9gFxEe7p6DzzcefGQ==" iconFile="Img\Guide.png" iconSize="0.75" heightOffset="0"/>
+			<POI MapID="1202" xpos="162.241" ypos="32.1833" zpos="-493.576" type="astuces.chroniques.saison_3.episode_6.ou_est_balthazar" GUID="tLr3fgv0eEK6LFH1qRRczg==" iconFile="Img\Guide.png" iconSize="0.75" heightOffset="0"/>
+			<POI MapID="1202" xpos="158.525" ypos="33.9711" zpos="-489.18"  type="astuces.chroniques.saison_3.episode_6.ou_est_balthazar" GUID="7llFaA0jYE+cY4J0gAb4KA==" iconFile="Img\Guide.png" iconSize="0.75" heightOffset="0"/>
+			<POI MapID="1202" xpos="153.191" ypos="34.9455" zpos="-485.732" type="astuces.chroniques.saison_3.episode_6.ou_est_balthazar" GUID="WvDjzdbwyk+8wAz3YQstQA==" iconFile="Img\Guide.png" iconSize="0.75" heightOffset="0"/>
+			<POI MapID="1202" xpos="153.91"  ypos="36.6566" zpos="-481.649" type="astuces.chroniques.saison_3.episode_6.ou_est_balthazar" GUID="3HkC5ziy1Ee3+RFggAmIAw==" iconFile="Img\Guide.png" iconSize="0.75" heightOffset="0"/>
+			<POI MapID="1202" xpos="154.493" ypos="36.6799" zpos="-474.293" type="astuces.chroniques.saison_3.episode_6.ou_est_balthazar" GUID="IEUB3nkMYEOCs2dINoiWnQ==" iconFile="Img\Guide.png" iconSize="0.75" heightOffset="0"/>
+			<POI MapID="1202" xpos="155.255" ypos="37.4591" zpos="-469.455" type="astuces.chroniques.saison_3.episode_6.ou_est_balthazar" GUID="bMLTFUkHgkqbDBZq/O2Wjw==" iconFile="Img\Guide.png" iconSize="0.75" heightOffset="0"/>
+			<POI MapID="1202" xpos="155.847" ypos="36.4577" zpos="-460.78"  type="astuces.chroniques.saison_3.episode_6.ou_est_balthazar" GUID="/Nd4a0l93EKreUPxLWs9GQ==" iconFile="Img\Guide.png" iconSize="0.75" heightOffset="0"/>
+			<POI MapID="1202" xpos="154.884" ypos="39.5711" zpos="-454.764" type="astuces.chroniques.saison_3.episode_6.ou_est_balthazar" GUID="0ViX0tqeGECynuKCgSvdyA==" iconFile="Img\Guide.png" iconSize="0.75" heightOffset="0"/>
+			<POI MapID="1202" xpos="157.622" ypos="40.6385" zpos="-449.952" type="astuces.chroniques.saison_3.episode_6.ou_est_balthazar" GUID="BrkCB0lVxkaue3soJ/iODQ==" iconFile="Img\Guide.png" iconSize="0.75" heightOffset="0"/>
+			<POI MapID="1202" xpos="162.872" ypos="42.5003" zpos="-443.221" type="astuces.chroniques.saison_3.episode_6.ou_est_balthazar" GUID="L5O+Kq30hkS8UeffJxI7Sw==" iconFile="Img\Guide.png" iconSize="0.75" heightOffset="0"/>
+			<POI MapID="1202" xpos="164.614" ypos="42.6441" zpos="-436.473" type="astuces.chroniques.saison_3.episode_6.ou_est_balthazar" GUID="d8qtEkapnEe9SKvZJf7jaQ==" iconFile="Img\Guide.png" iconSize="0.75" heightOffset="0"/>
+			<POI MapID="1202" xpos="166.807" ypos="44.2884" zpos="-429.012" type="astuces.chroniques.saison_3.episode_6.ou_est_balthazar" GUID="pprn1qF2b0yeL0SFwc6u+g==" iconFile="Img\Guide.png" iconSize="0.75" heightOffset="0"/>
+			<POI MapID="1202" xpos="172.504" ypos="46.9854" zpos="-426.913" type="astuces.chroniques.saison_3.episode_6.ou_est_balthazar" GUID="Ghh0pnQIXE2PWaoeE8APPg==" iconFile="Img\Guide.png" iconSize="0.75" heightOffset="0"/>
+			<POI MapID="1202" xpos="181.598" ypos="47.0355" zpos="-425.107" type="astuces.chroniques.saison_3.episode_6.ou_est_balthazar" GUID="x7PUH+3LB0qzdm+vtY847Q==" iconFile="Img\Guide.png" iconSize="0.75" heightOffset="0"/>
+			<POI MapID="1202" xpos="188.911" ypos="47.2391" zpos="-422.417" type="astuces.chroniques.saison_3.episode_6.ou_est_balthazar" GUID="IZGShVYgjkOVEHYt2h+00w==" iconFile="Img\Guide.png" iconSize="0.75" heightOffset="0"/>
+			<POI MapID="1202" xpos="197.583" ypos="47.5864" zpos="-421.395" type="astuces.chroniques.saison_3.episode_6.ou_est_balthazar" GUID="anVDVoJoVkGTYCfOVOY6lA==" iconFile="Img\Guide.png" iconSize="0.75" heightOffset="0"/>
+			<POI MapID="1202" xpos="205.643" ypos="47.722"  zpos="-421.868" type="astuces.chroniques.saison_3.episode_6.ou_est_balthazar" GUID="/bcKseTOZUaajbBJEy0Ztw==" iconFile="Img\Guide.png" iconSize="0.75" heightOffset="0"/>
+			<POI MapID="1202" xpos="213.321" ypos="48.1851" zpos="-422.298" type="astuces.chroniques.saison_3.episode_6.ou_est_balthazar" GUID="TtMtLYWsmUWdcYdNHhnrTQ==" iconFile="Img\Guide.png" iconSize="0.75" heightOffset="0"/>
+			<POI MapID="1202" xpos="220.3"   ypos="50.9554" zpos="-422.246" type="astuces.chroniques.saison_3.episode_6.ou_est_balthazar" GUID="LTklw9Fr8kSQ3WIl1wKEZQ==" iconFile="Img\Guide.png" iconSize="0.75" heightOffset="0"/>
+			<POI MapID="1202" xpos="219.888" ypos="53.3813" zpos="-430.506" type="astuces.chroniques.saison_3.episode_6.ou_est_balthazar" GUID="DQkyxPEMEUCMd/9P1ZvFeA==" iconFile="Img\Guide.png" iconSize="0.75" heightOffset="0"/>
+			<POI MapID="1202" xpos="219.499" ypos="54.6046" zpos="-439.358" type="astuces.chroniques.saison_3.episode_6.ou_est_balthazar" GUID="1OqDf1NlMEK7VPrB5gy8GQ==" iconFile="Img\Guide.png" iconSize="0.75" heightOffset="0"/>
+			<POI MapID="1202" xpos="219.875" ypos="55.2149" zpos="-450.897" type="astuces.chroniques.saison_3.episode_6.ou_est_balthazar" GUID="dEUnjwMXKkypDP+4FPRSlA==" iconFile="Img\Guide.png" iconSize="0.75" heightOffset="0"/>
+			<POI MapID="1202" xpos="220.169" ypos="57.7741" zpos="-457.108" type="astuces.chroniques.saison_3.episode_6.ou_est_balthazar" GUID="Zkg31Z8wU0yqX1OROhVuZg==" iconFile="Img\Guide.png" iconSize="0.75" heightOffset="0"/>
+			<POI MapID="1202" xpos="224.326" ypos="62.9268" zpos="-458.325" type="astuces.chroniques.saison_3.episode_6.ou_est_balthazar" GUID="Qs0UdmZHCUy/4QU4CVY/OA==" iconFile="Img\Guide.png" iconSize="0.75" heightOffset="0"/>
+			<POI MapID="1202" xpos="230.988" ypos="68.3364" zpos="-457.62"  type="astuces.chroniques.saison_3.episode_6.ou_est_balthazar" GUID="zGe6mWGW20uhffQhVPPbXA==" iconFile="Img\Guide.png" iconSize="0.75" heightOffset="0"/>
+			<POI MapID="1202" xpos="235.232" ypos="72.3063" zpos="-458.264" type="astuces.chroniques.saison_3.episode_6.ou_est_balthazar" GUID="w+7sBXH5JUKnZ01w/Dz0lw==" iconFile="Img\Guide.png" iconSize="0.75" heightOffset="0"/>
+			<POI MapID="1202" xpos="238.584" ypos="70.0401" zpos="-464.211" type="astuces.chroniques.saison_3.episode_6.ou_est_balthazar" GUID="bYerNaJBC0WzAKRQxJ2Ztw==" iconFile="Img\Guide.png" iconSize="0.75" heightOffset="0"/>
+			<POI MapID="1202" xpos="242.831" ypos="70.3641" zpos="-469.842" type="astuces.chroniques.saison_3.episode_6.ou_est_balthazar" GUID="52Q5SvWj/U681CI+8s6EKQ==" iconFile="Img\Guide.png" iconSize="0.75" heightOffset="0"/>
+			<POI MapID="1202" xpos="248.113" ypos="70.9201" zpos="-472.265" type="astuces.chroniques.saison_3.episode_6.ou_est_balthazar" GUID="ixxkiYm+g0+wUnyyGO3j7Q==" iconFile="Img\Guide.png" iconSize="0.75" heightOffset="0"/>
+			<POI MapID="1202" xpos="252.708" ypos="74.4167" zpos="-474.392" type="astuces.chroniques.saison_3.episode_6.ou_est_balthazar" GUID="YZOw9RVlnU2dwFDGehZcgw==" iconFile="Img\Guide.png" iconSize="0.75" heightOffset="0"/>
+			<POI MapID="1202" xpos="253.087" ypos="76.1301" zpos="-478.578" type="astuces.chroniques.saison_3.episode_6.ou_est_balthazar" GUID="FuTbIeCigEOGt1v/jk6R2g==" iconFile="Img\Guide.png" iconSize="0.75" heightOffset="0"/>
+			<POI MapID="1202" xpos="255.553" ypos="77.6563" zpos="-480.244" type="astuces.chroniques.saison_3.episode_6.ou_est_balthazar" GUID="TKZPkRDccUSb8XmK5oKZ8g==" iconFile="Img\Guide.png" iconSize="0.75" heightOffset="0"/>
+			<POI MapID="1202" xpos="257.334" ypos="80.0595" zpos="-482.775" type="astuces.chroniques.saison_3.episode_6.ou_est_balthazar" GUID="8ka5PIwFv0GxoZSaJ6vYBg==" iconFile="Img\Guide.png" iconSize="0.75" heightOffset="0"/>
+			<POI MapID="1202" xpos="257.61"  ypos="78.5925" zpos="-486.607" type="astuces.chroniques.saison_3.episode_6.ou_est_balthazar" GUID="LFoRdn12e0+JfpP7wZALag==" iconFile="Img\Guide.png" iconSize="0.75" heightOffset="0"/>
+			<POI MapID="1202" xpos="256.169" ypos="78.2871" zpos="-493.895" type="astuces.chroniques.saison_3.episode_6.ou_est_balthazar" GUID="Uu+ZoE4kk028zm3sEMLOcg==" iconFile="Img\Guide.png" iconSize="0.75" heightOffset="0"/>
+			<POI MapID="1202" xpos="253.944" ypos="79.9558" zpos="-501.978" type="astuces.chroniques.saison_3.episode_6.ou_est_balthazar" GUID="PxQXURDBe0qU3E/A5QaBYg==" iconFile="Img\Guide.png" iconSize="0.75" heightOffset="0"/>
+			<POI MapID="1202" xpos="252.468" ypos="82.232"  zpos="-508.504" type="astuces.chroniques.saison_3.episode_6.ou_est_balthazar" GUID="zgHAiLnOwESOjxProD8oVg==" iconFile="Img\Guide.png" iconSize="0.75" heightOffset="0"/>
+			<POI MapID="1202" xpos="250.577" ypos="85.283"  zpos="-514.584" type="astuces.chroniques.saison_3.episode_6.ou_est_balthazar" GUID="sNHy2LlybEqo1beTmjamRw==" iconFile="Img\Guide.png" iconSize="0.75" heightOffset="0"/>
+			<POI MapID="1202" xpos="249.677" ypos="87.4908" zpos="-518.355" type="astuces.chroniques.saison_3.episode_6.ou_est_balthazar" GUID="ftDIe/RXlUWQYp3qiBC4uA==" iconFile="Img\Guide.png" iconSize="0.75" heightOffset="0"/>
+			<POI MapID="1202" xpos="245.751" ypos="89.3171" zpos="-521.27"  type="astuces.chroniques.saison_3.episode_6.ou_est_balthazar" GUID="tefrqfPI/kSCHO9jSLJfxQ==" iconFile="Img\Guide.png" iconSize="0.75" heightOffset="0"/>
+			<POI MapID="1202" xpos="249.044" ypos="91.3431" zpos="-526.557" type="astuces.chroniques.saison_3.episode_6.ou_est_balthazar" GUID="KrF65jOwy0OmFkhtxZAd6w==" iconFile="Img\Guide.png" iconSize="0.75" heightOffset="0"/>
+			<POI MapID="1202" xpos="252.923" ypos="94.7626" zpos="-523.281" type="astuces.chroniques.saison_3.episode_6.ou_est_balthazar" GUID="+mn6KeQh6kWznhZF3qVr0w==" iconFile="Img\Guide.png" iconSize="0.75" heightOffset="0"/>
+			<POI MapID="1202" xpos="253.418" ypos="95.2363" zpos="-515.509" type="astuces.chroniques.saison_3.episode_6.ou_est_balthazar" GUID="b9Jtn228g0G2ZsjDFIgZcw==" iconFile="Img\Guide.png" iconSize="0.75" heightOffset="0"/>
+			<POI MapID="1202" xpos="254.431" ypos="93.0703" zpos="-510.338" type="astuces.chroniques.saison_3.episode_6.ou_est_balthazar" GUID="GB80fV3Y3USj3ElseUJnmQ==" iconFile="Img\Guide.png" iconSize="0.75" heightOffset="0"/>
+			<POI MapID="1202" xpos="254.314" ypos="91.763"  zpos="-503.02"  type="astuces.chroniques.saison_3.episode_6.ou_est_balthazar" GUID="0jtfvnDQuEazvxb1N8/+lg==" iconFile="Img\Guide.png" iconSize="0.75" heightOffset="0"/>
+			<POI MapID="1202" xpos="254.477" ypos="92.6695" zpos="-494.531" type="astuces.chroniques.saison_3.episode_6.ou_est_balthazar" GUID="GZxSDt3960+4PXQ4iDZ2GA==" iconFile="Img\Guide.png" iconSize="0.75" heightOffset="0"/>
+			<POI MapID="1202" xpos="254.43"  ypos="95.0244" zpos="-487.863" type="astuces.chroniques.saison_3.episode_6.ou_est_balthazar" GUID="Dh+AN+4LbkqZsWzxPrCYHQ==" iconFile="Img\Guide.png" iconSize="0.75" heightOffset="0"/>
+			<POI MapID="1202" xpos="254.617" ypos="98.1557" zpos="-481.549" type="astuces.chroniques.saison_3.episode_6.ou_est_balthazar" GUID="V6MpDo/NA0yUGEJN8ZNjEA==" iconFile="Img\Guide.png" iconSize="0.75" heightOffset="0"/>
+			<POI MapID="1202" xpos="254.354" ypos="100.288" zpos="-478.235" type="astuces.chroniques.saison_3.episode_6.ou_est_balthazar" GUID="sMSTKqAAgEmkbNz/O5haNg==" iconFile="Img\Guide.png" iconSize="0.75" heightOffset="0"/>
+			<POI MapID="1202" xpos="252.283" ypos="99.7332" zpos="-473.347" type="astuces.chroniques.saison_3.episode_6.ou_est_balthazar" GUID="AawjuUCi5UCxVUksyYTxXg==" iconFile="Img\Guide.png" iconSize="0.75" heightOffset="0"/>
+			<POI MapID="1202" xpos="248.382" ypos="99.7353" zpos="-466.125" type="astuces.chroniques.saison_3.episode_6.ou_est_balthazar" GUID="8Onl8eiJe0Oq9E1YH1v04Q==" iconFile="Img\Guide.png" iconSize="0.75" heightOffset="0"/>
+			<POI MapID="1202" xpos="245.536" ypos="99.6301" zpos="-459.271" type="astuces.chroniques.saison_3.episode_6.ou_est_balthazar" GUID="f62l64lGGUCaSnebpOw+8g==" iconFile="Img\Guide.png" iconSize="0.75" heightOffset="0"/>
+			<POI MapID="1202" xpos="241.453" ypos="100.087" zpos="-452.468" type="astuces.chroniques.saison_3.episode_6.ou_est_balthazar" GUID="/gSwJAWKBEi+L1f/AAVvAQ==" iconFile="Img\Guide.png" iconSize="0.75" heightOffset="0"/>
+			<POI MapID="1202" xpos="236.578" ypos="99.8489" zpos="-446.268" type="astuces.chroniques.saison_3.episode_6.ou_est_balthazar" GUID="B6iAEcxT2E6EawoHNh2f7w==" iconFile="Img\Guide.png" iconSize="0.75" heightOffset="0"/>
+			<POI MapID="1202" xpos="233.01"  ypos="100.254" zpos="-440.3"   type="astuces.chroniques.saison_3.episode_6.ou_est_balthazar" GUID="kMlb7Syiyk+ydPH19LbtYQ==" iconFile="Img\Guide.png" iconSize="0.75" heightOffset="0"/>
+			<POI MapID="1202" xpos="229.847" ypos="100.166" zpos="-432.423" type="astuces.chroniques.saison_3.episode_6.ou_est_balthazar" GUID="AWs5BtpHh0uKPJMrQj8xSg==" iconFile="Img\Guide.png" iconSize="0.75" heightOffset="0"/>
+			<POI MapID="1202" xpos="225.045" ypos="101.112" zpos="-429.543" type="astuces.chroniques.saison_3.episode_6.ou_est_balthazar" GUID="SPyYCwfnlk6BL1H4lO0hSg==" iconFile="Img\Guide.png" iconSize="0.75" heightOffset="0"/>
+			<POI MapID="1202" xpos="220.445" ypos="103.185" zpos="-430.796" type="astuces.chroniques.saison_3.episode_6.ou_est_balthazar" GUID="v8dIDmG9ykiVRsRqZj5bLw==" iconFile="Img\Guide.png" iconSize="0.75" heightOffset="0"/>
+			<POI MapID="1202" xpos="215.222" ypos="103.489" zpos="-433.424" type="astuces.chroniques.saison_3.episode_6.ou_est_balthazar" GUID="HniFCW6f7ESF/TcDPEk/Hw==" iconFile="Img\Guide.png" iconSize="0.75" heightOffset="0"/>
+			<POI MapID="1202" xpos="212.486" ypos="105.837" zpos="-430.565" type="astuces.chroniques.saison_3.episode_6.ou_est_balthazar" GUID="/2TcFHzxI0iaZcw5Z6krzA==" iconFile="Img\Guide.png" iconSize="0.75" heightOffset="0"/>
+			<POI MapID="1202" xpos="211.026" ypos="108.378" zpos="-426.372" type="astuces.chroniques.saison_3.episode_6.ou_est_balthazar" GUID="DfT/RyWB/kSiBKiuiEJEhA==" iconFile="Img\Guide.png" iconSize="0.75" heightOffset="0"/>
+			<POI MapID="1202" xpos="211.653" ypos="110.803" zpos="-418.696" type="astuces.chroniques.saison_3.episode_6.ou_est_balthazar" GUID="5QYJHBlIRkKsNKweklkm9g==" iconFile="Img\Guide.png" iconSize="0.75" heightOffset="0"/>
+			<POI MapID="1202" xpos="215.409" ypos="112.395" zpos="-413.594" type="astuces.chroniques.saison_3.episode_6.ou_est_balthazar" GUID="sThFdnYApkaSVX8s+ViSsA==" iconFile="Img\Guide.png" iconSize="0.75" heightOffset="0"/>
+			<POI MapID="1202" xpos="219.647" ypos="115.362" zpos="-416.58"  type="astuces.chroniques.saison_3.episode_6.ou_est_balthazar" GUID="c7byj6dDPkmEIm1vrbOe9w==" iconFile="Img\Guide.png" iconSize="0.75" heightOffset="0"/>
+			<POI MapID="1202" xpos="224.516" ypos="117.911" zpos="-417.268" type="astuces.chroniques.saison_3.episode_6.ou_est_balthazar" GUID="+h5j49rl1EuB7XL6EAuNvw==" iconFile="Img\Guide.png" iconSize="0.75" heightOffset="0"/>
+			<POI MapID="1202" xpos="228.494" ypos="118.668" zpos="-411.85"  type="astuces.chroniques.saison_3.episode_6.ou_est_balthazar" GUID="kO2FMRU8rUq5V7MfavbSpA==" iconFile="Img\Destination.png" iconSize="0.75" heightOffset="0"/>
+		</Route>
+
+
+		<!-- Pièges du combat final -->
+		<POI MapID="1202" xpos="98.1875" ypos="150.359" zpos="-246.381" type="astuces.chroniques.saison_3.episode_6.ou_est_balthazar" GUID="r4odM1XKQUCorTGPeTOEZg==" iconFile="Img\1.png" iconSize="0.5" color="ff0000ff" heightOffset="0"/>
+		<POI MapID="1202" xpos="86.9758" ypos="150.357" zpos="-237.871" type="astuces.chroniques.saison_3.episode_6.ou_est_balthazar" GUID="rxdysRgH0EOz6+9ISrlITA==" iconFile="Img\2.png" iconSize="0.5" color="ff0000ff" heightOffset="0"/>
+		<POI MapID="1202" xpos="97.1862" ypos="150.357" zpos="-229.208" type="astuces.chroniques.saison_3.episode_6.ou_est_balthazar" GUID="pyxCdjkJxk67p/fknQn2jg==" iconFile="Img\3.png" iconSize="0.5" color="ff0000ff" heightOffset="0"/>
+		<POI MapID="1202" xpos="86.5491" ypos="150.357" zpos="-229.617" type="astuces.chroniques.saison_3.episode_6.ou_est_balthazar" GUID="z59BkPoJbUyGQBrc8qlvGg==" iconFile="Img\4.png" iconSize="0.5" color="ff0000ff" heightOffset="0"/>
+
+	</POIs>
+</OverlayData>

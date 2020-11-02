@@ -1,0 +1,148 @@
+<!-- 2020.06.25 -->
+<OverlayData>
+	<POIs>
+
+			<!-- BURN THEM ALL -->
+		<POI MapID="326" xpos="-138.014" ypos="270.519" zpos="236.376" type="festivals.burn_them_all" GUID="LXJdJQ1TBke+pHSrYfz2VA=="/>
+		<POI MapID="326" xpos="-155.229" ypos="273.212" zpos="244.9"   type="festivals.burn_them_all" GUID="xDH0Z3loWE2EIGInvTJ3FQ=="/>
+		<POI MapID="326" xpos="-158.444" ypos="273.044" zpos="215.445" type="festivals.burn_them_all" GUID="dseHAFYcekytfgR6+W/1zw=="/>
+		<POI MapID="326" xpos="-171.548" ypos="273.135" zpos="232.775" type="festivals.burn_them_all" GUID="hxaX1tI4BUKo9P1duApMBg=="/>
+
+			<!-- COLOR THE SKY -->
+		<Trail type="festivals.color_the_sky.trail" GUID="B9pz+2WC9kmn3uvHWVXJzA==" trailData="Data/Festivals/DragonBash/Fireworks.trl" texture="Data/Arrow.png" color="ffff8800" alpha="0.8" fadeNear="3000" fadeFar="4000" animSpeed="0"/>
+		<POI MapID="326" xpos="181.856"  ypos="301.971" zpos="-41.2566" type="festivals.color_the_sky.trail"     GUID="u0tZTNMDKkaMRLTrmB0qZg==" iconFile="Img/Festivals/FireworksStart.png" minSize="24" maxSize="48" heightOffset="1.5"/>
+		<POI MapID="326" xpos="-255.284" ypos="289.287" zpos="223.37"   type="festivals.color_the_sky.fireworks" GUID="+wiMVNBqTEiWfUldpuC3rA=="/>
+		<POI MapID="326" xpos="-252.512" ypos="290.945" zpos="211.536"  type="festivals.color_the_sky.fireworks" GUID="L37sxaKklUuaI6ImLf3MmQ=="/>
+		<POI MapID="326" xpos="-227.703" ypos="285.628" zpos="118.568"  type="festivals.color_the_sky.fireworks" GUID="bJQmCDcspUCYN2Gp9q34Jw=="/>
+		<POI MapID="326" xpos="-222.095" ypos="290.662" zpos="139.509"  type="festivals.color_the_sky.fireworks" GUID="qED1zoWghEOz9aUTlMZXIQ=="/>
+		<POI MapID="326" xpos="24.01"    ypos="336.434" zpos="-80.3228" type="festivals.color_the_sky.fireworks" GUID="YAmHX8uVikiEMIqODY0KBQ=="/>
+		<POI MapID="326" xpos="47.2467"  ypos="303.193" zpos="-8.77798" type="festivals.color_the_sky.fireworks" GUID="9ZDFdrPBhEenZgdPLUZbXQ=="/>
+		<POI MapID="326" xpos="61.595"   ypos="336.39"  zpos="-77.721"  type="festivals.color_the_sky.fireworks" GUID="xJ3ktcmC906tfhn6aCbJMg=="/>
+		<POI MapID="326" xpos="61.7057"  ypos="250.299" zpos="110.785"  type="festivals.color_the_sky.fireworks" GUID="EOiGcqozdkSsWCxYqSaCDQ=="/>
+		<POI MapID="326" xpos="69.0861"  ypos="250.255" zpos="149.7"    type="festivals.color_the_sky.fireworks" GUID="fDLcaWWLiUaj+NNeYd9tRA=="/>
+		<POI MapID="326" xpos="93.1276"  ypos="336.334" zpos="-79.5495" type="festivals.color_the_sky.fireworks" GUID="EKwbLnkoCE6s6XgCcgkL4w=="/>
+		<POI MapID="326" xpos="97.7794"  ypos="303.197" zpos="-9.17323" type="festivals.color_the_sky.fireworks" GUID="UNKdVRkEOE+awHTyKKxUTw=="/>
+		<POI MapID="326" xpos="162.433"  ypos="303.059" zpos="-30.5855" type="festivals.color_the_sky.fireworks" GUID="jSdjqgOUI02zHWitaBQCUQ=="/>
+		<POI MapID="326" xpos="173.258"  ypos="336.416" zpos="-117.93"  type="festivals.color_the_sky.fireworks" GUID="n/5OjQGhrU2xrSjvtCo50w=="/>
+		<POI MapID="326" xpos="190.276"  ypos="336.296" zpos="-129.285" type="festivals.color_the_sky.fireworks" GUID="nqTr7DrRe06eLusv5Oq1uA=="/>
+		<POI MapID="326" xpos="202.442"  ypos="336.21"  zpos="-142.791" type="festivals.color_the_sky.fireworks" GUID="sTs1e5QX+0S23Nz8AqxpEg=="/>
+		<POI MapID="326" xpos="207.705"  ypos="303.145" zpos="-56.0409" type="festivals.color_the_sky.fireworks" GUID="Mm7ZDDzXxkSHjBKrXR1KKQ=="/>
+		<POI MapID="326" xpos="224.447"  ypos="265.728" zpos="240.159"  type="festivals.color_the_sky.fireworks" GUID="UzOuKd3KGkSLgbizlkQpBw=="/>
+		<POI MapID="326" xpos="232.002"  ypos="336.246" zpos="-190.461" type="festivals.color_the_sky.fireworks" GUID="ARHvqf+cs0+3kdDwZyd/mA=="/>
+		<POI MapID="326" xpos="245.841"  ypos="334.07"  zpos="-233.818" type="festivals.color_the_sky.fireworks" GUID="HIZt+y8nEkqIr2NPepcrLg=="/>
+		<POI MapID="326" xpos="253.902"  ypos="303.318" zpos="-97.2097" type="festivals.color_the_sky.fireworks" GUID="Xk7/pvHIDkWOm++UHgKKaw=="/>
+		<POI MapID="326" xpos="264.644"  ypos="266.392" zpos="241.128"  type="festivals.color_the_sky.fireworks" GUID="knaDb0cTgku3Jqs1d58/Bg=="/>
+		<POI MapID="326" xpos="282.348"  ypos="302.96"  zpos="-139.214" type="festivals.color_the_sky.fireworks" GUID="PekJ15SaTE2+L5q2Gfpkcg=="/>
+		<POI MapID="326" xpos="377.958"  ypos="252.257" zpos="-68.7457" type="festivals.color_the_sky.fireworks" GUID="NT60zJzrsEG0NupnZiOhFQ=="/>
+		<POI MapID="326" xpos="401.351"  ypos="251.158" zpos="-50.9281" type="festivals.color_the_sky.fireworks" GUID="wQkSxV3p0EyR5vx808Tfxw=="/>
+		<POI MapID="326" xpos="415.34"   ypos="218.435" zpos="184.057"  type="festivals.color_the_sky.fireworks" GUID="BJoikGa4z0aXjATobDDaMA=="/>
+		<POI MapID="326" xpos="434.498"  ypos="220.33"  zpos="149.823"  type="festivals.color_the_sky.fireworks" GUID="PGSMj6nyuEyh8j2mJnVM/A=="/>
+		<POI MapID="326" xpos="457.563"  ypos="279.23"  zpos="-27.111"  type="festivals.color_the_sky.fireworks" GUID="EormPMyM/ESCcBuHn2CcmQ=="/>
+		<POI MapID="326" xpos="462.924"  ypos="279.028" zpos="-13.2421" type="festivals.color_the_sky.fireworks" GUID="XZV70WjQRkelVffR6i2wVA=="/>
+		<POI MapID="326" xpos="463.197"  ypos="310.054" zpos="-202.9"   type="festivals.color_the_sky.fireworks" GUID="OqdBu1jgykimLhg/x0tO+A=="/>
+		<POI MapID="326" xpos="466.898"  ypos="308.233" zpos="-173.452" type="festivals.color_the_sky.fireworks" GUID="sUbqxTItAU6Q+d8H0/UGXA=="/>
+		<POI MapID="326" xpos="535.033"  ypos="258.317" zpos="16.7402"  type="festivals.color_the_sky.fireworks" GUID="8LBvt3by6EC0E0EMBnEr2g=="/>
+		<POI MapID="326" xpos="540.723"  ypos="256.226" zpos="43.1801"  type="festivals.color_the_sky.fireworks" GUID="pjbF+qkrq0OvebxbGJXxAQ=="/>
+
+			<!-- PAPER DRAGON -->
+		<Trail type="festivals.paper_dragon.trail" GUID="wLfd4vBYyEC/PBfwcZX/8g==" trailData="Data/Festivals/DragonBash/Pinatas.trl" texture="Data/Arrow.png" color="ff00bbff" alpha="0.8" fadeNear="3000" fadeFar="4000" animSpeed="0"/>
+		<POI MapID="326" xpos="-56.1211" ypos="313.89"  zpos="-36.6388" type="festivals.paper_dragon.trail"   GUID="gC96VUWD8E6Ot60giIkM9g==" iconFile="Img/Festivals/PinatasStart.png" minSize="24" maxSize="48" heightOffset="1.5"/>
+		<POI MapID="326" xpos="-191.988" ypos="286.037" zpos="58.0987"  type="festivals.paper_dragon.pinatas" GUID="qMPWVc6uHEOwXGIwe1hz2g=="/>
+		<POI MapID="326" xpos="-176.092" ypos="287.28"  zpos="122.14"   type="festivals.paper_dragon.pinatas" GUID="QuA9SJynPUenWZ5h9gQMVw=="/>
+		<POI MapID="326" xpos="-157.629" ypos="289.377" zpos="49.4241"  type="festivals.paper_dragon.pinatas" GUID="18GcgBO2wEOd+n4PlHAHOQ=="/>
+		<POI MapID="326" xpos="-138.714" ypos="291.968" zpos="112.315"  type="festivals.paper_dragon.pinatas" GUID="oe0ZZzpGuUm3y7fEgGdmJg=="/>
+		<POI MapID="326" xpos="-54.4983" ypos="313.396" zpos="-20.8951" type="festivals.paper_dragon.pinatas" GUID="WDiXKJywKUSFRG4Tvyf28w=="/>
+		<POI MapID="326" xpos="-46.6036" ypos="315.169" zpos="-49.0488" type="festivals.paper_dragon.pinatas" GUID="i8aYJjxLP0GtaruX3x4ojQ=="/>
+		<POI MapID="326" xpos="19.9617"  ypos="335.279" zpos="-125.14"  type="festivals.paper_dragon.pinatas" GUID="F4RZ5TAnxE2LPpqIPPVy2w=="/>
+		<POI MapID="326" xpos="28.6663"  ypos="335.247" zpos="-135.928" type="festivals.paper_dragon.pinatas" GUID="6+EqKXwxPUeD8K4LqFlclw=="/>
+		<POI MapID="326" xpos="82.5931"  ypos="301.969" zpos="-189.945" type="festivals.paper_dragon.pinatas" GUID="6YZI0e7yTkWDz92xWSqgcQ=="/>
+		<POI MapID="326" xpos="106.688"  ypos="301.969" zpos="-202.862" type="festivals.paper_dragon.pinatas" GUID="9R7ui/msT0Ghop1Pezrffg=="/>
+		<POI MapID="326" xpos="135.919"  ypos="277.442" zpos="-88.5666" type="festivals.paper_dragon.pinatas" GUID="NuBceG+l9EOvIztAoDeM0A=="/>
+		<POI MapID="326" xpos="160.568"  ypos="277.442" zpos="-113.67"  type="festivals.paper_dragon.pinatas" GUID="jGaDGjuUAkCNQuOqeRoSWA=="/>
+		<POI MapID="326" xpos="173.329"  ypos="233.285" zpos="47.7015"  type="festivals.paper_dragon.pinatas" GUID="tuKJwmc9gUWip+RhOaK4CQ=="/>
+		<POI MapID="326" xpos="181.938"  ypos="335.244" zpos="-220.222" type="festivals.paper_dragon.pinatas" GUID="OvukZmAzeU6OW9V3C2+QLQ=="/>
+		<POI MapID="326" xpos="190.486"  ypos="233.421" zpos="148.536"  type="festivals.paper_dragon.pinatas" GUID="xuhal5DWMUazSazPnGlu4A=="/>
+		<POI MapID="326" xpos="193.252"  ypos="232.014" zpos="13.2793"  type="festivals.paper_dragon.pinatas" GUID="2wAlIgZS8UO2JED5G+DRMA=="/>
+		<POI MapID="326" xpos="195.906"  ypos="335.46"  zpos="-221.377" type="festivals.paper_dragon.pinatas" GUID="3nLwYmb5skGwJe0mtE2Psw=="/>
+		<POI MapID="326" xpos="219.884"  ypos="232.281" zpos="-1.54371" type="festivals.paper_dragon.pinatas" GUID="gA0qDvuAlk+ZvGjOC3XJbA=="/>
+		<POI MapID="326" xpos="264.85"   ypos="233.044" zpos="0.334569" type="festivals.paper_dragon.pinatas" GUID="qHTsvJTvEk25CMpU7N+1qA=="/>
+		<POI MapID="326" xpos="291.818"  ypos="234.171" zpos="164.115"  type="festivals.paper_dragon.pinatas" GUID="YlIkc0+4w0yUDSDKwgHF3Q=="/>
+		<POI MapID="326" xpos="321.004"  ypos="326.905" zpos="-288.919" type="festivals.paper_dragon.pinatas" GUID="RWUehHIUaUW7hZ5XKp/CLg=="/>
+		<POI MapID="326" xpos="331.485"  ypos="326.365" zpos="-285.013" type="festivals.paper_dragon.pinatas" GUID="0I7/oCCyOU+05oRyQ+KWiw=="/>
+		<POI MapID="326" xpos="337.575"  ypos="232.944" zpos="72.1779"  type="festivals.paper_dragon.pinatas" GUID="Uvoh5rnnMkGjeJ/7BSIYhw=="/>
+		<POI MapID="326" xpos="338.727"  ypos="250.952" zpos="474.533"  type="festivals.paper_dragon.pinatas" GUID="XUzBj16gT0OBD/uim5t4PQ=="/>
+		<POI MapID="326" xpos="349.378"  ypos="250.691" zpos="479.545"  type="festivals.paper_dragon.pinatas" GUID="KqUDOPtep0C0IRNKKa9JJQ=="/>
+		<POI MapID="326" xpos="363.179"  ypos="296.596" zpos="-178.509" type="festivals.paper_dragon.pinatas" GUID="+ixzRTGpH0WOkNUl/pR6AQ=="/>
+		<POI MapID="326" xpos="366.795"  ypos="296.737" zpos="-159.699" type="festivals.paper_dragon.pinatas" GUID="gX6pgKe3l0qXX2K26iKxtQ=="/>
+		<POI MapID="326" xpos="389.269"  ypos="310.569" zpos="-234.027" type="festivals.paper_dragon.pinatas" GUID="QwPtxHiopU6btDzAY3RrIg=="/>
+		<POI MapID="326" xpos="518.864"  ypos="253.871" zpos="55.4031"  type="festivals.paper_dragon.pinatas" GUID="LSds6PjOLkebGoEVNhKayA=="/>
+		<POI MapID="326" xpos="540.026"  ypos="282.005" zpos="-50.509"  type="festivals.paper_dragon.pinatas" GUID="15baVI4yd0yhKKu7RmblZA=="/>
+		<POI MapID="326" xpos="553.384"  ypos="274.657" zpos="-28.3231" type="festivals.paper_dragon.pinatas" GUID="dZUei/S69UuaTOWPXMvYXQ=="/>
+		<POI MapID="326" xpos="631.968"  ypos="245.373" zpos="130.808"  type="festivals.paper_dragon.pinatas" GUID="6jwCYl37TUuZBO3H6F5yuw=="/>
+		<POI MapID="326" xpos="640.156"  ypos="244.464" zpos="147.037"  type="festivals.paper_dragon.pinatas" GUID="zTseKBCQUk6s4RG/zAoYnw=="/>
+		<POI MapID="326" xpos="335.325"  ypos="251.059" zpos="472.788"  type="festivals.paper_dragon.pinatas" GUID="CwmnxaBTx0O5xuniNWWAew==" iconFile="Img/Festivals/PinatasEnd.png" minSize="48" maxSize="64" fadeNear="1200" fadeFar="1500" mapVisibility="0" miniMapVisibility="0"/>
+
+		<!-- QUAGGAN DROOBURT -->
+		<POI MapID="326" xpos="255.934" ypos="231.698" zpos="-15.969" type="festivals.drooburt" GUID="+JrzGCvIn0q0Sr+EapYlOQ=="/>
+
+		<!-- RACE : FESTIVAL RACE -->
+		<Trail type="festivals.dragonbash_race" GUID="BHrg6+F+I0iQmmOZsjh/SA==" trailData="Data/Festivals/DragonBash/FestivalRace.trl" texture="Data/Arrow.png" color="ffffff00" alpha="0.8" fadeNear="5000" fadeFar="6000" animSpeed="0"/>
+		<Trail type="festivals.dragonbash_race" GUID="5IdSjkEktEyS+WtO+Di+wQ==" trailData="Data/Festivals/DragonBash/Race.trl"         texture="Data/Arrow.png" color="ffffff00" alpha="0.8" fadeNear="5000" fadeFar="6000" animSpeed="0"/>
+		<POI MapID="326" xpos="129.234" ypos="302.005" zpos="-59.6607" type="festivals.dragonbash_race" GUID="3hsF8eCgl0m17cAr9bl4xg==" iconFile="Img/Icons/Race.png" maxSize="32" heightOffset="0.5"/>
+
+		<!-- ADVENTURE : TIME TRIAL -->
+		<Trail type="festivals.adventure.time_trial" GUID="I4Fixs/M70KqRgkvFdMWDQ==" trailData="Data/Festivals/DragonBash/TimeTrial.trl" texture="Data/Arrow.png" color="ffffff00" alpha="0.8" fadeNear="5000" fadeFar="6000" animSpeed="0"/>
+		<Trail type="festivals.adventure.time_trial" GUID="L/lZdKhhE0aOzF+G1Cp6Ug==" trailData="Data/Festivals/DragonBash/Race.trl"      texture="Data/Arrow.png" color="ffffff00" alpha="0.8" fadeNear="5000" fadeFar="6000" animSpeed="0"/>
+		<POI MapID="326" xpos="161.767" ypos="301.978" zpos="-50.1885" type="festivals.adventure.time_trial" GUID="AG6QytEbH0KtaVSQtQhzeg==" iconFile="Img/Icons/Adventure.png" maxSize="20" heightOffset="0"/>
+
+		<!-- ADVENTURE : PINATA BASHING -->
+		<Trail type="festivals.adventure.pinata_bashing" GUID="3nlyuC8SukuFuYyXpcx+aw==" trailData="Data/Festivals/DragonBash/PinataBashing.trl" texture="Data/Arrow.png" color="ff00ff00" alpha="0.8" fadeNear="3000" fadeFar="4000" animSpeed="0"/>
+		<POI MapID="326" xpos="137.793"  ypos="334.453" zpos="-119.557" type="festivals.adventure.pinata_bashing"         GUID="BvfReeZ3QEy474fbZEb+yQ==" iconFile="Img/Icons/Adventure.png"             maxSize="20" heightOffset="0"/>
+		<POI MapID="326" xpos="135.74"   ypos="335.016" zpos="-123.738" type="festivals.adventure.pinata_bashing"         GUID="PLDSHiQawEWlEUTBEjiKDg==" iconFile="Img/Festivals/PinataBashingInfo.png" alpha="0.9" minSize="140" maxSize="160" fadeNear="800" fadeFar="1000" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="326" xpos="161.989"  ypos="335.114" zpos="-132.182" type="festivals.adventure.pinata_bashing.pinatas" GUID="T/QP1VuAV0+0WDQVN8ZEEg==" iconFile="Img/Skills/PinataBowl.png"           maxSize="24" alpha="0.9" heightOffset="0.5" fadeNear="1200" fadeFar="2000" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="326" xpos="201.787"  ypos="335.44"  zpos="-184.465" type="festivals.adventure.pinata_bashing.pinatas" GUID="StmmmqdZd0eM5hNnLcndgA==" iconFile="Img/Skills/PinataBowl.png"           maxSize="24" alpha="0.9" heightOffset="0.5" fadeNear="1200" fadeFar="2000" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="326" xpos="149.092"  ypos="335.218" zpos="-178.725" type="festivals.adventure.pinata_bashing.pinatas" GUID="2e71egzTr0i9HSbMKbl58A==" iconFile="Img/Skills/DragonLaunch.png"         maxSize="24" alpha="0.9" heightOffset="0.5" fadeNear="1200" fadeFar="2000" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="326" xpos="76.7668"  ypos="335.421" zpos="-103.517" type="festivals.adventure.pinata_bashing.pinatas" GUID="m+Ycs+7UnkCeMN4clMbSlA==" iconFile="Img/Skills/PinataBowl.png"           maxSize="24" alpha="0.9" heightOffset="0.5" fadeNear="1200" fadeFar="2000" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="326" xpos="52.5153"  ypos="335.459" zpos="-113.187" type="festivals.adventure.pinata_bashing.pinatas" GUID="Vr/pAIa6nU+qvAAKsEWMUg==" iconFile="Img/Skills/PinataBowl.png"           maxSize="24" alpha="0.9" heightOffset="0.5" fadeNear="1200" fadeFar="2000" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="326" xpos="38.3152"  ypos="335.429" zpos="-96.075"  type="festivals.adventure.pinata_bashing.pinatas" GUID="D3QnAn3WpUmqoH2XkBoTtg==" iconFile="Img/Skills/DragonLaunch.png"         maxSize="24" alpha="0.9" heightOffset="0.5" fadeNear="1200" fadeFar="2000" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="326" xpos="44.6737"  ypos="265.698" zpos="67.1893"  type="festivals.adventure.pinata_bashing.pinatas" GUID="gS/94gEaKk6zkX82g3tbxA==" iconFile="Img/Skills/PinataBowl.png"           maxSize="24" alpha="0.9" heightOffset="0.5" fadeNear="1200" fadeFar="2000" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="326" xpos="57.5343"  ypos="248.861" zpos="141.533"  type="festivals.adventure.pinata_bashing.pinatas" GUID="wsQP7IVxzEyIn9LIOA7HVw==" iconFile="Img/Skills/DragonLaunch.png"         maxSize="24" alpha="0.9" heightOffset="0.5" fadeNear="1200" fadeFar="2000" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="326" xpos="126.798"  ypos="231.808" zpos="37.7417"  type="festivals.adventure.pinata_bashing.pinatas" GUID="SPc24i0xTEGgxWtqE6BFOw==" iconFile="Img/Skills/DragonLaunch.png"         maxSize="24" alpha="0.9" heightOffset="0.5" fadeNear="1200" fadeFar="2000" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="326" xpos="204.574"  ypos="231.666" zpos="-9.94594" type="festivals.adventure.pinata_bashing.pinatas" GUID="p+VQD8wb3EqG+hPSsR6cJw==" iconFile="Img/Skills/DragonLaunch.png"         maxSize="24" alpha="0.9" heightOffset="0.5" fadeNear="1200" fadeFar="2000" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="326" xpos="299.236"  ypos="227.75"  zpos="-28.0549" type="festivals.adventure.pinata_bashing.pinatas" GUID="huVWe3WxvUG1C1TGfSNWGg==" iconFile="Img/Skills/DragonLaunch.png"         maxSize="24" alpha="0.9" heightOffset="0.5" fadeNear="1200" fadeFar="2000" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="326" xpos="361.969"  ypos="229.024" zpos="46.2267"  type="festivals.adventure.pinata_bashing.pinatas" GUID="W8Vh6QmEwEONclG4Frx5OA==" iconFile="Img/Skills/PinataBowl.png"           maxSize="24" alpha="0.9" heightOffset="0.5" fadeNear="1200" fadeFar="2000" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="326" xpos="365.65"   ypos="225.909" zpos="72.4002"  type="festivals.adventure.pinata_bashing.pinatas" GUID="V1wxp5Yk7UmDVLipK4JqBQ==" iconFile="Img/Skills/DragonLaunch.png"         maxSize="24" alpha="0.9" heightOffset="0.5" fadeNear="1200" fadeFar="2000" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="326" xpos="313.121"  ypos="235.435" zpos="173.732"  type="festivals.adventure.pinata_bashing.pinatas" GUID="NbE3Kxf+i0G78/c3uQ+mog==" iconFile="Img/Skills/DragonLaunch.png"         maxSize="24" alpha="0.9" heightOffset="0.5" fadeNear="1200" fadeFar="2000" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="326" xpos="261.858"  ypos="257.316" zpos="229.111"  type="festivals.adventure.pinata_bashing.pinatas" GUID="9jDCRNgeFE2YFmodiWFHMg==" iconFile="Img/Skills/PinataBowl.png"           maxSize="24" alpha="0.9" heightOffset="0.5" fadeNear="1200" fadeFar="2000" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="326" xpos="-76.8122" ypos="307.479" zpos="22.5609"  type="festivals.adventure.pinata_bashing.pinatas" GUID="YWLh/uHz30e224HlYYzx/Q=="/>
+		<POI MapID="326" xpos="29.4825"  ypos="249.56"  zpos="153.792"  type="festivals.adventure.pinata_bashing.pinatas" GUID="F7k/H+XFE0SzpDSZqAleNA=="/>
+		<POI MapID="326" xpos="31.9478"  ypos="249.56"  zpos="128.126"  type="festivals.adventure.pinata_bashing.pinatas" GUID="K/x9APZq5kyVjyYH+vDpjg=="/>
+		<POI MapID="326" xpos="40.9148"  ypos="335.446" zpos="-102.968" type="festivals.adventure.pinata_bashing.pinatas" GUID="pPDdi9tGKkimEXj7AMbcmg=="/>
+		<POI MapID="326" xpos="42.6825"  ypos="267.966" zpos="61.2216"  type="festivals.adventure.pinata_bashing.pinatas" GUID="+XEFFz2sWEmMWLml6L/Awg=="/>
+		<POI MapID="326" xpos="54.1203"  ypos="249.591" zpos="145.194"  type="festivals.adventure.pinata_bashing.pinatas" GUID="pIHJMI+2WU+RD4d/aqXvog=="/>
+		<POI MapID="326" xpos="55.9382"  ypos="335.459" zpos="-116.13"  type="festivals.adventure.pinata_bashing.pinatas" GUID="pArI+UR4JUOY0PAgAGRvJA=="/>
+		<POI MapID="326" xpos="81.2043"  ypos="335.413" zpos="-100.727" type="festivals.adventure.pinata_bashing.pinatas" GUID="j6riY4JE60aq7vFAUUrpKg=="/>
+		<POI MapID="326" xpos="121.359"  ypos="233.501" zpos="41.2988"  type="festivals.adventure.pinata_bashing.pinatas" GUID="ZDTt2VhO9EmUoXBNqeMUEQ=="/>
+		<POI MapID="326" xpos="140.746"  ypos="334.47"  zpos="-113.893" type="festivals.adventure.pinata_bashing.pinatas" GUID="2hc3lcCsqkCFPNRV53GEXw=="/>
+		<POI MapID="326" xpos="173.536"  ypos="235.5"   zpos="176.298"  type="festivals.adventure.pinata_bashing.pinatas" GUID="WoeOWmViSkKvqJwh1WMsNA=="/>
+		<POI MapID="326" xpos="175.702"  ypos="335.484" zpos="-195.777" type="festivals.adventure.pinata_bashing.pinatas" GUID="mjVE95oGRUarhryz7iv8HA=="/>
+		<POI MapID="326" xpos="185.055"  ypos="335.413" zpos="-153.731" type="festivals.adventure.pinata_bashing.pinatas" GUID="LsDEv8HKGUWrmOkTrI0MOA=="/>
+		<POI MapID="326" xpos="198.547"  ypos="231.666" zpos="-8.06294" type="festivals.adventure.pinata_bashing.pinatas" GUID="xcSr/HOdyEOC/rGWWNCrhQ=="/>
+		<POI MapID="326" xpos="205.165"  ypos="335.431" zpos="-182.266" type="festivals.adventure.pinata_bashing.pinatas" GUID="X1s0kUCz10Ompu3T/A9W9Q=="/>
+		<POI MapID="326" xpos="234.052"  ypos="265.921" zpos="277.796"  type="festivals.adventure.pinata_bashing.pinatas" GUID="nd1cIZdzDkuQYAlpVvgPEw=="/>
+		<POI MapID="326" xpos="234.509"  ypos="264.979" zpos="250.413"  type="festivals.adventure.pinata_bashing.pinatas" GUID="2to02mZl5ke+emfPCM5vGw=="/>
+		<POI MapID="326" xpos="259.364"  ypos="265.921" zpos="276.443"  type="festivals.adventure.pinata_bashing.pinatas" GUID="Ys33OpW6+kuiPPIVx+m6+g=="/>
+		<POI MapID="326" xpos="294.408"  ypos="227.742" zpos="-33.5733" type="festivals.adventure.pinata_bashing.pinatas" GUID="R6J91TruYE2+lwCQeaJFdQ=="/>
+		<POI MapID="326" xpos="310.99"   ypos="324.72"  zpos="-261.724" type="festivals.adventure.pinata_bashing.pinatas" GUID="Is4VFVsHS0eLjdaEyQ3www=="/>
+		<POI MapID="326" xpos="316.667"  ypos="234.255" zpos="169.924"  type="festivals.adventure.pinata_bashing.pinatas" GUID="mz6IPME74kyiQkuq8QTdaA=="/>
+		<POI MapID="326" xpos="367.904"  ypos="225.688" zpos="67.2168"  type="festivals.adventure.pinata_bashing.pinatas" GUID="LvMLc0BlwUqs9ZRLBKwfSg=="/>
+		<POI MapID="326" xpos="376.193"  ypos="297.827" zpos="-169.182" type="festivals.adventure.pinata_bashing.pinatas" GUID="S1AMqnt/FEqOYNsW2RPc/w=="/>
+		<POI MapID="326" xpos="390.586"  ypos="251.57"  zpos="-73.1362" type="festivals.adventure.pinata_bashing.pinatas" GUID="rI6vckUwBUaBFnO2PhU8Eg=="/>
+		<POI MapID="326" xpos="414.996"  ypos="251.456" zpos="-97.7948" type="festivals.adventure.pinata_bashing.pinatas" GUID="4f4FXYYbekix80C3Z2Mp1w=="/>
+		<POI MapID="326" xpos="434.938"  ypos="254.062" zpos="-80.4254" type="festivals.adventure.pinata_bashing.pinatas" GUID="VRIutm5ERkCQeF/xOzcl0A=="/>
+		<POI MapID="326" xpos="445.72"   ypos="218.261" zpos="163.443"  type="festivals.adventure.pinata_bashing.pinatas" GUID="rDOnvMZLJUKe3P8gn8nQYw=="/>
+		<POI MapID="326" xpos="457.638"  ypos="218.473" zpos="191.227"  type="festivals.adventure.pinata_bashing.pinatas" GUID="quj0PTTHm0WdrFn4H3H7eQ=="/>
+		<POI MapID="326" xpos="481.732"  ypos="218.473" zpos="183.655"  type="festivals.adventure.pinata_bashing.pinatas" GUID="KINongWck0mrxZw0xW3VxQ=="/>
+
+	</POIs>
+</OverlayData>

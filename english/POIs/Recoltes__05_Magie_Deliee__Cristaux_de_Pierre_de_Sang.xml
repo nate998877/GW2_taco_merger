@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+POIs: Xenophy.2716 - ReActif.9251 - TMKFrench.6427
+Date: 2017/08/11
+-->
+<OverlayData>
+	<MarkerCategory name="recoltes" DisplayName="Harvest" fadeNear="10000" fadeFar="20000" behavior="6">
+		<MarkerCategory name="magie_deliee" DisplayName="Unbound Magic" iconFile="Img\MagieDeliee.png" triggerRange="3">
+			<MarkerCategory name="cristaux_de_pierre_de_sang" DisplayName="Bloodstone Crystals" iconFile="Img\PierreDeSang.png"/>
+		</MarkerCategory>
+	</MarkerCategory>
+
+	<POIs>
+
+		<POI MapID="1165" xpos="-237.599" ypos="680.279" zpos="75.0172" type="recoltes.magie_deliee.cristaux_de_pierre_de_sang" GUID="Ubr9p5304UySNk47vw96Lg=="/>
+		<POI MapID="1165" xpos="-229.918" ypos="112.383" zpos="18.948" type="recoltes.magie_deliee.cristaux_de_pierre_de_sang" GUID="rMQPmiCf20mwJq3vHtAibQ=="/>
+		<POI MapID="1165" xpos="-226.704" ypos="95.7678" zpos="-44.6166" type="recoltes.magie_deliee.cristaux_de_pierre_de_sang" GUID="hF8g6pckpUK7EQ4G3Z6GIw=="/>
+		<POI MapID="1165" xpos="-214.425" ypos="100.03" zpos="36.2161" type="recoltes.magie_deliee.cristaux_de_pierre_de_sang" GUID="v4VctZGxtEi8lnGFdERR6w=="/>
+		<POI MapID="1165" xpos="-202.808" ypos="697.61" zpos="136.117" type="recoltes.magie_deliee.cristaux_de_pierre_de_sang" GUID="Yn2L8ypflEOxPAPW644qJw=="/>
+		<POI MapID="1165" xpos="-194.571" ypos="111.106" zpos="-23.7946" type="recoltes.magie_deliee.cristaux_de_pierre_de_sang" GUID="LmDAamN8NEiDh7UU3iUxwg=="/>
+		<POI MapID="1165" xpos="-159.691" ypos="512.875" zpos="122.952" type="recoltes.magie_deliee.cristaux_de_pierre_de_sang" GUID="Unj9YJn/uk69+l+hZK/CZg=="/>
+		<POI MapID="1165" xpos="-101.291" ypos="521.934" zpos="122.256" type="recoltes.magie_deliee.cristaux_de_pierre_de_sang" GUID="4kAyFd6nGkahFgQ/sw2SKA=="/>
+		<POI MapID="1165" xpos="-96.4895" ypos="533.06" zpos="31.9132" type="recoltes.magie_deliee.cristaux_de_pierre_de_sang" GUID="s9CsMrI3mU6MZ6+GcSroMg=="/>
+		<POI MapID="1165" xpos="-88.1811" ypos="538.031" zpos="75.2068" type="recoltes.magie_deliee.cristaux_de_pierre_de_sang" GUID="vjQNq+Cy20eVKiKbDBbHjw=="/>
+		<POI MapID="1165" xpos="-70.2499" ypos="529.487" zpos="44.0443" type="recoltes.magie_deliee.cristaux_de_pierre_de_sang" GUID="An9OPAba2E2tmry/3aaBPw=="/>
+		<POI MapID="1165" xpos="-65.1077" ypos="535.255" zpos="-65.8591" type="recoltes.magie_deliee.cristaux_de_pierre_de_sang" GUID="ouxJdM7YMkGc6Pd1f1gbvQ=="/>
+		<POI MapID="1165" xpos="-61.3674" ypos="669.334" zpos="121.249" type="recoltes.magie_deliee.cristaux_de_pierre_de_sang" GUID="itWTAtZ9bU+qLvztIR1/WA=="/>
+		<POI MapID="1165" xpos="-60.1328" ypos="528.485" zpos="86.8362" type="recoltes.magie_deliee.cristaux_de_pierre_de_sang" GUID="kBQK0xBaeE6nth/WI+sm2Q=="/>
+		<POI MapID="1165" xpos="-41.5632" ypos="152.128" zpos="72.6624" type="recoltes.magie_deliee.cristaux_de_pierre_de_sang" GUID="H0Glf6HBAUe3jkHXjjSTJA=="/>
+		<POI MapID="1165" xpos="-15.3537" ypos="539.038" zpos="194.236" type="recoltes.magie_deliee.cristaux_de_pierre_de_sang" GUID="sgDaTXByCECIVi3cioWQCQ=="/>
+		<POI MapID="1165" xpos="-8.84066" ypos="141.949" zpos="46.4221" type="recoltes.magie_deliee.cristaux_de_pierre_de_sang" GUID="UXgbYzLqOEmpl7wepb+voA=="/>
+		<POI MapID="1165" xpos="6.25564" ypos="564.172" zpos="63.8007" type="recoltes.magie_deliee.cristaux_de_pierre_de_sang" GUID="SShYvWhnYkut95MmR4R6Ew=="/>
+		<POI MapID="1165" xpos="18.8238" ypos="552.759" zpos="15.4771" type="recoltes.magie_deliee.cristaux_de_pierre_de_sang" GUID="S5XW+e2IHUefx5ENr3DFlQ=="/>
+		<POI MapID="1165" xpos="34.4523" ypos="698.062" zpos="1.21496" type="recoltes.magie_deliee.cristaux_de_pierre_de_sang" GUID="/e+SE0IxOUKhzSDmwUU77Q=="/>
+		<POI MapID="1165" xpos="41.3643" ypos="518.048" zpos="49.9048" type="recoltes.magie_deliee.cristaux_de_pierre_de_sang" GUID="QaI7ZMQiI0a/MS9aJo5FrA=="/>
+		<POI MapID="1165" xpos="45.1443" ypos="613.26" zpos="53.6641" type="recoltes.magie_deliee.cristaux_de_pierre_de_sang" GUID="DgXhCM0rtES//1paBL6ImA=="/>
+		<POI MapID="1165" xpos="47.5294" ypos="563.78" zpos="137.146" type="recoltes.magie_deliee.cristaux_de_pierre_de_sang" GUID="SicxAUapVECFhWLInDNiEQ=="/>
+		<POI MapID="1165" xpos="50.7505" ypos="780.92" zpos="87.2515" type="recoltes.magie_deliee.cristaux_de_pierre_de_sang" GUID="tCWqGO/mV0aG5zFAFs93RA=="/>
+		<POI MapID="1165" xpos="52.5587" ypos="612.132" zpos="20.9963" type="recoltes.magie_deliee.cristaux_de_pierre_de_sang" GUID="ouu2FSTgW0aQ+tPXs6Pm8Q=="/>
+		<POI MapID="1165" xpos="53.3404" ypos="555.246" zpos="-119.119" type="recoltes.magie_deliee.cristaux_de_pierre_de_sang" GUID="XY9XmMW8rU6T66QBzCymRQ=="/>
+		<POI MapID="1165" xpos="61.1428" ypos="550.65" zpos="158.735" type="recoltes.magie_deliee.cristaux_de_pierre_de_sang" GUID="ebHwd7xaWUGUGKpGkeqv4w=="/>
+		<POI MapID="1165" xpos="81.8282" ypos="326.528" zpos="131.269" type="recoltes.magie_deliee.cristaux_de_pierre_de_sang" GUID="IouROo/mskKyFlGQb38gfg=="/>
+		<POI MapID="1165" xpos="82.1861" ypos="739.861" zpos="-9.61606" type="recoltes.magie_deliee.cristaux_de_pierre_de_sang" GUID="zDAgAjDLqUKbX64FiBJWBQ=="/>
+		<POI MapID="1165" xpos="82.2226" ypos="723.472" zpos="-103.171" type="recoltes.magie_deliee.cristaux_de_pierre_de_sang" GUID="Hnvpz5JjMkCKO9YjNjFbgQ=="/>
+		<POI MapID="1165" xpos="83.6206" ypos="608.231" zpos="-8.31423" type="recoltes.magie_deliee.cristaux_de_pierre_de_sang" GUID="tHYX71dkwUC2EhmiCtPltw=="/>
+		<POI MapID="1165" xpos="85.8652" ypos="690.939" zpos="115.861" type="recoltes.magie_deliee.cristaux_de_pierre_de_sang" GUID="j3G3+Dm13ESBkMvzQaCzmQ=="/>
+		<POI MapID="1165" xpos="88.2492" ypos="369.803" zpos="128.312" type="recoltes.magie_deliee.cristaux_de_pierre_de_sang" GUID="VO1nuJyeB0K8XswcixXw8g=="/>
+		<POI MapID="1165" xpos="105.45" ypos="621.441" zpos="21.3976" type="recoltes.magie_deliee.cristaux_de_pierre_de_sang" GUID="XuO1urmS4UKFXozfW02djg=="/>
+		<POI MapID="1165" xpos="115.235" ypos="494.161" zpos="18.7676" type="recoltes.magie_deliee.cristaux_de_pierre_de_sang" GUID="1F8EIMbASkmtR0gyrZNFwg=="/>
+		<POI MapID="1165" xpos="126.036" ypos="522.526" zpos="161.037" type="recoltes.magie_deliee.cristaux_de_pierre_de_sang" GUID="bhsRYVKvIkWAo+acxR248A=="/>
+		<POI MapID="1165" xpos="126.865" ypos="690.388" zpos="161.45" type="recoltes.magie_deliee.cristaux_de_pierre_de_sang" GUID="OOLECSHqZkyD9DVAoUeN+A=="/>
+		<POI MapID="1165" xpos="130.245" ypos="494.823" zpos="114.69" type="recoltes.magie_deliee.cristaux_de_pierre_de_sang" GUID="jIUlrIgfYEiCpdG94V1Q5Q=="/>
+		<POI MapID="1165" xpos="139.287" ypos="177.103" zpos="204.535" type="recoltes.magie_deliee.cristaux_de_pierre_de_sang" GUID="Sf98To5p6UuyTML8MVFV2A=="/>
+		<POI MapID="1165" xpos="159.587" ypos="751.17" zpos="2.48315" type="recoltes.magie_deliee.cristaux_de_pierre_de_sang" GUID="dLo3EeMquUWdl/TyW3BmSA=="/>
+		<POI MapID="1165" xpos="173.701" ypos="177.293" zpos="73.7831" type="recoltes.magie_deliee.cristaux_de_pierre_de_sang" GUID="FPqMM/LWMUmhMNEEfotb8w=="/>
+		<POI MapID="1165" xpos="178.344" ypos="518.71" zpos="146.815" type="recoltes.magie_deliee.cristaux_de_pierre_de_sang" GUID="/PzQpaBMrEeqcz+TCSF23A=="/>
+		<POI MapID="1165" xpos="184.502" ypos="783.09" zpos="-27.9886" type="recoltes.magie_deliee.cristaux_de_pierre_de_sang" GUID="qwrnxH53BUGoeaq9B2+EZA=="/>
+		<POI MapID="1165" xpos="186.379" ypos="489.959" zpos="16.2082" type="recoltes.magie_deliee.cristaux_de_pierre_de_sang" GUID="pjVjFTMlD0eOLLk2HrAcBw=="/>
+		<POI MapID="1165" xpos="197.153" ypos="337.901" zpos="80.8085" type="recoltes.magie_deliee.cristaux_de_pierre_de_sang" GUID="43NUNEzcSketIZ5tbhkwyw=="/>
+		<POI MapID="1165" xpos="199.795" ypos="774.738" zpos="123.919" type="recoltes.magie_deliee.cristaux_de_pierre_de_sang" GUID="cRJ9wznmlkqPpu0S2/JzoA=="/>
+		<POI MapID="1165" xpos="201.572" ypos="175.428" zpos="142.062" type="recoltes.magie_deliee.cristaux_de_pierre_de_sang" GUID="YiY9wQQHZU61xnzmgsc0eg=="/>
+		<POI MapID="1165" xpos="225.963" ypos="821.047" zpos="157.119" type="recoltes.magie_deliee.cristaux_de_pierre_de_sang" GUID="WC40n1nE/keyIX846vATdQ=="/>
+		<POI MapID="1165" xpos="244.721" ypos="535.758" zpos="101.323" type="recoltes.magie_deliee.cristaux_de_pierre_de_sang" GUID="Qlp2WS5vKkWk0ygkoRMXpg=="/>
+		<POI MapID="1165" xpos="258.615" ypos="819.418" zpos="99.332" type="recoltes.magie_deliee.cristaux_de_pierre_de_sang" GUID="mLN18qH85ESd/fIG43B2Fg=="/>
+
+	</POIs>
+</OverlayData>

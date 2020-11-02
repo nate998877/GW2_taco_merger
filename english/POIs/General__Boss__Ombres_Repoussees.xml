@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+POIs: ReActif.9251 - TMKFrench.6427
+Date: 2017/03/31
+-->
+<OverlayData>
+	<MarkerCategory name="general" DisplayName="General">
+		<MarkerCategory name="boss" DisplayName="Bosses" iconFile="Img\Boss.png">
+			<MarkerCategory name="ombres_repoussees" DisplayName="Dispelling Shadows"/>
+		</MarkerCategory>
+	</MarkerCategory>
+
+	<POIs>
+
+		<POI MapID="15" xpos="282.45" ypos="0" zpos="-404.81" type="general.boss.ombres_repoussees" GUID="KHAyx9TfJEivTb0RVWEfVA=="/>
+		<POI MapID="15" xpos="282.45" ypos="2" zpos="-404.81" type="general.boss.ombres_repoussees" GUID="NwtfYM0ix06DVQfiWHYqKQ==" iconFile="Img\1.png" iconSize="2"/>
+
+		<POI MapID="15" xpos="309.95" ypos="0" zpos="-433.05" type="general.boss.ombres_repoussees" GUID="GDqzsLdK00SUZ8xG/OWoLw=="/>
+		<POI MapID="15" xpos="309.95" ypos="2" zpos="-433.05" type="general.boss.ombres_repoussees" GUID="eXk03Da0d0q/B5OcNG18zw==" iconFile="Img\2.png" iconSize="2"/>
+
+		<POI MapID="15" xpos="299.02" ypos="0" zpos="-452.74" type="general.boss.ombres_repoussees" GUID="5hpg7sveMESX+WHZzBB7Sg=="/>
+		<POI MapID="15" xpos="299.02" ypos="2" zpos="-452.74" type="general.boss.ombres_repoussees" GUID="F18OsxtTvUy6o4N1tZuVlA==" iconFile="Img\3.png" iconSize="2"/>
+
+		<POI MapID="15" xpos="302.11" ypos="0" zpos="-478.50" type="general.boss.ombres_repoussees" GUID="8Gb2f4HJZUOhaotq8368Rw=="/>
+		<POI MapID="15" xpos="302.11" ypos="2" zpos="-478.50" type="general.boss.ombres_repoussees" GUID="OWKt9KHikEqvnzM+Q5nfRg==" iconFile="Img\4.png" iconSize="2"/>
+
+		<POI MapID="15" xpos="283.86" ypos="0" zpos="-499.90" type="general.boss.ombres_repoussees" GUID="BZJqZGSwD0mhzB4ZVWM0yg=="/>
+		<POI MapID="15" xpos="283.86" ypos="2" zpos="-499.90" type="general.boss.ombres_repoussees" GUID="Jqk5U1yNjUeoAhrIa/w5Vw==" iconFile="Img\5.png" iconSize="2"/>
+
+		<POI MapID="15" xpos="250.52" ypos="0" zpos="-488.03" type="general.boss.ombres_repoussees" GUID="1Cz+wG8a90G9ilg6lnjwPg=="/>
+		<POI MapID="15" xpos="250.52" ypos="2" zpos="-488.03" type="general.boss.ombres_repoussees" GUID="KwjoMD4/v0eoc9hg85YOYQ==" iconFile="Img\6.png" iconSize="2"/>
+
+		<POI MapID="15" xpos="221.76" ypos="0" zpos="-494.92" type="general.boss.ombres_repoussees" GUID="+RN/XUjEdU+32PsNkXtgEA=="/>
+		<POI MapID="15" xpos="221.76" ypos="2" zpos="-494.92" type="general.boss.ombres_repoussees" GUID="uB3BqJ+KwE6jaUlNWD8BEA==" iconFile="Img\7.png" iconSize="2"/>
+
+		<POI MapID="15" xpos="228.16" ypos="0" zpos="-454.17" type="general.boss.ombres_repoussees" GUID="CUUb6+VlBEW92H52IcQJUw=="/>
+		<POI MapID="15" xpos="228.16" ypos="2" zpos="-454.17" type="general.boss.ombres_repoussees" GUID="IkwEVcR/EU+p1jWld7MaWg==" iconFile="Img\8.png" iconSize="2"/>
+
+		<POI MapID="15" xpos="203.77" ypos="0" zpos="-446.07" type="general.boss.ombres_repoussees" GUID="kpcsNTluVEySdPRp+DIGnw=="/>
+		<POI MapID="15" xpos="203.77" ypos="2" zpos="-446.07" type="general.boss.ombres_repoussees" GUID="si54phXEBkS/pEtvCtzluQ==" iconFile="Img\9.png" iconSize="2"/>
+
+		<POI MapID="15" xpos="209.76" ypos="0" zpos="-421.69" type="general.boss.ombres_repoussees" GUID="/ukOToIh80uwd6BUlJUJ9Q=="/>
+		<POI MapID="15" xpos="209.76" ypos="2" zpos="-421.69" type="general.boss.ombres_repoussees" GUID="osBvmdi8sUeQxpiSqhQ5aQ==" iconFile="Img\10.png" iconSize="2"/>
+
+		<POI MapID="15" xpos="225.23" ypos="0" zpos="-393.30" type="general.boss.ombres_repoussees" GUID="ZJYYqCuuFEK3hp6g0o1uKw=="/>
+		<POI MapID="15" xpos="225.23" ypos="2" zpos="-393.30" type="general.boss.ombres_repoussees" GUID="aUffHo21I0KtyeJg5g5Lsw==" iconFile="Img\11.png" iconSize="2"/>
+
+		<POI MapID="15" xpos="253.49" ypos="0" zpos="-405.79" type="general.boss.ombres_repoussees" GUID="l7as1zh/WUWCgKNpLktrug=="/>
+		<POI MapID="15" xpos="253.49" ypos="2" zpos="-405.79" type="general.boss.ombres_repoussees" GUID="UHBeZa68A0izt0ncsMB4pQ==" iconFile="Img\12.png" iconSize="2"/>
+
+		<POI MapID="15" xpos="279.24" ypos="0" zpos="-463.39" type="general.boss.ombres_repoussees" GUID="FEJBqX+1GEa6jl2vyOFujg=="/>
+		<POI MapID="15" xpos="279.24" ypos="2" zpos="-463.39" type="general.boss.ombres_repoussees" GUID="eO2EOwsaJEa+kb5LKlXYcw==" iconFile="Img\13.png" iconSize="2"/>
+
+	</POIs>
+</OverlayData>

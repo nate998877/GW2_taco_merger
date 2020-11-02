@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+POIs: ReActif.9251
+Date: 2016/12/09
+-->
+<OverlayData>
+	<MarkerCategory name="chroniques.saison_3">
+		<MarkerCategory name="ep1_hors_des_ombres" DisplayName="Ep.1 - Out of the Shadows" iconFile="Img\MaraisDeLaPierreDeSang.png">
+			<MarkerCategory name="carnet_de_l_apprentie_kasandra" DisplayName="Apprentice Kasandra's Notebook"/>
+		</MarkerCategory>
+	</MarkerCategory>
+
+	<POIs>
+
+		<!-- Pages -->
+		<POI MapID="1165" xpos="-273.058" ypos="509.134" zpos="149.893" type="chroniques.saison_3.ep1_hors_des_ombres.carnet_de_l_apprentie_kasandra" GUID="2WeJ8V0XdkSCNiCcJbejEg=="/>
+		<POI MapID="1165" xpos="-128.813" ypos="531.479" zpos="27.636" type="chroniques.saison_3.ep1_hors_des_ombres.carnet_de_l_apprentie_kasandra" GUID="PBqAT9hwpUCfFSGRbnLuFw=="/>
+		<POI MapID="1165" xpos="-44.3044" ypos="330.617" zpos="95.8083" type="chroniques.saison_3.ep1_hors_des_ombres.carnet_de_l_apprentie_kasandra" GUID="vxKauQmbQECTPy6ZHRRozg=="/>
+		<POI MapID="1165" xpos="195.569" ypos="336.715" zpos="81.2082" type="chroniques.saison_3.ep1_hors_des_ombres.carnet_de_l_apprentie_kasandra" GUID="1dVq6F+vdUiwKL98hCBzkg=="/>
+		<POI MapID="1165" xpos="14.4094" ypos="685.765" zpos="-20.3178" type="chroniques.saison_3.ep1_hors_des_ombres.carnet_de_l_apprentie_kasandra" GUID="BnjR3gYA+Uei673Z7vt6Pg=="/>
+		<POI MapID="1165" xpos="-78.787" ypos="670.124" zpos="10.7665" type="chroniques.saison_3.ep1_hors_des_ombres.carnet_de_l_apprentie_kasandra" GUID="rJK/B746wkyWEsX8pAqqFw=="/>
+		<POI MapID="1165" xpos="4.98994" ypos="560.219" zpos="41.8505" type="chroniques.saison_3.ep1_hors_des_ombres.carnet_de_l_apprentie_kasandra" GUID="/nd5lEn1/kWGJ4fMNeN53A=="/>
+		<POI MapID="1165" xpos="-42.2234" ypos="150.772" zpos="71.6076" type="chroniques.saison_3.ep1_hors_des_ombres.carnet_de_l_apprentie_kasandra" GUID="ZyYRg+qHhkSu5pcbGGqHYg=="/>
+		<POI MapID="1165" xpos="-17.0241" ypos="539.065" zpos="-111.585" type="chroniques.saison_3.ep1_hors_des_ombres.carnet_de_l_apprentie_kasandra" GUID="yF7MT22T/UWW6OFaFD7GKw=="/>
+		<POI MapID="1165" xpos="265.81" ypos="825.278" zpos="59.0669" type="chroniques.saison_3.ep1_hors_des_ombres.carnet_de_l_apprentie_kasandra" GUID="TvwJRUIPYEysxRyMWk6EoA=="/>
+		<POI MapID="1165" xpos="59.2259" ypos="502.193" zpos="61.7567" type="chroniques.saison_3.ep1_hors_des_ombres.carnet_de_l_apprentie_kasandra" GUID="SzZUF4RSlEe0t6UnCtHAfg=="/>
+		<POI MapID="1165" xpos="-250.455" ypos="695.784" zpos="123.93" type="chroniques.saison_3.ep1_hors_des_ombres.carnet_de_l_apprentie_kasandra" GUID="hIJ9sZRX50uyXGkFwOkynw=="/>
+		<POI MapID="1165" xpos="-374.444" ypos="510.815" zpos="42.8167" type="chroniques.saison_3.ep1_hors_des_ombres.carnet_de_l_apprentie_kasandra" GUID="2EubkjHaAkyXA5xCdzFPXg=="/>
+		<POI MapID="1165" xpos="-322.613" ypos="42.2584" zpos="-45.8716" type="chroniques.saison_3.ep1_hors_des_ombres.carnet_de_l_apprentie_kasandra" GUID="qMVUEXi3R06qat1LsmXr+g=="/>
+
+	</POIs>
+</OverlayData>

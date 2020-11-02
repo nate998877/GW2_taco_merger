@@ -1,0 +1,43 @@
+<!-- 2019.12.25 -->
+<OverlayData>
+	<POIs>
+
+		<!-- DAMAGE CONTROL -->
+		<POI MapID="1209" xpos="637.569" ypos="139.101" zpos="-495.057" type="story_journal.path_of_fire.act_1.damage_control" GUID="/b1Q99MNHUS4PDRyUD9c+w=="/>
+		<POI MapID="1209" xpos="533.544" ypos="137.633" zpos="-361.583" type="story_journal.path_of_fire.act_1.damage_control" GUID="ZHEpeY7KaUKlDVndXf5Itg=="/>
+		<POI MapID="1209" xpos="254.381" ypos="149.671" zpos="-651.612" type="story_journal.path_of_fire.act_1.damage_control" GUID="7Cn0bVAwMEOvG9jusrRUJg=="/>
+		<POI MapID="1209" xpos="139.674" ypos="138.962" zpos="-536.15"  type="story_journal.path_of_fire.act_1.damage_control" GUID="fNVURNaYZUyGL5uqxxBl8A=="/>
+
+		<!-- HIDDEN AND DISHONORED -->
+		<POI MapID="1241" xpos="1174.27" ypos="107.1"    zpos="178.354"  type="story_journal.path_of_fire.act_1.hidden_and_dishonored" GUID="haHHs7diX0mV6PhrGiFJ5w=="/>
+		<POI MapID="1241" xpos="1164.33" ypos="106.893"  zpos="48.5029"  type="story_journal.path_of_fire.act_1.hidden_and_dishonored" GUID="7hHUdiVuOE6K9RdZ6z8lMg=="/>
+		<POI MapID="1241" xpos="1052.68" ypos="0.745242" zpos="-133.619" type="story_journal.path_of_fire.act_1.hidden_and_dishonored" GUID="QQEo55UZ70O5nU5AaXNoDA=="/>
+		<POI MapID="1241" xpos="1040.57" ypos="106.53"   zpos="131.875"  type="story_journal.path_of_fire.act_1.hidden_and_dishonored" GUID="LywJb/eN0kqgHQa9JbtuPg=="/>
+		<POI MapID="1241" xpos="987.541" ypos="58.5328"  zpos="-63.2464" type="story_journal.path_of_fire.act_1.hidden_and_dishonored" GUID="dvs0R3rqmUuWolpYmkujaw=="/>
+		<POI MapID="1241" xpos="970.839" ypos="101.162"  zpos="-7.01414" type="story_journal.path_of_fire.act_1.hidden_and_dishonored" GUID="JKuD1SwLEkqDagVTkXRatQ=="/>
+
+		<!-- SHIELD OF KORMIR -->
+		<POI MapID="1241" xpos="652.359" ypos="121.941" zpos="135.936" type="story_journal.path_of_fire.act_1.shield_of_kormir" GUID="9NxYLYiz+Eyd1K0zFokrIQ==" iconFile="Img/Numbers/1.png"/>
+		<POI MapID="1241" xpos="658.918" ypos="122.563" zpos="93.0705" type="story_journal.path_of_fire.act_1.shield_of_kormir" GUID="fOhArj2GSES1dujDaLT3wA==" iconFile="Img/Numbers/2.png"/>
+		<POI MapID="1241" xpos="699.505" ypos="124.01"  zpos="115.835" type="story_journal.path_of_fire.act_1.shield_of_kormir" GUID="IP5bD6l6EEKKEdoW6w/hrg==" iconFile="Img/Numbers/3.png"/>
+		<POI MapID="1241" xpos="737.302" ypos="123.545" zpos="91.329"  type="story_journal.path_of_fire.act_1.shield_of_kormir" GUID="0DTGn9rc70KaP/99Wl2KFA==" iconFile="Img/Numbers/4.png"/>
+		<POI MapID="1241" xpos="732.199" ypos="124.482" zpos="131.572" type="story_journal.path_of_fire.act_1.shield_of_kormir" GUID="QpEVxs2BPUqU46WdWKO9RQ==" iconFile="Img/Numbers/5.png"/>
+		<POI MapID="1241" xpos="782.425" ypos="125.946" zpos="141.73"  type="story_journal.path_of_fire.act_1.shield_of_kormir" GUID="5gBRLhqZWkafRCsPxEdzLg==" iconFile="Img/Numbers/6.png"/>
+		<POI MapID="1241" xpos="782.425" ypos="123.946" zpos="141.73"  type="story_journal.path_of_fire.act_1.shield_of_kormir" GUID="Ef7OJ/pTOES7x66my9rELQ==" iconFile="Img/Icons/Destination.png" minSize="16" maxSize="32"/>
+
+		<!-- VLAST FROM THE PAST -->
+		<POI MapID="1211" xpos="877.391"  ypos="247.311" zpos="285.123"  type="story_journal.path_of_fire.act_1.vlast_from_the_past" GUID="YumvXQgAuU6aWP2hMW6Cpg=="/>
+		<POI MapID="1211" xpos="686.6"    ypos="199.373" zpos="15.1133"  type="story_journal.path_of_fire.act_1.vlast_from_the_past" GUID="/VDzdXXhZ0G6bIfoFaoqjA=="/>
+		<POI MapID="1211" xpos="584.225"  ypos="161.806" zpos="617.099"  type="story_journal.path_of_fire.act_1.vlast_from_the_past" GUID="2sfvr9O3NUq9nijYOE5Gug=="/>
+		<POI MapID="1211" xpos="372.108"  ypos="151.32"  zpos="-258.845" type="story_journal.path_of_fire.act_1.vlast_from_the_past" GUID="dUQYkqjEi0GBMHzfH/7IXg=="/>
+		<POI MapID="1211" xpos="355.861"  ypos="242.647" zpos="13.8333"  type="story_journal.path_of_fire.act_1.vlast_from_the_past" GUID="NSjBpuKd3k2a9LG4s+u8Kg=="/>
+		<POI MapID="1211" xpos="36.2404"  ypos="274.575" zpos="393.287"  type="story_journal.path_of_fire.act_1.vlast_from_the_past" GUID="TCUnDuDOD0WOWn017k6odg=="/>
+		<POI MapID="1211" xpos="33.8315"  ypos="208.637" zpos="5.72021"  type="story_journal.path_of_fire.act_1.vlast_from_the_past" GUID="/FdxKAKE602I3RpCec1ORA=="/>
+		<POI MapID="1211" xpos="-371.361" ypos="318.503" zpos="616.545"  type="story_journal.path_of_fire.act_1.vlast_from_the_past" GUID="WXFk4D3vwUGhyN6wbTVTmw=="/>
+		<POI MapID="1211" xpos="-418.343" ypos="68.7495" zpos="-373.268" type="story_journal.path_of_fire.act_1.vlast_from_the_past" GUID="DM38x1hRMU2mPZSijG77hQ=="/>
+		<POI MapID="1211" xpos="-484.31"  ypos="262.486" zpos="328.092"  type="story_journal.path_of_fire.act_1.vlast_from_the_past" GUID="Sd0vp5LG4E+UBiBcGhcWDg=="/>
+		<POI MapID="1211" xpos="-605.531" ypos="339.753" zpos="108.472"  type="story_journal.path_of_fire.act_1.vlast_from_the_past" GUID="t8mL6Y4ftkWKHNKXkuxzSA=="/>
+		<POI MapID="1211" xpos="-718.861" ypos="37.5929" zpos="-458.176" type="story_journal.path_of_fire.act_1.vlast_from_the_past" GUID="WKU9DcOQlEizuH/3uozmcw=="/>
+
+	</POIs>
+</OverlayData>

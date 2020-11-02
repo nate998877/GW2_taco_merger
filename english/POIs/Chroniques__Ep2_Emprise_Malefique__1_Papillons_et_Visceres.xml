@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+POIs: ReActif.9251
+Date: 2017/03/06
+-->
+<OverlayData>
+	<MarkerCategory name="chroniques.saison_2">
+		<MarkerCategory name="ep2_emprise_malefique" DisplayName="Ep.2 - Entanglement" iconFile="Img\Saison2EmpriseMalefique.png">
+			<MarkerCategory name="papillons_et_visceres" DisplayName="Butterflies and Viscera"/>
+		</MarkerCategory>
+	</MarkerCategory>
+
+	<POIs>
+
+		<!-- Serviteurs de Marjory -->
+		<POI MapID="999" xpos="-674.09" ypos="81.8249" zpos="527.194" type="chroniques.saison_2.ep2_emprise_malefique.papillons_et_visceres" GUID="jsqGS01Znk6GaM3mnJyTgg==" iconFile="Img\Combat.png" color="ffff0000"/>
+		<POI MapID="999" xpos="-650.578" ypos="81.8738" zpos="488.023" type="chroniques.saison_2.ep2_emprise_malefique.papillons_et_visceres" GUID="5yVSsIkShE2ghBvRer+GgQ==" iconFile="Img\Combat.png" color="ffff0000"/>
+		<POI MapID="999" xpos="-680.091" ypos="76.9442" zpos="452.371" type="chroniques.saison_2.ep2_emprise_malefique.papillons_et_visceres" GUID="ib4gWyLsbUGo85jCY8+SoQ==" iconFile="Img\Combat.png" color="ffff0000"/>
+		<POI MapID="999" xpos="-746.503" ypos="89.8164" zpos="482.456" type="chroniques.saison_2.ep2_emprise_malefique.papillons_et_visceres" GUID="rNuX5y5ZsEW20j2/jWsFEw==" iconFile="Img\Combat.png" color="ffff0000"/>
+
+	</POIs>
+</OverlayData>

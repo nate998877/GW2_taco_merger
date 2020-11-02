@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+POIs: ReActif.9251
+Date: 2017/08/11
+-->
+<OverlayData>
+	<MarkerCategory name="chroniques.saison_3">
+		<MarkerCategory name="ep1_hors_des_ombres" DisplayName="Ep.1 - Out of the Shadows" iconFile="Img\MaraisDeLaPierreDeSang.png">
+			<MarkerCategory name="maitre_de_la_plongee__ne_faisait_que_brasser" DisplayName="Dive Master: Just Dropping By" iconFile="Img\Plongeon.png" heightOffset="0">
+				<MarkerCategory name="saut" DisplayName="Jump" iconFile="Img\Guide.png" iconSize="0.75"/>
+			</MarkerCategory>
+		</MarkerCategory>
+	</MarkerCategory>
+
+	<POIs>
+
+		<!-- Lunettes de Plongée -->
+		<POI MapID="1165" xpos="125.615" ypos="843.462" zpos="84.269" type="chroniques.saison_3.ep1_hors_des_ombres.maitre_de_la_plongee__ne_faisait_que_brasser" GUID="jPqETd8zzkq6vkAYshtP2w=="/>
+
+		<!-- Route -->
+		<Route MapID="1165" name="Ne_Faisait_Que_Brasser" resetposx="125.615" resetposy="843.462" resetposz="84.269" resetrange="2">
+			<POI MapID="1165" xpos="119" ypos="839" zpos="82" type="chroniques.saison_3.ep1_hors_des_ombres.maitre_de_la_plongee__ne_faisait_que_brasser.Saut" GUID="mbVI8rsCOUuOTZlEJNOy7A==" triggerRange="10"/>
+			<POI MapID="1165" xpos="112" ypos="800" zpos="80" type="chroniques.saison_3.ep1_hors_des_ombres.maitre_de_la_plongee__ne_faisait_que_brasser.Saut" GUID="4gf5Zj79ZU2CMQBnG9zClg==" triggerRange="10"/>
+			<POI MapID="1165" xpos="112" ypos="700" zpos="78" type="chroniques.saison_3.ep1_hors_des_ombres.maitre_de_la_plongee__ne_faisait_que_brasser.Saut" GUID="Kf7bt4rXB0ClsalT8lQ8Aw==" triggerRange="10"/>
+			<POI MapID="1165" xpos="112" ypos="600" zpos="78" type="chroniques.saison_3.ep1_hors_des_ombres.maitre_de_la_plongee__ne_faisait_que_brasser.Saut" GUID="Ci95wVzLQkmvA28w/G5Log==" triggerRange="10"/>
+			<POI MapID="1165" xpos="112" ypos="500" zpos="78" type="chroniques.saison_3.ep1_hors_des_ombres.maitre_de_la_plongee__ne_faisait_que_brasser.Saut" GUID="LJ3Al5qthEmMKrsd2US2HQ==" triggerRange="10"/>
+			<POI MapID="1165" xpos="109" ypos="400" zpos="78" type="chroniques.saison_3.ep1_hors_des_ombres.maitre_de_la_plongee__ne_faisait_que_brasser.Saut" GUID="5kkwlmRNN0+Ok3C90ZcXwg==" triggerRange="10"/>
+			<POI MapID="1165" xpos="107" ypos="300" zpos="78" type="chroniques.saison_3.ep1_hors_des_ombres.maitre_de_la_plongee__ne_faisait_que_brasser.Saut" GUID="XAo+pmBzlkaVNVfp8XuH/A==" triggerRange="10"/>
+			<POI MapID="1165" xpos="105" ypos="250" zpos="78" type="chroniques.saison_3.ep1_hors_des_ombres.maitre_de_la_plongee__ne_faisait_que_brasser.Saut" GUID="co3FEqffAUOR7KpYHdvS1A==" triggerRange="10"/>
+			<POI MapID="1165" xpos="103" ypos="200" zpos="78" type="chroniques.saison_3.ep1_hors_des_ombres.maitre_de_la_plongee__ne_faisait_que_brasser.Saut" GUID="toFEHNOLYEucIwIM0WEnBA==" triggerRange="10"/>
+		</Route>
+
+		<!-- Cible -->
+		<POI MapID="1165" xpos="101" ypos="150" zpos="78" type="chroniques.saison_3.ep1_hors_des_ombres.maitre_de_la_plongee__ne_faisait_que_brasser" GUID="p9M0FkfhQEaL0fsY9c0Ubg==" iconFile="Img\Cible.png" iconSize="2.5"/>
+
+	</POIs>
+</OverlayData>

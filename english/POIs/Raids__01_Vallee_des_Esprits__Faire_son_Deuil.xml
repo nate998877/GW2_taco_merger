@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+POIs: BoyC.2653
+Date: 2017/08/15
+-->
+<OverlayData>
+	<MarkerCategory name="raids" DisplayName="Raids" iconFile="Img\RaidSucces.png" behavior="3">
+		<MarkerCategory name="vallee_des_esprits" DisplayName="Spirit Vale">
+			<MarkerCategory name="faire_son_deuil" DisplayName="Closure"/>
+		</MarkerCategory>
+	</MarkerCategory>
+
+	<POIs>
+
+		<POI MapID="1062" xpos="-179.417" ypos="43.4912" zpos="-715.788" type="raids.vallee_des_esprits.faire_son_deuil" GUID="Ha0HiR+q70SwZX4mRprajA=="/>
+		<POI MapID="1062" xpos="-83.1274" ypos="44.0782" zpos="-704.972" type="raids.vallee_des_esprits.faire_son_deuil" GUID="aOD6CL4b3k64KFfm+Gd77A=="/>
+		<POI MapID="1062" xpos="-149.886" ypos="50.1062" zpos="-631.796" type="raids.vallee_des_esprits.faire_son_deuil" GUID="WeKIm5iLTEypdR56CK8OwA=="/>
+		<POI MapID="1062" xpos="-81.8997" ypos="50.0209" zpos="-654.667" type="raids.vallee_des_esprits.faire_son_deuil" GUID="4bMVAKjQSky6Kq02pFrNxg=="/>
+		<POI MapID="1062" xpos="-61.063"  ypos="43.87"   zpos="-700.162" type="raids.vallee_des_esprits.faire_son_deuil" GUID="gVRI8xpFUUCb73jg+Kyrjg=="/>
+		<POI MapID="1062" xpos="-204.635" ypos="67.4591" zpos="-475.968" type="raids.vallee_des_esprits.faire_son_deuil" GUID="4Bth3atRTkq83XmRWjq0ww=="/>
+		<POI MapID="1062" xpos="-132.132" ypos="63.1783" zpos="-445.195" type="raids.vallee_des_esprits.faire_son_deuil" GUID="qW+Qdi/eFkuf6/aO/rFeGg=="/>
+		<POI MapID="1062" xpos="-121.779" ypos="61.4288" zpos="-448.753" type="raids.vallee_des_esprits.faire_son_deuil" GUID="gmM+lMm9/0GdSaPtvEGr5g=="/>
+		<POI MapID="1062" xpos="-147.091" ypos="26.7585" zpos="-222.407" type="raids.vallee_des_esprits.faire_son_deuil" GUID="9GrYsC+ztkGrNjtc/+FGGw=="/>
+		<POI MapID="1062" xpos="-152.229" ypos="26.924"  zpos="-221.959" type="raids.vallee_des_esprits.faire_son_deuil" GUID="9i8qCL3NJ0CuoHB7ws7rSQ=="/>
+
+	</POIs>
+</OverlayData>

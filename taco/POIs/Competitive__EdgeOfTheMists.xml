@@ -1,0 +1,69 @@
+<!-- 2020.05.28 -->
+<OverlayData>
+	<POIs>
+
+		<!-- CHECK OUT THESE GUNS -->
+		<POI MapID="968" xpos="16.5619"  ypos="121.549" zpos="359.64"   type="tactical.check_out_these_guns" GUID="zpAFYuGXr0+1fzN3W7G0EQ=="/>
+		<POI MapID="968" xpos="15.4168"  ypos="143.655" zpos="372.183"  type="tactical.check_out_these_guns" GUID="7DG8uYwfEUSMouvDfaTcwg==" iconFile="Img/Icons/Interaction.png" minSize="8" maxSize="16" fadeNear="2000" fadeFar="2500" heightOffset="0" triggerRange="5"/>
+		<POI MapID="968" xpos="27.9835"  ypos="143.712" zpos="366.695"  type="tactical.check_out_these_guns" GUID="ZkukCG39C06UHsLyidUiAQ==" iconFile="Img/Icons/Interaction.png" minSize="8" maxSize="16" fadeNear="2000" fadeFar="2500" heightOffset="0" triggerRange="5"/>
+
+		<!-- DARING DUNK -->
+		<POI MapID="968" xpos="-325.714" ypos="124.407" zpos="216.654"  type="tactical.daring_dunk" GUID="65SiZXwky0mEUrIcDoCzhA=="/>
+		<POI MapID="968" xpos="-351.249" ypos="319.19"  zpos="193.764"  type="tactical.daring_dunk" GUID="qTu+/6XlmEeRBJ/wJGnVfA==" iconFile="Img/Icons/Dive.png" minSize="10" maxSize="16" fadeNear="1500" fadeFar="2000" heightOffset="0"/>
+
+		<!-- HOLD YOUR BREATH -->
+		<POI MapID="968" xpos="363.796"  ypos="124.592" zpos="167.616"  type="tactical.hold_your_breath" GUID="vSbIJbF4z0ieNmwiSCuL+Q=="/>
+		<POI MapID="968" xpos="351.236"  ypos="307.016" zpos="195.011"  type="tactical.hold_your_breath" GUID="5CjWOPndkkKWZbg/gnj77w==" iconFile="Img/Icons/Dive.png" minSize="10" maxSize="16" fadeNear="1500" fadeFar="2000" heightOffset="0"/>
+
+		<!-- INTRUDER ALERT -->
+		<POI MapID="968" xpos="270.49"   ypos="198.218" zpos="581.499"  type="tactical.intruder_alert" GUID="WELm7614K0mtz9FdlPMdkw=="/>
+		<POI MapID="968" xpos="276.072"  ypos="142.131" zpos="646.519"  type="tactical.intruder_alert" GUID="NarwBi6dbUS5WJQMoQdL6w=="/>
+		<POI MapID="968" xpos="364.084"  ypos="111.55"  zpos="580.75"   type="tactical.intruder_alert" GUID="h2iQ/a5qmUuTOMnRe1lgkA=="/>
+
+		<!-- LET IT GLOW -->
+		<POI MapID="968" xpos="-247.201" ypos="166.415" zpos="462.142"  type="tactical.let_it_glow" GUID="zA5O4XaijEaFT/jYr/PkBw=="/>
+		<POI MapID="968" xpos="-253.471" ypos="168.467" zpos="458.573"  type="tactical.let_it_glow" GUID="bV7odfbJeUuW4uBz8DFU7w==" iconFile="Img/Icons/Interaction.png" minSize="8" maxSize="16" fadeNear="2000" fadeFar="2500" heightOffset="0" triggerRange="5"/>
+
+		<!-- MAKE IT RAIN -->
+		<POI MapID="968" xpos="-253.931" ypos="125.041" zpos="-242.775" type="tactical.make_it_rain" GUID="HQ+o97ZZfkGZ1qFsrqRgeg=="/>
+
+		<!-- NICE RIDE -->
+		<POI MapID="968" xpos="-414.64"  ypos="124.74"  zpos="-456.456" type="tactical.nice_ride" GUID="gY2s/kFzg0+93j67PDTHbg=="/>
+
+		<!-- SMASH HAPPY -->
+		<POI MapID="968" xpos="384.469"  ypos="132.639" zpos="-482.25"  type="tactical.smash_happy" GUID="2Py/nnfmV0WwG5ENuTpcXg=="/>
+
+		<!-- THAW THAT CLAW -->
+		<POI MapID="968" xpos="775.362"  ypos="116.844" zpos="-104.473" type="tactical.thaw_that_claw" GUID="1uGL+vSC6k+mZUbSZJTQFw=="/>
+		<POI MapID="968" xpos="757.229"  ypos="116.759" zpos="-104.492" type="tactical.thaw_that_claw" GUID="po4ETCO18Ue4Vb8ypYy2iw==" iconFile="Img/Icons/Switch.png" minSize="10" maxSize="16" fadeNear="1800" fadeFar="2000" heightOffset="2"/>
+		<POI MapID="968" xpos="781.372"  ypos="116.787" zpos="-97.4204" type="tactical.thaw_that_claw" GUID="mCMmSy69R0GHQVVFFbguEw==" iconFile="Img/Icons/Switch.png" minSize="10" maxSize="16" fadeNear="1800" fadeFar="2000" heightOffset="2"/>
+		<POI MapID="968" xpos="794.676"  ypos="116.886" zpos="-121.927" type="tactical.thaw_that_claw" GUID="MQDCIsTRd0ai/jZEaQacqQ==" iconFile="Img/Icons/Switch.png" minSize="10" maxSize="16" fadeNear="1800" fadeFar="2000" heightOffset="2"/>
+
+		<!-- THE BELLS, THE BELLS! -->
+		<POI MapID="968" xpos="345.076"  ypos="97.627"  zpos="-191.79"  type="tactical.the_bells_the_bells" GUID="MO/RTZZm7kuN4bmB2kwkhQ=="/>
+		<POI MapID="968" xpos="356.276"  ypos="107.719" zpos="-24.0152" type="tactical.the_bells_the_bells" GUID="xWz/zYSW0U+3crDmNnG9vw==" iconFile="Img/Icons/Bell.png" minSize="10" maxSize="16" heightOffset="2" triggerRange="5"/>
+		<POI MapID="968" xpos="245.004"  ypos="102.016" zpos="-259.653" type="tactical.the_bells_the_bells" GUID="PxQgNccnL02TfgcgIrKriQ==" iconFile="Img/Icons/Bell.png" minSize="10" maxSize="16" heightOffset="2" triggerRange="5"/>
+		<POI MapID="968" xpos="238.106"  ypos="123.058" zpos="-519.059" type="tactical.the_bells_the_bells" GUID="rbWkuFH1ck6iwhth5xmXEQ==" iconFile="Img/Icons/Bell.png" minSize="10" maxSize="16" heightOffset="2" triggerRange="5"/>
+		<POI MapID="968" xpos="475.884"  ypos="91.9556" zpos="-397.805" type="tactical.the_bells_the_bells" GUID="0hPizLBKu0mVY4o9SiNdyg==" iconFile="Img/Icons/Bell.png" minSize="10" maxSize="16" heightOffset="2" triggerRange="5"/>
+		<POI MapID="968" xpos="501.511"  ypos="92.9185" zpos="-506.381" type="tactical.the_bells_the_bells" GUID="hpvtNfiRQUCW1nNH6VJrqA==" iconFile="Img/Icons/Bell.png" minSize="10" maxSize="16" heightOffset="2" triggerRange="5"/>
+		<POI MapID="968" xpos="430.794"  ypos="99.8892" zpos="-317.952" type="tactical.the_bells_the_bells" GUID="tcaflqRNbkSq2h9Jar/z/A==" iconFile="Img/Icons/Bell.png" minSize="10" maxSize="16" heightOffset="2" triggerRange="5"/>
+		<POI MapID="968" xpos="595.184"  ypos="108.235" zpos="-172.706" type="tactical.the_bells_the_bells" GUID="CdxwIgijJ0y3/SurXlIU+Q==" iconFile="Img/Icons/Bell.png" minSize="10" maxSize="16" heightOffset="2" triggerRange="5"/>
+		<POI MapID="968" xpos="674.17"   ypos="110.847" zpos="-108.804" type="tactical.the_bells_the_bells" GUID="eSeyPt7kn0Kkt6/qZZIghg==" iconFile="Img/Icons/Bell.png" minSize="10" maxSize="16" heightOffset="2" triggerRange="5"/>
+		<POI MapID="968" xpos="528.64"   ypos="135.239" zpos="-572.287" type="tactical.the_bells_the_bells" GUID="2udfqc3IgEmwkQqR1bRdMg==" iconFile="Img/Icons/Bell.png" minSize="10" maxSize="16" heightOffset="2" triggerRange="5"/>
+		<POI MapID="968" xpos="581.096"  ypos="134.426" zpos="-433.141" type="tactical.the_bells_the_bells" GUID="MkyGs+80eEajA1E4bGLjvQ==" iconFile="Img/Icons/Bell.png" minSize="10" maxSize="16" heightOffset="2" triggerRange="5"/>
+		<POI MapID="968" xpos="778.895"  ypos="153.833" zpos="-290.431" type="tactical.the_bells_the_bells" GUID="epjTckVRD0awTQPFGlUfpw==" iconFile="Img/Icons/Bell.png" minSize="10" maxSize="16" heightOffset="2" triggerRange="5"/>
+		<POI MapID="968" xpos="492.158"  ypos="100.126" zpos="-234.218" type="tactical.the_bells_the_bells" GUID="GOEu5/kY/UCaeiX+Al77dg==" iconFile="Img/Icons/Bell.png" minSize="10" maxSize="16" heightOffset="2" triggerRange="5"/>
+		<POI MapID="968" xpos="684.211"  ypos="116.797" zpos="-289.766" type="tactical.the_bells_the_bells" GUID="2mEdQiOCI0S7lgkQcoEIJw==" iconFile="Img/Icons/Bell.png" minSize="10" maxSize="16" heightOffset="2" triggerRange="5"/>
+		<POI MapID="968" xpos="369.296"  ypos="91.9047" zpos="330.661"  type="tactical.the_bells_the_bells" GUID="j1aO674yuka9yKrfqRqoMw==" iconFile="Img/Icons/Bell.png" minSize="10" maxSize="16" heightOffset="2" triggerRange="5"/>
+		<POI MapID="968" xpos="103.848"  ypos="137.013" zpos="-517.625" type="tactical.the_bells_the_bells" GUID="LLjt2kT/VUSbsDyvVy1GEQ==" iconFile="Img/Icons/Bell.png" minSize="10" maxSize="16" heightOffset="2" triggerRange="5"/>
+
+		<!-- TIDAL SPLASH -->
+		<POI MapID="968" xpos="15.5336"  ypos="148"     zpos="-369.956" type="tactical.tidal_splash" GUID="vo6uH6XqaUOXwZotKP1ONg=="/>
+		<POI MapID="968" xpos="-3.0613"  ypos="335.592" zpos="-386.78"  type="tactical.tidal_splash" GUID="a2XpEfoigESSKVvxVUyLZg==" iconFile="Img/Icons/Dive.png" minSize="10" maxSize="16" fadeNear="1500" fadeFar="2000" heightOffset="0"/>
+
+		<!-- WURMHOLE TRAVELER -->
+		<POI MapID="968" xpos="-488.724" ypos="154.755" zpos="-123.493" type="tactical.wurmhole_traveler" GUID="D8zlBpyan0Se6RFCWEUzag=="/>
+		<POI MapID="968" xpos="-501.991" ypos="157.145" zpos="-103.213" type="tactical.wurmhole_traveler" GUID="gZ2j5qx6yU6hMINcX/PPhQ==" iconFile="Img/Icons/Interaction.png" minSize="10" maxSize="16" fadeNear="2000" fadeFar="2500" heightOffset="0" triggerRange="5"/>
+
+	</POIs>
+</OverlayData>

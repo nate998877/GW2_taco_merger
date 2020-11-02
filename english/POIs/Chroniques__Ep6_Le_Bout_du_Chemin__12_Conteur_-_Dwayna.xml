@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+POIs: ReActif.9251
+Date: 2017/08/11
+-->
+<OverlayData>
+	<MarkerCategory name="chroniques.saison_3">
+		<MarkerCategory name="ep6_le_bout_du_chemin" DisplayName="Ep.6 - One Path Ends" iconFile="Img\LeBoutduChemin.png">
+			<MarkerCategory name="conteur__dwayna" DisplayName="Storyteller: Dwayna"/>
+		</MarkerCategory>
+	</MarkerCategory>
+
+	<POIs>
+
+		<!-- 1 --><POI MapID="1203" xpos="-977.836" ypos="3.48102"  zpos="-292.919" type="chroniques.saison_3.ep6_le_bout_du_chemin.conteur__dwayna" GUID="WWKmFBCR1E2D5bPiS9t7vg=="/>
+		<!-- 2 --><POI MapID="1203" xpos="-806.958" ypos="-22.8374" zpos="-102.763" type="chroniques.saison_3.ep6_le_bout_du_chemin.conteur__dwayna" GUID="Jw3W2jKfC0WAM+zlnDlwmw=="/>
+		<!-- 3 --><POI MapID="1203" xpos="-896.965" ypos="126.107"  zpos="-141.643" type="chroniques.saison_3.ep6_le_bout_du_chemin.conteur__dwayna" GUID="ToU+h66AyU6wxhhcdRMLUg=="/>
+		<!-- 4 --><POI MapID="1203" xpos="-654.407" ypos="136.126"  zpos="-87.2148" type="chroniques.saison_3.ep6_le_bout_du_chemin.conteur__dwayna" GUID="2t1Oxot1+EGcaRVHWLzB1w=="/>
+		<!-- 5 --><POI MapID="1203" xpos="-657.948" ypos="145.337"  zpos="-295.422" type="chroniques.saison_3.ep6_le_bout_du_chemin.conteur__dwayna" GUID="teRMF1B0E0ytXaQX81/Uug==" heightOffset="4"/>
+		<!-- 6 --><POI MapID="1203" xpos="-698.135" ypos="6.24375"  zpos="-15.8043" type="chroniques.saison_3.ep6_le_bout_du_chemin.conteur__dwayna" GUID="AApvAZLaE0yxlsWFfMLRvA=="/>
+
+	</POIs>
+</OverlayData>

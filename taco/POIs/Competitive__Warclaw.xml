@@ -1,0 +1,205 @@
+<!-- 2020.05.28 -->
+<OverlayData>
+	<POIs>
+
+		<!--
+		###############
+		GET THE WARCLAW
+		###############
+		-->
+
+		<!-- WARCLAW TENDER -->
+		<POI MapID="95"   xpos="27.1595" ypos="164.963" zpos="404.047" type="tactical.tender" GUID="Vamww0G7OEeE6qXMD/1d2Q=="/>
+		<POI MapID="96"   xpos="27.1595" ypos="164.963" zpos="404.047" type="tactical.tender" GUID="g3z+l6jnQUmC5qqOlZHWVg=="/>
+		<POI MapID="1099" xpos="63.15"   ypos="153.541" zpos="762.87"  type="tactical.tender" GUID="VyqraH7Ou0md1sFVouB3Pg=="/>
+		<POI MapID="95"   xpos="-10.794" ypos="168.022" zpos="365.993" type="tactical.tender" GUID="60qVXbosq06zCNd0+cMqbA==" heightOffset="4"/>
+		<POI MapID="96"   xpos="-10.794" ypos="168.022" zpos="365.993" type="tactical.tender" GUID="IyEK2CJEREiCSQngitxwVw==" heightOffset="4"/>
+		<POI MapID="1099" xpos="51.5937" ypos="153.502" zpos="779.427" type="tactical.tender" GUID="D0JEhfuEmUC1ueSnFTlBcg==" heightOffset="4"/>
+
+		<!-- WARCLAW BODY ARMOR -->
+		<POI MapID="95"   xpos="27.1595"  ypos="164.963" zpos="404.047" type="tactical.warclaw_body_armor" GUID="t0RHaapEbki8IYqP0rgk4A=="/>
+		<POI MapID="96"   xpos="27.1595"  ypos="164.963" zpos="404.047" type="tactical.warclaw_body_armor" GUID="L8j0PZl+O0SVBLgGnxzF1w=="/>
+		<POI MapID="1099" xpos="63.15"    ypos="153.541" zpos="762.87"  type="tactical.warclaw_body_armor" GUID="MOIFG5aJw06Fr7lAQVRonw=="/>
+		<POI MapID="95"   xpos="-9.11033" ypos="168.022" zpos="364.472" type="tactical.warclaw_body_armor" GUID="rfVLnrNAhE6GPxZBUVgYFw==" iconFile="Img/WvW/WarclawBodyArmor.png" minSize="80" maxSize="100" fadeNear="900" fadeFar="1200"/>
+		<POI MapID="96"   xpos="-9.11033" ypos="168.022" zpos="364.472" type="tactical.warclaw_body_armor" GUID="rfVLnrNAhE6GPxZBUVgYFw==" iconFile="Img/WvW/WarclawBodyArmor.png" minSize="80" maxSize="100" fadeNear="900" fadeFar="1200"/>
+		<POI MapID="1099" xpos="54.831"   ypos="153.502" zpos="777.199" type="tactical.warclaw_body_armor" GUID="8RTLcXKhdUqCwoxDRBlZEg==" iconFile="Img/WvW/WarclawBodyArmor.png" minSize="80" maxSize="100" fadeNear="900" fadeFar="1200"/>
+
+		<!-- WARCLAW EMBLEM -->
+		<POI MapID="95"   xpos="27.1595" ypos="164.963" zpos="404.047" type="tactical.warclaw_emblem" GUID="+flfKZLK6EOV39pX8o3clA=="/>
+		<POI MapID="96"   xpos="27.1595" ypos="164.963" zpos="404.047" type="tactical.warclaw_emblem" GUID="rxTetRLpM06XmSZFzPVWDQ=="/>
+		<POI MapID="1099" xpos="63.15"   ypos="153.541" zpos="762.87"  type="tactical.warclaw_emblem" GUID="c0ogu/8xDkqGbLQxJTuMEQ=="/>
+		<POI MapID="95"   xpos="30.933"  ypos="164.919" zpos="412.442" type="tactical.warclaw_emblem" GUID="d1AQ/9RlW0uyQ/HpC2rLgQ==" iconFile="Img/WvW/WarclawEmblem.png" minSize="80" maxSize="100" fadeNear="1000" fadeFar="1500"/>
+		<POI MapID="96"   xpos="30.933"  ypos="164.919" zpos="412.442" type="tactical.warclaw_emblem" GUID="koQOLb7MJUWv2SPFgRYPag==" iconFile="Img/WvW/WarclawEmblem.png" minSize="80" maxSize="100" fadeNear="1000" fadeFar="1500"/>
+		<POI MapID="1099" xpos="62.0303" ypos="153.54" zpos="771.708"  type="tactical.warclaw_emblem" GUID="DRl7CPWjeUyVnugaaYH/fQ==" iconFile="Img/WvW/WarclawEmblem.png" minSize="80" maxSize="100" fadeNear="1000" fadeFar="1500"/>
+
+		<!-- WARCLAW GORGET -->
+		<POI MapID="95"   xpos="27.1595" ypos="164.963" zpos="404.047" type="tactical.warclaw_gorget" GUID="nRNadwS+GkqxxAphQVdEHg=="/>
+		<POI MapID="96"   xpos="27.1595" ypos="164.963" zpos="404.047" type="tactical.warclaw_gorget" GUID="3m8NOiXVAUG2y1B3KyG6WA=="/>
+		<POI MapID="1099" xpos="63.15"   ypos="153.541" zpos="762.87"  type="tactical.warclaw_gorget" GUID="4cD76DA8oEWyayd5HdzdZw=="/>
+		<POI MapID="95"   xpos="28.8282" ypos="164.947" zpos="409.484" type="tactical.warclaw_gorget" GUID="vELO8xZ99Eu+qH6oKOdKMw==" iconFile="Img/WvW/WarclawGorget.png" minSize="80" maxSize="100" fadeNear="1000" fadeFar="1500"/>
+		<POI MapID="96"   xpos="28.8282" ypos="164.947" zpos="409.484" type="tactical.warclaw_gorget" GUID="bf4lCerY1EWt+2EdUQYW0Q==" iconFile="Img/WvW/WarclawGorget.png" minSize="80" maxSize="100" fadeNear="1000" fadeFar="1500"/>
+		<POI MapID="1099" xpos="63.138"  ypos="153.544" zpos="768.453" type="tactical.warclaw_gorget" GUID="+vPm2otF+0OnK3Ix9VSGZw==" iconFile="Img/WvW/WarclawGorget.png" minSize="80" maxSize="100" fadeNear="1000" fadeFar="1500"/>
+
+		<!-- WARCLAW HELMET -->
+		<POI MapID="95"   xpos="27.1595" ypos="164.963" zpos="404.047" type="tactical.warclaw_helmet" GUID="WOtW3MoxckCtvdPONp/cHg=="/>
+		<POI MapID="96"   xpos="27.1595" ypos="164.963" zpos="404.047" type="tactical.warclaw_helmet" GUID="FHqK7rhTwU+CNTP6r+9DYg=="/>
+		<POI MapID="1099" xpos="63.15"   ypos="153.541" zpos="762.87"  type="tactical.warclaw_helmet" GUID="omlhRKTr9k6qcn+Hwm9s7g=="/>
+		<POI MapID="95"   xpos="26.8256" ypos="164.967" zpos="406.786" type="tactical.warclaw_helmet" GUID="93bk/lKIMUOjF9xDf4raqA==" iconFile="Img/WvW/WarclawHelmet.png" minSize="80" maxSize="100" fadeNear="1000" fadeFar="1500"/>
+		<POI MapID="96"   xpos="26.8256" ypos="164.967" zpos="406.786" type="tactical.warclaw_helmet" GUID="l1AQP7stNEWJvbCwlridig==" iconFile="Img/WvW/WarclawHelmet.png" minSize="80" maxSize="100" fadeNear="1000" fadeFar="1500"/>
+		<POI MapID="1099" xpos="60.883"  ypos="153.544" zpos="765.193" type="tactical.warclaw_helmet" GUID="llTDfDR6WkuiUnNB2Qrncg==" iconFile="Img/WvW/WarclawHelmet.png" minSize="80" maxSize="100" fadeNear="1000" fadeFar="1500"/>
+
+		<!-- WARCLAW HORN SPIKES -->
+		<POI MapID="95"   xpos="27.1595" ypos="164.963" zpos="404.047" type="tactical.warclaw_horn_spikes" GUID="8tP8ldU7j0unPhPVzH1nbQ=="/>
+		<POI MapID="96"   xpos="27.1595" ypos="164.963" zpos="404.047" type="tactical.warclaw_horn_spikes" GUID="q+s4O59ca02TamIPknXy+A=="/>
+		<POI MapID="1099" xpos="63.15"   ypos="153.541" zpos="762.87"  type="tactical.warclaw_horn_spikes" GUID="YH3PEH6xFEyhB35NGoO1rg=="/>
+		<POI MapID="95"   xpos="24.3142" ypos="164.968" zpos="403.536" type="tactical.warclaw_horn_spikes" GUID="G0gL9q5ykUO6EhiB6UkNIQ==" iconFile="Img/WvW/WarclawHornSpikes.png" minSize="80" maxSize="100" fadeNear="1000" fadeFar="1500"/>
+		<POI MapID="96"   xpos="24.3142" ypos="164.968" zpos="403.536" type="tactical.warclaw_horn_spikes" GUID="0sYceZD31EOLqvEm996VHQ==" iconFile="Img/WvW/WarclawHornSpikes.png" minSize="80" maxSize="100" fadeNear="1000" fadeFar="1500"/>
+		<POI MapID="1099" xpos="58.2088" ypos="153.544" zpos="762.16"  type="tactical.warclaw_horn_spikes" GUID="kwi8ltiArEOmLUWsEbScsA==" iconFile="Img/WvW/WarclawHornSpikes.png" minSize="80" maxSize="100" fadeNear="1000" fadeFar="1500"/>
+
+		<!-- WARCLAW LEG ARMOR -->
+		<POI MapID="95"   xpos="27.1595"  ypos="164.963" zpos="404.047" type="tactical.warclaw_leg_armor" GUID="uiJVLf5/KkCJ40Y5tvwhRA=="/>
+		<POI MapID="96"   xpos="27.1595"  ypos="164.963" zpos="404.047" type="tactical.warclaw_leg_armor" GUID="aihhbSe+NUeufuYMKHiC/w=="/>
+		<POI MapID="1099" xpos="63.15"    ypos="153.541" zpos="762.87"  type="tactical.warclaw_leg_armor" GUID="pUvEae+Xv0qk/2nbA6t/Ug=="/>
+		<POI MapID="95"   xpos="-11.1154" ypos="168.022" zpos="368.55"  type="tactical.warclaw_leg_armor" GUID="yzlrlzDrrkeSJ3d4cHoegg==" iconFile="Img/WvW/WarclawLegArmor.png" minSize="80" maxSize="100" fadeNear="900" fadeFar="1200"/>
+		<POI MapID="96"   xpos="-11.1154" ypos="168.022" zpos="368.55"  type="tactical.warclaw_leg_armor" GUID="yzlrlzDrrkeSJ3d4cHoegg==" iconFile="Img/WvW/WarclawLegArmor.png" minSize="80" maxSize="100" fadeNear="900" fadeFar="1200"/>
+		<POI MapID="1099" xpos="58.7375"  ypos="153.504" zpos="774.116" type="tactical.warclaw_leg_armor" GUID="BiTkj2bp1kiQebgCLqc4Tg==" iconFile="Img/WvW/WarclawLegArmor.png" minSize="80" maxSize="100" fadeNear="900" fadeFar="1200"/>
+
+		<!-- WARCLAW SADDLE -->
+		<POI MapID="95"   xpos="27.1595" ypos="164.963" zpos="404.047" type="tactical.warclaw_saddle" GUID="NCQQ8567zUuP6MP0YEDEpw=="/>
+		<POI MapID="96"   xpos="27.1595" ypos="164.963" zpos="404.047" type="tactical.warclaw_saddle" GUID="3V7V+YPO6keKbs10cJ9yDw=="/>
+		<POI MapID="1099" xpos="63.15"   ypos="153.541" zpos="762.87"  type="tactical.warclaw_saddle" GUID="xiklkLPT7UiGb9nM+YrP6g=="/>
+		<POI MapID="95"   xpos="22.1007" ypos="167.29"  zpos="400.325" type="tactical.warclaw_saddle" GUID="SrDVNALjIk6wvHtbl7AaKw==" iconFile="Img/WvW/WarclawSaddle.png" minSize="80" maxSize="100" fadeNear="1000" fadeFar="1500"/>
+		<POI MapID="96"   xpos="22.1007" ypos="167.29"  zpos="400.325" type="tactical.warclaw_saddle" GUID="XUvLT0Qc4U+rqopCJUz1tw==" iconFile="Img/WvW/WarclawSaddle.png" minSize="80" maxSize="100" fadeNear="1000" fadeFar="1500"/>
+		<POI MapID="1099" xpos="53.9227" ypos="153.544" zpos="763.069" type="tactical.warclaw_saddle" GUID="RK+2QLjCSkmRjjV1AgKIhQ==" iconFile="Img/WvW/WarclawSaddle.png" minSize="80" maxSize="100" fadeNear="1000" fadeFar="1500"/>
+
+		<!-- WARCLAW TAIL ARMOR -->
+		<POI MapID="95"   xpos="27.1595" ypos="164.963" zpos="404.047" type="tactical.warclaw_tail_armor" GUID="/u+VyTbh90aX78m61Kq1Fw=="/>
+		<POI MapID="96"   xpos="27.1595" ypos="164.963" zpos="404.047" type="tactical.warclaw_tail_armor" GUID="5S8KjivLOEyr0jx9HIzDIA=="/>
+		<POI MapID="1099" xpos="63.15"   ypos="153.541" zpos="762.87"  type="tactical.warclaw_tail_armor" GUID="qzB2uKZwn0KH0lNCg8PwKQ=="/>
+		<POI MapID="95"   xpos="20.0421" ypos="167.903" zpos="396.994" type="tactical.warclaw_tail_armor" GUID="e7JrnUcxOkORHrZTb+IFxQ==" iconFile="Img/WvW/WarclawTailArmor.png" minSize="80" maxSize="100" fadeNear="1000" fadeFar="1500"/>
+		<POI MapID="96"   xpos="20.0421" ypos="167.903" zpos="396.994" type="tactical.warclaw_tail_armor" GUID="XpYiFgDjZ0KaJm9munXnEw==" iconFile="Img/WvW/WarclawTailArmor.png" minSize="80" maxSize="100" fadeNear="1000" fadeFar="1500"/>
+		<POI MapID="1099" xpos="49.6192" ypos="153.503" zpos="766.427" type="tactical.warclaw_tail_armor" GUID="nNn4PA3XEE+lh5vidakVXQ==" iconFile="Img/WvW/WarclawTailArmor.png" minSize="80" maxSize="100" fadeNear="1000" fadeFar="1500"/>
+
+
+		<!--
+		######################
+		WORLD VS WORLD WARCLAW
+		######################
+		-->
+
+		<!-- ALWAYS LAND ON YOUR FEET -->
+		<POI MapID="95"   xpos="-49.0934" ypos="156.478" zpos="504.577" type="tactical.always_land_on_your_feet" GUID="gSR5juovgEmfJ2LFHuz7Wg=="/>
+		<POI MapID="96"   xpos="-49.0934" ypos="156.478" zpos="504.577" type="tactical.always_land_on_your_feet" GUID="SOFAFXfkBEeWywTexad9dw=="/>
+		<POI MapID="1099" xpos="-33.779"  ypos="151.077" zpos="785.221" type="tactical.always_land_on_your_feet" GUID="INQqzpL76US+120aoIBmNw=="/>
+		<POI MapID="95"   xpos="-43.2556" ypos="156.48"  zpos="496.9"   type="tactical.always_land_on_your_feet" GUID="dbLgjDnxjUWC+RLqdyYmxg==" iconFile="Img/WvW/AlwaysLandOnYourFeet.png" minSize="80" maxSize="100" fadeNear="1000" fadeFar="1500"/>
+		<POI MapID="96"   xpos="-43.2556" ypos="156.48"  zpos="496.9"   type="tactical.always_land_on_your_feet" GUID="oHdkCTJlrU2hmHI+7LMdSA==" iconFile="Img/WvW/AlwaysLandOnYourFeet.png" minSize="80" maxSize="100" fadeNear="1000" fadeFar="1500"/>
+		<POI MapID="1099" xpos="-27.8476" ypos="149.886" zpos="776.56"  type="tactical.always_land_on_your_feet" GUID="q2E8aNlm3EGlAG7wV6664w==" iconFile="Img/WvW/AlwaysLandOnYourFeet.png" minSize="80" maxSize="100" fadeNear="1000" fadeFar="1500"/>
+
+		<!-- CONSOLE CRASHER -->
+		<POI MapID="139" xpos="16.1094" ypos="385.831" zpos="21.1974"  type="tactical.console_crasher" GUID="Ffv38o3bQ063MDSpy7rYwA=="/>
+
+		<!-- FATAL FANGS -->
+		<POI MapID="95"   xpos="-49.0934" ypos="156.478" zpos="504.577" type="tactical.fatal_fangs" GUID="iW8TAAPonkKn6CsWCSXIPg=="/>
+		<POI MapID="96"   xpos="-49.0934" ypos="156.478" zpos="504.577" type="tactical.fatal_fangs" GUID="0AMZjhMmXk6p+qUPdw9g3g=="/>
+		<POI MapID="1099" xpos="-33.779"  ypos="151.077" zpos="785.221" type="tactical.fatal_fangs" GUID="t4SfSOgvE0uveVl26XtAIA=="/>
+		<POI MapID="95"   xpos="-44.8465" ypos="156.48"  zpos="500.676" type="tactical.fatal_fangs" GUID="nmMleREqgUGWEI9Ee9LmcQ==" iconFile="Img/WvW/FishOutOfWater.png" minSize="80" maxSize="100" fadeNear="1000" fadeFar="1500"/>
+		<POI MapID="96"   xpos="-44.8465" ypos="156.48"  zpos="500.676" type="tactical.fatal_fangs" GUID="hUkirc9CY0OkQOM4KFyDDA==" iconFile="Img/WvW/FishOutOfWater.png" minSize="80" maxSize="100" fadeNear="1000" fadeFar="1500"/>
+		<POI MapID="1099" xpos="-28.6028" ypos="150.051" zpos="781.706" type="tactical.fatal_fangs" GUID="k4piUHOTkEGQ1VpjAVb0cw==" iconFile="Img/WvW/FishOutOfWater.png" minSize="80" maxSize="100" fadeNear="1000" fadeFar="1500"/>
+
+		<!-- FISH OUT OF WATER -->
+		<POI MapID="95"   xpos="-49.0934" ypos="156.478" zpos="504.577" type="tactical.fish_out_of_water" GUID="LjHGj00Rw0ihuZfVMDedVA=="/>
+		<POI MapID="96"   xpos="-49.0934" ypos="156.478" zpos="504.577" type="tactical.fish_out_of_water" GUID="SLBckm8Kv0y1pPRFGJ2xIg=="/>
+		<POI MapID="1099" xpos="-33.779"  ypos="151.077" zpos="785.221" type="tactical.fish_out_of_water" GUID="499peAUksk2YUufi6xf6eQ=="/>
+		<POI MapID="95"   xpos="-46.0298" ypos="156.48"  zpos="504.995" type="tactical.fish_out_of_water" GUID="FmYq9HiDlUKDdhURyY2Pxg==" iconFile="Img/WvW/FatalFangs.png" minSize="80" maxSize="100" fadeNear="1000" fadeFar="1500"/>
+		<POI MapID="96"   xpos="-46.0298" ypos="156.48"  zpos="504.995" type="tactical.fish_out_of_water" GUID="3ZsDI2Q3hU2vilZQGUOxmw==" iconFile="Img/WvW/FatalFangs.png" minSize="80" maxSize="100" fadeNear="1000" fadeFar="1500"/>
+		<POI MapID="1099" xpos="-30.6038" ypos="150.368" zpos="786.865" type="tactical.fish_out_of_water" GUID="4HfMWmwLU0mBvbuht7x/Mg==" iconFile="Img/WvW/FatalFangs.png" minSize="80" maxSize="100" fadeNear="1000" fadeFar="1500"/>
+
+		<!-- IS THIS A SCRATCHING POST? -->
+		<Trail type="tactical.is_this_a_scratching_post" GUID="5+1JeF6+CEC5sWkMUIO1iw==" trailData="Data/WvW/Warclaw_IsThisaScratchingPost.trl" texture="Data/SemiLine.png" color="ffff6666" alpha="1" fadeNear="3000" fadeFar="4000" animSpeed="0"/>
+		<POI MapID="91"  xpos="67.1685" ypos="68.1539" zpos="38.853"  type="tactical.is_this_a_scratching_post" GUID="Iac2rK5u2kWx5G+IlcuPcA=="/>
+		<POI MapID="648" xpos="33.0223" ypos="102.477" zpos="9.23547" type="tactical.is_this_a_scratching_post" GUID="2je8CktLekqGIb6JN/tZbQ=="/>
+
+		<!-- LAP CAT -->
+		<Trail type="tactical.lap_cat" GUID="UnfymiR86kCWwBOGC2y+rA==" trailData="Data/WvW/Warclaw_LapCat.trl" texture="Data/SemiLine.png" color="ffff6666" alpha="1" fadeNear="3000" fadeFar="4000" animSpeed="0"/>
+		<POI MapID="326" xpos="8.7562"  ypos="292.301" zpos="-359.449" type="tactical.lap_cat" GUID="GGWKzsmO2EanGzIAnxoyGQ=="/>
+		<POI MapID="374" xpos="30.7612" ypos="394.922" zpos="-320.191" type="tactical.lap_cat" GUID="wmN8xNas3Ea1CAsT+J2BEw=="/>
+
+		<!-- NOT ON THE GUEST LIST -->
+		<POI MapID="95"   xpos="-49.0934" ypos="156.478" zpos="504.577" type="tactical.not_on_the_guest_list" GUID="aZmiR/2fkU2WMrf/0FH7dg=="/>
+		<POI MapID="96"   xpos="-49.0934" ypos="156.478" zpos="504.577" type="tactical.not_on_the_guest_list" GUID="jBaDm9aUsUW1eGadzi2RiQ=="/>
+		<POI MapID="1099" xpos="-33.779"  ypos="151.077" zpos="785.221" type="tactical.not_on_the_guest_list" GUID="FJSQ0l73QkyjzzACJjuMGw=="/>
+		<POI MapID="95"   xpos="-47.139"  ypos="156.48"  zpos="509.72"  type="tactical.not_on_the_guest_list" GUID="8laJ1JQtPk2VkCmLi+ggnw==" iconFile="Img/WvW/NotOnTheGuestList.png" minSize="80" maxSize="100" fadeNear="1000" fadeFar="1500"/>
+		<POI MapID="96"   xpos="-47.139"  ypos="156.48"  zpos="509.72"  type="tactical.not_on_the_guest_list" GUID="Y368KHYpekiAp7pNggT/lw==" iconFile="Img/WvW/NotOnTheGuestList.png" minSize="80" maxSize="100" fadeNear="1000" fadeFar="1500"/>
+		<POI MapID="1099" xpos="-34.1149" ypos="150.648" zpos="790.632" type="tactical.not_on_the_guest_list" GUID="vrxD4uN6tkSRcUrI0vDaOw==" iconFile="Img/WvW/NotOnTheGuestList.png" minSize="80" maxSize="100" fadeNear="1000" fadeFar="1500"/>
+
+		<!-- OFFICIALLY UNINVITED -->
+		<POI MapID="95"   xpos="-49.0934" ypos="156.478" zpos="504.577" type="tactical.officially_uninvited" GUID="4dz5eHynNEqz8gZq80d7LA=="/>
+		<POI MapID="96"   xpos="-49.0934" ypos="156.478" zpos="504.577" type="tactical.officially_uninvited" GUID="586gWykcyUiKBO3ZJ4KE3Q=="/>
+		<POI MapID="1099" xpos="-33.779"  ypos="151.077" zpos="785.221" type="tactical.officially_uninvited" GUID="8cqur7mlo0ykbUNJn1IBHA=="/>
+		<POI MapID="95"   xpos="-46.2235" ypos="156.479" zpos="514.839" type="tactical.officially_uninvited" GUID="84DO+H7yAUyNDKltu90SVQ==" iconFile="Img/WvW/OfficiallyUninvited.png" minSize="80" maxSize="100" fadeNear="1000" fadeFar="1500"/>
+		<POI MapID="96"   xpos="-46.2235" ypos="156.479" zpos="514.839" type="tactical.officially_uninvited" GUID="JMYtV0JVDUObOcnGszWvkw==" iconFile="Img/WvW/OfficiallyUninvited.png" minSize="80" maxSize="100" fadeNear="1000" fadeFar="1500"/>
+		<POI MapID="1099" xpos="-38.5523" ypos="150.895" zpos="792.315" type="tactical.officially_uninvited" GUID="9fwazEahm0+climcZ0RxrA==" iconFile="Img/WvW/OfficiallyUninvited.png" minSize="80" maxSize="100" fadeNear="1000" fadeFar="1500"/>
+
+		<!-- SAVAGE SCHOLAR -->
+		<!-- 1 -->
+		<POI MapID="38" xpos="845.521"  ypos="44.1706" zpos="-824.455" type="tactical.savage_scholar.1" GUID="UILgzWJYOUKOKeBPWQZDGg=="/><!-- Blue side -->
+		<POI MapID="38" xpos="-836.098" ypos="28.7835" zpos="-801.184" type="tactical.savage_scholar.1" GUID="3a6e7kZQZ0WMC019itF+6Q=="/><!-- Green side-->
+		<POI MapID="38" xpos="62.6862"  ypos="45.9192" zpos="786.768"  type="tactical.savage_scholar.1" GUID="yoBWGrhAwkmzry5Lydxrpg=="/><!-- Red side -->
+		<!-- 2 -->
+		<POI MapID="38" xpos="492.229"  ypos="14.6811" zpos="-664.016" type="tactical.savage_scholar.2" GUID="u0HMHMov6Ui2+797pHAfKg=="/>
+		<POI MapID="38" xpos="-731.711" ypos="13.433"  zpos="-462.629" type="tactical.savage_scholar.2" GUID="QhghSK/nK0yevTK+fcvaRw=="/>
+		<POI MapID="38" xpos="-283.651" ypos="39.6091" zpos="735.149"  type="tactical.savage_scholar.2" GUID="J+Ufg4pbPE+2uohfYDpeyg=="/>
+		<!-- 3 -->
+		<POI MapID="38" xpos="367.868"  ypos="17.4707" zpos="-551.306" type="tactical.savage_scholar.3" GUID="H9moT6FqhUmIVqM3YhuXJw=="/>
+		<POI MapID="38" xpos="-400.881" ypos="0.32059" zpos="-240.322" type="tactical.savage_scholar.3" GUID="zcMfi7doJka5ItZVmCiZDw=="/>
+		<POI MapID="38" xpos="-214.194" ypos="0.20872" zpos="379.88"   type="tactical.savage_scholar.3" GUID="7VtsMrBvm0qDL0SdWnYFbA=="/>
+		<!-- 4 -->
+		<POI MapID="38" xpos="417.132"  ypos="0.81626" zpos="-212.599" type="tactical.savage_scholar.4" GUID="f4/luRgnhk6sU60+76C0Gw=="/>
+		<POI MapID="38" xpos="-231.589" ypos="6.10805" zpos="-515.8"   type="tactical.savage_scholar.4" GUID="uTE0N7kGokuxXJSCduZDIA=="/>
+		<POI MapID="38" xpos="284.878"  ypos="31.0193" zpos="324.713"  type="tactical.savage_scholar.4" GUID="GjuXwLiTf0Krfr+v/WcyCg=="/>
+		<!-- 5 -->
+		<POI MapID="38" xpos="507.001"  ypos="49.742"  zpos="136.651"  type="tactical.savage_scholar.5" GUID="5FpepVOs7U+pesSG1Gb6Fw=="/>
+		<!-- 6 -->
+		<POI MapID="38" xpos="117.737"  ypos="3.4105"  zpos="-524.405" type="tactical.savage_scholar.6" GUID="UKdwj/JymEW6d6EZDVgggQ=="/>
+		<!-- 7 -->
+		<POI MapID="38" xpos="-234.857" ypos="27.1944" zpos="89.0892"  type="tactical.savage_scholar.7" GUID="8ofAJBZzZ0CUckFML/5e/A=="/>
+
+		<!-- SLEEPY KITTY -->
+		<POI MapID="18" xpos="96.7109" ypos="134.995" zpos="-8.92348" type="tactical.sleepy_kitty" GUID="B3ftUzygmEuyrTrEJ3zKvw=="/>
+
+		<!-- SMODUR'S BLESSING -->
+		<Trail type="tactical.smodur_s_blessing" GUID="OPO5WU+hqku+S+LIkJ9FpA==" trailData="Data/WvW/Warclaw_SmodursBlessing.trl" texture="Data/SemiLine.png" color="ffff6666" alpha="1" fadeNear="3000" fadeFar="4000" animSpeed="0"/>
+		<POI MapID="218" xpos="39.9731" ypos="214.564" zpos="221.904" type="tactical.smodur_s_blessing" GUID="STsytxKrLkKpfWNgqWOUzQ=="/>
+		<POI MapID="373" xpos="5.37888" ypos="245.491" zpos="222.74"  type="tactical.smodur_s_blessing" GUID="z8Ft0Vr420Cho9DN9Mmn0g==" heightOffset="4"/>
+
+		<!-- HIDDEN: PERFECT FIT -->
+		<!-- 1 -->
+		<Trail type="tactical.perfect_fit.1" GUID="EfzrUtN6SEC/vB0hhh3upw==" trailData="Data/WvW/Warclaw_PerfectFit_1_95.trl" texture="Data/SemiLine.png" color="ffff6666" alpha="1" fadeNear="3000" fadeFar="4000" animSpeed="0"/>
+		<Trail type="tactical.perfect_fit.1" GUID="3DwhxuxDVkqheYbj37cQDA==" trailData="Data/WvW/Warclaw_PerfectFit_1_96.trl" texture="Data/SemiLine.png" color="ffff6666" alpha="1" fadeNear="3000" fadeFar="4000" animSpeed="0"/>
+		<POI MapID="95"   xpos="-585.842" ypos="27.3799" zpos="497.531"  type="tactical.perfect_fit.1" GUID="boT0+q03i0mDVYKQ5C7x6Q=="/>
+		<POI MapID="95"   xpos="-699.198" ypos="15.6865" zpos="410.374"  type="tactical.perfect_fit.1" GUID="/9uS7NF/8EC+JrekYiStgg==" fadeNear="2000" fadeFar="2500"/>
+		<POI MapID="96"   xpos="-585.842" ypos="27.3799" zpos="497.531"  type="tactical.perfect_fit.1" GUID="LR4Qo+08Gkq1lkngpZ+eWQ=="/>
+		<POI MapID="96"   xpos="-699.198" ypos="15.6865" zpos="410.374"  type="tactical.perfect_fit.1" GUID="zfrM1gPAZkuGyHvrRJoujg==" fadeNear="2000" fadeFar="2500"/>
+		<!-- 2 -->
+		<Trail type="tactical.perfect_fit.2" GUID="hiyLN34Puk+/f3GayJJWLg==" trailData="Data/WvW/Warclaw_PerfectFit_2.trl" texture="Data/SemiLine.png" color="ffff6666" alpha="1" fadeNear="3000" fadeFar="4000" animSpeed="0"/>
+		<POI MapID="1099" xpos="-798.736" ypos="55.7467" zpos="532.111"  type="tactical.perfect_fit.2" GUID="qMo/xBKArU6GUrSe6QqQ8w=="/>
+		<POI MapID="1099" xpos="-881.359" ypos="0.32039" zpos="471.296"  type="tactical.perfect_fit.2" GUID="pYJcGWjHvUGjGLwuDmrVbA==" fadeNear="2000" fadeFar="2500"/>
+		<!-- 3 -->
+		<Trail type="tactical.perfect_fit.3" GUID="VOL/VxwYqkOkPdgAuJZ/sQ==" trailData="Data/WvW/Warclaw_PerfectFit_3.trl" texture="Data/SemiLine.png" color="ffff6666" alpha="1" fadeNear="3000" fadeFar="4000" animSpeed="0"/>
+		<POI MapID="91"   xpos="76.3804"  ypos="13.5757" zpos="-75.0052" type="tactical.perfect_fit.3" GUID="uT+vKSXXSEOzb8gDTCG69A=="/>
+		<POI MapID="91"   xpos="155.632"  ypos="19.8357" zpos="-147.839" type="tactical.perfect_fit.3" GUID="6WF6hl2mWE2AIas7uAXYIQ==" fadeNear="2000" fadeFar="2500"/>
+		<!-- 4 -->
+		<POI MapID="139"  xpos="177.226"  ypos="337.696" zpos="190.367"  type="tactical.perfect_fit.4" GUID="bqrgo8HSIk2zEDLwVSabgg=="/>
+		<!-- 5 -->
+		<POI MapID="218"  xpos="363.142"  ypos="139.239" zpos="161.865"  type="tactical.perfect_fit.5" GUID="p939rEyieEmYPkERYwPyLw=="/>
+		<!-- 6 -->
+		<Trail type="tactical.perfect_fit.6" GUID="J/EUZfAUaECwOZanAZBZJw==" trailData="Data/WvW/Warclaw_PerfectFit_6.trl" texture="Data/SemiLine.png" color="ffff6666" alpha="1" fadeNear="3000" fadeFar="4000" animSpeed="0"/>
+		<POI MapID="326"  xpos="53.951"   ypos="248.717" zpos="132.634"  type="tactical.perfect_fit.6" GUID="jZgbexy6gEW+p4mTuU45AQ=="/>
+		<POI MapID="326"  xpos="-57.7038" ypos="240.983" zpos="163.141"  type="tactical.perfect_fit.6" GUID="i37DbyDeQ0+2qHwTfhUA6g==" fadeNear="2000" fadeFar="2500"/>
+		<!-- 7 -->
+		<POI MapID="18"   xpos="-264.824" ypos="59.6321" zpos="-330.422" type="tactical.perfect_fit.7" GUID="TEbdIFFFMUKkJYRnAEJRMw=="/>
+		<!-- 8 -->
+		<POI MapID="50"   xpos="-293.651" ypos="33.4385" zpos="-387.678" type="tactical.perfect_fit.8" GUID="O1kDvWr/v0GrF/6oW1RNmw=="/>
+
+	</POIs>
+</OverlayData>

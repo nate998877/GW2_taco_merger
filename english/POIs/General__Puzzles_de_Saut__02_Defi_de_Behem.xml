@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+POIs: Cloud Strife.7492 - Xenophy.2716 - ReActif.9251
+Date: 2017/08/23
+-->
+<OverlayData>
+	<MarkerCategory name="general" DisplayName="General">
+		<MarkerCategory name="puzzles_de_saut" DisplayName="Jumping Puzzles" iconFile="Img\Guide.png" iconSize="0.75">
+			<MarkerCategory name="defi_de_behem" DisplayName="Behem Gauntlet"/>
+		</MarkerCategory>
+	</MarkerCategory>
+
+	<POIs>
+
+		<!-- Début -->
+		<POI MapID="20" xpos="388.305" ypos="90.3053" zpos="-629.949" type="general.puzzles_de_saut.debut" GUID="ud/EcdkS60ug2fSEUefpcw=="/>
+
+		<!-- Route -->
+		<Route MapID="20" name="Defi_de_Behem" resetposx="388.305" resetposy="90.3053" resetposz="-629.949" resetrange="2">
+			<POI MapID="20" xpos="403.513" ypos="95.4063" zpos="-622.609" type="general.puzzles_de_saut.defi_de_behem" GUID="H9Hpd2glO0GdGf1bRPjBxg=="/>
+			<POI MapID="20" xpos="417.274" ypos="98.7537" zpos="-617.051" type="general.puzzles_de_saut.defi_de_behem" GUID="YhWqHVWuwkWpvFYqBI+m4g=="/>
+			<POI MapID="20" xpos="433.532" ypos="101.866" zpos="-610.402" type="general.puzzles_de_saut.defi_de_behem" GUID="Ca872WVupkanAW8ufUae3A=="/>
+			<POI MapID="20" xpos="453.165" ypos="105.294" zpos="-605.568" type="general.puzzles_de_saut.defi_de_behem" GUID="3doiHoMd6kC1XUhiGVaKFA=="/>
+			<POI MapID="20" xpos="473.111" ypos="107.568" zpos="-602.88" type="general.puzzles_de_saut.defi_de_behem" GUID="FCS6AzDbxkKpnkQyrNgVhw=="/>
+			<POI MapID="20" xpos="497.959" ypos="108.303" zpos="-600.051" type="general.puzzles_de_saut.defi_de_behem" GUID="oRHofo7j9kOvS8FO046Ang=="/>
+			<POI MapID="20" xpos="514.467" ypos="105.425" zpos="-599.808" type="general.puzzles_de_saut.defi_de_behem" GUID="NwEZR6nff0evKd76szVdYw=="/>
+			<POI MapID="20" xpos="531.348" ypos="101.734" zpos="-597.949" type="general.puzzles_de_saut.defi_de_behem" GUID="dJNi8/QTaUSHboBL3lfK0Q=="/>
+			<POI MapID="20" xpos="536.51" ypos="103.885" zpos="-598.567" type="general.puzzles_de_saut.defi_de_behem" GUID="/1OTHz4ikkGLDb43Xhip0w=="/>
+			<POI MapID="20" xpos="542.271" ypos="97.3251" zpos="-597.429" type="general.puzzles_de_saut.defi_de_behem" GUID="AydK8NgEWUmT4PetzSvVCA=="/>
+			<POI MapID="20" xpos="551.461" ypos="94.7808" zpos="-595.388" type="general.puzzles_de_saut.defi_de_behem" GUID="NXEjUP4vfk62PzReHL7Btw=="/>
+			<POI MapID="20" xpos="561.583" ypos="95.863" zpos="-595.365" type="general.puzzles_de_saut.defi_de_behem" GUID="3Me7VqGoOUSMxY5QHVvasQ=="/>
+			<POI MapID="20" xpos="568.668" ypos="98.6371" zpos="-591.128" type="general.puzzles_de_saut.defi_de_behem" GUID="0Sedb0wMEUie1lDAtlpu/w=="/>
+			<POI MapID="20" xpos="570.887" ypos="96.7584" zpos="-581.976" type="general.puzzles_de_saut.defi_de_behem" GUID="w1DASrryCUmRHyY1QKNzhQ=="/>
+			<POI MapID="20" xpos="578.117" ypos="94.7471" zpos="-573.704" type="general.puzzles_de_saut.defi_de_behem" GUID="ovoSkGfMeUuxFv7CUJB5Xg=="/>
+			<POI MapID="20" xpos="577.628" ypos="89.1065" zpos="-564.774" type="general.puzzles_de_saut.defi_de_behem" GUID="Tvud1Vamp0234zhR9uEFag=="/>
+			<POI MapID="20" xpos="573.645" ypos="86.6734" zpos="-551.32" type="general.puzzles_de_saut.defi_de_behem" GUID="voZ0hA0SoU+JG4iB3BLQKg=="/>
+			<POI MapID="20" xpos="564.642" ypos="86.5647" zpos="-548.781" type="general.puzzles_de_saut.defi_de_behem" GUID="7eNO7GCA/kSNGzpoeeIzwg=="/>
+			<POI MapID="20" xpos="556.375" ypos="79.1637" zpos="-544.464" type="general.puzzles_de_saut.defi_de_behem" GUID="WKVbEzuabEWBfDXQ/YO/HQ=="/>
+			<POI MapID="20" xpos="546.831" ypos="78.8747" zpos="-541.97" type="general.puzzles_de_saut.defi_de_behem" GUID="fPZdA5vT902+k5vln/dLNA=="/>
+			<POI MapID="20" xpos="541.27" ypos="77.3865" zpos="-537.726" type="general.puzzles_de_saut.defi_de_behem" GUID="N5QgLjXnDkqGGADIWoqC/A=="/>
+			<POI MapID="20" xpos="535.697" ypos="60.8201" zpos="-526.922" type="general.puzzles_de_saut.defi_de_behem" GUID="igMqBZs+bU2UJ+mG3iWcAw=="/>
+			<POI MapID="20" xpos="540.647" ypos="61.0568" zpos="-517.51" type="general.puzzles_de_saut.defi_de_behem" GUID="N4ISLgupTU2ifeJLmUZVJg=="/>
+			<POI MapID="20" xpos="547.949" ypos="61.1203" zpos="-507.922" type="general.puzzles_de_saut.defi_de_behem" GUID="NifOzWOK+UKDwzxlUjRsVQ=="/>
+			<POI MapID="20" xpos="554.872" ypos="60.6057" zpos="-499.365" type="general.puzzles_de_saut.defi_de_behem" GUID="BsBiXOYWdUOvCdLGqUf0KA=="/>
+			<POI MapID="20" xpos="565.188" ypos="62.4526" zpos="-497.005" type="general.puzzles_de_saut.defi_de_behem" GUID="dVP3LH4Gnka9zWRrqFgn7A=="/>
+			<POI MapID="20" xpos="578.808" ypos="62.7106" zpos="-495.682" type="general.puzzles_de_saut.defi_de_behem" GUID="BGgkHJmHDEqLA1dCoA20LQ=="/>
+			<POI MapID="20" xpos="591.024" ypos="59.0951" zpos="-502.252" type="general.puzzles_de_saut.defi_de_behem" GUID="w87EM3m160+rYBnlMLdTvw=="/>
+			<POI MapID="20" xpos="602.406" ypos="50.5997" zpos="-506.271" type="general.puzzles_de_saut.defi_de_behem" GUID="cIF04O9r2EGgrrsFNLOuWw=="/>
+			<POI MapID="20" xpos="604.509" ypos="49.2466" zpos="-512.032" type="general.puzzles_de_saut.defi_de_behem" GUID="oAXtlngXD0iWolDSWXQ4gQ=="/>
+			<POI MapID="20" xpos="606.377" ypos="41.9504" zpos="-516.612" type="general.puzzles_de_saut.defi_de_behem" GUID="eIJWDC6QzkyAg0iBQBBU1A=="/>
+			<POI MapID="20" xpos="599.438" ypos="27.4205" zpos="-507.748" type="general.puzzles_de_saut.defi_de_behem" GUID="65PhFeqdUkKoli6aw1kI7g=="/>
+			<POI MapID="20" xpos="594.365" ypos="27.746" zpos="-502.336" type="general.puzzles_de_saut.defi_de_behem" GUID="TPb4yArizEC/jZsE3OAg8Q=="/>
+			<POI MapID="20" xpos="584.977" ypos="27.4109" zpos="-500.796" type="general.puzzles_de_saut.defi_de_behem" GUID="WQnEw/5ZQECsyF2QmUWmFQ=="/>
+			<POI MapID="20" xpos="578.396" ypos="28.8289" zpos="-503.955" type="general.puzzles_de_saut.defi_de_behem" GUID="dqZS7kQmbkymcX1kZmZ/tg=="/>
+			<POI MapID="20" xpos="573.647" ypos="24.4387" zpos="-508.198" type="general.puzzles_de_saut.defi_de_behem" GUID="1amO1TNK8UubtN2OBZgJlw=="/>
+			<POI MapID="20" xpos="571.052" ypos="19.2034" zpos="-520.391" type="general.puzzles_de_saut.defi_de_behem" GUID="NvP/BmPFBEqdciH86Wr5iQ=="/>
+		</Route>
+
+		<!-- Coffre -->
+		<POI MapID="20" xpos="571.055" ypos="19.1918" zpos="-520.298" type="general.puzzles_de_saut.defi_de_behem" GUID="AYZo5+eJOECHOIJvIG7V0A==" iconFile="Img\CoffrePuzzle.png" iconSize="1" heightOffset="2.5" behavior="2"/>
+
+	</POIs>
+</OverlayData>

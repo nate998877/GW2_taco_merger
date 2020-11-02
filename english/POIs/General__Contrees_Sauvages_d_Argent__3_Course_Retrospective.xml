@@ -1,0 +1,598 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+POIs: Cloud Strife.7492 - Xenophy.2716 - ReActif.9251
+Date: 2017/08/11
+-->
+<OverlayData>
+	<MarkerCategory name="general" DisplayName="General">
+		<MarkerCategory name="contrees_sauvages_d_argent" DisplayName="The Silverwastes">
+			<MarkerCategory name="course_retrospective" DisplayName="Restrospective Runaround" iconFile="Img\Guide.png" iconSize="0.75" triggerRange="5">
+				<MarkerCategory name="debut" DisplayName="Start" iconFile="Img\PuzzleDebut.png" iconSize="1.5"/>
+			</MarkerCategory>
+		</MarkerCategory>
+	</MarkerCategory>
+
+	<POIs>
+
+		<!-- Début -->
+		<POI MapID="1015" xpos="349.296" ypos="281.131" zpos="133.406" type="general.contrees_sauvages_d_argent.course_retrospective.debut" GUID="u4G1Gaaok02px7K52eZSDA=="/>
+
+		<!-- Route -->
+		<Route MapID="1015" name="Course_Retrospective" resetposx="349.296" resetposy="281.131" resetposz="133.406" resetrange="2">
+			<POI MapID="1015" xpos="339.907" ypos="279.635" zpos="132.695" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="/F7B7xTtWUGOimf45Nyoxg=="/>
+			<POI MapID="1015" xpos="331.196" ypos="279.265" zpos="132" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="BcKTQYWb0Ue/NyqCEVq7xg=="/>
+			<POI MapID="1015" xpos="319.927" ypos="279.536" zpos="130.513" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="2dBJINtx40+2OiSmpT8QcA=="/>
+			<POI MapID="1015" xpos="310.907" ypos="280.594" zpos="129.819" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="pYBFMn9iZEKrPsbJtJhGDg=="/>
+			<POI MapID="1015" xpos="306.185" ypos="281.587" zpos="126.381" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="93TySH7xRUOd/cONG7GbCw=="/>
+			<POI MapID="1015" xpos="305.916" ypos="286.072" zpos="121.896" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="ckvxVAuxAUqXDXVYXu6I8g=="/>
+			<POI MapID="1015" xpos="305.735" ypos="290.911" zpos="114.669" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="lUlFjZHuOk+w+wdvjgbGvg=="/>
+			<POI MapID="1015" xpos="301.866" ypos="295.953" zpos="111.434" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="YPPWAScJKkSLuTmdw2LnVg=="/>
+			<POI MapID="1015" xpos="297.259" ypos="299.905" zpos="108.126" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="6kuO+nKLbUmTakGTGIxOcw=="/>
+			<POI MapID="1015" xpos="285.83" ypos="302.605" zpos="103.206" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="kIXd9CAUdEuFD8MI1iNVOQ=="/>
+			<POI MapID="1015" xpos="282.696" ypos="301.005" zpos="94.6244" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="YJTdGMs4pky/ggeNQWq7Vg=="/>
+			<POI MapID="1015" xpos="279.4" ypos="297.093" zpos="81.2037" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="LAY3kZFH9UavWTjJYthgxg=="/>
+			<POI MapID="1015" xpos="276.382" ypos="293.307" zpos="69.0205" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="oVkTsC4j7UuoT+o98IWOuQ=="/>
+			<POI MapID="1015" xpos="273.574" ypos="289.678" zpos="57.2667" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="YKSmuyu9FUCID44uqu2PRQ=="/>
+			<POI MapID="1015" xpos="272.869" ypos="284.475" zpos="39.9913" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="WxnvLHfaA0e6jQ9NEODR4Q=="/>
+			<POI MapID="1015" xpos="277.488" ypos="283.289" zpos="28.9543" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="PY2RLdCcZUq6t0Rk2RAeNg=="/>
+			<POI MapID="1015" xpos="265.3" ypos="284.378" zpos="22.2779" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="7EYP6d9H70mUp39EzBvepw=="/>
+			<POI MapID="1015" xpos="257.679" ypos="286.913" zpos="15.9697" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="L/TSYvCzCkq+JOy5zfH7fQ=="/>
+			<POI MapID="1015" xpos="251.678" ypos="288.353" zpos="15.2654" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="+VIlSJn26EqHmO7M6AsWqg=="/>
+			<POI MapID="1015" xpos="240.541" ypos="292.34" zpos="9.73493" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="RO/vmlWgs0iBMog6FZfyiw=="/>
+			<POI MapID="1015" xpos="237.569" ypos="300.087" zpos="1.26167" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="Ix2RCQXsvEu4s6LeQ+IueA=="/>
+			<!-- Jalon 1 -->
+			<POI MapID="1015" xpos="238.48" ypos="305.367" zpos="-15.9186" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="p2zlJAVkQUyAzOPYhrsndw==" iconFile="Img\DrapeauPassage.png"/>
+			<POI MapID="1015" xpos="245.186" ypos="307.956" zpos="-29.4371" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="Q6PA+W6Z8E2Q4DEjNUOXQw=="/>
+			<POI MapID="1015" xpos="253.736" ypos="310.452" zpos="-42.3684" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="hkfX68s9iUm+n1mS9fZGog=="/>
+			<POI MapID="1015" xpos="268.316" ypos="313.925" zpos="-47.2766" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="ze2m7oyB1Ey6KcllRCLmow=="/>
+			<POI MapID="1015" xpos="276.045" ypos="316.2" zpos="-49.8173" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="347wv6BtikWP3MDbxtZ1iw=="/>
+			<POI MapID="1015" xpos="279.497" ypos="315.292" zpos="-38.7808" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="SCuSkM4uq0eALk1ZisGN8A=="/>
+			<POI MapID="1015" xpos="281.399" ypos="315.001" zpos="-31.7168" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="J5hmg1Ua2Eu4EhDped0lrw=="/>
+			<POI MapID="1015" xpos="284.829" ypos="316.363" zpos="-27.2839" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="sat7vW7QWk+OCLbiImlvlQ=="/>
+			<POI MapID="1015" xpos="295.476" ypos="313.778" zpos="-28.2136" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="MgbGqi3GZ02/2+FnwazYzA=="/>
+			<POI MapID="1015" xpos="304.978" ypos="313.869" zpos="-25.9758" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="CHUkfv6310ujInsQbpb0JA=="/>
+			<POI MapID="1015" xpos="314.281" ypos="314.285" zpos="-25.1604" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="n84A02d/o0a9jwUK9Ft6KQ=="/>
+			<POI MapID="1015" xpos="321.794" ypos="315.364" zpos="-27.4939" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="3IQU6iHj7EiOcBA0Mf004Q=="/>
+			<POI MapID="1015" xpos="324.092" ypos="317.892" zpos="-39.5606" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="P1fUFD6AsE6Mj1YyYuhWwQ=="/>
+			<POI MapID="1015" xpos="333.34" ypos="319.69" zpos="-46.0249" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="aIS52N2j7ESdd/Ez6V3M/A=="/>
+			<POI MapID="1015" xpos="347.515" ypos="321.996" zpos="-50.288" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="NkRXKPkEf0mwOz73WfLi5A=="/>
+			<POI MapID="1015" xpos="357.634" ypos="323.878" zpos="-53.5463" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="4O1kX9LnW0eoIjqdGY336g=="/>
+			<POI MapID="1015" xpos="369.204" ypos="325.362" zpos="-57.8072" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="4HsJh5g4yUmheA2FLsv4pw=="/>
+			<POI MapID="1015" xpos="376.45" ypos="322.86" zpos="-71.5948" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="G93qxbxf30ejvuYhbWV7Vw=="/>
+			<POI MapID="1015" xpos="377.711" ypos="326.774" zpos="-83.3877" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="VB/YZmGWmEK21bfC1XfShw=="/>
+			<POI MapID="1015" xpos="376.37" ypos="330.763" zpos="-94.705" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="dhsuOg/qsUWE6sRBLIk8uA=="/>
+			<POI MapID="1015" xpos="378.332" ypos="334.312" zpos="-103.56" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="axRpIhdYW0Om8hcdnYGgGg=="/>
+			<POI MapID="1015" xpos="383.489" ypos="337.065" zpos="-109.458" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="mJS1I8DYe0+ouit43F7+qQ=="/>
+			<POI MapID="1015" xpos="388.926" ypos="340.646" zpos="-117.383" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="ZG6pUQOxt0eAR9H63Ra3rg=="/>
+			<POI MapID="1015" xpos="393.314" ypos="343.362" zpos="-123.173" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="weC9dbuXDE2SuQqAMqQJSQ=="/>
+			<POI MapID="1015" xpos="397.997" ypos="346.131" zpos="-129.444" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="oGraerDL70+2Wh2GIBfydw=="/>
+			<POI MapID="1015" xpos="399.843" ypos="347.055" zpos="-136.99" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="v7fhagiSykqBQCmhFdmmMw=="/>
+			<POI MapID="1015" xpos="390.177" ypos="340.648" zpos="-141.983" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="M/1BqVuihEO7nVFUvpBMew=="/>
+			<!-- Jalon 2 -->
+			<POI MapID="1015" xpos="386.849" ypos="340.873" zpos="-144.074" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="w4ho/prlR0acyCDlQ2EwNA==" iconFile="Img\DrapeauPassage.png"/>
+			<POI MapID="1015" xpos="388.561" ypos="336.461" zpos="-152.791" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="fFNqHHyxiEabwMQl1QS8tQ=="/>
+			<POI MapID="1015" xpos="391.517" ypos="335.299" zpos="-160.926" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="3XRSyJ6TxkWa3afZiR0/iA=="/>
+			<POI MapID="1015" xpos="398.366" ypos="336.48" zpos="-159.829" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="/KwV8Uv+w0KE0HcEXLtI4A=="/>
+			<POI MapID="1015" xpos="403.69" ypos="337.994" zpos="-156.517" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="9cdZC/MFEU2L9C/sQUoh/A=="/>
+			<POI MapID="1015" xpos="409.032" ypos="340.822" zpos="-154.249" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="cTYlT1lNmUW8Fv6QP0I74g=="/>
+			<POI MapID="1015" xpos="417.058" ypos="342.181" zpos="-151.568" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="i2775vKp2U2izcR4S7RcXw=="/>
+			<POI MapID="1015" xpos="420.921" ypos="343.055" zpos="-149.717" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="JxugLfs7qUGfJWwLJuo0LA=="/>
+			<POI MapID="1015" xpos="430.27" ypos="341.03" zpos="-153.23" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="TiMY2zjfgUWf3S5MlEalCQ=="/>
+			<POI MapID="1015" xpos="428.001" ypos="329.934" zpos="-159.193" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="0+Z8KFNOkUCioeUTmscotQ=="/>
+			<POI MapID="1015" xpos="429.75" ypos="334.046" zpos="-170.776" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="7E3/35PpE0ak/zLlcxBYVg=="/>
+			<POI MapID="1015" xpos="420.65" ypos="324.99" zpos="-179.10" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="ONsbJsN7XkO+KBUQ41IriQ=="/>
+			<POI MapID="1015" xpos="414.852" ypos="326.728" zpos="-185.828" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="jxMWtlXI0kKu4bYl3wuMWQ=="/>
+			<POI MapID="1015" xpos="414.676" ypos="324.912" zpos="-196.969" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="vHeoG+WxQ0SefwmmIql9Aw=="/>
+			<POI MapID="1015" xpos="414.933" ypos="326.715" zpos="-205.502" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="glBmIyxY7kOfg15lUmx+Fw=="/>
+			<POI MapID="1015" xpos="415.207" ypos="326.614" zpos="-213.442" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="sLP00b2IJkOciHxTQuqVVA=="/>
+			<POI MapID="1015" xpos="414.872" ypos="330.155" zpos="-220.923" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="UddwZ5s5F0OfnGugV6OVOw=="/>
+			<POI MapID="1015" xpos="415.776" ypos="331.819" zpos="-229.758" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="JkEYMQh7E0OJEGkv4520Pg=="/>
+			<POI MapID="1015" xpos="416.059" ypos="335.469" zpos="-231.627" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="TDumkxcD8UeDQBzMMAQp9A=="/>
+			<POI MapID="1015" xpos="414.44" ypos="339.552" zpos="-238.653" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="rmDQdyIIlEm8QkDGtr8phw=="/>
+			<POI MapID="1015" xpos="412.003" ypos="341.924" zpos="-247.65" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="U1HP8kwaGUShFKJYcPt2ow=="/>
+			<POI MapID="1015" xpos="413.759" ypos="346.187" zpos="-262.861" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="0s2UFS6oZUStOXcQamIMLg=="/>
+			<POI MapID="1015" xpos="416.197" ypos="347.976" zpos="-275.255" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="5yRuhgSNokSjf0Qg2mjUIA=="/>
+			<POI MapID="1015" xpos="418.868" ypos="348.646" zpos="-285.556" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="AlR1IjXD+0i+28VpL+Yw/w=="/>
+			<POI MapID="1015" xpos="419.503" ypos="348.952" zpos="-298.577" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="HPVnluopkUOHy1SPo1nxWg=="/>
+			<POI MapID="1015" xpos="422.89" ypos="348.981" zpos="-311.458" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="c4lfQ7fXvU6490Zrk9UZZQ=="/>
+			<POI MapID="1015" xpos="416.797" ypos="349.618" zpos="-319.332" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="iFY7G6seUEOwNZQaiYanSg=="/>
+			<POI MapID="1015" xpos="413.856" ypos="349.738" zpos="-329.151" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="+78CLASJHEqplvZsDFewpA=="/>
+			<POI MapID="1015" xpos="404.79" ypos="349.83" zpos="-341.372" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="i3pvgDTnUkqyfORVITAVqA=="/>
+			<POI MapID="1015" xpos="397.861" ypos="354.588" zpos="-347.794" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="bncrIyJC6kKjy3BlAKPWeQ=="/>
+			<POI MapID="1015" xpos="393.302" ypos="358.366" zpos="-353.161" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="aMgsQVsQaESc1L+9SrmYSQ=="/>
+			<POI MapID="1015" xpos="386.919" ypos="362.766" zpos="-359.699" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="g2j3lBSoH0CQGI98r2Q62Q=="/>
+			<POI MapID="1015" xpos="381.756" ypos="364.902" zpos="-360.674" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="l+mGFKTIOEOudOM5KBbodA=="/>
+			<POI MapID="1015" xpos="381.858" ypos="367.611" zpos="-355.413" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="fUQHRyu2h0invHERBP/NVw=="/>
+			<POI MapID="1015" xpos="383.614" ypos="371.717" zpos="-349.117" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="Xkx5tDmy0kCts6crbkdwHQ=="/>
+			<POI MapID="1015" xpos="384.235" ypos="369.958" zpos="-341.722" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="I3VrC+a1/UapURvZQMaHqw=="/>
+			<POI MapID="1015" xpos="376.215" ypos="373.588" zpos="-340.315" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="Lo3w7eCF/kG1NqLnOBjhtw=="/>
+			<POI MapID="1015" xpos="373.469" ypos="376.365" zpos="-339.914" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="nkeA8Oga6U6x+Y/alPHkVA=="/>
+			<POI MapID="1015" xpos="370.071" ypos="380.005" zpos="-339.44" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="1PTZRE/qgEqh6ZcWwcBc/A=="/>
+			<POI MapID="1015" xpos="365.647" ypos="384.653" zpos="-339.268" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="USsL6N6IrkuxZY20t5OpUg=="/>
+			<POI MapID="1015" xpos="361.294" ypos="387.386" zpos="-341.784" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="854DJN9rk0WIK/e63ZhmPw=="/>
+			<POI MapID="1015" xpos="360.608" ypos="387.162" zpos="-350.528" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="usuGhLEVg0a8xaHt+HMw3w=="/>
+			<POI MapID="1015" xpos="358.78" ypos="388.513" zpos="-356.753" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="OAvbAvcdhUeL2er3AEzA4A=="/>
+			<POI MapID="1015" xpos="355.316" ypos="391.264" zpos="-362.333" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="JaOmLMKIQ0OfQlT24U+Vig=="/>
+			<POI MapID="1015" xpos="352.662" ypos="393.28" zpos="-370.712" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="Tx14a+2mak27J2bitXbxxQ=="/>
+			<POI MapID="1015" xpos="357.282" ypos="396.677" zpos="-378.731" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="TOcxEdjLr0mLY8gH+9hQVg=="/>
+			<POI MapID="1015" xpos="358.303" ypos="400.152" zpos="-382.86" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="ajB+a+TQGkqtQUyM5e6uCA=="/>
+			<POI MapID="1015" xpos="359.954" ypos="403.107" zpos="-387.199" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="ZmGMK6PInkCxsN7uwhdNow=="/>
+			<POI MapID="1015" xpos="361.984" ypos="406.141" zpos="-392.567" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="OCvPZndudk2tX1J+GrVkYQ=="/>
+			<POI MapID="1015" xpos="364.429" ypos="409.742" zpos="-399.179" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="vTkvfp5KPkmHNRyt8caCgA=="/>
+			<POI MapID="1015" xpos="370.257" ypos="412.338" zpos="-399.942" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="sRY1j4OXnUCRVB1b3xq5RA=="/>
+			<POI MapID="1015" xpos="370.757" ypos="412.398" zpos="-392.975" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="m3Zz9Sn6nU6EdRyadoKOpg=="/>
+			<POI MapID="1015" xpos="371.331" ypos="412.265" zpos="-384.838" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="VFDSP8erWEeEqmTMfbQP1g=="/>
+			<POI MapID="1015" xpos="370.838" ypos="411.828" zpos="-376.201" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="OGIKh6ec3UiFxsk44rRikg=="/>
+			<POI MapID="1015" xpos="368.196" ypos="412.471" zpos="-368.131" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="NAgRAubQekK0QkIaNQKbUQ=="/>
+			<POI MapID="1015" xpos="360.924" ypos="412.557" zpos="-361.829" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="SlBLEOXIwkeHu0/yIPg1IA=="/>
+			<POI MapID="1015" xpos="350.851" ypos="412.602" zpos="-358.277" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="H4Oslf/6tUWQGxdx0LtexQ=="/>
+			<POI MapID="1015" xpos="346.451" ypos="414.038" zpos="-355.303" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="3Hwcrv/20UKB2nn0eSzecA=="/>
+			<POI MapID="1015" xpos="338.942" ypos="414.896" zpos="-357.723" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="147trea0jEWruKvgezl8oQ=="/>
+			<POI MapID="1015" xpos="334.813" ypos="415.949" zpos="-360.529" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="bHPuaxbkkE6Yepzi8WPepw=="/>
+			<POI MapID="1015" xpos="330.86" ypos="419.55" zpos="-361.55" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="Y85jMipDrUiu2DB51arHKw=="/>
+			<POI MapID="1015" xpos="332.507" ypos="420.758" zpos="-358.143" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="b1ZYnQBY10eYT9cEwo77mw=="/>
+			<POI MapID="1015" xpos="331.006" ypos="422.697" zpos="-351.399" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="mhQA5aSXdECuEmV6W1r06w=="/>
+			<POI MapID="1015" xpos="328.523" ypos="424.313" zpos="-356.425" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="908fenJe/0ahrjRFVqzVGw=="/>
+			<POI MapID="1015" xpos="325.156" ypos="426.585" zpos="-363.839" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="Y0+zkkRLqE+a5QaczIusyA=="/>
+			<POI MapID="1015" xpos="321.761" ypos="428.535" zpos="-369.926" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="i3gcIexe7ESKgjBgydAwgg=="/>
+			<POI MapID="1015" xpos="315.18" ypos="430.911" zpos="-374.596" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="5kyAi3rK60CWVYF53fjmXQ=="/>
+			<POI MapID="1015" xpos="311.628" ypos="431.007" zpos="-366.102" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="wkHjEIu+bkSW0l/KBEUh5A=="/>
+			<POI MapID="1015" xpos="314.504" ypos="430.957" zpos="-359.131" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="vvYG8L2hJU++2BdDzKJX+A=="/>
+			<POI MapID="1015" xpos="319.804" ypos="432.622" zpos="-349.307" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="Vv+bm2lJJ0GYqbR4Kx7EbA=="/>
+			<POI MapID="1015" xpos="323.665" ypos="432.78" zpos="-342.264" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="LVbUY4SapEK5kfFYlf7lkA=="/>
+			<POI MapID="1015" xpos="331.183" ypos="431.115" zpos="-335.756" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="yPoJYyQMw0KN+CHLu9vW2w=="/>
+			<POI MapID="1015" xpos="341.957" ypos="436.111" zpos="-334.19" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="Da190ijVzUSn8gn22/sT+g=="/>
+			<POI MapID="1015" xpos="352.273" ypos="439.772" zpos="-336.943" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="zQPJ/W5LHEiQ4VNJl2xRxw=="/>
+			<POI MapID="1015" xpos="363.1" ypos="437.57" zpos="-343.15" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="QmXPHR1tTUu8cHTnrliydw=="/>
+			<POI MapID="1015" xpos="372.932" ypos="438.684" zpos="-348.422" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="7twRhplC8kiVMrECTLVIdA=="/>
+			<POI MapID="1015" xpos="382.025" ypos="438.667" zpos="-346.402" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="RsdLjWAat0GN6N0mJRAVbw=="/>
+			<POI MapID="1015" xpos="388.47" ypos="437.66" zpos="-340.53" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="gKg1eNZZE0q3Ft+kN4b8Tw=="/>
+			<POI MapID="1015" xpos="389.804" ypos="436.579" zpos="-332.757" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="VYqOATjYCk2UReq40U1SLQ=="/>
+			<POI MapID="1015" xpos="391.343" ypos="436.436" zpos="-321.663" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="bRZjRr14pUyPzOHIrsRtpA=="/>
+			<POI MapID="1015" xpos="392.288" ypos="437.849" zpos="-310.146" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="P/VoruBW3Uq4AVA7qc4AlA=="/>
+			<POI MapID="1015" xpos="393.137" ypos="439.459" zpos="-299.859" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="9iJyFUKISEWrVW+qfqQ+vA=="/>
+			<POI MapID="1015" xpos="393.875" ypos="441.395" zpos="-290.836" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="5KYbfEV4Zk6PKvV3+NmF+g=="/>
+			<POI MapID="1015" xpos="395.191" ypos="444.704" zpos="-280.196" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="+bgLCFXlVkif2U/TXNVeQA=="/>
+			<POI MapID="1015" xpos="396.52" ypos="448.407" zpos="-269.079" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="MseWMKBcXUiSNkj7SX9jgQ=="/>
+			<!-- Jalon 3 -->
+			<POI MapID="1015" xpos="394.323" ypos="452.273" zpos="-257.757" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="oMpLsjuojU+osk2R3zBBhg==" iconFile="Img\DrapeauPassage.png"/>
+			<POI MapID="1015" xpos="390.992" ypos="452.206" zpos="-249.92" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="E5hurT9Rr0eITcQtnCBzxA=="/>
+			<POI MapID="1015" xpos="390.244" ypos="449.39" zpos="-241.512" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="//dc8mlULUSvw0G2qMsB+w=="/>
+			<POI MapID="1015" xpos="391.831" ypos="449.255" zpos="-235.831" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="UfFpLBki/U64HXsKT/q4lQ=="/>
+			<POI MapID="1015" xpos="394.275" ypos="447.967" zpos="-230.461" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="09kzRLynDU+R7L2iVjNXHQ=="/>
+			<POI MapID="1015" xpos="392.619" ypos="445.383" zpos="-221.127" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="Ja3dPmjAckC2dX4rRtn77Q=="/>
+			<POI MapID="1015" xpos="385.489" ypos="444.848" zpos="-206.093" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="Crg9MyBTekmgMLuucwdcrw=="/>
+			<POI MapID="1015" xpos="381.267" ypos="444.68" zpos="-197.44" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="g7Ysx/xZtUeC24dPBsh5rQ=="/>
+			<POI MapID="1015" xpos="375.749" ypos="445.574" zpos="-191.126" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="c/+euzvhU0e8GbpHfTVVIg=="/>
+			<POI MapID="1015" xpos="366.467" ypos="445.696" zpos="-185.51" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="aCeolPG32k2m1SbEf3ZVBw=="/>
+			<POI MapID="1015" xpos="355.623" ypos="445.598" zpos="-176.801" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="HELwpcXMsk2tz5CltpOz0A=="/>
+			<POI MapID="1015" xpos="350.051" ypos="445.379" zpos="-172.327" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="5jqILHliL0Std6vKOFFtLw=="/>
+			<POI MapID="1015" xpos="348.393" ypos="425.265" zpos="-171.623" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="soddqkdGtEOy281a/TzHEg=="/>
+			<POI MapID="1015" xpos="348.076" ypos="424.847" zpos="-176.665" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="ghk9RIeAcEClQK4yqXybRQ=="/>
+			<POI MapID="1015" xpos="342.878" ypos="417.886" zpos="-176.715" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="RBLFTUxwEkWHuaOgeuBS9Q=="/>
+			<POI MapID="1015" xpos="338.464" ypos="417.64" zpos="-171.506" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="NCMKshxI/UiBxOsMsqvGxw=="/>
+			<POI MapID="1015" xpos="332.16" ypos="412.23" zpos="-168.22" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="pWM5CXD7SESv3hL4XvmkYQ=="/>
+			<POI MapID="1015" xpos="326.599" ypos="411.679" zpos="-171.292" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="wNcIl8PFQkytfUv5bGIXAQ=="/>
+			<POI MapID="1015" xpos="323.529" ypos="411.07" zpos="-179.237" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="haAVAwUawUuCmbIVjSlLuw=="/>
+			<POI MapID="1015" xpos="320.835" ypos="412.727" zpos="-186.475" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="/EeC0wvuA0aSNLs9AGEaxA=="/>
+			<POI MapID="1015" xpos="324.561" ypos="412.949" zpos="-190.479" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="ujK5ufvbeU+xwDd815vmxg=="/>
+			<POI MapID="1015" xpos="327.69" ypos="413.24" zpos="-197.16" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="V3KEmPDsWEWxwIrkGT5Mkw=="/>
+			<POI MapID="1015" xpos="330.177" ypos="413.243" zpos="-202.193" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="F0yowMFfOEuny5/YrXFcuA==" iconFile="Img\Coffre.png"/>
+			<POI MapID="1015" xpos="330.38" ypos="413" zpos="-207.89" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="poolLc5UEUC2FkaVPxFyqA=="/>
+			<POI MapID="1015" xpos="330.819" ypos="412.646" zpos="-214.282" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="rvgyFGpB2kObD6dr8CFTmg=="/>
+			<POI MapID="1015" xpos="328.336" ypos="406.756" zpos="-220.308" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="o9xZdj5NC0yZmCJvD7Fj9g=="/>
+			<POI MapID="1015" xpos="329.944" ypos="396.639" zpos="-218.483" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="WTe1xEyRAEalC2yzYEZb2Q=="/>
+			<POI MapID="1015" xpos="339.92" ypos="394.276" zpos="-210.543" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="k5u+cyEfXEuFa2BuQ105UQ=="/>
+			<POI MapID="1015" xpos="344.85" ypos="374.417" zpos="-206.012" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="orBgEvKb7Uamhj1UVxFe4Q=="/>
+			<POI MapID="1015" xpos="337.658" ypos="371.508" zpos="-198.119" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="gb1SfF4D2kib5QZ4TzGscw=="/>
+			<POI MapID="1015" xpos="342.748" ypos="372.536" zpos="-184.274" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="5OPRz2c7bkeOSbc2wuxSmg=="/>
+			<POI MapID="1015" xpos="330.695" ypos="372.201" zpos="-187.471" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="qwJ3PlyUy0u0DZln22cpog=="/>
+			<POI MapID="1015" xpos="321.078" ypos="372.365" zpos="-190.899" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="T0Y5A84tQkG0KhO1AS0fTg=="/>
+			<POI MapID="1015" xpos="310.052" ypos="372.191" zpos="-194.225" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="ixNJf31YOUawoucuVpM+nw=="/>
+			<POI MapID="1015" xpos="299.339" ypos="372.362" zpos="-196.056" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="9tmHZ9GtWkm6YdMe4Otzuw=="/>
+			<POI MapID="1015" xpos="289.611" ypos="372.198" zpos="-195.335" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="frxHdpP5DUCVXaOb7gAyug=="/>
+			<POI MapID="1015" xpos="278.073" ypos="372.358" zpos="-192.962" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="adHuJEoPuUG7xwRrJGSkqA=="/>
+			<POI MapID="1015" xpos="269.047" ypos="372.19" zpos="-189.315" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="L0gv0gmq8UC2JnAoSCoZSw=="/>
+			<POI MapID="1015" xpos="258.438" ypos="372.366" zpos="-185.955" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="bpxaSMS0WUqoEH5e0CkmTw=="/>
+			<POI MapID="1015" xpos="256.812" ypos="375.012" zpos="-178.614" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="Ak/vcNOK8kq46krzptucFw=="/>
+			<POI MapID="1015" xpos="251.551" ypos="375.457" zpos="-178.512" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="pgQQr/S6I0+xrinLvLxe5A=="/>
+			<POI MapID="1015" xpos="240.862" ypos="372.393" zpos="-176.812" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="uI3vv/4CFUWPnrCJIwf3NA=="/>
+			<POI MapID="1015" xpos="234.65" ypos="372.314" zpos="-180.573" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="oaxWuTToo0iMnyD7LG88eQ=="/>
+			<POI MapID="1015" xpos="227.817" ypos="372.206" zpos="-178.069" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="Itq9nxMfN0yjwz2TGr/nuA=="/>
+			<POI MapID="1015" xpos="224.773" ypos="372.218" zpos="-174.128" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="ZyZdaKzuDUS7B2CSp+lLjw=="/>
+			<POI MapID="1015" xpos="215.122" ypos="372.355" zpos="-173.404" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="uZJDnfo/QUevCBCxwkWCng=="/>
+			<POI MapID="1015" xpos="206.559" ypos="373.534" zpos="-171.26" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="T0Bg/n0kJkeFeGTwszP97A=="/>
+			<POI MapID="1015" xpos="195.43" ypos="373.949" zpos="-168.554" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="kx7Zgj80m0CZ/TYFu9S/Og=="/>
+			<POI MapID="1015" xpos="185.862" ypos="374.439" zpos="-176.053" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="GJBoXY5LyU6XhBPy7y2XKQ=="/>
+			<POI MapID="1015" xpos="179.196" ypos="374.295" zpos="-174.958" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="3O5zk1jLQkKaxUzFsNhExg=="/>
+			<!-- Jalon 4 -->
+			<POI MapID="1015" xpos="162.701" ypos="380.516" zpos="-159.734" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="QVt2u6gNm0+2FV8a183/ig==" iconFile="Img\DrapeauPassage.png"/>
+			<POI MapID="1015" xpos="151.68" ypos="386.76" zpos="-155.31" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="kRESvperi02jSAxXpdfwyA=="/>
+			<POI MapID="1015" xpos="138.405" ypos="392.092" zpos="-150.042" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="b2VxQArZIkWk5+elnV1HKg=="/>
+			<POI MapID="1015" xpos="129.868" ypos="399.063" zpos="-138.796" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="dtVS7TRQqEO0MhoHNVBcow=="/>
+			<POI MapID="1015" xpos="123.12" ypos="409.69" zpos="-126.45" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="LehOWWNAqUinP2YlF2ZWvg=="/>
+			<POI MapID="1015" xpos="129.069" ypos="412.514" zpos="-124.33" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="i7UmRJPY2UinzWo1RrPR0w=="/>
+			<POI MapID="1015" xpos="138.929" ypos="413.089" zpos="-117.057" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="k3WLMBtQg0WvWu1L6mlbxw=="/>
+			<POI MapID="1015" xpos="150.067" ypos="416.784" zpos="-110.873" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="frBSPE7ebEm+pWdHWadQ5g=="/>
+			<POI MapID="1015" xpos="157.901" ypos="420.623" zpos="-110.035" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="QbhqvJhyQEyQhvU8MEbUrg=="/>
+			<POI MapID="1015" xpos="165.174" ypos="425.686" zpos="-116.511" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="C0kx5TmF/kSFfBbYeKePGA=="/>
+			<POI MapID="1015" xpos="164.712" ypos="428.24" zpos="-132.824" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="RDzBgRW5rUWh8cP5fE1eVg=="/>
+			<POI MapID="1015" xpos="159.665" ypos="430.309" zpos="-142.609" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="bWIF0/Q1ekaL0nsYixTHJA=="/>
+			<POI MapID="1015" xpos="154.60" ypos="434.03" zpos="-151.08" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="VfKF0i+ViEWMpIWKgh5zDQ=="/>
+			<POI MapID="1015" xpos="152.876" ypos="437.776" zpos="-155.011" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="QhlvmuTiG0iHpyZe4Hw0gw=="/>
+			<POI MapID="1015" xpos="150.369" ypos="440.121" zpos="-158.184" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="A8zyuRDNP02hYVOA7SQDZg=="/>
+			<POI MapID="1015" xpos="153.344" ypos="441.157" zpos="-159.232" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="h/LTTc5+Qka3NwZ1mwBhAQ=="/>
+			<POI MapID="1015" xpos="148.392" ypos="444.953" zpos="-164.196" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="DYhARfGNbUmNOFrVEUDW8g=="/>
+			<POI MapID="1015" xpos="142.087" ypos="449.967" zpos="-167.42" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="cikfxz+R3EC5z1yNw5lBBw=="/>
+			<POI MapID="1015" xpos="136.696" ypos="455.819" zpos="-172.804" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="4hFueCcvPEiX7h57xpKs2Q=="/>
+			<POI MapID="1015" xpos="143.72" ypos="458.15" zpos="-175.11" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="M4xpa8hlakK8MwrXpB8qbQ=="/>
+			<POI MapID="1015" xpos="140.13" ypos="462.48" zpos="-179.06" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="XLS+2DNvXUq6YsH1tApCGw=="/>
+			<POI MapID="1015" xpos="142.319" ypos="464.589" zpos="-180.247" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="CF+wHNjzJUGRJplwQ+olng=="/>
+			<POI MapID="1015" xpos="145.265" ypos="467.085" zpos="-181.686" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="W3KKYNzcHkCQ9WZkGS3a7w=="/>
+			<POI MapID="1015" xpos="149.36" ypos="469.778" zpos="-179.254" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="kbX85OTKF0eXNx9D0sxplg=="/>
+			<POI MapID="1015" xpos="152.439" ypos="470.678" zpos="-176.069" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="jlf3WLojbECwf/t8MI+nCw=="/>
+			<POI MapID="1015" xpos="155.988" ypos="472.63" zpos="-173.425" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="3jV+Ce9tw0eqIy6amaSRcw=="/>
+			<POI MapID="1015" xpos="158.644" ypos="474.974" zpos="-171.614" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="a6xCHKN/d0WiJsLs//PHJQ=="/>
+			<POI MapID="1015" xpos="157.461" ypos="475.923" zpos="-163.735" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="AttK33O1PEa2e9Q5Nsi4mw=="/>
+			<POI MapID="1015" xpos="145.2" ypos="476.996" zpos="-154.053" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="8JFkdM1UXkOfX6ewidyksA=="/>
+			<POI MapID="1015" xpos="130.297" ypos="478.193" zpos="-142.257" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="00q7wG5WpEGRVA2bGz79hg=="/>
+			<POI MapID="1015" xpos="114.758" ypos="483.276" zpos="-129.985" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="QwlZLt8d1kK1TTTOsAXACA=="/>
+			<POI MapID="1015" xpos="97.8411" ypos="481.302" zpos="-134.82" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="7Q44wZqc10m8sL/agKTLUA=="/>
+			<POI MapID="1015" xpos="86.2203" ypos="478.479" zpos="-145.996" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="7VmJR4x+8kmBpGi59weLGg=="/>
+			<POI MapID="1015" xpos="80.2375" ypos="477.914" zpos="-155.257" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="KM9IP0QWfEy7YNYmmJWQKg=="/>
+			<POI MapID="1015" xpos="71.344" ypos="477.341" zpos="-164.414" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="x3bi2cFtQEaXJN0vufBB5w=="/>
+			<POI MapID="1015" xpos="60.3278" ypos="477.57" zpos="-170.897" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="+RJN+VBEV0yHD/WPN4Y61A=="/>
+			<POI MapID="1015" xpos="50.4996" ypos="477.658" zpos="-176.261" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="rY+PutYCQkKT79kZft+oaA=="/>
+			<POI MapID="1015" xpos="39.3686" ypos="475.583" zpos="-179.186" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="oJGqHJe7vES+t8oi2UCheg=="/>
+			<POI MapID="1015" xpos="22.0674" ypos="458.877" zpos="-185.197" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="NxOtfWI5tkSa8IPKnfJ8mA=="/>
+			<POI MapID="1015" xpos="11.4702" ypos="459.209" zpos="-194.339" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="/NPa/vICRkqdGuiMiOsUew=="/>
+			<POI MapID="1015" xpos="-1.55153" ypos="459.278" zpos="-195.295" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="kf7tGn5VckKwZyYYXuPoUg=="/>
+			<POI MapID="1015" xpos="-10.3724" ypos="459.37" zpos="-188.411" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="6BiEpCgeT0qMb4Yq2Kl/Lw=="/>
+			<POI MapID="1015" xpos="-13.762" ypos="459.637" zpos="-178.056" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="Og5HmASFQkq06zr31mO/DQ=="/>
+			<POI MapID="1015" xpos="-17.4116" ypos="459.713" zpos="-167.401" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="z89b2mzXrUuDTl72+GWFgw=="/>
+			<POI MapID="1015" xpos="-19.4183" ypos="459.013" zpos="-158.439" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="AyV2n4uT6E+qrX6fQLCYKw=="/>
+			<POI MapID="1015" xpos="-28.7908" ypos="449.667" zpos="-145.753" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="2DGHgNVGG0SqU4rkhgd83A=="/>
+			<POI MapID="1015" xpos="-35.5419" ypos="446.234" zpos="-135.047" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="BYUD9ovrb0GN4kT/exrkLA=="/>
+			<POI MapID="1015" xpos="-31.7012" ypos="439.94" zpos="-125.17" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="f9FYBN81/kaLt5o4W5Jf1w=="/>
+			<POI MapID="1015" xpos="-35.1174" ypos="440.03" zpos="-117.527" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="ZqXO0j746kCDzGEoovft6w=="/>
+			<POI MapID="1015" xpos="-43.1211" ypos="423.852" zpos="-112.505" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="wmeixUXQ9kK33KRr0Fzjlw=="/>
+			<POI MapID="1015" xpos="-40.093" ypos="423.706" zpos="-108.86" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="kjMzPkD0RkKTk0meM6pgPw=="/>
+			<POI MapID="1015" xpos="-31.6988" ypos="417.882" zpos="-103.701" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="mo+afXyBj0a6UASDQIh0vA=="/>
+			<POI MapID="1015" xpos="-26.2207" ypos="417.858" zpos="-95.7765" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="U2CcsiGh50y3KLySJLFgTA=="/>
+			<POI MapID="1015" xpos="-22.9535" ypos="417.849" zpos="-88.7418" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="4hp1AjE8qU2aRQyMUFPTIw=="/>
+			<POI MapID="1015" xpos="-25.0772" ypos="417.707" zpos="-82.3313" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="RrUMt3FVw06nzIiJK040fQ=="/>
+			<POI MapID="1015" xpos="-28.8986" ypos="417.58" zpos="-76.1109" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="ftD9YvxqWkyMjLfornII8g=="/>
+			<POI MapID="1015" xpos="-36.1811" ypos="417.246" zpos="-71.0599" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="xJanZema5UCcg6X3ylvirA=="/>
+			<!-- Jalon 5 -->
+			<POI MapID="1015" xpos="-44.4084" ypos="406.996" zpos="-60.189" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="eYAHrOMpqECUFsKPQuSllw==" iconFile="Img\DrapeauPassage.png"/>
+			<POI MapID="1015" xpos="-49.0415" ypos="406.643" zpos="-51.0289" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="+AcSc0zUYUqjoMjnzCuqxg=="/>
+			<POI MapID="1015" xpos="-50.0529" ypos="392.599" zpos="-45.6848" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="xz2MyeEPiEq7k87LTNq2iw=="/>
+			<POI MapID="1015" xpos="-53.6132" ypos="392.559" zpos="-39.1219" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="HjL86QoS60KnfYsQ4nCSeQ=="/>
+			<POI MapID="1015" xpos="-59.0607" ypos="389.327" zpos="-31.7982" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="WLm2uEjuZEasOPEPI3wqvQ=="/>
+			<POI MapID="1015" xpos="-72.9372" ypos="386.801" zpos="-37.2752" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="qyuvR/+JI0SQm0l8xtc0KA=="/>
+			<POI MapID="1015" xpos="-79.9948" ypos="386.627" zpos="-41.1968" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="FCwTri3DKkuykSikpRUs+g=="/>
+			<POI MapID="1015" xpos="-84.1878" ypos="385.036" zpos="-45.2605" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="LgsMoA4bvUu0YQf0B0ojCg=="/>
+			<POI MapID="1015" xpos="-81.4675" ypos="371.236" zpos="-52.3958" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="odyh03TihUOSLBfr8EGVkQ=="/>
+			<POI MapID="1015" xpos="-88.511" ypos="370.935" zpos="-44.5046" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="DM+zqQxJBUyRytWvMoUhhA=="/>
+			<POI MapID="1015" xpos="-96.3257" ypos="370.319" zpos="-36.9711" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="jJIr+OprQ0iHhxjdltAdHA=="/>
+			<POI MapID="1015" xpos="-103.13" ypos="369.046" zpos="-32.1415" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="DWL4WorbvkWBj/0fNBhfgw=="/>
+			<POI MapID="1015" xpos="-96.2619" ypos="367.048" zpos="-24.6922" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="utHxG3b0S0aTloIY5Rnidw=="/>
+			<POI MapID="1015" xpos="-86.7204" ypos="365.842" zpos="-20.748" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="WNNzIUOvoUS8Ad0+EuDvOQ=="/>
+			<POI MapID="1015" xpos="-75.3595" ypos="363.207" zpos="-15.983" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="0vTGPOVAnUy2IlyJKTIzJw=="/>
+			<POI MapID="1015" xpos="-59.5968" ypos="361.447" zpos="-8.06822" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="AOHJl1HVTkSv5CiSf7zsTA=="/>
+			<POI MapID="1015" xpos="-45.4786" ypos="359.767" zpos="-1.71898" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="YeHrSXOpm0O6a83zBjdjWw=="/>
+			<POI MapID="1015" xpos="-28.8212" ypos="355.696" zpos="5.32335" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="107JQUsT+UmwEMAmJSL+7w=="/>
+			<POI MapID="1015" xpos="-24.4583" ypos="348.159" zpos="1.21577" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="JXm8oWZh3Uq3360H87hobg=="/>
+			<POI MapID="1015" xpos="-26.8212" ypos="342.483" zpos="-4.26499" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="JoB9y+hs1UyqCFfp5ppJCw==" iconFile="Img\Coffre.png"/>
+			<POI MapID="1015" xpos="-30.8582" ypos="327.359" zpos="-0.0522682" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="Lfk7UUt90E2Xr9GPFCoehg=="/>
+			<POI MapID="1015" xpos="-25.0746" ypos="320.62" zpos="8.93802" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="OrUzGhCrCkmcMtvx2CMS0w=="/>
+			<POI MapID="1015" xpos="-29.1335" ypos="304.163" zpos="-5.1645" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="oHa7ns37h0C2/cG7jX8P0g=="/>
+			<POI MapID="1015" xpos="-27.2907" ypos="301.018" zpos="6.00234" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="Ahk6ppeNW0+tV8PmxyyN2A=="/>
+			<POI MapID="1015" xpos="-28.591" ypos="299.75" zpos="9.9456" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="jtgbi2Dq+ke+KRnuWZ5imA=="/>
+			<POI MapID="1015" xpos="-27.2445" ypos="297.989" zpos="16.1997" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="cUSC5wYwkkqCHFVy4V5icA=="/>
+			<POI MapID="1015" xpos="-25.0469" ypos="297.483" zpos="19.7646" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="DMeHKr7OVEmoiJ+WKMNLjg=="/>
+			<POI MapID="1015" xpos="-22.0253" ypos="294.056" zpos="25.0193" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="hiFt24LeiU+CAW9mxTb/dA=="/>
+			<POI MapID="1015" xpos="-19.2485" ypos="291.624" zpos="30.0927" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="Ffjdp3bptEGZZlioZ2tklg=="/>
+			<POI MapID="1015" xpos="-16.9048" ypos="289.99" zpos="35.2635" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="Vzvt0Mr6BkqY9Zp2a/cDhQ=="/>
+			<POI MapID="1015" xpos="-14.5876" ypos="287.266" zpos="41.303" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="6KasfYaTWk69T7Stv3U/+Q=="/>
+			<POI MapID="1015" xpos="-12.6506" ypos="285.288" zpos="46.0192" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="XmkiAlZLqEeJNnH+L/40IA=="/>
+			<POI MapID="1015" xpos="-8.14934" ypos="283.414" zpos="50.2212" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="iIc2YnRbDESGBXnL1GzacA=="/>
+			<POI MapID="1015" xpos="0.549096" ypos="283.103" zpos="49.0731" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="1eanZ7l4P0aLbOfiJna8Kg=="/>
+			<POI MapID="1015" xpos="4.69787" ypos="283.286" zpos="44.2546" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="iFpLTr7GwUmwY6mffD7kFw=="/>
+			<POI MapID="1015" xpos="8.08645" ypos="284.017" zpos="37.9912" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="mD09mI+zh0GSPFqTPD/g5w=="/>
+			<POI MapID="1015" xpos="10.4617" ypos="286.307" zpos="29.3269" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="DlhikaamnUW/D1AoFvfO/w=="/>
+			<POI MapID="1015" xpos="10.3325" ypos="284.971" zpos="25.3938" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="9mdiFbHEX0SdMgfqYRGP7Q=="/>
+			<POI MapID="1015" xpos="13.3089" ypos="284.757" zpos="20.4892" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="iyN7aeX7xkCaRv+kiqUY3Q=="/>
+			<POI MapID="1015" xpos="18.1038" ypos="272.39" zpos="14.8914" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="WqWnPsNTTU+xByU9J64QaQ=="/>
+			<POI MapID="1015" xpos="21.8692" ypos="262.435" zpos="9.29279" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="JvUPRlESaUGnQZxApIeF3Q=="/>
+			<POI MapID="1015" xpos="23.3076" ypos="229.513" zpos="10.1263" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="ZxmBxQfgs0usa9w9n68jfw=="/>
+			<POI MapID="1015" xpos="13.7697" ypos="228.665" zpos="5.00387" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="PNSeMxf16Ua8a+QLKrOFIA=="/>
+			<!-- Jalon 6 -->
+			<POI MapID="1015" xpos="1.84135" ypos="227.496" zpos="-0.320352" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="I5bH+oR3EkCatDqTPXiyLA==" iconFile="Img\DrapeauPassage.png"/>
+			<POI MapID="1015" xpos="-29.3959" ypos="222.523" zpos="-7.53593" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="geAuv2x3NU+q+Z+BsV1jbg=="/>
+			<POI MapID="1015" xpos="-42.4267" ypos="220.572" zpos="-15.5826" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="/YGFYTuayUeCReyCwWOdWQ=="/>
+			<POI MapID="1015" xpos="-53.0277" ypos="221.31" zpos="-28.4302" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="nV08c9XXiEyxxDqTKl3Eyw=="/>
+			<POI MapID="1015" xpos="-63.4948" ypos="221.731" zpos="-35.5038" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="hmKl73/SJ0Gx7uPWfaxsPA=="/>
+			<POI MapID="1015" xpos="-67.9454" ypos="220.955" zpos="-47.0478" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="C5tI5LcgWkeG07REmYTeEA=="/>
+			<POI MapID="1015" xpos="-75.5689" ypos="220.918" zpos="-54.0172" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="fXkmy/DSxEChC4yM1amhSQ=="/>
+			<POI MapID="1015" xpos="-83.8764" ypos="220.924" zpos="-59.6849" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="Amy11gfrLEqkfAu7/UeVfQ=="/>
+			<POI MapID="1015" xpos="-89.3282" ypos="220.954" zpos="-61.0228" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="HpXp0VEU9UmMyhDkDH1BgA=="/>
+			<POI MapID="1015" xpos="-99.1191" ypos="220.879" zpos="-66.8713" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="QAk3XipWK0aADILe8ouRXA=="/>
+			<POI MapID="1015" xpos="-114.505" ypos="213.939" zpos="-63.4037" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="pOn7OQuveU+LGj/6lBMXYg=="/>
+			<POI MapID="1015" xpos="-123.88" ypos="215.808" zpos="-63.3389" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="olmEoWEqL0yinSWasZnl9Q=="/>
+			<POI MapID="1015" xpos="-129.244" ypos="217.413" zpos="-58.3802" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="Y1UgDgn3OEC8JKCSUQ4FqQ=="/>
+			<POI MapID="1015" xpos="-134.917" ypos="220.098" zpos="-51.0517" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="aYVc5d1aXUm8IEPbI8j1ww=="/>
+			<POI MapID="1015" xpos="-137.211" ypos="222.562" zpos="-42.2888" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="hoG49vvMxUiirylVyIpQYw=="/>
+			<POI MapID="1015" xpos="-136.191" ypos="224.239" zpos="-34.5709" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="FnxmvA3y0Ue8IRrpHrs0ng=="/>
+			<POI MapID="1015" xpos="-136.585" ypos="224.916" zpos="-23.2461" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="hSADpj+aE0CLpABBkXRlMA=="/>
+			<POI MapID="1015" xpos="-141.091" ypos="227.046" zpos="-12.6008" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="RpvJj1LVYU+WynpbtWCi7w=="/>
+			<POI MapID="1015" xpos="-145.166" ypos="230.211" zpos="-3.03862" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="RTJDaP4BlUqK8DYCCkh+9A=="/>
+			<POI MapID="1015" xpos="-148.294" ypos="231.848" zpos="3.70225" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="2kDKOVV70UGqFU7i1jZ3RA=="/>
+			<POI MapID="1015" xpos="-152.109" ypos="233.315" zpos="9.23005" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="GoS0jLmGVkmHVSZgEIgmMw=="/>
+			<POI MapID="1015" xpos="-157.611" ypos="233.039" zpos="18.1637" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="MEkKhGaGZUy6uUvWYV7wRQ=="/>
+			<POI MapID="1015" xpos="-164.503" ypos="235.021" zpos="25.4068" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="qVsbMCQVLkuyHpl2lQQA3A=="/>
+			<POI MapID="1015" xpos="-169.81" ypos="236.528" zpos="31.0769" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="Eh2c398km0+1t4ByAvvpnw=="/>
+			<POI MapID="1015" xpos="-176.4" ypos="239.861" zpos="40.1384" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="ZSi2gma780GyQBuly943Vg=="/>
+			<POI MapID="1015" xpos="-188.132" ypos="242.593" zpos="54.7156" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="I57SHa0m2U+hiz0RdTExmw=="/>
+			<POI MapID="1015" xpos="-201.904" ypos="238.13" zpos="64.0117" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="yn7vV8aCtEaGuueXiVkLvw=="/>
+			<POI MapID="1015" xpos="-204.122" ypos="239.426" zpos="70.9074" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="ixsp/19oX0ukBkrFUkNdUg=="/>
+			<POI MapID="1015" xpos="-206.489" ypos="239.648" zpos="78.0717" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="l7Se4dHpz0SB3gsqD/pcDQ=="/>
+			<POI MapID="1015" xpos="-208.366" ypos="240.992" zpos="85.5497" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="sUF2BHlRCUqqvuTvsQAsFQ=="/>
+			<POI MapID="1015" xpos="-211.37" ypos="241.753" zpos="94.5884" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="He5KPjMZRk6fUDK68TNuXg=="/>
+			<POI MapID="1015" xpos="-217.056" ypos="241.877" zpos="95.8061" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="+4/LFY2K9U22f0oQQwBdZQ=="/>
+			<!-- Jalon 7 -->
+			<POI MapID="1015" xpos="-223.599" ypos="242.869" zpos="96.3483" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="/2V0CEabIEKW6DQVGidpCQ==" iconFile="Img\DrapeauPassage.png"/>
+			<POI MapID="1015" xpos="-224.156" ypos="246.201" zpos="103.708" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="JWKxvubOCkeL6MEfpRPjeg=="/>
+			<POI MapID="1015" xpos="-223.504" ypos="246.585" zpos="110.582" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="QKrFl5BByk+6RoQ7bKiyYQ=="/>
+			<POI MapID="1015" xpos="-223.253" ypos="248.361" zpos="118.027" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="SzEjmszX6ESBVKaRVzFMqw=="/>
+			<POI MapID="1015" xpos="-218.644" ypos="248.462" zpos="126.839" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="jXRux9TfDUadXUyZl44z6Q=="/>
+			<POI MapID="1015" xpos="-215.738" ypos="247.275" zpos="138.182" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="gJBp8D62okCUYAvrYhB1rA=="/>
+			<POI MapID="1015" xpos="-211.459" ypos="243.028" zpos="149.366" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="3gMMpt81ckm2YdyYkKLDfg=="/>
+			<POI MapID="1015" xpos="-204.419" ypos="242.538" zpos="158.571" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="Ai9JELIusEi6CkUlkDYqEA=="/>
+			<POI MapID="1015" xpos="-192.339" ypos="242.571" zpos="168.921" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="vCSgFDfFhEWSSh9OkqCQmQ=="/>
+			<POI MapID="1015" xpos="-176.797" ypos="245.148" zpos="170.329" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="NSNn2PuiG0WAIvQqr+XhYA=="/>
+			<POI MapID="1015" xpos="-165.698" ypos="245.507" zpos="168.126" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="4aFag0VNkkicwdQeJAEzzg=="/>
+			<POI MapID="1015" xpos="-155.724" ypos="245.691" zpos="169.324" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="rxkxFfgVsE2BDVIZWjl1uQ=="/>
+			<POI MapID="1015" xpos="-147.442" ypos="246.206" zpos="173.355" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="cjqxfrEEz0SclVVcFjREXw=="/>
+			<POI MapID="1015" xpos="-139.713" ypos="246.573" zpos="176.829" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="XYLdttBd0E6ms8+G0iSQnQ=="/>
+			<POI MapID="1015" xpos="-132.194" ypos="245.811" zpos="179.842" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="/CSY7p6FHU+o/htIc7qkGw=="/>
+			<POI MapID="1015" xpos="-126.205" ypos="245.255" zpos="183.258" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="exF9rBhYHUeDvnumBB6iOg=="/>
+			<POI MapID="1015" xpos="-116.455" ypos="244.406" zpos="186.404" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="n+ssM4Yy80SR+xb1J2JX+g=="/>
+			<POI MapID="1015" xpos="-106.349" ypos="244.028" zpos="182.341" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="BEnqpkokj0SWl8FVHSckaw==" iconFile="Img\Coffre.png"/>
+			<POI MapID="1015" xpos="-109.589" ypos="238.017" zpos="180.396" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="7F9s6v0xRUqeE7/0IKFnYg=="/>
+			<POI MapID="1015" xpos="-104.883" ypos="233.534" zpos="176.291" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="X2ZvFHgsTE23klUeReI/VQ=="/>
+			<POI MapID="1015" xpos="-102.809" ypos="233.484" zpos="167.599" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="BrpqUC+XaUqHrq6UkvV25A=="/>
+			<POI MapID="1015" xpos="-100.697" ypos="232.069" zpos="160.094" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="ok3lTRDHMkiGXOPjZ8gQsQ=="/>
+			<!-- Jalon 8 -->
+			<POI MapID="1015" xpos="-91.5278" ypos="205.051" zpos="153.77" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="KLRThKilc0Oo67m+pkxtxg==" iconFile="Img\DrapeauPassage.png"/>
+			<POI MapID="1015" xpos="-90.25" ypos="200.88" zpos="159.33" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="xExqGh0dLUaXNel/oulmcQ=="/>
+			<POI MapID="1015" xpos="-96.4344" ypos="194.549" zpos="161.197" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="VYeUtBNkVk2d0P0xG02Mpw=="/>
+			<POI MapID="1015" xpos="-99.6214" ypos="187.202" zpos="171.438" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="DF047j8s9U+4kXkCujq4eQ=="/>
+			<POI MapID="1015" xpos="-103.465" ypos="184.604" zpos="178.108" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="WTPFRVf9Xke3R1OS63Lpcg=="/>
+			<POI MapID="1015" xpos="-107.091" ypos="183.783" zpos="182.16" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="FbPPg6XeK0+YJBaU1UbwdA=="/>
+			<POI MapID="1015" xpos="-108.67" ypos="178.5" zpos="186.32" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="GWQX8ftNyEq2TV1xc0fJNg=="/>
+			<POI MapID="1015" xpos="-113.864" ypos="175.201" zpos="190.232" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="QZu1hmjsIEiCLuviC2ZPGg=="/>
+			<POI MapID="1015" xpos="-118.687" ypos="154.635" zpos="187.799" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="X9Hblgm1G0mtQ9X0I597Lw=="/>
+			<POI MapID="1015" xpos="-126.032" ypos="153.751" zpos="182.987" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="L8nK6MVdoEuDT/laRzRvEw=="/>
+			<POI MapID="1015" xpos="-132.945" ypos="151.758" zpos="176.483" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="9cAX7/CZUEitiPDx/iHjBA=="/>
+			<POI MapID="1015" xpos="-138.397" ypos="153.071" zpos="169.337" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="NUuujKqUckebEcr9boMn1Q=="/>
+			<POI MapID="1015" xpos="-145.055" ypos="153.827" zpos="166.673" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="E0n0x5rE/kSXjTz/uC+f4g=="/>
+			<POI MapID="1015" xpos="-150.682" ypos="153.449" zpos="161.255" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="rSkRC8r4jEObomtC7HiGQw=="/>
+			<POI MapID="1015" xpos="-161.706" ypos="152.682" zpos="155.626" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="LfGBmik3YECtv7cHEH9Tyg=="/>
+			<POI MapID="1015" xpos="-174.766" ypos="153.842" zpos="153.102" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="DdEpE/fhsU65nxc8mjldOw=="/>
+			<POI MapID="1015" xpos="-180.723" ypos="155.302" zpos="156.502" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="Fsr3uYOg4U2/q56jmw/TzQ=="/>
+			<POI MapID="1015" xpos="-189.496" ypos="154.626" zpos="161.026" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="zX5W8+rgB0+y3VrYkliEcg=="/>
+			<POI MapID="1015" xpos="-198.775" ypos="153.726" zpos="164.229" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="104DJOiBy0m8++lnkmZ6MA=="/>
+			<POI MapID="1015" xpos="-210.954" ypos="152.522" zpos="166.428" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="AgaB6KGFgk+8gpOPmlPqhQ=="/>
+			<POI MapID="1015" xpos="-222.647" ypos="152.146" zpos="165.903" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="0QLJWdsBQkO70xRbOO5cUA=="/>
+			<POI MapID="1015" xpos="-230.234" ypos="151.386" zpos="164.52" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="66pedtgt6U6NCkFO14S4Og=="/>
+			<POI MapID="1015" xpos="-236.478" ypos="148.816" zpos="161.868" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="A4jECP6GQEurTm15mpT2NQ=="/>
+			<POI MapID="1015" xpos="-241.749" ypos="147.311" zpos="154.921" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="U1XiQO/tl0yvETTGS7shLw=="/>
+			<POI MapID="1015" xpos="-246.013" ypos="147.284" zpos="149.071" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="ln8BfIRGFUarOqmHVtFYwA=="/>
+			<POI MapID="1015" xpos="-249.95" ypos="150.93" zpos="148.31" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="t689GQA6REqFcIIhZoTX9Q=="/>
+			<POI MapID="1015" xpos="-256.39" ypos="154.66" zpos="145.30" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="wtVX5ZP2EUWoIRun4IhvLA=="/>
+			<POI MapID="1015" xpos="-258.909" ypos="156.63" zpos="149.286" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="Ly1sXWmznEycuR32kly0eQ=="/>
+			<POI MapID="1015" xpos="-267.156" ypos="157.539" zpos="145.071" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="XlrRA5Ln5U+YNTJwC5H2vg=="/>
+			<POI MapID="1015" xpos="-271.544" ypos="156.575" zpos="139.855" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="b1qPAujclUahsuBXj05BSA=="/>
+			<POI MapID="1015" xpos="-276.242" ypos="156.255" zpos="134.648" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="i3Nb68ee/0yMkIE6vHiTyQ=="/>
+			<POI MapID="1015" xpos="-283.583" ypos="156.553" zpos="126.792" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="Dn15k68PQkKEEeqqhAmilQ=="/>
+			<POI MapID="1015" xpos="-290.414" ypos="156.644" zpos="121.203" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="SpHp8BV5/0isCswe/y8ozQ=="/>
+			<POI MapID="1015" xpos="-297.069" ypos="155.441" zpos="118.406" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="2sLIskb3fkezrzMcddwBJw=="/>
+			<POI MapID="1015" xpos="-304.771" ypos="149.659" zpos="115.811" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="lg987YDvxUuzxnzOKq+8Tw=="/>
+			<POI MapID="1015" xpos="-314.572" ypos="148.607" zpos="112.67" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="a2wer5HTp0ukN4dBM12aQQ=="/>
+			<POI MapID="1015" xpos="-322.273" ypos="148.233" zpos="109.049" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="6hjadWR/k0qZ2tPDwwSCZA=="/>
+			<POI MapID="1015" xpos="-331.308" ypos="147.087" zpos="107.962" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="5bIphX2L3EebqHoaS5iubw=="/>
+			<POI MapID="1015" xpos="-339.183" ypos="146.398" zpos="105.69" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="3ljeW7sHpU66tZ3i5P5+ZQ=="/>
+			<POI MapID="1015" xpos="-347.192" ypos="149.063" zpos="101.4" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="1Fx+bc/M+E2MIgN2mJGbyg=="/>
+			<POI MapID="1015" xpos="-353.438" ypos="152.287" zpos="98.0325" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="LlgO8aoyoUyChCP/QSrn4Q=="/>
+			<POI MapID="1015" xpos="-360.551" ypos="153.705" zpos="92.945" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="X28AtU8pF0+A7Dfx9pmEsw=="/>
+			<POI MapID="1015" xpos="-369.8" ypos="147.226" zpos="84.7412" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="xrjTqZ5+TEWZ0gXeVfb/eA=="/>
+			<POI MapID="1015" xpos="-376.468" ypos="144.051" zpos="79.6532" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="dO8WmMNUeE6wNRqFNxhBeg=="/>
+			<POI MapID="1015" xpos="-375.941" ypos="142.465" zpos="70.8234" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="zvDYNrkUV0+5bjNDGPFdkg=="/>
+			<POI MapID="1015" xpos="-375.211" ypos="141.033" zpos="61.5655" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="5jThafPd90SSsuwzoZBgFw=="/>
+			<POI MapID="1015" xpos="-373.906" ypos="139.315" zpos="51.1272" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="EJlIS4LaMk+p5ImIFyYBVg=="/>
+			<POI MapID="1015" xpos="-372.193" ypos="137.68" zpos="39.7484" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="qtyUpn/fokGwglLUeJbs5Q=="/>
+			<POI MapID="1015" xpos="-370.917" ypos="136.172" zpos="30.6267" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="9ZotP7ksE0eNVYbkTnoLRg=="/>
+			<POI MapID="1015" xpos="-372.358" ypos="134.054" zpos="19.2737" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="TLYBTW5bHkeyNBIlPAUJow=="/>
+			<POI MapID="1015" xpos="-373.016" ypos="132.187" zpos="9.5364" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="NhMKwY3mdkeewKjBWkgLlg=="/>
+			<POI MapID="1015" xpos="-378.982" ypos="129.385" zpos="-1.25181" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="FZmsJZpqUUir8VUiNqq5EQ=="/>
+			<POI MapID="1015" xpos="-382.936" ypos="127.11" zpos="-10.8297" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="0jj0o3/+Hki1nRTyabvp2Q=="/>
+			<POI MapID="1015" xpos="-388.911" ypos="125.541" zpos="-14.9373" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="skoFuIgFQk+CZa4M0uWDkA=="/>
+			<POI MapID="1015" xpos="-397.381" ypos="123.279" zpos="-19.0169" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="fXrNkoVUz0miWHJgbXdUyQ=="/>
+			<POI MapID="1015" xpos="-398.476" ypos="116.83" zpos="-29.1681" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="AuxwbCqmwEyrgEXFmAlyfw=="/>
+			<POI MapID="1015" xpos="-395.461" ypos="103.376" zpos="-20.0672" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="r2tOgKo6NUufnzb651qd+g=="/>
+			<POI MapID="1015" xpos="-389.815" ypos="101.352" zpos="-22.7593" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="GxtdK8UlLUOwyOnKyLRRUQ=="/>
+			<POI MapID="1015" xpos="-391.35" ypos="95.0577" zpos="-32.2349" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="4RCTpFS7o06ffTDRk/XPgA=="/>
+			<POI MapID="1015" xpos="-391.552" ypos="89.6839" zpos="-43.3205" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="S2xnXjiM2EGHV2R/QovMbw=="/>
+			<POI MapID="1015" xpos="-393.364" ypos="88.0059" zpos="-55.9941" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="dYjfIm3rJ0OR7Did3s348A=="/>
+			<POI MapID="1015" xpos="-395.535" ypos="87.8181" zpos="-62.8236" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="r/m4++nbhEGUU9uspj+A9Q=="/>
+			<POI MapID="1015" xpos="-400.017" ypos="87.2424" zpos="-69.5107" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="mL401HwAIkihqUpllCBbtw=="/>
+			<POI MapID="1015" xpos="-404.163" ypos="86.6089" zpos="-75.0252" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="DfDtpMEvSE6XmWq9PTnYPg=="/>
+			<POI MapID="1015" xpos="-407.421" ypos="82.1653" zpos="-82.3176" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="fxd7e1GFo0eoqJIvRjMZOw=="/>
+			<POI MapID="1015" xpos="-409.634" ypos="81.7216" zpos="-88.3509" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="CLuaEloAWU2YRdv94y/jNA=="/>
+			<POI MapID="1015" xpos="-413.056" ypos="81.4048" zpos="-93.2947" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="asJomxtb3kqBdGWSAO4u6g=="/>
+			<POI MapID="1015" xpos="-416.86" ypos="80.91" zpos="-97.8815" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="23dqVp1Ab06bHTdHPeuCMQ=="/>
+			<POI MapID="1015" xpos="-422.11" ypos="78.6402" zpos="-104.383" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="+zEHU4VDD0KH2Un6/TAGGg=="/>
+			<POI MapID="1015" xpos="-425.975" ypos="75.4929" zpos="-111.967" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="MJvb8+/lf0ilJPxSYgYHrg=="/>
+			<POI MapID="1015" xpos="-437.311" ypos="72.0074" zpos="-120.615" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="sW1Ro+NPYkiz/ACKa9nDxQ=="/>
+			<POI MapID="1015" xpos="-446.08" ypos="73.0667" zpos="-125.556" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="F2nSK/o2lUOzLm86j89T3Q=="/>
+			<POI MapID="1015" xpos="-456.335" ypos="72.5589" zpos="-134.549" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="K99YMP+MRUa0wefPRZTMVg=="/>
+			<POI MapID="1015" xpos="-467.181" ypos="73.234" zpos="-142.063" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="GOATMF4z+UuaNs9PI/Aq7Q=="/>
+			<POI MapID="1015" xpos="-481.712" ypos="72.9285" zpos="-156.541" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="XAN/eBuVk0aCVOFFCartOQ=="/>
+			<POI MapID="1015" xpos="-483.74" ypos="71.7335" zpos="-167.868" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="0gKMO4aEekO4pei9Qv5r7Q=="/>
+			<POI MapID="1015" xpos="-487.311" ypos="71.2672" zpos="-178.124" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="gXb+9vk4A0q3p3cD0xw+Sw=="/>
+			<POI MapID="1015" xpos="-494.461" ypos="71.2315" zpos="-185.621" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="o+FmLm34Q0qleaJwRQMi0g=="/>
+			<POI MapID="1015" xpos="-498.476" ypos="70.8957" zpos="-192.273" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="0Ba+vsCtp02qXe6Yyz35XA=="/>
+			<POI MapID="1015" xpos="-503.273" ypos="66.7013" zpos="-200.871" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="ULKEWZF3kkmNcaNn+iDjCQ==" iconFile="Img\Fleche.png"/>
+			<POI MapID="1015" xpos="-556.076" ypos="90.6703" zpos="-267.197" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="0PMhKh5hL0e0wpK02xZnWw=="/>
+			<POI MapID="1015" xpos="-555.518" ypos="89.9186" zpos="-256.375" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="y4TzlhuM+UCIm9R2BRwezw=="/>
+			<POI MapID="1015" xpos="-552.867" ypos="89.613" zpos="-245.628" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="k69yPkCCRky1erlrP9sI0w=="/>
+			<POI MapID="1015" xpos="-554.949" ypos="87.4574" zpos="-232.288" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="p79HvBI7T0O8fwWflai6ZQ=="/>
+			<POI MapID="1015" xpos="-557.281" ypos="81.8764" zpos="-220.226" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="NIZxuMdasUixkDkcn6Mgsg=="/>
+			<POI MapID="1015" xpos="-558.983" ypos="76.7694" zpos="-208.909" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="6S3J/GRFU0SHxhQcPqXFDA=="/>
+			<POI MapID="1015" xpos="-553.767" ypos="74.2665" zpos="-203.019" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="DCtjjoZegEmZbMSF8ES2JQ=="/>
+			<POI MapID="1015" xpos="-548.33" ypos="53.1623" zpos="-204.131" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="0xPKDDYIEkelDoe6bx7ajw=="/>
+			<POI MapID="1015" xpos="-542.449" ypos="53.3562" zpos="-190.756" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="zJdSJ4QGikKZESd5nMIVEA=="/>
+			<POI MapID="1015" xpos="-535.478" ypos="54.8166" zpos="-179.204" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="XBmuzmN8U065UlqGfbR+Qg=="/>
+			<POI MapID="1015" xpos="-542.177" ypos="53.4821" zpos="-171.368" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="ObBJtGRGx0W9zelirqRnjQ==" iconFile="Img\Fleche.png"/>
+			<POI MapID="1015" xpos="-489.673" ypos="129.425" zpos="-240.854" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="vfXGNbMgJUmZAcfFPBN88A=="/>
+			<POI MapID="1015" xpos="-502.255" ypos="129.72" zpos="-250.274" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="Tz/rVNDzpEuyw6w9XiJ2zw=="/>
+			<POI MapID="1015" xpos="-519.681" ypos="126.745" zpos="-258.905" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="t0VZbhbkXUSSBcbxYnU+qA=="/>
+			<POI MapID="1015" xpos="-538.471" ypos="123.83" zpos="-263.557" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="cgImre3szUaVWYkpwd/sMA=="/>
+			<POI MapID="1015" xpos="-555.508" ypos="111.083" zpos="-259.308" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="rimo2Qg7SUOG16bChTXRKQ=="/>
+			<POI MapID="1015" xpos="-557.235" ypos="104.517" zpos="-249.706" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="1YjO0jJSz0aYbg96l6S3yw=="/>
+			<POI MapID="1015" xpos="-555.889" ypos="102.442" zpos="-235.049" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="DD0WcIeiy0mS15QWd3kXYA=="/>
+			<POI MapID="1015" xpos="-558.648" ypos="101.561" zpos="-219.081" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="U5hNzVzL1ESfSLWmfI3T/w=="/>
+			<POI MapID="1015" xpos="-558.769" ypos="96.5779" zpos="-207.66" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="a/kiZgui8kCmrIHcj8pFrA=="/>
+			<POI MapID="1015" xpos="-557.745" ypos="89.6989" zpos="-206.672" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="hguRWwmRwUS54rBuOYPvTA==" iconFile="Img\Fleche.png"/>
+			<POI MapID="1015" xpos="-562.63" ypos="123.5" zpos="-209.6" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="71eyYwOt3k+Uo4mDruu8Ww=="/>
+			<POI MapID="1015" xpos="-560.855" ypos="124.264" zpos="-220.401" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="N2cqkDM8m0Ci31xTf91yCQ=="/>
+			<POI MapID="1015" xpos="-555.507" ypos="125.692" zpos="-229.226" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="EnlzY70+IEi6QhTxF0Kp3A=="/>
+			<POI MapID="1015" xpos="-558.703" ypos="126.909" zpos="-244.324" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="HKt2MPOutUSgi5Ohdw9iXg==" iconFile="Img\Fleche.png"/>
+			<POI MapID="1015" xpos="-544.367" ypos="140.214" zpos="-197.62" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="rA/+peAjQ0yvHNfzsTGtBg=="/>
+			<POI MapID="1015" xpos="-544.468" ypos="140.435" zpos="-186.753" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="BYktqEK1N0CO5CslMaEbVA=="/>
+			<POI MapID="1015" xpos="-549.367" ypos="144.617" zpos="-189.611" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="xXS8OaTGXkSX/N09MzHHpw=="/>
+			<POI MapID="1015" xpos="-553.323" ypos="148.522" zpos="-199.386" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="2VmoUQ31zkmuefFdC7tcZw=="/>
+			<POI MapID="1015" xpos="-563.51" ypos="152.377" zpos="-206.822" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="jSrnhyCeI06gxwWo7XLyiQ=="/>
+			<POI MapID="1015" xpos="-563.686" ypos="153.69" zpos="-216.801" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="/MbpYby6Q0erY2vEEQDNog=="/>
+			<POI MapID="1015" xpos="-569.457" ypos="157.257" zpos="-225.922" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="rBzM5c2FZkSXDgLQv1g3Vg=="/>
+			<POI MapID="1015" xpos="-567.313" ypos="159.157" zpos="-218.225" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="zhHfyy+G0k2tDG8aOckgOQ=="/>
+			<POI MapID="1015" xpos="-565.543" ypos="161.171" zpos="-212.589" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="/qWqnpevMEy8MFIsrXZdUg=="/>
+			<POI MapID="1015" xpos="-564.32" ypos="161.158" zpos="-200.581" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="wSLOHdfm9EudXOTqfSgjlw=="/>
+			<POI MapID="1015" xpos="-565.191" ypos="162.11" zpos="-194.23" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="pplIPpTE60Sw3l+/12oDpg=="/>
+			<POI MapID="1015" xpos="-566.581" ypos="162.554" zpos="-182.277" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="Yb2lITjN30agGxudipNy8A=="/>
+			<POI MapID="1015" xpos="-568.352" ypos="160.929" zpos="-172.2" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="oCVJ76pGRUuH/FRDL9DAtg==" iconFile="Img\Fleche.png"/>
+			<POI MapID="1015" xpos="-564.711" ypos="185.824" zpos="-199.891" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="ZmjHqhWcc0mcWqzLq0q3gQ=="/>
+			<POI MapID="1015" xpos="-563.59" ypos="183.397" zpos="-211.104" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="EYws/PPZTUmQTKEq+sAtGA=="/>
+			<POI MapID="1015" xpos="-566.981" ypos="178.961" zpos="-225.16" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="9F4FH1qUnUChaxIt1r/2gA=="/>
+			<POI MapID="1015" xpos="-573.473" ypos="175.254" zpos="-237.682" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="G7RJMhmA5kSFHfpsjP2gEw=="/>
+			<POI MapID="1015" xpos="-577.393" ypos="171.044" zpos="-247.897" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="QD/X7FoMNEiMmRgicSPAlw=="/>
+			<POI MapID="1015" xpos="-579.683" ypos="165.512" zpos="-262.958" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="o9mXoL7FPkyTnAR0xt1Aeg=="/>
+			<POI MapID="1015" xpos="-584.147" ypos="167.763" zpos="-279.146" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="DzhuYLuCdkK0Jwqyk3qCbg==" iconFile="Img\Fleche.png"/>
+			<POI MapID="1015" xpos="-571.423" ypos="186.375" zpos="-182.035" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="9UeZKh5oekC/T2t18d8SEg=="/>
+			<POI MapID="1015" xpos="-569.96" ypos="187.787" zpos="-169.498" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="tFSdTnWsfECKbVkQuzgC5A=="/>
+			<POI MapID="1015" xpos="-555.374" ypos="190.346" zpos="-174.004" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="pA7FBIEtPEGxvF8zlviD0Q=="/>
+			<POI MapID="1015" xpos="-537.141" ypos="193.209" zpos="-176.065" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="wQtlA7IrPESiWfR1zj7Tkg=="/>
+			<POI MapID="1015" xpos="-521.937" ypos="198.291" zpos="-177.223" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="XR5JjhUMwkmlAJ7FZq/msQ=="/>
+			<POI MapID="1015" xpos="-512.961" ypos="201.976" zpos="-186.239" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="FpWulhU4b0qQp9ZeHI9lxg=="/>
+			<POI MapID="1015" xpos="-507.5" ypos="202.861" zpos="-204.175" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="UQ9HDC5KekaodQQzKQXaBQ=="/>
+			<POI MapID="1015" xpos="-501.097" ypos="204.308" zpos="-218.056" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="Ggo31JnGgUC49FPV46aR8w=="/>
+			<POI MapID="1015" xpos="-488.577" ypos="205.988" zpos="-229.543" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="LilRjf31+02YVo/rhM+B7A=="/>
+			<POI MapID="1015" xpos="-481.221" ypos="206.79" zpos="-236.54" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="lWHiFgpULkyItRV5TE3P0w=="/>
+			<POI MapID="1015" xpos="-478.437" ypos="192.648" zpos="-250.728" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="KRe0k2aWfkK42zEcgsNpkg=="/>
+			<POI MapID="1015" xpos="-482.206" ypos="188.762" zpos="-245.02" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="DI4QawJGFEGjl5lVUKbMsQ=="/>
+			<POI MapID="1015" xpos="-480.511" ypos="182.916" zpos="-239.759" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="cR4pyUmrR0+1ghD5pBNGzQ=="/>
+			<POI MapID="1015" xpos="-481.4" ypos="177.719" zpos="-246.992" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="urQ1CeKRrkS/xqGLfFT75w=="/>
+			<POI MapID="1015" xpos="-480.54" ypos="167.956" zpos="-242.274" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="9GPFdZ1yxEWm7RnZpgTXWA=="/>
+			<POI MapID="1015" xpos="-464.884" ypos="167.407" zpos="-235.737" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="hLMAUSEkJUaF+N91+7AtLA=="/>
+			<POI MapID="1015" xpos="-450.609" ypos="171.032" zpos="-229.856" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="0XHWTYqKdkeaALneee5exA==" iconFile="Img\Fleche.png"/>
+			<POI MapID="1015" xpos="-570.217" ypos="211.889" zpos="-230.912" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="bc5sjPTu/0S2POV86S37nQ=="/>
+			<POI MapID="1015" xpos="-568.193" ypos="208.898" zpos="-222.902" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="7Z2jLRfQAUarZBHPaXY0Tg=="/>
+			<POI MapID="1015" xpos="-565.804" ypos="205.64" zpos="-213.931" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="X/m4BK62pUKR3befCcUleQ=="/>
+			<POI MapID="1015" xpos="-566.876" ypos="199.53" zpos="-202.194" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="UqXFCwj03EipthLi71hNZg=="/>
+			<POI MapID="1015" xpos="-569.017" ypos="198.453" zpos="-192.262" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="hkY+DL/hi0OUOLIghKxPxQ=="/>
+			<POI MapID="1015" xpos="-576.375" ypos="199.06" zpos="-183.106" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="+0uEFcqyy0mcfIGEgU14XA==" iconFile="Img\Fleche.png"/>
+			<POI MapID="1015" xpos="-499.116" ypos="236.843" zpos="-305.171" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="k7jA0UWZuEC5nPFhFyd0LA=="/>
+			<POI MapID="1015" xpos="-504.306" ypos="234.93" zpos="-297.134" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="kJzDiPcrm02GMTfpI/74dA=="/>
+			<POI MapID="1015" xpos="-515.99" ypos="232.048" zpos="-292.835" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="00Y/GxWE3Uum1RR6JSvIIw=="/>
+			<POI MapID="1015" xpos="-529.879" ypos="230.152" zpos="-286.554" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="FuaNE0HYlk+bWO6wCU4Xhg==" iconFile="Img\Fleche.png"/>
+			<POI MapID="1015" xpos="-548.239" ypos="223.833" zpos="-284.994" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="++W9MPfNpkKzG8Vf/ikPgQ=="/>
+			<POI MapID="1015" xpos="-561.214" ypos="224.502" zpos="-278.422" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="2Um35iZ5MU2Uen+756pZ8w=="/>
+			<POI MapID="1015" xpos="-575.344" ypos="225.902" zpos="-275.791" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="5DtiIGFMw0io7DtCoZ6DLw=="/>
+			<POI MapID="1015" xpos="-585.297" ypos="227.239" zpos="-276.553" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="1QOUUEMlu02C+auzMzl0cQ=="/>
+			<POI MapID="1015" xpos="-585.912" ypos="226.529" zpos="-262.965" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="VnGGLWVXi0C2HZgwwHF3IQ=="/>
+			<POI MapID="1015" xpos="-587.182" ypos="233.699" zpos="-252.009" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="AbgxrOycL0aK2RtXgUpiJg=="/>
+			<POI MapID="1015" xpos="-587.368" ypos="240.532" zpos="-241.961" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="3vzq0xdOFEKvu3qgtmSOQA=="/>
+			<POI MapID="1015" xpos="-584.771" ypos="243.1" zpos="-233.07" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="D7vGSh39GUeAbsw3h0Vhjw=="/>
+			<POI MapID="1015" xpos="-580.992" ypos="244.181" zpos="-223.128" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="sK3WlSfeN0y5U6H90OsKoA=="/>
+			<POI MapID="1015" xpos="-577.417" ypos="246.234" zpos="-210.863" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="cv8Fm9Q2hUm8MHw23S1jTg=="/>
+			<POI MapID="1015" xpos="-575.491" ypos="248.058" zpos="-198.742" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="cYwr7mcbWEq5f4Me8YlOxw=="/>
+			<POI MapID="1015" xpos="-573.76" ypos="249.634" zpos="-185.31" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="ah3uyFEoN0C5Ih8PKnwwyA=="/>
+			<POI MapID="1015" xpos="-563.907" ypos="252.877" zpos="-180.674" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="hERnOmKS2UO0q+TbkXpzqQ=="/>
+			<POI MapID="1015" xpos="-551.16" ypos="253.621" zpos="-186.619" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="J3QfBdi5GU+fk1ErnGe30A=="/>
+			<POI MapID="1015" xpos="-545.24" ypos="236.038" zpos="-191.941" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="gOgaG8qI6Ei+fQnRnwb19w=="/>
+			<POI MapID="1015" xpos="-532.934" ypos="237.836" zpos="-197.096" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="N33oc2QHBUqhNMs+1x6Hhg=="/>
+			<POI MapID="1015" xpos="-519.875" ypos="239.557" zpos="-200.785" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="mOz2B0ZC7ECS1nPLCaeubg=="/>
+			<POI MapID="1015" xpos="-507.714" ypos="241.406" zpos="-204.144" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="EGZrsiji6UOIhV437bH0aQ==" iconFile="Img\Fleche.png"/>
+			<POI MapID="1015" xpos="-591.764" ypos="253.639" zpos="-228.676" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="f87iVOgIx0SEE0NGzLcbBQ=="/>
+			<POI MapID="1015" xpos="-596.654" ypos="253.244" zpos="-242.08" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="GLIfjVq8hEawr1kIbKBpoA=="/>
+			<POI MapID="1015" xpos="-595.246" ypos="252.955" zpos="-253.54" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="wRSdshK3VkW1WpRd9JavcQ=="/>
+			<POI MapID="1015" xpos="-592.81" ypos="251.134" zpos="-267.701" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="4lrIsu36WEGayIV1asqCsQ=="/>
+			<POI MapID="1015" xpos="-588.134" ypos="246.521" zpos="-274.989" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="WkGeVyKhvU+vp0eeudfqlA==" iconFile="Img\Fleche.png"/>
+			<POI MapID="1015" xpos="-576.054" ypos="268.642" zpos="-276.733" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="5f4ulx1W+U6Q8HJjptW3bg=="/>
+			<POI MapID="1015" xpos="-590.742" ypos="266.053" zpos="-276.62" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="U4Cg9xevDEG5fgMS1/shRA=="/>
+			<POI MapID="1015" xpos="-596.63" ypos="268.988" zpos="-269.553" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="ThFbRPpeCk24CGNIQMYy8Q=="/>
+			<POI MapID="1015" xpos="-595.922" ypos="272.169" zpos="-257.095" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="XvnfPUTXPUGCGON0Oxzm4w=="/>
+			<POI MapID="1015" xpos="-599.475" ypos="275.641" zpos="-242.451" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="11A1kIEBc0iv9jOg+DVl8A=="/>
+			<POI MapID="1015" xpos="-599.072" ypos="277.637" zpos="-236.74" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="O/81u+X8cEmEPHLM2MS6Kg=="/>
+			<POI MapID="1015" xpos="-598.683" ypos="279.843" zpos="-230.586" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="Y9nC6UAXPUS+TFXu0bXRBQ=="/>
+			<POI MapID="1015" xpos="-596.199" ypos="281.828" zpos="-223.505" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="N/7yo+a5rUajR1xKNux0GA=="/>
+			<POI MapID="1015" xpos="-594.155" ypos="285.516" zpos="-214.969" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="YqCdaHz8rkSwue2bEoHVTg=="/>
+			<POI MapID="1015" xpos="-589.704" ypos="285.903" zpos="-205.338" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="WW4qe5nvokuYdBh1ZJ5bNQ=="/>
+			<POI MapID="1015" xpos="-581.653" ypos="290.468" zpos="-192.902" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="encn+I2kM0uamO+2XLNePA=="/>
+			<POI MapID="1015" xpos="-575.163" ypos="294.499" zpos="-182.833" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="zcPToMpd5E2jzVqMPctx7A=="/>
+			<POI MapID="1015" xpos="-574.124" ypos="296.774" zpos="-170.142" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="iINIkCZv6Ei0X+Ljj+zLLQ=="/>
+			<POI MapID="1015" xpos="-576.548" ypos="299.679" zpos="-159.504" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="cksBhatZ8kSHxIYXy7URpA=="/>
+			<POI MapID="1015" xpos="-563.905" ypos="301.262" zpos="-165.728" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="65Q0FHr4OEK1E52t5u3BDQ=="/>
+			<POI MapID="1015" xpos="-555.651" ypos="302.324" zpos="-174.971" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="SCfzuqHIbUuYrMJsbqbQ4g=="/>
+			<POI MapID="1015" xpos="-546.126" ypos="304.465" zpos="-181.345" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="UKQZAY/omEeD/C2G6SiqMQ=="/>
+			<POI MapID="1015" xpos="-536.317" ypos="305.222" zpos="-185.738" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="t4fbh9vHi0+g1HIoicB1tw=="/>
+			<POI MapID="1015" xpos="-526.996" ypos="306.938" zpos="-192.957" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="nGaWmN3gQUiw0JkOMpe6NQ=="/>
+			<POI MapID="1015" xpos="-513.982" ypos="308.765" zpos="-195.771" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="QL5SXifp80qepQ8wPDGMyw=="/>
+			<POI MapID="1015" xpos="-504.476" ypos="301.723" zpos="-205.068" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="4e32CWv4VEyRqFKNP/aBuQ=="/>
+			<POI MapID="1015" xpos="-501.544" ypos="302.89" zpos="-214.032" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="vpRZE3Mz002Awte2/zQqCg=="/>
+			<POI MapID="1015" xpos="-495.988" ypos="304.364" zpos="-226.325" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="x+mcIStm7kG3+j5WWo0IAQ=="/>
+			<POI MapID="1015" xpos="-490.424" ypos="306.75" zpos="-240.073" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="nCCL2UsJM0KTF0BUg117+w=="/>
+			<POI MapID="1015" xpos="-483.339" ypos="308.049" zpos="-252.107" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="BObtKyl0ZkKETUtFoZhrQg=="/>
+			<POI MapID="1015" xpos="-485.367" ypos="306.843" zpos="-266.722" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="UOqA7xq5vk6HVNz3m/bZGw=="/>
+			<POI MapID="1015" xpos="-485.127" ypos="309.678" zpos="-273.569" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="o49Jq8aOYkCG82bzYTG6hg=="/>
+			<POI MapID="1015" xpos="-487.632" ypos="304.819" zpos="-283.172" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="aUsHz8INdEC/U9VmYb4C0A=="/>
+			<POI MapID="1015" xpos="-485.394" ypos="309.295" zpos="-295.653" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="iIWSR5UR9U+5nNr1MsPoRg=="/>
+			<POI MapID="1015" xpos="-486.784" ypos="311.722" zpos="-306.046" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="vDEE5pPepkGOoAo4jgXoyw==" iconFile="Img\DrapeauPassage.png"/>
+			<POI MapID="1015" xpos="-495.426" ypos="311.636" zpos="-314.821" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="9Utij3rHmkq8fbkMuhlBew=="/>
+			<!-- Arrivée -->
+			<POI MapID="1015" xpos="-507.11" ypos="307.23" zpos="-318.72" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="S1xrOEm7E0ynSexToLtlgg=="/>
+			<POI MapID="1015" xpos="-520.67" ypos="309.099" zpos="-322.847" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="rHnjQ715ZU2tNqPa9ouoQw=="/>
+			<POI MapID="1015" xpos="-527.853" ypos="315.014" zpos="-331.995" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="df56gZPtOUudZI+2uccJFw=="/>
+			<POI MapID="1015" xpos="-531.741" ypos="316.292" zpos="-340.627" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="FamsLK5D4k+UZtkwPuPeFw=="/>
+			<POI MapID="1015" xpos="-530.803" ypos="314.693" zpos="-351.866" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="eZexDVUEnUy1PsddE7G5Gw=="/>
+			<!-- Morceau de clé 1 -->
+			<POI MapID="1015" xpos="-530.581" ypos="317.053" zpos="-368.08" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="6Ba4zCDB3kO0j8Wa1QRdEA==" iconFile="Img\Cle.png"/>
+			<POI MapID="1015" xpos="-541.515" ypos="315.661" zpos="-380.826" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="dqY7YLVTO0WBqyXRbBOeZA=="/>
+			<POI MapID="1015" xpos="-549.161" ypos="314.805" zpos="-396.961" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="PU/HvFrqPU+pOC0hW3et5g=="/>
+			<!-- Morceau de clé 2 -->
+			<POI MapID="1015" xpos="-547.684" ypos="316.413" zpos="-412.215" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="EHOX5mUdLUSbX6Tvp5acyA==" iconFile="Img\Cle.png"/>
+			<POI MapID="1015" xpos="-534.954" ypos="314.805" zpos="-411.691" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="rcELrhfWH0+T5i8yjPfgRg=="/>
+			<POI MapID="1015" xpos="-521.51" ypos="315.348" zpos="-406.244" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="++ux3HBTQUaU7ypotZlDfw=="/>
+			<!-- Morceau de clé 3 -->
+			<POI MapID="1015" xpos="-506.567" ypos="316.388" zpos="-399.353" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="/TxEklvWCU+neJf6Ycd4cA==" iconFile="Img\Cle.png"/>
+			<POI MapID="1015" xpos="-519.38" ypos="316.003" zpos="-386.899" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="9tfiyM3JpEWx1KJAQub+Tg=="/>
+			<POI MapID="1015" xpos="-532.318" ypos="314.693" zpos="-376.471" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="pWlziMi7lE+tZpZ9tdfRYw=="/>
+			<POI MapID="1015" xpos="-540.001" ypos="314.693" zpos="-363.73" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="RNLJOlEbb0KpyBnXj4RYHA=="/>
+		</Route>
+
+		<!-- Coffre -->
+		<POI MapID="1015" xpos="-545.14" ypos="316.635" zpos="-349.197" type="general.contrees_sauvages_d_argent.course_retrospective" GUID="a/+UBnLuI0y/y3SPe3uvnA==" iconFile="Img\CoffrePuzzle.png" heightOffset="2.5"/>
+
+	</POIs>
+</OverlayData>

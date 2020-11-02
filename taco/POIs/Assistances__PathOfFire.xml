@@ -1,0 +1,41 @@
+<!-- 2020.06.09 -->
+<OverlayData>
+	<POIs>
+
+		<!-- CRYSTAL OASIS - GLINT'S LEGACY -->
+		<Trail type="assistances.crystal_oasis.glint_s_legacy" GUID="tQ3TG2XcnEidPoJZFNsNCg==" trailData="Data/Assistances/CrystalOasis_GlintsLegacy.trl" texture="Data/SemiLine.png" color="ffff00ff" alpha="0.8" fadeNear="1500" fadeFar="2000" animSpeed="1" mapDisplaySize="15"/>
+		<POI MapID="1210" xpos="1330.96" ypos="78.4327" zpos="-135.777" type="assistances.crystal_oasis.glint_s_legacy" GUID="LWATDvGACUCLKP2FO5Eq2Q==" iconFile="Img/Icons/PinPurple.png"                       heightOffset="0.5"/>
+		<POI MapID="1210" xpos="1409.4"  ypos="98.7061" zpos="-245.685" type="assistances.crystal_oasis.glint_s_legacy" GUID="vv6r8DUaskqh2nEU6y5Zfg==" iconFile="Img/Mounts/Springer.png"                       maxSize="24" fadeNear="1500" fadeFar="2000" heightOffset="0.5" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="1210" xpos="1416.6"  ypos="127.75"  zpos="-249.484" type="assistances.crystal_oasis.glint_s_legacy" GUID="M2NxPCG4y06wLrsMbaemoQ==" iconFile="Img/Assistances/CrystalOasis_GlintsLegacy.png" minSize="48" maxSize="48" fadeNear="1500" fadeFar="2000" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="1210" xpos="1348.5"  ypos="186.578" zpos="-541.896" type="assistances.crystal_oasis.glint_s_legacy" GUID="S6Nrze38xEyD3iuajfBpLQ==" iconFile="Img/Mounts/Springer.png"                       maxSize="24" fadeNear="1500" fadeFar="2000" heightOffset="0.5" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="1210" xpos="1424.26" ypos="148.698" zpos="-300.239" type="assistances.crystal_oasis.glint_s_legacy" GUID="hJrUfAc2YE2gpwBNoFOlLA==" iconFile="Img/Signs/End.png"                             maxSize="20" fadeNear="1500" fadeFar="2000" heightOffset="0"/>
+
+		<!-- CRYSTAL OASIS - SANCTUM OF NABKHA -->
+		<Trail type="assistances.crystal_oasis.sanctum_of_nabkha" GUID="6GJFC7ktCUmtd7HLGyfgNw==" trailData="Data/Assistances/CrystalOasis_SanctumOfNabkha.trl"            texture="Data/SemiLine.png" color="ffff00ff" alpha="0.8" fadeNear="1500" fadeFar="2000" animSpeed="1" mapDisplaySize="15"/>
+		<Trail type="assistances.crystal_oasis.sanctum_of_nabkha" GUID="TVbEwsUZKkm9TQ6Kc1UIUQ==" trailData="Data/Assistances/CrystalOasis_SanctumOfNabkha_Transition.trl" texture="Data/Dot.png"      color="ffff66ff" alpha="0.8" fadeNear="1500" fadeFar="2000" mapDisplaySize="15" inGameVisibility="0"/>
+		<POI MapID="1210" xpos="472.448" ypos="22.3212" zpos="-435.941" type="assistances.crystal_oasis.sanctum_of_nabkha" GUID="LlmAjW/bgkyb8uyY2Q4ilw==" iconFile="Img/Icons/PinPurple.png" heightOffset="0.5"/>
+		<POI MapID="1210" xpos="458.117" ypos="13.2608" zpos="-543.224" type="assistances.crystal_oasis.sanctum_of_nabkha" GUID="2TuqfNouO0CVkhaw/x/WPA==" iconFile="Img/Mounts/Springer.png" maxSize="24" fadeNear="1500" fadeFar="2000" heightOffset="0.5" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="1210" xpos="540.59"  ypos="39.7052" zpos="-510.244" type="assistances.crystal_oasis.sanctum_of_nabkha" GUID="vPwuyssIykmusrWVsD0lEQ==" iconFile="Img/Mounts/Jackal.png"   maxSize="24" fadeNear="1500" fadeFar="2000" heightOffset="0.5" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="1210" xpos="686.234" ypos="43.7724" zpos="-591.32"  type="assistances.crystal_oasis.sanctum_of_nabkha" GUID="X+7158udYEmgK2c9649K1Q==" iconFile="Img/Mounts/Springer.png" maxSize="24" fadeNear="1500" fadeFar="2000" heightOffset="0.5" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="1210" xpos="715.567" ypos="56.8876" zpos="-596.921" type="assistances.crystal_oasis.sanctum_of_nabkha" GUID="gIZHYTPBx0OsjDpA8u/jjw==" iconFile="Img/Mounts/Jackal.png"   maxSize="24" fadeNear="1500" fadeFar="2000" heightOffset="0.5" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="1210" xpos="738.446" ypos="192.356" zpos="-534.016" type="assistances.crystal_oasis.sanctum_of_nabkha" GUID="t61Ksf5k7kGycA2lnwKvlQ==" iconFile="Img/Mounts/Springer.png" maxSize="24" fadeNear="1500" fadeFar="2000" heightOffset="0.5" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="1210" xpos="752.149" ypos="192.219" zpos="-542.558" type="assistances.crystal_oasis.sanctum_of_nabkha" GUID="BiRtIBl3wka4YXGtr1m7eA==" iconFile="Img/Icons/ChestGold.png" heightOffset="0.5" fadeNear="2000" fadeFar="2500"/>
+		<POI MapID="1210" xpos="755.091" ypos="192.522" zpos="-553.045" type="assistances.crystal_oasis.sanctum_of_nabkha" GUID="LNnOZ2bV4kKOtcmkGtFwsQ==" iconFile="Img/Icons/ChestGold.png" heightOffset="0.5" fadeNear="2000" fadeFar="2500"/>
+		<POI MapID="1210" xpos="752.28"  ypos="192.246" zpos="-563.515" type="assistances.crystal_oasis.sanctum_of_nabkha" GUID="BPa2tbhYQEeAO33+j1wLqQ==" iconFile="Img/Icons/ChestGold.png" heightOffset="0.5" fadeNear="2000" fadeFar="2500"/>
+
+		<!-- THE DESOLATION - BONE PALACE PINNACLE -->
+		<Trail type="assistances.the_desolation.bone_palace" GUID="BDKm1tqgH0+EMZo19rHaFQ==" trailData="Data/PathOfFire/TheDesolation/BonePalacePinnacle.trl" texture="Data/SemiLine.png" color="ffff00ff" alpha="0.8" fadeNear="1500" fadeFar="2000" animSpeed="1" mapDisplaySize="15"/>
+		<POI MapID="1226" xpos="312.035" ypos="249.107" zpos="-1137.62" type="assistances.the_desolation.bone_palace" GUID="xUtktEGm/k25/6NHRnezTQ==" iconFile="Img/Icons/PinPurple.png" heightOffset="0.5"/>
+		<POI MapID="1226" xpos="180.285" ypos="294.696" zpos="-1304.97" type="assistances.the_desolation.bone_palace" GUID="+LMrz9bi9UiG3attr24QCg==" iconFile="Img/Mounts/Springer.png" fadeNear="1500" fadeFar="2000" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="1226" xpos="190.928" ypos="340.126" zpos="-1465.07" type="assistances.the_desolation.bone_palace" GUID="bp6SK7jZC0GZXHsGw9b/TQ==" iconFile="Img/Mounts/Raptor.png"   fadeNear="1500" fadeFar="2000" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="1226" xpos="267.37"  ypos="341.031" zpos="-1355.79" type="assistances.the_desolation.bone_palace" GUID="r4vJIPs5aE2cdd2oXBYo9A==" iconFile="Img/Mounts/Springer.png" fadeNear="1500" fadeFar="2000" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="1226" xpos="311.747" ypos="408.642" zpos="-1348.07" type="assistances.the_desolation.bone_palace" GUID="cPjHWPnECES/xD+85MMwmg==" iconFile="Img/Icons/ChestGold.png" heightOffset="0.5" fadeNear="2000" fadeFar="2500"/>
+
+		<!-- DOMAIN OF VABBI - HANGING GARDENS -->
+		<Trail type="assistances.domain_of_vabbi.hanging_gardens" GUID="oML+HGE52kmPFSNf2mz6fw==" trailData="Data/Assistances/DomainOfVabbi_HangingGardens.trl" texture="Data/SemiLine.png" color="ffff00ff" alpha="0.8" fadeNear="1500" fadeFar="2000" animSpeed="1" mapDisplaySize="10"/>
+		<POI MapID="1248" xpos="1305.01" ypos="77.7971" zpos="-157.014" type="assistances.domain_of_vabbi.hanging_gardens" GUID="MDPK1weRoE+W17/Mr8zdaw==" iconFile="Img/Icons/PinPurple.png" heightOffset="0.5"/>
+		<POI MapID="1248" xpos="1314.03" ypos="77.7971" zpos="-151.024" type="assistances.domain_of_vabbi.hanging_gardens" GUID="JoaSeEKsAEGDE6bu5Y8NWA==" iconFile="Img/Mounts/Jackal.png"   maxSize="24" fadeNear="1500" fadeFar="2000" heightOffset="0.5" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="1248" xpos="1359.02" ypos="124.236" zpos="-128.83"  type="assistances.domain_of_vabbi.hanging_gardens" GUID="4r25LZwIMkKt2fzFSf5B6Q==" iconFile="Img/Icons/ChestGold.png" heightOffset="0.5" fadeNear="1200" fadeFar="1800"/>
+
+	</POIs>
+</OverlayData>

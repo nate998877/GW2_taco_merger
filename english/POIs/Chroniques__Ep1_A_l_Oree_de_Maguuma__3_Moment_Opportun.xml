@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+POIs: ReActif.9251
+Date: 2017/
+-->
+<OverlayData>
+	<MarkerCategory name="chroniques.saison_2">
+		<MarkerCategory name="ep1_a_l_oree_de_maguuma" DisplayName="Ep.1 - Gates of Maguuma" iconFile="Img\Saison2AOreeDeMaguuma.png">
+			<MarkerCategory name="moment_opportun" DisplayName="Opportune Moment">
+				<MarkerCategory name="trajet" DisplayName="Guide" iconFile="Img\Guide.png" iconSize="0.75" heightOffset="0" behavior="0"/>
+			</MarkerCategory>
+		</MarkerCategory>
+	</MarkerCategory>
+
+	<POIs>
+
+		<!-- Pouvoir Zephyrite -->
+		<POI MapID="990" xpos="-58.5998" ypos="72.8568" zpos="-389.642" type="chroniques.saison_2.ep1_a_l_oree_de_maguuma.moment_opportun" GUID="dFbyOIvOYUyjQNbb37gXhA==" iconFile="Img\Fleche.png" heightOffset="3"/>
+
+		<!-- Route -->
+		<Route MapID="990" name="MomentOpportun" resetposx="-58.5998" resetposy="72.8568" resetposz="-389.642" resetrange="1">
+			<POI MapID="990" xpos="-52.3461" ypos="72.9642" zpos="-384.001" type="chroniques.saison_2.ep1_a_l_oree_de_maguuma.moment_opportun.trajet" GUID="Jt4uMAq3hEuQlprFAuBY0Q=="/>
+			<POI MapID="990" xpos="-46.8563" ypos="72.6757" zpos="-387.644" type="chroniques.saison_2.ep1_a_l_oree_de_maguuma.moment_opportun.trajet" GUID="j+gSLww9N0idKo2X5Vpxhg=="/>
+			<POI MapID="990" xpos="-46.7735" ypos="73.1362" zpos="-394.318" type="chroniques.saison_2.ep1_a_l_oree_de_maguuma.moment_opportun.trajet" GUID="sZhqdrPceUWaDhtvFLQO6Q=="/>
+			<POI MapID="990" xpos="-46.5477" ypos="72.8484" zpos="-400.657" type="chroniques.saison_2.ep1_a_l_oree_de_maguuma.moment_opportun.trajet" GUID="V7JLC5Qg7ECIlbvuuT64EQ==" iconFile="Img\PouvoirZephyrite3.png"/>
+			<POI MapID="990" xpos="-47.8242" ypos="72.2894" zpos="-428.539" type="chroniques.saison_2.ep1_a_l_oree_de_maguuma.moment_opportun.trajet" GUID="LvnkaprKIUGj96SN/n4xBg==" iconFile="Img\Cible.png" heightOffset="0"/>
+			<POI MapID="990" xpos="-48.0928" ypos="72.8664" zpos="-434.553" type="chroniques.saison_2.ep1_a_l_oree_de_maguuma.moment_opportun.trajet" GUID="XDyjQc4Io0uu9skhT8j62w=="/>
+			<POI MapID="990" xpos="-49.0682" ypos="72.6736" zpos="-440.447" type="chroniques.saison_2.ep1_a_l_oree_de_maguuma.moment_opportun.trajet" GUID="Ui5kur963E6mW6cfmgWn/A=="/>
+			<POI MapID="990" xpos="-51.218" ypos="72.4904" zpos="-446.366" type="chroniques.saison_2.ep1_a_l_oree_de_maguuma.moment_opportun.trajet" GUID="q3Q6TfMg8E6hVIcuYoCRJQ=="/>
+			<POI MapID="990" xpos="-55.5042" ypos="72.178" zpos="-449.912" type="chroniques.saison_2.ep1_a_l_oree_de_maguuma.moment_opportun.trajet" GUID="Y1OgmCYffUCgA4/heO836g=="/>
+		</Route>
+
+		<!-- Succès -->
+		<POI MapID="990" xpos="-63.7044" ypos="71.3699" zpos="-456.823" type="chroniques.saison_2.ep1_a_l_oree_de_maguuma.moment_opportun" GUID="LL/s7wr0mEWQ4QFlgitKQA=="/>
+
+	</POIs>
+</OverlayData>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+POIs: TMKFrench.6427
+Date: 2017/10/03
+-->
+<OverlayData>
+	<MarkerCategory name="path_of_fire.oasis_de_cristal">
+		<MarkerCategory name="forgeron_de_la_casse" DisplayName="Junkyard Weaponsmith" heightOffset="3" behavior="0" fadeNear="6000" fadeFar="12000" >
+			<MarkerCategory name="enclume" DisplayName="Anvil" heightOffset="2" iconFile="Img\Enclume.png" behavior="4" resetLength="300" hasCountdown="1"/>
+			<MarkerCategory name="branche" DisplayName="Branch" heightOffset="2" iconFile="Img\Branche.png" behavior="4" resetLength="300" hasCountdown="1"/>
+			<MarkerCategory name="chaise" DisplayName="Chair" heightOffset="2" iconFile="Img\Chaise.png" behavior="4" resetLength="300" hasCountdown="1"/>
+			<MarkerCategory name="corde" DisplayName="Rope" heightOffset="2" iconFile="Img\Corde.png" behavior="4" resetLength="300" hasCountdown="1"/>
+			<MarkerCategory name="lame_de_scie" DisplayName="Saw Blade" heightOffset="2" iconFile="Img\Lamedescie.png" iconSize="0.75" behavior="4" resetLength="300" hasCountdown="1"/>
+			<MarkerCategory name="ferraille" DisplayName="Scrap" heightOffset="2" iconFile="Img\Ferraille.png" behavior="4" resetLength="300" hasCountdown="1"/>
+		</MarkerCategory>
+	</MarkerCategory>
+
+	<POIs>
+
+		<!-- Instruction -->
+		<POI MapID="1210" xpos="1147.25" ypos="10.4745" zpos="-175.244" type="path_of_fire.oasis_de_cristal.forgeron_de_la_casse" heightOffset="6" iconFile="Img\Forgerondelacasse-EN.png" iconSize="3" GUID="zLdhQxEyJkyMIjcxwJ0zlQ=="/>
+
+		<!-- Enclumes -->
+		<POI MapID="1210" xpos="1031.55" ypos="19.807" zpos="-260.495" type="path_of_fire.oasis_de_cristal.forgeron_de_la_casse.enclume" GUID="h927sKiuLkuyb58DyiJIUw=="/>
+		<POI MapID="1210" xpos="1035.23" ypos="18.8611" zpos="-322.175" type="path_of_fire.oasis_de_cristal.forgeron_de_la_casse.enclume" GUID="d+N1aqmK8kqFxUT9dhRMiA=="/>
+		<POI MapID="1210" xpos="1079.09" ypos="3.42083" zpos="-140.9" type="path_of_fire.oasis_de_cristal.forgeron_de_la_casse.enclume" GUID="jgSGiCyiZkqt8+PerpIcqQ=="/>
+		<POI MapID="1210" xpos="1086.44" ypos="12.9526" zpos="-265.048" type="path_of_fire.oasis_de_cristal.forgeron_de_la_casse.enclume" GUID="qvuK6u8A6ku1nUkmCHEaFg=="/>
+		<POI MapID="1210" xpos="1111.41" ypos="0.29479" zpos="-286.541" type="path_of_fire.oasis_de_cristal.forgeron_de_la_casse.enclume" GUID="f8pO1V6so0GQ35Ya0mHn7A=="/>
+		<POI MapID="1210" xpos="1125.97" ypos="24.7404" zpos="-135.219" type="path_of_fire.oasis_de_cristal.forgeron_de_la_casse.enclume" GUID="DEvLzzAl3EynD1VEvRPraQ=="/>
+		<POI MapID="1210" xpos="1171.85" ypos="13.6752" zpos="-302.092" type="path_of_fire.oasis_de_cristal.forgeron_de_la_casse.enclume" GUID="5uwQU3laKE2dV3zYXAs2Zw=="/>
+		<POI MapID="1210" xpos="1184.53" ypos="16.3426" zpos="-340.018" type="path_of_fire.oasis_de_cristal.forgeron_de_la_casse.enclume" GUID="Yvbs9Jp9cEab/8acvjBFpQ=="/>
+		<POI MapID="1210" xpos="1190.75" ypos="10.576" zpos="-268.357" type="path_of_fire.oasis_de_cristal.forgeron_de_la_casse.enclume" GUID="4oiL8WmztEKjDItAcjGw8Q=="/>
+
+		<!-- Branche -->
+		<POI MapID="1210" xpos="1013.88" ypos="21.253" zpos="-377.139" type="path_of_fire.oasis_de_cristal.forgeron_de_la_casse.branche" GUID="NIPOQ9mpxU2WICTyBRSptg=="/>
+		<POI MapID="1210" xpos="1057.31" ypos="20.0134" zpos="-284.905" type="path_of_fire.oasis_de_cristal.forgeron_de_la_casse.branche" GUID="tFLzNMvYPUKrxvOX1v26EA=="/>
+		<POI MapID="1210" xpos="1099.98" ypos="17.7483" zpos="-329.336" type="path_of_fire.oasis_de_cristal.forgeron_de_la_casse.branche" GUID="8yxxOGJewkajf+NUPh6E7w=="/>
+		<POI MapID="1210" xpos="1106.68" ypos="4.18417" zpos="-166.175" type="path_of_fire.oasis_de_cristal.forgeron_de_la_casse.branche" GUID="cOEft2RXtECxuju4kfybzA=="/>
+		<POI MapID="1210" xpos="1115.71" ypos="0.243624" zpos="-331.587" type="path_of_fire.oasis_de_cristal.forgeron_de_la_casse.branche" GUID="yRtftpeEYESOpsw04qa9TQ=="/>
+		<POI MapID="1210" xpos="1147.03" ypos="9.73145" zpos="-182.14" type="path_of_fire.oasis_de_cristal.forgeron_de_la_casse.branche" GUID="Ajv4qvRU2ECMh242DsxgRQ=="/>
+		<POI MapID="1210" xpos="1152.1" ypos="2.60229" zpos="-277.124" type="path_of_fire.oasis_de_cristal.forgeron_de_la_casse.branche" GUID="MHFo/RlH20KMQYYRBqH7Jw=="/>
+		<POI MapID="1210" xpos="1188.72" ypos="1.88603" zpos="-216.739" type="path_of_fire.oasis_de_cristal.forgeron_de_la_casse.branche" GUID="sacACiLqLkCnfPU4uQHJcg=="/>
+
+		<!-- Corde -->
+		<POI MapID="1210" xpos="1016.12" ypos="21.117" zpos="-355.185" type="path_of_fire.oasis_de_cristal.forgeron_de_la_casse.corde" GUID="yzdOmiDepEme2SvYj9gXrw=="/>
+		<POI MapID="1210" xpos="1053.91" ypos="20.9314" zpos="-329.513" type="path_of_fire.oasis_de_cristal.forgeron_de_la_casse.corde" GUID="+grhKmttOEOhgV7wGSclGg=="/>
+		<POI MapID="1210" xpos="1066.32" ypos="5.90392" zpos="-228.103" type="path_of_fire.oasis_de_cristal.forgeron_de_la_casse.corde" GUID="iMTgcXa/RkeQIDl0nXH7PA=="/>
+		<POI MapID="1210" xpos="1089.05" ypos="18.4588" zpos="-313.805" type="path_of_fire.oasis_de_cristal.forgeron_de_la_casse.corde" GUID="EyBhpcobsEyGMBaXHNCM3w=="/>
+		<POI MapID="1210" xpos="1106.35" ypos="24.2455" zpos="-124.578" type="path_of_fire.oasis_de_cristal.forgeron_de_la_casse.corde" GUID="FRJjQS/220ONZd3upu6r4Q=="/>
+		<POI MapID="1210" xpos="1108.11" ypos="2.04015" zpos="-298.742" type="path_of_fire.oasis_de_cristal.forgeron_de_la_casse.corde" GUID="1KxUvomTEEW7JLxo7SSz6g=="/>
+		<POI MapID="1210" xpos="1144.01" ypos="1.21614" zpos="-284.038" type="path_of_fire.oasis_de_cristal.forgeron_de_la_casse.corde" GUID="w20xiUZ9+0mRCk7q/UdUIw=="/>
+		<POI MapID="1210" xpos="1151.25" ypos="9.54457" zpos="-196.142" type="path_of_fire.oasis_de_cristal.forgeron_de_la_casse.corde" GUID="uxe0Egh240COqZpnOiZFoQ=="/>
+		<POI MapID="1210" xpos="1174.36" ypos="9.87563" zpos="-272.774" type="path_of_fire.oasis_de_cristal.forgeron_de_la_casse.corde" GUID="dBzmSGd3CEe0z3yYjOYucA=="/>
+
+		<!-- Lame de scie -->
+		<POI MapID="1210" xpos="1031.2" ypos="18.7404" zpos="-335.924" type="path_of_fire.oasis_de_cristal.forgeron_de_la_casse.lame_de_scie" GUID="IPL3izg0OUyqNuEBXOHlAA=="/>
+		<POI MapID="1210" xpos="1046.53" ypos="21.1512" zpos="-381.64" type="path_of_fire.oasis_de_cristal.forgeron_de_la_casse.lame_de_scie" GUID="Fgy+tN8eF0OkpZlthRLHsg=="/>
+		<POI MapID="1210" xpos="1051.69" ypos="3.96092" zpos="-206.706" type="path_of_fire.oasis_de_cristal.forgeron_de_la_casse.lame_de_scie" GUID="dvkggS/A80WNe8soeFwQZA=="/>
+		<POI MapID="1210" xpos="1085.1" ypos="16.6597" zpos="-292.255" type="path_of_fire.oasis_de_cristal.forgeron_de_la_casse.lame_de_scie" GUID="vHXBhliGRkyVV7qTI0SXWg=="/>
+		<POI MapID="1210" xpos="1109.35" ypos="1.08143" zpos="-254.909" type="path_of_fire.oasis_de_cristal.forgeron_de_la_casse.lame_de_scie" GUID="eWhrn+bKS0GOa9m/asjPGw=="/>
+		<POI MapID="1210" xpos="1138.33" ypos="11.675" zpos="-159.226" type="path_of_fire.oasis_de_cristal.forgeron_de_la_casse.lame_de_scie" GUID="S2H5yABI/0C5pxbvlHtdig=="/>
+		<POI MapID="1210" xpos="1139.09" ypos="1.67175" zpos="-208.402" type="path_of_fire.oasis_de_cristal.forgeron_de_la_casse.lame_de_scie" GUID="tVeOlH59mk6i2V3r9UPHdQ=="/>
+		<POI MapID="1210" xpos="1144.68" ypos="0.897622" zpos="-323.303" type="path_of_fire.oasis_de_cristal.forgeron_de_la_casse.lame_de_scie" GUID="aqPkp59NEEy95hxkpO2jzA=="/>
+		<POI MapID="1210" xpos="1167.94" ypos="17.2948" zpos="-362.668" type="path_of_fire.oasis_de_cristal.forgeron_de_la_casse.lame_de_scie" GUID="tML0pI0ek0icuLTwkIBg+w=="/>
+		<POI MapID="1210" xpos="1180.1" ypos="1.91273" zpos="-225.026" type="path_of_fire.oasis_de_cristal.forgeron_de_la_casse.lame_de_scie" GUID="HbTbQfS2wU2qWe1OWmHpgg=="/>
+
+		<!-- Chaise -->
+		<POI MapID="1210" xpos="1016.25" ypos="21.0718" zpos="-351" type="path_of_fire.oasis_de_cristal.forgeron_de_la_casse.chaise" GUID="ESoGc+s8XE+AlfVynzqYTQ=="/>
+		<POI MapID="1210" xpos="1038.85" ypos="18.8689" zpos="-340.292" type="path_of_fire.oasis_de_cristal.forgeron_de_la_casse.chaise" GUID="YCt5HyIQ9E6rPihhTH09dQ=="/>
+		<POI MapID="1210" xpos="1065.92" ypos="0.330553" zpos="-144.923" type="path_of_fire.oasis_de_cristal.forgeron_de_la_casse.chaise" GUID="HWedTppRXk+l6Yw2Ii8ilw=="/>
+		<POI MapID="1210" xpos="1083.69" ypos="15.1703" zpos="-280.336" type="path_of_fire.oasis_de_cristal.forgeron_de_la_casse.chaise" GUID="2b4tNUZhg0Kypj8mCeT4Zw=="/>
+		<POI MapID="1210" xpos="1121.61" ypos="0.205581" zpos="-220.849" type="path_of_fire.oasis_de_cristal.forgeron_de_la_casse.chaise" GUID="FRyT8lY3b0GrnWM9YuZK5Q=="/>
+		<POI MapID="1210" xpos="1122.56" ypos="-0.0893562" zpos="-294.21" type="path_of_fire.oasis_de_cristal.forgeron_de_la_casse.chaise" GUID="vMd3Alg3106uqabGKtGq8Q=="/>
+		<POI MapID="1210" xpos="1140.15" ypos="0.31109" zpos="-301.667" type="path_of_fire.oasis_de_cristal.forgeron_de_la_casse.chaise" GUID="eIgjMqioo02z+X+48rKoAw=="/>
+		<POI MapID="1210" xpos="1166.05" ypos="7.94487" zpos="-199.096" type="path_of_fire.oasis_de_cristal.forgeron_de_la_casse.chaise" GUID="iMFR7l07qk2WQs8edhQkRw=="/>
+		<POI MapID="1210" xpos="1174.97" ypos="11.9972" zpos="-278.137" type="path_of_fire.oasis_de_cristal.forgeron_de_la_casse.chaise" GUID="krGBGTfu7km/xoCtWyRWcQ=="/>
+
+		<!-- Ferraille -->
+		<POI MapID="1210" xpos="1036.6" ypos="20.9442" zpos="-355.503" type="path_of_fire.oasis_de_cristal.forgeron_de_la_casse.ferraille" GUID="s4G/Lbw9wEWLwoiM0jStrQ=="/>
+		<POI MapID="1210" xpos="1071.61" ypos="6.21473" zpos="-235.552" type="path_of_fire.oasis_de_cristal.forgeron_de_la_casse.ferraille" GUID="fkhZbxLM0Ueh/mWQKBZlCA=="/>
+		<POI MapID="1210" xpos="1093.24" ypos="9.01705" zpos="-133.858" type="path_of_fire.oasis_de_cristal.forgeron_de_la_casse.ferraille" GUID="9c0nH5jTUUKS8WzWkI2HMw=="/>
+		<POI MapID="1210" xpos="1096.1" ypos="18.9235" zpos="-319.974" type="path_of_fire.oasis_de_cristal.forgeron_de_la_casse.ferraille" GUID="b0/Khzb+O0mZGoXDodyOmg=="/>
+		<POI MapID="1210" xpos="1106.9" ypos="2.01857" zpos="-255.97" type="path_of_fire.oasis_de_cristal.forgeron_de_la_casse.ferraille" GUID="qV/pgRNx+UO9ZUvQKV9xyA=="/>
+		<POI MapID="1210" xpos="1109.81" ypos="24.4702" zpos="-135.489" type="path_of_fire.oasis_de_cristal.forgeron_de_la_casse.ferraille" GUID="BNUu1FYExkya9ttHoOnBWQ=="/>
+		<POI MapID="1210" xpos="1116.05" ypos="1.13809" zpos="-349.974" type="path_of_fire.oasis_de_cristal.forgeron_de_la_casse.ferraille" GUID="Y5Ai47nMBkqctIBMzKt1uA=="/>
+		<POI MapID="1210" xpos="1140.81" ypos="11.6758" zpos="-161.511" type="path_of_fire.oasis_de_cristal.forgeron_de_la_casse.ferraille" GUID="f1NhJqlbxkiLWee4On14sQ=="/>
+		<POI MapID="1210" xpos="1173.09" ypos="13.0063" zpos="-326.537" type="path_of_fire.oasis_de_cristal.forgeron_de_la_casse.ferraille" GUID="zAFqFYmz9Em+FH5HhOBwhg=="/>
+		<POI MapID="1210" xpos="1201.49" ypos="0.184692" zpos="-251.542" type="path_of_fire.oasis_de_cristal.forgeron_de_la_casse.ferraille" GUID="jciyuS+cp0uUzG6MFVsLYw=="/>
+
+	</POIs>
+</OverlayData>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+POIs: ReActif.9251
+Date: 2017/02/11
+-->
+<OverlayData>
+	<MarkerCategory name="chroniques.saison_3">
+		<MarkerCategory name="ep4_la_tete_du_serpent" DisplayName="Ep.4 - The Head of the Snake" iconFile="Img\LacDoric.png">
+			<MarkerCategory name="un_poisson_louche" DisplayName="A Fish, A Fishy"/>
+		</MarkerCategory>
+	</MarkerCategory>
+
+	<POIs>
+
+		<!-- Cage de Pêche -->
+		<POI MapID="1185" xpos="-135.303" ypos="7.5" zpos="-85.8477" type="chroniques.saison_3.ep4_la_tete_du_serpent.un_poisson_louche" GUID="ix01ohjth0uU9gRdCLU7qw==" iconFile="Img\RestesDeMeduse-EN.png" iconSize="1.5"/>
+		<POI MapID="1185" xpos="-135.303" ypos="10" zpos="-85.8477" type="chroniques.saison_3.ep4_la_tete_du_serpent.un_poisson_louche" GUID="F20B0pAYbE2F4MuQozgNnQ==" iconFile="Img\1.png" iconSize="1.5"/>
+
+		<!-- Quaggan -->
+		<POI MapID="1185" xpos="-144.004" ypos="-31.9746" zpos="103.819" type="chroniques.saison_3.ep4_la_tete_du_serpent.un_poisson_louche" GUID="4nKLrNflQ0yCgzetJ4VHLg==" heightOffset="3.5"/>
+		<POI MapID="1185" xpos="-144.004" ypos="-27" zpos="103.819" type="chroniques.saison_3.ep4_la_tete_du_serpent.un_poisson_louche" GUID="D4Mbd0+g2U6LKG3bLJehRw==" iconFile="Img\2.png" iconSize="1.5"/>
+
+
+	</POIs>
+</OverlayData>

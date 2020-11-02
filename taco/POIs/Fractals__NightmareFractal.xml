@@ -1,0 +1,26 @@
+<!-- 2020.06.09 -->
+<OverlayData>
+	<POIs>
+
+		<!-- ANOTHER GOO PUDDLE -->
+		<POI MapID="1177" xpos="39.3371" ypos="44.6374" zpos="51.7232" type="fractals.another_goo_puddle" GUID="SzYCwAbgmEue4V/n9RRfHg=="/>
+
+		<!-- MAZE MIDDLE MANAGER -->
+		<POI MapID="1177" xpos="178.502" ypos="0.350685" zpos="15.3017" type="fractals.maze_middle_manager" GUID="2dqh7aCXQUSbMn0LR7UUdA==" iconFile="Img/Numbers/1.png" color="ff00ff00"/>
+		<POI MapID="1177" xpos="147.139" ypos="5.62448"  zpos="17.8405" type="fractals.maze_middle_manager" GUID="tkTN2lUwhkSxSQu1farSaw==" iconFile="Img/Numbers/2.png" color="ff00ff00"/>
+		<POI MapID="1177" xpos="205.284" ypos="5.71798"  zpos="18.7538" type="fractals.maze_middle_manager" GUID="MzD/JND7T0m+hmY1c3u7tg==" iconFile="Img/Numbers/3.png" color="ff00ff00"/>
+
+		<!-- RETRIEVAL SQUAD -->
+		<POI MapID="1177" xpos="-33.0275" ypos="41.4882"  zpos="93.9799"  type="fractals.retrieval_squad" GUID="ELJ+trLk7Eq6kUCrMvB/QA=="/>
+		<POI MapID="1177" xpos="147.942"  ypos="10.3058"  zpos="135.4"    type="fractals.retrieval_squad" GUID="sIDvWaD7ykaYvbwQFy0jGg=="/>
+		<POI MapID="1177" xpos="27.5463"  ypos="44.8635"  zpos="-37.8572" type="fractals.retrieval_squad" GUID="3h4QTGWwok6reCA7EZsXLw=="/>
+		<POI MapID="1177" xpos="156.448"  ypos="-0.41775" zpos="44.1005"  type="fractals.retrieval_squad" GUID="ou8DYJDA+ECLbyCXuCZPNw==" iconFile="Img/Icons/Arrow.png" fadeNear="2000" fadeFar="3000" behavior="0"/>
+		<POI MapID="1177" xpos="142.725"  ypos="0.356484" zpos="34.9823"  type="fractals.retrieval_squad" GUID="m3E09KAzuk2F8wunsAeSJw=="/>
+		<POI MapID="1177" xpos="108.725"  ypos="7.47996"  zpos="-46.3244" type="fractals.retrieval_squad" GUID="qOVgpoGwV0SVMRxQpN99hQ=="/>
+
+		<!-- SHARK TANK -->
+		<POI MapID="1177" xpos="120.053" ypos="4.05913"  zpos="-46.8929" type="fractals.shark_tank" GUID="lwXShoGSd0Wn74zpp+nt9Q=="/>
+		<POI MapID="1177" xpos="124.067" ypos="-4.22259" zpos="-51.7168" type="fractals.shark_tank" GUID="UX1KqwqqO0GSJKl1hQiwHQ==" iconFile="Img/Icons/Fight.png" fadeNear="3000" fadeFar="5000" mapVisibility="0" miniMapVisibility="0"/>
+
+	</POIs>
+</OverlayData>

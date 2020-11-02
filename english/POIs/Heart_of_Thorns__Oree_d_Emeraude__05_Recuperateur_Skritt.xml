@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+POIs: ReActif.9251
+Date: 2017/03/15
+-->
+<OverlayData>
+	<MarkerCategory name="heart_of_thorns.oree_d_emeraude">
+		<MarkerCategory name="recuperateur_skritt" DisplayName="Skritt Salvagerw" iconFile="Img\CoffreSkritt.png" iconSize="1.5" heightOffset="3" behavior="0"/>
+	</MarkerCategory>
+
+	<POIs>
+
+		<POI MapID="1052" xpos="-255.514" ypos="488.243" zpos="97.8291" type="heart_of_thorns.oree_d_emeraude.recuperateur_skritt" GUID="uc4GWgFesUuDv45I5L7B0Q=="/>
+		<POI MapID="1052" xpos="-129.769" ypos="377.962" zpos="79.6776" type="heart_of_thorns.oree_d_emeraude.recuperateur_skritt" GUID="3OvyafStQkOrFi57nCEZiQ=="/>
+		<POI MapID="1052" xpos="-62.0652" ypos="368.997" zpos="-80.2593" type="heart_of_thorns.oree_d_emeraude.recuperateur_skritt" GUID="5CgcWIxycU+97tz8YbaL4A=="/>
+		<POI MapID="1052" xpos="733.012" ypos="369.65" zpos="227.817" type="heart_of_thorns.oree_d_emeraude.recuperateur_skritt" GUID="YdtAYpuXKkK6cQ3YlAHCOw=="/>
+		<POI MapID="1052" xpos="812.144" ypos="324.225" zpos="45.4145" type="heart_of_thorns.oree_d_emeraude.recuperateur_skritt" GUID="5tuJaYv4TkOhUuGSRo0kCg=="/>
+
+	</POIs>
+</OverlayData>

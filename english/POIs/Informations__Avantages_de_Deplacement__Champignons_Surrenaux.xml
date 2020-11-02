@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+POIs: ReActif.9251 - TMKFrench.6427
+Date: 2017/06/29
+-->
+<OverlayData>
+	<MarkerCategory name="informations.avantages_de_deplacement">
+		<MarkerCategory name="champignons_surrenaux" DisplayName="Adrenal Mushrooms" iconFile="Img\AvantageSurrenal.png" heightOffset="3" behavior="4" hasCountdown="1" resetLength="30"/>
+	</MarkerCategory>
+
+	<POIs>
+
+		<!--
+		Orée d'Emeraude
+		-->
+
+		<POI MapID="1052" xpos="-711.451" ypos="422.879" zpos="-10.0076" type="informations.avantages_de_deplacement.champignons_surrenaux" GUID="hTDeSzsKtEibwzUAIofIvQ=="/>
+		<POI MapID="1052" xpos="-665.986" ypos="423.036" zpos="-43.9116" type="informations.avantages_de_deplacement.champignons_surrenaux" GUID="q+V4/4Mn+kuUVu/Zj/6Q9w=="/>
+		<POI MapID="1052" xpos="-582.451" ypos="455.216" zpos="49.7852" type="informations.avantages_de_deplacement.champignons_surrenaux" GUID="sgMxIh1b/ESeyliTqJqFCw=="/>
+		<POI MapID="1052" xpos="-511.15" ypos="717.673" zpos="-151.378" type="informations.avantages_de_deplacement.champignons_surrenaux" GUID="cUlDocNpEUaa4gvLuEY9ww=="/>
+		<POI MapID="1052" xpos="-496.573" ypos="718.341" zpos="-164.67" type="informations.avantages_de_deplacement.champignons_surrenaux" GUID="RSNQ9M5d9UaFdIdS7obkpw=="/>
+		<POI MapID="1052" xpos="-481.61" ypos="715.251" zpos="-134.076" type="informations.avantages_de_deplacement.champignons_surrenaux" GUID="IUHB0C2yikW+QHtm1yQttA=="/>
+		<POI MapID="1052" xpos="-478.607" ypos="717.23" zpos="-185.266" type="informations.avantages_de_deplacement.champignons_surrenaux" GUID="73KDvKhDJ0OjcrOUVTd2hA=="/>
+		<POI MapID="1052" xpos="-469.764" ypos="716.748" zpos="-166.314" type="informations.avantages_de_deplacement.champignons_surrenaux" GUID="E+aAGrDIXUK+yqxSy+ySFA=="/>
+		<POI MapID="1052" xpos="-455.753" ypos="712.248" zpos="-127.981" type="informations.avantages_de_deplacement.champignons_surrenaux" GUID="3AGv6c10wEegOjq45WdQZw=="/>
+		<POI MapID="1052" xpos="-400.681" ypos="527.792" zpos="-409.857" type="informations.avantages_de_deplacement.champignons_surrenaux" GUID="JjzeLPRQs0Wj4HJKzJ+jTg=="/>
+		<POI MapID="1052" xpos="-315.575" ypos="520.484" zpos="-371.528" type="informations.avantages_de_deplacement.champignons_surrenaux" GUID="AAENzDaHxkmn/rPR6LJcgQ=="/>
+		<POI MapID="1052" xpos="-273.939" ypos="536.196" zpos="200.361" type="informations.avantages_de_deplacement.champignons_surrenaux" GUID="L5SYtykJs0uxts99S66H6g=="/>
+		<POI MapID="1052" xpos="-249.084" ypos="543.129" zpos="162.321" type="informations.avantages_de_deplacement.champignons_surrenaux" GUID="JYAnmQWWnUm+VZMNG4ylvg=="/>
+		<POI MapID="1052" xpos="-233.291" ypos="480.037" zpos="308.663" type="informations.avantages_de_deplacement.champignons_surrenaux" GUID="I1+aDEkInE2YpmKYRHEMtg=="/>
+		<POI MapID="1052" xpos="-203.156" ypos="468.444" zpos="367.918" type="informations.avantages_de_deplacement.champignons_surrenaux" GUID="Sv5hzT06SkmQYXDqS+LkuA=="/>
+		<POI MapID="1052" xpos="-173.153" ypos="467.064" zpos="320.867" type="informations.avantages_de_deplacement.champignons_surrenaux" GUID="mxzH0D4V/EKocdtf8nBsmQ=="/>
+		<POI MapID="1052" xpos="-144.991" ypos="738.149" zpos="3.5782" type="informations.avantages_de_deplacement.champignons_surrenaux" GUID="M2HmBEmMLU66TPEE2lZLMw=="/>
+		<POI MapID="1052" xpos="-137.074" ypos="733.386" zpos="65.8273" type="informations.avantages_de_deplacement.champignons_surrenaux" GUID="fsiuKv5X/kqBedhOoUsffg=="/>
+		<POI MapID="1052" xpos="-111.64" ypos="752.506" zpos="0.368647" type="informations.avantages_de_deplacement.champignons_surrenaux" GUID="vscn6maMUk6Im6cTDRK7VQ=="/>
+		<POI MapID="1052" xpos="-110.466" ypos="408.358" zpos="-401.706" type="informations.avantages_de_deplacement.champignons_surrenaux" GUID="SsYqFTMWeUi5Auy3Vvq2Gw=="/>
+		<POI MapID="1052" xpos="-84.2371" ypos="741.466" zpos="57.1844" type="informations.avantages_de_deplacement.champignons_surrenaux" GUID="6KmlsLK84E6pfwLUKAf3FQ=="/>
+		<POI MapID="1052" xpos="-80.5022" ypos="401.524" zpos="-357.73" type="informations.avantages_de_deplacement.champignons_surrenaux" GUID="BvlBHKwoT0m4N2hQQlGFZQ=="/>
+		<POI MapID="1052" xpos="-22.6483" ypos="408.968" zpos="10.8371" type="informations.avantages_de_deplacement.champignons_surrenaux" GUID="ha2hbVhdNkOWO1S4JkuvfQ=="/>
+		<POI MapID="1052" xpos="27.1427" ypos="430.683" zpos="183.944" type="informations.avantages_de_deplacement.champignons_surrenaux" GUID="dzxsnQ7h9EqNnFN/vzZRbg=="/>
+		<POI MapID="1052" xpos="83.0568" ypos="390.806" zpos="-78.0053" type="informations.avantages_de_deplacement.champignons_surrenaux" GUID="3K7roYKVjE2JFn4eeryaNQ=="/>
+		<POI MapID="1052" xpos="177.294" ypos="380.974" zpos="-204.016" type="informations.avantages_de_deplacement.champignons_surrenaux" GUID="AbX9ukvJtkeYjlCRpgzv0A=="/>
+		<POI MapID="1052" xpos="229.873" ypos="507.354" zpos="-357.532" type="informations.avantages_de_deplacement.champignons_surrenaux" GUID="hcUyWru4X0OegpmpdcCVgw=="/>
+		<POI MapID="1052" xpos="333.325" ypos="633.898" zpos="220.48" type="informations.avantages_de_deplacement.champignons_surrenaux" GUID="6YaTJPn0+Ea50Gu/b5jLQQ=="/>
+		<POI MapID="1052" xpos="365.417" ypos="631.465" zpos="197.87" type="informations.avantages_de_deplacement.champignons_surrenaux" GUID="WhZrkHtSRUa3aywpWrOfuw=="/>
+		<POI MapID="1052" xpos="384.945" ypos="635.99" zpos="152.851" type="informations.avantages_de_deplacement.champignons_surrenaux" GUID="jbbqFHNiEUelfOWYn0wWoQ=="/>
+		<POI MapID="1052" xpos="392.055" ypos="650.628" zpos="244.353" type="informations.avantages_de_deplacement.champignons_surrenaux" GUID="s/wfS06jBEWx+RaDuuSrlw=="/>
+		<POI MapID="1052" xpos="410.743" ypos="446.787" zpos="334.513" type="informations.avantages_de_deplacement.champignons_surrenaux" GUID="jagmflkP6Ue+i+fnpuC+ow=="/>
+		<POI MapID="1052" xpos="415.922" ypos="635.849" zpos="169.853" type="informations.avantages_de_deplacement.champignons_surrenaux" GUID="Al4aOm2m1kGCVakOnmVCSA=="/>
+		<POI MapID="1052" xpos="434.215" ypos="650.145" zpos="291.242" type="informations.avantages_de_deplacement.champignons_surrenaux" GUID="4w5KlWxEokendzlM+cHVXw=="/>
+		<POI MapID="1052" xpos="436.261" ypos="331.076" zpos="373.527" type="informations.avantages_de_deplacement.champignons_surrenaux" GUID="yfYfbn3LwE6etC/vsXcKcw=="/>
+		<POI MapID="1052" xpos="479.21" ypos="450.924" zpos="373.339" type="informations.avantages_de_deplacement.champignons_surrenaux" GUID="UhGHXLma00qwblgmmSI+Qg=="/>
+		<POI MapID="1052" xpos="490.316" ypos="384.623" zpos="-220.074" type="informations.avantages_de_deplacement.champignons_surrenaux" GUID="ToU+8y3D9U2jgVUbu9+6GA=="/>
+		<POI MapID="1052" xpos="552.529" ypos="14.7079" zpos="-63.2845" type="informations.avantages_de_deplacement.champignons_surrenaux" GUID="BaTdP2pvFESvFjeWhPrcbw=="/>
+		<POI MapID="1052" xpos="591.042" ypos="469.079" zpos="-321.132" type="informations.avantages_de_deplacement.champignons_surrenaux" GUID="osA1VQY4LU2C9gJuPcBM0Q=="/>
+		<POI MapID="1052" xpos="599.806" ypos="12.5986" zpos="-22.6192" type="informations.avantages_de_deplacement.champignons_surrenaux" GUID="1eKb4VSf9k6/H4Z8+bOGhQ=="/>
+		<POI MapID="1052" xpos="668.707" ypos="368.774" zpos="248.005" type="informations.avantages_de_deplacement.champignons_surrenaux" GUID="ercy8wI93UO+YCQuLl81fg=="/>
+		<POI MapID="1052" xpos="712.164" ypos="458.038" zpos="-377.801" type="informations.avantages_de_deplacement.champignons_surrenaux" GUID="25kImNXIo0GGfh5TifMtNg=="/>
+		<POI MapID="1052" xpos="850.095" ypos="372.096" zpos="-124.572" type="informations.avantages_de_deplacement.champignons_surrenaux" GUID="5Mlff/yabUGCqnnZYa2o2w=="/>
+		<POI MapID="1052" xpos="919.252" ypos="400.842" zpos="431.555" type="informations.avantages_de_deplacement.champignons_surrenaux" GUID="3hxSylFP/UCZ2Bt9Q8D1Zg=="/>
+		<POI MapID="1052" xpos="920.185" ypos="357.849" zpos="188.165" type="informations.avantages_de_deplacement.champignons_surrenaux" GUID="VehN6oS9tkqL3OSD5whNwA=="/>
+
+		<!--
+		Bassin Aurique
+		-->
+
+		<POI MapID="1043" xpos="-580.047" ypos="263.115" zpos="153.567" type="informations.avantages_de_deplacement.champignons_surrenaux" GUID="AeCFs+k5XUmIUwX8Jr+pZQ=="/>
+		<POI MapID="1043" xpos="-457.486" ypos="366.769" zpos="-586.518" type="informations.avantages_de_deplacement.champignons_surrenaux" GUID="bSTVpjEEKEqgMv9dj0i2BA=="/>
+		<POI MapID="1043" xpos="-439.246" ypos="305.447" zpos="430.856" type="informations.avantages_de_deplacement.champignons_surrenaux" GUID="5dFu6CVFY0en8/v8UaMcUw=="/>
+		<POI MapID="1043" xpos="-425.189" ypos="302.89" zpos="-596.086" type="informations.avantages_de_deplacement.champignons_surrenaux" GUID="BbpgzpLHskySF0Lkn72b6A=="/>
+		<POI MapID="1043" xpos="-359.716" ypos="245.059" zpos="80.9285" type="informations.avantages_de_deplacement.champignons_surrenaux" GUID="/gDD8vygBEGrVmSrbtd0fA=="/>
+		<POI MapID="1043" xpos="-328.29" ypos="280.276" zpos="-817.698" type="informations.avantages_de_deplacement.champignons_surrenaux" GUID="ADu4gyXYvkmZ5Q/xooYS0w=="/>
+		<POI MapID="1043" xpos="-313.939" ypos="254.881" zpos="215.122" type="informations.avantages_de_deplacement.champignons_surrenaux" GUID="aKhUihMJD0ufTrxwfUuppw=="/>
+		<POI MapID="1043" xpos="-257.38" ypos="262.611" zpos="-570.65" type="informations.avantages_de_deplacement.champignons_surrenaux" GUID="aArlnm2HdUiWtblu0uEV7g=="/>
+		<POI MapID="1043" xpos="-215.428" ypos="291.392" zpos="470.728" type="informations.avantages_de_deplacement.champignons_surrenaux" GUID="A7qGQV+JSUCf64EuJVfhlQ=="/>
+		<POI MapID="1043" xpos="-156.385" ypos="256.367" zpos="-567.757" type="informations.avantages_de_deplacement.champignons_surrenaux" GUID="/LIbRBCiuE+dftgZxEuVvQ=="/>
+		<POI MapID="1043" xpos="-108.316" ypos="272.757" zpos="-473.7" type="informations.avantages_de_deplacement.champignons_surrenaux" GUID="Dxz3X908DUuLW0jGIR/eOw=="/>
+		<POI MapID="1043" xpos="74.9996" ypos="223.359" zpos="-793.783" type="informations.avantages_de_deplacement.champignons_surrenaux" GUID="RHpczqtH3keRhneziCVq4g=="/>
+		<POI MapID="1043" xpos="141.831" ypos="82.7303" zpos="-43.9842" type="informations.avantages_de_deplacement.champignons_surrenaux" GUID="/yMYBIEHwU2tpedo+x00vw=="/>
+		<POI MapID="1043" xpos="201.329" ypos="275.973" zpos="-355.159" type="informations.avantages_de_deplacement.champignons_surrenaux" GUID="3zdMXdfV2kaxDEihotIYmw=="/>
+		<POI MapID="1043" xpos="249.677" ypos="251.131" zpos="-490.694" type="informations.avantages_de_deplacement.champignons_surrenaux" GUID="u/eHOdyMl0atSbPa9XmrKA=="/>
+		<POI MapID="1043" xpos="268.416" ypos="370.626" zpos="591.702" type="informations.avantages_de_deplacement.champignons_surrenaux" GUID="F7FcSFzeh0KAJ2Es3PYKHg=="/>
+		<POI MapID="1043" xpos="358.914" ypos="323.45" zpos="512.442" type="informations.avantages_de_deplacement.champignons_surrenaux" GUID="QL5LENxMTUC/o7RCV/MCSg=="/>
+		<POI MapID="1043" xpos="417.56" ypos="283.541" zpos="-450.415" type="informations.avantages_de_deplacement.champignons_surrenaux" GUID="eky//HP2m0u9vHGg79Iocg=="/>
+		<POI MapID="1043" xpos="498.223" ypos="241.423" zpos="309.052" type="informations.avantages_de_deplacement.champignons_surrenaux" GUID="1XX+BqZ78kWlY8MjEG1YHA=="/>
+		<POI MapID="1043" xpos="530.969" ypos="299.372" zpos="100.115" type="informations.avantages_de_deplacement.champignons_surrenaux" GUID="UQVjjGvB4kGWlzWkcOibnA=="/>
+
+		<!--
+		Profondeurs Verdoyantes
+		-->
+
+		<POI MapID="1045" xpos="-535.014" ypos="77.7895" zpos="123.178" type="informations.avantages_de_deplacement.champignons_surrenaux" GUID="WwLFj9Wp+0GK4tCdZ4sn/g=="/>
+		<POI MapID="1045" xpos="-517.068" ypos="78.5955" zpos="140.62" type="informations.avantages_de_deplacement.champignons_surrenaux" GUID="58vVpiMb1EOZPyPOYevHCQ=="/>
+		<POI MapID="1045" xpos="-485.647" ypos="77.9512" zpos="107.579" type="informations.avantages_de_deplacement.champignons_surrenaux" GUID="SiT7RBOpM0+oq3yLBpbTeA=="/>
+		<POI MapID="1045" xpos="-325.188" ypos="183.051" zpos="-94.8954" type="informations.avantages_de_deplacement.champignons_surrenaux" GUID="TsXoe1x8qUuspx1ByoM+wQ=="/>
+		<POI MapID="1045" xpos="-301.763" ypos="184.825" zpos="-72.2549" type="informations.avantages_de_deplacement.champignons_surrenaux" GUID="+C5z3aC7x0aGVZ7BBcRQZQ=="/>
+		<POI MapID="1045" xpos="-282.956" ypos="186.549" zpos="-102.221" type="informations.avantages_de_deplacement.champignons_surrenaux" GUID="MC0zgrCHZkO+hSowUxN0zQ=="/>
+		<POI MapID="1045" xpos="-113.072" ypos="24.4932" zpos="408.155" type="informations.avantages_de_deplacement.champignons_surrenaux" GUID="zI62NsEue0SAVnXsWTqmWw=="/>
+		<POI MapID="1045" xpos="-91.5688" ypos="17.2754" zpos="518.005" type="informations.avantages_de_deplacement.champignons_surrenaux" GUID="QV54+wU/S0OVfUsLqX1hnw=="/>
+		<POI MapID="1045" xpos="-88.8856" ypos="47.0757" zpos="543.729" type="informations.avantages_de_deplacement.champignons_surrenaux" GUID="+qE/GUp/qUCRDhDDAE7rBg=="/>
+		<POI MapID="1045" xpos="155.217" ypos="82.249" zpos="324.626" type="informations.avantages_de_deplacement.champignons_surrenaux" GUID="XWixjHqtjkiH72D2JzsQRw=="/>
+		<POI MapID="1045" xpos="202.905" ypos="205.243" zpos="286.513" type="informations.avantages_de_deplacement.champignons_surrenaux" GUID="z9OXWacpLU+myg6bq3FoYA=="/>
+		<POI MapID="1045" xpos="212.296" ypos="186.821" zpos="180.623" type="informations.avantages_de_deplacement.champignons_surrenaux" GUID="WZ/+BMF0cEa1R4h9SCiG0A=="/>
+		<POI MapID="1045" xpos="230.664" ypos="185.781" zpos="196.159" type="informations.avantages_de_deplacement.champignons_surrenaux" GUID="RUNlhZRb/0mGZykyXGjrvQ=="/>
+		<POI MapID="1045" xpos="379.319" ypos="20.1303" zpos="-107.955" type="informations.avantages_de_deplacement.champignons_surrenaux" GUID="ieKNKshs7E6rl1oDJz9fMw=="/>
+
+		<!--
+		Repli du Dragon
+		-->
+
+		<POI MapID="1041" xpos="-358.203" ypos="82.4417" zpos="191.765" type="informations.avantages_de_deplacement.champignons_surrenaux" GUID="oLDvxhuLm0Sb3hR+RCzVlw=="/>
+		<POI MapID="1041" xpos="-80.9132" ypos="73.9269" zpos="324.335" type="informations.avantages_de_deplacement.champignons_surrenaux" GUID="lc2NNh+2HUCpQS/KM9MtYg=="/>
+		<POI MapID="1041" xpos="57.2708" ypos="60.539" zpos="545.827" type="informations.avantages_de_deplacement.champignons_surrenaux" GUID="Y+rUPyOfzUWxvDmrZSAIcA=="/>
+		<POI MapID="1041" xpos="93.6123" ypos="96.4791" zpos="-164.162" type="informations.avantages_de_deplacement.champignons_surrenaux" GUID="GiDg1Q9s70KCiZARLvTF7g=="/>
+		<POI MapID="1041" xpos="228.509" ypos="118.116" zpos="99.7674" type="informations.avantages_de_deplacement.champignons_surrenaux" GUID="MeB6ZDg3wkK8UmQmbSabCw=="/>
+		<POI MapID="1041" xpos="300.222" ypos="95.7886" zpos="-342.401" type="informations.avantages_de_deplacement.champignons_surrenaux" GUID="LMY89qViAk2ALmW33Co97w=="/>
+		<POI MapID="1041" xpos="395.556" ypos="97.8433" zpos="230.086" type="informations.avantages_de_deplacement.champignons_surrenaux" GUID="9l3owDhYS06hFJIssdXbOg=="/>
+		<POI MapID="1041" xpos="588.935" ypos="49.0128" zpos="-51.9784" type="informations.avantages_de_deplacement.champignons_surrenaux" GUID="7PhUkMmiEU+p5DSF3F3ykw=="/>
+		<POI MapID="1041" xpos="858.294" ypos="68.141" zpos="121.848" type="informations.avantages_de_deplacement.champignons_surrenaux" GUID="MScu10g9tEycJYYDG2K7PQ=="/>
+
+		<!--
+		Mont Draconis
+		-->
+
+		<POI MapID="1195" xpos="-408.887" ypos="438.698" zpos="-535.333" type="informations.avantages_de_deplacement.champignons_surrenaux" GUID="jBvPGkWVEUSIdZY/vVA7lA=="/>
+		<POI MapID="1195" xpos="-341.392" ypos="396.565" zpos="-622.62" type="informations.avantages_de_deplacement.champignons_surrenaux" GUID="liNC7MPbtEyEEysBx4uwEQ=="/>
+		<POI MapID="1195" xpos="-287.43" ypos="400.612" zpos="-589.678" type="informations.avantages_de_deplacement.champignons_surrenaux" GUID="efay1WSRrUGGULzDaNn99w=="/>
+		<POI MapID="1195" xpos="-277.8" ypos="419.277" zpos="-503.132" type="informations.avantages_de_deplacement.champignons_surrenaux" GUID="YcjxBR0fJE2fGMy3+e9ZsA=="/>
+		<POI MapID="1195" xpos="-220.942" ypos="397.006" zpos="-584.314" type="informations.avantages_de_deplacement.champignons_surrenaux" GUID="YP0fC3c9g0mo4Rwq399EsQ=="/>
+		<POI MapID="1195" xpos="-181.923" ypos="388.345" zpos="-652.831" type="informations.avantages_de_deplacement.champignons_surrenaux" GUID="OOE+a5FKsUuKn4Lz0V91Ag=="/>
+		<POI MapID="1195" xpos="-173.254" ypos="392.151" zpos="-618.142" type="informations.avantages_de_deplacement.champignons_surrenaux" GUID="3UFYFTUBP0uprkCIa7VXPQ=="/>
+		<POI MapID="1195" xpos="-163.36" ypos="400.374" zpos="-559.891" type="informations.avantages_de_deplacement.champignons_surrenaux" GUID="Qepj5x4cV0CMvMiLkvC3iw=="/>
+		<POI MapID="1195" xpos="28.9789" ypos="503.938" zpos="141.678" type="informations.avantages_de_deplacement.champignons_surrenaux" GUID="ofRBQOuYqUa7ZesXlUqohw=="/>
+		<POI MapID="1195" xpos="120.488" ypos="510.228" zpos="147.245" type="informations.avantages_de_deplacement.champignons_surrenaux" GUID="xSFTCxLnH0WT4hs+rAkUnw=="/>
+		<POI MapID="1195" xpos="134.761" ypos="511.264" zpos="114.634" type="informations.avantages_de_deplacement.champignons_surrenaux" GUID="6IvzJvQ7WUKSwoSME72N4Q=="/>
+		<POI MapID="1195" xpos="206.302" ypos="222.439" zpos="137.895" type="informations.avantages_de_deplacement.champignons_surrenaux" GUID="ZBmKLkVqfEOVTIy7F9L/Ug=="/>
+		<POI MapID="1195" xpos="223.568" ypos="165.593" zpos="-449.608" type="informations.avantages_de_deplacement.champignons_surrenaux" GUID="GZXHR7FM7UG28ZjC5UEGEw=="/>
+		<POI MapID="1195" xpos="526.379" ypos="223.934" zpos="-397.862" type="informations.avantages_de_deplacement.champignons_surrenaux" GUID="qdqM96VWpkOk7UmaKstyvw=="/>
+
+		<!--
+		Connaissances Cachés
+		-->
+
+		<POI MapID="1033" xpos="350.645" ypos="16.1963" zpos="422.942" type="informations.avantages_de_deplacement.champignons_surrenaux" GUID="oly+Kpq3hUWREu3YVDSF/Q=="/>
+		<POI MapID="1033" xpos="389.227" ypos="16.2812" zpos="507.597" type="informations.avantages_de_deplacement.champignons_surrenaux" GUID="x6/bO1cAXUuJLrG69t/K9A=="/>
+		<POI MapID="1033" xpos="422.858" ypos="16.2344" zpos="440.402" type="informations.avantages_de_deplacement.champignons_surrenaux" GUID="zDAUj+g8CUajvM9a+krLsA=="/>
+		<POI MapID="1033" xpos="434.449" ypos="16.1963" zpos="381.169" type="informations.avantages_de_deplacement.champignons_surrenaux" GUID="vNwShR5uwEC2VH8/zjqemQ=="/>
+
+		<!--
+		Corps et Ames
+		-->
+
+		<POI MapID="1040" xpos="-215.022" ypos="232.107" zpos="294.536" type="informations.avantages_de_deplacement.champignons_surrenaux" GUID="fla1e21fTUalY+PDPP3D3A=="/>
+		<POI MapID="1040" xpos="-188.089" ypos="233.582" zpos="246.955" type="informations.avantages_de_deplacement.champignons_surrenaux" GUID="oJVR/uVm1Uuje7YuBslGBg=="/>
+		<POI MapID="1040" xpos="255.134" ypos="232.418" zpos="-176.723" type="informations.avantages_de_deplacement.champignons_surrenaux" GUID="Dd0HaS2BkkmckIwpCE+9bg=="/>
+		<POI MapID="1040" xpos="255.639" ypos="233.081" zpos="291.564" type="informations.avantages_de_deplacement.champignons_surrenaux" GUID="LFOIrqxTz0SWJt7u6a6V+w=="/>
+
+		<!--
+		Cité de l'espoir
+		-->
+
+		<POI MapID="1048" xpos="-196.768" ypos="10.8114" zpos="-133.814" type="informations.avantages_de_deplacement.champignons_surrenaux" GUID="c68pOBMJOUWyLAsaKGihug=="/>
+		<POI MapID="1048" xpos="-208.693" ypos="13.9285" zpos="-98.7915" type="informations.avantages_de_deplacement.champignons_surrenaux" GUID="crwlp0J4dEW8hkdtLaTKtA=="/>
+		<POI MapID="1048" xpos="-210.992" ypos="10.7811" zpos="-51.6598" type="informations.avantages_de_deplacement.champignons_surrenaux" GUID="qGes0fbIWk2qadzZ085qCw=="/>
+		<POI MapID="1048" xpos="-266.141" ypos="18.9866" zpos="-110.083" type="informations.avantages_de_deplacement.champignons_surrenaux" GUID="XQpeSxZU3UGiqGpSgd+j/Q=="/>
+
+	</POIs>
+</OverlayData>

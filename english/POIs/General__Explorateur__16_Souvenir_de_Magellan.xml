@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+POIs: ReActif.9251
+Date: 2017/08/11
+-->
+<OverlayData>
+	<MarkerCategory name="general" DisplayName="General">
+		<MarkerCategory name="explorateur" DisplayName="Explorer" iconFile="Img\Explorateur.png" behavior="3">
+			<MarkerCategory name="souvenir_de_magellan" DisplayName="Magellan's Memento">
+				<MarkerCategory name="acces" DisplayName="Guide" iconFile="Img\Guide.png" iconSize="0.75"/>
+			</MarkerCategory>
+		</MarkerCategory>
+	</MarkerCategory>
+
+	<POIs>
+
+		<!-- Entrée -->
+		<POI MapID="30" xpos="708.82" ypos="20.27" zpos="-701.35" type="general.explorateur.souvenir_de_magellan.acces" GUID="tlIYEf/oYkW8oATSXQNf8A==" iconFile="Img\Fleche.png" iconSize="1.5"/>
+
+		<!-- Route -->
+		<Route MapID="30" name="Acces" resetposx="708.82" resetposy="20.27" resetposz="-701.35" resetrange="2">
+			<POI MapID="30" xpos="710.044" ypos="20.9255" zpos="-709.84" type="general.explorateur.souvenir_de_magellan.acces" GUID="j8EdPaeAC0uak9omw9YuWQ=="/>
+			<POI MapID="30" xpos="709.686" ypos="20.9895" zpos="-720.39" type="general.explorateur.souvenir_de_magellan.acces" GUID="a1WLiBVr7ESHCZ4FUReDug=="/>
+			<POI MapID="30" xpos="707.22" ypos="21.9911" zpos="-730.341" type="general.explorateur.souvenir_de_magellan.acces" GUID="zTeZN91EEUCXsw0HiTX1NA=="/>
+			<POI MapID="30" xpos="699.073" ypos="22.5441" zpos="-741.969" type="general.explorateur.souvenir_de_magellan.acces" GUID="6OtyDNmZB0Gh/xwMvo+00Q=="/>
+			<POI MapID="30" xpos="686.208" ypos="21.8079" zpos="-747.723" type="general.explorateur.souvenir_de_magellan.acces" GUID="0SiQzr6PaUS1YkwTqLUvfA=="/>
+			<POI MapID="30" xpos="678.531" ypos="22.207" zpos="-753.662" type="general.explorateur.souvenir_de_magellan.acces" GUID="hGwEae5slkGDP2puy7mgkA=="/>
+			<POI MapID="30" xpos="684.826" ypos="20.5875" zpos="-763.997" type="general.explorateur.souvenir_de_magellan.acces" GUID="0BuR0MFQuUiGe99vVctAXw=="/>
+			<POI MapID="30" xpos="690.951" ypos="22.1783" zpos="-771.612" type="general.explorateur.souvenir_de_magellan.acces" GUID="23NRw3+D9Uuwa35MAvnn0Q=="/>
+			<POI MapID="30" xpos="698.701" ypos="23.4775" zpos="-775.054" type="general.explorateur.souvenir_de_magellan.acces" GUID="nDF5oW83EkCjxxibiIxVLQ=="/>
+			<POI MapID="30" xpos="703.306" ypos="25.1642" zpos="-781.615" type="general.explorateur.souvenir_de_magellan.acces" GUID="Hunzk/posk+Y7JiceFeULg==" iconFile="Img\DangerEsquive-EN.png"/>
+			<POI MapID="30" xpos="704.01" ypos="26.7936" zpos="-790.528" type="general.explorateur.souvenir_de_magellan.acces" GUID="/rbXZ5bi60y7rkYxxMfBZw=="/>
+			<POI MapID="30" xpos="704.138" ypos="28.4628" zpos="-802.451" type="general.explorateur.souvenir_de_magellan.acces" GUID="PhzmeFydg0++xif8HGKytQ=="/>
+			<POI MapID="30" xpos="708.632" ypos="27.9825" zpos="-813.768" type="general.explorateur.souvenir_de_magellan.acces" GUID="Lw5YSEbFBECyeyqOGAiS7g=="/>
+			<POI MapID="30" xpos="711.619" ypos="27.7427" zpos="-826.371" type="general.explorateur.souvenir_de_magellan.acces" GUID="bh4CNABUREqU3Vo9j0QWTA=="/>
+			<POI MapID="30" xpos="711.307" ypos="28.5477" zpos="-835.851" type="general.explorateur.souvenir_de_magellan.acces" GUID="IMMHyX/ztEiF78g254RmhA=="/>
+			<POI MapID="30" xpos="705.894" ypos="28.6645" zpos="-844.705" type="general.explorateur.souvenir_de_magellan.acces" GUID="QdZyAc4ALkOBKQZ5J+O5uw=="/>
+			<POI MapID="30" xpos="695.269" ypos="28.2917" zpos="-848.821" type="general.explorateur.souvenir_de_magellan.acces" GUID="IIvGNVffm0a8cunh9RtHAQ=="/>
+			<POI MapID="30" xpos="684.741" ypos="29.5356" zpos="-849.438" type="general.explorateur.souvenir_de_magellan.acces" GUID="5KMhyXM8EUOCnqkqo10Gfw==" iconFile="Img\DangerPierres.png"/>
+			<POI MapID="30" xpos="678.032" ypos="31.625" zpos="-846.788" type="general.explorateur.souvenir_de_magellan.acces" GUID="SiulLuUAM0WF32t4Yq7UAw=="/>
+			<POI MapID="30" xpos="665.669" ypos="35.1398" zpos="-847.519" type="general.explorateur.souvenir_de_magellan.acces" GUID="3IUsp6++zEq1BwVfScQuMQ=="/>
+			<POI MapID="30" xpos="663.231" ypos="36.9367" zpos="-851.767" type="general.explorateur.souvenir_de_magellan.acces" GUID="kGXrAjcrtEmIKLEFQjfv5w=="/>
+			<POI MapID="30" xpos="664.891" ypos="37.5245" zpos="-858.895" type="general.explorateur.souvenir_de_magellan.acces" GUID="EjBE8K6dL0Gy1cpwfQ0CsQ=="/>
+			<POI MapID="30" xpos="673.309" ypos="38.1894" zpos="-870.154" type="general.explorateur.souvenir_de_magellan.acces" GUID="M2Cf3Lhu5U+NntbQipDpBg=="/>
+			<POI MapID="30" xpos="685.72" ypos="37.06" zpos="-872.48" type="general.explorateur.souvenir_de_magellan.acces" GUID="zl4blvdebUChjMkcvIacGQ==" iconFile="Img\DangerEsquive-EN.png"/>
+			<POI MapID="30" xpos="693.931" ypos="35.2895" zpos="-869.177" type="general.explorateur.souvenir_de_magellan.acces" GUID="I9WHFYx1sU2k5PtY9fJvoQ=="/>
+			<POI MapID="30" xpos="703.849" ypos="36.1171" zpos="-866.287" type="general.explorateur.souvenir_de_magellan.acces" GUID="Rq8+yG3+qUK8vUqa1DwU2A=="/>
+			<POI MapID="30" xpos="707.093" ypos="38.0282" zpos="-876.072" type="general.explorateur.souvenir_de_magellan.acces" GUID="5mNXRfmZ+0arKDicf5DRlA=="/>
+			<POI MapID="30" xpos="703.755" ypos="42.1806" zpos="-889.86" type="general.explorateur.souvenir_de_magellan.acces" GUID="6wtsteGqJU22lXYh4vOfmQ=="/>
+			<POI MapID="30" xpos="697.536" ypos="45.3905" zpos="-899.064" type="general.explorateur.souvenir_de_magellan.acces" GUID="ok2JvIBMeE2DdJFm4DfHpQ=="/>
+			<POI MapID="30" xpos="686.306" ypos="46.5189" zpos="-902.205" type="general.explorateur.souvenir_de_magellan.acces" GUID="cMwKGCnlAkyDFDz0jHELWA=="/>
+			<POI MapID="30" xpos="676.157" ypos="48.5324" zpos="-896.681" type="general.explorateur.souvenir_de_magellan.acces" GUID="P7h1eiWa+USh5c4UjlvLRQ=="/>
+			<POI MapID="30" xpos="668.269" ypos="51.0372" zpos="-888.742" type="general.explorateur.souvenir_de_magellan.acces" GUID="m7RuAuQ9+EqW6MV/b+7g0w=="/>
+			<POI MapID="30" xpos="661.295" ypos="52.0475" zpos="-881.736" type="general.explorateur.souvenir_de_magellan.acces" GUID="V3iJaRU0B0yd/jdCIObQJQ=="/>
+			<POI MapID="30" xpos="653.551" ypos="53.0153" zpos="-874.394" type="general.explorateur.souvenir_de_magellan.acces" GUID="E5FpRhau8EyUJ0nULy08mw=="/>
+			<POI MapID="30" xpos="643.938" ypos="53.4045" zpos="-871.228" type="general.explorateur.souvenir_de_magellan.acces" GUID="Sbyk8P99ZkOpUUw5Y7AcaQ==" iconFile="Img\Combat.png" color="ffff0000"/>
+			<POI MapID="30" xpos="633.462" ypos="50.632" zpos="-876.791" type="general.explorateur.souvenir_de_magellan.acces" GUID="uii/wGG8FUWJGz/ESqzzlw=="/>
+			<POI MapID="30" xpos="625.957" ypos="48.5349" zpos="-884.037" type="general.explorateur.souvenir_de_magellan.acces" GUID="rffa/GlTlkO9GLdyjdVXKw=="/>
+			<POI MapID="30" xpos="615.792" ypos="44.9658" zpos="-888.685" type="general.explorateur.souvenir_de_magellan.acces" GUID="QMyt7A3HvEqY8A4n7VJuRA=="/>
+			<POI MapID="30" xpos="601.812" ypos="40.6608" zpos="-884.507" type="general.explorateur.souvenir_de_magellan.acces" GUID="pQIC7M7lDkC+APNGsn1QYQ=="/>
+			<POI MapID="30" xpos="588.825" ypos="38.052" zpos="-876.189" type="general.explorateur.souvenir_de_magellan.acces" GUID="X9gYfW2KTEmq1cvk7lR36w=="/>
+			<POI MapID="30" xpos="577.396" ypos="37.6788" zpos="-868.201" type="general.explorateur.souvenir_de_magellan.acces" GUID="8ydFq1IBykuKUrEvpT7lUw=="/>
+			<POI MapID="30" xpos="566.812" ypos="31.0947" zpos="-856.935" type="general.explorateur.souvenir_de_magellan.acces" GUID="tLOvW8DjAkipxeAyOjuQVQ=="/>
+			<POI MapID="30" xpos="558.483" ypos="29.766" zpos="-844.187" type="general.explorateur.souvenir_de_magellan.acces" GUID="FtpHte5hvUGA759zyoQuVw=="/>
+			<POI MapID="30" xpos="549.008" ypos="30.6628" zpos="-831.287" type="general.explorateur.souvenir_de_magellan.acces" GUID="5DXL2xcF2kCqx8Os6LOUMg=="/>
+			<POI MapID="30" xpos="538.246" ypos="30.2077" zpos="-823.049" type="general.explorateur.souvenir_de_magellan.acces" GUID="5RZmKSdrgkaUp60fEIVTaw=="/>
+			<POI MapID="30" xpos="527.813" ypos="31.7075" zpos="-817.718" type="general.explorateur.souvenir_de_magellan.acces" GUID="2gaS37JroU2SefJ7C672eQ=="/>
+			<POI MapID="30" xpos="527.806" ypos="30.6726" zpos="-805.585" type="general.explorateur.souvenir_de_magellan.acces" GUID="ay8oBo3d2UumwoHV6gqaOw=="/>
+			<POI MapID="30" xpos="532.985" ypos="29.9836" zpos="-795.708" type="general.explorateur.souvenir_de_magellan.acces" GUID="GoV/Ug82EE+KbWs0Qzc4/A=="/>
+			<POI MapID="30" xpos="540.784" ypos="30.7559" zpos="-789.039" type="general.explorateur.souvenir_de_magellan.acces" GUID="MaP27PgXL0ue8gjNXd5k5A=="/>
+			<POI MapID="30" xpos="551.522" ypos="30.3692" zpos="-786.599" type="general.explorateur.souvenir_de_magellan.acces" GUID="H2YMw94rtEK2JDC+pLQwRw==" iconFile="Img\Combat.png" iconSize="1" color="ffff0000"/>
+		</Route>
+
+		<!-- Coffre -->
+		<POI MapID="30" xpos="560.89" ypos="33.2236" zpos="-791.324" type="general.explorateur.souvenir_de_magellan" GUID="rdfx61J7qEKKO/hcoG0jyQ==" iconFile="Img\CoffreMiniDonjon.png"/>
+
+	</POIs>
+</OverlayData>

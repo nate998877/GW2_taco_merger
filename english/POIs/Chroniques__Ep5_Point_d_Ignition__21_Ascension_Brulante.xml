@@ -1,0 +1,384 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+POIs: ReActif.9251
+Date: 2017/08/11
+-->
+<OverlayData>
+	<MarkerCategory name="chroniques.saison_3">
+		<MarkerCategory name="ep5_point_d_ignition" DisplayName="Ep.5 - Flashpoint" iconFile="Img\MontDraconis.png">
+			<MarkerCategory name="ascension_brulante" DisplayName="Searing Ascent" iconFile="Img\Guide.png" iconSize="0.75" heightOffset="0"/>
+		</MarkerCategory>
+	</MarkerCategory>
+
+	<POIs>
+
+		<!-- Début -->
+		<POI MapID="1195" xpos="-39.58" ypos="556.04" zpos="-276.61" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="N5mj5AADF0GhSTowifVTPw==" iconFile="Img\PuzzleDebut.png" iconSize="1.5" behavior="0"/>
+
+		<!-- Parcours -->
+		<Route MapID="1195" Name="section" resetposx="-39.58" resetposy="556.04" resetposz="-276.61" resetrange="1">
+			<POI MapID="1195" xpos="-49.9639" ypos="557.183" zpos="-279.176" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="xTyHpEWMRUCTc6buS8+vhw==" iconFile="Img\Interaction.png" behavior="0"/>
+			<POI MapID="1195" xpos="-59.3738" ypos="558.297" zpos="-283.701" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="8GB06tMxRkWhhhjKMopGuA==" iconFile="Img\DangerGlissant.png"/>
+			<POI MapID="1195" xpos="-64.9826" ypos="560.508" zpos="-291.332" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="9xckmyDMKUCj1CMQSC5uFw==" iconFile="Img\DangerGlissant.png"/>
+			<POI MapID="1195" xpos="-66.9703" ypos="562.266" zpos="-297.767" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="ejdyLDtux0aSgexFJqd3mQ=="/>
+			<POI MapID="1195" xpos="-63.6445" ypos="565.435" zpos="-301.503" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="xYh9NOcjzky7nUIRe3PEHg=="/>
+			<POI MapID="1195" xpos="-60.4459" ypos="569.72"  zpos="-305.646" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="4GKXAacmc0SnyklMFHtHiQ=="/>
+			<POI MapID="1195" xpos="-65.604"  ypos="574.353" zpos="-311.078" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="8CbzlPiONE6tPVEIJe8gEw=="/>
+			<POI MapID="1195" xpos="-72.2165" ypos="577.674" zpos="-313.607" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="yka4JHHdLUyMDD4wIxpzSA=="/>
+			<POI MapID="1195" xpos="-79.1638" ypos="581.717" zpos="-317.562" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="+C/GwAQNME+iyTAKWehtMA=="/>
+			<POI MapID="1195" xpos="-85.474"  ypos="586.705" zpos="-324.122" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="2tD5y9HxF0+Bgf5QFuniJw=="/>
+			<POI MapID="1195" xpos="-89.2885" ypos="590.804" zpos="-330.6"   type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="eB9ewILpNEyobj2F7/Wvlg=="/>
+			<POI MapID="1195" xpos="-91.4184" ypos="594.382" zpos="-337.624" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="+wcTkuH6xUuRGNDQxzvLuA=="/>
+			<POI MapID="1195" xpos="-85.7599" ypos="594.485" zpos="-334.556" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="EM/8OWGzNUmhbpfHSpyqcg=="/>
+			<POI MapID="1195" xpos="-84.4333" ypos="597.159" zpos="-342.533" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="5iia4yrSy0mbQqKH2N9lLw=="/>
+			<POI MapID="1195" xpos="-86.0393" ypos="599.877" zpos="-348.887" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="MbjSTo8RCEKEed7LXH/o8w=="/>
+			<POI MapID="1195" xpos="-85.7765" ypos="602.998" zpos="-353.966" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="81+mY9fltUiZLysXCVWOgA=="/>
+			<POI MapID="1195" xpos="-82.2637" ypos="604.675" zpos="-354.608" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="EzUsCI68xUCRhxFCyQofuA=="/>
+			<POI MapID="1195" xpos="-84.94"   ypos="608.55"  zpos="-364.75"  type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="34H8tWbQ2EGlh7R+dRMwrA=="/>
+			<POI MapID="1195" xpos="-88.7088" ypos="613.833" zpos="-375.865" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="eZLykxCSRUW5Af+LDfURZg==" iconFile="Img\DeltaplaneDepart-EN.png"/>
+			<POI MapID="1195" xpos="-73.6083" ypos="607.328" zpos="-351.446" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="MjfVgQ4ay0+TvOzzQNx5mQ==" iconFile="Img\DeltaplaneStop.png"/>
+			<POI MapID="1195" xpos="-78.1375" ypos="609.389" zpos="-344.611" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="EShkcB1PMUqvzeCNaJqOzQ=="/>
+			<POI MapID="1195" xpos="-84.5279" ypos="611.965" zpos="-336.907" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="AEA9BWxzQ0SeTCiAg0BAOw=="/>
+			<POI MapID="1195" xpos="-87.0714" ypos="614.599" zpos="-327.663" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="UYQu6lV0skSzEZRVG1V7tg=="/>
+			<POI MapID="1195" xpos="-85.6819" ypos="616.227" zpos="-331.907" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="2ufPuNKCCki4cSU14Dpilw=="/>
+			<POI MapID="1195" xpos="-83.8158" ypos="617.409" zpos="-328.528" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="9CZ+1zMXPUOPyM5JjIwq7Q=="/>
+			<POI MapID="1195" xpos="-88.3447" ypos="617.778" zpos="-319.201" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="1O9ydC/ZOkG5RaCsosMz8A=="/>
+			<POI MapID="1195" xpos="-80.9658" ypos="615.16"  zpos="-309.469" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="wbBqkbkmF0KQ6paPCsJa1g==" iconFile="Img\DeltaplaneDepart-EN.png"/>
+			<POI MapID="1195" xpos="-69.5312" ypos="612.753" zpos="-294.17"  type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="zBag4pisEUqZ+MeCan6xEg==" iconFile="Img\DeltaplaneStop.png"/>
+			<POI MapID="1195" xpos="-64.9938" ypos="613.984" zpos="-296.904" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="UYllj2zz/U2XTI6LXC9W4Q=="/>
+			<POI MapID="1195" xpos="-63.4771" ypos="615.297" zpos="-290.72"  type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="IAOpI8C5o0WHKlxKB7gKHg=="/>
+			<POI MapID="1195" xpos="-60.3498" ypos="617.651" zpos="-278.219" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="evbz05xSOUi8baTGwNqGLg=="/>
+			<POI MapID="1195" xpos="-61.3686" ypos="618.884" zpos="-269.902" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="shPcu+q0DkWJ1awChLNagw==" iconFile="Img\PorteeDeCoeurDeChene.png" heightOffset="1"/>
+			<!-- Cible 1 -->
+			<POI MapID="1195" xpos="-53.6918" ypos="661.03"  zpos="-252.739" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="7/dzbLAPyEKGhaeozH4tBw==" iconFile="Img\Deltaplane.png"/>
+			<POI MapID="1195" xpos="-36.0297" ypos="649.235" zpos="-245.487" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="njqVH8lQuEOmWX2vMpGBFQ==" iconFile="Img\Deltaplane.png"/>
+			<POI MapID="1195" xpos="-22.7584" ypos="645.341" zpos="-247.487" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="Ex0D2mAfvkObhny5dOyR0A==" iconFile="Img\Deltaplane.png"/>
+			<POI MapID="1195" xpos="-8.8355"  ypos="641.217" zpos="-250.588" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="695asTaiEEalyadAF4zsEA==" iconFile="Img\Deltaplane.png"/>
+			<POI MapID="1195" xpos="4.64524"  ypos="637.208" zpos="-253.844" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="891i2XTNC061p3r5RoJQQA==" iconFile="Img\Deltaplane.png"/>
+			<POI MapID="1195" xpos="18.126"   ypos="633.199" zpos="-257.101" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="ahQ7pkwahkuF+O5sJF+FPA==" iconFile="Img\Deltaplane.png"/>
+			<POI MapID="1195" xpos="31.5595"  ypos="629.189" zpos="-260.542" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="ebTdvAwmkkWuZm/EJ9QgQw==" iconFile="Img\Deltaplane.png"/>
+			<POI MapID="1195" xpos="48.1336"  ypos="624.724" zpos="-264.637" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="aAb7v0r25kayGvk6KLemWA==" iconFile="Img\DeltaplaneStop.png"/>
+			<POI MapID="1195" xpos="51.3731"  ypos="629.856" zpos="-258.14"  type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="GCSTaGqgGESbJ7L60kyj0Q==" iconFile="Img\DangerGlissant.png"/>
+			<POI MapID="1195" xpos="56.1841"  ypos="637.406" zpos="-251.874" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="PXwOLs/KokiNWRbihRROXg=="/>
+			<POI MapID="1195" xpos="60.1634"  ypos="644.907" zpos="-246.721" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="XxK9vxxKskmcIoXC2Jzb+w=="/>
+			<POI MapID="1195" xpos="64.7677"  ypos="653.608" zpos="-240.735" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="1Tgor0UmjkSJs5gOI/XMqA=="/>
+			<POI MapID="1195" xpos="68.3165"  ypos="660.738" zpos="-235.72"  type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="RQrLWYRLqkSelaeMbC7gRw=="/>
+			<POI MapID="1195" xpos="70.7618"  ypos="665.174" zpos="-232.333" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="wHWuV7cx90ypVv3GYhW/HQ==" iconFile="Img\Attention.png"/>
+			<POI MapID="1195" xpos="75.3416"  ypos="668.353" zpos="-228.606" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="yY8+eKlp+U6vVPUSji+FzA==" iconFile="Img\PorteeDeCoeurDeChene.png" heightOffset="1"/>
+			<!-- Cible 2 -->
+			<POI MapID="1195" xpos="83.3151"  ypos="691.207" zpos="-274.857" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="B14H/ouQIk+edzgvNlI8Sw=="/>
+			<POI MapID="1195" xpos="89.9231"  ypos="695.675" zpos="-271.679" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="dYn09FC3o0ailGOYQP8UfQ=="/>
+			<POI MapID="1195" xpos="95.9914"  ypos="699.993" zpos="-268.218" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="8u/w0LeWsU+AtsfUIf4CjQ=="/>
+			<POI MapID="1195" xpos="99.8736"  ypos="702.875" zpos="-265.392" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="qb7W6s6SFUufvghhrINVeg=="/>
+			<POI MapID="1195" xpos="103.956"  ypos="705.914" zpos="-262.262" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="DKW9Z5kwt0WcrWg97cW3FA=="/>
+			<POI MapID="1195" xpos="107.984"  ypos="708.955" zpos="-259.066" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="Kc5BzvuelUG5He62q3y/qQ=="/>
+			<POI MapID="1195" xpos="111.397"  ypos="710.902" zpos="-256.953" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="57Q0tn/wcEWv89Mt6N4iEg=="/>
+			<POI MapID="1195" xpos="117.582"  ypos="710.934" zpos="-255.506" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="93qOf6glH0OM2BnJI7qRuQ==" iconFile="Img\DangerGlissant.png"/>
+			<POI MapID="1195" xpos="121.399"  ypos="714.611" zpos="-254.601" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="AG0wWjD+ak+6Q098SZV2ew=="/>
+			<POI MapID="1195" xpos="125.298"  ypos="718.548" zpos="-253.771" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="y7JOpV5ccE6dBZhkrUU2Zw=="/>
+			<POI MapID="1195" xpos="128.992"  ypos="722.176" zpos="-253.039" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="yoq4w5daRUWviuCzSnAWgQ=="/>
+			<POI MapID="1195" xpos="133.152"  ypos="726.354" zpos="-252.075" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="7RQ5vwjCdEWxWIyxM7yolQ=="/>
+			<POI MapID="1195" xpos="138.603"  ypos="730.749" zpos="-250.748" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="OSuIdlRchUOQeYLykDLVaw=="/>
+			<POI MapID="1195" xpos="144.71"   ypos="735.477" zpos="-249.394" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="jK7wlJd06km6HPPCkGSg3g=="/>
+			<POI MapID="1195" xpos="151.421"  ypos="740.634" zpos="-247.955" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="PjX2/3dOrUiLhuqfOgbF0w==" iconFile="Img\PorteeDeCoeurDeChene.png" heightOffset="1"/>
+			<!-- Cible 3 -->
+			<POI MapID="1195" xpos="201.466"  ypos="774.071" zpos="-261.145" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="iBsTSBlDQEK/CIAssqwFGQ=="/>
+			<POI MapID="1195" xpos="207.973"  ypos="774.467" zpos="-267.119" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="Sflq2cbv90OX0KljayZ/+w=="/>
+			<POI MapID="1195" xpos="210.87"   ypos="774.528" zpos="-273.468" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="q5tAOMaSXE+rDPEBtho/7w=="/>
+
+			<!-- Point de Contrôle 1 -->
+			<POI MapID="1195" xpos="212.72"   ypos="769.74"  zpos="-286.05" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="0ATFqpIMSUSB9iusHL3G0w==" iconFile="Img\DrapeauPassage.png" iconSize="2" heightOffset="2" behavior="0"/>
+
+			<POI MapID="1195" xpos="213.209"  ypos="773.774" zpos="-278.171" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="9CUd7aGA5kOylfbR37clgA=="/>
+			<POI MapID="1195" xpos="211.788"  ypos="775.001" zpos="-270.631" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="dcmhMk+YHEi+H93r2g1MxQ=="/>
+			<POI MapID="1195" xpos="208.552"  ypos="775.054" zpos="-263.937" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="Y0F9yG+gRUiAjF+cvZRpcA=="/>
+			<POI MapID="1195" xpos="205.108"  ypos="775.367" zpos="-256.592" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="EhWq0685l0ujhU+hfcoABw=="/>
+			<POI MapID="1195" xpos="200.728"  ypos="775.892" zpos="-248.364" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="dRFOoEnHIkCbgAUeiIL8Tg=="/>
+			<POI MapID="1195" xpos="197.26"   ypos="776.722" zpos="-242.375" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="hUm/4rxQTECc2j8pEj2/dQ=="/>
+			<POI MapID="1195" xpos="193.746"  ypos="777.297" zpos="-236.395" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="PMbvgFoPKEy6CzggprtYiQ=="/>
+			<POI MapID="1195" xpos="191.182"  ypos="777.796" zpos="-230.038" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="Xw8CkzTKS0Skofdt4rZy0A=="/>
+			<POI MapID="1195" xpos="190.104"  ypos="777.663" zpos="-226.512" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="NcMG01Dll0aiU3QqcZa7tg==" iconFile="Img\DeltaplaneDepart-EN.png"/>
+			<POI MapID="1195" xpos="184.916"  ypos="775.685" zpos="-212.158" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="u350L2aZ/EqCjEg+maXS0w==" iconFile="Img\Deltaplane.png"/>
+			<POI MapID="1195" xpos="181.052"  ypos="772.363" zpos="-201.336" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="V+7CkR1yQESKiq79NGREXA==" iconFile="Img\Deltaplane.png"/>
+			<POI MapID="1195" xpos="177.065"  ypos="768.583" zpos="-188.896" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="5sGTFMRLdk2bszY7B2I3Dw==" iconFile="Img\Deltaplane.png"/>
+			<POI MapID="1195" xpos="175.636"  ypos="765.49"  zpos="-178.352" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="s6H/0xdZoEKdKbLMOpobpQ==" iconFile="Img\Deltaplane.png"/>
+			<POI MapID="1195" xpos="181.927"  ypos="762.168" zpos="-168.862" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="7zGsC/SPvEGLbSssLowgag==" iconFile="Img\Deltaplane.png"/>
+			<POI MapID="1195" xpos="189.474"  ypos="758.961" zpos="-160.759" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="Uqh7IUtdD0enhrafFBdWlQ==" iconFile="Img\Deltaplane.png"/>
+			<POI MapID="1195" xpos="198.805"  ypos="755.295" zpos="-152.176" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="IDZOiWAwgEy0wH2f4WpuTQ==" iconFile="Img\Deltaplane.png"/>
+			<POI MapID="1195" xpos="208.55"   ypos="751.63"  zpos="-144.065" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="ngoLQMCLaESBgqorJUUVvg==" iconFile="Img\Deltaplane.png"/>
+			<POI MapID="1195" xpos="218.735"  ypos="748.35"  zpos="-135.514" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="gmFa5+yDu0mjQ9lg8kxOCA==" iconFile="Img\DeltaplaneStop.png"/>
+			<POI MapID="1195" xpos="219.546"  ypos="751.704" zpos="-132.795" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="2bRgvXdN1Uy75gkqeMNLXg=="/>
+			<POI MapID="1195" xpos="219.702"  ypos="754.383" zpos="-128.761" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="px7h8s28YEOEol7iEmTr+g=="/>
+			<POI MapID="1195" xpos="219.627"  ypos="758.485" zpos="-125.591" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="YV1rMa5mNEGbJparOpbd4Q=="/>
+			<POI MapID="1195" xpos="219.145"  ypos="760.496" zpos="-122.22"  type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="EUjoA++tRE6TwfKvNRultQ=="/>
+			<POI MapID="1195" xpos="222.322"  ypos="761.959" zpos="-120.05"  type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="hvBB5204p0q27AODExAtLw=="/>
+			<POI MapID="1195" xpos="224.944"  ypos="763.251" zpos="-116.855" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="cNkUHJw/P0yfFAM6ekk2BQ=="/>
+			<POI MapID="1195" xpos="228.159"  ypos="765.067" zpos="-115.566" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="LAFhlJ/j0UCp5+HSfUAEhw=="/>
+			<POI MapID="1195" xpos="233.641"  ypos="765.075" zpos="-114.47"  type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="/zHSv7PZyUeuILJbtFhFZA=="/>
+			<POI MapID="1195" xpos="241.841"  ypos="764.668" zpos="-114.385" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="BLitLH76o0SBuo7I1YuBwA=="/>
+			<POI MapID="1195" xpos="250.536"  ypos="764.784" zpos="-112.434" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="Iii/PWxR3EOHo4paM+rDTQ=="/>
+			<POI MapID="1195" xpos="257.227"  ypos="764.523" zpos="-110.358" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="bsjPXX1UtEiIHLzTxJt9xA=="/>
+			<POI MapID="1195" xpos="262.09"   ypos="764.991" zpos="-106.102" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="KaWU7f9AGkal56FfHlLisQ==" iconFile="Img\Interaction.png" behavior="0"/>
+			<POI MapID="1195" xpos="253.737"  ypos="764.934" zpos="-110.329" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="tMNj/wk/TEW+p66n+svdcw=="/>
+			<POI MapID="1195" xpos="248.188"  ypos="765.21"  zpos="-110.845" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="lFypRtZ21kiRd+8wy4n9AA=="/>
+			<POI MapID="1195" xpos="240.418"  ypos="765.318" zpos="-110.292" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="23yTTrtm/k2Q7qNYMFzWMg=="/>
+			<POI MapID="1195" xpos="234.135"  ypos="765.949" zpos="-107.772" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="CbHpV3nLnUW54yfCwmjRiw=="/>
+			<POI MapID="1195" xpos="227.454"  ypos="766.954" zpos="-107.881" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="b0vuGXCz40yr1H+M9UF3qQ=="/>
+			<POI MapID="1195" xpos="220.258"  ypos="766.683" zpos="-112.317" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="Vhw5yp32GkWIiSpXoNKDgA=="/>
+			<POI MapID="1195" xpos="212.414"  ypos="766.823" zpos="-118.021" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="YTIksIFViUaSh9wpHOYPNw=="/>
+			<POI MapID="1195" xpos="205.784"  ypos="767.025" zpos="-122.17"  type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="z3FTg5ckxkaj7dCfPfVccQ=="/>
+			<POI MapID="1195" xpos="199.662"  ypos="767.508" zpos="-124.894" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="Bz37L92FZU2zOInYz2vigw=="/>
+			<POI MapID="1195" xpos="194.691"  ypos="765.562" zpos="-131.235" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="8r97gAJxS0aToYkoF7pIPw==" iconFile="Img\PorteeDeCoeurDeChene.png" heightOffset="1"/>
+			<!-- Cible 4 -->
+			<POI MapID="1195" xpos="163.485"  ypos="800.771" zpos="-187.996" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="IHsHja0330+ud1q4SaqesQ==" iconFile="Img\DeltaplaneDepart-EN.png"/>
+			<POI MapID="1195" xpos="191.055"  ypos="778.092" zpos="-234.009" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="I0rl9lhunkepRf1UEF1NtA==" iconFile="Img\DeltaplaneStop.png"/>
+			<POI MapID="1195" xpos="194.168"  ypos="776.546" zpos="-240.788" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="IyELZGnWV0yalD7O7s/Q5w=="/>
+			<POI MapID="1195" xpos="197.281"  ypos="775.957" zpos="-246.768" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="7ZAZX685q0q8OBi1DgM3gQ=="/>
+			<POI MapID="1195" xpos="200.387"  ypos="775.207" zpos="-253.535" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="dlTbGzvCDkqbRh9vjIJznw=="/>
+			<POI MapID="1195" xpos="203.939"  ypos="774.441" zpos="-260.833" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="h+l3Z0i1DEuz7TLludiBFA=="/>
+			<POI MapID="1195" xpos="206.635"  ypos="773.868" zpos="-269.355" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="LMsCWMf6GkOdtndiS+L6Dw==" iconFile="Img\PorteeDeCoeurDeChene.png" heightOffset="1"/>
+			<!-- Cible 5 -->
+			<POI MapID="1195" xpos="207.632"  ypos="782.689" zpos="-294.494" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="ajhx2pnaeEW9LixsxrhiLQ==" iconFile="Img\Interaction.png" behavior="0"/>
+			<POI MapID="1195" xpos="211.532"  ypos="782.574" zpos="-301.293" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="NtRsVoGkRUKQ+k7zTAcXsg=="/>
+			<POI MapID="1195" xpos="213.781"  ypos="784.46"  zpos="-305.937" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="bQ7PYK8DvEOF0XGFhYaYTg=="/>
+			<POI MapID="1195" xpos="210.805"  ypos="783.419" zpos="-312.562" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="M2UPBWsNWkmoGK6g4eRaQQ=="/>
+			<POI MapID="1195" xpos="208.773"  ypos="768.655" zpos="-333.947" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="aXwofQGCA0GEk06vbKlieA=="/>
+			<POI MapID="1195" xpos="210.991"  ypos="770.027" zpos="-342.786" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="jhpDwxD0W0uoo2KKSlamfA=="/>
+			<POI MapID="1195" xpos="216.329"  ypos="771.662" zpos="-348.962" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="WsqxMMuaaUWESC1gYjNuGw=="/>
+			<POI MapID="1195" xpos="220.927"  ypos="772.96"  zpos="-354.729" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="d18JSVYnhU6wIZgJtbFp/w==" iconFile="Img\DeltaplaneDepart-EN.png"/>
+			<POI MapID="1195" xpos="221.122"  ypos="766.075" zpos="-388.354" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="4GvTZwFvzEWaaDZqidzdyQ==" iconFile="Img\DeltaplaneStop.png"/>
+			<POI MapID="1195" xpos="217.762"  ypos="765.875" zpos="-395.394" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="GMc41ZhS7UyitENBr6yhQw=="/>
+			<POI MapID="1195" xpos="215.928"  ypos="766.651" zpos="-400.787" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="sv7dACnbT0GJwNWu74NQgw==" iconFile="Img\DeltaplaneDepart-EN.png"/>
+			<POI MapID="1195" xpos="208.023"  ypos="765.259" zpos="-411.989" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="0MgqJMfLbECyIlf50CEONA==" iconFile="Img\Deltaplane.png"/>
+			<POI MapID="1195" xpos="200.997"  ypos="762.281" zpos="-419.513" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="2L4+aRYreka2SDMo5TpMuQ==" iconFile="Img\Deltaplane.png"/>
+			<POI MapID="1195" xpos="192.088"  ypos="758.615" zpos="-428.535" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="Chz7034GKkOlWYewvi/BsQ==" iconFile="Img\Deltaplane.png"/>
+			<POI MapID="1195" xpos="183.179"  ypos="754.95"  zpos="-437.557" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="ODXvUwwW9EmLq3ypef3vNw==" iconFile="Img\Deltaplane.png"/>
+			<POI MapID="1195" xpos="174.269"  ypos="751.284" zpos="-446.578" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="eyqs+IHDhEWr8DDt6yl/8A==" iconFile="Img\Deltaplane.png"/>
+			<POI MapID="1195" xpos="165.917"  ypos="747.848" zpos="-455.036" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="XBCz6a1n5Ue0AJ2cIYrtow==" iconFile="Img\Deltaplane.png"/>
+			<POI MapID="1195" xpos="157.287"  ypos="744.297" zpos="-463.776" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="HtXB8VqHFU2xIOlKVFzMOQ==" iconFile="Img\Deltaplane.png"/>
+			<POI MapID="1195" xpos="149.491"  ypos="741.089" zpos="-471.67"  type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="XwAPbDrreEmdEUxVtbowzQ==" iconFile="Img\PorteeDeCoeurDeChene.png"/>
+			<!-- Cible 6 -->
+			<POI MapID="1195" xpos="101.923"  ypos="746.462" zpos="-527.464" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="mR62fROfpkyRZLjZdQWMWQ==" iconFile="Img\DeltaplaneStop.png"/>
+			<POI MapID="1195" xpos="96.315"   ypos="745.362" zpos="-532.86"  type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="BtWh4bvNVEeutcu3h+mlWw=="/>
+			<POI MapID="1195" xpos="90.0998"  ypos="743.92"  zpos="-539.665" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="xtS9qnOHNU6qJIvFiGyA1Q=="/>
+			<POI MapID="1195" xpos="82.1614"  ypos="743.036" zpos="-548.962" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="9rsTRFsYAU+kH6tHmliIXw=="/>
+			<POI MapID="1195" xpos="73.0446"  ypos="740.986" zpos="-552.801" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="JO5xrqIa90GUHGqzGViHMQ=="/>
+			<POI MapID="1195" xpos="61.4683"  ypos="740.828" zpos="-555.515" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="DpbXTEtLTkqR+HzTqc9J/A=="/>
+			<POI MapID="1195" xpos="50.0794"  ypos="739.286" zpos="-557.191" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="vMk5LF3zRUqOjoiAAiLaaQ=="/>
+			<POI MapID="1195" xpos="39.8088"  ypos="739.413" zpos="-558.526" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="qZ1XoyGEJEO5fjh48R7hDQ=="/>
+			<POI MapID="1195" xpos="29.5024"  ypos="739.535" zpos="-560.154" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="0QUEzu/3MEmjQAH9ZDt0PQ=="/>
+			<POI MapID="1195" xpos="20.678"   ypos="739.11"  zpos="-563.047" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="t1Wj12KC5Ea7oHzbmpYDdA=="/>
+			<POI MapID="1195" xpos="20.604"   ypos="743.72"  zpos="-568.931" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="0f9z8M6sL06qLcPDO/+YOA=="/>
+			<POI MapID="1195" xpos="15.0845"  ypos="746.723" zpos="-584.276" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="hf6ztcpP5UiteuDzdnM3Hw=="/>
+			<POI MapID="1195" xpos="13.4512"  ypos="748.606" zpos="-598.182" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="qxHvBFW0tUmSUaQS2TgdNQ=="/>
+			<POI MapID="1195" xpos="7.73805"  ypos="747.82"  zpos="-609.458" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="Tr6FIYOVp0aF2fY17lNhSA==" iconFile="Img\PorteeDeCoeurDeChene.png" heightOffset="1"/>
+			<!-- Cible 7 -->
+			<POI MapID="1195" xpos="-17.1458" ypos="798.794" zpos="-611.533" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="LiT6shkibEGtoZsrZS3oPg==" iconFile="Img\DeltaplaneStop.png" triggerRange="15"/>
+			<POI MapID="1195" xpos="-10.5292" ypos="796.308" zpos="-629.816" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="XtmFciD2w06qBvKCNzw2uQ=="/>
+			<POI MapID="1195" xpos="-13.8232" ypos="803.305" zpos="-635.856" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="JocPXN2iPEObj8bcsSxWtg=="/>
+			<POI MapID="1195" xpos="-19.0082" ypos="809.398" zpos="-639.61"  type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="9BifG14DzkyEEl3wpRCS2Q=="/>
+			<POI MapID="1195" xpos="-21.3049" ypos="812.795" zpos="-646.505" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="slzMRsCstkKUiaCu6V0QFw=="/>
+			<POI MapID="1195" xpos="-22.8596" ypos="808.295" zpos="-658.309" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="EZXDIS9fK0qqb33rsZFC/Q=="/>
+			<POI MapID="1195" xpos="-31.9206" ypos="805.727" zpos="-667.234" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="1thFBQRA+kWJxqeJP+qQbA=="/>
+			<POI MapID="1195" xpos="-44.6207" ypos="803.589" zpos="-669.02"  type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="l5VaDCpHAEigW9ezsBMVnQ=="/>
+			<POI MapID="1195" xpos="-56.2495" ypos="803.453" zpos="-670.102" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="cPMaWYCPTU29E6ORbBx6pA=="/>
+			<POI MapID="1195" xpos="-63.2458" ypos="803.978" zpos="-672.069" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="7UJ+9IdUXUaT9cmB6IABUw=="/>
+
+			<!-- Point de Contrôle 2 -->
+			<POI MapID="1195" xpos="-74.53"   ypos="797.17"  zpos="-684.09"  type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="+xaUdYXQeE6YKMDtcl53QA==" iconFile="Img\DrapeauPassage.png" iconSize="2" heightOffset="2" behavior="0"/>
+
+			<POI MapID="1195" xpos="-67.8618" ypos="801.324" zpos="-679.021" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="hYu/ha6MBEWaLkdSs9ohgg=="/>
+			<POI MapID="1195" xpos="-58.9129" ypos="805.463" zpos="-677.421" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="xPu8o/NMVEaJU2+seyE/Pg=="/>
+			<POI MapID="1195" xpos="-44.4872" ypos="804.044" zpos="-673.665" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="Cq4+dcZ5zUCG7n3MdH4FlA=="/>
+			<POI MapID="1195" xpos="-27.03"   ypos="806.561" zpos="-665.119" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="MUJGfi2LjUO2PmXw+kvqFA=="/>
+			<POI MapID="1195" xpos="-22.2488" ypos="809.354" zpos="-653.348" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="ZPfor2JEnUuGFTms9XYkLA=="/>
+			<POI MapID="1195" xpos="-30.7908" ypos="810.248" zpos="-640.133" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="8isk7NyfHUaT65FFJ41WAQ=="/>
+			<POI MapID="1195" xpos="-38.6166" ypos="813.798" zpos="-630.408" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="bbODI8oZO0iC3TrsRyE8XQ=="/>
+			<POI MapID="1195" xpos="-42.126"  ypos="816.246" zpos="-624.778" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="1w3Nf4OnZU+BosYESBc/Jw=="/>
+			<POI MapID="1195" xpos="-46.3655" ypos="820.298" zpos="-628.673" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="oa9l764g+kCxzd9iM6HfSA==" iconFile="Img\Interaction.png" behavior="0"/>
+			<POI MapID="1195" xpos="-55.9058" ypos="820.497" zpos="-640.57"  type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="+CliUrrJlkO04ucINp+E+A=="/>
+			<POI MapID="1195" xpos="-63.4622" ypos="820.711" zpos="-647.761" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="hdfisivdiUmI9qB7yEBFRA==" iconFile="Img\DeltaplaneDepart-EN.png"/>
+			<POI MapID="1195" xpos="-81.959"  ypos="813.377" zpos="-665.412" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="Y2rdt1T5qUCe0dqa+IbARg==" iconFile="Img\DeltaplaneStop.png" triggerRange="3"/>
+			<POI MapID="1195" xpos="-96.4249" ypos="809.545" zpos="-656.983" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="iHocLaAaqEqQdC2GSkjvKg=="/>
+			<POI MapID="1195" xpos="-115.169" ypos="810.863" zpos="-653.266" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="uGp9yuD0zkucUaeWh17FrQ=="/>
+			<POI MapID="1195" xpos="-134.328" ypos="810.413" zpos="-654.481" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="USJ+SdoqlkGDD7Z6lWHG7Q=="/>
+			<POI MapID="1195" xpos="-150.455" ypos="811.114" zpos="-654.606" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="1+W9cENErU61LeKHrsF+nw=="/>
+			<POI MapID="1195" xpos="-150.161" ypos="807.368" zpos="-640.192" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="K0WhM62wbk+ItypKEsMimw=="/>
+			<POI MapID="1195" xpos="-145.471" ypos="806.359" zpos="-612.75"  type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="eQfyAle7/ECq+lxGakdkYw=="/>
+			<POI MapID="1195" xpos="-145.94"  ypos="803.718" zpos="-594.876" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="qGulu+mzp0aeO+3FcGrLfQ=="/>
+			<POI MapID="1195" xpos="-139.169" ypos="801.654" zpos="-572.33"  type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="hTOrJlkWL0C3I3SWz37jSA=="/>
+			<POI MapID="1195" xpos="-129.87"  ypos="802.226" zpos="-547.704" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="chwegCT1Lk+qcSRwa5SIEA==" iconFile="Img\DeltaplaneDepart-EN.png"/>
+			<!-- Cible 8 -->
+			<POI MapID="1195" xpos="-164.236" ypos="799.993" zpos="-508.435" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="FY450KVlhEGu8+1twaqBrg==" iconFile="Img\DeltaplaneStop.png"/>
+			<POI MapID="1195" xpos="-171.907" ypos="800.01"  zpos="-502.075" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="2LaUTxHJPUmS7mEAEfgy+Q=="/>
+			<POI MapID="1195" xpos="-181.113" ypos="799.845" zpos="-500.415" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="81MsmwVawE+I7GbhsFRy6A=="/>
+			<POI MapID="1195" xpos="-191.134" ypos="800.189" zpos="-501.376" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="GXR7PTzlbUOIyZeIpdp9UA=="/>
+			<POI MapID="1195" xpos="-209.861" ypos="799.517" zpos="-490.699" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="GFGxlftcx0W+pSz8AgagUw==" iconFile="Img\DeltaplaneDepart-EN.png"/>
+			<POI MapID="1195" xpos="-184.014" ypos="781.337" zpos="-427.621" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="HHfLQyRG9Uu26Qzv/MyvkA==" iconFile="Img\Deltaplane.png" iconSize="1.25" triggerRange="15"/>
+			<POI MapID="1195" xpos="-213.689" ypos="765.662" zpos="-400.587" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="8xEXRw1SOkWiNrc/3FtJQA==" iconFile="Img\Deltaplane.png" iconSize="1.25" triggerRange="15"/>
+			<POI MapID="1195" xpos="-232.068" ypos="761.375" zpos="-403.849" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="FIP0/rk9M0OeyXOFAukLDQ==" iconFile="Img\Deltaplane.png" iconSize="1.25" triggerRange="15"/>
+			<!-- Cible 9 -->
+			<POI MapID="1195" xpos="-272.332" ypos="787.192" zpos="-390.735" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="Fdpoo+kNekWaR8P8H7BwtQ==" iconFile="Img\DeltaplaneStop.png"/>
+			<POI MapID="1195" xpos="-265.461" ypos="789.046" zpos="-383.787" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="9jOPJR6onEmbhpv67R3PsA=="/>
+
+			<!-- Point de Contrôle 3 -->
+			<POI MapID="1195" xpos="-267.66"  ypos="785.62"  zpos="-377.44"  type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="ZwrUX0LGy0KIkzpNcrD1zw==" iconFile="Img\DrapeauPassage.png" iconSize="2" heightOffset="2" behavior="0"/>
+
+			<POI MapID="1195" xpos="-270.092" ypos="788.505" zpos="-382.006" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="bujyYqvZ9UuZEdto9JANcg=="/>
+			<POI MapID="1195" xpos="-274.615" ypos="787.224" zpos="-390.312" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="yIhg3PZY6EuKciZF+F4org=="/>
+			<POI MapID="1195" xpos="-285.038" ypos="784.848" zpos="-391.218" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="jvvMRi8FW0uJx3e15usTug=="/>
+			<POI MapID="1195" xpos="-288.424" ypos="787.482" zpos="-392.482" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="9VdqUclSsUW9fHTX2CRAEw=="/>
+			<POI MapID="1195" xpos="-291.387" ypos="788.904" zpos="-391.265" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="XbopKOpmS0Gbf60Xmf9+kg=="/>
+			<POI MapID="1195" xpos="-292.265" ypos="790.648" zpos="-393.966" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="QcTxIRDWXkStn2ivE6E4Pw=="/>
+			<POI MapID="1195" xpos="-295.299" ypos="792.735" zpos="-396.373" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="WL1C8yKzEkG4V2RQOJc+UQ=="/>
+			<POI MapID="1195" xpos="-296.232" ypos="795.809" zpos="-399.144" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="UdWA6CcvQky1cbsCSyi0BQ=="/>
+			<POI MapID="1195" xpos="-292.549" ypos="796.581" zpos="-408.551" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="fR+zUWoDsUWw12GsqHUT9Q=="/>
+			<POI MapID="1195" xpos="-290.758" ypos="799.797" zpos="-413.698" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="XU7IoyJX70efW1avWmEj3A=="/>
+			<POI MapID="1195" xpos="-297.503" ypos="802.661" zpos="-416.978" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="MWp1W+ucp0Gjnd0YxUv/Tg==" iconFile="Img\Interaction.png" behavior="0"/>
+			<POI MapID="1195" xpos="-290.165" ypos="796.16"  zpos="-407.316" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="THT4lQnvgkWx8D8CIJUZ1w=="/>
+			<POI MapID="1195" xpos="-271.633" ypos="787.268" zpos="-389.93"  type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="3lvhoVfu7Eem6rSezcGZLA=="/>
+			<POI MapID="1195" xpos="-261.391" ypos="787.581" zpos="-385.146" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="vuZaAmFR6EeT6E77Mu/0MQ=="/>
+			<POI MapID="1195" xpos="-261.873" ypos="790.037" zpos="-373.476" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="cwoikbuNq0KYFRLgoF78YQ=="/>
+			<POI MapID="1195" xpos="-262.689" ypos="784.233" zpos="-363.893" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="YG6rAFGat0WWNg7HBy8DAA=="/>
+			<POI MapID="1195" xpos="-269.191" ypos="784.205" zpos="-353.892" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="9l9n259IzUafT9g7CQr1Pg=="/>
+			<POI MapID="1195" xpos="-274.662" ypos="784.211" zpos="-347.261" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="pSjFSNoDL0+SSDf7yCCgaQ=="/>
+			<POI MapID="1195" xpos="-284.383" ypos="784.371" zpos="-346.665" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="63jJmhNTzEWvxWe4Z503Hg==" iconFile="Img\DeltaplaneDepart-EN.png"/>
+			<POI MapID="1195" xpos="-291.735" ypos="771.709" zpos="-328.85"  type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="yvGsjGXQuUSmAR9A5VTHbg==" iconFile="Img\DeltaplaneStop.png"/>
+			<POI MapID="1195" xpos="-286.626" ypos="771.913" zpos="-322.61"  type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="SeHbTQf2r0OFCToPJEH9cQ=="/>
+			<POI MapID="1195" xpos="-277.752" ypos="771.365" zpos="-315.801" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="Njpx1E0JFk26BqXvqKNjkA=="/>
+			<POI MapID="1195" xpos="-264.534" ypos="771.508" zpos="-310.42"  type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="wD/eJyd9DECmaI7C8JJtDA=="/>
+			<POI MapID="1195" xpos="-254.467" ypos="770.482" zpos="-301.045" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="hBTiHLZAVkC6QY6aM9gRVg=="/>
+			<POI MapID="1195" xpos="-246.228" ypos="769.461" zpos="-293.25"  type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="zShtmmZ3xUGMRFnyVr4+xA=="/>
+			<POI MapID="1195" xpos="-238.578" ypos="768.766" zpos="-283.511" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="1wk5DPG5SEGNZYysj64aOQ=="/>
+			<POI MapID="1195" xpos="-239.628" ypos="769.321" zpos="-280.735" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="o/bvNNKRy0e9Tb20WCllNg==" iconFile="Img\Attention.png"/>
+			<POI MapID="1195" xpos="-241.652" ypos="769.417" zpos="-274.19"  type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="FcvP3glZu0a1ujvbKI3BkQ=="/>
+			<POI MapID="1195" xpos="-243.829" ypos="775.438" zpos="-263.388" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="6v9egd0iD0yPbqjioRbm6w=="/>
+			<POI MapID="1195" xpos="-246.592" ypos="778.904" zpos="-257.617" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="9TLgEJF3wE+hpYh6e5xrmw=="/>
+			<POI MapID="1195" xpos="-238.012" ypos="782.661" zpos="-252.992" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="/w9JDMknA06QLahwhmnR1g=="/>
+			<POI MapID="1195" xpos="-229.073" ypos="781.16"  zpos="-251.06"  type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="fXDlo0+iskqBqsJaYqtrcQ==" iconFile="Img\DeltaplaneDepart-EN.png"/>
+			<POI MapID="1195" xpos="-211.241" ypos="776.065" zpos="-245.782" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="hV252xh2/EetVZqu8NcetA==" iconFile="Img\DeltaplaneStop.png"/>
+			<POI MapID="1195" xpos="-215.204" ypos="779.162" zpos="-245.402" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="1lfX8lv/Bk28uiFtl0Cdow=="/>
+			<POI MapID="1195" xpos="-216.679" ypos="783.013" zpos="-240.926" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="klXu6kpzUECi35X+xSEBpA=="/>
+			<POI MapID="1195" xpos="-216.052" ypos="786.831" zpos="-234.021" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="NlpbnVNpikOACF6CujA8Dw=="/>
+			<POI MapID="1195" xpos="-221.575" ypos="789.943" zpos="-226.355" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="TrLd7dg22EeMXGTarGkMQg=="/>
+			<POI MapID="1195" xpos="-226.109" ypos="794.011" zpos="-219.017" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="xIvm/mUQtkqMiqfXXJlhPA=="/>
+			<POI MapID="1195" xpos="-233.281" ypos="794.246" zpos="-213.31"  type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="FqI/JZp0Nk2H0uoLaqwMsw=="/>
+			<POI MapID="1195" xpos="-235.406" ypos="796.513" zpos="-208.751" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="XHN6t8XgpU+CthPcHa6u+g=="/>
+			<POI MapID="1195" xpos="-224.925" ypos="795.64"  zpos="-199.142" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="Y803teBqUUWCFkiOOEEysw=="/>
+			<POI MapID="1195" xpos="-217.679" ypos="796.17"  zpos="-200.104" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="ZfPTiSOaF0meExPkZINqtA=="/>
+			<POI MapID="1195" xpos="-213.432" ypos="799.005" zpos="-202.143" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="QjkVGY1yk0iZ9LG8U/Eedg=="/>
+			<POI MapID="1195" xpos="-205.81"  ypos="798.738" zpos="-206.494" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="ql8frC7PO06uVz2wM09XaQ=="/>
+			<POI MapID="1195" xpos="-199.432" ypos="791.814" zpos="-212.826" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="XkNPhVUJMkuhfYoVpo9FYQ=="/>
+			<POI MapID="1195" xpos="-189.861" ypos="786.665" zpos="-220.138" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="GjsEejWyKkeSP2heTFOpBw=="/>
+			<POI MapID="1195" xpos="-182.437" ypos="782.465" zpos="-224.356" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="CeCDPHEX7kyyhrZaO1XOBQ=="/>
+			<POI MapID="1195" xpos="-171.691" ypos="779.655" zpos="-223.57"  type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="oJM9ewnbYkeQYohcLxTS+w=="/>
+			<POI MapID="1195" xpos="-162.413" ypos="780.12"  zpos="-218.08"  type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="Il3ehDRRhUmYr6GSEgENzQ=="/>
+			<POI MapID="1195" xpos="-158.539" ypos="784.794" zpos="-208.585" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="OgVpVXH2B0GJe8eqGGAU+Q=="/>
+			<POI MapID="1195" xpos="-160.438" ypos="786.357" zpos="-207.093" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="jp2epxzmDUup+EOeBgplcQ=="/>
+			<POI MapID="1195" xpos="-160.418" ypos="788.555" zpos="-204.879" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="4RpxIoq5yUSKKx9ClVirmg=="/>
+			<POI MapID="1195" xpos="-171.445" ypos="794.051" zpos="-188.046" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="uzgCk9R+FUG7fCMML4/O6Q=="/>
+			<POI MapID="1195" xpos="-175.008" ypos="795.755" zpos="-161.701" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="SbAYjzqMuE2+LiMcMMjReA=="/>
+			<POI MapID="1195" xpos="-174.934" ypos="793.39"  zpos="-133.238" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="8+vlg8eXVkKkynHDTdVx+w=="/>
+			<POI MapID="1195" xpos="-173.133" ypos="793.41"  zpos="-117.288" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="G1XuURbzHEC1Sv3MNvj+dw=="/>
+			<POI MapID="1195" xpos="-169.359" ypos="793.239" zpos="-90.5751" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="XvWUCLfAIEeiPbO6uEVo6A=="/>
+			<POI MapID="1195" xpos="-141.036" ypos="792.268" zpos="-90.8673" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="EFBXR9q7vka9QWWrwXWe9g=="/>
+			<POI MapID="1195" xpos="-127.383" ypos="791.878" zpos="-97.7299" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="Gefcsz5nvUmv3gAz1ipreg=="/>
+			<POI MapID="1195" xpos="-118.955" ypos="796.708" zpos="-111.464" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="VmPljSAlX0Sp8CoeppSRJA=="/>
+			<POI MapID="1195" xpos="-110.377" ypos="793.358" zpos="-133.409" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="CaDtAN+ZdUKwi3L38vTcaw=="/>
+			<POI MapID="1195" xpos="-109.215" ypos="795.023" zpos="-158.407" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="gmgYYF1FpE6jhZK6HTW4tQ=="/>
+			<POI MapID="1195" xpos="-105.55"  ypos="794.023" zpos="-168.121" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="cVX2NDxfcUe1Q7vpDbO3kg=="/>
+			<POI MapID="1195" xpos="-98.8303" ypos="791.334" zpos="-175.925" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="zUzrS4trIUOf0AHd7eDbLA=="/>
+			<POI MapID="1195" xpos="-95.3403" ypos="782.883" zpos="-184.379" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="9jOpNXxC+ESq+4uGa4Iwig==" iconFile="Img\DeltaplaneDepart-EN.png"/>
+			<POI MapID="1195" xpos="-94.1002" ypos="772.361" zpos="-189.869" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="CQC1ihYAbUaurd1U1F4XCQ==" iconFile="Img\Deltaplane.png" triggerRange="10"/>
+			<POI MapID="1195" xpos="-102.25"  ypos="766.978" zpos="-178.473" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="tb4NmpovCUW84V0S72B2Fg==" iconFile="Img\Deltaplane.png" triggerRange="10"/>
+			<POI MapID="1195" xpos="-109.738" ypos="761.425" zpos="-166.611" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="b4Ouy5WVEEian7qsDyk9KA==" iconFile="Img\Deltaplane.png" triggerRange="10"/>
+			<POI MapID="1195" xpos="-115.681" ypos="757.128" zpos="-158.233" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="iUrzg9Qu9E2REzye5NboAA==" iconFile="Img\Deltaplane.png" triggerRange="10"/>
+			<POI MapID="1195" xpos="-129.478" ypos="750.758" zpos="-139.992" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="yJqkedoB8EWyGpDiiVrNeQ==" iconFile="Img\DeltaplaneStop.png"/>
+			<POI MapID="1195" xpos="-138.635" ypos="748.179" zpos="-131.013" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="1F9VJXgKTEmitFb+KOoiBw=="/>
+			<POI MapID="1195" xpos="-154.795" ypos="744.184" zpos="-113.862" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="21z03uh+rkGIuyYuXjPLBQ=="/>
+			<POI MapID="1195" xpos="-166.905" ypos="740.021" zpos="-99.6201" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="1puedDpu2kqNoTOljMH5kQ=="/>
+			<POI MapID="1195" xpos="-179.597" ypos="736.368" zpos="-87.9034" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="jlHbSedhiUaY+zmTS41+4A=="/>
+			<POI MapID="1195" xpos="-199.263" ypos="729.751" zpos="-67.6082" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="juoa82M7gkKyrn/iNIOvgg=="/>
+			<POI MapID="1195" xpos="-205.197" ypos="734.088" zpos="-59.8162" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="RAl5l+C7E02fJXmwU9XXhQ=="/>
+			<POI MapID="1195" xpos="-212.022" ypos="739.479" zpos="-50.616"  type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="IPO/Symfz0SS6j1FPTC1Pw=="/>
+			<POI MapID="1195" xpos="-221.707" ypos="744.996" zpos="-41.7875" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="meRmsoAdEkOAy0h+fd+E5w=="/>
+			<POI MapID="1195" xpos="-226.952" ypos="747.957" zpos="-38.9515" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="fCDhjokzskmXImX5uSZsJQ==" iconFile="Img\DeltaplaneDepart-EN.png"/>
+			<POI MapID="1195" xpos="-252.368" ypos="735.202" zpos="-31.6081" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="Y8vw6g9HfU+Hpn70FoV/lg==" iconFile="Img\DeltaplaneStop.png" triggerRange="10"/>
+			<POI MapID="1195" xpos="-271.686" ypos="724.945" zpos="-26.9621" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="SL/FZ/N4WE+suednYatoUg==" triggerRange="10"/>
+			<POI MapID="1195" xpos="-299.75"  ypos="717.784" zpos="-34.7992" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="o/Lx0z9ST0+O7TYJx8QXNA=="/>
+			<POI MapID="1195" xpos="-307.343" ypos="719.027" zpos="-46.2648" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="0trKE93vLUqVB9AJMTwccw=="/>
+			<POI MapID="1195" xpos="-318.245" ypos="719.448" zpos="-60.6522" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="SH+I29KNo0iDHKg/oNdqvw=="/>
+			<POI MapID="1195" xpos="-327.213" ypos="718.275" zpos="-76.2084" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="QW76wdBBlkObCYogeBnkSg==" iconFile="Img\DeltaplaneDepart-EN.png"/>
+			<POI MapID="1195" xpos="-328.708" ypos="706.092" zpos="-86.0819" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="khH3Zykw+kOlklHJR6XyUg==" iconFile="Img\Deltaplane.png" triggerRange="10"/>
+			<POI MapID="1195" xpos="-339.216" ypos="700.055" zpos="-89.9396" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="+uu/+OXnyUGPezGdoi/vjA==" iconFile="Img\DeltaplaneStop.png" triggerRange="5"/>
+			<POI MapID="1195" xpos="-338.937" ypos="701.453" zpos="-96.8607" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="d28Ft/UL+EyzEUffac/a2A=="/>
+			<POI MapID="1195" xpos="-348.281" ypos="700.16"  zpos="-95.9054" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="U0GGgjKgC0qxhlb2qCwsSQ=="/>
+			<POI MapID="1195" xpos="-369.497" ypos="691.564" zpos="-95.5518" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="DB2cXzCgtUa8676d747pbA=="/>
+			<POI MapID="1195" xpos="-384.981" ypos="681.257" zpos="-106.112" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="cjpNL8p150y5xDlQi1ymeA=="/>
+			<POI MapID="1195" xpos="-384.038" ypos="675.759" zpos="-120.903" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="CrsM/LRXLU+Rc55q95xiQA==" iconFile="Img\PorteeDeCoeurDeChene.png" heightOffset="1"/>
+			<!-- Cible 10 -->
+			<POI MapID="1195" xpos="-423.011" ypos="674.934" zpos="-164.768" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="+Cm3wG6mO0OWTzBAeLYG6g==" iconFile="Img\DeltaplaneStop.png" triggerRange="5"/>
+			<POI MapID="1195" xpos="-432.206" ypos="675.427" zpos="-163.832" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="jWbMuJSDTU+lAK9mkBxbvw=="/>
+			<POI MapID="1195" xpos="-444.379" ypos="676.305" zpos="-177.479" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="7uNxeJGipUeib7VtKDZHiQ==" iconFile="Img\DeltaplaneDepart-EN.png"/>
+			<POI MapID="1195" xpos="-456.359" ypos="649.672" zpos="-270.956" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="56orxV1TkUOrC3N1YFpxBQ==" iconFile="Img\DeltaplaneStop.png"/>
+			<POI MapID="1195" xpos="-455.112" ypos="652.198" zpos="-279.455" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="1lVETcvp30elDNVhD14ldg=="/>
+			<POI MapID="1195" xpos="-455.056" ypos="653.927" zpos="-288.018" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="1xjb2IrM00O84g3z/iId2w==" iconFile="Img\PorteeDeCoeurDeChene.png" heightOffset="1"/>
+			<!-- Cible 11 -->
+			<POI MapID="1195" xpos="-440.795" ypos="681.227" zpos="-294.3"   type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="B6WBBRqRckuNFE33LK281A==" iconFile="Img\DeltaplaneStop.png"/>
+			<POI MapID="1195" xpos="-439.412" ypos="681.401" zpos="-300.544" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="BdHP+iZvO0mCmmGWLYavZQ=="/>
+			<POI MapID="1195" xpos="-431.116" ypos="681.807" zpos="-308.825" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="RlFG7qODTU6hjgSB0BYFNw==" iconFile="Img\DeltaplaneDepart-EN.png"/>
+			<POI MapID="1195" xpos="-405.183" ypos="669.352" zpos="-345.574" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="RHW0NAmt0E+/lImW0VQq1w==" iconFile="Img\DeltaplaneStop.png"/>
+			<POI MapID="1195" xpos="-409.426" ypos="673.402" zpos="-348.621" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="JesQxn4Xek+5v9r5nIcEUA=="/>
+			<POI MapID="1195" xpos="-407.664" ypos="680.711" zpos="-357.471" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="xOqIMd4E202heRP/ggNRqw=="/>
+			<POI MapID="1195" xpos="-405.882" ypos="685.352" zpos="-367.379" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="LWQ5ImInE0y20GPauwjz9A=="/>
+			<POI MapID="1195" xpos="-401.032" ypos="687.904" zpos="-374.656" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="zFebQcSrpkmz/ZsZYsYMOQ=="/>
+			<POI MapID="1195" xpos="-402.415" ypos="689.556" zpos="-377.825" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="ki+CRjg+ck2KnafrRQrbLw=="/>
+			<POI MapID="1195" xpos="-398.284" ypos="690.612" zpos="-378.304" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="zv8rjm9s0U+5Gkm6u/vSKA==" iconFile="Img\PorteeDeCoeurDeChene.png" heightOffset="1"/>
+			<!-- Cible 12 -->
+			<POI MapID="1195" xpos="-381.65"  ypos="718.307" zpos="-386.594" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="p0QIGZBYWUGUuGckDKasOg==" iconFile="Img\DeltaplaneStop.png" triggerRange="5"/>
+			<POI MapID="1195" xpos="-380.29"  ypos="718.025" zpos="-391.468" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="av5lfclOVUucxWDm4ZSLpA=="/>
+			<POI MapID="1195" xpos="-380.11"  ypos="718.03"  zpos="-398.5"   type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="3xIpevqMD02eio+fxpOW5w=="/>
+			<POI MapID="1195" xpos="-379.44"  ypos="719.43"  zpos="-403.69"  type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="fo3oxM1gjk6q+eQdzdOXFQ=="/>
+			<POI MapID="1195" xpos="-377.84"  ypos="719.66"  zpos="-413.67"  type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="1warubApKkqqMtV8eTXVQg==" iconFile="Img\DeltaplaneDepart-EN.png"/>
+			<POI MapID="1195" xpos="-390.34"  ypos="713.94"  zpos="-436.04"  type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="nHcXIwa2+EqmFQvSuBih+w==" iconFile="Img\DeltaplaneStop.png"/>
+			<POI MapID="1195" xpos="-398.787" ypos="719.835" zpos="-439.828" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="4V6bJQTkQkyVoAhCWnYlFQ=="/>
+			<POI MapID="1195" xpos="-407.295" ypos="721.042" zpos="-442.283" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="ftWx5bpNJ0iyA4vPpM6yYw=="/>
+			<POI MapID="1195" xpos="-416.681" ypos="724.751" zpos="-440.192" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="7HOhYH+uakW1zV4aHip+dg=="/>
+			<POI MapID="1195" xpos="-422.431" ypos="730.345" zpos="-441.673" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="1eI4w6jyKUeAfolQmIra9A=="/>
+			<POI MapID="1195" xpos="-425.806" ypos="733.63"  zpos="-442.134" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="i0KjrUSAskOmuVFc08YpXA=="/>
+			<POI MapID="1195" xpos="-427.092" ypos="741.233" zpos="-451.842" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="W9S6orMFqkSJ6CrSbmnkWQ=="/>
+			<POI MapID="1195" xpos="-425.255" ypos="741.93"  zpos="-457.337" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="qgRRuiQnqkufc7CGTgbjrA=="/>
+			<POI MapID="1195" xpos="-430.623" ypos="740.646" zpos="-464.97"  type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="5JvBQeAr6kyYHDoRA/DYxQ=="/>
+			<POI MapID="1195" xpos="-432.363" ypos="737.294" zpos="-473.555" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="5TSbIEPVvkabTqknIsHibQ==" iconFile="Img\DeltaplaneDepart-EN.png"/>
+			<POI MapID="1195" xpos="-416.913" ypos="726.979" zpos="-487.521" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="ixQRai8wcUWfA036XKqdcQ==" iconFile="Img\DeltaplaneStop.png"/>
+			<POI MapID="1195" xpos="-413.815" ypos="729.055" zpos="-495.077" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="uQV2N1B5JU6BFPbxJl62Nw=="/>
+			<POI MapID="1195" xpos="-421.178" ypos="730.298" zpos="-499.686" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="QFGxzry6NkWcv6u0nVT+BA=="/>
+			<POI MapID="1195" xpos="-429.164" ypos="735.08"  zpos="-504.217" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="wCkITZhLjUSwZBzapvX2Tw=="/>
+			<POI MapID="1195" xpos="-435.447" ypos="736.245" zpos="-511.747" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="XmfKv/0s00aC0Sas08PAbg=="/>
+			<POI MapID="1195" xpos="-439.9"   ypos="732.742" zpos="-517.509" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="5InQK2dHS0K3mEFUBqQsFA=="/>
+			<POI MapID="1195" xpos="-443.576" ypos="729.574" zpos="-522.875" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="9Om/osYoNkSDLAN3ULJx/g=="/>
+			<POI MapID="1195" xpos="-441.534" ypos="727.927" zpos="-531.751" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="T0tAxDjeYU26ZHarTidzew=="/>
+		</Route>
+
+		<!-- Cibles -->
+		<!--  1 --><POI MapID="1195" xpos="-56.0296" ypos="668.304" zpos="-255.331" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="Pz4xTqfS3UGf/c3iiUT3PA==" iconFile="Img\Cible.png" minSize="15" fadeNear="2800" fadeFar="3800"/>
+		<!--  2 --><POI MapID="1195" xpos="77.5993"  ypos="687.666" zpos="-271.823" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="R1+hv6Dad0ejO2UW/sEJcg==" iconFile="Img\Cible.png" minSize="15" fadeNear="2800" fadeFar="3800"/>
+		<!--  3 --><POI MapID="1195" xpos="192.142"  ypos="796.464" zpos="-244.972" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="LzXHgMlze0+zEER+cMgG8w==" iconFile="Img\Cible.png" minSize="15" fadeNear="3000" fadeFar="4000"/>
+		<!--  4 --><POI MapID="1195" xpos="166.791"  ypos="798.735" zpos="-185.869" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="Wo+/fMcUa0SkAZpIBjkGmg==" iconFile="Img\Cible.png" minSize="15" fadeNear="2800" fadeFar="3800"/>
+		<!--  5 --><POI MapID="1195" xpos="215.717"  ypos="793.74"  zpos="-307.66"  type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="LKn+kIbLxkaDv5KOCx8PqA==" iconFile="Img\Cible.png" minSize="15" fadeNear="2800" fadeFar="3800"/>
+		<!--  6 --><POI MapID="1195" xpos="112.575"  ypos="770.021" zpos="-503.013" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="E69iX8S0VUiJD17ef6khkQ==" iconFile="Img\Cible.png" minSize="25" fadeNear="2800" fadeFar="3800"/>
+		<!--  7 --><POI MapID="1195" xpos="4.20122"  ypos="814.869" zpos="-605.746" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="HorSt2kS/E2BKDKhh+Lm3Q==" iconFile="Img\Cible.png" minSize="15" fadeNear="2800" fadeFar="3800"/>
+		<!--  8 --><POI MapID="1195" xpos="-129.431" ypos="831.04"  zpos="-490.882" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="q3v7pEMYi0uofRLnpAjczQ==" iconFile="Img\Cible.png" minSize="15" fadeNear="2800" fadeFar="3800"/>
+		<!--  9 --><POI MapID="1195" xpos="-289.498" ypos="805.102" zpos="-400.561" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="Vav48jQQ9UiQqb5MI+ADiQ==" iconFile="Img\Cible.png" minSize="15" fadeNear="3000" fadeFar="6000"/>
+		<!-- 10 --><POI MapID="1195" xpos="-405.431" ypos="688.06"  zpos="-152.289" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="BbIsEJBB0USV7vyP5Ddcqg==" iconFile="Img\Cible.png" minSize="15" fadeNear="2800" fadeFar="3800"/>
+		<!-- 11 --><POI MapID="1195" xpos="-448.567" ypos="681.953" zpos="-292.641" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="LRSjLENM1EWUFigsRurp1Q==" iconFile="Img\Cible.png" minSize="15" fadeNear="2800" fadeFar="3800"/>
+		<!-- 12 --><POI MapID="1195" xpos="-379.052" ypos="730.779" zpos="-380.941" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="EkgZZbCZ+USkDzSiBZb/Bg==" iconFile="Img\Cible.png" minSize="15" fadeNear="2800" fadeFar="3800"/>
+
+		<!-- Indication(s) -->
+		<POI MapID="1195" xpos="-100.248" ypos="782.939" zpos="-189.841" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="tqzw1pjUuke/kLRNbs/Czg==" iconFile="Img\AscensionBrulanteInfo-EN.png" iconSize="2" fadeNear="1500" fadeFar="1800"/>
+
+		<!-- Coffre -->
+		<POI MapID="1195" xpos="-437.2" ypos="726.94" zpos="-538.96" type="chroniques.saison_3.ep5_point_d_ignition.ascension_brulante" GUID="XbbreWY68Emr0brI3ldtMg==" iconFile="Img\CoffrePuzzle.png" iconSize="1" heightOffset="3" behavior="7"/>
+
+	</POIs>
+</OverlayData>

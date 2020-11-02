@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+POIs: GW2Info.net
+Date: 2016/11/29
+-->
+<OverlayData>
+	<MarkerCategory name="festivals" DisplayName="Seasonal Events">
+		<MarkerCategory name="halloween" DisplayName="Halloween">
+			<MarkerCategory name="sculpteur_de_citrouille" DisplayName="Pumpkin Carving" iconFile="Img\Citrouille.png" fadeNear="10000" fadeFar="20000" behavior="1">
+				<MarkerCategory name="labyrinthe_du_roi_dement" DisplayName="Mad King's Maze"/>
+				<MarkerCategory name="foret_de_caledon" DisplayName="Caledon Forest"/>
+				<MarkerCategory name="champs_de_gendarran" DisplayName="Gendarran Fields"/>
+				<MarkerCategory name="collines_de_kessex" DisplayName="Kessex Hills"/>
+				<MarkerCategory name="arche_du_lion" DisplayName="Lion's Arch"/>
+				<MarkerCategory name="province_de_metrica" DisplayName="Metrica Province"/>
+				<MarkerCategory name="plaines_d_ashford" DisplayName="Plains of Ashford"/>
+				<MarkerCategory name="vallee_de_la_reine" DisplayName="Queensdale"/>
+				<MarkerCategory name="contreforts_du_voyageur" DisplayName="Wayfarer Foothills"/>
+			</MarkerCategory>
+		</MarkerCategory>
+	</MarkerCategory>
+
+	<POIs>
+
+		<!--
+		Festival - Halloween : Labyrinthe du Roi Dement
+		-->
+
+		<POI MapID="866" xpos="-137.505" ypos="180.849" zpos="197.407" type="festivals.halloween.sculpteur_de_citrouille.labyrinthe_du_roi_dement" GUID="ZJvmr2qZ90uf9vS601zCIw=="/>
+		<POI MapID="866" xpos="-140.051" ypos="175.774" zpos="75.239" type="festivals.halloween.sculpteur_de_citrouille.labyrinthe_du_roi_dement" GUID="GA/Eqqh2CUSquK+bNEyI7Q=="/>
+		<POI MapID="866" xpos="-145.301" ypos="177.101" zpos="-163.262" type="festivals.halloween.sculpteur_de_citrouille.labyrinthe_du_roi_dement" GUID="r7GLHFPfMEOtopI8Kh4Qsg=="/>
+		<POI MapID="866" xpos="-168.425" ypos="175.037" zpos="16.9772" type="festivals.halloween.sculpteur_de_citrouille.labyrinthe_du_roi_dement" GUID="qia4tJn8MUafv9B5k84dmA=="/>
+		<POI MapID="866" xpos="-173.113" ypos="170.314" zpos="-175.176" type="festivals.halloween.sculpteur_de_citrouille.labyrinthe_du_roi_dement" GUID="tS6SQgdLpE6hn7bIMdgcBA=="/>
+		<POI MapID="866" xpos="-179.421" ypos="175.148" zpos="-49.4256" type="festivals.halloween.sculpteur_de_citrouille.labyrinthe_du_roi_dement" GUID="edcNYoWvmEi5Nph/1IYevg=="/>
+		<POI MapID="866" xpos="-182.346" ypos="175.727" zpos="38.5998" type="festivals.halloween.sculpteur_de_citrouille.labyrinthe_du_roi_dement" GUID="dUVSAnaL50y05dS87JFgLA=="/>
+		<POI MapID="866" xpos="-30.7116" ypos="176.303" zpos="204.146" type="festivals.halloween.sculpteur_de_citrouille.labyrinthe_du_roi_dement" GUID="zgH7XVwdskGaN/4dVGH8pg=="/>
+		<POI MapID="866" xpos="-32.6928" ypos="175.777" zpos="-163.252" type="festivals.halloween.sculpteur_de_citrouille.labyrinthe_du_roi_dement" GUID="VKYCzkm+0kaQd/Dx0SZ86g=="/>
+		<POI MapID="866" xpos="-49.877" ypos="193.119" zpos="-47.0178" type="festivals.halloween.sculpteur_de_citrouille.labyrinthe_du_roi_dement" GUID="CO7myeVgwk6psa4mGn7bRg=="/>
+		<POI MapID="866" xpos="-56.6688" ypos="171.399" zpos="-189.293" type="festivals.halloween.sculpteur_de_citrouille.labyrinthe_du_roi_dement" GUID="pZznTOm+RkibX/d2WDBrQQ=="/>
+		<POI MapID="866" xpos="-72.9586" ypos="175.259" zpos="-166.864" type="festivals.halloween.sculpteur_de_citrouille.labyrinthe_du_roi_dement" GUID="smM+A4zO4EGSeC+nrI1uhw=="/>
+		<POI MapID="866" xpos="10.4068" ypos="203.97" zpos="30.7521" type="festivals.halloween.sculpteur_de_citrouille.labyrinthe_du_roi_dement" GUID="nOiByXGkaUySM5ioLdb8Jg=="/>
+		<POI MapID="866" xpos="114.024" ypos="177.388" zpos="-21.3772" type="festivals.halloween.sculpteur_de_citrouille.labyrinthe_du_roi_dement" GUID="lCFigSRC0EKyM9OtDYb6MQ=="/>
+		<POI MapID="866" xpos="129.114" ypos="177.853" zpos="20.7063" type="festivals.halloween.sculpteur_de_citrouille.labyrinthe_du_roi_dement" GUID="lLQpse+AIUSuJ/MSTG5XGg=="/>
+		<POI MapID="866" xpos="13.959" ypos="192.405" zpos="51.3836" type="festivals.halloween.sculpteur_de_citrouille.labyrinthe_du_roi_dement" GUID="9bdFh29r2UKC3fqyky5FDA=="/>
+		<POI MapID="866" xpos="141.132" ypos="176.247" zpos="-132.015" type="festivals.halloween.sculpteur_de_citrouille.labyrinthe_du_roi_dement" GUID="jf/ahIXRpUeRcF98hlhuig=="/>
+		<POI MapID="866" xpos="15.3296" ypos="178.197" zpos="-104.445" type="festivals.halloween.sculpteur_de_citrouille.labyrinthe_du_roi_dement" GUID="BARONy5S0kOV29EX1ol0Nw=="/>
+		<POI MapID="866" xpos="156.358" ypos="179.852" zpos="-170.177" type="festivals.halloween.sculpteur_de_citrouille.labyrinthe_du_roi_dement" GUID="HayZhd5SAkaG5eIPbbI/Xw=="/>
+		<POI MapID="866" xpos="179.945" ypos="174.705" zpos="132.103" type="festivals.halloween.sculpteur_de_citrouille.labyrinthe_du_roi_dement" GUID="6yiiDZ53y0iPryDuzBmdhw=="/>
+		<POI MapID="866" xpos="195.864" ypos="183.039" zpos="31.4787" type="festivals.halloween.sculpteur_de_citrouille.labyrinthe_du_roi_dement" GUID="sIvrYhKjeE+gb8Idmr5ZgQ=="/>
+		<POI MapID="866" xpos="46.6961" ypos="193.294" zpos="-61.9072" type="festivals.halloween.sculpteur_de_citrouille.labyrinthe_du_roi_dement" GUID="kx5lIqPpjkW/cixp2zclUA=="/>
+		<POI MapID="866" xpos="48.298" ypos="178.377" zpos="-117.392" type="festivals.halloween.sculpteur_de_citrouille.labyrinthe_du_roi_dement" GUID="74KM7LqowkOIOXBD43/N7Q=="/>
+		<POI MapID="866" xpos="49.8308" ypos="195.033" zpos="48.5516" type="festivals.halloween.sculpteur_de_citrouille.labyrinthe_du_roi_dement" GUID="9kIXKwQQtEmFDhFalOVFNw=="/>
+		<POI MapID="866" xpos="71.23" ypos="174.823" zpos="200.882" type="festivals.halloween.sculpteur_de_citrouille.labyrinthe_du_roi_dement" GUID="Rlqe6wpvpEa2Nvj7IowaWw=="/>
+		<POI MapID="866" xpos="75.101" ypos="180.535" zpos="-135.001" type="festivals.halloween.sculpteur_de_citrouille.labyrinthe_du_roi_dement" GUID="YHgZ1XR0uUiEtd94l6vhUg=="/>
+		<POI MapID="866" xpos="98.5462" ypos="170.534" zpos="-210.283" type="festivals.halloween.sculpteur_de_citrouille.labyrinthe_du_roi_dement" GUID="POqhHpbrTEaGXcYQO8SGOA=="/>
+	
+		<!--
+		Festival - Halloween : Arche du Lion
+		-->
+
+		<POI MapID="50" xpos="-239.7" ypos="13.386" zpos="274.189" type="festivals.halloween.sculpteur_de_citrouille.arche_du_lion" GUID="FTIhnM5HtkuRsvvmm1X65A=="/>
+		<POI MapID="50" xpos="-258.944" ypos="11.5632" zpos="111.273" type="festivals.halloween.sculpteur_de_citrouille.arche_du_lion" GUID="8cQFIw6kR0+5yqmx3BzUfw=="/>
+		<POI MapID="50" xpos="-281.083" ypos="46.1268" zpos="420.164" type="festivals.halloween.sculpteur_de_citrouille.arche_du_lion" GUID="bkM7xtEYpECX2ikhD02ftQ=="/>
+		<POI MapID="50" xpos="-296.99" ypos="46.5342" zpos="198.95" type="festivals.halloween.sculpteur_de_citrouille.arche_du_lion" GUID="uOH+4HmTR0OhU/WIV3tOEg=="/>
+		<POI MapID="50" xpos="-391.692" ypos="2.41601" zpos="218.053" type="festivals.halloween.sculpteur_de_citrouille.arche_du_lion" GUID="iPZOuXBCZEakt+3mzo1rWQ=="/>
+		<POI MapID="50" xpos="-486.058" ypos="77.0991" zpos="273.82" type="festivals.halloween.sculpteur_de_citrouille.arche_du_lion" GUID="8MsXe8ETykK+aUcrj2eelw=="/>
+		<POI MapID="50" xpos="-6.01595" ypos="70.1659" zpos="339.431" type="festivals.halloween.sculpteur_de_citrouille.arche_du_lion" GUID="3i9Gi9CXbk+WsGu80etNFg=="/>
+		<POI MapID="50" xpos="-60.8284" ypos="22.1264" zpos="25.2157" type="festivals.halloween.sculpteur_de_citrouille.arche_du_lion" GUID="zIB5b5Nam06Wn5BjiK8NOg=="/>
+		<POI MapID="50" xpos="-8.01378" ypos="0.805118" zpos="-21.8132" type="festivals.halloween.sculpteur_de_citrouille.arche_du_lion" GUID="wZqsP1QZQEePitmUUtsK+g=="/>
+		<POI MapID="50" xpos="-83.3034" ypos="23.375" zpos="297.189" type="festivals.halloween.sculpteur_de_citrouille.arche_du_lion" GUID="tqGU2JipeEqAWRpSacbeCg=="/>
+		<POI MapID="50" xpos="155.915" ypos="30.393" zpos="-142.787" type="festivals.halloween.sculpteur_de_citrouille.arche_du_lion" GUID="RGf3icsx/EONfBegARpFcQ=="/>
+		<POI MapID="50" xpos="44.7791" ypos="21.9465" zpos="322.392" type="festivals.halloween.sculpteur_de_citrouille.arche_du_lion" GUID="tVMNGbXSQES1kh6X3IlaZg=="/>
+		<POI MapID="50" xpos="575.91" ypos="66.1808" zpos="-23.7689" type="festivals.halloween.sculpteur_de_citrouille.arche_du_lion" GUID="BRxd4TrCr0W9+cdNx9iOpg=="/>
+
+		<!--
+		Festival - Halloween : Forêt de Caledon
+		-->
+		
+		<POI MapID="34" xpos="-120.813" ypos="1.99381" zpos="-976.488" type="festivals.halloween.sculpteur_de_citrouille.foret_de_caledon" GUID="Cd9gbY5qwkmIespHIlD/cA=="/>
+		<POI MapID="34" xpos="-170.403" ypos="5.63516" zpos="-1000.05" type="festivals.halloween.sculpteur_de_citrouille.foret_de_caledon" GUID="I6h+L8lCDE+nYLyogkM3Pg=="/>
+		<POI MapID="34" xpos="-211.149" ypos="2.11994" zpos="1050.39" type="festivals.halloween.sculpteur_de_citrouille.foret_de_caledon" GUID="5/d3Yqi9wUSZ1v+rf9T+Gw=="/>
+		<POI MapID="34" xpos="-219.195" ypos="10.2908" zpos="-158.955" type="festivals.halloween.sculpteur_de_citrouille.foret_de_caledon" GUID="954AEzTbIUuaGZqE90ST9Q=="/>
+		<POI MapID="34" xpos="-41.4405" ypos="5.75468" zpos="-4.004" type="festivals.halloween.sculpteur_de_citrouille.foret_de_caledon" GUID="hyXASQ04TUODc+6v59dXwA=="/>
+		<POI MapID="34" xpos="-444.272" ypos="5.81072" zpos="1141.05" type="festivals.halloween.sculpteur_de_citrouille.foret_de_caledon" GUID="2wC/lgDy9UGx5x8nfxA60g=="/>
+		<POI MapID="34" xpos="-82.8677" ypos="16.1997" zpos="872.844" type="festivals.halloween.sculpteur_de_citrouille.foret_de_caledon" GUID="VANqHmE9skSZe4Cp1QJguw=="/>
+		<POI MapID="34" xpos="-94.4248" ypos="1.60918" zpos="-951.692" type="festivals.halloween.sculpteur_de_citrouille.foret_de_caledon" GUID="pwbIeZhayUq1Y9MC0kn4lA=="/>
+		<POI MapID="34" xpos="0.112122" ypos="20.4839" zpos="-652.946" type="festivals.halloween.sculpteur_de_citrouille.foret_de_caledon" GUID="BodL8VuT5EmpM479YU0HkA=="/>
+		<POI MapID="34" xpos="14.0562" ypos="25.2088" zpos="-324.887" type="festivals.halloween.sculpteur_de_citrouille.foret_de_caledon" GUID="ZHPkKM5mI0eJjKOQsgq6Zw=="/>
+		<POI MapID="34" xpos="18.9933" ypos="38.3417" zpos="-262.301" type="festivals.halloween.sculpteur_de_citrouille.foret_de_caledon" GUID="BH2AQfO+0EmAh3VzvTeOKw=="/>
+		<POI MapID="34" xpos="235.176" ypos="11.5503" zpos="823.708" type="festivals.halloween.sculpteur_de_citrouille.foret_de_caledon" GUID="qS0gFGXdJkKSA8I77cZH5A=="/>
+		<POI MapID="34" xpos="264.452" ypos="19.0108" zpos="988.235" type="festivals.halloween.sculpteur_de_citrouille.foret_de_caledon" GUID="c+8seicDUE6AtSQv0rUyUA=="/>
+		<POI MapID="34" xpos="340.087" ypos="9.63853" zpos="1056.17" type="festivals.halloween.sculpteur_de_citrouille.foret_de_caledon" GUID="ad3WEF4uG0i3Ps1EnE8aAA=="/>
+		<POI MapID="34" xpos="357.426" ypos="42.6183" zpos="-690.648" type="festivals.halloween.sculpteur_de_citrouille.foret_de_caledon" GUID="Ldh+64ZlrESrRljla5wF6A=="/>
+		<POI MapID="34" xpos="401.05" ypos="2.37207" zpos="-154.956" type="festivals.halloween.sculpteur_de_citrouille.foret_de_caledon" GUID="WcMx5WpEokG+0nciM/yaow=="/>
+		<POI MapID="34" xpos="422.079" ypos="49.1494" zpos="-622.299" type="festivals.halloween.sculpteur_de_citrouille.foret_de_caledon" GUID="OoDhfsV0okmwz+xlLeNrlg=="/>
+		<POI MapID="34" xpos="456.39" ypos="20.7771" zpos="236.756" type="festivals.halloween.sculpteur_de_citrouille.foret_de_caledon" GUID="3+vjOMPAnk2WsUxbzv+oHg=="/>
+		<POI MapID="34" xpos="-455.786" ypos="3.33405" zpos="-671.646" type="festivals.halloween.sculpteur_de_citrouille.foret_de_caledon" GUID="Q8BCIoVuYkufQIzuwH33Ag=="/>
+		<POI MapID="34" xpos="-214.132" ypos="32.9606" zpos="-326.501" type="festivals.halloween.sculpteur_de_citrouille.foret_de_caledon" GUID="ikI7vzHkbEGwMtaGkSbtnQ=="/>
+		<POI MapID="34" xpos="-270.039" ypos="1.6925" zpos="-520.731" type="festivals.halloween.sculpteur_de_citrouille.foret_de_caledon" GUID="z4dNhXv3eE2LAeJe32aGUg=="/>
+		<POI MapID="34" xpos="384.785" ypos="2.44756" zpos="-1081.85" type="festivals.halloween.sculpteur_de_citrouille.foret_de_caledon" GUID="6L9o56F0Q0qSmc3C56RfSA=="/>
+		<POI MapID="34" xpos="567.866" ypos="16.3186" zpos="-884.125" type="festivals.halloween.sculpteur_de_citrouille.foret_de_caledon" GUID="UyrnzL0Vk02CsBLReSqg3w=="/>
+		<POI MapID="34" xpos="-377.54" ypos="12.2901" zpos="-54.2399" type="festivals.halloween.sculpteur_de_citrouille.foret_de_caledon" GUID="5vFZ6ab7Z0ivOkl5jxb1lQ=="/>
+		<POI MapID="34" xpos="215.779" ypos="10.4646" zpos="500.635" type="festivals.halloween.sculpteur_de_citrouille.foret_de_caledon" GUID="XXg230pmekeK845jBw3Wtg=="/>
+		<POI MapID="34" xpos="412.974" ypos="1.6563" zpos="325.104" type="festivals.halloween.sculpteur_de_citrouille.foret_de_caledon" GUID="7zmChxOoK0Cmd3usxqxm2A=="/>
+		<POI MapID="34" xpos="548.877" ypos="10.3002" zpos="896.328" type="festivals.halloween.sculpteur_de_citrouille.foret_de_caledon" GUID="WJaq99GVlUGTWE3sDPqu3g=="/>
+		<POI MapID="34" xpos="439.773" ypos="2.09022" zpos="843.862" type="festivals.halloween.sculpteur_de_citrouille.foret_de_caledon" GUID="WkddeCQ9MUe+YG6krch7Fw=="/>
+		<POI MapID="34" xpos="20.6324" ypos="4.90201" zpos="1197.71" type="festivals.halloween.sculpteur_de_citrouille.foret_de_caledon" GUID="EWjHJoBX1kS6iPY3KYHZYQ=="/>
+		<POI MapID="34" xpos="-4.13586" ypos="10.6303" zpos="1080.51" type="festivals.halloween.sculpteur_de_citrouille.foret_de_caledon" GUID="K51R8IIUP0KfejR6bhuArg=="/>
+		
+		<!--
+		Festival - Halloween : Plaines d'Ashford
+		-->
+		
+		<POI MapID="19" xpos="-1.67564" ypos="52.8635" zpos="165.012" type="festivals.halloween.sculpteur_de_citrouille.plaines_d_ashford" GUID="Jgg/zQgj50m9PyWDrxgPJg=="/>
+		<POI MapID="19" xpos="-1003.06" ypos="41.4096" zpos="278.883" type="festivals.halloween.sculpteur_de_citrouille.plaines_d_ashford" GUID="DjYAS8MvrkC5bK6g7PLfeg=="/>
+		<POI MapID="19" xpos="-1058.21" ypos="55.2676" zpos="516.331" type="festivals.halloween.sculpteur_de_citrouille.plaines_d_ashford" GUID="XS+RTzhWcku5gjInWyK79g=="/>
+		<POI MapID="19" xpos="-1184.14" ypos="73.1672" zpos="546.697" type="festivals.halloween.sculpteur_de_citrouille.plaines_d_ashford" GUID="OSqdGivWP02w+vyYSX+8AA=="/>
+		<POI MapID="19" xpos="-292.132" ypos="4.83045" zpos="-462.783" type="festivals.halloween.sculpteur_de_citrouille.plaines_d_ashford" GUID="g2zcVNMGzkaNtw5ilK0M3g=="/>
+		<POI MapID="19" xpos="-378.262" ypos="31.4104" zpos="-543.203" type="festivals.halloween.sculpteur_de_citrouille.plaines_d_ashford" GUID="0h2QZt+z/k+/X7X9UIm6Ag=="/>
+		<POI MapID="19" xpos="-485.712" ypos="55.4607" zpos="79.2022" type="festivals.halloween.sculpteur_de_citrouille.plaines_d_ashford" GUID="eo8zrqK+lEefcu0d/wze+A=="/>
+		<POI MapID="19" xpos="-494.23" ypos="57.2966" zpos="-383.834" type="festivals.halloween.sculpteur_de_citrouille.plaines_d_ashford" GUID="Jrj+h04SbECjSdRoutwzUw=="/>
+		<POI MapID="19" xpos="-515.199" ypos="60.073" zpos="-187.778" type="festivals.halloween.sculpteur_de_citrouille.plaines_d_ashford" GUID="sn3/d4Js+Eug5CS+xQ8uiQ=="/>
+		<POI MapID="19" xpos="-551.22" ypos="3.06795" zpos="37.5999" type="festivals.halloween.sculpteur_de_citrouille.plaines_d_ashford" GUID="7BCrPo2A4UiMqcUdHpqkwg=="/>
+		<POI MapID="19" xpos="-601.976" ypos="60.1889" zpos="-148.252" type="festivals.halloween.sculpteur_de_citrouille.plaines_d_ashford" GUID="O8h98p7xKUaz0LjwGKOuXw=="/>
+		<POI MapID="19" xpos="-646.583" ypos="42.8698" zpos="233.744" type="festivals.halloween.sculpteur_de_citrouille.plaines_d_ashford" GUID="u7+zGxk34kqVwVeZIkOXrw=="/>
+		<POI MapID="19" xpos="-68.0159" ypos="20.3306" zpos="-58.216" type="festivals.halloween.sculpteur_de_citrouille.plaines_d_ashford" GUID="ldVdKpMD60qKr9A3Ovv21Q=="/>
+		<POI MapID="19" xpos="-790.569" ypos="21.6075" zpos="484.265" type="festivals.halloween.sculpteur_de_citrouille.plaines_d_ashford" GUID="dKW0J3qKgE6OBntHELWWdA=="/>
+		<POI MapID="19" xpos="-884.553" ypos="42.0132" zpos="300.057" type="festivals.halloween.sculpteur_de_citrouille.plaines_d_ashford" GUID="9curgVJEE0SPp7L/eYkC+Q=="/>
+		<POI MapID="19" xpos="-912.082" ypos="45.3137" zpos="-195.428" type="festivals.halloween.sculpteur_de_citrouille.plaines_d_ashford" GUID="if7bGtYAHECADY79kGsdzw=="/>
+		<POI MapID="19" xpos="-973.177" ypos="38.1284" zpos="58.8229" type="festivals.halloween.sculpteur_de_citrouille.plaines_d_ashford" GUID="nIQngMk5sE6f94jugxlI9g=="/>
+		<POI MapID="19" xpos="-985.305" ypos="36.9597" zpos="-428.953" type="festivals.halloween.sculpteur_de_citrouille.plaines_d_ashford" GUID="KFZl0oGEjUewfsjdwB8tQA=="/>
+		<POI MapID="19" xpos="1073.12" ypos="32.2649" zpos="218.137" type="festivals.halloween.sculpteur_de_citrouille.plaines_d_ashford" GUID="0jBufKcSvEKlvWT3KHN4uQ=="/>
+		<POI MapID="19" xpos="158.37" ypos="42.7658" zpos="-339.543" type="festivals.halloween.sculpteur_de_citrouille.plaines_d_ashford" GUID="QvGSvlKTLUGXkjmiMZNrUw=="/>
+		<POI MapID="19" xpos="340.742" ypos="31.8911" zpos="383.39" type="festivals.halloween.sculpteur_de_citrouille.plaines_d_ashford" GUID="Yxr3+duE4ESg8iSGbTj4DA=="/>
+		<POI MapID="19" xpos="342.983" ypos="4.65163" zpos="-331.001" type="festivals.halloween.sculpteur_de_citrouille.plaines_d_ashford" GUID="9g/3igqv1kKirm9BCeE29w=="/>
+		<POI MapID="19" xpos="361.638" ypos="49.3291" zpos="95.0299" type="festivals.halloween.sculpteur_de_citrouille.plaines_d_ashford" GUID="XSt5vwpow0uBmJB+l2XFew=="/>
+		<POI MapID="19" xpos="377.949" ypos="33.1998" zpos="137.081" type="festivals.halloween.sculpteur_de_citrouille.plaines_d_ashford" GUID="JBlXuG8P+ki5JmMXBWll+w=="/>
+		<POI MapID="19" xpos="389.533" ypos="35.6984" zpos="570.276" type="festivals.halloween.sculpteur_de_citrouille.plaines_d_ashford" GUID="JHvalRZteEG+8Qm5q1E4og=="/>
+		<POI MapID="19" xpos="579.007" ypos="5.658" zpos="-203.986" type="festivals.halloween.sculpteur_de_citrouille.plaines_d_ashford" GUID="sKsseIg4ikOi54npCO02QQ=="/>
+		<POI MapID="19" xpos="80.6068" ypos="41.5378" zpos="-259.96" type="festivals.halloween.sculpteur_de_citrouille.plaines_d_ashford" GUID="KJGWVi1/N0OTi8neUi2alQ=="/>
+		<POI MapID="19" xpos="937.175" ypos="25.8505" zpos="215.799" type="festivals.halloween.sculpteur_de_citrouille.plaines_d_ashford" GUID="XyNvYxo0z0SiuhNEXJfVNw=="/>
+		<POI MapID="19" xpos="939.672" ypos="76.7933" zpos="523.132" type="festivals.halloween.sculpteur_de_citrouille.plaines_d_ashford" GUID="sxNTcVNFDUmlp9oKFDj8KQ=="/>
+		<POI MapID="19" xpos="952.205" ypos="45.1919" zpos="-259.11" type="festivals.halloween.sculpteur_de_citrouille.plaines_d_ashford" GUID="WlmmdCAmYkiCb1MNlTY0fA=="/>
+
+		<!--
+		Festival - Halloween : Province de Métrica
+		-->
+		
+		<POI MapID="35" xpos="-368.177" ypos="60.6551" zpos="-771.759" type="festivals.halloween.sculpteur_de_citrouille.province_de_metrica" GUID="t3z7cbCjikm4wicrATS8NA=="/>
+		<POI MapID="35" xpos="-146.708" ypos="35.9302" zpos="-696.473" type="festivals.halloween.sculpteur_de_citrouille.province_de_metrica" GUID="6yAjixRkuU6D83VLeHqXWA=="/>
+		<POI MapID="35" xpos="-177.867" ypos="30.4918" zpos="-641.29" type="festivals.halloween.sculpteur_de_citrouille.province_de_metrica" GUID="vo9D2MSN+UG1nXMzXTJpPQ=="/>
+		<POI MapID="35" xpos="-204.885" ypos="9.16822" zpos="707.005" type="festivals.halloween.sculpteur_de_citrouille.province_de_metrica" GUID="2N1bBlcHYEucE+voqK4seA=="/>
+		<POI MapID="35" xpos="-27.9038" ypos="3.1103" zpos="0.350588" type="festivals.halloween.sculpteur_de_citrouille.province_de_metrica" GUID="Vi+E6dAHPU2hwR9oIzBtqA=="/>
+		<POI MapID="35" xpos="-37.6811" ypos="50.2659" zpos="-112.681" type="festivals.halloween.sculpteur_de_citrouille.province_de_metrica" GUID="zQXZ11HbxUmVQ3WqZCLlvg=="/>
+		<POI MapID="35" xpos="-396.753" ypos="25.7404" zpos="724.999" type="festivals.halloween.sculpteur_de_citrouille.province_de_metrica" GUID="8UvftU6CjEqWH4W2xLdwDw=="/>
+		<POI MapID="35" xpos="-44.7713" ypos="54.2984" zpos="-351.048" type="festivals.halloween.sculpteur_de_citrouille.province_de_metrica" GUID="PhzvyAhnoku1/Flj/B3rdQ=="/>
+		<POI MapID="35" xpos="-481.693" ypos="69.0897" zpos="-689.86" type="festivals.halloween.sculpteur_de_citrouille.province_de_metrica" GUID="kyrvxgYkqUyXUOBMdgHlXw=="/>
+		<POI MapID="35" xpos="-491.107" ypos="51.6095" zpos="-772.145" type="festivals.halloween.sculpteur_de_citrouille.province_de_metrica" GUID="cfkQkclReUapV/pecupoxA=="/>
+		<POI MapID="35" xpos="-51.0822" ypos="16.2608" zpos="-730.656" type="festivals.halloween.sculpteur_de_citrouille.province_de_metrica" GUID="we7umaI25UyqMtRrhnzm1g=="/>
+		<POI MapID="35" xpos="-521.923" ypos="54.0854" zpos="-739.159" type="festivals.halloween.sculpteur_de_citrouille.province_de_metrica" GUID="AqLJMxYwWUeLCrTYqzm0Ng=="/>
+		<POI MapID="35" xpos="-69.8823" ypos="51.8276" zpos="-748.67" type="festivals.halloween.sculpteur_de_citrouille.province_de_metrica" GUID="NaC+bEWnkEqSyf0+xcu9hg=="/>
+		<POI MapID="35" xpos="-77.6374" ypos="15.4399" zpos="34.6074" type="festivals.halloween.sculpteur_de_citrouille.province_de_metrica" GUID="WtNZTWMNu0WsCdqo0S8mFw=="/>
+		<POI MapID="35" xpos="-88.3238" ypos="39.2545" zpos="-796.649" type="festivals.halloween.sculpteur_de_citrouille.province_de_metrica" GUID="QLk+qOVXt0+XHE71aU54Xg=="/>
+		<POI MapID="35" xpos="-91.1483" ypos="30.2181" zpos="-150.984" type="festivals.halloween.sculpteur_de_citrouille.province_de_metrica" GUID="66WSl9/7mU20DNTSTUVu1A=="/>
+		<POI MapID="35" xpos="150.761" ypos="2.4025" zpos="-675.334" type="festivals.halloween.sculpteur_de_citrouille.province_de_metrica" GUID="mkVweNjK0UWWsJYqot4tSA=="/>
+		<POI MapID="35" xpos="170.28" ypos="45.7496" zpos="243.738" type="festivals.halloween.sculpteur_de_citrouille.province_de_metrica" GUID="2CpdEdUHDEeDW2kPoAO4fw=="/>
+		<POI MapID="35" xpos="210.105" ypos="13.3287" zpos="-894.31" type="festivals.halloween.sculpteur_de_citrouille.province_de_metrica" GUID="FimyX0u7LU+6XBkGIGEnuQ=="/>
+		<POI MapID="35" xpos="225.069" ypos="56.1194" zpos="-456.19" type="festivals.halloween.sculpteur_de_citrouille.province_de_metrica" GUID="ItoBOmYaIESou607ytmkNQ=="/>
+		<POI MapID="35" xpos="311.496" ypos="28.6109" zpos="716.923" type="festivals.halloween.sculpteur_de_citrouille.province_de_metrica" GUID="hGQoJkWcA0qIAFt6QF307g=="/>
+		<POI MapID="35" xpos="357.313" ypos="19.1269" zpos="-62.9287" type="festivals.halloween.sculpteur_de_citrouille.province_de_metrica" GUID="d2UuYK875UKWY4/nnKTb1w=="/>
+		<POI MapID="35" xpos="397.671" ypos="74.2825" zpos="818.085" type="festivals.halloween.sculpteur_de_citrouille.province_de_metrica" GUID="BoSdup6B5Ea9NTl2Bs7lnw=="/>
+		<POI MapID="35" xpos="403.043" ypos="48.6869" zpos="-383.617" type="festivals.halloween.sculpteur_de_citrouille.province_de_metrica" GUID="un1jQH4l4UOzYWgvBy/Hog=="/>
+		<POI MapID="35" xpos="454.813" ypos="24.2146" zpos="490.647" type="festivals.halloween.sculpteur_de_citrouille.province_de_metrica" GUID="+x+q2N/XxkW1J/975v8+Gg=="/>
+		<POI MapID="35" xpos="499.635" ypos="49.1701" zpos="390.036" type="festivals.halloween.sculpteur_de_citrouille.province_de_metrica" GUID="EQ14e9Yf+kGVPIFGi1ylWQ=="/>
+		<POI MapID="35" xpos="598.114" ypos="22.5261" zpos="-146.867" type="festivals.halloween.sculpteur_de_citrouille.province_de_metrica" GUID="BtjxRmzi2kapZPV7nTO5gA=="/>
+		<POI MapID="35" xpos="620.157" ypos="39.5301" zpos="-602.386" type="festivals.halloween.sculpteur_de_citrouille.province_de_metrica" GUID="hrnhsvZTw0SafFWNrX6DcQ=="/>
+		<POI MapID="35" xpos="-137.842" ypos="12.2797" zpos="102.266" type="festivals.halloween.sculpteur_de_citrouille.province_de_metrica" GUID="2wb4pAIs0EiQNLDY8gFfxg=="/>
+		<POI MapID="35" xpos="3.22424" ypos="4.56726" zpos="94.5568" type="festivals.halloween.sculpteur_de_citrouille.province_de_metrica" GUID="g6urUmBZzku/tkVDRzyxow=="/>
+		<POI MapID="35" xpos="-368.177" ypos="60.6551" zpos="-771.759" type="festivals.halloween.sculpteur_de_citrouille.province_de_metrica" GUID="t3z7cbCjikm4wicrATS8NA=="/>
+
+		<!--
+		Festival - Halloween : Vallée de la Reine
+		-->
+		
+		<POI MapID="15" xpos="-1048.45" ypos="29.3196" zpos="359.914" type="festivals.halloween.sculpteur_de_citrouille.vallee_de_la_reine" GUID="NVEFItKw1USC1cFC/4MFlw=="/>
+		<POI MapID="15" xpos="-135.166" ypos="44.1402" zpos="319.844" type="festivals.halloween.sculpteur_de_citrouille.vallee_de_la_reine" GUID="t7KVfH92aE+gskYKVkxymg=="/>
+		<POI MapID="15" xpos="-154.656" ypos="27.7915" zpos="225.943" type="festivals.halloween.sculpteur_de_citrouille.vallee_de_la_reine" GUID="Zv2d5tDmbE+KObmpkeihkA=="/>
+		<POI MapID="15" xpos="-165.322" ypos="54.2092" zpos="578.318" type="festivals.halloween.sculpteur_de_citrouille.vallee_de_la_reine" GUID="5Rhw5lKnqEWb0YHyXOUMyw=="/>
+		<POI MapID="15" xpos="-175.743" ypos="36.0081" zpos="370.717" type="festivals.halloween.sculpteur_de_citrouille.vallee_de_la_reine" GUID="PFyj2cH8n0C/U8SKWyy26Q=="/>
+		<POI MapID="15" xpos="-209.183" ypos="30.0269" zpos="385.296" type="festivals.halloween.sculpteur_de_citrouille.vallee_de_la_reine" GUID="S+nTIbd2wkG5DUnYbuXD+Q=="/>
+		<POI MapID="15" xpos="-307.082" ypos="69.2968" zpos="557.275" type="festivals.halloween.sculpteur_de_citrouille.vallee_de_la_reine" GUID="HnytbaJIuEiV0vWvvwrLFQ=="/>
+		<POI MapID="15" xpos="-357.404" ypos="73.0153" zpos="565.662" type="festivals.halloween.sculpteur_de_citrouille.vallee_de_la_reine" GUID="M4g9UQul106j14xFxXqHxA=="/>
+		<POI MapID="15" xpos="-495.482" ypos="22.3218" zpos="361.407" type="festivals.halloween.sculpteur_de_citrouille.vallee_de_la_reine" GUID="erKxGgzMPUGWOlbsIwqduQ=="/>
+		<POI MapID="15" xpos="-515.874" ypos="21.9179" zpos="376.687" type="festivals.halloween.sculpteur_de_citrouille.vallee_de_la_reine" GUID="ceTuNBBxC02LF3IliCmfEw=="/>
+		<POI MapID="15" xpos="-535.369" ypos="34.2301" zpos="438.706" type="festivals.halloween.sculpteur_de_citrouille.vallee_de_la_reine" GUID="srb/MCmE0Uml8FSGkLqtCg=="/>
+		<POI MapID="15" xpos="-539.503" ypos="35.7996" zpos="-441.353" type="festivals.halloween.sculpteur_de_citrouille.vallee_de_la_reine" GUID="v0D0f/PieUmZDXbC2/YHLw=="/>
+		<POI MapID="15" xpos="-597.849" ypos="74.2464" zpos="156.254" type="festivals.halloween.sculpteur_de_citrouille.vallee_de_la_reine" GUID="5BEIG5kfiE2hymw4ZLyXHw=="/>
+		<POI MapID="15" xpos="-690.76" ypos="25.0008" zpos="400.327" type="festivals.halloween.sculpteur_de_citrouille.vallee_de_la_reine" GUID="Q01OvKt8SUqxlvIeuq18kQ=="/>
+		<POI MapID="15" xpos="-744.753" ypos="46.8298" zpos="228.128" type="festivals.halloween.sculpteur_de_citrouille.vallee_de_la_reine" GUID="F/5NhTKc2U2cuZ71oNdMLQ=="/>
+		<POI MapID="15" xpos="-751.395" ypos="24.5487" zpos="360.562" type="festivals.halloween.sculpteur_de_citrouille.vallee_de_la_reine" GUID="G9YPIXOrL0Cdh9qgn40LdQ=="/>
+		<POI MapID="15" xpos="-803.848" ypos="47.3377" zpos="414.852" type="festivals.halloween.sculpteur_de_citrouille.vallee_de_la_reine" GUID="9UC280Nbzk+ERTvu/29LwA=="/>
+		<POI MapID="15" xpos="-806.069" ypos="50.6279" zpos="385.06" type="festivals.halloween.sculpteur_de_citrouille.vallee_de_la_reine" GUID="yQSX/7qgFUeiUUFOH1VO7g=="/>
+		<POI MapID="15" xpos="-86.8133" ypos="57.6981" zpos="540.529" type="festivals.halloween.sculpteur_de_citrouille.vallee_de_la_reine" GUID="8vUoCI9/tUu1WsKeUPSgxg=="/>
+		<POI MapID="15" xpos="-869.087" ypos="18.2249" zpos="737.61" type="festivals.halloween.sculpteur_de_citrouille.vallee_de_la_reine" GUID="sXW7ebASm0y0iYCiUboeuQ=="/>
+		<POI MapID="15" xpos="-938.95" ypos="26.9953" zpos="385.741" type="festivals.halloween.sculpteur_de_citrouille.vallee_de_la_reine" GUID="26hvS3l1rka4koOYhZDKWA=="/>
+		<POI MapID="15" xpos="-963.782" ypos="15.6701" zpos="620.109" type="festivals.halloween.sculpteur_de_citrouille.vallee_de_la_reine" GUID="cXMHEIEg20SXRMmP3Y6MQg=="/>
+		<POI MapID="15" xpos="1030.09" ypos="29.3279" zpos="564.758" type="festivals.halloween.sculpteur_de_citrouille.vallee_de_la_reine" GUID="hXzBPriQJU+rjFWWtUhjnQ=="/>
+		<POI MapID="15" xpos="111.492" ypos="0.71319" zpos="437.622" type="festivals.halloween.sculpteur_de_citrouille.vallee_de_la_reine" GUID="7Gmm3WtZPEWdyal0pCVU2w=="/>
+		<POI MapID="15" xpos="118.036" ypos="6.50876" zpos="392.018" type="festivals.halloween.sculpteur_de_citrouille.vallee_de_la_reine" GUID="rrRdVGpS50GKndvQSuLfRQ=="/>
+		<POI MapID="15" xpos="173.53" ypos="0.971255" zpos="391.381" type="festivals.halloween.sculpteur_de_citrouille.vallee_de_la_reine" GUID="SIQjriOgpU2s+4g65wjhrA=="/>
+		<POI MapID="15" xpos="186.484" ypos="0.606779" zpos="364.268" type="festivals.halloween.sculpteur_de_citrouille.vallee_de_la_reine" GUID="0ghViPAZ0UWNWAPGawcVjw=="/>
+		<POI MapID="15" xpos="325.012" ypos="7.10906" zpos="-603.778" type="festivals.halloween.sculpteur_de_citrouille.vallee_de_la_reine" GUID="LHU/RPNiZk64qfI5Ie41MQ=="/>
+		<POI MapID="15" xpos="367.98" ypos="6.87162" zpos="-670.25" type="festivals.halloween.sculpteur_de_citrouille.vallee_de_la_reine" GUID="+L9aIUBGt0qUEC2jxtvy9A=="/>
+		<POI MapID="15" xpos="527.944" ypos="37.9279" zpos="455.905" type="festivals.halloween.sculpteur_de_citrouille.vallee_de_la_reine" GUID="dcqXwkBPJ0+b3SdWMgdYMQ=="/>
+		<POI MapID="15" xpos="553.444" ypos="47.6653" zpos="466.621" type="festivals.halloween.sculpteur_de_citrouille.vallee_de_la_reine" GUID="PjZaPMwHCEWYPtvhzhUqAg=="/>
+		<POI MapID="15" xpos="829.004" ypos="21.9293" zpos="272.96" type="festivals.halloween.sculpteur_de_citrouille.vallee_de_la_reine" GUID="CfAtbHYY50O0cQ3uiq/14A=="/>
+		<POI MapID="15" xpos="913.239" ypos="24.1318" zpos="605.336" type="festivals.halloween.sculpteur_de_citrouille.vallee_de_la_reine" GUID="ypQjH7Syqkq3ScP6FxFIDg=="/>
+
+		<!--
+		Festival - Halloween : Champs de Gendarran
+		-->
+		
+		<POI MapID="24" xpos="-1042.69" ypos="14.8603" zpos="99.8969" type="festivals.halloween.sculpteur_de_citrouille.champs_de_gendarran" GUID="ivVFQZj6vkG2Yh3jDWUmMQ=="/>
+		<POI MapID="24" xpos="-1150.7" ypos="42.6416" zpos="522.694" type="festivals.halloween.sculpteur_de_citrouille.champs_de_gendarran" GUID="tWDsXDoLaUiwcJVoJ8S8ug=="/>
+		<POI MapID="24" xpos="-1169.26" ypos="9.72541" zpos="361.287" type="festivals.halloween.sculpteur_de_citrouille.champs_de_gendarran" GUID="jT/jdFOH6k2u2CJaoVVJkg=="/>
+		<POI MapID="24" xpos="-356.273" ypos="55.7687" zpos="130.39" type="festivals.halloween.sculpteur_de_citrouille.champs_de_gendarran" GUID="3qM5fNi7mEunQGL23H3AJg=="/>
+		<POI MapID="24" xpos="-365.267" ypos="6.14238" zpos="8.48252" type="festivals.halloween.sculpteur_de_citrouille.champs_de_gendarran" GUID="Xd7HO9188ESYXxF6WZeOsA=="/>
+		<POI MapID="24" xpos="-369.655" ypos="1.96439" zpos="232.903" type="festivals.halloween.sculpteur_de_citrouille.champs_de_gendarran" GUID="ZzfXaEZWX0u734VKdKw47A=="/>
+		<POI MapID="24" xpos="-431.328" ypos="1.87362" zpos="-353.213" type="festivals.halloween.sculpteur_de_citrouille.champs_de_gendarran" GUID="v4XbQDTQnkm9AJONdv432Q=="/>
+		<POI MapID="24" xpos="-442.174" ypos="16.0503" zpos="-116.733" type="festivals.halloween.sculpteur_de_citrouille.champs_de_gendarran" GUID="rhFlT5WeDECxmcV27jjwVQ=="/>
+		<POI MapID="24" xpos="-47.7504" ypos="13.5658" zpos="464.657" type="festivals.halloween.sculpteur_de_citrouille.champs_de_gendarran" GUID="ejHsOpLWI0eEPF1eNFkwDg=="/>
+		<POI MapID="24" xpos="-501.155" ypos="34.2559" zpos="442.824" type="festivals.halloween.sculpteur_de_citrouille.champs_de_gendarran" GUID="w7PQTrAiwUK2oW9JlsxHWg=="/>
+		<POI MapID="24" xpos="-65.6822" ypos="8.62951" zpos="-519.737" type="festivals.halloween.sculpteur_de_citrouille.champs_de_gendarran" GUID="RuJoAOKHPkClsvhVdJVG9Q=="/>
+		<POI MapID="24" xpos="-752.482" ypos="21.9742" zpos="360.144" type="festivals.halloween.sculpteur_de_citrouille.champs_de_gendarran" GUID="moEheCbMv0CO00sK16C1eA=="/>
+		<POI MapID="24" xpos="-787.338" ypos="30.2099" zpos="61.3437" type="festivals.halloween.sculpteur_de_citrouille.champs_de_gendarran" GUID="ACuf8vYbe0W3o9hOgLghrA=="/>
+		<POI MapID="24" xpos="-788.07" ypos="1.08709" zpos="-549.506" type="festivals.halloween.sculpteur_de_citrouille.champs_de_gendarran" GUID="39gNjcV2l02nyuKmEns/4w=="/>
+		<POI MapID="24" xpos="-872.46" ypos="35.6368" zpos="432.875" type="festivals.halloween.sculpteur_de_citrouille.champs_de_gendarran" GUID="uRAuusWIQ0e+I8sLry3qXg=="/>
+		<POI MapID="24" xpos="-989.222" ypos="43.8421" zpos="-280.688" type="festivals.halloween.sculpteur_de_citrouille.champs_de_gendarran" GUID="BWRFyIc0UU+bN4z+vIpFcw=="/>
+		<POI MapID="24" xpos="1046.9" ypos="74.2885" zpos="-202.532" type="festivals.halloween.sculpteur_de_citrouille.champs_de_gendarran" GUID="HL4o5sYFZ0OE2T3UbWr+yA=="/>
+		<POI MapID="24" xpos="157.321" ypos="2.92837" zpos="102.429" type="festivals.halloween.sculpteur_de_citrouille.champs_de_gendarran" GUID="gH7myoppcECNQqMYOazRiQ=="/>
+		<POI MapID="24" xpos="226.934" ypos="4.25169" zpos="-484.332" type="festivals.halloween.sculpteur_de_citrouille.champs_de_gendarran" GUID="cKCBvHZxV0qn/8hGr+pm8w=="/>
+		<POI MapID="24" xpos="243.267" ypos="12.3959" zpos="399.994" type="festivals.halloween.sculpteur_de_citrouille.champs_de_gendarran" GUID="uXhT0oZA0kupGy0jp5L4Xg=="/>
+		<POI MapID="24" xpos="348.458" ypos="15.0247" zpos="-336.784" type="festivals.halloween.sculpteur_de_citrouille.champs_de_gendarran" GUID="xIMxYtwrXE2eArmq9LwQBA=="/>
+		<POI MapID="24" xpos="426.912" ypos="11.2042" zpos="-428.553" type="festivals.halloween.sculpteur_de_citrouille.champs_de_gendarran" GUID="U1fiQTDnp0iaUZ/yW7/wMw=="/>
+		<POI MapID="24" xpos="455.22" ypos="1.49664" zpos="348.72" type="festivals.halloween.sculpteur_de_citrouille.champs_de_gendarran" GUID="3xSNHyN7fU24ZbY550OJUg=="/>
+		<POI MapID="24" xpos="534.391" ypos="74.7998" zpos="530.722" type="festivals.halloween.sculpteur_de_citrouille.champs_de_gendarran" GUID="HdSfSavpGEKa/1Af3qt4eQ=="/>
+		<POI MapID="24" xpos="673.408" ypos="41.9296" zpos="-108.414" type="festivals.halloween.sculpteur_de_citrouille.champs_de_gendarran" GUID="60QA6Nh/hU2vd5J0Qvt3oA=="/>
+		<POI MapID="24" xpos="696.247" ypos="22.002" zpos="-109.571" type="festivals.halloween.sculpteur_de_citrouille.champs_de_gendarran" GUID="G0fJLNnDvkuVxXtOuDvhNQ=="/>
+		<POI MapID="24" xpos="714.958" ypos="24.2316" zpos="-10.2938" type="festivals.halloween.sculpteur_de_citrouille.champs_de_gendarran" GUID="QohdHxUQ6U6YHc7dusewAQ=="/>
+		<POI MapID="24" xpos="749.947" ypos="3.38684" zpos="-499.694" type="festivals.halloween.sculpteur_de_citrouille.champs_de_gendarran" GUID="3x0MYg/7pkKJ4YAf6jSoOw=="/>
+		<POI MapID="24" xpos="975.662" ypos="30.6321" zpos="298.238" type="festivals.halloween.sculpteur_de_citrouille.champs_de_gendarran" GUID="fOHu2sbpkEuGK/EjKOBkXw=="/>
+
+		<!--
+		Festival - Halloween : Collines de Kessex
+		-->
+		
+		<POI MapID="23" xpos="-328.078" ypos="17.8354" zpos="-442.702" type="festivals.halloween.sculpteur_de_citrouille.collines_de_kessex" GUID="yb4XPAmVd0OpeHyj4RzB+A=="/>
+		<POI MapID="23" xpos="-352.251" ypos="24.8841" zpos="-508.586" type="festivals.halloween.sculpteur_de_citrouille.collines_de_kessex" GUID="7c12xSjzzkWdss8iTBs0sw=="/>
+		<POI MapID="23" xpos="-362.177" ypos="21.3008" zpos="257.49" type="festivals.halloween.sculpteur_de_citrouille.collines_de_kessex" GUID="KlyEx+h5xEKBk1ug8Y8Vow=="/>
+		<POI MapID="23" xpos="-460.987" ypos="53.3354" zpos="456.557" type="festivals.halloween.sculpteur_de_citrouille.collines_de_kessex" GUID="YzOy8BNYPk2PacHki0OiJw=="/>
+		<POI MapID="23" xpos="-526.12" ypos="17.6469" zpos="-295.223" type="festivals.halloween.sculpteur_de_citrouille.collines_de_kessex" GUID="wFOi9UTe6kaZ8t4DCQYyOA=="/>
+		<POI MapID="23" xpos="-647.919" ypos="43.007" zpos="302.074" type="festivals.halloween.sculpteur_de_citrouille.collines_de_kessex" GUID="7EMijRqiQUugcsTkZIDgkA=="/>
+		<POI MapID="23" xpos="-819.537" ypos="2.4568" zpos="-538.904" type="festivals.halloween.sculpteur_de_citrouille.collines_de_kessex" GUID="wUMIxmfCwUqJepHylpfdVQ=="/>
+		<POI MapID="23" xpos="-879.161" ypos="92.3742" zpos="457.527" type="festivals.halloween.sculpteur_de_citrouille.collines_de_kessex" GUID="nMUVxwz7EUKvW9mmJg41MQ=="/>
+		<POI MapID="23" xpos="1073.14" ypos="13.6517" zpos="423.183" type="festivals.halloween.sculpteur_de_citrouille.collines_de_kessex" GUID="67kBgiGFtE6jvZTIY3ykXQ=="/>
+		<POI MapID="23" xpos="1108.27" ypos="74.3022" zpos="-348.323" type="festivals.halloween.sculpteur_de_citrouille.collines_de_kessex" GUID="zLrS24h4P0u3UnXVyNWrlA=="/>
+		<POI MapID="23" xpos="1147.54" ypos="51.3538" zpos="-311.983" type="festivals.halloween.sculpteur_de_citrouille.collines_de_kessex" GUID="PVJXZnXww0i704OxlVCFMA=="/>
+		<POI MapID="23" xpos="1153.83" ypos="16.3111" zpos="519.291" type="festivals.halloween.sculpteur_de_citrouille.collines_de_kessex" GUID="G2lMP5v1rkq6jv7focVAIg=="/>
+		<POI MapID="23" xpos="1187.98" ypos="43.5993" zpos="-98.5817" type="festivals.halloween.sculpteur_de_citrouille.collines_de_kessex" GUID="sBkyOyvRm0+n8ZodmroEyA=="/>
+		<POI MapID="23" xpos="1195.6" ypos="50.3188" zpos="-271.436" type="festivals.halloween.sculpteur_de_citrouille.collines_de_kessex" GUID="Vqbv3jYglUGgbzQw/nlc8w=="/>
+		<POI MapID="23" xpos="1202.75" ypos="18.3338" zpos="-439.461" type="festivals.halloween.sculpteur_de_citrouille.collines_de_kessex" GUID="XaiTxq5g/UG11SbN0qZD8A=="/>
+		<POI MapID="23" xpos="310.504" ypos="70.1965" zpos="-422.468" type="festivals.halloween.sculpteur_de_citrouille.collines_de_kessex" GUID="5u/5HEMrn0Ctlds/we2qvg=="/>
+		<POI MapID="23" xpos="321.713" ypos="58.2649" zpos="-370.44" type="festivals.halloween.sculpteur_de_citrouille.collines_de_kessex" GUID="HBmpY3NOxUa+EwmivvbfuA=="/>
+		<POI MapID="23" xpos="338.101" ypos="50.337" zpos="379.338" type="festivals.halloween.sculpteur_de_citrouille.collines_de_kessex" GUID="hfW3mGY47UmaUbjS+g51fw=="/>
+		<POI MapID="23" xpos="711.734" ypos="55.9951" zpos="509.682" type="festivals.halloween.sculpteur_de_citrouille.collines_de_kessex" GUID="7x8MRevjAk62fqvIskWpAg=="/>
+		<POI MapID="23" xpos="737.503" ypos="70.6924" zpos="175.281" type="festivals.halloween.sculpteur_de_citrouille.collines_de_kessex" GUID="d/IUNiudxUWimuzRs4r/pA=="/>
+		<POI MapID="23" xpos="826.057" ypos="39.2175" zpos="377.39" type="festivals.halloween.sculpteur_de_citrouille.collines_de_kessex" GUID="kU/dT5pjrUu7HLXDRklVWA=="/>
+		<POI MapID="23" xpos="924.198" ypos="44.5103" zpos="355.609" type="festivals.halloween.sculpteur_de_citrouille.collines_de_kessex" GUID="E8uZPcdYRUWgSOW5HbZ4ig=="/>
+		<POI MapID="23" xpos="926.397" ypos="73.1388" zpos="-291.774" type="festivals.halloween.sculpteur_de_citrouille.collines_de_kessex" GUID="vwjDrDTgqEiDR9vDkiBdyQ=="/>
+		<POI MapID="23" xpos="927.068" ypos="56.5263" zpos="375.188" type="festivals.halloween.sculpteur_de_citrouille.collines_de_kessex" GUID="pQAVoldpF0+02Efs9nCksA=="/>
+		<POI MapID="23" xpos="956.107" ypos="56.0278" zpos="57.8355" type="festivals.halloween.sculpteur_de_citrouille.collines_de_kessex" GUID="qQ9pqYeE/U+EDEtyaDCYpw=="/>
+		<POI MapID="23" xpos="999.354" ypos="3.43009" zpos="561.23" type="festivals.halloween.sculpteur_de_citrouille.collines_de_kessex" GUID="kH9mxPi+jkqPm4jNu6hs9A=="/>
+		<POI MapID="23" xpos="-391.014" ypos="58.7849" zpos="478.984" type="festivals.halloween.sculpteur_de_citrouille.collines_de_kessex" GUID="dNdiYzMj0ky2LBa6pUmzVQ=="/>
+		<POI MapID="23" xpos="-882.421" ypos="107.098" zpos="538.182" type="festivals.halloween.sculpteur_de_citrouille.collines_de_kessex" GUID="R7SEqraabkaU+EhgL8gykQ=="/>
+		<POI MapID="23" xpos="-354.899" ypos="1.22896" zpos="48.5367" type="festivals.halloween.sculpteur_de_citrouille.collines_de_kessex" GUID="7UkykCqxWEqI+2DTxYEOBQ=="/>
+		<POI MapID="23" xpos="-311.763" ypos="3.00415" zpos="43.1178" type="festivals.halloween.sculpteur_de_citrouille.collines_de_kessex" GUID="IReur3+y+kWOFai3WglDOg=="/>
+
+		<!--
+		Festival - Halloween : Contreforts du Voyageur
+		-->
+		
+		<POI MapID="28" xpos="-155.762" ypos="172.919" zpos="-399.733" type="festivals.halloween.sculpteur_de_citrouille.contreforts_du_voyageur" GUID="xcXfXSx3FEKTab4S/FAIzA=="/>
+		<POI MapID="28" xpos="-167.482" ypos="97.8443" zpos="489.44" type="festivals.halloween.sculpteur_de_citrouille.contreforts_du_voyageur" GUID="y+xUL+Eh+Uml7U5LHiskww=="/>
+		<POI MapID="28" xpos="-180.068" ypos="146.568" zpos="820.549" type="festivals.halloween.sculpteur_de_citrouille.contreforts_du_voyageur" GUID="t26rc5QMm0Sq4WIzHJqGfw=="/>
+		<POI MapID="28" xpos="-188.881" ypos="95.9924" zpos="-603.388" type="festivals.halloween.sculpteur_de_citrouille.contreforts_du_voyageur" GUID="EpoxsTfjK06NDdBydnZgeg=="/>
+		<POI MapID="28" xpos="-19.7426" ypos="92.333" zpos="569.664" type="festivals.halloween.sculpteur_de_citrouille.contreforts_du_voyageur" GUID="s3O7Uv7zWkS8kOeJEfnZnw=="/>
+		<POI MapID="28" xpos="-233.433" ypos="99.4024" zpos="-576.239" type="festivals.halloween.sculpteur_de_citrouille.contreforts_du_voyageur" GUID="XJl16zE2hk62TOml4+xiFg=="/>
+		<POI MapID="28" xpos="-28.343" ypos="146.432" zpos="671.56" type="festivals.halloween.sculpteur_de_citrouille.contreforts_du_voyageur" GUID="GhZpg8Sle0SiyN6YTIKFjw=="/>
+		<POI MapID="28" xpos="-432.862" ypos="128.059" zpos="-212.903" type="festivals.halloween.sculpteur_de_citrouille.contreforts_du_voyageur" GUID="285jvGtI70K4KkD5g9yvBw=="/>
+		<POI MapID="28" xpos="-53.9563" ypos="42.4392" zpos="-88.7005" type="festivals.halloween.sculpteur_de_citrouille.contreforts_du_voyageur" GUID="SlEpgDTZV0GuunTVUnot5g=="/>
+		<POI MapID="28" xpos="-66.1951" ypos="53.6175" zpos="-1326.78" type="festivals.halloween.sculpteur_de_citrouille.contreforts_du_voyageur" GUID="c6BB5cGKi0WOsM96mCU5kg=="/>
+		<POI MapID="28" xpos="-87.1725" ypos="96.5934" zpos="210.347" type="festivals.halloween.sculpteur_de_citrouille.contreforts_du_voyageur" GUID="6XDM3yZLAEm7yARPaWy9KA=="/>
+		<POI MapID="28" xpos="118.583" ypos="21.8105" zpos="-1243.69" type="festivals.halloween.sculpteur_de_citrouille.contreforts_du_voyageur" GUID="bFaTp/JUOkyip4v3n1uDjQ=="/>
+		<POI MapID="28" xpos="126.976" ypos="3.84493" zpos="-496.575" type="festivals.halloween.sculpteur_de_citrouille.contreforts_du_voyageur" GUID="zUM/rO/Q8U293tJN7zcX2Q=="/>
+		<POI MapID="28" xpos="200.997" ypos="24.3496" zpos="-126.279" type="festivals.halloween.sculpteur_de_citrouille.contreforts_du_voyageur" GUID="YwLZTvJg20uAGT0S82bmiw=="/>
+		<POI MapID="28" xpos="22.5802" ypos="26.3591" zpos="-851.758" type="festivals.halloween.sculpteur_de_citrouille.contreforts_du_voyageur" GUID="7GHZYijOo0id76krKEnc9g=="/>
+		<POI MapID="28" xpos="262.063" ypos="75.6925" zpos="807.463" type="festivals.halloween.sculpteur_de_citrouille.contreforts_du_voyageur" GUID="0DSaX0Sj8U6Gw4tdgd0ZwQ=="/>
+		<POI MapID="28" xpos="265.222" ypos="92.307" zpos="560.573" type="festivals.halloween.sculpteur_de_citrouille.contreforts_du_voyageur" GUID="TGJy2u3OzUCRxxCrUCpaTw=="/>
+		<POI MapID="28" xpos="273.968" ypos="72.5911" zpos="241.692" type="festivals.halloween.sculpteur_de_citrouille.contreforts_du_voyageur" GUID="VnP9RzCjnUGfRPSU8BW1PA=="/>
+		<POI MapID="28" xpos="310.76" ypos="26.8135" zpos="-490.609" type="festivals.halloween.sculpteur_de_citrouille.contreforts_du_voyageur" GUID="xu+9ZboAw0C0qxLifpW1pw=="/>
+		<POI MapID="28" xpos="346.082" ypos="31.2893" zpos="-1082.53" type="festivals.halloween.sculpteur_de_citrouille.contreforts_du_voyageur" GUID="Ans2RDZWlEKtkxRbS1uarw=="/>
+		<POI MapID="28" xpos="39.7648" ypos="13.9489" zpos="-1118.63" type="festivals.halloween.sculpteur_de_citrouille.contreforts_du_voyageur" GUID="iFMNk1EdTkm05nM84BbyXw=="/>
+		<POI MapID="28" xpos="395.279" ypos="128.761" zpos="948.482" type="festivals.halloween.sculpteur_de_citrouille.contreforts_du_voyageur" GUID="AxXSu3kuMUSweAK3jcvtzQ=="/>
+		<POI MapID="28" xpos="413.278" ypos="76.1728" zpos="450.576" type="festivals.halloween.sculpteur_de_citrouille.contreforts_du_voyageur" GUID="z4KtZXNtyEOfzq0LJwD5Iw=="/>
+		<POI MapID="28" xpos="446.324" ypos="73.3695" zpos="253.056" type="festivals.halloween.sculpteur_de_citrouille.contreforts_du_voyageur" GUID="AgC5Y5cEoky3pGQoydLrnQ=="/>
+		<POI MapID="28" xpos="447.657" ypos="119.452" zpos="-139.745" type="festivals.halloween.sculpteur_de_citrouille.contreforts_du_voyageur" GUID="wgGiXnGNd0qpkR5DuDMgFw=="/>
+		<POI MapID="28" xpos="451.552" ypos="77.3764" zpos="579.325" type="festivals.halloween.sculpteur_de_citrouille.contreforts_du_voyageur" GUID="xQ9R8nIY6UGMlumk/dU2qQ=="/>
+		<POI MapID="28" xpos="52.9536" ypos="189.106" zpos="1161.93" type="festivals.halloween.sculpteur_de_citrouille.contreforts_du_voyageur" GUID="iGCAajG/7U2431TQlTU9qw=="/>
+		<POI MapID="28" xpos="62.4884" ypos="100.262" zpos="122.241" type="festivals.halloween.sculpteur_de_citrouille.contreforts_du_voyageur" GUID="Td7YeLReakml99A4hYdWFA=="/>
+		<POI MapID="28" xpos="73.5808" ypos="117.953" zpos="921.931" type="festivals.halloween.sculpteur_de_citrouille.contreforts_du_voyageur" GUID="2QalmuyHyU21wnFxlG5pUw=="/>
+		
+	</POIs>
+</OverlayData>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+POIs: Cloud Strife.7492 - Xenophy.2716 - ReActif.9251
+Date: 2017/08/23
+-->
+<OverlayData>
+	<MarkerCategory name="general" DisplayName="General">
+		<MarkerCategory name="puzzles_de_saut" DisplayName="Jumping Puzzles" iconFile="Img\Guide.png" iconSize="0.75">
+			<MarkerCategory name="fosses_de_l_engeance" DisplayName="Demongrub Pits" triggerRange="5"/>
+		</MarkerCategory>
+	</MarkerCategory>
+
+	<POIs>
+
+		<!-- Début -->
+		<POI MapID="15" xpos="937.104" ypos="69.8533" zpos="-461.552" type="general.puzzles_de_saut.debut" GUID="Ayfw+31k6EGEOZ1e8pbJ+Q=="/>
+
+		<!-- Route -->
+		<Route MapID="15" name="Fosses_de_l_Engeance" resetposx="937.104" resetposy="69.8533" resetposz="-461.552" resetrange="2">
+			<POI MapID="15" xpos="947.688" ypos="69.4426" zpos="-452.679" type="general.puzzles_de_saut.fosses_de_l_engeance" GUID="1RBjjiBCN0yHoqr5epJZyw=="/>
+			<POI MapID="15" xpos="961.523" ypos="66.1679" zpos="-449.166" type="general.puzzles_de_saut.fosses_de_l_engeance" GUID="uOdnHDpoZUaOQ9IMRIwYTA=="/>
+			<POI MapID="15" xpos="973.253" ypos="67.4371" zpos="-454.323" type="general.puzzles_de_saut.fosses_de_l_engeance" GUID="2i8wseppsk6/NmGdadTrNQ=="/>
+			<POI MapID="15" xpos="984.485" ypos="67.313" zpos="-457.399" type="general.puzzles_de_saut.fosses_de_l_engeance" GUID="CgLfPiFJTkOjKHBi/nNW1Q=="/>
+			<POI MapID="15" xpos="991.118" ypos="65.21" zpos="-459.949" type="general.puzzles_de_saut.fosses_de_l_engeance" GUID="Td8EPbwM1Uiq0morC6nDXw=="/>
+			<POI MapID="15" xpos="997.434" ypos="56.9013" zpos="-469.99" type="general.puzzles_de_saut.fosses_de_l_engeance" GUID="lgcEOpTSiEuXxBFhLfxb5Q=="/>
+			<POI MapID="15" xpos="998.982" ypos="56.1736" zpos="-478.176" type="general.puzzles_de_saut.fosses_de_l_engeance" GUID="/+c4sHjEmkK3z7CoCg5exw=="/>
+			<POI MapID="15" xpos="1001.06" ypos="55.1126" zpos="-486.453" type="general.puzzles_de_saut.fosses_de_l_engeance" GUID="bq/3mHKVBkGslBdsep2d+Q=="/>
+			<POI MapID="15" xpos="1009.28" ypos="49.1353" zpos="-499.392" type="general.puzzles_de_saut.fosses_de_l_engeance" GUID="j8/UjOl50EGBWcocw08Z1g=="/>
+			<POI MapID="15" xpos="1012.67" ypos="54.2267" zpos="-507.145" type="general.puzzles_de_saut.fosses_de_l_engeance" GUID="mitv8yity0CtF6cT1g84aw=="/>
+			<POI MapID="15" xpos="1016.19" ypos="56.0202" zpos="-512.497" type="general.puzzles_de_saut.fosses_de_l_engeance" GUID="j3BYNLyuuEOEwGC8eJ49kw=="/>
+			<POI MapID="15" xpos="1019.74" ypos="57.2953" zpos="-520.857" type="general.puzzles_de_saut.fosses_de_l_engeance" GUID="JPKTlOBgBUem88WmNOH0xA=="/>
+			<POI MapID="15" xpos="1026.02" ypos="56.9816" zpos="-521.929" type="general.puzzles_de_saut.fosses_de_l_engeance" GUID="KFHTx44/ZkubjTbq9+Sh0A=="/>
+			<POI MapID="15" xpos="1035.13" ypos="55.8793" zpos="-521.866" type="general.puzzles_de_saut.fosses_de_l_engeance" GUID="4852h4DLE0KI7iuC7R66hg=="/>
+			<POI MapID="15" xpos="1039.91" ypos="54.6071" zpos="-516.655" type="general.puzzles_de_saut.fosses_de_l_engeance" GUID="Jyo2GfbfkkmPunO+C/d34Q=="/>
+			<POI MapID="15" xpos="1050.32" ypos="52.1098" zpos="-510.414" type="general.puzzles_de_saut.fosses_de_l_engeance" GUID="G1Ug7F2Np0OlimuXMaQevA=="/>
+			<POI MapID="15" xpos="1058.58" ypos="51.1179" zpos="-506.833" type="general.puzzles_de_saut.fosses_de_l_engeance" GUID="KriMgyYfeEyACvSnJ4Gc1A=="/>
+			<POI MapID="15" xpos="1067.86" ypos="50.2699" zpos="-504.996" type="general.puzzles_de_saut.fosses_de_l_engeance" GUID="Do0vxwI7nUSsGtzeK+U15g=="/>
+			<POI MapID="15" xpos="1077.44" ypos="50.0635" zpos="-512.016" type="general.puzzles_de_saut.fosses_de_l_engeance" GUID="j7PnCdsZMEay4mU9PZgiVQ=="/>
+			<POI MapID="15" xpos="1077.56" ypos="48.8617" zpos="-522.796" type="general.puzzles_de_saut.fosses_de_l_engeance" GUID="uZSiI1qfT0Kj6/Yn4YrKoQ=="/>
+			<POI MapID="15" xpos="1071.96" ypos="49.6383" zpos="-524.52" type="general.puzzles_de_saut.fosses_de_l_engeance" GUID="a+UBFhlMzEiD/Ttr8UHv3w=="/>
+			<POI MapID="15" xpos="1071.29" ypos="51.6521" zpos="-530.048" type="general.puzzles_de_saut.fosses_de_l_engeance" GUID="VzudOYmfaE+9QGinpTIu0Q=="/>
+			<POI MapID="15" xpos="1068.93" ypos="53.6893" zpos="-538.087" type="general.puzzles_de_saut.fosses_de_l_engeance" GUID="tAvnT6DmDEKg2ggBCiCUHg=="/>
+			<POI MapID="15" xpos="1067.94" ypos="55.5264" zpos="-547.366" type="general.puzzles_de_saut.fosses_de_l_engeance" GUID="gOStemVMP0yHDsEKjw3KVQ=="/>
+			<POI MapID="15" xpos="1068.05" ypos="56.354" zpos="-556.912" type="general.puzzles_de_saut.fosses_de_l_engeance" GUID="qTpK/S27P0uIn0H0J7LXvw=="/>
+			<POI MapID="15" xpos="1064.34" ypos="54.7957" zpos="-570.925" type="general.puzzles_de_saut.fosses_de_l_engeance" GUID="ARnOgqQ6zkG0Fu1Bnt4MpA=="/>
+			<POI MapID="15" xpos="1060.41" ypos="51.9276" zpos="-578.684" type="general.puzzles_de_saut.fosses_de_l_engeance" GUID="WLSyCELdPEO/PVemXfBK/A=="/>
+			<POI MapID="15" xpos="1055.5" ypos="51.0447" zpos="-585.476" type="general.puzzles_de_saut.fosses_de_l_engeance" GUID="Fb/s2fj9/ku2KLM5isgU8w=="/>
+			<POI MapID="15" xpos="1046.26" ypos="55.6066" zpos="-588.099" type="general.puzzles_de_saut.fosses_de_l_engeance" GUID="uNjVsDVzi0qTCxKgTY3QeQ=="/>
+			<POI MapID="15" xpos="1037.91" ypos="50.9222" zpos="-594.358" type="general.puzzles_de_saut.fosses_de_l_engeance" GUID="C77KMfTsjkiuaFIKjtLXFw=="/>
+			<POI MapID="15" xpos="1039.4" ypos="48.9143" zpos="-601.72" type="general.puzzles_de_saut.fosses_de_l_engeance" GUID="dzj0NIsTT06t0uLcoK6Wvw=="/>
+			<POI MapID="15" xpos="1049.15" ypos="47.3091" zpos="-608.636" type="general.puzzles_de_saut.fosses_de_l_engeance" GUID="8KiZaEsIiE69aJ6q3SRjrQ=="/>
+			<POI MapID="15" xpos="1059.14" ypos="47.3011" zpos="-616.516" type="general.puzzles_de_saut.fosses_de_l_engeance" GUID="/v5WBxmwqUWft2DNe5M29g=="/>
+			<POI MapID="15" xpos="1065.74" ypos="43.7813" zpos="-626.974" type="general.puzzles_de_saut.fosses_de_l_engeance" GUID="6oggbs6jmkuHKFfihaCJsw=="/>
+			<POI MapID="15" xpos="1061.18" ypos="43.0672" zpos="-639.394" type="general.puzzles_de_saut.fosses_de_l_engeance" GUID="EvpHEW5j/EqZyR8K72K2Aw=="/>
+			<POI MapID="15" xpos="1054.33" ypos="42.0847" zpos="-647.747" type="general.puzzles_de_saut.fosses_de_l_engeance" GUID="h02NOtxxvkSuIOj+OSMaNg=="/>
+			<POI MapID="15" xpos="1045.56" ypos="43.0681" zpos="-660.093" type="general.puzzles_de_saut.fosses_de_l_engeance" GUID="JtwRg8wm4UqSwZ8dBQCq1Q=="/>
+		</Route>
+
+		<!-- Coffre -->
+		<POI MapID="15" xpos="1034.72" ypos="46.0266" zpos="-672.023" type="general.puzzles_de_saut.fosses_de_l_engeance" GUID="z6tZKf2dYEi82AdphjTYwg==" iconFile="Img\CoffrePuzzle.png" iconSize="1" heightOffset="2.5" behavior="2"/>
+
+	</POIs>
+</OverlayData>

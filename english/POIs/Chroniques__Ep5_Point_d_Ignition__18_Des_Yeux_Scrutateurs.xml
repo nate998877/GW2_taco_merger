@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+POIs: ReActif.9251
+Date: 2017/05/14
+-->
+<OverlayData>
+	<MarkerCategory name="chroniques.saison_3">
+		<MarkerCategory name="ep5_point_d_ignition" DisplayName="Ep.5 - Flashpoint" iconFile="Img\MontDraconis.png">
+			<MarkerCategory name="des_yeux_scrutateurs" DisplayName="People Watching"/>
+		</MarkerCategory>
+	</MarkerCategory>
+
+	<POIs>
+
+		<!-- Golem (pré-requis 1) -->
+		<POI MapID="1195" xpos="-324.63" ypos="437" zpos="-482.16" type="chroniques.saison_3.ep5_point_d_ignition.des_yeux_scrutateurs" GUID="TityoB4oVUekAEBdGc7g0A==" iconFile="Img\1.png" iconSize="2" color="ff00ff00"/>
+		<POI MapID="1195" xpos="-324.63" ypos="433" zpos="-482.16" type="chroniques.saison_3.ep5_point_d_ignition.des_yeux_scrutateurs" GUID="PZVR112vp02GrJ7I4o3gng==" heightOffset="3"/>
+
+		<!-- Agent des Soupirs (pré-requis 2) -->
+		<POI MapID="1195" xpos="-340.36" ypos="465" zpos="-96.55" type="chroniques.saison_3.ep5_point_d_ignition.des_yeux_scrutateurs" GUID="pJsNcavQLUKJoRz7phv+ig==" iconFile="Img\2.png" iconSize="2" color="ff00ff00"/>
+		<POI MapID="1195" xpos="-340.36" ypos="461" zpos="-96.55" type="chroniques.saison_3.ep5_point_d_ignition.des_yeux_scrutateurs" GUID="/uvKPVqIbkKdH+KQEyqqVA==" heightOffset="3"/>
+
+		<!-- Ce scanneur devrait dominer la base des mercenaires -->
+		<POI MapID="1195" xpos="236.22" ypos="481.847" zpos="62.17" type="chroniques.saison_3.ep5_point_d_ignition.des_yeux_scrutateurs" GUID="oZLAxJ1yP02vP5Y0f3j8Ig=="/>
+
+		<!-- Ce scanneur devrait se trouver à la cime d'un grand arbre -->
+		<POI MapID="1195" xpos="-70.2775" ypos="257.528" zpos="-588.57" type="chroniques.saison_3.ep5_point_d_ignition.des_yeux_scrutateurs" GUID="SjK7Ul4os0OtY3zjn8ExeQ=="/>
+
+		<!-- Ce scanneur devrait dominer le camp de l'Enqueste -->
+		<POI MapID="1195" xpos="-264.592" ypos="502.468" zpos="-243.095" type="chroniques.saison_3.ep5_point_d_ignition.des_yeux_scrutateurs" GUID="4Ztn3KSvh0iK8STA4R7C1Q=="/>
+
+		<!-- Ce scanneur devrait surveiller Tennon et Petibois -->
+		<POI MapID="1195" xpos="93.2875" ypos="218.904" zpos="-735.138" type="chroniques.saison_3.ep5_point_d_ignition.des_yeux_scrutateurs" GUID="jg87PC9MtkqdMAwwSomKPA=="/>
+
+		<!-- Ce scanneur devrait dominer le sous-marin mercenaire -->
+		<POI MapID="1195" xpos="-254.228" ypos="56.7422" zpos="-416.463" type="chroniques.saison_3.ep5_point_d_ignition.des_yeux_scrutateurs" GUID="g7GOfD/x2USzLkdph+W9/g=="/>
+
+		<!-- Ce scanneur devrait surveiller les araignées depuis une stalactite -->
+		<POI MapID="1195" xpos="-138.217" ypos="311.704" zpos="137.758" type="chroniques.saison_3.ep5_point_d_ignition.des_yeux_scrutateurs" GUID="E0rKX6wdaUy36vokHFGmZg=="/>
+
+		<!-- Ce scanneur devrait surveiller le chef mercenaire -->
+		<POI MapID="1195" xpos="365.978" ypos="441.789" zpos="21.1108" type="chroniques.saison_3.ep5_point_d_ignition.des_yeux_scrutateurs" GUID="iXmxN6akmku1RsS33AFjGQ=="/>
+
+	</POIs>
+</OverlayData>

@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+POIs: ReActif.9251
+Date: 2017/03/14
+-->
+<OverlayData>
+	<MarkerCategory name="astuces">
+		<MarkerCategory name="agents_du_pacte" DisplayName="Pact Supply Network Agent" iconFile="Img\AgentDeRavitaillementDuPacte.png" heightOffset="4">
+			<MarkerCategory name="lundi" DisplayName="Monday">
+				<MarkerCategory name="verna_broyedon" DisplayName="Ascalon (Fireheart Rise)"/>
+				<MarkerCategory name="dame_derwena" DisplayName="Kryta (Bloodtide Coast)"/>
+				<MarkerCategory name="le_renard" DisplayName="Maguuma Jungle (Caledon Forest)"/>
+				<MarkerCategory name="mehem_le_voyageur" DisplayName="Maguuma Wastes (Dry Top)"/>
+				<MarkerCategory name="specialiste_yana" DisplayName="Ruins of Orr (Straits of Devastation)"/>
+				<MarkerCategory name="despina_katyn" DisplayName="Shiverpeak Mountains (Frostgorge Sound)"/>
+			</MarkerCategory>
+			<MarkerCategory name="mardi" DisplayName="Tuesday">
+				<MarkerCategory name="verna_broyedon" DisplayName="Ascalon (Plains of Ashford)"/>
+				<MarkerCategory name="dame_derwena" DisplayName="Kryta (Kessex Hills)"/>
+				<MarkerCategory name="le_renard" DisplayName="Maguuma Jungle (Metrica Province)"/>
+				<MarkerCategory name="mehem_le_voyageur" DisplayName="Maguuma Wastes (The Silverwastes)"/>
+				<MarkerCategory name="specialiste_yana" DisplayName="Ruins of Orr (Malchor's Leap)"/>
+				<MarkerCategory name="despina_katyn" DisplayName="Shiverpeak Mountains (Dredgehaunt Cliffs)"/>
+			</MarkerCategory>
+			<MarkerCategory name="mercredi" DisplayName="Wednesday">
+				<MarkerCategory name="verna_broyedon" DisplayName="Ascalon (Blazeridge Steppes)"/>
+				<MarkerCategory name="dame_derwena" DisplayName="Kryta (Harathi Hinterlands)"/>
+				<MarkerCategory name="le_renard" DisplayName="Maguuma Jungle (Sparkfly Fen)"/>
+				<MarkerCategory name="mehem_le_voyageur" DisplayName="Maguuma Wastes (Dry Top)"/>
+				<MarkerCategory name="specialiste_yana" DisplayName="Ruins of Orr (Cursed Shore)"/>
+				<MarkerCategory name="despina_katyn" DisplayName="Shiverpeak Mountains (Snowden Drifts)"/>
+			</MarkerCategory>
+			<MarkerCategory name="jeudi" DisplayName="Thursday">
+				<MarkerCategory name="verna_broyedon" DisplayName="Ascalon (Iron Marches)"/>
+				<MarkerCategory name="dame_derwena" DisplayName="Kryta (Queensdale)"/>
+				<MarkerCategory name="le_renard" DisplayName="Maguuma Jungle (Brisban Wildlands)"/>
+				<MarkerCategory name="mehem_le_voyageur" DisplayName="Maguuma Wastes (The Silverwastes)"/>
+				<MarkerCategory name="specialiste_yana" DisplayName="Ruins of Orr (Straits of Devastation)"/>
+				<MarkerCategory name="despina_katyn" DisplayName="Shiverpeak Mountains (Lornar's Pass)"/>
+			</MarkerCategory>
+			<MarkerCategory name="vendredi" DisplayName="Friday">
+				<MarkerCategory name="verna_broyedon" DisplayName="Ascalon (Fields of Ruin)"/>
+				<MarkerCategory name="dame_derwena" DisplayName="Kryta (Southsun Cove)"/>
+				<MarkerCategory name="le_renard" DisplayName="Maguuma Jungle (Mount Maelstrom)"/>
+				<MarkerCategory name="mehem_le_voyageur" DisplayName="Maguuma Wastes (Dry Top)"/>
+				<MarkerCategory name="specialiste_yana" DisplayName="Ruins of Orr (Malchor's Leap)"/>
+				<MarkerCategory name="despina_katyn" DisplayName="Shiverpeak Mountains (Wayfarer Foothills)"/>
+			</MarkerCategory>
+			<MarkerCategory name="samedi" DisplayName="Saturday">
+				<MarkerCategory name="verna_broyedon" DisplayName="Ascalon (Diessa Plateau)"/>
+				<MarkerCategory name="dame_derwena" DisplayName="Kryta (Gendarran Fields)"/>
+				<MarkerCategory name="le_renard" DisplayName="Maguuma Jungle (Mount Maelstrom)"/>
+				<MarkerCategory name="mehem_le_voyageur" DisplayName="Maguuma Wastes (The Silverwastes)"/>
+				<MarkerCategory name="specialiste_yana" DisplayName="Ruins of Orr (Cursed Shore)"/>
+				<MarkerCategory name="despina_katyn" DisplayName="Shiverpeak Mountains (Timberline Falls)"/>
+			</MarkerCategory>
+			<MarkerCategory name="dimanche" DisplayName="Sunday">
+				<MarkerCategory name="verna_broyedon" DisplayName="Ascalon (Fireheart Rise)"/>
+				<MarkerCategory name="dame_derwena" DisplayName="Kryta (Bloodtide Coast)"/>
+				<MarkerCategory name="le_renard" DisplayName="Maguuma Jungle (Caledon Forest)"/>
+				<MarkerCategory name="mehem_le_voyageur" DisplayName="Maguuma Wastes (Dry Top)"/>
+				<MarkerCategory name="specialiste_yana" DisplayName="Ruins of Orr (Straits of Devastation)"/>
+				<MarkerCategory name="despina_katyn" DisplayName="Shiverpeak Mountains (Frostgorge Sound)"/>
+			</MarkerCategory>
+		</MarkerCategory>
+	</MarkerCategory>
+
+	<POIs>
+
+		<!-- Lundi -->
+		<POI MapID="22" xpos="-817.277" ypos="3.68952" zpos="336.036" type="astuces.agents_du_pacte.lundi.verna_broyedon" GUID="YYvLUcjy2Uminah4CIJVyg=="/>
+		<POI MapID="73" xpos="411.119" ypos="30.068" zpos="870.92" type="astuces.agents_du_pacte.lundi.dame_derwena" GUID="gS6IQBZCrkaQEemrfuR15A=="/>
+		<POI MapID="34" xpos="-159.211" ypos="24.773" zpos="750.207" type="astuces.agents_du_pacte.lundi.le_renard" GUID="p/Ng2I/tkUCW4bCSDB0K0A=="/>
+		<POI MapID="988" xpos="106.614" ypos="41.6874" zpos="-216.678" type="astuces.agents_du_pacte.lundi.mehem_le_voyageur" GUID="m8JevxWF30OsS51jdUn84Q=="/>
+		<POI MapID="51" xpos="-544.688" ypos="38.1893" zpos="-147.801" type="astuces.agents_du_pacte.lundi.specialiste_yana" GUID="RzKq6uIML0ispcVEb/jDCA=="/>
+		<POI MapID="30" xpos="107.848" ypos="78.48" zpos="-313.01" type="astuces.agents_du_pacte.lundi.despina_katyn" GUID="GlLRBBiCoE6xTjeyAC1bUg=="/>
+
+		<!-- Mardi -->
+		<POI MapID="19" xpos="-243.121" ypos="34.4939" zpos="85.4088" type="astuces.agents_du_pacte.mardi.verna_broyedon" GUID="8FCnOpWxEE+4pw1sZ6Wi8A=="/>
+		<POI MapID="23" xpos="1189.08" ypos="50.1956" zpos="-270.805" type="astuces.agents_du_pacte.mardi.dame_derwena" GUID="agOoIZxDfEWextSbr588MQ=="/>
+		<POI MapID="35" xpos="327.11" ypos="12.7032" zpos="-65.482" type="astuces.agents_du_pacte.mardi.le_renard" GUID="l8SF2jYcGEaeKFyPfxYn+Q=="/>
+		<POI MapID="1015" xpos="499.001" ypos="415.029" zpos="-328.826" type="astuces.agents_du_pacte.mardi.mehem_le_voyageur" GUID="lHzApB2Rx0ypX4cMS4vcog=="/>
+		<POI MapID="65" xpos="1020.76" ypos="9.04626" zpos="118.051" type="astuces.agents_du_pacte.mardi.specialiste_yana" GUID="DZ/yy86yX0OXGsyPzano7g=="/>
+		<POI MapID="26" xpos="-335.124" ypos="66.7172" zpos="764.353" type="astuces.agents_du_pacte.mardi.despina_katyn" GUID="8SB9bwImL0m0ZCQflCRP5w=="/>
+
+		<!-- Mercredi -->
+		<POI MapID="20" xpos="84.2904" ypos="3.92498" zpos="-1091.08" type="astuces.agents_du_pacte.mercredi.verna_broyedon" GUID="H0JpTIGjnE2I2Y7PB9qAFA=="/>
+		<POI MapID="17" xpos="634.677" ypos="24.9649" zpos="-735.747" type="astuces.agents_du_pacte.mercredi.dame_derwena" GUID="2N4uegk08EmFB/wDY4fcHQ=="/>
+		<POI MapID="53" xpos="172.725" ypos="5.15975" zpos="567.986" type="astuces.agents_du_pacte.mercredi.le_renard" GUID="9I+2Stop+EecfNdyoJwECA=="/>
+		<POI MapID="988" xpos="293.476" ypos="13.8297" zpos="-207.859" type="astuces.agents_du_pacte.mercredi.mehem_le_voyageur" GUID="XF8FhH9+l0e2FSiPuFfK/A=="/>
+		<POI MapID="62" xpos="92.3146" ypos="32.1403" zpos="921.54" type="astuces.agents_du_pacte.mercredi.specialiste_yana" GUID="pLs/3u+IfU6jYj9kERlV9w=="/>
+		<POI MapID="31" xpos="-565.032" ypos="60.4288" zpos="-432.856" type="astuces.agents_du_pacte.mercredi.despina_katyn" GUID="l43ldke7eUCjAmJSwMkoFw=="/>
+
+		<!-- Jeudi -->
+		<POI MapID="25" xpos="-407.726" ypos="48.831" zpos="-605.592" type="astuces.agents_du_pacte.jeudi.verna_broyedon" GUID="are76Zqh7UawjIjib/eXAQ=="/>
+		<POI MapID="15" xpos="-215.21" ypos="9.96456" zpos="-42.2682" type="astuces.agents_du_pacte.jeudi.dame_derwena" GUID="KLoT2QcZzEyUgM0zFDdg9A=="/>
+		<POI MapID="54" xpos="981.885" ypos="72.6017" zpos="566.063" type="astuces.agents_du_pacte.jeudi.le_renard" GUID="Z5jFsUn5vEKsVooYq38MWw=="/>
+		<POI MapID="1015" xpos="-313.712" ypos="430.654" zpos="93.4621" type="astuces.agents_du_pacte.jeudi.mehem_le_voyageur" GUID="EFE6B/w8PkGCf9XaDabbrg=="/>
+		<POI MapID="51" xpos="576.076" ypos="3.82338" zpos="213.604" type="astuces.agents_du_pacte.jeudi.specialiste_yana" GUID="Bqg/qEXc+kGoPlQ3qplSXQ=="/>
+		<POI MapID="27" xpos="-204.732" ypos="82.8743" zpos="-178.24" type="astuces.agents_du_pacte.jeudi.despina_katyn" GUID="5bOLwchum0mLkX2ACpz1sQ=="/>
+
+		<!-- Vendredi -->
+		<POI MapID="21" xpos="-584.637" ypos="60.6031" zpos="-454.672" type="astuces.agents_du_pacte.vendredi.verna_broyedon" GUID="8Lzjv49U9063/74TjO/OIg=="/>
+		<POI MapID="873" xpos="622.367" ypos="13.5202" zpos="-403.381" type="astuces.agents_du_pacte.vendredi.dame_derwena" GUID="Ks5vLArNZ06VyfhiFapBDA=="/>
+		<POI MapID="39" xpos="-478.611" ypos="25.3051" zpos="376.998" type="astuces.agents_du_pacte.vendredi.le_renard" GUID="VIg81Xe0yUqiuNiyfbJALQ=="/>
+		<POI MapID="988" xpos="-583.388" ypos="78.6947" zpos="-349.118" type="astuces.agents_du_pacte.vendredi.mehem_le_voyageur" GUID="gUYGPRUSoEisaKjioneDrw=="/>
+		<POI MapID="65" xpos="1023.85" ypos="48.6635" zpos="-88.2559" type="astuces.agents_du_pacte.vendredi.specialiste_yana" GUID="hy04wvLaZ0CWQ3c5vqN2uw=="/>
+		<POI MapID="28" xpos="213.692" ypos="92.8309" zpos="965.406" type="astuces.agents_du_pacte.vendredi.despina_katyn" GUID="jiL20ithYkuBrr5LglL1sA=="/>
+
+		<!-- Samedi -->
+		<POI MapID="32" xpos="-624.362" ypos="42.8593" zpos="32.6918" type="astuces.agents_du_pacte.samedi.verna_broyedon" GUID="Sa2Jwwqb6kG/y3QjYKzrXg=="/>
+		<POI MapID="24" xpos="715.174" ypos="50.0252" zpos="315.362" type="astuces.agents_du_pacte.samedi.dame_derwena" GUID="Mr/Gs6h/kEqtoGuW14B33g=="/>
+		<POI MapID="39" xpos="329.294" ypos="53.4881" zpos="652.319" type="astuces.agents_du_pacte.samedi.le_renard" GUID="t0ceA80PWU2hyqM81vq33Q=="/>
+		<POI MapID="1015" xpos="504.041" ypos="415.158" zpos="-144.167" type="astuces.agents_du_pacte.samedi.mehem_le_voyageur" GUID="jWB22ABZWU2lDS/lWYUkeQ=="/>
+		<POI MapID="62" xpos="-50.7746" ypos="30.9765" zpos="-486.328" type="astuces.agents_du_pacte.samedi.specialiste_yana" GUID="dXlQ6CPH9UShRgAHULjimQ=="/>
+		<POI MapID="29" xpos="30.7644" ypos="78.2598" zpos="721.416" type="astuces.agents_du_pacte.samedi.despina_katyn" GUID="wBqzdzwUjECRrNNcYJzj6Q=="/>
+
+		<!-- Dimanche -->
+		<POI MapID="22" xpos="-435.859" ypos="80.016" zpos="785.336" type="astuces.agents_du_pacte.dimanche.verna_broyedon" GUID="57O9K/g8eECsnTwqPidXEQ=="/>
+		<POI MapID="73" xpos="479.288" ypos="19.3622" zpos="128.502" type="astuces.agents_du_pacte.dimanche.dame_derwena" GUID="LgSHnMkSVU6P6moIRuUW8w=="/>
+		<POI MapID="34" xpos="-22.8167" ypos="5.12166" zpos="4.22472" type="astuces.agents_du_pacte.dimanche.le_renard" GUID="ApL9/MaxS0SSpmddLUBtiw=="/>
+		<POI MapID="988" xpos="-529.326" ypos="10.0407" zpos="-17.6919" type="astuces.agents_du_pacte.dimanche.mehem_le_voyageur" GUID="+UHP9kU+y0a5vrHYB3i8FA=="/>
+		<POI MapID="51" xpos="518.245" ypos="35.376" zpos="59.152" type="astuces.agents_du_pacte.dimanche.specialiste_yana" GUID="Bz24p3il+kOXabbP9YIlXA=="/>
+		<POI MapID="30" xpos="-570.651" ypos="33.3877" zpos="-217.484" type="astuces.agents_du_pacte.dimanche.despina_katyn" GUID="FA0KsZWQOUSl3G9IWBRfVQ=="/>
+
+	</POIs>
+</OverlayData>

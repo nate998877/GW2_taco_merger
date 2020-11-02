@@ -1,0 +1,490 @@
+<!-- 2020.07.09 -->
+<OverlayData>
+	<POIs>
+
+		<!-- A WADDLE TO REMEMBER -->
+		<POI MapID="34" xpos="-443.617" ypos="39.6026"   zpos="-376.069" type="general.explorer.a_waddle_to_remember" GUID="j5AH2fE0oUWgYE+u1C1gDA=="/>
+		<POI MapID="34" xpos="-368.571" ypos="38.1906"   zpos="158.003"  type="general.explorer.a_waddle_to_remember" GUID="vHrrObOy/km5qtaCBsQ/LQ=="/>
+		<POI MapID="34" xpos="-288.231" ypos="3.36071"   zpos="959.057"  type="general.explorer.a_waddle_to_remember" GUID="hrtLvYM4ZU2xyto1UXm85g=="/>
+		<POI MapID="34" xpos="-53.6904" ypos="53.6025"   zpos="563.398"  type="general.explorer.a_waddle_to_remember" GUID="EpTrK/uc80OtejbQq6sMHQ=="/>
+		<POI MapID="34" xpos="281.79"   ypos="35.3704"   zpos="-336.797" type="general.explorer.a_waddle_to_remember" GUID="WD2PmtjZ5ESF3a3lP42Wkg=="/>
+		<POI MapID="35" xpos="-57.895"  ypos="5.54881"   zpos="31.7815"  type="general.explorer.a_waddle_to_remember" GUID="aQyA7kYSUU+LvcSCVNylzw=="/>
+		<POI MapID="35" xpos="89.7958"  ypos="15.2937"   zpos="640.572"  type="general.explorer.a_waddle_to_remember" GUID="CzQ9/OUQKEunRyFb4iN8Mw=="/>
+		<POI MapID="35" xpos="126.791"  ypos="-0.092451" zpos="939.292"  type="general.explorer.a_waddle_to_remember" GUID="kfrV9Uk9j0O3dMWamUgSGw=="/>
+		<POI MapID="35" xpos="376.754"  ypos="10.9969"   zpos="227.15"   type="general.explorer.a_waddle_to_remember" GUID="ezbFqTCUdE+PenHD4Xp49w=="/>
+		<POI MapID="35" xpos="585.53"   ypos="-0.576606" zpos="-523.676" type="general.explorer.a_waddle_to_remember" GUID="IEYvdlMgCE6hgbbWX+gX/Q=="/>
+		<POI MapID="39" xpos="-1058.89" ypos="61.0942"   zpos="222.846"  type="general.explorer.a_waddle_to_remember" GUID="UCOuKeDKg0SpcUHYVajZQQ=="/>
+		<POI MapID="39" xpos="-933.373" ypos="14.9409"   zpos="-433.657" type="general.explorer.a_waddle_to_remember" GUID="xWxxKWDLVkK/nu5yS+CwNA=="/>
+		<POI MapID="39" xpos="-99.2454" ypos="3.41894"   zpos="530.939"  type="general.explorer.a_waddle_to_remember" GUID="3ZcRtCjTl0+5LVGa6OVdFg=="/>
+		<POI MapID="39" xpos="277.134"  ypos="54.3203"   zpos="526.174"  type="general.explorer.a_waddle_to_remember" GUID="btFiT73CvkW9lRg/kz1iNg=="/>
+		<POI MapID="39" xpos="539.019"  ypos="7.74153"   zpos="-537.898" type="general.explorer.a_waddle_to_remember" GUID="OMX0QrA8dE+nt4k00/q5yw=="/>
+		<POI MapID="54" xpos="-757.447" ypos="8.50487"   zpos="415.805"  type="general.explorer.a_waddle_to_remember" GUID="YK+Ha0w8bE+ubQOig4N1YA=="/>
+		<POI MapID="54" xpos="-611.7"   ypos="27.8802"   zpos="-338.106" type="general.explorer.a_waddle_to_remember" GUID="PzkDAYO8dk+HKfG76Jx+EQ=="/>
+		<POI MapID="54" xpos="-553.118" ypos="16.307"    zpos="-652.782" type="general.explorer.a_waddle_to_remember" GUID="Cykr8cAnyEKWhzKRoDB56A=="/>
+		<POI MapID="54" xpos="338.686"  ypos="117.103"   zpos="409.8"    type="general.explorer.a_waddle_to_remember" GUID="E12mrg+SSkeYB1ZhFtwpdQ=="/>
+		<POI MapID="54" xpos="954.192"  ypos="123.027"   zpos="-732.938" type="general.explorer.a_waddle_to_remember" GUID="Go6tjfG8wk+Xqru2y5rXxA=="/>
+
+		<!-- BAD NEIGHBORHOOD -->
+		<Trail type="general.explorer.bad_neighborhood" GUID="W05HoMpQh06nu3vDuhQaQQ==" trailData="Data/General/Explorer/BadNeighborhood.trl" texture="Data/Arrow.png" color="ff00ff00" alpha="0.8" fadeNear="1500" fadeFar="2000" animSpeed="1" mapDisplaySize="15"/>
+		<POI MapID="15" xpos="56.241"   ypos="1.41234" zpos="596.259" type="general.explorer.bad_neighborhood" GUID="LRbQLO1weEuc+IwVe6h8tg=="/>
+		<POI MapID="15" xpos="0.387116" ypos="8.66482" zpos="699.523" type="general.explorer.bad_neighborhood" GUID="z/DS3VaoOky7wLi403i16w==" iconFile="Img/General/MiniDungeonChest.png" fadeNear="1500" fadeFar="2000" heightOffset="2"/>
+
+		<!-- BEAKER'S EMPTY BELLY -->
+		<Trail type="general.explorer.beaker_s_empty_belly" GUID="mP62n6kahE6FRJAuTg9Y7g==" trailData="Data/General/Explorer/BeakersEmptyBelly.trl" texture="Data/Arrow.png" color="ffffdd00" alpha="0.8" fadeNear="1500" fadeFar="2000" animSpeed="1" mapDisplaySize="15"/>
+		<POI MapID="27" xpos="-261.368" ypos="0.285115" zpos="-815.543" type="general.explorer.beaker_s_empty_belly" GUID="pDAe3K+g6k6QxTJR0MRYDQ=="/>
+		<POI MapID="27" xpos="-477.474" ypos="0.539721" zpos="-650.254" type="general.explorer.beaker_s_empty_belly" GUID="oEt2C1+A/kasJoYHkPnjNg==" iconFile="Img/Icons/Switch.png"      maxSize="24" fadeNear="1500" fadeFar="2000" heightOffset="0.5" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="27" xpos="-489.214" ypos="83.0651"  zpos="-360.207" type="general.explorer.beaker_s_empty_belly" GUID="zUZSHu3EYke5fnzN8hYrWg==" iconFile="Img/Icons/Interaction.png" maxSize="24" fadeNear="1500" fadeFar="2000" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="27" xpos="-483.685" ypos="76.0148"  zpos="-384.31"  type="general.explorer.beaker_s_empty_belly" GUID="mkANwQ4Fa06tqbJki+93Fw==" iconFile="Img/Icons/Interaction.png" maxSize="24" fadeNear="1500" fadeFar="2000" mapVisibility="0" miniMapVisibility="0"/>
+
+		<!-- BEHIND THE MASK -->
+		<POI MapID="19" xpos="1191.75"  ypos="30.3697" zpos="208.16"   type="general.explorer.behind_the_mask" GUID="64rtqU0TPU+UUp5zqVxNgg=="/>
+		<POI MapID="19" xpos="461.28"   ypos="35.757"  zpos="578.786"  type="general.explorer.behind_the_mask" GUID="8+NZVq2P4EKPZuoFfedEbQ=="/>
+		<POI MapID="19" xpos="452.208"  ypos="2.50864" zpos="-421.398" type="general.explorer.behind_the_mask" GUID="aEMnLpfiZkyUg2vGMkP8Dw=="/>
+		<POI MapID="19" xpos="-192.775" ypos="58.4663" zpos="346.705"  type="general.explorer.behind_the_mask" GUID="0mr9xT4/uEC32L7K1hyu2w=="/>
+		<POI MapID="19" xpos="-658.92"  ypos="47.0588" zpos="-369.263" type="general.explorer.behind_the_mask" GUID="6lqr2HcxckiAFMNywJEFEQ=="/>
+		<POI MapID="21" xpos="51.2264"  ypos="3.08918" zpos="137.144"  type="general.explorer.behind_the_mask" GUID="slEf0RxH50i+zxBzm6G+gA=="/>
+		<POI MapID="21" xpos="550.884"  ypos="40.6325" zpos="-868.066" type="general.explorer.behind_the_mask" GUID="WuUbseJpdkW/U9VcTUJvXA=="/>
+		<POI MapID="22" xpos="91.4032"  ypos="22.0672" zpos="-279.987" type="general.explorer.behind_the_mask" GUID="U5/Qibt55EOj1JSjvPtxDA=="/>
+		<POI MapID="22" xpos="-175.839" ypos="67.9951" zpos="755.578"  type="general.explorer.behind_the_mask" GUID="wZeJEOJYJ02ejDWf1Bb3hg=="/>
+		<POI MapID="22" xpos="-177.5"   ypos="22.1307" zpos="188.274"  type="general.explorer.behind_the_mask" GUID="g1+Tdt1dfEmncNg5lmqRyA=="/>
+		<POI MapID="22" xpos="-426.696" ypos="40.9831" zpos="-700.366" type="general.explorer.behind_the_mask" GUID="L/qzf0fBxU6BvZAd9n5M8A=="/>
+		<POI MapID="22" xpos="-491.141" ypos="57.5285" zpos="159.942"  type="general.explorer.behind_the_mask" GUID="Z5rQ7IE7d0KNM6z4aM09AA=="/>
+		<POI MapID="32" xpos="-930.877" ypos="106.44"  zpos="516.088"  type="general.explorer.behind_the_mask" GUID="TiXN2nI4nk64c0ubD/lbvg=="/>
+		<POI MapID="32" xpos="911.073"  ypos="47.3343" zpos="396.893"  type="general.explorer.behind_the_mask" GUID="pTm1LYTWCUqA1DcryDU/uA=="/>
+		<POI MapID="32" xpos="-824.414" ypos="36.1012" zpos="-369.486" type="general.explorer.behind_the_mask" GUID="8E6RB2vHe02zNTPb+JW1Qw=="/>
+		<POI MapID="32" xpos="150.865"  ypos="69.9383" zpos="524.26"   type="general.explorer.behind_the_mask" GUID="dBet1OUExUqzY1QMqG83yg=="/>
+
+		<!-- CHICKEN SCRAMBLE -->
+		<POI MapID="15"   xpos="-926.587" ypos="21.4472" zpos="-298.701" type="general.explorer.chicken_scramble" GUID="+36Z25BaO0CXxgUXURd05Q=="/>
+		<POI MapID="15"   xpos="-784.106" ypos="27.4658" zpos="-138.091" type="general.explorer.chicken_scramble" GUID="9DCbK42beUCtnrvzH66Aig=="/>
+		<POI MapID="15"   xpos="-434.412" ypos="26.367"  zpos="-258.967" type="general.explorer.chicken_scramble" GUID="dzDbchBf3EW5mG57IkxoLQ=="/>
+		<POI MapID="15"   xpos="-366.729" ypos="35.3902" zpos="-519.908" type="general.explorer.chicken_scramble" GUID="/xigM4ZpAkyRgZRRaQmy8A=="/>
+		<POI MapID="15"   xpos="-254.56"  ypos="13.3476" zpos="-218.098" type="general.explorer.chicken_scramble" GUID="deedPYdxpE+5Md/968pYyA=="/>
+		<POI MapID="15"   xpos="-95.5544" ypos="25.8593" zpos="-360.896" type="general.explorer.chicken_scramble" GUID="4qhQTVahdECBylHfeiVxOQ=="/>
+		<POI MapID="15"   xpos="731.971"  ypos="89.966"  zpos="-146.527" type="general.explorer.chicken_scramble" GUID="RpbQ1ozt8UKnC7U8zYmXNA=="/>
+		<POI MapID="23"   xpos="-1105.03" ypos="42.4279" zpos="23.9177"  type="general.explorer.chicken_scramble" GUID="SZlkSW4IH0+r9rme75nUhQ=="/>
+		<POI MapID="23"   xpos="-646.039" ypos="3.85682" zpos="-434.732" type="general.explorer.chicken_scramble" GUID="oYUen21IDESiK/rCOUeAGw=="/>
+		<POI MapID="23"   xpos="-159.628" ypos="46.7538" zpos="352.202"  type="general.explorer.chicken_scramble" GUID="CHB1d28hJ0GR5UPbE6X5bg=="/>
+		<POI MapID="23"   xpos="711.338"  ypos="75.4889" zpos="228.294"  type="general.explorer.chicken_scramble" GUID="XlX9A/GZQUWVnhDg+CXeWQ=="/>
+		<POI MapID="23"   xpos="1229.01"  ypos="45.68"   zpos="-76.825"  type="general.explorer.chicken_scramble" GUID="nXYWFqhnfkqC/k4Kq/XEKw=="/>
+		<POI MapID="24"   xpos="-932.221" ypos="12.7252" zpos="-295.474" type="general.explorer.chicken_scramble" GUID="i8mRURzQSkKCCzRX4uZInw=="/>
+		<POI MapID="24"   xpos="-518.256" ypos="45.4257" zpos="485.616"  type="general.explorer.chicken_scramble" GUID="2w2xj5WMnkuvUzJ/axWx6Q=="/>
+		<POI MapID="24"   xpos="-309.097" ypos="5.09815" zpos="-34.3142" type="general.explorer.chicken_scramble" GUID="cwKEQUTSH0q1f3O69DMK8A=="/>
+		<POI MapID="24"   xpos="701.365"  ypos="20.4607" zpos="-133.816" type="general.explorer.chicken_scramble" GUID="0hcOkdplpEqpZ7gN4MZibg=="/>
+		<POI MapID="24"   xpos="1091.79"  ypos="46.9073" zpos="108.387"  type="general.explorer.chicken_scramble" GUID="EmOH1rJaQEK39/kFyDgknw=="/>
+		<POI MapID="73"   xpos="-131.65"  ypos="35.393"  zpos="952.886"  type="general.explorer.chicken_scramble" GUID="EUvDMvv5pUmUIuReKMnJow=="/>
+		<POI MapID="73"   xpos="349.949"  ypos="32.5743" zpos="55.2773"  type="general.explorer.chicken_scramble" GUID="h2tb5JkO4Ui0U/nIz09JfA=="/>
+		<POI MapID="73"   xpos="380.855"  ypos="48.9856" zpos="527.012"  type="general.explorer.chicken_scramble" GUID="grhAuuvuZkaJoS3/X7OrZw=="/>
+		<POI MapID="73"   xpos="381.621"  ypos="22.3501" zpos="13.3452"  type="general.explorer.chicken_scramble" GUID="2VYju5HlLEqe7bBe/yf7YQ=="/>
+		<POI MapID="73"   xpos="466.303"  ypos="54.9174" zpos="-239.049" type="general.explorer.chicken_scramble" GUID="6zAg/kAGXE2POJIetWoFmg=="/>
+		<POI MapID="73"   xpos="547.031"  ypos="24.7445" zpos="-463.187" type="general.explorer.chicken_scramble" GUID="hbrcisEcpEm4FqcVmyGTxw=="/>
+		<POI MapID="1015" xpos="-208.696" ypos="416.275" zpos="-142.644" type="general.explorer.chicken_scramble" GUID="KtSnWo3yfk+l6852VtV0LQ=="/>
+		<POI MapID="1015" xpos="-51.4684" ypos="417.543" zpos="42.2941"  type="general.explorer.chicken_scramble" GUID="SOMoAiC3P0Kzh4HOTnSpMg=="/>
+		<POI MapID="1015" xpos="101.954"  ypos="412.842" zpos="-215.247" type="general.explorer.chicken_scramble" GUID="UPzLQWXLqkm4fd1ze+pguQ=="/>
+
+		<!-- CLEANING UP THE NEIGHBORHOOD -->
+		<POI MapID="21" xpos="-646.207" ypos="47.0182" zpos="-643.746" type="general.explorer.cleaning_up_the_neighborhood" GUID="D/GjZ5xHIkCFF5UjjOcKng=="/>
+		<POI MapID="21" xpos="-516.212" ypos="51.7207" zpos="-720.617" type="general.explorer.cleaning_up_the_neighborhood" GUID="FzDEp7wSIk2J5klV4+TWew=="/>
+		<POI MapID="21" xpos="-673.886" ypos="57.5914" zpos="-662.098" type="general.explorer.cleaning_up_the_neighborhood" GUID="OdRwbAlPqkaC0pGHnRm1hw=="/>
+		<POI MapID="21" xpos="-644.916" ypos="46.9322" zpos="-623.768" type="general.explorer.cleaning_up_the_neighborhood" GUID="nUmNWqVS10Cw5NqLJumb8Q=="/>
+		<POI MapID="21" xpos="-641.474" ypos="51.55"   zpos="-555.331" type="general.explorer.cleaning_up_the_neighborhood" GUID="hA5dGLGijEeK3LVdbHT/eg=="/>
+		<POI MapID="21" xpos="-633.573" ypos="55.4626" zpos="-523.089" type="general.explorer.cleaning_up_the_neighborhood" GUID="jnt/5QL5AEOr1DeZHk+0wg=="/>
+		<POI MapID="21" xpos="-632.36"  ypos="51.7619" zpos="-697.635" type="general.explorer.cleaning_up_the_neighborhood" GUID="gXC6Mh/Ny0OaUeD0YJy4UQ=="/>
+		<POI MapID="21" xpos="-629.661" ypos="51.7569" zpos="-699.284" type="general.explorer.cleaning_up_the_neighborhood" GUID="zzyz8LqX+ECkbgGkSU9BBg=="/>
+		<POI MapID="21" xpos="-627.264" ypos="51.7526" zpos="-700.722" type="general.explorer.cleaning_up_the_neighborhood" GUID="T7NZmNqiUUqNUhDzK7Yrqg=="/>
+		<POI MapID="21" xpos="-610.129" ypos="46.9248" zpos="-598.899" type="general.explorer.cleaning_up_the_neighborhood" GUID="IhWHor58REiHHIQcXb8/9g=="/>
+		<POI MapID="21" xpos="-609.477" ypos="54.8536" zpos="-512.274" type="general.explorer.cleaning_up_the_neighborhood" GUID="8XTF1BR9OUyREGC/tQ9XqA=="/>
+		<POI MapID="21" xpos="-596.651" ypos="46.9185" zpos="-571.228" type="general.explorer.cleaning_up_the_neighborhood" GUID="zHhBBM5uVECirDyna7u/dg=="/>
+		<POI MapID="21" xpos="-587.773" ypos="51.7294" zpos="-709.536" type="general.explorer.cleaning_up_the_neighborhood" GUID="VMrq6AfYaUS4HB3zjd3Vog=="/>
+		<POI MapID="21" xpos="-576.418" ypos="47.1114" zpos="-572.1"   type="general.explorer.cleaning_up_the_neighborhood" GUID="S4rCQdMkwU+yTgZhw9tEmw=="/>
+		<POI MapID="21" xpos="-571.505" ypos="53.6869" zpos="-685.631" type="general.explorer.cleaning_up_the_neighborhood" GUID="gHymIsWOFECQqb+4qRg5vw=="/>
+		<POI MapID="21" xpos="-571.039" ypos="46.993"  zpos="-651.188" type="general.explorer.cleaning_up_the_neighborhood" GUID="niGiPyKNvU6BrptcjMwBAw=="/>
+		<POI MapID="21" xpos="-567.46"  ypos="47.0887" zpos="-611.377" type="general.explorer.cleaning_up_the_neighborhood" GUID="iFFXZcx6nEGPXhb4GEvijw=="/>
+		<POI MapID="21" xpos="-561.833" ypos="56.4574" zpos="-481.618" type="general.explorer.cleaning_up_the_neighborhood" GUID="yZxfy3nXVkCBc3PqqZj6Ow=="/>
+		<POI MapID="21" xpos="-551.291" ypos="51.3202" zpos="-553.628" type="general.explorer.cleaning_up_the_neighborhood" GUID="r/P5YDoVNUiDbig1CPqwtA=="/>
+		<POI MapID="21" xpos="-545.037" ypos="53.2458" zpos="-534.456" type="general.explorer.cleaning_up_the_neighborhood" GUID="5Aq5jyHEREmHFl/PofAW4g=="/>
+		<POI MapID="21" xpos="-511.162" ypos="61.2627" zpos="-489.506" type="general.explorer.cleaning_up_the_neighborhood" GUID="XDZzuB9kG0ube+RycrrtUA=="/>
+		<POI MapID="21" xpos="-503.053" ypos="56.0738" zpos="-661.913" type="general.explorer.cleaning_up_the_neighborhood" GUID="OVq8Op2EoUqzCJUMNBNDXQ=="/>
+		<POI MapID="21" xpos="-501.439" ypos="51.783"  zpos="-644.115" type="general.explorer.cleaning_up_the_neighborhood" GUID="/s29e7CVK0uSqEo1JpzvOw=="/>
+		<POI MapID="21" xpos="-480.355" ypos="57.3801" zpos="-612.617" type="general.explorer.cleaning_up_the_neighborhood" GUID="SBQ+ffleTUWUeOIjMHCXJw=="/>
+		<POI MapID="21" xpos="-464.411" ypos="60.9049" zpos="-647.319" type="general.explorer.cleaning_up_the_neighborhood" GUID="RjjODUiOoE+VVd2vU2cR/A=="/>
+		<POI MapID="21" xpos="-463.945" ypos="60.6772" zpos="-610.151" type="general.explorer.cleaning_up_the_neighborhood" GUID="Q5AaZSfKhkOOqnPLuGsKuQ=="/>
+		<POI MapID="21" xpos="-462.624" ypos="69.8647" zpos="-458.554" type="general.explorer.cleaning_up_the_neighborhood" GUID="A6gQJIz+v0qQoaoJFwmfwg=="/>
+		<POI MapID="21" xpos="-445.182" ypos="61.0976" zpos="-693.837" type="general.explorer.cleaning_up_the_neighborhood" GUID="XHqlX2d3iEabvM9L5/S+WQ=="/>
+		<POI MapID="21" xpos="-442.706" ypos="66.6025" zpos="-564.921" type="general.explorer.cleaning_up_the_neighborhood" GUID="z9vGI4ta/UWASFKcBLaXcQ=="/>
+		<POI MapID="21" xpos="-431.688" ypos="69.8816" zpos="-502.264" type="general.explorer.cleaning_up_the_neighborhood" GUID="1dS1QG8eJ0eVyq1ocmGIBQ=="/>
+		<POI MapID="21" xpos="-426.46"  ypos="75.1515" zpos="-450.041" type="general.explorer.cleaning_up_the_neighborhood" GUID="eP72Bv1YxUeHm5jiD0+95w=="/>
+		<POI MapID="21" xpos="-421.002" ypos="69.8778" zpos="-523.876" type="general.explorer.cleaning_up_the_neighborhood" GUID="+jnEp4ylykaBOrCtHGYNSQ=="/>
+		<POI MapID="21" xpos="-408.909" ypos="71.1414" zpos="-605.611" type="general.explorer.cleaning_up_the_neighborhood" GUID="cvYjFvmlY02+RhWdmEFZuw=="/>
+		<POI MapID="21" xpos="-408.423" ypos="73.4993" zpos="-613.909" type="general.explorer.cleaning_up_the_neighborhood" GUID="9FfGQ5kBcEuf7rtwDquBkg=="/>
+		<POI MapID="21" xpos="-408.124" ypos="72.3323" zpos="-469.838" type="general.explorer.cleaning_up_the_neighborhood" GUID="5lbOQ/9+9EK4E0tXx4QaqQ=="/>
+		<POI MapID="21" xpos="-382.276" ypos="69.853"  zpos="-491.644" type="general.explorer.cleaning_up_the_neighborhood" GUID="p75624t6t0Wyx2IIC8IrPw=="/>
+		<POI MapID="21" xpos="-381.712" ypos="68.325"  zpos="-692.216" type="general.explorer.cleaning_up_the_neighborhood" GUID="1QSCKihocE6GD73ZFNziNw=="/>
+		<POI MapID="21" xpos="-371.309" ypos="69.8746" zpos="-612.44"  type="general.explorer.cleaning_up_the_neighborhood" GUID="vA+EPr8J3U+6AmgV3fUb4Q=="/>
+		<POI MapID="21" xpos="-362.715" ypos="72.3845" zpos="-551.8"   type="general.explorer.cleaning_up_the_neighborhood" GUID="09TgRp6KK0uS+8IKiwDgLw=="/>
+		<POI MapID="21" xpos="-449.179" ypos="61.4739" zpos="-598.049" type="general.explorer.cleaning_up_the_neighborhood" GUID="B6zZlt/uHUmN+lBPlBcIiw=="/>
+		<POI MapID="21" xpos="-374.73"  ypos="69.8435" zpos="-512.111" type="general.explorer.cleaning_up_the_neighborhood" GUID="1AQ40MGAv06NZX1mtLip+Q=="/>
+
+		<!-- DIVE MASTER -->
+		<POI MapID="17"  xpos="666.001"  ypos="29.6502" zpos="-717.454" type="general.explorer.dive_master" GUID="bxpKlRHG3kuN8ODZIDcyoA=="/>
+		<POI MapID="17"  xpos="-368.547" ypos="33.9852" zpos="636.386"  type="general.explorer.dive_master" GUID="mvRkmPll5k2GuWl2aP752A=="/>
+		<POI MapID="19"  xpos="611.077"  ypos="48.5678" zpos="-383.16"  type="general.explorer.dive_master" GUID="//2ghwA7bk2FyjjW2NJfcw=="/>
+		<POI MapID="19"  xpos="-347.627" ypos="20.2792" zpos="-385.118" type="general.explorer.dive_master" GUID="IoCrC1p1j0SM+oPMAwioMQ=="/>
+		<POI MapID="21"  xpos="-43.3557" ypos="35.8663" zpos="77.5656"  type="general.explorer.dive_master" GUID="ZBWWHlASakKoex4rleECAA=="/>
+		<POI MapID="21"  xpos="-546.471" ypos="14.2692" zpos="712.592"  type="general.explorer.dive_master" GUID="BTj3cLu0KkOtgsDDHUrFnQ=="/>
+		<POI MapID="22"  xpos="316.298"  ypos="56.5006" zpos="-584.852" type="general.explorer.dive_master" GUID="xpkD8GkMy0mcWThYI+0Acw=="/>
+		<POI MapID="23"  xpos="1072.46"  ypos="87.9465" zpos="-486.758" type="general.explorer.dive_master" GUID="pfHHjAnmMkmGjZCzLiIQ0w=="/>
+		<POI MapID="24"  xpos="120.669"  ypos="28.933"  zpos="164.881"  type="general.explorer.dive_master" GUID="9bdRnxNNBEymThsNdXeoHA=="/>
+		<POI MapID="24"  xpos="599.17"   ypos="69.1291" zpos="532.252"  type="general.explorer.dive_master" GUID="Q8KYZCWGoUCieUMHwz+qAQ=="/>
+		<POI MapID="24"  xpos="-305.642" ypos="148.443" zpos="-531.939" type="general.explorer.dive_master" GUID="CGy8Zsvf5U22CXlvGlf1GA=="/>
+		<POI MapID="25"  xpos="-502.176" ypos="54.9407" zpos="-963.155" type="general.explorer.dive_master" GUID="jj4nYpfkvUeIuP86vVpOmA=="/>
+		<POI MapID="25"  xpos="133.224"  ypos="34.8035" zpos="-777.286" type="general.explorer.dive_master" GUID="F1h6PTmWTkWeeIv/iDxMnw=="/>
+		<POI MapID="27"  xpos="-431.033" ypos="52.7826" zpos="-1243.56" type="general.explorer.dive_master" GUID="4/UjutdymUyJnfyWNsfeCg=="/>
+		<POI MapID="27"  xpos="-247.209" ypos="26.6247" zpos="-649.419" type="general.explorer.dive_master" GUID="ujiHvb5IGUqtnrHuBcJZJw=="/>
+		<POI MapID="28"  xpos="143.041"  ypos="41.064"  zpos="-52.1583" type="general.explorer.dive_master" GUID="BDWStOVsh06U09+WAPZO8A=="/>
+		<POI MapID="28"  xpos="283.183"  ypos="41.0717" zpos="-718.103" type="general.explorer.dive_master" GUID="tqipLkcMgEOBw9K/UTbONQ=="/>
+		<POI MapID="29"  xpos="-167.139" ypos="29.023"  zpos="888.028"  type="general.explorer.dive_master" GUID="OhYlm0zJr02YXedtiwXdxQ=="/>
+		<POI MapID="29"  xpos="257.598"  ypos="89.6286" zpos="-533.982" type="general.explorer.dive_master" GUID="tPa9c4gN0UuMC4ADxgD2Cw=="/>
+		<POI MapID="30"  xpos="-117.401" ypos="49.7636" zpos="379.939"  type="general.explorer.dive_master" GUID="z/6l+oDDmUq88NMRu2RcCQ=="/>
+		<POI MapID="32"  xpos="125.154"  ypos="24.8792" zpos="333.349"  type="general.explorer.dive_master" GUID="Xn/As/EE5kGmpv4Q4AFKjw=="/>
+		<POI MapID="32"  xpos="885.592"  ypos="26.8922" zpos="-426.796" type="general.explorer.dive_master" GUID="GNt02yj9oEiYlyvifxqL6Q=="/>
+		<POI MapID="34"  xpos="457.953"  ypos="22.5996" zpos="244.201"  type="general.explorer.dive_master" GUID="m5eTGqQRbkipxG4hyqBpqg=="/>
+		<POI MapID="35"  xpos="333.472"  ypos="18.5816" zpos="890.814"  type="general.explorer.dive_master" GUID="ShORf7I0+0isezkX2LNmSg=="/>
+		<POI MapID="35"  xpos="-25.7014" ypos="25.7587" zpos="-566.702" type="general.explorer.dive_master" GUID="/XVt8bwhV0eZtQ/qxizCag=="/>
+		<POI MapID="39"  xpos="1077.7"   ypos="112.212" zpos="670.234"  type="general.explorer.dive_master" GUID="8KLhYHg+WkuvfZY6zuQhhA=="/>
+		<POI MapID="39"  xpos="1037.74"  ypos="103.133" zpos="497.965"  type="general.explorer.dive_master" GUID="GZ1evztj+Ua/4jLSjlBB1w=="/>
+		<POI MapID="50"  xpos="-313.969" ypos="160.009" zpos="-375.408" type="general.explorer.dive_master" GUID="+cftYq41JUKOZy4WS5ylXw=="/>
+		<POI MapID="51"  xpos="492.352"  ypos="36.5014" zpos="98.1356"  type="general.explorer.dive_master" GUID="mBDQcDUkiUSMMY/tm7mVLA=="/>
+		<POI MapID="51"  xpos="166.939"  ypos="37.8735" zpos="-384.222" type="general.explorer.dive_master" GUID="Ffzt/7NKVEGFRH1ygJzMpg=="/>
+		<POI MapID="54"  xpos="152.17"   ypos="35.3494" zpos="56.128"   type="general.explorer.dive_master" GUID="YTKT4HMbKUOLXQSWHu8kBg=="/>
+		<POI MapID="54"  xpos="511.661"  ypos="52.1656" zpos="165.402"  type="general.explorer.dive_master" GUID="oy1yqQRWQ0i4RAVl660erw=="/>
+		<POI MapID="62"  xpos="102.329"  ypos="24.7463" zpos="372.16"   type="general.explorer.dive_master" GUID="6PkmV/pe+E2hCUjUUCrodA=="/>
+		<POI MapID="62"  xpos="-15.7593" ypos="36.4912" zpos="-871.189" type="general.explorer.dive_master" GUID="JU13ayks40eLA7m4lPnm0Q=="/>
+		<POI MapID="65"  xpos="-402.408" ypos="153.443" zpos="131.78"   type="general.explorer.dive_master" GUID="WzQMttQf70S3iE6KO5xbVA=="/>
+		<POI MapID="73"  xpos="350.768"  ypos="53.8876" zpos="520.809"  type="general.explorer.dive_master" GUID="2WsZoRx2W0myYy258L249w=="/>
+		<POI MapID="91"  xpos="56.3771"  ypos="74.6481" zpos="-17.758"  type="general.explorer.dive_master" GUID="0zWJH96do0yQpwSXdz2s6Q=="/>
+		<POI MapID="139" xpos="-4.80752" ypos="108.835" zpos="-349.995" type="general.explorer.dive_master" GUID="VWV2smS/dEakiIPBt1BCew=="/>
+
+		<!-- DON'T TOUCH THE SHINY -->
+		<Trail type="general.explorer.don_t_touch_the_shiny" GUID="z8dGXmIeB0WiHTs49msfeg==" trailData="Data/General/Explorer/DontTouchTheShiny.trl" texture="Data/Arrow.png" color="ffffdd00" alpha="0.8" fadeNear="1500" fadeFar="2000" animSpeed="1" mapDisplaySize="15"/>
+		<POI MapID="34" xpos="-86.95"   ypos="23.4"    zpos="272.7"   type="general.explorer.don_t_touch_the_shiny" GUID="f8tDV5XpnEqqWlqnb0qGUQ=="/>
+		<POI MapID="34" xpos="0.683843" ypos="7.97399" zpos="343.813" type="general.explorer.don_t_touch_the_shiny" GUID="OQNEjpcLiESRvEclqJAlfw==" iconFile="Img/Icons/Interaction.png"        maxSize="24" fadeNear="1500" fadeFar="2000" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="34" xpos="-37.137"  ypos="9.85857" zpos="362.798" type="general.explorer.don_t_touch_the_shiny" GUID="Ou6Z9vzC206jhPBz4oiRkw==" iconFile="Img/Icons/Target.png"             maxSize="16" fadeNear="1500" fadeFar="2000" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="34" xpos="-1.57176" ypos="10.0181" zpos="409.228" type="general.explorer.don_t_touch_the_shiny" GUID="1JZlV6cfokamDg5TgN1kbA==" iconFile="Img/Icons/Chest.png"              fadeNear="1500" fadeFar="2000" heightOffset="2"/>
+		<POI MapID="34" xpos="-10.3212" ypos="8.99809" zpos="411.578" type="general.explorer.don_t_touch_the_shiny" GUID="uJ7zVTnhiUOkAreHHx80dw==" iconFile="Img/General/MiniDungeonChest.png" fadeNear="1500" fadeFar="2000" heightOffset="2"/>
+
+		<!-- FORGOTTEN STREAM -->
+		<Trail type="general.explorer.forgotten_stream" GUID="xvn4KLTSNEC/xoPd09/9Zg==" trailData="Data/General/Explorer/ForgottenStream.trl" texture="Data/Arrow.png" color="ffffdd00" alpha="0.8" fadeNear="1500" fadeFar="2000" animSpeed="1" mapDisplaySize="15"/>
+		<POI MapID="62" xpos="154.766" ypos="-14.2944" zpos="412.827" type="general.explorer.forgotten_stream" GUID="Ld2H4n+zlEu3ybOTRkpzQA=="/>
+		<POI MapID="62" xpos="376.305" ypos="0.489664" zpos="538.948" type="general.explorer.forgotten_stream" GUID="cMY/U62D9k2U1mJHSQbu9A==" iconFile="Img/General/MiniDungeonChest.png" fadeNear="1500" fadeFar="2000" heightOffset="2"/>
+
+		<!-- FORSAKEN FORTUNE -->
+		<Trail type="general.explorer.forsaken_fortune" GUID="VJ5pSxDEoU2mcrWBCymhPA==" trailData="Data/General/Explorer/ForsakenFortune1.trl" texture="Data/Arrow.png" color="ff00ff00" alpha="0.8" fadeNear="1500" fadeFar="2000" animSpeed="1" mapDisplaySize="15"/>
+		<Trail type="general.explorer.forsaken_fortune" GUID="wcdhN2//+EOTNRkKAVi9Ug==" trailData="Data/General/Explorer/ForsakenFortune2.trl" texture="Data/Arrow.png" color="ffffff00" alpha="0.8" fadeNear="1500" fadeFar="2000" animSpeed="1" mapDisplaySize="15"/>
+		<POI MapID="26" xpos="-343.072" ypos="66.7859" zpos="784.206" type="general.explorer.forsaken_fortune" GUID="d9P0ekqTYUywkqq0Yw0U1A==" iconFile="Img/Numbers/1.png"                mapVisibility="0" miniMapVisibility="0" heightOffset="2"/>
+		<POI MapID="26" xpos="-572.678" ypos="8.64419" zpos="597.826" type="general.explorer.forsaken_fortune" GUID="ytzLEIbm5Uq35QITlx4sYA==" iconFile="Img/Numbers/2.png"                mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="26" xpos="-345.367" ypos="66.6951" zpos="783.448" type="general.explorer.forsaken_fortune" GUID="VweAjr63XE6pRLEferL9FQ==" iconFile="Img/Icons/Detail.png"             minSize="8" maxSize="16" fadeNear="1500" fadeFar="2000" heightOffset="0" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="26" xpos="-342.5"   ypos="66.79"   zpos="782.85"  type="general.explorer.forsaken_fortune" GUID="OT+M/xocM0CmrENzJl/Jig==" iconFile="Img/Icons/Detail.png"             minSize="8" maxSize="16" fadeNear="1500" fadeFar="2000" heightOffset="0" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="26" xpos="-341.17"  ypos="66.69"   zpos="785.24"  type="general.explorer.forsaken_fortune" GUID="OlmSxOeJO0Kf615AvhDixg==" iconFile="Img/Icons/Detail.png"             minSize="8" maxSize="16" fadeNear="1500" fadeFar="2000" heightOffset="0" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="26" xpos="-578.95"  ypos="8.96"    zpos="601.8"   type="general.explorer.forsaken_fortune" GUID="ZWWT2WYU4EmFR/VNFLB/tw==" iconFile="Img/Icons/Switch.png"             fadeNear="1800" fadeFar="2000" heightOffset="4" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="26" xpos="413.487"  ypos="36.1111" zpos="986.015" type="general.explorer.forsaken_fortune" GUID="lLrKfEYb6k++g7WYUtY6Dw==" iconFile="Img/Icons/Switch.png"             fadeNear="3000" fadeFar="5000" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="26" xpos="415.406"  ypos="36.8646" zpos="916.374" type="general.explorer.forsaken_fortune" GUID="DY/HU13DBEWU0IVUaXIUxA==" iconFile="Img/Icons/Switch.png"             fadeNear="3000" fadeFar="5000" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="26" xpos="398.6"    ypos="68.2566" zpos="905.93"  type="general.explorer.forsaken_fortune" GUID="FYK7tRoye0+LB5fG//fAsQ==" iconFile="Img/Icons/Switch.png"             fadeNear="3000" fadeFar="5000" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="26" xpos="481.611"  ypos="47.2899" zpos="888.793" type="general.explorer.forsaken_fortune" GUID="abP9205R20GU6aW7UperFw==" iconFile="Img/Icons/Switch.png"             fadeNear="3000" fadeFar="5000" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="26" xpos="527.965"  ypos="64.2814" zpos="905.293" type="general.explorer.forsaken_fortune" GUID="UQpastlVDUGdzWaTL9JrVw==" iconFile="Img/Icons/Switch.png"             fadeNear="3000" fadeFar="5000" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="26" xpos="529.926"  ypos="45.0839" zpos="912.583" type="general.explorer.forsaken_fortune" GUID="4xkMALpl1k2Vrh2eToYuew==" iconFile="Img/Collectibles/Rubble.png"      fadeNear="2500" fadeFar="3000" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="26" xpos="544.162"  ypos="43.5034" zpos="994.83"  type="general.explorer.forsaken_fortune" GUID="Ug5hzGEfDUmldaqlTTwOHA==" iconFile="Img/Collectibles/Rubble.png"      fadeNear="2500" fadeFar="3000" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="26" xpos="551.158"  ypos="44.0996" zpos="953.08"  type="general.explorer.forsaken_fortune" GUID="+YrISLpjcE6n36LYL4iZ1Q==" iconFile="Img/Collectibles/Rubble.png"      fadeNear="2500" fadeFar="3000" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="26" xpos="579.043"  ypos="43.6735" zpos="989.301" type="general.explorer.forsaken_fortune" GUID="NGnTDI7AsEqunDU01stFow==" iconFile="Img/Collectibles/Rubble.png"      fadeNear="2500" fadeFar="3000" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="26" xpos="582.75"   ypos="43.6744" zpos="956.995" type="general.explorer.forsaken_fortune" GUID="8VIHUJ8m7EOicbLvedGT6w==" iconFile="Img/Collectibles/Rubble.png"      fadeNear="2500" fadeFar="3000" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="26" xpos="586.676"  ypos="43.8622" zpos="907.359" type="general.explorer.forsaken_fortune" GUID="5b3t9ziKtkysLuZi4jbPdA==" iconFile="Img/Collectibles/Rubble.png"      fadeNear="2500" fadeFar="3000" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="26" xpos="595.618"  ypos="43.9378" zpos="936.217" type="general.explorer.forsaken_fortune" GUID="UgRn3/PrZUewdG8fLyc4Qg==" iconFile="Img/Collectibles/Rubble.png"      fadeNear="2500" fadeFar="3000" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="26" xpos="622.228"  ypos="43.8607" zpos="971.201" type="general.explorer.forsaken_fortune" GUID="7QUBZow5sUmlCzLhq4DK8A==" iconFile="Img/Collectibles/Rubble.png"      fadeNear="2500" fadeFar="3000" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="26" xpos="626.77"   ypos="44.1123" zpos="922.191" type="general.explorer.forsaken_fortune" GUID="iE1BJeoTQkCSfzGAalCFNw==" iconFile="Img/Collectibles/Rubble.png"      fadeNear="2500" fadeFar="3000" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="26" xpos="642.531"  ypos="44.5497" zpos="1006.31" type="general.explorer.forsaken_fortune" GUID="MBVWBSGle0qnBuekqxe9Wg==" iconFile="Img/Collectibles/Rubble.png"      fadeNear="2500" fadeFar="3000" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="26" xpos="659.05"   ypos="45.2921" zpos="968.03"  type="general.explorer.forsaken_fortune" GUID="gvo9/easDE6vjDGDl9Fd4w==" iconFile="Img/Icons/Torch.png"              fadeNear="2000" fadeFar="2500" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="26" xpos="659.351"  ypos="45.2922" zpos="955.127" type="general.explorer.forsaken_fortune" GUID="eiUStn1spUaqVaj+f0/J1w==" iconFile="Img/Icons/Torch.png"              fadeNear="2000" fadeFar="2500" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="26" xpos="523.797"  ypos="44.3257" zpos="966.643" type="general.explorer.forsaken_fortune" GUID="PXj+nwzP9ka6nP5X6Ikzdg==" iconFile="Img/Icons/Torch.png"              fadeNear="2000" fadeFar="2500" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="26" xpos="508.525"  ypos="45.2533" zpos="966.126" type="general.explorer.forsaken_fortune" GUID="TdWZuXf8aE6ewqE6oTg0nA==" iconFile="Img/Icons/Torch.png"              fadeNear="2000" fadeFar="2500" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="26" xpos="508.436"  ypos="44.5576" zpos="953.515" type="general.explorer.forsaken_fortune" GUID="9cj/0TSvIUKJ0LJefLIitg==" iconFile="Img/Icons/Torch.png"              fadeNear="2000" fadeFar="2500" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="26" xpos="509.202"  ypos="64.2561" zpos="919.44"  type="general.explorer.forsaken_fortune" GUID="1wpU6ZHkM0SJjmXJ8XIIGA==" iconFile="Img/Icons/Torch.png"              fadeNear="2000" fadeFar="2500" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="26" xpos="561.21"   ypos="44.6193" zpos="926.434" type="general.explorer.forsaken_fortune" GUID="6l6O2ehCB0SlYMgrjUu48w==" iconFile="Img/Icons/Torch.png"              fadeNear="2000" fadeFar="2500" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="26" xpos="611.194"  ypos="44.6249" zpos="921.152" type="general.explorer.forsaken_fortune" GUID="LnvxmZBD5kSaEvf+oN44UA==" iconFile="Img/Icons/Torch.png"              fadeNear="2000" fadeFar="2500" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="26" xpos="584.793"  ypos="44.6161" zpos="960.265" type="general.explorer.forsaken_fortune" GUID="63i4SXqj7Eu0P1Z4frmlbg==" iconFile="Img/Icons/Torch.png"              fadeNear="2000" fadeFar="2500" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="26" xpos="610.532"  ypos="44.6075" zpos="987.652" type="general.explorer.forsaken_fortune" GUID="hEhgqDhk70O2MOLBn/nB6A==" iconFile="Img/Icons/Torch.png"              fadeNear="2000" fadeFar="2500" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="26" xpos="563.782"  ypos="44.6041" zpos="988.708" type="general.explorer.forsaken_fortune" GUID="/P+ZZzodp02nL5NLmn7Xtw==" iconFile="Img/Icons/Torch.png"              fadeNear="2000" fadeFar="2500" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="26" xpos="561.635"  ypos="43.7167" zpos="960.823" type="general.explorer.forsaken_fortune" GUID="RJtBFvVv4UqDjsuYFeuw9A==" iconFile="Img/General/MiniDungeonChest.png" fadeNear="1500" fadeFar="2000" heightOffset="2"/>
+
+		<!-- GOFF'S LOOT -->
+		<POI MapID="23" xpos="-33.3204" ypos="43.7785" zpos="557.758" type="general.explorer.goff_s_loot" GUID="2lKEWmDtT0KAA/irIZ80JQ==" iconFile="Img/General/MiniDungeonChest.png" minSize="12" heightOffset="2"/>
+
+		<!-- GROUNDED -->
+		<Trail type="general.explorer.grounded" GUID="qa3wpn87CUGMMTH5WpZfIg==" trailData="Data/General/Explorer/Grounded.trl" texture="Data/Arrow.png" color="ffffdd00" alpha="0.8" fadeNear="1500" fadeFar="2000" animSpeed="1" mapDisplaySize="15"/>
+		<POI MapID="62" xpos="282.18"  ypos="7.26514" zpos="-891.568" type="general.explorer.grounded" GUID="Dya7x/9610ayd3b2yDOWaQ=="/>
+		<POI MapID="62" xpos="270.159" ypos="4.71883" zpos="-954.935" type="general.explorer.grounded" GUID="14RgL34ZtUejx8/mHCe+rA==" iconFile="Img/General/MiniDungeonChest.png" fadeNear="1500" fadeFar="2000" heightOffset="2"/>
+
+		<!-- HISTORY BUFF -->
+		<POI MapID="50" xpos="-567.5924" ypos="6.9713"   zpos="134.2567"  type="general.explorer.history_buff" GUID="sAuX3idY3UCqREc2Axql1A==" achievementBit="0"/>
+		<POI MapID="50" xpos="-328.1554" ypos="2.167"    zpos="-8.5254"   type="general.explorer.history_buff" GUID="5LXrLckcMUK9LQawIgZscg==" achievementBit="1"/>
+		<POI MapID="50" xpos="-158.7057" ypos="21.8924"  zpos="16.4496"   type="general.explorer.history_buff" GUID="m329Ab5NUUOzxWJBntIAEQ==" achievementBit="2"/>
+		<POI MapID="50" xpos="134.9184"  ypos="37.5573"  zpos="-47.6708"  type="general.explorer.history_buff" GUID="Fe4tlH2m7EW7vTqse7I6Sg==" achievementBit="3"/>
+		<POI MapID="50" xpos="-262.11"   ypos="38.72"    zpos="-349.91"   type="general.explorer.history_buff" GUID="kKkBWrXbP0SDpwuZnbXd3w==" achievementBit="4"/>
+		<POI MapID="50" xpos="-214.9011" ypos="-61.036"  zpos="-238.1466" type="general.explorer.history_buff" GUID="EGh/1XiRpUWJjS9rdniu6g==" achievementBit="5"/>
+		<POI MapID="50" xpos="-101.0055" ypos="11.2408"  zpos="-202.4662" type="general.explorer.history_buff" GUID="u+wkTZoTwECseY1JMx6IcQ==" achievementBit="6"/>
+		<POI MapID="50" xpos="-52.851"   ypos="2.7172"   zpos="-198.7456" type="general.explorer.history_buff" GUID="otqa8YjPi0OS4pX+hTvCUg==" achievementBit="7"/>
+		<POI MapID="50" xpos="-161.0952" ypos="22.1588"  zpos="181.032"   type="general.explorer.history_buff" GUID="J0xBKmkHzUO+ptYJR+5nCQ==" achievementBit="8"/>
+		<POI MapID="50" xpos="359.9595"  ypos="30.2809"  zpos="-55.6018"  type="general.explorer.history_buff" GUID="v+NmYvDOj0GrQeQhwFeyWg==" achievementBit="9"/>
+		<POI MapID="50" xpos="-310.7417" ypos="47.8572"  zpos="181.3585"  type="general.explorer.history_buff" GUID="M/AANgSPuE6ds6gaET/rPQ==" achievementBit="10"/>
+		<POI MapID="50" xpos="-153.331"  ypos="27.8892"  zpos="424.062"   type="general.explorer.history_buff" GUID="jH0JOZZ9lE60YU1xHzW6QQ==" achievementBit="11"/>
+		<POI MapID="50" xpos="-153.331"  ypos="27.8892"  zpos="424.062"   type="general.explorer.history_buff" GUID="Qt1jWlQnOk2nHitbGYa76A==" iconFile="Img/General/HistoryBuff.png" minSize="48" maxSize="64" heightOffset="3" fadeNear="800" fadeFar="1200" mapVisibility="0" miniMapVisibility="0" achievementBit="11"/>
+		<POI MapID="65" xpos="-1070.21"  ypos="-71.6809" zpos="-18.0715"  type="general.explorer.history_buff" GUID="8dfv+0vUy0WCOOEyXid1CQ==" achievementBit="11"/>
+
+		<!-- JACKALOPING ALONG -->
+		<POI MapID="27" xpos="176.19"   ypos="144.49"  zpos="998.207"  type="general.explorer.jackaloping_along" GUID="QoFyoOPqYEaLeB8HtEcIAQ=="/>
+		<POI MapID="28" xpos="-422.915" ypos="126.573" zpos="-203.952" type="general.explorer.jackaloping_along" GUID="Y9ANYSVtUkONPtbe93hvGQ=="/>
+		<POI MapID="28" xpos="-413.104" ypos="107.04"  zpos="283.977"  type="general.explorer.jackaloping_along" GUID="RQ/FUU9MbEa8W3/JCKgR6A=="/>
+		<POI MapID="28" xpos="-35.9618" ypos="186.296" zpos="1070.63"  type="general.explorer.jackaloping_along" GUID="GRquDqf6OU+Ae9QdlBlrbw=="/>
+		<POI MapID="28" xpos="445.317"  ypos="75.8715" zpos="554.031"  type="general.explorer.jackaloping_along" GUID="8Qw0OpuIA0CvrY9ikiSL+g=="/>
+		<POI MapID="28" xpos="464.434"  ypos="117.964" zpos="-141.706" type="general.explorer.jackaloping_along" GUID="4xSuHkvaFE2tUAFbKqaavg=="/>
+		<POI MapID="30" xpos="-835.878" ypos="24.7771" zpos="-414.192" type="general.explorer.jackaloping_along" GUID="KxyexyuZ6kCCpFBdOg968A=="/>
+		<POI MapID="30" xpos="-478.98"  ypos="38.1958" zpos="-835.245" type="general.explorer.jackaloping_along" GUID="AEDeSnuOWUeHl3kBcqEJvg=="/>
+		<POI MapID="30" xpos="115.088"  ypos="60.4432" zpos="-145.369" type="general.explorer.jackaloping_along" GUID="5DBHzpkP5EqhTzPQgCrEDg=="/>
+		<POI MapID="30" xpos="635.275"  ypos="6.7565"  zpos="169.602"  type="general.explorer.jackaloping_along" GUID="ReomyLxmXEmBTMYJ2Ize1g=="/>
+		<POI MapID="30" xpos="810.643"  ypos="4.45396" zpos="-573.796" type="general.explorer.jackaloping_along" GUID="/AAJTBR7I0+g9OaRSJ2VeQ=="/>
+		<POI MapID="31" xpos="-800.943" ypos="55.2875" zpos="195.763"  type="general.explorer.jackaloping_along" GUID="47YZc0XC4UWb1W1zw7/vpw=="/>
+		<POI MapID="31" xpos="2.72764"  ypos="61.9906" zpos="-2.24048" type="general.explorer.jackaloping_along" GUID="f36be1X/skeEC0WgrYIQfQ=="/>
+		<POI MapID="31" xpos="477.512"  ypos="47.3374" zpos="-428.304" type="general.explorer.jackaloping_along" GUID="dZ/lDOzD7UmS/RGvW8wC1Q=="/>
+		<POI MapID="31" xpos="836.471"  ypos="39.0903" zpos="508.531"  type="general.explorer.jackaloping_along" GUID="1TwSbccn4k6nIYwEJuZDUw=="/>
+		<POI MapID="31" xpos="1054.62"  ypos="63.4705" zpos="-46.8762" type="general.explorer.jackaloping_along" GUID="mm4Dj0k2NUqYzZn9DDx2/A=="/>
+
+		<!-- LION'S ARCH EXTERMINATOR -->
+		<Trail type="general.explorer.lion_s_arch_exterminator" GUID="CACCPZZ8nkqpGiGcy8DVGA==" trailData="Data/General/Explorer/LionsArchExterminator_00.trl" texture="Data/Arrow.png" color="ffffffff" alpha="0.8" fadeNear="1500" fadeFar="2000" animSpeed="1" mapDisplaySize="15"/>
+		<Trail type="general.explorer.lion_s_arch_exterminator" GUID="FA2FM2ypwk2uXWwDXwJ7Aw==" trailData="Data/General/Explorer/LionsArchExterminator_1.trl"  texture="Data/Arrow.png" color="ffffdd00" alpha="0.8" fadeNear="1500" fadeFar="2000" animSpeed="1" mapDisplaySize="15" achievementBit="0"/>
+		<Trail type="general.explorer.lion_s_arch_exterminator" GUID="qSoi6cxnAkCZ7j7ZIp+CVA==" trailData="Data/General/Explorer/LionsArchExterminator_7.trl"  texture="Data/Arrow.png" color="ffffdd00" alpha="0.8" fadeNear="1500" fadeFar="2000" animSpeed="1" mapDisplaySize="15" achievementBit="6"/>
+		<Trail type="general.explorer.lion_s_arch_exterminator" GUID="IdrJee7CtUaGjfir//IXdw==" trailData="Data/General/Explorer/LionsArchExterminator_8.trl"  texture="Data/Arrow.png" color="ffffdd00" alpha="0.8" fadeNear="1500" fadeFar="2000" animSpeed="1" mapDisplaySize="15" achievementBit="7"/>
+		<Trail type="general.explorer.lion_s_arch_exterminator" GUID="mHVURwgecEGfvhGzo7LTgw==" trailData="Data/General/Explorer/LionsArchExterminator_10.trl" texture="Data/Arrow.png" color="ffffdd00" alpha="0.8" fadeNear="1500" fadeFar="2000" animSpeed="1" mapDisplaySize="15" achievementBit="9"/>
+		<Trail type="general.explorer.lion_s_arch_exterminator" GUID="+jkqbHo6x0u1yWQQwNs3Vw==" trailData="Data/General/Explorer/LionsArchExterminator_11.trl" texture="Data/Arrow.png" color="ffffdd00" alpha="0.8" fadeNear="1500" fadeFar="2000" animSpeed="1" mapDisplaySize="15" achievementBit="10"/>
+		<Trail type="general.explorer.lion_s_arch_exterminator" GUID="imh/qcKzgUmTnrbrcqwTFA==" trailData="Data/General/Explorer/LionsArchExterminator_12.trl" texture="Data/Arrow.png" color="ff00ffdd" alpha="0.8" fadeNear="1500" fadeFar="2000" animSpeed="1" mapDisplaySize="15" achievementBit="11"/>
+		<Trail type="general.explorer.lion_s_arch_exterminator" GUID="knZAIjlG3EOws8tRd6BFhQ==" trailData="Data/General/Explorer/LionsArchExterminator_14.trl" texture="Data/Arrow.png" color="ffffdd00" alpha="0.8" fadeNear="1500" fadeFar="2000" animSpeed="1" mapDisplaySize="15" achievementBit="13"/>
+		<Trail type="general.explorer.lion_s_arch_exterminator" GUID="XfIMksWPaE2w9Kc2CRiwqw==" trailData="Data/General/Explorer/LionsArchExterminator_15.trl" texture="Data/Arrow.png" color="ff00ffdd" alpha="0.8" fadeNear="1500" fadeFar="2000" animSpeed="1" mapDisplaySize="15" achievementBit="14"/>
+		<Trail type="general.explorer.lion_s_arch_exterminator" GUID="ky0jGWgL6k2/wlbbrChf6A==" trailData="Data/General/Explorer/LionsArchExterminator_16.trl" texture="Data/Arrow.png" color="ff00ffdd" alpha="0.8" fadeNear="1500" fadeFar="2000" animSpeed="1" mapDisplaySize="15" achievementBit="15"/>
+		<Trail type="general.explorer.lion_s_arch_exterminator" GUID="ejhjfu5L606P1ZkUY5b29Q==" trailData="Data/General/Explorer/LionsArchExterminator_17.trl" texture="Data/Arrow.png" color="ff00ff00" alpha="0.8" fadeNear="1500" fadeFar="2000" animSpeed="1" mapDisplaySize="15" achievementBit="16"/>
+		<Trail type="general.explorer.lion_s_arch_exterminator" GUID="nSJx/IWkjkybxhkmKmBEVA==" trailData="Data/General/Explorer/LionsArchExterminator_24.trl" texture="Data/Arrow.png" color="ff00ffdd" alpha="0.8" fadeNear="1500" fadeFar="2000" animSpeed="1" mapDisplaySize="15" achievementBit="23"/>
+		<Trail type="general.explorer.lion_s_arch_exterminator" GUID="2ZOCZ1xGB0mXn7M9gsslLQ==" trailData="Data/General/Explorer/LionsArchExterminator_25.trl" texture="Data/Arrow.png" color="ffffdd00" alpha="0.8" fadeNear="1500" fadeFar="2000" animSpeed="1" mapDisplaySize="15" achievementBit="24"/>
+		<Trail type="general.explorer.lion_s_arch_exterminator" GUID="bFos6ed0CU2BMtA+HZ6ikQ==" trailData="Data/General/Explorer/LionsArchExterminator_26.trl" texture="Data/Arrow.png" color="ff00ffdd" alpha="0.8" fadeNear="1500" fadeFar="2000" animSpeed="1" mapDisplaySize="15" achievementBit="25"/>
+		<Trail type="general.explorer.lion_s_arch_exterminator" GUID="i04x8U8k/EaP4Iwd4ZSu+w==" trailData="Data/General/Explorer/LionsArchExterminator_27.trl" texture="Data/Arrow.png" color="ffff00dd" alpha="0.8" fadeNear="1500" fadeFar="2000" animSpeed="1" mapDisplaySize="15" achievementBit="26"/>
+		<Trail type="general.explorer.lion_s_arch_exterminator" GUID="DpkDX5VxTESAvQVOupm/AA==" trailData="Data/General/Explorer/LionsArchExterminator_28.trl" texture="Data/Arrow.png" color="ff0026ff" alpha="0.8" fadeNear="1500" fadeFar="2000" animSpeed="1" mapDisplaySize="15" achievementBit="27"/>
+		<Trail type="general.explorer.lion_s_arch_exterminator" GUID="ilVwFICatEG8j559YNrbng==" trailData="Data/General/Explorer/LionsArchExterminator_34.trl" texture="Data/Arrow.png" color="ff00ffdd" alpha="0.8" fadeNear="1500" fadeFar="2000" animSpeed="1" mapDisplaySize="15" achievementBit="33"/>
+		<Trail type="general.explorer.lion_s_arch_exterminator" GUID="LKurvlyptUSRC2HpLieSxA==" trailData="Data/General/Explorer/LionsArchExterminator_35.trl" texture="Data/Arrow.png" color="ffffdd00" alpha="0.8" fadeNear="1500" fadeFar="2000" animSpeed="1" mapDisplaySize="15" achievementBit="34"/>
+		<Trail type="general.explorer.lion_s_arch_exterminator" GUID="Ij4s0GllVUONLWpIe//Q0w==" trailData="Data/General/Explorer/LionsArchExterminator_38.trl" texture="Data/Arrow.png" color="ffffdd00" alpha="0.8" fadeNear="1500" fadeFar="2000" animSpeed="1" mapDisplaySize="15" achievementBit="37"/>
+		<Trail type="general.explorer.lion_s_arch_exterminator" GUID="ppzRaImk00qbk0u82hj+dA==" trailData="Data/General/Explorer/LionsArchExterminator_39.trl" texture="Data/Arrow.png" color="ff00ffdd" alpha="0.8" fadeNear="1500" fadeFar="2000" animSpeed="1" mapDisplaySize="15" achievementBit="38"/>
+		<Trail type="general.explorer.lion_s_arch_exterminator" GUID="Vz9U6dyHO0KdC2fLYLoy2A==" trailData="Data/General/Explorer/LionsArchExterminator_40.trl" texture="Data/Arrow.png" color="ff4cff00" alpha="0.8" fadeNear="1500" fadeFar="2000" animSpeed="1" mapDisplaySize="15" achievementBit="39"/>
+		<Trail type="general.explorer.lion_s_arch_exterminator" GUID="disWO3SGEUiS+J9g0jEwrQ==" trailData="Data/General/Explorer/LionsArchExterminator_41.trl" texture="Data/Arrow.png" color="ffffdd00" alpha="0.8" fadeNear="1500" fadeFar="2000" animSpeed="1" mapDisplaySize="15" achievementBit="40"/>
+		<Trail type="general.explorer.lion_s_arch_exterminator" GUID="bODuHoin10ekVPqcpUnRrg==" trailData="Data/General/Explorer/LionsArchExterminator_42.trl" texture="Data/Arrow.png" color="ffff6a00" alpha="0.8" fadeNear="1500" fadeFar="2000" animSpeed="1" mapDisplaySize="15" achievementBit="41"/>
+		<Trail type="general.explorer.lion_s_arch_exterminator" GUID="Ee/oAhtRwU6E310eIuqLKA==" trailData="Data/General/Explorer/LionsArchExterminator_43.trl" texture="Data/Arrow.png" color="ffff0000" alpha="0.8" fadeNear="1500" fadeFar="2000" animSpeed="1" mapDisplaySize="15" achievementBit="42"/>
+		<Trail type="general.explorer.lion_s_arch_exterminator" GUID="wZZCA5D7QES8lhGhd7bvig==" trailData="Data/General/Explorer/LionsArchExterminator_44.trl" texture="Data/Arrow.png" color="ffffdd00" alpha="0.8" fadeNear="1500" fadeFar="2000" animSpeed="1" mapDisplaySize="15" achievementBit="43"/>
+		<Trail type="general.explorer.lion_s_arch_exterminator" GUID="wZZCA5D7QES8lhGhd7bvig==" trailData="Data/General/Explorer/LionsArchExterminator_48.trl" texture="Data/Arrow.png" color="ffffdd00" alpha="0.8" fadeNear="1500" fadeFar="2000" animSpeed="1" mapDisplaySize="15" achievementBit="47"/>
+		<POI MapID="50" xpos="503.947"  ypos="41.4676" zpos="-206.898" type="general.explorer.lion_s_arch_exterminator" GUID="OGEBrCCorU2JVVi8fKhDAQ==" iconFile="Img/General/LionsArchExterminatorTrail.png" minSize="48" maxSize="64" heightOffset="0.75" fadeNear="1000" fadeFar="2000" behavior="0" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="50" xpos="-536.887" ypos="16.6523" zpos="-107.891" type="general.explorer.lion_s_arch_exterminator" GUID="V0t1FsSPHUal2ad6gXmzBg==" achievementBit="0"/>
+		<POI MapID="50" xpos="-529.186" ypos="4.59049" zpos="-169.05"  type="general.explorer.lion_s_arch_exterminator" GUID="5Vsh/Njjhk6nxxGVnmgNgA==" triggerRange="4" fadeNear="1500" fadeFar="2000" achievementBit="0"/>
+		<POI MapID="50" xpos="-532.557" ypos="63.9313" zpos="-140.739" type="general.explorer.lion_s_arch_exterminator" GUID="kvrL4YIBgEuq+3N2vQRmng==" achievementBit="1"/>
+		<POI MapID="50" xpos="-500.45"  ypos="76.4714" zpos="-161.992" type="general.explorer.lion_s_arch_exterminator" GUID="AKwAfiqiRUaaEfUQR6ha3A==" achievementBit="2"/>
+		<POI MapID="50" xpos="-539.422" ypos="0.65582" zpos="-45.2312" type="general.explorer.lion_s_arch_exterminator" GUID="e0jN0kPgeUCJ3RJ2IZMKCQ==" achievementBit="3"/>
+		<POI MapID="50" xpos="-562.793" ypos="29.1321" zpos="2.33175"  type="general.explorer.lion_s_arch_exterminator" GUID="CZK6mrU5c0+n6UwNq7j0qA==" achievementBit="4"/>
+		<POI MapID="50" xpos="-291.836" ypos="33.6092" zpos="369.994"  type="general.explorer.lion_s_arch_exterminator" GUID="g0OdYmQ9iEmm/gI6DHUlSg==" achievementBit="5"/>
+		<POI MapID="50" xpos="-452.654" ypos="28.6655" zpos="365.584"  type="general.explorer.lion_s_arch_exterminator" GUID="tq6AJFpcTUW0/jnb4bZPew==" achievementBit="6"/>
+		<POI MapID="50" xpos="-465.185" ypos="42.6846" zpos="355.613"  type="general.explorer.lion_s_arch_exterminator" GUID="1nMef78v5kaoJPrL29VUeA==" fadeNear="500" fadeFar="1000" achievementBit="6"/>
+		<POI MapID="50" xpos="651.847"  ypos="14.9334" zpos="282.068"  type="general.explorer.lion_s_arch_exterminator" GUID="wYBXdK5Dr0q+tm6s1oLc/Q==" achievementBit="7"/>
+		<POI MapID="50" xpos="696.88"   ypos="44.4949" zpos="271.464"  type="general.explorer.lion_s_arch_exterminator" GUID="JKA2vVkdrEO6D/jEsK3UNQ==" triggerRange="8" fadeNear="500" fadeFar="1000" achievementBit="7"/>
+		<POI MapID="50" xpos="-423.619" ypos="26.177"  zpos="296.432"  type="general.explorer.lion_s_arch_exterminator" GUID="lqADH+RDu0inF+U6q9HpaQ==" triggerRange="8" achievementBit="8"/>
+		<POI MapID="50" xpos="-388.623" ypos="0.29788" zpos="231.774"  type="general.explorer.lion_s_arch_exterminator" GUID="8y2fbhPpK0yLWLtzMMA1WQ==" achievementBit="9"/>
+		<POI MapID="50" xpos="-421.208" ypos="7.20125" zpos="231.034"  type="general.explorer.lion_s_arch_exterminator" GUID="QvB1DZWBrUy5cWFqAibaSA==" triggerRange="10" fadeNear="500" fadeFar="1000" achievementBit="9"/>
+		<POI MapID="50" xpos="-294.959" ypos="36.0322" zpos="389.088"  type="general.explorer.lion_s_arch_exterminator" GUID="m1kBxUFeuEGoCAGsVv2lUQ==" achievementBit="10"/>
+		<POI MapID="50" xpos="-287.403" ypos="43.5801" zpos="376.858"  type="general.explorer.lion_s_arch_exterminator" GUID="vkuzlTISpEG1I0TYoy292Q==" fadeNear="500" fadeFar="1000" achievementBit="10"/>
+		<POI MapID="50" xpos="-295.995" ypos="36.0322" zpos="387.8"    type="general.explorer.lion_s_arch_exterminator" GUID="YjMQ/xt2OEigFMe5lUjQqg==" achievementBit="11"/>
+		<POI MapID="50" xpos="-284.801" ypos="43.5785" zpos="384.165"  type="general.explorer.lion_s_arch_exterminator" GUID="l9/CxQ/2cEewtzLGQjT10g==" heightOffset="0.5" fadeNear="300" fadeFar="500" achievementBit="11"/>
+		<POI MapID="50" xpos="-405.636" ypos="28.963"  zpos="373.546"  type="general.explorer.lion_s_arch_exterminator" GUID="4Qr9V5KpHUWi0mI0I6bImw==" achievementBit="12"/>
+		<POI MapID="50" xpos="368.934"  ypos="29.5725" zpos="328.479"  type="general.explorer.lion_s_arch_exterminator" GUID="Ux0W+BB0x0GQOSN8P1CyeQ==" achievementBit="13"/>
+		<POI MapID="50" xpos="365.694"  ypos="30.2353" zpos="331.93"   type="general.explorer.lion_s_arch_exterminator" GUID="oGBKraeAiU2YtyWV/lgJQA==" iconFile="Img/General/LionsArchExterminator.png" minSize="48" maxSize="64" heightOffset="0.75" fadeNear="800" fadeFar="1500" behavior="0" mapVisibility="0" miniMapVisibility="0" achievementBit="13"/>
+		<POI MapID="50" xpos="381.95"   ypos="26.5268" zpos="416.996"  type="general.explorer.lion_s_arch_exterminator" GUID="gHc6JEtHB0KWQ9EY/s08cg==" fadeNear="500" fadeFar="1000" achievementBit="13"/>
+		<POI MapID="50" xpos="650.325"  ypos="15.0547" zpos="279.244"  type="general.explorer.lion_s_arch_exterminator" GUID="jI1HJBkPG0C1pUSUMEr+dw==" achievementBit="14"/>
+		<POI MapID="50" xpos="662.385"  ypos="29.1431" zpos="251.27"   type="general.explorer.lion_s_arch_exterminator" GUID="r6EJwUbzeU24XC9icc4qnw==" triggerRange="10" fadeNear="500" fadeFar="1000" achievementBit="14"/>
+		<POI MapID="50" xpos="371.245"  ypos="29.5727" zpos="329.605"  type="general.explorer.lion_s_arch_exterminator" GUID="thGJGl5MIEeCANjcwWDkJQ==" achievementBit="15"/>
+		<POI MapID="50" xpos="365.694"  ypos="30.2353" zpos="331.93"   type="general.explorer.lion_s_arch_exterminator" GUID="RxGcpV1Z/kym8LvTX6tkDg==" iconFile="Img/General/LionsArchExterminator.png" minSize="48" maxSize="64" heightOffset="0.75" fadeNear="800" fadeFar="1500" behavior="0" mapVisibility="0" miniMapVisibility="0" achievementBit="15"/>
+		<POI MapID="50" xpos="344.088"  ypos="28.0183" zpos="429.114"  type="general.explorer.lion_s_arch_exterminator" GUID="VbDTA4WNfEWTh2QuOux0Zw==" triggerRange="10" fadeNear="500" fadeFar="1000" achievementBit="15"/>
+		<POI MapID="50" xpos="366.114"  ypos="29.5725" zpos="326.87"   type="general.explorer.lion_s_arch_exterminator" GUID="qgeGwhpy5U2MM8iW9J8QrQ==" achievementBit="16"/>
+		<POI MapID="50" xpos="365.694"  ypos="30.2353" zpos="331.93"   type="general.explorer.lion_s_arch_exterminator" GUID="TOKp3C/q6EWDT7DARWK4Kw==" iconFile="Img/General/LionsArchExterminator.png" minSize="48" maxSize="64" heightOffset="0.75" fadeNear="800" fadeFar="1500" behavior="0" mapVisibility="0" miniMapVisibility="0" achievementBit="16"/>
+		<POI MapID="50" xpos="368.76"   ypos="35.9967" zpos="335.845"  type="general.explorer.lion_s_arch_exterminator" GUID="0q2WiOtIEEC/7Er1rXu7CA==" fadeNear="500" fadeFar="1000" achievementBit="16"/>
+		<POI MapID="50" xpos="259.017"  ypos="-0.3906" zpos="361.18"   type="general.explorer.lion_s_arch_exterminator" GUID="6N8YdPE+qEyZVj3twK0UVw==" achievementBit="17"/>
+		<POI MapID="50" xpos="347.643"  ypos="10.8987" zpos="281.509"  type="general.explorer.lion_s_arch_exterminator" GUID="w1+WZEEYR0iHqp5bLd2LDQ==" achievementBit="18"/>
+		<POI MapID="50" xpos="586.83"   ypos="15.7962" zpos="382.994"  type="general.explorer.lion_s_arch_exterminator" GUID="0QUkdWaFOkSShuXgWPrbzA==" achievementBit="19"/>
+		<POI MapID="50" xpos="437.067"  ypos="0.34283" zpos="238.305"  type="general.explorer.lion_s_arch_exterminator" GUID="4ebHZGwgQEe7vYHV7o2LjA==" achievementBit="20"/>
+		<POI MapID="50" xpos="425.296"  ypos="4.12659" zpos="187.054"  type="general.explorer.lion_s_arch_exterminator" GUID="NZ0SDlDfY02slL2PorT2FQ==" achievementBit="21"/>
+		<POI MapID="50" xpos="312.515"  ypos="11.111"  zpos="139.877"  type="general.explorer.lion_s_arch_exterminator" GUID="TCCAlJYplUK6kNZJ+cFXDA==" triggerRange="20" achievementBit="22"/>
+		<POI MapID="50" xpos="370.497"  ypos="34.4921" zpos="6.40923"  type="general.explorer.lion_s_arch_exterminator" GUID="6EyqLsTWzE+8O0VWCK5CRg==" achievementBit="23"/>
+		<POI MapID="50" xpos="372.938"  ypos="11.3511" zpos="-5.98547" type="general.explorer.lion_s_arch_exterminator" GUID="Z2tWT2AYn0quZPwizu0ZVw==" fadeNear="500" fadeFar="1000" achievementBit="23"/>
+		<POI MapID="50" xpos="445.267"  ypos="-1.0496" zpos="-282.133" type="general.explorer.lion_s_arch_exterminator" GUID="/Vjp738J10+z0R3WPOSf5w==" achievementBit="24"/>
+		<POI MapID="50" xpos="460.026"  ypos="2.5283"  zpos="-322.38"  type="general.explorer.lion_s_arch_exterminator" GUID="CmG9Sa94x0mETRtEaQ19Jw==" triggerRange="10" fadeNear="500" fadeFar="1000" achievementBit="24"/>
+		<POI MapID="50" xpos="441.898"  ypos="-1.0566" zpos="-283.06"  type="general.explorer.lion_s_arch_exterminator" GUID="4Gz7vcnpYkGooSpsJHQIug==" achievementBit="25"/>
+		<POI MapID="50" xpos="445.448"  ypos="16.1707" zpos="-315.836" type="general.explorer.lion_s_arch_exterminator" GUID="Vwl5tNLR60udSjkx4c3mnA==" triggerRange="20" fadeNear="500" fadeFar="1000" achievementBit="25"/>
+		<POI MapID="50" xpos="509.4"    ypos="40.2201" zpos="-197.518" type="general.explorer.lion_s_arch_exterminator" GUID="3ovNALLkt0iqLi64bTRTQw==" achievementBit="26"/>
+		<POI MapID="50" xpos="465.702"  ypos="25.4834" zpos="-278.442" type="general.explorer.lion_s_arch_exterminator" GUID="xsiA9c56gE+xTYmPcFnIRg==" fadeNear="500" fadeFar="1000" achievementBit="26"/>
+		<POI MapID="50" xpos="511.024"  ypos="40.7482" zpos="-198.884" type="general.explorer.lion_s_arch_exterminator" GUID="x1M7EmGKeEC8OxRSnDt4rA==" achievementBit="27"/>
+		<POI MapID="50" xpos="675.137"  ypos="14.3739" zpos="-434.881" type="general.explorer.lion_s_arch_exterminator" GUID="pKfeP0dqxkaw1WClKp119g==" triggerRange="20" fadeNear="1500" fadeFar="2500" achievementBit="27"/>
+		<POI MapID="50" xpos="-353.489" ypos="28.8255" zpos="351.79"   type="general.explorer.lion_s_arch_exterminator" GUID="RI6Jh1rV2U6R42DWx9m2pA==" triggerRange="4" achievementBit="28"/>
+		<POI MapID="50" xpos="-322.142" ypos="33.3706" zpos="343.739"  type="general.explorer.lion_s_arch_exterminator" GUID="+zwL/L+ZWkWmtAvQCY1UWQ==" triggerRange="10" achievementBit="29"/>
+		<POI MapID="50" xpos="-279.536" ypos="41.0"    zpos="222.872"  type="general.explorer.lion_s_arch_exterminator" GUID="TTIUgOUM9kW7d+xFEoE3dQ==" triggerRange="15" achievementBit="30"/>
+		<POI MapID="50" xpos="-356.048" ypos="0.69185" zpos="154.793"  type="general.explorer.lion_s_arch_exterminator" GUID="we2Z7YxQp0SxQ6KxIXAUkw==" achievementBit="31"/>
+		<POI MapID="50" xpos="-352.777" ypos="10.7902" zpos="63.3278"  type="general.explorer.lion_s_arch_exterminator" GUID="QC8xwKvzNUCgKMhydw+nXA==" triggerRange="10" achievementBit="32"/>
+		<POI MapID="50" xpos="-392.566" ypos="0"       zpos="-149.032" type="general.explorer.lion_s_arch_exterminator" GUID="lQ2Rp9tzSkWySwdIdvKyUg==" achievementBit="33"/>
+		<POI MapID="50" xpos="-531.46"  ypos="24"      zpos="-195.28"  type="general.explorer.lion_s_arch_exterminator" GUID="wOTg8uFu9E6oH1YBqSv7CA==" triggerRange="20" fadeNear="2000" fadeFar="3000" achievementBit="33"/>
+		<POI MapID="50" xpos="-338.692" ypos="0"       zpos="-334.807" type="general.explorer.lion_s_arch_exterminator" GUID="SqM+ecL47UO4eRV3D7/HoA==" achievementBit="34"/>
+		<POI MapID="50" xpos="-311.532" ypos="-0.0553" zpos="-388.026" type="general.explorer.lion_s_arch_exterminator" GUID="hbha7aJwAUu42tgdhARaSg==" fadeNear="500" fadeFar="1000" achievementBit="34"/>
+		<POI MapID="50" xpos="-324.352" ypos="58.2179" zpos="-379.428" type="general.explorer.lion_s_arch_exterminator" GUID="i1rQgZSwx06TPACuKkcgmQ==" triggerRange="20" achievementBit="35"/>
+		<POI MapID="50" xpos="-141.774" ypos="33.8655" zpos="-357.046" type="general.explorer.lion_s_arch_exterminator" GUID="Kz1SaM5tpUqdlSvKDjCXqg==" achievementBit="36"/>
+		<POI MapID="50" xpos="-147.446" ypos="0"       zpos="-317.593" type="general.explorer.lion_s_arch_exterminator" GUID="LoEq6EnZSUG2qYAXcVGeRw==" achievementBit="37"/>
+		<POI MapID="50" xpos="-149.659" ypos="10.5466" zpos="-361.172" type="general.explorer.lion_s_arch_exterminator" GUID="FtiS4jZj2EyR2JhjhPZNJA==" triggerRange="15" fadeNear="800" fadeFar="1200" achievementBit="37"/>
+		<POI MapID="50" xpos="512.452"  ypos="41.4675" zpos="-200.534" type="general.explorer.lion_s_arch_exterminator" GUID="Q4C2bzoNdU62uBRYllVQuw==" achievementBit="38"/>
+		<POI MapID="50" xpos="712.285"  ypos="30.046"  zpos="-395.542" type="general.explorer.lion_s_arch_exterminator" GUID="KAGWXL+/zEql6akzVIrGAQ==" fadeNear="1000" fadeFar="1500" achievementBit="38"/>
+		<POI MapID="50" xpos="513.882"  ypos="41.8583" zpos="-202.163" type="general.explorer.lion_s_arch_exterminator" GUID="Fhc+RJnmYUWm1QX7V/lixA==" achievementBit="39"/>
+		<POI MapID="50" xpos="684.199"  ypos="62.4882" zpos="-358.994" type="general.explorer.lion_s_arch_exterminator" GUID="7o91DAoF5UK6eU7ybgn7SQ==" fadeNear="1200" fadeFar="1800" achievementBit="39"/>
+		<POI MapID="50" xpos="515.463"  ypos="41.8429" zpos="-203.658" type="general.explorer.lion_s_arch_exterminator" GUID="kGOViRx5SUiIM/YeqBKNnQ==" achievementBit="40"/>
+		<POI MapID="50" xpos="718.896"  ypos="69.8202" zpos="-329.219" type="general.explorer.lion_s_arch_exterminator" GUID="rxizg6P+H0e0jr4nAcJghg==" fadeNear="1000" fadeFar="1500" achievementBit="40"/>
+		<POI MapID="50" xpos="516.879"  ypos="41.9565" zpos="-205.206" type="general.explorer.lion_s_arch_exterminator" GUID="j237Gnw5ZEiFlN0MFHqliA==" achievementBit="41"/>
+		<POI MapID="50" xpos="603.677"  ypos="41.874"  zpos="-343.994" type="general.explorer.lion_s_arch_exterminator" GUID="mPe9hWFoZUWjhWp4y5ZV0A==" triggerRange="10" fadeNear="1500" fadeFar="2500" achievementBit="41"/>
+		<POI MapID="50" xpos="518.407"  ypos="42.0213" zpos="-206.776" type="general.explorer.lion_s_arch_exterminator" GUID="xqL199So1UqUvXd5sFryZw==" achievementBit="42"/>
+		<POI MapID="50" xpos="524.684"  ypos="13.0867" zpos="-378.124" type="general.explorer.lion_s_arch_exterminator" GUID="jGB8l1RUwEKgXYkGY6fQNw==" triggerRange="15" fadeNear="1500" fadeFar="2500" achievementBit="42"/>
+		<POI MapID="50" xpos="-346.522" ypos="16.8036" zpos="326.996"  type="general.explorer.lion_s_arch_exterminator" GUID="ESTUA8+KkUiL29YsjZ/EUA==" achievementBit="43"/>
+		<POI MapID="50" xpos="-347.252" ypos="18.1034" zpos="341.145"  type="general.explorer.lion_s_arch_exterminator" GUID="wwUNSOzTvEKnUiYrJNgLkA==" fadeNear="300" fadeFar="600" achievementBit="43"/>
+		<POI MapID="50" xpos="384.377"  ypos="28.679"  zpos="-85.7168" type="general.explorer.lion_s_arch_exterminator" GUID="iDMQJNbhH0mRQah5CQqsDg==" triggerRange="15" achievementBit="44"/>
+		<POI MapID="50" xpos="240.56"   ypos="43.3011" zpos="206.459"  type="general.explorer.lion_s_arch_exterminator" GUID="meN+Xsa1Sk6PUuim+1ew/A==" triggerRange="10" achievementBit="45"/>
+		<POI MapID="50" xpos="-13.3549" ypos="40.0763" zpos="330.331"  type="general.explorer.lion_s_arch_exterminator" GUID="DbLGFzEIxEeNGPtgCTkRNg==" triggerRange="20" achievementBit="46"/>
+		<POI MapID="50" xpos="56.2691"  ypos="24.5868" zpos="304.946"  type="general.explorer.lion_s_arch_exterminator" GUID="3j4IQYLA5EisUVuoqQxrtw==" achievementBit="47"/>
+		<POI MapID="50" xpos="97.163"   ypos="29.8796" zpos="305.376"  type="general.explorer.lion_s_arch_exterminator" GUID="DjtTv76M4EanEF5f7qMc2Q==" triggerRange="8" fadeNear="800" fadeFar="1200" achievementBit="47"/>
+		<POI MapID="50" xpos="-62.728"  ypos="5.24861" zpos="-33.0841" type="general.explorer.lion_s_arch_exterminator" GUID="wE1R7moaqUG6hS/w1l6iCQ==" triggerRange="8" achievementBit="48"/>
+		<POI MapID="50" xpos="-614.492" ypos="40.0096" zpos="-74.1553" type="general.explorer.lion_s_arch_exterminator" GUID="KKPTIlb1u0GRFy+HWQKDtg==" achievementBit="49"/>
+
+		<!-- LLAMA ROUNDUP -->
+		<POI MapID="350" xpos="12.92"    ypos="269.047" zpos="-148.19"  type="general.explorer.llama_roundup" GUID="oUEf6ePMWEaqpUKBegdXcw=="/>
+		<POI MapID="350" xpos="-125.821" ypos="197.593" zpos="-248.446" type="general.explorer.llama_roundup" GUID="0VTfozRyw0yxf8y0BiQFVw=="/>
+		<POI MapID="350" xpos="76.1977"  ypos="257.748" zpos="-246.105" type="general.explorer.llama_roundup" GUID="sy4diRmfHU6qR8duohGX3w=="/>
+		<POI MapID="350" xpos="378.444"  ypos="213.499" zpos="-51.7862" type="general.explorer.llama_roundup" GUID="oj0vZZNo3EqHOEFSdgxMUw=="/>
+		<POI MapID="350" xpos="7.01011"  ypos="232.217" zpos="25.1669"  type="general.explorer.llama_roundup" GUID="euyH9RGQTkatD4CA+jqKPQ=="/>
+		<POI MapID="350" xpos="-85.3502" ypos="270.202" zpos="126.481"  type="general.explorer.llama_roundup" GUID="1vBAHpMV5kuJ1AvJkr2BwQ=="/>
+		<POI MapID="350" xpos="-161.026" ypos="323.497" zpos="142.783"  type="general.explorer.llama_roundup" GUID="exwpBwii9kuzt4L4kyeTSg=="/>
+		<POI MapID="350" xpos="-58.1775" ypos="268.123" zpos="39.2944"  type="general.explorer.llama_roundup" GUID="Z3ZLvUey1kKIIDuq6QqrDw=="/>
+		<POI MapID="350" xpos="-124.66"  ypos="243.033" zpos="267.683"  type="general.explorer.llama_roundup" GUID="f12PQMDRYEGfgrHvnalcnw=="/>
+		<POI MapID="350" xpos="-38.2217" ypos="181.037" zpos="15.7904"  type="general.explorer.llama_roundup" GUID="+6pD79Jj1U2ohGLe1uAXjQ=="/>
+
+		<!-- MAGELLAN'S MEMENTO -->
+		<Trail type="general.explorer.magellan_s_memento" GUID="j8EdPaeAC0uak9omw9YuWQ==" trailData="Data/General/Explorer/MagellansMemento.trl" texture="Data/Arrow.png" color="ff00ff00" alpha="0.8" fadeNear="1500" fadeFar="2000" animSpeed="1" mapDisplaySize="15"/>
+		<POI MapID="30" xpos="706.357" ypos="18.8823" zpos="-694.787" type="general.explorer.magellan_s_memento" GUID="RPELaziI8Ee62Y9wHh38tQ=="/>
+		<POI MapID="30" xpos="560.89"  ypos="33.2236" zpos="-791.324" type="general.explorer.magellan_s_memento" GUID="rdfx61J7qEKKO/hcoG0jyQ==" iconFile="Img/General/MiniDungeonChest.png" fadeNear="1500" fadeFar="2000"/>
+
+		<!-- REBEL'S SECLUSION -->
+		<Trail type="general.explorer.rebel_s_seclusion" GUID="zzXax+p5S02fDlCuqHBURA==" trailData="Data/General/Explorer/RebelsSeclusion.trl" texture="Data/Arrow.png" color="ffffdd00" alpha="0.8" fadeNear="1500" fadeFar="2000" animSpeed="1" mapDisplaySize="15"/>
+		<POI MapID="22" xpos="816.006" ypos="17.8494" zpos="38.0123"  type="general.explorer.rebel_s_seclusion" GUID="CtOTaZTBWkaVl/uRhQbzyQ==" heightOffset="0.5"/>
+		<POI MapID="22" xpos="980.45"  ypos="71.7834" zpos="-38.6093" type="general.explorer.rebel_s_seclusion" GUID="QDEgKI08QU2kUkjagKHDgg==" iconFile="Img/General/MiniDungeonChest.png" minSize="12" heightOffset="2" fadeNear="1500" fadeFar="2000"/>
+
+		<!-- SHIP OF SORROWS -->
+		<Trail type="general.explorer.ship_of_sorrows" GUID="bkVWMw8TvEiv6GcCebN/qA==" trailData="Data/General/Explorer/ShipOfSorrows.trl" texture="Data/Arrow.png" color="ffffdd00" alpha="0.8" fadeNear="1000" fadeFar="1500" animSpeed="1" mapDisplaySize="15"/>
+		<POI MapID="51" xpos="-619.575" ypos="-110.627" zpos="673.027" type="general.explorer.ship_of_sorrows" GUID="75T3XOUgKUaP4Zdq00/BFg=="/>
+		<POI MapID="51" xpos="-598.965" ypos="-119.362" zpos="681.82"  type="general.explorer.ship_of_sorrows" GUID="Ltdsra4hQUCqfV7oWnrDXg==" iconFile="Img/General/MiniDungeonChest.png" fadeNear="1500" fadeFar="2000" heightOffset="1"/>
+
+		<!-- SPEEDY READER -->
+		<POI MapID="21" xpos="-372.017" ypos="70.9828" zpos="-535.266" type="general.explorer.speedy_reader" GUID="kJhvtI9zGUCKHiA/cxnwkA=="/>
+		<POI MapID="21" xpos="-358.507" ypos="72.3845" zpos="-556.102" type="general.explorer.speedy_reader" GUID="v96BtFnMHk634O1J577zig=="/>
+		<POI MapID="21" xpos="-466.503" ypos="70.8946" zpos="-454.319" type="general.explorer.speedy_reader" GUID="a5RJ3FTQ8k2ic3S8hPjtkA=="/>
+		<POI MapID="21" xpos="-504.65"  ypos="53.8537" zpos="-534.566" type="general.explorer.speedy_reader" GUID="T00VCXYa3Em/+BNV21N0Dw=="/>
+		<POI MapID="21" xpos="-567.582" ypos="56.6222" zpos="-712.697" type="general.explorer.speedy_reader" GUID="d3DWf9CkOUGpQy+PjqONHQ=="/>
+		<POI MapID="21" xpos="-427.803" ypos="62.0693" zpos="-720.68"  type="general.explorer.speedy_reader" GUID="liZ6fMNL+E28l7V53VHacg=="/>
+		<POI MapID="21" xpos="-420.265" ypos="70.4282" zpos="-695.907" type="general.explorer.speedy_reader" GUID="rXWMQuBHi0+ND6Zim2e39w=="/>
+		<POI MapID="21" xpos="-437.799" ypos="67.8522" zpos="-712.548" type="general.explorer.speedy_reader" GUID="qqI0KdudS0WAC5RPi1UtZw=="/>
+		<POI MapID="21" xpos="-425.814" ypos="75.6337" zpos="-688.282" type="general.explorer.speedy_reader" GUID="QIRklH3euUS6A+E41VhAMA=="/>
+		<POI MapID="21" xpos="-421.133" ypos="75.6418" zpos="-728.92"  type="general.explorer.speedy_reader" GUID="I0uM5D+ST0yIrJNhH3zgRw=="/>
+		<POI MapID="21" xpos="-555.764" ypos="69.6888" zpos="-810.511" type="general.explorer.speedy_reader" GUID="VAXFvw31XkCDqKkPSE+VMQ=="/>
+		<POI MapID="21" xpos="-492.66"  ypos="69.5875" zpos="-823.975" type="general.explorer.speedy_reader" GUID="8uKDUhtdWEaK2DZ/EprqFw=="/>
+		<POI MapID="21" xpos="-562.409" ypos="85.8077" zpos="-784.819" type="general.explorer.speedy_reader" GUID="fjFmvhWMNEy4t30sQfluvw=="/>
+		<POI MapID="21" xpos="-595.026" ypos="83.0684" zpos="-802.498" type="general.explorer.speedy_reader" GUID="/kCQwNxru0yx3fOawWf6Ew=="/>
+		<POI MapID="21" xpos="-691.463" ypos="68.6554" zpos="-773.19"  type="general.explorer.speedy_reader" GUID="YnTET/XMpE2kGYenmDdFVA=="/>
+		<POI MapID="21" xpos="-851.557" ypos="65.6768" zpos="-709.162" type="general.explorer.speedy_reader" GUID="m/8SPJasyUK/b+f2EsEvfQ=="/>
+		<POI MapID="21" xpos="-815.902" ypos="73.7387" zpos="-722.158" type="general.explorer.speedy_reader" GUID="7Qu6wcoCm0qK6KP1wTA3CQ=="/>
+		<POI MapID="21" xpos="-678.239" ypos="52.0915" zpos="-636.28"  type="general.explorer.speedy_reader" GUID="LoNNgsHhr0aN/40v/eTUmg=="/>
+		<POI MapID="21" xpos="-613.463" ypos="52.768"  zpos="-513.951" type="general.explorer.speedy_reader" GUID="j2nKjFrBek2i7hvtIRt1Bg=="/>
+		<POI MapID="21" xpos="-694.732" ypos="71.0047" zpos="-422.663" type="general.explorer.speedy_reader" GUID="1ysfYCcmuEaQUCesJxPc0Q=="/>
+
+		<!-- SPIRIT OF THE TIGER -->
+		<POI MapID="1045" xpos="809.569"  ypos="283.499" zpos="-195.844" type="general.explorer.spirit_of_the_tiger" GUID="SV+ecrCXVk6sq5lLeojvlw=="/>
+		<POI MapID="34"   xpos="325.116"  ypos="48.9395" zpos="-526.277" type="general.explorer.spirit_of_the_tiger" GUID="wDvRruehyE6psowPWl1lHw=="/>
+		<POI MapID="873"  xpos="-514.915" ypos="31.7136" zpos="321.052"  type="general.explorer.spirit_of_the_tiger" GUID="BNZT1RiHr0qNKoDFwc2yBQ=="/>
+		<POI MapID="53"   xpos="-547.311" ypos="80.611"  zpos="411.754"  type="general.explorer.spirit_of_the_tiger" GUID="c3XRW/Ynd0Sd6i1V5j7IAg=="/>
+		<POI MapID="27"   xpos="-114.838" ypos="116.484" zpos="-1422.71" type="general.explorer.spirit_of_the_tiger" GUID="oiOPsWiuPkKG0XGNtqAjrw=="/>
+		<POI MapID="32"   xpos="487.567"  ypos="73.8864" zpos="-384.748" type="general.explorer.spirit_of_the_tiger" GUID="1PTKtT6AbE6GXkfczQBgkg=="/>
+		<POI MapID="21"   xpos="707.169"  ypos="42.855"  zpos="740.586"  type="general.explorer.spirit_of_the_tiger" GUID="Og7ZrV3uW0iCZKr9Dxj6Pw=="/>
+		<POI MapID="19"   xpos="846.054"  ypos="34.8853" zpos="-507.921" type="general.explorer.spirit_of_the_tiger" GUID="9nk5xkinXEKUH6xSRSIkMg=="/>
+		<POI MapID="1052" xpos="291.663"  ypos="469.621" zpos="316.057"  type="general.explorer.spirit_of_the_tiger" GUID="qSHLXf8BQEWQwT+2MieD6w=="/>
+		<POI MapID="1045" xpos="239.7"    ypos="132.673" zpos="65.688"   type="general.explorer.spirit_of_the_tiger" GUID="mV1pvR06o0GuTe4WD277zQ=="/>
+		<POI MapID="1041" xpos="194.052"  ypos="86.0286" zpos="741.073"  type="general.explorer.spirit_of_the_tiger" GUID="HFdqjfbch0yIphJrYqZJSA=="/>
+
+		<!-- TEARS OF ITLAOCOL -->
+		<Trail type="general.explorer.tears_of_itlaocol" GUID="nf9wa28xG0GULN/I0PGaSg==" trailData="Data/General/Explorer/TearsOfItlaocol.trl" texture="Data/Arrow.png" color="ffffdd00" alpha="0.8" fadeNear="1500" fadeFar="2000" animSpeed="1" mapDisplaySize="15"/>
+		<POI MapID="34" xpos="-408.799" ypos="0.210417"  zpos="554.568" type="general.explorer.tears_of_itlaocol" GUID="T3unYZUYsUCG2TvF/332Qg=="/>
+		<POI MapID="34" xpos="-427.656" ypos="1.30713"   zpos="508.015" type="general.explorer.tears_of_itlaocol" GUID="K3rsZxfJdkOQOiIgV9R2GQ==" iconFile="Img/Icons/Interaction.png"                     maxSize="16"             fadeNear="2000" fadeFar="2500"                    mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="34" xpos="-440.835" ypos="0.962154"  zpos="515.357" type="general.explorer.tears_of_itlaocol" GUID="pHO33Wd7xE6pMR+SgWAGSQ==" iconFile="Img/Icons/Target.png"                                                   fadeNear="2000" fadeFar="2500" heightOffset="5"   mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="34" xpos="-513.644" ypos="0.0368988" zpos="605.548" type="general.explorer.tears_of_itlaocol" GUID="zFYhhXxfVEq0vfaBg19w5A==" iconFile="Img/Icons/Question.png"                                                 fadeNear="2500" fadeFar="3000" heightOffset="15"  mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="34" xpos="-513.422" ypos="0.0410714" zpos="607.298" type="general.explorer.tears_of_itlaocol" GUID="kCTLPds7aUmddotuLi3/Hw==" iconFile="Img/General/TearsOfItlaocol.png"  minSize="48" maxSize="48"             fadeNear="1500" fadeFar="2000" heightOffset="8"   mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="34" xpos="-527.575" ypos="0.253212"  zpos="583.66"  type="general.explorer.tears_of_itlaocol" GUID="rwAtpAWipEO2C2OGocSYxQ==" iconFile="Img/Icons/Switch.png"             minSize="8"  maxSize="16" alpha="0.7" fadeNear="2500" fadeFar="3000" heightOffset="0"   mapDisplaySize="15"/>
+		<POI MapID="34" xpos="-522.61"  ypos="0.225789"  zpos="581.521" type="general.explorer.tears_of_itlaocol" GUID="kev7Y2G1nU+NIFly0qmGFw==" iconFile="Img/Icons/Switch.png"             minSize="8"  maxSize="16" alpha="0.7" fadeNear="2500" fadeFar="3000" heightOffset="0"   mapDisplaySize="15"/>
+		<POI MapID="34" xpos="-516.832" ypos="0.253446"  zpos="578.518" type="general.explorer.tears_of_itlaocol" GUID="dfJkG1+bs0CY/LUOSPfa+A==" iconFile="Img/Icons/Switch.png"             minSize="8"  maxSize="16" alpha="0.7" fadeNear="2500" fadeFar="3000" heightOffset="0"   mapDisplaySize="15"/>
+		<POI MapID="34" xpos="-512.818" ypos="0.172954"  zpos="588.809" type="general.explorer.tears_of_itlaocol" GUID="gJY01N82mkeGr4jT636u7g==" iconFile="Img/Icons/Switch.png"             minSize="8"  maxSize="16" alpha="0.7" fadeNear="2500" fadeFar="3000" heightOffset="0"   mapDisplaySize="15"/>
+		<POI MapID="34" xpos="-518.321" ypos="0.283567"  zpos="593.191" type="general.explorer.tears_of_itlaocol" GUID="z/T1/6BGMUm7fhzxJPyrOQ==" iconFile="Img/Icons/Switch.png"             minSize="8"  maxSize="16" alpha="0.7" fadeNear="2500" fadeFar="3000" heightOffset="0"   mapDisplaySize="15"/>
+		<POI MapID="34" xpos="-524.612" ypos="0.333925"  zpos="595.106" type="general.explorer.tears_of_itlaocol" GUID="wWp5ITEtw0mNhWML4fbmPg==" iconFile="Img/Icons/Switch.png"             minSize="8"  maxSize="16" alpha="0.7" fadeNear="2500" fadeFar="3000" heightOffset="0"   mapDisplaySize="15"/>
+		<POI MapID="34" xpos="-520.595" ypos="0.270251"  zpos="605.386" type="general.explorer.tears_of_itlaocol" GUID="IB1jA4R9REimPkMA4f0Iww==" iconFile="Img/Icons/Switch.png"             minSize="8"  maxSize="16" alpha="0.7" fadeNear="2500" fadeFar="3000" heightOffset="0"   mapDisplaySize="15"/>
+		<POI MapID="34" xpos="-515.497" ypos="0.104926"  zpos="602.715" type="general.explorer.tears_of_itlaocol" GUID="9+3NH3FddkC2VIMtD2UTJw==" iconFile="Img/Icons/Switch.png"             minSize="8"  maxSize="16" alpha="0.7" fadeNear="2500" fadeFar="3000" heightOffset="0"   mapDisplaySize="15"/>
+		<POI MapID="34" xpos="-509.014" ypos="0.285515"  zpos="600.178" type="general.explorer.tears_of_itlaocol" GUID="z6sBhVuKTU6wAh9kb9CxtQ==" iconFile="Img/Icons/Switch.png"             minSize="8"  maxSize="16" alpha="0.7" fadeNear="2500" fadeFar="3000" heightOffset="0"   mapDisplaySize="15"/>
+		<POI MapID="34" xpos="-520.657" ypos="0.861788"  zpos="619.878" type="general.explorer.tears_of_itlaocol" GUID="tPPGJfp7XUiITOv0ddLrow==" iconFile="Img/Icons/Detail.png"             minSize="8"  maxSize="16" alpha="0.7" fadeNear="2500" fadeFar="3000" heightOffset="4"   mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="34" xpos="-528.579" ypos="0.133187"  zpos="618.894" type="general.explorer.tears_of_itlaocol" GUID="xc60RoN5EUatiA2vvHEcrg==" iconFile="Img/Icons/Detail.png"             minSize="8"  maxSize="16" alpha="0.7" fadeNear="2500" fadeFar="3000" heightOffset="4.5" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="34" xpos="-503.298" ypos="0.334645"  zpos="606.197" type="general.explorer.tears_of_itlaocol" GUID="7JlP7jPDy0qIhnqlEf6pkA==" iconFile="Img/Icons/Detail.png"             minSize="8"  maxSize="16" alpha="0.7" fadeNear="2500" fadeFar="3000" heightOffset="5"   mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="34" xpos="-502.185" ypos="0.596254"  zpos="601.597" type="general.explorer.tears_of_itlaocol" GUID="03PkGooziEOdRR6AXGmNCA==" iconFile="Img/Icons/Detail.png"             minSize="8"  maxSize="16" alpha="0.7" fadeNear="2500" fadeFar="3000" heightOffset="4"   mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="34" xpos="-520.657" ypos="4.35827"   zpos="666.675" type="general.explorer.tears_of_itlaocol" GUID="rNd1/Z3iNkKm9wxeBkifcA==" iconFile="Img/General/MiniDungeonChest.png" minSize="12"                          fadeNear="2500" fadeFar="3000" heightOffset="2"/>
+
+		<!-- THE LONG WAY AROUND -->
+		<POI MapID="51" xpos="244.44" ypos="-60.25" zpos="97.47"  type="general.explorer.the_long_way_around" GUID="zyRoFGrVbEywBZr6vuPEew=="/>
+		<POI MapID="51" xpos="269.82" ypos="-66.48" zpos="86.74"  type="general.explorer.the_long_way_around" GUID="r0mIWu68v06MgwZ4GtKTLA==" iconFile="Img/Icons/Heart.png"              fadeNear="2500" fadeFar="3000" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="51" xpos="334.21" ypos="-54.4"  zpos="62"     type="general.explorer.the_long_way_around" GUID="0Bvnk8UlU0uhSc/R0k281Q==" iconFile="Img/Numbers/1.png"                fadeNear="2500" fadeFar="3000" behavior="4" resetLength="320" hasCountdown="1" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="51" xpos="334.45" ypos="-73.41" zpos="28.41"  type="general.explorer.the_long_way_around" GUID="R2dzRqQnwk6ELYPju4JRGQ==" iconFile="Img/Numbers/2.png"                fadeNear="2500" fadeFar="3000" behavior="4" resetLength="320" hasCountdown="1" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="51" xpos="344.19" ypos="-39.14" zpos="46.12"  type="general.explorer.the_long_way_around" GUID="I7iqEwWz5kK8NpPu7o9TOQ==" iconFile="Img/Numbers/3.png"                fadeNear="2500" fadeFar="3000" behavior="4" resetLength="320" hasCountdown="1" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="51" xpos="381"    ypos="-62.4"  zpos="21.62"  type="general.explorer.the_long_way_around" GUID="KXpuGGtJ6UOr36ASCAL/hA==" iconFile="Img/Numbers/4.png"                fadeNear="2500" fadeFar="3000" behavior="4" resetLength="320" hasCountdown="1" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="51" xpos="410.1"  ypos="-71.45" zpos="-37.97" type="general.explorer.the_long_way_around" GUID="VNkHrdL+y0O0dBQpG7LzxQ==" iconFile="Img/Numbers/5.png"                fadeNear="2500" fadeFar="3000" behavior="4" resetLength="320" hasCountdown="1" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="51" xpos="436.54" ypos="-76.28" zpos="-2.33"  type="general.explorer.the_long_way_around" GUID="K4hUcekSMEGOVc298nDz/g==" iconFile="Img/Numbers/6.png"                fadeNear="2500" fadeFar="3000" behavior="4" resetLength="320" hasCountdown="1" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="51" xpos="451.63" ypos="-69.05" zpos="14.85"  type="general.explorer.the_long_way_around" GUID="vAvZekkkdEWghVXwt8txxQ==" iconFile="Img/Icons/Cross.png"              fadeNear="2500" fadeFar="3000" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="51" xpos="455.22" ypos="-93.05" zpos="11.32"  type="general.explorer.the_long_way_around" GUID="Oo5wjcNtr0usOxOO0JN2DQ==" iconFile="Img/General/MiniDungeonChest.png" fadeNear="2500" fadeFar="3000" heightOffset="2" mapVisibility="0" miniMapVisibility="0"/>
+
+		<!-- VEXA'S LAB -->
+		<Trail type="general.explorer.vexa_s_lab" GUID="vOMWWj6oOUi7SBbCR6ciQw==" trailData="Data/General/Explorer/VexasLab.trl" texture="Data/Arrow.png" color="ffffdd00" alpha="0.8" fadeNear="1500" fadeFar="2000" animSpeed="1" mapDisplaySize="15"/>
+		<POI MapID="22" xpos="353.6"    ypos="36.85"   zpos="-3.71669" type="general.explorer.vexa_s_lab" GUID="Gri8vHLTYEuliMud7lBJRw=="/>
+		<POI MapID="22" xpos="-271.74"  ypos="28.2804" zpos="-701.321" type="general.explorer.vexa_s_lab" GUID="p3LH0NffT0KF/uPeg+Eeig==" iconFile="Img/Icons/Fight.png"                                          fadeNear="1500" fadeFar="2000" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="22" xpos="-342.137" ypos="20.5023" zpos="-714.268" type="general.explorer.vexa_s_lab" GUID="tZjNoNbefkCHnPqE2K7qiw==" iconFile="Img/General/VexasLab.png"           minSize="64" maxSize="64" fadeNear="1000" fadeFar="1500" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="22" xpos="-372"     ypos="9.5"     zpos="-730"     type="general.explorer.vexa_s_lab" GUID="l8iM1/10lE6M/pPddTPq2Q==" iconFile="Img/Numbers/1.png" color="ffff0000"                           fadeNear="2500" fadeFar="3000" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="22" xpos="-379"     ypos="21"      zpos="-750"     type="general.explorer.vexa_s_lab" GUID="heZANuo9hkSdtkOZN5DCWQ==" iconFile="Img/Numbers/2.png" color="ffff0000"                           fadeNear="2500" fadeFar="3000" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="22" xpos="-376"     ypos="43.5"    zpos="-732"     type="general.explorer.vexa_s_lab" GUID="KmFBE5nnX0KbJDAB5F3IPA==" iconFile="Img/Numbers/3.png" color="ffff0000"                           fadeNear="2500" fadeFar="3000" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="22" xpos="-370"     ypos="9.5"     zpos="-730"     type="general.explorer.vexa_s_lab" GUID="giBqS23gkUy4EzqxT9Q8lQ==" iconFile="Img/Numbers/1.png" color="ffffd800"                           fadeNear="2500" fadeFar="3000" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="22" xpos="-342.5"   ypos="27.5"    zpos="-744"     type="general.explorer.vexa_s_lab" GUID="nVLTJqTLB0SyoWdcLHwQ2Q==" iconFile="Img/Numbers/2.png" color="ffffd800"                           fadeNear="2500" fadeFar="3000" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="22" xpos="-376"     ypos="43.5"    zpos="-734"     type="general.explorer.vexa_s_lab" GUID="KsA+ORVib062ZwIg9H5EbQ==" iconFile="Img/Numbers/3.png" color="ffffd800"                           fadeNear="2500" fadeFar="3000" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="22" xpos="-380"     ypos="21"      zpos="-704"     type="general.explorer.vexa_s_lab" GUID="rj+rq+DTZEiNiXKzmNfuhQ==" iconFile="Img/Numbers/1.png" color="ff0026ff"                           fadeNear="2500" fadeFar="3000" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="22" xpos="-342.5"   ypos="27.5"    zpos="-742"     type="general.explorer.vexa_s_lab" GUID="dLWy1F3mtkapCfZj08DagQ==" iconFile="Img/Numbers/2.png" color="ff0026ff"                           fadeNear="2500" fadeFar="3000" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="22" xpos="-375"     ypos="43.5"    zpos="-733"     type="general.explorer.vexa_s_lab" GUID="m/Cu680uO0i9IUNKvCxLJA==" iconFile="Img/Numbers/3.png" color="ff0026ff"                           fadeNear="2500" fadeFar="3000" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="22" xpos="-380"     ypos="21"      zpos="-706"     type="general.explorer.vexa_s_lab" GUID="YkacnitQZka9Hj+1KEJutw==" iconFile="Img/Numbers/1.png" color="ff00c113"                           fadeNear="2500" fadeFar="3000" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="22" xpos="-379"     ypos="19"      zpos="-750"     type="general.explorer.vexa_s_lab" GUID="hlWPKFDFd0CzoZkEltL1yA==" iconFile="Img/Numbers/2.png" color="ff00c113"                           fadeNear="2500" fadeFar="3000" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="22" xpos="-377"     ypos="43.5"    zpos="-733"     type="general.explorer.vexa_s_lab" GUID="YjvSePN8gUqMc+WHSGUllg==" iconFile="Img/Numbers/3.png" color="ff00c113"                           fadeNear="2500" fadeFar="3000" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="22" xpos="-280.592" ypos="5.33451" zpos="-796.547" type="general.explorer.vexa_s_lab" GUID="yFudHGBhu0aePWSsqZ40ww==" iconFile="Img/Icons/Fight.png"                                          fadeNear="1500" fadeFar="2000" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="22" xpos="-272.39"  ypos="5.236"   zpos="-797.493" type="general.explorer.vexa_s_lab" GUID="+JXhLYu8gUyrV/wBTCTzWA==" iconFile="Img/General/MiniDungeonChest.png"                             fadeNear="1500" fadeFar="2000" heightOffset="2"/>
+
+		<!-- WINDY CAVE TREASURE -->
+		<Trail type="general.explorer.windy_cave_treasure" GUID="pDKBpLFYb0iQetl71AXCzg==" trailData="Data/General/Explorer/WindyCaveTreasure.trl" texture="Data/Arrow.png" color="ffffdd00" alpha="0.8" fadeNear="1500" fadeFar="2000" animSpeed="1" mapDisplaySize="15"/>
+		<POI MapID="27" xpos="-145.93"  ypos="59.69"   zpos="880.07"  type="general.explorer.windy_cave_treasure" GUID="duFFbEdJlES0G6XLq8rO+Q=="/>
+		<POI MapID="27" xpos="-101.06"  ypos="52.7593" zpos="971.382" type="general.explorer.windy_cave_treasure" GUID="vC+mQQj1QkmaVWRlcjK+kQ==" iconFile="Img/Icons/Fight.png"              fadeNear="2000" fadeFar="2500" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="27" xpos="-95.6053" ypos="54.9115" zpos="975.2"   type="general.explorer.windy_cave_treasure" GUID="XlzOqaGIskeLtyvF1KP/hA==" iconFile="Img/General/MiniDungeonChest.png" fadeNear="2000" fadeFar="2500"/>
+
+	</POIs>
+</OverlayData>

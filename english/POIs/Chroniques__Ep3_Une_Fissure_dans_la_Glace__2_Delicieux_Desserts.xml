@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+POIs: ReActif.9251
+Date: 2016/12/14
+-->
+<OverlayData>
+	<MarkerCategory name="chroniques.saison_3">
+		<MarkerCategory name="ep3_une_fissure_dans_la_glace" DisplayName="Ep.3 - A Crack in the Ice" iconFile="Img\ConfinsDeGivramer.png">
+			<MarkerCategory name="delicieux_desserts" DisplayName="Delicious Desserts"/>
+		</MarkerCategory>
+	</MarkerCategory>
+
+	<POIs>
+
+		<!-- Recette : Sorbet de houx // Sorbet de houx -->
+		<POI MapID="1178" xpos="518.221" ypos="0.448134" zpos="-289.68" type="chroniques.saison_3.ep3_une_fissure_dans_la_glace.delicieux_desserts" GUID="DFcV0R50HkuuZBbpOjBGTQ==" heightOffset="3"/>
+
+		<!-- Petit Quaggan -->
+		<POI MapID="1178" xpos="27.2282" ypos="-126.68" zpos="-106.112" type="chroniques.saison_3.ep3_une_fissure_dans_la_glace.delicieux_desserts" GUID="iy+IJ9/r60OvoTP9TTEP2A=="/>
+
+	</POIs>
+</OverlayData>

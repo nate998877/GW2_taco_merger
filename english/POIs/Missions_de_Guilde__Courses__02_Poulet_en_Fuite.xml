@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+POIs: ReActif.9251
+Date: 2017/08/11
+-->
+<OverlayData>
+	<MarkerCategory name="missions_de_guilde" DisplayName="Guild Missions">
+		<MarkerCategory name="courses" DisplayName="Races" iconFile="Img\Guide.png" iconSize="0.75" triggerRange="3">
+			<MarkerCategory name="poulet_en_fuite" DisplayName="Chicken Run">
+				<MarkerCategory name="drapeaux" DisplayName="Checkpoints" iconFile="Img\DrapeauPassage.png" iconSize="1" fadeNear="2000" fadeFar="5000"/>
+				<MarkerCategory name="pieges" DisplayName="Traps" iconSize="1">
+					<MarkerCategory name="piques" DisplayName="Spikes" iconFile="Img\DangerPiques.png" fadeNear="1000" fadeFar="2000" heightOffset="0"/>
+					<MarkerCategory name="chutes_de_pierres" DisplayName="Rockfalls" iconFile="Img\DangerPierres.png" fadeNear="1000" fadeFar="2000" heightOffset="0"/>
+				</MarkerCategory>
+			</MarkerCategory>
+		</MarkerCategory>
+	</MarkerCategory>
+
+	<POIs>
+
+		<!-- Début -->
+		<POI MapID="21" xpos="644.77" ypos="15.23" zpos="94.96" type="missions_de_guilde.courses.debut" GUID="ej5My52EZ0CgX/+mj5fF4Q=="/>
+
+		<!-- Route -->
+		<Route MapID="21" name="Poulet_en_Fuite" resetposx="644.77" resetposy="15.23" resetposz="94.96" resetrange="2">
+			<POI MapID="21" xpos="651.478" ypos="14.9642" zpos="99.213"  type="missions_de_guilde.courses.poulet_en_fuite" GUID="SPwnJOiFmU2y8gRkI0E2LA=="/>
+			<POI MapID="21" xpos="659.222" ypos="15.812"  zpos="99.5369" type="missions_de_guilde.courses.poulet_en_fuite" GUID="iQ91fzqthEG5oQqOIcBCyQ=="/>
+			<POI MapID="21" xpos="675.688" ypos="14.9067" zpos="94.6644" type="missions_de_guilde.courses.poulet_en_fuite" GUID="QNVGT/zQEEeOnMt0gHu6/Q=="/>
+			<POI MapID="21" xpos="684.76"  ypos="14.3818" zpos="91.8391" type="missions_de_guilde.courses.poulet_en_fuite" GUID="B3XhUPnknUG8z71XTNpfLg=="/>
+			<POI MapID="21" xpos="693.257" ypos="14.4807" zpos="93.0628" type="missions_de_guilde.courses.poulet_en_fuite" GUID="5oCIaIUKgECMHpwkdW3lpQ=="/>
+			<POI MapID="21" xpos="702.082" ypos="15.0945" zpos="95.6888" type="missions_de_guilde.courses.poulet_en_fuite" GUID="ULuiT/KNMk6N3t6NcVVYFQ=="/>
+			<POI MapID="21" xpos="711.336" ypos="16.5956" zpos="96.9289" type="missions_de_guilde.courses.poulet_en_fuite" GUID="WdI/ILb220yF3mZ8HZLZuw=="/>
+			<POI MapID="21" xpos="721.012" ypos="15.8116" zpos="95.8817" type="missions_de_guilde.courses.poulet_en_fuite" GUID="2uOtTvja/UqqK6IXnqt2zg=="/>
+			<POI MapID="21" xpos="733.03"  ypos="15.3329" zpos="94.4422" type="missions_de_guilde.courses.poulet_en_fuite" GUID="Vc2O491k4UmkJXAv86yK0A=="/>
+			<POI MapID="21" xpos="743.564" ypos="15.4487" zpos="93.1534" type="missions_de_guilde.courses.poulet_en_fuite" GUID="raAcvwl8LkK7bGgYhfc9sg=="/>
+			<POI MapID="21" xpos="751.593" ypos="15.8666" zpos="91.098"  type="missions_de_guilde.courses.poulet_en_fuite" GUID="n8z/89pyzU6evgvxvBUCew=="/>
+			<POI MapID="21" xpos="761.035" ypos="17.0905" zpos="88.2735" type="missions_de_guilde.courses.poulet_en_fuite" GUID="xoUy6ZsoAUCOyzkoduSEsA=="/>
+			<POI MapID="21" xpos="768.088" ypos="17.7396" zpos="89.3919" type="missions_de_guilde.courses.poulet_en_fuite" GUID="h6tz7V+5ZkCLliHELuzSoA=="/>
+			<POI MapID="21" xpos="774.76"  ypos="18.6729" zpos="96.4029" type="missions_de_guilde.courses.poulet_en_fuite" GUID="jdrnIH2xC0iiTZst215DAw=="/>
+			<POI MapID="21" xpos="783.245" ypos="19.6385" zpos="103.791" type="missions_de_guilde.courses.poulet_en_fuite" GUID="Z3n+3kdZSU2nzecY3Kh/sA=="/>
+			<POI MapID="21" xpos="791.901" ypos="20.3282" zpos="112.805" type="missions_de_guilde.courses.poulet_en_fuite" GUID="fvmQGpJArEWZI7heR1w4Cw=="/>
+			<POI MapID="21" xpos="797.362" ypos="19.8938" zpos="123.251" type="missions_de_guilde.courses.poulet_en_fuite" GUID="Ka4BOo4AGUWakre+F60+wA=="/>
+			<POI MapID="21" xpos="803.783" ypos="18.6661" zpos="133.137" type="missions_de_guilde.courses.poulet_en_fuite" GUID="vDY6bWEgaUGo7/rpvh/jEA=="/>
+			<POI MapID="21" xpos="810.502" ypos="18.1072" zpos="140.729" type="missions_de_guilde.courses.poulet_en_fuite" GUID="y8YW8jEb0UunYcFtqP2dnQ=="/>
+			<POI MapID="21" xpos="815.807" ypos="17.8546" zpos="148.215" type="missions_de_guilde.courses.poulet_en_fuite" GUID="1dv70DuLOEWJBMx4+3mP8A=="/>
+			<POI MapID="21" xpos="821.144" ypos="17.8471" zpos="156.355" type="missions_de_guilde.courses.poulet_en_fuite" GUID="vZ4NHkQG70GBiMgtf6oCfg=="/>
+			<POI MapID="21" xpos="825.096" ypos="16.5907" zpos="160.996" type="missions_de_guilde.courses.poulet_en_fuite" GUID="91mzv7NW+0S/vCY3Zq7wnw=="/>
+			<POI MapID="21" xpos="831.498" ypos="14.8157" zpos="164.787" type="missions_de_guilde.courses.poulet_en_fuite" GUID="whjnenDXWUqhgRbf8yNYmQ=="/>
+			<POI MapID="21" xpos="830.346" ypos="13.832"  zpos="171.098" type="missions_de_guilde.courses.poulet_en_fuite" GUID="cmL8AGc5SEGXO7IvJhUfkQ=="/>
+			<POI MapID="21" xpos="831.209" ypos="13.726"  zpos="177.277" type="missions_de_guilde.courses.poulet_en_fuite" GUID="wsdvDGFAwkiAYXQBwS9ZVg=="/>
+			<POI MapID="21" xpos="837.221" ypos="14.0918" zpos="183.043" type="missions_de_guilde.courses.poulet_en_fuite" GUID="b/oA4npCBU6Fu6a28PA17A=="/>
+			<POI MapID="21" xpos="840.433" ypos="14.6238" zpos="189.884" type="missions_de_guilde.courses.poulet_en_fuite" GUID="mUP+zw2cxEGuxT8r6mXljg=="/>
+			<POI MapID="21" xpos="842.972" ypos="14.8897" zpos="197.097" type="missions_de_guilde.courses.poulet_en_fuite" GUID="mOs46RDpDkiy/n4/OHRWNA=="/>
+			<POI MapID="21" xpos="846.089" ypos="14.8592" zpos="204.349" type="missions_de_guilde.courses.poulet_en_fuite" GUID="yRXwFBbHkEaBooWqYbSxGA=="/>
+			<POI MapID="21" xpos="849.582" ypos="15.0164" zpos="210.647" type="missions_de_guilde.courses.poulet_en_fuite" GUID="L37uerBbJk2IgCaOiiK4Qw=="/>
+			<POI MapID="21" xpos="852.25"  ypos="15.9546" zpos="217.754" type="missions_de_guilde.courses.poulet_en_fuite" GUID="Sq1QYPOu2EuRQ9TR5BCHOA=="/>
+			<POI MapID="21" xpos="853.527" ypos="15.6595" zpos="225.972" type="missions_de_guilde.courses.poulet_en_fuite" GUID="TSdFa7FyGEWa5OCrKRJuBw=="/>
+			<POI MapID="21" xpos="855.457" ypos="14.9502" zpos="234.034" type="missions_de_guilde.courses.poulet_en_fuite" GUID="qGj6tba4fkOtka0nvlQJnA=="/>
+			<POI MapID="21" xpos="855.743" ypos="14.498"  zpos="239.45"  type="missions_de_guilde.courses.poulet_en_fuite" GUID="67Oze9x5mUCfnk2qFkEWVQ=="/>
+			<POI MapID="21" xpos="855.624" ypos="16.3626" zpos="246.651" type="missions_de_guilde.courses.poulet_en_fuite" GUID="cSE/cl+hUUCWa+qiNPbrnQ=="/>
+			<POI MapID="21" xpos="853.029" ypos="17.0433" zpos="255.48"  type="missions_de_guilde.courses.poulet_en_fuite" GUID="0ZKDQiDREEmQC8NJlZCSvA=="/>
+			<POI MapID="21" xpos="844.183" ypos="14.456"  zpos="261.454" type="missions_de_guilde.courses.poulet_en_fuite" GUID="hAjRWnD810mlUwxAfNkkjQ=="/>
+			<POI MapID="21" xpos="831.684" ypos="14.3754" zpos="267.037" type="missions_de_guilde.courses.poulet_en_fuite" GUID="WJBw7Aq4NUOdglZ+O+hhdg=="/>
+			<POI MapID="21" xpos="821.987" ypos="15.0184" zpos="270.793" type="missions_de_guilde.courses.poulet_en_fuite" GUID="pHBJYmpq+UWR5PyyVxDXzQ=="/>
+			<POI MapID="21" xpos="810.04"  ypos="16.2357" zpos="272.079" type="missions_de_guilde.courses.poulet_en_fuite" GUID="HE1a/zrd8kCVJcKfe7O1XA=="/>
+			<POI MapID="21" xpos="799.966" ypos="18.3209" zpos="272.5"   type="missions_de_guilde.courses.poulet_en_fuite" GUID="N5L3Kb5TZUies2FYsdq2kA=="/>
+			<POI MapID="21" xpos="789.772" ypos="19.4742" zpos="274.937" type="missions_de_guilde.courses.poulet_en_fuite" GUID="DsmTvnw7pkad/7QjcMobtw=="/>
+			<POI MapID="21" xpos="782.613" ypos="16.4204" zpos="282.278" type="missions_de_guilde.courses.poulet_en_fuite" GUID="22jWG28v80q1yagjhpHcgA=="/>
+			<POI MapID="21" xpos="779.758" ypos="16.2215" zpos="291.961" type="missions_de_guilde.courses.poulet_en_fuite" GUID="54UUltfaqEKqha0OhrGyjA=="/>
+			<POI MapID="21" xpos="778.792" ypos="14.3573" zpos="304.525" type="missions_de_guilde.courses.poulet_en_fuite" GUID="S4zKmhth5Uem5PlNBqLjLg=="/>
+			<POI MapID="21" xpos="779.021" ypos="15.4627" zpos="314.235" type="missions_de_guilde.courses.poulet_en_fuite" GUID="7rNpwOLpHkeJreg9NjoCNw=="/>
+			<POI MapID="21" xpos="777.683" ypos="16.043"  zpos="323.883" type="missions_de_guilde.courses.poulet_en_fuite" GUID="mnoGsnWXzUC2x/n06ktHZQ=="/>
+			<POI MapID="21" xpos="772.68"  ypos="16.6035" zpos="330.502" type="missions_de_guilde.courses.poulet_en_fuite" GUID="JexbbRLOfE+mCHJGV7Iv/g=="/>
+			<POI MapID="21" xpos="766.562" ypos="16.897"  zpos="338.208" type="missions_de_guilde.courses.poulet_en_fuite" GUID="+MqNm6KBH0yrhOb/86E9ZQ=="/>
+			<POI MapID="21" xpos="762.262" ypos="16.231"  zpos="345.712" type="missions_de_guilde.courses.poulet_en_fuite" GUID="l4RrGfhVgU6N2Mnw+0wkbA=="/>
+			<POI MapID="21" xpos="757.794" ypos="15.855"  zpos="353.072" type="missions_de_guilde.courses.poulet_en_fuite" GUID="HQ/EvdIdN0qUoIH2R77oFA=="/>
+			<POI MapID="21" xpos="755.345" ypos="16.5322" zpos="359.663" type="missions_de_guilde.courses.poulet_en_fuite" GUID="QTKyIUx1vUOgHnb7VyZKug=="/>
+			<POI MapID="21" xpos="756.666" ypos="18.2681" zpos="370.641" type="missions_de_guilde.courses.poulet_en_fuite" GUID="d5rVIZ7Ubk6b2NXWswkWgA=="/>
+			<POI MapID="21" xpos="759.768" ypos="17.826"  zpos="385.136" type="missions_de_guilde.courses.poulet_en_fuite" GUID="lvHlTfPSUkSeWDU3MoDIew=="/>
+			<POI MapID="21" xpos="767.159" ypos="18.5864" zpos="395.781" type="missions_de_guilde.courses.poulet_en_fuite" GUID="rffWpq11PkGqD0wpiIfRPg=="/>
+			<POI MapID="21" xpos="775.049" ypos="20.4854" zpos="402.301" type="missions_de_guilde.courses.poulet_en_fuite" GUID="EWAZmro5F0Of/cUy2ngtDA=="/>
+			<POI MapID="21" xpos="783.696" ypos="22.1278" zpos="407.876" type="missions_de_guilde.courses.poulet_en_fuite" GUID="pGILxCZxQ0OBoWi2ZxSRGQ=="/>
+			<POI MapID="21" xpos="794.848" ypos="23.4176" zpos="413.127" type="missions_de_guilde.courses.poulet_en_fuite" GUID="8qgSiNCG7kW3HLuv9d+2pw=="/>
+			<POI MapID="21" xpos="803.768" ypos="24.7263" zpos="421.696" type="missions_de_guilde.courses.poulet_en_fuite" GUID="MUu35fYtK0upTkNsvOutBQ=="/>
+			<POI MapID="21" xpos="813.266" ypos="25.0236" zpos="429.41"  type="missions_de_guilde.courses.poulet_en_fuite" GUID="Z0TIwYGBJU+nuDEsw+MRVg=="/>
+			<POI MapID="21" xpos="821.679" ypos="24.9864" zpos="436.981" type="missions_de_guilde.courses.poulet_en_fuite" GUID="lHlL0uJeg0eUKoOZJAONIg=="/>
+			<POI MapID="21" xpos="826.611" ypos="25.0934" zpos="447.93"  type="missions_de_guilde.courses.poulet_en_fuite" GUID="/aWRVdkRCEu6EaQ105L2Vw=="/>
+			<POI MapID="21" xpos="829.978" ypos="25.0445" zpos="458.127" type="missions_de_guilde.courses.poulet_en_fuite" GUID="3pb+D22i9EaMjo0TKETFOg=="/>
+			<POI MapID="21" xpos="828.4"   ypos="24.96"   zpos="469.02"  type="missions_de_guilde.courses.poulet_en_fuite" GUID="uGd1DB6CrEGPbOE9Xj1fRw=="/>
+			<POI MapID="21" xpos="830.04"  ypos="25.34"   zpos="478.54"  type="missions_de_guilde.courses.poulet_en_fuite" GUID="P4jPpA/YX0Kf7pzgJIkOzw=="/>
+			<POI MapID="21" xpos="832.085" ypos="25.4274" zpos="486.332" type="missions_de_guilde.courses.poulet_en_fuite" GUID="00qCaXy1L06seDgWHYstWA=="/>
+			<POI MapID="21" xpos="831.226" ypos="27.2282" zpos="495.914" type="missions_de_guilde.courses.poulet_en_fuite" GUID="W/gFFEkj3E2NAo0hw9TC5A=="/>
+			<POI MapID="21" xpos="827.944" ypos="29.2454" zpos="500.189" type="missions_de_guilde.courses.poulet_en_fuite" GUID="Qzt0Lbix1kSUgi5IRb5HSA=="/>
+			<POI MapID="21" xpos="820.887" ypos="30.2562" zpos="496.094" type="missions_de_guilde.courses.poulet_en_fuite" GUID="/2l8G0vWLUyesQU6IkEbzg=="/>
+			<POI MapID="21" xpos="814.743" ypos="30.9209" zpos="486.398" type="missions_de_guilde.courses.poulet_en_fuite" GUID="wDjUmuhCpkGRQApZ31gbTg=="/>
+			<POI MapID="21" xpos="810.728" ypos="31.7663" zpos="478.65"  type="missions_de_guilde.courses.poulet_en_fuite" GUID="1mibKtsco06xiKV24ysU0A=="/>
+			<POI MapID="21" xpos="804.599" ypos="32.2752" zpos="470.001" type="missions_de_guilde.courses.poulet_en_fuite" GUID="2MepC2mExk+qTHTFv8jgfQ=="/>
+			<POI MapID="21" xpos="795.131" ypos="32.8329" zpos="469.435" type="missions_de_guilde.courses.poulet_en_fuite" GUID="nrgIA/Xqi0iBgExOtWRtQA=="/>
+			<POI MapID="21" xpos="781.369" ypos="32.6048" zpos="472.038" type="missions_de_guilde.courses.poulet_en_fuite" GUID="wEMMIpGcpUWASpicRgEXYA=="/>
+			<POI MapID="21" xpos="770.432" ypos="33.5917" zpos="474.662" type="missions_de_guilde.courses.poulet_en_fuite" GUID="CpCVJ1qUgU+gv0H4EavlIg=="/>
+			<POI MapID="21" xpos="761.846" ypos="34.1684" zpos="477.054" type="missions_de_guilde.courses.poulet_en_fuite" GUID="xgM1jX+wvECs9pOfsjDHvA=="/>
+			<POI MapID="21" xpos="753.475" ypos="33.9212" zpos="480.272" type="missions_de_guilde.courses.poulet_en_fuite" GUID="Vh4ZUq76UUKvcBxO0hFibA=="/>
+			<POI MapID="21" xpos="745.648" ypos="34.4287" zpos="481.455" type="missions_de_guilde.courses.poulet_en_fuite" GUID="ttY0CRIyDUGy3PwG4xgncA=="/>
+			<POI MapID="21" xpos="735.284" ypos="34.4447" zpos="480.115" type="missions_de_guilde.courses.poulet_en_fuite" GUID="01BvFSy1Dki1mSwdTAxhJg=="/>
+			<POI MapID="21" xpos="727.488" ypos="34.7815" zpos="482.707" type="missions_de_guilde.courses.poulet_en_fuite" GUID="WiSHsqKUukyg1hGIlbnT2w==" iconFile="Img\Fleche.png"/>
+			<POI MapID="21" xpos="690.776" ypos="35.3193" zpos="448.038" type="missions_de_guilde.courses.poulet_en_fuite" GUID="cCAMWQTGSUeh98wTFpWXNg=="/>
+			<POI MapID="21" xpos="692.007" ypos="35.2292" zpos="440.7"   type="missions_de_guilde.courses.poulet_en_fuite" GUID="C6DcoQccZ0Ol4eK+nWZMHA=="/>
+			<POI MapID="21" xpos="691.509" ypos="32.888"  zpos="428.906" type="missions_de_guilde.courses.poulet_en_fuite" GUID="BgvBUlf8KkCcYZypzpHYHw=="/>
+			<POI MapID="21" xpos="689.971" ypos="34.2183" zpos="420.12"  type="missions_de_guilde.courses.poulet_en_fuite" GUID="WoNuTLbSHE2zofMRu5krxw=="/>
+			<POI MapID="21" xpos="688.33"  ypos="34.2963" zpos="409.281" type="missions_de_guilde.courses.poulet_en_fuite" GUID="rNUza/MpWkio6GMXgCdorA=="/>
+			<POI MapID="21" xpos="682.686" ypos="34.645"  zpos="401.569" type="missions_de_guilde.courses.poulet_en_fuite" GUID="sxRUCGyvqUi11zH3z1FSdQ=="/>
+			<POI MapID="21" xpos="674.647" ypos="34.2983" zpos="395.389" type="missions_de_guilde.courses.poulet_en_fuite" GUID="VB2XVk691Um2ROEBb22hIg=="/>
+			<POI MapID="21" xpos="669.733" ypos="34.8353" zpos="388.365" type="missions_de_guilde.courses.poulet_en_fuite" GUID="vYDDtqcy0029rsopefE6xA=="/>
+			<POI MapID="21" xpos="663.967" ypos="34.818"  zpos="382.721" type="missions_de_guilde.courses.poulet_en_fuite" GUID="VjcAnXw7ykmfNAfyAsjzsA=="/>
+			<POI MapID="21" xpos="655.958" ypos="35.8412" zpos="380.673" type="missions_de_guilde.courses.poulet_en_fuite" GUID="y6k/EY/klECt/yOyNsuhcw=="/>
+			<POI MapID="21" xpos="646.217" ypos="36.6421" zpos="379.401" type="missions_de_guilde.courses.poulet_en_fuite" GUID="p9uAuVn1y06g2ni+RPmKxg=="/>
+			<POI MapID="21" xpos="636.701" ypos="37.0831" zpos="376.024" type="missions_de_guilde.courses.poulet_en_fuite" GUID="JdaImF4iGEODK9QQTXcZBA=="/>
+			<POI MapID="21" xpos="628.777" ypos="38.3401" zpos="371.654" type="missions_de_guilde.courses.poulet_en_fuite" GUID="Rg5N7JzlUUOebcJEbAOPfA=="/>
+		</Route>
+
+		<!-- Arrivée -->
+		<POI MapID="21" xpos="622.973" ypos="37.9073" zpos="367.373" type="missions_de_guilde.courses.poulet_en_fuite" GUID="vTlYc/LSc02kpUhNmicEyg==" iconFile="Img\DrapeauArrivee.png" iconSize="1"/>
+
+		<!-- Drapeaux de Passage -->
+		<POI MapID="21" xpos="850.84"  ypos="14.26"   zpos="239.21"  type="missions_de_guilde.courses.poulet_en_fuite.drapeaux" GUID="Tg9URdqxqku/wwM6JCOf5Q=="/>
+		<POI MapID="21" xpos="834.239" ypos="13.7303" zpos="180.757" type="missions_de_guilde.courses.poulet_en_fuite.drapeaux" GUID="qpRPEZUZBEePR5QkGlwsFA=="/>
+		<POI MapID="21" xpos="828.109" ypos="24.5846" zpos="441.414" type="missions_de_guilde.courses.poulet_en_fuite.drapeaux" GUID="+Ry0iGgyfkuTY3kjnl9Idg=="/>
+		<POI MapID="21" xpos="806.402" ypos="31.5215" zpos="480.709" type="missions_de_guilde.courses.poulet_en_fuite.drapeaux" GUID="iHLr7hw6xk+8FykmKXdKbg=="/>
+		<POI MapID="21" xpos="785.813" ypos="22.8215" zpos="410.13"  type="missions_de_guilde.courses.poulet_en_fuite.drapeaux" GUID="NVK82g6EcUS7gRDB2SBlxg=="/>
+		<POI MapID="21" xpos="784.339" ypos="17.7415" zpos="275.158" type="missions_de_guilde.courses.poulet_en_fuite.drapeaux" GUID="dsFFGO1j3kmV0kh4o8ep/A=="/>
+		<POI MapID="21" xpos="738.52"  ypos="34.4415" zpos="478.387" type="missions_de_guilde.courses.poulet_en_fuite.drapeaux" GUID="FrFxT5d50Ue24hoCTup3Fg=="/>
+		<POI MapID="21" xpos="689.522" ypos="35.0027" zpos="406.517" type="missions_de_guilde.courses.poulet_en_fuite.drapeaux" GUID="bwbR4o5bL0u2cT9LDTwOcQ=="/>
+		<POI MapID="21" xpos="666.291" ypos="16.0687" zpos="98.3937" type="missions_de_guilde.courses.poulet_en_fuite.drapeaux" GUID="D64yw9tiBE+xzHHfG30CoQ=="/>
+
+		<!-- Pieges à Piques -->
+		<POI MapID="21" xpos="842.665" ypos="27.5263" zpos="488.517" type="missions_de_guilde.courses.poulet_en_fuite.pieges.piques" GUID="PQAo7KQbPEiOVc6VTMukIQ=="/>
+		<POI MapID="21" xpos="834.944" ypos="14.0059" zpos="175.565" type="missions_de_guilde.courses.poulet_en_fuite.pieges.piques" GUID="xILwAZKwZ02WWaT5BYO8yQ=="/>
+		<POI MapID="21" xpos="831.784" ypos="13.964"  zpos="185.56"  type="missions_de_guilde.courses.poulet_en_fuite.pieges.piques" GUID="leCZxBx3H0iNxXtjx82/7g=="/>
+		<POI MapID="21" xpos="831.762" ypos="18.259"  zpos="144.537" type="missions_de_guilde.courses.poulet_en_fuite.pieges.piques" GUID="Gp3t+VAnM0ituLq840Scwg=="/>
+		<POI MapID="21" xpos="830.188" ypos="25.2461" zpos="446.109" type="missions_de_guilde.courses.poulet_en_fuite.pieges.piques" GUID="SA5rOyix50+HdT19xNfIJw=="/>
+		<POI MapID="21" xpos="826.039" ypos="14.6235" zpos="168.641" type="missions_de_guilde.courses.poulet_en_fuite.pieges.piques" GUID="KcFGnmE/nkWp3bbRpC0VeA=="/>
+		<POI MapID="21" xpos="819.616" ypos="17.8504" zpos="138.846" type="missions_de_guilde.courses.poulet_en_fuite.pieges.piques" GUID="SPi+FZ6kwU24TM4yQ/nl/g=="/>
+		<POI MapID="21" xpos="809.282" ypos="24.2107" zpos="420.522" type="missions_de_guilde.courses.poulet_en_fuite.pieges.piques" GUID="0+xkr4Gf3k+QY6II729/7w=="/>
+		<POI MapID="21" xpos="807.053" ypos="18.1742" zpos="146.394" type="missions_de_guilde.courses.poulet_en_fuite.pieges.piques" GUID="bD4trAJlNkWtUTclL/7lVg=="/>
+		<POI MapID="21" xpos="804.229" ypos="18.9542" zpos="124.584" type="missions_de_guilde.courses.poulet_en_fuite.pieges.piques" GUID="4VNZMQ+/mEaOdM8ywmHl1w=="/>
+		<POI MapID="21" xpos="787.913" ypos="19.1284" zpos="267.293" type="missions_de_guilde.courses.poulet_en_fuite.pieges.piques" GUID="PgBmdxWAr0q/ifQgCZYMSw=="/>
+		<POI MapID="21" xpos="784.864" ypos="15.9833" zpos="317.848" type="missions_de_guilde.courses.poulet_en_fuite.pieges.piques" GUID="DC0SUNdWAkG9EIu+NIyCWA=="/>
+		<POI MapID="21" xpos="773.523" ypos="16.0267" zpos="321.146" type="missions_de_guilde.courses.poulet_en_fuite.pieges.piques" GUID="24872bo7C0iPD2xnflR+oQ=="/>
+		<POI MapID="21" xpos="764.389" ypos="17.5602" zpos="92.5973" type="missions_de_guilde.courses.poulet_en_fuite.pieges.piques" GUID="sRBNWN5IGEqDAqKaZVJKuw=="/>
+		<POI MapID="21" xpos="750.98"  ypos="34.4695" zpos="476.334" type="missions_de_guilde.courses.poulet_en_fuite.pieges.piques" GUID="wnZbWst2Kk+7whznagTSUg=="/>
+		<POI MapID="21" xpos="741.066" ypos="14.7721" zpos="88.6878" type="missions_de_guilde.courses.poulet_en_fuite.pieges.piques" GUID="JSxjlAbz3UuTTIX56fQtNw=="/>
+		<POI MapID="21" xpos="723.983" ypos="34.7888" zpos="475.166" type="missions_de_guilde.courses.poulet_en_fuite.pieges.piques" GUID="H42u8PJ4YECwElQRRaoE/w=="/>
+		<POI MapID="21" xpos="720.281" ypos="34.8692" zpos="470.509" type="missions_de_guilde.courses.poulet_en_fuite.pieges.piques" GUID="S3kSguE2y0C7JI6QIxw4WA=="/>
+		<POI MapID="21" xpos="715.647" ypos="15.0431" zpos="90.3914" type="missions_de_guilde.courses.poulet_en_fuite.pieges.piques" GUID="fXpFrkg4p0u2NbEwe8A/+A=="/>
+		<POI MapID="21" xpos="713.458" ypos="34.9224" zpos="467.307" type="missions_de_guilde.courses.poulet_en_fuite.pieges.piques" GUID="tPPnxcddkEmoa8GvP2lpYQ=="/>
+		<POI MapID="21" xpos="709.808" ypos="34.9311" zpos="460.669" type="missions_de_guilde.courses.poulet_en_fuite.pieges.piques" GUID="R/KreabXwUemmkB/KiRwqg=="/>
+		<POI MapID="21" xpos="688.271" ypos="14.9074" zpos="97.5337" type="missions_de_guilde.courses.poulet_en_fuite.pieges.piques" GUID="2D2337fuN0WhlCVdTIerzQ=="/>
+		<POI MapID="21" xpos="676.988" ypos="34.0842" zpos="390"     type="missions_de_guilde.courses.poulet_en_fuite.pieges.piques" GUID="zXpS0kSqBUW0TNmPuH0SLw=="/>
+		<POI MapID="21" xpos="663.732" ypos="35.4528" zpos="390"     type="missions_de_guilde.courses.poulet_en_fuite.pieges.piques" GUID="lowioQnA4US0rrNQbQcapg=="/>
+
+		<!-- Pieges de Chutes de Pierres -->
+		<POI MapID="21" xpos="852.809" ypos="14.14"   zpos="241.334" type="missions_de_guilde.courses.poulet_en_fuite.pieges.chutes_de_pierres" GUID="TYNXyae2k0SKrfdF39Z8eA=="/>
+		<POI MapID="21" xpos="850.295" ypos="14.3166" zpos="251.806" type="missions_de_guilde.courses.poulet_en_fuite.pieges.chutes_de_pierres" GUID="ngJAiw9r1E2CFE7UB7dVDA=="/>
+		<POI MapID="21" xpos="850.192" ypos="14.4205" zpos="237.939" type="missions_de_guilde.courses.poulet_en_fuite.pieges.chutes_de_pierres" GUID="ZQGPLhXN/0yyVQA8P/0+iw=="/>
+		<POI MapID="21" xpos="849.319" ypos="14.1188" zpos="244.061" type="missions_de_guilde.courses.poulet_en_fuite.pieges.chutes_de_pierres" GUID="A+oUp0XQXkebKsGjfR9OtQ=="/>
+		<POI MapID="21" xpos="848.371" ypos="14.1855" zpos="248.523" type="missions_de_guilde.courses.poulet_en_fuite.pieges.chutes_de_pierres" GUID="pt8Mk3nkbkqC8QFA+apJ2g=="/>
+		<POI MapID="21" xpos="846.633" ypos="14.0764" zpos="240.047" type="missions_de_guilde.courses.poulet_en_fuite.pieges.chutes_de_pierres" GUID="j3oTSrSkTE63ZXDpD8J9VA=="/>
+		<POI MapID="21" xpos="845.665" ypos="13.7276" zpos="254.231" type="missions_de_guilde.courses.poulet_en_fuite.pieges.chutes_de_pierres" GUID="Ny8VFOpE90OnGxV9IIVVVg=="/>
+		<POI MapID="21" xpos="844.506" ypos="14.4425" zpos="250.315" type="missions_de_guilde.courses.poulet_en_fuite.pieges.chutes_de_pierres" GUID="J8ALYh0R6EOwaOgfvLmsgA=="/>
+		<POI MapID="21" xpos="842.109" ypos="26.0206" zpos="472.639" type="missions_de_guilde.courses.poulet_en_fuite.pieges.chutes_de_pierres" GUID="7YlQllzV/kSsHCEpo3VMbw=="/>
+		<POI MapID="21" xpos="839.343" ypos="26.3689" zpos="476.9"   type="missions_de_guilde.courses.poulet_en_fuite.pieges.chutes_de_pierres" GUID="o6evN0oBEUmNGsXV7g37HQ=="/>
+		<POI MapID="21" xpos="835.668" ypos="25.4197" zpos="468.242" type="missions_de_guilde.courses.poulet_en_fuite.pieges.chutes_de_pierres" GUID="+hk3bXt5Bk60Zt1qfTqUcg=="/>
+		<POI MapID="21" xpos="832.689" ypos="25.508"  zpos="473.459" type="missions_de_guilde.courses.poulet_en_fuite.pieges.chutes_de_pierres" GUID="PijPLFvY/E6BONcmExRNuQ=="/>
+		<POI MapID="21" xpos="804.242" ypos="31.9361" zpos="473.314" type="missions_de_guilde.courses.poulet_en_fuite.pieges.chutes_de_pierres" GUID="qiaX2oqHsUip/dMc/7sORg=="/>
+		<POI MapID="21" xpos="802.773" ypos="31.7099" zpos="478.525" type="missions_de_guilde.courses.poulet_en_fuite.pieges.chutes_de_pierres" GUID="nkjjTOY7n0GhLj5Dx1q3zA=="/>
+		<POI MapID="21" xpos="798.324" ypos="32.2899" zpos="472.973" type="missions_de_guilde.courses.poulet_en_fuite.pieges.chutes_de_pierres" GUID="PVTkgTraMUeIWtXa9T9O8Q=="/>
+		<POI MapID="21" xpos="796.85"  ypos="32.0923" zpos="478.767" type="missions_de_guilde.courses.poulet_en_fuite.pieges.chutes_de_pierres" GUID="I+hjOIg52Ua/58Td7zk7Iw=="/>
+		<POI MapID="21" xpos="789.046" ypos="34.7836" zpos="485.255" type="missions_de_guilde.courses.poulet_en_fuite.pieges.chutes_de_pierres" GUID="rqUieGwdXk2q2YWVY/YP/Q=="/>
+		<POI MapID="21" xpos="784.331" ypos="34.8063" zpos="490.539" type="missions_de_guilde.courses.poulet_en_fuite.pieges.chutes_de_pierres" GUID="nC6IZR3A5U6x2r+bXZGcEw=="/>
+		<POI MapID="21" xpos="783.589" ypos="33.4407" zpos="480.987" type="missions_de_guilde.courses.poulet_en_fuite.pieges.chutes_de_pierres" GUID="uwhV/SyVaU+7NCzhCDqWsg=="/>
+		<POI MapID="21" xpos="779.316" ypos="34.037"  zpos="486.822" type="missions_de_guilde.courses.poulet_en_fuite.pieges.chutes_de_pierres" GUID="3iivdJ2uoUyQJ0DABZkWnw=="/>
+		<POI MapID="21" xpos="770.928" ypos="34.3697" zpos="484.832" type="missions_de_guilde.courses.poulet_en_fuite.pieges.chutes_de_pierres" GUID="orX0J0WHjEyN62n6b1ymHQ=="/>
+		<POI MapID="21" xpos="770.164" ypos="33.7228" zpos="480.05"  type="missions_de_guilde.courses.poulet_en_fuite.pieges.chutes_de_pierres" GUID="1msShv+noEuWlYgbRrkg0A=="/>
+		<POI MapID="21" xpos="765.142" ypos="34.0863" zpos="479.671" type="missions_de_guilde.courses.poulet_en_fuite.pieges.chutes_de_pierres" GUID="ItHV1kvsPUKGz7hwbMU+uw=="/>
+		<POI MapID="21" xpos="764.392" ypos="34.639"  zpos="485.061" type="missions_de_guilde.courses.poulet_en_fuite.pieges.chutes_de_pierres" GUID="0wm039uE2E611VA4ReRojA=="/>
+		<POI MapID="21" xpos="763.848" ypos="16.1555" zpos="364.749" type="missions_de_guilde.courses.poulet_en_fuite.pieges.chutes_de_pierres" GUID="JJCkvy4s0EqipzoJIi+2NA=="/>
+		<POI MapID="21" xpos="763.434" ypos="17.6659" zpos="375.913" type="missions_de_guilde.courses.poulet_en_fuite.pieges.chutes_de_pierres" GUID="YWRDS9eIakeNrlpGOwJ10w=="/>
+		<POI MapID="21" xpos="760.835" ypos="15.9363" zpos="361.016" type="missions_de_guilde.courses.poulet_en_fuite.pieges.chutes_de_pierres" GUID="QJN/7m0FVEGlNKnVemsqEQ=="/>
+		<POI MapID="21" xpos="760.738" ypos="17.0442" zpos="368.557" type="missions_de_guilde.courses.poulet_en_fuite.pieges.chutes_de_pierres" GUID="DFWdtaR7qkawyzLqF3MRGA=="/>
+		<POI MapID="21" xpos="760.549" ypos="17.5904" zpos="372.407" type="missions_de_guilde.courses.poulet_en_fuite.pieges.chutes_de_pierres" GUID="H49KsgNESE6tfJ1I5lYyDg=="/>
+		<POI MapID="21" xpos="759.234" ypos="17.7799" zpos="381.263" type="missions_de_guilde.courses.poulet_en_fuite.pieges.chutes_de_pierres" GUID="1kohAfdYcUCxPC+tkqCfyQ=="/>
+		<POI MapID="21" xpos="756.523" ypos="18.2246" zpos="376.529" type="missions_de_guilde.courses.poulet_en_fuite.pieges.chutes_de_pierres" GUID="yZAHS5Bpq0ev7EccubyQ/Q=="/>
+		<POI MapID="21" xpos="756.341" ypos="16.3214" zpos="365.009" type="missions_de_guilde.courses.poulet_en_fuite.pieges.chutes_de_pierres" GUID="83xk0pvJYE2RRX49fjqERA=="/>
+
+	</POIs>
+</OverlayData>

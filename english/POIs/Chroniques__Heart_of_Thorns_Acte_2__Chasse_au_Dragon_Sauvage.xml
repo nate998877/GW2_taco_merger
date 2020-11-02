@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+POIs: ReActif.9251
+Date: 2017/03/02
+-->
+<OverlayData>
+	<MarkerCategory name="chroniques.hot">
+		<MarkerCategory name="acte_2" DisplayName="Heart of Thorns : Act 2" iconFile="Img\HeartOfThornsActe2.png">
+			<MarkerCategory name="chasse_au_dragon_sauvage" DisplayName="Wild Dragon Chase"/>
+		</MarkerCategory>
+	</MarkerCategory>
+
+	<POIs>
+
+		<!-- Echos de Brill -->
+		<POI MapID="1032" xpos="217.396" ypos="303.046" zpos="364.106" type="chroniques.hot.acte_2.chasse_au_dragon_sauvage" GUID="+XFQepLa+keQzP6+K2RzmQ=="/>
+		<POI MapID="1032" xpos="272.303" ypos="318.51" zpos="391.509" type="chroniques.hot.acte_2.chasse_au_dragon_sauvage" GUID="mQjcyYvw1k6yPWvIfFhRRA=="/>
+		<POI MapID="1032" xpos="280.365" ypos="318.077" zpos="410.555" type="chroniques.hot.acte_2.chasse_au_dragon_sauvage" GUID="U/fy/S39TEuaJSjIt+s8Cw=="/>
+		<POI MapID="1032" xpos="315.115" ypos="318.746" zpos="426.131" type="chroniques.hot.acte_2.chasse_au_dragon_sauvage" GUID="t7NqN6B3bUuFyoruo2EiVw=="/>
+		<POI MapID="1032" xpos="330.556" ypos="320.456" zpos="406.28" type="chroniques.hot.acte_2.chasse_au_dragon_sauvage" GUID="6MUYkn1VdEWrEeGpU2S7bg=="/>
+		<POI MapID="1032" xpos="360.105" ypos="330.617" zpos="415.845" type="chroniques.hot.acte_2.chasse_au_dragon_sauvage" GUID="S4dcKVge40axbEeeZB1Z9g=="/>
+		<POI MapID="1032" xpos="370.351" ypos="356.407" zpos="429.865" type="chroniques.hot.acte_2.chasse_au_dragon_sauvage" GUID="DxZWAeL2j0ulEwa5tRUa7A=="/>
+		<POI MapID="1032" xpos="378.692" ypos="383.502" zpos="432.676" type="chroniques.hot.acte_2.chasse_au_dragon_sauvage" GUID="KkBW3TppnkW0FduePRzExw=="/>
+		<POI MapID="1032" xpos="393.71" ypos="357.714" zpos="345.798" type="chroniques.hot.acte_2.chasse_au_dragon_sauvage" GUID="InOfkW9CUke6sTBBOh9ukw=="/>
+		<POI MapID="1032" xpos="428.39" ypos="369.261" zpos="379.706" type="chroniques.hot.acte_2.chasse_au_dragon_sauvage" GUID="ud7/0sQB+EujTf2Un4ugAA=="/>
+		<POI MapID="1032" xpos="533.784" ypos="351.926" zpos="469.422" type="chroniques.hot.acte_2.chasse_au_dragon_sauvage" GUID="EHzBk6svjkeXkrgSx3tlLA=="/>
+		<POI MapID="1032" xpos="490.385" ypos="367.299" zpos="485.663" type="chroniques.hot.acte_2.chasse_au_dragon_sauvage" GUID="YhkpitxwYUqY6kGiqc6AHA=="/>
+		<POI MapID="1032" xpos="516.012" ypos="367.745" zpos="512.565" type="chroniques.hot.acte_2.chasse_au_dragon_sauvage" GUID="7ugRrs2zWk6oX+L7iQNGgA=="/>
+		<POI MapID="1032" xpos="494.895" ypos="375.952" zpos="478.385" type="chroniques.hot.acte_2.chasse_au_dragon_sauvage" GUID="k/EZaQ6bTUyMJtqM6tVl2A=="/>
+		<POI MapID="1032" xpos="510.475" ypos="366.487" zpos="440.034" type="chroniques.hot.acte_2.chasse_au_dragon_sauvage" GUID="U4fojC9lEUuzqY6Hgsza6g=="/>
+		<POI MapID="1032" xpos="521.596" ypos="420.501" zpos="562.495" type="chroniques.hot.acte_2.chasse_au_dragon_sauvage" GUID="X+/xX0mu8kC7f12WQ3W+ZA=="/>
+		<POI MapID="1032" xpos="517.724" ypos="405.908" zpos="563.367" type="chroniques.hot.acte_2.chasse_au_dragon_sauvage" GUID="S6xnjZH5zkuPWJ+tH5DryA=="/>
+		<POI MapID="1032" xpos="510.074" ypos="394.072" zpos="558.265" type="chroniques.hot.acte_2.chasse_au_dragon_sauvage" GUID="OtRiSNpf2U+RYGnjzwPveA=="/>
+		<POI MapID="1032" xpos="500.236" ypos="388.489" zpos="579.038" type="chroniques.hot.acte_2.chasse_au_dragon_sauvage" GUID="jGPMujzHz0yvSS2B7mf9HA=="/>
+		<POI MapID="1032" xpos="546.358" ypos="421.848" zpos="561.359" type="chroniques.hot.acte_2.chasse_au_dragon_sauvage" GUID="N7sj5MT9a0O/9f/UAxFtTw=="/>
+		<POI MapID="1032" xpos="580.716" ypos="432.206" zpos="669.615" type="chroniques.hot.acte_2.chasse_au_dragon_sauvage" GUID="IaNLFvHrlEezUtz5qUUA3A=="/>
+		<POI MapID="1032" xpos="600.694" ypos="444.851" zpos="647.896" type="chroniques.hot.acte_2.chasse_au_dragon_sauvage" GUID="lBXL+iLPdEW7P32qlFucnA=="/>
+		<POI MapID="1032" xpos="463.049" ypos="439.102" zpos="668.279" type="chroniques.hot.acte_2.chasse_au_dragon_sauvage" GUID="7flWgAQIyUWoW/p0tpaMwg=="/>
+
+	</POIs>
+</OverlayData>

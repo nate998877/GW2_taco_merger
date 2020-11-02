@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+POIs: ReActif.9251
+Date: 2017/03/02
+-->
+<OverlayData>
+	<MarkerCategory name="chroniques.hot">
+		<MarkerCategory name="acte_3" DisplayName="Heart of Thorns : Act 3" iconFile="Img\HeartOfThornsActe3.png">
+			<MarkerCategory name="nouveaux_horizons" DisplayName="New Horizons" behavior="0"/>
+		</MarkerCategory>
+	</MarkerCategory>
+
+	<POIs>
+
+		<!-- Indice 1 -->
+		<POI MapID="1033" xpos="433.785" ypos="2.9831" zpos="161.12" type="chroniques.hot.acte_3.nouveaux_horizons" GUID="+LaMRci/DUmTldF4PldwWQ==" iconFile="Img\1.png"/>
+
+		<!-- Indice 2 -->
+		<POI MapID="1033" xpos="434.352" ypos="-71.1148" zpos="121.909" type="chroniques.hot.acte_3.nouveaux_horizons" GUID="elot20/mHkSEB7khmvDbBg==" iconFile="Img\2.png"/>
+
+		<!-- Indice 3 -->
+		<POI MapID="1033" xpos="402.401" ypos="68.1953" zpos="-126.62" type="chroniques.hot.acte_3.nouveaux_horizons" GUID="JzO9LG8xA0y/Ch0daSiLzw==" iconFile="Img\3.png"/>
+
+		<!-- Combinaison -->
+		<POI MapID="1033" xpos="445.235" ypos="7.88787" zpos="582.781" type="chroniques.hot.acte_3.nouveaux_horizons" GUID="bkgDDyI7mkCrNSs5Qnuggw==" iconFile="Img\HeartOfThornsActe3_NouveauxHorizons-EN.png" iconSize="2" heightOffset="2" behavior="0"/>
+
+		<!-- Validation du Succès -->
+		<POI MapID="1033" xpos="649.14" ypos="117.383" zpos="66.4919" type="chroniques.hot.acte_3.nouveaux_horizons" GUID="3KvfDg+EW0OFjEzjyy5rXw=="/>
+
+	</POIs>
+</OverlayData>

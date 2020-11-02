@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+POIs: ReActif.9251
+Date: 2017/05/09
+-->
+<OverlayData>
+	<MarkerCategory name="astuces" DisplayName="Tips (No Achievement)">
+		<MarkerCategory name="panoramas" DisplayName="Vistas (Access)">
+			<MarkerCategory name="confins_de_givramer" DisplayName="Bitterfrost Frontier">
+				<MarkerCategory name="lagon_des_volutes" DisplayName="Whorl Lagoon" iconFile="Img\Guide.png" iconSize="0.75" triggerRange="5"/>
+			</MarkerCategory>
+		</MarkerCategory>
+	</MarkerCategory>
+
+	<POIs>
+
+		<!-- Départ -->
+		<POI MapID="1178" xpos="829.22" ypos="2.88" zpos="-393.98" type="astuces.panoramas.confins_de_givramer.lagon_des_volutes" GUID="HEkVOy7khk2D35qBlbehvw==" iconFile="Img\PanoramaDepart-EN.png" iconSize="1.5" heightOffset="4"/>
+
+		<!-- Route -->
+		<Route MapID="1178" Name="Lagon_des_Volutes" resetposx="829.22" resetposy="2.88" resetposz="-393.98" resetrange="3">
+			<POI MapID="1178" xpos="808.617" ypos="92.711" zpos="-383.953" type="astuces.panoramas.confins_de_givramer.lagon_des_volutes" GUID="ByDgn5vOM0uVHcpe/mOnEQ==" iconFile="Img\DeltaplaneDepart-EN.png"/>
+			<POI MapID="1178" xpos="801.754" ypos="90.3362" zpos="-385.149" type="astuces.panoramas.confins_de_givramer.lagon_des_volutes" GUID="Ed4uBgLvX0eHxB7GHd2F/w==" iconFile="Img\Deltaplane.png"/>
+			<POI MapID="1178" xpos="792.467" ypos="87.5872" zpos="-387.199" type="astuces.panoramas.confins_de_givramer.lagon_des_volutes" GUID="R0PxyszqmUSn9hoA2/KQEQ==" iconFile="Img\Deltaplane.png"/>
+			<POI MapID="1178" xpos="780.839" ypos="84.151" zpos="-389.666" type="astuces.panoramas.confins_de_givramer.lagon_des_volutes" GUID="9sSk05W1akyiFzBswsqs5w==" iconFile="Img\Deltaplane.png"/>
+			<POI MapID="1178" xpos="769.209" ypos="80.7147" zpos="-392.13" type="astuces.panoramas.confins_de_givramer.lagon_des_volutes" GUID="lZU6uuM2Jk2r4cmyvM8h9g==" iconFile="Img\Deltaplane.png"/>
+			<POI MapID="1178" xpos="757.967" ypos="77.393" zpos="-394.513" type="astuces.panoramas.confins_de_givramer.lagon_des_volutes" GUID="tbo3f2luZUSAD36aELEy9g==" iconFile="Img\Deltaplane.png"/>
+			<POI MapID="1178" xpos="746.282" ypos="73.9567" zpos="-396.693" type="astuces.panoramas.confins_de_givramer.lagon_des_volutes" GUID="gtfQQr16lUu/ycC8GR23JA==" iconFile="Img\Deltaplane.png"/>
+			<POI MapID="1178" xpos="734.941" ypos="70.635" zpos="-398.532" type="astuces.panoramas.confins_de_givramer.lagon_des_volutes" GUID="Z1jFH78kMUa1a4+3g96O5g==" iconFile="Img\Deltaplane.png"/>
+			<POI MapID="1178" xpos="723.756" ypos="67.3133" zpos="-401.149" type="astuces.panoramas.confins_de_givramer.lagon_des_volutes" GUID="Q4YEfnLnLk2OhHb64/rjiw==" iconFile="Img\Deltaplane.png"/>
+			<POI MapID="1178" xpos="715.283" ypos="64.8049" zpos="-403.103" type="astuces.panoramas.confins_de_givramer.lagon_des_volutes" GUID="NKzjQetvrUC5NC/ZCqwERg==" iconFile="Img\Deltaplane.png"/>
+			<POI MapID="1178" xpos="704.951" ypos="61.1396" zpos="-410.322" type="astuces.panoramas.confins_de_givramer.lagon_des_volutes" GUID="JXv1/abiME+2CIFaikPfWQ==" iconFile="Img\DeltaplaneStop.png"/>
+			<POI MapID="1178" xpos="701.488" ypos="63.7717" zpos="-415.074" type="astuces.panoramas.confins_de_givramer.lagon_des_volutes" GUID="M97nDu6nu0KyIq2W66AtVA=="/>
+			<POI MapID="1178" xpos="670.979" ypos="56.0357" zpos="-417.332" type="astuces.panoramas.confins_de_givramer.lagon_des_volutes" GUID="sdlBGbwdO0WOTm4pHQegZA==" iconFile="Img\DeltaplaneStop.png"/>
+			<POI MapID="1178" xpos="664.112" ypos="61.6731" zpos="-420.544" type="astuces.panoramas.confins_de_givramer.lagon_des_volutes" GUID="RQRkKoHekUyKeiWoYfaprw=="/>
+			<POI MapID="1178" xpos="656.672" ypos="65.4488" zpos="-424.471" type="astuces.panoramas.confins_de_givramer.lagon_des_volutes" GUID="H1UwarjRJkiRH5Q9uspHhw=="/>
+			<POI MapID="1178" xpos="649.241" ypos="69.1202" zpos="-428.089" type="astuces.panoramas.confins_de_givramer.lagon_des_volutes" GUID="sQaBbEh1HU60yqEEmaqcjA=="/>
+			<POI MapID="1178" xpos="642.417" ypos="73.1355" zpos="-430.913" type="astuces.panoramas.confins_de_givramer.lagon_des_volutes" GUID="D+OOu6jRT0GofBZ8uk/7Hw=="/>
+			<POI MapID="1178" xpos="635.256" ypos="78.3086" zpos="-433.877" type="astuces.panoramas.confins_de_givramer.lagon_des_volutes" GUID="eOSejz/fHkqZu3Ouhmjk5Q=="/>
+			<POI MapID="1178" xpos="626.627" ypos="83.107" zpos="-437.192" type="astuces.panoramas.confins_de_givramer.lagon_des_volutes" GUID="Zancjann50y0PO2rE8KbYQ=="/>
+			<POI MapID="1178" xpos="619.323" ypos="87.8552" zpos="-439.973" type="astuces.panoramas.confins_de_givramer.lagon_des_volutes" GUID="vTc3hvn1Rk2mW0NkpECjyw=="/>
+			<POI MapID="1178" xpos="609.764" ypos="89.1735" zpos="-441.515" type="astuces.panoramas.confins_de_givramer.lagon_des_volutes" GUID="hLpa26y9SEaC0MlNLicbmg==" iconFile="Img\DeltaplaneDepart-EN.png"/>
+			<POI MapID="1178" xpos="557.082" ypos="77.1515" zpos="-442.723" type="astuces.panoramas.confins_de_givramer.lagon_des_volutes" GUID="4prLxvodBkeqOj0+oq3igg==" iconFile="Img\DeltaplaneStop.png"/>
+			<POI MapID="1178" xpos="551.075" ypos="79.5514" zpos="-443.852" type="astuces.panoramas.confins_de_givramer.lagon_des_volutes" GUID="N0bQvXCIlk+iMXlmyVjlGA=="/>
+			<POI MapID="1178" xpos="542.305" ypos="81.7201" zpos="-444.115" type="astuces.panoramas.confins_de_givramer.lagon_des_volutes" GUID="lvDVbUPl+06+x5gXWipmxg=="/>
+			<POI MapID="1178" xpos="533.892" ypos="83.4206" zpos="-444.149" type="astuces.panoramas.confins_de_givramer.lagon_des_volutes" GUID="1VZ5Yn2zKkS6fotQttuUog=="/>
+			<POI MapID="1178" xpos="524.239" ypos="85.7815" zpos="-443.625" type="astuces.panoramas.confins_de_givramer.lagon_des_volutes" GUID="/lWVSV4NJ0KHig4pgn8W/A=="/>
+			<POI MapID="1178" xpos="515.474" ypos="87.3796" zpos="-442.804" type="astuces.panoramas.confins_de_givramer.lagon_des_volutes" GUID="iyE+7MVH60qDuzLr28e/FQ=="/>
+			<POI MapID="1178" xpos="506.263" ypos="88.1766" zpos="-442.084" type="astuces.panoramas.confins_de_givramer.lagon_des_volutes" GUID="9wsZQfwMCUa7n6wLKcVvtg=="/>
+			<POI MapID="1178" xpos="498.558" ypos="89.0193" zpos="-440.992" type="astuces.panoramas.confins_de_givramer.lagon_des_volutes" GUID="qaDcWHNi9EC0BYy/zr7ELw=="/>
+			<POI MapID="1178" xpos="679.06" ypos="104.101" zpos="-126.402" type="astuces.panoramas.confins_de_givramer.lagon_des_volutes" GUID="L+FXQwZ16kuAamvMj+1T+Q==" iconFile="Img\DeltaplaneStop.png"/>
+			<POI MapID="1178" xpos="679.812" ypos="103.046" zpos="-117.799" type="astuces.panoramas.confins_de_givramer.lagon_des_volutes" GUID="p+09jkNvFkqIIgQMhNmOxg=="/>
+			<POI MapID="1178" xpos="679.969" ypos="102.906" zpos="-108.833" type="astuces.panoramas.confins_de_givramer.lagon_des_volutes" GUID="WJR27H0+xUaijzB033TtPw=="/>
+			<POI MapID="1178" xpos="679.444" ypos="104.231" zpos="-93.3809" type="astuces.panoramas.confins_de_givramer.lagon_des_volutes" GUID="J7/1K+Sjp02/xJTk3rBqWQ=="/>
+			<POI MapID="1178" xpos="676.731" ypos="106.192" zpos="-85.6564" type="astuces.panoramas.confins_de_givramer.lagon_des_volutes" GUID="SSGxchV82kaOoohm8tYjRg=="/>
+			<POI MapID="1178" xpos="458.723" ypos="123.963" zpos="-431.905" type="astuces.panoramas.confins_de_givramer.lagon_des_volutes" GUID="Cx4Kz+NDp0GAOXU7RvApeg==" iconFile="Img\DeltaplaneStop.png"/>
+			<POI MapID="1178" xpos="463.144" ypos="123.968" zpos="-432.626" type="astuces.panoramas.confins_de_givramer.lagon_des_volutes" GUID="Yqm19SGJH0O+34napZyRBg=="/>
+			<POI MapID="1178" xpos="471.663" ypos="123.981" zpos="-432.44" type="astuces.panoramas.confins_de_givramer.lagon_des_volutes" GUID="NvuLv+6Lj0S+rrV796IBQA=="/>
+			<POI MapID="1178" xpos="478.6" ypos="123.06" zpos="-431.284" type="astuces.panoramas.confins_de_givramer.lagon_des_volutes" GUID="xhQj1ScxB06Hb8fuoG8w0Q==" iconFile="Img\DeltaplaneDepart-EN.png"/>
+			<!-- Arrivée -->
+			<POI MapID="1178" xpos="521.588" ypos="100.583" zpos="-425.939" type="astuces.panoramas.confins_de_givramer.lagon_des_volutes" GUID="Dtu93lC5SEaY36f1VYf45w==" iconFile="Img\DeltaplaneStop.png"/>
+		</Route>
+
+	</POIs>
+</OverlayData>

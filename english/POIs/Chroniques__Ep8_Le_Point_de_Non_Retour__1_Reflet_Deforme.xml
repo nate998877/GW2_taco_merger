@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+POIs: ReActif.9251
+Date: 2017/03/08
+-->
+<OverlayData>
+	<MarkerCategory name="chroniques.saison_2">
+		<MarkerCategory name="ep8_le_point_de_non_retour" DisplayName="Ep.8 - Point of No Return" iconFile="Img\Saison2LePointDeNonRetour.png">
+			<MarkerCategory name="reflet_deforme" DisplayName="Distored Reflection"/>
+		</MarkerCategory>
+	</MarkerCategory>
+
+	<POIs>
+
+		<!-- Miroir -->
+		<POI MapID="1029" xpos="-81.88" ypos="12.3595" zpos="-155.03" type="chroniques.saison_2.ep8_le_point_de_non_retour.reflet_deforme" GUID="YTBeA03gNk6l2mUNUe1C6g=="/>
+		<POI MapID="1029" xpos="-81.88" ypos="15" zpos="-155.03" type="chroniques.saison_2.ep8_le_point_de_non_retour.reflet_deforme" GUID="1JwZuR4vgUumjFIex8eSvA==" iconFile="Img\Torche.png"/>
+
+	</POIs>
+</OverlayData>

@@ -1,0 +1,26 @@
+<!-- 2020.06.09 -->
+<OverlayData>
+	<POIs>
+
+		<!-- HAVE A SEAT AND PULL THE TRIGGER -->
+		<POI MapID="53" xpos="-445.322" ypos="3.18566"  zpos="-864.245" type="general.tequatl.have_a_seat_and_pull_the_trigger" GUID="l7LDPGmjEUil+fklEf9Avw=="/>
+		<POI MapID="53" xpos="-456.551" ypos="1.6884"   zpos="-847.488" type="general.tequatl.have_a_seat_and_pull_the_trigger" GUID="cO2Roxxo6UemCJiBu54pGw=="/>
+		<POI MapID="53" xpos="-468.909" ypos="1.11797"  zpos="-831.244" type="general.tequatl.have_a_seat_and_pull_the_trigger" GUID="q2PTvbgHWk6nJuvx+s+4AQ=="/>
+		<POI MapID="53" xpos="-509.773" ypos="0.944107" zpos="-793.597" type="general.tequatl.have_a_seat_and_pull_the_trigger" GUID="HWr4iVqiOE+nFcDrMbFNyA=="/>
+		<POI MapID="53" xpos="-524.408" ypos="0.569265" zpos="-788.872" type="general.tequatl.have_a_seat_and_pull_the_trigger" GUID="HwS9DUFTRk2pBXtFMIUKyg=="/>
+		<POI MapID="53" xpos="-540.945" ypos="0.625418" zpos="-790.798" type="general.tequatl.have_a_seat_and_pull_the_trigger" GUID="kfvyr2L+okCH6lgcE75+rQ=="/>
+
+		<!-- I FOUND IT -->
+		<Trail type="general.tequatl.i_found_it" GUID="ZNm/zKwHC0GA1s3FGBb8Xg==" trailData="Data/General/Tequatl/IFoundIt.trl"      texture="Data/Arrow.png"    color="ff00ff00" alpha="0.8" fadeNear="1500" fadeFar="2000" animSpeed="0" mapDisplaySize="15"/>
+		<Trail type="general.tequatl.i_found_it" GUID="tON2d/4gY02g7wcnCoxXWA==" trailData="Data/General/Tequatl/IFoundIt_Exit.trl" texture="Data/SemiLine.png" color="ffff0000" alpha="0.8" fadeNear="1500" fadeFar="2000" animSpeed="0" mapDisplaySize="15"/>
+		<POI MapID="53" xpos="-581.01"  ypos="0.089504" zpos="-900.749" type="general.tequatl.i_found_it" GUID="kzibOnGUm0inIR/HS37aGQ=="                                             heightOffset="0.5"/>
+		<POI MapID="53" xpos="-582.9"   ypos="0.031696" zpos="-901.211" type="general.tequatl.i_found_it" GUID="7I8DJm4PG0qzwfjhtRksEA==" iconFile="Img/General/Tequatl_IFoundIt.png" minSize="48" maxSize="64" fadeNear="1000" fadeFar="1400" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="53" xpos="-605.118" ypos="-14.5593" zpos="-900.353" type="general.tequatl.i_found_it" GUID="YAA76JigL0uuUqsiYKjmmg==" iconFile="Img/Icons/Interaction.png"        minSize="12" maxSize="16" fadeNear="800"  fadeFar="1400" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="53" xpos="-557.778" ypos="-92.6081" zpos="-888.717" type="general.tequatl.i_found_it" GUID="2n9i/9Dk0k+oOXzSjVDOew==" iconFile="Img/Icons/ChestGold.png"          fadeNear="800" fadeFar="1400" mapVisibility="0" miniMapVisibility="0"/><!-- Chest -->
+
+		<!-- TAIL FLAIL -->
+		<POI MapID="53" xpos="-568.642" ypos="0.0885304" zpos="-923.967" type="general.tequatl.tail_flail" GUID="l3mYi+/fJUCmwxxTtUBH8Q=="/>
+		<POI MapID="53" xpos="-571.86"  ypos="-0.294152" zpos="-927.279" type="general.tequatl.tail_flail" GUID="GUeNDJvYs0GNQFyR6ak/3A==" iconFile="Img/General/Tequatl_TailFlail.png" minSize="48" maxSize="64" heightOffset="1.75" fadeNear="1000" fadeFar="1800" mapVisibility="0" miniMapVisibility="0"/>
+
+	</POIs>
+</OverlayData>

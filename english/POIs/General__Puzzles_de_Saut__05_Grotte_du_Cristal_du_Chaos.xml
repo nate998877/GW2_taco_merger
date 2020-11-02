@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+POIs: Cloud Strife.7492 - Xenophy.2716 - ReActif.9251
+Date: 2017/08/23
+-->
+<OverlayData>
+	<MarkerCategory name="general" DisplayName="General">
+		<MarkerCategory name="puzzles_de_saut" DisplayName="Jumping Puzzles" iconFile="Img\Guide.png" iconSize="0.75">
+			<MarkerCategory name="grotte_du_cristal_du_chaos" DisplayName="Chaos Crystal Cavern"/>
+		</MarkerCategory>
+	</MarkerCategory>
+
+	<POIs>
+
+		<!-- Début -->
+		<POI MapID="25" xpos="-491.209" ypos="53.8372" zpos="-972.339" type="general.puzzles_de_saut.debut" GUID="2it4T7NtkUCVJtyj2iQfVw=="/>
+
+		<!-- Route -->
+		<Route MapID="25" name="Grotte_du_Cristal_du_Chaos" resetposx="-491.209" resetposy="53.8372" resetposz="-972.339" resetrange="2">
+			<POI MapID="25" xpos="-499.24" ypos="54.5028" zpos="-960.754" type="general.puzzles_de_saut.grotte_du_cristal_du_chaos" GUID="0wKGY0w/C0GPYPb+z0q2eg=="/>
+			<POI MapID="25" xpos="-499.417" ypos="38.1326" zpos="-953.365" type="general.puzzles_de_saut.grotte_du_cristal_du_chaos" GUID="clGvuZrU8UCVEZVLG5OYjA==" triggerRange="5"/>
+			<POI MapID="25" xpos="-498.813" ypos="19.4389" zpos="-952.558" type="general.puzzles_de_saut.grotte_du_cristal_du_chaos" GUID="EwC0xd2Oi0acTLkNs/OuqA==" triggerRange="5"/>
+			<POI MapID="25" xpos="-498.431" ypos="4.92697" zpos="-951.422" type="general.puzzles_de_saut.grotte_du_cristal_du_chaos" GUID="AV2jydnNokGIPiVmBT0R2Q==" triggerRange="5"/>
+			<POI MapID="25" xpos="-497.443" ypos="-6.73369" zpos="-950.459" type="general.puzzles_de_saut.grotte_du_cristal_du_chaos" GUID="qV8Qv8lmgkarD0zJh7xsUg==" triggerRange="5"/>
+			<POI MapID="25" xpos="-498.576" ypos="-26.0985" zpos="-950.853" type="general.puzzles_de_saut.grotte_du_cristal_du_chaos" GUID="8lg9orf+NEuRf/Il1hK+qw==" triggerRange="5"/>
+			<POI MapID="25" xpos="-494.572" ypos="-40.4213" zpos="-948.298" type="general.puzzles_de_saut.grotte_du_cristal_du_chaos" GUID="6U/k7SmaukGO77/NFotNug==" triggerRange="5"/>
+			<POI MapID="25" xpos="-482.209" ypos="-49.2506" zpos="-943.39" type="general.puzzles_de_saut.grotte_du_cristal_du_chaos" GUID="x4g3SNokLkWLAIoKrc6U+g==" triggerRange="5"/>
+			<POI MapID="25" xpos="-471.478" ypos="-47.4828" zpos="-937.129" type="general.puzzles_de_saut.grotte_du_cristal_du_chaos" GUID="1MqzXPGNAkevDXBem6LzMw==" triggerRange="5"/>
+			<POI MapID="25" xpos="-462.657" ypos="-42.1348" zpos="-934.429" type="general.puzzles_de_saut.grotte_du_cristal_du_chaos" GUID="9D1XslEIJkmWWwJKqQU8Ug==" triggerRange="5"/>
+			<POI MapID="25" xpos="-459.115" ypos="-34.6363" zpos="-930.028" type="general.puzzles_de_saut.grotte_du_cristal_du_chaos" GUID="yYvxZjB8lk6LtqZpWrhVtA==" triggerRange="5"/>
+			<POI MapID="25" xpos="-456.541" ypos="-28.6367" zpos="-928.934" type="general.puzzles_de_saut.grotte_du_cristal_du_chaos" GUID="Nfg928eqF0K1S20Pjrt8Fw==" triggerRange="5"/>
+			<POI MapID="25" xpos="-457.661" ypos="-14.934" zpos="-929.617" type="general.puzzles_de_saut.grotte_du_cristal_du_chaos" GUID="sUDaRGs0XUiTS9KnB0KuMg==" triggerRange="5"/>
+			<POI MapID="25" xpos="-457.661" ypos="-5.61851" zpos="-929.617" type="general.puzzles_de_saut.grotte_du_cristal_du_chaos" GUID="bXy/3tu8wUux696YjCDbPA==" triggerRange="5"/>
+			<POI MapID="25" xpos="-457.695" ypos="-1.11496" zpos="-929.02" type="general.puzzles_de_saut.grotte_du_cristal_du_chaos" GUID="BKEBHavr/Eynudfs70lmyQ==" triggerRange="5"/>
+			<POI MapID="25" xpos="-462.938" ypos="2.156" zpos="-917.069" type="general.puzzles_de_saut.grotte_du_cristal_du_chaos" GUID="cTEV8VjeW02BooHVLrdWyw=="/>
+			<POI MapID="25" xpos="-469.56" ypos="2.31983" zpos="-908.267" type="general.puzzles_de_saut.grotte_du_cristal_du_chaos" GUID="h7fRFU/MD0qPzOKB6CuYVQ=="/>
+			<POI MapID="25" xpos="-475.395" ypos="-0.272275" zpos="-902.895" type="general.puzzles_de_saut.grotte_du_cristal_du_chaos" GUID="bPJIxF7SnEOSBNxuuOoAsw=="/>
+			<POI MapID="25" xpos="-486.897" ypos="-0.272296" zpos="-891.561" type="general.puzzles_de_saut.grotte_du_cristal_du_chaos" GUID="Im2p9eFmOkmmk2wCQgTRVQ=="/>
+			<POI MapID="25" xpos="-496.509" ypos="-0.272296" zpos="-888.761" type="general.puzzles_de_saut.grotte_du_cristal_du_chaos" GUID="mtIohbaYH0+vicSXPqjIBw=="/>
+			<POI MapID="25" xpos="-508.416" ypos="-0.272296" zpos="-882.088" type="general.puzzles_de_saut.grotte_du_cristal_du_chaos" GUID="SHM4ILS3GEyy8DfXYUZytQ=="/>
+			<POI MapID="25" xpos="-507.7" ypos="2.61341" zpos="-877.922" type="general.puzzles_de_saut.grotte_du_cristal_du_chaos" GUID="wxB+/zladUe1j1tbpeW1JQ=="/>
+			<POI MapID="25" xpos="-504.368" ypos="2.96904" zpos="-873.6" type="general.puzzles_de_saut.grotte_du_cristal_du_chaos" GUID="EWszo3iIZ0CDzKwBRIr6Zg=="/>
+			<POI MapID="25" xpos="-499.058" ypos="3.78411" zpos="-873.247" type="general.puzzles_de_saut.grotte_du_cristal_du_chaos" GUID="D/lLqkyyIE+UzXB/sRSaDw=="/>
+			<POI MapID="25" xpos="-491.832" ypos="3.92736" zpos="-872.733" type="general.puzzles_de_saut.grotte_du_cristal_du_chaos" GUID="yjh4+lC2tkuUqJ3XoVQDVQ=="/>
+			<POI MapID="25" xpos="-485.214" ypos="5.05157" zpos="-867.88" type="general.puzzles_de_saut.grotte_du_cristal_du_chaos" GUID="hbXfA/fPxEmYK3XhbiWNeQ=="/>
+			<POI MapID="25" xpos="-482.407" ypos="6.0202" zpos="-861.698" type="general.puzzles_de_saut.grotte_du_cristal_du_chaos" GUID="66Pg3dbqxke4UGCG18RPPw=="/>
+			<POI MapID="25" xpos="-480.778" ypos="7.02368" zpos="-857.466" type="general.puzzles_de_saut.grotte_du_cristal_du_chaos" GUID="wZjLlZn7JU2vZ/Nx4Uiwtg=="/>
+			<POI MapID="25" xpos="-481.487" ypos="6.60506" zpos="-852.473" type="general.puzzles_de_saut.grotte_du_cristal_du_chaos" GUID="5pnOO9yBvEe1NIg1WM9n6Q=="/>
+			<POI MapID="25" xpos="-482.302" ypos="7.73596" zpos="-847.409" type="general.puzzles_de_saut.grotte_du_cristal_du_chaos" GUID="GdTVWbJLZkudR6La/sCEJA=="/>
+			<POI MapID="25" xpos="-486.213" ypos="6.8703" zpos="-842.49" type="general.puzzles_de_saut.grotte_du_cristal_du_chaos" GUID="M5CQ2fzfrkO/Z2+VUPDmhw=="/>
+			<POI MapID="25" xpos="-492.898" ypos="6.731" zpos="-843.349" type="general.puzzles_de_saut.grotte_du_cristal_du_chaos" GUID="14V8X0Lw1U6p2wa+fU+uvA=="/>
+			<POI MapID="25" xpos="-497.907" ypos="5.93234" zpos="-843.967" type="general.puzzles_de_saut.grotte_du_cristal_du_chaos" GUID="hLfLspAV/EmH77JRMbkJIw=="/>
+			<POI MapID="25" xpos="-501.071" ypos="5.56867" zpos="-848.709" type="general.puzzles_de_saut.grotte_du_cristal_du_chaos" GUID="9it/iyzmxEKhxEKe2fg76w=="/>
+			<POI MapID="25" xpos="-505.375" ypos="6.91624" zpos="-850.383" type="general.puzzles_de_saut.grotte_du_cristal_du_chaos" GUID="1wsJjJuEMEa5Vz5bwMyZyw=="/>
+			<POI MapID="25" xpos="-511.613" ypos="5.39742" zpos="-851.965" type="general.puzzles_de_saut.grotte_du_cristal_du_chaos" GUID="c86OeyuPOk2d/Atg3i5pyQ=="/>
+			<POI MapID="25" xpos="-518.169" ypos="6.08374" zpos="-853.184" type="general.puzzles_de_saut.grotte_du_cristal_du_chaos" GUID="7Zxcl7MDKEaOPTy6uf2CoA=="/>
+			<POI MapID="25" xpos="-522.035" ypos="6.4117" zpos="-858.691" type="general.puzzles_de_saut.grotte_du_cristal_du_chaos" GUID="c40TKKe+OEK94amzaSYzNg=="/>
+			<POI MapID="25" xpos="-527.513" ypos="5.49963" zpos="-860.964" type="general.puzzles_de_saut.grotte_du_cristal_du_chaos" GUID="9NtD1Z1wyUa/KeCPdQu2Hg=="/>
+			<POI MapID="25" xpos="-533.28" ypos="6.22641" zpos="-863.786" type="general.puzzles_de_saut.grotte_du_cristal_du_chaos" GUID="P/g+0tOK8E6+rjQcDvi36Q=="/>
+			<POI MapID="25" xpos="-536.369" ypos="5.92758" zpos="-868.524" type="general.puzzles_de_saut.grotte_du_cristal_du_chaos" GUID="FRdzsnDAZkCYv+loCF0DAg=="/>
+			<POI MapID="25" xpos="-541.144" ypos="6.26238" zpos="-870.609" type="general.puzzles_de_saut.grotte_du_cristal_du_chaos" GUID="5RZmFGf0AUeWZW29mvvacw=="/>
+			<POI MapID="25" xpos="-546.622" ypos="6.72481" zpos="-871.852" type="general.puzzles_de_saut.grotte_du_cristal_du_chaos" GUID="FZhH1K7ByUyvxC8tFqaMYQ=="/>
+			<POI MapID="25" xpos="-553.748" ypos="7.40546" zpos="-873.272" type="general.puzzles_de_saut.grotte_du_cristal_du_chaos" GUID="sjvp7G4CqEayLAC6QZkHfw=="/>
+			<POI MapID="25" xpos="-558.511" ypos="6.77144" zpos="-869.038" type="general.puzzles_de_saut.grotte_du_cristal_du_chaos" GUID="OJuynCHHVU6LvlKLJXpQig=="/>
+			<POI MapID="25" xpos="-557.307" ypos="6.64496" zpos="-863.319" type="general.puzzles_de_saut.grotte_du_cristal_du_chaos" GUID="ilVg8xYXAkWPQCEtVdMyPw=="/>
+			<POI MapID="25" xpos="-556.221" ypos="5.81805" zpos="-857.546" type="general.puzzles_de_saut.grotte_du_cristal_du_chaos" GUID="6Vwp7Y2l0EiEIzx2ZiR/2g=="/>
+			<POI MapID="25" xpos="-560.136" ypos="5.4709" zpos="-853.349" type="general.puzzles_de_saut.grotte_du_cristal_du_chaos" GUID="p5gKbQQBT0ez+hREsCUQBw=="/>
+			<POI MapID="25" xpos="-561.002" ypos="6.79088" zpos="-847.907" type="general.puzzles_de_saut.grotte_du_cristal_du_chaos" GUID="ndb+l2FKw0KKNOUZ6qegqQ=="/>
+			<POI MapID="25" xpos="-560.826" ypos="5.28917" zpos="-842.27" type="general.puzzles_de_saut.grotte_du_cristal_du_chaos" GUID="mUS+AypBqE+YvikRwOIyCA=="/>
+			<POI MapID="25" xpos="-560.101" ypos="5.95566" zpos="-836.51" type="general.puzzles_de_saut.grotte_du_cristal_du_chaos" GUID="MEMsUIofNUCtycl6xKSSrg=="/>
+			<POI MapID="25" xpos="-564.721" ypos="6.3059" zpos="-830.672" type="general.puzzles_de_saut.grotte_du_cristal_du_chaos" GUID="+TsvdQ0jnkKBBV+XJSsGtg=="/>
+			<POI MapID="25" xpos="-566.321" ypos="5.39795" zpos="-825.011" type="general.puzzles_de_saut.grotte_du_cristal_du_chaos" GUID="2Cv4K3JK5ESjtFsZHWtOWA=="/>
+			<POI MapID="25" xpos="-567.143" ypos="6.1138" zpos="-818.325" type="general.puzzles_de_saut.grotte_du_cristal_du_chaos" GUID="DsEebBAofUCa6et20wA4NQ=="/>
+			<POI MapID="25" xpos="-571.113" ypos="5.79647" zpos="-813.658" type="general.puzzles_de_saut.grotte_du_cristal_du_chaos" GUID="JMrQzoI2zUut4TJL6TPLgg=="/>
+			<POI MapID="25" xpos="-571.853" ypos="6.22421" zpos="-808.719" type="general.puzzles_de_saut.grotte_du_cristal_du_chaos" GUID="5pM0Cr0TsU211w+ueIf7ZA=="/>
+			<POI MapID="25" xpos="-571.688" ypos="6.60427" zpos="-803.078" type="general.puzzles_de_saut.grotte_du_cristal_du_chaos" GUID="N1gUxfF6sEK+5hnmvOjynQ=="/>
+			<POI MapID="25" xpos="-570.643" ypos="7.32106" zpos="-796.79" type="general.puzzles_de_saut.grotte_du_cristal_du_chaos" GUID="znkOrhiGBU2xXcnIE9O7nw=="/>
+			<POI MapID="25" xpos="-570.504" ypos="7.95821" zpos="-791.728" type="general.puzzles_de_saut.grotte_du_cristal_du_chaos" GUID="lKnoVdYLPEmv+5wtGNdE1w=="/>
+			<POI MapID="25" xpos="-573.877" ypos="7.60736" zpos="-787.377" type="general.puzzles_de_saut.grotte_du_cristal_du_chaos" GUID="ciP2bdEf/0eX6f2T6KrXMQ=="/>
+			<POI MapID="25" xpos="-574.893" ypos="7.88265" zpos="-782.877" type="general.puzzles_de_saut.grotte_du_cristal_du_chaos" GUID="k0Nqpe/ajk2gkTFM1dbh6g=="/>
+			<POI MapID="25" xpos="-574.813" ypos="8.43149" zpos="-776.731" type="general.puzzles_de_saut.grotte_du_cristal_du_chaos" GUID="j/tonbR2VU+M2Ult0sevGA=="/>
+		</Route>
+
+		<!-- Coffre -->
+		<POI MapID="25" xpos="-573.576" ypos="9.1651" zpos="-769.642" type="general.puzzles_de_saut.grotte_du_cristal_du_chaos" GUID="EVqoVT2UO0yZ/6ToYZTp8w==" iconFile="Img\CoffrePuzzle.png" iconSize="1" heightOffset="2.5" behavior="2"/>
+
+	</POIs>
+</OverlayData>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+POIs: ReActif.9251
+Date: 2017/03/03
+-->
+<OverlayData>
+	<MarkerCategory name="heart_of_thorns.oree_d_emeraude">
+		<MarkerCategory name="chasseur_de_totems_de_la_jungle" DisplayName="Jungle Totem Hunterw"/>
+	</MarkerCategory>
+
+	<POIs>
+
+		<!-- Totem Itzel Ancien 1 -->
+		<POI MapID="1052" xpos="-698.698" ypos="119.111" zpos="-352.431" type="heart_of_thorns.oree_d_emeraude.chasseur_de_totems_de_la_jungle" GUID="mC+ta4emwEWl4YbCHG3DQw=="/>
+
+		<!-- Totem Itzel Ancien 2 -->
+		<POI MapID="1052" xpos="-678.201" ypos="265.514" zpos="175.227" type="heart_of_thorns.oree_d_emeraude.chasseur_de_totems_de_la_jungle" GUID="grh6H9H1AEy3oDjVE/nKgw=="/>
+
+		<!-- Totem Itzel Ancien 3 -->
+		<POI MapID="1052" xpos="-434.524" ypos="289.615" zpos="115.646" type="heart_of_thorns.oree_d_emeraude.chasseur_de_totems_de_la_jungle" GUID="Tt6nejGozUqQKRkOFyGIOw=="/>
+
+		<!-- Totem Itzel Ancien 4 -->
+		<POI MapID="1052" xpos="-388.772" ypos="142.55" zpos="-65.7772" type="heart_of_thorns.oree_d_emeraude.chasseur_de_totems_de_la_jungle" GUID="n0kDfjvCIEuzFaqIDqADoA=="/>
+
+		<!-- Totem Itzel Ancien 5 -->
+		<POI MapID="1052" xpos="-219.079" ypos="103.09" zpos="-22.1442" type="heart_of_thorns.oree_d_emeraude.chasseur_de_totems_de_la_jungle" GUID="eThHV1vZCkChHox9ppK08Q=="/>
+
+		<!-- Totem Itzel Ancien 6 -->
+		<POI MapID="1052" xpos="-110.827" ypos="94.1912" zpos="57.4924" type="heart_of_thorns.oree_d_emeraude.chasseur_de_totems_de_la_jungle" GUID="gerF/gZA1keNpy3rKfdHFg=="/>
+
+		<!-- Totem Itzel Ancien 7 -->
+		<POI MapID="1052" xpos="37.6102" ypos="281.68" zpos="33.0194" type="heart_of_thorns.oree_d_emeraude.chasseur_de_totems_de_la_jungle" GUID="ltANhcq+B02fFFLDHUABPw=="/>
+
+		<!-- Totem Itzel Ancien 8 -->
+		<POI MapID="1052" xpos="341.636" ypos="164.613" zpos="134.226" type="heart_of_thorns.oree_d_emeraude.chasseur_de_totems_de_la_jungle" GUID="snkbQ/FhmE+Kic9led/pTA=="/>
+
+		<!-- Totem Itzel Ancien 9 -->
+		<POI MapID="1052" xpos="528.165" ypos="70.4245" zpos="-72.2773" type="heart_of_thorns.oree_d_emeraude.chasseur_de_totems_de_la_jungle" GUID="VEN3ZXOVjkK63+yFtRz1SA=="/>
+
+		<!-- Totem Itzel Ancien 10 -->
+		<POI MapID="1052" xpos="703.329" ypos="139.863" zpos="336.105" type="heart_of_thorns.oree_d_emeraude.chasseur_de_totems_de_la_jungle" GUID="2vt7Aks/xkKMzpxOCeu9dw=="/>
+
+	</POIs>
+</OverlayData>

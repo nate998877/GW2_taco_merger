@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+POIs: Lulleh.6714 - Ainillia.5794 - Elycian - ReActif.9251
+Date: 2017/04/06
+-->
+<OverlayData>
+	<MarkerCategory name="festivals" DisplayName="Seasonal Events">
+		<MarkerCategory name="super_adventure_box" DisplayName="Super Adventure Box" iconSize="0.5" fadeNear="6000" fadeFar="7000">
+			<MarkerCategory name="magasins_de_meubles" DisplayName="Furniture Shops" iconFile="Img\SAB_MagasinMeuble.png" heightOffset="0" behavior="2">
+				<MarkerCategory name="acces" DisplayName="Guide" iconFile="Img\Guide.png" fadeNear="2000" fadeFar="2200"/>
+			</MarkerCategory>
+		</MarkerCategory>
+	</MarkerCategory>
+
+	<POIs>
+
+		<!-- Monde 1 - Zone 1 -->
+		<POI MapID="895" xpos="-976.586" ypos="47.2095" zpos="437.98" type="festivals.super_adventure_box.magasins_de_meubles" GUID="dWHWm/cAvkOwx6CuBvRfRg=="/>
+		<POI MapID="895" xpos="-814.300" ypos="39.9414" zpos="515.035" type="festivals.super_adventure_box.magasins_de_meubles" GUID="iRE33e8pwk+IraYPb3tlFw=="/>
+			<POI MapID="895" xpos="-816.84" ypos="51" zpos="493.67" type="festivals.super_adventure_box.magasins_de_meubles.acces" GUID="i6d3F90hFUGCaSA/crP4qQ==" iconFile="Img\SAB_MagasinMeubleTribulation-EN.png" iconSize="1.5"/>
+			<POI MapID="895" xpos="-816.785" ypos="50.86" zpos="496.184" type="festivals.super_adventure_box.magasins_de_meubles.acces" GUID="oAE+U+xc3U+wuZRQpRkB6Q==" iconFile="Img\SAB_MagasinMeuble.png"/>
+			<POI MapID="895" xpos="-811.006" ypos="52.2292" zpos="497.634" type="festivals.super_adventure_box.magasins_de_meubles.acces" GUID="81QD8RfWdEKy3S+1oEXZuw=="/>
+			<POI MapID="895" xpos="-811.006" ypos="48.0717" zpos="502.537" type="festivals.super_adventure_box.magasins_de_meubles.acces" GUID="pXKo9KNXEUWlNFZFoFP7Lw==" iconFile="Img\Fleche.png"/>
+			<POI MapID="895" xpos="-811.006" ypos="42.2543" zpos="502.537" type="festivals.super_adventure_box.magasins_de_meubles.acces" GUID="xD/NIRnZaU6CV9SoKbqtjg=="/>
+			<POI MapID="895" xpos="-812.193" ypos="42.5272" zpos="505.273" type="festivals.super_adventure_box.magasins_de_meubles.acces" GUID="ctsUwIpxJ0SLWLrihiJrDg=="/>
+			<POI MapID="895" xpos="-813.454" ypos="42.6738" zpos="511.483" type="festivals.super_adventure_box.magasins_de_meubles.acces" GUID="aI7cZ1Bpr0ajs3BYPwuacw=="/>
+
+		<!-- Monde 1 - Zone 2 -->
+		<POI MapID="895" xpos="-182.034" ypos="51.7255" zpos="454.364" type="festivals.super_adventure_box.magasins_de_meubles" GUID="HuuWM8cqskqcwt4AEYYgww=="/>
+		<POI MapID="895" xpos="-43.2204" ypos="51.0562" zpos="525.164" type="festivals.super_adventure_box.magasins_de_meubles" GUID="21Xnf8kwPkmSJsIUC1onag=="/>
+
+		<!-- Monde 1 - Zone 3 -->
+		<POI MapID="895" xpos="-571.313" ypos="40.4734" zpos="350.088" type="festivals.super_adventure_box.magasins_de_meubles" GUID="m1S8NCkH00O6vyd+HsBjIA=="/>
+		<POI MapID="895" xpos="-586.25" ypos="18.7634" zpos="352.814" type="festivals.super_adventure_box.magasins_de_meubles" GUID="I/qw3xFBX0+gwpTJqSr1uA=="/>
+		<POI MapID="895" xpos="-618.748" ypos="8.900" zpos="350" type="festivals.super_adventure_box.magasins_de_meubles" GUID="g5t/8obTB0i4BCzieT8ytg=="/>
+		<POI MapID="895" xpos="-362.283" ypos="36.432" zpos="291.864" type="festivals.super_adventure_box.magasins_de_meubles" GUID="VfeLS1SHk0ybkVoHGTrnEw=="/>
+		<POI MapID="895" xpos="-323.8" ypos="52.0526" zpos="287.956" type="festivals.super_adventure_box.magasins_de_meubles" GUID="9i5RT+yTL0S1W+46/S7rKA=="/>
+		<POI MapID="895" xpos="-318" ypos="36.2602" zpos="290.281" type="festivals.super_adventure_box.magasins_de_meubles" GUID="brc5apafqkadXqu3qyuOWQ=="/>
+
+
+		<!-- Monde 2 - Zone 1 -->
+		<POI MapID="934" xpos="-566.761" ypos="223.924" zpos="-440.135" type="festivals.super_adventure_box.magasins_de_meubles" GUID="0t60sne05U2b0/DRKXcrow=="/>
+			<POI MapID="934" xpos="-591.475" ypos="217.02" zpos="-409.861" type="festivals.super_adventure_box.magasins_de_meubles.acces" GUID="CaB9vRNhcUiHF/IyW7G8bw==" iconFile="Img\SAB_MagasinMeuble.png"/>
+			<POI MapID="934" xpos="-594.211" ypos="217.541" zpos="-414.996" type="festivals.super_adventure_box.magasins_de_meubles.acces" GUID="oC9kz0UM0kukj2FonPbnbw=="/>
+			<POI MapID="934" xpos="-586.062" ypos="216.403" zpos="-421.766" type="festivals.super_adventure_box.magasins_de_meubles.acces" GUID="l265Gj/iEkGzZDFlRBoLEA=="/>
+			<POI MapID="934" xpos="-578.589" ypos="216.892" zpos="-417.686" type="festivals.super_adventure_box.magasins_de_meubles.acces" GUID="+ZJK6zsyLkSdot9PmOq+aQ=="/>
+			<POI MapID="934" xpos="-581.779" ypos="221.285" zpos="-415.498" type="festivals.super_adventure_box.magasins_de_meubles.acces" GUID="8XayCMJ5R0+UPPnIiyeoGQ=="/>
+			<POI MapID="934" xpos="-588.508" ypos="225.442" zpos="-411.261" type="festivals.super_adventure_box.magasins_de_meubles.acces" GUID="2K0Zp6fByES3CeUBZKH9oQ=="/>
+			<POI MapID="934" xpos="-593.848" ypos="223.377" zpos="-417.589" type="festivals.super_adventure_box.magasins_de_meubles.acces" GUID="jcTTmCvpZ0CZuCcCw5CujA=="/>
+			<POI MapID="934" xpos="-597.138" ypos="225.165" zpos="-424.239" type="festivals.super_adventure_box.magasins_de_meubles.acces" GUID="Cu6Oz95S+ku/3VyqJ7dSqA=="/>
+			<POI MapID="934" xpos="-587.018" ypos="228.415" zpos="-429.422" type="festivals.super_adventure_box.magasins_de_meubles.acces" GUID="wy7R90BQ8Uef8pa/EgqPsQ=="/>
+			<POI MapID="934" xpos="-579.155" ypos="229.683" zpos="-429.194" type="festivals.super_adventure_box.magasins_de_meubles.acces" GUID="r+BxaF96yE+C5B9gTtsAnQ=="/>
+			<POI MapID="934" xpos="-570.362" ypos="229.153" zpos="-436.201" type="festivals.super_adventure_box.magasins_de_meubles.acces" GUID="7yRdbau9LUmk2ITSQEr8ZQ=="/>
+		<POI MapID="934" xpos="-244.932" ypos="227.289" zpos="-328.578" type="festivals.super_adventure_box.magasins_de_meubles" GUID="MOabkwSXlEO3Oe2J42hnVQ=="/>
+			<POI MapID="934" xpos="-266.656" ypos="222.832" zpos="-288.737" type="festivals.super_adventure_box.magasins_de_meubles.acces" GUID="NpJfJp0yPEuQP9w8Pwb6+A==" iconFile="Img\SAB_MagasinMeuble.png"/>
+			<POI MapID="934" xpos="-264.221" ypos="224.065" zpos="-293.142" type="festivals.super_adventure_box.magasins_de_meubles.acces" GUID="GtzEDxac4EOCoTSeJvv9Fw=="/>
+			<POI MapID="934" xpos="-261.741" ypos="225.246" zpos="-291.374" type="festivals.super_adventure_box.magasins_de_meubles.acces" GUID="glGBrgQu6EGoxZB2NNm32Q=="/>
+			<POI MapID="934" xpos="-263.483" ypos="227.833" zpos="-293.861" type="festivals.super_adventure_box.magasins_de_meubles.acces" GUID="aTjjjB1/G0aEarmQRFToUA=="/>
+			<POI MapID="934" xpos="-261.269" ypos="228.866" zpos="-291.722" type="festivals.super_adventure_box.magasins_de_meubles.acces" GUID="DjDzGUIp3Em1jaN0NDF1Cg=="/>
+			<POI MapID="934" xpos="-259.467" ypos="230.31" zpos="-292.259" type="festivals.super_adventure_box.magasins_de_meubles.acces" GUID="g7YGlkF2l0m1ynOoNpcxWA=="/>
+			<POI MapID="934" xpos="-259.81" ypos="232.63" zpos="-294.03" type="festivals.super_adventure_box.magasins_de_meubles.acces" GUID="aK4Zmi7jCk2SFXbUWP6f0A=="/>
+			<POI MapID="934" xpos="-254.671" ypos="234.67" zpos="-297.012" type="festivals.super_adventure_box.magasins_de_meubles.acces" GUID="twZVhaM+I0O1hOgDkVCRAA=="/>
+			<POI MapID="934" xpos="-251.28" ypos="232.633" zpos="-303.708" type="festivals.super_adventure_box.magasins_de_meubles.acces" GUID="RHmPDLP0bEG9+5ILEhongQ=="/>
+			<POI MapID="934" xpos="-251.15" ypos="2324.63" zpos="-303.83" type="festivals.super_adventure_box.magasins_de_meubles.acces" GUID="Stt0UIqbF0aGQXhUyh71mg=="/>
+			<POI MapID="934" xpos="-246.4" ypos="232.55" zpos="-308.4" type="festivals.super_adventure_box.magasins_de_meubles.acces" GUID="a2FwlUDI60ySc071XR/4FQ=="/>
+			<POI MapID="934" xpos="-240.687" ypos="226.012" zpos="-314.671" type="festivals.super_adventure_box.magasins_de_meubles.acces" GUID="KHG/90ePxkmB7Yal6pduPA=="/>
+			<POI MapID="934" xpos="-240.024" ypos="226.825" zpos="-318.528" type="festivals.super_adventure_box.magasins_de_meubles.acces" GUID="LavntS2V8UiCgmeLyOQKIw=="/>
+			<POI MapID="934" xpos="-235.572" ypos="227.284" zpos="-322.536" type="festivals.super_adventure_box.magasins_de_meubles.acces" GUID="rM3vRsIeQUytNIcIhqlSdQ=="/>
+			<POI MapID="934" xpos="-230.826" ypos="227.284" zpos="-329.659" type="festivals.super_adventure_box.magasins_de_meubles.acces" GUID="Gv+5CnhvnkuCzHK03rs+rw=="/>
+			<POI MapID="934" xpos="-237.46" ypos="227.284" zpos="-336.321" type="festivals.super_adventure_box.magasins_de_meubles.acces" GUID="feGsISP5/UuqLouX/r07QQ=="/>
+
+		<!-- Monde 2 - Zone 2 -->
+		<POI MapID="934" xpos="313.372" ypos="244.999" zpos="21.4582" type="festivals.super_adventure_box.magasins_de_meubles" GUID="w3TMDuvgFki2V+PTBYWFTg=="/>
+			<POI MapID="934" xpos="253.277" ypos="260.042" zpos="-83.6067" type="festivals.super_adventure_box.magasins_de_meubles.acces" GUID="cvOOurNzzU+XPztsXxHnAQ==" iconFile="Img\SAB_MagasinMeuble.png"/>
+			<POI MapID="934" xpos="274.116" ypos="262.124" zpos="-63.863" type="festivals.super_adventure_box.magasins_de_meubles.acces" GUID="Osz4r8dJDkG/+hxH8bDdJw=="/>
+			<POI MapID="934" xpos="301.593" ypos="262.918" zpos="-42.6873" type="festivals.super_adventure_box.magasins_de_meubles.acces" GUID="l4Q518p690Wz2GtS8PBsdQ=="/>
+			<POI MapID="934" xpos="298.832" ypos="249.844" zpos="-10.394" type="festivals.super_adventure_box.magasins_de_meubles.acces" GUID="AIXyZsGeukS8/XqwTr/dIA=="/>
+			<POI MapID="934" xpos="303.251" ypos="250.262" zpos="14.4115" type="festivals.super_adventure_box.magasins_de_meubles.acces" GUID="bxE1CiIdTEmw2XFPp5wqoQ=="/>
+		<POI MapID="934" xpos="520.491" ypos="277.953" zpos="98.2783" type="festivals.super_adventure_box.magasins_de_meubles" GUID="mbFkjVJT8UWekJS6+Jqp2w=="/>
+			<POI MapID="934" xpos="504.458" ypos="275.852" zpos="112.01" type="festivals.super_adventure_box.magasins_de_meubles.acces" GUID="J444q3RrVEmiejKiXD3NgQ=="/>
+			<POI MapID="934" xpos="505.617" ypos="276.744" zpos="103.966" type="festivals.super_adventure_box.magasins_de_meubles.acces" GUID="SczFYaJNk0uUsP364GPpBA=="/>
+
+		<!-- Monde 2 - Zone 3 -->
+		<POI MapID="934" xpos="-375.168" ypos="334.763" zpos="189.939" type="festivals.super_adventure_box.magasins_de_meubles" GUID="tLKCFzuf5kuTQA73e3TDsQ=="/>
+			<POI MapID="934" xpos="-374.253" ypos="355.017" zpos="199.851" type="festivals.super_adventure_box.magasins_de_meubles.acces" GUID="vrty1OzK3kOI9riByLzp6Q=="/>
+			<POI MapID="934" xpos="-374.529" ypos="339.603" zpos="200.683" type="festivals.super_adventure_box.magasins_de_meubles.acces" GUID="raeKYM/kxEKNS5NHtb8ILQ=="/>
+		<POI MapID="934" xpos="-63.434" ypos="239.682" zpos="385.505" type="festivals.super_adventure_box.magasins_de_meubles" GUID="UwxiJre1ykSvezaK5wok7A=="/>
+
+	</POIs>
+</OverlayData>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+POIs: Cloud Strife.7492 - Xenophy.2716 - ReActif.9251
+Date: 2017/08/23
+-->
+<OverlayData>
+	<MarkerCategory name="general" DisplayName="General">
+		<MarkerCategory name="puzzles_de_saut" DisplayName="Jumping Puzzles" iconFile="Img\Guide.png" iconSize="0.75">
+			<MarkerCategory name="perchoir_des_chamanes" DisplayName="Shaman's Rookery"/>
+		</MarkerCategory>
+	</MarkerCategory>
+
+	<POIs>
+
+		<!-- Début -->
+		<POI MapID="28" xpos="-368.77" ypos="105.9" zpos="-11.48" type="general.puzzles_de_saut.debut" GUID="0eOVIvZGA0uBz2ipTGFKGg=="/>
+
+		<!-- Route -->
+		<Route MapID="28" name="Perchoir_des_Chamanes" resetposx="-368.77" resetposy="105.9" resetposz="-11.48" resetrange="2">
+			<POI MapID="28" xpos="-380.938" ypos="104.288" zpos="-15.476" type="general.puzzles_de_saut.perchoir_des_chamanes" GUID="tkes6jP+KUGOXkW1WBzZ0Q=="/>
+			<POI MapID="28" xpos="-388.187" ypos="103.707" zpos="-17.7237" type="general.puzzles_de_saut.perchoir_des_chamanes" GUID="jznZCVbqp0uKfS5ORXWLaw=="/>
+			<POI MapID="28" xpos="-396.298" ypos="103.748" zpos="-19.0204" type="general.puzzles_de_saut.perchoir_des_chamanes" GUID="0kOHgv22bEWVRzkeNIO8yA=="/>
+			<POI MapID="28" xpos="-403.92" ypos="103.144" zpos="-19.6379" type="general.puzzles_de_saut.perchoir_des_chamanes" GUID="B2SvEDW5pk6t0gPJuynjnQ=="/>
+			<POI MapID="28" xpos="-410.628" ypos="101.283" zpos="-12.682" type="general.puzzles_de_saut.perchoir_des_chamanes" GUID="A34k4vzv8ESaAqfqD8/wuQ=="/>
+			<POI MapID="28" xpos="-417.257" ypos="100.676" zpos="-19.329" type="general.puzzles_de_saut.perchoir_des_chamanes" GUID="TrBmfy0xu06jdr7QhDA6JA=="/>
+			<POI MapID="28" xpos="-422.903" ypos="100.576" zpos="-24.7401" type="general.puzzles_de_saut.perchoir_des_chamanes" GUID="WIewxRR6NkiA7QZWIGEUEA=="/>
+			<POI MapID="28" xpos="-432.568" ypos="99.8984" zpos="-31.2545" type="general.puzzles_de_saut.perchoir_des_chamanes" GUID="s/ybLPGB/EmmCSP48JWLoA=="/>
+			<POI MapID="28" xpos="-436.757" ypos="100.962" zpos="-36.1822" type="general.puzzles_de_saut.perchoir_des_chamanes" GUID="DDE5yRY0UEOzruh29qoKuQ=="/>
+			<POI MapID="28" xpos="-445.874" ypos="101.95" zpos="-41.2051" type="general.puzzles_de_saut.perchoir_des_chamanes" GUID="TeE+OFv8CkSOMElYQLAuQQ=="/>
+			<POI MapID="28" xpos="-455.396" ypos="101.251" zpos="-41.6962" type="general.puzzles_de_saut.perchoir_des_chamanes" GUID="SSvdpIbJnEqw+tOfh4vm0A=="/>
+			<POI MapID="28" xpos="-461.506" ypos="101.078" zpos="-30.4057" type="general.puzzles_de_saut.perchoir_des_chamanes" GUID="r/SuW1IAyUaMbRbfEC5gpA=="/>
+			<POI MapID="28" xpos="-458.756" ypos="100.072" zpos="-21.8982" type="general.puzzles_de_saut.perchoir_des_chamanes" GUID="fdF4GCW4vUayGoIZ3WWFMw=="/>
+			<POI MapID="28" xpos="-451.73" ypos="100.033" zpos="-17.7599" type="general.puzzles_de_saut.perchoir_des_chamanes" GUID="v5YqZ0LC3EmQhEvEULPV+w=="/>
+			<POI MapID="28" xpos="-442.875" ypos="103.479" zpos="-16.9214" type="general.puzzles_de_saut.perchoir_des_chamanes" GUID="NHMZ7uBsiEK3ENcyWzbFRQ=="/>
+			<POI MapID="28" xpos="-435.946" ypos="103.066" zpos="-9.08661" type="general.puzzles_de_saut.perchoir_des_chamanes" GUID="4PNWUYH6fE+jDfRoqF5VCw=="/>
+			<POI MapID="28" xpos="-442.804" ypos="102.839" zpos="0.705684" type="general.puzzles_de_saut.perchoir_des_chamanes" GUID="BXRCY2MiqU2Qr65m6mEstw=="/>
+			<POI MapID="28" xpos="-451.888" ypos="102.611" zpos="0.486021" type="general.puzzles_de_saut.perchoir_des_chamanes" GUID="UcsL86TNzkitXhMYM6QxOQ=="/>
+			<POI MapID="28" xpos="-460.02" ypos="101.578" zpos="-0.175597" type="general.puzzles_de_saut.perchoir_des_chamanes" GUID="sRHZZvnS6Ei4ghhw3Hm5Yg=="/>
+			<POI MapID="28" xpos="-468.689" ypos="99.0878" zpos="0.58871" type="general.puzzles_de_saut.perchoir_des_chamanes" GUID="/r9U+xuVSUS7muYw72jaBQ=="/>
+			<POI MapID="28" xpos="-477.358" ypos="99.4795" zpos="3.67505" type="general.puzzles_de_saut.perchoir_des_chamanes" GUID="aq/I3raY9kmXrowwvMTNoQ=="/>
+			<POI MapID="28" xpos="-477.77" ypos="100.388" zpos="9.17365" type="general.puzzles_de_saut.perchoir_des_chamanes" GUID="dbQKwR4UxkGgTJVjafGsZg=="/>
+			<POI MapID="28" xpos="-482.605" ypos="101.216" zpos="13.8583" type="general.puzzles_de_saut.perchoir_des_chamanes" GUID="D4FF4DsnpUmbWARHurm0tg=="/>
+			<POI MapID="28" xpos="-493.506" ypos="101.706" zpos="17.4907" type="general.puzzles_de_saut.perchoir_des_chamanes" GUID="kkCHiFqyyk274Q6tWJIzvQ=="/>
+			<POI MapID="28" xpos="-498.784" ypos="102.594" zpos="20.533" type="general.puzzles_de_saut.perchoir_des_chamanes" GUID="YBAWsGU6M0SGUIBpPU3MiQ=="/>
+			<POI MapID="28" xpos="-507.205" ypos="102.588" zpos="25.3164" type="general.puzzles_de_saut.perchoir_des_chamanes" GUID="YkYZd+lhBEWYHAJshqrG/Q==" iconFile="Img\Combat.png" iconSize="1" color="ffe52020"/>
+			<POI MapID="28" xpos="-510.532" ypos="102.76" zpos="33.5183" type="general.puzzles_de_saut.perchoir_des_chamanes" GUID="akmvinT03USZ1HTPWqUorA=="/>
+		</Route>
+
+		<!-- Coffre -->
+		<POI MapID="28" xpos="-506.938" ypos="105.188" zpos="49.6966" type="general.puzzles_de_saut.perchoir_des_chamanes" GUID="zVYeo5rhhUmBT9T03HRHJA==" iconFile="Img\CoffrePuzzle.png" iconSize="1" heightOffset="2.5" behavior="2"/>
+
+	</POIs>
+</OverlayData>

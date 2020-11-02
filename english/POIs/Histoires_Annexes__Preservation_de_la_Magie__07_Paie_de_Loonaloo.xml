@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+POIs: ReActif.9251
+Date: 2017/08/15
+-->
+<OverlayData>
+	<MarkerCategory name="histoires_annexes" DisplayName="Side Stories" iconFile="Img\HistoiresAnnexes.png" behavior="3">
+		<MarkerCategory name="preservation_de_la_magie" DisplayName="Conservation of Magic" iconFile="Img\PreservationDeLaMagie.png" behavior="0">
+			<MarkerCategory name="paie_de_loonaloo" DisplayName="Loonaloo's Paycheck"/>
+		</MarkerCategory>
+	</MarkerCategory>
+
+	<POIs>
+
+		<!-- Loonaloo -->
+		<POI MapID="39" xpos="-1113.78" ypos="17.48" zpos="-477.03" type="histoires_annexes.preservation_de_la_magie.paie_de_loonaloo" GUID="CBtmKpZ4GUey2OGl5pz66Q==" heightOffset="3"/>
+
+	</POIs>
+</OverlayData>

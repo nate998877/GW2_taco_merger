@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+POIs: ReActif.9251
+Date: 2017/05/16
+-->
+<OverlayData>
+	<MarkerCategory name="chroniques.saison_3">
+		<MarkerCategory name="ep5_point_d_ignition" DisplayName="Ep.5 - Flashpoint" iconFile="Img\MontDraconis.png">
+			<MarkerCategory name="l_eveil_de_la_pierre_druidique" DisplayName="Awakening the Druid Stone">
+				<MarkerCategory name="ramille" DisplayName="Element of the Wardbough"/>
+				<MarkerCategory name="tonnelle" DisplayName="Element of the Arbor (Brisban Wildlands)"/>
+				<MarkerCategory name="coeur_de_chene" DisplayName="Element of the Oakhearts (Queensdale)"/>
+				<MarkerCategory name="kodama" DisplayName="A Bouquet for Kodama (and Runestones)" heightOffset="6" behavior="0"/>
+				<MarkerCategory name="liriodendron" DisplayName="A Bouquet for Liriodendron" heightOffset="6"/>
+				<MarkerCategory name="grand_feuille" DisplayName="A Bouquet for Broadleaf" heightOffset="6"/>
+				<MarkerCategory name="bois_de_rose" DisplayName="A Bouquet for Rosewood" heightOffset="6"/>
+			</MarkerCategory>
+		</MarkerCategory>
+	</MarkerCategory>
+
+	<POIs>
+
+		<!-- Élément du ramille -->
+		<POI MapID="1195" xpos="-26.6324" ypos="124.274" zpos="-982.373" type="chroniques.saison_3.ep5_point_d_ignition.l_eveil_de_la_pierre_druidique.ramille" GUID="PECHuEgg3USDoqtKnzFntA=="/>
+		<POI MapID="1195" xpos="-26.6324" ypos="126.274" zpos="-982.373" type="chroniques.saison_3.ep5_point_d_ignition.l_eveil_de_la_pierre_druidique.ramille" GUID="Id9jWaMVpk69GtEmGS+Z7w==" iconFile="Img\Combat.png" color="ffff0000"/>
+
+		<!-- Élément de la tonnelle -->
+		<POI MapID="54" xpos="-34.796" ypos="5.75596" zpos="650.278" type="chroniques.saison_3.ep5_point_d_ignition.l_eveil_de_la_pierre_druidique.tonnelle" GUID="giBsCYThRU+erlZdFveIXQ=="/>
+
+		<!-- Élément des cœurs-de-chêne -->
+		<POI MapID="15" xpos="-68.3578" ypos="7.09641" zpos="-189.744" type="chroniques.saison_3.ep5_point_d_ignition.l_eveil_de_la_pierre_druidique.coeur_de_chene" GUID="qviPEiNMR0SEejETa8n0Aw=="/>
+		<POI MapID="15" xpos="-68.3578" ypos="9.09641" zpos="-189.744" type="chroniques.saison_3.ep5_point_d_ignition.l_eveil_de_la_pierre_druidique.coeur_de_chene" GUID="hgLJ5CDnIEaSlXmUFLTONg==" iconFile="Img\Combat.png" color="ffff0000"/>
+
+		<!--
+		Repos de la ramille
+		Repos arborifère
+		Repos de cœur-de-chêne
+		Un bouquet pour Kodama
+		-->
+		<POI MapID="1195" xpos="572.782" ypos="120.698" zpos="-339.958" type="chroniques.saison_3.ep5_point_d_ignition.l_eveil_de_la_pierre_druidique.kodama" GUID="7nZVyxQSt0a4Yeip1KoZOw=="/>
+
+		<!-- Un bouquet pour Liriodendron -->
+		<POI MapID="1195" xpos="596.215" ypos="242.667" zpos="-282.229" type="chroniques.saison_3.ep5_point_d_ignition.l_eveil_de_la_pierre_druidique.liriodendron" GUID="L1YnRfVVrEK8+XP/L3Npmw=="/>
+
+		<!-- Un bouquet pour Grand-feuille -->
+		<POI MapID="1195" xpos="-218.089" ypos="295.841" zpos="-708.447" type="chroniques.saison_3.ep5_point_d_ignition.l_eveil_de_la_pierre_druidique.grand_feuille" GUID="ASF7lQGqf0uGDkwXD01fyQ=="/>
+
+		<!-- Un bouquet pour Bois de rose -->
+		<POI MapID="1195" xpos="-1.22426" ypos="309.163" zpos="135.254" type="chroniques.saison_3.ep5_point_d_ignition.l_eveil_de_la_pierre_druidique.bois_de_rose" GUID="vMPJAARhSkOfoM/PbE9B8A=="/>
+
+	</POIs>
+</OverlayData>

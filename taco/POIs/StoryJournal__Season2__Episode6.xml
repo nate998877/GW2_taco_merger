@@ -1,0 +1,19 @@
+<!-- 2020.06.09 -->
+<OverlayData>
+	<POIs>
+
+		<!-- CONNECT THE DOTS -->
+		<Trail type="story_journal.season_2.tangled_paths.connect_the_dots" GUID="s2eMxSxGPkmBKJlHDsXIqw==" trailData="Data/StoryJournal/Season2/TangledPaths/ConnectTheDots.trl" texture="Data/Arrow.png" color="ffffdd00" alpha="0.8" fadeNear="1500" fadeFar="2000" animSpeed="0" mapDisplaySize="15"/>
+		<POI MapID="1021" xpos="-41.9"    ypos="358.85"  zpos="-331.12"  type="story_journal.season_2.tangled_paths.connect_the_dots" GUID="qhLFuopAgUKNCrXQeC1YUA=="/>
+		<POI MapID="1021" xpos="-210.928" ypos="348.999" zpos="-374.904" type="story_journal.season_2.tangled_paths.connect_the_dots" GUID="ISs0VnNcTU2UqA/4SxY1ZQ==" iconFile="Img/Numbers/1.png" color="ff00ff00" heightOffset="4"/><!-- Rox-->
+		<POI MapID="1021" xpos="-347.465" ypos="338.481" zpos="-271.944" type="story_journal.season_2.tangled_paths.connect_the_dots" GUID="tQPPvkhJ8keNr86NJkvveg==" iconFile="Img/Numbers/2.png" color="ff00a9ff" heightOffset="4"/><!-- Braham -->
+		<POI MapID="1021" xpos="-70.895"  ypos="346.472" zpos="-343.444" type="story_journal.season_2.tangled_paths.connect_the_dots" GUID="ULedKEoM3EqylODAGXaOLg==" iconFile="Img/Numbers/3.png" color="ffff0000" heightOffset="4"/><!-- Marjory -->
+		<POI MapID="1021" xpos="-158.632" ypos="358.195" zpos="-254.453" type="story_journal.season_2.tangled_paths.connect_the_dots" GUID="hgulWHMrk024odv8co9stw==" iconFile="Img/Numbers/4.png" color="ffff00ff" heightOffset="4"/><!-- Kasmeer -->
+		<POI MapID="1021" xpos="-326.332" ypos="357.977" zpos="-242.145" type="story_journal.season_2.tangled_paths.connect_the_dots" GUID="YR9tlP5Ry0Wkz+KTnniq4A==" iconFile="Img/Icons/Detail.png" minSize="10" maxSize="16" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="1021" xpos="-217.242" ypos="372.448" zpos="-327.161" type="story_journal.season_2.tangled_paths.connect_the_dots" GUID="WVqWqAgXQUiR8g/hLfK5eg=="/>
+
+		<!-- LIGHT 'EM UP -->
+		<POI MapID="1023" xpos="183.152" ypos="360.052" zpos="-193.224" type="story_journal.season_2.tangled_paths.light_em_up" GUID="UQ8JeLGvtk2XKBBt7v6RtA==" heightOffset="3"/>
+
+	</POIs>
+</OverlayData>

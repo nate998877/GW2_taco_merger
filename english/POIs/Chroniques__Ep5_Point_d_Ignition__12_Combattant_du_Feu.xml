@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+POIs: ReActif.9251
+Date: 2017/05/03
+-->
+<OverlayData>
+	<MarkerCategory name="chroniques.saison_3">
+		<MarkerCategory name="ep5_point_d_ignition" DisplayName="Ep.5 - Flashpoint" iconFile="Img\MontDraconis.png">
+			<MarkerCategory name="combattant_du_feu" DisplayName="Fire Fighter"/>
+		</MarkerCategory>
+	</MarkerCategory>
+
+	<POIs>
+
+		<!-- Aspergeoir -->
+		<POI MapID="1198" xpos="372.764" ypos="53.986" zpos="404.795" type="chroniques.saison_3.ep5_point_d_ignition.combattant_du_feu" GUID="trOojBOmB02m6pLoMA4/Eg=="/>
+		<POI MapID="1198" xpos="439.979" ypos="63.9914" zpos="400.079" type="chroniques.saison_3.ep5_point_d_ignition.combattant_du_feu" GUID="dWtTzRNI80y67rBNcVUTWg=="/>
+		<POI MapID="1198" xpos="462.844" ypos="58.4183" zpos="435.056" type="chroniques.saison_3.ep5_point_d_ignition.combattant_du_feu" GUID="jE6rABoeS0qofyUazX4mcw=="/>
+
+	</POIs>
+</OverlayData>

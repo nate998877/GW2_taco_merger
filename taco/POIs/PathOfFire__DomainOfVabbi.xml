@@ -1,0 +1,150 @@
+<!-- 2020.06.25 -->
+<OverlayData>
+	<POIs>
+
+		<!-- DISPERSED ENERGY -->
+		<POI MapID="1248" xpos="1305.45" ypos="206.112" zpos="850.57"  type="path_of_fire.domain_of_vabbi.dispersed_energy" GUID="UWKvYiLQ+EOh7Ag70VWh3w=="/>
+		<POI MapID="1248" xpos="1305.45" ypos="209"     zpos="850.57"  type="path_of_fire.domain_of_vabbi.dispersed_energy" GUID="4zTwCxd39EitAAhUFk5z7Q==" iconFile="Img/Icons/Fight.png"         fadeNear="1500" fadeFar="2500" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="1248" xpos="1300.73" ypos="206.126" zpos="845.204" type="path_of_fire.domain_of_vabbi.dispersed_energy" GUID="OPdCwbOP0UClvSa5B7c78g==" iconFile="Img/PoF/DispersedEnergy.png" minSize="48" maxSize="64" fadeNear="1500" fadeFar="2500" mapVisibility="0" miniMapVisibility="0"/>
+
+		<!-- JILAI THE RADIANT -->
+		<POI MapID="1248" xpos="-274.999" ypos="82.9103" zpos="-887.022" type="path_of_fire.domain_of_vabbi.jilai_the_radiant" GUID="dlqJHvAbwkSdpsHRXJrU/w=="/>
+		<POI MapID="1248" xpos="-274.999" ypos="88"      zpos="-887.022" type="path_of_fire.domain_of_vabbi.jilai_the_radiant" GUID="jssj+h/pEUy8tYJEG8AanQ==" iconFile="Img/Icons/Fight.png" fadeNear="1500" fadeFar="2000" mapVisibility="0" miniMapVisibility="0"/>
+
+		<!-- JUARUADUN THE FLAWLESS -->
+		<POI MapID="1248" xpos="923.991" ypos="85.193"  zpos="772.951" type="path_of_fire.domain_of_vabbi.juaruadun_the_flawless" GUID="p/pia5ej0ECh5ZgEAIhZHg=="/>
+		<POI MapID="1248" xpos="921.284" ypos="84.9901" zpos="774.671" type="path_of_fire.domain_of_vabbi.juaruadun_the_flawless" GUID="dkS4+/BArkSu39JHE84lyg==" iconFile="Img/PoF/JuaruadunTheFlawless.png" color="ff00ff00" minSize="64" maxSize="64" fadeNear="1500" fadeFar="1500" mapVisibility="0" miniMapVisibility="0"/>
+
+		<!-- JUNUNDU MASTER CERTIFICATION -->
+		<Trail type="path_of_fire.domain_of_vabbi.junundu_master_certification" GUID="xp3K5FpVkEinxG1S3k3CVw==" trailData="Data/PathOfFire/DomainOfVabbi/JununduMasterCertification.trl" texture="Data/Arrow.png" color="ffffff00" alpha="0.8" fadeNear="2000" fadeFar="2500" animSpeed="1" mapDisplaySize="15"/>
+		<POI MapID="1248" xpos="-110.385" ypos="0.68"    zpos="-732.51"  type="path_of_fire.domain_of_vabbi.junundu_master_certification" GUID="LxGRRfZUXE6FJMWs+C6hEA=="/>
+		<POI MapID="1248" xpos="-110.385" ypos="3.68"    zpos="-732.51"  type="path_of_fire.domain_of_vabbi.junundu_master_certification" GUID="6jtQSU2DSUO23x851JrPfw==" iconFile="Img/PoF/WaitStartEvent.png" minSize="48" maxSize="64" fadeNear="1500" fadeFar="2500" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="1248" xpos="-263.729" ypos="11.7513" zpos="-656.406" type="path_of_fire.domain_of_vabbi.junundu_master_certification" GUID="wbbXSfein0inda3jkLKCZw==" iconFile="Img/Numbers/1.png"          color="ffff0000" minSize="24" fadeNear="2500" fadeFar="3500" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="1248" xpos="-279.805" ypos="5.42671" zpos="-731.623" type="path_of_fire.domain_of_vabbi.junundu_master_certification" GUID="qaOGZmjjn0mPzc16PWT6zw==" iconFile="Img/Numbers/2.png"          color="ffff0000" minSize="24" fadeNear="2500" fadeFar="3500" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="1248" xpos="-375.576" ypos="23.5788" zpos="-699.661" type="path_of_fire.domain_of_vabbi.junundu_master_certification" GUID="9pH0D9DH902DLuyQhZGeOQ==" iconFile="Img/Numbers/3.png"          color="ffff0000" minSize="24" fadeNear="2500" fadeFar="3500" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="1248" xpos="-490.977" ypos="22.6503" zpos="-677.621" type="path_of_fire.domain_of_vabbi.junundu_master_certification" GUID="9gnZXwCgeUCJJyRXjwqizA==" iconFile="Img/Numbers/4.png"          color="ffff0000" minSize="24" fadeNear="2500" fadeFar="3500" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="1248" xpos="-417.414" ypos="6.48966" zpos="-760.818" type="path_of_fire.domain_of_vabbi.junundu_master_certification" GUID="ZCB+MYuWfUm5Ja2/+uVWwg==" iconFile="Img/Numbers/5.png"          color="ffff0000" minSize="24" fadeNear="2500" fadeFar="3500" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="1248" xpos="-371.359" ypos="8.45926" zpos="-716.687" type="path_of_fire.domain_of_vabbi.junundu_master_certification" GUID="b84826tFOEWJFVXUm2QiNw==" iconFile="Img/Numbers/6.png"          color="ffff0000" minSize="24" fadeNear="2500" fadeFar="3500" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="1248" xpos="-248.423" ypos="12.6344" zpos="-745.155" type="path_of_fire.domain_of_vabbi.junundu_master_certification" GUID="cjyVIJSGBUqssAdQp4Mj1w==" iconFile="Img/Numbers/7.png"          color="ffff0000" minSize="24" fadeNear="2500" fadeFar="3500" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="1248" xpos="-221.228" ypos="13.7998" zpos="-790.843" type="path_of_fire.domain_of_vabbi.junundu_master_certification" GUID="FR6lJQO6UU+bLq36jPfVIA==" iconFile="Img/Numbers/8.png"          color="ffff0000" minSize="24" fadeNear="2500" fadeFar="3500" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="1248" xpos="-201.147" ypos="11.4234" zpos="-746.978" type="path_of_fire.domain_of_vabbi.junundu_master_certification" GUID="kUKz/a1zJESv7TLMMPIp+A==" iconFile="Img/Icons/FlagFinal.png"    fadeNear="1500" fadeFar="2500" mapVisibility="0" miniMapVisibility="0"/>
+
+		<!-- JUNUNDU-WURM CERTIFIED -->
+		<Trail type="path_of_fire.domain_of_vabbi.junundu_wurm_certified" GUID="qIGxxIKeiEq4v3c4E41nzA==" trailData="Data/PathOfFire/DomainOfVabbi/JununduWurmCertified.trl" texture="Data/Arrow.png" color="ffffff00" alpha="0.8" fadeNear="2000" fadeFar="2500" animSpeed="1" mapDisplaySize="15"/>
+		<POI MapID="1248" xpos="-110.385" ypos="0.68"    zpos="-732.51"  type="path_of_fire.domain_of_vabbi.junundu_wurm_certified" GUID="3TNxMiw3l0qNUzMDYSmJeQ=="/>
+		<POI MapID="1248" xpos="-110.385" ypos="3.68"    zpos="-732.51"  type="path_of_fire.domain_of_vabbi.junundu_wurm_certified" GUID="KTJrZoYKWkum21K8331z3A==" iconFile="Img/PoF/WaitStartEvent.png" minSize="48" maxSize="64" fadeNear="1500" fadeFar="2500" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="1248" xpos="-201.147" ypos="11.4234" zpos="-746.978" type="path_of_fire.domain_of_vabbi.junundu_wurm_certified" GUID="KFQ02D6mck6c4fyNVY+Slg==" iconFile="Img/Icons/FlagFinal.png"    fadeNear="1500" fadeFar="2500" mapVisibility="0" miniMapVisibility="0"/>
+
+		<!-- KAADSSEO THE WISE -->
+		<POI MapID="1248" xpos="137.719" ypos="184.275" zpos="955.963" type="path_of_fire.domain_of_vabbi.kaadsseo_the_wise" GUID="80Cs3ANJGE+kx0sh3/vWyw=="/>
+		<POI MapID="1248" xpos="134.335" ypos="184.363" zpos="957.383" type="path_of_fire.domain_of_vabbi.kaadsseo_the_wise" GUID="KXmM1G91uUqqlbDJnkK8gw==" iconFile="Img/PoF/KaadsseoTheWise.png" color="ff00ff00" minSize="64" maxSize="64" fadeNear="1500" fadeFar="1500" mapVisibility="0" miniMapVisibility="0"/>
+
+		<!-- KUMAA THE FEISTY -->
+		<POI MapID="1248" xpos="-1387.52" ypos="316.086" zpos="-540.535" type="path_of_fire.domain_of_vabbi.kumaa_the_feisty" GUID="WxSxpWGK/EqNdVSN4I21yQ=="/>
+		<POI MapID="1248" xpos="-1387.52" ypos="321"     zpos="-540.535" type="path_of_fire.domain_of_vabbi.kumaa_the_feisty" GUID="CAO8kXjnbkyyG5eJ6W4nmw==" iconFile="Img/Icons/Fight.png" fadeNear="1500" fadeFar="2000" mapVisibility="0" miniMapVisibility="0"/>
+
+		<!-- LOST LORE OF THE DOMAIN OF VABBI -->
+		<POI MapID="1248" xpos="-1234.31" ypos="120.401" zpos="345.965"  type="path_of_fire.domain_of_vabbi.lost_lore_of_the_domain_of_vabbi" GUID="vR+5jybm/UaIo1E3TPlVwA==" achievementBit="0"/>
+		<POI MapID="1248" xpos="1379.03"  ypos="102.854" zpos="-595.588" type="path_of_fire.domain_of_vabbi.lost_lore_of_the_domain_of_vabbi" GUID="ODM2MC3n6kmtvXnz/Etvfg==" achievementBit="1"/>
+		<POI MapID="1248" xpos="-1458.36" ypos="312.188" zpos="-687.073" type="path_of_fire.domain_of_vabbi.lost_lore_of_the_domain_of_vabbi" GUID="TpJ7eDYWFkqkUN2rETHGtw==" achievementBit="2"/>
+		<POI MapID="1248" xpos="758.051"  ypos="198.087" zpos="77.8018"  type="path_of_fire.domain_of_vabbi.lost_lore_of_the_domain_of_vabbi" GUID="2cPR4+9yIUu1WSnS+uw8yQ==" achievementBit="3"/>
+		<POI MapID="1248" xpos="-868.927" ypos="370.994" zpos="-622.173" type="path_of_fire.domain_of_vabbi.lost_lore_of_the_domain_of_vabbi" GUID="+Jwc21GXdEatXeoH8Y+XCw==" achievementBit="4"/>
+		<POI MapID="1248" xpos="-744.182" ypos="217.972" zpos="501.386"  type="path_of_fire.domain_of_vabbi.lost_lore_of_the_domain_of_vabbi" GUID="eaAieWWjekmHZZWCm6rDMw==" achievementBit="5"/>
+		<POI MapID="1248" xpos="281.653"  ypos="263.743" zpos="-95.1239" type="path_of_fire.domain_of_vabbi.lost_lore_of_the_domain_of_vabbi" GUID="YL0AWfXRP0C5ZQwemNFAUg==" achievementBit="6"/>
+
+		<!-- PRAISE JOKO! -->
+		<POI MapID="1248" xpos="-1141.66" ypos="165.827" zpos="282.259"  type="path_of_fire.domain_of_vabbi.praise_joko" GUID="YbApqW0tzkyzH014NQ4uQA==" achievementBit="0"/>
+		<POI MapID="1248" xpos="-1213.82" ypos="165.874" zpos="424.584"  type="path_of_fire.domain_of_vabbi.praise_joko" GUID="x9sY8TlvHEequ1b9pcgaxg==" achievementBit="1"/>
+		<POI MapID="1248" xpos="-1193.43" ypos="164.422" zpos="318.887"  type="path_of_fire.domain_of_vabbi.praise_joko" GUID="qtYwIA5eoUaxIF/lnoIwhg==" achievementBit="2"/>
+		<POI MapID="1248" xpos="-1199.8"  ypos="164.318" zpos="270.477"  type="path_of_fire.domain_of_vabbi.praise_joko" GUID="NlJQHa7ufUWnYm+x0b7uWQ==" achievementBit="3"/>
+		<POI MapID="1248" xpos="-1249.61" ypos="164.36"  zpos="268.753"  type="path_of_fire.domain_of_vabbi.praise_joko" GUID="YH+xUdZmG0ysDW5Pg82RGg==" achievementBit="4"/>
+		<POI MapID="1248" xpos="-1298.98" ypos="164.45"  zpos="273.184"  type="path_of_fire.domain_of_vabbi.praise_joko" GUID="dlp5nWHtck6nHpQ8C8rmWw==" achievementBit="5"/>
+		<POI MapID="1248" xpos="-1305.9"  ypos="164.42"  zpos="318.856"  type="path_of_fire.domain_of_vabbi.praise_joko" GUID="hzzzRrlQ+kCyH+GMC8KpVw==" achievementBit="6"/>
+		<POI MapID="1248" xpos="-1296.06" ypos="164.317" zpos="369.634"  type="path_of_fire.domain_of_vabbi.praise_joko" GUID="aov3L+Zs8kCQiGhdSyknyA==" achievementBit="7"/>
+		<POI MapID="1248" xpos="-1250.01" ypos="164.347" zpos="370.804"  type="path_of_fire.domain_of_vabbi.praise_joko" GUID="K2mThG6dtEWO+oevpcB+Ew==" achievementBit="8"/>
+		<POI MapID="1248" xpos="-1199.48" ypos="164.441" zpos="365.089"  type="path_of_fire.domain_of_vabbi.praise_joko" GUID="pky9E2VRS0Ci+Tn3H8xDKA==" achievementBit="9"/>
+		<POI MapID="1248" xpos="-1162.11" ypos="134.357" zpos="202.702"  type="path_of_fire.domain_of_vabbi.praise_joko" GUID="j6K0zOqsGkK0Ix5AWMt+mA==" achievementBit="10"/>
+		<POI MapID="1248" xpos="-1125.15" ypos="120.089" zpos="-152.479" type="path_of_fire.domain_of_vabbi.praise_joko" GUID="r90oUjIWT0CcpB8O3MsXhg==" achievementBit="11"/>
+		<POI MapID="1248" xpos="-1089.07" ypos="119.817" zpos="-188.948" type="path_of_fire.domain_of_vabbi.praise_joko" GUID="WTEi8MuH10GXTst0nH+lZg==" achievementBit="12"/>
+		<POI MapID="1248" xpos="-706.36"  ypos="109.477" zpos="-459.319" type="path_of_fire.domain_of_vabbi.praise_joko" GUID="7rt5vqh70UWeozfGDovobQ==" achievementBit="13"/>
+		<POI MapID="1248" xpos="-703.757" ypos="197.376" zpos="-583.598" type="path_of_fire.domain_of_vabbi.praise_joko" GUID="P7WfJkTbxESEJmb3zq1yeA==" achievementBit="14"/>
+		<POI MapID="1248" xpos="-887.39"  ypos="181.775" zpos="-622.42"  type="path_of_fire.domain_of_vabbi.praise_joko" GUID="6os91nnvEUK26dwcNaOA7w==" achievementBit="15"/>
+		<POI MapID="1248" xpos="-853.092" ypos="181.775" zpos="-638.145" type="path_of_fire.domain_of_vabbi.praise_joko" GUID="gj2gSBeIaUyQoBd542hnjg==" achievementBit="16"/>
+		<POI MapID="1248" xpos="-934.738" ypos="107.315" zpos="-738.946" type="path_of_fire.domain_of_vabbi.praise_joko" GUID="lLDvDG2zkkOIZ3qm6q5uTA==" achievementBit="17"/>
+		<POI MapID="1248" xpos="-954.289" ypos="107.362" zpos="-733.649" type="path_of_fire.domain_of_vabbi.praise_joko" GUID="kIbVe+Ima0mZjPtTygCZZg==" achievementBit="18"/>
+		<POI MapID="1248" xpos="-980.827" ypos="127.409" zpos="-737.81"  type="path_of_fire.domain_of_vabbi.praise_joko" GUID="V62az0+/uEOOnb0a+WXCCA==" achievementBit="19"/>
+		<POI MapID="1248" xpos="69.1796"  ypos="88.0936" zpos="-545.891" type="path_of_fire.domain_of_vabbi.praise_joko" GUID="ASFmIKuY7EOUjmg6MAKBeA==" achievementBit="20"/>
+		<POI MapID="1248" xpos="20.7429"  ypos="106.614" zpos="-372.044" type="path_of_fire.domain_of_vabbi.praise_joko" GUID="ydC0XZb3BEKcbWfOLTDkOg==" achievementBit="21"/>
+		<POI MapID="1248" xpos="-468.807" ypos="39.6585" zpos="616.661"  type="path_of_fire.domain_of_vabbi.praise_joko" GUID="iGrACuKinEe1m6Hg7hMNkA==" achievementBit="22"/>
+		<POI MapID="1248" xpos="-470.161" ypos="39.8667" zpos="385.877"  type="path_of_fire.domain_of_vabbi.praise_joko" GUID="IGrMxxboHUeAyJyA6Ygc2w==" achievementBit="23"/>
+		<POI MapID="1248" xpos="-760.414" ypos="109.184" zpos="500.527"  type="path_of_fire.domain_of_vabbi.praise_joko" GUID="BvEVOW/zLUW7IvLDk1EZLQ==" achievementBit="24"/>
+		<POI MapID="1248" xpos="-705.445" ypos="119.338" zpos="499.189"  type="path_of_fire.domain_of_vabbi.praise_joko" GUID="SxZaJ6EHz0C4jkhlfPi3kw==" iconFile="Img/PoF/GoToTheArrow.png"   minSize="48" maxSize="64" fadeNear="1500"  fadeFar="1500"  mapVisibility="0" miniMapVisibility="0" achievementBit="24"/>
+		<POI MapID="1248" xpos="-459.999" ypos="57.7042" zpos="499.697"  type="path_of_fire.domain_of_vabbi.praise_joko" GUID="KEFCcZnd80q7uGDcTbcduA==" iconFile="Img/Icons/ArrowForward.png" minSize="32" maxSize="48" fadeNear="11000" fadeFar="11000" mapVisibility="0" miniMapVisibility="0" achievementBit="24"/>
+		<POI MapID="1248" xpos="-452.235" ypos="57.946"  zpos="499.354"  type="path_of_fire.domain_of_vabbi.praise_joko" GUID="hdFuvQQTIUC0Zndlfy9Ozg==" iconFile="Img/Mounts/Jackal.png"                                fadeNear="1500" fadeFar="3000"   mapVisibility="0" miniMapVisibility="0" achievementBit="24"/>
+		<POI MapID="1248" xpos="26.0361"  ypos="23.4346" zpos="617.462"  type="path_of_fire.domain_of_vabbi.praise_joko" GUID="vF71i7LJNU6fxZN938E4pg==" achievementBit="25"/>
+		<POI MapID="1248" xpos="26.6367"  ypos="23.4346" zpos="382.083"  type="path_of_fire.domain_of_vabbi.praise_joko" GUID="mZ6z6/8NN0GI9JIyynxdJA==" achievementBit="26"/>
+		<POI MapID="1248" xpos="-133.502" ypos="23.4346" zpos="382.034"  type="path_of_fire.domain_of_vabbi.praise_joko" GUID="TUOWQPLz00KXbz7aGBEfBQ==" achievementBit="27"/>
+		<POI MapID="1248" xpos="-133.665" ypos="23.0028" zpos="617.462"  type="path_of_fire.domain_of_vabbi.praise_joko" GUID="58mZ6CLIhUOz2u+/2cNvaA==" achievementBit="28"/>
+		<POI MapID="1248" xpos="-51.3577" ypos="106.128" zpos="-96.873"  type="path_of_fire.domain_of_vabbi.praise_joko" GUID="FXeZE4k3YE+H6tkaY8mklw==" achievementBit="29"/>
+		<POI MapID="1248" xpos="48.85"    ypos="131.964" zpos="-38.1448" type="path_of_fire.domain_of_vabbi.praise_joko" GUID="+SGELWnK40ut4zxIbcu89A==" achievementBit="30"/>
+		<POI MapID="1248" xpos="426.493"  ypos="228.904" zpos="-15.6959" type="path_of_fire.domain_of_vabbi.praise_joko" GUID="RLTsofo5M0acyyGP8llWoA==" achievementBit="31"/>
+		<POI MapID="1248" xpos="484.354"  ypos="228.855" zpos="-71.4412" type="path_of_fire.domain_of_vabbi.praise_joko" GUID="XL9/APt6vk+WxkAu0PZ0Gg==" achievementBit="32"/>
+		<POI MapID="1248" xpos="460.491"  ypos="183.085" zpos="51.0508"  type="path_of_fire.domain_of_vabbi.praise_joko" GUID="nLApVBI5mEi/dF/Ag7xuJQ==" achievementBit="33"/>
+		<POI MapID="1248" xpos="506.044"  ypos="183.085" zpos="50.335"   type="path_of_fire.domain_of_vabbi.praise_joko" GUID="48FGi+g2+Uq1DfPWchPVTQ==" achievementBit="34"/>
+		<POI MapID="1248" xpos="449.754"  ypos="290.786" zpos="-42.4048" type="path_of_fire.domain_of_vabbi.praise_joko" GUID="xN3gTj6HYkKnsYHRnDeypA==" achievementBit="35"/>
+		<POI MapID="1248" xpos="447.932"  ypos="290.786" zpos="12.4927"  type="path_of_fire.domain_of_vabbi.praise_joko" GUID="2LLKSvcHjEKdd7EAV/QJZQ==" achievementBit="36"/>
+		<POI MapID="1248" xpos="472.689"  ypos="228.826" zpos="42.3795"  type="path_of_fire.domain_of_vabbi.praise_joko" GUID="l3OCzHeEy025un1ofCU+/A==" achievementBit="37"/>
+		<POI MapID="1248" xpos="548.781"  ypos="221.489" zpos="-60.8724" type="path_of_fire.domain_of_vabbi.praise_joko" GUID="bKyrzry7MkeP3l7if80Syg==" achievementBit="38"/>
+		<POI MapID="1248" xpos="594.349"  ypos="221.489" zpos="-60.7779" type="path_of_fire.domain_of_vabbi.praise_joko" GUID="OuhT3kMlsUqGoEr/XRSShg==" achievementBit="39"/>
+		<POI MapID="1248" xpos="208.938"  ypos="157.983" zpos="-90.136"  type="path_of_fire.domain_of_vabbi.praise_joko" GUID="+xMfIsskbE2VjXabZywBBA==" achievementBit="40"/>
+		<POI MapID="1248" xpos="311.335"  ypos="133.568" zpos="-167.362" type="path_of_fire.domain_of_vabbi.praise_joko" GUID="t9kOuxXWf06LVOg1RhZ8SA==" achievementBit="41"/>
+		<POI MapID="1248" xpos="821.094"  ypos="97.9547" zpos="-186.892" type="path_of_fire.domain_of_vabbi.praise_joko" GUID="K2PY8k4mqE+qH7tSd8cLHA==" achievementBit="42"/>
+		<POI MapID="1248" xpos="78.0521"  ypos="138.541" zpos="-64.7406" type="path_of_fire.domain_of_vabbi.praise_joko" GUID="Amu+0+zlZUS+yqADwbfeEA==" achievementBit="43"/>
+		<POI MapID="1248" xpos="668.323"  ypos="129.37"  zpos="-348.727" type="path_of_fire.domain_of_vabbi.praise_joko" GUID="c5EBdC7lG02W30HQvGBfcw==" achievementBit="44"/>
+		<POI MapID="1248" xpos="599.948"  ypos="129.421" zpos="-306.673" type="path_of_fire.domain_of_vabbi.praise_joko" GUID="+ZJLR5/+K0q/AFhdBFWR0g==" achievementBit="45"/>
+
+		<!-- SCOURGE BUSTER -->
+		<POI MapID="1248" xpos="-1379.15" ypos="109.122" zpos="818.612"  type="path_of_fire.domain_of_vabbi.scourge_buster" GUID="nv1aru/yFk6PDw5zh7GGFw==" achievementBit="0"/>
+		<POI MapID="1248" xpos="-1413.54" ypos="86.4803" zpos="616.385"  type="path_of_fire.domain_of_vabbi.scourge_buster" GUID="WjTAVaYWM069m28L4Th3/g==" achievementBit="1"/>
+		<POI MapID="1248" xpos="-1225.12" ypos="135.4"   zpos="-260.151" type="path_of_fire.domain_of_vabbi.scourge_buster" GUID="Y4V3LmRs8k2CIOLLngA1jw==" achievementBit="2"/>
+		<POI MapID="1248" xpos="-1001.55" ypos="126.37"  zpos="-738.235" type="path_of_fire.domain_of_vabbi.scourge_buster" GUID="n8YA6ri5eEiFJEPjmNcdYw==" achievementBit="3"/>
+		<POI MapID="1248" xpos="-750.397" ypos="236.622" zpos="-681.389" type="path_of_fire.domain_of_vabbi.scourge_buster" GUID="dwYfeuD22EWFxEFHUXbmYg==" achievementBit="4"/>
+		<POI MapID="1248" xpos="-369.347" ypos="126.248" zpos="-133.146" type="path_of_fire.domain_of_vabbi.scourge_buster" GUID="oGKBkf/7dUqVB6GpUg+9tw==" achievementBit="5"/>
+		<POI MapID="1248" xpos="-305.393" ypos="211.312" zpos="-501.385" type="path_of_fire.domain_of_vabbi.scourge_buster" GUID="mGkidc1K60a2Ea1rpiWeIA==" achievementBit="6"/>
+		<POI MapID="1248" xpos="391.552"  ypos="92.5396" zpos="-562.104" type="path_of_fire.domain_of_vabbi.scourge_buster" GUID="4Z5Q5KYVOU2InhskcDEN6Q==" achievementBit="7"/>
+		<POI MapID="1248" xpos="448.623"  ypos="231.103" zpos="-553.721" type="path_of_fire.domain_of_vabbi.scourge_buster" GUID="dRbGdyVeG0yW0J6WO6lLRA==" achievementBit="8"/>
+		<POI MapID="1248" xpos="82.1843"  ypos="120.134" zpos="-914.796" type="path_of_fire.domain_of_vabbi.scourge_buster" GUID="5rak6bka8ES/hmOW4bON7g==" achievementBit="9"/>
+		<POI MapID="1248" xpos="169.361"  ypos="176.877" zpos="910.782"  type="path_of_fire.domain_of_vabbi.scourge_buster" GUID="aReAbOvE90Oi/OcAUUEL2A==" achievementBit="10"/>
+		<POI MapID="1248" xpos="25.3096"  ypos="148.901" zpos="874.588"  type="path_of_fire.domain_of_vabbi.scourge_buster" GUID="/1vdFWxBOE6g7POkUbXzqw==" achievementBit="11"/>
+		<POI MapID="1248" xpos="910.976"  ypos="127.81"  zpos="423.746"  type="path_of_fire.domain_of_vabbi.scourge_buster" GUID="ogvYl6kZpU+r44E0CmWDKg==" achievementBit="12"/>
+		<POI MapID="1248" xpos="268.883"  ypos="220.307" zpos="-88.7076" type="path_of_fire.domain_of_vabbi.scourge_buster" GUID="mO1dEIc2n0iwpvNudlA5yg==" achievementBit="13"/>
+		<POI MapID="1248" xpos="248.593"  ypos="160.71"  zpos="78.599"   type="path_of_fire.domain_of_vabbi.scourge_buster" GUID="HGk/tFUsMEirb0FcxbCYrQ==" achievementBit="14"/>
+		<POI MapID="1248" xpos="360.083"  ypos="116.136" zpos="117.802"  type="path_of_fire.domain_of_vabbi.scourge_buster" GUID="eZUMlrN6lkK61rxR8LQohg==" achievementBit="15"/>
+		<POI MapID="1248" xpos="514.519"  ypos="68.9482" zpos="69.239"   type="path_of_fire.domain_of_vabbi.scourge_buster" GUID="56IR9KL1NE6FKl/BPsIxPg==" achievementBit="16"/>
+		<POI MapID="1248" xpos="1016.36"  ypos="196.832" zpos="-559.072" type="path_of_fire.domain_of_vabbi.scourge_buster" GUID="hUpAJey7m02dYbLSKCfJlg==" achievementBit="17"/>
+		<POI MapID="1248" xpos="947.56"   ypos="5.92076" zpos="928.646"  type="path_of_fire.domain_of_vabbi.scourge_buster" GUID="M6Wio5Cb9EuIsQOsYX1GEQ==" achievementBit="18"/>
+		<POI MapID="1248" xpos="1274.15"  ypos="192.243" zpos="-488.605" type="path_of_fire.domain_of_vabbi.scourge_buster" GUID="MdBZpk4LPUuvVETJMyAPeQ==" achievementBit="19"/>
+		<POI MapID="1248" xpos="1323.65"  ypos="59.4579" zpos="-629.435" type="path_of_fire.domain_of_vabbi.scourge_buster" GUID="aQ4kYrAiQE6ATdzGd9BwoQ==" achievementBit="20"/>
+		<POI MapID="1248" xpos="1422.72"  ypos="149.993" zpos="-485.46"  type="path_of_fire.domain_of_vabbi.scourge_buster" GUID="c7eBdsQSx0ODd7M+3X76OA==" achievementBit="21"/>
+		<POI MapID="1248" xpos="1273.88"  ypos="57.0971" zpos="-635.48"  type="path_of_fire.domain_of_vabbi.scourge_buster" GUID="T0fBIsUraE+sCtYOXwJDNw==" achievementBit="22"/>
+		<POI MapID="1248" xpos="1437.47"  ypos="109.861" zpos="-741.437" type="path_of_fire.domain_of_vabbi.scourge_buster" GUID="aPP6i65as0CaHhMJ4K2htg==" achievementBit="23"/>
+		<POI MapID="1248" xpos="1421.21"  ypos="151.662" zpos="243.56"   type="path_of_fire.domain_of_vabbi.scourge_buster" GUID="8na73+cGpUWcUkYWR8lmFg==" achievementBit="24"/>
+
+		<!-- YITFEI THE LIGHT -->
+		<POI MapID="1248" xpos="626.606" ypos="91.927" zpos="-878.42"  type="path_of_fire.domain_of_vabbi.yitfei_the_light" GUID="b2diqDwiiEivspdqrIVmXw=="/>
+		<POI MapID="1248" xpos="628.19"  ypos="91.927" zpos="-876.409" type="path_of_fire.domain_of_vabbi.yitfei_the_light" GUID="sOkKQV6lTUidaB/u/I7ajA==" iconFile="Img/PoF/YitfeiTheLight.png" color="ff00ff00" minSize="64" maxSize="64" fadeNear="1500" fadeFar="1500" mapVisibility="0" miniMapVisibility="0"/>
+
+		<!-- YOONAM THE INTREPID -->
+		<POI MapID="1248" xpos="419.276" ypos="159.971" zpos="918.012" type="path_of_fire.domain_of_vabbi.yoonam_the_intrepid" GUID="e4Aao+xAbkG/j/8x2OoUhw=="/>
+		<POI MapID="1248" xpos="419.276" ypos="165"     zpos="918.012" type="path_of_fire.domain_of_vabbi.yoonam_the_intrepid" GUID="ILZCwhF3sEuU0Z4xBHoHkg==" iconFile="Img/Icons/Fight.png" fadeNear="1500" fadeFar="2000" mapVisibility="0" miniMapVisibility="0"/>
+
+		<!-- ZIADIH THE FEARLESS -->
+		<POI MapID="1248" xpos="718.398" ypos="120.928" zpos="350.204" type="path_of_fire.domain_of_vabbi.ziadih_the_fearless" GUID="lbYQP841Y0ObWCgHWyMuKg=="/>
+		<POI MapID="1248" xpos="718.398" ypos="126"     zpos="350.204" type="path_of_fire.domain_of_vabbi.ziadih_the_fearless" GUID="CuMP+ithU0mfpQHtVtjokA==" iconFile="Img/Icons/Fight.png" fadeNear="1500" fadeFar="2000" mapVisibility="0" miniMapVisibility="0"/>
+
+		<!-- ZOMI THE ACCOMPLISHED -->
+		<POI MapID="1248" xpos="-31.0239" ypos="131.806" zpos="6.59246" type="path_of_fire.domain_of_vabbi.zomi_the_accomplished" GUID="fIZxXHo7502rkqkRP+yC8Q=="/>
+		<POI MapID="1248" xpos="-32.9945" ypos="131.806" zpos="4.68405" type="path_of_fire.domain_of_vabbi.zomi_the_accomplished" GUID="opCcr/b+RkmaxFvcs4fpgg==" iconFile="Img/PoF/ZomiTheAccomplished.png" color="ff00ff00" minSize="64" maxSize="64" fadeNear="1500" fadeFar="1500" mapVisibility="0" miniMapVisibility="0"/>
+
+	</POIs>
+</OverlayData>

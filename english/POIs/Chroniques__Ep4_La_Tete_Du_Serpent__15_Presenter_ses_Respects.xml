@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+POIs: ReActif.9251
+Date: 2017/02/12
+-->
+<OverlayData>
+	<MarkerCategory name="chroniques.saison_3">
+		<MarkerCategory name="ep4_la_tete_du_serpent" DisplayName="Ep.4 - The Head of the Snake" iconFile="Img\LacDoric.png">
+			<MarkerCategory name="presenter_ses_respects" DisplayName="Paying Respects"/>
+		</MarkerCategory>
+	</MarkerCategory>
+
+	<POIs>
+
+		<!-- Se Mettre à Genoux -->
+		<POI MapID="1185" xpos="-267.16" ypos="100.46" zpos="712.43" type="chroniques.saison_3.ep4_la_tete_du_serpent.presenter_ses_respects" GUID="jIKg2cuTo02n5mIbQ7ZPvg=="/>
+		<POI MapID="1185" xpos="-267.72" ypos="102" zpos="711.82" type="chroniques.saison_3.ep4_la_tete_du_serpent.presenter_ses_respects" GUID="qLjioUkVDkiiOdtRF330Lw==" iconFile="Img\EmoteGenoux-EN.png"/>
+
+	</POIs>
+</OverlayData>

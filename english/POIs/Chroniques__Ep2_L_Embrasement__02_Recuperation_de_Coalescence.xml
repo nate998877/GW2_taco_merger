@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+POIs: ReActif.9251
+Date: 2017/03/01
+-->
+<OverlayData>
+	<MarkerCategory name="chroniques.saison_3">
+		<MarkerCategory name="ep2_l_embrasement" DisplayName="Ep.2 - Rising Flames" iconFile="Img\BaieDesBraises.png">
+			<MarkerCategory name="recuperation_de_coalescence" DisplayName="Collecting Coalescence"/>
+		</MarkerCategory>
+	</MarkerCategory>
+
+	<POIs>
+
+		<!-- Plaines de lave -->
+		<POI MapID="1175" xpos="224.99" ypos="29.2013" zpos="-264.324" type="chroniques.saison_3.ep2_l_embrasement.recuperation_de_coalescence" GUID="Ia6xU525KkKv8ATrB2Wy7g=="/>
+
+		<!-- Grotte en feu -->
+		<POI MapID="1175" xpos="422.929" ypos="3.13324" zpos="-594.769" type="chroniques.saison_3.ep2_l_embrasement.recuperation_de_coalescence" GUID="fBdhHQJsDEyirkhX94YTAg=="/>
+
+		<!-- Piliers de balbuzard -->
+		<POI MapID="1175" xpos="-416.273" ypos="14.0864" zpos="-875.262" type="chroniques.saison_3.ep2_l_embrasement.recuperation_de_coalescence" GUID="/IHnjsLheke3LxHXz7jECA=="/>
+
+	</POIs>
+</OverlayData>

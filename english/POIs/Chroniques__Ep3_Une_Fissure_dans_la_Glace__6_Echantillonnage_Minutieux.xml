@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+POIs: ReActif.9251
+Date: 2017/01/04
+-->
+<OverlayData>
+	<MarkerCategory name="chroniques.saison_3">
+		<MarkerCategory name="ep3_une_fissure_dans_la_glace" DisplayName="Ep.3 - A Crack in the Ice" iconFile="Img\ConfinsDeGivramer.png">
+			<MarkerCategory name="echantillonnage_minutieux" DisplayName="Thorough Sampling" heightOffset="0"/>
+		</MarkerCategory>
+	</MarkerCategory>
+
+	<POIs>
+
+		<!-- Fournitures Svanir -->
+		<POI MapID="1178" xpos="-735.14" ypos="37.72" zpos="-68.69" type="chroniques.saison_3.ep3_une_fissure_dans_la_glace.echantillonnage_minutieux" GUID="s4XatPR/QkOWf4pkDquk4w=="/>
+
+		<!-- Profondeurs des Sources Chaudes -->
+		<POI MapID="1178" xpos="542.877" ypos="-187.623" zpos="-296.416" type="chroniques.saison_3.ep3_une_fissure_dans_la_glace.echantillonnage_minutieux" GUID="oCqA5TtOkEuTrd4fkTgQBQ=="/>
+
+		<!-- Horde du Hurleur -->
+		<POI MapID="1178" xpos="465.061" ypos="61.6798" zpos="-82.7978" type="chroniques.saison_3.ep3_une_fissure_dans_la_glace.echantillonnage_minutieux" GUID="qh8GVgTtvk29HKJaG3/39g=="/>
+
+		<!-- Cache de Woomulla (Spot Aléatoire) -->
+		<!-- Équipement du Vol d'Aigle (Spot Aléatoire) -->
+		<!-- Ravitaillement de Woomulla (Spot Aléatoire) -->
+		<POI MapID="1178" xpos="-668.816" ypos="113.289" zpos="183.884" type="chroniques.saison_3.ep3_une_fissure_dans_la_glace.echantillonnage_minutieux" GUID="tiLavSeMw0CG5UW/jXdUpQ==" iconFile="Img\ConfinsDeGivramerAleatoire.png"/>
+		<POI MapID="1178" xpos="-620.775" ypos="91.9973" zpos="102.071" type="chroniques.saison_3.ep3_une_fissure_dans_la_glace.echantillonnage_minutieux" GUID="1smPQjwz50OlONzuN4b9Xg==" iconFile="Img\ConfinsDeGivramerAleatoire.png"/>
+		<POI MapID="1178" xpos="-606.302" ypos="80.3701" zpos="54.0234" type="chroniques.saison_3.ep3_une_fissure_dans_la_glace.echantillonnage_minutieux" GUID="n6YmTqcUyEmvLv31ZMnpRA==" iconFile="Img\ConfinsDeGivramerAleatoire.png"/>
+		<POI MapID="1178" xpos="-542.35" ypos="81.48" zpos="166" type="chroniques.saison_3.ep3_une_fissure_dans_la_glace.echantillonnage_minutieux" GUID="5MmKu7MOV06wjgnWw+Aplw==" iconFile="Img\ConfinsDeGivramerAleatoire.png"/>
+		<POI MapID="1178" xpos="-530.501" ypos="74.4365" zpos="5.81144" type="chroniques.saison_3.ep3_une_fissure_dans_la_glace.echantillonnage_minutieux" GUID="V1wgYtnI8UKsuDuZYXcEjA==" iconFile="Img\ConfinsDeGivramerAleatoire.png"/>
+		<POI MapID="1178" xpos="-527.193" ypos="109.219" zpos="248.535" type="chroniques.saison_3.ep3_une_fissure_dans_la_glace.echantillonnage_minutieux" GUID="RPL/GhpHHEaGKvI9jjns7A==" iconFile="Img\ConfinsDeGivramerAleatoire.png"/>
+		<POI MapID="1178" xpos="-516.434" ypos="81.6478" zpos="27.8613" type="chroniques.saison_3.ep3_une_fissure_dans_la_glace.echantillonnage_minutieux" GUID="TnPFk1V1SkSbLgJHi0IqbA==" iconFile="Img\ConfinsDeGivramerAleatoire.png"/>
+		<POI MapID="1178" xpos="-470.838" ypos="91.9746" zpos="40.2184" type="chroniques.saison_3.ep3_une_fissure_dans_la_glace.echantillonnage_minutieux" GUID="s1Y2U0ZpO0Od+rco9iE0Jg==" iconFile="Img\ConfinsDeGivramerAleatoire.png"/>
+		<POI MapID="1178" xpos="-463.051" ypos="96.8904" zpos="-27.5607" type="chroniques.saison_3.ep3_une_fissure_dans_la_glace.echantillonnage_minutieux" GUID="ft4CSU3lNUCr27doxkzUFA==" iconFile="Img\ConfinsDeGivramerAleatoire.png"/>
+		<POI MapID="1178" xpos="-416.671" ypos="110.004" zpos="251.465" type="chroniques.saison_3.ep3_une_fissure_dans_la_glace.echantillonnage_minutieux" GUID="QnZYIdss80e4ULNYx2tjTg==" iconFile="Img\ConfinsDeGivramerAleatoire.png"/>
+		<POI MapID="1178" xpos="-410.60" ypos="82.16" zpos="152.75" type="chroniques.saison_3.ep3_une_fissure_dans_la_glace.echantillonnage_minutieux" GUID="/JGVOmxmZUihwnugedrs1w==" iconFile="Img\ConfinsDeGivramerAleatoire.png"/>
+		<POI MapID="1178" xpos="-359.78" ypos="99.16" zpos="176.31" type="chroniques.saison_3.ep3_une_fissure_dans_la_glace.echantillonnage_minutieux" GUID="UO1XOtrIGEG+siO1ECZHWA==" iconFile="Img\ConfinsDeGivramerAleatoire.png"/>
+		<POI MapID="1178" xpos="-297.124" ypos="116.635" zpos="297.8" type="chroniques.saison_3.ep3_une_fissure_dans_la_glace.echantillonnage_minutieux" GUID="lx3ujKjv20iK8/60c/GnQg==" iconFile="Img\ConfinsDeGivramerAleatoire.png"/>
+		<POI MapID="1178" xpos="-270.51" ypos="94.87" zpos="241.34" type="chroniques.saison_3.ep3_une_fissure_dans_la_glace.echantillonnage_minutieux" GUID="Lb/wrgD5eEaFLmt+r0kSuQ==" iconFile="Img\ConfinsDeGivramerAleatoire.png"/>
+
+		<!-- Réserves de la Cascade Gelée -->
+		<POI MapID="1178" xpos="-652.048" ypos="58.4588" zpos="279.608" type="chroniques.saison_3.ep3_une_fissure_dans_la_glace.echantillonnage_minutieux" GUID="0CW2Z7TlwUmo6HgOxbuzzg=="/>
+
+		<!-- Provisions Grawl -->
+		<POI MapID="1178" xpos="147.62" ypos="16.4745" zpos="415.475" type="chroniques.saison_3.ep3_une_fissure_dans_la_glace.echantillonnage_minutieux" GUID="6qbazwVk+UmAa1BSNmmMxQ=="/>
+
+		<!-- Réserves de Pierres de Feu -->
+		<POI MapID="1178" xpos="-26.2461" ypos="2.27364" zpos="361.913" type="chroniques.saison_3.ep3_une_fissure_dans_la_glace.echantillonnage_minutieux" GUID="zQZJ/NYbNUSoi12lCTINrg=="/>
+
+		<!-- Œuf de Nid Kodan -->
+		<POI MapID="1178" xpos="18.5996" ypos="45.3397" zpos="-104.174" type="chroniques.saison_3.ep3_une_fissure_dans_la_glace.echantillonnage_minutieux" GUID="JdDOPABXVUObG2+h1+9fgQ=="/>
+
+		<!-- Armoire de Chevet : Thoorne (clé) -->
+		<POI MapID="1178" xpos="3.24849" ypos="-94.6764" zpos="-92.1333" type="chroniques.saison_3.ep3_une_fissure_dans_la_glace.echantillonnage_minutieux" GUID="n9+3DVMdm0ynMdOjHieonQ==" iconFile="Img\Cle.png" iconSize="0.75" heightOffset="3" behavior="0"/>
+		<!-- Armoire de Chevet -->
+		<POI MapID="1178" xpos="14.6275" ypos="-152.215" zpos="-81.9368" type="chroniques.saison_3.ep3_une_fissure_dans_la_glace.echantillonnage_minutieux" GUID="JboWdYo8C0q6+wojnXEpgw=="/>
+
+		<!-- Dangereux Surplus de Marchandise -->
+		<POI MapID="1178" xpos="791.366" ypos="80.5262" zpos="-172.261" type="chroniques.saison_3.ep3_une_fissure_dans_la_glace.echantillonnage_minutieux" GUID="kgzvd4EHCk6/k2dL1M5kyg=="/>
+
+		<!-- Caisse à Vapeur -->
+		<POI MapID="1178" xpos="466.621" ypos="127.927" zpos="-447.388" type="chroniques.saison_3.ep3_une_fissure_dans_la_glace.echantillonnage_minutieux" GUID="/YlqrfpROkKnUxsDpx9rtw=="/>
+
+		<!-- Réserve de Trio de Champignons -->
+		<POI MapID="1178" xpos="-95.5671" ypos="58.0038" zpos="-334.206" type="chroniques.saison_3.ep3_une_fissure_dans_la_glace.echantillonnage_minutieux" GUID="U3/JKqWD+0mmugag3KVzpQ=="/>
+
+		<!-- Restes Instables -->
+		<POI MapID="1178" xpos="836.864" ypos="1.67526" zpos="330.233" type="chroniques.saison_3.ep3_une_fissure_dans_la_glace.echantillonnage_minutieux" GUID="oioWlE4Y70+njosfOUxNKw=="/>
+
+		<!-- Malle de Plongée -->
+		<POI MapID="1178" xpos="771.189" ypos="-9.68861" zpos="155.935" type="chroniques.saison_3.ep3_une_fissure_dans_la_glace.echantillonnage_minutieux" GUID="MWf+PxYND0mzRGu+vygnKQ=="/>
+
+		<!-- Paquet de la Saillie Gelée -->
+		<POI MapID="1178" xpos="792.567" ypos="52.7322" zpos="28.906" type="chroniques.saison_3.ep3_une_fissure_dans_la_glace.echantillonnage_minutieux" GUID="7VWhk2Vts0aWgZK3gEFLdw=="/>
+
+		<!-- Caisse du Pont Gelé -->
+		<POI MapID="1178" xpos="568.351" ypos="45.0233" zpos="223.154" type="chroniques.saison_3.ep3_une_fissure_dans_la_glace.echantillonnage_minutieux" GUID="hmBG9SUTR0CMf+cgLN6bNA=="/>
+
+		<!-- Coffre du Pic Gelé -->
+		<POI MapID="1178" xpos="689.558" ypos="19.0187" zpos="215.382" type="chroniques.saison_3.ep3_une_fissure_dans_la_glace.echantillonnage_minutieux" GUID="sDJVilTJQ0mpD4shBPabBA=="/>
+
+	</POIs>
+</OverlayData>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+POIs: ReActif.9251
+Date: 2017/08/11
+-->
+<OverlayData>
+	<MarkerCategory name="chroniques.saison_3">
+		<MarkerCategory name="ep5_point_d_ignition" DisplayName="Ep.5 - Flashpoint" iconFile="Img\MontDraconis.png">
+			<MarkerCategory name="connaissance_du_mont_draconis__mer_bouillante_occidentale" DisplayName="Draconis Mons Insight: Western Boiling Sea" heightOffset="5">
+				<MarkerCategory name="acces" DisplayName="Guide" iconFile="Img\Guide.png" iconSize="0.75" heightOffset="0" behavior="0"/>
+			</MarkerCategory>
+		</MarkerCategory>
+	</MarkerCategory>
+
+	<POIs>
+
+		<!-- Point de maîtrise -->
+		<POI MapID="1195" xpos="-159.06" ypos="50.1468" zpos="-61.4861" type="chroniques.saison_3.ep5_point_d_ignition.connaissance_du_mont_draconis__mer_bouillante_occidentale" GUID="bPmrI2uI7UWdvwLqhopzTg=="/>
+
+		<!-- Accès -->
+		<Route MapID="1195" name="Mer_Bouillante_Occidentale" resetposx="-29.64" resetposy="253.28" resetposz="112.96" resetrange="1">
+			<POI MapID="1195" xpos="-34.9695" ypos="253.5"   zpos="110.022"   type="chroniques.saison_3.ep5_point_d_ignition.connaissance_du_mont_draconis__mer_bouillante_occidentale.acces" GUID="GcM69CJNrESoBrYTBKDIcQ==" iconFile="Img\Fleche.png" iconSize="1" heightOffset="1.5"/>
+			<POI MapID="1195" xpos="-41.4128" ypos="253.803" zpos="106.293"   type="chroniques.saison_3.ep5_point_d_ignition.connaissance_du_mont_draconis__mer_bouillante_occidentale.acces" GUID="OmOTJ2ENWUeMRvW3ra4wGQ=="/>
+			<POI MapID="1195" xpos="-49.8428" ypos="253.968" zpos="101.482"   type="chroniques.saison_3.ep5_point_d_ignition.connaissance_du_mont_draconis__mer_bouillante_occidentale.acces" GUID="MI+xUYPThU+ZX5Ek33FR5w=="/>
+			<POI MapID="1195" xpos="-58.2977" ypos="254.06"  zpos="96.716"    type="chroniques.saison_3.ep5_point_d_ignition.connaissance_du_mont_draconis__mer_bouillante_occidentale.acces" GUID="hzBvIi1XGEmKl6GrDh972w=="/>
+			<POI MapID="1195" xpos="-66.8421" ypos="252.972" zpos="92.1383"   type="chroniques.saison_3.ep5_point_d_ignition.connaissance_du_mont_draconis__mer_bouillante_occidentale.acces" GUID="WVxDPyLB1kSUuLLQz6F16Q=="/>
+			<POI MapID="1195" xpos="-75.5345" ypos="252.965" zpos="87.8286"   type="chroniques.saison_3.ep5_point_d_ignition.connaissance_du_mont_draconis__mer_bouillante_occidentale.acces" GUID="+nWK2zaKWEyj43ujXVSHyw=="/>
+			<POI MapID="1195" xpos="-84.7804" ypos="252.702" zpos="83.8157"   type="chroniques.saison_3.ep5_point_d_ignition.connaissance_du_mont_draconis__mer_bouillante_occidentale.acces" GUID="fWwiTbD5KUmhRuaEFPn/Xg=="/>
+			<POI MapID="1195" xpos="-94.077"  ypos="253.009" zpos="80.0116"   type="chroniques.saison_3.ep5_point_d_ignition.connaissance_du_mont_draconis__mer_bouillante_occidentale.acces" GUID="74YtXwRzO0yP54I9yAICgA=="/>
+			<POI MapID="1195" xpos="-102.352" ypos="252.879" zpos="76.5624"   type="chroniques.saison_3.ep5_point_d_ignition.connaissance_du_mont_draconis__mer_bouillante_occidentale.acces" GUID="GL6Gh1ugdUGeXxTvHgE19g=="/>
+			<POI MapID="1195" xpos="-110.804" ypos="252.165" zpos="71.7973"   type="chroniques.saison_3.ep5_point_d_ignition.connaissance_du_mont_draconis__mer_bouillante_occidentale.acces" GUID="wj/eTaHSKU2NnnuFspjApw=="/>
+			<POI MapID="1195" xpos="-119.612" ypos="251.887" zpos="65.5054"   type="chroniques.saison_3.ep5_point_d_ignition.connaissance_du_mont_draconis__mer_bouillante_occidentale.acces" GUID="g2xgYaxhLUKRAV75pcefUA=="/>
+			<POI MapID="1195" xpos="-126.572" ypos="251.739" zpos="58.786"    type="chroniques.saison_3.ep5_point_d_ignition.connaissance_du_mont_draconis__mer_bouillante_occidentale.acces" GUID="HhuU6Ze+Z0Oa5IrbDONbfw=="/>
+			<POI MapID="1195" xpos="-131.622" ypos="251.807" zpos="51.8435"   type="chroniques.saison_3.ep5_point_d_ignition.connaissance_du_mont_draconis__mer_bouillante_occidentale.acces" GUID="OwxQtQPPAkGrlBpRT+9u4w=="/>
+			<POI MapID="1195" xpos="-136.318" ypos="251.988" zpos="44.22"     type="chroniques.saison_3.ep5_point_d_ignition.connaissance_du_mont_draconis__mer_bouillante_occidentale.acces" GUID="pL0jJPUyyUCY75wdDGEuEw=="/>
+			<POI MapID="1195" xpos="-142.359" ypos="252.385" zpos="36.8121"   type="chroniques.saison_3.ep5_point_d_ignition.connaissance_du_mont_draconis__mer_bouillante_occidentale.acces" GUID="nG96aK8bZUmxtTAl+L5Yjg=="/>
+			<POI MapID="1195" xpos="-149.956" ypos="249.317" zpos="30.9447"   type="chroniques.saison_3.ep5_point_d_ignition.connaissance_du_mont_draconis__mer_bouillante_occidentale.acces" GUID="DflmB4bmR0iyLg4P0rC1tQ=="/>
+			<POI MapID="1195" xpos="-157.774" ypos="249.906" zpos="25.2203"   type="chroniques.saison_3.ep5_point_d_ignition.connaissance_du_mont_draconis__mer_bouillante_occidentale.acces" GUID="DhQKP71JrkeDQV7e2tf2Sg=="/>
+			<POI MapID="1195" xpos="-165.428" ypos="250.478" zpos="19.2777"   type="chroniques.saison_3.ep5_point_d_ignition.connaissance_du_mont_draconis__mer_bouillante_occidentale.acces" GUID="DQuYcFDClUqWbGl90bfYfw=="/>
+			<POI MapID="1195" xpos="-172.565" ypos="251.388" zpos="13.3381"   type="chroniques.saison_3.ep5_point_d_ignition.connaissance_du_mont_draconis__mer_bouillante_occidentale.acces" GUID="y+qt1djlNkmdB2xTb4q/Cw=="/>
+			<POI MapID="1195" xpos="-180.833" ypos="252.15"  zpos="6.39781"   type="chroniques.saison_3.ep5_point_d_ignition.connaissance_du_mont_draconis__mer_bouillante_occidentale.acces" GUID="wdOioMK7q0WU2Md6teX5+w=="/>
+			<POI MapID="1195" xpos="-188.38"  ypos="252.271" zpos="-0.278449" type="chroniques.saison_3.ep5_point_d_ignition.connaissance_du_mont_draconis__mer_bouillante_occidentale.acces" GUID="FN2q6cZYm0+9BgMbB2oRDw=="/>
+			<POI MapID="1195" xpos="-193.935" ypos="252.29"  zpos="-6.8126"   type="chroniques.saison_3.ep5_point_d_ignition.connaissance_du_mont_draconis__mer_bouillante_occidentale.acces" GUID="QvPZNiJRY0yTSTdBT741/g=="/>
+			<POI MapID="1195" xpos="-199.532" ypos="251.218" zpos="-14.1033"  type="chroniques.saison_3.ep5_point_d_ignition.connaissance_du_mont_draconis__mer_bouillante_occidentale.acces" GUID="lSoZNevHTECjFR8kpkxVCw=="/>
+			<POI MapID="1195" xpos="-206.145" ypos="249.102" zpos="-21.4587"  type="chroniques.saison_3.ep5_point_d_ignition.connaissance_du_mont_draconis__mer_bouillante_occidentale.acces" GUID="SAl0Y61I9k2qhSh594/m5Q=="/>
+			<POI MapID="1195" xpos="-211.928" ypos="244.91"  zpos="-28.1017"  type="chroniques.saison_3.ep5_point_d_ignition.connaissance_du_mont_draconis__mer_bouillante_occidentale.acces" GUID="CPkXEMZCKEasRqXb+PqAGw=="/>
+			<POI MapID="1195" xpos="-217.521" ypos="241.639" zpos="-33.8547"  type="chroniques.saison_3.ep5_point_d_ignition.connaissance_du_mont_draconis__mer_bouillante_occidentale.acces" GUID="WVSBcgaplk6XassiAtFgqA=="/>
+			<POI MapID="1195" xpos="-224.941" ypos="239.998" zpos="-40.9101"  type="chroniques.saison_3.ep5_point_d_ignition.connaissance_du_mont_draconis__mer_bouillante_occidentale.acces" GUID="/wXJ7zfybkyOHIdI7JW7Kw==" iconFile="Img\DeltaplaneDepart-EN.png"/>
+			<POI MapID="1195" xpos="-230.938" ypos="222.532" zpos="-46.6716"  type="chroniques.saison_3.ep5_point_d_ignition.connaissance_du_mont_draconis__mer_bouillante_occidentale.acces" GUID="61joCMZ+lEmMZm4QDNDiFQ==" iconFile="Img\Deltaplane.png" triggerRange="15"/>
+			<POI MapID="1195" xpos="-232.155" ypos="199.742" zpos="-47.9357"  type="chroniques.saison_3.ep5_point_d_ignition.connaissance_du_mont_draconis__mer_bouillante_occidentale.acces" GUID="COk0JcwxG0qWm/h2sudFOw==" iconFile="Img\Deltaplane.png" triggerRange="15"/>
+			<POI MapID="1195" xpos="-232.255" ypos="176.854" zpos="-48.0391"  type="chroniques.saison_3.ep5_point_d_ignition.connaissance_du_mont_draconis__mer_bouillante_occidentale.acces" GUID="kKLWkpdVekaKVStJlBVyQg==" iconFile="Img\Deltaplane.png" triggerRange="15"/>
+			<POI MapID="1195" xpos="-232.263" ypos="152.926" zpos="-48.0476"  type="chroniques.saison_3.ep5_point_d_ignition.connaissance_du_mont_draconis__mer_bouillante_occidentale.acces" GUID="DL/fR2qfHkajgXdjhEW6dA==" iconFile="Img\Deltaplane.png" triggerRange="15"/>
+			<POI MapID="1195" xpos="-232.263" ypos="128.997" zpos="-48.0482"  type="chroniques.saison_3.ep5_point_d_ignition.connaissance_du_mont_draconis__mer_bouillante_occidentale.acces" GUID="nTi8iCIV/UeL3D8CbdyIug==" iconFile="Img\Deltaplane.png" triggerRange="15"/>
+			<POI MapID="1195" xpos="-221.753" ypos="115.118" zpos="-49.7844"  type="chroniques.saison_3.ep5_point_d_ignition.connaissance_du_mont_draconis__mer_bouillante_occidentale.acces" GUID="pX4xgPH5LEqKYesZ8tEhVQ==" iconFile="Img\Deltaplane.png" triggerRange="15"/>
+			<POI MapID="1195" xpos="-204.7"   ypos="108.475" zpos="-52.8132"  type="chroniques.saison_3.ep5_point_d_ignition.connaissance_du_mont_draconis__mer_bouillante_occidentale.acces" GUID="nVdgJb2Ir0+dH3Eixd0fyg==" iconFile="Img\Deltaplane.png" triggerRange="15"/>
+			<POI MapID="1195" xpos="-188.613" ypos="102.175" zpos="-56.1438"  type="chroniques.saison_3.ep5_point_d_ignition.connaissance_du_mont_draconis__mer_bouillante_occidentale.acces" GUID="hRh1ks9R1kiYRHuIYnclBQ==" iconFile="Img\Deltaplane.png" triggerRange="15"/>
+			<POI MapID="1195" xpos="-175.45"  ypos="97.0206" zpos="-58.8691"  type="chroniques.saison_3.ep5_point_d_ignition.connaissance_du_mont_draconis__mer_bouillante_occidentale.acces" GUID="bivdzs1XO0ShmrG5NNTrnA==" iconFile="Img\Deltaplane.png" triggerRange="15"/>
+			<POI MapID="1195" xpos="-162.897" ypos="74.0485" zpos="-61.273"   type="chroniques.saison_3.ep5_point_d_ignition.connaissance_du_mont_draconis__mer_bouillante_occidentale.acces" GUID="P/JGiR4870Oy7NYllpsERQ==" iconFile="Img\Deltaplane.png" triggerRange="15"/>
+		</Route>
+
+	</POIs>
+</OverlayData>

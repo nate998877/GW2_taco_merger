@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+POIs: Destiny FNC.5018 - Xenophy.2716 - ReActif.9251
+Date: 2017/08/23
+-->
+<OverlayData>
+	<MarkerCategory name="general" DisplayName="General">
+		<MarkerCategory name="puzzles_de_saut" DisplayName="Jumping Puzzles" iconFile="Img\Guide.png" iconSize="0.75">
+			<MarkerCategory name="sanctuaire_d_emeraude" DisplayName="Emerald Sanctum"/>
+		</MarkerCategory>
+	</MarkerCategory>
+
+	<POIs>
+
+		<!--
+		Territoires frontaliers alpins (Vert)
+		-->
+
+		<!-- Début -->
+		<POI MapID="95" xpos="-580.947" ypos="32.3365" zpos="577.049" type="general.puzzles_de_saut.debut" GUID="UrGCAkoqD0iJIMgEbFLqkg=="/>
+
+		<!-- Route -->
+		<Route MapID="95" name="Caveau_des_Brumes_Vert" resetposx="-580.947" resetposy="32.3365" resetposz="577.049" resetrange="2">
+			<POI MapID="95" xpos="-585.998" ypos="34.8818" zpos="566.457" type="general.puzzles_de_saut.sanctuaire_d_emeraude" GUID="laMc2ktmd0Wevam8fLd4Ig=="/>
+			<POI MapID="95" xpos="-593.069" ypos="45.1484" zpos="543.047" type="general.puzzles_de_saut.sanctuaire_d_emeraude" GUID="FXqoKLJ520evhUpj8WxyyQ=="/>
+			<POI MapID="95" xpos="-597.51" ypos="49.7149" zpos="533.143" type="general.puzzles_de_saut.sanctuaire_d_emeraude" GUID="aI6mYWQy602//RLuRVgS9A=="/>
+			<POI MapID="95" xpos="-598.82" ypos="56.4456" zpos="519.821" type="general.puzzles_de_saut.sanctuaire_d_emeraude" GUID="dgEWwn189U2OE2w6drdn9g=="/>
+			<POI MapID="95" xpos="-638.041" ypos="56.8785" zpos="505.676" type="general.puzzles_de_saut.sanctuaire_d_emeraude" GUID="JyP86w4+8Uu6Uiqc9Agidw=="/>
+			<POI MapID="95" xpos="-648.754" ypos="30.9517" zpos="489.866" type="general.puzzles_de_saut.sanctuaire_d_emeraude" GUID="ljGB2bQSU0ieh2+sA8gsfA=="/>
+			<POI MapID="95" xpos="-679.667" ypos="27.8744" zpos="470.682" type="general.puzzles_de_saut.sanctuaire_d_emeraude" GUID="N/ZZl1E2ZU6++u9GVVfwLg=="/>
+			<POI MapID="95" xpos="-707.419" ypos="28.2258" zpos="464.761" type="general.puzzles_de_saut.sanctuaire_d_emeraude" GUID="hwwPhaabEkWziFgXgaAQiw=="/>
+			<POI MapID="95" xpos="-719.884" ypos="25.7615" zpos="471.691" type="general.puzzles_de_saut.sanctuaire_d_emeraude" GUID="xI2ZNKDAAU+aJY7I64fIwQ=="/>
+			<POI MapID="95" xpos="-728.486" ypos="20.2718" zpos="463.768" type="general.puzzles_de_saut.sanctuaire_d_emeraude" GUID="l77D1i7cHEeyTlEEd46EVQ=="/>
+			<POI MapID="95" xpos="-732.1" ypos="21.5439" zpos="453.366" type="general.puzzles_de_saut.sanctuaire_d_emeraude" GUID="2ezpexwCpEemZSoRn6EyeA=="/>
+			<POI MapID="95" xpos="-732.126" ypos="25.9125" zpos="449.104" type="general.puzzles_de_saut.sanctuaire_d_emeraude" GUID="TNwg3tnRM0emAE5sAb4ypw=="/>
+			<POI MapID="95" xpos="-727.292" ypos="25.7421" zpos="438.932" type="general.puzzles_de_saut.sanctuaire_d_emeraude" GUID="Cm22vsqfzkau0hToqQkAVQ=="/>
+			<POI MapID="95" xpos="-724.918" ypos="26.3979" zpos="426.916" type="general.puzzles_de_saut.sanctuaire_d_emeraude" GUID="E0xQ/scFTkukajmnVWRlyg=="/>
+			<POI MapID="95" xpos="-724.154" ypos="27.4768" zpos="421.146" type="general.puzzles_de_saut.sanctuaire_d_emeraude" GUID="nlN3XB+mz0C00NVBw9I7yA=="/>
+			<POI MapID="95" xpos="-731.971" ypos="31.3442" zpos="415.177" type="general.puzzles_de_saut.sanctuaire_d_emeraude" GUID="i6yhMw/7QE2vTDUUaq3CdQ=="/>
+			<POI MapID="95" xpos="-749.656" ypos="34.6874" zpos="423.848" type="general.puzzles_de_saut.sanctuaire_d_emeraude" GUID="fP96uWnI7UG5RGzhx4elrg=="/>
+			<POI MapID="95" xpos="-759.665" ypos="37.169" zpos="443.078" type="general.puzzles_de_saut.sanctuaire_d_emeraude" GUID="fD98xjj640+rSaUN/+BTew=="/>
+			<POI MapID="95" xpos="-762.491" ypos="41.3316" zpos="454.796" type="general.puzzles_de_saut.sanctuaire_d_emeraude" GUID="qEKLu0I/uUWA13jBy2ZbZw=="/>
+			<POI MapID="95" xpos="-759.836" ypos="43.1827" zpos="463.416" type="general.puzzles_de_saut.sanctuaire_d_emeraude" GUID="N0nt5s2kqU+UySURfgwIEA=="/>
+			<POI MapID="95" xpos="-748.147" ypos="40.748" zpos="465.203" type="general.puzzles_de_saut.sanctuaire_d_emeraude" GUID="dukx6ISPSEu8YdKevoXGAA=="/>
+			<POI MapID="95" xpos="-738.522" ypos="45.5142" zpos="478.475" type="general.puzzles_de_saut.sanctuaire_d_emeraude" GUID="KKZ78HW3/UCn8sZA1oyvtg=="/>
+			<POI MapID="95" xpos="-739.584" ypos="23.534" zpos="483.935" type="general.puzzles_de_saut.sanctuaire_d_emeraude" GUID="3hoAKmB6jkS5UKmXInpLww=="/>
+			<POI MapID="95" xpos="-748.721" ypos="25.0184" zpos="484.036" type="general.puzzles_de_saut.sanctuaire_d_emeraude" GUID="LVe9pvn2ekCeQeWLifLrxw=="/>
+			<POI MapID="95" xpos="-757.344" ypos="28.7177" zpos="484.357" type="general.puzzles_de_saut.sanctuaire_d_emeraude" GUID="k3zkremvTUe/scwiX8E5Wg=="/>
+			<POI MapID="95" xpos="-761.841" ypos="31.7115" zpos="489.093" type="general.puzzles_de_saut.sanctuaire_d_emeraude" GUID="gV0KfbwRSU2Or5QD4smlgA=="/>
+			<POI MapID="95" xpos="-765.925" ypos="38.0946" zpos="501.399" type="general.puzzles_de_saut.sanctuaire_d_emeraude" GUID="Xa9zoXJRaUemeJXT9Pq0fQ=="/>
+			<POI MapID="95" xpos="-747.48" ypos="42.5424" zpos="507.826" type="general.puzzles_de_saut.sanctuaire_d_emeraude" GUID="v3m0UDeGIEm8F/bbOHTBug=="/>
+			<POI MapID="95" xpos="-750.689" ypos="42.0704" zpos="495.992" type="general.puzzles_de_saut.sanctuaire_d_emeraude" GUID="dbaeNnnPEUGHgkOjuasDDA=="/>
+			<POI MapID="95" xpos="-756.736" ypos="42.8994" zpos="493.859" type="general.puzzles_de_saut.sanctuaire_d_emeraude" GUID="hDkDCrsX8kGy2yipULs29Q=="/>
+			<POI MapID="95" xpos="-751.363" ypos="47.8802" zpos="486.322" type="general.puzzles_de_saut.sanctuaire_d_emeraude" GUID="7IN4Db45ckqkZXdK/N/8ug=="/>
+			<POI MapID="95" xpos="-756.819" ypos="51.0792" zpos="484.183" type="general.puzzles_de_saut.sanctuaire_d_emeraude" GUID="2xSmpnvQek68h+Cv97rBxA=="/>
+			<POI MapID="95" xpos="-761.751" ypos="53.2178" zpos="489.271" type="general.puzzles_de_saut.sanctuaire_d_emeraude" GUID="NVmTHsBfV0+FFM1E7GN1+g=="/>
+			<POI MapID="95" xpos="-773.396" ypos="47.6036" zpos="495.221" type="general.puzzles_de_saut.sanctuaire_d_emeraude" GUID="v9twoxij1U2bPoawV9QPUg=="/>
+			<POI MapID="95" xpos="-771.623" ypos="49.4251" zpos="503.15" type="general.puzzles_de_saut.sanctuaire_d_emeraude" GUID="W9WoVSF4EkKcr0dvflz6Ag=="/>
+			<POI MapID="95" xpos="-765.936" ypos="54.192" zpos="513.198" type="general.puzzles_de_saut.sanctuaire_d_emeraude" GUID="vdVNGw98aUeauSmOAUNvWQ=="/>
+			<POI MapID="95" xpos="-752.042" ypos="54.325" zpos="520.453" type="general.puzzles_de_saut.sanctuaire_d_emeraude" GUID="IPTroLwN1EafGE4xKB7BGQ=="/>
+			<POI MapID="95" xpos="-742.914" ypos="53.5974" zpos="518.917" type="general.puzzles_de_saut.sanctuaire_d_emeraude" GUID="YBkdzebhIEmuYUTTf3Gm7A=="/>
+			<POI MapID="95" xpos="-718.396" ypos="51.8099" zpos="514.713" type="general.puzzles_de_saut.sanctuaire_d_emeraude" GUID="8qjf2p0cPU6iiMIDQsUG1A=="/>
+			<POI MapID="95" xpos="-715.903" ypos="26.0358" zpos="512.162" type="general.puzzles_de_saut.sanctuaire_d_emeraude" GUID="Q5+iMN7FWkedhsCVJGJ4sg=="/>
+			<POI MapID="95" xpos="-721.279" ypos="28.4173" zpos="519.193" type="general.puzzles_de_saut.sanctuaire_d_emeraude" GUID="hlyu28vbHkyqeL7GGuGVYQ=="/>
+			<POI MapID="95" xpos="-725.443" ypos="27.4675" zpos="529.263" type="general.puzzles_de_saut.sanctuaire_d_emeraude" GUID="Eb772oRtnkWcwWqptCcYdA=="/>
+			<POI MapID="95" xpos="-723.704" ypos="24.6851" zpos="534.146" type="general.puzzles_de_saut.sanctuaire_d_emeraude" GUID="977hglCA1Ui+TwHiCgX9Rg=="/>
+			<POI MapID="95" xpos="-720.418" ypos="22.1096" zpos="540.03" type="general.puzzles_de_saut.sanctuaire_d_emeraude" GUID="n6UhUy6yTUmXk9q11rWQGw=="/>
+			<POI MapID="95" xpos="-724.521" ypos="22.5075" zpos="543.307" type="general.puzzles_de_saut.sanctuaire_d_emeraude" GUID="gzTsSjnqdUObnEdUke7RYg=="/>
+			<POI MapID="95" xpos="-725.524" ypos="22.2578" zpos="548.332" type="general.puzzles_de_saut.sanctuaire_d_emeraude" GUID="Zv0/yez0EkCckHSJI+WV7g=="/>
+			<POI MapID="95" xpos="-720.219" ypos="16.6445" zpos="557.364" type="general.puzzles_de_saut.sanctuaire_d_emeraude" GUID="qqAHdE/C4kileFMK0nMA6g=="/>
+			<POI MapID="95" xpos="-715.309" ypos="13.7569" zpos="566.057" type="general.puzzles_de_saut.sanctuaire_d_emeraude" GUID="JDB5kbfrdU+sM+TmF8zeKw=="/>
+			<POI MapID="95" xpos="-709.883" ypos="8.79223" zpos="573.676" type="general.puzzles_de_saut.sanctuaire_d_emeraude" GUID="0iBLETBdEUiZMum6M6f5sw=="/>
+			<POI MapID="95" xpos="-698.555" ypos="6.11258" zpos="571.762" type="general.puzzles_de_saut.sanctuaire_d_emeraude" GUID="JHPasSo8d0S9o4R7U7HSNg=="/>
+			<POI MapID="95" xpos="-690.319" ypos="8.72592" zpos="562.299" type="general.puzzles_de_saut.sanctuaire_d_emeraude" GUID="SR7z2SBex0W178zkuf0Avw=="/>
+			<POI MapID="95" xpos="-684.136" ypos="12.1218" zpos="560.92" type="general.puzzles_de_saut.sanctuaire_d_emeraude" GUID="r2uJ5TNf+0Cw8SHB757/Gg=="/>
+			<POI MapID="95" xpos="-688.823" ypos="14.4941" zpos="561.896" type="general.puzzles_de_saut.sanctuaire_d_emeraude" GUID="kjRGOEyRlEeyV2Rp1kgJKg=="/>
+			<POI MapID="95" xpos="-693.144" ypos="14.9521" zpos="563.053" type="general.puzzles_de_saut.sanctuaire_d_emeraude" GUID="yYjjNK3JQU+g7LUv5bTQbw=="/>
+			<POI MapID="95" xpos="-693.763" ypos="16.1461" zpos="566.826" type="general.puzzles_de_saut.sanctuaire_d_emeraude" GUID="rQMBA61tWEuUEzuv0wr0Yw=="/>
+			<POI MapID="95" xpos="-693.074" ypos="19.2967" zpos="566.097" type="general.puzzles_de_saut.sanctuaire_d_emeraude" GUID="Uz/p/YKW5Eqs14tXjaUhEw=="/>
+			<POI MapID="95" xpos="-692.514" ypos="20.2321" zpos="563.086" type="general.puzzles_de_saut.sanctuaire_d_emeraude" GUID="Ur5sMLjlH0mC9YXpP0FTng=="/>
+			<POI MapID="95" xpos="-691.047" ypos="22.887" zpos="563.394" type="general.puzzles_de_saut.sanctuaire_d_emeraude" GUID="9zBNFeakkkaPVMsHmKdPPA=="/>
+			<POI MapID="95" xpos="-692.461" ypos="25.6213" zpos="567.347" type="general.puzzles_de_saut.sanctuaire_d_emeraude" GUID="zaBcN4s8bUGOnR96Dhvk0A=="/>
+			<POI MapID="95" xpos="-695.227" ypos="27.8441" zpos="570.823" type="general.puzzles_de_saut.sanctuaire_d_emeraude" GUID="O9GdBA8F0kOzCntvd0SP3g=="/>
+			<POI MapID="95" xpos="-701.518" ypos="32.8209" zpos="577.271" type="general.puzzles_de_saut.sanctuaire_d_emeraude" GUID="oUsApcN4jUedNl9B514EJQ=="/>
+			<POI MapID="95" xpos="-586.25" ypos="40.502" zpos="553.443" type="general.puzzles_de_saut.sanctuaire_d_emeraude" GUID="TKKf8Qkv90+oCkNkX6cjBA=="/>
+			<POI MapID="95" xpos="-746.49" ypos="30.2301" zpos="386.165" type="general.puzzles_de_saut.sanctuaire_d_emeraude" GUID="KIE34csAzUyuqiondjNn9w=="/>
+		</Route>
+
+		<!-- Morceau de Cle 1 -->
+		<POI MapID="95" xpos="-754.152" ypos="34.678" zpos="367.488" type="general.puzzles_de_saut.sanctuaire_d_emeraude" GUID="Vty95MjAOEeIQ5YqzQ5D3w==" iconFile="Img\Cle.png" iconSize="1" behavior="2"/>
+		<!-- Morceau de Cle 2 -->
+		<POI MapID="95" xpos="-718.625" ypos="52.9473" zpos="528.16" type="general.puzzles_de_saut.sanctuaire_d_emeraude" GUID="uz7BaiRd2USCH/WuPD20ZQ==" iconFile="Img\Cle.png" iconSize="1" behavior="2"/>
+		<!-- Porte du Coffre -->
+		<POI MapID="95" xpos="-747.105" ypos="30.3948" zpos="382.863" type="general.puzzles_de_saut.sanctuaire_d_emeraude" GUID="SUb1Pkxm2EaHoWo2NWO/AA==" iconFile="Img\Interrupteur.png" iconSize="1"/>
+		<!-- Coffre -->
+		<POI MapID="95" xpos="-686.673" ypos="36.0637" zpos="579.737" type="general.puzzles_de_saut.sanctuaire_d_emeraude" GUID="5qsgduDLM0yldZS7CZuKjA==" iconFile="Img\CoffrePuzzle.png" iconSize="2" heightOffset="5" behavior="2"/>
+
+	</POIs>
+</OverlayData>
