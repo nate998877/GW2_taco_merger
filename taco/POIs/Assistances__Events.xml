@@ -1,22 +1,22 @@
 <!-- 2020.06.09 -->
 <OverlayData>
 	<POIs>
-
 		<!-- CRYSTAL OASIS - CASINO BLITZ -->
 		<!-- Round 1 -->
-		<Trail type="assistances.crystal_oasis.casino_blitz.round_1" GUID="61Tc5xVItU6ocyqsIThCbg==" trailData="Data/Assistances/CrystalOasis_CasinoBlitz_Round1.trl" texture="Data/SemiLine.png" color="ff00ff00" alpha="0.8" fadeNear="2000" fadeFar="3000" animSpeed="1" mapDisplaySize="20"/>
-		<POI MapID="1210" xpos="-765.001" ypos="41.0364" zpos="-184.013" type="assistances.crystal_oasis.casino_blitz.round_1" GUID="FbptnPUWYkaJeV3P3Z59jQ==" iconFile="Img/Assistances/Round1.png" minSize="18" maxSize="20" fadeNear="10000" fadeFar="12000" heightOffset="0" behavior="0"/>
-		<POI MapID="1210" xpos="-940.79"  ypos="8.62477" zpos="-207.353" type="assistances.crystal_oasis.casino_blitz.round_1" GUID="4K7BhlaA8UuU5s168gXb6w==" iconFile="Img/Signs/End.png"                       maxSize="16" fadeNear="3000"  fadeFar="4000"  heightOffset="0" inGameVisibility="0"/>
+		<Trail type="assistances.crystal_oasis.casino_blitz.round_1" GUID="61Tc5xVItU6ocyqsIThCbg==" trailData="Data/Assistances/CrystalOasis_CasinoBlitz_Round1.trl" texture="Data/SemiLine.png" color="ff00ff00" alpha="0.8" fadeNear="2000" fadeFar="3000" animSpeed="1" mapDisplaySize="20" />
+		<POI MapID="1210" xpos="-765.001" ypos="41.0364" zpos="-184.013" type="assistances.crystal_oasis.casino_blitz.round_1" GUID="FbptnPUWYkaJeV3P3Z59jQ==" iconFile="Img/Assistances/Round1.png" minSize="18" maxSize="20" fadeNear="10000" fadeFar="12000" heightOffset="0" behavior="0" />
+		<POI MapID="1210" xpos="-940.79" ypos="8.62477" zpos="-207.353" type="assistances.crystal_oasis.casino_blitz.round_1" GUID="4K7BhlaA8UuU5s168gXb6w==" iconFile="Img/Signs/End.png" maxSize="16" fadeNear="3000" fadeFar="4000" heightOffset="0" inGameVisibility="0" />
 		<!-- Round 2 -->
-		<Trail type="assistances.crystal_oasis.casino_blitz.round_2" GUID="qhO51gDONUayXYBBcxm9JQ==" trailData="Data/Assistances/CrystalOasis_CasinoBlitz_Round2.trl" texture="Data/SemiLine.png" color="ffffff00" alpha="0.8" fadeNear="2000" fadeFar="3000" animSpeed="1" mapDisplaySize="20"/>
-		<POI MapID="1210" xpos="-877.009" ypos="8.74384" zpos="-166.248" type="assistances.crystal_oasis.casino_blitz.round_2" GUID="hF4VejCixEqc8YKR6kU3IQ==" iconFile="Img/Assistances/Round2.png" minSize="18" maxSize="20" fadeNear="10000" fadeFar="12000" heightOffset="0" behavior="0"/>
-		<POI MapID="1210" xpos="-864.274" ypos="93.3951" zpos="-102.174" type="assistances.crystal_oasis.casino_blitz.round_2" GUID="vqOQmz1hPkah97TYG175zw==" iconFile="Img/Signs/End.png"                       maxSize="16" fadeNear="3000"  fadeFar="4000"  heightOffset="0" inGameVisibility="0"/>
+		<Trail type="assistances.crystal_oasis.casino_blitz.round_2" GUID="qhO51gDONUayXYBBcxm9JQ==" trailData="Data/Assistances/CrystalOasis_CasinoBlitz_Round2.trl" texture="Data/SemiLine.png" color="ffffff00" alpha="0.8" fadeNear="2000" fadeFar="3000" animSpeed="1" mapDisplaySize="20" />
+		<POI MapID="1210" xpos="-877.009" ypos="8.74384" zpos="-166.248" type="assistances.crystal_oasis.casino_blitz.round_2" GUID="hF4VejCixEqc8YKR6kU3IQ==" iconFile="Img/Assistances/Round2.png" minSize="18" maxSize="20" fadeNear="10000" fadeFar="12000" heightOffset="0" behavior="0" />
+		<POI MapID="1210" xpos="-864.274" ypos="93.3951" zpos="-102.174" type="assistances.crystal_oasis.casino_blitz.round_2" GUID="vqOQmz1hPkah97TYG175zw==" iconFile="Img/Signs/End.png" maxSize="16" fadeNear="3000" fadeFar="4000" heightOffset="0" inGameVisibility="0" />
 		<!-- Round 3 -->
-		<Trail type="assistances.crystal_oasis.casino_blitz.round_3" GUID="Hm/0EMUV9E6brJrczOvDXQ==" trailData="Data/Assistances/CrystalOasis_CasinoBlitz_Round3.trl" texture="Data/SemiLine.png" color="ffff0000" alpha="0.8" fadeNear="3000" fadeFar="4000" animSpeed="1" mapDisplaySize="20"/>
-		<POI MapID="1210" xpos="-1010.71" ypos="0.28"    zpos="-127.21"  type="assistances.crystal_oasis.casino_blitz.round_3" GUID="Q3nJHtvYKE+n5OKhGFxCDQ==" iconFile="Img/Assistances/Round3.png" minSize="18" maxSize="20" fadeNear="10000" fadeFar="12000" heightOffset="0" behavior="0"/>
-		<POI MapID="1210" xpos="-987.086" ypos="51.1367" zpos="134.309"  type="assistances.crystal_oasis.casino_blitz.round_3" GUID="rwRG/xU6nECGsyps4xVg5A==" iconFile="Img/Signs/End.png"                       maxSize="16" fadeNear="3000"  fadeFar="4000"  heightOffset="0" inGameVisibility="0"/>
+		<Trail type="assistances.crystal_oasis.casino_blitz.round_3" GUID="Hm/0EMUV9E6brJrczOvDXQ==" trailData="Data/Assistances/CrystalOasis_CasinoBlitz_Round3.trl" texture="Data/SemiLine.png" color="ffff0000" alpha="0.8" fadeNear="3000" fadeFar="4000" animSpeed="1" mapDisplaySize="20" />
+		<POI MapID="1210" xpos="-1010.71" ypos="0.28" zpos="-127.21" type="assistances.crystal_oasis.casino_blitz.round_3" GUID="Q3nJHtvYKE+n5OKhGFxCDQ==" iconFile="Img/Assistances/Round3.png" minSize="18" maxSize="20" fadeNear="10000" fadeFar="12000" heightOffset="0" behavior="0" />
+		<POI MapID="1210" xpos="-987.086" ypos="51.1367" zpos="134.309" type="assistances.crystal_oasis.casino_blitz.round_3" GUID="rwRG/xU6nECGsyps4xVg5A==" iconFile="Img/Signs/End.png" maxSize="16" fadeNear="3000" fadeFar="4000" heightOffset="0" inGameVisibility="0" />
 		<!-- Coins for debug -->
-		<!-- Round 1
+		<!--
+		Round 1
 		<POI MapID="1210" xpos="-858.511" ypos="11.1357" zpos="-200.55"  type="assistances.crystal_oasis.casino_blitz.round_1" GUID="C8aR/gCwS02R/vpTTtmOvw==" color="ff00dd00" iconFile="Img/Assistances/CasinoBlitz.png" maxSize="28" fadeNear="9000" fadeFar="10000"/>
 		<POI MapID="1210" xpos="-828.136" ypos="8.93361" zpos="-200.332" type="assistances.crystal_oasis.casino_blitz.round_1" GUID="NP3jKun6YkiWuK/SR3ab2A==" color="ff00dd00" iconFile="Img/Assistances/CasinoBlitz.png" maxSize="28" fadeNear="9000" fadeFar="10000"/>
 		<POI MapID="1210" xpos="-783.5"   ypos="9.3019"  zpos="-205.352" type="assistances.crystal_oasis.casino_blitz.round_1" GUID="nRZUwOfhp0GVimeCpQuu5Q==" color="ff00dd00" iconFile="Img/Assistances/CasinoBlitz.png" maxSize="28" fadeNear="9000" fadeFar="10000"/>
@@ -56,7 +56,8 @@
 		<POI MapID="1210" xpos="-940.991" ypos="10.1522" zpos="-207.387" type="assistances.crystal_oasis.casino_blitz.round_1" GUID="jl3i3cJe40a+3pHq6VB3ow==" color="ff00dd00" iconFile="Img/Assistances/CasinoBlitz.png" maxSize="28" fadeNear="9000" fadeFar="10000"/>
 		<POI MapID="1210" xpos="-942.252" ypos="46.8033" zpos="-254.427" type="assistances.crystal_oasis.casino_blitz.round_1" GUID="oJc+FoM05k2vOpNU2/3wYg==" color="ff00dd00" iconFile="Img/Assistances/CasinoBlitz.png" maxSize="28" fadeNear="9000" fadeFar="10000"/>
 		-->
-		<!-- Round 2
+		<!--
+		Round 2
 		<POI MapID="1210" xpos="-787.065" ypos="8.75443" zpos="-176.287" type="assistances.crystal_oasis.casino_blitz.round_2" GUID="BeaZXR6RqUi693wRskP1kQ==" color="ffffdd00" iconFile="Img/Assistances/CasinoBlitz.png" maxSize="28" fadeNear="9000" fadeFar="10000"/>
 		<POI MapID="1210" xpos="-789.882" ypos="31.4429" zpos="-163.789" type="assistances.crystal_oasis.casino_blitz.round_2" GUID="uBpxRp67fEyBPbluoW2ZOQ==" color="ffffdd00" iconFile="Img/Assistances/CasinoBlitz.png" maxSize="28" fadeNear="9000" fadeFar="10000"/>
 		<POI MapID="1210" xpos="-854.711" ypos="41.4324" zpos="-161.528" type="assistances.crystal_oasis.casino_blitz.round_2" GUID="bqlU20vS7kG0um12QX4vrw==" color="ffffdd00" iconFile="Img/Assistances/CasinoBlitz.png" maxSize="28" fadeNear="9000" fadeFar="10000"/>
@@ -97,7 +98,8 @@
 		<POI MapID="1210" xpos="-790.829" ypos="15.2842" zpos="-171.474" type="assistances.crystal_oasis.casino_blitz.round_2" GUID="mLZMAugwnEWFXlP/LNXKkQ==" color="ffffdd00" iconFile="Img/Assistances/CasinoBlitz.png" maxSize="28" fadeNear="9000" fadeFar="10000"/>
 		<POI MapID="1210" xpos="-790.829" ypos="19.2311" zpos="-171.474" type="assistances.crystal_oasis.casino_blitz.round_2" GUID="05PvCTEUK0GZ2V22nREWdw==" color="ffffdd00" iconFile="Img/Assistances/CasinoBlitz.png" maxSize="28" fadeNear="9000" fadeFar="10000"/>
 		-->
-		<!-- Round 3
+		<!--
+		Round 3
 		<POI MapID="1210" xpos="-1023.12" ypos="1.37639" zpos="-97.2295" type="assistances.crystal_oasis.casino_blitz.round_3" GUID="GBMAjFuHlU2iLjAhOB6qSg==" color="ffdd0000" iconFile="Img/Assistances/CasinoBlitz.png" maxSize="28" fadeNear="9000" fadeFar="10000"/>
 		<POI MapID="1210" xpos="-1056.29" ypos="1.37639" zpos="-98.9363" type="assistances.crystal_oasis.casino_blitz.round_3" GUID="iJXZah0vNE2nRIPhNNmXyA==" color="ffdd0000" iconFile="Img/Assistances/CasinoBlitz.png" maxSize="28" fadeNear="9000" fadeFar="10000"/>
 		<POI MapID="1210" xpos="-1091.06" ypos="1.37639" zpos="-94.1227" type="assistances.crystal_oasis.casino_blitz.round_3" GUID="cprfIKPDAkuiqcTQjI4fyg==" color="ffdd0000" iconFile="Img/Assistances/CasinoBlitz.png" maxSize="28" fadeNear="9000" fadeFar="10000"/>
@@ -135,6 +137,5 @@
 		<POI MapID="1210" xpos="-1079.24" ypos="15.5326" zpos="-16.6434" type="assistances.crystal_oasis.casino_blitz.round_3" GUID="O3HSoI1XlU6W0WsNyy7YCw==" color="ffdd0000" iconFile="Img/Assistances/CasinoBlitz.png" maxSize="28" fadeNear="9000" fadeFar="10000"/>
 		<POI MapID="1210" xpos="-1061.16" ypos="4.3113"  zpos="-20.9608" type="assistances.crystal_oasis.casino_blitz.round_3" GUID="+fuRqidE9UWwU5kj1g+Sxw==" color="ffdd0000" iconFile="Img/Assistances/CasinoBlitz.png" maxSize="28" fadeNear="9000" fadeFar="10000"/>
 		-->
-
 	</POIs>
 </OverlayData>

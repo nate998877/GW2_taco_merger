@@ -1,18 +1,16 @@
 <!-- 2019.12.25 -->
 <OverlayData>
 	<POIs>
-
 		<!-- BLOODSTONE HARVEST -->
-		<POI MapID="1015" xpos="268.042"  ypos="319.038" zpos="167.227"  type="side_stories.bloodstone_harvest" GUID="0s9fZ73h6UWZDd8d5JBjww=="/>
-		<POI MapID="30"   xpos="-435.893" ypos="49.3512" zpos="556.089"  type="side_stories.bloodstone_harvest" GUID="EQ8ueTzRNkGdyh4v/WOmMQ=="/>
-		<POI MapID="20"   xpos="590.46"   ypos="42.7248" zpos="1108.77"  type="side_stories.bloodstone_harvest" GUID="bSM8GAcRM0KfApTSBD5Cww=="/>
-		<POI MapID="54"   xpos="-48.252"  ypos="9.85538" zpos="663.385"  type="side_stories.bloodstone_harvest" GUID="+RPp/9cuhEWeiYLk5+fpsw=="/>
-		<POI MapID="1052" xpos="405.535"  ypos="436.321" zpos="164.76"   type="side_stories.bloodstone_harvest" GUID="wXY1L23H506gY4hvwJCWXQ=="/>
-		<POI MapID="15"   xpos="-130.676" ypos="58.4469" zpos="565.735"  type="side_stories.bloodstone_harvest" GUID="iK7GzNOhLE6IrTVNxow74w=="/>
-		<POI MapID="17"   xpos="202.55"   ypos="83"      zpos="-393"     type="side_stories.bloodstone_harvest" GUID="qydlK3Er/02Z6EQ67ojkVg=="/>
-		<POI MapID="139"  xpos="137.484"  ypos="399.409" zpos="149.365"  type="side_stories.bloodstone_harvest" GUID="8NdUF0CT8ECFjjdFF06vwA=="/>
-		<POI MapID="29"   xpos="255.88"   ypos="83.9047" zpos="-511.946" type="side_stories.bloodstone_harvest" GUID="FHpA/rl8NkeleWHOeAecFQ=="/>
-		<POI MapID="39"   xpos="-430.333" ypos="120.577" zpos="-407.257" type="side_stories.bloodstone_harvest" GUID="Ob4MY9c1i0GVFg2aBBszvg=="/>
-
+		<POI MapID="1015" xpos="268.042" ypos="319.038" zpos="167.227" type="side_stories.bloodstone_harvest" GUID="0s9fZ73h6UWZDd8d5JBjww==" />
+		<POI MapID="30" xpos="-435.893" ypos="49.3512" zpos="556.089" type="side_stories.bloodstone_harvest" GUID="EQ8ueTzRNkGdyh4v/WOmMQ==" />
+		<POI MapID="20" xpos="590.46" ypos="42.7248" zpos="1108.77" type="side_stories.bloodstone_harvest" GUID="bSM8GAcRM0KfApTSBD5Cww==" />
+		<POI MapID="54" xpos="-48.252" ypos="9.85538" zpos="663.385" type="side_stories.bloodstone_harvest" GUID="+RPp/9cuhEWeiYLk5+fpsw==" />
+		<POI MapID="1052" xpos="405.535" ypos="436.321" zpos="164.76" type="side_stories.bloodstone_harvest" GUID="wXY1L23H506gY4hvwJCWXQ==" />
+		<POI MapID="15" xpos="-130.676" ypos="58.4469" zpos="565.735" type="side_stories.bloodstone_harvest" GUID="iK7GzNOhLE6IrTVNxow74w==" />
+		<POI MapID="17" xpos="202.55" ypos="83" zpos="-393" type="side_stories.bloodstone_harvest" GUID="qydlK3Er/02Z6EQ67ojkVg==" />
+		<POI MapID="139" xpos="137.484" ypos="399.409" zpos="149.365" type="side_stories.bloodstone_harvest" GUID="8NdUF0CT8ECFjjdFF06vwA==" />
+		<POI MapID="29" xpos="255.88" ypos="83.9047" zpos="-511.946" type="side_stories.bloodstone_harvest" GUID="FHpA/rl8NkeleWHOeAecFQ==" />
+		<POI MapID="39" xpos="-430.333" ypos="120.577" zpos="-407.257" type="side_stories.bloodstone_harvest" GUID="Ob4MY9c1i0GVFg2aBBszvg==" />
 	</POIs>
 </OverlayData>

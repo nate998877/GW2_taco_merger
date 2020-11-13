@@ -1,10 +1,8 @@
 <!-- 2019.12.25 -->
 <OverlayData>
 	<POIs>
-
 		<!-- Dragonfall -->
-		<POI MapID="1317" xpos="-707.174" ypos="30.7671" zpos="126.488" type="assistances.travels.skyscale_rift" GUID="5RdJEXiF0E2lPCrC/qkcSw=="/>
-		<POI MapID="1317" xpos="633.943"  ypos="97.7861" zpos="733.999" type="assistances.travels.skyscale_rift" GUID="nvvfCMKkUkW3q2uBlxhyMw=="/>
-
+		<POI MapID="1317" xpos="-707.174" ypos="30.7671" zpos="126.488" type="assistances.travels.skyscale_rift" GUID="5RdJEXiF0E2lPCrC/qkcSw==" />
+		<POI MapID="1317" xpos="633.943" ypos="97.7861" zpos="733.999" type="assistances.travels.skyscale_rift" GUID="nvvfCMKkUkW3q2uBlxhyMw==" />
 	</POIs>
 </OverlayData>

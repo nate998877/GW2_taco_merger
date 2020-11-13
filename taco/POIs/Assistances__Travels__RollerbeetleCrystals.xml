@@ -1,80 +1,78 @@
 <!-- 2019.12.25 -->
 <OverlayData>
 	<POIs>
-
 		<!-- Domain of Kourna -->
-		<POI MapID="1288" xpos="-1069.51" ypos="54.3471" zpos="657.676"  type="assistances.travels.rollerbeetle_crystals" GUID="CSRnc7UAa06iTHWGZleHbA=="/>
-		<POI MapID="1288" xpos="-1058.68" ypos="5.84207" zpos="751.834"  type="assistances.travels.rollerbeetle_crystals" GUID="qlj/Ibs2JEmKaFNcr4i1AA=="/>
-		<POI MapID="1288" xpos="-861.665" ypos="31.0488" zpos="501.137"  type="assistances.travels.rollerbeetle_crystals" GUID="ayTkc/upE0CzA4I0RetJoQ=="/>
-		<POI MapID="1288" xpos="-835.964" ypos="21.676"  zpos="1095.13"  type="assistances.travels.rollerbeetle_crystals" GUID="ahvh0jF6BUOftShmjtSk8Q=="/>
-		<POI MapID="1288" xpos="-751.399" ypos="0.96411" zpos="-96.0039" type="assistances.travels.rollerbeetle_crystals" GUID="DwrQLLNx9UeGv/3bSPO2aA=="/>
-		<POI MapID="1288" xpos="-633.463" ypos="25.774"  zpos="-113.969" type="assistances.travels.rollerbeetle_crystals" GUID="BLq/SUGB9UqYPZ5161kntw=="/>
-		<POI MapID="1288" xpos="-623.653" ypos="90.4107" zpos="1302.34"  type="assistances.travels.rollerbeetle_crystals" GUID="bCr3xzTGZEGXLDlnV96OUA=="/>
-		<POI MapID="1288" xpos="-619.145" ypos="26.3273" zpos="590.4"    type="assistances.travels.rollerbeetle_crystals" GUID="71gCIUztIUyOnScDCFb0eA=="/>
-		<POI MapID="1288" xpos="-592.754" ypos="63.0333" zpos="265.646"  type="assistances.travels.rollerbeetle_crystals" GUID="qxl4ZMcwWUmo5dEOT9p9PA=="/>
-		<POI MapID="1288" xpos="-527.555" ypos="7.8508"  zpos="-51.6998" type="assistances.travels.rollerbeetle_crystals" GUID="5QcDAwrnTU6Js5T6kKIuug=="/>
-		<POI MapID="1288" xpos="-501.707" ypos="34.1056" zpos="1137.12"  type="assistances.travels.rollerbeetle_crystals" GUID="nsgP/iREPk+yZ2zogNujcw=="/>
-		<POI MapID="1288" xpos="-477.934" ypos="19.0855" zpos="664.775"  type="assistances.travels.rollerbeetle_crystals" GUID="lL5VND5njkOYrcJJXtlqDw=="/>
-		<POI MapID="1288" xpos="-476.677" ypos="2.97086" zpos="-169.772" type="assistances.travels.rollerbeetle_crystals" GUID="IUrkVlJnhEyrVFi/cuDU1g=="/>
-		<POI MapID="1288" xpos="-446.148" ypos="30.2253" zpos="326.845"  type="assistances.travels.rollerbeetle_crystals" GUID="523eHpWFPkiRUN3d7+zYOg=="/>
-		<POI MapID="1288" xpos="-372.849" ypos="39.982"  zpos="864.056"  type="assistances.travels.rollerbeetle_crystals" GUID="bjAblQ1SXUGkptiwNwxIaA=="/>
-		<POI MapID="1288" xpos="-367.51"  ypos="28.2131" zpos="11"       type="assistances.travels.rollerbeetle_crystals" GUID="2m3IjbofDEGIQcgILl1e9A=="/>
-		<POI MapID="1288" xpos="-340.34"  ypos="21.4703" zpos="1064.71"  type="assistances.travels.rollerbeetle_crystals" GUID="vk0RB0cGO0Cm+YZqK9SntA=="/>
-		<POI MapID="1288" xpos="-339.43"  ypos="2.82063" zpos="222.562"  type="assistances.travels.rollerbeetle_crystals" GUID="IKKTsa2f1UKFUd4Z2YAYtA=="/>
-		<POI MapID="1288" xpos="-326.303" ypos="17.2108" zpos="1327.11"  type="assistances.travels.rollerbeetle_crystals" GUID="7xtWjpkG+kCGVYrkt2NZpA=="/>
-		<POI MapID="1288" xpos="-272.986" ypos="53.5769" zpos="-284.965" type="assistances.travels.rollerbeetle_crystals" GUID="ppheuXtNM0abetlNs975Jw=="/>
-		<POI MapID="1288" xpos="-266.099" ypos="114.293" zpos="300.816"  type="assistances.travels.rollerbeetle_crystals" GUID="/BMsYDv5Oke6EYdYRNxcEQ=="/>
-		<POI MapID="1288" xpos="-255.765" ypos="24.437"  zpos="920.848"  type="assistances.travels.rollerbeetle_crystals" GUID="sLhU52ygF0aLdFEFJ8+ujg=="/>
-		<POI MapID="1288" xpos="-242.745" ypos="27.1875" zpos="1108.76"  type="assistances.travels.rollerbeetle_crystals" GUID="rQiaPj86CEeTl/5wwxc74Q=="/>
-		<POI MapID="1288" xpos="-199.974" ypos="64.3801" zpos="-197.385" type="assistances.travels.rollerbeetle_crystals" GUID="s0P7wQfV5ECw9tb5Lwq4sA=="/>
-		<POI MapID="1288" xpos="-199.425" ypos="8.20576" zpos="236.816"  type="assistances.travels.rollerbeetle_crystals" GUID="ep9JRgH5KkOMw4MyODD8hA=="/>
-		<POI MapID="1288" xpos="-164.77"  ypos="1.19511" zpos="857.835"  type="assistances.travels.rollerbeetle_crystals" GUID="Qh3DRBkHsUuWl3DTw0V/hg=="/>
-		<POI MapID="1288" xpos="-161.207" ypos="26.1015" zpos="48.2496"  type="assistances.travels.rollerbeetle_crystals" GUID="8Rr0k6qiDU+x0u+EMEDOBg=="/>
-		<POI MapID="1288" xpos="-154.103" ypos="18.0612" zpos="401.065"  type="assistances.travels.rollerbeetle_crystals" GUID="psh0NhOWuEysEk+I4/UmZA=="/>
-		<POI MapID="1288" xpos="-152.808" ypos="96.0647" zpos="505.26"   type="assistances.travels.rollerbeetle_crystals" GUID="52v9KJ1ewEmoP0VOdBikLw=="/>
-		<POI MapID="1288" xpos="-145.441" ypos="54.7527" zpos="-160.275" type="assistances.travels.rollerbeetle_crystals" GUID="1JzO5fuHFkGhV6BHErLFZA=="/>
-		<POI MapID="1288" xpos="-138.073" ypos="13.7526" zpos="1118.24"  type="assistances.travels.rollerbeetle_crystals" GUID="J++6jGsN80Wo7YCnVL0WIQ=="/>
-		<POI MapID="1288" xpos="-108.99"  ypos="12.4486" zpos="217.493"  type="assistances.travels.rollerbeetle_crystals" GUID="THTLsRAuTkyBNPai6DPvrA=="/>
-		<POI MapID="1288" xpos="-108.807" ypos="26.2124" zpos="304.533"  type="assistances.travels.rollerbeetle_crystals" GUID="amLCvrfN7EeN1nhFbCmZ5Q=="/>
-		<POI MapID="1288" xpos="-85.241"  ypos="70.9849" zpos="157.833"  type="assistances.travels.rollerbeetle_crystals" GUID="fzeHjdhi90CJNGsX/TWwgg=="/>
-		<POI MapID="1288" xpos="-85.0306" ypos="73.1625" zpos="153.311"  type="assistances.travels.rollerbeetle_crystals" GUID="qKdhuKI+X027hmO+9m+xQg=="/>
-		<POI MapID="1288" xpos="-67.6618" ypos="34.6878" zpos="578.606"  type="assistances.travels.rollerbeetle_crystals" GUID="v5CGeb9rfUKQ73hXxHH0ew=="/>
-		<POI MapID="1288" xpos="-36.271"  ypos="140.928" zpos="525.203"  type="assistances.travels.rollerbeetle_crystals" GUID="eCF7Zg3AikmyCqic1/Vf4g=="/>
-		<POI MapID="1288" xpos="-29.0568" ypos="28.4511" zpos="476.39"   type="assistances.travels.rollerbeetle_crystals" GUID="bTyi5H0Tx0K6jMb9JzDL7g=="/>
-		<POI MapID="1288" xpos="-4.88561" ypos="150.333" zpos="566.049"  type="assistances.travels.rollerbeetle_crystals" GUID="ZC+5QkSYCkytlwvnjYln/A=="/>
-		<POI MapID="1288" xpos="11.5931"  ypos="16.8029" zpos="1028.25"  type="assistances.travels.rollerbeetle_crystals" GUID="L0iQFxA1UEKck6HzFP9nnA=="/>
-		<POI MapID="1288" xpos="12.6274"  ypos="23.1349" zpos="291.701"  type="assistances.travels.rollerbeetle_crystals" GUID="WgwFbE2nBUe9iIg8mzoMpw=="/>
-		<POI MapID="1288" xpos="47.1152"  ypos="41.202"  zpos="772.017"  type="assistances.travels.rollerbeetle_crystals" GUID="ayS0BmTF8kGZ1+ni+3/laQ=="/>
-		<POI MapID="1288" xpos="47.6045"  ypos="1.04273" zpos="-97.936"  type="assistances.travels.rollerbeetle_crystals" GUID="VMs1auFEI0iYC8w+N0JxPQ=="/>
-		<POI MapID="1288" xpos="51.2334"  ypos="106.944" zpos="1201.38"  type="assistances.travels.rollerbeetle_crystals" GUID="5U0f0FcoYEu97Q8GlmClpg=="/>
-		<POI MapID="1288" xpos="89.3371"  ypos="9.54808" zpos="890.704"  type="assistances.travels.rollerbeetle_crystals" GUID="5yjhoKNanUOjzf9RvrQ8DQ=="/>
-		<POI MapID="1288" xpos="96.6725"  ypos="59.5894" zpos="1193.15"  type="assistances.travels.rollerbeetle_crystals" GUID="bjfms9pQmkaYm+Y5dn1KpA=="/>
-		<POI MapID="1288" xpos="112.512"  ypos="35.1035" zpos="509.571"  type="assistances.travels.rollerbeetle_crystals" GUID="BJPnPBp3XEKfDlHaK/6Ctw=="/>
-		<POI MapID="1288" xpos="115.931"  ypos="1.22165" zpos="-245.894" type="assistances.travels.rollerbeetle_crystals" GUID="FHAlbtw6l0+RdHAkB63Ytg=="/>
-		<POI MapID="1288" xpos="135.394"  ypos="47.8912" zpos="704.162"  type="assistances.travels.rollerbeetle_crystals" GUID="SijiGIa6FU26E48nVt96JQ=="/>
-		<POI MapID="1288" xpos="189.505"  ypos="52.3102" zpos="794.348"  type="assistances.travels.rollerbeetle_crystals" GUID="3hpanWGz2UqfkJi+T9ksAg=="/>
-		<POI MapID="1288" xpos="199.54"   ypos="1.30018" zpos="1035.36"  type="assistances.travels.rollerbeetle_crystals" GUID="WF1EY927aUqjJxHi6fArcQ=="/>
-		<POI MapID="1288" xpos="238.635"  ypos="47.0134" zpos="31.55"    type="assistances.travels.rollerbeetle_crystals" GUID="98lACkvv9UOJ1VvDpbtN/g=="/>
-		<POI MapID="1288" xpos="240.845"  ypos="51.9729" zpos="254.683"  type="assistances.travels.rollerbeetle_crystals" GUID="Vqvgh20gEk6uMTaB4C57JQ=="/>
-		<POI MapID="1288" xpos="264.954"  ypos="68.9726" zpos="1235.15"  type="assistances.travels.rollerbeetle_crystals" GUID="eYeSfkmjUUSnaBwYa2A7xg=="/>
-		<POI MapID="1288" xpos="268.012"  ypos="28.8806" zpos="878.483"  type="assistances.travels.rollerbeetle_crystals" GUID="0O7+ObBPBkaNk0LZnBmnCg=="/>
-		<POI MapID="1288" xpos="276.861"  ypos="30.079"  zpos="1090.78"  type="assistances.travels.rollerbeetle_crystals" GUID="ziMQPHXrA0WyZriNkYNlsw=="/>
-		<POI MapID="1288" xpos="340.487"  ypos="13.4989" zpos="1002.5"   type="assistances.travels.rollerbeetle_crystals" GUID="pZNHoSxhSU6h++d4qiVnAQ=="/>
-		<POI MapID="1288" xpos="359.246"  ypos="24.4791" zpos="842.049"  type="assistances.travels.rollerbeetle_crystals" GUID="UB5bS1rdDkuutYuMbZj9HA=="/>
-		<POI MapID="1288" xpos="362.058"  ypos="29.249"  zpos="757.124"  type="assistances.travels.rollerbeetle_crystals" GUID="JGA+qcUzMEKf4jsZELxZUg=="/>
-		<POI MapID="1288" xpos="391.228"  ypos="30.9341" zpos="429.439"  type="assistances.travels.rollerbeetle_crystals" GUID="25kT51VuAkWwzHr+IlhALw=="/>
-		<POI MapID="1288" xpos="404.439"  ypos="16.2283" zpos="588.875"  type="assistances.travels.rollerbeetle_crystals" GUID="scgfBBgD1UCrt4UAWCTprA=="/>
-		<POI MapID="1288" xpos="412.819"  ypos="21.9255" zpos="941.122"  type="assistances.travels.rollerbeetle_crystals" GUID="G4TIHhqdHUWoqCt5UlsUVA=="/>
-		<POI MapID="1288" xpos="419.258"  ypos="53.7512" zpos="335.058"  type="assistances.travels.rollerbeetle_crystals" GUID="8TfACLFt1EOYzwL/1ySmOw=="/>
-		<POI MapID="1288" xpos="460.884"  ypos="25.334"  zpos="701.665"  type="assistances.travels.rollerbeetle_crystals" GUID="3E60A/UeLkOVGHbZY8Ywxg=="/>
-		<POI MapID="1288" xpos="487.353"  ypos="10.8263" zpos="1024.55"  type="assistances.travels.rollerbeetle_crystals" GUID="PUAy7SqX6kWBY3a4XxfSyA=="/>
-		<POI MapID="1288" xpos="546.824"  ypos="22.734"  zpos="833.918"  type="assistances.travels.rollerbeetle_crystals" GUID="b7YAiJ+BPEuc4Vryy8oZQg=="/>
-		<POI MapID="1288" xpos="595.809"  ypos="17.2277" zpos="738.19"   type="assistances.travels.rollerbeetle_crystals" GUID="oQC9iP0f4UuETApbRb+0UA=="/>
-		<POI MapID="1288" xpos="597.368"  ypos="123.436" zpos="1183.29"  type="assistances.travels.rollerbeetle_crystals" GUID="H1If0KPG4ka6p4oAXq/X3g=="/>
-		<POI MapID="1288" xpos="614.251"  ypos="10.4307" zpos="1007.75"  type="assistances.travels.rollerbeetle_crystals" GUID="VF1fbcZSFkSzlWZSUdI18w=="/>
-		<POI MapID="1288" xpos="642.396"  ypos="53.2156" zpos="547.848"  type="assistances.travels.rollerbeetle_crystals" GUID="mhpEah4y8U+S7iHMA4U28A=="/>
-		<POI MapID="1288" xpos="710.407"  ypos="4.65504" zpos="808.04"   type="assistances.travels.rollerbeetle_crystals" GUID="vjcD49Kk3U6Yz5c+Ze1FNw=="/>
-		<POI MapID="1288" xpos="738.45"   ypos="13.6658" zpos="879.217"  type="assistances.travels.rollerbeetle_crystals" GUID="uWn3AE5N0ketZScoFA/RIA=="/>
-
+		<POI MapID="1288" xpos="-1069.51" ypos="54.3471" zpos="657.676" type="assistances.travels.rollerbeetle_crystals" GUID="CSRnc7UAa06iTHWGZleHbA==" />
+		<POI MapID="1288" xpos="-1058.68" ypos="5.84207" zpos="751.834" type="assistances.travels.rollerbeetle_crystals" GUID="qlj/Ibs2JEmKaFNcr4i1AA==" />
+		<POI MapID="1288" xpos="-861.665" ypos="31.0488" zpos="501.137" type="assistances.travels.rollerbeetle_crystals" GUID="ayTkc/upE0CzA4I0RetJoQ==" />
+		<POI MapID="1288" xpos="-835.964" ypos="21.676" zpos="1095.13" type="assistances.travels.rollerbeetle_crystals" GUID="ahvh0jF6BUOftShmjtSk8Q==" />
+		<POI MapID="1288" xpos="-751.399" ypos="0.96411" zpos="-96.0039" type="assistances.travels.rollerbeetle_crystals" GUID="DwrQLLNx9UeGv/3bSPO2aA==" />
+		<POI MapID="1288" xpos="-633.463" ypos="25.774" zpos="-113.969" type="assistances.travels.rollerbeetle_crystals" GUID="BLq/SUGB9UqYPZ5161kntw==" />
+		<POI MapID="1288" xpos="-623.653" ypos="90.4107" zpos="1302.34" type="assistances.travels.rollerbeetle_crystals" GUID="bCr3xzTGZEGXLDlnV96OUA==" />
+		<POI MapID="1288" xpos="-619.145" ypos="26.3273" zpos="590.4" type="assistances.travels.rollerbeetle_crystals" GUID="71gCIUztIUyOnScDCFb0eA==" />
+		<POI MapID="1288" xpos="-592.754" ypos="63.0333" zpos="265.646" type="assistances.travels.rollerbeetle_crystals" GUID="qxl4ZMcwWUmo5dEOT9p9PA==" />
+		<POI MapID="1288" xpos="-527.555" ypos="7.8508" zpos="-51.6998" type="assistances.travels.rollerbeetle_crystals" GUID="5QcDAwrnTU6Js5T6kKIuug==" />
+		<POI MapID="1288" xpos="-501.707" ypos="34.1056" zpos="1137.12" type="assistances.travels.rollerbeetle_crystals" GUID="nsgP/iREPk+yZ2zogNujcw==" />
+		<POI MapID="1288" xpos="-477.934" ypos="19.0855" zpos="664.775" type="assistances.travels.rollerbeetle_crystals" GUID="lL5VND5njkOYrcJJXtlqDw==" />
+		<POI MapID="1288" xpos="-476.677" ypos="2.97086" zpos="-169.772" type="assistances.travels.rollerbeetle_crystals" GUID="IUrkVlJnhEyrVFi/cuDU1g==" />
+		<POI MapID="1288" xpos="-446.148" ypos="30.2253" zpos="326.845" type="assistances.travels.rollerbeetle_crystals" GUID="523eHpWFPkiRUN3d7+zYOg==" />
+		<POI MapID="1288" xpos="-372.849" ypos="39.982" zpos="864.056" type="assistances.travels.rollerbeetle_crystals" GUID="bjAblQ1SXUGkptiwNwxIaA==" />
+		<POI MapID="1288" xpos="-367.51" ypos="28.2131" zpos="11" type="assistances.travels.rollerbeetle_crystals" GUID="2m3IjbofDEGIQcgILl1e9A==" />
+		<POI MapID="1288" xpos="-340.34" ypos="21.4703" zpos="1064.71" type="assistances.travels.rollerbeetle_crystals" GUID="vk0RB0cGO0Cm+YZqK9SntA==" />
+		<POI MapID="1288" xpos="-339.43" ypos="2.82063" zpos="222.562" type="assistances.travels.rollerbeetle_crystals" GUID="IKKTsa2f1UKFUd4Z2YAYtA==" />
+		<POI MapID="1288" xpos="-326.303" ypos="17.2108" zpos="1327.11" type="assistances.travels.rollerbeetle_crystals" GUID="7xtWjpkG+kCGVYrkt2NZpA==" />
+		<POI MapID="1288" xpos="-272.986" ypos="53.5769" zpos="-284.965" type="assistances.travels.rollerbeetle_crystals" GUID="ppheuXtNM0abetlNs975Jw==" />
+		<POI MapID="1288" xpos="-266.099" ypos="114.293" zpos="300.816" type="assistances.travels.rollerbeetle_crystals" GUID="/BMsYDv5Oke6EYdYRNxcEQ==" />
+		<POI MapID="1288" xpos="-255.765" ypos="24.437" zpos="920.848" type="assistances.travels.rollerbeetle_crystals" GUID="sLhU52ygF0aLdFEFJ8+ujg==" />
+		<POI MapID="1288" xpos="-242.745" ypos="27.1875" zpos="1108.76" type="assistances.travels.rollerbeetle_crystals" GUID="rQiaPj86CEeTl/5wwxc74Q==" />
+		<POI MapID="1288" xpos="-199.974" ypos="64.3801" zpos="-197.385" type="assistances.travels.rollerbeetle_crystals" GUID="s0P7wQfV5ECw9tb5Lwq4sA==" />
+		<POI MapID="1288" xpos="-199.425" ypos="8.20576" zpos="236.816" type="assistances.travels.rollerbeetle_crystals" GUID="ep9JRgH5KkOMw4MyODD8hA==" />
+		<POI MapID="1288" xpos="-164.77" ypos="1.19511" zpos="857.835" type="assistances.travels.rollerbeetle_crystals" GUID="Qh3DRBkHsUuWl3DTw0V/hg==" />
+		<POI MapID="1288" xpos="-161.207" ypos="26.1015" zpos="48.2496" type="assistances.travels.rollerbeetle_crystals" GUID="8Rr0k6qiDU+x0u+EMEDOBg==" />
+		<POI MapID="1288" xpos="-154.103" ypos="18.0612" zpos="401.065" type="assistances.travels.rollerbeetle_crystals" GUID="psh0NhOWuEysEk+I4/UmZA==" />
+		<POI MapID="1288" xpos="-152.808" ypos="96.0647" zpos="505.26" type="assistances.travels.rollerbeetle_crystals" GUID="52v9KJ1ewEmoP0VOdBikLw==" />
+		<POI MapID="1288" xpos="-145.441" ypos="54.7527" zpos="-160.275" type="assistances.travels.rollerbeetle_crystals" GUID="1JzO5fuHFkGhV6BHErLFZA==" />
+		<POI MapID="1288" xpos="-138.073" ypos="13.7526" zpos="1118.24" type="assistances.travels.rollerbeetle_crystals" GUID="J++6jGsN80Wo7YCnVL0WIQ==" />
+		<POI MapID="1288" xpos="-108.99" ypos="12.4486" zpos="217.493" type="assistances.travels.rollerbeetle_crystals" GUID="THTLsRAuTkyBNPai6DPvrA==" />
+		<POI MapID="1288" xpos="-108.807" ypos="26.2124" zpos="304.533" type="assistances.travels.rollerbeetle_crystals" GUID="amLCvrfN7EeN1nhFbCmZ5Q==" />
+		<POI MapID="1288" xpos="-85.241" ypos="70.9849" zpos="157.833" type="assistances.travels.rollerbeetle_crystals" GUID="fzeHjdhi90CJNGsX/TWwgg==" />
+		<POI MapID="1288" xpos="-85.0306" ypos="73.1625" zpos="153.311" type="assistances.travels.rollerbeetle_crystals" GUID="qKdhuKI+X027hmO+9m+xQg==" />
+		<POI MapID="1288" xpos="-67.6618" ypos="34.6878" zpos="578.606" type="assistances.travels.rollerbeetle_crystals" GUID="v5CGeb9rfUKQ73hXxHH0ew==" />
+		<POI MapID="1288" xpos="-36.271" ypos="140.928" zpos="525.203" type="assistances.travels.rollerbeetle_crystals" GUID="eCF7Zg3AikmyCqic1/Vf4g==" />
+		<POI MapID="1288" xpos="-29.0568" ypos="28.4511" zpos="476.39" type="assistances.travels.rollerbeetle_crystals" GUID="bTyi5H0Tx0K6jMb9JzDL7g==" />
+		<POI MapID="1288" xpos="-4.88561" ypos="150.333" zpos="566.049" type="assistances.travels.rollerbeetle_crystals" GUID="ZC+5QkSYCkytlwvnjYln/A==" />
+		<POI MapID="1288" xpos="11.5931" ypos="16.8029" zpos="1028.25" type="assistances.travels.rollerbeetle_crystals" GUID="L0iQFxA1UEKck6HzFP9nnA==" />
+		<POI MapID="1288" xpos="12.6274" ypos="23.1349" zpos="291.701" type="assistances.travels.rollerbeetle_crystals" GUID="WgwFbE2nBUe9iIg8mzoMpw==" />
+		<POI MapID="1288" xpos="47.1152" ypos="41.202" zpos="772.017" type="assistances.travels.rollerbeetle_crystals" GUID="ayS0BmTF8kGZ1+ni+3/laQ==" />
+		<POI MapID="1288" xpos="47.6045" ypos="1.04273" zpos="-97.936" type="assistances.travels.rollerbeetle_crystals" GUID="VMs1auFEI0iYC8w+N0JxPQ==" />
+		<POI MapID="1288" xpos="51.2334" ypos="106.944" zpos="1201.38" type="assistances.travels.rollerbeetle_crystals" GUID="5U0f0FcoYEu97Q8GlmClpg==" />
+		<POI MapID="1288" xpos="89.3371" ypos="9.54808" zpos="890.704" type="assistances.travels.rollerbeetle_crystals" GUID="5yjhoKNanUOjzf9RvrQ8DQ==" />
+		<POI MapID="1288" xpos="96.6725" ypos="59.5894" zpos="1193.15" type="assistances.travels.rollerbeetle_crystals" GUID="bjfms9pQmkaYm+Y5dn1KpA==" />
+		<POI MapID="1288" xpos="112.512" ypos="35.1035" zpos="509.571" type="assistances.travels.rollerbeetle_crystals" GUID="BJPnPBp3XEKfDlHaK/6Ctw==" />
+		<POI MapID="1288" xpos="115.931" ypos="1.22165" zpos="-245.894" type="assistances.travels.rollerbeetle_crystals" GUID="FHAlbtw6l0+RdHAkB63Ytg==" />
+		<POI MapID="1288" xpos="135.394" ypos="47.8912" zpos="704.162" type="assistances.travels.rollerbeetle_crystals" GUID="SijiGIa6FU26E48nVt96JQ==" />
+		<POI MapID="1288" xpos="189.505" ypos="52.3102" zpos="794.348" type="assistances.travels.rollerbeetle_crystals" GUID="3hpanWGz2UqfkJi+T9ksAg==" />
+		<POI MapID="1288" xpos="199.54" ypos="1.30018" zpos="1035.36" type="assistances.travels.rollerbeetle_crystals" GUID="WF1EY927aUqjJxHi6fArcQ==" />
+		<POI MapID="1288" xpos="238.635" ypos="47.0134" zpos="31.55" type="assistances.travels.rollerbeetle_crystals" GUID="98lACkvv9UOJ1VvDpbtN/g==" />
+		<POI MapID="1288" xpos="240.845" ypos="51.9729" zpos="254.683" type="assistances.travels.rollerbeetle_crystals" GUID="Vqvgh20gEk6uMTaB4C57JQ==" />
+		<POI MapID="1288" xpos="264.954" ypos="68.9726" zpos="1235.15" type="assistances.travels.rollerbeetle_crystals" GUID="eYeSfkmjUUSnaBwYa2A7xg==" />
+		<POI MapID="1288" xpos="268.012" ypos="28.8806" zpos="878.483" type="assistances.travels.rollerbeetle_crystals" GUID="0O7+ObBPBkaNk0LZnBmnCg==" />
+		<POI MapID="1288" xpos="276.861" ypos="30.079" zpos="1090.78" type="assistances.travels.rollerbeetle_crystals" GUID="ziMQPHXrA0WyZriNkYNlsw==" />
+		<POI MapID="1288" xpos="340.487" ypos="13.4989" zpos="1002.5" type="assistances.travels.rollerbeetle_crystals" GUID="pZNHoSxhSU6h++d4qiVnAQ==" />
+		<POI MapID="1288" xpos="359.246" ypos="24.4791" zpos="842.049" type="assistances.travels.rollerbeetle_crystals" GUID="UB5bS1rdDkuutYuMbZj9HA==" />
+		<POI MapID="1288" xpos="362.058" ypos="29.249" zpos="757.124" type="assistances.travels.rollerbeetle_crystals" GUID="JGA+qcUzMEKf4jsZELxZUg==" />
+		<POI MapID="1288" xpos="391.228" ypos="30.9341" zpos="429.439" type="assistances.travels.rollerbeetle_crystals" GUID="25kT51VuAkWwzHr+IlhALw==" />
+		<POI MapID="1288" xpos="404.439" ypos="16.2283" zpos="588.875" type="assistances.travels.rollerbeetle_crystals" GUID="scgfBBgD1UCrt4UAWCTprA==" />
+		<POI MapID="1288" xpos="412.819" ypos="21.9255" zpos="941.122" type="assistances.travels.rollerbeetle_crystals" GUID="G4TIHhqdHUWoqCt5UlsUVA==" />
+		<POI MapID="1288" xpos="419.258" ypos="53.7512" zpos="335.058" type="assistances.travels.rollerbeetle_crystals" GUID="8TfACLFt1EOYzwL/1ySmOw==" />
+		<POI MapID="1288" xpos="460.884" ypos="25.334" zpos="701.665" type="assistances.travels.rollerbeetle_crystals" GUID="3E60A/UeLkOVGHbZY8Ywxg==" />
+		<POI MapID="1288" xpos="487.353" ypos="10.8263" zpos="1024.55" type="assistances.travels.rollerbeetle_crystals" GUID="PUAy7SqX6kWBY3a4XxfSyA==" />
+		<POI MapID="1288" xpos="546.824" ypos="22.734" zpos="833.918" type="assistances.travels.rollerbeetle_crystals" GUID="b7YAiJ+BPEuc4Vryy8oZQg==" />
+		<POI MapID="1288" xpos="595.809" ypos="17.2277" zpos="738.19" type="assistances.travels.rollerbeetle_crystals" GUID="oQC9iP0f4UuETApbRb+0UA==" />
+		<POI MapID="1288" xpos="597.368" ypos="123.436" zpos="1183.29" type="assistances.travels.rollerbeetle_crystals" GUID="H1If0KPG4ka6p4oAXq/X3g==" />
+		<POI MapID="1288" xpos="614.251" ypos="10.4307" zpos="1007.75" type="assistances.travels.rollerbeetle_crystals" GUID="VF1fbcZSFkSzlWZSUdI18w==" />
+		<POI MapID="1288" xpos="642.396" ypos="53.2156" zpos="547.848" type="assistances.travels.rollerbeetle_crystals" GUID="mhpEah4y8U+S7iHMA4U28A==" />
+		<POI MapID="1288" xpos="710.407" ypos="4.65504" zpos="808.04" type="assistances.travels.rollerbeetle_crystals" GUID="vjcD49Kk3U6Yz5c+Ze1FNw==" />
+		<POI MapID="1288" xpos="738.45" ypos="13.6658" zpos="879.217" type="assistances.travels.rollerbeetle_crystals" GUID="uWn3AE5N0ketZScoFA/RIA==" />
 	</POIs>
 </OverlayData>

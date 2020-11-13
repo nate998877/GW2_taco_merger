@@ -1,41 +1,31 @@
 <!-- 2019.12.25 -->
 <OverlayData>
 	<POIs>
-
 		<!-- FIONA'S STOCKPILE -->
-		<POI MapID="31" xpos="-1140.43" ypos="130.48" zpos="317.67" type="side_stories.fiona_s_stockpile" GUID="yxhfWY6ooEWv8JL9OAuQig==" heightOffset="4"/>
-
+		<POI MapID="31" xpos="-1140.43" ypos="130.48" zpos="317.67" type="side_stories.fiona_s_stockpile" GUID="yxhfWY6ooEWv8JL9OAuQig==" heightOffset="4" />
 		<!-- FLINNZ'S RETIREMENT -->
-		<POI MapID="20" xpos="-506.35" ypos="32.09" zpos="-458.68" type="side_stories.flinnz_s_retirement" GUID="YtgNXJSq4UeFpTO5efKKbg==" heightOffset="4"/>
-
+		<POI MapID="20" xpos="-506.35" ypos="32.09" zpos="-458.68" type="side_stories.flinnz_s_retirement" GUID="YtgNXJSq4UeFpTO5efKKbg==" heightOffset="4" />
 		<!-- GAREN'S DEFENSE -->
-		<POI MapID="39" xpos="-9.71" ypos="72.14" zpos="41.35" type="side_stories.garen_s_defense" GUID="YTq4Uts9PEqOsEKax/dn6g==" heightOffset="4"/>
-
+		<POI MapID="39" xpos="-9.71" ypos="72.14" zpos="41.35" type="side_stories.garen_s_defense" GUID="YTq4Uts9PEqOsEKax/dn6g==" heightOffset="4" />
 		<!-- KEADIN'S STUDY -->
-		<POI MapID="20" xpos="-125.49" ypos="20.47"  zpos="-62.97" type="side_stories.keadin_s_study" GUID="eQmkI3kqaEqScYDKFbkNsw==" heightOffset="4"/>
-
+		<POI MapID="20" xpos="-125.49" ypos="20.47" zpos="-62.97" type="side_stories.keadin_s_study" GUID="eQmkI3kqaEqScYDKFbkNsw==" heightOffset="4" />
 		<!-- LEY-LINE CARTOGRAPHY -->
-		<POI MapID="20" xpos="-505.905" ypos="47.2421" zpos="558.019"  type="side_stories.ley_line_cartography" GUID="YgTFXON6s0KpoWtAbxR3/w=="/>
-		<POI MapID="20" xpos="-27.0567" ypos="58.4783" zpos="-181.865" type="side_stories.ley_line_cartography" GUID="tp2VLamKckSny0xBMpmvnQ=="/>
-		<POI MapID="20" xpos="28.3016"  ypos="37.0296" zpos="-862.447" type="side_stories.ley_line_cartography" GUID="DfkSoWnoREiQz2de8V18PQ=="/>
-		<POI MapID="31" xpos="-1143.5"  ypos="76.9852" zpos="-56.7971" type="side_stories.ley_line_cartography" GUID="1luGMG3NM0m/5CMiKuz5nw=="/>
-		<POI MapID="31" xpos="-26.9137" ypos="72.7958" zpos="-159.977" type="side_stories.ley_line_cartography" GUID="CsjYbUjkSU2i1GUni+/b1Q=="/>
-		<POI MapID="31" xpos="487.379"  ypos="54.7033" zpos="341.616"  type="side_stories.ley_line_cartography" GUID="IHtz0ceockyi0kQQQqoHlA=="/>
-		<POI MapID="39" xpos="-477.328" ypos="117.011" zpos="-455.655" type="side_stories.ley_line_cartography" GUID="JcoXf+7uUE2kKjq/jq+ywg=="/>
-		<POI MapID="39" xpos="-79.4288" ypos="77.8596" zpos="-385.732" type="side_stories.ley_line_cartography" GUID="bNONiYav2kiSAYTO74gpuw=="/>
-		<POI MapID="39" xpos="616.053"  ypos="26.8019" zpos="-484.118" type="side_stories.ley_line_cartography" GUID="TApLvduOd0WEUOWVQLuzHw=="/>
-
+		<POI MapID="20" xpos="-505.905" ypos="47.2421" zpos="558.019" type="side_stories.ley_line_cartography" GUID="YgTFXON6s0KpoWtAbxR3/w==" />
+		<POI MapID="20" xpos="-27.0567" ypos="58.4783" zpos="-181.865" type="side_stories.ley_line_cartography" GUID="tp2VLamKckSny0xBMpmvnQ==" />
+		<POI MapID="20" xpos="28.3016" ypos="37.0296" zpos="-862.447" type="side_stories.ley_line_cartography" GUID="DfkSoWnoREiQz2de8V18PQ==" />
+		<POI MapID="31" xpos="-1143.5" ypos="76.9852" zpos="-56.7971" type="side_stories.ley_line_cartography" GUID="1luGMG3NM0m/5CMiKuz5nw==" />
+		<POI MapID="31" xpos="-26.9137" ypos="72.7958" zpos="-159.977" type="side_stories.ley_line_cartography" GUID="CsjYbUjkSU2i1GUni+/b1Q==" />
+		<POI MapID="31" xpos="487.379" ypos="54.7033" zpos="341.616" type="side_stories.ley_line_cartography" GUID="IHtz0ceockyi0kQQQqoHlA==" />
+		<POI MapID="39" xpos="-477.328" ypos="117.011" zpos="-455.655" type="side_stories.ley_line_cartography" GUID="JcoXf+7uUE2kKjq/jq+ywg==" />
+		<POI MapID="39" xpos="-79.4288" ypos="77.8596" zpos="-385.732" type="side_stories.ley_line_cartography" GUID="bNONiYav2kiSAYTO74gpuw==" />
+		<POI MapID="39" xpos="616.053" ypos="26.8019" zpos="-484.118" type="side_stories.ley_line_cartography" GUID="TApLvduOd0WEUOWVQLuzHw==" />
 		<!-- LEY OF THE LAND -->
-		<POI MapID="50" xpos="-519.333" ypos="0.881745" zpos="15.6758" type="side_stories.ley_of_the_land" GUID="sqN2WiwtHUqw2nWpJDbrvg=="/>
-
+		<POI MapID="50" xpos="-519.333" ypos="0.881745" zpos="15.6758" type="side_stories.ley_of_the_land" GUID="sqN2WiwtHUqw2nWpJDbrvg==" />
 		<!-- LOONALOO'S PAYCHECK -->
-		<POI MapID="39" xpos="-1113.78" ypos="17.48" zpos="-477.03" type="side_stories.loonaloo_s_paycheck" GUID="CBtmKpZ4GUey2OGl5pz66Q==" heightOffset="3"/>
-
+		<POI MapID="39" xpos="-1113.78" ypos="17.48" zpos="-477.03" type="side_stories.loonaloo_s_paycheck" GUID="CBtmKpZ4GUey2OGl5pz66Q==" heightOffset="3" />
 		<!-- PURSUIT OF KNOWLEDGE -->
-		<POI MapID="50" xpos="-519.333" ypos="0.881745" zpos="15.6758" type="side_stories.pursuit_of_knowledge" GUID="SsriS2xMu0G/Eqyj9hBN5g=="/>
-
+		<POI MapID="50" xpos="-519.333" ypos="0.881745" zpos="15.6758" type="side_stories.pursuit_of_knowledge" GUID="SsriS2xMu0G/Eqyj9hBN5g==" />
 		<!-- SHANA'S AMBITION -->
-		<POI MapID="31" xpos="-364.685" ypos="41.2184" zpos="-532.565" type="side_stories.shana_s_ambition" GUID="mkV6bMpda0aXNr7uiXSqJg==" heightOffset="3.5"/>
-
+		<POI MapID="31" xpos="-364.685" ypos="41.2184" zpos="-532.565" type="side_stories.shana_s_ambition" GUID="mkV6bMpda0aXNr7uiXSqJg==" heightOffset="3.5" />
 	</POIs>
 </OverlayData>

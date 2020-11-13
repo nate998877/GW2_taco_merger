@@ -1,564 +1,520 @@
 <!-- 2020.06.25 -->
 <OverlayData>
 	<POIs>
-
 		<!-- CHASING WATERFALLS -->
-		<POI MapID="1317" xpos="815.231" ypos="65.046"    zpos="-271.075" type="story_journal.season_4.war_eternal.chasing_waterfalls" GUID="NdMHn5OYVU+9+rrHdK9b+w=="/>
-		<POI MapID="1317" xpos="854.104" ypos="-0.396204" zpos="-107.479" type="story_journal.season_4.war_eternal.chasing_waterfalls" GUID="9h2+CaiKSUqHtenhd6HNZA=="/>
-		<POI MapID="1317" xpos="787.351" ypos="-0.187071" zpos="5.0102"   type="story_journal.season_4.war_eternal.chasing_waterfalls" GUID="IP9h47ookUOIgAmLYSCVPw=="/>
-		<POI MapID="1317" xpos="815.714" ypos="-0.407004" zpos="314.9"    type="story_journal.season_4.war_eternal.chasing_waterfalls" GUID="+7c4OlZ1ZUqg8maLyHlPxA=="/>
-		<POI MapID="1317" xpos="619.561" ypos="-0.407007" zpos="288.816"  type="story_journal.season_4.war_eternal.chasing_waterfalls" GUID="Aoz/BPz6VkyvQVBG+ibKCg=="/>
-		<POI MapID="1317" xpos="391.242" ypos="-0.407004" zpos="239.071"  type="story_journal.season_4.war_eternal.chasing_waterfalls" GUID="yYN1QgE1rEeBfaYYXpCqXw=="/>
-		<POI MapID="1317" xpos="343.761" ypos="-0.406999" zpos="-573.404" type="story_journal.season_4.war_eternal.chasing_waterfalls" GUID="O0qCGLL76UqFNEZ0zZnycg=="/>
-		<POI MapID="1317" xpos="874.349" ypos="0.964146"  zpos="-649.213" type="story_journal.season_4.war_eternal.chasing_waterfalls" GUID="Mkp3QiY3XUCKRvje267Gcw=="/>
-		<POI MapID="1317" xpos="786.077" ypos="88.4614"   zpos="-550.422" type="story_journal.season_4.war_eternal.chasing_waterfalls" GUID="8Gld8Ufwv0Chx9JoJH7WHg=="/>
-
+		<POI MapID="1317" xpos="815.231" ypos="65.046" zpos="-271.075" type="story_journal.season_4.war_eternal.chasing_waterfalls" GUID="NdMHn5OYVU+9+rrHdK9b+w==" />
+		<POI MapID="1317" xpos="854.104" ypos="-0.396204" zpos="-107.479" type="story_journal.season_4.war_eternal.chasing_waterfalls" GUID="9h2+CaiKSUqHtenhd6HNZA==" />
+		<POI MapID="1317" xpos="787.351" ypos="-0.187071" zpos="5.0102" type="story_journal.season_4.war_eternal.chasing_waterfalls" GUID="IP9h47ookUOIgAmLYSCVPw==" />
+		<POI MapID="1317" xpos="815.714" ypos="-0.407004" zpos="314.9" type="story_journal.season_4.war_eternal.chasing_waterfalls" GUID="+7c4OlZ1ZUqg8maLyHlPxA==" />
+		<POI MapID="1317" xpos="619.561" ypos="-0.407007" zpos="288.816" type="story_journal.season_4.war_eternal.chasing_waterfalls" GUID="Aoz/BPz6VkyvQVBG+ibKCg==" />
+		<POI MapID="1317" xpos="391.242" ypos="-0.407004" zpos="239.071" type="story_journal.season_4.war_eternal.chasing_waterfalls" GUID="yYN1QgE1rEeBfaYYXpCqXw==" />
+		<POI MapID="1317" xpos="343.761" ypos="-0.406999" zpos="-573.404" type="story_journal.season_4.war_eternal.chasing_waterfalls" GUID="O0qCGLL76UqFNEZ0zZnycg==" />
+		<POI MapID="1317" xpos="874.349" ypos="0.964146" zpos="-649.213" type="story_journal.season_4.war_eternal.chasing_waterfalls" GUID="Mkp3QiY3XUCKRvje267Gcw==" />
+		<POI MapID="1317" xpos="786.077" ypos="88.4614" zpos="-550.422" type="story_journal.season_4.war_eternal.chasing_waterfalls" GUID="8Gld8Ufwv0Chx9JoJH7WHg==" />
 		<!-- CHAMPIONSHIP BOUT -->
-		<POI MapID="1317" xpos="-146.627" ypos="197.392" zpos="-677.98"  type="story_journal.season_4.war_eternal.championship_bout" GUID="9f5ASga+qEqSZdaojpspjg=="/>
-		<POI MapID="1317" xpos="486.42"   ypos="123.07"  zpos="343.778"  type="story_journal.season_4.war_eternal.championship_bout" GUID="6RHWbVLYjkOelDBXrqN4ZA=="/>
-		<POI MapID="1317" xpos="-853.972" ypos="171.505" zpos="-100.755" type="story_journal.season_4.war_eternal.championship_bout" GUID="2PZW4Q5s8EGDXAT92agaIQ=="/>
-		<POI MapID="1317" xpos="-911.475" ypos="178.231" zpos="-39.2503" type="story_journal.season_4.war_eternal.championship_bout" GUID="/t13HmbSLESQRolDCzTx9Q=="/>
-		<POI MapID="1317" xpos="319.111"  ypos="319.312" zpos="-43.4222" type="story_journal.season_4.war_eternal.championship_bout" GUID="N/bLxABu4UazLWre6OHOlg=="/>
-		<POI MapID="1317" xpos="-384.246" ypos="194.464" zpos="416.146"  type="story_journal.season_4.war_eternal.championship_bout" GUID="3r1dyD+XV0KfmUeTfrGQsg=="/>
-		<POI MapID="1317" xpos="-872.103" ypos="239.169" zpos="366.585"  type="story_journal.season_4.war_eternal.championship_bout" GUID="jnCFcxc67ka6bbof7k+XzA=="/>
-		<POI MapID="1317" xpos="-186.447" ypos="216.409" zpos="734.948"  type="story_journal.season_4.war_eternal.championship_bout" GUID="+tJFXXVUTEiqkzsfg12TiQ=="/>
-		<POI MapID="1317" xpos="653.522"  ypos="128.243" zpos="76.6256"  type="story_journal.season_4.war_eternal.championship_bout" GUID="womIbsij30C/4ZyXJVd0rw=="/>
-		<POI MapID="1317" xpos="-787.171" ypos="65.6609" zpos="-653.069" type="story_journal.season_4.war_eternal.championship_bout" GUID="q9NSRVZOukmyFbUkDKZnTA=="/>
-		<POI MapID="1317" xpos="-594.782" ypos="256.182" zpos="517.631"  type="story_journal.season_4.war_eternal.championship_bout" GUID="h4I7RdUt1U6HAHZQslVJiw=="/>
-		<POI MapID="1317" xpos="926.731"  ypos="116.202" zpos="150.659"  type="story_journal.season_4.war_eternal.championship_bout" GUID="zdgKC09ZvE2uSO3NId3hlA=="/>
-		<POI MapID="1317" xpos="-897.651" ypos="62.9375" zpos="-407.879" type="story_journal.season_4.war_eternal.championship_bout" GUID="PP+0+4pTz0qjSk9vf7QdJw=="/>
-
+		<POI MapID="1317" xpos="-146.627" ypos="197.392" zpos="-677.98" type="story_journal.season_4.war_eternal.championship_bout" GUID="9f5ASga+qEqSZdaojpspjg==" />
+		<POI MapID="1317" xpos="486.42" ypos="123.07" zpos="343.778" type="story_journal.season_4.war_eternal.championship_bout" GUID="6RHWbVLYjkOelDBXrqN4ZA==" />
+		<POI MapID="1317" xpos="-853.972" ypos="171.505" zpos="-100.755" type="story_journal.season_4.war_eternal.championship_bout" GUID="2PZW4Q5s8EGDXAT92agaIQ==" />
+		<POI MapID="1317" xpos="-911.475" ypos="178.231" zpos="-39.2503" type="story_journal.season_4.war_eternal.championship_bout" GUID="/t13HmbSLESQRolDCzTx9Q==" />
+		<POI MapID="1317" xpos="319.111" ypos="319.312" zpos="-43.4222" type="story_journal.season_4.war_eternal.championship_bout" GUID="N/bLxABu4UazLWre6OHOlg==" />
+		<POI MapID="1317" xpos="-384.246" ypos="194.464" zpos="416.146" type="story_journal.season_4.war_eternal.championship_bout" GUID="3r1dyD+XV0KfmUeTfrGQsg==" />
+		<POI MapID="1317" xpos="-872.103" ypos="239.169" zpos="366.585" type="story_journal.season_4.war_eternal.championship_bout" GUID="jnCFcxc67ka6bbof7k+XzA==" />
+		<POI MapID="1317" xpos="-186.447" ypos="216.409" zpos="734.948" type="story_journal.season_4.war_eternal.championship_bout" GUID="+tJFXXVUTEiqkzsfg12TiQ==" />
+		<POI MapID="1317" xpos="653.522" ypos="128.243" zpos="76.6256" type="story_journal.season_4.war_eternal.championship_bout" GUID="womIbsij30C/4ZyXJVd0rw==" />
+		<POI MapID="1317" xpos="-787.171" ypos="65.6609" zpos="-653.069" type="story_journal.season_4.war_eternal.championship_bout" GUID="q9NSRVZOukmyFbUkDKZnTA==" />
+		<POI MapID="1317" xpos="-594.782" ypos="256.182" zpos="517.631" type="story_journal.season_4.war_eternal.championship_bout" GUID="h4I7RdUt1U6HAHZQslVJiw==" />
+		<POI MapID="1317" xpos="926.731" ypos="116.202" zpos="150.659" type="story_journal.season_4.war_eternal.championship_bout" GUID="zdgKC09ZvE2uSO3NId3hlA==" />
+		<POI MapID="1317" xpos="-897.651" ypos="62.9375" zpos="-407.879" type="story_journal.season_4.war_eternal.championship_bout" GUID="PP+0+4pTz0qjSk9vf7QdJw==" />
 		<!-- DRAGONFALL INSIGHT: ABOVE THE UMBRA BATTLEGROUNDS -->
-		<Trail type="story_journal.season_4.war_eternal.dragonfall_insight_above_the_umbra_battlegrounds" GUID="vXM2PPsUZUaXoosRIUbTvw==" trailData="Data/StoryJournal/Season4/WarEternal/DragonfallInsightAboveTheUmbraBattlegrounds.trl" texture="Data/Arrow.png" color="ffffff00" alpha="0.8" fadeNear="3000" fadeFar="3500" animSpeed="1" mapDisplaySize="15"/>
-		<POI MapID="1317" xpos="-143.027" ypos="176.471" zpos="456.244" type="story_journal.season_4.war_eternal.dragonfall_insight_above_the_umbra_battlegrounds" GUID="w0wzWx0OEUSEMJ3Bayeayw==" iconFile="Img/PoF/MasteryPoF.png" heightOffset="1"/>
-
+		<Trail type="story_journal.season_4.war_eternal.dragonfall_insight_above_the_umbra_battlegrounds" GUID="vXM2PPsUZUaXoosRIUbTvw==" trailData="Data/StoryJournal/Season4/WarEternal/DragonfallInsightAboveTheUmbraBattlegrounds.trl" texture="Data/Arrow.png" color="ffffff00" alpha="0.8" fadeNear="3000" fadeFar="3500" animSpeed="1" mapDisplaySize="15" />
+		<POI MapID="1317" xpos="-143.027" ypos="176.471" zpos="456.244" type="story_journal.season_4.war_eternal.dragonfall_insight_above_the_umbra_battlegrounds" GUID="w0wzWx0OEUSEMJ3Bayeayw==" iconFile="Img/PoF/MasteryPoF.png" heightOffset="1" />
 		<!-- DRAGONFALL INSIGHT: DRAGON'S SNARE -->
-		<Trail type="story_journal.season_4.war_eternal.dragonfall_insight_dragon_s_snare" GUID="ZPPyOsTQvUCZMBY3yI4K1g==" trailData="Data/StoryJournal/Season4/WarEternal/DragonfallInsightDragonsSnare.trl"    texture="Data/Arrow.png" color="ffffff00" alpha="0.8" fadeNear="3000" fadeFar="3500" animSpeed="1" mapDisplaySize="15"/>
-		<Trail type="story_journal.season_4.war_eternal.dragonfall_insight_dragon_s_snare" GUID="Dhro4Y/kX0CV8VIEv8WxSw==" trailData="Data/StoryJournal/Season4/WarEternal/DragonfallInsightDragonsSnareFix.trl" texture="Data/Arrow.png" color="ffffff00" alpha="0.8" fadeNear="3000" fadeFar="3500" animSpeed="1" mapDisplaySize="15"/>
-		<POI MapID="1317" xpos="224.097" ypos="-0.390863" zpos="205.713" type="story_journal.season_4.war_eternal.dragonfall_insight_dragon_s_snare" GUID="VunBpzjHh0+OHeSVP9pMbQ==" iconFile="Img/PoF/MasteryPoF.png" heightOffset="1"/>
-		<POI MapID="1317" xpos="224.097" ypos="1"         zpos="205.713" type="story_journal.season_4.war_eternal.dragonfall_insight_dragon_s_snare" GUID="tS/MauC7Kk6cz/ByLo3JIw==" iconFile="Img/Season4/DragonfallInsightDragonsSnare.png" minSize="48" maxSize="64" fadeNear="2000" fadeFar="2500" mapVisibility="0" miniMapVisibility="0"/>
-
+		<Trail type="story_journal.season_4.war_eternal.dragonfall_insight_dragon_s_snare" GUID="ZPPyOsTQvUCZMBY3yI4K1g==" trailData="Data/StoryJournal/Season4/WarEternal/DragonfallInsightDragonsSnare.trl" texture="Data/Arrow.png" color="ffffff00" alpha="0.8" fadeNear="3000" fadeFar="3500" animSpeed="1" mapDisplaySize="15" />
+		<Trail type="story_journal.season_4.war_eternal.dragonfall_insight_dragon_s_snare" GUID="Dhro4Y/kX0CV8VIEv8WxSw==" trailData="Data/StoryJournal/Season4/WarEternal/DragonfallInsightDragonsSnareFix.trl" texture="Data/Arrow.png" color="ffffff00" alpha="0.8" fadeNear="3000" fadeFar="3500" animSpeed="1" mapDisplaySize="15" />
+		<POI MapID="1317" xpos="224.097" ypos="-0.390863" zpos="205.713" type="story_journal.season_4.war_eternal.dragonfall_insight_dragon_s_snare" GUID="VunBpzjHh0+OHeSVP9pMbQ==" iconFile="Img/PoF/MasteryPoF.png" heightOffset="1" />
+		<POI MapID="1317" xpos="224.097" ypos="1" zpos="205.713" type="story_journal.season_4.war_eternal.dragonfall_insight_dragon_s_snare" GUID="tS/MauC7Kk6cz/ByLo3JIw==" iconFile="Img/Season4/DragonfallInsightDragonsSnare.png" minSize="48" maxSize="64" fadeNear="2000" fadeFar="2500" mapVisibility="0" miniMapVisibility="0" />
 		<!-- DRAGONFALL INSIGHT: GNARLGROVE OVERLOOK -->
-		<POI MapID="1317" xpos="289.254" ypos="274.169" zpos="169.196" type="story_journal.season_4.war_eternal.dragonfall_insight_gnarlgrove_overlook" GUID="5DH0W4Udskag7R2XoNtLcQ==" iconFile="Img/PoF/MasteryPoF.png" heightOffset="1"/>
-
+		<POI MapID="1317" xpos="289.254" ypos="274.169" zpos="169.196" type="story_journal.season_4.war_eternal.dragonfall_insight_gnarlgrove_overlook" GUID="5DH0W4Udskag7R2XoNtLcQ==" iconFile="Img/PoF/MasteryPoF.png" heightOffset="1" />
 		<!-- DRAGONFALL INSIGHT: GRENTH'S TEETH COASTLINE -->
-		<POI MapID="1317" xpos="-813.282" ypos="104.513" zpos="-759.304" type="story_journal.season_4.war_eternal.dragonfall_insight_grenth_s_teeth_coastline" GUID="1Le4s8nFJkG6oaSFJHT9WA==" iconFile="Img/PoF/MasteryPoF.png" heightOffset="1"/>
-
+		<POI MapID="1317" xpos="-813.282" ypos="104.513" zpos="-759.304" type="story_journal.season_4.war_eternal.dragonfall_insight_grenth_s_teeth_coastline" GUID="1Le4s8nFJkG6oaSFJHT9WA==" iconFile="Img/PoF/MasteryPoF.png" heightOffset="1" />
 		<!-- DRAGONFALL INSIGHT: SCORCHED CLIFFS TREETOP -->
-		<POI MapID="1317" xpos="-873.459" ypos="229.393" zpos="602.906" type="story_journal.season_4.war_eternal.dragonfall_insight_scorched_cliffs_treetop" GUID="/KyWshCeskqtKkERUKeWyw==" iconFile="Img/PoF/MasteryPoF.png" heightOffset="1"/>
-
+		<POI MapID="1317" xpos="-873.459" ypos="229.393" zpos="602.906" type="story_journal.season_4.war_eternal.dragonfall_insight_scorched_cliffs_treetop" GUID="/KyWshCeskqtKkERUKeWyw==" iconFile="Img/PoF/MasteryPoF.png" heightOffset="1" />
 		<!-- DRAGONFALL INSIGHT: SKYSCALE EYRIE -->
-		<POI MapID="1317" xpos="-376.708" ypos="114.224" zpos="-762.997" type="story_journal.season_4.war_eternal.dragonfall_insight_skyscale_eyrie" GUID="jfey2hHTkUC8B9atZ31oyA==" iconFile="Img/PoF/MasteryPoF.png" heightOffset="1"/>
-
+		<POI MapID="1317" xpos="-376.708" ypos="114.224" zpos="-762.997" type="story_journal.season_4.war_eternal.dragonfall_insight_skyscale_eyrie" GUID="jfey2hHTkUC8B9atZ31oyA==" iconFile="Img/PoF/MasteryPoF.png" heightOffset="1" />
 		<!-- FRIENDS IN HIGH PLACES -->
-		<Trail type="story_journal.season_4.war_eternal.friends_in_high_places" GUID="Y8Gv3R16yEKU7lZkjyT83w==" trailData="Data/StoryJournal/Season4/WarEternal/FriendsInHighPlaces.trl" texture="Data/Arrow.png" color="ff00bbff" alpha="1" fadeNear="50000" fadeFar="50000" animSpeed="1" mapDisplaySize="15"/>
-		<POI MapID="1317" xpos="924.17" ypos="376.517" zpos="-34.2495" type="story_journal.season_4.war_eternal.friends_in_high_places" GUID="y/4be/JB7k2KGKjzkjCMAg==" iconFile="Img/Season4/Aircraft.png" heightOffset="0"/>
-
+		<Trail type="story_journal.season_4.war_eternal.friends_in_high_places" GUID="Y8Gv3R16yEKU7lZkjyT83w==" trailData="Data/StoryJournal/Season4/WarEternal/FriendsInHighPlaces.trl" texture="Data/Arrow.png" color="ff00bbff" alpha="1" fadeNear="50000" fadeFar="50000" animSpeed="1" mapDisplaySize="15" />
+		<POI MapID="1317" xpos="924.17" ypos="376.517" zpos="-34.2495" type="story_journal.season_4.war_eternal.friends_in_high_places" GUID="y/4be/JB7k2KGKjzkjCMAg==" iconFile="Img/Season4/Aircraft.png" heightOffset="0" />
 		<!-- MY BEAUTIFUL INFRASTRUCTURES -->
-		<POI MapID="1317" xpos="-714.642" ypos="99.9115" zpos="130.59"   type="story_journal.season_4.war_eternal.my_beautiful_infrastructures" GUID="dbVaiPNJ40qYNWjC3veAiw=="/>
-		<POI MapID="1317" xpos="-1.27821" ypos="100.108" zpos="-595.791" type="story_journal.season_4.war_eternal.my_beautiful_infrastructures" GUID="2yxDo8i+gkyKjIlYGF9ysA=="/>
-		<POI MapID="1317" xpos="75.3393"  ypos="99.7162" zpos="584.466"  type="story_journal.season_4.war_eternal.my_beautiful_infrastructures" GUID="hJNSDohaUkeMkFRgEaG7wA=="/>
-		<POI MapID="1317" xpos="616.118"  ypos="150.011" zpos="-151.641" type="story_journal.season_4.war_eternal.my_beautiful_infrastructures" GUID="RjZ7v+bAikCnXuXlCarsPA=="/>
-
+		<POI MapID="1317" xpos="-714.642" ypos="99.9115" zpos="130.59" type="story_journal.season_4.war_eternal.my_beautiful_infrastructures" GUID="dbVaiPNJ40qYNWjC3veAiw==" />
+		<POI MapID="1317" xpos="-1.27821" ypos="100.108" zpos="-595.791" type="story_journal.season_4.war_eternal.my_beautiful_infrastructures" GUID="2yxDo8i+gkyKjIlYGF9ysA==" />
+		<POI MapID="1317" xpos="75.3393" ypos="99.7162" zpos="584.466" type="story_journal.season_4.war_eternal.my_beautiful_infrastructures" GUID="hJNSDohaUkeMkFRgEaG7wA==" />
+		<POI MapID="1317" xpos="616.118" ypos="150.011" zpos="-151.641" type="story_journal.season_4.war_eternal.my_beautiful_infrastructures" GUID="RjZ7v+bAikCnXuXlCarsPA==" />
 		<!-- SNIPER'S NEST -->
-		<POI MapID="1317" xpos="-540.05"  ypos="172.908" zpos="448.713"  type="story_journal.season_4.war_eternal.sniper_s_nest" GUID="3l4zjKkBJ0a0yeIckx69jw=="/>
-		<POI MapID="1317" xpos="-460.91"  ypos="139.424" zpos="-83.2918" type="story_journal.season_4.war_eternal.sniper_s_nest" GUID="OMe020f9zUS5qxlk1pJRcw=="/>
-		<POI MapID="1317" xpos="-408.348" ypos="147.809" zpos="-443.225" type="story_journal.season_4.war_eternal.sniper_s_nest" GUID="80MlESlLR0ujnCB4rP0zKQ=="/>
-		<POI MapID="1317" xpos="-348.526" ypos="153.982" zpos="439.342"  type="story_journal.season_4.war_eternal.sniper_s_nest" GUID="3VcDlj6emkKCIkIYr/KCqg=="/>
-		<POI MapID="1317" xpos="549.841"  ypos="209.798" zpos="-362.95"  type="story_journal.season_4.war_eternal.sniper_s_nest" GUID="+8ianbIPfEK3Q+EA/YcMlw=="/>
-		<POI MapID="1317" xpos="645.01"   ypos="187.391" zpos="-254.204" type="story_journal.season_4.war_eternal.sniper_s_nest" GUID="Eot4VoG110itOljt+17l6w=="/>
-		<POI MapID="1317" xpos="736.189"  ypos="153.213" zpos="243.366"  type="story_journal.season_4.war_eternal.sniper_s_nest" GUID="vP5IZyQXJk+kxg0pUKQa4A=="/>
-		<POI MapID="1317" xpos="809.487"  ypos="137.059" zpos="117.938"  type="story_journal.season_4.war_eternal.sniper_s_nest" GUID="bcmBhD4FpEWu5F3jOMPSkg=="/>
-
+		<POI MapID="1317" xpos="-540.05" ypos="172.908" zpos="448.713" type="story_journal.season_4.war_eternal.sniper_s_nest" GUID="3l4zjKkBJ0a0yeIckx69jw==" />
+		<POI MapID="1317" xpos="-460.91" ypos="139.424" zpos="-83.2918" type="story_journal.season_4.war_eternal.sniper_s_nest" GUID="OMe020f9zUS5qxlk1pJRcw==" />
+		<POI MapID="1317" xpos="-408.348" ypos="147.809" zpos="-443.225" type="story_journal.season_4.war_eternal.sniper_s_nest" GUID="80MlESlLR0ujnCB4rP0zKQ==" />
+		<POI MapID="1317" xpos="-348.526" ypos="153.982" zpos="439.342" type="story_journal.season_4.war_eternal.sniper_s_nest" GUID="3VcDlj6emkKCIkIYr/KCqg==" />
+		<POI MapID="1317" xpos="549.841" ypos="209.798" zpos="-362.95" type="story_journal.season_4.war_eternal.sniper_s_nest" GUID="+8ianbIPfEK3Q+EA/YcMlw==" />
+		<POI MapID="1317" xpos="645.01" ypos="187.391" zpos="-254.204" type="story_journal.season_4.war_eternal.sniper_s_nest" GUID="Eot4VoG110itOljt+17l6w==" />
+		<POI MapID="1317" xpos="736.189" ypos="153.213" zpos="243.366" type="story_journal.season_4.war_eternal.sniper_s_nest" GUID="vP5IZyQXJk+kxg0pUKQa4A==" />
+		<POI MapID="1317" xpos="809.487" ypos="137.059" zpos="117.938" type="story_journal.season_4.war_eternal.sniper_s_nest" GUID="bcmBhD4FpEWu5F3jOMPSkg==" />
 		<!-- NEWBORN SKYSCALES -->
-		<POI MapID="1317" xpos="-376.664" ypos="115.036" zpos="-703.228" type="story_journal.season_4.war_eternal.newborn_skyscales" GUID="r+W+Cwxe+0675L0BDqKiGg==" iconFile="Img/Season4/Gorrik.png" heightOffset="3"/>
-
+		<POI MapID="1317" xpos="-376.664" ypos="115.036" zpos="-703.228" type="story_journal.season_4.war_eternal.newborn_skyscales" GUID="r+W+Cwxe+0675L0BDqKiGg==" iconFile="Img/Season4/Gorrik.png" heightOffset="3" />
 		<!-- SKYSCALE EGGS -->
-		<POI MapID="1317" xpos="-344.929" ypos="120.586" zpos="-714.744" type="story_journal.season_4.war_eternal.newborn_skyscales.skyscale_eggs" GUID="XnQ3qEZZYE6g2PZc3atLDw==" achievementBit="0"/>
-		<POI MapID="1317" xpos="-851.89"  ypos="150.673" zpos="-231.58"  type="story_journal.season_4.war_eternal.newborn_skyscales.skyscale_eggs" GUID="T8K4Q7dIYk6ex5FfQRZTFw==" achievementBit="1"/>
-		<POI MapID="1317" xpos="-857.382" ypos="236.128" zpos="-13.9121" type="story_journal.season_4.war_eternal.newborn_skyscales.skyscale_eggs" GUID="0QS5jWyT1EODPplPoU1nsQ==" achievementBit="2"/>
-		<POI MapID="1317" xpos="-888.31"  ypos="24.1634" zpos="249.301"  type="story_journal.season_4.war_eternal.newborn_skyscales.skyscale_eggs" GUID="y7In0AKX1Em5TRQw/3JTeA==" achievementBit="3"/>
-		<POI MapID="1317" xpos="-523.589" ypos="276.297" zpos="320.079"  type="story_journal.season_4.war_eternal.newborn_skyscales.skyscale_eggs" GUID="lbj/YA8KBU20Rgn94+psPQ==" achievementBit="4"/>
-		<POI MapID="1317" xpos="-904.454" ypos="194.83"  zpos="535.69"   type="story_journal.season_4.war_eternal.newborn_skyscales.skyscale_eggs" GUID="FTakr5SL8kqb/AwuHQSLNg==" achievementBit="5"/>
-		<POI MapID="1317" xpos="-545.169" ypos="3.4813"  zpos="802.549"  type="story_journal.season_4.war_eternal.newborn_skyscales.skyscale_eggs" GUID="ZkIeoDcnikyk0j6hutWq9w==" achievementBit="6"/>
-		<POI MapID="1317" xpos="3.93417"  ypos="291.851" zpos="340.709"  type="story_journal.season_4.war_eternal.newborn_skyscales.skyscale_eggs" GUID="Ej5fWTsEQkKW9Jgr5KXt7Q==" achievementBit="7"/>
-		<POI MapID="1317" xpos="-31.449"  ypos="214.758" zpos="618.349"  type="story_journal.season_4.war_eternal.newborn_skyscales.skyscale_eggs" GUID="2Bn64Sa/RUmvbDCHAXy9xQ==" achievementBit="8"/>
-		<POI MapID="1317" xpos="314.622"  ypos="208.568" zpos="430.58"   type="story_journal.season_4.war_eternal.newborn_skyscales.skyscale_eggs" GUID="XVP+GFC8R0CkrGs+mmCUsw==" achievementBit="9"/>
-		<POI MapID="1317" xpos="289.883"  ypos="292.749" zpos="31.2945"  type="story_journal.season_4.war_eternal.newborn_skyscales.skyscale_eggs" GUID="u+8MwjskeEmkKdPl5fN6uQ==" achievementBit="10"/>
-		<POI MapID="1317" xpos="398.91"   ypos="286.871" zpos="51.2681"  type="story_journal.season_4.war_eternal.newborn_skyscales.skyscale_eggs" GUID="4KjtF5PiZ0GMb9+xUIVQig==" achievementBit="11"/>
-		<POI MapID="1317" xpos="828.709"  ypos="20.5476" zpos="88.7253"  type="story_journal.season_4.war_eternal.newborn_skyscales.skyscale_eggs" GUID="0XovgFfWsEmDEj75jSIQNQ==" achievementBit="12"/>
-		<POI MapID="1317" xpos="707.712"  ypos="294.063" zpos="-135.188" type="story_journal.season_4.war_eternal.newborn_skyscales.skyscale_eggs" GUID="viv00tpjAUqFkZof8zOrYA==" achievementBit="13"/>
-		<POI MapID="1317" xpos="1063.53"  ypos="414.438" zpos="110.004"  type="story_journal.season_4.war_eternal.newborn_skyscales.skyscale_eggs" GUID="9uiacDzVpk+KHan8hYi8RQ==" achievementBit="14"/>
-		<POI MapID="1317" xpos="1070.62"  ypos="322.197" zpos="-26.9901" type="story_journal.season_4.war_eternal.newborn_skyscales.skyscale_eggs" GUID="glL1eMJ0/UicwSNfIkakZQ==" achievementBit="15"/>
-		<POI MapID="1317" xpos="705.345"  ypos="231.833" zpos="-403.363" type="story_journal.season_4.war_eternal.newborn_skyscales.skyscale_eggs" GUID="NNIZ6DaM6kGmTBFESRBfEg==" achievementBit="16"/>
-		<POI MapID="1317" xpos="763.89"   ypos="206.9"   zpos="-406.681" type="story_journal.season_4.war_eternal.newborn_skyscales.skyscale_eggs" GUID="lTH6zaUqk0qfby0XUaEiEQ==" achievementBit="17"/>
-		<POI MapID="1317" xpos="584.194"  ypos="293.123" zpos="-334.876" type="story_journal.season_4.war_eternal.newborn_skyscales.skyscale_eggs" GUID="B/VVJISwQUe9e9r/wa87aw==" achievementBit="18"/>
-		<POI MapID="1317" xpos="354.14"   ypos="261.395" zpos="-625.703" type="story_journal.season_4.war_eternal.newborn_skyscales.skyscale_eggs" GUID="oJGoHG7a0U6stW0sivN2lg==" achievementBit="19"/>
-		<POI MapID="1317" xpos="-531.126" ypos="254.564" zpos="-433"     type="story_journal.season_4.war_eternal.newborn_skyscales.skyscale_eggs" GUID="DQQyxG2wK0SuUgsd5KVxlw==" achievementBit="20"/>
-
+		<POI MapID="1317" xpos="-344.929" ypos="120.586" zpos="-714.744" type="story_journal.season_4.war_eternal.newborn_skyscales.skyscale_eggs" GUID="XnQ3qEZZYE6g2PZc3atLDw==" achievementBit="0" />
+		<POI MapID="1317" xpos="-851.89" ypos="150.673" zpos="-231.58" type="story_journal.season_4.war_eternal.newborn_skyscales.skyscale_eggs" GUID="T8K4Q7dIYk6ex5FfQRZTFw==" achievementBit="1" />
+		<POI MapID="1317" xpos="-857.382" ypos="236.128" zpos="-13.9121" type="story_journal.season_4.war_eternal.newborn_skyscales.skyscale_eggs" GUID="0QS5jWyT1EODPplPoU1nsQ==" achievementBit="2" />
+		<POI MapID="1317" xpos="-888.31" ypos="24.1634" zpos="249.301" type="story_journal.season_4.war_eternal.newborn_skyscales.skyscale_eggs" GUID="y7In0AKX1Em5TRQw/3JTeA==" achievementBit="3" />
+		<POI MapID="1317" xpos="-523.589" ypos="276.297" zpos="320.079" type="story_journal.season_4.war_eternal.newborn_skyscales.skyscale_eggs" GUID="lbj/YA8KBU20Rgn94+psPQ==" achievementBit="4" />
+		<POI MapID="1317" xpos="-904.454" ypos="194.83" zpos="535.69" type="story_journal.season_4.war_eternal.newborn_skyscales.skyscale_eggs" GUID="FTakr5SL8kqb/AwuHQSLNg==" achievementBit="5" />
+		<POI MapID="1317" xpos="-545.169" ypos="3.4813" zpos="802.549" type="story_journal.season_4.war_eternal.newborn_skyscales.skyscale_eggs" GUID="ZkIeoDcnikyk0j6hutWq9w==" achievementBit="6" />
+		<POI MapID="1317" xpos="3.93417" ypos="291.851" zpos="340.709" type="story_journal.season_4.war_eternal.newborn_skyscales.skyscale_eggs" GUID="Ej5fWTsEQkKW9Jgr5KXt7Q==" achievementBit="7" />
+		<POI MapID="1317" xpos="-31.449" ypos="214.758" zpos="618.349" type="story_journal.season_4.war_eternal.newborn_skyscales.skyscale_eggs" GUID="2Bn64Sa/RUmvbDCHAXy9xQ==" achievementBit="8" />
+		<POI MapID="1317" xpos="314.622" ypos="208.568" zpos="430.58" type="story_journal.season_4.war_eternal.newborn_skyscales.skyscale_eggs" GUID="XVP+GFC8R0CkrGs+mmCUsw==" achievementBit="9" />
+		<POI MapID="1317" xpos="289.883" ypos="292.749" zpos="31.2945" type="story_journal.season_4.war_eternal.newborn_skyscales.skyscale_eggs" GUID="u+8MwjskeEmkKdPl5fN6uQ==" achievementBit="10" />
+		<POI MapID="1317" xpos="398.91" ypos="286.871" zpos="51.2681" type="story_journal.season_4.war_eternal.newborn_skyscales.skyscale_eggs" GUID="4KjtF5PiZ0GMb9+xUIVQig==" achievementBit="11" />
+		<POI MapID="1317" xpos="828.709" ypos="20.5476" zpos="88.7253" type="story_journal.season_4.war_eternal.newborn_skyscales.skyscale_eggs" GUID="0XovgFfWsEmDEj75jSIQNQ==" achievementBit="12" />
+		<POI MapID="1317" xpos="707.712" ypos="294.063" zpos="-135.188" type="story_journal.season_4.war_eternal.newborn_skyscales.skyscale_eggs" GUID="viv00tpjAUqFkZof8zOrYA==" achievementBit="13" />
+		<POI MapID="1317" xpos="1063.53" ypos="414.438" zpos="110.004" type="story_journal.season_4.war_eternal.newborn_skyscales.skyscale_eggs" GUID="9uiacDzVpk+KHan8hYi8RQ==" achievementBit="14" />
+		<POI MapID="1317" xpos="1070.62" ypos="322.197" zpos="-26.9901" type="story_journal.season_4.war_eternal.newborn_skyscales.skyscale_eggs" GUID="glL1eMJ0/UicwSNfIkakZQ==" achievementBit="15" />
+		<POI MapID="1317" xpos="705.345" ypos="231.833" zpos="-403.363" type="story_journal.season_4.war_eternal.newborn_skyscales.skyscale_eggs" GUID="NNIZ6DaM6kGmTBFESRBfEg==" achievementBit="16" />
+		<POI MapID="1317" xpos="763.89" ypos="206.9" zpos="-406.681" type="story_journal.season_4.war_eternal.newborn_skyscales.skyscale_eggs" GUID="lTH6zaUqk0qfby0XUaEiEQ==" achievementBit="17" />
+		<POI MapID="1317" xpos="584.194" ypos="293.123" zpos="-334.876" type="story_journal.season_4.war_eternal.newborn_skyscales.skyscale_eggs" GUID="B/VVJISwQUe9e9r/wa87aw==" achievementBit="18" />
+		<POI MapID="1317" xpos="354.14" ypos="261.395" zpos="-625.703" type="story_journal.season_4.war_eternal.newborn_skyscales.skyscale_eggs" GUID="oJGoHG7a0U6stW0sivN2lg==" achievementBit="19" />
+		<POI MapID="1317" xpos="-531.126" ypos="254.564" zpos="-433" type="story_journal.season_4.war_eternal.newborn_skyscales.skyscale_eggs" GUID="DQQyxG2wK0SuUgsd5KVxlw==" achievementBit="20" />
 		<!-- SKYSCALE FEVER -->
-		<POI MapID="1317" xpos="-350.942" ypos="118.01"  zpos="-717.552" type="story_journal.season_4.war_eternal.newborn_skyscales.skyscale_fever" GUID="kuFVPMBCV0OyRN7RvF6Jtg==" achievementBit="0"/>
-		<POI MapID="1317" xpos="-574.387" ypos="162.6"   zpos="-605.577" type="story_journal.season_4.war_eternal.newborn_skyscales.skyscale_fever" GUID="gZ9TjJh78EuB1GkDYIXDLQ==" achievementBit="1"/>
-		<POI MapID="1317" xpos="-818.268" ypos="156.41"  zpos="-197.983" type="story_journal.season_4.war_eternal.newborn_skyscales.skyscale_fever" GUID="5MkXz2qC10esXuC8alKVSw==" achievementBit="2"/>
-		<POI MapID="1317" xpos="-375.692" ypos="244.084" zpos="-157.181" type="story_journal.season_4.war_eternal.newborn_skyscales.skyscale_fever" GUID="Bxte8mIx/km6l5XePYRfqA==" achievementBit="3"/>
-		<POI MapID="1317" xpos="-863.785" ypos="22.2577" zpos="224.973"  type="story_journal.season_4.war_eternal.newborn_skyscales.skyscale_fever" GUID="muitljWFBEKUs4sGNtZ6AQ==" achievementBit="4"/>
-		<POI MapID="1317" xpos="-508.076" ypos="276.225" zpos="317.742"  type="story_journal.season_4.war_eternal.newborn_skyscales.skyscale_fever" GUID="1xtO40n4NU6faLUHZuwe3w==" achievementBit="5"/>
-		<POI MapID="1317" xpos="-459.543" ypos="175.63"  zpos="704.161"  type="story_journal.season_4.war_eternal.newborn_skyscales.skyscale_fever" GUID="esAxBHuEk0KMcWMxelcsDg==" achievementBit="6"/>
-		<POI MapID="1317" xpos="-4.75508" ypos="306.328" zpos="354.657"  type="story_journal.season_4.war_eternal.newborn_skyscales.skyscale_fever" GUID="7kICHPTAH02aIwZWhhbvQQ==" achievementBit="7"/>
-		<POI MapID="1317" xpos="437.509"  ypos="120.037" zpos="461.446"  type="story_journal.season_4.war_eternal.newborn_skyscales.skyscale_fever" GUID="EHi0uhnLJ0mRYJ7mNHnRfg==" achievementBit="8"/>
-		<POI MapID="1317" xpos="396.115"  ypos="265.629" zpos="71.6185"  type="story_journal.season_4.war_eternal.newborn_skyscales.skyscale_fever" GUID="vXZoDx0Q30SSeAHq8pNpeA==" achievementBit="9"/>
-		<POI MapID="1317" xpos="846.979"  ypos="0.86538" zpos="35.2969"  type="story_journal.season_4.war_eternal.newborn_skyscales.skyscale_fever" GUID="jG90yDAy7UuwbYEqAZk45A==" achievementBit="10"/>
-		<POI MapID="1317" xpos="979.942"  ypos="316.22"  zpos="-24.6147" type="story_journal.season_4.war_eternal.newborn_skyscales.skyscale_fever" GUID="RrhMTAiPG0iDEekgxQ0aRQ==" achievementBit="11"/>
-		<POI MapID="1317" xpos="865.571"  ypos="171.153" zpos="-387.802" type="story_journal.season_4.war_eternal.newborn_skyscales.skyscale_fever" GUID="MmfNcuE9uUK/nNdqb6AVqA==" achievementBit="12"/>
-		<POI MapID="1317" xpos="570.911"  ypos="268.725" zpos="-324.319" type="story_journal.season_4.war_eternal.newborn_skyscales.skyscale_fever" GUID="hznNVelY5kG1rjVSLE9E1w==" achievementBit="13"/>
-
+		<POI MapID="1317" xpos="-350.942" ypos="118.01" zpos="-717.552" type="story_journal.season_4.war_eternal.newborn_skyscales.skyscale_fever" GUID="kuFVPMBCV0OyRN7RvF6Jtg==" achievementBit="0" />
+		<POI MapID="1317" xpos="-574.387" ypos="162.6" zpos="-605.577" type="story_journal.season_4.war_eternal.newborn_skyscales.skyscale_fever" GUID="gZ9TjJh78EuB1GkDYIXDLQ==" achievementBit="1" />
+		<POI MapID="1317" xpos="-818.268" ypos="156.41" zpos="-197.983" type="story_journal.season_4.war_eternal.newborn_skyscales.skyscale_fever" GUID="5MkXz2qC10esXuC8alKVSw==" achievementBit="2" />
+		<POI MapID="1317" xpos="-375.692" ypos="244.084" zpos="-157.181" type="story_journal.season_4.war_eternal.newborn_skyscales.skyscale_fever" GUID="Bxte8mIx/km6l5XePYRfqA==" achievementBit="3" />
+		<POI MapID="1317" xpos="-863.785" ypos="22.2577" zpos="224.973" type="story_journal.season_4.war_eternal.newborn_skyscales.skyscale_fever" GUID="muitljWFBEKUs4sGNtZ6AQ==" achievementBit="4" />
+		<POI MapID="1317" xpos="-508.076" ypos="276.225" zpos="317.742" type="story_journal.season_4.war_eternal.newborn_skyscales.skyscale_fever" GUID="1xtO40n4NU6faLUHZuwe3w==" achievementBit="5" />
+		<POI MapID="1317" xpos="-459.543" ypos="175.63" zpos="704.161" type="story_journal.season_4.war_eternal.newborn_skyscales.skyscale_fever" GUID="esAxBHuEk0KMcWMxelcsDg==" achievementBit="6" />
+		<POI MapID="1317" xpos="-4.75508" ypos="306.328" zpos="354.657" type="story_journal.season_4.war_eternal.newborn_skyscales.skyscale_fever" GUID="7kICHPTAH02aIwZWhhbvQQ==" achievementBit="7" />
+		<POI MapID="1317" xpos="437.509" ypos="120.037" zpos="461.446" type="story_journal.season_4.war_eternal.newborn_skyscales.skyscale_fever" GUID="EHi0uhnLJ0mRYJ7mNHnRfg==" achievementBit="8" />
+		<POI MapID="1317" xpos="396.115" ypos="265.629" zpos="71.6185" type="story_journal.season_4.war_eternal.newborn_skyscales.skyscale_fever" GUID="vXZoDx0Q30SSeAHq8pNpeA==" achievementBit="9" />
+		<POI MapID="1317" xpos="846.979" ypos="0.86538" zpos="35.2969" type="story_journal.season_4.war_eternal.newborn_skyscales.skyscale_fever" GUID="jG90yDAy7UuwbYEqAZk45A==" achievementBit="10" />
+		<POI MapID="1317" xpos="979.942" ypos="316.22" zpos="-24.6147" type="story_journal.season_4.war_eternal.newborn_skyscales.skyscale_fever" GUID="RrhMTAiPG0iDEekgxQ0aRQ==" achievementBit="11" />
+		<POI MapID="1317" xpos="865.571" ypos="171.153" zpos="-387.802" type="story_journal.season_4.war_eternal.newborn_skyscales.skyscale_fever" GUID="MmfNcuE9uUK/nNdqb6AVqA==" achievementBit="12" />
+		<POI MapID="1317" xpos="570.911" ypos="268.725" zpos="-324.319" type="story_journal.season_4.war_eternal.newborn_skyscales.skyscale_fever" GUID="hznNVelY5kG1rjVSLE9E1w==" achievementBit="13" />
 		<!-- SKYSCALE SCALES -->
-		<POI MapID="1317" xpos="-349.352" ypos="112.517" zpos="-722.38"  type="story_journal.season_4.war_eternal.newborn_skyscales.skyscale_scales" GUID="bOqzEgIfSkuxynNJcJPciw==" achievementBit="0"/>
-		<POI MapID="1317" xpos="745.276"  ypos="7.02931" zpos="343.834"  type="story_journal.season_4.war_eternal.newborn_skyscales.skyscale_scales" GUID="uDF8SiyBMkebKd9TOD/0Bw==" achievementBit="1"/>
-		<POI MapID="1317" xpos="786.011"  ypos="199.506" zpos="673.458"  type="story_journal.season_4.war_eternal.newborn_skyscales.skyscale_scales" GUID="SN/bt2OdV06wLu2HOIwDwA==" achievementBit="2"/>
-		<POI MapID="1317" xpos="968.702"  ypos="377.018" zpos="-183.303" type="story_journal.season_4.war_eternal.newborn_skyscales.skyscale_scales" GUID="btNK3wH5zEipLrJkGjQdGg==" achievementBit="3"/>
-		<POI MapID="1317" xpos="863.133"  ypos="193.655" zpos="-268.458" type="story_journal.season_4.war_eternal.newborn_skyscales.skyscale_scales" GUID="QcM82LmnqkawoYyaHdKpqQ==" achievementBit="4"/>
-		<POI MapID="1317" xpos="426.144"  ypos="292.265" zpos="-314.533" type="story_journal.season_4.war_eternal.newborn_skyscales.skyscale_scales" GUID="8dBkOOgxdkKjDQ9xDkowMA==" achievementBit="5"/>
-		<POI MapID="1317" xpos="767.477"  ypos="78.1335" zpos="-804.825" type="story_journal.season_4.war_eternal.newborn_skyscales.skyscale_scales" GUID="LZuvlqf47EmWVAHjdWlxDQ==" achievementBit="6"/>
-		<POI MapID="1317" xpos="-795.837" ypos="24.3399" zpos="-786.07"  type="story_journal.season_4.war_eternal.newborn_skyscales.skyscale_scales" GUID="R4O8v6BFJ0KxnaClCWxP8Q==" achievementBit="7"/>
-		<POI MapID="1317" xpos="-186.057" ypos="109.251" zpos="-179.979" type="story_journal.season_4.war_eternal.newborn_skyscales.skyscale_scales" GUID="NJdpdPUnR0Ccz9qZw7UN/Q==" achievementBit="8"/>
-		<POI MapID="1317" xpos="-432.106" ypos="167.01"  zpos="-53.4345" type="story_journal.season_4.war_eternal.newborn_skyscales.skyscale_scales" GUID="R5uJ3WvfRki87sgfjKTCog==" achievementBit="9"/>
-		<POI MapID="1317" xpos="-985.271" ypos="81.2877" zpos="-164.091" type="story_journal.season_4.war_eternal.newborn_skyscales.skyscale_scales" GUID="fno5uRQXT0aWZ2QVycJJSg==" achievementBit="10"/>
-		<POI MapID="1317" xpos="-430.168" ypos="278.337" zpos="276.38"   type="story_journal.season_4.war_eternal.newborn_skyscales.skyscale_scales" GUID="IOtiptWTlkGSeRZdhTpObg==" achievementBit="11"/>
-		<POI MapID="1317" xpos="-484.883" ypos="147.887" zpos="527.585"  type="story_journal.season_4.war_eternal.newborn_skyscales.skyscale_scales" GUID="tyiFuYRCaE6gV1TFMna9+A==" achievementBit="12"/>
-		<POI MapID="1317" xpos="-969.291" ypos="4.32721" zpos="426.048"  type="story_journal.season_4.war_eternal.newborn_skyscales.skyscale_scales" GUID="2wM6AlCllkmups4FsSgalA==" achievementBit="13"/>
-		<POI MapID="1317" xpos="-29.511"  ypos="52.9286" zpos="793.743"  type="story_journal.season_4.war_eternal.newborn_skyscales.skyscale_scales" GUID="rjxHm5ThJEiiazCpPjgNNA==" achievementBit="14"/>
-		<POI MapID="1317" xpos="-402.487" ypos="181.053" zpos="-63.9963" type="story_journal.season_4.war_eternal.newborn_skyscales.skyscale_scales" GUID="u+m8Z+cebkaIKpi4LQVCAA==" achievementBit="15"/>
-		<POI MapID="1317" xpos="417.827"  ypos="98.5238" zpos="701.354"  type="story_journal.season_4.war_eternal.newborn_skyscales.skyscale_scales" GUID="qzN7jGMKBUqYjY2LLabv1g==" achievementBit="16"/>
-		<POI MapID="1317" xpos="282.887"  ypos="0.45881" zpos="226.277"  type="story_journal.season_4.war_eternal.newborn_skyscales.skyscale_scales" GUID="jJyihWvoZEiEYg9cCxJj8Q==" achievementBit="17"/>
-		<POI MapID="1317" xpos="348.019"  ypos="-0.4069" zpos="-556.505" type="story_journal.season_4.war_eternal.newborn_skyscales.skyscale_scales" GUID="v2QaFey0jEmQ/pTlJuc2Xw==" achievementBit="18"/>
-		<POI MapID="1317" xpos="47.6406"  ypos="-0.4069" zpos="-566.961" type="story_journal.season_4.war_eternal.newborn_skyscales.skyscale_scales" GUID="2uvDumTPjUK/xgdZVTG45A==" achievementBit="19"/>
-		<POI MapID="1317" xpos="86.4831"  ypos="167.07"  zpos="312.541"  type="story_journal.season_4.war_eternal.newborn_skyscales.skyscale_scales" GUID="8Nbc+zvgUUetq9jJey4gIQ==" achievementBit="20"/>
-
+		<POI MapID="1317" xpos="-349.352" ypos="112.517" zpos="-722.38" type="story_journal.season_4.war_eternal.newborn_skyscales.skyscale_scales" GUID="bOqzEgIfSkuxynNJcJPciw==" achievementBit="0" />
+		<POI MapID="1317" xpos="745.276" ypos="7.02931" zpos="343.834" type="story_journal.season_4.war_eternal.newborn_skyscales.skyscale_scales" GUID="uDF8SiyBMkebKd9TOD/0Bw==" achievementBit="1" />
+		<POI MapID="1317" xpos="786.011" ypos="199.506" zpos="673.458" type="story_journal.season_4.war_eternal.newborn_skyscales.skyscale_scales" GUID="SN/bt2OdV06wLu2HOIwDwA==" achievementBit="2" />
+		<POI MapID="1317" xpos="968.702" ypos="377.018" zpos="-183.303" type="story_journal.season_4.war_eternal.newborn_skyscales.skyscale_scales" GUID="btNK3wH5zEipLrJkGjQdGg==" achievementBit="3" />
+		<POI MapID="1317" xpos="863.133" ypos="193.655" zpos="-268.458" type="story_journal.season_4.war_eternal.newborn_skyscales.skyscale_scales" GUID="QcM82LmnqkawoYyaHdKpqQ==" achievementBit="4" />
+		<POI MapID="1317" xpos="426.144" ypos="292.265" zpos="-314.533" type="story_journal.season_4.war_eternal.newborn_skyscales.skyscale_scales" GUID="8dBkOOgxdkKjDQ9xDkowMA==" achievementBit="5" />
+		<POI MapID="1317" xpos="767.477" ypos="78.1335" zpos="-804.825" type="story_journal.season_4.war_eternal.newborn_skyscales.skyscale_scales" GUID="LZuvlqf47EmWVAHjdWlxDQ==" achievementBit="6" />
+		<POI MapID="1317" xpos="-795.837" ypos="24.3399" zpos="-786.07" type="story_journal.season_4.war_eternal.newborn_skyscales.skyscale_scales" GUID="R4O8v6BFJ0KxnaClCWxP8Q==" achievementBit="7" />
+		<POI MapID="1317" xpos="-186.057" ypos="109.251" zpos="-179.979" type="story_journal.season_4.war_eternal.newborn_skyscales.skyscale_scales" GUID="NJdpdPUnR0Ccz9qZw7UN/Q==" achievementBit="8" />
+		<POI MapID="1317" xpos="-432.106" ypos="167.01" zpos="-53.4345" type="story_journal.season_4.war_eternal.newborn_skyscales.skyscale_scales" GUID="R5uJ3WvfRki87sgfjKTCog==" achievementBit="9" />
+		<POI MapID="1317" xpos="-985.271" ypos="81.2877" zpos="-164.091" type="story_journal.season_4.war_eternal.newborn_skyscales.skyscale_scales" GUID="fno5uRQXT0aWZ2QVycJJSg==" achievementBit="10" />
+		<POI MapID="1317" xpos="-430.168" ypos="278.337" zpos="276.38" type="story_journal.season_4.war_eternal.newborn_skyscales.skyscale_scales" GUID="IOtiptWTlkGSeRZdhTpObg==" achievementBit="11" />
+		<POI MapID="1317" xpos="-484.883" ypos="147.887" zpos="527.585" type="story_journal.season_4.war_eternal.newborn_skyscales.skyscale_scales" GUID="tyiFuYRCaE6gV1TFMna9+A==" achievementBit="12" />
+		<POI MapID="1317" xpos="-969.291" ypos="4.32721" zpos="426.048" type="story_journal.season_4.war_eternal.newborn_skyscales.skyscale_scales" GUID="2wM6AlCllkmups4FsSgalA==" achievementBit="13" />
+		<POI MapID="1317" xpos="-29.511" ypos="52.9286" zpos="793.743" type="story_journal.season_4.war_eternal.newborn_skyscales.skyscale_scales" GUID="rjxHm5ThJEiiazCpPjgNNA==" achievementBit="14" />
+		<POI MapID="1317" xpos="-402.487" ypos="181.053" zpos="-63.9963" type="story_journal.season_4.war_eternal.newborn_skyscales.skyscale_scales" GUID="u+m8Z+cebkaIKpi4LQVCAA==" achievementBit="15" />
+		<POI MapID="1317" xpos="417.827" ypos="98.5238" zpos="701.354" type="story_journal.season_4.war_eternal.newborn_skyscales.skyscale_scales" GUID="qzN7jGMKBUqYjY2LLabv1g==" achievementBit="16" />
+		<POI MapID="1317" xpos="282.887" ypos="0.45881" zpos="226.277" type="story_journal.season_4.war_eternal.newborn_skyscales.skyscale_scales" GUID="jJyihWvoZEiEYg9cCxJj8Q==" achievementBit="17" />
+		<POI MapID="1317" xpos="348.019" ypos="-0.4069" zpos="-556.505" type="story_journal.season_4.war_eternal.newborn_skyscales.skyscale_scales" GUID="v2QaFey0jEmQ/pTlJuc2Xw==" achievementBit="18" />
+		<POI MapID="1317" xpos="47.6406" ypos="-0.4069" zpos="-566.961" type="story_journal.season_4.war_eternal.newborn_skyscales.skyscale_scales" GUID="2uvDumTPjUK/xgdZVTG45A==" achievementBit="19" />
+		<POI MapID="1317" xpos="86.4831" ypos="167.07" zpos="312.541" type="story_journal.season_4.war_eternal.newborn_skyscales.skyscale_scales" GUID="8Nbc+zvgUUetq9jJey4gIQ==" achievementBit="20" />
 		<!-- SKYSCALE MEDICINE -->
-		<POI MapID="1317" xpos="563.308" ypos="99.1045" zpos="625.425" type="story_journal.season_4.war_eternal.newborn_skyscales.skyscale_medicine" GUID="zpJ+DRWtNkaOcqPZXXO7AA==" heightOffset="3"/>
-		<POI MapID="1317" xpos="625.71"  ypos="83.7455" zpos="524.077" type="story_journal.season_4.war_eternal.newborn_skyscales.skyscale_medicine" GUID="IpoBqKml+EiJkyEgTvZXAA==" heightOffset="3"/>
-		<POI MapID="1317" xpos="694.022" ypos="103.046" zpos="529.673" type="story_journal.season_4.war_eternal.newborn_skyscales.skyscale_medicine" GUID="RLAkloXbuE++v9UOnGlnMA==" heightOffset="3"/>
-		<POI MapID="1317" xpos="720.422" ypos="105.19"  zpos="676.46"  type="story_journal.season_4.war_eternal.newborn_skyscales.skyscale_medicine" GUID="pdHSyL/dY0G75KzmK6mbjw==" heightOffset="3"/>
-
+		<POI MapID="1317" xpos="563.308" ypos="99.1045" zpos="625.425" type="story_journal.season_4.war_eternal.newborn_skyscales.skyscale_medicine" GUID="zpJ+DRWtNkaOcqPZXXO7AA==" heightOffset="3" />
+		<POI MapID="1317" xpos="625.71" ypos="83.7455" zpos="524.077" type="story_journal.season_4.war_eternal.newborn_skyscales.skyscale_medicine" GUID="IpoBqKml+EiJkyEgTvZXAA==" heightOffset="3" />
+		<POI MapID="1317" xpos="694.022" ypos="103.046" zpos="529.673" type="story_journal.season_4.war_eternal.newborn_skyscales.skyscale_medicine" GUID="RLAkloXbuE++v9UOnGlnMA==" heightOffset="3" />
+		<POI MapID="1317" xpos="720.422" ypos="105.19" zpos="676.46" type="story_journal.season_4.war_eternal.newborn_skyscales.skyscale_medicine" GUID="pdHSyL/dY0G75KzmK6mbjw==" heightOffset="3" />
 		<!-- SAVING SKYSCALES -->
-		<POI MapID="1294" xpos="-873.076" ypos="21.9037" zpos="-255.709" type="story_journal.season_4.war_eternal.saving_skyscales" GUID="w1QKLMR/90eZCD3lqShAUg==" iconFile="Img/Season4/Gorrik.png" heightOffset="3"/>
-
+		<POI MapID="1294" xpos="-873.076" ypos="21.9037" zpos="-255.709" type="story_journal.season_4.war_eternal.saving_skyscales" GUID="w1QKLMR/90eZCD3lqShAUg==" iconFile="Img/Season4/Gorrik.png" heightOffset="3" />
 		<!-- SKYSCALE OF WATER -->
-		<POI MapID="1248" xpos="1371.51"  ypos="90.2988"  zpos="-112.919" type="story_journal.season_4.war_eternal.saving_skyscales.skyscale_of_water" GUID="0Vr6h/v/wkuh2ah8nnCLiQ=="/>
-		<POI MapID="1288" xpos="-979.347" ypos="-395.19"  zpos="885.631"  type="story_journal.season_4.war_eternal.saving_skyscales.skyscale_of_water" GUID="bZ6rCVqumESzhB5ppLj7ig==" heightOffset="0"/>
-		<POI MapID="73"   xpos="-111.497" ypos="-253.919" zpos="-615.584" type="story_journal.season_4.war_eternal.saving_skyscales.skyscale_of_water" GUID="nRu0c9CCZEmPctlWAF5RqQ==" heightOffset="0"/>
-		<POI MapID="1211" xpos="-1337.25" ypos="299.919"  zpos="205.102"  type="story_journal.season_4.war_eternal.saving_skyscales.skyscale_of_water" GUID="Q3Q36Rr0f0GhZz+hF7Bi6Q==" heightOffset="0.5"/>
-		<Trail type="story_journal.season_4.war_eternal.saving_skyscales.skyscale_of_water" GUID="bmG847J+d0OlA8ksCY8RDw==" trailData="Data/StoryJournal/Season4/WarEternal/SkyscaleOfWater.trl" texture="Data/Arrow.png" color="ff00bbff" alpha="0.8" fadeNear="3000" fadeFar="4000" animSpeed="1" mapDisplaySize="15"/>
-
+		<POI MapID="1248" xpos="1371.51" ypos="90.2988" zpos="-112.919" type="story_journal.season_4.war_eternal.saving_skyscales.skyscale_of_water" GUID="0Vr6h/v/wkuh2ah8nnCLiQ==" />
+		<POI MapID="1288" xpos="-979.347" ypos="-395.19" zpos="885.631" type="story_journal.season_4.war_eternal.saving_skyscales.skyscale_of_water" GUID="bZ6rCVqumESzhB5ppLj7ig==" heightOffset="0" />
+		<POI MapID="73" xpos="-111.497" ypos="-253.919" zpos="-615.584" type="story_journal.season_4.war_eternal.saving_skyscales.skyscale_of_water" GUID="nRu0c9CCZEmPctlWAF5RqQ==" heightOffset="0" />
+		<POI MapID="1211" xpos="-1337.25" ypos="299.919" zpos="205.102" type="story_journal.season_4.war_eternal.saving_skyscales.skyscale_of_water" GUID="Q3Q36Rr0f0GhZz+hF7Bi6Q==" heightOffset="0.5" />
+		<Trail type="story_journal.season_4.war_eternal.saving_skyscales.skyscale_of_water" GUID="bmG847J+d0OlA8ksCY8RDw==" trailData="Data/StoryJournal/Season4/WarEternal/SkyscaleOfWater.trl" texture="Data/Arrow.png" color="ff00bbff" alpha="0.8" fadeNear="3000" fadeFar="4000" animSpeed="1" mapDisplaySize="15" />
 		<!-- SKYSCALE OF FIRE -->
-		<POI MapID="1248" xpos="1371.51"  ypos="90.2988" zpos="-112.919" type="story_journal.season_4.war_eternal.saving_skyscales.skyscale_of_fire" GUID="9A2rm9pJ5EmPQGkR/Rt+Eg=="/>
-		<POI MapID="218"  xpos="240.71"   ypos="125.784" zpos="-113.841" type="story_journal.season_4.war_eternal.saving_skyscales.skyscale_of_fire" GUID="tz9sbjEAb06PBEYkO2vMkw==" heightOffset="0"/>
-		<POI MapID="39"   xpos="-330.445" ypos="9.84872" zpos="-224.751" type="story_journal.season_4.war_eternal.saving_skyscales.skyscale_of_fire" GUID="LI4wsmEVJkypB6WTfsg29w==" heightOffset="0"/>
-		<POI MapID="1248" xpos="-1279.85" ypos="71.5866" zpos="-243.013" type="story_journal.season_4.war_eternal.saving_skyscales.skyscale_of_fire" GUID="o2i/g0J3eUON/WDoiBkXAQ==" heightOffset="0"/>
-		<POI MapID="1211" xpos="-1242.11" ypos="278.799" zpos="124.755"  type="story_journal.season_4.war_eternal.saving_skyscales.skyscale_of_fire" GUID="oPhFG5cAvU+SCvxd+zAxWg==" heightOffset="0.5"/>
-		<Trail type="story_journal.season_4.war_eternal.saving_skyscales.skyscale_of_fire" GUID="1w7RDd3eVEW41MB5JVgtqw==" trailData="Data/StoryJournal/Season4/WarEternal/SkyscaleOfFire.trl" texture="Data/Arrow.png" color="ffff0000" alpha="0.8" fadeNear="3000" fadeFar="4000" animSpeed="1" mapDisplaySize="15"/>
-
+		<POI MapID="1248" xpos="1371.51" ypos="90.2988" zpos="-112.919" type="story_journal.season_4.war_eternal.saving_skyscales.skyscale_of_fire" GUID="9A2rm9pJ5EmPQGkR/Rt+Eg==" />
+		<POI MapID="218" xpos="240.71" ypos="125.784" zpos="-113.841" type="story_journal.season_4.war_eternal.saving_skyscales.skyscale_of_fire" GUID="tz9sbjEAb06PBEYkO2vMkw==" heightOffset="0" />
+		<POI MapID="39" xpos="-330.445" ypos="9.84872" zpos="-224.751" type="story_journal.season_4.war_eternal.saving_skyscales.skyscale_of_fire" GUID="LI4wsmEVJkypB6WTfsg29w==" heightOffset="0" />
+		<POI MapID="1248" xpos="-1279.85" ypos="71.5866" zpos="-243.013" type="story_journal.season_4.war_eternal.saving_skyscales.skyscale_of_fire" GUID="o2i/g0J3eUON/WDoiBkXAQ==" heightOffset="0" />
+		<POI MapID="1211" xpos="-1242.11" ypos="278.799" zpos="124.755" type="story_journal.season_4.war_eternal.saving_skyscales.skyscale_of_fire" GUID="oPhFG5cAvU+SCvxd+zAxWg==" heightOffset="0.5" />
+		<Trail type="story_journal.season_4.war_eternal.saving_skyscales.skyscale_of_fire" GUID="1w7RDd3eVEW41MB5JVgtqw==" trailData="Data/StoryJournal/Season4/WarEternal/SkyscaleOfFire.trl" texture="Data/Arrow.png" color="ffff0000" alpha="0.8" fadeNear="3000" fadeFar="4000" animSpeed="1" mapDisplaySize="15" />
 		<!-- SKYSCALE OF ICE -->
-		<POI MapID="30"   xpos="-550.893" ypos="42.7828"  zpos="-238.963" type="story_journal.season_4.war_eternal.saving_skyscales.skyscale_of_ice" GUID="mTl/qvVBLEKSmTsHxVFZfw==" heightOffset="3"/>
-		<POI MapID="1211" xpos="-1222.4"  ypos="340.012"  zpos="125.002"  type="story_journal.season_4.war_eternal.saving_skyscales.skyscale_of_ice" GUID="+N05u+ZtSUSUJErvGEv+1A=="/>
-		<Trail type="story_journal.season_4.war_eternal.saving_skyscales.skyscale_of_ice" GUID="EUO7f1kxjka4JMZsBwgsmg==" trailData="Data/StoryJournal/Season4/WarEternal/SkyscaleOfIce.trl" texture="Data/Arrow.png" color="ffffffff" alpha="0.8" fadeNear="3000" fadeFar="4000" animSpeed="1" mapDisplaySize="15"/>
-		<POI MapID="1310" xpos="-70.17"   ypos="-46.7634" zpos="-988.004" type="story_journal.season_4.war_eternal.saving_skyscales.skyscale_of_ice" GUID="G7N7wAu2QkqHKxVauidS3Q==" heightOffset="0"/>
-
+		<POI MapID="30" xpos="-550.893" ypos="42.7828" zpos="-238.963" type="story_journal.season_4.war_eternal.saving_skyscales.skyscale_of_ice" GUID="mTl/qvVBLEKSmTsHxVFZfw==" heightOffset="3" />
+		<POI MapID="1211" xpos="-1222.4" ypos="340.012" zpos="125.002" type="story_journal.season_4.war_eternal.saving_skyscales.skyscale_of_ice" GUID="+N05u+ZtSUSUJErvGEv+1A==" />
+		<Trail type="story_journal.season_4.war_eternal.saving_skyscales.skyscale_of_ice" GUID="EUO7f1kxjka4JMZsBwgsmg==" trailData="Data/StoryJournal/Season4/WarEternal/SkyscaleOfIce.trl" texture="Data/Arrow.png" color="ffffffff" alpha="0.8" fadeNear="3000" fadeFar="4000" animSpeed="1" mapDisplaySize="15" />
+		<POI MapID="1310" xpos="-70.17" ypos="-46.7634" zpos="-988.004" type="story_journal.season_4.war_eternal.saving_skyscales.skyscale_of_ice" GUID="G7N7wAu2QkqHKxVauidS3Q==" heightOffset="0" />
 		<!-- SKYSCALE OF EARTH -->
-		<POI MapID="1248" xpos="1371.51"  ypos="90.2988" zpos="-112.919" type="story_journal.season_4.war_eternal.saving_skyscales.skyscale_of_earth" GUID="GNRl3Jc2+0Ojso7j0zNLsg=="/>
-		<POI MapID="1210" xpos="-287.845" ypos="43.7096" zpos="602.333"  type="story_journal.season_4.war_eternal.saving_skyscales.skyscale_of_earth" GUID="5bGomiGLvkK2721kf0/hhQ==" heightOffset="0.5"/>
-		<POI MapID="988"  xpos="241.597"  ypos="10.1118" zpos="-265.306" type="story_journal.season_4.war_eternal.saving_skyscales.skyscale_of_earth" GUID="GndJhszp4UOmRDIazt//yQ==" heightOffset="0.5"/>
-		<POI MapID="1228" xpos="-19.3891" ypos="62.7077" zpos="321.102"  type="story_journal.season_4.war_eternal.saving_skyscales.skyscale_of_earth" GUID="aWz/X4k06ESGrItAJe9BXQ==" heightOffset="0.5"/>
-		<POI MapID="1248" xpos="-453.214" ypos="93.1673" zpos="-369.665" type="story_journal.season_4.war_eternal.saving_skyscales.skyscale_of_earth" GUID="NpKZ2LLOD0SzX3t08UcaNg==" heightOffset="0.5"/>
-
+		<POI MapID="1248" xpos="1371.51" ypos="90.2988" zpos="-112.919" type="story_journal.season_4.war_eternal.saving_skyscales.skyscale_of_earth" GUID="GNRl3Jc2+0Ojso7j0zNLsg==" />
+		<POI MapID="1210" xpos="-287.845" ypos="43.7096" zpos="602.333" type="story_journal.season_4.war_eternal.saving_skyscales.skyscale_of_earth" GUID="5bGomiGLvkK2721kf0/hhQ==" heightOffset="0.5" />
+		<POI MapID="988" xpos="241.597" ypos="10.1118" zpos="-265.306" type="story_journal.season_4.war_eternal.saving_skyscales.skyscale_of_earth" GUID="GndJhszp4UOmRDIazt//yQ==" heightOffset="0.5" />
+		<POI MapID="1228" xpos="-19.3891" ypos="62.7077" zpos="321.102" type="story_journal.season_4.war_eternal.saving_skyscales.skyscale_of_earth" GUID="aWz/X4k06ESGrItAJe9BXQ==" heightOffset="0.5" />
+		<POI MapID="1248" xpos="-453.214" ypos="93.1673" zpos="-369.665" type="story_journal.season_4.war_eternal.saving_skyscales.skyscale_of_earth" GUID="NpKZ2LLOD0SzX3t08UcaNg==" heightOffset="0.5" />
 		<!-- SKYSCALE OF AIR -->
-		<POI MapID="1248" xpos="1371.51" ypos="90.2988" zpos="-112.919" type="story_journal.season_4.war_eternal.saving_skyscales.skyscale_of_air" GUID="pOPp7vm9lE+Kf+V2MHOC+g=="/>
-		<POI MapID="39"   xpos="1071.81" ypos="114.039" zpos="687.138"  type="story_journal.season_4.war_eternal.saving_skyscales.skyscale_of_air" GUID="sesnwNzWzkGpV+eQe0kLHw==" heightOffset="0.5"/>
-
+		<POI MapID="1248" xpos="1371.51" ypos="90.2988" zpos="-112.919" type="story_journal.season_4.war_eternal.saving_skyscales.skyscale_of_air" GUID="pOPp7vm9lE+Kf+V2MHOC+g==" />
+		<POI MapID="39" xpos="1071.81" ypos="114.039" zpos="687.138" type="story_journal.season_4.war_eternal.saving_skyscales.skyscale_of_air" GUID="sesnwNzWzkGpV+eQe0kLHw==" heightOffset="0.5" />
 		<!-- SKYSCALE OF LIFE -->
-		<POI MapID="18" xpos="46.4897" ypos="100.294" zpos="-465.826" type="story_journal.season_4.war_eternal.saving_skyscales.skyscale_of_life" GUID="Sv6/YXpzhkeG42/hX1pT6Q==" heightOffset="3"/>
-
+		<POI MapID="18" xpos="46.4897" ypos="100.294" zpos="-465.826" type="story_journal.season_4.war_eternal.saving_skyscales.skyscale_of_life" GUID="Sv6/YXpzhkeG42/hX1pT6Q==" heightOffset="3" />
 		<!-- SKYSCALE OF BLOOD -->
-		<POI MapID="1317" xpos="745.086" ypos="107.187" zpos="660.374" type="story_journal.season_4.war_eternal.saving_skyscales.skyscale_of_blood" GUID="F/5cClUxdka6+wY2oBnCpg==" heightOffset="3"/>
-
+		<POI MapID="1317" xpos="745.086" ypos="107.187" zpos="660.374" type="story_journal.season_4.war_eternal.saving_skyscales.skyscale_of_blood" GUID="F/5cClUxdka6+wY2oBnCpg==" heightOffset="3" />
 		<!-- SKYSCALE OF GROWTH -->
-		<POI MapID="648"  xpos="62.3899"  ypos="107.911" zpos="62.6607"  type="story_journal.season_4.war_eternal.saving_skyscales.skyscale_of_growth" GUID="EDp3lwznAUyzASjXxzREjw==" heightOffset="3"/>
-		<POI MapID="1211" xpos="-401.484" ypos="87.3585" zpos="-176.982" type="story_journal.season_4.war_eternal.saving_skyscales.skyscale_of_growth" GUID="PkD7/W60EESymLTZFlTYXg==" heightOffset="0"/>
-		<POI MapID="1248" xpos="-971.142" ypos="261.364" zpos="-926.269" type="story_journal.season_4.war_eternal.saving_skyscales.skyscale_of_growth" GUID="dfVa8sw+J02D9iCWoviM4A==" heightOffset="0"/>
-		<POI MapID="1228" xpos="799.902"  ypos="53.6774" zpos="-559.382" type="story_journal.season_4.war_eternal.saving_skyscales.skyscale_of_growth" GUID="uV/G2wN6OEmFHf7iouD9vg==" heightOffset="0"/>
-		<POI MapID="1226" xpos="479.176"  ypos="17.4472" zpos="1479.26"  type="story_journal.season_4.war_eternal.saving_skyscales.skyscale_of_growth" GUID="mRh7BxhGoUG3ldAsIitSdw==" heightOffset="0"/>
-
+		<POI MapID="648" xpos="62.3899" ypos="107.911" zpos="62.6607" type="story_journal.season_4.war_eternal.saving_skyscales.skyscale_of_growth" GUID="EDp3lwznAUyzASjXxzREjw==" heightOffset="3" />
+		<POI MapID="1211" xpos="-401.484" ypos="87.3585" zpos="-176.982" type="story_journal.season_4.war_eternal.saving_skyscales.skyscale_of_growth" GUID="PkD7/W60EESymLTZFlTYXg==" heightOffset="0" />
+		<POI MapID="1248" xpos="-971.142" ypos="261.364" zpos="-926.269" type="story_journal.season_4.war_eternal.saving_skyscales.skyscale_of_growth" GUID="dfVa8sw+J02D9iCWoviM4A==" heightOffset="0" />
+		<POI MapID="1228" xpos="799.902" ypos="53.6774" zpos="-559.382" type="story_journal.season_4.war_eternal.saving_skyscales.skyscale_of_growth" GUID="uV/G2wN6OEmFHf7iouD9vg==" heightOffset="0" />
+		<POI MapID="1226" xpos="479.176" ypos="17.4472" zpos="1479.26" type="story_journal.season_4.war_eternal.saving_skyscales.skyscale_of_growth" GUID="mRh7BxhGoUG3ldAsIitSdw==" heightOffset="0" />
 		<!-- SKYSCALE OF DEATH -->
-		<POI MapID="1248" xpos="-823.384" ypos="200.828" zpos="-716.639" type="story_journal.season_4.war_eternal.saving_skyscales.skyscale_of_death" GUID="fuviOxFkAESQsv0kW/NfFA==" heightOffset="3"/>
-		<POI MapID="1228" xpos="-130.396" ypos="26.792"  zpos="-4.80355" type="story_journal.season_4.war_eternal.saving_skyscales.skyscale_of_death" GUID="G2nw34tIPUq0y0jv1ocOwA==" heightOffset="0"/>
-		<POI MapID="1226" xpos="311.482"  ypos="277.36"  zpos="-1356.39" type="story_journal.season_4.war_eternal.saving_skyscales.skyscale_of_death" GUID="EQnHFU+YY0eWmXGHbiBUcg==" heightOffset="0"/>
-		<POI MapID="1211" xpos="1418.29"  ypos="160.993" zpos="544.474"  type="story_journal.season_4.war_eternal.saving_skyscales.skyscale_of_death" GUID="V0wpcDhPqE+30bFqcDL+dQ==" heightOffset="0"/>
-		<POI MapID="1263" xpos="-421.985" ypos="84.1904" zpos="-452.336" type="story_journal.season_4.war_eternal.saving_skyscales.skyscale_of_death" GUID="hEO2TWs6G0WvCH+ow27kzg==" heightOffset="0"/>
-
+		<POI MapID="1248" xpos="-823.384" ypos="200.828" zpos="-716.639" type="story_journal.season_4.war_eternal.saving_skyscales.skyscale_of_death" GUID="fuviOxFkAESQsv0kW/NfFA==" heightOffset="3" />
+		<POI MapID="1228" xpos="-130.396" ypos="26.792" zpos="-4.80355" type="story_journal.season_4.war_eternal.saving_skyscales.skyscale_of_death" GUID="G2nw34tIPUq0y0jv1ocOwA==" heightOffset="0" />
+		<POI MapID="1226" xpos="311.482" ypos="277.36" zpos="-1356.39" type="story_journal.season_4.war_eternal.saving_skyscales.skyscale_of_death" GUID="EQnHFU+YY0eWmXGHbiBUcg==" heightOffset="0" />
+		<POI MapID="1211" xpos="1418.29" ypos="160.993" zpos="544.474" type="story_journal.season_4.war_eternal.saving_skyscales.skyscale_of_death" GUID="V0wpcDhPqE+30bFqcDL+dQ==" heightOffset="0" />
+		<POI MapID="1263" xpos="-421.985" ypos="84.1904" zpos="-452.336" type="story_journal.season_4.war_eternal.saving_skyscales.skyscale_of_death" GUID="hEO2TWs6G0WvCH+ow27kzg==" heightOffset="0" />
 		<!-- SKYSCALE OF SPIRIT -->
-		<POI MapID="54"   xpos="555.124"  ypos="37.2789" zpos="-367.743" type="story_journal.season_4.war_eternal.saving_skyscales.skyscale_of_spirit" GUID="EMBmr/mcIEGIZLStIQHq5g==" heightOffset="3"/>
-		<POI MapID="1301" xpos="76.8128"  ypos="57.1883" zpos="3.88872"  type="story_journal.season_4.war_eternal.saving_skyscales.skyscale_of_spirit" GUID="3g7bYMBPdEGcgdDE+VTWmA==" heightOffset="0"/>
-		<POI MapID="1301" xpos="-974.795" ypos="51.2841" zpos="562.614"  type="story_journal.season_4.war_eternal.saving_skyscales.skyscale_of_spirit" GUID="PRXCILCfMkqa3WxXXHHNqw==" heightOffset="0"/>
-		<POI MapID="1228" xpos="-988.994" ypos="89.9824" zpos="1005.19"  type="story_journal.season_4.war_eternal.saving_skyscales.skyscale_of_spirit" GUID="0kyGFD8/2k2p9O3Dl/Jhig==" heightOffset="0"/>
-		<POI MapID="1211" xpos="1078.3"   ypos="204.439" zpos="-376.335" type="story_journal.season_4.war_eternal.saving_skyscales.skyscale_of_spirit" GUID="22Gpsyov+UeJoYMjFj0s5w==" heightOffset="0"/>
-
+		<POI MapID="54" xpos="555.124" ypos="37.2789" zpos="-367.743" type="story_journal.season_4.war_eternal.saving_skyscales.skyscale_of_spirit" GUID="EMBmr/mcIEGIZLStIQHq5g==" heightOffset="3" />
+		<POI MapID="1301" xpos="76.8128" ypos="57.1883" zpos="3.88872" type="story_journal.season_4.war_eternal.saving_skyscales.skyscale_of_spirit" GUID="3g7bYMBPdEGcgdDE+VTWmA==" heightOffset="0" />
+		<POI MapID="1301" xpos="-974.795" ypos="51.2841" zpos="562.614" type="story_journal.season_4.war_eternal.saving_skyscales.skyscale_of_spirit" GUID="PRXCILCfMkqa3WxXXHHNqw==" heightOffset="0" />
+		<POI MapID="1228" xpos="-988.994" ypos="89.9824" zpos="1005.19" type="story_journal.season_4.war_eternal.saving_skyscales.skyscale_of_spirit" GUID="0kyGFD8/2k2p9O3Dl/Jhig==" heightOffset="0" />
+		<POI MapID="1211" xpos="1078.3" ypos="204.439" zpos="-376.335" type="story_journal.season_4.war_eternal.saving_skyscales.skyscale_of_spirit" GUID="22Gpsyov+UeJoYMjFj0s5w==" heightOffset="0" />
 		<!-- SKYSCALE OF FEAR -->
-		<POI MapID="27"   xpos="-88.6295" ypos="60.1656" zpos="-1239.38" type="story_journal.season_4.war_eternal.saving_skyscales.skyscale_of_fear" GUID="BwKzJ3GJH0SkmjwfhNCZ6A==" heightOffset="3"/>
-		<POI MapID="1248" xpos="403.496"  ypos="70.1665" zpos="-639.484" type="story_journal.season_4.war_eternal.saving_skyscales.skyscale_of_fear" GUID="zEpTrltoakCSitpeFHt6Rw=="/>
-		<POI MapID="21"   xpos="-764.579" ypos="66.9759" zpos="-791.588" type="story_journal.season_4.war_eternal.saving_skyscales.skyscale_of_fear" GUID="/jr/j1L5wEi/MQHW8lZ9Cg==" heightOffset="0.5"/>
-		<POI MapID="20"   xpos="-268.794" ypos="42.136"  zpos="680.499"  type="story_journal.season_4.war_eternal.saving_skyscales.skyscale_of_fear" GUID="CRRb2DqFl062oiieLMM5aw==" heightOffset="0.5"/>
-		<Trail type="story_journal.season_4.war_eternal.saving_skyscales.skyscale_of_fear" GUID="9LQdQlfJd06Y8dngWOOwrQ==" trailData="Data/StoryJournal/Season4/WarEternal/SkyscaleOfFear.trl" texture="Data/Arrow.png" color="ff00bbff" alpha="0.8" fadeNear="3000" fadeFar="4000" animSpeed="1" mapDisplaySize="15"/>
-		<POI MapID="20"   xpos="-258.386" ypos="193.027" zpos="655.914"  type="story_journal.season_4.war_eternal.saving_skyscales.skyscale_of_fear" GUID="NbKfsu/IJUm337xyBT8OQA==" fadeNear="4000" fadeFar="5000" heightOffset="0"/>
-
+		<POI MapID="27" xpos="-88.6295" ypos="60.1656" zpos="-1239.38" type="story_journal.season_4.war_eternal.saving_skyscales.skyscale_of_fear" GUID="BwKzJ3GJH0SkmjwfhNCZ6A==" heightOffset="3" />
+		<POI MapID="1248" xpos="403.496" ypos="70.1665" zpos="-639.484" type="story_journal.season_4.war_eternal.saving_skyscales.skyscale_of_fear" GUID="zEpTrltoakCSitpeFHt6Rw==" />
+		<POI MapID="21" xpos="-764.579" ypos="66.9759" zpos="-791.588" type="story_journal.season_4.war_eternal.saving_skyscales.skyscale_of_fear" GUID="/jr/j1L5wEi/MQHW8lZ9Cg==" heightOffset="0.5" />
+		<POI MapID="20" xpos="-268.794" ypos="42.136" zpos="680.499" type="story_journal.season_4.war_eternal.saving_skyscales.skyscale_of_fear" GUID="CRRb2DqFl062oiieLMM5aw==" heightOffset="0.5" />
+		<Trail type="story_journal.season_4.war_eternal.saving_skyscales.skyscale_of_fear" GUID="9LQdQlfJd06Y8dngWOOwrQ==" trailData="Data/StoryJournal/Season4/WarEternal/SkyscaleOfFear.trl" texture="Data/Arrow.png" color="ff00bbff" alpha="0.8" fadeNear="3000" fadeFar="4000" animSpeed="1" mapDisplaySize="15" />
+		<POI MapID="20" xpos="-258.386" ypos="193.027" zpos="655.914" type="story_journal.season_4.war_eternal.saving_skyscales.skyscale_of_fear" GUID="NbKfsu/IJUm337xyBT8OQA==" fadeNear="4000" fadeFar="5000" heightOffset="0" />
 		<!-- SKYSCALE OF COURAGE -->
-		<POI MapID="51"   xpos="755.151" ypos="32.4433" zpos="127.015"  type="story_journal.season_4.war_eternal.saving_skyscales.skyscale_of_courage" GUID="iEcmESxQe0K6sBHTs1wpRg==" heightOffset="0.5"/>
-		<POI MapID="1015" xpos="570.369" ypos="413.796" zpos="-230.929" type="story_journal.season_4.war_eternal.saving_skyscales.skyscale_of_courage" GUID="kcXMpXx6rUiXVr30pCne0g==" heightOffset="0.5"/>
-		<POI MapID="1248" xpos="451.087" ypos="290.786" zpos="12.6839"  type="story_journal.season_4.war_eternal.saving_skyscales.skyscale_of_courage" GUID="YbJZtsW4HEmlbMynmS6V+g==" heightOffset="0.5"/>
-		<POI MapID="1317" xpos="723.954" ypos="107.541" zpos="733.349"  type="story_journal.season_4.war_eternal.saving_skyscales.skyscale_of_courage" GUID="7iGUMp3JwUamZ1L1AeytFQ==" heightOffset="0.5"/>
-		<POI MapID="1228" xpos="659.953" ypos="86.5688" zpos="599.858"  type="story_journal.season_4.war_eternal.saving_skyscales.skyscale_of_courage" GUID="2l//1TLhAU67GKPQS1QQPA==" heightOffset="3"/>
-		<Trail type="story_journal.season_4.war_eternal.saving_skyscales.skyscale_of_courage" GUID="qNsJ0IC+3kS+GRqL4+Ni3g==" trailData="Data/StoryJournal/Season4/WarEternal/SkyscaleOfCourage.trl" texture="Data/Arrow.png" color="ff00bbff" alpha="0.8" fadeNear="3000" fadeFar="4000" animSpeed="1" mapDisplaySize="15"/>
-		<POI MapID="1228" xpos="663.227" ypos="86.9126" zpos="597.188" type="story_journal.season_4.war_eternal.saving_skyscales.skyscale_of_courage" GUID="923HPD1eqk2ejj60Dz6weg==" iconFile="Img/PoF/AuguryAscended.png" maxSize="48" fadeNear="1200" fadeFar="1500" mapVisibility="0" miniMapVisibility="0"/>
-		<POI MapID="1228" xpos="992.306" ypos="48.4142" zpos="420.825" type="story_journal.season_4.war_eternal.saving_skyscales.skyscale_of_courage" GUID="RzP0W/HDAkafjoPWLVaMrg==" iconFile="Img/Icons/Fight.png"        heightOffset="0.5" fadeNear="1800" fadeFar="2000" mapVisibility="0" miniMapVisibility="0"/>
-		<POI MapID="1228" xpos="138.189" ypos="115.676" zpos="681.662" type="story_journal.season_4.war_eternal.saving_skyscales.skyscale_of_courage" GUID="cp5ymXCI7kS8qH82zfOaJA==" iconFile="Img/Icons/Interaction.png"  heightOffset="0.5" fadeNear="1200" fadeFar="1500" mapVisibility="0" miniMapVisibility="0"/>
-		<POI MapID="1228" xpos="379.221" ypos="83.0846" zpos="740.418" type="story_journal.season_4.war_eternal.saving_skyscales.skyscale_of_courage" GUID="zrtc9EXxGEaVtSagB3jdPg==" iconFile="Img/Icons/Fight.png"        heightOffset="0.5" fadeNear="1800" fadeFar="2000" mapVisibility="0" miniMapVisibility="0"/>
-
+		<POI MapID="51" xpos="755.151" ypos="32.4433" zpos="127.015" type="story_journal.season_4.war_eternal.saving_skyscales.skyscale_of_courage" GUID="iEcmESxQe0K6sBHTs1wpRg==" heightOffset="0.5" />
+		<POI MapID="1015" xpos="570.369" ypos="413.796" zpos="-230.929" type="story_journal.season_4.war_eternal.saving_skyscales.skyscale_of_courage" GUID="kcXMpXx6rUiXVr30pCne0g==" heightOffset="0.5" />
+		<POI MapID="1248" xpos="451.087" ypos="290.786" zpos="12.6839" type="story_journal.season_4.war_eternal.saving_skyscales.skyscale_of_courage" GUID="YbJZtsW4HEmlbMynmS6V+g==" heightOffset="0.5" />
+		<POI MapID="1317" xpos="723.954" ypos="107.541" zpos="733.349" type="story_journal.season_4.war_eternal.saving_skyscales.skyscale_of_courage" GUID="7iGUMp3JwUamZ1L1AeytFQ==" heightOffset="0.5" />
+		<POI MapID="1228" xpos="659.953" ypos="86.5688" zpos="599.858" type="story_journal.season_4.war_eternal.saving_skyscales.skyscale_of_courage" GUID="2l//1TLhAU67GKPQS1QQPA==" heightOffset="3" />
+		<Trail type="story_journal.season_4.war_eternal.saving_skyscales.skyscale_of_courage" GUID="qNsJ0IC+3kS+GRqL4+Ni3g==" trailData="Data/StoryJournal/Season4/WarEternal/SkyscaleOfCourage.trl" texture="Data/Arrow.png" color="ff00bbff" alpha="0.8" fadeNear="3000" fadeFar="4000" animSpeed="1" mapDisplaySize="15" />
+		<POI MapID="1228" xpos="663.227" ypos="86.9126" zpos="597.188" type="story_journal.season_4.war_eternal.saving_skyscales.skyscale_of_courage" GUID="923HPD1eqk2ejj60Dz6weg==" iconFile="Img/PoF/AuguryAscended.png" maxSize="48" fadeNear="1200" fadeFar="1500" mapVisibility="0" miniMapVisibility="0" />
+		<POI MapID="1228" xpos="992.306" ypos="48.4142" zpos="420.825" type="story_journal.season_4.war_eternal.saving_skyscales.skyscale_of_courage" GUID="RzP0W/HDAkafjoPWLVaMrg==" iconFile="Img/Icons/Fight.png" heightOffset="0.5" fadeNear="1800" fadeFar="2000" mapVisibility="0" miniMapVisibility="0" />
+		<POI MapID="1228" xpos="138.189" ypos="115.676" zpos="681.662" type="story_journal.season_4.war_eternal.saving_skyscales.skyscale_of_courage" GUID="cp5ymXCI7kS8qH82zfOaJA==" iconFile="Img/Icons/Interaction.png" heightOffset="0.5" fadeNear="1200" fadeFar="1500" mapVisibility="0" miniMapVisibility="0" />
+		<POI MapID="1228" xpos="379.221" ypos="83.0846" zpos="740.418" type="story_journal.season_4.war_eternal.saving_skyscales.skyscale_of_courage" GUID="zrtc9EXxGEaVtSagB3jdPg==" iconFile="Img/Icons/Fight.png" heightOffset="0.5" fadeNear="1800" fadeFar="2000" mapVisibility="0" miniMapVisibility="0" />
 		<!-- RAISING SKYSCALES -->
-		<POI MapID="1294" xpos="-872.102" ypos="22.1931" zpos="-252.478" type="story_journal.season_4.war_eternal.raising_skyscales" GUID="jqCXGDnamEif4X8YSu2G4w==" heightOffset="0.5" behavior="3"/>
-		<POI MapID="1294" xpos="-872.818" ypos="21.9197" zpos="-255.772" type="story_journal.season_4.war_eternal.raising_skyscales" GUID="6wRbpAqS70aP9oYhoC44QA==" iconFile="Img/Season4/Gorrik.png" heightOffset="2"/>
-
+		<POI MapID="1294" xpos="-872.102" ypos="22.1931" zpos="-252.478" type="story_journal.season_4.war_eternal.raising_skyscales" GUID="jqCXGDnamEif4X8YSu2G4w==" heightOffset="0.5" behavior="3" />
+		<POI MapID="1294" xpos="-872.818" ypos="21.9197" zpos="-255.772" type="story_journal.season_4.war_eternal.raising_skyscales" GUID="6wRbpAqS70aP9oYhoC44QA==" iconFile="Img/Season4/Gorrik.png" heightOffset="2" />
 		<!-- SKYSCALE CARE -->
-		<POI MapID="1294" xpos="-884.516" ypos="22" zpos="-242.602" type="story_journal.season_4.war_eternal.raising_skyscales.skyscale_care" GUID="heQnQBDEdky8vvjNr4COGQ==" iconFile="Img/Season4/SkyscaleCare.png" minSize="150" maxSize="200" fadeNear="1000" fadeFar="1500" mapVisibility="0" miniMapVisibility="0"/>
-
+		<POI MapID="1294" xpos="-884.516" ypos="22" zpos="-242.602" type="story_journal.season_4.war_eternal.raising_skyscales.skyscale_care" GUID="heQnQBDEdky8vvjNr4COGQ==" iconFile="Img/Season4/SkyscaleCare.png" minSize="150" maxSize="200" fadeNear="1000" fadeFar="1500" mapVisibility="0" miniMapVisibility="0" />
 		<!-- SKYSCALE TREATS -->
-		<POI MapID="1294" xpos="-879.857" ypos="22" zpos="-235.281" type="story_journal.season_4.war_eternal.raising_skyscales.skyscale_treats" GUID="N1E+bodsdUm9leugETzdWw==" iconFile="Img/Season4/SkyscaleTreats.png" minSize="150" maxSize="200" fadeNear="1000" fadeFar="1500" mapVisibility="0" miniMapVisibility="0"/>
-
+		<POI MapID="1294" xpos="-879.857" ypos="22" zpos="-235.281" type="story_journal.season_4.war_eternal.raising_skyscales.skyscale_treats" GUID="N1E+bodsdUm9leugETzdWw==" iconFile="Img/Season4/SkyscaleTreats.png" minSize="150" maxSize="200" fadeNear="1000" fadeFar="1500" mapVisibility="0" miniMapVisibility="0" />
 		<!-- SKYSCALE TOYS -->
-		<POI MapID="1248" xpos="403.759"  ypos="31.9809" zpos="-634.724" type="story_journal.season_4.war_eternal.raising_skyscales.skyscale_toys" GUID="5lvZn/d8t0a+DIjcK2bFdQ==" heightOffset="3" behavior="3"/>
-		<POI MapID="25"   xpos="-168.652" ypos="21.3362" zpos="892.016"  type="story_journal.season_4.war_eternal.raising_skyscales.skyscale_toys" GUID="43LOW0xUxkmFQEje0mNNuw==" heightOffset="3" behavior="3"/>
-		<POI MapID="27"   xpos="-286.803" ypos="56.8572" zpos="163.094"  type="story_journal.season_4.war_eternal.raising_skyscales.skyscale_toys" GUID="LzsS7+csSECWeUc+wpPoyQ==" heightOffset="3" behavior="3"/>
-		<POI MapID="1294" xpos="-873.892" ypos="22"      zpos="-228.616" type="story_journal.season_4.war_eternal.raising_skyscales.skyscale_toys" GUID="Wc8MvTuh/E63OFXPErcfNQ==" iconFile="Img/Season4/SkyscaleToys.png" minSize="150" maxSize="200" fadeNear="1000" fadeFar="1500" mapVisibility="0" miniMapVisibility="0"/>
-
-		<!-- TROUBLESOME SKYSCALES-->
-		<POI MapID="1294" xpos="-872.818" ypos="21.9197" zpos="-255.772" type="story_journal.season_4.war_eternal.troublesome_skyscales" GUID="PCoWaO5B3E6LqVqq+nPbKA==" iconFile="Img/Season4/Gorrik.png" heightOffset="2"/>
-
+		<POI MapID="1248" xpos="403.759" ypos="31.9809" zpos="-634.724" type="story_journal.season_4.war_eternal.raising_skyscales.skyscale_toys" GUID="5lvZn/d8t0a+DIjcK2bFdQ==" heightOffset="3" behavior="3" />
+		<POI MapID="25" xpos="-168.652" ypos="21.3362" zpos="892.016" type="story_journal.season_4.war_eternal.raising_skyscales.skyscale_toys" GUID="43LOW0xUxkmFQEje0mNNuw==" heightOffset="3" behavior="3" />
+		<POI MapID="27" xpos="-286.803" ypos="56.8572" zpos="163.094" type="story_journal.season_4.war_eternal.raising_skyscales.skyscale_toys" GUID="LzsS7+csSECWeUc+wpPoyQ==" heightOffset="3" behavior="3" />
+		<POI MapID="1294" xpos="-873.892" ypos="22" zpos="-228.616" type="story_journal.season_4.war_eternal.raising_skyscales.skyscale_toys" GUID="Wc8MvTuh/E63OFXPErcfNQ==" iconFile="Img/Season4/SkyscaleToys.png" minSize="150" maxSize="200" fadeNear="1000" fadeFar="1500" mapVisibility="0" miniMapVisibility="0" />
+		<!-- TROUBLESOME SKYSCALES -->
+		<POI MapID="1294" xpos="-872.818" ypos="21.9197" zpos="-255.772" type="story_journal.season_4.war_eternal.troublesome_skyscales" GUID="PCoWaO5B3E6LqVqq+nPbKA==" iconFile="Img/Season4/Gorrik.png" heightOffset="2" />
 		<!-- SKYSCALE LOST -->
 		<!-- 1 -->
-		<Trail type="story_journal.season_4.war_eternal.troublesome_skyscales.skyscale_lost" GUID="dJfSZVr8r0etT/0Jqkwy6A==" trailData="Data/StoryJournal/Season4/WarEternal/SkyscaleLost_1.trl" texture="Data/Arrow.png" color="ff00ffff" alpha="1" fadeNear="1500" fadeFar="2000" animSpeed="1" mapDisplaySize="15"/>
-		<POI MapID="1301" xpos="98.5296" ypos="139.316" zpos="194.922" type="story_journal.season_4.war_eternal.troublesome_skyscales.skyscale_lost" GUID="/2oBDYW8gUOqcZYOnjRKcA==" heightOffset="1"/>
-		<POI MapID="1301" xpos="101.783" ypos="139.996" zpos="198.068" type="story_journal.season_4.war_eternal.troublesome_skyscales.skyscale_lost" GUID="K/wZiVkpdUin4EKa+mrF5A==" iconFile="Img/Mounts/Springer.png" maxSize="24" heightOffset="0.5" fadeNear="1500" fadeFar="2000"/>
-		<POI MapID="1301" xpos="209.113" ypos="177.027" zpos="218.417" type="story_journal.season_4.war_eternal.troublesome_skyscales.skyscale_lost" GUID="/W7sdP0PtE2lLKRu6W+IcQ==" iconFile="Img/Mounts/Springer.png" maxSize="24" heightOffset="0.5" fadeNear="1500" fadeFar="2000"/>
-		<POI MapID="1301" xpos="215.137" ypos="215.489" zpos="221.611" type="story_journal.season_4.war_eternal.troublesome_skyscales.skyscale_lost" GUID="dp7gkM4mvEGU8EBfnITG6g==" iconFile="Img/Mounts/Raptor.png"   maxSize="24" heightOffset="0.5" fadeNear="1500" fadeFar="2000"/>
-		<POI MapID="1301" xpos="155.525" ypos="214.597" zpos="193.549" type="story_journal.season_4.war_eternal.troublesome_skyscales.skyscale_lost" GUID="Fs0GbpgBhkizLK6NxQZmBA==" iconFile="Img/Mounts/Raptor.png"   maxSize="24" heightOffset="0.5" fadeNear="1500" fadeFar="2000"/>
-		<POI MapID="1301" xpos="141.849" ypos="214.355" zpos="138.725" type="story_journal.season_4.war_eternal.troublesome_skyscales.skyscale_lost" GUID="LpxdeO3f6UWAs+EKrTGWJg==" iconFile="Img/Mounts/Raptor.png"   maxSize="24" heightOffset="0.5" fadeNear="1500" fadeFar="2000"/>
+		<Trail type="story_journal.season_4.war_eternal.troublesome_skyscales.skyscale_lost" GUID="dJfSZVr8r0etT/0Jqkwy6A==" trailData="Data/StoryJournal/Season4/WarEternal/SkyscaleLost_1.trl" texture="Data/Arrow.png" color="ff00ffff" alpha="1" fadeNear="1500" fadeFar="2000" animSpeed="1" mapDisplaySize="15" />
+		<POI MapID="1301" xpos="98.5296" ypos="139.316" zpos="194.922" type="story_journal.season_4.war_eternal.troublesome_skyscales.skyscale_lost" GUID="/2oBDYW8gUOqcZYOnjRKcA==" heightOffset="1" />
+		<POI MapID="1301" xpos="101.783" ypos="139.996" zpos="198.068" type="story_journal.season_4.war_eternal.troublesome_skyscales.skyscale_lost" GUID="K/wZiVkpdUin4EKa+mrF5A==" iconFile="Img/Mounts/Springer.png" maxSize="24" heightOffset="0.5" fadeNear="1500" fadeFar="2000" />
+		<POI MapID="1301" xpos="209.113" ypos="177.027" zpos="218.417" type="story_journal.season_4.war_eternal.troublesome_skyscales.skyscale_lost" GUID="/W7sdP0PtE2lLKRu6W+IcQ==" iconFile="Img/Mounts/Springer.png" maxSize="24" heightOffset="0.5" fadeNear="1500" fadeFar="2000" />
+		<POI MapID="1301" xpos="215.137" ypos="215.489" zpos="221.611" type="story_journal.season_4.war_eternal.troublesome_skyscales.skyscale_lost" GUID="dp7gkM4mvEGU8EBfnITG6g==" iconFile="Img/Mounts/Raptor.png" maxSize="24" heightOffset="0.5" fadeNear="1500" fadeFar="2000" />
+		<POI MapID="1301" xpos="155.525" ypos="214.597" zpos="193.549" type="story_journal.season_4.war_eternal.troublesome_skyscales.skyscale_lost" GUID="Fs0GbpgBhkizLK6NxQZmBA==" iconFile="Img/Mounts/Raptor.png" maxSize="24" heightOffset="0.5" fadeNear="1500" fadeFar="2000" />
+		<POI MapID="1301" xpos="141.849" ypos="214.355" zpos="138.725" type="story_journal.season_4.war_eternal.troublesome_skyscales.skyscale_lost" GUID="LpxdeO3f6UWAs+EKrTGWJg==" iconFile="Img/Mounts/Raptor.png" maxSize="24" heightOffset="0.5" fadeNear="1500" fadeFar="2000" />
 		<!-- 2 -->
-		<Trail type="story_journal.season_4.war_eternal.troublesome_skyscales.skyscale_lost" GUID="EhjPNbLubUGS6Fb5FU855g==" trailData="Data/StoryJournal/Season4/WarEternal/SkyscaleLost_2.trl" texture="Data/Arrow.png" color="ff00ffff" alpha="1" fadeNear="1500" fadeFar="2000" animSpeed="1" mapDisplaySize="15"/>
-		<POI MapID="1288" xpos="-995.408" ypos="78.6346" zpos="491.152" type="story_journal.season_4.war_eternal.troublesome_skyscales.skyscale_lost" GUID="JIBkG2oow0WGn42h68ZQ6w==" heightOffset="1"/>
-		<POI MapID="1288" xpos="-999.874" ypos="82.5951" zpos="490.439" type="story_journal.season_4.war_eternal.troublesome_skyscales.skyscale_lost" GUID="Rd9BU6IHUky9t/FSKTg46w==" iconFile="Img/Mounts/Springer.png" maxSize="24" heightOffset="0.5" fadeNear="1500" fadeFar="2000"/>
-		<POI MapID="1288" xpos="-1062.99" ypos="163.558" zpos="616.091" type="story_journal.season_4.war_eternal.troublesome_skyscales.skyscale_lost" GUID="/QFCNf4Lu023Z3Vw5/PfeQ==" iconFile="Img/Mounts/Raptor.png"   maxSize="24" heightOffset="0.5" fadeNear="1500" fadeFar="2000"/>
+		<Trail type="story_journal.season_4.war_eternal.troublesome_skyscales.skyscale_lost" GUID="EhjPNbLubUGS6Fb5FU855g==" trailData="Data/StoryJournal/Season4/WarEternal/SkyscaleLost_2.trl" texture="Data/Arrow.png" color="ff00ffff" alpha="1" fadeNear="1500" fadeFar="2000" animSpeed="1" mapDisplaySize="15" />
+		<POI MapID="1288" xpos="-995.408" ypos="78.6346" zpos="491.152" type="story_journal.season_4.war_eternal.troublesome_skyscales.skyscale_lost" GUID="JIBkG2oow0WGn42h68ZQ6w==" heightOffset="1" />
+		<POI MapID="1288" xpos="-999.874" ypos="82.5951" zpos="490.439" type="story_journal.season_4.war_eternal.troublesome_skyscales.skyscale_lost" GUID="Rd9BU6IHUky9t/FSKTg46w==" iconFile="Img/Mounts/Springer.png" maxSize="24" heightOffset="0.5" fadeNear="1500" fadeFar="2000" />
+		<POI MapID="1288" xpos="-1062.99" ypos="163.558" zpos="616.091" type="story_journal.season_4.war_eternal.troublesome_skyscales.skyscale_lost" GUID="/QFCNf4Lu023Z3Vw5/PfeQ==" iconFile="Img/Mounts/Raptor.png" maxSize="24" heightOffset="0.5" fadeNear="1500" fadeFar="2000" />
 		<!-- 3 -->
-		<Trail type="story_journal.season_4.war_eternal.troublesome_skyscales.skyscale_lost" GUID="1HHzApf4w0SgDLzFb1BLPg==" trailData="Data/StoryJournal/Season4/WarEternal/SkyscaleLost_3.trl" texture="Data/Arrow.png" color="ff00ffff" alpha="1" fadeNear="1500" fadeFar="2000" animSpeed="1" mapDisplaySize="15"/>
-		<POI MapID="1271" xpos="508.148" ypos="34.4584" zpos="-73.1758" type="story_journal.season_4.war_eternal.troublesome_skyscales.skyscale_lost" GUID="efsWL4hRmUGAxVHEYut7YA==" heightOffset="1"/>
-		<POI MapID="1271" xpos="425.173" ypos="108.723" zpos="-13.4136" type="story_journal.season_4.war_eternal.troublesome_skyscales.skyscale_lost" GUID="xdqq2QPCdECjjA6A9jtcYQ==" iconFile="Img/Mounts/Raptor.png"   maxSize="24" heightOffset="0.5" fadeNear="1500" fadeFar="2000"/>
-		<POI MapID="1271" xpos="446.809" ypos="103.764" zpos="-50.9297" type="story_journal.season_4.war_eternal.troublesome_skyscales.skyscale_lost" GUID="Pw0DT0V9S0+OQc/uVGHvCw==" iconFile="Img/Mounts/Springer.png" maxSize="24" heightOffset="0.5" fadeNear="1500" fadeFar="2000"/>
-		<POI MapID="1271" xpos="471.133" ypos="124.438" zpos="-153.92"  type="story_journal.season_4.war_eternal.troublesome_skyscales.skyscale_lost" GUID="YTg9SN4roEW4clFB8w1obw==" iconFile="Img/Mounts/Springer.png" maxSize="24" heightOffset="0.5" fadeNear="1500" fadeFar="2000"/>
+		<Trail type="story_journal.season_4.war_eternal.troublesome_skyscales.skyscale_lost" GUID="1HHzApf4w0SgDLzFb1BLPg==" trailData="Data/StoryJournal/Season4/WarEternal/SkyscaleLost_3.trl" texture="Data/Arrow.png" color="ff00ffff" alpha="1" fadeNear="1500" fadeFar="2000" animSpeed="1" mapDisplaySize="15" />
+		<POI MapID="1271" xpos="508.148" ypos="34.4584" zpos="-73.1758" type="story_journal.season_4.war_eternal.troublesome_skyscales.skyscale_lost" GUID="efsWL4hRmUGAxVHEYut7YA==" heightOffset="1" />
+		<POI MapID="1271" xpos="425.173" ypos="108.723" zpos="-13.4136" type="story_journal.season_4.war_eternal.troublesome_skyscales.skyscale_lost" GUID="xdqq2QPCdECjjA6A9jtcYQ==" iconFile="Img/Mounts/Raptor.png" maxSize="24" heightOffset="0.5" fadeNear="1500" fadeFar="2000" />
+		<POI MapID="1271" xpos="446.809" ypos="103.764" zpos="-50.9297" type="story_journal.season_4.war_eternal.troublesome_skyscales.skyscale_lost" GUID="Pw0DT0V9S0+OQc/uVGHvCw==" iconFile="Img/Mounts/Springer.png" maxSize="24" heightOffset="0.5" fadeNear="1500" fadeFar="2000" />
+		<POI MapID="1271" xpos="471.133" ypos="124.438" zpos="-153.92" type="story_journal.season_4.war_eternal.troublesome_skyscales.skyscale_lost" GUID="YTg9SN4roEW4clFB8w1obw==" iconFile="Img/Mounts/Springer.png" maxSize="24" heightOffset="0.5" fadeNear="1500" fadeFar="2000" />
 		<!-- 4 -->
-		<Trail type="story_journal.season_4.war_eternal.troublesome_skyscales.skyscale_lost" GUID="GqPz5FfdUku75EII331//w==" trailData="Data/StoryJournal/Season4/WarEternal/SkyscaleLost_4.trl" texture="Data/Arrow.png" color="ff00ffff" alpha="1" fadeNear="1500" fadeFar="2000" animSpeed="1" mapDisplaySize="15"/>
-		<POI MapID="62" xpos="18.8656" ypos="1.16932" zpos="-944.857" type="story_journal.season_4.war_eternal.troublesome_skyscales.skyscale_lost" GUID="lo+zE8uEeUKQcphvK65dhA==" heightOffset="1"/>
+		<Trail type="story_journal.season_4.war_eternal.troublesome_skyscales.skyscale_lost" GUID="GqPz5FfdUku75EII331//w==" trailData="Data/StoryJournal/Season4/WarEternal/SkyscaleLost_4.trl" texture="Data/Arrow.png" color="ff00ffff" alpha="1" fadeNear="1500" fadeFar="2000" animSpeed="1" mapDisplaySize="15" />
+		<POI MapID="62" xpos="18.8656" ypos="1.16932" zpos="-944.857" type="story_journal.season_4.war_eternal.troublesome_skyscales.skyscale_lost" GUID="lo+zE8uEeUKQcphvK65dhA==" heightOffset="1" />
 		<!-- 5 -->
-		<Trail type="story_journal.season_4.war_eternal.troublesome_skyscales.skyscale_lost" GUID="==" trailData="Data/StoryJournal/Season4/WarEternal/SkyscaleLost_5.trl" texture="Data/Arrow.png" color="ff00ffff" alpha="1" fadeNear="1500" fadeFar="2000" animSpeed="1" mapDisplaySize="15"/>
-		<POI MapID="34" xpos="226.382" ypos="15.1477"  zpos="-1109.71" type="story_journal.season_4.war_eternal.troublesome_skyscales.skyscale_lost" GUID="mCqQoKPtD0O60X2wPqTylg==" heightOffset="1"/>
-		<POI MapID="34" xpos="418.291" ypos="-0.41166" zpos="-1144.79" type="story_journal.season_4.war_eternal.troublesome_skyscales.skyscale_lost" GUID="6bQq4FzSmEW3MLwoHFF/cQ==" iconFile="Img/Mounts/Springer.png" maxSize="24" heightOffset="0.5" fadeNear="1500" fadeFar="2000"/>
+		<Trail type="story_journal.season_4.war_eternal.troublesome_skyscales.skyscale_lost" GUID="==" trailData="Data/StoryJournal/Season4/WarEternal/SkyscaleLost_5.trl" texture="Data/Arrow.png" color="ff00ffff" alpha="1" fadeNear="1500" fadeFar="2000" animSpeed="1" mapDisplaySize="15" />
+		<POI MapID="34" xpos="226.382" ypos="15.1477" zpos="-1109.71" type="story_journal.season_4.war_eternal.troublesome_skyscales.skyscale_lost" GUID="mCqQoKPtD0O60X2wPqTylg==" heightOffset="1" />
+		<POI MapID="34" xpos="418.291" ypos="-0.41166" zpos="-1144.79" type="story_journal.season_4.war_eternal.troublesome_skyscales.skyscale_lost" GUID="6bQq4FzSmEW3MLwoHFF/cQ==" iconFile="Img/Mounts/Springer.png" maxSize="24" heightOffset="0.5" fadeNear="1500" fadeFar="2000" />
 		<!-- 6 -->
-		<Trail type="story_journal.season_4.war_eternal.troublesome_skyscales.skyscale_lost" GUID="m1/KGdhyY0+G8CRli/92uA==" trailData="Data/StoryJournal/Season4/WarEternal/SkyscaleLost_6.trl" texture="Data/Arrow.png" color="ff00ffff" alpha="1" fadeNear="1500" fadeFar="2000" animSpeed="1" mapDisplaySize="15"/>
-		<POI MapID="35" xpos="632.312" ypos="29.7758" zpos="-93.9641" type="story_journal.season_4.war_eternal.troublesome_skyscales.skyscale_lost" GUID="Hrmt2r9Qm0W/3YOmUjdmEQ==" heightOffset="1"/>
+		<Trail type="story_journal.season_4.war_eternal.troublesome_skyscales.skyscale_lost" GUID="m1/KGdhyY0+G8CRli/92uA==" trailData="Data/StoryJournal/Season4/WarEternal/SkyscaleLost_6.trl" texture="Data/Arrow.png" color="ff00ffff" alpha="1" fadeNear="1500" fadeFar="2000" animSpeed="1" mapDisplaySize="15" />
+		<POI MapID="35" xpos="632.312" ypos="29.7758" zpos="-93.9641" type="story_journal.season_4.war_eternal.troublesome_skyscales.skyscale_lost" GUID="Hrmt2r9Qm0W/3YOmUjdmEQ==" heightOffset="1" />
 		<!-- 7 -->
-		<POI MapID="15" xpos="217.899" ypos="-0.73899" zpos="-482.8"   type="story_journal.season_4.war_eternal.troublesome_skyscales.skyscale_lost" GUID="ofUOr9fP80iyTD8SpnsfHA==" heightOffset="1"/>
-		<POI MapID="15" xpos="215.325" ypos="-0.62094" zpos="-483.118" type="story_journal.season_4.war_eternal.troublesome_skyscales.skyscale_lost" GUID="gl/wXC9GH0m/d0cbReavog==" iconFile="Img/Season4/SkyscaleLost_WB.png" minSize="48" maxSize="48" fadeNear="1500" fadeFar="2000"/>
+		<POI MapID="15" xpos="217.899" ypos="-0.73899" zpos="-482.8" type="story_journal.season_4.war_eternal.troublesome_skyscales.skyscale_lost" GUID="ofUOr9fP80iyTD8SpnsfHA==" heightOffset="1" />
+		<POI MapID="15" xpos="215.325" ypos="-0.62094" zpos="-483.118" type="story_journal.season_4.war_eternal.troublesome_skyscales.skyscale_lost" GUID="gl/wXC9GH0m/d0cbReavog==" iconFile="Img/Season4/SkyscaleLost_WB.png" minSize="48" maxSize="48" fadeNear="1500" fadeFar="2000" />
 		<!-- 8 -->
-		<Trail type="story_journal.season_4.war_eternal.troublesome_skyscales.skyscale_lost" GUID="7epnZ1WZj0OImvSTmwcxsg==" trailData="Data/StoryJournal/Season4/WarEternal/SkyscaleLost_8.trl" texture="Data/Arrow.png" color="ff00ffff" alpha="1" fadeNear="1500" fadeFar="2000" animSpeed="1" mapDisplaySize="15"/>
-		<POI MapID="17" xpos="-370.964" ypos="0.673843" zpos="716.732" type="story_journal.season_4.war_eternal.troublesome_skyscales.skyscale_lost" GUID="YHBqtoNVwkieebZTzD0ozg==" heightOffset="1"/>
-		<POI MapID="17" xpos="-389.045" ypos="22.1252"  zpos="754.218" type="story_journal.season_4.war_eternal.troublesome_skyscales.skyscale_lost" GUID="MLLZ9pvoekKfX7owNaI2ig==" iconFile="Img/Icons/Interaction.png"      minSize="8" maxSize="16" heightOffset="0.5" fadeNear="1500" fadeFar="2000" mapVisibility="0" miniMapVisibility="0"/>
-		<POI MapID="17" xpos="-375.311" ypos="26.6957"  zpos="765.198" type="story_journal.season_4.war_eternal.troublesome_skyscales.skyscale_lost" GUID="TTO2gKCldkq5P1yS0OFAMA==" iconFile="Img/General/FawcettsBounty.png" minSize="48" maxSize="48" fadeNear="1500" fadeFar="2000" mapVisibility="0" miniMapVisibility="0"/>
-		<POI MapID="17" xpos="-350.907" ypos="27.451"   zpos="769.714" type="story_journal.season_4.war_eternal.troublesome_skyscales.skyscale_lost" GUID="TDhykz71G0qpQwhi3TZYxg==" iconFile="Img/Icons/Interaction.png"      minSize="8" maxSize="16" heightOffset="0.5" fadeNear="1500" fadeFar="2000" mapVisibility="0" miniMapVisibility="0"/>
-		<POI MapID="17" xpos="-322.723" ypos="35.6024"  zpos="816.213" type="story_journal.season_4.war_eternal.troublesome_skyscales.skyscale_lost" GUID="zbPPJ0QvUUyEHbsFjGcSHw==" iconFile="Img/Icons/Interaction.png"      minSize="8" maxSize="16" heightOffset="0.5" fadeNear="1500" fadeFar="2000" mapVisibility="0" miniMapVisibility="0"/>
-		<POI MapID="17" xpos="-384.665" ypos="33.8"     zpos="782.32"  type="story_journal.season_4.war_eternal.troublesome_skyscales.skyscale_lost" GUID="3AVdCfhcJUejTeTwbbUXqw==" iconFile="Img/Icons/Interaction.png"      minSize="8" maxSize="16" heightOffset="0.5" fadeNear="1500" fadeFar="2000" mapVisibility="0" miniMapVisibility="0"/>
+		<Trail type="story_journal.season_4.war_eternal.troublesome_skyscales.skyscale_lost" GUID="7epnZ1WZj0OImvSTmwcxsg==" trailData="Data/StoryJournal/Season4/WarEternal/SkyscaleLost_8.trl" texture="Data/Arrow.png" color="ff00ffff" alpha="1" fadeNear="1500" fadeFar="2000" animSpeed="1" mapDisplaySize="15" />
+		<POI MapID="17" xpos="-370.964" ypos="0.673843" zpos="716.732" type="story_journal.season_4.war_eternal.troublesome_skyscales.skyscale_lost" GUID="YHBqtoNVwkieebZTzD0ozg==" heightOffset="1" />
+		<POI MapID="17" xpos="-389.045" ypos="22.1252" zpos="754.218" type="story_journal.season_4.war_eternal.troublesome_skyscales.skyscale_lost" GUID="MLLZ9pvoekKfX7owNaI2ig==" iconFile="Img/Icons/Interaction.png" minSize="8" maxSize="16" heightOffset="0.5" fadeNear="1500" fadeFar="2000" mapVisibility="0" miniMapVisibility="0" />
+		<POI MapID="17" xpos="-375.311" ypos="26.6957" zpos="765.198" type="story_journal.season_4.war_eternal.troublesome_skyscales.skyscale_lost" GUID="TTO2gKCldkq5P1yS0OFAMA==" iconFile="Img/General/FawcettsBounty.png" minSize="48" maxSize="48" fadeNear="1500" fadeFar="2000" mapVisibility="0" miniMapVisibility="0" />
+		<POI MapID="17" xpos="-350.907" ypos="27.451" zpos="769.714" type="story_journal.season_4.war_eternal.troublesome_skyscales.skyscale_lost" GUID="TDhykz71G0qpQwhi3TZYxg==" iconFile="Img/Icons/Interaction.png" minSize="8" maxSize="16" heightOffset="0.5" fadeNear="1500" fadeFar="2000" mapVisibility="0" miniMapVisibility="0" />
+		<POI MapID="17" xpos="-322.723" ypos="35.6024" zpos="816.213" type="story_journal.season_4.war_eternal.troublesome_skyscales.skyscale_lost" GUID="zbPPJ0QvUUyEHbsFjGcSHw==" iconFile="Img/Icons/Interaction.png" minSize="8" maxSize="16" heightOffset="0.5" fadeNear="1500" fadeFar="2000" mapVisibility="0" miniMapVisibility="0" />
+		<POI MapID="17" xpos="-384.665" ypos="33.8" zpos="782.32" type="story_journal.season_4.war_eternal.troublesome_skyscales.skyscale_lost" GUID="3AVdCfhcJUejTeTwbbUXqw==" iconFile="Img/Icons/Interaction.png" minSize="8" maxSize="16" heightOffset="0.5" fadeNear="1500" fadeFar="2000" mapVisibility="0" miniMapVisibility="0" />
 		<!-- 9 -->
-		<Trail type="story_journal.season_4.war_eternal.troublesome_skyscales.skyscale_lost" GUID="AX5oTkvo7E6497eSp8fYTA==" trailData="Data/StoryJournal/Season4/WarEternal/SkyscaleLost_9.trl" texture="Data/Arrow.png" color="ff00ffff" alpha="1" fadeNear="1500" fadeFar="2000" animSpeed="1" mapDisplaySize="15"/>
-		<POI MapID="30" xpos="-118.183" ypos="-29.9376" zpos="376.936" type="story_journal.season_4.war_eternal.troublesome_skyscales.skyscale_lost" GUID="S0/BTDUzaUybWulYgth/hA==" heightOffset="1"/>
+		<Trail type="story_journal.season_4.war_eternal.troublesome_skyscales.skyscale_lost" GUID="AX5oTkvo7E6497eSp8fYTA==" trailData="Data/StoryJournal/Season4/WarEternal/SkyscaleLost_9.trl" texture="Data/Arrow.png" color="ff00ffff" alpha="1" fadeNear="1500" fadeFar="2000" animSpeed="1" mapDisplaySize="15" />
+		<POI MapID="30" xpos="-118.183" ypos="-29.9376" zpos="376.936" type="story_journal.season_4.war_eternal.troublesome_skyscales.skyscale_lost" GUID="S0/BTDUzaUybWulYgth/hA==" heightOffset="1" />
 		<!-- 10 -->
-		<Trail type="story_journal.season_4.war_eternal.troublesome_skyscales.skyscale_lost" GUID="O5LNInIG1kGV9Xr02sxhVA==" trailData="Data/StoryJournal/Season4/WarEternal/SkyscaleLost_10.trl" texture="Data/Arrow.png" color="ff00ffff" alpha="1" fadeNear="1500" fadeFar="2000" animSpeed="1" mapDisplaySize="15"/>
-		<POI MapID="22" xpos="817.934" ypos="18.6152" zpos="36.7135" type="story_journal.season_4.war_eternal.troublesome_skyscales.skyscale_lost" GUID="hdwylJ84H0mfgvjEKg6Svw==" heightOffset="1"/>
-		<POI MapID="22" xpos="833.458" ypos="26.6527" zpos="46.3612" type="story_journal.season_4.war_eternal.troublesome_skyscales.skyscale_lost" GUID="ctnDbNxEp02K6Q8lPzrpBQ==" iconFile="Img/Mounts/Springer.png" maxSize="24" heightOffset="0.5" fadeNear="1500" fadeFar="2000"/>
+		<Trail type="story_journal.season_4.war_eternal.troublesome_skyscales.skyscale_lost" GUID="O5LNInIG1kGV9Xr02sxhVA==" trailData="Data/StoryJournal/Season4/WarEternal/SkyscaleLost_10.trl" texture="Data/Arrow.png" color="ff00ffff" alpha="1" fadeNear="1500" fadeFar="2000" animSpeed="1" mapDisplaySize="15" />
+		<POI MapID="22" xpos="817.934" ypos="18.6152" zpos="36.7135" type="story_journal.season_4.war_eternal.troublesome_skyscales.skyscale_lost" GUID="hdwylJ84H0mfgvjEKg6Svw==" heightOffset="1" />
+		<POI MapID="22" xpos="833.458" ypos="26.6527" zpos="46.3612" type="story_journal.season_4.war_eternal.troublesome_skyscales.skyscale_lost" GUID="ctnDbNxEp02K6Q8lPzrpBQ==" iconFile="Img/Mounts/Springer.png" maxSize="24" heightOffset="0.5" fadeNear="1500" fadeFar="2000" />
 		<!-- 11 -->
-		<Trail type="story_journal.season_4.war_eternal.troublesome_skyscales.skyscale_lost" GUID="KA5y9sgbMUOVPCQsrcbQCg==" trailData="Data/StoryJournal/Season4/WarEternal/SkyscaleLost_11.trl" texture="Data/Arrow.png" color="ff00ffff" alpha="1" fadeNear="1500" fadeFar="2000" animSpeed="1" mapDisplaySize="15"/>
-		<POI MapID="27" xpos="-261.581" ypos="0.301722" zpos="-815.807" type="story_journal.season_4.war_eternal.troublesome_skyscales.skyscale_lost" GUID="wO5FdPqKi0eBfe5izLXiXQ==" heightOffset="1"/>
+		<Trail type="story_journal.season_4.war_eternal.troublesome_skyscales.skyscale_lost" GUID="KA5y9sgbMUOVPCQsrcbQCg==" trailData="Data/StoryJournal/Season4/WarEternal/SkyscaleLost_11.trl" texture="Data/Arrow.png" color="ff00ffff" alpha="1" fadeNear="1500" fadeFar="2000" animSpeed="1" mapDisplaySize="15" />
+		<POI MapID="27" xpos="-261.581" ypos="0.301722" zpos="-815.807" type="story_journal.season_4.war_eternal.troublesome_skyscales.skyscale_lost" GUID="wO5FdPqKi0eBfe5izLXiXQ==" heightOffset="1" />
 		<!-- 12 -->
-		<Trail type="story_journal.season_4.war_eternal.troublesome_skyscales.skyscale_lost" GUID="jBQDuzsj7UGe9FeAtNBCGg==" trailData="Data/StoryJournal/Season4/WarEternal/SkyscaleLost_12.trl" texture="Data/Arrow.png" color="ff00ffff" alpha="1" fadeNear="1500" fadeFar="2000" animSpeed="1" mapDisplaySize="15"/>
-		<POI MapID="29" xpos="352.825" ypos="5.50234" zpos="-845.167" type="story_journal.season_4.war_eternal.troublesome_skyscales.skyscale_lost" GUID="haAoRDhaQEix+DhQymhuJQ==" heightOffset="1"/>
+		<Trail type="story_journal.season_4.war_eternal.troublesome_skyscales.skyscale_lost" GUID="jBQDuzsj7UGe9FeAtNBCGg==" trailData="Data/StoryJournal/Season4/WarEternal/SkyscaleLost_12.trl" texture="Data/Arrow.png" color="ff00ffff" alpha="1" fadeNear="1500" fadeFar="2000" animSpeed="1" mapDisplaySize="15" />
+		<POI MapID="29" xpos="352.825" ypos="5.50234" zpos="-845.167" type="story_journal.season_4.war_eternal.troublesome_skyscales.skyscale_lost" GUID="haAoRDhaQEix+DhQymhuJQ==" heightOffset="1" />
 		<!-- 13 -->
-		<POI MapID="39" xpos="913.629" ypos="5.81768" zpos="112.314" type="story_journal.season_4.war_eternal.troublesome_skyscales.skyscale_lost" GUID="EwV9yCOsVEKn/s9Rn/MsBQ==" heightOffset="1"/>
-		<POI MapID="39" xpos="911.673" ypos="5.81768" zpos="109.771" type="story_journal.season_4.war_eternal.troublesome_skyscales.skyscale_lost" GUID="E/p3x3M7lEqGPrCchVZ3/g==" iconFile="Img/Season4/SkyscaleLost_WB.png" minSize="48" maxSize="48" fadeNear="1500" fadeFar="2000" mapVisibility="0" miniMapVisibility="0"/>
+		<POI MapID="39" xpos="913.629" ypos="5.81768" zpos="112.314" type="story_journal.season_4.war_eternal.troublesome_skyscales.skyscale_lost" GUID="EwV9yCOsVEKn/s9Rn/MsBQ==" heightOffset="1" />
+		<POI MapID="39" xpos="911.673" ypos="5.81768" zpos="109.771" type="story_journal.season_4.war_eternal.troublesome_skyscales.skyscale_lost" GUID="E/p3x3M7lEqGPrCchVZ3/g==" iconFile="Img/Season4/SkyscaleLost_WB.png" minSize="48" maxSize="48" fadeNear="1500" fadeFar="2000" mapVisibility="0" miniMapVisibility="0" />
 		<!-- 14 -->
-		<Trail type="story_journal.season_4.war_eternal.troublesome_skyscales.skyscale_lost" GUID="zLWSz3hd90WXlXyGKQCbZw==" trailData="Data/StoryJournal/Season4/WarEternal/SkyscaleLost_14.trl" texture="Data/Arrow.png" color="ff00ffff" alpha="1" fadeNear="1500" fadeFar="2000" animSpeed="1" mapDisplaySize="15"/>
-		<POI MapID="1211" xpos="-256.649" ypos="249.373" zpos="402.224" type="story_journal.season_4.war_eternal.troublesome_skyscales.skyscale_lost" GUID="0rAkhXEqA0WaDFJku9Tw/w==" heightOffset="1"/>
-		<POI MapID="1211" xpos="-263.407" ypos="249.828" zpos="401.035" type="story_journal.season_4.war_eternal.troublesome_skyscales.skyscale_lost" GUID="YKzmI9toGk6OUYVbclMRfw==" iconFile="Img/Mounts/Springer.png" maxSize="24" heightOffset="0.5" fadeNear="1500" fadeFar="2000"/>
+		<Trail type="story_journal.season_4.war_eternal.troublesome_skyscales.skyscale_lost" GUID="zLWSz3hd90WXlXyGKQCbZw==" trailData="Data/StoryJournal/Season4/WarEternal/SkyscaleLost_14.trl" texture="Data/Arrow.png" color="ff00ffff" alpha="1" fadeNear="1500" fadeFar="2000" animSpeed="1" mapDisplaySize="15" />
+		<POI MapID="1211" xpos="-256.649" ypos="249.373" zpos="402.224" type="story_journal.season_4.war_eternal.troublesome_skyscales.skyscale_lost" GUID="0rAkhXEqA0WaDFJku9Tw/w==" heightOffset="1" />
+		<POI MapID="1211" xpos="-263.407" ypos="249.828" zpos="401.035" type="story_journal.season_4.war_eternal.troublesome_skyscales.skyscale_lost" GUID="YKzmI9toGk6OUYVbclMRfw==" iconFile="Img/Mounts/Springer.png" maxSize="24" heightOffset="0.5" fadeNear="1500" fadeFar="2000" />
 		<!-- 15 -->
-		<Trail type="story_journal.season_4.war_eternal.troublesome_skyscales.skyscale_lost" GUID="QCIJyCUxZkyUu/fe2vacmg==" trailData="Data/StoryJournal/Season4/WarEternal/SkyscaleLost_15.trl" texture="Data/Arrow.png" color="ff00ffff" alpha="1" fadeNear="1500" fadeFar="2000" animSpeed="1" mapDisplaySize="15"/>
-		<POI MapID="1211" xpos="93.7493"  ypos="238.345" zpos="271.587" type="story_journal.season_4.war_eternal.troublesome_skyscales.skyscale_lost" GUID="YKWVOgRV+Eajd6aZV5idXQ==" heightOffset="1"/>
-		<POI MapID="1211" xpos="-100.697" ypos="312.881" zpos="18.1457" type="story_journal.season_4.war_eternal.troublesome_skyscales.skyscale_lost" GUID="DRELQi+nJkSB4RLdEzJpvQ==" iconFile="Img/Mounts/Jackal.png" maxSize="24" heightOffset="0.5" fadeNear="1500" fadeFar="2000"/>
-		<POI MapID="1211" xpos="82.0551"  ypos="239.068" zpos="270.536" type="story_journal.season_4.war_eternal.troublesome_skyscales.skyscale_lost" GUID="ifSXkgI9+UyzZLaHuP6a8A==" iconFile="Img/Mounts/Jackal.png" maxSize="24" heightOffset="0.5" fadeNear="1500" fadeFar="2000"/>
+		<Trail type="story_journal.season_4.war_eternal.troublesome_skyscales.skyscale_lost" GUID="QCIJyCUxZkyUu/fe2vacmg==" trailData="Data/StoryJournal/Season4/WarEternal/SkyscaleLost_15.trl" texture="Data/Arrow.png" color="ff00ffff" alpha="1" fadeNear="1500" fadeFar="2000" animSpeed="1" mapDisplaySize="15" />
+		<POI MapID="1211" xpos="93.7493" ypos="238.345" zpos="271.587" type="story_journal.season_4.war_eternal.troublesome_skyscales.skyscale_lost" GUID="YKWVOgRV+Eajd6aZV5idXQ==" heightOffset="1" />
+		<POI MapID="1211" xpos="-100.697" ypos="312.881" zpos="18.1457" type="story_journal.season_4.war_eternal.troublesome_skyscales.skyscale_lost" GUID="DRELQi+nJkSB4RLdEzJpvQ==" iconFile="Img/Mounts/Jackal.png" maxSize="24" heightOffset="0.5" fadeNear="1500" fadeFar="2000" />
+		<POI MapID="1211" xpos="82.0551" ypos="239.068" zpos="270.536" type="story_journal.season_4.war_eternal.troublesome_skyscales.skyscale_lost" GUID="ifSXkgI9+UyzZLaHuP6a8A==" iconFile="Img/Mounts/Jackal.png" maxSize="24" heightOffset="0.5" fadeNear="1500" fadeFar="2000" />
 		<!-- 16 -->
-		<Trail type="story_journal.season_4.war_eternal.troublesome_skyscales.skyscale_lost" GUID="TTrAJkQuX0GBoyyrrqwxuw==" trailData="Data/StoryJournal/Season4/WarEternal/SkyscaleLost_16.trl" texture="Data/Arrow.png" color="ff00ffff" alpha="1" fadeNear="1500" fadeFar="2000" animSpeed="1" mapDisplaySize="15"/>
-		<POI MapID="1210" xpos="1257.07" ypos="191.324" zpos="502.866" type="story_journal.season_4.war_eternal.troublesome_skyscales.skyscale_lost" GUID="TvT/Z6ZhXEOO5uhBx6ppAg==" heightOffset="1"/>
-		<POI MapID="1210" xpos="1241.42" ypos="274.466" zpos="434.159" type="story_journal.season_4.war_eternal.troublesome_skyscales.skyscale_lost" GUID="ejcAlou1ukGdkmLxcx8Ibg==" iconFile="Img/Mounts/Jackal.png" maxSize="24" fadeNear="1500" fadeFar="2000" heightOffset="0.5"/>
+		<Trail type="story_journal.season_4.war_eternal.troublesome_skyscales.skyscale_lost" GUID="TTrAJkQuX0GBoyyrrqwxuw==" trailData="Data/StoryJournal/Season4/WarEternal/SkyscaleLost_16.trl" texture="Data/Arrow.png" color="ff00ffff" alpha="1" fadeNear="1500" fadeFar="2000" animSpeed="1" mapDisplaySize="15" />
+		<POI MapID="1210" xpos="1257.07" ypos="191.324" zpos="502.866" type="story_journal.season_4.war_eternal.troublesome_skyscales.skyscale_lost" GUID="TvT/Z6ZhXEOO5uhBx6ppAg==" heightOffset="1" />
+		<POI MapID="1210" xpos="1241.42" ypos="274.466" zpos="434.159" type="story_journal.season_4.war_eternal.troublesome_skyscales.skyscale_lost" GUID="ejcAlou1ukGdkmLxcx8Ibg==" iconFile="Img/Mounts/Jackal.png" maxSize="24" fadeNear="1500" fadeFar="2000" heightOffset="0.5" />
 		<!-- 17 -->
-		<Trail type="story_journal.season_4.war_eternal.troublesome_skyscales.skyscale_lost" GUID="zULoLjaArkqvqyipdr1Bnw==" trailData="Data/StoryJournal/Season4/WarEternal/SkyscaleLost_17.trl" texture="Data/Arrow.png" color="ff00ffff" alpha="1" fadeNear="1500" fadeFar="2000" animSpeed="1" mapDisplaySize="15"/>
-		<POI MapID="1210" xpos="1330.96" ypos="78.4327" zpos="-135.777" type="story_journal.season_4.war_eternal.troublesome_skyscales.skyscale_lost" GUID="PPnmbTbIvEuCupIfMBFtnQ==" heightOffset="1"/>
-		<POI MapID="1210" xpos="1409.4"  ypos="98.7061" zpos="-245.685" type="story_journal.season_4.war_eternal.troublesome_skyscales.skyscale_lost" GUID="y84cg1/vyU2X7WR+ezEOCw==" iconFile="Img/Mounts/Springer.png"         maxSize="24" fadeNear="1500" fadeFar="2000" heightOffset="0.5"/>
-		<POI MapID="1210" xpos="1416.6"  ypos="127.75"  zpos="-249.484" type="story_journal.season_4.war_eternal.troublesome_skyscales.skyscale_lost" GUID="4sFQasV/NkOpmLHAVyXfIQ==" iconFile="Img/Season4/SkyscaleLost_17.png" minSize="48" maxSize="48" fadeNear="1500" fadeFar="2000" mapVisibility="0" miniMapVisibility="0"/>
-		<POI MapID="1210" xpos="1348.5"  ypos="186.578" zpos="-541.896" type="story_journal.season_4.war_eternal.troublesome_skyscales.skyscale_lost" GUID="0JJrLNbbl0aSxaZb/BHJEg==" iconFile="Img/Mounts/Springer.png"         maxSize="24" fadeNear="1500" fadeFar="2000" heightOffset="0.5"/>
+		<Trail type="story_journal.season_4.war_eternal.troublesome_skyscales.skyscale_lost" GUID="zULoLjaArkqvqyipdr1Bnw==" trailData="Data/StoryJournal/Season4/WarEternal/SkyscaleLost_17.trl" texture="Data/Arrow.png" color="ff00ffff" alpha="1" fadeNear="1500" fadeFar="2000" animSpeed="1" mapDisplaySize="15" />
+		<POI MapID="1210" xpos="1330.96" ypos="78.4327" zpos="-135.777" type="story_journal.season_4.war_eternal.troublesome_skyscales.skyscale_lost" GUID="PPnmbTbIvEuCupIfMBFtnQ==" heightOffset="1" />
+		<POI MapID="1210" xpos="1409.4" ypos="98.7061" zpos="-245.685" type="story_journal.season_4.war_eternal.troublesome_skyscales.skyscale_lost" GUID="y84cg1/vyU2X7WR+ezEOCw==" iconFile="Img/Mounts/Springer.png" maxSize="24" fadeNear="1500" fadeFar="2000" heightOffset="0.5" />
+		<POI MapID="1210" xpos="1416.6" ypos="127.75" zpos="-249.484" type="story_journal.season_4.war_eternal.troublesome_skyscales.skyscale_lost" GUID="4sFQasV/NkOpmLHAVyXfIQ==" iconFile="Img/Season4/SkyscaleLost_17.png" minSize="48" maxSize="48" fadeNear="1500" fadeFar="2000" mapVisibility="0" miniMapVisibility="0" />
+		<POI MapID="1210" xpos="1348.5" ypos="186.578" zpos="-541.896" type="story_journal.season_4.war_eternal.troublesome_skyscales.skyscale_lost" GUID="0JJrLNbbl0aSxaZb/BHJEg==" iconFile="Img/Mounts/Springer.png" maxSize="24" fadeNear="1500" fadeFar="2000" heightOffset="0.5" />
 		<!-- 18 -->
-		<Trail type="story_journal.season_4.war_eternal.troublesome_skyscales.skyscale_lost" GUID="wh2+35Qpf0SUFItm3TI25w==" trailData="Data/StoryJournal/Season4/WarEternal/SkyscaleLost_18.trl" texture="Data/Arrow.png" color="ff00ffff" alpha="1" fadeNear="1500" fadeFar="2000" animSpeed="1" mapDisplaySize="15"/>
-		<POI MapID="1210" xpos="472.448" ypos="22.3212" zpos="-435.941" type="story_journal.season_4.war_eternal.troublesome_skyscales.skyscale_lost" GUID="NDCXicPnGUqOFTsAHslLag==" heightOffset="1"/>
-		<POI MapID="1210" xpos="458.117" ypos="13.2608" zpos="-543.224" type="story_journal.season_4.war_eternal.troublesome_skyscales.skyscale_lost" GUID="/jZxZuotIEyGDd4nI0qy5Q==" iconFile="Img/Mounts/Springer.png" maxSize="24" fadeNear="1500" fadeFar="2000" heightOffset="0.5"/>
-		<POI MapID="1210" xpos="540.59"  ypos="39.7052" zpos="-510.244" type="story_journal.season_4.war_eternal.troublesome_skyscales.skyscale_lost" GUID="428rryM+kUehb3FcRdhsDA==" iconFile="Img/Mounts/Jackal.png"   maxSize="24" fadeNear="1500" fadeFar="2000" heightOffset="0.5"/>
-		<POI MapID="1210" xpos="686.234" ypos="43.7724" zpos="-591.32"  type="story_journal.season_4.war_eternal.troublesome_skyscales.skyscale_lost" GUID="ES0+VoNsrUKAX76zIvHFxg==" iconFile="Img/Mounts/Springer.png" maxSize="24" fadeNear="1500" fadeFar="2000" heightOffset="0.5"/>
-		<POI MapID="1210" xpos="715.567" ypos="56.8876" zpos="-596.921" type="story_journal.season_4.war_eternal.troublesome_skyscales.skyscale_lost" GUID="LChJObyZGkGIdgcFrpCHpw==" iconFile="Img/Mounts/Jackal.png"   maxSize="24" fadeNear="1500" fadeFar="2000" heightOffset="0.5"/>
-		<POI MapID="1210" xpos="738.446" ypos="192.356" zpos="-534.016" type="story_journal.season_4.war_eternal.troublesome_skyscales.skyscale_lost" GUID="RcfbqWC1u0WT9GOQrD/y6A==" iconFile="Img/Mounts/Springer.png" maxSize="24" fadeNear="1500" fadeFar="2000" heightOffset="0.5"/>
+		<Trail type="story_journal.season_4.war_eternal.troublesome_skyscales.skyscale_lost" GUID="wh2+35Qpf0SUFItm3TI25w==" trailData="Data/StoryJournal/Season4/WarEternal/SkyscaleLost_18.trl" texture="Data/Arrow.png" color="ff00ffff" alpha="1" fadeNear="1500" fadeFar="2000" animSpeed="1" mapDisplaySize="15" />
+		<POI MapID="1210" xpos="472.448" ypos="22.3212" zpos="-435.941" type="story_journal.season_4.war_eternal.troublesome_skyscales.skyscale_lost" GUID="NDCXicPnGUqOFTsAHslLag==" heightOffset="1" />
+		<POI MapID="1210" xpos="458.117" ypos="13.2608" zpos="-543.224" type="story_journal.season_4.war_eternal.troublesome_skyscales.skyscale_lost" GUID="/jZxZuotIEyGDd4nI0qy5Q==" iconFile="Img/Mounts/Springer.png" maxSize="24" fadeNear="1500" fadeFar="2000" heightOffset="0.5" />
+		<POI MapID="1210" xpos="540.59" ypos="39.7052" zpos="-510.244" type="story_journal.season_4.war_eternal.troublesome_skyscales.skyscale_lost" GUID="428rryM+kUehb3FcRdhsDA==" iconFile="Img/Mounts/Jackal.png" maxSize="24" fadeNear="1500" fadeFar="2000" heightOffset="0.5" />
+		<POI MapID="1210" xpos="686.234" ypos="43.7724" zpos="-591.32" type="story_journal.season_4.war_eternal.troublesome_skyscales.skyscale_lost" GUID="ES0+VoNsrUKAX76zIvHFxg==" iconFile="Img/Mounts/Springer.png" maxSize="24" fadeNear="1500" fadeFar="2000" heightOffset="0.5" />
+		<POI MapID="1210" xpos="715.567" ypos="56.8876" zpos="-596.921" type="story_journal.season_4.war_eternal.troublesome_skyscales.skyscale_lost" GUID="LChJObyZGkGIdgcFrpCHpw==" iconFile="Img/Mounts/Jackal.png" maxSize="24" fadeNear="1500" fadeFar="2000" heightOffset="0.5" />
+		<POI MapID="1210" xpos="738.446" ypos="192.356" zpos="-534.016" type="story_journal.season_4.war_eternal.troublesome_skyscales.skyscale_lost" GUID="RcfbqWC1u0WT9GOQrD/y6A==" iconFile="Img/Mounts/Springer.png" maxSize="24" fadeNear="1500" fadeFar="2000" heightOffset="0.5" />
 		<!-- 19 -->
-		<Trail type="story_journal.season_4.war_eternal.troublesome_skyscales.skyscale_lost" GUID="JHKRGhiRr06Q+FijKmY0Tw==" trailData="Data/StoryJournal/Season4/WarEternal/SkyscaleLost_19.trl" texture="Data/Arrow.png" color="ff00ffff" alpha="1" fadeNear="1500" fadeFar="2000" animSpeed="1" mapDisplaySize="15"/>
-		<POI MapID="1228" xpos="659.953" ypos="86.5688" zpos="599.858" type="story_journal.season_4.war_eternal.troublesome_skyscales.skyscale_lost" GUID="ShU+ViytO06XPM3FiGLUKA==" heightOffset="3"/>
-		<POI MapID="1228" xpos="659.393" ypos="86.5347" zpos="597.941" type="story_journal.season_4.war_eternal.troublesome_skyscales.skyscale_lost" GUID="D8ge4L1Dl0qqnmLGIUDQ6w==" iconFile="Img/PoF/AuguryAscended.png" minSize="48" maxSize="48" fadeNear="1500" fadeFar="2000" mapVisibility="0" miniMapVisibility="0"/>
-		<POI MapID="1228" xpos="992.306" ypos="48.4142" zpos="420.825" type="story_journal.season_4.war_eternal.troublesome_skyscales.skyscale_lost" GUID="08CchfyCJEOCdH8WhWDg6w==" iconFile="Img/Icons/Fight.png"        heightOffset="0.5" fadeNear="1500" fadeFar="2000"/>
-		<POI MapID="1228" xpos="138.189" ypos="115.676" zpos="681.662" type="story_journal.season_4.war_eternal.troublesome_skyscales.skyscale_lost" GUID="v0H9OdKktEitTfaXNDLNQQ==" iconFile="Img/Icons/Interaction.png"  heightOffset="0.5" fadeNear="1500" fadeFar="2000" mapVisibility="0" miniMapVisibility="0"/>
-		<POI MapID="1228" xpos="355.866" ypos="179.414" zpos="728.023" type="story_journal.season_4.war_eternal.troublesome_skyscales.skyscale_lost" GUID="Gyz8wc94jEGqn/bIFpQx4g==" iconFile="Img/Mounts/Raptor.png"      maxSize="24" heightOffset="0.5" fadeNear="1500" fadeFar="2000"/>
-		<POI MapID="1228" xpos="364.761" ypos="182.884" zpos="773.433" type="story_journal.season_4.war_eternal.troublesome_skyscales.skyscale_lost" GUID="bTtIJEzMfE6Hdsx3WG99FA==" iconFile="Img/Mounts/Springer.png"    maxSize="24" heightOffset="0.5" fadeNear="1500" fadeFar="2000"/>
-		<POI MapID="1228" xpos="436.556" ypos="215.725" zpos="810.28"  type="story_journal.season_4.war_eternal.troublesome_skyscales.skyscale_lost" GUID="++O8eDGRekuygm81Uuqv0w==" iconFile="Img/Mounts/Springer.png"    maxSize="24" heightOffset="0.5" fadeNear="1500" fadeFar="2000"/>
-		<POI MapID="1228" xpos="403.536" ypos="233.58"  zpos="809.595" type="story_journal.season_4.war_eternal.troublesome_skyscales.skyscale_lost" GUID="0pJi6f85dUGQ5uAnIazGHg==" iconFile="Img/Mounts/Raptor.png"      maxSize="24" heightOffset="0.5" fadeNear="1500" fadeFar="2000"/>
+		<Trail type="story_journal.season_4.war_eternal.troublesome_skyscales.skyscale_lost" GUID="JHKRGhiRr06Q+FijKmY0Tw==" trailData="Data/StoryJournal/Season4/WarEternal/SkyscaleLost_19.trl" texture="Data/Arrow.png" color="ff00ffff" alpha="1" fadeNear="1500" fadeFar="2000" animSpeed="1" mapDisplaySize="15" />
+		<POI MapID="1228" xpos="659.953" ypos="86.5688" zpos="599.858" type="story_journal.season_4.war_eternal.troublesome_skyscales.skyscale_lost" GUID="ShU+ViytO06XPM3FiGLUKA==" heightOffset="3" />
+		<POI MapID="1228" xpos="659.393" ypos="86.5347" zpos="597.941" type="story_journal.season_4.war_eternal.troublesome_skyscales.skyscale_lost" GUID="D8ge4L1Dl0qqnmLGIUDQ6w==" iconFile="Img/PoF/AuguryAscended.png" minSize="48" maxSize="48" fadeNear="1500" fadeFar="2000" mapVisibility="0" miniMapVisibility="0" />
+		<POI MapID="1228" xpos="992.306" ypos="48.4142" zpos="420.825" type="story_journal.season_4.war_eternal.troublesome_skyscales.skyscale_lost" GUID="08CchfyCJEOCdH8WhWDg6w==" iconFile="Img/Icons/Fight.png" heightOffset="0.5" fadeNear="1500" fadeFar="2000" />
+		<POI MapID="1228" xpos="138.189" ypos="115.676" zpos="681.662" type="story_journal.season_4.war_eternal.troublesome_skyscales.skyscale_lost" GUID="v0H9OdKktEitTfaXNDLNQQ==" iconFile="Img/Icons/Interaction.png" heightOffset="0.5" fadeNear="1500" fadeFar="2000" mapVisibility="0" miniMapVisibility="0" />
+		<POI MapID="1228" xpos="355.866" ypos="179.414" zpos="728.023" type="story_journal.season_4.war_eternal.troublesome_skyscales.skyscale_lost" GUID="Gyz8wc94jEGqn/bIFpQx4g==" iconFile="Img/Mounts/Raptor.png" maxSize="24" heightOffset="0.5" fadeNear="1500" fadeFar="2000" />
+		<POI MapID="1228" xpos="364.761" ypos="182.884" zpos="773.433" type="story_journal.season_4.war_eternal.troublesome_skyscales.skyscale_lost" GUID="bTtIJEzMfE6Hdsx3WG99FA==" iconFile="Img/Mounts/Springer.png" maxSize="24" heightOffset="0.5" fadeNear="1500" fadeFar="2000" />
+		<POI MapID="1228" xpos="436.556" ypos="215.725" zpos="810.28" type="story_journal.season_4.war_eternal.troublesome_skyscales.skyscale_lost" GUID="++O8eDGRekuygm81Uuqv0w==" iconFile="Img/Mounts/Springer.png" maxSize="24" heightOffset="0.5" fadeNear="1500" fadeFar="2000" />
+		<POI MapID="1228" xpos="403.536" ypos="233.58" zpos="809.595" type="story_journal.season_4.war_eternal.troublesome_skyscales.skyscale_lost" GUID="0pJi6f85dUGQ5uAnIazGHg==" iconFile="Img/Mounts/Raptor.png" maxSize="24" heightOffset="0.5" fadeNear="1500" fadeFar="2000" />
 		<!-- 20 -->
-		<Trail type="story_journal.season_4.war_eternal.troublesome_skyscales.skyscale_lost" GUID="pT9zLK0fxkyYqI9i0hhyYA==" trailData="Data/StoryJournal/Season4/WarEternal/SkyscaleLost_20.trl" texture="Data/Arrow.png" color="ff00ffff" alpha="1" fadeNear="1500" fadeFar="2000" animSpeed="1" mapDisplaySize="15"/>
-		<POI MapID="1228" xpos="-668.613" ypos="21.3802" zpos="-207.33"  type="story_journal.season_4.war_eternal.troublesome_skyscales.skyscale_lost" GUID="Kko9nXi6DUafqju6/gJrZg==" heightOffset="1"/>
-		<POI MapID="1228" xpos="-688.942" ypos="23.8179" zpos="-199.991" type="story_journal.season_4.war_eternal.troublesome_skyscales.skyscale_lost" GUID="7aKvhsZt3kOA6OuOErKGnQ==" iconFile="Img/Mounts/Springer.png" maxSize="24" heightOffset="0.5" fadeNear="1500" fadeFar="2000"/>
-		<POI MapID="1228" xpos="-726.846" ypos="92.0875" zpos="-251.839" type="story_journal.season_4.war_eternal.troublesome_skyscales.skyscale_lost" GUID="jUkpKzb2ZEuEkpggrvTVZQ==" iconFile="Img/Mounts/Springer.png" maxSize="24" heightOffset="0.5" fadeNear="1500" fadeFar="2000"/>
+		<Trail type="story_journal.season_4.war_eternal.troublesome_skyscales.skyscale_lost" GUID="pT9zLK0fxkyYqI9i0hhyYA==" trailData="Data/StoryJournal/Season4/WarEternal/SkyscaleLost_20.trl" texture="Data/Arrow.png" color="ff00ffff" alpha="1" fadeNear="1500" fadeFar="2000" animSpeed="1" mapDisplaySize="15" />
+		<POI MapID="1228" xpos="-668.613" ypos="21.3802" zpos="-207.33" type="story_journal.season_4.war_eternal.troublesome_skyscales.skyscale_lost" GUID="Kko9nXi6DUafqju6/gJrZg==" heightOffset="1" />
+		<POI MapID="1228" xpos="-688.942" ypos="23.8179" zpos="-199.991" type="story_journal.season_4.war_eternal.troublesome_skyscales.skyscale_lost" GUID="7aKvhsZt3kOA6OuOErKGnQ==" iconFile="Img/Mounts/Springer.png" maxSize="24" heightOffset="0.5" fadeNear="1500" fadeFar="2000" />
+		<POI MapID="1228" xpos="-726.846" ypos="92.0875" zpos="-251.839" type="story_journal.season_4.war_eternal.troublesome_skyscales.skyscale_lost" GUID="jUkpKzb2ZEuEkpggrvTVZQ==" iconFile="Img/Mounts/Springer.png" maxSize="24" heightOffset="0.5" fadeNear="1500" fadeFar="2000" />
 		<!-- 21 -->
-		<Trail type="story_journal.season_4.war_eternal.troublesome_skyscales.skyscale_lost" GUID="NUCsGE0UskOZE8G6cBf4kQ==" trailData="Data/StoryJournal/Season4/WarEternal/SkyscaleLost_21.trl" texture="Data/Arrow.png" color="ff00ffff" alpha="1" fadeNear="1500" fadeFar="2000" animSpeed="1" mapDisplaySize="15"/>
-		<POI MapID="1248" xpos="817.685" ypos="1.66219" zpos="725.963" type="story_journal.season_4.war_eternal.troublesome_skyscales.skyscale_lost" GUID="QtQsVGbLFUKkcQp4f7Rr2A==" heightOffset="1"/>
-		<POI MapID="1248" xpos="819.772" ypos="0.15259" zpos="733.256" type="story_journal.season_4.war_eternal.troublesome_skyscales.skyscale_lost" GUID="pmVRgwqUtUmwzzEeCk2qyQ==" iconFile="Img/Mounts/Springer.png"         maxSize="24" heightOffset="0.5" fadeNear="1500" fadeFar="2000"/>
-		<POI MapID="1248" xpos="1108.49" ypos="53.8222" zpos="889.323" type="story_journal.season_4.war_eternal.troublesome_skyscales.skyscale_lost" GUID="t9CR2CbWekK2pVlTPKkeFA==" iconFile="Img/Signs/Danger.png"            heightOffset="0.5" fadeNear="1500" fadeFar="2000"/>
-		<POI MapID="1248" xpos="1071.27" ypos="61.9791" zpos="853.674" type="story_journal.season_4.war_eternal.troublesome_skyscales.skyscale_lost" GUID="r6i5edKfZ0qrVkxzMbwDAA==" iconFile="Img/Signs/Danger.png"            heightOffset="0.5" fadeNear="1500" fadeFar="2000"/>
-		<POI MapID="1248" xpos="1077.2"  ypos="75.4433" zpos="915.074" type="story_journal.season_4.war_eternal.troublesome_skyscales.skyscale_lost" GUID="byL2QfIWDEWQFCGPV6YuoA==" iconFile="Img/Signs/Danger.png"            heightOffset="0.5" fadeNear="1500" fadeFar="2000"/>
-		<POI MapID="1248" xpos="1183.88" ypos="100.364" zpos="939.87"  type="story_journal.season_4.war_eternal.troublesome_skyscales.skyscale_lost" GUID="mFy6oZyDZEaxRGi2exQAXQ==" iconFile="Img/Signs/Danger.png"            heightOffset="0.5" fadeNear="1500" fadeFar="2000"/>
-		<POI MapID="1248" xpos="1184.43" ypos="99.7264" zpos="899.638" type="story_journal.season_4.war_eternal.troublesome_skyscales.skyscale_lost" GUID="aZdoyc6QWUuNNUc5sB4Kow==" iconFile="Img/Mounts/Springer.png"         maxSize="24" heightOffset="0.5" fadeNear="1500" fadeFar="2000"/>
-		<POI MapID="1248" xpos="1104.34" ypos="100.864" zpos="835.57"  type="story_journal.season_4.war_eternal.troublesome_skyscales.skyscale_lost" GUID="m3c+LmTzNEKFi1EM9KCJiQ==" iconFile="Img/Signs/Danger.png"            heightOffset="0.5" fadeNear="1500" fadeFar="2000"/>
-		<POI MapID="1248" xpos="1236.21" ypos="173.077" zpos="850.305" type="story_journal.season_4.war_eternal.troublesome_skyscales.skyscale_lost" GUID="MAkqp2o7PkScUGRD7KfZJw==" iconFile="Img/Mounts/Springer.png"         maxSize="24" heightOffset="0.5" fadeNear="1500" fadeFar="2000"/>
-		<POI MapID="1248" xpos="1230.85" ypos="184.259" zpos="825.089" type="story_journal.season_4.war_eternal.troublesome_skyscales.skyscale_lost" GUID="qYj2AQNwXEO/6ojcxNtLOg==" iconFile="Img/Mounts/Springer.png"         maxSize="24" heightOffset="0.5" fadeNear="1500" fadeFar="2000"/>
-		<POI MapID="1248" xpos="1309.02" ypos="208.012" zpos="840.965" type="story_journal.season_4.war_eternal.troublesome_skyscales.skyscale_lost" GUID="IoFWkSdHmkach3vcERTnbQ==" iconFile="Img/Season4/SkyscaleLost_21.png" minSize="150" maxSize="150" heightOffset="2" fadeNear="1200" fadeFar="1600" mapVisibility="0" miniMapVisibility="0"/>
-
+		<Trail type="story_journal.season_4.war_eternal.troublesome_skyscales.skyscale_lost" GUID="NUCsGE0UskOZE8G6cBf4kQ==" trailData="Data/StoryJournal/Season4/WarEternal/SkyscaleLost_21.trl" texture="Data/Arrow.png" color="ff00ffff" alpha="1" fadeNear="1500" fadeFar="2000" animSpeed="1" mapDisplaySize="15" />
+		<POI MapID="1248" xpos="817.685" ypos="1.66219" zpos="725.963" type="story_journal.season_4.war_eternal.troublesome_skyscales.skyscale_lost" GUID="QtQsVGbLFUKkcQp4f7Rr2A==" heightOffset="1" />
+		<POI MapID="1248" xpos="819.772" ypos="0.15259" zpos="733.256" type="story_journal.season_4.war_eternal.troublesome_skyscales.skyscale_lost" GUID="pmVRgwqUtUmwzzEeCk2qyQ==" iconFile="Img/Mounts/Springer.png" maxSize="24" heightOffset="0.5" fadeNear="1500" fadeFar="2000" />
+		<POI MapID="1248" xpos="1108.49" ypos="53.8222" zpos="889.323" type="story_journal.season_4.war_eternal.troublesome_skyscales.skyscale_lost" GUID="t9CR2CbWekK2pVlTPKkeFA==" iconFile="Img/Signs/Danger.png" heightOffset="0.5" fadeNear="1500" fadeFar="2000" />
+		<POI MapID="1248" xpos="1071.27" ypos="61.9791" zpos="853.674" type="story_journal.season_4.war_eternal.troublesome_skyscales.skyscale_lost" GUID="r6i5edKfZ0qrVkxzMbwDAA==" iconFile="Img/Signs/Danger.png" heightOffset="0.5" fadeNear="1500" fadeFar="2000" />
+		<POI MapID="1248" xpos="1077.2" ypos="75.4433" zpos="915.074" type="story_journal.season_4.war_eternal.troublesome_skyscales.skyscale_lost" GUID="byL2QfIWDEWQFCGPV6YuoA==" iconFile="Img/Signs/Danger.png" heightOffset="0.5" fadeNear="1500" fadeFar="2000" />
+		<POI MapID="1248" xpos="1183.88" ypos="100.364" zpos="939.87" type="story_journal.season_4.war_eternal.troublesome_skyscales.skyscale_lost" GUID="mFy6oZyDZEaxRGi2exQAXQ==" iconFile="Img/Signs/Danger.png" heightOffset="0.5" fadeNear="1500" fadeFar="2000" />
+		<POI MapID="1248" xpos="1184.43" ypos="99.7264" zpos="899.638" type="story_journal.season_4.war_eternal.troublesome_skyscales.skyscale_lost" GUID="aZdoyc6QWUuNNUc5sB4Kow==" iconFile="Img/Mounts/Springer.png" maxSize="24" heightOffset="0.5" fadeNear="1500" fadeFar="2000" />
+		<POI MapID="1248" xpos="1104.34" ypos="100.864" zpos="835.57" type="story_journal.season_4.war_eternal.troublesome_skyscales.skyscale_lost" GUID="m3c+LmTzNEKFi1EM9KCJiQ==" iconFile="Img/Signs/Danger.png" heightOffset="0.5" fadeNear="1500" fadeFar="2000" />
+		<POI MapID="1248" xpos="1236.21" ypos="173.077" zpos="850.305" type="story_journal.season_4.war_eternal.troublesome_skyscales.skyscale_lost" GUID="MAkqp2o7PkScUGRD7KfZJw==" iconFile="Img/Mounts/Springer.png" maxSize="24" heightOffset="0.5" fadeNear="1500" fadeFar="2000" />
+		<POI MapID="1248" xpos="1230.85" ypos="184.259" zpos="825.089" type="story_journal.season_4.war_eternal.troublesome_skyscales.skyscale_lost" GUID="qYj2AQNwXEO/6ojcxNtLOg==" iconFile="Img/Mounts/Springer.png" maxSize="24" heightOffset="0.5" fadeNear="1500" fadeFar="2000" />
+		<POI MapID="1248" xpos="1309.02" ypos="208.012" zpos="840.965" type="story_journal.season_4.war_eternal.troublesome_skyscales.skyscale_lost" GUID="IoFWkSdHmkach3vcERTnbQ==" iconFile="Img/Season4/SkyscaleLost_21.png" minSize="150" maxSize="150" heightOffset="2" fadeNear="1200" fadeFar="1600" mapVisibility="0" miniMapVisibility="0" />
 		<!-- SKYSCALE STEALTH -->
-		<POI MapID="1294" xpos="-888.165" ypos="21.7804" zpos="-243.932" type="story_journal.season_4.war_eternal.troublesome_skyscales.skyscale_stealth"       GUID="aHFh9+aXnkSy54RfawPpZQ=="/>
-		<POI MapID="1294" xpos="-890.784" ypos="24.5334" zpos="-246.569" type="story_journal.season_4.war_eternal.troublesome_skyscales.skyscale_stealth"       GUID="HPE+Rmf7S0y2HuIxxyOl1A==" iconFile="Img/Season4/SkyscaleStealth.png" minSize="48" maxSize="48" fadeNear="1500" fadeFar="2000"/>
-		<POI MapID="1294" xpos="-980.088" ypos="73.6628" zpos="-298.447" type="story_journal.season_4.war_eternal.troublesome_skyscales.skyscale_stealth.spots" GUID="SV2jQ80AKkmqdBCBjIXPcw=="/>
-		<POI MapID="1294" xpos="-968.339" ypos="61.5096" zpos="-236.454" type="story_journal.season_4.war_eternal.troublesome_skyscales.skyscale_stealth.spots" GUID="pIv82VssEkqTAb0lwrlwKw=="/>
-		<POI MapID="1294" xpos="-966.905" ypos="25.3998" zpos="-243.896" type="story_journal.season_4.war_eternal.troublesome_skyscales.skyscale_stealth.spots" GUID="EzHrmTCkGUeD7XpmUJHl5A=="/>
-		<POI MapID="1294" xpos="-959.78"  ypos="39.6523" zpos="-250.059" type="story_journal.season_4.war_eternal.troublesome_skyscales.skyscale_stealth.spots" GUID="byjfUKuLsUq766rs2xy36A=="/>
-		<POI MapID="1294" xpos="-954.223" ypos="12.8402" zpos="-340.305" type="story_journal.season_4.war_eternal.troublesome_skyscales.skyscale_stealth.spots" GUID="MT0JpAgKjEm6l9wnveQnwA=="/>
-		<POI MapID="1294" xpos="-916.882" ypos="36.2107" zpos="-243.801" type="story_journal.season_4.war_eternal.troublesome_skyscales.skyscale_stealth.spots" GUID="Nkl3kyMaSEat884l+L6dKw=="/>
-		<POI MapID="1294" xpos="-908.245" ypos="61.6286" zpos="-346.139" type="story_journal.season_4.war_eternal.troublesome_skyscales.skyscale_stealth.spots" GUID="U5I/U3k6E0meXjgoMZadEA=="/>
-		<POI MapID="1294" xpos="-903.507" ypos="8.95576" zpos="-339.867" type="story_journal.season_4.war_eternal.troublesome_skyscales.skyscale_stealth.spots" GUID="FJd6gnKjT0O8dbaj99kVKg=="/>
-		<POI MapID="1294" xpos="-890.031" ypos="11.1165" zpos="-337.307" type="story_journal.season_4.war_eternal.troublesome_skyscales.skyscale_stealth.spots" GUID="FnujkZ0VEEaHNE+11DKaVQ=="/>
-		<POI MapID="1294" xpos="-879.808" ypos="27.8119" zpos="-325.353" type="story_journal.season_4.war_eternal.troublesome_skyscales.skyscale_stealth.spots" GUID="gQmUIK7id0mFqL2FvEhR0Q=="/>
-		<POI MapID="1294" xpos="-878.3"   ypos="50.4378" zpos="-222.664" type="story_journal.season_4.war_eternal.troublesome_skyscales.skyscale_stealth.spots" GUID="X/HgK6nVokGFCGmCzu+Rew=="/>
-		<POI MapID="1294" xpos="-876.902" ypos="33.2606" zpos="-237.193" type="story_journal.season_4.war_eternal.troublesome_skyscales.skyscale_stealth.spots" GUID="/2WplCqTp0CdxboIpaS9Nw=="/>
-		<POI MapID="1294" xpos="-875.771" ypos="22.9766" zpos="-225.282" type="story_journal.season_4.war_eternal.troublesome_skyscales.skyscale_stealth.spots" GUID="gJ8L1Z8KnkiNpzK2UbD+2g=="/>
-		<POI MapID="1294" xpos="-870.523" ypos="25.4166" zpos="-268.757" type="story_journal.season_4.war_eternal.troublesome_skyscales.skyscale_stealth.spots" GUID="6eUfXio2qkCiuTu4aVKskA=="/>
-		<POI MapID="1294" xpos="-864.972" ypos="11.4652" zpos="-277.719" type="story_journal.season_4.war_eternal.troublesome_skyscales.skyscale_stealth.spots" GUID="QhaagBC190G586oggWPSog=="/>
-		<POI MapID="1294" xpos="-845.47"  ypos="26.3246" zpos="-264.028" type="story_journal.season_4.war_eternal.troublesome_skyscales.skyscale_stealth.spots" GUID="7uA45RgESEeASvL32wG1AA=="/>
-		<POI MapID="1294" xpos="-834.025" ypos="47.6293" zpos="-204.043" type="story_journal.season_4.war_eternal.troublesome_skyscales.skyscale_stealth.spots" GUID="FZYBz7bJFkeEp8qJuARq8Q=="/>
-		<POI MapID="1294" xpos="-833.792" ypos="22.4244" zpos="-237.958" type="story_journal.season_4.war_eternal.troublesome_skyscales.skyscale_stealth.spots" GUID="im0R9515rEOp1jv0BJBjEA=="/>
-		<POI MapID="1294" xpos="-827.454" ypos="21.6741" zpos="-206.127" type="story_journal.season_4.war_eternal.troublesome_skyscales.skyscale_stealth.spots" GUID="yKFhseOQJESjum3tztKT6A=="/>
-		<POI MapID="1294" xpos="-827.4"   ypos="3.41396" zpos="-298.415" type="story_journal.season_4.war_eternal.troublesome_skyscales.skyscale_stealth.spots" GUID="BKxOlxosEkGNWmFSdhPrSg=="/>
-		<POI MapID="1294" xpos="-823.726" ypos="51.095"  zpos="-303.354" type="story_journal.season_4.war_eternal.troublesome_skyscales.skyscale_stealth.spots" GUID="Wrb0PItEjEad82/pkJU4UQ=="/>
-		<POI MapID="1294" xpos="-823.36"  ypos="6.44067" zpos="-249.513" type="story_journal.season_4.war_eternal.troublesome_skyscales.skyscale_stealth.spots" GUID="Ff0ovEPzqkSaP8H6tnaZvw=="/>
-		<POI MapID="1294" xpos="-787.722" ypos="17.1166" zpos="-279.931" type="story_journal.season_4.war_eternal.troublesome_skyscales.skyscale_stealth.spots" GUID="hlVHaYySMkS9/nYIDfOoJg=="/>
-		<POI MapID="1294" xpos="-784.266" ypos="5.59967" zpos="-277.349" type="story_journal.season_4.war_eternal.troublesome_skyscales.skyscale_stealth.spots" GUID="zcu17WjJ3EaXB19BwfslQA=="/>
-		<POI MapID="1294" xpos="-772.614" ypos="6.31865" zpos="-218.62"  type="story_journal.season_4.war_eternal.troublesome_skyscales.skyscale_stealth.spots" GUID="q/NOd9WHBEaReVbiS8j2Vw=="/>
-
+		<POI MapID="1294" xpos="-888.165" ypos="21.7804" zpos="-243.932" type="story_journal.season_4.war_eternal.troublesome_skyscales.skyscale_stealth" GUID="aHFh9+aXnkSy54RfawPpZQ==" />
+		<POI MapID="1294" xpos="-890.784" ypos="24.5334" zpos="-246.569" type="story_journal.season_4.war_eternal.troublesome_skyscales.skyscale_stealth" GUID="HPE+Rmf7S0y2HuIxxyOl1A==" iconFile="Img/Season4/SkyscaleStealth.png" minSize="48" maxSize="48" fadeNear="1500" fadeFar="2000" />
+		<POI MapID="1294" xpos="-980.088" ypos="73.6628" zpos="-298.447" type="story_journal.season_4.war_eternal.troublesome_skyscales.skyscale_stealth.spots" GUID="SV2jQ80AKkmqdBCBjIXPcw==" />
+		<POI MapID="1294" xpos="-968.339" ypos="61.5096" zpos="-236.454" type="story_journal.season_4.war_eternal.troublesome_skyscales.skyscale_stealth.spots" GUID="pIv82VssEkqTAb0lwrlwKw==" />
+		<POI MapID="1294" xpos="-966.905" ypos="25.3998" zpos="-243.896" type="story_journal.season_4.war_eternal.troublesome_skyscales.skyscale_stealth.spots" GUID="EzHrmTCkGUeD7XpmUJHl5A==" />
+		<POI MapID="1294" xpos="-959.78" ypos="39.6523" zpos="-250.059" type="story_journal.season_4.war_eternal.troublesome_skyscales.skyscale_stealth.spots" GUID="byjfUKuLsUq766rs2xy36A==" />
+		<POI MapID="1294" xpos="-954.223" ypos="12.8402" zpos="-340.305" type="story_journal.season_4.war_eternal.troublesome_skyscales.skyscale_stealth.spots" GUID="MT0JpAgKjEm6l9wnveQnwA==" />
+		<POI MapID="1294" xpos="-916.882" ypos="36.2107" zpos="-243.801" type="story_journal.season_4.war_eternal.troublesome_skyscales.skyscale_stealth.spots" GUID="Nkl3kyMaSEat884l+L6dKw==" />
+		<POI MapID="1294" xpos="-908.245" ypos="61.6286" zpos="-346.139" type="story_journal.season_4.war_eternal.troublesome_skyscales.skyscale_stealth.spots" GUID="U5I/U3k6E0meXjgoMZadEA==" />
+		<POI MapID="1294" xpos="-903.507" ypos="8.95576" zpos="-339.867" type="story_journal.season_4.war_eternal.troublesome_skyscales.skyscale_stealth.spots" GUID="FJd6gnKjT0O8dbaj99kVKg==" />
+		<POI MapID="1294" xpos="-890.031" ypos="11.1165" zpos="-337.307" type="story_journal.season_4.war_eternal.troublesome_skyscales.skyscale_stealth.spots" GUID="FnujkZ0VEEaHNE+11DKaVQ==" />
+		<POI MapID="1294" xpos="-879.808" ypos="27.8119" zpos="-325.353" type="story_journal.season_4.war_eternal.troublesome_skyscales.skyscale_stealth.spots" GUID="gQmUIK7id0mFqL2FvEhR0Q==" />
+		<POI MapID="1294" xpos="-878.3" ypos="50.4378" zpos="-222.664" type="story_journal.season_4.war_eternal.troublesome_skyscales.skyscale_stealth.spots" GUID="X/HgK6nVokGFCGmCzu+Rew==" />
+		<POI MapID="1294" xpos="-876.902" ypos="33.2606" zpos="-237.193" type="story_journal.season_4.war_eternal.troublesome_skyscales.skyscale_stealth.spots" GUID="/2WplCqTp0CdxboIpaS9Nw==" />
+		<POI MapID="1294" xpos="-875.771" ypos="22.9766" zpos="-225.282" type="story_journal.season_4.war_eternal.troublesome_skyscales.skyscale_stealth.spots" GUID="gJ8L1Z8KnkiNpzK2UbD+2g==" />
+		<POI MapID="1294" xpos="-870.523" ypos="25.4166" zpos="-268.757" type="story_journal.season_4.war_eternal.troublesome_skyscales.skyscale_stealth.spots" GUID="6eUfXio2qkCiuTu4aVKskA==" />
+		<POI MapID="1294" xpos="-864.972" ypos="11.4652" zpos="-277.719" type="story_journal.season_4.war_eternal.troublesome_skyscales.skyscale_stealth.spots" GUID="QhaagBC190G586oggWPSog==" />
+		<POI MapID="1294" xpos="-845.47" ypos="26.3246" zpos="-264.028" type="story_journal.season_4.war_eternal.troublesome_skyscales.skyscale_stealth.spots" GUID="7uA45RgESEeASvL32wG1AA==" />
+		<POI MapID="1294" xpos="-834.025" ypos="47.6293" zpos="-204.043" type="story_journal.season_4.war_eternal.troublesome_skyscales.skyscale_stealth.spots" GUID="FZYBz7bJFkeEp8qJuARq8Q==" />
+		<POI MapID="1294" xpos="-833.792" ypos="22.4244" zpos="-237.958" type="story_journal.season_4.war_eternal.troublesome_skyscales.skyscale_stealth.spots" GUID="im0R9515rEOp1jv0BJBjEA==" />
+		<POI MapID="1294" xpos="-827.454" ypos="21.6741" zpos="-206.127" type="story_journal.season_4.war_eternal.troublesome_skyscales.skyscale_stealth.spots" GUID="yKFhseOQJESjum3tztKT6A==" />
+		<POI MapID="1294" xpos="-827.4" ypos="3.41396" zpos="-298.415" type="story_journal.season_4.war_eternal.troublesome_skyscales.skyscale_stealth.spots" GUID="BKxOlxosEkGNWmFSdhPrSg==" />
+		<POI MapID="1294" xpos="-823.726" ypos="51.095" zpos="-303.354" type="story_journal.season_4.war_eternal.troublesome_skyscales.skyscale_stealth.spots" GUID="Wrb0PItEjEad82/pkJU4UQ==" />
+		<POI MapID="1294" xpos="-823.36" ypos="6.44067" zpos="-249.513" type="story_journal.season_4.war_eternal.troublesome_skyscales.skyscale_stealth.spots" GUID="Ff0ovEPzqkSaP8H6tnaZvw==" />
+		<POI MapID="1294" xpos="-787.722" ypos="17.1166" zpos="-279.931" type="story_journal.season_4.war_eternal.troublesome_skyscales.skyscale_stealth.spots" GUID="hlVHaYySMkS9/nYIDfOoJg==" />
+		<POI MapID="1294" xpos="-784.266" ypos="5.59967" zpos="-277.349" type="story_journal.season_4.war_eternal.troublesome_skyscales.skyscale_stealth.spots" GUID="zcu17WjJ3EaXB19BwfslQA==" />
+		<POI MapID="1294" xpos="-772.614" ypos="6.31865" zpos="-218.62" type="story_journal.season_4.war_eternal.troublesome_skyscales.skyscale_stealth.spots" GUID="q/NOd9WHBEaReVbiS8j2Vw==" />
 		<!-- SKYSCALE REFLEXES -->
-		<POI MapID="1294" xpos="-893.141" ypos="21.813" zpos="-262.518" type="story_journal.season_4.war_eternal.troublesome_skyscales.skyscale_reflexes" GUID="+9qU8ShQgkSlWWmjI0cOmw==" heightOffset="0"/>
-
-		<!--
-		RIDING SKYSCALES
-		-->
-
+		<POI MapID="1294" xpos="-893.141" ypos="21.813" zpos="-262.518" type="story_journal.season_4.war_eternal.troublesome_skyscales.skyscale_reflexes" GUID="+9qU8ShQgkSlWWmjI0cOmw==" heightOffset="0" />
+		<!-- RIDING SKYSCALES -->
 		<!-- RIDING SADDLE -->
 		<!-- Elisa -->
-		<POI MapID="1210" xpos="-1210.81" ypos="42.6638" zpos="143.771"  type="story_journal.season_4.war_eternal.riding_skyscales.riding_saddle.elisa" GUID="aWbkg6GqmEm4DRHJHSxhmg=="/>
-		<POI MapID="1210" xpos="-686.265" ypos="125.509" zpos="490.407"  type="story_journal.season_4.war_eternal.riding_skyscales.riding_saddle.elisa" GUID="rEiKMyyECUSVt//+qVWRNw=="/>
-		<POI MapID="1210" xpos="-347.739" ypos="77.0079" zpos="-611.396" type="story_journal.season_4.war_eternal.riding_skyscales.riding_saddle.elisa" GUID="0OSD4RxYcEyBKJv36WVq2w=="/>
-		<POI MapID="1210" xpos="28.9582"  ypos="170.621" zpos="583.744"  type="story_journal.season_4.war_eternal.riding_skyscales.riding_saddle.elisa" GUID="covmo+ya8Eeqd/u6rx2UkA=="/>
-		<POI MapID="1210" xpos="210.458"  ypos="70.4249" zpos="-162.339" type="story_journal.season_4.war_eternal.riding_skyscales.riding_saddle.elisa" GUID="iTOPnra/+UeL0dHwuyfQ+A=="/>
-		<POI MapID="1210" xpos="528.445"  ypos="73.3022" zpos="-507.852" type="story_journal.season_4.war_eternal.riding_skyscales.riding_saddle.elisa" GUID="Bq1SwJIRIkyXt3NFnlaTHw=="/>
-		<POI MapID="1210" xpos="863.772"  ypos="183.949" zpos="207.451"  type="story_journal.season_4.war_eternal.riding_skyscales.riding_saddle.elisa" GUID="KVqnuTJijE6i4We6QgmgLA=="/>
-		<POI MapID="1210" xpos="1319.91"  ypos="203.671" zpos="705.207"  type="story_journal.season_4.war_eternal.riding_skyscales.riding_saddle.elisa" GUID="FhJIX0lQcUWxZp2jy5cWPw=="/>
-		<POI MapID="1211" xpos="-1302.08" ypos="442.106" zpos="285.647"  type="story_journal.season_4.war_eternal.riding_skyscales.riding_saddle.elisa" GUID="9W1D+ZBP4ECkby9Oa/jz3g=="/>
-		<POI MapID="1211" xpos="-1212.33" ypos="133.473" zpos="-336.997" type="story_journal.season_4.war_eternal.riding_skyscales.riding_saddle.elisa" GUID="JMZ2J7q9R0exzGSclACWjA=="/>
-		<POI MapID="1211" xpos="-390.428" ypos="288.266" zpos="416.378"  type="story_journal.season_4.war_eternal.riding_skyscales.riding_saddle.elisa" GUID="H2VgcMzx+EelNsKqvwb77Q=="/>
-		<POI MapID="1211" xpos="-196.423" ypos="273.638" zpos="-278.965" type="story_journal.season_4.war_eternal.riding_skyscales.riding_saddle.elisa" GUID="Lt8YYGfhJUiHM60WjJ38XA=="/>
-		<POI MapID="1211" xpos="580.49"   ypos="252.476" zpos="644.743"  type="story_journal.season_4.war_eternal.riding_skyscales.riding_saddle.elisa" GUID="/n0N8Vjj9UG2h3+27DnRtQ=="/>
-		<POI MapID="1211" xpos="1120.62"  ypos="179.666" zpos="-534.602" type="story_journal.season_4.war_eternal.riding_skyscales.riding_saddle.elisa" GUID="Gk6OMP43fUWxcPWu7DmSOg=="/>
-		<POI MapID="1211" xpos="1455.15"  ypos="253.644" zpos="169.31"   type="story_journal.season_4.war_eternal.riding_skyscales.riding_saddle.elisa" GUID="Wc5LnXJd0kSEESq3H+V9Xg=="/>
-		<POI MapID="1226" xpos="-1007.33" ypos="269.181" zpos="-308.829" type="story_journal.season_4.war_eternal.riding_skyscales.riding_saddle.elisa" GUID="SFPqEWUG6kmNlFH6czcTpA=="/>
-		<POI MapID="1226" xpos="-614.83"  ypos="169.266" zpos="724.312"  type="story_journal.season_4.war_eternal.riding_skyscales.riding_saddle.elisa" GUID="zbPkfjHvvUqPiItv7XBw/g=="/>
-		<POI MapID="1226" xpos="-216.263" ypos="309.27"  zpos="712.94"   type="story_journal.season_4.war_eternal.riding_skyscales.riding_saddle.elisa" GUID="18+UoSX6DEiO42emMrEQ3A=="/>
-		<POI MapID="1226" xpos="-12.1884" ypos="302.319" zpos="187.445"  type="story_journal.season_4.war_eternal.riding_skyscales.riding_saddle.elisa" GUID="WdU+yNI/iEqYfx8UpwDwAg=="/>
-		<POI MapID="1226" xpos="-46.6777" ypos="273.493" zpos="-1383.07" type="story_journal.season_4.war_eternal.riding_skyscales.riding_saddle.elisa" GUID="89zGNDnsUk2Jp+mLPbHWcQ=="/>
-		<POI MapID="1226" xpos="533.491"  ypos="103.937" zpos="1211.74"  type="story_journal.season_4.war_eternal.riding_skyscales.riding_saddle.elisa" GUID="gWXxoC5PiEC6Y/RzQQXmOQ=="/>
-		<POI MapID="1226" xpos="941.592"  ypos="199.618" zpos="1108.41"  type="story_journal.season_4.war_eternal.riding_skyscales.riding_saddle.elisa" GUID="9jCrie+bhUai2CJSZGQPaw=="/>
-		<POI MapID="1228" xpos="-968.114" ypos="41.3085" zpos="-779.103" type="story_journal.season_4.war_eternal.riding_skyscales.riding_saddle.elisa" GUID="rr1AcH13PEq7WwrT/DBqyA=="/>
-		<POI MapID="1228" xpos="-725.39"  ypos="79.9851" zpos="192.491"  type="story_journal.season_4.war_eternal.riding_skyscales.riding_saddle.elisa" GUID="2bz6Ct8SFEapmuGkabmN3Q=="/>
-		<POI MapID="1228" xpos="-265.145" ypos="42.722"  zpos="-302.888" type="story_journal.season_4.war_eternal.riding_skyscales.riding_saddle.elisa" GUID="Er/vNezYSkuiKiB3NA8EJQ=="/>
-		<POI MapID="1228" xpos="-149.655" ypos="135.515" zpos="835.839"  type="story_journal.season_4.war_eternal.riding_skyscales.riding_saddle.elisa" GUID="dyNQ/YJq+EC6UlSBFdVMHA=="/>
-		<POI MapID="1228" xpos="46.7718"  ypos="78.1569" zpos="384.595"  type="story_journal.season_4.war_eternal.riding_skyscales.riding_saddle.elisa" GUID="Txu9y+/zGEOaZvcDpy3TyA=="/>
-		<POI MapID="1228" xpos="372.41"   ypos="164.16"  zpos="875.074"  type="story_journal.season_4.war_eternal.riding_skyscales.riding_saddle.elisa" GUID="yIZM3rkFDEuJkXRpn2cc8A=="/>
-		<POI MapID="1228" xpos="748.808"  ypos="150.543" zpos="955.976"  type="story_journal.season_4.war_eternal.riding_skyscales.riding_saddle.elisa" GUID="dcAU9E8s9E+mwkwo5SmvjQ=="/>
-		<POI MapID="1228" xpos="945.045"  ypos="7.84999" zpos="-747.287" type="story_journal.season_4.war_eternal.riding_skyscales.riding_saddle.elisa" GUID="JknSHKIhckmv7DXdMLhURQ=="/>
-		<POI MapID="1248" xpos="-1249.22" ypos="51.4383" zpos="324.985"  type="story_journal.season_4.war_eternal.riding_skyscales.riding_saddle.elisa" GUID="ChvjUEv+8UCY+HXqEVJa4A=="/>
-		<POI MapID="1248" xpos="-391.554" ypos="144.015" zpos="-183.923" type="story_journal.season_4.war_eternal.riding_skyscales.riding_saddle.elisa" GUID="/1wZLPJpeEGNbVVNMZ6vXA=="/>
-		<POI MapID="1248" xpos="-68.8722" ypos="160.222" zpos="880.989"  type="story_journal.season_4.war_eternal.riding_skyscales.riding_saddle.elisa" GUID="Bko3Wsa3y0Or63ziXj3ang=="/>
-		<POI MapID="1248" xpos="436.844"  ypos="290.152" zpos="18.8402"  type="story_journal.season_4.war_eternal.riding_skyscales.riding_saddle.elisa" GUID="uVfuydJB30KSjboEo7QHAA=="/>
-		<POI MapID="1248" xpos="603.621"  ypos="115.014" zpos="-862.649" type="story_journal.season_4.war_eternal.riding_skyscales.riding_saddle.elisa" GUID="29ma+xj3fEKdx6Tpf/sZ1g=="/>
-		<POI MapID="1248" xpos="879.945"  ypos="140.771" zpos="437.438"  type="story_journal.season_4.war_eternal.riding_skyscales.riding_saddle.elisa" GUID="SEuD54OIHUCQxjnIznZzhw=="/>
-		<POI MapID="1248" xpos="1235.79"  ypos="65.8529" zpos="-100.062" type="story_journal.season_4.war_eternal.riding_skyscales.riding_saddle.elisa" GUID="00uYKW1LFkejnDWYyuTPdg=="/>
+		<POI MapID="1210" xpos="-1210.81" ypos="42.6638" zpos="143.771" type="story_journal.season_4.war_eternal.riding_skyscales.riding_saddle.elisa" GUID="aWbkg6GqmEm4DRHJHSxhmg==" />
+		<POI MapID="1210" xpos="-686.265" ypos="125.509" zpos="490.407" type="story_journal.season_4.war_eternal.riding_skyscales.riding_saddle.elisa" GUID="rEiKMyyECUSVt//+qVWRNw==" />
+		<POI MapID="1210" xpos="-347.739" ypos="77.0079" zpos="-611.396" type="story_journal.season_4.war_eternal.riding_skyscales.riding_saddle.elisa" GUID="0OSD4RxYcEyBKJv36WVq2w==" />
+		<POI MapID="1210" xpos="28.9582" ypos="170.621" zpos="583.744" type="story_journal.season_4.war_eternal.riding_skyscales.riding_saddle.elisa" GUID="covmo+ya8Eeqd/u6rx2UkA==" />
+		<POI MapID="1210" xpos="210.458" ypos="70.4249" zpos="-162.339" type="story_journal.season_4.war_eternal.riding_skyscales.riding_saddle.elisa" GUID="iTOPnra/+UeL0dHwuyfQ+A==" />
+		<POI MapID="1210" xpos="528.445" ypos="73.3022" zpos="-507.852" type="story_journal.season_4.war_eternal.riding_skyscales.riding_saddle.elisa" GUID="Bq1SwJIRIkyXt3NFnlaTHw==" />
+		<POI MapID="1210" xpos="863.772" ypos="183.949" zpos="207.451" type="story_journal.season_4.war_eternal.riding_skyscales.riding_saddle.elisa" GUID="KVqnuTJijE6i4We6QgmgLA==" />
+		<POI MapID="1210" xpos="1319.91" ypos="203.671" zpos="705.207" type="story_journal.season_4.war_eternal.riding_skyscales.riding_saddle.elisa" GUID="FhJIX0lQcUWxZp2jy5cWPw==" />
+		<POI MapID="1211" xpos="-1302.08" ypos="442.106" zpos="285.647" type="story_journal.season_4.war_eternal.riding_skyscales.riding_saddle.elisa" GUID="9W1D+ZBP4ECkby9Oa/jz3g==" />
+		<POI MapID="1211" xpos="-1212.33" ypos="133.473" zpos="-336.997" type="story_journal.season_4.war_eternal.riding_skyscales.riding_saddle.elisa" GUID="JMZ2J7q9R0exzGSclACWjA==" />
+		<POI MapID="1211" xpos="-390.428" ypos="288.266" zpos="416.378" type="story_journal.season_4.war_eternal.riding_skyscales.riding_saddle.elisa" GUID="H2VgcMzx+EelNsKqvwb77Q==" />
+		<POI MapID="1211" xpos="-196.423" ypos="273.638" zpos="-278.965" type="story_journal.season_4.war_eternal.riding_skyscales.riding_saddle.elisa" GUID="Lt8YYGfhJUiHM60WjJ38XA==" />
+		<POI MapID="1211" xpos="580.49" ypos="252.476" zpos="644.743" type="story_journal.season_4.war_eternal.riding_skyscales.riding_saddle.elisa" GUID="/n0N8Vjj9UG2h3+27DnRtQ==" />
+		<POI MapID="1211" xpos="1120.62" ypos="179.666" zpos="-534.602" type="story_journal.season_4.war_eternal.riding_skyscales.riding_saddle.elisa" GUID="Gk6OMP43fUWxcPWu7DmSOg==" />
+		<POI MapID="1211" xpos="1455.15" ypos="253.644" zpos="169.31" type="story_journal.season_4.war_eternal.riding_skyscales.riding_saddle.elisa" GUID="Wc5LnXJd0kSEESq3H+V9Xg==" />
+		<POI MapID="1226" xpos="-1007.33" ypos="269.181" zpos="-308.829" type="story_journal.season_4.war_eternal.riding_skyscales.riding_saddle.elisa" GUID="SFPqEWUG6kmNlFH6czcTpA==" />
+		<POI MapID="1226" xpos="-614.83" ypos="169.266" zpos="724.312" type="story_journal.season_4.war_eternal.riding_skyscales.riding_saddle.elisa" GUID="zbPkfjHvvUqPiItv7XBw/g==" />
+		<POI MapID="1226" xpos="-216.263" ypos="309.27" zpos="712.94" type="story_journal.season_4.war_eternal.riding_skyscales.riding_saddle.elisa" GUID="18+UoSX6DEiO42emMrEQ3A==" />
+		<POI MapID="1226" xpos="-12.1884" ypos="302.319" zpos="187.445" type="story_journal.season_4.war_eternal.riding_skyscales.riding_saddle.elisa" GUID="WdU+yNI/iEqYfx8UpwDwAg==" />
+		<POI MapID="1226" xpos="-46.6777" ypos="273.493" zpos="-1383.07" type="story_journal.season_4.war_eternal.riding_skyscales.riding_saddle.elisa" GUID="89zGNDnsUk2Jp+mLPbHWcQ==" />
+		<POI MapID="1226" xpos="533.491" ypos="103.937" zpos="1211.74" type="story_journal.season_4.war_eternal.riding_skyscales.riding_saddle.elisa" GUID="gWXxoC5PiEC6Y/RzQQXmOQ==" />
+		<POI MapID="1226" xpos="941.592" ypos="199.618" zpos="1108.41" type="story_journal.season_4.war_eternal.riding_skyscales.riding_saddle.elisa" GUID="9jCrie+bhUai2CJSZGQPaw==" />
+		<POI MapID="1228" xpos="-968.114" ypos="41.3085" zpos="-779.103" type="story_journal.season_4.war_eternal.riding_skyscales.riding_saddle.elisa" GUID="rr1AcH13PEq7WwrT/DBqyA==" />
+		<POI MapID="1228" xpos="-725.39" ypos="79.9851" zpos="192.491" type="story_journal.season_4.war_eternal.riding_skyscales.riding_saddle.elisa" GUID="2bz6Ct8SFEapmuGkabmN3Q==" />
+		<POI MapID="1228" xpos="-265.145" ypos="42.722" zpos="-302.888" type="story_journal.season_4.war_eternal.riding_skyscales.riding_saddle.elisa" GUID="Er/vNezYSkuiKiB3NA8EJQ==" />
+		<POI MapID="1228" xpos="-149.655" ypos="135.515" zpos="835.839" type="story_journal.season_4.war_eternal.riding_skyscales.riding_saddle.elisa" GUID="dyNQ/YJq+EC6UlSBFdVMHA==" />
+		<POI MapID="1228" xpos="46.7718" ypos="78.1569" zpos="384.595" type="story_journal.season_4.war_eternal.riding_skyscales.riding_saddle.elisa" GUID="Txu9y+/zGEOaZvcDpy3TyA==" />
+		<POI MapID="1228" xpos="372.41" ypos="164.16" zpos="875.074" type="story_journal.season_4.war_eternal.riding_skyscales.riding_saddle.elisa" GUID="yIZM3rkFDEuJkXRpn2cc8A==" />
+		<POI MapID="1228" xpos="748.808" ypos="150.543" zpos="955.976" type="story_journal.season_4.war_eternal.riding_skyscales.riding_saddle.elisa" GUID="dcAU9E8s9E+mwkwo5SmvjQ==" />
+		<POI MapID="1228" xpos="945.045" ypos="7.84999" zpos="-747.287" type="story_journal.season_4.war_eternal.riding_skyscales.riding_saddle.elisa" GUID="JknSHKIhckmv7DXdMLhURQ==" />
+		<POI MapID="1248" xpos="-1249.22" ypos="51.4383" zpos="324.985" type="story_journal.season_4.war_eternal.riding_skyscales.riding_saddle.elisa" GUID="ChvjUEv+8UCY+HXqEVJa4A==" />
+		<POI MapID="1248" xpos="-391.554" ypos="144.015" zpos="-183.923" type="story_journal.season_4.war_eternal.riding_skyscales.riding_saddle.elisa" GUID="/1wZLPJpeEGNbVVNMZ6vXA==" />
+		<POI MapID="1248" xpos="-68.8722" ypos="160.222" zpos="880.989" type="story_journal.season_4.war_eternal.riding_skyscales.riding_saddle.elisa" GUID="Bko3Wsa3y0Or63ziXj3ang==" />
+		<POI MapID="1248" xpos="436.844" ypos="290.152" zpos="18.8402" type="story_journal.season_4.war_eternal.riding_skyscales.riding_saddle.elisa" GUID="uVfuydJB30KSjboEo7QHAA==" />
+		<POI MapID="1248" xpos="603.621" ypos="115.014" zpos="-862.649" type="story_journal.season_4.war_eternal.riding_skyscales.riding_saddle.elisa" GUID="29ma+xj3fEKdx6Tpf/sZ1g==" />
+		<POI MapID="1248" xpos="879.945" ypos="140.771" zpos="437.438" type="story_journal.season_4.war_eternal.riding_skyscales.riding_saddle.elisa" GUID="SEuD54OIHUCQxjnIznZzhw==" />
+		<POI MapID="1248" xpos="1235.79" ypos="65.8529" zpos="-100.062" type="story_journal.season_4.war_eternal.riding_skyscales.riding_saddle.elisa" GUID="00uYKW1LFkejnDWYyuTPdg==" />
 		<!-- Alaleh -->
-		<POI MapID="1263" xpos="375.511"  ypos="1.26027" zpos="431.264"  type="story_journal.season_4.war_eternal.riding_skyscales.riding_saddle.alaleh" GUID="SKhmlmGatUmgVFCgo6goNg=="/>
+		<POI MapID="1263" xpos="375.511" ypos="1.26027" zpos="431.264" type="story_journal.season_4.war_eternal.riding_skyscales.riding_saddle.alaleh" GUID="SKhmlmGatUmgVFCgo6goNg==" />
 		<!-- Ethall -->
-		<POI MapID="1271" xpos="-121.611" ypos="3.69151" zpos="713.552"  type="story_journal.season_4.war_eternal.riding_skyscales.riding_saddle.ethall" GUID="LNArEhC7fkawaYCXDsDmiQ=="/>
+		<POI MapID="1271" xpos="-121.611" ypos="3.69151" zpos="713.552" type="story_journal.season_4.war_eternal.riding_skyscales.riding_saddle.ethall" GUID="LNArEhC7fkawaYCXDsDmiQ==" />
 		<!-- Nalar -->
-		<POI MapID="1288" xpos="-468.983" ypos="23.6783" zpos="255.107"  type="story_journal.season_4.war_eternal.riding_skyscales.riding_saddle.nalar" GUID="KqrUmHQyVkqxCsLt+hwsMw=="/>
+		<POI MapID="1288" xpos="-468.983" ypos="23.6783" zpos="255.107" type="story_journal.season_4.war_eternal.riding_skyscales.riding_saddle.nalar" GUID="KqrUmHQyVkqxCsLt+hwsMw==" />
 		<!-- Hyacinth -->
-		<POI MapID="1301" xpos="752.179"  ypos="69.376"  zpos="-360.572" type="story_journal.season_4.war_eternal.riding_skyscales.riding_saddle.hyacinth" GUID="qpvvlPzOvESkqjQ50dq4Xw=="/>
+		<POI MapID="1301" xpos="752.179" ypos="69.376" zpos="-360.572" type="story_journal.season_4.war_eternal.riding_skyscales.riding_saddle.hyacinth" GUID="qpvvlPzOvESkqjQ50dq4Xw==" />
 		<!-- Kynon -->
-		<POI MapID="1310" xpos="-586.021" ypos="139.341" zpos="991.118"  type="story_journal.season_4.war_eternal.riding_skyscales.riding_saddle.kynon" GUID="i4Vtuhd9zEqafG2Kyqug2g=="/>
+		<POI MapID="1310" xpos="-586.021" ypos="139.341" zpos="991.118" type="story_journal.season_4.war_eternal.riding_skyscales.riding_saddle.kynon" GUID="i4Vtuhd9zEqafG2Kyqug2g==" />
 		<!-- Trader -->
-		<POI MapID="1317" xpos="720.469"  ypos="105.163" zpos="676.225"  type="story_journal.season_4.war_eternal.riding_skyscales.riding_saddle.trader" GUID="iEDuM99c0UOqN68b+4QPoQ=="/>
-
+		<POI MapID="1317" xpos="720.469" ypos="105.163" zpos="676.225" type="story_journal.season_4.war_eternal.riding_skyscales.riding_saddle.trader" GUID="iEDuM99c0UOqN68b+4QPoQ==" />
 		<!-- A LESSON IN FLYING -->
-		<POI MapID="1301" xpos="838.27"   ypos="221.251" zpos="304.586"  type="story_journal.season_4.war_eternal.riding_skyscales.a_lesson_in_flying" GUID="ptFzb95hPkWlDeeebAWO0Q==" iconFile="Img/Season4/Gorrik.png" heightOffset="3"/>
-
+		<POI MapID="1301" xpos="838.27" ypos="221.251" zpos="304.586" type="story_journal.season_4.war_eternal.riding_skyscales.a_lesson_in_flying" GUID="ptFzb95hPkWlDeeebAWO0Q==" iconFile="Img/Season4/Gorrik.png" heightOffset="3" />
 		<!-- SKYSCALE FLIGHT -->
 		<!-- Jahai Bluffs -->
-		<Trail type="story_journal.season_4.war_eternal.riding_skyscales.skyscale_flight.rift" GUID="6V4pqWU1ekKUtsMi+07voA==" trailData="Data/StoryJournal/Season4/WarEternal/SkyscaleFlight_1.trl" texture="Data/Arrow.png" color="ffc570ff" alpha="1" fadeNear="3000" fadeFar="3500" animSpeed="1" mapDisplaySize="15"/>
-		<POI MapID="1301" xpos="824.951"  ypos="221.736" zpos="295.652"  type="story_journal.season_4.war_eternal.riding_skyscales.skyscale_flight"      GUID="eK2vWMcEuEC6z4pVvQ0l3w=="/>
-		<POI MapID="1301" xpos="809.999"  ypos="237.761" zpos="341.001"  type="story_journal.season_4.war_eternal.riding_skyscales.skyscale_flight.rift" GUID="Zfyv5WeLVEKKVHmDjOmKSw=="/>
+		<Trail type="story_journal.season_4.war_eternal.riding_skyscales.skyscale_flight.rift" GUID="6V4pqWU1ekKUtsMi+07voA==" trailData="Data/StoryJournal/Season4/WarEternal/SkyscaleFlight_1.trl" texture="Data/Arrow.png" color="ffc570ff" alpha="1" fadeNear="3000" fadeFar="3500" animSpeed="1" mapDisplaySize="15" />
+		<POI MapID="1301" xpos="824.951" ypos="221.736" zpos="295.652" type="story_journal.season_4.war_eternal.riding_skyscales.skyscale_flight" GUID="eK2vWMcEuEC6z4pVvQ0l3w==" />
+		<POI MapID="1301" xpos="809.999" ypos="237.761" zpos="341.001" type="story_journal.season_4.war_eternal.riding_skyscales.skyscale_flight.rift" GUID="Zfyv5WeLVEKKVHmDjOmKSw==" />
 		<!-- Domain of Vabbi -->
-		<Trail type="story_journal.season_4.war_eternal.riding_skyscales.skyscale_flight.rift" GUID="mo9V5VS2YEG6F/kT6pn6Sw==" trailData="Data/StoryJournal/Season4/WarEternal/SkyscaleFlight_2.trl" texture="Data/Arrow.png" color="ffc570ff" alpha="1" fadeNear="3000" fadeFar="3500" animSpeed="1" mapDisplaySize="15"/>
-		<POI MapID="1248" xpos="198.898"  ypos="85.5102" zpos="-478.387" type="story_journal.season_4.war_eternal.riding_skyscales.skyscale_flight"      GUID="TsGJBOI9YE2GFjd2YpEnoA=="/>
-		<POI MapID="1248" xpos="202.009"  ypos="100.582" zpos="-543.9"   type="story_journal.season_4.war_eternal.riding_skyscales.skyscale_flight.rift" GUID="v/U26Apo9k6S/8a6OdOKAQ=="/>
+		<Trail type="story_journal.season_4.war_eternal.riding_skyscales.skyscale_flight.rift" GUID="mo9V5VS2YEG6F/kT6pn6Sw==" trailData="Data/StoryJournal/Season4/WarEternal/SkyscaleFlight_2.trl" texture="Data/Arrow.png" color="ffc570ff" alpha="1" fadeNear="3000" fadeFar="3500" animSpeed="1" mapDisplaySize="15" />
+		<POI MapID="1248" xpos="198.898" ypos="85.5102" zpos="-478.387" type="story_journal.season_4.war_eternal.riding_skyscales.skyscale_flight" GUID="TsGJBOI9YE2GFjd2YpEnoA==" />
+		<POI MapID="1248" xpos="202.009" ypos="100.582" zpos="-543.9" type="story_journal.season_4.war_eternal.riding_skyscales.skyscale_flight.rift" GUID="v/U26Apo9k6S/8a6OdOKAQ==" />
 		<!-- Sandswept Isles -->
-		<Trail type="story_journal.season_4.war_eternal.riding_skyscales.skyscale_flight.rift" GUID="elU6aVfZukShb356cf7wJw==" trailData="Data/StoryJournal/Season4/WarEternal/SkyscaleFlight_3.trl" texture="Data/Arrow.png" color="ffc570ff" alpha="1" fadeNear="3000" fadeFar="3500" animSpeed="1" mapDisplaySize="15"/>
-		<POI MapID="1271" xpos="627.733"  ypos="6.83543" zpos="129.053"  type="story_journal.season_4.war_eternal.riding_skyscales.skyscale_flight"      GUID="hnYwibwzb0yjgdlXJj+jgQ=="/>
-		<POI MapID="1271" xpos="551.526"  ypos="62.362"  zpos="165.74"   type="story_journal.season_4.war_eternal.riding_skyscales.skyscale_flight.rift" GUID="ZVJM9Bnt0kuDsfuL/X8c9Q=="/>
+		<Trail type="story_journal.season_4.war_eternal.riding_skyscales.skyscale_flight.rift" GUID="elU6aVfZukShb356cf7wJw==" trailData="Data/StoryJournal/Season4/WarEternal/SkyscaleFlight_3.trl" texture="Data/Arrow.png" color="ffc570ff" alpha="1" fadeNear="3000" fadeFar="3500" animSpeed="1" mapDisplaySize="15" />
+		<POI MapID="1271" xpos="627.733" ypos="6.83543" zpos="129.053" type="story_journal.season_4.war_eternal.riding_skyscales.skyscale_flight" GUID="hnYwibwzb0yjgdlXJj+jgQ==" />
+		<POI MapID="1271" xpos="551.526" ypos="62.362" zpos="165.74" type="story_journal.season_4.war_eternal.riding_skyscales.skyscale_flight.rift" GUID="ZVJM9Bnt0kuDsfuL/X8c9Q==" />
 		<!-- Domain of Kourna -->
-		<Trail type="story_journal.season_4.war_eternal.riding_skyscales.skyscale_flight.rift" GUID="Shcem51JpECAS/Hs1s68Lg==" trailData="Data/StoryJournal/Season4/WarEternal/SkyscaleFlight_4.trl" texture="Data/Arrow.png" color="ffc570ff" alpha="1" fadeNear="3000" fadeFar="3500" animSpeed="1" mapDisplaySize="15"/>
-		<POI MapID="1288" xpos="-634.049" ypos="59.2482" zpos="763.869"  type="story_journal.season_4.war_eternal.riding_skyscales.skyscale_flight"      GUID="rIDZgAkwU0S3NIlfUlvYYw=="/>
-		<POI MapID="1288" xpos="-696.808" ypos="59.6656" zpos="733.141"  type="story_journal.season_4.war_eternal.riding_skyscales.skyscale_flight.rift" GUID="P6JXGE84Ikqr8Iu32NwxiQ=="/>
+		<Trail type="story_journal.season_4.war_eternal.riding_skyscales.skyscale_flight.rift" GUID="Shcem51JpECAS/Hs1s68Lg==" trailData="Data/StoryJournal/Season4/WarEternal/SkyscaleFlight_4.trl" texture="Data/Arrow.png" color="ffc570ff" alpha="1" fadeNear="3000" fadeFar="3500" animSpeed="1" mapDisplaySize="15" />
+		<POI MapID="1288" xpos="-634.049" ypos="59.2482" zpos="763.869" type="story_journal.season_4.war_eternal.riding_skyscales.skyscale_flight" GUID="rIDZgAkwU0S3NIlfUlvYYw==" />
+		<POI MapID="1288" xpos="-696.808" ypos="59.6656" zpos="733.141" type="story_journal.season_4.war_eternal.riding_skyscales.skyscale_flight.rift" GUID="P6JXGE84Ikqr8Iu32NwxiQ==" />
 		<!-- Desolation -->
-		<Trail type="story_journal.season_4.war_eternal.riding_skyscales.skyscale_flight.rift" GUID="Alxetg0GPEqjL71hE3gpcA==" trailData="Data/StoryJournal/Season4/WarEternal/SkyscaleFlight_5.trl" texture="Data/Arrow.png" color="ffc570ff" alpha="1" fadeNear="3000" fadeFar="3500" animSpeed="1" mapDisplaySize="15"/>
-		<POI MapID="1226" xpos="77.643"   ypos="46.4108" zpos="1264.79"  type="story_journal.season_4.war_eternal.riding_skyscales.skyscale_flight"      GUID="2OwwleTjbUOsKuUvoMJa1Q=="/>
-		<POI MapID="1226" xpos="-14.7919" ypos="48.1988" zpos="1248.13"  type="story_journal.season_4.war_eternal.riding_skyscales.skyscale_flight.rift" GUID="PZd9n1PLOUm221PqBJj/Pg=="/>
+		<Trail type="story_journal.season_4.war_eternal.riding_skyscales.skyscale_flight.rift" GUID="Alxetg0GPEqjL71hE3gpcA==" trailData="Data/StoryJournal/Season4/WarEternal/SkyscaleFlight_5.trl" texture="Data/Arrow.png" color="ffc570ff" alpha="1" fadeNear="3000" fadeFar="3500" animSpeed="1" mapDisplaySize="15" />
+		<POI MapID="1226" xpos="77.643" ypos="46.4108" zpos="1264.79" type="story_journal.season_4.war_eternal.riding_skyscales.skyscale_flight" GUID="2OwwleTjbUOsKuUvoMJa1Q==" />
+		<POI MapID="1226" xpos="-14.7919" ypos="48.1988" zpos="1248.13" type="story_journal.season_4.war_eternal.riding_skyscales.skyscale_flight.rift" GUID="PZd9n1PLOUm221PqBJj/Pg==" />
 		<!-- Domain of Istan -->
-		<Trail type="story_journal.season_4.war_eternal.riding_skyscales.skyscale_flight.rift" GUID="0UH7h0x0vkyT2LuzAkAkKQ==" trailData="Data/StoryJournal/Season4/WarEternal/SkyscaleFlight_6.trl" texture="Data/Arrow.png" color="ffc570ff" alpha="1" fadeNear="3000" fadeFar="3500" animSpeed="1" mapDisplaySize="15"/>
-		<POI MapID="1263" xpos="400.61"   ypos="2.37791" zpos="486.586"  type="story_journal.season_4.war_eternal.riding_skyscales.skyscale_flight"      GUID="sxioyWywA0uPRXbQrktFJQ=="/>
-		<POI MapID="1263" xpos="372.343"  ypos="14.4282" zpos="530.649"  type="story_journal.season_4.war_eternal.riding_skyscales.skyscale_flight.rift" GUID="sL60Dlr5vUuJBAMERkpy8w=="/>
+		<Trail type="story_journal.season_4.war_eternal.riding_skyscales.skyscale_flight.rift" GUID="0UH7h0x0vkyT2LuzAkAkKQ==" trailData="Data/StoryJournal/Season4/WarEternal/SkyscaleFlight_6.trl" texture="Data/Arrow.png" color="ffc570ff" alpha="1" fadeNear="3000" fadeFar="3500" animSpeed="1" mapDisplaySize="15" />
+		<POI MapID="1263" xpos="400.61" ypos="2.37791" zpos="486.586" type="story_journal.season_4.war_eternal.riding_skyscales.skyscale_flight" GUID="sxioyWywA0uPRXbQrktFJQ==" />
+		<POI MapID="1263" xpos="372.343" ypos="14.4282" zpos="530.649" type="story_journal.season_4.war_eternal.riding_skyscales.skyscale_flight.rift" GUID="sL60Dlr5vUuJBAMERkpy8w==" />
 		<!-- Thunderhead Peaks -->
-		<Trail type="story_journal.season_4.war_eternal.riding_skyscales.skyscale_flight.rift" GUID="1C1rDBulLEKDMEViLu5f1Q==" trailData="Data/StoryJournal/Season4/WarEternal/SkyscaleFlight_7.trl" texture="Data/Arrow.png" color="ffc570ff" alpha="1" fadeNear="3000" fadeFar="3500" animSpeed="1" mapDisplaySize="15"/>
-		<POI MapID="1310" xpos="-487.764" ypos="3.64372" zpos="-325"     type="story_journal.season_4.war_eternal.riding_skyscales.skyscale_flight"      GUID="2xehxRF1CUen2Z0W98QIow=="/>
-		<POI MapID="1310" xpos="-424.082" ypos="50.7102" zpos="-291.435" type="story_journal.season_4.war_eternal.riding_skyscales.skyscale_flight.rift" GUID="obl/MHnmrU6X64zNO70STQ=="/>
+		<Trail type="story_journal.season_4.war_eternal.riding_skyscales.skyscale_flight.rift" GUID="1C1rDBulLEKDMEViLu5f1Q==" trailData="Data/StoryJournal/Season4/WarEternal/SkyscaleFlight_7.trl" texture="Data/Arrow.png" color="ffc570ff" alpha="1" fadeNear="3000" fadeFar="3500" animSpeed="1" mapDisplaySize="15" />
+		<POI MapID="1310" xpos="-487.764" ypos="3.64372" zpos="-325" type="story_journal.season_4.war_eternal.riding_skyscales.skyscale_flight" GUID="2xehxRF1CUen2Z0W98QIow==" />
+		<POI MapID="1310" xpos="-424.082" ypos="50.7102" zpos="-291.435" type="story_journal.season_4.war_eternal.riding_skyscales.skyscale_flight.rift" GUID="obl/MHnmrU6X64zNO70STQ==" />
 		<!-- Elon Riverlands -->
-		<Trail type="story_journal.season_4.war_eternal.riding_skyscales.skyscale_flight.rift" GUID="8usspZgQdEWT7WN2+jOHpA==" trailData="Data/StoryJournal/Season4/WarEternal/SkyscaleFlight_8.trl" texture="Data/Arrow.png" color="ffc570ff" alpha="1" fadeNear="3000" fadeFar="3500" animSpeed="1" mapDisplaySize="15"/>
-		<POI MapID="1228" xpos="-311.414" ypos="4.41299" zpos="-165.185" type="story_journal.season_4.war_eternal.riding_skyscales.skyscale_flight"      GUID="dVgbjZi5zkqzNVPmIn5VXg=="/>
-		<POI MapID="1228" xpos="-342.695" ypos="22.755"  zpos="-226.153" type="story_journal.season_4.war_eternal.riding_skyscales.skyscale_flight.rift" GUID="YUJOny9lnUmX/Nc99AEiiA=="/>
+		<Trail type="story_journal.season_4.war_eternal.riding_skyscales.skyscale_flight.rift" GUID="8usspZgQdEWT7WN2+jOHpA==" trailData="Data/StoryJournal/Season4/WarEternal/SkyscaleFlight_8.trl" texture="Data/Arrow.png" color="ffc570ff" alpha="1" fadeNear="3000" fadeFar="3500" animSpeed="1" mapDisplaySize="15" />
+		<POI MapID="1228" xpos="-311.414" ypos="4.41299" zpos="-165.185" type="story_journal.season_4.war_eternal.riding_skyscales.skyscale_flight" GUID="dVgbjZi5zkqzNVPmIn5VXg==" />
+		<POI MapID="1228" xpos="-342.695" ypos="22.755" zpos="-226.153" type="story_journal.season_4.war_eternal.riding_skyscales.skyscale_flight.rift" GUID="YUJOny9lnUmX/Nc99AEiiA==" />
 		<!-- Dragonfall -->
-		<Trail type="story_journal.season_4.war_eternal.riding_skyscales.skyscale_flight.rift" GUID="zyocNoZkBEuZP+cdxdiglg==" trailData="Data/StoryJournal/Season4/WarEternal/SkyscaleFlight_9.trl" texture="Data/Arrow.png" color="ffc570ff" alpha="1" fadeNear="3000" fadeFar="3500" animSpeed="1" mapDisplaySize="15"/>
-		<POI MapID="1317" xpos="755.327"  ypos="141.515" zpos="592.894"  type="story_journal.season_4.war_eternal.riding_skyscales.skyscale_flight"      GUID="LvZGioYmPUWvBicq6mZQdA=="/>
-		<POI MapID="1317" xpos="634.342"  ypos="96.2021" zpos="734.696"  type="story_journal.season_4.war_eternal.riding_skyscales.skyscale_flight.rift" GUID="1vN13+S9cUOLxZEdPP3dyg=="/>
+		<Trail type="story_journal.season_4.war_eternal.riding_skyscales.skyscale_flight.rift" GUID="zyocNoZkBEuZP+cdxdiglg==" trailData="Data/StoryJournal/Season4/WarEternal/SkyscaleFlight_9.trl" texture="Data/Arrow.png" color="ffc570ff" alpha="1" fadeNear="3000" fadeFar="3500" animSpeed="1" mapDisplaySize="15" />
+		<POI MapID="1317" xpos="755.327" ypos="141.515" zpos="592.894" type="story_journal.season_4.war_eternal.riding_skyscales.skyscale_flight" GUID="LvZGioYmPUWvBicq6mZQdA==" />
+		<POI MapID="1317" xpos="634.342" ypos="96.2021" zpos="734.696" type="story_journal.season_4.war_eternal.riding_skyscales.skyscale_flight.rift" GUID="1vN13+S9cUOLxZEdPP3dyg==" />
 		<!-- Dry Top -->
-		<Trail type="story_journal.season_4.war_eternal.riding_skyscales.skyscale_flight.rift" GUID="f/tmkPlAQU2ISSDWsuUEmg==" trailData="Data/StoryJournal/Season4/WarEternal/SkyscaleFlight_10.trl" texture="Data/Arrow.png" color="ffc570ff" alpha="1" fadeNear="3000" fadeFar="3500" animSpeed="1" mapDisplaySize="15"/>
-		<POI MapID="988"  xpos="-372.963" ypos="110.869" zpos="-228.513" type="story_journal.season_4.war_eternal.riding_skyscales.skyscale_flight"      GUID="r+x239k1GkKKfmWtetOrDg=="/>
-		<POI MapID="988"  xpos="-342.914" ypos="86.4437" zpos="-260.074" type="story_journal.season_4.war_eternal.riding_skyscales.skyscale_flight.rift" GUID="muNlqVuPREGZOIZXXVZFEA=="/>
+		<Trail type="story_journal.season_4.war_eternal.riding_skyscales.skyscale_flight.rift" GUID="f/tmkPlAQU2ISSDWsuUEmg==" trailData="Data/StoryJournal/Season4/WarEternal/SkyscaleFlight_10.trl" texture="Data/Arrow.png" color="ffc570ff" alpha="1" fadeNear="3000" fadeFar="3500" animSpeed="1" mapDisplaySize="15" />
+		<POI MapID="988" xpos="-372.963" ypos="110.869" zpos="-228.513" type="story_journal.season_4.war_eternal.riding_skyscales.skyscale_flight" GUID="r+x239k1GkKKfmWtetOrDg==" />
+		<POI MapID="988" xpos="-342.914" ypos="86.4437" zpos="-260.074" type="story_journal.season_4.war_eternal.riding_skyscales.skyscale_flight.rift" GUID="muNlqVuPREGZOIZXXVZFEA==" />
 		<!-- Crystal Oasis -->
-		<Trail type="story_journal.season_4.war_eternal.riding_skyscales.skyscale_flight.rift" GUID="pk7+yr5GwkGRkzP3MHmIJw==" trailData="Data/StoryJournal/Season4/WarEternal/SkyscaleFlight_11.trl" texture="Data/Arrow.png" color="ffc570ff" alpha="1" fadeNear="3000" fadeFar="3500" animSpeed="1" mapDisplaySize="15"/>
-		<POI MapID="1210" xpos="926.176"  ypos="139.309" zpos="301.278"  type="story_journal.season_4.war_eternal.riding_skyscales.skyscale_flight"      GUID="JZgHUrNjTUK5L/VRxBbmuQ=="/>
-		<POI MapID="1210" xpos="932.861"  ypos="83.9282" zpos="287.799"  type="story_journal.season_4.war_eternal.riding_skyscales.skyscale_flight.rift" GUID="V/zzUJIzwkmEjIlZl954tw=="/>
+		<Trail type="story_journal.season_4.war_eternal.riding_skyscales.skyscale_flight.rift" GUID="pk7+yr5GwkGRkzP3MHmIJw==" trailData="Data/StoryJournal/Season4/WarEternal/SkyscaleFlight_11.trl" texture="Data/Arrow.png" color="ffc570ff" alpha="1" fadeNear="3000" fadeFar="3500" animSpeed="1" mapDisplaySize="15" />
+		<POI MapID="1210" xpos="926.176" ypos="139.309" zpos="301.278" type="story_journal.season_4.war_eternal.riding_skyscales.skyscale_flight" GUID="JZgHUrNjTUK5L/VRxBbmuQ==" />
+		<POI MapID="1210" xpos="932.861" ypos="83.9282" zpos="287.799" type="story_journal.season_4.war_eternal.riding_skyscales.skyscale_flight.rift" GUID="V/zzUJIzwkmEjIlZl954tw==" />
 		<!-- Silverwastes -->
-		<Trail type="story_journal.season_4.war_eternal.riding_skyscales.skyscale_flight.rift" GUID="7bVgH13ti0SkqYED4DMzpg==" trailData="Data/StoryJournal/Season4/WarEternal/SkyscaleFlight_12.trl" texture="Data/Arrow.png" color="ffc570ff" alpha="1" fadeNear="3000" fadeFar="3500" animSpeed="1" mapDisplaySize="15"/>
-		<POI MapID="1015" xpos="448.837"  ypos="448.994" zpos="-310.356" type="story_journal.season_4.war_eternal.riding_skyscales.skyscale_flight"      GUID="uqxoD2ApiU+1uAkriC975A=="/>
-		<POI MapID="1015" xpos="407.452"  ypos="431.343" zpos="-327.008" type="story_journal.season_4.war_eternal.riding_skyscales.skyscale_flight.rift" GUID="pSR72mV5CEeUi40KAi1O+Q=="/>
+		<Trail type="story_journal.season_4.war_eternal.riding_skyscales.skyscale_flight.rift" GUID="7bVgH13ti0SkqYED4DMzpg==" trailData="Data/StoryJournal/Season4/WarEternal/SkyscaleFlight_12.trl" texture="Data/Arrow.png" color="ffc570ff" alpha="1" fadeNear="3000" fadeFar="3500" animSpeed="1" mapDisplaySize="15" />
+		<POI MapID="1015" xpos="448.837" ypos="448.994" zpos="-310.356" type="story_journal.season_4.war_eternal.riding_skyscales.skyscale_flight" GUID="uqxoD2ApiU+1uAkriC975A==" />
+		<POI MapID="1015" xpos="407.452" ypos="431.343" zpos="-327.008" type="story_journal.season_4.war_eternal.riding_skyscales.skyscale_flight.rift" GUID="pSR72mV5CEeUi40KAi1O+Q==" />
 		<!-- Blazeridge Steppes -->
-		<Trail type="story_journal.season_4.war_eternal.riding_skyscales.skyscale_flight.rift" GUID="N6C/cRKx3keEzzCY7DO9fA==" trailData="Data/StoryJournal/Season4/WarEternal/SkyscaleFlight_13.trl" texture="Data/Arrow.png" color="ffc570ff" alpha="1" fadeNear="3000" fadeFar="3500" animSpeed="1" mapDisplaySize="15"/>
-		<POI MapID="20"   xpos="-212.02"  ypos="10.9633" zpos="840.182"  type="story_journal.season_4.war_eternal.riding_skyscales.skyscale_flight"      GUID="MdOVB1tgTEulr9EVnAzB+A=="/>
-		<POI MapID="20"   xpos="-213.184" ypos="17.5943" zpos="868.185"  type="story_journal.season_4.war_eternal.riding_skyscales.skyscale_flight.rift" GUID="/fvP5i2fZkiSRjXkrnK6uA=="/>
+		<Trail type="story_journal.season_4.war_eternal.riding_skyscales.skyscale_flight.rift" GUID="N6C/cRKx3keEzzCY7DO9fA==" trailData="Data/StoryJournal/Season4/WarEternal/SkyscaleFlight_13.trl" texture="Data/Arrow.png" color="ffc570ff" alpha="1" fadeNear="3000" fadeFar="3500" animSpeed="1" mapDisplaySize="15" />
+		<POI MapID="20" xpos="-212.02" ypos="10.9633" zpos="840.182" type="story_journal.season_4.war_eternal.riding_skyscales.skyscale_flight" GUID="MdOVB1tgTEulr9EVnAzB+A==" />
+		<POI MapID="20" xpos="-213.184" ypos="17.5943" zpos="868.185" type="story_journal.season_4.war_eternal.riding_skyscales.skyscale_flight.rift" GUID="/fvP5i2fZkiSRjXkrnK6uA==" />
 		<!-- Diessa Plateau -->
-		<Trail type="story_journal.season_4.war_eternal.riding_skyscales.skyscale_flight.rift" GUID="sPDPNElHyk2B/JldKjo/aw==" trailData="Data/StoryJournal/Season4/WarEternal/SkyscaleFlight_14.trl" texture="Data/Arrow.png" color="ffc570ff" alpha="1" fadeNear="3000" fadeFar="3500" animSpeed="1" mapDisplaySize="15"/>
-		<POI MapID="32"   xpos="600.921"  ypos="52.5859" zpos="-243.359" type="story_journal.season_4.war_eternal.riding_skyscales.skyscale_flight"      GUID="Ih4M2OUc1kGnyubmnfWqMQ=="/>
-		<POI MapID="32"   xpos="460.071"  ypos="62.72"   zpos="-126.27"  type="story_journal.season_4.war_eternal.riding_skyscales.skyscale_flight.rift" GUID="f2ThubDp7E6Hsk+bXj/q5w=="/>
+		<Trail type="story_journal.season_4.war_eternal.riding_skyscales.skyscale_flight.rift" GUID="sPDPNElHyk2B/JldKjo/aw==" trailData="Data/StoryJournal/Season4/WarEternal/SkyscaleFlight_14.trl" texture="Data/Arrow.png" color="ffc570ff" alpha="1" fadeNear="3000" fadeFar="3500" animSpeed="1" mapDisplaySize="15" />
+		<POI MapID="32" xpos="600.921" ypos="52.5859" zpos="-243.359" type="story_journal.season_4.war_eternal.riding_skyscales.skyscale_flight" GUID="Ih4M2OUc1kGnyubmnfWqMQ==" />
+		<POI MapID="32" xpos="460.071" ypos="62.72" zpos="-126.27" type="story_journal.season_4.war_eternal.riding_skyscales.skyscale_flight.rift" GUID="f2ThubDp7E6Hsk+bXj/q5w==" />
 		<!-- Fireheart Rise -->
-		<Trail type="story_journal.season_4.war_eternal.riding_skyscales.skyscale_flight.rift" GUID="DFd0DOphN0GSu6iMJccxxg==" trailData="Data/StoryJournal/Season4/WarEternal/SkyscaleFlight_15.trl" texture="Data/Arrow.png" color="ffc570ff" alpha="1" fadeNear="3000" fadeFar="3500" animSpeed="1" mapDisplaySize="15"/>
-		<POI MapID="22"   xpos="332.663"  ypos="41.1909" zpos="334.826"  type="story_journal.season_4.war_eternal.riding_skyscales.skyscale_flight"      GUID="erEoylMuk0WuZ3b7l1W6Lg=="/>
-		<POI MapID="22"   xpos="427.289"  ypos="32.7297" zpos="330.413"  type="story_journal.season_4.war_eternal.riding_skyscales.skyscale_flight.rift" GUID="E/wHUNgXGEuAsP7GaxCLWA=="/>
+		<Trail type="story_journal.season_4.war_eternal.riding_skyscales.skyscale_flight.rift" GUID="DFd0DOphN0GSu6iMJccxxg==" trailData="Data/StoryJournal/Season4/WarEternal/SkyscaleFlight_15.trl" texture="Data/Arrow.png" color="ffc570ff" alpha="1" fadeNear="3000" fadeFar="3500" animSpeed="1" mapDisplaySize="15" />
+		<POI MapID="22" xpos="332.663" ypos="41.1909" zpos="334.826" type="story_journal.season_4.war_eternal.riding_skyscales.skyscale_flight" GUID="erEoylMuk0WuZ3b7l1W6Lg==" />
+		<POI MapID="22" xpos="427.289" ypos="32.7297" zpos="330.413" type="story_journal.season_4.war_eternal.riding_skyscales.skyscale_flight.rift" GUID="E/wHUNgXGEuAsP7GaxCLWA==" />
 		<!-- Iron Marches -->
-		<Trail type="story_journal.season_4.war_eternal.riding_skyscales.skyscale_flight.rift" GUID="zP5tIIeX2Ey6E5kIjcR8Og==" trailData="Data/StoryJournal/Season4/WarEternal/SkyscaleFlight_16.trl" texture="Data/Arrow.png" color="ffc570ff" alpha="1" fadeNear="3000" fadeFar="3500" animSpeed="1" mapDisplaySize="15"/>
-		<POI MapID="25"   xpos="-187.448" ypos="35.0273" zpos="-431.359" type="story_journal.season_4.war_eternal.riding_skyscales.skyscale_flight"      GUID="l+v00t2NpUWNPPfcyIY3CA=="/>
-		<POI MapID="25"   xpos="-244.48"  ypos="28.1877" zpos="-451.621" type="story_journal.season_4.war_eternal.riding_skyscales.skyscale_flight.rift" GUID="GG5VCFzbQESjGfLfcQzh7A=="/>
+		<Trail type="story_journal.season_4.war_eternal.riding_skyscales.skyscale_flight.rift" GUID="zP5tIIeX2Ey6E5kIjcR8Og==" trailData="Data/StoryJournal/Season4/WarEternal/SkyscaleFlight_16.trl" texture="Data/Arrow.png" color="ffc570ff" alpha="1" fadeNear="3000" fadeFar="3500" animSpeed="1" mapDisplaySize="15" />
+		<POI MapID="25" xpos="-187.448" ypos="35.0273" zpos="-431.359" type="story_journal.season_4.war_eternal.riding_skyscales.skyscale_flight" GUID="l+v00t2NpUWNPPfcyIY3CA==" />
+		<POI MapID="25" xpos="-244.48" ypos="28.1877" zpos="-451.621" type="story_journal.season_4.war_eternal.riding_skyscales.skyscale_flight.rift" GUID="GG5VCFzbQESjGfLfcQzh7A==" />
 		<!-- Frostgorge Sound -->
-		<Trail type="story_journal.season_4.war_eternal.riding_skyscales.skyscale_flight.rift" GUID="vXR727kqkkalTJ3GaQh77A==" trailData="Data/StoryJournal/Season4/WarEternal/SkyscaleFlight_17.trl" texture="Data/Arrow.png" color="ffc570ff" alpha="1" fadeNear="3000" fadeFar="3500" animSpeed="1" mapDisplaySize="15"/>
-		<POI MapID="30"   xpos="54.9666"  ypos="59.4744" zpos="-204.739" type="story_journal.season_4.war_eternal.riding_skyscales.skyscale_flight"      GUID="uCI4Rp3cq0K+MllAEtto+Q=="/>
-		<POI MapID="30"   xpos="22.9037"  ypos="31.7199" zpos="-72.7505" type="story_journal.season_4.war_eternal.riding_skyscales.skyscale_flight.rift" GUID="h8GeFgKOPUSU51m7lIOYWQ=="/>
+		<Trail type="story_journal.season_4.war_eternal.riding_skyscales.skyscale_flight.rift" GUID="vXR727kqkkalTJ3GaQh77A==" trailData="Data/StoryJournal/Season4/WarEternal/SkyscaleFlight_17.trl" texture="Data/Arrow.png" color="ffc570ff" alpha="1" fadeNear="3000" fadeFar="3500" animSpeed="1" mapDisplaySize="15" />
+		<POI MapID="30" xpos="54.9666" ypos="59.4744" zpos="-204.739" type="story_journal.season_4.war_eternal.riding_skyscales.skyscale_flight" GUID="uCI4Rp3cq0K+MllAEtto+Q==" />
+		<POI MapID="30" xpos="22.9037" ypos="31.7199" zpos="-72.7505" type="story_journal.season_4.war_eternal.riding_skyscales.skyscale_flight.rift" GUID="h8GeFgKOPUSU51m7lIOYWQ==" />
 		<!-- Dredgehaunt Cliffs -->
-		<Trail type="story_journal.season_4.war_eternal.riding_skyscales.skyscale_flight.rift" GUID="Jy8e2t7tlkyMf0FbMJRYkg==" trailData="Data/StoryJournal/Season4/WarEternal/SkyscaleFlight_18.trl" texture="Data/Arrow.png" color="ffc570ff" alpha="1" fadeNear="3000" fadeFar="3500" animSpeed="1" mapDisplaySize="15"/>
-		<POI MapID="26"   xpos="-450.336" ypos="71.9667" zpos="476.141"  type="story_journal.season_4.war_eternal.riding_skyscales.skyscale_flight"      GUID="XvlN5J0wO0CbJbCQERQ4WA=="/>
-		<POI MapID="26"   xpos="-600.038" ypos="53.1594" zpos="613.245"  type="story_journal.season_4.war_eternal.riding_skyscales.skyscale_flight.rift" GUID="bR86y3S9UUyrsRpmzQs2uA=="/>
+		<Trail type="story_journal.season_4.war_eternal.riding_skyscales.skyscale_flight.rift" GUID="Jy8e2t7tlkyMf0FbMJRYkg==" trailData="Data/StoryJournal/Season4/WarEternal/SkyscaleFlight_18.trl" texture="Data/Arrow.png" color="ffc570ff" alpha="1" fadeNear="3000" fadeFar="3500" animSpeed="1" mapDisplaySize="15" />
+		<POI MapID="26" xpos="-450.336" ypos="71.9667" zpos="476.141" type="story_journal.season_4.war_eternal.riding_skyscales.skyscale_flight" GUID="XvlN5J0wO0CbJbCQERQ4WA==" />
+		<POI MapID="26" xpos="-600.038" ypos="53.1594" zpos="613.245" type="story_journal.season_4.war_eternal.riding_skyscales.skyscale_flight.rift" GUID="bR86y3S9UUyrsRpmzQs2uA==" />
 		<!-- Lornar's Pass -->
-		<Trail type="story_journal.season_4.war_eternal.riding_skyscales.skyscale_flight.rift" GUID="14XBE64wTk+SRLjYAowCMg==" trailData="Data/StoryJournal/Season4/WarEternal/SkyscaleFlight_19.trl" texture="Data/Arrow.png" color="ffc570ff" alpha="1" fadeNear="3000" fadeFar="3500" animSpeed="1" mapDisplaySize="15"/>
-		<POI MapID="27"   xpos="381.023"  ypos="166.075" zpos="644.28"   type="story_journal.season_4.war_eternal.riding_skyscales.skyscale_flight"      GUID="GjcjM0NZY0KgYczixgIyWg=="/>
-		<POI MapID="27"   xpos="359.832"  ypos="126.971" zpos="617.295"  type="story_journal.season_4.war_eternal.riding_skyscales.skyscale_flight.rift" GUID="nlWrtwIT/0KIKd0Y/2NKMw=="/>
+		<Trail type="story_journal.season_4.war_eternal.riding_skyscales.skyscale_flight.rift" GUID="14XBE64wTk+SRLjYAowCMg==" trailData="Data/StoryJournal/Season4/WarEternal/SkyscaleFlight_19.trl" texture="Data/Arrow.png" color="ffc570ff" alpha="1" fadeNear="3000" fadeFar="3500" animSpeed="1" mapDisplaySize="15" />
+		<POI MapID="27" xpos="381.023" ypos="166.075" zpos="644.28" type="story_journal.season_4.war_eternal.riding_skyscales.skyscale_flight" GUID="GjcjM0NZY0KgYczixgIyWg==" />
+		<POI MapID="27" xpos="359.832" ypos="126.971" zpos="617.295" type="story_journal.season_4.war_eternal.riding_skyscales.skyscale_flight.rift" GUID="nlWrtwIT/0KIKd0Y/2NKMw==" />
 		<!-- Timberline Falls -->
-		<Trail type="story_journal.season_4.war_eternal.riding_skyscales.skyscale_flight.rift" GUID="hie4dl63vES21TJtZUC5Cg==" trailData="Data/StoryJournal/Season4/WarEternal/SkyscaleFlight_20.trl" texture="Data/Arrow.png" color="ffc570ff" alpha="1" fadeNear="3000" fadeFar="3500" animSpeed="1" mapDisplaySize="15"/>
-		<POI MapID="29"   xpos="180.545"  ypos="47.3699" zpos="824.715"  type="story_journal.season_4.war_eternal.riding_skyscales.skyscale_flight"      GUID="oUJNsGJHFUqz+vQNUIHbTQ=="/>
-		<POI MapID="29"   xpos="205.786"  ypos="61.1727" zpos="880.742"  type="story_journal.season_4.war_eternal.riding_skyscales.skyscale_flight.rift" GUID="iPgbqfRGhk69flD1CNTzyw=="/>
+		<Trail type="story_journal.season_4.war_eternal.riding_skyscales.skyscale_flight.rift" GUID="hie4dl63vES21TJtZUC5Cg==" trailData="Data/StoryJournal/Season4/WarEternal/SkyscaleFlight_20.trl" texture="Data/Arrow.png" color="ffc570ff" alpha="1" fadeNear="3000" fadeFar="3500" animSpeed="1" mapDisplaySize="15" />
+		<POI MapID="29" xpos="180.545" ypos="47.3699" zpos="824.715" type="story_journal.season_4.war_eternal.riding_skyscales.skyscale_flight" GUID="oUJNsGJHFUqz+vQNUIHbTQ==" />
+		<POI MapID="29" xpos="205.786" ypos="61.1727" zpos="880.742" type="story_journal.season_4.war_eternal.riding_skyscales.skyscale_flight.rift" GUID="iPgbqfRGhk69flD1CNTzyw==" />
 		<!-- Sparkfly Fen -->
-		<Trail type="story_journal.season_4.war_eternal.riding_skyscales.skyscale_flight.rift" GUID="ynDj1+WLuE2OOmWcoAoOpA==" trailData="Data/StoryJournal/Season4/WarEternal/SkyscaleFlight_21.trl" texture="Data/Arrow.png" color="ffc570ff" alpha="1" fadeNear="3000" fadeFar="3500" animSpeed="1" mapDisplaySize="15"/>
-		<POI MapID="53"   xpos="-483.646" ypos="33.1985" zpos="45.1642"  type="story_journal.season_4.war_eternal.riding_skyscales.skyscale_flight"      GUID="t47GpGywr0+ylb2NGO++9Q=="/>
-		<POI MapID="53"   xpos="-561.091" ypos="14.263"  zpos="-9.60157" type="story_journal.season_4.war_eternal.riding_skyscales.skyscale_flight.rift" GUID="qbLkw1cERkmpmVBQxEO7qQ=="/>
+		<Trail type="story_journal.season_4.war_eternal.riding_skyscales.skyscale_flight.rift" GUID="ynDj1+WLuE2OOmWcoAoOpA==" trailData="Data/StoryJournal/Season4/WarEternal/SkyscaleFlight_21.trl" texture="Data/Arrow.png" color="ffc570ff" alpha="1" fadeNear="3000" fadeFar="3500" animSpeed="1" mapDisplaySize="15" />
+		<POI MapID="53" xpos="-483.646" ypos="33.1985" zpos="45.1642" type="story_journal.season_4.war_eternal.riding_skyscales.skyscale_flight" GUID="t47GpGywr0+ylb2NGO++9Q==" />
+		<POI MapID="53" xpos="-561.091" ypos="14.263" zpos="-9.60157" type="story_journal.season_4.war_eternal.riding_skyscales.skyscale_flight.rift" GUID="qbLkw1cERkmpmVBQxEO7qQ==" />
 		<!-- Mount Maelstrom -->
-		<Trail type="story_journal.season_4.war_eternal.riding_skyscales.skyscale_flight.rift" GUID="ptyIAZ7aekS9O9eS8vJxHw==" trailData="Data/StoryJournal/Season4/WarEternal/SkyscaleFlight_22.trl" texture="Data/Arrow.png" color="ffc570ff" alpha="1" fadeNear="3000" fadeFar="3500" animSpeed="1" mapDisplaySize="15"/>
-		<POI MapID="39"   xpos="405.046"  ypos="35.0227" zpos="-284.324" type="story_journal.season_4.war_eternal.riding_skyscales.skyscale_flight"      GUID="fl3MAVl61Uqy5LFqUK9CFA=="/>
-		<POI MapID="39"   xpos="458.244"  ypos="29.7441" zpos="-375.121" type="story_journal.season_4.war_eternal.riding_skyscales.skyscale_flight.rift" GUID="EQ7voEiHeEyv57J8Ss8qLQ=="/>
+		<Trail type="story_journal.season_4.war_eternal.riding_skyscales.skyscale_flight.rift" GUID="ptyIAZ7aekS9O9eS8vJxHw==" trailData="Data/StoryJournal/Season4/WarEternal/SkyscaleFlight_22.trl" texture="Data/Arrow.png" color="ffc570ff" alpha="1" fadeNear="3000" fadeFar="3500" animSpeed="1" mapDisplaySize="15" />
+		<POI MapID="39" xpos="405.046" ypos="35.0227" zpos="-284.324" type="story_journal.season_4.war_eternal.riding_skyscales.skyscale_flight" GUID="fl3MAVl61Uqy5LFqUK9CFA==" />
+		<POI MapID="39" xpos="458.244" ypos="29.7441" zpos="-375.121" type="story_journal.season_4.war_eternal.riding_skyscales.skyscale_flight.rift" GUID="EQ7voEiHeEyv57J8Ss8qLQ==" />
 		<!-- Bloodtide Coast -->
-		<Trail type="story_journal.season_4.war_eternal.riding_skyscales.skyscale_flight.rift" GUID="kgPa0KECckelRTFXwCFyYQ==" trailData="Data/StoryJournal/Season4/WarEternal/SkyscaleFlight_23.trl" texture="Data/Arrow.png" color="ffc570ff" alpha="1" fadeNear="3000" fadeFar="3500" animSpeed="1" mapDisplaySize="15"/>
-		<POI MapID="73"   xpos="70.5582"  ypos="98.6246" zpos="547.278"  type="story_journal.season_4.war_eternal.riding_skyscales.skyscale_flight"      GUID="45mZTnIL8k+rgVIonx3vKg=="/>
-		<POI MapID="73"   xpos="-2.42666" ypos="20.4082" zpos="776.264"  type="story_journal.season_4.war_eternal.riding_skyscales.skyscale_flight.rift" GUID="uG6l6EavLUGEanayocpLRw=="/>
+		<Trail type="story_journal.season_4.war_eternal.riding_skyscales.skyscale_flight.rift" GUID="kgPa0KECckelRTFXwCFyYQ==" trailData="Data/StoryJournal/Season4/WarEternal/SkyscaleFlight_23.trl" texture="Data/Arrow.png" color="ffc570ff" alpha="1" fadeNear="3000" fadeFar="3500" animSpeed="1" mapDisplaySize="15" />
+		<POI MapID="73" xpos="70.5582" ypos="98.6246" zpos="547.278" type="story_journal.season_4.war_eternal.riding_skyscales.skyscale_flight" GUID="45mZTnIL8k+rgVIonx3vKg==" />
+		<POI MapID="73" xpos="-2.42666" ypos="20.4082" zpos="776.264" type="story_journal.season_4.war_eternal.riding_skyscales.skyscale_flight.rift" GUID="uG6l6EavLUGEanayocpLRw==" />
 		<!-- Harathi Hinterlands -->
-		<Trail type="story_journal.season_4.war_eternal.riding_skyscales.skyscale_flight.rift" GUID="bSStOpt1DkeOEBg/WW25EQ==" trailData="Data/StoryJournal/Season4/WarEternal/SkyscaleFlight_24.trl" texture="Data/Arrow.png" color="ffc570ff" alpha="1" fadeNear="3000" fadeFar="3500" animSpeed="1" mapDisplaySize="15"/>
-		<POI MapID="17"   xpos="-508.745" ypos="69.3857" zpos="-93.5657" type="story_journal.season_4.war_eternal.riding_skyscales.skyscale_flight"      GUID="yI489HF3xkOhhCGkvU+FHA=="/>
-		<POI MapID="17"   xpos="-474.02"  ypos="48.3643" zpos="-95.0153" type="story_journal.season_4.war_eternal.riding_skyscales.skyscale_flight.rift" GUID="5c0Z0cCa7kqwhFC36qkm0A=="/>
+		<Trail type="story_journal.season_4.war_eternal.riding_skyscales.skyscale_flight.rift" GUID="bSStOpt1DkeOEBg/WW25EQ==" trailData="Data/StoryJournal/Season4/WarEternal/SkyscaleFlight_24.trl" texture="Data/Arrow.png" color="ffc570ff" alpha="1" fadeNear="3000" fadeFar="3500" animSpeed="1" mapDisplaySize="15" />
+		<POI MapID="17" xpos="-508.745" ypos="69.3857" zpos="-93.5657" type="story_journal.season_4.war_eternal.riding_skyscales.skyscale_flight" GUID="yI489HF3xkOhhCGkvU+FHA==" />
+		<POI MapID="17" xpos="-474.02" ypos="48.3643" zpos="-95.0153" type="story_journal.season_4.war_eternal.riding_skyscales.skyscale_flight.rift" GUID="5c0Z0cCa7kqwhFC36qkm0A==" />
 		<!-- Desert Highlands -->
-		<Trail type="story_journal.season_4.war_eternal.riding_skyscales.skyscale_flight.rift" GUID="mj+2vruVTUCNAACnazSGuA==" trailData="Data/StoryJournal/Season4/WarEternal/SkyscaleFlight_25.trl" texture="Data/Arrow.png" color="ffc570ff" alpha="1" fadeNear="3000" fadeFar="3500" animSpeed="1" mapDisplaySize="15"/>
-		<POI MapID="1211" xpos="-379.367" ypos="274.274" zpos="449.907"  type="story_journal.season_4.war_eternal.riding_skyscales.skyscale_flight"      GUID="vMJIivXedk2MespqVXefiQ=="/>
-		<POI MapID="1211" xpos="-269.41"  ypos="268.785" zpos="415.527"  type="story_journal.season_4.war_eternal.riding_skyscales.skyscale_flight.rift" GUID="PYEqHWswl0iFqrRonkGJIw=="/>
+		<Trail type="story_journal.season_4.war_eternal.riding_skyscales.skyscale_flight.rift" GUID="mj+2vruVTUCNAACnazSGuA==" trailData="Data/StoryJournal/Season4/WarEternal/SkyscaleFlight_25.trl" texture="Data/Arrow.png" color="ffc570ff" alpha="1" fadeNear="3000" fadeFar="3500" animSpeed="1" mapDisplaySize="15" />
+		<POI MapID="1211" xpos="-379.367" ypos="274.274" zpos="449.907" type="story_journal.season_4.war_eternal.riding_skyscales.skyscale_flight" GUID="vMJIivXedk2MespqVXefiQ==" />
+		<POI MapID="1211" xpos="-269.41" ypos="268.785" zpos="415.527" type="story_journal.season_4.war_eternal.riding_skyscales.skyscale_flight.rift" GUID="PYEqHWswl0iFqrRonkGJIw==" />
 		<!-- Straits of Devastation -->
-		<Trail type="story_journal.season_4.war_eternal.riding_skyscales.skyscale_flight.rift" GUID="ZwFDagu7XUCFb2GF4hd3hQ==" trailData="Data/StoryJournal/Season4/WarEternal/SkyscaleFlight_26.trl" texture="Data/Arrow.png" color="ffc570ff" alpha="1" fadeNear="3000" fadeFar="3500" animSpeed="1" mapDisplaySize="15"/>
-		<POI MapID="51"   xpos="581.216"  ypos="38.0993" zpos="304.377"  type="story_journal.season_4.war_eternal.riding_skyscales.skyscale_flight"      GUID="CsumwB20v0yDV/t9gw6X6Q=="/>
-		<POI MapID="51"   xpos="485.046"  ypos="28.5591" zpos="324.547"  type="story_journal.season_4.war_eternal.riding_skyscales.skyscale_flight.rift" GUID="+NRCSx9sjEm5zl/4/x7JWQ=="/>
+		<Trail type="story_journal.season_4.war_eternal.riding_skyscales.skyscale_flight.rift" GUID="ZwFDagu7XUCFb2GF4hd3hQ==" trailData="Data/StoryJournal/Season4/WarEternal/SkyscaleFlight_26.trl" texture="Data/Arrow.png" color="ffc570ff" alpha="1" fadeNear="3000" fadeFar="3500" animSpeed="1" mapDisplaySize="15" />
+		<POI MapID="51" xpos="581.216" ypos="38.0993" zpos="304.377" type="story_journal.season_4.war_eternal.riding_skyscales.skyscale_flight" GUID="CsumwB20v0yDV/t9gw6X6Q==" />
+		<POI MapID="51" xpos="485.046" ypos="28.5591" zpos="324.547" type="story_journal.season_4.war_eternal.riding_skyscales.skyscale_flight.rift" GUID="+NRCSx9sjEm5zl/4/x7JWQ==" />
 		<!-- Cursed Shore -->
-		<Trail type="story_journal.season_4.war_eternal.riding_skyscales.skyscale_flight.rift" GUID="qOhShUk1Pku011hgSg3NEw==" trailData="Data/StoryJournal/Season4/WarEternal/SkyscaleFlight_27.trl" texture="Data/Arrow.png" color="ffc570ff" alpha="1" fadeNear="3000" fadeFar="3500" animSpeed="1" mapDisplaySize="15"/>
-		<POI MapID="62"   xpos="-207.884" ypos="24.7091" zpos="474.58"   type="story_journal.season_4.war_eternal.riding_skyscales.skyscale_flight"      GUID="uPGDxE31dk6vkOqClBuj4g=="/>
-		<POI MapID="62"   xpos="-198.292" ypos="23.679"  zpos="427.236"  type="story_journal.season_4.war_eternal.riding_skyscales.skyscale_flight.rift" GUID="hSjGO4l0nEybNHD5dHz+7w=="/>
+		<Trail type="story_journal.season_4.war_eternal.riding_skyscales.skyscale_flight.rift" GUID="qOhShUk1Pku011hgSg3NEw==" trailData="Data/StoryJournal/Season4/WarEternal/SkyscaleFlight_27.trl" texture="Data/Arrow.png" color="ffc570ff" alpha="1" fadeNear="3000" fadeFar="3500" animSpeed="1" mapDisplaySize="15" />
+		<POI MapID="62" xpos="-207.884" ypos="24.7091" zpos="474.58" type="story_journal.season_4.war_eternal.riding_skyscales.skyscale_flight" GUID="uPGDxE31dk6vkOqClBuj4g==" />
+		<POI MapID="62" xpos="-198.292" ypos="23.679" zpos="427.236" type="story_journal.season_4.war_eternal.riding_skyscales.skyscale_flight.rift" GUID="hSjGO4l0nEybNHD5dHz+7w==" />
 		<!-- Malchor's Leap -->
-		<Trail type="story_journal.season_4.war_eternal.riding_skyscales.skyscale_flight.rift" GUID="hkWF1jpP1UumFrbcWUbhmg==" trailData="Data/StoryJournal/Season4/WarEternal/SkyscaleFlight_28.trl" texture="Data/Arrow.png" color="ffc570ff" alpha="1" fadeNear="3000" fadeFar="3500" animSpeed="1" mapDisplaySize="15"/>
-		<POI MapID="65"   xpos="794.398"  ypos="60.9044" zpos="-143.267" type="story_journal.season_4.war_eternal.riding_skyscales.skyscale_flight"      GUID="hSjtQtc4h0GssNYGEeC1Ow=="/>
-		<POI MapID="65"   xpos="785.09"   ypos="74.4828" zpos="-194.782" type="story_journal.season_4.war_eternal.riding_skyscales.skyscale_flight.rift" GUID="RUkzzeP1jUOcybP3U4kuoA=="/>
-
+		<Trail type="story_journal.season_4.war_eternal.riding_skyscales.skyscale_flight.rift" GUID="hkWF1jpP1UumFrbcWUbhmg==" trailData="Data/StoryJournal/Season4/WarEternal/SkyscaleFlight_28.trl" texture="Data/Arrow.png" color="ffc570ff" alpha="1" fadeNear="3000" fadeFar="3500" animSpeed="1" mapDisplaySize="15" />
+		<POI MapID="65" xpos="794.398" ypos="60.9044" zpos="-143.267" type="story_journal.season_4.war_eternal.riding_skyscales.skyscale_flight" GUID="hSjtQtc4h0GssNYGEeC1Ow==" />
+		<POI MapID="65" xpos="785.09" ypos="74.4828" zpos="-194.782" type="story_journal.season_4.war_eternal.riding_skyscales.skyscale_flight.rift" GUID="RUkzzeP1jUOcybP3U4kuoA==" />
 	</POIs>
 </OverlayData>

@@ -1,35 +1,31 @@
 <!-- 2020.06.25 -->
 <OverlayData>
 	<POIs>
-
 		<!-- BUTTERFLIES AND VISCERA -->
-		<POI MapID="999" xpos="-674.09"  ypos="81.8249" zpos="527.194" type="story_journal.season_2.entanglement.butterflies_and_viscera" GUID="jsqGS01Znk6GaM3mnJyTgg==" iconFile="Img/Icons/Fight.png"/>
-		<POI MapID="999" xpos="-650.578" ypos="81.8738" zpos="488.023" type="story_journal.season_2.entanglement.butterflies_and_viscera" GUID="5yVSsIkShE2ghBvRer+GgQ==" iconFile="Img/Icons/Fight.png"/>
-		<POI MapID="999" xpos="-680.091" ypos="76.9442" zpos="452.371" type="story_journal.season_2.entanglement.butterflies_and_viscera" GUID="ib4gWyLsbUGo85jCY8+SoQ==" iconFile="Img/Icons/Fight.png"/>
-		<POI MapID="999" xpos="-746.503" ypos="89.8164" zpos="482.456" type="story_journal.season_2.entanglement.butterflies_and_viscera" GUID="rNuX5y5ZsEW20j2/jWsFEw==" iconFile="Img/Icons/Fight.png"/>
-
+		<POI MapID="999" xpos="-674.09" ypos="81.8249" zpos="527.194" type="story_journal.season_2.entanglement.butterflies_and_viscera" GUID="jsqGS01Znk6GaM3mnJyTgg==" iconFile="Img/Icons/Fight.png" />
+		<POI MapID="999" xpos="-650.578" ypos="81.8738" zpos="488.023" type="story_journal.season_2.entanglement.butterflies_and_viscera" GUID="5yVSsIkShE2ghBvRer+GgQ==" iconFile="Img/Icons/Fight.png" />
+		<POI MapID="999" xpos="-680.091" ypos="76.9442" zpos="452.371" type="story_journal.season_2.entanglement.butterflies_and_viscera" GUID="ib4gWyLsbUGo85jCY8+SoQ==" iconFile="Img/Icons/Fight.png" />
+		<POI MapID="999" xpos="-746.503" ypos="89.8164" zpos="482.456" type="story_journal.season_2.entanglement.butterflies_and_viscera" GUID="rNuX5y5ZsEW20j2/jWsFEw==" iconFile="Img/Icons/Fight.png" />
 		<!-- ON SWIFT WINGS -->
-		<Trail type="story_journal.season_2.entanglement.on_swift_wings" GUID="AxAig7dtm0aVsdhPwUhRBg==" trailData="Data/StoryJournal/Season2/Entanglement/OnSwiftWings.trl" texture="Data/Arrow.png" color="ff00dd00" alpha="0.8" fadeNear="1500" fadeFar="2500" animSpeed="1" mapDisplaySize="15"/>
-		<POI MapID="994" xpos="-518.378" ypos="14.9178"   zpos="-73.4255" type="story_journal.season_2.entanglement.on_swift_wings" GUID="3MD1Q2Uhe0Wz5zMn8vKpag==" heightOffset="0" infoRange="5" info="-- ON SWIFT WINGS --
+		<Trail type="story_journal.season_2.entanglement.on_swift_wings" GUID="AxAig7dtm0aVsdhPwUhRBg==" trailData="Data/StoryJournal/Season2/Entanglement/OnSwiftWings.trl" texture="Data/Arrow.png" color="ff00dd00" alpha="0.8" fadeNear="1500" fadeFar="2500" animSpeed="1" mapDisplaySize="15" />
+		<POI MapID="994" xpos="-518.378" ypos="14.9178" zpos="-73.4255" type="story_journal.season_2.entanglement.on_swift_wings" GUID="3MD1Q2Uhe0Wz5zMn8vKpag==" heightOffset="0" infoRange="5" info="-- ON SWIFT WINGS --
 Go directly talk to NPC without fighting after start escort
-This number and path is only valide for 1 player !"/>
-		<POI MapID="994" xpos="-455.378" ypos="9.27507"   zpos="-88.4874" type="story_journal.season_2.entanglement.on_swift_wings" GUID="I0OZRy3mc0G5UchaHRSouA==" iconFile="Img/Numbers/1.png"/>
-		<POI MapID="994" xpos="-445.365" ypos="18.56"     zpos="-89.6994" type="story_journal.season_2.entanglement.on_swift_wings" GUID="Nu3diDvJXEyVlcvosrDN+w==" iconFile="Img/Numbers/2.png"/>
-		<POI MapID="994" xpos="-444.748" ypos="10.8001"   zpos="-101.287" type="story_journal.season_2.entanglement.on_swift_wings" GUID="pgb1CrxCCUCOClkkhD3FmA==" iconFile="Img/Numbers/3.png"/>
-		<POI MapID="994" xpos="-489.469" ypos="24.1821"   zpos="-178.657" type="story_journal.season_2.entanglement.on_swift_wings" GUID="3U0boZGrEUW1fiu+Do5Ktg==" iconFile="Img/Numbers/4.png"/>
-		<POI MapID="994" xpos="-488.032" ypos="24.1096"   zpos="-182.344" type="story_journal.season_2.entanglement.on_swift_wings" GUID="7sHec4nsgEG0CG8QEfe1yQ==" iconFile="Img/Numbers/5.png"/>
-		<POI MapID="994" xpos="-422.801" ypos="-0.677934" zpos="-145.808" type="story_journal.season_2.entanglement.on_swift_wings" GUID="fSMbY4YOn0mXjrLVceEwtQ==" iconFile="Img/Numbers/6.png"/>
-		<POI MapID="994" xpos="-397.219" ypos="-0.650246" zpos="-36.4442" type="story_journal.season_2.entanglement.on_swift_wings" GUID="IzBKRb8gb0Kuuf2hK3ktKA==" iconFile="Img/Numbers/7.png"/>
-
+This number and path is only valide for 1 player !" />
+		<POI MapID="994" xpos="-455.378" ypos="9.27507" zpos="-88.4874" type="story_journal.season_2.entanglement.on_swift_wings" GUID="I0OZRy3mc0G5UchaHRSouA==" iconFile="Img/Numbers/1.png" />
+		<POI MapID="994" xpos="-445.365" ypos="18.56" zpos="-89.6994" type="story_journal.season_2.entanglement.on_swift_wings" GUID="Nu3diDvJXEyVlcvosrDN+w==" iconFile="Img/Numbers/2.png" />
+		<POI MapID="994" xpos="-444.748" ypos="10.8001" zpos="-101.287" type="story_journal.season_2.entanglement.on_swift_wings" GUID="pgb1CrxCCUCOClkkhD3FmA==" iconFile="Img/Numbers/3.png" />
+		<POI MapID="994" xpos="-489.469" ypos="24.1821" zpos="-178.657" type="story_journal.season_2.entanglement.on_swift_wings" GUID="3U0boZGrEUW1fiu+Do5Ktg==" iconFile="Img/Numbers/4.png" />
+		<POI MapID="994" xpos="-488.032" ypos="24.1096" zpos="-182.344" type="story_journal.season_2.entanglement.on_swift_wings" GUID="7sHec4nsgEG0CG8QEfe1yQ==" iconFile="Img/Numbers/5.png" />
+		<POI MapID="994" xpos="-422.801" ypos="-0.677934" zpos="-145.808" type="story_journal.season_2.entanglement.on_swift_wings" GUID="fSMbY4YOn0mXjrLVceEwtQ==" iconFile="Img/Numbers/6.png" />
+		<POI MapID="994" xpos="-397.219" ypos="-0.650246" zpos="-36.4442" type="story_journal.season_2.entanglement.on_swift_wings" GUID="IzBKRb8gb0Kuuf2hK3ktKA==" iconFile="Img/Numbers/7.png" />
 		<!-- TIMELY ARRIVAL -->
-		<Trail type="story_journal.season_2.entanglement.timely_arrival" GUID="YT8Ca5FGgEKLd9gLSR4rPg==" trailData="Data/StoryJournal/Season2/Entanglement/TimelyArrival.trl" texture="Data/Arrow.png" color="ff00dd00" alpha="0.8" fadeNear="1500" fadeFar="2500" animSpeed="1" mapDisplaySize="15"/>
+		<Trail type="story_journal.season_2.entanglement.timely_arrival" GUID="YT8Ca5FGgEKLd9gLSR4rPg==" trailData="Data/StoryJournal/Season2/Entanglement/TimelyArrival.trl" texture="Data/Arrow.png" color="ff00dd00" alpha="0.8" fadeNear="1500" fadeFar="2500" animSpeed="1" mapDisplaySize="15" />
 		<Route MapID="999" Name="TimelyArrival" resetposx="-967.533" resetposy="86.3064" resetposz="421.762" resetrange="0.5">
-			<POI MapID="999" xpos="-967.533" ypos="86.3064" zpos="421.762" type="story_journal.season_2.entanglement.timely_arrival" GUID="RAJSGvSh1U2Z/cLSK/Rwqw==" heightOffset="0"/>
-			<POI MapID="999" xpos="-945.313" ypos="92.4045" zpos="443.652" type="story_journal.season_2.entanglement.timely_arrival" GUID="/tn+n3xKjEm5oPOflHXL3Q==" iconFile="Img/Icons/Run.png"       mapVisibility="0" miniMapVisibility="0" heightOffset="0.5" triggerRange="5"/>
-			<POI MapID="999" xpos="-883.696" ypos="94.0858" zpos="493.35"  type="story_journal.season_2.entanglement.timely_arrival" GUID="EG7eXVZHn0G/0nsVcxiIjQ==" iconFile="Img/Icons/Fight.png"     mapVisibility="0" miniMapVisibility="0" triggerRange="15"/>
-			<POI MapID="999" xpos="-942.768" ypos="87.1266" zpos="516.534" type="story_journal.season_2.entanglement.timely_arrival" GUID="oYApLiJ67E2Nv2jp0TeRTA==" iconFile="Img/Icons/Reanimate.png" mapVisibility="0" miniMapVisibility="0"/>
-			<POI MapID="999" xpos="-882.455" ypos="94.1956" zpos="495.995" type="story_journal.season_2.entanglement.timely_arrival" GUID="0R6DnooXI0OhUw8fNz/rkQ=="                                    mapVisibility="0" miniMapVisibility="0" heightOffset="0"/>
+			<POI MapID="999" xpos="-967.533" ypos="86.3064" zpos="421.762" type="story_journal.season_2.entanglement.timely_arrival" GUID="RAJSGvSh1U2Z/cLSK/Rwqw==" heightOffset="0" />
+			<POI MapID="999" xpos="-945.313" ypos="92.4045" zpos="443.652" type="story_journal.season_2.entanglement.timely_arrival" GUID="/tn+n3xKjEm5oPOflHXL3Q==" iconFile="Img/Icons/Run.png" mapVisibility="0" miniMapVisibility="0" heightOffset="0.5" triggerRange="5" />
+			<POI MapID="999" xpos="-883.696" ypos="94.0858" zpos="493.35" type="story_journal.season_2.entanglement.timely_arrival" GUID="EG7eXVZHn0G/0nsVcxiIjQ==" iconFile="Img/Icons/Fight.png" mapVisibility="0" miniMapVisibility="0" triggerRange="15" />
+			<POI MapID="999" xpos="-942.768" ypos="87.1266" zpos="516.534" type="story_journal.season_2.entanglement.timely_arrival" GUID="oYApLiJ67E2Nv2jp0TeRTA==" iconFile="Img/Icons/Reanimate.png" mapVisibility="0" miniMapVisibility="0" />
+			<POI MapID="999" xpos="-882.455" ypos="94.1956" zpos="495.995" type="story_journal.season_2.entanglement.timely_arrival" GUID="0R6DnooXI0OhUw8fNz/rkQ==" mapVisibility="0" miniMapVisibility="0" heightOffset="0" />
 		</Route>
-
 	</POIs>
 </OverlayData>

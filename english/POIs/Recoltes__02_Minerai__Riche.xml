@@ -7,399 +7,315 @@ Date: 2017/09/25
 	<MarkerCategory name="recoltes" DisplayName="Harvest" fadeNear="10000" fadeFar="20000" behavior="6">
 		<MarkerCategory name="minerai" DisplayName="Ore" iconFile="Img\Minerai.png">
 			<MarkerCategory name="riche" DisplayName="Rich" iconFile="Img\MineraiRiche.png">
-				<MarkerCategory name="cuivre" DisplayName="Copper" iconFile="Img\MineraiCuivreRiche.png"/>
-				<MarkerCategory name="fer" DisplayName="Iron" iconFile="Img\MineraiFerRiche.png"/>
-				<MarkerCategory name="argent" DisplayName="Silver" iconFile="Img\MineraiArgentRiche.png"/>
-				<MarkerCategory name="or" DisplayName="Gold" iconFile="Img\MineraiOrRiche.png"/>
-				<MarkerCategory name="platine" DisplayName="Platinum" iconFile="Img\MineraiPlatineRiche.png"/>
-				<MarkerCategory name="mithril" DisplayName="Mithril" iconFile="Img\MineraiMithrilRiche.png"/>
-				<MarkerCategory name="orichalque" DisplayName="Orichalcum" iconFile="Img\MineraiOrichalqueRiche.png"/>
-				<MarkerCategory name="cristaux_de_quartz" DisplayName="Quartz Crystal" iconFile="Img\CristalQuartzRiche.png"/>
-				<MarkerCategory name="bonbons_geants" DisplayName="Candy Corn" iconFile="Img\BonbonBrutGeant.png"/>
+				<MarkerCategory name="cuivre" DisplayName="Copper" iconFile="Img\MineraiCuivreRiche.png" />
+				<MarkerCategory name="fer" DisplayName="Iron" iconFile="Img\MineraiFerRiche.png" />
+				<MarkerCategory name="argent" DisplayName="Silver" iconFile="Img\MineraiArgentRiche.png" />
+				<MarkerCategory name="or" DisplayName="Gold" iconFile="Img\MineraiOrRiche.png" />
+				<MarkerCategory name="platine" DisplayName="Platinum" iconFile="Img\MineraiPlatineRiche.png" />
+				<MarkerCategory name="mithril" DisplayName="Mithril" iconFile="Img\MineraiMithrilRiche.png" />
+				<MarkerCategory name="orichalque" DisplayName="Orichalcum" iconFile="Img\MineraiOrichalqueRiche.png" />
+				<MarkerCategory name="cristaux_de_quartz" DisplayName="Quartz Crystal" iconFile="Img\CristalQuartzRiche.png" />
+				<MarkerCategory name="bonbons_geants" DisplayName="Candy Corn" iconFile="Img\BonbonBrutGeant.png" />
 			</MarkerCategory>
 		</MarkerCategory>
 	</MarkerCategory>
-
 	<POIs>
-
-		<!--
-		Cuivre Riche
-		-->
-
-		<POI MapID="15" xpos="-953.789" ypos="19.4157" zpos="-582.04" type="recoltes.minerai.riche.cuivre" GUID="MKrvAMJY1E+HZ9xz01bycQ=="/>
-		<POI MapID="15" xpos="-873.518" ypos="-24.9904" zpos="-567.045" type="recoltes.minerai.riche.cuivre" GUID="qlXbk+AJ5k+NmX/JUQmJmA=="/>
-		<POI MapID="15" xpos="-797.776" ypos="2.70211" zpos="-600.641" type="recoltes.minerai.riche.cuivre" GUID="L0eh5cMvME2Y57z9axEJpg=="/>
-		<POI MapID="15" xpos="-627.341" ypos="32.2284" zpos="-384.88" type="recoltes.minerai.riche.cuivre" GUID="Mbs6FtSX0UWow79r7+LBnQ=="/>
-		<POI MapID="15" xpos="-151.482" ypos="27.4404" zpos="-351.058" type="recoltes.minerai.riche.cuivre" GUID="CVCVe66y90Skt5PTWafwOg=="/>
-		<POI MapID="15" xpos="70.586" ypos="24.6428" zpos="-106.618" type="recoltes.minerai.riche.cuivre" GUID="4MMyxhgF7k6BC6GHzEN0kg=="/>
-		<POI MapID="15" xpos="342.756" ypos="-2.98691" zpos="720.13" type="recoltes.minerai.riche.cuivre" GUID="2uy3NVhgpUGfoAQ/h/5kjg=="/>
-		<POI MapID="15" xpos="630.534" ypos="1.86132" zpos="-378.363" type="recoltes.minerai.riche.cuivre" GUID="/944D49jFUyIzmjxK98uPA=="/>
-		<POI MapID="15" xpos="687.874" ypos="60.4291" zpos="-642.499" type="recoltes.minerai.riche.cuivre" GUID="XVpnzA94RkC7HspCuLmG7w=="/>
-
-		<POI MapID="19" xpos="-1076.14" ypos="34.269" zpos="-332.646" type="recoltes.minerai.riche.cuivre" GUID="kL+swIkeIkmbnbZoii9JCw=="/>
-		<POI MapID="19" xpos="-831.513" ypos="59.0054" zpos="-471.432" type="recoltes.minerai.riche.cuivre" GUID="nlIaUHN54EyZWJQ/9d6B+Q=="/>
-		<POI MapID="19" xpos="-572.353" ypos="26.2187" zpos="-268.253" type="recoltes.minerai.riche.cuivre" GUID="gRAUIACXxUCPCimhxTjT+w=="/>
-		<POI MapID="19" xpos="-484.056" ypos="57.2442" zpos="-394.092" type="recoltes.minerai.riche.cuivre" GUID="MrYbGE65Pk2tjthOvjdX8Q=="/>
-		<POI MapID="19" xpos="-298.267" ypos="3.5073" zpos="-466.979" type="recoltes.minerai.riche.cuivre" GUID="d7yd184R4UidiHCJ4QrbOQ=="/>
-		<POI MapID="19" xpos="140.968" ypos="2.97163" zpos="-6.98778" type="recoltes.minerai.riche.cuivre" GUID="JJXxumIXuk6ouWP/2dwWpg=="/>
-		<POI MapID="19" xpos="251.932" ypos="-15.0769" zpos="-336.054" type="recoltes.minerai.riche.cuivre" GUID="s6Xq0QRArk+aVAH5lbe2hA=="/>
-		<POI MapID="19" xpos="462.041" ypos="37.5345" zpos="577.085" type="recoltes.minerai.riche.cuivre" GUID="TbpkVag96EKt69yuORYLGw=="/>
-		<POI MapID="19" xpos="1029.92" ypos="55.0612" zpos="-587.562" type="recoltes.minerai.riche.cuivre" GUID="IZ9fMiupj060pmnZj15wfw=="/>
-
-		<POI MapID="28" xpos="-236.301" ypos="110.545" zpos="-147.615" type="recoltes.minerai.riche.cuivre" GUID="STEmYMkPw06Seb/9xObDlA=="/>
-
-		<POI MapID="34" xpos="-508.926" ypos="14.6217" zpos="1062.7" type="recoltes.minerai.riche.cuivre" GUID="z3kOibEoOEOOYMUmCMu3OA=="/>
-		<POI MapID="34" xpos="-228.339" ypos="1.63996" zpos="1214.78" type="recoltes.minerai.riche.cuivre" GUID="kmA9BhAT9UOmSElYf8U3xw=="/>
-		<POI MapID="34" xpos="-30.9961" ypos="23.2821" zpos="218.771" type="recoltes.minerai.riche.cuivre" GUID="N+9D3VonWU2Y90rTbrfafQ=="/>
-		<POI MapID="34" xpos="-7.89005" ypos="11.6066" zpos="376.106" type="recoltes.minerai.riche.cuivre" GUID="hMP4ge+az0GGc78XQ4WMmw=="/>
-		<POI MapID="34" xpos="-4.13968" ypos="4.3569" zpos="-230.451" type="recoltes.minerai.riche.cuivre" GUID="MfdlGy9Ud0OWRnUR4fYRTg=="/>
-		<POI MapID="34" xpos="142.993" ypos="6.59523" zpos="37.54" type="recoltes.minerai.riche.cuivre" GUID="cYXLiChTzUOwDYYX+fmc5g=="/>
-		<POI MapID="34" xpos="330.036" ypos="-25.3626" zpos="85.9093" type="recoltes.minerai.riche.cuivre" GUID="hb/cnNNUHEWFxWV+uxDpbQ=="/>
-		<POI MapID="34" xpos="381.564" ypos="3" zpos="1168.63" type="recoltes.minerai.riche.cuivre" GUID="aGor4d4wJkKNI2VSdKF/Ng=="/>
-		<POI MapID="34" xpos="530.033" ypos="12.7725" zpos="1171.37" type="recoltes.minerai.riche.cuivre" GUID="qlHtK02+MkOrodkUG/PzuA=="/>
-
-		<!--
-		Fer Riche
-		-->
-
-		<POI MapID="17" xpos="-869.914" ypos="131.818" zpos="-140.505" type="recoltes.minerai.riche.fer" GUID="QBY4/UU2FUqw22myaypftw=="/>
-		<POI MapID="17" xpos="-115.712" ypos="8.34091" zpos="-330.8" type="recoltes.minerai.riche.fer" GUID="/gvPtQN7102DamgNO5YorQ=="/>
-		<POI MapID="17" xpos="78.3727" ypos="60.0939" zpos="424.43" type="recoltes.minerai.riche.fer" GUID="dy6/sVtBxE26lETLooJFLA=="/>
-		<POI MapID="17" xpos="638.069" ypos="60.6967" zpos="19.7374" type="recoltes.minerai.riche.fer" GUID="E9PD0WsEPkKwPotNtGioIQ=="/>
-		<POI MapID="17" xpos="922.315" ypos="137.955" zpos="483.909" type="recoltes.minerai.riche.fer" GUID="8rYAxbaiCUaS/Wqpc1+yAQ=="/>
-
-		<POI MapID="20" xpos="-385.515" ypos="23.2191" zpos="-192.34" type="recoltes.minerai.riche.fer" GUID="eQ0MrNI27EO41ljPS35CEg=="/>
-		<POI MapID="20" xpos="111.571" ypos="32.5687" zpos="-81.096" type="recoltes.minerai.riche.fer" GUID="7P/iBYvQYUWAFSdQhOjU+g=="/>
-		<POI MapID="20" xpos="426.928" ypos="70.4729" zpos="-712.507" type="recoltes.minerai.riche.fer" GUID="RXYuZ3mORkGZZYQqGm2j8w=="/>
-		<POI MapID="20" xpos="578.926" ypos="9.21015" zpos="-490.874" type="recoltes.minerai.riche.fer" GUID="i0JWAeGE4Ee95y43z1l64Q=="/>
-		<POI MapID="20" xpos="-581.818" ypos="20.9583" zpos="-1055.66" type="recoltes.minerai.riche.fer" GUID="Gy4yf8lOp0mXKC7e4CnW9w=="/>
-
-		<POI MapID="21" xpos="-817.802" ypos="22.7006" zpos="-263.968" type="recoltes.minerai.riche.fer" GUID="v6LigtCarUyLetbvtd4f2g=="/>
-		<POI MapID="21" xpos="-759.73" ypos="44.11" zpos="265.71" type="recoltes.minerai.riche.fer" GUID="ud9O504sQ0e3/AN5ybzblg=="/>
-		<POI MapID="21" xpos="722.627" ypos="52.8014" zpos="-698.951" type="recoltes.minerai.riche.fer" GUID="SJuyEriw/0eWVCsp1y3W9A=="/>
-		<POI MapID="21" xpos="732.911" ypos="30.9211" zpos="262.238" type="recoltes.minerai.riche.fer" GUID="bnQ0wk7uWEi8OwWMEK0X0w=="/>
-		<POI MapID="21" xpos="844.119" ypos="31.2771" zpos="502.543" type="recoltes.minerai.riche.fer" GUID="NARwGC2BtE+BwYR7kqeHgg=="/>
-
-		<POI MapID="23" xpos="-1102.32" ypos="43.3713" zpos="23.9304" type="recoltes.minerai.riche.fer" GUID="vwVDlLQSWkmUsYD3D5+idQ=="/>
-		<POI MapID="23" xpos="761.713" ypos="21.4116" zpos="-289.833" type="recoltes.minerai.riche.fer" GUID="NXPk6A/L80+zNVXOZ6xv0Q=="/>
-		<POI MapID="23" xpos="796.209" ypos="35.3172" zpos="-518.984" type="recoltes.minerai.riche.fer" GUID="YcskRp4AUEaFJ58AONQDRQ=="/>
-
-		<POI MapID="24" xpos="-1206.77" ypos="29.2536" zpos="-435.567" type="recoltes.minerai.riche.fer" GUID="HXeC3y/y2kSiGjD76vYgrg=="/>
-		<POI MapID="24" xpos="-1162.07" ypos="37.8193" zpos="-14.982" type="recoltes.minerai.riche.fer" GUID="MSE06p05/UK9loB5eqv3BA=="/>
-		<POI MapID="24" xpos="133.046" ypos="32.283" zpos="92.9932" type="recoltes.minerai.riche.fer" GUID="zHLKIC71oEWlI24S8zjISQ=="/>
-		<POI MapID="24" xpos="647.502" ypos="1.37476" zpos="-149.639" type="recoltes.minerai.riche.fer" GUID="ZAZtiVyR2Eamb/ZHxwS6uQ=="/>
-		<POI MapID="24" xpos="885.215" ypos="65.1938" zpos="-432.424" type="recoltes.minerai.riche.fer" GUID="hRDV0nu6VU2Ng05TgENgLA=="/>
-
-		<POI MapID="26" xpos="-579.361" ypos="53.4506" zpos="-530.058" type="recoltes.minerai.riche.fer" GUID="ElaiBUi5/E++Fa6SjmDMFg=="/>
-		<POI MapID="26" xpos="-474.946" ypos="15.4618" zpos="-888.782" type="recoltes.minerai.riche.fer" GUID="6ec5equt4kutFq2f3y6eXQ=="/>
-		<POI MapID="26" xpos="-443.992" ypos="75.9215" zpos="859.612" type="recoltes.minerai.riche.fer" GUID="AfNsY1zTdEyhgGbezsvpyg=="/>
-		<POI MapID="26" xpos="-249.897" ypos="65.4925" zpos="607.188" type="recoltes.minerai.riche.fer" GUID="aL6uwxEXcUWONVwM9ChjSQ=="/>
-		<POI MapID="26" xpos="-148.39" ypos="41.0655" zpos="550.149" type="recoltes.minerai.riche.fer" GUID="ZReNmf2Xa0exuTHZdV8s3g=="/>
-		<POI MapID="26" xpos="-131.141" ypos="115.197" zpos="-226.783" type="recoltes.minerai.riche.fer" GUID="wQi2lE83GkOt8jxX+ZDPJg=="/>
-		<POI MapID="26" xpos="-37.8056" ypos="116.31" zpos="-332.365" type="recoltes.minerai.riche.fer" GUID="Z9janNiYvk+eGorYYPxw8g=="/>
-		<POI MapID="26" xpos="563.935" ypos="34.6828" zpos="433.549" type="recoltes.minerai.riche.fer" GUID="ka9Z74wJE06OM9AhF1rGKA=="/>
-		<POI MapID="26" xpos="629.37" ypos="62.2301" zpos="-664.17" type="recoltes.minerai.riche.fer" GUID="yX7MrA4u0UCciyeDWo368Q=="/>
-
-		<POI MapID="27" xpos="-496.172" ypos="80.13" zpos="-403.778" type="recoltes.minerai.riche.fer" GUID="MFhCNASDR02aJBEPtStDzQ=="/>
-		<POI MapID="27" xpos="-128.531" ypos="126.587" zpos="1401.59" type="recoltes.minerai.riche.fer" GUID="+G/Q9CKVL0qfeQ8YSSB+Tw=="/>
-		<POI MapID="27" xpos="-71.2427" ypos="55.7773" zpos="-460.405" type="recoltes.minerai.riche.fer" GUID="1GkSR+k9kUaPvJsB+iZFqg=="/>
-		<POI MapID="27" xpos="90.1796" ypos="139.932" zpos="132.98" type="recoltes.minerai.riche.fer" GUID="bOZJ3+VLf0GBjsOtOPPeeQ=="/>
-		<POI MapID="27" xpos="144.85" ypos="143.75" zpos="174.47" type="recoltes.minerai.riche.fer" GUID="LX6B1bsxzUaWMciGdUXaZA=="/>
-		<POI MapID="27" xpos="209.719" ypos="148.052" zpos="30.1103" type="recoltes.minerai.riche.fer" GUID="JWuzyV3aSUuyHID9gdSFJQ=="/>
-		<POI MapID="27" xpos="340.37" ypos="104.193" zpos="-496.548" type="recoltes.minerai.riche.fer" GUID="IXtROKxkt0OoE3y3W8fRyg=="/>
-		<POI MapID="27" xpos="421.161" ypos="140.416" zpos="106.932" type="recoltes.minerai.riche.fer" GUID="4LH+S/dYeEWpq03am1IoHQ=="/>
-		<POI MapID="27" xpos="432.35" ypos="118.46" zpos="685.282" type="recoltes.minerai.riche.fer" GUID="tiKDAqYIxEeEmVKpTpQ8iw=="/>
-		<POI MapID="27" xpos="488.184" ypos="162.375" zpos="-1249.53" type="recoltes.minerai.riche.fer" GUID="lBUWVUKDdEO/2I96PUYbvw=="/>
-
-		<POI MapID="29" xpos="616.004" ypos="24.1499" zpos="910.217" type="recoltes.minerai.riche.fer" GUID="cQJyObpuIkum0OXLvODnCw=="/>
-
-		<POI MapID="31" xpos="-508.834" ypos="34.3976" zpos="-568.888" type="recoltes.minerai.riche.fer" GUID="MeFMcS1RSEuCLzQ6n6WBhA=="/>
-		<POI MapID="31" xpos="286.647" ypos="33.3189" zpos="24.1939" type="recoltes.minerai.riche.fer" GUID="EaWxENBH50y/4QN1dndgJg=="/>
-		<POI MapID="31" xpos="375.015" ypos="37.9679" zpos="147.743" type="recoltes.minerai.riche.fer" GUID="tssoVOXmJEK8OkUttxjCWg=="/>
-		<POI MapID="31" xpos="733.189" ypos="38.7099" zpos="-96.7205" type="recoltes.minerai.riche.fer" GUID="XO2MAHt9e0i5od1TQk8rjw=="/>
-
-		<POI MapID="32" xpos="-966.848" ypos="94.2479" zpos="-196.959" type="recoltes.minerai.riche.fer" GUID="dPV+qO6BykasVTAqmewSqg=="/>
-		<POI MapID="32" xpos="133.783" ypos="62.5091" zpos="-619.262" type="recoltes.minerai.riche.fer" GUID="SpSvscd9Z06pP5BhVMWxjQ=="/>
-
-		<POI MapID="54" xpos="-746.437" ypos="36.1168" zpos="506.274" type="recoltes.minerai.riche.fer" GUID="x5HTd6LR9ESjUZhZdtYY7g=="/>
-		<POI MapID="54" xpos="-673.81" ypos="80.4317" zpos="241.425" type="recoltes.minerai.riche.fer" GUID="EVByCeiMBU+W1row4/Vn9w=="/>
-		<POI MapID="54" xpos="-668.419" ypos="20.1911" zpos="-747.999" type="recoltes.minerai.riche.fer" GUID="mkMIZQMQzkyuD9inSOk+lg=="/>
-		<POI MapID="54" xpos="-110.52" ypos="42.1373" zpos="57.2665" type="recoltes.minerai.riche.fer" GUID="w1YQeXD3+kqxDd8twFegvQ=="/>
-		<POI MapID="54" xpos="626.351" ypos="92.4799" zpos="93.5915" type="recoltes.minerai.riche.fer" GUID="wq2428faFkq88638/jnMKw=="/>
-
-		<POI MapID="73" xpos="-477.308" ypos="-41.2774" zpos="125.216" type="recoltes.minerai.riche.fer" GUID="l7J0tH6f7kepxFpfELiPrA=="/>
-
-		<!--
-		Argent Riche
-		-->
-
-		<POI MapID="21" xpos="-843.683" ypos="9.81607" zpos="245.563" type="recoltes.minerai.riche.argent" GUID="/oZ88RsiOEu2NdRNPD2wSw=="/>
-		<POI MapID="21" xpos="-329.892" ypos="27.5582" zpos="530.954" type="recoltes.minerai.riche.argent" GUID="QsFbYhmHGUihbXLid3me4w=="/>
-		<POI MapID="21" xpos="531.073" ypos="58.7352" zpos="429.261" type="recoltes.minerai.riche.argent" GUID="J2xkayhEg02CP5k9gnYrqg=="/>
-		<POI MapID="21" xpos="544.459" ypos="6.17759" zpos="819.969" type="recoltes.minerai.riche.argent" GUID="LH/MtNoQVUKHF25IHNuMlQ=="/>
-
-		<POI MapID="23" xpos="-1102.32" ypos="45.3713" zpos="23.9304" type="recoltes.minerai.riche.argent" GUID="XK0gjOYAf0GfI+yUjSvDlg=="/>
-		<POI MapID="23" xpos="-1010.28" ypos="60.961" zpos="-308.64" type="recoltes.minerai.riche.argent" GUID="0tcJZleV2kKbmQeJshtx7A=="/>
-		<POI MapID="23" xpos="-1001.68" ypos="17.7006" zpos="-586.406" type="recoltes.minerai.riche.argent" GUID="DK2kJVa7Pk6rMscJ7YdlTA=="/>
-		<POI MapID="23" xpos="-478.084" ypos="-117.572" zpos="-68.388" type="recoltes.minerai.riche.argent" GUID="i0jBv7JLv0GxESQvxAsc9A=="/>
-		<POI MapID="23" xpos="-191.469" ypos="41.8901" zpos="332.404" type="recoltes.minerai.riche.argent" GUID="M87ohv/uDEGGoZbGMDbG9g=="/>
-		<POI MapID="23" xpos="-91.0694" ypos="52.5134" zpos="-334.331" type="recoltes.minerai.riche.argent" GUID="UxVZaqoBl0aKgb65CJeTYg=="/>
-
-		<POI MapID="24" xpos="-360.576" ypos="-28.448" zpos="-340.168" type="recoltes.minerai.riche.argent" GUID="/bIbzTcdfEi1ZZCemNW3xg=="/>
-		<POI MapID="24" xpos="1167.87" ypos="78.0132" zpos="-502.487" type="recoltes.minerai.riche.argent" GUID="ShD4DfZO9UGSM+crP+fN2Q=="/>
-
-		<POI MapID="27" xpos="-519.121" ypos="83.0987" zpos="641.836" type="recoltes.minerai.riche.argent" GUID="2avcO/jLjUuDjKEv3cZ+iA=="/>
-		<POI MapID="27" xpos="-478.745" ypos="78.6823" zpos="-379.484" type="recoltes.minerai.riche.argent" GUID="MLLWAX59w0qfp83OdXrzcg=="/>
-		<POI MapID="27" xpos="-222.494" ypos="-44.0302" zpos="-941.955" type="recoltes.minerai.riche.argent" GUID="7XjrEx8rTUK2l7BFg0PDrQ=="/>
-		<POI MapID="27" xpos="-122.316" ypos="44.5758" zpos="-925.649" type="recoltes.minerai.riche.argent" GUID="i8CTaZGFQk2IUp4iPSdbEw=="/>
-		<POI MapID="27" xpos="-71.1406" ypos="55.0715" zpos="-459.174" type="recoltes.minerai.riche.argent" GUID="w7qyDfnqtUmixbsBnG6Cxw=="/>
-
-		<POI MapID="31" xpos="-874.384" ypos="55.0459" zpos="-491.369" type="recoltes.minerai.riche.argent" GUID="xHZ36m86G02Ptv8TGcEh6A=="/>
-		<POI MapID="31" xpos="-355.498" ypos="72.0531" zpos="-327.976" type="recoltes.minerai.riche.argent" GUID="FQDVdd1kIEqEzmaIqWpEUA=="/>
-		<POI MapID="31" xpos="-281.743" ypos="4.46358" zpos="-138.738" type="recoltes.minerai.riche.argent" GUID="FPBKXuTbmk2QviBykdVLMQ=="/>
-		<POI MapID="31" xpos="-62.1092" ypos="16.516" zpos="-269.737" type="recoltes.minerai.riche.argent" GUID="rPqJq3UenEuk6uherpEWag=="/>
-		<POI MapID="31" xpos="148.313" ypos="92.4149" zpos="357.306" type="recoltes.minerai.riche.argent" GUID="xVtWENDl6USpR28rWsWOOQ=="/>
-		<POI MapID="31" xpos="697.892" ypos="81.1504" zpos="-366.487" type="recoltes.minerai.riche.argent" GUID="CDUX3KsNHUmO1+U/OC9k+g=="/>
-
-		<POI MapID="32" xpos="-103.985" ypos="78.1651" zpos="116.874" type="recoltes.minerai.riche.argent" GUID="sH4gBpMOf0q565JfQXD4gw=="/>
-		<POI MapID="32" xpos="146.894" ypos="32.3879" zpos="-585.096" type="recoltes.minerai.riche.argent" GUID="UWV82+0/z0etV9CoAifhcQ=="/>
-		<POI MapID="32" xpos="147.44" ypos="72.2063" zpos="502.35" type="recoltes.minerai.riche.argent" GUID="jdgdiSntTkGBmNuhL8bjMQ=="/>
-		<POI MapID="32" xpos="603.888" ypos="9.55025" zpos="601.194" type="recoltes.minerai.riche.argent" GUID="ad/AmYV0qkmWKvz7X4t5LA=="/>
-		<POI MapID="32" xpos="900.632" ypos="38.407" zpos="121.808" type="recoltes.minerai.riche.argent" GUID="iy8ZNlJE1k2cocl70Kdq6Q=="/>
-		<POI MapID="32" xpos="940.366" ypos="-15.9232" zpos="-452.35" type="recoltes.minerai.riche.argent" GUID="m36235rxI0mCNf4PD+uQ0A=="/>
-
-		<POI MapID="54" xpos="-834.169" ypos="3.13072" zpos="89.0593" type="recoltes.minerai.riche.argent" GUID="+sFlIOTpEEacX3JMPQJN7w=="/>
-		<POI MapID="54" xpos="-448.159" ypos="5.68871" zpos="-476.126" type="recoltes.minerai.riche.argent" GUID="oCrT1N2u1U6miIl0N1djqw=="/>
-		<POI MapID="54" xpos="-367.353" ypos="27.1462" zpos="694.734" type="recoltes.minerai.riche.argent" GUID="wpbHpWIyGE+8JH5XskqC8A=="/>
-		<POI MapID="54" xpos="256.99" ypos="19.8752" zpos="-386.727" type="recoltes.minerai.riche.argent" GUID="jItMlrfqPkO4ZoL26JlcWA=="/>
-		<POI MapID="54" xpos="294.567" ypos="64.2006" zpos="104.679" type="recoltes.minerai.riche.argent" GUID="YXHVlc4ChEO3ec73mypEWA=="/>
-
-		<!--
-		Or Riche
-		-->
-
-		<POI MapID="17" xpos="-682.577" ypos="117.724" zpos="-663.226" type="recoltes.minerai.riche.or" GUID="DfcEmym0qkWyi0Czxt/yvg=="/>
-		<POI MapID="17" xpos="-446.459" ypos="57.61" zpos="735.64" type="recoltes.minerai.riche.or" GUID="M6vq3mK0d0qJc8IAzn1xag=="/>
-		<POI MapID="17" xpos="-284.351" ypos="21.0113" zpos="167.657" type="recoltes.minerai.riche.or" GUID="SUcVBO5rEUGuNBXI1Fm6Vg=="/>
-		<POI MapID="17" xpos="949.757" ypos="185.921" zpos="591.171" type="recoltes.minerai.riche.or" GUID="2ZE8mEdtZE2gKwSMxYlzcQ=="/>
-		<POI MapID="17" xpos="970.697" ypos="91.1195" zpos="269.354" type="recoltes.minerai.riche.or" GUID="Sv6bt3vFtEiTHipFulsBOA=="/>
-
-		<POI MapID="20" xpos="-524.557" ypos="70.9481" zpos="685.321" type="recoltes.minerai.riche.or" GUID="pltcAi1F80qRRWWP7A6Tsw=="/>
-
-		<POI MapID="21" xpos="879.928" ypos="17.9268" zpos="271.004" type="recoltes.minerai.riche.or" GUID="MsPeoKnQQ06xkepzNN0vcA=="/>
-
-		<POI MapID="26" xpos="-588.215" ypos="70.9567" zpos="860.325" type="recoltes.minerai.riche.or" GUID="YlG6Bd4+pkaw22RCWCOoUA=="/>
-		<POI MapID="26" xpos="-530.883" ypos="31.3636" zpos="-827.331" type="recoltes.minerai.riche.or" GUID="2dXajBKj0Em5TxwC3RKsXg=="/>
-		<POI MapID="26" xpos="-497.08" ypos="105.957" zpos="-513.775" type="recoltes.minerai.riche.or" GUID="xW3Se+eiMk2nwe/bJF7Vqw=="/>
-		<POI MapID="26" xpos="-478.825" ypos="92.8629" zpos="140.366" type="recoltes.minerai.riche.or" GUID="B3tVN6iLmkej4TFNObZQhA=="/>
-		<POI MapID="26" xpos="-329.855" ypos="118.204" zpos="-345.9" type="recoltes.minerai.riche.or" GUID="ebZfu+XoNk+jTpn9OoGN4Q=="/>
-		<POI MapID="26" xpos="-228.336" ypos="109.886" zpos="-878.918" type="recoltes.minerai.riche.or" GUID="O2sjG9LIW0KEshifm63U9w=="/>
-		<POI MapID="26" xpos="347.952" ypos="113.613" zpos="-815.021" type="recoltes.minerai.riche.or" GUID="tVpgbbukEE2N1h7WoAAlFA=="/>
-		<POI MapID="26" xpos="605.987" ypos="29.0749" zpos="433.536" type="recoltes.minerai.riche.or" GUID="AhQ6/mnTHU+L2MTzAtvxSQ=="/>
-
-		<POI MapID="27" xpos="-395.973" ypos="59.6615" zpos="-1364.34" type="recoltes.minerai.riche.or" GUID="YVo6cArwJkC5gaM6rQctgw=="/>
-
-		<!--
-		Platine Riche
-		-->
-
-		<POI MapID="22" xpos="-736.175" ypos="-65.3893" zpos="304.423" type="recoltes.minerai.riche.platine" GUID="39F87cAt602ujt2VlLeAFg=="/>
-		<POI MapID="22" xpos="-483.911" ypos="60.2078" zpos="311.21" type="recoltes.minerai.riche.platine" GUID="Pd5UTLFz5UO8olhPwrL3yw=="/>
-		<POI MapID="22" xpos="238.752" ypos="24.9205" zpos="496.369" type="recoltes.minerai.riche.platine" GUID="P2NuuvMMhk+deVjFq3xrog=="/>
-		<POI MapID="22" xpos="382.319" ypos="26.4397" zpos="-616.293" type="recoltes.minerai.riche.platine" GUID="SmFkRE8xtUKtevV8IutbHg=="/>
-		<POI MapID="22" xpos="403.875" ypos="29.5052" zpos="481.374" type="recoltes.minerai.riche.platine" GUID="1z5s2JSBN0qYpYGk2iud8w=="/>
-		<POI MapID="22" xpos="891.469" ypos="44.3114" zpos="4.16448" type="recoltes.minerai.riche.platine" GUID="/1nXFfhli0WxAlapOG1jNQ=="/>
-		<POI MapID="22" xpos="913.278" ypos="19.0603" zpos="3.13387" type="recoltes.minerai.riche.platine" GUID="xPah4LrWi02rJ0V/OkF12w=="/>
-		<POI MapID="22" xpos="963.325" ypos="28.5344" zpos="-130.428" type="recoltes.minerai.riche.platine" GUID="rt25XJkkSU2/ALu/ONbecQ=="/>
-
-		<POI MapID="25" xpos="-555.265" ypos="81.7042" zpos="-1087.75" type="recoltes.minerai.riche.platine" GUID="Z8kgbUZ9hE2sMbQ5h3iLWg=="/>
-		<POI MapID="25" xpos="-331.938" ypos="64.5473" zpos="17.4145" type="recoltes.minerai.riche.platine" GUID="uYAOu3ok5UiVFok7zAKutg=="/>
-		<POI MapID="25" xpos="-249.069" ypos="21.2665" zpos="1124.82" type="recoltes.minerai.riche.platine" GUID="SzYvwm3JaE+vD4aXvtLlLw=="/>
-		<POI MapID="25" xpos="283.784" ypos="-27.4235" zpos="-845.802" type="recoltes.minerai.riche.platine" GUID="PEo9hqJhx0a9mEp0xAWlSw=="/>
-		<POI MapID="25" xpos="563.567" ypos="0.772861" zpos="1164.66" type="recoltes.minerai.riche.platine" GUID="whhcXEsv20+ejgsYzxM9bw=="/>
-
-		<POI MapID="29" xpos="-566.11" ypos="1.38405" zpos="358.282" type="recoltes.minerai.riche.platine" GUID="bHDiM9xRgk6m06z1jW9aPg=="/>
-		<POI MapID="29" xpos="-479.178" ypos="5.46" zpos="400.874" type="recoltes.minerai.riche.platine" GUID="o6CuHRSu5Eyt+LpjyHzj6g=="/>
-		<POI MapID="29" xpos="-118.145" ypos="59.4208" zpos="198.917" type="recoltes.minerai.riche.platine" GUID="1rr9a/3DI0iDBPLvQe1CNw=="/>
-		<POI MapID="29" xpos="-108.454" ypos="-0.301803" zpos="838.178" type="recoltes.minerai.riche.platine" GUID="s7cjLo8w20ycS69eGRiBeg=="/>
-		<POI MapID="29" xpos="453.245" ypos="21.2024" zpos="842.986" type="recoltes.minerai.riche.platine" GUID="8TO+BcQxpUW9Db58s+8DcQ=="/>
-		<POI MapID="29" xpos="499.344" ypos="6.81969" zpos="988.07" type="recoltes.minerai.riche.platine" GUID="r7PhLnlka0Op7FiQc/59pA=="/>
-		<POI MapID="29" xpos="616.004" ypos="24.1499" zpos="910.217" type="recoltes.minerai.riche.platine" GUID="cQJyObpuIkum0OXLvODnCw=="/>
-		<POI MapID="29" xpos="624.191" ypos="86.6931" zpos="172.587" type="recoltes.minerai.riche.platine" GUID="+2JuovPmZk+w+svvyogJRw=="/>
-		<POI MapID="29" xpos="669.948" ypos="26.8301" zpos="1008.06" type="recoltes.minerai.riche.platine" GUID="oF8wqYU96kaa0nKUYd9rdw=="/>
-		<POI MapID="29" xpos="685.546" ypos="34.1298" zpos="-546.086" type="recoltes.minerai.riche.platine" GUID="FBRi7YiYcE21c2n1xGi21A=="/>
-
-		<POI MapID="39" xpos="-1084.14" ypos="64.0676" zpos="176.582" type="recoltes.minerai.riche.platine" GUID="cn0u3Ar59Ui9TEvIbE0+9g=="/>
-		<POI MapID="39" xpos="-1076.95" ypos="56.5449" zpos="304.654" type="recoltes.minerai.riche.platine" GUID="ucNieTWFWkakzSDl+zBjFA=="/>
-		<POI MapID="39" xpos="-935.593" ypos="2.3296" zpos="-409.661" type="recoltes.minerai.riche.platine" GUID="cuTXr08p1Um0mcs4kXKL8g=="/>
-		<POI MapID="39" xpos="-591.446" ypos="108.722" zpos="-645.548" type="recoltes.minerai.riche.platine" GUID="cJg3x+t0+EuNIfEa+PwI+g=="/>
-		<POI MapID="39" xpos="-365.092" ypos="15.574" zpos="-178.405" type="recoltes.minerai.riche.platine" GUID="bLgjQpV8KEK6r9o89TWTxw=="/>
-		<POI MapID="39" xpos="-323.575" ypos="7.29835" zpos="-358.893" type="recoltes.minerai.riche.platine" GUID="a+t86dpQBkmB2YI62wQ04A=="/>
-		<POI MapID="39" xpos="745.056" ypos="-40.8854" zpos="92.2397" type="recoltes.minerai.riche.platine" GUID="fCziFQlSxUW7x4Xmzri+Jg=="/>
-
-		<POI MapID="53" xpos="-644.142" ypos="105.563" zpos="469.099" type="recoltes.minerai.riche.platine" GUID="gF1f77d5hUCKBZ9NJYQIyw=="/>
-		<POI MapID="53" xpos="-541.22" ypos="51.4636" zpos="289.722" type="recoltes.minerai.riche.platine" GUID="7JE/TuW9B02Xb9HFJubScg=="/>
-		<POI MapID="53" xpos="-522.979" ypos="12.2044" zpos="86.786" type="recoltes.minerai.riche.platine" GUID="DBqbvuOpVkyi0dP9NoZ2Ig=="/>
-		<POI MapID="53" xpos="-366.909" ypos="25.0684" zpos="307.952" type="recoltes.minerai.riche.platine" GUID="tiJYKSMTzUevsGWs3YMB/w=="/>
-		<POI MapID="53" xpos="-352.669" ypos="-15.4025" zpos="-227.001" type="recoltes.minerai.riche.platine" GUID="4iAfJxZV60ScNEdvmDTq6g=="/>
-		<POI MapID="53" xpos="-177.781" ypos="40.7752" zpos="-408.313" type="recoltes.minerai.riche.platine" GUID="A2ztK5hNWkOnLHgGpSlXFQ=="/>
-		<POI MapID="53" xpos="476.394" ypos="71.0057" zpos="228.228" type="recoltes.minerai.riche.platine" GUID="y2SZyWzoeUCrqOOSXR1V9Q=="/>
-
-		<POI MapID="73" xpos="-297.9" ypos="-83.001" zpos="621.29" type="recoltes.minerai.riche.platine" GUID="zgSyFfflZ0Kei4Q+QS6iuA=="/>
-		<POI MapID="73" xpos="27.8035" ypos="74.8872" zpos="-406.118" type="recoltes.minerai.riche.platine" GUID="jiMwVpDGQ0eS4hQtr9B6Mw=="/>
-		<POI MapID="73" xpos="374.325" ypos="8.79241" zpos="-142.112" type="recoltes.minerai.riche.platine" GUID="UE9LdMj+WE2RJ6VjYL8r5g=="/>
-		<POI MapID="73" xpos="462.712" ypos="12.2719" zpos="490.674" type="recoltes.minerai.riche.platine" GUID="BxT8+vrG3kSiG3VkuDq7Nw=="/>
-		<POI MapID="73" xpos="642.75" ypos="4.75138" zpos="-248.605" type="recoltes.minerai.riche.platine" GUID="zpG4fYQHTEOBix3ml1jGOg=="/>
-		<POI MapID="73" xpos="723" ypos="24.2719" zpos="504.524" type="recoltes.minerai.riche.platine" GUID="DoHMIHexrUObic50vwrqxA=="/>
-
-		<!--
-		Mithril Riche
-		-->
-
-		<POI MapID="30" xpos="-663.799" ypos="-206.006" zpos="135.837" type="recoltes.minerai.riche.mithril" GUID="KBov9KTI70yztPSJkM3VnA=="/>
-		<POI MapID="30" xpos="-564.659" ypos="-127.367" zpos="-629.017" type="recoltes.minerai.riche.mithril" GUID="ROSHNMe4IkCv4HA5aDC3kg=="/>
-		<POI MapID="30" xpos="-507.671" ypos="-133.528" zpos="-230.454" type="recoltes.minerai.riche.mithril" GUID="bZCaRncpv0OERWwg8xF+fg=="/>
-		<POI MapID="30" xpos="-48.7564" ypos="-55.1613" zpos="170.858" type="recoltes.minerai.riche.mithril" GUID="EP5lMniDzE+PlTKO+q6//A=="/>
-		<POI MapID="30" xpos="55.1181" ypos="-189.729" zpos="720.37" type="recoltes.minerai.riche.mithril" GUID="q49j6QB+jE2m+RtzA0/Twg=="/>
-		<POI MapID="30" xpos="603.905" ypos="51.2661" zpos="471.314" type="recoltes.minerai.riche.mithril" GUID="lhlmUSs6i0up4Vtw8p+f8w=="/>
-		<POI MapID="30" xpos="670.173" ypos="15.3911" zpos="-19.6497" type="recoltes.minerai.riche.mithril" GUID="zz+HIixYYUqn19DyhbnNJg=="/>
-
-		<POI MapID="39" xpos="388.329" ypos="-141.632" zpos="-45.1813" type="recoltes.minerai.riche.mithril" GUID="KzBWvMEBAE2qeVOLn8JR1w=="/>
-
-		<POI MapID="51" xpos="-816.974" ypos="60.3161" zpos="-669.993" type="recoltes.minerai.riche.mithril" GUID="g0DBmtOzW0W4uyVPB961XA=="/>
-		<POI MapID="51" xpos="-652.897" ypos="-136.823" zpos="663.898" type="recoltes.minerai.riche.mithril" GUID="EPRktRKMJku3OPSMWRFFjQ=="/>
-		<POI MapID="51" xpos="-562.571" ypos="114.212" zpos="-511.43" type="recoltes.minerai.riche.mithril" GUID="Jmb3yKOrSEep0soweXCKJA=="/>
-		<POI MapID="51" xpos="469.022" ypos="-92.5443" zpos="-1.16759" type="recoltes.minerai.riche.mithril" GUID="RAeJNwmoW0aV56843yDjlA=="/>
-		<POI MapID="51" xpos="651.724" ypos="53.5915" zpos="836.399" type="recoltes.minerai.riche.mithril" GUID="BJLmX1rPokmD7CFswghanQ=="/>
-
-		<POI MapID="62" xpos="-489.132" ypos="-91.0644" zpos="28.2905" type="recoltes.minerai.riche.mithril" GUID="RYkV0pO3NEKwphx1t1TlZw=="/>
-		<POI MapID="62" xpos="-482.218" ypos="36.2804" zpos="-860.499" type="recoltes.minerai.riche.mithril" GUID="Unsh40b5hkii/LgBCmxpWw=="/>
-		<POI MapID="62" xpos="-448.958" ypos="-102.603" zpos="28.1369" type="recoltes.minerai.riche.mithril" GUID="6zkgGmiPhUibzLFIDZ95Aw=="/>
-		<POI MapID="62" xpos="-261.763" ypos="-70.4355" zpos="-116.383" type="recoltes.minerai.riche.mithril" GUID="WV5iXM1AtE+fS0KhOHDfGg=="/>
-		<POI MapID="62" xpos="-135.273" ypos="59.4455" zpos="-849.18" type="recoltes.minerai.riche.mithril" GUID="1vMH94dVxkCjf3GNrrPqIQ=="/>
-		<POI MapID="62" xpos="109.723" ypos="20.4131" zpos="275.004" type="recoltes.minerai.riche.mithril" GUID="+wQQkQNJiUSAzN1z4ygLDg=="/>
-		<POI MapID="62" xpos="113.901" ypos="27.5894" zpos="327.487" type="recoltes.minerai.riche.mithril" GUID="tEFLcsHKYEiHRVbNZiPrbg=="/>
-		<POI MapID="62" xpos="232.839" ypos="5.65284" zpos="-33.6991" type="recoltes.minerai.riche.mithril" GUID="naSauyrIqU2/ISh3NApa2g=="/>
-		<POI MapID="62" xpos="319.191" ypos="-43.46" zpos="-1145.43" type="recoltes.minerai.riche.mithril" GUID="q525r0w9qUma54MdgSvMrw=="/>
-
-		<POI MapID="65" xpos="-839.416" ypos="9.02904" zpos="158.546" type="recoltes.minerai.riche.mithril" GUID="Gek2NepS4Um7ubYAvWQsyA=="/>
-		<POI MapID="65" xpos="-130.429" ypos="39.9935" zpos="-364.29" type="recoltes.minerai.riche.mithril" GUID="Iysex9lyH0eiso9VC2YN6Q=="/>
-		<POI MapID="65" xpos="736.408" ypos="38.4059" zpos="-521.372" type="recoltes.minerai.riche.mithril" GUID="cpNSTD8T6UukHCsyqRi22A=="/>
-		<POI MapID="65" xpos="832.592" ypos="10.4343" zpos="312.375" type="recoltes.minerai.riche.mithril" GUID="zFBZrZst50WJuNrvhrR1UQ=="/>
-		<POI MapID="65" xpos="1122.19" ypos="16.0634" zpos="451.326" type="recoltes.minerai.riche.mithril" GUID="PJS0nDx/R02dDo1Zi2BZKA=="/>
-
-		<POI MapID="873" xpos="-428.484" ypos="46.0828" zpos="-202.881" type="recoltes.minerai.riche.mithril" GUID="xAsMDi5opEqDQWGzt9gyiw=="/>
-		<POI MapID="873" xpos="-326.545" ypos="53.4414" zpos="-139.726" type="recoltes.minerai.riche.mithril" GUID="EvKJYtj/IkuMdsYj8JKjeg=="/>
-		<POI MapID="873" xpos="394.406" ypos="53.0375" zpos="-16.5215" type="recoltes.minerai.riche.mithril" GUID="OH1lZGoJBkai4zQfgqRA/A=="/>
-		<POI MapID="873" xpos="417.347" ypos="53.1604" zpos="-63.3434" type="recoltes.minerai.riche.mithril" GUID="7jUsl6U26k2o9KCJaLjfDA=="/>
-		<POI MapID="873" xpos="466.355" ypos="51.0579" zpos="-52.0911" type="recoltes.minerai.riche.mithril" GUID="ewl9mY70AUKMkFYdfV7sAg=="/>
-
-		<POI MapID="988" xpos="-422.59" ypos="18.1703" zpos="-207.866" type="recoltes.minerai.riche.mithril" GUID="RDYvLiPCREOl6ZfuDZ5y+A=="/>
-		<POI MapID="988" xpos="-266.977" ypos="17.9687" zpos="-9.64683" type="recoltes.minerai.riche.mithril" GUID="ErV+El176ki1Bek2U1L0xg=="/>
-		<POI MapID="988" xpos="-249.175" ypos="11.6666" zpos="-769.21" type="recoltes.minerai.riche.mithril" GUID="QIY1cOz9/UueoVOE9K/S0w=="/>
-		<POI MapID="988" xpos="252.281" ypos="3.44367" zpos="-161.123" type="recoltes.minerai.riche.mithril" GUID="laW9NXWPhEqkq8U7Ufw6KA=="/>
-
-		<POI MapID="1015" xpos="-365.6" ypos="425.758" zpos="-202.903" type="recoltes.minerai.riche.mithril" GUID="BL8oxMjPhkyzzPcvnV2lRA=="/>
-		<POI MapID="1015" xpos="-318.608" ypos="433.457" zpos="-63.0507" type="recoltes.minerai.riche.mithril" GUID="5OleZ6GbqUG8WcMsxxTsug=="/>
-		<POI MapID="1015" xpos="-293.428" ypos="427.235" zpos="224.089" type="recoltes.minerai.riche.mithril" GUID="HXBIglaSlkGzFfp4jhbAMA=="/>
-		<POI MapID="1015" xpos="-82.6368" ypos="416.473" zpos="-215.076" type="recoltes.minerai.riche.mithril" GUID="OC4OcYtPD0SqZWnuKBSdsg=="/>
-		<POI MapID="1015" xpos="-16.1743" ypos="403.958" zpos="232.561" type="recoltes.minerai.riche.mithril" GUID="lHJLu8qCwkihReC9sITAIA=="/>
-		<POI MapID="1015" xpos="-14.9393" ypos="419.08" zpos="45.9888" type="recoltes.minerai.riche.mithril" GUID="izE2FvAV/Emc46+Q+g/PAw=="/>
-		<POI MapID="1015" xpos="-10.4266" ypos="403.803" zpos="198.487" type="recoltes.minerai.riche.mithril" GUID="LKZBbsQ2WE2jPHq7ruOmNg=="/>
-		<POI MapID="1015" xpos="-1.69966" ypos="416" zpos="-349.618" type="recoltes.minerai.riche.mithril" GUID="cnVPf2oiB0+bjYArzKdRFQ=="/>
-		<POI MapID="1015" xpos="11.3506" ypos="415.197" zpos="-250.861" type="recoltes.minerai.riche.mithril" GUID="2GoNB4DxK0qiDc1+2YRVRg=="/>
-		<POI MapID="1015" xpos="28.0952" ypos="406.119" zpos="364.611" type="recoltes.minerai.riche.mithril" GUID="AgfRsZlBSEaTnbsU5s7xMw=="/>
-		<POI MapID="1015" xpos="88.1049" ypos="416.329" zpos="431.541" type="recoltes.minerai.riche.mithril" GUID="70000n3k5Eus7JIa2FNPPg=="/>
-		<POI MapID="1015" xpos="191.656" ypos="414.764" zpos="-208.903" type="recoltes.minerai.riche.mithril" GUID="2HRPhAIG90SDuVshzjxhzw=="/>
-		<POI MapID="1015" xpos="209.823" ypos="414.836" zpos="144.971" type="recoltes.minerai.riche.mithril" GUID="dyCRTibqAkmQd2RXLfnuRg=="/>
-		<POI MapID="1015" xpos="231.592" ypos="397.732" zpos="-57.8699" type="recoltes.minerai.riche.mithril" GUID="7bmYsagl5UmOC0UTPWO71A=="/>
-		<POI MapID="1015" xpos="415.144" ypos="413.658" zpos="-405.094" type="recoltes.minerai.riche.mithril" GUID="N/PRrESzJ06qBNU9cRQ7EA=="/>
-		<POI MapID="1015" xpos="460.618" ypos="390.825" zpos="-14.1253" type="recoltes.minerai.riche.mithril" GUID="BluXRh/+Q02qQPt5iAy9NQ=="/>
-
-		<POI MapID="1041" xpos="545.02" ypos="135.179" zpos="213.288" type="recoltes.minerai.riche.mithril" GUID="5OKDOr1NJ0qObpOwjyvebg=="/>
-
-		<POI MapID="1043" xpos="-285.346" ypos="334.718" zpos="-17.514" type="recoltes.minerai.riche.mithril" GUID="1KCP3Y6c80WLL/fE3B1khA=="/>
-
-		<POI MapID="1045" xpos="-778.932" ypos="48.3841" zpos="-479.138" type="recoltes.minerai.riche.mithril" GUID="DIEMTyhunkmDrgpneOUnmw=="/>
-		<POI MapID="1045" xpos="-539.943" ypos="88.1611" zpos="213.968" type="recoltes.minerai.riche.mithril" GUID="TmEgvd88KUqWn15fTVCdSA=="/>
-		<POI MapID="1045" xpos="-529.933" ypos="-148.996" zpos="472.326" type="recoltes.minerai.riche.mithril" GUID="IyeCJLjvr06lvQ7EzvyVaA=="/>
-		<POI MapID="1045" xpos="-484.972" ypos="79.8723" zpos="-243.019" type="recoltes.minerai.riche.mithril" GUID="VSfGi3Em2UqTxQZ4+yxZqQ=="/>
-		<POI MapID="1045" xpos="-418.982" ypos="110.54" zpos="469.515" type="recoltes.minerai.riche.mithril" GUID="tgymNf/UQECmq6zHxN7L3A=="/>
-		<POI MapID="1045" xpos="-294.743" ypos="-166.134" zpos="170.17" type="recoltes.minerai.riche.mithril" GUID="luwvJTMgV0yY8+mBcSPNYw=="/>
-		<POI MapID="1045" xpos="6.11762" ypos="35.3757" zpos="-153.47" type="recoltes.minerai.riche.mithril" GUID="b4+02WvfLkeGRbwnAfKJiA=="/>
-		<POI MapID="1045" xpos="145.321" ypos="17.9684" zpos="28.3021" type="recoltes.minerai.riche.mithril" GUID="dWzXvHbJBEOLr+0zrGxdvg=="/>
-		<POI MapID="1045" xpos="247.973" ypos="2.82394" zpos="160.479" type="recoltes.minerai.riche.mithril" GUID="UXPNTYW1YEWnyR1b3IpXbA=="/>
-
-		<POI MapID="1052" xpos="-445.751" ypos="545.185" zpos="-270.617" type="recoltes.minerai.riche.mithril" GUID="HzZbZ5jz8EiwEkHg9CzdKA=="/>
-		<POI MapID="1052" xpos="254.232" ypos="594.711" zpos="-183.288" type="recoltes.minerai.riche.mithril" GUID="CgWhYtwO0ki/QeIiod0DdA=="/>
-		<POI MapID="1052" xpos="504.503" ypos="34.6531" zpos="-27.2272" type="recoltes.minerai.riche.mithril" GUID="+5Y8Ih8gDUuYh3UKXyUraA=="/>
-		<POI MapID="1052" xpos="560.489" ypos="387.301" zpos="240.643" type="recoltes.minerai.riche.mithril" GUID="HrS2uqcEJkKB6FMY3kRPcg=="/>
-		<POI MapID="1052" xpos="630.115" ypos="425.911" zpos="168.706" type="recoltes.minerai.riche.mithril" GUID="frnLBZRWT021qj7kqWjq3A=="/>
-
-		<POI MapID="1165" xpos="-328.863" ypos="119.894" zpos="-56.6411" type="recoltes.minerai.riche.mithril" GUID="3yjsArp2ZEK1FL+OHPa/Lg=="/>
-
-		<POI MapID="1175" xpos="119.329" ypos="36.2871" zpos="25.4639" type="recoltes.minerai.riche.mithril" GUID="hiImc/lDw0GnKB6yCxa01g=="/>
-		<POI MapID="1175" xpos="264.561" ypos="21.3322" zpos="-674.769" type="recoltes.minerai.riche.mithril" GUID="mxyouxEpTEi8W1bvy1/n2Q=="/>
-
-		<POI MapID="1178" xpos="-392.113" ypos="36.231" zpos="-91.7576" type="recoltes.minerai.riche.mithril" GUID="6XNF29dAJUellW3stjPBXw=="/>
-
-		<POI MapID="1185" xpos="-268.557" ypos="118.114" zpos="706.583" type="recoltes.minerai.riche.mithril" GUID="SRNM5zp5Pk+DLcCQoopNgQ=="/>
-		<POI MapID="1185" xpos="-244.816" ypos="38.7293" zpos="-752.516" type="recoltes.minerai.riche.mithril" GUID="Q92W5HKRckif44ESJwXx2A=="/>
-		<POI MapID="1185" xpos="133.587" ypos="73.8603" zpos="699.786" type="recoltes.minerai.riche.mithril" GUID="W7ghyW3JTEWq2Ss6ekMSgg=="/>
-		<POI MapID="1185" xpos="164.075" ypos="65.505" zpos="-323.499" type="recoltes.minerai.riche.mithril" GUID="4L4XwdViY0GPche83l3z1A=="/>
-		<POI MapID="1185" xpos="179.814" ypos="68.2566" zpos="-388.42" type="recoltes.minerai.riche.mithril" GUID="/w3J+ttYGUa37BfzO0G/Lw=="/>
-		<POI MapID="1185" xpos="303.494" ypos="29.7042" zpos="-529.128" type="recoltes.minerai.riche.mithril" GUID="jabDig9qVEKCWAfMGL5Gmw=="/>
-		<POI MapID="1185" xpos="308.074" ypos="192.547" zpos="763.656" type="recoltes.minerai.riche.mithril" GUID="9xnki1BbkE2KkxpN4omCNg=="/>
-		<POI MapID="1185" xpos="374.255" ypos="6.72394" zpos="-708.289" type="recoltes.minerai.riche.mithril" GUID="7bCABGuAD0+Cs/dYZBFYjg=="/>
-
-		<POI MapID="1195" xpos="-415.829" ypos="444.092" zpos="-512.17" type="recoltes.minerai.riche.mithril" GUID="ZOBBuT6C5kqW/O+Fu8d/eg=="/>
-		<POI MapID="1195" xpos="-344.238" ypos="395.717" zpos="-600.657" type="recoltes.minerai.riche.mithril" GUID="QRO71CO2m0mLJqWXzJSHww=="/>
-		<POI MapID="1195" xpos="-170.689" ypos="446.634" zpos="-530.852" type="recoltes.minerai.riche.mithril" GUID="RMQ1fe+L3U2m4ZN2RHFuJg=="/>
-		<POI MapID="1195" xpos="-162.267" ypos="393.175" zpos="-610.184" type="recoltes.minerai.riche.mithril" GUID="lkISqQpypki+1EnCx3S8KQ=="/>
-		<POI MapID="1195" xpos="-135.488" ypos="492.813" zpos="42.5797" type="recoltes.minerai.riche.mithril" GUID="btgZNq6HqkW7NRMVwkn4gA=="/>
-		<POI MapID="1195" xpos="-98.5035" ypos="495.519" zpos="-28.4758" type="recoltes.minerai.riche.mithril" GUID="wTALyyfZ00OXkUbhhmks5A=="/>
-		<POI MapID="1195" xpos="87.0662" ypos="655.197" zpos="116.828" type="recoltes.minerai.riche.mithril" GUID="eSpu9GYFqk+IeaG/7pEB6A=="/>
-		<POI MapID="1195" xpos="432.919" ypos="487.195" zpos="36.1245" type="recoltes.minerai.riche.mithril" GUID="hiwCMQV6g06uVJ3Swi0TUg=="/>
-		<POI MapID="1195" xpos="482.322" ypos="440.667" zpos="-77.708" type="recoltes.minerai.riche.mithril" GUID="uV3Y6ZIYFEivXKXsXOTcVA=="/>
-		<POI MapID="1195" xpos="536.03" ypos="116.23" zpos="-423.45" type="recoltes.minerai.riche.mithril" GUID="Da/ymzXhS0uiKHKYXMN5iA=="/>
-
-		<POI MapID="1210" xpos="1240.99" ypos="211.401" zpos="374.106" type="recoltes.minerai.riche.mithril" GUID="ptD7I1O2tUSZ7S0lgmNtmQ=="/>
-		<POI MapID="1210" xpos="1260.17" ypos="77.4467" zpos="-13.9894" type="recoltes.minerai.riche.mithril" GUID="DOp38ktSkESDf4utbQOhyw=="/>
-
-		<!--
-		Orichalque Riche
-		-->
-
-		<POI MapID="1015" xpos="231.592" ypos="401" zpos="-57.8699" type="recoltes.minerai.riche.orichalque" GUID="qp/5Jiegwk+9JZwFNAy6uw=="/>
-
-		<POI MapID="1045" xpos="-706.122" ypos="279.646" zpos="-455.726" type="recoltes.minerai.riche.orichalque" GUID="6xoEQYX2vkOQSQCWINg9Ew=="/>
-		<POI MapID="1045" xpos="407.671" ypos="169.532" zpos="469.39" type="recoltes.minerai.riche.orichalque" GUID="YkaQFE+Z4Eq2S8ApU0DEMg=="/>
-		<POI MapID="1045" xpos="471.318" ypos="40.4683" zpos="-139.264" type="recoltes.minerai.riche.orichalque" GUID="LD3nbCRnrUuMhHYl0Y4xrw=="/>
-		<POI MapID="1045" xpos="744.673" ypos="95.0015" zpos="-150.301" type="recoltes.minerai.riche.orichalque" GUID="pZPTiMYxdEGW2stNqcds0Q=="/>
-
-		<POI MapID="1185" xpos="-338.605" ypos="107.637" zpos="425.78" type="recoltes.minerai.riche.orichalque" GUID="+RC2C5n5M0SggVVy6Fl6EQ=="/>
-		<POI MapID="1185" xpos="-257.518" ypos="108.874" zpos="651.683" type="recoltes.minerai.riche.orichalque" GUID="vdBdxJ1kgEORgeP9KYkwAQ=="/>
-		<POI MapID="1185" xpos="-203.665" ypos="118.978" zpos="714.979" type="recoltes.minerai.riche.orichalque" GUID="lKVpqIqqr0mn1ydKVqD+3g=="/>
-		<POI MapID="1185" xpos="10.1609" ypos="135.097" zpos="724.116" type="recoltes.minerai.riche.orichalque" GUID="NvN7a4Jnp0qomHFKStVdcg=="/>
-		<POI MapID="1185" xpos="60.2947" ypos="83.2004" zpos="641.181" type="recoltes.minerai.riche.orichalque" GUID="LL0iDWNHCUyPi2LtGGnyPw=="/>
-		<POI MapID="1185" xpos="66.3288" ypos="111.5" zpos="428.09" type="recoltes.minerai.riche.orichalque" GUID="iJFyA4O1mEeTMf9W4AMf1Q=="/>
-		<POI MapID="1185" xpos="223.905" ypos="73.7246" zpos="-387.92" type="recoltes.minerai.riche.orichalque" GUID="jkibplXMjUyOAjxlq3FKTQ=="/>
-		<POI MapID="1185" xpos="257.607" ypos="190.202" zpos="741.806" type="recoltes.minerai.riche.orichalque" GUID="lzqOhcgDgUOupFbw3l2/+g=="/>
-		<POI MapID="1185" xpos="275.605" ypos="67.0615" zpos="-498.595" type="recoltes.minerai.riche.orichalque" GUID="2HuY5aTImk2MEqPd3zqVQA=="/>
-		<POI MapID="1185" xpos="357.478" ypos="75.2903" zpos="-283.695" type="recoltes.minerai.riche.orichalque" GUID="8hz+ct1yME2WVgGa0hXNGA=="/>
-		<POI MapID="1185" xpos="360.384" ypos="29.0505" zpos="-626.454" type="recoltes.minerai.riche.orichalque" GUID="WSKbGoBDH0SqFWXOv+u81g=="/>
-		<POI MapID="1185" xpos="380.7" ypos="17.9" zpos="-517.07" type="recoltes.minerai.riche.orichalque" GUID="2DOgpcBwikySXEqG/ORsjg=="/>
-
-		<POI MapID="1210" xpos="710.666" ypos="222.939" zpos="405.165" type="recoltes.minerai.riche.orichalque" GUID="16fX7gnVhkCmyRa9x5TL4A=="/>
-		<POI MapID="1210" xpos="1407.54" ypos="105.93" zpos="-149.736" type="recoltes.minerai.riche.orichalque" GUID="ET8BxcFQekOpSgzQX5ngmw=="/>
-
-		<!--
-		Cristaux de Quartz Riche
-		-->
-
-		<POI MapID="988" xpos="-204.073" ypos="83.2905" zpos="-565.383" type="recoltes.minerai.riche.cristaux_de_quartz" GUID="OfP8AhHEhU+fHXj4DtOToQ=="/>
-
-		<POI MapID="1210" xpos="1389.65" ypos="190.243" zpos="-261.584" type="recoltes.minerai.riche.cristaux_de_quartz" GUID="zRPo+TkoQkiVLZU9ZtLs7A=="/>
-
+		<!-- Cuivre Riche -->
+		<POI MapID="15" xpos="-953.789" ypos="19.4157" zpos="-582.04" type="recoltes.minerai.riche.cuivre" GUID="MKrvAMJY1E+HZ9xz01bycQ==" />
+		<POI MapID="15" xpos="-873.518" ypos="-24.9904" zpos="-567.045" type="recoltes.minerai.riche.cuivre" GUID="qlXbk+AJ5k+NmX/JUQmJmA==" />
+		<POI MapID="15" xpos="-797.776" ypos="2.70211" zpos="-600.641" type="recoltes.minerai.riche.cuivre" GUID="L0eh5cMvME2Y57z9axEJpg==" />
+		<POI MapID="15" xpos="-627.341" ypos="32.2284" zpos="-384.88" type="recoltes.minerai.riche.cuivre" GUID="Mbs6FtSX0UWow79r7+LBnQ==" />
+		<POI MapID="15" xpos="-151.482" ypos="27.4404" zpos="-351.058" type="recoltes.minerai.riche.cuivre" GUID="CVCVe66y90Skt5PTWafwOg==" />
+		<POI MapID="15" xpos="70.586" ypos="24.6428" zpos="-106.618" type="recoltes.minerai.riche.cuivre" GUID="4MMyxhgF7k6BC6GHzEN0kg==" />
+		<POI MapID="15" xpos="342.756" ypos="-2.98691" zpos="720.13" type="recoltes.minerai.riche.cuivre" GUID="2uy3NVhgpUGfoAQ/h/5kjg==" />
+		<POI MapID="15" xpos="630.534" ypos="1.86132" zpos="-378.363" type="recoltes.minerai.riche.cuivre" GUID="/944D49jFUyIzmjxK98uPA==" />
+		<POI MapID="15" xpos="687.874" ypos="60.4291" zpos="-642.499" type="recoltes.minerai.riche.cuivre" GUID="XVpnzA94RkC7HspCuLmG7w==" />
+		<POI MapID="19" xpos="-1076.14" ypos="34.269" zpos="-332.646" type="recoltes.minerai.riche.cuivre" GUID="kL+swIkeIkmbnbZoii9JCw==" />
+		<POI MapID="19" xpos="-831.513" ypos="59.0054" zpos="-471.432" type="recoltes.minerai.riche.cuivre" GUID="nlIaUHN54EyZWJQ/9d6B+Q==" />
+		<POI MapID="19" xpos="-572.353" ypos="26.2187" zpos="-268.253" type="recoltes.minerai.riche.cuivre" GUID="gRAUIACXxUCPCimhxTjT+w==" />
+		<POI MapID="19" xpos="-484.056" ypos="57.2442" zpos="-394.092" type="recoltes.minerai.riche.cuivre" GUID="MrYbGE65Pk2tjthOvjdX8Q==" />
+		<POI MapID="19" xpos="-298.267" ypos="3.5073" zpos="-466.979" type="recoltes.minerai.riche.cuivre" GUID="d7yd184R4UidiHCJ4QrbOQ==" />
+		<POI MapID="19" xpos="140.968" ypos="2.97163" zpos="-6.98778" type="recoltes.minerai.riche.cuivre" GUID="JJXxumIXuk6ouWP/2dwWpg==" />
+		<POI MapID="19" xpos="251.932" ypos="-15.0769" zpos="-336.054" type="recoltes.minerai.riche.cuivre" GUID="s6Xq0QRArk+aVAH5lbe2hA==" />
+		<POI MapID="19" xpos="462.041" ypos="37.5345" zpos="577.085" type="recoltes.minerai.riche.cuivre" GUID="TbpkVag96EKt69yuORYLGw==" />
+		<POI MapID="19" xpos="1029.92" ypos="55.0612" zpos="-587.562" type="recoltes.minerai.riche.cuivre" GUID="IZ9fMiupj060pmnZj15wfw==" />
+		<POI MapID="28" xpos="-236.301" ypos="110.545" zpos="-147.615" type="recoltes.minerai.riche.cuivre" GUID="STEmYMkPw06Seb/9xObDlA==" />
+		<POI MapID="34" xpos="-508.926" ypos="14.6217" zpos="1062.7" type="recoltes.minerai.riche.cuivre" GUID="z3kOibEoOEOOYMUmCMu3OA==" />
+		<POI MapID="34" xpos="-228.339" ypos="1.63996" zpos="1214.78" type="recoltes.minerai.riche.cuivre" GUID="kmA9BhAT9UOmSElYf8U3xw==" />
+		<POI MapID="34" xpos="-30.9961" ypos="23.2821" zpos="218.771" type="recoltes.minerai.riche.cuivre" GUID="N+9D3VonWU2Y90rTbrfafQ==" />
+		<POI MapID="34" xpos="-7.89005" ypos="11.6066" zpos="376.106" type="recoltes.minerai.riche.cuivre" GUID="hMP4ge+az0GGc78XQ4WMmw==" />
+		<POI MapID="34" xpos="-4.13968" ypos="4.3569" zpos="-230.451" type="recoltes.minerai.riche.cuivre" GUID="MfdlGy9Ud0OWRnUR4fYRTg==" />
+		<POI MapID="34" xpos="142.993" ypos="6.59523" zpos="37.54" type="recoltes.minerai.riche.cuivre" GUID="cYXLiChTzUOwDYYX+fmc5g==" />
+		<POI MapID="34" xpos="330.036" ypos="-25.3626" zpos="85.9093" type="recoltes.minerai.riche.cuivre" GUID="hb/cnNNUHEWFxWV+uxDpbQ==" />
+		<POI MapID="34" xpos="381.564" ypos="3" zpos="1168.63" type="recoltes.minerai.riche.cuivre" GUID="aGor4d4wJkKNI2VSdKF/Ng==" />
+		<POI MapID="34" xpos="530.033" ypos="12.7725" zpos="1171.37" type="recoltes.minerai.riche.cuivre" GUID="qlHtK02+MkOrodkUG/PzuA==" />
+		<!-- Fer Riche -->
+		<POI MapID="17" xpos="-869.914" ypos="131.818" zpos="-140.505" type="recoltes.minerai.riche.fer" GUID="QBY4/UU2FUqw22myaypftw==" />
+		<POI MapID="17" xpos="-115.712" ypos="8.34091" zpos="-330.8" type="recoltes.minerai.riche.fer" GUID="/gvPtQN7102DamgNO5YorQ==" />
+		<POI MapID="17" xpos="78.3727" ypos="60.0939" zpos="424.43" type="recoltes.minerai.riche.fer" GUID="dy6/sVtBxE26lETLooJFLA==" />
+		<POI MapID="17" xpos="638.069" ypos="60.6967" zpos="19.7374" type="recoltes.minerai.riche.fer" GUID="E9PD0WsEPkKwPotNtGioIQ==" />
+		<POI MapID="17" xpos="922.315" ypos="137.955" zpos="483.909" type="recoltes.minerai.riche.fer" GUID="8rYAxbaiCUaS/Wqpc1+yAQ==" />
+		<POI MapID="20" xpos="-385.515" ypos="23.2191" zpos="-192.34" type="recoltes.minerai.riche.fer" GUID="eQ0MrNI27EO41ljPS35CEg==" />
+		<POI MapID="20" xpos="111.571" ypos="32.5687" zpos="-81.096" type="recoltes.minerai.riche.fer" GUID="7P/iBYvQYUWAFSdQhOjU+g==" />
+		<POI MapID="20" xpos="426.928" ypos="70.4729" zpos="-712.507" type="recoltes.minerai.riche.fer" GUID="RXYuZ3mORkGZZYQqGm2j8w==" />
+		<POI MapID="20" xpos="578.926" ypos="9.21015" zpos="-490.874" type="recoltes.minerai.riche.fer" GUID="i0JWAeGE4Ee95y43z1l64Q==" />
+		<POI MapID="20" xpos="-581.818" ypos="20.9583" zpos="-1055.66" type="recoltes.minerai.riche.fer" GUID="Gy4yf8lOp0mXKC7e4CnW9w==" />
+		<POI MapID="21" xpos="-817.802" ypos="22.7006" zpos="-263.968" type="recoltes.minerai.riche.fer" GUID="v6LigtCarUyLetbvtd4f2g==" />
+		<POI MapID="21" xpos="-759.73" ypos="44.11" zpos="265.71" type="recoltes.minerai.riche.fer" GUID="ud9O504sQ0e3/AN5ybzblg==" />
+		<POI MapID="21" xpos="722.627" ypos="52.8014" zpos="-698.951" type="recoltes.minerai.riche.fer" GUID="SJuyEriw/0eWVCsp1y3W9A==" />
+		<POI MapID="21" xpos="732.911" ypos="30.9211" zpos="262.238" type="recoltes.minerai.riche.fer" GUID="bnQ0wk7uWEi8OwWMEK0X0w==" />
+		<POI MapID="21" xpos="844.119" ypos="31.2771" zpos="502.543" type="recoltes.minerai.riche.fer" GUID="NARwGC2BtE+BwYR7kqeHgg==" />
+		<POI MapID="23" xpos="-1102.32" ypos="43.3713" zpos="23.9304" type="recoltes.minerai.riche.fer" GUID="vwVDlLQSWkmUsYD3D5+idQ==" />
+		<POI MapID="23" xpos="761.713" ypos="21.4116" zpos="-289.833" type="recoltes.minerai.riche.fer" GUID="NXPk6A/L80+zNVXOZ6xv0Q==" />
+		<POI MapID="23" xpos="796.209" ypos="35.3172" zpos="-518.984" type="recoltes.minerai.riche.fer" GUID="YcskRp4AUEaFJ58AONQDRQ==" />
+		<POI MapID="24" xpos="-1206.77" ypos="29.2536" zpos="-435.567" type="recoltes.minerai.riche.fer" GUID="HXeC3y/y2kSiGjD76vYgrg==" />
+		<POI MapID="24" xpos="-1162.07" ypos="37.8193" zpos="-14.982" type="recoltes.minerai.riche.fer" GUID="MSE06p05/UK9loB5eqv3BA==" />
+		<POI MapID="24" xpos="133.046" ypos="32.283" zpos="92.9932" type="recoltes.minerai.riche.fer" GUID="zHLKIC71oEWlI24S8zjISQ==" />
+		<POI MapID="24" xpos="647.502" ypos="1.37476" zpos="-149.639" type="recoltes.minerai.riche.fer" GUID="ZAZtiVyR2Eamb/ZHxwS6uQ==" />
+		<POI MapID="24" xpos="885.215" ypos="65.1938" zpos="-432.424" type="recoltes.minerai.riche.fer" GUID="hRDV0nu6VU2Ng05TgENgLA==" />
+		<POI MapID="26" xpos="-579.361" ypos="53.4506" zpos="-530.058" type="recoltes.minerai.riche.fer" GUID="ElaiBUi5/E++Fa6SjmDMFg==" />
+		<POI MapID="26" xpos="-474.946" ypos="15.4618" zpos="-888.782" type="recoltes.minerai.riche.fer" GUID="6ec5equt4kutFq2f3y6eXQ==" />
+		<POI MapID="26" xpos="-443.992" ypos="75.9215" zpos="859.612" type="recoltes.minerai.riche.fer" GUID="AfNsY1zTdEyhgGbezsvpyg==" />
+		<POI MapID="26" xpos="-249.897" ypos="65.4925" zpos="607.188" type="recoltes.minerai.riche.fer" GUID="aL6uwxEXcUWONVwM9ChjSQ==" />
+		<POI MapID="26" xpos="-148.39" ypos="41.0655" zpos="550.149" type="recoltes.minerai.riche.fer" GUID="ZReNmf2Xa0exuTHZdV8s3g==" />
+		<POI MapID="26" xpos="-131.141" ypos="115.197" zpos="-226.783" type="recoltes.minerai.riche.fer" GUID="wQi2lE83GkOt8jxX+ZDPJg==" />
+		<POI MapID="26" xpos="-37.8056" ypos="116.31" zpos="-332.365" type="recoltes.minerai.riche.fer" GUID="Z9janNiYvk+eGorYYPxw8g==" />
+		<POI MapID="26" xpos="563.935" ypos="34.6828" zpos="433.549" type="recoltes.minerai.riche.fer" GUID="ka9Z74wJE06OM9AhF1rGKA==" />
+		<POI MapID="26" xpos="629.37" ypos="62.2301" zpos="-664.17" type="recoltes.minerai.riche.fer" GUID="yX7MrA4u0UCciyeDWo368Q==" />
+		<POI MapID="27" xpos="-496.172" ypos="80.13" zpos="-403.778" type="recoltes.minerai.riche.fer" GUID="MFhCNASDR02aJBEPtStDzQ==" />
+		<POI MapID="27" xpos="-128.531" ypos="126.587" zpos="1401.59" type="recoltes.minerai.riche.fer" GUID="+G/Q9CKVL0qfeQ8YSSB+Tw==" />
+		<POI MapID="27" xpos="-71.2427" ypos="55.7773" zpos="-460.405" type="recoltes.minerai.riche.fer" GUID="1GkSR+k9kUaPvJsB+iZFqg==" />
+		<POI MapID="27" xpos="90.1796" ypos="139.932" zpos="132.98" type="recoltes.minerai.riche.fer" GUID="bOZJ3+VLf0GBjsOtOPPeeQ==" />
+		<POI MapID="27" xpos="144.85" ypos="143.75" zpos="174.47" type="recoltes.minerai.riche.fer" GUID="LX6B1bsxzUaWMciGdUXaZA==" />
+		<POI MapID="27" xpos="209.719" ypos="148.052" zpos="30.1103" type="recoltes.minerai.riche.fer" GUID="JWuzyV3aSUuyHID9gdSFJQ==" />
+		<POI MapID="27" xpos="340.37" ypos="104.193" zpos="-496.548" type="recoltes.minerai.riche.fer" GUID="IXtROKxkt0OoE3y3W8fRyg==" />
+		<POI MapID="27" xpos="421.161" ypos="140.416" zpos="106.932" type="recoltes.minerai.riche.fer" GUID="4LH+S/dYeEWpq03am1IoHQ==" />
+		<POI MapID="27" xpos="432.35" ypos="118.46" zpos="685.282" type="recoltes.minerai.riche.fer" GUID="tiKDAqYIxEeEmVKpTpQ8iw==" />
+		<POI MapID="27" xpos="488.184" ypos="162.375" zpos="-1249.53" type="recoltes.minerai.riche.fer" GUID="lBUWVUKDdEO/2I96PUYbvw==" />
+		<POI MapID="29" xpos="616.004" ypos="24.1499" zpos="910.217" type="recoltes.minerai.riche.fer" GUID="cQJyObpuIkum0OXLvODnCw==" />
+		<POI MapID="31" xpos="-508.834" ypos="34.3976" zpos="-568.888" type="recoltes.minerai.riche.fer" GUID="MeFMcS1RSEuCLzQ6n6WBhA==" />
+		<POI MapID="31" xpos="286.647" ypos="33.3189" zpos="24.1939" type="recoltes.minerai.riche.fer" GUID="EaWxENBH50y/4QN1dndgJg==" />
+		<POI MapID="31" xpos="375.015" ypos="37.9679" zpos="147.743" type="recoltes.minerai.riche.fer" GUID="tssoVOXmJEK8OkUttxjCWg==" />
+		<POI MapID="31" xpos="733.189" ypos="38.7099" zpos="-96.7205" type="recoltes.minerai.riche.fer" GUID="XO2MAHt9e0i5od1TQk8rjw==" />
+		<POI MapID="32" xpos="-966.848" ypos="94.2479" zpos="-196.959" type="recoltes.minerai.riche.fer" GUID="dPV+qO6BykasVTAqmewSqg==" />
+		<POI MapID="32" xpos="133.783" ypos="62.5091" zpos="-619.262" type="recoltes.minerai.riche.fer" GUID="SpSvscd9Z06pP5BhVMWxjQ==" />
+		<POI MapID="54" xpos="-746.437" ypos="36.1168" zpos="506.274" type="recoltes.minerai.riche.fer" GUID="x5HTd6LR9ESjUZhZdtYY7g==" />
+		<POI MapID="54" xpos="-673.81" ypos="80.4317" zpos="241.425" type="recoltes.minerai.riche.fer" GUID="EVByCeiMBU+W1row4/Vn9w==" />
+		<POI MapID="54" xpos="-668.419" ypos="20.1911" zpos="-747.999" type="recoltes.minerai.riche.fer" GUID="mkMIZQMQzkyuD9inSOk+lg==" />
+		<POI MapID="54" xpos="-110.52" ypos="42.1373" zpos="57.2665" type="recoltes.minerai.riche.fer" GUID="w1YQeXD3+kqxDd8twFegvQ==" />
+		<POI MapID="54" xpos="626.351" ypos="92.4799" zpos="93.5915" type="recoltes.minerai.riche.fer" GUID="wq2428faFkq88638/jnMKw==" />
+		<POI MapID="73" xpos="-477.308" ypos="-41.2774" zpos="125.216" type="recoltes.minerai.riche.fer" GUID="l7J0tH6f7kepxFpfELiPrA==" />
+		<!-- Argent Riche -->
+		<POI MapID="21" xpos="-843.683" ypos="9.81607" zpos="245.563" type="recoltes.minerai.riche.argent" GUID="/oZ88RsiOEu2NdRNPD2wSw==" />
+		<POI MapID="21" xpos="-329.892" ypos="27.5582" zpos="530.954" type="recoltes.minerai.riche.argent" GUID="QsFbYhmHGUihbXLid3me4w==" />
+		<POI MapID="21" xpos="531.073" ypos="58.7352" zpos="429.261" type="recoltes.minerai.riche.argent" GUID="J2xkayhEg02CP5k9gnYrqg==" />
+		<POI MapID="21" xpos="544.459" ypos="6.17759" zpos="819.969" type="recoltes.minerai.riche.argent" GUID="LH/MtNoQVUKHF25IHNuMlQ==" />
+		<POI MapID="23" xpos="-1102.32" ypos="45.3713" zpos="23.9304" type="recoltes.minerai.riche.argent" GUID="XK0gjOYAf0GfI+yUjSvDlg==" />
+		<POI MapID="23" xpos="-1010.28" ypos="60.961" zpos="-308.64" type="recoltes.minerai.riche.argent" GUID="0tcJZleV2kKbmQeJshtx7A==" />
+		<POI MapID="23" xpos="-1001.68" ypos="17.7006" zpos="-586.406" type="recoltes.minerai.riche.argent" GUID="DK2kJVa7Pk6rMscJ7YdlTA==" />
+		<POI MapID="23" xpos="-478.084" ypos="-117.572" zpos="-68.388" type="recoltes.minerai.riche.argent" GUID="i0jBv7JLv0GxESQvxAsc9A==" />
+		<POI MapID="23" xpos="-191.469" ypos="41.8901" zpos="332.404" type="recoltes.minerai.riche.argent" GUID="M87ohv/uDEGGoZbGMDbG9g==" />
+		<POI MapID="23" xpos="-91.0694" ypos="52.5134" zpos="-334.331" type="recoltes.minerai.riche.argent" GUID="UxVZaqoBl0aKgb65CJeTYg==" />
+		<POI MapID="24" xpos="-360.576" ypos="-28.448" zpos="-340.168" type="recoltes.minerai.riche.argent" GUID="/bIbzTcdfEi1ZZCemNW3xg==" />
+		<POI MapID="24" xpos="1167.87" ypos="78.0132" zpos="-502.487" type="recoltes.minerai.riche.argent" GUID="ShD4DfZO9UGSM+crP+fN2Q==" />
+		<POI MapID="27" xpos="-519.121" ypos="83.0987" zpos="641.836" type="recoltes.minerai.riche.argent" GUID="2avcO/jLjUuDjKEv3cZ+iA==" />
+		<POI MapID="27" xpos="-478.745" ypos="78.6823" zpos="-379.484" type="recoltes.minerai.riche.argent" GUID="MLLWAX59w0qfp83OdXrzcg==" />
+		<POI MapID="27" xpos="-222.494" ypos="-44.0302" zpos="-941.955" type="recoltes.minerai.riche.argent" GUID="7XjrEx8rTUK2l7BFg0PDrQ==" />
+		<POI MapID="27" xpos="-122.316" ypos="44.5758" zpos="-925.649" type="recoltes.minerai.riche.argent" GUID="i8CTaZGFQk2IUp4iPSdbEw==" />
+		<POI MapID="27" xpos="-71.1406" ypos="55.0715" zpos="-459.174" type="recoltes.minerai.riche.argent" GUID="w7qyDfnqtUmixbsBnG6Cxw==" />
+		<POI MapID="31" xpos="-874.384" ypos="55.0459" zpos="-491.369" type="recoltes.minerai.riche.argent" GUID="xHZ36m86G02Ptv8TGcEh6A==" />
+		<POI MapID="31" xpos="-355.498" ypos="72.0531" zpos="-327.976" type="recoltes.minerai.riche.argent" GUID="FQDVdd1kIEqEzmaIqWpEUA==" />
+		<POI MapID="31" xpos="-281.743" ypos="4.46358" zpos="-138.738" type="recoltes.minerai.riche.argent" GUID="FPBKXuTbmk2QviBykdVLMQ==" />
+		<POI MapID="31" xpos="-62.1092" ypos="16.516" zpos="-269.737" type="recoltes.minerai.riche.argent" GUID="rPqJq3UenEuk6uherpEWag==" />
+		<POI MapID="31" xpos="148.313" ypos="92.4149" zpos="357.306" type="recoltes.minerai.riche.argent" GUID="xVtWENDl6USpR28rWsWOOQ==" />
+		<POI MapID="31" xpos="697.892" ypos="81.1504" zpos="-366.487" type="recoltes.minerai.riche.argent" GUID="CDUX3KsNHUmO1+U/OC9k+g==" />
+		<POI MapID="32" xpos="-103.985" ypos="78.1651" zpos="116.874" type="recoltes.minerai.riche.argent" GUID="sH4gBpMOf0q565JfQXD4gw==" />
+		<POI MapID="32" xpos="146.894" ypos="32.3879" zpos="-585.096" type="recoltes.minerai.riche.argent" GUID="UWV82+0/z0etV9CoAifhcQ==" />
+		<POI MapID="32" xpos="147.44" ypos="72.2063" zpos="502.35" type="recoltes.minerai.riche.argent" GUID="jdgdiSntTkGBmNuhL8bjMQ==" />
+		<POI MapID="32" xpos="603.888" ypos="9.55025" zpos="601.194" type="recoltes.minerai.riche.argent" GUID="ad/AmYV0qkmWKvz7X4t5LA==" />
+		<POI MapID="32" xpos="900.632" ypos="38.407" zpos="121.808" type="recoltes.minerai.riche.argent" GUID="iy8ZNlJE1k2cocl70Kdq6Q==" />
+		<POI MapID="32" xpos="940.366" ypos="-15.9232" zpos="-452.35" type="recoltes.minerai.riche.argent" GUID="m36235rxI0mCNf4PD+uQ0A==" />
+		<POI MapID="54" xpos="-834.169" ypos="3.13072" zpos="89.0593" type="recoltes.minerai.riche.argent" GUID="+sFlIOTpEEacX3JMPQJN7w==" />
+		<POI MapID="54" xpos="-448.159" ypos="5.68871" zpos="-476.126" type="recoltes.minerai.riche.argent" GUID="oCrT1N2u1U6miIl0N1djqw==" />
+		<POI MapID="54" xpos="-367.353" ypos="27.1462" zpos="694.734" type="recoltes.minerai.riche.argent" GUID="wpbHpWIyGE+8JH5XskqC8A==" />
+		<POI MapID="54" xpos="256.99" ypos="19.8752" zpos="-386.727" type="recoltes.minerai.riche.argent" GUID="jItMlrfqPkO4ZoL26JlcWA==" />
+		<POI MapID="54" xpos="294.567" ypos="64.2006" zpos="104.679" type="recoltes.minerai.riche.argent" GUID="YXHVlc4ChEO3ec73mypEWA==" />
+		<!-- Or Riche -->
+		<POI MapID="17" xpos="-682.577" ypos="117.724" zpos="-663.226" type="recoltes.minerai.riche.or" GUID="DfcEmym0qkWyi0Czxt/yvg==" />
+		<POI MapID="17" xpos="-446.459" ypos="57.61" zpos="735.64" type="recoltes.minerai.riche.or" GUID="M6vq3mK0d0qJc8IAzn1xag==" />
+		<POI MapID="17" xpos="-284.351" ypos="21.0113" zpos="167.657" type="recoltes.minerai.riche.or" GUID="SUcVBO5rEUGuNBXI1Fm6Vg==" />
+		<POI MapID="17" xpos="949.757" ypos="185.921" zpos="591.171" type="recoltes.minerai.riche.or" GUID="2ZE8mEdtZE2gKwSMxYlzcQ==" />
+		<POI MapID="17" xpos="970.697" ypos="91.1195" zpos="269.354" type="recoltes.minerai.riche.or" GUID="Sv6bt3vFtEiTHipFulsBOA==" />
+		<POI MapID="20" xpos="-524.557" ypos="70.9481" zpos="685.321" type="recoltes.minerai.riche.or" GUID="pltcAi1F80qRRWWP7A6Tsw==" />
+		<POI MapID="21" xpos="879.928" ypos="17.9268" zpos="271.004" type="recoltes.minerai.riche.or" GUID="MsPeoKnQQ06xkepzNN0vcA==" />
+		<POI MapID="26" xpos="-588.215" ypos="70.9567" zpos="860.325" type="recoltes.minerai.riche.or" GUID="YlG6Bd4+pkaw22RCWCOoUA==" />
+		<POI MapID="26" xpos="-530.883" ypos="31.3636" zpos="-827.331" type="recoltes.minerai.riche.or" GUID="2dXajBKj0Em5TxwC3RKsXg==" />
+		<POI MapID="26" xpos="-497.08" ypos="105.957" zpos="-513.775" type="recoltes.minerai.riche.or" GUID="xW3Se+eiMk2nwe/bJF7Vqw==" />
+		<POI MapID="26" xpos="-478.825" ypos="92.8629" zpos="140.366" type="recoltes.minerai.riche.or" GUID="B3tVN6iLmkej4TFNObZQhA==" />
+		<POI MapID="26" xpos="-329.855" ypos="118.204" zpos="-345.9" type="recoltes.minerai.riche.or" GUID="ebZfu+XoNk+jTpn9OoGN4Q==" />
+		<POI MapID="26" xpos="-228.336" ypos="109.886" zpos="-878.918" type="recoltes.minerai.riche.or" GUID="O2sjG9LIW0KEshifm63U9w==" />
+		<POI MapID="26" xpos="347.952" ypos="113.613" zpos="-815.021" type="recoltes.minerai.riche.or" GUID="tVpgbbukEE2N1h7WoAAlFA==" />
+		<POI MapID="26" xpos="605.987" ypos="29.0749" zpos="433.536" type="recoltes.minerai.riche.or" GUID="AhQ6/mnTHU+L2MTzAtvxSQ==" />
+		<POI MapID="27" xpos="-395.973" ypos="59.6615" zpos="-1364.34" type="recoltes.minerai.riche.or" GUID="YVo6cArwJkC5gaM6rQctgw==" />
+		<!-- Platine Riche -->
+		<POI MapID="22" xpos="-736.175" ypos="-65.3893" zpos="304.423" type="recoltes.minerai.riche.platine" GUID="39F87cAt602ujt2VlLeAFg==" />
+		<POI MapID="22" xpos="-483.911" ypos="60.2078" zpos="311.21" type="recoltes.minerai.riche.platine" GUID="Pd5UTLFz5UO8olhPwrL3yw==" />
+		<POI MapID="22" xpos="238.752" ypos="24.9205" zpos="496.369" type="recoltes.minerai.riche.platine" GUID="P2NuuvMMhk+deVjFq3xrog==" />
+		<POI MapID="22" xpos="382.319" ypos="26.4397" zpos="-616.293" type="recoltes.minerai.riche.platine" GUID="SmFkRE8xtUKtevV8IutbHg==" />
+		<POI MapID="22" xpos="403.875" ypos="29.5052" zpos="481.374" type="recoltes.minerai.riche.platine" GUID="1z5s2JSBN0qYpYGk2iud8w==" />
+		<POI MapID="22" xpos="891.469" ypos="44.3114" zpos="4.16448" type="recoltes.minerai.riche.platine" GUID="/1nXFfhli0WxAlapOG1jNQ==" />
+		<POI MapID="22" xpos="913.278" ypos="19.0603" zpos="3.13387" type="recoltes.minerai.riche.platine" GUID="xPah4LrWi02rJ0V/OkF12w==" />
+		<POI MapID="22" xpos="963.325" ypos="28.5344" zpos="-130.428" type="recoltes.minerai.riche.platine" GUID="rt25XJkkSU2/ALu/ONbecQ==" />
+		<POI MapID="25" xpos="-555.265" ypos="81.7042" zpos="-1087.75" type="recoltes.minerai.riche.platine" GUID="Z8kgbUZ9hE2sMbQ5h3iLWg==" />
+		<POI MapID="25" xpos="-331.938" ypos="64.5473" zpos="17.4145" type="recoltes.minerai.riche.platine" GUID="uYAOu3ok5UiVFok7zAKutg==" />
+		<POI MapID="25" xpos="-249.069" ypos="21.2665" zpos="1124.82" type="recoltes.minerai.riche.platine" GUID="SzYvwm3JaE+vD4aXvtLlLw==" />
+		<POI MapID="25" xpos="283.784" ypos="-27.4235" zpos="-845.802" type="recoltes.minerai.riche.platine" GUID="PEo9hqJhx0a9mEp0xAWlSw==" />
+		<POI MapID="25" xpos="563.567" ypos="0.772861" zpos="1164.66" type="recoltes.minerai.riche.platine" GUID="whhcXEsv20+ejgsYzxM9bw==" />
+		<POI MapID="29" xpos="-566.11" ypos="1.38405" zpos="358.282" type="recoltes.minerai.riche.platine" GUID="bHDiM9xRgk6m06z1jW9aPg==" />
+		<POI MapID="29" xpos="-479.178" ypos="5.46" zpos="400.874" type="recoltes.minerai.riche.platine" GUID="o6CuHRSu5Eyt+LpjyHzj6g==" />
+		<POI MapID="29" xpos="-118.145" ypos="59.4208" zpos="198.917" type="recoltes.minerai.riche.platine" GUID="1rr9a/3DI0iDBPLvQe1CNw==" />
+		<POI MapID="29" xpos="-108.454" ypos="-0.301803" zpos="838.178" type="recoltes.minerai.riche.platine" GUID="s7cjLo8w20ycS69eGRiBeg==" />
+		<POI MapID="29" xpos="453.245" ypos="21.2024" zpos="842.986" type="recoltes.minerai.riche.platine" GUID="8TO+BcQxpUW9Db58s+8DcQ==" />
+		<POI MapID="29" xpos="499.344" ypos="6.81969" zpos="988.07" type="recoltes.minerai.riche.platine" GUID="r7PhLnlka0Op7FiQc/59pA==" />
+		<POI MapID="29" xpos="616.004" ypos="24.1499" zpos="910.217" type="recoltes.minerai.riche.platine" GUID="cQJyObpuIkum0OXLvODnCw==" />
+		<POI MapID="29" xpos="624.191" ypos="86.6931" zpos="172.587" type="recoltes.minerai.riche.platine" GUID="+2JuovPmZk+w+svvyogJRw==" />
+		<POI MapID="29" xpos="669.948" ypos="26.8301" zpos="1008.06" type="recoltes.minerai.riche.platine" GUID="oF8wqYU96kaa0nKUYd9rdw==" />
+		<POI MapID="29" xpos="685.546" ypos="34.1298" zpos="-546.086" type="recoltes.minerai.riche.platine" GUID="FBRi7YiYcE21c2n1xGi21A==" />
+		<POI MapID="39" xpos="-1084.14" ypos="64.0676" zpos="176.582" type="recoltes.minerai.riche.platine" GUID="cn0u3Ar59Ui9TEvIbE0+9g==" />
+		<POI MapID="39" xpos="-1076.95" ypos="56.5449" zpos="304.654" type="recoltes.minerai.riche.platine" GUID="ucNieTWFWkakzSDl+zBjFA==" />
+		<POI MapID="39" xpos="-935.593" ypos="2.3296" zpos="-409.661" type="recoltes.minerai.riche.platine" GUID="cuTXr08p1Um0mcs4kXKL8g==" />
+		<POI MapID="39" xpos="-591.446" ypos="108.722" zpos="-645.548" type="recoltes.minerai.riche.platine" GUID="cJg3x+t0+EuNIfEa+PwI+g==" />
+		<POI MapID="39" xpos="-365.092" ypos="15.574" zpos="-178.405" type="recoltes.minerai.riche.platine" GUID="bLgjQpV8KEK6r9o89TWTxw==" />
+		<POI MapID="39" xpos="-323.575" ypos="7.29835" zpos="-358.893" type="recoltes.minerai.riche.platine" GUID="a+t86dpQBkmB2YI62wQ04A==" />
+		<POI MapID="39" xpos="745.056" ypos="-40.8854" zpos="92.2397" type="recoltes.minerai.riche.platine" GUID="fCziFQlSxUW7x4Xmzri+Jg==" />
+		<POI MapID="53" xpos="-644.142" ypos="105.563" zpos="469.099" type="recoltes.minerai.riche.platine" GUID="gF1f77d5hUCKBZ9NJYQIyw==" />
+		<POI MapID="53" xpos="-541.22" ypos="51.4636" zpos="289.722" type="recoltes.minerai.riche.platine" GUID="7JE/TuW9B02Xb9HFJubScg==" />
+		<POI MapID="53" xpos="-522.979" ypos="12.2044" zpos="86.786" type="recoltes.minerai.riche.platine" GUID="DBqbvuOpVkyi0dP9NoZ2Ig==" />
+		<POI MapID="53" xpos="-366.909" ypos="25.0684" zpos="307.952" type="recoltes.minerai.riche.platine" GUID="tiJYKSMTzUevsGWs3YMB/w==" />
+		<POI MapID="53" xpos="-352.669" ypos="-15.4025" zpos="-227.001" type="recoltes.minerai.riche.platine" GUID="4iAfJxZV60ScNEdvmDTq6g==" />
+		<POI MapID="53" xpos="-177.781" ypos="40.7752" zpos="-408.313" type="recoltes.minerai.riche.platine" GUID="A2ztK5hNWkOnLHgGpSlXFQ==" />
+		<POI MapID="53" xpos="476.394" ypos="71.0057" zpos="228.228" type="recoltes.minerai.riche.platine" GUID="y2SZyWzoeUCrqOOSXR1V9Q==" />
+		<POI MapID="73" xpos="-297.9" ypos="-83.001" zpos="621.29" type="recoltes.minerai.riche.platine" GUID="zgSyFfflZ0Kei4Q+QS6iuA==" />
+		<POI MapID="73" xpos="27.8035" ypos="74.8872" zpos="-406.118" type="recoltes.minerai.riche.platine" GUID="jiMwVpDGQ0eS4hQtr9B6Mw==" />
+		<POI MapID="73" xpos="374.325" ypos="8.79241" zpos="-142.112" type="recoltes.minerai.riche.platine" GUID="UE9LdMj+WE2RJ6VjYL8r5g==" />
+		<POI MapID="73" xpos="462.712" ypos="12.2719" zpos="490.674" type="recoltes.minerai.riche.platine" GUID="BxT8+vrG3kSiG3VkuDq7Nw==" />
+		<POI MapID="73" xpos="642.75" ypos="4.75138" zpos="-248.605" type="recoltes.minerai.riche.platine" GUID="zpG4fYQHTEOBix3ml1jGOg==" />
+		<POI MapID="73" xpos="723" ypos="24.2719" zpos="504.524" type="recoltes.minerai.riche.platine" GUID="DoHMIHexrUObic50vwrqxA==" />
+		<!-- Mithril Riche -->
+		<POI MapID="30" xpos="-663.799" ypos="-206.006" zpos="135.837" type="recoltes.minerai.riche.mithril" GUID="KBov9KTI70yztPSJkM3VnA==" />
+		<POI MapID="30" xpos="-564.659" ypos="-127.367" zpos="-629.017" type="recoltes.minerai.riche.mithril" GUID="ROSHNMe4IkCv4HA5aDC3kg==" />
+		<POI MapID="30" xpos="-507.671" ypos="-133.528" zpos="-230.454" type="recoltes.minerai.riche.mithril" GUID="bZCaRncpv0OERWwg8xF+fg==" />
+		<POI MapID="30" xpos="-48.7564" ypos="-55.1613" zpos="170.858" type="recoltes.minerai.riche.mithril" GUID="EP5lMniDzE+PlTKO+q6//A==" />
+		<POI MapID="30" xpos="55.1181" ypos="-189.729" zpos="720.37" type="recoltes.minerai.riche.mithril" GUID="q49j6QB+jE2m+RtzA0/Twg==" />
+		<POI MapID="30" xpos="603.905" ypos="51.2661" zpos="471.314" type="recoltes.minerai.riche.mithril" GUID="lhlmUSs6i0up4Vtw8p+f8w==" />
+		<POI MapID="30" xpos="670.173" ypos="15.3911" zpos="-19.6497" type="recoltes.minerai.riche.mithril" GUID="zz+HIixYYUqn19DyhbnNJg==" />
+		<POI MapID="39" xpos="388.329" ypos="-141.632" zpos="-45.1813" type="recoltes.minerai.riche.mithril" GUID="KzBWvMEBAE2qeVOLn8JR1w==" />
+		<POI MapID="51" xpos="-816.974" ypos="60.3161" zpos="-669.993" type="recoltes.minerai.riche.mithril" GUID="g0DBmtOzW0W4uyVPB961XA==" />
+		<POI MapID="51" xpos="-652.897" ypos="-136.823" zpos="663.898" type="recoltes.minerai.riche.mithril" GUID="EPRktRKMJku3OPSMWRFFjQ==" />
+		<POI MapID="51" xpos="-562.571" ypos="114.212" zpos="-511.43" type="recoltes.minerai.riche.mithril" GUID="Jmb3yKOrSEep0soweXCKJA==" />
+		<POI MapID="51" xpos="469.022" ypos="-92.5443" zpos="-1.16759" type="recoltes.minerai.riche.mithril" GUID="RAeJNwmoW0aV56843yDjlA==" />
+		<POI MapID="51" xpos="651.724" ypos="53.5915" zpos="836.399" type="recoltes.minerai.riche.mithril" GUID="BJLmX1rPokmD7CFswghanQ==" />
+		<POI MapID="62" xpos="-489.132" ypos="-91.0644" zpos="28.2905" type="recoltes.minerai.riche.mithril" GUID="RYkV0pO3NEKwphx1t1TlZw==" />
+		<POI MapID="62" xpos="-482.218" ypos="36.2804" zpos="-860.499" type="recoltes.minerai.riche.mithril" GUID="Unsh40b5hkii/LgBCmxpWw==" />
+		<POI MapID="62" xpos="-448.958" ypos="-102.603" zpos="28.1369" type="recoltes.minerai.riche.mithril" GUID="6zkgGmiPhUibzLFIDZ95Aw==" />
+		<POI MapID="62" xpos="-261.763" ypos="-70.4355" zpos="-116.383" type="recoltes.minerai.riche.mithril" GUID="WV5iXM1AtE+fS0KhOHDfGg==" />
+		<POI MapID="62" xpos="-135.273" ypos="59.4455" zpos="-849.18" type="recoltes.minerai.riche.mithril" GUID="1vMH94dVxkCjf3GNrrPqIQ==" />
+		<POI MapID="62" xpos="109.723" ypos="20.4131" zpos="275.004" type="recoltes.minerai.riche.mithril" GUID="+wQQkQNJiUSAzN1z4ygLDg==" />
+		<POI MapID="62" xpos="113.901" ypos="27.5894" zpos="327.487" type="recoltes.minerai.riche.mithril" GUID="tEFLcsHKYEiHRVbNZiPrbg==" />
+		<POI MapID="62" xpos="232.839" ypos="5.65284" zpos="-33.6991" type="recoltes.minerai.riche.mithril" GUID="naSauyrIqU2/ISh3NApa2g==" />
+		<POI MapID="62" xpos="319.191" ypos="-43.46" zpos="-1145.43" type="recoltes.minerai.riche.mithril" GUID="q525r0w9qUma54MdgSvMrw==" />
+		<POI MapID="65" xpos="-839.416" ypos="9.02904" zpos="158.546" type="recoltes.minerai.riche.mithril" GUID="Gek2NepS4Um7ubYAvWQsyA==" />
+		<POI MapID="65" xpos="-130.429" ypos="39.9935" zpos="-364.29" type="recoltes.minerai.riche.mithril" GUID="Iysex9lyH0eiso9VC2YN6Q==" />
+		<POI MapID="65" xpos="736.408" ypos="38.4059" zpos="-521.372" type="recoltes.minerai.riche.mithril" GUID="cpNSTD8T6UukHCsyqRi22A==" />
+		<POI MapID="65" xpos="832.592" ypos="10.4343" zpos="312.375" type="recoltes.minerai.riche.mithril" GUID="zFBZrZst50WJuNrvhrR1UQ==" />
+		<POI MapID="65" xpos="1122.19" ypos="16.0634" zpos="451.326" type="recoltes.minerai.riche.mithril" GUID="PJS0nDx/R02dDo1Zi2BZKA==" />
+		<POI MapID="873" xpos="-428.484" ypos="46.0828" zpos="-202.881" type="recoltes.minerai.riche.mithril" GUID="xAsMDi5opEqDQWGzt9gyiw==" />
+		<POI MapID="873" xpos="-326.545" ypos="53.4414" zpos="-139.726" type="recoltes.minerai.riche.mithril" GUID="EvKJYtj/IkuMdsYj8JKjeg==" />
+		<POI MapID="873" xpos="394.406" ypos="53.0375" zpos="-16.5215" type="recoltes.minerai.riche.mithril" GUID="OH1lZGoJBkai4zQfgqRA/A==" />
+		<POI MapID="873" xpos="417.347" ypos="53.1604" zpos="-63.3434" type="recoltes.minerai.riche.mithril" GUID="7jUsl6U26k2o9KCJaLjfDA==" />
+		<POI MapID="873" xpos="466.355" ypos="51.0579" zpos="-52.0911" type="recoltes.minerai.riche.mithril" GUID="ewl9mY70AUKMkFYdfV7sAg==" />
+		<POI MapID="988" xpos="-422.59" ypos="18.1703" zpos="-207.866" type="recoltes.minerai.riche.mithril" GUID="RDYvLiPCREOl6ZfuDZ5y+A==" />
+		<POI MapID="988" xpos="-266.977" ypos="17.9687" zpos="-9.64683" type="recoltes.minerai.riche.mithril" GUID="ErV+El176ki1Bek2U1L0xg==" />
+		<POI MapID="988" xpos="-249.175" ypos="11.6666" zpos="-769.21" type="recoltes.minerai.riche.mithril" GUID="QIY1cOz9/UueoVOE9K/S0w==" />
+		<POI MapID="988" xpos="252.281" ypos="3.44367" zpos="-161.123" type="recoltes.minerai.riche.mithril" GUID="laW9NXWPhEqkq8U7Ufw6KA==" />
+		<POI MapID="1015" xpos="-365.6" ypos="425.758" zpos="-202.903" type="recoltes.minerai.riche.mithril" GUID="BL8oxMjPhkyzzPcvnV2lRA==" />
+		<POI MapID="1015" xpos="-318.608" ypos="433.457" zpos="-63.0507" type="recoltes.minerai.riche.mithril" GUID="5OleZ6GbqUG8WcMsxxTsug==" />
+		<POI MapID="1015" xpos="-293.428" ypos="427.235" zpos="224.089" type="recoltes.minerai.riche.mithril" GUID="HXBIglaSlkGzFfp4jhbAMA==" />
+		<POI MapID="1015" xpos="-82.6368" ypos="416.473" zpos="-215.076" type="recoltes.minerai.riche.mithril" GUID="OC4OcYtPD0SqZWnuKBSdsg==" />
+		<POI MapID="1015" xpos="-16.1743" ypos="403.958" zpos="232.561" type="recoltes.minerai.riche.mithril" GUID="lHJLu8qCwkihReC9sITAIA==" />
+		<POI MapID="1015" xpos="-14.9393" ypos="419.08" zpos="45.9888" type="recoltes.minerai.riche.mithril" GUID="izE2FvAV/Emc46+Q+g/PAw==" />
+		<POI MapID="1015" xpos="-10.4266" ypos="403.803" zpos="198.487" type="recoltes.minerai.riche.mithril" GUID="LKZBbsQ2WE2jPHq7ruOmNg==" />
+		<POI MapID="1015" xpos="-1.69966" ypos="416" zpos="-349.618" type="recoltes.minerai.riche.mithril" GUID="cnVPf2oiB0+bjYArzKdRFQ==" />
+		<POI MapID="1015" xpos="11.3506" ypos="415.197" zpos="-250.861" type="recoltes.minerai.riche.mithril" GUID="2GoNB4DxK0qiDc1+2YRVRg==" />
+		<POI MapID="1015" xpos="28.0952" ypos="406.119" zpos="364.611" type="recoltes.minerai.riche.mithril" GUID="AgfRsZlBSEaTnbsU5s7xMw==" />
+		<POI MapID="1015" xpos="88.1049" ypos="416.329" zpos="431.541" type="recoltes.minerai.riche.mithril" GUID="70000n3k5Eus7JIa2FNPPg==" />
+		<POI MapID="1015" xpos="191.656" ypos="414.764" zpos="-208.903" type="recoltes.minerai.riche.mithril" GUID="2HRPhAIG90SDuVshzjxhzw==" />
+		<POI MapID="1015" xpos="209.823" ypos="414.836" zpos="144.971" type="recoltes.minerai.riche.mithril" GUID="dyCRTibqAkmQd2RXLfnuRg==" />
+		<POI MapID="1015" xpos="231.592" ypos="397.732" zpos="-57.8699" type="recoltes.minerai.riche.mithril" GUID="7bmYsagl5UmOC0UTPWO71A==" />
+		<POI MapID="1015" xpos="415.144" ypos="413.658" zpos="-405.094" type="recoltes.minerai.riche.mithril" GUID="N/PRrESzJ06qBNU9cRQ7EA==" />
+		<POI MapID="1015" xpos="460.618" ypos="390.825" zpos="-14.1253" type="recoltes.minerai.riche.mithril" GUID="BluXRh/+Q02qQPt5iAy9NQ==" />
+		<POI MapID="1041" xpos="545.02" ypos="135.179" zpos="213.288" type="recoltes.minerai.riche.mithril" GUID="5OKDOr1NJ0qObpOwjyvebg==" />
+		<POI MapID="1043" xpos="-285.346" ypos="334.718" zpos="-17.514" type="recoltes.minerai.riche.mithril" GUID="1KCP3Y6c80WLL/fE3B1khA==" />
+		<POI MapID="1045" xpos="-778.932" ypos="48.3841" zpos="-479.138" type="recoltes.minerai.riche.mithril" GUID="DIEMTyhunkmDrgpneOUnmw==" />
+		<POI MapID="1045" xpos="-539.943" ypos="88.1611" zpos="213.968" type="recoltes.minerai.riche.mithril" GUID="TmEgvd88KUqWn15fTVCdSA==" />
+		<POI MapID="1045" xpos="-529.933" ypos="-148.996" zpos="472.326" type="recoltes.minerai.riche.mithril" GUID="IyeCJLjvr06lvQ7EzvyVaA==" />
+		<POI MapID="1045" xpos="-484.972" ypos="79.8723" zpos="-243.019" type="recoltes.minerai.riche.mithril" GUID="VSfGi3Em2UqTxQZ4+yxZqQ==" />
+		<POI MapID="1045" xpos="-418.982" ypos="110.54" zpos="469.515" type="recoltes.minerai.riche.mithril" GUID="tgymNf/UQECmq6zHxN7L3A==" />
+		<POI MapID="1045" xpos="-294.743" ypos="-166.134" zpos="170.17" type="recoltes.minerai.riche.mithril" GUID="luwvJTMgV0yY8+mBcSPNYw==" />
+		<POI MapID="1045" xpos="6.11762" ypos="35.3757" zpos="-153.47" type="recoltes.minerai.riche.mithril" GUID="b4+02WvfLkeGRbwnAfKJiA==" />
+		<POI MapID="1045" xpos="145.321" ypos="17.9684" zpos="28.3021" type="recoltes.minerai.riche.mithril" GUID="dWzXvHbJBEOLr+0zrGxdvg==" />
+		<POI MapID="1045" xpos="247.973" ypos="2.82394" zpos="160.479" type="recoltes.minerai.riche.mithril" GUID="UXPNTYW1YEWnyR1b3IpXbA==" />
+		<POI MapID="1052" xpos="-445.751" ypos="545.185" zpos="-270.617" type="recoltes.minerai.riche.mithril" GUID="HzZbZ5jz8EiwEkHg9CzdKA==" />
+		<POI MapID="1052" xpos="254.232" ypos="594.711" zpos="-183.288" type="recoltes.minerai.riche.mithril" GUID="CgWhYtwO0ki/QeIiod0DdA==" />
+		<POI MapID="1052" xpos="504.503" ypos="34.6531" zpos="-27.2272" type="recoltes.minerai.riche.mithril" GUID="+5Y8Ih8gDUuYh3UKXyUraA==" />
+		<POI MapID="1052" xpos="560.489" ypos="387.301" zpos="240.643" type="recoltes.minerai.riche.mithril" GUID="HrS2uqcEJkKB6FMY3kRPcg==" />
+		<POI MapID="1052" xpos="630.115" ypos="425.911" zpos="168.706" type="recoltes.minerai.riche.mithril" GUID="frnLBZRWT021qj7kqWjq3A==" />
+		<POI MapID="1165" xpos="-328.863" ypos="119.894" zpos="-56.6411" type="recoltes.minerai.riche.mithril" GUID="3yjsArp2ZEK1FL+OHPa/Lg==" />
+		<POI MapID="1175" xpos="119.329" ypos="36.2871" zpos="25.4639" type="recoltes.minerai.riche.mithril" GUID="hiImc/lDw0GnKB6yCxa01g==" />
+		<POI MapID="1175" xpos="264.561" ypos="21.3322" zpos="-674.769" type="recoltes.minerai.riche.mithril" GUID="mxyouxEpTEi8W1bvy1/n2Q==" />
+		<POI MapID="1178" xpos="-392.113" ypos="36.231" zpos="-91.7576" type="recoltes.minerai.riche.mithril" GUID="6XNF29dAJUellW3stjPBXw==" />
+		<POI MapID="1185" xpos="-268.557" ypos="118.114" zpos="706.583" type="recoltes.minerai.riche.mithril" GUID="SRNM5zp5Pk+DLcCQoopNgQ==" />
+		<POI MapID="1185" xpos="-244.816" ypos="38.7293" zpos="-752.516" type="recoltes.minerai.riche.mithril" GUID="Q92W5HKRckif44ESJwXx2A==" />
+		<POI MapID="1185" xpos="133.587" ypos="73.8603" zpos="699.786" type="recoltes.minerai.riche.mithril" GUID="W7ghyW3JTEWq2Ss6ekMSgg==" />
+		<POI MapID="1185" xpos="164.075" ypos="65.505" zpos="-323.499" type="recoltes.minerai.riche.mithril" GUID="4L4XwdViY0GPche83l3z1A==" />
+		<POI MapID="1185" xpos="179.814" ypos="68.2566" zpos="-388.42" type="recoltes.minerai.riche.mithril" GUID="/w3J+ttYGUa37BfzO0G/Lw==" />
+		<POI MapID="1185" xpos="303.494" ypos="29.7042" zpos="-529.128" type="recoltes.minerai.riche.mithril" GUID="jabDig9qVEKCWAfMGL5Gmw==" />
+		<POI MapID="1185" xpos="308.074" ypos="192.547" zpos="763.656" type="recoltes.minerai.riche.mithril" GUID="9xnki1BbkE2KkxpN4omCNg==" />
+		<POI MapID="1185" xpos="374.255" ypos="6.72394" zpos="-708.289" type="recoltes.minerai.riche.mithril" GUID="7bCABGuAD0+Cs/dYZBFYjg==" />
+		<POI MapID="1195" xpos="-415.829" ypos="444.092" zpos="-512.17" type="recoltes.minerai.riche.mithril" GUID="ZOBBuT6C5kqW/O+Fu8d/eg==" />
+		<POI MapID="1195" xpos="-344.238" ypos="395.717" zpos="-600.657" type="recoltes.minerai.riche.mithril" GUID="QRO71CO2m0mLJqWXzJSHww==" />
+		<POI MapID="1195" xpos="-170.689" ypos="446.634" zpos="-530.852" type="recoltes.minerai.riche.mithril" GUID="RMQ1fe+L3U2m4ZN2RHFuJg==" />
+		<POI MapID="1195" xpos="-162.267" ypos="393.175" zpos="-610.184" type="recoltes.minerai.riche.mithril" GUID="lkISqQpypki+1EnCx3S8KQ==" />
+		<POI MapID="1195" xpos="-135.488" ypos="492.813" zpos="42.5797" type="recoltes.minerai.riche.mithril" GUID="btgZNq6HqkW7NRMVwkn4gA==" />
+		<POI MapID="1195" xpos="-98.5035" ypos="495.519" zpos="-28.4758" type="recoltes.minerai.riche.mithril" GUID="wTALyyfZ00OXkUbhhmks5A==" />
+		<POI MapID="1195" xpos="87.0662" ypos="655.197" zpos="116.828" type="recoltes.minerai.riche.mithril" GUID="eSpu9GYFqk+IeaG/7pEB6A==" />
+		<POI MapID="1195" xpos="432.919" ypos="487.195" zpos="36.1245" type="recoltes.minerai.riche.mithril" GUID="hiwCMQV6g06uVJ3Swi0TUg==" />
+		<POI MapID="1195" xpos="482.322" ypos="440.667" zpos="-77.708" type="recoltes.minerai.riche.mithril" GUID="uV3Y6ZIYFEivXKXsXOTcVA==" />
+		<POI MapID="1195" xpos="536.03" ypos="116.23" zpos="-423.45" type="recoltes.minerai.riche.mithril" GUID="Da/ymzXhS0uiKHKYXMN5iA==" />
+		<POI MapID="1210" xpos="1240.99" ypos="211.401" zpos="374.106" type="recoltes.minerai.riche.mithril" GUID="ptD7I1O2tUSZ7S0lgmNtmQ==" />
+		<POI MapID="1210" xpos="1260.17" ypos="77.4467" zpos="-13.9894" type="recoltes.minerai.riche.mithril" GUID="DOp38ktSkESDf4utbQOhyw==" />
+		<!-- Orichalque Riche -->
+		<POI MapID="1015" xpos="231.592" ypos="401" zpos="-57.8699" type="recoltes.minerai.riche.orichalque" GUID="qp/5Jiegwk+9JZwFNAy6uw==" />
+		<POI MapID="1045" xpos="-706.122" ypos="279.646" zpos="-455.726" type="recoltes.minerai.riche.orichalque" GUID="6xoEQYX2vkOQSQCWINg9Ew==" />
+		<POI MapID="1045" xpos="407.671" ypos="169.532" zpos="469.39" type="recoltes.minerai.riche.orichalque" GUID="YkaQFE+Z4Eq2S8ApU0DEMg==" />
+		<POI MapID="1045" xpos="471.318" ypos="40.4683" zpos="-139.264" type="recoltes.minerai.riche.orichalque" GUID="LD3nbCRnrUuMhHYl0Y4xrw==" />
+		<POI MapID="1045" xpos="744.673" ypos="95.0015" zpos="-150.301" type="recoltes.minerai.riche.orichalque" GUID="pZPTiMYxdEGW2stNqcds0Q==" />
+		<POI MapID="1185" xpos="-338.605" ypos="107.637" zpos="425.78" type="recoltes.minerai.riche.orichalque" GUID="+RC2C5n5M0SggVVy6Fl6EQ==" />
+		<POI MapID="1185" xpos="-257.518" ypos="108.874" zpos="651.683" type="recoltes.minerai.riche.orichalque" GUID="vdBdxJ1kgEORgeP9KYkwAQ==" />
+		<POI MapID="1185" xpos="-203.665" ypos="118.978" zpos="714.979" type="recoltes.minerai.riche.orichalque" GUID="lKVpqIqqr0mn1ydKVqD+3g==" />
+		<POI MapID="1185" xpos="10.1609" ypos="135.097" zpos="724.116" type="recoltes.minerai.riche.orichalque" GUID="NvN7a4Jnp0qomHFKStVdcg==" />
+		<POI MapID="1185" xpos="60.2947" ypos="83.2004" zpos="641.181" type="recoltes.minerai.riche.orichalque" GUID="LL0iDWNHCUyPi2LtGGnyPw==" />
+		<POI MapID="1185" xpos="66.3288" ypos="111.5" zpos="428.09" type="recoltes.minerai.riche.orichalque" GUID="iJFyA4O1mEeTMf9W4AMf1Q==" />
+		<POI MapID="1185" xpos="223.905" ypos="73.7246" zpos="-387.92" type="recoltes.minerai.riche.orichalque" GUID="jkibplXMjUyOAjxlq3FKTQ==" />
+		<POI MapID="1185" xpos="257.607" ypos="190.202" zpos="741.806" type="recoltes.minerai.riche.orichalque" GUID="lzqOhcgDgUOupFbw3l2/+g==" />
+		<POI MapID="1185" xpos="275.605" ypos="67.0615" zpos="-498.595" type="recoltes.minerai.riche.orichalque" GUID="2HuY5aTImk2MEqPd3zqVQA==" />
+		<POI MapID="1185" xpos="357.478" ypos="75.2903" zpos="-283.695" type="recoltes.minerai.riche.orichalque" GUID="8hz+ct1yME2WVgGa0hXNGA==" />
+		<POI MapID="1185" xpos="360.384" ypos="29.0505" zpos="-626.454" type="recoltes.minerai.riche.orichalque" GUID="WSKbGoBDH0SqFWXOv+u81g==" />
+		<POI MapID="1185" xpos="380.7" ypos="17.9" zpos="-517.07" type="recoltes.minerai.riche.orichalque" GUID="2DOgpcBwikySXEqG/ORsjg==" />
+		<POI MapID="1210" xpos="710.666" ypos="222.939" zpos="405.165" type="recoltes.minerai.riche.orichalque" GUID="16fX7gnVhkCmyRa9x5TL4A==" />
+		<POI MapID="1210" xpos="1407.54" ypos="105.93" zpos="-149.736" type="recoltes.minerai.riche.orichalque" GUID="ET8BxcFQekOpSgzQX5ngmw==" />
+		<!-- Cristaux de Quartz Riche -->
+		<POI MapID="988" xpos="-204.073" ypos="83.2905" zpos="-565.383" type="recoltes.minerai.riche.cristaux_de_quartz" GUID="OfP8AhHEhU+fHXj4DtOToQ==" />
+		<POI MapID="1210" xpos="1389.65" ypos="190.243" zpos="-261.584" type="recoltes.minerai.riche.cristaux_de_quartz" GUID="zRPo+TkoQkiVLZU9ZtLs7A==" />
 	</POIs>
 </OverlayData>

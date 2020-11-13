@@ -1,91 +1,83 @@
 <!-- 2020.05.28 -->
 <OverlayData>
 	<POIs>
-
 		<!-- DAUNTLESS DONATOR -->
-		<Trail type="festivals.dauntless_donator" GUID="gO8D5E71nEuSPo+yO0EIzg==" trailData="Data/Festivals/Wintersday/DauntlessDonator.trl"           texture="Data/Arrow.png"    color="ffffff00" alpha="0.8" fadeNear="1500" fadeFar="2000" animSpeed="0" mapDisplaySize="20"/>
-		<Trail type="festivals.dauntless_donator" GUID="hVCpaWjz50+HuGgRtuH6+Q==" trailData="Data/Festivals/Wintersday/DauntlessDonatorTransition.trl" texture="Data/SemiLine.png" color="ffffff00" alpha="0.8" fadeNear="1500" fadeFar="2000" animSpeed="0" mapDisplaySize="20" inGameVisibility="0"/>
-		<POI MapID="18" xpos="92.7347"  ypos="100.434" zpos="-477.016" type="festivals.dauntless_donator" GUID="EnETHJtDfUOWtaMAMQ5d7Q==" iconFile="Img/Festivals/OrphanStart.png" minSize="32" maxSize="40" heightOffset="0.5" behavior="0" mapDisplaySize="40"/>
-		<POI MapID="18" xpos="-357.621" ypos="60.9149" zpos="-155.48"  type="festivals.dauntless_donator" GUID="m78k+Rm4U0eFQ/GrJxWIhA==" mapDisplaySize="25"/>
-		<POI MapID="18" xpos="101.496"  ypos="100.431" zpos="-472.497" type="festivals.dauntless_donator" GUID="JK9QI0AOcE+ov/uk28YyzQ==" mapDisplaySize="25"/>
-		<POI MapID="18" xpos="170.815"  ypos="54.1336" zpos="-461.712" type="festivals.dauntless_donator" GUID="IJQX6Thw0UCRbFQCOVxF5w==" mapDisplaySize="25"/>
-		<POI MapID="18" xpos="148.273"  ypos="79.8994" zpos="-281.366" type="festivals.dauntless_donator" GUID="Xniaxqz1kE+syy6WDdpbow==" mapDisplaySize="25"/>
-		<POI MapID="18" xpos="265.589"  ypos="72.8114" zpos="-264.436" type="festivals.dauntless_donator" GUID="bt/r/ctv3Uaax4ynScY2Eg==" mapDisplaySize="25"/>
-		<POI MapID="18" xpos="275.862"  ypos="55.093"  zpos="-395.278" type="festivals.dauntless_donator" GUID="XJFy7H6KFEWDxmfRPDOuJA==" mapDisplaySize="25"/>
-		<POI MapID="18" xpos="372.973"  ypos="58.5128" zpos="-282.364" type="festivals.dauntless_donator" GUID="ljN7GA3ToUaSo2eBL769TA==" mapDisplaySize="25"/>
-		<POI MapID="18" xpos="440.475"  ypos="56.1307" zpos="-130.434" type="festivals.dauntless_donator" GUID="UTz90rsK80Wh86VTxHf/VA==" mapDisplaySize="25"/>
-		<POI MapID="18" xpos="513.776"  ypos="55.9895" zpos="-48.2249" type="festivals.dauntless_donator" GUID="A9Dxcf8+1UKVGs2ZGrWO8w==" mapDisplaySize="25"/>
-		<POI MapID="18" xpos="342.417"  ypos="55.7745" zpos="-67.2788" type="festivals.dauntless_donator" GUID="bDNLz/6dbUuY/KBlEmi40A==" mapDisplaySize="25"/>
-		<POI MapID="18" xpos="337.798"  ypos="57.9073" zpos="0.483428" type="festivals.dauntless_donator" GUID="DOKA7VWYiUWqklhGV2saRQ==" mapDisplaySize="25"/>
-		<POI MapID="18" xpos="484.898"  ypos="66.5882" zpos="76.5358"  type="festivals.dauntless_donator" GUID="IbEE+nsjRkao/9wwOucsZA==" mapDisplaySize="25"/>
-		<POI MapID="18" xpos="191.248"  ypos="80.0337" zpos="115.076"  type="festivals.dauntless_donator" GUID="cCFqkrNz2kGAa1RDOQWGbw==" mapDisplaySize="25"/>
-		<POI MapID="18" xpos="148.027"  ypos="139.064" zpos="-70.3664" type="festivals.dauntless_donator" GUID="1MYwK/YfK0qW4oW8VxBVtA==" mapDisplaySize="25"/>
-		<POI MapID="18" xpos="-1.63627" ypos="140.895" zpos="-33.81"   type="festivals.dauntless_donator" GUID="AtvzjsHPOkeQe0TalIhV+Q==" mapDisplaySize="25"/>
-		<POI MapID="18" xpos="-59.3389" ypos="79.9473" zpos="111.258"  type="festivals.dauntless_donator" GUID="q+o9cCwgEUSCQSjl7zBV4w==" mapDisplaySize="25"/>
-		<POI MapID="18" xpos="-34.2533" ypos="72.0478" zpos="239.988"  type="festivals.dauntless_donator" GUID="MV7DkONMYEymwWMTnOagsg==" mapDisplaySize="25"/>
-		<POI MapID="18" xpos="2.85101"  ypos="61.6317" zpos="338.876"  type="festivals.dauntless_donator" GUID="C0Zq3+6vdESp4L57qDNiyA==" mapDisplaySize="25"/>
-		<POI MapID="18" xpos="-116.932" ypos="52.9205" zpos="331.616"  type="festivals.dauntless_donator" GUID="TkYumrEGt0uhRfcO6teNJQ==" mapDisplaySize="25"/>
-		<POI MapID="18" xpos="-196.303" ypos="56.562"  zpos="186.911"  type="festivals.dauntless_donator" GUID="+3Pw1WRU60C6ZoeCHRJWIA==" mapDisplaySize="25"/>
-		<POI MapID="18" xpos="-247.491" ypos="62.4799" zpos="32.5367"  type="festivals.dauntless_donator" GUID="8IoTaZbVGkOFU2IN+5qV2Q==" mapDisplaySize="25"/>
-		<POI MapID="18" xpos="-352.985" ypos="63.9288" zpos="10.8551"  type="festivals.dauntless_donator" GUID="aekkzaKurUer/KGA1nvu+w==" mapDisplaySize="25"/>
-		<POI MapID="18" xpos="-145.259" ypos="79.8053" zpos="-44.8611" type="festivals.dauntless_donator" GUID="n0mXx56wm0CGUbi1hvRVrw==" mapDisplaySize="25"/>
-		<POI MapID="18" xpos="-264.12"  ypos="60.8554" zpos="-130.816" type="festivals.dauntless_donator" GUID="hnwCyEcyvUS8AhgF4wLsGQ==" mapDisplaySize="25"/>
-		<POI MapID="18" xpos="-206.488" ypos="59.5767" zpos="-287.118" type="festivals.dauntless_donator" GUID="WVcuaced4EuZL5FlV8An8Q==" mapDisplaySize="25"/>
-		<POI MapID="18" xpos="-77.5673" ypos="80.1235" zpos="-246.986" type="festivals.dauntless_donator" GUID="QWRq5v78J0SC9MemibF0Ug==" mapDisplaySize="25"/>
-		<POI MapID="18" xpos="16.0618"  ypos="79.9641" zpos="-284.912" type="festivals.dauntless_donator" GUID="fHs3uckeKEiTR2i8V9klLA==" mapDisplaySize="25"/>
-		<POI MapID="18" xpos="36.2641"  ypos="138.723" zpos="-254.044" type="festivals.dauntless_donator" GUID="k7tTDzjLvU+/sewu9PfnJQ==" mapDisplaySize="25"/>
-		<POI MapID="18" xpos="-188.675" ypos="66.0755" zpos="-184.127" type="festivals.dauntless_donator" GUID="XBdPX5qP8UGKS89XitBInA==" mapDisplaySize="25"/>
-		<POI MapID="18" xpos="-315.708" ypos="64.245"  zpos="-158.351" type="festivals.dauntless_donator" GUID="I8VbpUbRDUqcSr+oqDWOlg==" mapDisplaySize="25"/>
-		<POI MapID="18" xpos="35.4019"  ypos="138.712" zpos="-253.357" type="festivals.dauntless_donator" GUID="DnGXcjB4a0Wwp63GYHWazQ==" iconFile="Img/Signs/End.png" maxSize="16" heightOffset="0.7" mapDisplaySize="15"/>
-
+		<Trail type="festivals.dauntless_donator" GUID="gO8D5E71nEuSPo+yO0EIzg==" trailData="Data/Festivals/Wintersday/DauntlessDonator.trl" texture="Data/Arrow.png" color="ffffff00" alpha="0.8" fadeNear="1500" fadeFar="2000" animSpeed="0" mapDisplaySize="20" />
+		<Trail type="festivals.dauntless_donator" GUID="hVCpaWjz50+HuGgRtuH6+Q==" trailData="Data/Festivals/Wintersday/DauntlessDonatorTransition.trl" texture="Data/SemiLine.png" color="ffffff00" alpha="0.8" fadeNear="1500" fadeFar="2000" animSpeed="0" mapDisplaySize="20" inGameVisibility="0" />
+		<POI MapID="18" xpos="92.7347" ypos="100.434" zpos="-477.016" type="festivals.dauntless_donator" GUID="EnETHJtDfUOWtaMAMQ5d7Q==" iconFile="Img/Festivals/OrphanStart.png" minSize="32" maxSize="40" heightOffset="0.5" behavior="0" mapDisplaySize="40" />
+		<POI MapID="18" xpos="-357.621" ypos="60.9149" zpos="-155.48" type="festivals.dauntless_donator" GUID="m78k+Rm4U0eFQ/GrJxWIhA==" mapDisplaySize="25" />
+		<POI MapID="18" xpos="101.496" ypos="100.431" zpos="-472.497" type="festivals.dauntless_donator" GUID="JK9QI0AOcE+ov/uk28YyzQ==" mapDisplaySize="25" />
+		<POI MapID="18" xpos="170.815" ypos="54.1336" zpos="-461.712" type="festivals.dauntless_donator" GUID="IJQX6Thw0UCRbFQCOVxF5w==" mapDisplaySize="25" />
+		<POI MapID="18" xpos="148.273" ypos="79.8994" zpos="-281.366" type="festivals.dauntless_donator" GUID="Xniaxqz1kE+syy6WDdpbow==" mapDisplaySize="25" />
+		<POI MapID="18" xpos="265.589" ypos="72.8114" zpos="-264.436" type="festivals.dauntless_donator" GUID="bt/r/ctv3Uaax4ynScY2Eg==" mapDisplaySize="25" />
+		<POI MapID="18" xpos="275.862" ypos="55.093" zpos="-395.278" type="festivals.dauntless_donator" GUID="XJFy7H6KFEWDxmfRPDOuJA==" mapDisplaySize="25" />
+		<POI MapID="18" xpos="372.973" ypos="58.5128" zpos="-282.364" type="festivals.dauntless_donator" GUID="ljN7GA3ToUaSo2eBL769TA==" mapDisplaySize="25" />
+		<POI MapID="18" xpos="440.475" ypos="56.1307" zpos="-130.434" type="festivals.dauntless_donator" GUID="UTz90rsK80Wh86VTxHf/VA==" mapDisplaySize="25" />
+		<POI MapID="18" xpos="513.776" ypos="55.9895" zpos="-48.2249" type="festivals.dauntless_donator" GUID="A9Dxcf8+1UKVGs2ZGrWO8w==" mapDisplaySize="25" />
+		<POI MapID="18" xpos="342.417" ypos="55.7745" zpos="-67.2788" type="festivals.dauntless_donator" GUID="bDNLz/6dbUuY/KBlEmi40A==" mapDisplaySize="25" />
+		<POI MapID="18" xpos="337.798" ypos="57.9073" zpos="0.483428" type="festivals.dauntless_donator" GUID="DOKA7VWYiUWqklhGV2saRQ==" mapDisplaySize="25" />
+		<POI MapID="18" xpos="484.898" ypos="66.5882" zpos="76.5358" type="festivals.dauntless_donator" GUID="IbEE+nsjRkao/9wwOucsZA==" mapDisplaySize="25" />
+		<POI MapID="18" xpos="191.248" ypos="80.0337" zpos="115.076" type="festivals.dauntless_donator" GUID="cCFqkrNz2kGAa1RDOQWGbw==" mapDisplaySize="25" />
+		<POI MapID="18" xpos="148.027" ypos="139.064" zpos="-70.3664" type="festivals.dauntless_donator" GUID="1MYwK/YfK0qW4oW8VxBVtA==" mapDisplaySize="25" />
+		<POI MapID="18" xpos="-1.63627" ypos="140.895" zpos="-33.81" type="festivals.dauntless_donator" GUID="AtvzjsHPOkeQe0TalIhV+Q==" mapDisplaySize="25" />
+		<POI MapID="18" xpos="-59.3389" ypos="79.9473" zpos="111.258" type="festivals.dauntless_donator" GUID="q+o9cCwgEUSCQSjl7zBV4w==" mapDisplaySize="25" />
+		<POI MapID="18" xpos="-34.2533" ypos="72.0478" zpos="239.988" type="festivals.dauntless_donator" GUID="MV7DkONMYEymwWMTnOagsg==" mapDisplaySize="25" />
+		<POI MapID="18" xpos="2.85101" ypos="61.6317" zpos="338.876" type="festivals.dauntless_donator" GUID="C0Zq3+6vdESp4L57qDNiyA==" mapDisplaySize="25" />
+		<POI MapID="18" xpos="-116.932" ypos="52.9205" zpos="331.616" type="festivals.dauntless_donator" GUID="TkYumrEGt0uhRfcO6teNJQ==" mapDisplaySize="25" />
+		<POI MapID="18" xpos="-196.303" ypos="56.562" zpos="186.911" type="festivals.dauntless_donator" GUID="+3Pw1WRU60C6ZoeCHRJWIA==" mapDisplaySize="25" />
+		<POI MapID="18" xpos="-247.491" ypos="62.4799" zpos="32.5367" type="festivals.dauntless_donator" GUID="8IoTaZbVGkOFU2IN+5qV2Q==" mapDisplaySize="25" />
+		<POI MapID="18" xpos="-352.985" ypos="63.9288" zpos="10.8551" type="festivals.dauntless_donator" GUID="aekkzaKurUer/KGA1nvu+w==" mapDisplaySize="25" />
+		<POI MapID="18" xpos="-145.259" ypos="79.8053" zpos="-44.8611" type="festivals.dauntless_donator" GUID="n0mXx56wm0CGUbi1hvRVrw==" mapDisplaySize="25" />
+		<POI MapID="18" xpos="-264.12" ypos="60.8554" zpos="-130.816" type="festivals.dauntless_donator" GUID="hnwCyEcyvUS8AhgF4wLsGQ==" mapDisplaySize="25" />
+		<POI MapID="18" xpos="-206.488" ypos="59.5767" zpos="-287.118" type="festivals.dauntless_donator" GUID="WVcuaced4EuZL5FlV8An8Q==" mapDisplaySize="25" />
+		<POI MapID="18" xpos="-77.5673" ypos="80.1235" zpos="-246.986" type="festivals.dauntless_donator" GUID="QWRq5v78J0SC9MemibF0Ug==" mapDisplaySize="25" />
+		<POI MapID="18" xpos="16.0618" ypos="79.9641" zpos="-284.912" type="festivals.dauntless_donator" GUID="fHs3uckeKEiTR2i8V9klLA==" mapDisplaySize="25" />
+		<POI MapID="18" xpos="36.2641" ypos="138.723" zpos="-254.044" type="festivals.dauntless_donator" GUID="k7tTDzjLvU+/sewu9PfnJQ==" mapDisplaySize="25" />
+		<POI MapID="18" xpos="-188.675" ypos="66.0755" zpos="-184.127" type="festivals.dauntless_donator" GUID="XBdPX5qP8UGKS89XitBInA==" mapDisplaySize="25" />
+		<POI MapID="18" xpos="-315.708" ypos="64.245" zpos="-158.351" type="festivals.dauntless_donator" GUID="I8VbpUbRDUqcSr+oqDWOlg==" mapDisplaySize="25" />
+		<POI MapID="18" xpos="35.4019" ypos="138.712" zpos="-253.357" type="festivals.dauntless_donator" GUID="DnGXcjB4a0Wwp63GYHWazQ==" iconFile="Img/Signs/End.png" maxSize="16" heightOffset="0.7" mapDisplaySize="15" />
 		<!-- FINDERS KEEPERS -->
-		<Trail type="festivals.finders_keepers" GUID="nTB0cul8+ESpPIt/+w8upA==" trailData="Data/Festivals/Wintersday/FindersKeepers.trl" texture="Data/Arrow.png" color="ff0000ff" alpha="0.6" fadeNear="2000" fadeFar="2300" animSpeed="0" mapDisplaySize="20"/>
-		<POI MapID="18" xpos="-367.776" ypos="61.1434" zpos="-107.49" type="festivals.finders_keepers" GUID="7m0TxUZawUO8aWhi/WFTfw==" heightOffset="2.5"/>
-
+		<Trail type="festivals.finders_keepers" GUID="nTB0cul8+ESpPIt/+w8upA==" trailData="Data/Festivals/Wintersday/FindersKeepers.trl" texture="Data/Arrow.png" color="ff0000ff" alpha="0.6" fadeNear="2000" fadeFar="2300" animSpeed="0" mapDisplaySize="20" />
+		<POI MapID="18" xpos="-367.776" ypos="61.1434" zpos="-107.49" type="festivals.finders_keepers" GUID="7m0TxUZawUO8aWhi/WFTfw==" heightOffset="2.5" />
 		<!-- GOLDEN GENEROSITY (HO-HO-TRON) -->
-		<POI MapID="18" xpos="-367.776" ypos="61.1434" zpos="-107.49" type="festivals.golden_generosity" GUID="36S851OUiEK16I6J+xiaUA==" iconFile="Img/Festivals/HoHoTron.png" minSize="18" maxSize="32" heightOffset="3"/>
-
+		<POI MapID="18" xpos="-367.776" ypos="61.1434" zpos="-107.49" type="festivals.golden_generosity" GUID="36S851OUiEK16I6J+xiaUA==" iconFile="Img/Festivals/HoHoTron.png" minSize="18" maxSize="32" heightOffset="3" />
 		<!-- POLAR BONES -->
-		<Trail type="festivals.polar_bones" GUID="4ZE3Ng+wHU+7tXz53SqOzg==" trailData="Data/Festivals/Wintersday/PolarBones_DivinityReach.trl" texture="Data/Arrow.png" color="ff00ff00" alpha="0.8" fadeNear="2500" fadeFar="3000" animSpeed="0" mapDisplaySize="20"/>
-		<POI MapID="18" xpos="-269.66" ypos="60.8516" zpos="-134.438" type="festivals.polar_bones" GUID="ve9HMz/yfkWFHV8S7HCIGg==" heightOffset="0.5"/>
-		<POI MapID="18" xpos="-269.66" ypos="60.8516" zpos="-134.438" type="festivals.polar_bones" GUID="qDsU9DBrTUSkNyXTiI6oqA==" iconFile="Img/Festivals/PolarBones_DivinityReach.png" minSize="130" maxSize="140" fadeNear="800" fadeFar="1000" heightOffset="2" mapVisibility="0" miniMapVisibility="0"/>
+		<Trail type="festivals.polar_bones" GUID="4ZE3Ng+wHU+7tXz53SqOzg==" trailData="Data/Festivals/Wintersday/PolarBones_DivinityReach.trl" texture="Data/Arrow.png" color="ff00ff00" alpha="0.8" fadeNear="2500" fadeFar="3000" animSpeed="0" mapDisplaySize="20" />
+		<POI MapID="18" xpos="-269.66" ypos="60.8516" zpos="-134.438" type="festivals.polar_bones" GUID="ve9HMz/yfkWFHV8S7HCIGg==" heightOffset="0.5" />
+		<POI MapID="18" xpos="-269.66" ypos="60.8516" zpos="-134.438" type="festivals.polar_bones" GUID="qDsU9DBrTUSkNyXTiI6oqA==" iconFile="Img/Festivals/PolarBones_DivinityReach.png" minSize="130" maxSize="140" fadeNear="800" fadeFar="1000" heightOffset="2" mapVisibility="0" miniMapVisibility="0" />
 		<!-- Squad Instance -->
-		<Trail type="festivals.polar_bones" GUID="ww2mmhYKNkWuMYr+Wu7yyg==" trailData="Data/Festivals/Wintersday/PolarBones_Squad.trl" texture="Data/Arrow.png" color="ff00ff00" alpha="0.8" fadeNear="2500" fadeFar="3000" animSpeed="0" mapDisplaySize="20"/>
-		<POI MapID="1306" xpos="16.8655" ypos="22.3409"  zpos="-197.481" type="festivals.polar_bones" GUID="ifvPhJ50nEOzAAXV05KCoQ==" heightOffset="0.5"/>
-		<POI MapID="1306" xpos="16.8655" ypos="22.3409"  zpos="-197.481" type="festivals.polar_bones" GUID="zq8z8Jxwq02QikBJ5UMQvA==" iconFile="Img/Festivals/PolarBones_Instance.png" minSize="130" maxSize="140" fadeNear="1200" fadeFar="1400" heightOffset="2" mapVisibility="0" miniMapVisibility="0"/>
-		<POI MapID="1306" xpos="27.066"  ypos="0.836726" zpos="-35.8372" type="festivals.polar_bones" GUID="OASk3iVza0mR2i/Yrt1BDQ=="/>
+		<Trail type="festivals.polar_bones" GUID="ww2mmhYKNkWuMYr+Wu7yyg==" trailData="Data/Festivals/Wintersday/PolarBones_Squad.trl" texture="Data/Arrow.png" color="ff00ff00" alpha="0.8" fadeNear="2500" fadeFar="3000" animSpeed="0" mapDisplaySize="20" />
+		<POI MapID="1306" xpos="16.8655" ypos="22.3409" zpos="-197.481" type="festivals.polar_bones" GUID="ifvPhJ50nEOzAAXV05KCoQ==" heightOffset="0.5" />
+		<POI MapID="1306" xpos="16.8655" ypos="22.3409" zpos="-197.481" type="festivals.polar_bones" GUID="zq8z8Jxwq02QikBJ5UMQvA==" iconFile="Img/Festivals/PolarBones_Instance.png" minSize="130" maxSize="140" fadeNear="1200" fadeFar="1400" heightOffset="2" mapVisibility="0" miniMapVisibility="0" />
+		<POI MapID="1306" xpos="27.066" ypos="0.836726" zpos="-35.8372" type="festivals.polar_bones" GUID="OASk3iVza0mR2i/Yrt1BDQ==" />
 		<!-- Public Instance -->
-		<Trail type="festivals.polar_bones" GUID="o5AzBouR+UifnEtIsuUdhQ==" trailData="Data/Festivals/Wintersday/PolarBones_Public.trl" texture="Data/Arrow.png" color="ff00ff00" alpha="0.8" fadeNear="2500" fadeFar="3000" animSpeed="0" mapDisplaySize="20"/>
-		<POI MapID="1352" xpos="16.8655" ypos="22.3409"  zpos="-197.481" type="festivals.polar_bones" GUID="zLQD+b/Kxk2S+60baq4HZA==" heightOffset="0.5"/>
-		<POI MapID="1352" xpos="16.8655" ypos="22.3409"  zpos="-197.481" type="festivals.polar_bones" GUID="MBPppr5AyUWIMVMScS9vnw==" iconFile="Img/Festivals/PolarBones_Instance.png" minSize="130" maxSize="140" fadeNear="1200" fadeFar="1400" heightOffset="2" mapVisibility="0" miniMapVisibility="0"/>
-		<POI MapID="1352" xpos="27.066"  ypos="0.836726" zpos="-35.8372" type="festivals.polar_bones" GUID="zndMPjL+DkuloocLDtK5FA=="/>
-
+		<Trail type="festivals.polar_bones" GUID="o5AzBouR+UifnEtIsuUdhQ==" trailData="Data/Festivals/Wintersday/PolarBones_Public.trl" texture="Data/Arrow.png" color="ff00ff00" alpha="0.8" fadeNear="2500" fadeFar="3000" animSpeed="0" mapDisplaySize="20" />
+		<POI MapID="1352" xpos="16.8655" ypos="22.3409" zpos="-197.481" type="festivals.polar_bones" GUID="zLQD+b/Kxk2S+60baq4HZA==" heightOffset="0.5" />
+		<POI MapID="1352" xpos="16.8655" ypos="22.3409" zpos="-197.481" type="festivals.polar_bones" GUID="MBPppr5AyUWIMVMScS9vnw==" iconFile="Img/Festivals/PolarBones_Instance.png" minSize="130" maxSize="140" fadeNear="1200" fadeFar="1400" heightOffset="2" mapVisibility="0" miniMapVisibility="0" />
+		<POI MapID="1352" xpos="27.066" ypos="0.836726" zpos="-35.8372" type="festivals.polar_bones" GUID="zndMPjL+DkuloocLDtK5FA==" />
 		<!-- TIME TRIAL: SNOWFALL SPRINT -->
-		<Trail type="festivals.wintersdaytimetrial" GUID="NTH/2Pu6I0ae9Ttf5FooYw" trailData="Data/Festivals/Wintersday/TimeTrialSnowfallSprint.trl" texture="Data/Arrow.png" color="ff00ffff" alpha="0.8" fadeNear="2500" fadeFar="3000" animSpeed="0" mapDisplaySize="20"/>
-		<POI MapID="18" xpos="-240.634" ypos="59.2534" zpos="58.3849" type="festivals.wintersdaytimetrial" GUID="Avlp+u96j0SXfbBGE/h6KQ==" iconFile="Img/Icons/Adventure.png" maxSize="24" heightOffset="0.5" mapVisibility="0" miniMapVisibility="0"/>
-		<POI MapID="18" xpos="-214.74" ypos="60.2418" zpos="-207.501" type="festivals.wintersdaytimetrial" GUID="y4IbN4sA8EWrop7ngv5z2w==" iconFile="Img/Signs/End.png" maxSize="16" heightOffset="0.25" mapDisplaySize="15"/>
-
+		<Trail type="festivals.wintersdaytimetrial" GUID="NTH/2Pu6I0ae9Ttf5FooYw" trailData="Data/Festivals/Wintersday/TimeTrialSnowfallSprint.trl" texture="Data/Arrow.png" color="ff00ffff" alpha="0.8" fadeNear="2500" fadeFar="3000" animSpeed="0" mapDisplaySize="20" />
+		<POI MapID="18" xpos="-240.634" ypos="59.2534" zpos="58.3849" type="festivals.wintersdaytimetrial" GUID="Avlp+u96j0SXfbBGE/h6KQ==" iconFile="Img/Icons/Adventure.png" maxSize="24" heightOffset="0.5" mapVisibility="0" miniMapVisibility="0" />
+		<POI MapID="18" xpos="-214.74" ypos="60.2418" zpos="-207.501" type="festivals.wintersdaytimetrial" GUID="y4IbN4sA8EWrop7ngv5z2w==" iconFile="Img/Signs/End.png" maxSize="16" heightOffset="0.25" mapDisplaySize="15" />
 		<!-- ULLA'S RIVAL -->
-		<Trail type="festivals.ulla_s_rival" GUID="+8Jaxd5rbku/YXftnqti+Q==" trailData="Data/Festivals/Wintersday/UllasRival.trl" texture="Data/Arrow.png" color="ff00ffff" alpha="0.8" fadeNear="2500" fadeFar="3000" animSpeed="0" mapDisplaySize="20"/>
-		<POI MapID="18" xpos="-223.78" ypos="59.2541" zpos="78.8733"  type="festivals.ulla_s_rival" GUID="uogAcD0bE0m/m/vyTjKRuQ==" heightOffset="0.5"/>
-		<POI MapID="18" xpos="-214.74" ypos="60.2418" zpos="-207.501" type="festivals.ulla_s_rival" GUID="DxyLVKbrwUKoP+rqqdD1ZQ==" iconFile="Img/Signs/End.png" maxSize="16" heightOffset="0.25" mapDisplaySize="15"/>
-
+		<Trail type="festivals.ulla_s_rival" GUID="+8Jaxd5rbku/YXftnqti+Q==" trailData="Data/Festivals/Wintersday/UllasRival.trl" texture="Data/Arrow.png" color="ff00ffff" alpha="0.8" fadeNear="2500" fadeFar="3000" animSpeed="0" mapDisplaySize="20" />
+		<POI MapID="18" xpos="-223.78" ypos="59.2541" zpos="78.8733" type="festivals.ulla_s_rival" GUID="uogAcD0bE0m/m/vyTjKRuQ==" heightOffset="0.5" />
+		<POI MapID="18" xpos="-214.74" ypos="60.2418" zpos="-207.501" type="festivals.ulla_s_rival" GUID="DxyLVKbrwUKoP+rqqdD1ZQ==" iconFile="Img/Signs/End.png" maxSize="16" heightOffset="0.25" mapDisplaySize="15" />
 		<!-- WINTER WONDERLAND MASTERY -->
-		<Trail type="festivals.winter_wonderland_mastery" GUID="no5NM5gKT0a2owl2MXMrLg==" trailData="Data/Festivals/Wintersday/WinterWonderlandMastery_Part1_Left.trl"   texture="Data/Arrow.png" color="ffff6666" alpha="0.7" fadeNear="2000" fadeFar="2200" animSpeed="0"/>
-		<Trail type="festivals.winter_wonderland_mastery" GUID="sijfQ2N0gUuMU3sqRuYRKw==" trailData="Data/Festivals/Wintersday/WinterWonderlandMastery_Part1_Middle.trl" texture="Data/Arrow.png" color="ffff9900" alpha="0.7" fadeNear="2000" fadeFar="2200" animSpeed="0"/>
-		<Trail type="festivals.winter_wonderland_mastery" GUID="nrSYrHBMiEKc/xua4Q/obw==" trailData="Data/Festivals/Wintersday/WinterWonderlandMastery_Part1_Right.trl"  texture="Data/Arrow.png" color="ff00ff00" alpha="0.7" fadeNear="2000" fadeFar="2200" animSpeed="0"/>
-		<Trail type="festivals.winter_wonderland_mastery" GUID="Arp6jjNdikKeL3DRsWnZtQ==" trailData="Data/Festivals/Wintersday/WinterWonderlandMastery_Part2.trl"        texture="Data/Arrow.png" color="fffff666" alpha="0.7" fadeNear="2000" fadeFar="2200" animSpeed="0"/>
-		<Trail type="festivals.winter_wonderland_mastery" GUID="b1g4dcASDkmSgqnEghjw0g==" trailData="Data/Festivals/Wintersday/WinterWonderlandMastery_Part3.trl"        texture="Data/Arrow.png" color="fffff666" alpha="0.7" fadeNear="2000" fadeFar="2200" animSpeed="0"/>
-		<POI MapID="18"  xpos="-175.694" ypos="70.6702" zpos="-111.751" type="festivals.winter_wonderland_mastery" GUID="OniZmR2qz0efoiclKOYjCQ==" iconFile="Img/General/PuzzleStart.png"                          mapDisplaySize="40" mapVisibility="1" miniMapVisibility="1"/>
-		<POI MapID="882" xpos="-25.2768" ypos="34.0135" zpos="85.4812"  type="festivals.winter_wonderland_mastery" GUID="uKmzNNyMXE2nMfJxFd8J2A==" iconFile="Img/Festivals/WinterWonderlandMasteryQuaggan.png"     minSize="130" maxSize="140" fadeNear="1200" fadeFar="1600" heightOffset="0.5"/>
-		<POI MapID="882" xpos="-18.0967" ypos="33.8919" zpos="59.7864"  type="festivals.winter_wonderland_mastery" GUID="wgZcvY+uxEStwQLuoQUqqg==" iconFile="Img/Festivals/WinterWonderlandMasterySnowman.png"     minSize="130" maxSize="140" fadeNear="1200" fadeFar="1600" heightOffset="0.5"/>
-		<POI MapID="882" xpos="-6.03158" ypos="30.7344" zpos="35.5742"  type="festivals.winter_wonderland_mastery" GUID="OBsa5aH3JU6eKq/oOL07RQ==" iconFile="Img/Festivals/WinterWonderlandMasteryGingerbread.png" minSize="130" maxSize="140" fadeNear="1200" fadeFar="1600" heightOffset="0.5"/>
-		<POI MapID="882" xpos="-104.186" ypos="47.7029" zpos="-28.5254" type="festivals.winter_wonderland_mastery" GUID="Na+HAMICDUOLyJFs0wJ5CA==" iconFile="Img/Icons/FlagCheckpoint.png"                         maxSize="64" fadeNear="2000" fadeFar="2200" mapVisibility="0" miniMapVisibility="0"/>
-		<POI MapID="882" xpos="-120.533" ypos="53.0144" zpos="-77.168"  type="festivals.winter_wonderland_mastery" GUID="+5Icx/WYeUq4dgRBTY+smQ==" iconFile="Img/Signs/Dodge.png"                                  maxSize="64" fadeNear="2000" fadeFar="2200" mapVisibility="0" miniMapVisibility="0"/>
-		<POI MapID="882" xpos="-180.404" ypos="49.5267" zpos="-113.126" type="festivals.winter_wonderland_mastery" GUID="pPQbz/E5G0qwIxYllNo9Hw==" iconFile="Img/Signs/Wind.png"                                   maxSize="64" fadeNear="2000" fadeFar="2200" mapVisibility="0" miniMapVisibility="0"/>
-		<POI MapID="882" xpos="-177.952" ypos="49.7383" zpos="-118.819" type="festivals.winter_wonderland_mastery" GUID="cjyVQQjmPkODf5OVbb5V+Q==" iconFile="Img/Signs/Wind.png"                                   maxSize="64" fadeNear="2000" fadeFar="2200" mapVisibility="0" miniMapVisibility="0"/>
-		<POI MapID="882" xpos="-169.685" ypos="68.377"  zpos="-150.178" type="festivals.winter_wonderland_mastery" GUID="yZbbBV5h80GYEB6O3OqLBQ==" iconFile="Img/Icons/FlagFinal.png"                              maxSize="64" fadeNear="2000" fadeFar="2200" mapVisibility="0" miniMapVisibility="0"/>
-		<POI MapID="882" xpos="79.0155"  ypos="72.2076" zpos="99.3518"  type="festivals.winter_wonderland_mastery" GUID="uxIRyONyHEWVFttCCvMGYw==" iconFile="Img/General/PuzzleChest.png"                          maxSize="64" fadeNear="2000" fadeFar="2200" heightOffset="3.5"/>
-
+		<Trail type="festivals.winter_wonderland_mastery" GUID="no5NM5gKT0a2owl2MXMrLg==" trailData="Data/Festivals/Wintersday/WinterWonderlandMastery_Part1_Left.trl" texture="Data/Arrow.png" color="ffff6666" alpha="0.7" fadeNear="2000" fadeFar="2200" animSpeed="0" />
+		<Trail type="festivals.winter_wonderland_mastery" GUID="sijfQ2N0gUuMU3sqRuYRKw==" trailData="Data/Festivals/Wintersday/WinterWonderlandMastery_Part1_Middle.trl" texture="Data/Arrow.png" color="ffff9900" alpha="0.7" fadeNear="2000" fadeFar="2200" animSpeed="0" />
+		<Trail type="festivals.winter_wonderland_mastery" GUID="nrSYrHBMiEKc/xua4Q/obw==" trailData="Data/Festivals/Wintersday/WinterWonderlandMastery_Part1_Right.trl" texture="Data/Arrow.png" color="ff00ff00" alpha="0.7" fadeNear="2000" fadeFar="2200" animSpeed="0" />
+		<Trail type="festivals.winter_wonderland_mastery" GUID="Arp6jjNdikKeL3DRsWnZtQ==" trailData="Data/Festivals/Wintersday/WinterWonderlandMastery_Part2.trl" texture="Data/Arrow.png" color="fffff666" alpha="0.7" fadeNear="2000" fadeFar="2200" animSpeed="0" />
+		<Trail type="festivals.winter_wonderland_mastery" GUID="b1g4dcASDkmSgqnEghjw0g==" trailData="Data/Festivals/Wintersday/WinterWonderlandMastery_Part3.trl" texture="Data/Arrow.png" color="fffff666" alpha="0.7" fadeNear="2000" fadeFar="2200" animSpeed="0" />
+		<POI MapID="18" xpos="-175.694" ypos="70.6702" zpos="-111.751" type="festivals.winter_wonderland_mastery" GUID="OniZmR2qz0efoiclKOYjCQ==" iconFile="Img/General/PuzzleStart.png" mapDisplaySize="40" mapVisibility="1" miniMapVisibility="1" />
+		<POI MapID="882" xpos="-25.2768" ypos="34.0135" zpos="85.4812" type="festivals.winter_wonderland_mastery" GUID="uKmzNNyMXE2nMfJxFd8J2A==" iconFile="Img/Festivals/WinterWonderlandMasteryQuaggan.png" minSize="130" maxSize="140" fadeNear="1200" fadeFar="1600" heightOffset="0.5" />
+		<POI MapID="882" xpos="-18.0967" ypos="33.8919" zpos="59.7864" type="festivals.winter_wonderland_mastery" GUID="wgZcvY+uxEStwQLuoQUqqg==" iconFile="Img/Festivals/WinterWonderlandMasterySnowman.png" minSize="130" maxSize="140" fadeNear="1200" fadeFar="1600" heightOffset="0.5" />
+		<POI MapID="882" xpos="-6.03158" ypos="30.7344" zpos="35.5742" type="festivals.winter_wonderland_mastery" GUID="OBsa5aH3JU6eKq/oOL07RQ==" iconFile="Img/Festivals/WinterWonderlandMasteryGingerbread.png" minSize="130" maxSize="140" fadeNear="1200" fadeFar="1600" heightOffset="0.5" />
+		<POI MapID="882" xpos="-104.186" ypos="47.7029" zpos="-28.5254" type="festivals.winter_wonderland_mastery" GUID="Na+HAMICDUOLyJFs0wJ5CA==" iconFile="Img/Icons/FlagCheckpoint.png" maxSize="64" fadeNear="2000" fadeFar="2200" mapVisibility="0" miniMapVisibility="0" />
+		<POI MapID="882" xpos="-120.533" ypos="53.0144" zpos="-77.168" type="festivals.winter_wonderland_mastery" GUID="+5Icx/WYeUq4dgRBTY+smQ==" iconFile="Img/Signs/Dodge.png" maxSize="64" fadeNear="2000" fadeFar="2200" mapVisibility="0" miniMapVisibility="0" />
+		<POI MapID="882" xpos="-180.404" ypos="49.5267" zpos="-113.126" type="festivals.winter_wonderland_mastery" GUID="pPQbz/E5G0qwIxYllNo9Hw==" iconFile="Img/Signs/Wind.png" maxSize="64" fadeNear="2000" fadeFar="2200" mapVisibility="0" miniMapVisibility="0" />
+		<POI MapID="882" xpos="-177.952" ypos="49.7383" zpos="-118.819" type="festivals.winter_wonderland_mastery" GUID="cjyVQQjmPkODf5OVbb5V+Q==" iconFile="Img/Signs/Wind.png" maxSize="64" fadeNear="2000" fadeFar="2200" mapVisibility="0" miniMapVisibility="0" />
+		<POI MapID="882" xpos="-169.685" ypos="68.377" zpos="-150.178" type="festivals.winter_wonderland_mastery" GUID="yZbbBV5h80GYEB6O3OqLBQ==" iconFile="Img/Icons/FlagFinal.png" maxSize="64" fadeNear="2000" fadeFar="2200" mapVisibility="0" miniMapVisibility="0" />
+		<POI MapID="882" xpos="79.0155" ypos="72.2076" zpos="99.3518" type="festivals.winter_wonderland_mastery" GUID="uxIRyONyHEWVFttCCvMGYw==" iconFile="Img/General/PuzzleChest.png" maxSize="64" fadeNear="2000" fadeFar="2200" heightOffset="3.5" />
 	</POIs>
 </OverlayData>

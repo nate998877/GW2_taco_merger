@@ -1,62 +1,54 @@
 <!-- 2019.12.25 -->
 <OverlayData>
 	<POIs>
-
 		<!-- MONDAY -->
-		<POI MapID="22"   xpos="-817.277" ypos="3.68952" zpos="336.036"  type="assistances.pact_supply_network_agent.monday_verma_giftrender"      GUID="YYvLUcjy2Uminah4CIJVyg=="/>
-		<POI MapID="73"   xpos="411.119"  ypos="30.068"  zpos="870.92"   type="assistances.pact_supply_network_agent.monday_lady_derwena"          GUID="gS6IQBZCrkaQEemrfuR15A=="/>
-		<POI MapID="34"   xpos="-159.211" ypos="24.773"  zpos="750.207"  type="assistances.pact_supply_network_agent.monday_the_fox"               GUID="p/Ng2I/tkUCW4bCSDB0K0A=="/>
-		<POI MapID="988"  xpos="106.614"  ypos="41.6874" zpos="-216.678" type="assistances.pact_supply_network_agent.monday_mehem_the_traveled"    GUID="m8JevxWF30OsS51jdUn84Q=="/>
-		<POI MapID="51"   xpos="-544.688" ypos="38.1893" zpos="-147.801" type="assistances.pact_supply_network_agent.monday_specialist_yana"       GUID="RzKq6uIML0ispcVEb/jDCA=="/>
-		<POI MapID="30"   xpos="107.848"  ypos="78.48"   zpos="-313.01"  type="assistances.pact_supply_network_agent.monday_despina_katelyn"       GUID="GlLRBBiCoE6xTjeyAC1bUg=="/>
-
+		<POI MapID="22" xpos="-817.277" ypos="3.68952" zpos="336.036" type="assistances.pact_supply_network_agent.monday_verma_giftrender" GUID="YYvLUcjy2Uminah4CIJVyg==" />
+		<POI MapID="73" xpos="411.119" ypos="30.068" zpos="870.92" type="assistances.pact_supply_network_agent.monday_lady_derwena" GUID="gS6IQBZCrkaQEemrfuR15A==" />
+		<POI MapID="34" xpos="-159.211" ypos="24.773" zpos="750.207" type="assistances.pact_supply_network_agent.monday_the_fox" GUID="p/Ng2I/tkUCW4bCSDB0K0A==" />
+		<POI MapID="988" xpos="106.614" ypos="41.6874" zpos="-216.678" type="assistances.pact_supply_network_agent.monday_mehem_the_traveled" GUID="m8JevxWF30OsS51jdUn84Q==" />
+		<POI MapID="51" xpos="-544.688" ypos="38.1893" zpos="-147.801" type="assistances.pact_supply_network_agent.monday_specialist_yana" GUID="RzKq6uIML0ispcVEb/jDCA==" />
+		<POI MapID="30" xpos="107.848" ypos="78.48" zpos="-313.01" type="assistances.pact_supply_network_agent.monday_despina_katelyn" GUID="GlLRBBiCoE6xTjeyAC1bUg==" />
 		<!-- TUESDAY -->
-		<POI MapID="19"   xpos="-243.121" ypos="34.4939" zpos="85.4088"  type="assistances.pact_supply_network_agent.tuesday_verma_giftrender"     GUID="8FCnOpWxEE+4pw1sZ6Wi8A=="/>
-		<POI MapID="23"   xpos="1189.08"  ypos="50.1956" zpos="-270.805" type="assistances.pact_supply_network_agent.tuesday_lady_derwena"         GUID="agOoIZxDfEWextSbr588MQ=="/>
-		<POI MapID="35"   xpos="327.11"   ypos="12.7032" zpos="-65.482"  type="assistances.pact_supply_network_agent.tuesday_the_fox"              GUID="l8SF2jYcGEaeKFyPfxYn+Q=="/>
-		<POI MapID="1015" xpos="499.001"  ypos="415.029" zpos="-328.826" type="assistances.pact_supply_network_agent.tuesday_mehem_the_traveled"   GUID="lHzApB2Rx0ypX4cMS4vcog=="/>
-		<POI MapID="65"   xpos="1020.76"  ypos="9.04626" zpos="118.051"  type="assistances.pact_supply_network_agent.tuesday_specialist_yana"      GUID="DZ/yy86yX0OXGsyPzano7g=="/>
-		<POI MapID="26"   xpos="-335.124" ypos="66.7172" zpos="764.353"  type="assistances.pact_supply_network_agent.tuesday_despina_katelyn"      GUID="8SB9bwImL0m0ZCQflCRP5w=="/>
-
+		<POI MapID="19" xpos="-243.121" ypos="34.4939" zpos="85.4088" type="assistances.pact_supply_network_agent.tuesday_verma_giftrender" GUID="8FCnOpWxEE+4pw1sZ6Wi8A==" />
+		<POI MapID="23" xpos="1189.08" ypos="50.1956" zpos="-270.805" type="assistances.pact_supply_network_agent.tuesday_lady_derwena" GUID="agOoIZxDfEWextSbr588MQ==" />
+		<POI MapID="35" xpos="327.11" ypos="12.7032" zpos="-65.482" type="assistances.pact_supply_network_agent.tuesday_the_fox" GUID="l8SF2jYcGEaeKFyPfxYn+Q==" />
+		<POI MapID="1015" xpos="499.001" ypos="415.029" zpos="-328.826" type="assistances.pact_supply_network_agent.tuesday_mehem_the_traveled" GUID="lHzApB2Rx0ypX4cMS4vcog==" />
+		<POI MapID="65" xpos="1020.76" ypos="9.04626" zpos="118.051" type="assistances.pact_supply_network_agent.tuesday_specialist_yana" GUID="DZ/yy86yX0OXGsyPzano7g==" />
+		<POI MapID="26" xpos="-335.124" ypos="66.7172" zpos="764.353" type="assistances.pact_supply_network_agent.tuesday_despina_katelyn" GUID="8SB9bwImL0m0ZCQflCRP5w==" />
 		<!-- WEDNESDAY -->
-		<POI MapID="20"   xpos="84.2904"  ypos="3.92498" zpos="-1091.08" type="assistances.pact_supply_network_agent.wednesday_verma_giftrender"   GUID="H0JpTIGjnE2I2Y7PB9qAFA=="/>
-		<POI MapID="17"   xpos="634.677"  ypos="24.9649" zpos="-735.747" type="assistances.pact_supply_network_agent.wednesday_lady_derwena"       GUID="2N4uegk08EmFB/wDY4fcHQ=="/>
-		<POI MapID="53"   xpos="172.725"  ypos="5.15975" zpos="567.986"  type="assistances.pact_supply_network_agent.wednesday_the_fox"            GUID="9I+2Stop+EecfNdyoJwECA=="/>
-		<POI MapID="988"  xpos="293.476"  ypos="13.8297" zpos="-207.859" type="assistances.pact_supply_network_agent.wednesday_mehem_the_traveled" GUID="XF8FhH9+l0e2FSiPuFfK/A=="/>
-		<POI MapID="62"   xpos="92.3146"  ypos="32.1403" zpos="921.54"   type="assistances.pact_supply_network_agent.wednesday_specialist_yana"    GUID="pLs/3u+IfU6jYj9kERlV9w=="/>
-		<POI MapID="31"   xpos="-565.032" ypos="60.4288" zpos="-432.856" type="assistances.pact_supply_network_agent.wednesday_despina_katelyn"    GUID="l43ldke7eUCjAmJSwMkoFw=="/>
-
+		<POI MapID="20" xpos="84.2904" ypos="3.92498" zpos="-1091.08" type="assistances.pact_supply_network_agent.wednesday_verma_giftrender" GUID="H0JpTIGjnE2I2Y7PB9qAFA==" />
+		<POI MapID="17" xpos="634.677" ypos="24.9649" zpos="-735.747" type="assistances.pact_supply_network_agent.wednesday_lady_derwena" GUID="2N4uegk08EmFB/wDY4fcHQ==" />
+		<POI MapID="53" xpos="172.725" ypos="5.15975" zpos="567.986" type="assistances.pact_supply_network_agent.wednesday_the_fox" GUID="9I+2Stop+EecfNdyoJwECA==" />
+		<POI MapID="988" xpos="293.476" ypos="13.8297" zpos="-207.859" type="assistances.pact_supply_network_agent.wednesday_mehem_the_traveled" GUID="XF8FhH9+l0e2FSiPuFfK/A==" />
+		<POI MapID="62" xpos="92.3146" ypos="32.1403" zpos="921.54" type="assistances.pact_supply_network_agent.wednesday_specialist_yana" GUID="pLs/3u+IfU6jYj9kERlV9w==" />
+		<POI MapID="31" xpos="-565.032" ypos="60.4288" zpos="-432.856" type="assistances.pact_supply_network_agent.wednesday_despina_katelyn" GUID="l43ldke7eUCjAmJSwMkoFw==" />
 		<!-- THURSDAY -->
-		<POI MapID="25"   xpos="-407.726" ypos="48.831"  zpos="-605.592" type="assistances.pact_supply_network_agent.thursday_verma_giftrender"    GUID="are76Zqh7UawjIjib/eXAQ=="/>
-		<POI MapID="15"   xpos="-215.21"  ypos="9.96456" zpos="-42.2682" type="assistances.pact_supply_network_agent.thursday_lady_derwena"        GUID="KLoT2QcZzEyUgM0zFDdg9A=="/>
-		<POI MapID="54"   xpos="981.885"  ypos="72.6017" zpos="566.063"  type="assistances.pact_supply_network_agent.thursday_the_fox"             GUID="Z5jFsUn5vEKsVooYq38MWw=="/>
-		<POI MapID="1015" xpos="-313.712" ypos="430.654" zpos="93.4621"  type="assistances.pact_supply_network_agent.thursday_mehem_the_traveled"  GUID="EFE6B/w8PkGCf9XaDabbrg=="/>
-		<POI MapID="51"   xpos="576.076"  ypos="3.82338" zpos="213.604"  type="assistances.pact_supply_network_agent.thursday_specialist_yana"     GUID="Bqg/qEXc+kGoPlQ3qplSXQ=="/>
-		<POI MapID="27"   xpos="-204.732" ypos="82.8743" zpos="-178.24"  type="assistances.pact_supply_network_agent.thursday_despina_katelyn"     GUID="5bOLwchum0mLkX2ACpz1sQ=="/>
-
+		<POI MapID="25" xpos="-407.726" ypos="48.831" zpos="-605.592" type="assistances.pact_supply_network_agent.thursday_verma_giftrender" GUID="are76Zqh7UawjIjib/eXAQ==" />
+		<POI MapID="15" xpos="-215.21" ypos="9.96456" zpos="-42.2682" type="assistances.pact_supply_network_agent.thursday_lady_derwena" GUID="KLoT2QcZzEyUgM0zFDdg9A==" />
+		<POI MapID="54" xpos="981.885" ypos="72.6017" zpos="566.063" type="assistances.pact_supply_network_agent.thursday_the_fox" GUID="Z5jFsUn5vEKsVooYq38MWw==" />
+		<POI MapID="1015" xpos="-313.712" ypos="430.654" zpos="93.4621" type="assistances.pact_supply_network_agent.thursday_mehem_the_traveled" GUID="EFE6B/w8PkGCf9XaDabbrg==" />
+		<POI MapID="51" xpos="576.076" ypos="3.82338" zpos="213.604" type="assistances.pact_supply_network_agent.thursday_specialist_yana" GUID="Bqg/qEXc+kGoPlQ3qplSXQ==" />
+		<POI MapID="27" xpos="-204.732" ypos="82.8743" zpos="-178.24" type="assistances.pact_supply_network_agent.thursday_despina_katelyn" GUID="5bOLwchum0mLkX2ACpz1sQ==" />
 		<!-- FRIDAY -->
-		<POI MapID="21"   xpos="-584.637" ypos="60.6031" zpos="-454.672" type="assistances.pact_supply_network_agent.friday_verma_giftrender"      GUID="8Lzjv49U9063/74TjO/OIg=="/>
-		<POI MapID="873"  xpos="622.367"  ypos="13.5202" zpos="-403.381" type="assistances.pact_supply_network_agent.friday_lady_derwena"          GUID="Ks5vLArNZ06VyfhiFapBDA=="/>
-		<POI MapID="39"   xpos="-478.611" ypos="25.3051" zpos="376.998"  type="assistances.pact_supply_network_agent.friday_the_fox"               GUID="VIg81Xe0yUqiuNiyfbJALQ=="/>
-		<POI MapID="988"  xpos="-583.388" ypos="78.6947" zpos="-349.118" type="assistances.pact_supply_network_agent.friday_mehem_the_traveled"    GUID="gUYGPRUSoEisaKjioneDrw=="/>
-		<POI MapID="65"   xpos="1023.85"  ypos="48.6635" zpos="-88.2559" type="assistances.pact_supply_network_agent.friday_specialist_yana"       GUID="hy04wvLaZ0CWQ3c5vqN2uw=="/>
-		<POI MapID="28"   xpos="213.692"  ypos="92.8309" zpos="965.406"  type="assistances.pact_supply_network_agent.friday_despina_katelyn"       GUID="jiL20ithYkuBrr5LglL1sA=="/>
-
+		<POI MapID="21" xpos="-584.637" ypos="60.6031" zpos="-454.672" type="assistances.pact_supply_network_agent.friday_verma_giftrender" GUID="8Lzjv49U9063/74TjO/OIg==" />
+		<POI MapID="873" xpos="622.367" ypos="13.5202" zpos="-403.381" type="assistances.pact_supply_network_agent.friday_lady_derwena" GUID="Ks5vLArNZ06VyfhiFapBDA==" />
+		<POI MapID="39" xpos="-478.611" ypos="25.3051" zpos="376.998" type="assistances.pact_supply_network_agent.friday_the_fox" GUID="VIg81Xe0yUqiuNiyfbJALQ==" />
+		<POI MapID="988" xpos="-583.388" ypos="78.6947" zpos="-349.118" type="assistances.pact_supply_network_agent.friday_mehem_the_traveled" GUID="gUYGPRUSoEisaKjioneDrw==" />
+		<POI MapID="65" xpos="1023.85" ypos="48.6635" zpos="-88.2559" type="assistances.pact_supply_network_agent.friday_specialist_yana" GUID="hy04wvLaZ0CWQ3c5vqN2uw==" />
+		<POI MapID="28" xpos="213.692" ypos="92.8309" zpos="965.406" type="assistances.pact_supply_network_agent.friday_despina_katelyn" GUID="jiL20ithYkuBrr5LglL1sA==" />
 		<!-- SATURDAY -->
-		<POI MapID="32"   xpos="-624.362" ypos="42.8593" zpos="32.6918"  type="assistances.pact_supply_network_agent.saturday_verma_giftrender"    GUID="Sa2Jwwqb6kG/y3QjYKzrXg=="/>
-		<POI MapID="24"   xpos="715.174"  ypos="50.0252" zpos="315.362"  type="assistances.pact_supply_network_agent.saturday_lady_derwena"        GUID="Mr/Gs6h/kEqtoGuW14B33g=="/>
-		<POI MapID="39"   xpos="329.294"  ypos="53.4881" zpos="652.319"  type="assistances.pact_supply_network_agent.saturday_the_fox"             GUID="t0ceA80PWU2hyqM81vq33Q=="/>
-		<POI MapID="1015" xpos="504.041"  ypos="415.158" zpos="-144.167" type="assistances.pact_supply_network_agent.saturday_mehem_the_traveled"  GUID="jWB22ABZWU2lDS/lWYUkeQ=="/>
-		<POI MapID="62"   xpos="-50.7746" ypos="30.9765" zpos="-486.328" type="assistances.pact_supply_network_agent.saturday_specialist_yana"     GUID="dXlQ6CPH9UShRgAHULjimQ=="/>
-		<POI MapID="29"   xpos="30.7644"  ypos="78.2598" zpos="721.416"  type="assistances.pact_supply_network_agent.saturday_despina_katelyn"     GUID="wBqzdzwUjECRrNNcYJzj6Q=="/>
-
+		<POI MapID="32" xpos="-624.362" ypos="42.8593" zpos="32.6918" type="assistances.pact_supply_network_agent.saturday_verma_giftrender" GUID="Sa2Jwwqb6kG/y3QjYKzrXg==" />
+		<POI MapID="24" xpos="715.174" ypos="50.0252" zpos="315.362" type="assistances.pact_supply_network_agent.saturday_lady_derwena" GUID="Mr/Gs6h/kEqtoGuW14B33g==" />
+		<POI MapID="39" xpos="329.294" ypos="53.4881" zpos="652.319" type="assistances.pact_supply_network_agent.saturday_the_fox" GUID="t0ceA80PWU2hyqM81vq33Q==" />
+		<POI MapID="1015" xpos="504.041" ypos="415.158" zpos="-144.167" type="assistances.pact_supply_network_agent.saturday_mehem_the_traveled" GUID="jWB22ABZWU2lDS/lWYUkeQ==" />
+		<POI MapID="62" xpos="-50.7746" ypos="30.9765" zpos="-486.328" type="assistances.pact_supply_network_agent.saturday_specialist_yana" GUID="dXlQ6CPH9UShRgAHULjimQ==" />
+		<POI MapID="29" xpos="30.7644" ypos="78.2598" zpos="721.416" type="assistances.pact_supply_network_agent.saturday_despina_katelyn" GUID="wBqzdzwUjECRrNNcYJzj6Q==" />
 		<!-- SUNDAY -->
-		<POI MapID="22"   xpos="-435.859" ypos="80.016"  zpos="785.336"  type="assistances.pact_supply_network_agent.sunday_verma_giftrender"      GUID="57O9K/g8eECsnTwqPidXEQ=="/>
-		<POI MapID="73"   xpos="479.288"  ypos="19.3622" zpos="128.502"  type="assistances.pact_supply_network_agent.sunday_lady_derwena"          GUID="LgSHnMkSVU6P6moIRuUW8w=="/>
-		<POI MapID="34"   xpos="-22.8167" ypos="5.12166" zpos="4.22472"  type="assistances.pact_supply_network_agent.sunday_the_fox"               GUID="ApL9/MaxS0SSpmddLUBtiw=="/>
-		<POI MapID="988"  xpos="-529.326" ypos="10.0407" zpos="-17.6919" type="assistances.pact_supply_network_agent.sunday_mehem_the_traveled"    GUID="+UHP9kU+y0a5vrHYB3i8FA=="/>
-		<POI MapID="51"   xpos="518.245"  ypos="35.376"  zpos="59.152"   type="assistances.pact_supply_network_agent.sunday_specialist_yana"       GUID="Bz24p3il+kOXabbP9YIlXA=="/>
-		<POI MapID="30"   xpos="-570.651" ypos="33.3877" zpos="-217.484" type="assistances.pact_supply_network_agent.sunday_despina_katelyn"       GUID="FA0KsZWQOUSl3G9IWBRfVQ=="/>
-
+		<POI MapID="22" xpos="-435.859" ypos="80.016" zpos="785.336" type="assistances.pact_supply_network_agent.sunday_verma_giftrender" GUID="57O9K/g8eECsnTwqPidXEQ==" />
+		<POI MapID="73" xpos="479.288" ypos="19.3622" zpos="128.502" type="assistances.pact_supply_network_agent.sunday_lady_derwena" GUID="LgSHnMkSVU6P6moIRuUW8w==" />
+		<POI MapID="34" xpos="-22.8167" ypos="5.12166" zpos="4.22472" type="assistances.pact_supply_network_agent.sunday_the_fox" GUID="ApL9/MaxS0SSpmddLUBtiw==" />
+		<POI MapID="988" xpos="-529.326" ypos="10.0407" zpos="-17.6919" type="assistances.pact_supply_network_agent.sunday_mehem_the_traveled" GUID="+UHP9kU+y0a5vrHYB3i8FA==" />
+		<POI MapID="51" xpos="518.245" ypos="35.376" zpos="59.152" type="assistances.pact_supply_network_agent.sunday_specialist_yana" GUID="Bz24p3il+kOXabbP9YIlXA==" />
+		<POI MapID="30" xpos="-570.651" ypos="33.3877" zpos="-217.484" type="assistances.pact_supply_network_agent.sunday_despina_katelyn" GUID="FA0KsZWQOUSl3G9IWBRfVQ==" />
 	</POIs>
 </OverlayData>

@@ -1,117 +1,109 @@
 <!-- 2020.06.25 -->
 <OverlayData>
 	<POIs>
-
 		<!-- COIN COLLECTOR -->
 		<!-- Challenger Cliffs -->
-		<POI MapID="988" xpos="-294.443" ypos="101.331" zpos="-388.908" type="general.dry_top.coin_collector.challenger_cliffs" GUID="Auk17Evp306k5DjJWzEY0A==" achievementBit="0"/>
-		<POI MapID="988" xpos="-296.698" ypos="134.212" zpos="-535.87"  type="general.dry_top.coin_collector.challenger_cliffs" GUID="dP+KRhTsQEmsfXJZEI1yvw==" achievementBit="1"/>
-		<POI MapID="988" xpos="-539.525" ypos="118.462" zpos="-148.004" type="general.dry_top.coin_collector.challenger_cliffs" GUID="jGw5IrbZpk2VFGkmq/3Afg==" achievementBit="2"/>
-		<POI MapID="988" xpos="-306.257" ypos="138.547" zpos="-576.387" type="general.dry_top.coin_collector.challenger_cliffs" GUID="0Qyqk54fwkKoYeggcAH3WA==" achievementBit="3"/>
-		<POI MapID="988" xpos="-536.538" ypos="157.881" zpos="-587.448" type="general.dry_top.coin_collector.challenger_cliffs" GUID="wFh4MYrKfkmmBxblf1T+0Q==" achievementBit="4"/>
-		<POI MapID="988" xpos="-373.452" ypos="45.0992" zpos="-373.269" type="general.dry_top.coin_collector.challenger_cliffs" GUID="5GvGo6tpEkW/ldjVEroP9w==" achievementBit="5"/>
-		<POI MapID="988" xpos="-385.941" ypos="108.094" zpos="-180.134" type="general.dry_top.coin_collector.challenger_cliffs" GUID="t5tf5OkI30alsrh7uHs7zw==" achievementBit="6"/>
-		<POI MapID="988" xpos="-463.462" ypos="65.5971" zpos="-403.662" type="general.dry_top.coin_collector.challenger_cliffs" GUID="Dgqyjm7q40Clco4berog3w==" achievementBit="7"/>
-		<POI MapID="988" xpos="-579.5"   ypos="46.964"  zpos="-567.937" type="general.dry_top.coin_collector.challenger_cliffs" GUID="LqfOY92wUEWlmxkuhfuOwA==" achievementBit="8"/>
-		<POI MapID="988" xpos="-506.97"  ypos="73.4289" zpos="-551.264" type="general.dry_top.coin_collector.challenger_cliffs" GUID="jOkNGSImxUWBt32Honcxdg==" achievementBit="9"/>
-		<POI MapID="988" xpos="-483.138" ypos="28.2856" zpos="-371.774" type="general.dry_top.coin_collector.challenger_cliffs" GUID="eihaoCIMq0eWZotrzB9f5A==" achievementBit="10"/>
-		<POI MapID="988" xpos="-580.005" ypos="15.5302" zpos="-439.488" type="general.dry_top.coin_collector.challenger_cliffs" GUID="Rcm1T5tSW0awCSoSoqcVIQ==" achievementBit="11"/>
+		<POI MapID="988" xpos="-294.443" ypos="101.331" zpos="-388.908" type="general.dry_top.coin_collector.challenger_cliffs" GUID="Auk17Evp306k5DjJWzEY0A==" achievementBit="0" />
+		<POI MapID="988" xpos="-296.698" ypos="134.212" zpos="-535.87" type="general.dry_top.coin_collector.challenger_cliffs" GUID="dP+KRhTsQEmsfXJZEI1yvw==" achievementBit="1" />
+		<POI MapID="988" xpos="-539.525" ypos="118.462" zpos="-148.004" type="general.dry_top.coin_collector.challenger_cliffs" GUID="jGw5IrbZpk2VFGkmq/3Afg==" achievementBit="2" />
+		<POI MapID="988" xpos="-306.257" ypos="138.547" zpos="-576.387" type="general.dry_top.coin_collector.challenger_cliffs" GUID="0Qyqk54fwkKoYeggcAH3WA==" achievementBit="3" />
+		<POI MapID="988" xpos="-536.538" ypos="157.881" zpos="-587.448" type="general.dry_top.coin_collector.challenger_cliffs" GUID="wFh4MYrKfkmmBxblf1T+0Q==" achievementBit="4" />
+		<POI MapID="988" xpos="-373.452" ypos="45.0992" zpos="-373.269" type="general.dry_top.coin_collector.challenger_cliffs" GUID="5GvGo6tpEkW/ldjVEroP9w==" achievementBit="5" />
+		<POI MapID="988" xpos="-385.941" ypos="108.094" zpos="-180.134" type="general.dry_top.coin_collector.challenger_cliffs" GUID="t5tf5OkI30alsrh7uHs7zw==" achievementBit="6" />
+		<POI MapID="988" xpos="-463.462" ypos="65.5971" zpos="-403.662" type="general.dry_top.coin_collector.challenger_cliffs" GUID="Dgqyjm7q40Clco4berog3w==" achievementBit="7" />
+		<POI MapID="988" xpos="-579.5" ypos="46.964" zpos="-567.937" type="general.dry_top.coin_collector.challenger_cliffs" GUID="LqfOY92wUEWlmxkuhfuOwA==" achievementBit="8" />
+		<POI MapID="988" xpos="-506.97" ypos="73.4289" zpos="-551.264" type="general.dry_top.coin_collector.challenger_cliffs" GUID="jOkNGSImxUWBt32Honcxdg==" achievementBit="9" />
+		<POI MapID="988" xpos="-483.138" ypos="28.2856" zpos="-371.774" type="general.dry_top.coin_collector.challenger_cliffs" GUID="eihaoCIMq0eWZotrzB9f5A==" achievementBit="10" />
+		<POI MapID="988" xpos="-580.005" ypos="15.5302" zpos="-439.488" type="general.dry_top.coin_collector.challenger_cliffs" GUID="Rcm1T5tSW0awCSoSoqcVIQ==" achievementBit="11" />
 		<!-- Prospect Valley -->
-		<POI MapID="988" xpos="399.787"  ypos="5.22297" zpos="-529.122" type="general.dry_top.coin_collector.prospect_valley" GUID="G7lWHCnd8EGRsgisdmw9DQ==" achievementBit="0"/>
-		<POI MapID="988" xpos="416.75"   ypos="48.1413" zpos="-398.589" type="general.dry_top.coin_collector.prospect_valley" GUID="ICB8RgQjcUeKCML1E1E0cA==" achievementBit="1"/>
-		<POI MapID="988" xpos="419.988"  ypos="37.3927" zpos="-348.996" type="general.dry_top.coin_collector.prospect_valley" GUID="XpUdRyb910GGuesJlb3mKg==" achievementBit="2"/>
-		<POI MapID="988" xpos="404.953"  ypos="18.8631" zpos="-353.393" type="general.dry_top.coin_collector.prospect_valley" GUID="zpPAKP4T9E6Ws7k2ntphYQ==" achievementBit="3"/>
-		<POI MapID="988" xpos="399.071"  ypos="25.6065" zpos="-239.234" type="general.dry_top.coin_collector.prospect_valley" GUID="+HkXOcMwM0+MGKPTisdyfw==" achievementBit="4"/>
-		<POI MapID="988" xpos="333.144"  ypos="32.2306" zpos="-190.93"  type="general.dry_top.coin_collector.prospect_valley" GUID="thIZgAol4ky4chWIxfOy1A==" achievementBit="5"/>
-		<POI MapID="988" xpos="313.323"  ypos="78.7427" zpos="-315.827" type="general.dry_top.coin_collector.prospect_valley" GUID="/zJdGxJ8xUGcXvPgQ1Aj0w==" achievementBit="6"/>
-		<POI MapID="988" xpos="238.952"  ypos="45.3372" zpos="-407.697" type="general.dry_top.coin_collector.prospect_valley" GUID="lrS30STgF02uMmZBPaydlg==" achievementBit="7"/>
-		<POI MapID="988" xpos="353.508"  ypos="20.633"  zpos="-553.267" type="general.dry_top.coin_collector.prospect_valley" GUID="FzXdwAKiFkOwpuU49QS7qg==" achievementBit="8"/>
-		<POI MapID="988" xpos="215.988"  ypos="46.2592" zpos="-480.85"  type="general.dry_top.coin_collector.prospect_valley" GUID="Z3EEZDAOt06jW75JHMHBqQ==" achievementBit="9"/>
-		<POI MapID="988" xpos="154.133"  ypos="24.8161" zpos="-522.725" type="general.dry_top.coin_collector.prospect_valley" GUID="HtWALrDqOkqThe+fhF5wzg==" achievementBit="10"/>
-		<POI MapID="988" xpos="184.194"  ypos="55.1344" zpos="-512.127" type="general.dry_top.coin_collector.prospect_valley" GUID="gibg/3OrIES6aaLs5yzxLg==" achievementBit="11"/>
-		<POI MapID="988" xpos="192.649"  ypos="33.8651" zpos="-251.334" type="general.dry_top.coin_collector.prospect_valley" GUID="uQb34SNAM0egbILi+bjtdQ==" achievementBit="12"/>
-		<POI MapID="988" xpos="290.325"  ypos="8.12873" zpos="-211.649" type="general.dry_top.coin_collector.prospect_valley" GUID="MeDjoO485kiRw4jnxGqagg==" achievementBit="13"/>
-		<POI MapID="988" xpos="435.074"  ypos="13.6678" zpos="-126.589" type="general.dry_top.coin_collector.prospect_valley" GUID="U8252WdxV0uNQXzG+fNbgQ==" achievementBit="14"/>
-		<POI MapID="988" xpos="506.901"  ypos="31.4917" zpos="-216.413" type="general.dry_top.coin_collector.prospect_valley" GUID="XnqwF8ef+U6GCBtcSsIBGg==" achievementBit="15"/>
-		<POI MapID="988" xpos="227.415"  ypos="30.6823" zpos="-344.266" type="general.dry_top.coin_collector.prospect_valley" GUID="/IZu9PrQOE2FzROAnB31MA==" achievementBit="16"/>
-		<POI MapID="988" xpos="8.88044"  ypos="37.42"   zpos="-413.276" type="general.dry_top.coin_collector.prospect_valley" GUID="dtu7CYi510u33X1cmfKkAg==" achievementBit="17"/>
-		<POI MapID="988" xpos="75.5555"  ypos="31.5403" zpos="-470.804" type="general.dry_top.coin_collector.prospect_valley" GUID="Pa18fa5l1USGCgroFqeBFQ==" achievementBit="18"/>
-		<POI MapID="988" xpos="138.335"  ypos="25.2704" zpos="-391.525" type="general.dry_top.coin_collector.prospect_valley" GUID="+8aFPwrL3U+uR8jaynGNKQ==" achievementBit="19"/>
-		<POI MapID="988" xpos="417.948"  ypos="94.3277" zpos="-382.858" type="general.dry_top.coin_collector.prospect_valley" GUID="Y/YL01QBwE6EDbECNuM0tg==" achievementBit="20"/>
-		<POI MapID="988" xpos="306.608"  ypos="135.572" zpos="-416.291" type="general.dry_top.coin_collector.prospect_valley" GUID="kzvQ+eoa8EC6b7OBEN24Sw==" achievementBit="21"/>
-		<POI MapID="988" xpos="262.299"  ypos="17.7611" zpos="-418.867" type="general.dry_top.coin_collector.prospect_valley" GUID="nGnzAMAzvU+ixY2SzL5CrQ==" achievementBit="22"/>
-		<POI MapID="988" xpos="33.9721"  ypos="49.6227" zpos="-506.23"  type="general.dry_top.coin_collector.prospect_valley" GUID="Llj7Sue5V0OF8S7E11PQgA==" achievementBit="23"/>
-		<POI MapID="988" xpos="323.048"  ypos="17.0889" zpos="-483.831" type="general.dry_top.coin_collector.prospect_valley" GUID="Ym0V8FV0006nXlSBBllYOw==" achievementBit="24"/>
-		<POI MapID="988" xpos="316.893"  ypos="21.8135" zpos="-418.734" type="general.dry_top.coin_collector.prospect_valley" GUID="bwk3B8o6FkG0vicDYtLZXw==" achievementBit="25"/>
-		<POI MapID="988" xpos="166.106"  ypos="61.1686" zpos="-554.512" type="general.dry_top.coin_collector.prospect_valley" GUID="J9MeoHlX506kWWLUcRxPqQ==" achievementBit="26"/>
-		<POI MapID="988" xpos="365.25"   ypos="59.3181" zpos="-365.066" type="general.dry_top.coin_collector.prospect_valley" GUID="9tykpkV4r0KJvREZWRtSMg==" achievementBit="27"/>
-		<POI MapID="988" xpos="254.494"  ypos="42.4384" zpos="-176.003" type="general.dry_top.coin_collector.prospect_valley" GUID="h6348s450kuUyOdH0/oP1Q==" achievementBit="28"/>
-		<POI MapID="988" xpos="43.6316"  ypos="25.4054" zpos="-526.065" type="general.dry_top.coin_collector.prospect_valley" GUID="U272lVkrzU6Z4ClqsamRrg==" achievementBit="29"/>
+		<POI MapID="988" xpos="399.787" ypos="5.22297" zpos="-529.122" type="general.dry_top.coin_collector.prospect_valley" GUID="G7lWHCnd8EGRsgisdmw9DQ==" achievementBit="0" />
+		<POI MapID="988" xpos="416.75" ypos="48.1413" zpos="-398.589" type="general.dry_top.coin_collector.prospect_valley" GUID="ICB8RgQjcUeKCML1E1E0cA==" achievementBit="1" />
+		<POI MapID="988" xpos="419.988" ypos="37.3927" zpos="-348.996" type="general.dry_top.coin_collector.prospect_valley" GUID="XpUdRyb910GGuesJlb3mKg==" achievementBit="2" />
+		<POI MapID="988" xpos="404.953" ypos="18.8631" zpos="-353.393" type="general.dry_top.coin_collector.prospect_valley" GUID="zpPAKP4T9E6Ws7k2ntphYQ==" achievementBit="3" />
+		<POI MapID="988" xpos="399.071" ypos="25.6065" zpos="-239.234" type="general.dry_top.coin_collector.prospect_valley" GUID="+HkXOcMwM0+MGKPTisdyfw==" achievementBit="4" />
+		<POI MapID="988" xpos="333.144" ypos="32.2306" zpos="-190.93" type="general.dry_top.coin_collector.prospect_valley" GUID="thIZgAol4ky4chWIxfOy1A==" achievementBit="5" />
+		<POI MapID="988" xpos="313.323" ypos="78.7427" zpos="-315.827" type="general.dry_top.coin_collector.prospect_valley" GUID="/zJdGxJ8xUGcXvPgQ1Aj0w==" achievementBit="6" />
+		<POI MapID="988" xpos="238.952" ypos="45.3372" zpos="-407.697" type="general.dry_top.coin_collector.prospect_valley" GUID="lrS30STgF02uMmZBPaydlg==" achievementBit="7" />
+		<POI MapID="988" xpos="353.508" ypos="20.633" zpos="-553.267" type="general.dry_top.coin_collector.prospect_valley" GUID="FzXdwAKiFkOwpuU49QS7qg==" achievementBit="8" />
+		<POI MapID="988" xpos="215.988" ypos="46.2592" zpos="-480.85" type="general.dry_top.coin_collector.prospect_valley" GUID="Z3EEZDAOt06jW75JHMHBqQ==" achievementBit="9" />
+		<POI MapID="988" xpos="154.133" ypos="24.8161" zpos="-522.725" type="general.dry_top.coin_collector.prospect_valley" GUID="HtWALrDqOkqThe+fhF5wzg==" achievementBit="10" />
+		<POI MapID="988" xpos="184.194" ypos="55.1344" zpos="-512.127" type="general.dry_top.coin_collector.prospect_valley" GUID="gibg/3OrIES6aaLs5yzxLg==" achievementBit="11" />
+		<POI MapID="988" xpos="192.649" ypos="33.8651" zpos="-251.334" type="general.dry_top.coin_collector.prospect_valley" GUID="uQb34SNAM0egbILi+bjtdQ==" achievementBit="12" />
+		<POI MapID="988" xpos="290.325" ypos="8.12873" zpos="-211.649" type="general.dry_top.coin_collector.prospect_valley" GUID="MeDjoO485kiRw4jnxGqagg==" achievementBit="13" />
+		<POI MapID="988" xpos="435.074" ypos="13.6678" zpos="-126.589" type="general.dry_top.coin_collector.prospect_valley" GUID="U8252WdxV0uNQXzG+fNbgQ==" achievementBit="14" />
+		<POI MapID="988" xpos="506.901" ypos="31.4917" zpos="-216.413" type="general.dry_top.coin_collector.prospect_valley" GUID="XnqwF8ef+U6GCBtcSsIBGg==" achievementBit="15" />
+		<POI MapID="988" xpos="227.415" ypos="30.6823" zpos="-344.266" type="general.dry_top.coin_collector.prospect_valley" GUID="/IZu9PrQOE2FzROAnB31MA==" achievementBit="16" />
+		<POI MapID="988" xpos="8.88044" ypos="37.42" zpos="-413.276" type="general.dry_top.coin_collector.prospect_valley" GUID="dtu7CYi510u33X1cmfKkAg==" achievementBit="17" />
+		<POI MapID="988" xpos="75.5555" ypos="31.5403" zpos="-470.804" type="general.dry_top.coin_collector.prospect_valley" GUID="Pa18fa5l1USGCgroFqeBFQ==" achievementBit="18" />
+		<POI MapID="988" xpos="138.335" ypos="25.2704" zpos="-391.525" type="general.dry_top.coin_collector.prospect_valley" GUID="+8aFPwrL3U+uR8jaynGNKQ==" achievementBit="19" />
+		<POI MapID="988" xpos="417.948" ypos="94.3277" zpos="-382.858" type="general.dry_top.coin_collector.prospect_valley" GUID="Y/YL01QBwE6EDbECNuM0tg==" achievementBit="20" />
+		<POI MapID="988" xpos="306.608" ypos="135.572" zpos="-416.291" type="general.dry_top.coin_collector.prospect_valley" GUID="kzvQ+eoa8EC6b7OBEN24Sw==" achievementBit="21" />
+		<POI MapID="988" xpos="262.299" ypos="17.7611" zpos="-418.867" type="general.dry_top.coin_collector.prospect_valley" GUID="nGnzAMAzvU+ixY2SzL5CrQ==" achievementBit="22" />
+		<POI MapID="988" xpos="33.9721" ypos="49.6227" zpos="-506.23" type="general.dry_top.coin_collector.prospect_valley" GUID="Llj7Sue5V0OF8S7E11PQgA==" achievementBit="23" />
+		<POI MapID="988" xpos="323.048" ypos="17.0889" zpos="-483.831" type="general.dry_top.coin_collector.prospect_valley" GUID="Ym0V8FV0006nXlSBBllYOw==" achievementBit="24" />
+		<POI MapID="988" xpos="316.893" ypos="21.8135" zpos="-418.734" type="general.dry_top.coin_collector.prospect_valley" GUID="bwk3B8o6FkG0vicDYtLZXw==" achievementBit="25" />
+		<POI MapID="988" xpos="166.106" ypos="61.1686" zpos="-554.512" type="general.dry_top.coin_collector.prospect_valley" GUID="J9MeoHlX506kWWLUcRxPqQ==" achievementBit="26" />
+		<POI MapID="988" xpos="365.25" ypos="59.3181" zpos="-365.066" type="general.dry_top.coin_collector.prospect_valley" GUID="9tykpkV4r0KJvREZWRtSMg==" achievementBit="27" />
+		<POI MapID="988" xpos="254.494" ypos="42.4384" zpos="-176.003" type="general.dry_top.coin_collector.prospect_valley" GUID="h6348s450kuUyOdH0/oP1Q==" achievementBit="28" />
+		<POI MapID="988" xpos="43.6316" ypos="25.4054" zpos="-526.065" type="general.dry_top.coin_collector.prospect_valley" GUID="U272lVkrzU6Z4ClqsamRrg==" achievementBit="29" />
 		<!-- Uplands -->
-		<POI MapID="988" xpos="235.202"  ypos="0.635235" zpos="-156.679" type="general.dry_top.coin_collector.uplands" GUID="BVIWMYdD2kuTseIey+Jn3g==" achievementBit="0"/>
-		<POI MapID="988" xpos="32.2466"  ypos="73.364"   zpos="-314.036" type="general.dry_top.coin_collector.uplands" GUID="NhzzC3Qbrk+St0JjxghAIg==" achievementBit="1"/>
-		<POI MapID="988" xpos="-52.0119" ypos="48.8551"  zpos="-285.528" type="general.dry_top.coin_collector.uplands" GUID="TavIonE81UW7hWnyOmw+Zw==" achievementBit="2"/>
-		<POI MapID="988" xpos="81.9041"  ypos="51.5728"  zpos="38.3361"  type="general.dry_top.coin_collector.uplands" GUID="7WiaNA0vqkGiBF1qnS8/YA==" achievementBit="3"/>
-		<POI MapID="988" xpos="20.7221"  ypos="60.3525"  zpos="77.2495"  type="general.dry_top.coin_collector.uplands" GUID="3NrMBCQ8GE6S/+axVpAZng==" achievementBit="4"/>
-		<POI MapID="988" xpos="-61.1593" ypos="55.7003"  zpos="61.7588"  type="general.dry_top.coin_collector.uplands" GUID="brXb612na0WaPVGrFOWvgg==" achievementBit="5"/>
-		<POI MapID="988" xpos="-89.6273" ypos="38.682"   zpos="67.9073"  type="general.dry_top.coin_collector.uplands" GUID="5EbYwSutD0OVB6mxyn5TbA==" achievementBit="6"/>
-		<POI MapID="988" xpos="-185.54"  ypos="53.7189"  zpos="49.1058"  type="general.dry_top.coin_collector.uplands" GUID="5QuOevHsFEmpkyNLiTsSMA==" achievementBit="7"/>
-		<POI MapID="988" xpos="-295.601" ypos="26.3636"  zpos="56.1019"  type="general.dry_top.coin_collector.uplands" GUID="YyXfgkcSqE2VmDFgTId+IA==" achievementBit="8"/>
-		<POI MapID="988" xpos="-3.64912" ypos="81.9855"  zpos="-72.4327" type="general.dry_top.coin_collector.uplands" GUID="bPpOY76Mg0eLRm3qSORjTg==" achievementBit="9"/>
-		<POI MapID="988" xpos="-153.529" ypos="57.1112"  zpos="-53.3102" type="general.dry_top.coin_collector.uplands" GUID="eHzGfDQds0qlCfxKYq9KxQ==" achievementBit="10"/>
-		<POI MapID="988" xpos="-554.057" ypos="15.4177"  zpos="1.49888"  type="general.dry_top.coin_collector.uplands" GUID="79pynTD5h0qpTIYsIYocew==" achievementBit="11"/>
-		<POI MapID="988" xpos="-566.544" ypos="57.8093"  zpos="-156.921" type="general.dry_top.coin_collector.uplands" GUID="+EmdAzJS4EeDiP9Y0m4myA==" achievementBit="12"/>
-		<POI MapID="988" xpos="-384.963" ypos="53.3857"  zpos="-129.908" type="general.dry_top.coin_collector.uplands" GUID="uE1d/2jwwUSkadeIa4o0ZQ==" achievementBit="13"/>
-		<POI MapID="988" xpos="-219.358" ypos="45.2661"  zpos="-536.253" type="general.dry_top.coin_collector.uplands" GUID="yzY6UP4azEa0/OnBT0dWXA==" achievementBit="14"/>
-		<POI MapID="988" xpos="-240.122" ypos="90.1669"  zpos="-557.287" type="general.dry_top.coin_collector.uplands" GUID="6MQKKUrOwEeQNX9yB2UFfQ==" achievementBit="15"/>
-		<POI MapID="988" xpos="-145.94"  ypos="103.947"  zpos="-154.882" type="general.dry_top.coin_collector.uplands" GUID="/5YEzPusbUGlkNFCg4tS2A==" achievementBit="16"/>
-		<POI MapID="988" xpos="-222.812" ypos="105.545"  zpos="-330.029" type="general.dry_top.coin_collector.uplands" GUID="27ekDAurdkKkf/I7TgkoSA==" achievementBit="17"/>
-		<POI MapID="988" xpos="-190.304" ypos="102.301"  zpos="-308.668" type="general.dry_top.coin_collector.uplands" GUID="c/HJuBOB+UKdpMIRNkugrQ==" achievementBit="18"/>
-		<POI MapID="988" xpos="148.074"  ypos="67.919"   zpos="-188.158" type="general.dry_top.coin_collector.uplands" GUID="xAv1vv5ntkixAk9ioxOJmA==" achievementBit="19"/>
-		<POI MapID="988" xpos="-59.6373" ypos="63.6631"  zpos="-176.555" type="general.dry_top.coin_collector.uplands" GUID="pbS34xHR9EW5lxprLUkc0Q==" achievementBit="20"/>
-		<POI MapID="988" xpos="-138.808" ypos="90.4145"  zpos="-272.751" type="general.dry_top.coin_collector.uplands" GUID="VbKVEYpC5kSyZ0hjZdB6+w==" achievementBit="21"/>
-		<POI MapID="988" xpos="-265.128" ypos="83.0475"  zpos="-293.008" type="general.dry_top.coin_collector.uplands" GUID="M08fAIxM1UeKNuekkKl7Hw==" achievementBit="22"/>
-		<POI MapID="988" xpos="-276.769" ypos="87.9847"  zpos="-174.193" type="general.dry_top.coin_collector.uplands" GUID="8MEhzex4PEuCVsz0RJK/gQ==" achievementBit="23"/>
-		<POI MapID="988" xpos="-411.377" ypos="69.7884"  zpos="-229.033" type="general.dry_top.coin_collector.uplands" GUID="98jnspxFcEGLnQfEezZu8Q==" achievementBit="24"/>
-		<POI MapID="988" xpos="-526.231" ypos="-1.05664" zpos="14.6191"  type="general.dry_top.coin_collector.uplands" GUID="X6zXo829OkSnH7yNd5dOXg==" achievementBit="25"/>
-		<POI MapID="988" xpos="97.6982"  ypos="33.5839"  zpos="-289.943" type="general.dry_top.coin_collector.uplands" GUID="djkkWX3XJEGuf3MeaW/1sQ==" achievementBit="26"/>
-		<POI MapID="988" xpos="186.989"  ypos="31.9432"  zpos="-125.86"  type="general.dry_top.coin_collector.uplands" GUID="ZUSGMYB2ukSPocTmDFj2CA==" achievementBit="27"/>
-		<POI MapID="988" xpos="-203.442" ypos="99.1055"  zpos="-524.464" type="general.dry_top.coin_collector.uplands" GUID="d+pUHGKEn02BSgnmf4gUrg==" achievementBit="28"/>
-		<POI MapID="988" xpos="-464.641" ypos="20.1098"  zpos="-229.923" type="general.dry_top.coin_collector.uplands" GUID="5xNAWxkD80q8OO2F416frw==" achievementBit="29"/>
-
+		<POI MapID="988" xpos="235.202" ypos="0.635235" zpos="-156.679" type="general.dry_top.coin_collector.uplands" GUID="BVIWMYdD2kuTseIey+Jn3g==" achievementBit="0" />
+		<POI MapID="988" xpos="32.2466" ypos="73.364" zpos="-314.036" type="general.dry_top.coin_collector.uplands" GUID="NhzzC3Qbrk+St0JjxghAIg==" achievementBit="1" />
+		<POI MapID="988" xpos="-52.0119" ypos="48.8551" zpos="-285.528" type="general.dry_top.coin_collector.uplands" GUID="TavIonE81UW7hWnyOmw+Zw==" achievementBit="2" />
+		<POI MapID="988" xpos="81.9041" ypos="51.5728" zpos="38.3361" type="general.dry_top.coin_collector.uplands" GUID="7WiaNA0vqkGiBF1qnS8/YA==" achievementBit="3" />
+		<POI MapID="988" xpos="20.7221" ypos="60.3525" zpos="77.2495" type="general.dry_top.coin_collector.uplands" GUID="3NrMBCQ8GE6S/+axVpAZng==" achievementBit="4" />
+		<POI MapID="988" xpos="-61.1593" ypos="55.7003" zpos="61.7588" type="general.dry_top.coin_collector.uplands" GUID="brXb612na0WaPVGrFOWvgg==" achievementBit="5" />
+		<POI MapID="988" xpos="-89.6273" ypos="38.682" zpos="67.9073" type="general.dry_top.coin_collector.uplands" GUID="5EbYwSutD0OVB6mxyn5TbA==" achievementBit="6" />
+		<POI MapID="988" xpos="-185.54" ypos="53.7189" zpos="49.1058" type="general.dry_top.coin_collector.uplands" GUID="5QuOevHsFEmpkyNLiTsSMA==" achievementBit="7" />
+		<POI MapID="988" xpos="-295.601" ypos="26.3636" zpos="56.1019" type="general.dry_top.coin_collector.uplands" GUID="YyXfgkcSqE2VmDFgTId+IA==" achievementBit="8" />
+		<POI MapID="988" xpos="-3.64912" ypos="81.9855" zpos="-72.4327" type="general.dry_top.coin_collector.uplands" GUID="bPpOY76Mg0eLRm3qSORjTg==" achievementBit="9" />
+		<POI MapID="988" xpos="-153.529" ypos="57.1112" zpos="-53.3102" type="general.dry_top.coin_collector.uplands" GUID="eHzGfDQds0qlCfxKYq9KxQ==" achievementBit="10" />
+		<POI MapID="988" xpos="-554.057" ypos="15.4177" zpos="1.49888" type="general.dry_top.coin_collector.uplands" GUID="79pynTD5h0qpTIYsIYocew==" achievementBit="11" />
+		<POI MapID="988" xpos="-566.544" ypos="57.8093" zpos="-156.921" type="general.dry_top.coin_collector.uplands" GUID="+EmdAzJS4EeDiP9Y0m4myA==" achievementBit="12" />
+		<POI MapID="988" xpos="-384.963" ypos="53.3857" zpos="-129.908" type="general.dry_top.coin_collector.uplands" GUID="uE1d/2jwwUSkadeIa4o0ZQ==" achievementBit="13" />
+		<POI MapID="988" xpos="-219.358" ypos="45.2661" zpos="-536.253" type="general.dry_top.coin_collector.uplands" GUID="yzY6UP4azEa0/OnBT0dWXA==" achievementBit="14" />
+		<POI MapID="988" xpos="-240.122" ypos="90.1669" zpos="-557.287" type="general.dry_top.coin_collector.uplands" GUID="6MQKKUrOwEeQNX9yB2UFfQ==" achievementBit="15" />
+		<POI MapID="988" xpos="-145.94" ypos="103.947" zpos="-154.882" type="general.dry_top.coin_collector.uplands" GUID="/5YEzPusbUGlkNFCg4tS2A==" achievementBit="16" />
+		<POI MapID="988" xpos="-222.812" ypos="105.545" zpos="-330.029" type="general.dry_top.coin_collector.uplands" GUID="27ekDAurdkKkf/I7TgkoSA==" achievementBit="17" />
+		<POI MapID="988" xpos="-190.304" ypos="102.301" zpos="-308.668" type="general.dry_top.coin_collector.uplands" GUID="c/HJuBOB+UKdpMIRNkugrQ==" achievementBit="18" />
+		<POI MapID="988" xpos="148.074" ypos="67.919" zpos="-188.158" type="general.dry_top.coin_collector.uplands" GUID="xAv1vv5ntkixAk9ioxOJmA==" achievementBit="19" />
+		<POI MapID="988" xpos="-59.6373" ypos="63.6631" zpos="-176.555" type="general.dry_top.coin_collector.uplands" GUID="pbS34xHR9EW5lxprLUkc0Q==" achievementBit="20" />
+		<POI MapID="988" xpos="-138.808" ypos="90.4145" zpos="-272.751" type="general.dry_top.coin_collector.uplands" GUID="VbKVEYpC5kSyZ0hjZdB6+w==" achievementBit="21" />
+		<POI MapID="988" xpos="-265.128" ypos="83.0475" zpos="-293.008" type="general.dry_top.coin_collector.uplands" GUID="M08fAIxM1UeKNuekkKl7Hw==" achievementBit="22" />
+		<POI MapID="988" xpos="-276.769" ypos="87.9847" zpos="-174.193" type="general.dry_top.coin_collector.uplands" GUID="8MEhzex4PEuCVsz0RJK/gQ==" achievementBit="23" />
+		<POI MapID="988" xpos="-411.377" ypos="69.7884" zpos="-229.033" type="general.dry_top.coin_collector.uplands" GUID="98jnspxFcEGLnQfEezZu8Q==" achievementBit="24" />
+		<POI MapID="988" xpos="-526.231" ypos="-1.05664" zpos="14.6191" type="general.dry_top.coin_collector.uplands" GUID="X6zXo829OkSnH7yNd5dOXg==" achievementBit="25" />
+		<POI MapID="988" xpos="97.6982" ypos="33.5839" zpos="-289.943" type="general.dry_top.coin_collector.uplands" GUID="djkkWX3XJEGuf3MeaW/1sQ==" achievementBit="26" />
+		<POI MapID="988" xpos="186.989" ypos="31.9432" zpos="-125.86" type="general.dry_top.coin_collector.uplands" GUID="ZUSGMYB2ukSPocTmDFj2CA==" achievementBit="27" />
+		<POI MapID="988" xpos="-203.442" ypos="99.1055" zpos="-524.464" type="general.dry_top.coin_collector.uplands" GUID="d+pUHGKEn02BSgnmf4gUrg==" achievementBit="28" />
+		<POI MapID="988" xpos="-464.641" ypos="20.1098" zpos="-229.923" type="general.dry_top.coin_collector.uplands" GUID="5xNAWxkD80q8OO2F416frw==" achievementBit="29" />
 		<!-- DIVE MASTER: PROSPECT VALLEY -->
-		<Trail type="general.dry_top.dive_master__prospect_valley" GUID="48BV8GgUDUOICkW9MafB2Q==" trailData="Data/General/DryTop/DiveMasterProspectValley.trl" texture="Data/Arrow.png" color="ffffff00" alpha="0.8" fadeNear="1500" fadeFar="2000" animSpeed="1" mapDisplaySize="15"/>
-		<POI MapID="988" xpos="318.793" ypos="82.2678" zpos="-384.348" type="general.dry_top.dive_master__prospect_valley" GUID="Lfn7f0W7c0KDXSUxuiqD1Q=="/>
-		<POI MapID="988" xpos="310.539" ypos="157.554" zpos="-405.286" type="general.dry_top.dive_master__prospect_valley" GUID="UawqmZtfmUGJI/VA0p9v2Q==" iconFile="Img/Icons/Dive.png" maxSize="24" heightOffset="0"/>
-		<POI MapID="988" xpos="284.746" ypos="-1.0566" zpos="-418.573" type="general.dry_top.dive_master__prospect_valley" GUID="o4kfrv4nD0CCJSDNGla5Hg==" iconFile="Img/Icons/Target.png"/>
-
+		<Trail type="general.dry_top.dive_master__prospect_valley" GUID="48BV8GgUDUOICkW9MafB2Q==" trailData="Data/General/DryTop/DiveMasterProspectValley.trl" texture="Data/Arrow.png" color="ffffff00" alpha="0.8" fadeNear="1500" fadeFar="2000" animSpeed="1" mapDisplaySize="15" />
+		<POI MapID="988" xpos="318.793" ypos="82.2678" zpos="-384.348" type="general.dry_top.dive_master__prospect_valley" GUID="Lfn7f0W7c0KDXSUxuiqD1Q==" />
+		<POI MapID="988" xpos="310.539" ypos="157.554" zpos="-405.286" type="general.dry_top.dive_master__prospect_valley" GUID="UawqmZtfmUGJI/VA0p9v2Q==" iconFile="Img/Icons/Dive.png" maxSize="24" heightOffset="0" />
+		<POI MapID="988" xpos="284.746" ypos="-1.0566" zpos="-418.573" type="general.dry_top.dive_master__prospect_valley" GUID="o4kfrv4nD0CCJSDNGla5Hg==" iconFile="Img/Icons/Target.png" />
 		<!-- LEGENDARY LLAMA LOCATOR -->
-		<Trail type="general.dry_top.legendary_llama_locator" GUID="eNJEM2cRpEylpbLrg4fd4Q==" trailData="Data/General/DryTop/LegendaryLlamaLocator.trl" texture="Data/Arrow.png" color="ffffff00" alpha="0.8" fadeNear="1500" fadeFar="2000" animSpeed="1" mapDisplaySize="15"/>
-		<POI MapID="988" xpos="432.539" ypos="13.5783" zpos="-297.014" type="general.dry_top.legendary_llama_locator" GUID="9uS1keDx80K0SeaNADOkMA=="/>
-		<POI MapID="988" xpos="545.83"  ypos="5.38"    zpos="-330.07"  type="general.dry_top.legendary_llama_locator" GUID="aw/BNw4BUUaC3ZoZgCZh4A==" iconFile="Img/Skills/SpeedOfLight.png" mapVisibility="0" miniMapVisibility="0"/>
-		<POI MapID="988" xpos="579.914" ypos="44.1568" zpos="-313.096" type="general.dry_top.legendary_llama_locator" GUID="dEoZ+5J2HUCv7HnCwL6OpA==" iconFile="Img/General/Llama.png" heightOffset="2" behavior="3"/>
-
+		<Trail type="general.dry_top.legendary_llama_locator" GUID="eNJEM2cRpEylpbLrg4fd4Q==" trailData="Data/General/DryTop/LegendaryLlamaLocator.trl" texture="Data/Arrow.png" color="ffffff00" alpha="0.8" fadeNear="1500" fadeFar="2000" animSpeed="1" mapDisplaySize="15" />
+		<POI MapID="988" xpos="432.539" ypos="13.5783" zpos="-297.014" type="general.dry_top.legendary_llama_locator" GUID="9uS1keDx80K0SeaNADOkMA==" />
+		<POI MapID="988" xpos="545.83" ypos="5.38" zpos="-330.07" type="general.dry_top.legendary_llama_locator" GUID="aw/BNw4BUUaC3ZoZgCZh4A==" iconFile="Img/Skills/SpeedOfLight.png" mapVisibility="0" miniMapVisibility="0" />
+		<POI MapID="988" xpos="579.914" ypos="44.1568" zpos="-313.096" type="general.dry_top.legendary_llama_locator" GUID="dEoZ+5J2HUCv7HnCwL6OpA==" iconFile="Img/General/Llama.png" heightOffset="2" behavior="3" />
 		<!-- LEARNED LEGENDARY LLAMA LOCATOR -->
-		<Trail type="general.dry_top.learned_legendary_llama_locator" GUID="lOrreE0tMkqhesd1bWgXIA==" trailData="Data/General/DryTop/LearnedLegendaryLlamaLocator.trl" texture="Data/Arrow.png" color="ffffff00" alpha="0.8" fadeNear="1500" fadeFar="2000" animSpeed="1" mapDisplaySize="15"/>
-		<POI MapID="988" xpos="185.75"  ypos="18.23"   zpos="-74.71"   type="general.dry_top.learned_legendary_llama_locator" GUID="xo25RphkBEeUoaoI8pyMFg=="/>
-		<POI MapID="988" xpos="201.567" ypos="82.0724" zpos="-128.633" type="general.dry_top.learned_legendary_llama_locator" GUID="i464G3PI3E6PVpcEDM9NEw==" iconFile="Img/General/Llama.png" heightOffset="2" behavior="3"/>
-
+		<Trail type="general.dry_top.learned_legendary_llama_locator" GUID="lOrreE0tMkqhesd1bWgXIA==" trailData="Data/General/DryTop/LearnedLegendaryLlamaLocator.trl" texture="Data/Arrow.png" color="ffffff00" alpha="0.8" fadeNear="1500" fadeFar="2000" animSpeed="1" mapDisplaySize="15" />
+		<POI MapID="988" xpos="185.75" ypos="18.23" zpos="-74.71" type="general.dry_top.learned_legendary_llama_locator" GUID="xo25RphkBEeUoaoI8pyMFg==" />
+		<POI MapID="988" xpos="201.567" ypos="82.0724" zpos="-128.633" type="general.dry_top.learned_legendary_llama_locator" GUID="i464G3PI3E6PVpcEDM9NEw==" iconFile="Img/General/Llama.png" heightOffset="2" behavior="3" />
 		<!-- LICENSED LEARNED LEGENDARY LLAMA LOCATOR -->
-		<Trail type="general.dry_top.licensed_learned_legendary_llama_locator" GUID="MvnVsEbBFEqdgGo0E55dTw==" trailData="Data/General/DryTop/LicensedLearnedLegendaryLlamaLocator.trl" texture="Data/Arrow.png" color="ffffff00" alpha="0.8" fadeNear="1500" fadeFar="2000" animSpeed="1" mapDisplaySize="15"/>
-		<POI MapID="988" xpos="-560.12"  ypos="77.36"   zpos="-304.49"  type="general.dry_top.licensed_learned_legendary_llama_locator" GUID="EGUyojH/2kSWBKsMXvmW7w=="/>
-		<POI MapID="988" xpos="-604.427" ypos="117.591" zpos="-141.062" type="general.dry_top.licensed_learned_legendary_llama_locator" GUID="9mni6rHjyUe7ElnfjcHiMw==" iconFile="Img/General/Llama.png" heightOffset="2" behavior="3"/>
-
+		<Trail type="general.dry_top.licensed_learned_legendary_llama_locator" GUID="MvnVsEbBFEqdgGo0E55dTw==" trailData="Data/General/DryTop/LicensedLearnedLegendaryLlamaLocator.trl" texture="Data/Arrow.png" color="ffffff00" alpha="0.8" fadeNear="1500" fadeFar="2000" animSpeed="1" mapDisplaySize="15" />
+		<POI MapID="988" xpos="-560.12" ypos="77.36" zpos="-304.49" type="general.dry_top.licensed_learned_legendary_llama_locator" GUID="EGUyojH/2kSWBKsMXvmW7w==" />
+		<POI MapID="988" xpos="-604.427" ypos="117.591" zpos="-141.062" type="general.dry_top.licensed_learned_legendary_llama_locator" GUID="9mni6rHjyUe7ElnfjcHiMw==" iconFile="Img/General/Llama.png" heightOffset="2" behavior="3" />
 		<!-- LLAMA DRAMA -->
-		<POI MapID="988" xpos="395.26"  ypos="17.8531" zpos="-265.853" type="general.dry_top.llama_drama" GUID="BaG6t1HHNk6EDe0IDDmrbQ=="/>
-		<POI MapID="988" xpos="173.697" ypos="13.6172" zpos="-312.971" type="general.dry_top.llama_drama" GUID="YESSuwq/NkGFkOjO7LEbEw=="/>
-		<POI MapID="988" xpos="128.67"  ypos="28.784"  zpos="-524.418" type="general.dry_top.llama_drama" GUID="QvenPI3htUmagAJ1R2JpKA=="/>
-		<POI MapID="988" xpos="114.652" ypos="27.7989" zpos="-302.82"  type="general.dry_top.llama_drama" GUID="+Jm2si9djEim2t02IuMrpg=="/>
-		<POI MapID="988" xpos="29.5549" ypos="30.3602" zpos="-455.397" type="general.dry_top.llama_drama" GUID="bN0y7t6gOkSbTw9Mq0ZJTw=="/>
-
+		<POI MapID="988" xpos="395.26" ypos="17.8531" zpos="-265.853" type="general.dry_top.llama_drama" GUID="BaG6t1HHNk6EDe0IDDmrbQ==" />
+		<POI MapID="988" xpos="173.697" ypos="13.6172" zpos="-312.971" type="general.dry_top.llama_drama" GUID="YESSuwq/NkGFkOjO7LEbEw==" />
+		<POI MapID="988" xpos="128.67" ypos="28.784" zpos="-524.418" type="general.dry_top.llama_drama" GUID="QvenPI3htUmagAJ1R2JpKA==" />
+		<POI MapID="988" xpos="114.652" ypos="27.7989" zpos="-302.82" type="general.dry_top.llama_drama" GUID="+Jm2si9djEim2t02IuMrpg==" />
+		<POI MapID="988" xpos="29.5549" ypos="30.3602" zpos="-455.397" type="general.dry_top.llama_drama" GUID="bN0y7t6gOkSbTw9Mq0ZJTw==" />
 		<!-- PROSPECT VALLEY CRASH SITE CLIMBER -->
-		<Trail type="general.dry_top.prospect_valley_crash_site_climber" GUID="LaIJR+JoKEyLkMdmdy1R5A==" trailData="Data/General/DryTop/ProspectValleyCrashSiteClimber.trl" texture="Data/Arrow.png" color="ff00ff00" alpha="0.8" fadeNear="1500" fadeFar="2000" animSpeed="1" mapDisplaySize="20"/>
-		<POI MapID="988" xpos="318.793" ypos="82.2678" zpos="-384.348" type="general.dry_top.prospect_valley_crash_site_climber" GUID="UWWqNKd6NkidqPSvJS6xrg==" iconFile="Img/General/PuzzleStart.png" heightOffset="0.5"/>
-		<POI MapID="988" xpos="314.567" ypos="135.803" zpos="-416.479" type="general.dry_top.prospect_valley_crash_site_climber" GUID="Fm1zdLcrUUW0cZyRNGwJ8Q==" iconFile="Img/General/PuzzleChest.png" heightOffset="0.5" fadeNear="1500" fadeFar="2000" behavior="2"/>
-
+		<Trail type="general.dry_top.prospect_valley_crash_site_climber" GUID="LaIJR+JoKEyLkMdmdy1R5A==" trailData="Data/General/DryTop/ProspectValleyCrashSiteClimber.trl" texture="Data/Arrow.png" color="ff00ff00" alpha="0.8" fadeNear="1500" fadeFar="2000" animSpeed="1" mapDisplaySize="20" />
+		<POI MapID="988" xpos="318.793" ypos="82.2678" zpos="-384.348" type="general.dry_top.prospect_valley_crash_site_climber" GUID="UWWqNKd6NkidqPSvJS6xrg==" iconFile="Img/General/PuzzleStart.png" heightOffset="0.5" />
+		<POI MapID="988" xpos="314.567" ypos="135.803" zpos="-416.479" type="general.dry_top.prospect_valley_crash_site_climber" GUID="Fm1zdLcrUUW0cZyRNGwJ8Q==" iconFile="Img/General/PuzzleChest.png" heightOffset="0.5" fadeNear="1500" fadeFar="2000" behavior="2" />
 	</POIs>
 </OverlayData>

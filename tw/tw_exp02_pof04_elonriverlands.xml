@@ -1,185 +1,185 @@
 <OverlayData>
-<MarkerCategory name="tw_guides" DisplayName="Tekkit's Guides">
-  <MarkerCategory name="tw_pof" DisplayName="Path of Fire">
-    <MarkerCategory name="tw_pof_er" DisplayName="Elon Riverlands">
-      <MarkerCategory name="tw_pof_er_forgottendebris" DisplayName="Forgotten Debris">
-        <MarkerCategory name="tw_pof_er_forgottendebris_forgottendebris" DisplayName="Toggle Forgotten Debris" mapDisplaySize="30" iconFile="Data/TekkitsWorkshop/PoF/ElonRiverlands/tw_pof_er_forgottendebris_forgottendebris.png" iconSize="0.5" heightOffset="0.5" minSize="10" fadeNear="3000" fadeFar="3100" behavior="2"/>
-        <MarkerCategory name="tw_pof_er_forgottendebris_toggletrail" DisplayName="Toggle Trail">
-          </MarkerCategory>
-        <MarkerCategory name="tw_pof_er_forgottendebris_signs" DisplayName="Toggle Signs">
-          <MarkerCategory name="tw_pof_er_forgottendebris_startsignp1" DisplayName="Starting Sign Part1" mapDisplaySize="130" iconFile="Data/TekkitsWorkshop/PoF/ElonRiverlands/tw_pof_er_forgottendebris_sign1.png" iconSize="1" heightOffset="2.5" minSize="50" fadeNear="5000" fadeFar="5100"/>
-          <MarkerCategory name="tw_pof_er_forgottendebris_startsignp2" DisplayName="Starting Sign Part2" mapDisplaySize="130" iconFile="Data/TekkitsWorkshop/PoF/ElonRiverlands/tw_pof_er_forgottendebris_sign2.png" iconSize="1" heightOffset="2.5" minSize="50" fadeNear="5000" fadeFar="5100"/>
-          <MarkerCategory name="tw_pof_er_forgottendebris_startsignp3" DisplayName="Starting Sign Part3" mapDisplaySize="130" iconFile="Data/TekkitsWorkshop/PoF/ElonRiverlands/tw_pof_er_forgottendebris_sign3.png" iconSize="1" heightOffset="2.5" minSize="50" fadeNear="5000" fadeFar="5100"/>
-          <MarkerCategory name="tw_pof_er_forgottendebris_startsignp4" DisplayName="Starting Sign Part4" mapDisplaySize="130" iconFile="Data/TekkitsWorkshop/PoF/ElonRiverlands/tw_pof_er_forgottendebris_sign4.png" iconSize="1" heightOffset="2.5" minSize="50" fadeNear="5000" fadeFar="5100"/>
-          <MarkerCategory name="tw_pof_er_forgottendebris_startsignp5" DisplayName="Starting Sign Part5" mapDisplaySize="130" iconFile="Data/TekkitsWorkshop/PoF/ElonRiverlands/tw_pof_er_forgottendebris_sign5.png" iconSize="1" heightOffset="2.5" minSize="50" fadeNear="5000" fadeFar="5100"/>
-          <MarkerCategory name="tw_pof_er_forgottendebris_startsignp6" DisplayName="Starting Sign Part6" mapDisplaySize="130" iconFile="Data/TekkitsWorkshop/PoF/ElonRiverlands/tw_pof_er_forgottendebris_sign6.png" iconSize="1" heightOffset="2.5" minSize="50" fadeNear="5000" fadeFar="5100"/>
-          <MarkerCategory name="tw_pof_er_forgottendebris_teleport1" DisplayName="Teleport Sign Part1" miniMapVisibility="0" mapVisibility="0" iconFile="Data/TekkitsWorkshop/PoF/ElonRiverlands/tw_pof_er_teleport1.png" iconSize="1" heightOffset="2.5" minSize="50" fadeNear="5000" fadeFar="5100"/>
-          <MarkerCategory name="tw_pof_er_forgottendebris_teleport2" DisplayName="Teleport Sign Part2" miniMapVisibility="0" mapVisibility="0" iconFile="Data/TekkitsWorkshop/PoF/ElonRiverlands/tw_pof_er_teleport2.png" iconSize="1" heightOffset="2.5" minSize="50" fadeNear="5000" fadeFar="5100"/>
-          <MarkerCategory name="tw_pof_er_forgottendebris_teleport3" DisplayName="Teleport Sign Part3" miniMapVisibility="0" mapVisibility="0" iconFile="Data/TekkitsWorkshop/PoF/ElonRiverlands/tw_pof_er_teleport3.png" iconSize="1" heightOffset="2.5" minSize="50" fadeNear="5000" fadeFar="5100"/>
-          <MarkerCategory name="tw_pof_er_forgottendebris_finish" DisplayName="Finish Sign" mapDisplaySize="80" iconFile="Data/TekkitsWorkshop/General/tw_trail_finish_b.png" iconSize="1" heightOffset="2.5" minSize="50" fadeNear="5000" fadeFar="5100"/>
-        </MarkerCategory>
-      </MarkerCategory>
-      <MarkerCategory name="tw_pof_er_adv_skimshallowcovesupplyrun" DisplayName="Adventure - Skimshallow Cove Supply Run">
-        <MarkerCategory name="tw_pof_er_adv_skimshallowcovesupplyrun_jumponspot" DisplayName="Toggle Jump-On Spots" miniMapVisibility="0" mapVisibility="0" iconFile="Data/TekkitsWorkshop/General/tw_trail_jump.png" iconSize="0.5" heightOffset="0.5" minSize="10" fadeNear="3000" fadeFar="3100"/>
-        <MarkerCategory name="tw_pof_er_adv_skimshallowcovesupplyrun_toggletrail" DisplayName="Toggle Trail">
-          </MarkerCategory>
-        <MarkerCategory name="tw_pof_er_adv_skimshallowcovesupplyrun_signs" DisplayName="Toggle Signs">
-          <MarkerCategory name="tw_pof_er_adv_skimshallowcovesupplyrun_startsign" DisplayName="Starting Sign" mapDisplaySize="130" iconFile="Data/TekkitsWorkshop/PoF/ElonRiverlands/tw_pof_er_adv_skimshallowcovesupplyrun_startsign.png" iconSize="1" heightOffset="2.5" minSize="50" fadeNear="5000" fadeFar="5100"/>
-          <MarkerCategory name="tw_pof_er_adv_skimshallowcovesupplyrun_finishsign" DisplayName="Finish Sign" mapDisplaySize="80" iconFile="Data/TekkitsWorkshop/General/tw_trail_finish_g.png" iconSize="1" heightOffset="2.5" minSize="50" fadeNear="5000" fadeFar="5100"/>
-        </MarkerCategory>
-      </MarkerCategory>
-      <MarkerCategory name="tw_pof_er_magichunter_node" DisplayName="Magic Hunter Collection" mapDisplaySize="30" iconFile="Data/TekkitsWorkshop/PoF/ElonRiverlands/tw_pof_er_magichunter_node.png" iconSize="0.5" heightOffset="0.5" minSize="10" fadeNear="3000" fadeFar="3100" behavior="2"/>
-      <MarkerCategory name="tw_pof_er_lostlore_page" DisplayName="Lost Lore of Elon Riverlands" mapDisplaySize="30" iconSize="0.5" minSize="15" heightOffset="0.0" iconFile="Data/TekkitsWorkshop/PoF/CrystalOasis/tw_pof_co_lostlore_page.png"/>
-      <MarkerCategory name="tw_pof_er_sandportals" DisplayName="Sand Portals">
-        <MarkerCategory name="tw_pof_er_sandportals_sandportal" DisplayName="Toggle Portals" mapDisplaySize="30" iconFile="Data/TekkitsWorkshop/General/tw_trail_entrance.png" iconSize="0.5" heightOffset="1.5" minSize="10" fadeNear="10000" fadeFar="10000" />
-        <MarkerCategory name="tw_pof_er_sandportals_toggletrail" DisplayName="Toggle Trail">
-          </MarkerCategory>
-      </MarkerCategory>
-    </MarkerCategory>
-  </MarkerCategory>
-</MarkerCategory>
-  <POIs>
-		<POI MapID="1228" xpos="690.477" ypos="48.5785" zpos="271.819" type="tw_guides.tw_pof.tw_pof_er.tw_pof_er_forgottendebris.tw_pof_er_forgottendebris_forgottendebris" GUID="XRW1yfvSD0qi+sxBgrGVHw=="/>
-		<POI MapID="1228" xpos="-199.709" ypos="136.284" zpos="650.952" type="tw_guides.tw_pof.tw_pof_er.tw_pof_er_forgottendebris.tw_pof_er_forgottendebris_forgottendebris" GUID="f21S1V+W6Eejh0YhQAgMqQ=="/>
-		<POI MapID="1228" xpos="-124.697" ypos="33.4708" zpos="973.834" type="tw_guides.tw_pof.tw_pof_er.tw_pof_er_forgottendebris.tw_pof_er_forgottendebris_forgottendebris" GUID="y/ycxJGRLUq7rpXo870zsA=="/>
-		<POI MapID="1228" xpos="75.702" ypos="72.9641" zpos="346.832" type="tw_guides.tw_pof.tw_pof_er.tw_pof_er_forgottendebris.tw_pof_er_forgottendebris_forgottendebris" GUID="dp/Q69a4a0G8Z4mdGkYmZg=="/>
-		<POI MapID="1228" xpos="-177.999" ypos="93.758" zpos="993.349" type="tw_guides.tw_pof.tw_pof_er.tw_pof_er_forgottendebris.tw_pof_er_forgottendebris_forgottendebris" GUID="xM5Lp6TCnECzlAfjEdrFXA=="/>
-		<POI MapID="1228" xpos="1011.49" ypos="83.6969" zpos="958.943" type="tw_guides.tw_pof.tw_pof_er.tw_pof_er_forgottendebris.tw_pof_er_forgottendebris_forgottendebris" GUID="Hfq4k8+tIEWz8+jMT+iy4g=="/>
-		<POI MapID="1228" xpos="938.08" ypos="11.1905" zpos="2.07032" type="tw_guides.tw_pof.tw_pof_er.tw_pof_er_forgottendebris.tw_pof_er_forgottendebris_forgottendebris" GUID="lQZ4gfssEUqLNwdhM/kvQw=="/>
-		<POI MapID="1228" xpos="-789.591" ypos="108.709" zpos="997.84" type="tw_guides.tw_pof.tw_pof_er.tw_pof_er_forgottendebris.tw_pof_er_forgottendebris_forgottendebris" GUID="3KqQIWTBjkyzzjyt0k8yEw=="/>
-		<POI MapID="1228" xpos="-876.961" ypos="145.34" zpos="742.26" type="tw_guides.tw_pof.tw_pof_er.tw_pof_er_forgottendebris.tw_pof_er_forgottendebris_forgottendebris" GUID="+nA1Hh0Dn0Oyd2doKzYx6w=="/>
-		<POI MapID="1228" xpos="-927.058" ypos="80.8113" zpos="347.85" type="tw_guides.tw_pof.tw_pof_er.tw_pof_er_forgottendebris.tw_pof_er_forgottendebris_forgottendebris" GUID="YkudANcPnEysZk6bJa2o6Q=="/>
-		<POI MapID="1228" xpos="-807.66" ypos="22.2669" zpos="351.822" type="tw_guides.tw_pof.tw_pof_er.tw_pof_er_forgottendebris.tw_pof_er_forgottendebris_forgottendebris" GUID="Sh48jGKDP0qr7zZ4ev0d1w=="/>
-		<POI MapID="1228" xpos="-414.118" ypos="4.44677" zpos="166.599" type="tw_guides.tw_pof.tw_pof_er.tw_pof_er_forgottendebris.tw_pof_er_forgottendebris_forgottendebris" GUID="TH/BZzRpxkeQvgujD52V9g=="/>
-		<POI MapID="1228" xpos="496.177" ypos="64.1605" zpos="768.434" type="tw_guides.tw_pof.tw_pof_er.tw_pof_er_forgottendebris.tw_pof_er_forgottendebris_forgottendebris" GUID="PrVgnRepgEetT/4HMsF+7w=="/>
-		<POI MapID="1228" xpos="364.524" ypos="183.205" zpos="777.057" type="tw_guides.tw_pof.tw_pof_er.tw_pof_er_forgottendebris.tw_pof_er_forgottendebris_forgottendebris" GUID="s3LlSt9IXkqr55Hh9GNXBg=="/>
-		<POI MapID="1228" xpos="-128.657" ypos="21.7791" zpos="-193.283" type="tw_guides.tw_pof.tw_pof_er.tw_pof_er_forgottendebris.tw_pof_er_forgottendebris_forgottendebris" GUID="PZBndqVqtUC36YU0r5a9cw=="/>
-		<POI MapID="1228" xpos="-351.129" ypos="126.606" zpos="-429.236" type="tw_guides.tw_pof.tw_pof_er.tw_pof_er_forgottendebris.tw_pof_er_forgottendebris_forgottendebris" GUID="+ufgIFFbJE2xplqbFsK8GQ=="/>
-		<POI MapID="1228" xpos="108.06" ypos="-11.3649" zpos="-552.679" type="tw_guides.tw_pof.tw_pof_er.tw_pof_er_forgottendebris.tw_pof_er_forgottendebris_forgottendebris" GUID="WzkVJBBZlk6J50cdfPxgJA=="/>
-		<POI MapID="1228" xpos="456.129" ypos="95.6419" zpos="-407.192" type="tw_guides.tw_pof.tw_pof_er.tw_pof_er_forgottendebris.tw_pof_er_forgottendebris_forgottendebris" GUID="wnZo2ejoP0u+GKTvE3W3ZA=="/>
-		<POI MapID="1228" xpos="232.798" ypos="-74.0659" zpos="34.5299" type="tw_guides.tw_pof.tw_pof_er.tw_pof_er_forgottendebris.tw_pof_er_forgottendebris_forgottendebris" GUID="v/1wg722ikiw6PRYE9VWAQ=="/>
-		<POI MapID="1228" xpos="-1050.87" ypos="5.97007" zpos="-157.315" type="tw_guides.tw_pof.tw_pof_er.tw_pof_er_forgottendebris.tw_pof_er_forgottendebris_forgottendebris" GUID="TMkWS+4Iw02IVOJnnxy18A=="/>
-		<POI MapID="1228" xpos="682.95" ypos="5.96925" zpos="-867.589" type="tw_guides.tw_pof.tw_pof_er.tw_pof_er_forgottendebris.tw_pof_er_forgottendebris_forgottendebris" GUID="xd9F5aBhDk2+v0VZbde2SA=="/>
-		<POI MapID="1228" xpos="546.246" ypos="35.7956" zpos="-636.157" type="tw_guides.tw_pof.tw_pof_er.tw_pof_er_forgottendebris.tw_pof_er_forgottendebris_forgottendebris" GUID="1N28X1FwF0iMxjthxeMljg=="/>
-		<POI MapID="1228" xpos="-323.348" ypos="96.924" zpos="-712.973" type="tw_guides.tw_pof.tw_pof_er.tw_pof_er_forgottendebris.tw_pof_er_forgottendebris_forgottendebris" GUID="HeZT6R7CQESB+C5c2JugPQ=="/>
-		<POI MapID="1228" xpos="-1046.11" ypos="5.61976" zpos="-430.056" type="tw_guides.tw_pof.tw_pof_er.tw_pof_er_forgottendebris.tw_pof_er_forgottendebris_forgottendebris" GUID="B57eT9wP7keYDJ2mTJIfUQ=="/>
-		<POI MapID="1228" xpos="-1000.27" ypos="36.9972" zpos="-916.74" type="tw_guides.tw_pof.tw_pof_er.tw_pof_er_forgottendebris.tw_pof_er_forgottendebris_forgottendebris" GUID="X0guYUYiVUu250gT7bhf8g=="/>
-		<POI MapID="1228" xpos="-676.698" ypos="45.9106" zpos="-749.291" type="tw_guides.tw_pof.tw_pof_er.tw_pof_er_forgottendebris.tw_pof_er_forgottendebris_forgottendebris" GUID="/ir5+8pg4E2JUlePeFPj0Q=="/>
-		<POI MapID="1228" xpos="780.937" ypos="107.897" zpos="840.517" type="tw_guides.tw_pof.tw_pof_er.tw_pof_er_sandportals.tw_pof_er_sandportals_sandportal" GUID="t/IkwYzt0EeBFj29/TmrHA=="/>
-		<POI MapID="1228" xpos="666.703" ypos="103.538" zpos="890.956" type="tw_guides.tw_pof.tw_pof_er.tw_pof_er_sandportals.tw_pof_er_sandportals_sandportal" GUID="2AAny2j4nkWFPnhCeQRxdQ=="/>
-		<POI MapID="1228" xpos="938.434" ypos="85.782" zpos="577.169" type="tw_guides.tw_pof.tw_pof_er.tw_pof_er_sandportals.tw_pof_er_sandportals_sandportal" GUID="svpnYT0cRUyhcLzww64Zyw=="/>
-		<POI MapID="1228" xpos="940.916" ypos="105.588" zpos="708.318" type="tw_guides.tw_pof.tw_pof_er.tw_pof_er_sandportals.tw_pof_er_sandportals_sandportal" GUID="tcDlYyK3GEWJiZCO3Yfp4Q=="/>
-		<POI MapID="1228" xpos="1005.33" ypos="53.1933" zpos="356.824" type="tw_guides.tw_pof.tw_pof_er.tw_pof_er_sandportals.tw_pof_er_sandportals_sandportal" GUID="qSi1NwuF302k6pLW1Zs1eQ=="/>
-		<POI MapID="1228" xpos="991.633" ypos="63.5758" zpos="335.106" type="tw_guides.tw_pof.tw_pof_er.tw_pof_er_sandportals.tw_pof_er_sandportals_sandportal" GUID="Ph5YqzuXyEqNY+cXsmgo+w=="/>
-		<POI MapID="1228" xpos="777.641" ypos="56.8441" zpos="192.385" type="tw_guides.tw_pof.tw_pof_er.tw_pof_er_sandportals.tw_pof_er_sandportals_sandportal" GUID="lj12DeaW80uB6JiMajMd5Q=="/>
-		<POI MapID="1228" xpos="778.552" ypos="12.7941" zpos="-191.118" type="tw_guides.tw_pof.tw_pof_er.tw_pof_er_sandportals.tw_pof_er_sandportals_sandportal" GUID="s6LzEKjw/UWz3mqA3gx+AA=="/>
-		<POI MapID="1228" xpos="808.928" ypos="6.91322" zpos="-369.778" type="tw_guides.tw_pof.tw_pof_er.tw_pof_er_sandportals.tw_pof_er_sandportals_sandportal" GUID="uytaO4ynaEmUHAcPEIRpAw=="/>
-		<POI MapID="1228" xpos="838.657" ypos="37.9352" zpos="-396.212" type="tw_guides.tw_pof.tw_pof_er.tw_pof_er_sandportals.tw_pof_er_sandportals_sandportal" GUID="BQihK23UzEepCMDouPWjgA=="/>
-		<POI MapID="1228" xpos="608.7" ypos="3.35318" zpos="-760.082" type="tw_guides.tw_pof.tw_pof_er.tw_pof_er_sandportals.tw_pof_er_sandportals_sandportal" GUID="WLFj4Jr+f0CEDHB2N6RF6g=="/>
-		<POI MapID="1228" xpos="628.489" ypos="15.881" zpos="-824.925" type="tw_guides.tw_pof.tw_pof_er.tw_pof_er_sandportals.tw_pof_er_sandportals_sandportal" GUID="MH2WJr5ZTEKSelOhDf8OpA=="/>
-		<POI MapID="1228" xpos="599.236" ypos="9.73877" zpos="-925.332" type="tw_guides.tw_pof.tw_pof_er.tw_pof_er_sandportals.tw_pof_er_sandportals_sandportal" GUID="VSWlUrSbgEujvrOWpocrVQ=="/>
-		<POI MapID="1228" xpos="574.233" ypos="0.642432" zpos="-875.062" type="tw_guides.tw_pof.tw_pof_er.tw_pof_er_sandportals.tw_pof_er_sandportals_sandportal" GUID="b+6D2Vsb4E2y9ztjYN/akg=="/>
-		<POI MapID="1228" xpos="554.546" ypos="0.790067" zpos="-923.589" type="tw_guides.tw_pof.tw_pof_er.tw_pof_er_sandportals.tw_pof_er_sandportals_sandportal" GUID="s+i+puNUa06mirKaBkVYrg=="/>
-		<POI MapID="1228" xpos="641.986" ypos="23.1372" zpos="-982.181" type="tw_guides.tw_pof.tw_pof_er.tw_pof_er_sandportals.tw_pof_er_sandportals_sandportal" GUID="fKkqIMcbVkSuX+hT5nNorg=="/>
-		<POI MapID="1228" xpos="514.772" ypos="15.3414" zpos="-959.385" type="tw_guides.tw_pof.tw_pof_er.tw_pof_er_sandportals.tw_pof_er_sandportals_sandportal" GUID="lKXmoXHOdkiCkOx/pE/3QA=="/>
-		<POI MapID="1228" xpos="601.108" ypos="30.3146" zpos="-845.431" type="tw_guides.tw_pof.tw_pof_er.tw_pof_er_sandportals.tw_pof_er_sandportals_sandportal" GUID="ZdlrTm+1AEGuw64In+G69A=="/>
-		<POI MapID="1228" xpos="548.345" ypos="13.3137" zpos="-501.823" type="tw_guides.tw_pof.tw_pof_er.tw_pof_er_sandportals.tw_pof_er_sandportals_sandportal" GUID="opJ+1SKhzEe60NHx6nMtsA=="/>
-		<POI MapID="1228" xpos="550.556" ypos="74.8871" zpos="-473.797" type="tw_guides.tw_pof.tw_pof_er.tw_pof_er_sandportals.tw_pof_er_sandportals_sandportal" GUID="ZDhEAzPNj02gfpb18kqLWg=="/>
-		<POI MapID="1228" xpos="1.6265" ypos="12.4328" zpos="-272.645" type="tw_guides.tw_pof.tw_pof_er.tw_pof_er_sandportals.tw_pof_er_sandportals_sandportal" GUID="jgEVEEtbD0WseiXAy7L8vg=="/>
-		<POI MapID="1228" xpos="-118.804" ypos="72.8035" zpos="-285.246" type="tw_guides.tw_pof.tw_pof_er.tw_pof_er_sandportals.tw_pof_er_sandportals_sandportal" GUID="3AiTDIqXQkOkJhF6iYZvnw=="/>
-		<POI MapID="1228" xpos="-228.18" ypos="0.216141" zpos="-692.427" type="tw_guides.tw_pof.tw_pof_er.tw_pof_er_sandportals.tw_pof_er_sandportals_sandportal" GUID="uCAc2L8xJUS164vbCHYFJw=="/>
-		<POI MapID="1228" xpos="-178.734" ypos="71.534" zpos="-602.426" type="tw_guides.tw_pof.tw_pof_er.tw_pof_er_sandportals.tw_pof_er_sandportals_sandportal" GUID="Fqdk1j40iUqRZ8ZMDsa61Q=="/>
-		<POI MapID="1228" xpos="-711.289" ypos="48.4704" zpos="-526.277" type="tw_guides.tw_pof.tw_pof_er.tw_pof_er_sandportals.tw_pof_er_sandportals_sandportal" GUID="9ZIND56c50a5F+eaXaIV+Q=="/>
-		<POI MapID="1228" xpos="-691.089" ypos="78.1311" zpos="-359.953" type="tw_guides.tw_pof.tw_pof_er.tw_pof_er_sandportals.tw_pof_er_sandportals_sandportal" GUID="N44frEil9kWyiZQePWDNJg=="/>
-		<POI MapID="1228" xpos="-686.493" ypos="78.9797" zpos="-340.768" type="tw_guides.tw_pof.tw_pof_er.tw_pof_er_sandportals.tw_pof_er_sandportals_sandportal" GUID="OHksTrOxj0GAPOKzGoFsNA=="/>
-		<POI MapID="1228" xpos="-671.196" ypos="3.34396" zpos="-190.742" type="tw_guides.tw_pof.tw_pof_er.tw_pof_er_sandportals.tw_pof_er_sandportals_sandportal" GUID="oBQq8fTmFUOSNHiWmi3stg=="/>
-		<POI MapID="1228" xpos="-678.245" ypos="10.253" zpos="32.0243" type="tw_guides.tw_pof.tw_pof_er.tw_pof_er_sandportals.tw_pof_er_sandportals_sandportal" GUID="5Eg4eltoLUG6+5L75LIyGw=="/>
-		<POI MapID="1228" xpos="-724.854" ypos="61.4109" zpos="399.073" type="tw_guides.tw_pof.tw_pof_er.tw_pof_er_sandportals.tw_pof_er_sandportals_sandportal" GUID="/5dWVEvSXE2TNYUtuWt5mA=="/>
-		<POI MapID="1228" xpos="-190.104" ypos="80.0221" zpos="589.384" type="tw_guides.tw_pof.tw_pof_er.tw_pof_er_sandportals.tw_pof_er_sandportals_sandportal" GUID="UqfwGuNKHEeKsebLu7kJzQ=="/>
-		<POI MapID="1228" xpos="-31.2843" ypos="79.3544" zpos="499.956" type="tw_guides.tw_pof.tw_pof_er.tw_pof_er_sandportals.tw_pof_er_sandportals_sandportal" GUID="pSVwmj0KJEW7eILWUbEoUg=="/>
-		<POI MapID="1228" xpos="-20.4352" ypos="78.5583" zpos="422.016" type="tw_guides.tw_pof.tw_pof_er.tw_pof_er_sandportals.tw_pof_er_sandportals_sandportal" GUID="EkfN5PYw3Uu9MfkKfScqKA=="/>
-		<POI MapID="1228" xpos="-86.2073" ypos="76.5911" zpos="310.06" type="tw_guides.tw_pof.tw_pof_er.tw_pof_er_sandportals.tw_pof_er_sandportals_sandportal" GUID="UHG9YsfmrU+Gb4+ipCac5g=="/>
-		<POI MapID="1228" xpos="179.411" ypos="104.959" zpos="621.759" type="tw_guides.tw_pof.tw_pof_er.tw_pof_er_sandportals.tw_pof_er_sandportals_sandportal" GUID="Q6TnXIU/eUKh0chhYva4kw=="/>
-		<POI MapID="1228" xpos="367.975" ypos="117.145" zpos="890.055" type="tw_guides.tw_pof.tw_pof_er.tw_pof_er_sandportals.tw_pof_er_sandportals_sandportal" GUID="+PkYiFLrnEyY5lhoPnIDyg=="/>
-		<POI MapID="1228" xpos="87.4078" ypos="97.3791" zpos="968.394" type="tw_guides.tw_pof.tw_pof_er.tw_pof_er_sandportals.tw_pof_er_sandportals_sandportal" GUID="0tGCnr8JhEq8gZq3M7XjGg=="/>
-		<POI MapID="1228" xpos="-63.1776" ypos="28.4839" zpos="971.996" type="tw_guides.tw_pof.tw_pof_er.tw_pof_er_sandportals.tw_pof_er_sandportals_sandportal" GUID="0f98UnU8qEO+GuSQTZlGiA=="/>
-		<POI MapID="1228" xpos="643.387" ypos="86.4374" zpos="587.119" type="tw_guides.tw_pof.tw_pof_er.tw_pof_er_forgottendebris.tw_pof_er_forgottendebris_signs.tw_pof_er_forgottendebris_startsignp1" GUID="bgiOMqPEaE2kztlT4ke0gQ=="/>
-		<POI MapID="1228" xpos="-125.259" ypos="33.4708" zpos="973.885" type="tw_guides.tw_pof.tw_pof_er.tw_pof_er_forgottendebris.tw_pof_er_forgottendebris_signs.tw_pof_er_forgottendebris_teleport1" GUID="el7esM3gnU2QUeuSeg7y2g=="/>
-		<POI MapID="1228" xpos="639.209" ypos="86.6582" zpos="565.579" type="tw_guides.tw_pof.tw_pof_er.tw_pof_er_forgottendebris.tw_pof_er_forgottendebris_signs.tw_pof_er_forgottendebris_startsignp2" GUID="cF1ttCWlGkSVxEed0asSEQ=="/>
-		<POI MapID="1228" xpos="937.989" ypos="11.1796" zpos="2.04662" type="tw_guides.tw_pof.tw_pof_er.tw_pof_er_forgottendebris.tw_pof_er_forgottendebris_signs.tw_pof_er_forgottendebris_teleport2" GUID="IXl6Ml7PdEyRITxc8HZ2hQ=="/>
-		<POI MapID="1228" xpos="-561.62" ypos="4.37667" zpos="-11.849" type="tw_guides.tw_pof.tw_pof_er.tw_pof_er_forgottendebris.tw_pof_er_forgottendebris_signs.tw_pof_er_forgottendebris_startsignp3" GUID="z2JQ4dasgE6S3xIEnzTsEQ=="/>
-		<POI MapID="1228" xpos="-789.74" ypos="108.704" zpos="997.842" type="tw_guides.tw_pof.tw_pof_er.tw_pof_er_forgottendebris.tw_pof_er_forgottendebris_signs.tw_pof_er_forgottendebris_teleport2" GUID="vdMxltWnVUKIuwz/8Ihs/Q=="/>
-		<POI MapID="1228" xpos="-579.365" ypos="4.57403" zpos="-15.961" type="tw_guides.tw_pof.tw_pof_er.tw_pof_er_forgottendebris.tw_pof_er_forgottendebris_signs.tw_pof_er_forgottendebris_startsignp4" GUID="JbvpB/rG+kOBUUTPTZetAw=="/>
-		<POI MapID="1228" xpos="-676.666" ypos="45.9072" zpos="-749.37" type="tw_guides.tw_pof.tw_pof_er.tw_pof_er_forgottendebris.tw_pof_er_forgottendebris_signs.tw_pof_er_forgottendebris_teleport3" GUID="tt2nEOBImUmpkqwbJrZ/JA=="/>
-		<POI MapID="1228" xpos="197.766" ypos="33.6567" zpos="91.2094" type="tw_guides.tw_pof.tw_pof_er.tw_pof_er_forgottendebris.tw_pof_er_forgottendebris_signs.tw_pof_er_forgottendebris_startsignp5" GUID="VA774yTNzU2pfO28lnbm9Q=="/>
-		<POI MapID="1228" xpos="108.288" ypos="-11.3443" zpos="-552.569" type="tw_guides.tw_pof.tw_pof_er.tw_pof_er_forgottendebris.tw_pof_er_forgottendebris_signs.tw_pof_er_forgottendebris_teleport3" GUID="XDIdZ2k180ujRlIYOw88Dw=="/>
-		<POI MapID="1228" xpos="207.671" ypos="34.4355" zpos="90.1862" type="tw_guides.tw_pof.tw_pof_er.tw_pof_er_forgottendebris.tw_pof_er_forgottendebris_signs.tw_pof_er_forgottendebris_startsignp6" GUID="rxwZbVrJRkOZQNDHAsgD1w=="/>
-		<POI MapID="1228" xpos="683.042" ypos="5.96931" zpos="-867.68" type="tw_guides.tw_pof.tw_pof_er.tw_pof_er_forgottendebris.tw_pof_er_forgottendebris_signs.tw_pof_er_forgottendebris_finish" GUID="p9pK8CAdRkWqoESyXI1CEg=="/>
-		<POI MapID="1228" xpos="-660.816" ypos="21.6535" zpos="-113.344" type="tw_guides.tw_pof.tw_pof_er.tw_pof_er_adv_skimshallowcovesupplyrun.tw_pof_er_adv_skimshallowcovesupplyrun_signs.tw_pof_er_adv_skimshallowcovesupplyrun_startsign" GUID="JkMDlXgMHEC8+c9Rc8LtPA=="/>
-		<POI MapID="1228" xpos="-661.044" ypos="21.6535" zpos="-105.15" type="tw_guides.tw_pof.tw_pof_er.tw_pof_er_adv_skimshallowcovesupplyrun.tw_pof_er_adv_skimshallowcovesupplyrun_signs.tw_pof_er_adv_skimshallowcovesupplyrun_finishsign" GUID="ALl1mH/ILEu3XlcQjrR9wQ=="/>
-		<POI MapID="1228" xpos="-652.115" ypos="6.34201" zpos="-90.4313" type="tw_guides.tw_pof.tw_pof_er.tw_pof_er_adv_skimshallowcovesupplyrun.tw_pof_er_adv_skimshallowcovesupplyrun_jumponspot" GUID="hTM96iXQAUS8/ghvTQZ7Yw=="/>
-		<POI MapID="1228" xpos="-657.921" ypos="16.0501" zpos="-98.509" type="tw_guides.tw_pof.tw_pof_er.tw_pof_er_adv_skimshallowcovesupplyrun.tw_pof_er_adv_skimshallowcovesupplyrun_jumponspot" GUID="G6YjVRyarU2ZdN6E21o3Sw=="/>
-		<POI MapID="1228" xpos="-660.402" ypos="21.6535" zpos="-103.415" type="tw_guides.tw_pof.tw_pof_er.tw_pof_er_adv_skimshallowcovesupplyrun.tw_pof_er_adv_skimshallowcovesupplyrun_jumponspot" GUID="fOTDd3xsgEGKbKAge4cIkw=="/>
-		<POI MapID="1228" xpos="-659.448" ypos="21.6535" zpos="-115.105" type="tw_guides.tw_pof.tw_pof_er.tw_pof_er_adv_skimshallowcovesupplyrun.tw_pof_er_adv_skimshallowcovesupplyrun_jumponspot" GUID="B8SQysN6xkCchXSytbnpww=="/>
-		<POI MapID="1228" xpos="-544.57" ypos="-1.05664" zpos="-223.062" type="tw_guides.tw_pof.tw_pof_er.tw_pof_er_adv_skimshallowcovesupplyrun.tw_pof_er_adv_skimshallowcovesupplyrun_jumponspot" GUID="qBipxoVs40+c2i5fjN/hBg=="/>
-		<POI MapID="1228" xpos="-540.19" ypos="3.32411" zpos="-226.754" type="tw_guides.tw_pof.tw_pof_er.tw_pof_er_adv_skimshallowcovesupplyrun.tw_pof_er_adv_skimshallowcovesupplyrun_jumponspot" GUID="SwjMuKU+XEyIFsXkAZNfRg=="/>
-		<POI MapID="1228" xpos="-686.986" ypos="23.8778" zpos="-201.179" type="tw_guides.tw_pof.tw_pof_er.tw_pof_er_adv_skimshallowcovesupplyrun.tw_pof_er_adv_skimshallowcovesupplyrun_jumponspot" GUID="mQQbIOZb3U68n6cKKXkr2Q=="/>
-		<POI MapID="1228" xpos="-691.787" ypos="28.1428" zpos="-199.285" type="tw_guides.tw_pof.tw_pof_er.tw_pof_er_adv_skimshallowcovesupplyrun.tw_pof_er_adv_skimshallowcovesupplyrun_jumponspot" GUID="xcQhQEJjGkaA6tTiULI3Cw=="/>
-		<POI MapID="1228" xpos="-713.904" ypos="28.5451" zpos="-190.099" type="tw_guides.tw_pof.tw_pof_er.tw_pof_er_adv_skimshallowcovesupplyrun.tw_pof_er_adv_skimshallowcovesupplyrun_jumponspot" GUID="XJui+P57xkGXQhwuuVSo4w=="/>
-		<POI MapID="1228" xpos="-729.061" ypos="0.842412" zpos="-183.047" type="tw_guides.tw_pof.tw_pof_er.tw_pof_er_adv_skimshallowcovesupplyrun.tw_pof_er_adv_skimshallowcovesupplyrun_jumponspot" GUID="eF9K7BDuTEiHFwIT7eMhLA=="/>
-		<POI MapID="1228" xpos="-862.828" ypos="6.94658" zpos="-113.269" type="tw_guides.tw_pof.tw_pof_er.tw_pof_er_adv_skimshallowcovesupplyrun.tw_pof_er_adv_skimshallowcovesupplyrun_jumponspot" GUID="xiTIQfLFuk6tkrCESGKFNg=="/>
-		<POI MapID="1228" xpos="-870.82" ypos="12.3291" zpos="-109.716" type="tw_guides.tw_pof.tw_pof_er.tw_pof_er_adv_skimshallowcovesupplyrun.tw_pof_er_adv_skimshallowcovesupplyrun_jumponspot" GUID="Ni9K9gSrZ0Sb8rZF7xxVZg=="/>
-		<POI MapID="1228" xpos="-837.383" ypos="27.4786" zpos="71.7582" type="tw_guides.tw_pof.tw_pof_er.tw_pof_er_adv_skimshallowcovesupplyrun.tw_pof_er_adv_skimshallowcovesupplyrun_jumponspot" GUID="XFJBaJrAW0+16KoJ6GwKow=="/>
-		<POI MapID="1228" xpos="-836.337" ypos="31.2916" zpos="77.225" type="tw_guides.tw_pof.tw_pof_er.tw_pof_er_adv_skimshallowcovesupplyrun.tw_pof_er_adv_skimshallowcovesupplyrun_jumponspot" GUID="f/SU/7FJR0OnQZJxBHRfog=="/>
-		<POI MapID="1228" xpos="-869.76" ypos="53.2705" zpos="134.347" type="tw_guides.tw_pof.tw_pof_er.tw_pof_er_adv_skimshallowcovesupplyrun.tw_pof_er_adv_skimshallowcovesupplyrun_jumponspot" GUID="5gCN/Z3sX0efPgljk31SCw=="/>
-		<POI MapID="1228" xpos="-865.527" ypos="51.3439" zpos="128.886" type="tw_guides.tw_pof.tw_pof_er.tw_pof_er_adv_skimshallowcovesupplyrun.tw_pof_er_adv_skimshallowcovesupplyrun_jumponspot" GUID="IIx/09fGwkuPCHaat5jGIA=="/>
-		<POI MapID="1228" xpos="-871.614" ypos="57.5605" zpos="136.465" type="tw_guides.tw_pof.tw_pof_er.tw_pof_er_adv_skimshallowcovesupplyrun.tw_pof_er_adv_skimshallowcovesupplyrun_jumponspot" GUID="D+ubmrsy40+KRTzT/EFj1w=="/>
-		<POI MapID="1228" xpos="-875.749" ypos="59.6374" zpos="141.783" type="tw_guides.tw_pof.tw_pof_er.tw_pof_er_adv_skimshallowcovesupplyrun.tw_pof_er_adv_skimshallowcovesupplyrun_jumponspot" GUID="QLc1IKWCbEyn4Mlfn9H8qw=="/>
-		<POI MapID="1228" xpos="-877.04" ypos="73.7083" zpos="199.399" type="tw_guides.tw_pof.tw_pof_er.tw_pof_er_adv_skimshallowcovesupplyrun.tw_pof_er_adv_skimshallowcovesupplyrun_jumponspot" GUID="dcQysiDvU0iWZhEriwxPjA=="/>
-		<POI MapID="1228" xpos="-874.591" ypos="78.6853" zpos="202.302" type="tw_guides.tw_pof.tw_pof_er.tw_pof_er_adv_skimshallowcovesupplyrun.tw_pof_er_adv_skimshallowcovesupplyrun_jumponspot" GUID="riAcMo1vSk2WAuEvwHdvKg=="/>
-		<POI MapID="1228" xpos="-834.781" ypos="77.7267" zpos="219.8" type="tw_guides.tw_pof.tw_pof_er.tw_pof_er_adv_skimshallowcovesupplyrun.tw_pof_er_adv_skimshallowcovesupplyrun_jumponspot" GUID="qTw7cHCHCEKYMomb4DhprQ=="/>
-		<POI MapID="1228" xpos="-714.581" ypos="68.4156" zpos="283.876" type="tw_guides.tw_pof.tw_pof_er.tw_pof_er_adv_skimshallowcovesupplyrun.tw_pof_er_adv_skimshallowcovesupplyrun_jumponspot" GUID="dHuWT4px7kuDk+itNTUfbg=="/>
-		<POI MapID="1228" xpos="-689.069" ypos="60.0042" zpos="300.427" type="tw_guides.tw_pof.tw_pof_er.tw_pof_er_adv_skimshallowcovesupplyrun.tw_pof_er_adv_skimshallowcovesupplyrun_jumponspot" GUID="DrOUwSkoTUKqANxTV3B0cg=="/>
-		<POI MapID="1228" xpos="-554.798" ypos="64.5928" zpos="370.123" type="tw_guides.tw_pof.tw_pof_er.tw_pof_er_adv_skimshallowcovesupplyrun.tw_pof_er_adv_skimshallowcovesupplyrun_jumponspot" GUID="LHevKLDwUUWll2YiTC/r9A=="/>
-		<POI MapID="1228" xpos="-548.874" ypos="69.7505" zpos="371.476" type="tw_guides.tw_pof.tw_pof_er.tw_pof_er_adv_skimshallowcovesupplyrun.tw_pof_er_adv_skimshallowcovesupplyrun_jumponspot" GUID="wdMbiz195ESjz3xwPlEVqg=="/>
-		<POI MapID="1228" xpos="-533.587" ypos="75.5291" zpos="370.112" type="tw_guides.tw_pof.tw_pof_er.tw_pof_er_adv_skimshallowcovesupplyrun.tw_pof_er_adv_skimshallowcovesupplyrun_jumponspot" GUID="xmBY01J2nUeCO4q4RDGSdA=="/>
-		<POI MapID="1228" xpos="-527.651" ypos="78.4324" zpos="368.68" type="tw_guides.tw_pof.tw_pof_er.tw_pof_er_adv_skimshallowcovesupplyrun.tw_pof_er_adv_skimshallowcovesupplyrun_jumponspot" GUID="VW7gYsfbb0Cs4a62Zw3UWw=="/>
-		<POI MapID="1228" xpos="-494.059" ypos="80.4469" zpos="351.762" type="tw_guides.tw_pof.tw_pof_er.tw_pof_er_adv_skimshallowcovesupplyrun.tw_pof_er_adv_skimshallowcovesupplyrun_jumponspot" GUID="t+Hy5Rhhq0uIc4nFmNS54Q=="/>
-		<POI MapID="1228" xpos="-489.422" ypos="83.0011" zpos="349.273" type="tw_guides.tw_pof.tw_pof_er.tw_pof_er_adv_skimshallowcovesupplyrun.tw_pof_er_adv_skimshallowcovesupplyrun_jumponspot" GUID="3OviqVEAskSi2PzKb3uYeg=="/>
-		<POI MapID="1228" xpos="-483.081" ypos="82.7357" zpos="346.407" type="tw_guides.tw_pof.tw_pof_er.tw_pof_er_adv_skimshallowcovesupplyrun.tw_pof_er_adv_skimshallowcovesupplyrun_jumponspot" GUID="rGFDNmPoN0SCcjEjS48B8w=="/>
-		<POI MapID="1228" xpos="-463.985" ypos="85.0505" zpos="340.004" type="tw_guides.tw_pof.tw_pof_er.tw_pof_er_adv_skimshallowcovesupplyrun.tw_pof_er_adv_skimshallowcovesupplyrun_jumponspot" GUID="mQUbz4pNhUSLnxnbpLdg2A=="/>
-		<POI MapID="1228" xpos="-449.309" ypos="84.8869" zpos="327.32" type="tw_guides.tw_pof.tw_pof_er.tw_pof_er_adv_skimshallowcovesupplyrun.tw_pof_er_adv_skimshallowcovesupplyrun_jumponspot" GUID="nrUwXpurkEi4NkvXlKfO1A=="/>
-		<POI MapID="1228" xpos="-363.9" ypos="40.5012" zpos="90.2916" type="tw_guides.tw_pof.tw_pof_er.tw_pof_er_adv_skimshallowcovesupplyrun.tw_pof_er_adv_skimshallowcovesupplyrun_jumponspot" GUID="D7HbWNwx30m/IkNbsn2+ZQ=="/>
-		<POI MapID="1228" xpos="-294.797" ypos="4.80519" zpos="-23.9769" type="tw_guides.tw_pof.tw_pof_er.tw_pof_er_adv_skimshallowcovesupplyrun.tw_pof_er_adv_skimshallowcovesupplyrun_jumponspot" GUID="+IF/6FtYT02ECzwa+RjuCw=="/>
-		<POI MapID="1228" xpos="-294.547" ypos="4.80519" zpos="-31.427" type="tw_guides.tw_pof.tw_pof_er.tw_pof_er_adv_skimshallowcovesupplyrun.tw_pof_er_adv_skimshallowcovesupplyrun_jumponspot" GUID="5B3AQV4zzkCm4Sl39Tv0xA=="/>
-		<POI MapID="1228" xpos="-299.703" ypos="3.23821" zpos="-15.3448" type="tw_guides.tw_pof.tw_pof_er.tw_pof_er_adv_skimshallowcovesupplyrun.tw_pof_er_adv_skimshallowcovesupplyrun_jumponspot" GUID="I+UjQLJyFUydAvXfYGuy4g=="/>
-		<POI MapID="1228" xpos="-591.04" ypos="2.92523" zpos="-46.0176" type="tw_guides.tw_pof.tw_pof_er.tw_pof_er_adv_skimshallowcovesupplyrun.tw_pof_er_adv_skimshallowcovesupplyrun_jumponspot" GUID="7w3J0SWyikW04r4OOMvgVw=="/>
-		<POI MapID="1228" xpos="-594.315" ypos="6.05187" zpos="-46.3432" type="tw_guides.tw_pof.tw_pof_er.tw_pof_er_adv_skimshallowcovesupplyrun.tw_pof_er_adv_skimshallowcovesupplyrun_jumponspot" GUID="Iw92/5RYUEiq1CWOF4kt8w=="/>
-		<POI MapID="1228" xpos="-1043.99" ypos="47.2287" zpos="348.099" type="tw_guides.tw_pof.tw_pof_er.tw_pof_er_magichunter_node" GUID="ha1WBBZEEkGkOfFCI1sEqA=="/>
-		<POI MapID="1228" xpos="-1056.99" ypos="5.7276" zpos="-166.355" type="tw_guides.tw_pof.tw_pof_er.tw_pof_er_magichunter_node" GUID="8DMCFEuw1kCQ+9kYBWM4Bg=="/>
-		<POI MapID="1228" xpos="-1052.92" ypos="47.8786" zpos="416.393" type="tw_guides.tw_pof.tw_pof_er.tw_pof_er_magichunter_node" GUID="wz5lySbU8EG8os/FDeVApQ=="/>
-		<POI MapID="1228" xpos="-185.038" ypos="91.3161" zpos="970.429" type="tw_guides.tw_pof.tw_pof_er.tw_pof_er_magichunter_node" GUID="cODvwO5CP0e5y5jBbUh9ew=="/>
-		<POI MapID="1228" xpos="-424.371" ypos="3.23821" zpos="143.574" type="tw_guides.tw_pof.tw_pof_er.tw_pof_er_magichunter_node" GUID="FBncB1hgNkOI4G8Am1o06A=="/>
-		<POI MapID="1228" xpos="-564.007" ypos="3.47131" zpos="-590.649" type="tw_guides.tw_pof.tw_pof_er.tw_pof_er_magichunter_node" GUID="hvcNsUy/SUWIbStVcBPuEQ=="/>
-		<POI MapID="1228" xpos="-175.232" ypos="-0.542789" zpos="-937.102" type="tw_guides.tw_pof.tw_pof_er.tw_pof_er_magichunter_node" GUID="KdITPIDNIUqbeLVNLH7hSQ=="/>
-		<POI MapID="1228" xpos="980.171" ypos="1.37639" zpos="-883.576" type="tw_guides.tw_pof.tw_pof_er.tw_pof_er_magichunter_node" GUID="uQmVTaqt60qkPtypR2c5ew=="/>
-		<POI MapID="1228" xpos="212.295" ypos="1.37639" zpos="-8.19677" type="tw_guides.tw_pof.tw_pof_er.tw_pof_er_magichunter_node" GUID="slySod7jEUOyMkz2aW0HTw=="/>
-		<POI MapID="1228" xpos="540.185" ypos="131.741" zpos="795.559" type="tw_guides.tw_pof.tw_pof_er.tw_pof_er_magichunter_node" GUID="PF8HOF2jcEO1shvp2rMM/g=="/>
-		<POI MapID="1228" xpos="-111.129" ypos="139.732" zpos="784.319" type="tw_guides.tw_pof.tw_pof_er.tw_pof_er_magichunter_node" GUID="pvbhn4jhfU+2uo/kZFDpAQ=="/>
-		<POI MapID="1228" xpos="892.15" ypos="5.76985" zpos="-87.855" type="tw_guides.tw_pof.tw_pof_er.tw_pof_er_magichunter_node" GUID="N03HEyh7kUK/WjoVed+1/w=="/>
-		<POI MapID="1228" xpos="-166.439" ypos="73.3196" zpos="534.315" type="tw_guides.tw_pof.tw_pof_er.tw_pof_er_magichunter_node" GUID="7R7yXij6yE6t9MPotx515Q=="/>
-		<POI MapID="1228" xpos="-957.209" ypos="111.418" zpos="842.268" type="tw_guides.tw_pof.tw_pof_er.tw_pof_er_magichunter_node" GUID="oKl4hoEWtESJZVI3l/Q+rw=="/>
-		<POI MapID="1228" xpos="-831.428" ypos="72.7529" zpos="-811.431" type="tw_guides.tw_pof.tw_pof_er.tw_pof_er_magichunter_node" GUID="U9sURpoICEWSQK6e4FK9EA=="/>
-		<POI MapID="1228" xpos="631.028" ypos="75.749" zpos="-360.374" type="tw_guides.tw_pof.tw_pof_er.tw_pof_er_magichunter_node" GUID="SH2IeDY33ESquI5rK8GyXQ=="/>
-		<POI MapID="1228" xpos="623.469" ypos="10.3148" zpos="-943.074" type="tw_guides.tw_pof.tw_pof_er.tw_pof_er_lostlore_page" GUID="Cszfwx8I+ESElyH5OpNXAw=="/>
-		<POI MapID="1228" xpos="-702.309" ypos="100.151" zpos="-204.913" type="tw_guides.tw_pof.tw_pof_er.tw_pof_er_lostlore_page" GUID="m9pmtinb4UqNn/t/mrfmsg=="/>
-		<POI MapID="1228" xpos="330.361" ypos="196.389" zpos="805.594" type="tw_guides.tw_pof.tw_pof_er.tw_pof_er_lostlore_page" GUID="GVgIXcN0N0SZ0xavuPKAnA=="/>
-		<POI MapID="1228" xpos="-443.488" ypos="27.2161" zpos="-92.4625" type="tw_guides.tw_pof.tw_pof_er.tw_pof_er_lostlore_page" GUID="l6AjKMtukEezPFbNSUB9Fw=="/>
-		<POI MapID="1228" xpos="-1031.85" ypos="17.6013" zpos="-624.528" type="tw_guides.tw_pof.tw_pof_er.tw_pof_er_lostlore_page" GUID="zJOQpY/GzU6NAjvBGmcC6w=="/>
-		<POI MapID="1228" xpos="275.594" ypos="27.627" zpos="-10.706" type="tw_guides.tw_pof.tw_pof_er.tw_pof_er_lostlore_page" GUID="D9/dLSBbgU2u4hayzIysaA=="/>
-		<POI MapID="1228" xpos="1056.26" ypos="3.27939" zpos="-331.924" type="tw_guides.tw_pof.tw_pof_er.tw_pof_er_lostlore_page" GUID="0USGzCcrpkuBVckGMV9nog=="/>
-    <Trail type="tw_guides.tw_pof.tw_pof_er.tw_pof_er_forgottendebris.tw_pof_er_forgottendebris_toggletrail" GUID="S+UrVuAeoUehw0JuwT1PXw==" fadeNear="2500" fadeFar="2600" trailData="Data/TekkitsWorkshop/PoF/ElonRiverlands/tw_pof_er_forgottendebris.trl" animSpeed="0" texture="Data/TekkitsWorkshop/General/tw_trail_b.png"/>
-    <Trail type="tw_guides.tw_pof.tw_pof_er.tw_pof_er_adv_skimshallowcovesupplyrun.tw_pof_er_adv_skimshallowcovesupplyrun_toggletrail" GUID="iKf218PNxUmoj1ALrxXmMw==" fadeNear="2500" fadeFar="2600" trailData="Data/TekkitsWorkshop/PoF/ElonRiverlands/tw_pof_er_adv_skimshallowcovesupplyrun.trl" animSpeed="0" texture="Data/TekkitsWorkshop/General/tw_trail_g.png"/>
-    <Trail type="tw_guides.tw_pof.tw_pof_er.tw_pof_er_sandportals.tw_pof_er_sandportals_toggletrail" GUID="RYtp1f3WaEm4tIP2jCjmzA==" fadeNear="10000" fadeFar="10000" trailData="Data/TekkitsWorkshop/PoF/ElonRiverlands/tw_pof_er_sandportals.trl" animSpeed="0" texture="Data/TekkitsWorkshop/General/tw_trail_link.png"/>
-  </POIs>
+	<MarkerCategory name="tw_guides" DisplayName="Tekkit's Guides">
+		<MarkerCategory name="tw_pof" DisplayName="Path of Fire">
+			<MarkerCategory name="tw_pof_er" DisplayName="Elon Riverlands">
+				<MarkerCategory name="tw_pof_er_forgottendebris" DisplayName="Forgotten Debris">
+					<MarkerCategory name="tw_pof_er_forgottendebris_forgottendebris" DisplayName="Toggle Forgotten Debris" mapDisplaySize="30" iconFile="Data/TekkitsWorkshop/PoF/ElonRiverlands/tw_pof_er_forgottendebris_forgottendebris.png" iconSize="0.5" heightOffset="0.5" minSize="10" fadeNear="3000" fadeFar="3100" behavior="2" />
+					<MarkerCategory name="tw_pof_er_forgottendebris_toggletrail" DisplayName="Toggle Trail">
+					</MarkerCategory>
+					<MarkerCategory name="tw_pof_er_forgottendebris_signs" DisplayName="Toggle Signs">
+						<MarkerCategory name="tw_pof_er_forgottendebris_startsignp1" DisplayName="Starting Sign Part1" mapDisplaySize="130" iconFile="Data/TekkitsWorkshop/PoF/ElonRiverlands/tw_pof_er_forgottendebris_sign1.png" iconSize="1" heightOffset="2.5" minSize="50" fadeNear="5000" fadeFar="5100" />
+						<MarkerCategory name="tw_pof_er_forgottendebris_startsignp2" DisplayName="Starting Sign Part2" mapDisplaySize="130" iconFile="Data/TekkitsWorkshop/PoF/ElonRiverlands/tw_pof_er_forgottendebris_sign2.png" iconSize="1" heightOffset="2.5" minSize="50" fadeNear="5000" fadeFar="5100" />
+						<MarkerCategory name="tw_pof_er_forgottendebris_startsignp3" DisplayName="Starting Sign Part3" mapDisplaySize="130" iconFile="Data/TekkitsWorkshop/PoF/ElonRiverlands/tw_pof_er_forgottendebris_sign3.png" iconSize="1" heightOffset="2.5" minSize="50" fadeNear="5000" fadeFar="5100" />
+						<MarkerCategory name="tw_pof_er_forgottendebris_startsignp4" DisplayName="Starting Sign Part4" mapDisplaySize="130" iconFile="Data/TekkitsWorkshop/PoF/ElonRiverlands/tw_pof_er_forgottendebris_sign4.png" iconSize="1" heightOffset="2.5" minSize="50" fadeNear="5000" fadeFar="5100" />
+						<MarkerCategory name="tw_pof_er_forgottendebris_startsignp5" DisplayName="Starting Sign Part5" mapDisplaySize="130" iconFile="Data/TekkitsWorkshop/PoF/ElonRiverlands/tw_pof_er_forgottendebris_sign5.png" iconSize="1" heightOffset="2.5" minSize="50" fadeNear="5000" fadeFar="5100" />
+						<MarkerCategory name="tw_pof_er_forgottendebris_startsignp6" DisplayName="Starting Sign Part6" mapDisplaySize="130" iconFile="Data/TekkitsWorkshop/PoF/ElonRiverlands/tw_pof_er_forgottendebris_sign6.png" iconSize="1" heightOffset="2.5" minSize="50" fadeNear="5000" fadeFar="5100" />
+						<MarkerCategory name="tw_pof_er_forgottendebris_teleport1" DisplayName="Teleport Sign Part1" miniMapVisibility="0" mapVisibility="0" iconFile="Data/TekkitsWorkshop/PoF/ElonRiverlands/tw_pof_er_teleport1.png" iconSize="1" heightOffset="2.5" minSize="50" fadeNear="5000" fadeFar="5100" />
+						<MarkerCategory name="tw_pof_er_forgottendebris_teleport2" DisplayName="Teleport Sign Part2" miniMapVisibility="0" mapVisibility="0" iconFile="Data/TekkitsWorkshop/PoF/ElonRiverlands/tw_pof_er_teleport2.png" iconSize="1" heightOffset="2.5" minSize="50" fadeNear="5000" fadeFar="5100" />
+						<MarkerCategory name="tw_pof_er_forgottendebris_teleport3" DisplayName="Teleport Sign Part3" miniMapVisibility="0" mapVisibility="0" iconFile="Data/TekkitsWorkshop/PoF/ElonRiverlands/tw_pof_er_teleport3.png" iconSize="1" heightOffset="2.5" minSize="50" fadeNear="5000" fadeFar="5100" />
+						<MarkerCategory name="tw_pof_er_forgottendebris_finish" DisplayName="Finish Sign" mapDisplaySize="80" iconFile="Data/TekkitsWorkshop/General/tw_trail_finish_b.png" iconSize="1" heightOffset="2.5" minSize="50" fadeNear="5000" fadeFar="5100" />
+					</MarkerCategory>
+				</MarkerCategory>
+				<MarkerCategory name="tw_pof_er_adv_skimshallowcovesupplyrun" DisplayName="Adventure - Skimshallow Cove Supply Run">
+					<MarkerCategory name="tw_pof_er_adv_skimshallowcovesupplyrun_jumponspot" DisplayName="Toggle Jump-On Spots" miniMapVisibility="0" mapVisibility="0" iconFile="Data/TekkitsWorkshop/General/tw_trail_jump.png" iconSize="0.5" heightOffset="0.5" minSize="10" fadeNear="3000" fadeFar="3100" />
+					<MarkerCategory name="tw_pof_er_adv_skimshallowcovesupplyrun_toggletrail" DisplayName="Toggle Trail">
+					</MarkerCategory>
+					<MarkerCategory name="tw_pof_er_adv_skimshallowcovesupplyrun_signs" DisplayName="Toggle Signs">
+						<MarkerCategory name="tw_pof_er_adv_skimshallowcovesupplyrun_startsign" DisplayName="Starting Sign" mapDisplaySize="130" iconFile="Data/TekkitsWorkshop/PoF/ElonRiverlands/tw_pof_er_adv_skimshallowcovesupplyrun_startsign.png" iconSize="1" heightOffset="2.5" minSize="50" fadeNear="5000" fadeFar="5100" />
+						<MarkerCategory name="tw_pof_er_adv_skimshallowcovesupplyrun_finishsign" DisplayName="Finish Sign" mapDisplaySize="80" iconFile="Data/TekkitsWorkshop/General/tw_trail_finish_g.png" iconSize="1" heightOffset="2.5" minSize="50" fadeNear="5000" fadeFar="5100" />
+					</MarkerCategory>
+				</MarkerCategory>
+				<MarkerCategory name="tw_pof_er_magichunter_node" DisplayName="Magic Hunter Collection" mapDisplaySize="30" iconFile="Data/TekkitsWorkshop/PoF/ElonRiverlands/tw_pof_er_magichunter_node.png" iconSize="0.5" heightOffset="0.5" minSize="10" fadeNear="3000" fadeFar="3100" behavior="2" />
+				<MarkerCategory name="tw_pof_er_lostlore_page" DisplayName="Lost Lore of Elon Riverlands" mapDisplaySize="30" iconSize="0.5" minSize="15" heightOffset="0.0" iconFile="Data/TekkitsWorkshop/PoF/CrystalOasis/tw_pof_co_lostlore_page.png" />
+				<MarkerCategory name="tw_pof_er_sandportals" DisplayName="Sand Portals">
+					<MarkerCategory name="tw_pof_er_sandportals_sandportal" DisplayName="Toggle Portals" mapDisplaySize="30" iconFile="Data/TekkitsWorkshop/General/tw_trail_entrance.png" iconSize="0.5" heightOffset="1.5" minSize="10" fadeNear="10000" fadeFar="10000" />
+					<MarkerCategory name="tw_pof_er_sandportals_toggletrail" DisplayName="Toggle Trail">
+					</MarkerCategory>
+				</MarkerCategory>
+			</MarkerCategory>
+		</MarkerCategory>
+	</MarkerCategory>
+	<POIs>
+		<POI MapID="1228" xpos="690.477" ypos="48.5785" zpos="271.819" type="tw_guides.tw_pof.tw_pof_er.tw_pof_er_forgottendebris.tw_pof_er_forgottendebris_forgottendebris" GUID="XRW1yfvSD0qi+sxBgrGVHw==" />
+		<POI MapID="1228" xpos="-199.709" ypos="136.284" zpos="650.952" type="tw_guides.tw_pof.tw_pof_er.tw_pof_er_forgottendebris.tw_pof_er_forgottendebris_forgottendebris" GUID="f21S1V+W6Eejh0YhQAgMqQ==" />
+		<POI MapID="1228" xpos="-124.697" ypos="33.4708" zpos="973.834" type="tw_guides.tw_pof.tw_pof_er.tw_pof_er_forgottendebris.tw_pof_er_forgottendebris_forgottendebris" GUID="y/ycxJGRLUq7rpXo870zsA==" />
+		<POI MapID="1228" xpos="75.702" ypos="72.9641" zpos="346.832" type="tw_guides.tw_pof.tw_pof_er.tw_pof_er_forgottendebris.tw_pof_er_forgottendebris_forgottendebris" GUID="dp/Q69a4a0G8Z4mdGkYmZg==" />
+		<POI MapID="1228" xpos="-177.999" ypos="93.758" zpos="993.349" type="tw_guides.tw_pof.tw_pof_er.tw_pof_er_forgottendebris.tw_pof_er_forgottendebris_forgottendebris" GUID="xM5Lp6TCnECzlAfjEdrFXA==" />
+		<POI MapID="1228" xpos="1011.49" ypos="83.6969" zpos="958.943" type="tw_guides.tw_pof.tw_pof_er.tw_pof_er_forgottendebris.tw_pof_er_forgottendebris_forgottendebris" GUID="Hfq4k8+tIEWz8+jMT+iy4g==" />
+		<POI MapID="1228" xpos="938.08" ypos="11.1905" zpos="2.07032" type="tw_guides.tw_pof.tw_pof_er.tw_pof_er_forgottendebris.tw_pof_er_forgottendebris_forgottendebris" GUID="lQZ4gfssEUqLNwdhM/kvQw==" />
+		<POI MapID="1228" xpos="-789.591" ypos="108.709" zpos="997.84" type="tw_guides.tw_pof.tw_pof_er.tw_pof_er_forgottendebris.tw_pof_er_forgottendebris_forgottendebris" GUID="3KqQIWTBjkyzzjyt0k8yEw==" />
+		<POI MapID="1228" xpos="-876.961" ypos="145.34" zpos="742.26" type="tw_guides.tw_pof.tw_pof_er.tw_pof_er_forgottendebris.tw_pof_er_forgottendebris_forgottendebris" GUID="+nA1Hh0Dn0Oyd2doKzYx6w==" />
+		<POI MapID="1228" xpos="-927.058" ypos="80.8113" zpos="347.85" type="tw_guides.tw_pof.tw_pof_er.tw_pof_er_forgottendebris.tw_pof_er_forgottendebris_forgottendebris" GUID="YkudANcPnEysZk6bJa2o6Q==" />
+		<POI MapID="1228" xpos="-807.66" ypos="22.2669" zpos="351.822" type="tw_guides.tw_pof.tw_pof_er.tw_pof_er_forgottendebris.tw_pof_er_forgottendebris_forgottendebris" GUID="Sh48jGKDP0qr7zZ4ev0d1w==" />
+		<POI MapID="1228" xpos="-414.118" ypos="4.44677" zpos="166.599" type="tw_guides.tw_pof.tw_pof_er.tw_pof_er_forgottendebris.tw_pof_er_forgottendebris_forgottendebris" GUID="TH/BZzRpxkeQvgujD52V9g==" />
+		<POI MapID="1228" xpos="496.177" ypos="64.1605" zpos="768.434" type="tw_guides.tw_pof.tw_pof_er.tw_pof_er_forgottendebris.tw_pof_er_forgottendebris_forgottendebris" GUID="PrVgnRepgEetT/4HMsF+7w==" />
+		<POI MapID="1228" xpos="364.524" ypos="183.205" zpos="777.057" type="tw_guides.tw_pof.tw_pof_er.tw_pof_er_forgottendebris.tw_pof_er_forgottendebris_forgottendebris" GUID="s3LlSt9IXkqr55Hh9GNXBg==" />
+		<POI MapID="1228" xpos="-128.657" ypos="21.7791" zpos="-193.283" type="tw_guides.tw_pof.tw_pof_er.tw_pof_er_forgottendebris.tw_pof_er_forgottendebris_forgottendebris" GUID="PZBndqVqtUC36YU0r5a9cw==" />
+		<POI MapID="1228" xpos="-351.129" ypos="126.606" zpos="-429.236" type="tw_guides.tw_pof.tw_pof_er.tw_pof_er_forgottendebris.tw_pof_er_forgottendebris_forgottendebris" GUID="+ufgIFFbJE2xplqbFsK8GQ==" />
+		<POI MapID="1228" xpos="108.06" ypos="-11.3649" zpos="-552.679" type="tw_guides.tw_pof.tw_pof_er.tw_pof_er_forgottendebris.tw_pof_er_forgottendebris_forgottendebris" GUID="WzkVJBBZlk6J50cdfPxgJA==" />
+		<POI MapID="1228" xpos="456.129" ypos="95.6419" zpos="-407.192" type="tw_guides.tw_pof.tw_pof_er.tw_pof_er_forgottendebris.tw_pof_er_forgottendebris_forgottendebris" GUID="wnZo2ejoP0u+GKTvE3W3ZA==" />
+		<POI MapID="1228" xpos="232.798" ypos="-74.0659" zpos="34.5299" type="tw_guides.tw_pof.tw_pof_er.tw_pof_er_forgottendebris.tw_pof_er_forgottendebris_forgottendebris" GUID="v/1wg722ikiw6PRYE9VWAQ==" />
+		<POI MapID="1228" xpos="-1050.87" ypos="5.97007" zpos="-157.315" type="tw_guides.tw_pof.tw_pof_er.tw_pof_er_forgottendebris.tw_pof_er_forgottendebris_forgottendebris" GUID="TMkWS+4Iw02IVOJnnxy18A==" />
+		<POI MapID="1228" xpos="682.95" ypos="5.96925" zpos="-867.589" type="tw_guides.tw_pof.tw_pof_er.tw_pof_er_forgottendebris.tw_pof_er_forgottendebris_forgottendebris" GUID="xd9F5aBhDk2+v0VZbde2SA==" />
+		<POI MapID="1228" xpos="546.246" ypos="35.7956" zpos="-636.157" type="tw_guides.tw_pof.tw_pof_er.tw_pof_er_forgottendebris.tw_pof_er_forgottendebris_forgottendebris" GUID="1N28X1FwF0iMxjthxeMljg==" />
+		<POI MapID="1228" xpos="-323.348" ypos="96.924" zpos="-712.973" type="tw_guides.tw_pof.tw_pof_er.tw_pof_er_forgottendebris.tw_pof_er_forgottendebris_forgottendebris" GUID="HeZT6R7CQESB+C5c2JugPQ==" />
+		<POI MapID="1228" xpos="-1046.11" ypos="5.61976" zpos="-430.056" type="tw_guides.tw_pof.tw_pof_er.tw_pof_er_forgottendebris.tw_pof_er_forgottendebris_forgottendebris" GUID="B57eT9wP7keYDJ2mTJIfUQ==" />
+		<POI MapID="1228" xpos="-1000.27" ypos="36.9972" zpos="-916.74" type="tw_guides.tw_pof.tw_pof_er.tw_pof_er_forgottendebris.tw_pof_er_forgottendebris_forgottendebris" GUID="X0guYUYiVUu250gT7bhf8g==" />
+		<POI MapID="1228" xpos="-676.698" ypos="45.9106" zpos="-749.291" type="tw_guides.tw_pof.tw_pof_er.tw_pof_er_forgottendebris.tw_pof_er_forgottendebris_forgottendebris" GUID="/ir5+8pg4E2JUlePeFPj0Q==" />
+		<POI MapID="1228" xpos="780.937" ypos="107.897" zpos="840.517" type="tw_guides.tw_pof.tw_pof_er.tw_pof_er_sandportals.tw_pof_er_sandportals_sandportal" GUID="t/IkwYzt0EeBFj29/TmrHA==" />
+		<POI MapID="1228" xpos="666.703" ypos="103.538" zpos="890.956" type="tw_guides.tw_pof.tw_pof_er.tw_pof_er_sandportals.tw_pof_er_sandportals_sandportal" GUID="2AAny2j4nkWFPnhCeQRxdQ==" />
+		<POI MapID="1228" xpos="938.434" ypos="85.782" zpos="577.169" type="tw_guides.tw_pof.tw_pof_er.tw_pof_er_sandportals.tw_pof_er_sandportals_sandportal" GUID="svpnYT0cRUyhcLzww64Zyw==" />
+		<POI MapID="1228" xpos="940.916" ypos="105.588" zpos="708.318" type="tw_guides.tw_pof.tw_pof_er.tw_pof_er_sandportals.tw_pof_er_sandportals_sandportal" GUID="tcDlYyK3GEWJiZCO3Yfp4Q==" />
+		<POI MapID="1228" xpos="1005.33" ypos="53.1933" zpos="356.824" type="tw_guides.tw_pof.tw_pof_er.tw_pof_er_sandportals.tw_pof_er_sandportals_sandportal" GUID="qSi1NwuF302k6pLW1Zs1eQ==" />
+		<POI MapID="1228" xpos="991.633" ypos="63.5758" zpos="335.106" type="tw_guides.tw_pof.tw_pof_er.tw_pof_er_sandportals.tw_pof_er_sandportals_sandportal" GUID="Ph5YqzuXyEqNY+cXsmgo+w==" />
+		<POI MapID="1228" xpos="777.641" ypos="56.8441" zpos="192.385" type="tw_guides.tw_pof.tw_pof_er.tw_pof_er_sandportals.tw_pof_er_sandportals_sandportal" GUID="lj12DeaW80uB6JiMajMd5Q==" />
+		<POI MapID="1228" xpos="778.552" ypos="12.7941" zpos="-191.118" type="tw_guides.tw_pof.tw_pof_er.tw_pof_er_sandportals.tw_pof_er_sandportals_sandportal" GUID="s6LzEKjw/UWz3mqA3gx+AA==" />
+		<POI MapID="1228" xpos="808.928" ypos="6.91322" zpos="-369.778" type="tw_guides.tw_pof.tw_pof_er.tw_pof_er_sandportals.tw_pof_er_sandportals_sandportal" GUID="uytaO4ynaEmUHAcPEIRpAw==" />
+		<POI MapID="1228" xpos="838.657" ypos="37.9352" zpos="-396.212" type="tw_guides.tw_pof.tw_pof_er.tw_pof_er_sandportals.tw_pof_er_sandportals_sandportal" GUID="BQihK23UzEepCMDouPWjgA==" />
+		<POI MapID="1228" xpos="608.7" ypos="3.35318" zpos="-760.082" type="tw_guides.tw_pof.tw_pof_er.tw_pof_er_sandportals.tw_pof_er_sandportals_sandportal" GUID="WLFj4Jr+f0CEDHB2N6RF6g==" />
+		<POI MapID="1228" xpos="628.489" ypos="15.881" zpos="-824.925" type="tw_guides.tw_pof.tw_pof_er.tw_pof_er_sandportals.tw_pof_er_sandportals_sandportal" GUID="MH2WJr5ZTEKSelOhDf8OpA==" />
+		<POI MapID="1228" xpos="599.236" ypos="9.73877" zpos="-925.332" type="tw_guides.tw_pof.tw_pof_er.tw_pof_er_sandportals.tw_pof_er_sandportals_sandportal" GUID="VSWlUrSbgEujvrOWpocrVQ==" />
+		<POI MapID="1228" xpos="574.233" ypos="0.642432" zpos="-875.062" type="tw_guides.tw_pof.tw_pof_er.tw_pof_er_sandportals.tw_pof_er_sandportals_sandportal" GUID="b+6D2Vsb4E2y9ztjYN/akg==" />
+		<POI MapID="1228" xpos="554.546" ypos="0.790067" zpos="-923.589" type="tw_guides.tw_pof.tw_pof_er.tw_pof_er_sandportals.tw_pof_er_sandportals_sandportal" GUID="s+i+puNUa06mirKaBkVYrg==" />
+		<POI MapID="1228" xpos="641.986" ypos="23.1372" zpos="-982.181" type="tw_guides.tw_pof.tw_pof_er.tw_pof_er_sandportals.tw_pof_er_sandportals_sandportal" GUID="fKkqIMcbVkSuX+hT5nNorg==" />
+		<POI MapID="1228" xpos="514.772" ypos="15.3414" zpos="-959.385" type="tw_guides.tw_pof.tw_pof_er.tw_pof_er_sandportals.tw_pof_er_sandportals_sandportal" GUID="lKXmoXHOdkiCkOx/pE/3QA==" />
+		<POI MapID="1228" xpos="601.108" ypos="30.3146" zpos="-845.431" type="tw_guides.tw_pof.tw_pof_er.tw_pof_er_sandportals.tw_pof_er_sandportals_sandportal" GUID="ZdlrTm+1AEGuw64In+G69A==" />
+		<POI MapID="1228" xpos="548.345" ypos="13.3137" zpos="-501.823" type="tw_guides.tw_pof.tw_pof_er.tw_pof_er_sandportals.tw_pof_er_sandportals_sandportal" GUID="opJ+1SKhzEe60NHx6nMtsA==" />
+		<POI MapID="1228" xpos="550.556" ypos="74.8871" zpos="-473.797" type="tw_guides.tw_pof.tw_pof_er.tw_pof_er_sandportals.tw_pof_er_sandportals_sandportal" GUID="ZDhEAzPNj02gfpb18kqLWg==" />
+		<POI MapID="1228" xpos="1.6265" ypos="12.4328" zpos="-272.645" type="tw_guides.tw_pof.tw_pof_er.tw_pof_er_sandportals.tw_pof_er_sandportals_sandportal" GUID="jgEVEEtbD0WseiXAy7L8vg==" />
+		<POI MapID="1228" xpos="-118.804" ypos="72.8035" zpos="-285.246" type="tw_guides.tw_pof.tw_pof_er.tw_pof_er_sandportals.tw_pof_er_sandportals_sandportal" GUID="3AiTDIqXQkOkJhF6iYZvnw==" />
+		<POI MapID="1228" xpos="-228.18" ypos="0.216141" zpos="-692.427" type="tw_guides.tw_pof.tw_pof_er.tw_pof_er_sandportals.tw_pof_er_sandportals_sandportal" GUID="uCAc2L8xJUS164vbCHYFJw==" />
+		<POI MapID="1228" xpos="-178.734" ypos="71.534" zpos="-602.426" type="tw_guides.tw_pof.tw_pof_er.tw_pof_er_sandportals.tw_pof_er_sandportals_sandportal" GUID="Fqdk1j40iUqRZ8ZMDsa61Q==" />
+		<POI MapID="1228" xpos="-711.289" ypos="48.4704" zpos="-526.277" type="tw_guides.tw_pof.tw_pof_er.tw_pof_er_sandportals.tw_pof_er_sandportals_sandportal" GUID="9ZIND56c50a5F+eaXaIV+Q==" />
+		<POI MapID="1228" xpos="-691.089" ypos="78.1311" zpos="-359.953" type="tw_guides.tw_pof.tw_pof_er.tw_pof_er_sandportals.tw_pof_er_sandportals_sandportal" GUID="N44frEil9kWyiZQePWDNJg==" />
+		<POI MapID="1228" xpos="-686.493" ypos="78.9797" zpos="-340.768" type="tw_guides.tw_pof.tw_pof_er.tw_pof_er_sandportals.tw_pof_er_sandportals_sandportal" GUID="OHksTrOxj0GAPOKzGoFsNA==" />
+		<POI MapID="1228" xpos="-671.196" ypos="3.34396" zpos="-190.742" type="tw_guides.tw_pof.tw_pof_er.tw_pof_er_sandportals.tw_pof_er_sandportals_sandportal" GUID="oBQq8fTmFUOSNHiWmi3stg==" />
+		<POI MapID="1228" xpos="-678.245" ypos="10.253" zpos="32.0243" type="tw_guides.tw_pof.tw_pof_er.tw_pof_er_sandportals.tw_pof_er_sandportals_sandportal" GUID="5Eg4eltoLUG6+5L75LIyGw==" />
+		<POI MapID="1228" xpos="-724.854" ypos="61.4109" zpos="399.073" type="tw_guides.tw_pof.tw_pof_er.tw_pof_er_sandportals.tw_pof_er_sandportals_sandportal" GUID="/5dWVEvSXE2TNYUtuWt5mA==" />
+		<POI MapID="1228" xpos="-190.104" ypos="80.0221" zpos="589.384" type="tw_guides.tw_pof.tw_pof_er.tw_pof_er_sandportals.tw_pof_er_sandportals_sandportal" GUID="UqfwGuNKHEeKsebLu7kJzQ==" />
+		<POI MapID="1228" xpos="-31.2843" ypos="79.3544" zpos="499.956" type="tw_guides.tw_pof.tw_pof_er.tw_pof_er_sandportals.tw_pof_er_sandportals_sandportal" GUID="pSVwmj0KJEW7eILWUbEoUg==" />
+		<POI MapID="1228" xpos="-20.4352" ypos="78.5583" zpos="422.016" type="tw_guides.tw_pof.tw_pof_er.tw_pof_er_sandportals.tw_pof_er_sandportals_sandportal" GUID="EkfN5PYw3Uu9MfkKfScqKA==" />
+		<POI MapID="1228" xpos="-86.2073" ypos="76.5911" zpos="310.06" type="tw_guides.tw_pof.tw_pof_er.tw_pof_er_sandportals.tw_pof_er_sandportals_sandportal" GUID="UHG9YsfmrU+Gb4+ipCac5g==" />
+		<POI MapID="1228" xpos="179.411" ypos="104.959" zpos="621.759" type="tw_guides.tw_pof.tw_pof_er.tw_pof_er_sandportals.tw_pof_er_sandportals_sandportal" GUID="Q6TnXIU/eUKh0chhYva4kw==" />
+		<POI MapID="1228" xpos="367.975" ypos="117.145" zpos="890.055" type="tw_guides.tw_pof.tw_pof_er.tw_pof_er_sandportals.tw_pof_er_sandportals_sandportal" GUID="+PkYiFLrnEyY5lhoPnIDyg==" />
+		<POI MapID="1228" xpos="87.4078" ypos="97.3791" zpos="968.394" type="tw_guides.tw_pof.tw_pof_er.tw_pof_er_sandportals.tw_pof_er_sandportals_sandportal" GUID="0tGCnr8JhEq8gZq3M7XjGg==" />
+		<POI MapID="1228" xpos="-63.1776" ypos="28.4839" zpos="971.996" type="tw_guides.tw_pof.tw_pof_er.tw_pof_er_sandportals.tw_pof_er_sandportals_sandportal" GUID="0f98UnU8qEO+GuSQTZlGiA==" />
+		<POI MapID="1228" xpos="643.387" ypos="86.4374" zpos="587.119" type="tw_guides.tw_pof.tw_pof_er.tw_pof_er_forgottendebris.tw_pof_er_forgottendebris_signs.tw_pof_er_forgottendebris_startsignp1" GUID="bgiOMqPEaE2kztlT4ke0gQ==" />
+		<POI MapID="1228" xpos="-125.259" ypos="33.4708" zpos="973.885" type="tw_guides.tw_pof.tw_pof_er.tw_pof_er_forgottendebris.tw_pof_er_forgottendebris_signs.tw_pof_er_forgottendebris_teleport1" GUID="el7esM3gnU2QUeuSeg7y2g==" />
+		<POI MapID="1228" xpos="639.209" ypos="86.6582" zpos="565.579" type="tw_guides.tw_pof.tw_pof_er.tw_pof_er_forgottendebris.tw_pof_er_forgottendebris_signs.tw_pof_er_forgottendebris_startsignp2" GUID="cF1ttCWlGkSVxEed0asSEQ==" />
+		<POI MapID="1228" xpos="937.989" ypos="11.1796" zpos="2.04662" type="tw_guides.tw_pof.tw_pof_er.tw_pof_er_forgottendebris.tw_pof_er_forgottendebris_signs.tw_pof_er_forgottendebris_teleport2" GUID="IXl6Ml7PdEyRITxc8HZ2hQ==" />
+		<POI MapID="1228" xpos="-561.62" ypos="4.37667" zpos="-11.849" type="tw_guides.tw_pof.tw_pof_er.tw_pof_er_forgottendebris.tw_pof_er_forgottendebris_signs.tw_pof_er_forgottendebris_startsignp3" GUID="z2JQ4dasgE6S3xIEnzTsEQ==" />
+		<POI MapID="1228" xpos="-789.74" ypos="108.704" zpos="997.842" type="tw_guides.tw_pof.tw_pof_er.tw_pof_er_forgottendebris.tw_pof_er_forgottendebris_signs.tw_pof_er_forgottendebris_teleport2" GUID="vdMxltWnVUKIuwz/8Ihs/Q==" />
+		<POI MapID="1228" xpos="-579.365" ypos="4.57403" zpos="-15.961" type="tw_guides.tw_pof.tw_pof_er.tw_pof_er_forgottendebris.tw_pof_er_forgottendebris_signs.tw_pof_er_forgottendebris_startsignp4" GUID="JbvpB/rG+kOBUUTPTZetAw==" />
+		<POI MapID="1228" xpos="-676.666" ypos="45.9072" zpos="-749.37" type="tw_guides.tw_pof.tw_pof_er.tw_pof_er_forgottendebris.tw_pof_er_forgottendebris_signs.tw_pof_er_forgottendebris_teleport3" GUID="tt2nEOBImUmpkqwbJrZ/JA==" />
+		<POI MapID="1228" xpos="197.766" ypos="33.6567" zpos="91.2094" type="tw_guides.tw_pof.tw_pof_er.tw_pof_er_forgottendebris.tw_pof_er_forgottendebris_signs.tw_pof_er_forgottendebris_startsignp5" GUID="VA774yTNzU2pfO28lnbm9Q==" />
+		<POI MapID="1228" xpos="108.288" ypos="-11.3443" zpos="-552.569" type="tw_guides.tw_pof.tw_pof_er.tw_pof_er_forgottendebris.tw_pof_er_forgottendebris_signs.tw_pof_er_forgottendebris_teleport3" GUID="XDIdZ2k180ujRlIYOw88Dw==" />
+		<POI MapID="1228" xpos="207.671" ypos="34.4355" zpos="90.1862" type="tw_guides.tw_pof.tw_pof_er.tw_pof_er_forgottendebris.tw_pof_er_forgottendebris_signs.tw_pof_er_forgottendebris_startsignp6" GUID="rxwZbVrJRkOZQNDHAsgD1w==" />
+		<POI MapID="1228" xpos="683.042" ypos="5.96931" zpos="-867.68" type="tw_guides.tw_pof.tw_pof_er.tw_pof_er_forgottendebris.tw_pof_er_forgottendebris_signs.tw_pof_er_forgottendebris_finish" GUID="p9pK8CAdRkWqoESyXI1CEg==" />
+		<POI MapID="1228" xpos="-660.816" ypos="21.6535" zpos="-113.344" type="tw_guides.tw_pof.tw_pof_er.tw_pof_er_adv_skimshallowcovesupplyrun.tw_pof_er_adv_skimshallowcovesupplyrun_signs.tw_pof_er_adv_skimshallowcovesupplyrun_startsign" GUID="JkMDlXgMHEC8+c9Rc8LtPA==" />
+		<POI MapID="1228" xpos="-661.044" ypos="21.6535" zpos="-105.15" type="tw_guides.tw_pof.tw_pof_er.tw_pof_er_adv_skimshallowcovesupplyrun.tw_pof_er_adv_skimshallowcovesupplyrun_signs.tw_pof_er_adv_skimshallowcovesupplyrun_finishsign" GUID="ALl1mH/ILEu3XlcQjrR9wQ==" />
+		<POI MapID="1228" xpos="-652.115" ypos="6.34201" zpos="-90.4313" type="tw_guides.tw_pof.tw_pof_er.tw_pof_er_adv_skimshallowcovesupplyrun.tw_pof_er_adv_skimshallowcovesupplyrun_jumponspot" GUID="hTM96iXQAUS8/ghvTQZ7Yw==" />
+		<POI MapID="1228" xpos="-657.921" ypos="16.0501" zpos="-98.509" type="tw_guides.tw_pof.tw_pof_er.tw_pof_er_adv_skimshallowcovesupplyrun.tw_pof_er_adv_skimshallowcovesupplyrun_jumponspot" GUID="G6YjVRyarU2ZdN6E21o3Sw==" />
+		<POI MapID="1228" xpos="-660.402" ypos="21.6535" zpos="-103.415" type="tw_guides.tw_pof.tw_pof_er.tw_pof_er_adv_skimshallowcovesupplyrun.tw_pof_er_adv_skimshallowcovesupplyrun_jumponspot" GUID="fOTDd3xsgEGKbKAge4cIkw==" />
+		<POI MapID="1228" xpos="-659.448" ypos="21.6535" zpos="-115.105" type="tw_guides.tw_pof.tw_pof_er.tw_pof_er_adv_skimshallowcovesupplyrun.tw_pof_er_adv_skimshallowcovesupplyrun_jumponspot" GUID="B8SQysN6xkCchXSytbnpww==" />
+		<POI MapID="1228" xpos="-544.57" ypos="-1.05664" zpos="-223.062" type="tw_guides.tw_pof.tw_pof_er.tw_pof_er_adv_skimshallowcovesupplyrun.tw_pof_er_adv_skimshallowcovesupplyrun_jumponspot" GUID="qBipxoVs40+c2i5fjN/hBg==" />
+		<POI MapID="1228" xpos="-540.19" ypos="3.32411" zpos="-226.754" type="tw_guides.tw_pof.tw_pof_er.tw_pof_er_adv_skimshallowcovesupplyrun.tw_pof_er_adv_skimshallowcovesupplyrun_jumponspot" GUID="SwjMuKU+XEyIFsXkAZNfRg==" />
+		<POI MapID="1228" xpos="-686.986" ypos="23.8778" zpos="-201.179" type="tw_guides.tw_pof.tw_pof_er.tw_pof_er_adv_skimshallowcovesupplyrun.tw_pof_er_adv_skimshallowcovesupplyrun_jumponspot" GUID="mQQbIOZb3U68n6cKKXkr2Q==" />
+		<POI MapID="1228" xpos="-691.787" ypos="28.1428" zpos="-199.285" type="tw_guides.tw_pof.tw_pof_er.tw_pof_er_adv_skimshallowcovesupplyrun.tw_pof_er_adv_skimshallowcovesupplyrun_jumponspot" GUID="xcQhQEJjGkaA6tTiULI3Cw==" />
+		<POI MapID="1228" xpos="-713.904" ypos="28.5451" zpos="-190.099" type="tw_guides.tw_pof.tw_pof_er.tw_pof_er_adv_skimshallowcovesupplyrun.tw_pof_er_adv_skimshallowcovesupplyrun_jumponspot" GUID="XJui+P57xkGXQhwuuVSo4w==" />
+		<POI MapID="1228" xpos="-729.061" ypos="0.842412" zpos="-183.047" type="tw_guides.tw_pof.tw_pof_er.tw_pof_er_adv_skimshallowcovesupplyrun.tw_pof_er_adv_skimshallowcovesupplyrun_jumponspot" GUID="eF9K7BDuTEiHFwIT7eMhLA==" />
+		<POI MapID="1228" xpos="-862.828" ypos="6.94658" zpos="-113.269" type="tw_guides.tw_pof.tw_pof_er.tw_pof_er_adv_skimshallowcovesupplyrun.tw_pof_er_adv_skimshallowcovesupplyrun_jumponspot" GUID="xiTIQfLFuk6tkrCESGKFNg==" />
+		<POI MapID="1228" xpos="-870.82" ypos="12.3291" zpos="-109.716" type="tw_guides.tw_pof.tw_pof_er.tw_pof_er_adv_skimshallowcovesupplyrun.tw_pof_er_adv_skimshallowcovesupplyrun_jumponspot" GUID="Ni9K9gSrZ0Sb8rZF7xxVZg==" />
+		<POI MapID="1228" xpos="-837.383" ypos="27.4786" zpos="71.7582" type="tw_guides.tw_pof.tw_pof_er.tw_pof_er_adv_skimshallowcovesupplyrun.tw_pof_er_adv_skimshallowcovesupplyrun_jumponspot" GUID="XFJBaJrAW0+16KoJ6GwKow==" />
+		<POI MapID="1228" xpos="-836.337" ypos="31.2916" zpos="77.225" type="tw_guides.tw_pof.tw_pof_er.tw_pof_er_adv_skimshallowcovesupplyrun.tw_pof_er_adv_skimshallowcovesupplyrun_jumponspot" GUID="f/SU/7FJR0OnQZJxBHRfog==" />
+		<POI MapID="1228" xpos="-869.76" ypos="53.2705" zpos="134.347" type="tw_guides.tw_pof.tw_pof_er.tw_pof_er_adv_skimshallowcovesupplyrun.tw_pof_er_adv_skimshallowcovesupplyrun_jumponspot" GUID="5gCN/Z3sX0efPgljk31SCw==" />
+		<POI MapID="1228" xpos="-865.527" ypos="51.3439" zpos="128.886" type="tw_guides.tw_pof.tw_pof_er.tw_pof_er_adv_skimshallowcovesupplyrun.tw_pof_er_adv_skimshallowcovesupplyrun_jumponspot" GUID="IIx/09fGwkuPCHaat5jGIA==" />
+		<POI MapID="1228" xpos="-871.614" ypos="57.5605" zpos="136.465" type="tw_guides.tw_pof.tw_pof_er.tw_pof_er_adv_skimshallowcovesupplyrun.tw_pof_er_adv_skimshallowcovesupplyrun_jumponspot" GUID="D+ubmrsy40+KRTzT/EFj1w==" />
+		<POI MapID="1228" xpos="-875.749" ypos="59.6374" zpos="141.783" type="tw_guides.tw_pof.tw_pof_er.tw_pof_er_adv_skimshallowcovesupplyrun.tw_pof_er_adv_skimshallowcovesupplyrun_jumponspot" GUID="QLc1IKWCbEyn4Mlfn9H8qw==" />
+		<POI MapID="1228" xpos="-877.04" ypos="73.7083" zpos="199.399" type="tw_guides.tw_pof.tw_pof_er.tw_pof_er_adv_skimshallowcovesupplyrun.tw_pof_er_adv_skimshallowcovesupplyrun_jumponspot" GUID="dcQysiDvU0iWZhEriwxPjA==" />
+		<POI MapID="1228" xpos="-874.591" ypos="78.6853" zpos="202.302" type="tw_guides.tw_pof.tw_pof_er.tw_pof_er_adv_skimshallowcovesupplyrun.tw_pof_er_adv_skimshallowcovesupplyrun_jumponspot" GUID="riAcMo1vSk2WAuEvwHdvKg==" />
+		<POI MapID="1228" xpos="-834.781" ypos="77.7267" zpos="219.8" type="tw_guides.tw_pof.tw_pof_er.tw_pof_er_adv_skimshallowcovesupplyrun.tw_pof_er_adv_skimshallowcovesupplyrun_jumponspot" GUID="qTw7cHCHCEKYMomb4DhprQ==" />
+		<POI MapID="1228" xpos="-714.581" ypos="68.4156" zpos="283.876" type="tw_guides.tw_pof.tw_pof_er.tw_pof_er_adv_skimshallowcovesupplyrun.tw_pof_er_adv_skimshallowcovesupplyrun_jumponspot" GUID="dHuWT4px7kuDk+itNTUfbg==" />
+		<POI MapID="1228" xpos="-689.069" ypos="60.0042" zpos="300.427" type="tw_guides.tw_pof.tw_pof_er.tw_pof_er_adv_skimshallowcovesupplyrun.tw_pof_er_adv_skimshallowcovesupplyrun_jumponspot" GUID="DrOUwSkoTUKqANxTV3B0cg==" />
+		<POI MapID="1228" xpos="-554.798" ypos="64.5928" zpos="370.123" type="tw_guides.tw_pof.tw_pof_er.tw_pof_er_adv_skimshallowcovesupplyrun.tw_pof_er_adv_skimshallowcovesupplyrun_jumponspot" GUID="LHevKLDwUUWll2YiTC/r9A==" />
+		<POI MapID="1228" xpos="-548.874" ypos="69.7505" zpos="371.476" type="tw_guides.tw_pof.tw_pof_er.tw_pof_er_adv_skimshallowcovesupplyrun.tw_pof_er_adv_skimshallowcovesupplyrun_jumponspot" GUID="wdMbiz195ESjz3xwPlEVqg==" />
+		<POI MapID="1228" xpos="-533.587" ypos="75.5291" zpos="370.112" type="tw_guides.tw_pof.tw_pof_er.tw_pof_er_adv_skimshallowcovesupplyrun.tw_pof_er_adv_skimshallowcovesupplyrun_jumponspot" GUID="xmBY01J2nUeCO4q4RDGSdA==" />
+		<POI MapID="1228" xpos="-527.651" ypos="78.4324" zpos="368.68" type="tw_guides.tw_pof.tw_pof_er.tw_pof_er_adv_skimshallowcovesupplyrun.tw_pof_er_adv_skimshallowcovesupplyrun_jumponspot" GUID="VW7gYsfbb0Cs4a62Zw3UWw==" />
+		<POI MapID="1228" xpos="-494.059" ypos="80.4469" zpos="351.762" type="tw_guides.tw_pof.tw_pof_er.tw_pof_er_adv_skimshallowcovesupplyrun.tw_pof_er_adv_skimshallowcovesupplyrun_jumponspot" GUID="t+Hy5Rhhq0uIc4nFmNS54Q==" />
+		<POI MapID="1228" xpos="-489.422" ypos="83.0011" zpos="349.273" type="tw_guides.tw_pof.tw_pof_er.tw_pof_er_adv_skimshallowcovesupplyrun.tw_pof_er_adv_skimshallowcovesupplyrun_jumponspot" GUID="3OviqVEAskSi2PzKb3uYeg==" />
+		<POI MapID="1228" xpos="-483.081" ypos="82.7357" zpos="346.407" type="tw_guides.tw_pof.tw_pof_er.tw_pof_er_adv_skimshallowcovesupplyrun.tw_pof_er_adv_skimshallowcovesupplyrun_jumponspot" GUID="rGFDNmPoN0SCcjEjS48B8w==" />
+		<POI MapID="1228" xpos="-463.985" ypos="85.0505" zpos="340.004" type="tw_guides.tw_pof.tw_pof_er.tw_pof_er_adv_skimshallowcovesupplyrun.tw_pof_er_adv_skimshallowcovesupplyrun_jumponspot" GUID="mQUbz4pNhUSLnxnbpLdg2A==" />
+		<POI MapID="1228" xpos="-449.309" ypos="84.8869" zpos="327.32" type="tw_guides.tw_pof.tw_pof_er.tw_pof_er_adv_skimshallowcovesupplyrun.tw_pof_er_adv_skimshallowcovesupplyrun_jumponspot" GUID="nrUwXpurkEi4NkvXlKfO1A==" />
+		<POI MapID="1228" xpos="-363.9" ypos="40.5012" zpos="90.2916" type="tw_guides.tw_pof.tw_pof_er.tw_pof_er_adv_skimshallowcovesupplyrun.tw_pof_er_adv_skimshallowcovesupplyrun_jumponspot" GUID="D7HbWNwx30m/IkNbsn2+ZQ==" />
+		<POI MapID="1228" xpos="-294.797" ypos="4.80519" zpos="-23.9769" type="tw_guides.tw_pof.tw_pof_er.tw_pof_er_adv_skimshallowcovesupplyrun.tw_pof_er_adv_skimshallowcovesupplyrun_jumponspot" GUID="+IF/6FtYT02ECzwa+RjuCw==" />
+		<POI MapID="1228" xpos="-294.547" ypos="4.80519" zpos="-31.427" type="tw_guides.tw_pof.tw_pof_er.tw_pof_er_adv_skimshallowcovesupplyrun.tw_pof_er_adv_skimshallowcovesupplyrun_jumponspot" GUID="5B3AQV4zzkCm4Sl39Tv0xA==" />
+		<POI MapID="1228" xpos="-299.703" ypos="3.23821" zpos="-15.3448" type="tw_guides.tw_pof.tw_pof_er.tw_pof_er_adv_skimshallowcovesupplyrun.tw_pof_er_adv_skimshallowcovesupplyrun_jumponspot" GUID="I+UjQLJyFUydAvXfYGuy4g==" />
+		<POI MapID="1228" xpos="-591.04" ypos="2.92523" zpos="-46.0176" type="tw_guides.tw_pof.tw_pof_er.tw_pof_er_adv_skimshallowcovesupplyrun.tw_pof_er_adv_skimshallowcovesupplyrun_jumponspot" GUID="7w3J0SWyikW04r4OOMvgVw==" />
+		<POI MapID="1228" xpos="-594.315" ypos="6.05187" zpos="-46.3432" type="tw_guides.tw_pof.tw_pof_er.tw_pof_er_adv_skimshallowcovesupplyrun.tw_pof_er_adv_skimshallowcovesupplyrun_jumponspot" GUID="Iw92/5RYUEiq1CWOF4kt8w==" />
+		<POI MapID="1228" xpos="-1043.99" ypos="47.2287" zpos="348.099" type="tw_guides.tw_pof.tw_pof_er.tw_pof_er_magichunter_node" GUID="ha1WBBZEEkGkOfFCI1sEqA==" />
+		<POI MapID="1228" xpos="-1056.99" ypos="5.7276" zpos="-166.355" type="tw_guides.tw_pof.tw_pof_er.tw_pof_er_magichunter_node" GUID="8DMCFEuw1kCQ+9kYBWM4Bg==" />
+		<POI MapID="1228" xpos="-1052.92" ypos="47.8786" zpos="416.393" type="tw_guides.tw_pof.tw_pof_er.tw_pof_er_magichunter_node" GUID="wz5lySbU8EG8os/FDeVApQ==" />
+		<POI MapID="1228" xpos="-185.038" ypos="91.3161" zpos="970.429" type="tw_guides.tw_pof.tw_pof_er.tw_pof_er_magichunter_node" GUID="cODvwO5CP0e5y5jBbUh9ew==" />
+		<POI MapID="1228" xpos="-424.371" ypos="3.23821" zpos="143.574" type="tw_guides.tw_pof.tw_pof_er.tw_pof_er_magichunter_node" GUID="FBncB1hgNkOI4G8Am1o06A==" />
+		<POI MapID="1228" xpos="-564.007" ypos="3.47131" zpos="-590.649" type="tw_guides.tw_pof.tw_pof_er.tw_pof_er_magichunter_node" GUID="hvcNsUy/SUWIbStVcBPuEQ==" />
+		<POI MapID="1228" xpos="-175.232" ypos="-0.542789" zpos="-937.102" type="tw_guides.tw_pof.tw_pof_er.tw_pof_er_magichunter_node" GUID="KdITPIDNIUqbeLVNLH7hSQ==" />
+		<POI MapID="1228" xpos="980.171" ypos="1.37639" zpos="-883.576" type="tw_guides.tw_pof.tw_pof_er.tw_pof_er_magichunter_node" GUID="uQmVTaqt60qkPtypR2c5ew==" />
+		<POI MapID="1228" xpos="212.295" ypos="1.37639" zpos="-8.19677" type="tw_guides.tw_pof.tw_pof_er.tw_pof_er_magichunter_node" GUID="slySod7jEUOyMkz2aW0HTw==" />
+		<POI MapID="1228" xpos="540.185" ypos="131.741" zpos="795.559" type="tw_guides.tw_pof.tw_pof_er.tw_pof_er_magichunter_node" GUID="PF8HOF2jcEO1shvp2rMM/g==" />
+		<POI MapID="1228" xpos="-111.129" ypos="139.732" zpos="784.319" type="tw_guides.tw_pof.tw_pof_er.tw_pof_er_magichunter_node" GUID="pvbhn4jhfU+2uo/kZFDpAQ==" />
+		<POI MapID="1228" xpos="892.15" ypos="5.76985" zpos="-87.855" type="tw_guides.tw_pof.tw_pof_er.tw_pof_er_magichunter_node" GUID="N03HEyh7kUK/WjoVed+1/w==" />
+		<POI MapID="1228" xpos="-166.439" ypos="73.3196" zpos="534.315" type="tw_guides.tw_pof.tw_pof_er.tw_pof_er_magichunter_node" GUID="7R7yXij6yE6t9MPotx515Q==" />
+		<POI MapID="1228" xpos="-957.209" ypos="111.418" zpos="842.268" type="tw_guides.tw_pof.tw_pof_er.tw_pof_er_magichunter_node" GUID="oKl4hoEWtESJZVI3l/Q+rw==" />
+		<POI MapID="1228" xpos="-831.428" ypos="72.7529" zpos="-811.431" type="tw_guides.tw_pof.tw_pof_er.tw_pof_er_magichunter_node" GUID="U9sURpoICEWSQK6e4FK9EA==" />
+		<POI MapID="1228" xpos="631.028" ypos="75.749" zpos="-360.374" type="tw_guides.tw_pof.tw_pof_er.tw_pof_er_magichunter_node" GUID="SH2IeDY33ESquI5rK8GyXQ==" />
+		<POI MapID="1228" xpos="623.469" ypos="10.3148" zpos="-943.074" type="tw_guides.tw_pof.tw_pof_er.tw_pof_er_lostlore_page" GUID="Cszfwx8I+ESElyH5OpNXAw==" />
+		<POI MapID="1228" xpos="-702.309" ypos="100.151" zpos="-204.913" type="tw_guides.tw_pof.tw_pof_er.tw_pof_er_lostlore_page" GUID="m9pmtinb4UqNn/t/mrfmsg==" />
+		<POI MapID="1228" xpos="330.361" ypos="196.389" zpos="805.594" type="tw_guides.tw_pof.tw_pof_er.tw_pof_er_lostlore_page" GUID="GVgIXcN0N0SZ0xavuPKAnA==" />
+		<POI MapID="1228" xpos="-443.488" ypos="27.2161" zpos="-92.4625" type="tw_guides.tw_pof.tw_pof_er.tw_pof_er_lostlore_page" GUID="l6AjKMtukEezPFbNSUB9Fw==" />
+		<POI MapID="1228" xpos="-1031.85" ypos="17.6013" zpos="-624.528" type="tw_guides.tw_pof.tw_pof_er.tw_pof_er_lostlore_page" GUID="zJOQpY/GzU6NAjvBGmcC6w==" />
+		<POI MapID="1228" xpos="275.594" ypos="27.627" zpos="-10.706" type="tw_guides.tw_pof.tw_pof_er.tw_pof_er_lostlore_page" GUID="D9/dLSBbgU2u4hayzIysaA==" />
+		<POI MapID="1228" xpos="1056.26" ypos="3.27939" zpos="-331.924" type="tw_guides.tw_pof.tw_pof_er.tw_pof_er_lostlore_page" GUID="0USGzCcrpkuBVckGMV9nog==" />
+		<Trail type="tw_guides.tw_pof.tw_pof_er.tw_pof_er_forgottendebris.tw_pof_er_forgottendebris_toggletrail" GUID="S+UrVuAeoUehw0JuwT1PXw==" fadeNear="2500" fadeFar="2600" trailData="Data/TekkitsWorkshop/PoF/ElonRiverlands/tw_pof_er_forgottendebris.trl" animSpeed="0" texture="Data/TekkitsWorkshop/General/tw_trail_b.png" />
+		<Trail type="tw_guides.tw_pof.tw_pof_er.tw_pof_er_adv_skimshallowcovesupplyrun.tw_pof_er_adv_skimshallowcovesupplyrun_toggletrail" GUID="iKf218PNxUmoj1ALrxXmMw==" fadeNear="2500" fadeFar="2600" trailData="Data/TekkitsWorkshop/PoF/ElonRiverlands/tw_pof_er_adv_skimshallowcovesupplyrun.trl" animSpeed="0" texture="Data/TekkitsWorkshop/General/tw_trail_g.png" />
+		<Trail type="tw_guides.tw_pof.tw_pof_er.tw_pof_er_sandportals.tw_pof_er_sandportals_toggletrail" GUID="RYtp1f3WaEm4tIP2jCjmzA==" fadeNear="10000" fadeFar="10000" trailData="Data/TekkitsWorkshop/PoF/ElonRiverlands/tw_pof_er_sandportals.trl" animSpeed="0" texture="Data/TekkitsWorkshop/General/tw_trail_link.png" />
+	</POIs>
 </OverlayData>

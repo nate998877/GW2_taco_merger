@@ -1,313 +1,313 @@
 <OverlayData>
-<MarkerCategory name="tw_guides" DisplayName="Tekkit's Guides">
-  <MarkerCategory name="tw_pof" DisplayName="Path of Fire">
-    <MarkerCategory name="tw_pof_dov" DisplayName="Domain of Vabbi">
-      <MarkerCategory name="tw_pof_dov_timewornbusts" DisplayName="Timeworn Busts">
-        <MarkerCategory name="tw_pof_dov_timewornbusts_timewornbust" DisplayName="Toggle Timeworn Busts" mapDisplaySize="30" iconFile="Data/TekkitsWorkshop/PoF/DomainOfVabbi/tw_pof_dov_timewornbusts_timewornbust.png" iconSize="0.5" heightOffset="0.5" minSize="10" fadeNear="3000" fadeFar="3100" behavior="2"/>
-        <MarkerCategory name="tw_pof_dov_timewornbusts_toggletrail" DisplayName="Toggle Trail">
-          </MarkerCategory>
-        <MarkerCategory name="tw_pof_dov_timewornbusts_signs" DisplayName="Toggle Signs">
-          <MarkerCategory name="tw_pof_dov_timewornbusts_startsignp1" DisplayName="Starting Sign Part1" mapDisplaySize="130" iconFile="Data/TekkitsWorkshop/PoF/DomainOfVabbi/tw_pof_dov_timewornbusts_sign1.png" iconSize="1" heightOffset="2.5" minSize="50" fadeNear="5000" fadeFar="5100"/>
-          <MarkerCategory name="tw_pof_dov_timewornbusts_startsignp2" DisplayName="Starting Sign Part2" mapDisplaySize="130" iconFile="Data/TekkitsWorkshop/PoF/DomainOfVabbi/tw_pof_dov_timewornbusts_sign2.png" iconSize="1" heightOffset="2.5" minSize="50" fadeNear="5000" fadeFar="5100"/>
-          <MarkerCategory name="tw_pof_dov_timewornbusts_startsignp3" DisplayName="Starting Sign Part3" mapDisplaySize="130" iconFile="Data/TekkitsWorkshop/PoF/DomainOfVabbi/tw_pof_dov_timewornbusts_sign3.png" iconSize="1" heightOffset="2.5" minSize="50" fadeNear="5000" fadeFar="5100"/>
-          <MarkerCategory name="tw_pof_dov_timewornbusts_startsignp4" DisplayName="Starting Sign Part4" mapDisplaySize="130" iconFile="Data/TekkitsWorkshop/PoF/DomainOfVabbi/tw_pof_dov_timewornbusts_sign4.png" iconSize="1" heightOffset="2.5" minSize="50" fadeNear="5000" fadeFar="5100"/>
-          <MarkerCategory name="tw_pof_dov_timewornbusts_startsignp5" DisplayName="Starting Sign Part5" mapDisplaySize="130" iconFile="Data/TekkitsWorkshop/PoF/DomainOfVabbi/tw_pof_dov_timewornbusts_sign5.png" iconSize="1" heightOffset="2.5" minSize="50" fadeNear="5000" fadeFar="5100"/>
-          <MarkerCategory name="tw_pof_dov_timewornbusts_startsignp6" DisplayName="Starting Sign Part6" mapDisplaySize="130" iconFile="Data/TekkitsWorkshop/PoF/DomainOfVabbi/tw_pof_dov_timewornbusts_sign6.png" iconSize="1" heightOffset="2.5" minSize="50" fadeNear="5000" fadeFar="5100"/>
-          <MarkerCategory name="tw_pof_dov_timewornbusts_startsignp7" DisplayName="Starting Sign Part7" mapDisplaySize="130" iconFile="Data/TekkitsWorkshop/PoF/DomainOfVabbi/tw_pof_dov_timewornbusts_sign7.png" iconSize="1" heightOffset="2.5" minSize="50" fadeNear="5000" fadeFar="5100"/>
-          <MarkerCategory name="tw_pof_dov_timewornbusts_startsignp8" DisplayName="Starting Sign Part8" mapDisplaySize="130" iconFile="Data/TekkitsWorkshop/PoF/DomainOfVabbi/tw_pof_dov_timewornbusts_sign8.png" iconSize="1" heightOffset="2.5" minSize="50" fadeNear="5000" fadeFar="5100"/>
-          <MarkerCategory name="tw_pof_dov_timewornbusts_teleport1" DisplayName="Teleport Sign Part1" miniMapVisibility="0" mapVisibility="0" iconFile="Data/TekkitsWorkshop/PoF/DomainOfVabbi/tw_pof_dov_teleport1.png" iconSize="1" heightOffset="2.5" minSize="50" fadeNear="5000" fadeFar="5100"/>
-          <MarkerCategory name="tw_pof_dov_timewornbusts_teleport2" DisplayName="Teleport Sign Part2" miniMapVisibility="0" mapVisibility="0" iconFile="Data/TekkitsWorkshop/PoF/DomainOfVabbi/tw_pof_dov_teleport2.png" iconSize="1" heightOffset="2.5" minSize="50" fadeNear="5000" fadeFar="5100"/>
-          <MarkerCategory name="tw_pof_dov_timewornbusts_teleport3" DisplayName="Teleport Sign Part3" miniMapVisibility="0" mapVisibility="0" iconFile="Data/TekkitsWorkshop/PoF/DomainOfVabbi/tw_pof_dov_teleport3.png" iconSize="1" heightOffset="2.5" minSize="50" fadeNear="5000" fadeFar="5100"/>
-          <MarkerCategory name="tw_pof_dov_timewornbusts_teleport4" DisplayName="Teleport Sign Part4" miniMapVisibility="0" mapVisibility="0" iconFile="Data/TekkitsWorkshop/PoF/DomainOfVabbi/tw_pof_dov_teleport4.png" iconSize="1" heightOffset="2.5" minSize="50" fadeNear="5000" fadeFar="5100"/>
-          <MarkerCategory name="tw_pof_dov_timewornbusts_teleport5" DisplayName="Teleport Sign Part5" miniMapVisibility="0" mapVisibility="0" iconFile="Data/TekkitsWorkshop/PoF/DomainOfVabbi/tw_pof_dov_teleport5.png" iconSize="1" heightOffset="2.5" minSize="50" fadeNear="5000" fadeFar="5100"/>
-          <MarkerCategory name="tw_pof_dov_timewornbusts_finish" DisplayName="Finish Sign" mapDisplaySize="80" iconFile="Data/TekkitsWorkshop/General/tw_trail_finish_b.png" iconSize="1" heightOffset="2.5" minSize="50" fadeNear="5000" fadeFar="5100"/>
-        </MarkerCategory>
-      </MarkerCategory>
-      <MarkerCategory name="tw_pof_dov_adv_gardenwineandcheeserun" DisplayName="Adventure - Garden Wine and Cheese Run">
-        <MarkerCategory name="tw_pof_dov_adv_gardenwineandcheeserun_jumponspot" DisplayName="Toggle Jump-On Spots" miniMapVisibility="0" mapVisibility="0" iconFile="Data/TekkitsWorkshop/General/tw_trail_jump.png" iconSize="0.5" heightOffset="0.5" minSize="10" fadeNear="3000" fadeFar="3100"/>
-        <MarkerCategory name="tw_pof_dov_adv_gardenwineandcheeserun_toggletrail" DisplayName="Toggle Trail">
-          </MarkerCategory>
-        <MarkerCategory name="tw_pof_dov_adv_gardenwineandcheeserun_signs" DisplayName="Toggle Signs">
-          <MarkerCategory name="tw_pof_dov_adv_gardenwineandcheeserun_startsign" DisplayName="Starting Sign" mapDisplaySize="130" iconFile="Data/TekkitsWorkshop/PoF/DomainOfVabbi/tw_pof_dov_adv_gardenwineandcheeserun_startsign.png" iconSize="1" heightOffset="2.5" minSize="50" fadeNear="5000" fadeFar="5100"/>
-          <MarkerCategory name="tw_pof_dov_adv_gardenwineandcheeserun_finishsign" DisplayName="Finish Sign" mapDisplaySize="80" iconFile="Data/TekkitsWorkshop/General/tw_trail_finish_g.png" iconSize="1" heightOffset="2.5" minSize="50" fadeNear="5000" fadeFar="5100"/>
-        </MarkerCategory>
-      </MarkerCategory>
-      <MarkerCategory name="tw_pof_dov_adv_necropolisembalmingsupplyrun" DisplayName="Adventure - Necropolis Embalming Supply Run">
-        <MarkerCategory name="tw_pof_dov_adv_necropolisembalmingsupplyrun_jumponspot" DisplayName="Toggle Jump-On Spots" miniMapVisibility="0" mapVisibility="0" iconFile="Data/TekkitsWorkshop/General/tw_trail_jump.png" iconSize="0.5" heightOffset="0.5" minSize="10" fadeNear="3000" fadeFar="3100"/>
-        <MarkerCategory name="tw_pof_dov_adv_necropolisembalmingsupplyrun_toggletrail" DisplayName="Toggle Trail">
-          </MarkerCategory>
-        <MarkerCategory name="tw_pof_dov_adv_necropolisembalmingsupplyrun_signs" DisplayName="Toggle Signs">
-          <MarkerCategory name="tw_pof_dov_adv_necropolisembalmingsupplyrun_startsign" DisplayName="Starting Sign" mapDisplaySize="130" iconFile="Data/TekkitsWorkshop/PoF/DomainOfVabbi/tw_pof_dov_adv_necropolisembalmingsupplyrun_startsign.png" iconSize="1" heightOffset="2.5" minSize="50" fadeNear="5000" fadeFar="5100"/>
-          <MarkerCategory name="tw_pof_dov_adv_necropolisembalmingsupplyrun_finishsign" DisplayName="Finish Sign" mapDisplaySize="80" iconFile="Data/TekkitsWorkshop/General/tw_trail_finish_g.png" iconSize="1" heightOffset="2.5" minSize="50" fadeNear="5000" fadeFar="5100"/>
-        </MarkerCategory>
-      </MarkerCategory>
-      <MarkerCategory name="tw_pof_dov_adv_vehjinnoblenecessitiesrun" DisplayName="Adventure - Vehjin Noble Necessities Run">
-        <MarkerCategory name="tw_pof_dov_adv_vehjinnoblenecessitiesrun_jumponspot" DisplayName="Toggle Jump-On Spots" miniMapVisibility="0" mapVisibility="0" iconFile="Data/TekkitsWorkshop/General/tw_trail_jump.png" iconSize="0.5" heightOffset="0.5" minSize="10" fadeNear="3000" fadeFar="3100"/>
-        <MarkerCategory name="tw_pof_dov_adv_vehjinnoblenecessitiesrun_toggletrail" DisplayName="Toggle Trail">
-          </MarkerCategory>
-        <MarkerCategory name="tw_pof_dov_adv_vehjinnoblenecessitiesrun_signs" DisplayName="Toggle Signs">
-          <MarkerCategory name="tw_pof_dov_adv_vehjinnoblenecessitiesrun_startsign" DisplayName="Starting Sign" mapDisplaySize="130" iconFile="Data/TekkitsWorkshop/PoF/DomainOfVabbi/tw_pof_dov_adv_vehjinnoblenecessitiesrun_startsign.png" iconSize="1" heightOffset="2.5" minSize="50" fadeNear="5000" fadeFar="5100"/>
-          <MarkerCategory name="tw_pof_dov_adv_vehjinnoblenecessitiesrun_finishsign" DisplayName="Finish Sign" mapDisplaySize="80" iconFile="Data/TekkitsWorkshop/General/tw_trail_finish_g.png" iconSize="1" heightOffset="2.5" minSize="50" fadeNear="5000" fadeFar="5100"/>
-        </MarkerCategory>
-      </MarkerCategory>
-      <MarkerCategory name="tw_pof_dov_adv_vehtendischoolsupplyrun" DisplayName="Adventure - Vehtendi School Supply Run">
-        <MarkerCategory name="tw_pof_dov_adv_vehtendischoolsupplyrun_jumponspot" DisplayName="Toggle Jump-On Spots" miniMapVisibility="0" mapVisibility="0" iconFile="Data/TekkitsWorkshop/General/tw_trail_jump.png" iconSize="0.5" heightOffset="0.5" minSize="10" fadeNear="3000" fadeFar="3100"/>
-        <MarkerCategory name="tw_pof_dov_adv_vehtendischoolsupplyrun_toggletrail" DisplayName="Toggle Trail">
-          </MarkerCategory>
-        <MarkerCategory name="tw_pof_dov_adv_vehtendischoolsupplyrun_signs" DisplayName="Toggle Signs">
-          <MarkerCategory name="tw_pof_dov_adv_vehtendischoolsupplyrun_startsign" DisplayName="Starting Sign" mapDisplaySize="130" iconFile="Data/TekkitsWorkshop/PoF/DomainOfVabbi/tw_pof_dov_adv_vehtendischoolsupplyrun_startsign.png" iconSize="1" heightOffset="2.5" minSize="50" fadeNear="5000" fadeFar="5100"/>
-          <MarkerCategory name="tw_pof_dov_adv_vehtendischoolsupplyrun_finishsign" DisplayName="Finish Sign" mapDisplaySize="80" iconFile="Data/TekkitsWorkshop/General/tw_trail_finish_g.png" iconSize="1" heightOffset="2.5" minSize="50" fadeNear="5000" fadeFar="5100"/>
-        </MarkerCategory>
-      </MarkerCategory>
-      <MarkerCategory name="tw_pof_dov_praisejoko_statue" DisplayName="Praise Joko" mapDisplaySize="30" iconFile="Data/TekkitsWorkshop/PoF/DomainOfVabbi/tw_pof_dov_praisejoko_statue.png" iconSize="0.5" heightOffset="0.5" minSize="10" behavior="2"/>
-      <MarkerCategory name="tw_pof_dov_lostlore_page" DisplayName="Lost Lore of Domain of Vabbi" mapDisplaySize="30" iconSize="0.5" minSize="15" heightOffset="0.0" iconFile="Data/TekkitsWorkshop/PoF/CrystalOasis/tw_pof_co_lostlore_page.png"/>
-      <MarkerCategory name="tw_pof_dov_sandportals" DisplayName="Sand Portals">
-        <MarkerCategory name="tw_pof_dov_sandportals_sandportal" DisplayName="Toggle Portals" mapDisplaySize="30" iconFile="Data/TekkitsWorkshop/General/tw_trail_entrance.png" iconSize="0.5" heightOffset="1.5" minSize="10" fadeNear="10000" fadeFar="10000" />
-        <MarkerCategory name="tw_pof_dov_sandportals_toggletrail" DisplayName="Toggle Trail">
-        </MarkerCategory>
-      </MarkerCategory>
-    </MarkerCategory>
-  </MarkerCategory>
-</MarkerCategory>
-<POIs>
-		<POI MapID="1248" xpos="-1379.38" ypos="109.127" zpos="818.908" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_timewornbusts.tw_pof_dov_timewornbusts_timewornbust" GUID="lP8aZEM6bUq7d4ZewJWnuw=="/>
-		<POI MapID="1248" xpos="-1413.48" ypos="86.4803" zpos="616.44" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_timewornbusts.tw_pof_dov_timewornbusts_timewornbust" GUID="GOdmFdJ4CkiWbHkn6CVzdQ=="/>
-		<POI MapID="1248" xpos="-1225.07" ypos="135.4" zpos="-260.233" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_timewornbusts.tw_pof_dov_timewornbusts_timewornbust" GUID="4Ee5y3/H20S/AG0n+Uc2HQ=="/>
-		<POI MapID="1248" xpos="-1001.84" ypos="126.379" zpos="-738.27" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_timewornbusts.tw_pof_dov_timewornbusts_timewornbust" GUID="XXzkLpT+MkCTnMFjNS/Cog=="/>
-		<POI MapID="1248" xpos="-750.723" ypos="236.629" zpos="-681.308" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_timewornbusts.tw_pof_dov_timewornbusts_timewornbust" GUID="q0qbHO2cmkG6Zz2NRukfaA=="/>
-		<POI MapID="1248" xpos="-369.49" ypos="126.186" zpos="-133.321" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_timewornbusts.tw_pof_dov_timewornbusts_timewornbust" GUID="H8wg997J6EesqCRMLTryrg=="/>
-		<POI MapID="1248" xpos="-305.274" ypos="211.312" zpos="-501.478" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_timewornbusts.tw_pof_dov_timewornbusts_timewornbust" GUID="5L3OPMiC4U2Mt7x/NzsumQ=="/>
-		<POI MapID="1248" xpos="391.594" ypos="92.5396" zpos="-562.435" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_timewornbusts.tw_pof_dov_timewornbusts_timewornbust" GUID="/E0mS2FuJESBWyPFueXB4Q=="/>
-		<POI MapID="1248" xpos="448.57" ypos="231.065" zpos="-553.842" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_timewornbusts.tw_pof_dov_timewornbusts_timewornbust" GUID="VcPCSA4vEU6B7IcGCDa/aw=="/>
-		<POI MapID="1248" xpos="82.461" ypos="120.129" zpos="-914.989" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_timewornbusts.tw_pof_dov_timewornbusts_timewornbust" GUID="QW7lb1A3QUWcbsQj6W7VqQ=="/>
-		<POI MapID="1248" xpos="169.287" ypos="176.883" zpos="910.659" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_timewornbusts.tw_pof_dov_timewornbusts_timewornbust" GUID="OssmyFXqRkuhI6wzXKPDGw=="/>
-		<POI MapID="1248" xpos="25.4272" ypos="148.802" zpos="874.931" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_timewornbusts.tw_pof_dov_timewornbusts_timewornbust" GUID="C/hq4jJu5USMy+xP5lOmpQ=="/>
-		<POI MapID="1248" xpos="910.767" ypos="127.84" zpos="423.677" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_timewornbusts.tw_pof_dov_timewornbusts_timewornbust" GUID="rAqCvU58Jk6CvHx8XZj8yA=="/>
-		<POI MapID="1248" xpos="268.843" ypos="220.334" zpos="-88.9178" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_timewornbusts.tw_pof_dov_timewornbusts_timewornbust" GUID="pk2CpKjoxEWrCCtBxoAlLA=="/>
-		<POI MapID="1248" xpos="248.624" ypos="160.71" zpos="78.7234" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_timewornbusts.tw_pof_dov_timewornbusts_timewornbust" GUID="UZ3fPq28Dk+owJnJ9uvvBg=="/>
-		<POI MapID="1248" xpos="359.815" ypos="116.157" zpos="117.816" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_timewornbusts.tw_pof_dov_timewornbusts_timewornbust" GUID="EiJY5HjX2EKHpvrUdA/OOA=="/>
-		<POI MapID="1248" xpos="514.76" ypos="68.9482" zpos="69.2061" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_timewornbusts.tw_pof_dov_timewornbusts_timewornbust" GUID="9xStDl79kkep+LP+LSBUpg=="/>
-		<POI MapID="1248" xpos="1016.56" ypos="196.736" zpos="-559.023" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_timewornbusts.tw_pof_dov_timewornbusts_timewornbust" GUID="P7dHCVGqS0uRFouOwtR3Uw=="/>
-		<POI MapID="1248" xpos="947.573" ypos="5.93661" zpos="928.507" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_timewornbusts.tw_pof_dov_timewornbusts_timewornbust" GUID="gYCh8ZujZkuCXFQn5nWuew=="/>
-		<POI MapID="1248" xpos="1422.78" ypos="149.97" zpos="-485.614" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_timewornbusts.tw_pof_dov_timewornbusts_timewornbust" GUID="rP0Gh3LR8kCYPPcbrcd52Q=="/>
-		<POI MapID="1248" xpos="1323.55" ypos="59.5358" zpos="-629.541" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_timewornbusts.tw_pof_dov_timewornbusts_timewornbust" GUID="QRivpM42OE2/bSOE9TqHvQ=="/>
-		<POI MapID="1248" xpos="1274.05" ypos="57.1185" zpos="-635.417" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_timewornbusts.tw_pof_dov_timewornbusts_timewornbust" GUID="V1nhmhRPPEmrHYWbJ4xdsA=="/>
-		<POI MapID="1248" xpos="1274.15" ypos="192.237" zpos="-488.241" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_timewornbusts.tw_pof_dov_timewornbusts_timewornbust" GUID="moUWAKripUCtE8LQ5JJa/g=="/>
-		<POI MapID="1248" xpos="1437.58" ypos="109.852" zpos="-741.323" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_timewornbusts.tw_pof_dov_timewornbusts_timewornbust" GUID="w48sMXAGU0WJ5x+NPwgrRw=="/>
-		<POI MapID="1248" xpos="1421.3" ypos="151.664" zpos="243.466" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_timewornbusts.tw_pof_dov_timewornbusts_timewornbust" GUID="Zg++M07Zc06g1RMXVVmL1Q=="/>
-		<POI MapID="1248" xpos="-1144.71" ypos="128.116" zpos="371.111" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_sandportals.tw_pof_dov_sandportals_sandportal" GUID="Y25R59Ocyk+0mO3ESTVrDQ=="/>
-		<POI MapID="1248" xpos="-1151.73" ypos="49.5278" zpos="365.04" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_sandportals.tw_pof_dov_sandportals_sandportal" GUID="RKO+FaJrz06YW0hiHciNTQ=="/>
-		<POI MapID="1248" xpos="-748.5" ypos="115.584" zpos="26.8384" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_sandportals.tw_pof_dov_sandportals_sandportal" GUID="NJH2bJbgZUqCAKrfBgdBdw=="/>
-		<POI MapID="1248" xpos="-637.577" ypos="149.21" zpos="19.4284" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_sandportals.tw_pof_dov_sandportals_sandportal" GUID="TrmDlTjqOUC9SlVNSai5QA=="/>
-		<POI MapID="1248" xpos="-371.522" ypos="160.789" zpos="-47.24" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_sandportals.tw_pof_dov_sandportals_sandportal" GUID="E7kjvTtlnUOsU5igPU8NOA=="/>
-		<POI MapID="1248" xpos="-280.406" ypos="133.191" zpos="-118.576" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_sandportals.tw_pof_dov_sandportals_sandportal" GUID="9fhdtrGIhkKVavT1Pv8zDQ=="/>
-		<POI MapID="1248" xpos="81.5968" ypos="1.16006" zpos="-588.102" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_sandportals.tw_pof_dov_sandportals_sandportal" GUID="JeZl6NDqa0+wfT226swtvg=="/>
-		<POI MapID="1248" xpos="53.9331" ypos="166.781" zpos="-533.682" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_sandportals.tw_pof_dov_sandportals_sandportal" GUID="HUdDH+Z5W0CEGkZpqg25WA=="/>
-		<POI MapID="1248" xpos="-1458.61" ypos="316.049" zpos="-674.154" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_sandportals.tw_pof_dov_sandportals_sandportal" GUID="06VbjuKCaE+jFSV6POqq+A=="/>
-		<POI MapID="1248" xpos="-1437.57" ypos="307.498" zpos="-831.357" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_sandportals.tw_pof_dov_sandportals_sandportal" GUID="3aCiu0qoK0m8hkgRXmyRMA=="/>
-		<POI MapID="1248" xpos="-1387.53" ypos="304.049" zpos="-886.343" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_sandportals.tw_pof_dov_sandportals_sandportal" GUID="FFU45yZOjkmzPWQJG+d81w=="/>
-		<POI MapID="1248" xpos="-1434.81" ypos="300.913" zpos="-887.29" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_sandportals.tw_pof_dov_sandportals_sandportal" GUID="KCjUI7vYAEuI17FyaUCpkg=="/>
-		<POI MapID="1248" xpos="-1387.64" ypos="303.304" zpos="-832.489" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_sandportals.tw_pof_dov_sandportals_sandportal" GUID="MiOehFH4V0+hdJyrk2/WoQ=="/>
-		<POI MapID="1248" xpos="-432.442" ypos="49.0966" zpos="622.881" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_sandportals.tw_pof_dov_sandportals_sandportal" GUID="3BgC9b5v1EagnzyVArAKbQ=="/>
-		<POI MapID="1248" xpos="-414.753" ypos="9.12658" zpos="555.963" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_sandportals.tw_pof_dov_sandportals_sandportal" GUID="8t3aP2kjbUa5KzbP0CQ5OA=="/>
-		<POI MapID="1248" xpos="-566.557" ypos="52.7394" zpos="386.928" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_sandportals.tw_pof_dov_sandportals_sandportal" GUID="UMMqnrDYUEG/dRqOw+BGbA=="/>
-		<POI MapID="1248" xpos="-528.265" ypos="10.144" zpos="442.86" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_sandportals.tw_pof_dov_sandportals_sandportal" GUID="y7qbrZkww0iriaQaAVCdMQ=="/>
-		<POI MapID="1248" xpos="-460.018" ypos="57.6953" zpos="499.293" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_sandportals.tw_pof_dov_sandportals_sandportal" GUID="mvheN7opqUiwqg9nVvYTJQ=="/>
-		<POI MapID="1248" xpos="-709.926" ypos="119.665" zpos="499.349" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_sandportals.tw_pof_dov_sandportals_sandportal" GUID="rCZGxqDXjU2O7CzNw6QUYQ=="/>
-		<POI MapID="1248" xpos="-766.294" ypos="81.9161" zpos="500.404" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_sandportals.tw_pof_dov_sandportals_sandportal" GUID="G7+WRtd8/EumU8v7xi8Zpg=="/>
-		<POI MapID="1248" xpos="-804.785" ypos="88.036" zpos="515.816" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_sandportals.tw_pof_dov_sandportals_sandportal" GUID="6b4OX5acnEmuVy5f7nldgQ=="/>
-		<POI MapID="1248" xpos="-266.209" ypos="65.8226" zpos="598.264" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_sandportals.tw_pof_dov_sandportals_sandportal" GUID="kwgqKVtsGkuDMGDu++w0kg=="/>
-		<POI MapID="1248" xpos="-191.039" ypos="7.13744" zpos="573.987" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_sandportals.tw_pof_dov_sandportals_sandportal" GUID="VaZaefvM90q+8bnnIgD3fQ=="/>
-		<POI MapID="1248" xpos="-266.066" ypos="65.7845" zpos="404.577" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_sandportals.tw_pof_dov_sandportals_sandportal" GUID="8v4NcOf9a0Sg8XSXUtC3DA=="/>
-		<POI MapID="1248" xpos="-191.472" ypos="8.51222" zpos="427.204" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_sandportals.tw_pof_dov_sandportals_sandportal" GUID="SZxPM+iFl0qHoATrA8VH/w=="/>
-		<POI MapID="1248" xpos="26.9932" ypos="10.0569" zpos="388.373" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_sandportals.tw_pof_dov_sandportals_sandportal" GUID="JB/ZJZvIc0mU7OmNTyZyDQ=="/>
-		<POI MapID="1248" xpos="45.473" ypos="135.371" zpos="340.156" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_sandportals.tw_pof_dov_sandportals_sandportal" GUID="yP7oaDf6ZEe2HL8a/dUCXQ=="/>
-		<POI MapID="1248" xpos="26.117" ypos="9.60478" zpos="610.913" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_sandportals.tw_pof_dov_sandportals_sandportal" GUID="hGEAgtaCfUeMCba3pyqz8Q=="/>
-		<POI MapID="1248" xpos="39.0631" ypos="136.441" zpos="660.611" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_sandportals.tw_pof_dov_sandportals_sandportal" GUID="/DA2LtGCGUaFOZ2RDApBGw=="/>
-		<POI MapID="1248" xpos="1353.49" ypos="78.1297" zpos="-94.1171" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_sandportals.tw_pof_dov_sandportals_sandportal" GUID="wv2XZAcckU+zXrpargFYBA=="/>
-		<POI MapID="1248" xpos="1312.09" ypos="124.723" zpos="-69.6935" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_sandportals.tw_pof_dov_sandportals_sandportal" GUID="SWJDuckJs0mnwN6PFOM30w=="/>
-		<POI MapID="1248" xpos="1300.18" ypos="124.721" zpos="-58.5036" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_sandportals.tw_pof_dov_sandportals_sandportal" GUID="hEjIz8NeGku65YuLD71/Qg=="/>
-		<POI MapID="1248" xpos="1246.39" ypos="112.819" zpos="-99.3892" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_sandportals.tw_pof_dov_sandportals_sandportal" GUID="wL+mKrLNekmTZyHWsNXqyA=="/>
-		<POI MapID="1248" xpos="1234.06" ypos="112.848" zpos="-88.3845" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_sandportals.tw_pof_dov_sandportals_sandportal" GUID="cyf6iDa7A0OD7F5jeDaFPQ=="/>
-		<POI MapID="1248" xpos="1301.26" ypos="124.735" zpos="-81.1148" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_sandportals.tw_pof_dov_sandportals_sandportal" GUID="I50NxsrYnU6SxUxDWGO20A=="/>
-		<POI MapID="1248" xpos="1289.61" ypos="124.714" zpos="-70.0306" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_sandportals.tw_pof_dov_sandportals_sandportal" GUID="LApOWALEQ0u33UsMg1a4ZQ=="/>
-		<POI MapID="1248" xpos="1235.83" ypos="112.836" zpos="-110.834" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_sandportals.tw_pof_dov_sandportals_sandportal" GUID="Hw/39BLnHUqZ7yISMjtl/A=="/>
-		<POI MapID="1248" xpos="1402.3" ypos="123.018" zpos="-101.18" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_sandportals.tw_pof_dov_sandportals_sandportal" GUID="TTKqd55jv0irgyEdCDwGgw=="/>
-		<POI MapID="1248" xpos="1390.4" ypos="123.013" zpos="-90.0513" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_sandportals.tw_pof_dov_sandportals_sandportal" GUID="4Q5bgaqPsUSSajvfo9ntpg=="/>
-		<POI MapID="1248" xpos="1223.74" ypos="112.808" zpos="-99.9407" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_sandportals.tw_pof_dov_sandportals_sandportal" GUID="KyfyL1fi7EK+ahrdkX0oEw=="/>
-		<POI MapID="1248" xpos="1391.59" ypos="123.006" zpos="-112.532" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_sandportals.tw_pof_dov_sandportals_sandportal" GUID="tW6XZLB//0+DcFijXSBrJA=="/>
-		<POI MapID="1248" xpos="1382.54" ypos="78.26" zpos="-137.705" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_sandportals.tw_pof_dov_sandportals_sandportal" GUID="1L1+MEO/0EuAveDHGWmMqQ=="/>
-		<POI MapID="1248" xpos="1392.79" ypos="124.721" zpos="-190.923" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_sandportals.tw_pof_dov_sandportals_sandportal" GUID="EeQOFZtQWkacDmNoEqtwHA=="/>
-		<POI MapID="1248" xpos="1380.76" ypos="124.722" zpos="-179.664" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_sandportals.tw_pof_dov_sandportals_sandportal" GUID="6Uxbb0+pAU2W3oyEvan63Q=="/>
-		<POI MapID="1248" xpos="1341.1" ypos="112.807" zpos="-248.04" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_sandportals.tw_pof_dov_sandportals_sandportal" GUID="oAPO0eqm8EiD0aZxnhyoLw=="/>
-		<POI MapID="1248" xpos="1329.39" ypos="112.803" zpos="-237.023" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_sandportals.tw_pof_dov_sandportals_sandportal" GUID="2yIWeE/s8kG8IdXHXTpp2A=="/>
-		<POI MapID="1248" xpos="1370.19" ypos="124.72" zpos="-191.402" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_sandportals.tw_pof_dov_sandportals_sandportal" GUID="tv4ngwgVs0qzHmnLdSJKZg=="/>
-		<POI MapID="1248" xpos="1382.04" ypos="124.706" zpos="-202.303" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_sandportals.tw_pof_dov_sandportals_sandportal" GUID="uCiEzCByz0WFUFlxhEFPvQ=="/>
-		<POI MapID="1248" xpos="1330.5" ypos="112.795" zpos="-259.414" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_sandportals.tw_pof_dov_sandportals_sandportal" GUID="aqLc2bx6o02dSFDS36xjlQ=="/>
-		<POI MapID="1248" xpos="1379.75" ypos="123.011" zpos="-101.556" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_sandportals.tw_pof_dov_sandportals_sandportal" GUID="utJ/RyJo40C5NUYz7GdAwg=="/>
-		<POI MapID="1248" xpos="1355.57" ypos="124.236" zpos="-119.866" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_sandportals.tw_pof_dov_sandportals_sandportal" GUID="IPAQdKglRUKDtpmAizhbNQ=="/>
-		<POI MapID="1248" xpos="1318.61" ypos="112.82" zpos="-248.596" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_sandportals.tw_pof_dov_sandportals_sandportal" GUID="pZygD/6zfE2lewQi1lRMtw=="/>
-		<POI MapID="1248" xpos="1281.91" ypos="77.977" zpos="-172.708" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_sandportals.tw_pof_dov_sandportals_sandportal" GUID="lHl9CF9+QUWlGhX0KYwNZQ=="/>
-		<POI MapID="1248" xpos="1269.07" ypos="19.6583" zpos="-181.995" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_sandportals.tw_pof_dov_sandportals_sandportal" GUID="voTAFh/SK0uEGzP2kzYjCg=="/>
-		<POI MapID="1248" xpos="1117.11" ypos="42.3028" zpos="-601.683" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_sandportals.tw_pof_dov_sandportals_sandportal" GUID="bNliWHK/1E+VYuWE/88pFg=="/>
-		<POI MapID="1248" xpos="1201.85" ypos="54.792" zpos="-573.426" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_sandportals.tw_pof_dov_sandportals_sandportal" GUID="6kYeZSXZDkGtLklwZptNkA=="/>
-		<POI MapID="1248" xpos="1241.51" ypos="5.46045" zpos="-668.328" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_sandportals.tw_pof_dov_sandportals_sandportal" GUID="f7h+NVx4REC60ykfz68GyQ=="/>
-		<POI MapID="1248" xpos="1266.81" ypos="60.5444" zpos="-779.05" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_sandportals.tw_pof_dov_sandportals_sandportal" GUID="eu/sMuPdCUSIEOVTDRrn8A=="/>
-		<POI MapID="1248" xpos="1279.1" ypos="55.7524" zpos="-572.867" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_sandportals.tw_pof_dov_sandportals_sandportal" GUID="G9461bTzhU+2gv4OvGjSAQ=="/>
-		<POI MapID="1248" xpos="1268.02" ypos="65.8102" zpos="-634.204" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_sandportals.tw_pof_dov_sandportals_sandportal" GUID="HLNfJZGXh06W4GBBCwPxkg=="/>
-		<POI MapID="1248" xpos="1411.64" ypos="107.603" zpos="-709.796" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_sandportals.tw_pof_dov_sandportals_sandportal" GUID="FeDkFeixRUys6ypMTrYxsQ=="/>
-		<POI MapID="1248" xpos="1453.06" ypos="141.599" zpos="-766.906" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_sandportals.tw_pof_dov_sandportals_sandportal" GUID="9CeZJ6LMWUWKuz+Hrh6cZw=="/>
-		<POI MapID="1248" xpos="1315.76" ypos="94.3341" zpos="-780.207" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_sandportals.tw_pof_dov_sandportals_sandportal" GUID="0irmvnd4/EWgp1zTU9jIeg=="/>
-		<POI MapID="1248" xpos="1321.75" ypos="91.3061" zpos="-634.863" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_sandportals.tw_pof_dov_sandportals_sandportal" GUID="c+rXmPSFnEOy7ED8rLhTyA=="/>
-		<POI MapID="1248" xpos="-1380.73" ypos="70.8989" zpos="771.57" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_timewornbusts.tw_pof_dov_timewornbusts_signs.tw_pof_dov_timewornbusts_startsignp1" GUID="+Wk3/2oJukqbae2jI7g0Gw=="/>
-		<POI MapID="1248" xpos="-1413.54" ypos="86.4803" zpos="616.453" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_timewornbusts.tw_pof_dov_timewornbusts_signs.tw_pof_dov_timewornbusts_teleport2" GUID="wS9JrIfqYESlu6LwqAM9xg=="/>
-		<POI MapID="1248" xpos="-321.044" ypos="107.77" zpos="332" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_timewornbusts.tw_pof_dov_timewornbusts_signs.tw_pof_dov_timewornbusts_startsignp2" GUID="1tpLtQLeVEOl65pLjErXFw=="/>
-		<POI MapID="1248" xpos="169.256" ypos="176.885" zpos="910.855" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_timewornbusts.tw_pof_dov_timewornbusts_signs.tw_pof_dov_timewornbusts_teleport3" GUID="cH4BBww560mdF/OS5zWbgw=="/>
-		<POI MapID="1248" xpos="-575.138" ypos="115.129" zpos="-435.544" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_timewornbusts.tw_pof_dov_timewornbusts_signs.tw_pof_dov_timewornbusts_startsignp3" GUID="uw0G+PlrkkOcO7W4XAEsRg=="/>
-		<POI MapID="1248" xpos="-305.566" ypos="211.451" zpos="-501.295" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_timewornbusts.tw_pof_dov_timewornbusts_signs.tw_pof_dov_timewornbusts_teleport3" GUID="ddSdv5FHREehVoURjE0KTg=="/>
-		<POI MapID="1248" xpos="-576.082" ypos="116.44" zpos="-423.916" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_timewornbusts.tw_pof_dov_timewornbusts_signs.tw_pof_dov_timewornbusts_startsignp4" GUID="xi/fF1NtyEmyH7iNp+afHw=="/>
-		<POI MapID="1248" xpos="-1225.09" ypos="135.4" zpos="-260.186" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_timewornbusts.tw_pof_dov_timewornbusts_signs.tw_pof_dov_timewornbusts_teleport4" GUID="bylVKY1/jECb4pnJcDU+yg=="/>
-		<POI MapID="1248" xpos="808.221" ypos="142.294" zpos="47.0966" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_timewornbusts.tw_pof_dov_timewornbusts_signs.tw_pof_dov_timewornbusts_startsignp5" GUID="6VhQliiTkEisV4y8gcD4ug=="/>
-		<POI MapID="1248" xpos="82.6857" ypos="120.129" zpos="-915.275" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_timewornbusts.tw_pof_dov_timewornbusts_signs.tw_pof_dov_timewornbusts_teleport4" GUID="LiX2BlXOAk27TVnEjGvHig=="/>
-		<POI MapID="1248" xpos="804.224" ypos="142.294" zpos="47.6802" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_timewornbusts.tw_pof_dov_timewornbusts_signs.tw_pof_dov_timewornbusts_startsignp6" GUID="TxB8zEBYrky5q89sdoviOA=="/>
-		<POI MapID="1248" xpos="801.017" ypos="142.294" zpos="48.6242" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_timewornbusts.tw_pof_dov_timewornbusts_signs.tw_pof_dov_timewornbusts_startsignp7" GUID="byi2+6NmpUqxwxLE/TUD2g=="/>
-		<POI MapID="1248" xpos="947.811" ypos="5.9138" zpos="928.425" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_timewornbusts.tw_pof_dov_timewornbusts_signs.tw_pof_dov_timewornbusts_teleport4" GUID="xj2u7rd/X0KAjMLOacmwig=="/>
-		<POI MapID="1248" xpos="514.732" ypos="68.9482" zpos="69.1465" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_timewornbusts.tw_pof_dov_timewornbusts_signs.tw_pof_dov_timewornbusts_teleport5" GUID="H7Os+gvZ6kOO6P0jWywp/g=="/>
-		<POI MapID="1248" xpos="1417.39" ypos="153.759" zpos="-667.824" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_timewornbusts.tw_pof_dov_timewornbusts_signs.tw_pof_dov_timewornbusts_startsignp8" GUID="LFPeX4NLnEOsaQZRfASuPw=="/>
-		<POI MapID="1248" xpos="1422.85" ypos="149.961" zpos="-485.728" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_timewornbusts.tw_pof_dov_timewornbusts_signs.tw_pof_dov_timewornbusts_finish" GUID="quUU184un0ST37GFtTyRtQ=="/>
-		<POI MapID="1248" xpos="-1122.32" ypos="140.998" zpos="388.732" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_adv_vehjinnoblenecessitiesrun.tw_pof_dov_adv_vehjinnoblenecessitiesrun_signs.tw_pof_dov_adv_vehjinnoblenecessitiesrun_startsign" GUID="5d+qGmRq7k+0u41tFxd3+A=="/>
-		<POI MapID="1248" xpos="-1115.96" ypos="140.998" zpos="384.738" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_adv_vehjinnoblenecessitiesrun.tw_pof_dov_adv_vehjinnoblenecessitiesrun_signs.tw_pof_dov_adv_vehjinnoblenecessitiesrun_finishsign" GUID="MzZNDznFjEWh9bYMeQezMQ=="/>
-		<POI MapID="1248" xpos="-790.684" ypos="165.996" zpos="-473.849" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_adv_necropolisembalmingsupplyrun.tw_pof_dov_adv_necropolisembalmingsupplyrun_signs.tw_pof_dov_adv_necropolisembalmingsupplyrun_startsign" GUID="suholL2IH0K87EtjWkKHwA=="/>
-		<POI MapID="1248" xpos="-789.532" ypos="166" zpos="-479.246" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_adv_necropolisembalmingsupplyrun.tw_pof_dov_adv_necropolisembalmingsupplyrun_signs.tw_pof_dov_adv_necropolisembalmingsupplyrun_finishsign" GUID="r7H4nhoNa0mQHpnLKnwkgA=="/>
-		<POI MapID="1248" xpos="-530.872" ypos="49.0612" zpos="492.717" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_adv_gardenwineandcheeserun.tw_pof_dov_adv_gardenwineandcheeserun_signs.tw_pof_dov_adv_gardenwineandcheeserun_startsign" GUID="FpxsnKGurU2lp8T2/wkvLg=="/>
-		<POI MapID="1248" xpos="-528.464" ypos="49.0612" zpos="495.511" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_adv_gardenwineandcheeserun.tw_pof_dov_adv_gardenwineandcheeserun_signs.tw_pof_dov_adv_gardenwineandcheeserun_finishsign" GUID="YYZ8TxVH5ke7+xIHbuz8yQ=="/>
-		<POI MapID="1248" xpos="216.894" ypos="62.2834" zpos="-620.921" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_adv_vehtendischoolsupplyrun.tw_pof_dov_adv_vehtendischoolsupplyrun_signs.tw_pof_dov_adv_vehtendischoolsupplyrun_startsign" GUID="40Fw81D8lUiwcAaGnBtbwA=="/>
-		<POI MapID="1248" xpos="209.114" ypos="61.0522" zpos="-623.139" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_adv_vehtendischoolsupplyrun.tw_pof_dov_adv_vehtendischoolsupplyrun_signs.tw_pof_dov_adv_vehtendischoolsupplyrun_finishsign" GUID="N0n0N+i59kmG111Ud1W2lQ=="/>
-		<POI MapID="1248" xpos="287.931" ypos="75.1273" zpos="-519.844" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_adv_vehtendischoolsupplyrun.tw_pof_dov_adv_vehtendischoolsupplyrun_jumponspot" GUID="zQq6zqA230iDgJy5fXtxYg=="/>
-		<POI MapID="1248" xpos="289.27" ypos="92.0248" zpos="-517.038" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_adv_vehtendischoolsupplyrun.tw_pof_dov_adv_vehtendischoolsupplyrun_jumponspot" GUID="WZlgIPek3k6BO1GGoW4sQA=="/>
-		<POI MapID="1248" xpos="290.34" ypos="113.955" zpos="-515.466" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_adv_vehtendischoolsupplyrun.tw_pof_dov_adv_vehtendischoolsupplyrun_jumponspot" GUID="Ab+bkRZUkkS4kuKqKbrIVw=="/>
-		<POI MapID="1248" xpos="295.845" ypos="123.59" zpos="-488.358" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_adv_vehtendischoolsupplyrun.tw_pof_dov_adv_vehtendischoolsupplyrun_jumponspot" GUID="THw9av44UEWkstzhCCvsLQ=="/>
-		<POI MapID="1248" xpos="300.868" ypos="127.486" zpos="-486.572" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_adv_vehtendischoolsupplyrun.tw_pof_dov_adv_vehtendischoolsupplyrun_jumponspot" GUID="iggHb1xRjUCb5P7QyEEpTQ=="/>
-		<POI MapID="1248" xpos="312.526" ypos="133.399" zpos="-483.287" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_adv_vehtendischoolsupplyrun.tw_pof_dov_adv_vehtendischoolsupplyrun_jumponspot" GUID="NxEsfWNfgUObr+D7dfHQ4Q=="/>
-		<POI MapID="1248" xpos="328.971" ypos="140.165" zpos="-465.064" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_adv_vehtendischoolsupplyrun.tw_pof_dov_adv_vehtendischoolsupplyrun_jumponspot" GUID="v9mlcly4fUSqD/etwx/qkw=="/>
-		<POI MapID="1248" xpos="335.586" ypos="149.436" zpos="-457.312" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_adv_vehtendischoolsupplyrun.tw_pof_dov_adv_vehtendischoolsupplyrun_jumponspot" GUID="DZDUdas+N0iShpNnXyeTNQ=="/>
-		<POI MapID="1248" xpos="338.817" ypos="161.709" zpos="-448.091" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_adv_vehtendischoolsupplyrun.tw_pof_dov_adv_vehtendischoolsupplyrun_jumponspot" GUID="TIJJnRbbLUSSTGGqqUCfTg=="/>
-		<POI MapID="1248" xpos="350.065" ypos="161.243" zpos="-425.927" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_adv_vehtendischoolsupplyrun.tw_pof_dov_adv_vehtendischoolsupplyrun_jumponspot" GUID="1KuNKt0+zkihuVKKrrMNnQ=="/>
-		<POI MapID="1248" xpos="351.674" ypos="167.389" zpos="-418.133" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_adv_vehtendischoolsupplyrun.tw_pof_dov_adv_vehtendischoolsupplyrun_jumponspot" GUID="O74ejy1X6kyV/BSqno2lNA=="/>
-		<POI MapID="1248" xpos="354.567" ypos="169.364" zpos="-413.06" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_adv_vehtendischoolsupplyrun.tw_pof_dov_adv_vehtendischoolsupplyrun_jumponspot" GUID="qiLZgS1boE6/vJJjg6w/2w=="/>
-		<POI MapID="1248" xpos="356.562" ypos="171.358" zpos="-411.237" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_adv_vehtendischoolsupplyrun.tw_pof_dov_adv_vehtendischoolsupplyrun_jumponspot" GUID="B66nMeZJ4UaDk577N0ZFMA=="/>
-		<POI MapID="1248" xpos="380.349" ypos="177.155" zpos="-408.427" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_adv_vehtendischoolsupplyrun.tw_pof_dov_adv_vehtendischoolsupplyrun_jumponspot" GUID="A9ihbIjbN0aNM8rlc0gz6g=="/>
-		<POI MapID="1248" xpos="462.672" ypos="169.06" zpos="-412.395" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_adv_vehtendischoolsupplyrun.tw_pof_dov_adv_vehtendischoolsupplyrun_jumponspot" GUID="JgR9zz/CMUGkdlMBtHHZSQ=="/>
-		<POI MapID="1248" xpos="471.921" ypos="158.511" zpos="-413.079" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_adv_vehtendischoolsupplyrun.tw_pof_dov_adv_vehtendischoolsupplyrun_jumponspot" GUID="lZWvlR86MUqB/QZchjfPEw=="/>
-		<POI MapID="1248" xpos="483.18" ypos="159.472" zpos="-414.426" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_adv_vehtendischoolsupplyrun.tw_pof_dov_adv_vehtendischoolsupplyrun_jumponspot" GUID="LE3Vr3lfTECQ7Tm5fL2/sg=="/>
-		<POI MapID="1248" xpos="488.429" ypos="157.7" zpos="-416.785" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_adv_vehtendischoolsupplyrun.tw_pof_dov_adv_vehtendischoolsupplyrun_jumponspot" GUID="aV3GJtcyCUuTFY7i1X48lA=="/>
-		<POI MapID="1248" xpos="493.825" ypos="160.773" zpos="-419.843" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_adv_vehtendischoolsupplyrun.tw_pof_dov_adv_vehtendischoolsupplyrun_jumponspot" GUID="Z4l29VkDqkepDUha0HvEtQ=="/>
-		<POI MapID="1248" xpos="458.388" ypos="176.231" zpos="-421.426" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_adv_vehtendischoolsupplyrun.tw_pof_dov_adv_vehtendischoolsupplyrun_jumponspot" GUID="Rcs30Xu9zEejdLdIlMnySg=="/>
-		<POI MapID="1248" xpos="447.365" ypos="182.971" zpos="-420.903" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_adv_vehtendischoolsupplyrun.tw_pof_dov_adv_vehtendischoolsupplyrun_jumponspot" GUID="wn+SuaWEIEedW1ttib5lWA=="/>
-		<POI MapID="1248" xpos="454.461" ypos="185.557" zpos="-421.707" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_adv_vehtendischoolsupplyrun.tw_pof_dov_adv_vehtendischoolsupplyrun_jumponspot" GUID="adh8Zl4wr06HJzgUOi9MRQ=="/>
-		<POI MapID="1248" xpos="-528.549" ypos="49.0612" zpos="490.119" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_adv_gardenwineandcheeserun.tw_pof_dov_adv_gardenwineandcheeserun_jumponspot" GUID="3E0utpFtdEiuicDj7d278w=="/>
-		<POI MapID="1248" xpos="-478.481" ypos="39.6082" zpos="432.774" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_adv_gardenwineandcheeserun.tw_pof_dov_adv_gardenwineandcheeserun_jumponspot" GUID="bCL97lGvv0my0IazY5KYrQ=="/>
-		<POI MapID="1248" xpos="-421.14" ypos="47.8175" zpos="393.177" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_adv_gardenwineandcheeserun.tw_pof_dov_adv_gardenwineandcheeserun_jumponspot" GUID="HqpC/b4Gi06nHkV+bSk9aA=="/>
-		<POI MapID="1248" xpos="-416.273" ypos="65.5288" zpos="386.12" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_adv_gardenwineandcheeserun.tw_pof_dov_adv_gardenwineandcheeserun_jumponspot" GUID="IOBFk417LUOYAS8vDwlojA=="/>
-		<POI MapID="1248" xpos="-346.124" ypos="93.3549" zpos="334.241" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_adv_gardenwineandcheeserun.tw_pof_dov_adv_gardenwineandcheeserun_jumponspot" GUID="3SGTY5+CDkWm6xB7BsSghA=="/>
-		<POI MapID="1248" xpos="-341.609" ypos="100.19" zpos="337.247" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_adv_gardenwineandcheeserun.tw_pof_dov_adv_gardenwineandcheeserun_jumponspot" GUID="bQaS6w6Es02jgUwkFmOsPA=="/>
-		<POI MapID="1248" xpos="-280.436" ypos="108.859" zpos="329.391" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_adv_gardenwineandcheeserun.tw_pof_dov_adv_gardenwineandcheeserun_jumponspot" GUID="jOpZVBiNq0KSakyvO9Z1fA=="/>
-		<POI MapID="1248" xpos="9.53241" ypos="134.876" zpos="658.384" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_adv_gardenwineandcheeserun.tw_pof_dov_adv_gardenwineandcheeserun_jumponspot" GUID="qgKE5Jupp0CSd/XEDkwBlA=="/>
-		<POI MapID="1248" xpos="-32.0479" ypos="135.148" zpos="658.033" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_adv_gardenwineandcheeserun.tw_pof_dov_adv_gardenwineandcheeserun_jumponspot" GUID="tCAWLkRit0e4fkc5Z2iiSQ=="/>
-		<POI MapID="1248" xpos="-527.566" ypos="49.0612" zpos="495.498" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_adv_gardenwineandcheeserun.tw_pof_dov_adv_gardenwineandcheeserun_jumponspot" GUID="mb6ZjUguakqHBetB2EE0WQ=="/>
-		<POI MapID="1248" xpos="-925.421" ypos="179.038" zpos="-427.188" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_adv_necropolisembalmingsupplyrun.tw_pof_dov_adv_necropolisembalmingsupplyrun_jumponspot" GUID="wKaIilYw/E2EvEEzy4b/5w=="/>
-		<POI MapID="1248" xpos="-945.087" ypos="188.526" zpos="-438.371" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_adv_necropolisembalmingsupplyrun.tw_pof_dov_adv_necropolisembalmingsupplyrun_jumponspot" GUID="wesFsZP9006gTZtThlSI3w=="/>
-		<POI MapID="1248" xpos="-947.859" ypos="195.73" zpos="-430.596" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_adv_necropolisembalmingsupplyrun.tw_pof_dov_adv_necropolisembalmingsupplyrun_jumponspot" GUID="UmHnl979bEW3VaRiBl0JeQ=="/>
-		<POI MapID="1248" xpos="-955.953" ypos="209.912" zpos="-420.3" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_adv_necropolisembalmingsupplyrun.tw_pof_dov_adv_necropolisembalmingsupplyrun_jumponspot" GUID="+5s1v6pjPEC0sFbIQbBR8g=="/>
-		<POI MapID="1248" xpos="-964.844" ypos="217.838" zpos="-415.66" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_adv_necropolisembalmingsupplyrun.tw_pof_dov_adv_necropolisembalmingsupplyrun_jumponspot" GUID="Cya9+b6bPkWGkUBA0abOGA=="/>
-		<POI MapID="1248" xpos="-968.534" ypos="221.781" zpos="-411.827" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_adv_necropolisembalmingsupplyrun.tw_pof_dov_adv_necropolisembalmingsupplyrun_jumponspot" GUID="g1UfePAqm0GJQigMqWjivw=="/>
-		<POI MapID="1248" xpos="-975.269" ypos="222.569" zpos="-406.257" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_adv_necropolisembalmingsupplyrun.tw_pof_dov_adv_necropolisembalmingsupplyrun_jumponspot" GUID="qz5Pz243SEWguxZBQEn1ew=="/>
-		<POI MapID="1248" xpos="-981.523" ypos="226.482" zpos="-401.703" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_adv_necropolisembalmingsupplyrun.tw_pof_dov_adv_necropolisembalmingsupplyrun_jumponspot" GUID="PH9lv1APcEakhqOg4FZWeg=="/>
-		<POI MapID="1248" xpos="-1023.53" ypos="225.743" zpos="-372.014" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_adv_necropolisembalmingsupplyrun.tw_pof_dov_adv_necropolisembalmingsupplyrun_jumponspot" GUID="zeTnLqD48kKSJkl2znO2yQ=="/>
-		<POI MapID="1248" xpos="-1030.85" ypos="218.637" zpos="-368.596" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_adv_necropolisembalmingsupplyrun.tw_pof_dov_adv_necropolisembalmingsupplyrun_jumponspot" GUID="MapIihC/KEqV+oFcfvVCrg=="/>
-		<POI MapID="1248" xpos="-1044.35" ypos="220.031" zpos="-344.809" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_adv_necropolisembalmingsupplyrun.tw_pof_dov_adv_necropolisembalmingsupplyrun_jumponspot" GUID="+vf+FezD0k2CCWvqpIbUSw=="/>
-		<POI MapID="1248" xpos="-1042.62" ypos="228.052" zpos="-336.039" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_adv_necropolisembalmingsupplyrun.tw_pof_dov_adv_necropolisembalmingsupplyrun_jumponspot" GUID="dswEta81D0iJDyKysp7CKQ=="/>
-		<POI MapID="1248" xpos="-1038.36" ypos="234.322" zpos="-328.351" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_adv_necropolisembalmingsupplyrun.tw_pof_dov_adv_necropolisembalmingsupplyrun_jumponspot" GUID="qp2cU09LNES2pRxQt9Y1Eg=="/>
-		<POI MapID="1248" xpos="-1021.2" ypos="232.876" zpos="-317.667" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_adv_necropolisembalmingsupplyrun.tw_pof_dov_adv_necropolisembalmingsupplyrun_jumponspot" GUID="0NNY1v9e1EOwQRVX4pzJ3g=="/>
-		<POI MapID="1248" xpos="-1003.93" ypos="236.132" zpos="-311.165" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_adv_necropolisembalmingsupplyrun.tw_pof_dov_adv_necropolisembalmingsupplyrun_jumponspot" GUID="uF9wXvnSdE+5wrbHcdPZBg=="/>
-		<POI MapID="1248" xpos="-997.366" ypos="241.202" zpos="-309.091" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_adv_necropolisembalmingsupplyrun.tw_pof_dov_adv_necropolisembalmingsupplyrun_jumponspot" GUID="TDWOtKea70ele3XXzBdDDg=="/>
-		<POI MapID="1248" xpos="-982.943" ypos="246.823" zpos="-302.915" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_adv_necropolisembalmingsupplyrun.tw_pof_dov_adv_necropolisembalmingsupplyrun_jumponspot" GUID="/cZzhT+GBUSbNWTIh/61eA=="/>
-		<POI MapID="1248" xpos="-960.17" ypos="257.022" zpos="-289.059" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_adv_necropolisembalmingsupplyrun.tw_pof_dov_adv_necropolisembalmingsupplyrun_jumponspot" GUID="SmPybWJhXU6v+jJmDAGnzg=="/>
-		<POI MapID="1248" xpos="-958.96" ypos="258.684" zpos="-285.216" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_adv_necropolisembalmingsupplyrun.tw_pof_dov_adv_necropolisembalmingsupplyrun_jumponspot" GUID="O57bd4TDr06dKCjFAv98Tw=="/>
-		<POI MapID="1248" xpos="-1128.76" ypos="237.697" zpos="-517.14" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_adv_necropolisembalmingsupplyrun.tw_pof_dov_adv_necropolisembalmingsupplyrun_jumponspot" GUID="MMctoyiAnEGVSnLRAxVrlw=="/>
-		<POI MapID="1248" xpos="-1110.48" ypos="232.026" zpos="-560.498" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_adv_necropolisembalmingsupplyrun.tw_pof_dov_adv_necropolisembalmingsupplyrun_jumponspot" GUID="nlTf1plEMkavGDWDJnAEAw=="/>
-		<POI MapID="1248" xpos="-1098.92" ypos="245.875" zpos="-579.258" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_adv_necropolisembalmingsupplyrun.tw_pof_dov_adv_necropolisembalmingsupplyrun_jumponspot" GUID="ECLN/1hDUUKcpilEma5Mcw=="/>
-		<POI MapID="1248" xpos="-1078.48" ypos="260.005" zpos="-668.242" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_adv_necropolisembalmingsupplyrun.tw_pof_dov_adv_necropolisembalmingsupplyrun_jumponspot" GUID="mXSDhrIivkiuQpHVhE2BXg=="/>
-		<POI MapID="1248" xpos="-1069.98" ypos="271.219" zpos="-677.448" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_adv_necropolisembalmingsupplyrun.tw_pof_dov_adv_necropolisembalmingsupplyrun_jumponspot" GUID="+FRjAnqruECB2LEejbK+qQ=="/>
-		<POI MapID="1248" xpos="-1063.85" ypos="270.866" zpos="-682.576" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_adv_necropolisembalmingsupplyrun.tw_pof_dov_adv_necropolisembalmingsupplyrun_jumponspot" GUID="wGh//Q0Qkkejr56P0zIpUA=="/>
-		<POI MapID="1248" xpos="-789.002" ypos="277.573" zpos="-805.586" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_adv_necropolisembalmingsupplyrun.tw_pof_dov_adv_necropolisembalmingsupplyrun_jumponspot" GUID="gvmWI65sh0y9qkVJ6xq6yg=="/>
-		<POI MapID="1248" xpos="-777.141" ypos="280.799" zpos="-802.232" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_adv_necropolisembalmingsupplyrun.tw_pof_dov_adv_necropolisembalmingsupplyrun_jumponspot" GUID="b9QdZT6DI0+gH2bkr3An5A=="/>
-		<POI MapID="1248" xpos="-1130.24" ypos="151.071" zpos="344.924" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_adv_vehjinnoblenecessitiesrun.tw_pof_dov_adv_vehjinnoblenecessitiesrun_jumponspot" GUID="Ws81JfcpL0mo5w+9QmW2fg=="/>
-		<POI MapID="1248" xpos="-1128.97" ypos="153.743" zpos="341.417" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_adv_vehjinnoblenecessitiesrun.tw_pof_dov_adv_vehjinnoblenecessitiesrun_jumponspot" GUID="lccCLE+sIUWaIBnIephrIQ=="/>
-		<POI MapID="1248" xpos="-1128.87" ypos="155.667" zpos="333.77" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_adv_vehjinnoblenecessitiesrun.tw_pof_dov_adv_vehjinnoblenecessitiesrun_jumponspot" GUID="aWgKQthbZEe5/V8O0wz2sw=="/>
-		<POI MapID="1248" xpos="-1132.75" ypos="155.635" zpos="321.051" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_adv_vehjinnoblenecessitiesrun.tw_pof_dov_adv_vehjinnoblenecessitiesrun_jumponspot" GUID="vfuGmuPPOEm5vkI+2aCwcg=="/>
-		<POI MapID="1248" xpos="-1149.71" ypos="164.793" zpos="301.993" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_adv_vehjinnoblenecessitiesrun.tw_pof_dov_adv_vehjinnoblenecessitiesrun_jumponspot" GUID="zf4RSMHSbUyKEOUfk6L1Ow=="/>
-		<POI MapID="1248" xpos="-1167.9" ypos="164.755" zpos="278.934" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_adv_vehjinnoblenecessitiesrun.tw_pof_dov_adv_vehjinnoblenecessitiesrun_jumponspot" GUID="ZobUBKu1j0+VtmPj6+vMqA=="/>
-		<POI MapID="1248" xpos="-1340.31" ypos="123.618" zpos="8.12913" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_adv_vehjinnoblenecessitiesrun.tw_pof_dov_adv_vehjinnoblenecessitiesrun_jumponspot" GUID="H5VviwYi60+NmfhytdvZpQ=="/>
-		<POI MapID="1248" xpos="-1419.1" ypos="87.5447" zpos="230.633" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_adv_vehjinnoblenecessitiesrun.tw_pof_dov_adv_vehjinnoblenecessitiesrun_jumponspot" GUID="+X6kb/okDE+7HMdBfcqy6Q=="/>
-		<POI MapID="1248" xpos="-1422.27" ypos="93.6005" zpos="233.755" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_adv_vehjinnoblenecessitiesrun.tw_pof_dov_adv_vehjinnoblenecessitiesrun_jumponspot" GUID="q6z3rkSng0Ger6ZYovNBMA=="/>
-		<POI MapID="1248" xpos="-1425.07" ypos="95.3889" zpos="232.74" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_adv_vehjinnoblenecessitiesrun.tw_pof_dov_adv_vehjinnoblenecessitiesrun_jumponspot" GUID="++i/6Lrv+U2g8dFm+jh0Ig=="/>
-		<POI MapID="1248" xpos="-1427.94" ypos="97.5075" zpos="230.383" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_adv_vehjinnoblenecessitiesrun.tw_pof_dov_adv_vehjinnoblenecessitiesrun_jumponspot" GUID="2fBhR9JZUU6Yg4esDPhKFQ=="/>
-		<POI MapID="1248" xpos="-1430.97" ypos="98.9742" zpos="228.214" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_adv_vehjinnoblenecessitiesrun.tw_pof_dov_adv_vehjinnoblenecessitiesrun_jumponspot" GUID="dr7Z6UV6nEmmMCq+b2bVEQ=="/>
-		<POI MapID="1248" xpos="-1374.76" ypos="148.564" zpos="437.554" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_adv_vehjinnoblenecessitiesrun.tw_pof_dov_adv_vehjinnoblenecessitiesrun_jumponspot" GUID="3bGmHyvnXkCEeCorjsVFaw=="/>
-		<POI MapID="1248" xpos="-1385.48" ypos="160.69" zpos="444.314" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_adv_vehjinnoblenecessitiesrun.tw_pof_dov_adv_vehjinnoblenecessitiesrun_jumponspot" GUID="fez2l04I20ydyz0tVJn5ig=="/>
-		<POI MapID="1248" xpos="-1417.92" ypos="175.751" zpos="434.478" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_adv_vehjinnoblenecessitiesrun.tw_pof_dov_adv_vehjinnoblenecessitiesrun_jumponspot" GUID="5IGT9Am2BE+a6HajW+9Eow=="/>
-		<POI MapID="1248" xpos="-1348.88" ypos="142.646" zpos="550.12" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_adv_vehjinnoblenecessitiesrun.tw_pof_dov_adv_vehjinnoblenecessitiesrun_jumponspot" GUID="m5EqRneAnkSKM491UjE3fA=="/>
-		<POI MapID="1248" xpos="-1141.76" ypos="165.829" zpos="282.156" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_praisejoko_statue" GUID="G0Vx9WkMnUedBZdjXt0rLg=="/>
-		<POI MapID="1248" xpos="-1213.95" ypos="165.865" zpos="424.625" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_praisejoko_statue" GUID="nMBiJO9ZZEqGha4bYSTwdQ=="/>
-		<POI MapID="1248" xpos="-1193.42" ypos="164.423" zpos="319.013" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_praisejoko_statue" GUID="ycReKaxa80ic+CVQOQRooA=="/>
-		<POI MapID="1248" xpos="-1161.57" ypos="134.357" zpos="203.042" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_praisejoko_statue" GUID="wNdUm9SpsUC2GxQcKcoC+w=="/>
-		<POI MapID="1248" xpos="-1129.96" ypos="131.92" zpos="-152.196" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_praisejoko_statue" GUID="gDem6CTtSkS8HDObcozeRQ=="/>
-		<POI MapID="1248" xpos="-1088.61" ypos="131.92" zpos="-193.928" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_praisejoko_statue" GUID="9q0MMWX4P0+Qj5IGPYiPGQ=="/>
-		<POI MapID="1248" xpos="-709.445" ypos="110.878" zpos="-460.056" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_praisejoko_statue" GUID="+lIYSGjU2EWP8yuG0va+2Q=="/>
-		<POI MapID="1248" xpos="-702.496" ypos="198.212" zpos="-584.019" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_praisejoko_statue" GUID="9yte53S1jEqaTaMEmdgzRg=="/>
-		<POI MapID="1248" xpos="-892.669" ypos="186.996" zpos="-625.4" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_praisejoko_statue" GUID="tpr2yqUWqEKsOcEr2HH8tw=="/>
-		<POI MapID="1248" xpos="-850.12" ypos="186.985" zpos="-644.314" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_praisejoko_statue" GUID="/XbUuD4uv0KoC9xbFoY1OQ=="/>
-		<POI MapID="1248" xpos="-978.64" ypos="128.121" zpos="-739.104" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_praisejoko_statue" GUID="CKexkvjr2UOk6gvnMIEZkQ=="/>
-		<POI MapID="1248" xpos="-932.191" ypos="107.641" zpos="-739.208" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_praisejoko_statue" GUID="ecAYP7f22kGsY+hiGyYJzA=="/>
-		<POI MapID="1248" xpos="55.721" ypos="167.031" zpos="-534.891" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_praisejoko_statue" GUID="Bmv9MOH5OUiQibz19+Z0hw=="/>
-		<POI MapID="1248" xpos="33.2021" ypos="115.934" zpos="-359.145" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_praisejoko_statue" GUID="EszbqeCzKUm7dbuxGENrWg=="/>
-		<POI MapID="1248" xpos="-470.333" ypos="43.4093" zpos="379.222" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_praisejoko_statue" GUID="HQmfQGQr8EacubN4gUnlUQ=="/>
-		<POI MapID="1248" xpos="-469.242" ypos="43.4089" zpos="629.813" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_praisejoko_statue" GUID="RfgshrQM4EGuVgdYkvehuQ=="/>
-		<POI MapID="1248" xpos="-765.105" ypos="113.286" zpos="500.176" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_praisejoko_statue" GUID="hqC679lg3k2CLvwfC5LBcw=="/>
-		<POI MapID="1248" xpos="26.1632" ypos="23.4346" zpos="617.456" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_praisejoko_statue" GUID="HYKOw8mTSkie/1s43lH26w=="/>
-		<POI MapID="1248" xpos="26.6643" ypos="23.4346" zpos="382.08" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_praisejoko_statue" GUID="cXcWZG7HkUGVZ6oMHkIrbQ=="/>
-		<POI MapID="1248" xpos="-133.557" ypos="23.4347" zpos="382.04" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_praisejoko_statue" GUID="FE0qRXcz3kO2wwrUo147Jw=="/>
-		<POI MapID="1248" xpos="-133.491" ypos="23.0029" zpos="617.449" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_praisejoko_statue" GUID="exTNRR5pqkiYT2zbaucB9Q=="/>
-		<POI MapID="1248" xpos="-49.4297" ypos="113.642" zpos="-83.9046" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_praisejoko_statue" GUID="f94sCLMqxkqZ+MEQrH1FBA=="/>
-		<POI MapID="1248" xpos="48.8733" ypos="131.963" zpos="-37.9684" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_praisejoko_statue" GUID="66kivMkudkuPFfI0o7xtxA=="/>
-		<POI MapID="1248" xpos="427.685" ypos="228.902" zpos="-12.7045" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_praisejoko_statue" GUID="lo834D3KI0eCEjeTdw4wig=="/>
-		<POI MapID="1248" xpos="484.5" ypos="228.855" zpos="-71.0354" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_praisejoko_statue" GUID="JKnX1NJhf0uAqxunbriPYA=="/>
-		<POI MapID="1248" xpos="460.471" ypos="183.085" zpos="49.2574" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_praisejoko_statue" GUID="0wg06nSfd0G5B93Xr+RhPQ=="/>
-		<POI MapID="1248" xpos="506.401" ypos="183.085" zpos="49.9586" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_praisejoko_statue" GUID="PZmJj8q5CEC0lh57xsxmJQ=="/>
-		<POI MapID="1248" xpos="444.142" ypos="290.152" zpos="-42.2877" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_praisejoko_statue" GUID="ZWV861G2hkOC7fcuZ4qLJQ=="/>
-		<POI MapID="1248" xpos="443.555" ypos="290.152" zpos="13.2048" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_praisejoko_statue" GUID="faHCfp1EmkqPWrd7Yl+rDg=="/>
-		<POI MapID="1248" xpos="466.787" ypos="228.826" zpos="41.7758" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_praisejoko_statue" GUID="qB604wSHQ0uvloIgjq1R3A=="/>
-		<POI MapID="1248" xpos="549.042" ypos="221.489" zpos="-60.4996" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_praisejoko_statue" GUID="Sk7g1ZOGFEy/PWuRMCPryw=="/>
-		<POI MapID="1248" xpos="594.062" ypos="221.489" zpos="-60.2797" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_praisejoko_statue" GUID="6M7xIZtMhUGUJlvpoQfblg=="/>
-		<POI MapID="1248" xpos="210.857" ypos="160.51" zpos="-94.4214" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_praisejoko_statue" GUID="l68vlsnP8EO62XU1Zran5Q=="/>
-		<POI MapID="1248" xpos="310.553" ypos="133.567" zpos="-167.158" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_praisejoko_statue" GUID="+R8QB9yZ20yFFzaRWyWxQA=="/>
-		<POI MapID="1248" xpos="820.97" ypos="97.9425" zpos="-185.969" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_praisejoko_statue" GUID="Bhuh8Wbw6U+lPT7D2jwUYA=="/>
-		<POI MapID="1248" xpos="76.8319" ypos="139.715" zpos="-63.4691" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_praisejoko_statue" GUID="laI05Lgdt0SXrqzLGkU1eg=="/>
-		<POI MapID="1248" xpos="668.022" ypos="130.575" zpos="-351.961" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_praisejoko_statue" GUID="lIE94XASq0SEOuYJkeUwrw=="/>
-		<POI MapID="1248" xpos="643.744" ypos="130.575" zpos="-350.377" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_praisejoko_statue" GUID="bb5cb5O2hkStE4o/MMfdiw=="/>
-		<POI MapID="1248" xpos="-1232.77" ypos="120.401" zpos="346.287" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_lostlore_page" GUID="c9s2xQSpJ0CUboYbYM7dHQ=="/>
-		<POI MapID="1248" xpos="1380.06" ypos="102.972" zpos="-595.215" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_lostlore_page" GUID="iy6hj2pPdU+4rXhk48ZROw=="/>
-		<POI MapID="1248" xpos="-1457.22" ypos="312.183" zpos="-687.103" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_lostlore_page" GUID="VSeGcVg44EKg5rG+q5BM0w=="/>
-		<POI MapID="1248" xpos="757.797" ypos="198.086" zpos="77.7911" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_lostlore_page" GUID="WCAkkKIocEi4nIs67ayqxw=="/>
-		<POI MapID="1248" xpos="-869.274" ypos="371.043" zpos="-622.02" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_lostlore_page" GUID="8V9GzeQTykG/4zxlosbxKw=="/>
-		<POI MapID="1248" xpos="-744.345" ypos="217.974" zpos="500.779" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_lostlore_page" GUID="KNBQKv4XOEiR+s6WyK967w=="/>
-		<POI MapID="1248" xpos="281.713" ypos="263.749" zpos="-95.0149" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_lostlore_page" GUID="dAaqENUFmEqss78+MQonag=="/>
-	  <Trail type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_timewornbusts.tw_pof_dov_timewornbusts_toggletrail" GUID="qaUApSW6jkG904N89jynCQ==" fadeNear="2500" fadeFar="2600" trailData="Data/TekkitsWorkshop/PoF/DomainOfVabbi/tw_pof_dov_timewornbusts.trl" animSpeed="0.1" texture="Data/TekkitsWorkshop/General/tw_trail_b.png"/>
-    <Trail type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_adv_gardenwineandcheeserun.tw_pof_dov_adv_gardenwineandcheeserun_toggletrail" GUID="SG2QrpSmhkqtYDeZtdVyYw==" fadeNear="2500" fadeFar="2600" trailData="Data/TekkitsWorkshop/PoF/DomainOfVabbi/tw_pof_dov_adv_gardenwineandcheeserun.trl" animSpeed="0.1" texture="Data/TekkitsWorkshop/General/tw_trail_g.png"/>
-		<Trail type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_adv_necropolisembalmingsupplyrun.tw_pof_dov_adv_necropolisembalmingsupplyrun_toggletrail" GUID="lqStCPfQ8E6rronfzHsUVg==" fadeNear="2500" fadeFar="2600" trailData="Data/TekkitsWorkshop/PoF/DomainOfVabbi/tw_pof_dov_adv_necropolisembalmingsupplyrun.trl" animSpeed="0.1" texture="Data/TekkitsWorkshop/General/tw_trail_g.png"/>
-		<Trail type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_adv_vehjinnoblenecessitiesrun.tw_pof_dov_adv_vehjinnoblenecessitiesrun_toggletrail" GUID="QGrbIuSvr0CsXADAEQ2ndA==" fadeNear="2500" fadeFar="2600" trailData="Data/TekkitsWorkshop/PoF/DomainOfVabbi/tw_pof_dov_adv_vehjinnoblenecessitiesrun.trl" animSpeed="0.1" texture="Data/TekkitsWorkshop/General/tw_trail_g.png"/>
-		<Trail type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_adv_vehtendischoolsupplyrun.tw_pof_dov_adv_vehtendischoolsupplyrun_toggletrail" GUID="0FKf3vEzvESKGYo+YPlm8A==" fadeNear="2500" fadeFar="2600" trailData="Data/TekkitsWorkshop/PoF/DomainOfVabbi/tw_pof_dov_adv_vehtendischoolsupplyrun.trl" animSpeed="0.1" texture="Data/TekkitsWorkshop/General/tw_trail_g.png"/>
-    <Trail type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_sandportals.tw_pof_dov_sandportals_toggletrail" GUID="25hJLM4WmkWLoy3MHEoGLw==" fadeNear="10000" fadeFar="10000" trailData="Data/TekkitsWorkshop/PoF/DomainOfVabbi/tw_pof_dov_sandportals.trl" animSpeed="0.1" texture="Data/TekkitsWorkshop/General/tw_trail_link.png"/>
-  </POIs>
+	<MarkerCategory name="tw_guides" DisplayName="Tekkit's Guides">
+		<MarkerCategory name="tw_pof" DisplayName="Path of Fire">
+			<MarkerCategory name="tw_pof_dov" DisplayName="Domain of Vabbi">
+				<MarkerCategory name="tw_pof_dov_timewornbusts" DisplayName="Timeworn Busts">
+					<MarkerCategory name="tw_pof_dov_timewornbusts_timewornbust" DisplayName="Toggle Timeworn Busts" mapDisplaySize="30" iconFile="Data/TekkitsWorkshop/PoF/DomainOfVabbi/tw_pof_dov_timewornbusts_timewornbust.png" iconSize="0.5" heightOffset="0.5" minSize="10" fadeNear="3000" fadeFar="3100" behavior="2" />
+					<MarkerCategory name="tw_pof_dov_timewornbusts_toggletrail" DisplayName="Toggle Trail">
+					</MarkerCategory>
+					<MarkerCategory name="tw_pof_dov_timewornbusts_signs" DisplayName="Toggle Signs">
+						<MarkerCategory name="tw_pof_dov_timewornbusts_startsignp1" DisplayName="Starting Sign Part1" mapDisplaySize="130" iconFile="Data/TekkitsWorkshop/PoF/DomainOfVabbi/tw_pof_dov_timewornbusts_sign1.png" iconSize="1" heightOffset="2.5" minSize="50" fadeNear="5000" fadeFar="5100" />
+						<MarkerCategory name="tw_pof_dov_timewornbusts_startsignp2" DisplayName="Starting Sign Part2" mapDisplaySize="130" iconFile="Data/TekkitsWorkshop/PoF/DomainOfVabbi/tw_pof_dov_timewornbusts_sign2.png" iconSize="1" heightOffset="2.5" minSize="50" fadeNear="5000" fadeFar="5100" />
+						<MarkerCategory name="tw_pof_dov_timewornbusts_startsignp3" DisplayName="Starting Sign Part3" mapDisplaySize="130" iconFile="Data/TekkitsWorkshop/PoF/DomainOfVabbi/tw_pof_dov_timewornbusts_sign3.png" iconSize="1" heightOffset="2.5" minSize="50" fadeNear="5000" fadeFar="5100" />
+						<MarkerCategory name="tw_pof_dov_timewornbusts_startsignp4" DisplayName="Starting Sign Part4" mapDisplaySize="130" iconFile="Data/TekkitsWorkshop/PoF/DomainOfVabbi/tw_pof_dov_timewornbusts_sign4.png" iconSize="1" heightOffset="2.5" minSize="50" fadeNear="5000" fadeFar="5100" />
+						<MarkerCategory name="tw_pof_dov_timewornbusts_startsignp5" DisplayName="Starting Sign Part5" mapDisplaySize="130" iconFile="Data/TekkitsWorkshop/PoF/DomainOfVabbi/tw_pof_dov_timewornbusts_sign5.png" iconSize="1" heightOffset="2.5" minSize="50" fadeNear="5000" fadeFar="5100" />
+						<MarkerCategory name="tw_pof_dov_timewornbusts_startsignp6" DisplayName="Starting Sign Part6" mapDisplaySize="130" iconFile="Data/TekkitsWorkshop/PoF/DomainOfVabbi/tw_pof_dov_timewornbusts_sign6.png" iconSize="1" heightOffset="2.5" minSize="50" fadeNear="5000" fadeFar="5100" />
+						<MarkerCategory name="tw_pof_dov_timewornbusts_startsignp7" DisplayName="Starting Sign Part7" mapDisplaySize="130" iconFile="Data/TekkitsWorkshop/PoF/DomainOfVabbi/tw_pof_dov_timewornbusts_sign7.png" iconSize="1" heightOffset="2.5" minSize="50" fadeNear="5000" fadeFar="5100" />
+						<MarkerCategory name="tw_pof_dov_timewornbusts_startsignp8" DisplayName="Starting Sign Part8" mapDisplaySize="130" iconFile="Data/TekkitsWorkshop/PoF/DomainOfVabbi/tw_pof_dov_timewornbusts_sign8.png" iconSize="1" heightOffset="2.5" minSize="50" fadeNear="5000" fadeFar="5100" />
+						<MarkerCategory name="tw_pof_dov_timewornbusts_teleport1" DisplayName="Teleport Sign Part1" miniMapVisibility="0" mapVisibility="0" iconFile="Data/TekkitsWorkshop/PoF/DomainOfVabbi/tw_pof_dov_teleport1.png" iconSize="1" heightOffset="2.5" minSize="50" fadeNear="5000" fadeFar="5100" />
+						<MarkerCategory name="tw_pof_dov_timewornbusts_teleport2" DisplayName="Teleport Sign Part2" miniMapVisibility="0" mapVisibility="0" iconFile="Data/TekkitsWorkshop/PoF/DomainOfVabbi/tw_pof_dov_teleport2.png" iconSize="1" heightOffset="2.5" minSize="50" fadeNear="5000" fadeFar="5100" />
+						<MarkerCategory name="tw_pof_dov_timewornbusts_teleport3" DisplayName="Teleport Sign Part3" miniMapVisibility="0" mapVisibility="0" iconFile="Data/TekkitsWorkshop/PoF/DomainOfVabbi/tw_pof_dov_teleport3.png" iconSize="1" heightOffset="2.5" minSize="50" fadeNear="5000" fadeFar="5100" />
+						<MarkerCategory name="tw_pof_dov_timewornbusts_teleport4" DisplayName="Teleport Sign Part4" miniMapVisibility="0" mapVisibility="0" iconFile="Data/TekkitsWorkshop/PoF/DomainOfVabbi/tw_pof_dov_teleport4.png" iconSize="1" heightOffset="2.5" minSize="50" fadeNear="5000" fadeFar="5100" />
+						<MarkerCategory name="tw_pof_dov_timewornbusts_teleport5" DisplayName="Teleport Sign Part5" miniMapVisibility="0" mapVisibility="0" iconFile="Data/TekkitsWorkshop/PoF/DomainOfVabbi/tw_pof_dov_teleport5.png" iconSize="1" heightOffset="2.5" minSize="50" fadeNear="5000" fadeFar="5100" />
+						<MarkerCategory name="tw_pof_dov_timewornbusts_finish" DisplayName="Finish Sign" mapDisplaySize="80" iconFile="Data/TekkitsWorkshop/General/tw_trail_finish_b.png" iconSize="1" heightOffset="2.5" minSize="50" fadeNear="5000" fadeFar="5100" />
+					</MarkerCategory>
+				</MarkerCategory>
+				<MarkerCategory name="tw_pof_dov_adv_gardenwineandcheeserun" DisplayName="Adventure - Garden Wine and Cheese Run">
+					<MarkerCategory name="tw_pof_dov_adv_gardenwineandcheeserun_jumponspot" DisplayName="Toggle Jump-On Spots" miniMapVisibility="0" mapVisibility="0" iconFile="Data/TekkitsWorkshop/General/tw_trail_jump.png" iconSize="0.5" heightOffset="0.5" minSize="10" fadeNear="3000" fadeFar="3100" />
+					<MarkerCategory name="tw_pof_dov_adv_gardenwineandcheeserun_toggletrail" DisplayName="Toggle Trail">
+					</MarkerCategory>
+					<MarkerCategory name="tw_pof_dov_adv_gardenwineandcheeserun_signs" DisplayName="Toggle Signs">
+						<MarkerCategory name="tw_pof_dov_adv_gardenwineandcheeserun_startsign" DisplayName="Starting Sign" mapDisplaySize="130" iconFile="Data/TekkitsWorkshop/PoF/DomainOfVabbi/tw_pof_dov_adv_gardenwineandcheeserun_startsign.png" iconSize="1" heightOffset="2.5" minSize="50" fadeNear="5000" fadeFar="5100" />
+						<MarkerCategory name="tw_pof_dov_adv_gardenwineandcheeserun_finishsign" DisplayName="Finish Sign" mapDisplaySize="80" iconFile="Data/TekkitsWorkshop/General/tw_trail_finish_g.png" iconSize="1" heightOffset="2.5" minSize="50" fadeNear="5000" fadeFar="5100" />
+					</MarkerCategory>
+				</MarkerCategory>
+				<MarkerCategory name="tw_pof_dov_adv_necropolisembalmingsupplyrun" DisplayName="Adventure - Necropolis Embalming Supply Run">
+					<MarkerCategory name="tw_pof_dov_adv_necropolisembalmingsupplyrun_jumponspot" DisplayName="Toggle Jump-On Spots" miniMapVisibility="0" mapVisibility="0" iconFile="Data/TekkitsWorkshop/General/tw_trail_jump.png" iconSize="0.5" heightOffset="0.5" minSize="10" fadeNear="3000" fadeFar="3100" />
+					<MarkerCategory name="tw_pof_dov_adv_necropolisembalmingsupplyrun_toggletrail" DisplayName="Toggle Trail">
+					</MarkerCategory>
+					<MarkerCategory name="tw_pof_dov_adv_necropolisembalmingsupplyrun_signs" DisplayName="Toggle Signs">
+						<MarkerCategory name="tw_pof_dov_adv_necropolisembalmingsupplyrun_startsign" DisplayName="Starting Sign" mapDisplaySize="130" iconFile="Data/TekkitsWorkshop/PoF/DomainOfVabbi/tw_pof_dov_adv_necropolisembalmingsupplyrun_startsign.png" iconSize="1" heightOffset="2.5" minSize="50" fadeNear="5000" fadeFar="5100" />
+						<MarkerCategory name="tw_pof_dov_adv_necropolisembalmingsupplyrun_finishsign" DisplayName="Finish Sign" mapDisplaySize="80" iconFile="Data/TekkitsWorkshop/General/tw_trail_finish_g.png" iconSize="1" heightOffset="2.5" minSize="50" fadeNear="5000" fadeFar="5100" />
+					</MarkerCategory>
+				</MarkerCategory>
+				<MarkerCategory name="tw_pof_dov_adv_vehjinnoblenecessitiesrun" DisplayName="Adventure - Vehjin Noble Necessities Run">
+					<MarkerCategory name="tw_pof_dov_adv_vehjinnoblenecessitiesrun_jumponspot" DisplayName="Toggle Jump-On Spots" miniMapVisibility="0" mapVisibility="0" iconFile="Data/TekkitsWorkshop/General/tw_trail_jump.png" iconSize="0.5" heightOffset="0.5" minSize="10" fadeNear="3000" fadeFar="3100" />
+					<MarkerCategory name="tw_pof_dov_adv_vehjinnoblenecessitiesrun_toggletrail" DisplayName="Toggle Trail">
+					</MarkerCategory>
+					<MarkerCategory name="tw_pof_dov_adv_vehjinnoblenecessitiesrun_signs" DisplayName="Toggle Signs">
+						<MarkerCategory name="tw_pof_dov_adv_vehjinnoblenecessitiesrun_startsign" DisplayName="Starting Sign" mapDisplaySize="130" iconFile="Data/TekkitsWorkshop/PoF/DomainOfVabbi/tw_pof_dov_adv_vehjinnoblenecessitiesrun_startsign.png" iconSize="1" heightOffset="2.5" minSize="50" fadeNear="5000" fadeFar="5100" />
+						<MarkerCategory name="tw_pof_dov_adv_vehjinnoblenecessitiesrun_finishsign" DisplayName="Finish Sign" mapDisplaySize="80" iconFile="Data/TekkitsWorkshop/General/tw_trail_finish_g.png" iconSize="1" heightOffset="2.5" minSize="50" fadeNear="5000" fadeFar="5100" />
+					</MarkerCategory>
+				</MarkerCategory>
+				<MarkerCategory name="tw_pof_dov_adv_vehtendischoolsupplyrun" DisplayName="Adventure - Vehtendi School Supply Run">
+					<MarkerCategory name="tw_pof_dov_adv_vehtendischoolsupplyrun_jumponspot" DisplayName="Toggle Jump-On Spots" miniMapVisibility="0" mapVisibility="0" iconFile="Data/TekkitsWorkshop/General/tw_trail_jump.png" iconSize="0.5" heightOffset="0.5" minSize="10" fadeNear="3000" fadeFar="3100" />
+					<MarkerCategory name="tw_pof_dov_adv_vehtendischoolsupplyrun_toggletrail" DisplayName="Toggle Trail">
+					</MarkerCategory>
+					<MarkerCategory name="tw_pof_dov_adv_vehtendischoolsupplyrun_signs" DisplayName="Toggle Signs">
+						<MarkerCategory name="tw_pof_dov_adv_vehtendischoolsupplyrun_startsign" DisplayName="Starting Sign" mapDisplaySize="130" iconFile="Data/TekkitsWorkshop/PoF/DomainOfVabbi/tw_pof_dov_adv_vehtendischoolsupplyrun_startsign.png" iconSize="1" heightOffset="2.5" minSize="50" fadeNear="5000" fadeFar="5100" />
+						<MarkerCategory name="tw_pof_dov_adv_vehtendischoolsupplyrun_finishsign" DisplayName="Finish Sign" mapDisplaySize="80" iconFile="Data/TekkitsWorkshop/General/tw_trail_finish_g.png" iconSize="1" heightOffset="2.5" minSize="50" fadeNear="5000" fadeFar="5100" />
+					</MarkerCategory>
+				</MarkerCategory>
+				<MarkerCategory name="tw_pof_dov_praisejoko_statue" DisplayName="Praise Joko" mapDisplaySize="30" iconFile="Data/TekkitsWorkshop/PoF/DomainOfVabbi/tw_pof_dov_praisejoko_statue.png" iconSize="0.5" heightOffset="0.5" minSize="10" behavior="2" />
+				<MarkerCategory name="tw_pof_dov_lostlore_page" DisplayName="Lost Lore of Domain of Vabbi" mapDisplaySize="30" iconSize="0.5" minSize="15" heightOffset="0.0" iconFile="Data/TekkitsWorkshop/PoF/CrystalOasis/tw_pof_co_lostlore_page.png" />
+				<MarkerCategory name="tw_pof_dov_sandportals" DisplayName="Sand Portals">
+					<MarkerCategory name="tw_pof_dov_sandportals_sandportal" DisplayName="Toggle Portals" mapDisplaySize="30" iconFile="Data/TekkitsWorkshop/General/tw_trail_entrance.png" iconSize="0.5" heightOffset="1.5" minSize="10" fadeNear="10000" fadeFar="10000" />
+					<MarkerCategory name="tw_pof_dov_sandportals_toggletrail" DisplayName="Toggle Trail">
+					</MarkerCategory>
+				</MarkerCategory>
+			</MarkerCategory>
+		</MarkerCategory>
+	</MarkerCategory>
+	<POIs>
+		<POI MapID="1248" xpos="-1379.38" ypos="109.127" zpos="818.908" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_timewornbusts.tw_pof_dov_timewornbusts_timewornbust" GUID="lP8aZEM6bUq7d4ZewJWnuw==" />
+		<POI MapID="1248" xpos="-1413.48" ypos="86.4803" zpos="616.44" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_timewornbusts.tw_pof_dov_timewornbusts_timewornbust" GUID="GOdmFdJ4CkiWbHkn6CVzdQ==" />
+		<POI MapID="1248" xpos="-1225.07" ypos="135.4" zpos="-260.233" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_timewornbusts.tw_pof_dov_timewornbusts_timewornbust" GUID="4Ee5y3/H20S/AG0n+Uc2HQ==" />
+		<POI MapID="1248" xpos="-1001.84" ypos="126.379" zpos="-738.27" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_timewornbusts.tw_pof_dov_timewornbusts_timewornbust" GUID="XXzkLpT+MkCTnMFjNS/Cog==" />
+		<POI MapID="1248" xpos="-750.723" ypos="236.629" zpos="-681.308" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_timewornbusts.tw_pof_dov_timewornbusts_timewornbust" GUID="q0qbHO2cmkG6Zz2NRukfaA==" />
+		<POI MapID="1248" xpos="-369.49" ypos="126.186" zpos="-133.321" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_timewornbusts.tw_pof_dov_timewornbusts_timewornbust" GUID="H8wg997J6EesqCRMLTryrg==" />
+		<POI MapID="1248" xpos="-305.274" ypos="211.312" zpos="-501.478" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_timewornbusts.tw_pof_dov_timewornbusts_timewornbust" GUID="5L3OPMiC4U2Mt7x/NzsumQ==" />
+		<POI MapID="1248" xpos="391.594" ypos="92.5396" zpos="-562.435" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_timewornbusts.tw_pof_dov_timewornbusts_timewornbust" GUID="/E0mS2FuJESBWyPFueXB4Q==" />
+		<POI MapID="1248" xpos="448.57" ypos="231.065" zpos="-553.842" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_timewornbusts.tw_pof_dov_timewornbusts_timewornbust" GUID="VcPCSA4vEU6B7IcGCDa/aw==" />
+		<POI MapID="1248" xpos="82.461" ypos="120.129" zpos="-914.989" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_timewornbusts.tw_pof_dov_timewornbusts_timewornbust" GUID="QW7lb1A3QUWcbsQj6W7VqQ==" />
+		<POI MapID="1248" xpos="169.287" ypos="176.883" zpos="910.659" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_timewornbusts.tw_pof_dov_timewornbusts_timewornbust" GUID="OssmyFXqRkuhI6wzXKPDGw==" />
+		<POI MapID="1248" xpos="25.4272" ypos="148.802" zpos="874.931" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_timewornbusts.tw_pof_dov_timewornbusts_timewornbust" GUID="C/hq4jJu5USMy+xP5lOmpQ==" />
+		<POI MapID="1248" xpos="910.767" ypos="127.84" zpos="423.677" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_timewornbusts.tw_pof_dov_timewornbusts_timewornbust" GUID="rAqCvU58Jk6CvHx8XZj8yA==" />
+		<POI MapID="1248" xpos="268.843" ypos="220.334" zpos="-88.9178" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_timewornbusts.tw_pof_dov_timewornbusts_timewornbust" GUID="pk2CpKjoxEWrCCtBxoAlLA==" />
+		<POI MapID="1248" xpos="248.624" ypos="160.71" zpos="78.7234" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_timewornbusts.tw_pof_dov_timewornbusts_timewornbust" GUID="UZ3fPq28Dk+owJnJ9uvvBg==" />
+		<POI MapID="1248" xpos="359.815" ypos="116.157" zpos="117.816" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_timewornbusts.tw_pof_dov_timewornbusts_timewornbust" GUID="EiJY5HjX2EKHpvrUdA/OOA==" />
+		<POI MapID="1248" xpos="514.76" ypos="68.9482" zpos="69.2061" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_timewornbusts.tw_pof_dov_timewornbusts_timewornbust" GUID="9xStDl79kkep+LP+LSBUpg==" />
+		<POI MapID="1248" xpos="1016.56" ypos="196.736" zpos="-559.023" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_timewornbusts.tw_pof_dov_timewornbusts_timewornbust" GUID="P7dHCVGqS0uRFouOwtR3Uw==" />
+		<POI MapID="1248" xpos="947.573" ypos="5.93661" zpos="928.507" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_timewornbusts.tw_pof_dov_timewornbusts_timewornbust" GUID="gYCh8ZujZkuCXFQn5nWuew==" />
+		<POI MapID="1248" xpos="1422.78" ypos="149.97" zpos="-485.614" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_timewornbusts.tw_pof_dov_timewornbusts_timewornbust" GUID="rP0Gh3LR8kCYPPcbrcd52Q==" />
+		<POI MapID="1248" xpos="1323.55" ypos="59.5358" zpos="-629.541" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_timewornbusts.tw_pof_dov_timewornbusts_timewornbust" GUID="QRivpM42OE2/bSOE9TqHvQ==" />
+		<POI MapID="1248" xpos="1274.05" ypos="57.1185" zpos="-635.417" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_timewornbusts.tw_pof_dov_timewornbusts_timewornbust" GUID="V1nhmhRPPEmrHYWbJ4xdsA==" />
+		<POI MapID="1248" xpos="1274.15" ypos="192.237" zpos="-488.241" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_timewornbusts.tw_pof_dov_timewornbusts_timewornbust" GUID="moUWAKripUCtE8LQ5JJa/g==" />
+		<POI MapID="1248" xpos="1437.58" ypos="109.852" zpos="-741.323" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_timewornbusts.tw_pof_dov_timewornbusts_timewornbust" GUID="w48sMXAGU0WJ5x+NPwgrRw==" />
+		<POI MapID="1248" xpos="1421.3" ypos="151.664" zpos="243.466" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_timewornbusts.tw_pof_dov_timewornbusts_timewornbust" GUID="Zg++M07Zc06g1RMXVVmL1Q==" />
+		<POI MapID="1248" xpos="-1144.71" ypos="128.116" zpos="371.111" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_sandportals.tw_pof_dov_sandportals_sandportal" GUID="Y25R59Ocyk+0mO3ESTVrDQ==" />
+		<POI MapID="1248" xpos="-1151.73" ypos="49.5278" zpos="365.04" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_sandportals.tw_pof_dov_sandportals_sandportal" GUID="RKO+FaJrz06YW0hiHciNTQ==" />
+		<POI MapID="1248" xpos="-748.5" ypos="115.584" zpos="26.8384" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_sandportals.tw_pof_dov_sandportals_sandportal" GUID="NJH2bJbgZUqCAKrfBgdBdw==" />
+		<POI MapID="1248" xpos="-637.577" ypos="149.21" zpos="19.4284" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_sandportals.tw_pof_dov_sandportals_sandportal" GUID="TrmDlTjqOUC9SlVNSai5QA==" />
+		<POI MapID="1248" xpos="-371.522" ypos="160.789" zpos="-47.24" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_sandportals.tw_pof_dov_sandportals_sandportal" GUID="E7kjvTtlnUOsU5igPU8NOA==" />
+		<POI MapID="1248" xpos="-280.406" ypos="133.191" zpos="-118.576" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_sandportals.tw_pof_dov_sandportals_sandportal" GUID="9fhdtrGIhkKVavT1Pv8zDQ==" />
+		<POI MapID="1248" xpos="81.5968" ypos="1.16006" zpos="-588.102" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_sandportals.tw_pof_dov_sandportals_sandportal" GUID="JeZl6NDqa0+wfT226swtvg==" />
+		<POI MapID="1248" xpos="53.9331" ypos="166.781" zpos="-533.682" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_sandportals.tw_pof_dov_sandportals_sandportal" GUID="HUdDH+Z5W0CEGkZpqg25WA==" />
+		<POI MapID="1248" xpos="-1458.61" ypos="316.049" zpos="-674.154" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_sandportals.tw_pof_dov_sandportals_sandportal" GUID="06VbjuKCaE+jFSV6POqq+A==" />
+		<POI MapID="1248" xpos="-1437.57" ypos="307.498" zpos="-831.357" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_sandportals.tw_pof_dov_sandportals_sandportal" GUID="3aCiu0qoK0m8hkgRXmyRMA==" />
+		<POI MapID="1248" xpos="-1387.53" ypos="304.049" zpos="-886.343" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_sandportals.tw_pof_dov_sandportals_sandportal" GUID="FFU45yZOjkmzPWQJG+d81w==" />
+		<POI MapID="1248" xpos="-1434.81" ypos="300.913" zpos="-887.29" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_sandportals.tw_pof_dov_sandportals_sandportal" GUID="KCjUI7vYAEuI17FyaUCpkg==" />
+		<POI MapID="1248" xpos="-1387.64" ypos="303.304" zpos="-832.489" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_sandportals.tw_pof_dov_sandportals_sandportal" GUID="MiOehFH4V0+hdJyrk2/WoQ==" />
+		<POI MapID="1248" xpos="-432.442" ypos="49.0966" zpos="622.881" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_sandportals.tw_pof_dov_sandportals_sandportal" GUID="3BgC9b5v1EagnzyVArAKbQ==" />
+		<POI MapID="1248" xpos="-414.753" ypos="9.12658" zpos="555.963" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_sandportals.tw_pof_dov_sandportals_sandportal" GUID="8t3aP2kjbUa5KzbP0CQ5OA==" />
+		<POI MapID="1248" xpos="-566.557" ypos="52.7394" zpos="386.928" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_sandportals.tw_pof_dov_sandportals_sandportal" GUID="UMMqnrDYUEG/dRqOw+BGbA==" />
+		<POI MapID="1248" xpos="-528.265" ypos="10.144" zpos="442.86" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_sandportals.tw_pof_dov_sandportals_sandportal" GUID="y7qbrZkww0iriaQaAVCdMQ==" />
+		<POI MapID="1248" xpos="-460.018" ypos="57.6953" zpos="499.293" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_sandportals.tw_pof_dov_sandportals_sandportal" GUID="mvheN7opqUiwqg9nVvYTJQ==" />
+		<POI MapID="1248" xpos="-709.926" ypos="119.665" zpos="499.349" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_sandportals.tw_pof_dov_sandportals_sandportal" GUID="rCZGxqDXjU2O7CzNw6QUYQ==" />
+		<POI MapID="1248" xpos="-766.294" ypos="81.9161" zpos="500.404" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_sandportals.tw_pof_dov_sandportals_sandportal" GUID="G7+WRtd8/EumU8v7xi8Zpg==" />
+		<POI MapID="1248" xpos="-804.785" ypos="88.036" zpos="515.816" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_sandportals.tw_pof_dov_sandportals_sandportal" GUID="6b4OX5acnEmuVy5f7nldgQ==" />
+		<POI MapID="1248" xpos="-266.209" ypos="65.8226" zpos="598.264" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_sandportals.tw_pof_dov_sandportals_sandportal" GUID="kwgqKVtsGkuDMGDu++w0kg==" />
+		<POI MapID="1248" xpos="-191.039" ypos="7.13744" zpos="573.987" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_sandportals.tw_pof_dov_sandportals_sandportal" GUID="VaZaefvM90q+8bnnIgD3fQ==" />
+		<POI MapID="1248" xpos="-266.066" ypos="65.7845" zpos="404.577" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_sandportals.tw_pof_dov_sandportals_sandportal" GUID="8v4NcOf9a0Sg8XSXUtC3DA==" />
+		<POI MapID="1248" xpos="-191.472" ypos="8.51222" zpos="427.204" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_sandportals.tw_pof_dov_sandportals_sandportal" GUID="SZxPM+iFl0qHoATrA8VH/w==" />
+		<POI MapID="1248" xpos="26.9932" ypos="10.0569" zpos="388.373" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_sandportals.tw_pof_dov_sandportals_sandportal" GUID="JB/ZJZvIc0mU7OmNTyZyDQ==" />
+		<POI MapID="1248" xpos="45.473" ypos="135.371" zpos="340.156" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_sandportals.tw_pof_dov_sandportals_sandportal" GUID="yP7oaDf6ZEe2HL8a/dUCXQ==" />
+		<POI MapID="1248" xpos="26.117" ypos="9.60478" zpos="610.913" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_sandportals.tw_pof_dov_sandportals_sandportal" GUID="hGEAgtaCfUeMCba3pyqz8Q==" />
+		<POI MapID="1248" xpos="39.0631" ypos="136.441" zpos="660.611" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_sandportals.tw_pof_dov_sandportals_sandportal" GUID="/DA2LtGCGUaFOZ2RDApBGw==" />
+		<POI MapID="1248" xpos="1353.49" ypos="78.1297" zpos="-94.1171" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_sandportals.tw_pof_dov_sandportals_sandportal" GUID="wv2XZAcckU+zXrpargFYBA==" />
+		<POI MapID="1248" xpos="1312.09" ypos="124.723" zpos="-69.6935" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_sandportals.tw_pof_dov_sandportals_sandportal" GUID="SWJDuckJs0mnwN6PFOM30w==" />
+		<POI MapID="1248" xpos="1300.18" ypos="124.721" zpos="-58.5036" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_sandportals.tw_pof_dov_sandportals_sandportal" GUID="hEjIz8NeGku65YuLD71/Qg==" />
+		<POI MapID="1248" xpos="1246.39" ypos="112.819" zpos="-99.3892" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_sandportals.tw_pof_dov_sandportals_sandportal" GUID="wL+mKrLNekmTZyHWsNXqyA==" />
+		<POI MapID="1248" xpos="1234.06" ypos="112.848" zpos="-88.3845" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_sandportals.tw_pof_dov_sandportals_sandportal" GUID="cyf6iDa7A0OD7F5jeDaFPQ==" />
+		<POI MapID="1248" xpos="1301.26" ypos="124.735" zpos="-81.1148" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_sandportals.tw_pof_dov_sandportals_sandportal" GUID="I50NxsrYnU6SxUxDWGO20A==" />
+		<POI MapID="1248" xpos="1289.61" ypos="124.714" zpos="-70.0306" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_sandportals.tw_pof_dov_sandportals_sandportal" GUID="LApOWALEQ0u33UsMg1a4ZQ==" />
+		<POI MapID="1248" xpos="1235.83" ypos="112.836" zpos="-110.834" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_sandportals.tw_pof_dov_sandportals_sandportal" GUID="Hw/39BLnHUqZ7yISMjtl/A==" />
+		<POI MapID="1248" xpos="1402.3" ypos="123.018" zpos="-101.18" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_sandportals.tw_pof_dov_sandportals_sandportal" GUID="TTKqd55jv0irgyEdCDwGgw==" />
+		<POI MapID="1248" xpos="1390.4" ypos="123.013" zpos="-90.0513" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_sandportals.tw_pof_dov_sandportals_sandportal" GUID="4Q5bgaqPsUSSajvfo9ntpg==" />
+		<POI MapID="1248" xpos="1223.74" ypos="112.808" zpos="-99.9407" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_sandportals.tw_pof_dov_sandportals_sandportal" GUID="KyfyL1fi7EK+ahrdkX0oEw==" />
+		<POI MapID="1248" xpos="1391.59" ypos="123.006" zpos="-112.532" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_sandportals.tw_pof_dov_sandportals_sandportal" GUID="tW6XZLB//0+DcFijXSBrJA==" />
+		<POI MapID="1248" xpos="1382.54" ypos="78.26" zpos="-137.705" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_sandportals.tw_pof_dov_sandportals_sandportal" GUID="1L1+MEO/0EuAveDHGWmMqQ==" />
+		<POI MapID="1248" xpos="1392.79" ypos="124.721" zpos="-190.923" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_sandportals.tw_pof_dov_sandportals_sandportal" GUID="EeQOFZtQWkacDmNoEqtwHA==" />
+		<POI MapID="1248" xpos="1380.76" ypos="124.722" zpos="-179.664" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_sandportals.tw_pof_dov_sandportals_sandportal" GUID="6Uxbb0+pAU2W3oyEvan63Q==" />
+		<POI MapID="1248" xpos="1341.1" ypos="112.807" zpos="-248.04" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_sandportals.tw_pof_dov_sandportals_sandportal" GUID="oAPO0eqm8EiD0aZxnhyoLw==" />
+		<POI MapID="1248" xpos="1329.39" ypos="112.803" zpos="-237.023" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_sandportals.tw_pof_dov_sandportals_sandportal" GUID="2yIWeE/s8kG8IdXHXTpp2A==" />
+		<POI MapID="1248" xpos="1370.19" ypos="124.72" zpos="-191.402" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_sandportals.tw_pof_dov_sandportals_sandportal" GUID="tv4ngwgVs0qzHmnLdSJKZg==" />
+		<POI MapID="1248" xpos="1382.04" ypos="124.706" zpos="-202.303" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_sandportals.tw_pof_dov_sandportals_sandportal" GUID="uCiEzCByz0WFUFlxhEFPvQ==" />
+		<POI MapID="1248" xpos="1330.5" ypos="112.795" zpos="-259.414" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_sandportals.tw_pof_dov_sandportals_sandportal" GUID="aqLc2bx6o02dSFDS36xjlQ==" />
+		<POI MapID="1248" xpos="1379.75" ypos="123.011" zpos="-101.556" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_sandportals.tw_pof_dov_sandportals_sandportal" GUID="utJ/RyJo40C5NUYz7GdAwg==" />
+		<POI MapID="1248" xpos="1355.57" ypos="124.236" zpos="-119.866" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_sandportals.tw_pof_dov_sandportals_sandportal" GUID="IPAQdKglRUKDtpmAizhbNQ==" />
+		<POI MapID="1248" xpos="1318.61" ypos="112.82" zpos="-248.596" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_sandportals.tw_pof_dov_sandportals_sandportal" GUID="pZygD/6zfE2lewQi1lRMtw==" />
+		<POI MapID="1248" xpos="1281.91" ypos="77.977" zpos="-172.708" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_sandportals.tw_pof_dov_sandportals_sandportal" GUID="lHl9CF9+QUWlGhX0KYwNZQ==" />
+		<POI MapID="1248" xpos="1269.07" ypos="19.6583" zpos="-181.995" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_sandportals.tw_pof_dov_sandportals_sandportal" GUID="voTAFh/SK0uEGzP2kzYjCg==" />
+		<POI MapID="1248" xpos="1117.11" ypos="42.3028" zpos="-601.683" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_sandportals.tw_pof_dov_sandportals_sandportal" GUID="bNliWHK/1E+VYuWE/88pFg==" />
+		<POI MapID="1248" xpos="1201.85" ypos="54.792" zpos="-573.426" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_sandportals.tw_pof_dov_sandportals_sandportal" GUID="6kYeZSXZDkGtLklwZptNkA==" />
+		<POI MapID="1248" xpos="1241.51" ypos="5.46045" zpos="-668.328" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_sandportals.tw_pof_dov_sandportals_sandportal" GUID="f7h+NVx4REC60ykfz68GyQ==" />
+		<POI MapID="1248" xpos="1266.81" ypos="60.5444" zpos="-779.05" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_sandportals.tw_pof_dov_sandportals_sandportal" GUID="eu/sMuPdCUSIEOVTDRrn8A==" />
+		<POI MapID="1248" xpos="1279.1" ypos="55.7524" zpos="-572.867" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_sandportals.tw_pof_dov_sandportals_sandportal" GUID="G9461bTzhU+2gv4OvGjSAQ==" />
+		<POI MapID="1248" xpos="1268.02" ypos="65.8102" zpos="-634.204" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_sandportals.tw_pof_dov_sandportals_sandportal" GUID="HLNfJZGXh06W4GBBCwPxkg==" />
+		<POI MapID="1248" xpos="1411.64" ypos="107.603" zpos="-709.796" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_sandportals.tw_pof_dov_sandportals_sandportal" GUID="FeDkFeixRUys6ypMTrYxsQ==" />
+		<POI MapID="1248" xpos="1453.06" ypos="141.599" zpos="-766.906" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_sandportals.tw_pof_dov_sandportals_sandportal" GUID="9CeZJ6LMWUWKuz+Hrh6cZw==" />
+		<POI MapID="1248" xpos="1315.76" ypos="94.3341" zpos="-780.207" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_sandportals.tw_pof_dov_sandportals_sandportal" GUID="0irmvnd4/EWgp1zTU9jIeg==" />
+		<POI MapID="1248" xpos="1321.75" ypos="91.3061" zpos="-634.863" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_sandportals.tw_pof_dov_sandportals_sandportal" GUID="c+rXmPSFnEOy7ED8rLhTyA==" />
+		<POI MapID="1248" xpos="-1380.73" ypos="70.8989" zpos="771.57" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_timewornbusts.tw_pof_dov_timewornbusts_signs.tw_pof_dov_timewornbusts_startsignp1" GUID="+Wk3/2oJukqbae2jI7g0Gw==" />
+		<POI MapID="1248" xpos="-1413.54" ypos="86.4803" zpos="616.453" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_timewornbusts.tw_pof_dov_timewornbusts_signs.tw_pof_dov_timewornbusts_teleport2" GUID="wS9JrIfqYESlu6LwqAM9xg==" />
+		<POI MapID="1248" xpos="-321.044" ypos="107.77" zpos="332" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_timewornbusts.tw_pof_dov_timewornbusts_signs.tw_pof_dov_timewornbusts_startsignp2" GUID="1tpLtQLeVEOl65pLjErXFw==" />
+		<POI MapID="1248" xpos="169.256" ypos="176.885" zpos="910.855" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_timewornbusts.tw_pof_dov_timewornbusts_signs.tw_pof_dov_timewornbusts_teleport3" GUID="cH4BBww560mdF/OS5zWbgw==" />
+		<POI MapID="1248" xpos="-575.138" ypos="115.129" zpos="-435.544" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_timewornbusts.tw_pof_dov_timewornbusts_signs.tw_pof_dov_timewornbusts_startsignp3" GUID="uw0G+PlrkkOcO7W4XAEsRg==" />
+		<POI MapID="1248" xpos="-305.566" ypos="211.451" zpos="-501.295" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_timewornbusts.tw_pof_dov_timewornbusts_signs.tw_pof_dov_timewornbusts_teleport3" GUID="ddSdv5FHREehVoURjE0KTg==" />
+		<POI MapID="1248" xpos="-576.082" ypos="116.44" zpos="-423.916" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_timewornbusts.tw_pof_dov_timewornbusts_signs.tw_pof_dov_timewornbusts_startsignp4" GUID="xi/fF1NtyEmyH7iNp+afHw==" />
+		<POI MapID="1248" xpos="-1225.09" ypos="135.4" zpos="-260.186" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_timewornbusts.tw_pof_dov_timewornbusts_signs.tw_pof_dov_timewornbusts_teleport4" GUID="bylVKY1/jECb4pnJcDU+yg==" />
+		<POI MapID="1248" xpos="808.221" ypos="142.294" zpos="47.0966" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_timewornbusts.tw_pof_dov_timewornbusts_signs.tw_pof_dov_timewornbusts_startsignp5" GUID="6VhQliiTkEisV4y8gcD4ug==" />
+		<POI MapID="1248" xpos="82.6857" ypos="120.129" zpos="-915.275" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_timewornbusts.tw_pof_dov_timewornbusts_signs.tw_pof_dov_timewornbusts_teleport4" GUID="LiX2BlXOAk27TVnEjGvHig==" />
+		<POI MapID="1248" xpos="804.224" ypos="142.294" zpos="47.6802" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_timewornbusts.tw_pof_dov_timewornbusts_signs.tw_pof_dov_timewornbusts_startsignp6" GUID="TxB8zEBYrky5q89sdoviOA==" />
+		<POI MapID="1248" xpos="801.017" ypos="142.294" zpos="48.6242" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_timewornbusts.tw_pof_dov_timewornbusts_signs.tw_pof_dov_timewornbusts_startsignp7" GUID="byi2+6NmpUqxwxLE/TUD2g==" />
+		<POI MapID="1248" xpos="947.811" ypos="5.9138" zpos="928.425" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_timewornbusts.tw_pof_dov_timewornbusts_signs.tw_pof_dov_timewornbusts_teleport4" GUID="xj2u7rd/X0KAjMLOacmwig==" />
+		<POI MapID="1248" xpos="514.732" ypos="68.9482" zpos="69.1465" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_timewornbusts.tw_pof_dov_timewornbusts_signs.tw_pof_dov_timewornbusts_teleport5" GUID="H7Os+gvZ6kOO6P0jWywp/g==" />
+		<POI MapID="1248" xpos="1417.39" ypos="153.759" zpos="-667.824" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_timewornbusts.tw_pof_dov_timewornbusts_signs.tw_pof_dov_timewornbusts_startsignp8" GUID="LFPeX4NLnEOsaQZRfASuPw==" />
+		<POI MapID="1248" xpos="1422.85" ypos="149.961" zpos="-485.728" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_timewornbusts.tw_pof_dov_timewornbusts_signs.tw_pof_dov_timewornbusts_finish" GUID="quUU184un0ST37GFtTyRtQ==" />
+		<POI MapID="1248" xpos="-1122.32" ypos="140.998" zpos="388.732" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_adv_vehjinnoblenecessitiesrun.tw_pof_dov_adv_vehjinnoblenecessitiesrun_signs.tw_pof_dov_adv_vehjinnoblenecessitiesrun_startsign" GUID="5d+qGmRq7k+0u41tFxd3+A==" />
+		<POI MapID="1248" xpos="-1115.96" ypos="140.998" zpos="384.738" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_adv_vehjinnoblenecessitiesrun.tw_pof_dov_adv_vehjinnoblenecessitiesrun_signs.tw_pof_dov_adv_vehjinnoblenecessitiesrun_finishsign" GUID="MzZNDznFjEWh9bYMeQezMQ==" />
+		<POI MapID="1248" xpos="-790.684" ypos="165.996" zpos="-473.849" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_adv_necropolisembalmingsupplyrun.tw_pof_dov_adv_necropolisembalmingsupplyrun_signs.tw_pof_dov_adv_necropolisembalmingsupplyrun_startsign" GUID="suholL2IH0K87EtjWkKHwA==" />
+		<POI MapID="1248" xpos="-789.532" ypos="166" zpos="-479.246" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_adv_necropolisembalmingsupplyrun.tw_pof_dov_adv_necropolisembalmingsupplyrun_signs.tw_pof_dov_adv_necropolisembalmingsupplyrun_finishsign" GUID="r7H4nhoNa0mQHpnLKnwkgA==" />
+		<POI MapID="1248" xpos="-530.872" ypos="49.0612" zpos="492.717" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_adv_gardenwineandcheeserun.tw_pof_dov_adv_gardenwineandcheeserun_signs.tw_pof_dov_adv_gardenwineandcheeserun_startsign" GUID="FpxsnKGurU2lp8T2/wkvLg==" />
+		<POI MapID="1248" xpos="-528.464" ypos="49.0612" zpos="495.511" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_adv_gardenwineandcheeserun.tw_pof_dov_adv_gardenwineandcheeserun_signs.tw_pof_dov_adv_gardenwineandcheeserun_finishsign" GUID="YYZ8TxVH5ke7+xIHbuz8yQ==" />
+		<POI MapID="1248" xpos="216.894" ypos="62.2834" zpos="-620.921" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_adv_vehtendischoolsupplyrun.tw_pof_dov_adv_vehtendischoolsupplyrun_signs.tw_pof_dov_adv_vehtendischoolsupplyrun_startsign" GUID="40Fw81D8lUiwcAaGnBtbwA==" />
+		<POI MapID="1248" xpos="209.114" ypos="61.0522" zpos="-623.139" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_adv_vehtendischoolsupplyrun.tw_pof_dov_adv_vehtendischoolsupplyrun_signs.tw_pof_dov_adv_vehtendischoolsupplyrun_finishsign" GUID="N0n0N+i59kmG111Ud1W2lQ==" />
+		<POI MapID="1248" xpos="287.931" ypos="75.1273" zpos="-519.844" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_adv_vehtendischoolsupplyrun.tw_pof_dov_adv_vehtendischoolsupplyrun_jumponspot" GUID="zQq6zqA230iDgJy5fXtxYg==" />
+		<POI MapID="1248" xpos="289.27" ypos="92.0248" zpos="-517.038" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_adv_vehtendischoolsupplyrun.tw_pof_dov_adv_vehtendischoolsupplyrun_jumponspot" GUID="WZlgIPek3k6BO1GGoW4sQA==" />
+		<POI MapID="1248" xpos="290.34" ypos="113.955" zpos="-515.466" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_adv_vehtendischoolsupplyrun.tw_pof_dov_adv_vehtendischoolsupplyrun_jumponspot" GUID="Ab+bkRZUkkS4kuKqKbrIVw==" />
+		<POI MapID="1248" xpos="295.845" ypos="123.59" zpos="-488.358" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_adv_vehtendischoolsupplyrun.tw_pof_dov_adv_vehtendischoolsupplyrun_jumponspot" GUID="THw9av44UEWkstzhCCvsLQ==" />
+		<POI MapID="1248" xpos="300.868" ypos="127.486" zpos="-486.572" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_adv_vehtendischoolsupplyrun.tw_pof_dov_adv_vehtendischoolsupplyrun_jumponspot" GUID="iggHb1xRjUCb5P7QyEEpTQ==" />
+		<POI MapID="1248" xpos="312.526" ypos="133.399" zpos="-483.287" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_adv_vehtendischoolsupplyrun.tw_pof_dov_adv_vehtendischoolsupplyrun_jumponspot" GUID="NxEsfWNfgUObr+D7dfHQ4Q==" />
+		<POI MapID="1248" xpos="328.971" ypos="140.165" zpos="-465.064" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_adv_vehtendischoolsupplyrun.tw_pof_dov_adv_vehtendischoolsupplyrun_jumponspot" GUID="v9mlcly4fUSqD/etwx/qkw==" />
+		<POI MapID="1248" xpos="335.586" ypos="149.436" zpos="-457.312" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_adv_vehtendischoolsupplyrun.tw_pof_dov_adv_vehtendischoolsupplyrun_jumponspot" GUID="DZDUdas+N0iShpNnXyeTNQ==" />
+		<POI MapID="1248" xpos="338.817" ypos="161.709" zpos="-448.091" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_adv_vehtendischoolsupplyrun.tw_pof_dov_adv_vehtendischoolsupplyrun_jumponspot" GUID="TIJJnRbbLUSSTGGqqUCfTg==" />
+		<POI MapID="1248" xpos="350.065" ypos="161.243" zpos="-425.927" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_adv_vehtendischoolsupplyrun.tw_pof_dov_adv_vehtendischoolsupplyrun_jumponspot" GUID="1KuNKt0+zkihuVKKrrMNnQ==" />
+		<POI MapID="1248" xpos="351.674" ypos="167.389" zpos="-418.133" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_adv_vehtendischoolsupplyrun.tw_pof_dov_adv_vehtendischoolsupplyrun_jumponspot" GUID="O74ejy1X6kyV/BSqno2lNA==" />
+		<POI MapID="1248" xpos="354.567" ypos="169.364" zpos="-413.06" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_adv_vehtendischoolsupplyrun.tw_pof_dov_adv_vehtendischoolsupplyrun_jumponspot" GUID="qiLZgS1boE6/vJJjg6w/2w==" />
+		<POI MapID="1248" xpos="356.562" ypos="171.358" zpos="-411.237" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_adv_vehtendischoolsupplyrun.tw_pof_dov_adv_vehtendischoolsupplyrun_jumponspot" GUID="B66nMeZJ4UaDk577N0ZFMA==" />
+		<POI MapID="1248" xpos="380.349" ypos="177.155" zpos="-408.427" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_adv_vehtendischoolsupplyrun.tw_pof_dov_adv_vehtendischoolsupplyrun_jumponspot" GUID="A9ihbIjbN0aNM8rlc0gz6g==" />
+		<POI MapID="1248" xpos="462.672" ypos="169.06" zpos="-412.395" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_adv_vehtendischoolsupplyrun.tw_pof_dov_adv_vehtendischoolsupplyrun_jumponspot" GUID="JgR9zz/CMUGkdlMBtHHZSQ==" />
+		<POI MapID="1248" xpos="471.921" ypos="158.511" zpos="-413.079" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_adv_vehtendischoolsupplyrun.tw_pof_dov_adv_vehtendischoolsupplyrun_jumponspot" GUID="lZWvlR86MUqB/QZchjfPEw==" />
+		<POI MapID="1248" xpos="483.18" ypos="159.472" zpos="-414.426" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_adv_vehtendischoolsupplyrun.tw_pof_dov_adv_vehtendischoolsupplyrun_jumponspot" GUID="LE3Vr3lfTECQ7Tm5fL2/sg==" />
+		<POI MapID="1248" xpos="488.429" ypos="157.7" zpos="-416.785" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_adv_vehtendischoolsupplyrun.tw_pof_dov_adv_vehtendischoolsupplyrun_jumponspot" GUID="aV3GJtcyCUuTFY7i1X48lA==" />
+		<POI MapID="1248" xpos="493.825" ypos="160.773" zpos="-419.843" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_adv_vehtendischoolsupplyrun.tw_pof_dov_adv_vehtendischoolsupplyrun_jumponspot" GUID="Z4l29VkDqkepDUha0HvEtQ==" />
+		<POI MapID="1248" xpos="458.388" ypos="176.231" zpos="-421.426" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_adv_vehtendischoolsupplyrun.tw_pof_dov_adv_vehtendischoolsupplyrun_jumponspot" GUID="Rcs30Xu9zEejdLdIlMnySg==" />
+		<POI MapID="1248" xpos="447.365" ypos="182.971" zpos="-420.903" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_adv_vehtendischoolsupplyrun.tw_pof_dov_adv_vehtendischoolsupplyrun_jumponspot" GUID="wn+SuaWEIEedW1ttib5lWA==" />
+		<POI MapID="1248" xpos="454.461" ypos="185.557" zpos="-421.707" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_adv_vehtendischoolsupplyrun.tw_pof_dov_adv_vehtendischoolsupplyrun_jumponspot" GUID="adh8Zl4wr06HJzgUOi9MRQ==" />
+		<POI MapID="1248" xpos="-528.549" ypos="49.0612" zpos="490.119" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_adv_gardenwineandcheeserun.tw_pof_dov_adv_gardenwineandcheeserun_jumponspot" GUID="3E0utpFtdEiuicDj7d278w==" />
+		<POI MapID="1248" xpos="-478.481" ypos="39.6082" zpos="432.774" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_adv_gardenwineandcheeserun.tw_pof_dov_adv_gardenwineandcheeserun_jumponspot" GUID="bCL97lGvv0my0IazY5KYrQ==" />
+		<POI MapID="1248" xpos="-421.14" ypos="47.8175" zpos="393.177" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_adv_gardenwineandcheeserun.tw_pof_dov_adv_gardenwineandcheeserun_jumponspot" GUID="HqpC/b4Gi06nHkV+bSk9aA==" />
+		<POI MapID="1248" xpos="-416.273" ypos="65.5288" zpos="386.12" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_adv_gardenwineandcheeserun.tw_pof_dov_adv_gardenwineandcheeserun_jumponspot" GUID="IOBFk417LUOYAS8vDwlojA==" />
+		<POI MapID="1248" xpos="-346.124" ypos="93.3549" zpos="334.241" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_adv_gardenwineandcheeserun.tw_pof_dov_adv_gardenwineandcheeserun_jumponspot" GUID="3SGTY5+CDkWm6xB7BsSghA==" />
+		<POI MapID="1248" xpos="-341.609" ypos="100.19" zpos="337.247" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_adv_gardenwineandcheeserun.tw_pof_dov_adv_gardenwineandcheeserun_jumponspot" GUID="bQaS6w6Es02jgUwkFmOsPA==" />
+		<POI MapID="1248" xpos="-280.436" ypos="108.859" zpos="329.391" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_adv_gardenwineandcheeserun.tw_pof_dov_adv_gardenwineandcheeserun_jumponspot" GUID="jOpZVBiNq0KSakyvO9Z1fA==" />
+		<POI MapID="1248" xpos="9.53241" ypos="134.876" zpos="658.384" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_adv_gardenwineandcheeserun.tw_pof_dov_adv_gardenwineandcheeserun_jumponspot" GUID="qgKE5Jupp0CSd/XEDkwBlA==" />
+		<POI MapID="1248" xpos="-32.0479" ypos="135.148" zpos="658.033" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_adv_gardenwineandcheeserun.tw_pof_dov_adv_gardenwineandcheeserun_jumponspot" GUID="tCAWLkRit0e4fkc5Z2iiSQ==" />
+		<POI MapID="1248" xpos="-527.566" ypos="49.0612" zpos="495.498" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_adv_gardenwineandcheeserun.tw_pof_dov_adv_gardenwineandcheeserun_jumponspot" GUID="mb6ZjUguakqHBetB2EE0WQ==" />
+		<POI MapID="1248" xpos="-925.421" ypos="179.038" zpos="-427.188" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_adv_necropolisembalmingsupplyrun.tw_pof_dov_adv_necropolisembalmingsupplyrun_jumponspot" GUID="wKaIilYw/E2EvEEzy4b/5w==" />
+		<POI MapID="1248" xpos="-945.087" ypos="188.526" zpos="-438.371" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_adv_necropolisembalmingsupplyrun.tw_pof_dov_adv_necropolisembalmingsupplyrun_jumponspot" GUID="wesFsZP9006gTZtThlSI3w==" />
+		<POI MapID="1248" xpos="-947.859" ypos="195.73" zpos="-430.596" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_adv_necropolisembalmingsupplyrun.tw_pof_dov_adv_necropolisembalmingsupplyrun_jumponspot" GUID="UmHnl979bEW3VaRiBl0JeQ==" />
+		<POI MapID="1248" xpos="-955.953" ypos="209.912" zpos="-420.3" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_adv_necropolisembalmingsupplyrun.tw_pof_dov_adv_necropolisembalmingsupplyrun_jumponspot" GUID="+5s1v6pjPEC0sFbIQbBR8g==" />
+		<POI MapID="1248" xpos="-964.844" ypos="217.838" zpos="-415.66" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_adv_necropolisembalmingsupplyrun.tw_pof_dov_adv_necropolisembalmingsupplyrun_jumponspot" GUID="Cya9+b6bPkWGkUBA0abOGA==" />
+		<POI MapID="1248" xpos="-968.534" ypos="221.781" zpos="-411.827" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_adv_necropolisembalmingsupplyrun.tw_pof_dov_adv_necropolisembalmingsupplyrun_jumponspot" GUID="g1UfePAqm0GJQigMqWjivw==" />
+		<POI MapID="1248" xpos="-975.269" ypos="222.569" zpos="-406.257" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_adv_necropolisembalmingsupplyrun.tw_pof_dov_adv_necropolisembalmingsupplyrun_jumponspot" GUID="qz5Pz243SEWguxZBQEn1ew==" />
+		<POI MapID="1248" xpos="-981.523" ypos="226.482" zpos="-401.703" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_adv_necropolisembalmingsupplyrun.tw_pof_dov_adv_necropolisembalmingsupplyrun_jumponspot" GUID="PH9lv1APcEakhqOg4FZWeg==" />
+		<POI MapID="1248" xpos="-1023.53" ypos="225.743" zpos="-372.014" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_adv_necropolisembalmingsupplyrun.tw_pof_dov_adv_necropolisembalmingsupplyrun_jumponspot" GUID="zeTnLqD48kKSJkl2znO2yQ==" />
+		<POI MapID="1248" xpos="-1030.85" ypos="218.637" zpos="-368.596" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_adv_necropolisembalmingsupplyrun.tw_pof_dov_adv_necropolisembalmingsupplyrun_jumponspot" GUID="MapIihC/KEqV+oFcfvVCrg==" />
+		<POI MapID="1248" xpos="-1044.35" ypos="220.031" zpos="-344.809" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_adv_necropolisembalmingsupplyrun.tw_pof_dov_adv_necropolisembalmingsupplyrun_jumponspot" GUID="+vf+FezD0k2CCWvqpIbUSw==" />
+		<POI MapID="1248" xpos="-1042.62" ypos="228.052" zpos="-336.039" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_adv_necropolisembalmingsupplyrun.tw_pof_dov_adv_necropolisembalmingsupplyrun_jumponspot" GUID="dswEta81D0iJDyKysp7CKQ==" />
+		<POI MapID="1248" xpos="-1038.36" ypos="234.322" zpos="-328.351" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_adv_necropolisembalmingsupplyrun.tw_pof_dov_adv_necropolisembalmingsupplyrun_jumponspot" GUID="qp2cU09LNES2pRxQt9Y1Eg==" />
+		<POI MapID="1248" xpos="-1021.2" ypos="232.876" zpos="-317.667" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_adv_necropolisembalmingsupplyrun.tw_pof_dov_adv_necropolisembalmingsupplyrun_jumponspot" GUID="0NNY1v9e1EOwQRVX4pzJ3g==" />
+		<POI MapID="1248" xpos="-1003.93" ypos="236.132" zpos="-311.165" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_adv_necropolisembalmingsupplyrun.tw_pof_dov_adv_necropolisembalmingsupplyrun_jumponspot" GUID="uF9wXvnSdE+5wrbHcdPZBg==" />
+		<POI MapID="1248" xpos="-997.366" ypos="241.202" zpos="-309.091" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_adv_necropolisembalmingsupplyrun.tw_pof_dov_adv_necropolisembalmingsupplyrun_jumponspot" GUID="TDWOtKea70ele3XXzBdDDg==" />
+		<POI MapID="1248" xpos="-982.943" ypos="246.823" zpos="-302.915" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_adv_necropolisembalmingsupplyrun.tw_pof_dov_adv_necropolisembalmingsupplyrun_jumponspot" GUID="/cZzhT+GBUSbNWTIh/61eA==" />
+		<POI MapID="1248" xpos="-960.17" ypos="257.022" zpos="-289.059" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_adv_necropolisembalmingsupplyrun.tw_pof_dov_adv_necropolisembalmingsupplyrun_jumponspot" GUID="SmPybWJhXU6v+jJmDAGnzg==" />
+		<POI MapID="1248" xpos="-958.96" ypos="258.684" zpos="-285.216" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_adv_necropolisembalmingsupplyrun.tw_pof_dov_adv_necropolisembalmingsupplyrun_jumponspot" GUID="O57bd4TDr06dKCjFAv98Tw==" />
+		<POI MapID="1248" xpos="-1128.76" ypos="237.697" zpos="-517.14" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_adv_necropolisembalmingsupplyrun.tw_pof_dov_adv_necropolisembalmingsupplyrun_jumponspot" GUID="MMctoyiAnEGVSnLRAxVrlw==" />
+		<POI MapID="1248" xpos="-1110.48" ypos="232.026" zpos="-560.498" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_adv_necropolisembalmingsupplyrun.tw_pof_dov_adv_necropolisembalmingsupplyrun_jumponspot" GUID="nlTf1plEMkavGDWDJnAEAw==" />
+		<POI MapID="1248" xpos="-1098.92" ypos="245.875" zpos="-579.258" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_adv_necropolisembalmingsupplyrun.tw_pof_dov_adv_necropolisembalmingsupplyrun_jumponspot" GUID="ECLN/1hDUUKcpilEma5Mcw==" />
+		<POI MapID="1248" xpos="-1078.48" ypos="260.005" zpos="-668.242" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_adv_necropolisembalmingsupplyrun.tw_pof_dov_adv_necropolisembalmingsupplyrun_jumponspot" GUID="mXSDhrIivkiuQpHVhE2BXg==" />
+		<POI MapID="1248" xpos="-1069.98" ypos="271.219" zpos="-677.448" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_adv_necropolisembalmingsupplyrun.tw_pof_dov_adv_necropolisembalmingsupplyrun_jumponspot" GUID="+FRjAnqruECB2LEejbK+qQ==" />
+		<POI MapID="1248" xpos="-1063.85" ypos="270.866" zpos="-682.576" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_adv_necropolisembalmingsupplyrun.tw_pof_dov_adv_necropolisembalmingsupplyrun_jumponspot" GUID="wGh//Q0Qkkejr56P0zIpUA==" />
+		<POI MapID="1248" xpos="-789.002" ypos="277.573" zpos="-805.586" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_adv_necropolisembalmingsupplyrun.tw_pof_dov_adv_necropolisembalmingsupplyrun_jumponspot" GUID="gvmWI65sh0y9qkVJ6xq6yg==" />
+		<POI MapID="1248" xpos="-777.141" ypos="280.799" zpos="-802.232" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_adv_necropolisembalmingsupplyrun.tw_pof_dov_adv_necropolisembalmingsupplyrun_jumponspot" GUID="b9QdZT6DI0+gH2bkr3An5A==" />
+		<POI MapID="1248" xpos="-1130.24" ypos="151.071" zpos="344.924" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_adv_vehjinnoblenecessitiesrun.tw_pof_dov_adv_vehjinnoblenecessitiesrun_jumponspot" GUID="Ws81JfcpL0mo5w+9QmW2fg==" />
+		<POI MapID="1248" xpos="-1128.97" ypos="153.743" zpos="341.417" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_adv_vehjinnoblenecessitiesrun.tw_pof_dov_adv_vehjinnoblenecessitiesrun_jumponspot" GUID="lccCLE+sIUWaIBnIephrIQ==" />
+		<POI MapID="1248" xpos="-1128.87" ypos="155.667" zpos="333.77" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_adv_vehjinnoblenecessitiesrun.tw_pof_dov_adv_vehjinnoblenecessitiesrun_jumponspot" GUID="aWgKQthbZEe5/V8O0wz2sw==" />
+		<POI MapID="1248" xpos="-1132.75" ypos="155.635" zpos="321.051" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_adv_vehjinnoblenecessitiesrun.tw_pof_dov_adv_vehjinnoblenecessitiesrun_jumponspot" GUID="vfuGmuPPOEm5vkI+2aCwcg==" />
+		<POI MapID="1248" xpos="-1149.71" ypos="164.793" zpos="301.993" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_adv_vehjinnoblenecessitiesrun.tw_pof_dov_adv_vehjinnoblenecessitiesrun_jumponspot" GUID="zf4RSMHSbUyKEOUfk6L1Ow==" />
+		<POI MapID="1248" xpos="-1167.9" ypos="164.755" zpos="278.934" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_adv_vehjinnoblenecessitiesrun.tw_pof_dov_adv_vehjinnoblenecessitiesrun_jumponspot" GUID="ZobUBKu1j0+VtmPj6+vMqA==" />
+		<POI MapID="1248" xpos="-1340.31" ypos="123.618" zpos="8.12913" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_adv_vehjinnoblenecessitiesrun.tw_pof_dov_adv_vehjinnoblenecessitiesrun_jumponspot" GUID="H5VviwYi60+NmfhytdvZpQ==" />
+		<POI MapID="1248" xpos="-1419.1" ypos="87.5447" zpos="230.633" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_adv_vehjinnoblenecessitiesrun.tw_pof_dov_adv_vehjinnoblenecessitiesrun_jumponspot" GUID="+X6kb/okDE+7HMdBfcqy6Q==" />
+		<POI MapID="1248" xpos="-1422.27" ypos="93.6005" zpos="233.755" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_adv_vehjinnoblenecessitiesrun.tw_pof_dov_adv_vehjinnoblenecessitiesrun_jumponspot" GUID="q6z3rkSng0Ger6ZYovNBMA==" />
+		<POI MapID="1248" xpos="-1425.07" ypos="95.3889" zpos="232.74" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_adv_vehjinnoblenecessitiesrun.tw_pof_dov_adv_vehjinnoblenecessitiesrun_jumponspot" GUID="++i/6Lrv+U2g8dFm+jh0Ig==" />
+		<POI MapID="1248" xpos="-1427.94" ypos="97.5075" zpos="230.383" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_adv_vehjinnoblenecessitiesrun.tw_pof_dov_adv_vehjinnoblenecessitiesrun_jumponspot" GUID="2fBhR9JZUU6Yg4esDPhKFQ==" />
+		<POI MapID="1248" xpos="-1430.97" ypos="98.9742" zpos="228.214" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_adv_vehjinnoblenecessitiesrun.tw_pof_dov_adv_vehjinnoblenecessitiesrun_jumponspot" GUID="dr7Z6UV6nEmmMCq+b2bVEQ==" />
+		<POI MapID="1248" xpos="-1374.76" ypos="148.564" zpos="437.554" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_adv_vehjinnoblenecessitiesrun.tw_pof_dov_adv_vehjinnoblenecessitiesrun_jumponspot" GUID="3bGmHyvnXkCEeCorjsVFaw==" />
+		<POI MapID="1248" xpos="-1385.48" ypos="160.69" zpos="444.314" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_adv_vehjinnoblenecessitiesrun.tw_pof_dov_adv_vehjinnoblenecessitiesrun_jumponspot" GUID="fez2l04I20ydyz0tVJn5ig==" />
+		<POI MapID="1248" xpos="-1417.92" ypos="175.751" zpos="434.478" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_adv_vehjinnoblenecessitiesrun.tw_pof_dov_adv_vehjinnoblenecessitiesrun_jumponspot" GUID="5IGT9Am2BE+a6HajW+9Eow==" />
+		<POI MapID="1248" xpos="-1348.88" ypos="142.646" zpos="550.12" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_adv_vehjinnoblenecessitiesrun.tw_pof_dov_adv_vehjinnoblenecessitiesrun_jumponspot" GUID="m5EqRneAnkSKM491UjE3fA==" />
+		<POI MapID="1248" xpos="-1141.76" ypos="165.829" zpos="282.156" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_praisejoko_statue" GUID="G0Vx9WkMnUedBZdjXt0rLg==" />
+		<POI MapID="1248" xpos="-1213.95" ypos="165.865" zpos="424.625" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_praisejoko_statue" GUID="nMBiJO9ZZEqGha4bYSTwdQ==" />
+		<POI MapID="1248" xpos="-1193.42" ypos="164.423" zpos="319.013" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_praisejoko_statue" GUID="ycReKaxa80ic+CVQOQRooA==" />
+		<POI MapID="1248" xpos="-1161.57" ypos="134.357" zpos="203.042" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_praisejoko_statue" GUID="wNdUm9SpsUC2GxQcKcoC+w==" />
+		<POI MapID="1248" xpos="-1129.96" ypos="131.92" zpos="-152.196" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_praisejoko_statue" GUID="gDem6CTtSkS8HDObcozeRQ==" />
+		<POI MapID="1248" xpos="-1088.61" ypos="131.92" zpos="-193.928" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_praisejoko_statue" GUID="9q0MMWX4P0+Qj5IGPYiPGQ==" />
+		<POI MapID="1248" xpos="-709.445" ypos="110.878" zpos="-460.056" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_praisejoko_statue" GUID="+lIYSGjU2EWP8yuG0va+2Q==" />
+		<POI MapID="1248" xpos="-702.496" ypos="198.212" zpos="-584.019" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_praisejoko_statue" GUID="9yte53S1jEqaTaMEmdgzRg==" />
+		<POI MapID="1248" xpos="-892.669" ypos="186.996" zpos="-625.4" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_praisejoko_statue" GUID="tpr2yqUWqEKsOcEr2HH8tw==" />
+		<POI MapID="1248" xpos="-850.12" ypos="186.985" zpos="-644.314" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_praisejoko_statue" GUID="/XbUuD4uv0KoC9xbFoY1OQ==" />
+		<POI MapID="1248" xpos="-978.64" ypos="128.121" zpos="-739.104" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_praisejoko_statue" GUID="CKexkvjr2UOk6gvnMIEZkQ==" />
+		<POI MapID="1248" xpos="-932.191" ypos="107.641" zpos="-739.208" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_praisejoko_statue" GUID="ecAYP7f22kGsY+hiGyYJzA==" />
+		<POI MapID="1248" xpos="55.721" ypos="167.031" zpos="-534.891" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_praisejoko_statue" GUID="Bmv9MOH5OUiQibz19+Z0hw==" />
+		<POI MapID="1248" xpos="33.2021" ypos="115.934" zpos="-359.145" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_praisejoko_statue" GUID="EszbqeCzKUm7dbuxGENrWg==" />
+		<POI MapID="1248" xpos="-470.333" ypos="43.4093" zpos="379.222" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_praisejoko_statue" GUID="HQmfQGQr8EacubN4gUnlUQ==" />
+		<POI MapID="1248" xpos="-469.242" ypos="43.4089" zpos="629.813" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_praisejoko_statue" GUID="RfgshrQM4EGuVgdYkvehuQ==" />
+		<POI MapID="1248" xpos="-765.105" ypos="113.286" zpos="500.176" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_praisejoko_statue" GUID="hqC679lg3k2CLvwfC5LBcw==" />
+		<POI MapID="1248" xpos="26.1632" ypos="23.4346" zpos="617.456" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_praisejoko_statue" GUID="HYKOw8mTSkie/1s43lH26w==" />
+		<POI MapID="1248" xpos="26.6643" ypos="23.4346" zpos="382.08" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_praisejoko_statue" GUID="cXcWZG7HkUGVZ6oMHkIrbQ==" />
+		<POI MapID="1248" xpos="-133.557" ypos="23.4347" zpos="382.04" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_praisejoko_statue" GUID="FE0qRXcz3kO2wwrUo147Jw==" />
+		<POI MapID="1248" xpos="-133.491" ypos="23.0029" zpos="617.449" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_praisejoko_statue" GUID="exTNRR5pqkiYT2zbaucB9Q==" />
+		<POI MapID="1248" xpos="-49.4297" ypos="113.642" zpos="-83.9046" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_praisejoko_statue" GUID="f94sCLMqxkqZ+MEQrH1FBA==" />
+		<POI MapID="1248" xpos="48.8733" ypos="131.963" zpos="-37.9684" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_praisejoko_statue" GUID="66kivMkudkuPFfI0o7xtxA==" />
+		<POI MapID="1248" xpos="427.685" ypos="228.902" zpos="-12.7045" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_praisejoko_statue" GUID="lo834D3KI0eCEjeTdw4wig==" />
+		<POI MapID="1248" xpos="484.5" ypos="228.855" zpos="-71.0354" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_praisejoko_statue" GUID="JKnX1NJhf0uAqxunbriPYA==" />
+		<POI MapID="1248" xpos="460.471" ypos="183.085" zpos="49.2574" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_praisejoko_statue" GUID="0wg06nSfd0G5B93Xr+RhPQ==" />
+		<POI MapID="1248" xpos="506.401" ypos="183.085" zpos="49.9586" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_praisejoko_statue" GUID="PZmJj8q5CEC0lh57xsxmJQ==" />
+		<POI MapID="1248" xpos="444.142" ypos="290.152" zpos="-42.2877" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_praisejoko_statue" GUID="ZWV861G2hkOC7fcuZ4qLJQ==" />
+		<POI MapID="1248" xpos="443.555" ypos="290.152" zpos="13.2048" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_praisejoko_statue" GUID="faHCfp1EmkqPWrd7Yl+rDg==" />
+		<POI MapID="1248" xpos="466.787" ypos="228.826" zpos="41.7758" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_praisejoko_statue" GUID="qB604wSHQ0uvloIgjq1R3A==" />
+		<POI MapID="1248" xpos="549.042" ypos="221.489" zpos="-60.4996" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_praisejoko_statue" GUID="Sk7g1ZOGFEy/PWuRMCPryw==" />
+		<POI MapID="1248" xpos="594.062" ypos="221.489" zpos="-60.2797" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_praisejoko_statue" GUID="6M7xIZtMhUGUJlvpoQfblg==" />
+		<POI MapID="1248" xpos="210.857" ypos="160.51" zpos="-94.4214" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_praisejoko_statue" GUID="l68vlsnP8EO62XU1Zran5Q==" />
+		<POI MapID="1248" xpos="310.553" ypos="133.567" zpos="-167.158" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_praisejoko_statue" GUID="+R8QB9yZ20yFFzaRWyWxQA==" />
+		<POI MapID="1248" xpos="820.97" ypos="97.9425" zpos="-185.969" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_praisejoko_statue" GUID="Bhuh8Wbw6U+lPT7D2jwUYA==" />
+		<POI MapID="1248" xpos="76.8319" ypos="139.715" zpos="-63.4691" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_praisejoko_statue" GUID="laI05Lgdt0SXrqzLGkU1eg==" />
+		<POI MapID="1248" xpos="668.022" ypos="130.575" zpos="-351.961" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_praisejoko_statue" GUID="lIE94XASq0SEOuYJkeUwrw==" />
+		<POI MapID="1248" xpos="643.744" ypos="130.575" zpos="-350.377" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_praisejoko_statue" GUID="bb5cb5O2hkStE4o/MMfdiw==" />
+		<POI MapID="1248" xpos="-1232.77" ypos="120.401" zpos="346.287" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_lostlore_page" GUID="c9s2xQSpJ0CUboYbYM7dHQ==" />
+		<POI MapID="1248" xpos="1380.06" ypos="102.972" zpos="-595.215" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_lostlore_page" GUID="iy6hj2pPdU+4rXhk48ZROw==" />
+		<POI MapID="1248" xpos="-1457.22" ypos="312.183" zpos="-687.103" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_lostlore_page" GUID="VSeGcVg44EKg5rG+q5BM0w==" />
+		<POI MapID="1248" xpos="757.797" ypos="198.086" zpos="77.7911" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_lostlore_page" GUID="WCAkkKIocEi4nIs67ayqxw==" />
+		<POI MapID="1248" xpos="-869.274" ypos="371.043" zpos="-622.02" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_lostlore_page" GUID="8V9GzeQTykG/4zxlosbxKw==" />
+		<POI MapID="1248" xpos="-744.345" ypos="217.974" zpos="500.779" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_lostlore_page" GUID="KNBQKv4XOEiR+s6WyK967w==" />
+		<POI MapID="1248" xpos="281.713" ypos="263.749" zpos="-95.0149" type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_lostlore_page" GUID="dAaqENUFmEqss78+MQonag==" />
+		<Trail type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_timewornbusts.tw_pof_dov_timewornbusts_toggletrail" GUID="qaUApSW6jkG904N89jynCQ==" fadeNear="2500" fadeFar="2600" trailData="Data/TekkitsWorkshop/PoF/DomainOfVabbi/tw_pof_dov_timewornbusts.trl" animSpeed="0.1" texture="Data/TekkitsWorkshop/General/tw_trail_b.png" />
+		<Trail type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_adv_gardenwineandcheeserun.tw_pof_dov_adv_gardenwineandcheeserun_toggletrail" GUID="SG2QrpSmhkqtYDeZtdVyYw==" fadeNear="2500" fadeFar="2600" trailData="Data/TekkitsWorkshop/PoF/DomainOfVabbi/tw_pof_dov_adv_gardenwineandcheeserun.trl" animSpeed="0.1" texture="Data/TekkitsWorkshop/General/tw_trail_g.png" />
+		<Trail type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_adv_necropolisembalmingsupplyrun.tw_pof_dov_adv_necropolisembalmingsupplyrun_toggletrail" GUID="lqStCPfQ8E6rronfzHsUVg==" fadeNear="2500" fadeFar="2600" trailData="Data/TekkitsWorkshop/PoF/DomainOfVabbi/tw_pof_dov_adv_necropolisembalmingsupplyrun.trl" animSpeed="0.1" texture="Data/TekkitsWorkshop/General/tw_trail_g.png" />
+		<Trail type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_adv_vehjinnoblenecessitiesrun.tw_pof_dov_adv_vehjinnoblenecessitiesrun_toggletrail" GUID="QGrbIuSvr0CsXADAEQ2ndA==" fadeNear="2500" fadeFar="2600" trailData="Data/TekkitsWorkshop/PoF/DomainOfVabbi/tw_pof_dov_adv_vehjinnoblenecessitiesrun.trl" animSpeed="0.1" texture="Data/TekkitsWorkshop/General/tw_trail_g.png" />
+		<Trail type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_adv_vehtendischoolsupplyrun.tw_pof_dov_adv_vehtendischoolsupplyrun_toggletrail" GUID="0FKf3vEzvESKGYo+YPlm8A==" fadeNear="2500" fadeFar="2600" trailData="Data/TekkitsWorkshop/PoF/DomainOfVabbi/tw_pof_dov_adv_vehtendischoolsupplyrun.trl" animSpeed="0.1" texture="Data/TekkitsWorkshop/General/tw_trail_g.png" />
+		<Trail type="tw_guides.tw_pof.tw_pof_dov.tw_pof_dov_sandportals.tw_pof_dov_sandportals_toggletrail" GUID="25hJLM4WmkWLoy3MHEoGLw==" fadeNear="10000" fadeFar="10000" trailData="Data/TekkitsWorkshop/PoF/DomainOfVabbi/tw_pof_dov_sandportals.trl" animSpeed="0.1" texture="Data/TekkitsWorkshop/General/tw_trail_link.png" />
+	</POIs>
 </OverlayData>

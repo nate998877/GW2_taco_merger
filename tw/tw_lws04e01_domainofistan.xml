@@ -2,301 +2,301 @@
 	<MarkerCategory name="tw_guides" DisplayName="Tekkit's Guides">
 		<MarkerCategory name="tw_lws4" DisplayName="Season 4">
 			<MarkerCategory name="tw_lws4_domainofistan" DisplayName="Domain of Istan">
-				<MarkerCategory name="separatordoi1" IsSeparator="1" DisplayName="&lt;-----[FARMING]-----&gt;"/>
+				<MarkerCategory name="separatordoi1" IsSeparator="1" DisplayName="&lt;-----[FARMING]-----&gt;" />
 				<MarkerCategory name="tw_lws4_domainofistan_sunspearcaches" DisplayName="Sunspear Caches">
-					<MarkerCategory name="tw_lws4_domainofistan_sunspearcaches_sunspearcache" DisplayName="Toggle Sunspear Caches" mapDisplaySize="30" iconFile="Data/TekkitsWorkshop/LWS4/DomainOfIstan/tw_lws4_domainofistan_sunspearcaches_sunspearcache.png" iconSize="0.7" fadeNear="5000" fadeFar="5100" heightOffset="1.5" behavior="2"/>
-					<MarkerCategory name="tw_lws4_domainofistan_sunspearcaches_toggletrail" DisplayName="Toggle Trail"/>
+					<MarkerCategory name="tw_lws4_domainofistan_sunspearcaches_sunspearcache" DisplayName="Toggle Sunspear Caches" mapDisplaySize="30" iconFile="Data/TekkitsWorkshop/LWS4/DomainOfIstan/tw_lws4_domainofistan_sunspearcaches_sunspearcache.png" iconSize="0.7" fadeNear="5000" fadeFar="5100" heightOffset="1.5" behavior="2" />
+					<MarkerCategory name="tw_lws4_domainofistan_sunspearcaches_toggletrail" DisplayName="Toggle Trail" />
 					<MarkerCategory name="tw_lws4_domainofistan_sunspearcaches_signs" DisplayName="Toggle Signs">
-						<MarkerCategory name="tw_lws4_domainofistan_sunspearcaches_startsignp1" DisplayName="Starting Sign Part 1" mapDisplaySize="130" iconFile="Data/TekkitsWorkshop/LWS4/DomainOfIstan/tw_lws4_domainofistan_sunspearcaches_startsignp1.png" iconSize="2" fadeNear="5000" fadeFar="5100" heightOffset="2.5"/>
-						<MarkerCategory name="tw_lws4_domainofistan_sunspearcaches_startsignp2" DisplayName="Starting Sign Part 2" mapDisplaySize="130" iconFile="Data/TekkitsWorkshop/LWS4/DomainOfIstan/tw_lws4_domainofistan_sunspearcaches_startsignp2.png" iconSize="2" fadeNear="5000" fadeFar="5100" heightOffset="2.5"/>
-						<MarkerCategory name="tw_lws4_domainofistan_sunspearcaches_startsignp3" DisplayName="Starting Sign Part 3" mapDisplaySize="130" iconFile="Data/TekkitsWorkshop/LWS4/DomainOfIstan/tw_lws4_domainofistan_sunspearcaches_startsignp3.png" iconSize="2" fadeNear="5000" fadeFar="5100" heightOffset="2.5"/>
-						<MarkerCategory name="tw_lws4_domainofistan_sunspearcaches_teleport1" DisplayName="Teleport Sign" iconFile="Data/TekkitsWorkshop/LWS4/DomainOfIstan/tw_lws4_domainofistan_sunspearcaches_teleport1.png" iconSize="2" fadeNear="5000" fadeFar="5100" heightOffset="2.5"/>
-						<MarkerCategory name="tw_lws4_domainofistan_sunspearcaches_entrance" DisplayName="Entrance" mapDisplaySize="30" iconFile="Data/TekkitsWorkshop/General/tw_trail_entrance.png" iconSize="0.7" fadeNear="5000" fadeFar="5100" heightOffset="1.5"/>
-						<MarkerCategory name="tw_lws4_domainofistan_sunspearcaches_finish" DisplayName="Finish Sign" mapDisplaySize="80" iconFile="Data/TekkitsWorkshop/General/tw_trail_finish_b.png" iconSize="1.2" fadeNear="5000" fadeFar="5100" heightOffset="2.5" minSize="50"/>
+						<MarkerCategory name="tw_lws4_domainofistan_sunspearcaches_startsignp1" DisplayName="Starting Sign Part 1" mapDisplaySize="130" iconFile="Data/TekkitsWorkshop/LWS4/DomainOfIstan/tw_lws4_domainofistan_sunspearcaches_startsignp1.png" iconSize="2" fadeNear="5000" fadeFar="5100" heightOffset="2.5" />
+						<MarkerCategory name="tw_lws4_domainofistan_sunspearcaches_startsignp2" DisplayName="Starting Sign Part 2" mapDisplaySize="130" iconFile="Data/TekkitsWorkshop/LWS4/DomainOfIstan/tw_lws4_domainofistan_sunspearcaches_startsignp2.png" iconSize="2" fadeNear="5000" fadeFar="5100" heightOffset="2.5" />
+						<MarkerCategory name="tw_lws4_domainofistan_sunspearcaches_startsignp3" DisplayName="Starting Sign Part 3" mapDisplaySize="130" iconFile="Data/TekkitsWorkshop/LWS4/DomainOfIstan/tw_lws4_domainofistan_sunspearcaches_startsignp3.png" iconSize="2" fadeNear="5000" fadeFar="5100" heightOffset="2.5" />
+						<MarkerCategory name="tw_lws4_domainofistan_sunspearcaches_teleport1" DisplayName="Teleport Sign" iconFile="Data/TekkitsWorkshop/LWS4/DomainOfIstan/tw_lws4_domainofistan_sunspearcaches_teleport1.png" iconSize="2" fadeNear="5000" fadeFar="5100" heightOffset="2.5" />
+						<MarkerCategory name="tw_lws4_domainofistan_sunspearcaches_entrance" DisplayName="Entrance" mapDisplaySize="30" iconFile="Data/TekkitsWorkshop/General/tw_trail_entrance.png" iconSize="0.7" fadeNear="5000" fadeFar="5100" heightOffset="1.5" />
+						<MarkerCategory name="tw_lws4_domainofistan_sunspearcaches_finish" DisplayName="Finish Sign" mapDisplaySize="80" iconFile="Data/TekkitsWorkshop/General/tw_trail_finish_b.png" iconSize="1.2" fadeNear="5000" fadeFar="5100" heightOffset="2.5" minSize="50" />
 					</MarkerCategory>
 				</MarkerCategory>
-				<MarkerCategory name="tw_lws4_domainofistan_supplycaches" DisplayName="Supply Stashes" mapDisplaySize="30" iconFile="Data/TekkitsWorkshop/General/tw_pof_supplystash.png" iconSize="0.5" fadeNear="5000" fadeFar="5100" heightOffset="0.5" behavior="4" resetLength="300"/>
-				<MarkerCategory name="tw_lws4_domainofistan_tradecache" DisplayName="Trade Caches" mapDisplaySize="30" iconFile="Data/TekkitsWorkshop/General/tw_pof_tradechest.png" iconSize="1" fadeNear="5000" fadeFar="5100" heightOffset="0.5" behavior="6"/>
-				<MarkerCategory name="tw_lws4_domainofistan_sandpile" DisplayName="Sand Piles" mapDisplaySize="30" iconFile="Data/TekkitsWorkshop/General/tw_pof_sandpile.png" iconSize="0.5" fadeNear="5000" fadeFar="5100" heightOffset="0.5" behavior="6"/>
-				<MarkerCategory name="separatordoi2" IsSeparator="1" DisplayName="&lt;-----[HEARTS]-----&gt;"/>
-				<MarkerCategory name="tw_lws4_domainofistan_confiscatedfood" DisplayName="Confiscated Food" mapDisplaySize="30" iconFile="Data/TekkitsWorkshop/LWS4/DomainOfIstan/tw_lws4_domainofistan_confiscatedfood.png" iconSize="0.5" fadeNear="10000" fadeFar="10100" heightOffset="0.5" behavior="4" resetLength="180"/>
-				<MarkerCategory name="separatordoi3" IsSeparator="1" DisplayName="&lt;-----[ADVENTURE]-----&gt;"/>
+				<MarkerCategory name="tw_lws4_domainofistan_supplycaches" DisplayName="Supply Stashes" mapDisplaySize="30" iconFile="Data/TekkitsWorkshop/General/tw_pof_supplystash.png" iconSize="0.5" fadeNear="5000" fadeFar="5100" heightOffset="0.5" behavior="4" resetLength="300" />
+				<MarkerCategory name="tw_lws4_domainofistan_tradecache" DisplayName="Trade Caches" mapDisplaySize="30" iconFile="Data/TekkitsWorkshop/General/tw_pof_tradechest.png" iconSize="1" fadeNear="5000" fadeFar="5100" heightOffset="0.5" behavior="6" />
+				<MarkerCategory name="tw_lws4_domainofistan_sandpile" DisplayName="Sand Piles" mapDisplaySize="30" iconFile="Data/TekkitsWorkshop/General/tw_pof_sandpile.png" iconSize="0.5" fadeNear="5000" fadeFar="5100" heightOffset="0.5" behavior="6" />
+				<MarkerCategory name="separatordoi2" IsSeparator="1" DisplayName="&lt;-----[HEARTS]-----&gt;" />
+				<MarkerCategory name="tw_lws4_domainofistan_confiscatedfood" DisplayName="Confiscated Food" mapDisplaySize="30" iconFile="Data/TekkitsWorkshop/LWS4/DomainOfIstan/tw_lws4_domainofistan_confiscatedfood.png" iconSize="0.5" fadeNear="10000" fadeFar="10100" heightOffset="0.5" behavior="4" resetLength="180" />
+				<MarkerCategory name="separatordoi3" IsSeparator="1" DisplayName="&lt;-----[ADVENTURE]-----&gt;" />
 				<MarkerCategory name="tw_lws4_domainofistan_ancientweapons" DisplayName="Ancient Weapons">
-					<MarkerCategory name="tw_lws4_domainofistan_ancientweapons_toggletrail" DisplayName="Toggle Trail"/>
+					<MarkerCategory name="tw_lws4_domainofistan_ancientweapons_toggletrail" DisplayName="Toggle Trail" />
 					<MarkerCategory name="tw_lws4_domainofistan_ancientweapons_signs" DisplayName="Toggle Signs">
-						<MarkerCategory name="tw_lws4_domainofistan_ancientweapons_startsign" DisplayName="Starting Sign" mapDisplaySize="130" iconFile="Data/TekkitsWorkshop/LWS4/DomainOfIstan/tw_lws4_domainofistan_ancientweapons_startsign.png" iconSize="2" fadeNear="5000" fadeFar="5100" heightOffset="2.5" minSize="50"/>
-						<MarkerCategory name="tw_lws4_domainofistan_ancientweapons_finish" DisplayName="Finish Sign" mapDisplaySize="80" iconFile="Data/TekkitsWorkshop/General/tw_trail_finish_b.png" iconSize="1.2" fadeNear="5000" fadeFar="5100" heightOffset="2.5" minSize="50"/>
-						<MarkerCategory name="tw_lws4_domainofistan_ancientweapons_trail_pickup" DisplayName="Pick Up Spot" mapDisplaySize="30" iconFile="Data/TekkitsWorkshop/General/tw_trail_adv_pickup.png" iconSize="1" fadeNear="5000" fadeFar="5100" heightOffset="2.5" minSize="10"/>
-						<MarkerCategory name="tw_lws4_domainofistan_ancientweapons_trail_swap_springer" DisplayName="Swap to Springer" miniMapVisibility="0" mapVisibility="0" iconFile="Data/TekkitsWorkshop/General/tw_trail_swap_springer.png" iconSize="1" fadeNear="5000" fadeFar="5100" heightOffset="2.5" minSize="25"/>
-						<MarkerCategory name="tw_lws4_domainofistan_ancientweapons_trail_swap_griffon" DisplayName="Swap to Griffon" miniMapVisibility="0" mapVisibility="0" iconFile="Data/TekkitsWorkshop/General/tw_trail_swap_griffon.png" iconSize="1" fadeNear="5000" fadeFar="5100" heightOffset="2.5" minSize="25"/>
+						<MarkerCategory name="tw_lws4_domainofistan_ancientweapons_startsign" DisplayName="Starting Sign" mapDisplaySize="130" iconFile="Data/TekkitsWorkshop/LWS4/DomainOfIstan/tw_lws4_domainofistan_ancientweapons_startsign.png" iconSize="2" fadeNear="5000" fadeFar="5100" heightOffset="2.5" minSize="50" />
+						<MarkerCategory name="tw_lws4_domainofistan_ancientweapons_finish" DisplayName="Finish Sign" mapDisplaySize="80" iconFile="Data/TekkitsWorkshop/General/tw_trail_finish_b.png" iconSize="1.2" fadeNear="5000" fadeFar="5100" heightOffset="2.5" minSize="50" />
+						<MarkerCategory name="tw_lws4_domainofistan_ancientweapons_trail_pickup" DisplayName="Pick Up Spot" mapDisplaySize="30" iconFile="Data/TekkitsWorkshop/General/tw_trail_adv_pickup.png" iconSize="1" fadeNear="5000" fadeFar="5100" heightOffset="2.5" minSize="10" />
+						<MarkerCategory name="tw_lws4_domainofistan_ancientweapons_trail_swap_springer" DisplayName="Swap to Springer" miniMapVisibility="0" mapVisibility="0" iconFile="Data/TekkitsWorkshop/General/tw_trail_swap_springer.png" iconSize="1" fadeNear="5000" fadeFar="5100" heightOffset="2.5" minSize="25" />
+						<MarkerCategory name="tw_lws4_domainofistan_ancientweapons_trail_swap_griffon" DisplayName="Swap to Griffon" miniMapVisibility="0" mapVisibility="0" iconFile="Data/TekkitsWorkshop/General/tw_trail_swap_griffon.png" iconSize="1" fadeNear="5000" fadeFar="5100" heightOffset="2.5" minSize="25" />
 					</MarkerCategory>
 				</MarkerCategory>
-				<MarkerCategory name="separatordoi4" IsSeparator="1" DisplayName="&lt;-----[EXPLORATION]-----&gt;"/>
-				<MarkerCategory name="tw_lws4_domainofistan_masterypoint" DisplayName="Mastery Points" mapDisplaySize="50" iconFile="Data/TekkitsWorkshop/General/tw_masterypoint.png" iconSize="0.7" heightOffset="1.5" minSize="10"/>
+				<MarkerCategory name="separatordoi4" IsSeparator="1" DisplayName="&lt;-----[EXPLORATION]-----&gt;" />
+				<MarkerCategory name="tw_lws4_domainofistan_masterypoint" DisplayName="Mastery Points" mapDisplaySize="50" iconFile="Data/TekkitsWorkshop/General/tw_masterypoint.png" iconSize="0.7" heightOffset="1.5" minSize="10" />
 			</MarkerCategory>
 		</MarkerCategory>
 	</MarkerCategory>
 	<POIs>
-		<POI MapID="1263" xpos="686.821" ypos="41.4898" zpos="297.386" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_tradecache" GUID="NmLeQraFFU+7DEVLSfzz7w=="/>
-		<POI MapID="1263" xpos="-615.337" ypos="22.0699" zpos="-314.868" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_sandpile" GUID="hjWPjbbl1kmjSgXkxGNPdg=="/>
-		<POI MapID="1263" xpos="-821.9" ypos="84.9825" zpos="-199.689" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_tradecache" GUID="6o+NKKnFJEGtq/hW1uazIA=="/>
-		<POI MapID="1263" xpos="-780.084" ypos="148.795" zpos="584.167" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_tradecache" GUID="axKLBc328E2UDhNtFTbfZw=="/>
-		<POI MapID="1263" xpos="-929.763" ypos="119.19" zpos="816.308" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_sandpile" GUID="6mesu3rNjUGlQYbccFBV1w=="/>
-		<POI MapID="1263" xpos="-800.863" ypos="31.4082" zpos="704.677" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_tradecache" GUID="HkqHN+phHk+PpCdNpEEWOA=="/>
-		<POI MapID="1263" xpos="114.255" ypos="21.6713" zpos="124.25" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_tradecache" GUID="6XOLJlWbt0SDyPZ3orYMwA=="/>
-		<POI MapID="1263" xpos="-861.222" ypos="74.6081" zpos="62.3628" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_tradecache" GUID="7CsjKNLmMEOXxVByN1k5Tw=="/>
-		<POI MapID="1263" xpos="478.319" ypos="25.391" zpos="195.141" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_tradecache" GUID="peRdO5y2E06DDA/n7VVn4Q=="/>
-		<POI MapID="1263" xpos="188.899" ypos="21.4115" zpos="167.467" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_tradecache" GUID="Aq0fiqh4ykyyS2oxhMz3Cw=="/>
-		<POI MapID="1263" xpos="588.069" ypos="41.4302" zpos="171.967" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_tradecache" GUID="KwWrmT9fpkuohw5NMQULsA=="/>
-		<POI MapID="1263" xpos="653.901" ypos="7.12256" zpos="-55.5791" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_tradecache" GUID="M3wnGy3aaEWvzLlrTn03eA=="/>
-		<POI MapID="1263" xpos="-78.8976" ypos="61.2345" zpos="196.336" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_sandpile" GUID="TXL3fp8usU2SUuMxbHYatA=="/>
-		<POI MapID="1263" xpos="-615.484" ypos="44.9608" zpos="-442.15" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_tradecache" GUID="foSOafLVOUqSdm6JogTL4g=="/>
-		<POI MapID="1263" xpos="-718.862" ypos="111.935" zpos="631.297" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_tradecache" GUID="xMOaK/hZzU+ppCQoW0QvYg=="/>
-		<POI MapID="1263" xpos="-616.391" ypos="42.1972" zpos="815.818" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_sandpile" GUID="OV7jkTvqTEiG5IJ4Ts4DKA=="/>
-		<POI MapID="1263" xpos="-815.268" ypos="104.79" zpos="915.135" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_sandpile" GUID="TidlWrRBR0a7F/2QNKgMhg=="/>
-		<POI MapID="1263" xpos="-482.376" ypos="2.37095" zpos="768.133" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_tradecache" GUID="V7N4oaFOm0WiketXn7nNRg=="/>
-		<POI MapID="1263" xpos="-154.491" ypos="10.4352" zpos="711.854" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_tradecache" GUID="bDt6sruTckKjw4bQP2ds/g=="/>
-		<POI MapID="1263" xpos="246.917" ypos="16.3112" zpos="435.062" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_tradecache" GUID="cDWKNltcMka9VGz9U60KTw=="/>
-		<POI MapID="1263" xpos="-10.3136" ypos="39.0636" zpos="588.202" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_tradecache" GUID="nLEdotbsNECH93huxK945Q=="/>
-		<POI MapID="1263" xpos="-800.177" ypos="176.043" zpos="640.597" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_tradecache" GUID="kQeaj+LIJEqDACjPdJuZ+w=="/>
-		<POI MapID="1263" xpos="-338.582" ypos="11.1504" zpos="872.302" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_tradecache" GUID="cicrbO2gekKi6hUsStJcNg=="/>
-		<POI MapID="1263" xpos="26.7217" ypos="34.8224" zpos="233.803" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_tradecache" GUID="CKhvVMb1S0aMJ9iNvwtW7Q=="/>
-		<POI MapID="1263" xpos="-191.515" ypos="73.9423" zpos="119.223" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_tradecache" GUID="fVvB1V2Y/Em3zZGmZCdoSw=="/>
-		<POI MapID="1263" xpos="511.487" ypos="71.0157" zpos="-595.983" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_tradecache" GUID="lQcZRZ4znEmEL1TTy1Ed2A=="/>
-		<POI MapID="1263" xpos="190.3" ypos="6.89275" zpos="17.8895" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_supplycaches" GUID="HF46HXqSOUCU70AcBXR1yw=="/>
-		<POI MapID="1263" xpos="271.7" ypos="19.3033" zpos="-68.4513" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_supplycaches" GUID="4cJunjjAdEaw/D3NvFjnvQ=="/>
-		<POI MapID="1263" xpos="314.903" ypos="7.07889" zpos="-138.545" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_supplycaches" GUID="e0hC1lLV2UW6dqxp7RXWEQ=="/>
-		<POI MapID="1263" xpos="315.319" ypos="12.1434" zpos="-31.4749" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_supplycaches" GUID="dy8uLM+HkEqkNZ4Umnuelw=="/>
-		<POI MapID="1263" xpos="273.809" ypos="36.4676" zpos="-79.9437" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_supplycaches" GUID="+MSGuiXpdUSW+9NjmhqjNg=="/>
-		<POI MapID="1263" xpos="356.989" ypos="36.4676" zpos="-77.1868" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_supplycaches" GUID="Y8tYydAQ+UWbbeKK1cxVVw=="/>
-		<POI MapID="1263" xpos="472.392" ypos="6.99954" zpos="-78.2915" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_supplycaches" GUID="YB4MxPRYBEayQLUk22FxJg=="/>
-		<POI MapID="1263" xpos="245.007" ypos="12.6518" zpos="-69.0155" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_tradecache" GUID="r1fEiT5tdUeEenv6edlSgQ=="/>
-		<POI MapID="1263" xpos="99.0355" ypos="29.9873" zpos="-130.334" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_supplycaches" GUID="ZUpP5wFteUS/6dNfi5IR3g=="/>
-		<POI MapID="1263" xpos="140.94" ypos="17.5942" zpos="-78.1915" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_supplycaches" GUID="p8yes7+VOUaIIrK6JjjxzA=="/>
-		<POI MapID="1263" xpos="323.81" ypos="12.8329" zpos="39.1796" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_supplycaches" GUID="kB90d9qX006MWI7KGNk7Cg=="/>
-		<POI MapID="1263" xpos="329.27" ypos="13.5801" zpos="111.138" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_supplycaches" GUID="egO6YOiNG0SNWTG7EFg36A=="/>
-		<POI MapID="1263" xpos="400.986" ypos="13.6547" zpos="-189.437" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_tradecache" GUID="uo4RK/VX7UCDlxXjbNiyFQ=="/>
-		<POI MapID="1263" xpos="451.694" ypos="8.81713" zpos="-200.149" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_supplycaches" GUID="xZQ0p6wFkEm+61hKYMaH1w=="/>
-		<POI MapID="1263" xpos="664.295" ypos="16.1824" zpos="19.7178" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_tradecache" GUID="gNxiFoggGEGPFWBmpAwjew=="/>
-		<POI MapID="1263" xpos="627.952" ypos="17.2816" zpos="268.541" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_supplycaches" GUID="6pUUtWSG2U2FQ2KAOScqmw=="/>
-		<POI MapID="1263" xpos="595.019" ypos="17.4135" zpos="234.081" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_supplycaches" GUID="UTnZiQatT0i14NccGlVttw=="/>
-		<POI MapID="1263" xpos="628.024" ypos="16.8765" zpos="200.506" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_supplycaches" GUID="06DBOGQksUuH1IbGgcurcQ=="/>
-		<POI MapID="1263" xpos="691.448" ypos="44.9421" zpos="192.76" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_supplycaches" GUID="LOYAIkhsBkGYTUkRxA+CKw=="/>
-		<POI MapID="1263" xpos="645.35" ypos="41.6849" zpos="301.763" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_supplycaches" GUID="j+tmher9JUGWtdlL2B/+Gg=="/>
-		<POI MapID="1263" xpos="555.402" ypos="37.2659" zpos="282.384" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_supplycaches" GUID="K1Od7t5QNU2SYgwlv6en3g=="/>
-		<POI MapID="1263" xpos="489.98" ypos="31.3122" zpos="258.34" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_supplycaches" GUID="7GC6GoBW30qi5go4mqJNnQ=="/>
-		<POI MapID="1263" xpos="415.786" ypos="26.3357" zpos="258.933" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_supplycaches" GUID="gFNAFN2vBEy45IzC7vpQ8g=="/>
-		<POI MapID="1263" xpos="639.475" ypos="6.99971" zpos="-17.9401" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_supplycaches" GUID="WNK9RhvoxUijHeBAuy/WOQ=="/>
-		<POI MapID="1263" xpos="654.927" ypos="7.44676" zpos="-111.057" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_supplycaches" GUID="cbrpVroGkUGoU0fuOCuJlg=="/>
-		<POI MapID="1263" xpos="655.661" ypos="7.00604" zpos="-143.923" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_supplycaches" GUID="OpKEKbQ/mEuAPEagWeddwg=="/>
-		<POI MapID="1263" xpos="695.835" ypos="21.3216" zpos="-75.6388" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_supplycaches" GUID="qsVt2fkPk0qeu79IcJ3Rcg=="/>
-		<POI MapID="1263" xpos="677.19" ypos="7.48071" zpos="4.968" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_supplycaches" GUID="ZFWAICVdik6WL2a3cABmew=="/>
-		<POI MapID="1263" xpos="701.225" ypos="7.49872" zpos="-60.8188" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_supplycaches" GUID="hfKzW3nwXEGhXzPNy1yUOw=="/>
-		<POI MapID="1263" xpos="230.967" ypos="6.28092" zpos="-156.504" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_sandpile" GUID="+c8h/7y9+k+xUoglxv2Ccw=="/>
-		<POI MapID="1263" xpos="244.013" ypos="7.34069" zpos="85.8801" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_supplycaches" GUID="TYdmFJs7MEWqzAKCL4Fohg=="/>
-		<POI MapID="1263" xpos="521.38" ypos="13.0807" zpos="-225.289" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_supplycaches" GUID="HssFegiMCkOG6EHU37hvOA=="/>
-		<POI MapID="1263" xpos="521.322" ypos="13.0812" zpos="-204.447" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_supplycaches" GUID="D9ekU6B4dU66L+JBvoyLLA=="/>
-		<POI MapID="1263" xpos="288.466" ypos="7.01709" zpos="-184.797" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_supplycaches" GUID="bu6OOLKJhECw1XzocAeSZw=="/>
-		<POI MapID="1263" xpos="-77.3758" ypos="60.9662" zpos="207.861" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_supplycaches" GUID="glWDLv88/EWjJ+MUXFGbqA=="/>
-		<POI MapID="1263" xpos="-67.7131" ypos="62.0816" zpos="216.437" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_supplycaches" GUID="yhgsKZerq06Paddu+PK+zg=="/>
-		<POI MapID="1263" xpos="-153.259" ypos="68.3987" zpos="245.758" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_tradecache" GUID="qEtFMEzHF0CcRb1d6SwFCg=="/>
-		<POI MapID="1263" xpos="-142.626" ypos="68.5992" zpos="266.513" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_supplycaches" GUID="UHTFCDJTx0+azhS1hSWDcg=="/>
-		<POI MapID="1263" xpos="-115.817" ypos="68.5988" zpos="267.086" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_supplycaches" GUID="eQOZBD+0h02pK95+qZSDDw=="/>
-		<POI MapID="1263" xpos="-165.237" ypos="71.1616" zpos="290.362" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_supplycaches" GUID="IBHzQjOXi0u8SHpht+i3gg=="/>
-		<POI MapID="1263" xpos="-153.833" ypos="61.1462" zpos="237.34" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_supplycaches" GUID="lsJGOwSXK02ABm2OBgJfHw=="/>
-		<POI MapID="1263" xpos="-139.172" ypos="61.2759" zpos="227.992" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_supplycaches" GUID="MXRjdxOhXUWvRkxrnZWAQw=="/>
-		<POI MapID="1263" xpos="-97.3352" ypos="71.1486" zpos="290.726" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_supplycaches" GUID="OQln2tfY4EenkJo7VCRKiQ=="/>
-		<POI MapID="1263" xpos="-152.499" ypos="63.3583" zpos="322.468" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_supplycaches" GUID="ZmzGsu2WkUuSxC3NoDpp5Q=="/>
-		<POI MapID="1263" xpos="-143.304" ypos="63.3583" zpos="358.87" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_supplycaches" GUID="uNcfSUwsO0W8ZN7iyjyHKw=="/>
-		<POI MapID="1263" xpos="-115.999" ypos="63.3583" zpos="359.288" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_supplycaches" GUID="Nx6ktsVXGUay9EgNKPFM3Q=="/>
-		<POI MapID="1263" xpos="-105.512" ypos="63.3583" zpos="322.921" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_supplycaches" GUID="wFXOVGSkbkijDfPCOfA30A=="/>
-		<POI MapID="1263" xpos="-315.121" ypos="57.4763" zpos="359.863" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_sandpile" GUID="jFsYErxlC0mmT+b3MYN8Ww=="/>
-		<POI MapID="1263" xpos="-218.861" ypos="61.7331" zpos="257.133" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_sandpile" GUID="mCzuFFgBG0aAxHXDx3gEnw=="/>
-		<POI MapID="1263" xpos="-574.124" ypos="50.6271" zpos="76.0482" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_sandpile" GUID="hBj2JQWXQUWxHfEIYOqoxQ=="/>
-		<POI MapID="1263" xpos="-848.037" ypos="74.5373" zpos="-135.377" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_tradecache" GUID="xABJIEBVOE6cimoyypJAfQ=="/>
-		<POI MapID="1263" xpos="-699.335" ypos="83.083" zpos="-156.838" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_tradecache" GUID="OHmOmIaL0065dC9wDIPPrg=="/>
-		<POI MapID="1263" xpos="-830.957" ypos="64.817" zpos="-348.472" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_sunspearcaches.tw_lws4_domainofistan_sunspearcaches_sunspearcache" GUID="prBZT+NFNUGUXtyUWvMrBw=="/>
-		<POI MapID="1263" xpos="-598.164" ypos="42.1669" zpos="201.531" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_tradecache" GUID="4zfzbG3a7U6iK0pSvs6mzA=="/>
-		<POI MapID="1263" xpos="-702.611" ypos="88.1773" zpos="280.803" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_tradecache" GUID="VRwN0lMkY022W6Gz1gayjg=="/>
-		<POI MapID="1263" xpos="-808.705" ypos="97.4723" zpos="-25.8081" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_sunspearcaches.tw_lws4_domainofistan_sunspearcaches_sunspearcache" GUID="9x7BZuA/5UGcClMn6c9gvg=="/>
-		<POI MapID="1263" xpos="-520.964" ypos="88.8538" zpos="-162.603" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_sunspearcaches.tw_lws4_domainofistan_sunspearcaches_sunspearcache" GUID="5X3/2Zfh90efTK5FX4y7gg=="/>
-		<POI MapID="1263" xpos="-457.541" ypos="73.1713" zpos="-75.2617" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_sunspearcaches.tw_lws4_domainofistan_sunspearcaches_sunspearcache" GUID="W7AWhu/EWE2jPAYA8l1JIA=="/>
-		<POI MapID="1263" xpos="-451.525" ypos="58.6145" zpos="-75.3972" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_tradecache" GUID="i1pOYy/Xbkeeq1wFCxXSmA=="/>
-		<POI MapID="1263" xpos="-320.681" ypos="25.8756" zpos="-53.4944" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_sunspearcaches.tw_lws4_domainofistan_sunspearcaches_sunspearcache" GUID="HeBqvj//zUuYHtOx1lpjpQ=="/>
-		<POI MapID="1263" xpos="172.58" ypos="46.3119" zpos="259.364" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_sunspearcaches.tw_lws4_domainofistan_sunspearcaches_sunspearcache" GUID="zyKxdJIE4EurQnnPgS/zXA=="/>
-		<POI MapID="1263" xpos="394.471" ypos="12.3861" zpos="38.3905" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_tradecache" GUID="B8vC3FaTj02rmO9o71Xzbg=="/>
-		<POI MapID="1263" xpos="345.602" ypos="12.4855" zpos="66.6444" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_supplycaches" GUID="e8h/4X+DX0Omwi0/nmAfwA=="/>
-		<POI MapID="1263" xpos="471.896" ypos="6.96704" zpos="-62.8126" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_tradecache" GUID="JnQaWVR66EmUPU0KH1z5Hg=="/>
-		<POI MapID="1263" xpos="262.755" ypos="8.42724" zpos="-221.351" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_supplycaches" GUID="pN1rlDMDTkyLAcAFNxFJew=="/>
-		<POI MapID="1263" xpos="375.315" ypos="12.7984" zpos="-215.975" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_supplycaches" GUID="xpEifAV3S0iYdX5m4g0VYw=="/>
-		<POI MapID="1263" xpos="663.539" ypos="17.0755" zpos="234.269" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_supplycaches" GUID="NSTH8MJhKU6do5KNpOcjGw=="/>
-		<POI MapID="1263" xpos="519.368" ypos="34.3489" zpos="229.828" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_supplycaches" GUID="0m5y1CzocEKuyezirREUqg=="/>
-		<POI MapID="1263" xpos="163.677" ypos="7.2247" zpos="46.0787" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_supplycaches" GUID="uyUupYEunEuaXa0IMsaxeQ=="/>
-		<POI MapID="1263" xpos="83.3314" ypos="36.9754" zpos="-56.9287" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_supplycaches" GUID="QnFbOxA52kKa8LTI1rkppg=="/>
-		<POI MapID="1263" xpos="315.284" ypos="118.26" zpos="-461.931" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_sunspearcaches.tw_lws4_domainofistan_sunspearcaches_sunspearcache" GUID="t1K7WULxiUm7W0C9ojojuw=="/>
-		<POI MapID="1263" xpos="-24.8416" ypos="177.408" zpos="-179.581" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_sunspearcaches.tw_lws4_domainofistan_sunspearcaches_sunspearcache" GUID="eF2vgDD+z0W0sG4v4BJ5ow=="/>
-		<POI MapID="1263" xpos="-109.128" ypos="155.65" zpos="-238.112" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_sunspearcaches.tw_lws4_domainofistan_sunspearcaches_sunspearcache" GUID="kDYdOmkph0iGuSGod1YLgw=="/>
-		<POI MapID="1263" xpos="-127.139" ypos="264.612" zpos="-32.613" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_sunspearcaches.tw_lws4_domainofistan_sunspearcaches_sunspearcache" GUID="BkXpLoQ+Ski7NudIdByXBA=="/>
-		<POI MapID="1263" xpos="-533.109" ypos="38.4727" zpos="224.127" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_sunspearcaches.tw_lws4_domainofistan_sunspearcaches_sunspearcache" GUID="daaT60Mw+UmUatK4STjaVg=="/>
-		<POI MapID="1263" xpos="-127.935" ypos="111.627" zpos="56.5348" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_tradecache" GUID="DnyriiSKFE6MFtop/H6B8g=="/>
-		<POI MapID="1263" xpos="-145.97" ypos="111.074" zpos="37.8379" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_sunspearcaches.tw_lws4_domainofistan_sunspearcaches_sunspearcache" GUID="N+MevzQyOkCca+Gtmk2SLg=="/>
-		<POI MapID="1263" xpos="-551.2" ypos="83.4827" zpos="488.779" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_tradecache" GUID="9Okn2yyUZEOIt2Rh2YwvBg=="/>
-		<POI MapID="1263" xpos="-261.277" ypos="8.32559" zpos="530.057" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_sunspearcaches.tw_lws4_domainofistan_sunspearcaches_sunspearcache" GUID="VtpJoyw8u0i55BIk3WWHnQ=="/>
-		<POI MapID="1263" xpos="-127.001" ypos="68.9111" zpos="266.131" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_tradecache" GUID="BcNZ13tEpkGKkLXnsisQgQ=="/>
-		<POI MapID="1263" xpos="-145.235" ypos="61.2971" zpos="232.573" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_supplycaches" GUID="BZQI+08jH02hscakFYkW8w=="/>
-		<POI MapID="1263" xpos="101.932" ypos="46.607" zpos="-554.458" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_sunspearcaches.tw_lws4_domainofistan_sunspearcaches_sunspearcache" GUID="j3j6z5QJGke4iLWTGqcKzg=="/>
-		<POI MapID="1263" xpos="-851.883" ypos="31.4856" zpos="574.328" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_tradecache" GUID="/Q4LCpzUZkuU74QChkiI5w=="/>
-		<POI MapID="1263" xpos="282.266" ypos="86.8046" zpos="582.775" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_sunspearcaches.tw_lws4_domainofistan_sunspearcaches_sunspearcache" GUID="5A0Nz0eLyUKMlo/mTV5N1w=="/>
-		<POI MapID="1263" xpos="132.084" ypos="90.8372" zpos="683.579" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_sunspearcaches.tw_lws4_domainofistan_sunspearcaches_sunspearcache" GUID="WecAc3f7pkqvN4BtnGQDRw=="/>
-		<POI MapID="1263" xpos="183.547" ypos="211.971" zpos="467.539" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_sunspearcaches.tw_lws4_domainofistan_sunspearcaches_sunspearcache" GUID="TGjjjaDD10CPIP2qxXVqHg=="/>
-		<POI MapID="1263" xpos="161.934" ypos="6.91625" zpos="-21.6409" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_tradecache" GUID="jRiLe6yps0mLZmEfVfIjLg=="/>
-		<POI MapID="1263" xpos="-839.061" ypos="111.955" zpos="734.718" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_tradecache" GUID="Nh3/ws87UUKeB9kJMyXdcA=="/>
-		<POI MapID="1263" xpos="-112.675" ypos="28.0347" zpos="701.482" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_tradecache" GUID="0HHZ0sA200+Gc5w8e3zDAQ=="/>
-		<POI MapID="1263" xpos="-379.198" ypos="3.47681" zpos="777.507" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_tradecache" GUID="XGgW+eRlFkO1JxxFVSYdtw=="/>
-		<POI MapID="1263" xpos="78.5978" ypos="147.915" zpos="-358.599" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_tradecache" GUID="fZjaAvI2S0yX7j0jfL+CmQ=="/>
-		<POI MapID="1263" xpos="563.241" ypos="12.4737" zpos="-227.6" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_tradecache" GUID="49SpH/iaskKTma980Oz2OA=="/>
-		<POI MapID="1263" xpos="412.396" ypos="2.182" zpos="449.952" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_tradecache" GUID="/hMMJua/s0S6vMYOVCumdQ=="/>
-		<POI MapID="1263" xpos="222.258" ypos="42.4288" zpos="363.597" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_tradecache" GUID="T4VGEcokdkyh7B5sWqbhZQ=="/>
-		<POI MapID="1263" xpos="-18.6282" ypos="54.9913" zpos="112.419" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_tradecache" GUID="IGQTgH8WrU+AV7rb6x7ccg=="/>
-		<POI MapID="1263" xpos="-490.595" ypos="84.5663" zpos="-335.76" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_tradecache" GUID="FxbQJ9uxDEmF2TbxzPHFeA=="/>
-		<POI MapID="1263" xpos="-370.275" ypos="84.2469" zpos="-437.109" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_sandpile" GUID="Vi7FaSjtqkqUolRK9lqqAQ=="/>
-		<POI MapID="1263" xpos="-366.654" ypos="84.3554" zpos="-437.047" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_sunspearcaches.tw_lws4_domainofistan_sunspearcaches_sunspearcache" GUID="2Vx9y2oROk6MM/VxXWB5RA=="/>
-		<POI MapID="1263" xpos="-468.003" ypos="84.9244" zpos="-488.724" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_tradecache" GUID="LvtjqeBgcU+Qlsh4RJHcTQ=="/>
-		<POI MapID="1263" xpos="-684.312" ypos="82.6748" zpos="-462.064" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_sunspearcaches.tw_lws4_domainofistan_sunspearcaches_sunspearcache" GUID="5RgdgsVwq0yLUtE02d2kdQ=="/>
-		<POI MapID="1263" xpos="-725.676" ypos="30.3895" zpos="-369.232" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_tradecache" GUID="Ij7hmKckBUmNklgr1A+1NA=="/>
-		<POI MapID="1263" xpos="-451.641" ypos="64.1448" zpos="-369.189" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_sunspearcaches.tw_lws4_domainofistan_sunspearcaches_sunspearcache" GUID="7xu0R8aRh0yh3b4jnbcGAQ=="/>
-		<POI MapID="1263" xpos="-603.903" ypos="51.155" zpos="-38.7935" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_sunspearcaches.tw_lws4_domainofistan_sunspearcaches_sunspearcache" GUID="/WPPZhVC4UmsDaHxxhcIwg=="/>
-		<POI MapID="1263" xpos="-675.358" ypos="87.2266" zpos="133.001" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_sandpile" GUID="e1ThsOYrxUOnqkH3WXg7yg=="/>
-		<POI MapID="1263" xpos="-723.245" ypos="74.1816" zpos="194.103" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_tradecache" GUID="5kl9M5mcU0y6E1TVltHAUw=="/>
-		<POI MapID="1263" xpos="-774.466" ypos="91.2697" zpos="169.72" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_sunspearcaches.tw_lws4_domainofistan_sunspearcaches_sunspearcache" GUID="oK69+AVRZ0Sg+WnpY8rWrQ=="/>
-		<POI MapID="1263" xpos="-884.721" ypos="75.9015" zpos="91.9236" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_sunspearcaches.tw_lws4_domainofistan_sunspearcaches_sunspearcache" GUID="B+3D0RHSRUSL6GNc9bDISg=="/>
-		<POI MapID="1263" xpos="-661.918" ypos="42.0112" zpos="359.969" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_tradecache" GUID="oZ3zfnvUIUOvu5r6Va7mDg=="/>
-		<POI MapID="1263" xpos="-501.545" ypos="5.02357" zpos="323.056" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_tradecache" GUID="xzWc9zRa3UyNmjZb9f3LQA=="/>
-		<POI MapID="1263" xpos="-919.825" ypos="105.495" zpos="735.151" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_sandpile" GUID="oXVsjwfn+ECcxz1bZKrlUg=="/>
-		<POI MapID="1263" xpos="-201.909" ypos="1.79177" zpos="750.555" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_tradecache" GUID="WKPAksap+UWysKqmdndYDA=="/>
-		<POI MapID="1263" xpos="101.961" ypos="5.72563" zpos="726.362" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_sunspearcaches.tw_lws4_domainofistan_sunspearcaches_sunspearcache" GUID="XTIGiYhm10K6N38TxCr0MQ=="/>
-		<POI MapID="1263" xpos="138.096" ypos="10.5123" zpos="51.8051" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_sandpile" GUID="NjbdWvvEz0OWMdsYEZb5aQ=="/>
-		<POI MapID="1263" xpos="661.818" ypos="15.7292" zpos="-10.9" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_supplycaches" GUID="37Z4cRhxNU2VrD9kf9BU4A=="/>
-		<POI MapID="1263" xpos="-531.067" ypos="85.0356" zpos="-173.628" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_tradecache" GUID="edME/XqgXkmtXGrOTMiWpg=="/>
-		<POI MapID="1263" xpos="-800.06" ypos="58.2518" zpos="-377.462" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_sandpile" GUID="CLGL4ODKFUS7ab6zx9gh4A=="/>
-		<POI MapID="1263" xpos="-893.955" ypos="84.8262" zpos="-251.612" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_tradecache" GUID="r19FQ2qXo0O94TqILXtQ5Q=="/>
-		<POI MapID="1263" xpos="-578.488" ypos="50.5519" zpos="-38.8904" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_tradecache" GUID="i8qJwcrlQUWvgZqqaUzwQA=="/>
-		<POI MapID="1263" xpos="-83.6268" ypos="70.9453" zpos="288.95" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_tradecache" GUID="0LYUKgI1L0K96DviGPAneQ=="/>
-		<POI MapID="1263" xpos="-561.631" ypos="1.62546" zpos="-687.286" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_sunspearcaches.tw_lws4_domainofistan_sunspearcaches_sunspearcache" GUID="o4D02rXQTUGRCLrdWk1xBA=="/>
-		<POI MapID="1263" xpos="-638.939" ypos="114.785" zpos="-320.843" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_sunspearcaches.tw_lws4_domainofistan_sunspearcaches_sunspearcache" GUID="l0YvT0+U3EizJj12DYW0rA=="/>
-		<POI MapID="1263" xpos="-169.449" ypos="63.1984" zpos="312.987" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_tradecache" GUID="hAeHI3Ssskufb7DObKpMoQ=="/>
-		<POI MapID="1263" xpos="-129.704" ypos="62.4421" zpos="340.184" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_supplycaches" GUID="ILjz7j3380uD2N55KHOmZA=="/>
-		<POI MapID="1263" xpos="308.006" ypos="197.761" zpos="-520.491" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_sunspearcaches.tw_lws4_domainofistan_sunspearcaches_sunspearcache" GUID="pwMHp8pGR0up0p+gsNGY1Q=="/>
-		<POI MapID="1263" xpos="215.29" ypos="239.215" zpos="-477.834" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_sunspearcaches.tw_lws4_domainofistan_sunspearcaches_sunspearcache" GUID="G8aPNQGC8kG7dPmbNG7xhg=="/>
-		<POI MapID="1263" xpos="476.232" ypos="86.1774" zpos="-626.351" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_sunspearcaches.tw_lws4_domainofistan_sunspearcaches_sunspearcache" GUID="W+t22uPzCEuBLdp4Mvd05Q=="/>
-		<POI MapID="1263" xpos="650.527" ypos="24.9553" zpos="-132.011" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_supplycaches" GUID="bWqMDT/uLk2LRRuHo2IXUg=="/>
-		<POI MapID="1263" xpos="706.002" ypos="7.5254" zpos="-79.2028" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_supplycaches" GUID="AdlaQ9iejUefPyPZX0xLyQ=="/>
-		<POI MapID="1263" xpos="521.465" ypos="29.3408" zpos="-85.7968" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_tradecache" GUID="uZUHSwQCjEyPcmijXHB4Tg=="/>
-		<POI MapID="1263" xpos="666.599" ypos="28.8426" zpos="105.276" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_tradecache" GUID="y03BEiqvn0qiV3gPNwCsXw=="/>
-		<POI MapID="1263" xpos="132.816" ypos="31.9421" zpos="275.502" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_tradecache" GUID="BBb3XZEZ306pEITlKF4h9A=="/>
-		<POI MapID="1263" xpos="-89.296" ypos="63.1603" zpos="368.086" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_tradecache" GUID="R0f++wi3d0GECfY0BDFVJw=="/>
-		<POI MapID="1263" xpos="71.9301" ypos="39.5815" zpos="673.875" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_tradecache" GUID="etk0uuy5sUqUuc6AsmaYeA=="/>
-		<POI MapID="1263" xpos="-550.952" ypos="3.01907" zpos="423.705" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_tradecache" GUID="qQaGUrtnSEiyl8pWqx12cg=="/>
-		<POI MapID="1263" xpos="-180.529" ypos="157.66" zpos="295.091" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_sunspearcaches.tw_lws4_domainofistan_sunspearcaches_sunspearcache" GUID="epvzcNdySEKeMy/aeIzX1Q=="/>
-		<POI MapID="1263" xpos="291.065" ypos="7.21942" zpos="-224.538" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_tradecache" GUID="eW+9Ji7xmkuqs4Tkcs4FXQ=="/>
-		<POI MapID="1263" xpos="-34.1763" ypos="207.879" zpos="-105.226" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_sunspearcaches.tw_lws4_domainofistan_sunspearcaches_sunspearcache" GUID="mVuTW3PdsUSopW57Zvndaw=="/>
-		<POI MapID="1263" xpos="257.703" ypos="6.83502" zpos="91.584" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_tradecache" GUID="DtBoO9LIjkmXQD5nYrkk/g=="/>
-		<POI MapID="1263" xpos="-893.236" ypos="131.426" zpos="301.708" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_tradecache" GUID="6SZmJwJYskmrhPgV/WlDuw=="/>
-		<POI MapID="1263" xpos="137.257" ypos="55.913" zpos="220.32" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_tradecache" GUID="1IWFah80v0SV2DoNAJSMTg=="/>
-		<POI MapID="1263" xpos="-438.68" ypos="60.5292" zpos="-273.239" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_sandpile" GUID="j8kLiH1FrUWe7VUVLf3E5Q=="/>
-		<POI MapID="1263" xpos="-197.365" ypos="11.7262" zpos="-277.842" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_sandpile" GUID="QIoMVfaBq0Gx+n5dk8Obnw=="/>
-		<POI MapID="1263" xpos="71.3601" ypos="3.61814" zpos="-370.661" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_sunspearcaches.tw_lws4_domainofistan_sunspearcaches_sunspearcache" GUID="HCwSMGtv8kurgpkFa3/3mg=="/>
-		<POI MapID="1263" xpos="314.683" ypos="27.9311" zpos="315.485" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_sandpile" GUID="4FC52AK6BEOS+srXrbprdQ=="/>
-		<POI MapID="1263" xpos="-120.491" ypos="58.7399" zpos="429.867" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_tradecache" GUID="PseI4Kq21U26Tjm22EUFVQ=="/>
-		<POI MapID="1263" xpos="-555.241" ypos="2.7578" zpos="425.716" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_sunspearcaches.tw_lws4_domainofistan_sunspearcaches_sunspearcache" GUID="cMl6HXEaBEGyvmQtSuV3dQ=="/>
-		<POI MapID="1263" xpos="313.425" ypos="119.036" zpos="-461.666" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_tradecache" GUID="3eAUxI7o5EyRG109y5k/TQ=="/>
-		<POI MapID="1263" xpos="179.42" ypos="112.053" zpos="566.048" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_sunspearcaches.tw_lws4_domainofistan_sunspearcaches_sunspearcache" GUID="lBX4ysPPVEOZLbTr1MdDew=="/>
-		<POI MapID="1263" xpos="-822.945" ypos="122.283" zpos="696.004" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_tradecache" GUID="qK8GwqENd0S0SxtuUBdHvQ=="/>
-		<POI MapID="1263" xpos="-758.793" ypos="36.3266" zpos="-297.106" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_confiscatedfood" GUID="SlIsReqB0kuP9tZc4nIFTg=="/>
-		<POI MapID="1263" xpos="-683.466" ypos="26.3656" zpos="-369.251" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_confiscatedfood" GUID="6SVy3b615UyMbiBOB6O4gg=="/>
-		<POI MapID="1263" xpos="-681.955" ypos="26.3656" zpos="-372.047" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_confiscatedfood" GUID="sojsjCnzx0+LCcg6bmphAw=="/>
-		<POI MapID="1263" xpos="-685.932" ypos="26.4875" zpos="-374.286" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_confiscatedfood" GUID="c0pHmxxZXUaw01feS8XVLg=="/>
-		<POI MapID="1263" xpos="-682.489" ypos="26.4875" zpos="-375.687" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_confiscatedfood" GUID="VBZjq0228kmp9h85HGr62w=="/>
-		<POI MapID="1263" xpos="-663.426" ypos="28.8843" zpos="-324.912" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_confiscatedfood" GUID="X7Tpw25jCEqclC208Ik/2g=="/>
-		<POI MapID="1263" xpos="-573.579" ypos="83.1506" zpos="-199.871" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_confiscatedfood" GUID="YcVck5l5iEqRRtEjueGySQ=="/>
-		<POI MapID="1263" xpos="-551.023" ypos="29.1914" zpos="-112.584" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_confiscatedfood" GUID="+Ccx6B/HwkiVureSsTGddA=="/>
-		<POI MapID="1263" xpos="-551.15" ypos="29.1522" zpos="-116.238" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_confiscatedfood" GUID="60MdsByC00CUqTbJwz8Jvw=="/>
-		<POI MapID="1263" xpos="-544.724" ypos="28.8913" zpos="-114.647" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_confiscatedfood" GUID="FhMEsp3kukWpL1sFRNXRYA=="/>
-		<POI MapID="1263" xpos="-627.148" ypos="47.7003" zpos="-24.1026" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_confiscatedfood" GUID="6PHk8dWiCUyCU0hEkvom/w=="/>
-		<POI MapID="1263" xpos="-629.474" ypos="47.4625" zpos="-27.4158" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_confiscatedfood" GUID="9TyQRiWCGk6g0HWwgxDRww=="/>
-		<POI MapID="1263" xpos="-626.265" ypos="47.4807" zpos="-28.8831" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_confiscatedfood" GUID="ubt8eCtEJkuDq45XZbOlYg=="/>
-		<POI MapID="1263" xpos="-832.843" ypos="64.2597" zpos="-329.647" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_confiscatedfood" GUID="wgUHefFdRkOidaFOPJSpUw=="/>
-		<POI MapID="1263" xpos="-835.742" ypos="64.3477" zpos="-326.151" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_confiscatedfood" GUID="Sf5daGHsikOp3b1GHVkqkg=="/>
-		<POI MapID="1263" xpos="-837.225" ypos="64.5784" zpos="-331.108" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_confiscatedfood" GUID="9h9mVfQ5sE2xRC1MkIKOJg=="/>
-		<POI MapID="1263" xpos="-835.572" ypos="64.5797" zpos="-332.646" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_confiscatedfood" GUID="g0UgZQWAAkG0a+HXDg22Xg=="/>
-		<POI MapID="1263" xpos="-623.726" ypos="57.6023" zpos="-305.677" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_confiscatedfood" GUID="hGoL9/tdGkyGCZe2c9+0ww=="/>
-		<POI MapID="1263" xpos="-629.137" ypos="59.3968" zpos="-325.428" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_confiscatedfood" GUID="JCdqr+NMRk+tdAC3bCyb4g=="/>
-		<POI MapID="1263" xpos="-651.917" ypos="44.8915" zpos="-295.27" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_confiscatedfood" GUID="4cbkDMcTgECMgWD2UnAFaw=="/>
-		<POI MapID="1263" xpos="587.836" ypos="12.4797" zpos="-153.561" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_tradecache" GUID="eA3biwNCgke1DwFqI125Gg=="/>
-		<POI MapID="1263" xpos="119.839" ypos="36.872" zpos="-102.339" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_tradecache" GUID="FjI/3E1ytEyvhKA+YqH/MQ=="/>
-		<POI MapID="1263" xpos="-488.493" ypos="25.0214" zpos="-206.727" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_confiscatedfood" GUID="Y/d4rPZM50SFbKR3q7r/MQ=="/>
-		<POI MapID="1263" xpos="-485.388" ypos="24.9132" zpos="-206.116" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_confiscatedfood" GUID="tiwj4ZLRfUaFGSJfH4W0Pw=="/>
-		<POI MapID="1263" xpos="-486.405" ypos="25.4618" zpos="-209.55" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_confiscatedfood" GUID="cDG3Nsi/PEW3fhqHdc9o5Q=="/>
-		<POI MapID="1268" xpos="-195.437" ypos="54.1667" zpos="-149.697" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_confiscatedfood" GUID="If7bacdT+0WTQn3GnL7RzQ=="/>
-		<POI MapID="1263" xpos="-102.994" ypos="60.8866" zpos="277.463" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_sandpile" GUID="ovRUd4VlM0ewRnIYzawzgg=="/>
-		<POI MapID="1263" xpos="-778.309" ypos="135.828" zpos="681.353" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_tradecache" GUID="+l9B3tPH80qnFVnd0Y1Iaw=="/>
-		<POI MapID="1263" xpos="436.149" ypos="10.7952" zpos="-293.778" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_tradecache" GUID="ORzPwe50RkeGJdiUxy549A=="/>
-		<POI MapID="1263" xpos="-554.494" ypos="38.6575" zpos="-466.657" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_tradecache" GUID="3AcgGRcRjEiDXeUjZDDi2g=="/>
-		<POI MapID="1263" xpos="84.6245" ypos="124.824" zpos="-169" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_tradecache" GUID="sY+poX6I1kOcFh4LSV6JIA=="/>
-		<POI MapID="1263" xpos="372.82" ypos="29.1032" zpos="262.487" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_tradecache" GUID="dsedsIA+4UKWO3Dav+YYFQ=="/>
-		<POI MapID="1263" xpos="-648.139" ypos="1.28851" zpos="270.78" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_tradecache" GUID="qRPXBQfCrEiMD26j0J5lNA=="/>
-		<POI MapID="1263" xpos="-811.201" ypos="98.6188" zpos="814.667" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_tradecache" GUID="4gczqLp2FECZ0YYy4BtjaA=="/>
-		<POI MapID="1263" xpos="-513.981" ypos="140.188" zpos="-413.571" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_sunspearcaches.tw_lws4_domainofistan_sunspearcaches_sunspearcache" GUID="QUE9y7ccGEG9B35gxtigSA=="/>
-		<POI MapID="1263" xpos="180.251" ypos="8.48649" zpos="-148.305" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_tradecache" GUID="YD1QCP0PSk2vW3JBr9cClg=="/>
-		<POI MapID="1263" xpos="440.762" ypos="83.3731" zpos="-680.431" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_sandpile" GUID="fWMaSuesrkGg1byd8ImnBg=="/>
-		<POI MapID="1263" xpos="560.716" ypos="1.79023" zpos="85.8493" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_sandpile" GUID="8rbsr6tr00igUgjWCYQhAw=="/>
-		<POI MapID="1263" xpos="-788.424" ypos="50.9411" zpos="141.121" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_tradecache" GUID="bDAI3AyNG0uNWV8CbTVRZQ=="/>
-		<POI MapID="1263" xpos="-679.761" ypos="84.235" zpos="-212.32" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_sandpile" GUID="aDDe22G6vUeSm3OBdzmYKA=="/>
-		<POI MapID="1263" xpos="-506.903" ypos="44.9038" zpos="174.955" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_tradecache" GUID="T1dhw0+TwEus9p3fgOSWQQ=="/>
-		<POI MapID="1263" xpos="-514.155" ypos="44.4785" zpos="281.834" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_sandpile" GUID="ktL6Jauob0Gog3ZRu6AUpA=="/>
-		<POI MapID="1263" xpos="-819.958" ypos="164.002" zpos="677.918" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_tradecache" GUID="rGrnV6+G60a+9lg0Q6hfXQ=="/>
-		<POI MapID="1263" xpos="-1019.95" ypos="89.6742" zpos="460.729" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_tradecache" GUID="+T/Ti+J5Y0SYKcJ3LiiCeg=="/>
-		<POI MapID="1263" xpos="-727.862" ypos="112.038" zpos="537.662" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_tradecache" GUID="HFeFDZF+nUePq/c5JXMzAw=="/>
-		<POI MapID="1263" xpos="86.5371" ypos="36.9754" zpos="-97.46" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_supplycaches" GUID="d/0k1mvi/UGAq9VXAR24kQ=="/>
-		<POI MapID="1263" xpos="-866.459" ypos="30.033" zpos="633.864" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_tradecache" GUID="xJZPfTqPSUaplvPcpLIjOQ=="/>
-		<POI MapID="1263" xpos="-789.515" ypos="87.8525" zpos="7.1892" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_sandpile" GUID="go3cGa07sU+YsG2B3dPRAw=="/>
-		<POI MapID="1263" xpos="-727.406" ypos="85.5166" zpos="17.3349" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_tradecache" GUID="wluB/2R9hkim/ulfT/VuAg=="/>
-		<POI MapID="1263" xpos="666.199" ypos="34.7811" zpos="217.443" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_tradecache" GUID="PpLDGoRFNE+/r9YeNudk3g=="/>
-		<POI MapID="1263" xpos="57.5198" ypos="134.017" zpos="0.895343" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_tradecache" GUID="d4Z8UVpZEEmookZbLcILaw=="/>
-		<POI MapID="1263" xpos="249.653" ypos="79.0773" zpos="-411.766" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_tradecache" GUID="DuqItmShMUOzJ1DwZc1xLA=="/>
-		<POI MapID="1263" xpos="168.537" ypos="30.7407" zpos="388.918" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_sandpile" GUID="PnLU1D+3ikeTGCuJjgH22Q=="/>
-		<POI MapID="1263" xpos="-564.32" ypos="26.812" zpos="-243.33" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_tradecache" GUID="K50RKfy+oUq/1zxK4FbQXA=="/>
-		<POI MapID="1263" xpos="-324.052" ypos="22.833" zpos="-63.5496" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_sandpile" GUID="exGipLBjVEOHiLUQNjAKQg=="/>
-		<POI MapID="1263" xpos="-471.193" ypos="14.3748" zpos="-180.815" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_tradecache" GUID="NfrjGhM0aUuEsnTwpEWuvA=="/>
-		<POI MapID="1263" xpos="-587.812" ypos="1.18037" zpos="-671.726" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_tradecache" GUID="RVvyRdxT+EugrHcVZr92eQ=="/>
-		<POI MapID="1263" xpos="374.811" ypos="119.878" zpos="-413.489" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_sandpile" GUID="NnRKaqlwvUGTf+crhQm9Ug=="/>
-		<POI MapID="1263" xpos="172.733" ypos="114.363" zpos="-301.636" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_tradecache" GUID="EF5JLB2Nk06/eleo4ccQAA=="/>
-		<POI MapID="1263" xpos="-187.578" ypos="39.9414" zpos="546.05" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_sandpile" GUID="0PS0hgOMrke4m+U8Ek/gBQ=="/>
-		<POI MapID="1263" xpos="-440.615" ypos="2.19236" zpos="471.913" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_tradecache" GUID="X/Fbaahqw0GB99vTgQjO7A=="/>
-		<POI MapID="1263" xpos="178.135" ypos="49.9984" zpos="235.803" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_tradecache" GUID="mi3GZOXyFEmOtqc7z+pVnA=="/>
-		<POI MapID="1263" xpos="-250.003" ypos="216.334" zpos="57.6756" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_sunspearcaches.tw_lws4_domainofistan_sunspearcaches_signs.tw_lws4_domainofistan_sunspearcaches_entrance" GUID="0HjbTHTN6ke3bvRMono6nA=="/>
-		<POI MapID="1263" xpos="-19.1283" ypos="182.011" zpos="-174.637" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_sunspearcaches.tw_lws4_domainofistan_sunspearcaches_signs.tw_lws4_domainofistan_sunspearcaches_entrance" GUID="6K+IU7lakk+OSqCZ6AzPRA=="/>
-		<POI MapID="1263" xpos="80.061" ypos="230.89" zpos="-334.174" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_sunspearcaches.tw_lws4_domainofistan_sunspearcaches_signs.tw_lws4_domainofistan_sunspearcaches_entrance" GUID="UW3+xaPY3EeIi4GjS+UTvg=="/>
-		<POI MapID="1263" xpos="-561.455" ypos="1.54907" zpos="-687.269" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_sunspearcaches.tw_lws4_domainofistan_sunspearcaches_signs.tw_lws4_domainofistan_sunspearcaches_finish" GUID="2s5kjiN9wU+B6HWl5/l1RQ=="/>
-		<POI MapID="1263" xpos="337.277" ypos="0.981337" zpos="446.496" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_sunspearcaches.tw_lws4_domainofistan_sunspearcaches_signs.tw_lws4_domainofistan_sunspearcaches_startsignp1" GUID="7NIBSFlX20yY1hYF45s06A=="/>
-		<POI MapID="1263" xpos="-850.589" ypos="163.248" zpos="604.759" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_sunspearcaches.tw_lws4_domainofistan_sunspearcaches_signs.tw_lws4_domainofistan_sunspearcaches_startsignp2" GUID="v6dy/L47jkygknOpZRgtjQ=="/>
-		<POI MapID="1263" xpos="-859.512" ypos="163.248" zpos="601.72" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_sunspearcaches.tw_lws4_domainofistan_sunspearcaches_signs.tw_lws4_domainofistan_sunspearcaches_startsignp3" GUID="dPF8rLSqoUuCg5A00f+xmA=="/>
-		<POI MapID="1263" xpos="-532.971" ypos="38.5299" zpos="224.472" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_sunspearcaches.tw_lws4_domainofistan_sunspearcaches_signs.tw_lws4_domainofistan_sunspearcaches_teleport1" GUID="IbuYLuyM5EyfwrM+HW5SuA=="/>
-		<POI MapID="1263" xpos="71.0626" ypos="3.42797" zpos="-370.828" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_sunspearcaches.tw_lws4_domainofistan_sunspearcaches_signs.tw_lws4_domainofistan_sunspearcaches_teleport1" GUID="JG+mYR9110KBlCgEOymOBg=="/>
-		<POI MapID="1263" xpos="-822.914" ypos="121.286" zpos="560.673" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_ancientweapons.tw_lws4_domainofistan_ancientweapons_signs.tw_lws4_domainofistan_ancientweapons_trail_pickup" GUID="V14u59RTOEGNvldAymhugA=="/>
-		<POI MapID="1263" xpos="-492.044" ypos="107.381" zpos="668.569" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_ancientweapons.tw_lws4_domainofistan_ancientweapons_signs.tw_lws4_domainofistan_ancientweapons_trail_pickup" GUID="GQ3s+Abfy0G6dqSuU4vXlQ=="/>
-		<POI MapID="1263" xpos="-417.374" ypos="60.01" zpos="456.287" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_ancientweapons.tw_lws4_domainofistan_ancientweapons_signs.tw_lws4_domainofistan_ancientweapons_trail_pickup" GUID="7+o0qaAl60mHgE4d/t2LpA=="/>
-		<POI MapID="1263" xpos="-599.978" ypos="43.1549" zpos="226.754" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_ancientweapons.tw_lws4_domainofistan_ancientweapons_signs.tw_lws4_domainofistan_ancientweapons_trail_pickup" GUID="4XckCmHgQ0izJnzC73l49A=="/>
-		<POI MapID="1263" xpos="-772.942" ypos="90.455" zpos="143.25" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_ancientweapons.tw_lws4_domainofistan_ancientweapons_signs.tw_lws4_domainofistan_ancientweapons_trail_pickup" GUID="hItviESvJEaZi8H6eK2KhQ=="/>
-		<POI MapID="1263" xpos="-892.63" ypos="130.708" zpos="305.525" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_ancientweapons.tw_lws4_domainofistan_ancientweapons_signs.tw_lws4_domainofistan_ancientweapons_trail_pickup" GUID="firtD4Nn30WVbs4SKO1I3Q=="/>
-		<POI MapID="1263" xpos="-823.515" ypos="120.736" zpos="552.389" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_ancientweapons.tw_lws4_domainofistan_ancientweapons_signs.tw_lws4_domainofistan_ancientweapons_startsign" GUID="ex8Ibrty/UmpnaUdFWtoag=="/>
-		<POI MapID="1263" xpos="-821.352" ypos="120.736" zpos="554.009" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_ancientweapons.tw_lws4_domainofistan_ancientweapons_signs.tw_lws4_domainofistan_ancientweapons_trail_swap_springer" GUID="B1agPLyTdUeKULVyNXOy3A=="/>
-		<POI MapID="1263" xpos="-826.353" ypos="190.639" zpos="617.133" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_ancientweapons.tw_lws4_domainofistan_ancientweapons_signs.tw_lws4_domainofistan_ancientweapons_trail_swap_griffon" GUID="30jj1ckb7UCWvEKuUD5org=="/>
-		<POI MapID="1263" xpos="-826.185" ypos="120.63" zpos="548.594" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_ancientweapons.tw_lws4_domainofistan_ancientweapons_signs.tw_lws4_domainofistan_ancientweapons_finish" GUID="gH9tOFwBQ0yqIqkhdorwbg=="/>
-		<POI MapID="1263" xpos="-639.007" ypos="143.59" zpos="-314.155" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_masterypoint" GUID="PBgUrbjuA0SF9ivykY31vA=="/>
-		<POI MapID="1263" xpos="-391.825" ypos="59.6757" zpos="698.54" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_masterypoint" GUID="kdEzPV4tn0GrNs9jncxuMA=="/>
-		<POI MapID="1263" xpos="426.174" ypos="124.456" zpos="-304.889" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_masterypoint" GUID="2fRYxy/UykermvYNhWMo1Q=="/>
-		<Trail type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_sunspearcaches.tw_lws4_domainofistan_sunspearcaches_toggletrail" GUID="xw5CrgMtnkODWCQ8rfs6Fw==" fadeNear="5000" fadeFar="5100" trailData="Data/TekkitsWorkshop/LWS4/DomainOfIstan/tw_lws4_domainofistan_sunspearcaches_toggletrail.trl" animSpeed="0" texture="Data/TekkitsWorkshop/General/tw_trail_b.png"/>
-		<Trail type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_ancientweapons.tw_lws4_domainofistan_ancientweapons_toggletrail" GUID="0SI0LqJ6wkWT0rGv/7WzlA==" fadeNear="5000" fadeFar="5100" trailData="Data/TekkitsWorkshop/LWS4/DomainOfIstan/tw_lws4_domainofistan_ancientweapons_toggletrail.trl" animSpeed="0" texture="Data/TekkitsWorkshop/General/tw_trail_adv_b.png"/>
+		<POI MapID="1263" xpos="686.821" ypos="41.4898" zpos="297.386" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_tradecache" GUID="NmLeQraFFU+7DEVLSfzz7w==" />
+		<POI MapID="1263" xpos="-615.337" ypos="22.0699" zpos="-314.868" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_sandpile" GUID="hjWPjbbl1kmjSgXkxGNPdg==" />
+		<POI MapID="1263" xpos="-821.9" ypos="84.9825" zpos="-199.689" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_tradecache" GUID="6o+NKKnFJEGtq/hW1uazIA==" />
+		<POI MapID="1263" xpos="-780.084" ypos="148.795" zpos="584.167" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_tradecache" GUID="axKLBc328E2UDhNtFTbfZw==" />
+		<POI MapID="1263" xpos="-929.763" ypos="119.19" zpos="816.308" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_sandpile" GUID="6mesu3rNjUGlQYbccFBV1w==" />
+		<POI MapID="1263" xpos="-800.863" ypos="31.4082" zpos="704.677" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_tradecache" GUID="HkqHN+phHk+PpCdNpEEWOA==" />
+		<POI MapID="1263" xpos="114.255" ypos="21.6713" zpos="124.25" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_tradecache" GUID="6XOLJlWbt0SDyPZ3orYMwA==" />
+		<POI MapID="1263" xpos="-861.222" ypos="74.6081" zpos="62.3628" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_tradecache" GUID="7CsjKNLmMEOXxVByN1k5Tw==" />
+		<POI MapID="1263" xpos="478.319" ypos="25.391" zpos="195.141" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_tradecache" GUID="peRdO5y2E06DDA/n7VVn4Q==" />
+		<POI MapID="1263" xpos="188.899" ypos="21.4115" zpos="167.467" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_tradecache" GUID="Aq0fiqh4ykyyS2oxhMz3Cw==" />
+		<POI MapID="1263" xpos="588.069" ypos="41.4302" zpos="171.967" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_tradecache" GUID="KwWrmT9fpkuohw5NMQULsA==" />
+		<POI MapID="1263" xpos="653.901" ypos="7.12256" zpos="-55.5791" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_tradecache" GUID="M3wnGy3aaEWvzLlrTn03eA==" />
+		<POI MapID="1263" xpos="-78.8976" ypos="61.2345" zpos="196.336" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_sandpile" GUID="TXL3fp8usU2SUuMxbHYatA==" />
+		<POI MapID="1263" xpos="-615.484" ypos="44.9608" zpos="-442.15" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_tradecache" GUID="foSOafLVOUqSdm6JogTL4g==" />
+		<POI MapID="1263" xpos="-718.862" ypos="111.935" zpos="631.297" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_tradecache" GUID="xMOaK/hZzU+ppCQoW0QvYg==" />
+		<POI MapID="1263" xpos="-616.391" ypos="42.1972" zpos="815.818" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_sandpile" GUID="OV7jkTvqTEiG5IJ4Ts4DKA==" />
+		<POI MapID="1263" xpos="-815.268" ypos="104.79" zpos="915.135" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_sandpile" GUID="TidlWrRBR0a7F/2QNKgMhg==" />
+		<POI MapID="1263" xpos="-482.376" ypos="2.37095" zpos="768.133" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_tradecache" GUID="V7N4oaFOm0WiketXn7nNRg==" />
+		<POI MapID="1263" xpos="-154.491" ypos="10.4352" zpos="711.854" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_tradecache" GUID="bDt6sruTckKjw4bQP2ds/g==" />
+		<POI MapID="1263" xpos="246.917" ypos="16.3112" zpos="435.062" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_tradecache" GUID="cDWKNltcMka9VGz9U60KTw==" />
+		<POI MapID="1263" xpos="-10.3136" ypos="39.0636" zpos="588.202" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_tradecache" GUID="nLEdotbsNECH93huxK945Q==" />
+		<POI MapID="1263" xpos="-800.177" ypos="176.043" zpos="640.597" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_tradecache" GUID="kQeaj+LIJEqDACjPdJuZ+w==" />
+		<POI MapID="1263" xpos="-338.582" ypos="11.1504" zpos="872.302" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_tradecache" GUID="cicrbO2gekKi6hUsStJcNg==" />
+		<POI MapID="1263" xpos="26.7217" ypos="34.8224" zpos="233.803" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_tradecache" GUID="CKhvVMb1S0aMJ9iNvwtW7Q==" />
+		<POI MapID="1263" xpos="-191.515" ypos="73.9423" zpos="119.223" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_tradecache" GUID="fVvB1V2Y/Em3zZGmZCdoSw==" />
+		<POI MapID="1263" xpos="511.487" ypos="71.0157" zpos="-595.983" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_tradecache" GUID="lQcZRZ4znEmEL1TTy1Ed2A==" />
+		<POI MapID="1263" xpos="190.3" ypos="6.89275" zpos="17.8895" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_supplycaches" GUID="HF46HXqSOUCU70AcBXR1yw==" />
+		<POI MapID="1263" xpos="271.7" ypos="19.3033" zpos="-68.4513" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_supplycaches" GUID="4cJunjjAdEaw/D3NvFjnvQ==" />
+		<POI MapID="1263" xpos="314.903" ypos="7.07889" zpos="-138.545" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_supplycaches" GUID="e0hC1lLV2UW6dqxp7RXWEQ==" />
+		<POI MapID="1263" xpos="315.319" ypos="12.1434" zpos="-31.4749" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_supplycaches" GUID="dy8uLM+HkEqkNZ4Umnuelw==" />
+		<POI MapID="1263" xpos="273.809" ypos="36.4676" zpos="-79.9437" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_supplycaches" GUID="+MSGuiXpdUSW+9NjmhqjNg==" />
+		<POI MapID="1263" xpos="356.989" ypos="36.4676" zpos="-77.1868" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_supplycaches" GUID="Y8tYydAQ+UWbbeKK1cxVVw==" />
+		<POI MapID="1263" xpos="472.392" ypos="6.99954" zpos="-78.2915" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_supplycaches" GUID="YB4MxPRYBEayQLUk22FxJg==" />
+		<POI MapID="1263" xpos="245.007" ypos="12.6518" zpos="-69.0155" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_tradecache" GUID="r1fEiT5tdUeEenv6edlSgQ==" />
+		<POI MapID="1263" xpos="99.0355" ypos="29.9873" zpos="-130.334" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_supplycaches" GUID="ZUpP5wFteUS/6dNfi5IR3g==" />
+		<POI MapID="1263" xpos="140.94" ypos="17.5942" zpos="-78.1915" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_supplycaches" GUID="p8yes7+VOUaIIrK6JjjxzA==" />
+		<POI MapID="1263" xpos="323.81" ypos="12.8329" zpos="39.1796" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_supplycaches" GUID="kB90d9qX006MWI7KGNk7Cg==" />
+		<POI MapID="1263" xpos="329.27" ypos="13.5801" zpos="111.138" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_supplycaches" GUID="egO6YOiNG0SNWTG7EFg36A==" />
+		<POI MapID="1263" xpos="400.986" ypos="13.6547" zpos="-189.437" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_tradecache" GUID="uo4RK/VX7UCDlxXjbNiyFQ==" />
+		<POI MapID="1263" xpos="451.694" ypos="8.81713" zpos="-200.149" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_supplycaches" GUID="xZQ0p6wFkEm+61hKYMaH1w==" />
+		<POI MapID="1263" xpos="664.295" ypos="16.1824" zpos="19.7178" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_tradecache" GUID="gNxiFoggGEGPFWBmpAwjew==" />
+		<POI MapID="1263" xpos="627.952" ypos="17.2816" zpos="268.541" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_supplycaches" GUID="6pUUtWSG2U2FQ2KAOScqmw==" />
+		<POI MapID="1263" xpos="595.019" ypos="17.4135" zpos="234.081" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_supplycaches" GUID="UTnZiQatT0i14NccGlVttw==" />
+		<POI MapID="1263" xpos="628.024" ypos="16.8765" zpos="200.506" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_supplycaches" GUID="06DBOGQksUuH1IbGgcurcQ==" />
+		<POI MapID="1263" xpos="691.448" ypos="44.9421" zpos="192.76" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_supplycaches" GUID="LOYAIkhsBkGYTUkRxA+CKw==" />
+		<POI MapID="1263" xpos="645.35" ypos="41.6849" zpos="301.763" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_supplycaches" GUID="j+tmher9JUGWtdlL2B/+Gg==" />
+		<POI MapID="1263" xpos="555.402" ypos="37.2659" zpos="282.384" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_supplycaches" GUID="K1Od7t5QNU2SYgwlv6en3g==" />
+		<POI MapID="1263" xpos="489.98" ypos="31.3122" zpos="258.34" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_supplycaches" GUID="7GC6GoBW30qi5go4mqJNnQ==" />
+		<POI MapID="1263" xpos="415.786" ypos="26.3357" zpos="258.933" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_supplycaches" GUID="gFNAFN2vBEy45IzC7vpQ8g==" />
+		<POI MapID="1263" xpos="639.475" ypos="6.99971" zpos="-17.9401" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_supplycaches" GUID="WNK9RhvoxUijHeBAuy/WOQ==" />
+		<POI MapID="1263" xpos="654.927" ypos="7.44676" zpos="-111.057" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_supplycaches" GUID="cbrpVroGkUGoU0fuOCuJlg==" />
+		<POI MapID="1263" xpos="655.661" ypos="7.00604" zpos="-143.923" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_supplycaches" GUID="OpKEKbQ/mEuAPEagWeddwg==" />
+		<POI MapID="1263" xpos="695.835" ypos="21.3216" zpos="-75.6388" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_supplycaches" GUID="qsVt2fkPk0qeu79IcJ3Rcg==" />
+		<POI MapID="1263" xpos="677.19" ypos="7.48071" zpos="4.968" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_supplycaches" GUID="ZFWAICVdik6WL2a3cABmew==" />
+		<POI MapID="1263" xpos="701.225" ypos="7.49872" zpos="-60.8188" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_supplycaches" GUID="hfKzW3nwXEGhXzPNy1yUOw==" />
+		<POI MapID="1263" xpos="230.967" ypos="6.28092" zpos="-156.504" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_sandpile" GUID="+c8h/7y9+k+xUoglxv2Ccw==" />
+		<POI MapID="1263" xpos="244.013" ypos="7.34069" zpos="85.8801" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_supplycaches" GUID="TYdmFJs7MEWqzAKCL4Fohg==" />
+		<POI MapID="1263" xpos="521.38" ypos="13.0807" zpos="-225.289" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_supplycaches" GUID="HssFegiMCkOG6EHU37hvOA==" />
+		<POI MapID="1263" xpos="521.322" ypos="13.0812" zpos="-204.447" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_supplycaches" GUID="D9ekU6B4dU66L+JBvoyLLA==" />
+		<POI MapID="1263" xpos="288.466" ypos="7.01709" zpos="-184.797" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_supplycaches" GUID="bu6OOLKJhECw1XzocAeSZw==" />
+		<POI MapID="1263" xpos="-77.3758" ypos="60.9662" zpos="207.861" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_supplycaches" GUID="glWDLv88/EWjJ+MUXFGbqA==" />
+		<POI MapID="1263" xpos="-67.7131" ypos="62.0816" zpos="216.437" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_supplycaches" GUID="yhgsKZerq06Paddu+PK+zg==" />
+		<POI MapID="1263" xpos="-153.259" ypos="68.3987" zpos="245.758" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_tradecache" GUID="qEtFMEzHF0CcRb1d6SwFCg==" />
+		<POI MapID="1263" xpos="-142.626" ypos="68.5992" zpos="266.513" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_supplycaches" GUID="UHTFCDJTx0+azhS1hSWDcg==" />
+		<POI MapID="1263" xpos="-115.817" ypos="68.5988" zpos="267.086" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_supplycaches" GUID="eQOZBD+0h02pK95+qZSDDw==" />
+		<POI MapID="1263" xpos="-165.237" ypos="71.1616" zpos="290.362" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_supplycaches" GUID="IBHzQjOXi0u8SHpht+i3gg==" />
+		<POI MapID="1263" xpos="-153.833" ypos="61.1462" zpos="237.34" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_supplycaches" GUID="lsJGOwSXK02ABm2OBgJfHw==" />
+		<POI MapID="1263" xpos="-139.172" ypos="61.2759" zpos="227.992" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_supplycaches" GUID="MXRjdxOhXUWvRkxrnZWAQw==" />
+		<POI MapID="1263" xpos="-97.3352" ypos="71.1486" zpos="290.726" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_supplycaches" GUID="OQln2tfY4EenkJo7VCRKiQ==" />
+		<POI MapID="1263" xpos="-152.499" ypos="63.3583" zpos="322.468" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_supplycaches" GUID="ZmzGsu2WkUuSxC3NoDpp5Q==" />
+		<POI MapID="1263" xpos="-143.304" ypos="63.3583" zpos="358.87" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_supplycaches" GUID="uNcfSUwsO0W8ZN7iyjyHKw==" />
+		<POI MapID="1263" xpos="-115.999" ypos="63.3583" zpos="359.288" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_supplycaches" GUID="Nx6ktsVXGUay9EgNKPFM3Q==" />
+		<POI MapID="1263" xpos="-105.512" ypos="63.3583" zpos="322.921" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_supplycaches" GUID="wFXOVGSkbkijDfPCOfA30A==" />
+		<POI MapID="1263" xpos="-315.121" ypos="57.4763" zpos="359.863" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_sandpile" GUID="jFsYErxlC0mmT+b3MYN8Ww==" />
+		<POI MapID="1263" xpos="-218.861" ypos="61.7331" zpos="257.133" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_sandpile" GUID="mCzuFFgBG0aAxHXDx3gEnw==" />
+		<POI MapID="1263" xpos="-574.124" ypos="50.6271" zpos="76.0482" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_sandpile" GUID="hBj2JQWXQUWxHfEIYOqoxQ==" />
+		<POI MapID="1263" xpos="-848.037" ypos="74.5373" zpos="-135.377" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_tradecache" GUID="xABJIEBVOE6cimoyypJAfQ==" />
+		<POI MapID="1263" xpos="-699.335" ypos="83.083" zpos="-156.838" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_tradecache" GUID="OHmOmIaL0065dC9wDIPPrg==" />
+		<POI MapID="1263" xpos="-830.957" ypos="64.817" zpos="-348.472" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_sunspearcaches.tw_lws4_domainofistan_sunspearcaches_sunspearcache" GUID="prBZT+NFNUGUXtyUWvMrBw==" />
+		<POI MapID="1263" xpos="-598.164" ypos="42.1669" zpos="201.531" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_tradecache" GUID="4zfzbG3a7U6iK0pSvs6mzA==" />
+		<POI MapID="1263" xpos="-702.611" ypos="88.1773" zpos="280.803" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_tradecache" GUID="VRwN0lMkY022W6Gz1gayjg==" />
+		<POI MapID="1263" xpos="-808.705" ypos="97.4723" zpos="-25.8081" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_sunspearcaches.tw_lws4_domainofistan_sunspearcaches_sunspearcache" GUID="9x7BZuA/5UGcClMn6c9gvg==" />
+		<POI MapID="1263" xpos="-520.964" ypos="88.8538" zpos="-162.603" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_sunspearcaches.tw_lws4_domainofistan_sunspearcaches_sunspearcache" GUID="5X3/2Zfh90efTK5FX4y7gg==" />
+		<POI MapID="1263" xpos="-457.541" ypos="73.1713" zpos="-75.2617" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_sunspearcaches.tw_lws4_domainofistan_sunspearcaches_sunspearcache" GUID="W7AWhu/EWE2jPAYA8l1JIA==" />
+		<POI MapID="1263" xpos="-451.525" ypos="58.6145" zpos="-75.3972" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_tradecache" GUID="i1pOYy/Xbkeeq1wFCxXSmA==" />
+		<POI MapID="1263" xpos="-320.681" ypos="25.8756" zpos="-53.4944" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_sunspearcaches.tw_lws4_domainofistan_sunspearcaches_sunspearcache" GUID="HeBqvj//zUuYHtOx1lpjpQ==" />
+		<POI MapID="1263" xpos="172.58" ypos="46.3119" zpos="259.364" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_sunspearcaches.tw_lws4_domainofistan_sunspearcaches_sunspearcache" GUID="zyKxdJIE4EurQnnPgS/zXA==" />
+		<POI MapID="1263" xpos="394.471" ypos="12.3861" zpos="38.3905" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_tradecache" GUID="B8vC3FaTj02rmO9o71Xzbg==" />
+		<POI MapID="1263" xpos="345.602" ypos="12.4855" zpos="66.6444" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_supplycaches" GUID="e8h/4X+DX0Omwi0/nmAfwA==" />
+		<POI MapID="1263" xpos="471.896" ypos="6.96704" zpos="-62.8126" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_tradecache" GUID="JnQaWVR66EmUPU0KH1z5Hg==" />
+		<POI MapID="1263" xpos="262.755" ypos="8.42724" zpos="-221.351" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_supplycaches" GUID="pN1rlDMDTkyLAcAFNxFJew==" />
+		<POI MapID="1263" xpos="375.315" ypos="12.7984" zpos="-215.975" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_supplycaches" GUID="xpEifAV3S0iYdX5m4g0VYw==" />
+		<POI MapID="1263" xpos="663.539" ypos="17.0755" zpos="234.269" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_supplycaches" GUID="NSTH8MJhKU6do5KNpOcjGw==" />
+		<POI MapID="1263" xpos="519.368" ypos="34.3489" zpos="229.828" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_supplycaches" GUID="0m5y1CzocEKuyezirREUqg==" />
+		<POI MapID="1263" xpos="163.677" ypos="7.2247" zpos="46.0787" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_supplycaches" GUID="uyUupYEunEuaXa0IMsaxeQ==" />
+		<POI MapID="1263" xpos="83.3314" ypos="36.9754" zpos="-56.9287" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_supplycaches" GUID="QnFbOxA52kKa8LTI1rkppg==" />
+		<POI MapID="1263" xpos="315.284" ypos="118.26" zpos="-461.931" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_sunspearcaches.tw_lws4_domainofistan_sunspearcaches_sunspearcache" GUID="t1K7WULxiUm7W0C9ojojuw==" />
+		<POI MapID="1263" xpos="-24.8416" ypos="177.408" zpos="-179.581" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_sunspearcaches.tw_lws4_domainofistan_sunspearcaches_sunspearcache" GUID="eF2vgDD+z0W0sG4v4BJ5ow==" />
+		<POI MapID="1263" xpos="-109.128" ypos="155.65" zpos="-238.112" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_sunspearcaches.tw_lws4_domainofistan_sunspearcaches_sunspearcache" GUID="kDYdOmkph0iGuSGod1YLgw==" />
+		<POI MapID="1263" xpos="-127.139" ypos="264.612" zpos="-32.613" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_sunspearcaches.tw_lws4_domainofistan_sunspearcaches_sunspearcache" GUID="BkXpLoQ+Ski7NudIdByXBA==" />
+		<POI MapID="1263" xpos="-533.109" ypos="38.4727" zpos="224.127" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_sunspearcaches.tw_lws4_domainofistan_sunspearcaches_sunspearcache" GUID="daaT60Mw+UmUatK4STjaVg==" />
+		<POI MapID="1263" xpos="-127.935" ypos="111.627" zpos="56.5348" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_tradecache" GUID="DnyriiSKFE6MFtop/H6B8g==" />
+		<POI MapID="1263" xpos="-145.97" ypos="111.074" zpos="37.8379" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_sunspearcaches.tw_lws4_domainofistan_sunspearcaches_sunspearcache" GUID="N+MevzQyOkCca+Gtmk2SLg==" />
+		<POI MapID="1263" xpos="-551.2" ypos="83.4827" zpos="488.779" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_tradecache" GUID="9Okn2yyUZEOIt2Rh2YwvBg==" />
+		<POI MapID="1263" xpos="-261.277" ypos="8.32559" zpos="530.057" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_sunspearcaches.tw_lws4_domainofistan_sunspearcaches_sunspearcache" GUID="VtpJoyw8u0i55BIk3WWHnQ==" />
+		<POI MapID="1263" xpos="-127.001" ypos="68.9111" zpos="266.131" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_tradecache" GUID="BcNZ13tEpkGKkLXnsisQgQ==" />
+		<POI MapID="1263" xpos="-145.235" ypos="61.2971" zpos="232.573" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_supplycaches" GUID="BZQI+08jH02hscakFYkW8w==" />
+		<POI MapID="1263" xpos="101.932" ypos="46.607" zpos="-554.458" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_sunspearcaches.tw_lws4_domainofistan_sunspearcaches_sunspearcache" GUID="j3j6z5QJGke4iLWTGqcKzg==" />
+		<POI MapID="1263" xpos="-851.883" ypos="31.4856" zpos="574.328" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_tradecache" GUID="/Q4LCpzUZkuU74QChkiI5w==" />
+		<POI MapID="1263" xpos="282.266" ypos="86.8046" zpos="582.775" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_sunspearcaches.tw_lws4_domainofistan_sunspearcaches_sunspearcache" GUID="5A0Nz0eLyUKMlo/mTV5N1w==" />
+		<POI MapID="1263" xpos="132.084" ypos="90.8372" zpos="683.579" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_sunspearcaches.tw_lws4_domainofistan_sunspearcaches_sunspearcache" GUID="WecAc3f7pkqvN4BtnGQDRw==" />
+		<POI MapID="1263" xpos="183.547" ypos="211.971" zpos="467.539" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_sunspearcaches.tw_lws4_domainofistan_sunspearcaches_sunspearcache" GUID="TGjjjaDD10CPIP2qxXVqHg==" />
+		<POI MapID="1263" xpos="161.934" ypos="6.91625" zpos="-21.6409" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_tradecache" GUID="jRiLe6yps0mLZmEfVfIjLg==" />
+		<POI MapID="1263" xpos="-839.061" ypos="111.955" zpos="734.718" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_tradecache" GUID="Nh3/ws87UUKeB9kJMyXdcA==" />
+		<POI MapID="1263" xpos="-112.675" ypos="28.0347" zpos="701.482" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_tradecache" GUID="0HHZ0sA200+Gc5w8e3zDAQ==" />
+		<POI MapID="1263" xpos="-379.198" ypos="3.47681" zpos="777.507" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_tradecache" GUID="XGgW+eRlFkO1JxxFVSYdtw==" />
+		<POI MapID="1263" xpos="78.5978" ypos="147.915" zpos="-358.599" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_tradecache" GUID="fZjaAvI2S0yX7j0jfL+CmQ==" />
+		<POI MapID="1263" xpos="563.241" ypos="12.4737" zpos="-227.6" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_tradecache" GUID="49SpH/iaskKTma980Oz2OA==" />
+		<POI MapID="1263" xpos="412.396" ypos="2.182" zpos="449.952" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_tradecache" GUID="/hMMJua/s0S6vMYOVCumdQ==" />
+		<POI MapID="1263" xpos="222.258" ypos="42.4288" zpos="363.597" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_tradecache" GUID="T4VGEcokdkyh7B5sWqbhZQ==" />
+		<POI MapID="1263" xpos="-18.6282" ypos="54.9913" zpos="112.419" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_tradecache" GUID="IGQTgH8WrU+AV7rb6x7ccg==" />
+		<POI MapID="1263" xpos="-490.595" ypos="84.5663" zpos="-335.76" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_tradecache" GUID="FxbQJ9uxDEmF2TbxzPHFeA==" />
+		<POI MapID="1263" xpos="-370.275" ypos="84.2469" zpos="-437.109" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_sandpile" GUID="Vi7FaSjtqkqUolRK9lqqAQ==" />
+		<POI MapID="1263" xpos="-366.654" ypos="84.3554" zpos="-437.047" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_sunspearcaches.tw_lws4_domainofistan_sunspearcaches_sunspearcache" GUID="2Vx9y2oROk6MM/VxXWB5RA==" />
+		<POI MapID="1263" xpos="-468.003" ypos="84.9244" zpos="-488.724" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_tradecache" GUID="LvtjqeBgcU+Qlsh4RJHcTQ==" />
+		<POI MapID="1263" xpos="-684.312" ypos="82.6748" zpos="-462.064" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_sunspearcaches.tw_lws4_domainofistan_sunspearcaches_sunspearcache" GUID="5RgdgsVwq0yLUtE02d2kdQ==" />
+		<POI MapID="1263" xpos="-725.676" ypos="30.3895" zpos="-369.232" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_tradecache" GUID="Ij7hmKckBUmNklgr1A+1NA==" />
+		<POI MapID="1263" xpos="-451.641" ypos="64.1448" zpos="-369.189" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_sunspearcaches.tw_lws4_domainofistan_sunspearcaches_sunspearcache" GUID="7xu0R8aRh0yh3b4jnbcGAQ==" />
+		<POI MapID="1263" xpos="-603.903" ypos="51.155" zpos="-38.7935" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_sunspearcaches.tw_lws4_domainofistan_sunspearcaches_sunspearcache" GUID="/WPPZhVC4UmsDaHxxhcIwg==" />
+		<POI MapID="1263" xpos="-675.358" ypos="87.2266" zpos="133.001" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_sandpile" GUID="e1ThsOYrxUOnqkH3WXg7yg==" />
+		<POI MapID="1263" xpos="-723.245" ypos="74.1816" zpos="194.103" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_tradecache" GUID="5kl9M5mcU0y6E1TVltHAUw==" />
+		<POI MapID="1263" xpos="-774.466" ypos="91.2697" zpos="169.72" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_sunspearcaches.tw_lws4_domainofistan_sunspearcaches_sunspearcache" GUID="oK69+AVRZ0Sg+WnpY8rWrQ==" />
+		<POI MapID="1263" xpos="-884.721" ypos="75.9015" zpos="91.9236" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_sunspearcaches.tw_lws4_domainofistan_sunspearcaches_sunspearcache" GUID="B+3D0RHSRUSL6GNc9bDISg==" />
+		<POI MapID="1263" xpos="-661.918" ypos="42.0112" zpos="359.969" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_tradecache" GUID="oZ3zfnvUIUOvu5r6Va7mDg==" />
+		<POI MapID="1263" xpos="-501.545" ypos="5.02357" zpos="323.056" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_tradecache" GUID="xzWc9zRa3UyNmjZb9f3LQA==" />
+		<POI MapID="1263" xpos="-919.825" ypos="105.495" zpos="735.151" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_sandpile" GUID="oXVsjwfn+ECcxz1bZKrlUg==" />
+		<POI MapID="1263" xpos="-201.909" ypos="1.79177" zpos="750.555" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_tradecache" GUID="WKPAksap+UWysKqmdndYDA==" />
+		<POI MapID="1263" xpos="101.961" ypos="5.72563" zpos="726.362" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_sunspearcaches.tw_lws4_domainofistan_sunspearcaches_sunspearcache" GUID="XTIGiYhm10K6N38TxCr0MQ==" />
+		<POI MapID="1263" xpos="138.096" ypos="10.5123" zpos="51.8051" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_sandpile" GUID="NjbdWvvEz0OWMdsYEZb5aQ==" />
+		<POI MapID="1263" xpos="661.818" ypos="15.7292" zpos="-10.9" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_supplycaches" GUID="37Z4cRhxNU2VrD9kf9BU4A==" />
+		<POI MapID="1263" xpos="-531.067" ypos="85.0356" zpos="-173.628" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_tradecache" GUID="edME/XqgXkmtXGrOTMiWpg==" />
+		<POI MapID="1263" xpos="-800.06" ypos="58.2518" zpos="-377.462" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_sandpile" GUID="CLGL4ODKFUS7ab6zx9gh4A==" />
+		<POI MapID="1263" xpos="-893.955" ypos="84.8262" zpos="-251.612" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_tradecache" GUID="r19FQ2qXo0O94TqILXtQ5Q==" />
+		<POI MapID="1263" xpos="-578.488" ypos="50.5519" zpos="-38.8904" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_tradecache" GUID="i8qJwcrlQUWvgZqqaUzwQA==" />
+		<POI MapID="1263" xpos="-83.6268" ypos="70.9453" zpos="288.95" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_tradecache" GUID="0LYUKgI1L0K96DviGPAneQ==" />
+		<POI MapID="1263" xpos="-561.631" ypos="1.62546" zpos="-687.286" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_sunspearcaches.tw_lws4_domainofistan_sunspearcaches_sunspearcache" GUID="o4D02rXQTUGRCLrdWk1xBA==" />
+		<POI MapID="1263" xpos="-638.939" ypos="114.785" zpos="-320.843" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_sunspearcaches.tw_lws4_domainofistan_sunspearcaches_sunspearcache" GUID="l0YvT0+U3EizJj12DYW0rA==" />
+		<POI MapID="1263" xpos="-169.449" ypos="63.1984" zpos="312.987" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_tradecache" GUID="hAeHI3Ssskufb7DObKpMoQ==" />
+		<POI MapID="1263" xpos="-129.704" ypos="62.4421" zpos="340.184" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_supplycaches" GUID="ILjz7j3380uD2N55KHOmZA==" />
+		<POI MapID="1263" xpos="308.006" ypos="197.761" zpos="-520.491" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_sunspearcaches.tw_lws4_domainofistan_sunspearcaches_sunspearcache" GUID="pwMHp8pGR0up0p+gsNGY1Q==" />
+		<POI MapID="1263" xpos="215.29" ypos="239.215" zpos="-477.834" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_sunspearcaches.tw_lws4_domainofistan_sunspearcaches_sunspearcache" GUID="G8aPNQGC8kG7dPmbNG7xhg==" />
+		<POI MapID="1263" xpos="476.232" ypos="86.1774" zpos="-626.351" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_sunspearcaches.tw_lws4_domainofistan_sunspearcaches_sunspearcache" GUID="W+t22uPzCEuBLdp4Mvd05Q==" />
+		<POI MapID="1263" xpos="650.527" ypos="24.9553" zpos="-132.011" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_supplycaches" GUID="bWqMDT/uLk2LRRuHo2IXUg==" />
+		<POI MapID="1263" xpos="706.002" ypos="7.5254" zpos="-79.2028" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_supplycaches" GUID="AdlaQ9iejUefPyPZX0xLyQ==" />
+		<POI MapID="1263" xpos="521.465" ypos="29.3408" zpos="-85.7968" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_tradecache" GUID="uZUHSwQCjEyPcmijXHB4Tg==" />
+		<POI MapID="1263" xpos="666.599" ypos="28.8426" zpos="105.276" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_tradecache" GUID="y03BEiqvn0qiV3gPNwCsXw==" />
+		<POI MapID="1263" xpos="132.816" ypos="31.9421" zpos="275.502" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_tradecache" GUID="BBb3XZEZ306pEITlKF4h9A==" />
+		<POI MapID="1263" xpos="-89.296" ypos="63.1603" zpos="368.086" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_tradecache" GUID="R0f++wi3d0GECfY0BDFVJw==" />
+		<POI MapID="1263" xpos="71.9301" ypos="39.5815" zpos="673.875" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_tradecache" GUID="etk0uuy5sUqUuc6AsmaYeA==" />
+		<POI MapID="1263" xpos="-550.952" ypos="3.01907" zpos="423.705" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_tradecache" GUID="qQaGUrtnSEiyl8pWqx12cg==" />
+		<POI MapID="1263" xpos="-180.529" ypos="157.66" zpos="295.091" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_sunspearcaches.tw_lws4_domainofistan_sunspearcaches_sunspearcache" GUID="epvzcNdySEKeMy/aeIzX1Q==" />
+		<POI MapID="1263" xpos="291.065" ypos="7.21942" zpos="-224.538" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_tradecache" GUID="eW+9Ji7xmkuqs4Tkcs4FXQ==" />
+		<POI MapID="1263" xpos="-34.1763" ypos="207.879" zpos="-105.226" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_sunspearcaches.tw_lws4_domainofistan_sunspearcaches_sunspearcache" GUID="mVuTW3PdsUSopW57Zvndaw==" />
+		<POI MapID="1263" xpos="257.703" ypos="6.83502" zpos="91.584" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_tradecache" GUID="DtBoO9LIjkmXQD5nYrkk/g==" />
+		<POI MapID="1263" xpos="-893.236" ypos="131.426" zpos="301.708" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_tradecache" GUID="6SZmJwJYskmrhPgV/WlDuw==" />
+		<POI MapID="1263" xpos="137.257" ypos="55.913" zpos="220.32" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_tradecache" GUID="1IWFah80v0SV2DoNAJSMTg==" />
+		<POI MapID="1263" xpos="-438.68" ypos="60.5292" zpos="-273.239" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_sandpile" GUID="j8kLiH1FrUWe7VUVLf3E5Q==" />
+		<POI MapID="1263" xpos="-197.365" ypos="11.7262" zpos="-277.842" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_sandpile" GUID="QIoMVfaBq0Gx+n5dk8Obnw==" />
+		<POI MapID="1263" xpos="71.3601" ypos="3.61814" zpos="-370.661" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_sunspearcaches.tw_lws4_domainofistan_sunspearcaches_sunspearcache" GUID="HCwSMGtv8kurgpkFa3/3mg==" />
+		<POI MapID="1263" xpos="314.683" ypos="27.9311" zpos="315.485" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_sandpile" GUID="4FC52AK6BEOS+srXrbprdQ==" />
+		<POI MapID="1263" xpos="-120.491" ypos="58.7399" zpos="429.867" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_tradecache" GUID="PseI4Kq21U26Tjm22EUFVQ==" />
+		<POI MapID="1263" xpos="-555.241" ypos="2.7578" zpos="425.716" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_sunspearcaches.tw_lws4_domainofistan_sunspearcaches_sunspearcache" GUID="cMl6HXEaBEGyvmQtSuV3dQ==" />
+		<POI MapID="1263" xpos="313.425" ypos="119.036" zpos="-461.666" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_tradecache" GUID="3eAUxI7o5EyRG109y5k/TQ==" />
+		<POI MapID="1263" xpos="179.42" ypos="112.053" zpos="566.048" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_sunspearcaches.tw_lws4_domainofistan_sunspearcaches_sunspearcache" GUID="lBX4ysPPVEOZLbTr1MdDew==" />
+		<POI MapID="1263" xpos="-822.945" ypos="122.283" zpos="696.004" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_tradecache" GUID="qK8GwqENd0S0SxtuUBdHvQ==" />
+		<POI MapID="1263" xpos="-758.793" ypos="36.3266" zpos="-297.106" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_confiscatedfood" GUID="SlIsReqB0kuP9tZc4nIFTg==" />
+		<POI MapID="1263" xpos="-683.466" ypos="26.3656" zpos="-369.251" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_confiscatedfood" GUID="6SVy3b615UyMbiBOB6O4gg==" />
+		<POI MapID="1263" xpos="-681.955" ypos="26.3656" zpos="-372.047" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_confiscatedfood" GUID="sojsjCnzx0+LCcg6bmphAw==" />
+		<POI MapID="1263" xpos="-685.932" ypos="26.4875" zpos="-374.286" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_confiscatedfood" GUID="c0pHmxxZXUaw01feS8XVLg==" />
+		<POI MapID="1263" xpos="-682.489" ypos="26.4875" zpos="-375.687" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_confiscatedfood" GUID="VBZjq0228kmp9h85HGr62w==" />
+		<POI MapID="1263" xpos="-663.426" ypos="28.8843" zpos="-324.912" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_confiscatedfood" GUID="X7Tpw25jCEqclC208Ik/2g==" />
+		<POI MapID="1263" xpos="-573.579" ypos="83.1506" zpos="-199.871" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_confiscatedfood" GUID="YcVck5l5iEqRRtEjueGySQ==" />
+		<POI MapID="1263" xpos="-551.023" ypos="29.1914" zpos="-112.584" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_confiscatedfood" GUID="+Ccx6B/HwkiVureSsTGddA==" />
+		<POI MapID="1263" xpos="-551.15" ypos="29.1522" zpos="-116.238" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_confiscatedfood" GUID="60MdsByC00CUqTbJwz8Jvw==" />
+		<POI MapID="1263" xpos="-544.724" ypos="28.8913" zpos="-114.647" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_confiscatedfood" GUID="FhMEsp3kukWpL1sFRNXRYA==" />
+		<POI MapID="1263" xpos="-627.148" ypos="47.7003" zpos="-24.1026" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_confiscatedfood" GUID="6PHk8dWiCUyCU0hEkvom/w==" />
+		<POI MapID="1263" xpos="-629.474" ypos="47.4625" zpos="-27.4158" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_confiscatedfood" GUID="9TyQRiWCGk6g0HWwgxDRww==" />
+		<POI MapID="1263" xpos="-626.265" ypos="47.4807" zpos="-28.8831" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_confiscatedfood" GUID="ubt8eCtEJkuDq45XZbOlYg==" />
+		<POI MapID="1263" xpos="-832.843" ypos="64.2597" zpos="-329.647" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_confiscatedfood" GUID="wgUHefFdRkOidaFOPJSpUw==" />
+		<POI MapID="1263" xpos="-835.742" ypos="64.3477" zpos="-326.151" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_confiscatedfood" GUID="Sf5daGHsikOp3b1GHVkqkg==" />
+		<POI MapID="1263" xpos="-837.225" ypos="64.5784" zpos="-331.108" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_confiscatedfood" GUID="9h9mVfQ5sE2xRC1MkIKOJg==" />
+		<POI MapID="1263" xpos="-835.572" ypos="64.5797" zpos="-332.646" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_confiscatedfood" GUID="g0UgZQWAAkG0a+HXDg22Xg==" />
+		<POI MapID="1263" xpos="-623.726" ypos="57.6023" zpos="-305.677" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_confiscatedfood" GUID="hGoL9/tdGkyGCZe2c9+0ww==" />
+		<POI MapID="1263" xpos="-629.137" ypos="59.3968" zpos="-325.428" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_confiscatedfood" GUID="JCdqr+NMRk+tdAC3bCyb4g==" />
+		<POI MapID="1263" xpos="-651.917" ypos="44.8915" zpos="-295.27" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_confiscatedfood" GUID="4cbkDMcTgECMgWD2UnAFaw==" />
+		<POI MapID="1263" xpos="587.836" ypos="12.4797" zpos="-153.561" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_tradecache" GUID="eA3biwNCgke1DwFqI125Gg==" />
+		<POI MapID="1263" xpos="119.839" ypos="36.872" zpos="-102.339" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_tradecache" GUID="FjI/3E1ytEyvhKA+YqH/MQ==" />
+		<POI MapID="1263" xpos="-488.493" ypos="25.0214" zpos="-206.727" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_confiscatedfood" GUID="Y/d4rPZM50SFbKR3q7r/MQ==" />
+		<POI MapID="1263" xpos="-485.388" ypos="24.9132" zpos="-206.116" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_confiscatedfood" GUID="tiwj4ZLRfUaFGSJfH4W0Pw==" />
+		<POI MapID="1263" xpos="-486.405" ypos="25.4618" zpos="-209.55" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_confiscatedfood" GUID="cDG3Nsi/PEW3fhqHdc9o5Q==" />
+		<POI MapID="1268" xpos="-195.437" ypos="54.1667" zpos="-149.697" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_confiscatedfood" GUID="If7bacdT+0WTQn3GnL7RzQ==" />
+		<POI MapID="1263" xpos="-102.994" ypos="60.8866" zpos="277.463" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_sandpile" GUID="ovRUd4VlM0ewRnIYzawzgg==" />
+		<POI MapID="1263" xpos="-778.309" ypos="135.828" zpos="681.353" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_tradecache" GUID="+l9B3tPH80qnFVnd0Y1Iaw==" />
+		<POI MapID="1263" xpos="436.149" ypos="10.7952" zpos="-293.778" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_tradecache" GUID="ORzPwe50RkeGJdiUxy549A==" />
+		<POI MapID="1263" xpos="-554.494" ypos="38.6575" zpos="-466.657" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_tradecache" GUID="3AcgGRcRjEiDXeUjZDDi2g==" />
+		<POI MapID="1263" xpos="84.6245" ypos="124.824" zpos="-169" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_tradecache" GUID="sY+poX6I1kOcFh4LSV6JIA==" />
+		<POI MapID="1263" xpos="372.82" ypos="29.1032" zpos="262.487" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_tradecache" GUID="dsedsIA+4UKWO3Dav+YYFQ==" />
+		<POI MapID="1263" xpos="-648.139" ypos="1.28851" zpos="270.78" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_tradecache" GUID="qRPXBQfCrEiMD26j0J5lNA==" />
+		<POI MapID="1263" xpos="-811.201" ypos="98.6188" zpos="814.667" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_tradecache" GUID="4gczqLp2FECZ0YYy4BtjaA==" />
+		<POI MapID="1263" xpos="-513.981" ypos="140.188" zpos="-413.571" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_sunspearcaches.tw_lws4_domainofistan_sunspearcaches_sunspearcache" GUID="QUE9y7ccGEG9B35gxtigSA==" />
+		<POI MapID="1263" xpos="180.251" ypos="8.48649" zpos="-148.305" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_tradecache" GUID="YD1QCP0PSk2vW3JBr9cClg==" />
+		<POI MapID="1263" xpos="440.762" ypos="83.3731" zpos="-680.431" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_sandpile" GUID="fWMaSuesrkGg1byd8ImnBg==" />
+		<POI MapID="1263" xpos="560.716" ypos="1.79023" zpos="85.8493" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_sandpile" GUID="8rbsr6tr00igUgjWCYQhAw==" />
+		<POI MapID="1263" xpos="-788.424" ypos="50.9411" zpos="141.121" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_tradecache" GUID="bDAI3AyNG0uNWV8CbTVRZQ==" />
+		<POI MapID="1263" xpos="-679.761" ypos="84.235" zpos="-212.32" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_sandpile" GUID="aDDe22G6vUeSm3OBdzmYKA==" />
+		<POI MapID="1263" xpos="-506.903" ypos="44.9038" zpos="174.955" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_tradecache" GUID="T1dhw0+TwEus9p3fgOSWQQ==" />
+		<POI MapID="1263" xpos="-514.155" ypos="44.4785" zpos="281.834" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_sandpile" GUID="ktL6Jauob0Gog3ZRu6AUpA==" />
+		<POI MapID="1263" xpos="-819.958" ypos="164.002" zpos="677.918" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_tradecache" GUID="rGrnV6+G60a+9lg0Q6hfXQ==" />
+		<POI MapID="1263" xpos="-1019.95" ypos="89.6742" zpos="460.729" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_tradecache" GUID="+T/Ti+J5Y0SYKcJ3LiiCeg==" />
+		<POI MapID="1263" xpos="-727.862" ypos="112.038" zpos="537.662" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_tradecache" GUID="HFeFDZF+nUePq/c5JXMzAw==" />
+		<POI MapID="1263" xpos="86.5371" ypos="36.9754" zpos="-97.46" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_supplycaches" GUID="d/0k1mvi/UGAq9VXAR24kQ==" />
+		<POI MapID="1263" xpos="-866.459" ypos="30.033" zpos="633.864" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_tradecache" GUID="xJZPfTqPSUaplvPcpLIjOQ==" />
+		<POI MapID="1263" xpos="-789.515" ypos="87.8525" zpos="7.1892" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_sandpile" GUID="go3cGa07sU+YsG2B3dPRAw==" />
+		<POI MapID="1263" xpos="-727.406" ypos="85.5166" zpos="17.3349" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_tradecache" GUID="wluB/2R9hkim/ulfT/VuAg==" />
+		<POI MapID="1263" xpos="666.199" ypos="34.7811" zpos="217.443" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_tradecache" GUID="PpLDGoRFNE+/r9YeNudk3g==" />
+		<POI MapID="1263" xpos="57.5198" ypos="134.017" zpos="0.895343" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_tradecache" GUID="d4Z8UVpZEEmookZbLcILaw==" />
+		<POI MapID="1263" xpos="249.653" ypos="79.0773" zpos="-411.766" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_tradecache" GUID="DuqItmShMUOzJ1DwZc1xLA==" />
+		<POI MapID="1263" xpos="168.537" ypos="30.7407" zpos="388.918" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_sandpile" GUID="PnLU1D+3ikeTGCuJjgH22Q==" />
+		<POI MapID="1263" xpos="-564.32" ypos="26.812" zpos="-243.33" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_tradecache" GUID="K50RKfy+oUq/1zxK4FbQXA==" />
+		<POI MapID="1263" xpos="-324.052" ypos="22.833" zpos="-63.5496" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_sandpile" GUID="exGipLBjVEOHiLUQNjAKQg==" />
+		<POI MapID="1263" xpos="-471.193" ypos="14.3748" zpos="-180.815" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_tradecache" GUID="NfrjGhM0aUuEsnTwpEWuvA==" />
+		<POI MapID="1263" xpos="-587.812" ypos="1.18037" zpos="-671.726" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_tradecache" GUID="RVvyRdxT+EugrHcVZr92eQ==" />
+		<POI MapID="1263" xpos="374.811" ypos="119.878" zpos="-413.489" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_sandpile" GUID="NnRKaqlwvUGTf+crhQm9Ug==" />
+		<POI MapID="1263" xpos="172.733" ypos="114.363" zpos="-301.636" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_tradecache" GUID="EF5JLB2Nk06/eleo4ccQAA==" />
+		<POI MapID="1263" xpos="-187.578" ypos="39.9414" zpos="546.05" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_sandpile" GUID="0PS0hgOMrke4m+U8Ek/gBQ==" />
+		<POI MapID="1263" xpos="-440.615" ypos="2.19236" zpos="471.913" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_tradecache" GUID="X/Fbaahqw0GB99vTgQjO7A==" />
+		<POI MapID="1263" xpos="178.135" ypos="49.9984" zpos="235.803" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_tradecache" GUID="mi3GZOXyFEmOtqc7z+pVnA==" />
+		<POI MapID="1263" xpos="-250.003" ypos="216.334" zpos="57.6756" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_sunspearcaches.tw_lws4_domainofistan_sunspearcaches_signs.tw_lws4_domainofistan_sunspearcaches_entrance" GUID="0HjbTHTN6ke3bvRMono6nA==" />
+		<POI MapID="1263" xpos="-19.1283" ypos="182.011" zpos="-174.637" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_sunspearcaches.tw_lws4_domainofistan_sunspearcaches_signs.tw_lws4_domainofistan_sunspearcaches_entrance" GUID="6K+IU7lakk+OSqCZ6AzPRA==" />
+		<POI MapID="1263" xpos="80.061" ypos="230.89" zpos="-334.174" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_sunspearcaches.tw_lws4_domainofistan_sunspearcaches_signs.tw_lws4_domainofistan_sunspearcaches_entrance" GUID="UW3+xaPY3EeIi4GjS+UTvg==" />
+		<POI MapID="1263" xpos="-561.455" ypos="1.54907" zpos="-687.269" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_sunspearcaches.tw_lws4_domainofistan_sunspearcaches_signs.tw_lws4_domainofistan_sunspearcaches_finish" GUID="2s5kjiN9wU+B6HWl5/l1RQ==" />
+		<POI MapID="1263" xpos="337.277" ypos="0.981337" zpos="446.496" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_sunspearcaches.tw_lws4_domainofistan_sunspearcaches_signs.tw_lws4_domainofistan_sunspearcaches_startsignp1" GUID="7NIBSFlX20yY1hYF45s06A==" />
+		<POI MapID="1263" xpos="-850.589" ypos="163.248" zpos="604.759" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_sunspearcaches.tw_lws4_domainofistan_sunspearcaches_signs.tw_lws4_domainofistan_sunspearcaches_startsignp2" GUID="v6dy/L47jkygknOpZRgtjQ==" />
+		<POI MapID="1263" xpos="-859.512" ypos="163.248" zpos="601.72" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_sunspearcaches.tw_lws4_domainofistan_sunspearcaches_signs.tw_lws4_domainofistan_sunspearcaches_startsignp3" GUID="dPF8rLSqoUuCg5A00f+xmA==" />
+		<POI MapID="1263" xpos="-532.971" ypos="38.5299" zpos="224.472" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_sunspearcaches.tw_lws4_domainofistan_sunspearcaches_signs.tw_lws4_domainofistan_sunspearcaches_teleport1" GUID="IbuYLuyM5EyfwrM+HW5SuA==" />
+		<POI MapID="1263" xpos="71.0626" ypos="3.42797" zpos="-370.828" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_sunspearcaches.tw_lws4_domainofistan_sunspearcaches_signs.tw_lws4_domainofistan_sunspearcaches_teleport1" GUID="JG+mYR9110KBlCgEOymOBg==" />
+		<POI MapID="1263" xpos="-822.914" ypos="121.286" zpos="560.673" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_ancientweapons.tw_lws4_domainofistan_ancientweapons_signs.tw_lws4_domainofistan_ancientweapons_trail_pickup" GUID="V14u59RTOEGNvldAymhugA==" />
+		<POI MapID="1263" xpos="-492.044" ypos="107.381" zpos="668.569" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_ancientweapons.tw_lws4_domainofistan_ancientweapons_signs.tw_lws4_domainofistan_ancientweapons_trail_pickup" GUID="GQ3s+Abfy0G6dqSuU4vXlQ==" />
+		<POI MapID="1263" xpos="-417.374" ypos="60.01" zpos="456.287" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_ancientweapons.tw_lws4_domainofistan_ancientweapons_signs.tw_lws4_domainofistan_ancientweapons_trail_pickup" GUID="7+o0qaAl60mHgE4d/t2LpA==" />
+		<POI MapID="1263" xpos="-599.978" ypos="43.1549" zpos="226.754" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_ancientweapons.tw_lws4_domainofistan_ancientweapons_signs.tw_lws4_domainofistan_ancientweapons_trail_pickup" GUID="4XckCmHgQ0izJnzC73l49A==" />
+		<POI MapID="1263" xpos="-772.942" ypos="90.455" zpos="143.25" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_ancientweapons.tw_lws4_domainofistan_ancientweapons_signs.tw_lws4_domainofistan_ancientweapons_trail_pickup" GUID="hItviESvJEaZi8H6eK2KhQ==" />
+		<POI MapID="1263" xpos="-892.63" ypos="130.708" zpos="305.525" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_ancientweapons.tw_lws4_domainofistan_ancientweapons_signs.tw_lws4_domainofistan_ancientweapons_trail_pickup" GUID="firtD4Nn30WVbs4SKO1I3Q==" />
+		<POI MapID="1263" xpos="-823.515" ypos="120.736" zpos="552.389" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_ancientweapons.tw_lws4_domainofistan_ancientweapons_signs.tw_lws4_domainofistan_ancientweapons_startsign" GUID="ex8Ibrty/UmpnaUdFWtoag==" />
+		<POI MapID="1263" xpos="-821.352" ypos="120.736" zpos="554.009" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_ancientweapons.tw_lws4_domainofistan_ancientweapons_signs.tw_lws4_domainofistan_ancientweapons_trail_swap_springer" GUID="B1agPLyTdUeKULVyNXOy3A==" />
+		<POI MapID="1263" xpos="-826.353" ypos="190.639" zpos="617.133" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_ancientweapons.tw_lws4_domainofistan_ancientweapons_signs.tw_lws4_domainofistan_ancientweapons_trail_swap_griffon" GUID="30jj1ckb7UCWvEKuUD5org==" />
+		<POI MapID="1263" xpos="-826.185" ypos="120.63" zpos="548.594" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_ancientweapons.tw_lws4_domainofistan_ancientweapons_signs.tw_lws4_domainofistan_ancientweapons_finish" GUID="gH9tOFwBQ0yqIqkhdorwbg==" />
+		<POI MapID="1263" xpos="-639.007" ypos="143.59" zpos="-314.155" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_masterypoint" GUID="PBgUrbjuA0SF9ivykY31vA==" />
+		<POI MapID="1263" xpos="-391.825" ypos="59.6757" zpos="698.54" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_masterypoint" GUID="kdEzPV4tn0GrNs9jncxuMA==" />
+		<POI MapID="1263" xpos="426.174" ypos="124.456" zpos="-304.889" type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_masterypoint" GUID="2fRYxy/UykermvYNhWMo1Q==" />
+		<Trail type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_sunspearcaches.tw_lws4_domainofistan_sunspearcaches_toggletrail" GUID="xw5CrgMtnkODWCQ8rfs6Fw==" fadeNear="5000" fadeFar="5100" trailData="Data/TekkitsWorkshop/LWS4/DomainOfIstan/tw_lws4_domainofistan_sunspearcaches_toggletrail.trl" animSpeed="0" texture="Data/TekkitsWorkshop/General/tw_trail_b.png" />
+		<Trail type="tw_guides.tw_lws4.tw_lws4_domainofistan.tw_lws4_domainofistan_ancientweapons.tw_lws4_domainofistan_ancientweapons_toggletrail" GUID="0SI0LqJ6wkWT0rGv/7WzlA==" fadeNear="5000" fadeFar="5100" trailData="Data/TekkitsWorkshop/LWS4/DomainOfIstan/tw_lws4_domainofistan_ancientweapons_toggletrail.trl" animSpeed="0" texture="Data/TekkitsWorkshop/General/tw_trail_adv_b.png" />
 	</POIs>
 </OverlayData>

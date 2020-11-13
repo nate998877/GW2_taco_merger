@@ -1,331 +1,312 @@
 <!-- 2019.12.25 -->
 <OverlayData>
 	<POIs>
-
 		<!-- INFOS -->
 		<!-- Door with 3 switches -->
-		<POI MapID="1271" xpos="-251.99"  ypos="2.5"   zpos="-18.98"  type="story_journal.season_4.a_bug_in_the_system" GUID="4Sb/Hea7YkGeuQ+wzXKWYw==" iconFile="Img/Numbers/1.png" fadeNear="1500" fadeFar="2000"/>
-		<POI MapID="1271" xpos="-252.09"  ypos="2.5"   zpos="-15.35"  type="story_journal.season_4.a_bug_in_the_system" GUID="xDLiMhLmv06gpKoQMG8P9g==" iconFile="Img/Numbers/2.png" fadeNear="1500" fadeFar="2000"/>
+		<POI MapID="1271" xpos="-251.99" ypos="2.5" zpos="-18.98" type="story_journal.season_4.a_bug_in_the_system" GUID="4Sb/Hea7YkGeuQ+wzXKWYw==" iconFile="Img/Numbers/1.png" fadeNear="1500" fadeFar="2000" />
+		<POI MapID="1271" xpos="-252.09" ypos="2.5" zpos="-15.35" type="story_journal.season_4.a_bug_in_the_system" GUID="xDLiMhLmv06gpKoQMG8P9g==" iconFile="Img/Numbers/2.png" fadeNear="1500" fadeFar="2000" />
 		<!-- Door with 4 switches -->
-		<POI MapID="1271" xpos="-279.28"  ypos="5.5"   zpos="38.13"   type="story_journal.season_4.a_bug_in_the_system" GUID="r7DLMMN9DUy+pahtQuZy5Q==" iconFile="Img/Numbers/1.png" fadeNear="1500" fadeFar="2000"/>
-		<POI MapID="1271" xpos="-290.37"  ypos="5.5"   zpos="37.33"   type="story_journal.season_4.a_bug_in_the_system" GUID="e4X3PwMrXE+xyu/Z5yMscQ==" iconFile="Img/Numbers/2.png" fadeNear="1500" fadeFar="2000"/>
-		<POI MapID="1271" xpos="-286.91"  ypos="5.5"   zpos="37.49"   type="story_journal.season_4.a_bug_in_the_system" GUID="joG5vfi7Ck6ZDsGtgcSyww==" iconFile="Img/Numbers/3.png" fadeNear="1500" fadeFar="2000"/>
+		<POI MapID="1271" xpos="-279.28" ypos="5.5" zpos="38.13" type="story_journal.season_4.a_bug_in_the_system" GUID="r7DLMMN9DUy+pahtQuZy5Q==" iconFile="Img/Numbers/1.png" fadeNear="1500" fadeFar="2000" />
+		<POI MapID="1271" xpos="-290.37" ypos="5.5" zpos="37.33" type="story_journal.season_4.a_bug_in_the_system" GUID="e4X3PwMrXE+xyu/Z5yMscQ==" iconFile="Img/Numbers/2.png" fadeNear="1500" fadeFar="2000" />
+		<POI MapID="1271" xpos="-286.91" ypos="5.5" zpos="37.49" type="story_journal.season_4.a_bug_in_the_system" GUID="joG5vfi7Ck6ZDsGtgcSyww==" iconFile="Img/Numbers/3.png" fadeNear="1500" fadeFar="2000" />
 		<!-- Door with 6 switches -->
-		<POI MapID="1271" xpos="-335.06"  ypos="8"     zpos="35.03"   type="story_journal.season_4.a_bug_in_the_system" GUID="55JmRcd/+EyZXS3/ykTy0Q==" iconFile="Img/Numbers/1.png" fadeNear="1500" fadeFar="2000"/>
-		<POI MapID="1271" xpos="-350.42"  ypos="8"     zpos="33.92"   type="story_journal.season_4.a_bug_in_the_system" GUID="BiOKUha/10WpfCnig3C7ZA==" iconFile="Img/Numbers/2.png" fadeNear="1500" fadeFar="2000"/>
-		<POI MapID="1271" xpos="-341.31"  ypos="8"     zpos="34.46"   type="story_journal.season_4.a_bug_in_the_system" GUID="Agu0wCN0IEiwQuActmB93w==" iconFile="Img/Numbers/3.png" fadeNear="1500" fadeFar="2000"/>
-		<POI MapID="1271" xpos="-337.94"  ypos="8"     zpos="34.69"   type="story_journal.season_4.a_bug_in_the_system" GUID="zn/NWtpo2EGQ/pM5g1ORUg==" iconFile="Img/Numbers/4.png" fadeNear="1500" fadeFar="2000"/>
+		<POI MapID="1271" xpos="-335.06" ypos="8" zpos="35.03" type="story_journal.season_4.a_bug_in_the_system" GUID="55JmRcd/+EyZXS3/ykTy0Q==" iconFile="Img/Numbers/1.png" fadeNear="1500" fadeFar="2000" />
+		<POI MapID="1271" xpos="-350.42" ypos="8" zpos="33.92" type="story_journal.season_4.a_bug_in_the_system" GUID="BiOKUha/10WpfCnig3C7ZA==" iconFile="Img/Numbers/2.png" fadeNear="1500" fadeFar="2000" />
+		<POI MapID="1271" xpos="-341.31" ypos="8" zpos="34.46" type="story_journal.season_4.a_bug_in_the_system" GUID="Agu0wCN0IEiwQuActmB93w==" iconFile="Img/Numbers/3.png" fadeNear="1500" fadeFar="2000" />
+		<POI MapID="1271" xpos="-337.94" ypos="8" zpos="34.69" type="story_journal.season_4.a_bug_in_the_system" GUID="zn/NWtpo2EGQ/pM5g1ORUg==" iconFile="Img/Numbers/4.png" fadeNear="1500" fadeFar="2000" />
 		<!-- Test Room with 4 consoles -->
-		<POI MapID="1271" xpos="-370.57"  ypos="5.5"   zpos="19.37"   type="story_journal.season_4.a_bug_in_the_system" GUID="g3gMtuzVVEO88yV7c7zfow==" iconFile="Img/Numbers/1.png" fadeNear="1500" fadeFar="2000"/>
-		<POI MapID="1271" xpos="-371.29"  ypos="5.5"   zpos="27.21"   type="story_journal.season_4.a_bug_in_the_system" GUID="Z1A41L/+XEWx+b5wx7nKoA==" iconFile="Img/Numbers/2.png" fadeNear="1500" fadeFar="2000"/>
-		<POI MapID="1271" xpos="-371.14"  ypos="5.5"   zpos="31.21"   type="story_journal.season_4.a_bug_in_the_system" GUID="LbwbUyLao0Wmz1SNG0WldA==" iconFile="Img/Numbers/3.png" fadeNear="1500" fadeFar="2000"/>
+		<POI MapID="1271" xpos="-370.57" ypos="5.5" zpos="19.37" type="story_journal.season_4.a_bug_in_the_system" GUID="g3gMtuzVVEO88yV7c7zfow==" iconFile="Img/Numbers/1.png" fadeNear="1500" fadeFar="2000" />
+		<POI MapID="1271" xpos="-371.29" ypos="5.5" zpos="27.21" type="story_journal.season_4.a_bug_in_the_system" GUID="Z1A41L/+XEWx+b5wx7nKoA==" iconFile="Img/Numbers/2.png" fadeNear="1500" fadeFar="2000" />
+		<POI MapID="1271" xpos="-371.14" ypos="5.5" zpos="31.21" type="story_journal.season_4.a_bug_in_the_system" GUID="LbwbUyLao0Wmz1SNG0WldA==" iconFile="Img/Numbers/3.png" fadeNear="1500" fadeFar="2000" />
 		<!-- Tracking the Scientist (light Puzzle) -->
-		<POI MapID="1282" xpos="-245.709" ypos="152.7" zpos="403.05"  type="story_journal.season_4.a_bug_in_the_system" GUID="V5lEH3XCW0iwOOMyp43yWQ==" iconFile="Img/Season4/TrackingTheScientist_Blue.png"  fadeNear="1500" fadeFar="2000"/>
-		<POI MapID="1282" xpos="-240.171" ypos="152.7" zpos="412.173" type="story_journal.season_4.a_bug_in_the_system" GUID="Bzkfeq+F00+mT3Z+Zm3WDQ==" iconFile="Img/Season4/TrackingTheScientist_Green.png" fadeNear="1500" fadeFar="2000"/>
-		<POI MapID="1282" xpos="-234.346" ypos="152.7" zpos="420.907" type="story_journal.season_4.a_bug_in_the_system" GUID="RCQ8VxeU8kynofj6Dkh+8g==" iconFile="Img/Season4/TrackingTheScientist_Red.png"   fadeNear="1500" fadeFar="2000"/>
-
+		<POI MapID="1282" xpos="-245.709" ypos="152.7" zpos="403.05" type="story_journal.season_4.a_bug_in_the_system" GUID="V5lEH3XCW0iwOOMyp43yWQ==" iconFile="Img/Season4/TrackingTheScientist_Blue.png" fadeNear="1500" fadeFar="2000" />
+		<POI MapID="1282" xpos="-240.171" ypos="152.7" zpos="412.173" type="story_journal.season_4.a_bug_in_the_system" GUID="Bzkfeq+F00+mT3Z+Zm3WDQ==" iconFile="Img/Season4/TrackingTheScientist_Green.png" fadeNear="1500" fadeFar="2000" />
+		<POI MapID="1282" xpos="-234.346" ypos="152.7" zpos="420.907" type="story_journal.season_4.a_bug_in_the_system" GUID="RCQ8VxeU8kynofj6Dkh+8g==" iconFile="Img/Season4/TrackingTheScientist_Red.png" fadeNear="1500" fadeFar="2000" />
 		<!-- A BRANDED BLAST -->
-		<POI MapID="1271" xpos="525.246" ypos="22.7214" zpos="-228.263" type="story_journal.season_4.a_bug_in_the_system.a_branded_blast" GUID="o9iCKIuGjECYKqEf+iR+Xw=="/>
-
+		<POI MapID="1271" xpos="525.246" ypos="22.7214" zpos="-228.263" type="story_journal.season_4.a_bug_in_the_system.a_branded_blast" GUID="o9iCKIuGjECYKqEf+iR+Xw==" />
 		<!-- CABBAGE SHREDDER -->
-		<POI MapID="1281" xpos="-19.9238" ypos="29.5461" zpos="729.446" type="story_journal.season_4.a_bug_in_the_system.cabbage_shredder" GUID="qTZgHfdLA0aHzkIj/pmk0Q=="/>
-		<POI MapID="1281" xpos="-19.9238" ypos="32"      zpos="729.446" type="story_journal.season_4.a_bug_in_the_system.cabbage_shredder" GUID="NXVvHksmiUOgYSlCTguoRA==" iconFile="Img/Season4/CabbageShredder.png" minSize="80" maxSize="80" fadeNear="1500" fadeFar="2000" behavior="0"/>
-
+		<POI MapID="1281" xpos="-19.9238" ypos="29.5461" zpos="729.446" type="story_journal.season_4.a_bug_in_the_system.cabbage_shredder" GUID="qTZgHfdLA0aHzkIj/pmk0Q==" />
+		<POI MapID="1281" xpos="-19.9238" ypos="32" zpos="729.446" type="story_journal.season_4.a_bug_in_the_system.cabbage_shredder" GUID="NXVvHksmiUOgYSlCTguoRA==" iconFile="Img/Season4/CabbageShredder.png" minSize="80" maxSize="80" fadeNear="1500" fadeFar="2000" behavior="0" />
 		<!-- DRONES DISABLED -->
-		<POI MapID="1276" xpos="498.719" ypos="2.45845" zpos="425.951" type="story_journal.season_4.a_bug_in_the_system.drones_disabled" GUID="Gt88FrWukEawATPzXw2dtQ=="/>
-		<POI MapID="1276" xpos="555.938" ypos="2.61773" zpos="434.766" type="story_journal.season_4.a_bug_in_the_system.drones_disabled" GUID="ZKWf9jUtgUi/bHjvP6B2nA=="/>
-
+		<POI MapID="1276" xpos="498.719" ypos="2.45845" zpos="425.951" type="story_journal.season_4.a_bug_in_the_system.drones_disabled" GUID="Gt88FrWukEawATPzXw2dtQ==" />
+		<POI MapID="1276" xpos="555.938" ypos="2.61773" zpos="434.766" type="story_journal.season_4.a_bug_in_the_system.drones_disabled" GUID="ZKWf9jUtgUi/bHjvP6B2nA==" />
 		<!-- FASTER THAN LIGHT -->
-		<POI MapID="1271" xpos="735.464" ypos="27.9745" zpos="-542.043" type="story_journal.season_4.a_bug_in_the_system.faster_than_light" GUID="7vvm9AhH00yZQE26/4Pmjg=="/>
-		<Trail type="story_journal.season_4.a_bug_in_the_system.faster_than_light" GUID="JfRo+dpHRU2Omwm+QR/zTA==" trailData="Data/StoryJournal/Season4/ABugInTheSystem/FasterThanLight_1.trl" texture="Data/Arrow.png" color="ff00ddff" alpha="0.8" fadeNear="3000" fadeFar="3500" animSpeed="0"/>
-		<POI MapID="1271" xpos="724.901" ypos="36.914"  zpos="-500.53"  type="story_journal.season_4.a_bug_in_the_system.faster_than_light" GUID="KUazcryT5ku9si8Ks0fs1A==" iconFile="Img/Numbers/1.png"  color="ff00ddff" fadeNear="2500" fadeFar="3000"/>
-		<POI MapID="1271" xpos="726.292" ypos="36.9131" zpos="-506.171" type="story_journal.season_4.a_bug_in_the_system.faster_than_light" GUID="7irVAvSoL02xpY8KZS01rQ==" iconFile="Img/Numbers/2.png"  color="ff00ddff" fadeNear="2500" fadeFar="3000"/>
-		<POI MapID="1271" xpos="721.367" ypos="36.8853" zpos="-504.298" type="story_journal.season_4.a_bug_in_the_system.faster_than_light" GUID="06oV0MC3PkC5i56wDUgM4g==" iconFile="Img/Numbers/3.png"  color="ff00ddff" fadeNear="2500" fadeFar="3000"/>
-		<POI MapID="1271" xpos="783.167" ypos="43.9283" zpos="-498.963" type="story_journal.season_4.a_bug_in_the_system.faster_than_light" GUID="JJhbYwF44UWSUrsavWMa/A==" iconFile="Img/Numbers/4.png"  color="ff00ddff" fadeNear="2500" fadeFar="3000"/>
-		<POI MapID="1271" xpos="774.672" ypos="43.3047" zpos="-502.923" type="story_journal.season_4.a_bug_in_the_system.faster_than_light" GUID="bQd7/3LyH0KJ4JXOlhO//w==" iconFile="Img/Numbers/5.png"  color="ff00ddff" fadeNear="2500" fadeFar="3000"/>
-		<Trail type="story_journal.season_4.a_bug_in_the_system.faster_than_light" GUID="DxvEB4mA/kKCmUNnMqw0ZA==" trailData="Data/StoryJournal/Season4/ABugInTheSystem/FasterThanLight_2.trl" texture="Data/Arrow.png" color="ff00ff00" alpha="0.8" fadeNear="3000" fadeFar="3500" animSpeed="0"/>
-		<POI MapID="1271" xpos="716.961" ypos="37.9131" zpos="-504.69"  type="story_journal.season_4.a_bug_in_the_system.faster_than_light" GUID="dye1JTDAnEWzc+ot81nLEA==" iconFile="Img/Numbers/6.png"  color="ff00ff00" fadeNear="2500" fadeFar="3000"/>
-		<POI MapID="1271" xpos="726.07"  ypos="36.9123" zpos="-502.085" type="story_journal.season_4.a_bug_in_the_system.faster_than_light" GUID="VQ+7rJcMH0CALuAgfceFjA==" iconFile="Img/Numbers/7.png"  color="ff00ff00" fadeNear="2500" fadeFar="3000"/>
-		<POI MapID="1271" xpos="725.486" ypos="36.9155" zpos="-507.963" type="story_journal.season_4.a_bug_in_the_system.faster_than_light" GUID="FfWAcyiOBUi3tAnVpeo31g==" iconFile="Img/Numbers/8.png"  color="ff00ff00" fadeNear="2500" fadeFar="3000"/>
-		<POI MapID="1271" xpos="721.367" ypos="37.8853" zpos="-504.298" type="story_journal.season_4.a_bug_in_the_system.faster_than_light" GUID="g7be3LktsU20wbGOQdEDuw==" iconFile="Img/Numbers/9.png"  color="ff00ff00" fadeNear="2500" fadeFar="3000"/>
-		<POI MapID="1271" xpos="752.056" ypos="44.0092" zpos="-535.105" type="story_journal.season_4.a_bug_in_the_system.faster_than_light" GUID="vk7n9bKBtUW8BeUS77g2tQ==" iconFile="Img/Numbers/10.png" color="ff00ff00" fadeNear="2500" fadeFar="3000"/>
-		<POI MapID="1271" xpos="748.328" ypos="43.8312" zpos="-525.734" type="story_journal.season_4.a_bug_in_the_system.faster_than_light" GUID="ksLyXsXn0EeVe5jSWdFJrA==" iconFile="Img/Numbers/11.png" color="ff00ff00" fadeNear="2500" fadeFar="3000"/>
-		<Trail type="story_journal.season_4.a_bug_in_the_system.faster_than_light" GUID="xWw0SWWeRkev8kZ68CTj/w==" trailData="Data/StoryJournal/Season4/ABugInTheSystem/FasterThanLight_3.trl" texture="Data/Arrow.png" color="ffff8000" alpha="0.8" fadeNear="3000" fadeFar="3500" animSpeed="0"/>
-		<POI MapID="1271" xpos="726.151" ypos="38.5691" zpos="-499.429" type="story_journal.season_4.a_bug_in_the_system.faster_than_light" GUID="DVY0oFAXX02zb3Y+ESPdkg==" iconFile="Img/Numbers/12.png" color="ffff8000" fadeNear="2500" fadeFar="3000"/>
-		<POI MapID="1271" xpos="727.341" ypos="38.4985" zpos="-501.258" type="story_journal.season_4.a_bug_in_the_system.faster_than_light" GUID="aM2vbIxMLEqTGPBs+BIk0w==" iconFile="Img/Numbers/13.png" color="ffff8000" fadeNear="2500" fadeFar="3000"/>
-		<POI MapID="1271" xpos="721.367" ypos="38.8853" zpos="-504.298" type="story_journal.season_4.a_bug_in_the_system.faster_than_light" GUID="e8f6QW3QEkW4ozbqCfDeLw==" iconFile="Img/Numbers/14.png" color="ffff8000" fadeNear="2500" fadeFar="3000"/>
-		<POI MapID="1271" xpos="747.172" ypos="44.0713" zpos="-468.528" type="story_journal.season_4.a_bug_in_the_system.faster_than_light" GUID="OpC2XIZMUEucXc0SBp+F+w==" iconFile="Img/Numbers/15.png" color="ffff8000" fadeNear="2500" fadeFar="3000"/>
-
+		<POI MapID="1271" xpos="735.464" ypos="27.9745" zpos="-542.043" type="story_journal.season_4.a_bug_in_the_system.faster_than_light" GUID="7vvm9AhH00yZQE26/4Pmjg==" />
+		<Trail type="story_journal.season_4.a_bug_in_the_system.faster_than_light" GUID="JfRo+dpHRU2Omwm+QR/zTA==" trailData="Data/StoryJournal/Season4/ABugInTheSystem/FasterThanLight_1.trl" texture="Data/Arrow.png" color="ff00ddff" alpha="0.8" fadeNear="3000" fadeFar="3500" animSpeed="0" />
+		<POI MapID="1271" xpos="724.901" ypos="36.914" zpos="-500.53" type="story_journal.season_4.a_bug_in_the_system.faster_than_light" GUID="KUazcryT5ku9si8Ks0fs1A==" iconFile="Img/Numbers/1.png" color="ff00ddff" fadeNear="2500" fadeFar="3000" />
+		<POI MapID="1271" xpos="726.292" ypos="36.9131" zpos="-506.171" type="story_journal.season_4.a_bug_in_the_system.faster_than_light" GUID="7irVAvSoL02xpY8KZS01rQ==" iconFile="Img/Numbers/2.png" color="ff00ddff" fadeNear="2500" fadeFar="3000" />
+		<POI MapID="1271" xpos="721.367" ypos="36.8853" zpos="-504.298" type="story_journal.season_4.a_bug_in_the_system.faster_than_light" GUID="06oV0MC3PkC5i56wDUgM4g==" iconFile="Img/Numbers/3.png" color="ff00ddff" fadeNear="2500" fadeFar="3000" />
+		<POI MapID="1271" xpos="783.167" ypos="43.9283" zpos="-498.963" type="story_journal.season_4.a_bug_in_the_system.faster_than_light" GUID="JJhbYwF44UWSUrsavWMa/A==" iconFile="Img/Numbers/4.png" color="ff00ddff" fadeNear="2500" fadeFar="3000" />
+		<POI MapID="1271" xpos="774.672" ypos="43.3047" zpos="-502.923" type="story_journal.season_4.a_bug_in_the_system.faster_than_light" GUID="bQd7/3LyH0KJ4JXOlhO//w==" iconFile="Img/Numbers/5.png" color="ff00ddff" fadeNear="2500" fadeFar="3000" />
+		<Trail type="story_journal.season_4.a_bug_in_the_system.faster_than_light" GUID="DxvEB4mA/kKCmUNnMqw0ZA==" trailData="Data/StoryJournal/Season4/ABugInTheSystem/FasterThanLight_2.trl" texture="Data/Arrow.png" color="ff00ff00" alpha="0.8" fadeNear="3000" fadeFar="3500" animSpeed="0" />
+		<POI MapID="1271" xpos="716.961" ypos="37.9131" zpos="-504.69" type="story_journal.season_4.a_bug_in_the_system.faster_than_light" GUID="dye1JTDAnEWzc+ot81nLEA==" iconFile="Img/Numbers/6.png" color="ff00ff00" fadeNear="2500" fadeFar="3000" />
+		<POI MapID="1271" xpos="726.07" ypos="36.9123" zpos="-502.085" type="story_journal.season_4.a_bug_in_the_system.faster_than_light" GUID="VQ+7rJcMH0CALuAgfceFjA==" iconFile="Img/Numbers/7.png" color="ff00ff00" fadeNear="2500" fadeFar="3000" />
+		<POI MapID="1271" xpos="725.486" ypos="36.9155" zpos="-507.963" type="story_journal.season_4.a_bug_in_the_system.faster_than_light" GUID="FfWAcyiOBUi3tAnVpeo31g==" iconFile="Img/Numbers/8.png" color="ff00ff00" fadeNear="2500" fadeFar="3000" />
+		<POI MapID="1271" xpos="721.367" ypos="37.8853" zpos="-504.298" type="story_journal.season_4.a_bug_in_the_system.faster_than_light" GUID="g7be3LktsU20wbGOQdEDuw==" iconFile="Img/Numbers/9.png" color="ff00ff00" fadeNear="2500" fadeFar="3000" />
+		<POI MapID="1271" xpos="752.056" ypos="44.0092" zpos="-535.105" type="story_journal.season_4.a_bug_in_the_system.faster_than_light" GUID="vk7n9bKBtUW8BeUS77g2tQ==" iconFile="Img/Numbers/10.png" color="ff00ff00" fadeNear="2500" fadeFar="3000" />
+		<POI MapID="1271" xpos="748.328" ypos="43.8312" zpos="-525.734" type="story_journal.season_4.a_bug_in_the_system.faster_than_light" GUID="ksLyXsXn0EeVe5jSWdFJrA==" iconFile="Img/Numbers/11.png" color="ff00ff00" fadeNear="2500" fadeFar="3000" />
+		<Trail type="story_journal.season_4.a_bug_in_the_system.faster_than_light" GUID="xWw0SWWeRkev8kZ68CTj/w==" trailData="Data/StoryJournal/Season4/ABugInTheSystem/FasterThanLight_3.trl" texture="Data/Arrow.png" color="ffff8000" alpha="0.8" fadeNear="3000" fadeFar="3500" animSpeed="0" />
+		<POI MapID="1271" xpos="726.151" ypos="38.5691" zpos="-499.429" type="story_journal.season_4.a_bug_in_the_system.faster_than_light" GUID="DVY0oFAXX02zb3Y+ESPdkg==" iconFile="Img/Numbers/12.png" color="ffff8000" fadeNear="2500" fadeFar="3000" />
+		<POI MapID="1271" xpos="727.341" ypos="38.4985" zpos="-501.258" type="story_journal.season_4.a_bug_in_the_system.faster_than_light" GUID="aM2vbIxMLEqTGPBs+BIk0w==" iconFile="Img/Numbers/13.png" color="ffff8000" fadeNear="2500" fadeFar="3000" />
+		<POI MapID="1271" xpos="721.367" ypos="38.8853" zpos="-504.298" type="story_journal.season_4.a_bug_in_the_system.faster_than_light" GUID="e8f6QW3QEkW4ozbqCfDeLw==" iconFile="Img/Numbers/14.png" color="ffff8000" fadeNear="2500" fadeFar="3000" />
+		<POI MapID="1271" xpos="747.172" ypos="44.0713" zpos="-468.528" type="story_journal.season_4.a_bug_in_the_system.faster_than_light" GUID="OpC2XIZMUEucXc0SBp+F+w==" iconFile="Img/Numbers/15.png" color="ffff8000" fadeNear="2500" fadeFar="3000" />
 		<!-- HONORARY OLMAKHAN -->
-		<!-- Tufani --><POI MapID="1271" xpos="187.311"  ypos="74.3138"  zpos="998.194" type="story_journal.season_4.a_bug_in_the_system.honorary_olmakhan.tufani" GUID="0r10I/15GU22VX8Q77o14Q=="/>
-		<!-- Ilani  --><POI MapID="1271" xpos="-137.256" ypos="59.0253"  zpos="981.186" type="story_journal.season_4.a_bug_in_the_system.honorary_olmakhan.ilani"  GUID="w14DbjvbGkWvAvE2NULkMA=="/>
-		<!-- Skaa   --><POI MapID="1271" xpos="-75.7047" ypos="85.1497"  zpos="1092.48" type="story_journal.season_4.a_bug_in_the_system.honorary_olmakhan.skaa"   GUID="dfdPzArc80aj6iGifrJWgw=="/>
-		<!-- Ubaya  --><POI MapID="1271" xpos="-218.646" ypos="93.5819"  zpos="1024.68" type="story_journal.season_4.a_bug_in_the_system.honorary_olmakhan.ubaya"  GUID="Ylp8VbgkIESiSOaayEaNpQ=="/>
-		<!-- Feesi  --><POI MapID="1271" xpos="436.853"  ypos="108.182"  zpos="941.767" type="story_journal.season_4.a_bug_in_the_system.honorary_olmakhan.feesi"  GUID="q3fvwBp99EmDZLWjk611Wg=="/>
-
+		<!-- Tufani -->
+		<POI MapID="1271" xpos="187.311" ypos="74.3138" zpos="998.194" type="story_journal.season_4.a_bug_in_the_system.honorary_olmakhan.tufani" GUID="0r10I/15GU22VX8Q77o14Q==" />
+		<!-- Ilani -->
+		<POI MapID="1271" xpos="-137.256" ypos="59.0253" zpos="981.186" type="story_journal.season_4.a_bug_in_the_system.honorary_olmakhan.ilani" GUID="w14DbjvbGkWvAvE2NULkMA==" />
+		<!-- Skaa -->
+		<POI MapID="1271" xpos="-75.7047" ypos="85.1497" zpos="1092.48" type="story_journal.season_4.a_bug_in_the_system.honorary_olmakhan.skaa" GUID="dfdPzArc80aj6iGifrJWgw==" />
+		<!-- Ubaya -->
+		<POI MapID="1271" xpos="-218.646" ypos="93.5819" zpos="1024.68" type="story_journal.season_4.a_bug_in_the_system.honorary_olmakhan.ubaya" GUID="Ylp8VbgkIESiSOaayEaNpQ==" />
+		<!-- Feesi -->
+		<POI MapID="1271" xpos="436.853" ypos="108.182" zpos="941.767" type="story_journal.season_4.a_bug_in_the_system.honorary_olmakhan.feesi" GUID="q3fvwBp99EmDZLWjk611Wg==" />
 		<!-- INQUEST.INFO -->
-		<POI MapID="1274" xpos="28.9187"  ypos="340.046" zpos="-90.7444" type="story_journal.season_4.a_bug_in_the_system.inquest_info" GUID="Q0ORjMG4PkSOb+SgyCHnXg=="/>
-		<POI MapID="1274" xpos="154.909"  ypos="454.144" zpos="-258.066" type="story_journal.season_4.a_bug_in_the_system.inquest_info" GUID="D/BrcaUUakiTFaY+XyB1kA=="/>
-		<POI MapID="1274" xpos="193.05"   ypos="454.319" zpos="-254.374" type="story_journal.season_4.a_bug_in_the_system.inquest_info" GUID="BNtSyVg/xkK0x8XNK3XppQ=="/>
-		<POI MapID="1274" xpos="126.619"  ypos="454.29"  zpos="-65.3414" type="story_journal.season_4.a_bug_in_the_system.inquest_info" GUID="89mk+R2B4kem5GvKJRO3Zw=="/>
-		<POI MapID="1274" xpos="-23.1889" ypos="454.043" zpos="-218.315" type="story_journal.season_4.a_bug_in_the_system.inquest_info" GUID="Xa/eyX63yU2YsWtIcElp1A=="/>
-		<POI MapID="1274" xpos="108.487"  ypos="407.939" zpos="-222.354" type="story_journal.season_4.a_bug_in_the_system.inquest_info" GUID="zmz4H9nA10amXxaEWFZ2pA=="/>
-		<POI MapID="1274" xpos="235.073"  ypos="405.812" zpos="-297.854" type="story_journal.season_4.a_bug_in_the_system.inquest_info" GUID="HvyxUVZkXUS+21KhmoPsHg=="/>
-
+		<POI MapID="1274" xpos="28.9187" ypos="340.046" zpos="-90.7444" type="story_journal.season_4.a_bug_in_the_system.inquest_info" GUID="Q0ORjMG4PkSOb+SgyCHnXg==" />
+		<POI MapID="1274" xpos="154.909" ypos="454.144" zpos="-258.066" type="story_journal.season_4.a_bug_in_the_system.inquest_info" GUID="D/BrcaUUakiTFaY+XyB1kA==" />
+		<POI MapID="1274" xpos="193.05" ypos="454.319" zpos="-254.374" type="story_journal.season_4.a_bug_in_the_system.inquest_info" GUID="BNtSyVg/xkK0x8XNK3XppQ==" />
+		<POI MapID="1274" xpos="126.619" ypos="454.29" zpos="-65.3414" type="story_journal.season_4.a_bug_in_the_system.inquest_info" GUID="89mk+R2B4kem5GvKJRO3Zw==" />
+		<POI MapID="1274" xpos="-23.1889" ypos="454.043" zpos="-218.315" type="story_journal.season_4.a_bug_in_the_system.inquest_info" GUID="Xa/eyX63yU2YsWtIcElp1A==" />
+		<POI MapID="1274" xpos="108.487" ypos="407.939" zpos="-222.354" type="story_journal.season_4.a_bug_in_the_system.inquest_info" GUID="zmz4H9nA10amXxaEWFZ2pA==" />
+		<POI MapID="1274" xpos="235.073" ypos="405.812" zpos="-297.854" type="story_journal.season_4.a_bug_in_the_system.inquest_info" GUID="HvyxUVZkXUS+21KhmoPsHg==" />
 		<!-- SPECIMENS LIBERATOR -->
-		<POI MapID="1276" xpos="564.782" ypos="16.6515" zpos="435.204" type="story_journal.season_4.a_bug_in_the_system.inquest_specimen_liberator" GUID="E6Xb9sEtvk+N722YI7Rwbg=="/>
-		<POI MapID="1276" xpos="526.428" ypos="16.8773" zpos="435.499" type="story_journal.season_4.a_bug_in_the_system.inquest_specimen_liberator" GUID="oDiuJ3rMg0SIU0d5HQL2Ow=="/>
-		<POI MapID="1276" xpos="485.085" ypos="16.951"  zpos="397.895" type="story_journal.season_4.a_bug_in_the_system.inquest_specimen_liberator" GUID="XuVnmZXXPU+gZuFnkRBkEQ=="/>
-		<POI MapID="1276" xpos="496.622" ypos="17.0153" zpos="437.616" type="story_journal.season_4.a_bug_in_the_system.inquest_specimen_liberator" GUID="ZoYFUg2ywEeGUrvbO0v9jA=="/>
-
+		<POI MapID="1276" xpos="564.782" ypos="16.6515" zpos="435.204" type="story_journal.season_4.a_bug_in_the_system.inquest_specimen_liberator" GUID="E6Xb9sEtvk+N722YI7Rwbg==" />
+		<POI MapID="1276" xpos="526.428" ypos="16.8773" zpos="435.499" type="story_journal.season_4.a_bug_in_the_system.inquest_specimen_liberator" GUID="oDiuJ3rMg0SIU0d5HQL2Ow==" />
+		<POI MapID="1276" xpos="485.085" ypos="16.951" zpos="397.895" type="story_journal.season_4.a_bug_in_the_system.inquest_specimen_liberator" GUID="XuVnmZXXPU+gZuFnkRBkEQ==" />
+		<POI MapID="1276" xpos="496.622" ypos="17.0153" zpos="437.616" type="story_journal.season_4.a_bug_in_the_system.inquest_specimen_liberator" GUID="ZoYFUg2ywEeGUrvbO0v9jA==" />
 		<!-- INQUEST SUPPRESSOR GOLEM III -->
-		<POI MapID="1271" xpos="-180.681" ypos="74.1656" zpos="11.5372"  type="story_journal.season_4.a_bug_in_the_system.insuppressible" GUID="s2zCCInXE0q76tPlrKKDSg=="/>
-		<POI MapID="1271" xpos="-191.238" ypos="65.0795" zpos="-556.919" type="story_journal.season_4.a_bug_in_the_system.insuppressible" GUID="+1f2xiCy6EelYikvR3rHmQ=="/>
-		<POI MapID="1271" xpos="591.97"   ypos="48.2168" zpos="-618.297" type="story_journal.season_4.a_bug_in_the_system.insuppressible" GUID="ITfFPeKZrkaByopZdqUw5A=="/>
-
+		<POI MapID="1271" xpos="-180.681" ypos="74.1656" zpos="11.5372" type="story_journal.season_4.a_bug_in_the_system.insuppressible" GUID="s2zCCInXE0q76tPlrKKDSg==" />
+		<POI MapID="1271" xpos="-191.238" ypos="65.0795" zpos="-556.919" type="story_journal.season_4.a_bug_in_the_system.insuppressible" GUID="+1f2xiCy6EelYikvR3rHmQ==" />
+		<POI MapID="1271" xpos="591.97" ypos="48.2168" zpos="-618.297" type="story_journal.season_4.a_bug_in_the_system.insuppressible" GUID="ITfFPeKZrkaByopZdqUw5A==" />
 		<!-- LASTING BONDS WHAT COMES NEXT -->
-		<POI MapID="1271" xpos="-33.3674" ypos="5.69908" zpos="566.642"  type="story_journal.season_4.a_bug_in_the_system.lasting_bonds__what_comes_next" GUID="xK9D+xpSjEGTP2DJcJDxvw==" heightOffset="3"/>
-		<POI MapID="1271" xpos="-71.9413" ypos="13.96"   zpos="543.59"   type="story_journal.season_4.a_bug_in_the_system.lasting_bonds__what_comes_next" GUID="dqa3PTy3yU6nKVfbi4hKlw==" heightOffset="4.6"/>
-		<POI MapID="1271" xpos="566.538"  ypos="1.32"    zpos="115.157"  type="story_journal.season_4.a_bug_in_the_system.lasting_bonds__what_comes_next" GUID="d+AAXPcyoEaiNj3D5GQVZQ==" heightOffset="3.4"/>
-		<POI MapID="1271" xpos="-248.877" ypos="1.99265" zpos="-145.518" type="story_journal.season_4.a_bug_in_the_system.lasting_bonds__what_comes_next" GUID="6joTiMAHk0GQcu40JOsxtw=="/>
-		<POI MapID="1271" xpos="-248.877" ypos="4.99265" zpos="-145.518" type="story_journal.season_4.a_bug_in_the_system.lasting_bonds__what_comes_next" GUID="EmhAnxClc0eUv/emvSxXoA==" iconFile="Img/Season4/NakisBracelet.png" minSize="48" maxSize="64" fadeNear="2000" fadeFar="2500"/>
-		<POI MapID="1228" xpos="1075.31"  ypos="0.48563" zpos="122.271"  type="story_journal.season_4.a_bug_in_the_system.lasting_bonds__what_comes_next" GUID="i36YVw55j0KustNBXPOS0w==" heightOffset="2"/>
-		<POI MapID="1271" xpos="-252.715" ypos="2.12578" zpos="-173.541" type="story_journal.season_4.a_bug_in_the_system.lasting_bonds__what_comes_next" GUID="OaCo/3ZVTk+SrM3KlZqDGQ=="/>
-		<POI MapID="1271" xpos="-252.715" ypos="5.12578" zpos="-173.541" type="story_journal.season_4.a_bug_in_the_system.lasting_bonds__what_comes_next" GUID="R70Kn7SPBkGIV8gMIlAFEg==" iconFile="Img/Season4/OlmakhanBowOfForce.png" minSize="48" maxSize="64" fadeNear="2000" fadeFar="2500"/>
-		<POI MapID="1271" xpos="-32.3783" ypos="6.48947" zpos="569.566"  type="story_journal.season_4.a_bug_in_the_system.lasting_bonds__what_comes_next" GUID="GSgTuBelPUWNWhlA4SD4pw==" iconFile="Img/Season4/ShadowAndSun.png" minSize="48" maxSize="64" fadeNear="3000" fadeFar="4000"/>
-
+		<POI MapID="1271" xpos="-33.3674" ypos="5.69908" zpos="566.642" type="story_journal.season_4.a_bug_in_the_system.lasting_bonds__what_comes_next" GUID="xK9D+xpSjEGTP2DJcJDxvw==" heightOffset="3" />
+		<POI MapID="1271" xpos="-71.9413" ypos="13.96" zpos="543.59" type="story_journal.season_4.a_bug_in_the_system.lasting_bonds__what_comes_next" GUID="dqa3PTy3yU6nKVfbi4hKlw==" heightOffset="4.6" />
+		<POI MapID="1271" xpos="566.538" ypos="1.32" zpos="115.157" type="story_journal.season_4.a_bug_in_the_system.lasting_bonds__what_comes_next" GUID="d+AAXPcyoEaiNj3D5GQVZQ==" heightOffset="3.4" />
+		<POI MapID="1271" xpos="-248.877" ypos="1.99265" zpos="-145.518" type="story_journal.season_4.a_bug_in_the_system.lasting_bonds__what_comes_next" GUID="6joTiMAHk0GQcu40JOsxtw==" />
+		<POI MapID="1271" xpos="-248.877" ypos="4.99265" zpos="-145.518" type="story_journal.season_4.a_bug_in_the_system.lasting_bonds__what_comes_next" GUID="EmhAnxClc0eUv/emvSxXoA==" iconFile="Img/Season4/NakisBracelet.png" minSize="48" maxSize="64" fadeNear="2000" fadeFar="2500" />
+		<POI MapID="1228" xpos="1075.31" ypos="0.48563" zpos="122.271" type="story_journal.season_4.a_bug_in_the_system.lasting_bonds__what_comes_next" GUID="i36YVw55j0KustNBXPOS0w==" heightOffset="2" />
+		<POI MapID="1271" xpos="-252.715" ypos="2.12578" zpos="-173.541" type="story_journal.season_4.a_bug_in_the_system.lasting_bonds__what_comes_next" GUID="OaCo/3ZVTk+SrM3KlZqDGQ==" />
+		<POI MapID="1271" xpos="-252.715" ypos="5.12578" zpos="-173.541" type="story_journal.season_4.a_bug_in_the_system.lasting_bonds__what_comes_next" GUID="R70Kn7SPBkGIV8gMIlAFEg==" iconFile="Img/Season4/OlmakhanBowOfForce.png" minSize="48" maxSize="64" fadeNear="2000" fadeFar="2500" />
+		<POI MapID="1271" xpos="-32.3783" ypos="6.48947" zpos="569.566" type="story_journal.season_4.a_bug_in_the_system.lasting_bonds__what_comes_next" GUID="GSgTuBelPUWNWhlA4SD4pw==" iconFile="Img/Season4/ShadowAndSun.png" minSize="48" maxSize="64" fadeNear="3000" fadeFar="4000" />
 		<!-- LASTING BONDS WHAT WE DO HERE -->
-		<POI MapID="1271" xpos="-33.3674" ypos="5.69908" zpos="566.642"  type="story_journal.season_4.a_bug_in_the_system.lasting_bonds__what_we_do_here" GUID="GcjutlW6aEK9N9Xll4WN9Q==" heightOffset="3"/>
-		<POI MapID="1271" xpos="-58.3222" ypos="13.84"   zpos="539.446"  type="story_journal.season_4.a_bug_in_the_system.lasting_bonds__what_we_do_here" GUID="d4vNpYsMIUCGPIdj36ehgQ==" heightOffset="4.6"/>
-		<POI MapID="1271" xpos="-54.9689" ypos="13.84"   zpos="539.624"  type="story_journal.season_4.a_bug_in_the_system.lasting_bonds__what_we_do_here" GUID="mqrNo6KNv0+CRLFL16IJMg==" heightOffset="4.6"/>
-		<POI MapID="1271" xpos="550.174"  ypos="-0.069"  zpos="737.304"  type="story_journal.season_4.a_bug_in_the_system.lasting_bonds__what_we_do_here" GUID="4tSEcKTnWkCi809GkJk1Tg=="/>
-		<POI MapID="1271" xpos="550.174"  ypos="2"       zpos="737.304"  type="story_journal.season_4.a_bug_in_the_system.lasting_bonds__what_we_do_here" GUID="i2xAkrPjLk+SZNRe5vxkZA==" iconFile="Img/Season4/LastingBondsWhatWeDoHere_Info.png" minSize="64" maxSize="64" fadeNear="1200" fadeFar="1500" behavior="0"/>
-		<POI MapID="1271" xpos="594.001"  ypos="34.987"  zpos="703.084"  type="story_journal.season_4.a_bug_in_the_system.lasting_bonds__what_we_do_here" GUID="zhj0a+cxfEy+Eaxv3AFvig=="/>
-		<POI MapID="1271" xpos="594.001"  ypos="36.987"  zpos="703.084"  type="story_journal.season_4.a_bug_in_the_system.lasting_bonds__what_we_do_here" GUID="S+P3YeINjE2AjPg5zG9NLw==" iconFile="Img/Season4/LastingBondsWhatWeDoHere_Info2.png" minSize="64" maxSize="64" fadeNear="1200" fadeFar="1500" behavior="0"/>
-		<POI MapID="1271" xpos="-338.678" ypos="136.078" zpos="980.765"  type="story_journal.season_4.a_bug_in_the_system.lasting_bonds__what_we_do_here" GUID="9othCfbyoESmFEzL2TE34w=="/>
-		<POI MapID="1271" xpos="-338.587" ypos="138.061" zpos="980.26"   type="story_journal.season_4.a_bug_in_the_system.lasting_bonds__what_we_do_here" GUID="lnw4sVmJrEGhlr2/yZ+6dw==" iconFile="Img/Season4/LastingBondsWhatWeDoHere_Info2.png" minSize="64" maxSize="64" fadeNear="1200" fadeFar="1500" behavior="0"/>
-		<POI MapID="1271" xpos="27.4885"  ypos="11.2025" zpos="533.538"  type="story_journal.season_4.a_bug_in_the_system.lasting_bonds__what_we_do_here" GUID="K4VWB81VH0Cug8ONikAqQA==" heightOffset="3"/>
-		<POI MapID="1271" xpos="-14.8423" ypos="0.95"    zpos="500.417"  type="story_journal.season_4.a_bug_in_the_system.lasting_bonds__what_we_do_here" GUID="75Lo5NEwz0yPgsQfTZsW2Q==" heightOffset="3"/>
-		<POI MapID="1271" xpos="-319.83"  ypos="3.63"    zpos="734.908"  type="story_journal.season_4.a_bug_in_the_system.lasting_bonds__what_we_do_here" GUID="eXpqjY67M06hb3iriMVSbA==" heightOffset="3"/>
-		<POI MapID="1271" xpos="380.201"  ypos="-0.35"   zpos="516.859"  type="story_journal.season_4.a_bug_in_the_system.lasting_bonds__what_we_do_here" GUID="hjMIyKXUxEeg9AihGjs+Tg==" heightOffset="3"/>
-		<POI MapID="1271" xpos="597.046"  ypos="3.84"    zpos="659.814"  type="story_journal.season_4.a_bug_in_the_system.lasting_bonds__what_we_do_here" GUID="d6cGf1GRJk26Oxq2K5PsXQ==" heightOffset="3"/>
-		<POI MapID="1271" xpos="637.408"  ypos="4.61"    zpos="553.482"  type="story_journal.season_4.a_bug_in_the_system.lasting_bonds__what_we_do_here" GUID="p69rEtfUBUWtRsdql9U+iQ==" heightOffset="3"/>
-		<POI MapID="1271" xpos="688.967"  ypos="-0.29"   zpos="798.569"  type="story_journal.season_4.a_bug_in_the_system.lasting_bonds__what_we_do_here" GUID="OKRibwu/SEaSIbHt7a1ETw==" heightOffset="3"/>
-		<POI MapID="1271" xpos="678.515"  ypos="-0.34"   zpos="941.151"  type="story_journal.season_4.a_bug_in_the_system.lasting_bonds__what_we_do_here" GUID="I/SwQyIi60GS4SVfBZUkPw==" heightOffset="3"/>
-		<POI MapID="1271" xpos="-373.034" ypos="0.46263" zpos="647.425"  type="story_journal.season_4.a_bug_in_the_system.lasting_bonds__what_we_do_here" GUID="GBONC++t/0eXX9xHNAi11Q==" heightOffset="3"/>
-		<POI MapID="1271" xpos="664.716"  ypos="2.43843" zpos="710.954"  type="story_journal.season_4.a_bug_in_the_system.lasting_bonds__what_we_do_here" GUID="MuKVGDVZDEufGPVwGT1AJw=="/>
-		<POI MapID="1271" xpos="608.852"  ypos="49.4455" zpos="-689.779" type="story_journal.season_4.a_bug_in_the_system.lasting_bonds__what_we_do_here" GUID="+RinIWIIl0Ke6t9rqhHNMA==" heightOffset="4"/>
-
+		<POI MapID="1271" xpos="-33.3674" ypos="5.69908" zpos="566.642" type="story_journal.season_4.a_bug_in_the_system.lasting_bonds__what_we_do_here" GUID="GcjutlW6aEK9N9Xll4WN9Q==" heightOffset="3" />
+		<POI MapID="1271" xpos="-58.3222" ypos="13.84" zpos="539.446" type="story_journal.season_4.a_bug_in_the_system.lasting_bonds__what_we_do_here" GUID="d4vNpYsMIUCGPIdj36ehgQ==" heightOffset="4.6" />
+		<POI MapID="1271" xpos="-54.9689" ypos="13.84" zpos="539.624" type="story_journal.season_4.a_bug_in_the_system.lasting_bonds__what_we_do_here" GUID="mqrNo6KNv0+CRLFL16IJMg==" heightOffset="4.6" />
+		<POI MapID="1271" xpos="550.174" ypos="-0.069" zpos="737.304" type="story_journal.season_4.a_bug_in_the_system.lasting_bonds__what_we_do_here" GUID="4tSEcKTnWkCi809GkJk1Tg==" />
+		<POI MapID="1271" xpos="550.174" ypos="2" zpos="737.304" type="story_journal.season_4.a_bug_in_the_system.lasting_bonds__what_we_do_here" GUID="i2xAkrPjLk+SZNRe5vxkZA==" iconFile="Img/Season4/LastingBondsWhatWeDoHere_Info.png" minSize="64" maxSize="64" fadeNear="1200" fadeFar="1500" behavior="0" />
+		<POI MapID="1271" xpos="594.001" ypos="34.987" zpos="703.084" type="story_journal.season_4.a_bug_in_the_system.lasting_bonds__what_we_do_here" GUID="zhj0a+cxfEy+Eaxv3AFvig==" />
+		<POI MapID="1271" xpos="594.001" ypos="36.987" zpos="703.084" type="story_journal.season_4.a_bug_in_the_system.lasting_bonds__what_we_do_here" GUID="S+P3YeINjE2AjPg5zG9NLw==" iconFile="Img/Season4/LastingBondsWhatWeDoHere_Info2.png" minSize="64" maxSize="64" fadeNear="1200" fadeFar="1500" behavior="0" />
+		<POI MapID="1271" xpos="-338.678" ypos="136.078" zpos="980.765" type="story_journal.season_4.a_bug_in_the_system.lasting_bonds__what_we_do_here" GUID="9othCfbyoESmFEzL2TE34w==" />
+		<POI MapID="1271" xpos="-338.587" ypos="138.061" zpos="980.26" type="story_journal.season_4.a_bug_in_the_system.lasting_bonds__what_we_do_here" GUID="lnw4sVmJrEGhlr2/yZ+6dw==" iconFile="Img/Season4/LastingBondsWhatWeDoHere_Info2.png" minSize="64" maxSize="64" fadeNear="1200" fadeFar="1500" behavior="0" />
+		<POI MapID="1271" xpos="27.4885" ypos="11.2025" zpos="533.538" type="story_journal.season_4.a_bug_in_the_system.lasting_bonds__what_we_do_here" GUID="K4VWB81VH0Cug8ONikAqQA==" heightOffset="3" />
+		<POI MapID="1271" xpos="-14.8423" ypos="0.95" zpos="500.417" type="story_journal.season_4.a_bug_in_the_system.lasting_bonds__what_we_do_here" GUID="75Lo5NEwz0yPgsQfTZsW2Q==" heightOffset="3" />
+		<POI MapID="1271" xpos="-319.83" ypos="3.63" zpos="734.908" type="story_journal.season_4.a_bug_in_the_system.lasting_bonds__what_we_do_here" GUID="eXpqjY67M06hb3iriMVSbA==" heightOffset="3" />
+		<POI MapID="1271" xpos="380.201" ypos="-0.35" zpos="516.859" type="story_journal.season_4.a_bug_in_the_system.lasting_bonds__what_we_do_here" GUID="hjMIyKXUxEeg9AihGjs+Tg==" heightOffset="3" />
+		<POI MapID="1271" xpos="597.046" ypos="3.84" zpos="659.814" type="story_journal.season_4.a_bug_in_the_system.lasting_bonds__what_we_do_here" GUID="d6cGf1GRJk26Oxq2K5PsXQ==" heightOffset="3" />
+		<POI MapID="1271" xpos="637.408" ypos="4.61" zpos="553.482" type="story_journal.season_4.a_bug_in_the_system.lasting_bonds__what_we_do_here" GUID="p69rEtfUBUWtRsdql9U+iQ==" heightOffset="3" />
+		<POI MapID="1271" xpos="688.967" ypos="-0.29" zpos="798.569" type="story_journal.season_4.a_bug_in_the_system.lasting_bonds__what_we_do_here" GUID="OKRibwu/SEaSIbHt7a1ETw==" heightOffset="3" />
+		<POI MapID="1271" xpos="678.515" ypos="-0.34" zpos="941.151" type="story_journal.season_4.a_bug_in_the_system.lasting_bonds__what_we_do_here" GUID="I/SwQyIi60GS4SVfBZUkPw==" heightOffset="3" />
+		<POI MapID="1271" xpos="-373.034" ypos="0.46263" zpos="647.425" type="story_journal.season_4.a_bug_in_the_system.lasting_bonds__what_we_do_here" GUID="GBONC++t/0eXX9xHNAi11Q==" heightOffset="3" />
+		<POI MapID="1271" xpos="664.716" ypos="2.43843" zpos="710.954" type="story_journal.season_4.a_bug_in_the_system.lasting_bonds__what_we_do_here" GUID="MuKVGDVZDEufGPVwGT1AJw==" />
+		<POI MapID="1271" xpos="608.852" ypos="49.4455" zpos="-689.779" type="story_journal.season_4.a_bug_in_the_system.lasting_bonds__what_we_do_here" GUID="+RinIWIIl0Ke6t9rqhHNMA==" heightOffset="4" />
 		<!-- LASTING BONDS WHERE WE COME FROM -->
-		<POI MapID="1271" xpos="-33.3674" ypos="5.69908" zpos="566.642" type="story_journal.season_4.a_bug_in_the_system.lasting_bonds__where_we_come_from" GUID="t7f1pnBnLkS9oU0/kOeS4Q==" heightOffset="3"/>
-		<POI MapID="1271" xpos="-473.328" ypos="32.6468" zpos="924.887" type="story_journal.season_4.a_bug_in_the_system.lasting_bonds__where_we_come_from" GUID="tLpvqqR/Q0iD3oFxpg+ZKQ==" heightOffset="4"/>
-		<POI MapID="1271" xpos="-266.963" ypos="2.06014" zpos="780.361" type="story_journal.season_4.a_bug_in_the_system.lasting_bonds__where_we_come_from" GUID="eq7ndl5sV0uMDsfjeWe4Sw==" heightOffset="4"/>
-		<POI MapID="1271" xpos="0.348776" ypos="150.309" zpos="981.451" type="story_journal.season_4.a_bug_in_the_system.lasting_bonds__where_we_come_from" GUID="xK3abPpCl0aSnF89bUjcIw=="/>
-			<POI MapID="1271" xpos="-0.706974" ypos="150.2" zpos="985.356" type="story_journal.season_4.a_bug_in_the_system.lasting_bonds__where_we_come_from" GUID="fSdlyywvBEekiG9UJpdBog==" iconFile="Img/Season4/LastingBondsWhereWeComeFrom_Info.png" minSize="80" maxSize="80" fadeNear="1300" fadeFar="1500"/>
-		<POI MapID="1271" xpos="-152.856" ypos="51.4787" zpos="126.162" type="story_journal.season_4.a_bug_in_the_system.lasting_bonds__where_we_come_from" GUID="YBb1omQmLk+gXxW0wWuwVg=="/>
-			<POI MapID="1271" xpos="-165.299" ypos="50.0457" zpos="146.278" type="story_journal.season_4.a_bug_in_the_system.lasting_bonds__where_we_come_from" GUID="BKUf+nrou0CMmPQJNUuEeA==" iconFile="Img/Season4/JackalPortal_Info.png" minSize="96" maxSize="96" fadeNear="2000" fadeFar="3000" heightOffset="2" behavior="0"/>
-			<POI MapID="1271" xpos="-244.94"  ypos="142.08"  zpos="-329.125" type="story_journal.season_4.a_bug_in_the_system.lasting_bonds__where_we_come_from" GUID="aizlEdySZEeth6uJI7G8Yw==" iconFile="Img/Icons/Destination.png" minSize="16" maxSize="32" heightOffset="7.5" behavior="0"/>
-
+		<POI MapID="1271" xpos="-33.3674" ypos="5.69908" zpos="566.642" type="story_journal.season_4.a_bug_in_the_system.lasting_bonds__where_we_come_from" GUID="t7f1pnBnLkS9oU0/kOeS4Q==" heightOffset="3" />
+		<POI MapID="1271" xpos="-473.328" ypos="32.6468" zpos="924.887" type="story_journal.season_4.a_bug_in_the_system.lasting_bonds__where_we_come_from" GUID="tLpvqqR/Q0iD3oFxpg+ZKQ==" heightOffset="4" />
+		<POI MapID="1271" xpos="-266.963" ypos="2.06014" zpos="780.361" type="story_journal.season_4.a_bug_in_the_system.lasting_bonds__where_we_come_from" GUID="eq7ndl5sV0uMDsfjeWe4Sw==" heightOffset="4" />
+		<POI MapID="1271" xpos="0.348776" ypos="150.309" zpos="981.451" type="story_journal.season_4.a_bug_in_the_system.lasting_bonds__where_we_come_from" GUID="xK3abPpCl0aSnF89bUjcIw==" />
+		<POI MapID="1271" xpos="-0.706974" ypos="150.2" zpos="985.356" type="story_journal.season_4.a_bug_in_the_system.lasting_bonds__where_we_come_from" GUID="fSdlyywvBEekiG9UJpdBog==" iconFile="Img/Season4/LastingBondsWhereWeComeFrom_Info.png" minSize="80" maxSize="80" fadeNear="1300" fadeFar="1500" />
+		<POI MapID="1271" xpos="-152.856" ypos="51.4787" zpos="126.162" type="story_journal.season_4.a_bug_in_the_system.lasting_bonds__where_we_come_from" GUID="YBb1omQmLk+gXxW0wWuwVg==" />
+		<POI MapID="1271" xpos="-165.299" ypos="50.0457" zpos="146.278" type="story_journal.season_4.a_bug_in_the_system.lasting_bonds__where_we_come_from" GUID="BKUf+nrou0CMmPQJNUuEeA==" iconFile="Img/Season4/JackalPortal_Info.png" minSize="96" maxSize="96" fadeNear="2000" fadeFar="3000" heightOffset="2" behavior="0" />
+		<POI MapID="1271" xpos="-244.94" ypos="142.08" zpos="-329.125" type="story_journal.season_4.a_bug_in_the_system.lasting_bonds__where_we_come_from" GUID="aizlEdySZEeth6uJI7G8Yw==" iconFile="Img/Icons/Destination.png" minSize="16" maxSize="32" heightOffset="7.5" behavior="0" />
 		<!-- REPAIRING IG-6417 -->
-		<POI MapID="1271" xpos="424.313" ypos="3.84535" zpos="351.079" type="story_journal.season_4.a_bug_in_the_system.repairing_ig_6417" GUID="RG+CJUaZj0CM0nkVLtu91A==" iconFile="Img/Season4/IG-6417.png" maxSize="28" heightOffset="3.5"/>
-		<POI MapID="1271" xpos="429.703" ypos="4.39791" zpos="352.655" type="story_journal.season_4.a_bug_in_the_system.repairing_ig_6417" GUID="COLIcpUFQkasLJUSwPKqcA==" iconFile="Img/Season4/IG-6417_Infos.png" minSize="100" maxSize="100" fadeNear="1000" fadeFar="1500"/>
-
+		<POI MapID="1271" xpos="424.313" ypos="3.84535" zpos="351.079" type="story_journal.season_4.a_bug_in_the_system.repairing_ig_6417" GUID="RG+CJUaZj0CM0nkVLtu91A==" iconFile="Img/Season4/IG-6417.png" maxSize="28" heightOffset="3.5" />
+		<POI MapID="1271" xpos="429.703" ypos="4.39791" zpos="352.655" type="story_journal.season_4.a_bug_in_the_system.repairing_ig_6417" GUID="COLIcpUFQkasLJUSwPKqcA==" iconFile="Img/Season4/IG-6417_Infos.png" minSize="100" maxSize="100" fadeNear="1000" fadeFar="1500" />
 		<!-- REBOOTING IG-6417 -->
-		<POI MapID="1271" xpos="424.313"  ypos="3.84535" zpos="351.079"  type="story_journal.season_4.a_bug_in_the_system.rebooting_ig_6417" GUID="DSEwANu0nUqtMF8Vfew4Pg==" iconFile="Img/Season4/IG-6417.png" maxSize="28" heightOffset="3.5" behavior="0"/>
+		<POI MapID="1271" xpos="424.313" ypos="3.84535" zpos="351.079" type="story_journal.season_4.a_bug_in_the_system.rebooting_ig_6417" GUID="DSEwANu0nUqtMF8Vfew4Pg==" iconFile="Img/Season4/IG-6417.png" maxSize="28" heightOffset="3.5" behavior="0" />
 		<!-- Module MV-377 -->
-		<POI MapID="1271" xpos="-152.865" ypos="50.5549" zpos="131.19"   type="story_journal.season_4.a_bug_in_the_system.rebooting_ig_6417" GUID="4IfRaTrfgU6p/nvHXuzjuQ==" iconFile="Img/Season4/IG-6417_ModuleMV337.png" heightOffset="3.5"/>
-			<POI MapID="1271" xpos="-165.299" ypos="50.0457" zpos="146.278"  type="story_journal.season_4.a_bug_in_the_system.rebooting_ig_6417" GUID="rw5VLIxYUE2DbzZwOXZpXQ==" iconFile="Img/Season4/JackalPortal_Info.png"   minSize="96" maxSize="96" fadeNear="2000" fadeFar="3000" heightOffset="2" behavior="0"/>
-			<POI MapID="1271" xpos="-244.94"  ypos="142.08"  zpos="-329.125" type="story_journal.season_4.a_bug_in_the_system.rebooting_ig_6417" GUID="poovBoN3P0S96EYFHIQzNg==" iconFile="Img/Icons/Destination.png"           minSize="16" maxSize="32" heightOffset="7.5" behavior="0"/>
+		<POI MapID="1271" xpos="-152.865" ypos="50.5549" zpos="131.19" type="story_journal.season_4.a_bug_in_the_system.rebooting_ig_6417" GUID="4IfRaTrfgU6p/nvHXuzjuQ==" iconFile="Img/Season4/IG-6417_ModuleMV337.png" heightOffset="3.5" />
+		<POI MapID="1271" xpos="-165.299" ypos="50.0457" zpos="146.278" type="story_journal.season_4.a_bug_in_the_system.rebooting_ig_6417" GUID="rw5VLIxYUE2DbzZwOXZpXQ==" iconFile="Img/Season4/JackalPortal_Info.png" minSize="96" maxSize="96" fadeNear="2000" fadeFar="3000" heightOffset="2" behavior="0" />
+		<POI MapID="1271" xpos="-244.94" ypos="142.08" zpos="-329.125" type="story_journal.season_4.a_bug_in_the_system.rebooting_ig_6417" GUID="poovBoN3P0S96EYFHIQzNg==" iconFile="Img/Icons/Destination.png" minSize="16" maxSize="32" heightOffset="7.5" behavior="0" />
 		<!-- Module GP-739 -->
-		<POI MapID="1271" xpos="-363.027" ypos="65.6979" zpos="29.5456"  type="story_journal.season_4.a_bug_in_the_system.rebooting_ig_6417" GUID="qSpr5+KNwEmbp23BPosQFg==" iconFile="Img/Season4/IG-6417_ModuleGP739.png" heightOffset="3.5"/>
+		<POI MapID="1271" xpos="-363.027" ypos="65.6979" zpos="29.5456" type="story_journal.season_4.a_bug_in_the_system.rebooting_ig_6417" GUID="qSpr5+KNwEmbp23BPosQFg==" iconFile="Img/Season4/IG-6417_ModuleGP739.png" heightOffset="3.5" />
 		<!-- Module HR-874 -->
-		<POI MapID="1271" xpos="-268.742" ypos="107.647" zpos="-298.054" type="story_journal.season_4.a_bug_in_the_system.rebooting_ig_6417" GUID="WSGjSlstqE+jLA6R+MLsBw==" iconFile="Img/Season4/IG-6417_ModuleHR874.png" heightOffset="3.5"/>
+		<POI MapID="1271" xpos="-268.742" ypos="107.647" zpos="-298.054" type="story_journal.season_4.a_bug_in_the_system.rebooting_ig_6417" GUID="WSGjSlstqE+jLA6R+MLsBw==" iconFile="Img/Season4/IG-6417_ModuleHR874.png" heightOffset="3.5" />
 		<!-- Module ZN-290 -->
-		<POI MapID="1271" xpos="-131.039" ypos="155.739" zpos="-308.127" type="story_journal.season_4.a_bug_in_the_system.rebooting_ig_6417" GUID="xirUebDrO0ii4cE/1Swq6w==" iconFile="Img/Season4/IG-6417_ModuleZN290.png" heightOffset="3.5"/>
+		<POI MapID="1271" xpos="-131.039" ypos="155.739" zpos="-308.127" type="story_journal.season_4.a_bug_in_the_system.rebooting_ig_6417" GUID="xirUebDrO0ii4cE/1Swq6w==" iconFile="Img/Season4/IG-6417_ModuleZN290.png" heightOffset="3.5" />
 		<!-- Module JT-609 -->
-		<POI MapID="1271" xpos="-333.5"   ypos="77.6585" zpos="-385.811" type="story_journal.season_4.a_bug_in_the_system.rebooting_ig_6417" GUID="XlojEY6+PESm6wiaaXlOHA==" iconFile="Img/Season4/IG-6417_ModuleJT609.png" heightOffset="3.5"/>
+		<POI MapID="1271" xpos="-333.5" ypos="77.6585" zpos="-385.811" type="story_journal.season_4.a_bug_in_the_system.rebooting_ig_6417" GUID="XlojEY6+PESm6wiaaXlOHA==" iconFile="Img/Season4/IG-6417_ModuleJT609.png" heightOffset="3.5" />
 		<!-- Module KL-411 -->
-		<POI MapID="1271" xpos="319.224"  ypos="84.6632" zpos="-330.217" type="story_journal.season_4.a_bug_in_the_system.rebooting_ig_6417" GUID="tfaeWbXNPkif7h+8kjPaog==" iconFile="Img/Season4/IG-6417_ModuleKL411.png" heightOffset="3.5"/>
+		<POI MapID="1271" xpos="319.224" ypos="84.6632" zpos="-330.217" type="story_journal.season_4.a_bug_in_the_system.rebooting_ig_6417" GUID="tfaeWbXNPkif7h+8kjPaog==" iconFile="Img/Season4/IG-6417_ModuleKL411.png" heightOffset="3.5" />
 		<!-- Module XD-356 -->
-		<POI MapID="1271" xpos="78.7483"  ypos="62.9105" zpos="-654.812" type="story_journal.season_4.a_bug_in_the_system.rebooting_ig_6417" GUID="vd9j+ant7ke07HPqLLcR7Q==" iconFile="Img/Season4/IG-6417_ModuleXD356.png" heightOffset="0"/>
-		<POI MapID="50"   xpos="-244.693" ypos="12.2801" zpos="254.201"  type="story_journal.season_4.a_bug_in_the_system.rebooting_ig_6417" GUID="C6s+0LV+yUqG0kFbyHNTqA==" heightOffset="2.5"/>
-		<POI MapID="50"   xpos="-244.693" ypos="14.7"    zpos="254.201"  type="story_journal.season_4.a_bug_in_the_system.rebooting_ig_6417" GUID="r1GyHb7bj06TOMHicU5n/g==" iconFile="Img/Season4/IG-6417_ModuleXD356_HeroTron.png" minSize="64" maxSize="64" fadeNear="800" fadeFar="1200" behavior="0"/>
-
+		<POI MapID="1271" xpos="78.7483" ypos="62.9105" zpos="-654.812" type="story_journal.season_4.a_bug_in_the_system.rebooting_ig_6417" GUID="vd9j+ant7ke07HPqLLcR7Q==" iconFile="Img/Season4/IG-6417_ModuleXD356.png" heightOffset="0" />
+		<POI MapID="50" xpos="-244.693" ypos="12.2801" zpos="254.201" type="story_journal.season_4.a_bug_in_the_system.rebooting_ig_6417" GUID="C6s+0LV+yUqG0kFbyHNTqA==" heightOffset="2.5" />
+		<POI MapID="50" xpos="-244.693" ypos="14.7" zpos="254.201" type="story_journal.season_4.a_bug_in_the_system.rebooting_ig_6417" GUID="r1GyHb7bj06TOMHicU5n/g==" iconFile="Img/Season4/IG-6417_ModuleXD356_HeroTron.png" minSize="64" maxSize="64" fadeNear="800" fadeFar="1200" behavior="0" />
 		<!-- REDEEMING IG-6417 -->
-		<POI MapID="1271" xpos="424.313"  ypos="3.84535"  zpos="351.079"  type="story_journal.season_4.a_bug_in_the_system.redeeming_ig_6417" GUID="hVJGVeMGPUGT4sAyUZpTTA==" iconFile="Img/Season4/IG-6417.png" maxSize="28" heightOffset="3.5" behavior="0"/>
+		<POI MapID="1271" xpos="424.313" ypos="3.84535" zpos="351.079" type="story_journal.season_4.a_bug_in_the_system.redeeming_ig_6417" GUID="hVJGVeMGPUGT4sAyUZpTTA==" iconFile="Img/Season4/IG-6417.png" maxSize="28" heightOffset="3.5" behavior="0" />
 		<!-- 1 -->
-		<POI MapID="1248" xpos="348.851"  ypos="2.02645"  zpos="-667.678" type="story_journal.season_4.a_bug_in_the_system.redeeming_ig_6417.1" GUID="Y6Sb0KNutEmwLQITfsWo5w=="/>
+		<POI MapID="1248" xpos="348.851" ypos="2.02645" zpos="-667.678" type="story_journal.season_4.a_bug_in_the_system.redeeming_ig_6417.1" GUID="Y6Sb0KNutEmwLQITfsWo5w==" />
 		<!-- 2 -->
-		<POI MapID="1211" xpos="274.959"  ypos="137.411"  zpos="-154.226" type="story_journal.season_4.a_bug_in_the_system.redeeming_ig_6417.2" GUID="N4R8vHc+kUispbRY9AJ0AA=="/>
+		<POI MapID="1211" xpos="274.959" ypos="137.411" zpos="-154.226" type="story_journal.season_4.a_bug_in_the_system.redeeming_ig_6417.2" GUID="N4R8vHc+kUispbRY9AJ0AA==" />
 		<!-- 3 -->
-		<POI MapID="1271" xpos="-14.2311" ypos="46.2025"  zpos="-25.4933" type="story_journal.season_4.a_bug_in_the_system.redeeming_ig_6417.3" GUID="CxZUg3527EKHz2ci2nh2QQ==" heightOffset="4" behavior="0"/>
-		<POI MapID="1271" xpos="94.1009"  ypos="48.2752"  zpos="-25.7357" type="story_journal.season_4.a_bug_in_the_system.redeeming_ig_6417.3" GUID="6c4gAGpA3kWFt4Ah8I8ElQ==" iconFile="Img/Icons/Arrow.png" maxSize="24" fadeNear="3000" fadeFar="4000" behavior="0"/>
-		<POI MapID="1271" xpos="94.5688"  ypos="49.0363"  zpos="-23.7755" type="story_journal.season_4.a_bug_in_the_system.redeeming_ig_6417.3" GUID="kVZRFtc+0Em96zAMqxUVoQ==" iconFile="Img/Season4/IG-6417_SkrittRescueRecording_Info.png" minSize="80" maxSize="80" fadeNear="1000" fadeFar="1500" heightOffset="3" behavior="0"/>
+		<POI MapID="1271" xpos="-14.2311" ypos="46.2025" zpos="-25.4933" type="story_journal.season_4.a_bug_in_the_system.redeeming_ig_6417.3" GUID="CxZUg3527EKHz2ci2nh2QQ==" heightOffset="4" behavior="0" />
+		<POI MapID="1271" xpos="94.1009" ypos="48.2752" zpos="-25.7357" type="story_journal.season_4.a_bug_in_the_system.redeeming_ig_6417.3" GUID="6c4gAGpA3kWFt4Ah8I8ElQ==" iconFile="Img/Icons/Arrow.png" maxSize="24" fadeNear="3000" fadeFar="4000" behavior="0" />
+		<POI MapID="1271" xpos="94.5688" ypos="49.0363" zpos="-23.7755" type="story_journal.season_4.a_bug_in_the_system.redeeming_ig_6417.3" GUID="kVZRFtc+0Em96zAMqxUVoQ==" iconFile="Img/Season4/IG-6417_SkrittRescueRecording_Info.png" minSize="80" maxSize="80" fadeNear="1000" fadeFar="1500" heightOffset="3" behavior="0" />
 		<!-- 4 -->
-		<POI MapID="1210" xpos="1368.89"  ypos="77.8202"  zpos="-204.998" type="story_journal.season_4.a_bug_in_the_system.redeeming_ig_6417.4" GUID="kswGbmlzgUWT/ktSoc23oQ=="/>
+		<POI MapID="1210" xpos="1368.89" ypos="77.8202" zpos="-204.998" type="story_journal.season_4.a_bug_in_the_system.redeeming_ig_6417.4" GUID="kswGbmlzgUWT/ktSoc23oQ==" />
 		<!-- 5 -->
-		<Trail type="story_journal.season_4.a_bug_in_the_system.redeeming_ig_6417.5" GUID="/mq830rGWka6Iuv7MV9S8g==" trailData="Data/StoryJournal/Season4/ABugInTheSystem/RedeemingIG6417DeadhouseRescueRecording.trl" texture="Data/Dot.png" color="ff00ffff" alpha="1" fadeNear="4000" fadeFar="6000" animSpeed="0"/>
-		<POI MapID="1228" xpos="241.803"  ypos="2.55847"  zpos="-172.86"  type="story_journal.season_4.a_bug_in_the_system.redeeming_ig_6417.5" GUID="iRcRz5ccO02/uRbuiCD+Kw==" iconFile="Img/Season4/ABugInTheSystem_Start.png" fadeNear="4000" fadeFar="6000" heightOffset="3" behavior="0"/>
-		<POI MapID="1228" xpos="410.694"  ypos="5.23825"  zpos="-881.219" type="story_journal.season_4.a_bug_in_the_system.redeeming_ig_6417.5" GUID="HE48smlOCE+ZYe19pW4WHA==" triggerRange="10"/>
+		<Trail type="story_journal.season_4.a_bug_in_the_system.redeeming_ig_6417.5" GUID="/mq830rGWka6Iuv7MV9S8g==" trailData="Data/StoryJournal/Season4/ABugInTheSystem/RedeemingIG6417DeadhouseRescueRecording.trl" texture="Data/Dot.png" color="ff00ffff" alpha="1" fadeNear="4000" fadeFar="6000" animSpeed="0" />
+		<POI MapID="1228" xpos="241.803" ypos="2.55847" zpos="-172.86" type="story_journal.season_4.a_bug_in_the_system.redeeming_ig_6417.5" GUID="iRcRz5ccO02/uRbuiCD+Kw==" iconFile="Img/Season4/ABugInTheSystem_Start.png" fadeNear="4000" fadeFar="6000" heightOffset="3" behavior="0" />
+		<POI MapID="1228" xpos="410.694" ypos="5.23825" zpos="-881.219" type="story_journal.season_4.a_bug_in_the_system.redeeming_ig_6417.5" GUID="HE48smlOCE+ZYe19pW4WHA==" triggerRange="10" />
 		<!-- 6 -->
-		<POI MapID="1271" xpos="-457.693" ypos="22.7335"  zpos="-111.883" type="story_journal.season_4.a_bug_in_the_system.redeeming_ig_6417.6" GUID="ilIm1opcI0Wp9a60ReqaWg==" iconFile="Img/Icons/Arrow.png" maxSize="24" behavior="0"/>
-		<POI MapID="1271" xpos="-415.999" ypos="134.725"  zpos="-226.361" type="story_journal.season_4.a_bug_in_the_system.redeeming_ig_6417.6" GUID="B+7QwoX6rUSKEKjZ5QRm4w==" iconFile="Img/Icons/Interaction.png" minSize="12" maxSize="24" heightOffset="6" behavior="0"/>
-		<POI MapID="1271" xpos="-523.246" ypos="157.898"  zpos="-105.703" type="story_journal.season_4.a_bug_in_the_system.redeeming_ig_6417.6" GUID="eDFr40H6MkiDnbNWQ/nVGw=="/>
+		<POI MapID="1271" xpos="-457.693" ypos="22.7335" zpos="-111.883" type="story_journal.season_4.a_bug_in_the_system.redeeming_ig_6417.6" GUID="ilIm1opcI0Wp9a60ReqaWg==" iconFile="Img/Icons/Arrow.png" maxSize="24" behavior="0" />
+		<POI MapID="1271" xpos="-415.999" ypos="134.725" zpos="-226.361" type="story_journal.season_4.a_bug_in_the_system.redeeming_ig_6417.6" GUID="B+7QwoX6rUSKEKjZ5QRm4w==" iconFile="Img/Icons/Interaction.png" minSize="12" maxSize="24" heightOffset="6" behavior="0" />
+		<POI MapID="1271" xpos="-523.246" ypos="157.898" zpos="-105.703" type="story_journal.season_4.a_bug_in_the_system.redeeming_ig_6417.6" GUID="eDFr40H6MkiDnbNWQ/nVGw==" />
 		<!-- 7 -->
-		<POI MapID="1248" xpos="938.494"  ypos="13.7649"  zpos="605.325"  type="story_journal.season_4.a_bug_in_the_system.redeeming_ig_6417.7" GUID="ccZ906uxFEaiHJbiLayoEQ=="/>
-		<POI MapID="1248" xpos="938.494"  ypos="15.7649"  zpos="605.325"  type="story_journal.season_4.a_bug_in_the_system.redeeming_ig_6417.7" GUID="ktmIWJo7n0GAtWEd1h+Qqw==" iconFile="Img/Season4/IG-6417_VanquishBrandedRecording_Info.png" minSize="64" maxSize="64" fadeNear="4000" fadeFar="6000" behavior="0"/>
+		<POI MapID="1248" xpos="938.494" ypos="13.7649" zpos="605.325" type="story_journal.season_4.a_bug_in_the_system.redeeming_ig_6417.7" GUID="ccZ906uxFEaiHJbiLayoEQ==" />
+		<POI MapID="1248" xpos="938.494" ypos="15.7649" zpos="605.325" type="story_journal.season_4.a_bug_in_the_system.redeeming_ig_6417.7" GUID="ktmIWJo7n0GAtWEd1h+Qqw==" iconFile="Img/Season4/IG-6417_VanquishBrandedRecording_Info.png" minSize="64" maxSize="64" fadeNear="4000" fadeFar="6000" behavior="0" />
 		<!-- 8 -->
-		<Trail type="story_journal.season_4.a_bug_in_the_system.redeeming_ig_6417.8" GUID="DIiChi4r0kGiBBRK3xDQlA==" trailData="Data/StoryJournal/Season4/ABugInTheSystem/RedeemingIG6417GraveDefilerRecording.trl" texture="Data/Dot.png" color="ff0099ff" alpha="1" fadeNear="4000" fadeFar="6000" animSpeed="0"/>
-		<POI MapID="1228" xpos="22.5135"  ypos="0.20557"  zpos="-208.687" type="story_journal.season_4.a_bug_in_the_system.redeeming_ig_6417.8" GUID="P95gJPCRBEOY7lFRIsKkKg==" iconFile="Img/Season4/ABugInTheSystem_Start.png" fadeNear="4000" fadeFar="6000" heightOffset="3" behavior="0"/>
-		<POI MapID="1228" xpos="-122.095" ypos="27.3702"  zpos="-30.3872" type="story_journal.season_4.a_bug_in_the_system.redeeming_ig_6417.8" GUID="LP3712HbyUO9+PRbqtrnMw=="/>
+		<Trail type="story_journal.season_4.a_bug_in_the_system.redeeming_ig_6417.8" GUID="DIiChi4r0kGiBBRK3xDQlA==" trailData="Data/StoryJournal/Season4/ABugInTheSystem/RedeemingIG6417GraveDefilerRecording.trl" texture="Data/Dot.png" color="ff0099ff" alpha="1" fadeNear="4000" fadeFar="6000" animSpeed="0" />
+		<POI MapID="1228" xpos="22.5135" ypos="0.20557" zpos="-208.687" type="story_journal.season_4.a_bug_in_the_system.redeeming_ig_6417.8" GUID="P95gJPCRBEOY7lFRIsKkKg==" iconFile="Img/Season4/ABugInTheSystem_Start.png" fadeNear="4000" fadeFar="6000" heightOffset="3" behavior="0" />
+		<POI MapID="1228" xpos="-122.095" ypos="27.3702" zpos="-30.3872" type="story_journal.season_4.a_bug_in_the_system.redeeming_ig_6417.8" GUID="LP3712HbyUO9+PRbqtrnMw==" />
 		<!-- 9 -->
-		<POI MapID="1210" xpos="748.948"  ypos="123.514"  zpos="81.104"   type="story_journal.season_4.a_bug_in_the_system.redeeming_ig_6417.9" GUID="InDQLuJlsEuWgZmEBkXMrw=="/>
+		<POI MapID="1210" xpos="748.948" ypos="123.514" zpos="81.104" type="story_journal.season_4.a_bug_in_the_system.redeeming_ig_6417.9" GUID="InDQLuJlsEuWgZmEBkXMrw==" />
 		<!-- 10 -->
-		<POI MapID="1210" xpos="1110.83"  ypos="1.20008"  zpos="-233.527" type="story_journal.season_4.a_bug_in_the_system.redeeming_ig_6417.10" GUID="QUa5FI3CPUioCokXRKYJrw=="/>
-		<POI MapID="1210" xpos="1110.83"  ypos="4"        zpos="-233.527" type="story_journal.season_4.a_bug_in_the_system.redeeming_ig_6417.10" GUID="AO4tZbjSuECWGeyUUpsFgg==" iconFile="Img/Season4/IG-6417_MedicalAidRecording_Info.png" minSize="48" maxSize="48" fadeNear="1500" fadeFar="2000" behavior="0"/>
+		<POI MapID="1210" xpos="1110.83" ypos="1.20008" zpos="-233.527" type="story_journal.season_4.a_bug_in_the_system.redeeming_ig_6417.10" GUID="QUa5FI3CPUioCokXRKYJrw==" />
+		<POI MapID="1210" xpos="1110.83" ypos="4" zpos="-233.527" type="story_journal.season_4.a_bug_in_the_system.redeeming_ig_6417.10" GUID="AO4tZbjSuECWGeyUUpsFgg==" iconFile="Img/Season4/IG-6417_MedicalAidRecording_Info.png" minSize="48" maxSize="48" fadeNear="1500" fadeFar="2000" behavior="0" />
 		<!-- 11 -->
-		<POI MapID="1271" xpos="139.489"  ypos="0.95509"  zpos="470.682"  type="story_journal.season_4.a_bug_in_the_system.redeeming_ig_6417.11" GUID="bgc3YkDhyUOOAx3OHJ3G6Q=="/>
-		<POI MapID="1271" xpos="-235.67"  ypos="0.21"     zpos="769.48"   type="story_journal.season_4.a_bug_in_the_system.redeeming_ig_6417.11" GUID="gvcB5eHDBEaTxbWEX+zCIA==" iconFile="Img/Season4/ABugInTheSystem_Start.png" fadeNear="4000" fadeFar="6000" heightOffset="2.5" behavior="0"/>
+		<POI MapID="1271" xpos="139.489" ypos="0.95509" zpos="470.682" type="story_journal.season_4.a_bug_in_the_system.redeeming_ig_6417.11" GUID="bgc3YkDhyUOOAx3OHJ3G6Q==" />
+		<POI MapID="1271" xpos="-235.67" ypos="0.21" zpos="769.48" type="story_journal.season_4.a_bug_in_the_system.redeeming_ig_6417.11" GUID="gvcB5eHDBEaTxbWEX+zCIA==" iconFile="Img/Season4/ABugInTheSystem_Start.png" fadeNear="4000" fadeFar="6000" heightOffset="2.5" behavior="0" />
 		<!-- 12 -->
-		<Trail type="story_journal.season_4.a_bug_in_the_system.redeeming_ig_6417.12" GUID="ATWnlRQv70K75P3Krq9TDw==" trailData="Data/StoryJournal/Season4/ABugInTheSystem/RedeemingIG6417AmnoonRefugeeRecording.trl" texture="Data/Dot.png" color="ff0099ff" alpha="1" fadeNear="4000" fadeFar="6000" animSpeed="0"/>
-		<POI MapID="1210" xpos="316.175"  ypos="11.0699"  zpos="-259.965" type="story_journal.season_4.a_bug_in_the_system.redeeming_ig_6417.12" GUID="1vnR5fiOQ0C44kC392QNlA==" iconFile="Img/Season4/ABugInTheSystem_Start.png" fadeNear="4000" fadeFar="6000" behavior="0"/>
-		<POI MapID="1210" xpos="-365.786" ypos="3.69472"  zpos="-425.159" type="story_journal.season_4.a_bug_in_the_system.redeeming_ig_6417.12" GUID="2MakZQgToU6TSK9kNkH/QQ=="/>
+		<Trail type="story_journal.season_4.a_bug_in_the_system.redeeming_ig_6417.12" GUID="ATWnlRQv70K75P3Krq9TDw==" trailData="Data/StoryJournal/Season4/ABugInTheSystem/RedeemingIG6417AmnoonRefugeeRecording.trl" texture="Data/Dot.png" color="ff0099ff" alpha="1" fadeNear="4000" fadeFar="6000" animSpeed="0" />
+		<POI MapID="1210" xpos="316.175" ypos="11.0699" zpos="-259.965" type="story_journal.season_4.a_bug_in_the_system.redeeming_ig_6417.12" GUID="1vnR5fiOQ0C44kC392QNlA==" iconFile="Img/Season4/ABugInTheSystem_Start.png" fadeNear="4000" fadeFar="6000" behavior="0" />
+		<POI MapID="1210" xpos="-365.786" ypos="3.69472" zpos="-425.159" type="story_journal.season_4.a_bug_in_the_system.redeeming_ig_6417.12" GUID="2MakZQgToU6TSK9kNkH/QQ==" />
 		<!-- 13 -->
-		<Trail type="story_journal.season_4.a_bug_in_the_system.redeeming_ig_6417.13" GUID="bNMtAwbCU0SU435epoauWw==" trailData="Data/StoryJournal/Season4/ABugInTheSystem/RedeemingIG6417SwindlerRecording.trl" texture="Data/Dot.png" color="ff0099ff" alpha="1" fadeNear="4000" fadeFar="6000" animSpeed="0"/>
-		<POI MapID="1228" xpos="655.525"  ypos="86.3653"  zpos="590.1"    type="story_journal.season_4.a_bug_in_the_system.redeeming_ig_6417.13" GUID="PzuXoW7W50ilgHY0F7DYOw==" iconFile="Img/Season4/ABugInTheSystem_Start.png" fadeNear="4000" fadeFar="6000" heightOffset="3" behavior="0"/>
-		<POI MapID="1228" xpos="391.273"  ypos="77.4717"  zpos="501.278"  type="story_journal.season_4.a_bug_in_the_system.redeeming_ig_6417.13" GUID="1E+FxlgdukGdWPMzzqgUVg==" heightOffset="3"/>
+		<Trail type="story_journal.season_4.a_bug_in_the_system.redeeming_ig_6417.13" GUID="bNMtAwbCU0SU435epoauWw==" trailData="Data/StoryJournal/Season4/ABugInTheSystem/RedeemingIG6417SwindlerRecording.trl" texture="Data/Dot.png" color="ff0099ff" alpha="1" fadeNear="4000" fadeFar="6000" animSpeed="0" />
+		<POI MapID="1228" xpos="655.525" ypos="86.3653" zpos="590.1" type="story_journal.season_4.a_bug_in_the_system.redeeming_ig_6417.13" GUID="PzuXoW7W50ilgHY0F7DYOw==" iconFile="Img/Season4/ABugInTheSystem_Start.png" fadeNear="4000" fadeFar="6000" heightOffset="3" behavior="0" />
+		<POI MapID="1228" xpos="391.273" ypos="77.4717" zpos="501.278" type="story_journal.season_4.a_bug_in_the_system.redeeming_ig_6417.13" GUID="1E+FxlgdukGdWPMzzqgUVg==" heightOffset="3" />
 		<!-- 14 -->
-		<POI MapID="1210" xpos="694.539"  ypos="114.669"  zpos="350.138"  type="story_journal.season_4.a_bug_in_the_system.redeeming_ig_6417.14" GUID="qqD2sW/CgUSERekCiGNNiw=="/>
+		<POI MapID="1210" xpos="694.539" ypos="114.669" zpos="350.138" type="story_journal.season_4.a_bug_in_the_system.redeeming_ig_6417.14" GUID="qqD2sW/CgUSERekCiGNNiw==" />
 		<!-- 15 -->
-		<POI MapID="1210" xpos="702.195"  ypos="123.805"  zpos="118.388"  type="story_journal.season_4.a_bug_in_the_system.redeeming_ig_6417.15" GUID="hh8csrMIt0a2UN9qxIXM8Q=="/>
+		<POI MapID="1210" xpos="702.195" ypos="123.805" zpos="118.388" type="story_journal.season_4.a_bug_in_the_system.redeeming_ig_6417.15" GUID="hh8csrMIt0a2UN9qxIXM8Q==" />
 		<!-- 16 -->
-		<POI MapID="1271" xpos="507.484"  ypos="-0.10"    zpos="799.39"   type="story_journal.season_4.a_bug_in_the_system.redeeming_ig_6417.16" GUID="eR6E6nr4Wku/9U8wI7bzTw=="/>
-		<POI MapID="1271" xpos="507.484"  ypos="1.60"     zpos="799.39"   type="story_journal.season_4.a_bug_in_the_system.redeeming_ig_6417.16" GUID="K7zN+QbrO0SdKN52t3CFXw==" iconFile="Img/Season4/DefeatZohaqan.png" minSize="64" maxSize="64" fadeNear="1200" fadeFar="1500" behavior="0"/>
+		<POI MapID="1271" xpos="507.484" ypos="-0.10" zpos="799.39" type="story_journal.season_4.a_bug_in_the_system.redeeming_ig_6417.16" GUID="eR6E6nr4Wku/9U8wI7bzTw==" />
+		<POI MapID="1271" xpos="507.484" ypos="1.60" zpos="799.39" type="story_journal.season_4.a_bug_in_the_system.redeeming_ig_6417.16" GUID="K7zN+QbrO0SdKN52t3CFXw==" iconFile="Img/Season4/DefeatZohaqan.png" minSize="64" maxSize="64" fadeNear="1200" fadeFar="1500" behavior="0" />
 		<!-- 17 -->
-		<POI MapID="1248" xpos="-871.111" ypos="180.766"  zpos="-631.111" type="story_journal.season_4.a_bug_in_the_system.redeeming_ig_6417.17" GUID="0b3mM+akAEK7pOi2zHtWUw=="/>
+		<POI MapID="1248" xpos="-871.111" ypos="180.766" zpos="-631.111" type="story_journal.season_4.a_bug_in_the_system.redeeming_ig_6417.17" GUID="0b3mM+akAEK7pOi2zHtWUw==" />
 		<!-- 18 -->
-		<POI MapID="1226" xpos="-239.895" ypos="18.1742"  zpos="1141.3"   type="story_journal.season_4.a_bug_in_the_system.redeeming_ig_6417.18" GUID="KGEhjnmHPU+Owj8GJsVMJQ=="/>
+		<POI MapID="1226" xpos="-239.895" ypos="18.1742" zpos="1141.3" type="story_journal.season_4.a_bug_in_the_system.redeeming_ig_6417.18" GUID="KGEhjnmHPU+Owj8GJsVMJQ==" />
 		<!-- 19 -->
-		<POI MapID="1210" xpos="-1042.75" ypos="58.1338"  zpos="191.196"  type="story_journal.season_4.a_bug_in_the_system.redeeming_ig_6417.19" GUID="2BV8w6jQqUasFkvsNeVsug=="/>
-		<POI MapID="1210" xpos="48.1938"  ypos="53.9728"  zpos="488.301"  type="story_journal.season_4.a_bug_in_the_system.redeeming_ig_6417.19" GUID="OV5WEAvfPUGkG3NtcpoyZg=="/>
-		<POI MapID="1210" xpos="317.476"  ypos="51.2285"  zpos="-43.6422" type="story_journal.season_4.a_bug_in_the_system.redeeming_ig_6417.19" GUID="Dq+HUouba0SiQrJkhgRviw=="/>
-		<POI MapID="1210" xpos="1208.65"  ypos="83.015"   zpos="-265.111" type="story_journal.season_4.a_bug_in_the_system.redeeming_ig_6417.19" GUID="Bn7kAXUGakiL56uV0Ogyog=="/>
-		<POI MapID="1210" xpos="1206.05"  ypos="192.216"  zpos="469.111"  type="story_journal.season_4.a_bug_in_the_system.redeeming_ig_6417.19" GUID="1HstMG4r202+9ByrLgR4kw=="/>
-		<POI MapID="1211" xpos="-948.11"  ypos="505.356"  zpos="-3.87224" type="story_journal.season_4.a_bug_in_the_system.redeeming_ig_6417.19" GUID="wUM58zIhSE+gjA1sWdFMug=="/>
-		<POI MapID="1211" xpos="-788.549" ypos="4.99653"  zpos="-541.337" type="story_journal.season_4.a_bug_in_the_system.redeeming_ig_6417.19" GUID="61j6BU1j1Eup+/PY/6i/2A=="/>
-		<POI MapID="1211" xpos="-601.312" ypos="315.669"  zpos="128.567"  type="story_journal.season_4.a_bug_in_the_system.redeeming_ig_6417.19" GUID="vIrMqpG7/kObJBAROolXtw=="/>
-		<POI MapID="1211" xpos="211.655"  ypos="146.466"  zpos="-604.221" type="story_journal.season_4.a_bug_in_the_system.redeeming_ig_6417.19" GUID="yq3ZXi6ghUe6T93UiZF09g=="/>
-		<POI MapID="1211" xpos="1317.9"   ypos="190.635"  zpos="232.285"  type="story_journal.season_4.a_bug_in_the_system.redeeming_ig_6417.19" GUID="0dsy0fClNEGj9viwTqp3ww=="/>
-		<POI MapID="1226" xpos="-870.284" ypos="2.02354"  zpos="864.766"  type="story_journal.season_4.a_bug_in_the_system.redeeming_ig_6417.19" GUID="pBP1bxCZt0ue1AQXUWT12A=="/>
-		<POI MapID="1226" xpos="-597.237" ypos="233.259"  zpos="-563.829" type="story_journal.season_4.a_bug_in_the_system.redeeming_ig_6417.19" GUID="tLPCx1KvpkCU7Jz1QoxKXw=="/>
-		<POI MapID="1226" xpos="392.28"   ypos="248.195"  zpos="-1515.63" type="story_journal.season_4.a_bug_in_the_system.redeeming_ig_6417.19" GUID="r/ov44TSA0OLpQHCqx1K+g=="/>
-		<POI MapID="1226" xpos="844.122"  ypos="258.194"  zpos="-529.11"  type="story_journal.season_4.a_bug_in_the_system.redeeming_ig_6417.19" GUID="7weil7Uk10Cl+zszDoRZBA=="/>
-		<POI MapID="1226" xpos="944.997"  ypos="176.934"  zpos="1117.74"  type="story_journal.season_4.a_bug_in_the_system.redeeming_ig_6417.19" GUID="fIEFyTwQSEKq7o+xK2vuwA=="/>
-		<POI MapID="1228" xpos="-1059.3"  ypos="51.1741"  zpos="340.325"  type="story_journal.season_4.a_bug_in_the_system.redeeming_ig_6417.19" GUID="rlsoRKvdmEujKHxuYWo2nA=="/>
-		<POI MapID="1228" xpos="-266.9"   ypos="98.7276"  zpos="761.778"  type="story_journal.season_4.a_bug_in_the_system.redeeming_ig_6417.19" GUID="5sRL+/rgY0OlOBHbqSmDCw=="/>
-		<POI MapID="1228" xpos="-47.8779" ypos="16.9555"  zpos="-704.011" type="story_journal.season_4.a_bug_in_the_system.redeeming_ig_6417.19" GUID="K91y9iE3ckK2sEGxSScrPQ=="/>
-		<POI MapID="1228" xpos="718.672"  ypos="0"        zpos="-404.073" type="story_journal.season_4.a_bug_in_the_system.redeeming_ig_6417.19" GUID="vW1ixyru9EWBcTw9geqYww=="/>
-		<POI MapID="1228" xpos="943.871"  ypos="53.5195"  zpos="346.872"  type="story_journal.season_4.a_bug_in_the_system.redeeming_ig_6417.19" GUID="fgJxAlTglkmB/dJ9SdgiqQ=="/>
-		<POI MapID="1248" xpos="-1136.71" ypos="233.108"  zpos="-592.236" type="story_journal.season_4.a_bug_in_the_system.redeeming_ig_6417.19" GUID="jvAZLJOtBEGCZWAZG7oOCg=="/>
-		<POI MapID="1248" xpos="-759.673" ypos="103.67"   zpos="844.856"  type="story_journal.season_4.a_bug_in_the_system.redeeming_ig_6417.19" GUID="a/lvt20ufkeFuIoW7Li5wA=="/>
-		<POI MapID="1248" xpos="-66.908"  ypos="145.099"  zpos="918.586"  type="story_journal.season_4.a_bug_in_the_system.redeeming_ig_6417.19" GUID="0UOCn9hF4EWJnq5XAfG+JQ=="/>
-		<POI MapID="1248" xpos="435.113"  ypos="147.394"  zpos="889.222"  type="story_journal.season_4.a_bug_in_the_system.redeeming_ig_6417.19" GUID="9ABM4VkMYkCwRkrLamK1xw=="/>
-		<POI MapID="1248" xpos="1000.2"   ypos="30.1932"  zpos="-661.341" type="story_journal.season_4.a_bug_in_the_system.redeeming_ig_6417.19" GUID="4eutU1X8/EOcL3rZ3St8Wg=="/>
-		<POI MapID="1210" xpos="-1042.75" ypos="60.1338"  zpos="191.196"  type="story_journal.season_4.a_bug_in_the_system.redeeming_ig_6417.19" GUID="wzB1JVdTukiYAIyn5VJMFA==" iconFile="Img/Season4/IG-6417_BurglarRecording_Info.png" minSize="48" maxSize="64" fadeNear="1500" fadeFar="2000" behavior="0"/>
-		<POI MapID="1210" xpos="48.1938"  ypos="55.9728"  zpos="488.301"  type="story_journal.season_4.a_bug_in_the_system.redeeming_ig_6417.19" GUID="Bfu3sl/LYUiVn3sJICVT0w==" iconFile="Img/Season4/IG-6417_BurglarRecording_Info.png" minSize="48" maxSize="64" fadeNear="1500" fadeFar="2000" behavior="0"/>
-		<POI MapID="1210" xpos="317.476"  ypos="53.2285"  zpos="-43.6422" type="story_journal.season_4.a_bug_in_the_system.redeeming_ig_6417.19" GUID="wfe1+THs+km/UFvO40NPHA==" iconFile="Img/Season4/IG-6417_BurglarRecording_Info.png" minSize="48" maxSize="64" fadeNear="1500" fadeFar="2000" behavior="0"/>
-		<POI MapID="1210" xpos="1208.65"  ypos="85.015"   zpos="-265.111" type="story_journal.season_4.a_bug_in_the_system.redeeming_ig_6417.19" GUID="JFO1plYKb0KGQgxh1XEKhQ==" iconFile="Img/Season4/IG-6417_BurglarRecording_Info.png" minSize="48" maxSize="64" fadeNear="1500" fadeFar="2000" behavior="0"/>
-		<POI MapID="1210" xpos="1206.05"  ypos="194.216"  zpos="469.111"  type="story_journal.season_4.a_bug_in_the_system.redeeming_ig_6417.19" GUID="fP8ajtAQsEe55a7CU99zsQ==" iconFile="Img/Season4/IG-6417_BurglarRecording_Info.png" minSize="48" maxSize="64" fadeNear="1500" fadeFar="2000" behavior="0"/>
-		<POI MapID="1211" xpos="-948.11"  ypos="507.356"  zpos="-3.87224" type="story_journal.season_4.a_bug_in_the_system.redeeming_ig_6417.19" GUID="7A5NgZupr0K6Y7xeUexLfw==" iconFile="Img/Season4/IG-6417_BurglarRecording_Info.png" minSize="48" maxSize="64" fadeNear="1500" fadeFar="2000" behavior="0"/>
-		<POI MapID="1211" xpos="-788.549" ypos="6.99653"  zpos="-541.337" type="story_journal.season_4.a_bug_in_the_system.redeeming_ig_6417.19" GUID="gy0fxPU2fEu3RSQEeX11rg==" iconFile="Img/Season4/IG-6417_BurglarRecording_Info.png" minSize="48" maxSize="64" fadeNear="1500" fadeFar="2000" behavior="0"/>
-		<POI MapID="1211" xpos="-601.312" ypos="317.669"  zpos="128.567"  type="story_journal.season_4.a_bug_in_the_system.redeeming_ig_6417.19" GUID="QtLnJ31ILk2XJ7VgmggmBg==" iconFile="Img/Season4/IG-6417_BurglarRecording_Info.png" minSize="48" maxSize="64" fadeNear="1500" fadeFar="2000" behavior="0"/>
-		<POI MapID="1211" xpos="211.655"  ypos="148.466"  zpos="-604.221" type="story_journal.season_4.a_bug_in_the_system.redeeming_ig_6417.19" GUID="UZivMdmQy0iCEPRXUZdUdg==" iconFile="Img/Season4/IG-6417_BurglarRecording_Info.png" minSize="48" maxSize="64" fadeNear="1500" fadeFar="2000" behavior="0"/>
-		<POI MapID="1211" xpos="1317.9"   ypos="192.635"  zpos="232.285"  type="story_journal.season_4.a_bug_in_the_system.redeeming_ig_6417.19" GUID="PRTTLXW28kSh0HRwjXSOIg==" iconFile="Img/Season4/IG-6417_BurglarRecording_Info.png" minSize="48" maxSize="64" fadeNear="1500" fadeFar="2000" behavior="0"/>
-		<POI MapID="1226" xpos="-870.284" ypos="4.02354"  zpos="864.766"  type="story_journal.season_4.a_bug_in_the_system.redeeming_ig_6417.19" GUID="ctxqyCFK3UaJdRgdkHXpgg==" iconFile="Img/Season4/IG-6417_BurglarRecording_Info.png" minSize="48" maxSize="64" fadeNear="1500" fadeFar="2000" behavior="0"/>
-		<POI MapID="1226" xpos="-597.237" ypos="235.259"  zpos="-563.829" type="story_journal.season_4.a_bug_in_the_system.redeeming_ig_6417.19" GUID="RxtLDd0WeEi12GkAoDsbkA==" iconFile="Img/Season4/IG-6417_BurglarRecording_Info.png" minSize="48" maxSize="64" fadeNear="1500" fadeFar="2000" behavior="0"/>
-		<POI MapID="1226" xpos="392.28"   ypos="250.195"  zpos="-1515.63" type="story_journal.season_4.a_bug_in_the_system.redeeming_ig_6417.19" GUID="sqUp5CS0aUmREhz2clBZ1A==" iconFile="Img/Season4/IG-6417_BurglarRecording_Info.png" minSize="48" maxSize="64" fadeNear="1500" fadeFar="2000" behavior="0"/>
-		<POI MapID="1226" xpos="844.122"  ypos="260.194"  zpos="-529.11"  type="story_journal.season_4.a_bug_in_the_system.redeeming_ig_6417.19" GUID="6QiXlbWRX02CW2vnyd9xmA==" iconFile="Img/Season4/IG-6417_BurglarRecording_Info.png" minSize="48" maxSize="64" fadeNear="1500" fadeFar="2000" behavior="0"/>
-		<POI MapID="1226" xpos="944.997"  ypos="178.934"  zpos="1117.74"  type="story_journal.season_4.a_bug_in_the_system.redeeming_ig_6417.19" GUID="l5wGT9nfaU+hbAOf+IIRyw==" iconFile="Img/Season4/IG-6417_BurglarRecording_Info.png" minSize="48" maxSize="64" fadeNear="1500" fadeFar="2000" behavior="0"/>
-		<POI MapID="1228" xpos="-1059.3"  ypos="53.1741"  zpos="340.325"  type="story_journal.season_4.a_bug_in_the_system.redeeming_ig_6417.19" GUID="zVqKYsS6U0mJx+MTQ6EzWw==" iconFile="Img/Season4/IG-6417_BurglarRecording_Info.png" minSize="48" maxSize="64" fadeNear="1500" fadeFar="2000" behavior="0"/>
-		<POI MapID="1228" xpos="-266.9"   ypos="100.7276" zpos="761.778"  type="story_journal.season_4.a_bug_in_the_system.redeeming_ig_6417.19" GUID="RUDnGDIwj06qkLhM4hvOQQ==" iconFile="Img/Season4/IG-6417_BurglarRecording_Info.png" minSize="48" maxSize="64" fadeNear="1500" fadeFar="2000" behavior="0"/>
-		<POI MapID="1228" xpos="-47.8779" ypos="18.9555"  zpos="-704.011" type="story_journal.season_4.a_bug_in_the_system.redeeming_ig_6417.19" GUID="cMjybnTr/E681rbFXJX53w==" iconFile="Img/Season4/IG-6417_BurglarRecording_Info.png" minSize="48" maxSize="64" fadeNear="1500" fadeFar="2000" behavior="0"/>
-		<POI MapID="1228" xpos="718.672"  ypos="2"        zpos="-404.073" type="story_journal.season_4.a_bug_in_the_system.redeeming_ig_6417.19" GUID="lOJT/mFtZUeq0729sI5cMw==" iconFile="Img/Season4/IG-6417_BurglarRecording_Info.png" minSize="48" maxSize="64" fadeNear="1500" fadeFar="2000" behavior="0"/>
-		<POI MapID="1228" xpos="943.871"  ypos="55.5195"  zpos="346.872"  type="story_journal.season_4.a_bug_in_the_system.redeeming_ig_6417.19" GUID="avCpbD2Kq0q49FgMKiodDA==" iconFile="Img/Season4/IG-6417_BurglarRecording_Info.png" minSize="48" maxSize="64" fadeNear="1500" fadeFar="2000" behavior="0"/>
-		<POI MapID="1248" xpos="-1136.71" ypos="235.108"  zpos="-592.236" type="story_journal.season_4.a_bug_in_the_system.redeeming_ig_6417.19" GUID="dgpNC0cT6Ea+NmujLkHrXQ==" iconFile="Img/Season4/IG-6417_BurglarRecording_Info.png" minSize="48" maxSize="64" fadeNear="1500" fadeFar="2000" behavior="0"/>
-		<POI MapID="1248" xpos="-759.673" ypos="105.67"   zpos="844.856"  type="story_journal.season_4.a_bug_in_the_system.redeeming_ig_6417.19" GUID="xhteXdQYRU+4R7fWc55FNw==" iconFile="Img/Season4/IG-6417_BurglarRecording_Info.png" minSize="48" maxSize="64" fadeNear="1500" fadeFar="2000" behavior="0"/>
-		<POI MapID="1248" xpos="-66.908"  ypos="147.099"  zpos="918.586"  type="story_journal.season_4.a_bug_in_the_system.redeeming_ig_6417.19" GUID="IPGAjsQJukqxko+4ASCIRg==" iconFile="Img/Season4/IG-6417_BurglarRecording_Info.png" minSize="48" maxSize="64" fadeNear="1500" fadeFar="2000" behavior="0"/>
-		<POI MapID="1248" xpos="435.113"  ypos="149.394"  zpos="889.222"  type="story_journal.season_4.a_bug_in_the_system.redeeming_ig_6417.19" GUID="SNlQTh0SmEqavQNUaJA9/w==" iconFile="Img/Season4/IG-6417_BurglarRecording_Info.png" minSize="48" maxSize="64" fadeNear="1500" fadeFar="2000" behavior="0"/>
-		<POI MapID="1248" xpos="1000.2"   ypos="32.1932"  zpos="-661.341" type="story_journal.season_4.a_bug_in_the_system.redeeming_ig_6417.19" GUID="b8EGu/3qRU+0GqHqWDOe8Q==" iconFile="Img/Season4/IG-6417_BurglarRecording_Info.png" minSize="48" maxSize="64" fadeNear="1500" fadeFar="2000" behavior="0"/>
+		<POI MapID="1210" xpos="-1042.75" ypos="58.1338" zpos="191.196" type="story_journal.season_4.a_bug_in_the_system.redeeming_ig_6417.19" GUID="2BV8w6jQqUasFkvsNeVsug==" />
+		<POI MapID="1210" xpos="48.1938" ypos="53.9728" zpos="488.301" type="story_journal.season_4.a_bug_in_the_system.redeeming_ig_6417.19" GUID="OV5WEAvfPUGkG3NtcpoyZg==" />
+		<POI MapID="1210" xpos="317.476" ypos="51.2285" zpos="-43.6422" type="story_journal.season_4.a_bug_in_the_system.redeeming_ig_6417.19" GUID="Dq+HUouba0SiQrJkhgRviw==" />
+		<POI MapID="1210" xpos="1208.65" ypos="83.015" zpos="-265.111" type="story_journal.season_4.a_bug_in_the_system.redeeming_ig_6417.19" GUID="Bn7kAXUGakiL56uV0Ogyog==" />
+		<POI MapID="1210" xpos="1206.05" ypos="192.216" zpos="469.111" type="story_journal.season_4.a_bug_in_the_system.redeeming_ig_6417.19" GUID="1HstMG4r202+9ByrLgR4kw==" />
+		<POI MapID="1211" xpos="-948.11" ypos="505.356" zpos="-3.87224" type="story_journal.season_4.a_bug_in_the_system.redeeming_ig_6417.19" GUID="wUM58zIhSE+gjA1sWdFMug==" />
+		<POI MapID="1211" xpos="-788.549" ypos="4.99653" zpos="-541.337" type="story_journal.season_4.a_bug_in_the_system.redeeming_ig_6417.19" GUID="61j6BU1j1Eup+/PY/6i/2A==" />
+		<POI MapID="1211" xpos="-601.312" ypos="315.669" zpos="128.567" type="story_journal.season_4.a_bug_in_the_system.redeeming_ig_6417.19" GUID="vIrMqpG7/kObJBAROolXtw==" />
+		<POI MapID="1211" xpos="211.655" ypos="146.466" zpos="-604.221" type="story_journal.season_4.a_bug_in_the_system.redeeming_ig_6417.19" GUID="yq3ZXi6ghUe6T93UiZF09g==" />
+		<POI MapID="1211" xpos="1317.9" ypos="190.635" zpos="232.285" type="story_journal.season_4.a_bug_in_the_system.redeeming_ig_6417.19" GUID="0dsy0fClNEGj9viwTqp3ww==" />
+		<POI MapID="1226" xpos="-870.284" ypos="2.02354" zpos="864.766" type="story_journal.season_4.a_bug_in_the_system.redeeming_ig_6417.19" GUID="pBP1bxCZt0ue1AQXUWT12A==" />
+		<POI MapID="1226" xpos="-597.237" ypos="233.259" zpos="-563.829" type="story_journal.season_4.a_bug_in_the_system.redeeming_ig_6417.19" GUID="tLPCx1KvpkCU7Jz1QoxKXw==" />
+		<POI MapID="1226" xpos="392.28" ypos="248.195" zpos="-1515.63" type="story_journal.season_4.a_bug_in_the_system.redeeming_ig_6417.19" GUID="r/ov44TSA0OLpQHCqx1K+g==" />
+		<POI MapID="1226" xpos="844.122" ypos="258.194" zpos="-529.11" type="story_journal.season_4.a_bug_in_the_system.redeeming_ig_6417.19" GUID="7weil7Uk10Cl+zszDoRZBA==" />
+		<POI MapID="1226" xpos="944.997" ypos="176.934" zpos="1117.74" type="story_journal.season_4.a_bug_in_the_system.redeeming_ig_6417.19" GUID="fIEFyTwQSEKq7o+xK2vuwA==" />
+		<POI MapID="1228" xpos="-1059.3" ypos="51.1741" zpos="340.325" type="story_journal.season_4.a_bug_in_the_system.redeeming_ig_6417.19" GUID="rlsoRKvdmEujKHxuYWo2nA==" />
+		<POI MapID="1228" xpos="-266.9" ypos="98.7276" zpos="761.778" type="story_journal.season_4.a_bug_in_the_system.redeeming_ig_6417.19" GUID="5sRL+/rgY0OlOBHbqSmDCw==" />
+		<POI MapID="1228" xpos="-47.8779" ypos="16.9555" zpos="-704.011" type="story_journal.season_4.a_bug_in_the_system.redeeming_ig_6417.19" GUID="K91y9iE3ckK2sEGxSScrPQ==" />
+		<POI MapID="1228" xpos="718.672" ypos="0" zpos="-404.073" type="story_journal.season_4.a_bug_in_the_system.redeeming_ig_6417.19" GUID="vW1ixyru9EWBcTw9geqYww==" />
+		<POI MapID="1228" xpos="943.871" ypos="53.5195" zpos="346.872" type="story_journal.season_4.a_bug_in_the_system.redeeming_ig_6417.19" GUID="fgJxAlTglkmB/dJ9SdgiqQ==" />
+		<POI MapID="1248" xpos="-1136.71" ypos="233.108" zpos="-592.236" type="story_journal.season_4.a_bug_in_the_system.redeeming_ig_6417.19" GUID="jvAZLJOtBEGCZWAZG7oOCg==" />
+		<POI MapID="1248" xpos="-759.673" ypos="103.67" zpos="844.856" type="story_journal.season_4.a_bug_in_the_system.redeeming_ig_6417.19" GUID="a/lvt20ufkeFuIoW7Li5wA==" />
+		<POI MapID="1248" xpos="-66.908" ypos="145.099" zpos="918.586" type="story_journal.season_4.a_bug_in_the_system.redeeming_ig_6417.19" GUID="0UOCn9hF4EWJnq5XAfG+JQ==" />
+		<POI MapID="1248" xpos="435.113" ypos="147.394" zpos="889.222" type="story_journal.season_4.a_bug_in_the_system.redeeming_ig_6417.19" GUID="9ABM4VkMYkCwRkrLamK1xw==" />
+		<POI MapID="1248" xpos="1000.2" ypos="30.1932" zpos="-661.341" type="story_journal.season_4.a_bug_in_the_system.redeeming_ig_6417.19" GUID="4eutU1X8/EOcL3rZ3St8Wg==" />
+		<POI MapID="1210" xpos="-1042.75" ypos="60.1338" zpos="191.196" type="story_journal.season_4.a_bug_in_the_system.redeeming_ig_6417.19" GUID="wzB1JVdTukiYAIyn5VJMFA==" iconFile="Img/Season4/IG-6417_BurglarRecording_Info.png" minSize="48" maxSize="64" fadeNear="1500" fadeFar="2000" behavior="0" />
+		<POI MapID="1210" xpos="48.1938" ypos="55.9728" zpos="488.301" type="story_journal.season_4.a_bug_in_the_system.redeeming_ig_6417.19" GUID="Bfu3sl/LYUiVn3sJICVT0w==" iconFile="Img/Season4/IG-6417_BurglarRecording_Info.png" minSize="48" maxSize="64" fadeNear="1500" fadeFar="2000" behavior="0" />
+		<POI MapID="1210" xpos="317.476" ypos="53.2285" zpos="-43.6422" type="story_journal.season_4.a_bug_in_the_system.redeeming_ig_6417.19" GUID="wfe1+THs+km/UFvO40NPHA==" iconFile="Img/Season4/IG-6417_BurglarRecording_Info.png" minSize="48" maxSize="64" fadeNear="1500" fadeFar="2000" behavior="0" />
+		<POI MapID="1210" xpos="1208.65" ypos="85.015" zpos="-265.111" type="story_journal.season_4.a_bug_in_the_system.redeeming_ig_6417.19" GUID="JFO1plYKb0KGQgxh1XEKhQ==" iconFile="Img/Season4/IG-6417_BurglarRecording_Info.png" minSize="48" maxSize="64" fadeNear="1500" fadeFar="2000" behavior="0" />
+		<POI MapID="1210" xpos="1206.05" ypos="194.216" zpos="469.111" type="story_journal.season_4.a_bug_in_the_system.redeeming_ig_6417.19" GUID="fP8ajtAQsEe55a7CU99zsQ==" iconFile="Img/Season4/IG-6417_BurglarRecording_Info.png" minSize="48" maxSize="64" fadeNear="1500" fadeFar="2000" behavior="0" />
+		<POI MapID="1211" xpos="-948.11" ypos="507.356" zpos="-3.87224" type="story_journal.season_4.a_bug_in_the_system.redeeming_ig_6417.19" GUID="7A5NgZupr0K6Y7xeUexLfw==" iconFile="Img/Season4/IG-6417_BurglarRecording_Info.png" minSize="48" maxSize="64" fadeNear="1500" fadeFar="2000" behavior="0" />
+		<POI MapID="1211" xpos="-788.549" ypos="6.99653" zpos="-541.337" type="story_journal.season_4.a_bug_in_the_system.redeeming_ig_6417.19" GUID="gy0fxPU2fEu3RSQEeX11rg==" iconFile="Img/Season4/IG-6417_BurglarRecording_Info.png" minSize="48" maxSize="64" fadeNear="1500" fadeFar="2000" behavior="0" />
+		<POI MapID="1211" xpos="-601.312" ypos="317.669" zpos="128.567" type="story_journal.season_4.a_bug_in_the_system.redeeming_ig_6417.19" GUID="QtLnJ31ILk2XJ7VgmggmBg==" iconFile="Img/Season4/IG-6417_BurglarRecording_Info.png" minSize="48" maxSize="64" fadeNear="1500" fadeFar="2000" behavior="0" />
+		<POI MapID="1211" xpos="211.655" ypos="148.466" zpos="-604.221" type="story_journal.season_4.a_bug_in_the_system.redeeming_ig_6417.19" GUID="UZivMdmQy0iCEPRXUZdUdg==" iconFile="Img/Season4/IG-6417_BurglarRecording_Info.png" minSize="48" maxSize="64" fadeNear="1500" fadeFar="2000" behavior="0" />
+		<POI MapID="1211" xpos="1317.9" ypos="192.635" zpos="232.285" type="story_journal.season_4.a_bug_in_the_system.redeeming_ig_6417.19" GUID="PRTTLXW28kSh0HRwjXSOIg==" iconFile="Img/Season4/IG-6417_BurglarRecording_Info.png" minSize="48" maxSize="64" fadeNear="1500" fadeFar="2000" behavior="0" />
+		<POI MapID="1226" xpos="-870.284" ypos="4.02354" zpos="864.766" type="story_journal.season_4.a_bug_in_the_system.redeeming_ig_6417.19" GUID="ctxqyCFK3UaJdRgdkHXpgg==" iconFile="Img/Season4/IG-6417_BurglarRecording_Info.png" minSize="48" maxSize="64" fadeNear="1500" fadeFar="2000" behavior="0" />
+		<POI MapID="1226" xpos="-597.237" ypos="235.259" zpos="-563.829" type="story_journal.season_4.a_bug_in_the_system.redeeming_ig_6417.19" GUID="RxtLDd0WeEi12GkAoDsbkA==" iconFile="Img/Season4/IG-6417_BurglarRecording_Info.png" minSize="48" maxSize="64" fadeNear="1500" fadeFar="2000" behavior="0" />
+		<POI MapID="1226" xpos="392.28" ypos="250.195" zpos="-1515.63" type="story_journal.season_4.a_bug_in_the_system.redeeming_ig_6417.19" GUID="sqUp5CS0aUmREhz2clBZ1A==" iconFile="Img/Season4/IG-6417_BurglarRecording_Info.png" minSize="48" maxSize="64" fadeNear="1500" fadeFar="2000" behavior="0" />
+		<POI MapID="1226" xpos="844.122" ypos="260.194" zpos="-529.11" type="story_journal.season_4.a_bug_in_the_system.redeeming_ig_6417.19" GUID="6QiXlbWRX02CW2vnyd9xmA==" iconFile="Img/Season4/IG-6417_BurglarRecording_Info.png" minSize="48" maxSize="64" fadeNear="1500" fadeFar="2000" behavior="0" />
+		<POI MapID="1226" xpos="944.997" ypos="178.934" zpos="1117.74" type="story_journal.season_4.a_bug_in_the_system.redeeming_ig_6417.19" GUID="l5wGT9nfaU+hbAOf+IIRyw==" iconFile="Img/Season4/IG-6417_BurglarRecording_Info.png" minSize="48" maxSize="64" fadeNear="1500" fadeFar="2000" behavior="0" />
+		<POI MapID="1228" xpos="-1059.3" ypos="53.1741" zpos="340.325" type="story_journal.season_4.a_bug_in_the_system.redeeming_ig_6417.19" GUID="zVqKYsS6U0mJx+MTQ6EzWw==" iconFile="Img/Season4/IG-6417_BurglarRecording_Info.png" minSize="48" maxSize="64" fadeNear="1500" fadeFar="2000" behavior="0" />
+		<POI MapID="1228" xpos="-266.9" ypos="100.7276" zpos="761.778" type="story_journal.season_4.a_bug_in_the_system.redeeming_ig_6417.19" GUID="RUDnGDIwj06qkLhM4hvOQQ==" iconFile="Img/Season4/IG-6417_BurglarRecording_Info.png" minSize="48" maxSize="64" fadeNear="1500" fadeFar="2000" behavior="0" />
+		<POI MapID="1228" xpos="-47.8779" ypos="18.9555" zpos="-704.011" type="story_journal.season_4.a_bug_in_the_system.redeeming_ig_6417.19" GUID="cMjybnTr/E681rbFXJX53w==" iconFile="Img/Season4/IG-6417_BurglarRecording_Info.png" minSize="48" maxSize="64" fadeNear="1500" fadeFar="2000" behavior="0" />
+		<POI MapID="1228" xpos="718.672" ypos="2" zpos="-404.073" type="story_journal.season_4.a_bug_in_the_system.redeeming_ig_6417.19" GUID="lOJT/mFtZUeq0729sI5cMw==" iconFile="Img/Season4/IG-6417_BurglarRecording_Info.png" minSize="48" maxSize="64" fadeNear="1500" fadeFar="2000" behavior="0" />
+		<POI MapID="1228" xpos="943.871" ypos="55.5195" zpos="346.872" type="story_journal.season_4.a_bug_in_the_system.redeeming_ig_6417.19" GUID="avCpbD2Kq0q49FgMKiodDA==" iconFile="Img/Season4/IG-6417_BurglarRecording_Info.png" minSize="48" maxSize="64" fadeNear="1500" fadeFar="2000" behavior="0" />
+		<POI MapID="1248" xpos="-1136.71" ypos="235.108" zpos="-592.236" type="story_journal.season_4.a_bug_in_the_system.redeeming_ig_6417.19" GUID="dgpNC0cT6Ea+NmujLkHrXQ==" iconFile="Img/Season4/IG-6417_BurglarRecording_Info.png" minSize="48" maxSize="64" fadeNear="1500" fadeFar="2000" behavior="0" />
+		<POI MapID="1248" xpos="-759.673" ypos="105.67" zpos="844.856" type="story_journal.season_4.a_bug_in_the_system.redeeming_ig_6417.19" GUID="xhteXdQYRU+4R7fWc55FNw==" iconFile="Img/Season4/IG-6417_BurglarRecording_Info.png" minSize="48" maxSize="64" fadeNear="1500" fadeFar="2000" behavior="0" />
+		<POI MapID="1248" xpos="-66.908" ypos="147.099" zpos="918.586" type="story_journal.season_4.a_bug_in_the_system.redeeming_ig_6417.19" GUID="IPGAjsQJukqxko+4ASCIRg==" iconFile="Img/Season4/IG-6417_BurglarRecording_Info.png" minSize="48" maxSize="64" fadeNear="1500" fadeFar="2000" behavior="0" />
+		<POI MapID="1248" xpos="435.113" ypos="149.394" zpos="889.222" type="story_journal.season_4.a_bug_in_the_system.redeeming_ig_6417.19" GUID="SNlQTh0SmEqavQNUaJA9/w==" iconFile="Img/Season4/IG-6417_BurglarRecording_Info.png" minSize="48" maxSize="64" fadeNear="1500" fadeFar="2000" behavior="0" />
+		<POI MapID="1248" xpos="1000.2" ypos="32.1932" zpos="-661.341" type="story_journal.season_4.a_bug_in_the_system.redeeming_ig_6417.19" GUID="b8EGu/3qRU+0GqHqWDOe8Q==" iconFile="Img/Season4/IG-6417_BurglarRecording_Info.png" minSize="48" maxSize="64" fadeNear="1500" fadeFar="2000" behavior="0" />
 		<!-- 20 -->
-		<Trail type="story_journal.season_4.a_bug_in_the_system.redeeming_ig_6417.20" GUID="F3qMcP8IlUWpFh40sh1Thw==" trailData="Data/StoryJournal/Season4/ABugInTheSystem/RedeemingIG6417LostSupplyRecording.trl" texture="Data/Dot.png" color="ff0099ff" alpha="1" fadeNear="4000" fadeFar="6000" animSpeed="0"/>
-		<POI MapID="1211" xpos="-378.205" ypos="151.957"  zpos="-187.77"  type="story_journal.season_4.a_bug_in_the_system.redeeming_ig_6417.20" GUID="jlE8EM8BwUmczammcCtltg==" iconFile="Img/Season4/ABugInTheSystem_Start.png" fadeNear="4000" fadeFar="6000" heightOffset="3" behavior="0"/>
-		<POI MapID="1211" xpos="-834.929" ypos="373.791"  zpos="449.614"  type="story_journal.season_4.a_bug_in_the_system.redeeming_ig_6417.20" GUID="bfXXWTzQyUGMIlFEBXbxiQ==" heightOffset="3"/>
+		<Trail type="story_journal.season_4.a_bug_in_the_system.redeeming_ig_6417.20" GUID="F3qMcP8IlUWpFh40sh1Thw==" trailData="Data/StoryJournal/Season4/ABugInTheSystem/RedeemingIG6417LostSupplyRecording.trl" texture="Data/Dot.png" color="ff0099ff" alpha="1" fadeNear="4000" fadeFar="6000" animSpeed="0" />
+		<POI MapID="1211" xpos="-378.205" ypos="151.957" zpos="-187.77" type="story_journal.season_4.a_bug_in_the_system.redeeming_ig_6417.20" GUID="jlE8EM8BwUmczammcCtltg==" iconFile="Img/Season4/ABugInTheSystem_Start.png" fadeNear="4000" fadeFar="6000" heightOffset="3" behavior="0" />
+		<POI MapID="1211" xpos="-834.929" ypos="373.791" zpos="449.614" type="story_journal.season_4.a_bug_in_the_system.redeeming_ig_6417.20" GUID="bfXXWTzQyUGMIlFEBXbxiQ==" heightOffset="3" />
 		<!-- 21 -->
-		<POI MapID="1228" xpos="513.353"  ypos="3.27007"  zpos="-27.9289" type="story_journal.season_4.a_bug_in_the_system.redeeming_ig_6417.21" GUID="2dOkCO17SEGN6oFF3N2vfw=="/>
+		<POI MapID="1228" xpos="513.353" ypos="3.27007" zpos="-27.9289" type="story_journal.season_4.a_bug_in_the_system.redeeming_ig_6417.21" GUID="2dOkCO17SEGN6oFF3N2vfw==" />
 		<!-- 22 -->
-		<POI MapID="1271" xpos="608.806"  ypos="49.4436"  zpos="-689.661" type="story_journal.season_4.a_bug_in_the_system.redeeming_ig_6417.22" GUID="8QNNaG4PKUCeEV0TeIImmA==" heightOffset="3" behavior="0"/>
-		<POI MapID="1271" xpos="611.171"  ypos="49.5073"  zpos="-693.894" type="story_journal.season_4.a_bug_in_the_system.redeeming_ig_6417.22" GUID="N+rd002v0EqY2jkL51BuAw==" iconFile="Img/Season4/IG-6417_RecordingDevice.png" minSize="64" maxSize="80" fadeNear="1000" fadeFar="1500" behavior="0"/>
-
+		<POI MapID="1271" xpos="608.806" ypos="49.4436" zpos="-689.661" type="story_journal.season_4.a_bug_in_the_system.redeeming_ig_6417.22" GUID="8QNNaG4PKUCeEV0TeIImmA==" heightOffset="3" behavior="0" />
+		<POI MapID="1271" xpos="611.171" ypos="49.5073" zpos="-693.894" type="story_journal.season_4.a_bug_in_the_system.redeeming_ig_6417.22" GUID="N+rd002v0EqY2jkL51BuAw==" iconFile="Img/Season4/IG-6417_RecordingDevice.png" minSize="64" maxSize="80" fadeNear="1000" fadeFar="1500" behavior="0" />
 		<!-- RESCUE RANGER -->
-		<POI MapID="1271" xpos="-14.2311" ypos="46.2025" zpos="-25.4933" type="story_journal.season_4.a_bug_in_the_system.saving_skritt" GUID="S+SfSR60VUusOHpTfetNXA==" heightOffset="4"/>
-		<POI MapID="1271" xpos="94.1009"  ypos="48.2752" zpos="-25.7357" type="story_journal.season_4.a_bug_in_the_system.saving_skritt" GUID="On0w50YXAUewFKHSHgNEIg==" iconFile="Img/Icons/Arrow.png"    maxSize="24" fadeNear="3000" fadeFar="4000"/>
-		<POI MapID="1271" xpos="94.5688"  ypos="49.0363" zpos="-23.7755" type="story_journal.season_4.a_bug_in_the_system.saving_skritt" GUID="Xr/HyGTnFUO+D+XlZ/ePZA==" iconFile="Img/Season4/Skritt.png" maxSize="24" fadeNear="3000" fadeFar="6000" behavior="6"/>
-		<POI MapID="1271" xpos="-46.8718" ypos="42.78"   zpos="-121.578" type="story_journal.season_4.a_bug_in_the_system.saving_skritt" GUID="a9kbGO82P0mJe5LXNq4gcA==" iconFile="Img/Season4/Skritt.png" maxSize="24" fadeNear="3000" fadeFar="6000" behavior="6"/>
-		<POI MapID="1271" xpos="-69.0387" ypos="42.5877" zpos="-121.474" type="story_journal.season_4.a_bug_in_the_system.saving_skritt" GUID="4tsNc9YzzU2iHkl+TT9DHw==" iconFile="Img/Season4/Skritt.png" maxSize="24" fadeNear="3000" fadeFar="6000" behavior="6"/>
-		<POI MapID="1271" xpos="-38.9152" ypos="5.812"   zpos="-142.794" type="story_journal.season_4.a_bug_in_the_system.saving_skritt" GUID="t/6fizh8zkqh1VybJWyOww==" iconFile="Img/Season4/Skritt.png" maxSize="24" fadeNear="3000" fadeFar="6000" behavior="6"/>
-		<POI MapID="1271" xpos="-40.2237" ypos="5.79902" zpos="-109.025" type="story_journal.season_4.a_bug_in_the_system.saving_skritt" GUID="/2OpTbhn10ai7FeEAKCyzQ==" iconFile="Img/Season4/Skritt.png" maxSize="24" fadeNear="3000" fadeFar="6000" behavior="6"/>
-		<POI MapID="1271" xpos="-19.3167" ypos="6.94833" zpos="-61.4589" type="story_journal.season_4.a_bug_in_the_system.saving_skritt" GUID="2qCsxUqiDUehV1lIUM10Gw==" iconFile="Img/Season4/Skritt.png" maxSize="24" fadeNear="3000" fadeFar="6000" behavior="6"/>
-		<POI MapID="1271" xpos="-25.2317" ypos="6.7057"  zpos="-69.7747" type="story_journal.season_4.a_bug_in_the_system.saving_skritt" GUID="C0Gz3aj7FEiDDWJdA3v8zA==" iconFile="Img/Season4/Skritt.png" maxSize="24" fadeNear="3000" fadeFar="6000" behavior="6"/>
-		<POI MapID="1271" xpos="-116.824" ypos="1.587"   zpos="-198.992" type="story_journal.season_4.a_bug_in_the_system.saving_skritt" GUID="wkD1KNZhW0+8AZxGAw0MXg==" iconFile="Img/Season4/Skritt.png" maxSize="24" fadeNear="3000" fadeFar="6000" behavior="6"/>
-		<POI MapID="1271" xpos="-127.232" ypos="1.58701" zpos="-190.017" type="story_journal.season_4.a_bug_in_the_system.saving_skritt" GUID="S9DRiIMAgkuip5A6HAMHGQ==" iconFile="Img/Season4/Skritt.png" maxSize="24" fadeNear="3000" fadeFar="6000" behavior="6"/>
-		<POI MapID="1271" xpos="-159.078" ypos="2.50198" zpos="-136.996" type="story_journal.season_4.a_bug_in_the_system.saving_skritt" GUID="S04u2PAHTECy5gLFgQo6fg==" iconFile="Img/Season4/Skritt.png" maxSize="24" fadeNear="3000" fadeFar="6000" behavior="6"/>
-		<POI MapID="1271" xpos="-144.841" ypos="2.5018"  zpos="-135.44"  type="story_journal.season_4.a_bug_in_the_system.saving_skritt" GUID="parYRqqwYUqI1V8T4YZZ3A==" iconFile="Img/Season4/Skritt.png" maxSize="24" fadeNear="3000" fadeFar="6000" behavior="6"/>
-		<POI MapID="1271" xpos="-147.876" ypos="2.00081" zpos="-33.3945" type="story_journal.season_4.a_bug_in_the_system.saving_skritt" GUID="59ime+LYWE+ub//kZJZUbQ==" iconFile="Img/Season4/Skritt.png" maxSize="24" fadeNear="3000" fadeFar="6000" behavior="6"/>
-		<POI MapID="1271" xpos="-163.025" ypos="2.24235" zpos="-19.5586" type="story_journal.season_4.a_bug_in_the_system.saving_skritt" GUID="7r+6k/8VG0iEelyF48EWCw==" iconFile="Img/Season4/Skritt.png" maxSize="24" fadeNear="3000" fadeFar="6000" behavior="6"/>
-		<POI MapID="1271" xpos="-205.418" ypos="1.85383" zpos="-85.1852" type="story_journal.season_4.a_bug_in_the_system.saving_skritt" GUID="1363jB1aqEC+EnWSnA4+Qw==" iconFile="Img/Season4/Skritt.png" maxSize="24" fadeNear="3000" fadeFar="6000" behavior="6"/>
-		<POI MapID="1271" xpos="-205.853" ypos="1.83332" zpos="-75.7165" type="story_journal.season_4.a_bug_in_the_system.saving_skritt" GUID="MCyPZ9faeUepLlv1MmCVfw==" iconFile="Img/Season4/Skritt.png" maxSize="24" fadeNear="3000" fadeFar="6000" behavior="6"/>
-		<POI MapID="1271" xpos="-106.684" ypos="2.02758" zpos="20.9336"  type="story_journal.season_4.a_bug_in_the_system.saving_skritt" GUID="kGkmuaVKqUKIX0Io+a/oSg==" iconFile="Img/Season4/Skritt.png" maxSize="24" fadeNear="3000" fadeFar="6000" behavior="6"/>
-		<POI MapID="1271" xpos="-107.052" ypos="2.02182" zpos="36.3818"  type="story_journal.season_4.a_bug_in_the_system.saving_skritt" GUID="7mA+CXzZCUWiRKTY4lpv6w==" iconFile="Img/Season4/Skritt.png" maxSize="24" fadeNear="3000" fadeFar="6000" behavior="6"/>
-		<POI MapID="1271" xpos="-169.221" ypos="1.99686" zpos="80.4445"  type="story_journal.season_4.a_bug_in_the_system.saving_skritt" GUID="4qXXx2Y8lU2sqgLtRDdrLw==" iconFile="Img/Season4/Skritt.png" maxSize="24" fadeNear="3000" fadeFar="6000" behavior="6"/>
-		<POI MapID="1271" xpos="-154.012" ypos="1.95045" zpos="81.1351"  type="story_journal.season_4.a_bug_in_the_system.saving_skritt" GUID="9TShcYikmkmzToTifTNNUA==" iconFile="Img/Season4/Skritt.png" maxSize="24" fadeNear="3000" fadeFar="6000" behavior="6"/>
-		<POI MapID="1271" xpos="-169.841" ypos="4.75812" zpos="122.291"  type="story_journal.season_4.a_bug_in_the_system.saving_skritt" GUID="Jww6hnGyd0CQZE31sKt1Iw==" iconFile="Img/Season4/Skritt.png" maxSize="24" fadeNear="3000" fadeFar="6000" behavior="6"/>
-		<POI MapID="1271" xpos="-158.807" ypos="4.33247" zpos="130.268"  type="story_journal.season_4.a_bug_in_the_system.saving_skritt" GUID="d76qyy0BNEaifoqERTYWlA==" iconFile="Img/Season4/Skritt.png" maxSize="24" fadeNear="3000" fadeFar="6000" behavior="6"/>
-
+		<POI MapID="1271" xpos="-14.2311" ypos="46.2025" zpos="-25.4933" type="story_journal.season_4.a_bug_in_the_system.saving_skritt" GUID="S+SfSR60VUusOHpTfetNXA==" heightOffset="4" />
+		<POI MapID="1271" xpos="94.1009" ypos="48.2752" zpos="-25.7357" type="story_journal.season_4.a_bug_in_the_system.saving_skritt" GUID="On0w50YXAUewFKHSHgNEIg==" iconFile="Img/Icons/Arrow.png" maxSize="24" fadeNear="3000" fadeFar="4000" />
+		<POI MapID="1271" xpos="94.5688" ypos="49.0363" zpos="-23.7755" type="story_journal.season_4.a_bug_in_the_system.saving_skritt" GUID="Xr/HyGTnFUO+D+XlZ/ePZA==" iconFile="Img/Season4/Skritt.png" maxSize="24" fadeNear="3000" fadeFar="6000" behavior="6" />
+		<POI MapID="1271" xpos="-46.8718" ypos="42.78" zpos="-121.578" type="story_journal.season_4.a_bug_in_the_system.saving_skritt" GUID="a9kbGO82P0mJe5LXNq4gcA==" iconFile="Img/Season4/Skritt.png" maxSize="24" fadeNear="3000" fadeFar="6000" behavior="6" />
+		<POI MapID="1271" xpos="-69.0387" ypos="42.5877" zpos="-121.474" type="story_journal.season_4.a_bug_in_the_system.saving_skritt" GUID="4tsNc9YzzU2iHkl+TT9DHw==" iconFile="Img/Season4/Skritt.png" maxSize="24" fadeNear="3000" fadeFar="6000" behavior="6" />
+		<POI MapID="1271" xpos="-38.9152" ypos="5.812" zpos="-142.794" type="story_journal.season_4.a_bug_in_the_system.saving_skritt" GUID="t/6fizh8zkqh1VybJWyOww==" iconFile="Img/Season4/Skritt.png" maxSize="24" fadeNear="3000" fadeFar="6000" behavior="6" />
+		<POI MapID="1271" xpos="-40.2237" ypos="5.79902" zpos="-109.025" type="story_journal.season_4.a_bug_in_the_system.saving_skritt" GUID="/2OpTbhn10ai7FeEAKCyzQ==" iconFile="Img/Season4/Skritt.png" maxSize="24" fadeNear="3000" fadeFar="6000" behavior="6" />
+		<POI MapID="1271" xpos="-19.3167" ypos="6.94833" zpos="-61.4589" type="story_journal.season_4.a_bug_in_the_system.saving_skritt" GUID="2qCsxUqiDUehV1lIUM10Gw==" iconFile="Img/Season4/Skritt.png" maxSize="24" fadeNear="3000" fadeFar="6000" behavior="6" />
+		<POI MapID="1271" xpos="-25.2317" ypos="6.7057" zpos="-69.7747" type="story_journal.season_4.a_bug_in_the_system.saving_skritt" GUID="C0Gz3aj7FEiDDWJdA3v8zA==" iconFile="Img/Season4/Skritt.png" maxSize="24" fadeNear="3000" fadeFar="6000" behavior="6" />
+		<POI MapID="1271" xpos="-116.824" ypos="1.587" zpos="-198.992" type="story_journal.season_4.a_bug_in_the_system.saving_skritt" GUID="wkD1KNZhW0+8AZxGAw0MXg==" iconFile="Img/Season4/Skritt.png" maxSize="24" fadeNear="3000" fadeFar="6000" behavior="6" />
+		<POI MapID="1271" xpos="-127.232" ypos="1.58701" zpos="-190.017" type="story_journal.season_4.a_bug_in_the_system.saving_skritt" GUID="S9DRiIMAgkuip5A6HAMHGQ==" iconFile="Img/Season4/Skritt.png" maxSize="24" fadeNear="3000" fadeFar="6000" behavior="6" />
+		<POI MapID="1271" xpos="-159.078" ypos="2.50198" zpos="-136.996" type="story_journal.season_4.a_bug_in_the_system.saving_skritt" GUID="S04u2PAHTECy5gLFgQo6fg==" iconFile="Img/Season4/Skritt.png" maxSize="24" fadeNear="3000" fadeFar="6000" behavior="6" />
+		<POI MapID="1271" xpos="-144.841" ypos="2.5018" zpos="-135.44" type="story_journal.season_4.a_bug_in_the_system.saving_skritt" GUID="parYRqqwYUqI1V8T4YZZ3A==" iconFile="Img/Season4/Skritt.png" maxSize="24" fadeNear="3000" fadeFar="6000" behavior="6" />
+		<POI MapID="1271" xpos="-147.876" ypos="2.00081" zpos="-33.3945" type="story_journal.season_4.a_bug_in_the_system.saving_skritt" GUID="59ime+LYWE+ub//kZJZUbQ==" iconFile="Img/Season4/Skritt.png" maxSize="24" fadeNear="3000" fadeFar="6000" behavior="6" />
+		<POI MapID="1271" xpos="-163.025" ypos="2.24235" zpos="-19.5586" type="story_journal.season_4.a_bug_in_the_system.saving_skritt" GUID="7r+6k/8VG0iEelyF48EWCw==" iconFile="Img/Season4/Skritt.png" maxSize="24" fadeNear="3000" fadeFar="6000" behavior="6" />
+		<POI MapID="1271" xpos="-205.418" ypos="1.85383" zpos="-85.1852" type="story_journal.season_4.a_bug_in_the_system.saving_skritt" GUID="1363jB1aqEC+EnWSnA4+Qw==" iconFile="Img/Season4/Skritt.png" maxSize="24" fadeNear="3000" fadeFar="6000" behavior="6" />
+		<POI MapID="1271" xpos="-205.853" ypos="1.83332" zpos="-75.7165" type="story_journal.season_4.a_bug_in_the_system.saving_skritt" GUID="MCyPZ9faeUepLlv1MmCVfw==" iconFile="Img/Season4/Skritt.png" maxSize="24" fadeNear="3000" fadeFar="6000" behavior="6" />
+		<POI MapID="1271" xpos="-106.684" ypos="2.02758" zpos="20.9336" type="story_journal.season_4.a_bug_in_the_system.saving_skritt" GUID="kGkmuaVKqUKIX0Io+a/oSg==" iconFile="Img/Season4/Skritt.png" maxSize="24" fadeNear="3000" fadeFar="6000" behavior="6" />
+		<POI MapID="1271" xpos="-107.052" ypos="2.02182" zpos="36.3818" type="story_journal.season_4.a_bug_in_the_system.saving_skritt" GUID="7mA+CXzZCUWiRKTY4lpv6w==" iconFile="Img/Season4/Skritt.png" maxSize="24" fadeNear="3000" fadeFar="6000" behavior="6" />
+		<POI MapID="1271" xpos="-169.221" ypos="1.99686" zpos="80.4445" type="story_journal.season_4.a_bug_in_the_system.saving_skritt" GUID="4qXXx2Y8lU2sqgLtRDdrLw==" iconFile="Img/Season4/Skritt.png" maxSize="24" fadeNear="3000" fadeFar="6000" behavior="6" />
+		<POI MapID="1271" xpos="-154.012" ypos="1.95045" zpos="81.1351" type="story_journal.season_4.a_bug_in_the_system.saving_skritt" GUID="9TShcYikmkmzToTifTNNUA==" iconFile="Img/Season4/Skritt.png" maxSize="24" fadeNear="3000" fadeFar="6000" behavior="6" />
+		<POI MapID="1271" xpos="-169.841" ypos="4.75812" zpos="122.291" type="story_journal.season_4.a_bug_in_the_system.saving_skritt" GUID="Jww6hnGyd0CQZE31sKt1Iw==" iconFile="Img/Season4/Skritt.png" maxSize="24" fadeNear="3000" fadeFar="6000" behavior="6" />
+		<POI MapID="1271" xpos="-158.807" ypos="4.33247" zpos="130.268" type="story_journal.season_4.a_bug_in_the_system.saving_skritt" GUID="d76qyy0BNEaifoqERTYWlA==" iconFile="Img/Season4/Skritt.png" maxSize="24" fadeNear="3000" fadeFar="6000" behavior="6" />
 		<!-- SAVING SKRITT -->
-		<Trail type="story_journal.season_4.a_bug_in_the_system.saving_skritt" GUID="UTjVXPaJWEGxskLyWpU9yg==" trailData="Data/StoryJournal/Season4/ABugInTheSystem/SavingSkritt.trl" texture="Data/Dot.png" color="ff00ff00" alpha="0.7" fadeNear="1500" fadeFar="2000" animSpeed="0"/>
-		<POI MapID="1274" xpos="28.9291" ypos="340.021" zpos="-90.7815" type="story_journal.season_4.a_bug_in_the_system.saving_skritt" GUID="g/EcKtnGhkGx8p1c1EdbAw=="/>
-		<POI MapID="1274" xpos="90.1611" ypos="462.901" zpos="-274.158" type="story_journal.season_4.a_bug_in_the_system.saving_skritt" GUID="8j6dNIW2y0OzBR8BIQTDIQ==" iconFile="Img/Icons/FlagFinal.png" minSize="24" maxSize="32" fadeNear="1500" fadeFar="2000" heightOffset="1"/>
-
+		<Trail type="story_journal.season_4.a_bug_in_the_system.saving_skritt" GUID="UTjVXPaJWEGxskLyWpU9yg==" trailData="Data/StoryJournal/Season4/ABugInTheSystem/SavingSkritt.trl" texture="Data/Dot.png" color="ff00ff00" alpha="0.7" fadeNear="1500" fadeFar="2000" animSpeed="0" />
+		<POI MapID="1274" xpos="28.9291" ypos="340.021" zpos="-90.7815" type="story_journal.season_4.a_bug_in_the_system.saving_skritt" GUID="g/EcKtnGhkGx8p1c1EdbAw==" />
+		<POI MapID="1274" xpos="90.1611" ypos="462.901" zpos="-274.158" type="story_journal.season_4.a_bug_in_the_system.saving_skritt" GUID="8j6dNIW2y0OzBR8BIQTDIQ==" iconFile="Img/Icons/FlagFinal.png" minSize="24" maxSize="32" fadeNear="1500" fadeFar="2000" heightOffset="1" />
 		<!-- STIMULUS AND RESPONSE -->
-		<POI MapID="1271" xpos="-371.988" ypos="5.5" zpos="24.987" type="story_journal.season_4.a_bug_in_the_system.stimulus_and_response" GUID="l1j7Yx+nkEy9jowLPr4Hnw=="/>
-		<POI MapID="1271" xpos="-370.57"  ypos="5.5" zpos="19.37"  type="story_journal.season_4.a_bug_in_the_system.stimulus_and_response" GUID="N3VOPswuCkuRuY7DUvJQsA==" iconFile="Img/Numbers/1.png" color="ff00ff00" fadeNear="1500" fadeFar="2000"/>
-		<POI MapID="1271" xpos="-371.29"  ypos="5.5" zpos="27.21"  type="story_journal.season_4.a_bug_in_the_system.stimulus_and_response" GUID="ZGXW9qdGNUWDJk2Ysuoc+Q==" iconFile="Img/Numbers/2.png" color="ff00ff00" fadeNear="1500" fadeFar="2000"/>
-		<POI MapID="1271" xpos="-371.14"  ypos="5.5" zpos="31.21"  type="story_journal.season_4.a_bug_in_the_system.stimulus_and_response" GUID="pc1ST22nDUC6mWufvMMEbg==" iconFile="Img/Numbers/3.png" color="ff00ff00" fadeNear="1500" fadeFar="2000"/>
-
+		<POI MapID="1271" xpos="-371.988" ypos="5.5" zpos="24.987" type="story_journal.season_4.a_bug_in_the_system.stimulus_and_response" GUID="l1j7Yx+nkEy9jowLPr4Hnw==" />
+		<POI MapID="1271" xpos="-370.57" ypos="5.5" zpos="19.37" type="story_journal.season_4.a_bug_in_the_system.stimulus_and_response" GUID="N3VOPswuCkuRuY7DUvJQsA==" iconFile="Img/Numbers/1.png" color="ff00ff00" fadeNear="1500" fadeFar="2000" />
+		<POI MapID="1271" xpos="-371.29" ypos="5.5" zpos="27.21" type="story_journal.season_4.a_bug_in_the_system.stimulus_and_response" GUID="ZGXW9qdGNUWDJk2Ysuoc+Q==" iconFile="Img/Numbers/2.png" color="ff00ff00" fadeNear="1500" fadeFar="2000" />
+		<POI MapID="1271" xpos="-371.14" ypos="5.5" zpos="31.21" type="story_journal.season_4.a_bug_in_the_system.stimulus_and_response" GUID="pc1ST22nDUC6mWufvMMEbg==" iconFile="Img/Numbers/3.png" color="ff00ff00" fadeNear="1500" fadeFar="2000" />
 		<!-- STORMBREAK -->
-		<POI MapID="1271" xpos="503.65" ypos="-0.15" zpos="796.209" type="story_journal.season_4.a_bug_in_the_system.stormbreak" GUID="N7o2SrAC7Ee44cDUIhB0ag=="/>
-		<POI MapID="1271" xpos="503.65" ypos="1.65"  zpos="796.209" type="story_journal.season_4.a_bug_in_the_system.stormbreak" GUID="zyGaoo3wuky/s2O6uihmlg==" iconFile="Img/Season4/DefeatZohaqan.png" minSize="64" maxSize="64" fadeNear="1200" fadeFar="1500"/>
-
+		<POI MapID="1271" xpos="503.65" ypos="-0.15" zpos="796.209" type="story_journal.season_4.a_bug_in_the_system.stormbreak" GUID="N7o2SrAC7Ee44cDUIhB0ag==" />
+		<POI MapID="1271" xpos="503.65" ypos="1.65" zpos="796.209" type="story_journal.season_4.a_bug_in_the_system.stormbreak" GUID="zyGaoo3wuky/s2O6uihmlg==" iconFile="Img/Season4/DefeatZohaqan.png" minSize="64" maxSize="64" fadeNear="1200" fadeFar="1500" />
 		<!-- TALES OF ELONA -->
-		<POI MapID="1271" xpos="1.17609" ypos="144.661" zpos="966.693" type="story_journal.season_4.a_bug_in_the_system.tales_of_elona" GUID="KfoHKPEzykmR68TZJPDgtg=="/>
-		<POI MapID="1271" xpos="1.17609" ypos="146.661" zpos="966.693" type="story_journal.season_4.a_bug_in_the_system.tales_of_elona" GUID="k7JbTNEF5kKhMEIReYYVlg==" iconFile="Img/Season4/TalesOfElona.png" minSize="64" maxSize="80" fadeNear="1000" fadeFar="1500"/>
-		<POI MapID="1271" xpos="7.99086" ypos="147.939" zpos="951.281" type="story_journal.season_4.a_bug_in_the_system.tales_of_elona" GUID="ysrjx0vvDkSPv1Kp/P4aTg==" iconFile="Img/Icons/Interaction.png"    fadeNear="2000" fadeFar="4000" heightOffset="0" triggerRange="5"/>
-		<POI MapID="1271" xpos="54.0316" ypos="149.545" zpos="984.894" type="story_journal.season_4.a_bug_in_the_system.tales_of_elona" GUID="urpb9TVP70iSctqnZW3gIQ==" iconFile="Img/Icons/Interaction.png"    fadeNear="2000" fadeFar="4000" heightOffset="0" triggerRange="5"/>
-		<POI MapID="1271" xpos="3.95148" ypos="153.103" zpos="1014.31" type="story_journal.season_4.a_bug_in_the_system.tales_of_elona" GUID="h8RQB4BKQUqAK0Ef4yQyjw==" iconFile="Img/Icons/Interaction.png"    fadeNear="2000" fadeFar="4000" heightOffset="0" triggerRange="5"/>
-		<POI MapID="1271" xpos="-19.397" ypos="150.413" zpos="967.193" type="story_journal.season_4.a_bug_in_the_system.tales_of_elona" GUID="Ux/o2cgNKEWi0wKqYDtsXA==" iconFile="Img/Icons/Interaction.png"    fadeNear="2000" fadeFar="4000" heightOffset="0" triggerRange="5"/>
-
+		<POI MapID="1271" xpos="1.17609" ypos="144.661" zpos="966.693" type="story_journal.season_4.a_bug_in_the_system.tales_of_elona" GUID="KfoHKPEzykmR68TZJPDgtg==" />
+		<POI MapID="1271" xpos="1.17609" ypos="146.661" zpos="966.693" type="story_journal.season_4.a_bug_in_the_system.tales_of_elona" GUID="k7JbTNEF5kKhMEIReYYVlg==" iconFile="Img/Season4/TalesOfElona.png" minSize="64" maxSize="80" fadeNear="1000" fadeFar="1500" />
+		<POI MapID="1271" xpos="7.99086" ypos="147.939" zpos="951.281" type="story_journal.season_4.a_bug_in_the_system.tales_of_elona" GUID="ysrjx0vvDkSPv1Kp/P4aTg==" iconFile="Img/Icons/Interaction.png" fadeNear="2000" fadeFar="4000" heightOffset="0" triggerRange="5" />
+		<POI MapID="1271" xpos="54.0316" ypos="149.545" zpos="984.894" type="story_journal.season_4.a_bug_in_the_system.tales_of_elona" GUID="urpb9TVP70iSctqnZW3gIQ==" iconFile="Img/Icons/Interaction.png" fadeNear="2000" fadeFar="4000" heightOffset="0" triggerRange="5" />
+		<POI MapID="1271" xpos="3.95148" ypos="153.103" zpos="1014.31" type="story_journal.season_4.a_bug_in_the_system.tales_of_elona" GUID="h8RQB4BKQUqAK0Ef4yQyjw==" iconFile="Img/Icons/Interaction.png" fadeNear="2000" fadeFar="4000" heightOffset="0" triggerRange="5" />
+		<POI MapID="1271" xpos="-19.397" ypos="150.413" zpos="967.193" type="story_journal.season_4.a_bug_in_the_system.tales_of_elona" GUID="Ux/o2cgNKEWi0wKqYDtsXA==" iconFile="Img/Icons/Interaction.png" fadeNear="2000" fadeFar="4000" heightOffset="0" triggerRange="5" />
 		<!-- THE QUEEN AND I -->
-		<POI MapID="1271" xpos="235.781" ypos="4.51666" zpos="580.34" type="story_journal.season_4.a_bug_in_the_system.the_queen_and_i" GUID="+RL8WeMJfkGu1YtqLyCi9A=="/>
-
+		<POI MapID="1271" xpos="235.781" ypos="4.51666" zpos="580.34" type="story_journal.season_4.a_bug_in_the_system.the_queen_and_i" GUID="+RL8WeMJfkGu1YtqLyCi9A==" />
 		<!-- THREE GOLEM MONTE -->
-		<POI MapID="1271" xpos="708.512"  ypos="72.2114" zpos="-595.977" type="story_journal.season_4.a_bug_in_the_system.three_golem_monte" GUID="fY1etnhCbkGy/mChelztKA=="/>
-		<POI MapID="1271" xpos="-286.314" ypos="81.0295" zpos="38.3746"  type="story_journal.season_4.a_bug_in_the_system.three_golem_monte" GUID="WfYpLD8TpEOiBKcbSLFB8A=="/>
-		<POI MapID="1271" xpos="220.525"  ypos="100.101" zpos="97.2598"  type="story_journal.season_4.a_bug_in_the_system.three_golem_monte" GUID="NdTMxJr7gkejac5V4yQL/A=="/>
-
+		<POI MapID="1271" xpos="708.512" ypos="72.2114" zpos="-595.977" type="story_journal.season_4.a_bug_in_the_system.three_golem_monte" GUID="fY1etnhCbkGy/mChelztKA==" />
+		<POI MapID="1271" xpos="-286.314" ypos="81.0295" zpos="38.3746" type="story_journal.season_4.a_bug_in_the_system.three_golem_monte" GUID="WfYpLD8TpEOiBKcbSLFB8A==" />
+		<POI MapID="1271" xpos="220.525" ypos="100.101" zpos="97.2598" type="story_journal.season_4.a_bug_in_the_system.three_golem_monte" GUID="NdTMxJr7gkejac5V4yQL/A==" />
 		<!-- WYVERN WHACKER -->
-		<POI MapID="1271" xpos="-525.742" ypos="157.875" zpos="-105.814" type="story_journal.season_4.a_bug_in_the_system.wyvern_whacker" GUID="pcdoYBESZUqiyAlAC79zog=="/>
-		<POI MapID="1271" xpos="-457.693" ypos="22.7335" zpos="-111.883" type="story_journal.season_4.a_bug_in_the_system.wyvern_whacker" GUID="9iLJeG7PSk6cHP9KUTZ6/w==" iconFile="Img/Icons/Arrow.png" maxSize="24"/>
-		<POI MapID="1271" xpos="-415.999" ypos="134.725" zpos="-226.361" type="story_journal.season_4.a_bug_in_the_system.wyvern_whacker" GUID="f+4PThTxnkK/aJtheyFYYw==" iconFile="Img/Icons/Interaction.png" maxSize="24" heightOffset="6"/>
-
+		<POI MapID="1271" xpos="-525.742" ypos="157.875" zpos="-105.814" type="story_journal.season_4.a_bug_in_the_system.wyvern_whacker" GUID="pcdoYBESZUqiyAlAC79zog==" />
+		<POI MapID="1271" xpos="-457.693" ypos="22.7335" zpos="-111.883" type="story_journal.season_4.a_bug_in_the_system.wyvern_whacker" GUID="9iLJeG7PSk6cHP9KUTZ6/w==" iconFile="Img/Icons/Arrow.png" maxSize="24" />
+		<POI MapID="1271" xpos="-415.999" ypos="134.725" zpos="-226.361" type="story_journal.season_4.a_bug_in_the_system.wyvern_whacker" GUID="f+4PThTxnkK/aJtheyFYYw==" iconFile="Img/Icons/Interaction.png" maxSize="24" heightOffset="6" />
 	</POIs>
 </OverlayData>

@@ -1,125 +1,114 @@
 <!-- 2020.06.25 -->
 <OverlayData>
 	<POIs>
-
 		<!-- CAMI'S FINAL VOYAGE -->
-		<POI MapID="1175" xpos="-177.697" ypos="4.38741" zpos="-729.484" type="story_journal.season_3.rising_flames.cami_s_final_voyage" GUID="6U72DEp3wk+VLgfpabbpXw==" achievementBit="0"/>
-		<POI MapID="1175" xpos="-693.514" ypos="9.3685"  zpos="-387.64"  type="story_journal.season_3.rising_flames.cami_s_final_voyage" GUID="A/m5KxEO/kW0ydQ8nvhKMA==" achievementBit="1"/>
-		<POI MapID="1175" xpos="-213.828" ypos="30.4573" zpos="-221.936" type="story_journal.season_3.rising_flames.cami_s_final_voyage" GUID="qvBnA5gWrUWf4zS/uchSEQ==" achievementBit="2"/>
-		<POI MapID="1175" xpos="357.808"  ypos="13.4791" zpos="-373.899" type="story_journal.season_3.rising_flames.cami_s_final_voyage" GUID="a2qFGAJQqE+MwzqUVOji4w==" achievementBit="3"/>
-		<POI MapID="1175" xpos="551.55"   ypos="31.5508" zpos="-156.923" type="story_journal.season_3.rising_flames.cami_s_final_voyage" GUID="muDAylwr3kS/raiD/5d7bA==" achievementBit="4"/>
-		<POI MapID="1175" xpos="278.312"  ypos="61.6982" zpos="74.864"   type="story_journal.season_3.rising_flames.cami_s_final_voyage" GUID="UqeYpy0rtESBlWCo+EiIOg==" achievementBit="5"/>
-		<POI MapID="1175" xpos="-776.658" ypos="56.3217" zpos="-50.8763" type="story_journal.season_3.rising_flames.cami_s_final_voyage" GUID="1TxmUgaoZkyK8GfMkpxe9A==" achievementBit="6"/>
-
+		<POI MapID="1175" xpos="-177.697" ypos="4.38741" zpos="-729.484" type="story_journal.season_3.rising_flames.cami_s_final_voyage" GUID="6U72DEp3wk+VLgfpabbpXw==" achievementBit="0" />
+		<POI MapID="1175" xpos="-693.514" ypos="9.3685" zpos="-387.64" type="story_journal.season_3.rising_flames.cami_s_final_voyage" GUID="A/m5KxEO/kW0ydQ8nvhKMA==" achievementBit="1" />
+		<POI MapID="1175" xpos="-213.828" ypos="30.4573" zpos="-221.936" type="story_journal.season_3.rising_flames.cami_s_final_voyage" GUID="qvBnA5gWrUWf4zS/uchSEQ==" achievementBit="2" />
+		<POI MapID="1175" xpos="357.808" ypos="13.4791" zpos="-373.899" type="story_journal.season_3.rising_flames.cami_s_final_voyage" GUID="a2qFGAJQqE+MwzqUVOji4w==" achievementBit="3" />
+		<POI MapID="1175" xpos="551.55" ypos="31.5508" zpos="-156.923" type="story_journal.season_3.rising_flames.cami_s_final_voyage" GUID="muDAylwr3kS/raiD/5d7bA==" achievementBit="4" />
+		<POI MapID="1175" xpos="278.312" ypos="61.6982" zpos="74.864" type="story_journal.season_3.rising_flames.cami_s_final_voyage" GUID="UqeYpy0rtESBlWCo+EiIOg==" achievementBit="5" />
+		<POI MapID="1175" xpos="-776.658" ypos="56.3217" zpos="-50.8763" type="story_journal.season_3.rising_flames.cami_s_final_voyage" GUID="1TxmUgaoZkyK8GfMkpxe9A==" achievementBit="6" />
 		<!-- COLLECTING COALESCENCE -->
-		<POI MapID="1175" xpos="224.99"   ypos="29.2013" zpos="-264.324" type="story_journal.season_3.rising_flames.collecting_coalescence" GUID="Ia6xU525KkKv8ATrB2Wy7g==" achievementBit="0"/>
-		<POI MapID="1175" xpos="422.929"  ypos="3.13324" zpos="-594.769" type="story_journal.season_3.rising_flames.collecting_coalescence" GUID="fBdhHQJsDEyirkhX94YTAg==" achievementBit="1"/>
-		<POI MapID="1175" xpos="-416.273" ypos="14.0864" zpos="-875.262" type="story_journal.season_3.rising_flames.collecting_coalescence" GUID="/IHnjsLheke3LxHXz7jECA==" achievementBit="2"/>
-
+		<POI MapID="1175" xpos="224.99" ypos="29.2013" zpos="-264.324" type="story_journal.season_3.rising_flames.collecting_coalescence" GUID="Ia6xU525KkKv8ATrB2Wy7g==" achievementBit="0" />
+		<POI MapID="1175" xpos="422.929" ypos="3.13324" zpos="-594.769" type="story_journal.season_3.rising_flames.collecting_coalescence" GUID="fBdhHQJsDEyirkhX94YTAg==" achievementBit="1" />
+		<POI MapID="1175" xpos="-416.273" ypos="14.0864" zpos="-875.262" type="story_journal.season_3.rising_flames.collecting_coalescence" GUID="/IHnjsLheke3LxHXz7jECA==" achievementBit="2" />
 		<!-- HUNGRY HAL -->
-		<POI MapID="1175" xpos="-683.244" ypos="67.5609" zpos="-224.124" type="story_journal.season_3.rising_flames.hungry_hal" GUID="WsWHaZjPbE+b4qlEmSdo5A=="/>
-		<POI MapID="1175" xpos="-876.248" ypos="24.9965" zpos="-426.218" type="story_journal.season_3.rising_flames.hungry_hal.ember_apples" GUID="jVDRqgkCQkCDnNlYSZdlCQ=="/>
-		<POI MapID="1175" xpos="-869.764" ypos="48.1991" zpos="-436.289" type="story_journal.season_3.rising_flames.hungry_hal.ember_apples" GUID="xnfFu36qB0WfR/v3bGCWJg=="/>
-		<POI MapID="1175" xpos="-864.046" ypos="48.1544" zpos="-439.372" type="story_journal.season_3.rising_flames.hungry_hal.ember_apples" GUID="c3HWBgPQF0+r7+aLyw/1bQ=="/>
-		<POI MapID="1175" xpos="-863.992" ypos="18.3272" zpos="-415.632" type="story_journal.season_3.rising_flames.hungry_hal.ember_apples" GUID="ZpYbs67p00KPvEJUG2TOAg=="/>
-		<POI MapID="1175" xpos="-839.748" ypos="33.3915" zpos="-455.282" type="story_journal.season_3.rising_flames.hungry_hal.ember_apples" GUID="OuHWtQJacEqzATg/zfYq7Q=="/>
-		<POI MapID="1175" xpos="-835.24"  ypos="33.3869" zpos="-458.556" type="story_journal.season_3.rising_flames.hungry_hal.ember_apples" GUID="RC3qIpjdXUKJK6oGu3ffkg=="/>
-		<POI MapID="1175" xpos="-831.498" ypos="33.6206" zpos="-462.9"   type="story_journal.season_3.rising_flames.hungry_hal.ember_apples" GUID="Xlg5lDPYOU+ptJRX+VxzXQ=="/>
-		<POI MapID="1175" xpos="-683.019" ypos="67.5496" zpos="-707.694" type="story_journal.season_3.rising_flames.hungry_hal.ember_apples" GUID="js8hK10iP0a0I7WpN4MAZQ=="/>
-		<POI MapID="1175" xpos="-654.326" ypos="52.7522" zpos="-661.757" type="story_journal.season_3.rising_flames.hungry_hal.ember_apples" GUID="Bzyoho+MQUmE5oQnSN1RKw=="/>
-		<POI MapID="1175" xpos="-645.585" ypos="74.3516" zpos="-775.161" type="story_journal.season_3.rising_flames.hungry_hal.ember_apples" GUID="2gmo/giWWUiY1SgostZ1pQ=="/>
-		<POI MapID="1175" xpos="-637.74"  ypos="61.883"  zpos="-731.933" type="story_journal.season_3.rising_flames.hungry_hal.ember_apples" GUID="rLHSN4t65Eibe4aL615jBg=="/>
-		<POI MapID="1175" xpos="-633.896" ypos="29.9244" zpos="-660.452" type="story_journal.season_3.rising_flames.hungry_hal.ember_apples" GUID="uGierwfOiE+OiJgOlA2z4w=="/>
-		<POI MapID="1175" xpos="-570.116" ypos="70.3412" zpos="-791.968" type="story_journal.season_3.rising_flames.hungry_hal.ember_apples" GUID="vCAp/MZk10yKtJDnSZSqcg=="/>
-		<POI MapID="1175" xpos="-569.224" ypos="70.1345" zpos="-804.547" type="story_journal.season_3.rising_flames.hungry_hal.ember_apples" GUID="XcyyIzPzuEqBw4X/nimKhg=="/>
-
+		<POI MapID="1175" xpos="-683.244" ypos="67.5609" zpos="-224.124" type="story_journal.season_3.rising_flames.hungry_hal" GUID="WsWHaZjPbE+b4qlEmSdo5A==" />
+		<POI MapID="1175" xpos="-876.248" ypos="24.9965" zpos="-426.218" type="story_journal.season_3.rising_flames.hungry_hal.ember_apples" GUID="jVDRqgkCQkCDnNlYSZdlCQ==" />
+		<POI MapID="1175" xpos="-869.764" ypos="48.1991" zpos="-436.289" type="story_journal.season_3.rising_flames.hungry_hal.ember_apples" GUID="xnfFu36qB0WfR/v3bGCWJg==" />
+		<POI MapID="1175" xpos="-864.046" ypos="48.1544" zpos="-439.372" type="story_journal.season_3.rising_flames.hungry_hal.ember_apples" GUID="c3HWBgPQF0+r7+aLyw/1bQ==" />
+		<POI MapID="1175" xpos="-863.992" ypos="18.3272" zpos="-415.632" type="story_journal.season_3.rising_flames.hungry_hal.ember_apples" GUID="ZpYbs67p00KPvEJUG2TOAg==" />
+		<POI MapID="1175" xpos="-839.748" ypos="33.3915" zpos="-455.282" type="story_journal.season_3.rising_flames.hungry_hal.ember_apples" GUID="OuHWtQJacEqzATg/zfYq7Q==" />
+		<POI MapID="1175" xpos="-835.24" ypos="33.3869" zpos="-458.556" type="story_journal.season_3.rising_flames.hungry_hal.ember_apples" GUID="RC3qIpjdXUKJK6oGu3ffkg==" />
+		<POI MapID="1175" xpos="-831.498" ypos="33.6206" zpos="-462.9" type="story_journal.season_3.rising_flames.hungry_hal.ember_apples" GUID="Xlg5lDPYOU+ptJRX+VxzXQ==" />
+		<POI MapID="1175" xpos="-683.019" ypos="67.5496" zpos="-707.694" type="story_journal.season_3.rising_flames.hungry_hal.ember_apples" GUID="js8hK10iP0a0I7WpN4MAZQ==" />
+		<POI MapID="1175" xpos="-654.326" ypos="52.7522" zpos="-661.757" type="story_journal.season_3.rising_flames.hungry_hal.ember_apples" GUID="Bzyoho+MQUmE5oQnSN1RKw==" />
+		<POI MapID="1175" xpos="-645.585" ypos="74.3516" zpos="-775.161" type="story_journal.season_3.rising_flames.hungry_hal.ember_apples" GUID="2gmo/giWWUiY1SgostZ1pQ==" />
+		<POI MapID="1175" xpos="-637.74" ypos="61.883" zpos="-731.933" type="story_journal.season_3.rising_flames.hungry_hal.ember_apples" GUID="rLHSN4t65Eibe4aL615jBg==" />
+		<POI MapID="1175" xpos="-633.896" ypos="29.9244" zpos="-660.452" type="story_journal.season_3.rising_flames.hungry_hal.ember_apples" GUID="uGierwfOiE+OiJgOlA2z4w==" />
+		<POI MapID="1175" xpos="-570.116" ypos="70.3412" zpos="-791.968" type="story_journal.season_3.rising_flames.hungry_hal.ember_apples" GUID="vCAp/MZk10yKtJDnSZSqcg==" />
+		<POI MapID="1175" xpos="-569.224" ypos="70.1345" zpos="-804.547" type="story_journal.season_3.rising_flames.hungry_hal.ember_apples" GUID="XcyyIzPzuEqBw4X/nimKhg==" />
 		<!-- METAL MOUNTAIN -->
-		<Trail type="story_journal.season_3.rising_flames.metal_mountain" GUID="ekDCLmuoU0WJPpKYpxxVHg==" trailData="Data/StoryJournal/Season3/RisingFlames/MetalMountain.trl" texture="Data/Arrow.png" color="ff00ff00" alpha="0.8" fadeNear="1500" fadeFar="2000" animSpeed="0" mapDisplaySize="15"/>
-		<POI MapID="1175" xpos="286.526"  ypos="28.985"  zpos="-833.066" type="story_journal.season_3.rising_flames.metal_mountain" GUID="scu4kXxtmUGTue0HN0Hc1w=="/>
-		<POI MapID="1175" xpos="284.842"  ypos="29.1163" zpos="-829.746" type="story_journal.season_3.rising_flames.metal_mountain" GUID="UX8nuyLA1kSCdl17Q3bjfw==" iconFile="Img/Season3/MetalMountain.png" minSize="48" maxSize="48" fadeNear="1500" fadeFar="2000" mapVisibility="0" miniMapVisibility="0"/>
-		<POI MapID="1175" xpos="-154.407" ypos="173.724" zpos="-424.113" type="story_journal.season_3.rising_flames.metal_mountain" GUID="y2I+IwXLaEewn0J0Edh8ug==" fadeNear="3500" fadeFar="4000" minSize="32" maxSize="64" mapVisibility="0" miniMapVisibility="0"/>
-
+		<Trail type="story_journal.season_3.rising_flames.metal_mountain" GUID="ekDCLmuoU0WJPpKYpxxVHg==" trailData="Data/StoryJournal/Season3/RisingFlames/MetalMountain.trl" texture="Data/Arrow.png" color="ff00ff00" alpha="0.8" fadeNear="1500" fadeFar="2000" animSpeed="0" mapDisplaySize="15" />
+		<POI MapID="1175" xpos="286.526" ypos="28.985" zpos="-833.066" type="story_journal.season_3.rising_flames.metal_mountain" GUID="scu4kXxtmUGTue0HN0Hc1w==" />
+		<POI MapID="1175" xpos="284.842" ypos="29.1163" zpos="-829.746" type="story_journal.season_3.rising_flames.metal_mountain" GUID="UX8nuyLA1kSCdl17Q3bjfw==" iconFile="Img/Season3/MetalMountain.png" minSize="48" maxSize="48" fadeNear="1500" fadeFar="2000" mapVisibility="0" miniMapVisibility="0" />
+		<POI MapID="1175" xpos="-154.407" ypos="173.724" zpos="-424.113" type="story_journal.season_3.rising_flames.metal_mountain" GUID="y2I+IwXLaEewn0J0Edh8ug==" fadeNear="3500" fadeFar="4000" minSize="32" maxSize="64" mapVisibility="0" miniMapVisibility="0" />
 		<!-- SKIP UP THE VOLCANO -->
-		<Trail type="story_journal.season_3.rising_flames.skip_up_the_volcano" GUID="FC8r2xYDLE2wJX+sQNq7Eg==" trailData="Data/StoryJournal/Season3/RisingFlames/SkipUpVolcano.trl" texture="Data/Arrow.png" color="ff00ff00" alpha="0.8" fadeNear="1500" fadeFar="2000" animSpeed="0" mapDisplaySize="15"/>
-		<POI MapID="1175" xpos="-622.04"  ypos="144.72"  zpos="43.88"    type="story_journal.season_3.rising_flames.skip_up_the_volcano" GUID="ado4juYTfkmsoj0QbFsXfA==" iconFile="Img/General/PuzzleStart.png" heightOffset="0.5"/>
-		<POI MapID="1175" xpos="-564.51"  ypos="119.004" zpos="6.86395"  type="story_journal.season_3.rising_flames.skip_up_the_volcano" GUID="oP02VNaHgke6f/saDVSQwA==" iconFile="Img/Icons/Run.png"           minSize="12" maxSize="16" fadeNear="1500" fadeFar="2000" heightOffset="0" mapVisibility="0" miniMapVisibility="0"/>
-		<POI MapID="1175" xpos="-547.07"  ypos="131.3"   zpos="-5.1"     type="story_journal.season_3.rising_flames.skip_up_the_volcano" GUID="VAocFQXg602oGJsyS/pLEg==" iconFile="Img/Numbers/0.png"           color="ff00ffff" fadeNear="5000" fadeFar="8000"/>
-		<POI MapID="1175" xpos="-572.4"   ypos="136.126" zpos="-59.0858" type="story_journal.season_3.rising_flames.skip_up_the_volcano" GUID="fAXV9GywMUGnnmHQ8lF1eg==" iconFile="Img/Icons/Run.png"           minSize="12" maxSize="16" fadeNear="1500" fadeFar="2000" heightOffset="0" mapVisibility="0" miniMapVisibility="0"/>
-		<POI MapID="1175" xpos="-536.58"  ypos="152.83"  zpos="-142.48"  type="story_journal.season_3.rising_flames.skip_up_the_volcano" GUID="Ra49giw+wkqxL+mYMotseQ==" iconFile="Img/Numbers/1.png"           color="ff00ffff" fadeNear="5000" fadeFar="8000"/>
-		<POI MapID="1175" xpos="-511.623" ypos="191.333" zpos="-21.5841" type="story_journal.season_3.rising_flames.skip_up_the_volcano" GUID="Q7xvwc70gk6ikm2BNjBkPg==" iconFile="Img/Icons/Chest.png"         minSize="12" maxSize="16" fadeNear="5000" fadeFar="8000" heightOffset="2" behavior="2"/>
-		<POI MapID="1175" xpos="-542.01"  ypos="206.44"  zpos="-37.1"    type="story_journal.season_3.rising_flames.skip_up_the_volcano" GUID="uCyVTGsF2ESCYBcH2C11mg==" iconFile="Img/Numbers/2.png"           color="ff00ffff" fadeNear="5000" fadeFar="8000"/>
-		<POI MapID="1175" xpos="-511.902" ypos="193.942" zpos="-128.035" type="story_journal.season_3.rising_flames.skip_up_the_volcano" GUID="OSYeuHiIqka77ehT2TYSBA==" iconFile="Img/Signs/Slippy.png"        minSize="12" maxSize="16" fadeNear="1500" fadeFar="2000" heightOffset="0" mapVisibility="0" miniMapVisibility="0"/>
-		<POI MapID="1175" xpos="-497.02"  ypos="215.18"  zpos="-199.4"   type="story_journal.season_3.rising_flames.skip_up_the_volcano" GUID="CrjZZUFI/0GAw5QrgOWySA==" iconFile="Img/Numbers/3.png"           color="ff00ffff" fadeNear="5000" fadeFar="8000"/>
-		<POI MapID="1175" xpos="-472.498" ypos="204.989" zpos="-66.0239" type="story_journal.season_3.rising_flames.skip_up_the_volcano" GUID="SATiy7oNPkCrNto0+nloLQ==" iconFile="Img/Icons/Chest.png"         minSize="12" maxSize="16" fadeNear="5000" fadeFar="8000" heightOffset="2" behavior="2"/>
-		<POI MapID="1175" xpos="-443.98"  ypos="240.53"  zpos="-71.84"   type="story_journal.season_3.rising_flames.skip_up_the_volcano" GUID="+hrN56V7dEa7S6A+63SukQ==" iconFile="Img/Numbers/4.png"           color="ff00ffff" fadeNear="5000" fadeFar="8000"/>
-		<POI MapID="1175" xpos="-539.7"   ypos="259"     zpos="-218"     type="story_journal.season_3.rising_flames.skip_up_the_volcano" GUID="4fLZz1DXhkiWkTYvgz2nig==" iconFile="Img/Signs/Danger.png"        minSize="12" maxSize="16" fadeNear="1500" fadeFar="2000" heightOffset="0" mapVisibility="0" miniMapVisibility="0"/>
-		<POI MapID="1175" xpos="-538.65"  ypos="295.32"  zpos="-241.87"  type="story_journal.season_3.rising_flames.skip_up_the_volcano" GUID="OeV//qhn3UiM2WXOhCFw7g==" iconFile="Img/General/PuzzleChest.png" fadeNear="5000" fadeFar="8000" heightOffset="3.5"/>
-
+		<Trail type="story_journal.season_3.rising_flames.skip_up_the_volcano" GUID="FC8r2xYDLE2wJX+sQNq7Eg==" trailData="Data/StoryJournal/Season3/RisingFlames/SkipUpVolcano.trl" texture="Data/Arrow.png" color="ff00ff00" alpha="0.8" fadeNear="1500" fadeFar="2000" animSpeed="0" mapDisplaySize="15" />
+		<POI MapID="1175" xpos="-622.04" ypos="144.72" zpos="43.88" type="story_journal.season_3.rising_flames.skip_up_the_volcano" GUID="ado4juYTfkmsoj0QbFsXfA==" iconFile="Img/General/PuzzleStart.png" heightOffset="0.5" />
+		<POI MapID="1175" xpos="-564.51" ypos="119.004" zpos="6.86395" type="story_journal.season_3.rising_flames.skip_up_the_volcano" GUID="oP02VNaHgke6f/saDVSQwA==" iconFile="Img/Icons/Run.png" minSize="12" maxSize="16" fadeNear="1500" fadeFar="2000" heightOffset="0" mapVisibility="0" miniMapVisibility="0" />
+		<POI MapID="1175" xpos="-547.07" ypos="131.3" zpos="-5.1" type="story_journal.season_3.rising_flames.skip_up_the_volcano" GUID="VAocFQXg602oGJsyS/pLEg==" iconFile="Img/Numbers/0.png" color="ff00ffff" fadeNear="5000" fadeFar="8000" />
+		<POI MapID="1175" xpos="-572.4" ypos="136.126" zpos="-59.0858" type="story_journal.season_3.rising_flames.skip_up_the_volcano" GUID="fAXV9GywMUGnnmHQ8lF1eg==" iconFile="Img/Icons/Run.png" minSize="12" maxSize="16" fadeNear="1500" fadeFar="2000" heightOffset="0" mapVisibility="0" miniMapVisibility="0" />
+		<POI MapID="1175" xpos="-536.58" ypos="152.83" zpos="-142.48" type="story_journal.season_3.rising_flames.skip_up_the_volcano" GUID="Ra49giw+wkqxL+mYMotseQ==" iconFile="Img/Numbers/1.png" color="ff00ffff" fadeNear="5000" fadeFar="8000" />
+		<POI MapID="1175" xpos="-511.623" ypos="191.333" zpos="-21.5841" type="story_journal.season_3.rising_flames.skip_up_the_volcano" GUID="Q7xvwc70gk6ikm2BNjBkPg==" iconFile="Img/Icons/Chest.png" minSize="12" maxSize="16" fadeNear="5000" fadeFar="8000" heightOffset="2" behavior="2" />
+		<POI MapID="1175" xpos="-542.01" ypos="206.44" zpos="-37.1" type="story_journal.season_3.rising_flames.skip_up_the_volcano" GUID="uCyVTGsF2ESCYBcH2C11mg==" iconFile="Img/Numbers/2.png" color="ff00ffff" fadeNear="5000" fadeFar="8000" />
+		<POI MapID="1175" xpos="-511.902" ypos="193.942" zpos="-128.035" type="story_journal.season_3.rising_flames.skip_up_the_volcano" GUID="OSYeuHiIqka77ehT2TYSBA==" iconFile="Img/Signs/Slippy.png" minSize="12" maxSize="16" fadeNear="1500" fadeFar="2000" heightOffset="0" mapVisibility="0" miniMapVisibility="0" />
+		<POI MapID="1175" xpos="-497.02" ypos="215.18" zpos="-199.4" type="story_journal.season_3.rising_flames.skip_up_the_volcano" GUID="CrjZZUFI/0GAw5QrgOWySA==" iconFile="Img/Numbers/3.png" color="ff00ffff" fadeNear="5000" fadeFar="8000" />
+		<POI MapID="1175" xpos="-472.498" ypos="204.989" zpos="-66.0239" type="story_journal.season_3.rising_flames.skip_up_the_volcano" GUID="SATiy7oNPkCrNto0+nloLQ==" iconFile="Img/Icons/Chest.png" minSize="12" maxSize="16" fadeNear="5000" fadeFar="8000" heightOffset="2" behavior="2" />
+		<POI MapID="1175" xpos="-443.98" ypos="240.53" zpos="-71.84" type="story_journal.season_3.rising_flames.skip_up_the_volcano" GUID="+hrN56V7dEa7S6A+63SukQ==" iconFile="Img/Numbers/4.png" color="ff00ffff" fadeNear="5000" fadeFar="8000" />
+		<POI MapID="1175" xpos="-539.7" ypos="259" zpos="-218" type="story_journal.season_3.rising_flames.skip_up_the_volcano" GUID="4fLZz1DXhkiWkTYvgz2nig==" iconFile="Img/Signs/Danger.png" minSize="12" maxSize="16" fadeNear="1500" fadeFar="2000" heightOffset="0" mapVisibility="0" miniMapVisibility="0" />
+		<POI MapID="1175" xpos="-538.65" ypos="295.32" zpos="-241.87" type="story_journal.season_3.rising_flames.skip_up_the_volcano" GUID="OeV//qhn3UiM2WXOhCFw7g==" iconFile="Img/General/PuzzleChest.png" fadeNear="5000" fadeFar="8000" heightOffset="3.5" />
 		<!-- SKRILLA'S BENEFACTOR -->
-		<POI MapID="1175" xpos="603.989" ypos="13.7295" zpos="-321.12" type="story_journal.season_3.rising_flames.skrilla_s_benefactor" GUID="n6WpH+y0fkSlmUH1w7g7uw=="/>
-
+		<POI MapID="1175" xpos="603.989" ypos="13.7295" zpos="-321.12" type="story_journal.season_3.rising_flames.skrilla_s_benefactor" GUID="n6WpH+y0fkSlmUH1w7g7uw==" />
 		<!-- TABLETS OF THE UNSEEN -->
-		<POI MapID="1175" xpos="-851.872" ypos="22.5798" zpos="-17.2331" type="story_journal.season_3.rising_flames.tablets_of_the_unseen" GUID="vY+rTBBnsk6cBSFoeuXSCw=="/>
-		<POI MapID="1175" xpos="-783.576" ypos="62.8218" zpos="-32.359"  type="story_journal.season_3.rising_flames.tablets_of_the_unseen" GUID="5aUF5uQEi0ucTKBHXuuVYQ=="/>
-		<POI MapID="1175" xpos="-757.045" ypos="63.1673" zpos="-42.9694" type="story_journal.season_3.rising_flames.tablets_of_the_unseen" GUID="RTWsheq8FkiO5i1pk6Jz/A=="/>
-		<POI MapID="1175" xpos="-811.361" ypos="32.0013" zpos="-66.3954" type="story_journal.season_3.rising_flames.tablets_of_the_unseen" GUID="b+S7Z22x30yenfG6Z3kCjg=="/>
-		<POI MapID="1175" xpos="-678.925" ypos="91.0088" zpos="-55.7405" type="story_journal.season_3.rising_flames.tablets_of_the_unseen" GUID="0lUfmzfheE6lkGn7sPbdHg=="/>
-		<POI MapID="1175" xpos="-699.009" ypos="113.898" zpos="39.06"    type="story_journal.season_3.rising_flames.tablets_of_the_unseen" GUID="oekI90E1PUirRyXXvrDm5Q=="/>
-		<POI MapID="1175" xpos="-639.826" ypos="152.03"  zpos="13.0765"  type="story_journal.season_3.rising_flames.tablets_of_the_unseen" GUID="Pr+kJrgLxk+4sTawyBq5GQ=="/>
-		<POI MapID="1175" xpos="-666.765" ypos="138.657" zpos="-78.3005" type="story_journal.season_3.rising_flames.tablets_of_the_unseen" GUID="ZbhXAurl6EeW/Y69fEfHqg=="/>
-		<POI MapID="1175" xpos="-901.711" ypos="8.58285" zpos="-19.1171" type="story_journal.season_3.rising_flames.tablets_of_the_unseen" GUID="i24nDBmsFEqn4aJplo8lYg=="/>
-		<POI MapID="1175" xpos="-884.611" ypos="18.0433" zpos="-142.745" type="story_journal.season_3.rising_flames.tablets_of_the_unseen" GUID="lAenGTNScka1NQEFisJZrw=="/>
-
+		<POI MapID="1175" xpos="-851.872" ypos="22.5798" zpos="-17.2331" type="story_journal.season_3.rising_flames.tablets_of_the_unseen" GUID="vY+rTBBnsk6cBSFoeuXSCw==" />
+		<POI MapID="1175" xpos="-783.576" ypos="62.8218" zpos="-32.359" type="story_journal.season_3.rising_flames.tablets_of_the_unseen" GUID="5aUF5uQEi0ucTKBHXuuVYQ==" />
+		<POI MapID="1175" xpos="-757.045" ypos="63.1673" zpos="-42.9694" type="story_journal.season_3.rising_flames.tablets_of_the_unseen" GUID="RTWsheq8FkiO5i1pk6Jz/A==" />
+		<POI MapID="1175" xpos="-811.361" ypos="32.0013" zpos="-66.3954" type="story_journal.season_3.rising_flames.tablets_of_the_unseen" GUID="b+S7Z22x30yenfG6Z3kCjg==" />
+		<POI MapID="1175" xpos="-678.925" ypos="91.0088" zpos="-55.7405" type="story_journal.season_3.rising_flames.tablets_of_the_unseen" GUID="0lUfmzfheE6lkGn7sPbdHg==" />
+		<POI MapID="1175" xpos="-699.009" ypos="113.898" zpos="39.06" type="story_journal.season_3.rising_flames.tablets_of_the_unseen" GUID="oekI90E1PUirRyXXvrDm5Q==" />
+		<POI MapID="1175" xpos="-639.826" ypos="152.03" zpos="13.0765" type="story_journal.season_3.rising_flames.tablets_of_the_unseen" GUID="Pr+kJrgLxk+4sTawyBq5GQ==" />
+		<POI MapID="1175" xpos="-666.765" ypos="138.657" zpos="-78.3005" type="story_journal.season_3.rising_flames.tablets_of_the_unseen" GUID="ZbhXAurl6EeW/Y69fEfHqg==" />
+		<POI MapID="1175" xpos="-901.711" ypos="8.58285" zpos="-19.1171" type="story_journal.season_3.rising_flames.tablets_of_the_unseen" GUID="i24nDBmsFEqn4aJplo8lYg==" />
+		<POI MapID="1175" xpos="-884.611" ypos="18.0433" zpos="-142.745" type="story_journal.season_3.rising_flames.tablets_of_the_unseen" GUID="lAenGTNScka1NQEFisJZrw==" />
 		<!-- THE FRIENDLY GHOST -->
-		<POI MapID="1175" xpos="-916.641" ypos="2.5"     zpos="-51.2426" type="story_journal.season_3.rising_flames.hidden_the_friendly_ghost" GUID="jrgfRFUnlECx/hlJQ52yug==" iconFile="Img/Season3/TheFriendlyGhost.png" minSize="48" maxSize="64" fadeNear="1000" fadeFar="1500" mapVisibility="0" miniMapVisibility="0"/>
-		<POI MapID="1175" xpos="-916.641" ypos="-0.3058" zpos="-51.2426" type="story_journal.season_3.rising_flames.hidden_the_friendly_ghost" GUID="j7UWgFsGBESYIUVJXsSriA==" iconFile="Img/Numbers/1.png"                minSize="10" maxSize="16"/>
-		<POI MapID="1175" xpos="-856.809" ypos="25.9171" zpos="-31.179"  type="story_journal.season_3.rising_flames.hidden_the_friendly_ghost" GUID="E/GMUfprxUun9b0RkiGliA==" iconFile="Img/Numbers/2.png"                minSize="10" maxSize="16" heightOffset="3"/>
-
+		<POI MapID="1175" xpos="-916.641" ypos="2.5" zpos="-51.2426" type="story_journal.season_3.rising_flames.hidden_the_friendly_ghost" GUID="jrgfRFUnlECx/hlJQ52yug==" iconFile="Img/Season3/TheFriendlyGhost.png" minSize="48" maxSize="64" fadeNear="1000" fadeFar="1500" mapVisibility="0" miniMapVisibility="0" />
+		<POI MapID="1175" xpos="-916.641" ypos="-0.3058" zpos="-51.2426" type="story_journal.season_3.rising_flames.hidden_the_friendly_ghost" GUID="j7UWgFsGBESYIUVJXsSriA==" iconFile="Img/Numbers/1.png" minSize="10" maxSize="16" />
+		<POI MapID="1175" xpos="-856.809" ypos="25.9171" zpos="-31.179" type="story_journal.season_3.rising_flames.hidden_the_friendly_ghost" GUID="E/GMUfprxUun9b0RkiGliA==" iconFile="Img/Numbers/2.png" minSize="10" maxSize="16" heightOffset="3" />
 		<!-- TOKEN COLLECTOR -->
-		<POI MapID="1175" xpos="-889.962" ypos="5.19594"  zpos="-11.5472"  type="story_journal.season_3.rising_flames.token_collector" GUID="KpGHkmflJEKzgo5s2vTk4Q=="/>
-		<POI MapID="1175" xpos="-879.385" ypos="35.4771"  zpos="81.1571"   type="story_journal.season_3.rising_flames.token_collector" GUID="thQcJx/OskWXkX0gtjvQiA=="/>
-		<POI MapID="1175" xpos="-783.291" ypos="129.824"  zpos="108.004"   type="story_journal.season_3.rising_flames.token_collector" GUID="npG1uBfsEEm4+5Z0JVmPyQ=="/>
-		<POI MapID="1175" xpos="-710.462" ypos="88.8859"  zpos="16.5956"   type="story_journal.season_3.rising_flames.token_collector" GUID="YZkPJGPDYky0nnd8t9kUNg=="/>
-		<POI MapID="1175" xpos="-677.785" ypos="39.464"   zpos="-147.931"  type="story_journal.season_3.rising_flames.token_collector" GUID="VirmbdjHEEeyn6ZRCnqZ9w=="/>
-		<POI MapID="1175" xpos="-662.992" ypos="34.8571"  zpos="-830.5"    type="story_journal.season_3.rising_flames.token_collector" GUID="Q3FBQUuEH0OEV2wAzPaykQ=="/>
-		<POI MapID="1175" xpos="-652.448" ypos="89.9262"  zpos="-20.6756"  type="story_journal.season_3.rising_flames.token_collector" GUID="2o6sODzSLkmBz6N+S4pb3Q=="/>
-		<POI MapID="1175" xpos="-602.893" ypos="75.0816"  zpos="0.0554095" type="story_journal.season_3.rising_flames.token_collector" GUID="SdKBoZuFfEmIAe6MpLfcJA=="/>
-		<POI MapID="1175" xpos="-581.357" ypos="110.872"  zpos="29.0266"   type="story_journal.season_3.rising_flames.token_collector" GUID="Y62Lqq385UONbPbS5b20yw=="/>
-		<POI MapID="1175" xpos="-576.203" ypos="115.679"  zpos="-420.306"  type="story_journal.season_3.rising_flames.token_collector" GUID="+gPf5MW3zE6r82KsfCjJ7w=="/>
-		<POI MapID="1175" xpos="-531.874" ypos="176.892"  zpos="-184.525"  type="story_journal.season_3.rising_flames.token_collector" GUID="0xc+zOHFwEGG9TACkNdJiw=="/>
-		<POI MapID="1175" xpos="-518.615" ypos="4.76293"  zpos="-461.826"  type="story_journal.season_3.rising_flames.token_collector" GUID="BDeyJ5ebKECo4TVQa2N98A=="/>
-		<POI MapID="1175" xpos="-447.083" ypos="179.771"  zpos="-72.6809"  type="story_journal.season_3.rising_flames.token_collector" GUID="gVlKJewfeU+OSESSGUN5qg=="/>
-		<POI MapID="1175" xpos="-252.802" ypos="12.7265"  zpos="-254.92"   type="story_journal.season_3.rising_flames.token_collector" GUID="ys/VsJul0UCKF3J+XMFkrw=="/>
-		<POI MapID="1175" xpos="-248.828" ypos="151.84"   zpos="-44.716"   type="story_journal.season_3.rising_flames.token_collector" GUID="q8Y4iN1dhU+wV+0fuhL9qg=="/>
-		<POI MapID="1175" xpos="-229.761" ypos="181.811"  zpos="-47.8067"  type="story_journal.season_3.rising_flames.token_collector" GUID="txg+/NGvfUCHaDIgPfKCjQ=="/>
-		<POI MapID="1175" xpos="-203.246" ypos="132.227"  zpos="-403.233"  type="story_journal.season_3.rising_flames.token_collector" GUID="nIVYdjZRtUyIW+o/waww2w=="/>
-		<POI MapID="1175" xpos="-199.044" ypos="-87.1407" zpos="-427.768"  type="story_journal.season_3.rising_flames.token_collector" GUID="BlF204uTq024ilFrpHGuhQ=="/>
-		<POI MapID="1175" xpos="-178.953" ypos="187.632"  zpos="-432.956"  type="story_journal.season_3.rising_flames.token_collector" GUID="YDlGGV1MQUCNZFOoJaOCaQ=="/>
-		<POI MapID="1175" xpos="-168.286" ypos="46.6126"  zpos="-342.913"  type="story_journal.season_3.rising_flames.token_collector" GUID="rCDfQJ7jQkug8gZTL48m/g=="/>
-		<POI MapID="1175" xpos="-165.783" ypos="149.467"  zpos="10.7436"   type="story_journal.season_3.rising_flames.token_collector" GUID="fcr4SAk3ZEiIvmrR4TxXHg=="/>
-		<POI MapID="1175" xpos="-81.3851" ypos="5.21959"  zpos="-458.236"  type="story_journal.season_3.rising_flames.token_collector" GUID="1GfK6/xaWEKJJ9xIXgIhJg=="/>
-		<POI MapID="1175" xpos="22.6204"  ypos="65.5461"  zpos="-125.201"  type="story_journal.season_3.rising_flames.token_collector" GUID="uX0hxD/1LEKIDmE9EzIV5A=="/>
-		<POI MapID="1175" xpos="63.2847"  ypos="32.7774"  zpos="-217.432"  type="story_journal.season_3.rising_flames.token_collector" GUID="fP3vpIkLREugKVhFkK9DrA=="/>
-		<POI MapID="1175" xpos="96.3155"  ypos="17.8958"  zpos="-136.423"  type="story_journal.season_3.rising_flames.token_collector" GUID="AT71fRz2O0WR6e29us9/Yw=="/>
-		<POI MapID="1175" xpos="96.3797"  ypos="-42.1374" zpos="-453.43"   type="story_journal.season_3.rising_flames.token_collector" GUID="yJPJhbu7iEuXW03LI97j8w=="/>
-		<POI MapID="1175" xpos="117.1"    ypos="46.4997"  zpos="-234.588"  type="story_journal.season_3.rising_flames.token_collector" GUID="gFjNWhe4R0+gCjCGbH5xIg=="/>
-		<POI MapID="1175" xpos="230.962"  ypos="18.731"   zpos="-666.598"  type="story_journal.season_3.rising_flames.token_collector" GUID="mX4JlWH3eUqBfUkmIqfuZA=="/>
-		<POI MapID="1175" xpos="248.47"   ypos="86.1504"  zpos="-752.96"   type="story_journal.season_3.rising_flames.token_collector" GUID="8FwqfNZL9kquPeHMdLFsSg=="/>
-		<POI MapID="1175" xpos="252.181"  ypos="35.8122"  zpos="-874.395"  type="story_journal.season_3.rising_flames.token_collector" GUID="nqYqa/awmkKqSNXn+hRKLw=="/>
-		<POI MapID="1175" xpos="257.187"  ypos="32.473"   zpos="-660.406"  type="story_journal.season_3.rising_flames.token_collector" GUID="ebahKvyDik+ao+pSqdg4sw=="/>
-		<POI MapID="1175" xpos="259.268"  ypos="121.911"  zpos="-864.432"  type="story_journal.season_3.rising_flames.token_collector" GUID="X5AXX7FvQkS1yBetHN60hg=="/>
-		<POI MapID="1175" xpos="303.932"  ypos="92.1196"  zpos="-77.5633"  type="story_journal.season_3.rising_flames.token_collector" GUID="71mph8S5rkWhNbQCNo+Mmg=="/>
-		<POI MapID="1175" xpos="334.693"  ypos="1.6355"   zpos="-993.243"  type="story_journal.season_3.rising_flames.token_collector" GUID="Niaq+ZUQEE2dLp5pN7gwig=="/>
-		<POI MapID="1175" xpos="343.263"  ypos="94.7842"  zpos="-831.88"   type="story_journal.season_3.rising_flames.token_collector" GUID="Gp4SRiuEkUeAnJpvryTQlQ=="/>
-		<POI MapID="1175" xpos="373.283"  ypos="-1.06577" zpos="-905.615"  type="story_journal.season_3.rising_flames.token_collector" GUID="RCKj6mk2VEqc9mewL588ig=="/>
-		<POI MapID="1175" xpos="378.13"   ypos="-3.72214" zpos="-984.241"  type="story_journal.season_3.rising_flames.token_collector" GUID="T0SxuOvh3kubuhEgpC/ctw=="/>
-		<POI MapID="1175" xpos="545.903"  ypos="38.2931"  zpos="-429.238"  type="story_journal.season_3.rising_flames.token_collector" GUID="OYibQYZ8h0qfCCJuXlwIYg=="/>
-		<POI MapID="1175" xpos="570.701"  ypos="16.4704"  zpos="-330.885"  type="story_journal.season_3.rising_flames.token_collector" GUID="i5uDUbPtb0KeHxCQwmzUHg=="/>
-		<POI MapID="1175" xpos="815.97"   ypos="4.80585"  zpos="190.298"   type="story_journal.season_3.rising_flames.token_collector" GUID="OOSGz/iSE0yFZyxdJ7VnpQ=="/>
-
+		<POI MapID="1175" xpos="-889.962" ypos="5.19594" zpos="-11.5472" type="story_journal.season_3.rising_flames.token_collector" GUID="KpGHkmflJEKzgo5s2vTk4Q==" />
+		<POI MapID="1175" xpos="-879.385" ypos="35.4771" zpos="81.1571" type="story_journal.season_3.rising_flames.token_collector" GUID="thQcJx/OskWXkX0gtjvQiA==" />
+		<POI MapID="1175" xpos="-783.291" ypos="129.824" zpos="108.004" type="story_journal.season_3.rising_flames.token_collector" GUID="npG1uBfsEEm4+5Z0JVmPyQ==" />
+		<POI MapID="1175" xpos="-710.462" ypos="88.8859" zpos="16.5956" type="story_journal.season_3.rising_flames.token_collector" GUID="YZkPJGPDYky0nnd8t9kUNg==" />
+		<POI MapID="1175" xpos="-677.785" ypos="39.464" zpos="-147.931" type="story_journal.season_3.rising_flames.token_collector" GUID="VirmbdjHEEeyn6ZRCnqZ9w==" />
+		<POI MapID="1175" xpos="-662.992" ypos="34.8571" zpos="-830.5" type="story_journal.season_3.rising_flames.token_collector" GUID="Q3FBQUuEH0OEV2wAzPaykQ==" />
+		<POI MapID="1175" xpos="-652.448" ypos="89.9262" zpos="-20.6756" type="story_journal.season_3.rising_flames.token_collector" GUID="2o6sODzSLkmBz6N+S4pb3Q==" />
+		<POI MapID="1175" xpos="-602.893" ypos="75.0816" zpos="0.0554095" type="story_journal.season_3.rising_flames.token_collector" GUID="SdKBoZuFfEmIAe6MpLfcJA==" />
+		<POI MapID="1175" xpos="-581.357" ypos="110.872" zpos="29.0266" type="story_journal.season_3.rising_flames.token_collector" GUID="Y62Lqq385UONbPbS5b20yw==" />
+		<POI MapID="1175" xpos="-576.203" ypos="115.679" zpos="-420.306" type="story_journal.season_3.rising_flames.token_collector" GUID="+gPf5MW3zE6r82KsfCjJ7w==" />
+		<POI MapID="1175" xpos="-531.874" ypos="176.892" zpos="-184.525" type="story_journal.season_3.rising_flames.token_collector" GUID="0xc+zOHFwEGG9TACkNdJiw==" />
+		<POI MapID="1175" xpos="-518.615" ypos="4.76293" zpos="-461.826" type="story_journal.season_3.rising_flames.token_collector" GUID="BDeyJ5ebKECo4TVQa2N98A==" />
+		<POI MapID="1175" xpos="-447.083" ypos="179.771" zpos="-72.6809" type="story_journal.season_3.rising_flames.token_collector" GUID="gVlKJewfeU+OSESSGUN5qg==" />
+		<POI MapID="1175" xpos="-252.802" ypos="12.7265" zpos="-254.92" type="story_journal.season_3.rising_flames.token_collector" GUID="ys/VsJul0UCKF3J+XMFkrw==" />
+		<POI MapID="1175" xpos="-248.828" ypos="151.84" zpos="-44.716" type="story_journal.season_3.rising_flames.token_collector" GUID="q8Y4iN1dhU+wV+0fuhL9qg==" />
+		<POI MapID="1175" xpos="-229.761" ypos="181.811" zpos="-47.8067" type="story_journal.season_3.rising_flames.token_collector" GUID="txg+/NGvfUCHaDIgPfKCjQ==" />
+		<POI MapID="1175" xpos="-203.246" ypos="132.227" zpos="-403.233" type="story_journal.season_3.rising_flames.token_collector" GUID="nIVYdjZRtUyIW+o/waww2w==" />
+		<POI MapID="1175" xpos="-199.044" ypos="-87.1407" zpos="-427.768" type="story_journal.season_3.rising_flames.token_collector" GUID="BlF204uTq024ilFrpHGuhQ==" />
+		<POI MapID="1175" xpos="-178.953" ypos="187.632" zpos="-432.956" type="story_journal.season_3.rising_flames.token_collector" GUID="YDlGGV1MQUCNZFOoJaOCaQ==" />
+		<POI MapID="1175" xpos="-168.286" ypos="46.6126" zpos="-342.913" type="story_journal.season_3.rising_flames.token_collector" GUID="rCDfQJ7jQkug8gZTL48m/g==" />
+		<POI MapID="1175" xpos="-165.783" ypos="149.467" zpos="10.7436" type="story_journal.season_3.rising_flames.token_collector" GUID="fcr4SAk3ZEiIvmrR4TxXHg==" />
+		<POI MapID="1175" xpos="-81.3851" ypos="5.21959" zpos="-458.236" type="story_journal.season_3.rising_flames.token_collector" GUID="1GfK6/xaWEKJJ9xIXgIhJg==" />
+		<POI MapID="1175" xpos="22.6204" ypos="65.5461" zpos="-125.201" type="story_journal.season_3.rising_flames.token_collector" GUID="uX0hxD/1LEKIDmE9EzIV5A==" />
+		<POI MapID="1175" xpos="63.2847" ypos="32.7774" zpos="-217.432" type="story_journal.season_3.rising_flames.token_collector" GUID="fP3vpIkLREugKVhFkK9DrA==" />
+		<POI MapID="1175" xpos="96.3155" ypos="17.8958" zpos="-136.423" type="story_journal.season_3.rising_flames.token_collector" GUID="AT71fRz2O0WR6e29us9/Yw==" />
+		<POI MapID="1175" xpos="96.3797" ypos="-42.1374" zpos="-453.43" type="story_journal.season_3.rising_flames.token_collector" GUID="yJPJhbu7iEuXW03LI97j8w==" />
+		<POI MapID="1175" xpos="117.1" ypos="46.4997" zpos="-234.588" type="story_journal.season_3.rising_flames.token_collector" GUID="gFjNWhe4R0+gCjCGbH5xIg==" />
+		<POI MapID="1175" xpos="230.962" ypos="18.731" zpos="-666.598" type="story_journal.season_3.rising_flames.token_collector" GUID="mX4JlWH3eUqBfUkmIqfuZA==" />
+		<POI MapID="1175" xpos="248.47" ypos="86.1504" zpos="-752.96" type="story_journal.season_3.rising_flames.token_collector" GUID="8FwqfNZL9kquPeHMdLFsSg==" />
+		<POI MapID="1175" xpos="252.181" ypos="35.8122" zpos="-874.395" type="story_journal.season_3.rising_flames.token_collector" GUID="nqYqa/awmkKqSNXn+hRKLw==" />
+		<POI MapID="1175" xpos="257.187" ypos="32.473" zpos="-660.406" type="story_journal.season_3.rising_flames.token_collector" GUID="ebahKvyDik+ao+pSqdg4sw==" />
+		<POI MapID="1175" xpos="259.268" ypos="121.911" zpos="-864.432" type="story_journal.season_3.rising_flames.token_collector" GUID="X5AXX7FvQkS1yBetHN60hg==" />
+		<POI MapID="1175" xpos="303.932" ypos="92.1196" zpos="-77.5633" type="story_journal.season_3.rising_flames.token_collector" GUID="71mph8S5rkWhNbQCNo+Mmg==" />
+		<POI MapID="1175" xpos="334.693" ypos="1.6355" zpos="-993.243" type="story_journal.season_3.rising_flames.token_collector" GUID="Niaq+ZUQEE2dLp5pN7gwig==" />
+		<POI MapID="1175" xpos="343.263" ypos="94.7842" zpos="-831.88" type="story_journal.season_3.rising_flames.token_collector" GUID="Gp4SRiuEkUeAnJpvryTQlQ==" />
+		<POI MapID="1175" xpos="373.283" ypos="-1.06577" zpos="-905.615" type="story_journal.season_3.rising_flames.token_collector" GUID="RCKj6mk2VEqc9mewL588ig==" />
+		<POI MapID="1175" xpos="378.13" ypos="-3.72214" zpos="-984.241" type="story_journal.season_3.rising_flames.token_collector" GUID="T0SxuOvh3kubuhEgpC/ctw==" />
+		<POI MapID="1175" xpos="545.903" ypos="38.2931" zpos="-429.238" type="story_journal.season_3.rising_flames.token_collector" GUID="OYibQYZ8h0qfCCJuXlwIYg==" />
+		<POI MapID="1175" xpos="570.701" ypos="16.4704" zpos="-330.885" type="story_journal.season_3.rising_flames.token_collector" GUID="i5uDUbPtb0KeHxCQwmzUHg==" />
+		<POI MapID="1175" xpos="815.97" ypos="4.80585" zpos="190.298" type="story_journal.season_3.rising_flames.token_collector" GUID="OOSGz/iSE0yFZyxdJ7VnpQ==" />
 		<!-- WALKING ON FIRE -->
-		<Trail type="story_journal.season_3.rising_flames.walking_on_fire" GUID="fIA3DOhHZ0ah3gcf+QQ69g==" trailData="Data/StoryJournal/Season3/RisingFlames/WalkingOnFire.trl" texture="Data/Arrow.png" color="ff00ff00" alpha="0.8" fadeNear="1500" fadeFar="2000" animSpeed="0" mapDisplaySize="15"/>
-		<POI MapID="1175" xpos="49.9068" ypos="39.3387" zpos="-64.9947" type="story_journal.season_3.rising_flames.walking_on_fire" GUID="Abtr+hfgEkOsyGfIX6zCJw=="/>
-
+		<Trail type="story_journal.season_3.rising_flames.walking_on_fire" GUID="fIA3DOhHZ0ah3gcf+QQ69g==" trailData="Data/StoryJournal/Season3/RisingFlames/WalkingOnFire.trl" texture="Data/Arrow.png" color="ff00ff00" alpha="0.8" fadeNear="1500" fadeFar="2000" animSpeed="0" mapDisplaySize="15" />
+		<POI MapID="1175" xpos="49.9068" ypos="39.3387" zpos="-64.9947" type="story_journal.season_3.rising_flames.walking_on_fire" GUID="Abtr+hfgEkOsyGfIX6zCJw==" />
 	</POIs>
 </OverlayData>

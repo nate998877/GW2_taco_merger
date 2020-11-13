@@ -1,126 +1,108 @@
 <!-- 2020.05.28 -->
 <OverlayData>
 	<POIs>
-
 		<!-- BEETLE JUICE -->
-		<POI MapID="1288" xpos="-572.163" ypos="41.3389"  zpos="438.022" type="story_journal.season_4.long_live_the_lich.beetle_juice" GUID="BqCroAPtOkyKjpBYJHXzpA==" heightOffset="2" behavior="0"/>
-		<POI MapID="1288" xpos="-572.163" ypos="41.3389"  zpos="438.022" type="story_journal.season_4.long_live_the_lich.beetle_juice" GUID="R+hKwHZXcU+JCLjQblSsgA==" iconFile="Img/Numbers/1.png" color="ff00ff00" heightOffset="3.5" behavior="0"/>
-		<POI MapID="1288" xpos="424.428"  ypos="35.2201"  zpos="1197.09" type="story_journal.season_4.long_live_the_lich.beetle_juice" GUID="wimBQTvUXEq7qqoRd8MkHQ=="/>
-		<POI MapID="1288" xpos="380.38"   ypos="15.1222"  zpos="1148.45" type="story_journal.season_4.long_live_the_lich.beetle_juice" GUID="c2ppXRDzX0myrwlT43YmJg=="/>
-		<POI MapID="1288" xpos="117.398"  ypos="0.440275" zpos="1089.88" type="story_journal.season_4.long_live_the_lich.beetle_juice" GUID="1MEpyVihcEWvSrFjw1LpuQ=="/>
-		<POI MapID="1288" xpos="-813.571" ypos="22.1483"  zpos="568.317" type="story_journal.season_4.long_live_the_lich.beetle_juice" GUID="3gxVW1/woEWHciMlhUqkMw=="/>
-		<POI MapID="1288" xpos="-611.276" ypos="50.3454"  zpos="894.52"  type="story_journal.season_4.long_live_the_lich.beetle_juice" GUID="Nprknju1PES6vUqjnSQYSQ=="/>
-		<POI MapID="1288" xpos="-655.447" ypos="29.4683"  zpos="717.728" type="story_journal.season_4.long_live_the_lich.beetle_juice" GUID="HuoodTbWSE+FNXJWUYgqBQ=="/>
-		<POI MapID="1288" xpos="313.347"  ypos="0.929421" zpos="382.777" type="story_journal.season_4.long_live_the_lich.beetle_juice" GUID="3LriFejPB0GbvLFzX7SmKg=="/>
-		<POI MapID="1288" xpos="450.936"  ypos="1.8322"   zpos="255.02"  type="story_journal.season_4.long_live_the_lich.beetle_juice" GUID="YtUKTI+pJEqivPCWdF488w=="/>
-		<POI MapID="1288" xpos="272.364"  ypos="2.62834"  zpos="682.161" type="story_journal.season_4.long_live_the_lich.beetle_juice" GUID="TIb21Zzcrky96PLuyU496Q=="/>
-
+		<POI MapID="1288" xpos="-572.163" ypos="41.3389" zpos="438.022" type="story_journal.season_4.long_live_the_lich.beetle_juice" GUID="BqCroAPtOkyKjpBYJHXzpA==" heightOffset="2" behavior="0" />
+		<POI MapID="1288" xpos="-572.163" ypos="41.3389" zpos="438.022" type="story_journal.season_4.long_live_the_lich.beetle_juice" GUID="R+hKwHZXcU+JCLjQblSsgA==" iconFile="Img/Numbers/1.png" color="ff00ff00" heightOffset="3.5" behavior="0" />
+		<POI MapID="1288" xpos="424.428" ypos="35.2201" zpos="1197.09" type="story_journal.season_4.long_live_the_lich.beetle_juice" GUID="wimBQTvUXEq7qqoRd8MkHQ==" />
+		<POI MapID="1288" xpos="380.38" ypos="15.1222" zpos="1148.45" type="story_journal.season_4.long_live_the_lich.beetle_juice" GUID="c2ppXRDzX0myrwlT43YmJg==" />
+		<POI MapID="1288" xpos="117.398" ypos="0.440275" zpos="1089.88" type="story_journal.season_4.long_live_the_lich.beetle_juice" GUID="1MEpyVihcEWvSrFjw1LpuQ==" />
+		<POI MapID="1288" xpos="-813.571" ypos="22.1483" zpos="568.317" type="story_journal.season_4.long_live_the_lich.beetle_juice" GUID="3gxVW1/woEWHciMlhUqkMw==" />
+		<POI MapID="1288" xpos="-611.276" ypos="50.3454" zpos="894.52" type="story_journal.season_4.long_live_the_lich.beetle_juice" GUID="Nprknju1PES6vUqjnSQYSQ==" />
+		<POI MapID="1288" xpos="-655.447" ypos="29.4683" zpos="717.728" type="story_journal.season_4.long_live_the_lich.beetle_juice" GUID="HuoodTbWSE+FNXJWUYgqBQ==" />
+		<POI MapID="1288" xpos="313.347" ypos="0.929421" zpos="382.777" type="story_journal.season_4.long_live_the_lich.beetle_juice" GUID="3LriFejPB0GbvLFzX7SmKg==" />
+		<POI MapID="1288" xpos="450.936" ypos="1.8322" zpos="255.02" type="story_journal.season_4.long_live_the_lich.beetle_juice" GUID="YtUKTI+pJEqivPCWdF488w==" />
+		<POI MapID="1288" xpos="272.364" ypos="2.62834" zpos="682.161" type="story_journal.season_4.long_live_the_lich.beetle_juice" GUID="TIb21Zzcrky96PLuyU496Q==" />
 		<!-- BEETLE SADDLE -->
-		<POI MapID="1288" xpos="-221.555" ypos="10.8751" zpos="485.606" type="story_journal.season_4.long_live_the_lich.beetle_saddle" GUID="OH+4cILNFUa0J8EU+omXiw=="/>
-		<POI MapID="1288" xpos="-221.555" ypos="10.8751" zpos="485.606" type="story_journal.season_4.long_live_the_lich.beetle_saddle" GUID="2/fJHwIY9Em3qNWFTQc+Lw==" iconFile="Img/Season4/BeetleSaddle1.png" minSize="48" maxSize="64" fadeNear="1500" fadeFar="2000" heightOffset="3" behavior="0"/>
-		<POI MapID="1288" xpos="-9.48796" ypos="52.955"  zpos="579.116" type="story_journal.season_4.long_live_the_lich.beetle_saddle" GUID="jDuC6dvwQUmy3i024k6qpg=="/>
-		<POI MapID="1288" xpos="-614.015" ypos="32.1802" zpos="288.346" type="story_journal.season_4.long_live_the_lich.beetle_saddle" GUID="NvoR/1449k2ruvKO0XYJ6w=="/>
-		<POI MapID="1288" xpos="-614.015" ypos="32.1802" zpos="288.346" type="story_journal.season_4.long_live_the_lich.beetle_saddle" GUID="FFBkXRj2TkOroQNYj1+L0g==" iconFile="Img/Season4/BeetleSaddle2.png" minSize="48" maxSize="64" fadeNear="1500" fadeFar="2000" heightOffset="3" behavior="0"/>
-		<POI MapID="1288" xpos="-576.476" ypos="21.5273" zpos="256.134" type="story_journal.season_4.long_live_the_lich.beetle_saddle" GUID="7hXRHl5MsECyNCTXYkkjVw=="/>
-		<POI MapID="1288" xpos="-576.476" ypos="21.5273" zpos="256.134" type="story_journal.season_4.long_live_the_lich.beetle_saddle" GUID="ye8UX3+k6E+w00MD4jX1tw==" iconFile="Img/Season4/BeetleSaddle3.png" minSize="48" maxSize="64" fadeNear="1500" fadeFar="2000" heightOffset="4" behavior="0"/>
-		<POI MapID="1288" xpos="-355.83"  ypos="24.4207" zpos="-12.689" type="story_journal.season_4.long_live_the_lich.beetle_saddle" GUID="j1bNjk4+qUWHWtPXP68aNg=="/>
-		<POI MapID="1288" xpos="-355.83"  ypos="24.4207" zpos="-12.689" type="story_journal.season_4.long_live_the_lich.beetle_saddle" GUID="Gw5eHeWUVkiIC9tgFpWCTw==" iconFile="Img/Season4/BeetleSaddle4.png" minSize="48" maxSize="64" fadeNear="1500" fadeFar="2000" heightOffset="4" behavior="0"/>
-		<POI MapID="1288" xpos="-576.497" ypos="21.8126" zpos="261.548" type="story_journal.season_4.long_live_the_lich.beetle_saddle" GUID="jm+cqQJD1k6mfMkvqk/7Hg=="/>
-		<POI MapID="1288" xpos="-576.497" ypos="21.8126" zpos="261.548" type="story_journal.season_4.long_live_the_lich.beetle_saddle" GUID="p8uhEKn+tka3e7+LUOy/Kg==" iconFile="Img/Season4/BeetleSaddle5.png" minSize="48" maxSize="64" fadeNear="1500" fadeFar="2000" heightOffset="4" behavior="0"/>
-		<POI MapID="1288" xpos="-576.009" ypos="22.2449" zpos="266.185" type="story_journal.season_4.long_live_the_lich.beetle_saddle" GUID="XhpZqYnqAkuHQYhzURWDPA=="/>
-		<POI MapID="1288" xpos="-576.009" ypos="22.2449" zpos="266.185" type="story_journal.season_4.long_live_the_lich.beetle_saddle" GUID="U7MwkuFlPU278A2yqrIGJQ==" iconFile="Img/Season4/BeetleSaddle6.png" minSize="48" maxSize="64" fadeNear="1500" fadeFar="2000" heightOffset="3.5" behavior="0"/>
-
+		<POI MapID="1288" xpos="-221.555" ypos="10.8751" zpos="485.606" type="story_journal.season_4.long_live_the_lich.beetle_saddle" GUID="OH+4cILNFUa0J8EU+omXiw==" />
+		<POI MapID="1288" xpos="-221.555" ypos="10.8751" zpos="485.606" type="story_journal.season_4.long_live_the_lich.beetle_saddle" GUID="2/fJHwIY9Em3qNWFTQc+Lw==" iconFile="Img/Season4/BeetleSaddle1.png" minSize="48" maxSize="64" fadeNear="1500" fadeFar="2000" heightOffset="3" behavior="0" />
+		<POI MapID="1288" xpos="-9.48796" ypos="52.955" zpos="579.116" type="story_journal.season_4.long_live_the_lich.beetle_saddle" GUID="jDuC6dvwQUmy3i024k6qpg==" />
+		<POI MapID="1288" xpos="-614.015" ypos="32.1802" zpos="288.346" type="story_journal.season_4.long_live_the_lich.beetle_saddle" GUID="NvoR/1449k2ruvKO0XYJ6w==" />
+		<POI MapID="1288" xpos="-614.015" ypos="32.1802" zpos="288.346" type="story_journal.season_4.long_live_the_lich.beetle_saddle" GUID="FFBkXRj2TkOroQNYj1+L0g==" iconFile="Img/Season4/BeetleSaddle2.png" minSize="48" maxSize="64" fadeNear="1500" fadeFar="2000" heightOffset="3" behavior="0" />
+		<POI MapID="1288" xpos="-576.476" ypos="21.5273" zpos="256.134" type="story_journal.season_4.long_live_the_lich.beetle_saddle" GUID="7hXRHl5MsECyNCTXYkkjVw==" />
+		<POI MapID="1288" xpos="-576.476" ypos="21.5273" zpos="256.134" type="story_journal.season_4.long_live_the_lich.beetle_saddle" GUID="ye8UX3+k6E+w00MD4jX1tw==" iconFile="Img/Season4/BeetleSaddle3.png" minSize="48" maxSize="64" fadeNear="1500" fadeFar="2000" heightOffset="4" behavior="0" />
+		<POI MapID="1288" xpos="-355.83" ypos="24.4207" zpos="-12.689" type="story_journal.season_4.long_live_the_lich.beetle_saddle" GUID="j1bNjk4+qUWHWtPXP68aNg==" />
+		<POI MapID="1288" xpos="-355.83" ypos="24.4207" zpos="-12.689" type="story_journal.season_4.long_live_the_lich.beetle_saddle" GUID="Gw5eHeWUVkiIC9tgFpWCTw==" iconFile="Img/Season4/BeetleSaddle4.png" minSize="48" maxSize="64" fadeNear="1500" fadeFar="2000" heightOffset="4" behavior="0" />
+		<POI MapID="1288" xpos="-576.497" ypos="21.8126" zpos="261.548" type="story_journal.season_4.long_live_the_lich.beetle_saddle" GUID="jm+cqQJD1k6mfMkvqk/7Hg==" />
+		<POI MapID="1288" xpos="-576.497" ypos="21.8126" zpos="261.548" type="story_journal.season_4.long_live_the_lich.beetle_saddle" GUID="p8uhEKn+tka3e7+LUOy/Kg==" iconFile="Img/Season4/BeetleSaddle5.png" minSize="48" maxSize="64" fadeNear="1500" fadeFar="2000" heightOffset="4" behavior="0" />
+		<POI MapID="1288" xpos="-576.009" ypos="22.2449" zpos="266.185" type="story_journal.season_4.long_live_the_lich.beetle_saddle" GUID="XhpZqYnqAkuHQYhzURWDPA==" />
+		<POI MapID="1288" xpos="-576.009" ypos="22.2449" zpos="266.185" type="story_journal.season_4.long_live_the_lich.beetle_saddle" GUID="U7MwkuFlPU278A2yqrIGJQ==" iconFile="Img/Season4/BeetleSaddle6.png" minSize="48" maxSize="64" fadeNear="1500" fadeFar="2000" heightOffset="3.5" behavior="0" />
 		<!-- BEETLE FEED -->
-		<POI MapID="1288" xpos="-112.506" ypos="52.3569" zpos="-91.6831" type="story_journal.season_4.long_live_the_lich.beetle_feed" GUID="kHkQHY0JYEuheaWJtyoHZA=="/>
-		<POI MapID="1288" xpos="-112.506" ypos="52.3569" zpos="-91.6831" type="story_journal.season_4.long_live_the_lich.beetle_feed" GUID="d6bGA2kCOEaTtsyHIi1OkQ==" iconFile="Img/Season4/BeetleFood1.png" minSize="48" maxSize="64" fadeNear="1500" fadeFar="2000" heightOffset="3.5" behavior="0"/>
-		<POI MapID="1288" xpos="-199.738" ypos="55.2728" zpos="-589.926" type="story_journal.season_4.long_live_the_lich.beetle_feed" GUID="c5HlsM1DFUq2yLR2Xw/Ysg=="/>
-		<POI MapID="1288" xpos="-212.095" ypos="56.159"  zpos="-602.519" type="story_journal.season_4.long_live_the_lich.beetle_feed" GUID="ImWu8Hb11Uqdr2qpdrVALw=="/>
-		<POI MapID="1288" xpos="-281.257" ypos="55.2438" zpos="-763.664" type="story_journal.season_4.long_live_the_lich.beetle_feed" GUID="5hZN8zV4A0eNNvb4outuXQ=="/>
-		<POI MapID="1288" xpos="-298.313" ypos="54.9529" zpos="-762.094" type="story_journal.season_4.long_live_the_lich.beetle_feed" GUID="nfbESAxom0iTqPDG4lemOw=="/>
-		<POI MapID="1288" xpos="-267.108" ypos="55.4973" zpos="-706.106" type="story_journal.season_4.long_live_the_lich.beetle_feed" GUID="qy0MoJLxGkyPcuL06kKE8g=="/>
-		<POI MapID="1288" xpos="-258.31"  ypos="55.5587" zpos="-699.077" type="story_journal.season_4.long_live_the_lich.beetle_feed" GUID="TFhgwgvFFUyZ5La4Ytgrtg=="/>
-		<POI MapID="1288" xpos="-577.534" ypos="22.6578" zpos="285.743"  type="story_journal.season_4.long_live_the_lich.beetle_feed" GUID="0bbq1+dXmU+cE7eiKR6PxA=="/>
-		<POI MapID="1288" xpos="-577.534" ypos="22.6578" zpos="285.743"  type="story_journal.season_4.long_live_the_lich.beetle_feed" GUID="iL4uJsynq0mNkvWbWg4JVg==" iconFile="Img/Season4/BeetleFood2.png" minSize="48" maxSize="64" fadeNear="1500" fadeFar="2000" heightOffset="3.5" behavior="0"/>
-		<POI MapID="1288" xpos="-577.199" ypos="22.7449" zpos="289.199"  type="story_journal.season_4.long_live_the_lich.beetle_feed" GUID="lQhMNVmZWkOH0TE1ZmLC5w=="/>
-		<POI MapID="1288" xpos="-577.199" ypos="22.7449" zpos="289.199"  type="story_journal.season_4.long_live_the_lich.beetle_feed" GUID="RBlQZvOX3USWthDKEH4iLg==" iconFile="Img/Season4/BeetleFood3.png" minSize="48" maxSize="64" fadeNear="1500" fadeFar="2000" heightOffset="3.5" behavior="0"/>
-		<POI MapID="1288" xpos="193.942"  ypos="46.8143" zpos="457.991"  type="story_journal.season_4.long_live_the_lich.beetle_feed" GUID="H0MsBgNHWEiu6ozlG+Ml4Q==" heightOffset="3"/>
-		<POI MapID="1288" xpos="-946.39"  ypos="-112.56" zpos="890.99"   type="story_journal.season_4.long_live_the_lich.beetle_feed" GUID="jFuUI/2esESGQ85pgH0Sdw=="/>
-		<POI MapID="1288" xpos="-577.043" ypos="22.5384" zpos="292.151"  type="story_journal.season_4.long_live_the_lich.beetle_feed" GUID="q0D9+Yh8CE6neBQtTsyjYA=="/>
-		<POI MapID="1288" xpos="-577.043" ypos="22.5384" zpos="292.151"  type="story_journal.season_4.long_live_the_lich.beetle_feed" GUID="Fe2WumlakkCKuOQdf1rGEg==" iconFile="Img/Season4/BeetleFood4.png" minSize="48" maxSize="64" fadeNear="1500" fadeFar="2000" heightOffset="3.5" behavior="0"/>
-
+		<POI MapID="1288" xpos="-112.506" ypos="52.3569" zpos="-91.6831" type="story_journal.season_4.long_live_the_lich.beetle_feed" GUID="kHkQHY0JYEuheaWJtyoHZA==" />
+		<POI MapID="1288" xpos="-112.506" ypos="52.3569" zpos="-91.6831" type="story_journal.season_4.long_live_the_lich.beetle_feed" GUID="d6bGA2kCOEaTtsyHIi1OkQ==" iconFile="Img/Season4/BeetleFood1.png" minSize="48" maxSize="64" fadeNear="1500" fadeFar="2000" heightOffset="3.5" behavior="0" />
+		<POI MapID="1288" xpos="-199.738" ypos="55.2728" zpos="-589.926" type="story_journal.season_4.long_live_the_lich.beetle_feed" GUID="c5HlsM1DFUq2yLR2Xw/Ysg==" />
+		<POI MapID="1288" xpos="-212.095" ypos="56.159" zpos="-602.519" type="story_journal.season_4.long_live_the_lich.beetle_feed" GUID="ImWu8Hb11Uqdr2qpdrVALw==" />
+		<POI MapID="1288" xpos="-281.257" ypos="55.2438" zpos="-763.664" type="story_journal.season_4.long_live_the_lich.beetle_feed" GUID="5hZN8zV4A0eNNvb4outuXQ==" />
+		<POI MapID="1288" xpos="-298.313" ypos="54.9529" zpos="-762.094" type="story_journal.season_4.long_live_the_lich.beetle_feed" GUID="nfbESAxom0iTqPDG4lemOw==" />
+		<POI MapID="1288" xpos="-267.108" ypos="55.4973" zpos="-706.106" type="story_journal.season_4.long_live_the_lich.beetle_feed" GUID="qy0MoJLxGkyPcuL06kKE8g==" />
+		<POI MapID="1288" xpos="-258.31" ypos="55.5587" zpos="-699.077" type="story_journal.season_4.long_live_the_lich.beetle_feed" GUID="TFhgwgvFFUyZ5La4Ytgrtg==" />
+		<POI MapID="1288" xpos="-577.534" ypos="22.6578" zpos="285.743" type="story_journal.season_4.long_live_the_lich.beetle_feed" GUID="0bbq1+dXmU+cE7eiKR6PxA==" />
+		<POI MapID="1288" xpos="-577.534" ypos="22.6578" zpos="285.743" type="story_journal.season_4.long_live_the_lich.beetle_feed" GUID="iL4uJsynq0mNkvWbWg4JVg==" iconFile="Img/Season4/BeetleFood2.png" minSize="48" maxSize="64" fadeNear="1500" fadeFar="2000" heightOffset="3.5" behavior="0" />
+		<POI MapID="1288" xpos="-577.199" ypos="22.7449" zpos="289.199" type="story_journal.season_4.long_live_the_lich.beetle_feed" GUID="lQhMNVmZWkOH0TE1ZmLC5w==" />
+		<POI MapID="1288" xpos="-577.199" ypos="22.7449" zpos="289.199" type="story_journal.season_4.long_live_the_lich.beetle_feed" GUID="RBlQZvOX3USWthDKEH4iLg==" iconFile="Img/Season4/BeetleFood3.png" minSize="48" maxSize="64" fadeNear="1500" fadeFar="2000" heightOffset="3.5" behavior="0" />
+		<POI MapID="1288" xpos="193.942" ypos="46.8143" zpos="457.991" type="story_journal.season_4.long_live_the_lich.beetle_feed" GUID="H0MsBgNHWEiu6ozlG+Ml4Q==" heightOffset="3" />
+		<POI MapID="1288" xpos="-946.39" ypos="-112.56" zpos="890.99" type="story_journal.season_4.long_live_the_lich.beetle_feed" GUID="jFuUI/2esESGQ85pgH0Sdw==" />
+		<POI MapID="1288" xpos="-577.043" ypos="22.5384" zpos="292.151" type="story_journal.season_4.long_live_the_lich.beetle_feed" GUID="q0D9+Yh8CE6neBQtTsyjYA==" />
+		<POI MapID="1288" xpos="-577.043" ypos="22.5384" zpos="292.151" type="story_journal.season_4.long_live_the_lich.beetle_feed" GUID="Fe2WumlakkCKuOQdf1rGEg==" iconFile="Img/Season4/BeetleFood4.png" minSize="48" maxSize="64" fadeNear="1500" fadeFar="2000" heightOffset="3.5" behavior="0" />
 		<!-- CAPTIVE AUDIENCE -->
-		<Trail type="story_journal.season_4.long_live_the_lich.captive_audience" GUID="bvFEqmNMuEi4XDmpxe6XWg==" trailData="Data/StoryJournal/Season4/LongLiveTheLich/CaptiveAudience.trl" texture="Data/Stripe.png" color="ff00ff00" alpha="1" fadeNear="800" fadeFar="1000" animSpeed="0"/>
-		<POI MapID="1292" xpos="-273.103" ypos="22.3327" zpos="-589.071" type="story_journal.season_4.long_live_the_lich.captive_audience" GUID="I9+0WO9qr02YmTbHekVHUQ==" fadeNear="1000" fadeFar="1500"/>
-		<POI MapID="1292" xpos="-273.103" ypos="22.3327" zpos="-589.071" type="story_journal.season_4.long_live_the_lich.captive_audience" GUID="g+vKLoRwW0WT2OfsGQqAFg==" iconFile="Img/Season4/CaptiveAudience.png" minSize="48" maxSize="64" fadeNear="800" fadeFar="1000" heightOffset="2.5" behavior="0"/>
-
+		<Trail type="story_journal.season_4.long_live_the_lich.captive_audience" GUID="bvFEqmNMuEi4XDmpxe6XWg==" trailData="Data/StoryJournal/Season4/LongLiveTheLich/CaptiveAudience.trl" texture="Data/Stripe.png" color="ff00ff00" alpha="1" fadeNear="800" fadeFar="1000" animSpeed="0" />
+		<POI MapID="1292" xpos="-273.103" ypos="22.3327" zpos="-589.071" type="story_journal.season_4.long_live_the_lich.captive_audience" GUID="I9+0WO9qr02YmTbHekVHUQ==" fadeNear="1000" fadeFar="1500" />
+		<POI MapID="1292" xpos="-273.103" ypos="22.3327" zpos="-589.071" type="story_journal.season_4.long_live_the_lich.captive_audience" GUID="g+vKLoRwW0WT2OfsGQqAFg==" iconFile="Img/Season4/CaptiveAudience.png" minSize="48" maxSize="64" fadeNear="800" fadeFar="1000" heightOffset="2.5" behavior="0" />
 		<!-- DANCES WITH CACTI -->
-		<POI MapID="1288" xpos="253.214" ypos="68.6305" zpos="1239.69" type="story_journal.season_4.long_live_the_lich.dances_with_cacti" GUID="e8RTsDN5skOH4FA++s9LYQ==" heightOffset="3"/>
-		<POI MapID="1288" xpos="258.086" ypos="68.6214" zpos="1237.32" type="story_journal.season_4.long_live_the_lich.dances_with_cacti" GUID="8z97WfyAZEGnG11Yt5Utqw==" iconFile="Img/Season4/DancesWithCacti.png" minSize="100" maxSize="100" fadeNear="1000" fadeFar="1200" heightOffset="4" behavior="0"/>
-
+		<POI MapID="1288" xpos="253.214" ypos="68.6305" zpos="1239.69" type="story_journal.season_4.long_live_the_lich.dances_with_cacti" GUID="e8RTsDN5skOH4FA++s9LYQ==" heightOffset="3" />
+		<POI MapID="1288" xpos="258.086" ypos="68.6214" zpos="1237.32" type="story_journal.season_4.long_live_the_lich.dances_with_cacti" GUID="8z97WfyAZEGnG11Yt5Utqw==" iconFile="Img/Season4/DancesWithCacti.png" minSize="100" maxSize="100" fadeNear="1000" fadeFar="1200" heightOffset="4" behavior="0" />
 		<!-- DEBBIE'S CAKES -->
-		<POI MapID="1288" xpos="-829.465" ypos="46.505"  zpos="795.626" type="story_journal.season_4.long_live_the_lich.debbie_s_cakes" GUID="VdWOQGyYj0GJerVaahO+kw==" heightOffset="3"/>
-		<POI MapID="1288" xpos="-831.248" ypos="46.5999" zpos="797.348" type="story_journal.season_4.long_live_the_lich.debbie_s_cakes" GUID="xD5jZ2NbMEyb7r9QGx9ClQ==" iconFile="Img/Season4/DebbiesCakes.png" minSize="48" maxSize="64" fadeNear="1000" fadeFar="1500" behavior="0"/>
-
+		<POI MapID="1288" xpos="-829.465" ypos="46.505" zpos="795.626" type="story_journal.season_4.long_live_the_lich.debbie_s_cakes" GUID="VdWOQGyYj0GJerVaahO+kw==" heightOffset="3" />
+		<POI MapID="1288" xpos="-831.248" ypos="46.5999" zpos="797.348" type="story_journal.season_4.long_live_the_lich.debbie_s_cakes" GUID="xD5jZ2NbMEyb7r9QGx9ClQ==" iconFile="Img/Season4/DebbiesCakes.png" minSize="48" maxSize="64" fadeNear="1000" fadeFar="1500" behavior="0" />
 		<!-- DEXTEROUS AND FLEXIBLE -->
-		<Trail type="story_journal.season_4.long_live_the_lich.dexterous_and_flexible" GUID="GQZjjMeGFE6RXsc4m2K8ag==" trailData="Data/StoryJournal/Season4/LongLiveTheLich/DexterousAndFlexible.trl" texture="Data/Stripe.png" color="ffff0000" alpha="1" fadeNear="1000" fadeFar="2000" animSpeed="0"/>
-		<POI MapID="1292" xpos="-275.922" ypos="22.337" zpos="-589.343" type="story_journal.season_4.long_live_the_lich.dexterous_and_flexible" GUID="N0ISNEJF60GywfjK68hnXg==" fadeNear="1000" fadeFar="1500"/>
-		<POI MapID="1292" xpos="-275.922" ypos="22.337" zpos="-589.343" type="story_journal.season_4.long_live_the_lich.dexterous_and_flexible" GUID="BTfTZvVnjUyx6de29lvKnQ==" iconFile="Img/Season4/DexterousAndFlexible.png" minSize="48" maxSize="64" fadeNear="800" fadeFar="1000" heightOffset="2.5" behavior="0"/>
-
+		<Trail type="story_journal.season_4.long_live_the_lich.dexterous_and_flexible" GUID="GQZjjMeGFE6RXsc4m2K8ag==" trailData="Data/StoryJournal/Season4/LongLiveTheLich/DexterousAndFlexible.trl" texture="Data/Stripe.png" color="ffff0000" alpha="1" fadeNear="1000" fadeFar="2000" animSpeed="0" />
+		<POI MapID="1292" xpos="-275.922" ypos="22.337" zpos="-589.343" type="story_journal.season_4.long_live_the_lich.dexterous_and_flexible" GUID="N0ISNEJF60GywfjK68hnXg==" fadeNear="1000" fadeFar="1500" />
+		<POI MapID="1292" xpos="-275.922" ypos="22.337" zpos="-589.343" type="story_journal.season_4.long_live_the_lich.dexterous_and_flexible" GUID="BTfTZvVnjUyx6de29lvKnQ==" iconFile="Img/Season4/DexterousAndFlexible.png" minSize="48" maxSize="64" fadeNear="800" fadeFar="1000" heightOffset="2.5" behavior="0" />
 		<!-- DOMAIN OF KOURNA INSIGHT: ALLIED ENCAMPMENT -->
-		<Trail type="story_journal.season_4.long_live_the_lich.domain_of_kourna_insight_allied_encampment" GUID="IiVZ4HeUakaKhMd5YEqXLQ==" trailData="Data/StoryJournal/Season4/LongLiveTheLich/DomainOfKournaInsightAlliedEncampment.trl" texture="Data/Arrow.png" color="ff942fa4" alpha="0.7" fadeNear="3000" fadeFar="4000" animSpeed="0"/>
-		<POI MapID="1288" xpos="-613.934" ypos="29.8723" zpos="211.631" type="story_journal.season_4.long_live_the_lich.domain_of_kourna_insight_allied_encampment" GUID="i3M0Zm7OPEygMjQQMAq4hA==" iconFile="Img/PoF/MasteryPoF.png"  minSize="24" heightOffset="1"/>
-		<POI MapID="1288" xpos="-613.934" ypos="29.8723" zpos="211.631" type="story_journal.season_4.long_live_the_lich.domain_of_kourna_insight_allied_encampment" GUID="NhEjNREWO0OsCT0tm17SaQ==" iconFile="Img/Mounts/Springer.png" maxSize="24" fadeNear="1500" fadeFar="2000" heightOffset="2"/>
-
+		<Trail type="story_journal.season_4.long_live_the_lich.domain_of_kourna_insight_allied_encampment" GUID="IiVZ4HeUakaKhMd5YEqXLQ==" trailData="Data/StoryJournal/Season4/LongLiveTheLich/DomainOfKournaInsightAlliedEncampment.trl" texture="Data/Arrow.png" color="ff942fa4" alpha="0.7" fadeNear="3000" fadeFar="4000" animSpeed="0" />
+		<POI MapID="1288" xpos="-613.934" ypos="29.8723" zpos="211.631" type="story_journal.season_4.long_live_the_lich.domain_of_kourna_insight_allied_encampment" GUID="i3M0Zm7OPEygMjQQMAq4hA==" iconFile="Img/PoF/MasteryPoF.png" minSize="24" heightOffset="1" />
+		<POI MapID="1288" xpos="-613.934" ypos="29.8723" zpos="211.631" type="story_journal.season_4.long_live_the_lich.domain_of_kourna_insight_allied_encampment" GUID="NhEjNREWO0OsCT0tm17SaQ==" iconFile="Img/Mounts/Springer.png" maxSize="24" fadeNear="1500" fadeFar="2000" heightOffset="2" />
 		<!-- DOMAIN OF KOURNA INSIGHT: DABIJI HOLLOWS -->
-		<Trail type="story_journal.season_4.long_live_the_lich.domain_of_kourna_insight_dabiji_hollows" GUID="gBOo1mjTbkKQKytWRPA1Mg==" trailData="Data/StoryJournal/Season4/LongLiveTheLich/DomainOfKournaInsightDabijiHollows.trl" texture="Data/Arrow.png" color="ff942fa4" alpha="0.7" fadeNear="3000" fadeFar="4000" animSpeed="0"/>
-		<POI MapID="1288" xpos="-156.569" ypos="13.122" zpos="173.571" type="story_journal.season_4.long_live_the_lich.domain_of_kourna_insight_dabiji_hollows" GUID="UvkkrMlasEi1QqqIy9YLQQ==" iconFile="Img/PoF/MasteryPoF.png"                             minSize="24" heightOffset="1"/>
-		<POI MapID="1288" xpos="-156.569" ypos="13.122" zpos="173.571" type="story_journal.season_4.long_live_the_lich.domain_of_kourna_insight_dabiji_hollows" GUID="CcmWwbf6IEyhxWXm5fXVmQ==" iconFile="Img/Mounts/Springer.png"                            maxSize="24" fadeNear="1500" fadeFar="2000" heightOffset="2"/>
-		<POI MapID="1288" xpos="-150.905" ypos="55.054" zpos="197.914" type="story_journal.season_4.long_live_the_lich.domain_of_kourna_insight_dabiji_hollows" GUID="qFl0LAcONkmt5LDzHVA5rA==" iconFile="Img/Mounts/Raptor.png"                              maxSize="24" fadeNear="1500" fadeFar="1500"/>
-		<POI MapID="1288" xpos="-151.277" ypos="57.573" zpos="202.593" type="story_journal.season_4.long_live_the_lich.domain_of_kourna_insight_dabiji_hollows" GUID="aA/Fv1WYSUK8p2yvSW7r6A==" iconFile="Img/Season4/DomainOfKournaInsightDabijiHollows.png" minSize="32" maxSize="64" fadeNear="1500" fadeFar="1500"/>
-
+		<Trail type="story_journal.season_4.long_live_the_lich.domain_of_kourna_insight_dabiji_hollows" GUID="gBOo1mjTbkKQKytWRPA1Mg==" trailData="Data/StoryJournal/Season4/LongLiveTheLich/DomainOfKournaInsightDabijiHollows.trl" texture="Data/Arrow.png" color="ff942fa4" alpha="0.7" fadeNear="3000" fadeFar="4000" animSpeed="0" />
+		<POI MapID="1288" xpos="-156.569" ypos="13.122" zpos="173.571" type="story_journal.season_4.long_live_the_lich.domain_of_kourna_insight_dabiji_hollows" GUID="UvkkrMlasEi1QqqIy9YLQQ==" iconFile="Img/PoF/MasteryPoF.png" minSize="24" heightOffset="1" />
+		<POI MapID="1288" xpos="-156.569" ypos="13.122" zpos="173.571" type="story_journal.season_4.long_live_the_lich.domain_of_kourna_insight_dabiji_hollows" GUID="CcmWwbf6IEyhxWXm5fXVmQ==" iconFile="Img/Mounts/Springer.png" maxSize="24" fadeNear="1500" fadeFar="2000" heightOffset="2" />
+		<POI MapID="1288" xpos="-150.905" ypos="55.054" zpos="197.914" type="story_journal.season_4.long_live_the_lich.domain_of_kourna_insight_dabiji_hollows" GUID="qFl0LAcONkmt5LDzHVA5rA==" iconFile="Img/Mounts/Raptor.png" maxSize="24" fadeNear="1500" fadeFar="1500" />
+		<POI MapID="1288" xpos="-151.277" ypos="57.573" zpos="202.593" type="story_journal.season_4.long_live_the_lich.domain_of_kourna_insight_dabiji_hollows" GUID="aA/Fv1WYSUK8p2yvSW7r6A==" iconFile="Img/Season4/DomainOfKournaInsightDabijiHollows.png" minSize="32" maxSize="64" fadeNear="1500" fadeFar="1500" />
 		<!-- DOMAIN OF KOURNA INSIGHT: DUNLON SPRINGS -->
-		<Trail type="story_journal.season_4.long_live_the_lich.domain_of_kourna_insight_dunlon_springs" GUID="Rilm6ZlMzE6AH/wIcV5A5w==" trailData="Data/StoryJournal/Season4/LongLiveTheLich/DomainOfKournaInsightDunlonSprings.trl" texture="Data/Arrow.png" color="ff942fa4" alpha="0.7" fadeNear="3000" fadeFar="4000" animSpeed="0"/>
-		<POI MapID="1288" xpos="-182.825" ypos="1.43322" zpos="1113.83" type="story_journal.season_4.long_live_the_lich.domain_of_kourna_insight_dunlon_springs" GUID="k0VfymChfUGNxG0AdneyAw==" iconFile="Img/PoF/MasteryPoF.png" minSize="24" heightOffset="1"/>
-
+		<Trail type="story_journal.season_4.long_live_the_lich.domain_of_kourna_insight_dunlon_springs" GUID="Rilm6ZlMzE6AH/wIcV5A5w==" trailData="Data/StoryJournal/Season4/LongLiveTheLich/DomainOfKournaInsightDunlonSprings.trl" texture="Data/Arrow.png" color="ff942fa4" alpha="0.7" fadeNear="3000" fadeFar="4000" animSpeed="0" />
+		<POI MapID="1288" xpos="-182.825" ypos="1.43322" zpos="1113.83" type="story_journal.season_4.long_live_the_lich.domain_of_kourna_insight_dunlon_springs" GUID="k0VfymChfUGNxG0AdneyAw==" iconFile="Img/PoF/MasteryPoF.png" minSize="24" heightOffset="1" />
 		<!-- GLORY HOG -->
-		<Trail type="story_journal.season_4.long_live_the_lich.glory_hog" GUID="bx9NzGJ/v0CMH3Dk93XeRg==" trailData="Data/StoryJournal/Season4/LongLiveTheLich/GloryHog.trl" texture="Data/Arrow.png" color="ff00ff00" alpha="0.7" fadeNear="3000" fadeFar="5000" animSpeed="0"/>
-		<POI MapID="1291" xpos="-564.647" ypos="39.3856" zpos="142.21"  type="story_journal.season_4.long_live_the_lich.glory_hog" GUID="fcI+5aM7JUSwkEX6pVUi3g==" iconFile="Img/Season4/GloryHog.png" minSize="64" maxSize="64" fadeNear="1000" fadeFar="1200" behavior="0"/>
-		<POI MapID="1291" xpos="-450.445" ypos="27.0128" zpos="156.548" type="story_journal.season_4.long_live_the_lich.glory_hog" GUID="wRsF7t7edUWn5Em6AQ3L/g==" iconFile="Img/Numbers/1.png"        color="ff00ff00"/>
-		<POI MapID="1291" xpos="-369.614" ypos="-0.6709" zpos="169.492" type="story_journal.season_4.long_live_the_lich.glory_hog" GUID="oXpPLuO4zESBkE+S5nD5ng==" iconFile="Img/Numbers/2.png"        color="ff00ff00"/>
-		<POI MapID="1291" xpos="-569.793" ypos="19.6147" zpos="44.5545" type="story_journal.season_4.long_live_the_lich.glory_hog" GUID="zRg/dMIKvEasGBddldsNJA==" iconFile="Img/Numbers/3.png"        color="ff00ff00"/>
-		<POI MapID="1291" xpos="-743.588" ypos="-0.6839" zpos="-15.706" type="story_journal.season_4.long_live_the_lich.glory_hog" GUID="D2cOZDhggEWYhyIQWSs4JQ==" iconFile="Img/Numbers/4.png"        color="ff00ff00"/>
-
+		<Trail type="story_journal.season_4.long_live_the_lich.glory_hog" GUID="bx9NzGJ/v0CMH3Dk93XeRg==" trailData="Data/StoryJournal/Season4/LongLiveTheLich/GloryHog.trl" texture="Data/Arrow.png" color="ff00ff00" alpha="0.7" fadeNear="3000" fadeFar="5000" animSpeed="0" />
+		<POI MapID="1291" xpos="-564.647" ypos="39.3856" zpos="142.21" type="story_journal.season_4.long_live_the_lich.glory_hog" GUID="fcI+5aM7JUSwkEX6pVUi3g==" iconFile="Img/Season4/GloryHog.png" minSize="64" maxSize="64" fadeNear="1000" fadeFar="1200" behavior="0" />
+		<POI MapID="1291" xpos="-450.445" ypos="27.0128" zpos="156.548" type="story_journal.season_4.long_live_the_lich.glory_hog" GUID="wRsF7t7edUWn5Em6AQ3L/g==" iconFile="Img/Numbers/1.png" color="ff00ff00" />
+		<POI MapID="1291" xpos="-369.614" ypos="-0.6709" zpos="169.492" type="story_journal.season_4.long_live_the_lich.glory_hog" GUID="oXpPLuO4zESBkE+S5nD5ng==" iconFile="Img/Numbers/2.png" color="ff00ff00" />
+		<POI MapID="1291" xpos="-569.793" ypos="19.6147" zpos="44.5545" type="story_journal.season_4.long_live_the_lich.glory_hog" GUID="zRg/dMIKvEasGBddldsNJA==" iconFile="Img/Numbers/3.png" color="ff00ff00" />
+		<POI MapID="1291" xpos="-743.588" ypos="-0.6839" zpos="-15.706" type="story_journal.season_4.long_live_the_lich.glory_hog" GUID="D2cOZDhggEWYhyIQWSs4JQ==" iconFile="Img/Numbers/4.png" color="ff00ff00" />
 		<!-- I CAN SEE MY HOUSE -->
-		<Trail type="story_journal.season_4.long_live_the_lich.i_can_see_my_house" GUID="7Hawf9TibU6Iq0PU0wys5Q==" trailData="Data/StoryJournal/Season4/LongLiveTheLich/ICanSeeMyHouse.trl" texture="Data/Arrow.png" color="ff00bbff" alpha="0.7" fadeNear="3000" fadeFar="4000" animSpeed="0"/>
-		<POI MapID="1288" xpos="-146.349" ypos="53.9541" zpos="673.772" type="story_journal.season_4.long_live_the_lich.i_can_see_my_house" GUID="+7rEhE4QvE2QF+YdBDYBtw==" heightOffset="0.5"/>
-		<POI MapID="1288" xpos="-146.349" ypos="53.9541" zpos="673.772" type="story_journal.season_4.long_live_the_lich.i_can_see_my_house" GUID="SSDmGWlpakemeLQqB+1XoQ==" iconFile="Img/Season4/ICanSeeMyHouse.png" minSize="48" maxSize="64" fadeNear="1300" fadeFar="1800" heightOffset="2" behavior="0"/>
-		<POI MapID="1288" xpos="-109.895" ypos="106.581" zpos="587.217" type="story_journal.season_4.long_live_the_lich.i_can_see_my_house" GUID="E7p0BduFEUuXzl29UQXvQg==" iconFile="Img/Mounts/Springer.png"        minSize="20" fadeNear="1200" fadeFar="1500" heightOffset="0.5" behavior="0"/>
-		<POI MapID="1288" xpos="49.8107"  ypos="285.589" zpos="605.053" type="story_journal.season_4.long_live_the_lich.i_can_see_my_house" GUID="nSFRVQ/rJEmsNHncPi0N2g==" iconFile="Img/Season4/RollerBeetle.png"   minSize="20" fadeNear="1200" fadeFar="1500" heightOffset="0.5" behavior="0"/>
-
+		<Trail type="story_journal.season_4.long_live_the_lich.i_can_see_my_house" GUID="7Hawf9TibU6Iq0PU0wys5Q==" trailData="Data/StoryJournal/Season4/LongLiveTheLich/ICanSeeMyHouse.trl" texture="Data/Arrow.png" color="ff00bbff" alpha="0.7" fadeNear="3000" fadeFar="4000" animSpeed="0" />
+		<POI MapID="1288" xpos="-146.349" ypos="53.9541" zpos="673.772" type="story_journal.season_4.long_live_the_lich.i_can_see_my_house" GUID="+7rEhE4QvE2QF+YdBDYBtw==" heightOffset="0.5" />
+		<POI MapID="1288" xpos="-146.349" ypos="53.9541" zpos="673.772" type="story_journal.season_4.long_live_the_lich.i_can_see_my_house" GUID="SSDmGWlpakemeLQqB+1XoQ==" iconFile="Img/Season4/ICanSeeMyHouse.png" minSize="48" maxSize="64" fadeNear="1300" fadeFar="1800" heightOffset="2" behavior="0" />
+		<POI MapID="1288" xpos="-109.895" ypos="106.581" zpos="587.217" type="story_journal.season_4.long_live_the_lich.i_can_see_my_house" GUID="E7p0BduFEUuXzl29UQXvQg==" iconFile="Img/Mounts/Springer.png" minSize="20" fadeNear="1200" fadeFar="1500" heightOffset="0.5" behavior="0" />
+		<POI MapID="1288" xpos="49.8107" ypos="285.589" zpos="605.053" type="story_journal.season_4.long_live_the_lich.i_can_see_my_house" GUID="nSFRVQ/rJEmsNHncPi0N2g==" iconFile="Img/Season4/RollerBeetle.png" minSize="20" fadeNear="1200" fadeFar="1500" heightOffset="0.5" behavior="0" />
 		<!-- LOQUACIOUS ORATOR -->
-		<POI MapID="1289" xpos="-203.662" ypos="14.8917" zpos="-34.6275" type="story_journal.season_4.long_live_the_lich.loquacious_orator" GUID="2GuBd2AS7kC8ZiNo2CqrXw==" heightOffset="1"/>
-		<POI MapID="1289" xpos="-206.917" ypos="14.2251" zpos="-31.9166" type="story_journal.season_4.long_live_the_lich.loquacious_orator" GUID="njg5NzLg6EqSmNRA9GvOaQ==" iconFile="Img/Season4/LoquaciousOrator.png" minSize="128" maxSize="128" fadeNear="800" fadeFar="1000" heightOffset="3" behavior="0"/>
-
+		<POI MapID="1289" xpos="-203.662" ypos="14.8917" zpos="-34.6275" type="story_journal.season_4.long_live_the_lich.loquacious_orator" GUID="2GuBd2AS7kC8ZiNo2CqrXw==" heightOffset="1" />
+		<POI MapID="1289" xpos="-206.917" ypos="14.2251" zpos="-31.9166" type="story_journal.season_4.long_live_the_lich.loquacious_orator" GUID="njg5NzLg6EqSmNRA9GvOaQ==" iconFile="Img/Season4/LoquaciousOrator.png" minSize="128" maxSize="128" fadeNear="800" fadeFar="1000" heightOffset="3" behavior="0" />
 		<!-- POND SCUM -->
-		<POI MapID="1288" xpos="-856.392" ypos="9.01733" zpos="1076.85" type="story_journal.season_4.long_live_the_lich.pond_scum" GUID="2WLYjjDRkU2FS4+jt4dEEg=="/>
-		<POI MapID="1288" xpos="-856.392" ypos="9.01733" zpos="1076.85" type="story_journal.season_4.long_live_the_lich.pond_scum" GUID="TiNXKwBmb0uru2+mchUjXg==" iconFile="Img/Icons/Fight.png"       fadeNear="1500" fadeFar="2000" heightOffset="3" behavior="0"/>
-		<Trail type="story_journal.season_4.long_live_the_lich.pond_scum" GUID="/TKppx3qykqkZWX2AC1low==" trailData="Data/StoryJournal/Season4/LongLiveTheLich/PondScum.trl" texture="Data/Arrow.png"   color="ff00ff00" alpha="0.7" fadeNear="3000" fadeFar="5000" animSpeed="0"/>
-		<POI MapID="1288" xpos="-858.004" ypos="7.02607" zpos="1073.18" type="story_journal.season_4.long_live_the_lich.pond_scum" GUID="6p+Lutlxvku6Im8F+/haKA==" iconFile="Img/Season4/PondScum.png"  minSize="48" maxSize="64" fadeNear="1300" fadeFar="1800" behavior="0"/>
-		<POI MapID="1288" xpos="-967.606" ypos="-390.35" zpos="851.299" type="story_journal.season_4.long_live_the_lich.pond_scum" GUID="kxMsWlVockqanjFZdOQ16A==" iconFile="Img/Icons/Interaction.png" minSize="32" maxSize="32" fadeNear="1000" fadeFar="1500" heightOffset="0.5"/>
-
+		<POI MapID="1288" xpos="-856.392" ypos="9.01733" zpos="1076.85" type="story_journal.season_4.long_live_the_lich.pond_scum" GUID="2WLYjjDRkU2FS4+jt4dEEg==" />
+		<POI MapID="1288" xpos="-856.392" ypos="9.01733" zpos="1076.85" type="story_journal.season_4.long_live_the_lich.pond_scum" GUID="TiNXKwBmb0uru2+mchUjXg==" iconFile="Img/Icons/Fight.png" fadeNear="1500" fadeFar="2000" heightOffset="3" behavior="0" />
+		<Trail type="story_journal.season_4.long_live_the_lich.pond_scum" GUID="/TKppx3qykqkZWX2AC1low==" trailData="Data/StoryJournal/Season4/LongLiveTheLich/PondScum.trl" texture="Data/Arrow.png" color="ff00ff00" alpha="0.7" fadeNear="3000" fadeFar="5000" animSpeed="0" />
+		<POI MapID="1288" xpos="-858.004" ypos="7.02607" zpos="1073.18" type="story_journal.season_4.long_live_the_lich.pond_scum" GUID="6p+Lutlxvku6Im8F+/haKA==" iconFile="Img/Season4/PondScum.png" minSize="48" maxSize="64" fadeNear="1300" fadeFar="1800" behavior="0" />
+		<POI MapID="1288" xpos="-967.606" ypos="-390.35" zpos="851.299" type="story_journal.season_4.long_live_the_lich.pond_scum" GUID="kxMsWlVockqanjFZdOQ16A==" iconFile="Img/Icons/Interaction.png" minSize="32" maxSize="32" fadeNear="1000" fadeFar="1500" heightOffset="0.5" />
 		<!-- STILL WATERS RUN DEEP -->
-		<Trail type="story_journal.season_4.long_live_the_lich.still_waters_run_deep" GUID="ubA5MYrDKEqR3LaV7B8peQ==" trailData="Data/StoryJournal/Season4/LongLiveTheLich/StillWatersRunDeep.trl" texture="Data/Arrow.png" color="ff00ccff" alpha="0.9" fadeNear="3000" fadeFar="4000" animSpeed="0"/>
-		<POI MapID="1288" xpos="-981.611" ypos="-1.12767" zpos="880.124" type="story_journal.season_4.long_live_the_lich.still_waters_run_deep" GUID="kWhnueW8R0iwWVeuBwOuRQ==" heightOffset="0" behavior="0"/>
-		<POI MapID="1288" xpos="-979.293" ypos="-396.222" zpos="882.137" type="story_journal.season_4.long_live_the_lich.still_waters_run_deep" GUID="039L2249AUSROOERYfmxcQ==" heightOffset="0"/>
-
+		<Trail type="story_journal.season_4.long_live_the_lich.still_waters_run_deep" GUID="ubA5MYrDKEqR3LaV7B8peQ==" trailData="Data/StoryJournal/Season4/LongLiveTheLich/StillWatersRunDeep.trl" texture="Data/Arrow.png" color="ff00ccff" alpha="0.9" fadeNear="3000" fadeFar="4000" animSpeed="0" />
+		<POI MapID="1288" xpos="-981.611" ypos="-1.12767" zpos="880.124" type="story_journal.season_4.long_live_the_lich.still_waters_run_deep" GUID="kWhnueW8R0iwWVeuBwOuRQ==" heightOffset="0" behavior="0" />
+		<POI MapID="1288" xpos="-979.293" ypos="-396.222" zpos="882.137" type="story_journal.season_4.long_live_the_lich.still_waters_run_deep" GUID="039L2249AUSROOERYfmxcQ==" heightOffset="0" />
 		<!-- THING THAT WOULDN'T LEAVE -->
-		<POI MapID="1288" xpos="-114.057" ypos="88.3147" zpos="681.224" type="story_journal.season_4.long_live_the_lich.thing_that_wouldnt_leave" GUID="tBM4sHPclUW+HwvZweBiGw==" triggerRange="3"/>
-		<POI MapID="1288" xpos="-115.484" ypos="90.1162" zpos="678.846" type="story_journal.season_4.long_live_the_lich.thing_that_wouldnt_leave" GUID="lHfUZk07s0Kg4KHfOP8QCw==" iconFile="Img/Icons/Interaction.png" minSize="12" maxSize="16" fadeNear="800" fadeFar="1000" heightOffset="0" behavior="0"/>
-		<POI MapID="1288" xpos="-74.9067" ypos="88.2758" zpos="656.708" type="story_journal.season_4.long_live_the_lich.thing_that_wouldnt_leave" GUID="g38G7DEnxkGA41O4JlW8MA==" iconFile="Img/Season4/ThingThatWouldntLeave.png" minSize="48" maxSize="64" fadeNear="1000" fadeFar="1500" behavior="0"/>
-
+		<POI MapID="1288" xpos="-114.057" ypos="88.3147" zpos="681.224" type="story_journal.season_4.long_live_the_lich.thing_that_wouldnt_leave" GUID="tBM4sHPclUW+HwvZweBiGw==" triggerRange="3" />
+		<POI MapID="1288" xpos="-115.484" ypos="90.1162" zpos="678.846" type="story_journal.season_4.long_live_the_lich.thing_that_wouldnt_leave" GUID="lHfUZk07s0Kg4KHfOP8QCw==" iconFile="Img/Icons/Interaction.png" minSize="12" maxSize="16" fadeNear="800" fadeFar="1000" heightOffset="0" behavior="0" />
+		<POI MapID="1288" xpos="-74.9067" ypos="88.2758" zpos="656.708" type="story_journal.season_4.long_live_the_lich.thing_that_wouldnt_leave" GUID="g38G7DEnxkGA41O4JlW8MA==" iconFile="Img/Season4/ThingThatWouldntLeave.png" minSize="48" maxSize="64" fadeNear="1000" fadeFar="1500" behavior="0" />
 		<!-- CRAB KICKIN' -->
-		<POI MapID="1288" xpos="-920.949" ypos="4.83963" zpos="-342.396" type="story_journal.season_4.long_live_the_lich.crab_kickin" GUID="OCQqXMWVdEKhYfChXJM80A=="/>
-		<POI MapID="1288" xpos="-920.949" ypos="4.83963" zpos="-342.396" type="story_journal.season_4.long_live_the_lich.crab_kickin" GUID="6+XHa+pgc0+Ke6OgwbzgfA==" iconFile="Img/Season4/CrabKickin.png" minSize="48" maxSize="64" fadeNear="1000" fadeFar="1500" heightOffset="3" behavior="0"/>
-
+		<POI MapID="1288" xpos="-920.949" ypos="4.83963" zpos="-342.396" type="story_journal.season_4.long_live_the_lich.crab_kickin" GUID="OCQqXMWVdEKhYfChXJM80A==" />
+		<POI MapID="1288" xpos="-920.949" ypos="4.83963" zpos="-342.396" type="story_journal.season_4.long_live_the_lich.crab_kickin" GUID="6+XHa+pgc0+Ke6OgwbzgfA==" iconFile="Img/Season4/CrabKickin.png" minSize="48" maxSize="64" fadeNear="1000" fadeFar="1500" heightOffset="3" behavior="0" />
 	</POIs>
 </OverlayData>

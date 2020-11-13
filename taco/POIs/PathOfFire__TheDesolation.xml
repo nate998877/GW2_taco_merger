@@ -1,173 +1,156 @@
 <!-- 2020.06.25 -->
 <OverlayData>
 	<POIs>
-
 		<!-- A FAMILY'S SACRIFICE -->
-		<POI MapID="1226" xpos="-742.34" ypos="47.4603" zpos="998.682"  type="path_of_fire.the_desolation.a_family_s_sacrifice" GUID="XHdG5PCtd0Ccy8SBPHjT7Q==" iconFile="Img/Numbers/1.png"             color="ff00ff00"/>
-		<POI MapID="1226" xpos="948.299" ypos="270.47"  zpos="-117.217" type="path_of_fire.the_desolation.a_family_s_sacrifice" GUID="Gbug0TF3hEa1QJPbx4XQ6g==" iconFile="Img/Numbers/2.png"             color="ff00ff00" minSize="24" maxSize="48" heightOffset="4.5"/>
-		<POI MapID="1226" xpos="948.299" ypos="272.47"  zpos="-117.217" type="path_of_fire.the_desolation.a_family_s_sacrifice" GUID="x0C1AsNplUeZ/Zv52wBnJw==" iconFile="Img/PoF/DoTheEvent.png"        minSize="48" maxSize="48" fadeNear="1000" fadeFar="1500" mapVisibility="0" miniMapVisibility="0"/>
-		<POI MapID="1226" xpos="972.394" ypos="258.864" zpos="-150.326" type="path_of_fire.the_desolation.a_family_s_sacrifice" GUID="Ft1bnuQF+kmrD8YVeLA28g==" iconFile="Img/Numbers/3.png"             color="ff00ff00" minSize="24" maxSize="48" heightOffset="4.5"/>
-		<POI MapID="1226" xpos="972.394" ypos="260.864" zpos="-150.326" type="path_of_fire.the_desolation.a_family_s_sacrifice" GUID="qWF0Bvke/E6NtPLrPcf/Ug==" iconFile="Img/PoF/StartEscort.png"       minSize="48" maxSize="48" fadeNear="1000" fadeFar="1500" mapVisibility="0" miniMapVisibility="0"/>
-		<POI MapID="1226" xpos="893.03"  ypos="253.475" zpos="-197.962" type="path_of_fire.the_desolation.a_family_s_sacrifice" GUID="Bwy2MtcRLUOG1LCnTVbjeg==" iconFile="Img/Numbers/4.png"             color="ff00ff00" minSize="24" maxSize="48" heightOffset="4.5"/>
-		<POI MapID="1226" xpos="893.03"  ypos="255.475" zpos="-197.962" type="path_of_fire.the_desolation.a_family_s_sacrifice" GUID="sRK4QskVtEiodqq8UwOWMg==" iconFile="Img/PoF/StartEscort.png"       minSize="48" maxSize="48" fadeNear="1000" fadeFar="1500" mapVisibility="0" miniMapVisibility="0"/>
-		<POI MapID="1226" xpos="871.949" ypos="210.995" zpos="-861.96"  type="path_of_fire.the_desolation.a_family_s_sacrifice" GUID="TwrsRrBrqUS/xMASsdrscw==" iconFile="Img/Numbers/5.png"             color="ff00ff00"/>
-		<POI MapID="1226" xpos="871.949" ypos="213"     zpos="-861.96"  type="path_of_fire.the_desolation.a_family_s_sacrifice" GUID="EgqB/IIFyEyk/gKBPyiBWw==" iconFile="Img/PoF/AFamilysSacrifice.png" minSize="48" maxSize="48" fadeNear="1000" fadeFar="1500" mapVisibility="0" miniMapVisibility="0"/>
-		<POI MapID="1228" xpos="326.824" ypos="5.1571"  zpos="-225.969" type="path_of_fire.the_desolation.a_family_s_sacrifice" GUID="hSo/u+F08UiPpTtgidMT4w=="/>
-
+		<POI MapID="1226" xpos="-742.34" ypos="47.4603" zpos="998.682" type="path_of_fire.the_desolation.a_family_s_sacrifice" GUID="XHdG5PCtd0Ccy8SBPHjT7Q==" iconFile="Img/Numbers/1.png" color="ff00ff00" />
+		<POI MapID="1226" xpos="948.299" ypos="270.47" zpos="-117.217" type="path_of_fire.the_desolation.a_family_s_sacrifice" GUID="Gbug0TF3hEa1QJPbx4XQ6g==" iconFile="Img/Numbers/2.png" color="ff00ff00" minSize="24" maxSize="48" heightOffset="4.5" />
+		<POI MapID="1226" xpos="948.299" ypos="272.47" zpos="-117.217" type="path_of_fire.the_desolation.a_family_s_sacrifice" GUID="x0C1AsNplUeZ/Zv52wBnJw==" iconFile="Img/PoF/DoTheEvent.png" minSize="48" maxSize="48" fadeNear="1000" fadeFar="1500" mapVisibility="0" miniMapVisibility="0" />
+		<POI MapID="1226" xpos="972.394" ypos="258.864" zpos="-150.326" type="path_of_fire.the_desolation.a_family_s_sacrifice" GUID="Ft1bnuQF+kmrD8YVeLA28g==" iconFile="Img/Numbers/3.png" color="ff00ff00" minSize="24" maxSize="48" heightOffset="4.5" />
+		<POI MapID="1226" xpos="972.394" ypos="260.864" zpos="-150.326" type="path_of_fire.the_desolation.a_family_s_sacrifice" GUID="qWF0Bvke/E6NtPLrPcf/Ug==" iconFile="Img/PoF/StartEscort.png" minSize="48" maxSize="48" fadeNear="1000" fadeFar="1500" mapVisibility="0" miniMapVisibility="0" />
+		<POI MapID="1226" xpos="893.03" ypos="253.475" zpos="-197.962" type="path_of_fire.the_desolation.a_family_s_sacrifice" GUID="Bwy2MtcRLUOG1LCnTVbjeg==" iconFile="Img/Numbers/4.png" color="ff00ff00" minSize="24" maxSize="48" heightOffset="4.5" />
+		<POI MapID="1226" xpos="893.03" ypos="255.475" zpos="-197.962" type="path_of_fire.the_desolation.a_family_s_sacrifice" GUID="sRK4QskVtEiodqq8UwOWMg==" iconFile="Img/PoF/StartEscort.png" minSize="48" maxSize="48" fadeNear="1000" fadeFar="1500" mapVisibility="0" miniMapVisibility="0" />
+		<POI MapID="1226" xpos="871.949" ypos="210.995" zpos="-861.96" type="path_of_fire.the_desolation.a_family_s_sacrifice" GUID="TwrsRrBrqUS/xMASsdrscw==" iconFile="Img/Numbers/5.png" color="ff00ff00" />
+		<POI MapID="1226" xpos="871.949" ypos="213" zpos="-861.96" type="path_of_fire.the_desolation.a_family_s_sacrifice" GUID="EgqB/IIFyEyk/gKBPyiBWw==" iconFile="Img/PoF/AFamilysSacrifice.png" minSize="48" maxSize="48" fadeNear="1000" fadeFar="1500" mapVisibility="0" miniMapVisibility="0" />
+		<POI MapID="1228" xpos="326.824" ypos="5.1571" zpos="-225.969" type="path_of_fire.the_desolation.a_family_s_sacrifice" GUID="hSo/u+F08UiPpTtgidMT4w==" />
 		<!-- A REDEEMER'S FRIENDS -->
-		<POI MapID="1226" xpos="-435.601" ypos="284.586" zpos="54.6764" type="path_of_fire.the_desolation.a_redeemer_s_friend" GUID="+2FRjdQg40qZC2EBKPxs1A==" heightOffset="3.5"/>
-		<POI MapID="1226" xpos="-435.601" ypos="288"     zpos="54.6764" type="path_of_fire.the_desolation.a_redeemer_s_friend" GUID="B088y+O0Y0efPUaILnNFyQ==" iconFile="Img/PoF/ARedeemersFriend.png" minSize="48" maxSize="64" fadeNear="1500" fadeFar="2500" mapVisibility="0" miniMapVisibility="0"/>
-		<POI MapID="1226" xpos="-435.601" ypos="289.4"   zpos="54.6764" type="path_of_fire.the_desolation.a_redeemer_s_friend" GUID="5/hCR5tD7kC7OOVVJLx14g==" iconFile="Img/Choices/1.png"            minSize="32" maxSize="32" fadeNear="1000" fadeFar="1500" mapVisibility="0" miniMapVisibility="0"/>
-
+		<POI MapID="1226" xpos="-435.601" ypos="284.586" zpos="54.6764" type="path_of_fire.the_desolation.a_redeemer_s_friend" GUID="+2FRjdQg40qZC2EBKPxs1A==" heightOffset="3.5" />
+		<POI MapID="1226" xpos="-435.601" ypos="288" zpos="54.6764" type="path_of_fire.the_desolation.a_redeemer_s_friend" GUID="B088y+O0Y0efPUaILnNFyQ==" iconFile="Img/PoF/ARedeemersFriend.png" minSize="48" maxSize="64" fadeNear="1500" fadeFar="2500" mapVisibility="0" miniMapVisibility="0" />
+		<POI MapID="1226" xpos="-435.601" ypos="289.4" zpos="54.6764" type="path_of_fire.the_desolation.a_redeemer_s_friend" GUID="5/hCR5tD7kC7OOVVJLx14g==" iconFile="Img/Choices/1.png" minSize="32" maxSize="32" fadeNear="1000" fadeFar="1500" mapVisibility="0" miniMapVisibility="0" />
 		<!-- A SOARING STRENCH -->
-		<Trail type="path_of_fire.the_desolation.a_soaring_strench" GUID="Esn6omzbGkiqkk4z04MAEw==" trailData="Data/PathOfFire/TheDesolation/ASoaringStrench.trl" texture="Data/Arrow.png" color="ffffdd00" alpha="0.8" fadeNear="1500" fadeFar="2000" animSpeed="1" mapDisplaySize="15"/>
-		<POI MapID="1226" xpos="-774.417" ypos="258.423" zpos="109.109" type="path_of_fire.the_desolation.a_soaring_strench" GUID="TG77IytGnUO6ybYcf/bmhA==" heightOffset="0.5"/>
-		<POI MapID="1226" xpos="-787.64"  ypos="252.957" zpos="114.031" type="path_of_fire.the_desolation.a_soaring_strench" GUID="2WlipH+G/E2t6tpKm7tJdA==" iconFile="Img/Mounts/Springer.png"     minSize="48" maxSize="64" fadeNear="1500" fadeFar="2000" mapVisibility="0" miniMapVisibility="0"/>
-		<POI MapID="1226" xpos="-788.102" ypos="354.412" zpos="141.744" type="path_of_fire.the_desolation.a_soaring_strench" GUID="lVniVJpgB06hPQG1Z59i+g==" iconFile="Img/Gliders/GliderStart.png" fadeNear="1500" fadeFar="2000" heightOffset="0" mapVisibility="0" miniMapVisibility="0"/>
-		<POI MapID="1226" xpos="-945.486" ypos="269.304" zpos="266.157" type="path_of_fire.the_desolation.a_soaring_strench" GUID="O2hxki+P9k68zknUq9m47Q==" iconFile="Img/Gliders/GliderStop.png"  fadeNear="1500" fadeFar="2000" heightOffset="0" mapVisibility="0" miniMapVisibility="0"/>
-		<POI MapID="1226" xpos="-939.567" ypos="269.203" zpos="276.058" type="path_of_fire.the_desolation.a_soaring_strench" GUID="7agNbxhJL0eu8+rkLm57Yg=="                                        fadeNear="1500" fadeFar="2000" heightOffset="2" mapVisibility="0" miniMapVisibility="0"/>
-
+		<Trail type="path_of_fire.the_desolation.a_soaring_strench" GUID="Esn6omzbGkiqkk4z04MAEw==" trailData="Data/PathOfFire/TheDesolation/ASoaringStrench.trl" texture="Data/Arrow.png" color="ffffdd00" alpha="0.8" fadeNear="1500" fadeFar="2000" animSpeed="1" mapDisplaySize="15" />
+		<POI MapID="1226" xpos="-774.417" ypos="258.423" zpos="109.109" type="path_of_fire.the_desolation.a_soaring_strench" GUID="TG77IytGnUO6ybYcf/bmhA==" heightOffset="0.5" />
+		<POI MapID="1226" xpos="-787.64" ypos="252.957" zpos="114.031" type="path_of_fire.the_desolation.a_soaring_strench" GUID="2WlipH+G/E2t6tpKm7tJdA==" iconFile="Img/Mounts/Springer.png" minSize="48" maxSize="64" fadeNear="1500" fadeFar="2000" mapVisibility="0" miniMapVisibility="0" />
+		<POI MapID="1226" xpos="-788.102" ypos="354.412" zpos="141.744" type="path_of_fire.the_desolation.a_soaring_strench" GUID="lVniVJpgB06hPQG1Z59i+g==" iconFile="Img/Gliders/GliderStart.png" fadeNear="1500" fadeFar="2000" heightOffset="0" mapVisibility="0" miniMapVisibility="0" />
+		<POI MapID="1226" xpos="-945.486" ypos="269.304" zpos="266.157" type="path_of_fire.the_desolation.a_soaring_strench" GUID="O2hxki+P9k68zknUq9m47Q==" iconFile="Img/Gliders/GliderStop.png" fadeNear="1500" fadeFar="2000" heightOffset="0" mapVisibility="0" miniMapVisibility="0" />
+		<POI MapID="1226" xpos="-939.567" ypos="269.203" zpos="276.058" type="path_of_fire.the_desolation.a_soaring_strench" GUID="7agNbxhJL0eu8+rkLm57Yg==" fadeNear="1500" fadeFar="2000" heightOffset="2" mapVisibility="0" miniMapVisibility="0" />
 		<!-- ACRID SPRINGS RECOVERY -->
-		<POI MapID="1226" xpos="-694.038" ypos="132.079" zpos="776.401" type="path_of_fire.the_desolation.acrid_springs_recovery" GUID="Yx3HE94Qy02+Aoq9nlCGZw==" achievementBit="0"/>
-		<POI MapID="1226" xpos="-805.716" ypos="3.52013" zpos="1212.71" type="path_of_fire.the_desolation.acrid_springs_recovery" GUID="54sO0K5XV0GtS9AuuXl24g==" achievementBit="1"/>
-		<POI MapID="1226" xpos="-930.081" ypos="0.37071" zpos="1047.79" type="path_of_fire.the_desolation.acrid_springs_recovery" GUID="f9GsLfbLA0uME9UOK8A0YA==" achievementBit="2"/>
-		<POI MapID="1226" xpos="-870.713" ypos="31.805"  zpos="886.262" type="path_of_fire.the_desolation.acrid_springs_recovery" GUID="5CrysHSnpkaM8ZpuDFfeqg==" achievementBit="3"/>
-		<POI MapID="1226" xpos="-512.818" ypos="120.222" zpos="732.336" type="path_of_fire.the_desolation.acrid_springs_recovery" GUID="SftpP+7uK0SJo51/elO+9Q==" achievementBit="4"/>
-		<POI MapID="1226" xpos="-867.63"  ypos="124.362" zpos="779.081" type="path_of_fire.the_desolation.acrid_springs_recovery" GUID="j7dWzgXPJ0aSw/zbZfWBdQ==" achievementBit="5"/>
-		<POI MapID="1226" xpos="-681.226" ypos="202.712" zpos="669.436" type="path_of_fire.the_desolation.acrid_springs_recovery" GUID="8Ovp1sqBzEKHu6R2MP68PQ==" achievementBit="6"/>
-		<POI MapID="1226" xpos="-724.906" ypos="81.1517" zpos="656.777" type="path_of_fire.the_desolation.acrid_springs_recovery" GUID="6zhYu6FF90yrdMlRa9Dsig==" achievementBit="7"/>
-		<POI MapID="1226" xpos="-830.418" ypos="21.8289" zpos="781.522" type="path_of_fire.the_desolation.acrid_springs_recovery" GUID="NDOylPphK06XyyPjqrywLA==" achievementBit="8"/>
-		<POI MapID="1226" xpos="-948.655" ypos="9.27244" zpos="861.742" type="path_of_fire.the_desolation.acrid_springs_recovery" GUID="kaGOF8k0fEudKIkFBSxzqQ==" achievementBit="9"/>
-		<POI MapID="1226" xpos="-720.24"  ypos="78.0368" zpos="891.949" type="path_of_fire.the_desolation.acrid_springs_recovery" GUID="t+DVYxG9H0yewroCPLXbBw==" achievementBit="10"/>
-		<POI MapID="1226" xpos="-959.909" ypos="107.556" zpos="939.817" type="path_of_fire.the_desolation.acrid_springs_recovery" GUID="d3Tz5sgNlEWDdpkCS9UZPA==" achievementBit="11"/>
-		<POI MapID="1226" xpos="-986.048" ypos="1.73179" zpos="1205.43" type="path_of_fire.the_desolation.acrid_springs_recovery" GUID="sUJP+HC3D0C/ZJpfSKuXhg==" achievementBit="12"/>
-		<POI MapID="1226" xpos="-603.559" ypos="126.899" zpos="829.628" type="path_of_fire.the_desolation.acrid_springs_recovery" GUID="EzZHLeDZQUyPJMRNEYB8Gw==" achievementBit="13"/>
-		<POI MapID="1226" xpos="-500.561" ypos="83.2579" zpos="761.898" type="path_of_fire.the_desolation.acrid_springs_recovery" GUID="J5lByixKy0ypS77ljAj5xg==" achievementBit="14"/>
-		<POI MapID="1226" xpos="-852.356" ypos="30.6952" zpos="1075.62" type="path_of_fire.the_desolation.acrid_springs_recovery" GUID="toaxPaJfEUSrOoeoP4pOEA==" achievementBit="15"/>
-		<POI MapID="1226" xpos="-888.078" ypos="2.70861" zpos="1186.79" type="path_of_fire.the_desolation.acrid_springs_recovery" GUID="oxVKaA5uOkyLAC+6xeyazQ==" achievementBit="16"/>
-
+		<POI MapID="1226" xpos="-694.038" ypos="132.079" zpos="776.401" type="path_of_fire.the_desolation.acrid_springs_recovery" GUID="Yx3HE94Qy02+Aoq9nlCGZw==" achievementBit="0" />
+		<POI MapID="1226" xpos="-805.716" ypos="3.52013" zpos="1212.71" type="path_of_fire.the_desolation.acrid_springs_recovery" GUID="54sO0K5XV0GtS9AuuXl24g==" achievementBit="1" />
+		<POI MapID="1226" xpos="-930.081" ypos="0.37071" zpos="1047.79" type="path_of_fire.the_desolation.acrid_springs_recovery" GUID="f9GsLfbLA0uME9UOK8A0YA==" achievementBit="2" />
+		<POI MapID="1226" xpos="-870.713" ypos="31.805" zpos="886.262" type="path_of_fire.the_desolation.acrid_springs_recovery" GUID="5CrysHSnpkaM8ZpuDFfeqg==" achievementBit="3" />
+		<POI MapID="1226" xpos="-512.818" ypos="120.222" zpos="732.336" type="path_of_fire.the_desolation.acrid_springs_recovery" GUID="SftpP+7uK0SJo51/elO+9Q==" achievementBit="4" />
+		<POI MapID="1226" xpos="-867.63" ypos="124.362" zpos="779.081" type="path_of_fire.the_desolation.acrid_springs_recovery" GUID="j7dWzgXPJ0aSw/zbZfWBdQ==" achievementBit="5" />
+		<POI MapID="1226" xpos="-681.226" ypos="202.712" zpos="669.436" type="path_of_fire.the_desolation.acrid_springs_recovery" GUID="8Ovp1sqBzEKHu6R2MP68PQ==" achievementBit="6" />
+		<POI MapID="1226" xpos="-724.906" ypos="81.1517" zpos="656.777" type="path_of_fire.the_desolation.acrid_springs_recovery" GUID="6zhYu6FF90yrdMlRa9Dsig==" achievementBit="7" />
+		<POI MapID="1226" xpos="-830.418" ypos="21.8289" zpos="781.522" type="path_of_fire.the_desolation.acrid_springs_recovery" GUID="NDOylPphK06XyyPjqrywLA==" achievementBit="8" />
+		<POI MapID="1226" xpos="-948.655" ypos="9.27244" zpos="861.742" type="path_of_fire.the_desolation.acrid_springs_recovery" GUID="kaGOF8k0fEudKIkFBSxzqQ==" achievementBit="9" />
+		<POI MapID="1226" xpos="-720.24" ypos="78.0368" zpos="891.949" type="path_of_fire.the_desolation.acrid_springs_recovery" GUID="t+DVYxG9H0yewroCPLXbBw==" achievementBit="10" />
+		<POI MapID="1226" xpos="-959.909" ypos="107.556" zpos="939.817" type="path_of_fire.the_desolation.acrid_springs_recovery" GUID="d3Tz5sgNlEWDdpkCS9UZPA==" achievementBit="11" />
+		<POI MapID="1226" xpos="-986.048" ypos="1.73179" zpos="1205.43" type="path_of_fire.the_desolation.acrid_springs_recovery" GUID="sUJP+HC3D0C/ZJpfSKuXhg==" achievementBit="12" />
+		<POI MapID="1226" xpos="-603.559" ypos="126.899" zpos="829.628" type="path_of_fire.the_desolation.acrid_springs_recovery" GUID="EzZHLeDZQUyPJMRNEYB8Gw==" achievementBit="13" />
+		<POI MapID="1226" xpos="-500.561" ypos="83.2579" zpos="761.898" type="path_of_fire.the_desolation.acrid_springs_recovery" GUID="J5lByixKy0ypS77ljAj5xg==" achievementBit="14" />
+		<POI MapID="1226" xpos="-852.356" ypos="30.6952" zpos="1075.62" type="path_of_fire.the_desolation.acrid_springs_recovery" GUID="toaxPaJfEUSrOoeoP4pOEA==" achievementBit="15" />
+		<POI MapID="1226" xpos="-888.078" ypos="2.70861" zpos="1186.79" type="path_of_fire.the_desolation.acrid_springs_recovery" GUID="oxVKaA5uOkyLAC+6xeyazQ==" achievementBit="16" />
 		<!-- BONE PALACE PINNACLE -->
-		<Trail type="path_of_fire.the_desolation.bone_palace_pinnacle" GUID="ZXKNA607R0qzATNK7ffnMg==" trailData="Data/PathOfFire/TheDesolation/BonePalacePinnacle.trl" texture="Data/Arrow.png" color="ffffdd00" alpha="0.8" fadeNear="1500" fadeFar="2000" animSpeed="1" mapDisplaySize="15"/>
-		<POI MapID="1226" xpos="312.035" ypos="249.107" zpos="-1137.62" type="path_of_fire.the_desolation.bone_palace_pinnacle" GUID="gso7qrgBzkSuNcoHP/zMiA==" heightOffset="0.5"/>
-		<POI MapID="1226" xpos="180.285" ypos="294.696" zpos="-1304.97" type="path_of_fire.the_desolation.bone_palace_pinnacle" GUID="bZ4hIMKLkE68kCVnaP08gw==" iconFile="Img/Mounts/Springer.png" fadeNear="1500" fadeFar="2000" mapVisibility="0" miniMapVisibility="0"/>
-		<POI MapID="1226" xpos="190.928" ypos="340.126" zpos="-1465.07" type="path_of_fire.the_desolation.bone_palace_pinnacle" GUID="G3Fplyg4uk66TL2uf62g0g==" iconFile="Img/Mounts/Raptor.png"   fadeNear="1500" fadeFar="2000" mapVisibility="0" miniMapVisibility="0"/>
-		<POI MapID="1226" xpos="267.37"  ypos="341.031" zpos="-1355.79" type="path_of_fire.the_desolation.bone_palace_pinnacle" GUID="F7ACpiWw9keV+EBoIYsuUw==" iconFile="Img/Mounts/Springer.png" fadeNear="1500" fadeFar="2000" mapVisibility="0" miniMapVisibility="0"/>
-		<POI MapID="1226" xpos="311.747" ypos="408.642" zpos="-1348.07" type="path_of_fire.the_desolation.bone_palace_pinnacle" GUID="hQq1rAoxP0aAw0E+DYF0FQ=="                                    fadeNear="1500" fadeFar="2000" heightOffset="2.5" mapVisibility="0" miniMapVisibility="0"/>
-
+		<Trail type="path_of_fire.the_desolation.bone_palace_pinnacle" GUID="ZXKNA607R0qzATNK7ffnMg==" trailData="Data/PathOfFire/TheDesolation/BonePalacePinnacle.trl" texture="Data/Arrow.png" color="ffffdd00" alpha="0.8" fadeNear="1500" fadeFar="2000" animSpeed="1" mapDisplaySize="15" />
+		<POI MapID="1226" xpos="312.035" ypos="249.107" zpos="-1137.62" type="path_of_fire.the_desolation.bone_palace_pinnacle" GUID="gso7qrgBzkSuNcoHP/zMiA==" heightOffset="0.5" />
+		<POI MapID="1226" xpos="180.285" ypos="294.696" zpos="-1304.97" type="path_of_fire.the_desolation.bone_palace_pinnacle" GUID="bZ4hIMKLkE68kCVnaP08gw==" iconFile="Img/Mounts/Springer.png" fadeNear="1500" fadeFar="2000" mapVisibility="0" miniMapVisibility="0" />
+		<POI MapID="1226" xpos="190.928" ypos="340.126" zpos="-1465.07" type="path_of_fire.the_desolation.bone_palace_pinnacle" GUID="G3Fplyg4uk66TL2uf62g0g==" iconFile="Img/Mounts/Raptor.png" fadeNear="1500" fadeFar="2000" mapVisibility="0" miniMapVisibility="0" />
+		<POI MapID="1226" xpos="267.37" ypos="341.031" zpos="-1355.79" type="path_of_fire.the_desolation.bone_palace_pinnacle" GUID="F7ACpiWw9keV+EBoIYsuUw==" iconFile="Img/Mounts/Springer.png" fadeNear="1500" fadeFar="2000" mapVisibility="0" miniMapVisibility="0" />
+		<POI MapID="1226" xpos="311.747" ypos="408.642" zpos="-1348.07" type="path_of_fire.the_desolation.bone_palace_pinnacle" GUID="hQq1rAoxP0aAw0E+DYF0FQ==" fadeNear="1500" fadeFar="2000" heightOffset="2.5" mapVisibility="0" miniMapVisibility="0" />
 		<!-- CLEANSING TORMENTED REMNANTS -->
-		<POI MapID="1226" xpos="486.492" ypos="262.507" zpos="138.901" type="path_of_fire.the_desolation.cleansing_tormented_remnants" GUID="HaWXgU2M106JQ4dPriyscQ==" achievementBit="0"/>
-		<POI MapID="1226" xpos="533.356" ypos="264.29"  zpos="443.427" type="path_of_fire.the_desolation.cleansing_tormented_remnants" GUID="obfTOydf70W4Up0/HgZbnQ==" achievementBit="1"/>
-		<POI MapID="1226" xpos="702.562" ypos="275.489" zpos="427.429" type="path_of_fire.the_desolation.cleansing_tormented_remnants" GUID="GmzVDZoQB0ali7zrApxQmQ==" achievementBit="2"/>
-		<POI MapID="1226" xpos="811.635" ypos="286.075" zpos="585.001" type="path_of_fire.the_desolation.cleansing_tormented_remnants" GUID="lNuVkvZUakqmyBKVvJfA4Q==" achievementBit="3"/>
-		<POI MapID="1226" xpos="632.279" ypos="257.263" zpos="314.012" type="path_of_fire.the_desolation.cleansing_tormented_remnants" GUID="6FZNMNTTBUe8Gt0b1uuR3Q==" achievementBit="4"/>
-		<POI MapID="1226" xpos="519.546" ypos="301.184" zpos="559.977" type="path_of_fire.the_desolation.cleansing_tormented_remnants" GUID="EtjBXcRN9U+t6fnXK1ubDg==" achievementBit="5"/>
-		<POI MapID="1226" xpos="556.325" ypos="274.12"  zpos="110.413" type="path_of_fire.the_desolation.cleansing_tormented_remnants" GUID="lUXVEejbIUWiO98VyqBdGw==" achievementBit="6"/>
-		<POI MapID="1226" xpos="726.698" ypos="295.032" zpos="270.037" type="path_of_fire.the_desolation.cleansing_tormented_remnants" GUID="m1Rpcv+PmUSN5nueWST5vQ==" achievementBit="7"/>
-		<POI MapID="1226" xpos="503.015" ypos="257.037" zpos="332.082" type="path_of_fire.the_desolation.cleansing_tormented_remnants" GUID="YPKtIapwH0mB9iQh5dUF2A==" achievementBit="8"/>
-		<POI MapID="1226" xpos="627.78"  ypos="253.125" zpos="455.734" type="path_of_fire.the_desolation.cleansing_tormented_remnants" GUID="6wxIs3zCzkSFF166mCz//Q==" achievementBit="9"/>
-		<POI MapID="1226" xpos="861.521" ypos="253.712" zpos="502.351" type="path_of_fire.the_desolation.cleansing_tormented_remnants" GUID="QIifjep3BUCIZaTBBoHgRw==" achievementBit="10"/>
-		<POI MapID="1226" xpos="843.25"  ypos="282.26"  zpos="359.802" type="path_of_fire.the_desolation.cleansing_tormented_remnants" GUID="LSW0HOMAeEOnGsO7C1zyEA==" achievementBit="11"/>
-		<POI MapID="1226" xpos="874.867" ypos="257.321" zpos="304.912" type="path_of_fire.the_desolation.cleansing_tormented_remnants" GUID="hfO4mG/Zp0a6N+Ui04WxTQ==" achievementBit="12"/>
-		<POI MapID="1226" xpos="826.229" ypos="299.776" zpos="228.8"   type="path_of_fire.the_desolation.cleansing_tormented_remnants" GUID="cT7yAyBBoUGHsFE3ytQrlQ==" achievementBit="13"/>
-		<POI MapID="1226" xpos="1028.28" ypos="267.36"  zpos="182.223" type="path_of_fire.the_desolation.cleansing_tormented_remnants" GUID="QyyMoBXzdkGb5gaJEq1SSg==" achievementBit="14"/>
-
+		<POI MapID="1226" xpos="486.492" ypos="262.507" zpos="138.901" type="path_of_fire.the_desolation.cleansing_tormented_remnants" GUID="HaWXgU2M106JQ4dPriyscQ==" achievementBit="0" />
+		<POI MapID="1226" xpos="533.356" ypos="264.29" zpos="443.427" type="path_of_fire.the_desolation.cleansing_tormented_remnants" GUID="obfTOydf70W4Up0/HgZbnQ==" achievementBit="1" />
+		<POI MapID="1226" xpos="702.562" ypos="275.489" zpos="427.429" type="path_of_fire.the_desolation.cleansing_tormented_remnants" GUID="GmzVDZoQB0ali7zrApxQmQ==" achievementBit="2" />
+		<POI MapID="1226" xpos="811.635" ypos="286.075" zpos="585.001" type="path_of_fire.the_desolation.cleansing_tormented_remnants" GUID="lNuVkvZUakqmyBKVvJfA4Q==" achievementBit="3" />
+		<POI MapID="1226" xpos="632.279" ypos="257.263" zpos="314.012" type="path_of_fire.the_desolation.cleansing_tormented_remnants" GUID="6FZNMNTTBUe8Gt0b1uuR3Q==" achievementBit="4" />
+		<POI MapID="1226" xpos="519.546" ypos="301.184" zpos="559.977" type="path_of_fire.the_desolation.cleansing_tormented_remnants" GUID="EtjBXcRN9U+t6fnXK1ubDg==" achievementBit="5" />
+		<POI MapID="1226" xpos="556.325" ypos="274.12" zpos="110.413" type="path_of_fire.the_desolation.cleansing_tormented_remnants" GUID="lUXVEejbIUWiO98VyqBdGw==" achievementBit="6" />
+		<POI MapID="1226" xpos="726.698" ypos="295.032" zpos="270.037" type="path_of_fire.the_desolation.cleansing_tormented_remnants" GUID="m1Rpcv+PmUSN5nueWST5vQ==" achievementBit="7" />
+		<POI MapID="1226" xpos="503.015" ypos="257.037" zpos="332.082" type="path_of_fire.the_desolation.cleansing_tormented_remnants" GUID="YPKtIapwH0mB9iQh5dUF2A==" achievementBit="8" />
+		<POI MapID="1226" xpos="627.78" ypos="253.125" zpos="455.734" type="path_of_fire.the_desolation.cleansing_tormented_remnants" GUID="6wxIs3zCzkSFF166mCz//Q==" achievementBit="9" />
+		<POI MapID="1226" xpos="861.521" ypos="253.712" zpos="502.351" type="path_of_fire.the_desolation.cleansing_tormented_remnants" GUID="QIifjep3BUCIZaTBBoHgRw==" achievementBit="10" />
+		<POI MapID="1226" xpos="843.25" ypos="282.26" zpos="359.802" type="path_of_fire.the_desolation.cleansing_tormented_remnants" GUID="LSW0HOMAeEOnGsO7C1zyEA==" achievementBit="11" />
+		<POI MapID="1226" xpos="874.867" ypos="257.321" zpos="304.912" type="path_of_fire.the_desolation.cleansing_tormented_remnants" GUID="hfO4mG/Zp0a6N+Ui04WxTQ==" achievementBit="12" />
+		<POI MapID="1226" xpos="826.229" ypos="299.776" zpos="228.8" type="path_of_fire.the_desolation.cleansing_tormented_remnants" GUID="cT7yAyBBoUGHsFE3ytQrlQ==" achievementBit="13" />
+		<POI MapID="1226" xpos="1028.28" ypos="267.36" zpos="182.223" type="path_of_fire.the_desolation.cleansing_tormented_remnants" GUID="QyyMoBXzdkGb5gaJEq1SSg==" achievementBit="14" />
 		<!-- DANCE TILL YOU DROP -->
-		<POI MapID="1226" xpos="1003.53" ypos="21.9192" zpos="1407.93" type="path_of_fire.the_desolation.dance_till_you_drop" GUID="WGHMEOJPXUe0ZI4oc5CdBQ=="/>
-		<POI MapID="1226" xpos="1006.25" ypos="21.8432" zpos="1411.93" type="path_of_fire.the_desolation.dance_till_you_drop" GUID="rFPtGm5oHUCYtw4kQjD6HQ==" iconFile="Img/Mounts/Jackal.png"      fadeNear="1500" fadeFar="2500" mapVisibility="0" miniMapVisibility="0"/>
-		<POI MapID="1226" xpos="1014.19" ypos="24.2432" zpos="1426.28" type="path_of_fire.the_desolation.dance_till_you_drop" GUID="6qTqnhrPT0e20yP2n0+2dA==" iconFile="Img/Icons/ArrowForward.png" fadeNear="1500" fadeFar="2500" mapVisibility="0" miniMapVisibility="0"/>
-		<POI MapID="1226" xpos="1055.34" ypos="53.6966" zpos="1449.44" type="path_of_fire.the_desolation.dance_till_you_drop" GUID="uIeTrG0cQESa8VTWGAHIag=="                                       fadeNear="1500" fadeFar="3000" mapVisibility="0" miniMapVisibility="0"/>
-		<POI MapID="1226" xpos="1059.73" ypos="53.6802" zpos="1448.6"  type="path_of_fire.the_desolation.dance_till_you_drop" GUID="hWn1x+FIBUSCNybAqXZR9A==" iconFile="Img/Emotes/Dance.png"       maxSize="40" heightOffset="1.75" fadeNear="1500" fadeFar="3000" mapVisibility="0" miniMapVisibility="0"/>
-
+		<POI MapID="1226" xpos="1003.53" ypos="21.9192" zpos="1407.93" type="path_of_fire.the_desolation.dance_till_you_drop" GUID="WGHMEOJPXUe0ZI4oc5CdBQ==" />
+		<POI MapID="1226" xpos="1006.25" ypos="21.8432" zpos="1411.93" type="path_of_fire.the_desolation.dance_till_you_drop" GUID="rFPtGm5oHUCYtw4kQjD6HQ==" iconFile="Img/Mounts/Jackal.png" fadeNear="1500" fadeFar="2500" mapVisibility="0" miniMapVisibility="0" />
+		<POI MapID="1226" xpos="1014.19" ypos="24.2432" zpos="1426.28" type="path_of_fire.the_desolation.dance_till_you_drop" GUID="6qTqnhrPT0e20yP2n0+2dA==" iconFile="Img/Icons/ArrowForward.png" fadeNear="1500" fadeFar="2500" mapVisibility="0" miniMapVisibility="0" />
+		<POI MapID="1226" xpos="1055.34" ypos="53.6966" zpos="1449.44" type="path_of_fire.the_desolation.dance_till_you_drop" GUID="uIeTrG0cQESa8VTWGAHIag==" fadeNear="1500" fadeFar="3000" mapVisibility="0" miniMapVisibility="0" />
+		<POI MapID="1226" xpos="1059.73" ypos="53.6802" zpos="1448.6" type="path_of_fire.the_desolation.dance_till_you_drop" GUID="hWn1x+FIBUSCNybAqXZR9A==" iconFile="Img/Emotes/Dance.png" maxSize="40" heightOffset="1.75" fadeNear="1500" fadeFar="3000" mapVisibility="0" miniMapVisibility="0" />
 		<!-- HONORING THE FALLEN -->
-		<POI MapID="1226" xpos="-634.017" ypos="298.139" zpos="287.809" type="path_of_fire.the_desolation.honoring_the_fallen" GUID="CP99YIHtXkGCd80zyleqqA=="/>
-		<POI MapID="1226" xpos="-634.017" ypos="300"     zpos="287.809" type="path_of_fire.the_desolation.honoring_the_fallen" GUID="XacmTksdp0SF2lEYEOoSiA==" iconFile="Img/Emotes/Bow.png" maxSize="40" heightOffset="1.75" fadeNear="1000" fadeFar="2500" mapVisibility="0" miniMapVisibility="0"/>
-
+		<POI MapID="1226" xpos="-634.017" ypos="298.139" zpos="287.809" type="path_of_fire.the_desolation.honoring_the_fallen" GUID="CP99YIHtXkGCd80zyleqqA==" />
+		<POI MapID="1226" xpos="-634.017" ypos="300" zpos="287.809" type="path_of_fire.the_desolation.honoring_the_fallen" GUID="XacmTksdp0SF2lEYEOoSiA==" iconFile="Img/Emotes/Bow.png" maxSize="40" heightOffset="1.75" fadeNear="1000" fadeFar="2500" mapVisibility="0" miniMapVisibility="0" />
 		<!-- JACKAL RECONNAISSANCE -->
-		<POI MapID="1226" xpos="-331.47"  ypos="373.151" zpos="-1127.63" type="path_of_fire.the_desolation.jackal_reconnaissance" GUID="81aQY6uo5Eix+sFQjW90uw=="/>
-		<POI MapID="1226" xpos="-331.007" ypos="374.114" zpos="-1135.86" type="path_of_fire.the_desolation.jackal_reconnaissance" GUID="ZjD/F0zeVES9w0mrqibVtQ==" iconFile="Img/Numbers/1.png"      color="ff00ff00" mapVisibility="0" miniMapVisibility="0"/>
-		<POI MapID="1226" xpos="-331.054" ypos="373.882" zpos="-1132.5"  type="path_of_fire.the_desolation.jackal_reconnaissance" GUID="68w9oUY24km/QfSgLbn9cA==" iconFile="Img/PoF/DoTheHeart.png" minSize="48" maxSize="64" fadeNear="1500" fadeFar="2500" mapVisibility="0" miniMapVisibility="0"/>
-		<POI MapID="1226" xpos="891.18"   ypos="253.444" zpos="-195.614" type="path_of_fire.the_desolation.jackal_reconnaissance" GUID="ia9ypD2egESpj4SmMFuoYQ==" iconFile="Img/Numbers/2.png"      color="ff00ff00" heightOffset="0" mapVisibility="0" miniMapVisibility="0"/>
-		<POI MapID="1226" xpos="-843.733" ypos="15.0527" zpos="1131.56"  type="path_of_fire.the_desolation.jackal_reconnaissance" GUID="kN8+cPxpq0WCWnakU1W83g==" iconFile="Img/Numbers/3.png"      color="ff00ff00" heightOffset="2" mapVisibility="0" miniMapVisibility="0"/>
-		<POI MapID="1226" xpos="107.977"  ypos="269.454" zpos="494.095"  type="path_of_fire.the_desolation.jackal_reconnaissance" GUID="/Xm7+zS48UedAf/df6qOmg==" iconFile="Img/Numbers/4.png"      color="ff00ff00" heightOffset="0" mapVisibility="0" miniMapVisibility="0"/>
-		<POI MapID="1226" xpos="183.386"  ypos="7.85591" zpos="1338.75"  type="path_of_fire.the_desolation.jackal_reconnaissance" GUID="Cz3B9zv7Dke3Uqr+TSosdg==" iconFile="Img/Numbers/5.png"      color="ff00ff00" heightOffset="2" mapVisibility="0" miniMapVisibility="0"/>
-		<POI MapID="1226" xpos="-564.564" ypos="189.171" zpos="-515.208" type="path_of_fire.the_desolation.jackal_reconnaissance" GUID="eVefgowNxUuHXIFT+iXLtA==" iconFile="Img/Numbers/6.png"      color="ff00ff00" heightOffset="0" mapVisibility="0" miniMapVisibility="0"/>
-		<POI MapID="1226" xpos="-415.053" ypos="285.857" zpos="132.956"  type="path_of_fire.the_desolation.jackal_reconnaissance" GUID="clPkj3ovakqCO1piGdHDfw==" iconFile="Img/Numbers/7.png"      color="ff00ff00" heightOffset="3" mapVisibility="0" miniMapVisibility="0"/>
-
+		<POI MapID="1226" xpos="-331.47" ypos="373.151" zpos="-1127.63" type="path_of_fire.the_desolation.jackal_reconnaissance" GUID="81aQY6uo5Eix+sFQjW90uw==" />
+		<POI MapID="1226" xpos="-331.007" ypos="374.114" zpos="-1135.86" type="path_of_fire.the_desolation.jackal_reconnaissance" GUID="ZjD/F0zeVES9w0mrqibVtQ==" iconFile="Img/Numbers/1.png" color="ff00ff00" mapVisibility="0" miniMapVisibility="0" />
+		<POI MapID="1226" xpos="-331.054" ypos="373.882" zpos="-1132.5" type="path_of_fire.the_desolation.jackal_reconnaissance" GUID="68w9oUY24km/QfSgLbn9cA==" iconFile="Img/PoF/DoTheHeart.png" minSize="48" maxSize="64" fadeNear="1500" fadeFar="2500" mapVisibility="0" miniMapVisibility="0" />
+		<POI MapID="1226" xpos="891.18" ypos="253.444" zpos="-195.614" type="path_of_fire.the_desolation.jackal_reconnaissance" GUID="ia9ypD2egESpj4SmMFuoYQ==" iconFile="Img/Numbers/2.png" color="ff00ff00" heightOffset="0" mapVisibility="0" miniMapVisibility="0" />
+		<POI MapID="1226" xpos="-843.733" ypos="15.0527" zpos="1131.56" type="path_of_fire.the_desolation.jackal_reconnaissance" GUID="kN8+cPxpq0WCWnakU1W83g==" iconFile="Img/Numbers/3.png" color="ff00ff00" heightOffset="2" mapVisibility="0" miniMapVisibility="0" />
+		<POI MapID="1226" xpos="107.977" ypos="269.454" zpos="494.095" type="path_of_fire.the_desolation.jackal_reconnaissance" GUID="/Xm7+zS48UedAf/df6qOmg==" iconFile="Img/Numbers/4.png" color="ff00ff00" heightOffset="0" mapVisibility="0" miniMapVisibility="0" />
+		<POI MapID="1226" xpos="183.386" ypos="7.85591" zpos="1338.75" type="path_of_fire.the_desolation.jackal_reconnaissance" GUID="Cz3B9zv7Dke3Uqr+TSosdg==" iconFile="Img/Numbers/5.png" color="ff00ff00" heightOffset="2" mapVisibility="0" miniMapVisibility="0" />
+		<POI MapID="1226" xpos="-564.564" ypos="189.171" zpos="-515.208" type="path_of_fire.the_desolation.jackal_reconnaissance" GUID="eVefgowNxUuHXIFT+iXLtA==" iconFile="Img/Numbers/6.png" color="ff00ff00" heightOffset="0" mapVisibility="0" miniMapVisibility="0" />
+		<POI MapID="1226" xpos="-415.053" ypos="285.857" zpos="132.956" type="path_of_fire.the_desolation.jackal_reconnaissance" GUID="clPkj3ovakqCO1piGdHDfw==" iconFile="Img/Numbers/7.png" color="ff00ff00" heightOffset="3" mapVisibility="0" miniMapVisibility="0" />
 		<!-- JOKO'S HIDDEN CHAMBER -->
-		<POI MapID="1226" xpos="849.237" ypos="211.853" zpos="-836.895" type="path_of_fire.the_desolation.jokos_hidden_chamber" GUID="N8xObyD3OUiz5v+9zlwgBA=="/>
-		<POI MapID="1226" xpos="948.299" ypos="270.47"  zpos="-117.217" type="path_of_fire.the_desolation.jokos_hidden_chamber" GUID="ae6sP4tyI0Gw7UCWF8ERyQ==" iconFile="Img/Numbers/1.png"       color="ff00ff00" minSize="24" maxSize="48" heightOffset="4.5" mapVisibility="0" miniMapVisibility="0"/>
-		<POI MapID="1226" xpos="948.299" ypos="272.47"  zpos="-117.217" type="path_of_fire.the_desolation.jokos_hidden_chamber" GUID="O+yOVDzkgE2DGpzLs1JWzQ==" iconFile="Img/PoF/DoTheEvent.png"  minSize="48" maxSize="48" fadeNear="1000" fadeFar="1500" mapVisibility="0" miniMapVisibility="0"/>
-		<POI MapID="1226" xpos="972.394" ypos="258.864" zpos="-150.326" type="path_of_fire.the_desolation.jokos_hidden_chamber" GUID="O2ITw5a3tU+OROnwNxw5bw==" iconFile="Img/Numbers/2.png"       color="ff00ff00" minSize="24" maxSize="48" heightOffset="4.5" mapVisibility="0" miniMapVisibility="0"/>
-		<POI MapID="1226" xpos="972.394" ypos="260.864" zpos="-150.326" type="path_of_fire.the_desolation.jokos_hidden_chamber" GUID="SC91La9Wg0iYCQcK4/wMVA==" iconFile="Img/PoF/StartEscort.png" minSize="48" maxSize="48" fadeNear="1000" fadeFar="1500" mapVisibility="0" miniMapVisibility="0"/>
-		<POI MapID="1226" xpos="893.03"  ypos="253.475" zpos="-197.962" type="path_of_fire.the_desolation.jokos_hidden_chamber" GUID="mjQYLyayVUiD4n0/HP2Vhw==" iconFile="Img/Numbers/3.png"       color="ff00ff00" minSize="24" maxSize="48" heightOffset="4.5" mapVisibility="0" miniMapVisibility="0"/>
-		<POI MapID="1226" xpos="893.03"  ypos="255.475" zpos="-197.962" type="path_of_fire.the_desolation.jokos_hidden_chamber" GUID="4MtXrgC9skCUA9xzfRvf3g==" iconFile="Img/PoF/StartEscort.png" minSize="48" maxSize="48" fadeNear="1000" fadeFar="1500" mapVisibility="0" miniMapVisibility="0"/>
-
+		<POI MapID="1226" xpos="849.237" ypos="211.853" zpos="-836.895" type="path_of_fire.the_desolation.jokos_hidden_chamber" GUID="N8xObyD3OUiz5v+9zlwgBA==" />
+		<POI MapID="1226" xpos="948.299" ypos="270.47" zpos="-117.217" type="path_of_fire.the_desolation.jokos_hidden_chamber" GUID="ae6sP4tyI0Gw7UCWF8ERyQ==" iconFile="Img/Numbers/1.png" color="ff00ff00" minSize="24" maxSize="48" heightOffset="4.5" mapVisibility="0" miniMapVisibility="0" />
+		<POI MapID="1226" xpos="948.299" ypos="272.47" zpos="-117.217" type="path_of_fire.the_desolation.jokos_hidden_chamber" GUID="O+yOVDzkgE2DGpzLs1JWzQ==" iconFile="Img/PoF/DoTheEvent.png" minSize="48" maxSize="48" fadeNear="1000" fadeFar="1500" mapVisibility="0" miniMapVisibility="0" />
+		<POI MapID="1226" xpos="972.394" ypos="258.864" zpos="-150.326" type="path_of_fire.the_desolation.jokos_hidden_chamber" GUID="O2ITw5a3tU+OROnwNxw5bw==" iconFile="Img/Numbers/2.png" color="ff00ff00" minSize="24" maxSize="48" heightOffset="4.5" mapVisibility="0" miniMapVisibility="0" />
+		<POI MapID="1226" xpos="972.394" ypos="260.864" zpos="-150.326" type="path_of_fire.the_desolation.jokos_hidden_chamber" GUID="SC91La9Wg0iYCQcK4/wMVA==" iconFile="Img/PoF/StartEscort.png" minSize="48" maxSize="48" fadeNear="1000" fadeFar="1500" mapVisibility="0" miniMapVisibility="0" />
+		<POI MapID="1226" xpos="893.03" ypos="253.475" zpos="-197.962" type="path_of_fire.the_desolation.jokos_hidden_chamber" GUID="mjQYLyayVUiD4n0/HP2Vhw==" iconFile="Img/Numbers/3.png" color="ff00ff00" minSize="24" maxSize="48" heightOffset="4.5" mapVisibility="0" miniMapVisibility="0" />
+		<POI MapID="1226" xpos="893.03" ypos="255.475" zpos="-197.962" type="path_of_fire.the_desolation.jokos_hidden_chamber" GUID="4MtXrgC9skCUA9xzfRvf3g==" iconFile="Img/PoF/StartEscort.png" minSize="48" maxSize="48" fadeNear="1000" fadeFar="1500" mapVisibility="0" miniMapVisibility="0" />
 		<!-- LOST LORE OF DESOLATION -->
-		<POI MapID="1226" xpos="-927.935" ypos="86.7122" zpos="793.86"   type="path_of_fire.the_desolation.lost_lore_of_desolation" GUID="S9+icD+RT0iASS0MjyDiiQ==" achievementBit="0"/>
-		<POI MapID="1226" xpos="-118.913" ypos="207.56"  zpos="56.2792"  type="path_of_fire.the_desolation.lost_lore_of_desolation" GUID="+u0vPJ0xZ0qwdwRZfhuNiw==" achievementBit="1"/>
-		<POI MapID="1226" xpos="230.682"  ypos="69.081"  zpos="1190.86"  type="path_of_fire.the_desolation.lost_lore_of_desolation" GUID="CMI99p1JH0WjavCr1PKGLA==" achievementBit="2"/>
-		<POI MapID="1226" xpos="-961.358" ypos="303.046" zpos="-927.252" type="path_of_fire.the_desolation.lost_lore_of_desolation" GUID="lFXLmwCEokSgbSCKzf6SCA==" achievementBit="3"/>
-		<POI MapID="1226" xpos="334.706"  ypos="291.374" zpos="-956.217" type="path_of_fire.the_desolation.lost_lore_of_desolation" GUID="uE/FSUePq02KfX3zaOAt3g==" achievementBit="4"/>
-		<POI MapID="1226" xpos="773.794"  ypos="294.426" zpos="-459.5"   type="path_of_fire.the_desolation.lost_lore_of_desolation" GUID="tmC/W0QMP0OruPcSLydquA==" achievementBit="5"/>
-		<POI MapID="1226" xpos="936.537"  ypos="201.362" zpos="946.772"  type="path_of_fire.the_desolation.lost_lore_of_desolation" GUID="J9sHMfJdm0eUKSpsb04TXg==" achievementBit="6"/>
-
+		<POI MapID="1226" xpos="-927.935" ypos="86.7122" zpos="793.86" type="path_of_fire.the_desolation.lost_lore_of_desolation" GUID="S9+icD+RT0iASS0MjyDiiQ==" achievementBit="0" />
+		<POI MapID="1226" xpos="-118.913" ypos="207.56" zpos="56.2792" type="path_of_fire.the_desolation.lost_lore_of_desolation" GUID="+u0vPJ0xZ0qwdwRZfhuNiw==" achievementBit="1" />
+		<POI MapID="1226" xpos="230.682" ypos="69.081" zpos="1190.86" type="path_of_fire.the_desolation.lost_lore_of_desolation" GUID="CMI99p1JH0WjavCr1PKGLA==" achievementBit="2" />
+		<POI MapID="1226" xpos="-961.358" ypos="303.046" zpos="-927.252" type="path_of_fire.the_desolation.lost_lore_of_desolation" GUID="lFXLmwCEokSgbSCKzf6SCA==" achievementBit="3" />
+		<POI MapID="1226" xpos="334.706" ypos="291.374" zpos="-956.217" type="path_of_fire.the_desolation.lost_lore_of_desolation" GUID="uE/FSUePq02KfX3zaOAt3g==" achievementBit="4" />
+		<POI MapID="1226" xpos="773.794" ypos="294.426" zpos="-459.5" type="path_of_fire.the_desolation.lost_lore_of_desolation" GUID="tmC/W0QMP0OruPcSLydquA==" achievementBit="5" />
+		<POI MapID="1226" xpos="936.537" ypos="201.362" zpos="946.772" type="path_of_fire.the_desolation.lost_lore_of_desolation" GUID="J9sHMfJdm0eUKSpsb04TXg==" achievementBit="6" />
 		<!-- PATH OF THE GODS -->
-		<POI MapID="1226" xpos="437.558"  ypos="272.68"   zpos="439.327"  type="path_of_fire.the_desolation.path_of_the_gods" GUID="D3CIhJaxVEG/BIdiNKTqFQ=="/>
-		<POI MapID="1226" xpos="436.421"  ypos="276.022"  zpos="440.268"  type="path_of_fire.the_desolation.path_of_the_gods" GUID="yM83Vsyc6Ee5/OS19tWExA==" iconFile="Img/Emotes/Kneel.png" maxSize="40" heightOffset="1.75" fadeNear="1300" fadeFar="1500" behavior="0" mapVisibility="0" miniMapVisibility="0"/>
-		<POI MapID="1226" xpos="191.868"  ypos="265.345"  zpos="-751.174" type="path_of_fire.the_desolation.path_of_the_gods" GUID="LJRibsmEUEWtjCSC8m+bIg=="/>
-		<POI MapID="1226" xpos="187.945"  ypos="264.849"  zpos="-750.773" type="path_of_fire.the_desolation.path_of_the_gods" GUID="AjnVMQnsYUmu3nlRlI+bnA==" iconFile="Img/Emotes/Kneel.png" maxSize="40" heightOffset="1.75" fadeNear="1300" fadeFar="1500" behavior="0" mapVisibility="0" miniMapVisibility="0"/>
-		<POI MapID="1226" xpos="-648.033" ypos="0.243589" zpos="1388.23"  type="path_of_fire.the_desolation.path_of_the_gods" GUID="AnSauzq9pUOlS3OlRXP6EQ=="/>
-		<POI MapID="1226" xpos="-648.496" ypos="0.722231" zpos="1391.12"  type="path_of_fire.the_desolation.path_of_the_gods" GUID="DJEMO2U82kKL4DQ/MnP7fw==" iconFile="Img/Emotes/Kneel.png" maxSize="40" heightOffset="1.75" fadeNear="1300" fadeFar="1500" behavior="0" mapVisibility="0" miniMapVisibility="0"/>
-		<POI MapID="1226" xpos="16.9942"  ypos="273.844"  zpos="202.197"  type="path_of_fire.the_desolation.path_of_the_gods" GUID="u9YDNqv0dEWvuPQvCN6VYw=="/>
-		<POI MapID="1226" xpos="13.74"    ypos="273.673"  zpos="205.434"  type="path_of_fire.the_desolation.path_of_the_gods" GUID="QpapDQOf+kOzcyfTdDwf5Q==" iconFile="Img/Emotes/Kneel.png" maxSize="40" heightOffset="1.75" fadeNear="1300" fadeFar="1500" behavior="0" mapVisibility="0" miniMapVisibility="0"/>
-		<POI MapID="1226" xpos="604.199"  ypos="253.627"  zpos="-965.002" type="path_of_fire.the_desolation.path_of_the_gods" GUID="tU5FChleQUq9d/uDs3sT8w=="/>
-		<POI MapID="1226" xpos="605.612"  ypos="253.91"   zpos="-967.922" type="path_of_fire.the_desolation.path_of_the_gods" GUID="rju5n8lLNUGsG0Healyfhw==" iconFile="Img/Emotes/Kneel.png" maxSize="40" heightOffset="1.75" fadeNear="1300" fadeFar="1500" behavior="0" mapVisibility="0" miniMapVisibility="0"/>
-		<POI MapID="1226" xpos="737.534"  ypos="23.6849"  zpos="1522.78"  type="path_of_fire.the_desolation.path_of_the_gods" GUID="rqPcJlQgvEKXd1DwLZ9guA=="/>
-		<POI MapID="1226" xpos="740.084"  ypos="23.7363"  zpos="1522.02"  type="path_of_fire.the_desolation.path_of_the_gods" GUID="e+lRqB686ku4yvmypLwOqQ==" iconFile="Img/Emotes/Kneel.png" maxSize="40" heightOffset="1.75" fadeNear="1300" fadeFar="1500" behavior="0" mapVisibility="0" miniMapVisibility="0"/>
-		<POI MapID="1226" xpos="1003.53"  ypos="21.9192"  zpos="1407.93"  type="path_of_fire.the_desolation.path_of_the_gods" GUID="EAmQ3X/jO0GQO+5NrCa2Cw=="/>
-		<POI MapID="1226" xpos="1006.25"  ypos="21.8432"  zpos="1411.93"  type="path_of_fire.the_desolation.path_of_the_gods" GUID="wSM9vt+tREq9qCgB53cT8w==" iconFile="Img/Mounts/Jackal.png"      fadeNear="1500" fadeFar="2500" behavior="0" mapVisibility="0" miniMapVisibility="0"/>
-		<POI MapID="1226" xpos="1014.19"  ypos="24.2432"  zpos="1426.28"  type="path_of_fire.the_desolation.path_of_the_gods" GUID="uR+cwK36kk6CLAreGi8wJg==" iconFile="Img/Icons/ArrowForward.png" fadeNear="1500" fadeFar="2500" behavior="0" mapVisibility="0" miniMapVisibility="0"/>
-		<POI MapID="1226" xpos="1058.09"  ypos="53.6873"  zpos="1448.91"  type="path_of_fire.the_desolation.path_of_the_gods" GUID="u4xuKOXBvUSA5C5p/07xsQ=="                                       fadeNear="1000" fadeFar="1500" mapVisibility="0" miniMapVisibility="0"/>
-		<POI MapID="1226" xpos="1060.39"  ypos="53.5343"  zpos="1445.48"  type="path_of_fire.the_desolation.path_of_the_gods" GUID="/90EmC0PkEmUrf1bzSTD/Q==" iconFile="Img/Emotes/Kneel.png"       maxSize="40" heightOffset="1.75" fadeNear="1300" fadeFar="1500" behavior="0" mapVisibility="0" miniMapVisibility="0"/>
-
+		<POI MapID="1226" xpos="437.558" ypos="272.68" zpos="439.327" type="path_of_fire.the_desolation.path_of_the_gods" GUID="D3CIhJaxVEG/BIdiNKTqFQ==" />
+		<POI MapID="1226" xpos="436.421" ypos="276.022" zpos="440.268" type="path_of_fire.the_desolation.path_of_the_gods" GUID="yM83Vsyc6Ee5/OS19tWExA==" iconFile="Img/Emotes/Kneel.png" maxSize="40" heightOffset="1.75" fadeNear="1300" fadeFar="1500" behavior="0" mapVisibility="0" miniMapVisibility="0" />
+		<POI MapID="1226" xpos="191.868" ypos="265.345" zpos="-751.174" type="path_of_fire.the_desolation.path_of_the_gods" GUID="LJRibsmEUEWtjCSC8m+bIg==" />
+		<POI MapID="1226" xpos="187.945" ypos="264.849" zpos="-750.773" type="path_of_fire.the_desolation.path_of_the_gods" GUID="AjnVMQnsYUmu3nlRlI+bnA==" iconFile="Img/Emotes/Kneel.png" maxSize="40" heightOffset="1.75" fadeNear="1300" fadeFar="1500" behavior="0" mapVisibility="0" miniMapVisibility="0" />
+		<POI MapID="1226" xpos="-648.033" ypos="0.243589" zpos="1388.23" type="path_of_fire.the_desolation.path_of_the_gods" GUID="AnSauzq9pUOlS3OlRXP6EQ==" />
+		<POI MapID="1226" xpos="-648.496" ypos="0.722231" zpos="1391.12" type="path_of_fire.the_desolation.path_of_the_gods" GUID="DJEMO2U82kKL4DQ/MnP7fw==" iconFile="Img/Emotes/Kneel.png" maxSize="40" heightOffset="1.75" fadeNear="1300" fadeFar="1500" behavior="0" mapVisibility="0" miniMapVisibility="0" />
+		<POI MapID="1226" xpos="16.9942" ypos="273.844" zpos="202.197" type="path_of_fire.the_desolation.path_of_the_gods" GUID="u9YDNqv0dEWvuPQvCN6VYw==" />
+		<POI MapID="1226" xpos="13.74" ypos="273.673" zpos="205.434" type="path_of_fire.the_desolation.path_of_the_gods" GUID="QpapDQOf+kOzcyfTdDwf5Q==" iconFile="Img/Emotes/Kneel.png" maxSize="40" heightOffset="1.75" fadeNear="1300" fadeFar="1500" behavior="0" mapVisibility="0" miniMapVisibility="0" />
+		<POI MapID="1226" xpos="604.199" ypos="253.627" zpos="-965.002" type="path_of_fire.the_desolation.path_of_the_gods" GUID="tU5FChleQUq9d/uDs3sT8w==" />
+		<POI MapID="1226" xpos="605.612" ypos="253.91" zpos="-967.922" type="path_of_fire.the_desolation.path_of_the_gods" GUID="rju5n8lLNUGsG0Healyfhw==" iconFile="Img/Emotes/Kneel.png" maxSize="40" heightOffset="1.75" fadeNear="1300" fadeFar="1500" behavior="0" mapVisibility="0" miniMapVisibility="0" />
+		<POI MapID="1226" xpos="737.534" ypos="23.6849" zpos="1522.78" type="path_of_fire.the_desolation.path_of_the_gods" GUID="rqPcJlQgvEKXd1DwLZ9guA==" />
+		<POI MapID="1226" xpos="740.084" ypos="23.7363" zpos="1522.02" type="path_of_fire.the_desolation.path_of_the_gods" GUID="e+lRqB686ku4yvmypLwOqQ==" iconFile="Img/Emotes/Kneel.png" maxSize="40" heightOffset="1.75" fadeNear="1300" fadeFar="1500" behavior="0" mapVisibility="0" miniMapVisibility="0" />
+		<POI MapID="1226" xpos="1003.53" ypos="21.9192" zpos="1407.93" type="path_of_fire.the_desolation.path_of_the_gods" GUID="EAmQ3X/jO0GQO+5NrCa2Cw==" />
+		<POI MapID="1226" xpos="1006.25" ypos="21.8432" zpos="1411.93" type="path_of_fire.the_desolation.path_of_the_gods" GUID="wSM9vt+tREq9qCgB53cT8w==" iconFile="Img/Mounts/Jackal.png" fadeNear="1500" fadeFar="2500" behavior="0" mapVisibility="0" miniMapVisibility="0" />
+		<POI MapID="1226" xpos="1014.19" ypos="24.2432" zpos="1426.28" type="path_of_fire.the_desolation.path_of_the_gods" GUID="uR+cwK36kk6CLAreGi8wJg==" iconFile="Img/Icons/ArrowForward.png" fadeNear="1500" fadeFar="2500" behavior="0" mapVisibility="0" miniMapVisibility="0" />
+		<POI MapID="1226" xpos="1058.09" ypos="53.6873" zpos="1448.91" type="path_of_fire.the_desolation.path_of_the_gods" GUID="u4xuKOXBvUSA5C5p/07xsQ==" fadeNear="1000" fadeFar="1500" mapVisibility="0" miniMapVisibility="0" />
+		<POI MapID="1226" xpos="1060.39" ypos="53.5343" zpos="1445.48" type="path_of_fire.the_desolation.path_of_the_gods" GUID="/90EmC0PkEmUrf1bzSTD/Q==" iconFile="Img/Emotes/Kneel.png" maxSize="40" heightOffset="1.75" fadeNear="1300" fadeFar="1500" behavior="0" mapVisibility="0" miniMapVisibility="0" />
 		<!-- SHADOW PATROLLER -->
-		<POI MapID="1226" xpos="-418.834" ypos="284.618" zpos="53.5614" type="path_of_fire.the_desolation.shadow_patroller" GUID="Fp6GbfPEy0GUnKKI6GwGqw==" heightOffset="3.5"/>
-		<POI MapID="1226" xpos="-418.834" ypos="288"     zpos="53.5614" type="path_of_fire.the_desolation.shadow_patroller" GUID="i3NBULDTN0mb97QDDBiMIQ==" iconFile="Img/PoF/ShadowPatroller.png" minSize="48" maxSize="64" fadeNear="1000" fadeFar="1500" mapVisibility="0" miniMapVisibility="0"/>
-
+		<POI MapID="1226" xpos="-418.834" ypos="284.618" zpos="53.5614" type="path_of_fire.the_desolation.shadow_patroller" GUID="Fp6GbfPEy0GUnKKI6GwGqw==" heightOffset="3.5" />
+		<POI MapID="1226" xpos="-418.834" ypos="288" zpos="53.5614" type="path_of_fire.the_desolation.shadow_patroller" GUID="i3NBULDTN0mb97QDDBiMIQ==" iconFile="Img/PoF/ShadowPatroller.png" minSize="48" maxSize="64" fadeNear="1000" fadeFar="1500" mapVisibility="0" miniMapVisibility="0" />
 		<!-- SHADOW PROVISIONS -->
-		<POI MapID="1226" xpos="628.087"  ypos="8.85869" zpos="1420.41"  type="path_of_fire.the_desolation.shadow_provisions" GUID="gV7NfA54lESQ5Sj8JX11Sg==" achievementBit="0"/>
-		<POI MapID="1226" xpos="945.679"  ypos="199.858" zpos="1105.83"  type="path_of_fire.the_desolation.shadow_provisions" GUID="bLNabBOBmk6mm1AmrT8nNw==" achievementBit="1"/>
-		<POI MapID="1226" xpos="443.019"  ypos="158.481" zpos="873.473"  type="path_of_fire.the_desolation.shadow_provisions" GUID="IUJrC7KjkEyqZ/LmwuK1IQ==" achievementBit="2"/>
-		<POI MapID="1226" xpos="-645.361" ypos="50.7168" zpos="925.676"  type="path_of_fire.the_desolation.shadow_provisions" GUID="PcYYLWIMmUa9h3hsiywdJA==" achievementBit="3"/>
-		<POI MapID="1226" xpos="-431.676" ypos="245.158" zpos="699.916"  type="path_of_fire.the_desolation.shadow_provisions" GUID="Ee+KQtaKnkK+1K0nBK/cbA==" achievementBit="4"/>
-		<POI MapID="1226" xpos="176.441"  ypos="272.259" zpos="452.766"  type="path_of_fire.the_desolation.shadow_provisions" GUID="B6khEKaGO0C9ABe8PdockQ==" achievementBit="5"/>
-		<POI MapID="1226" xpos="21.2959"  ypos="256.369" zpos="-99.2973" type="path_of_fire.the_desolation.shadow_provisions" GUID="NbazFMHv8k2TlWZv/ol83A==" achievementBit="6"/>
-		<POI MapID="1226" xpos="-544.277" ypos="328.584" zpos="172.293"  type="path_of_fire.the_desolation.shadow_provisions" GUID="tWfHB88JhUy9BH5IsmkQcQ==" achievementBit="7"/>
-		<POI MapID="1226" xpos="-903.515" ypos="150.806" zpos="145.586"  type="path_of_fire.the_desolation.shadow_provisions" GUID="wovYuqsXGkeloF/PDcqg+Q==" achievementBit="8"/>
-		<POI MapID="1226" xpos="-893.249" ypos="289.38"  zpos="-663.64"  type="path_of_fire.the_desolation.shadow_provisions" GUID="umEKk9cqJUOFCal4ewUrAQ==" achievementBit="9"/>
-		<POI MapID="1226" xpos="949.963"  ypos="264.86"  zpos="352.291"  type="path_of_fire.the_desolation.shadow_provisions" GUID="lZwRHq3IVUeaACv4HhGHbw==" achievementBit="10"/>
-		<POI MapID="1226" xpos="550.381"  ypos="264.639" zpos="446.085"  type="path_of_fire.the_desolation.shadow_provisions" GUID="aGPD2qa4/ECTSwFNMDNOpA==" achievementBit="11"/>
-		<POI MapID="1226" xpos="547.087"  ypos="339.669" zpos="68.2535"  type="path_of_fire.the_desolation.shadow_provisions" GUID="WLhnVGZRFUCTJJ2PaZJRhA==" achievementBit="12"/>
-		<POI MapID="1226" xpos="1050.45"  ypos="304.206" zpos="-281.568" type="path_of_fire.the_desolation.shadow_provisions" GUID="EbJNo/WGukCBkdJEIy+UwQ==" achievementBit="13"/>
-		<POI MapID="1226" xpos="190.267"  ypos="391.544" zpos="-186.325" type="path_of_fire.the_desolation.shadow_provisions" GUID="fzB1zthFSUO9dJkXtsJ0zA==" achievementBit="14"/>
-		<POI MapID="1226" xpos="106.434"  ypos="361.032" zpos="-434.308" type="path_of_fire.the_desolation.shadow_provisions" GUID="jaDPLmEDmkShg9+yEsxE2A==" achievementBit="15"/>
-		<POI MapID="1226" xpos="644.219"  ypos="340.183" zpos="-634.862" type="path_of_fire.the_desolation.shadow_provisions" GUID="c1gG29qTD0+FCZcH71tnsQ==" achievementBit="16"/>
-		<POI MapID="1226" xpos="-73.9081" ypos="266.735" zpos="-570.552" type="path_of_fire.the_desolation.shadow_provisions" GUID="UxOC/NCKOEGr5radILXOwA==" achievementBit="17"/>
-		<POI MapID="1226" xpos="-611.014" ypos="341.749" zpos="-516.235" type="path_of_fire.the_desolation.shadow_provisions" GUID="/mo8L8EUiU+g/1QVuiGSrA==" achievementBit="18"/>
-		<POI MapID="1226" xpos="-448.411" ypos="228.801" zpos="-1042.61" type="path_of_fire.the_desolation.shadow_provisions" GUID="+K145edJYUmv5RzshughlQ==" achievementBit="19"/>
-		<POI MapID="1226" xpos="-272.147" ypos="364.606" zpos="-1003.79" type="path_of_fire.the_desolation.shadow_provisions" GUID="H8YBsYrFYUiHI5y5dkEGcA==" achievementBit="20"/>
-		<POI MapID="1226" xpos="-160.415" ypos="354.593" zpos="-1314.78" type="path_of_fire.the_desolation.shadow_provisions" GUID="o4nx5tzdp0av25DRaFPuoQ==" achievementBit="21"/>
-		<POI MapID="1226" xpos="283.874"  ypos="294.038" zpos="-1151.26" type="path_of_fire.the_desolation.shadow_provisions" GUID="vuQviqbK3E+/97HYt9MhTA==" achievementBit="22"/>
-		<POI MapID="1226" xpos="287.343"  ypos="407.503" zpos="-1347.46" type="path_of_fire.the_desolation.shadow_provisions" GUID="843Yv4000U6hjgHpSmI2pQ==" achievementBit="23"/>
-		<POI MapID="1226" xpos="904.993"  ypos="245.976" zpos="-1320.76" type="path_of_fire.the_desolation.shadow_provisions" GUID="9Dr2X0WUSkySUqcfg1dOFA==" achievementBit="24"/>
-
+		<POI MapID="1226" xpos="628.087" ypos="8.85869" zpos="1420.41" type="path_of_fire.the_desolation.shadow_provisions" GUID="gV7NfA54lESQ5Sj8JX11Sg==" achievementBit="0" />
+		<POI MapID="1226" xpos="945.679" ypos="199.858" zpos="1105.83" type="path_of_fire.the_desolation.shadow_provisions" GUID="bLNabBOBmk6mm1AmrT8nNw==" achievementBit="1" />
+		<POI MapID="1226" xpos="443.019" ypos="158.481" zpos="873.473" type="path_of_fire.the_desolation.shadow_provisions" GUID="IUJrC7KjkEyqZ/LmwuK1IQ==" achievementBit="2" />
+		<POI MapID="1226" xpos="-645.361" ypos="50.7168" zpos="925.676" type="path_of_fire.the_desolation.shadow_provisions" GUID="PcYYLWIMmUa9h3hsiywdJA==" achievementBit="3" />
+		<POI MapID="1226" xpos="-431.676" ypos="245.158" zpos="699.916" type="path_of_fire.the_desolation.shadow_provisions" GUID="Ee+KQtaKnkK+1K0nBK/cbA==" achievementBit="4" />
+		<POI MapID="1226" xpos="176.441" ypos="272.259" zpos="452.766" type="path_of_fire.the_desolation.shadow_provisions" GUID="B6khEKaGO0C9ABe8PdockQ==" achievementBit="5" />
+		<POI MapID="1226" xpos="21.2959" ypos="256.369" zpos="-99.2973" type="path_of_fire.the_desolation.shadow_provisions" GUID="NbazFMHv8k2TlWZv/ol83A==" achievementBit="6" />
+		<POI MapID="1226" xpos="-544.277" ypos="328.584" zpos="172.293" type="path_of_fire.the_desolation.shadow_provisions" GUID="tWfHB88JhUy9BH5IsmkQcQ==" achievementBit="7" />
+		<POI MapID="1226" xpos="-903.515" ypos="150.806" zpos="145.586" type="path_of_fire.the_desolation.shadow_provisions" GUID="wovYuqsXGkeloF/PDcqg+Q==" achievementBit="8" />
+		<POI MapID="1226" xpos="-893.249" ypos="289.38" zpos="-663.64" type="path_of_fire.the_desolation.shadow_provisions" GUID="umEKk9cqJUOFCal4ewUrAQ==" achievementBit="9" />
+		<POI MapID="1226" xpos="949.963" ypos="264.86" zpos="352.291" type="path_of_fire.the_desolation.shadow_provisions" GUID="lZwRHq3IVUeaACv4HhGHbw==" achievementBit="10" />
+		<POI MapID="1226" xpos="550.381" ypos="264.639" zpos="446.085" type="path_of_fire.the_desolation.shadow_provisions" GUID="aGPD2qa4/ECTSwFNMDNOpA==" achievementBit="11" />
+		<POI MapID="1226" xpos="547.087" ypos="339.669" zpos="68.2535" type="path_of_fire.the_desolation.shadow_provisions" GUID="WLhnVGZRFUCTJJ2PaZJRhA==" achievementBit="12" />
+		<POI MapID="1226" xpos="1050.45" ypos="304.206" zpos="-281.568" type="path_of_fire.the_desolation.shadow_provisions" GUID="EbJNo/WGukCBkdJEIy+UwQ==" achievementBit="13" />
+		<POI MapID="1226" xpos="190.267" ypos="391.544" zpos="-186.325" type="path_of_fire.the_desolation.shadow_provisions" GUID="fzB1zthFSUO9dJkXtsJ0zA==" achievementBit="14" />
+		<POI MapID="1226" xpos="106.434" ypos="361.032" zpos="-434.308" type="path_of_fire.the_desolation.shadow_provisions" GUID="jaDPLmEDmkShg9+yEsxE2A==" achievementBit="15" />
+		<POI MapID="1226" xpos="644.219" ypos="340.183" zpos="-634.862" type="path_of_fire.the_desolation.shadow_provisions" GUID="c1gG29qTD0+FCZcH71tnsQ==" achievementBit="16" />
+		<POI MapID="1226" xpos="-73.9081" ypos="266.735" zpos="-570.552" type="path_of_fire.the_desolation.shadow_provisions" GUID="UxOC/NCKOEGr5radILXOwA==" achievementBit="17" />
+		<POI MapID="1226" xpos="-611.014" ypos="341.749" zpos="-516.235" type="path_of_fire.the_desolation.shadow_provisions" GUID="/mo8L8EUiU+g/1QVuiGSrA==" achievementBit="18" />
+		<POI MapID="1226" xpos="-448.411" ypos="228.801" zpos="-1042.61" type="path_of_fire.the_desolation.shadow_provisions" GUID="+K145edJYUmv5RzshughlQ==" achievementBit="19" />
+		<POI MapID="1226" xpos="-272.147" ypos="364.606" zpos="-1003.79" type="path_of_fire.the_desolation.shadow_provisions" GUID="H8YBsYrFYUiHI5y5dkEGcA==" achievementBit="20" />
+		<POI MapID="1226" xpos="-160.415" ypos="354.593" zpos="-1314.78" type="path_of_fire.the_desolation.shadow_provisions" GUID="o4nx5tzdp0av25DRaFPuoQ==" achievementBit="21" />
+		<POI MapID="1226" xpos="283.874" ypos="294.038" zpos="-1151.26" type="path_of_fire.the_desolation.shadow_provisions" GUID="vuQviqbK3E+/97HYt9MhTA==" achievementBit="22" />
+		<POI MapID="1226" xpos="287.343" ypos="407.503" zpos="-1347.46" type="path_of_fire.the_desolation.shadow_provisions" GUID="843Yv4000U6hjgHpSmI2pQ==" achievementBit="23" />
+		<POI MapID="1226" xpos="904.993" ypos="245.976" zpos="-1320.76" type="path_of_fire.the_desolation.shadow_provisions" GUID="9Dr2X0WUSkySUqcfg1dOFA==" achievementBit="24" />
 		<!-- SULFUR SHOOTER -->
-		<POI MapID="1226" xpos="-358.779" ypos="256.551" zpos="231.291" type="path_of_fire.the_desolation.sulfur_shooter" GUID="SByFOOmWZEyPfHp81B6FBA==" heightOffset="4"/>
-		<POI MapID="1226" xpos="-361.06"  ypos="257.388" zpos="229.356" type="path_of_fire.the_desolation.sulfur_shooter" GUID="Phrx82Tts0OJ4cmLeEPsjg==" iconFile="Img/Icons/Interaction.png" maxSize="24" fadeNear="2000" fadeFar="2500" mapVisibility="0" miniMapVisibility="0"/>
-
+		<POI MapID="1226" xpos="-358.779" ypos="256.551" zpos="231.291" type="path_of_fire.the_desolation.sulfur_shooter" GUID="SByFOOmWZEyPfHp81B6FBA==" heightOffset="4" />
+		<POI MapID="1226" xpos="-361.06" ypos="257.388" zpos="229.356" type="path_of_fire.the_desolation.sulfur_shooter" GUID="Phrx82Tts0OJ4cmLeEPsjg==" iconFile="Img/Icons/Interaction.png" maxSize="24" fadeNear="2000" fadeFar="2500" mapVisibility="0" miniMapVisibility="0" />
 		<!-- THE THRONE OF BONES -->
-		<POI MapID="1226" xpos="311.731" ypos="277.362" zpos="-1358.46" type="path_of_fire.the_desolation.the_throne_of_bones" GUID="4hIvBIGWZkmYAQF8BMmmyg=="/>
-		<POI MapID="1226" xpos="311.791" ypos="278.973" zpos="-1359.89" type="path_of_fire.the_desolation.the_throne_of_bones" GUID="KcKNJhvBhES5U9WbJoszaw==" iconFile="Img/Emotes/Sit.png" maxSize="40" heightOffset="1.75" fadeNear="1500" fadeFar="3000" mapVisibility="0" miniMapVisibility="0"/>
-
+		<POI MapID="1226" xpos="311.731" ypos="277.362" zpos="-1358.46" type="path_of_fire.the_desolation.the_throne_of_bones" GUID="4hIvBIGWZkmYAQF8BMmmyg==" />
+		<POI MapID="1226" xpos="311.791" ypos="278.973" zpos="-1359.89" type="path_of_fire.the_desolation.the_throne_of_bones" GUID="KcKNJhvBhES5U9WbJoszaw==" iconFile="Img/Emotes/Sit.png" maxSize="40" heightOffset="1.75" fadeNear="1500" fadeFar="3000" mapVisibility="0" miniMapVisibility="0" />
 	</POIs>
 </OverlayData>

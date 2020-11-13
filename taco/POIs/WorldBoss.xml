@@ -1,353 +1,339 @@
 <!-- 2020.06.09 -->
 <OverlayData>
 	<POIs>
-
 		<!-- CLAW OF JORMAG -->
-		<Trail type="world_boss.claw_of_jormag.phase_1.danger" GUID="u4qRv6326UuVN3EdAyvcIg==" trailData="Data/WorldBoss/ClawOfJormag_1.trl" texture="Data/Stripe.png" color="ffff0000" alpha="0.8" fadeNear="2000" fadeFar="3000" animSpeed="0" mapDisplaySize="8"/>
-		<Trail type="world_boss.claw_of_jormag.phase_2.danger" GUID="rmnUuIxSZ0efegasoAWLSQ==" trailData="Data/WorldBoss/ClawOfJormag_2.trl" texture="Data/Stripe.png" color="ffff0000" alpha="0.8" fadeNear="2000" fadeFar="3000" animSpeed="0" mapDisplaySize="8"/>
-		<POI MapID="30" xpos="605.17"  ypos="22.5639" zpos="308.041" type="world_boss.claw_of_jormag.crystals"           GUID="+cG78VhtKEqu8lxzp6pd1w==" inGameVisibility="0"/>
-		<POI MapID="30" xpos="680.574" ypos="27.3282" zpos="228.856" type="world_boss.claw_of_jormag.crystals"           GUID="5NLVLmt3AkWCylP1H2PUIA==" inGameVisibility="0"/>
-		<POI MapID="30" xpos="680.428" ypos="36.8587" zpos="445.528" type="world_boss.claw_of_jormag.crystals"           GUID="0lLWp1LzNUCaZ7ngatUiYw==" inGameVisibility="0"/>
-		<POI MapID="30" xpos="406.847" ypos="28.0181" zpos="385.604" type="world_boss.claw_of_jormag.crystals"           GUID="hmAFz/QF30KoQqO/vUvfLQ==" inGameVisibility="0"/>
-		<POI MapID="30" xpos="552.172" ypos="50.8183" zpos="392.303" type="world_boss.claw_of_jormag.crystals"           GUID="5WyzEheT3kWrXu6ijLC3Mg==" inGameVisibility="0"/>
-		<POI MapID="30" xpos="602.102" ypos="63.0258" zpos="431.632" type="world_boss.claw_of_jormag.landing"            GUID="Q5MDqi8V/EG1uZRex8xMNA==" inGameVisibility="0"/>
-		<POI MapID="30" xpos="561.99"  ypos="52.8433" zpos="368.666" type="world_boss.claw_of_jormag.phase_1.ranged"     GUID="9ITz6evcP0GKdlBfu5mLkA=="/>
-		<POI MapID="30" xpos="521.712" ypos="43.9576" zpos="363.275" type="world_boss.claw_of_jormag.phase_1.charrzooka" GUID="g9jSAs7Kq0qg9fZgWYDUgA==" mapVisibility="0" miniMapVisibility="0"/>
-		<POI MapID="30" xpos="509.836" ypos="44.0576" zpos="378.493" type="world_boss.claw_of_jormag.phase_1.charrzooka" GUID="3Y0MprDV2Ey1aAu8hDUy9w==" mapVisibility="0" miniMapVisibility="0"/>
-		<POI MapID="30" xpos="514.437" ypos="46.0793" zpos="375.859" type="world_boss.claw_of_jormag.phase_1.explosive"  GUID="o2H4TMvDO0+37sHxfBqMnA==" mapVisibility="0" miniMapVisibility="0"/>
-		<POI MapID="30" xpos="519.381" ypos="45.7421" zpos="373.129" type="world_boss.claw_of_jormag.phase_1.explosive"  GUID="OyXzAVUyO0uuQdJth6paKQ==" mapVisibility="0" miniMapVisibility="0"/>
-		<POI MapID="30" xpos="520.022" ypos="46.1048" zpos="368.59"  type="world_boss.claw_of_jormag.phase_1.explosive"  GUID="BTlgI2WQyU6guFyNCh78uQ==" mapVisibility="0" miniMapVisibility="0"/>
-		<POI MapID="30" xpos="602.961" ypos="63.0437" zpos="423.619" type="world_boss.claw_of_jormag.phase_1.fight"      GUID="dsREF3Cy1E6+STd7dPQAgQ=="/>
-		<POI MapID="30" xpos="595.964" ypos="62.8587" zpos="444.654" type="world_boss.claw_of_jormag.phase_1.fight"      GUID="dD59TUXZrkO1smyBlhXg3w=="/>
-		<POI MapID="30" xpos="587.949" ypos="62.8407" zpos="431.413" type="world_boss.claw_of_jormag.phase_1.fight"      GUID="rSAOLZ0T20++nGrjuXDHWw=="/>
-		<POI MapID="30" xpos="471.314" ypos="27.4713" zpos="463.97"  type="world_boss.claw_of_jormag.phase_2.ranged"     GUID="TkROtk+7oUamcSV1MEeudw=="/>
-		<POI MapID="30" xpos="464.246" ypos="38.2828" zpos="390.025" type="world_boss.claw_of_jormag.phase_2.charrzooka" GUID="W2Ns8AF3PUaLpQ5ekQPqhw==" mapVisibility="0" miniMapVisibility="0"/>
-		<POI MapID="30" xpos="458.044" ypos="36.9157" zpos="391.32"  type="world_boss.claw_of_jormag.phase_2.charrzooka" GUID="9UZzdBza/kWeLWWug/m5cg==" mapVisibility="0" miniMapVisibility="0"/>
-		<POI MapID="30" xpos="451.449" ypos="36.5549" zpos="388.511" type="world_boss.claw_of_jormag.phase_2.charrzooka" GUID="fP4ULTL0dU2R92Lz0uoe+Q==" mapVisibility="0" miniMapVisibility="0"/>
-		<POI MapID="30" xpos="461.584" ypos="36.4432" zpos="391.824" type="world_boss.claw_of_jormag.phase_2.bombs"      GUID="/Xdh8zu1uUKEHsjHhk+fzw==" mapVisibility="0" miniMapVisibility="0"/>
-		<POI MapID="30" xpos="453.972" ypos="35.5834" zpos="390.793" type="world_boss.claw_of_jormag.phase_2.bombs"      GUID="3THnkpBlb02RdS0DUUK8cQ==" mapVisibility="0" miniMapVisibility="0"/>
-		<POI MapID="30" xpos="438.451" ypos="20.5484" zpos="497.225" type="world_boss.claw_of_jormag.phase_2.bombs"      GUID="MX8IqZIijkyOHeTeE/FQbw==" mapVisibility="0" miniMapVisibility="0"/>
-		<POI MapID="30" xpos="473.95"  ypos="32.6501" zpos="431.156" type="world_boss.claw_of_jormag.phase_2.spikes"     GUID="7/xSnt4Yjkups4o37TOjAg==" mapVisibility="0" miniMapVisibility="0"/>
-		<POI MapID="30" xpos="464.905" ypos="31.3703" zpos="431.777" type="world_boss.claw_of_jormag.phase_2.spikes"     GUID="b8HYTsIwzUWRcWz10YUj8A==" mapVisibility="0" miniMapVisibility="0"/>
-		<POI MapID="30" xpos="463.103" ypos="26.9332" zpos="452.435" type="world_boss.claw_of_jormag.phase_2.spikes"     GUID="N7toTRb6o02DOi37yYyvyA==" mapVisibility="0" miniMapVisibility="0"/>
-		<POI MapID="30" xpos="462.185" ypos="29.1038" zpos="441.873" type="world_boss.claw_of_jormag.phase_2.spikes"     GUID="hYK0MXiVlk6QfNJRQsztNg==" mapVisibility="0" miniMapVisibility="0"/>
-		<POI MapID="30" xpos="453.4"   ypos="33.4599" zpos="419.982" type="world_boss.claw_of_jormag.phase_2.spikes"     GUID="pP5n4nBQn0eSuNL8NfhVGg==" mapVisibility="0" miniMapVisibility="0"/>
-		<POI MapID="30" xpos="447.736" ypos="23.3082" zpos="466.846" type="world_boss.claw_of_jormag.phase_2.spikes"     GUID="ATkXg7vQSEyeJAJQWDPSFw==" mapVisibility="0" miniMapVisibility="0"/>
-		<POI MapID="30" xpos="445.919" ypos="30.1608" zpos="436.901" type="world_boss.claw_of_jormag.phase_2.spikes"     GUID="reZH2vqveEiLPfSDXX8xNw==" mapVisibility="0" miniMapVisibility="0"/>
-		<POI MapID="30" xpos="441.78"  ypos="27.1945" zpos="447.845" type="world_boss.claw_of_jormag.phase_2.spikes"     GUID="e8tl3P/PL0CcINLelNqGkg==" mapVisibility="0" miniMapVisibility="0"/>
-		<POI MapID="30" xpos="441.044" ypos="25.662"  zpos="454.175" type="world_boss.claw_of_jormag.phase_2.spikes"     GUID="WQsFyjwx5kKSY5uz1qPztw==" mapVisibility="0" miniMapVisibility="0"/>
-		<POI MapID="30" xpos="437.228" ypos="21.3122" zpos="481.267" type="world_boss.claw_of_jormag.phase_2.spikes"     GUID="tbQ5H3crXka+hKKuX7htgw==" mapVisibility="0" miniMapVisibility="0"/>
-		<POI MapID="30" xpos="429.923" ypos="23.8009" zpos="465.409" type="world_boss.claw_of_jormag.phase_2.spikes"     GUID="5AWPV1/HuUWaFweDwXJ/Hw==" mapVisibility="0" miniMapVisibility="0"/>
-		<POI MapID="30" xpos="442.094" ypos="21.4568" zpos="508.375" type="world_boss.claw_of_jormag.phase_2.fight"      GUID="kCvfC0K7LEWdvcSS+Dujlw=="/>
-
+		<Trail type="world_boss.claw_of_jormag.phase_1.danger" GUID="u4qRv6326UuVN3EdAyvcIg==" trailData="Data/WorldBoss/ClawOfJormag_1.trl" texture="Data/Stripe.png" color="ffff0000" alpha="0.8" fadeNear="2000" fadeFar="3000" animSpeed="0" mapDisplaySize="8" />
+		<Trail type="world_boss.claw_of_jormag.phase_2.danger" GUID="rmnUuIxSZ0efegasoAWLSQ==" trailData="Data/WorldBoss/ClawOfJormag_2.trl" texture="Data/Stripe.png" color="ffff0000" alpha="0.8" fadeNear="2000" fadeFar="3000" animSpeed="0" mapDisplaySize="8" />
+		<POI MapID="30" xpos="605.17" ypos="22.5639" zpos="308.041" type="world_boss.claw_of_jormag.crystals" GUID="+cG78VhtKEqu8lxzp6pd1w==" inGameVisibility="0" />
+		<POI MapID="30" xpos="680.574" ypos="27.3282" zpos="228.856" type="world_boss.claw_of_jormag.crystals" GUID="5NLVLmt3AkWCylP1H2PUIA==" inGameVisibility="0" />
+		<POI MapID="30" xpos="680.428" ypos="36.8587" zpos="445.528" type="world_boss.claw_of_jormag.crystals" GUID="0lLWp1LzNUCaZ7ngatUiYw==" inGameVisibility="0" />
+		<POI MapID="30" xpos="406.847" ypos="28.0181" zpos="385.604" type="world_boss.claw_of_jormag.crystals" GUID="hmAFz/QF30KoQqO/vUvfLQ==" inGameVisibility="0" />
+		<POI MapID="30" xpos="552.172" ypos="50.8183" zpos="392.303" type="world_boss.claw_of_jormag.crystals" GUID="5WyzEheT3kWrXu6ijLC3Mg==" inGameVisibility="0" />
+		<POI MapID="30" xpos="602.102" ypos="63.0258" zpos="431.632" type="world_boss.claw_of_jormag.landing" GUID="Q5MDqi8V/EG1uZRex8xMNA==" inGameVisibility="0" />
+		<POI MapID="30" xpos="561.99" ypos="52.8433" zpos="368.666" type="world_boss.claw_of_jormag.phase_1.ranged" GUID="9ITz6evcP0GKdlBfu5mLkA==" />
+		<POI MapID="30" xpos="521.712" ypos="43.9576" zpos="363.275" type="world_boss.claw_of_jormag.phase_1.charrzooka" GUID="g9jSAs7Kq0qg9fZgWYDUgA==" mapVisibility="0" miniMapVisibility="0" />
+		<POI MapID="30" xpos="509.836" ypos="44.0576" zpos="378.493" type="world_boss.claw_of_jormag.phase_1.charrzooka" GUID="3Y0MprDV2Ey1aAu8hDUy9w==" mapVisibility="0" miniMapVisibility="0" />
+		<POI MapID="30" xpos="514.437" ypos="46.0793" zpos="375.859" type="world_boss.claw_of_jormag.phase_1.explosive" GUID="o2H4TMvDO0+37sHxfBqMnA==" mapVisibility="0" miniMapVisibility="0" />
+		<POI MapID="30" xpos="519.381" ypos="45.7421" zpos="373.129" type="world_boss.claw_of_jormag.phase_1.explosive" GUID="OyXzAVUyO0uuQdJth6paKQ==" mapVisibility="0" miniMapVisibility="0" />
+		<POI MapID="30" xpos="520.022" ypos="46.1048" zpos="368.59" type="world_boss.claw_of_jormag.phase_1.explosive" GUID="BTlgI2WQyU6guFyNCh78uQ==" mapVisibility="0" miniMapVisibility="0" />
+		<POI MapID="30" xpos="602.961" ypos="63.0437" zpos="423.619" type="world_boss.claw_of_jormag.phase_1.fight" GUID="dsREF3Cy1E6+STd7dPQAgQ==" />
+		<POI MapID="30" xpos="595.964" ypos="62.8587" zpos="444.654" type="world_boss.claw_of_jormag.phase_1.fight" GUID="dD59TUXZrkO1smyBlhXg3w==" />
+		<POI MapID="30" xpos="587.949" ypos="62.8407" zpos="431.413" type="world_boss.claw_of_jormag.phase_1.fight" GUID="rSAOLZ0T20++nGrjuXDHWw==" />
+		<POI MapID="30" xpos="471.314" ypos="27.4713" zpos="463.97" type="world_boss.claw_of_jormag.phase_2.ranged" GUID="TkROtk+7oUamcSV1MEeudw==" />
+		<POI MapID="30" xpos="464.246" ypos="38.2828" zpos="390.025" type="world_boss.claw_of_jormag.phase_2.charrzooka" GUID="W2Ns8AF3PUaLpQ5ekQPqhw==" mapVisibility="0" miniMapVisibility="0" />
+		<POI MapID="30" xpos="458.044" ypos="36.9157" zpos="391.32" type="world_boss.claw_of_jormag.phase_2.charrzooka" GUID="9UZzdBza/kWeLWWug/m5cg==" mapVisibility="0" miniMapVisibility="0" />
+		<POI MapID="30" xpos="451.449" ypos="36.5549" zpos="388.511" type="world_boss.claw_of_jormag.phase_2.charrzooka" GUID="fP4ULTL0dU2R92Lz0uoe+Q==" mapVisibility="0" miniMapVisibility="0" />
+		<POI MapID="30" xpos="461.584" ypos="36.4432" zpos="391.824" type="world_boss.claw_of_jormag.phase_2.bombs" GUID="/Xdh8zu1uUKEHsjHhk+fzw==" mapVisibility="0" miniMapVisibility="0" />
+		<POI MapID="30" xpos="453.972" ypos="35.5834" zpos="390.793" type="world_boss.claw_of_jormag.phase_2.bombs" GUID="3THnkpBlb02RdS0DUUK8cQ==" mapVisibility="0" miniMapVisibility="0" />
+		<POI MapID="30" xpos="438.451" ypos="20.5484" zpos="497.225" type="world_boss.claw_of_jormag.phase_2.bombs" GUID="MX8IqZIijkyOHeTeE/FQbw==" mapVisibility="0" miniMapVisibility="0" />
+		<POI MapID="30" xpos="473.95" ypos="32.6501" zpos="431.156" type="world_boss.claw_of_jormag.phase_2.spikes" GUID="7/xSnt4Yjkups4o37TOjAg==" mapVisibility="0" miniMapVisibility="0" />
+		<POI MapID="30" xpos="464.905" ypos="31.3703" zpos="431.777" type="world_boss.claw_of_jormag.phase_2.spikes" GUID="b8HYTsIwzUWRcWz10YUj8A==" mapVisibility="0" miniMapVisibility="0" />
+		<POI MapID="30" xpos="463.103" ypos="26.9332" zpos="452.435" type="world_boss.claw_of_jormag.phase_2.spikes" GUID="N7toTRb6o02DOi37yYyvyA==" mapVisibility="0" miniMapVisibility="0" />
+		<POI MapID="30" xpos="462.185" ypos="29.1038" zpos="441.873" type="world_boss.claw_of_jormag.phase_2.spikes" GUID="hYK0MXiVlk6QfNJRQsztNg==" mapVisibility="0" miniMapVisibility="0" />
+		<POI MapID="30" xpos="453.4" ypos="33.4599" zpos="419.982" type="world_boss.claw_of_jormag.phase_2.spikes" GUID="pP5n4nBQn0eSuNL8NfhVGg==" mapVisibility="0" miniMapVisibility="0" />
+		<POI MapID="30" xpos="447.736" ypos="23.3082" zpos="466.846" type="world_boss.claw_of_jormag.phase_2.spikes" GUID="ATkXg7vQSEyeJAJQWDPSFw==" mapVisibility="0" miniMapVisibility="0" />
+		<POI MapID="30" xpos="445.919" ypos="30.1608" zpos="436.901" type="world_boss.claw_of_jormag.phase_2.spikes" GUID="reZH2vqveEiLPfSDXX8xNw==" mapVisibility="0" miniMapVisibility="0" />
+		<POI MapID="30" xpos="441.78" ypos="27.1945" zpos="447.845" type="world_boss.claw_of_jormag.phase_2.spikes" GUID="e8tl3P/PL0CcINLelNqGkg==" mapVisibility="0" miniMapVisibility="0" />
+		<POI MapID="30" xpos="441.044" ypos="25.662" zpos="454.175" type="world_boss.claw_of_jormag.phase_2.spikes" GUID="WQsFyjwx5kKSY5uz1qPztw==" mapVisibility="0" miniMapVisibility="0" />
+		<POI MapID="30" xpos="437.228" ypos="21.3122" zpos="481.267" type="world_boss.claw_of_jormag.phase_2.spikes" GUID="tbQ5H3crXka+hKKuX7htgw==" mapVisibility="0" miniMapVisibility="0" />
+		<POI MapID="30" xpos="429.923" ypos="23.8009" zpos="465.409" type="world_boss.claw_of_jormag.phase_2.spikes" GUID="5AWPV1/HuUWaFweDwXJ/Hw==" mapVisibility="0" miniMapVisibility="0" />
+		<POI MapID="30" xpos="442.094" ypos="21.4568" zpos="508.375" type="world_boss.claw_of_jormag.phase_2.fight" GUID="kCvfC0K7LEWdvcSS+Dujlw==" />
 		<!-- FIRE ELEMENTAL -->
-		<Trail type="world_boss.fire_elemental.escort" GUID="akhSnww43UyAq8KpNht8kA==" trailData="Data/WorldBoss/FireElemental.trl" texture="Data/SemiLine.png" color="ff00ff00" alpha="0.8" fadeNear="2000" fadeFar="3000" animSpeed="0" mapDisplaySize="15"/>
-		<POI MapID="35" xpos="-192.381" ypos="5.42233" zpos="730.09"  type="world_boss.fire_elemental.escort" GUID="ipKMyTldukia39IQTaBC7g=="/>
-		<POI MapID="35" xpos="-347.527" ypos="24.6112" zpos="730.14"  type="world_boss.fire_elemental.escort" GUID="eaJqT4XMs0+6wqqr3PMwXA==" iconFile="Img/WorldBoss/FireElementalEscort.png" minSize="48" maxSize="64" fadeNear="1500" fadeFar="2500" mapVisibility="0" miniMapVisibility="0"/>
-		<POI MapID="35" xpos="-371.508" ypos="21.6344" zpos="868.946" type="world_boss.fire_elemental.defend" GUID="cwVStAyWGUy35XsaGNqdWg==" inGameVisibility="0"/>
-		<POI MapID="35" xpos="-371.264" ypos="21.6336" zpos="888.975" type="world_boss.fire_elemental.fight"  GUID="zOFp6cuIw0eiNB61QcasxQ=="/>
+		<Trail type="world_boss.fire_elemental.escort" GUID="akhSnww43UyAq8KpNht8kA==" trailData="Data/WorldBoss/FireElemental.trl" texture="Data/SemiLine.png" color="ff00ff00" alpha="0.8" fadeNear="2000" fadeFar="3000" animSpeed="0" mapDisplaySize="15" />
+		<POI MapID="35" xpos="-192.381" ypos="5.42233" zpos="730.09" type="world_boss.fire_elemental.escort" GUID="ipKMyTldukia39IQTaBC7g==" />
+		<POI MapID="35" xpos="-347.527" ypos="24.6112" zpos="730.14" type="world_boss.fire_elemental.escort" GUID="eaJqT4XMs0+6wqqr3PMwXA==" iconFile="Img/WorldBoss/FireElementalEscort.png" minSize="48" maxSize="64" fadeNear="1500" fadeFar="2500" mapVisibility="0" miniMapVisibility="0" />
+		<POI MapID="35" xpos="-371.508" ypos="21.6344" zpos="868.946" type="world_boss.fire_elemental.defend" GUID="cwVStAyWGUy35XsaGNqdWg==" inGameVisibility="0" />
+		<POI MapID="35" xpos="-371.264" ypos="21.6336" zpos="888.975" type="world_boss.fire_elemental.fight" GUID="zOFp6cuIw0eiNB61QcasxQ==" />
 		<!-- Keys -->
-		<POI MapID="35" xpos="-441.695" ypos="49.2586" zpos="708.561" type="world_boss.fire_elemental.key"    GUID="jBp6TOl1/kOhzHC/XeESyw==" iconFile="Img/General/MatrixCubeKey.png" behavior="4" resetLength="300"/>
-		<POI MapID="35" xpos="-437.716" ypos="37.2526" zpos="638.487" type="world_boss.fire_elemental.key"    GUID="s2lvsnJjqEO70+VXOMF1hA==" iconFile="Img/General/MatrixCubeKey.png" behavior="4" resetLength="300"/>
-		<POI MapID="35" xpos="-436.603" ypos="18.6937" zpos="638.111" type="world_boss.fire_elemental.key"    GUID="mguWtAYXjEefyx2ZX8pLug==" iconFile="Img/General/MatrixCubeKey.png" behavior="4" resetLength="300"/>
-		<POI MapID="35" xpos="-431.202" ypos="21.7246" zpos="678.533" type="world_boss.fire_elemental.key"    GUID="eclTDFHE6kep71oy5dDqnQ==" iconFile="Img/General/MatrixCubeKey.png" behavior="4" resetLength="300"/>
-		<POI MapID="35" xpos="-421.212" ypos="24.6468" zpos="717.103" type="world_boss.fire_elemental.key"    GUID="dHueT7HSFEO9+ulzzK4U7g==" iconFile="Img/General/MatrixCubeKey.png" behavior="4" resetLength="300"/>
-		<POI MapID="35" xpos="-398.769" ypos="9.74733" zpos="821.911" type="world_boss.fire_elemental.key"    GUID="yTJ7FbzAJkePoUsr2EEV4A==" iconFile="Img/General/MatrixCubeKey.png" behavior="4" resetLength="300"/>
-		<POI MapID="35" xpos="-376.5"   ypos="11.7"    zpos="832.92"  type="world_boss.fire_elemental.key"    GUID="zKRBfdlFskColfC+YM6y9Q==" iconFile="Img/General/MatrixCubeKey.png" behavior="4" resetLength="300"/>
-		<POI MapID="35" xpos="-376.009" ypos="24.6397" zpos="930.262" type="world_boss.fire_elemental.key"    GUID="lClWg5jWXEWVJbgvi4w8MA==" iconFile="Img/General/MatrixCubeKey.png" behavior="4" resetLength="300"/>
-		<POI MapID="35" xpos="-365.207" ypos="21.6336" zpos="846.123" type="world_boss.fire_elemental.key"    GUID="L7PeqEDzwEqm2Swh6N5lWg==" iconFile="Img/General/MatrixCubeKey.png" behavior="4" resetLength="300"/>
-		<POI MapID="35" xpos="-347.343" ypos="21.6343" zpos="852.571" type="world_boss.fire_elemental.key"    GUID="5Zyme0dE0E+skEjGLtaIeg==" iconFile="Img/General/MatrixCubeKey.png" behavior="4" resetLength="300"/>
-		<POI MapID="35" xpos="-340.445" ypos="9.69198" zpos="839.6"   type="world_boss.fire_elemental.key"    GUID="UuAj3OYWYkmJrQqVkViU9g==" iconFile="Img/General/MatrixCubeKey.png" behavior="4" resetLength="300"/>
-		<POI MapID="35" xpos="-339.988" ypos="13.5241" zpos="804.765" type="world_boss.fire_elemental.key"    GUID="ZhaCVGPLtUej6CxL34wLyQ==" iconFile="Img/General/MatrixCubeKey.png" behavior="4" resetLength="300"/>
-		<POI MapID="35" xpos="-334.349" ypos="23.53"   zpos="909.494" type="world_boss.fire_elemental.key"    GUID="6ziN7wYXEUmxJkGHK6IFeg==" iconFile="Img/General/MatrixCubeKey.png" behavior="4" resetLength="300"/>
-		<POI MapID="35" xpos="-333.372" ypos="26.7202" zpos="647.61"  type="world_boss.fire_elemental.key"    GUID="LMCLf8FBwUyHyyIaKnAfYA==" iconFile="Img/General/MatrixCubeKey.png" behavior="4" resetLength="300"/>
-		<POI MapID="35" xpos="-323.849" ypos="18.7288" zpos="630.262" type="world_boss.fire_elemental.key"    GUID="XQngOTQ0AkWVGsLQpvXV1Q==" iconFile="Img/General/MatrixCubeKey.png" behavior="4" resetLength="300"/>
-		<POI MapID="35" xpos="-321.584" ypos="10.6085" zpos="822.73"  type="world_boss.fire_elemental.key"    GUID="j1QveU3CUkuVo23YaZDMwg==" iconFile="Img/General/MatrixCubeKey.png" behavior="4" resetLength="300"/>
-		<POI MapID="35" xpos="-318.204" ypos="21.7315" zpos="872.946" type="world_boss.fire_elemental.key"    GUID="XEAg+A6c30OdFCTUeWckqQ==" iconFile="Img/General/MatrixCubeKey.png" behavior="4" resetLength="300"/>
-		<POI MapID="35" xpos="-307.137" ypos="16.3272" zpos="796.536" type="world_boss.fire_elemental.key"    GUID="K86FIqoLFUKXRkOV0YsFZw==" iconFile="Img/General/MatrixCubeKey.png" behavior="4" resetLength="300"/>
-		<POI MapID="35" xpos="-288.974" ypos="18.1782" zpos="807.792" type="world_boss.fire_elemental.key"    GUID="0eMjEweNm0GpeV3C52mbwQ==" iconFile="Img/General/MatrixCubeKey.png" behavior="4" resetLength="300"/>
-		<POI MapID="35" xpos="-286.12"  ypos="19.7895" zpos="764.819" type="world_boss.fire_elemental.key"    GUID="+B1O+Jh1KEmP9lt42Dgg8Q==" iconFile="Img/General/MatrixCubeKey.png" behavior="4" resetLength="300"/>
-		<POI MapID="35" xpos="-278.895" ypos="36.386"  zpos="639.849" type="world_boss.fire_elemental.key"    GUID="3K/uQk7mvEueUcgdCzIPAg==" iconFile="Img/General/MatrixCubeKey.png" behavior="4" resetLength="300"/>
-		<POI MapID="35" xpos="-270.986" ypos="18.1224" zpos="688.328" type="world_boss.fire_elemental.key"    GUID="fVH5U2FF7Uq/U7buhRI9kA==" iconFile="Img/General/MatrixCubeKey.png" behavior="4" resetLength="300"/>
-		<POI MapID="35" xpos="-270.842" ypos="18.0996" zpos="806.233" type="world_boss.fire_elemental.key"    GUID="F133BSK+hE6ROrNEZKNBUA==" iconFile="Img/General/MatrixCubeKey.png" behavior="4" resetLength="300"/>
-		<POI MapID="35" xpos="-265.742" ypos="18.6367" zpos="660.201" type="world_boss.fire_elemental.key"    GUID="zIXZBI0b6kmYSgqSsEZEjw==" iconFile="Img/General/MatrixCubeKey.png" behavior="4" resetLength="300"/>
+		<POI MapID="35" xpos="-441.695" ypos="49.2586" zpos="708.561" type="world_boss.fire_elemental.key" GUID="jBp6TOl1/kOhzHC/XeESyw==" iconFile="Img/General/MatrixCubeKey.png" behavior="4" resetLength="300" />
+		<POI MapID="35" xpos="-437.716" ypos="37.2526" zpos="638.487" type="world_boss.fire_elemental.key" GUID="s2lvsnJjqEO70+VXOMF1hA==" iconFile="Img/General/MatrixCubeKey.png" behavior="4" resetLength="300" />
+		<POI MapID="35" xpos="-436.603" ypos="18.6937" zpos="638.111" type="world_boss.fire_elemental.key" GUID="mguWtAYXjEefyx2ZX8pLug==" iconFile="Img/General/MatrixCubeKey.png" behavior="4" resetLength="300" />
+		<POI MapID="35" xpos="-431.202" ypos="21.7246" zpos="678.533" type="world_boss.fire_elemental.key" GUID="eclTDFHE6kep71oy5dDqnQ==" iconFile="Img/General/MatrixCubeKey.png" behavior="4" resetLength="300" />
+		<POI MapID="35" xpos="-421.212" ypos="24.6468" zpos="717.103" type="world_boss.fire_elemental.key" GUID="dHueT7HSFEO9+ulzzK4U7g==" iconFile="Img/General/MatrixCubeKey.png" behavior="4" resetLength="300" />
+		<POI MapID="35" xpos="-398.769" ypos="9.74733" zpos="821.911" type="world_boss.fire_elemental.key" GUID="yTJ7FbzAJkePoUsr2EEV4A==" iconFile="Img/General/MatrixCubeKey.png" behavior="4" resetLength="300" />
+		<POI MapID="35" xpos="-376.5" ypos="11.7" zpos="832.92" type="world_boss.fire_elemental.key" GUID="zKRBfdlFskColfC+YM6y9Q==" iconFile="Img/General/MatrixCubeKey.png" behavior="4" resetLength="300" />
+		<POI MapID="35" xpos="-376.009" ypos="24.6397" zpos="930.262" type="world_boss.fire_elemental.key" GUID="lClWg5jWXEWVJbgvi4w8MA==" iconFile="Img/General/MatrixCubeKey.png" behavior="4" resetLength="300" />
+		<POI MapID="35" xpos="-365.207" ypos="21.6336" zpos="846.123" type="world_boss.fire_elemental.key" GUID="L7PeqEDzwEqm2Swh6N5lWg==" iconFile="Img/General/MatrixCubeKey.png" behavior="4" resetLength="300" />
+		<POI MapID="35" xpos="-347.343" ypos="21.6343" zpos="852.571" type="world_boss.fire_elemental.key" GUID="5Zyme0dE0E+skEjGLtaIeg==" iconFile="Img/General/MatrixCubeKey.png" behavior="4" resetLength="300" />
+		<POI MapID="35" xpos="-340.445" ypos="9.69198" zpos="839.6" type="world_boss.fire_elemental.key" GUID="UuAj3OYWYkmJrQqVkViU9g==" iconFile="Img/General/MatrixCubeKey.png" behavior="4" resetLength="300" />
+		<POI MapID="35" xpos="-339.988" ypos="13.5241" zpos="804.765" type="world_boss.fire_elemental.key" GUID="ZhaCVGPLtUej6CxL34wLyQ==" iconFile="Img/General/MatrixCubeKey.png" behavior="4" resetLength="300" />
+		<POI MapID="35" xpos="-334.349" ypos="23.53" zpos="909.494" type="world_boss.fire_elemental.key" GUID="6ziN7wYXEUmxJkGHK6IFeg==" iconFile="Img/General/MatrixCubeKey.png" behavior="4" resetLength="300" />
+		<POI MapID="35" xpos="-333.372" ypos="26.7202" zpos="647.61" type="world_boss.fire_elemental.key" GUID="LMCLf8FBwUyHyyIaKnAfYA==" iconFile="Img/General/MatrixCubeKey.png" behavior="4" resetLength="300" />
+		<POI MapID="35" xpos="-323.849" ypos="18.7288" zpos="630.262" type="world_boss.fire_elemental.key" GUID="XQngOTQ0AkWVGsLQpvXV1Q==" iconFile="Img/General/MatrixCubeKey.png" behavior="4" resetLength="300" />
+		<POI MapID="35" xpos="-321.584" ypos="10.6085" zpos="822.73" type="world_boss.fire_elemental.key" GUID="j1QveU3CUkuVo23YaZDMwg==" iconFile="Img/General/MatrixCubeKey.png" behavior="4" resetLength="300" />
+		<POI MapID="35" xpos="-318.204" ypos="21.7315" zpos="872.946" type="world_boss.fire_elemental.key" GUID="XEAg+A6c30OdFCTUeWckqQ==" iconFile="Img/General/MatrixCubeKey.png" behavior="4" resetLength="300" />
+		<POI MapID="35" xpos="-307.137" ypos="16.3272" zpos="796.536" type="world_boss.fire_elemental.key" GUID="K86FIqoLFUKXRkOV0YsFZw==" iconFile="Img/General/MatrixCubeKey.png" behavior="4" resetLength="300" />
+		<POI MapID="35" xpos="-288.974" ypos="18.1782" zpos="807.792" type="world_boss.fire_elemental.key" GUID="0eMjEweNm0GpeV3C52mbwQ==" iconFile="Img/General/MatrixCubeKey.png" behavior="4" resetLength="300" />
+		<POI MapID="35" xpos="-286.12" ypos="19.7895" zpos="764.819" type="world_boss.fire_elemental.key" GUID="+B1O+Jh1KEmP9lt42Dgg8Q==" iconFile="Img/General/MatrixCubeKey.png" behavior="4" resetLength="300" />
+		<POI MapID="35" xpos="-278.895" ypos="36.386" zpos="639.849" type="world_boss.fire_elemental.key" GUID="3K/uQk7mvEueUcgdCzIPAg==" iconFile="Img/General/MatrixCubeKey.png" behavior="4" resetLength="300" />
+		<POI MapID="35" xpos="-270.986" ypos="18.1224" zpos="688.328" type="world_boss.fire_elemental.key" GUID="fVH5U2FF7Uq/U7buhRI9kA==" iconFile="Img/General/MatrixCubeKey.png" behavior="4" resetLength="300" />
+		<POI MapID="35" xpos="-270.842" ypos="18.0996" zpos="806.233" type="world_boss.fire_elemental.key" GUID="F133BSK+hE6ROrNEZKNBUA==" iconFile="Img/General/MatrixCubeKey.png" behavior="4" resetLength="300" />
+		<POI MapID="35" xpos="-265.742" ypos="18.6367" zpos="660.201" type="world_boss.fire_elemental.key" GUID="zIXZBI0b6kmYSgqSsEZEjw==" iconFile="Img/General/MatrixCubeKey.png" behavior="4" resetLength="300" />
 		<!-- Water -->
-		<Trail type="world_boss.fire_elemental.water" GUID="G2EW+KwqVUeafU+dmRlA/A==" trailData="Data/General/Bosses/CleanupCrewWater.trl" texture="Data/Arrow.png" color="ff00ffff" alpha="0.8" fadeNear="1500" fadeFar="2000" animSpeed="0" mapDisplaySize="15"/>
-		<POI MapID="35" xpos="-381.706" ypos="24.5424" zpos="798.704" type="world_boss.fire_elemental.water"  GUID="FBtz9ztF1E+s3aQUul0btQ==" iconFile="Img/Numbers/1.png"         color="ff00ffff" minSize="20" maxSize="32"/>
-		<POI MapID="35" xpos="-450.14"  ypos="12.8609" zpos="820.595" type="world_boss.fire_elemental.water"  GUID="cOMUe1wYuk2qh9Bp57egDg==" iconFile="Img/Icons/Fight.png"       fadeNear="1500" fadeFar="2500" mapVisibility="0" miniMapVisibility="0"/>
-		<POI MapID="35" xpos="-450.091" ypos="10.6268" zpos="820.67"  type="world_boss.fire_elemental.water"  GUID="GQ9A0gOAzk+u/rplB4LBfQ==" iconFile="Img/Icons/Interaction.png" fadeNear="1500" fadeFar="2500" mapVisibility="0" miniMapVisibility="0"/>
+		<Trail type="world_boss.fire_elemental.water" GUID="G2EW+KwqVUeafU+dmRlA/A==" trailData="Data/General/Bosses/CleanupCrewWater.trl" texture="Data/Arrow.png" color="ff00ffff" alpha="0.8" fadeNear="1500" fadeFar="2000" animSpeed="0" mapDisplaySize="15" />
+		<POI MapID="35" xpos="-381.706" ypos="24.5424" zpos="798.704" type="world_boss.fire_elemental.water" GUID="FBtz9ztF1E+s3aQUul0btQ==" iconFile="Img/Numbers/1.png" color="ff00ffff" minSize="20" maxSize="32" />
+		<POI MapID="35" xpos="-450.14" ypos="12.8609" zpos="820.595" type="world_boss.fire_elemental.water" GUID="cOMUe1wYuk2qh9Bp57egDg==" iconFile="Img/Icons/Fight.png" fadeNear="1500" fadeFar="2500" mapVisibility="0" miniMapVisibility="0" />
+		<POI MapID="35" xpos="-450.091" ypos="10.6268" zpos="820.67" type="world_boss.fire_elemental.water" GUID="GQ9A0gOAzk+u/rplB4LBfQ==" iconFile="Img/Icons/Interaction.png" fadeNear="1500" fadeFar="2500" mapVisibility="0" miniMapVisibility="0" />
 		<!-- Earth -->
-		<Trail type="world_boss.fire_elemental.earth" GUID="u7sR9YbD8Eer8ei6JG+iIA==" trailData="Data/General/Bosses/CleanupCrewEarth.trl" texture="Data/Arrow.png" color="ffff8000" alpha="0.8" fadeNear="1500" fadeFar="2000" animSpeed="0" mapDisplaySize="15"/>
-		<POI MapID="35" xpos="-347.03"  ypos="27.4699" zpos="710.472" type="world_boss.fire_elemental.earth"  GUID="rBeqftXCBkuzj0eJvl1E1A==" iconFile="Img/Numbers/2.png"         color="ffff8000" minSize="20" maxSize="32"/>
-		<POI MapID="35" xpos="-284.98"  ypos="36.3718" zpos="696.789" type="world_boss.fire_elemental.earth"  GUID="3gMdsk6pwU+lv4Dvm5UssQ==" iconFile="Img/Icons/Interaction.png" fadeNear="1500" fadeFar="2500" mapVisibility="0" miniMapVisibility="0"/>
+		<Trail type="world_boss.fire_elemental.earth" GUID="u7sR9YbD8Eer8ei6JG+iIA==" trailData="Data/General/Bosses/CleanupCrewEarth.trl" texture="Data/Arrow.png" color="ffff8000" alpha="0.8" fadeNear="1500" fadeFar="2000" animSpeed="0" mapDisplaySize="15" />
+		<POI MapID="35" xpos="-347.03" ypos="27.4699" zpos="710.472" type="world_boss.fire_elemental.earth" GUID="rBeqftXCBkuzj0eJvl1E1A==" iconFile="Img/Numbers/2.png" color="ffff8000" minSize="20" maxSize="32" />
+		<POI MapID="35" xpos="-284.98" ypos="36.3718" zpos="696.789" type="world_boss.fire_elemental.earth" GUID="3gMdsk6pwU+lv4Dvm5UssQ==" iconFile="Img/Icons/Interaction.png" fadeNear="1500" fadeFar="2500" mapVisibility="0" miniMapVisibility="0" />
 		<!-- Ice -->
-		<Trail type="world_boss.fire_elemental.ice" GUID="Ctn6UusTg0ev1FPi/fdPbg==" trailData="Data/General/Bosses/CleanupCrewIce.trl" texture="Data/Arrow.png" color="ff00ff00" alpha="0.8" fadeNear="1500" fadeFar="2000" animSpeed="0" mapDisplaySize="15"/>
-		<POI MapID="35" xpos="-386.788" ypos="27.5334" zpos="710.114" type="world_boss.fire_elemental.ice"    GUID="hh4aqL+7Z0KPmkOPDsvnJQ==" iconFile="Img/Numbers/3.png"         color="ff00ff00" minSize="20" maxSize="32"/>
-		<POI MapID="35" xpos="-424.768" ypos="37.5857" zpos="669.226" type="world_boss.fire_elemental.ice"    GUID="1URHQgTKxkCVokzfkqKzBQ==" iconFile="Img/Icons/Danger.png"      fadeNear="1500" fadeFar="2500" mapVisibility="0" miniMapVisibility="0"/>
-		<POI MapID="35" xpos="-430.857" ypos="37.2516" zpos="642.154" type="world_boss.fire_elemental.ice"    GUID="PDqYxIWsmUit3qXxZ9aU9A==" iconFile="Img/Icons/Dodge.png"       fadeNear="1500" fadeFar="2500" heightOffset="0.5" mapVisibility="0" miniMapVisibility="0"/>
-		<POI MapID="35" xpos="-439.805" ypos="41.5373" zpos="638.634" type="world_boss.fire_elemental.ice"    GUID="inrHfQ/vFUat4Oz2aYigWg==" iconFile="Img/Icons/Danger.png"      fadeNear="1500" fadeFar="2500" mapVisibility="0" miniMapVisibility="0"/>
-		<POI MapID="35" xpos="-432.846" ypos="49.9039" zpos="675.448" type="world_boss.fire_elemental.ice"    GUID="ONhOxbTnHEW7TS9ox+dNYQ==" iconFile="Img/Icons/Dodge.png"       fadeNear="1500" fadeFar="2500" heightOffset="0.5" mapVisibility="0" miniMapVisibility="0"/>
-		<POI MapID="35" xpos="-429.938" ypos="49.8836" zpos="683.542" type="world_boss.fire_elemental.ice"    GUID="+p0lUpET8Uy0G3OfqyaGLA==" iconFile="Img/Icons/Danger.png"      fadeNear="1500" fadeFar="2500" mapVisibility="0" miniMapVisibility="0"/>
-		<POI MapID="35" xpos="-440.557" ypos="59.4203" zpos="666.491" type="world_boss.fire_elemental.ice"    GUID="qVtlkTzz+0GSmRIpy5+nBw==" iconFile="Img/Icons/Run.png"         fadeNear="1500" fadeFar="2500" heightOffset="0.5" mapVisibility="0" miniMapVisibility="0"/>
-		<POI MapID="35" xpos="-435.836" ypos="59.4203" zpos="666.605" type="world_boss.fire_elemental.ice"    GUID="U/Lkw/KOvkiOIXm5gX3hPg==" iconFile="Img/Icons/Run.png"         fadeNear="1500" fadeFar="2500" heightOffset="0.5" mapVisibility="0" miniMapVisibility="0"/>
-		<POI MapID="35" xpos="-436.845" ypos="59.4203" zpos="669.62"  type="world_boss.fire_elemental.ice"    GUID="aDwsbj7xcESJTCypELo/Tw==" iconFile="Img/Icons/Danger.png"      fadeNear="1500" fadeFar="2500" mapVisibility="0" miniMapVisibility="0"/>
-		<POI MapID="35" xpos="-435.454" ypos="57.629"  zpos="680.367" type="world_boss.fire_elemental.ice"    GUID="OWtXCAq/lkqmvgjNovOSqA==" iconFile="Img/Icons/Interaction.png" fadeNear="1500" fadeFar="2500" mapVisibility="0" miniMapVisibility="0"/>
+		<Trail type="world_boss.fire_elemental.ice" GUID="Ctn6UusTg0ev1FPi/fdPbg==" trailData="Data/General/Bosses/CleanupCrewIce.trl" texture="Data/Arrow.png" color="ff00ff00" alpha="0.8" fadeNear="1500" fadeFar="2000" animSpeed="0" mapDisplaySize="15" />
+		<POI MapID="35" xpos="-386.788" ypos="27.5334" zpos="710.114" type="world_boss.fire_elemental.ice" GUID="hh4aqL+7Z0KPmkOPDsvnJQ==" iconFile="Img/Numbers/3.png" color="ff00ff00" minSize="20" maxSize="32" />
+		<POI MapID="35" xpos="-424.768" ypos="37.5857" zpos="669.226" type="world_boss.fire_elemental.ice" GUID="1URHQgTKxkCVokzfkqKzBQ==" iconFile="Img/Icons/Danger.png" fadeNear="1500" fadeFar="2500" mapVisibility="0" miniMapVisibility="0" />
+		<POI MapID="35" xpos="-430.857" ypos="37.2516" zpos="642.154" type="world_boss.fire_elemental.ice" GUID="PDqYxIWsmUit3qXxZ9aU9A==" iconFile="Img/Icons/Dodge.png" fadeNear="1500" fadeFar="2500" heightOffset="0.5" mapVisibility="0" miniMapVisibility="0" />
+		<POI MapID="35" xpos="-439.805" ypos="41.5373" zpos="638.634" type="world_boss.fire_elemental.ice" GUID="inrHfQ/vFUat4Oz2aYigWg==" iconFile="Img/Icons/Danger.png" fadeNear="1500" fadeFar="2500" mapVisibility="0" miniMapVisibility="0" />
+		<POI MapID="35" xpos="-432.846" ypos="49.9039" zpos="675.448" type="world_boss.fire_elemental.ice" GUID="ONhOxbTnHEW7TS9ox+dNYQ==" iconFile="Img/Icons/Dodge.png" fadeNear="1500" fadeFar="2500" heightOffset="0.5" mapVisibility="0" miniMapVisibility="0" />
+		<POI MapID="35" xpos="-429.938" ypos="49.8836" zpos="683.542" type="world_boss.fire_elemental.ice" GUID="+p0lUpET8Uy0G3OfqyaGLA==" iconFile="Img/Icons/Danger.png" fadeNear="1500" fadeFar="2500" mapVisibility="0" miniMapVisibility="0" />
+		<POI MapID="35" xpos="-440.557" ypos="59.4203" zpos="666.491" type="world_boss.fire_elemental.ice" GUID="qVtlkTzz+0GSmRIpy5+nBw==" iconFile="Img/Icons/Run.png" fadeNear="1500" fadeFar="2500" heightOffset="0.5" mapVisibility="0" miniMapVisibility="0" />
+		<POI MapID="35" xpos="-435.836" ypos="59.4203" zpos="666.605" type="world_boss.fire_elemental.ice" GUID="U/Lkw/KOvkiOIXm5gX3hPg==" iconFile="Img/Icons/Run.png" fadeNear="1500" fadeFar="2500" heightOffset="0.5" mapVisibility="0" miniMapVisibility="0" />
+		<POI MapID="35" xpos="-436.845" ypos="59.4203" zpos="669.62" type="world_boss.fire_elemental.ice" GUID="aDwsbj7xcESJTCypELo/Tw==" iconFile="Img/Icons/Danger.png" fadeNear="1500" fadeFar="2500" mapVisibility="0" miniMapVisibility="0" />
+		<POI MapID="35" xpos="-435.454" ypos="57.629" zpos="680.367" type="world_boss.fire_elemental.ice" GUID="OWtXCAq/lkqmvgjNovOSqA==" iconFile="Img/Icons/Interaction.png" fadeNear="1500" fadeFar="2500" mapVisibility="0" miniMapVisibility="0" />
 		<!-- Fire -->
-		<Trail type="world_boss.fire_elemental.fire" GUID="x01G5fTVT0iMuYDwwDEJcg==" trailData="Data/General/Bosses/CleanupCrewFire.trl" texture="Data/Arrow.png" color="ffff0000" alpha="0.8" fadeNear="1500" fadeFar="2000" animSpeed="0" mapDisplaySize="15"/>
-		<POI MapID="35" xpos="-376.914" ypos="24.6162" zpos="802.183" type="world_boss.fire_elemental.fire"   GUID="ATT5aR74/EC+4ldV8x/DYg==" iconFile="Img/Numbers/4.png"           color="ffff0000" minSize="20" maxSize="32"/>
-		<POI MapID="35" xpos="-371.264" ypos="23.6336" zpos="888.975" type="world_boss.fire_elemental.fire"   GUID="qoTVYercJE+sR2KsMVxByQ==" iconFile="Img/Icons/Interaction.png"   fadeNear="1500" fadeFar="2500" mapVisibility="0" miniMapVisibility="0"/>
-		<POI MapID="35" xpos="-371.243" ypos="26.6336" zpos="888.809" type="world_boss.fire_elemental.fire"   GUID="vTJwmdkL8kyU4glENcGOIA==" iconFile="Img/General/CleanupCrew.png" minSize="48" maxSize="64" alpha="0.8" fadeNear="1900" fadeFar="2000" heightOffset="0.5" mapVisibility="0" miniMapVisibility="0"/>
-
+		<Trail type="world_boss.fire_elemental.fire" GUID="x01G5fTVT0iMuYDwwDEJcg==" trailData="Data/General/Bosses/CleanupCrewFire.trl" texture="Data/Arrow.png" color="ffff0000" alpha="0.8" fadeNear="1500" fadeFar="2000" animSpeed="0" mapDisplaySize="15" />
+		<POI MapID="35" xpos="-376.914" ypos="24.6162" zpos="802.183" type="world_boss.fire_elemental.fire" GUID="ATT5aR74/EC+4ldV8x/DYg==" iconFile="Img/Numbers/4.png" color="ffff0000" minSize="20" maxSize="32" />
+		<POI MapID="35" xpos="-371.264" ypos="23.6336" zpos="888.975" type="world_boss.fire_elemental.fire" GUID="qoTVYercJE+sR2KsMVxByQ==" iconFile="Img/Icons/Interaction.png" fadeNear="1500" fadeFar="2500" mapVisibility="0" miniMapVisibility="0" />
+		<POI MapID="35" xpos="-371.243" ypos="26.6336" zpos="888.809" type="world_boss.fire_elemental.fire" GUID="vTJwmdkL8kyU4glENcGOIA==" iconFile="Img/General/CleanupCrew.png" minSize="48" maxSize="64" alpha="0.8" fadeNear="1900" fadeFar="2000" heightOffset="0.5" mapVisibility="0" miniMapVisibility="0" />
 		<!-- GOLEM MARK II -->
-		<POI MapID="39" xpos="1041.84" ypos="2.5588"  zpos="77.4533"  type="world_boss.golem_mark_ii.inquest" GUID="s7eSw65sREioimHTyoWSdw=="/>
-		<POI MapID="39" xpos="1040.51" ypos="2.09838" zpos="115.975"  type="world_boss.golem_mark_ii.inquest" GUID="vlh22tGVdUOf3yJzLCkyeg=="/>
-		<POI MapID="39" xpos="1021.65" ypos="2.53794" zpos="0.200233" type="world_boss.golem_mark_ii.inquest" GUID="mOaJSoUcQEKnZELXoA9HOw=="/>
-		<POI MapID="39" xpos="1015.96" ypos="2.55786" zpos="112.297"  type="world_boss.golem_mark_ii.inquest" GUID="fvEIFbcBfU2jPNUX6PVqvQ=="/>
-		<POI MapID="39" xpos="1012.9"  ypos="2.5744"  zpos="146.346"  type="world_boss.golem_mark_ii.inquest" GUID="fDLriJCjcESg8grB+5HuZw=="/>
-		<POI MapID="39" xpos="997.793" ypos="2.43299" zpos="23.5092"  type="world_boss.golem_mark_ii.inquest" GUID="kx7GNrLDRUWEnfXPCBS1mg=="/>
-		<POI MapID="39" xpos="992.984" ypos="2.31245" zpos="120.39"   type="world_boss.golem_mark_ii.inquest" GUID="zKVNaY5aoUu2zpzqc1SEvQ=="/>
-		<POI MapID="39" xpos="941.131" ypos="2.70803" zpos="-12.3882" type="world_boss.golem_mark_ii.inquest" GUID="vv5nemv8BEiU40G/PxTIdQ=="/>
-		<POI MapID="39" xpos="935.9"   ypos="2.03449" zpos="116.395"  type="world_boss.golem_mark_ii.inquest" GUID="C+AdpL5IIk+bzF2Tq1n4sw=="/>
-		<POI MapID="39" xpos="928.949" ypos="2.46216" zpos="18.0241"  type="world_boss.golem_mark_ii.inquest" GUID="wu/9cAiUaECGNErpZU/ZvA=="/>
-		<POI MapID="39" xpos="916.694" ypos="2.46824" zpos="-5.98184" type="world_boss.golem_mark_ii.inquest" GUID="l0JwcPp8kEWAga9aTc42tw=="/>
-		<POI MapID="39" xpos="894.932" ypos="2.38806" zpos="1.16689"  type="world_boss.golem_mark_ii.inquest" GUID="KbjXjanu/0awrBeMeSzpqQ=="/>
-		<POI MapID="39" xpos="898.26"  ypos="9.59822" zpos="75.2367"  type="world_boss.golem_mark_ii.fight"   GUID="I9QHQQZxi0aG16gwd5a4Hw=="/>
-
+		<POI MapID="39" xpos="1041.84" ypos="2.5588" zpos="77.4533" type="world_boss.golem_mark_ii.inquest" GUID="s7eSw65sREioimHTyoWSdw==" />
+		<POI MapID="39" xpos="1040.51" ypos="2.09838" zpos="115.975" type="world_boss.golem_mark_ii.inquest" GUID="vlh22tGVdUOf3yJzLCkyeg==" />
+		<POI MapID="39" xpos="1021.65" ypos="2.53794" zpos="0.200233" type="world_boss.golem_mark_ii.inquest" GUID="mOaJSoUcQEKnZELXoA9HOw==" />
+		<POI MapID="39" xpos="1015.96" ypos="2.55786" zpos="112.297" type="world_boss.golem_mark_ii.inquest" GUID="fvEIFbcBfU2jPNUX6PVqvQ==" />
+		<POI MapID="39" xpos="1012.9" ypos="2.5744" zpos="146.346" type="world_boss.golem_mark_ii.inquest" GUID="fDLriJCjcESg8grB+5HuZw==" />
+		<POI MapID="39" xpos="997.793" ypos="2.43299" zpos="23.5092" type="world_boss.golem_mark_ii.inquest" GUID="kx7GNrLDRUWEnfXPCBS1mg==" />
+		<POI MapID="39" xpos="992.984" ypos="2.31245" zpos="120.39" type="world_boss.golem_mark_ii.inquest" GUID="zKVNaY5aoUu2zpzqc1SEvQ==" />
+		<POI MapID="39" xpos="941.131" ypos="2.70803" zpos="-12.3882" type="world_boss.golem_mark_ii.inquest" GUID="vv5nemv8BEiU40G/PxTIdQ==" />
+		<POI MapID="39" xpos="935.9" ypos="2.03449" zpos="116.395" type="world_boss.golem_mark_ii.inquest" GUID="C+AdpL5IIk+bzF2Tq1n4sw==" />
+		<POI MapID="39" xpos="928.949" ypos="2.46216" zpos="18.0241" type="world_boss.golem_mark_ii.inquest" GUID="wu/9cAiUaECGNErpZU/ZvA==" />
+		<POI MapID="39" xpos="916.694" ypos="2.46824" zpos="-5.98184" type="world_boss.golem_mark_ii.inquest" GUID="l0JwcPp8kEWAga9aTc42tw==" />
+		<POI MapID="39" xpos="894.932" ypos="2.38806" zpos="1.16689" type="world_boss.golem_mark_ii.inquest" GUID="KbjXjanu/0awrBeMeSzpqQ==" />
+		<POI MapID="39" xpos="898.26" ypos="9.59822" zpos="75.2367" type="world_boss.golem_mark_ii.fight" GUID="I9QHQQZxi0aG16gwd5a4Hw==" />
 		<!-- GREAT JUNGLE WURM -->
-		<Trail type="world_boss.jungle_wurm.growth" GUID="EPjemGnI5Ey7eZHluP9uLg==" trailData="Data/WorldBoss/JungleWurm_Growth.trl" texture="Data/SemiLine.png" color="ff00ff00" alpha="0.8" fadeNear="2000" fadeFar="3000" animSpeed="0" mapDisplaySize="15"/>
-		<Trail type="world_boss.jungle_wurm.grub"   GUID="LRx1TsItjUm7sw9gFSYv9Q==" trailData="Data/WorldBoss/JungleWurm_Grub.trl"   texture="Data/SemiLine.png" color="ffffff00" alpha="0.8" fadeNear="2000" fadeFar="3000" animSpeed="0" mapDisplaySize="15"/>
-		<POI MapID="34" xpos="-231.032" ypos="-0.1755"  zpos="975.536" type="world_boss.jungle_wurm.growth" GUID="7ijpEhlqdEqmH+LuhmgaCA=="/>
-		<POI MapID="34" xpos="-230.281" ypos="-0.3618"  zpos="716.472" type="world_boss.jungle_wurm.growth" GUID="Y4ON+Pa37kuktPGUVF55ww=="/>
-		<POI MapID="34" xpos="-197.022" ypos="1.33515"  zpos="862.531" type="world_boss.jungle_wurm.grub"   GUID="pLuPUnWoPUujMQfVlFZtfQ=="/>
-		<POI MapID="34" xpos="-421.353" ypos="0.373931" zpos="832.217" type="world_boss.jungle_wurm.avatar" GUID="w1flxLpe3kqYWxpVWBIxXg=="/>
-		<POI MapID="34" xpos="-412.214" ypos="0.496177" zpos="881.805" type="world_boss.jungle_wurm.avatar" GUID="lIjc7PvOa06lTcUTikci2w=="/>
-		<POI MapID="34" xpos="-370.923" ypos="0.105807" zpos="857.231" type="world_boss.jungle_wurm.avatar" GUID="1BevXksrgUKobE5C8PZLSg=="/>
-		<POI MapID="34" xpos="-390.487" ypos="0.028873" zpos="845.995" type="world_boss.jungle_wurm.wurm"   GUID="67Cy+Q5HNEiyESheynPrgg=="/>
-
+		<Trail type="world_boss.jungle_wurm.growth" GUID="EPjemGnI5Ey7eZHluP9uLg==" trailData="Data/WorldBoss/JungleWurm_Growth.trl" texture="Data/SemiLine.png" color="ff00ff00" alpha="0.8" fadeNear="2000" fadeFar="3000" animSpeed="0" mapDisplaySize="15" />
+		<Trail type="world_boss.jungle_wurm.grub" GUID="LRx1TsItjUm7sw9gFSYv9Q==" trailData="Data/WorldBoss/JungleWurm_Grub.trl" texture="Data/SemiLine.png" color="ffffff00" alpha="0.8" fadeNear="2000" fadeFar="3000" animSpeed="0" mapDisplaySize="15" />
+		<POI MapID="34" xpos="-231.032" ypos="-0.1755" zpos="975.536" type="world_boss.jungle_wurm.growth" GUID="7ijpEhlqdEqmH+LuhmgaCA==" />
+		<POI MapID="34" xpos="-230.281" ypos="-0.3618" zpos="716.472" type="world_boss.jungle_wurm.growth" GUID="Y4ON+Pa37kuktPGUVF55ww==" />
+		<POI MapID="34" xpos="-197.022" ypos="1.33515" zpos="862.531" type="world_boss.jungle_wurm.grub" GUID="pLuPUnWoPUujMQfVlFZtfQ==" />
+		<POI MapID="34" xpos="-421.353" ypos="0.373931" zpos="832.217" type="world_boss.jungle_wurm.avatar" GUID="w1flxLpe3kqYWxpVWBIxXg==" />
+		<POI MapID="34" xpos="-412.214" ypos="0.496177" zpos="881.805" type="world_boss.jungle_wurm.avatar" GUID="lIjc7PvOa06lTcUTikci2w==" />
+		<POI MapID="34" xpos="-370.923" ypos="0.105807" zpos="857.231" type="world_boss.jungle_wurm.avatar" GUID="1BevXksrgUKobE5C8PZLSg==" />
+		<POI MapID="34" xpos="-390.487" ypos="0.028873" zpos="845.995" type="world_boss.jungle_wurm.wurm" GUID="67Cy+Q5HNEiyESheynPrgg==" />
 		<!-- MEGADESTROYER -->
-		<Trail type="world_boss.megadestroyer" GUID="FwdJyux8UE2SiRmoA3cLow==" trailData="Data/WorldBoss/Megadestroyer.trl" texture="Data/SemiLineMid.png" color="ff00ff00" alpha="0.8" fadeNear="2000" fadeFar="3000" animSpeed="0" mapDisplaySize="15"/>
-		<POI MapID="39" xpos="-79.3012" ypos="37.014"  zpos="-246.133" type="world_boss.megadestroyer.inquest"      GUID="Gz9X0dK0Y0CXwEkMzOGokw=="/>
-		<POI MapID="39" xpos="-466.23"  ypos="89.9235" zpos="-525.458" type="world_boss.megadestroyer.lab"          GUID="Lgfro9w1FkKX5iz90ALxQA=="/>
-		<POI MapID="39" xpos="-433.659" ypos="90.8825" zpos="-533.31"  type="world_boss.megadestroyer.lab"          GUID="C8eJ5bZMgEC7S97eq/D27g=="/>
-		<POI MapID="39" xpos="-352.574" ypos="7.59119" zpos="-391.51"  type="world_boss.megadestroyer.destroyer_s"  GUID="/x272D4lZkaQkkNwdyMtGQ=="/>
-		<POI MapID="39" xpos="-216.381" ypos="10.6931" zpos="-344.259" type="world_boss.megadestroyer.destroyer_se" GUID="sa3QqXX6YU+4biN1lvOyew=="/>
-		<POI MapID="39" xpos="-433.295" ypos="68.0976" zpos="-34.3702" type="world_boss.megadestroyer.destroyer_n"  GUID="Rq78li4l6kiAUvwYfmKGnA=="/>
-		<POI MapID="39" xpos="-357.595" ypos="16.9371" zpos="-208.495" type="world_boss.megadestroyer.protect"      GUID="I/drV1dkdUGV4R7H7FmVHA=="/>
-		<POI MapID="39" xpos="-319.715" ypos="14.1943" zpos="-244.203" type="world_boss.megadestroyer.protect"      GUID="yuPexbbQOEuUEdZA7F8+hw=="/>
-		<POI MapID="39" xpos="-310.011" ypos="11.9033" zpos="-196.42"  type="world_boss.megadestroyer.protect"      GUID="GlBsl/kZ3EePtYdxCt0EEQ=="/>
-		<POI MapID="39" xpos="-320.974" ypos="9.70499" zpos="-221.501" type="world_boss.megadestroyer.fight"        GUID="Drnp2iTqZkuipOAHMDBUlw=="/>
-		<POI MapID="39" xpos="-343.493" ypos="8.51301" zpos="-238.602" type="world_boss.megadestroyer.phase1"       GUID="jNrroHaMDU+c09bcHiZcIQ=="/>
-		<POI MapID="39" xpos="-328.256" ypos="10.4194" zpos="-186.502" type="world_boss.megadestroyer.phase1"       GUID="bsTysADrVkOkGXm7I3Y0EA=="/>
-		<POI MapID="39" xpos="-296.043" ypos="8.69673" zpos="-225.04"  type="world_boss.megadestroyer.phase1"       GUID="JfQl5kkwVkmGg9NHouoSHQ=="/>
-		<POI MapID="39" xpos="-365.308" ypos="18.6851" zpos="-191.972" type="world_boss.megadestroyer.phase2"       GUID="qq3KoZzEcUCqQLIosY89rA=="/>
-		<POI MapID="39" xpos="-355.545" ypos="8.21143" zpos="-264.872" type="world_boss.megadestroyer.phase2"       GUID="RF7L0305t0uTDSiutrzvjQ=="/>
-		<POI MapID="39" xpos="-276.92"  ypos="11.5648" zpos="-203.977" type="world_boss.megadestroyer.phase2"       GUID="RcJ9zRS2tkWKhsrgQM81Tg=="/>
-
+		<Trail type="world_boss.megadestroyer" GUID="FwdJyux8UE2SiRmoA3cLow==" trailData="Data/WorldBoss/Megadestroyer.trl" texture="Data/SemiLineMid.png" color="ff00ff00" alpha="0.8" fadeNear="2000" fadeFar="3000" animSpeed="0" mapDisplaySize="15" />
+		<POI MapID="39" xpos="-79.3012" ypos="37.014" zpos="-246.133" type="world_boss.megadestroyer.inquest" GUID="Gz9X0dK0Y0CXwEkMzOGokw==" />
+		<POI MapID="39" xpos="-466.23" ypos="89.9235" zpos="-525.458" type="world_boss.megadestroyer.lab" GUID="Lgfro9w1FkKX5iz90ALxQA==" />
+		<POI MapID="39" xpos="-433.659" ypos="90.8825" zpos="-533.31" type="world_boss.megadestroyer.lab" GUID="C8eJ5bZMgEC7S97eq/D27g==" />
+		<POI MapID="39" xpos="-352.574" ypos="7.59119" zpos="-391.51" type="world_boss.megadestroyer.destroyer_s" GUID="/x272D4lZkaQkkNwdyMtGQ==" />
+		<POI MapID="39" xpos="-216.381" ypos="10.6931" zpos="-344.259" type="world_boss.megadestroyer.destroyer_se" GUID="sa3QqXX6YU+4biN1lvOyew==" />
+		<POI MapID="39" xpos="-433.295" ypos="68.0976" zpos="-34.3702" type="world_boss.megadestroyer.destroyer_n" GUID="Rq78li4l6kiAUvwYfmKGnA==" />
+		<POI MapID="39" xpos="-357.595" ypos="16.9371" zpos="-208.495" type="world_boss.megadestroyer.protect" GUID="I/drV1dkdUGV4R7H7FmVHA==" />
+		<POI MapID="39" xpos="-319.715" ypos="14.1943" zpos="-244.203" type="world_boss.megadestroyer.protect" GUID="yuPexbbQOEuUEdZA7F8+hw==" />
+		<POI MapID="39" xpos="-310.011" ypos="11.9033" zpos="-196.42" type="world_boss.megadestroyer.protect" GUID="GlBsl/kZ3EePtYdxCt0EEQ==" />
+		<POI MapID="39" xpos="-320.974" ypos="9.70499" zpos="-221.501" type="world_boss.megadestroyer.fight" GUID="Drnp2iTqZkuipOAHMDBUlw==" />
+		<POI MapID="39" xpos="-343.493" ypos="8.51301" zpos="-238.602" type="world_boss.megadestroyer.phase1" GUID="jNrroHaMDU+c09bcHiZcIQ==" />
+		<POI MapID="39" xpos="-328.256" ypos="10.4194" zpos="-186.502" type="world_boss.megadestroyer.phase1" GUID="bsTysADrVkOkGXm7I3Y0EA==" />
+		<POI MapID="39" xpos="-296.043" ypos="8.69673" zpos="-225.04" type="world_boss.megadestroyer.phase1" GUID="JfQl5kkwVkmGg9NHouoSHQ==" />
+		<POI MapID="39" xpos="-365.308" ypos="18.6851" zpos="-191.972" type="world_boss.megadestroyer.phase2" GUID="qq3KoZzEcUCqQLIosY89rA==" />
+		<POI MapID="39" xpos="-355.545" ypos="8.21143" zpos="-264.872" type="world_boss.megadestroyer.phase2" GUID="RF7L0305t0uTDSiutrzvjQ==" />
+		<POI MapID="39" xpos="-276.92" ypos="11.5648" zpos="-203.977" type="world_boss.megadestroyer.phase2" GUID="RcJ9zRS2tkWKhsrgQM81Tg==" />
 		<!-- MODNIIR ULGOTH -->
-		<Trail type="world_boss.modniir_ulgoth.defend"  GUID="LKbMcEK/lkCgyFCrKZbtFg==" trailData="Data/WorldBoss/UlgothTheModniir.trl"       texture="Data/SemiLineMid.png" color="ff00ff00" alpha="0.8" fadeNear="2000" fadeFar="3000" animSpeed="0" mapDisplaySize="15"/>
-		<Trail type="world_boss.modniir_ulgoth.assault" GUID="UpDDZG12mUqb3xrWXmDBUA==" trailData="Data/WorldBoss/UlgothTheModniirEscort.trl" texture="Data/SemiLineMid.png" color="ffff0000" alpha="0.8" fadeNear="2000" fadeFar="3000" animSpeed="0" mapDisplaySize="15"/>
-		<POI MapID="17" xpos="-505.423" ypos="19.0667" zpos="160.204" type="world_boss.modniir_ulgoth.forward"    GUID="TEK/uJ9sKkmhVNcWxDcRxg=="/>
-		<POI MapID="17" xpos="-255.25"  ypos="35.3468" zpos="390.196" type="world_boss.modniir_ulgoth.bridgehead" GUID="b/OTRqOfiECa9mz/DYzgGQ=="/>
-		<POI MapID="17" xpos="-204.054" ypos="31.6558" zpos="396.791" type="world_boss.modniir_ulgoth.defend"     GUID="HvDBnZNAYEasjBwQ31bmyQ=="/>
-		<POI MapID="17" xpos="408.288"  ypos="65.2257" zpos="413.796" type="world_boss.modniir_ulgoth.capture"    GUID="rngMeVsKQk++2ys9YvT4lA=="/>
-		<POI MapID="17" xpos="345.464"  ypos="62.7499" zpos="640.837" type="world_boss.modniir_ulgoth.capture"    GUID="/YlQEEa8T0u2TWRXxXCBWg=="/>
-		<POI MapID="17" xpos="356.698"  ypos="60.3935" zpos="633.692" type="world_boss.modniir_ulgoth.assault"    GUID="m1t0bXG5PUaL9Lyix9vncA=="/>
-		<POI MapID="17" xpos="810.031"  ypos="144.398" zpos="668.27"  type="world_boss.modniir_ulgoth.ulgoth"     GUID="p3DNlqQj1U2nsQwjgViqwA=="/>
-
+		<Trail type="world_boss.modniir_ulgoth.defend" GUID="LKbMcEK/lkCgyFCrKZbtFg==" trailData="Data/WorldBoss/UlgothTheModniir.trl" texture="Data/SemiLineMid.png" color="ff00ff00" alpha="0.8" fadeNear="2000" fadeFar="3000" animSpeed="0" mapDisplaySize="15" />
+		<Trail type="world_boss.modniir_ulgoth.assault" GUID="UpDDZG12mUqb3xrWXmDBUA==" trailData="Data/WorldBoss/UlgothTheModniirEscort.trl" texture="Data/SemiLineMid.png" color="ffff0000" alpha="0.8" fadeNear="2000" fadeFar="3000" animSpeed="0" mapDisplaySize="15" />
+		<POI MapID="17" xpos="-505.423" ypos="19.0667" zpos="160.204" type="world_boss.modniir_ulgoth.forward" GUID="TEK/uJ9sKkmhVNcWxDcRxg==" />
+		<POI MapID="17" xpos="-255.25" ypos="35.3468" zpos="390.196" type="world_boss.modniir_ulgoth.bridgehead" GUID="b/OTRqOfiECa9mz/DYzgGQ==" />
+		<POI MapID="17" xpos="-204.054" ypos="31.6558" zpos="396.791" type="world_boss.modniir_ulgoth.defend" GUID="HvDBnZNAYEasjBwQ31bmyQ==" />
+		<POI MapID="17" xpos="408.288" ypos="65.2257" zpos="413.796" type="world_boss.modniir_ulgoth.capture" GUID="rngMeVsKQk++2ys9YvT4lA==" />
+		<POI MapID="17" xpos="345.464" ypos="62.7499" zpos="640.837" type="world_boss.modniir_ulgoth.capture" GUID="/YlQEEa8T0u2TWRXxXCBWg==" />
+		<POI MapID="17" xpos="356.698" ypos="60.3935" zpos="633.692" type="world_boss.modniir_ulgoth.assault" GUID="m1t0bXG5PUaL9Lyix9vncA==" />
+		<POI MapID="17" xpos="810.031" ypos="144.398" zpos="668.27" type="world_boss.modniir_ulgoth.ulgoth" GUID="p3DNlqQj1U2nsQwjgViqwA==" />
 		<!-- SHADOW BEHEMOTH -->
-		<Trail type="world_boss.shadow_behemoth.heartwood" GUID="sxtJYee7tEWY6FuM8VGG2Q==" trailData="Data/WorldBoss/ShadowBehemoth_Heartwood.trl" texture="Data/SemiLineMid.png" color="ff00ff00" alpha="0.8" fadeNear="2000" fadeFar="3000" animSpeed="0" mapDisplaySize="15"/>
-		<Trail type="world_boss.shadow_behemoth.monastery" GUID="rK/9v2bkrkCB4JAS3M4tlQ==" trailData="Data/WorldBoss/ShadowBehemoth_Monastery.trl" texture="Data/SemiLineMid.png" color="ffffff00" alpha="0.8" fadeNear="2000" fadeFar="3000" animSpeed="0" mapDisplaySize="15"/>
-		<Trail type="world_boss.shadow_behemoth.taminn"    GUID="O6iXNYn+1k+tBGjITbYWqQ==" trailData="Data/WorldBoss/ShadowBehemoth_Taminn.trl"    texture="Data/SemiLineMid.png" color="ffff8000" alpha="0.8" fadeNear="2000" fadeFar="3000" animSpeed="0" mapDisplaySize="15"/>
-		<POI MapID="15" xpos="-89.596" ypos="3.31036" zpos="-234.081" type="world_boss.shadow_behemoth.heartwood" GUID="3wttctso906KNeuukBXTfw=="/>
-		<POI MapID="15" xpos="457.219" ypos="36.1513" zpos="31.4602"  type="world_boss.shadow_behemoth.monastery" GUID="jiW6ztae5kG+rT0LOJzi5Q=="/>
-		<POI MapID="15" xpos="721.321" ypos="51.9927" zpos="-511.763" type="world_boss.shadow_behemoth.taminn"    GUID="eiddzDSepUG4biSF773LRw=="/>
-		<POI MapID="15" xpos="309.95"  ypos="0"       zpos="-433.05"  type="world_boss.shadow_behemoth.portals"   GUID="U3iB6ncTek+e39S22VmxTQ=="/>
-		<POI MapID="15" xpos="302.11"  ypos="0"       zpos="-478.50"  type="world_boss.shadow_behemoth.portals"   GUID="bOBajh5HnEyF6ZGMbVdKiQ=="/>
-		<POI MapID="15" xpos="299.02"  ypos="0"       zpos="-452.74"  type="world_boss.shadow_behemoth.portals"   GUID="9th9au4nzEabARA9ypECqg=="/>
-		<POI MapID="15" xpos="283.86"  ypos="0"       zpos="-499.90"  type="world_boss.shadow_behemoth.portals"   GUID="DpkhNZyV/kmiBgx+8w6cwg=="/>
-		<POI MapID="15" xpos="282.45"  ypos="0"       zpos="-404.81"  type="world_boss.shadow_behemoth.portals"   GUID="0aT5E1MdUkSmlGGxqTKuxA=="/>
-		<POI MapID="15" xpos="279.24"  ypos="0"       zpos="-463.39"  type="world_boss.shadow_behemoth.portals"   GUID="1UgV011JP0KkEZk1kuOBVg=="/>
-		<POI MapID="15" xpos="253.49"  ypos="0"       zpos="-405.79"  type="world_boss.shadow_behemoth.portals"   GUID="KEZbLLVrikO+mmSQB/hEGw=="/>
-		<POI MapID="15" xpos="250.52"  ypos="0"       zpos="-488.03"  type="world_boss.shadow_behemoth.portals"   GUID="0jHp76NuoUaap5RLeZyBig=="/>
-		<POI MapID="15" xpos="228.16"  ypos="0"       zpos="-454.17"  type="world_boss.shadow_behemoth.portals"   GUID="KG+uNDhduUqou5AlMN8xug=="/>
-		<POI MapID="15" xpos="225.23"  ypos="0"       zpos="-393.30"  type="world_boss.shadow_behemoth.portals"   GUID="8/0XIas9fUe/9l/8UdsGxw=="/>
-		<POI MapID="15" xpos="221.76"  ypos="0"       zpos="-494.92"  type="world_boss.shadow_behemoth.portals"   GUID="34wnfd/TdEWEkztDKO6HVA=="/>
-		<POI MapID="15" xpos="209.76"  ypos="0"       zpos="-421.69"  type="world_boss.shadow_behemoth.portals"   GUID="FehxKathhkiozjf8zq/8SQ=="/>
-		<POI MapID="15" xpos="203.77"  ypos="0"       zpos="-446.07"  type="world_boss.shadow_behemoth.portals"   GUID="rRJXFer5O02OKKdTARyHJQ=="/>
-		<POI MapID="15" xpos="270.7"   ypos="-0.7534" zpos="-408.002" type="world_boss.shadow_behemoth.behemoth"  GUID="xUR+zYJSFE2RHZnzF3xhGA=="/>
-
+		<Trail type="world_boss.shadow_behemoth.heartwood" GUID="sxtJYee7tEWY6FuM8VGG2Q==" trailData="Data/WorldBoss/ShadowBehemoth_Heartwood.trl" texture="Data/SemiLineMid.png" color="ff00ff00" alpha="0.8" fadeNear="2000" fadeFar="3000" animSpeed="0" mapDisplaySize="15" />
+		<Trail type="world_boss.shadow_behemoth.monastery" GUID="rK/9v2bkrkCB4JAS3M4tlQ==" trailData="Data/WorldBoss/ShadowBehemoth_Monastery.trl" texture="Data/SemiLineMid.png" color="ffffff00" alpha="0.8" fadeNear="2000" fadeFar="3000" animSpeed="0" mapDisplaySize="15" />
+		<Trail type="world_boss.shadow_behemoth.taminn" GUID="O6iXNYn+1k+tBGjITbYWqQ==" trailData="Data/WorldBoss/ShadowBehemoth_Taminn.trl" texture="Data/SemiLineMid.png" color="ffff8000" alpha="0.8" fadeNear="2000" fadeFar="3000" animSpeed="0" mapDisplaySize="15" />
+		<POI MapID="15" xpos="-89.596" ypos="3.31036" zpos="-234.081" type="world_boss.shadow_behemoth.heartwood" GUID="3wttctso906KNeuukBXTfw==" />
+		<POI MapID="15" xpos="457.219" ypos="36.1513" zpos="31.4602" type="world_boss.shadow_behemoth.monastery" GUID="jiW6ztae5kG+rT0LOJzi5Q==" />
+		<POI MapID="15" xpos="721.321" ypos="51.9927" zpos="-511.763" type="world_boss.shadow_behemoth.taminn" GUID="eiddzDSepUG4biSF773LRw==" />
+		<POI MapID="15" xpos="309.95" ypos="0" zpos="-433.05" type="world_boss.shadow_behemoth.portals" GUID="U3iB6ncTek+e39S22VmxTQ==" />
+		<POI MapID="15" xpos="302.11" ypos="0" zpos="-478.50" type="world_boss.shadow_behemoth.portals" GUID="bOBajh5HnEyF6ZGMbVdKiQ==" />
+		<POI MapID="15" xpos="299.02" ypos="0" zpos="-452.74" type="world_boss.shadow_behemoth.portals" GUID="9th9au4nzEabARA9ypECqg==" />
+		<POI MapID="15" xpos="283.86" ypos="0" zpos="-499.90" type="world_boss.shadow_behemoth.portals" GUID="DpkhNZyV/kmiBgx+8w6cwg==" />
+		<POI MapID="15" xpos="282.45" ypos="0" zpos="-404.81" type="world_boss.shadow_behemoth.portals" GUID="0aT5E1MdUkSmlGGxqTKuxA==" />
+		<POI MapID="15" xpos="279.24" ypos="0" zpos="-463.39" type="world_boss.shadow_behemoth.portals" GUID="1UgV011JP0KkEZk1kuOBVg==" />
+		<POI MapID="15" xpos="253.49" ypos="0" zpos="-405.79" type="world_boss.shadow_behemoth.portals" GUID="KEZbLLVrikO+mmSQB/hEGw==" />
+		<POI MapID="15" xpos="250.52" ypos="0" zpos="-488.03" type="world_boss.shadow_behemoth.portals" GUID="0jHp76NuoUaap5RLeZyBig==" />
+		<POI MapID="15" xpos="228.16" ypos="0" zpos="-454.17" type="world_boss.shadow_behemoth.portals" GUID="KG+uNDhduUqou5AlMN8xug==" />
+		<POI MapID="15" xpos="225.23" ypos="0" zpos="-393.30" type="world_boss.shadow_behemoth.portals" GUID="8/0XIas9fUe/9l/8UdsGxw==" />
+		<POI MapID="15" xpos="221.76" ypos="0" zpos="-494.92" type="world_boss.shadow_behemoth.portals" GUID="34wnfd/TdEWEkztDKO6HVA==" />
+		<POI MapID="15" xpos="209.76" ypos="0" zpos="-421.69" type="world_boss.shadow_behemoth.portals" GUID="FehxKathhkiozjf8zq/8SQ==" />
+		<POI MapID="15" xpos="203.77" ypos="0" zpos="-446.07" type="world_boss.shadow_behemoth.portals" GUID="rRJXFer5O02OKKdTARyHJQ==" />
+		<POI MapID="15" xpos="270.7" ypos="-0.7534" zpos="-408.002" type="world_boss.shadow_behemoth.behemoth" GUID="xUR+zYJSFE2RHZnzF3xhGA==" />
 		<!-- SVANIR SHAMAN -->
-		<Trail type="world_boss.svanir_shaman.escort" GUID="Hmqykqjx5UWTH6RPLYYQyQ==" trailData="Data/WorldBoss/SvanirShaman.trl" texture="Data/SemiLineMid.png" color="ff00ff00" alpha="0.8" fadeNear="2000" fadeFar="3000" animSpeed="0" mapDisplaySize="15"/>
-		<POI MapID="28" xpos="395.723" ypos="72.5699" zpos="460.868" type="world_boss.svanir_shaman.grawl"  GUID="H/OmGZ6o40mLswx4zqtVHw=="/>
-		<POI MapID="28" xpos="244.651" ypos="82.1122" zpos="501.417" type="world_boss.svanir_shaman.grawl"  GUID="+5i2q6OnIkS/OBTK2cSp0A=="/>
-		<POI MapID="28" xpos="168.103" ypos="76.6931" zpos="518.54"  type="world_boss.svanir_shaman.grawl"  GUID="nf7GnlYp5USOXPr+Mzu5HA=="/>
-		<POI MapID="28" xpos="207.579" ypos="83.4071" zpos="558.117" type="world_boss.svanir_shaman.escort" GUID="uxs7kIu4MEeAvha6e1J/xA=="/>
-		<POI MapID="28" xpos="404.481" ypos="72.5938" zpos="344.424" type="world_boss.svanir_shaman.totem"  GUID="ZC2PLr8ujE6eyO25ZU26Ug=="/>
-		<POI MapID="28" xpos="367.358" ypos="70.6"    zpos="411.484" type="world_boss.svanir_shaman.portal" GUID="2ZqCysDM+kysIjD/9uRx7Q=="/>
-		<POI MapID="28" xpos="340.212" ypos="70.4463" zpos="409.323" type="world_boss.svanir_shaman.portal" GUID="0y8wlipsyUqIz/sAZkJEfA=="/>
-		<POI MapID="28" xpos="320.035" ypos="70.4854" zpos="392.686" type="world_boss.svanir_shaman.portal" GUID="LO79soUPlUq+nkjSgtQ/OA=="/>
-		<POI MapID="28" xpos="393.868" ypos="70.4986" zpos="378.116" type="world_boss.svanir_shaman.guard"  GUID="0UMMQ5A9R0+M9qOSnsRYCw=="/>
-		<POI MapID="28" xpos="386.726" ypos="70.5478" zpos="315.753" type="world_boss.svanir_shaman.guard"  GUID="l37ZOjOoZUyhePKvEQ1lww=="/>
-		<POI MapID="28" xpos="394.301" ypos="71.8273" zpos="344.252" type="world_boss.svanir_shaman.shaman" GUID="A90flz+BL0WtreWbJdXZ7g=="/>
-
+		<Trail type="world_boss.svanir_shaman.escort" GUID="Hmqykqjx5UWTH6RPLYYQyQ==" trailData="Data/WorldBoss/SvanirShaman.trl" texture="Data/SemiLineMid.png" color="ff00ff00" alpha="0.8" fadeNear="2000" fadeFar="3000" animSpeed="0" mapDisplaySize="15" />
+		<POI MapID="28" xpos="395.723" ypos="72.5699" zpos="460.868" type="world_boss.svanir_shaman.grawl" GUID="H/OmGZ6o40mLswx4zqtVHw==" />
+		<POI MapID="28" xpos="244.651" ypos="82.1122" zpos="501.417" type="world_boss.svanir_shaman.grawl" GUID="+5i2q6OnIkS/OBTK2cSp0A==" />
+		<POI MapID="28" xpos="168.103" ypos="76.6931" zpos="518.54" type="world_boss.svanir_shaman.grawl" GUID="nf7GnlYp5USOXPr+Mzu5HA==" />
+		<POI MapID="28" xpos="207.579" ypos="83.4071" zpos="558.117" type="world_boss.svanir_shaman.escort" GUID="uxs7kIu4MEeAvha6e1J/xA==" />
+		<POI MapID="28" xpos="404.481" ypos="72.5938" zpos="344.424" type="world_boss.svanir_shaman.totem" GUID="ZC2PLr8ujE6eyO25ZU26Ug==" />
+		<POI MapID="28" xpos="367.358" ypos="70.6" zpos="411.484" type="world_boss.svanir_shaman.portal" GUID="2ZqCysDM+kysIjD/9uRx7Q==" />
+		<POI MapID="28" xpos="340.212" ypos="70.4463" zpos="409.323" type="world_boss.svanir_shaman.portal" GUID="0y8wlipsyUqIz/sAZkJEfA==" />
+		<POI MapID="28" xpos="320.035" ypos="70.4854" zpos="392.686" type="world_boss.svanir_shaman.portal" GUID="LO79soUPlUq+nkjSgtQ/OA==" />
+		<POI MapID="28" xpos="393.868" ypos="70.4986" zpos="378.116" type="world_boss.svanir_shaman.guard" GUID="0UMMQ5A9R0+M9qOSnsRYCw==" />
+		<POI MapID="28" xpos="386.726" ypos="70.5478" zpos="315.753" type="world_boss.svanir_shaman.guard" GUID="l37ZOjOoZUyhePKvEQ1lww==" />
+		<POI MapID="28" xpos="394.301" ypos="71.8273" zpos="344.252" type="world_boss.svanir_shaman.shaman" GUID="A90flz+BL0WtreWbJdXZ7g==" />
 		<!-- TAIDHA COVINGTON -->
-		<Trail type="world_boss.taidha_covington.taidha"   GUID="6cCHBwXVWEir3cTBCoD3UQ==" trailData="Data/WorldBoss/TaidhaCovington.trl"    texture="Data/SemiLineMid.png" color="ff00ff00" alpha="0.8" fadeNear="2500" fadeFar="3500" animSpeed="0" mapDisplaySize="12"/>
-		<Trail type="world_boss.taidha_covington.gate.keg" GUID="sKZ5zo5w9Ua58KV8c//CoA==" trailData="Data/WorldBoss/TaidhaCovingtonKeg.trl" texture="Data/SemiLineMid.png" color="ffffd800" alpha="0.8" fadeNear="3500" fadeFar="4500" animSpeed="0" mapDisplaySize="12"/>
-		<POI MapID="73" xpos="-346.751" ypos="25.5417" zpos="365.937" type="world_boss.taidha_covington.cannon"   GUID="GzwwS24GN0iFg5rINBp9Bg=="/>
-		<POI MapID="73" xpos="-404.728" ypos="15.9445" zpos="287.525" type="world_boss.taidha_covington.tower"    GUID="4Nmajhpjr0CwaQIOVgHqng=="/>
-		<POI MapID="73" xpos="-224.23"  ypos="3.69367" zpos="275.972" type="world_boss.taidha_covington.gate"     GUID="ouoxwaYjHU+ExW6pvSW+Uw=="/>
-		<POI MapID="73" xpos="-344.683" ypos="8.46811" zpos="235.819" type="world_boss.taidha_covington.gate.keg" GUID="v+a126U6skiOb+ql5OwlDg==" fadeNear="5000" fadeFar="6500"/>
-		<POI MapID="73" xpos="-286.432" ypos="2.99511" zpos="270.812" type="world_boss.taidha_covington.gate.keg" GUID="+1Lmz3rqw0OuiOoqsUPfuA==" fadeNear="5000" fadeFar="6500"/>
-		<POI MapID="73" xpos="-265.222" ypos="17.1568" zpos="218.631" type="world_boss.taidha_covington.gate.keg" GUID="qVnHNBTJGkKpYFhWLPTJAQ==" fadeNear="5000" fadeFar="6500"/>
-		<POI MapID="73" xpos="-275.641" ypos="0.91816" zpos="288.271" type="world_boss.taidha_covington.taidha"   GUID="qENecyAGxUCkdM/pf2JUHQ=="/>
-		<POI MapID="73" xpos="-173.882" ypos="3.83191" zpos="240.374" type="world_boss.taidha_covington.taidha"   GUID="02eX4DEXa0+cZahjOjlolw==" fadeNear="5000" fadeFar="6500"/>
-		<POI MapID="73" xpos="-137.119" ypos="18.1037" zpos="203.091" type="world_boss.taidha_covington.taidha"   GUID="TWBrRA0n/kisfwwQH5WkPw==" fadeNear="5000" fadeFar="6500"/>
-
+		<Trail type="world_boss.taidha_covington.taidha" GUID="6cCHBwXVWEir3cTBCoD3UQ==" trailData="Data/WorldBoss/TaidhaCovington.trl" texture="Data/SemiLineMid.png" color="ff00ff00" alpha="0.8" fadeNear="2500" fadeFar="3500" animSpeed="0" mapDisplaySize="12" />
+		<Trail type="world_boss.taidha_covington.gate.keg" GUID="sKZ5zo5w9Ua58KV8c//CoA==" trailData="Data/WorldBoss/TaidhaCovingtonKeg.trl" texture="Data/SemiLineMid.png" color="ffffd800" alpha="0.8" fadeNear="3500" fadeFar="4500" animSpeed="0" mapDisplaySize="12" />
+		<POI MapID="73" xpos="-346.751" ypos="25.5417" zpos="365.937" type="world_boss.taidha_covington.cannon" GUID="GzwwS24GN0iFg5rINBp9Bg==" />
+		<POI MapID="73" xpos="-404.728" ypos="15.9445" zpos="287.525" type="world_boss.taidha_covington.tower" GUID="4Nmajhpjr0CwaQIOVgHqng==" />
+		<POI MapID="73" xpos="-224.23" ypos="3.69367" zpos="275.972" type="world_boss.taidha_covington.gate" GUID="ouoxwaYjHU+ExW6pvSW+Uw==" />
+		<POI MapID="73" xpos="-344.683" ypos="8.46811" zpos="235.819" type="world_boss.taidha_covington.gate.keg" GUID="v+a126U6skiOb+ql5OwlDg==" fadeNear="5000" fadeFar="6500" />
+		<POI MapID="73" xpos="-286.432" ypos="2.99511" zpos="270.812" type="world_boss.taidha_covington.gate.keg" GUID="+1Lmz3rqw0OuiOoqsUPfuA==" fadeNear="5000" fadeFar="6500" />
+		<POI MapID="73" xpos="-265.222" ypos="17.1568" zpos="218.631" type="world_boss.taidha_covington.gate.keg" GUID="qVnHNBTJGkKpYFhWLPTJAQ==" fadeNear="5000" fadeFar="6500" />
+		<POI MapID="73" xpos="-275.641" ypos="0.91816" zpos="288.271" type="world_boss.taidha_covington.taidha" GUID="qENecyAGxUCkdM/pf2JUHQ==" />
+		<POI MapID="73" xpos="-173.882" ypos="3.83191" zpos="240.374" type="world_boss.taidha_covington.taidha" GUID="02eX4DEXa0+cZahjOjlolw==" fadeNear="5000" fadeFar="6500" />
+		<POI MapID="73" xpos="-137.119" ypos="18.1037" zpos="203.091" type="world_boss.taidha_covington.taidha" GUID="TWBrRA0n/kisfwwQH5WkPw==" fadeNear="5000" fadeFar="6500" />
 		<!-- THE SHATTERER -->
-		<Trail type="world_boss.the_shatterer.escort" GUID="omHzEUunwESCabmML0LQ/g==" trailData="Data/WorldBoss/TheShatterer.trl" texture="Data/SemiLineMid.png" color="ffffd800" alpha="0.8" fadeNear="2000" fadeFar="3000" animSpeed="0" mapDisplaySize="15"/>
-		<POI MapID="20" xpos="-265.894" ypos="13.401"  zpos="838.561" type="world_boss.the_shatterer.launch_pad" GUID="vX8tjLR/kUeoBIDAx34WhQ=="/>
-		<POI MapID="20" xpos="-236.883" ypos="11.3332" zpos="859.138" type="world_boss.the_shatterer.launch_pad" GUID="JJ2WnOIjPk+B2Nx571U91A=="/>
-		<POI MapID="20" xpos="-187.168" ypos="11.5556" zpos="873.349" type="world_boss.the_shatterer.launch_pad" GUID="L/HKJEjCck2HsFtZcabHGQ=="/>
-		<POI MapID="20" xpos="-258.385" ypos="13.1936" zpos="838.267" type="world_boss.the_shatterer.weapons"    GUID="uIFSFO//ckyY2nye9F3k7A==" mapVisibility="0" miniMapVisibility="0"/>
-		<POI MapID="20" xpos="-254.385" ypos="13.3054" zpos="841.297" type="world_boss.the_shatterer.weapons"    GUID="BIdgfflczk6CD9jogPRzdA==" mapVisibility="0" miniMapVisibility="0"/>
-		<POI MapID="20" xpos="-246.111" ypos="15.0872" zpos="844.914" type="world_boss.the_shatterer.weapons"    GUID="Eh+9wwE/hUCmR/lZD0dX8A==" mapVisibility="0" miniMapVisibility="0"/>
-		<POI MapID="20" xpos="-237.098" ypos="12.8895" zpos="848.246" type="world_boss.the_shatterer.weapons"    GUID="FlmV+Z1TN0uVBRw/bdRSxQ==" mapVisibility="0" miniMapVisibility="0"/>
-		<POI MapID="20" xpos="-231.324" ypos="12.7878" zpos="848.282" type="world_boss.the_shatterer.weapons"    GUID="SYY+99BhwEutJYZYaAwWwg==" mapVisibility="0" miniMapVisibility="0"/>
-		<POI MapID="20" xpos="-223.265" ypos="13.4542" zpos="851.662" type="world_boss.the_shatterer.weapons"    GUID="m63+iK1F2UK/bb2dUHI0bg==" mapVisibility="0" miniMapVisibility="0"/>
-		<POI MapID="20" xpos="-196.372" ypos="13.2346" zpos="877.628" type="world_boss.the_shatterer.weapons"    GUID="+u3Vgxc+ZkyjVdZ4EfD/+A==" mapVisibility="0" miniMapVisibility="0"/>
-		<POI MapID="20" xpos="-194.547" ypos="12.543"  zpos="889.051" type="world_boss.the_shatterer.weapons"    GUID="SeUhb4Tq/EOMM5pv8shzpw==" mapVisibility="0" miniMapVisibility="0"/>
-		<POI MapID="20" xpos="-192.202" ypos="12.3877" zpos="884.059" type="world_boss.the_shatterer.weapons"    GUID="m6mYZBc7kkaNTMd06xxitA==" mapVisibility="0" miniMapVisibility="0"/>
-		<POI MapID="20" xpos="-190.773" ypos="13.1149" zpos="894.727" type="world_boss.the_shatterer.weapons"    GUID="F/KBYlBjUEuQ8yK2lRMhYA==" mapVisibility="0" miniMapVisibility="0"/>
-		<POI MapID="20" xpos="-311.473" ypos="13.5397" zpos="551.103" type="world_boss.the_shatterer.escort"     GUID="9bBywTH5/02Mz20s16srcA=="/>
-		<POI MapID="20" xpos="156.099"  ypos="3.0977"  zpos="524.285" type="world_boss.the_shatterer.collect"    GUID="U6JDwa+WLUKEGCkMFXt03Q==" iconFile="Img/Icons/EventCollect.png" fadeNear="-1" fadeFar="-1" heightOffset="3" behavior="0"/>
-		<POI MapID="20" xpos="81.6881"  ypos="3.09061" zpos="592.604" type="world_boss.the_shatterer.collect"    GUID="3hqPe7LCTE691ik4qgr8ag=="/>
-		<POI MapID="20" xpos="96.6638"  ypos="1.10249" zpos="576.692" type="world_boss.the_shatterer.collect"    GUID="ktdKoKwC7UuiI2gvUZWFQQ=="/>
-		<POI MapID="20" xpos="97.1779"  ypos="0.71421" zpos="586.289" type="world_boss.the_shatterer.collect"    GUID="/LE3JAUo0Uib6/tLP8lO6A=="/>
-		<POI MapID="20" xpos="112.67"   ypos="5.24516" zpos="601.715" type="world_boss.the_shatterer.collect"    GUID="JMNVCmitb0aJmR8oK9Yzjw=="/>
-		<POI MapID="20" xpos="113.803"  ypos="1.68219" zpos="571.897" type="world_boss.the_shatterer.collect"    GUID="FDII1MXQQkSm9zeeju3PLg=="/>
-		<POI MapID="20" xpos="126.685"  ypos="3.63642" zpos="586.747" type="world_boss.the_shatterer.collect"    GUID="logGAAklsE2WClUWPdnAVA=="/>
-		<POI MapID="20" xpos="127.049"  ypos="8.42121" zpos="616.696" type="world_boss.the_shatterer.collect"    GUID="G2zBr8kLj0WQYoJ3W1XalQ=="/>
-		<POI MapID="20" xpos="131.908"  ypos="8.86566" zpos="621.76"  type="world_boss.the_shatterer.collect"    GUID="SlXQ/resakyshT7R9PFKfA=="/>
-		<POI MapID="20" xpos="133.258"  ypos="3.61279" zpos="568.363" type="world_boss.the_shatterer.collect"    GUID="oETHHlKvSECK4KESarC03A=="/>
-		<POI MapID="20" xpos="146.597"  ypos="35.575"  zpos="593.936" type="world_boss.the_shatterer.collect"    GUID="lEe76ROfhUKtKyPiRkQqqA=="/>
-		<POI MapID="20" xpos="148.543"  ypos="11.2038" zpos="552.139" type="world_boss.the_shatterer.collect"    GUID="GfaXJHqZzE6YQzU2XRrg0g=="/>
-		<POI MapID="20" xpos="149.855"  ypos="37.6942" zpos="598.343" type="world_boss.the_shatterer.collect"    GUID="756mo9OxYUiGcfOY0OLA9A=="/>
-		<POI MapID="20" xpos="152.822"  ypos="13.2755" zpos="632.784" type="world_boss.the_shatterer.collect"    GUID="wI8r0V6a7kiIn3Gh1i0Vlw=="/>
-		<POI MapID="20" xpos="154.683"  ypos="17.6659" zpos="652.295" type="world_boss.the_shatterer.collect"    GUID="gzaJbCXYIk2unozRZED7Eg=="/>
-		<POI MapID="20" xpos="161.027"  ypos="38.7017" zpos="594.077" type="world_boss.the_shatterer.collect"    GUID="RuSv6BmYiUGljdKQ+yqrYA=="/>
-		<POI MapID="20" xpos="164.144"  ypos="36.062"  zpos="586.742" type="world_boss.the_shatterer.collect"    GUID="zKUEg+xM6USm0CJ1j611gA=="/>
-		<POI MapID="20" xpos="169.794"  ypos="10.7084" zpos="629.322" type="world_boss.the_shatterer.collect"    GUID="/tsCHrAEX0e93RzIskCjGA=="/>
-		<POI MapID="20" xpos="170.306"  ypos="40.4573" zpos="612.478" type="world_boss.the_shatterer.collect"    GUID="ro1oe6IeA0aCI3KC9/YleA=="/>
-		<POI MapID="20" xpos="175.27"   ypos="41.3434" zpos="602.172" type="world_boss.the_shatterer.collect"    GUID="1Im7YNarakGEmnkykj9iMQ=="/>
-		<POI MapID="20" xpos="182.62"   ypos="10.5504" zpos="692.204" type="world_boss.the_shatterer.collect"    GUID="r0mIXlfHaE6hm7UcEYaesA=="/>
-		<POI MapID="20" xpos="186.678"  ypos="12.5044" zpos="659.344" type="world_boss.the_shatterer.collect"    GUID="fw0PBh9ddkKQ8N8wvOIxCQ=="/>
-		<POI MapID="20" xpos="194.783"  ypos="10.2536" zpos="716.127" type="world_boss.the_shatterer.collect"    GUID="xL+bfXGgeEK8u63QquPhew=="/>
-		<POI MapID="20" xpos="202.842"  ypos="11.5505" zpos="676.541" type="world_boss.the_shatterer.collect"    GUID="PXg47W8EL0aVD8TdzbaEIA=="/>
-		<POI MapID="20" xpos="212.897"  ypos="7.4647"  zpos="721.284" type="world_boss.the_shatterer.collect"    GUID="Z4XtKi28YU+tC8OfGQzLoA=="/>
-		<POI MapID="20" xpos="220.977"  ypos="28.0397" zpos="675.58"  type="world_boss.the_shatterer.collect"    GUID="cAwupLaNKUOJPTAcb/5iSQ=="/>
-		<POI MapID="20" xpos="225.102"  ypos="4.5225"  zpos="705.724" type="world_boss.the_shatterer.collect"    GUID="AoB2Zwlik0+LO74N/C22FA=="/>
-		<POI MapID="20" xpos="236.633"  ypos="30.2488" zpos="661.614" type="world_boss.the_shatterer.collect"    GUID="6IbK8+sADE+bn4TPa5i8hg=="/>
-		<POI MapID="20" xpos="-340.575" ypos="0.81775" zpos="904.796" type="world_boss.the_shatterer.crystals"   GUID="d8shPtQt/E+RUbWY143kkw=="/>
-		<POI MapID="20" xpos="-300.497" ypos="5.78208" zpos="868.725" type="world_boss.the_shatterer.crystals"   GUID="lOl7zNAPuEKIC2OqKKCA2Q=="/>
-		<POI MapID="20" xpos="-256.076" ypos="8.48561" zpos="863.613" type="world_boss.the_shatterer.crystals"   GUID="XB+GigdgyUKQGVwtgHORow=="/>
-		<POI MapID="20" xpos="-223.891" ypos="5.04084" zpos="886.745" type="world_boss.the_shatterer.crystals"   GUID="tGCJjhUIvEehy1Lqz/b7sQ=="/>
-		<POI MapID="20" xpos="-211.548" ypos="2.47202" zpos="927.203" type="world_boss.the_shatterer.crystals"   GUID="Fo3pGfVwJ0aTXkiUCJPvOw=="/>
-		<POI MapID="20" xpos="-293.098" ypos="3.30985" zpos="917.874" type="world_boss.the_shatterer.shatterer"  GUID="ftxB93SibEqBklZ2il26Sg=="/>
-
+		<Trail type="world_boss.the_shatterer.escort" GUID="omHzEUunwESCabmML0LQ/g==" trailData="Data/WorldBoss/TheShatterer.trl" texture="Data/SemiLineMid.png" color="ffffd800" alpha="0.8" fadeNear="2000" fadeFar="3000" animSpeed="0" mapDisplaySize="15" />
+		<POI MapID="20" xpos="-265.894" ypos="13.401" zpos="838.561" type="world_boss.the_shatterer.launch_pad" GUID="vX8tjLR/kUeoBIDAx34WhQ==" />
+		<POI MapID="20" xpos="-236.883" ypos="11.3332" zpos="859.138" type="world_boss.the_shatterer.launch_pad" GUID="JJ2WnOIjPk+B2Nx571U91A==" />
+		<POI MapID="20" xpos="-187.168" ypos="11.5556" zpos="873.349" type="world_boss.the_shatterer.launch_pad" GUID="L/HKJEjCck2HsFtZcabHGQ==" />
+		<POI MapID="20" xpos="-258.385" ypos="13.1936" zpos="838.267" type="world_boss.the_shatterer.weapons" GUID="uIFSFO//ckyY2nye9F3k7A==" mapVisibility="0" miniMapVisibility="0" />
+		<POI MapID="20" xpos="-254.385" ypos="13.3054" zpos="841.297" type="world_boss.the_shatterer.weapons" GUID="BIdgfflczk6CD9jogPRzdA==" mapVisibility="0" miniMapVisibility="0" />
+		<POI MapID="20" xpos="-246.111" ypos="15.0872" zpos="844.914" type="world_boss.the_shatterer.weapons" GUID="Eh+9wwE/hUCmR/lZD0dX8A==" mapVisibility="0" miniMapVisibility="0" />
+		<POI MapID="20" xpos="-237.098" ypos="12.8895" zpos="848.246" type="world_boss.the_shatterer.weapons" GUID="FlmV+Z1TN0uVBRw/bdRSxQ==" mapVisibility="0" miniMapVisibility="0" />
+		<POI MapID="20" xpos="-231.324" ypos="12.7878" zpos="848.282" type="world_boss.the_shatterer.weapons" GUID="SYY+99BhwEutJYZYaAwWwg==" mapVisibility="0" miniMapVisibility="0" />
+		<POI MapID="20" xpos="-223.265" ypos="13.4542" zpos="851.662" type="world_boss.the_shatterer.weapons" GUID="m63+iK1F2UK/bb2dUHI0bg==" mapVisibility="0" miniMapVisibility="0" />
+		<POI MapID="20" xpos="-196.372" ypos="13.2346" zpos="877.628" type="world_boss.the_shatterer.weapons" GUID="+u3Vgxc+ZkyjVdZ4EfD/+A==" mapVisibility="0" miniMapVisibility="0" />
+		<POI MapID="20" xpos="-194.547" ypos="12.543" zpos="889.051" type="world_boss.the_shatterer.weapons" GUID="SeUhb4Tq/EOMM5pv8shzpw==" mapVisibility="0" miniMapVisibility="0" />
+		<POI MapID="20" xpos="-192.202" ypos="12.3877" zpos="884.059" type="world_boss.the_shatterer.weapons" GUID="m6mYZBc7kkaNTMd06xxitA==" mapVisibility="0" miniMapVisibility="0" />
+		<POI MapID="20" xpos="-190.773" ypos="13.1149" zpos="894.727" type="world_boss.the_shatterer.weapons" GUID="F/KBYlBjUEuQ8yK2lRMhYA==" mapVisibility="0" miniMapVisibility="0" />
+		<POI MapID="20" xpos="-311.473" ypos="13.5397" zpos="551.103" type="world_boss.the_shatterer.escort" GUID="9bBywTH5/02Mz20s16srcA==" />
+		<POI MapID="20" xpos="156.099" ypos="3.0977" zpos="524.285" type="world_boss.the_shatterer.collect" GUID="U6JDwa+WLUKEGCkMFXt03Q==" iconFile="Img/Icons/EventCollect.png" fadeNear="-1" fadeFar="-1" heightOffset="3" behavior="0" />
+		<POI MapID="20" xpos="81.6881" ypos="3.09061" zpos="592.604" type="world_boss.the_shatterer.collect" GUID="3hqPe7LCTE691ik4qgr8ag==" />
+		<POI MapID="20" xpos="96.6638" ypos="1.10249" zpos="576.692" type="world_boss.the_shatterer.collect" GUID="ktdKoKwC7UuiI2gvUZWFQQ==" />
+		<POI MapID="20" xpos="97.1779" ypos="0.71421" zpos="586.289" type="world_boss.the_shatterer.collect" GUID="/LE3JAUo0Uib6/tLP8lO6A==" />
+		<POI MapID="20" xpos="112.67" ypos="5.24516" zpos="601.715" type="world_boss.the_shatterer.collect" GUID="JMNVCmitb0aJmR8oK9Yzjw==" />
+		<POI MapID="20" xpos="113.803" ypos="1.68219" zpos="571.897" type="world_boss.the_shatterer.collect" GUID="FDII1MXQQkSm9zeeju3PLg==" />
+		<POI MapID="20" xpos="126.685" ypos="3.63642" zpos="586.747" type="world_boss.the_shatterer.collect" GUID="logGAAklsE2WClUWPdnAVA==" />
+		<POI MapID="20" xpos="127.049" ypos="8.42121" zpos="616.696" type="world_boss.the_shatterer.collect" GUID="G2zBr8kLj0WQYoJ3W1XalQ==" />
+		<POI MapID="20" xpos="131.908" ypos="8.86566" zpos="621.76" type="world_boss.the_shatterer.collect" GUID="SlXQ/resakyshT7R9PFKfA==" />
+		<POI MapID="20" xpos="133.258" ypos="3.61279" zpos="568.363" type="world_boss.the_shatterer.collect" GUID="oETHHlKvSECK4KESarC03A==" />
+		<POI MapID="20" xpos="146.597" ypos="35.575" zpos="593.936" type="world_boss.the_shatterer.collect" GUID="lEe76ROfhUKtKyPiRkQqqA==" />
+		<POI MapID="20" xpos="148.543" ypos="11.2038" zpos="552.139" type="world_boss.the_shatterer.collect" GUID="GfaXJHqZzE6YQzU2XRrg0g==" />
+		<POI MapID="20" xpos="149.855" ypos="37.6942" zpos="598.343" type="world_boss.the_shatterer.collect" GUID="756mo9OxYUiGcfOY0OLA9A==" />
+		<POI MapID="20" xpos="152.822" ypos="13.2755" zpos="632.784" type="world_boss.the_shatterer.collect" GUID="wI8r0V6a7kiIn3Gh1i0Vlw==" />
+		<POI MapID="20" xpos="154.683" ypos="17.6659" zpos="652.295" type="world_boss.the_shatterer.collect" GUID="gzaJbCXYIk2unozRZED7Eg==" />
+		<POI MapID="20" xpos="161.027" ypos="38.7017" zpos="594.077" type="world_boss.the_shatterer.collect" GUID="RuSv6BmYiUGljdKQ+yqrYA==" />
+		<POI MapID="20" xpos="164.144" ypos="36.062" zpos="586.742" type="world_boss.the_shatterer.collect" GUID="zKUEg+xM6USm0CJ1j611gA==" />
+		<POI MapID="20" xpos="169.794" ypos="10.7084" zpos="629.322" type="world_boss.the_shatterer.collect" GUID="/tsCHrAEX0e93RzIskCjGA==" />
+		<POI MapID="20" xpos="170.306" ypos="40.4573" zpos="612.478" type="world_boss.the_shatterer.collect" GUID="ro1oe6IeA0aCI3KC9/YleA==" />
+		<POI MapID="20" xpos="175.27" ypos="41.3434" zpos="602.172" type="world_boss.the_shatterer.collect" GUID="1Im7YNarakGEmnkykj9iMQ==" />
+		<POI MapID="20" xpos="182.62" ypos="10.5504" zpos="692.204" type="world_boss.the_shatterer.collect" GUID="r0mIXlfHaE6hm7UcEYaesA==" />
+		<POI MapID="20" xpos="186.678" ypos="12.5044" zpos="659.344" type="world_boss.the_shatterer.collect" GUID="fw0PBh9ddkKQ8N8wvOIxCQ==" />
+		<POI MapID="20" xpos="194.783" ypos="10.2536" zpos="716.127" type="world_boss.the_shatterer.collect" GUID="xL+bfXGgeEK8u63QquPhew==" />
+		<POI MapID="20" xpos="202.842" ypos="11.5505" zpos="676.541" type="world_boss.the_shatterer.collect" GUID="PXg47W8EL0aVD8TdzbaEIA==" />
+		<POI MapID="20" xpos="212.897" ypos="7.4647" zpos="721.284" type="world_boss.the_shatterer.collect" GUID="Z4XtKi28YU+tC8OfGQzLoA==" />
+		<POI MapID="20" xpos="220.977" ypos="28.0397" zpos="675.58" type="world_boss.the_shatterer.collect" GUID="cAwupLaNKUOJPTAcb/5iSQ==" />
+		<POI MapID="20" xpos="225.102" ypos="4.5225" zpos="705.724" type="world_boss.the_shatterer.collect" GUID="AoB2Zwlik0+LO74N/C22FA==" />
+		<POI MapID="20" xpos="236.633" ypos="30.2488" zpos="661.614" type="world_boss.the_shatterer.collect" GUID="6IbK8+sADE+bn4TPa5i8hg==" />
+		<POI MapID="20" xpos="-340.575" ypos="0.81775" zpos="904.796" type="world_boss.the_shatterer.crystals" GUID="d8shPtQt/E+RUbWY143kkw==" />
+		<POI MapID="20" xpos="-300.497" ypos="5.78208" zpos="868.725" type="world_boss.the_shatterer.crystals" GUID="lOl7zNAPuEKIC2OqKKCA2Q==" />
+		<POI MapID="20" xpos="-256.076" ypos="8.48561" zpos="863.613" type="world_boss.the_shatterer.crystals" GUID="XB+GigdgyUKQGVwtgHORow==" />
+		<POI MapID="20" xpos="-223.891" ypos="5.04084" zpos="886.745" type="world_boss.the_shatterer.crystals" GUID="tGCJjhUIvEehy1Lqz/b7sQ==" />
+		<POI MapID="20" xpos="-211.548" ypos="2.47202" zpos="927.203" type="world_boss.the_shatterer.crystals" GUID="Fo3pGfVwJ0aTXkiUCJPvOw==" />
+		<POI MapID="20" xpos="-293.098" ypos="3.30985" zpos="917.874" type="world_boss.the_shatterer.shatterer" GUID="ftxB93SibEqBklZ2il26Sg==" />
 		<!-- EVOLVED JUNGLE WURM -->
-		<Trail type="world_boss.evolved_jungle_wurm.amber_escort"   GUID="qi65/NAkREyn9gfQ6a1yFQ==" trailData="Data/WorldBoss/EvolvedJungleWurmAmber.trl"       texture="Data/SemiLineMid.png" color="ffffff00" alpha="0.8" fadeNear="2000" fadeFar="3000" animSpeed="0" mapDisplaySize="15"/>
-		<Trail type="world_boss.evolved_jungle_wurm.cobalt_escort"  GUID="tbV3ihFEzEyJJFqvE2fDyg==" trailData="Data/WorldBoss/EvolvedJungleWurmCobalt.trl"      texture="Data/SemiLineMid.png" color="ff00ffff" alpha="0.8" fadeNear="2000" fadeFar="3000" animSpeed="0" mapDisplaySize="15"/>
-		<Trail type="world_boss.evolved_jungle_wurm.crimson_escort" GUID="hS24GfTrAE6dFk9vS9Wm7Q==" trailData="Data/WorldBoss/EvolvedJungleWurmCrimson.trl"     texture="Data/SemiLineMid.png" color="ffff0000" alpha="0.8" fadeNear="2000" fadeFar="3000" animSpeed="0" mapDisplaySize="15"/>
-		<Trail type="world_boss.evolved_jungle_wurm.cobalt.ship"    GUID="mcFdGDmxxE+k4I4xzgAWhA==" trailData="Data/WorldBoss/EvolvedJungleWurmCobaltShip.trl"  texture="Data/SemiLineMid.png" color="ff00ffff" alpha="0.8" fadeNear="2000" fadeFar="3000" animSpeed="0" mapDisplaySize="15"/>
-		<Trail type="world_boss.evolved_jungle_wurm.cobalt.water"   GUID="Yo86fXJCDU6+jPNhGijB3w==" trailData="Data/WorldBoss/EvolvedJungleWurmCobaltWater.trl" texture="Data/SemiLineMid.png" color="ff00ffff" alpha="0.8" fadeNear="2000" fadeFar="3000" animSpeed="0" mapDisplaySize="15"/>
-		<POI MapID="73" xpos="223.009"  ypos="8.27037" zpos="-93.4884" type="world_boss.evolved_jungle_wurm.amber_escort"   GUID="DTG+URTroE+OuOUb8+8gpw=="/>
-		<POI MapID="73" xpos="145.264"  ypos="2.86751" zpos="-44.9224" type="world_boss.evolved_jungle_wurm.cobalt_escort"  GUID="UKG5O95xkEulhf0EWvg61Q=="/>
-		<POI MapID="73" xpos="168.202"  ypos="11.7835" zpos="-119.347" type="world_boss.evolved_jungle_wurm.crimson_escort" GUID="GAYeMAm7akOK256lGkJtAA=="/>
-		<POI MapID="73" xpos="669.145"  ypos="-0.2292" zpos="-604.491" type="world_boss.evolved_jungle_wurm.amber"          GUID="7ARLYAB5O0i3ZfJQ374ESw=="/>
-		<POI MapID="73" xpos="736.082"  ypos="0.89012" zpos="-606.115" type="world_boss.evolved_jungle_wurm.amber.harpoon"  GUID="pwuTq29l20m3hIH3RPm+kQ=="/>
-		<POI MapID="73" xpos="-280.25"  ypos="0.10244" zpos="-871.184" type="world_boss.evolved_jungle_wurm.cobalt"         GUID="SERgIj4XqkeGJKEfYN12xA=="/>
-		<POI MapID="73" xpos="-323.123" ypos="2.11982" zpos="-795.229" type="world_boss.evolved_jungle_wurm.cobalt.beach"   GUID="+DPWZUokJUqIKcTan7A6mg=="/>
-		<POI MapID="73" xpos="-184.012" ypos="1.61965" zpos="-900.224" type="world_boss.evolved_jungle_wurm.cobalt.ship"    GUID="7pMS6uWy/EqUWYGLdMgKaA=="/>
-		<POI MapID="73" xpos="-236.481" ypos="1.40428" zpos="-764.414" type="world_boss.evolved_jungle_wurm.cobalt.water"   GUID="tQDwX6jUvUu2lc6gf8pcPg=="/>
-		<POI MapID="73" xpos="202.438"  ypos="16.0376" zpos="-439.309" type="world_boss.evolved_jungle_wurm.crimson"        GUID="q+RJ/85PwECbykpGTsTHhA=="/>
-		<POI MapID="73" xpos="258.525"  ypos="33.2059" zpos="-470.818" type="world_boss.evolved_jungle_wurm.crimson.blue"   GUID="RFxywkTcuU6oL5WPli1+4g=="/>
-		<POI MapID="73" xpos="159.005"  ypos="46.9176" zpos="-433.766" type="world_boss.evolved_jungle_wurm.crimson.yellow" GUID="hb3GWoCMzkiu8yTgSGD6Lg=="/>
-		<POI MapID="73" xpos="229.255"  ypos="43.8031" zpos="-372.863" type="world_boss.evolved_jungle_wurm.crimson.red"    GUID="c5rHXk5X0EC+hYQ7qjxaKA=="/>
-
+		<Trail type="world_boss.evolved_jungle_wurm.amber_escort" GUID="qi65/NAkREyn9gfQ6a1yFQ==" trailData="Data/WorldBoss/EvolvedJungleWurmAmber.trl" texture="Data/SemiLineMid.png" color="ffffff00" alpha="0.8" fadeNear="2000" fadeFar="3000" animSpeed="0" mapDisplaySize="15" />
+		<Trail type="world_boss.evolved_jungle_wurm.cobalt_escort" GUID="tbV3ihFEzEyJJFqvE2fDyg==" trailData="Data/WorldBoss/EvolvedJungleWurmCobalt.trl" texture="Data/SemiLineMid.png" color="ff00ffff" alpha="0.8" fadeNear="2000" fadeFar="3000" animSpeed="0" mapDisplaySize="15" />
+		<Trail type="world_boss.evolved_jungle_wurm.crimson_escort" GUID="hS24GfTrAE6dFk9vS9Wm7Q==" trailData="Data/WorldBoss/EvolvedJungleWurmCrimson.trl" texture="Data/SemiLineMid.png" color="ffff0000" alpha="0.8" fadeNear="2000" fadeFar="3000" animSpeed="0" mapDisplaySize="15" />
+		<Trail type="world_boss.evolved_jungle_wurm.cobalt.ship" GUID="mcFdGDmxxE+k4I4xzgAWhA==" trailData="Data/WorldBoss/EvolvedJungleWurmCobaltShip.trl" texture="Data/SemiLineMid.png" color="ff00ffff" alpha="0.8" fadeNear="2000" fadeFar="3000" animSpeed="0" mapDisplaySize="15" />
+		<Trail type="world_boss.evolved_jungle_wurm.cobalt.water" GUID="Yo86fXJCDU6+jPNhGijB3w==" trailData="Data/WorldBoss/EvolvedJungleWurmCobaltWater.trl" texture="Data/SemiLineMid.png" color="ff00ffff" alpha="0.8" fadeNear="2000" fadeFar="3000" animSpeed="0" mapDisplaySize="15" />
+		<POI MapID="73" xpos="223.009" ypos="8.27037" zpos="-93.4884" type="world_boss.evolved_jungle_wurm.amber_escort" GUID="DTG+URTroE+OuOUb8+8gpw==" />
+		<POI MapID="73" xpos="145.264" ypos="2.86751" zpos="-44.9224" type="world_boss.evolved_jungle_wurm.cobalt_escort" GUID="UKG5O95xkEulhf0EWvg61Q==" />
+		<POI MapID="73" xpos="168.202" ypos="11.7835" zpos="-119.347" type="world_boss.evolved_jungle_wurm.crimson_escort" GUID="GAYeMAm7akOK256lGkJtAA==" />
+		<POI MapID="73" xpos="669.145" ypos="-0.2292" zpos="-604.491" type="world_boss.evolved_jungle_wurm.amber" GUID="7ARLYAB5O0i3ZfJQ374ESw==" />
+		<POI MapID="73" xpos="736.082" ypos="0.89012" zpos="-606.115" type="world_boss.evolved_jungle_wurm.amber.harpoon" GUID="pwuTq29l20m3hIH3RPm+kQ==" />
+		<POI MapID="73" xpos="-280.25" ypos="0.10244" zpos="-871.184" type="world_boss.evolved_jungle_wurm.cobalt" GUID="SERgIj4XqkeGJKEfYN12xA==" />
+		<POI MapID="73" xpos="-323.123" ypos="2.11982" zpos="-795.229" type="world_boss.evolved_jungle_wurm.cobalt.beach" GUID="+DPWZUokJUqIKcTan7A6mg==" />
+		<POI MapID="73" xpos="-184.012" ypos="1.61965" zpos="-900.224" type="world_boss.evolved_jungle_wurm.cobalt.ship" GUID="7pMS6uWy/EqUWYGLdMgKaA==" />
+		<POI MapID="73" xpos="-236.481" ypos="1.40428" zpos="-764.414" type="world_boss.evolved_jungle_wurm.cobalt.water" GUID="tQDwX6jUvUu2lc6gf8pcPg==" />
+		<POI MapID="73" xpos="202.438" ypos="16.0376" zpos="-439.309" type="world_boss.evolved_jungle_wurm.crimson" GUID="q+RJ/85PwECbykpGTsTHhA==" />
+		<POI MapID="73" xpos="258.525" ypos="33.2059" zpos="-470.818" type="world_boss.evolved_jungle_wurm.crimson.blue" GUID="RFxywkTcuU6oL5WPli1+4g==" />
+		<POI MapID="73" xpos="159.005" ypos="46.9176" zpos="-433.766" type="world_boss.evolved_jungle_wurm.crimson.yellow" GUID="hb3GWoCMzkiu8yTgSGD6Lg==" />
+		<POI MapID="73" xpos="229.255" ypos="43.8031" zpos="-372.863" type="world_boss.evolved_jungle_wurm.crimson.red" GUID="c5rHXk5X0EC+hYQ7qjxaKA==" />
 		<!-- KARKA QUEEN -->
-		<POI MapID="873" xpos="44.3375" ypos="20.4851" zpos="-334.776" type="world_boss.karka_queen.karka"     GUID="ULnnzVHaHEyzlzPD67+x4Q=="/>
-		<POI MapID="873" xpos="485.759" ypos="29.4638" zpos="88.1137"  type="world_boss.karka_queen.kiel"      GUID="U5knzYRWNkW9ZyGOGP/66w=="/>
-		<POI MapID="873" xpos="496.956" ypos="28.3957" zpos="101.015"  type="world_boss.karka_queen.kiel"      GUID="nUbGwtadIU6DFaVoQLq0Vw==" iconFile="Img/Icons/Fight.png"       fadeNear="5000" fadeFar="6000" mapVisibility="0" miniMapVisibility="0"/>
-		<POI MapID="873" xpos="510.793" ypos="27.2906" zpos="74.4513"  type="world_boss.karka_queen.kiel"      GUID="4ShqG4Al9kC6aIBgbPoY9Q==" iconFile="Img/Icons/Fight.png"       fadeNear="5000" fadeFar="6000" mapVisibility="0" miniMapVisibility="0"/>
-		<POI MapID="873" xpos="457.362" ypos="29.8768" zpos="108.675"  type="world_boss.karka_queen.kiel"      GUID="uFTIosWk/UGMmB84oMgT0Q==" iconFile="Img/Icons/Fight.png"       fadeNear="5000" fadeFar="6000" mapVisibility="0" miniMapVisibility="0"/>
-		<POI MapID="873" xpos="134.003" ypos="47.3163" zpos="-10.6394" type="world_boss.karka_queen.steampipe" GUID="fYMVTpUn5Ui56hFDE4ZJ8w=="/>
-		<POI MapID="873" xpos="627.846" ypos="3.31455" zpos="308.973"  type="world_boss.karka_queen.pride"     GUID="+g+5x79rJUi+0/imzmeJAw=="/>
-		<POI MapID="873" xpos="646.203" ypos="1.83985" zpos="302.995"  type="world_boss.karka_queen.pride"     GUID="Ske2E25AjESsVquFTZj+Bg==" iconFile="Img/Icons/Interaction.png" minSize="12" maxSize="18" fadeNear="3500" fadeFar="4000" behavior="4" resetLenght="15" mapVisibility="0" miniMapVisibility="0"/>
-		<POI MapID="873" xpos="633.412" ypos="3.06191" zpos="317.353"  type="world_boss.karka_queen.pride"     GUID="SlWQZ9jo5kW35wmcrB8BmQ==" iconFile="Img/Icons/Interaction.png" minSize="12" maxSize="18" fadeNear="3500" fadeFar="4000" behavior="4" resetLenght="15" mapVisibility="0" miniMapVisibility="0"/>
-		<POI MapID="873" xpos="624.423" ypos="1.23784" zpos="336.757"  type="world_boss.karka_queen.pride"     GUID="/FZkuvXwrEK/TMrdkB6T5Q==" iconFile="Img/Icons/Interaction.png" minSize="12" maxSize="18" fadeNear="3500" fadeFar="4000" behavior="4" resetLenght="15" mapVisibility="0" miniMapVisibility="0"/>
-		<POI MapID="873" xpos="617.291" ypos="2.81593" zpos="304.642"  type="world_boss.karka_queen.pride"     GUID="5stEf2cEkESsXPhXw4GRig==" iconFile="Img/Icons/Interaction.png" minSize="12" maxSize="18" fadeNear="3500" fadeFar="4000" behavior="4" resetLenght="15" mapVisibility="0" miniMapVisibility="0"/>
-		<POI MapID="873" xpos="599.873" ypos="1.57268" zpos="320.922"  type="world_boss.karka_queen.pride"     GUID="ao7iEY0thEihbfTjluMiTw==" iconFile="Img/Icons/Interaction.png" minSize="12" maxSize="18" fadeNear="3500" fadeFar="4000" behavior="4" resetLenght="15" mapVisibility="0" miniMapVisibility="0"/>
-		<POI MapID="873" xpos="572.791" ypos="5.9362"  zpos="205.741"  type="world_boss.karka_queen.fight"     GUID="oNzGUBlNUk+dtdR7KUcqwQ=="/>
-		<POI MapID="873" xpos="481.332" ypos="28.5775" zpos="135.587"  type="world_boss.karka_queen.fight"     GUID="Gs72exjLWUC4Uk+gFfYdUg=="/>
-		<POI MapID="873" xpos="42.804"  ypos="38.067"  zpos="-26.6639" type="world_boss.karka_queen.fight"     GUID="Spacr5H870mrXCofvLPKsg=="/>
-		<POI MapID="873" xpos="-69.373" ypos="31.3649" zpos="-235.576" type="world_boss.karka_queen.fight"     GUID="GHHmLBhaPUi6msXt1FEGRQ=="/>
-
+		<POI MapID="873" xpos="44.3375" ypos="20.4851" zpos="-334.776" type="world_boss.karka_queen.karka" GUID="ULnnzVHaHEyzlzPD67+x4Q==" />
+		<POI MapID="873" xpos="485.759" ypos="29.4638" zpos="88.1137" type="world_boss.karka_queen.kiel" GUID="U5knzYRWNkW9ZyGOGP/66w==" />
+		<POI MapID="873" xpos="496.956" ypos="28.3957" zpos="101.015" type="world_boss.karka_queen.kiel" GUID="nUbGwtadIU6DFaVoQLq0Vw==" iconFile="Img/Icons/Fight.png" fadeNear="5000" fadeFar="6000" mapVisibility="0" miniMapVisibility="0" />
+		<POI MapID="873" xpos="510.793" ypos="27.2906" zpos="74.4513" type="world_boss.karka_queen.kiel" GUID="4ShqG4Al9kC6aIBgbPoY9Q==" iconFile="Img/Icons/Fight.png" fadeNear="5000" fadeFar="6000" mapVisibility="0" miniMapVisibility="0" />
+		<POI MapID="873" xpos="457.362" ypos="29.8768" zpos="108.675" type="world_boss.karka_queen.kiel" GUID="uFTIosWk/UGMmB84oMgT0Q==" iconFile="Img/Icons/Fight.png" fadeNear="5000" fadeFar="6000" mapVisibility="0" miniMapVisibility="0" />
+		<POI MapID="873" xpos="134.003" ypos="47.3163" zpos="-10.6394" type="world_boss.karka_queen.steampipe" GUID="fYMVTpUn5Ui56hFDE4ZJ8w==" />
+		<POI MapID="873" xpos="627.846" ypos="3.31455" zpos="308.973" type="world_boss.karka_queen.pride" GUID="+g+5x79rJUi+0/imzmeJAw==" />
+		<POI MapID="873" xpos="646.203" ypos="1.83985" zpos="302.995" type="world_boss.karka_queen.pride" GUID="Ske2E25AjESsVquFTZj+Bg==" iconFile="Img/Icons/Interaction.png" minSize="12" maxSize="18" fadeNear="3500" fadeFar="4000" behavior="4" resetLenght="15" mapVisibility="0" miniMapVisibility="0" />
+		<POI MapID="873" xpos="633.412" ypos="3.06191" zpos="317.353" type="world_boss.karka_queen.pride" GUID="SlWQZ9jo5kW35wmcrB8BmQ==" iconFile="Img/Icons/Interaction.png" minSize="12" maxSize="18" fadeNear="3500" fadeFar="4000" behavior="4" resetLenght="15" mapVisibility="0" miniMapVisibility="0" />
+		<POI MapID="873" xpos="624.423" ypos="1.23784" zpos="336.757" type="world_boss.karka_queen.pride" GUID="/FZkuvXwrEK/TMrdkB6T5Q==" iconFile="Img/Icons/Interaction.png" minSize="12" maxSize="18" fadeNear="3500" fadeFar="4000" behavior="4" resetLenght="15" mapVisibility="0" miniMapVisibility="0" />
+		<POI MapID="873" xpos="617.291" ypos="2.81593" zpos="304.642" type="world_boss.karka_queen.pride" GUID="5stEf2cEkESsXPhXw4GRig==" iconFile="Img/Icons/Interaction.png" minSize="12" maxSize="18" fadeNear="3500" fadeFar="4000" behavior="4" resetLenght="15" mapVisibility="0" miniMapVisibility="0" />
+		<POI MapID="873" xpos="599.873" ypos="1.57268" zpos="320.922" type="world_boss.karka_queen.pride" GUID="ao7iEY0thEihbfTjluMiTw==" iconFile="Img/Icons/Interaction.png" minSize="12" maxSize="18" fadeNear="3500" fadeFar="4000" behavior="4" resetLenght="15" mapVisibility="0" miniMapVisibility="0" />
+		<POI MapID="873" xpos="572.791" ypos="5.9362" zpos="205.741" type="world_boss.karka_queen.fight" GUID="oNzGUBlNUk+dtdR7KUcqwQ==" />
+		<POI MapID="873" xpos="481.332" ypos="28.5775" zpos="135.587" type="world_boss.karka_queen.fight" GUID="Gs72exjLWUC4Uk+gFfYdUg==" />
+		<POI MapID="873" xpos="42.804" ypos="38.067" zpos="-26.6639" type="world_boss.karka_queen.fight" GUID="Spacr5H870mrXCofvLPKsg==" />
+		<POI MapID="873" xpos="-69.373" ypos="31.3649" zpos="-235.576" type="world_boss.karka_queen.fight" GUID="GHHmLBhaPUi6msXt1FEGRQ==" />
 		<!-- TEQUATL THE SUNLESS -->
-		<Trail type="world_boss.tequatl_the_sunless.pad" GUID="1cyoKdy4/ECbCXasmsyDQA==" trailData="Data/WorldBoss/Tequatl_Pad.trl" texture="Data/SemiLine.png" color="ffffff00" alpha="0.8" fadeNear="2000" fadeFar="3000" animSpeed="2" mapDisplaySize="15"/>
-		<POI MapID="53" xpos="-523.936" ypos="2.22334" zpos="-628.779" type="world_boss.tequatl_the_sunless.north"     GUID="TM756wywyUaEGr8JaZMUzg==" fadeNear="10000" fadeFar="12000"/>
-		<POI MapID="53" xpos="-548.712" ypos="2.7492"  zpos="-644.291" type="world_boss.tequatl_the_sunless.north"     GUID="yqKCF4Z9ekKMjFV4a+hRmw==" iconFile="Img/Collectibles/Rubble.png" heightOffset="0" fadeNear="3500" fadeFar="4000" behavior="4" resetLenght="15" mapVisibility="0" miniMapVisibility="0"/>
-		<POI MapID="53" xpos="-539.86"  ypos="0.89733" zpos="-633.361" type="world_boss.tequatl_the_sunless.north"     GUID="2erPseqa2EqF1wv4kU5Uow==" iconFile="Img/Collectibles/Rubble.png" heightOffset="0" fadeNear="3500" fadeFar="4000" behavior="4" resetLenght="15" mapVisibility="0" miniMapVisibility="0"/>
-		<POI MapID="53" xpos="-539.099" ypos="0.82316" zpos="-620.056" type="world_boss.tequatl_the_sunless.north"     GUID="7HB9TvaL+kKtng7xcmYpbg==" iconFile="Img/Collectibles/Rubble.png" heightOffset="0" fadeNear="3500" fadeFar="4000" behavior="4" resetLenght="15" mapVisibility="0" miniMapVisibility="0"/>
-		<POI MapID="53" xpos="-536.119" ypos="2.18333" zpos="-661.827" type="world_boss.tequatl_the_sunless.north"     GUID="KUMPwCPhaE24+NUxxxLHuA==" iconFile="Img/Collectibles/Rubble.png" heightOffset="0" fadeNear="3500" fadeFar="4000" behavior="4" resetLenght="15" mapVisibility="0" miniMapVisibility="0"/>
-		<POI MapID="53" xpos="-532.017" ypos="2.03413" zpos="-645.312" type="world_boss.tequatl_the_sunless.north"     GUID="ONsnBE4qdk6g4I9fQZmxVA==" iconFile="Img/Collectibles/Rubble.png" heightOffset="0" fadeNear="3500" fadeFar="4000" behavior="4" resetLenght="15" mapVisibility="0" miniMapVisibility="0"/>
-		<POI MapID="53" xpos="-524.349" ypos="5.02073" zpos="-655.453" type="world_boss.tequatl_the_sunless.north"     GUID="WONrRKafL02F6ONCOUkxUw==" iconFile="Img/Collectibles/Rubble.png" heightOffset="0" fadeNear="3500" fadeFar="4000" behavior="4" resetLenght="15" mapVisibility="0" miniMapVisibility="0"/>
-		<POI MapID="53" xpos="-515.471" ypos="1.96105" zpos="-617.88"  type="world_boss.tequatl_the_sunless.north"     GUID="rNWl2toDZUSVKjZu8PmmuQ==" iconFile="Img/Collectibles/Rubble.png" heightOffset="0" fadeNear="3500" fadeFar="4000" behavior="4" resetLenght="15" mapVisibility="0" miniMapVisibility="0"/>
-		<POI MapID="53" xpos="-508.244" ypos="1.74779" zpos="-649.291" type="world_boss.tequatl_the_sunless.north"     GUID="fHsV2Pg5M02RuNajdgQhXg==" iconFile="Img/Collectibles/Rubble.png" heightOffset="0" fadeNear="3500" fadeFar="4000" behavior="4" resetLenght="15" mapVisibility="0" miniMapVisibility="0"/>
-		<POI MapID="53" xpos="-506.914" ypos="1.19787" zpos="-609.026" type="world_boss.tequatl_the_sunless.north"     GUID="53zbPEsbJ0uMbmPwbsEshg==" iconFile="Img/Collectibles/Rubble.png" heightOffset="0" fadeNear="3500" fadeFar="4000" behavior="4" resetLenght="15" mapVisibility="0" miniMapVisibility="0"/>
-		<POI MapID="53" xpos="-504.73"  ypos="0.70101" zpos="-629.148" type="world_boss.tequatl_the_sunless.north"     GUID="BBa3XcLZTkiKitj1h5bGxg==" iconFile="Img/Collectibles/Rubble.png" heightOffset="0" fadeNear="3500" fadeFar="4000" behavior="4" resetLenght="15" mapVisibility="0" miniMapVisibility="0"/>
-		<POI MapID="53" xpos="-489.185" ypos="0.4909"  zpos="-629.147" type="world_boss.tequatl_the_sunless.north"     GUID="tRzYy+xGcUewk56GPk8PRg==" iconFile="Img/Collectibles/Rubble.png" heightOffset="0" fadeNear="3500" fadeFar="4000" behavior="4" resetLenght="15" mapVisibility="0" miniMapVisibility="0"/>
-		<POI MapID="53" xpos="-338.659" ypos="1.93092" zpos="-719.187" type="world_boss.tequatl_the_sunless.east"      GUID="JI/vxcP990e0F2tnFkjyMg==" fadeNear="10000" fadeFar="12000"/>
-		<POI MapID="53" xpos="-736.216" ypos="2.82826" zpos="-758.942" type="world_boss.tequatl_the_sunless.east"      GUID="LI+TqvO0n0iJDaQo7IlHLA==" iconFile="Img/Icons/Danger.png"        fadeNear="1500" fadeFar="2500" mapVisibility="0" miniMapVisibility="0"/>
-		<POI MapID="53" xpos="-650.084" ypos="0.29693" zpos="-744.473" type="world_boss.tequatl_the_sunless.east"      GUID="9maECl/Z0UuNeOYJeSiXJw==" iconFile="Img/Icons/Danger.png"        fadeNear="1500" fadeFar="2500" mapVisibility="0" miniMapVisibility="0"/>
-		<POI MapID="53" xpos="-653.621" ypos="0.30399" zpos="-696.01"  type="world_boss.tequatl_the_sunless.east"      GUID="VXDtHM3LPEqvAxOxYU7/DQ==" iconFile="Img/Icons/Danger.png"        fadeNear="1500" fadeFar="2500" mapVisibility="0" miniMapVisibility="0"/>
-		<POI MapID="53" xpos="-688.05"  ypos="6.938"   zpos="-728.761" type="world_boss.tequatl_the_sunless.west"      GUID="D9mKmwAJZkWORwmsfcjsrA==" fadeNear="10000" fadeFar="12000"/>
-		<POI MapID="53" xpos="-461.813" ypos="3.81738" zpos="-753.518" type="world_boss.tequatl_the_sunless.laser"     GUID="v/zfbfuPfEG9dToR/Ip2lA==" fadeNear="10000" fadeFar="12000"/>
-		<POI MapID="53" xpos="-541.691" ypos="2.37537" zpos="-793.844" type="world_boss.tequatl_the_sunless.turrets"   GUID="iiZAaInBgUiNQ/67WHrqEw=="/>
-		<POI MapID="53" xpos="-525.097" ypos="2.40669" zpos="-791.706" type="world_boss.tequatl_the_sunless.turrets"   GUID="UUqQnhAcJkuZEbWMYIBzyQ=="/>
-		<POI MapID="53" xpos="-511.072" ypos="2.16905" zpos="-795.819" type="world_boss.tequatl_the_sunless.turrets"   GUID="Dz7dyMTCckKN3P8vMMF5GA=="/>
-		<POI MapID="53" xpos="-471.18"  ypos="2.40339" zpos="-833.5"   type="world_boss.tequatl_the_sunless.turrets"   GUID="u94PDA39kky0L73evCcpAw=="/>
-		<POI MapID="53" xpos="-457.947" ypos="2.73456" zpos="-849.38"  type="world_boss.tequatl_the_sunless.turrets"   GUID="e+vkXthJikyk1BOZLoD5VQ=="/>
-		<POI MapID="53" xpos="-447.824" ypos="2.07092" zpos="-865.75"  type="world_boss.tequatl_the_sunless.turrets"   GUID="J2HxB5h8DEKj01420ZR9Lw=="/>
-		<POI MapID="53" xpos="-446.839" ypos="3.14034" zpos="-864.9"   type="world_boss.tequatl_the_sunless.turrets"   GUID="sUafEBQYWUqB9ZTWmotbuA==" iconFile="Img/WorldBoss/TurretTequatlInfo.png" fadeNear="650" fadeFar="900" minSize="125" maxSize="200" heightOffset="0.25" mapVisibility="0" miniMapVisibility="0"/>
-		<POI MapID="53" xpos="-455.405" ypos="1.78976" zpos="-848.847" type="world_boss.tequatl_the_sunless.turrets"   GUID="eC5Yd0Y2XEC2B41oICQ5aA==" iconFile="Img/WorldBoss/TurretTequatlInfo.png" fadeNear="650" fadeFar="900" minSize="125" maxSize="200" heightOffset="0.25" mapVisibility="0" miniMapVisibility="0"/>
-		<POI MapID="53" xpos="-468.45"  ypos="1.15311" zpos="-831.474" type="world_boss.tequatl_the_sunless.turrets"   GUID="MHWOvXUvm0+0doU+Q/awLg==" iconFile="Img/WorldBoss/TurretTequatlInfo.png" fadeNear="650" fadeFar="900" minSize="125" maxSize="200" heightOffset="0.25" mapVisibility="0" miniMapVisibility="0"/>
-		<POI MapID="53" xpos="-510.212" ypos="0.9323"  zpos="-793.665" type="world_boss.tequatl_the_sunless.turrets"   GUID="lITM+ct8Mkuyb3Wdc541vg==" iconFile="Img/WorldBoss/TurretTequatlInfo.png" fadeNear="650" fadeFar="900" minSize="125" maxSize="200" heightOffset="0.25" mapVisibility="0" miniMapVisibility="0"/>
-		<POI MapID="53" xpos="-524.934" ypos="0.56429" zpos="-788.779" type="world_boss.tequatl_the_sunless.turrets"   GUID="xQj2sMEHRE+uMAedlR+DKA==" iconFile="Img/WorldBoss/TurretTequatlInfo.png" fadeNear="650" fadeFar="900" minSize="125" maxSize="200" heightOffset="0.25" mapVisibility="0" miniMapVisibility="0"/>
-		<POI MapID="53" xpos="-541.282" ypos="0.36453" zpos="-791.054" type="world_boss.tequatl_the_sunless.turrets"   GUID="S4PMSqrcyU6cNhxRk0oYnA==" iconFile="Img/WorldBoss/TurretTequatlInfo.png" fadeNear="650" fadeFar="900" minSize="125" maxSize="200" heightOffset="0.25" mapVisibility="0" miniMapVisibility="0"/>
-		<POI MapID="53" xpos="-517.644" ypos="3.50691" zpos="-643.745" type="world_boss.tequatl_the_sunless.pad"       GUID="L612opQE9EeXdnJ4jYKMKA=="/>
-		<POI MapID="53" xpos="-673.659" ypos="6.84911" zpos="-741.269" type="world_boss.tequatl_the_sunless.pad"       GUID="sv1HDbzC8kWVjo6VI0mnSQ=="/>
-		<POI MapID="53" xpos="-589.116" ypos="3.49121" zpos="-747.554" type="world_boss.tequatl_the_sunless.pad"       GUID="4kTwL/EDPkWcL3smoBYzow=="/>
-		<POI MapID="53" xpos="-557.325" ypos="1.81281" zpos="-752.598" type="world_boss.tequatl_the_sunless.pad"       GUID="BAB8rJtbkkuO/9W90Tcfpg=="/>
-		<POI MapID="53" xpos="-482.384" ypos="1.6017"  zpos="-758.319" type="world_boss.tequatl_the_sunless.pad"       GUID="y2zszwjG9k+b6/vZ6m8spQ=="/>
-		<POI MapID="53" xpos="-469.073" ypos="2.04851" zpos="-732.436" type="world_boss.tequatl_the_sunless.pad"       GUID="FmvzjCiPYUyxPG5ujviSCQ=="/>
-		<POI MapID="53" xpos="-465.16"  ypos="1.76501" zpos="-772.08"  type="world_boss.tequatl_the_sunless.pad"       GUID="5r7LzXSn+UWmb3OlqinxoQ=="/>
-		<POI MapID="53" xpos="-451.935" ypos="3.79481" zpos="-837.89"  type="world_boss.tequatl_the_sunless.pad"       GUID="HVoyu2X+JEy/dD/xO6JtTQ=="/>
-		<POI MapID="53" xpos="-440.286" ypos="1.55961" zpos="-753.978" type="world_boss.tequatl_the_sunless.pad"       GUID="4SgK/0rHCUGtG32WicMU/A=="/>
-		<POI MapID="53" xpos="-355.678" ypos="5.16826" zpos="-728.518" type="world_boss.tequatl_the_sunless.pad"       GUID="dZJmSwIaw0ao+/VGBx8Vow=="/>
-		<POI MapID="53" xpos="-568.984" ypos="-0.3547" zpos="-886.209" type="world_boss.tequatl_the_sunless.tentacles" GUID="NC3FGnvTG0uNfQ6OzJhfzA=="/>
-		<POI MapID="53" xpos="-565.245" ypos="-0.5339" zpos="-871.489" type="world_boss.tequatl_the_sunless.tentacles" GUID="bc4Idv4C6EGILncezsIPQA=="/>
-		<POI MapID="53" xpos="-558.809" ypos="0.24916" zpos="-909.524" type="world_boss.tequatl_the_sunless.tentacles" GUID="198SQ276pkCWZojHyQ1sag=="/>
-		<POI MapID="53" xpos="-553.307" ypos="-0.4296" zpos="-858.848" type="world_boss.tequatl_the_sunless.tentacles" GUID="oAztBf2xDkyT36GyQsepcA=="/>
-		<POI MapID="53" xpos="-545.846" ypos="-0.3597" zpos="-919.592" type="world_boss.tequatl_the_sunless.tentacles" GUID="MJ5OWqQ0R0WX69oSYlwpFw=="/>
-		<POI MapID="53" xpos="-537.858" ypos="0.05006" zpos="-827.504" type="world_boss.tequatl_the_sunless.tentacles" GUID="jg0OINIRAEymw9DHZyHiew=="/>
-		<POI MapID="53" xpos="-521.014" ypos="0.16197" zpos="-848.621" type="world_boss.tequatl_the_sunless.tentacles" GUID="NS61YIYry02as+oda9QLYg=="/>
-		<POI MapID="53" xpos="-516.24"  ypos="-0.1689" zpos="-915.709" type="world_boss.tequatl_the_sunless.tentacles" GUID="ol6Thd4nwkub9H/H8ud/1w=="/>
-		<POI MapID="53" xpos="-500.343" ypos="0.31263" zpos="-904.114" type="world_boss.tequatl_the_sunless.tentacles" GUID="7ryOualc8ESjgJB9Vk/E5A=="/>
-		<POI MapID="53" xpos="-500.052" ypos="-0.6047" zpos="-883.927" type="world_boss.tequatl_the_sunless.tentacles" GUID="lUSjvysOzkC7J/9+0uSHeQ=="/>
-		<POI MapID="53" xpos="-496.547" ypos="0.20613" zpos="-825.616" type="world_boss.tequatl_the_sunless.tentacles" GUID="1pT7R82aqEmLHaJzIAQdhw=="/>
-		<POI MapID="53" xpos="-489.147" ypos="0.47191" zpos="-857.005" type="world_boss.tequatl_the_sunless.tentacles" GUID="EIaMr6gS+0a6c9HfAm0UDQ=="/>
-		<POI MapID="53" xpos="-453.91"  ypos="3.04933" zpos="-858.836" type="world_boss.tequatl_the_sunless.tentacles" GUID="nlnpqIgoI0OtXHCl5QdUWg=="/>
-		<POI MapID="53" xpos="-541.013" ypos="-0.1076" zpos="-884.683" type="world_boss.tequatl_the_sunless.tequatl"   GUID="RLYW48QmckukMMWugpGvIg=="/>
-
+		<Trail type="world_boss.tequatl_the_sunless.pad" GUID="1cyoKdy4/ECbCXasmsyDQA==" trailData="Data/WorldBoss/Tequatl_Pad.trl" texture="Data/SemiLine.png" color="ffffff00" alpha="0.8" fadeNear="2000" fadeFar="3000" animSpeed="2" mapDisplaySize="15" />
+		<POI MapID="53" xpos="-523.936" ypos="2.22334" zpos="-628.779" type="world_boss.tequatl_the_sunless.north" GUID="TM756wywyUaEGr8JaZMUzg==" fadeNear="10000" fadeFar="12000" />
+		<POI MapID="53" xpos="-548.712" ypos="2.7492" zpos="-644.291" type="world_boss.tequatl_the_sunless.north" GUID="yqKCF4Z9ekKMjFV4a+hRmw==" iconFile="Img/Collectibles/Rubble.png" heightOffset="0" fadeNear="3500" fadeFar="4000" behavior="4" resetLenght="15" mapVisibility="0" miniMapVisibility="0" />
+		<POI MapID="53" xpos="-539.86" ypos="0.89733" zpos="-633.361" type="world_boss.tequatl_the_sunless.north" GUID="2erPseqa2EqF1wv4kU5Uow==" iconFile="Img/Collectibles/Rubble.png" heightOffset="0" fadeNear="3500" fadeFar="4000" behavior="4" resetLenght="15" mapVisibility="0" miniMapVisibility="0" />
+		<POI MapID="53" xpos="-539.099" ypos="0.82316" zpos="-620.056" type="world_boss.tequatl_the_sunless.north" GUID="7HB9TvaL+kKtng7xcmYpbg==" iconFile="Img/Collectibles/Rubble.png" heightOffset="0" fadeNear="3500" fadeFar="4000" behavior="4" resetLenght="15" mapVisibility="0" miniMapVisibility="0" />
+		<POI MapID="53" xpos="-536.119" ypos="2.18333" zpos="-661.827" type="world_boss.tequatl_the_sunless.north" GUID="KUMPwCPhaE24+NUxxxLHuA==" iconFile="Img/Collectibles/Rubble.png" heightOffset="0" fadeNear="3500" fadeFar="4000" behavior="4" resetLenght="15" mapVisibility="0" miniMapVisibility="0" />
+		<POI MapID="53" xpos="-532.017" ypos="2.03413" zpos="-645.312" type="world_boss.tequatl_the_sunless.north" GUID="ONsnBE4qdk6g4I9fQZmxVA==" iconFile="Img/Collectibles/Rubble.png" heightOffset="0" fadeNear="3500" fadeFar="4000" behavior="4" resetLenght="15" mapVisibility="0" miniMapVisibility="0" />
+		<POI MapID="53" xpos="-524.349" ypos="5.02073" zpos="-655.453" type="world_boss.tequatl_the_sunless.north" GUID="WONrRKafL02F6ONCOUkxUw==" iconFile="Img/Collectibles/Rubble.png" heightOffset="0" fadeNear="3500" fadeFar="4000" behavior="4" resetLenght="15" mapVisibility="0" miniMapVisibility="0" />
+		<POI MapID="53" xpos="-515.471" ypos="1.96105" zpos="-617.88" type="world_boss.tequatl_the_sunless.north" GUID="rNWl2toDZUSVKjZu8PmmuQ==" iconFile="Img/Collectibles/Rubble.png" heightOffset="0" fadeNear="3500" fadeFar="4000" behavior="4" resetLenght="15" mapVisibility="0" miniMapVisibility="0" />
+		<POI MapID="53" xpos="-508.244" ypos="1.74779" zpos="-649.291" type="world_boss.tequatl_the_sunless.north" GUID="fHsV2Pg5M02RuNajdgQhXg==" iconFile="Img/Collectibles/Rubble.png" heightOffset="0" fadeNear="3500" fadeFar="4000" behavior="4" resetLenght="15" mapVisibility="0" miniMapVisibility="0" />
+		<POI MapID="53" xpos="-506.914" ypos="1.19787" zpos="-609.026" type="world_boss.tequatl_the_sunless.north" GUID="53zbPEsbJ0uMbmPwbsEshg==" iconFile="Img/Collectibles/Rubble.png" heightOffset="0" fadeNear="3500" fadeFar="4000" behavior="4" resetLenght="15" mapVisibility="0" miniMapVisibility="0" />
+		<POI MapID="53" xpos="-504.73" ypos="0.70101" zpos="-629.148" type="world_boss.tequatl_the_sunless.north" GUID="BBa3XcLZTkiKitj1h5bGxg==" iconFile="Img/Collectibles/Rubble.png" heightOffset="0" fadeNear="3500" fadeFar="4000" behavior="4" resetLenght="15" mapVisibility="0" miniMapVisibility="0" />
+		<POI MapID="53" xpos="-489.185" ypos="0.4909" zpos="-629.147" type="world_boss.tequatl_the_sunless.north" GUID="tRzYy+xGcUewk56GPk8PRg==" iconFile="Img/Collectibles/Rubble.png" heightOffset="0" fadeNear="3500" fadeFar="4000" behavior="4" resetLenght="15" mapVisibility="0" miniMapVisibility="0" />
+		<POI MapID="53" xpos="-338.659" ypos="1.93092" zpos="-719.187" type="world_boss.tequatl_the_sunless.east" GUID="JI/vxcP990e0F2tnFkjyMg==" fadeNear="10000" fadeFar="12000" />
+		<POI MapID="53" xpos="-736.216" ypos="2.82826" zpos="-758.942" type="world_boss.tequatl_the_sunless.east" GUID="LI+TqvO0n0iJDaQo7IlHLA==" iconFile="Img/Icons/Danger.png" fadeNear="1500" fadeFar="2500" mapVisibility="0" miniMapVisibility="0" />
+		<POI MapID="53" xpos="-650.084" ypos="0.29693" zpos="-744.473" type="world_boss.tequatl_the_sunless.east" GUID="9maECl/Z0UuNeOYJeSiXJw==" iconFile="Img/Icons/Danger.png" fadeNear="1500" fadeFar="2500" mapVisibility="0" miniMapVisibility="0" />
+		<POI MapID="53" xpos="-653.621" ypos="0.30399" zpos="-696.01" type="world_boss.tequatl_the_sunless.east" GUID="VXDtHM3LPEqvAxOxYU7/DQ==" iconFile="Img/Icons/Danger.png" fadeNear="1500" fadeFar="2500" mapVisibility="0" miniMapVisibility="0" />
+		<POI MapID="53" xpos="-688.05" ypos="6.938" zpos="-728.761" type="world_boss.tequatl_the_sunless.west" GUID="D9mKmwAJZkWORwmsfcjsrA==" fadeNear="10000" fadeFar="12000" />
+		<POI MapID="53" xpos="-461.813" ypos="3.81738" zpos="-753.518" type="world_boss.tequatl_the_sunless.laser" GUID="v/zfbfuPfEG9dToR/Ip2lA==" fadeNear="10000" fadeFar="12000" />
+		<POI MapID="53" xpos="-541.691" ypos="2.37537" zpos="-793.844" type="world_boss.tequatl_the_sunless.turrets" GUID="iiZAaInBgUiNQ/67WHrqEw==" />
+		<POI MapID="53" xpos="-525.097" ypos="2.40669" zpos="-791.706" type="world_boss.tequatl_the_sunless.turrets" GUID="UUqQnhAcJkuZEbWMYIBzyQ==" />
+		<POI MapID="53" xpos="-511.072" ypos="2.16905" zpos="-795.819" type="world_boss.tequatl_the_sunless.turrets" GUID="Dz7dyMTCckKN3P8vMMF5GA==" />
+		<POI MapID="53" xpos="-471.18" ypos="2.40339" zpos="-833.5" type="world_boss.tequatl_the_sunless.turrets" GUID="u94PDA39kky0L73evCcpAw==" />
+		<POI MapID="53" xpos="-457.947" ypos="2.73456" zpos="-849.38" type="world_boss.tequatl_the_sunless.turrets" GUID="e+vkXthJikyk1BOZLoD5VQ==" />
+		<POI MapID="53" xpos="-447.824" ypos="2.07092" zpos="-865.75" type="world_boss.tequatl_the_sunless.turrets" GUID="J2HxB5h8DEKj01420ZR9Lw==" />
+		<POI MapID="53" xpos="-446.839" ypos="3.14034" zpos="-864.9" type="world_boss.tequatl_the_sunless.turrets" GUID="sUafEBQYWUqB9ZTWmotbuA==" iconFile="Img/WorldBoss/TurretTequatlInfo.png" fadeNear="650" fadeFar="900" minSize="125" maxSize="200" heightOffset="0.25" mapVisibility="0" miniMapVisibility="0" />
+		<POI MapID="53" xpos="-455.405" ypos="1.78976" zpos="-848.847" type="world_boss.tequatl_the_sunless.turrets" GUID="eC5Yd0Y2XEC2B41oICQ5aA==" iconFile="Img/WorldBoss/TurretTequatlInfo.png" fadeNear="650" fadeFar="900" minSize="125" maxSize="200" heightOffset="0.25" mapVisibility="0" miniMapVisibility="0" />
+		<POI MapID="53" xpos="-468.45" ypos="1.15311" zpos="-831.474" type="world_boss.tequatl_the_sunless.turrets" GUID="MHWOvXUvm0+0doU+Q/awLg==" iconFile="Img/WorldBoss/TurretTequatlInfo.png" fadeNear="650" fadeFar="900" minSize="125" maxSize="200" heightOffset="0.25" mapVisibility="0" miniMapVisibility="0" />
+		<POI MapID="53" xpos="-510.212" ypos="0.9323" zpos="-793.665" type="world_boss.tequatl_the_sunless.turrets" GUID="lITM+ct8Mkuyb3Wdc541vg==" iconFile="Img/WorldBoss/TurretTequatlInfo.png" fadeNear="650" fadeFar="900" minSize="125" maxSize="200" heightOffset="0.25" mapVisibility="0" miniMapVisibility="0" />
+		<POI MapID="53" xpos="-524.934" ypos="0.56429" zpos="-788.779" type="world_boss.tequatl_the_sunless.turrets" GUID="xQj2sMEHRE+uMAedlR+DKA==" iconFile="Img/WorldBoss/TurretTequatlInfo.png" fadeNear="650" fadeFar="900" minSize="125" maxSize="200" heightOffset="0.25" mapVisibility="0" miniMapVisibility="0" />
+		<POI MapID="53" xpos="-541.282" ypos="0.36453" zpos="-791.054" type="world_boss.tequatl_the_sunless.turrets" GUID="S4PMSqrcyU6cNhxRk0oYnA==" iconFile="Img/WorldBoss/TurretTequatlInfo.png" fadeNear="650" fadeFar="900" minSize="125" maxSize="200" heightOffset="0.25" mapVisibility="0" miniMapVisibility="0" />
+		<POI MapID="53" xpos="-517.644" ypos="3.50691" zpos="-643.745" type="world_boss.tequatl_the_sunless.pad" GUID="L612opQE9EeXdnJ4jYKMKA==" />
+		<POI MapID="53" xpos="-673.659" ypos="6.84911" zpos="-741.269" type="world_boss.tequatl_the_sunless.pad" GUID="sv1HDbzC8kWVjo6VI0mnSQ==" />
+		<POI MapID="53" xpos="-589.116" ypos="3.49121" zpos="-747.554" type="world_boss.tequatl_the_sunless.pad" GUID="4kTwL/EDPkWcL3smoBYzow==" />
+		<POI MapID="53" xpos="-557.325" ypos="1.81281" zpos="-752.598" type="world_boss.tequatl_the_sunless.pad" GUID="BAB8rJtbkkuO/9W90Tcfpg==" />
+		<POI MapID="53" xpos="-482.384" ypos="1.6017" zpos="-758.319" type="world_boss.tequatl_the_sunless.pad" GUID="y2zszwjG9k+b6/vZ6m8spQ==" />
+		<POI MapID="53" xpos="-469.073" ypos="2.04851" zpos="-732.436" type="world_boss.tequatl_the_sunless.pad" GUID="FmvzjCiPYUyxPG5ujviSCQ==" />
+		<POI MapID="53" xpos="-465.16" ypos="1.76501" zpos="-772.08" type="world_boss.tequatl_the_sunless.pad" GUID="5r7LzXSn+UWmb3OlqinxoQ==" />
+		<POI MapID="53" xpos="-451.935" ypos="3.79481" zpos="-837.89" type="world_boss.tequatl_the_sunless.pad" GUID="HVoyu2X+JEy/dD/xO6JtTQ==" />
+		<POI MapID="53" xpos="-440.286" ypos="1.55961" zpos="-753.978" type="world_boss.tequatl_the_sunless.pad" GUID="4SgK/0rHCUGtG32WicMU/A==" />
+		<POI MapID="53" xpos="-355.678" ypos="5.16826" zpos="-728.518" type="world_boss.tequatl_the_sunless.pad" GUID="dZJmSwIaw0ao+/VGBx8Vow==" />
+		<POI MapID="53" xpos="-568.984" ypos="-0.3547" zpos="-886.209" type="world_boss.tequatl_the_sunless.tentacles" GUID="NC3FGnvTG0uNfQ6OzJhfzA==" />
+		<POI MapID="53" xpos="-565.245" ypos="-0.5339" zpos="-871.489" type="world_boss.tequatl_the_sunless.tentacles" GUID="bc4Idv4C6EGILncezsIPQA==" />
+		<POI MapID="53" xpos="-558.809" ypos="0.24916" zpos="-909.524" type="world_boss.tequatl_the_sunless.tentacles" GUID="198SQ276pkCWZojHyQ1sag==" />
+		<POI MapID="53" xpos="-553.307" ypos="-0.4296" zpos="-858.848" type="world_boss.tequatl_the_sunless.tentacles" GUID="oAztBf2xDkyT36GyQsepcA==" />
+		<POI MapID="53" xpos="-545.846" ypos="-0.3597" zpos="-919.592" type="world_boss.tequatl_the_sunless.tentacles" GUID="MJ5OWqQ0R0WX69oSYlwpFw==" />
+		<POI MapID="53" xpos="-537.858" ypos="0.05006" zpos="-827.504" type="world_boss.tequatl_the_sunless.tentacles" GUID="jg0OINIRAEymw9DHZyHiew==" />
+		<POI MapID="53" xpos="-521.014" ypos="0.16197" zpos="-848.621" type="world_boss.tequatl_the_sunless.tentacles" GUID="NS61YIYry02as+oda9QLYg==" />
+		<POI MapID="53" xpos="-516.24" ypos="-0.1689" zpos="-915.709" type="world_boss.tequatl_the_sunless.tentacles" GUID="ol6Thd4nwkub9H/H8ud/1w==" />
+		<POI MapID="53" xpos="-500.343" ypos="0.31263" zpos="-904.114" type="world_boss.tequatl_the_sunless.tentacles" GUID="7ryOualc8ESjgJB9Vk/E5A==" />
+		<POI MapID="53" xpos="-500.052" ypos="-0.6047" zpos="-883.927" type="world_boss.tequatl_the_sunless.tentacles" GUID="lUSjvysOzkC7J/9+0uSHeQ==" />
+		<POI MapID="53" xpos="-496.547" ypos="0.20613" zpos="-825.616" type="world_boss.tequatl_the_sunless.tentacles" GUID="1pT7R82aqEmLHaJzIAQdhw==" />
+		<POI MapID="53" xpos="-489.147" ypos="0.47191" zpos="-857.005" type="world_boss.tequatl_the_sunless.tentacles" GUID="EIaMr6gS+0a6c9HfAm0UDQ==" />
+		<POI MapID="53" xpos="-453.91" ypos="3.04933" zpos="-858.836" type="world_boss.tequatl_the_sunless.tentacles" GUID="nlnpqIgoI0OtXHCl5QdUWg==" />
+		<POI MapID="53" xpos="-541.013" ypos="-0.1076" zpos="-884.683" type="world_boss.tequatl_the_sunless.tequatl" GUID="RLYW48QmckukMMWugpGvIg==" />
 	</POIs>
 </OverlayData>

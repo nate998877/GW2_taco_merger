@@ -1,36 +1,31 @@
 <!-- 2019.12.25 -->
 <OverlayData>
 	<POIs>
-
 		<!-- Domain of Kourna -->
-		<POI MapID="1288" xpos="-1016.6"  ypos="37.2166" zpos="680.209"  type="assistances.travels.rollerbeetle_wall" GUID="8SFqEnmVIUC0PbCsXLNmjw=="/>
-		<POI MapID="1288" xpos="-972.38"  ypos="41.2838" zpos="657.862"  type="assistances.travels.rollerbeetle_wall" GUID="k2vgfJquP0iIdWaJapNB7g=="/>
-		<POI MapID="1288" xpos="-499.397" ypos="3.27013" zpos="772.323"  type="assistances.travels.rollerbeetle_wall" GUID="HXuD1liER0yHAH4xUgGMRw=="/>
-		<POI MapID="1288" xpos="-435.007" ypos="6.88662" zpos="1243.97"  type="assistances.travels.rollerbeetle_wall" GUID="HwOA9h9R2EmMBC9hZsiqKQ=="/>
-		<POI MapID="1288" xpos="-261.537" ypos="94.9881" zpos="495.246"  type="assistances.travels.rollerbeetle_wall" GUID="U/bwJ64ShUm+rA0/NV5Dtw=="/>
-		<POI MapID="1288" xpos="-204.654" ypos="16.7705" zpos="431.124"  type="assistances.travels.rollerbeetle_wall" GUID="Fn3CrW8Oxkm7ENzTYyAlmw=="/>
-		<POI MapID="1288" xpos="-185.312" ypos="5.08637" zpos="1337.81"  type="assistances.travels.rollerbeetle_wall" GUID="t1rJ77M+LEuqwPJZlfYLHQ=="/>
-		<POI MapID="1288" xpos="42.7822"  ypos="23.4071" zpos="-650.396" type="assistances.travels.rollerbeetle_wall" GUID="wxj+vD1uckq5ALEdoAQM8Q=="/>
-		<POI MapID="1288" xpos="529.007"  ypos="-0.2694" zpos="202.934"  type="assistances.travels.rollerbeetle_wall" GUID="3NIaTyLHY0283DSyppnzpQ=="/>
-
+		<POI MapID="1288" xpos="-1016.6" ypos="37.2166" zpos="680.209" type="assistances.travels.rollerbeetle_wall" GUID="8SFqEnmVIUC0PbCsXLNmjw==" />
+		<POI MapID="1288" xpos="-972.38" ypos="41.2838" zpos="657.862" type="assistances.travels.rollerbeetle_wall" GUID="k2vgfJquP0iIdWaJapNB7g==" />
+		<POI MapID="1288" xpos="-499.397" ypos="3.27013" zpos="772.323" type="assistances.travels.rollerbeetle_wall" GUID="HXuD1liER0yHAH4xUgGMRw==" />
+		<POI MapID="1288" xpos="-435.007" ypos="6.88662" zpos="1243.97" type="assistances.travels.rollerbeetle_wall" GUID="HwOA9h9R2EmMBC9hZsiqKQ==" />
+		<POI MapID="1288" xpos="-261.537" ypos="94.9881" zpos="495.246" type="assistances.travels.rollerbeetle_wall" GUID="U/bwJ64ShUm+rA0/NV5Dtw==" />
+		<POI MapID="1288" xpos="-204.654" ypos="16.7705" zpos="431.124" type="assistances.travels.rollerbeetle_wall" GUID="Fn3CrW8Oxkm7ENzTYyAlmw==" />
+		<POI MapID="1288" xpos="-185.312" ypos="5.08637" zpos="1337.81" type="assistances.travels.rollerbeetle_wall" GUID="t1rJ77M+LEuqwPJZlfYLHQ==" />
+		<POI MapID="1288" xpos="42.7822" ypos="23.4071" zpos="-650.396" type="assistances.travels.rollerbeetle_wall" GUID="wxj+vD1uckq5ALEdoAQM8Q==" />
+		<POI MapID="1288" xpos="529.007" ypos="-0.2694" zpos="202.934" type="assistances.travels.rollerbeetle_wall" GUID="3NIaTyLHY0283DSyppnzpQ==" />
 		<!-- Jahai Bluffs -->
-		<POI MapID="1301" xpos="-994.799" ypos="44.0671" zpos="796.158"  type="assistances.travels.rollerbeetle_wall" GUID="yglONpg0Fk6BmuzoGUxngQ=="/>
-		<POI MapID="1301" xpos="-401.458" ypos="74.0753" zpos="685.333"  type="assistances.travels.rollerbeetle_wall" GUID="tY6W/vCpEEuCqFEC5T+prA=="/>
-		<POI MapID="1301" xpos="-281.314" ypos="58.4085" zpos="105.618"  type="assistances.travels.rollerbeetle_wall" GUID="CEFv/Krto0eaNKt2LOeRAQ=="/>
-		<POI MapID="1301" xpos="314.783"  ypos="53.8604" zpos="-92.9794" type="assistances.travels.rollerbeetle_wall" GUID="E8POs6FFF0KDGGnv7uA2iw=="/>
-		<POI MapID="1301" xpos="710.732"  ypos="-0.3429" zpos="-109.925" type="assistances.travels.rollerbeetle_wall" GUID="Wg7XYc8GbEGWUuMQC6w+FA=="/>
-		<POI MapID="1301" xpos="725.844"  ypos="112.93"  zpos="971.718"  type="assistances.travels.rollerbeetle_wall" GUID="oVcECzcxb0iByQGY7z/61g=="/>
-		<POI MapID="1301" xpos="1105.37"  ypos="118.871" zpos="936.374"  type="assistances.travels.rollerbeetle_wall" GUID="oM7neNvYcESB8tUniOmOKg=="/>
-		<POI MapID="1301" xpos="1128.6"   ypos="119.774" zpos="556.477"  type="assistances.travels.rollerbeetle_wall" GUID="vI0T15wa2kqzHvqBdzRG4A=="/>
-
+		<POI MapID="1301" xpos="-994.799" ypos="44.0671" zpos="796.158" type="assistances.travels.rollerbeetle_wall" GUID="yglONpg0Fk6BmuzoGUxngQ==" />
+		<POI MapID="1301" xpos="-401.458" ypos="74.0753" zpos="685.333" type="assistances.travels.rollerbeetle_wall" GUID="tY6W/vCpEEuCqFEC5T+prA==" />
+		<POI MapID="1301" xpos="-281.314" ypos="58.4085" zpos="105.618" type="assistances.travels.rollerbeetle_wall" GUID="CEFv/Krto0eaNKt2LOeRAQ==" />
+		<POI MapID="1301" xpos="314.783" ypos="53.8604" zpos="-92.9794" type="assistances.travels.rollerbeetle_wall" GUID="E8POs6FFF0KDGGnv7uA2iw==" />
+		<POI MapID="1301" xpos="710.732" ypos="-0.3429" zpos="-109.925" type="assistances.travels.rollerbeetle_wall" GUID="Wg7XYc8GbEGWUuMQC6w+FA==" />
+		<POI MapID="1301" xpos="725.844" ypos="112.93" zpos="971.718" type="assistances.travels.rollerbeetle_wall" GUID="oVcECzcxb0iByQGY7z/61g==" />
+		<POI MapID="1301" xpos="1105.37" ypos="118.871" zpos="936.374" type="assistances.travels.rollerbeetle_wall" GUID="oM7neNvYcESB8tUniOmOKg==" />
+		<POI MapID="1301" xpos="1128.6" ypos="119.774" zpos="556.477" type="assistances.travels.rollerbeetle_wall" GUID="vI0T15wa2kqzHvqBdzRG4A==" />
 		<!-- Dragonfall -->
-		<POI MapID="1317" xpos="-608.517" ypos="129.843" zpos="-132.797" type="assistances.travels.rollerbeetle_wall" GUID="1A0sr1N8yUaYc+GPyeaAuA=="/>
-		<POI MapID="1317" xpos="-484.532" ypos="101.058" zpos="684.576"  type="assistances.travels.rollerbeetle_wall" GUID="0p97xc64ZkqVVspP1ItZhQ=="/>
-		<POI MapID="1317" xpos="312.413"  ypos="201.512" zpos="132.652"  type="assistances.travels.rollerbeetle_wall" GUID="ScMNzqq2gEK7a3a2dXDMvQ=="/>
-		<POI MapID="1317" xpos="407.07"   ypos="211.436" zpos="-50.5028" type="assistances.travels.rollerbeetle_wall" GUID="XhHE9PPNbUG/B6v2dKRurg=="/>
-
+		<POI MapID="1317" xpos="-608.517" ypos="129.843" zpos="-132.797" type="assistances.travels.rollerbeetle_wall" GUID="1A0sr1N8yUaYc+GPyeaAuA==" />
+		<POI MapID="1317" xpos="-484.532" ypos="101.058" zpos="684.576" type="assistances.travels.rollerbeetle_wall" GUID="0p97xc64ZkqVVspP1ItZhQ==" />
+		<POI MapID="1317" xpos="312.413" ypos="201.512" zpos="132.652" type="assistances.travels.rollerbeetle_wall" GUID="ScMNzqq2gEK7a3a2dXDMvQ==" />
+		<POI MapID="1317" xpos="407.07" ypos="211.436" zpos="-50.5028" type="assistances.travels.rollerbeetle_wall" GUID="XhHE9PPNbUG/B6v2dKRurg==" />
 		<!-- Bjora Marches -->
-		<POI MapID="1343" xpos="1178.58"  ypos="53.3505" zpos="132.465"  type="assistances.travels.rollerbeetle_wall" GUID="/sk43LqfRka93v64/Bj+9Q=="/>
-
+		<POI MapID="1343" xpos="1178.58" ypos="53.3505" zpos="132.465" type="assistances.travels.rollerbeetle_wall" GUID="/sk43LqfRka93v64/Bj+9Q==" />
 	</POIs>
 </OverlayData>

@@ -1,84 +1,76 @@
 <!-- 2020.06.25 -->
 <OverlayData>
 	<POIs>
-
 		<!-- APPRENTICE KASANDRA'S NOTEBOOK -->
-		<POI MapID="1165" xpos="-273.058" ypos="509.134" zpos="149.893"  type="story_journal.season_3.out_of_the_shadows.apprentice_kasandra_s_notebook" GUID="2WeJ8V0XdkSCNiCcJbejEg==" achievementBit="1"/>
-		<POI MapID="1165" xpos="-128.813" ypos="531.479" zpos="27.636"   type="story_journal.season_3.out_of_the_shadows.apprentice_kasandra_s_notebook" GUID="PBqAT9hwpUCfFSGRbnLuFw==" achievementBit="2"/>
-		<POI MapID="1165" xpos="-44.3044" ypos="330.617" zpos="95.8083"  type="story_journal.season_3.out_of_the_shadows.apprentice_kasandra_s_notebook" GUID="vxKauQmbQECTPy6ZHRRozg==" achievementBit="3"/>
-		<POI MapID="1165" xpos="195.569"  ypos="336.715" zpos="81.2082"  type="story_journal.season_3.out_of_the_shadows.apprentice_kasandra_s_notebook" GUID="1dVq6F+vdUiwKL98hCBzkg==" achievementBit="4"/>
-		<POI MapID="1165" xpos="14.4094"  ypos="685.765" zpos="-20.3178" type="story_journal.season_3.out_of_the_shadows.apprentice_kasandra_s_notebook" GUID="BnjR3gYA+Uei673Z7vt6Pg==" achievementBit="5"/>
-		<POI MapID="1165" xpos="-78.787"  ypos="670.124" zpos="10.7665"  type="story_journal.season_3.out_of_the_shadows.apprentice_kasandra_s_notebook" GUID="rJK/B746wkyWEsX8pAqqFw==" achievementBit="6"/>
-		<POI MapID="1165" xpos="4.98994"  ypos="560.219" zpos="41.8505"  type="story_journal.season_3.out_of_the_shadows.apprentice_kasandra_s_notebook" GUID="/nd5lEn1/kWGJ4fMNeN53A==" achievementBit="7"/>
-		<POI MapID="1165" xpos="-42.2234" ypos="150.772" zpos="71.6076"  type="story_journal.season_3.out_of_the_shadows.apprentice_kasandra_s_notebook" GUID="ZyYRg+qHhkSu5pcbGGqHYg==" achievementBit="8"/>
-		<POI MapID="1165" xpos="-17.0241" ypos="539.065" zpos="-111.585" type="story_journal.season_3.out_of_the_shadows.apprentice_kasandra_s_notebook" GUID="yF7MT22T/UWW6OFaFD7GKw==" achievementBit="9"/>
-		<POI MapID="1165" xpos="265.81"   ypos="825.278" zpos="59.0669"  type="story_journal.season_3.out_of_the_shadows.apprentice_kasandra_s_notebook" GUID="TvwJRUIPYEysxRyMWk6EoA==" achievementBit="10"/>
-		<POI MapID="1165" xpos="59.2259"  ypos="502.193" zpos="61.7567"  type="story_journal.season_3.out_of_the_shadows.apprentice_kasandra_s_notebook" GUID="SzZUF4RSlEe0t6UnCtHAfg==" achievementBit="11"/>
-		<POI MapID="1165" xpos="-250.455" ypos="695.784" zpos="123.93"   type="story_journal.season_3.out_of_the_shadows.apprentice_kasandra_s_notebook" GUID="hIJ9sZRX50uyXGkFwOkynw==" achievementBit="12"/>
-		<POI MapID="1165" xpos="-374.444" ypos="510.815" zpos="42.8167"  type="story_journal.season_3.out_of_the_shadows.apprentice_kasandra_s_notebook" GUID="2EubkjHaAkyXA5xCdzFPXg==" achievementBit="13"/>
-		<POI MapID="1165" xpos="-322.613" ypos="42.2584" zpos="-45.8716" type="story_journal.season_3.out_of_the_shadows.apprentice_kasandra_s_notebook" GUID="qMVUEXi3R06qat1LsmXr+g==" achievementBit="14"/>
-
+		<POI MapID="1165" xpos="-273.058" ypos="509.134" zpos="149.893" type="story_journal.season_3.out_of_the_shadows.apprentice_kasandra_s_notebook" GUID="2WeJ8V0XdkSCNiCcJbejEg==" achievementBit="1" />
+		<POI MapID="1165" xpos="-128.813" ypos="531.479" zpos="27.636" type="story_journal.season_3.out_of_the_shadows.apprentice_kasandra_s_notebook" GUID="PBqAT9hwpUCfFSGRbnLuFw==" achievementBit="2" />
+		<POI MapID="1165" xpos="-44.3044" ypos="330.617" zpos="95.8083" type="story_journal.season_3.out_of_the_shadows.apprentice_kasandra_s_notebook" GUID="vxKauQmbQECTPy6ZHRRozg==" achievementBit="3" />
+		<POI MapID="1165" xpos="195.569" ypos="336.715" zpos="81.2082" type="story_journal.season_3.out_of_the_shadows.apprentice_kasandra_s_notebook" GUID="1dVq6F+vdUiwKL98hCBzkg==" achievementBit="4" />
+		<POI MapID="1165" xpos="14.4094" ypos="685.765" zpos="-20.3178" type="story_journal.season_3.out_of_the_shadows.apprentice_kasandra_s_notebook" GUID="BnjR3gYA+Uei673Z7vt6Pg==" achievementBit="5" />
+		<POI MapID="1165" xpos="-78.787" ypos="670.124" zpos="10.7665" type="story_journal.season_3.out_of_the_shadows.apprentice_kasandra_s_notebook" GUID="rJK/B746wkyWEsX8pAqqFw==" achievementBit="6" />
+		<POI MapID="1165" xpos="4.98994" ypos="560.219" zpos="41.8505" type="story_journal.season_3.out_of_the_shadows.apprentice_kasandra_s_notebook" GUID="/nd5lEn1/kWGJ4fMNeN53A==" achievementBit="7" />
+		<POI MapID="1165" xpos="-42.2234" ypos="150.772" zpos="71.6076" type="story_journal.season_3.out_of_the_shadows.apprentice_kasandra_s_notebook" GUID="ZyYRg+qHhkSu5pcbGGqHYg==" achievementBit="8" />
+		<POI MapID="1165" xpos="-17.0241" ypos="539.065" zpos="-111.585" type="story_journal.season_3.out_of_the_shadows.apprentice_kasandra_s_notebook" GUID="yF7MT22T/UWW6OFaFD7GKw==" achievementBit="9" />
+		<POI MapID="1165" xpos="265.81" ypos="825.278" zpos="59.0669" type="story_journal.season_3.out_of_the_shadows.apprentice_kasandra_s_notebook" GUID="TvwJRUIPYEysxRyMWk6EoA==" achievementBit="10" />
+		<POI MapID="1165" xpos="59.2259" ypos="502.193" zpos="61.7567" type="story_journal.season_3.out_of_the_shadows.apprentice_kasandra_s_notebook" GUID="SzZUF4RSlEe0t6UnCtHAfg==" achievementBit="11" />
+		<POI MapID="1165" xpos="-250.455" ypos="695.784" zpos="123.93" type="story_journal.season_3.out_of_the_shadows.apprentice_kasandra_s_notebook" GUID="hIJ9sZRX50uyXGkFwOkynw==" achievementBit="12" />
+		<POI MapID="1165" xpos="-374.444" ypos="510.815" zpos="42.8167" type="story_journal.season_3.out_of_the_shadows.apprentice_kasandra_s_notebook" GUID="2EubkjHaAkyXA5xCdzFPXg==" achievementBit="13" />
+		<POI MapID="1165" xpos="-322.613" ypos="42.2584" zpos="-45.8716" type="story_journal.season_3.out_of_the_shadows.apprentice_kasandra_s_notebook" GUID="qMVUEXi3R06qat1LsmXr+g==" achievementBit="14" />
 		<!-- DIVE MASTER: JUST DROPPING BY -->
-		<Trail type="story_journal.season_3.out_of_the_shadows.dive_master__just_dropping_by" GUID="ZPws7vAreECEaUtAVhn/NQ==" trailData="Data/StoryJournal/Season3/OutOfTheShadows/DiveMasterJustDroppingBy.trl" texture="Data/Arrow.png" color="ff00ff00" alpha="0.8" fadeNear="2000" fadeFar="3000" animSpeed="0" mapDisplaySize="15"/>
-		<POI MapID="1165" xpos="125.615" ypos="843.462" zpos="84.269" type="story_journal.season_3.out_of_the_shadows.dive_master__just_dropping_by" GUID="jPqETd8zzkq6vkAYshtP2w=="/>
-		<POI MapID="1165" xpos="101"     ypos="150"     zpos="78"     type="story_journal.season_3.out_of_the_shadows.dive_master__just_dropping_by" GUID="p9M0FkfhQEaL0fsY9c0Ubg==" iconFile="Img/Icons/Target.png" mapVisibility="0" miniMapVisibility="0"/>
-
+		<Trail type="story_journal.season_3.out_of_the_shadows.dive_master__just_dropping_by" GUID="ZPws7vAreECEaUtAVhn/NQ==" trailData="Data/StoryJournal/Season3/OutOfTheShadows/DiveMasterJustDroppingBy.trl" texture="Data/Arrow.png" color="ff00ff00" alpha="0.8" fadeNear="2000" fadeFar="3000" animSpeed="0" mapDisplaySize="15" />
+		<POI MapID="1165" xpos="125.615" ypos="843.462" zpos="84.269" type="story_journal.season_3.out_of_the_shadows.dive_master__just_dropping_by" GUID="jPqETd8zzkq6vkAYshtP2w==" />
+		<POI MapID="1165" xpos="101" ypos="150" zpos="78" type="story_journal.season_3.out_of_the_shadows.dive_master__just_dropping_by" GUID="p9M0FkfhQEaL0fsY9c0Ubg==" iconFile="Img/Icons/Target.png" mapVisibility="0" miniMapVisibility="0" />
 		<!-- GRAND SAVANT VALIS THE LEARNED'S RESEARCH JOURNAL -->
-		<POI MapID="1165" xpos="12.0762"  ypos="775.04"  zpos="91.5998"  type="story_journal.season_3.out_of_the_shadows.grand_savant_valis_the_learned_s_research_journal" GUID="nvNx0n63DUm3KwvpZTgyUw==" achievementBit="1"/>
-		<POI MapID="1165" xpos="-143.342" ypos="508.936" zpos="-33.2901" type="story_journal.season_3.out_of_the_shadows.grand_savant_valis_the_learned_s_research_journal" GUID="I4tFWfQwqk6eHMwyxZ3zJg==" achievementBit="2"/>
-		<POI MapID="1165" xpos="130.334"  ypos="493.878" zpos="113.561"  type="story_journal.season_3.out_of_the_shadows.grand_savant_valis_the_learned_s_research_journal" GUID="c/IHTYilR0+Ta0+lx9W8dA==" achievementBit="3"/>
-		<POI MapID="1165" xpos="101.237"  ypos="622.272" zpos="53.5268"  type="story_journal.season_3.out_of_the_shadows.grand_savant_valis_the_learned_s_research_journal" GUID="349YjwM5Vku7qTcZ4BeS+Q==" achievementBit="4"/>
-		<POI MapID="1165" xpos="158.4"    ypos="307.785" zpos="-5.78392" type="story_journal.season_3.out_of_the_shadows.grand_savant_valis_the_learned_s_research_journal" GUID="BH3Oy2DMvESUlIQ6tv71kA==" achievementBit="5"/>
-		<POI MapID="1165" xpos="-227.454" ypos="95.0675" zpos="-45.5282" type="story_journal.season_3.out_of_the_shadows.grand_savant_valis_the_learned_s_research_journal" GUID="73fgyT4FlUizbYX578IhHQ==" achievementBit="6"/>
-		<POI MapID="1165" xpos="321.638"  ypos="649.523" zpos="9.51158"  type="story_journal.season_3.out_of_the_shadows.grand_savant_valis_the_learned_s_research_journal" GUID="rPepx567sE2iUUp/SQbjfw==" achievementBit="7"/>
-		<POI MapID="1165" xpos="-51.4666" ypos="545.401" zpos="182.217"  type="story_journal.season_3.out_of_the_shadows.grand_savant_valis_the_learned_s_research_journal" GUID="xPA1vm3sCkSgVwmYbVrSug==" achievementBit="8"/>
-		<POI MapID="1165" xpos="-163.122" ypos="519.15"  zpos="56.1285"  type="story_journal.season_3.out_of_the_shadows.grand_savant_valis_the_learned_s_research_journal" GUID="X3Rk98iqYUezNn/zDOp9tQ==" achievementBit="9"/>
-		<POI MapID="1165" xpos="78.6451"  ypos="688.471" zpos="112.856"  type="story_journal.season_3.out_of_the_shadows.grand_savant_valis_the_learned_s_research_journal" GUID="H9lEiKMjpEiEXY9hfh4Qwg==" achievementBit="10"/>
-		<POI MapID="1165" xpos="302.336"  ypos="654.424" zpos="111.14"   type="story_journal.season_3.out_of_the_shadows.grand_savant_valis_the_learned_s_research_journal" GUID="aklH9u6SvkGGoUNCeNG0Lg==" achievementBit="11"/>
-		<POI MapID="1165" xpos="-128.166" ypos="546.443" zpos="-92.0134" type="story_journal.season_3.out_of_the_shadows.grand_savant_valis_the_learned_s_research_journal" GUID="H7dMWVlCsUeUptl2hb+vFw==" achievementBit="12"/>
-		<POI MapID="1165" xpos="-270.796" ypos="514.832" zpos="-30.1418" type="story_journal.season_3.out_of_the_shadows.grand_savant_valis_the_learned_s_research_journal" GUID="IUwQHlkvOk66uZumXUI9aw==" achievementBit="13"/>
-		<POI MapID="1165" xpos="-223.389" ypos="540.966" zpos="55.2466"  type="story_journal.season_3.out_of_the_shadows.grand_savant_valis_the_learned_s_research_journal" GUID="c0noDhIw3Eu4sejQ5onPlw==" achievementBit="14"/>
-
+		<POI MapID="1165" xpos="12.0762" ypos="775.04" zpos="91.5998" type="story_journal.season_3.out_of_the_shadows.grand_savant_valis_the_learned_s_research_journal" GUID="nvNx0n63DUm3KwvpZTgyUw==" achievementBit="1" />
+		<POI MapID="1165" xpos="-143.342" ypos="508.936" zpos="-33.2901" type="story_journal.season_3.out_of_the_shadows.grand_savant_valis_the_learned_s_research_journal" GUID="I4tFWfQwqk6eHMwyxZ3zJg==" achievementBit="2" />
+		<POI MapID="1165" xpos="130.334" ypos="493.878" zpos="113.561" type="story_journal.season_3.out_of_the_shadows.grand_savant_valis_the_learned_s_research_journal" GUID="c/IHTYilR0+Ta0+lx9W8dA==" achievementBit="3" />
+		<POI MapID="1165" xpos="101.237" ypos="622.272" zpos="53.5268" type="story_journal.season_3.out_of_the_shadows.grand_savant_valis_the_learned_s_research_journal" GUID="349YjwM5Vku7qTcZ4BeS+Q==" achievementBit="4" />
+		<POI MapID="1165" xpos="158.4" ypos="307.785" zpos="-5.78392" type="story_journal.season_3.out_of_the_shadows.grand_savant_valis_the_learned_s_research_journal" GUID="BH3Oy2DMvESUlIQ6tv71kA==" achievementBit="5" />
+		<POI MapID="1165" xpos="-227.454" ypos="95.0675" zpos="-45.5282" type="story_journal.season_3.out_of_the_shadows.grand_savant_valis_the_learned_s_research_journal" GUID="73fgyT4FlUizbYX578IhHQ==" achievementBit="6" />
+		<POI MapID="1165" xpos="321.638" ypos="649.523" zpos="9.51158" type="story_journal.season_3.out_of_the_shadows.grand_savant_valis_the_learned_s_research_journal" GUID="rPepx567sE2iUUp/SQbjfw==" achievementBit="7" />
+		<POI MapID="1165" xpos="-51.4666" ypos="545.401" zpos="182.217" type="story_journal.season_3.out_of_the_shadows.grand_savant_valis_the_learned_s_research_journal" GUID="xPA1vm3sCkSgVwmYbVrSug==" achievementBit="8" />
+		<POI MapID="1165" xpos="-163.122" ypos="519.15" zpos="56.1285" type="story_journal.season_3.out_of_the_shadows.grand_savant_valis_the_learned_s_research_journal" GUID="X3Rk98iqYUezNn/zDOp9tQ==" achievementBit="9" />
+		<POI MapID="1165" xpos="78.6451" ypos="688.471" zpos="112.856" type="story_journal.season_3.out_of_the_shadows.grand_savant_valis_the_learned_s_research_journal" GUID="H9lEiKMjpEiEXY9hfh4Qwg==" achievementBit="10" />
+		<POI MapID="1165" xpos="302.336" ypos="654.424" zpos="111.14" type="story_journal.season_3.out_of_the_shadows.grand_savant_valis_the_learned_s_research_journal" GUID="aklH9u6SvkGGoUNCeNG0Lg==" achievementBit="11" />
+		<POI MapID="1165" xpos="-128.166" ypos="546.443" zpos="-92.0134" type="story_journal.season_3.out_of_the_shadows.grand_savant_valis_the_learned_s_research_journal" GUID="H7dMWVlCsUeUptl2hb+vFw==" achievementBit="12" />
+		<POI MapID="1165" xpos="-270.796" ypos="514.832" zpos="-30.1418" type="story_journal.season_3.out_of_the_shadows.grand_savant_valis_the_learned_s_research_journal" GUID="IUwQHlkvOk66uZumXUI9aw==" achievementBit="13" />
+		<POI MapID="1165" xpos="-223.389" ypos="540.966" zpos="55.2466" type="story_journal.season_3.out_of_the_shadows.grand_savant_valis_the_learned_s_research_journal" GUID="c0noDhIw3Eu4sejQ5onPlw==" achievementBit="14" />
 		<!-- GRIEF COUNSELING -->
-		<POI MapID="1165" xpos="-197.448" ypos="503.467" zpos="126.956" type="story_journal.season_3.out_of_the_shadows.grief_counseling" GUID="ybUihjmFJ0yGAbngdH2mhQ==" iconFile="Img/Season3/GriefCounseling.png" minSize="48" maxSize="64" heightOffset="4" mapVisibility="0" miniMapVisibility="0"/>
-
+		<POI MapID="1165" xpos="-197.448" ypos="503.467" zpos="126.956" type="story_journal.season_3.out_of_the_shadows.grief_counseling" GUID="ybUihjmFJ0yGAbngdH2mhQ==" iconFile="Img/Season3/GriefCounseling.png" minSize="48" maxSize="64" heightOffset="4" mapVisibility="0" miniMapVisibility="0" />
 		<!-- MAGIC UNBOUND: THE GATHERING -->
-		<POI MapID="1165" xpos="116.03"  ypos="842.895" zpos="82.8139" type="story_journal.season_3.out_of_the_shadows.magic_unbound__the_gathering" GUID="NQn9/LWEAEqAjhKH2+H+YQ=="/>
-		<POI MapID="1165" xpos="114.59"  ypos="824.77"  zpos="82.5525" type="story_journal.season_3.out_of_the_shadows.magic_unbound__the_gathering" GUID="0s6bvh7VuE+0ueYZzrpigQ=="/>
-		<POI MapID="1165" xpos="112.077" ypos="792.124" zpos="81.6815" type="story_journal.season_3.out_of_the_shadows.magic_unbound__the_gathering" GUID="RIB+t2eMbUyl0lUP3zSR1g=="/>
-		<POI MapID="1165" xpos="111.977" ypos="713.864" zpos="82.9486" type="story_journal.season_3.out_of_the_shadows.magic_unbound__the_gathering" GUID="NAZUufRWgUuGiLJ2wU2vAw=="/>
-		<POI MapID="1165" xpos="111.811" ypos="681.793" zpos="81.6053" type="story_journal.season_3.out_of_the_shadows.magic_unbound__the_gathering" GUID="mCFsnIpl8kaHAz5X2eruog=="/>
-		<POI MapID="1165" xpos="113.356" ypos="651.631" zpos="82.5468" type="story_journal.season_3.out_of_the_shadows.magic_unbound__the_gathering" GUID="VZZYliYEH0qe3HuINEj9WQ=="/>
-		<POI MapID="1165" xpos="112.082" ypos="592.81"  zpos="82.6854" type="story_journal.season_3.out_of_the_shadows.magic_unbound__the_gathering" GUID="ct+BmqcCH0CVpimONpfgpw=="/>
-		<POI MapID="1165" xpos="112.258" ypos="541.45"  zpos="82.3616" type="story_journal.season_3.out_of_the_shadows.magic_unbound__the_gathering" GUID="NJq4+Obh30iFKyhbYzPt6g=="/>
-		<POI MapID="1165" xpos="111.804" ypos="491.547" zpos="83.0436" type="story_journal.season_3.out_of_the_shadows.magic_unbound__the_gathering" GUID="9JA5d/LiX0O1S2jAwhrGDA=="/>
-		<POI MapID="1165" xpos="109.813" ypos="423.354" zpos="93.2766" type="story_journal.season_3.out_of_the_shadows.magic_unbound__the_gathering" GUID="8EJBX1QXKUq0ufuSKSqnfQ=="/>
-		<POI MapID="1165" xpos="117.641" ypos="379.825" zpos="81.175"  type="story_journal.season_3.out_of_the_shadows.magic_unbound__the_gathering" GUID="zG04pLn6q0awzj5/AKmoGA=="/>
-		<POI MapID="1165" xpos="116.988" ypos="348.21"  zpos="82.4965" type="story_journal.season_3.out_of_the_shadows.magic_unbound__the_gathering" GUID="iMe1AN+HdUe54pRNklSLLg=="/>
-		<POI MapID="1165" xpos="116.755" ypos="310.867" zpos="82.8784" type="story_journal.season_3.out_of_the_shadows.magic_unbound__the_gathering" GUID="40xdmlWozU6/3542QY3byg=="/>
-		<POI MapID="1165" xpos="117.426" ypos="279.71"  zpos="82.215"  type="story_journal.season_3.out_of_the_shadows.magic_unbound__the_gathering" GUID="IZEDYFEb+U6vrbj3rWxl/A=="/>
-		<POI MapID="1165" xpos="116.049" ypos="245.002" zpos="82.7116" type="story_journal.season_3.out_of_the_shadows.magic_unbound__the_gathering" GUID="6Y5xfg75UE2qYoC/V83JEQ=="/>
-		<POI MapID="1165" xpos="111.874" ypos="214.532" zpos="82.1328" type="story_journal.season_3.out_of_the_shadows.magic_unbound__the_gathering" GUID="PpL3yGyRPkmSGovDBmgYeg=="/>
-		<POI MapID="1165" xpos="109.356" ypos="187.73"  zpos="82.9555" type="story_journal.season_3.out_of_the_shadows.magic_unbound__the_gathering" GUID="FB3/FD6GkU+zt996kz/iWQ=="/>
-
+		<POI MapID="1165" xpos="116.03" ypos="842.895" zpos="82.8139" type="story_journal.season_3.out_of_the_shadows.magic_unbound__the_gathering" GUID="NQn9/LWEAEqAjhKH2+H+YQ==" />
+		<POI MapID="1165" xpos="114.59" ypos="824.77" zpos="82.5525" type="story_journal.season_3.out_of_the_shadows.magic_unbound__the_gathering" GUID="0s6bvh7VuE+0ueYZzrpigQ==" />
+		<POI MapID="1165" xpos="112.077" ypos="792.124" zpos="81.6815" type="story_journal.season_3.out_of_the_shadows.magic_unbound__the_gathering" GUID="RIB+t2eMbUyl0lUP3zSR1g==" />
+		<POI MapID="1165" xpos="111.977" ypos="713.864" zpos="82.9486" type="story_journal.season_3.out_of_the_shadows.magic_unbound__the_gathering" GUID="NAZUufRWgUuGiLJ2wU2vAw==" />
+		<POI MapID="1165" xpos="111.811" ypos="681.793" zpos="81.6053" type="story_journal.season_3.out_of_the_shadows.magic_unbound__the_gathering" GUID="mCFsnIpl8kaHAz5X2eruog==" />
+		<POI MapID="1165" xpos="113.356" ypos="651.631" zpos="82.5468" type="story_journal.season_3.out_of_the_shadows.magic_unbound__the_gathering" GUID="VZZYliYEH0qe3HuINEj9WQ==" />
+		<POI MapID="1165" xpos="112.082" ypos="592.81" zpos="82.6854" type="story_journal.season_3.out_of_the_shadows.magic_unbound__the_gathering" GUID="ct+BmqcCH0CVpimONpfgpw==" />
+		<POI MapID="1165" xpos="112.258" ypos="541.45" zpos="82.3616" type="story_journal.season_3.out_of_the_shadows.magic_unbound__the_gathering" GUID="NJq4+Obh30iFKyhbYzPt6g==" />
+		<POI MapID="1165" xpos="111.804" ypos="491.547" zpos="83.0436" type="story_journal.season_3.out_of_the_shadows.magic_unbound__the_gathering" GUID="9JA5d/LiX0O1S2jAwhrGDA==" />
+		<POI MapID="1165" xpos="109.813" ypos="423.354" zpos="93.2766" type="story_journal.season_3.out_of_the_shadows.magic_unbound__the_gathering" GUID="8EJBX1QXKUq0ufuSKSqnfQ==" />
+		<POI MapID="1165" xpos="117.641" ypos="379.825" zpos="81.175" type="story_journal.season_3.out_of_the_shadows.magic_unbound__the_gathering" GUID="zG04pLn6q0awzj5/AKmoGA==" />
+		<POI MapID="1165" xpos="116.988" ypos="348.21" zpos="82.4965" type="story_journal.season_3.out_of_the_shadows.magic_unbound__the_gathering" GUID="iMe1AN+HdUe54pRNklSLLg==" />
+		<POI MapID="1165" xpos="116.755" ypos="310.867" zpos="82.8784" type="story_journal.season_3.out_of_the_shadows.magic_unbound__the_gathering" GUID="40xdmlWozU6/3542QY3byg==" />
+		<POI MapID="1165" xpos="117.426" ypos="279.71" zpos="82.215" type="story_journal.season_3.out_of_the_shadows.magic_unbound__the_gathering" GUID="IZEDYFEb+U6vrbj3rWxl/A==" />
+		<POI MapID="1165" xpos="116.049" ypos="245.002" zpos="82.7116" type="story_journal.season_3.out_of_the_shadows.magic_unbound__the_gathering" GUID="6Y5xfg75UE2qYoC/V83JEQ==" />
+		<POI MapID="1165" xpos="111.874" ypos="214.532" zpos="82.1328" type="story_journal.season_3.out_of_the_shadows.magic_unbound__the_gathering" GUID="PpL3yGyRPkmSGovDBmgYeg==" />
+		<POI MapID="1165" xpos="109.356" ypos="187.73" zpos="82.9555" type="story_journal.season_3.out_of_the_shadows.magic_unbound__the_gathering" GUID="FB3/FD6GkU+zt996kz/iWQ==" />
 		<!-- THE MEMOIRS OF JUSTICIAR BAUER -->
-		<POI MapID="1165" xpos="-144.52"  ypos="545.688" zpos="142.717"  type="story_journal.season_3.out_of_the_shadows.the_memoirs_of_justiciar_bauer" GUID="5oah6S6wiUGeQof41/GN5w==" achievementBit="1"/>
-		<POI MapID="1165" xpos="-19.2257" ypos="711.833" zpos="-38.6156" type="story_journal.season_3.out_of_the_shadows.the_memoirs_of_justiciar_bauer" GUID="3lTYTBvuKEqnctHJGXv/cQ==" achievementBit="2"/>
-		<POI MapID="1165" xpos="219.911"  ypos="543.819" zpos="99.5247"  type="story_journal.season_3.out_of_the_shadows.the_memoirs_of_justiciar_bauer" GUID="J2ucrNRylkyfOP8E2SnIIw==" achievementBit="3"/>
-		<POI MapID="1165" xpos="74.0865"  ypos="545.803" zpos="96.6929"  type="story_journal.season_3.out_of_the_shadows.the_memoirs_of_justiciar_bauer" GUID="FaFRkSCm4EWIcRqXjSvT9g==" achievementBit="4"/>
-		<POI MapID="1165" xpos="-191.253" ypos="684.283" zpos="81.1443"  type="story_journal.season_3.out_of_the_shadows.the_memoirs_of_justiciar_bauer" GUID="SMs5BqODpUKpqNDk/yBQ1A==" achievementBit="5"/>
-		<POI MapID="1165" xpos="-130.699" ypos="515.928" zpos="54.7316"  type="story_journal.season_3.out_of_the_shadows.the_memoirs_of_justiciar_bauer" GUID="M5IYfyYUrUC4S+cP9RaiZw==" achievementBit="6"/>
-		<POI MapID="1165" xpos="-247.558" ypos="529.174" zpos="-127.945" type="story_journal.season_3.out_of_the_shadows.the_memoirs_of_justiciar_bauer" GUID="G+8/4MJYPE+Z3BuYP/H9tg==" achievementBit="7"/>
-		<POI MapID="1165" xpos="1.36813"  ypos="692.624" zpos="99.5566"  type="story_journal.season_3.out_of_the_shadows.the_memoirs_of_justiciar_bauer" GUID="GTKP9MHj+kaLUnmHfQfu3Q==" achievementBit="8"/>
-		<POI MapID="1165" xpos="228.431"  ypos="793.235" zpos="16.1837"  type="story_journal.season_3.out_of_the_shadows.the_memoirs_of_justiciar_bauer" GUID="WVMltBSs0UmGz8zqz44LLw==" achievementBit="9"/>
-		<POI MapID="1165" xpos="-180.303" ypos="537.658" zpos="-55.2798" type="story_journal.season_3.out_of_the_shadows.the_memoirs_of_justiciar_bauer" GUID="PRNfFhCQf0KYXrbW3aEweQ==" achievementBit="10"/>
-		<POI MapID="1165" xpos="240.399"  ypos="474.766" zpos="50.7728"  type="story_journal.season_3.out_of_the_shadows.the_memoirs_of_justiciar_bauer" GUID="P/XZ61bStUOnYqr8x/RIEQ==" achievementBit="11"/>
-		<POI MapID="1165" xpos="-241.044" ypos="508.08"  zpos="165.828"  type="story_journal.season_3.out_of_the_shadows.the_memoirs_of_justiciar_bauer" GUID="z6pWm04bnEKQzVgL3cBBAQ==" achievementBit="12"/>
-		<POI MapID="1165" xpos="-83.5447" ypos="695.679" zpos="-83.6798" type="story_journal.season_3.out_of_the_shadows.the_memoirs_of_justiciar_bauer" GUID="5snMX7rk7kmJoeI3CJs85g==" achievementBit="13"/>
-		<POI MapID="1165" xpos="-369.361" ypos="538.437" zpos="-88.8967" type="story_journal.season_3.out_of_the_shadows.the_memoirs_of_justiciar_bauer" GUID="RJShvQc9mUW2abhUPPIS4A==" achievementBit="14"/>
-
+		<POI MapID="1165" xpos="-144.52" ypos="545.688" zpos="142.717" type="story_journal.season_3.out_of_the_shadows.the_memoirs_of_justiciar_bauer" GUID="5oah6S6wiUGeQof41/GN5w==" achievementBit="1" />
+		<POI MapID="1165" xpos="-19.2257" ypos="711.833" zpos="-38.6156" type="story_journal.season_3.out_of_the_shadows.the_memoirs_of_justiciar_bauer" GUID="3lTYTBvuKEqnctHJGXv/cQ==" achievementBit="2" />
+		<POI MapID="1165" xpos="219.911" ypos="543.819" zpos="99.5247" type="story_journal.season_3.out_of_the_shadows.the_memoirs_of_justiciar_bauer" GUID="J2ucrNRylkyfOP8E2SnIIw==" achievementBit="3" />
+		<POI MapID="1165" xpos="74.0865" ypos="545.803" zpos="96.6929" type="story_journal.season_3.out_of_the_shadows.the_memoirs_of_justiciar_bauer" GUID="FaFRkSCm4EWIcRqXjSvT9g==" achievementBit="4" />
+		<POI MapID="1165" xpos="-191.253" ypos="684.283" zpos="81.1443" type="story_journal.season_3.out_of_the_shadows.the_memoirs_of_justiciar_bauer" GUID="SMs5BqODpUKpqNDk/yBQ1A==" achievementBit="5" />
+		<POI MapID="1165" xpos="-130.699" ypos="515.928" zpos="54.7316" type="story_journal.season_3.out_of_the_shadows.the_memoirs_of_justiciar_bauer" GUID="M5IYfyYUrUC4S+cP9RaiZw==" achievementBit="6" />
+		<POI MapID="1165" xpos="-247.558" ypos="529.174" zpos="-127.945" type="story_journal.season_3.out_of_the_shadows.the_memoirs_of_justiciar_bauer" GUID="G+8/4MJYPE+Z3BuYP/H9tg==" achievementBit="7" />
+		<POI MapID="1165" xpos="1.36813" ypos="692.624" zpos="99.5566" type="story_journal.season_3.out_of_the_shadows.the_memoirs_of_justiciar_bauer" GUID="GTKP9MHj+kaLUnmHfQfu3Q==" achievementBit="8" />
+		<POI MapID="1165" xpos="228.431" ypos="793.235" zpos="16.1837" type="story_journal.season_3.out_of_the_shadows.the_memoirs_of_justiciar_bauer" GUID="WVMltBSs0UmGz8zqz44LLw==" achievementBit="9" />
+		<POI MapID="1165" xpos="-180.303" ypos="537.658" zpos="-55.2798" type="story_journal.season_3.out_of_the_shadows.the_memoirs_of_justiciar_bauer" GUID="PRNfFhCQf0KYXrbW3aEweQ==" achievementBit="10" />
+		<POI MapID="1165" xpos="240.399" ypos="474.766" zpos="50.7728" type="story_journal.season_3.out_of_the_shadows.the_memoirs_of_justiciar_bauer" GUID="P/XZ61bStUOnYqr8x/RIEQ==" achievementBit="11" />
+		<POI MapID="1165" xpos="-241.044" ypos="508.08" zpos="165.828" type="story_journal.season_3.out_of_the_shadows.the_memoirs_of_justiciar_bauer" GUID="z6pWm04bnEKQzVgL3cBBAQ==" achievementBit="12" />
+		<POI MapID="1165" xpos="-83.5447" ypos="695.679" zpos="-83.6798" type="story_journal.season_3.out_of_the_shadows.the_memoirs_of_justiciar_bauer" GUID="5snMX7rk7kmJoeI3CJs85g==" achievementBit="13" />
+		<POI MapID="1165" xpos="-369.361" ypos="538.437" zpos="-88.8967" type="story_journal.season_3.out_of_the_shadows.the_memoirs_of_justiciar_bauer" GUID="RJShvQc9mUW2abhUPPIS4A==" achievementBit="14" />
 		<!-- WAS IT BLUE OR RED? -->
-		<POI MapID="1159" xpos="383.11" ypos="39.8098" zpos="296.606" type="story_journal.season_3.out_of_the_shadows.was_it_blue_or_red" GUID="YQcbwxtDeE2OxL6OIQTejA==" iconFile="Img/Season3/WasItBlueOrRed.png" minSize="64" maxSize="64" fadeNear="1500" fadeFar="2000"  heightOffset="4" mapVisibility="0" miniMapVisibility="0"/>
-
+		<POI MapID="1159" xpos="383.11" ypos="39.8098" zpos="296.606" type="story_journal.season_3.out_of_the_shadows.was_it_blue_or_red" GUID="YQcbwxtDeE2OxL6OIQTejA==" iconFile="Img/Season3/WasItBlueOrRed.png" minSize="64" maxSize="64" fadeNear="1500" fadeFar="2000" heightOffset="4" mapVisibility="0" miniMapVisibility="0" />
 	</POIs>
 </OverlayData>

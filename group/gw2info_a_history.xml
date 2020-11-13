@@ -1,21 +1,21 @@
 <OverlayData>
 	<MarkerCategory name="achievements" DisplayName="Achievements">
 		<MarkerCategory name="explorer" DisplayName="Explorer">
-			<MarkerCategory name="historybuff" DisplayName="History Buff" iconFile="Data/gw2info/pedestal.png" behavior="3" iconSize="1.0" triggerRange="5" fadeNear="300" fadeFar="25000"/>
+			<MarkerCategory name="historybuff" DisplayName="History Buff" iconFile="Data/gw2info/pedestal.png" behavior="3" iconSize="1.0" triggerRange="5" fadeNear="300" fadeFar="25000" />
 		</MarkerCategory>
 	</MarkerCategory>
 	<POIs>
-		<POI MapID="50" xpos="359.96" ypos="30.2809" zpos="-55.6018" type="achievements.explorer.historybuff" GUID="Z5M31W0uWEyHV8+JJFsyEg=="/>
-		<POI MapID="50" xpos="134.918" ypos="37.5573" zpos="-47.6708" type="achievements.explorer.historybuff" GUID="p9vB2lqj6UaUCxFM88afEQ=="/>
-		<POI MapID="50" xpos="-101.006" ypos="11.2408" zpos="-202.466" type="achievements.explorer.historybuff" GUID="drZlwwGcXEGOf3yUa1pipg=="/>
-		<POI MapID="50" xpos="-52.851" ypos="2.7172" zpos="-198.746" type="achievements.explorer.historybuff" GUID="LukVtfwSRUiZuprLCjXLvA=="/>
-		<POI MapID="50" xpos="-214.901" ypos="-61.036" zpos="-238.147" type="achievements.explorer.historybuff" GUID="DghgGR+hWEyyI3BFhfhD+g=="/>
-		<POI MapID="50" xpos="-328.155" ypos="2.167" zpos="-8.5254" type="achievements.explorer.historybuff" GUID="M96Yu6x6Qkq/oSoDRaLI3A=="/>
-		<POI MapID="50" xpos="-158.706" ypos="21.8924" zpos="16.4496" type="achievements.explorer.historybuff" GUID="4met72YAJk6lfUArmsLJ3w=="/>
-		<POI MapID="50" xpos="-161.095" ypos="22.1588" zpos="181.032" type="achievements.explorer.historybuff" GUID="kXBkX1vM3UCpN2C+ud9Auw=="/>
-		<POI MapID="50" xpos="-310.742" ypos="47.8572" zpos="181.359" type="achievements.explorer.historybuff" GUID="xUH96IDzukeJvaEWShaVjQ=="/>
-		<POI MapID="50" xpos="-567.592" ypos="6.9713" zpos="134.257" type="achievements.explorer.historybuff" GUID="Tf+HOCePsUCIONUMzDRuBA=="/>
-		<POI MapID="65" xpos="-1070.21" ypos="-71.6809" zpos="-18.0715" type="achievements.explorer.historybuff" GUID="UhFYNz35DkWLkic/A+4pNg=="/>
-		<POI MapID="50" xpos="-262.354" ypos="38.8038" zpos="-349.86" type="achievements.explorer.historybuff" GUID="NdGbeihwmkCf+THxYRPArw=="/>
+		<POI MapID="50" xpos="359.96" ypos="30.2809" zpos="-55.6018" type="achievements.explorer.historybuff" GUID="Z5M31W0uWEyHV8+JJFsyEg==" />
+		<POI MapID="50" xpos="134.918" ypos="37.5573" zpos="-47.6708" type="achievements.explorer.historybuff" GUID="p9vB2lqj6UaUCxFM88afEQ==" />
+		<POI MapID="50" xpos="-101.006" ypos="11.2408" zpos="-202.466" type="achievements.explorer.historybuff" GUID="drZlwwGcXEGOf3yUa1pipg==" />
+		<POI MapID="50" xpos="-52.851" ypos="2.7172" zpos="-198.746" type="achievements.explorer.historybuff" GUID="LukVtfwSRUiZuprLCjXLvA==" />
+		<POI MapID="50" xpos="-214.901" ypos="-61.036" zpos="-238.147" type="achievements.explorer.historybuff" GUID="DghgGR+hWEyyI3BFhfhD+g==" />
+		<POI MapID="50" xpos="-328.155" ypos="2.167" zpos="-8.5254" type="achievements.explorer.historybuff" GUID="M96Yu6x6Qkq/oSoDRaLI3A==" />
+		<POI MapID="50" xpos="-158.706" ypos="21.8924" zpos="16.4496" type="achievements.explorer.historybuff" GUID="4met72YAJk6lfUArmsLJ3w==" />
+		<POI MapID="50" xpos="-161.095" ypos="22.1588" zpos="181.032" type="achievements.explorer.historybuff" GUID="kXBkX1vM3UCpN2C+ud9Auw==" />
+		<POI MapID="50" xpos="-310.742" ypos="47.8572" zpos="181.359" type="achievements.explorer.historybuff" GUID="xUH96IDzukeJvaEWShaVjQ==" />
+		<POI MapID="50" xpos="-567.592" ypos="6.9713" zpos="134.257" type="achievements.explorer.historybuff" GUID="Tf+HOCePsUCIONUMzDRuBA==" />
+		<POI MapID="65" xpos="-1070.21" ypos="-71.6809" zpos="-18.0715" type="achievements.explorer.historybuff" GUID="UhFYNz35DkWLkic/A+4pNg==" />
+		<POI MapID="50" xpos="-262.354" ypos="38.8038" zpos="-349.86" type="achievements.explorer.historybuff" GUID="NdGbeihwmkCf+THxYRPArw==" />
 	</POIs>
 </OverlayData>

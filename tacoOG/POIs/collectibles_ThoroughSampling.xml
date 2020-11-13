@@ -1,0 +1,29 @@
+<OverlayData>
+	<MarkerCategory name="Collectible">
+		<MarkerCategory name="ACrackInTheIce" DisplayName="A Crack in the Ice">
+			<MarkerCategory name="ThoroughSampling" DisplayName="Thorough Sampling" iconFile="Data/A_Crack_In_the_Ice.png" behavior="3" />
+		</MarkerCategory>
+	</MarkerCategory>
+	<POIs>
+		<POI MapID="1178" xpos="-734.331" ypos="36.7942" zpos="-69.5414" type="collectible.acrackintheice.thoroughsampling" GUID="s4XatPR/QkOWf4pkDquk4w==" />
+		<POI MapID="1178" xpos="542.877" ypos="-187.623" zpos="-296.416" type="collectible.acrackintheice.thoroughsampling" GUID="oCqA5TtOkEuTrd4fkTgQBQ==" />
+		<POI MapID="1178" xpos="465.061" ypos="61.6798" zpos="-82.7978" type="collectible.acrackintheice.thoroughsampling" GUID="qh8GVgTtvk29HKJaG3/39g==" />
+		<POI MapID="1178" xpos="-297.124" ypos="116.635" zpos="297.8" type="collectible.acrackintheice.thoroughsampling" GUID="lx3ujKjv20iK8/60c/GnQg==" />
+		<POI MapID="1178" xpos="-620.775" ypos="91.9973" zpos="102.071" type="collectible.acrackintheice.thoroughsampling" GUID="1smPQjwz50OlONzuN4b9Xg==" />
+		<POI MapID="1178" xpos="-463.051" ypos="96.8904" zpos="-27.5607" type="collectible.acrackintheice.thoroughsampling" GUID="ft4CSU3lNUCr27doxkzUFA==" />
+		<POI MapID="1178" xpos="147.62" ypos="16.4745" zpos="415.475" type="collectible.acrackintheice.thoroughsampling" GUID="6qbazwVk+UmAa1BSNmmMxQ==" />
+		<POI MapID="1178" xpos="-26.2461" ypos="2.27364" zpos="361.913" type="collectible.acrackintheice.thoroughsampling" GUID="zQZJ/NYbNUSoi12lCTINrg==" />
+		<POI MapID="1178" xpos="18.5996" ypos="45.3397" zpos="-104.174" type="collectible.acrackintheice.thoroughsampling" GUID="JdDOPABXVUObG2+h1+9fgQ==" />
+		<POI MapID="1178" xpos="14.6275" ypos="-152.215" zpos="-81.9368" type="collectible.acrackintheice.thoroughsampling" GUID="JboWdYo8C0q6+wojnXEpgw==" />
+		<POI MapID="1178" xpos="3.24849" ypos="-94.6764" zpos="-92.1333" type="collectible.acrackintheice.thoroughsampling" GUID="n9+3DVMdm0ynMdOjHieonQ==" />
+		<POI MapID="1178" xpos="791.366" ypos="80.5262" zpos="-172.261" type="collectible.acrackintheice.thoroughsampling" GUID="kgzvd4EHCk6/k2dL1M5kyg==" />
+		<POI MapID="1178" xpos="466.621" ypos="127.927" zpos="-447.388" type="collectible.acrackintheice.thoroughsampling" GUID="/YlqrfpROkKnUxsDpx9rtw==" />
+		<POI MapID="1178" xpos="-95.5671" ypos="58.0038" zpos="-334.206" type="collectible.acrackintheice.thoroughsampling" GUID="U3/JKqWD+0mmugag3KVzpQ==" />
+		<POI MapID="1178" xpos="-652.048" ypos="58.4588" zpos="279.608" type="collectible.acrackintheice.thoroughsampling" GUID="0CW2Z7TlwUmo6HgOxbuzzg==" />
+		<POI MapID="1178" xpos="568.351" ypos="45.0233" zpos="223.154" type="collectible.acrackintheice.thoroughsampling" GUID="hmBG9SUTR0CMf+cgLN6bNA==" />
+		<POI MapID="1178" xpos="689.558" ypos="19.0187" zpos="215.382" type="collectible.acrackintheice.thoroughsampling" GUID="sDJVilTJQ0mpD4shBPabBA==" />
+		<POI MapID="1178" xpos="836.864" ypos="1.67526" zpos="330.233" type="collectible.acrackintheice.thoroughsampling" GUID="oioWlE4Y70+njosfOUxNKw==" />
+		<POI MapID="1178" xpos="792.567" ypos="52.7322" zpos="28.906" type="collectible.acrackintheice.thoroughsampling" GUID="7VWhk2Vts0aWgZK3gEFLdw==" />
+		<POI MapID="1178" xpos="771.189" ypos="-9.68861" zpos="155.935" type="collectible.acrackintheice.thoroughsampling" GUID="MWf+PxYND0mzRGu+vygnKQ==" />
+	</POIs>
+</OverlayData>

@@ -6,14 +6,11 @@ Date: 2017/10/18
 <OverlayData>
 	<MarkerCategory name="festivals">
 		<MarkerCategory name="halloween" DisplayName="Halloween">
-			<MarkerCategory name="souvenirs_dements" DisplayName="Mad Memories" iconFile="Img\Halloween.png" fadeNear="10000" fadeFar="20000" behavior="3"/>
+			<MarkerCategory name="souvenirs_dements" DisplayName="Mad Memories" iconFile="Img\Halloween.png" fadeNear="10000" fadeFar="20000" behavior="3" />
 		</MarkerCategory>
 	</MarkerCategory>
-
 	<POIs>
-
 		<!-- Lion's Arch : South-West of Grand Plazza -->
-		<POI MapID="50" xpos="-85.0645" ypos="23.8883" zpos="156.019" type="festivals.halloween.souvenirs_dements" GUID="JsdbTSJhs0KgqVqoPjgmSg=="/>
-
+		<POI MapID="50" xpos="-85.0645" ypos="23.8883" zpos="156.019" type="festivals.halloween.souvenirs_dements" GUID="JsdbTSJhs0KgqVqoPjgmSg==" />
 	</POIs>
 </OverlayData>

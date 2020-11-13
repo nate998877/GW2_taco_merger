@@ -1,106 +1,99 @@
 <!-- 2020.06.09 -->
 <OverlayData>
 	<POIs>
-
 		<!-- AMBER WURMSLAYER -->
-		<Trail type="general.bosses.amber_wurmslayer" GUID="z62nz54FLk6JelQOKqpC5g==" trailData="Data/General/Bosses/AmberWurmslayer.trl" texture="Data/Dot.png" color="ffffff00" alpha="0.8" fadeNear="2000" fadeFar="3000" animSpeed="0" mapDisplaySize="15"/>
-		<POI MapID="73" xpos="167.563"  ypos="8.38268" zpos="-71.7792" type="general.bosses.amber_wurmslayer" GUID="Sk/jBPRswEOUq181u/DA8Q==" iconFile="Img/General/BossStartEscort.png" minSize="20" maxSize="48"/>
-		<POI MapID="73" xpos="675.234"  ypos="0.52497" zpos="-605.266" type="general.bosses.amber_wurmslayer" GUID="crKzRTcV4EWDP8GpOC4YNg=="/>
-
+		<Trail type="general.bosses.amber_wurmslayer" GUID="z62nz54FLk6JelQOKqpC5g==" trailData="Data/General/Bosses/AmberWurmslayer.trl" texture="Data/Dot.png" color="ffffff00" alpha="0.8" fadeNear="2000" fadeFar="3000" animSpeed="0" mapDisplaySize="15" />
+		<POI MapID="73" xpos="167.563" ypos="8.38268" zpos="-71.7792" type="general.bosses.amber_wurmslayer" GUID="Sk/jBPRswEOUq181u/DA8Q==" iconFile="Img/General/BossStartEscort.png" minSize="20" maxSize="48" />
+		<POI MapID="73" xpos="675.234" ypos="0.52497" zpos="-605.266" type="general.bosses.amber_wurmslayer" GUID="crKzRTcV4EWDP8GpOC4YNg==" />
 		<!-- COBALT WURMSLAYER -->
-		<Trail type="general.bosses.cobalt_wurmslayer" GUID="5bAApm78qkaMwIM9xY7/Pw==" trailData="Data/General/Bosses/CobaltWurmslayer.trl" texture="Data/Dot.png" color="ff00ffff" alpha="0.8" fadeNear="2000" fadeFar="3000" animSpeed="0" mapDisplaySize="15"/>
-		<POI MapID="73" xpos="167.563"  ypos="8.38268" zpos="-71.7792" type="general.bosses.cobalt_wurmslayer" GUID="PQrKQCqU8E2r+QT97iZEKA==" iconFile="Img/General/BossStartEscort.png" minSize="20" maxSize="48"/>
-		<POI MapID="73" xpos="-279.555" ypos="0.0606"  zpos="-873.132" type="general.bosses.cobalt_wurmslayer" GUID="Fy+/Jk0ZqEucMo4XlnvGmQ=="/>
-
+		<Trail type="general.bosses.cobalt_wurmslayer" GUID="5bAApm78qkaMwIM9xY7/Pw==" trailData="Data/General/Bosses/CobaltWurmslayer.trl" texture="Data/Dot.png" color="ff00ffff" alpha="0.8" fadeNear="2000" fadeFar="3000" animSpeed="0" mapDisplaySize="15" />
+		<POI MapID="73" xpos="167.563" ypos="8.38268" zpos="-71.7792" type="general.bosses.cobalt_wurmslayer" GUID="PQrKQCqU8E2r+QT97iZEKA==" iconFile="Img/General/BossStartEscort.png" minSize="20" maxSize="48" />
+		<POI MapID="73" xpos="-279.555" ypos="0.0606" zpos="-873.132" type="general.bosses.cobalt_wurmslayer" GUID="Fy+/Jk0ZqEucMo4XlnvGmQ==" />
 		<!-- CRIMSON WURMSLAYER -->
-		<Trail type="general.bosses.crimson_wurmslayer" GUID="ML0S87H6DEaVid0y6Usz+g==" trailData="Data/General/Bosses/CrimsonWurmslayer.trl" texture="Data/Dot.png" color="ffff0000" alpha="0.8" fadeNear="2000" fadeFar="3000" animSpeed="0" mapDisplaySize="15"/>
-		<POI MapID="73" xpos="167.563"  ypos="8.38268" zpos="-71.7792" type="general.bosses.crimson_wurmslayer" GUID="5x01Slg23EOFmsHmBRw2Ew==" iconFile="Img/General/BossStartEscort.png" minSize="20" maxSize="48"/>
-		<POI MapID="73" xpos="200.754"  ypos="16.0616" zpos="-438.723" type="general.bosses.crimson_wurmslayer" GUID="gq0H29Cnc0aYXM/CwllaCw=="/>
-
+		<Trail type="general.bosses.crimson_wurmslayer" GUID="ML0S87H6DEaVid0y6Usz+g==" trailData="Data/General/Bosses/CrimsonWurmslayer.trl" texture="Data/Dot.png" color="ffff0000" alpha="0.8" fadeNear="2000" fadeFar="3000" animSpeed="0" mapDisplaySize="15" />
+		<POI MapID="73" xpos="167.563" ypos="8.38268" zpos="-71.7792" type="general.bosses.crimson_wurmslayer" GUID="5x01Slg23EOFmsHmBRw2Ew==" iconFile="Img/General/BossStartEscort.png" minSize="20" maxSize="48" />
+		<POI MapID="73" xpos="200.754" ypos="16.0616" zpos="-438.723" type="general.bosses.crimson_wurmslayer" GUID="gq0H29Cnc0aYXM/CwllaCw==" />
 		<!-- CRASH LANDING -->
-		<POI MapID="30" xpos="602.102" ypos="63.0258" zpos="431.632" type="general.bosses.crash_landing" GUID="Hrm8G/6laEm0k+jQuIYk2A=="/>
-
+		<POI MapID="30" xpos="602.102" ypos="63.0258" zpos="431.632" type="general.bosses.crash_landing" GUID="Hrm8G/6laEm0k+jQuIYk2A==" />
 		<!-- DISPELLING SHADOWS -->
-		<POI MapID="15" xpos="281.01" ypos="0" zpos="-384.86" type="general.bosses.dispelling_shadows" GUID="v4J+g33GTUW+zsz47VSRvA==" iconFile="Img/General/DispellingShadows.png" minSize="180" maxSize="200" alpha="0.75" fadeNear="800" fadeFar="1300" mapVisibility="0" miniMapVisibility="0"/>
-		<POI MapID="15" xpos="282.45" ypos="0" zpos="-404.81" type="general.bosses.dispelling_shadows" GUID="KHAyx9TfJEivTb0RVWEfVA=="/>
-		<POI MapID="15" xpos="309.95" ypos="0" zpos="-433.05" type="general.bosses.dispelling_shadows" GUID="GDqzsLdK00SUZ8xG/OWoLw=="/>
-		<POI MapID="15" xpos="299.02" ypos="0" zpos="-452.74" type="general.bosses.dispelling_shadows" GUID="5hpg7sveMESX+WHZzBB7Sg=="/>
-		<POI MapID="15" xpos="302.11" ypos="0" zpos="-478.50" type="general.bosses.dispelling_shadows" GUID="8Gb2f4HJZUOhaotq8368Rw=="/>
-		<POI MapID="15" xpos="283.86" ypos="0" zpos="-499.90" type="general.bosses.dispelling_shadows" GUID="BZJqZGSwD0mhzB4ZVWM0yg=="/>
-		<POI MapID="15" xpos="250.52" ypos="0" zpos="-488.03" type="general.bosses.dispelling_shadows" GUID="1Cz+wG8a90G9ilg6lnjwPg=="/>
-		<POI MapID="15" xpos="221.76" ypos="0" zpos="-494.92" type="general.bosses.dispelling_shadows" GUID="+RN/XUjEdU+32PsNkXtgEA=="/>
-		<POI MapID="15" xpos="228.16" ypos="0" zpos="-454.17" type="general.bosses.dispelling_shadows" GUID="CUUb6+VlBEW92H52IcQJUw=="/>
-		<POI MapID="15" xpos="203.77" ypos="0" zpos="-446.07" type="general.bosses.dispelling_shadows" GUID="kpcsNTluVEySdPRp+DIGnw=="/>
-		<POI MapID="15" xpos="209.76" ypos="0" zpos="-421.69" type="general.bosses.dispelling_shadows" GUID="/ukOToIh80uwd6BUlJUJ9Q=="/>
-		<POI MapID="15" xpos="225.23" ypos="0" zpos="-393.30" type="general.bosses.dispelling_shadows" GUID="ZJYYqCuuFEK3hp6g0o1uKw=="/>
-		<POI MapID="15" xpos="253.49" ypos="0" zpos="-405.79" type="general.bosses.dispelling_shadows" GUID="l7as1zh/WUWCgKNpLktrug=="/>
-		<POI MapID="15" xpos="279.24" ypos="0" zpos="-463.39" type="general.bosses.dispelling_shadows" GUID="FEJBqX+1GEa6jl2vyOFujg=="/>
-		<POI MapID="15" xpos="253.49" ypos="2" zpos="-405.79" type="general.bosses.dispelling_shadows.numbers" GUID="UHBeZa68A0izt0ncsMB4pQ==" iconFile="Img/Numbers/1.png"/>
-		<POI MapID="15" xpos="225.23" ypos="2" zpos="-393.30" type="general.bosses.dispelling_shadows.numbers" GUID="aUffHo21I0KtyeJg5g5Lsw==" iconFile="Img/Numbers/2.png"/>
-		<POI MapID="15" xpos="209.76" ypos="2" zpos="-421.69" type="general.bosses.dispelling_shadows.numbers" GUID="osBvmdi8sUeQxpiSqhQ5aQ==" iconFile="Img/Numbers/3.png"/>
-		<POI MapID="15" xpos="203.77" ypos="2" zpos="-446.07" type="general.bosses.dispelling_shadows.numbers" GUID="si54phXEBkS/pEtvCtzluQ==" iconFile="Img/Numbers/4.png"/>
-		<POI MapID="15" xpos="228.16" ypos="2" zpos="-454.17" type="general.bosses.dispelling_shadows.numbers" GUID="IkwEVcR/EU+p1jWld7MaWg==" iconFile="Img/Numbers/5.png"/>
-		<POI MapID="15" xpos="221.76" ypos="2" zpos="-494.92" type="general.bosses.dispelling_shadows.numbers" GUID="uB3BqJ+KwE6jaUlNWD8BEA==" iconFile="Img/Numbers/6.png"/>
-		<POI MapID="15" xpos="250.52" ypos="2" zpos="-488.03" type="general.bosses.dispelling_shadows.numbers" GUID="KwjoMD4/v0eoc9hg85YOYQ==" iconFile="Img/Numbers/7.png"/>
-		<POI MapID="15" xpos="283.86" ypos="2" zpos="-499.90" type="general.bosses.dispelling_shadows.numbers" GUID="Jqk5U1yNjUeoAhrIa/w5Vw==" iconFile="Img/Numbers/8.png"/>
-		<POI MapID="15" xpos="302.11" ypos="2" zpos="-478.50" type="general.bosses.dispelling_shadows.numbers" GUID="OWKt9KHikEqvnzM+Q5nfRg==" iconFile="Img/Numbers/9.png"/>
-		<POI MapID="15" xpos="279.24" ypos="2" zpos="-463.39" type="general.bosses.dispelling_shadows.numbers" GUID="eO2EOwsaJEa+kb5LKlXYcw==" iconFile="Img/Numbers/10.png"/>
-		<POI MapID="15" xpos="299.02" ypos="2" zpos="-452.74" type="general.bosses.dispelling_shadows.numbers" GUID="F18OsxtTvUy6o4N1tZuVlA==" iconFile="Img/Numbers/11.png"/>
-		<POI MapID="15" xpos="309.95" ypos="2" zpos="-433.05" type="general.bosses.dispelling_shadows.numbers" GUID="eXk03Da0d0q/B5OcNG18zw==" iconFile="Img/Numbers/12.png"/>
-		<POI MapID="15" xpos="282.45" ypos="2" zpos="-404.81" type="general.bosses.dispelling_shadows.numbers" GUID="NwtfYM0ix06DVQfiWHYqKQ==" iconFile="Img/Numbers/13.png"/>
-
+		<POI MapID="15" xpos="281.01" ypos="0" zpos="-384.86" type="general.bosses.dispelling_shadows" GUID="v4J+g33GTUW+zsz47VSRvA==" iconFile="Img/General/DispellingShadows.png" minSize="180" maxSize="200" alpha="0.75" fadeNear="800" fadeFar="1300" mapVisibility="0" miniMapVisibility="0" />
+		<POI MapID="15" xpos="282.45" ypos="0" zpos="-404.81" type="general.bosses.dispelling_shadows" GUID="KHAyx9TfJEivTb0RVWEfVA==" />
+		<POI MapID="15" xpos="309.95" ypos="0" zpos="-433.05" type="general.bosses.dispelling_shadows" GUID="GDqzsLdK00SUZ8xG/OWoLw==" />
+		<POI MapID="15" xpos="299.02" ypos="0" zpos="-452.74" type="general.bosses.dispelling_shadows" GUID="5hpg7sveMESX+WHZzBB7Sg==" />
+		<POI MapID="15" xpos="302.11" ypos="0" zpos="-478.50" type="general.bosses.dispelling_shadows" GUID="8Gb2f4HJZUOhaotq8368Rw==" />
+		<POI MapID="15" xpos="283.86" ypos="0" zpos="-499.90" type="general.bosses.dispelling_shadows" GUID="BZJqZGSwD0mhzB4ZVWM0yg==" />
+		<POI MapID="15" xpos="250.52" ypos="0" zpos="-488.03" type="general.bosses.dispelling_shadows" GUID="1Cz+wG8a90G9ilg6lnjwPg==" />
+		<POI MapID="15" xpos="221.76" ypos="0" zpos="-494.92" type="general.bosses.dispelling_shadows" GUID="+RN/XUjEdU+32PsNkXtgEA==" />
+		<POI MapID="15" xpos="228.16" ypos="0" zpos="-454.17" type="general.bosses.dispelling_shadows" GUID="CUUb6+VlBEW92H52IcQJUw==" />
+		<POI MapID="15" xpos="203.77" ypos="0" zpos="-446.07" type="general.bosses.dispelling_shadows" GUID="kpcsNTluVEySdPRp+DIGnw==" />
+		<POI MapID="15" xpos="209.76" ypos="0" zpos="-421.69" type="general.bosses.dispelling_shadows" GUID="/ukOToIh80uwd6BUlJUJ9Q==" />
+		<POI MapID="15" xpos="225.23" ypos="0" zpos="-393.30" type="general.bosses.dispelling_shadows" GUID="ZJYYqCuuFEK3hp6g0o1uKw==" />
+		<POI MapID="15" xpos="253.49" ypos="0" zpos="-405.79" type="general.bosses.dispelling_shadows" GUID="l7as1zh/WUWCgKNpLktrug==" />
+		<POI MapID="15" xpos="279.24" ypos="0" zpos="-463.39" type="general.bosses.dispelling_shadows" GUID="FEJBqX+1GEa6jl2vyOFujg==" />
+		<POI MapID="15" xpos="253.49" ypos="2" zpos="-405.79" type="general.bosses.dispelling_shadows.numbers" GUID="UHBeZa68A0izt0ncsMB4pQ==" iconFile="Img/Numbers/1.png" />
+		<POI MapID="15" xpos="225.23" ypos="2" zpos="-393.30" type="general.bosses.dispelling_shadows.numbers" GUID="aUffHo21I0KtyeJg5g5Lsw==" iconFile="Img/Numbers/2.png" />
+		<POI MapID="15" xpos="209.76" ypos="2" zpos="-421.69" type="general.bosses.dispelling_shadows.numbers" GUID="osBvmdi8sUeQxpiSqhQ5aQ==" iconFile="Img/Numbers/3.png" />
+		<POI MapID="15" xpos="203.77" ypos="2" zpos="-446.07" type="general.bosses.dispelling_shadows.numbers" GUID="si54phXEBkS/pEtvCtzluQ==" iconFile="Img/Numbers/4.png" />
+		<POI MapID="15" xpos="228.16" ypos="2" zpos="-454.17" type="general.bosses.dispelling_shadows.numbers" GUID="IkwEVcR/EU+p1jWld7MaWg==" iconFile="Img/Numbers/5.png" />
+		<POI MapID="15" xpos="221.76" ypos="2" zpos="-494.92" type="general.bosses.dispelling_shadows.numbers" GUID="uB3BqJ+KwE6jaUlNWD8BEA==" iconFile="Img/Numbers/6.png" />
+		<POI MapID="15" xpos="250.52" ypos="2" zpos="-488.03" type="general.bosses.dispelling_shadows.numbers" GUID="KwjoMD4/v0eoc9hg85YOYQ==" iconFile="Img/Numbers/7.png" />
+		<POI MapID="15" xpos="283.86" ypos="2" zpos="-499.90" type="general.bosses.dispelling_shadows.numbers" GUID="Jqk5U1yNjUeoAhrIa/w5Vw==" iconFile="Img/Numbers/8.png" />
+		<POI MapID="15" xpos="302.11" ypos="2" zpos="-478.50" type="general.bosses.dispelling_shadows.numbers" GUID="OWKt9KHikEqvnzM+Q5nfRg==" iconFile="Img/Numbers/9.png" />
+		<POI MapID="15" xpos="279.24" ypos="2" zpos="-463.39" type="general.bosses.dispelling_shadows.numbers" GUID="eO2EOwsaJEa+kb5LKlXYcw==" iconFile="Img/Numbers/10.png" />
+		<POI MapID="15" xpos="299.02" ypos="2" zpos="-452.74" type="general.bosses.dispelling_shadows.numbers" GUID="F18OsxtTvUy6o4N1tZuVlA==" iconFile="Img/Numbers/11.png" />
+		<POI MapID="15" xpos="309.95" ypos="2" zpos="-433.05" type="general.bosses.dispelling_shadows.numbers" GUID="eXk03Da0d0q/B5OcNG18zw==" iconFile="Img/Numbers/12.png" />
+		<POI MapID="15" xpos="282.45" ypos="2" zpos="-404.81" type="general.bosses.dispelling_shadows.numbers" GUID="NwtfYM0ix06DVQfiWHYqKQ==" iconFile="Img/Numbers/13.png" />
 		<!-- CLEANUP CREW -->
-		<POI MapID="35" xpos="-441.695" ypos="49.2586" zpos="708.561" type="general.bosses.cleanup_crew" GUID="gcFAU8q77UO1NlQoE0OBdA==" iconFile="Img/General/MatrixCubeKey.png" minSize="12" maxSize="20" fadeNear="6000" fadeFar="7500" behavior="4" resetLength="300" mapDisplaySize="20"/>
-		<POI MapID="35" xpos="-437.716" ypos="37.2526" zpos="638.487" type="general.bosses.cleanup_crew" GUID="DO+2nPMlS0aVECsvI2WXOQ==" iconFile="Img/General/MatrixCubeKey.png" minSize="12" maxSize="20" fadeNear="6000" fadeFar="7500" behavior="4" resetLength="300" mapDisplaySize="20"/>
-		<POI MapID="35" xpos="-436.603" ypos="18.6937" zpos="638.111" type="general.bosses.cleanup_crew" GUID="HonPHJeE3UeHbho7Z5rfJw==" iconFile="Img/General/MatrixCubeKey.png" minSize="12" maxSize="20" fadeNear="6000" fadeFar="7500" behavior="4" resetLength="300" mapDisplaySize="20"/>
-		<POI MapID="35" xpos="-431.202" ypos="21.7246" zpos="678.533" type="general.bosses.cleanup_crew" GUID="2z+kwNhzKkiuYV/avJsZcg==" iconFile="Img/General/MatrixCubeKey.png" minSize="12" maxSize="20" fadeNear="6000" fadeFar="7500" behavior="4" resetLength="300" mapDisplaySize="20"/>
-		<POI MapID="35" xpos="-421.212" ypos="24.6468" zpos="717.103" type="general.bosses.cleanup_crew" GUID="sixndl48MEeCjmko3pZ6Nw==" iconFile="Img/General/MatrixCubeKey.png" minSize="12" maxSize="20" fadeNear="6000" fadeFar="7500" behavior="4" resetLength="300" mapDisplaySize="20"/>
-		<POI MapID="35" xpos="-398.769" ypos="9.74733" zpos="821.911" type="general.bosses.cleanup_crew" GUID="TtChAL6pN0CZOlhbvwub4Q==" iconFile="Img/General/MatrixCubeKey.png" minSize="12" maxSize="20" fadeNear="6000" fadeFar="7500" behavior="4" resetLength="300" mapDisplaySize="20"/>
-		<POI MapID="35" xpos="-376.5"   ypos="11.7"    zpos="832.92"  type="general.bosses.cleanup_crew" GUID="YCzZrf/QZU219Z41htTe5A==" iconFile="Img/General/MatrixCubeKey.png" minSize="12" maxSize="20" fadeNear="6000" fadeFar="7500" behavior="4" resetLength="300" mapDisplaySize="20"/>
-		<POI MapID="35" xpos="-376.009" ypos="24.6397" zpos="930.262" type="general.bosses.cleanup_crew" GUID="RyacCVxtKEa7HScMjbI20Q==" iconFile="Img/General/MatrixCubeKey.png" minSize="12" maxSize="20" fadeNear="6000" fadeFar="7500" behavior="4" resetLength="300" mapDisplaySize="20"/>
-		<POI MapID="35" xpos="-365.207" ypos="21.6336" zpos="846.123" type="general.bosses.cleanup_crew" GUID="3dj5m39cu0Wiy9ZNUJGX8g==" iconFile="Img/General/MatrixCubeKey.png" minSize="12" maxSize="20" fadeNear="6000" fadeFar="7500" behavior="4" resetLength="300" mapDisplaySize="20"/>
-		<POI MapID="35" xpos="-347.343" ypos="21.6343" zpos="852.571" type="general.bosses.cleanup_crew" GUID="wcdontDYdku87hvTV27HDQ==" iconFile="Img/General/MatrixCubeKey.png" minSize="12" maxSize="20" fadeNear="6000" fadeFar="7500" behavior="4" resetLength="300" mapDisplaySize="20"/>
-		<POI MapID="35" xpos="-340.445" ypos="9.69198" zpos="839.6"   type="general.bosses.cleanup_crew" GUID="sz+A7T3AGUClYGpxtvpzWA==" iconFile="Img/General/MatrixCubeKey.png" minSize="12" maxSize="20" fadeNear="6000" fadeFar="7500" behavior="4" resetLength="300" mapDisplaySize="20"/>
-		<POI MapID="35" xpos="-339.988" ypos="13.5241" zpos="804.765" type="general.bosses.cleanup_crew" GUID="NPzt7bX9UU+uo8BXawvE/w==" iconFile="Img/General/MatrixCubeKey.png" minSize="12" maxSize="20" fadeNear="6000" fadeFar="7500" behavior="4" resetLength="300" mapDisplaySize="20"/>
-		<POI MapID="35" xpos="-334.349" ypos="23.53"   zpos="909.494" type="general.bosses.cleanup_crew" GUID="kxss5CMebUyNQs3BOHIZhg==" iconFile="Img/General/MatrixCubeKey.png" minSize="12" maxSize="20" fadeNear="6000" fadeFar="7500" behavior="4" resetLength="300" mapDisplaySize="20"/>
-		<POI MapID="35" xpos="-333.372" ypos="26.7202" zpos="647.61"  type="general.bosses.cleanup_crew" GUID="o/De51OlnEKpejJ4Vk3ErA==" iconFile="Img/General/MatrixCubeKey.png" minSize="12" maxSize="20" fadeNear="6000" fadeFar="7500" behavior="4" resetLength="300" mapDisplaySize="20"/>
-		<POI MapID="35" xpos="-323.849" ypos="18.7288" zpos="630.262" type="general.bosses.cleanup_crew" GUID="CJycWm0kcU6WlbtcbUo2Rg==" iconFile="Img/General/MatrixCubeKey.png" minSize="12" maxSize="20" fadeNear="6000" fadeFar="7500" behavior="4" resetLength="300" mapDisplaySize="20"/>
-		<POI MapID="35" xpos="-321.584" ypos="10.6085" zpos="822.73"  type="general.bosses.cleanup_crew" GUID="T/HXMh9u2UeSQnEc8KSoxg==" iconFile="Img/General/MatrixCubeKey.png" minSize="12" maxSize="20" fadeNear="6000" fadeFar="7500" behavior="4" resetLength="300" mapDisplaySize="20"/>
-		<POI MapID="35" xpos="-318.204" ypos="21.7315" zpos="872.946" type="general.bosses.cleanup_crew" GUID="Bu4DjmwoeU2wWI7bTwuJBA==" iconFile="Img/General/MatrixCubeKey.png" minSize="12" maxSize="20" fadeNear="6000" fadeFar="7500" behavior="4" resetLength="300" mapDisplaySize="20"/>
-		<POI MapID="35" xpos="-307.137" ypos="16.3272" zpos="796.536" type="general.bosses.cleanup_crew" GUID="TYwL+F90z0WtaQvb5GKIxQ==" iconFile="Img/General/MatrixCubeKey.png" minSize="12" maxSize="20" fadeNear="6000" fadeFar="7500" behavior="4" resetLength="300" mapDisplaySize="20"/>
-		<POI MapID="35" xpos="-288.974" ypos="18.1782" zpos="807.792" type="general.bosses.cleanup_crew" GUID="pTjEctgfeECpK1QZoVVgNQ==" iconFile="Img/General/MatrixCubeKey.png" minSize="12" maxSize="20" fadeNear="6000" fadeFar="7500" behavior="4" resetLength="300" mapDisplaySize="20"/>
-		<POI MapID="35" xpos="-286.12"  ypos="19.7895" zpos="764.819" type="general.bosses.cleanup_crew" GUID="G4LWnkbNnUaOBl+nQBnbVQ==" iconFile="Img/General/MatrixCubeKey.png" minSize="12" maxSize="20" fadeNear="6000" fadeFar="7500" behavior="4" resetLength="300" mapDisplaySize="20"/>
-		<POI MapID="35" xpos="-278.895" ypos="36.386"  zpos="639.849" type="general.bosses.cleanup_crew" GUID="E4nvqCfRbkeMQ4wJYT6PCQ==" iconFile="Img/General/MatrixCubeKey.png" minSize="12" maxSize="20" fadeNear="6000" fadeFar="7500" behavior="4" resetLength="300" mapDisplaySize="20"/>
-		<POI MapID="35" xpos="-270.986" ypos="18.1224" zpos="688.328" type="general.bosses.cleanup_crew" GUID="X/Xq1L+J7kqruaB+/fjmuw==" iconFile="Img/General/MatrixCubeKey.png" minSize="12" maxSize="20" fadeNear="6000" fadeFar="7500" behavior="4" resetLength="300" mapDisplaySize="20"/>
-		<POI MapID="35" xpos="-270.842" ypos="18.0996" zpos="806.233" type="general.bosses.cleanup_crew" GUID="3HsPYO4FKEa6Q7lnutX6ow==" iconFile="Img/General/MatrixCubeKey.png" minSize="12" maxSize="20" fadeNear="6000" fadeFar="7500" behavior="4" resetLength="300" mapDisplaySize="20"/>
-		<POI MapID="35" xpos="-265.742" ypos="18.6367" zpos="660.201" type="general.bosses.cleanup_crew" GUID="3jm2XLntuUGDKLY4I01m8g==" iconFile="Img/General/MatrixCubeKey.png" minSize="12" maxSize="20" fadeNear="6000" fadeFar="7500" behavior="4" resetLength="300" mapDisplaySize="20"/>
+		<POI MapID="35" xpos="-441.695" ypos="49.2586" zpos="708.561" type="general.bosses.cleanup_crew" GUID="gcFAU8q77UO1NlQoE0OBdA==" iconFile="Img/General/MatrixCubeKey.png" minSize="12" maxSize="20" fadeNear="6000" fadeFar="7500" behavior="4" resetLength="300" mapDisplaySize="20" />
+		<POI MapID="35" xpos="-437.716" ypos="37.2526" zpos="638.487" type="general.bosses.cleanup_crew" GUID="DO+2nPMlS0aVECsvI2WXOQ==" iconFile="Img/General/MatrixCubeKey.png" minSize="12" maxSize="20" fadeNear="6000" fadeFar="7500" behavior="4" resetLength="300" mapDisplaySize="20" />
+		<POI MapID="35" xpos="-436.603" ypos="18.6937" zpos="638.111" type="general.bosses.cleanup_crew" GUID="HonPHJeE3UeHbho7Z5rfJw==" iconFile="Img/General/MatrixCubeKey.png" minSize="12" maxSize="20" fadeNear="6000" fadeFar="7500" behavior="4" resetLength="300" mapDisplaySize="20" />
+		<POI MapID="35" xpos="-431.202" ypos="21.7246" zpos="678.533" type="general.bosses.cleanup_crew" GUID="2z+kwNhzKkiuYV/avJsZcg==" iconFile="Img/General/MatrixCubeKey.png" minSize="12" maxSize="20" fadeNear="6000" fadeFar="7500" behavior="4" resetLength="300" mapDisplaySize="20" />
+		<POI MapID="35" xpos="-421.212" ypos="24.6468" zpos="717.103" type="general.bosses.cleanup_crew" GUID="sixndl48MEeCjmko3pZ6Nw==" iconFile="Img/General/MatrixCubeKey.png" minSize="12" maxSize="20" fadeNear="6000" fadeFar="7500" behavior="4" resetLength="300" mapDisplaySize="20" />
+		<POI MapID="35" xpos="-398.769" ypos="9.74733" zpos="821.911" type="general.bosses.cleanup_crew" GUID="TtChAL6pN0CZOlhbvwub4Q==" iconFile="Img/General/MatrixCubeKey.png" minSize="12" maxSize="20" fadeNear="6000" fadeFar="7500" behavior="4" resetLength="300" mapDisplaySize="20" />
+		<POI MapID="35" xpos="-376.5" ypos="11.7" zpos="832.92" type="general.bosses.cleanup_crew" GUID="YCzZrf/QZU219Z41htTe5A==" iconFile="Img/General/MatrixCubeKey.png" minSize="12" maxSize="20" fadeNear="6000" fadeFar="7500" behavior="4" resetLength="300" mapDisplaySize="20" />
+		<POI MapID="35" xpos="-376.009" ypos="24.6397" zpos="930.262" type="general.bosses.cleanup_crew" GUID="RyacCVxtKEa7HScMjbI20Q==" iconFile="Img/General/MatrixCubeKey.png" minSize="12" maxSize="20" fadeNear="6000" fadeFar="7500" behavior="4" resetLength="300" mapDisplaySize="20" />
+		<POI MapID="35" xpos="-365.207" ypos="21.6336" zpos="846.123" type="general.bosses.cleanup_crew" GUID="3dj5m39cu0Wiy9ZNUJGX8g==" iconFile="Img/General/MatrixCubeKey.png" minSize="12" maxSize="20" fadeNear="6000" fadeFar="7500" behavior="4" resetLength="300" mapDisplaySize="20" />
+		<POI MapID="35" xpos="-347.343" ypos="21.6343" zpos="852.571" type="general.bosses.cleanup_crew" GUID="wcdontDYdku87hvTV27HDQ==" iconFile="Img/General/MatrixCubeKey.png" minSize="12" maxSize="20" fadeNear="6000" fadeFar="7500" behavior="4" resetLength="300" mapDisplaySize="20" />
+		<POI MapID="35" xpos="-340.445" ypos="9.69198" zpos="839.6" type="general.bosses.cleanup_crew" GUID="sz+A7T3AGUClYGpxtvpzWA==" iconFile="Img/General/MatrixCubeKey.png" minSize="12" maxSize="20" fadeNear="6000" fadeFar="7500" behavior="4" resetLength="300" mapDisplaySize="20" />
+		<POI MapID="35" xpos="-339.988" ypos="13.5241" zpos="804.765" type="general.bosses.cleanup_crew" GUID="NPzt7bX9UU+uo8BXawvE/w==" iconFile="Img/General/MatrixCubeKey.png" minSize="12" maxSize="20" fadeNear="6000" fadeFar="7500" behavior="4" resetLength="300" mapDisplaySize="20" />
+		<POI MapID="35" xpos="-334.349" ypos="23.53" zpos="909.494" type="general.bosses.cleanup_crew" GUID="kxss5CMebUyNQs3BOHIZhg==" iconFile="Img/General/MatrixCubeKey.png" minSize="12" maxSize="20" fadeNear="6000" fadeFar="7500" behavior="4" resetLength="300" mapDisplaySize="20" />
+		<POI MapID="35" xpos="-333.372" ypos="26.7202" zpos="647.61" type="general.bosses.cleanup_crew" GUID="o/De51OlnEKpejJ4Vk3ErA==" iconFile="Img/General/MatrixCubeKey.png" minSize="12" maxSize="20" fadeNear="6000" fadeFar="7500" behavior="4" resetLength="300" mapDisplaySize="20" />
+		<POI MapID="35" xpos="-323.849" ypos="18.7288" zpos="630.262" type="general.bosses.cleanup_crew" GUID="CJycWm0kcU6WlbtcbUo2Rg==" iconFile="Img/General/MatrixCubeKey.png" minSize="12" maxSize="20" fadeNear="6000" fadeFar="7500" behavior="4" resetLength="300" mapDisplaySize="20" />
+		<POI MapID="35" xpos="-321.584" ypos="10.6085" zpos="822.73" type="general.bosses.cleanup_crew" GUID="T/HXMh9u2UeSQnEc8KSoxg==" iconFile="Img/General/MatrixCubeKey.png" minSize="12" maxSize="20" fadeNear="6000" fadeFar="7500" behavior="4" resetLength="300" mapDisplaySize="20" />
+		<POI MapID="35" xpos="-318.204" ypos="21.7315" zpos="872.946" type="general.bosses.cleanup_crew" GUID="Bu4DjmwoeU2wWI7bTwuJBA==" iconFile="Img/General/MatrixCubeKey.png" minSize="12" maxSize="20" fadeNear="6000" fadeFar="7500" behavior="4" resetLength="300" mapDisplaySize="20" />
+		<POI MapID="35" xpos="-307.137" ypos="16.3272" zpos="796.536" type="general.bosses.cleanup_crew" GUID="TYwL+F90z0WtaQvb5GKIxQ==" iconFile="Img/General/MatrixCubeKey.png" minSize="12" maxSize="20" fadeNear="6000" fadeFar="7500" behavior="4" resetLength="300" mapDisplaySize="20" />
+		<POI MapID="35" xpos="-288.974" ypos="18.1782" zpos="807.792" type="general.bosses.cleanup_crew" GUID="pTjEctgfeECpK1QZoVVgNQ==" iconFile="Img/General/MatrixCubeKey.png" minSize="12" maxSize="20" fadeNear="6000" fadeFar="7500" behavior="4" resetLength="300" mapDisplaySize="20" />
+		<POI MapID="35" xpos="-286.12" ypos="19.7895" zpos="764.819" type="general.bosses.cleanup_crew" GUID="G4LWnkbNnUaOBl+nQBnbVQ==" iconFile="Img/General/MatrixCubeKey.png" minSize="12" maxSize="20" fadeNear="6000" fadeFar="7500" behavior="4" resetLength="300" mapDisplaySize="20" />
+		<POI MapID="35" xpos="-278.895" ypos="36.386" zpos="639.849" type="general.bosses.cleanup_crew" GUID="E4nvqCfRbkeMQ4wJYT6PCQ==" iconFile="Img/General/MatrixCubeKey.png" minSize="12" maxSize="20" fadeNear="6000" fadeFar="7500" behavior="4" resetLength="300" mapDisplaySize="20" />
+		<POI MapID="35" xpos="-270.986" ypos="18.1224" zpos="688.328" type="general.bosses.cleanup_crew" GUID="X/Xq1L+J7kqruaB+/fjmuw==" iconFile="Img/General/MatrixCubeKey.png" minSize="12" maxSize="20" fadeNear="6000" fadeFar="7500" behavior="4" resetLength="300" mapDisplaySize="20" />
+		<POI MapID="35" xpos="-270.842" ypos="18.0996" zpos="806.233" type="general.bosses.cleanup_crew" GUID="3HsPYO4FKEa6Q7lnutX6ow==" iconFile="Img/General/MatrixCubeKey.png" minSize="12" maxSize="20" fadeNear="6000" fadeFar="7500" behavior="4" resetLength="300" mapDisplaySize="20" />
+		<POI MapID="35" xpos="-265.742" ypos="18.6367" zpos="660.201" type="general.bosses.cleanup_crew" GUID="3jm2XLntuUGDKLY4I01m8g==" iconFile="Img/General/MatrixCubeKey.png" minSize="12" maxSize="20" fadeNear="6000" fadeFar="7500" behavior="4" resetLength="300" mapDisplaySize="20" />
 		<!-- Water -->
-		<Trail type="general.bosses.cleanup_crew" GUID="R4UMIwLVlkOzZs5CVMUVaA==" trailData="Data/General/Bosses/CleanupCrewWater.trl" texture="Data/Arrow.png" color="ff00ffff" alpha="0.8" fadeNear="1500" fadeFar="2000" animSpeed="0" mapDisplaySize="15"/>
-		<POI MapID="35" xpos="-381.706" ypos="24.5424" zpos="798.704" type="general.bosses.cleanup_crew" GUID="Pe89hQBO40yOKzZkcq8LVQ==" iconFile="Img/Numbers/1.png"         color="ff00ffff" minSize="20" maxSize="32"/>
-		<POI MapID="35" xpos="-450.14"  ypos="12.8609" zpos="820.595" type="general.bosses.cleanup_crew" GUID="CMIPRj0oHU+7rXHhoH3trg==" iconFile="Img/Icons/Fight.png"       fadeNear="1500" fadeFar="2500" mapVisibility="0" miniMapVisibility="0"/>
-		<POI MapID="35" xpos="-450.091" ypos="10.6268" zpos="820.67"  type="general.bosses.cleanup_crew" GUID="b8F3tXOFe02ZfJ49MRtZiw==" iconFile="Img/Icons/Interaction.png" fadeNear="1500" fadeFar="2500" mapVisibility="0" miniMapVisibility="0"/>
+		<Trail type="general.bosses.cleanup_crew" GUID="R4UMIwLVlkOzZs5CVMUVaA==" trailData="Data/General/Bosses/CleanupCrewWater.trl" texture="Data/Arrow.png" color="ff00ffff" alpha="0.8" fadeNear="1500" fadeFar="2000" animSpeed="0" mapDisplaySize="15" />
+		<POI MapID="35" xpos="-381.706" ypos="24.5424" zpos="798.704" type="general.bosses.cleanup_crew" GUID="Pe89hQBO40yOKzZkcq8LVQ==" iconFile="Img/Numbers/1.png" color="ff00ffff" minSize="20" maxSize="32" />
+		<POI MapID="35" xpos="-450.14" ypos="12.8609" zpos="820.595" type="general.bosses.cleanup_crew" GUID="CMIPRj0oHU+7rXHhoH3trg==" iconFile="Img/Icons/Fight.png" fadeNear="1500" fadeFar="2500" mapVisibility="0" miniMapVisibility="0" />
+		<POI MapID="35" xpos="-450.091" ypos="10.6268" zpos="820.67" type="general.bosses.cleanup_crew" GUID="b8F3tXOFe02ZfJ49MRtZiw==" iconFile="Img/Icons/Interaction.png" fadeNear="1500" fadeFar="2500" mapVisibility="0" miniMapVisibility="0" />
 		<!-- Earth -->
-		<Trail type="general.bosses.cleanup_crew" GUID="6YSK8OHWgkqVeyi4j21asg==" trailData="Data/General/Bosses/CleanupCrewEarth.trl" texture="Data/Arrow.png" color="ffff8000" alpha="0.8" fadeNear="1500" fadeFar="2000" animSpeed="0" mapDisplaySize="15"/>
-		<POI MapID="35" xpos="-347.03"  ypos="27.4699" zpos="710.472" type="general.bosses.cleanup_crew" GUID="IlOSrtkqoUivnlC94SpiWA==" iconFile="Img/Numbers/2.png"         color="ffff8000" minSize="20" maxSize="32"/>
-		<POI MapID="35" xpos="-284.98"  ypos="36.3718" zpos="696.789" type="general.bosses.cleanup_crew" GUID="2JsD3i1S00aniIaqQHa9XQ==" iconFile="Img/Icons/Interaction.png" fadeNear="1500" fadeFar="2500" mapVisibility="0" miniMapVisibility="0"/>
+		<Trail type="general.bosses.cleanup_crew" GUID="6YSK8OHWgkqVeyi4j21asg==" trailData="Data/General/Bosses/CleanupCrewEarth.trl" texture="Data/Arrow.png" color="ffff8000" alpha="0.8" fadeNear="1500" fadeFar="2000" animSpeed="0" mapDisplaySize="15" />
+		<POI MapID="35" xpos="-347.03" ypos="27.4699" zpos="710.472" type="general.bosses.cleanup_crew" GUID="IlOSrtkqoUivnlC94SpiWA==" iconFile="Img/Numbers/2.png" color="ffff8000" minSize="20" maxSize="32" />
+		<POI MapID="35" xpos="-284.98" ypos="36.3718" zpos="696.789" type="general.bosses.cleanup_crew" GUID="2JsD3i1S00aniIaqQHa9XQ==" iconFile="Img/Icons/Interaction.png" fadeNear="1500" fadeFar="2500" mapVisibility="0" miniMapVisibility="0" />
 		<!-- Ice -->
-		<Trail type="general.bosses.cleanup_crew" GUID="pZ7H65n4Kk+6bkGK0FXKDg==" trailData="Data/General/Bosses/CleanupCrewIce.trl" texture="Data/Arrow.png" color="ff00ff00" alpha="0.8" fadeNear="1500" fadeFar="2000" animSpeed="0" mapDisplaySize="15"/>
-		<POI MapID="35" xpos="-386.788" ypos="27.5334" zpos="710.114" type="general.bosses.cleanup_crew" GUID="1r6nN6cXKEiZ0N4WCyWG3A==" iconFile="Img/Numbers/3.png"         color="ff00ff00" minSize="20" maxSize="32"/>
-		<POI MapID="35" xpos="-424.768" ypos="37.5857" zpos="669.226" type="general.bosses.cleanup_crew" GUID="ijbOmx5Af0uH64YiFw9klg==" iconFile="Img/Icons/Danger.png"      fadeNear="1500" fadeFar="2500" mapVisibility="0" miniMapVisibility="0"/>
-		<POI MapID="35" xpos="-430.857" ypos="37.2516" zpos="642.154" type="general.bosses.cleanup_crew" GUID="pmr2HQ1V50eipiILAcsAYQ==" iconFile="Img/Icons/Dodge.png"       fadeNear="1500" fadeFar="2500" heightOffset="0.5" mapVisibility="0" miniMapVisibility="0"/>
-		<POI MapID="35" xpos="-439.805" ypos="41.5373" zpos="638.634" type="general.bosses.cleanup_crew" GUID="zJ2I/W54f0SUj5v8LmxZGw==" iconFile="Img/Icons/Danger.png"      fadeNear="1500" fadeFar="2500" mapVisibility="0" miniMapVisibility="0"/>
-		<POI MapID="35" xpos="-432.846" ypos="49.9039" zpos="675.448" type="general.bosses.cleanup_crew" GUID="ED2jwbuJeEeOjZy3EohVmg==" iconFile="Img/Icons/Dodge.png"       fadeNear="1500" fadeFar="2500" heightOffset="0.5" mapVisibility="0" miniMapVisibility="0"/>
-		<POI MapID="35" xpos="-429.938" ypos="49.8836" zpos="683.542" type="general.bosses.cleanup_crew" GUID="smWVU+9PLEy0OyDClj6tFQ==" iconFile="Img/Icons/Danger.png"      fadeNear="1500" fadeFar="2500" mapVisibility="0" miniMapVisibility="0"/>
-		<POI MapID="35" xpos="-440.557" ypos="59.4203" zpos="666.491" type="general.bosses.cleanup_crew" GUID="OYhzVt5Y6kiuOTMrMVKjjQ==" iconFile="Img/Icons/Run.png"         fadeNear="1500" fadeFar="2500" heightOffset="0.5" mapVisibility="0" miniMapVisibility="0"/>
-		<POI MapID="35" xpos="-435.836" ypos="59.4203" zpos="666.605" type="general.bosses.cleanup_crew" GUID="ZyLYR5SOT06qAgYBQbt82g==" iconFile="Img/Icons/Run.png"         fadeNear="1500" fadeFar="2500" heightOffset="0.5" mapVisibility="0" miniMapVisibility="0"/>
-		<POI MapID="35" xpos="-436.845" ypos="59.4203" zpos="669.62"  type="general.bosses.cleanup_crew" GUID="fqnMcXE/HUmapKA24Kq+cw==" iconFile="Img/Icons/Danger.png"      fadeNear="1500" fadeFar="2500" mapVisibility="0" miniMapVisibility="0"/>
-		<POI MapID="35" xpos="-435.454" ypos="57.629"  zpos="680.367" type="general.bosses.cleanup_crew" GUID="OeEPaRN1WESRs3rIl1QERg==" iconFile="Img/Icons/Interaction.png" fadeNear="1500" fadeFar="2500" mapVisibility="0" miniMapVisibility="0"/>
+		<Trail type="general.bosses.cleanup_crew" GUID="pZ7H65n4Kk+6bkGK0FXKDg==" trailData="Data/General/Bosses/CleanupCrewIce.trl" texture="Data/Arrow.png" color="ff00ff00" alpha="0.8" fadeNear="1500" fadeFar="2000" animSpeed="0" mapDisplaySize="15" />
+		<POI MapID="35" xpos="-386.788" ypos="27.5334" zpos="710.114" type="general.bosses.cleanup_crew" GUID="1r6nN6cXKEiZ0N4WCyWG3A==" iconFile="Img/Numbers/3.png" color="ff00ff00" minSize="20" maxSize="32" />
+		<POI MapID="35" xpos="-424.768" ypos="37.5857" zpos="669.226" type="general.bosses.cleanup_crew" GUID="ijbOmx5Af0uH64YiFw9klg==" iconFile="Img/Icons/Danger.png" fadeNear="1500" fadeFar="2500" mapVisibility="0" miniMapVisibility="0" />
+		<POI MapID="35" xpos="-430.857" ypos="37.2516" zpos="642.154" type="general.bosses.cleanup_crew" GUID="pmr2HQ1V50eipiILAcsAYQ==" iconFile="Img/Icons/Dodge.png" fadeNear="1500" fadeFar="2500" heightOffset="0.5" mapVisibility="0" miniMapVisibility="0" />
+		<POI MapID="35" xpos="-439.805" ypos="41.5373" zpos="638.634" type="general.bosses.cleanup_crew" GUID="zJ2I/W54f0SUj5v8LmxZGw==" iconFile="Img/Icons/Danger.png" fadeNear="1500" fadeFar="2500" mapVisibility="0" miniMapVisibility="0" />
+		<POI MapID="35" xpos="-432.846" ypos="49.9039" zpos="675.448" type="general.bosses.cleanup_crew" GUID="ED2jwbuJeEeOjZy3EohVmg==" iconFile="Img/Icons/Dodge.png" fadeNear="1500" fadeFar="2500" heightOffset="0.5" mapVisibility="0" miniMapVisibility="0" />
+		<POI MapID="35" xpos="-429.938" ypos="49.8836" zpos="683.542" type="general.bosses.cleanup_crew" GUID="smWVU+9PLEy0OyDClj6tFQ==" iconFile="Img/Icons/Danger.png" fadeNear="1500" fadeFar="2500" mapVisibility="0" miniMapVisibility="0" />
+		<POI MapID="35" xpos="-440.557" ypos="59.4203" zpos="666.491" type="general.bosses.cleanup_crew" GUID="OYhzVt5Y6kiuOTMrMVKjjQ==" iconFile="Img/Icons/Run.png" fadeNear="1500" fadeFar="2500" heightOffset="0.5" mapVisibility="0" miniMapVisibility="0" />
+		<POI MapID="35" xpos="-435.836" ypos="59.4203" zpos="666.605" type="general.bosses.cleanup_crew" GUID="ZyLYR5SOT06qAgYBQbt82g==" iconFile="Img/Icons/Run.png" fadeNear="1500" fadeFar="2500" heightOffset="0.5" mapVisibility="0" miniMapVisibility="0" />
+		<POI MapID="35" xpos="-436.845" ypos="59.4203" zpos="669.62" type="general.bosses.cleanup_crew" GUID="fqnMcXE/HUmapKA24Kq+cw==" iconFile="Img/Icons/Danger.png" fadeNear="1500" fadeFar="2500" mapVisibility="0" miniMapVisibility="0" />
+		<POI MapID="35" xpos="-435.454" ypos="57.629" zpos="680.367" type="general.bosses.cleanup_crew" GUID="OeEPaRN1WESRs3rIl1QERg==" iconFile="Img/Icons/Interaction.png" fadeNear="1500" fadeFar="2500" mapVisibility="0" miniMapVisibility="0" />
 		<!-- Fire -->
-		<Trail type="general.bosses.cleanup_crew" GUID="IPjcan+CCEaE673+Q/Ld+A==" trailData="Data/General/Bosses/CleanupCrewFire.trl" texture="Data/Arrow.png" color="ffff0000" alpha="0.8" fadeNear="1500" fadeFar="2000" animSpeed="0" mapDisplaySize="15"/>
-		<POI MapID="35" xpos="-376.914" ypos="24.6162" zpos="802.183" type="general.bosses.cleanup_crew" GUID="RvmPffN2rUKWahCcZExt9w==" iconFile="Img/Numbers/4.png"           color="ffff0000" minSize="20" maxSize="32"/>
-		<POI MapID="35" xpos="-371.264" ypos="21.6336" zpos="888.975" type="general.bosses.cleanup_crew" GUID="wbDiAOAUKkqwJlu9f8mxpA==" iconFile="Img/Icons/Fight.png"         fadeNear="1500" fadeFar="2500" mapVisibility="0" miniMapVisibility="0"/>
-		<POI MapID="35" xpos="-371.264" ypos="23.6336" zpos="888.975" type="general.bosses.cleanup_crew" GUID="lIynjD7lxk2rR44aSVHpDw==" iconFile="Img/Icons/Interaction.png"   fadeNear="1500" fadeFar="2500" mapVisibility="0" miniMapVisibility="0"/>
-		<POI MapID="35" xpos="-371.243" ypos="26.6336" zpos="888.809" type="general.bosses.cleanup_crew" GUID="t5jA/3A2R0eEZxR0JYgDFQ==" iconFile="Img/General/CleanupCrew.png" minSize="48" maxSize="64" alpha="0.8" fadeNear="1900" fadeFar="2000" heightOffset="0.5" mapVisibility="0" miniMapVisibility="0"/>
-
+		<Trail type="general.bosses.cleanup_crew" GUID="IPjcan+CCEaE673+Q/Ld+A==" trailData="Data/General/Bosses/CleanupCrewFire.trl" texture="Data/Arrow.png" color="ffff0000" alpha="0.8" fadeNear="1500" fadeFar="2000" animSpeed="0" mapDisplaySize="15" />
+		<POI MapID="35" xpos="-376.914" ypos="24.6162" zpos="802.183" type="general.bosses.cleanup_crew" GUID="RvmPffN2rUKWahCcZExt9w==" iconFile="Img/Numbers/4.png" color="ffff0000" minSize="20" maxSize="32" />
+		<POI MapID="35" xpos="-371.264" ypos="21.6336" zpos="888.975" type="general.bosses.cleanup_crew" GUID="wbDiAOAUKkqwJlu9f8mxpA==" iconFile="Img/Icons/Fight.png" fadeNear="1500" fadeFar="2500" mapVisibility="0" miniMapVisibility="0" />
+		<POI MapID="35" xpos="-371.264" ypos="23.6336" zpos="888.975" type="general.bosses.cleanup_crew" GUID="lIynjD7lxk2rR44aSVHpDw==" iconFile="Img/Icons/Interaction.png" fadeNear="1500" fadeFar="2500" mapVisibility="0" miniMapVisibility="0" />
+		<POI MapID="35" xpos="-371.243" ypos="26.6336" zpos="888.809" type="general.bosses.cleanup_crew" GUID="t5jA/3A2R0eEZxR0JYgDFQ==" iconFile="Img/General/CleanupCrew.png" minSize="48" maxSize="64" alpha="0.8" fadeNear="1900" fadeFar="2000" heightOffset="0.5" mapVisibility="0" miniMapVisibility="0" />
 	</POIs>
 </OverlayData>

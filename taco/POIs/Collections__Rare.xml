@@ -1,178 +1,161 @@
 <!-- 2020.06.25 -->
 <OverlayData>
 	<POIs>
-
 		<!-- FINAL STRING -->
-		<POI MapID="1211" xpos="-1161.48" ypos="237.938" zpos="405.845" type="collections.rare_collections.final_sting" GUID="XVunD4wibEaXGmjnAMckBw=="/>
-		<POI MapID="1211" xpos="-1287.4"  ypos="279.109" zpos="355.133" type="collections.rare_collections.final_sting" GUID="41gBSZeyBEqPqmRIzDx3Rw=="/>
-		<POI MapID="1211" xpos="-1292.14" ypos="267.845" zpos="421.509" type="collections.rare_collections.final_sting" GUID="437cglh6T06s8x/RRSWFkA=="/>
-		<POI MapID="1211" xpos="-1208.81" ypos="271.627" zpos="407.828" type="collections.rare_collections.final_sting" GUID="6d8kx/hbbUSO//JJwkjORA=="/>
-		<POI MapID="1211" xpos="-1199.9"  ypos="341.525" zpos="267.337" type="collections.rare_collections.final_sting" GUID="seMjV/ukTkeh1gd7d//AGQ==" iconFile="Img/Icons/Destination.png" minSize="16" maxSize="32" behavior="0"/>
-
+		<POI MapID="1211" xpos="-1161.48" ypos="237.938" zpos="405.845" type="collections.rare_collections.final_sting" GUID="XVunD4wibEaXGmjnAMckBw==" />
+		<POI MapID="1211" xpos="-1287.4" ypos="279.109" zpos="355.133" type="collections.rare_collections.final_sting" GUID="41gBSZeyBEqPqmRIzDx3Rw==" />
+		<POI MapID="1211" xpos="-1292.14" ypos="267.845" zpos="421.509" type="collections.rare_collections.final_sting" GUID="437cglh6T06s8x/RRSWFkA==" />
+		<POI MapID="1211" xpos="-1208.81" ypos="271.627" zpos="407.828" type="collections.rare_collections.final_sting" GUID="6d8kx/hbbUSO//JJwkjORA==" />
+		<POI MapID="1211" xpos="-1199.9" ypos="341.525" zpos="267.337" type="collections.rare_collections.final_sting" GUID="seMjV/ukTkeh1gd7d//AGQ==" iconFile="Img/Icons/Destination.png" minSize="16" maxSize="32" behavior="0" />
 		<!-- GATE OF GOOD BYES -->
-		<POI MapID="1211" xpos="-1038.05" ypos="254.133" zpos="141.233" type="collections.rare_collections.gate_of_good_byes" GUID="hbUerFlk4EmbjpE+uqom2w=="/>
-		<POI MapID="1211" xpos="-1101.01" ypos="254.129" zpos="107.128" type="collections.rare_collections.gate_of_good_byes" GUID="ib7XHC+Aj0CCG9tpf4M8Rg=="/>
-		<POI MapID="1211" xpos="-1096.25" ypos="212.161" zpos="119.854" type="collections.rare_collections.gate_of_good_byes" GUID="fz15harVhEie1CNokflDHg=="/>
-		<POI MapID="1211" xpos="-1050.73" ypos="212.011" zpos="154.513" type="collections.rare_collections.gate_of_good_byes" GUID="7I0TOn8a8Ei+jkGsHoI1gQ=="/>
-		<POI MapID="1211" xpos="-1199.9"  ypos="341.525" zpos="267.337" type="collections.rare_collections.gate_of_good_byes" GUID="2wbl2tPfhUGegxU1S9RGzQ==" iconFile="Img/Icons/Destination.png" minSize="16" maxSize="32" behavior="0"/>
-
+		<POI MapID="1211" xpos="-1038.05" ypos="254.133" zpos="141.233" type="collections.rare_collections.gate_of_good_byes" GUID="hbUerFlk4EmbjpE+uqom2w==" />
+		<POI MapID="1211" xpos="-1101.01" ypos="254.129" zpos="107.128" type="collections.rare_collections.gate_of_good_byes" GUID="ib7XHC+Aj0CCG9tpf4M8Rg==" />
+		<POI MapID="1211" xpos="-1096.25" ypos="212.161" zpos="119.854" type="collections.rare_collections.gate_of_good_byes" GUID="fz15harVhEie1CNokflDHg==" />
+		<POI MapID="1211" xpos="-1050.73" ypos="212.011" zpos="154.513" type="collections.rare_collections.gate_of_good_byes" GUID="7I0TOn8a8Ei+jkGsHoI1gQ==" />
+		<POI MapID="1211" xpos="-1199.9" ypos="341.525" zpos="267.337" type="collections.rare_collections.gate_of_good_byes" GUID="2wbl2tPfhUGegxU1S9RGzQ==" iconFile="Img/Icons/Destination.png" minSize="16" maxSize="32" behavior="0" />
 		<!-- GUIDE TO GREATER UNDERSTANDING -->
-		<POI MapID="21" xpos="-365.7"   ypos="74.5259" zpos="-852.575" type="collections.rare_collections.greater_understanding.2" GUID="nNu+qXixDEKDH+CreroQrA==" fadeNear="3000" fadeFar="4500"/>
-		<POI MapID="21" xpos="-864.082" ypos="49.2596" zpos="543.358"  type="collections.rare_collections.greater_understanding.3" GUID="TJtLx5QN9UqYi7KYfxaRPQ==" fadeNear="3000" fadeFar="4500"/>
-		<POI MapID="21" xpos="20.3496"  ypos="30.2454" zpos="768.974"  type="collections.rare_collections.greater_understanding.4" GUID="/WXaO5XVLEC9TloXQJMj3g==" fadeNear="3000" fadeFar="4500"/>
-		<POI MapID="21" xpos="839.99"   ypos="13.1118" zpos="366.869"  type="collections.rare_collections.greater_understanding.5" GUID="VpnvW7nem0a9xYhD3rVpqA==" fadeNear="3000" fadeFar="4500"/>
-		<POI MapID="21" xpos="518.334"  ypos="44.3319" zpos="-904.207" type="collections.rare_collections.greater_understanding.6" GUID="NUVjw0czyU2By1NJInGh1A==" fadeNear="3000" fadeFar="4500"/>
-		<POI MapID="21" xpos="-383.937" ypos="74.2228" zpos="-857.793" type="collections.rare_collections.greater_understanding.7" GUID="YagZNYCYOki7WA8isI3Dlw==" fadeNear="3000" fadeFar="4500"/>
-		<POI MapID="21" xpos="-365.7"   ypos="74.5259" zpos="-852.575" type="collections.rare_collections.greater_understanding.2" GUID="9s1rIDZyt0m4oOnToa78JQ==" iconFile="Img/Numbers/1.png" color="ffffff00" heightOffset="4" behavior="0" mapVisibility="0" miniMapVisibility="0"/>
-		<POI MapID="21" xpos="-864.082" ypos="49.2596" zpos="543.358"  type="collections.rare_collections.greater_understanding.3" GUID="mPCjz6Vw+EavNU1b0eBFTA==" iconFile="Img/Numbers/2.png" color="ffffff00" heightOffset="4" behavior="0" mapVisibility="0" miniMapVisibility="0"/>
-		<POI MapID="21" xpos="20.3496"  ypos="30.2454" zpos="768.974"  type="collections.rare_collections.greater_understanding.4" GUID="sK7uvNUiNEqeTlV00Ep+WQ==" iconFile="Img/Numbers/3.png" color="ffffff00" heightOffset="4" behavior="0" mapVisibility="0" miniMapVisibility="0"/>
-		<POI MapID="21" xpos="839.99"   ypos="13.1118" zpos="366.869"  type="collections.rare_collections.greater_understanding.5" GUID="k6b4cesV90SIFEH3ZiGGWg==" iconFile="Img/Numbers/4.png" color="ffffff00" heightOffset="4" behavior="0" mapVisibility="0" miniMapVisibility="0"/>
-		<POI MapID="21" xpos="518.334"  ypos="44.3319" zpos="-904.207" type="collections.rare_collections.greater_understanding.6" GUID="sAP4rFHSeke4D+ZuPDDgbw==" iconFile="Img/Numbers/5.png" color="ffffff00" heightOffset="4" behavior="0" mapVisibility="0" miniMapVisibility="0"/>
-		<POI MapID="21" xpos="-383.937" ypos="74.2228" zpos="-857.793" type="collections.rare_collections.greater_understanding.7" GUID="B/e/1tj6dkiA796ai5pU3Q==" iconFile="Img/Numbers/6.png" color="ffffff00" heightOffset="4" behavior="0" mapVisibility="0" miniMapVisibility="0"/>
-
+		<POI MapID="21" xpos="-365.7" ypos="74.5259" zpos="-852.575" type="collections.rare_collections.greater_understanding.2" GUID="nNu+qXixDEKDH+CreroQrA==" fadeNear="3000" fadeFar="4500" />
+		<POI MapID="21" xpos="-864.082" ypos="49.2596" zpos="543.358" type="collections.rare_collections.greater_understanding.3" GUID="TJtLx5QN9UqYi7KYfxaRPQ==" fadeNear="3000" fadeFar="4500" />
+		<POI MapID="21" xpos="20.3496" ypos="30.2454" zpos="768.974" type="collections.rare_collections.greater_understanding.4" GUID="/WXaO5XVLEC9TloXQJMj3g==" fadeNear="3000" fadeFar="4500" />
+		<POI MapID="21" xpos="839.99" ypos="13.1118" zpos="366.869" type="collections.rare_collections.greater_understanding.5" GUID="VpnvW7nem0a9xYhD3rVpqA==" fadeNear="3000" fadeFar="4500" />
+		<POI MapID="21" xpos="518.334" ypos="44.3319" zpos="-904.207" type="collections.rare_collections.greater_understanding.6" GUID="NUVjw0czyU2By1NJInGh1A==" fadeNear="3000" fadeFar="4500" />
+		<POI MapID="21" xpos="-383.937" ypos="74.2228" zpos="-857.793" type="collections.rare_collections.greater_understanding.7" GUID="YagZNYCYOki7WA8isI3Dlw==" fadeNear="3000" fadeFar="4500" />
+		<POI MapID="21" xpos="-365.7" ypos="74.5259" zpos="-852.575" type="collections.rare_collections.greater_understanding.2" GUID="9s1rIDZyt0m4oOnToa78JQ==" iconFile="Img/Numbers/1.png" color="ffffff00" heightOffset="4" behavior="0" mapVisibility="0" miniMapVisibility="0" />
+		<POI MapID="21" xpos="-864.082" ypos="49.2596" zpos="543.358" type="collections.rare_collections.greater_understanding.3" GUID="mPCjz6Vw+EavNU1b0eBFTA==" iconFile="Img/Numbers/2.png" color="ffffff00" heightOffset="4" behavior="0" mapVisibility="0" miniMapVisibility="0" />
+		<POI MapID="21" xpos="20.3496" ypos="30.2454" zpos="768.974" type="collections.rare_collections.greater_understanding.4" GUID="sK7uvNUiNEqeTlV00Ep+WQ==" iconFile="Img/Numbers/3.png" color="ffffff00" heightOffset="4" behavior="0" mapVisibility="0" miniMapVisibility="0" />
+		<POI MapID="21" xpos="839.99" ypos="13.1118" zpos="366.869" type="collections.rare_collections.greater_understanding.5" GUID="k6b4cesV90SIFEH3ZiGGWg==" iconFile="Img/Numbers/4.png" color="ffffff00" heightOffset="4" behavior="0" mapVisibility="0" miniMapVisibility="0" />
+		<POI MapID="21" xpos="518.334" ypos="44.3319" zpos="-904.207" type="collections.rare_collections.greater_understanding.6" GUID="sAP4rFHSeke4D+ZuPDDgbw==" iconFile="Img/Numbers/5.png" color="ffffff00" heightOffset="4" behavior="0" mapVisibility="0" miniMapVisibility="0" />
+		<POI MapID="21" xpos="-383.937" ypos="74.2228" zpos="-857.793" type="collections.rare_collections.greater_understanding.7" GUID="B/e/1tj6dkiA796ai5pU3Q==" iconFile="Img/Numbers/6.png" color="ffffff00" heightOffset="4" behavior="0" mapVisibility="0" miniMapVisibility="0" />
 		<!-- KODA'S BLESSING -->
-		<POI MapID="22"   xpos="-826.879" ypos="5.64471" zpos="361.417"  type="collections.rare_collections.koda_s_blessing" GUID="wM4FzqOrpUqmxA+VUSpkTA==" achievementBit="0"/>
-		<POI MapID="1041" xpos="-736.632" ypos="183.588" zpos="-425.095" type="collections.rare_collections.koda_s_blessing" GUID="jnIQa8GIBUm6DTxuMU66CA==" achievementBit="1"/>
-		<POI MapID="39"   xpos="1049.97"  ypos="106.517" zpos="492.943"  type="collections.rare_collections.koda_s_blessing" GUID="fwKG6/Xfz0q25Nipf/Ij5Q==" achievementBit="2"/>
-		<POI MapID="23"   xpos="1183.12"  ypos="33.1503" zpos="-324.613" type="collections.rare_collections.koda_s_blessing" GUID="sHHZinAnqk2fuSEyDC5X2g==" achievementBit="3"/>
-		<POI MapID="29"   xpos="279.712"  ypos="15.3715" zpos="-900.98"  type="collections.rare_collections.koda_s_blessing" GUID="CsUof1ARk0itBJ/dshdFxQ==" achievementBit="4"/>
-		<POI MapID="21"   xpos="55.7756"  ypos="42.2211" zpos="335.533"  type="collections.rare_collections.koda_s_blessing" GUID="vFzqb2ZYK0GX/oKSh4N58Q==" achievementBit="5"/>
-		<POI MapID="1043" xpos="217.263"  ypos="10.0665" zpos="-221.679" type="collections.rare_collections.koda_s_blessing" GUID="syY4bkEcOE2N6jDFrT4Ejg==" achievementBit="6"/>
-		<POI MapID="1045" xpos="-405.594" ypos="329.63"  zpos="-23.7643" type="collections.rare_collections.koda_s_blessing" GUID="oALWaz1BXk+gFHErI2TrEQ==" achievementBit="7"/>
-		<POI MapID="648"  xpos="30.6769"  ypos="103.03"  zpos="56.7805"  type="collections.rare_collections.koda_s_blessing" GUID="3/saxbGInEWzc0+t/2foTA==" achievementBit="8"/>
-		<POI MapID="30"   xpos="-559.884" ypos="39.8743" zpos="-248.197" type="collections.rare_collections.koda_s_blessing" GUID="JKsXf46shUW+mfEb2AwjPg==" achievementBit="9"/>
-		<POI MapID="31"   xpos="284.723"  ypos="20.904"  zpos="-395.218" type="collections.rare_collections.koda_s_blessing" GUID="HcVs1WY3LECiK+MfIL7kSA==" achievementBit="10"/>
-		<POI MapID="50"   xpos="142.124"  ypos="40.6779" zpos="218.771"  type="collections.rare_collections.koda_s_blessing" GUID="Ly9pSmuxn0qku11QVUJXmA==" achievementBit="11"/>
-		<POI MapID="54"   xpos="408.203"  ypos="32.0219" zpos="146.9"    type="collections.rare_collections.koda_s_blessing" GUID="fYJ8AyDrtkW2axdyv7Bu7A==" achievementBit="12"/>
-		<POI MapID="1052" xpos="-65.7226" ypos="402.076" zpos="-397.7"   type="collections.rare_collections.koda_s_blessing" GUID="5PcPzmYQBUqz7AuYglo3Jw==" achievementBit="13"/>
-		<POI MapID="15"   xpos="450.25"   ypos="1.84075" zpos="-292.975" type="collections.rare_collections.koda_s_blessing" GUID="k3e1wctC806uMM/9HlPi+Q==" achievementBit="14"/>
-		<POI MapID="25"   xpos="-459.776" ypos="46.8836" zpos="1156.07"  type="collections.rare_collections.koda_s_blessing" GUID="ZWAoQyI99EmIZzlXzpODfw==" achievementBit="15"/>
-		<POI MapID="28"   xpos="399.23"   ypos="71.5972" zpos="344.932"  type="collections.rare_collections.koda_s_blessing" GUID="KtVbWMVkXUqn/sKAm/Bgmw==" achievementBit="16"/>
-		<POI MapID="51"   xpos="914.407"  ypos="3.85997" zpos="-200.373" type="collections.rare_collections.koda_s_blessing" GUID="zn0H6rUhD0GGx3oPzomVUA==" achievementBit="17"/>
-		<POI MapID="1165" xpos="-230.106" ypos="76.3381" zpos="-8.65013" type="collections.rare_collections.koda_s_blessing" GUID="rxHSDc9xC06kmh1GJUtKWw==" achievementBit="18"/>
-
+		<POI MapID="22" xpos="-826.879" ypos="5.64471" zpos="361.417" type="collections.rare_collections.koda_s_blessing" GUID="wM4FzqOrpUqmxA+VUSpkTA==" achievementBit="0" />
+		<POI MapID="1041" xpos="-736.632" ypos="183.588" zpos="-425.095" type="collections.rare_collections.koda_s_blessing" GUID="jnIQa8GIBUm6DTxuMU66CA==" achievementBit="1" />
+		<POI MapID="39" xpos="1049.97" ypos="106.517" zpos="492.943" type="collections.rare_collections.koda_s_blessing" GUID="fwKG6/Xfz0q25Nipf/Ij5Q==" achievementBit="2" />
+		<POI MapID="23" xpos="1183.12" ypos="33.1503" zpos="-324.613" type="collections.rare_collections.koda_s_blessing" GUID="sHHZinAnqk2fuSEyDC5X2g==" achievementBit="3" />
+		<POI MapID="29" xpos="279.712" ypos="15.3715" zpos="-900.98" type="collections.rare_collections.koda_s_blessing" GUID="CsUof1ARk0itBJ/dshdFxQ==" achievementBit="4" />
+		<POI MapID="21" xpos="55.7756" ypos="42.2211" zpos="335.533" type="collections.rare_collections.koda_s_blessing" GUID="vFzqb2ZYK0GX/oKSh4N58Q==" achievementBit="5" />
+		<POI MapID="1043" xpos="217.263" ypos="10.0665" zpos="-221.679" type="collections.rare_collections.koda_s_blessing" GUID="syY4bkEcOE2N6jDFrT4Ejg==" achievementBit="6" />
+		<POI MapID="1045" xpos="-405.594" ypos="329.63" zpos="-23.7643" type="collections.rare_collections.koda_s_blessing" GUID="oALWaz1BXk+gFHErI2TrEQ==" achievementBit="7" />
+		<POI MapID="648" xpos="30.6769" ypos="103.03" zpos="56.7805" type="collections.rare_collections.koda_s_blessing" GUID="3/saxbGInEWzc0+t/2foTA==" achievementBit="8" />
+		<POI MapID="30" xpos="-559.884" ypos="39.8743" zpos="-248.197" type="collections.rare_collections.koda_s_blessing" GUID="JKsXf46shUW+mfEb2AwjPg==" achievementBit="9" />
+		<POI MapID="31" xpos="284.723" ypos="20.904" zpos="-395.218" type="collections.rare_collections.koda_s_blessing" GUID="HcVs1WY3LECiK+MfIL7kSA==" achievementBit="10" />
+		<POI MapID="50" xpos="142.124" ypos="40.6779" zpos="218.771" type="collections.rare_collections.koda_s_blessing" GUID="Ly9pSmuxn0qku11QVUJXmA==" achievementBit="11" />
+		<POI MapID="54" xpos="408.203" ypos="32.0219" zpos="146.9" type="collections.rare_collections.koda_s_blessing" GUID="fYJ8AyDrtkW2axdyv7Bu7A==" achievementBit="12" />
+		<POI MapID="1052" xpos="-65.7226" ypos="402.076" zpos="-397.7" type="collections.rare_collections.koda_s_blessing" GUID="5PcPzmYQBUqz7AuYglo3Jw==" achievementBit="13" />
+		<POI MapID="15" xpos="450.25" ypos="1.84075" zpos="-292.975" type="collections.rare_collections.koda_s_blessing" GUID="k3e1wctC806uMM/9HlPi+Q==" achievementBit="14" />
+		<POI MapID="25" xpos="-459.776" ypos="46.8836" zpos="1156.07" type="collections.rare_collections.koda_s_blessing" GUID="ZWAoQyI99EmIZzlXzpODfw==" achievementBit="15" />
+		<POI MapID="28" xpos="399.23" ypos="71.5972" zpos="344.932" type="collections.rare_collections.koda_s_blessing" GUID="KtVbWMVkXUqn/sKAm/Bgmw==" achievementBit="16" />
+		<POI MapID="51" xpos="914.407" ypos="3.85997" zpos="-200.373" type="collections.rare_collections.koda_s_blessing" GUID="zn0H6rUhD0GGx3oPzomVUA==" achievementBit="17" />
+		<POI MapID="1165" xpos="-230.106" ypos="76.3381" zpos="-8.65013" type="collections.rare_collections.koda_s_blessing" GUID="rxHSDc9xC06kmh1GJUtKWw==" achievementBit="18" />
 		<!-- HEALING HEIR -->
-		<POI MapID="988" xpos="279.469"  ypos="80.1358" zpos="-459.382" type="collections.rare_collections.healing_heir.2" GUID="fzRLDFGSU0qLyg48nZZysQ==" fadeNear="3000" fadeFar="4500"/>
-		<POI MapID="988" xpos="54.0212"  ypos="55.4377" zpos="-473.242" type="collections.rare_collections.healing_heir.3" GUID="idMw4+1aA0qvyL8Gw/N+UA==" fadeNear="3000" fadeFar="4500"/>
-		<POI MapID="988" xpos="-9.71239" ypos="3.21145" zpos="-732.041" type="collections.rare_collections.healing_heir.4" GUID="OKcvTklCDkKjJ2fLrZQMNQ==" fadeNear="3000" fadeFar="4500"/>
-		<POI MapID="988" xpos="-293.889" ypos="25.7914" zpos="53.7568"  type="collections.rare_collections.healing_heir.5" GUID="8uLkaPPeDkSRxxjALMeZaQ==" fadeNear="3000" fadeFar="4500"/>
-		<POI MapID="988" xpos="-485.104" ypos="134.317" zpos="-553.736" type="collections.rare_collections.healing_heir.6" GUID="TRTBLYxBT0usWQeZmJ57EQ==" fadeNear="3000" fadeFar="4500"/>
-		<POI MapID="988" xpos="288.427"  ypos="80.5626" zpos="-465.777" type="collections.rare_collections.healing_heir.7" GUID="CUWLT4tcCEiiHv9zGO7i8w==" fadeNear="3000" fadeFar="4500"/>
-		<POI MapID="988" xpos="279.469"  ypos="80.1358" zpos="-459.382" type="collections.rare_collections.healing_heir.2" GUID="BUFvfL1r/k6w5TkR+/YKMg==" iconFile="Img/Numbers/1.png" color="ff00ff00" heightOffset="4" behavior="0" mapVisibility="0" miniMapVisibility="0"/>
-		<POI MapID="988" xpos="54.0212"  ypos="55.4377" zpos="-473.242" type="collections.rare_collections.healing_heir.3" GUID="1oOnwd0mAk6PcgyWUccrGw==" iconFile="Img/Numbers/2.png" color="ff00ff00" heightOffset="4" behavior="0" mapVisibility="0" miniMapVisibility="0"/>
-		<POI MapID="988" xpos="-9.71239" ypos="3.21145" zpos="-732.041" type="collections.rare_collections.healing_heir.4" GUID="w6GKWFbmt0qz6zUY0X1Viw==" iconFile="Img/Numbers/3.png" color="ff00ff00" heightOffset="4" behavior="0" mapVisibility="0" miniMapVisibility="0"/>
-		<POI MapID="988" xpos="-293.889" ypos="25.7914" zpos="53.7568"  type="collections.rare_collections.healing_heir.5" GUID="dJ4OZKAILkOiw10b8KTZBQ==" iconFile="Img/Numbers/4.png" color="ff00ff00" heightOffset="4" behavior="0" mapVisibility="0" miniMapVisibility="0"/>
-		<POI MapID="988" xpos="-485.104" ypos="134.317" zpos="-553.736" type="collections.rare_collections.healing_heir.6" GUID="IvchgWfrHkmZcZ31M6L8pg==" iconFile="Img/Numbers/5.png" color="ff00ff00" heightOffset="4" behavior="0" mapVisibility="0" miniMapVisibility="0"/>
-		<POI MapID="988" xpos="288.427"  ypos="80.5626" zpos="-465.777" type="collections.rare_collections.healing_heir.7" GUID="oyV4c2iRV02/8MayU+gl7w==" iconFile="Img/Numbers/6.png" color="ff00ff00" heightOffset="4" behavior="0" mapVisibility="0" miniMapVisibility="0"/>
-
+		<POI MapID="988" xpos="279.469" ypos="80.1358" zpos="-459.382" type="collections.rare_collections.healing_heir.2" GUID="fzRLDFGSU0qLyg48nZZysQ==" fadeNear="3000" fadeFar="4500" />
+		<POI MapID="988" xpos="54.0212" ypos="55.4377" zpos="-473.242" type="collections.rare_collections.healing_heir.3" GUID="idMw4+1aA0qvyL8Gw/N+UA==" fadeNear="3000" fadeFar="4500" />
+		<POI MapID="988" xpos="-9.71239" ypos="3.21145" zpos="-732.041" type="collections.rare_collections.healing_heir.4" GUID="OKcvTklCDkKjJ2fLrZQMNQ==" fadeNear="3000" fadeFar="4500" />
+		<POI MapID="988" xpos="-293.889" ypos="25.7914" zpos="53.7568" type="collections.rare_collections.healing_heir.5" GUID="8uLkaPPeDkSRxxjALMeZaQ==" fadeNear="3000" fadeFar="4500" />
+		<POI MapID="988" xpos="-485.104" ypos="134.317" zpos="-553.736" type="collections.rare_collections.healing_heir.6" GUID="TRTBLYxBT0usWQeZmJ57EQ==" fadeNear="3000" fadeFar="4500" />
+		<POI MapID="988" xpos="288.427" ypos="80.5626" zpos="-465.777" type="collections.rare_collections.healing_heir.7" GUID="CUWLT4tcCEiiHv9zGO7i8w==" fadeNear="3000" fadeFar="4500" />
+		<POI MapID="988" xpos="279.469" ypos="80.1358" zpos="-459.382" type="collections.rare_collections.healing_heir.2" GUID="BUFvfL1r/k6w5TkR+/YKMg==" iconFile="Img/Numbers/1.png" color="ff00ff00" heightOffset="4" behavior="0" mapVisibility="0" miniMapVisibility="0" />
+		<POI MapID="988" xpos="54.0212" ypos="55.4377" zpos="-473.242" type="collections.rare_collections.healing_heir.3" GUID="1oOnwd0mAk6PcgyWUccrGw==" iconFile="Img/Numbers/2.png" color="ff00ff00" heightOffset="4" behavior="0" mapVisibility="0" miniMapVisibility="0" />
+		<POI MapID="988" xpos="-9.71239" ypos="3.21145" zpos="-732.041" type="collections.rare_collections.healing_heir.4" GUID="w6GKWFbmt0qz6zUY0X1Viw==" iconFile="Img/Numbers/3.png" color="ff00ff00" heightOffset="4" behavior="0" mapVisibility="0" miniMapVisibility="0" />
+		<POI MapID="988" xpos="-293.889" ypos="25.7914" zpos="53.7568" type="collections.rare_collections.healing_heir.5" GUID="dJ4OZKAILkOiw10b8KTZBQ==" iconFile="Img/Numbers/4.png" color="ff00ff00" heightOffset="4" behavior="0" mapVisibility="0" miniMapVisibility="0" />
+		<POI MapID="988" xpos="-485.104" ypos="134.317" zpos="-553.736" type="collections.rare_collections.healing_heir.6" GUID="IvchgWfrHkmZcZ31M6L8pg==" iconFile="Img/Numbers/5.png" color="ff00ff00" heightOffset="4" behavior="0" mapVisibility="0" miniMapVisibility="0" />
+		<POI MapID="988" xpos="288.427" ypos="80.5626" zpos="-465.777" type="collections.rare_collections.healing_heir.7" GUID="oyV4c2iRV02/8MayU+gl7w==" iconFile="Img/Numbers/6.png" color="ff00ff00" heightOffset="4" behavior="0" mapVisibility="0" miniMapVisibility="0" />
 		<!-- LEGEND BUILDER -->
-		<POI MapID="26" xpos="209.993"  ypos="94.8186" zpos="864.716"  type="collections.rare_collections.legend_builder.2" GUID="DD7+tOkdMEOzkUIgvZVu+A==" fadeNear="3000" fadeFar="4500"/>
-		<POI MapID="26" xpos="-596.819" ypos="64.2986" zpos="837.299"  type="collections.rare_collections.legend_builder.3" GUID="mee7sDq0Oky/kFbs2TylEA==" fadeNear="3000" fadeFar="4500"/>
-		<POI MapID="26" xpos="-138.043" ypos="113.667" zpos="-235"     type="collections.rare_collections.legend_builder.4" GUID="AJuDgYEYOUi3W7+S8eURUw==" fadeNear="3000" fadeFar="4500"/>
-		<POI MapID="26" xpos="640.29"   ypos="54.3133" zpos="-871.514" type="collections.rare_collections.legend_builder.5" GUID="sR83HWUAf0eCFS2bHeE4SA==" fadeNear="3000" fadeFar="4500"/>
-		<POI MapID="26" xpos="-511.74"  ypos="74.5817" zpos="-773.483" type="collections.rare_collections.legend_builder.6" GUID="uL1eDSUhukKn+uT8xKu6kQ==" fadeNear="3000" fadeFar="4500"/>
-		<POI MapID="26" xpos="200.182"  ypos="94.827"  zpos="864.154"  type="collections.rare_collections.legend_builder.7" GUID="uhpS2CrXFk+5LS+oST5Xtw==" fadeNear="3000" fadeFar="4500"/>
-		<POI MapID="26" xpos="209.993"  ypos="94.8186" zpos="864.716"  type="collections.rare_collections.legend_builder.2" GUID="OkjHx5yKYEq1BlEkqzaplQ==" iconFile="Img/Numbers/1.png" color="ffff0000" heightOffset="4" behavior="0" mapVisibility="0" miniMapVisibility="0"/>
-		<POI MapID="26" xpos="-596.819" ypos="64.2986" zpos="837.299"  type="collections.rare_collections.legend_builder.3" GUID="Bu4YFoD7MkuL7SQuSC1FFA==" iconFile="Img/Numbers/2.png" color="ffff0000" heightOffset="4" behavior="0" mapVisibility="0" miniMapVisibility="0"/>
-		<POI MapID="26" xpos="-138.043" ypos="113.667" zpos="-235"     type="collections.rare_collections.legend_builder.4" GUID="oCgh7vE6NkG7C/3WRh6gaw==" iconFile="Img/Numbers/3.png" color="ffff0000" heightOffset="4" behavior="0" mapVisibility="0" miniMapVisibility="0"/>
-		<POI MapID="26" xpos="640.29"   ypos="54.3133" zpos="-871.514" type="collections.rare_collections.legend_builder.5" GUID="ziKtkng+lU20U1BqJ+6nNA==" iconFile="Img/Numbers/4.png" color="ffff0000" heightOffset="4" behavior="0" mapVisibility="0" miniMapVisibility="0"/>
-		<POI MapID="26" xpos="-511.74"  ypos="74.5817" zpos="-773.483" type="collections.rare_collections.legend_builder.6" GUID="1MjYGXa7gkyYI7efy/95AA==" iconFile="Img/Numbers/5.png" color="ffff0000" heightOffset="4" behavior="0" mapVisibility="0" miniMapVisibility="0"/>
-		<POI MapID="26" xpos="200.182"  ypos="94.827"  zpos="864.154"  type="collections.rare_collections.legend_builder.7" GUID="2bFkdhYWbUCGfpaKbGctpg==" iconFile="Img/Numbers/6.png" color="ffff0000" heightOffset="4" behavior="0" mapVisibility="0" miniMapVisibility="0"/>
-
+		<POI MapID="26" xpos="209.993" ypos="94.8186" zpos="864.716" type="collections.rare_collections.legend_builder.2" GUID="DD7+tOkdMEOzkUIgvZVu+A==" fadeNear="3000" fadeFar="4500" />
+		<POI MapID="26" xpos="-596.819" ypos="64.2986" zpos="837.299" type="collections.rare_collections.legend_builder.3" GUID="mee7sDq0Oky/kFbs2TylEA==" fadeNear="3000" fadeFar="4500" />
+		<POI MapID="26" xpos="-138.043" ypos="113.667" zpos="-235" type="collections.rare_collections.legend_builder.4" GUID="AJuDgYEYOUi3W7+S8eURUw==" fadeNear="3000" fadeFar="4500" />
+		<POI MapID="26" xpos="640.29" ypos="54.3133" zpos="-871.514" type="collections.rare_collections.legend_builder.5" GUID="sR83HWUAf0eCFS2bHeE4SA==" fadeNear="3000" fadeFar="4500" />
+		<POI MapID="26" xpos="-511.74" ypos="74.5817" zpos="-773.483" type="collections.rare_collections.legend_builder.6" GUID="uL1eDSUhukKn+uT8xKu6kQ==" fadeNear="3000" fadeFar="4500" />
+		<POI MapID="26" xpos="200.182" ypos="94.827" zpos="864.154" type="collections.rare_collections.legend_builder.7" GUID="uhpS2CrXFk+5LS+oST5Xtw==" fadeNear="3000" fadeFar="4500" />
+		<POI MapID="26" xpos="209.993" ypos="94.8186" zpos="864.716" type="collections.rare_collections.legend_builder.2" GUID="OkjHx5yKYEq1BlEkqzaplQ==" iconFile="Img/Numbers/1.png" color="ffff0000" heightOffset="4" behavior="0" mapVisibility="0" miniMapVisibility="0" />
+		<POI MapID="26" xpos="-596.819" ypos="64.2986" zpos="837.299" type="collections.rare_collections.legend_builder.3" GUID="Bu4YFoD7MkuL7SQuSC1FFA==" iconFile="Img/Numbers/2.png" color="ffff0000" heightOffset="4" behavior="0" mapVisibility="0" miniMapVisibility="0" />
+		<POI MapID="26" xpos="-138.043" ypos="113.667" zpos="-235" type="collections.rare_collections.legend_builder.4" GUID="oCgh7vE6NkG7C/3WRh6gaw==" iconFile="Img/Numbers/3.png" color="ffff0000" heightOffset="4" behavior="0" mapVisibility="0" miniMapVisibility="0" />
+		<POI MapID="26" xpos="640.29" ypos="54.3133" zpos="-871.514" type="collections.rare_collections.legend_builder.5" GUID="ziKtkng+lU20U1BqJ+6nNA==" iconFile="Img/Numbers/4.png" color="ffff0000" heightOffset="4" behavior="0" mapVisibility="0" miniMapVisibility="0" />
+		<POI MapID="26" xpos="-511.74" ypos="74.5817" zpos="-773.483" type="collections.rare_collections.legend_builder.6" GUID="1MjYGXa7gkyYI7efy/95AA==" iconFile="Img/Numbers/5.png" color="ffff0000" heightOffset="4" behavior="0" mapVisibility="0" miniMapVisibility="0" />
+		<POI MapID="26" xpos="200.182" ypos="94.827" zpos="864.154" type="collections.rare_collections.legend_builder.7" GUID="2bFkdhYWbUCGfpaKbGctpg==" iconFile="Img/Numbers/6.png" color="ffff0000" heightOffset="4" behavior="0" mapVisibility="0" miniMapVisibility="0" />
 		<!-- MIGHT OF THE VINDICTIVE -->
-		<POI MapID="1211" xpos="-1461.58" ypos="4.38016" zpos="75.9838" type="collections.rare_collections.might_of_the_vindictive" GUID="y7gZY8UZDEiRAukRa95FKw=="/>
-		<POI MapID="1211" xpos="-1336.48" ypos="36.5169" zpos="73.5711" type="collections.rare_collections.might_of_the_vindictive" GUID="5TpLVBKqFk2cO5gNzwBsmA=="/>
-		<POI MapID="1211" xpos="-1277.46" ypos="27.527"  zpos="103.587" type="collections.rare_collections.might_of_the_vindictive" GUID="f5V8hJwssE+hAZsDTiRFvA=="/>
-		<POI MapID="1211" xpos="-1371.78" ypos="49.6013" zpos="276.31"  type="collections.rare_collections.might_of_the_vindictive" GUID="DSXpWvY+NkKjwj78VQ8gTA=="/>
-		<POI MapID="1211" xpos="-1199.9"  ypos="341.525" zpos="267.337" type="collections.rare_collections.might_of_the_vindictive" GUID="t00zaaaxyE2ZExllIP85Uw==" iconFile="Img/Icons/Destination.png" minSize="16" maxSize="32" behavior="0"/>
-
+		<POI MapID="1211" xpos="-1461.58" ypos="4.38016" zpos="75.9838" type="collections.rare_collections.might_of_the_vindictive" GUID="y7gZY8UZDEiRAukRa95FKw==" />
+		<POI MapID="1211" xpos="-1336.48" ypos="36.5169" zpos="73.5711" type="collections.rare_collections.might_of_the_vindictive" GUID="5TpLVBKqFk2cO5gNzwBsmA==" />
+		<POI MapID="1211" xpos="-1277.46" ypos="27.527" zpos="103.587" type="collections.rare_collections.might_of_the_vindictive" GUID="f5V8hJwssE+hAZsDTiRFvA==" />
+		<POI MapID="1211" xpos="-1371.78" ypos="49.6013" zpos="276.31" type="collections.rare_collections.might_of_the_vindictive" GUID="DSXpWvY+NkKjwj78VQ8gTA==" />
+		<POI MapID="1211" xpos="-1199.9" ypos="341.525" zpos="267.337" type="collections.rare_collections.might_of_the_vindictive" GUID="t00zaaaxyE2ZExllIP85Uw==" iconFile="Img/Icons/Destination.png" minSize="16" maxSize="32" behavior="0" />
 		<!-- OPEN SKIES: PREREQUISITE -->
-		<POI MapID="1248" xpos="1429.98" ypos="154.408" zpos="-666.797" type="collections.rare_collections.open_skies__prerequisite" GUID="vc09XL1sDECh5SaqBbxPjQ=="/>
-		<POI MapID="1248" xpos="1429.98" ypos="157.408" zpos="-666.797" type="collections.rare_collections.open_skies__prerequisite" GUID="GIoVaqZ+/02Y18l1hJ0+dA==" iconFile="Img/Collections/SpearmarshalsPlea.png" behavior="0" mapVisibility="0" miniMapVisibility="0"/>
-
+		<POI MapID="1248" xpos="1429.98" ypos="154.408" zpos="-666.797" type="collections.rare_collections.open_skies__prerequisite" GUID="vc09XL1sDECh5SaqBbxPjQ==" />
+		<POI MapID="1248" xpos="1429.98" ypos="157.408" zpos="-666.797" type="collections.rare_collections.open_skies__prerequisite" GUID="GIoVaqZ+/02Y18l1hJ0+dA==" iconFile="Img/Collections/SpearmarshalsPlea.png" behavior="0" mapVisibility="0" miniMapVisibility="0" />
 		<!-- OPEN SKIES: SUNSPEAR WISDOM -->
-		<POI MapID="1211" xpos="1455.9"  ypos="163.628" zpos="582.23"   type="collections.rare_collections.open_skies__sunspear_wisdom" GUID="sDmesmzQ60igzVBidnWImQ==" behavior="0"/>
-		<POI MapID="1256" xpos="748.596" ypos="141.016" zpos="206.392"  type="collections.rare_collections.open_skies__sunspear_wisdom" GUID="NSW7Yg6HqU2rsk0sN4fQRQ==" achievementBit="0"/>
-		<POI MapID="1256" xpos="681.751" ypos="3.60767" zpos="-82.2683" type="collections.rare_collections.open_skies__sunspear_wisdom" GUID="BmBd7x4JBU2FKtZxIVA7yw==" achievementBit="1"/>
-		<POI MapID="1256" xpos="456.094" ypos="2.62129" zpos="-3.59249" type="collections.rare_collections.open_skies__sunspear_wisdom" GUID="SsgDg7t2tkmDQWLSD3nEBA==" achievementBit="2"/>
-		<POI MapID="1256" xpos="425.877" ypos="2.95663" zpos="202.248"  type="collections.rare_collections.open_skies__sunspear_wisdom" GUID="5ltnMWcEVUSLPx62bBtUyQ==" achievementBit="3"/>
-		<POI MapID="1256" xpos="444.501" ypos="13.588"  zpos="331.703"  type="collections.rare_collections.open_skies__sunspear_wisdom" GUID="y1nhxPxibUezNC92uy3tZA==" achievementBit="4"/>
-		<POI MapID="1256" xpos="801.814" ypos="2.76395" zpos="364.805"  type="collections.rare_collections.open_skies__sunspear_wisdom" GUID="b5js9K1K30u2GHZSwAz05A==" achievementBit="5"/>
-		<POI MapID="1256" xpos="561.492" ypos="141.715" zpos="242.345"  type="collections.rare_collections.open_skies__sunspear_wisdom" GUID="jJJeXtXxpk62jmMsApfZtg==" achievementBit="6"/>
-		<POI MapID="1256" xpos="416.975" ypos="147.749" zpos="194.712"  type="collections.rare_collections.open_skies__sunspear_wisdom" GUID="khJzzjWGK02jIRNqd9OwDQ==" achievementBit="7"/>
-		<POI MapID="1256" xpos="709.698" ypos="16.3648" zpos="337.602"  type="collections.rare_collections.open_skies__sunspear_wisdom" GUID="P3AGKR/uC0KtI62gykOteA==" achievementBit="8"/>
-		<POI MapID="1256" xpos="675.985" ypos="129.23"  zpos="158.565"  type="collections.rare_collections.open_skies__sunspear_wisdom" GUID="oC7AN1sO9ESKAkNHR6bdEg==" achievementBit="9"/>
-
+		<POI MapID="1211" xpos="1455.9" ypos="163.628" zpos="582.23" type="collections.rare_collections.open_skies__sunspear_wisdom" GUID="sDmesmzQ60igzVBidnWImQ==" behavior="0" />
+		<POI MapID="1256" xpos="748.596" ypos="141.016" zpos="206.392" type="collections.rare_collections.open_skies__sunspear_wisdom" GUID="NSW7Yg6HqU2rsk0sN4fQRQ==" achievementBit="0" />
+		<POI MapID="1256" xpos="681.751" ypos="3.60767" zpos="-82.2683" type="collections.rare_collections.open_skies__sunspear_wisdom" GUID="BmBd7x4JBU2FKtZxIVA7yw==" achievementBit="1" />
+		<POI MapID="1256" xpos="456.094" ypos="2.62129" zpos="-3.59249" type="collections.rare_collections.open_skies__sunspear_wisdom" GUID="SsgDg7t2tkmDQWLSD3nEBA==" achievementBit="2" />
+		<POI MapID="1256" xpos="425.877" ypos="2.95663" zpos="202.248" type="collections.rare_collections.open_skies__sunspear_wisdom" GUID="5ltnMWcEVUSLPx62bBtUyQ==" achievementBit="3" />
+		<POI MapID="1256" xpos="444.501" ypos="13.588" zpos="331.703" type="collections.rare_collections.open_skies__sunspear_wisdom" GUID="y1nhxPxibUezNC92uy3tZA==" achievementBit="4" />
+		<POI MapID="1256" xpos="801.814" ypos="2.76395" zpos="364.805" type="collections.rare_collections.open_skies__sunspear_wisdom" GUID="b5js9K1K30u2GHZSwAz05A==" achievementBit="5" />
+		<POI MapID="1256" xpos="561.492" ypos="141.715" zpos="242.345" type="collections.rare_collections.open_skies__sunspear_wisdom" GUID="jJJeXtXxpk62jmMsApfZtg==" achievementBit="6" />
+		<POI MapID="1256" xpos="416.975" ypos="147.749" zpos="194.712" type="collections.rare_collections.open_skies__sunspear_wisdom" GUID="khJzzjWGK02jIRNqd9OwDQ==" achievementBit="7" />
+		<POI MapID="1256" xpos="709.698" ypos="16.3648" zpos="337.602" type="collections.rare_collections.open_skies__sunspear_wisdom" GUID="P3AGKR/uC0KtI62gykOteA==" achievementBit="8" />
+		<POI MapID="1256" xpos="675.985" ypos="129.23" zpos="158.565" type="collections.rare_collections.open_skies__sunspear_wisdom" GUID="oC7AN1sO9ESKAkNHR6bdEg==" achievementBit="9" />
 		<!-- OPEN SKIES: CRYSTAL OASIS -->
-		<POI MapID="1210" xpos="1239.44"  ypos="189"     zpos="443.277"  type="collections.rare_collections.open_skies__crystal_oasis" GUID="GiP2wq/Dl0OWkEeAf/5arQ=="/>
-		<POI MapID="1210" xpos="1239.44"  ypos="192"     zpos="443.277"  type="collections.rare_collections.open_skies__crystal_oasis" GUID="Sm6lIrY/k0SpZp2b3lp7eA==" iconFile="Img/Icons/Fight.png" fadeNear="4000" fadeFar="5000" behavior="0" mapVisibility="0" miniMapVisibility="0"/>
-		<POI MapID="1210" xpos="708.288"  ypos="124.098" zpos="111.07"   type="collections.rare_collections.open_skies__crystal_oasis" GUID="onpRDXjZY0yklFJ3zZAWLw==" heightOffset="5"/>
-		<POI MapID="1210" xpos="-353.855" ypos="8.60311" zpos="-345.06"  type="collections.rare_collections.open_skies__crystal_oasis" GUID="6rzC1CHMdEiNWPx9KiTDEw==" heightOffset="5"/>
-		<POI MapID="1210" xpos="561.024"  ypos="278.529" zpos="379.026"  type="collections.rare_collections.open_skies__crystal_oasis" GUID="yj+8xGTuoU67qupDbrrGbA=="/>
-		<POI MapID="1210" xpos="169.28"   ypos="170.596" zpos="624.497"  type="collections.rare_collections.open_skies__crystal_oasis" GUID="oPO01X5gk0O6GFvVCenkGQ=="/>
-		<POI MapID="1210" xpos="1235.98"  ypos="318.199" zpos="454.41"   type="collections.rare_collections.open_skies__crystal_oasis" GUID="CpPpnbYO+0mTw5ML8UikLw=="/>
-		<POI MapID="1210" xpos="744.331"  ypos="159.716" zpos="-496.154" type="collections.rare_collections.open_skies__crystal_oasis" GUID="bXyVJUS9xUKe2v+YQjbGzg=="/>
-		<POI MapID="1210" xpos="558.362"  ypos="172.467" zpos="343.21"   type="collections.rare_collections.open_skies__crystal_oasis" GUID="xCFCgZg4GEud9dlpic7Nkw=="/>
-
+		<POI MapID="1210" xpos="1239.44" ypos="189" zpos="443.277" type="collections.rare_collections.open_skies__crystal_oasis" GUID="GiP2wq/Dl0OWkEeAf/5arQ==" />
+		<POI MapID="1210" xpos="1239.44" ypos="192" zpos="443.277" type="collections.rare_collections.open_skies__crystal_oasis" GUID="Sm6lIrY/k0SpZp2b3lp7eA==" iconFile="Img/Icons/Fight.png" fadeNear="4000" fadeFar="5000" behavior="0" mapVisibility="0" miniMapVisibility="0" />
+		<POI MapID="1210" xpos="708.288" ypos="124.098" zpos="111.07" type="collections.rare_collections.open_skies__crystal_oasis" GUID="onpRDXjZY0yklFJ3zZAWLw==" heightOffset="5" />
+		<POI MapID="1210" xpos="-353.855" ypos="8.60311" zpos="-345.06" type="collections.rare_collections.open_skies__crystal_oasis" GUID="6rzC1CHMdEiNWPx9KiTDEw==" heightOffset="5" />
+		<POI MapID="1210" xpos="561.024" ypos="278.529" zpos="379.026" type="collections.rare_collections.open_skies__crystal_oasis" GUID="yj+8xGTuoU67qupDbrrGbA==" />
+		<POI MapID="1210" xpos="169.28" ypos="170.596" zpos="624.497" type="collections.rare_collections.open_skies__crystal_oasis" GUID="oPO01X5gk0O6GFvVCenkGQ==" />
+		<POI MapID="1210" xpos="1235.98" ypos="318.199" zpos="454.41" type="collections.rare_collections.open_skies__crystal_oasis" GUID="CpPpnbYO+0mTw5ML8UikLw==" />
+		<POI MapID="1210" xpos="744.331" ypos="159.716" zpos="-496.154" type="collections.rare_collections.open_skies__crystal_oasis" GUID="bXyVJUS9xUKe2v+YQjbGzg==" />
+		<POI MapID="1210" xpos="558.362" ypos="172.467" zpos="343.21" type="collections.rare_collections.open_skies__crystal_oasis" GUID="xCFCgZg4GEud9dlpic7Nkw==" />
 		<!-- OPEN SKIES: DESERT HIGHLANDS -->
-		<POI MapID="1211" xpos="605.491"  ypos="142.744" zpos="-674.464" type="collections.rare_collections.open_skies__desert_highlands" GUID="CEpc+H0GmkWm0guWbVH9/w==" heightOffset="4"/>
-		<POI MapID="1211" xpos="605.491"  ypos="146.744" zpos="-674.464" type="collections.rare_collections.open_skies__desert_highlands" GUID="HUXsIdtr1ka+dc0Up+nUpQ==" minSize="48" maxSize="64" iconFile="Img/PoF/StartEscort.png" fadeNear="1300" fadeFar="1500" behavior="0" mapVisibility="0" miniMapVisibility="0"/>
-		<POI MapID="1211" xpos="498.948"  ypos="194.94"  zpos="231.897"  type="collections.rare_collections.open_skies__desert_highlands" GUID="JqBl+ixIik20/Td83LfyGA==" heightOffset="5"/>
-		<POI MapID="1211" xpos="540.949"  ypos="148.203" zpos="-620.698" type="collections.rare_collections.open_skies__desert_highlands" GUID="i/kSL1U19UiQLhiE6xzaug==" heightOffset="5"/>
-		<POI MapID="1211" xpos="-184.149" ypos="292.13"  zpos="-127.927" type="collections.rare_collections.open_skies__desert_highlands" GUID="JHlVkR1BNE24O54xI1T1Hw=="/>
-		<POI MapID="1211" xpos="131.509"  ypos="251.236" zpos="-359.815" type="collections.rare_collections.open_skies__desert_highlands" GUID="89a60gahc02l1zCuwpVRqg=="/>
-		<POI MapID="1211" xpos="-598.545" ypos="340.195" zpos="124.368"  type="collections.rare_collections.open_skies__desert_highlands" GUID="kM0NfEAOVkGckrQDQjF82w=="/>
-		<POI MapID="1211" xpos="35.8222"  ypos="335.956" zpos="215.412"  type="collections.rare_collections.open_skies__desert_highlands" GUID="tnhk1PlOO0aCxcq3hTWiAQ=="/>
-		<POI MapID="1211" xpos="-992.803" ypos="234.402" zpos="-349.599" type="collections.rare_collections.open_skies__desert_highlands" GUID="TEP5WIq22kG87Z9CmNCYOA=="/>
-
+		<POI MapID="1211" xpos="605.491" ypos="142.744" zpos="-674.464" type="collections.rare_collections.open_skies__desert_highlands" GUID="CEpc+H0GmkWm0guWbVH9/w==" heightOffset="4" />
+		<POI MapID="1211" xpos="605.491" ypos="146.744" zpos="-674.464" type="collections.rare_collections.open_skies__desert_highlands" GUID="HUXsIdtr1ka+dc0Up+nUpQ==" minSize="48" maxSize="64" iconFile="Img/PoF/StartEscort.png" fadeNear="1300" fadeFar="1500" behavior="0" mapVisibility="0" miniMapVisibility="0" />
+		<POI MapID="1211" xpos="498.948" ypos="194.94" zpos="231.897" type="collections.rare_collections.open_skies__desert_highlands" GUID="JqBl+ixIik20/Td83LfyGA==" heightOffset="5" />
+		<POI MapID="1211" xpos="540.949" ypos="148.203" zpos="-620.698" type="collections.rare_collections.open_skies__desert_highlands" GUID="i/kSL1U19UiQLhiE6xzaug==" heightOffset="5" />
+		<POI MapID="1211" xpos="-184.149" ypos="292.13" zpos="-127.927" type="collections.rare_collections.open_skies__desert_highlands" GUID="JHlVkR1BNE24O54xI1T1Hw==" />
+		<POI MapID="1211" xpos="131.509" ypos="251.236" zpos="-359.815" type="collections.rare_collections.open_skies__desert_highlands" GUID="89a60gahc02l1zCuwpVRqg==" />
+		<POI MapID="1211" xpos="-598.545" ypos="340.195" zpos="124.368" type="collections.rare_collections.open_skies__desert_highlands" GUID="kM0NfEAOVkGckrQDQjF82w==" />
+		<POI MapID="1211" xpos="35.8222" ypos="335.956" zpos="215.412" type="collections.rare_collections.open_skies__desert_highlands" GUID="tnhk1PlOO0aCxcq3hTWiAQ==" />
+		<POI MapID="1211" xpos="-992.803" ypos="234.402" zpos="-349.599" type="collections.rare_collections.open_skies__desert_highlands" GUID="TEP5WIq22kG87Z9CmNCYOA==" />
 		<!-- OPEN SKIES: ELON RIVERLANDS -->
-		<POI MapID="1228" xpos="241.843"  ypos="2.56659" zpos="-173.111" type="collections.rare_collections.open_skies__elon_riverlands" GUID="CCd1mGK4Gk2vnVmwvmK/TA==" heightOffset="3"/>
-		<POI MapID="1228" xpos="241.843"  ypos="5.56659" zpos="-173.111" type="collections.rare_collections.open_skies__elon_riverlands" GUID="LEUgPUAtlU+4CYEClyrGxQ==" minSize="48" maxSize="64" iconFile="Img/PoF/StartEscort.png" fadeNear="1300" fadeFar="1500" behavior="0" mapVisibility="0" miniMapVisibility="0"/>
-		<POI MapID="1228" xpos="-833.719" ypos="99.2969" zpos="890.724"  type="collections.rare_collections.open_skies__elon_riverlands" GUID="0NzhiBb5bkqFT0kjkazkpQ==" heightOffset="4.5" behavior="0"/>
-		<POI MapID="1228" xpos="-833.1"   ypos="99.2969" zpos="892.401"  type="collections.rare_collections.open_skies__elon_riverlands" GUID="6twk1784CEi9BH079V7V6A==" minSize="48" maxSize="64" iconFile="Img/PoF/QuestBefore.png" fadeNear="1300" fadeFar="1500" heightOffset="4.5" behavior="0" mapVisibility="0" miniMapVisibility="0"/>
-		<POI MapID="1228" xpos="-1028.75" ypos="16.1837" zpos="-618.287" type="collections.rare_collections.open_skies__elon_riverlands" GUID="Xzpe7Ak25EKENO5PQN8Jjw==" heightOffset="3"/>
-		<POI MapID="1228" xpos="480.694"  ypos="102.088" zpos="908.948"  type="collections.rare_collections.open_skies__elon_riverlands" GUID="rAbJd0xqjEaaWQscHlBGjA==" heightOffset="3"/>
-		<POI MapID="1228" xpos="382.049"  ypos="45.0173" zpos="153.955"  type="collections.rare_collections.open_skies__elon_riverlands" GUID="nX2RZbAamUSdJUXwaPWUKA==" heightOffset="3"/>
-		<POI MapID="1228" xpos="-34.8979" ypos="125.586" zpos="51.4845"  type="collections.rare_collections.open_skies__elon_riverlands" GUID="pSXS9rbVl0e3wV9j32Ax6A=="/>
-		<POI MapID="1228" xpos="-386.653" ypos="93.3655" zpos="-281.227" type="collections.rare_collections.open_skies__elon_riverlands" GUID="TSphOFW7qUaGf4QDaTW2dg=="/>
-		<POI MapID="1228" xpos="328.925"  ypos="85.6871" zpos="-119.82"  type="collections.rare_collections.open_skies__elon_riverlands" GUID="gQqrr7+ILUS2y7KS8VIOUw=="/>
-
+		<POI MapID="1228" xpos="241.843" ypos="2.56659" zpos="-173.111" type="collections.rare_collections.open_skies__elon_riverlands" GUID="CCd1mGK4Gk2vnVmwvmK/TA==" heightOffset="3" />
+		<POI MapID="1228" xpos="241.843" ypos="5.56659" zpos="-173.111" type="collections.rare_collections.open_skies__elon_riverlands" GUID="LEUgPUAtlU+4CYEClyrGxQ==" minSize="48" maxSize="64" iconFile="Img/PoF/StartEscort.png" fadeNear="1300" fadeFar="1500" behavior="0" mapVisibility="0" miniMapVisibility="0" />
+		<POI MapID="1228" xpos="-833.719" ypos="99.2969" zpos="890.724" type="collections.rare_collections.open_skies__elon_riverlands" GUID="0NzhiBb5bkqFT0kjkazkpQ==" heightOffset="4.5" behavior="0" />
+		<POI MapID="1228" xpos="-833.1" ypos="99.2969" zpos="892.401" type="collections.rare_collections.open_skies__elon_riverlands" GUID="6twk1784CEi9BH079V7V6A==" minSize="48" maxSize="64" iconFile="Img/PoF/QuestBefore.png" fadeNear="1300" fadeFar="1500" heightOffset="4.5" behavior="0" mapVisibility="0" miniMapVisibility="0" />
+		<POI MapID="1228" xpos="-1028.75" ypos="16.1837" zpos="-618.287" type="collections.rare_collections.open_skies__elon_riverlands" GUID="Xzpe7Ak25EKENO5PQN8Jjw==" heightOffset="3" />
+		<POI MapID="1228" xpos="480.694" ypos="102.088" zpos="908.948" type="collections.rare_collections.open_skies__elon_riverlands" GUID="rAbJd0xqjEaaWQscHlBGjA==" heightOffset="3" />
+		<POI MapID="1228" xpos="382.049" ypos="45.0173" zpos="153.955" type="collections.rare_collections.open_skies__elon_riverlands" GUID="nX2RZbAamUSdJUXwaPWUKA==" heightOffset="3" />
+		<POI MapID="1228" xpos="-34.8979" ypos="125.586" zpos="51.4845" type="collections.rare_collections.open_skies__elon_riverlands" GUID="pSXS9rbVl0e3wV9j32Ax6A==" />
+		<POI MapID="1228" xpos="-386.653" ypos="93.3655" zpos="-281.227" type="collections.rare_collections.open_skies__elon_riverlands" GUID="TSphOFW7qUaGf4QDaTW2dg==" />
+		<POI MapID="1228" xpos="328.925" ypos="85.6871" zpos="-119.82" type="collections.rare_collections.open_skies__elon_riverlands" GUID="gQqrr7+ILUS2y7KS8VIOUw==" />
 		<!-- OPEN SKIES: THE DESOLATION -->
-		<POI MapID="1226" xpos="-418.5"   ypos="284.614" zpos="53.3415"  type="collections.rare_collections.open_skies__the_desolation" GUID="7VufWQroo0y8qt4q4AVDNw==" heightOffset="4"/>
-		<POI MapID="1226" xpos="-418.5"   ypos="288.614" zpos="53.3415"  type="collections.rare_collections.open_skies__the_desolation" GUID="ANjvGqDBnUK6+MFFrr2MVQ==" minSize="48" maxSize="64" iconFile="Img/PoF/StartEscort.png" fadeNear="1500" fadeFar="2000" behavior="0" mapVisibility="0" miniMapVisibility="0"/>
-		<POI MapID="1226" xpos="-670.486" ypos="312.635" zpos="365.232"  type="collections.rare_collections.open_skies__the_desolation" GUID="ZkBa0TCGbkqW9I5RcAvMRw=="/>
-		<POI MapID="1226" xpos="897.202"  ypos="253.206" zpos="-198.116" type="collections.rare_collections.open_skies__the_desolation" GUID="BJ7NWX0YZ0uKtxEGPl7qTg==" heightOffset="4"/>
-		<POI MapID="1226" xpos="205.863"  ypos="7.40851" zpos="1329.16"  type="collections.rare_collections.open_skies__the_desolation" GUID="4m8Gw44bz0CHIg257eENGA==" heightOffset="4"/>
-		<POI MapID="1226" xpos="228.115"  ypos="420.052" zpos="-78.5031" type="collections.rare_collections.open_skies__the_desolation" GUID="+NbjteuIwE2fhP3X6az8Rw=="/>
-		<POI MapID="1226" xpos="329.5"    ypos="391.167" zpos="180.71"   type="collections.rare_collections.open_skies__the_desolation" GUID="/Jph7c3/GUqXd5f2vQ4kPA=="/>
-		<POI MapID="1226" xpos="5.38456"  ypos="347.69"  zpos="464.305"  type="collections.rare_collections.open_skies__the_desolation" GUID="i6MJ2U+Is02nB1vV8TnK9A=="/>
-		<POI MapID="1226" xpos="-129.352" ypos="325.105" zpos="145.559"  type="collections.rare_collections.open_skies__the_desolation" GUID="0fVs/OaMVU+S7mZdYoLMAA=="/>
-
+		<POI MapID="1226" xpos="-418.5" ypos="284.614" zpos="53.3415" type="collections.rare_collections.open_skies__the_desolation" GUID="7VufWQroo0y8qt4q4AVDNw==" heightOffset="4" />
+		<POI MapID="1226" xpos="-418.5" ypos="288.614" zpos="53.3415" type="collections.rare_collections.open_skies__the_desolation" GUID="ANjvGqDBnUK6+MFFrr2MVQ==" minSize="48" maxSize="64" iconFile="Img/PoF/StartEscort.png" fadeNear="1500" fadeFar="2000" behavior="0" mapVisibility="0" miniMapVisibility="0" />
+		<POI MapID="1226" xpos="-670.486" ypos="312.635" zpos="365.232" type="collections.rare_collections.open_skies__the_desolation" GUID="ZkBa0TCGbkqW9I5RcAvMRw==" />
+		<POI MapID="1226" xpos="897.202" ypos="253.206" zpos="-198.116" type="collections.rare_collections.open_skies__the_desolation" GUID="BJ7NWX0YZ0uKtxEGPl7qTg==" heightOffset="4" />
+		<POI MapID="1226" xpos="205.863" ypos="7.40851" zpos="1329.16" type="collections.rare_collections.open_skies__the_desolation" GUID="4m8Gw44bz0CHIg257eENGA==" heightOffset="4" />
+		<POI MapID="1226" xpos="228.115" ypos="420.052" zpos="-78.5031" type="collections.rare_collections.open_skies__the_desolation" GUID="+NbjteuIwE2fhP3X6az8Rw==" />
+		<POI MapID="1226" xpos="329.5" ypos="391.167" zpos="180.71" type="collections.rare_collections.open_skies__the_desolation" GUID="/Jph7c3/GUqXd5f2vQ4kPA==" />
+		<POI MapID="1226" xpos="5.38456" ypos="347.69" zpos="464.305" type="collections.rare_collections.open_skies__the_desolation" GUID="i6MJ2U+Is02nB1vV8TnK9A==" />
+		<POI MapID="1226" xpos="-129.352" ypos="325.105" zpos="145.559" type="collections.rare_collections.open_skies__the_desolation" GUID="0fVs/OaMVU+S7mZdYoLMAA==" />
 		<!-- OPEN SKIES: DOMAINE OF VABBI -->
-		<POI MapID="1248" xpos="372.194"  ypos="92.8241" zpos="-453.12"  type="collections.rare_collections.open_skies__domain_of_vabbi" GUID="qPkwK/pb3k2SQ4oO/MmMMA==" heightOffset="3"/>
-		<POI MapID="1248" xpos="372.194"  ypos="95.8241" zpos="-453.12"  type="collections.rare_collections.open_skies__domain_of_vabbi" GUID="lJOzMo94l0qeNUAPUxyX0w==" minSize="48" maxSize="64" iconFile="Img/PoF/StartEscort.png" fadeNear="1300" fadeFar="1500" behavior="0" mapVisibility="0" miniMapVisibility="0"/>
-		<POI MapID="1248" xpos="-1215.79" ypos="62.9622" zpos="92.9599"  type="collections.rare_collections.open_skies__domain_of_vabbi" GUID="PlZo9FFseUeuSffuoHh0pw==" heightOffset="3"/>
-		<POI MapID="1248" xpos="208.781"  ypos="66.0437" zpos="-687.384" type="collections.rare_collections.open_skies__domain_of_vabbi" GUID="OrTRxZBR6Eu9h+LY3y8gKA==" heightOffset="3"/>
-		<POI MapID="1248" xpos="1410.7"   ypos="275.202" zpos="-805.706" type="collections.rare_collections.open_skies__domain_of_vabbi" GUID="PzzOzu1wmEya5P/TvU+rrg=="/>
-		<POI MapID="1248" xpos="1287.67"  ypos="281.514" zpos="-518.016" type="collections.rare_collections.open_skies__domain_of_vabbi" GUID="BkngHwAwSkSmLbab9wAX6w=="/>
-		<POI MapID="1248" xpos="1316.73"  ypos="209.966" zpos="-129.841" type="collections.rare_collections.open_skies__domain_of_vabbi" GUID="BAgpUXB8DU658DhsD/yKug=="/>
-		<POI MapID="1248" xpos="989.105"  ypos="199.79"  zpos="-549.25"  type="collections.rare_collections.open_skies__domain_of_vabbi" GUID="quHOqh3L2EmTKEffTHtaBQ=="/>
-		<POI MapID="1248" xpos="1019.29"  ypos="133.543" zpos="-807.143" type="collections.rare_collections.open_skies__domain_of_vabbi" GUID="no7EzoQT4U2hlL0BykwYJg=="/>
-
+		<POI MapID="1248" xpos="372.194" ypos="92.8241" zpos="-453.12" type="collections.rare_collections.open_skies__domain_of_vabbi" GUID="qPkwK/pb3k2SQ4oO/MmMMA==" heightOffset="3" />
+		<POI MapID="1248" xpos="372.194" ypos="95.8241" zpos="-453.12" type="collections.rare_collections.open_skies__domain_of_vabbi" GUID="lJOzMo94l0qeNUAPUxyX0w==" minSize="48" maxSize="64" iconFile="Img/PoF/StartEscort.png" fadeNear="1300" fadeFar="1500" behavior="0" mapVisibility="0" miniMapVisibility="0" />
+		<POI MapID="1248" xpos="-1215.79" ypos="62.9622" zpos="92.9599" type="collections.rare_collections.open_skies__domain_of_vabbi" GUID="PlZo9FFseUeuSffuoHh0pw==" heightOffset="3" />
+		<POI MapID="1248" xpos="208.781" ypos="66.0437" zpos="-687.384" type="collections.rare_collections.open_skies__domain_of_vabbi" GUID="OrTRxZBR6Eu9h+LY3y8gKA==" heightOffset="3" />
+		<POI MapID="1248" xpos="1410.7" ypos="275.202" zpos="-805.706" type="collections.rare_collections.open_skies__domain_of_vabbi" GUID="PzzOzu1wmEya5P/TvU+rrg==" />
+		<POI MapID="1248" xpos="1287.67" ypos="281.514" zpos="-518.016" type="collections.rare_collections.open_skies__domain_of_vabbi" GUID="BkngHwAwSkSmLbab9wAX6w==" />
+		<POI MapID="1248" xpos="1316.73" ypos="209.966" zpos="-129.841" type="collections.rare_collections.open_skies__domain_of_vabbi" GUID="BAgpUXB8DU658DhsD/yKug==" />
+		<POI MapID="1248" xpos="989.105" ypos="199.79" zpos="-549.25" type="collections.rare_collections.open_skies__domain_of_vabbi" GUID="quHOqh3L2EmTKEffTHtaBQ==" />
+		<POI MapID="1248" xpos="1019.29" ypos="133.543" zpos="-807.143" type="collections.rare_collections.open_skies__domain_of_vabbi" GUID="no7EzoQT4U2hlL0BykwYJg==" />
 		<!-- STAFF OF THE LOST -->
-		<POI MapID="1211" xpos="-1081"    ypos="210.435" zpos="144.62"  type="collections.rare_collections.staff_of_the_lost" GUID="ftBQpiOw1EO6DHLqEtqkWA=="/>
-		<POI MapID="1211" xpos="-1274.9"  ypos="294.987" zpos="245.465" type="collections.rare_collections.staff_of_the_lost" GUID="awHBuicd8E+Tgjn6HCdw/A=="/>
-		<POI MapID="1211" xpos="-1407.35" ypos="296.246" zpos="188.212" type="collections.rare_collections.staff_of_the_lost" GUID="mbi4Q08yR0ilPamdPrdG0Q=="/>
-		<POI MapID="1211" xpos="-1224.92" ypos="310.711" zpos="77.4562" type="collections.rare_collections.staff_of_the_lost" GUID="omQfhIQj3kWUPJCvbsOQSw=="/>
-		<POI MapID="1211" xpos="-1199.9"  ypos="341.525" zpos="267.337" type="collections.rare_collections.staff_of_the_lost" GUID="heT1gdojH0yZkZtHwmlV6Q==" iconFile="Img/Icons/Destination.png" minSize="16" maxSize="32" behavior="0"/>
-
+		<POI MapID="1211" xpos="-1081" ypos="210.435" zpos="144.62" type="collections.rare_collections.staff_of_the_lost" GUID="ftBQpiOw1EO6DHLqEtqkWA==" />
+		<POI MapID="1211" xpos="-1274.9" ypos="294.987" zpos="245.465" type="collections.rare_collections.staff_of_the_lost" GUID="awHBuicd8E+Tgjn6HCdw/A==" />
+		<POI MapID="1211" xpos="-1407.35" ypos="296.246" zpos="188.212" type="collections.rare_collections.staff_of_the_lost" GUID="mbi4Q08yR0ilPamdPrdG0Q==" />
+		<POI MapID="1211" xpos="-1224.92" ypos="310.711" zpos="77.4562" type="collections.rare_collections.staff_of_the_lost" GUID="omQfhIQj3kWUPJCvbsOQSw==" />
+		<POI MapID="1211" xpos="-1199.9" ypos="341.525" zpos="267.337" type="collections.rare_collections.staff_of_the_lost" GUID="heT1gdojH0yZkZtHwmlV6Q==" iconFile="Img/Icons/Destination.png" minSize="16" maxSize="32" behavior="0" />
 		<!-- STONEPITE CLEAVER -->
-		<POI MapID="1211" xpos="-1185.64" ypos="355.952" zpos="77.929"  type="collections.rare_collections.stonespite_cleaver" GUID="pOlLmALMy0KE4jatPQK9oQ=="/>
-		<POI MapID="1211" xpos="-1147.66" ypos="355.375" zpos="63.6156" type="collections.rare_collections.stonespite_cleaver" GUID="owWmnbhpcUSgEP0KsnENeQ=="/>
-		<POI MapID="1211" xpos="-1134.95" ypos="318.833" zpos="56.8031" type="collections.rare_collections.stonespite_cleaver" GUID="wzzUX/9kGkm4lygtP8EX7A=="/>
-		<POI MapID="1211" xpos="-1184.19" ypos="329.734" zpos="72.7223" type="collections.rare_collections.stonespite_cleaver" GUID="zkj8O28Wy0ml0IxsU+ggeQ=="/>
-		<POI MapID="1211" xpos="-1219.1"  ypos="321.047" zpos="62.4592" type="collections.rare_collections.stonespite_cleaver" GUID="zY/ePrDdOUyRdUdsTVBk+g=="/>
-		<POI MapID="1211" xpos="-1199.9"  ypos="341.525" zpos="267.337" type="collections.rare_collections.stonespite_cleaver" GUID="MOfTUBhNPkeMQuuzfK4I4w==" iconFile="Img/Icons/Destination.png" minSize="16" maxSize="32" behavior="0"/>
-
+		<POI MapID="1211" xpos="-1185.64" ypos="355.952" zpos="77.929" type="collections.rare_collections.stonespite_cleaver" GUID="pOlLmALMy0KE4jatPQK9oQ==" />
+		<POI MapID="1211" xpos="-1147.66" ypos="355.375" zpos="63.6156" type="collections.rare_collections.stonespite_cleaver" GUID="owWmnbhpcUSgEP0KsnENeQ==" />
+		<POI MapID="1211" xpos="-1134.95" ypos="318.833" zpos="56.8031" type="collections.rare_collections.stonespite_cleaver" GUID="wzzUX/9kGkm4lygtP8EX7A==" />
+		<POI MapID="1211" xpos="-1184.19" ypos="329.734" zpos="72.7223" type="collections.rare_collections.stonespite_cleaver" GUID="zkj8O28Wy0ml0IxsU+ggeQ==" />
+		<POI MapID="1211" xpos="-1219.1" ypos="321.047" zpos="62.4592" type="collections.rare_collections.stonespite_cleaver" GUID="zY/ePrDdOUyRdUdsTVBk+g==" />
+		<POI MapID="1211" xpos="-1199.9" ypos="341.525" zpos="267.337" type="collections.rare_collections.stonespite_cleaver" GUID="MOfTUBhNPkeMQuuzfK4I4w==" iconFile="Img/Icons/Destination.png" minSize="16" maxSize="32" behavior="0" />
 	</POIs>
 </OverlayData>

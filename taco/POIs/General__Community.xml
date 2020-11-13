@@ -1,87 +1,84 @@
 <!-- 2020.06.25 -->
 <OverlayData>
 	<POIs>
-
 		<!-- CHAIRS OF THE WORLD -->
-		<Trail type="general.chairs_of_the_world" GUID="yj/XLck7v0agcuBzw4pfcg==" trailData="Data/General/Community/ChairsOfTheWorld_1.trl"  texture="Data/SemiLine.png" color="ff00ffff" alpha="1" fadeNear="2000" fadeFar="3000" animSpeed="0" mapDisplaySize="15"/>
-		<Trail type="general.chairs_of_the_world" GUID="5bPX6sCbv0Sud/VuPDaxHw==" trailData="Data/General/Community/ChairsOfTheWorld_2.trl"  texture="Data/SemiLine.png" color="ffff00dc" alpha="1" fadeNear="2000" fadeFar="3000" animSpeed="0" mapDisplaySize="15"/>
-		<Trail type="general.chairs_of_the_world" GUID="JPcv2KJYMkm1W1k4MXZyUg==" trailData="Data/General/Community/ChairsOfTheWorld_3.trl"  texture="Data/SemiLine.png" color="ffff00dc" alpha="1" fadeNear="2000" fadeFar="3000" animSpeed="0" mapDisplaySize="15"/>
-		<Trail type="general.chairs_of_the_world" GUID="NhhFfEcJX0OrDXwgU4JxEg==" trailData="Data/General/Community/ChairsOfTheWorld_4.trl"  texture="Data/SemiLine.png" color="ffff00dc" alpha="1" fadeNear="2000" fadeFar="3000" animSpeed="0" mapDisplaySize="15"/>
-		<Trail type="general.chairs_of_the_world" GUID="F3XNmT1SW06oFe66EQr5lQ==" trailData="Data/General/Community/ChairsOfTheWorld_5.trl"  texture="Data/SemiLine.png" color="ff4cff00" alpha="1" fadeNear="2000" fadeFar="3000" animSpeed="0" mapDisplaySize="15"/>
-		<Trail type="general.chairs_of_the_world" GUID="YNfe6HAiGEaMmSwPoNQgag==" trailData="Data/General/Community/ChairsOfTheWorld_6.trl"  texture="Data/SemiLine.png" color="ffff6a00" alpha="1" fadeNear="2000" fadeFar="3000" animSpeed="0" mapDisplaySize="15"/>
-		<Trail type="general.chairs_of_the_world" GUID="nZQp0FSBp0iduQd9PDh9Qw==" trailData="Data/General/Community/ChairsOfTheWorld_7.trl"  texture="Data/SemiLine.png" color="ffff6a00" alpha="1" fadeNear="2000" fadeFar="3000" animSpeed="0" mapDisplaySize="15"/>
-		<Trail type="general.chairs_of_the_world" GUID="PiIzhW4gFEeiLZrFUYqvnQ==" trailData="Data/General/Community/ChairsOfTheWorld_8.trl"  texture="Data/SemiLine.png" color="ffffd800" alpha="1" fadeNear="2000" fadeFar="3000" animSpeed="0" mapDisplaySize="15"/>
-		<Trail type="general.chairs_of_the_world" GUID="0T8uuHwJ5Um0R6f+On5exQ==" trailData="Data/General/Community/ChairsOfTheWorld_9.trl"  texture="Data/SemiLine.png" color="ffffd800" alpha="1" fadeNear="2000" fadeFar="3000" animSpeed="0" mapDisplaySize="15"/>
-		<Trail type="general.chairs_of_the_world" GUID="8bY4ip34zU2nQu3WuRRzPw==" trailData="Data/General/Community/ChairsOfTheWorld_10.trl" texture="Data/SemiLine.png" color="ffff0000" alpha="1" fadeNear="2000" fadeFar="3000" animSpeed="0" mapDisplaySize="15"/>
-		<Trail type="general.chairs_of_the_world" GUID="+TxE9EnQOky7B6WR/L148Q==" trailData="Data/General/Community/ChairsOfTheWorld_11.trl" texture="Data/SemiLine.png" color="ffff0000" alpha="1" fadeNear="2000" fadeFar="3000" animSpeed="0" mapDisplaySize="15"/>
-		<POI MapID="50"  xpos="-100.062" ypos="23.1744" zpos="302.481"  type="general.chairs_of_the_world" GUID="0bzgREXssEeW6EVBzR5N7A==" iconFile="Img/General/ChairsOfTheWorld_Start.png" heightOffset="0.5" behavior="0"/>
-		<POI MapID="50"  xpos="143.552"  ypos="39.2841" zpos="177.387"  type="general.chairs_of_the_world" GUID="PubKxzr2cUOUVRPr/hT0QQ==" iconFile="Img/Assistances/SwapColor.png"          heightOffset="0.5" fadeNear="2000" fadeFar="3000" behavior="0"/>
-		<POI MapID="91"  xpos="50.2532"  ypos="73.8709" zpos="124.825"  type="general.chairs_of_the_world" GUID="o4OGF3qnN0Wrtg4TufYXeg==" iconFile="Img/Assistances/SwapColor.png"          heightOffset="0.5" fadeNear="2000" fadeFar="3000" behavior="0"/>
-		<POI MapID="50"  xpos="103.346"  ypos="39.2841" zpos="208.772"  type="general.chairs_of_the_world" GUID="DMDX2OMJ5E28XeKQS7661w==" iconFile="Img/Assistances/SwapColor.png"          heightOffset="0.5" fadeNear="2000" fadeFar="3000" behavior="0"/>
-		<POI MapID="139" xpos="4.7805"   ypos="106.785" zpos="-418.836" type="general.chairs_of_the_world" GUID="lkIDyehyR0COXWSxQNI3dw==" iconFile="Img/Mounts/Springer.png"                heightOffset="0.5" fadeNear="2000" fadeFar="3000" behavior="0"/>
-		<POI MapID="139" xpos="12.966"   ypos="114.377" zpos="-472.119" type="general.chairs_of_the_world" GUID="cFh7UCdp50WCNw2c6JI/xw==" iconFile="Img/Mounts/Springer.png"                heightOffset="0.5" fadeNear="2000" fadeFar="3000" behavior="0"/>
-		<POI MapID="139" xpos="69.4145"  ypos="383.327" zpos="280.332"  type="general.chairs_of_the_world" GUID="tryengXYzk2fPRxQ83w2Mg==" iconFile="Img/Assistances/SwapColor.png"          heightOffset="0.5" fadeNear="2000" fadeFar="3000" behavior="0"/>
-		<POI MapID="50"  xpos="127.082"  ypos="39.2837" zpos="265.789"  type="general.chairs_of_the_world" GUID="AiN4QTsqFEickC+gYkfWpA==" iconFile="Img/Assistances/SwapColor.png"          heightOffset="0.5" fadeNear="2000" fadeFar="3000" behavior="0"/>
-		<POI MapID="18"  xpos="127.359"  ypos="145.206" zpos="-152.891" type="general.chairs_of_the_world" GUID="ZA3Y0qWavEOXK0Bf7OH4ag==" iconFile="Img/Assistances/SwapColor.png"          heightOffset="0.5" fadeNear="2000" fadeFar="3000" behavior="0"/>
-		<POI MapID="50"  xpos="178.543"  ypos="39.2877" zpos="247.593"  type="general.chairs_of_the_world" GUID="ZzOkILSslE2p6qvsw71SpA==" iconFile="Img/Assistances/SwapColor.png"          heightOffset="0.5" fadeNear="2000" fadeFar="3000" behavior="0"/>
-		<POI MapID="326" xpos="-62.7396" ypos="315.856" zpos="-40.0465" type="general.chairs_of_the_world" GUID="hr91Cp5/bkCghDsLm1mK/w==" iconFile="Img/Assistances/SwapColor.png"          heightOffset="0.5" fadeNear="2000" fadeFar="3000" behavior="0"/>
-		<POI MapID="50"  xpos="170.309"  ypos="39.2873" zpos="186.601"  type="general.chairs_of_the_world" GUID="mNMj2CiI2USvkKwiJmg8Pw==" iconFile="Img/Assistances/SwapColor.png"          heightOffset="0.5" fadeNear="2000" fadeFar="3000" behavior="0"/>
+		<Trail type="general.chairs_of_the_world" GUID="yj/XLck7v0agcuBzw4pfcg==" trailData="Data/General/Community/ChairsOfTheWorld_1.trl" texture="Data/SemiLine.png" color="ff00ffff" alpha="1" fadeNear="2000" fadeFar="3000" animSpeed="0" mapDisplaySize="15" />
+		<Trail type="general.chairs_of_the_world" GUID="5bPX6sCbv0Sud/VuPDaxHw==" trailData="Data/General/Community/ChairsOfTheWorld_2.trl" texture="Data/SemiLine.png" color="ffff00dc" alpha="1" fadeNear="2000" fadeFar="3000" animSpeed="0" mapDisplaySize="15" />
+		<Trail type="general.chairs_of_the_world" GUID="JPcv2KJYMkm1W1k4MXZyUg==" trailData="Data/General/Community/ChairsOfTheWorld_3.trl" texture="Data/SemiLine.png" color="ffff00dc" alpha="1" fadeNear="2000" fadeFar="3000" animSpeed="0" mapDisplaySize="15" />
+		<Trail type="general.chairs_of_the_world" GUID="NhhFfEcJX0OrDXwgU4JxEg==" trailData="Data/General/Community/ChairsOfTheWorld_4.trl" texture="Data/SemiLine.png" color="ffff00dc" alpha="1" fadeNear="2000" fadeFar="3000" animSpeed="0" mapDisplaySize="15" />
+		<Trail type="general.chairs_of_the_world" GUID="F3XNmT1SW06oFe66EQr5lQ==" trailData="Data/General/Community/ChairsOfTheWorld_5.trl" texture="Data/SemiLine.png" color="ff4cff00" alpha="1" fadeNear="2000" fadeFar="3000" animSpeed="0" mapDisplaySize="15" />
+		<Trail type="general.chairs_of_the_world" GUID="YNfe6HAiGEaMmSwPoNQgag==" trailData="Data/General/Community/ChairsOfTheWorld_6.trl" texture="Data/SemiLine.png" color="ffff6a00" alpha="1" fadeNear="2000" fadeFar="3000" animSpeed="0" mapDisplaySize="15" />
+		<Trail type="general.chairs_of_the_world" GUID="nZQp0FSBp0iduQd9PDh9Qw==" trailData="Data/General/Community/ChairsOfTheWorld_7.trl" texture="Data/SemiLine.png" color="ffff6a00" alpha="1" fadeNear="2000" fadeFar="3000" animSpeed="0" mapDisplaySize="15" />
+		<Trail type="general.chairs_of_the_world" GUID="PiIzhW4gFEeiLZrFUYqvnQ==" trailData="Data/General/Community/ChairsOfTheWorld_8.trl" texture="Data/SemiLine.png" color="ffffd800" alpha="1" fadeNear="2000" fadeFar="3000" animSpeed="0" mapDisplaySize="15" />
+		<Trail type="general.chairs_of_the_world" GUID="0T8uuHwJ5Um0R6f+On5exQ==" trailData="Data/General/Community/ChairsOfTheWorld_9.trl" texture="Data/SemiLine.png" color="ffffd800" alpha="1" fadeNear="2000" fadeFar="3000" animSpeed="0" mapDisplaySize="15" />
+		<Trail type="general.chairs_of_the_world" GUID="8bY4ip34zU2nQu3WuRRzPw==" trailData="Data/General/Community/ChairsOfTheWorld_10.trl" texture="Data/SemiLine.png" color="ffff0000" alpha="1" fadeNear="2000" fadeFar="3000" animSpeed="0" mapDisplaySize="15" />
+		<Trail type="general.chairs_of_the_world" GUID="+TxE9EnQOky7B6WR/L148Q==" trailData="Data/General/Community/ChairsOfTheWorld_11.trl" texture="Data/SemiLine.png" color="ffff0000" alpha="1" fadeNear="2000" fadeFar="3000" animSpeed="0" mapDisplaySize="15" />
+		<POI MapID="50" xpos="-100.062" ypos="23.1744" zpos="302.481" type="general.chairs_of_the_world" GUID="0bzgREXssEeW6EVBzR5N7A==" iconFile="Img/General/ChairsOfTheWorld_Start.png" heightOffset="0.5" behavior="0" />
+		<POI MapID="50" xpos="143.552" ypos="39.2841" zpos="177.387" type="general.chairs_of_the_world" GUID="PubKxzr2cUOUVRPr/hT0QQ==" iconFile="Img/Assistances/SwapColor.png" heightOffset="0.5" fadeNear="2000" fadeFar="3000" behavior="0" />
+		<POI MapID="91" xpos="50.2532" ypos="73.8709" zpos="124.825" type="general.chairs_of_the_world" GUID="o4OGF3qnN0Wrtg4TufYXeg==" iconFile="Img/Assistances/SwapColor.png" heightOffset="0.5" fadeNear="2000" fadeFar="3000" behavior="0" />
+		<POI MapID="50" xpos="103.346" ypos="39.2841" zpos="208.772" type="general.chairs_of_the_world" GUID="DMDX2OMJ5E28XeKQS7661w==" iconFile="Img/Assistances/SwapColor.png" heightOffset="0.5" fadeNear="2000" fadeFar="3000" behavior="0" />
+		<POI MapID="139" xpos="4.7805" ypos="106.785" zpos="-418.836" type="general.chairs_of_the_world" GUID="lkIDyehyR0COXWSxQNI3dw==" iconFile="Img/Mounts/Springer.png" heightOffset="0.5" fadeNear="2000" fadeFar="3000" behavior="0" />
+		<POI MapID="139" xpos="12.966" ypos="114.377" zpos="-472.119" type="general.chairs_of_the_world" GUID="cFh7UCdp50WCNw2c6JI/xw==" iconFile="Img/Mounts/Springer.png" heightOffset="0.5" fadeNear="2000" fadeFar="3000" behavior="0" />
+		<POI MapID="139" xpos="69.4145" ypos="383.327" zpos="280.332" type="general.chairs_of_the_world" GUID="tryengXYzk2fPRxQ83w2Mg==" iconFile="Img/Assistances/SwapColor.png" heightOffset="0.5" fadeNear="2000" fadeFar="3000" behavior="0" />
+		<POI MapID="50" xpos="127.082" ypos="39.2837" zpos="265.789" type="general.chairs_of_the_world" GUID="AiN4QTsqFEickC+gYkfWpA==" iconFile="Img/Assistances/SwapColor.png" heightOffset="0.5" fadeNear="2000" fadeFar="3000" behavior="0" />
+		<POI MapID="18" xpos="127.359" ypos="145.206" zpos="-152.891" type="general.chairs_of_the_world" GUID="ZA3Y0qWavEOXK0Bf7OH4ag==" iconFile="Img/Assistances/SwapColor.png" heightOffset="0.5" fadeNear="2000" fadeFar="3000" behavior="0" />
+		<POI MapID="50" xpos="178.543" ypos="39.2877" zpos="247.593" type="general.chairs_of_the_world" GUID="ZzOkILSslE2p6qvsw71SpA==" iconFile="Img/Assistances/SwapColor.png" heightOffset="0.5" fadeNear="2000" fadeFar="3000" behavior="0" />
+		<POI MapID="326" xpos="-62.7396" ypos="315.856" zpos="-40.0465" type="general.chairs_of_the_world" GUID="hr91Cp5/bkCghDsLm1mK/w==" iconFile="Img/Assistances/SwapColor.png" heightOffset="0.5" fadeNear="2000" fadeFar="3000" behavior="0" />
+		<POI MapID="50" xpos="170.309" ypos="39.2873" zpos="186.601" type="general.chairs_of_the_world" GUID="mNMj2CiI2USvkKwiJmg8Pw==" iconFile="Img/Assistances/SwapColor.png" heightOffset="0.5" fadeNear="2000" fadeFar="3000" behavior="0" />
 		<!-- Chairs -->
-		<POI MapID="650" xpos="-463.2"   ypos="352.766" zpos="757.149"  type="general.chairs_of_the_world" GUID="c2xdGfcqGkySCaR+lr7jRw==" fadeNear="2000" fadeFar="3000" achievementBit="0"/>
-		<POI MapID="139" xpos="86.5737"  ypos="332.801" zpos="52.2366"  type="general.chairs_of_the_world" GUID="MA+3MpunSUmsJE176on82w==" fadeNear="2000" fadeFar="3000" achievementBit="1"/>
-		<POI MapID="139" xpos="14.7968"  ypos="107.591" zpos="-498.281" type="general.chairs_of_the_world" GUID="U3dfKOL610etYz6/y3F8MQ==" fadeNear="2000" fadeFar="3000" achievementBit="2"/>
-		<POI MapID="371" xpos="193.752"  ypos="132.82"  zpos="318.452"  type="general.chairs_of_the_world" GUID="iUrIBoGi1UG1IUvK1vFhjg==" fadeNear="2000" fadeFar="3000" achievementBit="3"/>
-		<POI MapID="371" xpos="151.471"  ypos="135.169" zpos="324.299"  type="general.chairs_of_the_world" GUID="hKvVQnEunkWQ66PUpS9xtA==" fadeNear="2000" fadeFar="3000" achievementBit="4"/>
-		<POI MapID="371" xpos="157.509"  ypos="132.887" zpos="324.991"  type="general.chairs_of_the_world" GUID="p172q8y9Xkuf62cByWKzdA==" fadeNear="2000" fadeFar="3000" achievementBit="5"/>
-		<POI MapID="371" xpos="141.1"    ypos="134.45"  zpos="332.666"  type="general.chairs_of_the_world" GUID="iaruzVOWtE6CJUBqY2XlwQ==" fadeNear="2000" fadeFar="3000" achievementBit="6"/>
-		<POI MapID="371" xpos="136.418"  ypos="134.431" zpos="324.082"  type="general.chairs_of_the_world" GUID="jjWYoDOjsk6LH/UQ3zNscQ==" fadeNear="2000" fadeFar="3000" achievementBit="7"/>
-		<POI MapID="371" xpos="146.001"  ypos="133.346" zpos="306.983"  type="general.chairs_of_the_world" GUID="wNF3CP49oEGRPPyGhmlieQ==" fadeNear="2000" fadeFar="3000" achievementBit="8"/>
-		<POI MapID="371" xpos="192.431"  ypos="132.89"  zpos="313.113"  type="general.chairs_of_the_world" GUID="FqWMKPLobE27GgRexGJ2PA==" fadeNear="2000" fadeFar="3000" achievementBit="9"/>
-		<POI MapID="371" xpos="436.351"  ypos="135.991" zpos="428.969"  type="general.chairs_of_the_world" GUID="DRZG/mPZdU+V1It7u3Sfrw==" fadeNear="2000" fadeFar="3000" achievementBit="10"/>
-		<POI MapID="248" xpos="189.344"  ypos="75.8096" zpos="167.307"  type="general.chairs_of_the_world" GUID="/15Qh7sOQkaSv+AmHxDiAw==" fadeNear="2000" fadeFar="3000" achievementBit="11"/>
-		<POI MapID="248" xpos="149.911"  ypos="83.1356" zpos="249.832"  type="general.chairs_of_the_world" GUID="pZJSBLG9wU2X7szIpnzgXQ==" fadeNear="2000" fadeFar="3000" achievementBit="12"/>
-		<POI MapID="248" xpos="152.767"  ypos="83.1245" zpos="232.582"  type="general.chairs_of_the_world" GUID="b4WYOBtXd0anK4ur1H9mVA==" fadeNear="2000" fadeFar="3000" achievementBit="13"/>
-		<POI MapID="248" xpos="159.085"  ypos="88.0519" zpos="227.459"  type="general.chairs_of_the_world" GUID="1LTN6um3Sky2yG3LzRI2ug==" fadeNear="2000" fadeFar="3000" achievementBit="14"/>
-		<POI MapID="248" xpos="160.44"   ypos="88.2029" zpos="232.155"  type="general.chairs_of_the_world" GUID="hVp4ylgzrEiIB0xMxi2Pcg==" fadeNear="2000" fadeFar="3000" achievementBit="15"/>
-		<POI MapID="248" xpos="154.513"  ypos="87.9483" zpos="241.582"  type="general.chairs_of_the_world" GUID="Es/8Pdcji0ac3sUbD0KAmw==" fadeNear="2000" fadeFar="3000" achievementBit="16"/>
-		<POI MapID="248" xpos="265.072"  ypos="69.9092" zpos="246.84"   type="general.chairs_of_the_world" GUID="cgvoC85gN0C5BisDuGVnfg==" fadeNear="2000" fadeFar="3000" achievementBit="17"/>
-		<POI MapID="18"  xpos="-199.941" ypos="59.4735" zpos="211.274"  type="general.chairs_of_the_world" GUID="pKyDUwNC6E+8ZmJXGUGiJA==" fadeNear="2000" fadeFar="3000" achievementBit="18"/>
-		<POI MapID="18"  xpos="-225.034" ypos="64.963"  zpos="216.874"  type="general.chairs_of_the_world" GUID="Ji9hyIqvJ0KaujUbNp/G3w==" fadeNear="2000" fadeFar="3000" achievementBit="19"/>
-		<POI MapID="18"  xpos="-227.373" ypos="77.9516" zpos="196.098"  type="general.chairs_of_the_world" GUID="UWNN2pYOyUiTDh/O9aEtJw==" fadeNear="2000" fadeFar="3000" achievementBit="20"/>
-		<POI MapID="248" xpos="275.173"  ypos="68.944"  zpos="257.473"  type="general.chairs_of_the_world" GUID="FUT6GH1RzEKPESr37abeqA==" fadeNear="2000" fadeFar="3000" achievementBit="21"/>
-		<POI MapID="18"  xpos="438.915"  ypos="55.9498" zpos="-49.2257" type="general.chairs_of_the_world" GUID="bSWDPTdctk25pNJLs++h0w==" fadeNear="2000" fadeFar="3000" achievementBit="22"/>
-		<POI MapID="50"  xpos="-524.183" ypos="1.34105" zpos="-23.0812" type="general.chairs_of_the_world" GUID="6YZd1LZh/EKMawentqheSg==" fadeNear="2000" fadeFar="3000" achievementBit="23"/>
-		<POI MapID="50"  xpos="-280.315" ypos="47.1227" zpos="214.258"  type="general.chairs_of_the_world" GUID="yPR7Q+eywkCEfF4EnOU7Sg==" fadeNear="2000" fadeFar="3000" achievementBit="24"/>
-		<POI MapID="50"  xpos="-326.366" ypos="7.68681" zpos="290.426"  type="general.chairs_of_the_world" GUID="D4m0GSPatU6WiQNRVn4KpA==" fadeNear="2000" fadeFar="3000" achievementBit="25"/>
-		<POI MapID="50"  xpos="-329.274" ypos="8.78914" zpos="286.09"   type="general.chairs_of_the_world" GUID="bGzHDlkDuE6aB5pTLVOFSw==" fadeNear="2000" fadeFar="3000" achievementBit="26"/>
-		<POI MapID="50"  xpos="35.6203"  ypos="30.9115" zpos="-252.437" type="general.chairs_of_the_world" GUID="vQFw2brmxUCihpSyQ1LrpA==" fadeNear="2000" fadeFar="3000" achievementBit="27"/>
-		<POI MapID="50"  xpos="40.4795"  ypos="30.9115" zpos="-243.805" type="general.chairs_of_the_world" GUID="QoT5qk8PxESgwxSVWg5LbA==" fadeNear="2000" fadeFar="3000" achievementBit="28"/>
-		<POI MapID="326" xpos="194.233"  ypos="335.386" zpos="-182.772" type="general.chairs_of_the_world" GUID="30vb00KTuEmDfeedbiaPZA==" fadeNear="2000" fadeFar="3000" achievementBit="29"/>
-		<POI MapID="326" xpos="159.39"   ypos="335.187" zpos="-159.523" type="general.chairs_of_the_world" GUID="0xrEUgGhAkOXxD+mTQjHag==" fadeNear="2000" fadeFar="3000" achievementBit="30"/>
-		<POI MapID="326" xpos="132.217"  ypos="335.233" zpos="-217.502" type="general.chairs_of_the_world" GUID="X4VbPo1jb0WOFOVWpqFSaw==" fadeNear="2000" fadeFar="3000" achievementBit="31"/>
-		<POI MapID="375" xpos="92.2253"  ypos="342.03"  zpos="-272.507" type="general.chairs_of_the_world" GUID="AhhddQYvEk+NRe8agzj0VQ==" fadeNear="2000" fadeFar="3000" achievementBit="32"/>
-		<POI MapID="375" xpos="75.0374"  ypos="341.973" zpos="-307.625" type="general.chairs_of_the_world" GUID="XykTmkg0VU2AWJ9rsK8dwQ==" fadeNear="2000" fadeFar="3000" achievementBit="33"/>
-		<POI MapID="326" xpos="-24.157"  ypos="333.229" zpos="-131.812" type="general.chairs_of_the_world" GUID="pxnx2ruD70O+oj7y9fGTyw==" fadeNear="2000" fadeFar="3000" achievementBit="34"/>
-		<POI MapID="326" xpos="610.627"  ypos="203.981" zpos="414.229"  type="general.chairs_of_the_world" GUID="j0OqGVS/lEGU94gz6lmEHA==" fadeNear="2000" fadeFar="3000" achievementBit="35"/>
-		<POI MapID="326" xpos="592.973"  ypos="203.979" zpos="430.503"  type="general.chairs_of_the_world" GUID="lFOcAls1TUOR8Xy+2hMrkw==" fadeNear="2000" fadeFar="3000" achievementBit="36"/>
-		<POI MapID="326" xpos="602.019"  ypos="206.174" zpos="466.22"   type="general.chairs_of_the_world" GUID="ulzdDOUP5UmEJ68JErkUAw==" fadeNear="2000" fadeFar="3000" achievementBit="37"/>
-		<POI MapID="326" xpos="553.006"  ypos="306.956" zpos="-372.888" type="general.chairs_of_the_world" GUID="ZvN+Qe1NOUG88ox24S+Bow==" fadeNear="2000" fadeFar="3000" achievementBit="38"/>
-		<POI MapID="326" xpos="653.57"   ypos="245.032" zpos="119.22"   type="general.chairs_of_the_world" GUID="61IMethtjEyJoIHaPfZz0A==" fadeNear="2000" fadeFar="3000" achievementBit="39"/>
-		<POI MapID="91"  xpos="-84.0957" ypos="47.4148" zpos="49.7406"  type="general.chairs_of_the_world" GUID="VeIlO+xyu0K8rcaBmZlevA==" fadeNear="2000" fadeFar="3000" achievementBit="40"/>
-		<POI MapID="378" xpos="67.352"   ypos="139.83"  zpos="65.324"   type="general.chairs_of_the_world" GUID="dBVMYIxWsUWpnDRCuJC6Gg==" fadeNear="2000" fadeFar="3000" achievementBit="41"/>
-
+		<POI MapID="650" xpos="-463.2" ypos="352.766" zpos="757.149" type="general.chairs_of_the_world" GUID="c2xdGfcqGkySCaR+lr7jRw==" fadeNear="2000" fadeFar="3000" achievementBit="0" />
+		<POI MapID="139" xpos="86.5737" ypos="332.801" zpos="52.2366" type="general.chairs_of_the_world" GUID="MA+3MpunSUmsJE176on82w==" fadeNear="2000" fadeFar="3000" achievementBit="1" />
+		<POI MapID="139" xpos="14.7968" ypos="107.591" zpos="-498.281" type="general.chairs_of_the_world" GUID="U3dfKOL610etYz6/y3F8MQ==" fadeNear="2000" fadeFar="3000" achievementBit="2" />
+		<POI MapID="371" xpos="193.752" ypos="132.82" zpos="318.452" type="general.chairs_of_the_world" GUID="iUrIBoGi1UG1IUvK1vFhjg==" fadeNear="2000" fadeFar="3000" achievementBit="3" />
+		<POI MapID="371" xpos="151.471" ypos="135.169" zpos="324.299" type="general.chairs_of_the_world" GUID="hKvVQnEunkWQ66PUpS9xtA==" fadeNear="2000" fadeFar="3000" achievementBit="4" />
+		<POI MapID="371" xpos="157.509" ypos="132.887" zpos="324.991" type="general.chairs_of_the_world" GUID="p172q8y9Xkuf62cByWKzdA==" fadeNear="2000" fadeFar="3000" achievementBit="5" />
+		<POI MapID="371" xpos="141.1" ypos="134.45" zpos="332.666" type="general.chairs_of_the_world" GUID="iaruzVOWtE6CJUBqY2XlwQ==" fadeNear="2000" fadeFar="3000" achievementBit="6" />
+		<POI MapID="371" xpos="136.418" ypos="134.431" zpos="324.082" type="general.chairs_of_the_world" GUID="jjWYoDOjsk6LH/UQ3zNscQ==" fadeNear="2000" fadeFar="3000" achievementBit="7" />
+		<POI MapID="371" xpos="146.001" ypos="133.346" zpos="306.983" type="general.chairs_of_the_world" GUID="wNF3CP49oEGRPPyGhmlieQ==" fadeNear="2000" fadeFar="3000" achievementBit="8" />
+		<POI MapID="371" xpos="192.431" ypos="132.89" zpos="313.113" type="general.chairs_of_the_world" GUID="FqWMKPLobE27GgRexGJ2PA==" fadeNear="2000" fadeFar="3000" achievementBit="9" />
+		<POI MapID="371" xpos="436.351" ypos="135.991" zpos="428.969" type="general.chairs_of_the_world" GUID="DRZG/mPZdU+V1It7u3Sfrw==" fadeNear="2000" fadeFar="3000" achievementBit="10" />
+		<POI MapID="248" xpos="189.344" ypos="75.8096" zpos="167.307" type="general.chairs_of_the_world" GUID="/15Qh7sOQkaSv+AmHxDiAw==" fadeNear="2000" fadeFar="3000" achievementBit="11" />
+		<POI MapID="248" xpos="149.911" ypos="83.1356" zpos="249.832" type="general.chairs_of_the_world" GUID="pZJSBLG9wU2X7szIpnzgXQ==" fadeNear="2000" fadeFar="3000" achievementBit="12" />
+		<POI MapID="248" xpos="152.767" ypos="83.1245" zpos="232.582" type="general.chairs_of_the_world" GUID="b4WYOBtXd0anK4ur1H9mVA==" fadeNear="2000" fadeFar="3000" achievementBit="13" />
+		<POI MapID="248" xpos="159.085" ypos="88.0519" zpos="227.459" type="general.chairs_of_the_world" GUID="1LTN6um3Sky2yG3LzRI2ug==" fadeNear="2000" fadeFar="3000" achievementBit="14" />
+		<POI MapID="248" xpos="160.44" ypos="88.2029" zpos="232.155" type="general.chairs_of_the_world" GUID="hVp4ylgzrEiIB0xMxi2Pcg==" fadeNear="2000" fadeFar="3000" achievementBit="15" />
+		<POI MapID="248" xpos="154.513" ypos="87.9483" zpos="241.582" type="general.chairs_of_the_world" GUID="Es/8Pdcji0ac3sUbD0KAmw==" fadeNear="2000" fadeFar="3000" achievementBit="16" />
+		<POI MapID="248" xpos="265.072" ypos="69.9092" zpos="246.84" type="general.chairs_of_the_world" GUID="cgvoC85gN0C5BisDuGVnfg==" fadeNear="2000" fadeFar="3000" achievementBit="17" />
+		<POI MapID="18" xpos="-199.941" ypos="59.4735" zpos="211.274" type="general.chairs_of_the_world" GUID="pKyDUwNC6E+8ZmJXGUGiJA==" fadeNear="2000" fadeFar="3000" achievementBit="18" />
+		<POI MapID="18" xpos="-225.034" ypos="64.963" zpos="216.874" type="general.chairs_of_the_world" GUID="Ji9hyIqvJ0KaujUbNp/G3w==" fadeNear="2000" fadeFar="3000" achievementBit="19" />
+		<POI MapID="18" xpos="-227.373" ypos="77.9516" zpos="196.098" type="general.chairs_of_the_world" GUID="UWNN2pYOyUiTDh/O9aEtJw==" fadeNear="2000" fadeFar="3000" achievementBit="20" />
+		<POI MapID="248" xpos="275.173" ypos="68.944" zpos="257.473" type="general.chairs_of_the_world" GUID="FUT6GH1RzEKPESr37abeqA==" fadeNear="2000" fadeFar="3000" achievementBit="21" />
+		<POI MapID="18" xpos="438.915" ypos="55.9498" zpos="-49.2257" type="general.chairs_of_the_world" GUID="bSWDPTdctk25pNJLs++h0w==" fadeNear="2000" fadeFar="3000" achievementBit="22" />
+		<POI MapID="50" xpos="-524.183" ypos="1.34105" zpos="-23.0812" type="general.chairs_of_the_world" GUID="6YZd1LZh/EKMawentqheSg==" fadeNear="2000" fadeFar="3000" achievementBit="23" />
+		<POI MapID="50" xpos="-280.315" ypos="47.1227" zpos="214.258" type="general.chairs_of_the_world" GUID="yPR7Q+eywkCEfF4EnOU7Sg==" fadeNear="2000" fadeFar="3000" achievementBit="24" />
+		<POI MapID="50" xpos="-326.366" ypos="7.68681" zpos="290.426" type="general.chairs_of_the_world" GUID="D4m0GSPatU6WiQNRVn4KpA==" fadeNear="2000" fadeFar="3000" achievementBit="25" />
+		<POI MapID="50" xpos="-329.274" ypos="8.78914" zpos="286.09" type="general.chairs_of_the_world" GUID="bGzHDlkDuE6aB5pTLVOFSw==" fadeNear="2000" fadeFar="3000" achievementBit="26" />
+		<POI MapID="50" xpos="35.6203" ypos="30.9115" zpos="-252.437" type="general.chairs_of_the_world" GUID="vQFw2brmxUCihpSyQ1LrpA==" fadeNear="2000" fadeFar="3000" achievementBit="27" />
+		<POI MapID="50" xpos="40.4795" ypos="30.9115" zpos="-243.805" type="general.chairs_of_the_world" GUID="QoT5qk8PxESgwxSVWg5LbA==" fadeNear="2000" fadeFar="3000" achievementBit="28" />
+		<POI MapID="326" xpos="194.233" ypos="335.386" zpos="-182.772" type="general.chairs_of_the_world" GUID="30vb00KTuEmDfeedbiaPZA==" fadeNear="2000" fadeFar="3000" achievementBit="29" />
+		<POI MapID="326" xpos="159.39" ypos="335.187" zpos="-159.523" type="general.chairs_of_the_world" GUID="0xrEUgGhAkOXxD+mTQjHag==" fadeNear="2000" fadeFar="3000" achievementBit="30" />
+		<POI MapID="326" xpos="132.217" ypos="335.233" zpos="-217.502" type="general.chairs_of_the_world" GUID="X4VbPo1jb0WOFOVWpqFSaw==" fadeNear="2000" fadeFar="3000" achievementBit="31" />
+		<POI MapID="375" xpos="92.2253" ypos="342.03" zpos="-272.507" type="general.chairs_of_the_world" GUID="AhhddQYvEk+NRe8agzj0VQ==" fadeNear="2000" fadeFar="3000" achievementBit="32" />
+		<POI MapID="375" xpos="75.0374" ypos="341.973" zpos="-307.625" type="general.chairs_of_the_world" GUID="XykTmkg0VU2AWJ9rsK8dwQ==" fadeNear="2000" fadeFar="3000" achievementBit="33" />
+		<POI MapID="326" xpos="-24.157" ypos="333.229" zpos="-131.812" type="general.chairs_of_the_world" GUID="pxnx2ruD70O+oj7y9fGTyw==" fadeNear="2000" fadeFar="3000" achievementBit="34" />
+		<POI MapID="326" xpos="610.627" ypos="203.981" zpos="414.229" type="general.chairs_of_the_world" GUID="j0OqGVS/lEGU94gz6lmEHA==" fadeNear="2000" fadeFar="3000" achievementBit="35" />
+		<POI MapID="326" xpos="592.973" ypos="203.979" zpos="430.503" type="general.chairs_of_the_world" GUID="lFOcAls1TUOR8Xy+2hMrkw==" fadeNear="2000" fadeFar="3000" achievementBit="36" />
+		<POI MapID="326" xpos="602.019" ypos="206.174" zpos="466.22" type="general.chairs_of_the_world" GUID="ulzdDOUP5UmEJ68JErkUAw==" fadeNear="2000" fadeFar="3000" achievementBit="37" />
+		<POI MapID="326" xpos="553.006" ypos="306.956" zpos="-372.888" type="general.chairs_of_the_world" GUID="ZvN+Qe1NOUG88ox24S+Bow==" fadeNear="2000" fadeFar="3000" achievementBit="38" />
+		<POI MapID="326" xpos="653.57" ypos="245.032" zpos="119.22" type="general.chairs_of_the_world" GUID="61IMethtjEyJoIHaPfZz0A==" fadeNear="2000" fadeFar="3000" achievementBit="39" />
+		<POI MapID="91" xpos="-84.0957" ypos="47.4148" zpos="49.7406" type="general.chairs_of_the_world" GUID="VeIlO+xyu0K8rcaBmZlevA==" fadeNear="2000" fadeFar="3000" achievementBit="40" />
+		<POI MapID="378" xpos="67.352" ypos="139.83" zpos="65.324" type="general.chairs_of_the_world" GUID="dBVMYIxWsUWpnDRCuJC6Gg==" fadeNear="2000" fadeFar="3000" achievementBit="41" />
 		<!-- FOR RAVIOUS -->
-		<Trail type="general.for_ravious" GUID="ezAwo/kmS0GTm1jb5XYEIQ==" trailData="Data/General/Community/ForRavious.trl" texture="Data/Dot.png" color="ffffff00" alpha="0.8" fadeNear="1500" fadeFar="2000" animSpeed="0" mapDisplaySize="15"/>
-		<POI MapID="50" xpos="-475.192" ypos="4.19787"  zpos="286.987"  type="general.for_ravious" GUID="pX0PFyyvd0aJZ+ymgr/27A==" iconFile="Img/General/ForRavious.png" behavior="0"/>
-		<POI MapID="50" xpos="609.965"  ypos="64.9941"  zpos="-26.0075" type="general.for_ravious" GUID="qV/Tr2xR7ECkm7riYg4eOQ=="/>
-		<POI MapID="50" xpos="260.514"  ypos="15.1143"  zpos="-250.18"  type="general.for_ravious" GUID="dWCXqnouQEuOzRxKYlTlTw=="/>
-		<POI MapID="50" xpos="-476.831" ypos="62.7674"  zpos="-142.549" type="general.for_ravious" GUID="WlByf71JXUi8sU2EJD5pvA=="/>
-		<POI MapID="50" xpos="-370.537" ypos="76.058"   zpos="165.702"  type="general.for_ravious" GUID="AZOVoT8hxUu6u4YoXVNcGA=="/>
-		<POI MapID="50" xpos="-412.344" ypos="51.088"   zpos="379.968"  type="general.for_ravious" GUID="FtXfXM44VEmZaqoTWySOpg=="/>
-		<POI MapID="50" xpos="-154.091" ypos="22.6498"  zpos="264.589"  type="general.for_ravious" GUID="Xv41Yc/zcE2/okB2/MLCUw=="/>
-		<POI MapID="50" xpos="41.8475"  ypos="18.1048"  zpos="200.644"  type="general.for_ravious" GUID="Ve2X6Yh9s02H4c3MTjnzxA=="/>
-		<POI MapID="50" xpos="140.638"  ypos="39.2711"  zpos="211.881"  type="general.for_ravious" GUID="L54JqG4uQkakRgIxYEk/nw=="/>
-		<POI MapID="50" xpos="543.873"  ypos="21.7692"  zpos="237.926"  type="general.for_ravious" GUID="AwdXVmYHgU+VAsPOjX6fhA=="/>
-
+		<Trail type="general.for_ravious" GUID="ezAwo/kmS0GTm1jb5XYEIQ==" trailData="Data/General/Community/ForRavious.trl" texture="Data/Dot.png" color="ffffff00" alpha="0.8" fadeNear="1500" fadeFar="2000" animSpeed="0" mapDisplaySize="15" />
+		<POI MapID="50" xpos="-475.192" ypos="4.19787" zpos="286.987" type="general.for_ravious" GUID="pX0PFyyvd0aJZ+ymgr/27A==" iconFile="Img/General/ForRavious.png" behavior="0" />
+		<POI MapID="50" xpos="609.965" ypos="64.9941" zpos="-26.0075" type="general.for_ravious" GUID="qV/Tr2xR7ECkm7riYg4eOQ==" />
+		<POI MapID="50" xpos="260.514" ypos="15.1143" zpos="-250.18" type="general.for_ravious" GUID="dWCXqnouQEuOzRxKYlTlTw==" />
+		<POI MapID="50" xpos="-476.831" ypos="62.7674" zpos="-142.549" type="general.for_ravious" GUID="WlByf71JXUi8sU2EJD5pvA==" />
+		<POI MapID="50" xpos="-370.537" ypos="76.058" zpos="165.702" type="general.for_ravious" GUID="AZOVoT8hxUu6u4YoXVNcGA==" />
+		<POI MapID="50" xpos="-412.344" ypos="51.088" zpos="379.968" type="general.for_ravious" GUID="FtXfXM44VEmZaqoTWySOpg==" />
+		<POI MapID="50" xpos="-154.091" ypos="22.6498" zpos="264.589" type="general.for_ravious" GUID="Xv41Yc/zcE2/okB2/MLCUw==" />
+		<POI MapID="50" xpos="41.8475" ypos="18.1048" zpos="200.644" type="general.for_ravious" GUID="Ve2X6Yh9s02H4c3MTjnzxA==" />
+		<POI MapID="50" xpos="140.638" ypos="39.2711" zpos="211.881" type="general.for_ravious" GUID="L54JqG4uQkakRgIxYEk/nw==" />
+		<POI MapID="50" xpos="543.873" ypos="21.7692" zpos="237.926" type="general.for_ravious" GUID="AwdXVmYHgU+VAsPOjX6fhA==" />
 	</POIs>
 </OverlayData>

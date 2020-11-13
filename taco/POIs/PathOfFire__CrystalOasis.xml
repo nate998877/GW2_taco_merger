@@ -1,67 +1,60 @@
 <!-- 2020.06.25 -->
 <OverlayData>
 	<POIs>
-
 		<!-- A TRIP DOWN MEMORY LANE -->
-		<POI MapID="1210" xpos="152.207" ypos="84.5472" zpos="542.581" type="path_of_fire.crystal_oasis.a_trip_down_memory_lane" GUID="m4IRt463hEeCUN98AihVrQ==" heightOffset="3"/>
-
+		<POI MapID="1210" xpos="152.207" ypos="84.5472" zpos="542.581" type="path_of_fire.crystal_oasis.a_trip_down_memory_lane" GUID="m4IRt463hEeCUN98AihVrQ==" heightOffset="3" />
 		<!-- BLEACHED BONES -->
-		<POI MapID="1210" xpos="-895.814" ypos="87.7436"  zpos="17.9998"  type="path_of_fire.crystal_oasis.bleached_bones" GUID="n+npbntcoUSN5AE1ssdclw==" achievementBit="0"/>
-		<POI MapID="1210" xpos="-1248.96" ypos="-32.9743" zpos="-212.555" type="path_of_fire.crystal_oasis.bleached_bones" GUID="uruv5HDQ4EC61jzVnJITWQ==" achievementBit="1"/>
-		<POI MapID="1210" xpos="-491.915" ypos="-9.70655" zpos="-514.535" type="path_of_fire.crystal_oasis.bleached_bones" GUID="wopm4TqsvEW/ndhDrlU5WA==" achievementBit="2"/>
-		<POI MapID="1210" xpos="-1231.07" ypos="14.6284"  zpos="-598.252" type="path_of_fire.crystal_oasis.bleached_bones" GUID="QgMsm0jMakuBhkoZr+NIDA==" achievementBit="3"/>
-		<POI MapID="1210" xpos="-850.726" ypos="13.7483"  zpos="303.837"  type="path_of_fire.crystal_oasis.bleached_bones" GUID="1E/LhwhbTkSmh32qPK1aig==" achievementBit="4"/>
-		<POI MapID="1210" xpos="-937.666" ypos="46.5667"  zpos="362.55"   type="path_of_fire.crystal_oasis.bleached_bones" GUID="ToFNqOmb4kS1q90j7dvwQw==" achievementBit="5"/>
-		<POI MapID="1210" xpos="-232.796" ypos="58.7816"  zpos="667.845"  type="path_of_fire.crystal_oasis.bleached_bones" GUID="XeJ/KHfGpUGDBdLYqo+KYw==" achievementBit="6"/>
-		<POI MapID="1210" xpos="-1092.67" ypos="38.3424"  zpos="469.453"  type="path_of_fire.crystal_oasis.bleached_bones" GUID="o/tpWE4Fe0KsQlP93woeqQ==" achievementBit="7"/>
-		<POI MapID="1210" xpos="-379.584" ypos="56.4489"  zpos="556.728"  type="path_of_fire.crystal_oasis.bleached_bones" GUID="Tv5sY5jEGEuXvUiJJT8Dfg==" achievementBit="8"/>
-		<POI MapID="1210" xpos="-501.2"   ypos="33.8922"  zpos="420.854"  type="path_of_fire.crystal_oasis.bleached_bones" GUID="dk1yvyuYDUmVIOy2u8htcQ==" achievementBit="9"/>
-		<POI MapID="1210" xpos="482.574"  ypos="69.923"   zpos="14.9778"  type="path_of_fire.crystal_oasis.bleached_bones" GUID="nT4OkFb7t0aAK3FamRtVSA==" achievementBit="10"/>
-		<POI MapID="1210" xpos="172.489"  ypos="80.1504"  zpos="-154.678" type="path_of_fire.crystal_oasis.bleached_bones" GUID="fGxxV0oVQ0q5qrnXfkzpKw==" achievementBit="11"/>
-		<POI MapID="1210" xpos="287.493"  ypos="4.15935"  zpos="-352.214" type="path_of_fire.crystal_oasis.bleached_bones" GUID="4X4qGvCkf0Kq5kucEXLZ7w==" achievementBit="12"/>
-		<POI MapID="1210" xpos="766.058"  ypos="86.9367"  zpos="-623.861" type="path_of_fire.crystal_oasis.bleached_bones" GUID="3DUGJimCNEqTrQQ5BHyIYw==" achievementBit="13"/>
-		<POI MapID="1210" xpos="291.496"  ypos="59.0077"  zpos="513.25"   type="path_of_fire.crystal_oasis.bleached_bones" GUID="ZRx93BHKiE22Hvbq8MMfyQ==" achievementBit="14"/>
-		<POI MapID="1210" xpos="22.5498"  ypos="105.689"  zpos="627.889"  type="path_of_fire.crystal_oasis.bleached_bones" GUID="PuJTiB4mH0Wge1laCHsINw==" achievementBit="15"/>
-		<POI MapID="1210" xpos="806.685"  ypos="204.895"  zpos="704.654"  type="path_of_fire.crystal_oasis.bleached_bones" GUID="DXBTSkbxKEOjbpHKh5d5iA==" achievementBit="16"/>
-		<POI MapID="1210" xpos="571.933"  ypos="146.857"  zpos="196.061"  type="path_of_fire.crystal_oasis.bleached_bones" GUID="6H1H3k76sUKXlHTkFc6tEQ==" achievementBit="17"/>
-		<POI MapID="1210" xpos="551.978"  ypos="278.761"  zpos="331.936"  type="path_of_fire.crystal_oasis.bleached_bones" GUID="CrmasO0uqEO0GCDcPJ7ihw==" achievementBit="18"/>
-		<POI MapID="1210" xpos="1021.74"  ypos="100.54"   zpos="47.4486"  type="path_of_fire.crystal_oasis.bleached_bones" GUID="/s+5FHy/3kCBnBHUm73TZQ==" achievementBit="19"/>
-		<POI MapID="1210" xpos="1235.18"  ypos="274.276"  zpos="424.519"  type="path_of_fire.crystal_oasis.bleached_bones" GUID="rXoWLaGt6ECxfV9Eu5m7mg==" achievementBit="20"/>
-		<POI MapID="1210" xpos="1186.25"  ypos="375.054"  zpos="394.102"  type="path_of_fire.crystal_oasis.bleached_bones" GUID="54DW0lvCaESolTXJ7jaAFA==" achievementBit="21"/>
-		<POI MapID="1210" xpos="1016.99"  ypos="209.595"  zpos="439.879"  type="path_of_fire.crystal_oasis.bleached_bones" GUID="ythfFASXqUqWL3GtTyOIXw==" achievementBit="22"/>
-		<POI MapID="1210" xpos="1452.61"  ypos="165.701"  zpos="-421.468" type="path_of_fire.crystal_oasis.bleached_bones" GUID="ztp9TWcbpUCnVLzHbvHX7A==" achievementBit="23"/>
-
+		<POI MapID="1210" xpos="-895.814" ypos="87.7436" zpos="17.9998" type="path_of_fire.crystal_oasis.bleached_bones" GUID="n+npbntcoUSN5AE1ssdclw==" achievementBit="0" />
+		<POI MapID="1210" xpos="-1248.96" ypos="-32.9743" zpos="-212.555" type="path_of_fire.crystal_oasis.bleached_bones" GUID="uruv5HDQ4EC61jzVnJITWQ==" achievementBit="1" />
+		<POI MapID="1210" xpos="-491.915" ypos="-9.70655" zpos="-514.535" type="path_of_fire.crystal_oasis.bleached_bones" GUID="wopm4TqsvEW/ndhDrlU5WA==" achievementBit="2" />
+		<POI MapID="1210" xpos="-1231.07" ypos="14.6284" zpos="-598.252" type="path_of_fire.crystal_oasis.bleached_bones" GUID="QgMsm0jMakuBhkoZr+NIDA==" achievementBit="3" />
+		<POI MapID="1210" xpos="-850.726" ypos="13.7483" zpos="303.837" type="path_of_fire.crystal_oasis.bleached_bones" GUID="1E/LhwhbTkSmh32qPK1aig==" achievementBit="4" />
+		<POI MapID="1210" xpos="-937.666" ypos="46.5667" zpos="362.55" type="path_of_fire.crystal_oasis.bleached_bones" GUID="ToFNqOmb4kS1q90j7dvwQw==" achievementBit="5" />
+		<POI MapID="1210" xpos="-232.796" ypos="58.7816" zpos="667.845" type="path_of_fire.crystal_oasis.bleached_bones" GUID="XeJ/KHfGpUGDBdLYqo+KYw==" achievementBit="6" />
+		<POI MapID="1210" xpos="-1092.67" ypos="38.3424" zpos="469.453" type="path_of_fire.crystal_oasis.bleached_bones" GUID="o/tpWE4Fe0KsQlP93woeqQ==" achievementBit="7" />
+		<POI MapID="1210" xpos="-379.584" ypos="56.4489" zpos="556.728" type="path_of_fire.crystal_oasis.bleached_bones" GUID="Tv5sY5jEGEuXvUiJJT8Dfg==" achievementBit="8" />
+		<POI MapID="1210" xpos="-501.2" ypos="33.8922" zpos="420.854" type="path_of_fire.crystal_oasis.bleached_bones" GUID="dk1yvyuYDUmVIOy2u8htcQ==" achievementBit="9" />
+		<POI MapID="1210" xpos="482.574" ypos="69.923" zpos="14.9778" type="path_of_fire.crystal_oasis.bleached_bones" GUID="nT4OkFb7t0aAK3FamRtVSA==" achievementBit="10" />
+		<POI MapID="1210" xpos="172.489" ypos="80.1504" zpos="-154.678" type="path_of_fire.crystal_oasis.bleached_bones" GUID="fGxxV0oVQ0q5qrnXfkzpKw==" achievementBit="11" />
+		<POI MapID="1210" xpos="287.493" ypos="4.15935" zpos="-352.214" type="path_of_fire.crystal_oasis.bleached_bones" GUID="4X4qGvCkf0Kq5kucEXLZ7w==" achievementBit="12" />
+		<POI MapID="1210" xpos="766.058" ypos="86.9367" zpos="-623.861" type="path_of_fire.crystal_oasis.bleached_bones" GUID="3DUGJimCNEqTrQQ5BHyIYw==" achievementBit="13" />
+		<POI MapID="1210" xpos="291.496" ypos="59.0077" zpos="513.25" type="path_of_fire.crystal_oasis.bleached_bones" GUID="ZRx93BHKiE22Hvbq8MMfyQ==" achievementBit="14" />
+		<POI MapID="1210" xpos="22.5498" ypos="105.689" zpos="627.889" type="path_of_fire.crystal_oasis.bleached_bones" GUID="PuJTiB4mH0Wge1laCHsINw==" achievementBit="15" />
+		<POI MapID="1210" xpos="806.685" ypos="204.895" zpos="704.654" type="path_of_fire.crystal_oasis.bleached_bones" GUID="DXBTSkbxKEOjbpHKh5d5iA==" achievementBit="16" />
+		<POI MapID="1210" xpos="571.933" ypos="146.857" zpos="196.061" type="path_of_fire.crystal_oasis.bleached_bones" GUID="6H1H3k76sUKXlHTkFc6tEQ==" achievementBit="17" />
+		<POI MapID="1210" xpos="551.978" ypos="278.761" zpos="331.936" type="path_of_fire.crystal_oasis.bleached_bones" GUID="CrmasO0uqEO0GCDcPJ7ihw==" achievementBit="18" />
+		<POI MapID="1210" xpos="1021.74" ypos="100.54" zpos="47.4486" type="path_of_fire.crystal_oasis.bleached_bones" GUID="/s+5FHy/3kCBnBHUm73TZQ==" achievementBit="19" />
+		<POI MapID="1210" xpos="1235.18" ypos="274.276" zpos="424.519" type="path_of_fire.crystal_oasis.bleached_bones" GUID="rXoWLaGt6ECxfV9Eu5m7mg==" achievementBit="20" />
+		<POI MapID="1210" xpos="1186.25" ypos="375.054" zpos="394.102" type="path_of_fire.crystal_oasis.bleached_bones" GUID="54DW0lvCaESolTXJ7jaAFA==" achievementBit="21" />
+		<POI MapID="1210" xpos="1016.99" ypos="209.595" zpos="439.879" type="path_of_fire.crystal_oasis.bleached_bones" GUID="ythfFASXqUqWL3GtTyOIXw==" achievementBit="22" />
+		<POI MapID="1210" xpos="1452.61" ypos="165.701" zpos="-421.468" type="path_of_fire.crystal_oasis.bleached_bones" GUID="ztp9TWcbpUCnVLzHbvHX7A==" achievementBit="23" />
 		<!-- JUST A SIP -->
-		<POI MapID="1210" xpos="-933.952" ypos="9.96631" zpos="38.7506" type="path_of_fire.crystal_oasis.just_a_sip" GUID="/JkrAjG+bUSyFf8o2auiBA=="/>
-
+		<POI MapID="1210" xpos="-933.952" ypos="9.96631" zpos="38.7506" type="path_of_fire.crystal_oasis.just_a_sip" GUID="/JkrAjG+bUSyFf8o2auiBA==" />
 		<!-- LOST LORE OF CRYSTAL OASIS -->
-		<POI MapID="1210" xpos="-1226.77" ypos="3.47884" zpos="-570.789" type="path_of_fire.crystal_oasis.lost_lore_of_crystal_oasis" GUID="4a92VrKciUKcD33OhizBMw==" achievementBit="0"/>
-		<POI MapID="1210" xpos="-858.704" ypos="13.3255" zpos="18.1137"  type="path_of_fire.crystal_oasis.lost_lore_of_crystal_oasis" GUID="o2gFU8zid0aqR9TrMmtGMA==" achievementBit="1"/>
-		<POI MapID="1210" xpos="255.831"  ypos="60.5601" zpos="620.462"  type="path_of_fire.crystal_oasis.lost_lore_of_crystal_oasis" GUID="Z/zlMtHwYES7OYd3jlHErQ==" achievementBit="2"/>
-		<POI MapID="1210" xpos="1206.63"  ypos="372.513" zpos="392.127"  type="path_of_fire.crystal_oasis.lost_lore_of_crystal_oasis" GUID="VmZlGtr97Ei00vAFMWsyeA==" achievementBit="3"/>
-		<POI MapID="1210" xpos="824.518"  ypos="224.977" zpos="122.679"  type="path_of_fire.crystal_oasis.lost_lore_of_crystal_oasis" GUID="sHcMS2m6E0uYkS6hmTybxA==" achievementBit="4"/>
-		<POI MapID="1210" xpos="987.192"  ypos="209.564" zpos="394.431"  type="path_of_fire.crystal_oasis.lost_lore_of_crystal_oasis" GUID="tOzXKkVc+kSo9bcryLGXmA==" achievementBit="5"/>
-		<POI MapID="1210" xpos="1241.97"  ypos="170.475" zpos="-450.205" type="path_of_fire.crystal_oasis.lost_lore_of_crystal_oasis" GUID="P2lTN9cEAUq4M51oUc//TA==" achievementBit="6"/>
-
+		<POI MapID="1210" xpos="-1226.77" ypos="3.47884" zpos="-570.789" type="path_of_fire.crystal_oasis.lost_lore_of_crystal_oasis" GUID="4a92VrKciUKcD33OhizBMw==" achievementBit="0" />
+		<POI MapID="1210" xpos="-858.704" ypos="13.3255" zpos="18.1137" type="path_of_fire.crystal_oasis.lost_lore_of_crystal_oasis" GUID="o2gFU8zid0aqR9TrMmtGMA==" achievementBit="1" />
+		<POI MapID="1210" xpos="255.831" ypos="60.5601" zpos="620.462" type="path_of_fire.crystal_oasis.lost_lore_of_crystal_oasis" GUID="Z/zlMtHwYES7OYd3jlHErQ==" achievementBit="2" />
+		<POI MapID="1210" xpos="1206.63" ypos="372.513" zpos="392.127" type="path_of_fire.crystal_oasis.lost_lore_of_crystal_oasis" GUID="VmZlGtr97Ei00vAFMWsyeA==" achievementBit="3" />
+		<POI MapID="1210" xpos="824.518" ypos="224.977" zpos="122.679" type="path_of_fire.crystal_oasis.lost_lore_of_crystal_oasis" GUID="sHcMS2m6E0uYkS6hmTybxA==" achievementBit="4" />
+		<POI MapID="1210" xpos="987.192" ypos="209.564" zpos="394.431" type="path_of_fire.crystal_oasis.lost_lore_of_crystal_oasis" GUID="tOzXKkVc+kSo9bcryLGXmA==" achievementBit="5" />
+		<POI MapID="1210" xpos="1241.97" ypos="170.475" zpos="-450.205" type="path_of_fire.crystal_oasis.lost_lore_of_crystal_oasis" GUID="P2lTN9cEAUq4M51oUc//TA==" achievementBit="6" />
 		<!-- LOST PILGRIMS -->
-		<POI MapID="1210" xpos="656.253" ypos="181.665" zpos="14.1502" type="path_of_fire.crystal_oasis.lost_pilgrims" GUID="M+XYmI1HpkmpEkeMtpUA/w=="/>
-		<POI MapID="1210" xpos="656.253" ypos="184.665" zpos="14.1502" type="path_of_fire.crystal_oasis.lost_pilgrims" GUID="CUV2FQYX0EGyhPw0sjHrfA==" iconFile="Img/Numbers/1.png" color="ff00ff00" minSize="24" maxSize="64" behavior="0" mapVisibility="0" miniMapVisibility="0"/>
-		<POI MapID="1210" xpos="530.967" ypos="228.028" zpos="164.554" type="path_of_fire.crystal_oasis.lost_pilgrims" GUID="7BGOjbIHLkSf1NC0YiNflA=="/>
-		<POI MapID="1210" xpos="530.967" ypos="231.028" zpos="164.554" type="path_of_fire.crystal_oasis.lost_pilgrims" GUID="ztI9Y3GmaUyhb9p72bP4qw==" iconFile="Img/Numbers/1.png" color="ffff0000" minSize="24" maxSize="64" behavior="0" mapVisibility="0" miniMapVisibility="0"/>
-		<POI MapID="1210" xpos="558.982" ypos="230.472" zpos="413.035" type="path_of_fire.crystal_oasis.lost_pilgrims" GUID="J4M7LJyOJUuY3yI3divgvQ=="/>
-		<POI MapID="1210" xpos="558.982" ypos="233.472" zpos="413.035" type="path_of_fire.crystal_oasis.lost_pilgrims" GUID="CR4Vi49H50y4X96vu6Jhdw==" iconFile="Img/Numbers/2.png" color="ff00ff00" minSize="24" maxSize="64" behavior="0" mapVisibility="0" miniMapVisibility="0"/>
-		<POI MapID="1210" xpos="606.183" ypos="286.856" zpos="372.66"  type="path_of_fire.crystal_oasis.lost_pilgrims" GUID="yqFFNFwL1EGQjYFZtiYMJw=="/>
-		<POI MapID="1210" xpos="606.183" ypos="289.856" zpos="372.66"  type="path_of_fire.crystal_oasis.lost_pilgrims" GUID="iiq1/6/S3ESurf6ODVd1iw==" iconFile="Img/Numbers/2.png" color="ffff0000" minSize="24" maxSize="64" behavior="0" mapVisibility="0" miniMapVisibility="0"/>
-		<POI MapID="1210" xpos="799.012" ypos="83.3198" zpos="255.25"  type="path_of_fire.crystal_oasis.lost_pilgrims" GUID="H2lHLlKZFEuqB/OuCcMpLA=="/>
-		<POI MapID="1210" xpos="799.012" ypos="86.3198" zpos="255.25"  type="path_of_fire.crystal_oasis.lost_pilgrims" GUID="Cv8Xwo7MoEm0RVi6Op7MIA==" iconFile="Img/Numbers/3.png" color="ff00ff00" minSize="24" maxSize="64" behavior="0" mapVisibility="0" miniMapVisibility="0"/>
-		<POI MapID="1210" xpos="916.407" ypos="57.0392" zpos="286.189" type="path_of_fire.crystal_oasis.lost_pilgrims" GUID="AeJSxy+G30enXqIMUvlxgg=="/>
-		<POI MapID="1210" xpos="916.407" ypos="60.0392" zpos="286.189" type="path_of_fire.crystal_oasis.lost_pilgrims" GUID="p8Stu8/lkEuRH8DaWojenA==" iconFile="Img/Numbers/3.png" color="ffff0000" minSize="24" maxSize="64" behavior="0" mapVisibility="0" miniMapVisibility="0"/>
-
+		<POI MapID="1210" xpos="656.253" ypos="181.665" zpos="14.1502" type="path_of_fire.crystal_oasis.lost_pilgrims" GUID="M+XYmI1HpkmpEkeMtpUA/w==" />
+		<POI MapID="1210" xpos="656.253" ypos="184.665" zpos="14.1502" type="path_of_fire.crystal_oasis.lost_pilgrims" GUID="CUV2FQYX0EGyhPw0sjHrfA==" iconFile="Img/Numbers/1.png" color="ff00ff00" minSize="24" maxSize="64" behavior="0" mapVisibility="0" miniMapVisibility="0" />
+		<POI MapID="1210" xpos="530.967" ypos="228.028" zpos="164.554" type="path_of_fire.crystal_oasis.lost_pilgrims" GUID="7BGOjbIHLkSf1NC0YiNflA==" />
+		<POI MapID="1210" xpos="530.967" ypos="231.028" zpos="164.554" type="path_of_fire.crystal_oasis.lost_pilgrims" GUID="ztI9Y3GmaUyhb9p72bP4qw==" iconFile="Img/Numbers/1.png" color="ffff0000" minSize="24" maxSize="64" behavior="0" mapVisibility="0" miniMapVisibility="0" />
+		<POI MapID="1210" xpos="558.982" ypos="230.472" zpos="413.035" type="path_of_fire.crystal_oasis.lost_pilgrims" GUID="J4M7LJyOJUuY3yI3divgvQ==" />
+		<POI MapID="1210" xpos="558.982" ypos="233.472" zpos="413.035" type="path_of_fire.crystal_oasis.lost_pilgrims" GUID="CR4Vi49H50y4X96vu6Jhdw==" iconFile="Img/Numbers/2.png" color="ff00ff00" minSize="24" maxSize="64" behavior="0" mapVisibility="0" miniMapVisibility="0" />
+		<POI MapID="1210" xpos="606.183" ypos="286.856" zpos="372.66" type="path_of_fire.crystal_oasis.lost_pilgrims" GUID="yqFFNFwL1EGQjYFZtiYMJw==" />
+		<POI MapID="1210" xpos="606.183" ypos="289.856" zpos="372.66" type="path_of_fire.crystal_oasis.lost_pilgrims" GUID="iiq1/6/S3ESurf6ODVd1iw==" iconFile="Img/Numbers/2.png" color="ffff0000" minSize="24" maxSize="64" behavior="0" mapVisibility="0" miniMapVisibility="0" />
+		<POI MapID="1210" xpos="799.012" ypos="83.3198" zpos="255.25" type="path_of_fire.crystal_oasis.lost_pilgrims" GUID="H2lHLlKZFEuqB/OuCcMpLA==" />
+		<POI MapID="1210" xpos="799.012" ypos="86.3198" zpos="255.25" type="path_of_fire.crystal_oasis.lost_pilgrims" GUID="Cv8Xwo7MoEm0RVi6Op7MIA==" iconFile="Img/Numbers/3.png" color="ff00ff00" minSize="24" maxSize="64" behavior="0" mapVisibility="0" miniMapVisibility="0" />
+		<POI MapID="1210" xpos="916.407" ypos="57.0392" zpos="286.189" type="path_of_fire.crystal_oasis.lost_pilgrims" GUID="AeJSxy+G30enXqIMUvlxgg==" />
+		<POI MapID="1210" xpos="916.407" ypos="60.0392" zpos="286.189" type="path_of_fire.crystal_oasis.lost_pilgrims" GUID="p8Stu8/lkEuRH8DaWojenA==" iconFile="Img/Numbers/3.png" color="ffff0000" minSize="24" maxSize="64" behavior="0" mapVisibility="0" miniMapVisibility="0" />
 		<!-- REINS OF THE RAPTOR -->
-		<POI MapID="1210" xpos="1055.9"   ypos="20.9281" zpos="-325.441" type="path_of_fire.crystal_oasis.reins_of_the_raptor" GUID="2OhMb6e860GzukHGAFB9kQ=="/>
-		<POI MapID="1210" xpos="708.117"  ypos="124.096" zpos="110.687"  type="path_of_fire.crystal_oasis.reins_of_the_raptor" GUID="o/mdjSk75EyBk3Ewd/5jcQ=="/>
-		<POI MapID="1210" xpos="-345.784" ypos="8.26265" zpos="-349.59"  type="path_of_fire.crystal_oasis.reins_of_the_raptor" GUID="/be+3kBAW0Ws9RGDUz+AKQ=="/>
-		<POI MapID="1210" xpos="-353.844" ypos="8.60427" zpos="-345.181" type="path_of_fire.crystal_oasis.reins_of_the_raptor" GUID="z/nw+zgSf0WlDfGrix+wbA=="/>
-
+		<POI MapID="1210" xpos="1055.9" ypos="20.9281" zpos="-325.441" type="path_of_fire.crystal_oasis.reins_of_the_raptor" GUID="2OhMb6e860GzukHGAFB9kQ==" />
+		<POI MapID="1210" xpos="708.117" ypos="124.096" zpos="110.687" type="path_of_fire.crystal_oasis.reins_of_the_raptor" GUID="o/mdjSk75EyBk3Ewd/5jcQ==" />
+		<POI MapID="1210" xpos="-345.784" ypos="8.26265" zpos="-349.59" type="path_of_fire.crystal_oasis.reins_of_the_raptor" GUID="/be+3kBAW0Ws9RGDUz+AKQ==" />
+		<POI MapID="1210" xpos="-353.844" ypos="8.60427" zpos="-345.181" type="path_of_fire.crystal_oasis.reins_of_the_raptor" GUID="z/nw+zgSf0WlDfGrix+wbA==" />
 	</POIs>
 </OverlayData>

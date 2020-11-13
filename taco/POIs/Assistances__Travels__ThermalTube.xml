@@ -1,19 +1,16 @@
 <!-- 2019.12.25 -->
 <OverlayData>
 	<POIs>
-
 		<!-- Draconis Mons -->
-		<POI MapID="1195" xpos="-352.953" ypos="25.8364" zpos="-582.071" type="assistances.travels.thermal_tube" GUID="dyOPcsO7f02t6bcGjqtieQ=="/>
-
+		<POI MapID="1195" xpos="-352.953" ypos="25.8364" zpos="-582.071" type="assistances.travels.thermal_tube" GUID="dyOPcsO7f02t6bcGjqtieQ==" />
 		<!-- Dragonfall -->
-		<POI MapID="1317" xpos="-845.199" ypos="168.296" zpos="569.46"   type="assistances.travels.thermal_tube" GUID="t9zkqb07yUi/WnaqlLsAfg=="/>
-		<POI MapID="1317" xpos="-580.945" ypos="256.258" zpos="515.33"   type="assistances.travels.thermal_tube" GUID="SwJDJrPSXUy3MX/FW0kDGA=="/>
-		<POI MapID="1317" xpos="-447.069" ypos="80.7272" zpos="793.371"  type="assistances.travels.thermal_tube" GUID="fToowEr8g0C14M+3PbD/Pg=="/>
-		<POI MapID="1317" xpos="-350.003" ypos="316.185" zpos="287.07"   type="assistances.travels.thermal_tube" GUID="7+yAuaBc7066M3pU0H0+Rw=="/>
-		<POI MapID="1317" xpos="-181.542" ypos="240.21"  zpos="323.668"  type="assistances.travels.thermal_tube" GUID="+W7IlsjDXEy4A218cQQqAA=="/>
-		<POI MapID="1317" xpos="-158.846" ypos="234.431" zpos="597.099"  type="assistances.travels.thermal_tube" GUID="wUuZPAvNVUWfmAOWKM47TQ=="/>
-		<POI MapID="1317" xpos="-153.624" ypos="216.336" zpos="775.657"  type="assistances.travels.thermal_tube" GUID="Guu8EvPOzEm+nB2CoylhNA=="/>
-		<POI MapID="1317" xpos="7.77443"  ypos="208.838" zpos="622.748"  type="assistances.travels.thermal_tube" GUID="c7jOTU3320qoU2LWnxTGAQ=="/>
-
+		<POI MapID="1317" xpos="-845.199" ypos="168.296" zpos="569.46" type="assistances.travels.thermal_tube" GUID="t9zkqb07yUi/WnaqlLsAfg==" />
+		<POI MapID="1317" xpos="-580.945" ypos="256.258" zpos="515.33" type="assistances.travels.thermal_tube" GUID="SwJDJrPSXUy3MX/FW0kDGA==" />
+		<POI MapID="1317" xpos="-447.069" ypos="80.7272" zpos="793.371" type="assistances.travels.thermal_tube" GUID="fToowEr8g0C14M+3PbD/Pg==" />
+		<POI MapID="1317" xpos="-350.003" ypos="316.185" zpos="287.07" type="assistances.travels.thermal_tube" GUID="7+yAuaBc7066M3pU0H0+Rw==" />
+		<POI MapID="1317" xpos="-181.542" ypos="240.21" zpos="323.668" type="assistances.travels.thermal_tube" GUID="+W7IlsjDXEy4A218cQQqAA==" />
+		<POI MapID="1317" xpos="-158.846" ypos="234.431" zpos="597.099" type="assistances.travels.thermal_tube" GUID="wUuZPAvNVUWfmAOWKM47TQ==" />
+		<POI MapID="1317" xpos="-153.624" ypos="216.336" zpos="775.657" type="assistances.travels.thermal_tube" GUID="Guu8EvPOzEm+nB2CoylhNA==" />
+		<POI MapID="1317" xpos="7.77443" ypos="208.838" zpos="622.748" type="assistances.travels.thermal_tube" GUID="c7jOTU3320qoU2LWnxTGAQ==" />
 	</POIs>
 </OverlayData>

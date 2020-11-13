@@ -1,0 +1,16 @@
+<OverlayData>
+	<MarkerCategory name="Collectible">
+		<MarkerCategory name="ACrackInTheIce" DisplayName="A Crack in the Ice">
+			<MarkerCategory name="QuirkyQuagganQuest" DisplayName="Quirky Quaggan Quest" iconFile="Data/A_Crack_In_the_Ice.png" behavior="3" />
+		</MarkerCategory>
+	</MarkerCategory>
+	<POIs>
+		<POI MapID="1178" xpos="544.366" ypos="66.6356" zpos="175.64" type="collectible.acrackintheice.quirkyquagganquest" GUID="hyDI77X3BUiw7QqOqDoWKQ==" />
+		<POI MapID="1178" xpos="-662.716" ypos="94.8778" zpos="289.372" type="collectible.acrackintheice.quirkyquagganquest" GUID="9La/Bv2dx0WpS6DalsYGEQ==" />
+		<POI MapID="1178" xpos="413.049" ypos="81.126" zpos="-345.001" type="collectible.acrackintheice.quirkyquagganquest" GUID="ZJ8OFtlLkUCmIZi3ZsrE4w==" />
+		<POI MapID="1178" xpos="677.904" ypos="102.953" zpos="-99.2388" type="collectible.acrackintheice.quirkyquagganquest" GUID="mqnrVDqfDkepf5Gwr9sPxQ==" />
+		<POI MapID="1178" xpos="250.918" ypos="-68.3929" zpos="-40.4613" type="collectible.acrackintheice.quirkyquagganquest" GUID="d/l1o1jt3UuXtZdGOzm2PA==" />
+		<POI MapID="1178" xpos="-140.424" ypos="-40.6189" zpos="82.862" type="collectible.acrackintheice.quirkyquagganquest" GUID="dSiZZueS70qH299z6Eym+g==" />
+		<POI MapID="1178" xpos="10.3036" ypos="53.0615" zpos="-65.201" type="collectible.acrackintheice.quirkyquagganquest" GUID="/YtBdIxd9k6MAf1ATi1WLQ==" behavior="0" />
+	</POIs>
+</OverlayData>

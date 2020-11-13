@@ -1,67 +1,67 @@
 <OverlayData>
-<MarkerCategory name="tw_guides" DisplayName="Tekkit's Guides">
-  <MarkerCategory name="tw_pof" DisplayName="Path of Fire">
-    <MarkerCategory name="tw_pof_region" DisplayName="Crystal Deserts Region">
-      <MarkerCategory name="tw_pof_griffon" DisplayName="Griffon Collection">
-        <MarkerCategory name="tw_pof_griffon_runes" DisplayName="Toggle Runes" mapDisplaySize="30" iconFile="Data/TekkitsWorkshop/PoF/CrystalOasis/tw_pof_griffon_runes.png" iconSize="0.5" heightOffset="0.5" minSize="10" behavior="2"/>
-        <MarkerCategory name="tw_pof_griffon_hearts" DisplayName="Toggle Heart Vendors" mapDisplaySize="30" iconFile="Data/TekkitsWorkshop/PoF/CrystalOasis/tw_pof_griffon_hearts.png" iconSize="0.5" heightOffset="0.5" minSize="10" behavior="2"/>
-        <MarkerCategory name="tw_pof_griffon_egg" DisplayName="Toggle Griffon Eggs" mapDisplaySize="30" iconFile="Data/TekkitsWorkshop/PoF/CrystalOasis/tw_pof_griffon_egg.png" iconSize="0.5" heightOffset="0.5" minSize="10" behavior="2"/>
-        <MarkerCategory name="tw_pof_griffon_shadisgearcollection" DisplayName="Toggle Shadi's Grear Collection" mapDisplaySize="30" iconFile="Data/TekkitsWorkshop/PoF/CrystalOasis/tw_pof_griffon_shadisgearcollection.png" iconSize="0.5" heightOffset="0.5" minSize="10" behavior="2"/>
-        <MarkerCategory name="tw_pof_griffon_writings" DisplayName="Toggle Spearmarshal Writings" mapDisplaySize="30" iconFile="Data/TekkitsWorkshop/PoF/CrystalOasis/tw_pof_griffon_writings.png" iconSize="0.5" heightOffset="0.5" minSize="10" behavior="2"/>
-      </MarkerCategory>
-    </MarkerCategory>
-  </MarkerCategory>
-</MarkerCategory>
+	<MarkerCategory name="tw_guides" DisplayName="Tekkit's Guides">
+		<MarkerCategory name="tw_pof" DisplayName="Path of Fire">
+			<MarkerCategory name="tw_pof_region" DisplayName="Crystal Deserts Region">
+				<MarkerCategory name="tw_pof_griffon" DisplayName="Griffon Collection">
+					<MarkerCategory name="tw_pof_griffon_runes" DisplayName="Toggle Runes" mapDisplaySize="30" iconFile="Data/TekkitsWorkshop/PoF/CrystalOasis/tw_pof_griffon_runes.png" iconSize="0.5" heightOffset="0.5" minSize="10" behavior="2" />
+					<MarkerCategory name="tw_pof_griffon_hearts" DisplayName="Toggle Heart Vendors" mapDisplaySize="30" iconFile="Data/TekkitsWorkshop/PoF/CrystalOasis/tw_pof_griffon_hearts.png" iconSize="0.5" heightOffset="0.5" minSize="10" behavior="2" />
+					<MarkerCategory name="tw_pof_griffon_egg" DisplayName="Toggle Griffon Eggs" mapDisplaySize="30" iconFile="Data/TekkitsWorkshop/PoF/CrystalOasis/tw_pof_griffon_egg.png" iconSize="0.5" heightOffset="0.5" minSize="10" behavior="2" />
+					<MarkerCategory name="tw_pof_griffon_shadisgearcollection" DisplayName="Toggle Shadi's Grear Collection" mapDisplaySize="30" iconFile="Data/TekkitsWorkshop/PoF/CrystalOasis/tw_pof_griffon_shadisgearcollection.png" iconSize="0.5" heightOffset="0.5" minSize="10" behavior="2" />
+					<MarkerCategory name="tw_pof_griffon_writings" DisplayName="Toggle Spearmarshal Writings" mapDisplaySize="30" iconFile="Data/TekkitsWorkshop/PoF/CrystalOasis/tw_pof_griffon_writings.png" iconSize="0.5" heightOffset="0.5" minSize="10" behavior="2" />
+				</MarkerCategory>
+			</MarkerCategory>
+		</MarkerCategory>
+	</MarkerCategory>
 	<POIs>
-		<POI MapID="1228" xpos="-883.488" ypos="89.9786" zpos="878.206" type="tw_guides.tw_pof.tw_pof_region.tw_pof_griffon.tw_pof_griffon_shadisgearcollection" GUID="mve6qJ+wb0qqjaIAP1Psfw=="/>
-		<POI MapID="1210" xpos="-353.521" ypos="8.63881" zpos="-345.024" type="tw_guides.tw_pof.tw_pof_region.tw_pof_griffon.tw_pof_griffon_hearts" GUID="iE0ewHcOR06K6LTxxXyN1A=="/>
-		<POI MapID="1210" xpos="708.236" ypos="124.098" zpos="110.979" type="tw_guides.tw_pof.tw_pof_region.tw_pof_griffon.tw_pof_griffon_hearts" GUID="NdG3BpdnEEO+xNrGN7lGIA=="/>
-		<POI MapID="1210" xpos="561.585" ypos="278.204" zpos="377.946" type="tw_guides.tw_pof.tw_pof_region.tw_pof_griffon.tw_pof_griffon_egg" GUID="Nx8mz+z3o02BYuVIiPP+WQ=="/>
-		<POI MapID="1210" xpos="169.118" ypos="170.594" zpos="624.892" type="tw_guides.tw_pof.tw_pof_region.tw_pof_griffon.tw_pof_griffon_egg" GUID="f/7Mu3f9rEWwPFqOAt855g=="/>
-		<POI MapID="1210" xpos="1235.83" ypos="318.039" zpos="454.168" type="tw_guides.tw_pof.tw_pof_region.tw_pof_griffon.tw_pof_griffon_egg" GUID="HlzEw63+hkKqJUJSJskWyQ=="/>
-		<POI MapID="1210" xpos="744.458" ypos="159.788" zpos="-496.295" type="tw_guides.tw_pof.tw_pof_region.tw_pof_griffon.tw_pof_griffon_egg" GUID="Z4GlSm/gJ0OprlI6gaonWw=="/>
-		<POI MapID="1210" xpos="558.294" ypos="172.479" zpos="343.071" type="tw_guides.tw_pof.tw_pof_region.tw_pof_griffon.tw_pof_griffon_egg" GUID="ySnV5BRidkCnROCAlTuOGA=="/>
-		<POI MapID="1211" xpos="-184.039" ypos="292.17" zpos="-128.31" type="tw_guides.tw_pof.tw_pof_region.tw_pof_griffon.tw_pof_griffon_egg" GUID="6mB8KD7v+0+IiDvJdVM6Rg=="/>
-		<POI MapID="1211" xpos="131.48" ypos="250.79" zpos="-359.433" type="tw_guides.tw_pof.tw_pof_region.tw_pof_griffon.tw_pof_griffon_egg" GUID="XhBQXQ1Ynk2TMYPvWd93Ng=="/>
-		<POI MapID="1211" xpos="-598.811" ypos="340.228" zpos="124.45" type="tw_guides.tw_pof.tw_pof_region.tw_pof_griffon.tw_pof_griffon_egg" GUID="2VEtbZ6NwEaDJQJ0vtV04g=="/>
-		<POI MapID="1211" xpos="35.8185" ypos="335.919" zpos="215.515" type="tw_guides.tw_pof.tw_pof_region.tw_pof_griffon.tw_pof_griffon_egg" GUID="mj2LniySMkiVrnpDQKTSdQ=="/>
-		<POI MapID="1211" xpos="-992.877" ypos="234.432" zpos="-349.731" type="tw_guides.tw_pof.tw_pof_region.tw_pof_griffon.tw_pof_griffon_egg" GUID="eN9eHf3aaEm311jhMDGtZA=="/>
-		<POI MapID="1228" xpos="-35.5813" ypos="125.573" zpos="51.9374" type="tw_guides.tw_pof.tw_pof_region.tw_pof_griffon.tw_pof_griffon_egg" GUID="RL7ygLk5lEC1V6ea4AtdqA=="/>
-		<POI MapID="1228" xpos="-386.97" ypos="93.3787" zpos="-281.174" type="tw_guides.tw_pof.tw_pof_region.tw_pof_griffon.tw_pof_griffon_egg" GUID="3BpyuFj/FE2SLC249J5fFw=="/>
-		<POI MapID="1228" xpos="328.787" ypos="85.7242" zpos="-119.885" type="tw_guides.tw_pof.tw_pof_region.tw_pof_griffon.tw_pof_griffon_egg" GUID="EAMQcNTKNk+/27gQHqyrGA=="/>
-		<POI MapID="1228" xpos="-833.947" ypos="99.3106" zpos="890.933" type="tw_guides.tw_pof.tw_pof_region.tw_pof_griffon.tw_pof_griffon_shadisgearcollection" GUID="NAjzBiV5T0qVNL7T6v8wKg=="/>
-		<POI MapID="1228" xpos="1036.48" ypos="58.1629" zpos="736.073" type="tw_guides.tw_pof.tw_pof_region.tw_pof_griffon.tw_pof_griffon_shadisgearcollection" GUID="mBcBZ/BA20quFxjkAPx03w=="/>
-		<POI MapID="1228" xpos="-593.214" ypos="26.675" zpos="-342.862" type="tw_guides.tw_pof.tw_pof_region.tw_pof_griffon.tw_pof_griffon_shadisgearcollection" GUID="VqmSLadCcU21bShL5sOm8g=="/>
-		<POI MapID="1228" xpos="-985.311" ypos="42.2122" zpos="279.379" type="tw_guides.tw_pof.tw_pof_region.tw_pof_griffon.tw_pof_griffon_shadisgearcollection" GUID="JmtOSXP2m0qU79Q1QmU2gg=="/>
-		<POI MapID="1228" xpos="-343.708" ypos="4.93056" zpos="176.318" type="tw_guides.tw_pof.tw_pof_region.tw_pof_griffon.tw_pof_griffon_shadisgearcollection" GUID="rQAzF81AMkS5GplJEsSLyQ=="/>
-		<POI MapID="1226" xpos="228.128" ypos="420.044" zpos="-78.798" type="tw_guides.tw_pof.tw_pof_region.tw_pof_griffon.tw_pof_griffon_egg" GUID="mcbV27M280+VtPyj2mLMfw=="/>
-		<POI MapID="1226" xpos="329.737" ypos="391.197" zpos="180.566" type="tw_guides.tw_pof.tw_pof_region.tw_pof_griffon.tw_pof_griffon_egg" GUID="e8mzGw54IEGkGY2M3glNkw=="/>
-		<POI MapID="1226" xpos="5.25162" ypos="347.653" zpos="464.258" type="tw_guides.tw_pof.tw_pof_region.tw_pof_griffon.tw_pof_griffon_egg" GUID="DgBqY1WVZ0uXiRNRon7g0A=="/>
-		<POI MapID="1226" xpos="-129.504" ypos="325.117" zpos="145.817" type="tw_guides.tw_pof.tw_pof_region.tw_pof_griffon.tw_pof_griffon_egg" GUID="ffxUNTrq00yFVl2hzzcNkg=="/>
-		<POI MapID="1248" xpos="1410.32" ypos="275.236" zpos="-805.152" type="tw_guides.tw_pof.tw_pof_region.tw_pof_griffon.tw_pof_griffon_egg" GUID="uGMlFF68A0mexVH3lNTMkQ=="/>
-		<POI MapID="1248" xpos="1287.78" ypos="281.483" zpos="-518.333" type="tw_guides.tw_pof.tw_pof_region.tw_pof_griffon.tw_pof_griffon_egg" GUID="dUvvzn+OGE6omW3K2yErlA=="/>
-		<POI MapID="1248" xpos="1317.33" ypos="209.991" zpos="-129.581" type="tw_guides.tw_pof.tw_pof_region.tw_pof_griffon.tw_pof_griffon_egg" GUID="CfJNm5iXhke4m2+Ybbr2dA=="/>
-		<POI MapID="1248" xpos="990.483" ypos="199.937" zpos="-549.964" type="tw_guides.tw_pof.tw_pof_region.tw_pof_griffon.tw_pof_griffon_egg" GUID="9h5/AZWFlkCwVFiQefZXDw=="/>
-		<POI MapID="1248" xpos="1019.02" ypos="133.172" zpos="-806.69" type="tw_guides.tw_pof.tw_pof_region.tw_pof_griffon.tw_pof_griffon_egg" GUID="mB3qa77vKEimaLEblrdrzg=="/>
-		<POI MapID="1256" xpos="675.877" ypos="129.236" zpos="158.575" type="tw_guides.tw_pof.tw_pof_region.tw_pof_griffon.tw_pof_griffon_writings" GUID="/lDnf/IgU0eqvJ3OPSH8aw=="/>
-		<POI MapID="1256" xpos="748.51" ypos="141.019" zpos="206.503" type="tw_guides.tw_pof.tw_pof_region.tw_pof_griffon.tw_pof_griffon_writings" GUID="7iAns6wnqkiAPyILs3gpww=="/>
-		<POI MapID="1256" xpos="416.79" ypos="147.86" zpos="194.555" type="tw_guides.tw_pof.tw_pof_region.tw_pof_griffon.tw_pof_griffon_writings" GUID="rVc2R8PXukeXalyiPT2SRQ=="/>
-		<POI MapID="1256" xpos="444.319" ypos="13.6353" zpos="331.715" type="tw_guides.tw_pof.tw_pof_region.tw_pof_griffon.tw_pof_griffon_writings" GUID="MiCsUZM9wkeCCDlyrFrGLg=="/>
-		<POI MapID="1256" xpos="709.854" ypos="16.3648" zpos="337.698" type="tw_guides.tw_pof.tw_pof_region.tw_pof_griffon.tw_pof_griffon_writings" GUID="RXXr2Q97yEe/yNeqnx8ILQ=="/>
-		<POI MapID="1256" xpos="456.123" ypos="2.62129" zpos="-3.66996" type="tw_guides.tw_pof.tw_pof_region.tw_pof_griffon.tw_pof_griffon_writings" GUID="FIOyg4fY4UaXC9O7i1x81g=="/>
-		<POI MapID="1256" xpos="425.744" ypos="2.95663" zpos="201.712" type="tw_guides.tw_pof.tw_pof_region.tw_pof_griffon.tw_pof_griffon_writings" GUID="pV3mB3tmaECTStRmf793fQ=="/>
-		<POI MapID="1256" xpos="561.649" ypos="141.715" zpos="242.038" type="tw_guides.tw_pof.tw_pof_region.tw_pof_griffon.tw_pof_griffon_writings" GUID="6CIznGA2dkKXAq/sqZ87ag=="/>
-		<POI MapID="1256" xpos="801.505" ypos="2.77551" zpos="365.077" type="tw_guides.tw_pof.tw_pof_region.tw_pof_griffon.tw_pof_griffon_writings" GUID="zgstZCtUtE60OipvErQgcA=="/>
-		<POI MapID="1256" xpos="681.874" ypos="3.60813" zpos="-82.2971" type="tw_guides.tw_pof.tw_pof_region.tw_pof_griffon.tw_pof_griffon_writings" GUID="X+KrA1ny5E6eQBJ5s9Jywg=="/>
-		<POI MapID="1210" xpos="1229.3" ypos="189.186" zpos="439.042" type="tw_guides.tw_pof.tw_pof_region.tw_pof_griffon.tw_pof_griffon_runes" GUID="FucsWfiu0k6n08ZZwIsnqQ=="/>
-		<POI MapID="1211" xpos="609.638" ypos="149.349" zpos="-651.037" type="tw_guides.tw_pof.tw_pof_region.tw_pof_griffon.tw_pof_griffon_runes" GUID="jPCvyqSIP0Cv2D8+OVNn9A=="/>
-		<POI MapID="1211" xpos="540.711" ypos="148.181" zpos="-620.382" type="tw_guides.tw_pof.tw_pof_region.tw_pof_griffon.tw_pof_griffon_hearts" GUID="HHwt868u9kaieuhTecVyIg=="/>
-		<POI MapID="1211" xpos="499.205" ypos="195.043" zpos="232.346" type="tw_guides.tw_pof.tw_pof_region.tw_pof_griffon.tw_pof_griffon_hearts" GUID="BWbOIA9rwUWh8Uqi4pglZg=="/>
-		<POI MapID="1228" xpos="241.908" ypos="2.53546" zpos="-172.743" type="tw_guides.tw_pof.tw_pof_region.tw_pof_griffon.tw_pof_griffon_runes" GUID="VXUbu2wBOEOmxlpO1W/vMw=="/>
-		<POI MapID="1228" xpos="480.76" ypos="102.087" zpos="908.893" type="tw_guides.tw_pof.tw_pof_region.tw_pof_griffon.tw_pof_griffon_hearts" GUID="G/FLo/9sGkWKks1uH5D/Yg=="/>
-		<POI MapID="1228" xpos="382.334" ypos="45.0149" zpos="154.04" type="tw_guides.tw_pof.tw_pof_region.tw_pof_griffon.tw_pof_griffon_hearts" GUID="QpZ9FTRH6U6PQI8B/BwuaA=="/>
-		<POI MapID="1228" xpos="-1028.14" ypos="16.1784" zpos="-618.771" type="tw_guides.tw_pof.tw_pof_region.tw_pof_griffon.tw_pof_griffon_runes" GUID="Q/UDjVO8k0GgQIZqXt9vfg=="/>
-		<POI MapID="1226" xpos="-671.362" ypos="312.636" zpos="364.603" type="tw_guides.tw_pof.tw_pof_region.tw_pof_griffon.tw_pof_griffon_runes" GUID="3kig/2hDoEuQ4H/nP7KPLg=="/>
-		<POI MapID="1226" xpos="-418.407" ypos="284.611" zpos="53.2177" type="tw_guides.tw_pof.tw_pof_region.tw_pof_griffon.tw_pof_griffon_runes" GUID="MS7kZ1OBJUGuSO8SE4KndA=="/>
+		<POI MapID="1228" xpos="-883.488" ypos="89.9786" zpos="878.206" type="tw_guides.tw_pof.tw_pof_region.tw_pof_griffon.tw_pof_griffon_shadisgearcollection" GUID="mve6qJ+wb0qqjaIAP1Psfw==" />
+		<POI MapID="1210" xpos="-353.521" ypos="8.63881" zpos="-345.024" type="tw_guides.tw_pof.tw_pof_region.tw_pof_griffon.tw_pof_griffon_hearts" GUID="iE0ewHcOR06K6LTxxXyN1A==" />
+		<POI MapID="1210" xpos="708.236" ypos="124.098" zpos="110.979" type="tw_guides.tw_pof.tw_pof_region.tw_pof_griffon.tw_pof_griffon_hearts" GUID="NdG3BpdnEEO+xNrGN7lGIA==" />
+		<POI MapID="1210" xpos="561.585" ypos="278.204" zpos="377.946" type="tw_guides.tw_pof.tw_pof_region.tw_pof_griffon.tw_pof_griffon_egg" GUID="Nx8mz+z3o02BYuVIiPP+WQ==" />
+		<POI MapID="1210" xpos="169.118" ypos="170.594" zpos="624.892" type="tw_guides.tw_pof.tw_pof_region.tw_pof_griffon.tw_pof_griffon_egg" GUID="f/7Mu3f9rEWwPFqOAt855g==" />
+		<POI MapID="1210" xpos="1235.83" ypos="318.039" zpos="454.168" type="tw_guides.tw_pof.tw_pof_region.tw_pof_griffon.tw_pof_griffon_egg" GUID="HlzEw63+hkKqJUJSJskWyQ==" />
+		<POI MapID="1210" xpos="744.458" ypos="159.788" zpos="-496.295" type="tw_guides.tw_pof.tw_pof_region.tw_pof_griffon.tw_pof_griffon_egg" GUID="Z4GlSm/gJ0OprlI6gaonWw==" />
+		<POI MapID="1210" xpos="558.294" ypos="172.479" zpos="343.071" type="tw_guides.tw_pof.tw_pof_region.tw_pof_griffon.tw_pof_griffon_egg" GUID="ySnV5BRidkCnROCAlTuOGA==" />
+		<POI MapID="1211" xpos="-184.039" ypos="292.17" zpos="-128.31" type="tw_guides.tw_pof.tw_pof_region.tw_pof_griffon.tw_pof_griffon_egg" GUID="6mB8KD7v+0+IiDvJdVM6Rg==" />
+		<POI MapID="1211" xpos="131.48" ypos="250.79" zpos="-359.433" type="tw_guides.tw_pof.tw_pof_region.tw_pof_griffon.tw_pof_griffon_egg" GUID="XhBQXQ1Ynk2TMYPvWd93Ng==" />
+		<POI MapID="1211" xpos="-598.811" ypos="340.228" zpos="124.45" type="tw_guides.tw_pof.tw_pof_region.tw_pof_griffon.tw_pof_griffon_egg" GUID="2VEtbZ6NwEaDJQJ0vtV04g==" />
+		<POI MapID="1211" xpos="35.8185" ypos="335.919" zpos="215.515" type="tw_guides.tw_pof.tw_pof_region.tw_pof_griffon.tw_pof_griffon_egg" GUID="mj2LniySMkiVrnpDQKTSdQ==" />
+		<POI MapID="1211" xpos="-992.877" ypos="234.432" zpos="-349.731" type="tw_guides.tw_pof.tw_pof_region.tw_pof_griffon.tw_pof_griffon_egg" GUID="eN9eHf3aaEm311jhMDGtZA==" />
+		<POI MapID="1228" xpos="-35.5813" ypos="125.573" zpos="51.9374" type="tw_guides.tw_pof.tw_pof_region.tw_pof_griffon.tw_pof_griffon_egg" GUID="RL7ygLk5lEC1V6ea4AtdqA==" />
+		<POI MapID="1228" xpos="-386.97" ypos="93.3787" zpos="-281.174" type="tw_guides.tw_pof.tw_pof_region.tw_pof_griffon.tw_pof_griffon_egg" GUID="3BpyuFj/FE2SLC249J5fFw==" />
+		<POI MapID="1228" xpos="328.787" ypos="85.7242" zpos="-119.885" type="tw_guides.tw_pof.tw_pof_region.tw_pof_griffon.tw_pof_griffon_egg" GUID="EAMQcNTKNk+/27gQHqyrGA==" />
+		<POI MapID="1228" xpos="-833.947" ypos="99.3106" zpos="890.933" type="tw_guides.tw_pof.tw_pof_region.tw_pof_griffon.tw_pof_griffon_shadisgearcollection" GUID="NAjzBiV5T0qVNL7T6v8wKg==" />
+		<POI MapID="1228" xpos="1036.48" ypos="58.1629" zpos="736.073" type="tw_guides.tw_pof.tw_pof_region.tw_pof_griffon.tw_pof_griffon_shadisgearcollection" GUID="mBcBZ/BA20quFxjkAPx03w==" />
+		<POI MapID="1228" xpos="-593.214" ypos="26.675" zpos="-342.862" type="tw_guides.tw_pof.tw_pof_region.tw_pof_griffon.tw_pof_griffon_shadisgearcollection" GUID="VqmSLadCcU21bShL5sOm8g==" />
+		<POI MapID="1228" xpos="-985.311" ypos="42.2122" zpos="279.379" type="tw_guides.tw_pof.tw_pof_region.tw_pof_griffon.tw_pof_griffon_shadisgearcollection" GUID="JmtOSXP2m0qU79Q1QmU2gg==" />
+		<POI MapID="1228" xpos="-343.708" ypos="4.93056" zpos="176.318" type="tw_guides.tw_pof.tw_pof_region.tw_pof_griffon.tw_pof_griffon_shadisgearcollection" GUID="rQAzF81AMkS5GplJEsSLyQ==" />
+		<POI MapID="1226" xpos="228.128" ypos="420.044" zpos="-78.798" type="tw_guides.tw_pof.tw_pof_region.tw_pof_griffon.tw_pof_griffon_egg" GUID="mcbV27M280+VtPyj2mLMfw==" />
+		<POI MapID="1226" xpos="329.737" ypos="391.197" zpos="180.566" type="tw_guides.tw_pof.tw_pof_region.tw_pof_griffon.tw_pof_griffon_egg" GUID="e8mzGw54IEGkGY2M3glNkw==" />
+		<POI MapID="1226" xpos="5.25162" ypos="347.653" zpos="464.258" type="tw_guides.tw_pof.tw_pof_region.tw_pof_griffon.tw_pof_griffon_egg" GUID="DgBqY1WVZ0uXiRNRon7g0A==" />
+		<POI MapID="1226" xpos="-129.504" ypos="325.117" zpos="145.817" type="tw_guides.tw_pof.tw_pof_region.tw_pof_griffon.tw_pof_griffon_egg" GUID="ffxUNTrq00yFVl2hzzcNkg==" />
+		<POI MapID="1248" xpos="1410.32" ypos="275.236" zpos="-805.152" type="tw_guides.tw_pof.tw_pof_region.tw_pof_griffon.tw_pof_griffon_egg" GUID="uGMlFF68A0mexVH3lNTMkQ==" />
+		<POI MapID="1248" xpos="1287.78" ypos="281.483" zpos="-518.333" type="tw_guides.tw_pof.tw_pof_region.tw_pof_griffon.tw_pof_griffon_egg" GUID="dUvvzn+OGE6omW3K2yErlA==" />
+		<POI MapID="1248" xpos="1317.33" ypos="209.991" zpos="-129.581" type="tw_guides.tw_pof.tw_pof_region.tw_pof_griffon.tw_pof_griffon_egg" GUID="CfJNm5iXhke4m2+Ybbr2dA==" />
+		<POI MapID="1248" xpos="990.483" ypos="199.937" zpos="-549.964" type="tw_guides.tw_pof.tw_pof_region.tw_pof_griffon.tw_pof_griffon_egg" GUID="9h5/AZWFlkCwVFiQefZXDw==" />
+		<POI MapID="1248" xpos="1019.02" ypos="133.172" zpos="-806.69" type="tw_guides.tw_pof.tw_pof_region.tw_pof_griffon.tw_pof_griffon_egg" GUID="mB3qa77vKEimaLEblrdrzg==" />
+		<POI MapID="1256" xpos="675.877" ypos="129.236" zpos="158.575" type="tw_guides.tw_pof.tw_pof_region.tw_pof_griffon.tw_pof_griffon_writings" GUID="/lDnf/IgU0eqvJ3OPSH8aw==" />
+		<POI MapID="1256" xpos="748.51" ypos="141.019" zpos="206.503" type="tw_guides.tw_pof.tw_pof_region.tw_pof_griffon.tw_pof_griffon_writings" GUID="7iAns6wnqkiAPyILs3gpww==" />
+		<POI MapID="1256" xpos="416.79" ypos="147.86" zpos="194.555" type="tw_guides.tw_pof.tw_pof_region.tw_pof_griffon.tw_pof_griffon_writings" GUID="rVc2R8PXukeXalyiPT2SRQ==" />
+		<POI MapID="1256" xpos="444.319" ypos="13.6353" zpos="331.715" type="tw_guides.tw_pof.tw_pof_region.tw_pof_griffon.tw_pof_griffon_writings" GUID="MiCsUZM9wkeCCDlyrFrGLg==" />
+		<POI MapID="1256" xpos="709.854" ypos="16.3648" zpos="337.698" type="tw_guides.tw_pof.tw_pof_region.tw_pof_griffon.tw_pof_griffon_writings" GUID="RXXr2Q97yEe/yNeqnx8ILQ==" />
+		<POI MapID="1256" xpos="456.123" ypos="2.62129" zpos="-3.66996" type="tw_guides.tw_pof.tw_pof_region.tw_pof_griffon.tw_pof_griffon_writings" GUID="FIOyg4fY4UaXC9O7i1x81g==" />
+		<POI MapID="1256" xpos="425.744" ypos="2.95663" zpos="201.712" type="tw_guides.tw_pof.tw_pof_region.tw_pof_griffon.tw_pof_griffon_writings" GUID="pV3mB3tmaECTStRmf793fQ==" />
+		<POI MapID="1256" xpos="561.649" ypos="141.715" zpos="242.038" type="tw_guides.tw_pof.tw_pof_region.tw_pof_griffon.tw_pof_griffon_writings" GUID="6CIznGA2dkKXAq/sqZ87ag==" />
+		<POI MapID="1256" xpos="801.505" ypos="2.77551" zpos="365.077" type="tw_guides.tw_pof.tw_pof_region.tw_pof_griffon.tw_pof_griffon_writings" GUID="zgstZCtUtE60OipvErQgcA==" />
+		<POI MapID="1256" xpos="681.874" ypos="3.60813" zpos="-82.2971" type="tw_guides.tw_pof.tw_pof_region.tw_pof_griffon.tw_pof_griffon_writings" GUID="X+KrA1ny5E6eQBJ5s9Jywg==" />
+		<POI MapID="1210" xpos="1229.3" ypos="189.186" zpos="439.042" type="tw_guides.tw_pof.tw_pof_region.tw_pof_griffon.tw_pof_griffon_runes" GUID="FucsWfiu0k6n08ZZwIsnqQ==" />
+		<POI MapID="1211" xpos="609.638" ypos="149.349" zpos="-651.037" type="tw_guides.tw_pof.tw_pof_region.tw_pof_griffon.tw_pof_griffon_runes" GUID="jPCvyqSIP0Cv2D8+OVNn9A==" />
+		<POI MapID="1211" xpos="540.711" ypos="148.181" zpos="-620.382" type="tw_guides.tw_pof.tw_pof_region.tw_pof_griffon.tw_pof_griffon_hearts" GUID="HHwt868u9kaieuhTecVyIg==" />
+		<POI MapID="1211" xpos="499.205" ypos="195.043" zpos="232.346" type="tw_guides.tw_pof.tw_pof_region.tw_pof_griffon.tw_pof_griffon_hearts" GUID="BWbOIA9rwUWh8Uqi4pglZg==" />
+		<POI MapID="1228" xpos="241.908" ypos="2.53546" zpos="-172.743" type="tw_guides.tw_pof.tw_pof_region.tw_pof_griffon.tw_pof_griffon_runes" GUID="VXUbu2wBOEOmxlpO1W/vMw==" />
+		<POI MapID="1228" xpos="480.76" ypos="102.087" zpos="908.893" type="tw_guides.tw_pof.tw_pof_region.tw_pof_griffon.tw_pof_griffon_hearts" GUID="G/FLo/9sGkWKks1uH5D/Yg==" />
+		<POI MapID="1228" xpos="382.334" ypos="45.0149" zpos="154.04" type="tw_guides.tw_pof.tw_pof_region.tw_pof_griffon.tw_pof_griffon_hearts" GUID="QpZ9FTRH6U6PQI8B/BwuaA==" />
+		<POI MapID="1228" xpos="-1028.14" ypos="16.1784" zpos="-618.771" type="tw_guides.tw_pof.tw_pof_region.tw_pof_griffon.tw_pof_griffon_runes" GUID="Q/UDjVO8k0GgQIZqXt9vfg==" />
+		<POI MapID="1226" xpos="-671.362" ypos="312.636" zpos="364.603" type="tw_guides.tw_pof.tw_pof_region.tw_pof_griffon.tw_pof_griffon_runes" GUID="3kig/2hDoEuQ4H/nP7KPLg==" />
+		<POI MapID="1226" xpos="-418.407" ypos="284.611" zpos="53.2177" type="tw_guides.tw_pof.tw_pof_region.tw_pof_griffon.tw_pof_griffon_runes" GUID="MS7kZ1OBJUGuSO8SE4KndA==" />
 	</POIs>
 </OverlayData>

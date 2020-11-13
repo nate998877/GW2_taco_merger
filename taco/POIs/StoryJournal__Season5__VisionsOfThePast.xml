@@ -1,364 +1,336 @@
 <!-- 2020.06.25 -->
 <OverlayData>
 	<POIs>
-
 		<!-- ALPHA STRIKE -->
-		<POI MapID="1362" xpos="-130.439" ypos="130.512" zpos="396.106" type="story_journal.season_5.steel_and_fire.alpha_strike" GUID="1zqWU+rIUESWlU60HQPfvQ==" fadeNear="5000" fadeFar="8000"/>
-		<POI MapID="1362" xpos="-130.439" ypos="130.512" zpos="396.106" type="story_journal.season_5.steel_and_fire.alpha_strike" GUID="8VLc0niQ+U+Pg6gvYFhqmw==" iconFile="Img/Season5/AlphaStrike.png" minSize="140" maxSize="140" fadeNear="1000" fadeFar="1200" heightOffset="3" mapVisibility="0" miniMapVisibility="0"/>
-		<POI MapID="1368" xpos="-130.439" ypos="130.512" zpos="396.106" type="story_journal.season_5.steel_and_fire.alpha_strike" GUID="7Clcz6KxI0ifw6pybhs6vQ==" fadeNear="5000" fadeFar="8000"/>
-		<POI MapID="1368" xpos="-130.439" ypos="130.512" zpos="396.106" type="story_journal.season_5.steel_and_fire.alpha_strike" GUID="bt3MTk+URE6vZpCJApAHSA==" iconFile="Img/Season5/AlphaStrike.png" minSize="140" maxSize="140" fadeNear="1000" fadeFar="1200" heightOffset="3" mapVisibility="0" miniMapVisibility="0"/>
-
+		<POI MapID="1362" xpos="-130.439" ypos="130.512" zpos="396.106" type="story_journal.season_5.steel_and_fire.alpha_strike" GUID="1zqWU+rIUESWlU60HQPfvQ==" fadeNear="5000" fadeFar="8000" />
+		<POI MapID="1362" xpos="-130.439" ypos="130.512" zpos="396.106" type="story_journal.season_5.steel_and_fire.alpha_strike" GUID="8VLc0niQ+U+Pg6gvYFhqmw==" iconFile="Img/Season5/AlphaStrike.png" minSize="140" maxSize="140" fadeNear="1000" fadeFar="1200" heightOffset="3" mapVisibility="0" miniMapVisibility="0" />
+		<POI MapID="1368" xpos="-130.439" ypos="130.512" zpos="396.106" type="story_journal.season_5.steel_and_fire.alpha_strike" GUID="7Clcz6KxI0ifw6pybhs6vQ==" fadeNear="5000" fadeFar="8000" />
+		<POI MapID="1368" xpos="-130.439" ypos="130.512" zpos="396.106" type="story_journal.season_5.steel_and_fire.alpha_strike" GUID="bt3MTk+URE6vZpCJApAHSA==" iconFile="Img/Season5/AlphaStrike.png" minSize="140" maxSize="140" fadeNear="1000" fadeFar="1200" heightOffset="3" mapVisibility="0" miniMapVisibility="0" />
 		<!-- ARTILLERY SPECIALIST -->
-		<POI MapID="1362" xpos="175.734" ypos="4.5" zpos="-444.815" type="story_journal.season_5.steel_and_fire.artillery_specialist" GUID="+/YKTL87EEOVYnAjg1P4Gw==" fadeNear="5000" fadeFar="8000"/>
-		<POI MapID="1362" xpos="175.734" ypos="6"   zpos="-444.815" type="story_journal.season_5.steel_and_fire.artillery_specialist" GUID="fU3sW48mikalP207IGTSKg==" iconFile="Img/Season5/ArtillerySpecialist.png" minSize="140" maxSize="140" fadeNear="1000" fadeFar="1200" mapVisibility="0" miniMapVisibility="0"/>
-		<POI MapID="1368" xpos="175.734" ypos="4.5" zpos="-444.815" type="story_journal.season_5.steel_and_fire.artillery_specialist" GUID="4bj6/UswUEeDUxh1DjALrw==" fadeNear="5000" fadeFar="8000"/>
-		<POI MapID="1368" xpos="175.734" ypos="6"   zpos="-444.815" type="story_journal.season_5.steel_and_fire.artillery_specialist" GUID="cTo/uELK/ECt4djCp/BALA==" iconFile="Img/Season5/ArtillerySpecialist.png" minSize="140" maxSize="140" fadeNear="1000" fadeFar="1200" mapVisibility="0" miniMapVisibility="0"/>
-
+		<POI MapID="1362" xpos="175.734" ypos="4.5" zpos="-444.815" type="story_journal.season_5.steel_and_fire.artillery_specialist" GUID="+/YKTL87EEOVYnAjg1P4Gw==" fadeNear="5000" fadeFar="8000" />
+		<POI MapID="1362" xpos="175.734" ypos="6" zpos="-444.815" type="story_journal.season_5.steel_and_fire.artillery_specialist" GUID="fU3sW48mikalP207IGTSKg==" iconFile="Img/Season5/ArtillerySpecialist.png" minSize="140" maxSize="140" fadeNear="1000" fadeFar="1200" mapVisibility="0" miniMapVisibility="0" />
+		<POI MapID="1368" xpos="175.734" ypos="4.5" zpos="-444.815" type="story_journal.season_5.steel_and_fire.artillery_specialist" GUID="4bj6/UswUEeDUxh1DjALrw==" fadeNear="5000" fadeFar="8000" />
+		<POI MapID="1368" xpos="175.734" ypos="6" zpos="-444.815" type="story_journal.season_5.steel_and_fire.artillery_specialist" GUID="cTo/uELK/ECt4djCp/BALA==" iconFile="Img/Season5/ArtillerySpecialist.png" minSize="140" maxSize="140" fadeNear="1000" fadeFar="1200" mapVisibility="0" miniMapVisibility="0" />
 		<!-- CENTURION'S RIGHT HAND -->
-		<POI MapID="1370" xpos="-219.185" ypos="2.24294" zpos="179.451" type="story_journal.season_5.steel_and_fire.centurions_right_hand" GUID="6LGYego1DUCkawR9sUQ19A==" mapDisplaySize="18"/>
-		<POI MapID="1370" xpos="-219.185" ypos="2.24294" zpos="179.451" type="story_journal.season_5.steel_and_fire.centurions_right_hand" GUID="cOKmjyk0nUuLGWn+eLiuEQ==" iconFile="Img/Season5/CenturionsRightHand.png" minSize="140" maxSize="140" fadeNear="1500" fadeFar="2000" heightOffset="3" mapVisibility="0" miniMapVisibility="0"/>
-
+		<POI MapID="1370" xpos="-219.185" ypos="2.24294" zpos="179.451" type="story_journal.season_5.steel_and_fire.centurions_right_hand" GUID="6LGYego1DUCkawR9sUQ19A==" mapDisplaySize="18" />
+		<POI MapID="1370" xpos="-219.185" ypos="2.24294" zpos="179.451" type="story_journal.season_5.steel_and_fire.centurions_right_hand" GUID="cOKmjyk0nUuLGWn+eLiuEQ==" iconFile="Img/Season5/CenturionsRightHand.png" minSize="140" maxSize="140" fadeNear="1500" fadeFar="2000" heightOffset="3" mapVisibility="0" miniMapVisibility="0" />
 		<!-- CINDER STEELTEMPER'S FOOTSTEPS -->
-		<POI MapID="1370" xpos="-100.377" ypos="1.92363" zpos="38.2302"  type="story_journal.season_5.steel_and_fire.cinder_steeltempers_footsteps.1"  GUID="H67mdT8lzUeIsMSi577/UQ==" mapDisplaySize="18"/>
-		<POI MapID="1370" xpos="-107.88"  ypos="1.92363" zpos="48.2274"  type="story_journal.season_5.steel_and_fire.cinder_steeltempers_footsteps.2"  GUID="1IGBa9RzO0Wt7JfSGEu8yA==" heightOffset="3" mapDisplaySize="18"/>
-		<POI MapID="1330" xpos="-403.23"  ypos="54.9215" zpos="-291.667" type="story_journal.season_5.steel_and_fire.cinder_steeltempers_footsteps.3"  GUID="w9ofteR/h0+LdBE0MWtQZg=="/>
-		<POI MapID="1330" xpos="591.989"  ypos="83.6116" zpos="-410.6"   type="story_journal.season_5.steel_and_fire.cinder_steeltempers_footsteps.4"  GUID="wIayhp9UPkGVnzxCHj3CHw=="/>
-		<POI MapID="1330" xpos="-200.485" ypos="-1.7283" zpos="-471.183" type="story_journal.season_5.steel_and_fire.cinder_steeltempers_footsteps.5"  GUID="1vfL5yWKiE26qmUdgYAt4w=="/>
-		<POI MapID="1330" xpos="-274.157" ypos="30.0301" zpos="-144.462" type="story_journal.season_5.steel_and_fire.cinder_steeltempers_footsteps.6"  GUID="FhMWEsjUKkq7SgwuX2o+9A=="/>
-		<POI MapID="218"  xpos="76.2805"  ypos="140.78"  zpos="358.564"  type="story_journal.season_5.steel_and_fire.cinder_steeltempers_footsteps.8"  GUID="DfLms5rgeEeg2w432E9F9g=="/>
-		<POI MapID="22"   xpos="353.6"    ypos="36.85"   zpos="-3.71669" type="story_journal.season_5.steel_and_fire.cinder_steeltempers_footsteps.9"  GUID="5U6PfoLTrki3Qc8vh1jBdw=="/>
-		<POI MapID="22"   xpos="353.6"    ypos="37.85"   zpos="-3.71669" type="story_journal.season_5.steel_and_fire.cinder_steeltempers_footsteps.9"  GUID="z4l3JuIgpk2wTO3llNUn4A==" iconFile="Img/Season5/CinderSteetempersFootsteps_9.png" minSize="140" maxSize="140" fadeNear="1000" fadeFar="1200" mapVisibility="0" miniMapVisibility="0"/>
-		<POI MapID="39"   xpos="-309.769" ypos="9.37475" zpos="-226.25"  type="story_journal.season_5.steel_and_fire.cinder_steeltempers_footsteps.10" GUID="vmHIjwt2gUm1H6UqtEgN0Q=="/>
-		<POI MapID="20"   xpos="-282.574" ypos="0.55564" zpos="976.908"  type="story_journal.season_5.steel_and_fire.cinder_steeltempers_footsteps.12" GUID="gx9iT3gDHk+tmFC02t9YkQ=="/>
-		<POI MapID="1362" xpos="-295.927" ypos="135.373" zpos="474.166"  type="story_journal.season_5.steel_and_fire.cinder_steeltempers_footsteps.13" GUID="9clKA0G9cUeF6XKSKf3aaQ=="/>
-		<POI MapID="1368" xpos="-295.927" ypos="135.373" zpos="474.166"  type="story_journal.season_5.steel_and_fire.cinder_steeltempers_footsteps.13" GUID="pcmPOV9+5E+AAYXNxQDwNg=="/>
-		<POI MapID="20"   xpos="-78.3595" ypos="30.2135" zpos="922.375"  type="story_journal.season_5.steel_and_fire.cinder_steeltempers_footsteps.14" GUID="lc+viTaH006KCJMmY5lBKw==" heightOffset="3"/>
-		<POI MapID="1343" xpos="-8.75734" ypos="216.941" zpos="-116.863" type="story_journal.season_5.steel_and_fire.cinder_steeltempers_footsteps.15" GUID="x8E7s0wdAE2xG9p4ut1n3w=="/>
-		<POI MapID="1370" xpos="-100.377" ypos="1.92363" zpos="38.2302"  type="story_journal.season_5.steel_and_fire.cinder_steeltempers_footsteps.16" GUID="gwVsR6IWuEyPl9KgxMoGaA==" mapDisplaySize="18"/>
-
+		<POI MapID="1370" xpos="-100.377" ypos="1.92363" zpos="38.2302" type="story_journal.season_5.steel_and_fire.cinder_steeltempers_footsteps.1" GUID="H67mdT8lzUeIsMSi577/UQ==" mapDisplaySize="18" />
+		<POI MapID="1370" xpos="-107.88" ypos="1.92363" zpos="48.2274" type="story_journal.season_5.steel_and_fire.cinder_steeltempers_footsteps.2" GUID="1IGBa9RzO0Wt7JfSGEu8yA==" heightOffset="3" mapDisplaySize="18" />
+		<POI MapID="1330" xpos="-403.23" ypos="54.9215" zpos="-291.667" type="story_journal.season_5.steel_and_fire.cinder_steeltempers_footsteps.3" GUID="w9ofteR/h0+LdBE0MWtQZg==" />
+		<POI MapID="1330" xpos="591.989" ypos="83.6116" zpos="-410.6" type="story_journal.season_5.steel_and_fire.cinder_steeltempers_footsteps.4" GUID="wIayhp9UPkGVnzxCHj3CHw==" />
+		<POI MapID="1330" xpos="-200.485" ypos="-1.7283" zpos="-471.183" type="story_journal.season_5.steel_and_fire.cinder_steeltempers_footsteps.5" GUID="1vfL5yWKiE26qmUdgYAt4w==" />
+		<POI MapID="1330" xpos="-274.157" ypos="30.0301" zpos="-144.462" type="story_journal.season_5.steel_and_fire.cinder_steeltempers_footsteps.6" GUID="FhMWEsjUKkq7SgwuX2o+9A==" />
+		<POI MapID="218" xpos="76.2805" ypos="140.78" zpos="358.564" type="story_journal.season_5.steel_and_fire.cinder_steeltempers_footsteps.8" GUID="DfLms5rgeEeg2w432E9F9g==" />
+		<POI MapID="22" xpos="353.6" ypos="36.85" zpos="-3.71669" type="story_journal.season_5.steel_and_fire.cinder_steeltempers_footsteps.9" GUID="5U6PfoLTrki3Qc8vh1jBdw==" />
+		<POI MapID="22" xpos="353.6" ypos="37.85" zpos="-3.71669" type="story_journal.season_5.steel_and_fire.cinder_steeltempers_footsteps.9" GUID="z4l3JuIgpk2wTO3llNUn4A==" iconFile="Img/Season5/CinderSteetempersFootsteps_9.png" minSize="140" maxSize="140" fadeNear="1000" fadeFar="1200" mapVisibility="0" miniMapVisibility="0" />
+		<POI MapID="39" xpos="-309.769" ypos="9.37475" zpos="-226.25" type="story_journal.season_5.steel_and_fire.cinder_steeltempers_footsteps.10" GUID="vmHIjwt2gUm1H6UqtEgN0Q==" />
+		<POI MapID="20" xpos="-282.574" ypos="0.55564" zpos="976.908" type="story_journal.season_5.steel_and_fire.cinder_steeltempers_footsteps.12" GUID="gx9iT3gDHk+tmFC02t9YkQ==" />
+		<POI MapID="1362" xpos="-295.927" ypos="135.373" zpos="474.166" type="story_journal.season_5.steel_and_fire.cinder_steeltempers_footsteps.13" GUID="9clKA0G9cUeF6XKSKf3aaQ==" />
+		<POI MapID="1368" xpos="-295.927" ypos="135.373" zpos="474.166" type="story_journal.season_5.steel_and_fire.cinder_steeltempers_footsteps.13" GUID="pcmPOV9+5E+AAYXNxQDwNg==" />
+		<POI MapID="20" xpos="-78.3595" ypos="30.2135" zpos="922.375" type="story_journal.season_5.steel_and_fire.cinder_steeltempers_footsteps.14" GUID="lc+viTaH006KCJMmY5lBKw==" heightOffset="3" />
+		<POI MapID="1343" xpos="-8.75734" ypos="216.941" zpos="-116.863" type="story_journal.season_5.steel_and_fire.cinder_steeltempers_footsteps.15" GUID="x8E7s0wdAE2xG9p4ut1n3w==" />
+		<POI MapID="1370" xpos="-100.377" ypos="1.92363" zpos="38.2302" type="story_journal.season_5.steel_and_fire.cinder_steeltempers_footsteps.16" GUID="gwVsR6IWuEyPl9KgxMoGaA==" mapDisplaySize="18" />
 		<!-- DELVING FOR TREASURE -->
-		<Trail type="story_journal.season_5.steel_and_fire.delving_for_treasure" GUID="j2G59ezkQ0yZ9d/p8GM/4g==" trailData="Data/StoryJournal/Season5/SteelAndFire/DelvingForTreasure.trl" texture="Data/SemiLine.png" color="ffffff00" alpha="0.8" fadeNear="2500" fadeFar="3000" animSpeed="0"/>
-		<POI MapID="1366" xpos="466.768"  ypos="206.069" zpos="102.535"  type="story_journal.season_5.steel_and_fire.delving_for_treasure" GUID="6pAtgisToE+i/F2bbkZPoA==" iconFile="Img/Icons/Chest.png" fadeNear="1000" fadeFar="1400" heightOffset="0"/>
-		<POI MapID="1366" xpos="-235.14"  ypos="253.921" zpos="-0.08185" type="story_journal.season_5.steel_and_fire.delving_for_treasure" GUID="erTuOgallkagoA0GXTuKpA=="/>
-		<POI MapID="1366" xpos="550.693"  ypos="205.472" zpos="163.529"  type="story_journal.season_5.steel_and_fire.delving_for_treasure" GUID="i0A/F8++vUa+4c9kOOcm4w=="/>
-		<POI MapID="1366" xpos="322.899"  ypos="236.924" zpos="85.467"   type="story_journal.season_5.steel_and_fire.delving_for_treasure" GUID="eAqb13li+0ePpp7H0eo9Tg=="/>
-		<POI MapID="1366" xpos="524.79"   ypos="218.815" zpos="98.3965"  type="story_journal.season_5.steel_and_fire.delving_for_treasure" GUID="lwEUqX7Ubk+U96zWiMofyQ=="/>
-		<POI MapID="1366" xpos="-197.138" ypos="203.338" zpos="-66.482"  type="story_journal.season_5.steel_and_fire.delving_for_treasure" GUID="fbzvpMSf/0+1FzoUMuz5SQ=="/>
-		<POI MapID="1366" xpos="297.864"  ypos="180.572" zpos="-109.182" type="story_journal.season_5.steel_and_fire.delving_for_treasure" GUID="x80wbQCR4kaBcrlmaBDfjQ=="/>
-		<POI MapID="1366" xpos="-443.431" ypos="253.239" zpos="32.2871"  type="story_journal.season_5.steel_and_fire.delving_for_treasure" GUID="6hb3aBib7EGeyDn2HyzWGg=="/>
-		<POI MapID="1366" xpos="17.0776"  ypos="207.324" zpos="-137.698" type="story_journal.season_5.steel_and_fire.delving_for_treasure" GUID="o066vxAfp0alLjcbsiy96w=="/>
-		<POI MapID="1366" xpos="-63.0652" ypos="220.737" zpos="21.1582"  type="story_journal.season_5.steel_and_fire.delving_for_treasure" GUID="t+ThYDEiY0edMxlHKnfbGA=="/>
-		<POI MapID="1366" xpos="392.166"  ypos="240.216" zpos="22.168"   type="story_journal.season_5.steel_and_fire.delving_for_treasure" GUID="NHZZ6HQ7rUyloETsxUg+0w=="/>
-		<POI MapID="1366" xpos="-307.856" ypos="253.202" zpos="59.8391"  type="story_journal.season_5.steel_and_fire.delving_for_treasure" GUID="BWgDbY1vyE2XsiekUdqBmw=="/>
-		<POI MapID="1366" xpos="239.56"   ypos="224.164" zpos="-5.17519" type="story_journal.season_5.steel_and_fire.delving_for_treasure" GUID="PP6G5UVK+E6V8b7qC9bpMA=="/>
-
+		<Trail type="story_journal.season_5.steel_and_fire.delving_for_treasure" GUID="j2G59ezkQ0yZ9d/p8GM/4g==" trailData="Data/StoryJournal/Season5/SteelAndFire/DelvingForTreasure.trl" texture="Data/SemiLine.png" color="ffffff00" alpha="0.8" fadeNear="2500" fadeFar="3000" animSpeed="0" />
+		<POI MapID="1366" xpos="466.768" ypos="206.069" zpos="102.535" type="story_journal.season_5.steel_and_fire.delving_for_treasure" GUID="6pAtgisToE+i/F2bbkZPoA==" iconFile="Img/Icons/Chest.png" fadeNear="1000" fadeFar="1400" heightOffset="0" />
+		<POI MapID="1366" xpos="-235.14" ypos="253.921" zpos="-0.08185" type="story_journal.season_5.steel_and_fire.delving_for_treasure" GUID="erTuOgallkagoA0GXTuKpA==" />
+		<POI MapID="1366" xpos="550.693" ypos="205.472" zpos="163.529" type="story_journal.season_5.steel_and_fire.delving_for_treasure" GUID="i0A/F8++vUa+4c9kOOcm4w==" />
+		<POI MapID="1366" xpos="322.899" ypos="236.924" zpos="85.467" type="story_journal.season_5.steel_and_fire.delving_for_treasure" GUID="eAqb13li+0ePpp7H0eo9Tg==" />
+		<POI MapID="1366" xpos="524.79" ypos="218.815" zpos="98.3965" type="story_journal.season_5.steel_and_fire.delving_for_treasure" GUID="lwEUqX7Ubk+U96zWiMofyQ==" />
+		<POI MapID="1366" xpos="-197.138" ypos="203.338" zpos="-66.482" type="story_journal.season_5.steel_and_fire.delving_for_treasure" GUID="fbzvpMSf/0+1FzoUMuz5SQ==" />
+		<POI MapID="1366" xpos="297.864" ypos="180.572" zpos="-109.182" type="story_journal.season_5.steel_and_fire.delving_for_treasure" GUID="x80wbQCR4kaBcrlmaBDfjQ==" />
+		<POI MapID="1366" xpos="-443.431" ypos="253.239" zpos="32.2871" type="story_journal.season_5.steel_and_fire.delving_for_treasure" GUID="6hb3aBib7EGeyDn2HyzWGg==" />
+		<POI MapID="1366" xpos="17.0776" ypos="207.324" zpos="-137.698" type="story_journal.season_5.steel_and_fire.delving_for_treasure" GUID="o066vxAfp0alLjcbsiy96w==" />
+		<POI MapID="1366" xpos="-63.0652" ypos="220.737" zpos="21.1582" type="story_journal.season_5.steel_and_fire.delving_for_treasure" GUID="t+ThYDEiY0edMxlHKnfbGA==" />
+		<POI MapID="1366" xpos="392.166" ypos="240.216" zpos="22.168" type="story_journal.season_5.steel_and_fire.delving_for_treasure" GUID="NHZZ6HQ7rUyloETsxUg+0w==" />
+		<POI MapID="1366" xpos="-307.856" ypos="253.202" zpos="59.8391" type="story_journal.season_5.steel_and_fire.delving_for_treasure" GUID="BWgDbY1vyE2XsiekUdqBmw==" />
+		<POI MapID="1366" xpos="239.56" ypos="224.164" zpos="-5.17519" type="story_journal.season_5.steel_and_fire.delving_for_treasure" GUID="PP6G5UVK+E6V8b7qC9bpMA==" />
 		<!-- EMERGENCY MAINTENANCE -->
-		<POI MapID="1362" xpos="171.676" ypos="4.5" zpos="-442.346" type="story_journal.season_5.steel_and_fire.emergency_maintenance" GUID="KDImACqrJE2AsOuVcrXEoA==" fadeNear="5000" fadeFar="8000"/>
-		<POI MapID="1362" xpos="171.676" ypos="6"   zpos="-442.346" type="story_journal.season_5.steel_and_fire.emergency_maintenance" GUID="ZdcLpL11xU2f9ljHY4buGQ==" iconFile="Img/Season5/EmergencyMaintenance.png" minSize="140" maxSize="140" fadeNear="1000" fadeFar="1200" mapVisibility="0" miniMapVisibility="0"/>
-		<POI MapID="1368" xpos="171.676" ypos="4.5" zpos="-442.346" type="story_journal.season_5.steel_and_fire.emergency_maintenance" GUID="RJK4WhmjEUaJE/DXP5rrwg==" fadeNear="5000" fadeFar="8000"/>
-		<POI MapID="1368" xpos="171.676" ypos="6"   zpos="-442.346" type="story_journal.season_5.steel_and_fire.emergency_maintenance" GUID="G8o6VkAZFE6HLwZKNWKZvQ==" iconFile="Img/Season5/EmergencyMaintenance.png" minSize="140" maxSize="140" fadeNear="1000" fadeFar="1200" mapVisibility="0" miniMapVisibility="0"/>
-
+		<POI MapID="1362" xpos="171.676" ypos="4.5" zpos="-442.346" type="story_journal.season_5.steel_and_fire.emergency_maintenance" GUID="KDImACqrJE2AsOuVcrXEoA==" fadeNear="5000" fadeFar="8000" />
+		<POI MapID="1362" xpos="171.676" ypos="6" zpos="-442.346" type="story_journal.season_5.steel_and_fire.emergency_maintenance" GUID="ZdcLpL11xU2f9ljHY4buGQ==" iconFile="Img/Season5/EmergencyMaintenance.png" minSize="140" maxSize="140" fadeNear="1000" fadeFar="1200" mapVisibility="0" miniMapVisibility="0" />
+		<POI MapID="1368" xpos="171.676" ypos="4.5" zpos="-442.346" type="story_journal.season_5.steel_and_fire.emergency_maintenance" GUID="RJK4WhmjEUaJE/DXP5rrwg==" fadeNear="5000" fadeFar="8000" />
+		<POI MapID="1368" xpos="171.676" ypos="6" zpos="-442.346" type="story_journal.season_5.steel_and_fire.emergency_maintenance" GUID="G8o6VkAZFE6HLwZKNWKZvQ==" iconFile="Img/Season5/EmergencyMaintenance.png" minSize="140" maxSize="140" fadeNear="1000" fadeFar="1200" mapVisibility="0" miniMapVisibility="0" />
 		<!-- ENGINEER'S APPRENTICE -->
-		<POI MapID="1362" xpos="167.394" ypos="4.5" zpos="-439.641" type="story_journal.season_5.steel_and_fire.engineers_apprentice" GUID="V7OIodmAYUWS969ocIZtKg==" fadeNear="5000" fadeFar="8000"/>
-		<POI MapID="1362" xpos="167.394" ypos="6"   zpos="-439.641" type="story_journal.season_5.steel_and_fire.engineers_apprentice" GUID="Vd0PotF93EO898Wzfz52Mg==" iconFile="Img/Season5/EngineersApprentice.png" minSize="140" maxSize="140" fadeNear="1000" fadeFar="1200" mapVisibility="0" miniMapVisibility="0"/>
-		<POI MapID="1368" xpos="167.394" ypos="4.5" zpos="-439.641" type="story_journal.season_5.steel_and_fire.engineers_apprentice" GUID="q1xVAHdtZEqqQFHTFl10aQ==" fadeNear="5000" fadeFar="8000"/>
-		<POI MapID="1368" xpos="167.394" ypos="6"   zpos="-439.641" type="story_journal.season_5.steel_and_fire.engineers_apprentice" GUID="3X/sMZzN4UeO6NUbKQsG7A==" iconFile="Img/Season5/EngineersApprentice.png" minSize="140" maxSize="140" fadeNear="1000" fadeFar="1200" mapVisibility="0" miniMapVisibility="0"/>
-
+		<POI MapID="1362" xpos="167.394" ypos="4.5" zpos="-439.641" type="story_journal.season_5.steel_and_fire.engineers_apprentice" GUID="V7OIodmAYUWS969ocIZtKg==" fadeNear="5000" fadeFar="8000" />
+		<POI MapID="1362" xpos="167.394" ypos="6" zpos="-439.641" type="story_journal.season_5.steel_and_fire.engineers_apprentice" GUID="Vd0PotF93EO898Wzfz52Mg==" iconFile="Img/Season5/EngineersApprentice.png" minSize="140" maxSize="140" fadeNear="1000" fadeFar="1200" mapVisibility="0" miniMapVisibility="0" />
+		<POI MapID="1368" xpos="167.394" ypos="4.5" zpos="-439.641" type="story_journal.season_5.steel_and_fire.engineers_apprentice" GUID="q1xVAHdtZEqqQFHTFl10aQ==" fadeNear="5000" fadeFar="8000" />
+		<POI MapID="1368" xpos="167.394" ypos="6" zpos="-439.641" type="story_journal.season_5.steel_and_fire.engineers_apprentice" GUID="3X/sMZzN4UeO6NUbKQsG7A==" iconFile="Img/Season5/EngineersApprentice.png" minSize="140" maxSize="140" fadeNear="1000" fadeFar="1200" mapVisibility="0" miniMapVisibility="0" />
 		<!-- FALLEN FROM THE SUMMIT -->
-		<!--1-->
-		<POI MapID="1362" xpos="-272.625" ypos="132.84"  zpos="442.908" type="story_journal.season_5.steel_and_fire.fallen_from_the_summit" GUID="DMxdwCF060CuTFbqdr1oKw=="/>
-		<POI MapID="1368" xpos="-272.625" ypos="132.84"  zpos="442.908" type="story_journal.season_5.steel_and_fire.fallen_from_the_summit" GUID="+Qa7X/8040Ccq8dX22qcPg=="/>
-		<!--2-->
-		<Trail type="story_journal.season_5.steel_and_fire.fallen_from_the_summit" GUID="pslxI5+jGE+IOnY742Y5xQ==" trailData="Data/StoryJournal/Season5/SteelAndFire/FallenFromTheSummit_2_Public.trl" texture="Data/SemiLine.png" color="ff00ff00" alpha="0.8" fadeNear="2500" fadeFar="3000" animSpeed="0" mapDisplaySize="15"/>
-		<Trail type="story_journal.season_5.steel_and_fire.fallen_from_the_summit" GUID="Oea5WtU7uUCdTqr2K8ovSA==" trailData="Data/StoryJournal/Season5/SteelAndFire/FallenFromTheSummit_2_Squad.trl"  texture="Data/SemiLine.png" color="ff00ff00" alpha="0.8" fadeNear="2500" fadeFar="3000" animSpeed="0" mapDisplaySize="15"/>
-		<POI MapID="1362" xpos="78.1414"  ypos="176.866" zpos="348.698" type="story_journal.season_5.steel_and_fire.fallen_from_the_summit" GUID="OYuOXzgLI0O8rrR5heFA4Q=="/>
-		<POI MapID="1368" xpos="78.1414"  ypos="176.866" zpos="348.698" type="story_journal.season_5.steel_and_fire.fallen_from_the_summit" GUID="VrCnX9FVG022ptYgfZTr9Q=="/>
-		<!--3-->
-		<Trail type="story_journal.season_5.steel_and_fire.fallen_from_the_summit" GUID="Hfok/LDkB0+6x2XAEhdN4w==" trailData="Data/StoryJournal/Season5/SteelAndFire/FallenFromTheSummit_3_Public.trl" texture="Data/SemiLine.png" color="ff00ff00" alpha="0.8" fadeNear="2500" fadeFar="3000" animSpeed="0" mapDisplaySize="15"/>
-		<Trail type="story_journal.season_5.steel_and_fire.fallen_from_the_summit" GUID="BOKHBS5c50qHuMQLUkcMdA==" trailData="Data/StoryJournal/Season5/SteelAndFire/FallenFromTheSummit_3_Squad.trl"  texture="Data/SemiLine.png" color="ff00ff00" alpha="0.8" fadeNear="2500" fadeFar="3000" animSpeed="0" mapDisplaySize="15"/>
-		<POI MapID="1362" xpos="112.123"  ypos="182.388" zpos="174.018" type="story_journal.season_5.steel_and_fire.fallen_from_the_summit" GUID="KqgkfXHBPk+JJNvHPir2LA=="/>
-		<POI MapID="1368" xpos="112.123"  ypos="182.388" zpos="174.018" type="story_journal.season_5.steel_and_fire.fallen_from_the_summit" GUID="3m1nL7C3MUuTWa4bLOHA3A=="/>
-		<!--4-->
-		<Trail type="story_journal.season_5.steel_and_fire.fallen_from_the_summit" GUID="CnsmkS+5oUmccA6KJ7hYvw==" trailData="Data/StoryJournal/Season5/SteelAndFire/FallenFromTheSummit_4_Public.trl" texture="Data/SemiLine.png" color="ff00ff00" alpha="0.8" fadeNear="2500" fadeFar="3000" animSpeed="0" mapDisplaySize="15"/>
-		<Trail type="story_journal.season_5.steel_and_fire.fallen_from_the_summit" GUID="6QWoCVpQzEeXVLAACXIyIA==" trailData="Data/StoryJournal/Season5/SteelAndFire/FallenFromTheSummit_4_Squad.trl"  texture="Data/SemiLine.png" color="ff00ff00" alpha="0.8" fadeNear="2500" fadeFar="3000" animSpeed="0" mapDisplaySize="15"/>
-		<POI MapID="1362" xpos="4.6146"   ypos="166.718" zpos="301.254" type="story_journal.season_5.steel_and_fire.fallen_from_the_summit" GUID="2XRjR6zv6USSo+E9le6GpA=="/>
-		<POI MapID="1368" xpos="4.6146"   ypos="166.718" zpos="301.254" type="story_journal.season_5.steel_and_fire.fallen_from_the_summit" GUID="kPydfiurCU+RSL2x1i2kZA=="/>
-		<!--5-->
-		<POI MapID="1362" xpos="-239.35"  ypos="122.976" zpos="157.944" type="story_journal.season_5.steel_and_fire.fallen_from_the_summit" GUID="GcKlnoDp8EWGE5jJsutlIg=="/>
-		<POI MapID="1368" xpos="-239.35"  ypos="122.976" zpos="157.944" type="story_journal.season_5.steel_and_fire.fallen_from_the_summit" GUID="bk3oF3J3/Eu/uoMeso1ddg=="/>
-		<!--6-->
-		<Trail type="story_journal.season_5.steel_and_fire.fallen_from_the_summit" GUID="p6UzOy/brEepAhr7I1g+6w==" trailData="Data/StoryJournal/Season5/SteelAndFire/FallenFromTheSummit_6.trl" texture="Data/SemiLine.png" color="ff00ff00" alpha="0.8" fadeNear="2500" fadeFar="3000" animSpeed="0" mapDisplaySize="15"/>
-		<POI MapID="1366" xpos="549.318"  ypos="204.054" zpos="54.5674" type="story_journal.season_5.steel_and_fire.fallen_from_the_summit" GUID="ZaqO/S0fqEW6IApdqQlFmA==" mapDisplaySize="20"/>
-		<!--7-->
-		<Trail type="story_journal.season_5.steel_and_fire.fallen_from_the_summit" GUID="v06CFg+MWEm/P8UJVX/mdQ==" trailData="Data/StoryJournal/Season5/SteelAndFire/FallenFromTheSummit_7.trl" texture="Data/SemiLine.png" color="ff00ff00" alpha="0.8" fadeNear="2500" fadeFar="3000" animSpeed="0" mapDisplaySize="15"/>
-		<POI MapID="1366" xpos="389.604"  ypos="239.832" zpos="26.3016" type="story_journal.season_5.steel_and_fire.fallen_from_the_summit" GUID="IX7FkLIqD0WsTnqAIdJpSA==" mapDisplaySize="20"/>
-		<!--8-->
-		<Trail type="story_journal.season_5.steel_and_fire.fallen_from_the_summit" GUID="VxlbkSrbjEmfMUBDbtT/rg==" trailData="Data/StoryJournal/Season5/SteelAndFire/FallenFromTheSummit_8.trl" texture="Data/SemiLine.png" color="ff00ff00" alpha="0.8" fadeNear="2500" fadeFar="3000" animSpeed="0" mapDisplaySize="15"/>
-		<POI MapID="1366" xpos="-333.213" ypos="253.128" zpos="83.3143" type="story_journal.season_5.steel_and_fire.fallen_from_the_summit" GUID="w+IfDeGohk+ZKnZAn7wI4w==" mapDisplaySize="20"/>
-
-		<!-- FIELD MEDICINE -->
-		<POI MapID="1362" xpos="162.168" ypos="4.5" zpos="-437.79" type="story_journal.season_5.steel_and_fire.field_medicine" GUID="iZi4vPjBR0SuRCt7OoyvlQ==" fadeNear="5000" fadeFar="8000"/>
-		<POI MapID="1362" xpos="162.168" ypos="6"   zpos="-437.79" type="story_journal.season_5.steel_and_fire.field_medicine" GUID="fQ1a0Pz2D0GM6YcjUrenyw==" iconFile="Img/Season5/FieldMedicine.png" minSize="140" maxSize="140" fadeNear="1000" fadeFar="1200" mapVisibility="0" miniMapVisibility="0"/>
-		<POI MapID="1368" xpos="162.168" ypos="4.5" zpos="-437.79" type="story_journal.season_5.steel_and_fire.field_medicine" GUID="slr9bCzGk0GlTdnYTHdoAQ==" fadeNear="5000" fadeFar="8000"/>
-		<POI MapID="1368" xpos="162.168" ypos="6"   zpos="-437.79" type="story_journal.season_5.steel_and_fire.field_medicine" GUID="Iki8ncHf6UuNcp/6g94bKw==" iconFile="Img/Season5/FieldMedicine.png" minSize="140" maxSize="140" fadeNear="1000" fadeFar="1200" mapVisibility="0" miniMapVisibility="0"/>
-
-		<!-- HEATING UP THE DELVES -->
-		<POI MapID="1366" xpos="398.401"  ypos="240.149" zpos="32.6833"  type="story_journal.season_5.steel_and_fire.heating_up_the_delves" GUID="oEq3ePTQp06UVxqTRfxwkQ=="/><!-- Champion Stone Summit Crusher -->
-		<POI MapID="1366" xpos="149.809"  ypos="193.942" zpos="-166.392" type="story_journal.season_5.steel_and_fire.heating_up_the_delves" GUID="b1bFviCl10+kbqOtbCxMPQ=="/><!-- Champion Ice Beast -->
-		<POI MapID="1366" xpos="-263.467" ypos="252.893" zpos="33.7733"  type="story_journal.season_5.steel_and_fire.heating_up_the_delves" GUID="hjgBD9Sct0a4ZnJurcFqAQ=="/><!-- Champion Ice Elemental -->
-
-		<!-- HEAVY RIVAL -->
-		<POI MapID="1362" xpos="156.707" ypos="4.5" zpos="-437.124" type="story_journal.season_5.steel_and_fire.heavy_rival" GUID="4G/vtOv43UGTY0GnCUX3tg==" fadeNear="5000" fadeFar="8000"/>
-		<POI MapID="1362" xpos="156.707" ypos="6"   zpos="-437.124" type="story_journal.season_5.steel_and_fire.heavy_rival" GUID="d+dnLYHWDUag9LoCEc9uiQ==" iconFile="Img/Season5/HeavyRival.png" minSize="140" maxSize="140" fadeNear="1000" fadeFar="1200" mapVisibility="0" miniMapVisibility="0"/>
-		<POI MapID="1368" xpos="156.707" ypos="4.5" zpos="-437.124" type="story_journal.season_5.steel_and_fire.heavy_rival" GUID="HGnUnon7FUSrA2SyJJP6MA==" fadeNear="5000" fadeFar="8000"/>
-		<POI MapID="1368" xpos="156.707" ypos="6"   zpos="-437.124" type="story_journal.season_5.steel_and_fire.heavy_rival" GUID="OiCnHkcUskeHxt7JdXu5Ww==" iconFile="Img/Season5/HeavyRival.png" minSize="140" maxSize="140" fadeNear="1000" fadeFar="1200" mapVisibility="0" miniMapVisibility="0"/>
-
-		<!-- MINIS OF STEEL -->
-		<POI MapID="1370" xpos="-107.88" ypos="1.92363" zpos="48.2274" type="story_journal.season_5.steel_and_fire.minis_of_steel" GUID="KxyuNxIe1kyYKO8o+N5bhw==" heightOffset="3" mapDisplaySize="18"/>
-		<POI MapID="1370" xpos="-107.88" ypos="2.92363" zpos="48.2274" type="story_journal.season_5.steel_and_fire.minis_of_steel" GUID="302NR01oz0W5lBV0AVFHNw==" iconFile="Img/Season5/MinisOfSteel.png" minSize="140" maxSize="140" fadeNear="1000" fadeFar="1400" heightOffset="3" mapVisibility="0" miniMapVisibility="0"/>
-
-		<!-- MISSION CHALLENGE: CANDIDATE FOR KHAN-UR -->
-		<POI MapID="1370" xpos="-227.151" ypos="0"       zpos="176.786"  type="story_journal.season_5.steel_and_fire.mission_challenge_candidate_for_khan_ur" GUID="24kOMA2MYkitSXUu6A5Znw==" mapDisplaySize="18"/>
-		<POI MapID="1370" xpos="-227.151" ypos="2"       zpos="176.786"  type="story_journal.season_5.steel_and_fire.mission_challenge_candidate_for_khan_ur" GUID="HmJWs2T9dEyPCRu1LE9Wdg==" iconFile="Img/Season5/ForgingSteel_SquadAchievements.png" minSize="140" maxSize="140" fadeNear="1200" fadeFar="1500" mapVisibility="0" miniMapVisibility="0"/>
-		<POI MapID="1368" xpos="160.34"   ypos="3.44854" zpos="-363.802" type="story_journal.season_5.steel_and_fire.mission_challenge_candidate_for_khan_ur" GUID="Y3nYa0D7F0+6h2qCuelJzQ==" heightOffset="0.5"/>
-		<POI MapID="1368" xpos="159.009"  ypos="3"       zpos="-354.869" type="story_journal.season_5.steel_and_fire.mission_challenge_candidate_for_khan_ur" GUID="bHjVIcFYjEC7gaVOV+nc3Q==" iconFile="Img/Season5/MissionChallenge_CandidateForKhanUr.png" minSize="140" maxSize="140" fadeNear="1200" fadeFar="1500" mapVisibility="0" miniMapVisibility="0"/>
-
-		<!-- MISSION CHALLENGE: FINAL BOSS -->
-		<POI MapID="1370" xpos="-227.151" ypos="0"       zpos="176.786"  type="story_journal.season_5.steel_and_fire.mission_challenge_final_boss" GUID="Fd6F0HdNR0KQBvW9KWRh9Q==" mapDisplaySize="18"/>
-		<POI MapID="1370" xpos="-227.151" ypos="2"       zpos="176.786"  type="story_journal.season_5.steel_and_fire.mission_challenge_final_boss" GUID="xNkeVBvkx0qF1CBbMjZp7g==" iconFile="Img/Season5/ForgingSteel_SquadAchievements.png" minSize="140" maxSize="140" fadeNear="1200" fadeFar="1500" mapVisibility="0" miniMapVisibility="0"/>
-		<POI MapID="1368" xpos="160.34"   ypos="3.44854" zpos="-363.802" type="story_journal.season_5.steel_and_fire.mission_challenge_final_boss" GUID="lm+715KV2kGVVVNkkoW4VA==" heightOffset="0.5"/>
-		<POI MapID="1368" xpos="158.819"  ypos="3"       zpos="-370.991" type="story_journal.season_5.steel_and_fire.mission_challenge_final_boss" GUID="CYOofW/buU+Uhyy4q3F02w==" iconFile="Img/Season5/MissionChallenge_FinalBoss.png" minSize="140" maxSize="140" fadeNear="1200" fadeFar="1500" mapVisibility="0" miniMapVisibility="0"/>
-
-		<!-- MISSION CHALLENGE: HORDE OF FOES -->
-		<POI MapID="1370" xpos="-227.151" ypos="0"       zpos="176.786"  type="story_journal.season_5.steel_and_fire.mission_challenge_horde_of_foes" GUID="pDfbVSbx2k6Y7t0IIAmTYQ==" mapDisplaySize="18"/>
-		<POI MapID="1370" xpos="-227.151" ypos="2"       zpos="176.786"  type="story_journal.season_5.steel_and_fire.mission_challenge_horde_of_foes" GUID="NLjHyOktnE+JrIXMcdRC0w==" iconFile="Img/Season5/ForgingSteel_SquadAchievements.png" minSize="140" maxSize="140" fadeNear="1200" fadeFar="1500" mapVisibility="0" miniMapVisibility="0"/>
-		<POI MapID="1368" xpos="160.34"   ypos="3.44854" zpos="-363.802" type="story_journal.season_5.steel_and_fire.mission_challenge_horde_of_foes" GUID="s+dirlZUv0O5VlBOXSQB/Q==" heightOffset="0.5"/>
-		<POI MapID="1368" xpos="156.416"  ypos="6"       zpos="-366.842" type="story_journal.season_5.steel_and_fire.mission_challenge_horde_of_foes" GUID="HP4/AQlrQUue8TlHilVuUQ==" iconFile="Img/Season5/MissionChallenge_HordeOfFoes.png" minSize="140" maxSize="140" fadeNear="1200" fadeFar="1500" mapVisibility="0" miniMapVisibility="0"/>
-
-		<!-- MISSION CHALLENGE: POWERFUL FOES -->
-		<POI MapID="1370" xpos="-227.151" ypos="0"       zpos="176.786"  type="story_journal.season_5.steel_and_fire.mission_challenge_powerful_foes" GUID="Ufj9jjiY+UmfCGZZczgCxQ==" mapDisplaySize="18"/>
-		<POI MapID="1370" xpos="-227.151" ypos="2"       zpos="176.786"  type="story_journal.season_5.steel_and_fire.mission_challenge_powerful_foes" GUID="JGnMtuo6S0STG5cXaQhQjw==" iconFile="Img/Season5/ForgingSteel_SquadAchievements.png" minSize="140" maxSize="140" fadeNear="1200" fadeFar="1500" mapVisibility="0" miniMapVisibility="0"/>
-		<POI MapID="1368" xpos="160.34"   ypos="3.44854" zpos="-363.802" type="story_journal.season_5.steel_and_fire.mission_challenge_powerful_foes" GUID="kJFRME7tr0eEUXb3KDr/5A==" heightOffset="0.5"/>
-		<POI MapID="1368" xpos="154.953"  ypos="3"       zpos="-362.978" type="story_journal.season_5.steel_and_fire.mission_challenge_powerful_foes" GUID="BXIhBXEhskWt35Mj3uteOg==" iconFile="Img/Season5/MissionChallenge_PowerfulFoes.png" minSize="140" maxSize="140" fadeNear="1200" fadeFar="1500" mapVisibility="0" miniMapVisibility="0"/>
-
-		<!-- MISSION CHALLENGE: TANK ESCORT -->
-		<POI MapID="1370" xpos="-227.151" ypos="0"       zpos="176.786"  type="story_journal.season_5.steel_and_fire.mission_challenge_tank_escort" GUID="gvdxv2TM1kuHSD2daWaI3A==" mapDisplaySize="18"/>
-		<POI MapID="1370" xpos="-227.151" ypos="2"       zpos="176.786"  type="story_journal.season_5.steel_and_fire.mission_challenge_tank_escort" GUID="/6jBoUsA/kKryt4481cogw==" iconFile="Img/Season5/ForgingSteel_SquadAchievements.png" minSize="140" maxSize="140" fadeNear="1200" fadeFar="1500" mapVisibility="0" miniMapVisibility="0"/>
-		<POI MapID="1368" xpos="160.34"   ypos="3.44854" zpos="-363.802" type="story_journal.season_5.steel_and_fire.mission_challenge_tank_escort" GUID="4GJvgod2hUWbjAhlig+SLw==" heightOffset="0.5"/>
-		<POI MapID="1368" xpos="156.167"  ypos="6"       zpos="-358.305" type="story_journal.season_5.steel_and_fire.mission_challenge_tank_escort" GUID="uRra2EhonEurGBfmlheDXg==" iconFile="Img/Season5/MissionChallenge_TankEscort.png" minSize="140" maxSize="140" fadeNear="1200" fadeFar="1500" mapVisibility="0" miniMapVisibility="0"/>
-
-		<!-- MOVING UP THE RANKS -->
-		<POI MapID="1370" xpos="-227.151" ypos="0"       zpos="176.786"  type="story_journal.season_5.steel_and_fire.moving_up_the_ranks" GUID="pk6X3C98JUSK71KQdnrZ1g==" mapDisplaySize="18"/>
-		<POI MapID="1370" xpos="-227.151" ypos="2"       zpos="176.786"  type="story_journal.season_5.steel_and_fire.moving_up_the_ranks" GUID="JlwsxIG2RkuckK9Ce/JPLQ==" iconFile="Img/Season5/ForgingSteel_SquadAchievements.png" minSize="140" maxSize="140" fadeNear="1200" fadeFar="1500" mapVisibility="0" miniMapVisibility="0"/>
-		<POI MapID="1368" xpos="160.34"   ypos="3.44854" zpos="-363.802" type="story_journal.season_5.steel_and_fire.moving_up_the_ranks" GUID="CGVa1fAdY02IQjVS0VD8iQ==" heightOffset="0.5"/>
-		<POI MapID="1368" xpos="154.953"  ypos="9"       zpos="-362.978" type="story_journal.season_5.steel_and_fire.moving_up_the_ranks" GUID="t+tfEllPe0aWC+DGQJ59Ug==" iconFile="Img/Season5/MovingUpTheRanks.png" minSize="140" maxSize="140" fadeNear="1200" fadeFar="1500" mapVisibility="0" miniMapVisibility="0"/>
-
-		<!-- NICABAR STEELWEAVER'S FOOTSTEPS -->
-		<POI MapID="1370" xpos="-100.377" ypos="1.92363" zpos="38.2302"  type="story_journal.season_5.steel_and_fire.nicabar_steelweavers_footsteps.1"  GUID="APElZMNQKkGyaLorl0RwZg==" mapDisplaySize="18"/>
-		<POI MapID="1370" xpos="-107.88"  ypos="1.92363" zpos="48.2274"  type="story_journal.season_5.steel_and_fire.nicabar_steelweavers_footsteps.2"  GUID="c5BViVf+Z0ysFdi8+bIpSg==" heightOffset="3" mapDisplaySize="18"/>
-		<POI MapID="21"   xpos="673.159"  ypos="47.408"  zpos="-60.5447" type="story_journal.season_5.steel_and_fire.nicabar_steelweavers_footsteps.3"  GUID="T4wRiacpj0S0fImOhZmnsA==" heightOffset="3"/>
-		<POI MapID="21"   xpos="187.784"  ypos="19.1372" zpos="876.02"   type="story_journal.season_5.steel_and_fire.nicabar_steelweavers_footsteps.4"  GUID="flCWaIFGbkaVzSS/F+pLQw=="/>
-		<POI MapID="21"   xpos="-759.19"  ypos="26.35"   zpos="584.09"   type="story_journal.season_5.steel_and_fire.nicabar_steelweavers_footsteps.5"  GUID="Db+Ke6WtWEWqYUaRQXoCcw=="/>
-		<POI MapID="21"   xpos="-759.19"  ypos="27.35"   zpos="584.09"   type="story_journal.season_5.steel_and_fire.nicabar_steelweavers_footsteps.5"  GUID="mLQast0g5Uqq+1IUXUAfXQ==" iconFile="Img/Season5/NicabarSteelweaversFootsteps_5.png" minSize="140" maxSize="140" fadeNear="1000" fadeFar="1200" mapVisibility="0" miniMapVisibility="0"/>
-		<POI MapID="1330" xpos="58.3901"  ypos="30.6893" zpos="-567.607" type="story_journal.season_5.steel_and_fire.nicabar_steelweavers_footsteps.6"  GUID="07jsr7KXSEi+E1SK418LCg==" heightOffset="1"/>
-		<POI MapID="1330" xpos="-129.76"  ypos="3.55813" zpos="81.2871"  type="story_journal.season_5.steel_and_fire.nicabar_steelweavers_footsteps.6"  GUID="/KMyqTaQdU68LAdvz7kOfA=="/>
-		<POI MapID="1330" xpos="-129.76"  ypos="4.55813" zpos="81.2871"  type="story_journal.season_5.steel_and_fire.nicabar_steelweavers_footsteps.6"  GUID="wyWHzRCKUUuXlhtybItODw==" iconFile="Img/Season5/NicabarSteelweaversFootsteps_6.png" minSize="140" maxSize="140" fadeNear="1000" fadeFar="1200" mapVisibility="0" miniMapVisibility="0"/>
-		<POI MapID="1330" xpos="-466.988" ypos="97.486"  zpos="-234.744" type="story_journal.season_5.steel_and_fire.nicabar_steelweavers_footsteps.7"  GUID="imEKmbO9sUWkspaSY6l5iw=="/>
-		<POI MapID="15"   xpos="-502.59"  ypos="36.065"  zpos="-449.865" type="story_journal.season_5.steel_and_fire.nicabar_steelweavers_footsteps.8"  GUID="0iLkF8kjSEW/WRRssAUs7Q=="/>
-		<POI MapID="51"   xpos="244.44"   ypos="-60.25"  zpos="97.47"    type="story_journal.season_5.steel_and_fire.nicabar_steelweavers_footsteps.9" GUID="2KViDSOY+UCvggPjU8Kkhg=="/>
-		<POI MapID="51"   xpos="244.44"   ypos="-59.25"  zpos="97.47"    type="story_journal.season_5.steel_and_fire.nicabar_steelweavers_footsteps.9" GUID="Yjqe6O+GEE+DxKSeEWpdlA==" iconFile="Img/Season5/NicabarSteelweaversFootsteps_9.png" minSize="140" maxSize="140" fadeNear="1000" fadeFar="1200" mapVisibility="0" miniMapVisibility="0"/>
-		<POI MapID="17"   xpos="735.409"  ypos="133.542" zpos="666.227"  type="story_journal.season_5.steel_and_fire.nicabar_steelweavers_footsteps.10" GUID="onijDHAmmE6lxe5qkYRlWA=="/>
-		<POI MapID="1362" xpos="-294.297" ypos="135.01"  zpos="469.244"  type="story_journal.season_5.steel_and_fire.nicabar_steelweavers_footsteps.13" GUID="+B7sk315u0avA6ZIxXmi5w=="/>
-		<POI MapID="1368" xpos="-294.297" ypos="135.01"  zpos="469.244"  type="story_journal.season_5.steel_and_fire.nicabar_steelweavers_footsteps.13" GUID="0jKQR6WYMkWmnses/0mH1Q=="/>
-		<POI MapID="1330" xpos="-19.8099" ypos="40.0915" zpos="244.703"  type="story_journal.season_5.steel_and_fire.nicabar_steelweavers_footsteps.14" GUID="Yk/qxWdJ5k+KYtOhosrybQ=="/>
-		<POI MapID="1330" xpos="-17.2137" ypos="40.1808" zpos="247.878"  type="story_journal.season_5.steel_and_fire.nicabar_steelweavers_footsteps.14" GUID="8WQbEJ8ueES9itCl/76zeg==" iconFile="Img/Icons/Interaction.png" maxSize="18" fadeNear="800" fadeFar="1200" heightOffset="0.5" mapVisibility="0" miniMapVisibility="0"/>
-		<Trail type="story_journal.season_5.steel_and_fire.nicabar_steelweavers_footsteps.14" GUID="gq63nUHXWUut3KW08XviSw==" trailData="Data/StoryJournal/Season5/SteelAndFire/NicabarSteelweaversFootsteps_14.trl" texture="Data/Dot.png" color="ff00ffff" alpha="0.8" fadeNear="1500" fadeFar="2500" animSpeed="0" mapDisplaySize="10"/>
-		<POI MapID="1370" xpos="-100.377" ypos="1.92363" zpos="38.2302"  type="story_journal.season_5.steel_and_fire.nicabar_steelweavers_footsteps.16" GUID="rHRRqgGssEmiyPam0kTauA==" mapDisplaySize="18"/>
-
-		<!-- ONSITE PROCUREMENT -->
-		<POI MapID="1362" xpos="150.92" ypos="4.5" zpos="-435.801" type="story_journal.season_5.steel_and_fire.onsite_procurement" GUID="FNxqmzJjEk+dp4JS+vPrlA==" fadeNear="5000" fadeFar="8000"/>
-		<POI MapID="1362" xpos="150.92" ypos="6"   zpos="-435.801" type="story_journal.season_5.steel_and_fire.onsite_procurement" GUID="98O4rdLaVUm8VGWVVIpkHA==" iconFile="Img/Season5/OnsiteProcurement.png" minSize="140" maxSize="140" fadeNear="1000" fadeFar="1200" mapVisibility="0" miniMapVisibility="0"/>
-		<POI MapID="1368" xpos="150.92" ypos="4.5" zpos="-435.801" type="story_journal.season_5.steel_and_fire.onsite_procurement" GUID="5jMxnCVi8EuYFVlpKA2/vg==" fadeNear="5000" fadeFar="8000"/>
-		<POI MapID="1368" xpos="150.92" ypos="6"   zpos="-435.801" type="story_journal.season_5.steel_and_fire.onsite_procurement" GUID="le/QZAevqEWCCgLOFg4S+A==" iconFile="Img/Season5/OnsiteProcurement.png" minSize="140" maxSize="140" fadeNear="1000" fadeFar="1200" mapVisibility="0" miniMapVisibility="0"/>
-
-		<!-- OUT OF THE COLD -->
-		<POI MapID="1370" xpos="-135.969" ypos="1.92363" zpos="20.4842" type="story_journal.season_5.steel_and_fire.out_of_the_cold" GUID="ZpSJaE4HcEeQuTSvXBbGyw==" heightOffset="4" mapDisplaySize="18"/>
-
-		<!-- PREPARING THE EYE -->
-		<POI MapID="1370" xpos="-143.317" ypos="1.92362" zpos="83.398" type="story_journal.season_5.steel_and_fire.preparing_the_eye" GUID="gxQv0u7CNkqaxLwqyu4NyQ==" heightOffset="3" mapDisplaySize="18"/>
-
-		<!-- RANOAH GRINDSTEEL'S FOOTSTEPS -->
-		<POI MapID="1370" xpos="-100.377" ypos="1.92363" zpos="38.2302"  type="story_journal.season_5.steel_and_fire.ranoah_grindsteels_footsteps.1"  GUID="/8B2eYbIP0u40/rOptH4fg==" mapDisplaySize="18"/>
-		<POI MapID="1370" xpos="-107.88"  ypos="1.92363" zpos="48.2274"  type="story_journal.season_5.steel_and_fire.ranoah_grindsteels_footsteps.2"  GUID="1cgWR1V5DkKqUjLJ01sCmA==" heightOffset="3" mapDisplaySize="18"/>
-		<POI MapID="1330" xpos="15.5613"  ypos="45.2896" zpos="-616.198" type="story_journal.season_5.steel_and_fire.ranoah_grindsteels_footsteps.3"  GUID="FK5KecjqH0uPJYGCjFr/RA=="/>
-		<POI MapID="1330" xpos="15.5613"  ypos="46.2896" zpos="-616.198" type="story_journal.season_5.steel_and_fire.ranoah_grindsteels_footsteps.3"  GUID="Pxn4Aa7zNkC+vpit8aWFMQ==" iconFile="Img/Emotes/Sit.png" maxSize="40" fadeNear="1300" fadeFar="1500" mapVisibility="0" miniMapVisibility="0"/>
-		<POI MapID="1330" xpos="752.756"  ypos="2.35426" zpos="332.583"  type="story_journal.season_5.steel_and_fire.ranoah_grindsteels_footsteps.4"  GUID="NZkcmeYCTU2PxaMYY6cTcA=="/>
-		<POI MapID="1330" xpos="-268.347" ypos="35.7354" zpos="-187.513" type="story_journal.season_5.steel_and_fire.ranoah_grindsteels_footsteps.5"  GUID="mAfzDre1IkCXc5CHrgQYng=="/>
-		<POI MapID="22"   xpos="777.304"  ypos="5.76793" zpos="-713.803" type="story_journal.season_5.steel_and_fire.ranoah_grindsteels_footsteps.6"  GUID="4AhrMNaWi02AnNGXnR3NtQ=="/>
-		<POI MapID="22"   xpos="307.06"   ypos="0.22293" zpos="-521.776" type="story_journal.season_5.steel_and_fire.ranoah_grindsteels_footsteps.7"  GUID="J9vnENBCrUabR7/9UCkWig=="/>
-		<POI MapID="22"   xpos="307.06"   ypos="1.22293" zpos="-521.776" type="story_journal.season_5.steel_and_fire.ranoah_grindsteels_footsteps.7"  GUID="R6KkwnT1LUqeE5yqY1U2SQ==" iconFile="Img/Season5/RanoahGrindsteelsFootsteps_7.png" minSize="140" maxSize="140" fadeNear="1000" fadeFar="1200" mapVisibility="0" miniMapVisibility="0"/>
-		<POI MapID="218"  xpos="150.478"  ypos="141.373" zpos="393.878"  type="story_journal.season_5.steel_and_fire.ranoah_grindsteels_footsteps.8"  GUID="nLQ/bHGA6UOeCh/X2yo4GA=="/>
-		<POI MapID="26"   xpos="-578.997" ypos="8.97166" zpos="601.719"  type="story_journal.season_5.steel_and_fire.ranoah_grindsteels_footsteps.9"  GUID="sCofDXhfzUCYAIeVWGxMAw=="/>
-		<POI MapID="26"   xpos="-578.997" ypos="9.97166" zpos="601.719"  type="story_journal.season_5.steel_and_fire.ranoah_grindsteels_footsteps.9"  GUID="zsRQHc5JekiqLb9axIAOJQ==" iconFile="Img/Season5/RanoahGrindsteelsFootsteps_9.png" minSize="140" maxSize="140" fadeNear="1000" fadeFar="1200" mapVisibility="0" miniMapVisibility="0"/>
-		<POI MapID="873"  xpos="571.654"  ypos="6.27531" zpos="203.908"  type="story_journal.season_5.steel_and_fire.ranoah_grindsteels_footsteps.10" GUID="ta6qkFJXfkqqDeOzJoFfUw=="/>
-		<POI MapID="873"  xpos="77.003"   ypos="41.4512" zpos="-26.3579" type="story_journal.season_5.steel_and_fire.ranoah_grindsteels_footsteps.10" GUID="IbQpJVvbBUylLuT7U+WB3A=="/>
-		<POI MapID="873"  xpos="-41.356"  ypos="30.9601" zpos="-256.874" type="story_journal.season_5.steel_and_fire.ranoah_grindsteels_footsteps.10" GUID="L3A2FGVnAEK14mrTlba8JA=="/>
-		<POI MapID="20"   xpos="382.269"  ypos="38.7326" zpos="956.613"  type="story_journal.season_5.steel_and_fire.ranoah_grindsteels_footsteps.12" GUID="/MEuZ4492Uq9l009VNo5IA=="/>
-		<POI MapID="20"   xpos="382.269"  ypos="38.7326" zpos="956.613"  type="story_journal.season_5.steel_and_fire.ranoah_grindsteels_footsteps.12" GUID="7FpSWtNMTU6UfVFzMfAE7g==" iconFile="Img/Season5/RanoahGrindsteelsFootsteps_12.png" minSize="140" maxSize="140" fadeNear="1000" fadeFar="1200" mapVisibility="0" miniMapVisibility="0"/>
-		<POI MapID="1362" xpos="-287.419" ypos="133.88"  zpos="468.031"  type="story_journal.season_5.steel_and_fire.ranoah_grindsteels_footsteps.13" GUID="SLD4JQLFQEWvnFDr899pjg=="/>
-		<POI MapID="1368" xpos="-287.419" ypos="133.88"  zpos="468.031"  type="story_journal.season_5.steel_and_fire.ranoah_grindsteels_footsteps.13" GUID="PccN5Tc8KEK5q7zy+ZFpGA=="/>
-		<Trail type="story_journal.season_5.steel_and_fire.ranoah_grindsteels_footsteps.14" GUID="oocvruQznk2CA32IbQxsSg==" trailData="Data/StoryJournal/Season5/SteelAndFire/RanoahGrindsteelsFootsteps_14.trl" texture="Data/SemiLine.png" color="ff00ffff" alpha="0.8" fadeNear="1500" fadeFar="2000" animSpeed="0" mapDisplaySize="18"/>
-		<POI MapID="32"   xpos="-725.196" ypos="58.4116" zpos="176.479"  type="story_journal.season_5.steel_and_fire.ranoah_grindsteels_footsteps.14" GUID="srgezN0hTEOrTdh1Eb5kfQ=="/>
-		<POI MapID="1370" xpos="-100.377" ypos="1.92363" zpos="38.2302"  type="story_journal.season_5.steel_and_fire.ranoah_grindsteels_footsteps.16" GUID="h/MY1Sl4GEaZMlMV4VjlCQ==" mapDisplaySize="18"/>
-
-		<!-- RYLAND STEELCATCHER'S FOOTSTEPS -->
-		<POI MapID="1370" xpos="-100.377" ypos="1.92363"  zpos="38.2302"  type="story_journal.season_5.steel_and_fire.ryland_steelcatchers_footsteps.1"  GUID="r3F7oKt89Uylb+wETHQrIA==" mapDisplaySize="18"/>
-		<POI MapID="1370" xpos="-107.88"  ypos="1.92363"  zpos="48.2274"  type="story_journal.season_5.steel_and_fire.ryland_steelcatchers_footsteps.2"  GUID="rYr3gRMQjkGAUONe5NpeRg==" heightOffset="3" mapDisplaySize="18"/>
-		<POI MapID="22"   xpos="866.141"  ypos="60.9578"  zpos="693.38"   type="story_journal.season_5.steel_and_fire.ryland_steelcatchers_footsteps.3"  GUID="OGo12s9eLEulthIgBHCLeg=="/>
-		<POI MapID="1370" xpos="-79.807"  ypos="4.49938"  zpos="34.6593"  type="story_journal.season_5.steel_and_fire.ryland_steelcatchers_footsteps.4"  GUID="wRYI6gGCbE6hT8b1Bis79g==" mapDisplaySize="18"/>
-		<POI MapID="1330" xpos="-268.916" ypos="-3.62737" zpos="-410.101" type="story_journal.season_5.steel_and_fire.ryland_steelcatchers_footsteps.5"  GUID="mm6F/RCrJUesdVzJQ/L4lg=="/>
-		<POI MapID="1330" xpos="-274.157" ypos="30.0301"  zpos="-144.462" type="story_journal.season_5.steel_and_fire.ryland_steelcatchers_footsteps.6"  GUID="pqUpH0JGgU+izsFszScj8A=="/>
-		<POI MapID="19"   xpos="-129.93"  ypos="51.8434"  zpos="-137.027" type="story_journal.season_5.steel_and_fire.ryland_steelcatchers_footsteps.8"  GUID="3kbQq6f8u0OVqdbRaF407g=="/>
-		<POI MapID="34"   xpos="-408.799" ypos="0.210417" zpos="554.568"  type="story_journal.season_5.steel_and_fire.ryland_steelcatchers_footsteps.9"  GUID="gxgWHONdkEK0wkZeECIhMg=="/>
-		<POI MapID="34"   xpos="-408.799" ypos="1.210417" zpos="554.568"  type="story_journal.season_5.steel_and_fire.ryland_steelcatchers_footsteps.9"  GUID="PTmGGfQfyk+kfEQOGF48TA==" iconFile="Img/Season5/RylandSteelcatchersFootsteps_9.png" minSize="140" maxSize="140" fadeNear="1000" fadeFar="1200" mapVisibility="0" miniMapVisibility="0"/>
-		<POI MapID="30"   xpos="495.528"  ypos="45.7013"  zpos="355.194"  type="story_journal.season_5.steel_and_fire.ryland_steelcatchers_footsteps.10" GUID="vliQRmPqOUqx3s3M4p9Y6A=="/>
-		<POI MapID="20"   xpos="457.853"  ypos="38.4326"  zpos="905.693"  type="story_journal.season_5.steel_and_fire.ryland_steelcatchers_footsteps.12" GUID="BtZMDYzzwk+NpwmRxIeH4Q=="/>
-		<POI MapID="20"   xpos="-78.3595" ypos="30.2135"  zpos="922.375"  type="story_journal.season_5.steel_and_fire.ryland_steelcatchers_footsteps.14" GUID="CVXqFct0GkOL/yo9H/Rg/A==" heightOffset="3"/>
-		<POI MapID="1370" xpos="-79.807"  ypos="4.49938"  zpos="34.6593"  type="story_journal.season_5.steel_and_fire.ryland_steelcatchers_footsteps.15" GUID="oZyM3VMMikGmFPw24ltdkA==" mapDisplaySize="18"/>
-		<POI MapID="1370" xpos="-100.377" ypos="1.92363"  zpos="38.2302"  type="story_journal.season_5.steel_and_fire.ryland_steelcatchers_footsteps.16" GUID="g6Gw24/io0i55SU5cdoNDw==" mapDisplaySize="18"/>
-
-		<!-- SEARCHING FOR INSPIRATION -->
-		<!-- 1 -->	<POI MapID="1301" xpos="-397.829" ypos="51.4553" zpos="-716.324" type="story_journal.season_5.steel_and_fire.searching_for_inspiration" GUID="H67mdT8lzUeIsMSi577/UQ=="/>
-		<!-- 2 -->	<POI MapID="1310" xpos="-222.82"  ypos="163.623" zpos="1073.1"   type="story_journal.season_5.steel_and_fire.searching_for_inspiration" GUID="nNW2viFQlUyuP2VRJ3auBA=="/>
-		<!-- 3 -->	<POI MapID="1317" xpos="725.964"  ypos="105.613" zpos="702.992"  type="story_journal.season_5.steel_and_fire.searching_for_inspiration" GUID="AC+85gqDzU+AMcdy/GDNFQ=="/>
-		<!-- 4 -->	<POI MapID="1330" xpos="-250.582" ypos="55.3395" zpos="126.363"  type="story_journal.season_5.steel_and_fire.searching_for_inspiration" GUID="5XZd6sTuh0quNYWPH0j/Wg=="/>
-		<!-- 5 -->	<POI MapID="21"   xpos="-516.777" ypos="56.7883" zpos="-541.376" type="story_journal.season_5.steel_and_fire.searching_for_inspiration" GUID="i8mbKiWaAkmcJvi06wPUXg=="/>
-		<!-- 6 -->	<POI MapID="1248" xpos="385.906"  ypos="89.2681" zpos="-489.984" type="story_journal.season_5.steel_and_fire.searching_for_inspiration" GUID="ay5zEtsdqEyfudQV52b03g=="/>
-		<!-- 7 -->	<Trail type="story_journal.season_5.steel_and_fire.searching_for_inspiration" GUID="Bm6uJG/lxkugYrx6ddTs3w==" trailData="Data/StoryJournal/Season5/SteelAndFire/SearchingTheInspiration_7.trl" texture="Data/SemiLine.png" color="ff00ffff" alpha="0.8" fadeNear="1500" fadeFar="2000" animSpeed="0" mapDisplaySize="18"/>
-					<POI MapID="50"   xpos="-469.536" ypos="23.5752" zpos="151.513"  type="story_journal.season_5.steel_and_fire.searching_for_inspiration" GUID="0o0IUzS5bUelL4lm1sJ9mw==" heightOffset="0.25"/>
-					<POI MapID="50"   xpos="-498.059" ypos="2.25342" zpos="75.9246"  type="story_journal.season_5.steel_and_fire.searching_for_inspiration" GUID="cR97TG9ET0a2I8D0/4f3ZA==" heightOffset="0.25" fadeNear="1200" fadeFar="1400" mapVisibility="0" miniMapVisibility="0"/>
-		<!-- 8 -->	<POI MapID="1370" xpos="-103.767" ypos="1.92891" zpos="95.0766"  type="story_journal.season_5.steel_and_fire.searching_for_inspiration" GUID="+zZUzItqs0SVQThPRGxMBQ==" heightOffset="4" mapDisplaySize="18"/>
-		<!-- 9 -->	<POI MapID="1343" xpos="1160.27"  ypos="48.5855" zpos="-84.9528" type="story_journal.season_5.steel_and_fire.searching_for_inspiration" GUID="ZjEhUfY4AUOgOI/9e6N8TA=="/>
-		<!-- 10 -->	<POI MapID="1370" xpos="-135.969" ypos="1.92363" zpos="20.4842"  type="story_journal.season_5.steel_and_fire.searching_for_inspiration" GUID="LSaYXn7WZU+vI9N3xoc9OQ==" heightOffset="4" mapDisplaySize="18"/>
-
-		<!-- SLAVER'S EXTINCTION -->
-		<POI MapID="1362" xpos="145.527" ypos="4.5" zpos="-436.513" type="story_journal.season_5.steel_and_fire.slavers_extinction" GUID="Zeci3PxEIEKoSs2bpipNTA==" fadeNear="5000" fadeFar="8000"/>
-		<POI MapID="1362" xpos="145.527" ypos="6"   zpos="-436.513" type="story_journal.season_5.steel_and_fire.slavers_extinction" GUID="jo6vSMbZFUy6VOga+41gBA==" iconFile="Img/Season5/SlaversExtinction.png" minSize="140" maxSize="140" fadeNear="1000" fadeFar="1200" mapVisibility="0" miniMapVisibility="0"/>
-		<POI MapID="1368" xpos="145.527" ypos="4.5" zpos="-436.513" type="story_journal.season_5.steel_and_fire.slavers_extinction" GUID="/BXJa+oXuUGMJLNjt9VNGw==" fadeNear="5000" fadeFar="8000"/>
-		<POI MapID="1368" xpos="145.527" ypos="6"   zpos="-436.513" type="story_journal.season_5.steel_and_fire.slavers_extinction" GUID="9FbfictmDUyNN2lZa4Sa+g==" iconFile="Img/Season5/SlaversExtinction.png" minSize="140" maxSize="140" fadeNear="1000" fadeFar="1200" mapVisibility="0" miniMapVisibility="0"/>
-
-		<!-- SPA DAY -->
-		<POI MapID="1362" xpos="255.939" ypos="0.593066" zpos="-448.557" type="story_journal.season_5.steel_and_fire.spa_day" GUID="W3H4mX3TtEuSMmiCOgbC9g==" heightOffset="0.25"/>
-		<POI MapID="1362" xpos="255.939" ypos="1.593066" zpos="-448.557" type="story_journal.season_5.steel_and_fire.spa_day" GUID="e+1OLvQGfEK+rY8Tq64d4g==" iconFile="Img/Season5/SpaDay.png" minSize="120" maxSize="140" fadeNear="1500" fadeFar="2000" mapVisibility="0" miniMapVisibility="0"/>
-		<POI MapID="1368" xpos="255.939" ypos="0.593066" zpos="-448.557" type="story_journal.season_5.steel_and_fire.spa_day" GUID="E3xL7MNrPUa2byLV01VtLw==" heightOffset="0.25"/>
-		<POI MapID="1368" xpos="255.939" ypos="1.593066" zpos="-448.557" type="story_journal.season_5.steel_and_fire.spa_day" GUID="dufp33kyRU6J8oYTD2FojQ==" iconFile="Img/Season5/SpaDay.png" minSize="120" maxSize="140" fadeNear="1500" fadeFar="2000" mapVisibility="0" miniMapVisibility="0"/>
-
-		<!-- THE SPOTTER -->
-		<POI MapID="1362" xpos="140.268" ypos="4.5" zpos="-437.808" type="story_journal.season_5.steel_and_fire.the_spotter" GUID="MC9A/Ob4nECOxfdnWFt6Nw==" fadeNear="5000" fadeFar="8000"/>
-		<POI MapID="1362" xpos="140.268" ypos="6.5" zpos="-437.808" type="story_journal.season_5.steel_and_fire.the_spotter" GUID="kyef0YLVWkCIiIyUCRm8Tw==" iconFile="Img/Season5/TheSpotter.png" minSize="140" maxSize="140" fadeNear="1000" fadeFar="1200" mapVisibility="0" miniMapVisibility="0"/>
-		<POI MapID="1368" xpos="140.268" ypos="4.5" zpos="-437.808" type="story_journal.season_5.steel_and_fire.the_spotter" GUID="teUHnubhoE680GSxxisD6g==" fadeNear="5000" fadeFar="8000"/>
-		<POI MapID="1368" xpos="140.268" ypos="6.5" zpos="-437.808" type="story_journal.season_5.steel_and_fire.the_spotter" GUID="RiN7TUvaxk2Hp8fzvF7PFA==" iconFile="Img/Season5/TheSpotter.png" minSize="140" maxSize="140" fadeNear="1000" fadeFar="1200" mapVisibility="0" miniMapVisibility="0"/>
 		<!-- 1 -->
-		<Trail type="story_journal.season_5.steel_and_fire.the_spotter" GUID="rl8Y0WkhN0aB0oCbYC8MmA==" trailData="Data/StoryJournal/Season5/SteelAndFire/TheSpotter_1_Public.trl" texture="Data/SemiLine.png" color="ffff8000" alpha="0.8" fadeNear="2500" fadeFar="3000" animSpeed="0" mapDisplaySize="15"/>
-		<Trail type="story_journal.season_5.steel_and_fire.the_spotter" GUID="baZRyQZBWUGOQjQMP56H3Q==" trailData="Data/StoryJournal/Season5/SteelAndFire/TheSpotter_1_Squad.trl"  texture="Data/SemiLine.png" color="ffff8000" alpha="0.8" fadeNear="2500" fadeFar="3000" animSpeed="0" mapDisplaySize="15"/>
-		<POI MapID="1362" xpos="-143.09"  ypos="63.7657" zpos="-330.822" type="story_journal.season_5.steel_and_fire.the_spotter" GUID="Tmnr9fabQ02WptIx8qjDSw==" iconFile="Img/Icons/EventTarget.png" heightOffset="0" fadeNear="12000" fadeFar="15000"/>
-		<POI MapID="1368" xpos="-143.09"  ypos="63.7657" zpos="-330.822" type="story_journal.season_5.steel_and_fire.the_spotter" GUID="eKiy5FAeHEmVHuJhu0i95g==" iconFile="Img/Icons/EventTarget.png" heightOffset="0" fadeNear="12000" fadeFar="15000"/>
+		<POI MapID="1362" xpos="-272.625" ypos="132.84" zpos="442.908" type="story_journal.season_5.steel_and_fire.fallen_from_the_summit" GUID="DMxdwCF060CuTFbqdr1oKw==" />
+		<POI MapID="1368" xpos="-272.625" ypos="132.84" zpos="442.908" type="story_journal.season_5.steel_and_fire.fallen_from_the_summit" GUID="+Qa7X/8040Ccq8dX22qcPg==" />
 		<!-- 2 -->
-		<Trail type="story_journal.season_5.steel_and_fire.the_spotter" GUID="l+Pf4QD7pUC7GZ7mrtZ6nw==" trailData="Data/StoryJournal/Season5/SteelAndFire/TheSpotter_2_Public.trl" texture="Data/SemiLine.png" color="ffff8000" alpha="0.8" fadeNear="2500" fadeFar="3000" animSpeed="0" mapDisplaySize="15"/>
-		<Trail type="story_journal.season_5.steel_and_fire.the_spotter" GUID="5v+jTWvggUyMV/vjZyRkWw==" trailData="Data/StoryJournal/Season5/SteelAndFire/TheSpotter_2_Squad.trl"  texture="Data/SemiLine.png" color="ffff8000" alpha="0.8" fadeNear="2500" fadeFar="3000" animSpeed="0" mapDisplaySize="15"/>
-		<POI MapID="1362" xpos="-143.648" ypos="158.475" zpos="192.424" type="story_journal.season_5.steel_and_fire.the_spotter" GUID="nB6mJqfuaUa6GysYy2gILQ==" iconFile="Img/Icons/EventTarget.png" heightOffset="0" fadeNear="12000" fadeFar="15000"/>
-		<POI MapID="1368" xpos="-143.648" ypos="158.475" zpos="192.424" type="story_journal.season_5.steel_and_fire.the_spotter" GUID="z9HgPTyPTU23Z1Yy/NLfPw==" iconFile="Img/Icons/EventTarget.png" heightOffset="0" fadeNear="12000" fadeFar="15000"/>
+		<Trail type="story_journal.season_5.steel_and_fire.fallen_from_the_summit" GUID="pslxI5+jGE+IOnY742Y5xQ==" trailData="Data/StoryJournal/Season5/SteelAndFire/FallenFromTheSummit_2_Public.trl" texture="Data/SemiLine.png" color="ff00ff00" alpha="0.8" fadeNear="2500" fadeFar="3000" animSpeed="0" mapDisplaySize="15" />
+		<Trail type="story_journal.season_5.steel_and_fire.fallen_from_the_summit" GUID="Oea5WtU7uUCdTqr2K8ovSA==" trailData="Data/StoryJournal/Season5/SteelAndFire/FallenFromTheSummit_2_Squad.trl" texture="Data/SemiLine.png" color="ff00ff00" alpha="0.8" fadeNear="2500" fadeFar="3000" animSpeed="0" mapDisplaySize="15" />
+		<POI MapID="1362" xpos="78.1414" ypos="176.866" zpos="348.698" type="story_journal.season_5.steel_and_fire.fallen_from_the_summit" GUID="OYuOXzgLI0O8rrR5heFA4Q==" />
+		<POI MapID="1368" xpos="78.1414" ypos="176.866" zpos="348.698" type="story_journal.season_5.steel_and_fire.fallen_from_the_summit" GUID="VrCnX9FVG022ptYgfZTr9Q==" />
 		<!-- 3 -->
-		<Trail type="story_journal.season_5.steel_and_fire.the_spotter" GUID="XBclG8/zYkqaRyq05/cmSg==" trailData="Data/StoryJournal/Season5/SteelAndFire/TheSpotter_3_Public.trl" texture="Data/SemiLine.png" color="ffff8000" alpha="0.8" fadeNear="2500" fadeFar="3000" animSpeed="0" mapDisplaySize="15"/>
-		<Trail type="story_journal.season_5.steel_and_fire.the_spotter" GUID="ofuU8R165EyrmIUqw9Ez6A==" trailData="Data/StoryJournal/Season5/SteelAndFire/TheSpotter_3_Squad.trl"  texture="Data/SemiLine.png" color="ffff8000" alpha="0.8" fadeNear="2500" fadeFar="3000" animSpeed="0" mapDisplaySize="15"/>
-		<POI MapID="1362" xpos="-26.5276" ypos="186.662" zpos="250.974" type="story_journal.season_5.steel_and_fire.the_spotter" GUID="AFE8pmukNk6iN+plumjohA==" iconFile="Img/Icons/EventTarget.png" heightOffset="0" fadeNear="12000" fadeFar="15000"/>
-		<POI MapID="1368" xpos="-26.5276" ypos="186.662" zpos="250.974" type="story_journal.season_5.steel_and_fire.the_spotter" GUID="zXGhmfYhtUeMkDaddFuNtw==" iconFile="Img/Icons/EventTarget.png" heightOffset="0" fadeNear="12000" fadeFar="15000"/>
+		<Trail type="story_journal.season_5.steel_and_fire.fallen_from_the_summit" GUID="Hfok/LDkB0+6x2XAEhdN4w==" trailData="Data/StoryJournal/Season5/SteelAndFire/FallenFromTheSummit_3_Public.trl" texture="Data/SemiLine.png" color="ff00ff00" alpha="0.8" fadeNear="2500" fadeFar="3000" animSpeed="0" mapDisplaySize="15" />
+		<Trail type="story_journal.season_5.steel_and_fire.fallen_from_the_summit" GUID="BOKHBS5c50qHuMQLUkcMdA==" trailData="Data/StoryJournal/Season5/SteelAndFire/FallenFromTheSummit_3_Squad.trl" texture="Data/SemiLine.png" color="ff00ff00" alpha="0.8" fadeNear="2500" fadeFar="3000" animSpeed="0" mapDisplaySize="15" />
+		<POI MapID="1362" xpos="112.123" ypos="182.388" zpos="174.018" type="story_journal.season_5.steel_and_fire.fallen_from_the_summit" GUID="KqgkfXHBPk+JJNvHPir2LA==" />
+		<POI MapID="1368" xpos="112.123" ypos="182.388" zpos="174.018" type="story_journal.season_5.steel_and_fire.fallen_from_the_summit" GUID="3m1nL7C3MUuTWa4bLOHA3A==" />
 		<!-- 4 -->
-		<Trail type="story_journal.season_5.steel_and_fire.the_spotter" GUID="C1XdSQsXdE66l4xwZ7oIYg==" trailData="Data/StoryJournal/Season5/SteelAndFire/TheSpotter_4_Public.trl" texture="Data/SemiLine.png" color="ffff8000" alpha="0.8" fadeNear="2500" fadeFar="3000" animSpeed="0" mapDisplaySize="15"/>
-		<Trail type="story_journal.season_5.steel_and_fire.the_spotter" GUID="1guey2sBh0SVgWB6mtWMzQ==" trailData="Data/StoryJournal/Season5/SteelAndFire/TheSpotter_4_Squad.trl"  texture="Data/SemiLine.png" color="ffff8000" alpha="0.8" fadeNear="2500" fadeFar="3000" animSpeed="0" mapDisplaySize="15"/>
-		<POI MapID="1362" xpos="40.3467" ypos="177.799" zpos="380.906" type="story_journal.season_5.steel_and_fire.the_spotter" GUID="Y6TFyKx7s0mbcp0vlsEYsw==" iconFile="Img/Icons/EventTarget.png" heightOffset="0" fadeNear="12000" fadeFar="15000"/>
-		<POI MapID="1368" xpos="40.3467" ypos="177.799" zpos="380.906" type="story_journal.season_5.steel_and_fire.the_spotter" GUID="M3wp8wBFqEuCWBYfGmsvrQ==" iconFile="Img/Icons/EventTarget.png" heightOffset="0" fadeNear="12000" fadeFar="15000"/>
-
+		<Trail type="story_journal.season_5.steel_and_fire.fallen_from_the_summit" GUID="CnsmkS+5oUmccA6KJ7hYvw==" trailData="Data/StoryJournal/Season5/SteelAndFire/FallenFromTheSummit_4_Public.trl" texture="Data/SemiLine.png" color="ff00ff00" alpha="0.8" fadeNear="2500" fadeFar="3000" animSpeed="0" mapDisplaySize="15" />
+		<Trail type="story_journal.season_5.steel_and_fire.fallen_from_the_summit" GUID="6QWoCVpQzEeXVLAACXIyIA==" trailData="Data/StoryJournal/Season5/SteelAndFire/FallenFromTheSummit_4_Squad.trl" texture="Data/SemiLine.png" color="ff00ff00" alpha="0.8" fadeNear="2500" fadeFar="3000" animSpeed="0" mapDisplaySize="15" />
+		<POI MapID="1362" xpos="4.6146" ypos="166.718" zpos="301.254" type="story_journal.season_5.steel_and_fire.fallen_from_the_summit" GUID="2XRjR6zv6USSo+E9le6GpA==" />
+		<POI MapID="1368" xpos="4.6146" ypos="166.718" zpos="301.254" type="story_journal.season_5.steel_and_fire.fallen_from_the_summit" GUID="kPydfiurCU+RSL2x1i2kZA==" />
+		<!-- 5 -->
+		<POI MapID="1362" xpos="-239.35" ypos="122.976" zpos="157.944" type="story_journal.season_5.steel_and_fire.fallen_from_the_summit" GUID="GcKlnoDp8EWGE5jJsutlIg==" />
+		<POI MapID="1368" xpos="-239.35" ypos="122.976" zpos="157.944" type="story_journal.season_5.steel_and_fire.fallen_from_the_summit" GUID="bk3oF3J3/Eu/uoMeso1ddg==" />
+		<!-- 6 -->
+		<Trail type="story_journal.season_5.steel_and_fire.fallen_from_the_summit" GUID="p6UzOy/brEepAhr7I1g+6w==" trailData="Data/StoryJournal/Season5/SteelAndFire/FallenFromTheSummit_6.trl" texture="Data/SemiLine.png" color="ff00ff00" alpha="0.8" fadeNear="2500" fadeFar="3000" animSpeed="0" mapDisplaySize="15" />
+		<POI MapID="1366" xpos="549.318" ypos="204.054" zpos="54.5674" type="story_journal.season_5.steel_and_fire.fallen_from_the_summit" GUID="ZaqO/S0fqEW6IApdqQlFmA==" mapDisplaySize="20" />
+		<!-- 7 -->
+		<Trail type="story_journal.season_5.steel_and_fire.fallen_from_the_summit" GUID="v06CFg+MWEm/P8UJVX/mdQ==" trailData="Data/StoryJournal/Season5/SteelAndFire/FallenFromTheSummit_7.trl" texture="Data/SemiLine.png" color="ff00ff00" alpha="0.8" fadeNear="2500" fadeFar="3000" animSpeed="0" mapDisplaySize="15" />
+		<POI MapID="1366" xpos="389.604" ypos="239.832" zpos="26.3016" type="story_journal.season_5.steel_and_fire.fallen_from_the_summit" GUID="IX7FkLIqD0WsTnqAIdJpSA==" mapDisplaySize="20" />
+		<!-- 8 -->
+		<Trail type="story_journal.season_5.steel_and_fire.fallen_from_the_summit" GUID="VxlbkSrbjEmfMUBDbtT/rg==" trailData="Data/StoryJournal/Season5/SteelAndFire/FallenFromTheSummit_8.trl" texture="Data/SemiLine.png" color="ff00ff00" alpha="0.8" fadeNear="2500" fadeFar="3000" animSpeed="0" mapDisplaySize="15" />
+		<POI MapID="1366" xpos="-333.213" ypos="253.128" zpos="83.3143" type="story_journal.season_5.steel_and_fire.fallen_from_the_summit" GUID="w+IfDeGohk+ZKnZAn7wI4w==" mapDisplaySize="20" />
+		<!-- FIELD MEDICINE -->
+		<POI MapID="1362" xpos="162.168" ypos="4.5" zpos="-437.79" type="story_journal.season_5.steel_and_fire.field_medicine" GUID="iZi4vPjBR0SuRCt7OoyvlQ==" fadeNear="5000" fadeFar="8000" />
+		<POI MapID="1362" xpos="162.168" ypos="6" zpos="-437.79" type="story_journal.season_5.steel_and_fire.field_medicine" GUID="fQ1a0Pz2D0GM6YcjUrenyw==" iconFile="Img/Season5/FieldMedicine.png" minSize="140" maxSize="140" fadeNear="1000" fadeFar="1200" mapVisibility="0" miniMapVisibility="0" />
+		<POI MapID="1368" xpos="162.168" ypos="4.5" zpos="-437.79" type="story_journal.season_5.steel_and_fire.field_medicine" GUID="slr9bCzGk0GlTdnYTHdoAQ==" fadeNear="5000" fadeFar="8000" />
+		<POI MapID="1368" xpos="162.168" ypos="6" zpos="-437.79" type="story_journal.season_5.steel_and_fire.field_medicine" GUID="Iki8ncHf6UuNcp/6g94bKw==" iconFile="Img/Season5/FieldMedicine.png" minSize="140" maxSize="140" fadeNear="1000" fadeFar="1200" mapVisibility="0" miniMapVisibility="0" />
+		<!-- HEATING UP THE DELVES -->
+		<POI MapID="1366" xpos="398.401" ypos="240.149" zpos="32.6833" type="story_journal.season_5.steel_and_fire.heating_up_the_delves" GUID="oEq3ePTQp06UVxqTRfxwkQ==" />
+		<!-- Champion Stone Summit Crusher -->
+		<POI MapID="1366" xpos="149.809" ypos="193.942" zpos="-166.392" type="story_journal.season_5.steel_and_fire.heating_up_the_delves" GUID="b1bFviCl10+kbqOtbCxMPQ==" />
+		<!-- Champion Ice Beast -->
+		<POI MapID="1366" xpos="-263.467" ypos="252.893" zpos="33.7733" type="story_journal.season_5.steel_and_fire.heating_up_the_delves" GUID="hjgBD9Sct0a4ZnJurcFqAQ==" />
+		<!-- Champion Ice Elemental -->
+		<!-- HEAVY RIVAL -->
+		<POI MapID="1362" xpos="156.707" ypos="4.5" zpos="-437.124" type="story_journal.season_5.steel_and_fire.heavy_rival" GUID="4G/vtOv43UGTY0GnCUX3tg==" fadeNear="5000" fadeFar="8000" />
+		<POI MapID="1362" xpos="156.707" ypos="6" zpos="-437.124" type="story_journal.season_5.steel_and_fire.heavy_rival" GUID="d+dnLYHWDUag9LoCEc9uiQ==" iconFile="Img/Season5/HeavyRival.png" minSize="140" maxSize="140" fadeNear="1000" fadeFar="1200" mapVisibility="0" miniMapVisibility="0" />
+		<POI MapID="1368" xpos="156.707" ypos="4.5" zpos="-437.124" type="story_journal.season_5.steel_and_fire.heavy_rival" GUID="HGnUnon7FUSrA2SyJJP6MA==" fadeNear="5000" fadeFar="8000" />
+		<POI MapID="1368" xpos="156.707" ypos="6" zpos="-437.124" type="story_journal.season_5.steel_and_fire.heavy_rival" GUID="OiCnHkcUskeHxt7JdXu5Ww==" iconFile="Img/Season5/HeavyRival.png" minSize="140" maxSize="140" fadeNear="1000" fadeFar="1200" mapVisibility="0" miniMapVisibility="0" />
+		<!-- MINIS OF STEEL -->
+		<POI MapID="1370" xpos="-107.88" ypos="1.92363" zpos="48.2274" type="story_journal.season_5.steel_and_fire.minis_of_steel" GUID="KxyuNxIe1kyYKO8o+N5bhw==" heightOffset="3" mapDisplaySize="18" />
+		<POI MapID="1370" xpos="-107.88" ypos="2.92363" zpos="48.2274" type="story_journal.season_5.steel_and_fire.minis_of_steel" GUID="302NR01oz0W5lBV0AVFHNw==" iconFile="Img/Season5/MinisOfSteel.png" minSize="140" maxSize="140" fadeNear="1000" fadeFar="1400" heightOffset="3" mapVisibility="0" miniMapVisibility="0" />
+		<!-- MISSION CHALLENGE: CANDIDATE FOR KHAN-UR -->
+		<POI MapID="1370" xpos="-227.151" ypos="0" zpos="176.786" type="story_journal.season_5.steel_and_fire.mission_challenge_candidate_for_khan_ur" GUID="24kOMA2MYkitSXUu6A5Znw==" mapDisplaySize="18" />
+		<POI MapID="1370" xpos="-227.151" ypos="2" zpos="176.786" type="story_journal.season_5.steel_and_fire.mission_challenge_candidate_for_khan_ur" GUID="HmJWs2T9dEyPCRu1LE9Wdg==" iconFile="Img/Season5/ForgingSteel_SquadAchievements.png" minSize="140" maxSize="140" fadeNear="1200" fadeFar="1500" mapVisibility="0" miniMapVisibility="0" />
+		<POI MapID="1368" xpos="160.34" ypos="3.44854" zpos="-363.802" type="story_journal.season_5.steel_and_fire.mission_challenge_candidate_for_khan_ur" GUID="Y3nYa0D7F0+6h2qCuelJzQ==" heightOffset="0.5" />
+		<POI MapID="1368" xpos="159.009" ypos="3" zpos="-354.869" type="story_journal.season_5.steel_and_fire.mission_challenge_candidate_for_khan_ur" GUID="bHjVIcFYjEC7gaVOV+nc3Q==" iconFile="Img/Season5/MissionChallenge_CandidateForKhanUr.png" minSize="140" maxSize="140" fadeNear="1200" fadeFar="1500" mapVisibility="0" miniMapVisibility="0" />
+		<!-- MISSION CHALLENGE: FINAL BOSS -->
+		<POI MapID="1370" xpos="-227.151" ypos="0" zpos="176.786" type="story_journal.season_5.steel_and_fire.mission_challenge_final_boss" GUID="Fd6F0HdNR0KQBvW9KWRh9Q==" mapDisplaySize="18" />
+		<POI MapID="1370" xpos="-227.151" ypos="2" zpos="176.786" type="story_journal.season_5.steel_and_fire.mission_challenge_final_boss" GUID="xNkeVBvkx0qF1CBbMjZp7g==" iconFile="Img/Season5/ForgingSteel_SquadAchievements.png" minSize="140" maxSize="140" fadeNear="1200" fadeFar="1500" mapVisibility="0" miniMapVisibility="0" />
+		<POI MapID="1368" xpos="160.34" ypos="3.44854" zpos="-363.802" type="story_journal.season_5.steel_and_fire.mission_challenge_final_boss" GUID="lm+715KV2kGVVVNkkoW4VA==" heightOffset="0.5" />
+		<POI MapID="1368" xpos="158.819" ypos="3" zpos="-370.991" type="story_journal.season_5.steel_and_fire.mission_challenge_final_boss" GUID="CYOofW/buU+Uhyy4q3F02w==" iconFile="Img/Season5/MissionChallenge_FinalBoss.png" minSize="140" maxSize="140" fadeNear="1200" fadeFar="1500" mapVisibility="0" miniMapVisibility="0" />
+		<!-- MISSION CHALLENGE: HORDE OF FOES -->
+		<POI MapID="1370" xpos="-227.151" ypos="0" zpos="176.786" type="story_journal.season_5.steel_and_fire.mission_challenge_horde_of_foes" GUID="pDfbVSbx2k6Y7t0IIAmTYQ==" mapDisplaySize="18" />
+		<POI MapID="1370" xpos="-227.151" ypos="2" zpos="176.786" type="story_journal.season_5.steel_and_fire.mission_challenge_horde_of_foes" GUID="NLjHyOktnE+JrIXMcdRC0w==" iconFile="Img/Season5/ForgingSteel_SquadAchievements.png" minSize="140" maxSize="140" fadeNear="1200" fadeFar="1500" mapVisibility="0" miniMapVisibility="0" />
+		<POI MapID="1368" xpos="160.34" ypos="3.44854" zpos="-363.802" type="story_journal.season_5.steel_and_fire.mission_challenge_horde_of_foes" GUID="s+dirlZUv0O5VlBOXSQB/Q==" heightOffset="0.5" />
+		<POI MapID="1368" xpos="156.416" ypos="6" zpos="-366.842" type="story_journal.season_5.steel_and_fire.mission_challenge_horde_of_foes" GUID="HP4/AQlrQUue8TlHilVuUQ==" iconFile="Img/Season5/MissionChallenge_HordeOfFoes.png" minSize="140" maxSize="140" fadeNear="1200" fadeFar="1500" mapVisibility="0" miniMapVisibility="0" />
+		<!-- MISSION CHALLENGE: POWERFUL FOES -->
+		<POI MapID="1370" xpos="-227.151" ypos="0" zpos="176.786" type="story_journal.season_5.steel_and_fire.mission_challenge_powerful_foes" GUID="Ufj9jjiY+UmfCGZZczgCxQ==" mapDisplaySize="18" />
+		<POI MapID="1370" xpos="-227.151" ypos="2" zpos="176.786" type="story_journal.season_5.steel_and_fire.mission_challenge_powerful_foes" GUID="JGnMtuo6S0STG5cXaQhQjw==" iconFile="Img/Season5/ForgingSteel_SquadAchievements.png" minSize="140" maxSize="140" fadeNear="1200" fadeFar="1500" mapVisibility="0" miniMapVisibility="0" />
+		<POI MapID="1368" xpos="160.34" ypos="3.44854" zpos="-363.802" type="story_journal.season_5.steel_and_fire.mission_challenge_powerful_foes" GUID="kJFRME7tr0eEUXb3KDr/5A==" heightOffset="0.5" />
+		<POI MapID="1368" xpos="154.953" ypos="3" zpos="-362.978" type="story_journal.season_5.steel_and_fire.mission_challenge_powerful_foes" GUID="BXIhBXEhskWt35Mj3uteOg==" iconFile="Img/Season5/MissionChallenge_PowerfulFoes.png" minSize="140" maxSize="140" fadeNear="1200" fadeFar="1500" mapVisibility="0" miniMapVisibility="0" />
+		<!-- MISSION CHALLENGE: TANK ESCORT -->
+		<POI MapID="1370" xpos="-227.151" ypos="0" zpos="176.786" type="story_journal.season_5.steel_and_fire.mission_challenge_tank_escort" GUID="gvdxv2TM1kuHSD2daWaI3A==" mapDisplaySize="18" />
+		<POI MapID="1370" xpos="-227.151" ypos="2" zpos="176.786" type="story_journal.season_5.steel_and_fire.mission_challenge_tank_escort" GUID="/6jBoUsA/kKryt4481cogw==" iconFile="Img/Season5/ForgingSteel_SquadAchievements.png" minSize="140" maxSize="140" fadeNear="1200" fadeFar="1500" mapVisibility="0" miniMapVisibility="0" />
+		<POI MapID="1368" xpos="160.34" ypos="3.44854" zpos="-363.802" type="story_journal.season_5.steel_and_fire.mission_challenge_tank_escort" GUID="4GJvgod2hUWbjAhlig+SLw==" heightOffset="0.5" />
+		<POI MapID="1368" xpos="156.167" ypos="6" zpos="-358.305" type="story_journal.season_5.steel_and_fire.mission_challenge_tank_escort" GUID="uRra2EhonEurGBfmlheDXg==" iconFile="Img/Season5/MissionChallenge_TankEscort.png" minSize="140" maxSize="140" fadeNear="1200" fadeFar="1500" mapVisibility="0" miniMapVisibility="0" />
+		<!-- MOVING UP THE RANKS -->
+		<POI MapID="1370" xpos="-227.151" ypos="0" zpos="176.786" type="story_journal.season_5.steel_and_fire.moving_up_the_ranks" GUID="pk6X3C98JUSK71KQdnrZ1g==" mapDisplaySize="18" />
+		<POI MapID="1370" xpos="-227.151" ypos="2" zpos="176.786" type="story_journal.season_5.steel_and_fire.moving_up_the_ranks" GUID="JlwsxIG2RkuckK9Ce/JPLQ==" iconFile="Img/Season5/ForgingSteel_SquadAchievements.png" minSize="140" maxSize="140" fadeNear="1200" fadeFar="1500" mapVisibility="0" miniMapVisibility="0" />
+		<POI MapID="1368" xpos="160.34" ypos="3.44854" zpos="-363.802" type="story_journal.season_5.steel_and_fire.moving_up_the_ranks" GUID="CGVa1fAdY02IQjVS0VD8iQ==" heightOffset="0.5" />
+		<POI MapID="1368" xpos="154.953" ypos="9" zpos="-362.978" type="story_journal.season_5.steel_and_fire.moving_up_the_ranks" GUID="t+tfEllPe0aWC+DGQJ59Ug==" iconFile="Img/Season5/MovingUpTheRanks.png" minSize="140" maxSize="140" fadeNear="1200" fadeFar="1500" mapVisibility="0" miniMapVisibility="0" />
+		<!-- NICABAR STEELWEAVER'S FOOTSTEPS -->
+		<POI MapID="1370" xpos="-100.377" ypos="1.92363" zpos="38.2302" type="story_journal.season_5.steel_and_fire.nicabar_steelweavers_footsteps.1" GUID="APElZMNQKkGyaLorl0RwZg==" mapDisplaySize="18" />
+		<POI MapID="1370" xpos="-107.88" ypos="1.92363" zpos="48.2274" type="story_journal.season_5.steel_and_fire.nicabar_steelweavers_footsteps.2" GUID="c5BViVf+Z0ysFdi8+bIpSg==" heightOffset="3" mapDisplaySize="18" />
+		<POI MapID="21" xpos="673.159" ypos="47.408" zpos="-60.5447" type="story_journal.season_5.steel_and_fire.nicabar_steelweavers_footsteps.3" GUID="T4wRiacpj0S0fImOhZmnsA==" heightOffset="3" />
+		<POI MapID="21" xpos="187.784" ypos="19.1372" zpos="876.02" type="story_journal.season_5.steel_and_fire.nicabar_steelweavers_footsteps.4" GUID="flCWaIFGbkaVzSS/F+pLQw==" />
+		<POI MapID="21" xpos="-759.19" ypos="26.35" zpos="584.09" type="story_journal.season_5.steel_and_fire.nicabar_steelweavers_footsteps.5" GUID="Db+Ke6WtWEWqYUaRQXoCcw==" />
+		<POI MapID="21" xpos="-759.19" ypos="27.35" zpos="584.09" type="story_journal.season_5.steel_and_fire.nicabar_steelweavers_footsteps.5" GUID="mLQast0g5Uqq+1IUXUAfXQ==" iconFile="Img/Season5/NicabarSteelweaversFootsteps_5.png" minSize="140" maxSize="140" fadeNear="1000" fadeFar="1200" mapVisibility="0" miniMapVisibility="0" />
+		<POI MapID="1330" xpos="58.3901" ypos="30.6893" zpos="-567.607" type="story_journal.season_5.steel_and_fire.nicabar_steelweavers_footsteps.6" GUID="07jsr7KXSEi+E1SK418LCg==" heightOffset="1" />
+		<POI MapID="1330" xpos="-129.76" ypos="3.55813" zpos="81.2871" type="story_journal.season_5.steel_and_fire.nicabar_steelweavers_footsteps.6" GUID="/KMyqTaQdU68LAdvz7kOfA==" />
+		<POI MapID="1330" xpos="-129.76" ypos="4.55813" zpos="81.2871" type="story_journal.season_5.steel_and_fire.nicabar_steelweavers_footsteps.6" GUID="wyWHzRCKUUuXlhtybItODw==" iconFile="Img/Season5/NicabarSteelweaversFootsteps_6.png" minSize="140" maxSize="140" fadeNear="1000" fadeFar="1200" mapVisibility="0" miniMapVisibility="0" />
+		<POI MapID="1330" xpos="-466.988" ypos="97.486" zpos="-234.744" type="story_journal.season_5.steel_and_fire.nicabar_steelweavers_footsteps.7" GUID="imEKmbO9sUWkspaSY6l5iw==" />
+		<POI MapID="15" xpos="-502.59" ypos="36.065" zpos="-449.865" type="story_journal.season_5.steel_and_fire.nicabar_steelweavers_footsteps.8" GUID="0iLkF8kjSEW/WRRssAUs7Q==" />
+		<POI MapID="51" xpos="244.44" ypos="-60.25" zpos="97.47" type="story_journal.season_5.steel_and_fire.nicabar_steelweavers_footsteps.9" GUID="2KViDSOY+UCvggPjU8Kkhg==" />
+		<POI MapID="51" xpos="244.44" ypos="-59.25" zpos="97.47" type="story_journal.season_5.steel_and_fire.nicabar_steelweavers_footsteps.9" GUID="Yjqe6O+GEE+DxKSeEWpdlA==" iconFile="Img/Season5/NicabarSteelweaversFootsteps_9.png" minSize="140" maxSize="140" fadeNear="1000" fadeFar="1200" mapVisibility="0" miniMapVisibility="0" />
+		<POI MapID="17" xpos="735.409" ypos="133.542" zpos="666.227" type="story_journal.season_5.steel_and_fire.nicabar_steelweavers_footsteps.10" GUID="onijDHAmmE6lxe5qkYRlWA==" />
+		<POI MapID="1362" xpos="-294.297" ypos="135.01" zpos="469.244" type="story_journal.season_5.steel_and_fire.nicabar_steelweavers_footsteps.13" GUID="+B7sk315u0avA6ZIxXmi5w==" />
+		<POI MapID="1368" xpos="-294.297" ypos="135.01" zpos="469.244" type="story_journal.season_5.steel_and_fire.nicabar_steelweavers_footsteps.13" GUID="0jKQR6WYMkWmnses/0mH1Q==" />
+		<POI MapID="1330" xpos="-19.8099" ypos="40.0915" zpos="244.703" type="story_journal.season_5.steel_and_fire.nicabar_steelweavers_footsteps.14" GUID="Yk/qxWdJ5k+KYtOhosrybQ==" />
+		<POI MapID="1330" xpos="-17.2137" ypos="40.1808" zpos="247.878" type="story_journal.season_5.steel_and_fire.nicabar_steelweavers_footsteps.14" GUID="8WQbEJ8ueES9itCl/76zeg==" iconFile="Img/Icons/Interaction.png" maxSize="18" fadeNear="800" fadeFar="1200" heightOffset="0.5" mapVisibility="0" miniMapVisibility="0" />
+		<Trail type="story_journal.season_5.steel_and_fire.nicabar_steelweavers_footsteps.14" GUID="gq63nUHXWUut3KW08XviSw==" trailData="Data/StoryJournal/Season5/SteelAndFire/NicabarSteelweaversFootsteps_14.trl" texture="Data/Dot.png" color="ff00ffff" alpha="0.8" fadeNear="1500" fadeFar="2500" animSpeed="0" mapDisplaySize="10" />
+		<POI MapID="1370" xpos="-100.377" ypos="1.92363" zpos="38.2302" type="story_journal.season_5.steel_and_fire.nicabar_steelweavers_footsteps.16" GUID="rHRRqgGssEmiyPam0kTauA==" mapDisplaySize="18" />
+		<!-- ONSITE PROCUREMENT -->
+		<POI MapID="1362" xpos="150.92" ypos="4.5" zpos="-435.801" type="story_journal.season_5.steel_and_fire.onsite_procurement" GUID="FNxqmzJjEk+dp4JS+vPrlA==" fadeNear="5000" fadeFar="8000" />
+		<POI MapID="1362" xpos="150.92" ypos="6" zpos="-435.801" type="story_journal.season_5.steel_and_fire.onsite_procurement" GUID="98O4rdLaVUm8VGWVVIpkHA==" iconFile="Img/Season5/OnsiteProcurement.png" minSize="140" maxSize="140" fadeNear="1000" fadeFar="1200" mapVisibility="0" miniMapVisibility="0" />
+		<POI MapID="1368" xpos="150.92" ypos="4.5" zpos="-435.801" type="story_journal.season_5.steel_and_fire.onsite_procurement" GUID="5jMxnCVi8EuYFVlpKA2/vg==" fadeNear="5000" fadeFar="8000" />
+		<POI MapID="1368" xpos="150.92" ypos="6" zpos="-435.801" type="story_journal.season_5.steel_and_fire.onsite_procurement" GUID="le/QZAevqEWCCgLOFg4S+A==" iconFile="Img/Season5/OnsiteProcurement.png" minSize="140" maxSize="140" fadeNear="1000" fadeFar="1200" mapVisibility="0" miniMapVisibility="0" />
+		<!-- OUT OF THE COLD -->
+		<POI MapID="1370" xpos="-135.969" ypos="1.92363" zpos="20.4842" type="story_journal.season_5.steel_and_fire.out_of_the_cold" GUID="ZpSJaE4HcEeQuTSvXBbGyw==" heightOffset="4" mapDisplaySize="18" />
+		<!-- PREPARING THE EYE -->
+		<POI MapID="1370" xpos="-143.317" ypos="1.92362" zpos="83.398" type="story_journal.season_5.steel_and_fire.preparing_the_eye" GUID="gxQv0u7CNkqaxLwqyu4NyQ==" heightOffset="3" mapDisplaySize="18" />
+		<!-- RANOAH GRINDSTEEL'S FOOTSTEPS -->
+		<POI MapID="1370" xpos="-100.377" ypos="1.92363" zpos="38.2302" type="story_journal.season_5.steel_and_fire.ranoah_grindsteels_footsteps.1" GUID="/8B2eYbIP0u40/rOptH4fg==" mapDisplaySize="18" />
+		<POI MapID="1370" xpos="-107.88" ypos="1.92363" zpos="48.2274" type="story_journal.season_5.steel_and_fire.ranoah_grindsteels_footsteps.2" GUID="1cgWR1V5DkKqUjLJ01sCmA==" heightOffset="3" mapDisplaySize="18" />
+		<POI MapID="1330" xpos="15.5613" ypos="45.2896" zpos="-616.198" type="story_journal.season_5.steel_and_fire.ranoah_grindsteels_footsteps.3" GUID="FK5KecjqH0uPJYGCjFr/RA==" />
+		<POI MapID="1330" xpos="15.5613" ypos="46.2896" zpos="-616.198" type="story_journal.season_5.steel_and_fire.ranoah_grindsteels_footsteps.3" GUID="Pxn4Aa7zNkC+vpit8aWFMQ==" iconFile="Img/Emotes/Sit.png" maxSize="40" fadeNear="1300" fadeFar="1500" mapVisibility="0" miniMapVisibility="0" />
+		<POI MapID="1330" xpos="752.756" ypos="2.35426" zpos="332.583" type="story_journal.season_5.steel_and_fire.ranoah_grindsteels_footsteps.4" GUID="NZkcmeYCTU2PxaMYY6cTcA==" />
+		<POI MapID="1330" xpos="-268.347" ypos="35.7354" zpos="-187.513" type="story_journal.season_5.steel_and_fire.ranoah_grindsteels_footsteps.5" GUID="mAfzDre1IkCXc5CHrgQYng==" />
+		<POI MapID="22" xpos="777.304" ypos="5.76793" zpos="-713.803" type="story_journal.season_5.steel_and_fire.ranoah_grindsteels_footsteps.6" GUID="4AhrMNaWi02AnNGXnR3NtQ==" />
+		<POI MapID="22" xpos="307.06" ypos="0.22293" zpos="-521.776" type="story_journal.season_5.steel_and_fire.ranoah_grindsteels_footsteps.7" GUID="J9vnENBCrUabR7/9UCkWig==" />
+		<POI MapID="22" xpos="307.06" ypos="1.22293" zpos="-521.776" type="story_journal.season_5.steel_and_fire.ranoah_grindsteels_footsteps.7" GUID="R6KkwnT1LUqeE5yqY1U2SQ==" iconFile="Img/Season5/RanoahGrindsteelsFootsteps_7.png" minSize="140" maxSize="140" fadeNear="1000" fadeFar="1200" mapVisibility="0" miniMapVisibility="0" />
+		<POI MapID="218" xpos="150.478" ypos="141.373" zpos="393.878" type="story_journal.season_5.steel_and_fire.ranoah_grindsteels_footsteps.8" GUID="nLQ/bHGA6UOeCh/X2yo4GA==" />
+		<POI MapID="26" xpos="-578.997" ypos="8.97166" zpos="601.719" type="story_journal.season_5.steel_and_fire.ranoah_grindsteels_footsteps.9" GUID="sCofDXhfzUCYAIeVWGxMAw==" />
+		<POI MapID="26" xpos="-578.997" ypos="9.97166" zpos="601.719" type="story_journal.season_5.steel_and_fire.ranoah_grindsteels_footsteps.9" GUID="zsRQHc5JekiqLb9axIAOJQ==" iconFile="Img/Season5/RanoahGrindsteelsFootsteps_9.png" minSize="140" maxSize="140" fadeNear="1000" fadeFar="1200" mapVisibility="0" miniMapVisibility="0" />
+		<POI MapID="873" xpos="571.654" ypos="6.27531" zpos="203.908" type="story_journal.season_5.steel_and_fire.ranoah_grindsteels_footsteps.10" GUID="ta6qkFJXfkqqDeOzJoFfUw==" />
+		<POI MapID="873" xpos="77.003" ypos="41.4512" zpos="-26.3579" type="story_journal.season_5.steel_and_fire.ranoah_grindsteels_footsteps.10" GUID="IbQpJVvbBUylLuT7U+WB3A==" />
+		<POI MapID="873" xpos="-41.356" ypos="30.9601" zpos="-256.874" type="story_journal.season_5.steel_and_fire.ranoah_grindsteels_footsteps.10" GUID="L3A2FGVnAEK14mrTlba8JA==" />
+		<POI MapID="20" xpos="382.269" ypos="38.7326" zpos="956.613" type="story_journal.season_5.steel_and_fire.ranoah_grindsteels_footsteps.12" GUID="/MEuZ4492Uq9l009VNo5IA==" />
+		<POI MapID="20" xpos="382.269" ypos="38.7326" zpos="956.613" type="story_journal.season_5.steel_and_fire.ranoah_grindsteels_footsteps.12" GUID="7FpSWtNMTU6UfVFzMfAE7g==" iconFile="Img/Season5/RanoahGrindsteelsFootsteps_12.png" minSize="140" maxSize="140" fadeNear="1000" fadeFar="1200" mapVisibility="0" miniMapVisibility="0" />
+		<POI MapID="1362" xpos="-287.419" ypos="133.88" zpos="468.031" type="story_journal.season_5.steel_and_fire.ranoah_grindsteels_footsteps.13" GUID="SLD4JQLFQEWvnFDr899pjg==" />
+		<POI MapID="1368" xpos="-287.419" ypos="133.88" zpos="468.031" type="story_journal.season_5.steel_and_fire.ranoah_grindsteels_footsteps.13" GUID="PccN5Tc8KEK5q7zy+ZFpGA==" />
+		<Trail type="story_journal.season_5.steel_and_fire.ranoah_grindsteels_footsteps.14" GUID="oocvruQznk2CA32IbQxsSg==" trailData="Data/StoryJournal/Season5/SteelAndFire/RanoahGrindsteelsFootsteps_14.trl" texture="Data/SemiLine.png" color="ff00ffff" alpha="0.8" fadeNear="1500" fadeFar="2000" animSpeed="0" mapDisplaySize="18" />
+		<POI MapID="32" xpos="-725.196" ypos="58.4116" zpos="176.479" type="story_journal.season_5.steel_and_fire.ranoah_grindsteels_footsteps.14" GUID="srgezN0hTEOrTdh1Eb5kfQ==" />
+		<POI MapID="1370" xpos="-100.377" ypos="1.92363" zpos="38.2302" type="story_journal.season_5.steel_and_fire.ranoah_grindsteels_footsteps.16" GUID="h/MY1Sl4GEaZMlMV4VjlCQ==" mapDisplaySize="18" />
+		<!-- RYLAND STEELCATCHER'S FOOTSTEPS -->
+		<POI MapID="1370" xpos="-100.377" ypos="1.92363" zpos="38.2302" type="story_journal.season_5.steel_and_fire.ryland_steelcatchers_footsteps.1" GUID="r3F7oKt89Uylb+wETHQrIA==" mapDisplaySize="18" />
+		<POI MapID="1370" xpos="-107.88" ypos="1.92363" zpos="48.2274" type="story_journal.season_5.steel_and_fire.ryland_steelcatchers_footsteps.2" GUID="rYr3gRMQjkGAUONe5NpeRg==" heightOffset="3" mapDisplaySize="18" />
+		<POI MapID="22" xpos="866.141" ypos="60.9578" zpos="693.38" type="story_journal.season_5.steel_and_fire.ryland_steelcatchers_footsteps.3" GUID="OGo12s9eLEulthIgBHCLeg==" />
+		<POI MapID="1370" xpos="-79.807" ypos="4.49938" zpos="34.6593" type="story_journal.season_5.steel_and_fire.ryland_steelcatchers_footsteps.4" GUID="wRYI6gGCbE6hT8b1Bis79g==" mapDisplaySize="18" />
+		<POI MapID="1330" xpos="-268.916" ypos="-3.62737" zpos="-410.101" type="story_journal.season_5.steel_and_fire.ryland_steelcatchers_footsteps.5" GUID="mm6F/RCrJUesdVzJQ/L4lg==" />
+		<POI MapID="1330" xpos="-274.157" ypos="30.0301" zpos="-144.462" type="story_journal.season_5.steel_and_fire.ryland_steelcatchers_footsteps.6" GUID="pqUpH0JGgU+izsFszScj8A==" />
+		<POI MapID="19" xpos="-129.93" ypos="51.8434" zpos="-137.027" type="story_journal.season_5.steel_and_fire.ryland_steelcatchers_footsteps.8" GUID="3kbQq6f8u0OVqdbRaF407g==" />
+		<POI MapID="34" xpos="-408.799" ypos="0.210417" zpos="554.568" type="story_journal.season_5.steel_and_fire.ryland_steelcatchers_footsteps.9" GUID="gxgWHONdkEK0wkZeECIhMg==" />
+		<POI MapID="34" xpos="-408.799" ypos="1.210417" zpos="554.568" type="story_journal.season_5.steel_and_fire.ryland_steelcatchers_footsteps.9" GUID="PTmGGfQfyk+kfEQOGF48TA==" iconFile="Img/Season5/RylandSteelcatchersFootsteps_9.png" minSize="140" maxSize="140" fadeNear="1000" fadeFar="1200" mapVisibility="0" miniMapVisibility="0" />
+		<POI MapID="30" xpos="495.528" ypos="45.7013" zpos="355.194" type="story_journal.season_5.steel_and_fire.ryland_steelcatchers_footsteps.10" GUID="vliQRmPqOUqx3s3M4p9Y6A==" />
+		<POI MapID="20" xpos="457.853" ypos="38.4326" zpos="905.693" type="story_journal.season_5.steel_and_fire.ryland_steelcatchers_footsteps.12" GUID="BtZMDYzzwk+NpwmRxIeH4Q==" />
+		<POI MapID="20" xpos="-78.3595" ypos="30.2135" zpos="922.375" type="story_journal.season_5.steel_and_fire.ryland_steelcatchers_footsteps.14" GUID="CVXqFct0GkOL/yo9H/Rg/A==" heightOffset="3" />
+		<POI MapID="1370" xpos="-79.807" ypos="4.49938" zpos="34.6593" type="story_journal.season_5.steel_and_fire.ryland_steelcatchers_footsteps.15" GUID="oZyM3VMMikGmFPw24ltdkA==" mapDisplaySize="18" />
+		<POI MapID="1370" xpos="-100.377" ypos="1.92363" zpos="38.2302" type="story_journal.season_5.steel_and_fire.ryland_steelcatchers_footsteps.16" GUID="g6Gw24/io0i55SU5cdoNDw==" mapDisplaySize="18" />
+		<!-- SEARCHING FOR INSPIRATION -->
+		<!-- 1 -->
+		<POI MapID="1301" xpos="-397.829" ypos="51.4553" zpos="-716.324" type="story_journal.season_5.steel_and_fire.searching_for_inspiration" GUID="H67mdT8lzUeIsMSi577/UQ==" />
+		<!-- 2 -->
+		<POI MapID="1310" xpos="-222.82" ypos="163.623" zpos="1073.1" type="story_journal.season_5.steel_and_fire.searching_for_inspiration" GUID="nNW2viFQlUyuP2VRJ3auBA==" />
+		<!-- 3 -->
+		<POI MapID="1317" xpos="725.964" ypos="105.613" zpos="702.992" type="story_journal.season_5.steel_and_fire.searching_for_inspiration" GUID="AC+85gqDzU+AMcdy/GDNFQ==" />
+		<!-- 4 -->
+		<POI MapID="1330" xpos="-250.582" ypos="55.3395" zpos="126.363" type="story_journal.season_5.steel_and_fire.searching_for_inspiration" GUID="5XZd6sTuh0quNYWPH0j/Wg==" />
+		<!-- 5 -->
+		<POI MapID="21" xpos="-516.777" ypos="56.7883" zpos="-541.376" type="story_journal.season_5.steel_and_fire.searching_for_inspiration" GUID="i8mbKiWaAkmcJvi06wPUXg==" />
+		<!-- 6 -->
+		<POI MapID="1248" xpos="385.906" ypos="89.2681" zpos="-489.984" type="story_journal.season_5.steel_and_fire.searching_for_inspiration" GUID="ay5zEtsdqEyfudQV52b03g==" />
+		<!-- 7 -->
+		<Trail type="story_journal.season_5.steel_and_fire.searching_for_inspiration" GUID="Bm6uJG/lxkugYrx6ddTs3w==" trailData="Data/StoryJournal/Season5/SteelAndFire/SearchingTheInspiration_7.trl" texture="Data/SemiLine.png" color="ff00ffff" alpha="0.8" fadeNear="1500" fadeFar="2000" animSpeed="0" mapDisplaySize="18" />
+		<POI MapID="50" xpos="-469.536" ypos="23.5752" zpos="151.513" type="story_journal.season_5.steel_and_fire.searching_for_inspiration" GUID="0o0IUzS5bUelL4lm1sJ9mw==" heightOffset="0.25" />
+		<POI MapID="50" xpos="-498.059" ypos="2.25342" zpos="75.9246" type="story_journal.season_5.steel_and_fire.searching_for_inspiration" GUID="cR97TG9ET0a2I8D0/4f3ZA==" heightOffset="0.25" fadeNear="1200" fadeFar="1400" mapVisibility="0" miniMapVisibility="0" />
+		<!-- 8 -->
+		<POI MapID="1370" xpos="-103.767" ypos="1.92891" zpos="95.0766" type="story_journal.season_5.steel_and_fire.searching_for_inspiration" GUID="+zZUzItqs0SVQThPRGxMBQ==" heightOffset="4" mapDisplaySize="18" />
+		<!-- 9 -->
+		<POI MapID="1343" xpos="1160.27" ypos="48.5855" zpos="-84.9528" type="story_journal.season_5.steel_and_fire.searching_for_inspiration" GUID="ZjEhUfY4AUOgOI/9e6N8TA==" />
+		<!-- 10 -->
+		<POI MapID="1370" xpos="-135.969" ypos="1.92363" zpos="20.4842" type="story_journal.season_5.steel_and_fire.searching_for_inspiration" GUID="LSaYXn7WZU+vI9N3xoc9OQ==" heightOffset="4" mapDisplaySize="18" />
+		<!-- SLAVER'S EXTINCTION -->
+		<POI MapID="1362" xpos="145.527" ypos="4.5" zpos="-436.513" type="story_journal.season_5.steel_and_fire.slavers_extinction" GUID="Zeci3PxEIEKoSs2bpipNTA==" fadeNear="5000" fadeFar="8000" />
+		<POI MapID="1362" xpos="145.527" ypos="6" zpos="-436.513" type="story_journal.season_5.steel_and_fire.slavers_extinction" GUID="jo6vSMbZFUy6VOga+41gBA==" iconFile="Img/Season5/SlaversExtinction.png" minSize="140" maxSize="140" fadeNear="1000" fadeFar="1200" mapVisibility="0" miniMapVisibility="0" />
+		<POI MapID="1368" xpos="145.527" ypos="4.5" zpos="-436.513" type="story_journal.season_5.steel_and_fire.slavers_extinction" GUID="/BXJa+oXuUGMJLNjt9VNGw==" fadeNear="5000" fadeFar="8000" />
+		<POI MapID="1368" xpos="145.527" ypos="6" zpos="-436.513" type="story_journal.season_5.steel_and_fire.slavers_extinction" GUID="9FbfictmDUyNN2lZa4Sa+g==" iconFile="Img/Season5/SlaversExtinction.png" minSize="140" maxSize="140" fadeNear="1000" fadeFar="1200" mapVisibility="0" miniMapVisibility="0" />
+		<!-- SPA DAY -->
+		<POI MapID="1362" xpos="255.939" ypos="0.593066" zpos="-448.557" type="story_journal.season_5.steel_and_fire.spa_day" GUID="W3H4mX3TtEuSMmiCOgbC9g==" heightOffset="0.25" />
+		<POI MapID="1362" xpos="255.939" ypos="1.593066" zpos="-448.557" type="story_journal.season_5.steel_and_fire.spa_day" GUID="e+1OLvQGfEK+rY8Tq64d4g==" iconFile="Img/Season5/SpaDay.png" minSize="120" maxSize="140" fadeNear="1500" fadeFar="2000" mapVisibility="0" miniMapVisibility="0" />
+		<POI MapID="1368" xpos="255.939" ypos="0.593066" zpos="-448.557" type="story_journal.season_5.steel_and_fire.spa_day" GUID="E3xL7MNrPUa2byLV01VtLw==" heightOffset="0.25" />
+		<POI MapID="1368" xpos="255.939" ypos="1.593066" zpos="-448.557" type="story_journal.season_5.steel_and_fire.spa_day" GUID="dufp33kyRU6J8oYTD2FojQ==" iconFile="Img/Season5/SpaDay.png" minSize="120" maxSize="140" fadeNear="1500" fadeFar="2000" mapVisibility="0" miniMapVisibility="0" />
+		<!-- THE SPOTTER -->
+		<POI MapID="1362" xpos="140.268" ypos="4.5" zpos="-437.808" type="story_journal.season_5.steel_and_fire.the_spotter" GUID="MC9A/Ob4nECOxfdnWFt6Nw==" fadeNear="5000" fadeFar="8000" />
+		<POI MapID="1362" xpos="140.268" ypos="6.5" zpos="-437.808" type="story_journal.season_5.steel_and_fire.the_spotter" GUID="kyef0YLVWkCIiIyUCRm8Tw==" iconFile="Img/Season5/TheSpotter.png" minSize="140" maxSize="140" fadeNear="1000" fadeFar="1200" mapVisibility="0" miniMapVisibility="0" />
+		<POI MapID="1368" xpos="140.268" ypos="4.5" zpos="-437.808" type="story_journal.season_5.steel_and_fire.the_spotter" GUID="teUHnubhoE680GSxxisD6g==" fadeNear="5000" fadeFar="8000" />
+		<POI MapID="1368" xpos="140.268" ypos="6.5" zpos="-437.808" type="story_journal.season_5.steel_and_fire.the_spotter" GUID="RiN7TUvaxk2Hp8fzvF7PFA==" iconFile="Img/Season5/TheSpotter.png" minSize="140" maxSize="140" fadeNear="1000" fadeFar="1200" mapVisibility="0" miniMapVisibility="0" />
+		<!-- 1 -->
+		<Trail type="story_journal.season_5.steel_and_fire.the_spotter" GUID="rl8Y0WkhN0aB0oCbYC8MmA==" trailData="Data/StoryJournal/Season5/SteelAndFire/TheSpotter_1_Public.trl" texture="Data/SemiLine.png" color="ffff8000" alpha="0.8" fadeNear="2500" fadeFar="3000" animSpeed="0" mapDisplaySize="15" />
+		<Trail type="story_journal.season_5.steel_and_fire.the_spotter" GUID="baZRyQZBWUGOQjQMP56H3Q==" trailData="Data/StoryJournal/Season5/SteelAndFire/TheSpotter_1_Squad.trl" texture="Data/SemiLine.png" color="ffff8000" alpha="0.8" fadeNear="2500" fadeFar="3000" animSpeed="0" mapDisplaySize="15" />
+		<POI MapID="1362" xpos="-143.09" ypos="63.7657" zpos="-330.822" type="story_journal.season_5.steel_and_fire.the_spotter" GUID="Tmnr9fabQ02WptIx8qjDSw==" iconFile="Img/Icons/EventTarget.png" heightOffset="0" fadeNear="12000" fadeFar="15000" />
+		<POI MapID="1368" xpos="-143.09" ypos="63.7657" zpos="-330.822" type="story_journal.season_5.steel_and_fire.the_spotter" GUID="eKiy5FAeHEmVHuJhu0i95g==" iconFile="Img/Icons/EventTarget.png" heightOffset="0" fadeNear="12000" fadeFar="15000" />
+		<!-- 2 -->
+		<Trail type="story_journal.season_5.steel_and_fire.the_spotter" GUID="l+Pf4QD7pUC7GZ7mrtZ6nw==" trailData="Data/StoryJournal/Season5/SteelAndFire/TheSpotter_2_Public.trl" texture="Data/SemiLine.png" color="ffff8000" alpha="0.8" fadeNear="2500" fadeFar="3000" animSpeed="0" mapDisplaySize="15" />
+		<Trail type="story_journal.season_5.steel_and_fire.the_spotter" GUID="5v+jTWvggUyMV/vjZyRkWw==" trailData="Data/StoryJournal/Season5/SteelAndFire/TheSpotter_2_Squad.trl" texture="Data/SemiLine.png" color="ffff8000" alpha="0.8" fadeNear="2500" fadeFar="3000" animSpeed="0" mapDisplaySize="15" />
+		<POI MapID="1362" xpos="-143.648" ypos="158.475" zpos="192.424" type="story_journal.season_5.steel_and_fire.the_spotter" GUID="nB6mJqfuaUa6GysYy2gILQ==" iconFile="Img/Icons/EventTarget.png" heightOffset="0" fadeNear="12000" fadeFar="15000" />
+		<POI MapID="1368" xpos="-143.648" ypos="158.475" zpos="192.424" type="story_journal.season_5.steel_and_fire.the_spotter" GUID="z9HgPTyPTU23Z1Yy/NLfPw==" iconFile="Img/Icons/EventTarget.png" heightOffset="0" fadeNear="12000" fadeFar="15000" />
+		<!-- 3 -->
+		<Trail type="story_journal.season_5.steel_and_fire.the_spotter" GUID="XBclG8/zYkqaRyq05/cmSg==" trailData="Data/StoryJournal/Season5/SteelAndFire/TheSpotter_3_Public.trl" texture="Data/SemiLine.png" color="ffff8000" alpha="0.8" fadeNear="2500" fadeFar="3000" animSpeed="0" mapDisplaySize="15" />
+		<Trail type="story_journal.season_5.steel_and_fire.the_spotter" GUID="ofuU8R165EyrmIUqw9Ez6A==" trailData="Data/StoryJournal/Season5/SteelAndFire/TheSpotter_3_Squad.trl" texture="Data/SemiLine.png" color="ffff8000" alpha="0.8" fadeNear="2500" fadeFar="3000" animSpeed="0" mapDisplaySize="15" />
+		<POI MapID="1362" xpos="-26.5276" ypos="186.662" zpos="250.974" type="story_journal.season_5.steel_and_fire.the_spotter" GUID="AFE8pmukNk6iN+plumjohA==" iconFile="Img/Icons/EventTarget.png" heightOffset="0" fadeNear="12000" fadeFar="15000" />
+		<POI MapID="1368" xpos="-26.5276" ypos="186.662" zpos="250.974" type="story_journal.season_5.steel_and_fire.the_spotter" GUID="zXGhmfYhtUeMkDaddFuNtw==" iconFile="Img/Icons/EventTarget.png" heightOffset="0" fadeNear="12000" fadeFar="15000" />
+		<!-- 4 -->
+		<Trail type="story_journal.season_5.steel_and_fire.the_spotter" GUID="C1XdSQsXdE66l4xwZ7oIYg==" trailData="Data/StoryJournal/Season5/SteelAndFire/TheSpotter_4_Public.trl" texture="Data/SemiLine.png" color="ffff8000" alpha="0.8" fadeNear="2500" fadeFar="3000" animSpeed="0" mapDisplaySize="15" />
+		<Trail type="story_journal.season_5.steel_and_fire.the_spotter" GUID="1guey2sBh0SVgWB6mtWMzQ==" trailData="Data/StoryJournal/Season5/SteelAndFire/TheSpotter_4_Squad.trl" texture="Data/SemiLine.png" color="ffff8000" alpha="0.8" fadeNear="2500" fadeFar="3000" animSpeed="0" mapDisplaySize="15" />
+		<POI MapID="1362" xpos="40.3467" ypos="177.799" zpos="380.906" type="story_journal.season_5.steel_and_fire.the_spotter" GUID="Y6TFyKx7s0mbcp0vlsEYsw==" iconFile="Img/Icons/EventTarget.png" heightOffset="0" fadeNear="12000" fadeFar="15000" />
+		<POI MapID="1368" xpos="40.3467" ypos="177.799" zpos="380.906" type="story_journal.season_5.steel_and_fire.the_spotter" GUID="M3wp8wBFqEuCWBYfGmsvrQ==" iconFile="Img/Icons/EventTarget.png" heightOffset="0" fadeNear="12000" fadeFar="15000" />
 		<!-- VISHEN STEELSHOT'S FOOTSTEPS -->
-		<POI MapID="1370" xpos="-100.377" ypos="1.92363" zpos="38.2302"  type="story_journal.season_5.steel_and_fire.vishen_steelshots_footsteps.1"  GUID="DxeVG2YKGUK7ZCph4Bc6vA==" mapDisplaySize="18"/>
-		<POI MapID="1370" xpos="-107.88"  ypos="1.92363" zpos="48.2274"  type="story_journal.season_5.steel_and_fire.vishen_steelshots_footsteps.2"  GUID="QkIOd891Jkuu36+yOdHtqQ==" heightOffset="3" mapDisplaySize="18"/>
-		<POI MapID="1330" xpos="609.805"  ypos="31.0811" zpos="330.349"  type="story_journal.season_5.steel_and_fire.vishen_steelshots_footsteps.3"  GUID="Eu/yzJvqjUGGFVBjpu9R9A=="/>
-		<POI MapID="1330" xpos="609.805"  ypos="33.0811" zpos="330.349"  type="story_journal.season_5.steel_and_fire.vishen_steelshots_footsteps.3"  GUID="0DrxaCcVikqClu2BpSfMrQ==" iconFile="Img/Season5/VishenSteelshotsFootsteps_3.png" minSize="140" maxSize="140" fadeNear="1000" fadeFar="1200" mapVisibility="0" miniMapVisibility="0"/>
-		<POI MapID="1330" xpos="-359.878" ypos="57.4989" zpos="-504.938" type="story_journal.season_5.steel_and_fire.vishen_steelshots_footsteps.4"  GUID="F5/N6BOvPECJK7s+CSwfKw=="/>
-		<POI MapID="1330" xpos="-359.878" ypos="58.4989" zpos="-504.938" type="story_journal.season_5.steel_and_fire.vishen_steelshots_footsteps.4"  GUID="hlpSeKE38UeZpBxOxcAhlA==" iconFile="Img/Season5/VishenSteelshotsFootsteps_4.png" minSize="140" maxSize="140" fadeNear="1000" fadeFar="1200" mapVisibility="0" miniMapVisibility="0"/>
-		<POI MapID="32"   xpos="568.21"   ypos="25.44"   zpos="-366.81"  type="story_journal.season_5.steel_and_fire.vishen_steelshots_footsteps.5"  GUID="zS6gMyYDXk20tujgYmLtIA=="/>
-		<POI MapID="32"   xpos="568.21"   ypos="26.44"   zpos="-366.81"  type="story_journal.season_5.steel_and_fire.vishen_steelshots_footsteps.5"  GUID="uSMncu1DLEO7/cEXPV3j7g==" iconFile="Img/Season5/VishenSteelshotsFootsteps_5.png" minSize="140" maxSize="140" fadeNear="1000" fadeFar="1200" mapVisibility="0" miniMapVisibility="0"/>
-		<POI MapID="32"   xpos="-678.76"  ypos="64.6677" zpos="208.2"    type="story_journal.season_5.steel_and_fire.vishen_steelshots_footsteps.6"  GUID="5BR3hkqikkaF+aShiYkF2Q=="/>
-		<POI MapID="32"   xpos="115.263"  ypos="28.9689" zpos="-585.666" type="story_journal.season_5.steel_and_fire.vishen_steelshots_footsteps.7"  GUID="h7AYulZiMkufRXdvv0mglA=="/>
-		<POI MapID="32"   xpos="115.263"  ypos="29.9689" zpos="-585.666" type="story_journal.season_5.steel_and_fire.vishen_steelshots_footsteps.7"  GUID="VMVqii+pi0W96WjUGQhswg==" iconFile="Img/Season5/VishenSteelshotsFootsteps_7.png" minSize="140" maxSize="140" fadeNear="1000" fadeFar="1200" mapVisibility="0" miniMapVisibility="0"/>
-		<POI MapID="1330" xpos="-285.503" ypos="30.3952" zpos="-81.3332" type="story_journal.season_5.steel_and_fire.vishen_steelshots_footsteps.8"  GUID="R1HmoY8WikGaFKwvWQl6wg=="/>
-		<POI MapID="25"   xpos="-499.09"  ypos="54.57"   zpos="-961.82"  type="story_journal.season_5.steel_and_fire.vishen_steelshots_footsteps.9"  GUID="SKQ59ah4BU+xPnSfjOzNBg=="/>
-		<POI MapID="25"   xpos="-499.09"  ypos="55.57"   zpos="-961.82"  type="story_journal.season_5.steel_and_fire.vishen_steelshots_footsteps.9"  GUID="FKg2OLP8U0uM3mdkEEGYEw==" iconFile="Img/Season5/VishenSteelshotsFootsteps_9.png" minSize="140" maxSize="140" fadeNear="1000" fadeFar="1200" mapVisibility="0" miniMapVisibility="0"/>
-		<POI MapID="39"   xpos="929.37"   ypos="9.08538" zpos="53.758"   type="story_journal.season_5.steel_and_fire.vishen_steelshots_footsteps.10" GUID="jcd27LsDL0+1LsUZbA97Yg=="/>
-		<POI MapID="1271" xpos="-180.681" ypos="74.1656" zpos="11.5372"  type="story_journal.season_5.steel_and_fire.vishen_steelshots_footsteps.10" GUID="Xx0yZ/ljLUu4z6hKHiT6WQ=="/>
-		<POI MapID="1271" xpos="-191.238" ypos="65.0795" zpos="-556.919" type="story_journal.season_5.steel_and_fire.vishen_steelshots_footsteps.10" GUID="Ym3bOqPv4026WBZXsHoGkQ=="/>
-		<POI MapID="1271" xpos="591.97"   ypos="48.2168" zpos="-618.297" type="story_journal.season_5.steel_and_fire.vishen_steelshots_footsteps.10" GUID="ioO7EF5ThkSxAf+D7R7LNg=="/>
-		<POI MapID="20"   xpos="274.692"  ypos="47.7953" zpos="883.083"  type="story_journal.season_5.steel_and_fire.vishen_steelshots_footsteps.12" GUID="NWGdLkFOmUewdNFIMp61jA=="/>
-		<POI MapID="1362" xpos="-288.873" ypos="134.517" zpos="473.737"  type="story_journal.season_5.steel_and_fire.vishen_steelshots_footsteps.13" GUID="vPZWSbdtcUybA06pDT7WbQ=="/>
-		<POI MapID="1368" xpos="-288.873" ypos="134.517" zpos="473.737"  type="story_journal.season_5.steel_and_fire.vishen_steelshots_footsteps.13" GUID="F+amfDa+S0O7+UhoT3GiuQ=="/>
-		<POI MapID="1330" xpos="226.976"  ypos="35.0717" zpos="13.6701"  type="story_journal.season_5.steel_and_fire.vishen_steelshots_footsteps.14" GUID="AjVpiYidh0GkRkziEvLaRg=="/>
-		<POI MapID="1330" xpos="226.976"  ypos="36.0717" zpos="13.6701"  type="story_journal.season_5.steel_and_fire.vishen_steelshots_footsteps.14" GUID="+6eiL+bwaUGZtWZQiGLXwQ==" iconFile="Img/Season5/VishenSteelshotsFootsteps_14.png" minSize="140" maxSize="140" fadeNear="1000" fadeFar="1200" mapVisibility="0" miniMapVisibility="0"/>
-		<POI MapID="1370" xpos="-100.377" ypos="1.92363" zpos="38.2302"  type="story_journal.season_5.steel_and_fire.vishen_steelshots_footsteps.16" GUID="f6u0p05ZBEm+ay1HrdLfoA==" mapDisplaySize="18"/>
-
+		<POI MapID="1370" xpos="-100.377" ypos="1.92363" zpos="38.2302" type="story_journal.season_5.steel_and_fire.vishen_steelshots_footsteps.1" GUID="DxeVG2YKGUK7ZCph4Bc6vA==" mapDisplaySize="18" />
+		<POI MapID="1370" xpos="-107.88" ypos="1.92363" zpos="48.2274" type="story_journal.season_5.steel_and_fire.vishen_steelshots_footsteps.2" GUID="QkIOd891Jkuu36+yOdHtqQ==" heightOffset="3" mapDisplaySize="18" />
+		<POI MapID="1330" xpos="609.805" ypos="31.0811" zpos="330.349" type="story_journal.season_5.steel_and_fire.vishen_steelshots_footsteps.3" GUID="Eu/yzJvqjUGGFVBjpu9R9A==" />
+		<POI MapID="1330" xpos="609.805" ypos="33.0811" zpos="330.349" type="story_journal.season_5.steel_and_fire.vishen_steelshots_footsteps.3" GUID="0DrxaCcVikqClu2BpSfMrQ==" iconFile="Img/Season5/VishenSteelshotsFootsteps_3.png" minSize="140" maxSize="140" fadeNear="1000" fadeFar="1200" mapVisibility="0" miniMapVisibility="0" />
+		<POI MapID="1330" xpos="-359.878" ypos="57.4989" zpos="-504.938" type="story_journal.season_5.steel_and_fire.vishen_steelshots_footsteps.4" GUID="F5/N6BOvPECJK7s+CSwfKw==" />
+		<POI MapID="1330" xpos="-359.878" ypos="58.4989" zpos="-504.938" type="story_journal.season_5.steel_and_fire.vishen_steelshots_footsteps.4" GUID="hlpSeKE38UeZpBxOxcAhlA==" iconFile="Img/Season5/VishenSteelshotsFootsteps_4.png" minSize="140" maxSize="140" fadeNear="1000" fadeFar="1200" mapVisibility="0" miniMapVisibility="0" />
+		<POI MapID="32" xpos="568.21" ypos="25.44" zpos="-366.81" type="story_journal.season_5.steel_and_fire.vishen_steelshots_footsteps.5" GUID="zS6gMyYDXk20tujgYmLtIA==" />
+		<POI MapID="32" xpos="568.21" ypos="26.44" zpos="-366.81" type="story_journal.season_5.steel_and_fire.vishen_steelshots_footsteps.5" GUID="uSMncu1DLEO7/cEXPV3j7g==" iconFile="Img/Season5/VishenSteelshotsFootsteps_5.png" minSize="140" maxSize="140" fadeNear="1000" fadeFar="1200" mapVisibility="0" miniMapVisibility="0" />
+		<POI MapID="32" xpos="-678.76" ypos="64.6677" zpos="208.2" type="story_journal.season_5.steel_and_fire.vishen_steelshots_footsteps.6" GUID="5BR3hkqikkaF+aShiYkF2Q==" />
+		<POI MapID="32" xpos="115.263" ypos="28.9689" zpos="-585.666" type="story_journal.season_5.steel_and_fire.vishen_steelshots_footsteps.7" GUID="h7AYulZiMkufRXdvv0mglA==" />
+		<POI MapID="32" xpos="115.263" ypos="29.9689" zpos="-585.666" type="story_journal.season_5.steel_and_fire.vishen_steelshots_footsteps.7" GUID="VMVqii+pi0W96WjUGQhswg==" iconFile="Img/Season5/VishenSteelshotsFootsteps_7.png" minSize="140" maxSize="140" fadeNear="1000" fadeFar="1200" mapVisibility="0" miniMapVisibility="0" />
+		<POI MapID="1330" xpos="-285.503" ypos="30.3952" zpos="-81.3332" type="story_journal.season_5.steel_and_fire.vishen_steelshots_footsteps.8" GUID="R1HmoY8WikGaFKwvWQl6wg==" />
+		<POI MapID="25" xpos="-499.09" ypos="54.57" zpos="-961.82" type="story_journal.season_5.steel_and_fire.vishen_steelshots_footsteps.9" GUID="SKQ59ah4BU+xPnSfjOzNBg==" />
+		<POI MapID="25" xpos="-499.09" ypos="55.57" zpos="-961.82" type="story_journal.season_5.steel_and_fire.vishen_steelshots_footsteps.9" GUID="FKg2OLP8U0uM3mdkEEGYEw==" iconFile="Img/Season5/VishenSteelshotsFootsteps_9.png" minSize="140" maxSize="140" fadeNear="1000" fadeFar="1200" mapVisibility="0" miniMapVisibility="0" />
+		<POI MapID="39" xpos="929.37" ypos="9.08538" zpos="53.758" type="story_journal.season_5.steel_and_fire.vishen_steelshots_footsteps.10" GUID="jcd27LsDL0+1LsUZbA97Yg==" />
+		<POI MapID="1271" xpos="-180.681" ypos="74.1656" zpos="11.5372" type="story_journal.season_5.steel_and_fire.vishen_steelshots_footsteps.10" GUID="Xx0yZ/ljLUu4z6hKHiT6WQ==" />
+		<POI MapID="1271" xpos="-191.238" ypos="65.0795" zpos="-556.919" type="story_journal.season_5.steel_and_fire.vishen_steelshots_footsteps.10" GUID="Ym3bOqPv4026WBZXsHoGkQ==" />
+		<POI MapID="1271" xpos="591.97" ypos="48.2168" zpos="-618.297" type="story_journal.season_5.steel_and_fire.vishen_steelshots_footsteps.10" GUID="ioO7EF5ThkSxAf+D7R7LNg==" />
+		<POI MapID="20" xpos="274.692" ypos="47.7953" zpos="883.083" type="story_journal.season_5.steel_and_fire.vishen_steelshots_footsteps.12" GUID="NWGdLkFOmUewdNFIMp61jA==" />
+		<POI MapID="1362" xpos="-288.873" ypos="134.517" zpos="473.737" type="story_journal.season_5.steel_and_fire.vishen_steelshots_footsteps.13" GUID="vPZWSbdtcUybA06pDT7WbQ==" />
+		<POI MapID="1368" xpos="-288.873" ypos="134.517" zpos="473.737" type="story_journal.season_5.steel_and_fire.vishen_steelshots_footsteps.13" GUID="F+amfDa+S0O7+UhoT3GiuQ==" />
+		<POI MapID="1330" xpos="226.976" ypos="35.0717" zpos="13.6701" type="story_journal.season_5.steel_and_fire.vishen_steelshots_footsteps.14" GUID="AjVpiYidh0GkRkziEvLaRg==" />
+		<POI MapID="1330" xpos="226.976" ypos="36.0717" zpos="13.6701" type="story_journal.season_5.steel_and_fire.vishen_steelshots_footsteps.14" GUID="+6eiL+bwaUGZtWZQiGLXwQ==" iconFile="Img/Season5/VishenSteelshotsFootsteps_14.png" minSize="140" maxSize="140" fadeNear="1000" fadeFar="1200" mapVisibility="0" miniMapVisibility="0" />
+		<POI MapID="1370" xpos="-100.377" ypos="1.92363" zpos="38.2302" type="story_journal.season_5.steel_and_fire.vishen_steelshots_footsteps.16" GUID="f6u0p05ZBEm+ay1HrdLfoA==" mapDisplaySize="18" />
 		<!-- VISIONS OF THE PAST: MYSTERIES OF THE EYE -->
-		<POI MapID="1370" xpos="-162.275" ypos="6.46788" zpos="121.843" type="story_journal.season_5.steel_and_fire.visions_of_the_past_mysteries_of_the_eye" GUID="vPQd8kDuLEKgE44LdDZ14Q==" heightOffset="1" mapDisplaySize="18"/>
-		<POI MapID="1370" xpos="-162.275" ypos="6.46788" zpos="121.843" type="story_journal.season_5.steel_and_fire.visions_of_the_past_mysteries_of_the_eye" GUID="evyV5xcS+ESQKFhXXAmK0w==" iconFile="Img/Season5/VisionsOfThePastMysteriesOfTheEye.png" minSize="120" maxSize="140" fadeNear="1000" fadeFar="1200" heightOffset="2" mapVisibility="0" miniMapVisibility="0"/>
-
+		<POI MapID="1370" xpos="-162.275" ypos="6.46788" zpos="121.843" type="story_journal.season_5.steel_and_fire.visions_of_the_past_mysteries_of_the_eye" GUID="vPQd8kDuLEKgE44LdDZ14Q==" heightOffset="1" mapDisplaySize="18" />
+		<POI MapID="1370" xpos="-162.275" ypos="6.46788" zpos="121.843" type="story_journal.season_5.steel_and_fire.visions_of_the_past_mysteries_of_the_eye" GUID="evyV5xcS+ESQKFhXXAmK0w==" iconFile="Img/Season5/VisionsOfThePastMysteriesOfTheEye.png" minSize="120" maxSize="140" fadeNear="1000" fadeFar="1200" heightOffset="2" mapVisibility="0" miniMapVisibility="0" />
 		<!-- VISIONS OF THE PAST: CRAGSTEAD -->
-		<Trail type="story_journal.season_5.steel_and_fire.visions_of_the_past_cragstead" GUID="7KPo9LUam0qjAQqk7dIN3Q==" trailData="Data/StoryJournal/Season5/SteelAndFire/VisionsOfThePastCragstead_1.trl" texture="Data/SemiLine.png" color="ffff8000" alpha="0.8" fadeNear="1200" fadeFar="1600" animSpeed="0" mapDisplaySize="15"/>
-		<Trail type="story_journal.season_5.steel_and_fire.visions_of_the_past_cragstead" GUID="CJi8xx8Efk+XN9Ie61AOpw==" trailData="Data/StoryJournal/Season5/SteelAndFire/VisionsOfThePastCragstead_2.trl" texture="Data/SemiLine.png" color="ffff8000" alpha="0.8" fadeNear="1200" fadeFar="1600" animSpeed="0" mapDisplaySize="15"/>
-		<POI MapID="28"  xpos="338.443"  ypos="131.571" zpos="1023.58" type="story_journal.season_5.steel_and_fire.visions_of_the_past_cragstead" GUID="3bcTVomaZ0CHSSv3UN8b4A==" heightOffset="0.25"/>
-		<POI MapID="897" xpos="-317.543" ypos="210.828" zpos="-55.827" type="story_journal.season_5.steel_and_fire.visions_of_the_past_cragstead" GUID="k0ib1dsBw0WgErPyUnE6kw==" heightOffset="0.25" fadeNear="1200" fadeFar="1600" mapVisibility="0" miniMapVisibility="0"/>
-
+		<Trail type="story_journal.season_5.steel_and_fire.visions_of_the_past_cragstead" GUID="7KPo9LUam0qjAQqk7dIN3Q==" trailData="Data/StoryJournal/Season5/SteelAndFire/VisionsOfThePastCragstead_1.trl" texture="Data/SemiLine.png" color="ffff8000" alpha="0.8" fadeNear="1200" fadeFar="1600" animSpeed="0" mapDisplaySize="15" />
+		<Trail type="story_journal.season_5.steel_and_fire.visions_of_the_past_cragstead" GUID="CJi8xx8Efk+XN9Ie61AOpw==" trailData="Data/StoryJournal/Season5/SteelAndFire/VisionsOfThePastCragstead_2.trl" texture="Data/SemiLine.png" color="ffff8000" alpha="0.8" fadeNear="1200" fadeFar="1600" animSpeed="0" mapDisplaySize="15" />
+		<POI MapID="28" xpos="338.443" ypos="131.571" zpos="1023.58" type="story_journal.season_5.steel_and_fire.visions_of_the_past_cragstead" GUID="3bcTVomaZ0CHSSv3UN8b4A==" heightOffset="0.25" />
+		<POI MapID="897" xpos="-317.543" ypos="210.828" zpos="-55.827" type="story_journal.season_5.steel_and_fire.visions_of_the_past_cragstead" GUID="k0ib1dsBw0WgErPyUnE6kw==" heightOffset="0.25" fadeNear="1200" fadeFar="1600" mapVisibility="0" miniMapVisibility="0" />
 		<!-- VISIONS OF THE PAST: RETAKE CRAGSTEAD -->
-		<POI MapID="1370" xpos="-223.035" ypos="0" zpos="185.105" type="story_journal.season_5.steel_and_fire.visions_of_the_past_retake_cragstead" GUID="cocHvFf51UGvGEpv3bxd3Q==" mapDisplaySize="18"/>
-		<POI MapID="1370" xpos="-223.035" ypos="3" zpos="185.105" type="story_journal.season_5.steel_and_fire.visions_of_the_past_retake_cragstead" GUID="6Kv+gJBCUkGiD10IH0q3bg==" iconFile="Img/Season5/VisionsOfThePast.png" minSize="140" maxSize="140" fadeNear="1200" fadeFar="1500" mapVisibility="0" miniMapVisibility="0"/>
-
+		<POI MapID="1370" xpos="-223.035" ypos="0" zpos="185.105" type="story_journal.season_5.steel_and_fire.visions_of_the_past_retake_cragstead" GUID="cocHvFf51UGvGEpv3bxd3Q==" mapDisplaySize="18" />
+		<POI MapID="1370" xpos="-223.035" ypos="3" zpos="185.105" type="story_journal.season_5.steel_and_fire.visions_of_the_past_retake_cragstead" GUID="6Kv+gJBCUkGiD10IH0q3bg==" iconFile="Img/Season5/VisionsOfThePast.png" minSize="140" maxSize="140" fadeNear="1200" fadeFar="1500" mapVisibility="0" miniMapVisibility="0" />
 		<!-- VISIONS OF THE PAST: NORTH NOLAN HATCHERY -->
-		<Trail type="story_journal.season_5.steel_and_fire.visions_of_the_past_north_nolan_hatchery" GUID="glvvoQPGKEO28wwKS0TvpQ==" trailData="Data/StoryJournal/Season5/SteelAndFire/VisionsOfThePastNorthNolanHatchery_1.trl" texture="Data/SemiLine.png" color="ffff8000" alpha="0.8" fadeNear="1200" fadeFar="1600" animSpeed="0" mapDisplaySize="15"/>
-		<Trail type="story_journal.season_5.steel_and_fire.visions_of_the_past_north_nolan_hatchery" GUID="TicxiWcxpEa/sJBb5I5vxg==" trailData="Data/StoryJournal/Season5/SteelAndFire/VisionsOfThePastNorthNolanHatchery_2.trl" texture="Data/SemiLine.png" color="ffff8000" alpha="0.8" fadeNear="1200" fadeFar="1600" animSpeed="0" mapDisplaySize="15"/>
-		<POI MapID="32"  xpos="-1004.24" ypos="68.4962" zpos="-554.102" type="story_journal.season_5.steel_and_fire.visions_of_the_past_north_nolan_hatchery" GUID="/qlaWloz706Z3yIXXwF2lQ==" heightOffset="0.25"/>
-		<POI MapID="896" xpos="-1020.96" ypos="55.1497" zpos="-415.956" type="story_journal.season_5.steel_and_fire.visions_of_the_past_north_nolan_hatchery" GUID="+7s9mUDoIkOiUFxXPrk83w==" heightOffset="0.25" fadeNear="1200" fadeFar="1600" mapVisibility="0" miniMapVisibility="0"/>
-
+		<Trail type="story_journal.season_5.steel_and_fire.visions_of_the_past_north_nolan_hatchery" GUID="glvvoQPGKEO28wwKS0TvpQ==" trailData="Data/StoryJournal/Season5/SteelAndFire/VisionsOfThePastNorthNolanHatchery_1.trl" texture="Data/SemiLine.png" color="ffff8000" alpha="0.8" fadeNear="1200" fadeFar="1600" animSpeed="0" mapDisplaySize="15" />
+		<Trail type="story_journal.season_5.steel_and_fire.visions_of_the_past_north_nolan_hatchery" GUID="TicxiWcxpEa/sJBb5I5vxg==" trailData="Data/StoryJournal/Season5/SteelAndFire/VisionsOfThePastNorthNolanHatchery_2.trl" texture="Data/SemiLine.png" color="ffff8000" alpha="0.8" fadeNear="1200" fadeFar="1600" animSpeed="0" mapDisplaySize="15" />
+		<POI MapID="32" xpos="-1004.24" ypos="68.4962" zpos="-554.102" type="story_journal.season_5.steel_and_fire.visions_of_the_past_north_nolan_hatchery" GUID="/qlaWloz706Z3yIXXwF2lQ==" heightOffset="0.25" />
+		<POI MapID="896" xpos="-1020.96" ypos="55.1497" zpos="-415.956" type="story_journal.season_5.steel_and_fire.visions_of_the_past_north_nolan_hatchery" GUID="+7s9mUDoIkOiUFxXPrk83w==" heightOffset="0.25" fadeNear="1200" fadeFar="1600" mapVisibility="0" miniMapVisibility="0" />
 		<!-- VISIONS OF THE PAST: YOU MADE A FRIEND -->
-		<POI MapID="1370" xpos="-223.035" ypos="0" zpos="185.105" type="story_journal.season_5.steel_and_fire.visions_of_the_past_you_made_a_friend" GUID="8MtaIEJRhEKe3iq5nu8sSA==" mapDisplaySize="18"/>
-		<POI MapID="1370" xpos="-223.035" ypos="3" zpos="185.105" type="story_journal.season_5.steel_and_fire.visions_of_the_past_you_made_a_friend" GUID="oM/R7vjEW0yUskPt4GBQXQ==" iconFile="Img/Season5/VisionsOfThePast.png" minSize="140" maxSize="140" fadeNear="1200" fadeFar="1500" mapVisibility="0" miniMapVisibility="0"/>
-
+		<POI MapID="1370" xpos="-223.035" ypos="0" zpos="185.105" type="story_journal.season_5.steel_and_fire.visions_of_the_past_you_made_a_friend" GUID="8MtaIEJRhEKe3iq5nu8sSA==" mapDisplaySize="18" />
+		<POI MapID="1370" xpos="-223.035" ypos="3" zpos="185.105" type="story_journal.season_5.steel_and_fire.visions_of_the_past_you_made_a_friend" GUID="oM/R7vjEW0yUskPt4GBQXQ==" iconFile="Img/Season5/VisionsOfThePast.png" minSize="140" maxSize="140" fadeNear="1200" fadeFar="1500" mapVisibility="0" miniMapVisibility="0" />
 		<!-- VISIONS OF THE PAST: CANACH'S LAIR -->
-		<Trail type="story_journal.season_5.steel_and_fire.visions_of_the_past_canachs_lair" GUID="+54qjOip10WvBkqn+KfNFQ==" trailData="Data/StoryJournal/Season5/SteelAndFire/VisionsOfThePastCanachsLair.trl" texture="Data/SemiLine.png" color="ffff8000" alpha="0.8" fadeNear="1200" fadeFar="1600" animSpeed="0" mapDisplaySize="15"/>
-		<POI MapID="873" xpos="61.6427"  ypos="-0.6366" zpos="249.488" type="story_journal.season_5.steel_and_fire.visions_of_the_past_canachs_lair" GUID="eIxYWRfdckyQkUm1x+IqzQ==" heightOffset="0.25"/>
-		<POI MapID="873" xpos="-119.849" ypos="2.10843" zpos="12.1089" type="story_journal.season_5.steel_and_fire.visions_of_the_past_canachs_lair" GUID="ZekZq4AAlUKaqfAj0kTxDg==" heightOffset="0.25" fadeNear="1200" fadeFar="1600" mapVisibility="0" miniMapVisibility="0"/>
-
+		<Trail type="story_journal.season_5.steel_and_fire.visions_of_the_past_canachs_lair" GUID="+54qjOip10WvBkqn+KfNFQ==" trailData="Data/StoryJournal/Season5/SteelAndFire/VisionsOfThePastCanachsLair.trl" texture="Data/SemiLine.png" color="ffff8000" alpha="0.8" fadeNear="1200" fadeFar="1600" animSpeed="0" mapDisplaySize="15" />
+		<POI MapID="873" xpos="61.6427" ypos="-0.6366" zpos="249.488" type="story_journal.season_5.steel_and_fire.visions_of_the_past_canachs_lair" GUID="eIxYWRfdckyQkUm1x+IqzQ==" heightOffset="0.25" />
+		<POI MapID="873" xpos="-119.849" ypos="2.10843" zpos="12.1089" type="story_journal.season_5.steel_and_fire.visions_of_the_past_canachs_lair" GUID="ZekZq4AAlUKaqfAj0kTxDg==" heightOffset="0.25" fadeNear="1200" fadeFar="1600" mapVisibility="0" miniMapVisibility="0" />
 		<!-- VISIONS OF THE PAST: CONFRONTING CANACH -->
-		<POI MapID="1370" xpos="-223.035" ypos="0"        zpos="185.105"  type="story_journal.season_5.steel_and_fire.visions_of_the_past_confronting_canach" GUID="OVW10e+dukKodtGciKH/8g==" mapDisplaySize="18"/>
-		<POI MapID="1370" xpos="-223.035" ypos="3"        zpos="185.105"  type="story_journal.season_5.steel_and_fire.visions_of_the_past_confronting_canach" GUID="l2EwLlI+UUW+6pj5uGoW4A==" iconFile="Img/Season5/VisionsOfThePast.png" minSize="140" maxSize="140" fadeNear="1200" fadeFar="1500" mapVisibility="0" miniMapVisibility="0"/>
-		<POI MapID="1369" xpos="-66.3196" ypos="0.472368" zpos="-79.8725" type="story_journal.season_5.steel_and_fire.visions_of_the_past_confronting_canach" GUID="fQrq+pmmkkyM9kQUgyf0XQ==" heightOffset="0.75"/>
-		<POI MapID="1369" xpos="-66.3196" ypos="0.472368" zpos="-79.8725" type="story_journal.season_5.steel_and_fire.visions_of_the_past_confronting_canach" GUID="yu1f4YQdPUS8ytl2QxGG4Q==" iconFile="Img/Season5/VisionsOfThePastConfrontingCanach.png" minSize="140" maxSize="140" fadeNear="1200" fadeFar="1500" mapVisibility="0" miniMapVisibility="0"/>
-
+		<POI MapID="1370" xpos="-223.035" ypos="0" zpos="185.105" type="story_journal.season_5.steel_and_fire.visions_of_the_past_confronting_canach" GUID="OVW10e+dukKodtGciKH/8g==" mapDisplaySize="18" />
+		<POI MapID="1370" xpos="-223.035" ypos="3" zpos="185.105" type="story_journal.season_5.steel_and_fire.visions_of_the_past_confronting_canach" GUID="l2EwLlI+UUW+6pj5uGoW4A==" iconFile="Img/Season5/VisionsOfThePast.png" minSize="140" maxSize="140" fadeNear="1200" fadeFar="1500" mapVisibility="0" miniMapVisibility="0" />
+		<POI MapID="1369" xpos="-66.3196" ypos="0.472368" zpos="-79.8725" type="story_journal.season_5.steel_and_fire.visions_of_the_past_confronting_canach" GUID="fQrq+pmmkkyM9kQUgyf0XQ==" heightOffset="0.75" />
+		<POI MapID="1369" xpos="-66.3196" ypos="0.472368" zpos="-79.8725" type="story_journal.season_5.steel_and_fire.visions_of_the_past_confronting_canach" GUID="yu1f4YQdPUS8ytl2QxGG4Q==" iconFile="Img/Season5/VisionsOfThePastConfrontingCanach.png" minSize="140" maxSize="140" fadeNear="1200" fadeFar="1500" mapVisibility="0" miniMapVisibility="0" />
 		<!-- VISIONS OF THE PAST: LAIR LIGHT-FOOT -->
-		<POI MapID="1370" xpos="-223.035" ypos="0"        zpos="185.105" type="story_journal.season_5.steel_and_fire.visions_of_the_past_lair_light_foot" GUID="mK0z8whnp0mQSwIL9APUbg==" mapDisplaySize="18"/>
-		<POI MapID="1370" xpos="-223.035" ypos="3"        zpos="185.105" type="story_journal.season_5.steel_and_fire.visions_of_the_past_lair_light_foot" GUID="FRCGG0ICU0WexN1t7IAZFA==" iconFile="Img/Season5/VisionsOfThePast.png" minSize="140" maxSize="140" fadeNear="1200" fadeFar="1500" mapVisibility="0" miniMapVisibility="0"/>
-		<POI MapID="1369" xpos="-90.0143" ypos="0.415373" zpos="14.5248" type="story_journal.season_5.steel_and_fire.visions_of_the_past_lair_light_foot" GUID="uSw20ydfX0Klnybg9FC/aw==" heightOffset="0.75"/>
-		<POI MapID="1369" xpos="-90.0143" ypos="0.915373" zpos="14.5248" type="story_journal.season_5.steel_and_fire.visions_of_the_past_lair_light_foot" GUID="TtEsYgZmmkuvPp75sgn/2g==" iconFile="Img/Season5/VisionsOfThePastLairLightFoot.png" minSize="140" maxSize="140" fadeNear="1200" fadeFar="1500" mapVisibility="0" miniMapVisibility="0"/>
-
+		<POI MapID="1370" xpos="-223.035" ypos="0" zpos="185.105" type="story_journal.season_5.steel_and_fire.visions_of_the_past_lair_light_foot" GUID="mK0z8whnp0mQSwIL9APUbg==" mapDisplaySize="18" />
+		<POI MapID="1370" xpos="-223.035" ypos="3" zpos="185.105" type="story_journal.season_5.steel_and_fire.visions_of_the_past_lair_light_foot" GUID="FRCGG0ICU0WexN1t7IAZFA==" iconFile="Img/Season5/VisionsOfThePast.png" minSize="140" maxSize="140" fadeNear="1200" fadeFar="1500" mapVisibility="0" miniMapVisibility="0" />
+		<POI MapID="1369" xpos="-90.0143" ypos="0.415373" zpos="14.5248" type="story_journal.season_5.steel_and_fire.visions_of_the_past_lair_light_foot" GUID="uSw20ydfX0Klnybg9FC/aw==" heightOffset="0.75" />
+		<POI MapID="1369" xpos="-90.0143" ypos="0.915373" zpos="14.5248" type="story_journal.season_5.steel_and_fire.visions_of_the_past_lair_light_foot" GUID="TtEsYgZmmkuvPp75sgn/2g==" iconFile="Img/Season5/VisionsOfThePastLairLightFoot.png" minSize="140" maxSize="140" fadeNear="1200" fadeFar="1500" mapVisibility="0" miniMapVisibility="0" />
 		<!-- VISIONS OF THE PAST: THE NIGHTMARE INCARNATE -->
-		<POI MapID="23" xpos="-316.171" ypos="1.30137" zpos="54.5819" type="story_journal.season_5.steel_and_fire.visions_of_the_past_the_nightmare_incarnate" GUID="OurFCyph+0ityX/YXEViCw=="/>
-
+		<POI MapID="23" xpos="-316.171" ypos="1.30137" zpos="54.5819" type="story_journal.season_5.steel_and_fire.visions_of_the_past_the_nightmare_incarnate" GUID="OurFCyph+0ityX/YXEViCw==" />
 		<!-- VISIONS OF THE PAST: ANTITOXIN INJECTOR -->
-		<POI MapID="1370" xpos="-223.035" ypos="0"       zpos="185.105" type="story_journal.season_5.steel_and_fire.visions_of_the_past_antitoxin_injector" GUID="e931lllkf0u5c4H36dn49w==" mapDisplaySize="18"/>
-		<POI MapID="1370" xpos="-223.035" ypos="3"       zpos="185.105" type="story_journal.season_5.steel_and_fire.visions_of_the_past_antitoxin_injector" GUID="uxYR2h9nBEqrF8xR7uIBQA==" iconFile="Img/Season5/VisionsOfThePast.png" minSize="140" maxSize="140" fadeNear="1200" fadeFar="1500" mapVisibility="0" miniMapVisibility="0"/>
-		<POI MapID="1361" xpos="199.391"  ypos="5.32297" zpos="530.158" type="story_journal.season_5.steel_and_fire.visions_of_the_past_antitoxin_injector" GUID="ySOPwuJ1Ak+/gjUUuAL9Og=="/>
-
+		<POI MapID="1370" xpos="-223.035" ypos="0" zpos="185.105" type="story_journal.season_5.steel_and_fire.visions_of_the_past_antitoxin_injector" GUID="e931lllkf0u5c4H36dn49w==" mapDisplaySize="18" />
+		<POI MapID="1370" xpos="-223.035" ypos="3" zpos="185.105" type="story_journal.season_5.steel_and_fire.visions_of_the_past_antitoxin_injector" GUID="uxYR2h9nBEqrF8xR7uIBQA==" iconFile="Img/Season5/VisionsOfThePast.png" minSize="140" maxSize="140" fadeNear="1200" fadeFar="1500" mapVisibility="0" miniMapVisibility="0" />
+		<POI MapID="1361" xpos="199.391" ypos="5.32297" zpos="530.158" type="story_journal.season_5.steel_and_fire.visions_of_the_past_antitoxin_injector" GUID="ySOPwuJ1Ak+/gjUUuAL9Og==" />
 		<!-- VISIONS OF THE PAST: TOWER HYBRID MASTER -->
-		<POI MapID="1370" xpos="-223.035" ypos="0"       zpos="185.105" type="story_journal.season_5.steel_and_fire.visions_of_the_past_tower_hybrid_master" GUID="foyTBwDiyUG41Lq8zXi87Q==" mapDisplaySize="18"/>
-		<POI MapID="1370" xpos="-223.035" ypos="3"       zpos="185.105" type="story_journal.season_5.steel_and_fire.visions_of_the_past_tower_hybrid_master" GUID="gwW/K8Fmm0OTS2kAE9O78g==" iconFile="Img/Season5/VisionsOfThePast.png" minSize="140" maxSize="140" fadeNear="1200" fadeFar="1500" mapVisibility="0" miniMapVisibility="0"/>
-		<POI MapID="1361" xpos="293.127"  ypos="21.4421" zpos="492.39"  type="story_journal.season_5.steel_and_fire.visions_of_the_past_tower_hybrid_master" GUID="1dAT7iL3gUube8dtp6peYQ=="/>
-		<POI MapID="1361" xpos="293.127"  ypos="22.4421" zpos="492.39"  type="story_journal.season_5.steel_and_fire.visions_of_the_past_tower_hybrid_master" GUID="Ya/1MkV6sEm3Bkcj/fwORQ==" iconFile="Img/Season5/VisionsOfThePastTowerHybridMaster.png" minSize="140" maxSize="140" fadeNear="1200" fadeFar="1500" mapVisibility="0" miniMapVisibility="0"/>
-
+		<POI MapID="1370" xpos="-223.035" ypos="0" zpos="185.105" type="story_journal.season_5.steel_and_fire.visions_of_the_past_tower_hybrid_master" GUID="foyTBwDiyUG41Lq8zXi87Q==" mapDisplaySize="18" />
+		<POI MapID="1370" xpos="-223.035" ypos="3" zpos="185.105" type="story_journal.season_5.steel_and_fire.visions_of_the_past_tower_hybrid_master" GUID="gwW/K8Fmm0OTS2kAE9O78g==" iconFile="Img/Season5/VisionsOfThePast.png" minSize="140" maxSize="140" fadeNear="1200" fadeFar="1500" mapVisibility="0" miniMapVisibility="0" />
+		<POI MapID="1361" xpos="293.127" ypos="21.4421" zpos="492.39" type="story_journal.season_5.steel_and_fire.visions_of_the_past_tower_hybrid_master" GUID="1dAT7iL3gUube8dtp6peYQ==" />
+		<POI MapID="1361" xpos="293.127" ypos="22.4421" zpos="492.39" type="story_journal.season_5.steel_and_fire.visions_of_the_past_tower_hybrid_master" GUID="Ya/1MkV6sEm3Bkcj/fwORQ==" iconFile="Img/Season5/VisionsOfThePastTowerHybridMaster.png" minSize="140" maxSize="140" fadeNear="1200" fadeFar="1500" mapVisibility="0" miniMapVisibility="0" />
 	</POIs>
 </OverlayData>

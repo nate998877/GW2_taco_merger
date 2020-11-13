@@ -7,7 +7,7 @@ Date: 2017/10/05
 <OverlayData>
 	<MarkerCategory name="missions_de_guilde" DisplayName="Guild Missions">
 		<MarkerCategory name="courses" DisplayName="Races" iconFile="Img\Guide.png" iconSize="0.75" triggerRange="3">
-			<MarkerCategory name="debut" DisplayName="Start (All)" iconFile="Img\GuildeCourseDebut.png" iconSize="1.5" heightOffset="3"/>
+			<MarkerCategory name="debut" DisplayName="Start (All)" iconFile="Img\GuildeCourseDebut.png" iconSize="1.5" heightOffset="3" />
 		</MarkerCategory>
 	</MarkerCategory>
 </OverlayData>

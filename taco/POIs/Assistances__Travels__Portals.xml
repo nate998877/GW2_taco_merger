@@ -1,11 +1,9 @@
 <!-- 2020.06.25 -->
 <OverlayData>
 	<POIs>
-
 		<!-- Sandswept Isles -->
-		<POI MapID="1271" xpos="-389.689" ypos="7.84673" zpos="-37.3709" type="assistances.travels.portals" GUID="XMc/oVyOwkKQ0lW7J8bHNA=="/>
-		<POI MapID="1271" xpos="119.154"  ypos="66.5538" zpos="-650.42"  type="assistances.travels.portals" GUID="uB4vnVE0G0OWexWIR6BqIA=="/>
-		<POI MapID="1271" xpos="464.256"  ypos="47.5734" zpos="-678.587" type="assistances.travels.portals" GUID="WBAHMb/cH027hpk3IDQxpw=="/>
-
+		<POI MapID="1271" xpos="-389.689" ypos="7.84673" zpos="-37.3709" type="assistances.travels.portals" GUID="XMc/oVyOwkKQ0lW7J8bHNA==" />
+		<POI MapID="1271" xpos="119.154" ypos="66.5538" zpos="-650.42" type="assistances.travels.portals" GUID="uB4vnVE0G0OWexWIR6BqIA==" />
+		<POI MapID="1271" xpos="464.256" ypos="47.5734" zpos="-678.587" type="assistances.travels.portals" GUID="WBAHMb/cH027hpk3IDQxpw==" />
 	</POIs>
 </OverlayData>

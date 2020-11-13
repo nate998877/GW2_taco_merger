@@ -1,23 +1,19 @@
 <!-- 2019.12.25 -->
 <OverlayData>
 	<POIs>
-
 		<!-- ELDER -->
-		<POI MapID="51" xpos="-332.305" ypos="22.8746" zpos="-637.942" type="harvest.wood.elder" GUID="2fM10Ge2oUaSoXSJIqnNcA=="/>
-		<POI MapID="51" xpos="-333.538" ypos="22.8919" zpos="-633.126" type="harvest.wood.elder" GUID="vv1fIxAliEW33bSS+kFpcw=="/>
-		<POI MapID="51" xpos="-337.964" ypos="22.8914" zpos="-630.977" type="harvest.wood.elder" GUID="XMrzaSOkekK7xNRdhSxK2w=="/>
-		<POI MapID="51" xpos="-341.77"  ypos="22.913"  zpos="-631.941" type="harvest.wood.elder" GUID="zF8uzwdVake7umsnWsANUA=="/>
-
-		<POI MapID="65" xpos="845.39"   ypos="65.7886" zpos="-457.092" type="harvest.wood.elder" GUID="kKlFocBcv0SECzMmzSkokA=="/>
-		<POI MapID="65" xpos="845.409"  ypos="65.4688" zpos="-454.469" type="harvest.wood.elder" GUID="tbYEwjzvHEWFSfvVb/W/LA=="/>
-		<POI MapID="65" xpos="847.906"  ypos="64.4988" zpos="-452.182" type="harvest.wood.elder" GUID="j17tNFM9+0K+Z67zzf9Vgw=="/>
-		<POI MapID="65" xpos="851.126"  ypos="64.211"  zpos="-453.117" type="harvest.wood.elder" GUID="yHKKPO9kHUu993alpGsBRw=="/>
-		<POI MapID="65" xpos="852.398"  ypos="64.1804" zpos="-455.401" type="harvest.wood.elder" GUID="P4MfdZpg10+QSSFW445ADQ=="/>
-
+		<POI MapID="51" xpos="-332.305" ypos="22.8746" zpos="-637.942" type="harvest.wood.elder" GUID="2fM10Ge2oUaSoXSJIqnNcA==" />
+		<POI MapID="51" xpos="-333.538" ypos="22.8919" zpos="-633.126" type="harvest.wood.elder" GUID="vv1fIxAliEW33bSS+kFpcw==" />
+		<POI MapID="51" xpos="-337.964" ypos="22.8914" zpos="-630.977" type="harvest.wood.elder" GUID="XMrzaSOkekK7xNRdhSxK2w==" />
+		<POI MapID="51" xpos="-341.77" ypos="22.913" zpos="-631.941" type="harvest.wood.elder" GUID="zF8uzwdVake7umsnWsANUA==" />
+		<POI MapID="65" xpos="845.39" ypos="65.7886" zpos="-457.092" type="harvest.wood.elder" GUID="kKlFocBcv0SECzMmzSkokA==" />
+		<POI MapID="65" xpos="845.409" ypos="65.4688" zpos="-454.469" type="harvest.wood.elder" GUID="tbYEwjzvHEWFSfvVb/W/LA==" />
+		<POI MapID="65" xpos="847.906" ypos="64.4988" zpos="-452.182" type="harvest.wood.elder" GUID="j17tNFM9+0K+Z67zzf9Vgw==" />
+		<POI MapID="65" xpos="851.126" ypos="64.211" zpos="-453.117" type="harvest.wood.elder" GUID="yHKKPO9kHUu993alpGsBRw==" />
+		<POI MapID="65" xpos="852.398" ypos="64.1804" zpos="-455.401" type="harvest.wood.elder" GUID="P4MfdZpg10+QSSFW445ADQ==" />
 		<!-- ANCIENT -->
-		<POI MapID="1043" xpos="382.274" ypos="287.527" zpos="-50.8944" type="harvest.wood.ancient" GUID="Td/5AH68I0a8GGrfdH2T5Q=="/>
-		<POI MapID="1043" xpos="427.753" ypos="255.994" zpos="-75.4431" type="harvest.wood.ancient" GUID="3QKGFP6a8061UzMel2Sn7g=="/>
-		<POI MapID="1043" xpos="485.772" ypos="287.504" zpos="-61.648"  type="harvest.wood.ancient" GUID="yRgdZ6Zx3UuCcIHuzmRl9Q=="/>
-
+		<POI MapID="1043" xpos="382.274" ypos="287.527" zpos="-50.8944" type="harvest.wood.ancient" GUID="Td/5AH68I0a8GGrfdH2T5Q==" />
+		<POI MapID="1043" xpos="427.753" ypos="255.994" zpos="-75.4431" type="harvest.wood.ancient" GUID="3QKGFP6a8061UzMel2Sn7g==" />
+		<POI MapID="1043" xpos="485.772" ypos="287.504" zpos="-61.648" type="harvest.wood.ancient" GUID="yRgdZ6Zx3UuCcIHuzmRl9Q==" />
 	</POIs>
 </OverlayData>

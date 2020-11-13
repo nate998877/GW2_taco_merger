@@ -1,13 +1,10 @@
 <!-- 2020.06.09 -->
 <OverlayData>
 	<POIs>
-
 		<!-- DISTORED REFLECTION -->
-		<POI MapID="1029" xpos="-81.88" ypos="12.3595" zpos="-155.03" type="story_journal.season_2.point_of_no_return.distored_reflection" GUID="YTBeA03gNk6l2mUNUe1C6g=="/>
-		<POI MapID="1029" xpos="-81.88" ypos="15"      zpos="-155.03" type="story_journal.season_2.point_of_no_return.distored_reflection" GUID="1JwZuR4vgUumjFIex8eSvA==" iconFile="Img/Icons/Torch.png" mapVisibility="0" miniMapVisibility="0"/>
-
+		<POI MapID="1029" xpos="-81.88" ypos="12.3595" zpos="-155.03" type="story_journal.season_2.point_of_no_return.distored_reflection" GUID="YTBeA03gNk6l2mUNUe1C6g==" />
+		<POI MapID="1029" xpos="-81.88" ypos="15" zpos="-155.03" type="story_journal.season_2.point_of_no_return.distored_reflection" GUID="1JwZuR4vgUumjFIex8eSvA==" iconFile="Img/Icons/Torch.png" mapVisibility="0" miniMapVisibility="0" />
 		<!-- NO CULINARY APPLICATION -->
-		<POI MapID="1029" xpos="-204.9" ypos="142.914" zpos="294.81" type="story_journal.season_2.point_of_no_return.no_culinary_application" GUID="QeTXa8E50k6vEU2vmIeW8w==" iconFile="Img/Season2/NoCulinaryApplication.png" heightOffset="4"/>
-
+		<POI MapID="1029" xpos="-204.9" ypos="142.914" zpos="294.81" type="story_journal.season_2.point_of_no_return.no_culinary_application" GUID="QeTXa8E50k6vEU2vmIeW8w==" iconFile="Img/Season2/NoCulinaryApplication.png" heightOffset="4" />
 	</POIs>
 </OverlayData>

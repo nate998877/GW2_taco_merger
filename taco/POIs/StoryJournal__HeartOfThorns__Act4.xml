@@ -1,10 +1,8 @@
 <!-- 2020.06.09 -->
 <OverlayData>
 	<POIs>
-
 		<!-- LINE OF FIRE -->
-		<POI MapID="1054" xpos="369.519" ypos="94" zpos="-690.655" type="story_journal.heart_of_thorns.act_4.line_of_fire" GUID="xIyes3oMaUazCnUDQR6HPA=="/>
-		<POI MapID="1054" xpos="369.519" ypos="96" zpos="-690.655" type="story_journal.heart_of_thorns.act_4.line_of_fire" GUID="ibq9I1uvjk6PgLfckQR1zQ==" iconFile="Img/Icons/Fight.png" mapVisibility="0" miniMapVisibility="0"/>
-
+		<POI MapID="1054" xpos="369.519" ypos="94" zpos="-690.655" type="story_journal.heart_of_thorns.act_4.line_of_fire" GUID="xIyes3oMaUazCnUDQR6HPA==" />
+		<POI MapID="1054" xpos="369.519" ypos="96" zpos="-690.655" type="story_journal.heart_of_thorns.act_4.line_of_fire" GUID="ibq9I1uvjk6PgLfckQR1zQ==" iconFile="Img/Icons/Fight.png" mapVisibility="0" miniMapVisibility="0" />
 	</POIs>
 </OverlayData>

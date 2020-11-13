@@ -1,9 +1,7 @@
 <!-- 2020.06.09 -->
 <OverlayData>
 	<POIs>
-
 		<!-- BITTERFROST FRONTIER - THAW ELIXIR -->
-		<POI MapID="1178" xpos="806.832" ypos="-0.0168" zpos="-384.422" type="assistances.bitterfrost_frontier.thaw_elixir" GUID="aOLf6nEK80uTewUlyZPerg==" iconFile="Img/Season3/ThawElixir.png" minSize="100" maxSize="120" fadeNear="1200" fadeFar="1500" mapVisibility="0" miniMapVisibility="0"/>
-
+		<POI MapID="1178" xpos="806.832" ypos="-0.0168" zpos="-384.422" type="assistances.bitterfrost_frontier.thaw_elixir" GUID="aOLf6nEK80uTewUlyZPerg==" iconFile="Img/Season3/ThawElixir.png" minSize="100" maxSize="120" fadeNear="1200" fadeFar="1500" mapVisibility="0" miniMapVisibility="0" />
 	</POIs>
 </OverlayData>

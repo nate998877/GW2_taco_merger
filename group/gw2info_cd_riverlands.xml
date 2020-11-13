@@ -2,90 +2,91 @@
 	<MarkerCategory name="crystal" DisplayName="Crystal Desert">
 		<MarkerCategory name="riverlands" DisplayName="Elon Riverlands">
 			<MarkerCategory name="collectibles" DisplayName="Collectibles">
-				<MarkerCategory name="magic" DisplayName="Magic Hunter" iconFile="Data/gw2info/magic.png" behavior="3" triggerRange="5"></MarkerCategory>
-				<MarkerCategory name="debris" DisplayName="Forgotten Debris" iconFile="Data/gw2info/debris.png" behavior="3" triggerRange="5"></MarkerCategory>
-				<MarkerCategory name="legacy" DisplayName="The Legacy (Lost Lore)" iconFile="Data/gw2info/book.png" behavior="3" triggerRange="5"></MarkerCategory>				
+				<MarkerCategory name="magic" DisplayName="Magic Hunter" iconFile="Data/gw2info/magic.png" behavior="3" triggerRange="5">
+				</MarkerCategory>
+				<MarkerCategory name="debris" DisplayName="Forgotten Debris" iconFile="Data/gw2info/debris.png" behavior="3" triggerRange="5">
+				</MarkerCategory>
+				<MarkerCategory name="legacy" DisplayName="The Legacy (Lost Lore)" iconFile="Data/gw2info/book.png" behavior="3" triggerRange="5">
+				</MarkerCategory>
 			</MarkerCategory>
-			<MarkerCategory name="shadi" DisplayName="Equipment Tracker" iconFile="Data/gw2info/armor.png" behavior="3" triggerRange="5"></MarkerCategory>
-			<MarkerCategory name="teleporter" DisplayName="Frequent Forgotten Teleporter" iconFile="Data/gw2info/teleport.png" behavior="3" triggerRange="5"></MarkerCategory>
-			<MarkerCategory name="descension" DisplayName="Descension" iconFile="Data/gw2info/teleport.png" behavior="3" triggerRange="5"></MarkerCategory>
+			<MarkerCategory name="shadi" DisplayName="Equipment Tracker" iconFile="Data/gw2info/armor.png" behavior="3" triggerRange="5">
+			</MarkerCategory>
+			<MarkerCategory name="teleporter" DisplayName="Frequent Forgotten Teleporter" iconFile="Data/gw2info/teleport.png" behavior="3" triggerRange="5">
+			</MarkerCategory>
+			<MarkerCategory name="descension" DisplayName="Descension" iconFile="Data/gw2info/teleport.png" behavior="3" triggerRange="5">
+			</MarkerCategory>
 		</MarkerCategory>
 	</MarkerCategory>
 	<POIs>
-		<POI MapID="1228" xpos="138.413" ypos="115.674" zpos="682.197" type="crystal.riverlands.teleporter" GUID="Pb9anftEy0OdgXHweEKPBA=="/>
-		<POI MapID="1228" xpos="-128.494" ypos="23.1614" zpos="-202.928" type="crystal.riverlands.teleporter" GUID="2Qhw5PiHzUOYPKlgjtiWpA=="/>
-		<POI MapID="1228" xpos="-200.541" ypos="47.5116" zpos="-263.087" type="crystal.riverlands.teleporter" GUID="G2psP3qQekugxlYCbjIIOQ=="/>
-		<POI MapID="1228" xpos="924.226" ypos="68.6377" zpos="287.675" type="crystal.riverlands.teleporter" GUID="FrH7cEBzy0CbAhkh8ktpsw=="/>
-		<POI MapID="1228" xpos="947.983" ypos="52.1825" zpos="355.444" type="crystal.riverlands.teleporter" GUID="Vm97V9C0JUiXBEntWnWZ+g=="/>
-		<POI MapID="1228" xpos="1012.97" ypos="15.4299" zpos="-83.3085" type="crystal.riverlands.teleporter" GUID="qCX+6/dngUKNWk8Sdg2PPA=="/>
-		<POI MapID="1228" xpos="-198.801" ypos="27.2999" zpos="417.448" type="crystal.riverlands.teleporter" GUID="3T/5zkgkCk2Z1/RU6dEpEQ=="/>
-		<POI MapID="1210" xpos="890.629" ypos="13.6896" zpos="-153.06" type="crystal.riverlands.teleporter" GUID="g2xgnJZ49E+PTd1h8D+oRA=="/>
-		<POI MapID="1210" xpos="379.081" ypos="60.2491" zpos="171.18" type="crystal.riverlands.teleporter" GUID="lLDAwOTGykSvlsJiGPd0EQ=="/>
-		<POI MapID="1210" xpos="1384.16" ypos="176.133" zpos="483.506" type="crystal.riverlands.teleporter" GUID="0U5F6dC/y0qumte53dxY3Q=="/>
-		<POI MapID="1210" xpos="309.013" ypos="59.2268" zpos="397.984" type="crystal.riverlands.teleporter" GUID="m9o/rO3u6E+MOfRNKQcNmA=="/>
-		<POI MapID="1210" xpos="1232.27" ypos="189.521" zpos="474.811" type="crystal.riverlands.teleporter" GUID="i3FFJnG6EkKrLUYevCXlVw=="/>
-		<POI MapID="1210" xpos="-366.782" ypos="52.6841" zpos="665.375" type="crystal.riverlands.teleporter" GUID="UmQqRGrnnEesDvgBEKhy0Q=="/>
-		<POI MapID="1210" xpos="-1107.88" ypos="-0.157011" zpos="434.055" type="crystal.riverlands.teleporter" GUID="fZJWfA76oECAk5zfWhOpFQ=="/>
-		<POI MapID="1210" xpos="898.338" ypos="164.154" zpos="6.1059" type="crystal.riverlands.teleporter" GUID="Oe1zhagK+UaZlZqG64EZzw=="/>
-	
-		<POI MapID="1228" xpos="-1056.3" ypos="5.75256" zpos="-164.795" type="crystal.riverlands.collectibles.magic" GUID="DIo+RmKK0kC36RLJui0VKg=="/>
-		<POI MapID="1228" xpos="-829.849" ypos="74.7596" zpos="-810.156" type="crystal.riverlands.collectibles.magic" GUID="cUbQySVDS0SwSVWa0jdDtA=="/>
-		<POI MapID="1228" xpos="-566.052" ypos="10.0269" zpos="-582.87" type="crystal.riverlands.collectibles.magic" GUID="zKvq7Te+mU+T9UkV3cJHcA=="/>
-		<POI MapID="1228" xpos="-182.771" ypos="1.58095" zpos="-934.982" type="crystal.riverlands.collectibles.magic" GUID="6EpbmNFNX0KPc4/GZico+g=="/>
-		<POI MapID="1228" xpos="957.234" ypos="4.99304" zpos="-863.784" type="crystal.riverlands.collectibles.magic" GUID="RRdEVn+vjEeoBeUT6MJYnA=="/>
-		<POI MapID="1228" xpos="624.363" ypos="91.729" zpos="-359.157" type="crystal.riverlands.collectibles.magic" GUID="abzlsGfUR0SJMySiecdq8g=="/>
-		<POI MapID="1228" xpos="875.239" ypos="14.4714" zpos="-109.931" type="crystal.riverlands.collectibles.magic" GUID="0GDbLhgb9ECR+q6LN0lQIg=="/>
-		<POI MapID="1228" xpos="228.4" ypos="5.32521" zpos="7.98125" type="crystal.riverlands.collectibles.magic" GUID="uT7QCqSM5UyhZIEvU9uUSQ=="/>
-		<POI MapID="1228" xpos="-423.482" ypos="3.23821" zpos="142.915" type="crystal.riverlands.collectibles.magic" GUID="DG1velnMB0mcOJKbjSn1bw=="/>
-		<POI MapID="1228" xpos="-1051.26" ypos="47.8801" zpos="416.238" type="crystal.riverlands.collectibles.magic" GUID="ASPf0Y4oYkWM/NQAb0SCVg=="/>
-		<POI MapID="1228" xpos="-961.585" ypos="114.76" zpos="840.32" type="crystal.riverlands.collectibles.magic" GUID="cqlneBi4DE+nz8mjWv0FQw=="/>
-		<POI MapID="1228" xpos="-135.138" ypos="89.3343" zpos="929.446" type="crystal.riverlands.collectibles.magic" GUID="+hVX8gKpWEq+H/t+EeQVLQ=="/>
-		<POI MapID="1228" xpos="-107.464" ypos="139.854" zpos="787.894" type="crystal.riverlands.collectibles.magic" GUID="sIrQFEDyGU2r/5a3cX2oKw=="/>
-		<POI MapID="1228" xpos="-119.574" ypos="73.5293" zpos="534.076" type="crystal.riverlands.collectibles.magic" GUID="chVoxEkmz0eWNqIW+DJeBA=="/>
-		<POI MapID="1228" xpos="553.575" ypos="125.644" zpos="774.647" type="crystal.riverlands.collectibles.magic" GUID="5DAB4tJ/akacDLHEAVxkFw=="/>
-
-		<POI MapID="1228" xpos="87.484" ypos="93.7311" zpos="965.534" type="crystal.riverlands.descension" GUID="bCens07sqke2DYuyQf20vg==" iconFile="Data/gw2info/enter.png"/>
-		<POI MapID="1228" xpos="-181.118" ypos="1.20998" zpos="947.878" type="crystal.riverlands.descension" GUID="LFoRtvuoD0uHJxqG0Eu9qQ=="/>
-
-		<POI MapID="1228" xpos="1069.48" ypos="3.41041" zpos="-333.157" type="crystal.riverlands.collectibles.legacy" GUID="dYFARBzyO0qTWYxTkM5fkQ=="/>
-		<POI MapID="1228" xpos="275.834" ypos="27.6243" zpos="-10.7613" type="crystal.riverlands.collectibles.legacy" GUID="uAm2rMNcXUu3ERZpSXKGQw=="/>
-		<POI MapID="1228" xpos="330.134" ypos="196.372" zpos="805.234" type="crystal.riverlands.collectibles.legacy" GUID="bPJujxK/uk2haO79BnBv9Q=="/>
-		<POI MapID="1228" xpos="625.595" ypos="10.9481" zpos="-942.316" type="crystal.riverlands.collectibles.legacy" GUID="xIEmICRquE+795PJHJNwGA=="/>
-		<POI MapID="1228" xpos="-443.516" ypos="27.2161" zpos="-92.0905" type="crystal.riverlands.collectibles.legacy" GUID="8uXKrOSYUkuu3TmTzb+d9Q=="/>
-		<POI MapID="1228" xpos="-701.152" ypos="100.153" zpos="-205.62" type="crystal.riverlands.collectibles.legacy" GUID="eNAz+ItMJE+Wn1IccvcxfQ=="/>
-		<POI MapID="1228" xpos="-1031.33" ypos="17.5995" zpos="-624.529" type="crystal.riverlands.collectibles.legacy" GUID="GAMoMXDgxUKG3CwLf1jONw=="/>
-
-		<POI MapID="1228" xpos="-593.049" ypos="26.6602" zpos="-343.203" type="crystal.riverlands.shadi" GUID="JQGCKqn2tEKfKpHgeCcj8g=="/>
-		<POI MapID="1228" xpos="-780.162" ypos="108.689" zpos="998.063" type="crystal.riverlands.shadi" GUID="x/RcH2WQ30mwRqPHW6oFcw=="/>
-		<POI MapID="1228" xpos="-985.567" ypos="42.2137" zpos="279.538" type="crystal.riverlands.shadi" GUID="t2uYKcyD0Ee6aaxhJiyNqg=="/>
-		<POI MapID="1228" xpos="1036.51" ypos="58.1634" zpos="736.228" type="crystal.riverlands.shadi" GUID="IQB3WzoM0EaAxxpdCW4hFg=="/>
-		<POI MapID="1228" xpos="-343.31" ypos="4.93279" zpos="176.202" type="crystal.riverlands.shadi" GUID="FWEBsW3fS0GpXL7bmZo6/w=="/>
-
-		<POI MapID="1228" xpos="-1000.54" ypos="36.9994" zpos="-917.014" type="crystal.riverlands.collectibles.debris" GUID="VVjTF9aYFEmyGH19r/2bXQ=="/>
-		<POI MapID="1228" xpos="-1046.13" ypos="5.62047" zpos="-430.243" type="crystal.riverlands.collectibles.debris" GUID="tZxEo1pchk+V3PFnR8GxdA=="/>
-		<POI MapID="1228" xpos="-1050.1" ypos="5.91988" zpos="-157.742" type="crystal.riverlands.collectibles.debris" GUID="wpJMx8tCcUK5iZlOMFJw+g=="/>
-		<POI MapID="1228" xpos="-124.83" ypos="33.4708" zpos="974.11" type="crystal.riverlands.collectibles.debris" GUID="Mf2eA4JldkubIYHD1+6VaA=="/>
-		<POI MapID="1228" xpos="-128.873" ypos="21.7787" zpos="-193.257" type="crystal.riverlands.collectibles.debris" GUID="wQeO/90Xu0qTPfjp+7trbA=="/>
-		<POI MapID="1228" xpos="-178.122" ypos="93.7632" zpos="993.417" type="crystal.riverlands.collectibles.debris" GUID="MIEDO2NVHkm4p71rABjs0w=="/>
-		<POI MapID="1228" xpos="-199.981" ypos="136.279" zpos="651.012" type="crystal.riverlands.collectibles.debris" GUID="PknZ+36QTkuucX9rnIbasA=="/>
-		<POI MapID="1228" xpos="-323.324" ypos="96.9089" zpos="-713.232" type="crystal.riverlands.collectibles.debris" GUID="GkGFeftkb0ePSptL5/DVHQ=="/>
-		<POI MapID="1228" xpos="-351.206" ypos="126.593" zpos="-429.059" type="crystal.riverlands.collectibles.debris" GUID="tOjIxl68uUer3V4wQ1Z+5A=="/>
-		<POI MapID="1228" xpos="-414.236" ypos="4.4285" zpos="166.239" type="crystal.riverlands.collectibles.debris" GUID="OBB0gdql/UCJjdJbzbP6uA=="/>
-		<POI MapID="1228" xpos="-676.369" ypos="45.907" zpos="-749.506" type="crystal.riverlands.collectibles.debris" GUID="hMK9Ynz140emc2xkEfMj2g=="/>
-		<POI MapID="1228" xpos="-789.901" ypos="108.705" zpos="997.716" type="crystal.riverlands.collectibles.debris" GUID="ugReZrODSUetNb7n9B+3fA=="/>
-		<POI MapID="1228" xpos="-807.874" ypos="22.3557" zpos="351.684" type="crystal.riverlands.collectibles.debris" GUID="Q/2b+MHxOkm+RA1fkHcnlA=="/>
-		<POI MapID="1228" xpos="-877.127" ypos="145.318" zpos="742.115" type="crystal.riverlands.collectibles.debris" GUID="1ElRgHAch0uDP2J4v4hblw=="/>
-		<POI MapID="1228" xpos="-927.146" ypos="80.816" zpos="347.866" type="crystal.riverlands.collectibles.debris" GUID="xnhfkvyRy0u0SNzC0F7yPA=="/>
-		<POI MapID="1228" xpos="1011.34" ypos="83.7438" zpos="959.282" type="crystal.riverlands.collectibles.debris" GUID="BN1ScW1kKEiqKmO/eEr3hw=="/>
-		<POI MapID="1228" xpos="108.001" ypos="-11.3226" zpos="-552.351" type="crystal.riverlands.collectibles.debris" GUID="NrtX3Bc3k0aasLYlGu9o9Q=="/>
-		<POI MapID="1228" xpos="232.96" ypos="-74.0307" zpos="34.5845" type="crystal.riverlands.collectibles.debris" GUID="qiwCAE3my0qaPFk4qyZE9Q=="/>
-		<POI MapID="1228" xpos="364.273" ypos="183.689" zpos="776.367" type="crystal.riverlands.collectibles.debris" GUID="3cEkcC9DUkOdxbWR5cUBOA=="/>
-		<POI MapID="1228" xpos="455.956" ypos="95.6443" zpos="-407.174" type="crystal.riverlands.collectibles.debris" GUID="9tiI8qreBkaFZFB60DDmKw=="/>
-		<POI MapID="1228" xpos="495.627" ypos="64.2692" zpos="768.58" type="crystal.riverlands.collectibles.debris" GUID="tT5WYfG8QU2Qke+95NPtrA=="/>
-		<POI MapID="1228" xpos="546.499" ypos="35.8548" zpos="-636.064" type="crystal.riverlands.collectibles.debris" GUID="kHewwmSprkuWw7DcUWXdvw=="/>
-		<POI MapID="1228" xpos="682.828" ypos="5.95819" zpos="-867.506" type="crystal.riverlands.collectibles.debris" GUID="5SwrGuqbVE6zweSMSylI5g=="/>
-		<POI MapID="1228" xpos="689.988" ypos="48.4068" zpos="271.445" type="crystal.riverlands.collectibles.debris" GUID="9T+gbiAcNEmRTXPvjd5abw=="/>
-		<POI MapID="1228" xpos="75.7019" ypos="72.9641" zpos="346.832" type="crystal.riverlands.collectibles.debris" GUID="ZF/lRlkD60qO02GUQArCKQ=="/>
-		<POI MapID="1228" xpos="938.204" ypos="11.2083" zpos="2.4996" type="crystal.riverlands.collectibles.debris" GUID="NrRPEkge6keZbieSLogVrA=="/>
+		<POI MapID="1228" xpos="138.413" ypos="115.674" zpos="682.197" type="crystal.riverlands.teleporter" GUID="Pb9anftEy0OdgXHweEKPBA==" />
+		<POI MapID="1228" xpos="-128.494" ypos="23.1614" zpos="-202.928" type="crystal.riverlands.teleporter" GUID="2Qhw5PiHzUOYPKlgjtiWpA==" />
+		<POI MapID="1228" xpos="-200.541" ypos="47.5116" zpos="-263.087" type="crystal.riverlands.teleporter" GUID="G2psP3qQekugxlYCbjIIOQ==" />
+		<POI MapID="1228" xpos="924.226" ypos="68.6377" zpos="287.675" type="crystal.riverlands.teleporter" GUID="FrH7cEBzy0CbAhkh8ktpsw==" />
+		<POI MapID="1228" xpos="947.983" ypos="52.1825" zpos="355.444" type="crystal.riverlands.teleporter" GUID="Vm97V9C0JUiXBEntWnWZ+g==" />
+		<POI MapID="1228" xpos="1012.97" ypos="15.4299" zpos="-83.3085" type="crystal.riverlands.teleporter" GUID="qCX+6/dngUKNWk8Sdg2PPA==" />
+		<POI MapID="1228" xpos="-198.801" ypos="27.2999" zpos="417.448" type="crystal.riverlands.teleporter" GUID="3T/5zkgkCk2Z1/RU6dEpEQ==" />
+		<POI MapID="1210" xpos="890.629" ypos="13.6896" zpos="-153.06" type="crystal.riverlands.teleporter" GUID="g2xgnJZ49E+PTd1h8D+oRA==" />
+		<POI MapID="1210" xpos="379.081" ypos="60.2491" zpos="171.18" type="crystal.riverlands.teleporter" GUID="lLDAwOTGykSvlsJiGPd0EQ==" />
+		<POI MapID="1210" xpos="1384.16" ypos="176.133" zpos="483.506" type="crystal.riverlands.teleporter" GUID="0U5F6dC/y0qumte53dxY3Q==" />
+		<POI MapID="1210" xpos="309.013" ypos="59.2268" zpos="397.984" type="crystal.riverlands.teleporter" GUID="m9o/rO3u6E+MOfRNKQcNmA==" />
+		<POI MapID="1210" xpos="1232.27" ypos="189.521" zpos="474.811" type="crystal.riverlands.teleporter" GUID="i3FFJnG6EkKrLUYevCXlVw==" />
+		<POI MapID="1210" xpos="-366.782" ypos="52.6841" zpos="665.375" type="crystal.riverlands.teleporter" GUID="UmQqRGrnnEesDvgBEKhy0Q==" />
+		<POI MapID="1210" xpos="-1107.88" ypos="-0.157011" zpos="434.055" type="crystal.riverlands.teleporter" GUID="fZJWfA76oECAk5zfWhOpFQ==" />
+		<POI MapID="1210" xpos="898.338" ypos="164.154" zpos="6.1059" type="crystal.riverlands.teleporter" GUID="Oe1zhagK+UaZlZqG64EZzw==" />
+		<POI MapID="1228" xpos="-1056.3" ypos="5.75256" zpos="-164.795" type="crystal.riverlands.collectibles.magic" GUID="DIo+RmKK0kC36RLJui0VKg==" />
+		<POI MapID="1228" xpos="-829.849" ypos="74.7596" zpos="-810.156" type="crystal.riverlands.collectibles.magic" GUID="cUbQySVDS0SwSVWa0jdDtA==" />
+		<POI MapID="1228" xpos="-566.052" ypos="10.0269" zpos="-582.87" type="crystal.riverlands.collectibles.magic" GUID="zKvq7Te+mU+T9UkV3cJHcA==" />
+		<POI MapID="1228" xpos="-182.771" ypos="1.58095" zpos="-934.982" type="crystal.riverlands.collectibles.magic" GUID="6EpbmNFNX0KPc4/GZico+g==" />
+		<POI MapID="1228" xpos="957.234" ypos="4.99304" zpos="-863.784" type="crystal.riverlands.collectibles.magic" GUID="RRdEVn+vjEeoBeUT6MJYnA==" />
+		<POI MapID="1228" xpos="624.363" ypos="91.729" zpos="-359.157" type="crystal.riverlands.collectibles.magic" GUID="abzlsGfUR0SJMySiecdq8g==" />
+		<POI MapID="1228" xpos="875.239" ypos="14.4714" zpos="-109.931" type="crystal.riverlands.collectibles.magic" GUID="0GDbLhgb9ECR+q6LN0lQIg==" />
+		<POI MapID="1228" xpos="228.4" ypos="5.32521" zpos="7.98125" type="crystal.riverlands.collectibles.magic" GUID="uT7QCqSM5UyhZIEvU9uUSQ==" />
+		<POI MapID="1228" xpos="-423.482" ypos="3.23821" zpos="142.915" type="crystal.riverlands.collectibles.magic" GUID="DG1velnMB0mcOJKbjSn1bw==" />
+		<POI MapID="1228" xpos="-1051.26" ypos="47.8801" zpos="416.238" type="crystal.riverlands.collectibles.magic" GUID="ASPf0Y4oYkWM/NQAb0SCVg==" />
+		<POI MapID="1228" xpos="-961.585" ypos="114.76" zpos="840.32" type="crystal.riverlands.collectibles.magic" GUID="cqlneBi4DE+nz8mjWv0FQw==" />
+		<POI MapID="1228" xpos="-135.138" ypos="89.3343" zpos="929.446" type="crystal.riverlands.collectibles.magic" GUID="+hVX8gKpWEq+H/t+EeQVLQ==" />
+		<POI MapID="1228" xpos="-107.464" ypos="139.854" zpos="787.894" type="crystal.riverlands.collectibles.magic" GUID="sIrQFEDyGU2r/5a3cX2oKw==" />
+		<POI MapID="1228" xpos="-119.574" ypos="73.5293" zpos="534.076" type="crystal.riverlands.collectibles.magic" GUID="chVoxEkmz0eWNqIW+DJeBA==" />
+		<POI MapID="1228" xpos="553.575" ypos="125.644" zpos="774.647" type="crystal.riverlands.collectibles.magic" GUID="5DAB4tJ/akacDLHEAVxkFw==" />
+		<POI MapID="1228" xpos="87.484" ypos="93.7311" zpos="965.534" type="crystal.riverlands.descension" GUID="bCens07sqke2DYuyQf20vg==" iconFile="Data/gw2info/enter.png" />
+		<POI MapID="1228" xpos="-181.118" ypos="1.20998" zpos="947.878" type="crystal.riverlands.descension" GUID="LFoRtvuoD0uHJxqG0Eu9qQ==" />
+		<POI MapID="1228" xpos="1069.48" ypos="3.41041" zpos="-333.157" type="crystal.riverlands.collectibles.legacy" GUID="dYFARBzyO0qTWYxTkM5fkQ==" />
+		<POI MapID="1228" xpos="275.834" ypos="27.6243" zpos="-10.7613" type="crystal.riverlands.collectibles.legacy" GUID="uAm2rMNcXUu3ERZpSXKGQw==" />
+		<POI MapID="1228" xpos="330.134" ypos="196.372" zpos="805.234" type="crystal.riverlands.collectibles.legacy" GUID="bPJujxK/uk2haO79BnBv9Q==" />
+		<POI MapID="1228" xpos="625.595" ypos="10.9481" zpos="-942.316" type="crystal.riverlands.collectibles.legacy" GUID="xIEmICRquE+795PJHJNwGA==" />
+		<POI MapID="1228" xpos="-443.516" ypos="27.2161" zpos="-92.0905" type="crystal.riverlands.collectibles.legacy" GUID="8uXKrOSYUkuu3TmTzb+d9Q==" />
+		<POI MapID="1228" xpos="-701.152" ypos="100.153" zpos="-205.62" type="crystal.riverlands.collectibles.legacy" GUID="eNAz+ItMJE+Wn1IccvcxfQ==" />
+		<POI MapID="1228" xpos="-1031.33" ypos="17.5995" zpos="-624.529" type="crystal.riverlands.collectibles.legacy" GUID="GAMoMXDgxUKG3CwLf1jONw==" />
+		<POI MapID="1228" xpos="-593.049" ypos="26.6602" zpos="-343.203" type="crystal.riverlands.shadi" GUID="JQGCKqn2tEKfKpHgeCcj8g==" />
+		<POI MapID="1228" xpos="-780.162" ypos="108.689" zpos="998.063" type="crystal.riverlands.shadi" GUID="x/RcH2WQ30mwRqPHW6oFcw==" />
+		<POI MapID="1228" xpos="-985.567" ypos="42.2137" zpos="279.538" type="crystal.riverlands.shadi" GUID="t2uYKcyD0Ee6aaxhJiyNqg==" />
+		<POI MapID="1228" xpos="1036.51" ypos="58.1634" zpos="736.228" type="crystal.riverlands.shadi" GUID="IQB3WzoM0EaAxxpdCW4hFg==" />
+		<POI MapID="1228" xpos="-343.31" ypos="4.93279" zpos="176.202" type="crystal.riverlands.shadi" GUID="FWEBsW3fS0GpXL7bmZo6/w==" />
+		<POI MapID="1228" xpos="-1000.54" ypos="36.9994" zpos="-917.014" type="crystal.riverlands.collectibles.debris" GUID="VVjTF9aYFEmyGH19r/2bXQ==" />
+		<POI MapID="1228" xpos="-1046.13" ypos="5.62047" zpos="-430.243" type="crystal.riverlands.collectibles.debris" GUID="tZxEo1pchk+V3PFnR8GxdA==" />
+		<POI MapID="1228" xpos="-1050.1" ypos="5.91988" zpos="-157.742" type="crystal.riverlands.collectibles.debris" GUID="wpJMx8tCcUK5iZlOMFJw+g==" />
+		<POI MapID="1228" xpos="-124.83" ypos="33.4708" zpos="974.11" type="crystal.riverlands.collectibles.debris" GUID="Mf2eA4JldkubIYHD1+6VaA==" />
+		<POI MapID="1228" xpos="-128.873" ypos="21.7787" zpos="-193.257" type="crystal.riverlands.collectibles.debris" GUID="wQeO/90Xu0qTPfjp+7trbA==" />
+		<POI MapID="1228" xpos="-178.122" ypos="93.7632" zpos="993.417" type="crystal.riverlands.collectibles.debris" GUID="MIEDO2NVHkm4p71rABjs0w==" />
+		<POI MapID="1228" xpos="-199.981" ypos="136.279" zpos="651.012" type="crystal.riverlands.collectibles.debris" GUID="PknZ+36QTkuucX9rnIbasA==" />
+		<POI MapID="1228" xpos="-323.324" ypos="96.9089" zpos="-713.232" type="crystal.riverlands.collectibles.debris" GUID="GkGFeftkb0ePSptL5/DVHQ==" />
+		<POI MapID="1228" xpos="-351.206" ypos="126.593" zpos="-429.059" type="crystal.riverlands.collectibles.debris" GUID="tOjIxl68uUer3V4wQ1Z+5A==" />
+		<POI MapID="1228" xpos="-414.236" ypos="4.4285" zpos="166.239" type="crystal.riverlands.collectibles.debris" GUID="OBB0gdql/UCJjdJbzbP6uA==" />
+		<POI MapID="1228" xpos="-676.369" ypos="45.907" zpos="-749.506" type="crystal.riverlands.collectibles.debris" GUID="hMK9Ynz140emc2xkEfMj2g==" />
+		<POI MapID="1228" xpos="-789.901" ypos="108.705" zpos="997.716" type="crystal.riverlands.collectibles.debris" GUID="ugReZrODSUetNb7n9B+3fA==" />
+		<POI MapID="1228" xpos="-807.874" ypos="22.3557" zpos="351.684" type="crystal.riverlands.collectibles.debris" GUID="Q/2b+MHxOkm+RA1fkHcnlA==" />
+		<POI MapID="1228" xpos="-877.127" ypos="145.318" zpos="742.115" type="crystal.riverlands.collectibles.debris" GUID="1ElRgHAch0uDP2J4v4hblw==" />
+		<POI MapID="1228" xpos="-927.146" ypos="80.816" zpos="347.866" type="crystal.riverlands.collectibles.debris" GUID="xnhfkvyRy0u0SNzC0F7yPA==" />
+		<POI MapID="1228" xpos="1011.34" ypos="83.7438" zpos="959.282" type="crystal.riverlands.collectibles.debris" GUID="BN1ScW1kKEiqKmO/eEr3hw==" />
+		<POI MapID="1228" xpos="108.001" ypos="-11.3226" zpos="-552.351" type="crystal.riverlands.collectibles.debris" GUID="NrtX3Bc3k0aasLYlGu9o9Q==" />
+		<POI MapID="1228" xpos="232.96" ypos="-74.0307" zpos="34.5845" type="crystal.riverlands.collectibles.debris" GUID="qiwCAE3my0qaPFk4qyZE9Q==" />
+		<POI MapID="1228" xpos="364.273" ypos="183.689" zpos="776.367" type="crystal.riverlands.collectibles.debris" GUID="3cEkcC9DUkOdxbWR5cUBOA==" />
+		<POI MapID="1228" xpos="455.956" ypos="95.6443" zpos="-407.174" type="crystal.riverlands.collectibles.debris" GUID="9tiI8qreBkaFZFB60DDmKw==" />
+		<POI MapID="1228" xpos="495.627" ypos="64.2692" zpos="768.58" type="crystal.riverlands.collectibles.debris" GUID="tT5WYfG8QU2Qke+95NPtrA==" />
+		<POI MapID="1228" xpos="546.499" ypos="35.8548" zpos="-636.064" type="crystal.riverlands.collectibles.debris" GUID="kHewwmSprkuWw7DcUWXdvw==" />
+		<POI MapID="1228" xpos="682.828" ypos="5.95819" zpos="-867.506" type="crystal.riverlands.collectibles.debris" GUID="5SwrGuqbVE6zweSMSylI5g==" />
+		<POI MapID="1228" xpos="689.988" ypos="48.4068" zpos="271.445" type="crystal.riverlands.collectibles.debris" GUID="9T+gbiAcNEmRTXPvjd5abw==" />
+		<POI MapID="1228" xpos="75.7019" ypos="72.9641" zpos="346.832" type="crystal.riverlands.collectibles.debris" GUID="ZF/lRlkD60qO02GUQArCKQ==" />
+		<POI MapID="1228" xpos="938.204" ypos="11.2083" zpos="2.4996" type="crystal.riverlands.collectibles.debris" GUID="NrRPEkge6keZbieSLogVrA==" />
 	</POIs>
 </OverlayData>

@@ -1,498 +1,498 @@
 <OverlayData>
-<MarkerCategory name="tw_guides" DisplayName="Tekkit's Guides">
-  <MarkerCategory name="tw_hot" DisplayName="Heart of Thorns">
-    <MarkerCategory name="tw_hot_ds" DisplayName="Dragon's Stand">
-      <MarkerCategory name="separatords1" IsSeparator="1" DisplayName="<-----[FARMING]----->">
-        </MarkerCategory>
-      <MarkerCategory name="tw_hot_ds_noxiouspods" DisplayName="Noxious Pods">
-        <MarkerCategory name="tw_hot_ds_noxiouspods_noxiouspod" DisplayName="Toggle Noxious Pods" iconFile="Data/TekkitsWorkshop/HoT/tw_hot_ds_noxiouspods_noxiouspod.png" iconSize="0.5" heightOffset="0.5" minSize="10" fadeNear="5000" fadeFar="5100" behavior="1"/>
-        <MarkerCategory name="tw_hot_ds_noxiouspods_toggletrails" DisplayName="Toggle Trails">
-          <MarkerCategory name="tw_hot_ds_noxiouspods_north1_toggletrail" DisplayName="Toggle North - 1st Camp">
-            </MarkerCategory>
-          <MarkerCategory name="tw_hot_ds_noxiouspods_north2_toggletrail" DisplayName="Toggle North - 2nd Camp">
-            </MarkerCategory>
-          <MarkerCategory name="tw_hot_ds_noxiouspods_north3_toggletrail" DisplayName="Toggle North - 2nd Camp Post Meta 1">
-            </MarkerCategory>
-          <MarkerCategory name="tw_hot_ds_noxiouspods_north4_toggletrail" DisplayName="Toggle North - 2nd Camp Post Meta 2">
-            </MarkerCategory>
-          <MarkerCategory name="tw_hot_ds_noxiouspods_central1_toggletrail" DisplayName="Toggle Central - 1st Camp">
-            </MarkerCategory>
-          <MarkerCategory name="tw_hot_ds_noxiouspods_central2_toggletrail" DisplayName="Toggle Central - 2nd Camp">
-            </MarkerCategory>
-          <MarkerCategory name="tw_hot_ds_noxiouspods_central3_toggletrail" DisplayName="Toggle Central - 2nd Camp Post Meta">
-            </MarkerCategory>
-          <MarkerCategory name="tw_hot_ds_noxiouspods_south1_toggletrail" DisplayName="Toggle South - 1st Camp">
-            </MarkerCategory>
-          <MarkerCategory name="tw_hot_ds_noxiouspods_south2_toggletrail" DisplayName="Toggle South - 1st Camp Post Meta">
-            </MarkerCategory>
-          <MarkerCategory name="tw_hot_ds_noxiouspods_south3_toggletrail" DisplayName="Toggle South - 2nd Camp">
-            </MarkerCategory>  
-          </MarkerCategory>
-        <MarkerCategory name="tw_hot_ds_noxiouspods_signs" DisplayName="Toggle Signs">
-          <MarkerCategory name="tw_hot_ds_noxiouspods_startsignn1" DisplayName="Starting Sign North - 1st Camp" mapDisplaySize="130" iconFile="Data/TekkitsWorkshop/HoT/tw_hot_ds_noxiouspods_startsignn1.png" iconSize="1.3" heightOffset="2.5" minSize="50" fadeNear="5000" fadeFar="5100"/>
-          <MarkerCategory name="tw_hot_ds_noxiouspods_startsignn2" DisplayName="Starting Sign North - 2nd Camp" mapDisplaySize="130" iconFile="Data/TekkitsWorkshop/HoT/tw_hot_ds_noxiouspods_startsignn2.png" iconSize="1.3" heightOffset="2.5" minSize="50" fadeNear="5000" fadeFar="5100"/>
-          <MarkerCategory name="tw_hot_ds_noxiouspods_startsignn2-1" DisplayName="Starting Sign North - 2nd Camp Post Meta 1" mapDisplaySize="130" iconFile="Data/TekkitsWorkshop/HoT/tw_hot_ds_noxiouspods_startsignn2-1.png" iconSize="1.3" heightOffset="2.5" minSize="50" fadeNear="5000" fadeFar="5100"/>
-          <MarkerCategory name="tw_hot_ds_noxiouspods_startsignn2-2" DisplayName="Starting Sign North - 2nd Camp Post Meta 2" mapDisplaySize="130" iconFile="Data/TekkitsWorkshop/HoT/tw_hot_ds_noxiouspods_startsignn2-2.png" iconSize="1.3" heightOffset="2.5" minSize="50" fadeNear="5000" fadeFar="5100"/>
-          <MarkerCategory name="tw_hot_ds_noxiouspods_startsignc1" DisplayName="Starting Sign Central - 1st Camp" mapDisplaySize="130" iconFile="Data/TekkitsWorkshop/HoT/tw_hot_ds_noxiouspods_startsignc1.png" iconSize="1.3" heightOffset="2.5" minSize="50" fadeNear="5000" fadeFar="5100"/>
-          <MarkerCategory name="tw_hot_ds_noxiouspods_startsignc2" DisplayName="Starting Sign Central - 2nd Camp" mapDisplaySize="130" iconFile="Data/TekkitsWorkshop/HoT/tw_hot_ds_noxiouspods_startsignc2.png" iconSize="1.3" heightOffset="2.5" minSize="50" fadeNear="5000" fadeFar="5100"/>
-          <MarkerCategory name="tw_hot_ds_noxiouspods_startsignc2-1" DisplayName="Starting Sign Central - 2nd Camp Post Meta" mapDisplaySize="130" iconFile="Data/TekkitsWorkshop/HoT/tw_hot_ds_noxiouspods_startsignc2-1.png" iconSize="1.3" heightOffset="2.5" minSize="50" fadeNear="5000" fadeFar="5100"/>
-          <MarkerCategory name="tw_hot_ds_noxiouspods_startsigns1" DisplayName="Starting Sign South - 1st Camp" mapDisplaySize="130" iconFile="Data/TekkitsWorkshop/HoT/tw_hot_ds_noxiouspods_startsigns1.png" iconSize="1.3" heightOffset="2.5" minSize="50" fadeNear="5000" fadeFar="5100"/>
-          <MarkerCategory name="tw_hot_ds_noxiouspods_startsigns1-1" DisplayName="Starting Sign South - 1st Camp Post Meta" mapDisplaySize="130" iconFile="Data/TekkitsWorkshop/HoT/tw_hot_ds_noxiouspods_startsigns1-1.png" iconSize="1.3" heightOffset="2.5" minSize="50" fadeNear="5000" fadeFar="5100"/>
-          <MarkerCategory name="tw_hot_ds_noxiouspods_startsigns2" DisplayName="Starting Sign South - 2nd Camp" mapDisplaySize="130" iconFile="Data/TekkitsWorkshop/HoT/tw_hot_ds_noxiouspods_startsigns2.png" iconSize="1.3" heightOffset="2.5" minSize="50" fadeNear="5000" fadeFar="5100"/>
-          <MarkerCategory name="tw_hot_ds_noxiouspods_finish" DisplayName="Finish Sign" mapDisplaySize="80" iconFile="Data/TekkitsWorkshop/General/tw_trail_finish_b.png" iconSize="1.3" heightOffset="2.5" minSize="50" fadeNear="5000" fadeFar="5100"/>
-          </MarkerCategory>
-        </MarkerCategory>
-      <MarkerCategory name="tw_hot_ds_richveins" DisplayName="Rich Veins" iconFile="Data/TekkitsWorkshop/HoT/tw_hot_richveins.png" iconSize="0.5" heightOffset="0.5" minSize="10" fadeNear="5000" fadeFar="5100" behavior="2"/>
-      <MarkerCategory name="separatords2" IsSeparator="1" DisplayName="<-----[EXPLORATION]----->">
-            </MarkerCategory>
-      <MarkerCategory name="tw_hot_ds_heropoints" DisplayName="Hero Points" iconFile="Data/TekkitsWorkshop/HoT/tw_hot_heropoint.png" mapDisplaySize="30" iconSize="0.5" heightOffset="0.5" minSize="10" *fadeNear="5000" *fadeFar="5100" *behavior="3"/>
-      <MarkerCategory name="tw_hot_ds_masterypoints" DisplayName="Mastery Points">
-        <MarkerCategory name="tw_hot_ds_masterypoint_munitionreupper" DisplayName="North Meta - Munition Re-Upper" mapDisplaySize="80" iconFile="Data/TekkitsWorkshop/HoT/tw_hot_ds_masterypoint_munitionreupper.png" iconSize="1.0" heightOffset="2.5" minSize="40" behavior="3"/>
-        <MarkerCategory name="tw_hot_ds_masterypoint_prismaticplunderer" DisplayName="North Meta - Prismatic Plunderer" mapDisplaySize="80" iconFile="Data/TekkitsWorkshop/HoT/tw_hot_ds_masterypoint_prismaticplunderer.png" iconSize="1.0" heightOffset="2.5" minSize="40" behavior="3"/>
-        <MarkerCategory name="tw_hot_ds_masterypoint_mushroommusterer" DisplayName="North Meta - Mushroom Musterer" mapDisplaySize="80" iconFile="Data/TekkitsWorkshop/HoT/tw_hot_ds_masterypoint_mushroommusterer.png" iconSize="1.0" heightOffset="2.5" minSize="40" behavior="3"/>
-        <MarkerCategory name="tw_hot_ds_masterypoint_tamerofwyverns" DisplayName="North Meta - Tamer of Wyverns" mapDisplaySize="80" iconFile="Data/TekkitsWorkshop/HoT/tw_hot_ds_masterypoint_tamerofwyverns.png" iconSize="1.0" heightOffset="2.5" minSize="40" behavior="3"/>
-        <MarkerCategory name="tw_hot_ds_masterypoint_enchantedarmorwearer" DisplayName="North Meta - Enchanted Armor Wearer" mapDisplaySize="80" iconFile="Data/TekkitsWorkshop/HoT/tw_hot_ds_masterypoint_enchantedarmorwearer.png" iconSize="1.0" heightOffset="2.5" minSize="40" behavior="3"/>
-        <MarkerCategory name="tw_hot_ds_masterypoint_northerntowertaker" DisplayName="North Meta - Northern Tower Taker" mapDisplaySize="80" iconFile="Data/TekkitsWorkshop/HoT/tw_hot_ds_masterypoint_northerntowertaker.png" iconSize="1.0" heightOffset="2.5" minSize="40" behavior="3"/>
-        <MarkerCategory name="tw_hot_ds_masterypoint_pactpilotprotector" DisplayName="Central Meta - Pact Pilot Protector" mapDisplaySize="80" iconFile="Data/TekkitsWorkshop/HoT/tw_hot_ds_masterypoint_pactpilotprotector.png" iconSize="1.0" heightOffset="2.5" minSize="40" behavior="3"/>
-        <MarkerCategory name="tw_hot_ds_masterypoint_firejumper" DisplayName="Central Meta - Fire Jumper" mapDisplaySize="80" iconFile="Data/TekkitsWorkshop/HoT/tw_hot_ds_masterypoint_firejumper.png" iconSize="1.0" heightOffset="2.5" minSize="40" behavior="3"/>
-        <MarkerCategory name="tw_hot_ds_masterypoint_centraltowertaker" DisplayName="Central Meta - Central Tower Taker" mapDisplaySize="80" iconFile="Data/TekkitsWorkshop/HoT/tw_hot_ds_masterypoint_centraltowertaker.png" iconSize="1.0" heightOffset="2.5" minSize="40" minSize="20" behavior="3"/>
-        <MarkerCategory name="tw_hot_ds_masterypoint_laserlighter" DisplayName="Southern Meta - Laser Lighter" mapDisplaySize="80" iconFile="Data/TekkitsWorkshop/HoT/tw_hot_ds_masterypoint_laserlighter.png" iconSize="1.0" heightOffset="2.5" minSize="40" behavior="3"/>
-        <MarkerCategory name="tw_hot_ds_masterypoint_batwrangler" DisplayName="Southern Meta - Bat Wrangler" mapDisplaySize="80" iconFile="Data/TekkitsWorkshop/HoT/tw_hot_ds_masterypoint_batwrangler.png" iconSize="1.0" heightOffset="2.5" minSize="40" behavior="3"/>
-        <MarkerCategory name="tw_hot_ds_masterypoint_southerntowertaker" DisplayName="Southern Meta - Southern Tower Taker" mapDisplaySize="80" iconFile="Data/TekkitsWorkshop/HoT/tw_hot_ds_masterypoint_southerntowertaker.png" iconSize="1.0" heightOffset="2.5" minSize="40" behavior="3"/>
-        <MarkerCategory name="tw_hot_ds_masterypoint_dragonsstandoverviewer" DisplayName="Dragon's Stand Overviewer" mapDisplaySize="80" iconFile="Data/TekkitsWorkshop/HoT/tw_hot_ds_masterypoint_dragonsstandoverviewer.png" iconSize="1.0" heightOffset="2.5" minSize="40" behavior="3"/>
-        <MarkerCategory name="tw_hot_ds_masterypoint_wallowingwhiz" DisplayName="Wallow Whiz" mapDisplaySize="80" iconFile="Data/TekkitsWorkshop/HoT/tw_hot_ds_masterypoint_wallowingwhiz.png" iconSize="1.0" heightOffset="2.5" minSize="40" behavior="3"/>
-        <MarkerCategory name="tw_hot_ds_masterypoint_sumviewer" DisplayName="Sum Viewer" mapDisplaySize="80" iconFile="Data/TekkitsWorkshop/HoT/tw_hot_ds_masterypoint_sumviewer.png" iconSize="1.0" heightOffset="2.5" minSize="40" behavior="3"/>
-        <MarkerCategory name="tw_hot_ds_masterypoint_shootingstar" DisplayName="Shooting Star" mapDisplaySize="80" iconFile="Data/TekkitsWorkshop/HoT/tw_hot_ds_masterypoint_shootingstar.png" iconSize="1.0" heightOffset="2.5" minSize="40" behavior="3"/>
-        <MarkerCategory name="tw_hot_ds_masterypoint_prismaticpercher" DisplayName="Prismatic Percher" mapDisplaySize="80" iconFile="Data/TekkitsWorkshop/HoT/tw_hot_ds_masterypoint_prismaticpercher.png" iconSize="1.0" heightOffset="2.5" minSize="40" behavior="3"/>
-        <MarkerCategory name="tw_hot_ds_masterypoint_leylineglider" DisplayName="Ley Line Glider" mapDisplaySize="80" iconFile="Data/TekkitsWorkshop/HoT/tw_hot_ds_masterypoint_leylineglider.png" iconSize="1.0" heightOffset="2.5" minSize="40" behavior="3"/>
-        <MarkerCategory name="tw_hot_ds_masterypoint_dragonrender" DisplayName="Strongbox - Dragonrender" mapDisplaySize="80" iconFile="Data/TekkitsWorkshop/HoT/tw_hot_ds_masterypoint_dragonrender.png" iconSize="1.0" heightOffset="2.5" minSize="40" behavior="3"/>
-        <MarkerCategory name="tw_hot_ds_masterypoint_legacyofowl" DisplayName="Strongbox - Legacy of Owl" mapDisplaySize="80" iconFile="Data/TekkitsWorkshop/HoT/tw_hot_ds_masterypoint_legacyofowl.png" iconSize="1.0" heightOffset="2.5" minSize="40" behavior="3"/>
-        <MarkerCategory name="tw_hot_ds_masterypoint_prideoflionsarch" DisplayName="Strongbox - Pride of Lion's Arch" mapDisplaySize="80" iconFile="Data/TekkitsWorkshop/HoT/tw_hot_ds_masterypoint_prideoflionsarch.png" iconSize="1.0" heightOffset="2.5" minSize="40" behavior="3"/>
-        <MarkerCategory name="tw_hot_ds_masterypoint_scorchrazorii" DisplayName="Strongbox - Scorchrazor II" mapDisplaySize="80" iconFile="Data/TekkitsWorkshop/HoT/tw_hot_ds_masterypoint_scorchrazorii.png" iconSize="1.0" heightOffset="2.5" minSize="40" behavior="3"/>
-        <MarkerCategory name="tw_hot_ds_masterypoint_unsolvedconundrum" DisplayName="Strongbox - Unsolved Conundrum" mapDisplaySize="80" iconFile="Data/TekkitsWorkshop/HoT/tw_hot_ds_masterypoint_unsolvedconundrum.png" iconSize="1.0" heightOffset="2.5" minSize="40" behavior="3"/>
-      </MarkerCategory>
-      <MarkerCategory name="separatortd3" IsSeparator="1" DisplayName="<-----[MUSHROOMS]----->">
-        </MarkerCategory>
-      <MarkerCategory name="tw_hot_ds_jumpingmushroom" DisplayName="Jumping Mushrooms" iconFile="Data/TekkitsWorkshop/HoT/tw_hot_jumpingmushroom.png" iconSize="0.5" heightOffset="0.2" minSize="10" fadeNear="5000" fadeFar="5100"/>
-      <MarkerCategory name="tw_hot_ds_speedmushroom" DisplayName="Speed Boost Mushrooms" iconFile="Data/TekkitsWorkshop/HoT/tw_hot_speedmushroom.png" iconSize="0.5" heightOffset="0.5" minSize="10" fadeNear="5000" fadeFar="5100"/>
-      <MarkerCategory name="tw_hot_ds_adrenalmushroom" DisplayName="Adrenal Mushrooms" iconFile="Data/TekkitsWorkshop/HoT/tw_hot_adrenalmushroom.png" iconSize="0.5" heightOffset="0.5" minSize="10" fadeNear="5000" fadeFar="5100"/> 
-    </MarkerCategory>
-  </MarkerCategory>
-</MarkerCategory>
+	<MarkerCategory name="tw_guides" DisplayName="Tekkit's Guides">
+		<MarkerCategory name="tw_hot" DisplayName="Heart of Thorns">
+			<MarkerCategory name="tw_hot_ds" DisplayName="Dragon's Stand">
+				<MarkerCategory name="separatords1" IsSeparator="1" DisplayName="&lt;-----[FARMING]-----&gt;">
+				</MarkerCategory>
+				<MarkerCategory name="tw_hot_ds_noxiouspods" DisplayName="Noxious Pods">
+					<MarkerCategory name="tw_hot_ds_noxiouspods_noxiouspod" DisplayName="Toggle Noxious Pods" iconFile="Data/TekkitsWorkshop/HoT/tw_hot_ds_noxiouspods_noxiouspod.png" iconSize="0.5" heightOffset="0.5" minSize="10" fadeNear="5000" fadeFar="5100" behavior="1" />
+					<MarkerCategory name="tw_hot_ds_noxiouspods_toggletrails" DisplayName="Toggle Trails">
+						<MarkerCategory name="tw_hot_ds_noxiouspods_north1_toggletrail" DisplayName="Toggle North - 1st Camp">
+						</MarkerCategory>
+						<MarkerCategory name="tw_hot_ds_noxiouspods_north2_toggletrail" DisplayName="Toggle North - 2nd Camp">
+						</MarkerCategory>
+						<MarkerCategory name="tw_hot_ds_noxiouspods_north3_toggletrail" DisplayName="Toggle North - 2nd Camp Post Meta 1">
+						</MarkerCategory>
+						<MarkerCategory name="tw_hot_ds_noxiouspods_north4_toggletrail" DisplayName="Toggle North - 2nd Camp Post Meta 2">
+						</MarkerCategory>
+						<MarkerCategory name="tw_hot_ds_noxiouspods_central1_toggletrail" DisplayName="Toggle Central - 1st Camp">
+						</MarkerCategory>
+						<MarkerCategory name="tw_hot_ds_noxiouspods_central2_toggletrail" DisplayName="Toggle Central - 2nd Camp">
+						</MarkerCategory>
+						<MarkerCategory name="tw_hot_ds_noxiouspods_central3_toggletrail" DisplayName="Toggle Central - 2nd Camp Post Meta">
+						</MarkerCategory>
+						<MarkerCategory name="tw_hot_ds_noxiouspods_south1_toggletrail" DisplayName="Toggle South - 1st Camp">
+						</MarkerCategory>
+						<MarkerCategory name="tw_hot_ds_noxiouspods_south2_toggletrail" DisplayName="Toggle South - 1st Camp Post Meta">
+						</MarkerCategory>
+						<MarkerCategory name="tw_hot_ds_noxiouspods_south3_toggletrail" DisplayName="Toggle South - 2nd Camp">
+						</MarkerCategory>
+					</MarkerCategory>
+					<MarkerCategory name="tw_hot_ds_noxiouspods_signs" DisplayName="Toggle Signs">
+						<MarkerCategory name="tw_hot_ds_noxiouspods_startsignn1" DisplayName="Starting Sign North - 1st Camp" mapDisplaySize="130" iconFile="Data/TekkitsWorkshop/HoT/tw_hot_ds_noxiouspods_startsignn1.png" iconSize="1.3" heightOffset="2.5" minSize="50" fadeNear="5000" fadeFar="5100" />
+						<MarkerCategory name="tw_hot_ds_noxiouspods_startsignn2" DisplayName="Starting Sign North - 2nd Camp" mapDisplaySize="130" iconFile="Data/TekkitsWorkshop/HoT/tw_hot_ds_noxiouspods_startsignn2.png" iconSize="1.3" heightOffset="2.5" minSize="50" fadeNear="5000" fadeFar="5100" />
+						<MarkerCategory name="tw_hot_ds_noxiouspods_startsignn2-1" DisplayName="Starting Sign North - 2nd Camp Post Meta 1" mapDisplaySize="130" iconFile="Data/TekkitsWorkshop/HoT/tw_hot_ds_noxiouspods_startsignn2-1.png" iconSize="1.3" heightOffset="2.5" minSize="50" fadeNear="5000" fadeFar="5100" />
+						<MarkerCategory name="tw_hot_ds_noxiouspods_startsignn2-2" DisplayName="Starting Sign North - 2nd Camp Post Meta 2" mapDisplaySize="130" iconFile="Data/TekkitsWorkshop/HoT/tw_hot_ds_noxiouspods_startsignn2-2.png" iconSize="1.3" heightOffset="2.5" minSize="50" fadeNear="5000" fadeFar="5100" />
+						<MarkerCategory name="tw_hot_ds_noxiouspods_startsignc1" DisplayName="Starting Sign Central - 1st Camp" mapDisplaySize="130" iconFile="Data/TekkitsWorkshop/HoT/tw_hot_ds_noxiouspods_startsignc1.png" iconSize="1.3" heightOffset="2.5" minSize="50" fadeNear="5000" fadeFar="5100" />
+						<MarkerCategory name="tw_hot_ds_noxiouspods_startsignc2" DisplayName="Starting Sign Central - 2nd Camp" mapDisplaySize="130" iconFile="Data/TekkitsWorkshop/HoT/tw_hot_ds_noxiouspods_startsignc2.png" iconSize="1.3" heightOffset="2.5" minSize="50" fadeNear="5000" fadeFar="5100" />
+						<MarkerCategory name="tw_hot_ds_noxiouspods_startsignc2-1" DisplayName="Starting Sign Central - 2nd Camp Post Meta" mapDisplaySize="130" iconFile="Data/TekkitsWorkshop/HoT/tw_hot_ds_noxiouspods_startsignc2-1.png" iconSize="1.3" heightOffset="2.5" minSize="50" fadeNear="5000" fadeFar="5100" />
+						<MarkerCategory name="tw_hot_ds_noxiouspods_startsigns1" DisplayName="Starting Sign South - 1st Camp" mapDisplaySize="130" iconFile="Data/TekkitsWorkshop/HoT/tw_hot_ds_noxiouspods_startsigns1.png" iconSize="1.3" heightOffset="2.5" minSize="50" fadeNear="5000" fadeFar="5100" />
+						<MarkerCategory name="tw_hot_ds_noxiouspods_startsigns1-1" DisplayName="Starting Sign South - 1st Camp Post Meta" mapDisplaySize="130" iconFile="Data/TekkitsWorkshop/HoT/tw_hot_ds_noxiouspods_startsigns1-1.png" iconSize="1.3" heightOffset="2.5" minSize="50" fadeNear="5000" fadeFar="5100" />
+						<MarkerCategory name="tw_hot_ds_noxiouspods_startsigns2" DisplayName="Starting Sign South - 2nd Camp" mapDisplaySize="130" iconFile="Data/TekkitsWorkshop/HoT/tw_hot_ds_noxiouspods_startsigns2.png" iconSize="1.3" heightOffset="2.5" minSize="50" fadeNear="5000" fadeFar="5100" />
+						<MarkerCategory name="tw_hot_ds_noxiouspods_finish" DisplayName="Finish Sign" mapDisplaySize="80" iconFile="Data/TekkitsWorkshop/General/tw_trail_finish_b.png" iconSize="1.3" heightOffset="2.5" minSize="50" fadeNear="5000" fadeFar="5100" />
+					</MarkerCategory>
+				</MarkerCategory>
+				<MarkerCategory name="tw_hot_ds_richveins" DisplayName="Rich Veins" iconFile="Data/TekkitsWorkshop/HoT/tw_hot_richveins.png" iconSize="0.5" heightOffset="0.5" minSize="10" fadeNear="5000" fadeFar="5100" behavior="2" />
+				<MarkerCategory name="separatords2" IsSeparator="1" DisplayName="&lt;-----[EXPLORATION]-----&gt;">
+				</MarkerCategory>
+				<MarkerCategory name="tw_hot_ds_heropoints" DisplayName="Hero Points" iconFile="Data/TekkitsWorkshop/HoT/tw_hot_heropoint.png" mapDisplaySize="30" iconSize="0.5" heightOffset="0.5" minSize="10" fadeNear="5000" fadeFar="5100" behavior="3" />
+				<MarkerCategory name="tw_hot_ds_masterypoints" DisplayName="Mastery Points">
+					<MarkerCategory name="tw_hot_ds_masterypoint_munitionreupper" DisplayName="North Meta - Munition Re-Upper" mapDisplaySize="80" iconFile="Data/TekkitsWorkshop/HoT/tw_hot_ds_masterypoint_munitionreupper.png" iconSize="1.0" heightOffset="2.5" minSize="40" behavior="3" />
+					<MarkerCategory name="tw_hot_ds_masterypoint_prismaticplunderer" DisplayName="North Meta - Prismatic Plunderer" mapDisplaySize="80" iconFile="Data/TekkitsWorkshop/HoT/tw_hot_ds_masterypoint_prismaticplunderer.png" iconSize="1.0" heightOffset="2.5" minSize="40" behavior="3" />
+					<MarkerCategory name="tw_hot_ds_masterypoint_mushroommusterer" DisplayName="North Meta - Mushroom Musterer" mapDisplaySize="80" iconFile="Data/TekkitsWorkshop/HoT/tw_hot_ds_masterypoint_mushroommusterer.png" iconSize="1.0" heightOffset="2.5" minSize="40" behavior="3" />
+					<MarkerCategory name="tw_hot_ds_masterypoint_tamerofwyverns" DisplayName="North Meta - Tamer of Wyverns" mapDisplaySize="80" iconFile="Data/TekkitsWorkshop/HoT/tw_hot_ds_masterypoint_tamerofwyverns.png" iconSize="1.0" heightOffset="2.5" minSize="40" behavior="3" />
+					<MarkerCategory name="tw_hot_ds_masterypoint_enchantedarmorwearer" DisplayName="North Meta - Enchanted Armor Wearer" mapDisplaySize="80" iconFile="Data/TekkitsWorkshop/HoT/tw_hot_ds_masterypoint_enchantedarmorwearer.png" iconSize="1.0" heightOffset="2.5" minSize="40" behavior="3" />
+					<MarkerCategory name="tw_hot_ds_masterypoint_northerntowertaker" DisplayName="North Meta - Northern Tower Taker" mapDisplaySize="80" iconFile="Data/TekkitsWorkshop/HoT/tw_hot_ds_masterypoint_northerntowertaker.png" iconSize="1.0" heightOffset="2.5" minSize="40" behavior="3" />
+					<MarkerCategory name="tw_hot_ds_masterypoint_pactpilotprotector" DisplayName="Central Meta - Pact Pilot Protector" mapDisplaySize="80" iconFile="Data/TekkitsWorkshop/HoT/tw_hot_ds_masterypoint_pactpilotprotector.png" iconSize="1.0" heightOffset="2.5" minSize="40" behavior="3" />
+					<MarkerCategory name="tw_hot_ds_masterypoint_firejumper" DisplayName="Central Meta - Fire Jumper" mapDisplaySize="80" iconFile="Data/TekkitsWorkshop/HoT/tw_hot_ds_masterypoint_firejumper.png" iconSize="1.0" heightOffset="2.5" minSize="40" behavior="3" />
+					<MarkerCategory name="tw_hot_ds_masterypoint_centraltowertaker" DisplayName="Central Meta - Central Tower Taker" mapDisplaySize="80" iconFile="Data/TekkitsWorkshop/HoT/tw_hot_ds_masterypoint_centraltowertaker.png" iconSize="1.0" heightOffset="2.5" minSize="40" behavior="3" />
+					<MarkerCategory name="tw_hot_ds_masterypoint_laserlighter" DisplayName="Southern Meta - Laser Lighter" mapDisplaySize="80" iconFile="Data/TekkitsWorkshop/HoT/tw_hot_ds_masterypoint_laserlighter.png" iconSize="1.0" heightOffset="2.5" minSize="40" behavior="3" />
+					<MarkerCategory name="tw_hot_ds_masterypoint_batwrangler" DisplayName="Southern Meta - Bat Wrangler" mapDisplaySize="80" iconFile="Data/TekkitsWorkshop/HoT/tw_hot_ds_masterypoint_batwrangler.png" iconSize="1.0" heightOffset="2.5" minSize="40" behavior="3" />
+					<MarkerCategory name="tw_hot_ds_masterypoint_southerntowertaker" DisplayName="Southern Meta - Southern Tower Taker" mapDisplaySize="80" iconFile="Data/TekkitsWorkshop/HoT/tw_hot_ds_masterypoint_southerntowertaker.png" iconSize="1.0" heightOffset="2.5" minSize="40" behavior="3" />
+					<MarkerCategory name="tw_hot_ds_masterypoint_dragonsstandoverviewer" DisplayName="Dragon's Stand Overviewer" mapDisplaySize="80" iconFile="Data/TekkitsWorkshop/HoT/tw_hot_ds_masterypoint_dragonsstandoverviewer.png" iconSize="1.0" heightOffset="2.5" minSize="40" behavior="3" />
+					<MarkerCategory name="tw_hot_ds_masterypoint_wallowingwhiz" DisplayName="Wallow Whiz" mapDisplaySize="80" iconFile="Data/TekkitsWorkshop/HoT/tw_hot_ds_masterypoint_wallowingwhiz.png" iconSize="1.0" heightOffset="2.5" minSize="40" behavior="3" />
+					<MarkerCategory name="tw_hot_ds_masterypoint_sumviewer" DisplayName="Sum Viewer" mapDisplaySize="80" iconFile="Data/TekkitsWorkshop/HoT/tw_hot_ds_masterypoint_sumviewer.png" iconSize="1.0" heightOffset="2.5" minSize="40" behavior="3" />
+					<MarkerCategory name="tw_hot_ds_masterypoint_shootingstar" DisplayName="Shooting Star" mapDisplaySize="80" iconFile="Data/TekkitsWorkshop/HoT/tw_hot_ds_masterypoint_shootingstar.png" iconSize="1.0" heightOffset="2.5" minSize="40" behavior="3" />
+					<MarkerCategory name="tw_hot_ds_masterypoint_prismaticpercher" DisplayName="Prismatic Percher" mapDisplaySize="80" iconFile="Data/TekkitsWorkshop/HoT/tw_hot_ds_masterypoint_prismaticpercher.png" iconSize="1.0" heightOffset="2.5" minSize="40" behavior="3" />
+					<MarkerCategory name="tw_hot_ds_masterypoint_leylineglider" DisplayName="Ley Line Glider" mapDisplaySize="80" iconFile="Data/TekkitsWorkshop/HoT/tw_hot_ds_masterypoint_leylineglider.png" iconSize="1.0" heightOffset="2.5" minSize="40" behavior="3" />
+					<MarkerCategory name="tw_hot_ds_masterypoint_dragonrender" DisplayName="Strongbox - Dragonrender" mapDisplaySize="80" iconFile="Data/TekkitsWorkshop/HoT/tw_hot_ds_masterypoint_dragonrender.png" iconSize="1.0" heightOffset="2.5" minSize="40" behavior="3" />
+					<MarkerCategory name="tw_hot_ds_masterypoint_legacyofowl" DisplayName="Strongbox - Legacy of Owl" mapDisplaySize="80" iconFile="Data/TekkitsWorkshop/HoT/tw_hot_ds_masterypoint_legacyofowl.png" iconSize="1.0" heightOffset="2.5" minSize="40" behavior="3" />
+					<MarkerCategory name="tw_hot_ds_masterypoint_prideoflionsarch" DisplayName="Strongbox - Pride of Lion's Arch" mapDisplaySize="80" iconFile="Data/TekkitsWorkshop/HoT/tw_hot_ds_masterypoint_prideoflionsarch.png" iconSize="1.0" heightOffset="2.5" minSize="40" behavior="3" />
+					<MarkerCategory name="tw_hot_ds_masterypoint_scorchrazorii" DisplayName="Strongbox - Scorchrazor II" mapDisplaySize="80" iconFile="Data/TekkitsWorkshop/HoT/tw_hot_ds_masterypoint_scorchrazorii.png" iconSize="1.0" heightOffset="2.5" minSize="40" behavior="3" />
+					<MarkerCategory name="tw_hot_ds_masterypoint_unsolvedconundrum" DisplayName="Strongbox - Unsolved Conundrum" mapDisplaySize="80" iconFile="Data/TekkitsWorkshop/HoT/tw_hot_ds_masterypoint_unsolvedconundrum.png" iconSize="1.0" heightOffset="2.5" minSize="40" behavior="3" />
+				</MarkerCategory>
+				<MarkerCategory name="separatortd3" IsSeparator="1" DisplayName="&lt;-----[MUSHROOMS]-----&gt;">
+				</MarkerCategory>
+				<MarkerCategory name="tw_hot_ds_jumpingmushroom" DisplayName="Jumping Mushrooms" iconFile="Data/TekkitsWorkshop/HoT/tw_hot_jumpingmushroom.png" iconSize="0.5" heightOffset="0.2" minSize="10" fadeNear="5000" fadeFar="5100" />
+				<MarkerCategory name="tw_hot_ds_speedmushroom" DisplayName="Speed Boost Mushrooms" iconFile="Data/TekkitsWorkshop/HoT/tw_hot_speedmushroom.png" iconSize="0.5" heightOffset="0.5" minSize="10" fadeNear="5000" fadeFar="5100" />
+				<MarkerCategory name="tw_hot_ds_adrenalmushroom" DisplayName="Adrenal Mushrooms" iconFile="Data/TekkitsWorkshop/HoT/tw_hot_adrenalmushroom.png" iconSize="0.5" heightOffset="0.5" minSize="10" fadeNear="5000" fadeFar="5100" />
+			</MarkerCategory>
+		</MarkerCategory>
+	</MarkerCategory>
 	<POIs>
-		<POI MapID="1041" xpos="225.813" ypos="83.7626" zpos="661.129" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="2scHYZ8ct0GPeqXdRUffgA=="/>
-		<POI MapID="1041" xpos="156.26" ypos="70.2402" zpos="696.083" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="xav2b93BSkSF7ZI3r/I+Sg=="/>
-		<POI MapID="1041" xpos="145.615" ypos="47.1249" zpos="599.289" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="7YIeK9v3vUSVxP/nmBWwYg=="/>
-		<POI MapID="1041" xpos="161.24" ypos="48.0667" zpos="581.937" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="UpF6cUd/uk6B3QidNJnTpQ=="/>
-		<POI MapID="1041" xpos="152.34" ypos="46.6359" zpos="549.249" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="po6eNYRgE0+V6Jx+KlE47Q=="/>
-		<POI MapID="1041" xpos="152.52" ypos="45.5697" zpos="534.703" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="5Ym0IvA8DkyCgGXvaY4BBg=="/>
-		<POI MapID="1041" xpos="158.203" ypos="44.2908" zpos="474.944" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="W4nVT918c0KUXRx62RCijA=="/>
-		<POI MapID="1041" xpos="137.008" ypos="48.9366" zpos="583.217" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="8k3W2YlWzESnRN0HSOm2TA=="/>
-		<POI MapID="1041" xpos="142.994" ypos="42.7495" zpos="542.767" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="9NhQbkJ1I0WeAqgXBs7kkQ=="/>
-		<POI MapID="1041" xpos="479.126" ypos="43.1817" zpos="545.633" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="Pxweho9mFUqbhCdwjZO/6w=="/>
-		<POI MapID="1041" xpos="376.953" ypos="26.6084" zpos="425.149" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="E53lLLjyq0uuZWGgDfbldg=="/>
-		<POI MapID="1041" xpos="491.139" ypos="61.5672" zpos="352.224" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="XYwUkizwj0ygtmif5+6Rmg=="/>
-		<POI MapID="1041" xpos="483.235" ypos="68.0413" zpos="326.723" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="AkMooN1U8E+SQyWsoI54dg=="/>
-		<POI MapID="1041" xpos="485.206" ypos="73.0076" zpos="298.553" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="EWyQwQGA/U2gQT8zm7FwOA=="/>
-		<POI MapID="1041" xpos="465.831" ypos="79.8085" zpos="266.37" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="n20uEQMfhUimwSJRGw0kmg=="/>
-		<POI MapID="1041" xpos="448.228" ypos="80.448" zpos="266.667" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="PyChWEW2nEyxwJhv3TsKAw=="/>
-		<POI MapID="1041" xpos="440.748" ypos="86.9954" zpos="247.42" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="0a1zFaN0rkC6peaTo0BUcQ=="/>
-		<POI MapID="1041" xpos="840.341" ypos="65.0254" zpos="262.117" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="hX4qs/pvA0mNxnM3anDr9A=="/>
-		<POI MapID="1041" xpos="850.428" ypos="64.8649" zpos="242.239" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="+XZSW0Dc4km1cSmpmsuPVg=="/>
-		<POI MapID="1041" xpos="844.849" ypos="71.0472" zpos="155.03" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="gsLTfJnCg0eK+cjEBMl4Gg=="/>
-		<POI MapID="1041" xpos="814.372" ypos="71.6044" zpos="163.07" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="3tusoQkdnUiKLxA9z9nTtw=="/>
-		<POI MapID="1041" xpos="802.595" ypos="73.8538" zpos="169.004" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="LYsrmoDx40G7XNwUkj/S6A=="/>
-		<POI MapID="1041" xpos="794.748" ypos="72.6901" zpos="186.089" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="UckLdPw9PEKYQluSj91Iew=="/>
-		<POI MapID="1041" xpos="173.471" ypos="123.548" zpos="36.9764" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="2JG+R74dFEidf1cwxIaeJA=="/>
-		<POI MapID="1041" xpos="534.946" ypos="54.5473" zpos="-82.151" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="zEE4NaU/vkSoObiBm9DPxg=="/>
-		<POI MapID="1041" xpos="463.123" ypos="89.7678" zpos="-311.121" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="jPco+u0ZCEuMM02pNuojUg=="/>
-		<POI MapID="1041" xpos="113.036" ypos="96.8812" zpos="-187.38" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="1AzBo+33l0a+HI0nqb00Bw=="/>
-		<POI MapID="1041" xpos="13.2935" ypos="70.718" zpos="382.603" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="aXuQzyP8dUesgSnwV+pz8w=="/>
-		<POI MapID="1041" xpos="4.57477" ypos="72.0281" zpos="386.014" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="1y9ry6q+vkyTLn6o1j27lQ=="/>
-		<POI MapID="1041" xpos="-22.0404" ypos="76.5651" zpos="372.072" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="fTUgx5mPDk+K/Uct3s2+bw=="/>
-		<POI MapID="1041" xpos="-15.1283" ypos="68.4142" zpos="348.852" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="gCoGDXXL2Uu6lYVMB/Zl8A=="/>
-		<POI MapID="1041" xpos="-24.5191" ypos="68.7449" zpos="343.248" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="G1jbt4Jr+E+ZzRV62EBmpw=="/>
-		<POI MapID="1041" xpos="-13.4676" ypos="67.6475" zpos="337.365" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="2R+uJfVbWkO6MjYYF1XbaA=="/>
-		<POI MapID="1041" xpos="-193.657" ypos="97.8208" zpos="129.53" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="rBBHBFdOlUWqlBH4TSbG0w=="/>
-		<POI MapID="1041" xpos="-197.121" ypos="100.614" zpos="99.8316" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="qR/pb1gm/UyfMjbQyamj0Q=="/>
-		<POI MapID="1041" xpos="-145.05" ypos="111.435" zpos="145.535" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="RnvV2sOD6ku3StpwGCutcQ=="/>
-		<POI MapID="1041" xpos="-142.384" ypos="107.568" zpos="68.9778" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="BSe7QfsZhEOh8YDEpeSdNw=="/>
-		<POI MapID="1041" xpos="-163.441" ypos="103.783" zpos="59.473" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="/A3d1PPYRUS8ovMNY+k5rA=="/>
-		<POI MapID="1041" xpos="-187.878" ypos="120.391" zpos="8.88509" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="lK7p7NYhNECdu7wHS8ncqw=="/>
-		<POI MapID="1041" xpos="-257.246" ypos="119.678" zpos="-29.8016" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="PeWhg5TOAUeOQbr06Rae1g=="/>
-		<POI MapID="1041" xpos="-65.8949" ypos="123.362" zpos="82.5576" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="FryRRHGzh0+g2SrwMO/jEw=="/>
-		<POI MapID="1041" xpos="-16.8057" ypos="114.744" zpos="91.5823" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="m73BURyPvEqwg5GlvUYdOw=="/>
-		<POI MapID="1041" xpos="-9.94405" ypos="120.019" zpos="32.0099" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="/C3knSs/bkGlknmlBrnIsg=="/>
-		<POI MapID="1041" xpos="312.898" ypos="106.335" zpos="69.5156" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="/rJPyZ43VU24TWfKNkdCnQ=="/>
-		<POI MapID="1041" xpos="287.141" ypos="103.177" zpos="89.6876" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="PW9u+UIjQ0ydrpJEtdNFcg=="/>
-		<POI MapID="1041" xpos="247.094" ypos="107.401" zpos="105.482" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="w0Jjz5YdL0uRIbMuSkofJw=="/>
-		<POI MapID="1041" xpos="240.773" ypos="111.534" zpos="145.965" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="42u5e7lES0OEh8YeK7Zq7A=="/>
-		<POI MapID="1041" xpos="293.496" ypos="119.189" zpos="160.449" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="tDuYO66180SMHkIzFTPjeA=="/>
-		<POI MapID="1041" xpos="309.849" ypos="106.382" zpos="150.482" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="6G7OyYlpwEyfdpir7BrrHg=="/>
-		<POI MapID="1041" xpos="277.166" ypos="36.7254" zpos="44.8208" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="2UdfJIB9fkmF9eb/Q1oYeQ=="/>
-		<POI MapID="1041" xpos="279.968" ypos="34.8657" zpos="58.1118" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="41SZWoYv0U21xQXW/VJkhg=="/>
-		<POI MapID="1041" xpos="249.085" ypos="51.106" zpos="22.2076" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="+JaJkqHPukiZNyupX1xzpg=="/>
-		<POI MapID="1041" xpos="232.992" ypos="56.4504" zpos="26.2973" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="CyF2fTosF0iNr9O1cc58mg=="/>
-		<POI MapID="1041" xpos="229.054" ypos="34.1551" zpos="105.227" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="2nP2Su6LdEOXPUEpu0Hguw=="/>
-		<POI MapID="1041" xpos="236.107" ypos="32.4163" zpos="111.482" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="T9XApIbKA0eYQkvm0+DyiA=="/>
-		<POI MapID="1041" xpos="718.132" ypos="42.4585" zpos="-10.1346" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="7TWMOW++tUuLsNCgK1GxfQ=="/>
-		<POI MapID="1041" xpos="715.169" ypos="45.0199" zpos="-21.3214" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="kVSy6gW4hUeB6/6AoXnz7A=="/>
-		<POI MapID="1041" xpos="685.537" ypos="45.2114" zpos="-38.2832" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="yHTXvw3g10Gok3/s2GhsnA=="/>
-		<POI MapID="1041" xpos="661.713" ypos="43.4502" zpos="-43.5414" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="KEYIuzJ10UKXzAlMTcQWwQ=="/>
-		<POI MapID="1041" xpos="648.282" ypos="43.6693" zpos="-52.0739" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="Itc5aS0y50mMnYJN8FWraA=="/>
-		<POI MapID="1041" xpos="639.149" ypos="45.344" zpos="-61.2407" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="xTVnW2Ew0ESy4Vk0W/DnMw=="/>
-		<POI MapID="1041" xpos="818.684" ypos="64.3391" zpos="33.5227" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="Op2QLWJVJ02516jEkxPe+A=="/>
-		<POI MapID="1041" xpos="856.317" ypos="65.0525" zpos="91.1823" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="TzOXy8F5MEmAt7TsFCgMTw=="/>
-		<POI MapID="1041" xpos="-253.31" ypos="18.415" zpos="463.008" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="eJpisLkdz0i/PoR4hY+M6Q=="/>
-		<POI MapID="1041" xpos="-364.019" ypos="16.8026" zpos="397.051" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="FCv83+AB3kmbRCl1AyOl7Q=="/>
-		<POI MapID="1041" xpos="-274.202" ypos="114.215" zpos="445.044" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="chbuifPe+0y+3FrJESfriQ=="/>
-		<POI MapID="1041" xpos="-232.096" ypos="115.333" zpos="482.48" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="YYVjAsJWTUec8rGthMSW3g=="/>
-		<POI MapID="1041" xpos="-220.989" ypos="121.144" zpos="520.159" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="tzVJQ5/FNUerdpDqzaoweA=="/>
-		<POI MapID="1041" xpos="-231.251" ypos="121.416" zpos="530.41" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="xNPEpCUTk0eh52xm367bbg=="/>
-		<POI MapID="1041" xpos="-232.878" ypos="122.607" zpos="562.111" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="EIPXDjuX/ESMAGlH2X06Lw=="/>
-		<POI MapID="1041" xpos="-207.625" ypos="121.936" zpos="556.778" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="ldp08RQFvk29SQLaGqnjgQ=="/>
-		<POI MapID="1041" xpos="-132.541" ypos="121.089" zpos="596.333" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="fbGa1H8+OUyq2XL5j7HRkQ=="/>
-		<POI MapID="1041" xpos="-164.378" ypos="111.078" zpos="503.204" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="cbw93oPrSkeP0PK0FFZIcQ=="/>
-		<POI MapID="1041" xpos="-157.094" ypos="108.546" zpos="484.884" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="3X2BG5PKOUeBkbHCLuduvA=="/>
-		<POI MapID="1041" xpos="-147.548" ypos="111.905" zpos="446.76" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="njBwNf51zUGEeb1Ubsn4Rw=="/>
-		<POI MapID="1041" xpos="783.976" ypos="74.0689" zpos="295.299" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_speedmushroom" GUID="0S03HBHnxEGuELOdenEDww=="/>
-		<POI MapID="1041" xpos="419.089" ypos="106.627" zpos="758.282" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_speedmushroom" GUID="fYe/1x3ZPEeNfN+uGNCY8A=="/>
-		<POI MapID="1041" xpos="311.188" ypos="96.8771" zpos="665.852" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_speedmushroom" GUID="dBsiosj0z0yb1PU62YgIvA=="/>
-		<POI MapID="1041" xpos="359.052" ypos="81.7261" zpos="588.504" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_speedmushroom" GUID="/8Q17sjMhkyfH9he4QM46A=="/>
-		<POI MapID="1041" xpos="211.85" ypos="73.1788" zpos="648.349" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_speedmushroom" GUID="AkREN+duC0idBgG9uLaNbw=="/>
-		<POI MapID="1041" xpos="171.678" ypos="49.5769" zpos="544.178" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="yyK/T6axPEu2oHmAIdj9dA=="/>
-		<POI MapID="1041" xpos="57.1836" ypos="60.605" zpos="545.669" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_adrenalmushroom" GUID="P7mdN9v3H0aZgjIZneoOVw=="/>
-		<POI MapID="1041" xpos="91.9686" ypos="53.6933" zpos="706.879" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_speedmushroom" GUID="KIYb1J3YC0yA+BiqVZF98A=="/>
-		<POI MapID="1041" xpos="163.138" ypos="46.991" zpos="590.755" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="9xAzoktXSkmEU8RY5G6LbA=="/>
-		<POI MapID="1041" xpos="133.687" ypos="45.5408" zpos="556.029" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="X6Zool4vckKPbL/aVMdcfQ=="/>
-		<POI MapID="1041" xpos="151.618" ypos="46.3908" zpos="557.575" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="EdEIhK7/9k2LRiIL7RpmSA=="/>
-		<POI MapID="1041" xpos="503.165" ypos="47.721" zpos="637.86" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_speedmushroom" GUID="jhFYdW7mGUGktXBpkAN2TQ=="/>
-		<POI MapID="1041" xpos="491.305" ypos="44.1273" zpos="548.537" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_speedmushroom" GUID="CwY1EGXR00KT1wACh3+/KA=="/>
-		<POI MapID="1041" xpos="383.108" ypos="30.7398" zpos="509.685" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_speedmushroom" GUID="fOnsL9tvykmqqcb1Rn+qmw=="/>
-		<POI MapID="1041" xpos="349.1" ypos="33.4545" zpos="447.455" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="NOUO6o9S1UWSMQ0VUjOYpw=="/>
-		<POI MapID="1041" xpos="341.182" ypos="34.0899" zpos="430.54" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_speedmushroom" GUID="TmuYwE+uiESoiDubvZzPzg=="/>
-		<POI MapID="1041" xpos="391.138" ypos="74.5439" zpos="282.247" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="k0AscDMrUUaqOjfaAUe9Lg=="/>
-		<POI MapID="1041" xpos="462.257" ypos="68.425" zpos="307.223" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="JInzr30MY0mNhkPM1eCzsQ=="/>
-		<POI MapID="1041" xpos="828.882" ypos="32.7075" zpos="446.47" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_speedmushroom" GUID="SmapymC3NEyOl7I3+Z2cbw=="/>
-		<POI MapID="1041" xpos="777.017" ypos="71.4516" zpos="252.109" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="cvpzgy9fjUemKiSZCZCxrQ=="/>
-		<POI MapID="1041" xpos="784.388" ypos="75.4931" zpos="200.277" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="byR5QfkTHEKSxzdeMyAbgw=="/>
-		<POI MapID="1041" xpos="101.199" ypos="65.8949" zpos="478.47" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_speedmushroom" GUID="9kHmbJGoTUW30Ovdt2rmYQ=="/>
-		<POI MapID="1041" xpos="81.735" ypos="63.37" zpos="385.074" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="paHj19nd60q0U9ADwrBi7w=="/>
-		<POI MapID="1041" xpos="81.1976" ypos="63.8753" zpos="387.82" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_speedmushroom" GUID="QH78lpD/aEm1x5AH46jV6g=="/>
-		<POI MapID="1041" xpos="23.0411" ypos="69.391" zpos="382.614" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="w1OPbAaqf0+UMWD1btwWsA=="/>
-		<POI MapID="1041" xpos="-13.3865" ypos="46.1258" zpos="380.359" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="AwQkUuTwwUeys03n7/QQBg=="/>
-		<POI MapID="1041" xpos="-25.2004" ypos="65.4997" zpos="293.744" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_speedmushroom" GUID="iSh7+pY8SU2+keDWTEBoyQ=="/>
-		<POI MapID="1041" xpos="-81.1016" ypos="73.9492" zpos="324.45" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_adrenalmushroom" GUID="6pTsWQIw7Eu1tSgQ+40xOQ=="/>
-		<POI MapID="1041" xpos="-105.382" ypos="66.2076" zpos="303.578" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_speedmushroom" GUID="mFia+ammVkuhkl/064Ripw=="/>
-		<POI MapID="1041" xpos="-12.8807" ypos="83.1624" zpos="218.251" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_speedmushroom" GUID="oyzbiMx3tUmVCuVexV542w=="/>
-		<POI MapID="1041" xpos="-18.0759" ypos="45.6363" zpos="418.739" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_speedmushroom" GUID="+h0A1vTEPE61j/Gd4xAfFA=="/>
-		<POI MapID="1041" xpos="-76.4019" ypos="32.0485" zpos="454.887" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_speedmushroom" GUID="JRsygXmMQECeRwwb5ICpcA=="/>
-		<POI MapID="1041" xpos="-13.0811" ypos="73.5727" zpos="380.306" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="HivqeRxhuE29c9p+jnaMpw=="/>
-		<POI MapID="1041" xpos="-19.6191" ypos="72.1593" zpos="365.31" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="ym4RU64VckiHtw16FlL0bw=="/>
-		<POI MapID="1041" xpos="-16.7106" ypos="70.3186" zpos="357.221" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="1/tTxRqUmE+dVmb2pBCzPA=="/>
-		<POI MapID="1041" xpos="396.246" ypos="97.634" zpos="229.398" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_adrenalmushroom" GUID="2YW1u5G+4EC//gmOP/noiw=="/>
-		<POI MapID="1041" xpos="264.862" ypos="111.47" zpos="151.89" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="vua94G19h0GklkSgQTvRvQ=="/>
-		<POI MapID="1041" xpos="279.937" ypos="114.727" zpos="159.006" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="K5eEBnTUCk2Hjom5k8IdXw=="/>
-		<POI MapID="1041" xpos="250.601" ypos="151.131" zpos="209.771" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_speedmushroom" GUID="QjyWwi1McUKGusV0URUY9Q=="/>
-		<POI MapID="1041" xpos="229.061" ypos="118.115" zpos="100.313" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_adrenalmushroom" GUID="wB0XPTWTp0KYCw7tUI+btA=="/>
-		<POI MapID="1041" xpos="188.156" ypos="118.946" zpos="71.6947" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_speedmushroom" GUID="SEpKDyBWkkuNOZOEtFeVYg=="/>
-		<POI MapID="1041" xpos="857.906" ypos="68.1502" zpos="120.89" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_adrenalmushroom" GUID="qKHDBny8bESDwuXDOq00KA=="/>
-		<POI MapID="1041" xpos="850.748" ypos="68.1516" zpos="105.713" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_speedmushroom" GUID="QMotprIZL0qp1zc6P4VA5w=="/>
-		<POI MapID="1041" xpos="740.28" ypos="53.7859" zpos="58.2356" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_speedmushroom" GUID="4lEb7zDntUKm5SJcKxn8iQ=="/>
-		<POI MapID="1041" xpos="704.131" ypos="44.8279" zpos="-26.0317" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="4dF8eMu9SEyc06EYKY22Yw=="/>
-		<POI MapID="1041" xpos="692.809" ypos="45.3054" zpos="-34.0706" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="L6bxklxPV0SeLMS09NNgig=="/>
-		<POI MapID="1041" xpos="621.328" ypos="44.6137" zpos="-33.3965" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="s8Ops4dmNka+bfeWyc/gaA=="/>
-		<POI MapID="1041" xpos="588.74" ypos="49.2772" zpos="-51.6059" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_adrenalmushroom" GUID="coXWEWGuXEO3FbzAnR6Tww=="/>
-		<POI MapID="1041" xpos="597.079" ypos="49.328" zpos="-103.41" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_speedmushroom" GUID="9W2hE5BE5kmMNNIVlGFO8A=="/>
-		<POI MapID="1041" xpos="449.16" ypos="80.9633" zpos="-191.264" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_speedmushroom" GUID="syt3VHf0s0q0SJY9iExuXA=="/>
-		<POI MapID="1041" xpos="300.536" ypos="95.7756" zpos="-342.835" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_adrenalmushroom" GUID="/6VAJmwG8UG2oEoLiqbedQ=="/>
-		<POI MapID="1041" xpos="93.9456" ypos="96.4556" zpos="-164.147" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_adrenalmushroom" GUID="2tanrxYsg0uKAbbTzIJoCw=="/>
-		<POI MapID="1041" xpos="-358.671" ypos="82.4277" zpos="191.224" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_adrenalmushroom" GUID="A8F7keSHBUuklqPD5RDs5w=="/>
-		<POI MapID="1041" xpos="-52.834" ypos="76.6059" zpos="226.4" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="SWBq21FliUKCjLxqQJeI7A=="/>
-		<POI MapID="1041" xpos="-128.091" ypos="92.4951" zpos="184.385" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_speedmushroom" GUID="ZJHOtxaqu0Wd2OY6rrReEw=="/>
-		<POI MapID="1041" xpos="-63.963" ypos="117.069" zpos="26.4592" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="C1GV1uhO0ECw11NHvjnyiA=="/>
-		<POI MapID="1041" xpos="-24.4365" ypos="117.322" zpos="48.4971" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="5FPn78fnZkeEwS1+1EW0dg=="/>
-		<POI MapID="1041" xpos="-56.3671" ypos="125.244" zpos="-22.7498" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="SoBFQ79qLUiBr+brHdonDQ=="/>
-		<POI MapID="1041" xpos="5.00982" ypos="123.779" zpos="-11.5584" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="HxCVVmCTw0WEgDecRxq8iQ=="/>
-		<POI MapID="1041" xpos="266.634" ypos="35.3086" zpos="44.0921" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="jMAuLGCyV0O6ioLtUDZilg=="/>
-		<POI MapID="1041" xpos="247.175" ypos="43.2678" zpos="65.6713" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="z8sRm7qF60yJEMGOR6TwIQ=="/>
-		<POI MapID="1041" xpos="-317.567" ypos="17.2535" zpos="418.742" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_speedmushroom" GUID="jG5jfTuX20GpWqOpdp74CQ=="/>
-		<POI MapID="1041" xpos="-210.117" ypos="112.248" zpos="436.154" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="aqiBCFr5y0qQ2MWtGEEYEg=="/>
-		<POI MapID="1041" xpos="-190.648" ypos="110.233" zpos="471.204" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="dDjqVWd090CdpM0hKBtcjA=="/>
-		<POI MapID="1041" xpos="-174.825" ypos="119.778" zpos="620.893" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="5G7vb6cL2EOMC3VAlyUJEQ=="/>
-		<POI MapID="1041" xpos="-144.216" ypos="123.726" zpos="609.502" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="ZMuuGHqYzECSqKuxPBPx0w=="/>
-		<POI MapID="1041" xpos="-128.441" ypos="114.66" zpos="520.849" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="USbZsSIox0OR9Lpq3qcqWw=="/>
-		<POI MapID="1041" xpos="293.238" ypos="113.872" zpos="610.337" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="VXcTnD9WeU2JTZZBbNTFfw=="/>
-		<POI MapID="1041" xpos="53.9124" ypos="88.3909" zpos="566.644" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="9wd03ygP/ESjODouvy1btw=="/>
-		<POI MapID="1041" xpos="138.809" ypos="49.9702" zpos="590.154" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="zXFuN2sjdUaaMexb6q32IQ=="/>
-		<POI MapID="1041" xpos="682.453" ypos="66.7986" zpos="646.043" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_speedmushroom" GUID="s85dme8W40iW3Rmq0ZNc3w=="/>
-		<POI MapID="1041" xpos="454.767" ypos="1.40879" zpos="486.636" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_speedmushroom" GUID="SGED/eLVdE++tHfTyFljYA=="/>
-		<POI MapID="1041" xpos="536.042" ypos="0.519934" zpos="414.301" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_speedmushroom" GUID="y57uxGzTL0Wy8mcCl7OGFg=="/>
-		<POI MapID="1041" xpos="479.861" ypos="1.1906" zpos="391.155" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_speedmushroom" GUID="idJs1LAxiUiJcLXVJQsfXA=="/>
-		<POI MapID="1041" xpos="258.347" ypos="132.309" zpos="297.565" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="3rnuwG8MHkeYAgrwJ+yp3A=="/>
-		<POI MapID="1041" xpos="259.455" ypos="130.65" zpos="281.057" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_speedmushroom" GUID="V6tG/yUWb0y3WyaEJo1KEg=="/>
-		<POI MapID="1041" xpos="339.373" ypos="102.825" zpos="351.816" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="eEhgmGax2U+5SAoz6loOig=="/>
-		<POI MapID="1041" xpos="471.533" ypos="75.1456" zpos="285.373" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="QP7dbOuND0CbsOmrSE3CFQ=="/>
-		<POI MapID="1041" xpos="440.738" ypos="84.0721" zpos="254.15" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_speedmushroom" GUID="O+t6XLaTP0SieU9pCyhpxg=="/>
-		<POI MapID="1041" xpos="382.086" ypos="123.528" zpos="160.654" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="fPxEKWFiikq5ia9xvwB5qQ=="/>
-		<POI MapID="1041" xpos="344.59" ypos="122.925" zpos="165.894" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="E0vZxzFfOEuYN76TnRZbYg=="/>
-		<POI MapID="1041" xpos="295.531" ypos="102.972" zpos="74.6023" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="iwJ/7tX5LUSQcFm+JwVz1Q=="/>
-		<POI MapID="1041" xpos="245.69" ypos="122.488" zpos="82.0837" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="sjdzQdBzikubpB1a1rbOEg=="/>
-		<POI MapID="1041" xpos="378.62" ypos="144.777" zpos="110.678" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="+dUL9EIOUEWqcWQPy7a2sQ=="/>
-		<POI MapID="1041" xpos="458.562" ypos="125.34" zpos="87.1591" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_speedmushroom" GUID="FDMkkfZoHUKcexxYjnjwrw=="/>
-		<POI MapID="1041" xpos="459.541" ypos="109.459" zpos="-10.6077" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="OZbVMjt4SUu3FD8u2k94XQ=="/>
-		<POI MapID="1041" xpos="654.478" ypos="21.9207" zpos="-158.557" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_speedmushroom" GUID="7H3F99145Uyxs2QbdIteRA=="/>
-		<POI MapID="1041" xpos="613.62" ypos="45.6676" zpos="-43.5483" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="xRkgRHXklEWeX/sUJz51yg=="/>
-		<POI MapID="1041" xpos="675.861" ypos="45.1033" zpos="-41.8281" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="fiJHskfLkk+FjXmRJ2vLsw=="/>
-		<POI MapID="1041" xpos="653.728" ypos="44.9415" zpos="13.4893" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="6vXDr8IagEK+lXBQLLzOLA=="/>
-		<POI MapID="1041" xpos="723.576" ypos="34.796" zpos="105.836" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="tjUcGVlyxEqCXm0Q7et1ng=="/>
-		<POI MapID="1041" xpos="907.953" ypos="7.34593" zpos="388.22" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="byGPb+40rUmX94p+B7ZwkA=="/>
-		<POI MapID="1041" xpos="356.426" ypos="95.5321" zpos="645.639" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="ajJ2k4aa4EyCrWI9B+Us4Q=="/>
-		<POI MapID="1041" xpos="256.284" ypos="45.5053" zpos="453.051" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_speedmushroom" GUID="dez92tdmlkiAuKIQVnV9ng=="/>
-		<POI MapID="1041" xpos="282.13" ypos="44.2129" zpos="401.921" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_speedmushroom" GUID="hZAYeSjEqUiDn1ud7F/6jQ=="/>
-		<POI MapID="1041" xpos="36.636" ypos="57.8316" zpos="704.435" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="oojaLU6YzU6tdXW+pWfB1A=="/>
-		<POI MapID="1041" xpos="130.174" ypos="45.1043" zpos="542.261" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="pe0kvhkQiEiGgFXkSKKu9g=="/>
-		<POI MapID="1041" xpos="154.546" ypos="47.1363" zpos="573.089" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="gWz8cHOSekm/v/fgxKJuCQ=="/>
-		<POI MapID="1041" xpos="502.171" ypos="65.1043" zpos="513.133" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_speedmushroom" GUID="NWuF2OFr8UKz3vjrCCPOHg=="/>
-		<POI MapID="1041" xpos="503.923" ypos="68.9934" zpos="436.226" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="Lq8A5Nt/NUiHzmlcmuj6vg=="/>
-		<POI MapID="1041" xpos="533.003" ypos="86.0981" zpos="395.397" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_speedmushroom" GUID="wojYdrk/30iT2ZQrYIRL9g=="/>
-		<POI MapID="1041" xpos="489.263" ypos="86.3652" zpos="367.648" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="TTeqiUW5xkuDJkzU9Mwbgw=="/>
-		<POI MapID="1041" xpos="499.622" ypos="100.956" zpos="276.794" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="dn0tN4SYYkCcTZVDBJzR/Q=="/>
-		<POI MapID="1041" xpos="341.091" ypos="120.134" zpos="261.329" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="0MvcZNGgQU+T26vVGxZD9A=="/>
-		<POI MapID="1041" xpos="162.373" ypos="134.315" zpos="258.868" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_speedmushroom" GUID="fsYEYjfRxk2X/4cX18Qjeg=="/>
-		<POI MapID="1041" xpos="93.7084" ypos="138.026" zpos="204.204" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_speedmushroom" GUID="bG9fKhsUOUSwKSG7sPCP/A=="/>
-		<POI MapID="1041" xpos="99.35" ypos="95.6057" zpos="295.877" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_speedmushroom" GUID="YV6Ii8/j0USo/QrTXgfC7w=="/>
-		<POI MapID="1041" xpos="173.544" ypos="98.377" zpos="197.866" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_speedmushroom" GUID="x6hDcgsoKE2aoQB8vDinMw=="/>
-		<POI MapID="1041" xpos="106.18" ypos="102.882" zpos="81.834" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_speedmushroom" GUID="oGI1icLKC0KhbGROAqtbzg=="/>
-		<POI MapID="1041" xpos="851.773" ypos="65.794" zpos="250.547" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="q9xWSZuIlkOCleWfkD1wjg=="/>
-		<POI MapID="1041" xpos="853.11" ypos="77.9086" zpos="301.482" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_speedmushroom" GUID="Owr8oJDyy0SvCVhY+F+UXg=="/>
-		<POI MapID="1041" xpos="670.45" ypos="4.5976" zpos="394.802" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="ZdiailM/x0KY2a5ZS2x5iw=="/>
-		<POI MapID="1041" xpos="694.909" ypos="4.0435" zpos="363.705" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_speedmushroom" GUID="sPXSfEtVfUCjOzVj1URHDg=="/>
-		<POI MapID="1041" xpos="648.338" ypos="10.8071" zpos="429.554" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_speedmushroom" GUID="QhzuOjUK1ESE1akLIMR9Yg=="/>
-		<POI MapID="1041" xpos="574.508" ypos="11.8686" zpos="455.617" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_speedmushroom" GUID="VJWFcmO620OD49pllZ1Mdg=="/>
-		<POI MapID="1041" xpos="800.935" ypos="70.561" zpos="190.267" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="vLAXlwwEHkCfJA6z95eJVA=="/>
-		<POI MapID="1041" xpos="819.985" ypos="71.0523" zpos="156.285" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="A3FwEOUNvUqQyc06+HcDuA=="/>
-		<POI MapID="1041" xpos="846.677" ypos="71.0646" zpos="166.097" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="zz/9mQrpWkK3ak+Hogep0w=="/>
-		<POI MapID="1041" xpos="707" ypos="12.2528" zpos="242.079" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="iy4UmakOSUq7GQilErHKww=="/>
-		<POI MapID="1041" xpos="793.174" ypos="18.9195" zpos="361.7" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_speedmushroom" GUID="awiMiQS19USbdxee/zT3OA=="/>
-		<POI MapID="1041" xpos="446.46" ypos="68.5287" zpos="19.0483" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="XOQXKHktGEqM7BTd8UmRFQ=="/>
-		<POI MapID="1041" xpos="570.542" ypos="73.669" zpos="-15.1573" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_speedmushroom" GUID="iR+pUHo3ZUW7bUXZHgjPCw=="/>
-		<POI MapID="1041" xpos="632.749" ypos="26.439" zpos="-204.109" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="QOe1B6r+9UaYD/EG+HjOBw=="/>
-		<POI MapID="1041" xpos="748.999" ypos="46.9797" zpos="748.929" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_speedmushroom" GUID="NIHdgxTfpk6Kg4pe/LyJeg=="/>
-		<POI MapID="1041" xpos="818.564" ypos="16.5801" zpos="355.91" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="AaxnDQ64b0ynRP3ZkV3h2g=="/>
-		<POI MapID="1041" xpos="372.838" ypos="74.5987" zpos="287.438" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="uE1GPk8HmU+0mxp4Mzjd5g=="/>
-		<POI MapID="1041" xpos="497.142" ypos="50.0786" zpos="630.382" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="mjlc4IfojEi+LoZ81UBgHA=="/>
-		<POI MapID="1041" xpos="480.855" ypos="63.4795" zpos="338.181" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="qOcWucTVIkOJaNVsNXAmKQ=="/>
-		<POI MapID="1041" xpos="513.741" ypos="1.54004" zpos="470.856" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="yIh7bumGa0CqZqkrwAIS9A=="/>
-		<POI MapID="1041" xpos="922.397" ypos="28.5569" zpos="291.29" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="b0i9LAXSN02EYC2scKCoSQ=="/>
-		<POI MapID="1041" xpos="-278.02" ypos="98.7785" zpos="286.317" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_speedmushroom" GUID="FRiAEOXgtECC0ve9ixN0Yw=="/>
-		<POI MapID="1041" xpos="281.279" ypos="103.179" zpos="70.9653" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="54N4g+SIKUSndqhzNhw4sg=="/>
-		<POI MapID="1041" xpos="235.592" ypos="112.075" zpos="118.556" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="cfLGLLz7OUWucut4DX7ayg=="/>
-		<POI MapID="1041" xpos="238.913" ypos="149.131" zpos="218.127" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="dkqkpGaLJEWKwPZHD6/Brg=="/>
-		<POI MapID="1041" xpos="549.611" ypos="75.7015" zpos="-123.31" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="ZuC6xuH4TEaPUK4Gb53MQg=="/>
-		<POI MapID="1041" xpos="375.823" ypos="95.092" zpos="-114.904" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_speedmushroom" GUID="a8myN+NHKEefthfvUEVcpg=="/>
-		<POI MapID="1041" xpos="231.256" ypos="114.637" zpos="-131.09" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_speedmushroom" GUID="1khlLGDN9UmfTrHPPitBXw=="/>
-		<POI MapID="1041" xpos="-206.551" ypos="67.1637" zpos="239.003" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="400pBqv0kEWYsFl6sWlrLQ=="/>
-		<POI MapID="1041" xpos="630.021" ypos="131.725" zpos="250.27" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="sYPv0gxqkU+x+m7MogXx2w=="/>
-		<POI MapID="1041" xpos="594.093" ypos="137.308" zpos="240.564" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="9sL0q/P7TEumSbYPQHRn/g=="/>
-		<POI MapID="1041" xpos="575.042" ypos="139.291" zpos="195.01" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="djIUrkTvuEmGJPQ/OkOfQw=="/>
-		<POI MapID="1041" xpos="572.931" ypos="136.017" zpos="160.385" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="B07HV7Cw7EGOYdugsv17ug=="/>
-		<POI MapID="1041" xpos="600.389" ypos="136.415" zpos="139.327" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="kYeKAUbQhkSvMyEGExT9Ig=="/>
-		<POI MapID="1041" xpos="252.801" ypos="32.8576" zpos="54.2122" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="edCNgJoH0UWGmmYlI3VyvA=="/>
-		<POI MapID="1041" xpos="232.701" ypos="42.2227" zpos="40.152" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="8MtsBMRqEE6qfAfJ5gtlLA=="/>
-		<POI MapID="1041" xpos="251.56" ypos="65.3875" zpos="3.55103" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="qc4QyN/XJk6Crryis0XFVA=="/>
-		<POI MapID="1041" xpos="139.106" ypos="113.707" zpos="24.5583" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="M6jFinwwoUS9xDulYaXQsA=="/>
-		<POI MapID="1041" xpos="243.021" ypos="83.4865" zpos="644.899" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="b/ihINae8k+zGIBLSCBjYg=="/>
-		<POI MapID="1041" xpos="-173.851" ypos="60.7356" zpos="710.47" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="0i+KcZ4uTEmqKtVAcKEQVA=="/>
-		<POI MapID="1041" xpos="12.0889" ypos="77.9341" zpos="597.04" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="cv06q+POV06KyDXOQYHypw=="/>
-		<POI MapID="1041" xpos="488.699" ypos="57.871" zpos="371.632" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="owVvSzksKE6DmBb3QKFW3w=="/>
-		<POI MapID="1041" xpos="836.137" ypos="65.3551" zpos="273.942" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="L/mcomeYCkq2EeeAm3+LZw=="/>
-		<POI MapID="1041" xpos="595.971" ypos="8.22728" zpos="471.566" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="9vbYwLiWn0q8YRxokH9/eQ=="/>
-		<POI MapID="1041" xpos="-106.223" ypos="67.22" zpos="307.204" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="rKciXM+a1UCiFgqG+yM+6g=="/>
-		<POI MapID="1041" xpos="-16.5856" ypos="67.5282" zpos="328.334" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="YaBAbLB96EeZHdJuKI/ocA=="/>
-		<POI MapID="1041" xpos="702.596" ypos="38.3031" zpos="40.1127" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="ErvfGKYRoUe4vlyv1AdB1Q=="/>
-		<POI MapID="1041" xpos="290.514" ypos="208.043" zpos="218.755" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="zbRT8vgubUCh7gvatdRsdw=="/>
-		<POI MapID="1041" xpos="-12.6571" ypos="50.0239" zpos="340.112" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="bOfa+e82U0y23QOC+aedhQ=="/>
-		<POI MapID="1041" xpos="30.4635" ypos="71.1849" zpos="411.305" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="AhZ1uwKPdUyp0mybFJMKcA=="/>
-		<POI MapID="1041" xpos="93.3196" ypos="71.6471" zpos="459.978" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="Z1HycTMuCEKUbD1th10ESg=="/>
-		<POI MapID="1041" xpos="19.7155" ypos="75.5687" zpos="511.766" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="UQQnec7bkkmrZFAu1N20Pg=="/>
-		<POI MapID="1041" xpos="22.1174" ypos="71.6895" zpos="629.351" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="fPwMuWsJtkW63AWaR4cWeQ=="/>
-		<POI MapID="1041" xpos="291.507" ypos="112.785" zpos="154.321" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="BPsvSku6EkqfjbdDA8JdHA=="/>
-		<POI MapID="1041" xpos="715.66" ypos="43.0284" zpos="-0.543758" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="rW3U/7yOfEqBzxfXZd1lvw=="/>
-		<POI MapID="1041" xpos="795.764" ypos="63.8247" zpos="87.7467" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="0KkkTEjmsEyJBFJbQWrI8g=="/>
-		<POI MapID="1041" xpos="893.104" ypos="44.8421" zpos="82.7357" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="Yk+s/cNgTE+pMDsGyFMq2w=="/>
-		<POI MapID="1041" xpos="711.228" ypos="47.902" zpos="372.147" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="3juQjGEdak+fENB5f5cCyg=="/>
-		<POI MapID="1041" xpos="778.898" ypos="46.7865" zpos="364.341" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="98oCg6DHB0Gq1CbNemsksw=="/>
-		<POI MapID="1041" xpos="860.638" ypos="36.2203" zpos="474.4" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="RAnJdt3iLECannxNmQph2Q=="/>
-		<POI MapID="1041" xpos="179.086" ypos="103.908" zpos="-31.46" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="UVaIW8fVDEqCZjML4IHHkw=="/>
-		<POI MapID="1041" xpos="467.943" ypos="79.3253" zpos="-152.784" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="0R/E2Vm0GUqpUHObtsyDMg=="/>
-		<POI MapID="1041" xpos="518.744" ypos="67.2838" zpos="-183.576" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="EIVmlooGi0S5evLhE5b1LQ=="/>
-		<POI MapID="1041" xpos="439.31" ypos="91.759" zpos="-251.061" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="W3E/QzUBPE+kC/p70Vkn2w=="/>
-		<POI MapID="1041" xpos="147.295" ypos="100.955" zpos="-362.531" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="2Daxo+HsUUCJrRRi+RCFbQ=="/>
-		<POI MapID="1041" xpos="661.758" ypos="95.1653" zpos="227.328" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="btjfU1uzfkS1qIopNoKugw=="/>
-		<POI MapID="1041" xpos="631.202" ypos="131.332" zpos="240.136" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="HIIHPzdI00W1Dzl2DdDxIA=="/>
-		<POI MapID="1041" xpos="597.133" ypos="139.5" zpos="221.713" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="wSFMViebmUGUwYTxXimE0A=="/>
-		<POI MapID="1041" xpos="561.201" ypos="136.826" zpos="213.688" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="1QQGAaV+wkWHrKmZ9v5kgA=="/>
-		<POI MapID="1041" xpos="530.384" ypos="133.939" zpos="236.055" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="5IYF/SlH1EKG3URgBeQ5Cg=="/>
-		<POI MapID="1041" xpos="594.856" ypos="137.263" zpos="189.277" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="wHWk4f1WlUO3eGjO+MdERA=="/>
-		<POI MapID="1041" xpos="609.899" ypos="135.019" zpos="146.277" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="VmWo9sHeckeiTqfjppOasA=="/>
-		<POI MapID="1041" xpos="614.44" ypos="136.188" zpos="159.536" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="DKMnR9BpbkSX+ce27rTpgA=="/>
-		<POI MapID="1041" xpos="-127.578" ypos="89.9002" zpos="218.071" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="l2asxFX5X0SK8h8sDp3fig=="/>
-		<POI MapID="1041" xpos="-158.197" ypos="87.8587" zpos="207.207" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="8WdKncKpQUW/e9EEKJOZxQ=="/>
-		<POI MapID="1041" xpos="-191.748" ypos="126.23" zpos="-52.213" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="G1gjYHmCVky7eh+/GqhTFQ=="/>
-		<POI MapID="1041" xpos="-228.088" ypos="121.544" zpos="-57.7558" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="N4XiNgy4i06rBd9OT2AdGQ=="/>
-		<POI MapID="1041" xpos="46.724" ypos="113.852" zpos="-59.2269" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="fE07fhEeIkaIfXIRj/n2JQ=="/>
-		<POI MapID="1041" xpos="166.822" ypos="98.3725" zpos="159.75" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="ZfA1kBMe0EWqUYJ2hMejFw=="/>
-		<POI MapID="1041" xpos="-87.5814" ypos="36.5407" zpos="425.328" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="ZlUOUatjG0WnFLWCJEoJ4A=="/>
-		<POI MapID="1041" xpos="-199.907" ypos="114.653" zpos="588.236" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="VBXtjRvwT06SavEl920U5g=="/>
-		<POI MapID="1041" xpos="855.234" ypos="65.9941" zpos="235.18" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="YiQymX0L3kiB0Mb+oBCG5w=="/>
-		<POI MapID="1041" xpos="896.759" ypos="43.5561" zpos="13.5231" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="+CDiH9AzZEyMRTDB7iaspQ=="/>
-		<POI MapID="1041" xpos="878.131" ypos="38.5428" zpos="-113.572" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="IbrWiPiTMUylJXNWttHHGw=="/>
-		<POI MapID="1041" xpos="763.824" ypos="29.6275" zpos="-199.151" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="tW4uEWWr1UOxG2I4Y3TBkA=="/>
-		<POI MapID="1041" xpos="554.518" ypos="53.1353" zpos="-162.631" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="/otV6RS8b0iwWQIalDxjFg=="/>
-		<POI MapID="1041" xpos="901.485" ypos="60.4187" zpos="-23.8722" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="ZrvkNxf+3E2LT++ApoXEFA=="/>
-		<POI MapID="1041" xpos="899.569" ypos="60.1852" zpos="-21.4008" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_speedmushroom" GUID="xQ2Bsoss4kiwMZPXKVSM+g=="/>
-		<POI MapID="1041" xpos="190.172" ypos="168.506" zpos="270.94" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="s4Ds1Jjf7kCsWEO0rwAC+g=="/>
-		<POI MapID="1041" xpos="239.04" ypos="175.762" zpos="163.072" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="BS2k7ipN3UWpR/hpn4SV3g=="/>
-		<POI MapID="1041" xpos="354.676" ypos="113.947" zpos="745.114" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="kfrgiBk/EEqYdvA2KXIPwg=="/>
-		<POI MapID="1041" xpos="376.339" ypos="84.5247" zpos="598.513" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="jGUQbvwwl0+ktyWpZWsD8A=="/>
-		<POI MapID="1041" xpos="62.0553" ypos="128.382" zpos="181.233" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="v52wF04LJ0GUZASkTFD8iA=="/>
-		<POI MapID="1041" xpos="126.443" ypos="112.213" zpos="240.464" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="i9spGmLFu0mJvx6w26M2qg=="/>
-		<POI MapID="1041" xpos="392.121" ypos="126.02" zpos="-9.74178" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="f3aFUqJ0Mk22cbGG19qx1A=="/>
-		<POI MapID="1041" xpos="600.876" ypos="132.018" zpos="112.815" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="RknD4cm9mkGKRKtoem6lEw=="/>
-		<POI MapID="1041" xpos="509.729" ypos="64.3102" zpos="-13.3734" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="zccKkirrd06fj6xhfyqEDA=="/>
-		<POI MapID="1041" xpos="383.871" ypos="95.0673" zpos="-257.736" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="ZuaCOuRJekmYoZp1RhUKlQ=="/>
-		<POI MapID="1041" xpos="530.717" ypos="5.15763" zpos="371.933" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="Zh2/Wipa5kqrx3v7wJseHw=="/>
-		<POI MapID="1041" xpos="589.396" ypos="145.322" zpos="285.049" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="CTyZQW1yHEao1m0606tz0A=="/>
-		<POI MapID="1041" xpos="570.784" ypos="140.326" zpos="298.212" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="ycEBVl1z9kGdqnRrCglIIA=="/>
-		<POI MapID="1041" xpos="267.132" ypos="93.1675" zpos="593.391" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="bACYwQGnUkq+89cRzyxsfQ=="/>
-		<POI MapID="1041" xpos="449.514" ypos="125.649" zpos="109.219" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="VGTpnPPFuEaHDd4ImKiHUw=="/>
-		<POI MapID="1041" xpos="468.082" ypos="80.3846" zpos="265.037" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="MG566a82cki+syN/gvo/Lw=="/>
-		<POI MapID="1041" xpos="290.913" ypos="129.066" zpos="338.826" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="tLgSqgiWS02fV5Zh7HMxbQ=="/>
-		<POI MapID="1041" xpos="499.798" ypos="105.467" zpos="40.1082" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="1mYVr54UZ0Oj33WkQbQTuw=="/>
-		<POI MapID="1041" xpos="-291.536" ypos="99.8324" zpos="288.666" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="o0CaXX0LE02gdppagNimlw=="/>
-		<POI MapID="1041" xpos="726.321" ypos="49.2655" zpos="67.8914" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="xZjjUuCTaUqNbQ4R1qCRTQ=="/>
-		<POI MapID="1041" xpos="309.513" ypos="106.26" zpos="148.145" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_speedmushroom" GUID="fWnGZcHmUkyQCFvD4rwCuA=="/>
-		<POI MapID="1041" xpos="649.347" ypos="83.0427" zpos="391.054" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="gd56yqArK0q5iJ9e13ovXQ=="/>
-		<POI MapID="1041" xpos="811.941" ypos="12.3873" zpos="208.83" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_masterypoints.tw_hot_ds_masterypoint_wallowingwhiz" GUID="CiM+pjokY0mo8r8MTTbMjQ=="/>
-		<POI MapID="1041" xpos="873.267" ypos="78.0219" zpos="303.604" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_masterypoints.tw_hot_ds_masterypoint_sumviewer" GUID="OrWf/z6jDkacJQ7VJv+x4g=="/>
-		<POI MapID="1041" xpos="15.4632" ypos="71.1803" zpos="531.332" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_masterypoints.tw_hot_ds_masterypoint_tamerofwyverns" GUID="UneDo+RX9ECPKcyJgaLMig=="/>
-		<POI MapID="1041" xpos="13.4875" ypos="52.0838" zpos="761.271" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_masterypoints.tw_hot_ds_masterypoint_mushroommusterer" GUID="ZSSTmqklOUmBEJlnrrxQOQ=="/>
-		<POI MapID="1041" xpos="-188.118" ypos="53.977" zpos="234.186" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="8C22Efrro0WaNubK0jdgoA=="/>
-		<POI MapID="1041" xpos="-368.261" ypos="83.1278" zpos="168.369" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_masterypoints.tw_hot_ds_masterypoint_northerntowertaker" GUID="wM2GW1Hy0U2uKWhUqYQTwA=="/>
-		<POI MapID="1041" xpos="-353.671" ypos="81.9279" zpos="171.814" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_heropoints" GUID="CNhzgWxQi02LOSzTvJE1zQ=="/>
-		<POI MapID="1041" xpos="102.266" ypos="96.7927" zpos="-188.667" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_masterypoints.tw_hot_ds_masterypoint_centraltowertaker" GUID="JhLB8H2qjEe/Vk3Hkqf8Mw=="/>
-		<POI MapID="1041" xpos="92.0052" ypos="96.8915" zpos="-187.949" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_heropoints" GUID="RolHO4js+ECvXwWjVtCMSQ=="/>
-		<POI MapID="1041" xpos="309.454" ypos="96.912" zpos="-357.388" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_masterypoints.tw_hot_ds_masterypoint_southerntowertaker" GUID="ulV+YwNT3kGSazJ62uv7XQ=="/>
-		<POI MapID="1041" xpos="300.581" ypos="96.9164" zpos="-363.339" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_heropoints" GUID="+ul7wbXbA0KuL5IGd0KutQ=="/>
-		<POI MapID="1041" xpos="-183.691" ypos="18.8035" zpos="467.017" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_masterypoints.tw_hot_ds_masterypoint_enchantedarmorwearer" GUID="cUbxL9wSlkukwZ/YmCZhvg=="/>
-		<POI MapID="1041" xpos="-852.24" ypos="135.475" zpos="-233.203" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_masterypoints.tw_hot_ds_masterypoint_dragonsstandoverviewer" GUID="tf727TgTAUSpjXYknjn28Q=="/>
-		<POI MapID="1041" xpos="-871.622" ypos="146.186" zpos="-212.357" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_heropoints" GUID="RT/2rRadgUC7mVhyKPQCzg=="/>
-		<POI MapID="1041" xpos="-174.926" ypos="92.4697" zpos="476.452" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_heropoints" GUID="tZKBAS/j9k6QIT/cUjHbGA=="/>
-		<POI MapID="1041" xpos="245.622" ypos="45.2341" zpos="63.4672" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_heropoints" GUID="CRVKwW9U/02vequbixZupg=="/>
-		<POI MapID="1041" xpos="582.392" ypos="148.773" zpos="230.282" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_heropoints" GUID="m4WBTaSCrECtTaE03actHw=="/>
-		<POI MapID="1041" xpos="544.789" ypos="135.361" zpos="213.277" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_richveins" GUID="tzB5+vEN9kas2pZWP42rfg=="/>
-		<POI MapID="1041" xpos="399.368" ypos="72.8038" zpos="282.034" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_masterypoints.tw_hot_ds_masterypoint_firejumper" GUID="SCvLhl3m5k2FCHNxMlBrfg=="/>
-		<POI MapID="1041" xpos="370.618" ypos="-0.053145" zpos="430.5" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_masterypoints.tw_hot_ds_masterypoint_pactpilotprotector" GUID="paxNBzZzxk2czQN1xegSWQ=="/>
-		<POI MapID="1041" xpos="681.593" ypos="74.0462" zpos="416.227" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_masterypoints.tw_hot_ds_masterypoint_prismaticpercher" GUID="PVcceuUNEEaCMT3s9JHaRw=="/>
-		<POI MapID="1041" xpos="311.5" ypos="102.865" zpos="87.6456" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_masterypoints.tw_hot_ds_masterypoint_firejumper" GUID="gONlr2Xx20y/9gcKFJ5N7w=="/>
-		<POI MapID="1041" xpos="519.832" ypos="84.4317" zpos="726.383" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_masterypoints.tw_hot_ds_masterypoint_munitionreupper" GUID="QhuQOPshMUOK4lpqnbl4nQ=="/>
-		<POI MapID="1041" xpos="351.095" ypos="84.0551" zpos="619.87" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_masterypoints.tw_hot_ds_masterypoint_prismaticplunderer" GUID="cAZw9f990Uq26NTyXiipvA=="/>
-		<POI MapID="1041" xpos="721.978" ypos="57.9774" zpos="412.441" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_masterypoints.tw_hot_ds_masterypoint_prideoflionsarch" GUID="dUafQWdT6ki9Do+buGMKug=="/>
-		<POI MapID="1041" xpos="891.748" ypos="94.0439" zpos="29.6063" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_masterypoints.tw_hot_ds_masterypoint_legacyofowl" GUID="tLncHfZkpU6IdmKWlLXw1w=="/>
-		<POI MapID="1041" xpos="906.828" ypos="52.4436" zpos="301.564" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_masterypoints.tw_hot_ds_masterypoint_laserlighter" GUID="7bo2xqQ/hEyx25EL7i+TBQ=="/>
-		<POI MapID="1041" xpos="840.63" ypos="60.8139" zpos="20.1046" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_masterypoints.tw_hot_ds_masterypoint_batwrangler" GUID="4b+oydwc8USSDOTmYFEF9A=="/>
-		<POI MapID="1041" xpos="223.508" ypos="92.0203" zpos="540.047" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_masterypoints.tw_hot_ds_masterypoint_unsolvedconundrum" GUID="Spef3+PnNEK8BzTDlMeZzw=="/>
-		<POI MapID="1041" xpos="221.124" ypos="92.0205" zpos="562.393" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="FKLN1KDT3kaqlyrv9fjpRw=="/>
-		<POI MapID="1041" xpos="-276.497" ypos="18.5192" zpos="574.247" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_masterypoints.tw_hot_ds_masterypoint_dragonrender" GUID="uPCnI66/qECjlVwz1h8YLQ=="/>
-		<POI MapID="1041" xpos="318.099" ypos="60.6456" zpos="39.2388" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_masterypoints.tw_hot_ds_masterypoint_shootingstar" GUID="4zo1shwdd0ecdgTgdQ7jHA=="/>
-		<POI MapID="1041" xpos="377.145" ypos="147.293" zpos="136.013" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_masterypoints.tw_hot_ds_masterypoint_scorchrazorii" GUID="KhjMY8rTE0yLBrcd8euvWA=="/>
-		<POI MapID="1041" xpos="-228.125" ypos="119.343" zpos="-32.3884" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_richveins" GUID="dA+d+7lHekSX9INIO2EvNw=="/>
-		<POI MapID="1041" xpos="96.2213" ypos="45.2992" zpos="573.266" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_signs.tw_hot_ds_noxiouspods_startsignn1" GUID="Q5H1DTJwd0O576ulmUOAhA=="/>
-		<POI MapID="1041" xpos="93.1081" ypos="71.6669" zpos="459.887" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_signs.tw_hot_ds_noxiouspods_finish" GUID="wk9W1pjYf0i2NvRt83NTlQ=="/>
-		<POI MapID="1041" xpos="-46.6911" ypos="85.7345" zpos="426.819" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_signs.tw_hot_ds_noxiouspods_startsignn2_2" GUID="6bTlWF1zu0StOOkEQFpvTA=="/>
-		<POI MapID="1041" xpos="-34.0791" ypos="82.4588" zpos="419.459" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_signs.tw_hot_ds_noxiouspods_startsignn2_1" GUID="xiVxhv0bNkGEAPq2Ida5qA=="/>
-		<POI MapID="1041" xpos="-15.9312" ypos="81.6418" zpos="419.163" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_signs.tw_hot_ds_noxiouspods_startsignn2" GUID="GfFp+/YTkkyzksGNc2eTuA=="/>
-		<POI MapID="1041" xpos="390.286" ypos="62.6446" zpos="314.393" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_signs.tw_hot_ds_noxiouspods_startsignc1" GUID="I2lCRX+FyEqX2fr6BD4lGQ=="/>
-		<POI MapID="1041" xpos="499.5" ypos="100.909" zpos="276.823" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_signs.tw_hot_ds_noxiouspods_finish" GUID="VpRSPV7Pv0K1ioovROVJww=="/>
-		<POI MapID="1041" xpos="320.313" ypos="104.326" zpos="84.5328" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_signs.tw_hot_ds_noxiouspods_startsignc2" GUID="ULH8AbClQUifJ1dmDFUg1Q=="/>
-		<POI MapID="1041" xpos="307.173" ypos="103.413" zpos="88.7388" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_signs.tw_hot_ds_noxiouspods_startsignc2_1" GUID="64YhfPLY6Ey4NI4dtdKH8w=="/>
-		<POI MapID="1041" xpos="127.627" ypos="97.5344" zpos="123.965" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="J8ThgjCNbUupY7yCKMH/2g=="/>
-		<POI MapID="1041" xpos="127.627" ypos="97.5344" zpos="123.965" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_signs.tw_hot_ds_noxiouspods_finish" GUID="lqYL4o2UVkWpQUcCbrr/jg=="/>
-		<POI MapID="1041" xpos="-13.3761" ypos="46.1218" zpos="380.577" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_signs.tw_hot_ds_noxiouspods_finish" GUID="cPKpIyHH+06F8PWERm+ppQ=="/>
-		<POI MapID="1041" xpos="-210.279" ypos="112.253" zpos="436.236" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_signs.tw_hot_ds_noxiouspods_finish" GUID="4JjOY43/sEu23PjXEdWTLw=="/>
-		<POI MapID="1041" xpos="46.6733" ypos="113.87" zpos="-59.2591" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_signs.tw_hot_ds_noxiouspods_finish" GUID="knv401CIH0GtuTkJj2wAIg=="/>
-		<POI MapID="1041" xpos="851.421" ypos="67.0205" zpos="211.192" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_signs.tw_hot_ds_noxiouspods_startsigns1" GUID="BY9ReM+5X0SvF/a46n/1sA=="/>
-		<POI MapID="1041" xpos="845.539" ypos="65.7575" zpos="217.542" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_signs.tw_hot_ds_noxiouspods_startsigns1_1" GUID="11MaFga3BkiRrI2aY+2hqw=="/>
-		<POI MapID="1041" xpos="855.629" ypos="66.1715" zpos="235.239" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_signs.tw_hot_ds_noxiouspods_finish" GUID="PAul/JkBfEqhQfoF+DcUsw=="/>
-		<POI MapID="1041" xpos="572.726" ypos="136.136" zpos="160.309" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_signs.tw_hot_ds_noxiouspods_finish" GUID="Kx731HnK60CCTSgB+4jAsw=="/>
-		<POI MapID="1041" xpos="829.074" ypos="67.6347" zpos="282.017" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_jumpingmushroom" GUID="QVgDOaR670edUTclBpRJNA=="/>
-		<POI MapID="1041" xpos="906.866" ypos="22.9941" zpos="312.975" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_jumpingmushroom" GUID="dDNzefAV3E2ghTMTANcT8Q=="/>
-		<POI MapID="1041" xpos="886.349" ypos="10.8329" zpos="302.2" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_jumpingmushroom" GUID="J2Qj1vCvSESeGkq6G4zn7g=="/>
-		<POI MapID="1041" xpos="888.911" ypos="38.9675" zpos="302.247" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_jumpingmushroom" GUID="LYUI97/H1UWSRQYAIvUfpw=="/>
-		<POI MapID="1041" xpos="798.886" ypos="15.0854" zpos="230.145" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_jumpingmushroom" GUID="31awX9RfuUyHjMOBzKe4bg=="/>
-		<POI MapID="1041" xpos="801.129" ypos="34.3606" zpos="242.509" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_jumpingmushroom" GUID="ChjZK41a4kOcZq52PktodA=="/>
-		<POI MapID="1041" xpos="696.154" ypos="4.614" zpos="391.795" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_jumpingmushroom" GUID="OVLoO4NdTk6d6wIPX5Btnw=="/>
-		<POI MapID="1041" xpos="698.098" ypos="17.0194" zpos="378.978" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_jumpingmushroom" GUID="7W1yjqNqfEewIse8aLA/Ng=="/>
-		<POI MapID="1041" xpos="697.204" ypos="32.258" zpos="370.976" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_jumpingmushroom" GUID="ozQnd8RO9Ey//PjqTnJ8dA=="/>
-		<POI MapID="1041" xpos="444.025" ypos="1.35637" zpos="400.271" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_jumpingmushroom" GUID="+hHfI6IYgk2iLUaTNCGitQ=="/>
-		<POI MapID="1041" xpos="424.964" ypos="2.18208" zpos="444.733" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_jumpingmushroom" GUID="t9FEqvgVe06XidwlPmAFYQ=="/>
-		<POI MapID="1041" xpos="424.555" ypos="14.8242" zpos="456.061" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_jumpingmushroom" GUID="QTIdYZZD5kK1d42nrQsXeA=="/>
-		<POI MapID="1041" xpos="887.548" ypos="48.1317" zpos="128.449" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_jumpingmushroom" GUID="GIK2LibtWUCY+IuXqmlddw=="/>
-		<POI MapID="1041" xpos="840.543" ypos="61.0855" zpos="-91.6465" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_jumpingmushroom" GUID="3Ms4Fv0eoE+Ur//u1O7Iow=="/>
-		<POI MapID="1041" xpos="861.22" ypos="49.1743" zpos="-139.484" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_jumpingmushroom" GUID="/SECmf2ndUuKQdP/H7Z/fQ=="/>
-		<POI MapID="1041" xpos="626.628" ypos="47.4002" zpos="-24.2066" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_jumpingmushroom" GUID="Gbl8WPmDpUSaSKy9KqrSYg=="/>
-		<POI MapID="1041" xpos="542.681" ypos="84.2887" zpos="15.7664" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_jumpingmushroom" GUID="xatu2RJR+Uy36AOKbvQeCg=="/>
-		<POI MapID="1041" xpos="291.224" ypos="121.603" zpos="49.0813" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_jumpingmushroom" GUID="ZfMyiidyNESkd4qeRG0iBA=="/>
-		<POI MapID="1041" xpos="467.312" ypos="77.9145" zpos="31.6909" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_jumpingmushroom" GUID="wVGl76b/cUqpeWkpbZKEVQ=="/>
-		<POI MapID="1041" xpos="540.844" ypos="76.1535" zpos="-132.506" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_masterypoints.tw_hot_ds_masterypoint_leylineglider" GUID="tpSK+46y8Eysy7a+jggBeg=="/>
-		<POI MapID="1041" xpos="495.485" ypos="65.5572" zpos="-151.646" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_jumpingmushroom" GUID="LcgGhYFD4EiiTC6DTowx4g=="/>
-		<POI MapID="1041" xpos="412.967" ypos="83.9296" zpos="-95.0679" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_jumpingmushroom" GUID="Ch91oPJ6S0COF/rN2VReVQ=="/>
-		<POI MapID="1041" xpos="-105.509" ypos="45.1827" zpos="-326.373" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_jumpingmushroom" GUID="XO9O2ZzMKk2/dY0AIFyzHQ=="/>
-		<POI MapID="1041" xpos="-87.8578" ypos="70.9424" zpos="-338.435" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_jumpingmushroom" GUID="hGmhBn8Jq0CpDZvDYNtVpA=="/>
-		<POI MapID="1041" xpos="-241.065" ypos="70.16" zpos="-197.076" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_jumpingmushroom" GUID="+H4AgXQ8TEKUnqfbf5lAJQ=="/>
-		<POI MapID="1041" xpos="-219.262" ypos="102.04" zpos="-186.182" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_jumpingmushroom" GUID="hHFZA4ptuECscOddm7v+8w=="/>
-		<POI MapID="1041" xpos="-426.583" ypos="69.5446" zpos="-43.1267" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_jumpingmushroom" GUID="ciK/L43rvkuPNJXvwl3+Bg=="/>
-		<POI MapID="1041" xpos="-422.668" ypos="90.3223" zpos="-61.4096" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_jumpingmushroom" GUID="vOmsbUfo1E2bo1OXrQkamQ=="/>
-		<POI MapID="1041" xpos="-510.068" ypos="71.8148" zpos="-488.596" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_jumpingmushroom" GUID="4bM9At1Mc0WjaMRA6yFP0w=="/>
-		<POI MapID="1041" xpos="-582.426" ypos="81.8381" zpos="-444.736" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_jumpingmushroom" GUID="KpUh7oBWy064V77YdawHiA=="/>
-		<POI MapID="1041" xpos="609.05" ypos="65.4636" zpos="742.057" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_jumpingmushroom" GUID="u9ZRqSNnPECattELdu4Q4g=="/>
-		<POI MapID="1041" xpos="456.563" ypos="39.0884" zpos="654.235" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_jumpingmushroom" GUID="3O5mogHsYUebWOQdzoG3qA=="/>
-		<POI MapID="1041" xpos="436.224" ypos="63.4503" zpos="664.532" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_jumpingmushroom" GUID="K/il14txn0Wgcf33C3BmuA=="/>
-		<POI MapID="1041" xpos="484.869" ypos="57.1699" zpos="381.288" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_jumpingmushroom" GUID="PHHWAIqvNkmUFYMDSKypyg=="/>
-		<POI MapID="1041" xpos="376.517" ypos="43.658" zpos="370.031" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_jumpingmushroom" GUID="U39RKT0zMkqhZJA3gZaN5A=="/>
-		<POI MapID="1041" xpos="377.317" ypos="1.3229" zpos="435.503" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_jumpingmushroom" GUID="5J7zM83ux0upNzYc/02byg=="/>
-		<POI MapID="1041" xpos="370.21" ypos="13.2453" zpos="443.022" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_jumpingmushroom" GUID="4qfSyUuZb0mCBxyIHEQpxw=="/>
-		<POI MapID="1041" xpos="363.192" ypos="67.095" zpos="327.404" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_jumpingmushroom" GUID="r2XY2G+PYUCt8djydr8blg=="/>
-		<POI MapID="1041" xpos="338.812" ypos="85.0869" zpos="321.108" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_jumpingmushroom" GUID="nV9Vg3oWfUSmqm+skhPREA=="/>
-		<POI MapID="1041" xpos="311.809" ypos="110.865" zpos="338.854" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_jumpingmushroom" GUID="OAxeICI9WEy5QxTnCZdNdg=="/>
-		<POI MapID="1041" xpos="360.353" ypos="77.6558" zpos="281.14" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_jumpingmushroom" GUID="UOLr3/SwQEW8y1eSxWlFxg=="/>
-		<POI MapID="1041" xpos="232.485" ypos="145.341" zpos="244.753" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_jumpingmushroom" GUID="9aFJJhqpekiHEnwpR8FROw=="/>
-		<POI MapID="1041" xpos="259.907" ypos="134.195" zpos="260.028" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_jumpingmushroom" GUID="xiMri/ER/UudpTbOqbJUPQ=="/>
-		<POI MapID="1041" xpos="286.245" ypos="122.016" zpos="288.237" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_jumpingmushroom" GUID="muMANkHogUWOnPEeg0ws0g=="/>
-		<POI MapID="1041" xpos="254.125" ypos="32.6373" zpos="65.2027" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_jumpingmushroom" GUID="EnG+AH6En0qedy5T+Nab4Q=="/>
-		<POI MapID="1041" xpos="256.492" ypos="51.7336" zpos="20.6312" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_jumpingmushroom" GUID="lzpdjtqTAEGsTb7tWUmzvA=="/>
-		<POI MapID="1041" xpos="236.539" ypos="32.5283" zpos="111.66" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_signs.tw_hot_ds_noxiouspods_finish" GUID="F2yZacjljUqbzGAce0i6yg=="/>
-		<POI MapID="1041" xpos="118.341" ypos="105.581" zpos="256.235" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_jumpingmushroom" GUID="XPFjXi6EDkGfBbhaYuyHcA=="/>
-		<POI MapID="1041" xpos="117.477" ypos="115.156" zpos="241.55" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_jumpingmushroom" GUID="lx377/UKME6FzbFZxE4FWg=="/>
-		<POI MapID="1041" xpos="-214.207" ypos="55.0624" zpos="738.303" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="X6OH5usIi02sx0UMGCWdBw=="/>
-		<POI MapID="1041" xpos="-159.516" ypos="60.1948" zpos="715.64" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_jumpingmushroom" GUID="XpMmgN5iAEq7QB45sxeOAA=="/>
-		<POI MapID="1041" xpos="-6.27411" ypos="56.8299" zpos="718.073" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_jumpingmushroom" GUID="fzxi4O75U0G6tVQzJPg2RQ=="/>
-		<POI MapID="1041" xpos="1.18703" ypos="74.6169" zpos="709.702" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_jumpingmushroom" GUID="W9LBcpLQw0OFGMQgERQjDw=="/>
-		<POI MapID="1041" xpos="-69.8928" ypos="38.6852" zpos="424.473" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_jumpingmushroom" GUID="SY2JhGiqaUu4t6h+pD//6w=="/>
-		<POI MapID="1041" xpos="-333.677" ypos="76.8517" zpos="414.7" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_jumpingmushroom" GUID="q8bVaXvp/EiSJwNpkNN0jg=="/>
-		<POI MapID="1041" xpos="-60.1065" ypos="62.6741" zpos="434.376" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_jumpingmushroom" GUID="ODqmjgAFIUmZcTxyxNg9tA=="/>
-		<POI MapID="1041" xpos="650.43" ypos="46.5886" zpos="17.5008" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_signs.tw_hot_ds_noxiouspods_startsigns2" GUID="EjpwVS6baEWtrob+EVGTUQ=="/>
-		<POI MapID="1041" xpos="702.393" ypos="38.3015" zpos="40.0137" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_signs.tw_hot_ds_noxiouspods_finish" GUID="Fy+9Zr3y/EqDCJfoIA//4w=="/>
-		<Trail type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_toggletrails.tw_hot_ds_noxiouspods_north1_toggletrail" GUID="sqCnAclPPEK2Bmqleqx0AA==" fadeNear="2500" fadeFar="2600" trailData="Data/TekkitsWorkshop/HoT/tw_hot_ds_noxiouspods_north1.trl" animSpeed="0" texture="Data/TekkitsWorkshop/General/tw_trail_b.png"/>
-		<Trail type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_toggletrails.tw_hot_ds_noxiouspods_north2_toggletrail" GUID="5gLuuMTHlUCkRWl1jU8R4A==" fadeNear="2500" fadeFar="2600" trailData="Data/TekkitsWorkshop/HoT/tw_hot_ds_noxiouspods_north2.trl" animSpeed="0" texture="Data/TekkitsWorkshop/General/tw_trail_b.png"/>
-		<Trail type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_toggletrails.tw_hot_ds_noxiouspods_north3_toggletrail" GUID="a3QBLWsU9kCXJS+w+QxcYA==" fadeNear="2500" fadeFar="2600" trailData="Data/TekkitsWorkshop/HoT/tw_hot_ds_noxiouspods_north3.trl" animSpeed="0" texture="Data/TekkitsWorkshop/General/tw_trail_b.png"/>
-		<Trail type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_toggletrails.tw_hot_ds_noxiouspods_north4_toggletrail" GUID="ezy3wySs6UC0BwPLYhRXDw==" fadeNear="2500" fadeFar="2600" trailData="Data/TekkitsWorkshop/HoT/tw_hot_ds_noxiouspods_north4.trl" animSpeed="0" texture="Data/TekkitsWorkshop/General/tw_trail_b.png"/>
-		<Trail type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_toggletrails.tw_hot_ds_noxiouspods_central1_toggletrail" GUID="m04CMHRCnESC7LUuvOcHRA==" fadeNear="2500" fadeFar="2600" trailData="Data/TekkitsWorkshop/HoT/tw_hot_ds_noxiouspods_central1.trl" animSpeed="0" texture="Data/TekkitsWorkshop/General/tw_trail_b.png"/>
-		<Trail type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_toggletrails.tw_hot_ds_noxiouspods_central2_toggletrail" GUID="EX0CMFcS6kuCENnFVslGog==" fadeNear="2500" fadeFar="2600" trailData="Data/TekkitsWorkshop/HoT/tw_hot_ds_noxiouspods_central2.trl" animSpeed="0" texture="Data/TekkitsWorkshop/General/tw_trail_b.png"/>
-		<Trail type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_toggletrails.tw_hot_ds_noxiouspods_central3_toggletrail" GUID="06Bhu5zpJ0W0CdkhuETF1A==" fadeNear="2500" fadeFar="2600" trailData="Data/TekkitsWorkshop/HoT/tw_hot_ds_noxiouspods_central3.trl" animSpeed="0" texture="Data/TekkitsWorkshop/General/tw_trail_b.png"/>
-		<Trail type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_toggletrails.tw_hot_ds_noxiouspods_south1_toggletrail" GUID="tnGXkESCak+puDOgi8VpfQ==" fadeNear="2500" fadeFar="2600" trailData="Data/TekkitsWorkshop/HoT/tw_hot_ds_noxiouspods_south1.trl" animSpeed="0" texture="Data/TekkitsWorkshop/General/tw_trail_b.png"/>
-		<Trail type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_toggletrails.tw_hot_ds_noxiouspods_south2_toggletrail" GUID="7RhfmnRu8UWjhitGq6fb+A==" fadeNear="2500" fadeFar="2600" trailData="Data/TekkitsWorkshop/HoT/tw_hot_ds_noxiouspods_south2.trl" animSpeed="0" texture="Data/TekkitsWorkshop/General/tw_trail_b.png"/>
-		<Trail type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_toggletrails.tw_hot_ds_noxiouspods_south3_toggletrail" GUID="RFvZswkP2kGkjwrNxNHgfA==" fadeNear="2500" fadeFar="2600" trailData="Data/TekkitsWorkshop/HoT/tw_hot_ds_noxiouspods_south3.trl" animSpeed="0" texture="Data/TekkitsWorkshop/General/tw_trail_b.png"/>
+		<POI MapID="1041" xpos="225.813" ypos="83.7626" zpos="661.129" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="2scHYZ8ct0GPeqXdRUffgA==" />
+		<POI MapID="1041" xpos="156.26" ypos="70.2402" zpos="696.083" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="xav2b93BSkSF7ZI3r/I+Sg==" />
+		<POI MapID="1041" xpos="145.615" ypos="47.1249" zpos="599.289" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="7YIeK9v3vUSVxP/nmBWwYg==" />
+		<POI MapID="1041" xpos="161.24" ypos="48.0667" zpos="581.937" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="UpF6cUd/uk6B3QidNJnTpQ==" />
+		<POI MapID="1041" xpos="152.34" ypos="46.6359" zpos="549.249" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="po6eNYRgE0+V6Jx+KlE47Q==" />
+		<POI MapID="1041" xpos="152.52" ypos="45.5697" zpos="534.703" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="5Ym0IvA8DkyCgGXvaY4BBg==" />
+		<POI MapID="1041" xpos="158.203" ypos="44.2908" zpos="474.944" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="W4nVT918c0KUXRx62RCijA==" />
+		<POI MapID="1041" xpos="137.008" ypos="48.9366" zpos="583.217" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="8k3W2YlWzESnRN0HSOm2TA==" />
+		<POI MapID="1041" xpos="142.994" ypos="42.7495" zpos="542.767" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="9NhQbkJ1I0WeAqgXBs7kkQ==" />
+		<POI MapID="1041" xpos="479.126" ypos="43.1817" zpos="545.633" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="Pxweho9mFUqbhCdwjZO/6w==" />
+		<POI MapID="1041" xpos="376.953" ypos="26.6084" zpos="425.149" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="E53lLLjyq0uuZWGgDfbldg==" />
+		<POI MapID="1041" xpos="491.139" ypos="61.5672" zpos="352.224" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="XYwUkizwj0ygtmif5+6Rmg==" />
+		<POI MapID="1041" xpos="483.235" ypos="68.0413" zpos="326.723" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="AkMooN1U8E+SQyWsoI54dg==" />
+		<POI MapID="1041" xpos="485.206" ypos="73.0076" zpos="298.553" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="EWyQwQGA/U2gQT8zm7FwOA==" />
+		<POI MapID="1041" xpos="465.831" ypos="79.8085" zpos="266.37" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="n20uEQMfhUimwSJRGw0kmg==" />
+		<POI MapID="1041" xpos="448.228" ypos="80.448" zpos="266.667" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="PyChWEW2nEyxwJhv3TsKAw==" />
+		<POI MapID="1041" xpos="440.748" ypos="86.9954" zpos="247.42" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="0a1zFaN0rkC6peaTo0BUcQ==" />
+		<POI MapID="1041" xpos="840.341" ypos="65.0254" zpos="262.117" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="hX4qs/pvA0mNxnM3anDr9A==" />
+		<POI MapID="1041" xpos="850.428" ypos="64.8649" zpos="242.239" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="+XZSW0Dc4km1cSmpmsuPVg==" />
+		<POI MapID="1041" xpos="844.849" ypos="71.0472" zpos="155.03" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="gsLTfJnCg0eK+cjEBMl4Gg==" />
+		<POI MapID="1041" xpos="814.372" ypos="71.6044" zpos="163.07" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="3tusoQkdnUiKLxA9z9nTtw==" />
+		<POI MapID="1041" xpos="802.595" ypos="73.8538" zpos="169.004" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="LYsrmoDx40G7XNwUkj/S6A==" />
+		<POI MapID="1041" xpos="794.748" ypos="72.6901" zpos="186.089" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="UckLdPw9PEKYQluSj91Iew==" />
+		<POI MapID="1041" xpos="173.471" ypos="123.548" zpos="36.9764" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="2JG+R74dFEidf1cwxIaeJA==" />
+		<POI MapID="1041" xpos="534.946" ypos="54.5473" zpos="-82.151" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="zEE4NaU/vkSoObiBm9DPxg==" />
+		<POI MapID="1041" xpos="463.123" ypos="89.7678" zpos="-311.121" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="jPco+u0ZCEuMM02pNuojUg==" />
+		<POI MapID="1041" xpos="113.036" ypos="96.8812" zpos="-187.38" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="1AzBo+33l0a+HI0nqb00Bw==" />
+		<POI MapID="1041" xpos="13.2935" ypos="70.718" zpos="382.603" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="aXuQzyP8dUesgSnwV+pz8w==" />
+		<POI MapID="1041" xpos="4.57477" ypos="72.0281" zpos="386.014" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="1y9ry6q+vkyTLn6o1j27lQ==" />
+		<POI MapID="1041" xpos="-22.0404" ypos="76.5651" zpos="372.072" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="fTUgx5mPDk+K/Uct3s2+bw==" />
+		<POI MapID="1041" xpos="-15.1283" ypos="68.4142" zpos="348.852" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="gCoGDXXL2Uu6lYVMB/Zl8A==" />
+		<POI MapID="1041" xpos="-24.5191" ypos="68.7449" zpos="343.248" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="G1jbt4Jr+E+ZzRV62EBmpw==" />
+		<POI MapID="1041" xpos="-13.4676" ypos="67.6475" zpos="337.365" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="2R+uJfVbWkO6MjYYF1XbaA==" />
+		<POI MapID="1041" xpos="-193.657" ypos="97.8208" zpos="129.53" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="rBBHBFdOlUWqlBH4TSbG0w==" />
+		<POI MapID="1041" xpos="-197.121" ypos="100.614" zpos="99.8316" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="qR/pb1gm/UyfMjbQyamj0Q==" />
+		<POI MapID="1041" xpos="-145.05" ypos="111.435" zpos="145.535" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="RnvV2sOD6ku3StpwGCutcQ==" />
+		<POI MapID="1041" xpos="-142.384" ypos="107.568" zpos="68.9778" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="BSe7QfsZhEOh8YDEpeSdNw==" />
+		<POI MapID="1041" xpos="-163.441" ypos="103.783" zpos="59.473" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="/A3d1PPYRUS8ovMNY+k5rA==" />
+		<POI MapID="1041" xpos="-187.878" ypos="120.391" zpos="8.88509" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="lK7p7NYhNECdu7wHS8ncqw==" />
+		<POI MapID="1041" xpos="-257.246" ypos="119.678" zpos="-29.8016" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="PeWhg5TOAUeOQbr06Rae1g==" />
+		<POI MapID="1041" xpos="-65.8949" ypos="123.362" zpos="82.5576" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="FryRRHGzh0+g2SrwMO/jEw==" />
+		<POI MapID="1041" xpos="-16.8057" ypos="114.744" zpos="91.5823" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="m73BURyPvEqwg5GlvUYdOw==" />
+		<POI MapID="1041" xpos="-9.94405" ypos="120.019" zpos="32.0099" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="/C3knSs/bkGlknmlBrnIsg==" />
+		<POI MapID="1041" xpos="312.898" ypos="106.335" zpos="69.5156" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="/rJPyZ43VU24TWfKNkdCnQ==" />
+		<POI MapID="1041" xpos="287.141" ypos="103.177" zpos="89.6876" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="PW9u+UIjQ0ydrpJEtdNFcg==" />
+		<POI MapID="1041" xpos="247.094" ypos="107.401" zpos="105.482" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="w0Jjz5YdL0uRIbMuSkofJw==" />
+		<POI MapID="1041" xpos="240.773" ypos="111.534" zpos="145.965" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="42u5e7lES0OEh8YeK7Zq7A==" />
+		<POI MapID="1041" xpos="293.496" ypos="119.189" zpos="160.449" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="tDuYO66180SMHkIzFTPjeA==" />
+		<POI MapID="1041" xpos="309.849" ypos="106.382" zpos="150.482" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="6G7OyYlpwEyfdpir7BrrHg==" />
+		<POI MapID="1041" xpos="277.166" ypos="36.7254" zpos="44.8208" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="2UdfJIB9fkmF9eb/Q1oYeQ==" />
+		<POI MapID="1041" xpos="279.968" ypos="34.8657" zpos="58.1118" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="41SZWoYv0U21xQXW/VJkhg==" />
+		<POI MapID="1041" xpos="249.085" ypos="51.106" zpos="22.2076" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="+JaJkqHPukiZNyupX1xzpg==" />
+		<POI MapID="1041" xpos="232.992" ypos="56.4504" zpos="26.2973" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="CyF2fTosF0iNr9O1cc58mg==" />
+		<POI MapID="1041" xpos="229.054" ypos="34.1551" zpos="105.227" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="2nP2Su6LdEOXPUEpu0Hguw==" />
+		<POI MapID="1041" xpos="236.107" ypos="32.4163" zpos="111.482" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="T9XApIbKA0eYQkvm0+DyiA==" />
+		<POI MapID="1041" xpos="718.132" ypos="42.4585" zpos="-10.1346" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="7TWMOW++tUuLsNCgK1GxfQ==" />
+		<POI MapID="1041" xpos="715.169" ypos="45.0199" zpos="-21.3214" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="kVSy6gW4hUeB6/6AoXnz7A==" />
+		<POI MapID="1041" xpos="685.537" ypos="45.2114" zpos="-38.2832" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="yHTXvw3g10Gok3/s2GhsnA==" />
+		<POI MapID="1041" xpos="661.713" ypos="43.4502" zpos="-43.5414" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="KEYIuzJ10UKXzAlMTcQWwQ==" />
+		<POI MapID="1041" xpos="648.282" ypos="43.6693" zpos="-52.0739" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="Itc5aS0y50mMnYJN8FWraA==" />
+		<POI MapID="1041" xpos="639.149" ypos="45.344" zpos="-61.2407" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="xTVnW2Ew0ESy4Vk0W/DnMw==" />
+		<POI MapID="1041" xpos="818.684" ypos="64.3391" zpos="33.5227" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="Op2QLWJVJ02516jEkxPe+A==" />
+		<POI MapID="1041" xpos="856.317" ypos="65.0525" zpos="91.1823" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="TzOXy8F5MEmAt7TsFCgMTw==" />
+		<POI MapID="1041" xpos="-253.31" ypos="18.415" zpos="463.008" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="eJpisLkdz0i/PoR4hY+M6Q==" />
+		<POI MapID="1041" xpos="-364.019" ypos="16.8026" zpos="397.051" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="FCv83+AB3kmbRCl1AyOl7Q==" />
+		<POI MapID="1041" xpos="-274.202" ypos="114.215" zpos="445.044" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="chbuifPe+0y+3FrJESfriQ==" />
+		<POI MapID="1041" xpos="-232.096" ypos="115.333" zpos="482.48" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="YYVjAsJWTUec8rGthMSW3g==" />
+		<POI MapID="1041" xpos="-220.989" ypos="121.144" zpos="520.159" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="tzVJQ5/FNUerdpDqzaoweA==" />
+		<POI MapID="1041" xpos="-231.251" ypos="121.416" zpos="530.41" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="xNPEpCUTk0eh52xm367bbg==" />
+		<POI MapID="1041" xpos="-232.878" ypos="122.607" zpos="562.111" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="EIPXDjuX/ESMAGlH2X06Lw==" />
+		<POI MapID="1041" xpos="-207.625" ypos="121.936" zpos="556.778" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="ldp08RQFvk29SQLaGqnjgQ==" />
+		<POI MapID="1041" xpos="-132.541" ypos="121.089" zpos="596.333" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="fbGa1H8+OUyq2XL5j7HRkQ==" />
+		<POI MapID="1041" xpos="-164.378" ypos="111.078" zpos="503.204" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="cbw93oPrSkeP0PK0FFZIcQ==" />
+		<POI MapID="1041" xpos="-157.094" ypos="108.546" zpos="484.884" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="3X2BG5PKOUeBkbHCLuduvA==" />
+		<POI MapID="1041" xpos="-147.548" ypos="111.905" zpos="446.76" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="njBwNf51zUGEeb1Ubsn4Rw==" />
+		<POI MapID="1041" xpos="783.976" ypos="74.0689" zpos="295.299" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_speedmushroom" GUID="0S03HBHnxEGuELOdenEDww==" />
+		<POI MapID="1041" xpos="419.089" ypos="106.627" zpos="758.282" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_speedmushroom" GUID="fYe/1x3ZPEeNfN+uGNCY8A==" />
+		<POI MapID="1041" xpos="311.188" ypos="96.8771" zpos="665.852" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_speedmushroom" GUID="dBsiosj0z0yb1PU62YgIvA==" />
+		<POI MapID="1041" xpos="359.052" ypos="81.7261" zpos="588.504" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_speedmushroom" GUID="/8Q17sjMhkyfH9he4QM46A==" />
+		<POI MapID="1041" xpos="211.85" ypos="73.1788" zpos="648.349" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_speedmushroom" GUID="AkREN+duC0idBgG9uLaNbw==" />
+		<POI MapID="1041" xpos="171.678" ypos="49.5769" zpos="544.178" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="yyK/T6axPEu2oHmAIdj9dA==" />
+		<POI MapID="1041" xpos="57.1836" ypos="60.605" zpos="545.669" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_adrenalmushroom" GUID="P7mdN9v3H0aZgjIZneoOVw==" />
+		<POI MapID="1041" xpos="91.9686" ypos="53.6933" zpos="706.879" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_speedmushroom" GUID="KIYb1J3YC0yA+BiqVZF98A==" />
+		<POI MapID="1041" xpos="163.138" ypos="46.991" zpos="590.755" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="9xAzoktXSkmEU8RY5G6LbA==" />
+		<POI MapID="1041" xpos="133.687" ypos="45.5408" zpos="556.029" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="X6Zool4vckKPbL/aVMdcfQ==" />
+		<POI MapID="1041" xpos="151.618" ypos="46.3908" zpos="557.575" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="EdEIhK7/9k2LRiIL7RpmSA==" />
+		<POI MapID="1041" xpos="503.165" ypos="47.721" zpos="637.86" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_speedmushroom" GUID="jhFYdW7mGUGktXBpkAN2TQ==" />
+		<POI MapID="1041" xpos="491.305" ypos="44.1273" zpos="548.537" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_speedmushroom" GUID="CwY1EGXR00KT1wACh3+/KA==" />
+		<POI MapID="1041" xpos="383.108" ypos="30.7398" zpos="509.685" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_speedmushroom" GUID="fOnsL9tvykmqqcb1Rn+qmw==" />
+		<POI MapID="1041" xpos="349.1" ypos="33.4545" zpos="447.455" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="NOUO6o9S1UWSMQ0VUjOYpw==" />
+		<POI MapID="1041" xpos="341.182" ypos="34.0899" zpos="430.54" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_speedmushroom" GUID="TmuYwE+uiESoiDubvZzPzg==" />
+		<POI MapID="1041" xpos="391.138" ypos="74.5439" zpos="282.247" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="k0AscDMrUUaqOjfaAUe9Lg==" />
+		<POI MapID="1041" xpos="462.257" ypos="68.425" zpos="307.223" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="JInzr30MY0mNhkPM1eCzsQ==" />
+		<POI MapID="1041" xpos="828.882" ypos="32.7075" zpos="446.47" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_speedmushroom" GUID="SmapymC3NEyOl7I3+Z2cbw==" />
+		<POI MapID="1041" xpos="777.017" ypos="71.4516" zpos="252.109" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="cvpzgy9fjUemKiSZCZCxrQ==" />
+		<POI MapID="1041" xpos="784.388" ypos="75.4931" zpos="200.277" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="byR5QfkTHEKSxzdeMyAbgw==" />
+		<POI MapID="1041" xpos="101.199" ypos="65.8949" zpos="478.47" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_speedmushroom" GUID="9kHmbJGoTUW30Ovdt2rmYQ==" />
+		<POI MapID="1041" xpos="81.735" ypos="63.37" zpos="385.074" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="paHj19nd60q0U9ADwrBi7w==" />
+		<POI MapID="1041" xpos="81.1976" ypos="63.8753" zpos="387.82" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_speedmushroom" GUID="QH78lpD/aEm1x5AH46jV6g==" />
+		<POI MapID="1041" xpos="23.0411" ypos="69.391" zpos="382.614" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="w1OPbAaqf0+UMWD1btwWsA==" />
+		<POI MapID="1041" xpos="-13.3865" ypos="46.1258" zpos="380.359" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="AwQkUuTwwUeys03n7/QQBg==" />
+		<POI MapID="1041" xpos="-25.2004" ypos="65.4997" zpos="293.744" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_speedmushroom" GUID="iSh7+pY8SU2+keDWTEBoyQ==" />
+		<POI MapID="1041" xpos="-81.1016" ypos="73.9492" zpos="324.45" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_adrenalmushroom" GUID="6pTsWQIw7Eu1tSgQ+40xOQ==" />
+		<POI MapID="1041" xpos="-105.382" ypos="66.2076" zpos="303.578" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_speedmushroom" GUID="mFia+ammVkuhkl/064Ripw==" />
+		<POI MapID="1041" xpos="-12.8807" ypos="83.1624" zpos="218.251" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_speedmushroom" GUID="oyzbiMx3tUmVCuVexV542w==" />
+		<POI MapID="1041" xpos="-18.0759" ypos="45.6363" zpos="418.739" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_speedmushroom" GUID="+h0A1vTEPE61j/Gd4xAfFA==" />
+		<POI MapID="1041" xpos="-76.4019" ypos="32.0485" zpos="454.887" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_speedmushroom" GUID="JRsygXmMQECeRwwb5ICpcA==" />
+		<POI MapID="1041" xpos="-13.0811" ypos="73.5727" zpos="380.306" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="HivqeRxhuE29c9p+jnaMpw==" />
+		<POI MapID="1041" xpos="-19.6191" ypos="72.1593" zpos="365.31" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="ym4RU64VckiHtw16FlL0bw==" />
+		<POI MapID="1041" xpos="-16.7106" ypos="70.3186" zpos="357.221" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="1/tTxRqUmE+dVmb2pBCzPA==" />
+		<POI MapID="1041" xpos="396.246" ypos="97.634" zpos="229.398" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_adrenalmushroom" GUID="2YW1u5G+4EC//gmOP/noiw==" />
+		<POI MapID="1041" xpos="264.862" ypos="111.47" zpos="151.89" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="vua94G19h0GklkSgQTvRvQ==" />
+		<POI MapID="1041" xpos="279.937" ypos="114.727" zpos="159.006" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="K5eEBnTUCk2Hjom5k8IdXw==" />
+		<POI MapID="1041" xpos="250.601" ypos="151.131" zpos="209.771" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_speedmushroom" GUID="QjyWwi1McUKGusV0URUY9Q==" />
+		<POI MapID="1041" xpos="229.061" ypos="118.115" zpos="100.313" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_adrenalmushroom" GUID="wB0XPTWTp0KYCw7tUI+btA==" />
+		<POI MapID="1041" xpos="188.156" ypos="118.946" zpos="71.6947" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_speedmushroom" GUID="SEpKDyBWkkuNOZOEtFeVYg==" />
+		<POI MapID="1041" xpos="857.906" ypos="68.1502" zpos="120.89" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_adrenalmushroom" GUID="qKHDBny8bESDwuXDOq00KA==" />
+		<POI MapID="1041" xpos="850.748" ypos="68.1516" zpos="105.713" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_speedmushroom" GUID="QMotprIZL0qp1zc6P4VA5w==" />
+		<POI MapID="1041" xpos="740.28" ypos="53.7859" zpos="58.2356" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_speedmushroom" GUID="4lEb7zDntUKm5SJcKxn8iQ==" />
+		<POI MapID="1041" xpos="704.131" ypos="44.8279" zpos="-26.0317" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="4dF8eMu9SEyc06EYKY22Yw==" />
+		<POI MapID="1041" xpos="692.809" ypos="45.3054" zpos="-34.0706" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="L6bxklxPV0SeLMS09NNgig==" />
+		<POI MapID="1041" xpos="621.328" ypos="44.6137" zpos="-33.3965" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="s8Ops4dmNka+bfeWyc/gaA==" />
+		<POI MapID="1041" xpos="588.74" ypos="49.2772" zpos="-51.6059" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_adrenalmushroom" GUID="coXWEWGuXEO3FbzAnR6Tww==" />
+		<POI MapID="1041" xpos="597.079" ypos="49.328" zpos="-103.41" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_speedmushroom" GUID="9W2hE5BE5kmMNNIVlGFO8A==" />
+		<POI MapID="1041" xpos="449.16" ypos="80.9633" zpos="-191.264" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_speedmushroom" GUID="syt3VHf0s0q0SJY9iExuXA==" />
+		<POI MapID="1041" xpos="300.536" ypos="95.7756" zpos="-342.835" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_adrenalmushroom" GUID="/6VAJmwG8UG2oEoLiqbedQ==" />
+		<POI MapID="1041" xpos="93.9456" ypos="96.4556" zpos="-164.147" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_adrenalmushroom" GUID="2tanrxYsg0uKAbbTzIJoCw==" />
+		<POI MapID="1041" xpos="-358.671" ypos="82.4277" zpos="191.224" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_adrenalmushroom" GUID="A8F7keSHBUuklqPD5RDs5w==" />
+		<POI MapID="1041" xpos="-52.834" ypos="76.6059" zpos="226.4" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="SWBq21FliUKCjLxqQJeI7A==" />
+		<POI MapID="1041" xpos="-128.091" ypos="92.4951" zpos="184.385" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_speedmushroom" GUID="ZJHOtxaqu0Wd2OY6rrReEw==" />
+		<POI MapID="1041" xpos="-63.963" ypos="117.069" zpos="26.4592" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="C1GV1uhO0ECw11NHvjnyiA==" />
+		<POI MapID="1041" xpos="-24.4365" ypos="117.322" zpos="48.4971" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="5FPn78fnZkeEwS1+1EW0dg==" />
+		<POI MapID="1041" xpos="-56.3671" ypos="125.244" zpos="-22.7498" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="SoBFQ79qLUiBr+brHdonDQ==" />
+		<POI MapID="1041" xpos="5.00982" ypos="123.779" zpos="-11.5584" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="HxCVVmCTw0WEgDecRxq8iQ==" />
+		<POI MapID="1041" xpos="266.634" ypos="35.3086" zpos="44.0921" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="jMAuLGCyV0O6ioLtUDZilg==" />
+		<POI MapID="1041" xpos="247.175" ypos="43.2678" zpos="65.6713" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="z8sRm7qF60yJEMGOR6TwIQ==" />
+		<POI MapID="1041" xpos="-317.567" ypos="17.2535" zpos="418.742" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_speedmushroom" GUID="jG5jfTuX20GpWqOpdp74CQ==" />
+		<POI MapID="1041" xpos="-210.117" ypos="112.248" zpos="436.154" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="aqiBCFr5y0qQ2MWtGEEYEg==" />
+		<POI MapID="1041" xpos="-190.648" ypos="110.233" zpos="471.204" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="dDjqVWd090CdpM0hKBtcjA==" />
+		<POI MapID="1041" xpos="-174.825" ypos="119.778" zpos="620.893" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="5G7vb6cL2EOMC3VAlyUJEQ==" />
+		<POI MapID="1041" xpos="-144.216" ypos="123.726" zpos="609.502" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="ZMuuGHqYzECSqKuxPBPx0w==" />
+		<POI MapID="1041" xpos="-128.441" ypos="114.66" zpos="520.849" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="USbZsSIox0OR9Lpq3qcqWw==" />
+		<POI MapID="1041" xpos="293.238" ypos="113.872" zpos="610.337" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="VXcTnD9WeU2JTZZBbNTFfw==" />
+		<POI MapID="1041" xpos="53.9124" ypos="88.3909" zpos="566.644" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="9wd03ygP/ESjODouvy1btw==" />
+		<POI MapID="1041" xpos="138.809" ypos="49.9702" zpos="590.154" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="zXFuN2sjdUaaMexb6q32IQ==" />
+		<POI MapID="1041" xpos="682.453" ypos="66.7986" zpos="646.043" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_speedmushroom" GUID="s85dme8W40iW3Rmq0ZNc3w==" />
+		<POI MapID="1041" xpos="454.767" ypos="1.40879" zpos="486.636" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_speedmushroom" GUID="SGED/eLVdE++tHfTyFljYA==" />
+		<POI MapID="1041" xpos="536.042" ypos="0.519934" zpos="414.301" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_speedmushroom" GUID="y57uxGzTL0Wy8mcCl7OGFg==" />
+		<POI MapID="1041" xpos="479.861" ypos="1.1906" zpos="391.155" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_speedmushroom" GUID="idJs1LAxiUiJcLXVJQsfXA==" />
+		<POI MapID="1041" xpos="258.347" ypos="132.309" zpos="297.565" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="3rnuwG8MHkeYAgrwJ+yp3A==" />
+		<POI MapID="1041" xpos="259.455" ypos="130.65" zpos="281.057" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_speedmushroom" GUID="V6tG/yUWb0y3WyaEJo1KEg==" />
+		<POI MapID="1041" xpos="339.373" ypos="102.825" zpos="351.816" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="eEhgmGax2U+5SAoz6loOig==" />
+		<POI MapID="1041" xpos="471.533" ypos="75.1456" zpos="285.373" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="QP7dbOuND0CbsOmrSE3CFQ==" />
+		<POI MapID="1041" xpos="440.738" ypos="84.0721" zpos="254.15" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_speedmushroom" GUID="O+t6XLaTP0SieU9pCyhpxg==" />
+		<POI MapID="1041" xpos="382.086" ypos="123.528" zpos="160.654" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="fPxEKWFiikq5ia9xvwB5qQ==" />
+		<POI MapID="1041" xpos="344.59" ypos="122.925" zpos="165.894" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="E0vZxzFfOEuYN76TnRZbYg==" />
+		<POI MapID="1041" xpos="295.531" ypos="102.972" zpos="74.6023" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="iwJ/7tX5LUSQcFm+JwVz1Q==" />
+		<POI MapID="1041" xpos="245.69" ypos="122.488" zpos="82.0837" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="sjdzQdBzikubpB1a1rbOEg==" />
+		<POI MapID="1041" xpos="378.62" ypos="144.777" zpos="110.678" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="+dUL9EIOUEWqcWQPy7a2sQ==" />
+		<POI MapID="1041" xpos="458.562" ypos="125.34" zpos="87.1591" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_speedmushroom" GUID="FDMkkfZoHUKcexxYjnjwrw==" />
+		<POI MapID="1041" xpos="459.541" ypos="109.459" zpos="-10.6077" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="OZbVMjt4SUu3FD8u2k94XQ==" />
+		<POI MapID="1041" xpos="654.478" ypos="21.9207" zpos="-158.557" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_speedmushroom" GUID="7H3F99145Uyxs2QbdIteRA==" />
+		<POI MapID="1041" xpos="613.62" ypos="45.6676" zpos="-43.5483" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="xRkgRHXklEWeX/sUJz51yg==" />
+		<POI MapID="1041" xpos="675.861" ypos="45.1033" zpos="-41.8281" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="fiJHskfLkk+FjXmRJ2vLsw==" />
+		<POI MapID="1041" xpos="653.728" ypos="44.9415" zpos="13.4893" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="6vXDr8IagEK+lXBQLLzOLA==" />
+		<POI MapID="1041" xpos="723.576" ypos="34.796" zpos="105.836" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="tjUcGVlyxEqCXm0Q7et1ng==" />
+		<POI MapID="1041" xpos="907.953" ypos="7.34593" zpos="388.22" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="byGPb+40rUmX94p+B7ZwkA==" />
+		<POI MapID="1041" xpos="356.426" ypos="95.5321" zpos="645.639" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="ajJ2k4aa4EyCrWI9B+Us4Q==" />
+		<POI MapID="1041" xpos="256.284" ypos="45.5053" zpos="453.051" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_speedmushroom" GUID="dez92tdmlkiAuKIQVnV9ng==" />
+		<POI MapID="1041" xpos="282.13" ypos="44.2129" zpos="401.921" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_speedmushroom" GUID="hZAYeSjEqUiDn1ud7F/6jQ==" />
+		<POI MapID="1041" xpos="36.636" ypos="57.8316" zpos="704.435" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="oojaLU6YzU6tdXW+pWfB1A==" />
+		<POI MapID="1041" xpos="130.174" ypos="45.1043" zpos="542.261" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="pe0kvhkQiEiGgFXkSKKu9g==" />
+		<POI MapID="1041" xpos="154.546" ypos="47.1363" zpos="573.089" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="gWz8cHOSekm/v/fgxKJuCQ==" />
+		<POI MapID="1041" xpos="502.171" ypos="65.1043" zpos="513.133" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_speedmushroom" GUID="NWuF2OFr8UKz3vjrCCPOHg==" />
+		<POI MapID="1041" xpos="503.923" ypos="68.9934" zpos="436.226" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="Lq8A5Nt/NUiHzmlcmuj6vg==" />
+		<POI MapID="1041" xpos="533.003" ypos="86.0981" zpos="395.397" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_speedmushroom" GUID="wojYdrk/30iT2ZQrYIRL9g==" />
+		<POI MapID="1041" xpos="489.263" ypos="86.3652" zpos="367.648" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="TTeqiUW5xkuDJkzU9Mwbgw==" />
+		<POI MapID="1041" xpos="499.622" ypos="100.956" zpos="276.794" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="dn0tN4SYYkCcTZVDBJzR/Q==" />
+		<POI MapID="1041" xpos="341.091" ypos="120.134" zpos="261.329" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="0MvcZNGgQU+T26vVGxZD9A==" />
+		<POI MapID="1041" xpos="162.373" ypos="134.315" zpos="258.868" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_speedmushroom" GUID="fsYEYjfRxk2X/4cX18Qjeg==" />
+		<POI MapID="1041" xpos="93.7084" ypos="138.026" zpos="204.204" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_speedmushroom" GUID="bG9fKhsUOUSwKSG7sPCP/A==" />
+		<POI MapID="1041" xpos="99.35" ypos="95.6057" zpos="295.877" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_speedmushroom" GUID="YV6Ii8/j0USo/QrTXgfC7w==" />
+		<POI MapID="1041" xpos="173.544" ypos="98.377" zpos="197.866" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_speedmushroom" GUID="x6hDcgsoKE2aoQB8vDinMw==" />
+		<POI MapID="1041" xpos="106.18" ypos="102.882" zpos="81.834" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_speedmushroom" GUID="oGI1icLKC0KhbGROAqtbzg==" />
+		<POI MapID="1041" xpos="851.773" ypos="65.794" zpos="250.547" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="q9xWSZuIlkOCleWfkD1wjg==" />
+		<POI MapID="1041" xpos="853.11" ypos="77.9086" zpos="301.482" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_speedmushroom" GUID="Owr8oJDyy0SvCVhY+F+UXg==" />
+		<POI MapID="1041" xpos="670.45" ypos="4.5976" zpos="394.802" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="ZdiailM/x0KY2a5ZS2x5iw==" />
+		<POI MapID="1041" xpos="694.909" ypos="4.0435" zpos="363.705" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_speedmushroom" GUID="sPXSfEtVfUCjOzVj1URHDg==" />
+		<POI MapID="1041" xpos="648.338" ypos="10.8071" zpos="429.554" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_speedmushroom" GUID="QhzuOjUK1ESE1akLIMR9Yg==" />
+		<POI MapID="1041" xpos="574.508" ypos="11.8686" zpos="455.617" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_speedmushroom" GUID="VJWFcmO620OD49pllZ1Mdg==" />
+		<POI MapID="1041" xpos="800.935" ypos="70.561" zpos="190.267" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="vLAXlwwEHkCfJA6z95eJVA==" />
+		<POI MapID="1041" xpos="819.985" ypos="71.0523" zpos="156.285" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="A3FwEOUNvUqQyc06+HcDuA==" />
+		<POI MapID="1041" xpos="846.677" ypos="71.0646" zpos="166.097" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="zz/9mQrpWkK3ak+Hogep0w==" />
+		<POI MapID="1041" xpos="707" ypos="12.2528" zpos="242.079" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="iy4UmakOSUq7GQilErHKww==" />
+		<POI MapID="1041" xpos="793.174" ypos="18.9195" zpos="361.7" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_speedmushroom" GUID="awiMiQS19USbdxee/zT3OA==" />
+		<POI MapID="1041" xpos="446.46" ypos="68.5287" zpos="19.0483" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="XOQXKHktGEqM7BTd8UmRFQ==" />
+		<POI MapID="1041" xpos="570.542" ypos="73.669" zpos="-15.1573" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_speedmushroom" GUID="iR+pUHo3ZUW7bUXZHgjPCw==" />
+		<POI MapID="1041" xpos="632.749" ypos="26.439" zpos="-204.109" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="QOe1B6r+9UaYD/EG+HjOBw==" />
+		<POI MapID="1041" xpos="748.999" ypos="46.9797" zpos="748.929" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_speedmushroom" GUID="NIHdgxTfpk6Kg4pe/LyJeg==" />
+		<POI MapID="1041" xpos="818.564" ypos="16.5801" zpos="355.91" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="AaxnDQ64b0ynRP3ZkV3h2g==" />
+		<POI MapID="1041" xpos="372.838" ypos="74.5987" zpos="287.438" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="uE1GPk8HmU+0mxp4Mzjd5g==" />
+		<POI MapID="1041" xpos="497.142" ypos="50.0786" zpos="630.382" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="mjlc4IfojEi+LoZ81UBgHA==" />
+		<POI MapID="1041" xpos="480.855" ypos="63.4795" zpos="338.181" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="qOcWucTVIkOJaNVsNXAmKQ==" />
+		<POI MapID="1041" xpos="513.741" ypos="1.54004" zpos="470.856" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="yIh7bumGa0CqZqkrwAIS9A==" />
+		<POI MapID="1041" xpos="922.397" ypos="28.5569" zpos="291.29" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="b0i9LAXSN02EYC2scKCoSQ==" />
+		<POI MapID="1041" xpos="-278.02" ypos="98.7785" zpos="286.317" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_speedmushroom" GUID="FRiAEOXgtECC0ve9ixN0Yw==" />
+		<POI MapID="1041" xpos="281.279" ypos="103.179" zpos="70.9653" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="54N4g+SIKUSndqhzNhw4sg==" />
+		<POI MapID="1041" xpos="235.592" ypos="112.075" zpos="118.556" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="cfLGLLz7OUWucut4DX7ayg==" />
+		<POI MapID="1041" xpos="238.913" ypos="149.131" zpos="218.127" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="dkqkpGaLJEWKwPZHD6/Brg==" />
+		<POI MapID="1041" xpos="549.611" ypos="75.7015" zpos="-123.31" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="ZuC6xuH4TEaPUK4Gb53MQg==" />
+		<POI MapID="1041" xpos="375.823" ypos="95.092" zpos="-114.904" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_speedmushroom" GUID="a8myN+NHKEefthfvUEVcpg==" />
+		<POI MapID="1041" xpos="231.256" ypos="114.637" zpos="-131.09" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_speedmushroom" GUID="1khlLGDN9UmfTrHPPitBXw==" />
+		<POI MapID="1041" xpos="-206.551" ypos="67.1637" zpos="239.003" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="400pBqv0kEWYsFl6sWlrLQ==" />
+		<POI MapID="1041" xpos="630.021" ypos="131.725" zpos="250.27" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="sYPv0gxqkU+x+m7MogXx2w==" />
+		<POI MapID="1041" xpos="594.093" ypos="137.308" zpos="240.564" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="9sL0q/P7TEumSbYPQHRn/g==" />
+		<POI MapID="1041" xpos="575.042" ypos="139.291" zpos="195.01" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="djIUrkTvuEmGJPQ/OkOfQw==" />
+		<POI MapID="1041" xpos="572.931" ypos="136.017" zpos="160.385" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="B07HV7Cw7EGOYdugsv17ug==" />
+		<POI MapID="1041" xpos="600.389" ypos="136.415" zpos="139.327" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="kYeKAUbQhkSvMyEGExT9Ig==" />
+		<POI MapID="1041" xpos="252.801" ypos="32.8576" zpos="54.2122" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="edCNgJoH0UWGmmYlI3VyvA==" />
+		<POI MapID="1041" xpos="232.701" ypos="42.2227" zpos="40.152" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="8MtsBMRqEE6qfAfJ5gtlLA==" />
+		<POI MapID="1041" xpos="251.56" ypos="65.3875" zpos="3.55103" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="qc4QyN/XJk6Crryis0XFVA==" />
+		<POI MapID="1041" xpos="139.106" ypos="113.707" zpos="24.5583" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="M6jFinwwoUS9xDulYaXQsA==" />
+		<POI MapID="1041" xpos="243.021" ypos="83.4865" zpos="644.899" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="b/ihINae8k+zGIBLSCBjYg==" />
+		<POI MapID="1041" xpos="-173.851" ypos="60.7356" zpos="710.47" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="0i+KcZ4uTEmqKtVAcKEQVA==" />
+		<POI MapID="1041" xpos="12.0889" ypos="77.9341" zpos="597.04" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="cv06q+POV06KyDXOQYHypw==" />
+		<POI MapID="1041" xpos="488.699" ypos="57.871" zpos="371.632" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="owVvSzksKE6DmBb3QKFW3w==" />
+		<POI MapID="1041" xpos="836.137" ypos="65.3551" zpos="273.942" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="L/mcomeYCkq2EeeAm3+LZw==" />
+		<POI MapID="1041" xpos="595.971" ypos="8.22728" zpos="471.566" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="9vbYwLiWn0q8YRxokH9/eQ==" />
+		<POI MapID="1041" xpos="-106.223" ypos="67.22" zpos="307.204" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="rKciXM+a1UCiFgqG+yM+6g==" />
+		<POI MapID="1041" xpos="-16.5856" ypos="67.5282" zpos="328.334" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="YaBAbLB96EeZHdJuKI/ocA==" />
+		<POI MapID="1041" xpos="702.596" ypos="38.3031" zpos="40.1127" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="ErvfGKYRoUe4vlyv1AdB1Q==" />
+		<POI MapID="1041" xpos="290.514" ypos="208.043" zpos="218.755" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="zbRT8vgubUCh7gvatdRsdw==" />
+		<POI MapID="1041" xpos="-12.6571" ypos="50.0239" zpos="340.112" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="bOfa+e82U0y23QOC+aedhQ==" />
+		<POI MapID="1041" xpos="30.4635" ypos="71.1849" zpos="411.305" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="AhZ1uwKPdUyp0mybFJMKcA==" />
+		<POI MapID="1041" xpos="93.3196" ypos="71.6471" zpos="459.978" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="Z1HycTMuCEKUbD1th10ESg==" />
+		<POI MapID="1041" xpos="19.7155" ypos="75.5687" zpos="511.766" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="UQQnec7bkkmrZFAu1N20Pg==" />
+		<POI MapID="1041" xpos="22.1174" ypos="71.6895" zpos="629.351" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="fPwMuWsJtkW63AWaR4cWeQ==" />
+		<POI MapID="1041" xpos="291.507" ypos="112.785" zpos="154.321" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="BPsvSku6EkqfjbdDA8JdHA==" />
+		<POI MapID="1041" xpos="715.66" ypos="43.0284" zpos="-0.543758" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="rW3U/7yOfEqBzxfXZd1lvw==" />
+		<POI MapID="1041" xpos="795.764" ypos="63.8247" zpos="87.7467" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="0KkkTEjmsEyJBFJbQWrI8g==" />
+		<POI MapID="1041" xpos="893.104" ypos="44.8421" zpos="82.7357" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="Yk+s/cNgTE+pMDsGyFMq2w==" />
+		<POI MapID="1041" xpos="711.228" ypos="47.902" zpos="372.147" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="3juQjGEdak+fENB5f5cCyg==" />
+		<POI MapID="1041" xpos="778.898" ypos="46.7865" zpos="364.341" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="98oCg6DHB0Gq1CbNemsksw==" />
+		<POI MapID="1041" xpos="860.638" ypos="36.2203" zpos="474.4" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="RAnJdt3iLECannxNmQph2Q==" />
+		<POI MapID="1041" xpos="179.086" ypos="103.908" zpos="-31.46" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="UVaIW8fVDEqCZjML4IHHkw==" />
+		<POI MapID="1041" xpos="467.943" ypos="79.3253" zpos="-152.784" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="0R/E2Vm0GUqpUHObtsyDMg==" />
+		<POI MapID="1041" xpos="518.744" ypos="67.2838" zpos="-183.576" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="EIVmlooGi0S5evLhE5b1LQ==" />
+		<POI MapID="1041" xpos="439.31" ypos="91.759" zpos="-251.061" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="W3E/QzUBPE+kC/p70Vkn2w==" />
+		<POI MapID="1041" xpos="147.295" ypos="100.955" zpos="-362.531" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="2Daxo+HsUUCJrRRi+RCFbQ==" />
+		<POI MapID="1041" xpos="661.758" ypos="95.1653" zpos="227.328" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="btjfU1uzfkS1qIopNoKugw==" />
+		<POI MapID="1041" xpos="631.202" ypos="131.332" zpos="240.136" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="HIIHPzdI00W1Dzl2DdDxIA==" />
+		<POI MapID="1041" xpos="597.133" ypos="139.5" zpos="221.713" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="wSFMViebmUGUwYTxXimE0A==" />
+		<POI MapID="1041" xpos="561.201" ypos="136.826" zpos="213.688" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="1QQGAaV+wkWHrKmZ9v5kgA==" />
+		<POI MapID="1041" xpos="530.384" ypos="133.939" zpos="236.055" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="5IYF/SlH1EKG3URgBeQ5Cg==" />
+		<POI MapID="1041" xpos="594.856" ypos="137.263" zpos="189.277" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="wHWk4f1WlUO3eGjO+MdERA==" />
+		<POI MapID="1041" xpos="609.899" ypos="135.019" zpos="146.277" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="VmWo9sHeckeiTqfjppOasA==" />
+		<POI MapID="1041" xpos="614.44" ypos="136.188" zpos="159.536" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="DKMnR9BpbkSX+ce27rTpgA==" />
+		<POI MapID="1041" xpos="-127.578" ypos="89.9002" zpos="218.071" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="l2asxFX5X0SK8h8sDp3fig==" />
+		<POI MapID="1041" xpos="-158.197" ypos="87.8587" zpos="207.207" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="8WdKncKpQUW/e9EEKJOZxQ==" />
+		<POI MapID="1041" xpos="-191.748" ypos="126.23" zpos="-52.213" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="G1gjYHmCVky7eh+/GqhTFQ==" />
+		<POI MapID="1041" xpos="-228.088" ypos="121.544" zpos="-57.7558" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="N4XiNgy4i06rBd9OT2AdGQ==" />
+		<POI MapID="1041" xpos="46.724" ypos="113.852" zpos="-59.2269" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="fE07fhEeIkaIfXIRj/n2JQ==" />
+		<POI MapID="1041" xpos="166.822" ypos="98.3725" zpos="159.75" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="ZfA1kBMe0EWqUYJ2hMejFw==" />
+		<POI MapID="1041" xpos="-87.5814" ypos="36.5407" zpos="425.328" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="ZlUOUatjG0WnFLWCJEoJ4A==" />
+		<POI MapID="1041" xpos="-199.907" ypos="114.653" zpos="588.236" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="VBXtjRvwT06SavEl920U5g==" />
+		<POI MapID="1041" xpos="855.234" ypos="65.9941" zpos="235.18" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="YiQymX0L3kiB0Mb+oBCG5w==" />
+		<POI MapID="1041" xpos="896.759" ypos="43.5561" zpos="13.5231" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="+CDiH9AzZEyMRTDB7iaspQ==" />
+		<POI MapID="1041" xpos="878.131" ypos="38.5428" zpos="-113.572" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="IbrWiPiTMUylJXNWttHHGw==" />
+		<POI MapID="1041" xpos="763.824" ypos="29.6275" zpos="-199.151" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="tW4uEWWr1UOxG2I4Y3TBkA==" />
+		<POI MapID="1041" xpos="554.518" ypos="53.1353" zpos="-162.631" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="/otV6RS8b0iwWQIalDxjFg==" />
+		<POI MapID="1041" xpos="901.485" ypos="60.4187" zpos="-23.8722" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="ZrvkNxf+3E2LT++ApoXEFA==" />
+		<POI MapID="1041" xpos="899.569" ypos="60.1852" zpos="-21.4008" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_speedmushroom" GUID="xQ2Bsoss4kiwMZPXKVSM+g==" />
+		<POI MapID="1041" xpos="190.172" ypos="168.506" zpos="270.94" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="s4Ds1Jjf7kCsWEO0rwAC+g==" />
+		<POI MapID="1041" xpos="239.04" ypos="175.762" zpos="163.072" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="BS2k7ipN3UWpR/hpn4SV3g==" />
+		<POI MapID="1041" xpos="354.676" ypos="113.947" zpos="745.114" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="kfrgiBk/EEqYdvA2KXIPwg==" />
+		<POI MapID="1041" xpos="376.339" ypos="84.5247" zpos="598.513" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="jGUQbvwwl0+ktyWpZWsD8A==" />
+		<POI MapID="1041" xpos="62.0553" ypos="128.382" zpos="181.233" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="v52wF04LJ0GUZASkTFD8iA==" />
+		<POI MapID="1041" xpos="126.443" ypos="112.213" zpos="240.464" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="i9spGmLFu0mJvx6w26M2qg==" />
+		<POI MapID="1041" xpos="392.121" ypos="126.02" zpos="-9.74178" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="f3aFUqJ0Mk22cbGG19qx1A==" />
+		<POI MapID="1041" xpos="600.876" ypos="132.018" zpos="112.815" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="RknD4cm9mkGKRKtoem6lEw==" />
+		<POI MapID="1041" xpos="509.729" ypos="64.3102" zpos="-13.3734" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="zccKkirrd06fj6xhfyqEDA==" />
+		<POI MapID="1041" xpos="383.871" ypos="95.0673" zpos="-257.736" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="ZuaCOuRJekmYoZp1RhUKlQ==" />
+		<POI MapID="1041" xpos="530.717" ypos="5.15763" zpos="371.933" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="Zh2/Wipa5kqrx3v7wJseHw==" />
+		<POI MapID="1041" xpos="589.396" ypos="145.322" zpos="285.049" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="CTyZQW1yHEao1m0606tz0A==" />
+		<POI MapID="1041" xpos="570.784" ypos="140.326" zpos="298.212" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="ycEBVl1z9kGdqnRrCglIIA==" />
+		<POI MapID="1041" xpos="267.132" ypos="93.1675" zpos="593.391" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="bACYwQGnUkq+89cRzyxsfQ==" />
+		<POI MapID="1041" xpos="449.514" ypos="125.649" zpos="109.219" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="VGTpnPPFuEaHDd4ImKiHUw==" />
+		<POI MapID="1041" xpos="468.082" ypos="80.3846" zpos="265.037" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="MG566a82cki+syN/gvo/Lw==" />
+		<POI MapID="1041" xpos="290.913" ypos="129.066" zpos="338.826" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="tLgSqgiWS02fV5Zh7HMxbQ==" />
+		<POI MapID="1041" xpos="499.798" ypos="105.467" zpos="40.1082" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="1mYVr54UZ0Oj33WkQbQTuw==" />
+		<POI MapID="1041" xpos="-291.536" ypos="99.8324" zpos="288.666" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="o0CaXX0LE02gdppagNimlw==" />
+		<POI MapID="1041" xpos="726.321" ypos="49.2655" zpos="67.8914" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="xZjjUuCTaUqNbQ4R1qCRTQ==" />
+		<POI MapID="1041" xpos="309.513" ypos="106.26" zpos="148.145" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_speedmushroom" GUID="fWnGZcHmUkyQCFvD4rwCuA==" />
+		<POI MapID="1041" xpos="649.347" ypos="83.0427" zpos="391.054" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="gd56yqArK0q5iJ9e13ovXQ==" />
+		<POI MapID="1041" xpos="811.941" ypos="12.3873" zpos="208.83" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_masterypoints.tw_hot_ds_masterypoint_wallowingwhiz" GUID="CiM+pjokY0mo8r8MTTbMjQ==" />
+		<POI MapID="1041" xpos="873.267" ypos="78.0219" zpos="303.604" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_masterypoints.tw_hot_ds_masterypoint_sumviewer" GUID="OrWf/z6jDkacJQ7VJv+x4g==" />
+		<POI MapID="1041" xpos="15.4632" ypos="71.1803" zpos="531.332" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_masterypoints.tw_hot_ds_masterypoint_tamerofwyverns" GUID="UneDo+RX9ECPKcyJgaLMig==" />
+		<POI MapID="1041" xpos="13.4875" ypos="52.0838" zpos="761.271" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_masterypoints.tw_hot_ds_masterypoint_mushroommusterer" GUID="ZSSTmqklOUmBEJlnrrxQOQ==" />
+		<POI MapID="1041" xpos="-188.118" ypos="53.977" zpos="234.186" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="8C22Efrro0WaNubK0jdgoA==" />
+		<POI MapID="1041" xpos="-368.261" ypos="83.1278" zpos="168.369" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_masterypoints.tw_hot_ds_masterypoint_northerntowertaker" GUID="wM2GW1Hy0U2uKWhUqYQTwA==" />
+		<POI MapID="1041" xpos="-353.671" ypos="81.9279" zpos="171.814" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_heropoints" GUID="CNhzgWxQi02LOSzTvJE1zQ==" />
+		<POI MapID="1041" xpos="102.266" ypos="96.7927" zpos="-188.667" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_masterypoints.tw_hot_ds_masterypoint_centraltowertaker" GUID="JhLB8H2qjEe/Vk3Hkqf8Mw==" />
+		<POI MapID="1041" xpos="92.0052" ypos="96.8915" zpos="-187.949" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_heropoints" GUID="RolHO4js+ECvXwWjVtCMSQ==" />
+		<POI MapID="1041" xpos="309.454" ypos="96.912" zpos="-357.388" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_masterypoints.tw_hot_ds_masterypoint_southerntowertaker" GUID="ulV+YwNT3kGSazJ62uv7XQ==" />
+		<POI MapID="1041" xpos="300.581" ypos="96.9164" zpos="-363.339" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_heropoints" GUID="+ul7wbXbA0KuL5IGd0KutQ==" />
+		<POI MapID="1041" xpos="-183.691" ypos="18.8035" zpos="467.017" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_masterypoints.tw_hot_ds_masterypoint_enchantedarmorwearer" GUID="cUbxL9wSlkukwZ/YmCZhvg==" />
+		<POI MapID="1041" xpos="-852.24" ypos="135.475" zpos="-233.203" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_masterypoints.tw_hot_ds_masterypoint_dragonsstandoverviewer" GUID="tf727TgTAUSpjXYknjn28Q==" />
+		<POI MapID="1041" xpos="-871.622" ypos="146.186" zpos="-212.357" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_heropoints" GUID="RT/2rRadgUC7mVhyKPQCzg==" />
+		<POI MapID="1041" xpos="-174.926" ypos="92.4697" zpos="476.452" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_heropoints" GUID="tZKBAS/j9k6QIT/cUjHbGA==" />
+		<POI MapID="1041" xpos="245.622" ypos="45.2341" zpos="63.4672" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_heropoints" GUID="CRVKwW9U/02vequbixZupg==" />
+		<POI MapID="1041" xpos="582.392" ypos="148.773" zpos="230.282" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_heropoints" GUID="m4WBTaSCrECtTaE03actHw==" />
+		<POI MapID="1041" xpos="544.789" ypos="135.361" zpos="213.277" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_richveins" GUID="tzB5+vEN9kas2pZWP42rfg==" />
+		<POI MapID="1041" xpos="399.368" ypos="72.8038" zpos="282.034" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_masterypoints.tw_hot_ds_masterypoint_firejumper" GUID="SCvLhl3m5k2FCHNxMlBrfg==" />
+		<POI MapID="1041" xpos="370.618" ypos="-0.053145" zpos="430.5" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_masterypoints.tw_hot_ds_masterypoint_pactpilotprotector" GUID="paxNBzZzxk2czQN1xegSWQ==" />
+		<POI MapID="1041" xpos="681.593" ypos="74.0462" zpos="416.227" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_masterypoints.tw_hot_ds_masterypoint_prismaticpercher" GUID="PVcceuUNEEaCMT3s9JHaRw==" />
+		<POI MapID="1041" xpos="311.5" ypos="102.865" zpos="87.6456" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_masterypoints.tw_hot_ds_masterypoint_firejumper" GUID="gONlr2Xx20y/9gcKFJ5N7w==" />
+		<POI MapID="1041" xpos="519.832" ypos="84.4317" zpos="726.383" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_masterypoints.tw_hot_ds_masterypoint_munitionreupper" GUID="QhuQOPshMUOK4lpqnbl4nQ==" />
+		<POI MapID="1041" xpos="351.095" ypos="84.0551" zpos="619.87" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_masterypoints.tw_hot_ds_masterypoint_prismaticplunderer" GUID="cAZw9f990Uq26NTyXiipvA==" />
+		<POI MapID="1041" xpos="721.978" ypos="57.9774" zpos="412.441" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_masterypoints.tw_hot_ds_masterypoint_prideoflionsarch" GUID="dUafQWdT6ki9Do+buGMKug==" />
+		<POI MapID="1041" xpos="891.748" ypos="94.0439" zpos="29.6063" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_masterypoints.tw_hot_ds_masterypoint_legacyofowl" GUID="tLncHfZkpU6IdmKWlLXw1w==" />
+		<POI MapID="1041" xpos="906.828" ypos="52.4436" zpos="301.564" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_masterypoints.tw_hot_ds_masterypoint_laserlighter" GUID="7bo2xqQ/hEyx25EL7i+TBQ==" />
+		<POI MapID="1041" xpos="840.63" ypos="60.8139" zpos="20.1046" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_masterypoints.tw_hot_ds_masterypoint_batwrangler" GUID="4b+oydwc8USSDOTmYFEF9A==" />
+		<POI MapID="1041" xpos="223.508" ypos="92.0203" zpos="540.047" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_masterypoints.tw_hot_ds_masterypoint_unsolvedconundrum" GUID="Spef3+PnNEK8BzTDlMeZzw==" />
+		<POI MapID="1041" xpos="221.124" ypos="92.0205" zpos="562.393" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="FKLN1KDT3kaqlyrv9fjpRw==" />
+		<POI MapID="1041" xpos="-276.497" ypos="18.5192" zpos="574.247" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_masterypoints.tw_hot_ds_masterypoint_dragonrender" GUID="uPCnI66/qECjlVwz1h8YLQ==" />
+		<POI MapID="1041" xpos="318.099" ypos="60.6456" zpos="39.2388" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_masterypoints.tw_hot_ds_masterypoint_shootingstar" GUID="4zo1shwdd0ecdgTgdQ7jHA==" />
+		<POI MapID="1041" xpos="377.145" ypos="147.293" zpos="136.013" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_masterypoints.tw_hot_ds_masterypoint_scorchrazorii" GUID="KhjMY8rTE0yLBrcd8euvWA==" />
+		<POI MapID="1041" xpos="-228.125" ypos="119.343" zpos="-32.3884" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_richveins" GUID="dA+d+7lHekSX9INIO2EvNw==" />
+		<POI MapID="1041" xpos="96.2213" ypos="45.2992" zpos="573.266" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_signs.tw_hot_ds_noxiouspods_startsignn1" GUID="Q5H1DTJwd0O576ulmUOAhA==" />
+		<POI MapID="1041" xpos="93.1081" ypos="71.6669" zpos="459.887" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_signs.tw_hot_ds_noxiouspods_finish" GUID="wk9W1pjYf0i2NvRt83NTlQ==" />
+		<POI MapID="1041" xpos="-46.6911" ypos="85.7345" zpos="426.819" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_signs.tw_hot_ds_noxiouspods_startsignn2_2" GUID="6bTlWF1zu0StOOkEQFpvTA==" />
+		<POI MapID="1041" xpos="-34.0791" ypos="82.4588" zpos="419.459" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_signs.tw_hot_ds_noxiouspods_startsignn2_1" GUID="xiVxhv0bNkGEAPq2Ida5qA==" />
+		<POI MapID="1041" xpos="-15.9312" ypos="81.6418" zpos="419.163" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_signs.tw_hot_ds_noxiouspods_startsignn2" GUID="GfFp+/YTkkyzksGNc2eTuA==" />
+		<POI MapID="1041" xpos="390.286" ypos="62.6446" zpos="314.393" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_signs.tw_hot_ds_noxiouspods_startsignc1" GUID="I2lCRX+FyEqX2fr6BD4lGQ==" />
+		<POI MapID="1041" xpos="499.5" ypos="100.909" zpos="276.823" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_signs.tw_hot_ds_noxiouspods_finish" GUID="VpRSPV7Pv0K1ioovROVJww==" />
+		<POI MapID="1041" xpos="320.313" ypos="104.326" zpos="84.5328" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_signs.tw_hot_ds_noxiouspods_startsignc2" GUID="ULH8AbClQUifJ1dmDFUg1Q==" />
+		<POI MapID="1041" xpos="307.173" ypos="103.413" zpos="88.7388" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_signs.tw_hot_ds_noxiouspods_startsignc2_1" GUID="64YhfPLY6Ey4NI4dtdKH8w==" />
+		<POI MapID="1041" xpos="127.627" ypos="97.5344" zpos="123.965" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="J8ThgjCNbUupY7yCKMH/2g==" />
+		<POI MapID="1041" xpos="127.627" ypos="97.5344" zpos="123.965" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_signs.tw_hot_ds_noxiouspods_finish" GUID="lqYL4o2UVkWpQUcCbrr/jg==" />
+		<POI MapID="1041" xpos="-13.3761" ypos="46.1218" zpos="380.577" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_signs.tw_hot_ds_noxiouspods_finish" GUID="cPKpIyHH+06F8PWERm+ppQ==" />
+		<POI MapID="1041" xpos="-210.279" ypos="112.253" zpos="436.236" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_signs.tw_hot_ds_noxiouspods_finish" GUID="4JjOY43/sEu23PjXEdWTLw==" />
+		<POI MapID="1041" xpos="46.6733" ypos="113.87" zpos="-59.2591" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_signs.tw_hot_ds_noxiouspods_finish" GUID="knv401CIH0GtuTkJj2wAIg==" />
+		<POI MapID="1041" xpos="851.421" ypos="67.0205" zpos="211.192" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_signs.tw_hot_ds_noxiouspods_startsigns1" GUID="BY9ReM+5X0SvF/a46n/1sA==" />
+		<POI MapID="1041" xpos="845.539" ypos="65.7575" zpos="217.542" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_signs.tw_hot_ds_noxiouspods_startsigns1_1" GUID="11MaFga3BkiRrI2aY+2hqw==" />
+		<POI MapID="1041" xpos="855.629" ypos="66.1715" zpos="235.239" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_signs.tw_hot_ds_noxiouspods_finish" GUID="PAul/JkBfEqhQfoF+DcUsw==" />
+		<POI MapID="1041" xpos="572.726" ypos="136.136" zpos="160.309" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_signs.tw_hot_ds_noxiouspods_finish" GUID="Kx731HnK60CCTSgB+4jAsw==" />
+		<POI MapID="1041" xpos="829.074" ypos="67.6347" zpos="282.017" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_jumpingmushroom" GUID="QVgDOaR670edUTclBpRJNA==" />
+		<POI MapID="1041" xpos="906.866" ypos="22.9941" zpos="312.975" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_jumpingmushroom" GUID="dDNzefAV3E2ghTMTANcT8Q==" />
+		<POI MapID="1041" xpos="886.349" ypos="10.8329" zpos="302.2" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_jumpingmushroom" GUID="J2Qj1vCvSESeGkq6G4zn7g==" />
+		<POI MapID="1041" xpos="888.911" ypos="38.9675" zpos="302.247" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_jumpingmushroom" GUID="LYUI97/H1UWSRQYAIvUfpw==" />
+		<POI MapID="1041" xpos="798.886" ypos="15.0854" zpos="230.145" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_jumpingmushroom" GUID="31awX9RfuUyHjMOBzKe4bg==" />
+		<POI MapID="1041" xpos="801.129" ypos="34.3606" zpos="242.509" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_jumpingmushroom" GUID="ChjZK41a4kOcZq52PktodA==" />
+		<POI MapID="1041" xpos="696.154" ypos="4.614" zpos="391.795" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_jumpingmushroom" GUID="OVLoO4NdTk6d6wIPX5Btnw==" />
+		<POI MapID="1041" xpos="698.098" ypos="17.0194" zpos="378.978" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_jumpingmushroom" GUID="7W1yjqNqfEewIse8aLA/Ng==" />
+		<POI MapID="1041" xpos="697.204" ypos="32.258" zpos="370.976" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_jumpingmushroom" GUID="ozQnd8RO9Ey//PjqTnJ8dA==" />
+		<POI MapID="1041" xpos="444.025" ypos="1.35637" zpos="400.271" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_jumpingmushroom" GUID="+hHfI6IYgk2iLUaTNCGitQ==" />
+		<POI MapID="1041" xpos="424.964" ypos="2.18208" zpos="444.733" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_jumpingmushroom" GUID="t9FEqvgVe06XidwlPmAFYQ==" />
+		<POI MapID="1041" xpos="424.555" ypos="14.8242" zpos="456.061" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_jumpingmushroom" GUID="QTIdYZZD5kK1d42nrQsXeA==" />
+		<POI MapID="1041" xpos="887.548" ypos="48.1317" zpos="128.449" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_jumpingmushroom" GUID="GIK2LibtWUCY+IuXqmlddw==" />
+		<POI MapID="1041" xpos="840.543" ypos="61.0855" zpos="-91.6465" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_jumpingmushroom" GUID="3Ms4Fv0eoE+Ur//u1O7Iow==" />
+		<POI MapID="1041" xpos="861.22" ypos="49.1743" zpos="-139.484" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_jumpingmushroom" GUID="/SECmf2ndUuKQdP/H7Z/fQ==" />
+		<POI MapID="1041" xpos="626.628" ypos="47.4002" zpos="-24.2066" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_jumpingmushroom" GUID="Gbl8WPmDpUSaSKy9KqrSYg==" />
+		<POI MapID="1041" xpos="542.681" ypos="84.2887" zpos="15.7664" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_jumpingmushroom" GUID="xatu2RJR+Uy36AOKbvQeCg==" />
+		<POI MapID="1041" xpos="291.224" ypos="121.603" zpos="49.0813" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_jumpingmushroom" GUID="ZfMyiidyNESkd4qeRG0iBA==" />
+		<POI MapID="1041" xpos="467.312" ypos="77.9145" zpos="31.6909" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_jumpingmushroom" GUID="wVGl76b/cUqpeWkpbZKEVQ==" />
+		<POI MapID="1041" xpos="540.844" ypos="76.1535" zpos="-132.506" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_masterypoints.tw_hot_ds_masterypoint_leylineglider" GUID="tpSK+46y8Eysy7a+jggBeg==" />
+		<POI MapID="1041" xpos="495.485" ypos="65.5572" zpos="-151.646" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_jumpingmushroom" GUID="LcgGhYFD4EiiTC6DTowx4g==" />
+		<POI MapID="1041" xpos="412.967" ypos="83.9296" zpos="-95.0679" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_jumpingmushroom" GUID="Ch91oPJ6S0COF/rN2VReVQ==" />
+		<POI MapID="1041" xpos="-105.509" ypos="45.1827" zpos="-326.373" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_jumpingmushroom" GUID="XO9O2ZzMKk2/dY0AIFyzHQ==" />
+		<POI MapID="1041" xpos="-87.8578" ypos="70.9424" zpos="-338.435" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_jumpingmushroom" GUID="hGmhBn8Jq0CpDZvDYNtVpA==" />
+		<POI MapID="1041" xpos="-241.065" ypos="70.16" zpos="-197.076" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_jumpingmushroom" GUID="+H4AgXQ8TEKUnqfbf5lAJQ==" />
+		<POI MapID="1041" xpos="-219.262" ypos="102.04" zpos="-186.182" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_jumpingmushroom" GUID="hHFZA4ptuECscOddm7v+8w==" />
+		<POI MapID="1041" xpos="-426.583" ypos="69.5446" zpos="-43.1267" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_jumpingmushroom" GUID="ciK/L43rvkuPNJXvwl3+Bg==" />
+		<POI MapID="1041" xpos="-422.668" ypos="90.3223" zpos="-61.4096" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_jumpingmushroom" GUID="vOmsbUfo1E2bo1OXrQkamQ==" />
+		<POI MapID="1041" xpos="-510.068" ypos="71.8148" zpos="-488.596" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_jumpingmushroom" GUID="4bM9At1Mc0WjaMRA6yFP0w==" />
+		<POI MapID="1041" xpos="-582.426" ypos="81.8381" zpos="-444.736" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_jumpingmushroom" GUID="KpUh7oBWy064V77YdawHiA==" />
+		<POI MapID="1041" xpos="609.05" ypos="65.4636" zpos="742.057" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_jumpingmushroom" GUID="u9ZRqSNnPECattELdu4Q4g==" />
+		<POI MapID="1041" xpos="456.563" ypos="39.0884" zpos="654.235" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_jumpingmushroom" GUID="3O5mogHsYUebWOQdzoG3qA==" />
+		<POI MapID="1041" xpos="436.224" ypos="63.4503" zpos="664.532" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_jumpingmushroom" GUID="K/il14txn0Wgcf33C3BmuA==" />
+		<POI MapID="1041" xpos="484.869" ypos="57.1699" zpos="381.288" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_jumpingmushroom" GUID="PHHWAIqvNkmUFYMDSKypyg==" />
+		<POI MapID="1041" xpos="376.517" ypos="43.658" zpos="370.031" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_jumpingmushroom" GUID="U39RKT0zMkqhZJA3gZaN5A==" />
+		<POI MapID="1041" xpos="377.317" ypos="1.3229" zpos="435.503" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_jumpingmushroom" GUID="5J7zM83ux0upNzYc/02byg==" />
+		<POI MapID="1041" xpos="370.21" ypos="13.2453" zpos="443.022" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_jumpingmushroom" GUID="4qfSyUuZb0mCBxyIHEQpxw==" />
+		<POI MapID="1041" xpos="363.192" ypos="67.095" zpos="327.404" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_jumpingmushroom" GUID="r2XY2G+PYUCt8djydr8blg==" />
+		<POI MapID="1041" xpos="338.812" ypos="85.0869" zpos="321.108" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_jumpingmushroom" GUID="nV9Vg3oWfUSmqm+skhPREA==" />
+		<POI MapID="1041" xpos="311.809" ypos="110.865" zpos="338.854" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_jumpingmushroom" GUID="OAxeICI9WEy5QxTnCZdNdg==" />
+		<POI MapID="1041" xpos="360.353" ypos="77.6558" zpos="281.14" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_jumpingmushroom" GUID="UOLr3/SwQEW8y1eSxWlFxg==" />
+		<POI MapID="1041" xpos="232.485" ypos="145.341" zpos="244.753" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_jumpingmushroom" GUID="9aFJJhqpekiHEnwpR8FROw==" />
+		<POI MapID="1041" xpos="259.907" ypos="134.195" zpos="260.028" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_jumpingmushroom" GUID="xiMri/ER/UudpTbOqbJUPQ==" />
+		<POI MapID="1041" xpos="286.245" ypos="122.016" zpos="288.237" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_jumpingmushroom" GUID="muMANkHogUWOnPEeg0ws0g==" />
+		<POI MapID="1041" xpos="254.125" ypos="32.6373" zpos="65.2027" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_jumpingmushroom" GUID="EnG+AH6En0qedy5T+Nab4Q==" />
+		<POI MapID="1041" xpos="256.492" ypos="51.7336" zpos="20.6312" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_jumpingmushroom" GUID="lzpdjtqTAEGsTb7tWUmzvA==" />
+		<POI MapID="1041" xpos="236.539" ypos="32.5283" zpos="111.66" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_signs.tw_hot_ds_noxiouspods_finish" GUID="F2yZacjljUqbzGAce0i6yg==" />
+		<POI MapID="1041" xpos="118.341" ypos="105.581" zpos="256.235" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_jumpingmushroom" GUID="XPFjXi6EDkGfBbhaYuyHcA==" />
+		<POI MapID="1041" xpos="117.477" ypos="115.156" zpos="241.55" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_jumpingmushroom" GUID="lx377/UKME6FzbFZxE4FWg==" />
+		<POI MapID="1041" xpos="-214.207" ypos="55.0624" zpos="738.303" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod" GUID="X6OH5usIi02sx0UMGCWdBw==" />
+		<POI MapID="1041" xpos="-159.516" ypos="60.1948" zpos="715.64" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_jumpingmushroom" GUID="XpMmgN5iAEq7QB45sxeOAA==" />
+		<POI MapID="1041" xpos="-6.27411" ypos="56.8299" zpos="718.073" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_jumpingmushroom" GUID="fzxi4O75U0G6tVQzJPg2RQ==" />
+		<POI MapID="1041" xpos="1.18703" ypos="74.6169" zpos="709.702" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_jumpingmushroom" GUID="W9LBcpLQw0OFGMQgERQjDw==" />
+		<POI MapID="1041" xpos="-69.8928" ypos="38.6852" zpos="424.473" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_jumpingmushroom" GUID="SY2JhGiqaUu4t6h+pD//6w==" />
+		<POI MapID="1041" xpos="-333.677" ypos="76.8517" zpos="414.7" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_jumpingmushroom" GUID="q8bVaXvp/EiSJwNpkNN0jg==" />
+		<POI MapID="1041" xpos="-60.1065" ypos="62.6741" zpos="434.376" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_jumpingmushroom" GUID="ODqmjgAFIUmZcTxyxNg9tA==" />
+		<POI MapID="1041" xpos="650.43" ypos="46.5886" zpos="17.5008" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_signs.tw_hot_ds_noxiouspods_startsigns2" GUID="EjpwVS6baEWtrob+EVGTUQ==" />
+		<POI MapID="1041" xpos="702.393" ypos="38.3015" zpos="40.0137" type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_signs.tw_hot_ds_noxiouspods_finish" GUID="Fy+9Zr3y/EqDCJfoIA//4w==" />
+		<Trail type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_toggletrails.tw_hot_ds_noxiouspods_north1_toggletrail" GUID="sqCnAclPPEK2Bmqleqx0AA==" fadeNear="2500" fadeFar="2600" trailData="Data/TekkitsWorkshop/HoT/tw_hot_ds_noxiouspods_north1.trl" animSpeed="0" texture="Data/TekkitsWorkshop/General/tw_trail_b.png" />
+		<Trail type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_toggletrails.tw_hot_ds_noxiouspods_north2_toggletrail" GUID="5gLuuMTHlUCkRWl1jU8R4A==" fadeNear="2500" fadeFar="2600" trailData="Data/TekkitsWorkshop/HoT/tw_hot_ds_noxiouspods_north2.trl" animSpeed="0" texture="Data/TekkitsWorkshop/General/tw_trail_b.png" />
+		<Trail type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_toggletrails.tw_hot_ds_noxiouspods_north3_toggletrail" GUID="a3QBLWsU9kCXJS+w+QxcYA==" fadeNear="2500" fadeFar="2600" trailData="Data/TekkitsWorkshop/HoT/tw_hot_ds_noxiouspods_north3.trl" animSpeed="0" texture="Data/TekkitsWorkshop/General/tw_trail_b.png" />
+		<Trail type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_toggletrails.tw_hot_ds_noxiouspods_north4_toggletrail" GUID="ezy3wySs6UC0BwPLYhRXDw==" fadeNear="2500" fadeFar="2600" trailData="Data/TekkitsWorkshop/HoT/tw_hot_ds_noxiouspods_north4.trl" animSpeed="0" texture="Data/TekkitsWorkshop/General/tw_trail_b.png" />
+		<Trail type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_toggletrails.tw_hot_ds_noxiouspods_central1_toggletrail" GUID="m04CMHRCnESC7LUuvOcHRA==" fadeNear="2500" fadeFar="2600" trailData="Data/TekkitsWorkshop/HoT/tw_hot_ds_noxiouspods_central1.trl" animSpeed="0" texture="Data/TekkitsWorkshop/General/tw_trail_b.png" />
+		<Trail type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_toggletrails.tw_hot_ds_noxiouspods_central2_toggletrail" GUID="EX0CMFcS6kuCENnFVslGog==" fadeNear="2500" fadeFar="2600" trailData="Data/TekkitsWorkshop/HoT/tw_hot_ds_noxiouspods_central2.trl" animSpeed="0" texture="Data/TekkitsWorkshop/General/tw_trail_b.png" />
+		<Trail type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_toggletrails.tw_hot_ds_noxiouspods_central3_toggletrail" GUID="06Bhu5zpJ0W0CdkhuETF1A==" fadeNear="2500" fadeFar="2600" trailData="Data/TekkitsWorkshop/HoT/tw_hot_ds_noxiouspods_central3.trl" animSpeed="0" texture="Data/TekkitsWorkshop/General/tw_trail_b.png" />
+		<Trail type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_toggletrails.tw_hot_ds_noxiouspods_south1_toggletrail" GUID="tnGXkESCak+puDOgi8VpfQ==" fadeNear="2500" fadeFar="2600" trailData="Data/TekkitsWorkshop/HoT/tw_hot_ds_noxiouspods_south1.trl" animSpeed="0" texture="Data/TekkitsWorkshop/General/tw_trail_b.png" />
+		<Trail type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_toggletrails.tw_hot_ds_noxiouspods_south2_toggletrail" GUID="7RhfmnRu8UWjhitGq6fb+A==" fadeNear="2500" fadeFar="2600" trailData="Data/TekkitsWorkshop/HoT/tw_hot_ds_noxiouspods_south2.trl" animSpeed="0" texture="Data/TekkitsWorkshop/General/tw_trail_b.png" />
+		<Trail type="tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_toggletrails.tw_hot_ds_noxiouspods_south3_toggletrail" GUID="RFvZswkP2kGkjwrNxNHgfA==" fadeNear="2500" fadeFar="2600" trailData="Data/TekkitsWorkshop/HoT/tw_hot_ds_noxiouspods_south3.trl" animSpeed="0" texture="Data/TekkitsWorkshop/General/tw_trail_b.png" />
 	</POIs>
 </OverlayData>

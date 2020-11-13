@@ -2,101 +2,102 @@
 	<MarkerCategory name="crystal" DisplayName="Crystal Desert">
 		<MarkerCategory name="highlands" DisplayName="Desert Highlands">
 			<MarkerCategory name="collectibles" DisplayName="Collectibles">
-				<MarkerCategory name="remnants" DisplayName="Dwarven Remnants" iconFile="Data/gw2info/chest.png" behavior="3" triggerRange="5" fadeNear="300" fadeFar="25000"></MarkerCategory>
-				<MarkerCategory name="carrot" DisplayName="Carrot Collector" iconFile="Data/gw2info/carrot.png" behavior="3" triggerRange="5" fadeNear="300" fadeFar="25000"></MarkerCategory>
-				<MarkerCategory name="hiddencarrot" DisplayName="Hidden Carrot Hunt" iconFile="Data/gw2info/carrot2.png" behavior="3" triggerRange="5" fadeNear="300" fadeFar="25000"></MarkerCategory>
-				<MarkerCategory name="vlast" DisplayName="Book of Vlast (Lost Lore)" iconFile="Data/gw2info/book.png" behavior="3" triggerRange="5" fadeNear="300" fadeFar="25000"></MarkerCategory>
+				<MarkerCategory name="remnants" DisplayName="Dwarven Remnants" iconFile="Data/gw2info/chest.png" behavior="3" triggerRange="5" fadeNear="300" fadeFar="25000">
+				</MarkerCategory>
+				<MarkerCategory name="carrot" DisplayName="Carrot Collector" iconFile="Data/gw2info/carrot.png" behavior="3" triggerRange="5" fadeNear="300" fadeFar="25000">
+				</MarkerCategory>
+				<MarkerCategory name="hiddencarrot" DisplayName="Hidden Carrot Hunt" iconFile="Data/gw2info/carrot2.png" behavior="3" triggerRange="5" fadeNear="300" fadeFar="25000">
+				</MarkerCategory>
+				<MarkerCategory name="vlast" DisplayName="Book of Vlast (Lost Lore)" iconFile="Data/gw2info/book.png" behavior="3" triggerRange="5" fadeNear="300" fadeFar="25000">
+				</MarkerCategory>
 			</MarkerCategory>
-			<MarkerCategory name="lights" DisplayName="Night Lights" iconFile="Data/gw2info/lights.png" behavior="3" triggerRange="5" fadeNear="300" fadeFar="25000"></MarkerCategory>
-			<MarkerCategory name="dance" DisplayName="Fire Dancer" iconFile="Data/gw2info/dance.png" behavior="3" triggerRange="5" fadeNear="300" fadeFar="25000"></MarkerCategory>
-			<MarkerCategory name="bowl" DisplayName="The Curious Bowl" iconFile="Data/gw2info/bowl.png" behavior="3" triggerRange="5" fadeNear="300" fadeFar="25000"></MarkerCategory>
-			<MarkerCategory name="heirloom" DisplayName="A Family Heirloom" iconFile="Data/gw2info/necklace.png" behavior="3" triggerRange="5" fadeNear="300" fadeFar="25000"></MarkerCategory>
+			<MarkerCategory name="lights" DisplayName="Night Lights" iconFile="Data/gw2info/lights.png" behavior="3" triggerRange="5" fadeNear="300" fadeFar="25000">
+			</MarkerCategory>
+			<MarkerCategory name="dance" DisplayName="Fire Dancer" iconFile="Data/gw2info/dance.png" behavior="3" triggerRange="5" fadeNear="300" fadeFar="25000">
+			</MarkerCategory>
+			<MarkerCategory name="bowl" DisplayName="The Curious Bowl" iconFile="Data/gw2info/bowl.png" behavior="3" triggerRange="5" fadeNear="300" fadeFar="25000">
+			</MarkerCategory>
+			<MarkerCategory name="heirloom" DisplayName="A Family Heirloom" iconFile="Data/gw2info/necklace.png" behavior="3" triggerRange="5" fadeNear="300" fadeFar="25000">
+			</MarkerCategory>
 		</MarkerCategory>
 	</MarkerCategory>
 	<POIs>
-		<POI MapID="1211" xpos="-1148.37" ypos="324.069" zpos="226.114" type="crystal.highlands.bowl" GUID="WuQXav8y0EqGwElbUz2ECg=="/>
-
-		<POI MapID="1211" xpos="-547.249" ypos="325.409" zpos="644.184" type="crystal.highlands.heirloom" GUID="CiQx+HE100ud0DnghEJEAw=="/>
-
-		<POI MapID="1211" xpos="-461.586" ypos="65.0528" zpos="-273.037" type="crystal.highlands.dance" GUID="EZVVmdVgh0u1yqgl65alLQ=="/>
-
-		<POI MapID="1211" xpos="-63.535" ypos="462.227" zpos="-227.87" type="crystal.highlands.lights" GUID="dKOll4j1VEe46YCfhR3j/w=="/>
-
-		<POI MapID="1211" xpos="-110.011" ypos="251.576" zpos="406.034" type="crystal.highlands.collectibles.carrot" GUID="j2edO53DME+iDCAfg+olow=="/>
-		<POI MapID="1211" xpos="-119.518" ypos="308.771" zpos="373.666" type="crystal.highlands.collectibles.carrot" GUID="fRoMfIEcXUyDEdK74N/SBA=="/>
-		<POI MapID="1211" xpos="-136.866" ypos="267.67" zpos="283.485" type="crystal.highlands.collectibles.carrot" GUID="yh6jpBmWj0Wzy3cZ8r/S3Q=="/>
-		<POI MapID="1211" xpos="-146.709" ypos="354.417" zpos="595.756" type="crystal.highlands.collectibles.carrot" GUID="o2spzSfInkebG3ajK/03IA=="/>
-		<POI MapID="1211" xpos="-154.285" ypos="283.746" zpos="587.436" type="crystal.highlands.collectibles.carrot" GUID="hGrDqZdR10ORdB5cWjmcpA=="/>
-		<POI MapID="1211" xpos="-158.368" ypos="248.77" zpos="388.197" type="crystal.highlands.collectibles.carrot" GUID="EYKE6Y887kGwyuR8Jsaliw=="/>
-		<POI MapID="1211" xpos="-159.407" ypos="284.459" zpos="505.666" type="crystal.highlands.collectibles.carrot" GUID="Wbnu4NOuhEyNR4tE5BVwyw=="/>
-		<POI MapID="1211" xpos="-161.352" ypos="242.173" zpos="309.092" type="crystal.highlands.collectibles.carrot" GUID="o5aFd+0VbUeQaIMk8qlmYg=="/>
-		<POI MapID="1211" xpos="-170.528" ypos="243.795" zpos="347.089" type="crystal.highlands.collectibles.carrot" GUID="OSjuFVujaEi0xnALLtuDNQ=="/>
-		<POI MapID="1211" xpos="-197.715" ypos="251.215" zpos="386.168" type="crystal.highlands.collectibles.carrot" GUID="msB97gF5ZUuh7syPpfhG4g=="/>
-		<POI MapID="1211" xpos="-209.082" ypos="261.225" zpos="520.377" type="crystal.highlands.collectibles.carrot" GUID="OfT18LsnwUSePuqrEf8lyQ=="/>
-		<POI MapID="1211" xpos="-214.817" ypos="270.004" zpos="422.519" type="crystal.highlands.collectibles.carrot" GUID="l3W6O0nv2EmCTkoz4DUc3Q=="/>
-		<POI MapID="1211" xpos="-221.324" ypos="234.012" zpos="295.944" type="crystal.highlands.collectibles.carrot" GUID="IxXgn6BPHEi/tpCBAeTqVw=="/>
-		<POI MapID="1211" xpos="-225.865" ypos="260.488" zpos="444.673" type="crystal.highlands.collectibles.carrot" GUID="rQkJei3p20ygk6Pr5DpXWA=="/>
-		<POI MapID="1211" xpos="-230.373" ypos="227.062" zpos="256.095" type="crystal.highlands.collectibles.carrot" GUID="JfsobkgGrUGVL5e7lTps8Q=="/>
-		<POI MapID="1211" xpos="-235.748" ypos="310.808" zpos="429.174" type="crystal.highlands.collectibles.carrot" GUID="1aFgjFsFN0K1K9oIxvMi1g=="/>
-		<POI MapID="1211" xpos="-254.816" ypos="297.121" zpos="292.789" type="crystal.highlands.collectibles.carrot" GUID="+ZPu7ZNI40WqlCku5UdavQ=="/>
-		<POI MapID="1211" xpos="-258.268" ypos="213.448" zpos="193.113" type="crystal.highlands.collectibles.carrot" GUID="2M0fMwxOgkipGnccG8rTMg=="/>
-		<POI MapID="1211" xpos="-272.238" ypos="225.947" zpos="336.197" type="crystal.highlands.collectibles.carrot" GUID="P73wIMdQS0erjQXRawCenA=="/>
-		<POI MapID="1211" xpos="-277.343" ypos="326.561" zpos="387.019" type="crystal.highlands.collectibles.carrot" GUID="GZMt32/tN0qPyxDAWOCnVA=="/>
-		<POI MapID="1211" xpos="-284.301" ypos="255.176" zpos="400.742" type="crystal.highlands.collectibles.carrot" GUID="QuWLDXeW1Umng1PeNYq5Rw=="/>
-		<POI MapID="1211" xpos="-297.421" ypos="250.612" zpos="447.118" type="crystal.highlands.collectibles.carrot" GUID="iAE8fuguRUSNLFkftoywag=="/>
-		<POI MapID="1211" xpos="-308.46" ypos="238.129" zpos="384.836" type="crystal.highlands.collectibles.carrot" GUID="+Dw+aMnLIUSZxIji/7stOQ=="/>
-		<POI MapID="1211" xpos="-38.1129" ypos="230.929" zpos="352.663" type="crystal.highlands.collectibles.carrot" GUID="0UAe+m04EkeUIvTNvu0VLA=="/>
-		<POI MapID="1211" xpos="-42.8153" ypos="291.99" zpos="427.688" type="crystal.highlands.collectibles.carrot" GUID="9z6vdFsObUu/Ull5wzSlbQ=="/>
-		<POI MapID="1211" xpos="-53.2811" ypos="279.521" zpos="507.714" type="crystal.highlands.collectibles.carrot" GUID="fZks29eir0qHjR825T7RsA=="/>
-		<POI MapID="1211" xpos="-55.4652" ypos="265.344" zpos="403.158" type="crystal.highlands.collectibles.carrot" GUID="dYUyPYXMIEGr5eLdZlH4hw=="/>
-		<POI MapID="1211" xpos="-63.5166" ypos="337.836" zpos="572.97" type="crystal.highlands.collectibles.carrot" GUID="OdcOYAOUkkyyBHHScaQCyA=="/>
-		<POI MapID="1211" xpos="-68.7061" ypos="218.71" zpos="266.487" type="crystal.highlands.collectibles.carrot" GUID="gPY2K2i95Eqhp0glE1FrgA=="/>
-		<POI MapID="1211" xpos="-7.41663" ypos="242.496" zpos="254.91" type="crystal.highlands.collectibles.carrot" GUID="MLjpxPywKkG6JpabnDI6NA=="/>
-		<POI MapID="1211" xpos="113.505" ypos="331.664" zpos="527.051" type="crystal.highlands.collectibles.carrot" GUID="mKs4nZoGbkyuVsUq2alH3g=="/>
-		<POI MapID="1211" xpos="73.3364" ypos="311.786" zpos="443.738" type="crystal.highlands.collectibles.carrot" GUID="cKT24NfqSUWKtgZwRnLxrw=="/>
-
-		<POI MapID="1211" xpos="-689.369" ypos="36.5033" zpos="-370.595" type="crystal.highlands.collectibles.hiddencarrot" GUID="Bu1f163L5karmmOEZbdkIA=="/>
-		<POI MapID="1211" xpos="-541.332" ypos="0.449809" zpos="-694.513" type="crystal.highlands.collectibles.hiddencarrot" GUID="5ywM7G2gZU2bhpZweBusfQ=="/>
-		<POI MapID="1211" xpos="-546.211" ypos="161.908" zpos="-176.796" type="crystal.highlands.collectibles.hiddencarrot" GUID="8ERvlGDyKk+l4fyTe4GWdQ=="/>
-		<POI MapID="1211" xpos="-564.638" ypos="35.3539" zpos="-359.961" type="crystal.highlands.collectibles.hiddencarrot" GUID="DTuPwB1h7ke9kxG3YhGTeQ=="/>
-		<POI MapID="1211" xpos="-296.136" ypos="199.716" zpos="-217.091" type="crystal.highlands.collectibles.hiddencarrot" GUID="v3J3PCEfv0+vn+pCPqW5ww=="/>
-		<POI MapID="1211" xpos="-329.289" ypos="4.09864" zpos="-480.382" type="crystal.highlands.collectibles.hiddencarrot" GUID="vK5Ht/7wn0qwFPs9Ojf7Ww=="/>
-		<POI MapID="1211" xpos="-406.8" ypos="86.7472" zpos="-180.579" type="crystal.highlands.collectibles.hiddencarrot" GUID="LB1tIitZi0WkdGklkt6xkg=="/>
-		<POI MapID="1211" xpos="-416.49" ypos="22.1695" zpos="-386.115" type="crystal.highlands.collectibles.hiddencarrot" GUID="BkP193R620OFCrTouQdmUw=="/>
-		<POI MapID="1211" xpos="-443.785" ypos="39.5598" zpos="-690.633" type="crystal.highlands.collectibles.hiddencarrot" GUID="OdUL7jequEiNGuWsTQYnSQ=="/>
-		<POI MapID="1211" xpos="-806.728" ypos="3.27711" zpos="-534.866" type="crystal.highlands.collectibles.hiddencarrot" GUID="+md9dK9tCEGfSCHRkWMgsQ=="/>
-
-		<POI MapID="1211" xpos="-964.728" ypos="496.838" zpos="-260.426" type="crystal.highlands.collectibles.remnants" GUID="8uBp/CiwikS6pNgoV51bGw=="/>
-		<POI MapID="1211" xpos="-97.2262" ypos="264.574" zpos="393.753" type="crystal.highlands.collectibles.remnants" GUID="rdxxXmUtckCA1yMQXetw0A=="/>
-		<POI MapID="1211" xpos="1196.32" ypos="74.429" zpos="-416.113" type="crystal.highlands.collectibles.remnants" GUID="Kgc6xUXIGU+JkAJfEetfhA=="/>
-		<POI MapID="1211" xpos="1264.87" ypos="231.418" zpos="478.747" type="crystal.highlands.collectibles.remnants" GUID="gj0mX8hZ9EG4OkHAP8OWdg=="/>
-		<POI MapID="1211" xpos="1403.19" ypos="246.506" zpos="-12.6954" type="crystal.highlands.collectibles.remnants" GUID="prhsCQqILE6lhOkZm7sWKg=="/>
-		<POI MapID="1211" xpos="1403.64" ypos="240.882" zpos="193.179" type="crystal.highlands.collectibles.remnants" GUID="UH1lAXXED0iJ21L41fjY8Q=="/>
-		<POI MapID="1211" xpos="-448.529" ypos="5.48806" zpos="-571.777" type="crystal.highlands.collectibles.remnants" GUID="3KK+qYgELUCFuh/oKAJtMQ=="/>
-		<POI MapID="1211" xpos="-451.484" ypos="63.6169" zpos="-684.137" type="crystal.highlands.collectibles.remnants" GUID="NodCKpkF3Eer43bvFUa4cA=="/>
-		<POI MapID="1211" xpos="-34.138" ypos="463.697" zpos="-189.861" type="crystal.highlands.collectibles.remnants" GUID="LfyiFPr14EaFk5uhmLYVfA=="/>
-		<POI MapID="1211" xpos="-206.812" ypos="275.104" zpos="-159.554" type="crystal.highlands.collectibles.remnants" GUID="XuYBqLqG9EOJ+Lna4gWnaQ=="/>
-		<POI MapID="1211" xpos="-1193.12" ypos="380.442" zpos="383.374" type="crystal.highlands.collectibles.remnants" GUID="dmW4/xHgZUG9RQy4I8GpTw=="/>
-		<POI MapID="1211" xpos="-1255.18" ypos="6.18477" zpos="-527.758" type="crystal.highlands.collectibles.remnants" GUID="ZR/ZWAmlbEqazNAbr/7dKQ=="/>
-		<POI MapID="1211" xpos="-1372.52" ypos="2.59575" zpos="-485.016" type="crystal.highlands.collectibles.remnants" GUID="w7lmJz2jR0WMOD9H3bw+kg=="/>
-		<POI MapID="1211" xpos="207.904" ypos="182.933" zpos="-618.526" type="crystal.highlands.collectibles.remnants" GUID="o97b+Fp4akOdiCDLS+RjEg=="/>
-		<POI MapID="1211" xpos="232.174" ypos="268.512" zpos="461.407" type="crystal.highlands.collectibles.remnants" GUID="MIDGlITxgE2dQY2TP7N3mA=="/>
-		<POI MapID="1211" xpos="433.214" ypos="135.637" zpos="-365.245" type="crystal.highlands.collectibles.remnants" GUID="4eGAUhC80k2Obs8jEJwxeQ=="/>
-		<POI MapID="1211" xpos="548.654" ypos="295.426" zpos="621.256" type="crystal.highlands.collectibles.remnants" GUID="qUIV27PWHESCYzg7qt9qKQ=="/>
-		<POI MapID="1211" xpos="739.162" ypos="203.317" zpos="-14.304" type="crystal.highlands.collectibles.remnants" GUID="VTY4VMSYVUqK0PJPvTXzmg=="/>
-		<POI MapID="1211" xpos="926.148" ypos="206.186" zpos="354.409" type="crystal.highlands.collectibles.remnants" GUID="ZmshXcc4eUmbfvbn7QN3fw=="/>
-		<POI MapID="1211" xpos="-1338.54" ypos="339.571" zpos="464.021" type="crystal.highlands.collectibles.remnants" GUID="1Pkw5hKxkUeRsti+1hlbOA=="/>
-		<POI MapID="1211" xpos="-984.775" ypos="391.717" zpos="542.871" type="crystal.highlands.collectibles.remnants" GUID="gcixOTvvpUyNUQZe2qO7PQ=="/>
-		<POI MapID="1211" xpos="-1298.81" ypos="366.502" zpos="88.7649" type="crystal.highlands.collectibles.remnants" GUID="7HDsuhPEkE2fYTn34qf5bg=="/>
-		<POI MapID="1211" xpos="-1307.78" ypos="185.127" zpos="247.139" type="crystal.highlands.collectibles.remnants" GUID="N2ukvwCGLU6jPChx2Y2t9Q=="/>
-		<POI MapID="1211" xpos="-1227.25" ypos="330.841" zpos="-162.995" type="crystal.highlands.collectibles.remnants" GUID="xikjZvQFUUGo7vyo/TtEbQ=="/>
-
-		<POI MapID="1211" xpos="1249.54" ypos="184.941" zpos="482.393" type="crystal.highlands.collectibles.vlast" GUID="aZspIBgLDkakWPiusO36eg=="/>
-		<POI MapID="1211" xpos="467.76" ypos="288.903" zpos="588.629" type="crystal.highlands.collectibles.vlast" GUID="xHKaCOTlNkeuqLUMqJEVGA=="/>
-		<POI MapID="1211" xpos="-482.539" ypos="279.026" zpos="-19.4394" type="crystal.highlands.collectibles.vlast" GUID="gtQF5NITTUqXDjUuYKeCZQ=="/>
-		<POI MapID="1211" xpos="-1294.11" ypos="434.532" zpos="313.47" type="crystal.highlands.collectibles.vlast" GUID="qBOHbE+RfUC+WgeX0H2noA=="/>
-		<POI MapID="1211" xpos="-1239.5" ypos="277.49" zpos="157.244" type="crystal.highlands.collectibles.vlast" GUID="DdpqKjF9OUSZrEYtfzdhWQ=="/>
-		<POI MapID="1211" xpos="-172.141" ypos="248.772" zpos="-352.922" type="crystal.highlands.collectibles.vlast" GUID="lrhPrt7YPkSvOVhmI2rlHw=="/>
-		<POI MapID="1211" xpos="-701.247" ypos="194.25" zpos="-250.574" type="crystal.highlands.collectibles.vlast" GUID="8tFUR8nZ7UKRas+MajgS0g=="/>
+		<POI MapID="1211" xpos="-1148.37" ypos="324.069" zpos="226.114" type="crystal.highlands.bowl" GUID="WuQXav8y0EqGwElbUz2ECg==" />
+		<POI MapID="1211" xpos="-547.249" ypos="325.409" zpos="644.184" type="crystal.highlands.heirloom" GUID="CiQx+HE100ud0DnghEJEAw==" />
+		<POI MapID="1211" xpos="-461.586" ypos="65.0528" zpos="-273.037" type="crystal.highlands.dance" GUID="EZVVmdVgh0u1yqgl65alLQ==" />
+		<POI MapID="1211" xpos="-63.535" ypos="462.227" zpos="-227.87" type="crystal.highlands.lights" GUID="dKOll4j1VEe46YCfhR3j/w==" />
+		<POI MapID="1211" xpos="-110.011" ypos="251.576" zpos="406.034" type="crystal.highlands.collectibles.carrot" GUID="j2edO53DME+iDCAfg+olow==" />
+		<POI MapID="1211" xpos="-119.518" ypos="308.771" zpos="373.666" type="crystal.highlands.collectibles.carrot" GUID="fRoMfIEcXUyDEdK74N/SBA==" />
+		<POI MapID="1211" xpos="-136.866" ypos="267.67" zpos="283.485" type="crystal.highlands.collectibles.carrot" GUID="yh6jpBmWj0Wzy3cZ8r/S3Q==" />
+		<POI MapID="1211" xpos="-146.709" ypos="354.417" zpos="595.756" type="crystal.highlands.collectibles.carrot" GUID="o2spzSfInkebG3ajK/03IA==" />
+		<POI MapID="1211" xpos="-154.285" ypos="283.746" zpos="587.436" type="crystal.highlands.collectibles.carrot" GUID="hGrDqZdR10ORdB5cWjmcpA==" />
+		<POI MapID="1211" xpos="-158.368" ypos="248.77" zpos="388.197" type="crystal.highlands.collectibles.carrot" GUID="EYKE6Y887kGwyuR8Jsaliw==" />
+		<POI MapID="1211" xpos="-159.407" ypos="284.459" zpos="505.666" type="crystal.highlands.collectibles.carrot" GUID="Wbnu4NOuhEyNR4tE5BVwyw==" />
+		<POI MapID="1211" xpos="-161.352" ypos="242.173" zpos="309.092" type="crystal.highlands.collectibles.carrot" GUID="o5aFd+0VbUeQaIMk8qlmYg==" />
+		<POI MapID="1211" xpos="-170.528" ypos="243.795" zpos="347.089" type="crystal.highlands.collectibles.carrot" GUID="OSjuFVujaEi0xnALLtuDNQ==" />
+		<POI MapID="1211" xpos="-197.715" ypos="251.215" zpos="386.168" type="crystal.highlands.collectibles.carrot" GUID="msB97gF5ZUuh7syPpfhG4g==" />
+		<POI MapID="1211" xpos="-209.082" ypos="261.225" zpos="520.377" type="crystal.highlands.collectibles.carrot" GUID="OfT18LsnwUSePuqrEf8lyQ==" />
+		<POI MapID="1211" xpos="-214.817" ypos="270.004" zpos="422.519" type="crystal.highlands.collectibles.carrot" GUID="l3W6O0nv2EmCTkoz4DUc3Q==" />
+		<POI MapID="1211" xpos="-221.324" ypos="234.012" zpos="295.944" type="crystal.highlands.collectibles.carrot" GUID="IxXgn6BPHEi/tpCBAeTqVw==" />
+		<POI MapID="1211" xpos="-225.865" ypos="260.488" zpos="444.673" type="crystal.highlands.collectibles.carrot" GUID="rQkJei3p20ygk6Pr5DpXWA==" />
+		<POI MapID="1211" xpos="-230.373" ypos="227.062" zpos="256.095" type="crystal.highlands.collectibles.carrot" GUID="JfsobkgGrUGVL5e7lTps8Q==" />
+		<POI MapID="1211" xpos="-235.748" ypos="310.808" zpos="429.174" type="crystal.highlands.collectibles.carrot" GUID="1aFgjFsFN0K1K9oIxvMi1g==" />
+		<POI MapID="1211" xpos="-254.816" ypos="297.121" zpos="292.789" type="crystal.highlands.collectibles.carrot" GUID="+ZPu7ZNI40WqlCku5UdavQ==" />
+		<POI MapID="1211" xpos="-258.268" ypos="213.448" zpos="193.113" type="crystal.highlands.collectibles.carrot" GUID="2M0fMwxOgkipGnccG8rTMg==" />
+		<POI MapID="1211" xpos="-272.238" ypos="225.947" zpos="336.197" type="crystal.highlands.collectibles.carrot" GUID="P73wIMdQS0erjQXRawCenA==" />
+		<POI MapID="1211" xpos="-277.343" ypos="326.561" zpos="387.019" type="crystal.highlands.collectibles.carrot" GUID="GZMt32/tN0qPyxDAWOCnVA==" />
+		<POI MapID="1211" xpos="-284.301" ypos="255.176" zpos="400.742" type="crystal.highlands.collectibles.carrot" GUID="QuWLDXeW1Umng1PeNYq5Rw==" />
+		<POI MapID="1211" xpos="-297.421" ypos="250.612" zpos="447.118" type="crystal.highlands.collectibles.carrot" GUID="iAE8fuguRUSNLFkftoywag==" />
+		<POI MapID="1211" xpos="-308.46" ypos="238.129" zpos="384.836" type="crystal.highlands.collectibles.carrot" GUID="+Dw+aMnLIUSZxIji/7stOQ==" />
+		<POI MapID="1211" xpos="-38.1129" ypos="230.929" zpos="352.663" type="crystal.highlands.collectibles.carrot" GUID="0UAe+m04EkeUIvTNvu0VLA==" />
+		<POI MapID="1211" xpos="-42.8153" ypos="291.99" zpos="427.688" type="crystal.highlands.collectibles.carrot" GUID="9z6vdFsObUu/Ull5wzSlbQ==" />
+		<POI MapID="1211" xpos="-53.2811" ypos="279.521" zpos="507.714" type="crystal.highlands.collectibles.carrot" GUID="fZks29eir0qHjR825T7RsA==" />
+		<POI MapID="1211" xpos="-55.4652" ypos="265.344" zpos="403.158" type="crystal.highlands.collectibles.carrot" GUID="dYUyPYXMIEGr5eLdZlH4hw==" />
+		<POI MapID="1211" xpos="-63.5166" ypos="337.836" zpos="572.97" type="crystal.highlands.collectibles.carrot" GUID="OdcOYAOUkkyyBHHScaQCyA==" />
+		<POI MapID="1211" xpos="-68.7061" ypos="218.71" zpos="266.487" type="crystal.highlands.collectibles.carrot" GUID="gPY2K2i95Eqhp0glE1FrgA==" />
+		<POI MapID="1211" xpos="-7.41663" ypos="242.496" zpos="254.91" type="crystal.highlands.collectibles.carrot" GUID="MLjpxPywKkG6JpabnDI6NA==" />
+		<POI MapID="1211" xpos="113.505" ypos="331.664" zpos="527.051" type="crystal.highlands.collectibles.carrot" GUID="mKs4nZoGbkyuVsUq2alH3g==" />
+		<POI MapID="1211" xpos="73.3364" ypos="311.786" zpos="443.738" type="crystal.highlands.collectibles.carrot" GUID="cKT24NfqSUWKtgZwRnLxrw==" />
+		<POI MapID="1211" xpos="-689.369" ypos="36.5033" zpos="-370.595" type="crystal.highlands.collectibles.hiddencarrot" GUID="Bu1f163L5karmmOEZbdkIA==" />
+		<POI MapID="1211" xpos="-541.332" ypos="0.449809" zpos="-694.513" type="crystal.highlands.collectibles.hiddencarrot" GUID="5ywM7G2gZU2bhpZweBusfQ==" />
+		<POI MapID="1211" xpos="-546.211" ypos="161.908" zpos="-176.796" type="crystal.highlands.collectibles.hiddencarrot" GUID="8ERvlGDyKk+l4fyTe4GWdQ==" />
+		<POI MapID="1211" xpos="-564.638" ypos="35.3539" zpos="-359.961" type="crystal.highlands.collectibles.hiddencarrot" GUID="DTuPwB1h7ke9kxG3YhGTeQ==" />
+		<POI MapID="1211" xpos="-296.136" ypos="199.716" zpos="-217.091" type="crystal.highlands.collectibles.hiddencarrot" GUID="v3J3PCEfv0+vn+pCPqW5ww==" />
+		<POI MapID="1211" xpos="-329.289" ypos="4.09864" zpos="-480.382" type="crystal.highlands.collectibles.hiddencarrot" GUID="vK5Ht/7wn0qwFPs9Ojf7Ww==" />
+		<POI MapID="1211" xpos="-406.8" ypos="86.7472" zpos="-180.579" type="crystal.highlands.collectibles.hiddencarrot" GUID="LB1tIitZi0WkdGklkt6xkg==" />
+		<POI MapID="1211" xpos="-416.49" ypos="22.1695" zpos="-386.115" type="crystal.highlands.collectibles.hiddencarrot" GUID="BkP193R620OFCrTouQdmUw==" />
+		<POI MapID="1211" xpos="-443.785" ypos="39.5598" zpos="-690.633" type="crystal.highlands.collectibles.hiddencarrot" GUID="OdUL7jequEiNGuWsTQYnSQ==" />
+		<POI MapID="1211" xpos="-806.728" ypos="3.27711" zpos="-534.866" type="crystal.highlands.collectibles.hiddencarrot" GUID="+md9dK9tCEGfSCHRkWMgsQ==" />
+		<POI MapID="1211" xpos="-964.728" ypos="496.838" zpos="-260.426" type="crystal.highlands.collectibles.remnants" GUID="8uBp/CiwikS6pNgoV51bGw==" />
+		<POI MapID="1211" xpos="-97.2262" ypos="264.574" zpos="393.753" type="crystal.highlands.collectibles.remnants" GUID="rdxxXmUtckCA1yMQXetw0A==" />
+		<POI MapID="1211" xpos="1196.32" ypos="74.429" zpos="-416.113" type="crystal.highlands.collectibles.remnants" GUID="Kgc6xUXIGU+JkAJfEetfhA==" />
+		<POI MapID="1211" xpos="1264.87" ypos="231.418" zpos="478.747" type="crystal.highlands.collectibles.remnants" GUID="gj0mX8hZ9EG4OkHAP8OWdg==" />
+		<POI MapID="1211" xpos="1403.19" ypos="246.506" zpos="-12.6954" type="crystal.highlands.collectibles.remnants" GUID="prhsCQqILE6lhOkZm7sWKg==" />
+		<POI MapID="1211" xpos="1403.64" ypos="240.882" zpos="193.179" type="crystal.highlands.collectibles.remnants" GUID="UH1lAXXED0iJ21L41fjY8Q==" />
+		<POI MapID="1211" xpos="-448.529" ypos="5.48806" zpos="-571.777" type="crystal.highlands.collectibles.remnants" GUID="3KK+qYgELUCFuh/oKAJtMQ==" />
+		<POI MapID="1211" xpos="-451.484" ypos="63.6169" zpos="-684.137" type="crystal.highlands.collectibles.remnants" GUID="NodCKpkF3Eer43bvFUa4cA==" />
+		<POI MapID="1211" xpos="-34.138" ypos="463.697" zpos="-189.861" type="crystal.highlands.collectibles.remnants" GUID="LfyiFPr14EaFk5uhmLYVfA==" />
+		<POI MapID="1211" xpos="-206.812" ypos="275.104" zpos="-159.554" type="crystal.highlands.collectibles.remnants" GUID="XuYBqLqG9EOJ+Lna4gWnaQ==" />
+		<POI MapID="1211" xpos="-1193.12" ypos="380.442" zpos="383.374" type="crystal.highlands.collectibles.remnants" GUID="dmW4/xHgZUG9RQy4I8GpTw==" />
+		<POI MapID="1211" xpos="-1255.18" ypos="6.18477" zpos="-527.758" type="crystal.highlands.collectibles.remnants" GUID="ZR/ZWAmlbEqazNAbr/7dKQ==" />
+		<POI MapID="1211" xpos="-1372.52" ypos="2.59575" zpos="-485.016" type="crystal.highlands.collectibles.remnants" GUID="w7lmJz2jR0WMOD9H3bw+kg==" />
+		<POI MapID="1211" xpos="207.904" ypos="182.933" zpos="-618.526" type="crystal.highlands.collectibles.remnants" GUID="o97b+Fp4akOdiCDLS+RjEg==" />
+		<POI MapID="1211" xpos="232.174" ypos="268.512" zpos="461.407" type="crystal.highlands.collectibles.remnants" GUID="MIDGlITxgE2dQY2TP7N3mA==" />
+		<POI MapID="1211" xpos="433.214" ypos="135.637" zpos="-365.245" type="crystal.highlands.collectibles.remnants" GUID="4eGAUhC80k2Obs8jEJwxeQ==" />
+		<POI MapID="1211" xpos="548.654" ypos="295.426" zpos="621.256" type="crystal.highlands.collectibles.remnants" GUID="qUIV27PWHESCYzg7qt9qKQ==" />
+		<POI MapID="1211" xpos="739.162" ypos="203.317" zpos="-14.304" type="crystal.highlands.collectibles.remnants" GUID="VTY4VMSYVUqK0PJPvTXzmg==" />
+		<POI MapID="1211" xpos="926.148" ypos="206.186" zpos="354.409" type="crystal.highlands.collectibles.remnants" GUID="ZmshXcc4eUmbfvbn7QN3fw==" />
+		<POI MapID="1211" xpos="-1338.54" ypos="339.571" zpos="464.021" type="crystal.highlands.collectibles.remnants" GUID="1Pkw5hKxkUeRsti+1hlbOA==" />
+		<POI MapID="1211" xpos="-984.775" ypos="391.717" zpos="542.871" type="crystal.highlands.collectibles.remnants" GUID="gcixOTvvpUyNUQZe2qO7PQ==" />
+		<POI MapID="1211" xpos="-1298.81" ypos="366.502" zpos="88.7649" type="crystal.highlands.collectibles.remnants" GUID="7HDsuhPEkE2fYTn34qf5bg==" />
+		<POI MapID="1211" xpos="-1307.78" ypos="185.127" zpos="247.139" type="crystal.highlands.collectibles.remnants" GUID="N2ukvwCGLU6jPChx2Y2t9Q==" />
+		<POI MapID="1211" xpos="-1227.25" ypos="330.841" zpos="-162.995" type="crystal.highlands.collectibles.remnants" GUID="xikjZvQFUUGo7vyo/TtEbQ==" />
+		<POI MapID="1211" xpos="1249.54" ypos="184.941" zpos="482.393" type="crystal.highlands.collectibles.vlast" GUID="aZspIBgLDkakWPiusO36eg==" />
+		<POI MapID="1211" xpos="467.76" ypos="288.903" zpos="588.629" type="crystal.highlands.collectibles.vlast" GUID="xHKaCOTlNkeuqLUMqJEVGA==" />
+		<POI MapID="1211" xpos="-482.539" ypos="279.026" zpos="-19.4394" type="crystal.highlands.collectibles.vlast" GUID="gtQF5NITTUqXDjUuYKeCZQ==" />
+		<POI MapID="1211" xpos="-1294.11" ypos="434.532" zpos="313.47" type="crystal.highlands.collectibles.vlast" GUID="qBOHbE+RfUC+WgeX0H2noA==" />
+		<POI MapID="1211" xpos="-1239.5" ypos="277.49" zpos="157.244" type="crystal.highlands.collectibles.vlast" GUID="DdpqKjF9OUSZrEYtfzdhWQ==" />
+		<POI MapID="1211" xpos="-172.141" ypos="248.772" zpos="-352.922" type="crystal.highlands.collectibles.vlast" GUID="lrhPrt7YPkSvOVhmI2rlHw==" />
+		<POI MapID="1211" xpos="-701.247" ypos="194.25" zpos="-250.574" type="crystal.highlands.collectibles.vlast" GUID="8tFUR8nZ7UKRas+MajgS0g==" />
 	</POIs>
 </OverlayData>

@@ -1,186 +1,131 @@
 <!-- 2020.06.06 -->
 <OverlayData>
 	<POIs>
-
 		<!-- COPPER -->
-
 		<!-- IRON -->
-		<POI MapID="1310" xpos="53.687"  ypos="337.206" zpos="365.529" type="harvest.ore.iron" GUID="RFr8WL1ms0GLHnZvR0YIEg=="/>
-		<POI MapID="1310" xpos="57.4306" ypos="333.512" zpos="364.803" type="harvest.ore.iron" GUID="OaeSXsLvxUWm0hyfVncdbQ=="/>
-		<POI MapID="1310" xpos="87.6589" ypos="326.826" zpos="246.449" type="harvest.ore.iron" GUID="PQ4RvdJpqE6PBiouviL8nQ=="/>
-		<POI MapID="1310" xpos="89.6981" ypos="331.468" zpos="272.496" type="harvest.ore.iron" GUID="My7aIa5DXU6kIbvfzvNXPw=="/>
-		<POI MapID="1310" xpos="94.9309" ypos="307.521" zpos="309.613" type="harvest.ore.iron" GUID="0tgjW0zRiUWt2z7He/Kd1w=="/>
-		<POI MapID="1310" xpos="97.977"  ypos="327.307" zpos="263.387" type="harvest.ore.iron" GUID="D7Rn1XrPtUKuKAStq6D3FQ=="/>
-		<POI MapID="1310" xpos="104.077" ypos="296.752" zpos="290.168" type="harvest.ore.iron" GUID="WQVD+aoOOEG8+j7IXmzHbg=="/>
-		<POI MapID="1310" xpos="109.614" ypos="303.744" zpos="303.488" type="harvest.ore.iron" GUID="9KhvdAqfKk+vUuwk+qdddQ=="/>
-
+		<POI MapID="1310" xpos="53.687" ypos="337.206" zpos="365.529" type="harvest.ore.iron" GUID="RFr8WL1ms0GLHnZvR0YIEg==" />
+		<POI MapID="1310" xpos="57.4306" ypos="333.512" zpos="364.803" type="harvest.ore.iron" GUID="OaeSXsLvxUWm0hyfVncdbQ==" />
+		<POI MapID="1310" xpos="87.6589" ypos="326.826" zpos="246.449" type="harvest.ore.iron" GUID="PQ4RvdJpqE6PBiouviL8nQ==" />
+		<POI MapID="1310" xpos="89.6981" ypos="331.468" zpos="272.496" type="harvest.ore.iron" GUID="My7aIa5DXU6kIbvfzvNXPw==" />
+		<POI MapID="1310" xpos="94.9309" ypos="307.521" zpos="309.613" type="harvest.ore.iron" GUID="0tgjW0zRiUWt2z7He/Kd1w==" />
+		<POI MapID="1310" xpos="97.977" ypos="327.307" zpos="263.387" type="harvest.ore.iron" GUID="D7Rn1XrPtUKuKAStq6D3FQ==" />
+		<POI MapID="1310" xpos="104.077" ypos="296.752" zpos="290.168" type="harvest.ore.iron" GUID="WQVD+aoOOEG8+j7IXmzHbg==" />
+		<POI MapID="1310" xpos="109.614" ypos="303.744" zpos="303.488" type="harvest.ore.iron" GUID="9KhvdAqfKk+vUuwk+qdddQ==" />
 		<!-- SILVER -->
-
 		<!-- GOLD -->
-
 		<!-- PLATINUM -->
-		<POI MapID="1310" xpos="-581.268" ypos="366.901" zpos="50.3695"  type="harvest.ore.platinum" GUID="8YLnzig/b0W4t1GSPLrwJw=="/>
-		<POI MapID="1310" xpos="-580.192" ypos="374.056" zpos="90.0657"  type="harvest.ore.platinum" GUID="FyRl9FT9ikCEkYZ1BtgzzA=="/>
-		<POI MapID="1310" xpos="-579.498" ypos="380.792" zpos="79.8434"  type="harvest.ore.platinum" GUID="/txosg3cIUmSJ3PtUk2P9A=="/>
-		<POI MapID="1310" xpos="-571.656" ypos="361.562" zpos="15.3274"  type="harvest.ore.platinum" GUID="9giDvjH/DU2lGGVKjsKkYQ=="/>
-		<POI MapID="1310" xpos="-565.256" ypos="362.386" zpos="43.2767"  type="harvest.ore.platinum" GUID="qDGQ+fkgSEeHATaPv2t4Eg=="/>
-		<POI MapID="1310" xpos="-558.74"  ypos="381.088" zpos="-13.9117" type="harvest.ore.platinum" GUID="FegUEB9RUkOX/HtV7UeBJA=="/>
-		<POI MapID="1310" xpos="-554.221" ypos="364.898" zpos="-6.72819" type="harvest.ore.platinum" GUID="ccqL8FnFhUWufSU+KlILdw=="/>
-
+		<POI MapID="1310" xpos="-581.268" ypos="366.901" zpos="50.3695" type="harvest.ore.platinum" GUID="8YLnzig/b0W4t1GSPLrwJw==" />
+		<POI MapID="1310" xpos="-580.192" ypos="374.056" zpos="90.0657" type="harvest.ore.platinum" GUID="FyRl9FT9ikCEkYZ1BtgzzA==" />
+		<POI MapID="1310" xpos="-579.498" ypos="380.792" zpos="79.8434" type="harvest.ore.platinum" GUID="/txosg3cIUmSJ3PtUk2P9A==" />
+		<POI MapID="1310" xpos="-571.656" ypos="361.562" zpos="15.3274" type="harvest.ore.platinum" GUID="9giDvjH/DU2lGGVKjsKkYQ==" />
+		<POI MapID="1310" xpos="-565.256" ypos="362.386" zpos="43.2767" type="harvest.ore.platinum" GUID="qDGQ+fkgSEeHATaPv2t4Eg==" />
+		<POI MapID="1310" xpos="-558.74" ypos="381.088" zpos="-13.9117" type="harvest.ore.platinum" GUID="FegUEB9RUkOX/HtV7UeBJA==" />
+		<POI MapID="1310" xpos="-554.221" ypos="364.898" zpos="-6.72819" type="harvest.ore.platinum" GUID="ccqL8FnFhUWufSU+KlILdw==" />
 		<!-- MITHRIL -->
-		<POI MapID="1371" xpos="-542.622" ypos="234.294" zpos="-921.984" type="harvest.ore.mithril" GUID="XGjA+LRwRES8vxzHmVlrcg=="/>
-
+		<POI MapID="1371" xpos="-542.622" ypos="234.294" zpos="-921.984" type="harvest.ore.mithril" GUID="XGjA+LRwRES8vxzHmVlrcg==" />
 		<!-- ORICHALCUM -->
-		<POI MapID="873"  xpos="-229.052" ypos="170.222" zpos="220.258" type="harvest.ore.orichalcum" GUID="ibBVZ21NM06LyyXHd3zFTg=="/>
-
-		<POI MapID="1043" xpos="612.64"   ypos="274.524" zpos="48.3121" type="harvest.ore.orichalcum" GUID="TeY+DkGN2kSOM5b0v8sV/A=="/>
-
+		<POI MapID="873" xpos="-229.052" ypos="170.222" zpos="220.258" type="harvest.ore.orichalcum" GUID="ibBVZ21NM06LyyXHd3zFTg==" />
+		<POI MapID="1043" xpos="612.64" ypos="274.524" zpos="48.3121" type="harvest.ore.orichalcum" GUID="TeY+DkGN2kSOM5b0v8sV/A==" />
 		<!-- QUARTZ -->
-		<POI MapID="988" xpos="295.364" ypos="81.729"  zpos="-456.181" type="harvest.ore.quartz" GUID="BqTlgqfZOUqwKMDqFVTrMw=="/>
-		<POI MapID="988" xpos="310.993" ypos="48.1839" zpos="-408.066" type="harvest.ore.quartz" GUID="sNIYcDH1jU6jwjTerqMDZQ=="/>
-
-	<!-- ######### -->
-
+		<POI MapID="988" xpos="295.364" ypos="81.729" zpos="-456.181" type="harvest.ore.quartz" GUID="BqTlgqfZOUqwKMDqFVTrMw==" />
+		<POI MapID="988" xpos="310.993" ypos="48.1839" zpos="-408.066" type="harvest.ore.quartz" GUID="sNIYcDH1jU6jwjTerqMDZQ==" />
+		<!-- ######### -->
 		<!-- RICH COPPER -->
-		<POI MapID="15" xpos="70.586"   ypos="24.6428" zpos="-106.618" type="harvest.ore.copper.rich" GUID="qefQ3Qi3t0WWKchLmzU6Cw=="/>
-		<POI MapID="15" xpos="687.874"  ypos="60.4291" zpos="-642.499" type="harvest.ore.copper.rich" GUID="fpk/4vFX7UGtBTrIm6PI+A=="/>
-
-		<POI MapID="19" xpos="-831.513" ypos="59.0054" zpos="-471.432" type="harvest.ore.copper.rich" GUID="bCk4HH1g9US6b+0BoTxyIQ=="/>
-		<POI MapID="19" xpos="251.932"  ypos="-15.077" zpos="-336.054" type="harvest.ore.copper.rich" GUID="EEPYU9NZn0yP4Kdylgduaw=="/>
-
-		<POI MapID="34" xpos="-228.348" ypos="1.75729" zpos="1215.23"  type="harvest.ore.copper.rich" GUID="pkMdwgzrcUWTRdjnB453hw=="/>
-		<POI MapID="34" xpos="-7.69527" ypos="11.539"  zpos="375.824"  type="harvest.ore.copper.rich" GUID="OJ929lxt+UW17L59Fm4JrA=="/>
-
+		<POI MapID="15" xpos="70.586" ypos="24.6428" zpos="-106.618" type="harvest.ore.copper.rich" GUID="qefQ3Qi3t0WWKchLmzU6Cw==" />
+		<POI MapID="15" xpos="687.874" ypos="60.4291" zpos="-642.499" type="harvest.ore.copper.rich" GUID="fpk/4vFX7UGtBTrIm6PI+A==" />
+		<POI MapID="19" xpos="-831.513" ypos="59.0054" zpos="-471.432" type="harvest.ore.copper.rich" GUID="bCk4HH1g9US6b+0BoTxyIQ==" />
+		<POI MapID="19" xpos="251.932" ypos="-15.077" zpos="-336.054" type="harvest.ore.copper.rich" GUID="EEPYU9NZn0yP4Kdylgduaw==" />
+		<POI MapID="34" xpos="-228.348" ypos="1.75729" zpos="1215.23" type="harvest.ore.copper.rich" GUID="pkMdwgzrcUWTRdjnB453hw==" />
+		<POI MapID="34" xpos="-7.69527" ypos="11.539" zpos="375.824" type="harvest.ore.copper.rich" GUID="OJ929lxt+UW17L59Fm4JrA==" />
 		<!-- RICH IRON -->
-		<POI MapID="17" xpos="-869.914" ypos="131.818" zpos="-140.505" type="harvest.ore.iron.rich" GUID="gk1L6U3z10K5IzCjODYp7w=="/>
-
-		<POI MapID="20" xpos="578.926"  ypos="9.21015" zpos="-490.874" type="harvest.ore.iron.rich" GUID="50YL+hmfmke8O4rRfPzlTQ=="/>
-
-		<POI MapID="21" xpos="-759.73"  ypos="44.11"   zpos="265.71"   type="harvest.ore.iron.rich" GUID="muCj4NCwvkC3ijyYY1JZaw=="/>
-
-		<POI MapID="23" xpos="-1102.32" ypos="43.3713" zpos="23.9304"  type="harvest.ore.iron.rich" GUID="MiplY+HUn0erDstDpRtw2g=="/>
-		<POI MapID="23" xpos="761.713"  ypos="21.4116" zpos="-289.833" type="harvest.ore.iron.rich" GUID="mrpnwtTkTkenyIZkYB68OQ=="/>
-		<POI MapID="23" xpos="796.209"  ypos="35.3172" zpos="-518.984" type="harvest.ore.iron.rich" GUID="5t71Ji0n2Uiyku0v3Xggcg=="/>
-
-		<POI MapID="24" xpos="-1162.07" ypos="37.8193" zpos="-14.982"  type="harvest.ore.iron.rich" GUID="qNLbPPIiaUWlnxSWomJW8g=="/>
-		<POI MapID="24" xpos="885.215"  ypos="65.1938" zpos="-432.424" type="harvest.ore.iron.rich" GUID="FnIWNbEq6Ei6ZCBgEiMoRw=="/>
-
-		<POI MapID="26" xpos="-148.39"  ypos="41.0655" zpos="550.149"  type="harvest.ore.iron.rich" GUID="ANt1UkmHIUup1nMva2xjUw=="/>
-
-		<POI MapID="27" xpos="-128.531" ypos="126.587" zpos="1401.59"  type="harvest.ore.iron.rich" GUID="nzkZEKpTkEGXcqYydlWSJw=="/>
-		<POI MapID="27" xpos="421.161"  ypos="140.416" zpos="106.932"  type="harvest.ore.iron.rich" GUID="OHFhNWS1VkC+bsIQKBlkAg=="/>
-
-		<POI MapID="31" xpos="733.189"  ypos="38.7099" zpos="-96.7205" type="harvest.ore.iron.rich" GUID="/Uxsa0x6oEW3y9JbIK+ncg=="/>
-
-		<POI MapID="32" xpos="-966.848" ypos="94.2479" zpos="-196.959" type="harvest.ore.iron.rich" GUID="0sCMDxalrkOhAihUq29c2Q=="/>
-
-		<POI MapID="54" xpos="-746.437" ypos="36.1168" zpos="506.274"  type="harvest.ore.iron.rich" GUID="/B9kpo+yZUenloNKJTwSGw=="/>
-
+		<POI MapID="17" xpos="-869.914" ypos="131.818" zpos="-140.505" type="harvest.ore.iron.rich" GUID="gk1L6U3z10K5IzCjODYp7w==" />
+		<POI MapID="20" xpos="578.926" ypos="9.21015" zpos="-490.874" type="harvest.ore.iron.rich" GUID="50YL+hmfmke8O4rRfPzlTQ==" />
+		<POI MapID="21" xpos="-759.73" ypos="44.11" zpos="265.71" type="harvest.ore.iron.rich" GUID="muCj4NCwvkC3ijyYY1JZaw==" />
+		<POI MapID="23" xpos="-1102.32" ypos="43.3713" zpos="23.9304" type="harvest.ore.iron.rich" GUID="MiplY+HUn0erDstDpRtw2g==" />
+		<POI MapID="23" xpos="761.713" ypos="21.4116" zpos="-289.833" type="harvest.ore.iron.rich" GUID="mrpnwtTkTkenyIZkYB68OQ==" />
+		<POI MapID="23" xpos="796.209" ypos="35.3172" zpos="-518.984" type="harvest.ore.iron.rich" GUID="5t71Ji0n2Uiyku0v3Xggcg==" />
+		<POI MapID="24" xpos="-1162.07" ypos="37.8193" zpos="-14.982" type="harvest.ore.iron.rich" GUID="qNLbPPIiaUWlnxSWomJW8g==" />
+		<POI MapID="24" xpos="885.215" ypos="65.1938" zpos="-432.424" type="harvest.ore.iron.rich" GUID="FnIWNbEq6Ei6ZCBgEiMoRw==" />
+		<POI MapID="26" xpos="-148.39" ypos="41.0655" zpos="550.149" type="harvest.ore.iron.rich" GUID="ANt1UkmHIUup1nMva2xjUw==" />
+		<POI MapID="27" xpos="-128.531" ypos="126.587" zpos="1401.59" type="harvest.ore.iron.rich" GUID="nzkZEKpTkEGXcqYydlWSJw==" />
+		<POI MapID="27" xpos="421.161" ypos="140.416" zpos="106.932" type="harvest.ore.iron.rich" GUID="OHFhNWS1VkC+bsIQKBlkAg==" />
+		<POI MapID="31" xpos="733.189" ypos="38.7099" zpos="-96.7205" type="harvest.ore.iron.rich" GUID="/Uxsa0x6oEW3y9JbIK+ncg==" />
+		<POI MapID="32" xpos="-966.848" ypos="94.2479" zpos="-196.959" type="harvest.ore.iron.rich" GUID="0sCMDxalrkOhAihUq29c2Q==" />
+		<POI MapID="54" xpos="-746.437" ypos="36.1168" zpos="506.274" type="harvest.ore.iron.rich" GUID="/B9kpo+yZUenloNKJTwSGw==" />
 		<!-- RICH SILVER -->
-		<POI MapID="21" xpos="544.459"  ypos="6.17759" zpos="819.969"  type="harvest.ore.silver.rich" GUID="iGewwR6hEEOBSfm99zsazg=="/>
-
-		<POI MapID="23" xpos="-1102.32" ypos="45.3713" zpos="23.9304"  type="harvest.ore.silver.rich" GUID="gWhxLRLlx0aIg0LMjwxMlA=="/>
-		<POI MapID="23" xpos="761.713"  ypos="23.4116" zpos="-289.833" type="harvest.ore.silver.rich" GUID="uP9dUZN0K0uVNZkIJkb8wQ=="/>
-
-		<POI MapID="24" xpos="587.114"  ypos="41.7531" zpos="-555.428" type="harvest.ore.silver.rich" GUID="iIVg9eYWSEaV5BCmucgv4g=="/>
-		<POI MapID="24" xpos="1167.87"  ypos="78.0132" zpos="-502.487" type="harvest.ore.silver.rich" GUID="n5woIlyd0k2bKUAi3Gt5mQ=="/>
-
-		<POI MapID="27" xpos="-519.121" ypos="83.0987" zpos="641.836"  type="harvest.ore.silver.rich" GUID="FtLPm+/6p0iJuNzYRtLm2A=="/>
-
-		<POI MapID="31" xpos="-355.498" ypos="72.0531" zpos="-327.976" type="harvest.ore.silver.rich" GUID="36SRMdxepk6fS6LNDBKYzg=="/>
-		<POI MapID="31" xpos="-62.1092" ypos="16.516"  zpos="-269.737" type="harvest.ore.silver.rich" GUID="K/3hlXOuGkqCoWajeX8RnQ=="/>
-
-		<POI MapID="32" xpos="-35.1901" ypos="-7.7815" zpos="170.078"  type="harvest.ore.silver.rich" GUID="NqDC9q3v4UGtzw75EQ9VJA=="/>
-
-		<POI MapID="54" xpos="-367.353" ypos="27.1462" zpos="694.734"  type="harvest.ore.silver.rich" GUID="avfLFh2K1EWvs5wwBK9u1g=="/>
-
+		<POI MapID="21" xpos="544.459" ypos="6.17759" zpos="819.969" type="harvest.ore.silver.rich" GUID="iGewwR6hEEOBSfm99zsazg==" />
+		<POI MapID="23" xpos="-1102.32" ypos="45.3713" zpos="23.9304" type="harvest.ore.silver.rich" GUID="gWhxLRLlx0aIg0LMjwxMlA==" />
+		<POI MapID="23" xpos="761.713" ypos="23.4116" zpos="-289.833" type="harvest.ore.silver.rich" GUID="uP9dUZN0K0uVNZkIJkb8wQ==" />
+		<POI MapID="24" xpos="587.114" ypos="41.7531" zpos="-555.428" type="harvest.ore.silver.rich" GUID="iIVg9eYWSEaV5BCmucgv4g==" />
+		<POI MapID="24" xpos="1167.87" ypos="78.0132" zpos="-502.487" type="harvest.ore.silver.rich" GUID="n5woIlyd0k2bKUAi3Gt5mQ==" />
+		<POI MapID="27" xpos="-519.121" ypos="83.0987" zpos="641.836" type="harvest.ore.silver.rich" GUID="FtLPm+/6p0iJuNzYRtLm2A==" />
+		<POI MapID="31" xpos="-355.498" ypos="72.0531" zpos="-327.976" type="harvest.ore.silver.rich" GUID="36SRMdxepk6fS6LNDBKYzg==" />
+		<POI MapID="31" xpos="-62.1092" ypos="16.516" zpos="-269.737" type="harvest.ore.silver.rich" GUID="K/3hlXOuGkqCoWajeX8RnQ==" />
+		<POI MapID="32" xpos="-35.1901" ypos="-7.7815" zpos="170.078" type="harvest.ore.silver.rich" GUID="NqDC9q3v4UGtzw75EQ9VJA==" />
+		<POI MapID="54" xpos="-367.353" ypos="27.1462" zpos="694.734" type="harvest.ore.silver.rich" GUID="avfLFh2K1EWvs5wwBK9u1g==" />
 		<!-- RICH GOLD -->
-		<POI MapID="17" xpos="-284.351" ypos="21.0113" zpos="167.657"  type="harvest.ore.gold.rich" GUID="xFbL/B306kKramHj3TM1fA=="/>
-		<POI MapID="17" xpos="949.757"  ypos="185.921" zpos="591.171"  type="harvest.ore.gold.rich" GUID="vJ+ZcgHna0aaxgdrs0NZ0A=="/>
-
-		<POI MapID="20" xpos="-524.557" ypos="70.9481" zpos="685.321"  type="harvest.ore.gold.rich" GUID="2C3Xnphtk0yA80TIlYqfDA=="/>
-		<POI MapID="20" xpos="559.355"  ypos="49.3326" zpos="1174.08"  type="harvest.ore.gold.rich" GUID="/LiNMKuoikiG9YUhmUjnZQ=="/>
-
-		<POI MapID="21" xpos="879.928"  ypos="17.9268" zpos="271.004"  type="harvest.ore.gold.rich" GUID="5+FQn7vFOE6v4ZOHA2mGrQ=="/>
-
-		<POI MapID="26" xpos="-478.825" ypos="92.8629" zpos="140.366"  type="harvest.ore.gold.rich" GUID="hLQHv1e1O0WUmywuwb/53w=="/>
-		<POI MapID="26" xpos="-329.855" ypos="118.204" zpos="-345.9"   type="harvest.ore.gold.rich" GUID="HxyvsefkbkG4nzcQuDSpnQ=="/>
-
-		<POI MapID="27" xpos="-395.973" ypos="59.6615" zpos="-1364.34" type="harvest.ore.gold.rich" GUID="REkZpWJKJEuLoN/2ifa/ag=="/>
-
+		<POI MapID="17" xpos="-284.351" ypos="21.0113" zpos="167.657" type="harvest.ore.gold.rich" GUID="xFbL/B306kKramHj3TM1fA==" />
+		<POI MapID="17" xpos="949.757" ypos="185.921" zpos="591.171" type="harvest.ore.gold.rich" GUID="vJ+ZcgHna0aaxgdrs0NZ0A==" />
+		<POI MapID="20" xpos="-524.557" ypos="70.9481" zpos="685.321" type="harvest.ore.gold.rich" GUID="2C3Xnphtk0yA80TIlYqfDA==" />
+		<POI MapID="20" xpos="559.355" ypos="49.3326" zpos="1174.08" type="harvest.ore.gold.rich" GUID="/LiNMKuoikiG9YUhmUjnZQ==" />
+		<POI MapID="21" xpos="879.928" ypos="17.9268" zpos="271.004" type="harvest.ore.gold.rich" GUID="5+FQn7vFOE6v4ZOHA2mGrQ==" />
+		<POI MapID="26" xpos="-478.825" ypos="92.8629" zpos="140.366" type="harvest.ore.gold.rich" GUID="hLQHv1e1O0WUmywuwb/53w==" />
+		<POI MapID="26" xpos="-329.855" ypos="118.204" zpos="-345.9" type="harvest.ore.gold.rich" GUID="HxyvsefkbkG4nzcQuDSpnQ==" />
+		<POI MapID="27" xpos="-395.973" ypos="59.6615" zpos="-1364.34" type="harvest.ore.gold.rich" GUID="REkZpWJKJEuLoN/2ifa/ag==" />
 		<!-- RICH PLATINUM -->
-		<POI MapID="22" xpos="-483.911" ypos="60.2078"  zpos="311.21"   type="harvest.ore.platinum.rich" GUID="jeE3286iiEWDpvjyJ4Z3dQ=="/>
-		<POI MapID="22" xpos="382.319"  ypos="26.4397"  zpos="-616.293" type="harvest.ore.platinum.rich" GUID="/U9xuTPkWUu1Em6IeReYqQ=="/>
-		<POI MapID="22" xpos="891.469"  ypos="44.3114"  zpos="4.16448"  type="harvest.ore.platinum.rich" GUID="325T4EYCdkGCcUXF6khxNQ=="/>
-
-		<POI MapID="25" xpos="-249.069" ypos="21.2665"  zpos="1124.82"  type="harvest.ore.platinum.rich" GUID="IVDazclabEOT4zMvfq9lrg=="/>
-		<POI MapID="25" xpos="283.784"  ypos="-27.4235" zpos="-845.802" type="harvest.ore.platinum.rich" GUID="XFsqYBZOU0+GoD6j4BKGiw=="/>
-		<POI MapID="25" xpos="563.567"  ypos="0.772861" zpos="1164.66"  type="harvest.ore.platinum.rich" GUID="bstFkzxLXU2GQH3Ccfh59Q=="/>
-
-		<POI MapID="29" xpos="-566.11"  ypos="1.38405"  zpos="358.282"  type="harvest.ore.platinum.rich" GUID="xpj9L//O4U2jd8mfKwgYtA=="/>
-		<POI MapID="29" xpos="453.245"  ypos="21.2024"  zpos="842.986"  type="harvest.ore.platinum.rich" GUID="uCQ6WG/nRku9tI3S43DH9g=="/>
-		<POI MapID="29" xpos="616.004"  ypos="24.1499"  zpos="910.217"  type="harvest.ore.platinum.rich" GUID="CrPibjCnVECwO9/BEha4tg=="/>
-		<POI MapID="29" xpos="669.948"  ypos="26.8301"  zpos="1008.06"  type="harvest.ore.platinum.rich" GUID="W4Udn++6/EKq5zeKZ0mvbg=="/>
-		<POI MapID="29" xpos="685.546"  ypos="34.1298"  zpos="-546.086" type="harvest.ore.platinum.rich" GUID="0XjrAqQBUUW4wXuJI98LJw=="/>
-
-		<POI MapID="39" xpos="-1084.14" ypos="64.0676"  zpos="176.582"  type="harvest.ore.platinum.rich" GUID="3/HqJX2+HEu3B7PTaSZfzw=="/>
-		<POI MapID="39" xpos="-1076.95" ypos="56.5449"  zpos="304.654"  type="harvest.ore.platinum.rich" GUID="HKaDxVk5FEWFqyhg+06+Eg=="/>
-		<POI MapID="39" xpos="745.056"  ypos="-40.8854" zpos="92.2397"  type="harvest.ore.platinum.rich" GUID="RCcSYtTVK06dgdV7oWa7Hg=="/>
-
-		<POI MapID="53" xpos="-541.22"  ypos="51.4636"  zpos="289.722"  type="harvest.ore.platinum.rich" GUID="RUcxsRUqaUaNPedrFtCH/w=="/>
-		<POI MapID="53" xpos="-352.669" ypos="-15.4025" zpos="-227.001" type="harvest.ore.platinum.rich" GUID="8k8/53qE6kupjmv5UyCTLw=="/>
-		<POI MapID="53" xpos="476.394"  ypos="71.0057"  zpos="228.228"  type="harvest.ore.platinum.rich" GUID="cWhbEybthUm2psUfuGwylg=="/>
-
-		<POI MapID="73" xpos="27.8035"  ypos="74.8872"  zpos="-406.118" type="harvest.ore.platinum.rich" GUID="71WQWCjMxkSOPvfLgWwv5w=="/>
-
+		<POI MapID="22" xpos="-483.911" ypos="60.2078" zpos="311.21" type="harvest.ore.platinum.rich" GUID="jeE3286iiEWDpvjyJ4Z3dQ==" />
+		<POI MapID="22" xpos="382.319" ypos="26.4397" zpos="-616.293" type="harvest.ore.platinum.rich" GUID="/U9xuTPkWUu1Em6IeReYqQ==" />
+		<POI MapID="22" xpos="891.469" ypos="44.3114" zpos="4.16448" type="harvest.ore.platinum.rich" GUID="325T4EYCdkGCcUXF6khxNQ==" />
+		<POI MapID="25" xpos="-249.069" ypos="21.2665" zpos="1124.82" type="harvest.ore.platinum.rich" GUID="IVDazclabEOT4zMvfq9lrg==" />
+		<POI MapID="25" xpos="283.784" ypos="-27.4235" zpos="-845.802" type="harvest.ore.platinum.rich" GUID="XFsqYBZOU0+GoD6j4BKGiw==" />
+		<POI MapID="25" xpos="563.567" ypos="0.772861" zpos="1164.66" type="harvest.ore.platinum.rich" GUID="bstFkzxLXU2GQH3Ccfh59Q==" />
+		<POI MapID="29" xpos="-566.11" ypos="1.38405" zpos="358.282" type="harvest.ore.platinum.rich" GUID="xpj9L//O4U2jd8mfKwgYtA==" />
+		<POI MapID="29" xpos="453.245" ypos="21.2024" zpos="842.986" type="harvest.ore.platinum.rich" GUID="uCQ6WG/nRku9tI3S43DH9g==" />
+		<POI MapID="29" xpos="616.004" ypos="24.1499" zpos="910.217" type="harvest.ore.platinum.rich" GUID="CrPibjCnVECwO9/BEha4tg==" />
+		<POI MapID="29" xpos="669.948" ypos="26.8301" zpos="1008.06" type="harvest.ore.platinum.rich" GUID="W4Udn++6/EKq5zeKZ0mvbg==" />
+		<POI MapID="29" xpos="685.546" ypos="34.1298" zpos="-546.086" type="harvest.ore.platinum.rich" GUID="0XjrAqQBUUW4wXuJI98LJw==" />
+		<POI MapID="39" xpos="-1084.14" ypos="64.0676" zpos="176.582" type="harvest.ore.platinum.rich" GUID="3/HqJX2+HEu3B7PTaSZfzw==" />
+		<POI MapID="39" xpos="-1076.95" ypos="56.5449" zpos="304.654" type="harvest.ore.platinum.rich" GUID="HKaDxVk5FEWFqyhg+06+Eg==" />
+		<POI MapID="39" xpos="745.056" ypos="-40.8854" zpos="92.2397" type="harvest.ore.platinum.rich" GUID="RCcSYtTVK06dgdV7oWa7Hg==" />
+		<POI MapID="53" xpos="-541.22" ypos="51.4636" zpos="289.722" type="harvest.ore.platinum.rich" GUID="RUcxsRUqaUaNPedrFtCH/w==" />
+		<POI MapID="53" xpos="-352.669" ypos="-15.4025" zpos="-227.001" type="harvest.ore.platinum.rich" GUID="8k8/53qE6kupjmv5UyCTLw==" />
+		<POI MapID="53" xpos="476.394" ypos="71.0057" zpos="228.228" type="harvest.ore.platinum.rich" GUID="cWhbEybthUm2psUfuGwylg==" />
+		<POI MapID="73" xpos="27.8035" ypos="74.8872" zpos="-406.118" type="harvest.ore.platinum.rich" GUID="71WQWCjMxkSOPvfLgWwv5w==" />
 		<!-- RICH MITHRIL -->
-		<POI MapID="30"   xpos="-564.659" ypos="-127.367" zpos="-629.017" type="harvest.ore.mithril.rich" GUID="VS0Gp4wAO0KRZRZkWmy6Dg=="/>
-		<POI MapID="30"   xpos="-507.671" ypos="-133.528" zpos="-230.454" type="harvest.ore.mithril.rich" GUID="DD66qfRSDkynUsKy12ipVw=="/>
-		<POI MapID="30"   xpos="-48.7564" ypos="-55.1613" zpos="170.858"  type="harvest.ore.mithril.rich" GUID="gQqTsjAwE06ez8dWwu43Tg=="/>
-
-		<POI MapID="39"   xpos="388.329"  ypos="-141.632" zpos="-45.1813" type="harvest.ore.mithril.rich" GUID="ZC6yXPOQfU2nCT57ZS82AA=="/>
-
-		<POI MapID="51"   xpos="-652.897" ypos="-136.823" zpos="663.898"  type="harvest.ore.mithril.rich" GUID="BE+EKYxmo0qC3KPhKN+V4w=="/>
-		<POI MapID="51"   xpos="-562.571" ypos="114.212"  zpos="-511.43"  type="harvest.ore.mithril.rich" GUID="bV9RkGMfbkSIC9mQkPsc0g=="/>
-		<POI MapID="51"   xpos="469.022"  ypos="-92.5443" zpos="-1.16759" type="harvest.ore.mithril.rich" GUID="xksObNnddkiasbiKbMvi+w=="/>
-
-		<POI MapID="62"   xpos="-489.132" ypos="-91.0644" zpos="28.2905"  type="harvest.ore.mithril.rich" GUID="lXZ1RD7H1kuHLX7CFyhEaQ=="/>
-		<POI MapID="62"   xpos="-448.958" ypos="-102.603" zpos="28.1369"  type="harvest.ore.mithril.rich" GUID="QPEwHQVQ8kaTRB9fe+oA9w=="/>
-		<POI MapID="62"   xpos="-262.167" ypos="-69.1017" zpos="-117.587" type="harvest.ore.mithril.rich" GUID="ufNeU+jFdkKr1uxOX6A20w=="/>
-		<POI MapID="62"   xpos="319.191"  ypos="-43.46"   zpos="-1145.43" type="harvest.ore.mithril.rich" GUID="0laATfzhEUWNZFUO6247Xg=="/>
-
-		<POI MapID="65"   xpos="-839.416" ypos="9.02904"  zpos="158.546"  type="harvest.ore.mithril.rich" GUID="mGbY7IMcZ0qDDy/DShIxPg=="/>
-		<POI MapID="65"   xpos="1122.19"  ypos="16.0634"  zpos="451.326"  type="harvest.ore.mithril.rich" GUID="Pky3lWZrvUut1rFYkuSLJw=="/>
-
-		<POI MapID="1165" xpos="-328.863" ypos="119.894"  zpos="-56.6411" type="harvest.ore.mithril.rich" GUID="a4uZMVSesE+DweGiPD4ccw=="/>
-
-		<POI MapID="1175" xpos="118.907"  ypos="37.0825"  zpos="26.0327"  type="harvest.ore.mithril.rich" GUID="aVrmWlH/zkSubjLdhjxeLA=="/>
-
-		<POI MapID="1178" xpos="-392.113" ypos="36.231"   zpos="-91.7576" type="harvest.ore.mithril.rich" GUID="cLmyT4Fopkin4FWRD1wVSA=="/>
-
-		<POI MapID="1330" xpos="-543.819" ypos="52.2439" zpos="35.4801"  type="harvest.ore.mithril.rich" GUID="nngWk3K/Z06rAozJ2THtNw=="/>
-		<POI MapID="1330" xpos="-448.232" ypos="73.3225" zpos="440.256"  type="harvest.ore.mithril.rich" GUID="RJ3Bk8P49kur4siGcbCTLw=="/>
-		<POI MapID="1330" xpos="-261.293" ypos="2.06955" zpos="-649.22"  type="harvest.ore.mithril.rich" GUID="JmXUuUS8xkey0e2NLR0ZLA=="/>
-		<POI MapID="1330" xpos="-237.364" ypos="24.6932" zpos="-695.524" type="harvest.ore.mithril.rich" GUID="cVQcYqLSKk6e4tY7YDPV5w=="/>
-		<POI MapID="1330" xpos="-91.393"  ypos="1.5127"  zpos="725.976"  type="harvest.ore.mithril.rich" GUID="gJHiSEfnmkeHu5jaiZRY4A=="/>
-		<POI MapID="1330" xpos="82.2116"  ypos="140.133" zpos="448.659"  type="harvest.ore.mithril.rich" GUID="l/rcJV/wdkmL+P2Q7+NNZQ=="/>
-		<POI MapID="1330" xpos="487.191"  ypos="-6.2025" zpos="-74.4322" type="harvest.ore.mithril.rich" GUID="dHT3TPHT20G7iB9DSflJ+g=="/>
-		<POI MapID="1330" xpos="782.645"  ypos="42.4329" zpos="-374.327" type="harvest.ore.mithril.rich" GUID="IR6132ak8UiYT4LJFEVbpw=="/>
-		<POI MapID="1330" xpos="831.801"  ypos="18.7077" zpos="152.296"  type="harvest.ore.mithril.rich" GUID="uSvZNZVGl0KBlYdsMVbykg=="/>
-		<POI MapID="1330" xpos="915.269"  ypos="5.57003" zpos="-258.863" type="harvest.ore.mithril.rich" GUID="KC8ViLrgPkmpU8KMkSpFkA=="/>
-
-		<POI MapID="1371" xpos="-542.622" ypos="233.294" zpos="-921.984" type="harvest.ore.mithril.rich" GUID="bFEv7nklVkuKjogHgFWxuw=="/>
-		<POI MapID="1371" xpos="-392.718" ypos="226.404" zpos="-1002.8"  type="harvest.ore.mithril.rich" GUID="hewegU7YCEywSxXG8WT3hg=="/>
-
+		<POI MapID="30" xpos="-564.659" ypos="-127.367" zpos="-629.017" type="harvest.ore.mithril.rich" GUID="VS0Gp4wAO0KRZRZkWmy6Dg==" />
+		<POI MapID="30" xpos="-507.671" ypos="-133.528" zpos="-230.454" type="harvest.ore.mithril.rich" GUID="DD66qfRSDkynUsKy12ipVw==" />
+		<POI MapID="30" xpos="-48.7564" ypos="-55.1613" zpos="170.858" type="harvest.ore.mithril.rich" GUID="gQqTsjAwE06ez8dWwu43Tg==" />
+		<POI MapID="39" xpos="388.329" ypos="-141.632" zpos="-45.1813" type="harvest.ore.mithril.rich" GUID="ZC6yXPOQfU2nCT57ZS82AA==" />
+		<POI MapID="51" xpos="-652.897" ypos="-136.823" zpos="663.898" type="harvest.ore.mithril.rich" GUID="BE+EKYxmo0qC3KPhKN+V4w==" />
+		<POI MapID="51" xpos="-562.571" ypos="114.212" zpos="-511.43" type="harvest.ore.mithril.rich" GUID="bV9RkGMfbkSIC9mQkPsc0g==" />
+		<POI MapID="51" xpos="469.022" ypos="-92.5443" zpos="-1.16759" type="harvest.ore.mithril.rich" GUID="xksObNnddkiasbiKbMvi+w==" />
+		<POI MapID="62" xpos="-489.132" ypos="-91.0644" zpos="28.2905" type="harvest.ore.mithril.rich" GUID="lXZ1RD7H1kuHLX7CFyhEaQ==" />
+		<POI MapID="62" xpos="-448.958" ypos="-102.603" zpos="28.1369" type="harvest.ore.mithril.rich" GUID="QPEwHQVQ8kaTRB9fe+oA9w==" />
+		<POI MapID="62" xpos="-262.167" ypos="-69.1017" zpos="-117.587" type="harvest.ore.mithril.rich" GUID="ufNeU+jFdkKr1uxOX6A20w==" />
+		<POI MapID="62" xpos="319.191" ypos="-43.46" zpos="-1145.43" type="harvest.ore.mithril.rich" GUID="0laATfzhEUWNZFUO6247Xg==" />
+		<POI MapID="65" xpos="-839.416" ypos="9.02904" zpos="158.546" type="harvest.ore.mithril.rich" GUID="mGbY7IMcZ0qDDy/DShIxPg==" />
+		<POI MapID="65" xpos="1122.19" ypos="16.0634" zpos="451.326" type="harvest.ore.mithril.rich" GUID="Pky3lWZrvUut1rFYkuSLJw==" />
+		<POI MapID="1165" xpos="-328.863" ypos="119.894" zpos="-56.6411" type="harvest.ore.mithril.rich" GUID="a4uZMVSesE+DweGiPD4ccw==" />
+		<POI MapID="1175" xpos="118.907" ypos="37.0825" zpos="26.0327" type="harvest.ore.mithril.rich" GUID="aVrmWlH/zkSubjLdhjxeLA==" />
+		<POI MapID="1178" xpos="-392.113" ypos="36.231" zpos="-91.7576" type="harvest.ore.mithril.rich" GUID="cLmyT4Fopkin4FWRD1wVSA==" />
+		<POI MapID="1330" xpos="-543.819" ypos="52.2439" zpos="35.4801" type="harvest.ore.mithril.rich" GUID="nngWk3K/Z06rAozJ2THtNw==" />
+		<POI MapID="1330" xpos="-448.232" ypos="73.3225" zpos="440.256" type="harvest.ore.mithril.rich" GUID="RJ3Bk8P49kur4siGcbCTLw==" />
+		<POI MapID="1330" xpos="-261.293" ypos="2.06955" zpos="-649.22" type="harvest.ore.mithril.rich" GUID="JmXUuUS8xkey0e2NLR0ZLA==" />
+		<POI MapID="1330" xpos="-237.364" ypos="24.6932" zpos="-695.524" type="harvest.ore.mithril.rich" GUID="cVQcYqLSKk6e4tY7YDPV5w==" />
+		<POI MapID="1330" xpos="-91.393" ypos="1.5127" zpos="725.976" type="harvest.ore.mithril.rich" GUID="gJHiSEfnmkeHu5jaiZRY4A==" />
+		<POI MapID="1330" xpos="82.2116" ypos="140.133" zpos="448.659" type="harvest.ore.mithril.rich" GUID="l/rcJV/wdkmL+P2Q7+NNZQ==" />
+		<POI MapID="1330" xpos="487.191" ypos="-6.2025" zpos="-74.4322" type="harvest.ore.mithril.rich" GUID="dHT3TPHT20G7iB9DSflJ+g==" />
+		<POI MapID="1330" xpos="782.645" ypos="42.4329" zpos="-374.327" type="harvest.ore.mithril.rich" GUID="IR6132ak8UiYT4LJFEVbpw==" />
+		<POI MapID="1330" xpos="831.801" ypos="18.7077" zpos="152.296" type="harvest.ore.mithril.rich" GUID="uSvZNZVGl0KBlYdsMVbykg==" />
+		<POI MapID="1330" xpos="915.269" ypos="5.57003" zpos="-258.863" type="harvest.ore.mithril.rich" GUID="KC8ViLrgPkmpU8KMkSpFkA==" />
+		<POI MapID="1371" xpos="-542.622" ypos="233.294" zpos="-921.984" type="harvest.ore.mithril.rich" GUID="bFEv7nklVkuKjogHgFWxuw==" />
+		<POI MapID="1371" xpos="-392.718" ypos="226.404" zpos="-1002.8" type="harvest.ore.mithril.rich" GUID="hewegU7YCEywSxXG8WT3hg==" />
 		<!-- RICH ORICHALCUM -->
-		<POI MapID="1310" xpos="-372.476" ypos="347.518" zpos="-151.922" type="harvest.ore.orichalcum.rich" GUID="sKL8xZOXUUieb3b5uHEMwA=="/>
-		<POI MapID="1310" xpos="142.839"  ypos="114.741" zpos="-671.201" type="harvest.ore.orichalcum.rich" GUID="tNJh1FiolE6IY+CZcORB/w=="/>
-
-		<POI MapID="1330" xpos="82.2116"  ypos="140.133" zpos="448.659"  type="harvest.ore.orichalcum.rich" GUID="l/rcJV/wdkmL+P2Q7+NNZQ=="/>
-		<POI MapID="1330" xpos="782.645"  ypos="42.4329" zpos="-374.327" type="harvest.ore.orichalcum.rich" GUID="IR6132ak8UiYT4LJFEVbpw=="/>
-
+		<POI MapID="1310" xpos="-372.476" ypos="347.518" zpos="-151.922" type="harvest.ore.orichalcum.rich" GUID="sKL8xZOXUUieb3b5uHEMwA==" />
+		<POI MapID="1310" xpos="142.839" ypos="114.741" zpos="-671.201" type="harvest.ore.orichalcum.rich" GUID="tNJh1FiolE6IY+CZcORB/w==" />
+		<POI MapID="1330" xpos="82.2116" ypos="140.133" zpos="448.659" type="harvest.ore.orichalcum.rich" GUID="l/rcJV/wdkmL+P2Q7+NNZQ==" />
+		<POI MapID="1330" xpos="782.645" ypos="42.4329" zpos="-374.327" type="harvest.ore.orichalcum.rich" GUID="IR6132ak8UiYT4LJFEVbpw==" />
 		<!-- RICH QUARTZ -->
-		<POI MapID="988"  xpos="-204.073" ypos="83.2905" zpos="-565.383" type="harvest.ore.quartz.rich" GUID="2txV0euSakWaalsKyftPqg=="/>
-
+		<POI MapID="988" xpos="-204.073" ypos="83.2905" zpos="-565.383" type="harvest.ore.quartz.rich" GUID="2txV0euSakWaalsKyftPqg==" />
 	</POIs>
 </OverlayData>

@@ -1,350 +1,359 @@
 <!-- 2020.06.25 -->
 <OverlayData>
 	<POIs>
-
 		<!-- COURTLY SERVICE -->
-		<POI MapID="866" xpos="5.95499" ypos="225.394" zpos="-2.53697" type="festivals.courtly_service" GUID="mFt88S0XbU6W0fmTu0QOGA=="/>
-
+		<POI MapID="866" xpos="5.95499" ypos="225.394" zpos="-2.53697" type="festivals.courtly_service" GUID="mFt88S0XbU6W0fmTu0QOGA==" />
 		<!-- CHAMPION OF THE LABYRINTH -->
-		<POI MapID="866" xpos="-129.911" ypos="176.245" zpos="125.365"  type="festivals.champion_of_the_labyrinth" GUID="1RP+ZfI7I0Safk2CRDjqeQ=="/>
-		<POI MapID="866" xpos="-91.5329" ypos="177.841" zpos="138.133"  type="festivals.champion_of_the_labyrinth" GUID="5zYcBZcE70GEuExhDNMMpw=="/>
-		<POI MapID="866" xpos="-27.9093" ypos="175.841" zpos="-162.791" type="festivals.champion_of_the_labyrinth" GUID="lCUDW8BDv0uwF6iSXlHemw=="/>
-		<POI MapID="866" xpos="120.087"  ypos="177.326" zpos="-21.5605" type="festivals.champion_of_the_labyrinth" GUID="CPaTAqfW/UOndfAoJVVsGg=="/>
-		<POI MapID="866" xpos="142.142"  ypos="177.982" zpos="-112.821" type="festivals.champion_of_the_labyrinth" GUID="lNoNor3leUGz+qfA/GrxrQ=="/>
-
+		<POI MapID="866" xpos="-129.911" ypos="176.245" zpos="125.365" type="festivals.champion_of_the_labyrinth" GUID="1RP+ZfI7I0Safk2CRDjqeQ==" />
+		<POI MapID="866" xpos="-91.5329" ypos="177.841" zpos="138.133" type="festivals.champion_of_the_labyrinth" GUID="5zYcBZcE70GEuExhDNMMpw==" />
+		<POI MapID="866" xpos="-27.9093" ypos="175.841" zpos="-162.791" type="festivals.champion_of_the_labyrinth" GUID="lCUDW8BDv0uwF6iSXlHemw==" />
+		<POI MapID="866" xpos="120.087" ypos="177.326" zpos="-21.5605" type="festivals.champion_of_the_labyrinth" GUID="CPaTAqfW/UOndfAoJVVsGg==" />
+		<POI MapID="866" xpos="142.142" ypos="177.982" zpos="-112.821" type="festivals.champion_of_the_labyrinth" GUID="lNoNor3leUGz+qfA/GrxrQ==" />
 		<!-- NEW AFTERLIFE FOR QUAGGAN -->
-		<POI MapID="50" xpos="-118.556" ypos="23.3385" zpos="396.273" type="festivals.new_afterlife_for_quaggan" GUID="C6J7C3ASR0qS5+o7TfB4uw=="/>
-
+		<POI MapID="50" xpos="-118.556" ypos="23.3385" zpos="396.273" type="festivals.new_afterlife_for_quaggan" GUID="C6J7C3ASR0qS5+o7TfB4uw==" />
 		<!-- MAD KING'S HERALD-IN-TRAINING -->
-		<POI MapID="866" xpos="9.34213" ypos="192.854" zpos="60.1947" type="festivals.mad_king_s_herald_in_training" GUID="Tly2u4JouE2Vtvp2n2tuLg=="/>
-
+		<POI MapID="866" xpos="9.34213" ypos="192.854" zpos="60.1947" type="festivals.mad_king_s_herald_in_training" GUID="Tly2u4JouE2Vtvp2n2tuLg==" />
 		<!-- MAD MALEFICENCE -->
-		<!-- 01 -->	<POI MapID="1210" xpos="-836.841" ypos="8.96101" zpos="-209.877" type="festivals.mad_maleficence" GUID="MMLw2XsZFEyyQAjS5+93Dg==" achievementBit="0"/>
+		<!-- 01 -->
+		<POI MapID="1210" xpos="-836.841" ypos="8.96101" zpos="-209.877" type="festivals.mad_maleficence" GUID="MMLw2XsZFEyyQAjS5+93Dg==" achievementBit="0" />
 		<!-- 02 in Palawan Phylactery (kill champion) -->
 		<!-- 03 in Buried Treasure -->
-		<!-- 04 -->	<POI MapID="866"  xpos="41.612"   ypos="196.299" zpos="213.612"  type="festivals.mad_maleficence" GUID="2PQVVdaLtkakxLKHcCJ3yA==" achievementBit="3"/>
-		<!-- 05 -->	<POI MapID="866"  xpos="-224.646" ypos="265.44"  zpos="96.347"   type="festivals.mad_maleficence" GUID="NeSn+KgJyEas1nEZxSrAtQ==" achievementBit="4"/>
-		<!-- 06 -->	<POI MapID="866"  xpos="201.82"   ypos="194.762" zpos="-100.127" type="festivals.mad_maleficence" GUID="0xZTpG7fqkOxf5y9q7DDXw==" achievementBit="5"/>
-		<!-- 07 -->	<POI MapID="1304" xpos="23.9053"  ypos="53.3511" zpos="-103.843" type="festivals.mad_maleficence" GUID="e4zKyuNkGU233wrBi2CfrQ==" achievementBit="6"/>
-		<!-- 08 -->	<POI MapID="1304" xpos="-74.2225" ypos="47.3396" zpos="-134.273" type="festivals.mad_maleficence" GUID="48lpR/5cuE6uL84duUukIA==" achievementBit="7"/>
-		<!-- 09 -->	<POI MapID="1288" xpos="112.197"  ypos="77.9971" zpos="-637.352" type="festivals.mad_maleficence" GUID="VZW6I5GfX0apILlIgt5Iug==" achievementBit="8"/>
-		<!-- 10 -->	<POI MapID="1248" xpos="-764.633" ypos="111.825" zpos="491.59"   type="festivals.mad_maleficence" GUID="mL3aPoXiG0GFBKIvBDprwA==" achievementBit="9"/>
-		<!-- 11 -->	<POI MapID="1248" xpos="70.3478"  ypos="146.682" zpos="-518.295" type="festivals.mad_maleficence" GUID="OKUVl+N+S0OgZMFaV9VPvg==" achievementBit="10"/>
-		<!-- 12 -->	<POI MapID="1228" xpos="364.476"  ypos="13.241"  zpos="-699.099" type="festivals.mad_maleficence" GUID="FNHVWeuc00KMPboa0LQy+g==" achievementBit="11"/>
-		<!-- 13 -->	<POI MapID="1226" xpos="872.925"  ypos="230.19"  zpos="-823.737" type="festivals.mad_maleficence" GUID="j0rtw9IsSkmJNiEcTS0BeA==" achievementBit="12"/>
-
+		<!-- 04 -->
+		<POI MapID="866" xpos="41.612" ypos="196.299" zpos="213.612" type="festivals.mad_maleficence" GUID="2PQVVdaLtkakxLKHcCJ3yA==" achievementBit="3" />
+		<!-- 05 -->
+		<POI MapID="866" xpos="-224.646" ypos="265.44" zpos="96.347" type="festivals.mad_maleficence" GUID="NeSn+KgJyEas1nEZxSrAtQ==" achievementBit="4" />
+		<!-- 06 -->
+		<POI MapID="866" xpos="201.82" ypos="194.762" zpos="-100.127" type="festivals.mad_maleficence" GUID="0xZTpG7fqkOxf5y9q7DDXw==" achievementBit="5" />
+		<!-- 07 -->
+		<POI MapID="1304" xpos="23.9053" ypos="53.3511" zpos="-103.843" type="festivals.mad_maleficence" GUID="e4zKyuNkGU233wrBi2CfrQ==" achievementBit="6" />
+		<!-- 08 -->
+		<POI MapID="1304" xpos="-74.2225" ypos="47.3396" zpos="-134.273" type="festivals.mad_maleficence" GUID="48lpR/5cuE6uL84duUukIA==" achievementBit="7" />
+		<!-- 09 -->
+		<POI MapID="1288" xpos="112.197" ypos="77.9971" zpos="-637.352" type="festivals.mad_maleficence" GUID="VZW6I5GfX0apILlIgt5Iug==" achievementBit="8" />
+		<!-- 10 -->
+		<POI MapID="1248" xpos="-764.633" ypos="111.825" zpos="491.59" type="festivals.mad_maleficence" GUID="mL3aPoXiG0GFBKIvBDprwA==" achievementBit="9" />
+		<!-- 11 -->
+		<POI MapID="1248" xpos="70.3478" ypos="146.682" zpos="-518.295" type="festivals.mad_maleficence" GUID="OKUVl+N+S0OgZMFaV9VPvg==" achievementBit="10" />
+		<!-- 12 -->
+		<POI MapID="1228" xpos="364.476" ypos="13.241" zpos="-699.099" type="festivals.mad_maleficence" GUID="FNHVWeuc00KMPboa0LQy+g==" achievementBit="11" />
+		<!-- 13 -->
+		<POI MapID="1226" xpos="872.925" ypos="230.19" zpos="-823.737" type="festivals.mad_maleficence" GUID="j0rtw9IsSkmJNiEcTS0BeA==" achievementBit="12" />
 		<!-- MAD MEMORIES -->
-		<POI MapID="50" xpos="-85.1051" ypos="23.889" zpos="155.858" type="festivals.mad_memorises" GUID="3j3ZFo+8P0i8MYhwtArtZQ=="/>
-
+		<POI MapID="50" xpos="-85.1051" ypos="23.889" zpos="155.858" type="festivals.mad_memorises" GUID="3j3ZFo+8P0i8MYhwtArtZQ==" />
 		<!-- MAD MYSTERIES -->
-		<!-- 01 -->	<POI MapID="50" xpos="-95.22"   ypos="23.85"    zpos="138.65"  type="festivals.mad_mysteries" GUID="iUHCkenwAEWXz/3QllnPIg==" iconFile="Img/Festivals/ScanEthericField.png"   behavior="3" achievementBit="0"/>
-		<!-- 02 -->	<POI MapID="50" xpos="391.467"  ypos="0.883062" zpos="-4.0176" type="festivals.mad_mysteries" GUID="H303zLZ7vkO2ayRX83Mb3g==" iconFile="Img/Festivals/ScanAqueousField.png"   behavior="3" achievementBit="1"/>
-		<!-- 03 -->	<POI MapID="50" xpos="-361.4"   ypos="-58.44"   zpos="-82.73"  type="festivals.mad_mysteries" GUID="7x1SqGxWjkiaDETR2ZIdBQ==" iconFile="Img/Festivals/ScanEthericField.png"   behavior="3" achievementBit="2"/>
-		<!-- 04 -->	<POI MapID="15" xpos="-139.71"  ypos="56.6309"  zpos="621.415" type="festivals.mad_mysteries" GUID="Ds9naxwVyEaCTcqzMhUm2g==" iconFile="Img/Festivals/ScanGaseousField.png"   behavior="3" achievementBit="3"/>
-		<!-- 05 -->	<POI MapID="23" xpos="1033"     ypos="14.9937"  zpos="514.107" type="festivals.mad_mysteries" GUID="M8D+uDi9TEaRJxHi2VaxAw==" iconFile="Img/Festivals/ScanCorporealField.png" behavior="3" achievementBit="4"/>
-		<!-- 06 -->	<Trail type="festivals.mad_mysteries" GUID="6WcUKX0QT0Ci9bU7wqBMBg==" trailData="Data/Festivals/Halloween/MadMysteries.trl" texture="Data/Arrow.png" color="ff00ff00" alpha="0.7" fadeNear="1500" fadeFar="2000" animSpeed="0" achievementBit="5"/>
-					<POI MapID="24" xpos="-38.6757" ypos="11.9291"  zpos="480.349" type="festivals.mad_mysteries" GUID="VGbq6I4RfEOlpmN+/Ly5YA==" iconFile="Img/Festivals/ScanGaseousField.png"   heightOffset="0" achievementBit="5"/>
-					<POI MapID="24" xpos="43.6696"  ypos="-0.24177" zpos="589.259" type="festivals.mad_mysteries" GUID="7K6bEaNq4EatShKuwWmVXw==" iconFile="Img/Festivals/ScanGaseousField.png"   fadeNear="1300" fadeFar="1500" behavior="3" achievementBit="5"/>
-					<POI MapID="24" xpos="8.66042"  ypos="3.62209"  zpos="515.905" type="festivals.mad_mysteries" GUID="NuiLo3XUkkyPZuNeUfueTg==" iconFile="Img/Icons/Detail.png"                 minSize="8" maxSize="16" fadeNear="1500" fadeFar="2000" mapVisibility="0" miniMapVisibility="0" achievementBit="5"/>
-					<POI MapID="24" xpos="-8.93656" ypos="4.29961"  zpos="533.41"  type="festivals.mad_mysteries" GUID="xwrFAubK70GTttcTMNM58Q==" iconFile="Img/Icons/Detail.png"                 minSize="8" maxSize="16" fadeNear="1500" fadeFar="2000" mapVisibility="0" miniMapVisibility="0" achievementBit="5"/>
-					<POI MapID="24" xpos="-16.9117" ypos="4.09456"  zpos="512.379" type="festivals.mad_mysteries" GUID="7u87HfieDEqAbt8fiqTcyg==" iconFile="Img/Icons/Interaction.png"            minSize="8" maxSize="16" fadeNear="1500" fadeFar="2000" mapVisibility="0" miniMapVisibility="0" achievementBit="5"/>
-					<POI MapID="24" xpos="-27.1643" ypos="4.30881"  zpos="554.828" type="festivals.mad_mysteries" GUID="+gembHaDtEOGxaZhIayYXA==" iconFile="Img/Icons/Interaction.png"            minSize="8" maxSize="16" fadeNear="1500" fadeFar="2000" mapVisibility="0" miniMapVisibility="0" achievementBit="5"/>
-					<POI MapID="24" xpos="50.4208"  ypos="-0.25176" zpos="556.267" type="festivals.mad_mysteries" GUID="LGJ3TYv0xkGlOrAiciGM5g==" iconFile="Img/Icons/Question.png"               minSize="8" maxSize="16" fadeNear="1500" fadeFar="2000" mapVisibility="0" miniMapVisibility="0" heightOffset="3.5" achievementBit="5"/>
-
+		<!-- 01 -->
+		<POI MapID="50" xpos="-95.22" ypos="23.85" zpos="138.65" type="festivals.mad_mysteries" GUID="iUHCkenwAEWXz/3QllnPIg==" iconFile="Img/Festivals/ScanEthericField.png" behavior="3" achievementBit="0" />
+		<!-- 02 -->
+		<POI MapID="50" xpos="391.467" ypos="0.883062" zpos="-4.0176" type="festivals.mad_mysteries" GUID="H303zLZ7vkO2ayRX83Mb3g==" iconFile="Img/Festivals/ScanAqueousField.png" behavior="3" achievementBit="1" />
+		<!-- 03 -->
+		<POI MapID="50" xpos="-361.4" ypos="-58.44" zpos="-82.73" type="festivals.mad_mysteries" GUID="7x1SqGxWjkiaDETR2ZIdBQ==" iconFile="Img/Festivals/ScanEthericField.png" behavior="3" achievementBit="2" />
+		<!-- 04 -->
+		<POI MapID="15" xpos="-139.71" ypos="56.6309" zpos="621.415" type="festivals.mad_mysteries" GUID="Ds9naxwVyEaCTcqzMhUm2g==" iconFile="Img/Festivals/ScanGaseousField.png" behavior="3" achievementBit="3" />
+		<!-- 05 -->
+		<POI MapID="23" xpos="1033" ypos="14.9937" zpos="514.107" type="festivals.mad_mysteries" GUID="M8D+uDi9TEaRJxHi2VaxAw==" iconFile="Img/Festivals/ScanCorporealField.png" behavior="3" achievementBit="4" />
+		<!-- 06 -->
+		<Trail type="festivals.mad_mysteries" GUID="6WcUKX0QT0Ci9bU7wqBMBg==" trailData="Data/Festivals/Halloween/MadMysteries.trl" texture="Data/Arrow.png" color="ff00ff00" alpha="0.7" fadeNear="1500" fadeFar="2000" animSpeed="0" achievementBit="5" />
+		<POI MapID="24" xpos="-38.6757" ypos="11.9291" zpos="480.349" type="festivals.mad_mysteries" GUID="VGbq6I4RfEOlpmN+/Ly5YA==" iconFile="Img/Festivals/ScanGaseousField.png" heightOffset="0" achievementBit="5" />
+		<POI MapID="24" xpos="43.6696" ypos="-0.24177" zpos="589.259" type="festivals.mad_mysteries" GUID="7K6bEaNq4EatShKuwWmVXw==" iconFile="Img/Festivals/ScanGaseousField.png" fadeNear="1300" fadeFar="1500" behavior="3" achievementBit="5" />
+		<POI MapID="24" xpos="8.66042" ypos="3.62209" zpos="515.905" type="festivals.mad_mysteries" GUID="NuiLo3XUkkyPZuNeUfueTg==" iconFile="Img/Icons/Detail.png" minSize="8" maxSize="16" fadeNear="1500" fadeFar="2000" mapVisibility="0" miniMapVisibility="0" achievementBit="5" />
+		<POI MapID="24" xpos="-8.93656" ypos="4.29961" zpos="533.41" type="festivals.mad_mysteries" GUID="xwrFAubK70GTttcTMNM58Q==" iconFile="Img/Icons/Detail.png" minSize="8" maxSize="16" fadeNear="1500" fadeFar="2000" mapVisibility="0" miniMapVisibility="0" achievementBit="5" />
+		<POI MapID="24" xpos="-16.9117" ypos="4.09456" zpos="512.379" type="festivals.mad_mysteries" GUID="7u87HfieDEqAbt8fiqTcyg==" iconFile="Img/Icons/Interaction.png" minSize="8" maxSize="16" fadeNear="1500" fadeFar="2000" mapVisibility="0" miniMapVisibility="0" achievementBit="5" />
+		<POI MapID="24" xpos="-27.1643" ypos="4.30881" zpos="554.828" type="festivals.mad_mysteries" GUID="+gembHaDtEOGxaZhIayYXA==" iconFile="Img/Icons/Interaction.png" minSize="8" maxSize="16" fadeNear="1500" fadeFar="2000" mapVisibility="0" miniMapVisibility="0" achievementBit="5" />
+		<POI MapID="24" xpos="50.4208" ypos="-0.25176" zpos="556.267" type="festivals.mad_mysteries" GUID="LGJ3TYv0xkGlOrAiciGM5g==" iconFile="Img/Icons/Question.png" minSize="8" maxSize="16" fadeNear="1500" fadeFar="2000" mapVisibility="0" miniMapVisibility="0" heightOffset="3.5" achievementBit="5" />
 		<!-- MAD MEMENTOS -->
-		<!-- 07 -->	<POI MapID="24" xpos="-336.261" ypos="52.1104" zpos="130.972" type="festivals.mad_mementos" GUID="mgpgKLGjZk2t18QFt6Ow2w==" iconFile="Img/Festivals/ScanCorporealField.png" behavior="3" achievementBit="0"/>
-					<POI MapID="24" xpos="-336.673" ypos="52.1102" zpos="133.739" type="festivals.mad_mementos" GUID="UnTPc21kXkWeThHSI1dqcw==" iconFile="Img/Icons/Question.png"               minSize="8" maxSize="16" fadeNear="1500" fadeFar="2000" heightOffset="3" mapVisibility="0" miniMapVisibility="0" achievementBit="0"/>
-		<!-- 08 -->	<POI MapID="17" xpos="-878.351" ypos="130.942" zpos="-135.84" type="festivals.mad_mementos" GUID="B8AYQ8uNrUGerA9SU73HDw==" iconFile="Img/Festivals/ScanEthericField.png"   behavior="3" achievementBit="1"/>
-		<!-- 09 -->	<POI MapID="73" xpos="-420.106" ypos="9.88408" zpos="440.78"  type="festivals.mad_mementos" GUID="Lh6d5Hzt1kWEIsrBuOKp6Q==" iconFile="Img/Festivals/ScanAqueousField.png"   behavior="3" achievementBit="2"/>
-					<POI MapID="73" xpos="-418.753" ypos="2.85625" zpos="457.753" type="festivals.mad_mementos" GUID="c++rAWyUJU6mLm2yX3jVjw==" iconFile="Img/Icons/Question.png"               minSize="8" maxSize="16" fadeNear="1500" fadeFar="2000" heightOffset="3" mapVisibility="0" miniMapVisibility="0" achievementBit="2"/>
-		<!-- 10 -->	<POI MapID="17" xpos="-738.793" ypos="28.7861" zpos="292.086" type="festivals.mad_mementos" GUID="HgNFPFUu6UmAcn8K9N7ctg==" iconFile="Img/Festivals/ScanCorporealField.png" heightOffset="1" behavior="3" achievementBit="3"/>
-					<POI MapID="17" xpos="-734.806" ypos="27.9924" zpos="288.882" type="festivals.mad_mementos" GUID="nFSy26VHN0ipUqPfN76LCA==" iconFile="Img/Icons/Question.png"               minSize="8" maxSize="16" fadeNear="1500" fadeFar="2000" mapVisibility="0" miniMapVisibility="0" achievementBit="3"/>
-		<!-- 11 -->	<POI MapID="17" xpos="-469.906" ypos="34.3788" zpos="589.321" type="festivals.mad_mementos" GUID="xJfp0au1XUKDe1+XVNoPcQ==" iconFile="Img/Festivals/ScanGaseousField.png"   behavior="3" achievementBit="4"/>
-					<POI MapID="17" xpos="-403.543" ypos="36.0732" zpos="574.583" type="festivals.mad_mementos" GUID="OAwGVj5C/UqMCnSV6NFjCw==" iconFile="Img/Icons/Question.png"               minSize="8" maxSize="16" fadeNear="1500" fadeFar="2000" mapVisibility="0" miniMapVisibility="0" achievementBit="4"/>
-		<!-- 12 -->	<Trail type="festivals.mad_mementos" GUID="JlXDCg/kyUm9xtVujdkULw==" trailData="Data/Festivals/Halloween/MadMementos.trl" texture="Data/Arrow.png" color="ff00ff00" alpha="0.8" fadeNear="2000" fadeFar="2500" animSpeed="0" achievementBit="5"/>
-					<POI MapID="53" xpos="214.752"  ypos="54.7881" zpos="886.046" type="festivals.mad_mementos" GUID="qIFSMTPFyE2oHg0FD8c1YA==" iconFile="Img/Festivals/ScanEthericField.png"   heightOffset="0" achievementBit="5"/>
-					<POI MapID="53" xpos="250.5"    ypos="-0.4498" zpos="938.905" type="festivals.mad_mementos" GUID="ma+DTPTfyk29+4AfEeuW+A==" iconFile="Img/Festivals/ScanEthericField.png"   fadeNear="1300" fadeFar="1500" behavior="3" achievementBit="5"/>
-					<POI MapID="53" xpos="246.155"  ypos="-0.4425" zpos="939.97"  type="festivals.mad_mementos" GUID="BqtLj1jjJ0enP2SlrdjOxw==" iconFile="Img/Icons/Question.png"               minSize="8" maxSize="16" fadeNear="1500" fadeFar="2000" mapVisibility="0" miniMapVisibility="0" achievementBit="5"/>
-
+		<!-- 07 -->
+		<POI MapID="24" xpos="-336.261" ypos="52.1104" zpos="130.972" type="festivals.mad_mementos" GUID="mgpgKLGjZk2t18QFt6Ow2w==" iconFile="Img/Festivals/ScanCorporealField.png" behavior="3" achievementBit="0" />
+		<POI MapID="24" xpos="-336.673" ypos="52.1102" zpos="133.739" type="festivals.mad_mementos" GUID="UnTPc21kXkWeThHSI1dqcw==" iconFile="Img/Icons/Question.png" minSize="8" maxSize="16" fadeNear="1500" fadeFar="2000" heightOffset="3" mapVisibility="0" miniMapVisibility="0" achievementBit="0" />
+		<!-- 08 -->
+		<POI MapID="17" xpos="-878.351" ypos="130.942" zpos="-135.84" type="festivals.mad_mementos" GUID="B8AYQ8uNrUGerA9SU73HDw==" iconFile="Img/Festivals/ScanEthericField.png" behavior="3" achievementBit="1" />
+		<!-- 09 -->
+		<POI MapID="73" xpos="-420.106" ypos="9.88408" zpos="440.78" type="festivals.mad_mementos" GUID="Lh6d5Hzt1kWEIsrBuOKp6Q==" iconFile="Img/Festivals/ScanAqueousField.png" behavior="3" achievementBit="2" />
+		<POI MapID="73" xpos="-418.753" ypos="2.85625" zpos="457.753" type="festivals.mad_mementos" GUID="c++rAWyUJU6mLm2yX3jVjw==" iconFile="Img/Icons/Question.png" minSize="8" maxSize="16" fadeNear="1500" fadeFar="2000" heightOffset="3" mapVisibility="0" miniMapVisibility="0" achievementBit="2" />
+		<!-- 10 -->
+		<POI MapID="17" xpos="-738.793" ypos="28.7861" zpos="292.086" type="festivals.mad_mementos" GUID="HgNFPFUu6UmAcn8K9N7ctg==" iconFile="Img/Festivals/ScanCorporealField.png" heightOffset="1" behavior="3" achievementBit="3" />
+		<POI MapID="17" xpos="-734.806" ypos="27.9924" zpos="288.882" type="festivals.mad_mementos" GUID="nFSy26VHN0ipUqPfN76LCA==" iconFile="Img/Icons/Question.png" minSize="8" maxSize="16" fadeNear="1500" fadeFar="2000" mapVisibility="0" miniMapVisibility="0" achievementBit="3" />
+		<!-- 11 -->
+		<POI MapID="17" xpos="-469.906" ypos="34.3788" zpos="589.321" type="festivals.mad_mementos" GUID="xJfp0au1XUKDe1+XVNoPcQ==" iconFile="Img/Festivals/ScanGaseousField.png" behavior="3" achievementBit="4" />
+		<POI MapID="17" xpos="-403.543" ypos="36.0732" zpos="574.583" type="festivals.mad_mementos" GUID="OAwGVj5C/UqMCnSV6NFjCw==" iconFile="Img/Icons/Question.png" minSize="8" maxSize="16" fadeNear="1500" fadeFar="2000" mapVisibility="0" miniMapVisibility="0" achievementBit="4" />
+		<!-- 12 -->
+		<Trail type="festivals.mad_mementos" GUID="JlXDCg/kyUm9xtVujdkULw==" trailData="Data/Festivals/Halloween/MadMementos.trl" texture="Data/Arrow.png" color="ff00ff00" alpha="0.8" fadeNear="2000" fadeFar="2500" animSpeed="0" achievementBit="5" />
+		<POI MapID="53" xpos="214.752" ypos="54.7881" zpos="886.046" type="festivals.mad_mementos" GUID="qIFSMTPFyE2oHg0FD8c1YA==" iconFile="Img/Festivals/ScanEthericField.png" heightOffset="0" achievementBit="5" />
+		<POI MapID="53" xpos="250.5" ypos="-0.4498" zpos="938.905" type="festivals.mad_mementos" GUID="ma+DTPTfyk29+4AfEeuW+A==" iconFile="Img/Festivals/ScanEthericField.png" fadeNear="1300" fadeFar="1500" behavior="3" achievementBit="5" />
+		<POI MapID="53" xpos="246.155" ypos="-0.4425" zpos="939.97" type="festivals.mad_mementos" GUID="BqtLj1jjJ0enP2SlrdjOxw==" iconFile="Img/Icons/Question.png" minSize="8" maxSize="16" fadeNear="1500" fadeFar="2000" mapVisibility="0" miniMapVisibility="0" achievementBit="5" />
 		<!-- MAD MEMORIAL -->
-		<!-- 13 -->	<POI MapID="50"  xpos="-87.2299" ypos="21.2978" zpos="390.021" type="festivals.mad_memorial" GUID="jES/ek5yLkKI8TRhahceoA==" maxSize="24" heightOffset="3" behavior="3" achievementBit="0"/>
-		<!-- 14 -->	<POI MapID="866" xpos="152.224"  ypos="276.33"  zpos="150.755" type="festivals.mad_memorial" GUID="De8M2qobUkmfuxRuJ17Obg==" maxSize="24" behavior="3" achievementBit="1"/>
-					<POI MapID="866" xpos="-145.777" ypos="276.753" zpos="165.29"  type="festivals.mad_memorial" GUID="Pbk5OQrfXE6y57PQJlclvA==" maxSize="24" achievementBit="1"/>
-		<!-- 15 -->	<POI MapID="866" xpos="5.95499"  ypos="225.394" zpos="-2.5369" type="festivals.mad_memorial" GUID="dfH+TWT3E0iN5s93UZD+0A==" maxSize="24" heightOffset="2" behavior="3" achievementBit="2"/>
-		<!-- 16 -->	<POI MapID="50"  xpos="-15.1748" ypos="23.5921" zpos="119.454" type="festivals.mad_memorial" GUID="JziCK5X8o0SiBI41Vxz3tg==" maxSize="24" heightOffset="4" behavior="3" achievementBit="3"/>
-		<!-- 17 -->	<POI MapID="50"  xpos="145.483"  ypos="25.1571" zpos="-294.22" type="festivals.mad_memorial" GUID="y3nJ1Fw43Ey/eYX0CoyFFA==" maxSize="24" heightOffset="6.4" behavior="3" achievementBit="4"/>
-		<!-- 18 -->	<POI MapID="50"  xpos="413.547"  ypos="37.2757" zpos="22.6013" type="festivals.mad_memorial" GUID="dqM3wQibY06vSuILNO6Vkw==" maxSize="24" heightOffset="3.5" behavior="3" achievementBit="5"/>
-
+		<!-- 13 -->
+		<POI MapID="50" xpos="-87.2299" ypos="21.2978" zpos="390.021" type="festivals.mad_memorial" GUID="jES/ek5yLkKI8TRhahceoA==" maxSize="24" heightOffset="3" behavior="3" achievementBit="0" />
+		<!-- 14 -->
+		<POI MapID="866" xpos="152.224" ypos="276.33" zpos="150.755" type="festivals.mad_memorial" GUID="De8M2qobUkmfuxRuJ17Obg==" maxSize="24" behavior="3" achievementBit="1" />
+		<POI MapID="866" xpos="-145.777" ypos="276.753" zpos="165.29" type="festivals.mad_memorial" GUID="Pbk5OQrfXE6y57PQJlclvA==" maxSize="24" achievementBit="1" />
+		<!-- 15 -->
+		<POI MapID="866" xpos="5.95499" ypos="225.394" zpos="-2.5369" type="festivals.mad_memorial" GUID="dfH+TWT3E0iN5s93UZD+0A==" maxSize="24" heightOffset="2" behavior="3" achievementBit="2" />
+		<!-- 16 -->
+		<POI MapID="50" xpos="-15.1748" ypos="23.5921" zpos="119.454" type="festivals.mad_memorial" GUID="JziCK5X8o0SiBI41Vxz3tg==" maxSize="24" heightOffset="4" behavior="3" achievementBit="3" />
+		<!-- 17 -->
+		<POI MapID="50" xpos="145.483" ypos="25.1571" zpos="-294.22" type="festivals.mad_memorial" GUID="y3nJ1Fw43Ey/eYX0CoyFFA==" maxSize="24" heightOffset="6.4" behavior="3" achievementBit="4" />
+		<!-- 18 -->
+		<POI MapID="50" xpos="413.547" ypos="37.2757" zpos="22.6013" type="festivals.mad_memorial" GUID="dqM3wQibY06vSuILNO6Vkw==" maxSize="24" heightOffset="3.5" behavior="3" achievementBit="5" />
 		<!-- PUMPKIN CARVING -->
-		<POI MapID="15" xpos="-1048.45" ypos="29.3196"  zpos="359.914"  type="festivals.pumpkin_carving" GUID="L2byeNi8z0ezjCyEvA/Mjg=="/>
-		<POI MapID="15" xpos="-963.782" ypos="15.6701"  zpos="620.109"  type="festivals.pumpkin_carving" GUID="//TS5kfajEml4gm/zPkZsQ=="/>
-		<POI MapID="15" xpos="-938.95"  ypos="26.9953"  zpos="385.741"  type="festivals.pumpkin_carving" GUID="i79BzHRBfUyXQFb0Oh6uCg=="/>
-		<POI MapID="15" xpos="-869.087" ypos="18.2249"  zpos="737.61"   type="festivals.pumpkin_carving" GUID="uZNCDp/9i02+AnqsztZ9Ng=="/>
-		<POI MapID="15" xpos="-820.402" ypos="1.60952"  zpos="-499.159" type="festivals.pumpkin_carving" GUID="uNpVNouXh0iyv7gavYSyWQ=="/>
-		<POI MapID="15" xpos="-806.069" ypos="50.6279"  zpos="385.06"   type="festivals.pumpkin_carving" GUID="ZecmLJhBN0mRCCVLrBcoNg=="/>
-		<POI MapID="15" xpos="-803.848" ypos="47.3377"  zpos="414.852"  type="festivals.pumpkin_carving" GUID="87Etag36x0CXGwAnBVlGjQ=="/>
-		<POI MapID="15" xpos="-751.395" ypos="24.5487"  zpos="360.562"  type="festivals.pumpkin_carving" GUID="wmXza7naE0GqwAYpnSMyYw=="/>
-		<POI MapID="15" xpos="-744.753" ypos="46.8298"  zpos="228.128"  type="festivals.pumpkin_carving" GUID="WDINvGWsOUyBTrm//fpC5Q=="/>
-		<POI MapID="15" xpos="-690.76"  ypos="25.0008"  zpos="400.327"  type="festivals.pumpkin_carving" GUID="8jMlkFHuSk+wd3v1QL/Gaw=="/>
-		<POI MapID="15" xpos="-597.849" ypos="74.2464"  zpos="156.254"  type="festivals.pumpkin_carving" GUID="4YjOOhXwdkOYL4hruXINmQ=="/>
-		<POI MapID="15" xpos="-539.503" ypos="35.7996"  zpos="-441.353" type="festivals.pumpkin_carving" GUID="rpufz78JdEW0DMbbKnDW2g=="/>
-		<POI MapID="15" xpos="-535.369" ypos="34.2301"  zpos="438.706"  type="festivals.pumpkin_carving" GUID="Uoz5GgZOGkayqQPsd217vg=="/>
-		<POI MapID="15" xpos="-515.874" ypos="21.9179"  zpos="376.687"  type="festivals.pumpkin_carving" GUID="SoE59SsoekaZ5Pqr3jI57Q=="/>
-		<POI MapID="15" xpos="-495.482" ypos="22.3218"  zpos="361.407"  type="festivals.pumpkin_carving" GUID="AsDbPXOmTEKDYJHhkfcmrw=="/>
-		<POI MapID="15" xpos="-357.404" ypos="73.0153"  zpos="565.662"  type="festivals.pumpkin_carving" GUID="/3eVichCI0uOnDahI5mY2Q=="/>
-		<POI MapID="15" xpos="-307.082" ypos="69.2968"  zpos="557.275"  type="festivals.pumpkin_carving" GUID="pSx3QXpc8kiS6ovH38ihVw=="/>
-		<POI MapID="15" xpos="-209.183" ypos="30.0269"  zpos="385.296"  type="festivals.pumpkin_carving" GUID="NRG4bpe380W01p3IhEdGNA=="/>
-		<POI MapID="15" xpos="-175.743" ypos="36.0081"  zpos="370.717"  type="festivals.pumpkin_carving" GUID="t+erguM2Ukm5PGBDwZFXYg=="/>
-		<POI MapID="15" xpos="-165.322" ypos="54.2092"  zpos="578.318"  type="festivals.pumpkin_carving" GUID="FeLVyrvgYESvk3QER49x5A=="/>
-		<POI MapID="15" xpos="-154.656" ypos="27.7915"  zpos="225.943"  type="festivals.pumpkin_carving" GUID="/whcQdmok0KCdWxLk7wWkA=="/>
-		<POI MapID="15" xpos="-135.166" ypos="44.1402"  zpos="319.844"  type="festivals.pumpkin_carving" GUID="Nm1X612R0U+CKtJd2gbvWA=="/>
-		<POI MapID="15" xpos="-86.8133" ypos="57.6981"  zpos="540.529"  type="festivals.pumpkin_carving" GUID="X1+Z3Y4Pf0uHG2XRk+D9KQ=="/>
-		<POI MapID="15" xpos="111.492"  ypos="0.71319"  zpos="437.622"  type="festivals.pumpkin_carving" GUID="MFYIOTzFd0KQyzZ6FVw88w=="/>
-		<POI MapID="15" xpos="118.036"  ypos="6.50876"  zpos="392.018"  type="festivals.pumpkin_carving" GUID="IKjK8gF8ekGM0A6BUe6Esw=="/>
-		<POI MapID="15" xpos="173.53"   ypos="0.971255" zpos="391.381"  type="festivals.pumpkin_carving" GUID="CppA5gHgzU2HavgJF9hoLw=="/>
-		<POI MapID="15" xpos="186.484"  ypos="0.606779" zpos="364.268"  type="festivals.pumpkin_carving" GUID="qN77biKWGUmEyjEBLDbZZg=="/>
-		<POI MapID="15" xpos="325.012"  ypos="7.10906"  zpos="-603.778" type="festivals.pumpkin_carving" GUID="bufmwybXXkGkWv4mR4HfaA=="/>
-		<POI MapID="15" xpos="367.98"   ypos="6.87162"  zpos="-670.25"  type="festivals.pumpkin_carving" GUID="M5elSU2cU0CWOA/bV9qgGg=="/>
-		<POI MapID="15" xpos="527.944"  ypos="37.9279"  zpos="455.905"  type="festivals.pumpkin_carving" GUID="IKUNn3Xp5UeB6/Ese4M0ow=="/>
-		<POI MapID="15" xpos="553.444"  ypos="47.6653"  zpos="466.621"  type="festivals.pumpkin_carving" GUID="241R1ovzqE6dvH8NZj4OIw=="/>
-		<POI MapID="15" xpos="829.004"  ypos="21.9293"  zpos="272.96"   type="festivals.pumpkin_carving" GUID="agVlUdKorEGF1qvoLqo0mw=="/>
-		<POI MapID="15" xpos="913.239"  ypos="24.1318"  zpos="605.336"  type="festivals.pumpkin_carving" GUID="1anBxhngX0CcEdQNmkWeJA=="/>
-		<POI MapID="15" xpos="1030.09"  ypos="29.3279"  zpos="564.758"  type="festivals.pumpkin_carving" GUID="9paWo72OyUSsk5+uq3KyOA=="/>
-
-		<POI MapID="19" xpos="-1184.14" ypos="73.1672"  zpos="546.697"  type="festivals.pumpkin_carving" GUID="8VumQGKKGEWc6VVBjgYyDw=="/>
-		<POI MapID="19" xpos="-1058.21" ypos="55.2676"  zpos="516.331"  type="festivals.pumpkin_carving" GUID="mG1KiLDK6EuYPC+fMxFhyg=="/>
-		<POI MapID="19" xpos="-1003.06" ypos="41.4096"  zpos="278.883"  type="festivals.pumpkin_carving" GUID="3gRQissqY0qhJ2ux8cVp3Q=="/>
-		<POI MapID="19" xpos="-985.305" ypos="36.9597"  zpos="-428.953" type="festivals.pumpkin_carving" GUID="499hsKN8J0ayzyXYZzmN6g=="/>
-		<POI MapID="19" xpos="-973.177" ypos="38.1284"  zpos="58.8229"  type="festivals.pumpkin_carving" GUID="jJK9S/gS0E6ZqQyvB+pCwA=="/>
-		<POI MapID="19" xpos="-912.082" ypos="45.3137"  zpos="-195.428" type="festivals.pumpkin_carving" GUID="4GBk6Z7VtkCCQosm80RsAw=="/>
-		<POI MapID="19" xpos="-884.553" ypos="42.0132"  zpos="300.057"  type="festivals.pumpkin_carving" GUID="9umG2wowTUK/Q92aFf4tuA=="/>
-		<POI MapID="19" xpos="-790.569" ypos="21.6075"  zpos="484.265"  type="festivals.pumpkin_carving" GUID="uM3oP1TNlUunZIsPOQtlGw=="/>
-		<POI MapID="19" xpos="-646.583" ypos="42.8698"  zpos="233.744"  type="festivals.pumpkin_carving" GUID="HUatS4vqoEaV3Y5DfZw9+g=="/>
-		<POI MapID="19" xpos="-601.976" ypos="60.1889"  zpos="-148.252" type="festivals.pumpkin_carving" GUID="f4gFGQRGoEm18DB0mucYLA=="/>
-		<POI MapID="19" xpos="-551.22"  ypos="3.06795"  zpos="37.5999"  type="festivals.pumpkin_carving" GUID="RdYDVsj8CEGptfZ6Ifjk7A=="/>
-		<POI MapID="19" xpos="-515.199" ypos="60.073"   zpos="-187.778" type="festivals.pumpkin_carving" GUID="DmdmxI+my0irUyiz+3BQmQ=="/>
-		<POI MapID="19" xpos="-494.23"  ypos="57.2966"  zpos="-383.834" type="festivals.pumpkin_carving" GUID="eMC33ihMn0Oys5JzgWKFIg=="/>
-		<POI MapID="19" xpos="-485.712" ypos="55.4607"  zpos="79.2022"  type="festivals.pumpkin_carving" GUID="nUpwxu+xn0G8xJFtqaBQ+g=="/>
-		<POI MapID="19" xpos="-378.262" ypos="31.4104"  zpos="-543.203" type="festivals.pumpkin_carving" GUID="JGtsBX1fF0WlTmzFKdyKPA=="/>
-		<POI MapID="19" xpos="-292.132" ypos="4.83045"  zpos="-462.783" type="festivals.pumpkin_carving" GUID="n+6zQA1B/EyG/86VTHWFiw=="/>
-		<POI MapID="19" xpos="-68.0159" ypos="20.3306"  zpos="-58.216"  type="festivals.pumpkin_carving" GUID="lQ9qEUdPXUq1CD2x8YqrrA=="/>
-		<POI MapID="19" xpos="-1.67564" ypos="52.8635"  zpos="165.012"  type="festivals.pumpkin_carving" GUID="yfTTKvTRTkesr/Pb+4JyuA=="/>
-		<POI MapID="19" xpos="80.6068"  ypos="41.5378"  zpos="-259.96"  type="festivals.pumpkin_carving" GUID="0WSjkCfm4kOhalr9Zq51jg=="/>
-		<POI MapID="19" xpos="158.37"   ypos="42.7658"  zpos="-339.543" type="festivals.pumpkin_carving" GUID="YNwbWN72mESht3VK8QERpw=="/>
-		<POI MapID="19" xpos="340.742"  ypos="31.8911"  zpos="383.39"   type="festivals.pumpkin_carving" GUID="kWYrmzkL0U2kCmZp8f08kw=="/>
-		<POI MapID="19" xpos="342.983"  ypos="4.65163"  zpos="-331.001" type="festivals.pumpkin_carving" GUID="lZslIDjDgEmWmjQEWRtxlQ=="/>
-		<POI MapID="19" xpos="361.638"  ypos="49.3291"  zpos="95.0299"  type="festivals.pumpkin_carving" GUID="BiLtQROrskut7NYgEWP7pw=="/>
-		<POI MapID="19" xpos="377.949"  ypos="33.1998"  zpos="137.081"  type="festivals.pumpkin_carving" GUID="vBd92Oe1X0qaTlJiEywVaQ=="/>
-		<POI MapID="19" xpos="389.533"  ypos="35.6984"  zpos="570.276"  type="festivals.pumpkin_carving" GUID="iRnFkZhdU0evizGQxA3w6w=="/>
-		<POI MapID="19" xpos="579.007"  ypos="5.658"    zpos="-203.986" type="festivals.pumpkin_carving" GUID="lA7DulJSHkS/gH1UuOOAWw=="/>
-		<POI MapID="19" xpos="937.175"  ypos="25.8505"  zpos="215.799"  type="festivals.pumpkin_carving" GUID="YQb6EGSo3E+p7sVnTX5L2Q=="/>
-		<POI MapID="19" xpos="939.672"  ypos="76.7933"  zpos="523.132"  type="festivals.pumpkin_carving" GUID="yRtX8y7YUkWImYL0KOMfwQ=="/>
-		<POI MapID="19" xpos="952.205"  ypos="45.1919"  zpos="-259.11"  type="festivals.pumpkin_carving" GUID="jgA7uMgfQkyQrHnWlLAk4w=="/>
-		<POI MapID="19" xpos="1073.12"  ypos="32.2649"  zpos="218.137"  type="festivals.pumpkin_carving" GUID="JwFKVDd8TkOG3dXcQrt3tA=="/>
-
-		<POI MapID="23" xpos="-882.421" ypos="107.098"  zpos="538.182"  type="festivals.pumpkin_carving" GUID="TJc72SlVxEaihhJTi4m0kQ=="/>
-		<POI MapID="23" xpos="-879.161" ypos="92.3742"  zpos="457.527"  type="festivals.pumpkin_carving" GUID="XXMObdx59k23+8prbQpVmQ=="/>
-		<POI MapID="23" xpos="-819.537" ypos="2.4568"   zpos="-538.904" type="festivals.pumpkin_carving" GUID="e0AMHD8+8kCbgrEDB59fsQ=="/>
-		<POI MapID="23" xpos="-647.919" ypos="43.007"   zpos="302.074"  type="festivals.pumpkin_carving" GUID="oEvNu6YIOEeN+qzCPc7/Rg=="/>
-		<POI MapID="23" xpos="-526.12"  ypos="17.6469"  zpos="-295.223" type="festivals.pumpkin_carving" GUID="KeqZ8zqxYUWFilP1+yVv+g=="/>
-		<POI MapID="23" xpos="-460.987" ypos="53.3354"  zpos="456.557"  type="festivals.pumpkin_carving" GUID="fUmf48ntYkyfCiWjcYk9Fw=="/>
-		<POI MapID="23" xpos="-391.014" ypos="58.7849"  zpos="478.984"  type="festivals.pumpkin_carving" GUID="8NtPvpMLlUWPMfzhh4IlNg=="/>
-		<POI MapID="23" xpos="-362.177" ypos="21.3008"  zpos="257.49"   type="festivals.pumpkin_carving" GUID="Dduz/oDUkESZrAHurQSbSg=="/>
-		<POI MapID="23" xpos="-354.899" ypos="1.22896"  zpos="48.5367"  type="festivals.pumpkin_carving" GUID="JzTNfuMy8U2rLQT/+s5xpQ=="/>
-		<POI MapID="23" xpos="-352.251" ypos="24.8841"  zpos="-508.586" type="festivals.pumpkin_carving" GUID="IPaAGiLq3UGiqVUsFdvgLw=="/>
-		<POI MapID="23" xpos="-328.078" ypos="17.8354"  zpos="-442.702" type="festivals.pumpkin_carving" GUID="GVanjTdjx06NnAb2SXYMTg=="/>
-		<POI MapID="23" xpos="-311.763" ypos="3.00415"  zpos="43.1178"  type="festivals.pumpkin_carving" GUID="P1Vu3yHMgkC5VwtNKn6lCQ=="/>
-		<POI MapID="23" xpos="310.504"  ypos="70.1965"  zpos="-422.468" type="festivals.pumpkin_carving" GUID="7jkKj1SYR02nb19mBgrRgA=="/>
-		<POI MapID="23" xpos="321.713"  ypos="58.2649"  zpos="-370.44"  type="festivals.pumpkin_carving" GUID="Ciqpno2SQES6b9iF9BsmGg=="/>
-		<POI MapID="23" xpos="338.101"  ypos="50.337"   zpos="379.338"  type="festivals.pumpkin_carving" GUID="5DU13IiZFku18tVsjley5g=="/>
-		<POI MapID="23" xpos="711.734"  ypos="55.9951"  zpos="509.682"  type="festivals.pumpkin_carving" GUID="C5XSbte3YUOm+BtEETOsfg=="/>
-		<POI MapID="23" xpos="737.503"  ypos="70.6924"  zpos="175.281"  type="festivals.pumpkin_carving" GUID="aHNTynSTKEK1wFdY7rAIrg=="/>
-		<POI MapID="23" xpos="826.057"  ypos="39.2175"  zpos="377.39"   type="festivals.pumpkin_carving" GUID="AFe9K4lFL06arYnGYyBQCw=="/>
-		<POI MapID="23" xpos="924.198"  ypos="44.5103"  zpos="355.609"  type="festivals.pumpkin_carving" GUID="pOawHPjOA0+AVjpETFTKKg=="/>
-		<POI MapID="23" xpos="926.397"  ypos="73.1388"  zpos="-291.774" type="festivals.pumpkin_carving" GUID="yrEUW/fVzUud1/2KZG/mdA=="/>
-		<POI MapID="23" xpos="927.068"  ypos="56.5263"  zpos="375.188"  type="festivals.pumpkin_carving" GUID="91QeGnzzhE6W8AzKaS1P3A=="/>
-		<POI MapID="23" xpos="956.107"  ypos="56.0278"  zpos="57.8355"  type="festivals.pumpkin_carving" GUID="VF3pIJAvRUSsFDHwShSfvw=="/>
-		<POI MapID="23" xpos="999.354"  ypos="3.43009"  zpos="561.23"   type="festivals.pumpkin_carving" GUID="Mn2RIM58Akaa5UW9ttjetA=="/>
-		<POI MapID="23" xpos="1073.14"  ypos="13.6517"  zpos="423.183"  type="festivals.pumpkin_carving" GUID="wxkAQ9Q+DU6M2m2cKsYMzQ=="/>
-		<POI MapID="23" xpos="1108.27"  ypos="74.3022"  zpos="-348.323" type="festivals.pumpkin_carving" GUID="FTlyaRdr6U6jE7GASUkXIQ=="/>
-		<POI MapID="23" xpos="1147.54"  ypos="51.3538"  zpos="-311.983" type="festivals.pumpkin_carving" GUID="OhPhN3Yhxk25q1HBlRq9fA=="/>
-		<POI MapID="23" xpos="1153.83"  ypos="16.3111"  zpos="519.291"  type="festivals.pumpkin_carving" GUID="PHvFdUBpnEGDx1yxb07mCQ=="/>
-		<POI MapID="23" xpos="1187.98"  ypos="43.5993"  zpos="-98.5817" type="festivals.pumpkin_carving" GUID="vDExbTskc0u9ulAud3cKxw=="/>
-		<POI MapID="23" xpos="1195.6"   ypos="50.3188"  zpos="-271.436" type="festivals.pumpkin_carving" GUID="ZJmj4odHH0+qE08q0kTwpw=="/>
-		<POI MapID="23" xpos="1202.75"  ypos="18.3338"  zpos="-439.461" type="festivals.pumpkin_carving" GUID="KYQUh8oxvEWMnbj94qDZLg=="/>
-
-		<POI MapID="24" xpos="-1169.26" ypos="9.72541"  zpos="361.287"  type="festivals.pumpkin_carving" GUID="vDB4hZfkE0SMGzYB/XNE9Q=="/>
-		<POI MapID="24" xpos="-1150.7"  ypos="42.6416"  zpos="522.694"  type="festivals.pumpkin_carving" GUID="3BU4klnHm0qMBS6shkjVKQ=="/>
-		<POI MapID="24" xpos="-1042.69" ypos="14.8603"  zpos="99.8969"  type="festivals.pumpkin_carving" GUID="1k2EOuGoqUKi3uxMvCxXbQ=="/>
-		<POI MapID="24" xpos="-989.222" ypos="43.8421"  zpos="-280.688" type="festivals.pumpkin_carving" GUID="l6PDncGtz0y8nU/RWIqmQA=="/>
-		<POI MapID="24" xpos="-872.46"  ypos="35.6368"  zpos="432.875"  type="festivals.pumpkin_carving" GUID="f8gIEnzyKkSyvZjqne8iqg=="/>
-		<POI MapID="24" xpos="-788.07"  ypos="1.08709"  zpos="-549.506" type="festivals.pumpkin_carving" GUID="1VsRjlsUgESMBs49IY603Q=="/>
-		<POI MapID="24" xpos="-787.338" ypos="30.2099"  zpos="61.3437"  type="festivals.pumpkin_carving" GUID="ZyIA90A1sUOCK1StSxoevQ=="/>
-		<POI MapID="24" xpos="-752.482" ypos="21.9742"  zpos="360.144"  type="festivals.pumpkin_carving" GUID="9LdujEcMU0iHnW/Lv8/Iew=="/>
-		<POI MapID="24" xpos="-501.155" ypos="34.2559"  zpos="442.824"  type="festivals.pumpkin_carving" GUID="/QtbLVZc5kCyuld/SM/8cw=="/>
-		<POI MapID="24" xpos="-442.174" ypos="16.0503"  zpos="-116.733" type="festivals.pumpkin_carving" GUID="WLCHCLVlF0Sp3Xt8l6hRAg=="/>
-		<POI MapID="24" xpos="-431.328" ypos="1.87362"  zpos="-353.213" type="festivals.pumpkin_carving" GUID="5ScVuCloyEOSEilVpG8bWQ=="/>
-		<POI MapID="24" xpos="-369.655" ypos="1.96439"  zpos="232.903"  type="festivals.pumpkin_carving" GUID="rlmWGnCCPUSKD+Bwl2bI0Q=="/>
-		<POI MapID="24" xpos="-365.267" ypos="6.14238"  zpos="8.48252"  type="festivals.pumpkin_carving" GUID="K55mFeIlM0Octs+ZRtrpIw=="/>
-		<POI MapID="24" xpos="-356.273" ypos="55.7687"  zpos="130.39"   type="festivals.pumpkin_carving" GUID="IFCe6R9KjUysHH/AnvlIig=="/>
-		<POI MapID="24" xpos="-65.6822" ypos="8.62951"  zpos="-519.737" type="festivals.pumpkin_carving" GUID="iTjyc2Wcu0i+hkpCeFVleg=="/>
-		<POI MapID="24" xpos="-47.7504" ypos="13.5658"  zpos="464.657"  type="festivals.pumpkin_carving" GUID="dXWe+n8fD0WyhMtzWje7WQ=="/>
-		<POI MapID="24" xpos="139.862"  ypos="10.1434"  zpos="-395.687" type="festivals.pumpkin_carving" GUID="G0t3VJlvpUieW0msq76uGQ=="/>
-		<POI MapID="24" xpos="157.321"  ypos="2.92837"  zpos="102.429"  type="festivals.pumpkin_carving" GUID="jnRg9wWQJEy3JggKnU/ujg=="/>
-		<POI MapID="24" xpos="226.934"  ypos="4.25169"  zpos="-484.332" type="festivals.pumpkin_carving" GUID="iMN2nfRtxUGFTvn1Av93Ew=="/>
-		<POI MapID="24" xpos="243.267"  ypos="12.3959"  zpos="399.994"  type="festivals.pumpkin_carving" GUID="0aYItp7CPkWoOlW0GwWuQQ=="/>
-		<POI MapID="24" xpos="348.458"  ypos="15.0247"  zpos="-336.784" type="festivals.pumpkin_carving" GUID="sb/95phSbUeN86Yy8GipOQ=="/>
-		<POI MapID="24" xpos="426.912"  ypos="11.2042"  zpos="-428.553" type="festivals.pumpkin_carving" GUID="nKZdjvSSr0CiBzTK/AdUvA=="/>
-		<POI MapID="24" xpos="455.22"   ypos="1.49664"  zpos="348.72"   type="festivals.pumpkin_carving" GUID="mxoDdMkbLkK6fboiCzp4tg=="/>
-		<POI MapID="24" xpos="534.391"  ypos="74.7998"  zpos="530.722"  type="festivals.pumpkin_carving" GUID="qAcmURInOkeyk/5/oEn8sA=="/>
-		<POI MapID="24" xpos="673.408"  ypos="41.9296"  zpos="-108.414" type="festivals.pumpkin_carving" GUID="ItN/PQazFEy0lz4DcuX3Hg=="/>
-		<POI MapID="24" xpos="696.247"  ypos="22.002"   zpos="-109.571" type="festivals.pumpkin_carving" GUID="qHEBcnuUhEqDfZva4mzkdA=="/>
-		<POI MapID="24" xpos="714.958"  ypos="24.2316"  zpos="-10.2938" type="festivals.pumpkin_carving" GUID="Wrw27hFOckyPIQpf+CfLPQ=="/>
-		<POI MapID="24" xpos="749.947"  ypos="3.38684"  zpos="-499.694" type="festivals.pumpkin_carving" GUID="7b5q2przKkarPpVi5d6dEw=="/>
-		<POI MapID="24" xpos="975.662"  ypos="30.6321"  zpos="298.238"  type="festivals.pumpkin_carving" GUID="pqORNVq5C0a63NW9REDjnQ=="/>
-		<POI MapID="24" xpos="1046.9"   ypos="74.2885"  zpos="-202.532" type="festivals.pumpkin_carving" GUID="6vjHTWCRB0mVGtbRe5mKjA=="/>
-
-		<POI MapID="28" xpos="-432.862" ypos="128.059"  zpos="-212.903" type="festivals.pumpkin_carving" GUID="1Lz2P8Bp8Ua1tU7wD4FYDQ=="/>
-		<POI MapID="28" xpos="-398.378" ypos="96.7003"  zpos="426.57"   type="festivals.pumpkin_carving" GUID="Mhtm7bZwaUOwp5KzjodE6Q=="/>
-		<POI MapID="28" xpos="-233.433" ypos="99.4024"  zpos="-576.239" type="festivals.pumpkin_carving" GUID="8Q4izon2Tkyc/OF/MOxEBw=="/>
-		<POI MapID="28" xpos="-188.881" ypos="95.9924"  zpos="-603.388" type="festivals.pumpkin_carving" GUID="uPf2WP9EAkeo6We2PFRBAg=="/>
-		<POI MapID="28" xpos="-180.068" ypos="146.568"  zpos="820.549"  type="festivals.pumpkin_carving" GUID="GY6+FWDMRUetHZy02JbqOA=="/>
-		<POI MapID="28" xpos="-167.482" ypos="97.8443"  zpos="489.44"   type="festivals.pumpkin_carving" GUID="deDe1qv7Wk2spe8JZXX+KQ=="/>
-		<POI MapID="28" xpos="-155.762" ypos="172.919"  zpos="-399.733" type="festivals.pumpkin_carving" GUID="yBvBV29vDkKe3PfeugX3/A=="/>
-		<POI MapID="28" xpos="-87.1725" ypos="96.5934"  zpos="210.347"  type="festivals.pumpkin_carving" GUID="0i7OYff56kapTfcqpQvhgw=="/>
-		<POI MapID="28" xpos="-66.1951" ypos="53.6175"  zpos="-1326.78" type="festivals.pumpkin_carving" GUID="8dWWQnqyj0G4tI//12rkPg=="/>
-		<POI MapID="28" xpos="-53.9563" ypos="42.4392"  zpos="-88.7005" type="festivals.pumpkin_carving" GUID="re7QGS3ssEqunOUPUTObEg=="/>
-		<POI MapID="28" xpos="-28.343"  ypos="146.432"  zpos="671.56"   type="festivals.pumpkin_carving" GUID="7V25ZDiyskOhvcVw7O1lSw=="/>
-		<POI MapID="28" xpos="-19.7426" ypos="92.333"   zpos="569.664"  type="festivals.pumpkin_carving" GUID="UKDLeyi0NEmlkIEDqj+tRg=="/>
-		<POI MapID="28" xpos="22.5802"  ypos="26.3591"  zpos="-851.758" type="festivals.pumpkin_carving" GUID="S2AhaEFm7UKtGWdj4Qz63g=="/>
-		<POI MapID="28" xpos="39.7648"  ypos="13.9489"  zpos="-1118.63" type="festivals.pumpkin_carving" GUID="B7YEHuRv+UeFO2zBK70ctQ=="/>
-		<POI MapID="28" xpos="52.9536"  ypos="189.106"  zpos="1161.93"  type="festivals.pumpkin_carving" GUID="W3708Lw8AUyUKt+C2mOpHg=="/>
-		<POI MapID="28" xpos="62.4884"  ypos="100.262"  zpos="122.241"  type="festivals.pumpkin_carving" GUID="9CL6+WWzy0Clpu94ILCbPQ=="/>
-		<POI MapID="28" xpos="73.5808"  ypos="117.953"  zpos="921.931"  type="festivals.pumpkin_carving" GUID="HWYEl1Gh/Eiy1tReRWpRig=="/>
-		<POI MapID="28" xpos="118.583"  ypos="21.8105"  zpos="-1243.69" type="festivals.pumpkin_carving" GUID="PK7IBY5sKUKCSITYkSwfUg=="/>
-		<POI MapID="28" xpos="126.976"  ypos="3.84493"  zpos="-496.575" type="festivals.pumpkin_carving" GUID="7sNq8/q8tECmkA4/XO90Wg=="/>
-		<POI MapID="28" xpos="200.997"  ypos="24.3496"  zpos="-126.279" type="festivals.pumpkin_carving" GUID="Rlrkkn9FHU2/pTLtO/8gVw=="/>
-		<POI MapID="28" xpos="262.063"  ypos="75.6925"  zpos="807.463"  type="festivals.pumpkin_carving" GUID="NCyyV6LL5kCOFx7Y3V0VkA=="/>
-		<POI MapID="28" xpos="265.222"  ypos="92.307"   zpos="560.573"  type="festivals.pumpkin_carving" GUID="HWPrDxFnPEy1zs5XXZWkgg=="/>
-		<POI MapID="28" xpos="273.968"  ypos="72.5911"  zpos="241.692"  type="festivals.pumpkin_carving" GUID="sk9PYhqUXUeklXdBdJ5E9g=="/>
-		<POI MapID="28" xpos="310.76"   ypos="26.8135"  zpos="-490.609" type="festivals.pumpkin_carving" GUID="w9OdS13p0kWliJsGOvUDWQ=="/>
-		<POI MapID="28" xpos="346.082"  ypos="31.2893"  zpos="-1082.53" type="festivals.pumpkin_carving" GUID="cfz140xUhkqHBAsxet2Eiw=="/>
-		<POI MapID="28" xpos="395.279"  ypos="128.761"  zpos="948.482"  type="festivals.pumpkin_carving" GUID="XdW7kCATc0eQgvz9tAq3+Q=="/>
-		<POI MapID="28" xpos="413.278"  ypos="76.1728"  zpos="450.576"  type="festivals.pumpkin_carving" GUID="B/C611A8Hk+2cPKMRMmHFg=="/>
-		<POI MapID="28" xpos="446.324"  ypos="73.3695"  zpos="253.056"  type="festivals.pumpkin_carving" GUID="0MU9Un8pCkCcFjFRc5vu9g=="/>
-		<POI MapID="28" xpos="447.657"  ypos="119.452"  zpos="-139.745" type="festivals.pumpkin_carving" GUID="Hs4+yqCmvU2pf42S/whhKA=="/>
-		<POI MapID="28" xpos="451.552"  ypos="77.3764"  zpos="579.325"  type="festivals.pumpkin_carving" GUID="DUq1PfoY2UCoJwAlwec3BA=="/>
-
-		<POI MapID="34" xpos="-455.786" ypos="3.33405"  zpos="-671.646" type="festivals.pumpkin_carving" GUID="YUk/xT/AlEq3DPU3a64+ww=="/>
-		<POI MapID="34" xpos="-444.272" ypos="5.81072"  zpos="1141.05"  type="festivals.pumpkin_carving" GUID="UYChlvWnKkuupQ8ELeoCOQ=="/>
-		<POI MapID="34" xpos="-377.54"  ypos="12.2901"  zpos="-54.2399" type="festivals.pumpkin_carving" GUID="uWOevBRyc0uW2PAeA+JL0Q=="/>
-		<POI MapID="34" xpos="-270.039" ypos="1.6925"   zpos="-520.731" type="festivals.pumpkin_carving" GUID="T/yTYBQfS0WoH6+djCh+sg=="/>
-		<POI MapID="34" xpos="-219.195" ypos="10.2908"  zpos="-158.955" type="festivals.pumpkin_carving" GUID="HxGpi4+jiUOIcrTnv/HDmA=="/>
-		<POI MapID="34" xpos="-214.132" ypos="32.9606"  zpos="-326.501" type="festivals.pumpkin_carving" GUID="I6Du2JqPtkO1OmI0wrOdbQ=="/>
-		<POI MapID="34" xpos="-211.149" ypos="2.11994"  zpos="1050.39"  type="festivals.pumpkin_carving" GUID="sZoY4Uis80uUUoKZRr1OqA=="/>
-		<POI MapID="34" xpos="-170.403" ypos="5.63516"  zpos="-1000.05" type="festivals.pumpkin_carving" GUID="M2NDkHYqDkClZZN6ZCI6aw=="/>
-		<POI MapID="34" xpos="-120.813" ypos="1.99381"  zpos="-976.488" type="festivals.pumpkin_carving" GUID="QoBj2vXT7kSVw9k6IrswkQ=="/>
-		<POI MapID="34" xpos="-94.4248" ypos="1.60918"  zpos="-951.692" type="festivals.pumpkin_carving" GUID="A+9ZD1dIlk23FfB+7F50KA=="/>
-		<POI MapID="34" xpos="-82.8677" ypos="16.1997"  zpos="872.844"  type="festivals.pumpkin_carving" GUID="5zcdGMMxHUK9rK7+KlZGSQ=="/>
-		<POI MapID="34" xpos="-41.4405" ypos="5.75468"  zpos="-4.004"   type="festivals.pumpkin_carving" GUID="XuLJ7IP7K0K/e3xHkKN3Cw=="/>
-		<POI MapID="34" xpos="-4.13586" ypos="10.6303"  zpos="1080.51"  type="festivals.pumpkin_carving" GUID="QLANWJYfSUuzGa9IA17IYg=="/>
-		<POI MapID="34" xpos="0.112122" ypos="20.4839"  zpos="-652.946" type="festivals.pumpkin_carving" GUID="8T/lsvdQ/UCkH+Y3UTIRVw=="/>
-		<POI MapID="34" xpos="14.0562"  ypos="25.2088"  zpos="-324.887" type="festivals.pumpkin_carving" GUID="thi3qX1XG068XhYeuiZfgg=="/>
-		<POI MapID="34" xpos="18.9933"  ypos="38.3417"  zpos="-262.301" type="festivals.pumpkin_carving" GUID="pldYqAyQnUm10kcfEu6y5Q=="/>
-		<POI MapID="34" xpos="20.6324"  ypos="4.90201"  zpos="1197.71"  type="festivals.pumpkin_carving" GUID="DCV9rCba6UGcRtKW4r/Ohg=="/>
-		<POI MapID="34" xpos="90.2021"  ypos="42.5804"  zpos="165.473"  type="festivals.pumpkin_carving" GUID="ZNsCORxaVkSeAHAsxRzjYw=="/>
-		<POI MapID="34" xpos="215.779"  ypos="10.4646"  zpos="500.635"  type="festivals.pumpkin_carving" GUID="lloMxGfcjUOA3Ab3nvJEyw=="/>
-		<POI MapID="34" xpos="235.176"  ypos="11.5503"  zpos="823.708"  type="festivals.pumpkin_carving" GUID="xPIy81g2+ECYhaEYu9YaWA=="/>
-		<POI MapID="34" xpos="264.452"  ypos="19.0108"  zpos="988.235"  type="festivals.pumpkin_carving" GUID="7rnHYmlBckSYn39Zs4YMKg=="/>
-		<POI MapID="34" xpos="340.087"  ypos="9.63853"  zpos="1056.17"  type="festivals.pumpkin_carving" GUID="LbG7sW8MREGc0lbk462akw=="/>
-		<POI MapID="34" xpos="357.426"  ypos="42.6183"  zpos="-690.648" type="festivals.pumpkin_carving" GUID="MAzMDqEECUCYVirA0eRLOw=="/>
-		<POI MapID="34" xpos="384.785"  ypos="2.44756"  zpos="-1081.85" type="festivals.pumpkin_carving" GUID="RgCk71Jhg0qjHWRd1eFaBw=="/>
-		<POI MapID="34" xpos="401.05"   ypos="2.37207"  zpos="-154.956" type="festivals.pumpkin_carving" GUID="n0D6C4GNkkirYxvsdpp2zQ=="/>
-		<POI MapID="34" xpos="412.974"  ypos="1.6563"   zpos="325.104"  type="festivals.pumpkin_carving" GUID="0+ZOJ/xnQku38s+NYoup0Q=="/>
-		<POI MapID="34" xpos="422.079"  ypos="49.1494"  zpos="-622.299" type="festivals.pumpkin_carving" GUID="4d4H/AdQokiGQ8FaavQvZQ=="/>
-		<POI MapID="34" xpos="439.773"  ypos="2.09022"  zpos="843.862"  type="festivals.pumpkin_carving" GUID="f0tW1UpUA0SSwp9wGFO0/Q=="/>
-		<POI MapID="34" xpos="456.39"   ypos="20.7771"  zpos="236.756"  type="festivals.pumpkin_carving" GUID="e1X5+yPow0O9Qn+Q0x4+QA=="/>
-		<POI MapID="34" xpos="548.877"  ypos="10.3002"  zpos="896.328"  type="festivals.pumpkin_carving" GUID="LANiB0edgEK7ngxypWeZIw=="/>
-		<POI MapID="34" xpos="567.866"  ypos="16.3186"  zpos="-884.125" type="festivals.pumpkin_carving" GUID="mZwiD8fACU2WmIWiFSreXA=="/>
-
-		<POI MapID="35" xpos="-521.923" ypos="54.0854"  zpos="-739.159" type="festivals.pumpkin_carving" GUID="dIMERG0LNkSNhVt91KqmJA=="/>
-		<POI MapID="35" xpos="-491.107" ypos="51.6095"  zpos="-772.145" type="festivals.pumpkin_carving" GUID="0whjBLUR7k64ji7JoKnOZw=="/>
-		<POI MapID="35" xpos="-481.693" ypos="69.0897"  zpos="-689.86"  type="festivals.pumpkin_carving" GUID="SBE7Gxq+U0mMXxE2+PbOew=="/>
-		<POI MapID="35" xpos="-396.753" ypos="25.7404"  zpos="724.999"  type="festivals.pumpkin_carving" GUID="G6rjfMTRmUSEzUwsa7X7vg=="/>
-		<POI MapID="35" xpos="-368.177" ypos="60.6551"  zpos="-771.759" type="festivals.pumpkin_carving" GUID="LgQ2Qo/6ZkKLjN8AM8DZpg=="/>
-		<POI MapID="35" xpos="-368.177" ypos="60.6551"  zpos="-771.759" type="festivals.pumpkin_carving" GUID="Esk8X+ZI3EuyECseNUdg7w=="/>
-		<POI MapID="35" xpos="-204.885" ypos="9.16822"  zpos="707.005"  type="festivals.pumpkin_carving" GUID="e3Ion03t4EaCTveBWsiJuQ=="/>
-		<POI MapID="35" xpos="-177.867" ypos="30.4918"  zpos="-641.29"  type="festivals.pumpkin_carving" GUID="boDpt69vX0egwyv3xNNvxg=="/>
-		<POI MapID="35" xpos="-146.708" ypos="35.9302"  zpos="-696.473" type="festivals.pumpkin_carving" GUID="/D3ZcvHrzky4OWhXnFAu0A=="/>
-		<POI MapID="35" xpos="-137.842" ypos="12.2797"  zpos="102.266"  type="festivals.pumpkin_carving" GUID="AW6XmrqGn0Saxlh9a8XzXw=="/>
-		<POI MapID="35" xpos="-91.1483" ypos="30.2181"  zpos="-150.984" type="festivals.pumpkin_carving" GUID="zJtAOQo1aUWy2EakGFNG4A=="/>
-		<POI MapID="35" xpos="-88.3238" ypos="39.2545"  zpos="-796.649" type="festivals.pumpkin_carving" GUID="fBnr8XrKTkytaZJjfTVWeA=="/>
-		<POI MapID="35" xpos="-77.6374" ypos="15.4399"  zpos="34.6074"  type="festivals.pumpkin_carving" GUID="5ZliV2Pg0E2cbMJdQQ+/Ww=="/>
-		<POI MapID="35" xpos="-69.8823" ypos="51.8276"  zpos="-748.67"  type="festivals.pumpkin_carving" GUID="2leL3E2VtE2T+/5LIyybSQ=="/>
-		<POI MapID="35" xpos="-51.0822" ypos="16.2608"  zpos="-730.656" type="festivals.pumpkin_carving" GUID="zasTcdWSGUGDpZnarUZAtQ=="/>
-		<POI MapID="35" xpos="-44.7713" ypos="54.2984"  zpos="-351.048" type="festivals.pumpkin_carving" GUID="4eAGyGogsEOLV/fzrauK5Q=="/>
-		<POI MapID="35" xpos="-37.6811" ypos="50.2659"  zpos="-112.681" type="festivals.pumpkin_carving" GUID="+Y80d4TGMkWeYpQrTX7w2w=="/>
-		<POI MapID="35" xpos="-27.9038" ypos="3.1103"   zpos="0.350588" type="festivals.pumpkin_carving" GUID="D2tc3JSDCkGls0lsWU0Q+g=="/>
-		<POI MapID="35" xpos="3.22424"  ypos="4.56726"  zpos="94.5568"  type="festivals.pumpkin_carving" GUID="p9ppgjMvlE6G48b0G/mXmw=="/>
-		<POI MapID="35" xpos="150.761"  ypos="2.4025"   zpos="-675.334" type="festivals.pumpkin_carving" GUID="ClIpB84fxUWU27D0BDayzg=="/>
-		<POI MapID="35" xpos="170.28"   ypos="45.7496"  zpos="243.738"  type="festivals.pumpkin_carving" GUID="bcVxJUOcdEGK6VZG7hFS8Q=="/>
-		<POI MapID="35" xpos="210.105"  ypos="13.3287"  zpos="-894.31"  type="festivals.pumpkin_carving" GUID="DmQbYL2pjEyPV1UpkXOKLw=="/>
-		<POI MapID="35" xpos="225.069"  ypos="56.1194"  zpos="-456.19"  type="festivals.pumpkin_carving" GUID="6BWF/+fPVUir8TK9Ajwmmg=="/>
-		<POI MapID="35" xpos="311.496"  ypos="28.6109"  zpos="716.923"  type="festivals.pumpkin_carving" GUID="P4rh/1PW0Eu5wTo/RZzk1Q=="/>
-		<POI MapID="35" xpos="357.313"  ypos="19.1269"  zpos="-62.9287" type="festivals.pumpkin_carving" GUID="+q8Q7v5ELEerj9qv77nQYA=="/>
-		<POI MapID="35" xpos="397.671"  ypos="74.2825"  zpos="818.085"  type="festivals.pumpkin_carving" GUID="QXACcX0VhU+OWieJA5JeYQ=="/>
-		<POI MapID="35" xpos="403.043"  ypos="48.6869"  zpos="-383.617" type="festivals.pumpkin_carving" GUID="sl6mFzmgNUeoyZwreMn85Q=="/>
-		<POI MapID="35" xpos="454.813"  ypos="24.2146"  zpos="490.647"  type="festivals.pumpkin_carving" GUID="KU1TNg+zCUyweOHO6k9buA=="/>
-		<POI MapID="35" xpos="499.635"  ypos="49.1701"  zpos="390.036"  type="festivals.pumpkin_carving" GUID="mbIdyxlwt0ePPkJEjQLXkw=="/>
-		<POI MapID="35" xpos="598.114"  ypos="22.5261"  zpos="-146.867" type="festivals.pumpkin_carving" GUID="qQ1aInT9JECtBCVZOy224g=="/>
-		<POI MapID="35" xpos="620.157"  ypos="39.5301"  zpos="-602.386" type="festivals.pumpkin_carving" GUID="IpSSXkY56k6wRN16e+/yHA=="/>
-
-		<POI MapID="50" xpos="-486.058" ypos="77.0991"  zpos="273.82"   type="festivals.pumpkin_carving" GUID="Fdqx3PZCBUOimEtWY02lGw=="/>
-		<POI MapID="50" xpos="-391.692" ypos="2.41601"  zpos="218.053"  type="festivals.pumpkin_carving" GUID="uc1D+qQGOUmZgQAXaaPjLw=="/>
-		<POI MapID="50" xpos="-296.99"  ypos="46.5342"  zpos="198.95"   type="festivals.pumpkin_carving" GUID="tsyHCce3cU6pORU6dsQOUQ=="/>
-		<POI MapID="50" xpos="-281.083" ypos="46.1268"  zpos="420.164"  type="festivals.pumpkin_carving" GUID="g0ARmAOOaUeWNcMNxAllgQ=="/>
-		<POI MapID="50" xpos="-258.944" ypos="11.5632"  zpos="111.273"  type="festivals.pumpkin_carving" GUID="gYTP+9QMqUmhtv/BO0iYWw=="/>
-		<POI MapID="50" xpos="-239.7"   ypos="13.386"   zpos="274.189"  type="festivals.pumpkin_carving" GUID="khgFim6vqkmASCzxRTWbWg=="/>
-		<POI MapID="50" xpos="-83.3034" ypos="23.375"   zpos="297.189"  type="festivals.pumpkin_carving" GUID="fpsfY13soE+EvbXO6QfqYA=="/>
-		<POI MapID="50" xpos="-60.8284" ypos="22.1264"  zpos="25.2157"  type="festivals.pumpkin_carving" GUID="SaRHqVYmyU6F1nbhCVZOpw=="/>
-		<POI MapID="50" xpos="-8.01378" ypos="0.805118" zpos="-21.8132" type="festivals.pumpkin_carving" GUID="mWacyMI5kEmDm16PQ5IefA=="/>
-		<POI MapID="50" xpos="-6.01595" ypos="70.1659"  zpos="339.431"  type="festivals.pumpkin_carving" GUID="3OoJtwFJvkKCEZAk+M+aZA=="/>
-		<POI MapID="50" xpos="44.7791"  ypos="21.9465"  zpos="322.392"  type="festivals.pumpkin_carving" GUID="MrTuX3+gmUaiRy8blY0PHg=="/>
-		<POI MapID="50" xpos="155.915"  ypos="30.393"   zpos="-142.787" type="festivals.pumpkin_carving" GUID="R/AIRsnEtkCe+E5BqJh83g=="/>
-		<POI MapID="50" xpos="575.91"   ypos="66.1808"  zpos="-23.7689" type="festivals.pumpkin_carving" GUID="Kh64zrR8RESQ90ihUCJwiQ=="/>
-
-		<POI MapID="866" xpos="-182.346" ypos="175.727" zpos="38.5998"  type="festivals.pumpkin_carving" GUID="XCyH0k4jS0mZWOsBeHxV5w==" behavior="6"/>
-		<POI MapID="866" xpos="-179.421" ypos="175.148" zpos="-49.4256" type="festivals.pumpkin_carving" GUID="eOE+nfP2RkO97ADtrJUc5g==" behavior="6"/>
-		<POI MapID="866" xpos="-173.113" ypos="170.314" zpos="-175.176" type="festivals.pumpkin_carving" GUID="hR70uX6uXEa6ECNz7MzHBw==" behavior="6"/>
-		<POI MapID="866" xpos="-168.425" ypos="175.037" zpos="16.9772"  type="festivals.pumpkin_carving" GUID="jEbvukAI+UWu91Ib7H1TXw==" behavior="6"/>
-		<POI MapID="866" xpos="-145.301" ypos="177.101" zpos="-163.262" type="festivals.pumpkin_carving" GUID="XcAhP3YXT0GTK5Oh3CO+lw==" behavior="6"/>
-		<POI MapID="866" xpos="-140.051" ypos="175.774" zpos="75.239"   type="festivals.pumpkin_carving" GUID="XSxnb8J06kWmpjpNACm4Dg==" behavior="6"/>
-		<POI MapID="866" xpos="-137.505" ypos="180.849" zpos="197.407"  type="festivals.pumpkin_carving" GUID="io345CsLX0K33pGRzsZ+fQ==" behavior="6"/>
-		<POI MapID="866" xpos="-72.9586" ypos="175.259" zpos="-166.864" type="festivals.pumpkin_carving" GUID="S+DUatHWuEqCtdywCFjbTQ==" behavior="6"/>
-		<POI MapID="866" xpos="-56.6688" ypos="171.399" zpos="-189.293" type="festivals.pumpkin_carving" GUID="hUITGp7ku02L54h4ir6YaA==" behavior="6"/>
-		<POI MapID="866" xpos="-49.877"  ypos="193.119" zpos="-47.0178" type="festivals.pumpkin_carving" GUID="9AbF5bK2vUeri6JCMFFkcA==" behavior="6"/>
-		<POI MapID="866" xpos="-32.6928" ypos="175.777" zpos="-163.252" type="festivals.pumpkin_carving" GUID="zf/qS+nzOkabiD/YQTKPZw==" behavior="6"/>
-		<POI MapID="866" xpos="-30.7116" ypos="176.303" zpos="204.146"  type="festivals.pumpkin_carving" GUID="K0ZNbqqHOEySpwWWqIX8Yg==" behavior="6"/>
-		<POI MapID="866" xpos="10.4068"  ypos="203.97"  zpos="30.7521"  type="festivals.pumpkin_carving" GUID="+20LqxthAU2T1NCrSfPEEw==" behavior="6"/>
-		<POI MapID="866" xpos="13.959"   ypos="192.405" zpos="51.3836"  type="festivals.pumpkin_carving" GUID="Kekiok3Wb06PcAe5Ixzx5A==" behavior="6"/>
-		<POI MapID="866" xpos="15.3296"  ypos="178.197" zpos="-104.445" type="festivals.pumpkin_carving" GUID="Sqg8/mCXT0edIL/KWCln9Q==" behavior="6"/>
-		<POI MapID="866" xpos="46.6961"  ypos="193.294" zpos="-61.9072" type="festivals.pumpkin_carving" GUID="J37Kqa2ylUSnOO5flocTwQ==" behavior="6"/>
-		<POI MapID="866" xpos="48.298"   ypos="178.377" zpos="-117.392" type="festivals.pumpkin_carving" GUID="QqhWoByCvkiTjIbOZZL5ew==" behavior="6"/>
-		<POI MapID="866" xpos="49.8308"  ypos="195.033" zpos="48.5516"  type="festivals.pumpkin_carving" GUID="55rvnnDuM0qlVgnHgcwIsQ==" behavior="6"/>
-		<POI MapID="866" xpos="71.23"    ypos="174.823" zpos="200.882"  type="festivals.pumpkin_carving" GUID="g3SEQJT3DE6It9n5WknawA==" behavior="6"/>
-		<POI MapID="866" xpos="75.101"   ypos="180.535" zpos="-135.001" type="festivals.pumpkin_carving" GUID="S9Qm64ItzE+n3zcg51snGg==" behavior="6"/>
-		<POI MapID="866" xpos="98.5462"  ypos="170.534" zpos="-210.283" type="festivals.pumpkin_carving" GUID="Iv3OfARoyEu152UufHYI9w==" behavior="6"/>
-		<POI MapID="866" xpos="114.024"  ypos="177.388" zpos="-21.3772" type="festivals.pumpkin_carving" GUID="ijhDvw65zkuEog3pqybJZg==" behavior="6"/>
-		<POI MapID="866" xpos="129.114"  ypos="177.853" zpos="20.7063"  type="festivals.pumpkin_carving" GUID="KiF0fWCnmUWUI+HZDefNlA==" behavior="6"/>
-		<POI MapID="866" xpos="141.132"  ypos="176.247" zpos="-132.015" type="festivals.pumpkin_carving" GUID="GNCk/ekkqEe3k1zb2NQ4vw==" behavior="6"/>
-		<POI MapID="866" xpos="156.358"  ypos="179.852" zpos="-170.177" type="festivals.pumpkin_carving" GUID="01xl8IGFxEKmkUUm7LuDJQ==" behavior="6"/>
-	<!--<POI MapID="866" xpos="179.945"  ypos="174.705" zpos="132.103"  type="festivals.pumpkin_carving" GUID="m2Fw9IuNXEODstGVbk8CpQ==" behavior="6"/>-->
-		<POI MapID="866" xpos="182.606"  ypos="174.54"  zpos="140.89"   type="festivals.pumpkin_carving" GUID="qY7ckoKeTEG6SWaQR9eYiQ==" behavior="6"/>
-		<POI MapID="866" xpos="195.864"  ypos="183.039" zpos="31.4787"  type="festivals.pumpkin_carving" GUID="8CcekZMJQEyHtiY9cTqoVA==" behavior="6"/>
-		<POI MapID="866" xpos="211.662"  ypos="185.562" zpos="-48.0912" type="festivals.pumpkin_carving" GUID="m+rbXtjR60yxIsJ7Y5Cn3Q==" behavior="6"/>
-
+		<POI MapID="15" xpos="-1048.45" ypos="29.3196" zpos="359.914" type="festivals.pumpkin_carving" GUID="L2byeNi8z0ezjCyEvA/Mjg==" />
+		<POI MapID="15" xpos="-963.782" ypos="15.6701" zpos="620.109" type="festivals.pumpkin_carving" GUID="//TS5kfajEml4gm/zPkZsQ==" />
+		<POI MapID="15" xpos="-938.95" ypos="26.9953" zpos="385.741" type="festivals.pumpkin_carving" GUID="i79BzHRBfUyXQFb0Oh6uCg==" />
+		<POI MapID="15" xpos="-869.087" ypos="18.2249" zpos="737.61" type="festivals.pumpkin_carving" GUID="uZNCDp/9i02+AnqsztZ9Ng==" />
+		<POI MapID="15" xpos="-820.402" ypos="1.60952" zpos="-499.159" type="festivals.pumpkin_carving" GUID="uNpVNouXh0iyv7gavYSyWQ==" />
+		<POI MapID="15" xpos="-806.069" ypos="50.6279" zpos="385.06" type="festivals.pumpkin_carving" GUID="ZecmLJhBN0mRCCVLrBcoNg==" />
+		<POI MapID="15" xpos="-803.848" ypos="47.3377" zpos="414.852" type="festivals.pumpkin_carving" GUID="87Etag36x0CXGwAnBVlGjQ==" />
+		<POI MapID="15" xpos="-751.395" ypos="24.5487" zpos="360.562" type="festivals.pumpkin_carving" GUID="wmXza7naE0GqwAYpnSMyYw==" />
+		<POI MapID="15" xpos="-744.753" ypos="46.8298" zpos="228.128" type="festivals.pumpkin_carving" GUID="WDINvGWsOUyBTrm//fpC5Q==" />
+		<POI MapID="15" xpos="-690.76" ypos="25.0008" zpos="400.327" type="festivals.pumpkin_carving" GUID="8jMlkFHuSk+wd3v1QL/Gaw==" />
+		<POI MapID="15" xpos="-597.849" ypos="74.2464" zpos="156.254" type="festivals.pumpkin_carving" GUID="4YjOOhXwdkOYL4hruXINmQ==" />
+		<POI MapID="15" xpos="-539.503" ypos="35.7996" zpos="-441.353" type="festivals.pumpkin_carving" GUID="rpufz78JdEW0DMbbKnDW2g==" />
+		<POI MapID="15" xpos="-535.369" ypos="34.2301" zpos="438.706" type="festivals.pumpkin_carving" GUID="Uoz5GgZOGkayqQPsd217vg==" />
+		<POI MapID="15" xpos="-515.874" ypos="21.9179" zpos="376.687" type="festivals.pumpkin_carving" GUID="SoE59SsoekaZ5Pqr3jI57Q==" />
+		<POI MapID="15" xpos="-495.482" ypos="22.3218" zpos="361.407" type="festivals.pumpkin_carving" GUID="AsDbPXOmTEKDYJHhkfcmrw==" />
+		<POI MapID="15" xpos="-357.404" ypos="73.0153" zpos="565.662" type="festivals.pumpkin_carving" GUID="/3eVichCI0uOnDahI5mY2Q==" />
+		<POI MapID="15" xpos="-307.082" ypos="69.2968" zpos="557.275" type="festivals.pumpkin_carving" GUID="pSx3QXpc8kiS6ovH38ihVw==" />
+		<POI MapID="15" xpos="-209.183" ypos="30.0269" zpos="385.296" type="festivals.pumpkin_carving" GUID="NRG4bpe380W01p3IhEdGNA==" />
+		<POI MapID="15" xpos="-175.743" ypos="36.0081" zpos="370.717" type="festivals.pumpkin_carving" GUID="t+erguM2Ukm5PGBDwZFXYg==" />
+		<POI MapID="15" xpos="-165.322" ypos="54.2092" zpos="578.318" type="festivals.pumpkin_carving" GUID="FeLVyrvgYESvk3QER49x5A==" />
+		<POI MapID="15" xpos="-154.656" ypos="27.7915" zpos="225.943" type="festivals.pumpkin_carving" GUID="/whcQdmok0KCdWxLk7wWkA==" />
+		<POI MapID="15" xpos="-135.166" ypos="44.1402" zpos="319.844" type="festivals.pumpkin_carving" GUID="Nm1X612R0U+CKtJd2gbvWA==" />
+		<POI MapID="15" xpos="-86.8133" ypos="57.6981" zpos="540.529" type="festivals.pumpkin_carving" GUID="X1+Z3Y4Pf0uHG2XRk+D9KQ==" />
+		<POI MapID="15" xpos="111.492" ypos="0.71319" zpos="437.622" type="festivals.pumpkin_carving" GUID="MFYIOTzFd0KQyzZ6FVw88w==" />
+		<POI MapID="15" xpos="118.036" ypos="6.50876" zpos="392.018" type="festivals.pumpkin_carving" GUID="IKjK8gF8ekGM0A6BUe6Esw==" />
+		<POI MapID="15" xpos="173.53" ypos="0.971255" zpos="391.381" type="festivals.pumpkin_carving" GUID="CppA5gHgzU2HavgJF9hoLw==" />
+		<POI MapID="15" xpos="186.484" ypos="0.606779" zpos="364.268" type="festivals.pumpkin_carving" GUID="qN77biKWGUmEyjEBLDbZZg==" />
+		<POI MapID="15" xpos="325.012" ypos="7.10906" zpos="-603.778" type="festivals.pumpkin_carving" GUID="bufmwybXXkGkWv4mR4HfaA==" />
+		<POI MapID="15" xpos="367.98" ypos="6.87162" zpos="-670.25" type="festivals.pumpkin_carving" GUID="M5elSU2cU0CWOA/bV9qgGg==" />
+		<POI MapID="15" xpos="527.944" ypos="37.9279" zpos="455.905" type="festivals.pumpkin_carving" GUID="IKUNn3Xp5UeB6/Ese4M0ow==" />
+		<POI MapID="15" xpos="553.444" ypos="47.6653" zpos="466.621" type="festivals.pumpkin_carving" GUID="241R1ovzqE6dvH8NZj4OIw==" />
+		<POI MapID="15" xpos="829.004" ypos="21.9293" zpos="272.96" type="festivals.pumpkin_carving" GUID="agVlUdKorEGF1qvoLqo0mw==" />
+		<POI MapID="15" xpos="913.239" ypos="24.1318" zpos="605.336" type="festivals.pumpkin_carving" GUID="1anBxhngX0CcEdQNmkWeJA==" />
+		<POI MapID="15" xpos="1030.09" ypos="29.3279" zpos="564.758" type="festivals.pumpkin_carving" GUID="9paWo72OyUSsk5+uq3KyOA==" />
+		<POI MapID="19" xpos="-1184.14" ypos="73.1672" zpos="546.697" type="festivals.pumpkin_carving" GUID="8VumQGKKGEWc6VVBjgYyDw==" />
+		<POI MapID="19" xpos="-1058.21" ypos="55.2676" zpos="516.331" type="festivals.pumpkin_carving" GUID="mG1KiLDK6EuYPC+fMxFhyg==" />
+		<POI MapID="19" xpos="-1003.06" ypos="41.4096" zpos="278.883" type="festivals.pumpkin_carving" GUID="3gRQissqY0qhJ2ux8cVp3Q==" />
+		<POI MapID="19" xpos="-985.305" ypos="36.9597" zpos="-428.953" type="festivals.pumpkin_carving" GUID="499hsKN8J0ayzyXYZzmN6g==" />
+		<POI MapID="19" xpos="-973.177" ypos="38.1284" zpos="58.8229" type="festivals.pumpkin_carving" GUID="jJK9S/gS0E6ZqQyvB+pCwA==" />
+		<POI MapID="19" xpos="-912.082" ypos="45.3137" zpos="-195.428" type="festivals.pumpkin_carving" GUID="4GBk6Z7VtkCCQosm80RsAw==" />
+		<POI MapID="19" xpos="-884.553" ypos="42.0132" zpos="300.057" type="festivals.pumpkin_carving" GUID="9umG2wowTUK/Q92aFf4tuA==" />
+		<POI MapID="19" xpos="-790.569" ypos="21.6075" zpos="484.265" type="festivals.pumpkin_carving" GUID="uM3oP1TNlUunZIsPOQtlGw==" />
+		<POI MapID="19" xpos="-646.583" ypos="42.8698" zpos="233.744" type="festivals.pumpkin_carving" GUID="HUatS4vqoEaV3Y5DfZw9+g==" />
+		<POI MapID="19" xpos="-601.976" ypos="60.1889" zpos="-148.252" type="festivals.pumpkin_carving" GUID="f4gFGQRGoEm18DB0mucYLA==" />
+		<POI MapID="19" xpos="-551.22" ypos="3.06795" zpos="37.5999" type="festivals.pumpkin_carving" GUID="RdYDVsj8CEGptfZ6Ifjk7A==" />
+		<POI MapID="19" xpos="-515.199" ypos="60.073" zpos="-187.778" type="festivals.pumpkin_carving" GUID="DmdmxI+my0irUyiz+3BQmQ==" />
+		<POI MapID="19" xpos="-494.23" ypos="57.2966" zpos="-383.834" type="festivals.pumpkin_carving" GUID="eMC33ihMn0Oys5JzgWKFIg==" />
+		<POI MapID="19" xpos="-485.712" ypos="55.4607" zpos="79.2022" type="festivals.pumpkin_carving" GUID="nUpwxu+xn0G8xJFtqaBQ+g==" />
+		<POI MapID="19" xpos="-378.262" ypos="31.4104" zpos="-543.203" type="festivals.pumpkin_carving" GUID="JGtsBX1fF0WlTmzFKdyKPA==" />
+		<POI MapID="19" xpos="-292.132" ypos="4.83045" zpos="-462.783" type="festivals.pumpkin_carving" GUID="n+6zQA1B/EyG/86VTHWFiw==" />
+		<POI MapID="19" xpos="-68.0159" ypos="20.3306" zpos="-58.216" type="festivals.pumpkin_carving" GUID="lQ9qEUdPXUq1CD2x8YqrrA==" />
+		<POI MapID="19" xpos="-1.67564" ypos="52.8635" zpos="165.012" type="festivals.pumpkin_carving" GUID="yfTTKvTRTkesr/Pb+4JyuA==" />
+		<POI MapID="19" xpos="80.6068" ypos="41.5378" zpos="-259.96" type="festivals.pumpkin_carving" GUID="0WSjkCfm4kOhalr9Zq51jg==" />
+		<POI MapID="19" xpos="158.37" ypos="42.7658" zpos="-339.543" type="festivals.pumpkin_carving" GUID="YNwbWN72mESht3VK8QERpw==" />
+		<POI MapID="19" xpos="340.742" ypos="31.8911" zpos="383.39" type="festivals.pumpkin_carving" GUID="kWYrmzkL0U2kCmZp8f08kw==" />
+		<POI MapID="19" xpos="342.983" ypos="4.65163" zpos="-331.001" type="festivals.pumpkin_carving" GUID="lZslIDjDgEmWmjQEWRtxlQ==" />
+		<POI MapID="19" xpos="361.638" ypos="49.3291" zpos="95.0299" type="festivals.pumpkin_carving" GUID="BiLtQROrskut7NYgEWP7pw==" />
+		<POI MapID="19" xpos="377.949" ypos="33.1998" zpos="137.081" type="festivals.pumpkin_carving" GUID="vBd92Oe1X0qaTlJiEywVaQ==" />
+		<POI MapID="19" xpos="389.533" ypos="35.6984" zpos="570.276" type="festivals.pumpkin_carving" GUID="iRnFkZhdU0evizGQxA3w6w==" />
+		<POI MapID="19" xpos="579.007" ypos="5.658" zpos="-203.986" type="festivals.pumpkin_carving" GUID="lA7DulJSHkS/gH1UuOOAWw==" />
+		<POI MapID="19" xpos="937.175" ypos="25.8505" zpos="215.799" type="festivals.pumpkin_carving" GUID="YQb6EGSo3E+p7sVnTX5L2Q==" />
+		<POI MapID="19" xpos="939.672" ypos="76.7933" zpos="523.132" type="festivals.pumpkin_carving" GUID="yRtX8y7YUkWImYL0KOMfwQ==" />
+		<POI MapID="19" xpos="952.205" ypos="45.1919" zpos="-259.11" type="festivals.pumpkin_carving" GUID="jgA7uMgfQkyQrHnWlLAk4w==" />
+		<POI MapID="19" xpos="1073.12" ypos="32.2649" zpos="218.137" type="festivals.pumpkin_carving" GUID="JwFKVDd8TkOG3dXcQrt3tA==" />
+		<POI MapID="23" xpos="-882.421" ypos="107.098" zpos="538.182" type="festivals.pumpkin_carving" GUID="TJc72SlVxEaihhJTi4m0kQ==" />
+		<POI MapID="23" xpos="-879.161" ypos="92.3742" zpos="457.527" type="festivals.pumpkin_carving" GUID="XXMObdx59k23+8prbQpVmQ==" />
+		<POI MapID="23" xpos="-819.537" ypos="2.4568" zpos="-538.904" type="festivals.pumpkin_carving" GUID="e0AMHD8+8kCbgrEDB59fsQ==" />
+		<POI MapID="23" xpos="-647.919" ypos="43.007" zpos="302.074" type="festivals.pumpkin_carving" GUID="oEvNu6YIOEeN+qzCPc7/Rg==" />
+		<POI MapID="23" xpos="-526.12" ypos="17.6469" zpos="-295.223" type="festivals.pumpkin_carving" GUID="KeqZ8zqxYUWFilP1+yVv+g==" />
+		<POI MapID="23" xpos="-460.987" ypos="53.3354" zpos="456.557" type="festivals.pumpkin_carving" GUID="fUmf48ntYkyfCiWjcYk9Fw==" />
+		<POI MapID="23" xpos="-391.014" ypos="58.7849" zpos="478.984" type="festivals.pumpkin_carving" GUID="8NtPvpMLlUWPMfzhh4IlNg==" />
+		<POI MapID="23" xpos="-362.177" ypos="21.3008" zpos="257.49" type="festivals.pumpkin_carving" GUID="Dduz/oDUkESZrAHurQSbSg==" />
+		<POI MapID="23" xpos="-354.899" ypos="1.22896" zpos="48.5367" type="festivals.pumpkin_carving" GUID="JzTNfuMy8U2rLQT/+s5xpQ==" />
+		<POI MapID="23" xpos="-352.251" ypos="24.8841" zpos="-508.586" type="festivals.pumpkin_carving" GUID="IPaAGiLq3UGiqVUsFdvgLw==" />
+		<POI MapID="23" xpos="-328.078" ypos="17.8354" zpos="-442.702" type="festivals.pumpkin_carving" GUID="GVanjTdjx06NnAb2SXYMTg==" />
+		<POI MapID="23" xpos="-311.763" ypos="3.00415" zpos="43.1178" type="festivals.pumpkin_carving" GUID="P1Vu3yHMgkC5VwtNKn6lCQ==" />
+		<POI MapID="23" xpos="310.504" ypos="70.1965" zpos="-422.468" type="festivals.pumpkin_carving" GUID="7jkKj1SYR02nb19mBgrRgA==" />
+		<POI MapID="23" xpos="321.713" ypos="58.2649" zpos="-370.44" type="festivals.pumpkin_carving" GUID="Ciqpno2SQES6b9iF9BsmGg==" />
+		<POI MapID="23" xpos="338.101" ypos="50.337" zpos="379.338" type="festivals.pumpkin_carving" GUID="5DU13IiZFku18tVsjley5g==" />
+		<POI MapID="23" xpos="711.734" ypos="55.9951" zpos="509.682" type="festivals.pumpkin_carving" GUID="C5XSbte3YUOm+BtEETOsfg==" />
+		<POI MapID="23" xpos="737.503" ypos="70.6924" zpos="175.281" type="festivals.pumpkin_carving" GUID="aHNTynSTKEK1wFdY7rAIrg==" />
+		<POI MapID="23" xpos="826.057" ypos="39.2175" zpos="377.39" type="festivals.pumpkin_carving" GUID="AFe9K4lFL06arYnGYyBQCw==" />
+		<POI MapID="23" xpos="924.198" ypos="44.5103" zpos="355.609" type="festivals.pumpkin_carving" GUID="pOawHPjOA0+AVjpETFTKKg==" />
+		<POI MapID="23" xpos="926.397" ypos="73.1388" zpos="-291.774" type="festivals.pumpkin_carving" GUID="yrEUW/fVzUud1/2KZG/mdA==" />
+		<POI MapID="23" xpos="927.068" ypos="56.5263" zpos="375.188" type="festivals.pumpkin_carving" GUID="91QeGnzzhE6W8AzKaS1P3A==" />
+		<POI MapID="23" xpos="956.107" ypos="56.0278" zpos="57.8355" type="festivals.pumpkin_carving" GUID="VF3pIJAvRUSsFDHwShSfvw==" />
+		<POI MapID="23" xpos="999.354" ypos="3.43009" zpos="561.23" type="festivals.pumpkin_carving" GUID="Mn2RIM58Akaa5UW9ttjetA==" />
+		<POI MapID="23" xpos="1073.14" ypos="13.6517" zpos="423.183" type="festivals.pumpkin_carving" GUID="wxkAQ9Q+DU6M2m2cKsYMzQ==" />
+		<POI MapID="23" xpos="1108.27" ypos="74.3022" zpos="-348.323" type="festivals.pumpkin_carving" GUID="FTlyaRdr6U6jE7GASUkXIQ==" />
+		<POI MapID="23" xpos="1147.54" ypos="51.3538" zpos="-311.983" type="festivals.pumpkin_carving" GUID="OhPhN3Yhxk25q1HBlRq9fA==" />
+		<POI MapID="23" xpos="1153.83" ypos="16.3111" zpos="519.291" type="festivals.pumpkin_carving" GUID="PHvFdUBpnEGDx1yxb07mCQ==" />
+		<POI MapID="23" xpos="1187.98" ypos="43.5993" zpos="-98.5817" type="festivals.pumpkin_carving" GUID="vDExbTskc0u9ulAud3cKxw==" />
+		<POI MapID="23" xpos="1195.6" ypos="50.3188" zpos="-271.436" type="festivals.pumpkin_carving" GUID="ZJmj4odHH0+qE08q0kTwpw==" />
+		<POI MapID="23" xpos="1202.75" ypos="18.3338" zpos="-439.461" type="festivals.pumpkin_carving" GUID="KYQUh8oxvEWMnbj94qDZLg==" />
+		<POI MapID="24" xpos="-1169.26" ypos="9.72541" zpos="361.287" type="festivals.pumpkin_carving" GUID="vDB4hZfkE0SMGzYB/XNE9Q==" />
+		<POI MapID="24" xpos="-1150.7" ypos="42.6416" zpos="522.694" type="festivals.pumpkin_carving" GUID="3BU4klnHm0qMBS6shkjVKQ==" />
+		<POI MapID="24" xpos="-1042.69" ypos="14.8603" zpos="99.8969" type="festivals.pumpkin_carving" GUID="1k2EOuGoqUKi3uxMvCxXbQ==" />
+		<POI MapID="24" xpos="-989.222" ypos="43.8421" zpos="-280.688" type="festivals.pumpkin_carving" GUID="l6PDncGtz0y8nU/RWIqmQA==" />
+		<POI MapID="24" xpos="-872.46" ypos="35.6368" zpos="432.875" type="festivals.pumpkin_carving" GUID="f8gIEnzyKkSyvZjqne8iqg==" />
+		<POI MapID="24" xpos="-788.07" ypos="1.08709" zpos="-549.506" type="festivals.pumpkin_carving" GUID="1VsRjlsUgESMBs49IY603Q==" />
+		<POI MapID="24" xpos="-787.338" ypos="30.2099" zpos="61.3437" type="festivals.pumpkin_carving" GUID="ZyIA90A1sUOCK1StSxoevQ==" />
+		<POI MapID="24" xpos="-752.482" ypos="21.9742" zpos="360.144" type="festivals.pumpkin_carving" GUID="9LdujEcMU0iHnW/Lv8/Iew==" />
+		<POI MapID="24" xpos="-501.155" ypos="34.2559" zpos="442.824" type="festivals.pumpkin_carving" GUID="/QtbLVZc5kCyuld/SM/8cw==" />
+		<POI MapID="24" xpos="-442.174" ypos="16.0503" zpos="-116.733" type="festivals.pumpkin_carving" GUID="WLCHCLVlF0Sp3Xt8l6hRAg==" />
+		<POI MapID="24" xpos="-431.328" ypos="1.87362" zpos="-353.213" type="festivals.pumpkin_carving" GUID="5ScVuCloyEOSEilVpG8bWQ==" />
+		<POI MapID="24" xpos="-369.655" ypos="1.96439" zpos="232.903" type="festivals.pumpkin_carving" GUID="rlmWGnCCPUSKD+Bwl2bI0Q==" />
+		<POI MapID="24" xpos="-365.267" ypos="6.14238" zpos="8.48252" type="festivals.pumpkin_carving" GUID="K55mFeIlM0Octs+ZRtrpIw==" />
+		<POI MapID="24" xpos="-356.273" ypos="55.7687" zpos="130.39" type="festivals.pumpkin_carving" GUID="IFCe6R9KjUysHH/AnvlIig==" />
+		<POI MapID="24" xpos="-65.6822" ypos="8.62951" zpos="-519.737" type="festivals.pumpkin_carving" GUID="iTjyc2Wcu0i+hkpCeFVleg==" />
+		<POI MapID="24" xpos="-47.7504" ypos="13.5658" zpos="464.657" type="festivals.pumpkin_carving" GUID="dXWe+n8fD0WyhMtzWje7WQ==" />
+		<POI MapID="24" xpos="139.862" ypos="10.1434" zpos="-395.687" type="festivals.pumpkin_carving" GUID="G0t3VJlvpUieW0msq76uGQ==" />
+		<POI MapID="24" xpos="157.321" ypos="2.92837" zpos="102.429" type="festivals.pumpkin_carving" GUID="jnRg9wWQJEy3JggKnU/ujg==" />
+		<POI MapID="24" xpos="226.934" ypos="4.25169" zpos="-484.332" type="festivals.pumpkin_carving" GUID="iMN2nfRtxUGFTvn1Av93Ew==" />
+		<POI MapID="24" xpos="243.267" ypos="12.3959" zpos="399.994" type="festivals.pumpkin_carving" GUID="0aYItp7CPkWoOlW0GwWuQQ==" />
+		<POI MapID="24" xpos="348.458" ypos="15.0247" zpos="-336.784" type="festivals.pumpkin_carving" GUID="sb/95phSbUeN86Yy8GipOQ==" />
+		<POI MapID="24" xpos="426.912" ypos="11.2042" zpos="-428.553" type="festivals.pumpkin_carving" GUID="nKZdjvSSr0CiBzTK/AdUvA==" />
+		<POI MapID="24" xpos="455.22" ypos="1.49664" zpos="348.72" type="festivals.pumpkin_carving" GUID="mxoDdMkbLkK6fboiCzp4tg==" />
+		<POI MapID="24" xpos="534.391" ypos="74.7998" zpos="530.722" type="festivals.pumpkin_carving" GUID="qAcmURInOkeyk/5/oEn8sA==" />
+		<POI MapID="24" xpos="673.408" ypos="41.9296" zpos="-108.414" type="festivals.pumpkin_carving" GUID="ItN/PQazFEy0lz4DcuX3Hg==" />
+		<POI MapID="24" xpos="696.247" ypos="22.002" zpos="-109.571" type="festivals.pumpkin_carving" GUID="qHEBcnuUhEqDfZva4mzkdA==" />
+		<POI MapID="24" xpos="714.958" ypos="24.2316" zpos="-10.2938" type="festivals.pumpkin_carving" GUID="Wrw27hFOckyPIQpf+CfLPQ==" />
+		<POI MapID="24" xpos="749.947" ypos="3.38684" zpos="-499.694" type="festivals.pumpkin_carving" GUID="7b5q2przKkarPpVi5d6dEw==" />
+		<POI MapID="24" xpos="975.662" ypos="30.6321" zpos="298.238" type="festivals.pumpkin_carving" GUID="pqORNVq5C0a63NW9REDjnQ==" />
+		<POI MapID="24" xpos="1046.9" ypos="74.2885" zpos="-202.532" type="festivals.pumpkin_carving" GUID="6vjHTWCRB0mVGtbRe5mKjA==" />
+		<POI MapID="28" xpos="-432.862" ypos="128.059" zpos="-212.903" type="festivals.pumpkin_carving" GUID="1Lz2P8Bp8Ua1tU7wD4FYDQ==" />
+		<POI MapID="28" xpos="-398.378" ypos="96.7003" zpos="426.57" type="festivals.pumpkin_carving" GUID="Mhtm7bZwaUOwp5KzjodE6Q==" />
+		<POI MapID="28" xpos="-233.433" ypos="99.4024" zpos="-576.239" type="festivals.pumpkin_carving" GUID="8Q4izon2Tkyc/OF/MOxEBw==" />
+		<POI MapID="28" xpos="-188.881" ypos="95.9924" zpos="-603.388" type="festivals.pumpkin_carving" GUID="uPf2WP9EAkeo6We2PFRBAg==" />
+		<POI MapID="28" xpos="-180.068" ypos="146.568" zpos="820.549" type="festivals.pumpkin_carving" GUID="GY6+FWDMRUetHZy02JbqOA==" />
+		<POI MapID="28" xpos="-167.482" ypos="97.8443" zpos="489.44" type="festivals.pumpkin_carving" GUID="deDe1qv7Wk2spe8JZXX+KQ==" />
+		<POI MapID="28" xpos="-155.762" ypos="172.919" zpos="-399.733" type="festivals.pumpkin_carving" GUID="yBvBV29vDkKe3PfeugX3/A==" />
+		<POI MapID="28" xpos="-87.1725" ypos="96.5934" zpos="210.347" type="festivals.pumpkin_carving" GUID="0i7OYff56kapTfcqpQvhgw==" />
+		<POI MapID="28" xpos="-66.1951" ypos="53.6175" zpos="-1326.78" type="festivals.pumpkin_carving" GUID="8dWWQnqyj0G4tI//12rkPg==" />
+		<POI MapID="28" xpos="-53.9563" ypos="42.4392" zpos="-88.7005" type="festivals.pumpkin_carving" GUID="re7QGS3ssEqunOUPUTObEg==" />
+		<POI MapID="28" xpos="-28.343" ypos="146.432" zpos="671.56" type="festivals.pumpkin_carving" GUID="7V25ZDiyskOhvcVw7O1lSw==" />
+		<POI MapID="28" xpos="-19.7426" ypos="92.333" zpos="569.664" type="festivals.pumpkin_carving" GUID="UKDLeyi0NEmlkIEDqj+tRg==" />
+		<POI MapID="28" xpos="22.5802" ypos="26.3591" zpos="-851.758" type="festivals.pumpkin_carving" GUID="S2AhaEFm7UKtGWdj4Qz63g==" />
+		<POI MapID="28" xpos="39.7648" ypos="13.9489" zpos="-1118.63" type="festivals.pumpkin_carving" GUID="B7YEHuRv+UeFO2zBK70ctQ==" />
+		<POI MapID="28" xpos="52.9536" ypos="189.106" zpos="1161.93" type="festivals.pumpkin_carving" GUID="W3708Lw8AUyUKt+C2mOpHg==" />
+		<POI MapID="28" xpos="62.4884" ypos="100.262" zpos="122.241" type="festivals.pumpkin_carving" GUID="9CL6+WWzy0Clpu94ILCbPQ==" />
+		<POI MapID="28" xpos="73.5808" ypos="117.953" zpos="921.931" type="festivals.pumpkin_carving" GUID="HWYEl1Gh/Eiy1tReRWpRig==" />
+		<POI MapID="28" xpos="118.583" ypos="21.8105" zpos="-1243.69" type="festivals.pumpkin_carving" GUID="PK7IBY5sKUKCSITYkSwfUg==" />
+		<POI MapID="28" xpos="126.976" ypos="3.84493" zpos="-496.575" type="festivals.pumpkin_carving" GUID="7sNq8/q8tECmkA4/XO90Wg==" />
+		<POI MapID="28" xpos="200.997" ypos="24.3496" zpos="-126.279" type="festivals.pumpkin_carving" GUID="Rlrkkn9FHU2/pTLtO/8gVw==" />
+		<POI MapID="28" xpos="262.063" ypos="75.6925" zpos="807.463" type="festivals.pumpkin_carving" GUID="NCyyV6LL5kCOFx7Y3V0VkA==" />
+		<POI MapID="28" xpos="265.222" ypos="92.307" zpos="560.573" type="festivals.pumpkin_carving" GUID="HWPrDxFnPEy1zs5XXZWkgg==" />
+		<POI MapID="28" xpos="273.968" ypos="72.5911" zpos="241.692" type="festivals.pumpkin_carving" GUID="sk9PYhqUXUeklXdBdJ5E9g==" />
+		<POI MapID="28" xpos="310.76" ypos="26.8135" zpos="-490.609" type="festivals.pumpkin_carving" GUID="w9OdS13p0kWliJsGOvUDWQ==" />
+		<POI MapID="28" xpos="346.082" ypos="31.2893" zpos="-1082.53" type="festivals.pumpkin_carving" GUID="cfz140xUhkqHBAsxet2Eiw==" />
+		<POI MapID="28" xpos="395.279" ypos="128.761" zpos="948.482" type="festivals.pumpkin_carving" GUID="XdW7kCATc0eQgvz9tAq3+Q==" />
+		<POI MapID="28" xpos="413.278" ypos="76.1728" zpos="450.576" type="festivals.pumpkin_carving" GUID="B/C611A8Hk+2cPKMRMmHFg==" />
+		<POI MapID="28" xpos="446.324" ypos="73.3695" zpos="253.056" type="festivals.pumpkin_carving" GUID="0MU9Un8pCkCcFjFRc5vu9g==" />
+		<POI MapID="28" xpos="447.657" ypos="119.452" zpos="-139.745" type="festivals.pumpkin_carving" GUID="Hs4+yqCmvU2pf42S/whhKA==" />
+		<POI MapID="28" xpos="451.552" ypos="77.3764" zpos="579.325" type="festivals.pumpkin_carving" GUID="DUq1PfoY2UCoJwAlwec3BA==" />
+		<POI MapID="34" xpos="-455.786" ypos="3.33405" zpos="-671.646" type="festivals.pumpkin_carving" GUID="YUk/xT/AlEq3DPU3a64+ww==" />
+		<POI MapID="34" xpos="-444.272" ypos="5.81072" zpos="1141.05" type="festivals.pumpkin_carving" GUID="UYChlvWnKkuupQ8ELeoCOQ==" />
+		<POI MapID="34" xpos="-377.54" ypos="12.2901" zpos="-54.2399" type="festivals.pumpkin_carving" GUID="uWOevBRyc0uW2PAeA+JL0Q==" />
+		<POI MapID="34" xpos="-270.039" ypos="1.6925" zpos="-520.731" type="festivals.pumpkin_carving" GUID="T/yTYBQfS0WoH6+djCh+sg==" />
+		<POI MapID="34" xpos="-219.195" ypos="10.2908" zpos="-158.955" type="festivals.pumpkin_carving" GUID="HxGpi4+jiUOIcrTnv/HDmA==" />
+		<POI MapID="34" xpos="-214.132" ypos="32.9606" zpos="-326.501" type="festivals.pumpkin_carving" GUID="I6Du2JqPtkO1OmI0wrOdbQ==" />
+		<POI MapID="34" xpos="-211.149" ypos="2.11994" zpos="1050.39" type="festivals.pumpkin_carving" GUID="sZoY4Uis80uUUoKZRr1OqA==" />
+		<POI MapID="34" xpos="-170.403" ypos="5.63516" zpos="-1000.05" type="festivals.pumpkin_carving" GUID="M2NDkHYqDkClZZN6ZCI6aw==" />
+		<POI MapID="34" xpos="-120.813" ypos="1.99381" zpos="-976.488" type="festivals.pumpkin_carving" GUID="QoBj2vXT7kSVw9k6IrswkQ==" />
+		<POI MapID="34" xpos="-94.4248" ypos="1.60918" zpos="-951.692" type="festivals.pumpkin_carving" GUID="A+9ZD1dIlk23FfB+7F50KA==" />
+		<POI MapID="34" xpos="-82.8677" ypos="16.1997" zpos="872.844" type="festivals.pumpkin_carving" GUID="5zcdGMMxHUK9rK7+KlZGSQ==" />
+		<POI MapID="34" xpos="-41.4405" ypos="5.75468" zpos="-4.004" type="festivals.pumpkin_carving" GUID="XuLJ7IP7K0K/e3xHkKN3Cw==" />
+		<POI MapID="34" xpos="-4.13586" ypos="10.6303" zpos="1080.51" type="festivals.pumpkin_carving" GUID="QLANWJYfSUuzGa9IA17IYg==" />
+		<POI MapID="34" xpos="0.112122" ypos="20.4839" zpos="-652.946" type="festivals.pumpkin_carving" GUID="8T/lsvdQ/UCkH+Y3UTIRVw==" />
+		<POI MapID="34" xpos="14.0562" ypos="25.2088" zpos="-324.887" type="festivals.pumpkin_carving" GUID="thi3qX1XG068XhYeuiZfgg==" />
+		<POI MapID="34" xpos="18.9933" ypos="38.3417" zpos="-262.301" type="festivals.pumpkin_carving" GUID="pldYqAyQnUm10kcfEu6y5Q==" />
+		<POI MapID="34" xpos="20.6324" ypos="4.90201" zpos="1197.71" type="festivals.pumpkin_carving" GUID="DCV9rCba6UGcRtKW4r/Ohg==" />
+		<POI MapID="34" xpos="90.2021" ypos="42.5804" zpos="165.473" type="festivals.pumpkin_carving" GUID="ZNsCORxaVkSeAHAsxRzjYw==" />
+		<POI MapID="34" xpos="215.779" ypos="10.4646" zpos="500.635" type="festivals.pumpkin_carving" GUID="lloMxGfcjUOA3Ab3nvJEyw==" />
+		<POI MapID="34" xpos="235.176" ypos="11.5503" zpos="823.708" type="festivals.pumpkin_carving" GUID="xPIy81g2+ECYhaEYu9YaWA==" />
+		<POI MapID="34" xpos="264.452" ypos="19.0108" zpos="988.235" type="festivals.pumpkin_carving" GUID="7rnHYmlBckSYn39Zs4YMKg==" />
+		<POI MapID="34" xpos="340.087" ypos="9.63853" zpos="1056.17" type="festivals.pumpkin_carving" GUID="LbG7sW8MREGc0lbk462akw==" />
+		<POI MapID="34" xpos="357.426" ypos="42.6183" zpos="-690.648" type="festivals.pumpkin_carving" GUID="MAzMDqEECUCYVirA0eRLOw==" />
+		<POI MapID="34" xpos="384.785" ypos="2.44756" zpos="-1081.85" type="festivals.pumpkin_carving" GUID="RgCk71Jhg0qjHWRd1eFaBw==" />
+		<POI MapID="34" xpos="401.05" ypos="2.37207" zpos="-154.956" type="festivals.pumpkin_carving" GUID="n0D6C4GNkkirYxvsdpp2zQ==" />
+		<POI MapID="34" xpos="412.974" ypos="1.6563" zpos="325.104" type="festivals.pumpkin_carving" GUID="0+ZOJ/xnQku38s+NYoup0Q==" />
+		<POI MapID="34" xpos="422.079" ypos="49.1494" zpos="-622.299" type="festivals.pumpkin_carving" GUID="4d4H/AdQokiGQ8FaavQvZQ==" />
+		<POI MapID="34" xpos="439.773" ypos="2.09022" zpos="843.862" type="festivals.pumpkin_carving" GUID="f0tW1UpUA0SSwp9wGFO0/Q==" />
+		<POI MapID="34" xpos="456.39" ypos="20.7771" zpos="236.756" type="festivals.pumpkin_carving" GUID="e1X5+yPow0O9Qn+Q0x4+QA==" />
+		<POI MapID="34" xpos="548.877" ypos="10.3002" zpos="896.328" type="festivals.pumpkin_carving" GUID="LANiB0edgEK7ngxypWeZIw==" />
+		<POI MapID="34" xpos="567.866" ypos="16.3186" zpos="-884.125" type="festivals.pumpkin_carving" GUID="mZwiD8fACU2WmIWiFSreXA==" />
+		<POI MapID="35" xpos="-521.923" ypos="54.0854" zpos="-739.159" type="festivals.pumpkin_carving" GUID="dIMERG0LNkSNhVt91KqmJA==" />
+		<POI MapID="35" xpos="-491.107" ypos="51.6095" zpos="-772.145" type="festivals.pumpkin_carving" GUID="0whjBLUR7k64ji7JoKnOZw==" />
+		<POI MapID="35" xpos="-481.693" ypos="69.0897" zpos="-689.86" type="festivals.pumpkin_carving" GUID="SBE7Gxq+U0mMXxE2+PbOew==" />
+		<POI MapID="35" xpos="-396.753" ypos="25.7404" zpos="724.999" type="festivals.pumpkin_carving" GUID="G6rjfMTRmUSEzUwsa7X7vg==" />
+		<POI MapID="35" xpos="-368.177" ypos="60.6551" zpos="-771.759" type="festivals.pumpkin_carving" GUID="LgQ2Qo/6ZkKLjN8AM8DZpg==" />
+		<POI MapID="35" xpos="-368.177" ypos="60.6551" zpos="-771.759" type="festivals.pumpkin_carving" GUID="Esk8X+ZI3EuyECseNUdg7w==" />
+		<POI MapID="35" xpos="-204.885" ypos="9.16822" zpos="707.005" type="festivals.pumpkin_carving" GUID="e3Ion03t4EaCTveBWsiJuQ==" />
+		<POI MapID="35" xpos="-177.867" ypos="30.4918" zpos="-641.29" type="festivals.pumpkin_carving" GUID="boDpt69vX0egwyv3xNNvxg==" />
+		<POI MapID="35" xpos="-146.708" ypos="35.9302" zpos="-696.473" type="festivals.pumpkin_carving" GUID="/D3ZcvHrzky4OWhXnFAu0A==" />
+		<POI MapID="35" xpos="-137.842" ypos="12.2797" zpos="102.266" type="festivals.pumpkin_carving" GUID="AW6XmrqGn0Saxlh9a8XzXw==" />
+		<POI MapID="35" xpos="-91.1483" ypos="30.2181" zpos="-150.984" type="festivals.pumpkin_carving" GUID="zJtAOQo1aUWy2EakGFNG4A==" />
+		<POI MapID="35" xpos="-88.3238" ypos="39.2545" zpos="-796.649" type="festivals.pumpkin_carving" GUID="fBnr8XrKTkytaZJjfTVWeA==" />
+		<POI MapID="35" xpos="-77.6374" ypos="15.4399" zpos="34.6074" type="festivals.pumpkin_carving" GUID="5ZliV2Pg0E2cbMJdQQ+/Ww==" />
+		<POI MapID="35" xpos="-69.8823" ypos="51.8276" zpos="-748.67" type="festivals.pumpkin_carving" GUID="2leL3E2VtE2T+/5LIyybSQ==" />
+		<POI MapID="35" xpos="-51.0822" ypos="16.2608" zpos="-730.656" type="festivals.pumpkin_carving" GUID="zasTcdWSGUGDpZnarUZAtQ==" />
+		<POI MapID="35" xpos="-44.7713" ypos="54.2984" zpos="-351.048" type="festivals.pumpkin_carving" GUID="4eAGyGogsEOLV/fzrauK5Q==" />
+		<POI MapID="35" xpos="-37.6811" ypos="50.2659" zpos="-112.681" type="festivals.pumpkin_carving" GUID="+Y80d4TGMkWeYpQrTX7w2w==" />
+		<POI MapID="35" xpos="-27.9038" ypos="3.1103" zpos="0.350588" type="festivals.pumpkin_carving" GUID="D2tc3JSDCkGls0lsWU0Q+g==" />
+		<POI MapID="35" xpos="3.22424" ypos="4.56726" zpos="94.5568" type="festivals.pumpkin_carving" GUID="p9ppgjMvlE6G48b0G/mXmw==" />
+		<POI MapID="35" xpos="150.761" ypos="2.4025" zpos="-675.334" type="festivals.pumpkin_carving" GUID="ClIpB84fxUWU27D0BDayzg==" />
+		<POI MapID="35" xpos="170.28" ypos="45.7496" zpos="243.738" type="festivals.pumpkin_carving" GUID="bcVxJUOcdEGK6VZG7hFS8Q==" />
+		<POI MapID="35" xpos="210.105" ypos="13.3287" zpos="-894.31" type="festivals.pumpkin_carving" GUID="DmQbYL2pjEyPV1UpkXOKLw==" />
+		<POI MapID="35" xpos="225.069" ypos="56.1194" zpos="-456.19" type="festivals.pumpkin_carving" GUID="6BWF/+fPVUir8TK9Ajwmmg==" />
+		<POI MapID="35" xpos="311.496" ypos="28.6109" zpos="716.923" type="festivals.pumpkin_carving" GUID="P4rh/1PW0Eu5wTo/RZzk1Q==" />
+		<POI MapID="35" xpos="357.313" ypos="19.1269" zpos="-62.9287" type="festivals.pumpkin_carving" GUID="+q8Q7v5ELEerj9qv77nQYA==" />
+		<POI MapID="35" xpos="397.671" ypos="74.2825" zpos="818.085" type="festivals.pumpkin_carving" GUID="QXACcX0VhU+OWieJA5JeYQ==" />
+		<POI MapID="35" xpos="403.043" ypos="48.6869" zpos="-383.617" type="festivals.pumpkin_carving" GUID="sl6mFzmgNUeoyZwreMn85Q==" />
+		<POI MapID="35" xpos="454.813" ypos="24.2146" zpos="490.647" type="festivals.pumpkin_carving" GUID="KU1TNg+zCUyweOHO6k9buA==" />
+		<POI MapID="35" xpos="499.635" ypos="49.1701" zpos="390.036" type="festivals.pumpkin_carving" GUID="mbIdyxlwt0ePPkJEjQLXkw==" />
+		<POI MapID="35" xpos="598.114" ypos="22.5261" zpos="-146.867" type="festivals.pumpkin_carving" GUID="qQ1aInT9JECtBCVZOy224g==" />
+		<POI MapID="35" xpos="620.157" ypos="39.5301" zpos="-602.386" type="festivals.pumpkin_carving" GUID="IpSSXkY56k6wRN16e+/yHA==" />
+		<POI MapID="50" xpos="-486.058" ypos="77.0991" zpos="273.82" type="festivals.pumpkin_carving" GUID="Fdqx3PZCBUOimEtWY02lGw==" />
+		<POI MapID="50" xpos="-391.692" ypos="2.41601" zpos="218.053" type="festivals.pumpkin_carving" GUID="uc1D+qQGOUmZgQAXaaPjLw==" />
+		<POI MapID="50" xpos="-296.99" ypos="46.5342" zpos="198.95" type="festivals.pumpkin_carving" GUID="tsyHCce3cU6pORU6dsQOUQ==" />
+		<POI MapID="50" xpos="-281.083" ypos="46.1268" zpos="420.164" type="festivals.pumpkin_carving" GUID="g0ARmAOOaUeWNcMNxAllgQ==" />
+		<POI MapID="50" xpos="-258.944" ypos="11.5632" zpos="111.273" type="festivals.pumpkin_carving" GUID="gYTP+9QMqUmhtv/BO0iYWw==" />
+		<POI MapID="50" xpos="-239.7" ypos="13.386" zpos="274.189" type="festivals.pumpkin_carving" GUID="khgFim6vqkmASCzxRTWbWg==" />
+		<POI MapID="50" xpos="-83.3034" ypos="23.375" zpos="297.189" type="festivals.pumpkin_carving" GUID="fpsfY13soE+EvbXO6QfqYA==" />
+		<POI MapID="50" xpos="-60.8284" ypos="22.1264" zpos="25.2157" type="festivals.pumpkin_carving" GUID="SaRHqVYmyU6F1nbhCVZOpw==" />
+		<POI MapID="50" xpos="-8.01378" ypos="0.805118" zpos="-21.8132" type="festivals.pumpkin_carving" GUID="mWacyMI5kEmDm16PQ5IefA==" />
+		<POI MapID="50" xpos="-6.01595" ypos="70.1659" zpos="339.431" type="festivals.pumpkin_carving" GUID="3OoJtwFJvkKCEZAk+M+aZA==" />
+		<POI MapID="50" xpos="44.7791" ypos="21.9465" zpos="322.392" type="festivals.pumpkin_carving" GUID="MrTuX3+gmUaiRy8blY0PHg==" />
+		<POI MapID="50" xpos="155.915" ypos="30.393" zpos="-142.787" type="festivals.pumpkin_carving" GUID="R/AIRsnEtkCe+E5BqJh83g==" />
+		<POI MapID="50" xpos="575.91" ypos="66.1808" zpos="-23.7689" type="festivals.pumpkin_carving" GUID="Kh64zrR8RESQ90ihUCJwiQ==" />
+		<POI MapID="866" xpos="-182.346" ypos="175.727" zpos="38.5998" type="festivals.pumpkin_carving" GUID="XCyH0k4jS0mZWOsBeHxV5w==" behavior="6" />
+		<POI MapID="866" xpos="-179.421" ypos="175.148" zpos="-49.4256" type="festivals.pumpkin_carving" GUID="eOE+nfP2RkO97ADtrJUc5g==" behavior="6" />
+		<POI MapID="866" xpos="-173.113" ypos="170.314" zpos="-175.176" type="festivals.pumpkin_carving" GUID="hR70uX6uXEa6ECNz7MzHBw==" behavior="6" />
+		<POI MapID="866" xpos="-168.425" ypos="175.037" zpos="16.9772" type="festivals.pumpkin_carving" GUID="jEbvukAI+UWu91Ib7H1TXw==" behavior="6" />
+		<POI MapID="866" xpos="-145.301" ypos="177.101" zpos="-163.262" type="festivals.pumpkin_carving" GUID="XcAhP3YXT0GTK5Oh3CO+lw==" behavior="6" />
+		<POI MapID="866" xpos="-140.051" ypos="175.774" zpos="75.239" type="festivals.pumpkin_carving" GUID="XSxnb8J06kWmpjpNACm4Dg==" behavior="6" />
+		<POI MapID="866" xpos="-137.505" ypos="180.849" zpos="197.407" type="festivals.pumpkin_carving" GUID="io345CsLX0K33pGRzsZ+fQ==" behavior="6" />
+		<POI MapID="866" xpos="-72.9586" ypos="175.259" zpos="-166.864" type="festivals.pumpkin_carving" GUID="S+DUatHWuEqCtdywCFjbTQ==" behavior="6" />
+		<POI MapID="866" xpos="-56.6688" ypos="171.399" zpos="-189.293" type="festivals.pumpkin_carving" GUID="hUITGp7ku02L54h4ir6YaA==" behavior="6" />
+		<POI MapID="866" xpos="-49.877" ypos="193.119" zpos="-47.0178" type="festivals.pumpkin_carving" GUID="9AbF5bK2vUeri6JCMFFkcA==" behavior="6" />
+		<POI MapID="866" xpos="-32.6928" ypos="175.777" zpos="-163.252" type="festivals.pumpkin_carving" GUID="zf/qS+nzOkabiD/YQTKPZw==" behavior="6" />
+		<POI MapID="866" xpos="-30.7116" ypos="176.303" zpos="204.146" type="festivals.pumpkin_carving" GUID="K0ZNbqqHOEySpwWWqIX8Yg==" behavior="6" />
+		<POI MapID="866" xpos="10.4068" ypos="203.97" zpos="30.7521" type="festivals.pumpkin_carving" GUID="+20LqxthAU2T1NCrSfPEEw==" behavior="6" />
+		<POI MapID="866" xpos="13.959" ypos="192.405" zpos="51.3836" type="festivals.pumpkin_carving" GUID="Kekiok3Wb06PcAe5Ixzx5A==" behavior="6" />
+		<POI MapID="866" xpos="15.3296" ypos="178.197" zpos="-104.445" type="festivals.pumpkin_carving" GUID="Sqg8/mCXT0edIL/KWCln9Q==" behavior="6" />
+		<POI MapID="866" xpos="46.6961" ypos="193.294" zpos="-61.9072" type="festivals.pumpkin_carving" GUID="J37Kqa2ylUSnOO5flocTwQ==" behavior="6" />
+		<POI MapID="866" xpos="48.298" ypos="178.377" zpos="-117.392" type="festivals.pumpkin_carving" GUID="QqhWoByCvkiTjIbOZZL5ew==" behavior="6" />
+		<POI MapID="866" xpos="49.8308" ypos="195.033" zpos="48.5516" type="festivals.pumpkin_carving" GUID="55rvnnDuM0qlVgnHgcwIsQ==" behavior="6" />
+		<POI MapID="866" xpos="71.23" ypos="174.823" zpos="200.882" type="festivals.pumpkin_carving" GUID="g3SEQJT3DE6It9n5WknawA==" behavior="6" />
+		<POI MapID="866" xpos="75.101" ypos="180.535" zpos="-135.001" type="festivals.pumpkin_carving" GUID="S9Qm64ItzE+n3zcg51snGg==" behavior="6" />
+		<POI MapID="866" xpos="98.5462" ypos="170.534" zpos="-210.283" type="festivals.pumpkin_carving" GUID="Iv3OfARoyEu152UufHYI9w==" behavior="6" />
+		<POI MapID="866" xpos="114.024" ypos="177.388" zpos="-21.3772" type="festivals.pumpkin_carving" GUID="ijhDvw65zkuEog3pqybJZg==" behavior="6" />
+		<POI MapID="866" xpos="129.114" ypos="177.853" zpos="20.7063" type="festivals.pumpkin_carving" GUID="KiF0fWCnmUWUI+HZDefNlA==" behavior="6" />
+		<POI MapID="866" xpos="141.132" ypos="176.247" zpos="-132.015" type="festivals.pumpkin_carving" GUID="GNCk/ekkqEe3k1zb2NQ4vw==" behavior="6" />
+		<POI MapID="866" xpos="156.358" ypos="179.852" zpos="-170.177" type="festivals.pumpkin_carving" GUID="01xl8IGFxEKmkUUm7LuDJQ==" behavior="6" />
+		<!-- <POI MapID="866" xpos="179.945"  ypos="174.705" zpos="132.103"  type="festivals.pumpkin_carving" GUID="m2Fw9IuNXEODstGVbk8CpQ==" behavior="6"/> -->
+		<POI MapID="866" xpos="182.606" ypos="174.54" zpos="140.89" type="festivals.pumpkin_carving" GUID="qY7ckoKeTEG6SWaQR9eYiQ==" behavior="6" />
+		<POI MapID="866" xpos="195.864" ypos="183.039" zpos="31.4787" type="festivals.pumpkin_carving" GUID="8CcekZMJQEyHtiY9cTqoVA==" behavior="6" />
+		<POI MapID="866" xpos="211.662" ypos="185.562" zpos="-48.0912" type="festivals.pumpkin_carving" GUID="m+rbXtjR60yxIsJ7Y5Cn3Q==" behavior="6" />
 		<!-- TIME TRIAL -->
-		<Trail type="festivals.halloween_time_trial" GUID="KOZ3nuXSKEKkiTEe6xtYwQ==" trailData="Data/Festivals/Halloween/TimeTrial.trl" texture="Data/Arrow.png" color="ff00ff00" alpha="0.8" fadeNear="2000" fadeFar="3000" animSpeed="0"/>
-
+		<Trail type="festivals.halloween_time_trial" GUID="KOZ3nuXSKEKkiTEe6xtYwQ==" trailData="Data/Festivals/Halloween/TimeTrial.trl" texture="Data/Arrow.png" color="ff00ff00" alpha="0.8" fadeNear="2000" fadeFar="3000" animSpeed="0" />
 	</POIs>
 </OverlayData>

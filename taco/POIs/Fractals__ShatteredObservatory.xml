@@ -1,17 +1,14 @@
 <!-- 2020.06.09 -->
 <OverlayData>
 	<POIs>
-
 		<!-- BLINDED WITH SCIENCE -->
-		<POI MapID="1205" xpos="-441.393" ypos="72.8744" zpos="-429.508" type="fractals.blinded_with_science" GUID="zX2/COAXfkCHz4W/PCSTyw=="/>
-		<POI MapID="1205" xpos="-441.393" ypos="75"      zpos="-429.508" type="fractals.blinded_with_science" GUID="e8s9DZENfkexKxrHw8dYrQ==" iconFile="Img/Fractals/BlindedWithScience.png" minSize="48" maxSize="64" fadeNear="1000" fadeFar="2500" mapVisibility="0" miniMapVisibility="0"/>
-
+		<POI MapID="1205" xpos="-441.393" ypos="72.8744" zpos="-429.508" type="fractals.blinded_with_science" GUID="zX2/COAXfkCHz4W/PCSTyw==" />
+		<POI MapID="1205" xpos="-441.393" ypos="75" zpos="-429.508" type="fractals.blinded_with_science" GUID="e8s9DZENfkexKxrHw8dYrQ==" iconFile="Img/Fractals/BlindedWithScience.png" minSize="48" maxSize="64" fadeNear="1000" fadeFar="2500" mapVisibility="0" miniMapVisibility="0" />
 		<!-- EXTRACURRICULAR STUDIES OF THE ASTRAL KIND -->
-		<POI MapID="1205" xpos="434.93"  ypos="62.9221" zpos="115.601"  type="fractals.extracurricular_studies_of_the_astral_kind" GUID="Zq8tjoDNyEiIsDFFZMxZGw=="/>
-		<POI MapID="1205" xpos="356.243" ypos="83.184"  zpos="147.232"  type="fractals.extracurricular_studies_of_the_astral_kind" GUID="Za34Vt6r+06z217/waemxg=="/>
-		<POI MapID="1205" xpos="343.418" ypos="110.567" zpos="97.4933"  type="fractals.extracurricular_studies_of_the_astral_kind" GUID="a9CPSC8kvEuuPqZSh1lyFg=="/>
-		<POI MapID="1205" xpos="462.358" ypos="156.852" zpos="16.3691"  type="fractals.extracurricular_studies_of_the_astral_kind" GUID="Wy9dCJIhyUmJs+hKf9o22g=="/>
-		<POI MapID="1205" xpos="332.911" ypos="151.995" zpos="-2.86579" type="fractals.extracurricular_studies_of_the_astral_kind" GUID="Q0owD0z8DUSjwaVj8YdeCQ=="/>
-
+		<POI MapID="1205" xpos="434.93" ypos="62.9221" zpos="115.601" type="fractals.extracurricular_studies_of_the_astral_kind" GUID="Zq8tjoDNyEiIsDFFZMxZGw==" />
+		<POI MapID="1205" xpos="356.243" ypos="83.184" zpos="147.232" type="fractals.extracurricular_studies_of_the_astral_kind" GUID="Za34Vt6r+06z217/waemxg==" />
+		<POI MapID="1205" xpos="343.418" ypos="110.567" zpos="97.4933" type="fractals.extracurricular_studies_of_the_astral_kind" GUID="a9CPSC8kvEuuPqZSh1lyFg==" />
+		<POI MapID="1205" xpos="462.358" ypos="156.852" zpos="16.3691" type="fractals.extracurricular_studies_of_the_astral_kind" GUID="Wy9dCJIhyUmJs+hKf9o22g==" />
+		<POI MapID="1205" xpos="332.911" ypos="151.995" zpos="-2.86579" type="fractals.extracurricular_studies_of_the_astral_kind" GUID="Q0owD0z8DUSjwaVj8YdeCQ==" />
 	</POIs>
 </OverlayData>

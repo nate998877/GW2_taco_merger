@@ -6,69 +6,59 @@ Date: 2017/10/02
 <OverlayData>
 	<MarkerCategory name="coffres.permanents">
 		<MarkerCategory name="path_of_fire" DisplayName="Path of Fire">
-			<MarkerCategory name="oasis_de_cristal" DisplayName="Oasis de Cristal" heightOffset="0.5" fadeNear="8000" fadeFar="16000" alpha="0.75" behavior="2" iconFile="Img\CoffreOasisdeCristal.png"/>
-			<MarkerCategory name="hautes_terres_du_desert" DisplayName="Desert Highlands" heightOffset="0.5" fadeNear="8000" fadeFar="16000" alpha="0.75" behavior="2" iconFile="Img\CoffreHautesTerresduDesert.png"/>
+			<MarkerCategory name="oasis_de_cristal" DisplayName="Oasis de Cristal" heightOffset="0.5" fadeNear="8000" fadeFar="16000" alpha="0.75" behavior="2" iconFile="Img\CoffreOasisdeCristal.png" />
+			<MarkerCategory name="hautes_terres_du_desert" DisplayName="Desert Highlands" heightOffset="0.5" fadeNear="8000" fadeFar="16000" alpha="0.75" behavior="2" iconFile="Img\CoffreHautesTerresduDesert.png" />
 			<MarkerCategory name="tas_de_sable" DisplayName="Tas de sable" heightOffset="0.5" fadeNear="10000" fadeFar="20000" alpha="0.75" behavior="4" resetLength="300" hasCountdown="1" iconFile="Img\Tasdesable.png" />
 		</MarkerCategory>
 	</MarkerCategory>
-
 	<POIs>
-
-		<!--
-		Crystal Oasis / Oasis de Cristal
-		-->
-		<POI MapID="1210" xpos="-898.784" ypos="66.968" zpos="21.762" type="coffres.permanents.path_of_fire.oasis_de_cristal" GUID="vf66s0utWUC3MvvlSJbypA=="/>
-		<POI MapID="1210" xpos="-837.64" ypos="168.766" zpos="487.361" type="coffres.permanents.path_of_fire.oasis_de_cristal" GUID="QL+KB+U9UUOrW6wMvjjEKw=="/>
-		<POI MapID="1210" xpos="-951.288" ypos="178.692" zpos="513.864" type="coffres.permanents.path_of_fire.oasis_de_cristal" GUID="DQjOK1qph0eHMf+7l94B9w=="/>
-		<POI MapID="1210" xpos="-867.091" ypos="252.917" zpos="592.744" type="coffres.permanents.path_of_fire.oasis_de_cristal" GUID="YQaAJbkOKkCosPrGoTNLSw=="/>
-		<POI MapID="1210" xpos="-753.166" ypos="14.0867" zpos="518.978" type="coffres.permanents.path_of_fire.oasis_de_cristal" GUID="Zg1lEwrlcEu0Eu6gbB0svw=="/>
-		<POI MapID="1210" xpos="29.7655" ypos="105.59" zpos="644.804" type="coffres.permanents.path_of_fire.oasis_de_cristal" GUID="Y2aMkeCY10mem2NW4UtRqA=="/>
-		<POI MapID="1210" xpos="428.044" ypos="22.8176" zpos="-537.23" type="coffres.permanents.path_of_fire.oasis_de_cristal" GUID="YcLA9Z/IVke/UafKOcT8ag=="/>
-		<POI MapID="1210" xpos="574.954" ypos="230.599" zpos="397.545" type="coffres.permanents.path_of_fire.oasis_de_cristal" GUID="BRFTZ1BGs0idP9DtF+i+gQ=="/>
-		<POI MapID="1210" xpos="623.63" ypos="20.3685" zpos="-470.004" type="coffres.permanents.path_of_fire.oasis_de_cristal" GUID="PfEztBaZ3EKMQCFdrg/2Hg=="/>
-		<POI MapID="1210" xpos="727.71" ypos="134.581" zpos="471.927" type="coffres.permanents.path_of_fire.oasis_de_cristal" GUID="QiC0BifkkEOhMhYbUvn0lQ=="/>
-		<POI MapID="1210" xpos="762.585" ypos="150.845" zpos="157.159" type="coffres.permanents.path_of_fire.oasis_de_cristal" GUID="tZbyTlUzUUeneTqFaFXLyA=="/>
-		<POI MapID="1210" xpos="1240.51" ypos="278.447" zpos="455.009" type="coffres.permanents.path_of_fire.oasis_de_cristal" GUID="GDaCdiDSy0evtyCzW/eZ6g=="/>
-		<POI MapID="1210" xpos="1160.94" ypos="103.555" zpos="50.7495" type="coffres.permanents.path_of_fire.oasis_de_cristal" GUID="bOdMN20oekKQEWhnM/THsQ=="/>
-		<POI MapID="1210" xpos="1170.2" ypos="106.518" zpos="159.767" type="coffres.permanents.path_of_fire.oasis_de_cristal" GUID="9Jn5Ep44GEKRqTYQ/8tMFw=="/>
-		<POI MapID="1210" xpos="1365.44" ypos="161.017" zpos="-492.316" type="coffres.permanents.path_of_fire.oasis_de_cristal" GUID="UqFKx1Zz9U6dEDfX6nyydw=="/>
-		<POI MapID="1210" xpos="1376.37" ypos="97.6836" zpos="-266.606" type="coffres.permanents.path_of_fire.oasis_de_cristal" GUID="NKgEI4w7NEWq97mQaBdSHw=="/>
-		<POI MapID="1210" xpos="1463.42" ypos="163.147" zpos="-462.17" type="coffres.permanents.path_of_fire.oasis_de_cristal" GUID="PQ+rVvZLpk+UhgIGdy/voA=="/>
-
-		<!--
-		Desert HighLands / Hautes-Terres du Désert
-		-->
-		<POI MapID="1211" xpos="604.542" ypos="190.693" zpos="608.178" type="coffres.permanents.path_of_fire.hautes_terres_du_desert" GUID="LKN/B3hiAESh0vA+UHDljw=="/>
-
+		<!-- Crystal Oasis / Oasis de Cristal -->
+		<POI MapID="1210" xpos="-898.784" ypos="66.968" zpos="21.762" type="coffres.permanents.path_of_fire.oasis_de_cristal" GUID="vf66s0utWUC3MvvlSJbypA==" />
+		<POI MapID="1210" xpos="-837.64" ypos="168.766" zpos="487.361" type="coffres.permanents.path_of_fire.oasis_de_cristal" GUID="QL+KB+U9UUOrW6wMvjjEKw==" />
+		<POI MapID="1210" xpos="-951.288" ypos="178.692" zpos="513.864" type="coffres.permanents.path_of_fire.oasis_de_cristal" GUID="DQjOK1qph0eHMf+7l94B9w==" />
+		<POI MapID="1210" xpos="-867.091" ypos="252.917" zpos="592.744" type="coffres.permanents.path_of_fire.oasis_de_cristal" GUID="YQaAJbkOKkCosPrGoTNLSw==" />
+		<POI MapID="1210" xpos="-753.166" ypos="14.0867" zpos="518.978" type="coffres.permanents.path_of_fire.oasis_de_cristal" GUID="Zg1lEwrlcEu0Eu6gbB0svw==" />
+		<POI MapID="1210" xpos="29.7655" ypos="105.59" zpos="644.804" type="coffres.permanents.path_of_fire.oasis_de_cristal" GUID="Y2aMkeCY10mem2NW4UtRqA==" />
+		<POI MapID="1210" xpos="428.044" ypos="22.8176" zpos="-537.23" type="coffres.permanents.path_of_fire.oasis_de_cristal" GUID="YcLA9Z/IVke/UafKOcT8ag==" />
+		<POI MapID="1210" xpos="574.954" ypos="230.599" zpos="397.545" type="coffres.permanents.path_of_fire.oasis_de_cristal" GUID="BRFTZ1BGs0idP9DtF+i+gQ==" />
+		<POI MapID="1210" xpos="623.63" ypos="20.3685" zpos="-470.004" type="coffres.permanents.path_of_fire.oasis_de_cristal" GUID="PfEztBaZ3EKMQCFdrg/2Hg==" />
+		<POI MapID="1210" xpos="727.71" ypos="134.581" zpos="471.927" type="coffres.permanents.path_of_fire.oasis_de_cristal" GUID="QiC0BifkkEOhMhYbUvn0lQ==" />
+		<POI MapID="1210" xpos="762.585" ypos="150.845" zpos="157.159" type="coffres.permanents.path_of_fire.oasis_de_cristal" GUID="tZbyTlUzUUeneTqFaFXLyA==" />
+		<POI MapID="1210" xpos="1240.51" ypos="278.447" zpos="455.009" type="coffres.permanents.path_of_fire.oasis_de_cristal" GUID="GDaCdiDSy0evtyCzW/eZ6g==" />
+		<POI MapID="1210" xpos="1160.94" ypos="103.555" zpos="50.7495" type="coffres.permanents.path_of_fire.oasis_de_cristal" GUID="bOdMN20oekKQEWhnM/THsQ==" />
+		<POI MapID="1210" xpos="1170.2" ypos="106.518" zpos="159.767" type="coffres.permanents.path_of_fire.oasis_de_cristal" GUID="9Jn5Ep44GEKRqTYQ/8tMFw==" />
+		<POI MapID="1210" xpos="1365.44" ypos="161.017" zpos="-492.316" type="coffres.permanents.path_of_fire.oasis_de_cristal" GUID="UqFKx1Zz9U6dEDfX6nyydw==" />
+		<POI MapID="1210" xpos="1376.37" ypos="97.6836" zpos="-266.606" type="coffres.permanents.path_of_fire.oasis_de_cristal" GUID="NKgEI4w7NEWq97mQaBdSHw==" />
+		<POI MapID="1210" xpos="1463.42" ypos="163.147" zpos="-462.17" type="coffres.permanents.path_of_fire.oasis_de_cristal" GUID="PQ+rVvZLpk+UhgIGdy/voA==" />
+		<!-- Desert HighLands / Hautes-Terres du Désert -->
+		<POI MapID="1211" xpos="604.542" ypos="190.693" zpos="608.178" type="coffres.permanents.path_of_fire.hautes_terres_du_desert" GUID="LKN/B3hiAESh0vA+UHDljw==" />
 		<!-- Tas de sable -->
-		<POI MapID="1210" xpos="-1388.62" ypos="-0.211421" zpos="95.3213" type="coffres.permanents.path_of_fire.tas_de_sable" GUID="s/+GEbSXwk+K+8Kc9Uiepw=="/>
-		<POI MapID="1210" xpos="-1279.84" ypos="0.238208" zpos="166.09" type="coffres.permanents.path_of_fire.tas_de_sable" GUID="lmLqnITjz0SkeFY0KNLgmw=="/>
-		<POI MapID="1210" xpos="-380.016" ypos="47.3314" zpos="524.362" type="coffres.permanents.path_of_fire.tas_de_sable" GUID="c+osws9rDEi78W/vCvko6A=="/>
-		<POI MapID="1210" xpos="-378.457" ypos="68.2741" zpos="724.598" type="coffres.permanents.path_of_fire.tas_de_sable" GUID="8aYVZNXMUE6cIFdNledknA=="/>
-		<POI MapID="1210" xpos="-55.4434" ypos="53.803" zpos="673.757" type="coffres.permanents.path_of_fire.tas_de_sable" GUID="seen5g5yrEOAK97v/Ss+fw=="/>
-		<POI MapID="1210" xpos="-4.15694" ypos="72.1315" zpos="455.224" type="coffres.permanents.path_of_fire.tas_de_sable" GUID="2qSOWWGaMk2q9q1fIh5pww=="/>
-		<POI MapID="1210" xpos="52.0251" ypos="15.1972" zpos="20.5826" type="coffres.permanents.path_of_fire.tas_de_sable" GUID="FvxNjXguhEK7a1RN2nGjKA=="/>
-		<POI MapID="1210" xpos="159.918" ypos="12.7854" zpos="-614.721" type="coffres.permanents.path_of_fire.tas_de_sable" GUID="i5YF5YHXeUGOXjVWGsTz3Q=="/>
-		<POI MapID="1210" xpos="249.296" ypos="63.7216" zpos="690.715" type="coffres.permanents.path_of_fire.tas_de_sable" GUID="qh7c0nwqsEiaZmVf1Za91g=="/>
-		<POI MapID="1210" xpos="267.591" ypos="75.419" zpos="-66.6732" type="coffres.permanents.path_of_fire.tas_de_sable" GUID="jzAeg3Y5FU6PsUXxlRzh2A=="/>
-		<POI MapID="1210" xpos="343.542" ypos="61.0171" zpos="185.886" type="coffres.permanents.path_of_fire.tas_de_sable" GUID="gQvCYB4ZU0u8Q0x+MIDZ0g=="/>
-		<POI MapID="1210" xpos="474.724" ypos="130.183" zpos="504.343" type="coffres.permanents.path_of_fire.tas_de_sable" GUID="nTI+FS3tpE2K2rSSDTGoNQ=="/>
-		<POI MapID="1210" xpos="491.222" ypos="40.8249" zpos="-576.979" type="coffres.permanents.path_of_fire.tas_de_sable" GUID="meoYIoUgX0WLTXRu2dAQpA=="/>
-		<POI MapID="1210" xpos="696.358" ypos="103.291" zpos="551.872" type="coffres.permanents.path_of_fire.tas_de_sable" GUID="AjcSlVrat06tDx/t65kJuw=="/>
-		<POI MapID="1210" xpos="720.337" ypos="119.38" zpos="666.101" type="coffres.permanents.path_of_fire.tas_de_sable" GUID="x7WAXznbBkKQbmtn+WpoKw=="/>
-		<POI MapID="1210" xpos="725.402" ypos="40.2683" zpos="-667.203" type="coffres.permanents.path_of_fire.tas_de_sable" GUID="WhPKKFzYyUCVPosuNa4HHA=="/>
-		<POI MapID="1210" xpos="775.813" ypos="200.274" zpos="470.352" type="coffres.permanents.path_of_fire.tas_de_sable" GUID="59lJ2xuL7k2dEnQENDeAZQ=="/>
-		<POI MapID="1210" xpos="817.104" ypos="55.7929" zpos="-439.652" type="coffres.permanents.path_of_fire.tas_de_sable" GUID="oAfDSNzQRk2351IB0ucaoA=="/>
-		<POI MapID="1210" xpos="919.876" ypos="132.398" zpos="600.094" type="coffres.permanents.path_of_fire.tas_de_sable" GUID="MvvWFVRCbUq7PW1atQ1faw=="/>
-		<POI MapID="1210" xpos="922.164" ypos="205.401" zpos="554.615" type="coffres.permanents.path_of_fire.tas_de_sable" GUID="b6DeK8H7uUabO9eN5zxLtw=="/>
-		<POI MapID="1210" xpos="958.137" ypos="191.201" zpos="414.464" type="coffres.permanents.path_of_fire.tas_de_sable" GUID="kjLloVJI6EO8O5tvEnoNFQ=="/>
-		<POI MapID="1210" xpos="1223.38" ypos="144.789" zpos="-112.808" type="coffres.permanents.path_of_fire.tas_de_sable" GUID="f6Pz1OhWDEmHARnXR90UIg=="/>
-		<POI MapID="1210" xpos="1253.98" ypos="189.222" zpos="429.859" type="coffres.permanents.path_of_fire.tas_de_sable" GUID="IcV01SxgYEWI2ygHk49o6A=="/>
-		<POI MapID="1210" xpos="1452.74" ypos="158.987" zpos="114.202" type="coffres.permanents.path_of_fire.tas_de_sable" GUID="YuF3sMcje0OKVDrv6TiU9Q=="/>
-
-		<POI MapID="1211" xpos="2.48242" ypos="204.869" zpos="8.52517" type="coffres.permanents.path_of_fire.tas_de_sable" GUID="nM8wgf4QVU6CKL8h0Oz3YA=="/>
-		<POI MapID="1211" xpos="424.989" ypos="135.956" zpos="-469.313" type="coffres.permanents.path_of_fire.tas_de_sable" GUID="I4g75gAuSEGnEA1LMyO2JQ=="/>
-		<POI MapID="1211" xpos="617.823" ypos="139.766" zpos="-307.724" type="coffres.permanents.path_of_fire.tas_de_sable" GUID="e4jzim71VESEGmNaktDTwA=="/>
-
+		<POI MapID="1210" xpos="-1388.62" ypos="-0.211421" zpos="95.3213" type="coffres.permanents.path_of_fire.tas_de_sable" GUID="s/+GEbSXwk+K+8Kc9Uiepw==" />
+		<POI MapID="1210" xpos="-1279.84" ypos="0.238208" zpos="166.09" type="coffres.permanents.path_of_fire.tas_de_sable" GUID="lmLqnITjz0SkeFY0KNLgmw==" />
+		<POI MapID="1210" xpos="-380.016" ypos="47.3314" zpos="524.362" type="coffres.permanents.path_of_fire.tas_de_sable" GUID="c+osws9rDEi78W/vCvko6A==" />
+		<POI MapID="1210" xpos="-378.457" ypos="68.2741" zpos="724.598" type="coffres.permanents.path_of_fire.tas_de_sable" GUID="8aYVZNXMUE6cIFdNledknA==" />
+		<POI MapID="1210" xpos="-55.4434" ypos="53.803" zpos="673.757" type="coffres.permanents.path_of_fire.tas_de_sable" GUID="seen5g5yrEOAK97v/Ss+fw==" />
+		<POI MapID="1210" xpos="-4.15694" ypos="72.1315" zpos="455.224" type="coffres.permanents.path_of_fire.tas_de_sable" GUID="2qSOWWGaMk2q9q1fIh5pww==" />
+		<POI MapID="1210" xpos="52.0251" ypos="15.1972" zpos="20.5826" type="coffres.permanents.path_of_fire.tas_de_sable" GUID="FvxNjXguhEK7a1RN2nGjKA==" />
+		<POI MapID="1210" xpos="159.918" ypos="12.7854" zpos="-614.721" type="coffres.permanents.path_of_fire.tas_de_sable" GUID="i5YF5YHXeUGOXjVWGsTz3Q==" />
+		<POI MapID="1210" xpos="249.296" ypos="63.7216" zpos="690.715" type="coffres.permanents.path_of_fire.tas_de_sable" GUID="qh7c0nwqsEiaZmVf1Za91g==" />
+		<POI MapID="1210" xpos="267.591" ypos="75.419" zpos="-66.6732" type="coffres.permanents.path_of_fire.tas_de_sable" GUID="jzAeg3Y5FU6PsUXxlRzh2A==" />
+		<POI MapID="1210" xpos="343.542" ypos="61.0171" zpos="185.886" type="coffres.permanents.path_of_fire.tas_de_sable" GUID="gQvCYB4ZU0u8Q0x+MIDZ0g==" />
+		<POI MapID="1210" xpos="474.724" ypos="130.183" zpos="504.343" type="coffres.permanents.path_of_fire.tas_de_sable" GUID="nTI+FS3tpE2K2rSSDTGoNQ==" />
+		<POI MapID="1210" xpos="491.222" ypos="40.8249" zpos="-576.979" type="coffres.permanents.path_of_fire.tas_de_sable" GUID="meoYIoUgX0WLTXRu2dAQpA==" />
+		<POI MapID="1210" xpos="696.358" ypos="103.291" zpos="551.872" type="coffres.permanents.path_of_fire.tas_de_sable" GUID="AjcSlVrat06tDx/t65kJuw==" />
+		<POI MapID="1210" xpos="720.337" ypos="119.38" zpos="666.101" type="coffres.permanents.path_of_fire.tas_de_sable" GUID="x7WAXznbBkKQbmtn+WpoKw==" />
+		<POI MapID="1210" xpos="725.402" ypos="40.2683" zpos="-667.203" type="coffres.permanents.path_of_fire.tas_de_sable" GUID="WhPKKFzYyUCVPosuNa4HHA==" />
+		<POI MapID="1210" xpos="775.813" ypos="200.274" zpos="470.352" type="coffres.permanents.path_of_fire.tas_de_sable" GUID="59lJ2xuL7k2dEnQENDeAZQ==" />
+		<POI MapID="1210" xpos="817.104" ypos="55.7929" zpos="-439.652" type="coffres.permanents.path_of_fire.tas_de_sable" GUID="oAfDSNzQRk2351IB0ucaoA==" />
+		<POI MapID="1210" xpos="919.876" ypos="132.398" zpos="600.094" type="coffres.permanents.path_of_fire.tas_de_sable" GUID="MvvWFVRCbUq7PW1atQ1faw==" />
+		<POI MapID="1210" xpos="922.164" ypos="205.401" zpos="554.615" type="coffres.permanents.path_of_fire.tas_de_sable" GUID="b6DeK8H7uUabO9eN5zxLtw==" />
+		<POI MapID="1210" xpos="958.137" ypos="191.201" zpos="414.464" type="coffres.permanents.path_of_fire.tas_de_sable" GUID="kjLloVJI6EO8O5tvEnoNFQ==" />
+		<POI MapID="1210" xpos="1223.38" ypos="144.789" zpos="-112.808" type="coffres.permanents.path_of_fire.tas_de_sable" GUID="f6Pz1OhWDEmHARnXR90UIg==" />
+		<POI MapID="1210" xpos="1253.98" ypos="189.222" zpos="429.859" type="coffres.permanents.path_of_fire.tas_de_sable" GUID="IcV01SxgYEWI2ygHk49o6A==" />
+		<POI MapID="1210" xpos="1452.74" ypos="158.987" zpos="114.202" type="coffres.permanents.path_of_fire.tas_de_sable" GUID="YuF3sMcje0OKVDrv6TiU9Q==" />
+		<POI MapID="1211" xpos="2.48242" ypos="204.869" zpos="8.52517" type="coffres.permanents.path_of_fire.tas_de_sable" GUID="nM8wgf4QVU6CKL8h0Oz3YA==" />
+		<POI MapID="1211" xpos="424.989" ypos="135.956" zpos="-469.313" type="coffres.permanents.path_of_fire.tas_de_sable" GUID="I4g75gAuSEGnEA1LMyO2JQ==" />
+		<POI MapID="1211" xpos="617.823" ypos="139.766" zpos="-307.724" type="coffres.permanents.path_of_fire.tas_de_sable" GUID="e4jzim71VESEGmNaktDTwA==" />
 	</POIs>
 </OverlayData>

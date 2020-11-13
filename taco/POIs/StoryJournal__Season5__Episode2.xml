@@ -1,238 +1,220 @@
 <!-- 2020.06.25 -->
 <OverlayData>
 	<POIs>
-
 		<!-- A BOUNTIFUL PASTIME -->
-		<POI MapID="1343" xpos="-783.499" ypos="87.4653" zpos="-349.524"  type="story_journal.season_5.shadow_in_the_ice.a_bountiful_pastime.eagle"     GUID="Zy9DkIGa6Em8HdpD/Ey9dQ=="/>
-		<POI MapID="1343" xpos="-311.175" ypos="110.824" zpos="-0.219579" type="story_journal.season_5.shadow_in_the_ice.a_bountiful_pastime.ox"        GUID="P1ibCnyLS0ycAVX1VaJg4w=="/>
-		<POI MapID="1343" xpos="-619.946" ypos="269.895" zpos="294.47"    type="story_journal.season_5.shadow_in_the_ice.a_bountiful_pastime.wolverine" GUID="Hnk5MXtk4Um2zndMcC75sA=="/>
-
+		<POI MapID="1343" xpos="-783.499" ypos="87.4653" zpos="-349.524" type="story_journal.season_5.shadow_in_the_ice.a_bountiful_pastime.eagle" GUID="Zy9DkIGa6Em8HdpD/Ey9dQ==" />
+		<POI MapID="1343" xpos="-311.175" ypos="110.824" zpos="-0.219579" type="story_journal.season_5.shadow_in_the_ice.a_bountiful_pastime.ox" GUID="P1ibCnyLS0ycAVX1VaJg4w==" />
+		<POI MapID="1343" xpos="-619.946" ypos="269.895" zpos="294.47" type="story_journal.season_5.shadow_in_the_ice.a_bountiful_pastime.wolverine" GUID="Hnk5MXtk4Um2zndMcC75sA==" />
 		<!-- A HUNGER FOR KNOWLEDGE -->
-		<POI MapID="1343" xpos="-273.631" ypos="114.377" zpos="-3.83792" type="story_journal.season_5.shadow_in_the_ice.a_hunger_for_knowledge.1" GUID="1Q2KwPsUdU6P7HZd9wLzGQ=="/>
-		<POI MapID="1343" xpos="-1011.62" ypos="18.7682" zpos="150.306"  type="story_journal.season_5.shadow_in_the_ice.a_hunger_for_knowledge.2" GUID="lTOwD93HJU+GPTvwhufz/w=="/>
-		<POI MapID="1343" xpos="-623.333" ypos="288.658" zpos="582.291"  type="story_journal.season_5.shadow_in_the_ice.a_hunger_for_knowledge.3" GUID="D73OzJjXpUGAanWUpZiY1g=="/>
-		<POI MapID="1343" xpos="-1095.53" ypos="18.653"  zpos="-282.051" type="story_journal.season_5.shadow_in_the_ice.a_hunger_for_knowledge.4" GUID="VlBdLnng3kabD5g+3UvKnQ=="/>
-		<POI MapID="1343" xpos="1143.99"  ypos="48.7643" zpos="-147.707" type="story_journal.season_5.shadow_in_the_ice.a_hunger_for_knowledge.5" GUID="i3saaJ7a9ES4yRTk/3peQg=="/>
-
+		<POI MapID="1343" xpos="-273.631" ypos="114.377" zpos="-3.83792" type="story_journal.season_5.shadow_in_the_ice.a_hunger_for_knowledge.1" GUID="1Q2KwPsUdU6P7HZd9wLzGQ==" />
+		<POI MapID="1343" xpos="-1011.62" ypos="18.7682" zpos="150.306" type="story_journal.season_5.shadow_in_the_ice.a_hunger_for_knowledge.2" GUID="lTOwD93HJU+GPTvwhufz/w==" />
+		<POI MapID="1343" xpos="-623.333" ypos="288.658" zpos="582.291" type="story_journal.season_5.shadow_in_the_ice.a_hunger_for_knowledge.3" GUID="D73OzJjXpUGAanWUpZiY1g==" />
+		<POI MapID="1343" xpos="-1095.53" ypos="18.653" zpos="-282.051" type="story_journal.season_5.shadow_in_the_ice.a_hunger_for_knowledge.4" GUID="VlBdLnng3kabD5g+3UvKnQ==" />
+		<POI MapID="1343" xpos="1143.99" ypos="48.7643" zpos="-147.707" type="story_journal.season_5.shadow_in_the_ice.a_hunger_for_knowledge.5" GUID="i3saaJ7a9ES4yRTk/3peQg==" />
 		<!-- BJORA MARCHES INSIGHT: DRAKKAR'S LAIR -->
-		<Trail type="story_journal.season_5.shadow_in_the_ice.bjora_marches_insight_drakkar_s_lair" GUID="l8pbMcmjyUCVmH6U8Y7cTg==" trailData="Data/StoryJournal/Season5/ShadowInTheIce/BjoraMarchesInsight_DrakkarsLair.trl" texture="Data/SemiLine.png" color="ff00ffff" alpha="0.8" fadeNear="2500" fadeFar="3000" animSpeed="0" mapDisplaySize="18"/>
-		<POI MapID="1343" xpos="-819.006" ypos="89.4108" zpos="-353.095" type="story_journal.season_5.shadow_in_the_ice.bjora_marches_insight_drakkar_s_lair" GUID="mVtIbER0AEK5i+DCTOHBbQ==" iconFile="Img/Season5/MasteryIcebroodSaga.png" heightOffset="0.25"/>
-		<POI MapID="1343" xpos="-1040.5"  ypos="23.2859" zpos="-339.756" type="story_journal.season_5.shadow_in_the_ice.bjora_marches_insight_drakkar_s_lair" GUID="/iatoxXOm0u7KKwR/5caeg==" iconFile="Img/Signs/Stop.png"                  fadeNear="1000" fadeFar="1600" mapVisibility="0" miniMapVisibility="0"/>
-
+		<Trail type="story_journal.season_5.shadow_in_the_ice.bjora_marches_insight_drakkar_s_lair" GUID="l8pbMcmjyUCVmH6U8Y7cTg==" trailData="Data/StoryJournal/Season5/ShadowInTheIce/BjoraMarchesInsight_DrakkarsLair.trl" texture="Data/SemiLine.png" color="ff00ffff" alpha="0.8" fadeNear="2500" fadeFar="3000" animSpeed="0" mapDisplaySize="18" />
+		<POI MapID="1343" xpos="-819.006" ypos="89.4108" zpos="-353.095" type="story_journal.season_5.shadow_in_the_ice.bjora_marches_insight_drakkar_s_lair" GUID="mVtIbER0AEK5i+DCTOHBbQ==" iconFile="Img/Season5/MasteryIcebroodSaga.png" heightOffset="0.25" />
+		<POI MapID="1343" xpos="-1040.5" ypos="23.2859" zpos="-339.756" type="story_journal.season_5.shadow_in_the_ice.bjora_marches_insight_drakkar_s_lair" GUID="/iatoxXOm0u7KKwR/5caeg==" iconFile="Img/Signs/Stop.png" fadeNear="1000" fadeFar="1600" mapVisibility="0" miniMapVisibility="0" />
 		<!-- BJORA MARCHES INSIGHT: FROZEN WATERFALL -->
-		<Trail type="story_journal.season_5.shadow_in_the_ice.bjora_marches_insight_frozen_waterfall" GUID="1svrKW3/Ek+EljNoBhqyHA==" trailData="Data/StoryJournal/Season5/ShadowInTheIce/BjoraMarchesInsight_FrozenWaterfall.trl" texture="Data/SemiLine.png" color="ff00ffff" alpha="0.8" fadeNear="2500" fadeFar="3000" animSpeed="0" mapDisplaySize="18"/>
-		<POI MapID="1343" xpos="-137.648" ypos="222.372" zpos="582.662" type="story_journal.season_5.shadow_in_the_ice.bjora_marches_insight_frozen_waterfall" GUID="WzRl43FuWkqlljGliZDF9g==" iconFile="Img/Season5/MasteryIcebroodSaga.png"    heightOffset="0.25"/>
-		<POI MapID="1343" xpos="-136.361" ypos="224.617" zpos="588.329" type="story_journal.season_5.shadow_in_the_ice.bjora_marches_insight_frozen_waterfall" GUID="2bz5Igriw0mQVB2lO36UZA==" iconFile="Img/Assistances/Springer_HighVault.png" minSize="48" maxSize="48" heightOffset="0.5" fadeNear="1200" fadeFar="1600" mapVisibility="0" miniMapVisibility="0"/>
-
+		<Trail type="story_journal.season_5.shadow_in_the_ice.bjora_marches_insight_frozen_waterfall" GUID="1svrKW3/Ek+EljNoBhqyHA==" trailData="Data/StoryJournal/Season5/ShadowInTheIce/BjoraMarchesInsight_FrozenWaterfall.trl" texture="Data/SemiLine.png" color="ff00ffff" alpha="0.8" fadeNear="2500" fadeFar="3000" animSpeed="0" mapDisplaySize="18" />
+		<POI MapID="1343" xpos="-137.648" ypos="222.372" zpos="582.662" type="story_journal.season_5.shadow_in_the_ice.bjora_marches_insight_frozen_waterfall" GUID="WzRl43FuWkqlljGliZDF9g==" iconFile="Img/Season5/MasteryIcebroodSaga.png" heightOffset="0.25" />
+		<POI MapID="1343" xpos="-136.361" ypos="224.617" zpos="588.329" type="story_journal.season_5.shadow_in_the_ice.bjora_marches_insight_frozen_waterfall" GUID="2bz5Igriw0mQVB2lO36UZA==" iconFile="Img/Assistances/Springer_HighVault.png" minSize="48" maxSize="48" heightOffset="0.5" fadeNear="1200" fadeFar="1600" mapVisibility="0" miniMapVisibility="0" />
 		<!-- BJORA MARCHES INSIGHT: THE LOST KODAN SHIP -->
-		<Trail type="story_journal.season_5.shadow_in_the_ice.bjora_marches_insight_the_lost_kodan_ship" GUID="Uq0ibpPdRU+aW//7BIVgNQ==" trailData="Data/StoryJournal/Season5/ShadowInTheIce/BjoraMarchesInsight_TheLostKodanShip.trl" texture="Data/SemiLine.png" color="ff00ffff" alpha="0.8" fadeNear="2500" fadeFar="3000" animSpeed="0" mapDisplaySize="18"/>
-		<POI MapID="1343" xpos="-435.939" ypos="197.839" zpos="70.7234" type="story_journal.season_5.shadow_in_the_ice.bjora_marches_insight_the_lost_kodan_ship" GUID="FQA3fIFC106Z3Ct91CmEbQ==" iconFile="Img/Season5/MasteryIcebroodSaga.png" heightOffset="0.25"/>
-
+		<Trail type="story_journal.season_5.shadow_in_the_ice.bjora_marches_insight_the_lost_kodan_ship" GUID="Uq0ibpPdRU+aW//7BIVgNQ==" trailData="Data/StoryJournal/Season5/ShadowInTheIce/BjoraMarchesInsight_TheLostKodanShip.trl" texture="Data/SemiLine.png" color="ff00ffff" alpha="0.8" fadeNear="2500" fadeFar="3000" animSpeed="0" mapDisplaySize="18" />
+		<POI MapID="1343" xpos="-435.939" ypos="197.839" zpos="70.7234" type="story_journal.season_5.shadow_in_the_ice.bjora_marches_insight_the_lost_kodan_ship" GUID="FQA3fIFC106Z3Ct91CmEbQ==" iconFile="Img/Season5/MasteryIcebroodSaga.png" heightOffset="0.25" />
 		<!-- BRINGING LIGHT TO THE DARKNESS -->
-		<POI MapID="1343" xpos="-447.097" ypos="151.086" zpos="90.31"    type="story_journal.season_5.shadow_in_the_ice.bringing_light_to_the_darkness.1"  GUID="bPfTcbrCNk6pU3cy7EhdTw=="/>
-		<POI MapID="1343" xpos="-265.364" ypos="180.016" zpos="162.641"  type="story_journal.season_5.shadow_in_the_ice.bringing_light_to_the_darkness.2"  GUID="/uHJnHM0c02U96UQ865S/Q=="/>
-		<POI MapID="1343" xpos="-152.015" ypos="220.029" zpos="541.663"  type="story_journal.season_5.shadow_in_the_ice.bringing_light_to_the_darkness.3"  GUID="NdUtXmnpTkKYdG7JHzrpCQ=="/>
-		<POI MapID="1343" xpos="-203.4"   ypos="253.364" zpos="-402.4"   type="story_journal.season_5.shadow_in_the_ice.bringing_light_to_the_darkness.4"  GUID="c945i4NmvEKya6D1IfLaIA=="/>
-		<POI MapID="1343" xpos="-688.079" ypos="218.79"  zpos="357.226"  type="story_journal.season_5.shadow_in_the_ice.bringing_light_to_the_darkness.5"  GUID="PzMFxRCaj0KavOl3Qs/rkQ=="/>
-		<Trail type="story_journal.season_5.shadow_in_the_ice.bringing_light_to_the_darkness.6" GUID="hqpE5S5MREOpnyAWS06VMQ==" trailData="Data/StoryJournal/Season5/ShadowInTheIce/BringingLightToTheDarkness_6.trl" texture="Data/SemiLine.png" color="ff00ffff" alpha="0.8" fadeNear="2500" fadeFar="3000" animSpeed="1" mapVisibility="0" miniMapVisibility="0"/>
-		<POI MapID="1343" xpos="-831.941" ypos="100.564" zpos="-355.002" type="story_journal.season_5.shadow_in_the_ice.bringing_light_to_the_darkness.6"  GUID="nrO1uQaWekyjytPeKs6sAA=="/>
-		<POI MapID="1343" xpos="-841.855" ypos="101.213" zpos="-355.13"  type="story_journal.season_5.shadow_in_the_ice.bringing_light_to_the_darkness.6"  GUID="shokRO9Ke0SgquNfz0RroA==" iconFile="Img/Icons/Interaction.png" maxSize="24" fadeNear="1000" fadeFar="1600" mapVisibility="0" miniMapVisibility="0"/>
-		<POI MapID="1343" xpos="-935.301" ypos="18.5913" zpos="-335.695" type="story_journal.season_5.shadow_in_the_ice.bringing_light_to_the_darkness.6"  GUID="b3BcqeAz9Uq59taBwsaSyQ==" fadeNear="1000" fadeFar="1600" mapVisibility="0" miniMapVisibility="0"/>
-		<POI MapID="1343" xpos="-993.568" ypos="45.474"  zpos="197.258"  type="story_journal.season_5.shadow_in_the_ice.bringing_light_to_the_darkness.7"  GUID="O9SmIYaF90ituHN7Fsex0A=="/>
-		<POI MapID="1343" xpos="-226.394" ypos="248.347" zpos="223.573"  type="story_journal.season_5.shadow_in_the_ice.bringing_light_to_the_darkness.8"  GUID="XHNjSZ+SIE+K4Ydu3yNBlQ=="/>
-		<POI MapID="1343" xpos="-521.554" ypos="318.125" zpos="595.442"  type="story_journal.season_5.shadow_in_the_ice.bringing_light_to_the_darkness.9"  GUID="fka9iWD2aEiEPxro38ZEoQ=="/>
-		<POI MapID="1343" xpos="-400.19"  ypos="312.915" zpos="-443.987" type="story_journal.season_5.shadow_in_the_ice.bringing_light_to_the_darkness.10" GUID="ps3V4w5l8EaXFb912OTGOA=="/>
-		<POI MapID="1343" xpos="-63.7616" ypos="338.311" zpos="597.996"  type="story_journal.season_5.shadow_in_the_ice.bringing_light_to_the_darkness.11" GUID="C0iPpb3gjkO0Z6yNWRLZqw=="/>
-		<POI MapID="1343" xpos="-502.671" ypos="188.146" zpos="-514.233" type="story_journal.season_5.shadow_in_the_ice.bringing_light_to_the_darkness.12" GUID="Jko5zjz4yEaS4q09PpGIGQ=="/>
-		<POI MapID="1343" xpos="-280.86"  ypos="124.582" zpos="-20.4097" type="story_journal.season_5.shadow_in_the_ice.bringing_light_to_the_darkness.13" GUID="wkITlgtRTEGwco7RCjn9Lg=="/>
-		<Trail type="story_journal.season_5.shadow_in_the_ice.bringing_light_to_the_darkness.14" GUID="pzGmPX+2+EaK8YViuOT+Bw==" trailData="Data/StoryJournal/Season5/ShadowInTheIce/BringingLightToTheDarkness_14.trl" texture="Data/SemiLine.png" color="ff00ffff" alpha="0.8" fadeNear="2500" fadeFar="3000" animSpeed="1" mapVisibility="0" miniMapVisibility="0"/>
-		<POI MapID="1343" xpos="-108.735" ypos="292.491" zpos="-517.25"  type="story_journal.season_5.shadow_in_the_ice.bringing_light_to_the_darkness.14" GUID="EYO9zNB/+UG065+70oIBSg=="/>
-		<POI MapID="1343" xpos="-103.76"  ypos="293.406" zpos="-523.087" type="story_journal.season_5.shadow_in_the_ice.bringing_light_to_the_darkness.14" GUID="507fGXAbdUC3yrcgCiEsvA==" iconFile="Img/Icons/Interaction.png" maxSize="24" fadeNear="1000" fadeFar="1600" mapVisibility="0" miniMapVisibility="0"/>
-		<POI MapID="1343" xpos="-81.042"  ypos="66.8931" zpos="-474.325" type="story_journal.season_5.shadow_in_the_ice.bringing_light_to_the_darkness.14" GUID="qxHHMd6Sfkq1xoQwfeqfcA==" fadeNear="1000" fadeFar="1600" mapVisibility="0" miniMapVisibility="0"/>
-		<Trail type="story_journal.season_5.shadow_in_the_ice.bringing_light_to_the_darkness.15" GUID="q/cccZYwAUSX9oHVMagYtQ==" trailData="Data/StoryJournal/Season5/ShadowInTheIce/BringingLightToTheDarkness_15.trl" texture="Data/SemiLine.png" color="ff00ffff" alpha="0.8" fadeNear="2500" fadeFar="3000" animSpeed="1" mapVisibility="0" miniMapVisibility="0"/>
-		<POI MapID="1343" xpos="-665.93"  ypos="280.609" zpos="533.545"  type="story_journal.season_5.shadow_in_the_ice.bringing_light_to_the_darkness.15" GUID="cfkndoMVxU2xWMC6VnGUBA=="/>
-		<POI MapID="1343" xpos="-671.475" ypos="281.403" zpos="536.263"  type="story_journal.season_5.shadow_in_the_ice.bringing_light_to_the_darkness.15" GUID="1QQNgPkIHkiRH0TTeoODVw==" iconFile="Img/Icons/Interaction.png" maxSize="24" fadeNear="1000" fadeFar="1600" mapVisibility="0" miniMapVisibility="0"/>
-		<POI MapID="1343" xpos="-651.834" ypos="161.172" zpos="678.489"  type="story_journal.season_5.shadow_in_the_ice.bringing_light_to_the_darkness.15" GUID="EJwYe/9mAE+JnHvFK6XK+g==" fadeNear="1000" fadeFar="1600" mapVisibility="0" miniMapVisibility="0"/>
-		<Trail type="story_journal.season_5.shadow_in_the_ice.bringing_light_to_the_darkness.16" GUID="U+hK9ofWn0SQ1swZEl/+Wg==" trailData="Data/StoryJournal/Season5/ShadowInTheIce/BringingLightToTheDarkness_16.trl" texture="Data/SemiLine.png" color="ff00ffff" alpha="0.8" fadeNear="2500" fadeFar="3000" animSpeed="1" mapVisibility="0" miniMapVisibility="0"/>
-		<POI MapID="1343" xpos="906.169"  ypos="128.831" zpos="476.361"  type="story_journal.season_5.shadow_in_the_ice.bringing_light_to_the_darkness.16" GUID="55yD3/M9dkmFgk+AIAZXNg=="/>
-		<POI MapID="1343" xpos="910.179"  ypos="129.285" zpos="479.881"  type="story_journal.season_5.shadow_in_the_ice.bringing_light_to_the_darkness.16" GUID="KBkpT+3enUmTGq465Mrjjw==" iconFile="Img/Icons/Interaction.png" maxSize="24" fadeNear="1000" fadeFar="1600" mapVisibility="0" miniMapVisibility="0"/>
-		<POI MapID="1343" xpos="1199.04"  ypos="51.907"  zpos="596.544"  type="story_journal.season_5.shadow_in_the_ice.bringing_light_to_the_darkness.16" GUID="90KQRwIVGUKEk+utZRx3TQ==" iconFile="Img/Icons/Interaction.png" maxSize="24" fadeNear="1000" fadeFar="1600" mapVisibility="0" miniMapVisibility="0"/>
-		<POI MapID="1343" xpos="1343.44"  ypos="38.0496" zpos="648.466"  type="story_journal.season_5.shadow_in_the_ice.bringing_light_to_the_darkness.16" GUID="6xyPWF2+9keUo4ronFfnrQ==" fadeNear="1000" fadeFar="1600" mapVisibility="0" miniMapVisibility="0"/>
-		<POI MapID="1343" xpos="-780.39"  ypos="91.8282" zpos="-403.395" type="story_journal.season_5.shadow_in_the_ice.bringing_light_to_the_darkness.17" GUID="17YWWPFrwU+HQPpSj34XCw=="/>
-		<POI MapID="1343" xpos="-444.201" ypos="247.416" zpos="-244.674" type="story_journal.season_5.shadow_in_the_ice.bringing_light_to_the_darkness.18" GUID="PkHtdfeqj06vKHdyWvha7w=="/>
-
+		<POI MapID="1343" xpos="-447.097" ypos="151.086" zpos="90.31" type="story_journal.season_5.shadow_in_the_ice.bringing_light_to_the_darkness.1" GUID="bPfTcbrCNk6pU3cy7EhdTw==" />
+		<POI MapID="1343" xpos="-265.364" ypos="180.016" zpos="162.641" type="story_journal.season_5.shadow_in_the_ice.bringing_light_to_the_darkness.2" GUID="/uHJnHM0c02U96UQ865S/Q==" />
+		<POI MapID="1343" xpos="-152.015" ypos="220.029" zpos="541.663" type="story_journal.season_5.shadow_in_the_ice.bringing_light_to_the_darkness.3" GUID="NdUtXmnpTkKYdG7JHzrpCQ==" />
+		<POI MapID="1343" xpos="-203.4" ypos="253.364" zpos="-402.4" type="story_journal.season_5.shadow_in_the_ice.bringing_light_to_the_darkness.4" GUID="c945i4NmvEKya6D1IfLaIA==" />
+		<POI MapID="1343" xpos="-688.079" ypos="218.79" zpos="357.226" type="story_journal.season_5.shadow_in_the_ice.bringing_light_to_the_darkness.5" GUID="PzMFxRCaj0KavOl3Qs/rkQ==" />
+		<Trail type="story_journal.season_5.shadow_in_the_ice.bringing_light_to_the_darkness.6" GUID="hqpE5S5MREOpnyAWS06VMQ==" trailData="Data/StoryJournal/Season5/ShadowInTheIce/BringingLightToTheDarkness_6.trl" texture="Data/SemiLine.png" color="ff00ffff" alpha="0.8" fadeNear="2500" fadeFar="3000" animSpeed="1" mapVisibility="0" miniMapVisibility="0" />
+		<POI MapID="1343" xpos="-831.941" ypos="100.564" zpos="-355.002" type="story_journal.season_5.shadow_in_the_ice.bringing_light_to_the_darkness.6" GUID="nrO1uQaWekyjytPeKs6sAA==" />
+		<POI MapID="1343" xpos="-841.855" ypos="101.213" zpos="-355.13" type="story_journal.season_5.shadow_in_the_ice.bringing_light_to_the_darkness.6" GUID="shokRO9Ke0SgquNfz0RroA==" iconFile="Img/Icons/Interaction.png" maxSize="24" fadeNear="1000" fadeFar="1600" mapVisibility="0" miniMapVisibility="0" />
+		<POI MapID="1343" xpos="-935.301" ypos="18.5913" zpos="-335.695" type="story_journal.season_5.shadow_in_the_ice.bringing_light_to_the_darkness.6" GUID="b3BcqeAz9Uq59taBwsaSyQ==" fadeNear="1000" fadeFar="1600" mapVisibility="0" miniMapVisibility="0" />
+		<POI MapID="1343" xpos="-993.568" ypos="45.474" zpos="197.258" type="story_journal.season_5.shadow_in_the_ice.bringing_light_to_the_darkness.7" GUID="O9SmIYaF90ituHN7Fsex0A==" />
+		<POI MapID="1343" xpos="-226.394" ypos="248.347" zpos="223.573" type="story_journal.season_5.shadow_in_the_ice.bringing_light_to_the_darkness.8" GUID="XHNjSZ+SIE+K4Ydu3yNBlQ==" />
+		<POI MapID="1343" xpos="-521.554" ypos="318.125" zpos="595.442" type="story_journal.season_5.shadow_in_the_ice.bringing_light_to_the_darkness.9" GUID="fka9iWD2aEiEPxro38ZEoQ==" />
+		<POI MapID="1343" xpos="-400.19" ypos="312.915" zpos="-443.987" type="story_journal.season_5.shadow_in_the_ice.bringing_light_to_the_darkness.10" GUID="ps3V4w5l8EaXFb912OTGOA==" />
+		<POI MapID="1343" xpos="-63.7616" ypos="338.311" zpos="597.996" type="story_journal.season_5.shadow_in_the_ice.bringing_light_to_the_darkness.11" GUID="C0iPpb3gjkO0Z6yNWRLZqw==" />
+		<POI MapID="1343" xpos="-502.671" ypos="188.146" zpos="-514.233" type="story_journal.season_5.shadow_in_the_ice.bringing_light_to_the_darkness.12" GUID="Jko5zjz4yEaS4q09PpGIGQ==" />
+		<POI MapID="1343" xpos="-280.86" ypos="124.582" zpos="-20.4097" type="story_journal.season_5.shadow_in_the_ice.bringing_light_to_the_darkness.13" GUID="wkITlgtRTEGwco7RCjn9Lg==" />
+		<Trail type="story_journal.season_5.shadow_in_the_ice.bringing_light_to_the_darkness.14" GUID="pzGmPX+2+EaK8YViuOT+Bw==" trailData="Data/StoryJournal/Season5/ShadowInTheIce/BringingLightToTheDarkness_14.trl" texture="Data/SemiLine.png" color="ff00ffff" alpha="0.8" fadeNear="2500" fadeFar="3000" animSpeed="1" mapVisibility="0" miniMapVisibility="0" />
+		<POI MapID="1343" xpos="-108.735" ypos="292.491" zpos="-517.25" type="story_journal.season_5.shadow_in_the_ice.bringing_light_to_the_darkness.14" GUID="EYO9zNB/+UG065+70oIBSg==" />
+		<POI MapID="1343" xpos="-103.76" ypos="293.406" zpos="-523.087" type="story_journal.season_5.shadow_in_the_ice.bringing_light_to_the_darkness.14" GUID="507fGXAbdUC3yrcgCiEsvA==" iconFile="Img/Icons/Interaction.png" maxSize="24" fadeNear="1000" fadeFar="1600" mapVisibility="0" miniMapVisibility="0" />
+		<POI MapID="1343" xpos="-81.042" ypos="66.8931" zpos="-474.325" type="story_journal.season_5.shadow_in_the_ice.bringing_light_to_the_darkness.14" GUID="qxHHMd6Sfkq1xoQwfeqfcA==" fadeNear="1000" fadeFar="1600" mapVisibility="0" miniMapVisibility="0" />
+		<Trail type="story_journal.season_5.shadow_in_the_ice.bringing_light_to_the_darkness.15" GUID="q/cccZYwAUSX9oHVMagYtQ==" trailData="Data/StoryJournal/Season5/ShadowInTheIce/BringingLightToTheDarkness_15.trl" texture="Data/SemiLine.png" color="ff00ffff" alpha="0.8" fadeNear="2500" fadeFar="3000" animSpeed="1" mapVisibility="0" miniMapVisibility="0" />
+		<POI MapID="1343" xpos="-665.93" ypos="280.609" zpos="533.545" type="story_journal.season_5.shadow_in_the_ice.bringing_light_to_the_darkness.15" GUID="cfkndoMVxU2xWMC6VnGUBA==" />
+		<POI MapID="1343" xpos="-671.475" ypos="281.403" zpos="536.263" type="story_journal.season_5.shadow_in_the_ice.bringing_light_to_the_darkness.15" GUID="1QQNgPkIHkiRH0TTeoODVw==" iconFile="Img/Icons/Interaction.png" maxSize="24" fadeNear="1000" fadeFar="1600" mapVisibility="0" miniMapVisibility="0" />
+		<POI MapID="1343" xpos="-651.834" ypos="161.172" zpos="678.489" type="story_journal.season_5.shadow_in_the_ice.bringing_light_to_the_darkness.15" GUID="EJwYe/9mAE+JnHvFK6XK+g==" fadeNear="1000" fadeFar="1600" mapVisibility="0" miniMapVisibility="0" />
+		<Trail type="story_journal.season_5.shadow_in_the_ice.bringing_light_to_the_darkness.16" GUID="U+hK9ofWn0SQ1swZEl/+Wg==" trailData="Data/StoryJournal/Season5/ShadowInTheIce/BringingLightToTheDarkness_16.trl" texture="Data/SemiLine.png" color="ff00ffff" alpha="0.8" fadeNear="2500" fadeFar="3000" animSpeed="1" mapVisibility="0" miniMapVisibility="0" />
+		<POI MapID="1343" xpos="906.169" ypos="128.831" zpos="476.361" type="story_journal.season_5.shadow_in_the_ice.bringing_light_to_the_darkness.16" GUID="55yD3/M9dkmFgk+AIAZXNg==" />
+		<POI MapID="1343" xpos="910.179" ypos="129.285" zpos="479.881" type="story_journal.season_5.shadow_in_the_ice.bringing_light_to_the_darkness.16" GUID="KBkpT+3enUmTGq465Mrjjw==" iconFile="Img/Icons/Interaction.png" maxSize="24" fadeNear="1000" fadeFar="1600" mapVisibility="0" miniMapVisibility="0" />
+		<POI MapID="1343" xpos="1199.04" ypos="51.907" zpos="596.544" type="story_journal.season_5.shadow_in_the_ice.bringing_light_to_the_darkness.16" GUID="90KQRwIVGUKEk+utZRx3TQ==" iconFile="Img/Icons/Interaction.png" maxSize="24" fadeNear="1000" fadeFar="1600" mapVisibility="0" miniMapVisibility="0" />
+		<POI MapID="1343" xpos="1343.44" ypos="38.0496" zpos="648.466" type="story_journal.season_5.shadow_in_the_ice.bringing_light_to_the_darkness.16" GUID="6xyPWF2+9keUo4ronFfnrQ==" fadeNear="1000" fadeFar="1600" mapVisibility="0" miniMapVisibility="0" />
+		<POI MapID="1343" xpos="-780.39" ypos="91.8282" zpos="-403.395" type="story_journal.season_5.shadow_in_the_ice.bringing_light_to_the_darkness.17" GUID="17YWWPFrwU+HQPpSj34XCw==" />
+		<POI MapID="1343" xpos="-444.201" ypos="247.416" zpos="-244.674" type="story_journal.season_5.shadow_in_the_ice.bringing_light_to_the_darkness.18" GUID="PkHtdfeqj06vKHdyWvha7w==" />
 		<!-- FIRE DODGER -->
-		<POI MapID="1355" xpos="-166.308" ypos="5.22641" zpos="66.2643" type="story_journal.season_5.shadow_in_the_ice.fire_dodger" GUID="uNrjM/fFTkuYlCe00vsNpA==" fadeNear="3000" fadeFar="5000"/>
-		<POI MapID="1355" xpos="-166.308" ypos="7.22641" zpos="66.2643" type="story_journal.season_5.shadow_in_the_ice.fire_dodger" GUID="8EJM3GuHXEm966oE8kfx1Q==" iconFile="Img/Season5/FireDodger.png" minSize="140" maxSize="140" fadeNear="1000" fadeFar="1200" mapVisibility="0" miniMapVisibility="0"/>
-
+		<POI MapID="1355" xpos="-166.308" ypos="5.22641" zpos="66.2643" type="story_journal.season_5.shadow_in_the_ice.fire_dodger" GUID="uNrjM/fFTkuYlCe00vsNpA==" fadeNear="3000" fadeFar="5000" />
+		<POI MapID="1355" xpos="-166.308" ypos="7.22641" zpos="66.2643" type="story_journal.season_5.shadow_in_the_ice.fire_dodger" GUID="8EJM3GuHXEm966oE8kfx1Q==" iconFile="Img/Season5/FireDodger.png" minSize="140" maxSize="140" fadeNear="1000" fadeFar="1200" mapVisibility="0" miniMapVisibility="0" />
 		<!-- IDOLATRY -->
-		<POI MapID="1343" xpos="-693.664" ypos="67.2984" zpos="28.3882"  type="story_journal.season_5.shadow_in_the_ice.idolatry" GUID="i9u1ruaxxkifx25LczZBsw=="/>
-		<POI MapID="1343" xpos="-634.055" ypos="233.441" zpos="257.639"  type="story_journal.season_5.shadow_in_the_ice.idolatry" GUID="I0uDuhZHnE2ircDm3UZ4Vw=="/>
-		<POI MapID="1343" xpos="-615.938" ypos="255.665" zpos="412.024"  type="story_journal.season_5.shadow_in_the_ice.idolatry" GUID="/PflNXfQnkK7kv9ZzWviKg=="/>
-		<POI MapID="1343" xpos="-576.739" ypos="218.492" zpos="-172.582" type="story_journal.season_5.shadow_in_the_ice.idolatry" GUID="MW8hKp4i40G4aov4bli8NA=="/>
-		<POI MapID="1343" xpos="-557.393" ypos="146.311" zpos="-365.777" type="story_journal.season_5.shadow_in_the_ice.idolatry" GUID="/0iYyPZPMUqNL2zzqa8+lA=="/>
-		<POI MapID="1343" xpos="-525.18"  ypos="305.427" zpos="552.034"  type="story_journal.season_5.shadow_in_the_ice.idolatry" GUID="azbflAc9NEG7wj0DpsmCEQ=="/>
-		<POI MapID="1343" xpos="-507.907" ypos="128.661" zpos="77.5748"  type="story_journal.season_5.shadow_in_the_ice.idolatry" GUID="/voMPPYWPEqlVPNclqcIjA=="/>
-		<POI MapID="1343" xpos="-470.811" ypos="153.901" zpos="269.94"   type="story_journal.season_5.shadow_in_the_ice.idolatry" GUID="zfvykId9KE+ePW2AuWyEew=="/>
-		<POI MapID="1343" xpos="-451.813" ypos="170.678" zpos="-525.886" type="story_journal.season_5.shadow_in_the_ice.idolatry" GUID="7y0mPMm3OE+eiAqnXg4tzA=="/>
-		<POI MapID="1343" xpos="-441.795" ypos="183.1"   zpos="447.457"  type="story_journal.season_5.shadow_in_the_ice.idolatry" GUID="Ap8sZotjQE+W5wezJafKrA=="/>
-		<POI MapID="1343" xpos="-397.775" ypos="190.832" zpos="170.281"  type="story_journal.season_5.shadow_in_the_ice.idolatry" GUID="sGFwBy6mAkO3OmMfUZSPDQ=="/>
-		<POI MapID="1343" xpos="-354.901" ypos="230.444" zpos="555.688"  type="story_journal.season_5.shadow_in_the_ice.idolatry" GUID="CN+am1/5mEW8zd2/cKz1Uw=="/>
-		<POI MapID="1343" xpos="-345.343" ypos="255.307" zpos="-366.501" type="story_journal.season_5.shadow_in_the_ice.idolatry" GUID="Wn4rmeBNHECDWB5tt3dX6w=="/>
-		<POI MapID="1343" xpos="-322.108" ypos="183.962" zpos="82.7463"  type="story_journal.season_5.shadow_in_the_ice.idolatry" GUID="h4PdWCioykKB4mUAihj5uA=="/>
-		<POI MapID="1343" xpos="-291.469" ypos="110.826" zpos="-21.2748" type="story_journal.season_5.shadow_in_the_ice.idolatry" GUID="s4fBP/NPWUG8LtDNIG1U5Q=="/>
-		<POI MapID="1343" xpos="-217.074" ypos="259.738" zpos="479.517"  type="story_journal.season_5.shadow_in_the_ice.idolatry" GUID="CPfReJJoQEu8rcygTQtOHA=="/>
-		<POI MapID="1343" xpos="-210.306" ypos="257.624" zpos="-174.435" type="story_journal.season_5.shadow_in_the_ice.idolatry" GUID="63/TkS63p0+EO1RvGoZaog=="/>
-		<POI MapID="1343" xpos="-133.976" ypos="252.101" zpos="12.5368"  type="story_journal.season_5.shadow_in_the_ice.idolatry" GUID="nM2hkF33hU+tUmHWZkxHTw=="/>
-		<POI MapID="1343" xpos="-111.77"  ypos="251.295" zpos="326.301"  type="story_journal.season_5.shadow_in_the_ice.idolatry" GUID="75oJ7ukPx0upf+FVGDSrhw=="/>
-		<POI MapID="1343" xpos="-65.8808" ypos="219.381" zpos="567.168"  type="story_journal.season_5.shadow_in_the_ice.idolatry" GUID="NlYOPVOOOE24ZB+Ik4vjyw=="/>
-		<POI MapID="1343" xpos="266.461"  ypos="154.721" zpos="-106.028" type="story_journal.season_5.shadow_in_the_ice.idolatry" GUID="fNN9FaQQC0+FdIcnvzfkpw=="/>
-		<POI MapID="1343" xpos="279.31"   ypos="153.673" zpos="-293.185" type="story_journal.season_5.shadow_in_the_ice.idolatry" GUID="taXQdSisTEuBzbX1bH9beQ=="/>
-		<POI MapID="1343" xpos="416.18"   ypos="140.663" zpos="-404.298" type="story_journal.season_5.shadow_in_the_ice.idolatry" GUID="ZUyNWV3ib0KTQhrY0uN0Fw=="/>
-		<POI MapID="1343" xpos="520.379"  ypos="179.788" zpos="-431.232" type="story_journal.season_5.shadow_in_the_ice.idolatry" GUID="SrViX2eE0EC5OVv3pP/nfg=="/>
-		<POI MapID="1343" xpos="544.134"  ypos="160.03"  zpos="256.851"  type="story_journal.season_5.shadow_in_the_ice.idolatry" GUID="u9S7GBIlkkuhNHX7Y2iCyA=="/>
-		<POI MapID="1343" xpos="620.871"  ypos="136.846" zpos="413.592"  type="story_journal.season_5.shadow_in_the_ice.idolatry" GUID="YVta0B243kWP6ZsSz5ZAQg=="/>
-		<POI MapID="1343" xpos="740.253"  ypos="224.89"  zpos="60.6727"  type="story_journal.season_5.shadow_in_the_ice.idolatry" GUID="WkSASLwRn0iOg1yrlahHOA=="/>
-		<POI MapID="1343" xpos="752.129"  ypos="141.611" zpos="443.457"  type="story_journal.season_5.shadow_in_the_ice.idolatry" GUID="vWLzhAQ/lkePcAlPMY8BBg=="/>
-		<POI MapID="1343" xpos="767.734"  ypos="145.876" zpos="-273.589" type="story_journal.season_5.shadow_in_the_ice.idolatry" GUID="enKbRTPYsUeERC2SNeRXKg=="/>
-		<POI MapID="1343" xpos="843.821"  ypos="134.579" zpos="-494.377" type="story_journal.season_5.shadow_in_the_ice.idolatry" GUID="/qMWkfiEjE6xOSHoaHJiSw=="/>
-		<POI MapID="1343" xpos="912.653"  ypos="85.8822" zpos="39.3497"  type="story_journal.season_5.shadow_in_the_ice.idolatry" GUID="ToFYZdK9V0ywhF6gMqYSBQ=="/>
-		<POI MapID="1343" xpos="960.001"  ypos="133.432" zpos="-450.634" type="story_journal.season_5.shadow_in_the_ice.idolatry" GUID="CWA9TrVHQEyNWupPn0SY9A=="/>
-		<POI MapID="1343" xpos="1101.07"  ypos="181.85"  zpos="496.913"  type="story_journal.season_5.shadow_in_the_ice.idolatry" GUID="Wi94OYDZxkmu2yefWgi10A=="/>
-		<POI MapID="1343" xpos="1177.03"  ypos="109.115" zpos="-391.493" type="story_journal.season_5.shadow_in_the_ice.idolatry" GUID="6WnjnEoKnE62gKkHtXo+DQ=="/>
-		<POI MapID="1343" xpos="1219.77"  ypos="58.0941" zpos="-274.054" type="story_journal.season_5.shadow_in_the_ice.idolatry" GUID="jTJd7gGsBESvV0ryIIO9pQ=="/>
-
+		<POI MapID="1343" xpos="-693.664" ypos="67.2984" zpos="28.3882" type="story_journal.season_5.shadow_in_the_ice.idolatry" GUID="i9u1ruaxxkifx25LczZBsw==" />
+		<POI MapID="1343" xpos="-634.055" ypos="233.441" zpos="257.639" type="story_journal.season_5.shadow_in_the_ice.idolatry" GUID="I0uDuhZHnE2ircDm3UZ4Vw==" />
+		<POI MapID="1343" xpos="-615.938" ypos="255.665" zpos="412.024" type="story_journal.season_5.shadow_in_the_ice.idolatry" GUID="/PflNXfQnkK7kv9ZzWviKg==" />
+		<POI MapID="1343" xpos="-576.739" ypos="218.492" zpos="-172.582" type="story_journal.season_5.shadow_in_the_ice.idolatry" GUID="MW8hKp4i40G4aov4bli8NA==" />
+		<POI MapID="1343" xpos="-557.393" ypos="146.311" zpos="-365.777" type="story_journal.season_5.shadow_in_the_ice.idolatry" GUID="/0iYyPZPMUqNL2zzqa8+lA==" />
+		<POI MapID="1343" xpos="-525.18" ypos="305.427" zpos="552.034" type="story_journal.season_5.shadow_in_the_ice.idolatry" GUID="azbflAc9NEG7wj0DpsmCEQ==" />
+		<POI MapID="1343" xpos="-507.907" ypos="128.661" zpos="77.5748" type="story_journal.season_5.shadow_in_the_ice.idolatry" GUID="/voMPPYWPEqlVPNclqcIjA==" />
+		<POI MapID="1343" xpos="-470.811" ypos="153.901" zpos="269.94" type="story_journal.season_5.shadow_in_the_ice.idolatry" GUID="zfvykId9KE+ePW2AuWyEew==" />
+		<POI MapID="1343" xpos="-451.813" ypos="170.678" zpos="-525.886" type="story_journal.season_5.shadow_in_the_ice.idolatry" GUID="7y0mPMm3OE+eiAqnXg4tzA==" />
+		<POI MapID="1343" xpos="-441.795" ypos="183.1" zpos="447.457" type="story_journal.season_5.shadow_in_the_ice.idolatry" GUID="Ap8sZotjQE+W5wezJafKrA==" />
+		<POI MapID="1343" xpos="-397.775" ypos="190.832" zpos="170.281" type="story_journal.season_5.shadow_in_the_ice.idolatry" GUID="sGFwBy6mAkO3OmMfUZSPDQ==" />
+		<POI MapID="1343" xpos="-354.901" ypos="230.444" zpos="555.688" type="story_journal.season_5.shadow_in_the_ice.idolatry" GUID="CN+am1/5mEW8zd2/cKz1Uw==" />
+		<POI MapID="1343" xpos="-345.343" ypos="255.307" zpos="-366.501" type="story_journal.season_5.shadow_in_the_ice.idolatry" GUID="Wn4rmeBNHECDWB5tt3dX6w==" />
+		<POI MapID="1343" xpos="-322.108" ypos="183.962" zpos="82.7463" type="story_journal.season_5.shadow_in_the_ice.idolatry" GUID="h4PdWCioykKB4mUAihj5uA==" />
+		<POI MapID="1343" xpos="-291.469" ypos="110.826" zpos="-21.2748" type="story_journal.season_5.shadow_in_the_ice.idolatry" GUID="s4fBP/NPWUG8LtDNIG1U5Q==" />
+		<POI MapID="1343" xpos="-217.074" ypos="259.738" zpos="479.517" type="story_journal.season_5.shadow_in_the_ice.idolatry" GUID="CPfReJJoQEu8rcygTQtOHA==" />
+		<POI MapID="1343" xpos="-210.306" ypos="257.624" zpos="-174.435" type="story_journal.season_5.shadow_in_the_ice.idolatry" GUID="63/TkS63p0+EO1RvGoZaog==" />
+		<POI MapID="1343" xpos="-133.976" ypos="252.101" zpos="12.5368" type="story_journal.season_5.shadow_in_the_ice.idolatry" GUID="nM2hkF33hU+tUmHWZkxHTw==" />
+		<POI MapID="1343" xpos="-111.77" ypos="251.295" zpos="326.301" type="story_journal.season_5.shadow_in_the_ice.idolatry" GUID="75oJ7ukPx0upf+FVGDSrhw==" />
+		<POI MapID="1343" xpos="-65.8808" ypos="219.381" zpos="567.168" type="story_journal.season_5.shadow_in_the_ice.idolatry" GUID="NlYOPVOOOE24ZB+Ik4vjyw==" />
+		<POI MapID="1343" xpos="266.461" ypos="154.721" zpos="-106.028" type="story_journal.season_5.shadow_in_the_ice.idolatry" GUID="fNN9FaQQC0+FdIcnvzfkpw==" />
+		<POI MapID="1343" xpos="279.31" ypos="153.673" zpos="-293.185" type="story_journal.season_5.shadow_in_the_ice.idolatry" GUID="taXQdSisTEuBzbX1bH9beQ==" />
+		<POI MapID="1343" xpos="416.18" ypos="140.663" zpos="-404.298" type="story_journal.season_5.shadow_in_the_ice.idolatry" GUID="ZUyNWV3ib0KTQhrY0uN0Fw==" />
+		<POI MapID="1343" xpos="520.379" ypos="179.788" zpos="-431.232" type="story_journal.season_5.shadow_in_the_ice.idolatry" GUID="SrViX2eE0EC5OVv3pP/nfg==" />
+		<POI MapID="1343" xpos="544.134" ypos="160.03" zpos="256.851" type="story_journal.season_5.shadow_in_the_ice.idolatry" GUID="u9S7GBIlkkuhNHX7Y2iCyA==" />
+		<POI MapID="1343" xpos="620.871" ypos="136.846" zpos="413.592" type="story_journal.season_5.shadow_in_the_ice.idolatry" GUID="YVta0B243kWP6ZsSz5ZAQg==" />
+		<POI MapID="1343" xpos="740.253" ypos="224.89" zpos="60.6727" type="story_journal.season_5.shadow_in_the_ice.idolatry" GUID="WkSASLwRn0iOg1yrlahHOA==" />
+		<POI MapID="1343" xpos="752.129" ypos="141.611" zpos="443.457" type="story_journal.season_5.shadow_in_the_ice.idolatry" GUID="vWLzhAQ/lkePcAlPMY8BBg==" />
+		<POI MapID="1343" xpos="767.734" ypos="145.876" zpos="-273.589" type="story_journal.season_5.shadow_in_the_ice.idolatry" GUID="enKbRTPYsUeERC2SNeRXKg==" />
+		<POI MapID="1343" xpos="843.821" ypos="134.579" zpos="-494.377" type="story_journal.season_5.shadow_in_the_ice.idolatry" GUID="/qMWkfiEjE6xOSHoaHJiSw==" />
+		<POI MapID="1343" xpos="912.653" ypos="85.8822" zpos="39.3497" type="story_journal.season_5.shadow_in_the_ice.idolatry" GUID="ToFYZdK9V0ywhF6gMqYSBQ==" />
+		<POI MapID="1343" xpos="960.001" ypos="133.432" zpos="-450.634" type="story_journal.season_5.shadow_in_the_ice.idolatry" GUID="CWA9TrVHQEyNWupPn0SY9A==" />
+		<POI MapID="1343" xpos="1101.07" ypos="181.85" zpos="496.913" type="story_journal.season_5.shadow_in_the_ice.idolatry" GUID="Wi94OYDZxkmu2yefWgi10A==" />
+		<POI MapID="1343" xpos="1177.03" ypos="109.115" zpos="-391.493" type="story_journal.season_5.shadow_in_the_ice.idolatry" GUID="6WnjnEoKnE62gKkHtXo+DQ==" />
+		<POI MapID="1343" xpos="1219.77" ypos="58.0941" zpos="-274.054" type="story_journal.season_5.shadow_in_the_ice.idolatry" GUID="jTJd7gGsBESvV0ryIIO9pQ==" />
 		<!-- MYSTERY OF DRAKKAR'S LAIR -->
-		<Trail type="story_journal.season_5.shadow_in_the_ice.mystery_of_drakkar_s_lair" GUID="rRoGEfTWNEmTFFO7XXqSIg==" trailData="Data/StoryJournal/Season5/ShadowInTheIce/MysteryOfDrakkarsLair_0.trl" texture="Data/SemiLine.png" color="ff00ff00" alpha="0.8" fadeNear="2000" fadeFar="3800" animSpeed="1" mapDisplaySize="15"/>
-		<Trail type="story_journal.season_5.shadow_in_the_ice.mystery_of_drakkar_s_lair" GUID="YAJzWDhZw0Kt0hwoLHKshw==" trailData="Data/StoryJournal/Season5/ShadowInTheIce/MysteryOfDrakkarsLair_1.trl" texture="Data/SemiLine.png" color="ffffff00" alpha="0.8" fadeNear="2000" fadeFar="3800" animSpeed="1" mapDisplaySize="15"/>
+		<Trail type="story_journal.season_5.shadow_in_the_ice.mystery_of_drakkar_s_lair" GUID="rRoGEfTWNEmTFFO7XXqSIg==" trailData="Data/StoryJournal/Season5/ShadowInTheIce/MysteryOfDrakkarsLair_0.trl" texture="Data/SemiLine.png" color="ff00ff00" alpha="0.8" fadeNear="2000" fadeFar="3800" animSpeed="1" mapDisplaySize="15" />
+		<Trail type="story_journal.season_5.shadow_in_the_ice.mystery_of_drakkar_s_lair" GUID="YAJzWDhZw0Kt0hwoLHKshw==" trailData="Data/StoryJournal/Season5/ShadowInTheIce/MysteryOfDrakkarsLair_1.trl" texture="Data/SemiLine.png" color="ffffff00" alpha="0.8" fadeNear="2000" fadeFar="3800" animSpeed="1" mapDisplaySize="15" />
 		<!-- Entrance / Transition / End -->
-		<POI MapID="1343" xpos="-669.682" ypos="133.192" zpos="-203.926" type="story_journal.season_5.shadow_in_the_ice.mystery_of_drakkar_s_lair" GUID="BxTqhpL4oEC1V16a1hqATw==" iconFile="Img/Icons/MirrorGreen.png"  fadeNear="-1" fadeFar="-1" heightOffset="0" mapVisibility="1" miniMapVisibility="1"/>
-		<POI MapID="1343" xpos="-842.64"  ypos="101.213" zpos="-354.904" type="story_journal.season_5.shadow_in_the_ice.mystery_of_drakkar_s_lair" GUID="YlHAJMy5qE6l/ds24LFWTw==" iconFile="Img/Icons/Interaction.png"  maxSize="24" fadeNear="800" fadeFar="900" infoRange="10" info="INFORMATION:
-THIS PORTAL IS ONLY ACCESSIBLE OUTSIDE THE META!"/>
+		<POI MapID="1343" xpos="-669.682" ypos="133.192" zpos="-203.926" type="story_journal.season_5.shadow_in_the_ice.mystery_of_drakkar_s_lair" GUID="BxTqhpL4oEC1V16a1hqATw==" iconFile="Img/Icons/MirrorGreen.png" fadeNear="-1" fadeFar="-1" heightOffset="0" mapVisibility="1" miniMapVisibility="1" />
+		<POI MapID="1343" xpos="-842.64" ypos="101.213" zpos="-354.904" type="story_journal.season_5.shadow_in_the_ice.mystery_of_drakkar_s_lair" GUID="YlHAJMy5qE6l/ds24LFWTw==" iconFile="Img/Icons/Interaction.png" maxSize="24" fadeNear="800" fadeFar="900" infoRange="10" info="INFORMATION:
+THIS PORTAL IS ONLY ACCESSIBLE OUTSIDE THE META!" />
 		<!-- Puzzle -->
-		<POI MapID="1343" xpos="-926.651" ypos="26.5352" zpos="-354.685" type="story_journal.season_5.shadow_in_the_ice.mystery_of_drakkar_s_lair" GUID="csjv+xABREOQKLAs3awUkQ==" iconFile="Img/Icons/MirrorYellow.png" heightOffset="0"/>
-		<POI MapID="1343" xpos="-923.434" ypos="26.2635" zpos="-287.445" type="story_journal.season_5.shadow_in_the_ice.mystery_of_drakkar_s_lair" GUID="RB6kJz5ODE6YpwyIDvj8qw==" iconFile="Img/Icons/Mirror.png"/>
-		<POI MapID="1343" xpos="-944.378" ypos="26.5712" zpos="-301.68"  type="story_journal.season_5.shadow_in_the_ice.mystery_of_drakkar_s_lair" GUID="VLDgLzPddUOPWHAzJTISIA==" iconFile="Img/Icons/Mirror.png"/>
-		<POI MapID="1343" xpos="-1057.33" ypos="26.5232" zpos="-236.067" type="story_journal.season_5.shadow_in_the_ice.mystery_of_drakkar_s_lair" GUID="Npb64Zsn00iljg3QLtgaIQ==" iconFile="Img/Icons/Mirror.png"/>
-		<POI MapID="1343" xpos="-1094.12" ypos="26.5767" zpos="-299.519" type="story_journal.season_5.shadow_in_the_ice.mystery_of_drakkar_s_lair" GUID="L/O2cC+hyEaUGn3SbVP/ew==" iconFile="Img/Icons/Mirror.png"/>
-		<POI MapID="1343" xpos="-1064.07" ypos="26.5228" zpos="-306.983" type="story_journal.season_5.shadow_in_the_ice.mystery_of_drakkar_s_lair" GUID="DliefzSOZUuPav1IbPAu8Q==" iconFile="Img/Icons/Mirror.png"/>
-		<POI MapID="1343" xpos="-982.851" ypos="24.5061" zpos="-346.028" type="story_journal.season_5.shadow_in_the_ice.mystery_of_drakkar_s_lair" GUID="Cn4x9AiCwUOht4/tdDtOqQ==" iconFile="Img/Icons/ChestGold.png" heightOffset="0"/>
-
+		<POI MapID="1343" xpos="-926.651" ypos="26.5352" zpos="-354.685" type="story_journal.season_5.shadow_in_the_ice.mystery_of_drakkar_s_lair" GUID="csjv+xABREOQKLAs3awUkQ==" iconFile="Img/Icons/MirrorYellow.png" heightOffset="0" />
+		<POI MapID="1343" xpos="-923.434" ypos="26.2635" zpos="-287.445" type="story_journal.season_5.shadow_in_the_ice.mystery_of_drakkar_s_lair" GUID="RB6kJz5ODE6YpwyIDvj8qw==" iconFile="Img/Icons/Mirror.png" />
+		<POI MapID="1343" xpos="-944.378" ypos="26.5712" zpos="-301.68" type="story_journal.season_5.shadow_in_the_ice.mystery_of_drakkar_s_lair" GUID="VLDgLzPddUOPWHAzJTISIA==" iconFile="Img/Icons/Mirror.png" />
+		<POI MapID="1343" xpos="-1057.33" ypos="26.5232" zpos="-236.067" type="story_journal.season_5.shadow_in_the_ice.mystery_of_drakkar_s_lair" GUID="Npb64Zsn00iljg3QLtgaIQ==" iconFile="Img/Icons/Mirror.png" />
+		<POI MapID="1343" xpos="-1094.12" ypos="26.5767" zpos="-299.519" type="story_journal.season_5.shadow_in_the_ice.mystery_of_drakkar_s_lair" GUID="L/O2cC+hyEaUGn3SbVP/ew==" iconFile="Img/Icons/Mirror.png" />
+		<POI MapID="1343" xpos="-1064.07" ypos="26.5228" zpos="-306.983" type="story_journal.season_5.shadow_in_the_ice.mystery_of_drakkar_s_lair" GUID="DliefzSOZUuPav1IbPAu8Q==" iconFile="Img/Icons/Mirror.png" />
+		<POI MapID="1343" xpos="-982.851" ypos="24.5061" zpos="-346.028" type="story_journal.season_5.shadow_in_the_ice.mystery_of_drakkar_s_lair" GUID="Cn4x9AiCwUOht4/tdDtOqQ==" iconFile="Img/Icons/ChestGold.png" heightOffset="0" />
 		<!-- MYSTERY OF BJORA MARCHES -->
-		<Trail type="story_journal.season_5.shadow_in_the_ice.mystery_of_bjora_marches" GUID="V2IrIGtxy0G1ZzBitNfIiA==" trailData="Data/StoryJournal/Season5/ShadowInTheIce/MysteryOfBjoraMarches.trl" texture="Data/SemiLine.png" color="ffff6666" alpha="0.8" fadeNear="8000" fadeFar="10000" animSpeed="1" mapDisplaySize="15"/>
-		<POI MapID="1343" xpos="-550.639" ypos="205.107" zpos="-86.0901" type="story_journal.season_5.shadow_in_the_ice.mystery_of_bjora_marches" GUID="hdemJbdLv0aB4RLSNuO2vg==" iconFile="Img/Icons/MirrorGreen.png" fadeNear="-1" fadeFar="-1" heightOffset="0" mapVisibility="1" miniMapVisibility="1"/>
-		<POI MapID="1343" xpos="-602.138" ypos="282.068" zpos="339.158"  type="story_journal.season_5.shadow_in_the_ice.mystery_of_bjora_marches" GUID="TubkOAZTgUKuCKSan6Jb5A==" iconFile="Img/Icons/Mirror.png"/>
-		<POI MapID="1343" xpos="-97.9395" ypos="299.551" zpos="243.41"   type="story_journal.season_5.shadow_in_the_ice.mystery_of_bjora_marches" GUID="dXOKmCo310qKsRzhveR/qA==" iconFile="Img/Icons/Mirror.png"/>
-		<POI MapID="1343" xpos="341.393"  ypos="161.99"  zpos="-349.555" type="story_journal.season_5.shadow_in_the_ice.mystery_of_bjora_marches" GUID="HWaMyegscUa3tJ5fjZZdhA==" iconFile="Img/Icons/Mirror.png"/>
-		<POI MapID="1343" xpos="565.178"  ypos="200.505" zpos="211.652"  type="story_journal.season_5.shadow_in_the_ice.mystery_of_bjora_marches" GUID="lXsg9YBsuUavGorGT8OvOg==" iconFile="Img/Icons/Mirror.png"/>
-		<POI MapID="1343" xpos="858.368"  ypos="155.995" zpos="475.012"  type="story_journal.season_5.shadow_in_the_ice.mystery_of_bjora_marches" GUID="IEHDFUCvhEK/O3JMQvT6cQ==" iconFile="Img/Icons/Mirror.png"/>
-		<POI MapID="1343" xpos="1071.63"  ypos="190.083" zpos="235.206"  type="story_journal.season_5.shadow_in_the_ice.mystery_of_bjora_marches" GUID="LxOus+C/tEay3il6QA8X6w==" iconFile="Img/Icons/Mirror.png"/>
-		<POI MapID="1343" xpos="1026.03"  ypos="129.067" zpos="-412.267" type="story_journal.season_5.shadow_in_the_ice.mystery_of_bjora_marches" GUID="aDVdSMfOCUK5lKm3FwofVg==" iconFile="Img/Icons/Mirror.png"/>
-		<POI MapID="1343" xpos="1225.05"  ypos="139"     zpos="-355.846" type="story_journal.season_5.shadow_in_the_ice.mystery_of_bjora_marches" GUID="9/Dl4BWhsUS9fPgppxQnYw==" iconFile="Img/Icons/Mirror.png"/>
-		<POI MapID="1343" xpos="1204.01"  ypos="128.049" zpos="-428.741" type="story_journal.season_5.shadow_in_the_ice.mystery_of_bjora_marches" GUID="iByFKEoVVEOzptT+WWgImQ==" iconFile="Img/Icons/ChestGold.png" heightOffset="0"/>
-
+		<Trail type="story_journal.season_5.shadow_in_the_ice.mystery_of_bjora_marches" GUID="V2IrIGtxy0G1ZzBitNfIiA==" trailData="Data/StoryJournal/Season5/ShadowInTheIce/MysteryOfBjoraMarches.trl" texture="Data/SemiLine.png" color="ffff6666" alpha="0.8" fadeNear="8000" fadeFar="10000" animSpeed="1" mapDisplaySize="15" />
+		<POI MapID="1343" xpos="-550.639" ypos="205.107" zpos="-86.0901" type="story_journal.season_5.shadow_in_the_ice.mystery_of_bjora_marches" GUID="hdemJbdLv0aB4RLSNuO2vg==" iconFile="Img/Icons/MirrorGreen.png" fadeNear="-1" fadeFar="-1" heightOffset="0" mapVisibility="1" miniMapVisibility="1" />
+		<POI MapID="1343" xpos="-602.138" ypos="282.068" zpos="339.158" type="story_journal.season_5.shadow_in_the_ice.mystery_of_bjora_marches" GUID="TubkOAZTgUKuCKSan6Jb5A==" iconFile="Img/Icons/Mirror.png" />
+		<POI MapID="1343" xpos="-97.9395" ypos="299.551" zpos="243.41" type="story_journal.season_5.shadow_in_the_ice.mystery_of_bjora_marches" GUID="dXOKmCo310qKsRzhveR/qA==" iconFile="Img/Icons/Mirror.png" />
+		<POI MapID="1343" xpos="341.393" ypos="161.99" zpos="-349.555" type="story_journal.season_5.shadow_in_the_ice.mystery_of_bjora_marches" GUID="HWaMyegscUa3tJ5fjZZdhA==" iconFile="Img/Icons/Mirror.png" />
+		<POI MapID="1343" xpos="565.178" ypos="200.505" zpos="211.652" type="story_journal.season_5.shadow_in_the_ice.mystery_of_bjora_marches" GUID="lXsg9YBsuUavGorGT8OvOg==" iconFile="Img/Icons/Mirror.png" />
+		<POI MapID="1343" xpos="858.368" ypos="155.995" zpos="475.012" type="story_journal.season_5.shadow_in_the_ice.mystery_of_bjora_marches" GUID="IEHDFUCvhEK/O3JMQvT6cQ==" iconFile="Img/Icons/Mirror.png" />
+		<POI MapID="1343" xpos="1071.63" ypos="190.083" zpos="235.206" type="story_journal.season_5.shadow_in_the_ice.mystery_of_bjora_marches" GUID="LxOus+C/tEay3il6QA8X6w==" iconFile="Img/Icons/Mirror.png" />
+		<POI MapID="1343" xpos="1026.03" ypos="129.067" zpos="-412.267" type="story_journal.season_5.shadow_in_the_ice.mystery_of_bjora_marches" GUID="aDVdSMfOCUK5lKm3FwofVg==" iconFile="Img/Icons/Mirror.png" />
+		<POI MapID="1343" xpos="1225.05" ypos="139" zpos="-355.846" type="story_journal.season_5.shadow_in_the_ice.mystery_of_bjora_marches" GUID="9/Dl4BWhsUS9fPgppxQnYw==" iconFile="Img/Icons/Mirror.png" />
+		<POI MapID="1343" xpos="1204.01" ypos="128.049" zpos="-428.741" type="story_journal.season_5.shadow_in_the_ice.mystery_of_bjora_marches" GUID="iByFKEoVVEOzptT+WWgImQ==" iconFile="Img/Icons/ChestGold.png" heightOffset="0" />
 		<!-- MYSTERY OF THE HIDDEN TOWER -->
-		<Trail type="story_journal.season_5.shadow_in_the_ice.mystery_of_the_hidden_tower" GUID="rGYpXLQh5USIXKsIk68j+A==" trailData="Data/StoryJournal/Season5/ShadowInTheIce/MysteryOfTheHiddenTower_0.trl" texture="Data/SemiLine.png" color="ff00ff00" alpha="0.8" fadeNear="2000" fadeFar="3800" animSpeed="1" mapDisplaySize="15"/>
-		<Trail type="story_journal.season_5.shadow_in_the_ice.mystery_of_the_hidden_tower" GUID="rKR7z4GlW0q5/1l6FrdptA==" trailData="Data/StoryJournal/Season5/ShadowInTheIce/MysteryOfTheHiddenTower_1.trl" texture="Data/SemiLine.png" color="ffffff00" alpha="0.8" fadeNear="2000" fadeFar="3800" animSpeed="1" mapDisplaySize="15"/>
-		<Trail type="story_journal.season_5.shadow_in_the_ice.mystery_of_the_hidden_tower" GUID="U7GRU3wme0SdotCUxSmW5A==" trailData="Data/StoryJournal/Season5/ShadowInTheIce/MysteryOfTheHiddenTower_2.trl" texture="Data/SemiLine.png" color="ffff6666" alpha="0.8" fadeNear="2000" fadeFar="3800" animSpeed="1" mapDisplaySize="15"/>
-		<Trail type="story_journal.season_5.shadow_in_the_ice.mystery_of_the_hidden_tower" GUID="Jl4ZrMTN8k2tBwoafKx3Jg==" trailData="Data/StoryJournal/Season5/ShadowInTheIce/MysteryOfTheHiddenTower_3.trl" texture="Data/SemiLine.png" color="ffff00ff" alpha="0.8" fadeNear="2000" fadeFar="3800" animSpeed="1" mapDisplaySize="15"/>
+		<Trail type="story_journal.season_5.shadow_in_the_ice.mystery_of_the_hidden_tower" GUID="rGYpXLQh5USIXKsIk68j+A==" trailData="Data/StoryJournal/Season5/ShadowInTheIce/MysteryOfTheHiddenTower_0.trl" texture="Data/SemiLine.png" color="ff00ff00" alpha="0.8" fadeNear="2000" fadeFar="3800" animSpeed="1" mapDisplaySize="15" />
+		<Trail type="story_journal.season_5.shadow_in_the_ice.mystery_of_the_hidden_tower" GUID="rKR7z4GlW0q5/1l6FrdptA==" trailData="Data/StoryJournal/Season5/ShadowInTheIce/MysteryOfTheHiddenTower_1.trl" texture="Data/SemiLine.png" color="ffffff00" alpha="0.8" fadeNear="2000" fadeFar="3800" animSpeed="1" mapDisplaySize="15" />
+		<Trail type="story_journal.season_5.shadow_in_the_ice.mystery_of_the_hidden_tower" GUID="U7GRU3wme0SdotCUxSmW5A==" trailData="Data/StoryJournal/Season5/ShadowInTheIce/MysteryOfTheHiddenTower_2.trl" texture="Data/SemiLine.png" color="ffff6666" alpha="0.8" fadeNear="2000" fadeFar="3800" animSpeed="1" mapDisplaySize="15" />
+		<Trail type="story_journal.season_5.shadow_in_the_ice.mystery_of_the_hidden_tower" GUID="Jl4ZrMTN8k2tBwoafKx3Jg==" trailData="Data/StoryJournal/Season5/ShadowInTheIce/MysteryOfTheHiddenTower_3.trl" texture="Data/SemiLine.png" color="ffff00ff" alpha="0.8" fadeNear="2000" fadeFar="3800" animSpeed="1" mapDisplaySize="15" />
 		<!-- Entrance / Transition / End -->
-		<POI MapID="1343" xpos="-109.497" ypos="292.473" zpos="-516.813" type="story_journal.season_5.shadow_in_the_ice.mystery_of_the_hidden_tower" GUID="BVLrYcHta0eBdPnsHV059g==" iconFile="Img/Icons/MirrorGreen.png"  fadeNear="-1" fadeFar="-1" heightOffset="0" mapVisibility="1" miniMapVisibility="1"/>
-		<POI MapID="1343" xpos="-103.679" ypos="293.398" zpos="-523.243" type="story_journal.season_5.shadow_in_the_ice.mystery_of_the_hidden_tower" GUID="v1n6lIBFJU+2XhSHU5nA+g==" iconFile="Img/Icons/Interaction.png"  maxSize="24" fadeNear="900" fadeFar="1000"/>
+		<POI MapID="1343" xpos="-109.497" ypos="292.473" zpos="-516.813" type="story_journal.season_5.shadow_in_the_ice.mystery_of_the_hidden_tower" GUID="BVLrYcHta0eBdPnsHV059g==" iconFile="Img/Icons/MirrorGreen.png" fadeNear="-1" fadeFar="-1" heightOffset="0" mapVisibility="1" miniMapVisibility="1" />
+		<POI MapID="1343" xpos="-103.679" ypos="293.398" zpos="-523.243" type="story_journal.season_5.shadow_in_the_ice.mystery_of_the_hidden_tower" GUID="v1n6lIBFJU+2XhSHU5nA+g==" iconFile="Img/Icons/Interaction.png" maxSize="24" fadeNear="900" fadeFar="1000" />
 		<!-- First Puzzle -->
-		<POI MapID="1343" xpos="-101.535" ypos="26.5254" zpos="-558.964" type="story_journal.season_5.shadow_in_the_ice.mystery_of_the_hidden_tower" GUID="YWA/1x3oG0Ch44V5bqjuuw==" iconFile="Img/Icons/MirrorYellow.png" heightOffset="0"/>
-		<POI MapID="1343" xpos="-83.5053" ypos="33.4219" zpos="-529.159" type="story_journal.season_5.shadow_in_the_ice.mystery_of_the_hidden_tower" GUID="vMyzzVWgfk2av8TNPaHOkw==" iconFile="Img/Icons/Mirror.png"/>
-		<POI MapID="1343" xpos="-82.8999" ypos="45.3158" zpos="-574.337" type="story_journal.season_5.shadow_in_the_ice.mystery_of_the_hidden_tower" GUID="Ij1Iv5YP+E2TIe2w7GCDUw==" iconFile="Img/Icons/Mirror.png"/>
-		<POI MapID="1343" xpos="-107.418" ypos="44.9951" zpos="-563.373" type="story_journal.season_5.shadow_in_the_ice.mystery_of_the_hidden_tower" GUID="CP4BAAWzK0Ox721RP+3nUw==" iconFile="Img/Icons/Interaction.png"  maxSize="24" fadeNear="900" fadeFar="1000"/>
-		<POI MapID="1343" xpos="-45.76"   ypos="84.6752" zpos="-564.104" type="story_journal.season_5.shadow_in_the_ice.mystery_of_the_hidden_tower" GUID="phvaRXd7mk642eepSRQ6JQ==" iconFile="Img/Icons/Interaction.png"  maxSize="24" fadeNear="900" fadeFar="1000"/>
-		<POI MapID="1343" xpos="-83.3685" ypos="105.933" zpos="-528.192" type="story_journal.season_5.shadow_in_the_ice.mystery_of_the_hidden_tower" GUID="XDpICvlizE26B4NoSeyGpw==" iconFile="Img/Icons/ChestGold.png"    heightOffset="0"/>
+		<POI MapID="1343" xpos="-101.535" ypos="26.5254" zpos="-558.964" type="story_journal.season_5.shadow_in_the_ice.mystery_of_the_hidden_tower" GUID="YWA/1x3oG0Ch44V5bqjuuw==" iconFile="Img/Icons/MirrorYellow.png" heightOffset="0" />
+		<POI MapID="1343" xpos="-83.5053" ypos="33.4219" zpos="-529.159" type="story_journal.season_5.shadow_in_the_ice.mystery_of_the_hidden_tower" GUID="vMyzzVWgfk2av8TNPaHOkw==" iconFile="Img/Icons/Mirror.png" />
+		<POI MapID="1343" xpos="-82.8999" ypos="45.3158" zpos="-574.337" type="story_journal.season_5.shadow_in_the_ice.mystery_of_the_hidden_tower" GUID="Ij1Iv5YP+E2TIe2w7GCDUw==" iconFile="Img/Icons/Mirror.png" />
+		<POI MapID="1343" xpos="-107.418" ypos="44.9951" zpos="-563.373" type="story_journal.season_5.shadow_in_the_ice.mystery_of_the_hidden_tower" GUID="CP4BAAWzK0Ox721RP+3nUw==" iconFile="Img/Icons/Interaction.png" maxSize="24" fadeNear="900" fadeFar="1000" />
+		<POI MapID="1343" xpos="-45.76" ypos="84.6752" zpos="-564.104" type="story_journal.season_5.shadow_in_the_ice.mystery_of_the_hidden_tower" GUID="phvaRXd7mk642eepSRQ6JQ==" iconFile="Img/Icons/Interaction.png" maxSize="24" fadeNear="900" fadeFar="1000" />
+		<POI MapID="1343" xpos="-83.3685" ypos="105.933" zpos="-528.192" type="story_journal.season_5.shadow_in_the_ice.mystery_of_the_hidden_tower" GUID="XDpICvlizE26B4NoSeyGpw==" iconFile="Img/Icons/ChestGold.png" heightOffset="0" />
 		<!-- Second Puzzle -->
-		<POI MapID="1343" xpos="-100.219" ypos="91.7783" zpos="-496.105" type="story_journal.season_5.shadow_in_the_ice.mystery_of_the_hidden_tower" GUID="K3U0KoFlYE+6r3VqEJ9VJw==" iconFile="Img/Icons/MirrorRed.png"    heightOffset="0"/>
-		<POI MapID="1343" xpos="-98.5536" ypos="92.3197" zpos="-460.12"  type="story_journal.season_5.shadow_in_the_ice.mystery_of_the_hidden_tower" GUID="uCpmf6aB00OI8VP/kb8pPA==" iconFile="Img/Icons/Mirror.png"/>
-		<POI MapID="1343" xpos="-63.3738" ypos="92.4049" zpos="-459.752" type="story_journal.season_5.shadow_in_the_ice.mystery_of_the_hidden_tower" GUID="Cb5l5HVuOU2QtsdyvGHz8g==" iconFile="Img/Icons/Mirror.png"/>
-		<POI MapID="1343" xpos="-63.2981" ypos="92.8615" zpos="-510.598" type="story_journal.season_5.shadow_in_the_ice.mystery_of_the_hidden_tower" GUID="FXeUV+h19EaQlVtjqOHiTQ==" iconFile="Img/Icons/Interaction.png"  maxSize="24" fadeNear="900" fadeFar="1000"/>
-		<POI MapID="1343" xpos="-102.397" ypos="92.4129" zpos="-539.031" type="story_journal.season_5.shadow_in_the_ice.mystery_of_the_hidden_tower" GUID="qy8z0C/bKkiSWkSc+BSfWQ==" iconFile="Img/Icons/ChestGold.png"    heightOffset="0"/>
+		<POI MapID="1343" xpos="-100.219" ypos="91.7783" zpos="-496.105" type="story_journal.season_5.shadow_in_the_ice.mystery_of_the_hidden_tower" GUID="K3U0KoFlYE+6r3VqEJ9VJw==" iconFile="Img/Icons/MirrorRed.png" heightOffset="0" />
+		<POI MapID="1343" xpos="-98.5536" ypos="92.3197" zpos="-460.12" type="story_journal.season_5.shadow_in_the_ice.mystery_of_the_hidden_tower" GUID="uCpmf6aB00OI8VP/kb8pPA==" iconFile="Img/Icons/Mirror.png" />
+		<POI MapID="1343" xpos="-63.3738" ypos="92.4049" zpos="-459.752" type="story_journal.season_5.shadow_in_the_ice.mystery_of_the_hidden_tower" GUID="Cb5l5HVuOU2QtsdyvGHz8g==" iconFile="Img/Icons/Mirror.png" />
+		<POI MapID="1343" xpos="-63.2981" ypos="92.8615" zpos="-510.598" type="story_journal.season_5.shadow_in_the_ice.mystery_of_the_hidden_tower" GUID="FXeUV+h19EaQlVtjqOHiTQ==" iconFile="Img/Icons/Interaction.png" maxSize="24" fadeNear="900" fadeFar="1000" />
+		<POI MapID="1343" xpos="-102.397" ypos="92.4129" zpos="-539.031" type="story_journal.season_5.shadow_in_the_ice.mystery_of_the_hidden_tower" GUID="qy8z0C/bKkiSWkSc+BSfWQ==" iconFile="Img/Icons/ChestGold.png" heightOffset="0" />
 		<!-- Thrid Puzzle -->
-		<POI MapID="1343" xpos="-81.445"  ypos="139.77"  zpos="-528.285" type="story_journal.season_5.shadow_in_the_ice.mystery_of_the_hidden_tower" GUID="ntYG2sRDskeUZINzCCi2jA==" iconFile="Img/Icons/MirrorPurple.png" heightOffset="0"/>
-		<POI MapID="1343" xpos="-57.8246" ypos="121.176" zpos="-534.069" type="story_journal.season_5.shadow_in_the_ice.mystery_of_the_hidden_tower" GUID="6/5fzcNB6EWYrPNZPKQCfg==" iconFile="Img/Icons/Interaction.png"  maxSize="24" fadeNear="900" fadeFar="1000"/>
-		<POI MapID="1343" xpos="-103.548" ypos="140.557" zpos="-561.559" type="story_journal.season_5.shadow_in_the_ice.mystery_of_the_hidden_tower" GUID="j/K57RF25UGUIgH0RtwbCg==" iconFile="Img/Icons/Mirror.png"/>
-		<POI MapID="1343" xpos="-94.0339" ypos="140.295" zpos="-572.117" type="story_journal.season_5.shadow_in_the_ice.mystery_of_the_hidden_tower" GUID="vO70ybe6ckWXpqqy7jmYfA==" iconFile="Img/Icons/Interaction.png"  maxSize="24" fadeNear="900" fadeFar="1000"/>
-		<POI MapID="1343" xpos="-67.4569" ypos="133.927" zpos="-562.851" type="story_journal.season_5.shadow_in_the_ice.mystery_of_the_hidden_tower" GUID="oPpTrKt1kUOcDfKaecZDYQ==" iconFile="Img/Icons/Mirror.png"/>
-		<POI MapID="1343" xpos="-64.9762" ypos="92.4078" zpos="-538.96"  type="story_journal.season_5.shadow_in_the_ice.mystery_of_the_hidden_tower" GUID="8f51fzr3rEql9TPVpV/EDQ==" iconFile="Img/Icons/ChestGold.png"    heightOffset="0"/>
+		<POI MapID="1343" xpos="-81.445" ypos="139.77" zpos="-528.285" type="story_journal.season_5.shadow_in_the_ice.mystery_of_the_hidden_tower" GUID="ntYG2sRDskeUZINzCCi2jA==" iconFile="Img/Icons/MirrorPurple.png" heightOffset="0" />
+		<POI MapID="1343" xpos="-57.8246" ypos="121.176" zpos="-534.069" type="story_journal.season_5.shadow_in_the_ice.mystery_of_the_hidden_tower" GUID="6/5fzcNB6EWYrPNZPKQCfg==" iconFile="Img/Icons/Interaction.png" maxSize="24" fadeNear="900" fadeFar="1000" />
+		<POI MapID="1343" xpos="-103.548" ypos="140.557" zpos="-561.559" type="story_journal.season_5.shadow_in_the_ice.mystery_of_the_hidden_tower" GUID="j/K57RF25UGUIgH0RtwbCg==" iconFile="Img/Icons/Mirror.png" />
+		<POI MapID="1343" xpos="-94.0339" ypos="140.295" zpos="-572.117" type="story_journal.season_5.shadow_in_the_ice.mystery_of_the_hidden_tower" GUID="vO70ybe6ckWXpqqy7jmYfA==" iconFile="Img/Icons/Interaction.png" maxSize="24" fadeNear="900" fadeFar="1000" />
+		<POI MapID="1343" xpos="-67.4569" ypos="133.927" zpos="-562.851" type="story_journal.season_5.shadow_in_the_ice.mystery_of_the_hidden_tower" GUID="oPpTrKt1kUOcDfKaecZDYQ==" iconFile="Img/Icons/Mirror.png" />
+		<POI MapID="1343" xpos="-64.9762" ypos="92.4078" zpos="-538.96" type="story_journal.season_5.shadow_in_the_ice.mystery_of_the_hidden_tower" GUID="8f51fzr3rEql9TPVpV/EDQ==" iconFile="Img/Icons/ChestGold.png" heightOffset="0" />
 		<!-- Final Chest -->
-		<POI MapID="1343" xpos="-82.6607" ypos="91.8524" zpos="-548.996" type="story_journal.season_5.shadow_in_the_ice.mystery_of_the_hidden_tower" GUID="MFbajNSemkmnsqQK81DQQA==" iconFile="Img/Icons/ChestGreen.png"   heightOffset="0"/>
-
+		<POI MapID="1343" xpos="-82.6607" ypos="91.8524" zpos="-548.996" type="story_journal.season_5.shadow_in_the_ice.mystery_of_the_hidden_tower" GUID="MFbajNSemkmnsqQK81DQQA==" iconFile="Img/Icons/ChestGreen.png" heightOffset="0" />
 		<!-- MYSTERY OF THE LABYRINTH -->
-		<Trail type="story_journal.season_5.shadow_in_the_ice.mystery_of_the_labyrinth" GUID="ct9dXmTif0a311KmPXtNUA==" trailData="Data/StoryJournal/Season5/ShadowInTheIce/MysteryOfTheLabyrinth_0.trl" texture="Data/SemiLine.png" color="ff00ff00" alpha="0.8" fadeNear="2000" fadeFar="3800" animSpeed="1" mapDisplaySize="15"/>
-		<Trail type="story_journal.season_5.shadow_in_the_ice.mystery_of_the_labyrinth" GUID="Ibvwwi0+RE2JT0utAlTIhw==" trailData="Data/StoryJournal/Season5/ShadowInTheIce/MysteryOfTheLabyrinth_1.trl" texture="Data/SemiLine.png" color="ffffff00" alpha="0.8" fadeNear="2000" fadeFar="3800" animSpeed="1" mapDisplaySize="15"/>
-		<Trail type="story_journal.season_5.shadow_in_the_ice.mystery_of_the_labyrinth" GUID="bcXYA1auTkirzngx8cSCbA==" trailData="Data/StoryJournal/Season5/ShadowInTheIce/MysteryOfTheLabyrinth_2.trl" texture="Data/SemiLine.png" color="ffff6666" alpha="0.8" fadeNear="2000" fadeFar="3800" animSpeed="1" mapDisplaySize="15"/>
+		<Trail type="story_journal.season_5.shadow_in_the_ice.mystery_of_the_labyrinth" GUID="ct9dXmTif0a311KmPXtNUA==" trailData="Data/StoryJournal/Season5/ShadowInTheIce/MysteryOfTheLabyrinth_0.trl" texture="Data/SemiLine.png" color="ff00ff00" alpha="0.8" fadeNear="2000" fadeFar="3800" animSpeed="1" mapDisplaySize="15" />
+		<Trail type="story_journal.season_5.shadow_in_the_ice.mystery_of_the_labyrinth" GUID="Ibvwwi0+RE2JT0utAlTIhw==" trailData="Data/StoryJournal/Season5/ShadowInTheIce/MysteryOfTheLabyrinth_1.trl" texture="Data/SemiLine.png" color="ffffff00" alpha="0.8" fadeNear="2000" fadeFar="3800" animSpeed="1" mapDisplaySize="15" />
+		<Trail type="story_journal.season_5.shadow_in_the_ice.mystery_of_the_labyrinth" GUID="bcXYA1auTkirzngx8cSCbA==" trailData="Data/StoryJournal/Season5/ShadowInTheIce/MysteryOfTheLabyrinth_2.trl" texture="Data/SemiLine.png" color="ffff6666" alpha="0.8" fadeNear="2000" fadeFar="3800" animSpeed="1" mapDisplaySize="15" />
 		<!-- Entrance / Transition / End -->
-		<POI MapID="1343" xpos="884.263" ypos="128.428" zpos="459.961" type="story_journal.season_5.shadow_in_the_ice.mystery_of_the_labyrinth" GUID="quySbHdtQUKPjdD+eIf30g==" iconFile="Img/Icons/MirrorGreen.png"  fadeNear="-1" fadeFar="-1" heightOffset="0" mapVisibility="1" miniMapVisibility="1"/>
-		<POI MapID="1343" xpos="891.185" ypos="128.454" zpos="462.348" type="story_journal.season_5.shadow_in_the_ice.mystery_of_the_labyrinth" GUID="aU0Al07fHkCVy1krrWQ63A==" iconFile="Img/Icons/Interaction.png"  maxSize="24" fadeNear="900" fadeFar="1000"/>
-		<POI MapID="1343" xpos="910.67"  ypos="129.285" zpos="480.178" type="story_journal.season_5.shadow_in_the_ice.mystery_of_the_labyrinth" GUID="RukaLZnBRkSo0BPpvZiEyQ==" iconFile="Img/Icons/Interaction.png"  maxSize="24" fadeNear="900" fadeFar="1000"/>
-		<POI MapID="1343" xpos="1198.43" ypos="51.9085" zpos="596.066" type="story_journal.season_5.shadow_in_the_ice.mystery_of_the_labyrinth" GUID="AHTDOzxTdUeSo+UlQYQazA==" iconFile="Img/Icons/Interaction.png"  maxSize="24" fadeNear="900" fadeFar="1000"/>
+		<POI MapID="1343" xpos="884.263" ypos="128.428" zpos="459.961" type="story_journal.season_5.shadow_in_the_ice.mystery_of_the_labyrinth" GUID="quySbHdtQUKPjdD+eIf30g==" iconFile="Img/Icons/MirrorGreen.png" fadeNear="-1" fadeFar="-1" heightOffset="0" mapVisibility="1" miniMapVisibility="1" />
+		<POI MapID="1343" xpos="891.185" ypos="128.454" zpos="462.348" type="story_journal.season_5.shadow_in_the_ice.mystery_of_the_labyrinth" GUID="aU0Al07fHkCVy1krrWQ63A==" iconFile="Img/Icons/Interaction.png" maxSize="24" fadeNear="900" fadeFar="1000" />
+		<POI MapID="1343" xpos="910.67" ypos="129.285" zpos="480.178" type="story_journal.season_5.shadow_in_the_ice.mystery_of_the_labyrinth" GUID="RukaLZnBRkSo0BPpvZiEyQ==" iconFile="Img/Icons/Interaction.png" maxSize="24" fadeNear="900" fadeFar="1000" />
+		<POI MapID="1343" xpos="1198.43" ypos="51.9085" zpos="596.066" type="story_journal.season_5.shadow_in_the_ice.mystery_of_the_labyrinth" GUID="AHTDOzxTdUeSo+UlQYQazA==" iconFile="Img/Icons/Interaction.png" maxSize="24" fadeNear="900" fadeFar="1000" />
 		<!-- First Puzzle -->
-		<POI MapID="1343" xpos="1244.12" ypos="52.1057" zpos="604.349" type="story_journal.season_5.shadow_in_the_ice.mystery_of_the_labyrinth" GUID="Ipn0hv/YtE+0lG2ElZElgA==" iconFile="Img/Icons/MirrorYellow.png" heightOffset="0"/>
-		<POI MapID="1343" xpos="1350.23" ypos="53.1047" zpos="610.626" type="story_journal.season_5.shadow_in_the_ice.mystery_of_the_labyrinth" GUID="9jMFVoTIw0WNx0KwFGrngw==" iconFile="Img/Icons/Mirror.png"/>
-		<POI MapID="1343" xpos="1290.84" ypos="51.9042" zpos="599.128" type="story_journal.season_5.shadow_in_the_ice.mystery_of_the_labyrinth" GUID="FW2ejVV8F0albpiZPvD1kQ==" iconFile="Img/Icons/Interaction.png"  maxSize="24" fadeNear="900" fadeFar="1000"/>
-		<POI MapID="1343" xpos="1246.45" ypos="52.6203" zpos="593.829" type="story_journal.season_5.shadow_in_the_ice.mystery_of_the_labyrinth" GUID="yxOhXS0uS0SPJbnXrV3Khw==" iconFile="Img/Icons/ChestGold.png"    heightOffset="0"/>
+		<POI MapID="1343" xpos="1244.12" ypos="52.1057" zpos="604.349" type="story_journal.season_5.shadow_in_the_ice.mystery_of_the_labyrinth" GUID="Ipn0hv/YtE+0lG2ElZElgA==" iconFile="Img/Icons/MirrorYellow.png" heightOffset="0" />
+		<POI MapID="1343" xpos="1350.23" ypos="53.1047" zpos="610.626" type="story_journal.season_5.shadow_in_the_ice.mystery_of_the_labyrinth" GUID="9jMFVoTIw0WNx0KwFGrngw==" iconFile="Img/Icons/Mirror.png" />
+		<POI MapID="1343" xpos="1290.84" ypos="51.9042" zpos="599.128" type="story_journal.season_5.shadow_in_the_ice.mystery_of_the_labyrinth" GUID="FW2ejVV8F0albpiZPvD1kQ==" iconFile="Img/Icons/Interaction.png" maxSize="24" fadeNear="900" fadeFar="1000" />
+		<POI MapID="1343" xpos="1246.45" ypos="52.6203" zpos="593.829" type="story_journal.season_5.shadow_in_the_ice.mystery_of_the_labyrinth" GUID="yxOhXS0uS0SPJbnXrV3Khw==" iconFile="Img/Icons/ChestGold.png" heightOffset="0" />
 		<!-- Second Puzzle -->
-		<POI MapID="1343" xpos="1244.03" ypos="52.1045" zpos="565.895" type="story_journal.season_5.shadow_in_the_ice.mystery_of_the_labyrinth" GUID="p0n1tI9feEmF3eBja9Va0w==" iconFile="Img/Icons/MirrorRed.png"    heightOffset="0"/>
-		<POI MapID="1343" xpos="1350.64" ypos="52.9305" zpos="558.765" type="story_journal.season_5.shadow_in_the_ice.mystery_of_the_labyrinth" GUID="LxzU4swL6UGuDVqGaJjTXA==" iconFile="Img/Icons/Mirror.png"/>
-		<POI MapID="1343" xpos="1291.34" ypos="51.9081" zpos="573.852" type="story_journal.season_5.shadow_in_the_ice.mystery_of_the_labyrinth" GUID="HfrfOOMajUOd5J6KmM6iWQ==" iconFile="Img/Icons/Interaction.png"  maxSize="24" fadeNear="900" fadeFar="1000"/>
-		<POI MapID="1343" xpos="1247.01" ypos="52.6016" zpos="576.901" type="story_journal.season_5.shadow_in_the_ice.mystery_of_the_labyrinth" GUID="3Z/Pc4hwYEOt88BfL+IxnA==" iconFile="Img/Icons/ChestGold.png"    heightOffset="0"/>
+		<POI MapID="1343" xpos="1244.03" ypos="52.1045" zpos="565.895" type="story_journal.season_5.shadow_in_the_ice.mystery_of_the_labyrinth" GUID="p0n1tI9feEmF3eBja9Va0w==" iconFile="Img/Icons/MirrorRed.png" heightOffset="0" />
+		<POI MapID="1343" xpos="1350.64" ypos="52.9305" zpos="558.765" type="story_journal.season_5.shadow_in_the_ice.mystery_of_the_labyrinth" GUID="LxzU4swL6UGuDVqGaJjTXA==" iconFile="Img/Icons/Mirror.png" />
+		<POI MapID="1343" xpos="1291.34" ypos="51.9081" zpos="573.852" type="story_journal.season_5.shadow_in_the_ice.mystery_of_the_labyrinth" GUID="HfrfOOMajUOd5J6KmM6iWQ==" iconFile="Img/Icons/Interaction.png" maxSize="24" fadeNear="900" fadeFar="1000" />
+		<POI MapID="1343" xpos="1247.01" ypos="52.6016" zpos="576.901" type="story_journal.season_5.shadow_in_the_ice.mystery_of_the_labyrinth" GUID="3Z/Pc4hwYEOt88BfL+IxnA==" iconFile="Img/Icons/ChestGold.png" heightOffset="0" />
 		<!-- Final Chest -->
-		<POI MapID="1343" xpos="1261.51" ypos="51.7104" zpos="584.702" type="story_journal.season_5.shadow_in_the_ice.mystery_of_the_labyrinth" GUID="ZxZbd2fQHUaQltp6jziAyw==" iconFile="Img/Icons/ChestGreen.png"   heightOffset="0"/>
-
+		<POI MapID="1343" xpos="1261.51" ypos="51.7104" zpos="584.702" type="story_journal.season_5.shadow_in_the_ice.mystery_of_the_labyrinth" GUID="ZxZbd2fQHUaQltp6jziAyw==" iconFile="Img/Icons/ChestGreen.png" heightOffset="0" />
 		<!-- MYSTERY OF THE RAVEN GATE RUINS -->
-		<Trail type="story_journal.season_5.shadow_in_the_ice.mystery_of_the_raven_gate_ruins" GUID="bdxRWNdlXEG8InYeG6a59Q==" trailData="Data/StoryJournal/Season5/ShadowInTheIce/MysteryOfTheRavenGateRuins_0.trl" texture="Data/SemiLine.png" color="ff00ff00" alpha="0.8" fadeNear="2000" fadeFar="3800" animSpeed="1" mapDisplaySize="15"/>
-		<Trail type="story_journal.season_5.shadow_in_the_ice.mystery_of_the_raven_gate_ruins" GUID="qIWKDW9uaUiZIVzvllPm2w==" trailData="Data/StoryJournal/Season5/ShadowInTheIce/MysteryOfTheRavenGateRuins_1.trl" texture="Data/SemiLine.png" color="ffffff00" alpha="0.8" fadeNear="2000" fadeFar="3800" animSpeed="1" mapDisplaySize="15"/>
-		<Trail type="story_journal.season_5.shadow_in_the_ice.mystery_of_the_raven_gate_ruins" GUID="5ayVDUgw4kOVqIkU9ELbiQ==" trailData="Data/StoryJournal/Season5/ShadowInTheIce/MysteryOfTheRavenGateRuins_2.trl" texture="Data/SemiLine.png" color="ffff6666" alpha="0.8" fadeNear="2000" fadeFar="3800" animSpeed="1" mapDisplaySize="15"/>
+		<Trail type="story_journal.season_5.shadow_in_the_ice.mystery_of_the_raven_gate_ruins" GUID="bdxRWNdlXEG8InYeG6a59Q==" trailData="Data/StoryJournal/Season5/ShadowInTheIce/MysteryOfTheRavenGateRuins_0.trl" texture="Data/SemiLine.png" color="ff00ff00" alpha="0.8" fadeNear="2000" fadeFar="3800" animSpeed="1" mapDisplaySize="15" />
+		<Trail type="story_journal.season_5.shadow_in_the_ice.mystery_of_the_raven_gate_ruins" GUID="qIWKDW9uaUiZIVzvllPm2w==" trailData="Data/StoryJournal/Season5/ShadowInTheIce/MysteryOfTheRavenGateRuins_1.trl" texture="Data/SemiLine.png" color="ffffff00" alpha="0.8" fadeNear="2000" fadeFar="3800" animSpeed="1" mapDisplaySize="15" />
+		<Trail type="story_journal.season_5.shadow_in_the_ice.mystery_of_the_raven_gate_ruins" GUID="5ayVDUgw4kOVqIkU9ELbiQ==" trailData="Data/StoryJournal/Season5/ShadowInTheIce/MysteryOfTheRavenGateRuins_2.trl" texture="Data/SemiLine.png" color="ffff6666" alpha="0.8" fadeNear="2000" fadeFar="3800" animSpeed="1" mapDisplaySize="15" />
 		<!-- Entrance / Transition / End -->
-		<POI MapID="1343" xpos="-662.731" ypos="280.516" zpos="532.277" type="story_journal.season_5.shadow_in_the_ice.mystery_of_the_raven_gate_ruins" GUID="zYMURiqZ9027N2leMlS8gQ==" iconFile="Img/Icons/MirrorGreen.png"  fadeNear="-1" fadeFar="-1" heightOffset="0" mapVisibility="1" miniMapVisibility="1"/>
-		<POI MapID="1343" xpos="-670.355" ypos="281.372" zpos="535.801" type="story_journal.season_5.shadow_in_the_ice.mystery_of_the_raven_gate_ruins" GUID="1O2GWEccU0+VqZr/jjmu6Q==" iconFile="Img/Icons/Interaction.png"  maxSize="24"/>
+		<POI MapID="1343" xpos="-662.731" ypos="280.516" zpos="532.277" type="story_journal.season_5.shadow_in_the_ice.mystery_of_the_raven_gate_ruins" GUID="zYMURiqZ9027N2leMlS8gQ==" iconFile="Img/Icons/MirrorGreen.png" fadeNear="-1" fadeFar="-1" heightOffset="0" mapVisibility="1" miniMapVisibility="1" />
+		<POI MapID="1343" xpos="-670.355" ypos="281.372" zpos="535.801" type="story_journal.season_5.shadow_in_the_ice.mystery_of_the_raven_gate_ruins" GUID="1O2GWEccU0+VqZr/jjmu6Q==" iconFile="Img/Icons/Interaction.png" maxSize="24" />
 		<!-- First Puzzle -->
-		<POI MapID="1343" xpos="-600.033" ypos="165.568" zpos="676.41"  type="story_journal.season_5.shadow_in_the_ice.mystery_of_the_raven_gate_ruins" GUID="BLAqDV890kuaQ1ccFe4/IQ==" iconFile="Img/Icons/MirrorYellow.png" heightOffset="0"/>
-		<POI MapID="1343" xpos="-566.459" ypos="165.465" zpos="656.769" type="story_journal.season_5.shadow_in_the_ice.mystery_of_the_raven_gate_ruins" GUID="on6m9Xb7v0ONhY0xetRsBw==" iconFile="Img/Icons/Mirror.png"/>
-		<POI MapID="1343" xpos="-590.241" ypos="165.425" zpos="623.294" type="story_journal.season_5.shadow_in_the_ice.mystery_of_the_raven_gate_ruins" GUID="oSFnZKSDokeuOly1w9OcKg==" iconFile="Img/Icons/Interaction.png"  maxSize="24" fadeNear="900" fadeFar="1000"/>
-		<POI MapID="1343" xpos="-654.914" ypos="167.152" zpos="657.959" type="story_journal.season_5.shadow_in_the_ice.mystery_of_the_raven_gate_ruins" GUID="UBSmMiGPjE2q5P7H6it4Lg==" iconFile="Img/Icons/Mirror.png"/>
-		<POI MapID="1343" xpos="-630.375" ypos="176.932" zpos="644.981" type="story_journal.season_5.shadow_in_the_ice.mystery_of_the_raven_gate_ruins" GUID="PvKjlxFFTUuq4NnD2GZhSA==" iconFile="Img/Icons/Interaction.png"  maxSize="24" fadeNear="900" fadeFar="1000"/>
-		<POI MapID="1343" xpos="-636.636" ypos="161.704" zpos="615.893" type="story_journal.season_5.shadow_in_the_ice.mystery_of_the_raven_gate_ruins" GUID="QYeE5Faa40edqA6kceJbsQ==" iconFile="Img/Icons/Mirror.png"/>
-		<POI MapID="1343" xpos="-627.06"  ypos="165.844" zpos="591.091" type="story_journal.season_5.shadow_in_the_ice.mystery_of_the_raven_gate_ruins" GUID="UCI0GD3wmkGyaS5MBqgWwQ==" iconFile="Img/Icons/Interaction.png"  maxSize="24" fadeNear="900" fadeFar="1000"/>
-		<POI MapID="1343" xpos="-694.096" ypos="150.689" zpos="598.679" type="story_journal.season_5.shadow_in_the_ice.mystery_of_the_raven_gate_ruins" GUID="z7C5e1iDREqsd7aWgsKqtw==" iconFile="Img/Icons/ChestGold.png"    heightOffset="0"/>
+		<POI MapID="1343" xpos="-600.033" ypos="165.568" zpos="676.41" type="story_journal.season_5.shadow_in_the_ice.mystery_of_the_raven_gate_ruins" GUID="BLAqDV890kuaQ1ccFe4/IQ==" iconFile="Img/Icons/MirrorYellow.png" heightOffset="0" />
+		<POI MapID="1343" xpos="-566.459" ypos="165.465" zpos="656.769" type="story_journal.season_5.shadow_in_the_ice.mystery_of_the_raven_gate_ruins" GUID="on6m9Xb7v0ONhY0xetRsBw==" iconFile="Img/Icons/Mirror.png" />
+		<POI MapID="1343" xpos="-590.241" ypos="165.425" zpos="623.294" type="story_journal.season_5.shadow_in_the_ice.mystery_of_the_raven_gate_ruins" GUID="oSFnZKSDokeuOly1w9OcKg==" iconFile="Img/Icons/Interaction.png" maxSize="24" fadeNear="900" fadeFar="1000" />
+		<POI MapID="1343" xpos="-654.914" ypos="167.152" zpos="657.959" type="story_journal.season_5.shadow_in_the_ice.mystery_of_the_raven_gate_ruins" GUID="UBSmMiGPjE2q5P7H6it4Lg==" iconFile="Img/Icons/Mirror.png" />
+		<POI MapID="1343" xpos="-630.375" ypos="176.932" zpos="644.981" type="story_journal.season_5.shadow_in_the_ice.mystery_of_the_raven_gate_ruins" GUID="PvKjlxFFTUuq4NnD2GZhSA==" iconFile="Img/Icons/Interaction.png" maxSize="24" fadeNear="900" fadeFar="1000" />
+		<POI MapID="1343" xpos="-636.636" ypos="161.704" zpos="615.893" type="story_journal.season_5.shadow_in_the_ice.mystery_of_the_raven_gate_ruins" GUID="QYeE5Faa40edqA6kceJbsQ==" iconFile="Img/Icons/Mirror.png" />
+		<POI MapID="1343" xpos="-627.06" ypos="165.844" zpos="591.091" type="story_journal.season_5.shadow_in_the_ice.mystery_of_the_raven_gate_ruins" GUID="UCI0GD3wmkGyaS5MBqgWwQ==" iconFile="Img/Icons/Interaction.png" maxSize="24" fadeNear="900" fadeFar="1000" />
+		<POI MapID="1343" xpos="-694.096" ypos="150.689" zpos="598.679" type="story_journal.season_5.shadow_in_the_ice.mystery_of_the_raven_gate_ruins" GUID="z7C5e1iDREqsd7aWgsKqtw==" iconFile="Img/Icons/ChestGold.png" heightOffset="0" />
 		<!-- Second Puzzle -->
-		<POI MapID="1343" xpos="-703.466" ypos="149.938" zpos="600.19"  type="story_journal.season_5.shadow_in_the_ice.mystery_of_the_raven_gate_ruins" GUID="kBi6h9x9s0mDop1oUnJcxA==" iconFile="Img/Icons/MirrorRed.png"    heightOffset="0"/>
-		<POI MapID="1343" xpos="-733.904" ypos="149.98"  zpos="601.758" type="story_journal.season_5.shadow_in_the_ice.mystery_of_the_raven_gate_ruins" GUID="WXOgGvBPR06/lpXfuEmN0g==" iconFile="Img/Icons/Mirror.png"/>
-		<POI MapID="1343" xpos="-701.589" ypos="150.443" zpos="672.905" type="story_journal.season_5.shadow_in_the_ice.mystery_of_the_raven_gate_ruins" GUID="QYxBKOIF90mT0/M2z3CcWw==" iconFile="Img/Icons/Interaction.png"  maxSize="24" fadeNear="900" fadeFar="1000"/>
-		<POI MapID="1343" xpos="-737.722" ypos="150.672" zpos="664.776" type="story_journal.season_5.shadow_in_the_ice.mystery_of_the_raven_gate_ruins" GUID="zOsBNQIaNkSQtHBUpM3EGw==" iconFile="Img/Icons/Mirror.png"/>
-		<POI MapID="1343" xpos="-779.411" ypos="150.443" zpos="592.963" type="story_journal.season_5.shadow_in_the_ice.mystery_of_the_raven_gate_ruins" GUID="VPY242yOIkGMKQdiJuWIag==" iconFile="Img/Icons/Interaction.png"  maxSize="24" fadeNear="900" fadeFar="1000"/>
-		<POI MapID="1343" xpos="-818.272" ypos="150.123" zpos="598.234" type="story_journal.season_5.shadow_in_the_ice.mystery_of_the_raven_gate_ruins" GUID="486SyqnXSEurG/8V1ztfdQ==" iconFile="Img/Icons/Mirror.png"/>
-		<POI MapID="1343" xpos="-858.326" ypos="150.857" zpos="633.085" type="story_journal.season_5.shadow_in_the_ice.mystery_of_the_raven_gate_ruins" GUID="oHrOAyrA1UyWb1Nx01wcXQ==" iconFile="Img/Icons/ChestGold.png"    heightOffset="0"/>
+		<POI MapID="1343" xpos="-703.466" ypos="149.938" zpos="600.19" type="story_journal.season_5.shadow_in_the_ice.mystery_of_the_raven_gate_ruins" GUID="kBi6h9x9s0mDop1oUnJcxA==" iconFile="Img/Icons/MirrorRed.png" heightOffset="0" />
+		<POI MapID="1343" xpos="-733.904" ypos="149.98" zpos="601.758" type="story_journal.season_5.shadow_in_the_ice.mystery_of_the_raven_gate_ruins" GUID="WXOgGvBPR06/lpXfuEmN0g==" iconFile="Img/Icons/Mirror.png" />
+		<POI MapID="1343" xpos="-701.589" ypos="150.443" zpos="672.905" type="story_journal.season_5.shadow_in_the_ice.mystery_of_the_raven_gate_ruins" GUID="QYxBKOIF90mT0/M2z3CcWw==" iconFile="Img/Icons/Interaction.png" maxSize="24" fadeNear="900" fadeFar="1000" />
+		<POI MapID="1343" xpos="-737.722" ypos="150.672" zpos="664.776" type="story_journal.season_5.shadow_in_the_ice.mystery_of_the_raven_gate_ruins" GUID="zOsBNQIaNkSQtHBUpM3EGw==" iconFile="Img/Icons/Mirror.png" />
+		<POI MapID="1343" xpos="-779.411" ypos="150.443" zpos="592.963" type="story_journal.season_5.shadow_in_the_ice.mystery_of_the_raven_gate_ruins" GUID="VPY242yOIkGMKQdiJuWIag==" iconFile="Img/Icons/Interaction.png" maxSize="24" fadeNear="900" fadeFar="1000" />
+		<POI MapID="1343" xpos="-818.272" ypos="150.123" zpos="598.234" type="story_journal.season_5.shadow_in_the_ice.mystery_of_the_raven_gate_ruins" GUID="486SyqnXSEurG/8V1ztfdQ==" iconFile="Img/Icons/Mirror.png" />
+		<POI MapID="1343" xpos="-858.326" ypos="150.857" zpos="633.085" type="story_journal.season_5.shadow_in_the_ice.mystery_of_the_raven_gate_ruins" GUID="oHrOAyrA1UyWb1Nx01wcXQ==" iconFile="Img/Icons/ChestGold.png" heightOffset="0" />
 		<!-- Final Chest -->
-		<POI MapID="1343" xpos="-845.042" ypos="150.059" zpos="632.873" type="story_journal.season_5.shadow_in_the_ice.mystery_of_the_raven_gate_ruins" GUID="1Cy9RTyjr0GQmmHcGxvQcw==" iconFile="Img/Icons/ChestGreen.png"   heightOffset="0"/>
-
+		<POI MapID="1343" xpos="-845.042" ypos="150.059" zpos="632.873" type="story_journal.season_5.shadow_in_the_ice.mystery_of_the_raven_gate_ruins" GUID="1Cy9RTyjr0GQmmHcGxvQcw==" iconFile="Img/Icons/ChestGreen.png" heightOffset="0" />
 		<!-- MYSTERY OF THE WESTERN MARCHES -->
-		<Trail type="story_journal.season_5.shadow_in_the_ice.mystery_of_the_western_marches" GUID="xyyyoPKXqkazB68FYt7mPA==" trailData="Data/StoryJournal/Season5/ShadowInTheIce/MysteryOfTheWesternMarches.trl" texture="Data/SemiLine.png" color="ffffff00" alpha="0.8" fadeNear="8000" fadeFar="10000" animSpeed="1" mapDisplaySize="15"/>
-		<POI MapID="1343" xpos="-64.8732" ypos="299.071" zpos="221.142"  type="story_journal.season_5.shadow_in_the_ice.mystery_of_the_western_marches" GUID="1t1oeIEWTESyB5uUuZlZgA==" iconFile="Img/Icons/MirrorGreen.png" fadeNear="-1" fadeFar="-1" heightOffset="0" mapVisibility="1" miniMapVisibility="1"/>
-		<POI MapID="1343" xpos="-173.11"  ypos="331.964" zpos="257.533"  type="story_journal.season_5.shadow_in_the_ice.mystery_of_the_western_marches" GUID="3B9bN02Cr0Cxzp6jZ8bTrg==" iconFile="Img/Icons/Mirror.png"/>
-		<POI MapID="1343" xpos="-159.921" ypos="311.601" zpos="153.682"  type="story_journal.season_5.shadow_in_the_ice.mystery_of_the_western_marches" GUID="y0ZxTZrA1kaRL/bovQor1Q==" iconFile="Img/Icons/Mirror.png"/>
-		<POI MapID="1343" xpos="-96.8505" ypos="299.551" zpos="241.512"  type="story_journal.season_5.shadow_in_the_ice.mystery_of_the_western_marches" GUID="TUWxIHLqmUis5FsDw4J/VA==" iconFile="Img/Icons/Mirror.png"/>
-		<POI MapID="1343" xpos="3.10709"  ypos="285.089" zpos="-47.7998" type="story_journal.season_5.shadow_in_the_ice.mystery_of_the_western_marches" GUID="IuLjlRoW6Uycg+VxkM2G7Q==" iconFile="Img/Icons/Mirror.png"/>
-		<POI MapID="1343" xpos="-273.148" ypos="301.322" zpos="-251.152" type="story_journal.season_5.shadow_in_the_ice.mystery_of_the_western_marches" GUID="As5TM4vwnk+07xaQOmG2KA==" iconFile="Img/Icons/Mirror.png"/>
-		<POI MapID="1343" xpos="-369.864" ypos="275.088" zpos="-66.7583" type="story_journal.season_5.shadow_in_the_ice.mystery_of_the_western_marches" GUID="FNXKYjYZP0CcFI3oGjpZmA==" iconFile="Img/Icons/Mirror.png"/>
-		<POI MapID="1343" xpos="-505.384" ypos="246.603" zpos="-169.531" type="story_journal.season_5.shadow_in_the_ice.mystery_of_the_western_marches" GUID="PuAPs+oIeUqxc2UhYO24iA==" iconFile="Img/Icons/Mirror.png"/>
-		<POI MapID="1343" xpos="-483.194" ypos="241.674" zpos="-42.4794" type="story_journal.season_5.shadow_in_the_ice.mystery_of_the_western_marches" GUID="IoXSKHZCH0qRRrdI1c5UBA==" iconFile="Img/Icons/ChestGold.png" heightOffset="0"/>
-
+		<Trail type="story_journal.season_5.shadow_in_the_ice.mystery_of_the_western_marches" GUID="xyyyoPKXqkazB68FYt7mPA==" trailData="Data/StoryJournal/Season5/ShadowInTheIce/MysteryOfTheWesternMarches.trl" texture="Data/SemiLine.png" color="ffffff00" alpha="0.8" fadeNear="8000" fadeFar="10000" animSpeed="1" mapDisplaySize="15" />
+		<POI MapID="1343" xpos="-64.8732" ypos="299.071" zpos="221.142" type="story_journal.season_5.shadow_in_the_ice.mystery_of_the_western_marches" GUID="1t1oeIEWTESyB5uUuZlZgA==" iconFile="Img/Icons/MirrorGreen.png" fadeNear="-1" fadeFar="-1" heightOffset="0" mapVisibility="1" miniMapVisibility="1" />
+		<POI MapID="1343" xpos="-173.11" ypos="331.964" zpos="257.533" type="story_journal.season_5.shadow_in_the_ice.mystery_of_the_western_marches" GUID="3B9bN02Cr0Cxzp6jZ8bTrg==" iconFile="Img/Icons/Mirror.png" />
+		<POI MapID="1343" xpos="-159.921" ypos="311.601" zpos="153.682" type="story_journal.season_5.shadow_in_the_ice.mystery_of_the_western_marches" GUID="y0ZxTZrA1kaRL/bovQor1Q==" iconFile="Img/Icons/Mirror.png" />
+		<POI MapID="1343" xpos="-96.8505" ypos="299.551" zpos="241.512" type="story_journal.season_5.shadow_in_the_ice.mystery_of_the_western_marches" GUID="TUWxIHLqmUis5FsDw4J/VA==" iconFile="Img/Icons/Mirror.png" />
+		<POI MapID="1343" xpos="3.10709" ypos="285.089" zpos="-47.7998" type="story_journal.season_5.shadow_in_the_ice.mystery_of_the_western_marches" GUID="IuLjlRoW6Uycg+VxkM2G7Q==" iconFile="Img/Icons/Mirror.png" />
+		<POI MapID="1343" xpos="-273.148" ypos="301.322" zpos="-251.152" type="story_journal.season_5.shadow_in_the_ice.mystery_of_the_western_marches" GUID="As5TM4vwnk+07xaQOmG2KA==" iconFile="Img/Icons/Mirror.png" />
+		<POI MapID="1343" xpos="-369.864" ypos="275.088" zpos="-66.7583" type="story_journal.season_5.shadow_in_the_ice.mystery_of_the_western_marches" GUID="FNXKYjYZP0CcFI3oGjpZmA==" iconFile="Img/Icons/Mirror.png" />
+		<POI MapID="1343" xpos="-505.384" ypos="246.603" zpos="-169.531" type="story_journal.season_5.shadow_in_the_ice.mystery_of_the_western_marches" GUID="PuAPs+oIeUqxc2UhYO24iA==" iconFile="Img/Icons/Mirror.png" />
+		<POI MapID="1343" xpos="-483.194" ypos="241.674" zpos="-42.4794" type="story_journal.season_5.shadow_in_the_ice.mystery_of_the_western_marches" GUID="IoXSKHZCH0qRRrdI1c5UBA==" iconFile="Img/Icons/ChestGold.png" heightOffset="0" />
 		<!-- SELF-CONFIDENCE -->
-		<POI MapID="1355" xpos="-154.222" ypos="6.07286" zpos="71.9706" type="story_journal.season_5.shadow_in_the_ice.self_confidence" GUID="n20qKel8BEy9dthZoXBP1A==" fadeNear="3000" fadeFar="5000"/>
-		<POI MapID="1355" xpos="-154.222" ypos="8.07286" zpos="71.9706" type="story_journal.season_5.shadow_in_the_ice.self_confidence" GUID="8Tw6vKgjvUOmHCfLgfjJzQ==" iconFile="Img/Season5/SelfConfidence.png" minSize="140" maxSize="140" fadeNear="1000" fadeFar="1200" mapVisibility="0" miniMapVisibility="0"/>
-
+		<POI MapID="1355" xpos="-154.222" ypos="6.07286" zpos="71.9706" type="story_journal.season_5.shadow_in_the_ice.self_confidence" GUID="n20qKel8BEy9dthZoXBP1A==" fadeNear="3000" fadeFar="5000" />
+		<POI MapID="1355" xpos="-154.222" ypos="8.07286" zpos="71.9706" type="story_journal.season_5.shadow_in_the_ice.self_confidence" GUID="8Tw6vKgjvUOmHCfLgfjJzQ==" iconFile="Img/Season5/SelfConfidence.png" minSize="140" maxSize="140" fadeNear="1000" fadeFar="1200" mapVisibility="0" miniMapVisibility="0" />
 		<!-- HIDDEN: ANVIL DROP -->
 		<POI MapID="1343" xpos="939.145" ypos="66.006" zpos="-97.0865" type="story_journal.season_5.shadow_in_the_ice.anvil_drop" GUID="yvBZ/3KcCUa7ky8T1R/qXA==" infoRange="10" info="ANVIL DROP
-Get crushed by a falling Claw of Jormag bombardment"/>
-
+Get crushed by a falling Claw of Jormag bombardment" />
 		<!-- HIDDEN: SHADOWS CREEP -->
-		<POI MapID="1343" xpos="-635.235" ypos="134.162" zpos="-192.605" type="story_journal.season_5.shadow_in_the_ice.shadows_creep" GUID="h0yK81LvvUiGGp24WVB1rQ=="/>
-
+		<POI MapID="1343" xpos="-635.235" ypos="134.162" zpos="-192.605" type="story_journal.season_5.shadow_in_the_ice.shadows_creep" GUID="h0yK81LvvUiGGp24WVB1rQ==" />
 	</POIs>
 </OverlayData>

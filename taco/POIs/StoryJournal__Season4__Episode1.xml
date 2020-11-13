@@ -1,281 +1,260 @@
 <!-- 2019.12.25 -->
 <OverlayData>
 	<POIs>
-
 		<!-- ALLY ASSESSMENT -->
-		<POI MapID="1263" xpos="-947.351" ypos="103.623" zpos="760.738" type="story_journal.season_4.daybreak.ally_assessment" GUID="/ib/Fb7rS0CXZs4SeDH26A==" behavior="0"/>
-		<POI MapID="1263" xpos="-947.351" ypos="106"     zpos="760.738" type="story_journal.season_4.daybreak.ally_assessment" GUID="IMy1rrgGLU+VsBYWMkbuqQ==" iconFile="Img/Numbers/1.png" color="ff00ff00" behavior="0"/>
-		<POI MapID="1263" xpos="-953.923" ypos="94.5881" zpos="784.507" type="story_journal.season_4.daybreak.ally_assessment" GUID="7O3S95UZukqhGb4A+nqLqA==" iconFile="Img/Season4/AllyAssessment.png" fadeNear="1250" fadeFar="1250" behavior="0"/>
-		<POI MapID="1263" xpos="-756.513" ypos="30.6594" zpos="658.855" type="story_journal.season_4.daybreak.ally_assessment" GUID="dGUS/aohgEq5NlKMIeOFsg==" fadeNear="4000" fadeFar="5000"/>
-		<POI MapID="1263" xpos="-831.427" ypos="29.5539" zpos="655.618" type="story_journal.season_4.daybreak.ally_assessment" GUID="NTquJIXDdEKau6SOmjFKRQ==" fadeNear="4000" fadeFar="5000"/>
-		<POI MapID="1263" xpos="-795.033" ypos="30.6584" zpos="589.453" type="story_journal.season_4.daybreak.ally_assessment" GUID="LzX/V90CBEicTh7FwDw8uQ==" fadeNear="4000" fadeFar="5000"/>
-		<POI MapID="1263" xpos="-838.027" ypos="29.5547" zpos="650.949" type="story_journal.season_4.daybreak.ally_assessment" GUID="/svEYe68yUqlXmHNgmF5fg==" fadeNear="4000" fadeFar="5000"/>
-		<POI MapID="1263" xpos="-806.364" ypos="30.8078" zpos="640.32"  type="story_journal.season_4.daybreak.ally_assessment" GUID="a3ps459uzU6eYX2qiLnRqg==" fadeNear="4000" fadeFar="5000"/>
-		<POI MapID="1263" xpos="-843.348" ypos="30.6576" zpos="692.029" type="story_journal.season_4.daybreak.ally_assessment" GUID="jDE9UhtKdUqQ3hF+FQn1Dw==" fadeNear="4000" fadeFar="5000"/>
-		<POI MapID="1263" xpos="-815.13"  ypos="29.315"  zpos="590.646" type="story_journal.season_4.daybreak.ally_assessment" GUID="zYM4FW4NaUy+Jmo1QY5iRg==" fadeNear="4000" fadeFar="5000"/>
-		<POI MapID="1263" xpos="-845.504" ypos="30.6576" zpos="583.976" type="story_journal.season_4.daybreak.ally_assessment" GUID="znV/04Ud0kWp2eaQ7SC0Ag==" fadeNear="4000" fadeFar="5000"/>
-		<POI MapID="1263" xpos="-837.392" ypos="30.6576" zpos="564.351" type="story_journal.season_4.daybreak.ally_assessment" GUID="c7nORTkqyUut+VcKsdrkxw==" fadeNear="4000" fadeFar="5000"/>
-		<POI MapID="1263" xpos="-812.469" ypos="30.6576" zpos="696.519" type="story_journal.season_4.daybreak.ally_assessment" GUID="xqqMMxiyOk2AcYW4OVhyuQ==" fadeNear="4000" fadeFar="5000"/>
-
+		<POI MapID="1263" xpos="-947.351" ypos="103.623" zpos="760.738" type="story_journal.season_4.daybreak.ally_assessment" GUID="/ib/Fb7rS0CXZs4SeDH26A==" behavior="0" />
+		<POI MapID="1263" xpos="-947.351" ypos="106" zpos="760.738" type="story_journal.season_4.daybreak.ally_assessment" GUID="IMy1rrgGLU+VsBYWMkbuqQ==" iconFile="Img/Numbers/1.png" color="ff00ff00" behavior="0" />
+		<POI MapID="1263" xpos="-953.923" ypos="94.5881" zpos="784.507" type="story_journal.season_4.daybreak.ally_assessment" GUID="7O3S95UZukqhGb4A+nqLqA==" iconFile="Img/Season4/AllyAssessment.png" fadeNear="1250" fadeFar="1250" behavior="0" />
+		<POI MapID="1263" xpos="-756.513" ypos="30.6594" zpos="658.855" type="story_journal.season_4.daybreak.ally_assessment" GUID="dGUS/aohgEq5NlKMIeOFsg==" fadeNear="4000" fadeFar="5000" />
+		<POI MapID="1263" xpos="-831.427" ypos="29.5539" zpos="655.618" type="story_journal.season_4.daybreak.ally_assessment" GUID="NTquJIXDdEKau6SOmjFKRQ==" fadeNear="4000" fadeFar="5000" />
+		<POI MapID="1263" xpos="-795.033" ypos="30.6584" zpos="589.453" type="story_journal.season_4.daybreak.ally_assessment" GUID="LzX/V90CBEicTh7FwDw8uQ==" fadeNear="4000" fadeFar="5000" />
+		<POI MapID="1263" xpos="-838.027" ypos="29.5547" zpos="650.949" type="story_journal.season_4.daybreak.ally_assessment" GUID="/svEYe68yUqlXmHNgmF5fg==" fadeNear="4000" fadeFar="5000" />
+		<POI MapID="1263" xpos="-806.364" ypos="30.8078" zpos="640.32" type="story_journal.season_4.daybreak.ally_assessment" GUID="a3ps459uzU6eYX2qiLnRqg==" fadeNear="4000" fadeFar="5000" />
+		<POI MapID="1263" xpos="-843.348" ypos="30.6576" zpos="692.029" type="story_journal.season_4.daybreak.ally_assessment" GUID="jDE9UhtKdUqQ3hF+FQn1Dw==" fadeNear="4000" fadeFar="5000" />
+		<POI MapID="1263" xpos="-815.13" ypos="29.315" zpos="590.646" type="story_journal.season_4.daybreak.ally_assessment" GUID="zYM4FW4NaUy+Jmo1QY5iRg==" fadeNear="4000" fadeFar="5000" />
+		<POI MapID="1263" xpos="-845.504" ypos="30.6576" zpos="583.976" type="story_journal.season_4.daybreak.ally_assessment" GUID="znV/04Ud0kWp2eaQ7SC0Ag==" fadeNear="4000" fadeFar="5000" />
+		<POI MapID="1263" xpos="-837.392" ypos="30.6576" zpos="564.351" type="story_journal.season_4.daybreak.ally_assessment" GUID="c7nORTkqyUut+VcKsdrkxw==" fadeNear="4000" fadeFar="5000" />
+		<POI MapID="1263" xpos="-812.469" ypos="30.6576" zpos="696.519" type="story_journal.season_4.daybreak.ally_assessment" GUID="xqqMMxiyOk2AcYW4OVhyuQ==" fadeNear="4000" fadeFar="5000" />
 		<!-- AMNOON EVACUATION -->
-		<POI MapID="1260" xpos="-286.301" ypos="26.5443" zpos="-241.619" type="story_journal.season_4.daybreak.amnoon_evacuation" GUID="untEzL6rg0SSUy5Ia1TCMg=="/>
-		<POI MapID="1260" xpos="-271.984" ypos="18.3955" zpos="-284.513" type="story_journal.season_4.daybreak.amnoon_evacuation" GUID="e9E7/8q4EEiBMgC5XHbnPQ=="/>
-		<POI MapID="1260" xpos="-245.361" ypos="19.0526" zpos="-221.611" type="story_journal.season_4.daybreak.amnoon_evacuation" GUID="p1dPZxC6GEiwEImqHcx15w=="/>
-		<POI MapID="1260" xpos="-232.446" ypos="17.7071" zpos="-253.814" type="story_journal.season_4.daybreak.amnoon_evacuation" GUID="AVpBVft3YUeqYsCN7caGYg=="/>
-		<POI MapID="1260" xpos="-217.052" ypos="18.2152" zpos="-286.726" type="story_journal.season_4.daybreak.amnoon_evacuation" GUID="5F/pUu3FEU2chT2hZj1atQ=="/>
-		<POI MapID="1260" xpos="-171.004" ypos="21.3151" zpos="-211.129" type="story_journal.season_4.daybreak.amnoon_evacuation" GUID="CEOS/0jvzEG0pAL82NvGxA=="/>
-		<POI MapID="1260" xpos="-152.213" ypos="21.1656" zpos="-281.239" type="story_journal.season_4.daybreak.amnoon_evacuation" GUID="/EcNfOc5ZkmbAktbzvRXag=="/>
-		<POI MapID="1260" xpos="-149.992" ypos="21.2075" zpos="-276.125" type="story_journal.season_4.daybreak.amnoon_evacuation" GUID="e96XVYVrUEW0cFgquOtVug=="/>
-		<POI MapID="1260" xpos="-142.584" ypos="21.2732" zpos="-249.243" type="story_journal.season_4.daybreak.amnoon_evacuation" GUID="4xqMvUbjbk+wEwh/VxVE6g=="/>
-		<POI MapID="1260" xpos="-121.523" ypos="21.0894" zpos="-269.029" type="story_journal.season_4.daybreak.amnoon_evacuation" GUID="ZLOJkQHf70eRVFL2O1GaiQ=="/>
-		<POI MapID="1260" xpos="-68.8913" ypos="9.31705" zpos="-144.572" type="story_journal.season_4.daybreak.amnoon_evacuation" GUID="HyVMIDZI00y7jwwWN/Xi1g=="/>
-		<POI MapID="1260" xpos="-42.8005" ypos="9.56971" zpos="-121.147" type="story_journal.season_4.daybreak.amnoon_evacuation" GUID="lcawQ9XTJkSUYpkI+rw2vA=="/>
-		<POI MapID="1260" xpos="-14.917"  ypos="8.29979" zpos="-144.744" type="story_journal.season_4.daybreak.amnoon_evacuation" GUID="rE6ncEFo4k2sk6pwDQ3ELg=="/>
-		<POI MapID="1260" xpos="68.4431"  ypos="8.61027" zpos="-115.809" type="story_journal.season_4.daybreak.amnoon_evacuation" GUID="NU3ojS1LsUyUErzUploGpw=="/>
-		<POI MapID="1260" xpos="79.5262"  ypos="9.57706" zpos="-144.823" type="story_journal.season_4.daybreak.amnoon_evacuation" GUID="EcV87DxJqEWXh5wrcd/7rA=="/>
-		<POI MapID="1260" xpos="103.796"  ypos="8.57114" zpos="-134.031" type="story_journal.season_4.daybreak.amnoon_evacuation" GUID="V9+tOXoYikytHli1VecOfA=="/>
-		<POI MapID="1260" xpos="-278.168" ypos="24.0043" zpos="-99.2073" type="story_journal.season_4.daybreak.amnoon_evacuation" GUID="vViOZCXXYk2/cRA2xebbNw==" iconFile="Img/Season4/AmnoonAssessment.png" minSize="100" maxSize="100" fadeNear="1000" fadeFar="1000" behavior="0"/>
-		<POI MapID="1260" xpos="-331.139" ypos="8.7473"  zpos="126.461"  type="story_journal.season_4.daybreak.amnoon_evacuation" GUID="iD8Ll/EXR0SHC71K1VcULQ==" iconFile="Img/Icons/Detail.png"/>
-		<POI MapID="1260" xpos="-310.456" ypos="9.16759" zpos="209.032"  type="story_journal.season_4.daybreak.amnoon_evacuation" GUID="BX7cN/EQPk6WtUL3mcgjug==" iconFile="Img/Icons/Detail.png"/>
-		<POI MapID="1260" xpos="-299.124" ypos="23.7378" zpos="-81.908"  type="story_journal.season_4.daybreak.amnoon_evacuation" GUID="szETZaRtj0OjX7Z2NO93tQ==" iconFile="Img/Icons/Detail.png"/>
-		<POI MapID="1260" xpos="-296.352" ypos="9.18181" zpos="87.9622"  type="story_journal.season_4.daybreak.amnoon_evacuation" GUID="f8JqQKfj5Eqp8vgczfIJ7A==" iconFile="Img/Icons/Detail.png"/>
-		<POI MapID="1260" xpos="-290.656" ypos="21.6786" zpos="299.167"  type="story_journal.season_4.daybreak.amnoon_evacuation" GUID="JDouWHAitEay17hdZn4tHQ==" iconFile="Img/Icons/Detail.png"/>
-		<POI MapID="1260" xpos="-265.648" ypos="22.3694" zpos="-58.6313" type="story_journal.season_4.daybreak.amnoon_evacuation" GUID="jwQIB7M9bkySbXNiX42VVg==" iconFile="Img/Icons/Detail.png"/>
-		<POI MapID="1260" xpos="-241.878" ypos="2.96707" zpos="56.0307"  type="story_journal.season_4.daybreak.amnoon_evacuation" GUID="D1EWsLQbg0qweQtfAEVtyg==" iconFile="Img/Icons/Detail.png"/>
-		<POI MapID="1260" xpos="-233.264" ypos="15.7057" zpos="-41.278"  type="story_journal.season_4.daybreak.amnoon_evacuation" GUID="gAgvXmfR2UScuzUKzqEfCA==" iconFile="Img/Icons/Detail.png"/>
-		<POI MapID="1260" xpos="-214.502" ypos="2.56225" zpos="76.8318"  type="story_journal.season_4.daybreak.amnoon_evacuation" GUID="uFaAnEOMkUi+pTIYWZw/fA==" iconFile="Img/Icons/Detail.png"/>
-		<POI MapID="1260" xpos="-193.355" ypos="7.49399" zpos="7.02254"  type="story_journal.season_4.daybreak.amnoon_evacuation" GUID="RiUsDx47HUKliGe5MjAmNw==" iconFile="Img/Icons/Detail.png"/>
-
+		<POI MapID="1260" xpos="-286.301" ypos="26.5443" zpos="-241.619" type="story_journal.season_4.daybreak.amnoon_evacuation" GUID="untEzL6rg0SSUy5Ia1TCMg==" />
+		<POI MapID="1260" xpos="-271.984" ypos="18.3955" zpos="-284.513" type="story_journal.season_4.daybreak.amnoon_evacuation" GUID="e9E7/8q4EEiBMgC5XHbnPQ==" />
+		<POI MapID="1260" xpos="-245.361" ypos="19.0526" zpos="-221.611" type="story_journal.season_4.daybreak.amnoon_evacuation" GUID="p1dPZxC6GEiwEImqHcx15w==" />
+		<POI MapID="1260" xpos="-232.446" ypos="17.7071" zpos="-253.814" type="story_journal.season_4.daybreak.amnoon_evacuation" GUID="AVpBVft3YUeqYsCN7caGYg==" />
+		<POI MapID="1260" xpos="-217.052" ypos="18.2152" zpos="-286.726" type="story_journal.season_4.daybreak.amnoon_evacuation" GUID="5F/pUu3FEU2chT2hZj1atQ==" />
+		<POI MapID="1260" xpos="-171.004" ypos="21.3151" zpos="-211.129" type="story_journal.season_4.daybreak.amnoon_evacuation" GUID="CEOS/0jvzEG0pAL82NvGxA==" />
+		<POI MapID="1260" xpos="-152.213" ypos="21.1656" zpos="-281.239" type="story_journal.season_4.daybreak.amnoon_evacuation" GUID="/EcNfOc5ZkmbAktbzvRXag==" />
+		<POI MapID="1260" xpos="-149.992" ypos="21.2075" zpos="-276.125" type="story_journal.season_4.daybreak.amnoon_evacuation" GUID="e96XVYVrUEW0cFgquOtVug==" />
+		<POI MapID="1260" xpos="-142.584" ypos="21.2732" zpos="-249.243" type="story_journal.season_4.daybreak.amnoon_evacuation" GUID="4xqMvUbjbk+wEwh/VxVE6g==" />
+		<POI MapID="1260" xpos="-121.523" ypos="21.0894" zpos="-269.029" type="story_journal.season_4.daybreak.amnoon_evacuation" GUID="ZLOJkQHf70eRVFL2O1GaiQ==" />
+		<POI MapID="1260" xpos="-68.8913" ypos="9.31705" zpos="-144.572" type="story_journal.season_4.daybreak.amnoon_evacuation" GUID="HyVMIDZI00y7jwwWN/Xi1g==" />
+		<POI MapID="1260" xpos="-42.8005" ypos="9.56971" zpos="-121.147" type="story_journal.season_4.daybreak.amnoon_evacuation" GUID="lcawQ9XTJkSUYpkI+rw2vA==" />
+		<POI MapID="1260" xpos="-14.917" ypos="8.29979" zpos="-144.744" type="story_journal.season_4.daybreak.amnoon_evacuation" GUID="rE6ncEFo4k2sk6pwDQ3ELg==" />
+		<POI MapID="1260" xpos="68.4431" ypos="8.61027" zpos="-115.809" type="story_journal.season_4.daybreak.amnoon_evacuation" GUID="NU3ojS1LsUyUErzUploGpw==" />
+		<POI MapID="1260" xpos="79.5262" ypos="9.57706" zpos="-144.823" type="story_journal.season_4.daybreak.amnoon_evacuation" GUID="EcV87DxJqEWXh5wrcd/7rA==" />
+		<POI MapID="1260" xpos="103.796" ypos="8.57114" zpos="-134.031" type="story_journal.season_4.daybreak.amnoon_evacuation" GUID="V9+tOXoYikytHli1VecOfA==" />
+		<POI MapID="1260" xpos="-278.168" ypos="24.0043" zpos="-99.2073" type="story_journal.season_4.daybreak.amnoon_evacuation" GUID="vViOZCXXYk2/cRA2xebbNw==" iconFile="Img/Season4/AmnoonAssessment.png" minSize="100" maxSize="100" fadeNear="1000" fadeFar="1000" behavior="0" />
+		<POI MapID="1260" xpos="-331.139" ypos="8.7473" zpos="126.461" type="story_journal.season_4.daybreak.amnoon_evacuation" GUID="iD8Ll/EXR0SHC71K1VcULQ==" iconFile="Img/Icons/Detail.png" />
+		<POI MapID="1260" xpos="-310.456" ypos="9.16759" zpos="209.032" type="story_journal.season_4.daybreak.amnoon_evacuation" GUID="BX7cN/EQPk6WtUL3mcgjug==" iconFile="Img/Icons/Detail.png" />
+		<POI MapID="1260" xpos="-299.124" ypos="23.7378" zpos="-81.908" type="story_journal.season_4.daybreak.amnoon_evacuation" GUID="szETZaRtj0OjX7Z2NO93tQ==" iconFile="Img/Icons/Detail.png" />
+		<POI MapID="1260" xpos="-296.352" ypos="9.18181" zpos="87.9622" type="story_journal.season_4.daybreak.amnoon_evacuation" GUID="f8JqQKfj5Eqp8vgczfIJ7A==" iconFile="Img/Icons/Detail.png" />
+		<POI MapID="1260" xpos="-290.656" ypos="21.6786" zpos="299.167" type="story_journal.season_4.daybreak.amnoon_evacuation" GUID="JDouWHAitEay17hdZn4tHQ==" iconFile="Img/Icons/Detail.png" />
+		<POI MapID="1260" xpos="-265.648" ypos="22.3694" zpos="-58.6313" type="story_journal.season_4.daybreak.amnoon_evacuation" GUID="jwQIB7M9bkySbXNiX42VVg==" iconFile="Img/Icons/Detail.png" />
+		<POI MapID="1260" xpos="-241.878" ypos="2.96707" zpos="56.0307" type="story_journal.season_4.daybreak.amnoon_evacuation" GUID="D1EWsLQbg0qweQtfAEVtyg==" iconFile="Img/Icons/Detail.png" />
+		<POI MapID="1260" xpos="-233.264" ypos="15.7057" zpos="-41.278" type="story_journal.season_4.daybreak.amnoon_evacuation" GUID="gAgvXmfR2UScuzUKzqEfCA==" iconFile="Img/Icons/Detail.png" />
+		<POI MapID="1260" xpos="-214.502" ypos="2.56225" zpos="76.8318" type="story_journal.season_4.daybreak.amnoon_evacuation" GUID="uFaAnEOMkUi+pTIYWZw/fA==" iconFile="Img/Icons/Detail.png" />
+		<POI MapID="1260" xpos="-193.355" ypos="7.49399" zpos="7.02254" type="story_journal.season_4.daybreak.amnoon_evacuation" GUID="RiUsDx47HUKliGe5MjAmNw==" iconFile="Img/Icons/Detail.png" />
 		<!-- BELLIGERENT BRAWL -->
-		<POI MapID="1263" xpos="-375.194" ypos="3.9687" zpos="784.751" type="story_journal.season_4.daybreak.belligerent_brawl" GUID="YH5aosOcIUy7zw3+d93dmA==" iconFile="Img/Season4/BelligerentBrawl.png" minSize="48" maxSize="64" fadeNear="1000" fadeFar="1000" behavior="0"/>
-		<POI MapID="1263" xpos="-373.511" ypos="2.687"  zpos="784.668" type="story_journal.season_4.daybreak.belligerent_brawl" GUID="HpNGRVIp2Eq2n84nCeqy3A=="/>
-
+		<POI MapID="1263" xpos="-375.194" ypos="3.9687" zpos="784.751" type="story_journal.season_4.daybreak.belligerent_brawl" GUID="YH5aosOcIUy7zw3+d93dmA==" iconFile="Img/Season4/BelligerentBrawl.png" minSize="48" maxSize="64" fadeNear="1000" fadeFar="1000" behavior="0" />
+		<POI MapID="1263" xpos="-373.511" ypos="2.687" zpos="784.668" type="story_journal.season_4.daybreak.belligerent_brawl" GUID="HpNGRVIp2Eq2n84nCeqy3A==" />
 		<!-- BOOKWORM -->
-		<POI MapID="1263" xpos="-807.282" ypos="105.559" zpos="492.866" type="story_journal.season_4.daybreak.bookworm" GUID="APgTr9BSdUaQVP+CO4idqg=="/>
-		<POI MapID="1263" xpos="-726.442" ypos="117.216" zpos="636.691" type="story_journal.season_4.daybreak.bookworm" GUID="2fseb2z+eUexCEKfzrF4Cg=="/>
-		<POI MapID="1263" xpos="-919.8"   ypos="117.228" zpos="650.125" type="story_journal.season_4.daybreak.bookworm" GUID="MEwfmAKS/0eMkPhDNSgEBw=="/>
-		<POI MapID="1263" xpos="-747.922" ypos="105.526" zpos="743.01"  type="story_journal.season_4.daybreak.bookworm" GUID="PpwbxaFLlE2wS+n3LN+/ZA=="/>
-		<POI MapID="1263" xpos="-832.933" ypos="111.361" zpos="503.4"   type="story_journal.season_4.daybreak.bookworm" GUID="wGaIOWkIBkupmVToCEEFeg=="/>
-		<POI MapID="1263" xpos="-818.016" ypos="117.224" zpos="727.75"  type="story_journal.season_4.daybreak.bookworm" GUID="Y3JyYXTWNkuk2ig8sEhVyA=="/>
-		<POI MapID="1263" xpos="-902.067" ypos="117.223" zpos="572.075" type="story_journal.season_4.daybreak.bookworm" GUID="N5eh+IK/PU6bhPRTdvMAxg=="/>
-		<POI MapID="1263" xpos="-805.212" ypos="117.227" zpos="534.006" type="story_journal.season_4.daybreak.bookworm" GUID="efvkMIjqiUaYtieXQ1p2Bg=="/>
-		<POI MapID="1263" xpos="-902.584" ypos="111.33"  zpos="535.382" type="story_journal.season_4.daybreak.bookworm" GUID="gDv8WGPPqU+M5ie+QDj+Tw=="/>
-		<POI MapID="1263" xpos="-801.559" ypos="105.679" zpos="787.172" type="story_journal.season_4.daybreak.bookworm" GUID="n/AeHSxtAkG28yuAIvADFw=="/>
-		<POI MapID="1263" xpos="-704.802" ypos="105.334" zpos="547.111" type="story_journal.season_4.daybreak.bookworm" GUID="ugcq7Gbbr0Of+ObjhRMyJQ=="/>
-		<POI MapID="1263" xpos="-686.045" ypos="105.315" zpos="666.428" type="story_journal.season_4.daybreak.bookworm" GUID="R7hjgSpyjkyPDI7DQknR5A=="/>
-		<POI MapID="1263" xpos="-693.982" ypos="111.361" zpos="622.129" type="story_journal.season_4.daybreak.bookworm" GUID="klDAwUY8O0ipYTcbGrgTmw=="/>
-		<POI MapID="1263" xpos="-802.04"  ypos="164.017" zpos="621.968" type="story_journal.season_4.daybreak.bookworm" GUID="Dlfd4uaH2UmLgyWSLp19pg=="/>
-		<POI MapID="1263" xpos="-940.253" ypos="105.538" zpos="585.325" type="story_journal.season_4.daybreak.bookworm" GUID="X42KdjB9bE+MfusYYMn0Uw=="/>
-		<POI MapID="1263" xpos="-748.673" ypos="117.224" zpos="692.277" type="story_journal.season_4.daybreak.bookworm" GUID="RjRyNnF0iUO3RPnsO3m6/A=="/>
-		<POI MapID="1263" xpos="-752.161" ypos="105.243" zpos="510.256" type="story_journal.season_4.daybreak.bookworm" GUID="0NNy9pbdCkepDA6+uNO0AQ=="/>
-		<POI MapID="1263" xpos="-840.185" ypos="134.512" zpos="620.086" type="story_journal.season_4.daybreak.bookworm" GUID="LsahKo5FuUmAhFoPO9s/5w=="/>
-		<POI MapID="1263" xpos="-835.255" ypos="111.319" zpos="755.339" type="story_journal.season_4.daybreak.bookworm" GUID="ZKRS+JeTAEuW8fu1j0NvPQ=="/>
-		<POI MapID="1263" xpos="-905.922" ypos="111.361" zpos="726.625" type="story_journal.season_4.daybreak.bookworm" GUID="1dDBq8RnckSIHP5AeqDviw=="/>
-
+		<POI MapID="1263" xpos="-807.282" ypos="105.559" zpos="492.866" type="story_journal.season_4.daybreak.bookworm" GUID="APgTr9BSdUaQVP+CO4idqg==" />
+		<POI MapID="1263" xpos="-726.442" ypos="117.216" zpos="636.691" type="story_journal.season_4.daybreak.bookworm" GUID="2fseb2z+eUexCEKfzrF4Cg==" />
+		<POI MapID="1263" xpos="-919.8" ypos="117.228" zpos="650.125" type="story_journal.season_4.daybreak.bookworm" GUID="MEwfmAKS/0eMkPhDNSgEBw==" />
+		<POI MapID="1263" xpos="-747.922" ypos="105.526" zpos="743.01" type="story_journal.season_4.daybreak.bookworm" GUID="PpwbxaFLlE2wS+n3LN+/ZA==" />
+		<POI MapID="1263" xpos="-832.933" ypos="111.361" zpos="503.4" type="story_journal.season_4.daybreak.bookworm" GUID="wGaIOWkIBkupmVToCEEFeg==" />
+		<POI MapID="1263" xpos="-818.016" ypos="117.224" zpos="727.75" type="story_journal.season_4.daybreak.bookworm" GUID="Y3JyYXTWNkuk2ig8sEhVyA==" />
+		<POI MapID="1263" xpos="-902.067" ypos="117.223" zpos="572.075" type="story_journal.season_4.daybreak.bookworm" GUID="N5eh+IK/PU6bhPRTdvMAxg==" />
+		<POI MapID="1263" xpos="-805.212" ypos="117.227" zpos="534.006" type="story_journal.season_4.daybreak.bookworm" GUID="efvkMIjqiUaYtieXQ1p2Bg==" />
+		<POI MapID="1263" xpos="-902.584" ypos="111.33" zpos="535.382" type="story_journal.season_4.daybreak.bookworm" GUID="gDv8WGPPqU+M5ie+QDj+Tw==" />
+		<POI MapID="1263" xpos="-801.559" ypos="105.679" zpos="787.172" type="story_journal.season_4.daybreak.bookworm" GUID="n/AeHSxtAkG28yuAIvADFw==" />
+		<POI MapID="1263" xpos="-704.802" ypos="105.334" zpos="547.111" type="story_journal.season_4.daybreak.bookworm" GUID="ugcq7Gbbr0Of+ObjhRMyJQ==" />
+		<POI MapID="1263" xpos="-686.045" ypos="105.315" zpos="666.428" type="story_journal.season_4.daybreak.bookworm" GUID="R7hjgSpyjkyPDI7DQknR5A==" />
+		<POI MapID="1263" xpos="-693.982" ypos="111.361" zpos="622.129" type="story_journal.season_4.daybreak.bookworm" GUID="klDAwUY8O0ipYTcbGrgTmw==" />
+		<POI MapID="1263" xpos="-802.04" ypos="164.017" zpos="621.968" type="story_journal.season_4.daybreak.bookworm" GUID="Dlfd4uaH2UmLgyWSLp19pg==" />
+		<POI MapID="1263" xpos="-940.253" ypos="105.538" zpos="585.325" type="story_journal.season_4.daybreak.bookworm" GUID="X42KdjB9bE+MfusYYMn0Uw==" />
+		<POI MapID="1263" xpos="-748.673" ypos="117.224" zpos="692.277" type="story_journal.season_4.daybreak.bookworm" GUID="RjRyNnF0iUO3RPnsO3m6/A==" />
+		<POI MapID="1263" xpos="-752.161" ypos="105.243" zpos="510.256" type="story_journal.season_4.daybreak.bookworm" GUID="0NNy9pbdCkepDA6+uNO0AQ==" />
+		<POI MapID="1263" xpos="-840.185" ypos="134.512" zpos="620.086" type="story_journal.season_4.daybreak.bookworm" GUID="LsahKo5FuUmAhFoPO9s/5w==" />
+		<POI MapID="1263" xpos="-835.255" ypos="111.319" zpos="755.339" type="story_journal.season_4.daybreak.bookworm" GUID="ZKRS+JeTAEuW8fu1j0NvPQ==" />
+		<POI MapID="1263" xpos="-905.922" ypos="111.361" zpos="726.625" type="story_journal.season_4.daybreak.bookworm" GUID="1dDBq8RnckSIHP5AeqDviw==" />
 		<!-- BRANDSTONE RESEARCH -->
-		<POI MapID="1263" xpos="-813.711" ypos="134.448" zpos="625.123" type="story_journal.season_4.daybreak.brandstone_research" GUID="AFsZ0z7Q60KQ+GgIj0YZJQ==" heightOffset="2.5"/>
-		<!-- Day 1 --><POI MapID="1263" xpos="-804.027" ypos="134.442" zpos="628.883" type="story_journal.season_4.daybreak.brandstone_research" GUID="nzJABTd9q0+uIG2Vs+ky8g==" iconFile="Img/Season4/BrandstoneResearch1.png" minSize="48" maxSize="64" fadeNear="1000" fadeFar="1500"/>
-		<!-- Day 2 --><POI MapID="1263" xpos="-804.837" ypos="134.442" zpos="624.894" type="story_journal.season_4.daybreak.brandstone_research" GUID="zWbCVEVnl0WW7XrxAI0l7Q==" iconFile="Img/Season4/BrandstoneResearch2.png" minSize="48" maxSize="64" fadeNear="1000" fadeFar="1500"/>
-		<!-- Day 3 --><POI MapID="1263" xpos="-806.362" ypos="134.442" zpos="621.307" type="story_journal.season_4.daybreak.brandstone_research" GUID="KiEdBDlNJ0+w+KEoe3iM/w==" iconFile="Img/Season4/BrandstoneResearch3.png" minSize="48" maxSize="64" fadeNear="1000" fadeFar="1500"/>
-		<!-- Day 4 --><POI MapID="1263" xpos="-808.449" ypos="134.442" zpos="618.223" type="story_journal.season_4.daybreak.brandstone_research" GUID="gxhLAGsEZkioObUszG+wxw==" iconFile="Img/Season4/BrandstoneResearch4.png" minSize="48" maxSize="64" fadeNear="1000" fadeFar="1500"/>
-		<!-- Day 5 --><POI MapID="1263" xpos="-811.105" ypos="134.442" zpos="615.561" type="story_journal.season_4.daybreak.brandstone_research" GUID="E4M7Ou5g20Cg09V0sanpkg==" iconFile="Img/Season4/BrandstoneResearch5.png" minSize="48" maxSize="64" fadeNear="1000" fadeFar="1500"/>
-		<!-- Day 6 --><POI MapID="1263" xpos="-814.451" ypos="134.442" zpos="613.322" type="story_journal.season_4.daybreak.brandstone_research" GUID="8c8BApYfeUuXhwYSp0IEtA==" iconFile="Img/Season4/BrandstoneResearch6.png" minSize="48" maxSize="64" fadeNear="1000" fadeFar="1500"/>
-		<!-- Day 7 --><POI MapID="1263" xpos="-817.905" ypos="134.442" zpos="611.89"  type="story_journal.season_4.daybreak.brandstone_research" GUID="zeOg36NQ8UioaPbIxNPeHQ==" iconFile="Img/Season4/BrandstoneResearch7.png" minSize="48" maxSize="64" fadeNear="1000" fadeFar="1500"/>
-
+		<POI MapID="1263" xpos="-813.711" ypos="134.448" zpos="625.123" type="story_journal.season_4.daybreak.brandstone_research" GUID="AFsZ0z7Q60KQ+GgIj0YZJQ==" heightOffset="2.5" />
+		<!-- Day 1 -->
+		<POI MapID="1263" xpos="-804.027" ypos="134.442" zpos="628.883" type="story_journal.season_4.daybreak.brandstone_research" GUID="nzJABTd9q0+uIG2Vs+ky8g==" iconFile="Img/Season4/BrandstoneResearch1.png" minSize="48" maxSize="64" fadeNear="1000" fadeFar="1500" />
+		<!-- Day 2 -->
+		<POI MapID="1263" xpos="-804.837" ypos="134.442" zpos="624.894" type="story_journal.season_4.daybreak.brandstone_research" GUID="zWbCVEVnl0WW7XrxAI0l7Q==" iconFile="Img/Season4/BrandstoneResearch2.png" minSize="48" maxSize="64" fadeNear="1000" fadeFar="1500" />
+		<!-- Day 3 -->
+		<POI MapID="1263" xpos="-806.362" ypos="134.442" zpos="621.307" type="story_journal.season_4.daybreak.brandstone_research" GUID="KiEdBDlNJ0+w+KEoe3iM/w==" iconFile="Img/Season4/BrandstoneResearch3.png" minSize="48" maxSize="64" fadeNear="1000" fadeFar="1500" />
+		<!-- Day 4 -->
+		<POI MapID="1263" xpos="-808.449" ypos="134.442" zpos="618.223" type="story_journal.season_4.daybreak.brandstone_research" GUID="gxhLAGsEZkioObUszG+wxw==" iconFile="Img/Season4/BrandstoneResearch4.png" minSize="48" maxSize="64" fadeNear="1000" fadeFar="1500" />
+		<!-- Day 5 -->
+		<POI MapID="1263" xpos="-811.105" ypos="134.442" zpos="615.561" type="story_journal.season_4.daybreak.brandstone_research" GUID="E4M7Ou5g20Cg09V0sanpkg==" iconFile="Img/Season4/BrandstoneResearch5.png" minSize="48" maxSize="64" fadeNear="1000" fadeFar="1500" />
+		<!-- Day 6 -->
+		<POI MapID="1263" xpos="-814.451" ypos="134.442" zpos="613.322" type="story_journal.season_4.daybreak.brandstone_research" GUID="8c8BApYfeUuXhwYSp0IEtA==" iconFile="Img/Season4/BrandstoneResearch6.png" minSize="48" maxSize="64" fadeNear="1000" fadeFar="1500" />
+		<!-- Day 7 -->
+		<POI MapID="1263" xpos="-817.905" ypos="134.442" zpos="611.89" type="story_journal.season_4.daybreak.brandstone_research" GUID="zeOg36NQ8UioaPbIxNPeHQ==" iconFile="Img/Season4/BrandstoneResearch7.png" minSize="48" maxSize="64" fadeNear="1000" fadeFar="1500" />
 		<!-- CORSAIR KEEPSAKES -->
-		<POI MapID="1263" xpos="-361.018" ypos="56.8512" zpos="622.085" type="story_journal.season_4.daybreak.corsair_keepsakes" GUID="NMd4C3hRrEeJmIcFeVdYsA=="/>
-		<POI MapID="1263" xpos="-379.257" ypos="60.5861" zpos="748.454" type="story_journal.season_4.daybreak.corsair_keepsakes" GUID="FJHXC0Q/jEqWR1pAxHS0KA=="/>
-		<POI MapID="1263" xpos="-142.51"  ypos="32.7516" zpos="788.669" type="story_journal.season_4.daybreak.corsair_keepsakes" GUID="/Vrr5X6O00eSqqtpNy8jEA=="/>
-		<POI MapID="1263" xpos="-236.467" ypos="-64.521" zpos="787.713" type="story_journal.season_4.daybreak.corsair_keepsakes" GUID="xe5xdoQkbk6rZF7qF0FgDg=="/>
-		<POI MapID="1263" xpos="-143.237" ypos="24.4862" zpos="634.294" type="story_journal.season_4.daybreak.corsair_keepsakes" GUID="qhGB0zfuHk6cjh1Umlx6sg=="/>
-		<POI MapID="1263" xpos="-131.451" ypos="38.5107" zpos="648.856" type="story_journal.season_4.daybreak.corsair_keepsakes" GUID="5YAasMXXxESjL4UMFCUOrA=="/>
-		<POI MapID="1263" xpos="-244.488" ypos="68.6563" zpos="882.066" type="story_journal.season_4.daybreak.corsair_keepsakes" GUID="BTmlobOPL0mEKV/j8uc0FQ=="/>
-		<POI MapID="1263" xpos="-381.65"  ypos="3.49534" zpos="783.76"  type="story_journal.season_4.daybreak.corsair_keepsakes" GUID="LRLd4kNYE0CgtIuJxsk3Tw=="/>
-		<POI MapID="1263" xpos="-209.075" ypos="16.1691" zpos="660.169" type="story_journal.season_4.daybreak.corsair_keepsakes" GUID="y3k2LcdTN0aMUWOt4tgBJA=="/>
-		<POI MapID="1263" xpos="-198.263" ypos="56.8802" zpos="871.492" type="story_journal.season_4.daybreak.corsair_keepsakes" GUID="C9kYXNLC10i22E29Nmey0g=="/>
-
+		<POI MapID="1263" xpos="-361.018" ypos="56.8512" zpos="622.085" type="story_journal.season_4.daybreak.corsair_keepsakes" GUID="NMd4C3hRrEeJmIcFeVdYsA==" />
+		<POI MapID="1263" xpos="-379.257" ypos="60.5861" zpos="748.454" type="story_journal.season_4.daybreak.corsair_keepsakes" GUID="FJHXC0Q/jEqWR1pAxHS0KA==" />
+		<POI MapID="1263" xpos="-142.51" ypos="32.7516" zpos="788.669" type="story_journal.season_4.daybreak.corsair_keepsakes" GUID="/Vrr5X6O00eSqqtpNy8jEA==" />
+		<POI MapID="1263" xpos="-236.467" ypos="-64.521" zpos="787.713" type="story_journal.season_4.daybreak.corsair_keepsakes" GUID="xe5xdoQkbk6rZF7qF0FgDg==" />
+		<POI MapID="1263" xpos="-143.237" ypos="24.4862" zpos="634.294" type="story_journal.season_4.daybreak.corsair_keepsakes" GUID="qhGB0zfuHk6cjh1Umlx6sg==" />
+		<POI MapID="1263" xpos="-131.451" ypos="38.5107" zpos="648.856" type="story_journal.season_4.daybreak.corsair_keepsakes" GUID="5YAasMXXxESjL4UMFCUOrA==" />
+		<POI MapID="1263" xpos="-244.488" ypos="68.6563" zpos="882.066" type="story_journal.season_4.daybreak.corsair_keepsakes" GUID="BTmlobOPL0mEKV/j8uc0FQ==" />
+		<POI MapID="1263" xpos="-381.65" ypos="3.49534" zpos="783.76" type="story_journal.season_4.daybreak.corsair_keepsakes" GUID="LRLd4kNYE0CgtIuJxsk3Tw==" />
+		<POI MapID="1263" xpos="-209.075" ypos="16.1691" zpos="660.169" type="story_journal.season_4.daybreak.corsair_keepsakes" GUID="y3k2LcdTN0aMUWOt4tgBJA==" />
+		<POI MapID="1263" xpos="-198.263" ypos="56.8802" zpos="871.492" type="story_journal.season_4.daybreak.corsair_keepsakes" GUID="C9kYXNLC10i22E29Nmey0g==" />
 		<!-- EARLY RELEASE -->
-		<POI MapID="1263" xpos="-757.226" ypos="36.6211" zpos="-302.076" type="story_journal.season_4.daybreak.early_release" GUID="FJ+ol7teGUiotbiEE5Mh9w=="/>
-		<POI MapID="1263" xpos="-738.527" ypos="28.0347" zpos="-332.977" type="story_journal.season_4.daybreak.early_release" GUID="wBocGuVnr0qh7lbFOn58Uw=="/>
-		<POI MapID="1263" xpos="-701.458" ypos="24.1683" zpos="-274.914" type="story_journal.season_4.daybreak.early_release" GUID="AUjgUNz3QEySBj5NxeeRpA=="/>
-		<POI MapID="1263" xpos="-679.639" ypos="24.2905" zpos="-350.742" type="story_journal.season_4.daybreak.early_release" GUID="nWDDk8iyfU6Gy03k/3kbsw=="/>
-		<POI MapID="1263" xpos="-670.971" ypos="31.9916" zpos="-320.494" type="story_journal.season_4.daybreak.early_release" GUID="fbmA8+Z850yA819yVxSjFg=="/>
-		<POI MapID="1263" xpos="-664.63"  ypos="45.5948" zpos="-316.909" type="story_journal.season_4.daybreak.early_release" GUID="u+hFt+6zqEa7BmCbim469Q=="/>
-		<POI MapID="1263" xpos="-649"     ypos="44.9353" zpos="-295.713" type="story_journal.season_4.daybreak.early_release" GUID="UV6awBm8ukqpjEMCstnvUQ=="/>
-		<POI MapID="1263" xpos="-640.112" ypos="105.766" zpos="-307.476" type="story_journal.season_4.daybreak.early_release" GUID="ykfwzAlhr0GNPQniaZbemQ=="/>
-		<POI MapID="1263" xpos="-637.102" ypos="93.076"  zpos="-305.118" type="story_journal.season_4.daybreak.early_release" GUID="uyHyYxZ610yIsn4GOfZUWA=="/>
-		<POI MapID="1263" xpos="-631.907" ypos="59.6857" zpos="-331.922" type="story_journal.season_4.daybreak.early_release" GUID="1Hm5ALyOyka06vzuKwC5UQ=="/>
-		<POI MapID="1263" xpos="-621.254" ypos="57.9386" zpos="-312.887" type="story_journal.season_4.daybreak.early_release" GUID="34s6k3echkGd+0qmcDfaMg=="/>
-		<POI MapID="1263" xpos="-619.327" ypos="27.6839" zpos="-412.564" type="story_journal.season_4.daybreak.early_release" GUID="g/I5OXUm3Uq6Tcnmu2FDYA=="/>
-		<POI MapID="1263" xpos="-609.255" ypos="26.158"  zpos="-164.584" type="story_journal.season_4.daybreak.early_release" GUID="3/5YBXj9cUeOMUbetyBeRA=="/>
-		<POI MapID="1263" xpos="-608.437" ypos="24.5466" zpos="-242.443" type="story_journal.season_4.daybreak.early_release" GUID="ICLq0TJQ5kWoMivGUclFLQ=="/>
-		<POI MapID="1263" xpos="-587.146" ypos="27.995"  zpos="-295.279" type="story_journal.season_4.daybreak.early_release" GUID="eZXZReuhtEW8nnLw0y/PiA=="/>
-		<POI MapID="1263" xpos="-579.555" ypos="26.8495" zpos="-383.002" type="story_journal.season_4.daybreak.early_release" GUID="YrwzBLx4hUmSyKe0Uy6deA=="/>
-		<POI MapID="1263" xpos="-513.432" ypos="26.4594" zpos="-255.762" type="story_journal.season_4.daybreak.early_release" GUID="NqUYgoP0sUy9PcD1TtP2+w=="/>
-
+		<POI MapID="1263" xpos="-757.226" ypos="36.6211" zpos="-302.076" type="story_journal.season_4.daybreak.early_release" GUID="FJ+ol7teGUiotbiEE5Mh9w==" />
+		<POI MapID="1263" xpos="-738.527" ypos="28.0347" zpos="-332.977" type="story_journal.season_4.daybreak.early_release" GUID="wBocGuVnr0qh7lbFOn58Uw==" />
+		<POI MapID="1263" xpos="-701.458" ypos="24.1683" zpos="-274.914" type="story_journal.season_4.daybreak.early_release" GUID="AUjgUNz3QEySBj5NxeeRpA==" />
+		<POI MapID="1263" xpos="-679.639" ypos="24.2905" zpos="-350.742" type="story_journal.season_4.daybreak.early_release" GUID="nWDDk8iyfU6Gy03k/3kbsw==" />
+		<POI MapID="1263" xpos="-670.971" ypos="31.9916" zpos="-320.494" type="story_journal.season_4.daybreak.early_release" GUID="fbmA8+Z850yA819yVxSjFg==" />
+		<POI MapID="1263" xpos="-664.63" ypos="45.5948" zpos="-316.909" type="story_journal.season_4.daybreak.early_release" GUID="u+hFt+6zqEa7BmCbim469Q==" />
+		<POI MapID="1263" xpos="-649" ypos="44.9353" zpos="-295.713" type="story_journal.season_4.daybreak.early_release" GUID="UV6awBm8ukqpjEMCstnvUQ==" />
+		<POI MapID="1263" xpos="-640.112" ypos="105.766" zpos="-307.476" type="story_journal.season_4.daybreak.early_release" GUID="ykfwzAlhr0GNPQniaZbemQ==" />
+		<POI MapID="1263" xpos="-637.102" ypos="93.076" zpos="-305.118" type="story_journal.season_4.daybreak.early_release" GUID="uyHyYxZ610yIsn4GOfZUWA==" />
+		<POI MapID="1263" xpos="-631.907" ypos="59.6857" zpos="-331.922" type="story_journal.season_4.daybreak.early_release" GUID="1Hm5ALyOyka06vzuKwC5UQ==" />
+		<POI MapID="1263" xpos="-621.254" ypos="57.9386" zpos="-312.887" type="story_journal.season_4.daybreak.early_release" GUID="34s6k3echkGd+0qmcDfaMg==" />
+		<POI MapID="1263" xpos="-619.327" ypos="27.6839" zpos="-412.564" type="story_journal.season_4.daybreak.early_release" GUID="g/I5OXUm3Uq6Tcnmu2FDYA==" />
+		<POI MapID="1263" xpos="-609.255" ypos="26.158" zpos="-164.584" type="story_journal.season_4.daybreak.early_release" GUID="3/5YBXj9cUeOMUbetyBeRA==" />
+		<POI MapID="1263" xpos="-608.437" ypos="24.5466" zpos="-242.443" type="story_journal.season_4.daybreak.early_release" GUID="ICLq0TJQ5kWoMivGUclFLQ==" />
+		<POI MapID="1263" xpos="-587.146" ypos="27.995" zpos="-295.279" type="story_journal.season_4.daybreak.early_release" GUID="eZXZReuhtEW8nnLw0y/PiA==" />
+		<POI MapID="1263" xpos="-579.555" ypos="26.8495" zpos="-383.002" type="story_journal.season_4.daybreak.early_release" GUID="YrwzBLx4hUmSyKe0Uy6deA==" />
+		<POI MapID="1263" xpos="-513.432" ypos="26.4594" zpos="-255.762" type="story_journal.season_4.daybreak.early_release" GUID="NqUYgoP0sUy9PcD1TtP2+w==" />
 		<!-- FAMILY TIES -->
-		<POI MapID="1266" xpos="-654.93" ypos="0"   zpos="-620.14" type="story_journal.season_4.daybreak.family_ties" GUID="ResLu8xSREuZFKO+EhQdMQ==" heightOffset="4"/>
-		<POI MapID="1266" xpos="-654.93" ypos="5.5" zpos="-620.14" type="story_journal.season_4.daybreak.family_ties" GUID="EKFuPhNETESo6o+wo3YGpA==" iconFile="Img/Season4/AtTheEnd.png" minSize="54" maxSize="64" fadeNear="1300" fadeFar="1500"/>
-		<POI MapID="1266" xpos="-654.93" ypos="4"   zpos="-620.14" type="story_journal.season_4.daybreak.family_ties" GUID="GuaWGoc49UGezz/THXNxuA==" iconFile="Img/Choices/2.png"        minSize="32" maxSize="48" fadeNear="1300" fadeFar="1500"/>
-
+		<POI MapID="1266" xpos="-654.93" ypos="0" zpos="-620.14" type="story_journal.season_4.daybreak.family_ties" GUID="ResLu8xSREuZFKO+EhQdMQ==" heightOffset="4" />
+		<POI MapID="1266" xpos="-654.93" ypos="5.5" zpos="-620.14" type="story_journal.season_4.daybreak.family_ties" GUID="EKFuPhNETESo6o+wo3YGpA==" iconFile="Img/Season4/AtTheEnd.png" minSize="54" maxSize="64" fadeNear="1300" fadeFar="1500" />
+		<POI MapID="1266" xpos="-654.93" ypos="4" zpos="-620.14" type="story_journal.season_4.daybreak.family_ties" GUID="GuaWGoc49UGezz/THXNxuA==" iconFile="Img/Choices/2.png" minSize="32" maxSize="48" fadeNear="1300" fadeFar="1500" />
 		<!-- FROM DOWNTOWN! -->
-		<POI MapID="1268" xpos="21.2282"  ypos="44.0103" zpos="-208.926" type="story_journal.season_4.daybreak.from_downtown" GUID="wN5zA9kJekOAARbGDLKIYA==" iconFile="Img/Season4/FromDowntown.png" minSize="48" maxSize="64" fadeNear="1800" fadeFar="2000"/>
-		<POI MapID="1268" xpos="18.9134"  ypos="44.0066" zpos="-312.803" type="story_journal.season_4.daybreak.from_downtown" GUID="AojV3rbhUUOhkMjSQd7jcg==" iconFile="Img/Season4/FromDowntown.png" minSize="48" maxSize="64" fadeNear="1800" fadeFar="2000"/>
-		<POI MapID="1268" xpos="-31.6613" ypos="44.0066" zpos="-334.696" type="story_journal.season_4.daybreak.from_downtown" GUID="tEXNiPXnk0SROTfhGWwokQ==" iconFile="Img/Season4/FromDowntown.png" minSize="48" maxSize="64" fadeNear="1800" fadeFar="2000"/>
-		<POI MapID="1268" xpos="-87.9394" ypos="44.0066" zpos="-313.621" type="story_journal.season_4.daybreak.from_downtown" GUID="Pectt5Wo4kWLNAAYxailZw==" iconFile="Img/Season4/FromDowntown.png" minSize="48" maxSize="64" fadeNear="1800" fadeFar="2000"/>
-		<POI MapID="1268" xpos="-92.4973" ypos="44.0066" zpos="-207.246" type="story_journal.season_4.daybreak.from_downtown" GUID="yL4zgQkxsUuIsCQoFzZwLg==" iconFile="Img/Season4/FromDowntown.png" minSize="48" maxSize="64" fadeNear="1800" fadeFar="2000"/>
-		<POI MapID="1268" xpos="-37.2464" ypos="44.0066" zpos="-182.568" type="story_journal.season_4.daybreak.from_downtown" GUID="8JMjnObb1E6hitiI0y7VsQ==" iconFile="Img/Season4/FromDowntown.png" minSize="48" maxSize="64" fadeNear="1800" fadeFar="2000"/>
-
+		<POI MapID="1268" xpos="21.2282" ypos="44.0103" zpos="-208.926" type="story_journal.season_4.daybreak.from_downtown" GUID="wN5zA9kJekOAARbGDLKIYA==" iconFile="Img/Season4/FromDowntown.png" minSize="48" maxSize="64" fadeNear="1800" fadeFar="2000" />
+		<POI MapID="1268" xpos="18.9134" ypos="44.0066" zpos="-312.803" type="story_journal.season_4.daybreak.from_downtown" GUID="AojV3rbhUUOhkMjSQd7jcg==" iconFile="Img/Season4/FromDowntown.png" minSize="48" maxSize="64" fadeNear="1800" fadeFar="2000" />
+		<POI MapID="1268" xpos="-31.6613" ypos="44.0066" zpos="-334.696" type="story_journal.season_4.daybreak.from_downtown" GUID="tEXNiPXnk0SROTfhGWwokQ==" iconFile="Img/Season4/FromDowntown.png" minSize="48" maxSize="64" fadeNear="1800" fadeFar="2000" />
+		<POI MapID="1268" xpos="-87.9394" ypos="44.0066" zpos="-313.621" type="story_journal.season_4.daybreak.from_downtown" GUID="Pectt5Wo4kWLNAAYxailZw==" iconFile="Img/Season4/FromDowntown.png" minSize="48" maxSize="64" fadeNear="1800" fadeFar="2000" />
+		<POI MapID="1268" xpos="-92.4973" ypos="44.0066" zpos="-207.246" type="story_journal.season_4.daybreak.from_downtown" GUID="yL4zgQkxsUuIsCQoFzZwLg==" iconFile="Img/Season4/FromDowntown.png" minSize="48" maxSize="64" fadeNear="1800" fadeFar="2000" />
+		<POI MapID="1268" xpos="-37.2464" ypos="44.0066" zpos="-182.568" type="story_journal.season_4.daybreak.from_downtown" GUID="8JMjnObb1E6hitiI0y7VsQ==" iconFile="Img/Season4/FromDowntown.png" minSize="48" maxSize="64" fadeNear="1800" fadeFar="2000" />
 		<!-- GONE SWIMMING -->
-		<POI MapID="1268" xpos="197.717" ypos="93.961"   zpos="105.289" type="story_journal.season_4.daybreak.gone_swimming" GUID="kPKyLyJzikWOOvjNztxARw=="/>
-		<POI MapID="1268" xpos="199.655" ypos="-1.15147" zpos="81.1484" type="story_journal.season_4.daybreak.gone_swimming" GUID="EkVR4PsABUyqY6VcHt4xeA==" iconFile="Img/Icons/Target.png" maxSize="24" fadeNear="5000" fadeFar="5000"/>
-
+		<POI MapID="1268" xpos="197.717" ypos="93.961" zpos="105.289" type="story_journal.season_4.daybreak.gone_swimming" GUID="kPKyLyJzikWOOvjNztxARw==" />
+		<POI MapID="1268" xpos="199.655" ypos="-1.15147" zpos="81.1484" type="story_journal.season_4.daybreak.gone_swimming" GUID="EkVR4PsABUyqY6VcHt4xeA==" iconFile="Img/Icons/Target.png" maxSize="24" fadeNear="5000" fadeFar="5000" />
 		<!-- ISTAN DIVES -->
-		<POI MapID="1263" xpos="-644.971" ypos="113.776" zpos="-295.038" type="story_journal.season_4.daybreak.istan_dives" GUID="0nYp6yjFgkWg0WWK4cv6Tg=="/>
-		<POI MapID="1263" xpos="-650.818" ypos="23.235"  zpos="-275.277" type="story_journal.season_4.daybreak.istan_dives" GUID="TexqqSzU9EKWRzJjk+fWZQ==" iconFile="Img/Icons/Target.png" maxSize="24" fadeNear="5000" fadeFar="5000"/>
-		<POI MapID="1263" xpos="-286.564" ypos="45.3086" zpos="899.667"  type="story_journal.season_4.daybreak.istan_dives" GUID="iOqfI5mJqUCHO4qWtv5hDw=="/>
-		<POI MapID="1263" xpos="49.7696"  ypos="97.6751" zpos="-385.462" type="story_journal.season_4.daybreak.istan_dives" GUID="2P/zYHXI10GrdOYW9Hizdw=="/>
-		<POI MapID="1263" xpos="112.471"  ypos="105.858" zpos="618.967"  type="story_journal.season_4.daybreak.istan_dives" GUID="WI2deeMVf0a66ChGs4HhhA=="/>
-
+		<POI MapID="1263" xpos="-644.971" ypos="113.776" zpos="-295.038" type="story_journal.season_4.daybreak.istan_dives" GUID="0nYp6yjFgkWg0WWK4cv6Tg==" />
+		<POI MapID="1263" xpos="-650.818" ypos="23.235" zpos="-275.277" type="story_journal.season_4.daybreak.istan_dives" GUID="TexqqSzU9EKWRzJjk+fWZQ==" iconFile="Img/Icons/Target.png" maxSize="24" fadeNear="5000" fadeFar="5000" />
+		<POI MapID="1263" xpos="-286.564" ypos="45.3086" zpos="899.667" type="story_journal.season_4.daybreak.istan_dives" GUID="iOqfI5mJqUCHO4qWtv5hDw==" />
+		<POI MapID="1263" xpos="49.7696" ypos="97.6751" zpos="-385.462" type="story_journal.season_4.daybreak.istan_dives" GUID="2P/zYHXI10GrdOYW9Hizdw==" />
+		<POI MapID="1263" xpos="112.471" ypos="105.858" zpos="618.967" type="story_journal.season_4.daybreak.istan_dives" GUID="WI2deeMVf0a66ChGs4HhhA==" />
 		<!-- ISTAN INSIGHT: COLOSSUS OF PALAWADAN -->
-		<POI MapID="1263" xpos="425.983" ypos="124.426" zpos="-304.778" type="story_journal.season_4.daybreak.istan_insight__colossus_of_palawadan" GUID="XZH7FSLcREa7IdOjIOlkXw=="/>
-
+		<POI MapID="1263" xpos="425.983" ypos="124.426" zpos="-304.778" type="story_journal.season_4.daybreak.istan_insight__colossus_of_palawadan" GUID="XZH7FSLcREa7IdOjIOlkXw==" />
 		<!-- ISTAN INSIGHT: PILLAR OF THE FAITHLESS -->
-		<POI MapID="1263" xpos="-638.739" ypos="143.592" zpos="-314.051" type="story_journal.season_4.daybreak.istan_insight__pillar_of_the_faithless" GUID="8y2263IPWEiAVOPo9bbFIw=="/>
-
+		<POI MapID="1263" xpos="-638.739" ypos="143.592" zpos="-314.051" type="story_journal.season_4.daybreak.istan_insight__pillar_of_the_faithless" GUID="8y2263IPWEiAVOPo9bbFIw==" />
 		<!-- ISTAN INSIGHT: THE WOBBLING SKIES -->
-		<POI MapID="1263" xpos="-392.004" ypos="59.6747" zpos="698.59" type="story_journal.season_4.daybreak.istan_insight__the_wobbling_skies" GUID="NlY+H8/mc0OHW/GL/m3oDw=="/>
-
+		<POI MapID="1263" xpos="-392.004" ypos="59.6747" zpos="698.59" type="story_journal.season_4.daybreak.istan_insight__the_wobbling_skies" GUID="NlY+H8/mc0OHW/GL/m3oDw==" />
 		<!-- LIBRARY DETECTIVE -->
-		<POI MapID="1263" xpos="-497.035" ypos="84.2942"   zpos="-482.045" type="story_journal.season_4.daybreak.library_detective" GUID="motxPLmQ/EOlK6VMQvtNnA=="/>
-		<POI MapID="1263" xpos="-336.161" ypos="38.7303"   zpos="154.588"  type="story_journal.season_4.daybreak.library_detective" GUID="tjwua0CQ50WwiWzShexwOA=="/>
-		<POI MapID="1263" xpos="-174.064" ypos="-64.9788"  zpos="758.549"  type="story_journal.season_4.daybreak.library_detective" GUID="Q5WKCRB/BUa7ok9s4mjiqg=="/>
-		<POI MapID="1263" xpos="-167.361" ypos="63.6569"   zpos="357.457"  type="story_journal.season_4.daybreak.library_detective" GUID="PJaH/Fb4rUqvrS2gjKXBzw=="/>
-		<POI MapID="1263" xpos="269.162"  ypos="22.8365"   zpos="-53.2329" type="story_journal.season_4.daybreak.library_detective" GUID="LRJQWin+ck6DgVjIYYrd6g=="/>
-		<POI MapID="1265" xpos="-162.13"  ypos="33.6509"   zpos="320.026"  type="story_journal.season_4.daybreak.library_detective" GUID="nkfBjMW8okyQjkBEg6JIKg=="/>
-		<POI MapID="1266" xpos="-658.782" ypos="0.0606028" zpos="-618.105" type="story_journal.season_4.daybreak.library_detective" GUID="wPXAPXvZ8kiuPx9+Q/o3cw=="/>
-
+		<POI MapID="1263" xpos="-497.035" ypos="84.2942" zpos="-482.045" type="story_journal.season_4.daybreak.library_detective" GUID="motxPLmQ/EOlK6VMQvtNnA==" />
+		<POI MapID="1263" xpos="-336.161" ypos="38.7303" zpos="154.588" type="story_journal.season_4.daybreak.library_detective" GUID="tjwua0CQ50WwiWzShexwOA==" />
+		<POI MapID="1263" xpos="-174.064" ypos="-64.9788" zpos="758.549" type="story_journal.season_4.daybreak.library_detective" GUID="Q5WKCRB/BUa7ok9s4mjiqg==" />
+		<POI MapID="1263" xpos="-167.361" ypos="63.6569" zpos="357.457" type="story_journal.season_4.daybreak.library_detective" GUID="PJaH/Fb4rUqvrS2gjKXBzw==" />
+		<POI MapID="1263" xpos="269.162" ypos="22.8365" zpos="-53.2329" type="story_journal.season_4.daybreak.library_detective" GUID="LRJQWin+ck6DgVjIYYrd6g==" />
+		<POI MapID="1265" xpos="-162.13" ypos="33.6509" zpos="320.026" type="story_journal.season_4.daybreak.library_detective" GUID="nkfBjMW8okyQjkBEg6JIKg==" />
+		<POI MapID="1266" xpos="-658.782" ypos="0.0606028" zpos="-618.105" type="story_journal.season_4.daybreak.library_detective" GUID="wPXAPXvZ8kiuPx9+Q/o3cw==" />
 		<!-- LIGHTSPEED REFLECTOR -->
-		<POI MapID="1263" xpos="-886.936" ypos="148.044" zpos="634.959" type="story_journal.season_4.daybreak.lightspeed_reflector" GUID="FzoqModki0iruYLDVHUkZg==" iconFile="Img/Season4/LightspeedReflector.png" minSize="48" maxSize="64" fadeNear="2000" fadeFar="2500" behavior="0"/>
-		<POI MapID="1263" xpos="-885.513" ypos="148.414" zpos="631.457" type="story_journal.season_4.daybreak.lightspeed_reflector" GUID="wTcPP2DGHkanFr8s6eCn/w=="/>
-		<POI MapID="1263" xpos="-867.001" ypos="148.419" zpos="587.23"  type="story_journal.season_4.daybreak.lightspeed_reflector" GUID="wd8nO/DsJkuD4E0qUXiPxA=="/>
-		<POI MapID="1263" xpos="-822.736" ypos="148.423" zpos="569.2"   type="story_journal.season_4.daybreak.lightspeed_reflector" GUID="fglyoGgNEkKZr2naL4zmaw=="/>
-		<POI MapID="1263" xpos="-779.189" ypos="148.416" zpos="587.494" type="story_journal.season_4.daybreak.lightspeed_reflector" GUID="i2DejN/ibk2ff8+67sWsOg=="/>
-		<POI MapID="1263" xpos="-761.15"  ypos="148.411" zpos="631.086" type="story_journal.season_4.daybreak.lightspeed_reflector" GUID="yi8fUtUSuUGYsTJ4FWdRNQ=="/>
-		<POI MapID="1263" xpos="-778.758" ypos="148.422" zpos="675.469" type="story_journal.season_4.daybreak.lightspeed_reflector" GUID="i3DvoWuVtkCoLjUMvCoYJg=="/>
-		<POI MapID="1263" xpos="-823.492" ypos="148.429" zpos="694.007" type="story_journal.season_4.daybreak.lightspeed_reflector" GUID="M0j8bl71mE2wPIhNPT2s4w=="/>
-		<POI MapID="1263" xpos="-867.362" ypos="148.414" zpos="675.374" type="story_journal.season_4.daybreak.lightspeed_reflector" GUID="obBXsiiIkkGYx9quUrB6QA=="/>
-
+		<POI MapID="1263" xpos="-886.936" ypos="148.044" zpos="634.959" type="story_journal.season_4.daybreak.lightspeed_reflector" GUID="FzoqModki0iruYLDVHUkZg==" iconFile="Img/Season4/LightspeedReflector.png" minSize="48" maxSize="64" fadeNear="2000" fadeFar="2500" behavior="0" />
+		<POI MapID="1263" xpos="-885.513" ypos="148.414" zpos="631.457" type="story_journal.season_4.daybreak.lightspeed_reflector" GUID="wTcPP2DGHkanFr8s6eCn/w==" />
+		<POI MapID="1263" xpos="-867.001" ypos="148.419" zpos="587.23" type="story_journal.season_4.daybreak.lightspeed_reflector" GUID="wd8nO/DsJkuD4E0qUXiPxA==" />
+		<POI MapID="1263" xpos="-822.736" ypos="148.423" zpos="569.2" type="story_journal.season_4.daybreak.lightspeed_reflector" GUID="fglyoGgNEkKZr2naL4zmaw==" />
+		<POI MapID="1263" xpos="-779.189" ypos="148.416" zpos="587.494" type="story_journal.season_4.daybreak.lightspeed_reflector" GUID="i2DejN/ibk2ff8+67sWsOg==" />
+		<POI MapID="1263" xpos="-761.15" ypos="148.411" zpos="631.086" type="story_journal.season_4.daybreak.lightspeed_reflector" GUID="yi8fUtUSuUGYsTJ4FWdRNQ==" />
+		<POI MapID="1263" xpos="-778.758" ypos="148.422" zpos="675.469" type="story_journal.season_4.daybreak.lightspeed_reflector" GUID="i3DvoWuVtkCoLjUMvCoYJg==" />
+		<POI MapID="1263" xpos="-823.492" ypos="148.429" zpos="694.007" type="story_journal.season_4.daybreak.lightspeed_reflector" GUID="M0j8bl71mE2wPIhNPT2s4w==" />
+		<POI MapID="1263" xpos="-867.362" ypos="148.414" zpos="675.374" type="story_journal.season_4.daybreak.lightspeed_reflector" GUID="obBXsiiIkkGYx9quUrB6QA==" />
 		<!-- LOST TO TIME -->
-		<POI MapID="1263" xpos="-884.612" ypos="75.7893" zpos="91.4431"  type="story_journal.season_4.daybreak.lost_to_time" GUID="w7aqjXdtHU+VUfaS6cRg7A=="/>
-		<POI MapID="1263" xpos="-830.901" ypos="64.7927" zpos="-348.327" type="story_journal.season_4.daybreak.lost_to_time" GUID="V0O6h/8RB0m5O/9280WhiA=="/>
-		<POI MapID="1263" xpos="-808.554" ypos="97.4841" zpos="-26.1967" type="story_journal.season_4.daybreak.lost_to_time" GUID="lNVxHu8jOkWGTU9phExw+Q=="/>
-		<POI MapID="1263" xpos="-774.254" ypos="91.2711" zpos="169.688"  type="story_journal.season_4.daybreak.lost_to_time" GUID="UQl8KXwRk02d1LHLlOSY1g=="/>
-		<POI MapID="1263" xpos="-684.279" ypos="82.6591" zpos="-461.942" type="story_journal.season_4.daybreak.lost_to_time" GUID="SlYufVT9XkCKmVEehYyZHw=="/>
-		<POI MapID="1263" xpos="-638.697" ypos="114.804" zpos="-321.076" type="story_journal.season_4.daybreak.lost_to_time" GUID="W2jR9+Mrr0Sn7vjwLvG6wQ=="/>
-		<POI MapID="1263" xpos="-603.732" ypos="51.1617" zpos="-38.9351" type="story_journal.season_4.daybreak.lost_to_time" GUID="QT0FHOl6UESt4uXIwxyZzw=="/>
-		<POI MapID="1263" xpos="-561.586" ypos="1.60773" zpos="-687.234" type="story_journal.season_4.daybreak.lost_to_time" GUID="gUHhiF9yQEalpIyo09Oj+Q=="/>
-		<POI MapID="1263" xpos="-555.697" ypos="2.91516" zpos="425.895"  type="story_journal.season_4.daybreak.lost_to_time" GUID="0zRvqWtu4kqcdVrUrnsZcw=="/>
-		<POI MapID="1263" xpos="-533.112" ypos="38.4595" zpos="224.042"  type="story_journal.season_4.daybreak.lost_to_time" GUID="H5MoyNaAA0y5dnDVYX9xBA=="/>
-		<POI MapID="1263" xpos="-520.881" ypos="88.866"  zpos="-162.464" type="story_journal.season_4.daybreak.lost_to_time" GUID="BmV2dFf+sk2WWg2lpImQow=="/>
-		<POI MapID="1263" xpos="-514.325" ypos="140.184" zpos="-413.475" type="story_journal.season_4.daybreak.lost_to_time" GUID="2/2JqoH2l02+o9TsG6p1kQ=="/>
-		<POI MapID="1263" xpos="-457.593" ypos="73.173"  zpos="-75.3706" type="story_journal.season_4.daybreak.lost_to_time" GUID="wRDmgTP+sUacHSjqzAl1XA=="/>
-		<POI MapID="1263" xpos="-451.739" ypos="64.0798" zpos="-369.273" type="story_journal.season_4.daybreak.lost_to_time" GUID="Gd+eIa12s0apfdm6qLnKWA=="/>
-		<POI MapID="1263" xpos="-366.632" ypos="84.3554" zpos="-436.929" type="story_journal.season_4.daybreak.lost_to_time" GUID="hcF6WMWhe0yNInOyx8CPBQ=="/>
-		<POI MapID="1263" xpos="-320.883" ypos="25.7174" zpos="-53.7197" type="story_journal.season_4.daybreak.lost_to_time" GUID="tXuOdjQVqUGkUmxJg0I/DA=="/>
-		<POI MapID="1263" xpos="-261.333" ypos="8.17077" zpos="530.374"  type="story_journal.season_4.daybreak.lost_to_time" GUID="mhK+Mr35GUqXaZwnSQuhCA=="/>
-		<POI MapID="1263" xpos="-180.424" ypos="157.66"  zpos="294.783"  type="story_journal.season_4.daybreak.lost_to_time" GUID="xEE168nnfkusdO6Izz/Sjw=="/>
-		<POI MapID="1263" xpos="-108.978" ypos="155.612" zpos="-238.298" type="story_journal.season_4.daybreak.lost_to_time" GUID="0PobGMkXx0ml/R57p3HJWw=="/>
-		<POI MapID="1263" xpos="-145.589" ypos="111.024" zpos="38.4254"  type="story_journal.season_4.daybreak.lost_to_time" GUID="yOzJyuwRH0uFszFblMPE7Q=="/>
-		<POI MapID="1263" xpos="-126.821" ypos="264.681" zpos="-32.1752" type="story_journal.season_4.daybreak.lost_to_time" GUID="Ok3yuBeDE02/gTXATqhfhw=="/>
-		<POI MapID="1263" xpos="-34.1763" ypos="207.873" zpos="-105.139" type="story_journal.season_4.daybreak.lost_to_time" GUID="HgzKIA4MxEqhqCTkf8ECqw=="/>
-		<POI MapID="1263" xpos="-24.9357" ypos="177.408" zpos="-179.509" type="story_journal.season_4.daybreak.lost_to_time" GUID="9+gIP97Dk0qM6oL+NMQ4FQ=="/>
-		<POI MapID="1263" xpos="71.3656"  ypos="3.62063" zpos="-370.659" type="story_journal.season_4.daybreak.lost_to_time" GUID="afo6xb0xFkS/IRf8wgutGg=="/>
-		<POI MapID="1263" xpos="101.995"  ypos="5.67824" zpos="726.47"   type="story_journal.season_4.daybreak.lost_to_time" GUID="Wn0ZbHJxiUepWyBd8AlC4A=="/>
-		<POI MapID="1263" xpos="102.36"   ypos="46.0076" zpos="-554.148" type="story_journal.season_4.daybreak.lost_to_time" GUID="le+IcJ5aQ06q72FspogH2Q=="/>
-		<POI MapID="1263" xpos="131.96"   ypos="90.8318" zpos="683.575"  type="story_journal.season_4.daybreak.lost_to_time" GUID="ZqVw3uefIUGqb8X1sSYMCw=="/>
-		<POI MapID="1263" xpos="172.615"  ypos="46.2991" zpos="259.295"  type="story_journal.season_4.daybreak.lost_to_time" GUID="zimQDHgx302fmPgtGReUOw=="/>
-		<POI MapID="1263" xpos="179.295"  ypos="112.118" zpos="566.284"  type="story_journal.season_4.daybreak.lost_to_time" GUID="d+lSbvemMki8KqGKL5TpdA=="/>
-		<POI MapID="1263" xpos="183.657"  ypos="211.908" zpos="467.044"  type="story_journal.season_4.daybreak.lost_to_time" GUID="I5XTtrVo4E22UIobs20JIg=="/>
-		<POI MapID="1263" xpos="215.526"  ypos="239.265" zpos="-477.922" type="story_journal.season_4.daybreak.lost_to_time" GUID="uOj5ihzMBkqjl85+JeQ/Sg=="/>
-		<POI MapID="1263" xpos="282.133"  ypos="86.7995" zpos="582.83"   type="story_journal.season_4.daybreak.lost_to_time" GUID="SNRyZ3talUmIvmfuljFBZQ=="/>
-		<POI MapID="1263" xpos="307.982"  ypos="197.705" zpos="-520.355" type="story_journal.season_4.daybreak.lost_to_time" GUID="8IiZEAy/NkGsWIDgaiB0uw=="/>
-		<POI MapID="1263" xpos="315.502"  ypos="118.195" zpos="-461.894" type="story_journal.season_4.daybreak.lost_to_time" GUID="bUZe5X3mjk26APnKiq5OcA=="/>
-		<POI MapID="1263" xpos="476.119"  ypos="86.2174" zpos="-626.295" type="story_journal.season_4.daybreak.lost_to_time" GUID="PKh8Q/jgZkGeRy2idxWwVw=="/>
-
+		<POI MapID="1263" xpos="-884.612" ypos="75.7893" zpos="91.4431" type="story_journal.season_4.daybreak.lost_to_time" GUID="w7aqjXdtHU+VUfaS6cRg7A==" />
+		<POI MapID="1263" xpos="-830.901" ypos="64.7927" zpos="-348.327" type="story_journal.season_4.daybreak.lost_to_time" GUID="V0O6h/8RB0m5O/9280WhiA==" />
+		<POI MapID="1263" xpos="-808.554" ypos="97.4841" zpos="-26.1967" type="story_journal.season_4.daybreak.lost_to_time" GUID="lNVxHu8jOkWGTU9phExw+Q==" />
+		<POI MapID="1263" xpos="-774.254" ypos="91.2711" zpos="169.688" type="story_journal.season_4.daybreak.lost_to_time" GUID="UQl8KXwRk02d1LHLlOSY1g==" />
+		<POI MapID="1263" xpos="-684.279" ypos="82.6591" zpos="-461.942" type="story_journal.season_4.daybreak.lost_to_time" GUID="SlYufVT9XkCKmVEehYyZHw==" />
+		<POI MapID="1263" xpos="-638.697" ypos="114.804" zpos="-321.076" type="story_journal.season_4.daybreak.lost_to_time" GUID="W2jR9+Mrr0Sn7vjwLvG6wQ==" />
+		<POI MapID="1263" xpos="-603.732" ypos="51.1617" zpos="-38.9351" type="story_journal.season_4.daybreak.lost_to_time" GUID="QT0FHOl6UESt4uXIwxyZzw==" />
+		<POI MapID="1263" xpos="-561.586" ypos="1.60773" zpos="-687.234" type="story_journal.season_4.daybreak.lost_to_time" GUID="gUHhiF9yQEalpIyo09Oj+Q==" />
+		<POI MapID="1263" xpos="-555.697" ypos="2.91516" zpos="425.895" type="story_journal.season_4.daybreak.lost_to_time" GUID="0zRvqWtu4kqcdVrUrnsZcw==" />
+		<POI MapID="1263" xpos="-533.112" ypos="38.4595" zpos="224.042" type="story_journal.season_4.daybreak.lost_to_time" GUID="H5MoyNaAA0y5dnDVYX9xBA==" />
+		<POI MapID="1263" xpos="-520.881" ypos="88.866" zpos="-162.464" type="story_journal.season_4.daybreak.lost_to_time" GUID="BmV2dFf+sk2WWg2lpImQow==" />
+		<POI MapID="1263" xpos="-514.325" ypos="140.184" zpos="-413.475" type="story_journal.season_4.daybreak.lost_to_time" GUID="2/2JqoH2l02+o9TsG6p1kQ==" />
+		<POI MapID="1263" xpos="-457.593" ypos="73.173" zpos="-75.3706" type="story_journal.season_4.daybreak.lost_to_time" GUID="wRDmgTP+sUacHSjqzAl1XA==" />
+		<POI MapID="1263" xpos="-451.739" ypos="64.0798" zpos="-369.273" type="story_journal.season_4.daybreak.lost_to_time" GUID="Gd+eIa12s0apfdm6qLnKWA==" />
+		<POI MapID="1263" xpos="-366.632" ypos="84.3554" zpos="-436.929" type="story_journal.season_4.daybreak.lost_to_time" GUID="hcF6WMWhe0yNInOyx8CPBQ==" />
+		<POI MapID="1263" xpos="-320.883" ypos="25.7174" zpos="-53.7197" type="story_journal.season_4.daybreak.lost_to_time" GUID="tXuOdjQVqUGkUmxJg0I/DA==" />
+		<POI MapID="1263" xpos="-261.333" ypos="8.17077" zpos="530.374" type="story_journal.season_4.daybreak.lost_to_time" GUID="mhK+Mr35GUqXaZwnSQuhCA==" />
+		<POI MapID="1263" xpos="-180.424" ypos="157.66" zpos="294.783" type="story_journal.season_4.daybreak.lost_to_time" GUID="xEE168nnfkusdO6Izz/Sjw==" />
+		<POI MapID="1263" xpos="-108.978" ypos="155.612" zpos="-238.298" type="story_journal.season_4.daybreak.lost_to_time" GUID="0PobGMkXx0ml/R57p3HJWw==" />
+		<POI MapID="1263" xpos="-145.589" ypos="111.024" zpos="38.4254" type="story_journal.season_4.daybreak.lost_to_time" GUID="yOzJyuwRH0uFszFblMPE7Q==" />
+		<POI MapID="1263" xpos="-126.821" ypos="264.681" zpos="-32.1752" type="story_journal.season_4.daybreak.lost_to_time" GUID="Ok3yuBeDE02/gTXATqhfhw==" />
+		<POI MapID="1263" xpos="-34.1763" ypos="207.873" zpos="-105.139" type="story_journal.season_4.daybreak.lost_to_time" GUID="HgzKIA4MxEqhqCTkf8ECqw==" />
+		<POI MapID="1263" xpos="-24.9357" ypos="177.408" zpos="-179.509" type="story_journal.season_4.daybreak.lost_to_time" GUID="9+gIP97Dk0qM6oL+NMQ4FQ==" />
+		<POI MapID="1263" xpos="71.3656" ypos="3.62063" zpos="-370.659" type="story_journal.season_4.daybreak.lost_to_time" GUID="afo6xb0xFkS/IRf8wgutGg==" />
+		<POI MapID="1263" xpos="101.995" ypos="5.67824" zpos="726.47" type="story_journal.season_4.daybreak.lost_to_time" GUID="Wn0ZbHJxiUepWyBd8AlC4A==" />
+		<POI MapID="1263" xpos="102.36" ypos="46.0076" zpos="-554.148" type="story_journal.season_4.daybreak.lost_to_time" GUID="le+IcJ5aQ06q72FspogH2Q==" />
+		<POI MapID="1263" xpos="131.96" ypos="90.8318" zpos="683.575" type="story_journal.season_4.daybreak.lost_to_time" GUID="ZqVw3uefIUGqb8X1sSYMCw==" />
+		<POI MapID="1263" xpos="172.615" ypos="46.2991" zpos="259.295" type="story_journal.season_4.daybreak.lost_to_time" GUID="zimQDHgx302fmPgtGReUOw==" />
+		<POI MapID="1263" xpos="179.295" ypos="112.118" zpos="566.284" type="story_journal.season_4.daybreak.lost_to_time" GUID="d+lSbvemMki8KqGKL5TpdA==" />
+		<POI MapID="1263" xpos="183.657" ypos="211.908" zpos="467.044" type="story_journal.season_4.daybreak.lost_to_time" GUID="I5XTtrVo4E22UIobs20JIg==" />
+		<POI MapID="1263" xpos="215.526" ypos="239.265" zpos="-477.922" type="story_journal.season_4.daybreak.lost_to_time" GUID="uOj5ihzMBkqjl85+JeQ/Sg==" />
+		<POI MapID="1263" xpos="282.133" ypos="86.7995" zpos="582.83" type="story_journal.season_4.daybreak.lost_to_time" GUID="SNRyZ3talUmIvmfuljFBZQ==" />
+		<POI MapID="1263" xpos="307.982" ypos="197.705" zpos="-520.355" type="story_journal.season_4.daybreak.lost_to_time" GUID="8IiZEAy/NkGsWIDgaiB0uw==" />
+		<POI MapID="1263" xpos="315.502" ypos="118.195" zpos="-461.894" type="story_journal.season_4.daybreak.lost_to_time" GUID="bUZe5X3mjk26APnKiq5OcA==" />
+		<POI MapID="1263" xpos="476.119" ypos="86.2174" zpos="-626.295" type="story_journal.season_4.daybreak.lost_to_time" GUID="PKh8Q/jgZkGeRy2idxWwVw==" />
 		<!-- MUTINY! -->
-		<POI MapID="1263" xpos="-198.263" ypos="0.765925" zpos="782.201" type="story_journal.season_4.daybreak.mutiny" GUID="0WjIRLBCy0y4y2d/LjE31A=="/>
-		<POI MapID="1263" xpos="-169.893" ypos="9.6033"   zpos="709.332" type="story_journal.season_4.daybreak.mutiny" GUID="Lik0F9Au8kGI95FPrtdrhg=="/>
-		<POI MapID="1263" xpos="-372.734" ypos="48.4804"  zpos="733.842" type="story_journal.season_4.daybreak.mutiny" GUID="oPl00/d2MUKsSxXRVfKevw=="/>
-
+		<POI MapID="1263" xpos="-198.263" ypos="0.765925" zpos="782.201" type="story_journal.season_4.daybreak.mutiny" GUID="0WjIRLBCy0y4y2d/LjE31A==" />
+		<POI MapID="1263" xpos="-169.893" ypos="9.6033" zpos="709.332" type="story_journal.season_4.daybreak.mutiny" GUID="Lik0F9Au8kGI95FPrtdrhg==" />
+		<POI MapID="1263" xpos="-372.734" ypos="48.4804" zpos="733.842" type="story_journal.season_4.daybreak.mutiny" GUID="oPl00/d2MUKsSxXRVfKevw==" />
 		<!-- NOT THIRSTY -->
-		<POI MapID="1263" xpos="-174.338" ypos="71.8353" zpos="289.834" type="story_journal.season_4.daybreak.not_thirsty" GUID="qe3fgl90D0ufBgw7R9iHdA=="/>
-		<POI MapID="1263" xpos="-119.958" ypos="69.3935" zpos="294.028" type="story_journal.season_4.daybreak.not_thirsty" GUID="UvOWCfb/90Gs0s46GJsGmw=="/>
-		<POI MapID="1263" xpos="-83.5187" ypos="71.9906" zpos="290.426" type="story_journal.season_4.daybreak.not_thirsty" GUID="0eV4D/yHz06ukwm6RuMWaw=="/>
-		<POI MapID="1263" xpos="-137.948" ypos="69.5408" zpos="276.637" type="story_journal.season_4.daybreak.not_thirsty" GUID="ZA3Hrkd2e0qk6QiIfDtSYA=="/>
-		<POI MapID="1263" xpos="-120.238" ypos="69.449"  zpos="276.772" type="story_journal.season_4.daybreak.not_thirsty" GUID="sbHLnnfC+0i7Li8eAffYFQ=="/>
-		<POI MapID="1263" xpos="-131.399" ypos="69.4526" zpos="266.818" type="story_journal.season_4.daybreak.not_thirsty" GUID="AsCjfhKrgEyDvqdu3sJZbw=="/>
-		<POI MapID="1263" xpos="-125.828" ypos="69.6036" zpos="266.374" type="story_journal.season_4.daybreak.not_thirsty" GUID="zbR4T66wI0SxyLbqXy2UUA=="/>
-		<POI MapID="1263" xpos="-138.087" ypos="69.3695" zpos="293.813" type="story_journal.season_4.daybreak.not_thirsty" GUID="ZBa1TqoV50GgKhKpYfICyQ=="/>
-
+		<POI MapID="1263" xpos="-174.338" ypos="71.8353" zpos="289.834" type="story_journal.season_4.daybreak.not_thirsty" GUID="qe3fgl90D0ufBgw7R9iHdA==" />
+		<POI MapID="1263" xpos="-119.958" ypos="69.3935" zpos="294.028" type="story_journal.season_4.daybreak.not_thirsty" GUID="UvOWCfb/90Gs0s46GJsGmw==" />
+		<POI MapID="1263" xpos="-83.5187" ypos="71.9906" zpos="290.426" type="story_journal.season_4.daybreak.not_thirsty" GUID="0eV4D/yHz06ukwm6RuMWaw==" />
+		<POI MapID="1263" xpos="-137.948" ypos="69.5408" zpos="276.637" type="story_journal.season_4.daybreak.not_thirsty" GUID="ZA3Hrkd2e0qk6QiIfDtSYA==" />
+		<POI MapID="1263" xpos="-120.238" ypos="69.449" zpos="276.772" type="story_journal.season_4.daybreak.not_thirsty" GUID="sbHLnnfC+0i7Li8eAffYFQ==" />
+		<POI MapID="1263" xpos="-131.399" ypos="69.4526" zpos="266.818" type="story_journal.season_4.daybreak.not_thirsty" GUID="AsCjfhKrgEyDvqdu3sJZbw==" />
+		<POI MapID="1263" xpos="-125.828" ypos="69.6036" zpos="266.374" type="story_journal.season_4.daybreak.not_thirsty" GUID="zbR4T66wI0SxyLbqXy2UUA==" />
+		<POI MapID="1263" xpos="-138.087" ypos="69.3695" zpos="293.813" type="story_journal.season_4.daybreak.not_thirsty" GUID="ZBa1TqoV50GgKhKpYfICyQ==" />
 		<!-- QAIS CLOSED -->
-		<POI MapID="1260" xpos="-232.139" ypos="0.845924" zpos="148.606" type="story_journal.season_4.daybreak.qais_closed" GUID="awp0GKU4pU6PiSn2I7yhNg==" heightOffset="3"/>
-		<POI MapID="1260" xpos="-232.139" ypos="3.845924" zpos="148.606" type="story_journal.season_4.daybreak.qais_closed" GUID="aQtv0l7zeUaMxKof/gDSwA==" iconFile="Img/Season4/AtTheEnd.png" minSize="48" maxSize="64" fadeNear="1500" fadeFar="2500"/>
-
+		<POI MapID="1260" xpos="-232.139" ypos="0.845924" zpos="148.606" type="story_journal.season_4.daybreak.qais_closed" GUID="awp0GKU4pU6PiSn2I7yhNg==" heightOffset="3" />
+		<POI MapID="1260" xpos="-232.139" ypos="3.845924" zpos="148.606" type="story_journal.season_4.daybreak.qais_closed" GUID="aQtv0l7zeUaMxKof/gDSwA==" iconFile="Img/Season4/AtTheEnd.png" minSize="48" maxSize="64" fadeNear="1500" fadeFar="2500" />
 		<!-- RACE TO THE FINISH: DOMAIN OF ISTAN -->
-		<Trail type="story_journal.season_4.daybreak.race_to_the_finish_domain_of_istan" GUID="NupkROepjkGFn4hxZISIkA==" trailData="Data/StoryJournal/Season4/Daybreak/RaceToTheFinishDomainOfIstan.trl" texture="Data/Arrow.png" color="ffffdd00" alpha="0.7" fadeNear="3000" fadeFar="4000" animSpeed="0"/>
-		<POI MapID="1263" xpos="-405.596" ypos="0.3"     zpos="819.43"   type="story_journal.season_4.daybreak.race_to_the_finish_domain_of_istan" GUID="5zV3s0HJOUm2UTfdX9yOeg=="/>
-		<POI MapID="1263" xpos="-407.649" ypos="0.3"     zpos="819.62"   type="story_journal.season_4.daybreak.race_to_the_finish_domain_of_istan" GUID="FLLJYPLZo0yYcxDOkxuK8Q==" iconFile="Img/Season4/WaitStartEvent.png" minSize="48" maxSize="64" fadeNear="2000" fadeFar="2500" heightOffset="1"/>
-		<POI MapID="1263" xpos="-224.031" ypos="1.37578" zpos="-641.696" type="story_journal.season_4.daybreak.race_to_the_finish_domain_of_istan" GUID="42LxhRce00ujJza2gQ3e6A==" iconFile="Img/Icons/FlagFinal.png"        fadeNear="2000" fadeFar="2500"/>
-
+		<Trail type="story_journal.season_4.daybreak.race_to_the_finish_domain_of_istan" GUID="NupkROepjkGFn4hxZISIkA==" trailData="Data/StoryJournal/Season4/Daybreak/RaceToTheFinishDomainOfIstan.trl" texture="Data/Arrow.png" color="ffffdd00" alpha="0.7" fadeNear="3000" fadeFar="4000" animSpeed="0" />
+		<POI MapID="1263" xpos="-405.596" ypos="0.3" zpos="819.43" type="story_journal.season_4.daybreak.race_to_the_finish_domain_of_istan" GUID="5zV3s0HJOUm2UTfdX9yOeg==" />
+		<POI MapID="1263" xpos="-407.649" ypos="0.3" zpos="819.62" type="story_journal.season_4.daybreak.race_to_the_finish_domain_of_istan" GUID="FLLJYPLZo0yYcxDOkxuK8Q==" iconFile="Img/Season4/WaitStartEvent.png" minSize="48" maxSize="64" fadeNear="2000" fadeFar="2500" heightOffset="1" />
+		<POI MapID="1263" xpos="-224.031" ypos="1.37578" zpos="-641.696" type="story_journal.season_4.daybreak.race_to_the_finish_domain_of_istan" GUID="42LxhRce00ujJza2gQ3e6A==" iconFile="Img/Icons/FlagFinal.png" fadeNear="2000" fadeFar="2500" />
 		<!-- RAZE JOKO! -->
-		<POI MapID="1263" xpos="89.3684" ypos="36.0529" zpos="-78.3523" type="story_journal.season_4.daybreak.raze_joko" GUID="woNZrgc4kUOjwzpfRK4fXw=="/>
-
+		<POI MapID="1263" xpos="89.3684" ypos="36.0529" zpos="-78.3523" type="story_journal.season_4.daybreak.raze_joko" GUID="woNZrgc4kUOjwzpfRK4fXw==" />
 		<!-- STOP RIGHT THERE -->
-		<POI MapID="1265" xpos="-95.9553" ypos="25.7334" zpos="312.255" type="story_journal.season_4.daybreak.stop_right_there" GUID="K79Ky2DmD0qHBmTDqouLBA==" iconFile="Img/Season4/StopRightThere.png" minSize="48" maxSize="64" fadeNear="1000" fadeFar="2000" behavior="0"/>
-
+		<POI MapID="1265" xpos="-95.9553" ypos="25.7334" zpos="312.255" type="story_journal.season_4.daybreak.stop_right_there" GUID="K79Ky2DmD0qHBmTDqouLBA==" iconFile="Img/Season4/StopRightThere.png" minSize="48" maxSize="64" fadeNear="1000" fadeFar="2000" behavior="0" />
 		<!-- SUNK COST -->
-		<POI MapID="1263" xpos="708.557" ypos="18.0914" zpos="-124.891" type="story_journal.season_4.daybreak.sunk_cost" GUID="sFcvKNiJ3EasNSjfWqDwlw=="/>
-		<POI MapID="1263" xpos="704.452" ypos="39.002"  zpos="-200.287" type="story_journal.season_4.daybreak.sunk_cost" GUID="XDRSSNf0WECu4Kcr/eEV6w=="/>
-		<POI MapID="1263" xpos="691.757" ypos="25.0401" zpos="-261.775" type="story_journal.season_4.daybreak.sunk_cost" GUID="GQbAkmOiskSA1hD/VslmPA=="/>
-		<POI MapID="1263" xpos="696.657" ypos="25.0401" zpos="-271.277" type="story_journal.season_4.daybreak.sunk_cost" GUID="XmwTBTeDSEepDHrxOheQ+Q=="/>
-		<POI MapID="1263" xpos="691.884" ypos="25.0401" zpos="-281.028" type="story_journal.season_4.daybreak.sunk_cost" GUID="fgPsC7a+XEep5IsAl+H9XQ=="/>
-		<POI MapID="1263" xpos="690.478" ypos="30.4668" zpos="-271.467" type="story_journal.season_4.daybreak.sunk_cost" GUID="VrHrfSPuIEKrPEGjf1Ba3Q=="/>
-		<POI MapID="1263" xpos="709.389" ypos="29.2891" zpos="-213.791" type="story_journal.season_4.daybreak.sunk_cost" GUID="f9d/3iClQ0m7uFLN1e3cZA=="/>
-		<POI MapID="1263" xpos="716.823" ypos="29.2891" zpos="-200.331" type="story_journal.season_4.daybreak.sunk_cost" GUID="Ds8AkEGoIEOgixIgtblpxQ=="/>
-		<POI MapID="1263" xpos="709.908" ypos="29.2891" zpos="-187.189" type="story_journal.season_4.daybreak.sunk_cost" GUID="vI9/WGzBRk6JPJZl+5rB+Q=="/>
-		<POI MapID="1263" xpos="676.329" ypos="21.616"  zpos="-142.667" type="story_journal.season_4.daybreak.sunk_cost" GUID="uC5nY83zwEy8ITl+kORB4Q=="/>
-		<POI MapID="1263" xpos="677.806" ypos="28.8906" zpos="-124.294" type="story_journal.season_4.daybreak.sunk_cost" GUID="80LPT8j9FkivnFQKewiiBw=="/>
-		<POI MapID="1263" xpos="667.586" ypos="36.216"  zpos="-132.247" type="story_journal.season_4.daybreak.sunk_cost" GUID="m1WrkcssvEqelefNgLEoTQ=="/>
-		<POI MapID="1263" xpos="697.546" ypos="32.165"  zpos="-87.5003" type="story_journal.season_4.daybreak.sunk_cost" GUID="L385o8VcM0eDdQ5UBZh+ZA=="/>
-		<POI MapID="1263" xpos="674.249" ypos="29.4678" zpos="-46.067"  type="story_journal.season_4.daybreak.sunk_cost" GUID="rttCj9W8m0mvb0qkt6KGxQ=="/>
-		<POI MapID="1263" xpos="691.986" ypos="18.4897" zpos="-48.1437" type="story_journal.season_4.daybreak.sunk_cost" GUID="zg1KM66qJkC02FmjzX9Edg=="/>
-		<POI MapID="1263" xpos="708.97"  ypos="18.0927" zpos="-64.5639" type="story_journal.season_4.daybreak.sunk_cost" GUID="ii2M17N+WEWZ3EOAXOgV1g=="/>
-		<POI MapID="1263" xpos="670.447" ypos="14.813"  zpos="-2.67725" type="story_journal.season_4.daybreak.sunk_cost" GUID="KzCVeSDK7EuF8a9q84EZ0w=="/>
-		<POI MapID="1263" xpos="670.35"  ypos="14.813"  zpos="-12.5605" type="story_journal.season_4.daybreak.sunk_cost" GUID="1yugYZ0HeUeBXygYlskdHA=="/>
-		<POI MapID="1263" xpos="676.684" ypos="36.9907" zpos="86.2413"  type="story_journal.season_4.daybreak.sunk_cost" GUID="iIQES6GNbE6MNJqvWmKQGA=="/>
-		<POI MapID="1263" xpos="692.328" ypos="31.0978" zpos="50.0786"  type="story_journal.season_4.daybreak.sunk_cost" GUID="sbGJdJR9Wk2/eNRiC6+vlA=="/>
-		<POI MapID="1263" xpos="679.502" ypos="28.012"  zpos="30.7201"  type="story_journal.season_4.daybreak.sunk_cost" GUID="So71Er0MrEmWaEUenD2Nbg=="/>
-		<POI MapID="1263" xpos="717.642" ypos="31.7964" zpos="86.6616"  type="story_journal.season_4.daybreak.sunk_cost" GUID="20PxcuNrk0mE7Yr7k5Ia+A=="/>
-		<POI MapID="1263" xpos="672.332" ypos="30.8165" zpos="8.70143"  type="story_journal.season_4.daybreak.sunk_cost" GUID="YWom6/LrlkeTGb0Kqm1qRQ=="/>
-		<POI MapID="1263" xpos="668.395" ypos="24.5142" zpos="-23.6534" type="story_journal.season_4.daybreak.sunk_cost" GUID="IaqUNqPyfEq6n/gZi6jEJg=="/>
-		<POI MapID="1263" xpos="657.453" ypos="32.1445" zpos="-10.5327" type="story_journal.season_4.daybreak.sunk_cost" GUID="W521eERq5UqSXwbXrKgGxQ=="/>
-
+		<POI MapID="1263" xpos="708.557" ypos="18.0914" zpos="-124.891" type="story_journal.season_4.daybreak.sunk_cost" GUID="sFcvKNiJ3EasNSjfWqDwlw==" />
+		<POI MapID="1263" xpos="704.452" ypos="39.002" zpos="-200.287" type="story_journal.season_4.daybreak.sunk_cost" GUID="XDRSSNf0WECu4Kcr/eEV6w==" />
+		<POI MapID="1263" xpos="691.757" ypos="25.0401" zpos="-261.775" type="story_journal.season_4.daybreak.sunk_cost" GUID="GQbAkmOiskSA1hD/VslmPA==" />
+		<POI MapID="1263" xpos="696.657" ypos="25.0401" zpos="-271.277" type="story_journal.season_4.daybreak.sunk_cost" GUID="XmwTBTeDSEepDHrxOheQ+Q==" />
+		<POI MapID="1263" xpos="691.884" ypos="25.0401" zpos="-281.028" type="story_journal.season_4.daybreak.sunk_cost" GUID="fgPsC7a+XEep5IsAl+H9XQ==" />
+		<POI MapID="1263" xpos="690.478" ypos="30.4668" zpos="-271.467" type="story_journal.season_4.daybreak.sunk_cost" GUID="VrHrfSPuIEKrPEGjf1Ba3Q==" />
+		<POI MapID="1263" xpos="709.389" ypos="29.2891" zpos="-213.791" type="story_journal.season_4.daybreak.sunk_cost" GUID="f9d/3iClQ0m7uFLN1e3cZA==" />
+		<POI MapID="1263" xpos="716.823" ypos="29.2891" zpos="-200.331" type="story_journal.season_4.daybreak.sunk_cost" GUID="Ds8AkEGoIEOgixIgtblpxQ==" />
+		<POI MapID="1263" xpos="709.908" ypos="29.2891" zpos="-187.189" type="story_journal.season_4.daybreak.sunk_cost" GUID="vI9/WGzBRk6JPJZl+5rB+Q==" />
+		<POI MapID="1263" xpos="676.329" ypos="21.616" zpos="-142.667" type="story_journal.season_4.daybreak.sunk_cost" GUID="uC5nY83zwEy8ITl+kORB4Q==" />
+		<POI MapID="1263" xpos="677.806" ypos="28.8906" zpos="-124.294" type="story_journal.season_4.daybreak.sunk_cost" GUID="80LPT8j9FkivnFQKewiiBw==" />
+		<POI MapID="1263" xpos="667.586" ypos="36.216" zpos="-132.247" type="story_journal.season_4.daybreak.sunk_cost" GUID="m1WrkcssvEqelefNgLEoTQ==" />
+		<POI MapID="1263" xpos="697.546" ypos="32.165" zpos="-87.5003" type="story_journal.season_4.daybreak.sunk_cost" GUID="L385o8VcM0eDdQ5UBZh+ZA==" />
+		<POI MapID="1263" xpos="674.249" ypos="29.4678" zpos="-46.067" type="story_journal.season_4.daybreak.sunk_cost" GUID="rttCj9W8m0mvb0qkt6KGxQ==" />
+		<POI MapID="1263" xpos="691.986" ypos="18.4897" zpos="-48.1437" type="story_journal.season_4.daybreak.sunk_cost" GUID="zg1KM66qJkC02FmjzX9Edg==" />
+		<POI MapID="1263" xpos="708.97" ypos="18.0927" zpos="-64.5639" type="story_journal.season_4.daybreak.sunk_cost" GUID="ii2M17N+WEWZ3EOAXOgV1g==" />
+		<POI MapID="1263" xpos="670.447" ypos="14.813" zpos="-2.67725" type="story_journal.season_4.daybreak.sunk_cost" GUID="KzCVeSDK7EuF8a9q84EZ0w==" />
+		<POI MapID="1263" xpos="670.35" ypos="14.813" zpos="-12.5605" type="story_journal.season_4.daybreak.sunk_cost" GUID="1yugYZ0HeUeBXygYlskdHA==" />
+		<POI MapID="1263" xpos="676.684" ypos="36.9907" zpos="86.2413" type="story_journal.season_4.daybreak.sunk_cost" GUID="iIQES6GNbE6MNJqvWmKQGA==" />
+		<POI MapID="1263" xpos="692.328" ypos="31.0978" zpos="50.0786" type="story_journal.season_4.daybreak.sunk_cost" GUID="sbGJdJR9Wk2/eNRiC6+vlA==" />
+		<POI MapID="1263" xpos="679.502" ypos="28.012" zpos="30.7201" type="story_journal.season_4.daybreak.sunk_cost" GUID="So71Er0MrEmWaEUenD2Nbg==" />
+		<POI MapID="1263" xpos="717.642" ypos="31.7964" zpos="86.6616" type="story_journal.season_4.daybreak.sunk_cost" GUID="20PxcuNrk0mE7Yr7k5Ia+A==" />
+		<POI MapID="1263" xpos="672.332" ypos="30.8165" zpos="8.70143" type="story_journal.season_4.daybreak.sunk_cost" GUID="YWom6/LrlkeTGb0Kqm1qRQ==" />
+		<POI MapID="1263" xpos="668.395" ypos="24.5142" zpos="-23.6534" type="story_journal.season_4.daybreak.sunk_cost" GUID="IaqUNqPyfEq6n/gZi6jEJg==" />
+		<POI MapID="1263" xpos="657.453" ypos="32.1445" zpos="-10.5327" type="story_journal.season_4.daybreak.sunk_cost" GUID="W521eERq5UqSXwbXrKgGxQ==" />
 		<!-- THAT BELONGS IN A MUSEUM -->
-		<POI MapID="1268" xpos="-371.472" ypos="89.742"  zpos="279.688"  type="story_journal.season_4.daybreak.that_belongs_in_a_museum" GUID="fYr+w4mRxEKmmYvY1AF/WQ=="/>
-		<POI MapID="1268" xpos="-331.397" ypos="77.273"  zpos="115.073"  type="story_journal.season_4.daybreak.that_belongs_in_a_museum" GUID="f4Jb4iSMxUeJ7o48nN8ULQ=="/>
-		<POI MapID="1268" xpos="-297.614" ypos="59.6417" zpos="-155.162" type="story_journal.season_4.daybreak.that_belongs_in_a_museum" GUID="/a8zSCTR3UekWnIktSDJRg=="/>
-		<POI MapID="1268" xpos="-161.228" ypos="87.7474" zpos="46.628"   type="story_journal.season_4.daybreak.that_belongs_in_a_museum" GUID="TZ1PHLBT2EaabeieBc0eYw=="/>
-		<POI MapID="1268" xpos="-4.21783" ypos="23.6653" zpos="-245.473" type="story_journal.season_4.daybreak.that_belongs_in_a_museum" GUID="0Bnz45CRtE2T7HKmYlprlw=="/>
-		<POI MapID="1268" xpos="43.8485"  ypos="2.93782" zpos="52.773"   type="story_journal.season_4.daybreak.that_belongs_in_a_museum" GUID="ZYIh4zXa3k2/7ZqZxfbboQ=="/>
-		<POI MapID="1268" xpos="243.093"  ypos="121.053" zpos="148.694"  type="story_journal.season_4.daybreak.that_belongs_in_a_museum" GUID="CxKEqhcRB0yh94e7KgwgSw=="/>
-
+		<POI MapID="1268" xpos="-371.472" ypos="89.742" zpos="279.688" type="story_journal.season_4.daybreak.that_belongs_in_a_museum" GUID="fYr+w4mRxEKmmYvY1AF/WQ==" />
+		<POI MapID="1268" xpos="-331.397" ypos="77.273" zpos="115.073" type="story_journal.season_4.daybreak.that_belongs_in_a_museum" GUID="f4Jb4iSMxUeJ7o48nN8ULQ==" />
+		<POI MapID="1268" xpos="-297.614" ypos="59.6417" zpos="-155.162" type="story_journal.season_4.daybreak.that_belongs_in_a_museum" GUID="/a8zSCTR3UekWnIktSDJRg==" />
+		<POI MapID="1268" xpos="-161.228" ypos="87.7474" zpos="46.628" type="story_journal.season_4.daybreak.that_belongs_in_a_museum" GUID="TZ1PHLBT2EaabeieBc0eYw==" />
+		<POI MapID="1268" xpos="-4.21783" ypos="23.6653" zpos="-245.473" type="story_journal.season_4.daybreak.that_belongs_in_a_museum" GUID="0Bnz45CRtE2T7HKmYlprlw==" />
+		<POI MapID="1268" xpos="43.8485" ypos="2.93782" zpos="52.773" type="story_journal.season_4.daybreak.that_belongs_in_a_museum" GUID="ZYIh4zXa3k2/7ZqZxfbboQ==" />
+		<POI MapID="1268" xpos="243.093" ypos="121.053" zpos="148.694" type="story_journal.season_4.daybreak.that_belongs_in_a_museum" GUID="CxKEqhcRB0yh94e7KgwgSw==" />
 		<!-- THEREBY HANGS A TALE -->
-		<POI MapID="1265" xpos="-119.45" ypos="21.5252" zpos="364.372" type="story_journal.season_4.daybreak.thereby_hangs_a_tale" GUID="s6j9+5bHd0y0ra7X9xRXrA==" heightOffset="0"/>
-
+		<POI MapID="1265" xpos="-119.45" ypos="21.5252" zpos="364.372" type="story_journal.season_4.daybreak.thereby_hangs_a_tale" GUID="s6j9+5bHd0y0ra7X9xRXrA==" heightOffset="0" />
 		<!-- YOU LEFT THIS -->
-		<POI MapID="1268" xpos="-165.675" ypos="94.2546" zpos="237.819"  type="story_journal.season_4.daybreak.you_left_this" GUID="nG4f3FMezkiVu39vBTHEGA==" heightOffset="0"/>
-		<POI MapID="1268" xpos="-64.4926" ypos="43.5438" zpos="-257.634" type="story_journal.season_4.daybreak.you_left_this" GUID="esNAc/Gn/UGF1307ok1fAw==" iconFile="Img/Season4/YouLeftThis.png" minSize="48" maxSize="48" fadeNear="2000" fadeFar="2500" behavior="0"/>
-
+		<POI MapID="1268" xpos="-165.675" ypos="94.2546" zpos="237.819" type="story_journal.season_4.daybreak.you_left_this" GUID="nG4f3FMezkiVu39vBTHEGA==" heightOffset="0" />
+		<POI MapID="1268" xpos="-64.4926" ypos="43.5438" zpos="-257.634" type="story_journal.season_4.daybreak.you_left_this" GUID="esNAc/Gn/UGF1307ok1fAw==" iconFile="Img/Season4/YouLeftThis.png" minSize="48" maxSize="48" fadeNear="2000" fadeFar="2500" behavior="0" />
 	</POIs>
 </OverlayData>

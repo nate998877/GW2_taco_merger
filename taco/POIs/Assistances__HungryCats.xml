@@ -1,45 +1,43 @@
 <!-- 2019.12.25 -->
 <OverlayData>
 	<POIs>
-
 		<!-- HUNGRY CATS -->
-		<POI MapID="15"   xpos="952.556"  ypos="23.1187"  zpos="573.135"  type="assistances.hungry_cats.15.1"   GUID="WBfP89DMQEiDgHeTBmMXxg=="/>
-		<POI MapID="15"   xpos="-415.507" ypos="60.8959"  zpos="526.808"  type="assistances.hungry_cats.15.2"   GUID="o3oCGDNBPkKupkiBrGWUGw=="/>
-		<POI MapID="15"   xpos="-404.525" ypos="54.4234"  zpos="481.31"   type="assistances.hungry_cats.15.3"   GUID="6EjT5akNbUyH4ddhMXH1CA=="/>
-		<POI MapID="18"   xpos="-47.8144" ypos="82.5877"  zpos="-178.98"  type="assistances.hungry_cats.18"     GUID="+SxtFVHfaE+DP2KLDQxokQ=="/>
-		<POI MapID="19"   xpos="-1036.75" ypos="50.6597"  zpos="214.643"  type="assistances.hungry_cats.19.1"   GUID="/UNKKx4M50OTFfivjcGo6g=="/>
-		<POI MapID="19"   xpos="-1119.11" ypos="51.6341"  zpos="230.243"  type="assistances.hungry_cats.19.2"   GUID="WFl4CEjVxUKAMLJS15Oqyw=="/>
-		<POI MapID="21"   xpos="-581.86"  ypos="60.5604"  zpos="-433.862" type="assistances.hungry_cats.21"     GUID="Z9ec5Ly5cEqryICI8vO6Bg=="/>
-		<POI MapID="28"   xpos="-172.074" ypos="94.3429"  zpos="-605.654" type="assistances.hungry_cats.28"     GUID="pmoNzDTgYUKD+Y+F3AIvNA=="/>
-		<POI MapID="34"   xpos="-170.581" ypos="4.64722"  zpos="-999.538" type="assistances.hungry_cats.34.1"   GUID="Q3UtC1vuqEKaOQfB1BtCyg=="/>
-		<POI MapID="34"   xpos="-205.719" ypos="0.949558" zpos="-984.245" type="assistances.hungry_cats.34.2"   GUID="zD4dmZ0c3kaDVB+ovv6L5w=="/>
-		<POI MapID="35"   xpos="-519.828" ypos="54.3914"  zpos="-738.171" type="assistances.hungry_cats.35"     GUID="fPrYJZx0oUuCYNdHU3r9XQ=="/>
-		<POI MapID="50"   xpos="-216.569" ypos="17.1125"  zpos="277.853"  type="assistances.hungry_cats.50.1"   GUID="J7zWT1utUk6w5bZ1RCllrw=="/>
-		<POI MapID="50"   xpos="387.683"  ypos="29.6109"  zpos="343.501"  type="assistances.hungry_cats.50.2"   GUID="pQ9D9eTAEEeDKpoSJjr5Wg=="/>
-		<POI MapID="91"   xpos="75.445"   ypos="0.424797" zpos="-13.0022" type="assistances.hungry_cats.91.1"   GUID="rSZwmL5ObUO7ahLxpEuyBA=="/>
-		<POI MapID="91"   xpos="-61.2171" ypos="0.707689" zpos="-42.266"  type="assistances.hungry_cats.91.2"   GUID="LVTmZRlb006jlXvMo23Kew=="/>
-		<POI MapID="91"   xpos="54.0475"  ypos="1.98081"  zpos="50.5951"  type="assistances.hungry_cats.91.3"   GUID="FuOsSP503kW4cZZ2a2GC8g=="/>
-		<POI MapID="139"  xpos="-14.7599" ypos="315.615"  zpos="218.498"  type="assistances.hungry_cats.139"    GUID="LrRVZG3xdUOromkwPKl1+g=="/>
-		<POI MapID="218"  xpos="186.83"   ypos="167.336"  zpos="-14.5471" type="assistances.hungry_cats.218"    GUID="7bABxVkwFE+zmKMAbpfFBQ=="/>
-		<POI MapID="326"  xpos="105.212"  ypos="236.642"  zpos="163.747"  type="assistances.hungry_cats.326"    GUID="o5gE3veMsEa4EN+edpGQKQ=="/>
-		<POI MapID="350"  xpos="-49.8953" ypos="60.7308"  zpos="-52.7377" type="assistances.hungry_cats.350"    GUID="qDVETn21lkelzKNY0Q+IPQ=="/>
-		<Trail type="assistances.hungry_cats.934" GUID="E8Vrhb4LIE21hZKvT3eMRg==" trailData="Data/Assistances/HungryCatPagoda.trl" texture="Data/Arrow.png" color="ff00ff00" alpha="0.8" fadeNear="600" fadeFar="1000" animSpeed="0"/>
-		<POI MapID="934"  xpos="455.38"   ypos="289.07"   zpos="-91.35"   type="assistances.hungry_cats.934"    GUID="MN76PARZ+k6u9L+B1JktfA==" heightOffset="0.5"/>
-		<POI MapID="934"  xpos="456.957"  ypos="316.808"  zpos="-111.658" type="assistances.hungry_cats.934"    GUID="QA+pJ2vz5k+TOSTfVomVbg==" fadeNear="2400" fadeFar="2600"/>
-		<POI MapID="988"  xpos="416.153"  ypos="24.1469"  zpos="-506.692" type="assistances.hungry_cats.988.1"  GUID="yrMdAap1Qku+S9weB94f6w=="/>
-		<POI MapID="988"  xpos="239.551"  ypos="13.5615"  zpos="-335.425" type="assistances.hungry_cats.988.2"  GUID="dxO02X3I3k+KS8UiWjAkMg=="/>
-		<POI MapID="1015" xpos="547.872"  ypos="414.797"  zpos="-152.541" type="assistances.hungry_cats.1015.1" GUID="Of04XGYKjUCmAJtH09SHCw=="/>
-		<POI MapID="1015" xpos="-415.16"  ypos="446.572"  zpos="-75.6061" type="assistances.hungry_cats.1015.2" GUID="nl3X9ZDr9Eyr3RJbBTq62Q=="/>
-		<POI MapID="1099" xpos="-879.217" ypos="7.96734"  zpos="444.122"  type="assistances.hungry_cats.1099"   GUID="I8td1DdXOEisZsN0PYjRag=="/>
-		<POI MapID="1175" xpos="-584.714" ypos="5.52341"  zpos="-496.274" type="assistances.hungry_cats.1175.1" GUID="O7B0PhbRSUe6aMAjFL4bAw=="/>
-		<POI MapID="1175" xpos="476.272"  ypos="3.30363"  zpos="-452.534" type="assistances.hungry_cats.1175.2" GUID="9h/1cF9/lUizeGLEYL/kQw=="/>
-		<POI MapID="1178" xpos="787.916"  ypos="85.4628"  zpos="385.137"  type="assistances.hungry_cats.1178"   GUID="Mq5SYeHRc0WZrEOM2lqqRA=="/>
-		<POI MapID="1185" xpos="11.7291"  ypos="63.1928"  zpos="492.754"  type="assistances.hungry_cats.1185"   GUID="90jWlv+B9U20X3j38OOewQ=="/>
-		<POI MapID="1191" xpos="157.634"  ypos="40.0751"  zpos="51.1946"  type="assistances.hungry_cats.1191"   GUID="C+n4/V6+PUKvLcF8JyNbSQ=="/>
-		<Trail type="assistances.hungry_cats.1205" GUID="5Y6wFxUWfU2fr/AukjgIpw==" trailData="Data/Assistances/HungryCatFractal.trl" texture="Data/Arrow.png" color="ff00ff00" alpha="0.8" fadeNear="600" fadeFar="1000" animSpeed="0"/>
-		<POI MapID="1205" xpos="273.921"  ypos="9.02744"  zpos="233.811"  type="assistances.hungry_cats.1205"   GUID="TjJOS//paUKWMU08ZOdyJw==" iconFile="Img/Icons/Interaction.png" minSize="12" maxSize="16" heightOffset="0.5"/>
-		<POI MapID="1205" xpos="273.176"  ypos="7.83599"  zpos="239.562"  type="assistances.hungry_cats.1205"   GUID="+Zm4aUXg6E28H9XyL8ub2w=="/>
-		<POI MapID="1205" xpos="395.484"  ypos="126.462"  zpos="437.315"  type="assistances.hungry_cats.1205"   GUID="wJoulFRrXEuoxCVdz/Y4WA==" fadeNear="2400" fadeFar="2600"/>
-
+		<POI MapID="15" xpos="952.556" ypos="23.1187" zpos="573.135" type="assistances.hungry_cats.15.1" GUID="WBfP89DMQEiDgHeTBmMXxg==" />
+		<POI MapID="15" xpos="-415.507" ypos="60.8959" zpos="526.808" type="assistances.hungry_cats.15.2" GUID="o3oCGDNBPkKupkiBrGWUGw==" />
+		<POI MapID="15" xpos="-404.525" ypos="54.4234" zpos="481.31" type="assistances.hungry_cats.15.3" GUID="6EjT5akNbUyH4ddhMXH1CA==" />
+		<POI MapID="18" xpos="-47.8144" ypos="82.5877" zpos="-178.98" type="assistances.hungry_cats.18" GUID="+SxtFVHfaE+DP2KLDQxokQ==" />
+		<POI MapID="19" xpos="-1036.75" ypos="50.6597" zpos="214.643" type="assistances.hungry_cats.19.1" GUID="/UNKKx4M50OTFfivjcGo6g==" />
+		<POI MapID="19" xpos="-1119.11" ypos="51.6341" zpos="230.243" type="assistances.hungry_cats.19.2" GUID="WFl4CEjVxUKAMLJS15Oqyw==" />
+		<POI MapID="21" xpos="-581.86" ypos="60.5604" zpos="-433.862" type="assistances.hungry_cats.21" GUID="Z9ec5Ly5cEqryICI8vO6Bg==" />
+		<POI MapID="28" xpos="-172.074" ypos="94.3429" zpos="-605.654" type="assistances.hungry_cats.28" GUID="pmoNzDTgYUKD+Y+F3AIvNA==" />
+		<POI MapID="34" xpos="-170.581" ypos="4.64722" zpos="-999.538" type="assistances.hungry_cats.34.1" GUID="Q3UtC1vuqEKaOQfB1BtCyg==" />
+		<POI MapID="34" xpos="-205.719" ypos="0.949558" zpos="-984.245" type="assistances.hungry_cats.34.2" GUID="zD4dmZ0c3kaDVB+ovv6L5w==" />
+		<POI MapID="35" xpos="-519.828" ypos="54.3914" zpos="-738.171" type="assistances.hungry_cats.35" GUID="fPrYJZx0oUuCYNdHU3r9XQ==" />
+		<POI MapID="50" xpos="-216.569" ypos="17.1125" zpos="277.853" type="assistances.hungry_cats.50.1" GUID="J7zWT1utUk6w5bZ1RCllrw==" />
+		<POI MapID="50" xpos="387.683" ypos="29.6109" zpos="343.501" type="assistances.hungry_cats.50.2" GUID="pQ9D9eTAEEeDKpoSJjr5Wg==" />
+		<POI MapID="91" xpos="75.445" ypos="0.424797" zpos="-13.0022" type="assistances.hungry_cats.91.1" GUID="rSZwmL5ObUO7ahLxpEuyBA==" />
+		<POI MapID="91" xpos="-61.2171" ypos="0.707689" zpos="-42.266" type="assistances.hungry_cats.91.2" GUID="LVTmZRlb006jlXvMo23Kew==" />
+		<POI MapID="91" xpos="54.0475" ypos="1.98081" zpos="50.5951" type="assistances.hungry_cats.91.3" GUID="FuOsSP503kW4cZZ2a2GC8g==" />
+		<POI MapID="139" xpos="-14.7599" ypos="315.615" zpos="218.498" type="assistances.hungry_cats.139" GUID="LrRVZG3xdUOromkwPKl1+g==" />
+		<POI MapID="218" xpos="186.83" ypos="167.336" zpos="-14.5471" type="assistances.hungry_cats.218" GUID="7bABxVkwFE+zmKMAbpfFBQ==" />
+		<POI MapID="326" xpos="105.212" ypos="236.642" zpos="163.747" type="assistances.hungry_cats.326" GUID="o5gE3veMsEa4EN+edpGQKQ==" />
+		<POI MapID="350" xpos="-49.8953" ypos="60.7308" zpos="-52.7377" type="assistances.hungry_cats.350" GUID="qDVETn21lkelzKNY0Q+IPQ==" />
+		<Trail type="assistances.hungry_cats.934" GUID="E8Vrhb4LIE21hZKvT3eMRg==" trailData="Data/Assistances/HungryCatPagoda.trl" texture="Data/Arrow.png" color="ff00ff00" alpha="0.8" fadeNear="600" fadeFar="1000" animSpeed="0" />
+		<POI MapID="934" xpos="455.38" ypos="289.07" zpos="-91.35" type="assistances.hungry_cats.934" GUID="MN76PARZ+k6u9L+B1JktfA==" heightOffset="0.5" />
+		<POI MapID="934" xpos="456.957" ypos="316.808" zpos="-111.658" type="assistances.hungry_cats.934" GUID="QA+pJ2vz5k+TOSTfVomVbg==" fadeNear="2400" fadeFar="2600" />
+		<POI MapID="988" xpos="416.153" ypos="24.1469" zpos="-506.692" type="assistances.hungry_cats.988.1" GUID="yrMdAap1Qku+S9weB94f6w==" />
+		<POI MapID="988" xpos="239.551" ypos="13.5615" zpos="-335.425" type="assistances.hungry_cats.988.2" GUID="dxO02X3I3k+KS8UiWjAkMg==" />
+		<POI MapID="1015" xpos="547.872" ypos="414.797" zpos="-152.541" type="assistances.hungry_cats.1015.1" GUID="Of04XGYKjUCmAJtH09SHCw==" />
+		<POI MapID="1015" xpos="-415.16" ypos="446.572" zpos="-75.6061" type="assistances.hungry_cats.1015.2" GUID="nl3X9ZDr9Eyr3RJbBTq62Q==" />
+		<POI MapID="1099" xpos="-879.217" ypos="7.96734" zpos="444.122" type="assistances.hungry_cats.1099" GUID="I8td1DdXOEisZsN0PYjRag==" />
+		<POI MapID="1175" xpos="-584.714" ypos="5.52341" zpos="-496.274" type="assistances.hungry_cats.1175.1" GUID="O7B0PhbRSUe6aMAjFL4bAw==" />
+		<POI MapID="1175" xpos="476.272" ypos="3.30363" zpos="-452.534" type="assistances.hungry_cats.1175.2" GUID="9h/1cF9/lUizeGLEYL/kQw==" />
+		<POI MapID="1178" xpos="787.916" ypos="85.4628" zpos="385.137" type="assistances.hungry_cats.1178" GUID="Mq5SYeHRc0WZrEOM2lqqRA==" />
+		<POI MapID="1185" xpos="11.7291" ypos="63.1928" zpos="492.754" type="assistances.hungry_cats.1185" GUID="90jWlv+B9U20X3j38OOewQ==" />
+		<POI MapID="1191" xpos="157.634" ypos="40.0751" zpos="51.1946" type="assistances.hungry_cats.1191" GUID="C+n4/V6+PUKvLcF8JyNbSQ==" />
+		<Trail type="assistances.hungry_cats.1205" GUID="5Y6wFxUWfU2fr/AukjgIpw==" trailData="Data/Assistances/HungryCatFractal.trl" texture="Data/Arrow.png" color="ff00ff00" alpha="0.8" fadeNear="600" fadeFar="1000" animSpeed="0" />
+		<POI MapID="1205" xpos="273.921" ypos="9.02744" zpos="233.811" type="assistances.hungry_cats.1205" GUID="TjJOS//paUKWMU08ZOdyJw==" iconFile="Img/Icons/Interaction.png" minSize="12" maxSize="16" heightOffset="0.5" />
+		<POI MapID="1205" xpos="273.176" ypos="7.83599" zpos="239.562" type="assistances.hungry_cats.1205" GUID="+Zm4aUXg6E28H9XyL8ub2w==" />
+		<POI MapID="1205" xpos="395.484" ypos="126.462" zpos="437.315" type="assistances.hungry_cats.1205" GUID="wJoulFRrXEuoxCVdz/Y4WA==" fadeNear="2400" fadeFar="2600" />
 	</POIs>
 </OverlayData>

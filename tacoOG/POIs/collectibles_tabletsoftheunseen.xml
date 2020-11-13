@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OverlayData>
+	<MarkerCategory name="Collectible" fadeFar="16800" fadeNear="8400">
+		<MarkerCategory name="RisingFlames" DisplayName="Rising Flames" fadeFar="16800" fadeNear="8400">
+			<MarkerCategory name="TabletsoftheUnseen" DisplayName="Tablets of the Unseen" fadeFar="16800" fadeNear="8400" behavior="3" />
+		</MarkerCategory>
+	</MarkerCategory>
+	<POIs>
+		<POI MapID="1175" xpos="-851.872" ypos="22.5798" zpos="-17.2331" type="Collectible.RisingFlames.TabletsoftheUnseen" GUID="vY+rTBBnsk6cBSFoeuXSCw==" />
+		<POI MapID="1175" xpos="-783.576" ypos="62.8218" zpos="-32.359" type="Collectible.RisingFlames.TabletsoftheUnseen" GUID="5aUF5uQEi0ucTKBHXuuVYQ==" />
+		<POI MapID="1175" xpos="-757.045" ypos="63.1673" zpos="-42.9694" type="Collectible.RisingFlames.TabletsoftheUnseen" GUID="RTWsheq8FkiO5i1pk6Jz/A==" />
+		<POI MapID="1175" xpos="-811.361" ypos="32.0013" zpos="-66.3954" type="Collectible.RisingFlames.TabletsoftheUnseen" GUID="b+S7Z22x30yenfG6Z3kCjg==" />
+		<POI MapID="1175" xpos="-678.925" ypos="91.0088" zpos="-55.7405" type="Collectible.RisingFlames.TabletsoftheUnseen" GUID="0lUfmzfheE6lkGn7sPbdHg==" />
+		<POI MapID="1175" xpos="-699.009" ypos="113.898" zpos="39.06" type="Collectible.RisingFlames.TabletsoftheUnseen" GUID="oekI90E1PUirRyXXvrDm5Q==" />
+		<POI MapID="1175" xpos="-639.826" ypos="152.03" zpos="13.0765" type="Collectible.RisingFlames.TabletsoftheUnseen" GUID="Pr+kJrgLxk+4sTawyBq5GQ==" />
+		<POI MapID="1175" xpos="-666.765" ypos="138.657" zpos="-78.3005" type="Collectible.RisingFlames.TabletsoftheUnseen" GUID="ZbhXAurl6EeW/Y69fEfHqg==" />
+		<POI MapID="1175" xpos="-901.711" ypos="8.58285" zpos="-19.1171" type="Collectible.RisingFlames.TabletsoftheUnseen" GUID="i24nDBmsFEqn4aJplo8lYg==" />
+		<POI MapID="1175" xpos="-884.611" ypos="18.0433" zpos="-142.745" type="Collectible.RisingFlames.TabletsoftheUnseen" GUID="lAenGTNScka1NQEFisJZrw==" />
+	</POIs>
+</OverlayData>

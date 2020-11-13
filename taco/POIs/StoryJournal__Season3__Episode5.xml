@@ -1,370 +1,421 @@
 <!-- 2020.06.25 -->
 <OverlayData>
 	<POIs>
-
 		<!-- ARACHNOGENESIS -->
-		<POI MapID="1195" xpos="-112.695" ypos="260.142" zpos="202.956" type="story_journal.season_3.flashpoint.arachnogenesis" GUID="qgKaMVvuuEGAF1HF95kCpw==" mapVisibility="0" miniMapVisibility="0"/>
-		<POI MapID="1195" xpos="-112.695" ypos="262.142" zpos="202.956" type="story_journal.season_3.flashpoint.arachnogenesis" GUID="B4RbchNY6Eaw2tn6VdmvHQ==" iconFile="Img/Icons/Fight.png" inGameVisibility="0"/>
-
+		<POI MapID="1195" xpos="-112.695" ypos="260.142" zpos="202.956" type="story_journal.season_3.flashpoint.arachnogenesis" GUID="qgKaMVvuuEGAF1HF95kCpw==" mapVisibility="0" miniMapVisibility="0" />
+		<POI MapID="1195" xpos="-112.695" ypos="262.142" zpos="202.956" type="story_journal.season_3.flashpoint.arachnogenesis" GUID="B4RbchNY6Eaw2tn6VdmvHQ==" iconFile="Img/Icons/Fight.png" inGameVisibility="0" />
 		<!-- AWAKENING THE DRUID STONE -->
-		<POI MapID="1195" xpos="-26.6324" ypos="124.274" zpos="-982.373" type="story_journal.season_3.flashpoint.awakening_the_druid_stone.wardbough"    GUID="PECHuEgg3USDoqtKnzFntA==" mapVisibility="0" miniMapVisibility="0"/>
-		<POI MapID="1195" xpos="-26.6324" ypos="126.274" zpos="-982.373" type="story_journal.season_3.flashpoint.awakening_the_druid_stone.wardbough"    GUID="Id9jWaMVpk69GtEmGS+Z7w==" iconFile="Img/Icons/Fight.png" inGameVisibility="0"/>
-		<POI MapID="54"   xpos="-34.796"  ypos="5.75596" zpos="650.278"  type="story_journal.season_3.flashpoint.awakening_the_druid_stone.arbor"        GUID="giBsCYThRU+erlZdFveIXQ=="/>
-		<POI MapID="15"   xpos="-68.3578" ypos="7.09641" zpos="-189.744" type="story_journal.season_3.flashpoint.awakening_the_druid_stone.oakhearts"    GUID="qviPEiNMR0SEejETa8n0Aw==" mapVisibility="0" miniMapVisibility="0"/>
-		<POI MapID="15"   xpos="-68.3578" ypos="9.09641" zpos="-189.744" type="story_journal.season_3.flashpoint.awakening_the_druid_stone.oakhearts"    GUID="hgLJ5CDnIEaSlXmUFLTONg==" iconFile="Img/Icons/Fight.png" inGameVisibility="0"/>
-		<POI MapID="1195" xpos="572.782"  ypos="120.698" zpos="-339.958" type="story_journal.season_3.flashpoint.awakening_the_druid_stone.kodama"       GUID="7nZVyxQSt0a4Yeip1KoZOw=="/>
-		<POI MapID="1195" xpos="596.215"  ypos="242.667" zpos="-282.229" type="story_journal.season_3.flashpoint.awakening_the_druid_stone.liriodendron" GUID="L1YnRfVVrEK8+XP/L3Npmw=="/>
-		<POI MapID="1195" xpos="-218.089" ypos="295.841" zpos="-708.447" type="story_journal.season_3.flashpoint.awakening_the_druid_stone.broadleaf"    GUID="ASF7lQGqf0uGDkwXD01fyQ=="/>
-		<POI MapID="1195" xpos="-1.22426" ypos="309.163" zpos="135.254"  type="story_journal.season_3.flashpoint.awakening_the_druid_stone.rosewood"     GUID="vMPJAARhSkOfoM/PbE9B8A=="/>
-
+		<POI MapID="1195" xpos="-26.6324" ypos="124.274" zpos="-982.373" type="story_journal.season_3.flashpoint.awakening_the_druid_stone.wardbough" GUID="PECHuEgg3USDoqtKnzFntA==" mapVisibility="0" miniMapVisibility="0" />
+		<POI MapID="1195" xpos="-26.6324" ypos="126.274" zpos="-982.373" type="story_journal.season_3.flashpoint.awakening_the_druid_stone.wardbough" GUID="Id9jWaMVpk69GtEmGS+Z7w==" iconFile="Img/Icons/Fight.png" inGameVisibility="0" />
+		<POI MapID="54" xpos="-34.796" ypos="5.75596" zpos="650.278" type="story_journal.season_3.flashpoint.awakening_the_druid_stone.arbor" GUID="giBsCYThRU+erlZdFveIXQ==" />
+		<POI MapID="15" xpos="-68.3578" ypos="7.09641" zpos="-189.744" type="story_journal.season_3.flashpoint.awakening_the_druid_stone.oakhearts" GUID="qviPEiNMR0SEejETa8n0Aw==" mapVisibility="0" miniMapVisibility="0" />
+		<POI MapID="15" xpos="-68.3578" ypos="9.09641" zpos="-189.744" type="story_journal.season_3.flashpoint.awakening_the_druid_stone.oakhearts" GUID="hgLJ5CDnIEaSlXmUFLTONg==" iconFile="Img/Icons/Fight.png" inGameVisibility="0" />
+		<POI MapID="1195" xpos="572.782" ypos="120.698" zpos="-339.958" type="story_journal.season_3.flashpoint.awakening_the_druid_stone.kodama" GUID="7nZVyxQSt0a4Yeip1KoZOw==" />
+		<POI MapID="1195" xpos="596.215" ypos="242.667" zpos="-282.229" type="story_journal.season_3.flashpoint.awakening_the_druid_stone.liriodendron" GUID="L1YnRfVVrEK8+XP/L3Npmw==" />
+		<POI MapID="1195" xpos="-218.089" ypos="295.841" zpos="-708.447" type="story_journal.season_3.flashpoint.awakening_the_druid_stone.broadleaf" GUID="ASF7lQGqf0uGDkwXD01fyQ==" />
+		<POI MapID="1195" xpos="-1.22426" ypos="309.163" zpos="135.254" type="story_journal.season_3.flashpoint.awakening_the_druid_stone.rosewood" GUID="vMPJAARhSkOfoM/PbE9B8A==" />
 		<!-- BURNIN' DOWN THE HOUSE -->
-		<POI MapID="1195" xpos="329.3"  ypos="438.75" zpos="81.13" type="story_journal.season_3.flashpoint.burnin_down_the_house" GUID="1vEnh5TW1kavst4zCvf47Q==" mapVisibility="0" miniMapVisibility="0"/>
-		<POI MapID="1195" xpos="329.3"  ypos="440.75" zpos="81.13" type="story_journal.season_3.flashpoint.burnin_down_the_house" GUID="ITk8j/YW0UyZu3KKDhty3w==" iconFile="Img/Numbers/1.png" color="ff00ff00" inGameVisibility="0"/>
-		<POI MapID="1195" xpos="332.62" ypos="439.10" zpos="85.25" type="story_journal.season_3.flashpoint.burnin_down_the_house" GUID="egES6E2oNUaAbP9FArLvvw==" mapVisibility="0" miniMapVisibility="0"/>
-		<POI MapID="1195" xpos="332.62" ypos="441.10" zpos="85.25" type="story_journal.season_3.flashpoint.burnin_down_the_house" GUID="Rz58HHf3MUGpGSvE6wG4qw==" iconFile="Img/Numbers/2.png" color="ffff8000" inGameVisibility="0"/>
-		<POI MapID="1195" xpos="334.03" ypos="438.07" zpos="69.80" type="story_journal.season_3.flashpoint.burnin_down_the_house" GUID="VxC1/SufqUmQ7SYJYoGVHw==" mapVisibility="0" miniMapVisibility="0"/>
-		<POI MapID="1195" xpos="334.03" ypos="440.07" zpos="69.80" type="story_journal.season_3.flashpoint.burnin_down_the_house" GUID="E/39DDCURkq3qA6bo7y9ow==" iconFile="Img/Numbers/3.png" color="ffff0000" inGameVisibility="0"/>
-
+		<POI MapID="1195" xpos="329.3" ypos="438.75" zpos="81.13" type="story_journal.season_3.flashpoint.burnin_down_the_house" GUID="1vEnh5TW1kavst4zCvf47Q==" mapVisibility="0" miniMapVisibility="0" />
+		<POI MapID="1195" xpos="329.3" ypos="440.75" zpos="81.13" type="story_journal.season_3.flashpoint.burnin_down_the_house" GUID="ITk8j/YW0UyZu3KKDhty3w==" iconFile="Img/Numbers/1.png" color="ff00ff00" inGameVisibility="0" />
+		<POI MapID="1195" xpos="332.62" ypos="439.10" zpos="85.25" type="story_journal.season_3.flashpoint.burnin_down_the_house" GUID="egES6E2oNUaAbP9FArLvvw==" mapVisibility="0" miniMapVisibility="0" />
+		<POI MapID="1195" xpos="332.62" ypos="441.10" zpos="85.25" type="story_journal.season_3.flashpoint.burnin_down_the_house" GUID="Rz58HHf3MUGpGSvE6wG4qw==" iconFile="Img/Numbers/2.png" color="ffff8000" inGameVisibility="0" />
+		<POI MapID="1195" xpos="334.03" ypos="438.07" zpos="69.80" type="story_journal.season_3.flashpoint.burnin_down_the_house" GUID="VxC1/SufqUmQ7SYJYoGVHw==" mapVisibility="0" miniMapVisibility="0" />
+		<POI MapID="1195" xpos="334.03" ypos="440.07" zpos="69.80" type="story_journal.season_3.flashpoint.burnin_down_the_house" GUID="E/39DDCURkq3qA6bo7y9ow==" iconFile="Img/Numbers/3.png" color="ffff0000" inGameVisibility="0" />
 		<!-- CRYPT KEEPER -->
-		<POI MapID="1195" xpos="-365.583" ypos="426.716" zpos="-562.267" type="story_journal.season_3.flashpoint.crypt_keeper" GUID="+WDxUs9XQU2Pwbv9UAvAUw=="/>
-
+		<POI MapID="1195" xpos="-365.583" ypos="426.716" zpos="-562.267" type="story_journal.season_3.flashpoint.crypt_keeper" GUID="+WDxUs9XQU2Pwbv9UAvAUw==" />
 		<!-- DESECRATION PREVENTION -->
-		<POI MapID="1195" xpos="-117.024" ypos="418.358" zpos="-273.624" type="story_journal.season_3.flashpoint.desecration_prevention" GUID="+WpGd9TJvECUouISTWsRJQ==" mapVisibility="0" miniMapVisibility="0"/>
-		<POI MapID="1195" xpos="-117.024" ypos="420.358" zpos="-273.624" type="story_journal.season_3.flashpoint.desecration_prevention" GUID="2eU0k6Vt4E2KjsIGzAwfEQ==" iconFile="Img/Icons/Fight.png" inGameVisibility="0"/>
-
+		<POI MapID="1195" xpos="-117.024" ypos="418.358" zpos="-273.624" type="story_journal.season_3.flashpoint.desecration_prevention" GUID="+WpGd9TJvECUouISTWsRJQ==" mapVisibility="0" miniMapVisibility="0" />
+		<POI MapID="1195" xpos="-117.024" ypos="420.358" zpos="-273.624" type="story_journal.season_3.flashpoint.desecration_prevention" GUID="2eU0k6Vt4E2KjsIGzAwfEQ==" iconFile="Img/Icons/Fight.png" inGameVisibility="0" />
 		<!-- DINOSAUR KING ASCENSION -->
-		<POI MapID="1195" xpos="469.241" ypos="213.405" zpos="-377.567" type="story_journal.season_3.flashpoint.dinosaur_king_ascension" GUID="dKl7wdF1IkanodyiKz+Wfw==" mapVisibility="0" miniMapVisibility="0"/>
-		<POI MapID="1195" xpos="469.241" ypos="215.405" zpos="-377.567" type="story_journal.season_3.flashpoint.dinosaur_king_ascension" GUID="eBPxphzavkGPuUiIFLvptQ==" iconFile="Img/Icons/Fight.png" inGameVisibility="0"/>
-
+		<POI MapID="1195" xpos="469.241" ypos="213.405" zpos="-377.567" type="story_journal.season_3.flashpoint.dinosaur_king_ascension" GUID="dKl7wdF1IkanodyiKz+Wfw==" mapVisibility="0" miniMapVisibility="0" />
+		<POI MapID="1195" xpos="469.241" ypos="215.405" zpos="-377.567" type="story_journal.season_3.flashpoint.dinosaur_king_ascension" GUID="eBPxphzavkGPuUiIFLvptQ==" iconFile="Img/Icons/Fight.png" inGameVisibility="0" />
 		<!-- DRACONIS MONS INSIGHT: SAVAGE RISE -->
-		<Trail type="story_journal.season_3.flashpoint.draconis_mons_insight__savage_rise" GUID="ncsOYXfIp0+7nlWr09tEVg==" trailData="Data/StoryJournal/Season3/Flashpoint/DraconisMonsInsightSavageRise.trl" texture="Data/Arrow.png" color="ffffdd00" alpha="0.8" fadeNear="1500" fadeFar="2000" animSpeed="0" mapDisplaySize="15"/>
-		<POI MapID="1195" xpos="412.653" ypos="410.214" zpos="-318.046" type="story_journal.season_3.flashpoint.draconis_mons_insight__savage_rise" GUID="xA8ypeNxPku6NPoutrKQAg==" iconFile="Img/HoT/MasteryHoT.png"/>
-		<POI MapID="1195" xpos="300.614" ypos="323.081" zpos="-758.818" type="story_journal.season_3.flashpoint.draconis_mons_insight__savage_rise" GUID="GNhzXPk8GEKMu999k6k0zQ==" behavior="3"/>
-
+		<Trail type="story_journal.season_3.flashpoint.draconis_mons_insight__savage_rise" GUID="ncsOYXfIp0+7nlWr09tEVg==" trailData="Data/StoryJournal/Season3/Flashpoint/DraconisMonsInsightSavageRise.trl" texture="Data/Arrow.png" color="ffffdd00" alpha="0.8" fadeNear="1500" fadeFar="2000" animSpeed="0" mapDisplaySize="15" />
+		<POI MapID="1195" xpos="412.653" ypos="410.214" zpos="-318.046" type="story_journal.season_3.flashpoint.draconis_mons_insight__savage_rise" GUID="xA8ypeNxPku6NPoutrKQAg==" iconFile="Img/HoT/MasteryHoT.png" />
+		<POI MapID="1195" xpos="300.614" ypos="323.081" zpos="-758.818" type="story_journal.season_3.flashpoint.draconis_mons_insight__savage_rise" GUID="GNhzXPk8GEKMu999k6k0zQ==" behavior="3" />
 		<!-- DRACONIS MONS INSIGHT: SCALDING GORGE -->
-		<Trail type="story_journal.season_3.flashpoint.draconis_mons_insight__scalding_gorge" GUID="wifniN/6H0iA2EG/9QMQvA==" trailData="Data/StoryJournal/Season3/Flashpoint/DraconisMonsInsightScaldingGorge.trl" texture="Data/Arrow.png" color="ffffdd00" alpha="0.8" fadeNear="1500" fadeFar="2000" animSpeed="0" mapDisplaySize="15"/>
-		<POI MapID="1195" xpos="409.281" ypos="411.943" zpos="-305.3"  type="story_journal.season_3.flashpoint.draconis_mons_insight__scalding_gorge" GUID="rBIkYP5Wn0SvTfb1YCP09A==" iconFile="Img/HoT/MasteryHoT.png"/>
-		<POI MapID="1195" xpos="308.034" ypos="495.033" zpos="63.6549" type="story_journal.season_3.flashpoint.draconis_mons_insight__scalding_gorge" GUID="J8o6M8Y4X0i3sjlW2RJf0w==" iconFile="Img/Icons/Interaction.png" fadeNear="1500" fadeFar="2000" mapVisibility="0" miniMapVisibility="0"/>
-		<POI MapID="1195" xpos="244.916" ypos="554.29"  zpos="85.5291" type="story_journal.season_3.flashpoint.draconis_mons_insight__scalding_gorge" GUID="/ccJc5VNnkScswr0Be8mbA==" iconFile="Img/Icons/Target.png"      fadeNear="2500" fadeFar="3000" mapVisibility="0" miniMapVisibility="0"/>
-		<POI MapID="1195" xpos="182.017" ypos="582.84"  zpos="28.212"  type="story_journal.season_3.flashpoint.draconis_mons_insight__scalding_gorge" GUID="oF1zWmSDQUWJtZZCC9xkIQ==" iconFile="Img/Icons/Target.png"      fadeNear="2500" fadeFar="3000" mapVisibility="0" miniMapVisibility="0"/>
-		<POI MapID="1195" xpos="43.8711" ypos="567.46"  zpos="54.4616" type="story_journal.season_3.flashpoint.draconis_mons_insight__scalding_gorge" GUID="oH5oZh3fGUS7ZPQLoP8BrQ==" behavior="3"/>
-
+		<Trail type="story_journal.season_3.flashpoint.draconis_mons_insight__scalding_gorge" GUID="wifniN/6H0iA2EG/9QMQvA==" trailData="Data/StoryJournal/Season3/Flashpoint/DraconisMonsInsightScaldingGorge.trl" texture="Data/Arrow.png" color="ffffdd00" alpha="0.8" fadeNear="1500" fadeFar="2000" animSpeed="0" mapDisplaySize="15" />
+		<POI MapID="1195" xpos="409.281" ypos="411.943" zpos="-305.3" type="story_journal.season_3.flashpoint.draconis_mons_insight__scalding_gorge" GUID="rBIkYP5Wn0SvTfb1YCP09A==" iconFile="Img/HoT/MasteryHoT.png" />
+		<POI MapID="1195" xpos="308.034" ypos="495.033" zpos="63.6549" type="story_journal.season_3.flashpoint.draconis_mons_insight__scalding_gorge" GUID="J8o6M8Y4X0i3sjlW2RJf0w==" iconFile="Img/Icons/Interaction.png" fadeNear="1500" fadeFar="2000" mapVisibility="0" miniMapVisibility="0" />
+		<POI MapID="1195" xpos="244.916" ypos="554.29" zpos="85.5291" type="story_journal.season_3.flashpoint.draconis_mons_insight__scalding_gorge" GUID="/ccJc5VNnkScswr0Be8mbA==" iconFile="Img/Icons/Target.png" fadeNear="2500" fadeFar="3000" mapVisibility="0" miniMapVisibility="0" />
+		<POI MapID="1195" xpos="182.017" ypos="582.84" zpos="28.212" type="story_journal.season_3.flashpoint.draconis_mons_insight__scalding_gorge" GUID="oF1zWmSDQUWJtZZCC9xkIQ==" iconFile="Img/Icons/Target.png" fadeNear="2500" fadeFar="3000" mapVisibility="0" miniMapVisibility="0" />
+		<POI MapID="1195" xpos="43.8711" ypos="567.46" zpos="54.4616" type="story_journal.season_3.flashpoint.draconis_mons_insight__scalding_gorge" GUID="oH5oZh3fGUS7ZPQLoP8BrQ==" behavior="3" />
 		<!-- DRACONIS MONS INSIGHT: WESTERN BOILING SEA -->
-		<Trail type="story_journal.season_3.flashpoint.draconis_mons_insight__western_boiling_sea" GUID="OmOTJ2ENWUeMRvW3ra4wGQ==" trailData="Data/StoryJournal/Season3/Flashpoint/DraconisMonsInsightWesternBoilingSea.trl" texture="Data/Arrow.png" color="ffffdd00" alpha="0.8" fadeNear="1500" fadeFar="2000" animSpeed="0" mapDisplaySize="15"/>
-		<POI MapID="1195" xpos="-34.1528" ypos="253.458" zpos="110.399"  type="story_journal.season_3.flashpoint.draconis_mons_insight__western_boiling_sea" GUID="3lHqFRYL0kGlvAB19lNlHA==" iconFile="Img/HoT/MasteryHoT.png"/>
-		<POI MapID="1195" xpos="-159.06"  ypos="50.1468" zpos="-61.4861" type="story_journal.season_3.flashpoint.draconis_mons_insight__western_boiling_sea" GUID="bPmrI2uI7UWdvwLqhopzTg==" behavior="3"/>
-
+		<Trail type="story_journal.season_3.flashpoint.draconis_mons_insight__western_boiling_sea" GUID="OmOTJ2ENWUeMRvW3ra4wGQ==" trailData="Data/StoryJournal/Season3/Flashpoint/DraconisMonsInsightWesternBoilingSea.trl" texture="Data/Arrow.png" color="ffffdd00" alpha="0.8" fadeNear="1500" fadeFar="2000" animSpeed="0" mapDisplaySize="15" />
+		<POI MapID="1195" xpos="-34.1528" ypos="253.458" zpos="110.399" type="story_journal.season_3.flashpoint.draconis_mons_insight__western_boiling_sea" GUID="3lHqFRYL0kGlvAB19lNlHA==" iconFile="Img/HoT/MasteryHoT.png" />
+		<POI MapID="1195" xpos="-159.06" ypos="50.1468" zpos="-61.4861" type="story_journal.season_3.flashpoint.draconis_mons_insight__western_boiling_sea" GUID="bPmrI2uI7UWdvwLqhopzTg==" behavior="3" />
 		<!-- EXCESS ENERGY -->
-		<POI MapID="1196" xpos="-177.762" ypos="224.005" zpos="-369.617" type="story_journal.season_3.flashpoint.excess_energy" GUID="KPzUOQSDFk+rplPsWrX3GQ=="/>
-		<POI MapID="1196" xpos="-176.741" ypos="243.023" zpos="-295.178" type="story_journal.season_3.flashpoint.excess_energy" GUID="z3Daj9dEP0aa4vMkHYqRHQ=="/>
-		<POI MapID="1196" xpos="-117.512" ypos="205.422" zpos="-254.686" type="story_journal.season_3.flashpoint.excess_energy" GUID="jiio2DjMw0yqRY1yAJbLRA=="/>
-		<POI MapID="1196" xpos="-111.932" ypos="254.033" zpos="-244.222" type="story_journal.season_3.flashpoint.excess_energy" GUID="MbnPFYSC+Ui0AojXeJkbgA=="/>
-		<POI MapID="1196" xpos="-31.7689" ypos="215.364" zpos="-295.533" type="story_journal.season_3.flashpoint.excess_energy" GUID="1qMUpHa3OEq/l+3tQaDRYA=="/>
-		<POI MapID="1196" xpos="-22.3287" ypos="242.904" zpos="-210.996" type="story_journal.season_3.flashpoint.excess_energy" GUID="PzjaOxLo60e3XupRD9gvcQ=="/>
-		<POI MapID="1196" xpos="-21.0425" ypos="92.9567" zpos="-211.695" type="story_journal.season_3.flashpoint.excess_energy" GUID="rUp8nozmbkO125d0r58ymQ=="/>
-		<POI MapID="1196" xpos="-5.71918" ypos="249.352" zpos="-374.444" type="story_journal.season_3.flashpoint.excess_energy" GUID="aNrKm/j7LEy93Oq4qK4o/g=="/>
-		<POI MapID="1196" xpos="-2.15702" ypos="392.434" zpos="-271.247" type="story_journal.season_3.flashpoint.excess_energy" GUID="xMhP+rs0TkihOVR7/0fFIg=="/>
-		<POI MapID="1196" xpos="8.98499"  ypos="218.066" zpos="-202.703" type="story_journal.season_3.flashpoint.excess_energy" GUID="AtK/T0rRiEO9luCItVMWjQ=="/>
-		<POI MapID="1196" xpos="117.564"  ypos="178.371" zpos="-173.587" type="story_journal.season_3.flashpoint.excess_energy" GUID="MwR3KVNvME+AB9qYc5jcvA=="/>
-		<POI MapID="1196" xpos="138.825"  ypos="219.291" zpos="-271.901" type="story_journal.season_3.flashpoint.excess_energy" GUID="kns6aCzbFk6Vfw+20RsLrA=="/>
-
+		<POI MapID="1196" xpos="-177.762" ypos="224.005" zpos="-369.617" type="story_journal.season_3.flashpoint.excess_energy" GUID="KPzUOQSDFk+rplPsWrX3GQ==" />
+		<POI MapID="1196" xpos="-176.741" ypos="243.023" zpos="-295.178" type="story_journal.season_3.flashpoint.excess_energy" GUID="z3Daj9dEP0aa4vMkHYqRHQ==" />
+		<POI MapID="1196" xpos="-117.512" ypos="205.422" zpos="-254.686" type="story_journal.season_3.flashpoint.excess_energy" GUID="jiio2DjMw0yqRY1yAJbLRA==" />
+		<POI MapID="1196" xpos="-111.932" ypos="254.033" zpos="-244.222" type="story_journal.season_3.flashpoint.excess_energy" GUID="MbnPFYSC+Ui0AojXeJkbgA==" />
+		<POI MapID="1196" xpos="-31.7689" ypos="215.364" zpos="-295.533" type="story_journal.season_3.flashpoint.excess_energy" GUID="1qMUpHa3OEq/l+3tQaDRYA==" />
+		<POI MapID="1196" xpos="-22.3287" ypos="242.904" zpos="-210.996" type="story_journal.season_3.flashpoint.excess_energy" GUID="PzjaOxLo60e3XupRD9gvcQ==" />
+		<POI MapID="1196" xpos="-21.0425" ypos="92.9567" zpos="-211.695" type="story_journal.season_3.flashpoint.excess_energy" GUID="rUp8nozmbkO125d0r58ymQ==" />
+		<POI MapID="1196" xpos="-5.71918" ypos="249.352" zpos="-374.444" type="story_journal.season_3.flashpoint.excess_energy" GUID="aNrKm/j7LEy93Oq4qK4o/g==" />
+		<POI MapID="1196" xpos="-2.15702" ypos="392.434" zpos="-271.247" type="story_journal.season_3.flashpoint.excess_energy" GUID="xMhP+rs0TkihOVR7/0fFIg==" />
+		<POI MapID="1196" xpos="8.98499" ypos="218.066" zpos="-202.703" type="story_journal.season_3.flashpoint.excess_energy" GUID="AtK/T0rRiEO9luCItVMWjQ==" />
+		<POI MapID="1196" xpos="117.564" ypos="178.371" zpos="-173.587" type="story_journal.season_3.flashpoint.excess_energy" GUID="MwR3KVNvME+AB9qYc5jcvA==" />
+		<POI MapID="1196" xpos="138.825" ypos="219.291" zpos="-271.901" type="story_journal.season_3.flashpoint.excess_energy" GUID="kns6aCzbFk6Vfw+20RsLrA==" />
 		<!-- EXFOLIATING -->
-		<POI MapID="1195" xpos="-406.9" ypos="-1" zpos="-418.13" type="story_journal.season_3.flashpoint.exfoliating" GUID="zvJL+YEHlUeb/UOxSbaYXw==" mapVisibility="0" miniMapVisibility="0"/>
-		<POI MapID="1195" xpos="-406.9" ypos="1"  zpos="-418.13" type="story_journal.season_3.flashpoint.exfoliating" GUID="o1i+T+4cjUCbMVgfvEQECw==" iconFile="Img/Icons/Death.png" inGameVisibility="0"/>
-
+		<POI MapID="1195" xpos="-406.9" ypos="-1" zpos="-418.13" type="story_journal.season_3.flashpoint.exfoliating" GUID="zvJL+YEHlUeb/UOxSbaYXw==" mapVisibility="0" miniMapVisibility="0" />
+		<POI MapID="1195" xpos="-406.9" ypos="1" zpos="-418.13" type="story_journal.season_3.flashpoint.exfoliating" GUID="o1i+T+4cjUCbMVgfvEQECw==" iconFile="Img/Icons/Death.png" inGameVisibility="0" />
 		<!-- EXPENSIVE TASTE -->
-		<POI MapID="1195" xpos="172.625" ypos="221.585" zpos="142.252" type="story_journal.season_3.flashpoint.expensive_taste" GUID="kiKlKZCj5UmS1IKPfNLEYg==" mapVisibility="0" miniMapVisibility="0"/>
-		<POI MapID="1195" xpos="172.625" ypos="223.585" zpos="142.252" type="story_journal.season_3.flashpoint.expensive_taste" GUID="myF3stk8wEeOKvY0DEaK0A==" iconFile="Img/Icons/Fight.png" inGameVisibility="0"/>
-
+		<POI MapID="1195" xpos="172.625" ypos="221.585" zpos="142.252" type="story_journal.season_3.flashpoint.expensive_taste" GUID="kiKlKZCj5UmS1IKPfNLEYg==" mapVisibility="0" miniMapVisibility="0" />
+		<POI MapID="1195" xpos="172.625" ypos="223.585" zpos="142.252" type="story_journal.season_3.flashpoint.expensive_taste" GUID="myF3stk8wEeOKvY0DEaK0A==" iconFile="Img/Icons/Fight.png" inGameVisibility="0" />
 		<!-- FIRE FIGHTER -->
-		<POI MapID="1198" xpos="372.764" ypos="53.986"  zpos="404.795" type="story_journal.season_3.flashpoint.fire_fighter" GUID="trOojBOmB02m6pLoMA4/Eg=="/>
-		<POI MapID="1198" xpos="439.979" ypos="63.9914" zpos="400.079" type="story_journal.season_3.flashpoint.fire_fighter" GUID="dWtTzRNI80y67rBNcVUTWg=="/>
-		<POI MapID="1198" xpos="462.844" ypos="58.4183" zpos="435.056" type="story_journal.season_3.flashpoint.fire_fighter" GUID="jE6rABoeS0qofyUazX4mcw=="/>
-
+		<POI MapID="1198" xpos="372.764" ypos="53.986" zpos="404.795" type="story_journal.season_3.flashpoint.fire_fighter" GUID="trOojBOmB02m6pLoMA4/Eg==" />
+		<POI MapID="1198" xpos="439.979" ypos="63.9914" zpos="400.079" type="story_journal.season_3.flashpoint.fire_fighter" GUID="dWtTzRNI80y67rBNcVUTWg==" />
+		<POI MapID="1198" xpos="462.844" ypos="58.4183" zpos="435.056" type="story_journal.season_3.flashpoint.fire_fighter" GUID="jE6rABoeS0qofyUazX4mcw==" />
 		<!-- GO NUTS WITH THE SCANNING -->
-		<POI MapID="1196" xpos="30.188"  ypos="1427.52" zpos="-172.418" type="story_journal.season_3.flashpoint.go_nuts_with_the_scanning" GUID="vrElvWda+0Gdb1AdwBI9Tw=="/>
-		<POI MapID="1196" xpos="12.768"  ypos="1430.99" zpos="-201.233" type="story_journal.season_3.flashpoint.go_nuts_with_the_scanning" GUID="nBEJ/e3vk0SPnSDmj8VzAw=="/>
-		<POI MapID="1196" xpos="30.4479" ypos="1431.16" zpos="-143.485" type="story_journal.season_3.flashpoint.go_nuts_with_the_scanning" GUID="6Q+aTEe8lk6spF6H4bQ0Jw=="/>
-		<POI MapID="1196" xpos="62.1155" ypos="1430.27" zpos="-191.459" type="story_journal.season_3.flashpoint.go_nuts_with_the_scanning" GUID="ooWqjBFOZkuexU04bMeoZw=="/>
-		<POI MapID="1196" xpos="85"      ypos="1440"    zpos="-156.49"  type="story_journal.season_3.flashpoint.go_nuts_with_the_scanning" GUID="6NSNAjcSKU2HAJSNDKpMFA=="/>
-		<POI MapID="1196" xpos="32.6653" ypos="1427.54" zpos="-176.793" type="story_journal.season_3.flashpoint.go_nuts_with_the_scanning" GUID="ycQivlZS9UiVfqjj1o8K7g=="/>
-		<POI MapID="1196" xpos="28.29"   ypos="1206.93" zpos="-125.031" type="story_journal.season_3.flashpoint.go_nuts_with_the_scanning" GUID="gE6GBBhqgEyM4cQvzfqXnA=="/>
-		<POI MapID="1196" xpos="31.9093" ypos="121.96"  zpos="-183.515" type="story_journal.season_3.flashpoint.go_nuts_with_the_scanning" GUID="Dxni7yhKk0qprX9xXczq6A=="/>
-		<POI MapID="1196" xpos="17.6546" ypos="107.678" zpos="-188.16"  type="story_journal.season_3.flashpoint.go_nuts_with_the_scanning" GUID="Lyu/9WQcoUGqQW4ocs0wuA=="/>
-		<POI MapID="1196" xpos="18.3153" ypos="107.678" zpos="-175.356" type="story_journal.season_3.flashpoint.go_nuts_with_the_scanning" GUID="TIE2ivMDPEKJGjZQ1q7+MA=="/>
-		<POI MapID="1196" xpos="31.4437" ypos="114.59"  zpos="-183.109" type="story_journal.season_3.flashpoint.go_nuts_with_the_scanning" GUID="lZ896abdSUeeFgfsp76gNw=="/>
-
+		<POI MapID="1196" xpos="30.188" ypos="1427.52" zpos="-172.418" type="story_journal.season_3.flashpoint.go_nuts_with_the_scanning" GUID="vrElvWda+0Gdb1AdwBI9Tw==" />
+		<POI MapID="1196" xpos="12.768" ypos="1430.99" zpos="-201.233" type="story_journal.season_3.flashpoint.go_nuts_with_the_scanning" GUID="nBEJ/e3vk0SPnSDmj8VzAw==" />
+		<POI MapID="1196" xpos="30.4479" ypos="1431.16" zpos="-143.485" type="story_journal.season_3.flashpoint.go_nuts_with_the_scanning" GUID="6Q+aTEe8lk6spF6H4bQ0Jw==" />
+		<POI MapID="1196" xpos="62.1155" ypos="1430.27" zpos="-191.459" type="story_journal.season_3.flashpoint.go_nuts_with_the_scanning" GUID="ooWqjBFOZkuexU04bMeoZw==" />
+		<POI MapID="1196" xpos="85" ypos="1440" zpos="-156.49" type="story_journal.season_3.flashpoint.go_nuts_with_the_scanning" GUID="6NSNAjcSKU2HAJSNDKpMFA==" />
+		<POI MapID="1196" xpos="32.6653" ypos="1427.54" zpos="-176.793" type="story_journal.season_3.flashpoint.go_nuts_with_the_scanning" GUID="ycQivlZS9UiVfqjj1o8K7g==" />
+		<POI MapID="1196" xpos="28.29" ypos="1206.93" zpos="-125.031" type="story_journal.season_3.flashpoint.go_nuts_with_the_scanning" GUID="gE6GBBhqgEyM4cQvzfqXnA==" />
+		<POI MapID="1196" xpos="31.9093" ypos="121.96" zpos="-183.515" type="story_journal.season_3.flashpoint.go_nuts_with_the_scanning" GUID="Dxni7yhKk0qprX9xXczq6A==" />
+		<POI MapID="1196" xpos="17.6546" ypos="107.678" zpos="-188.16" type="story_journal.season_3.flashpoint.go_nuts_with_the_scanning" GUID="Lyu/9WQcoUGqQW4ocs0wuA==" />
+		<POI MapID="1196" xpos="18.3153" ypos="107.678" zpos="-175.356" type="story_journal.season_3.flashpoint.go_nuts_with_the_scanning" GUID="TIE2ivMDPEKJGjZQ1q7+MA==" />
+		<POI MapID="1196" xpos="31.4437" ypos="114.59" zpos="-183.109" type="story_journal.season_3.flashpoint.go_nuts_with_the_scanning" GUID="lZ896abdSUeeFgfsp76gNw==" />
 		<!-- GOLEMANCER'S TREASURE -->
-		<POI MapID="1195" xpos="-186.158" ypos="408.499" zpos="-581.367" type="story_journal.season_3.flashpoint.golemancer_s_treasure" GUID="0lwSVkS9iUaVg5fJM5aGMg==" mapVisibility="0" miniMapVisibility="0"/>
-		<POI MapID="1195" xpos="-186.158" ypos="410.499" zpos="-581.367" type="story_journal.season_3.flashpoint.golemancer_s_treasure" GUID="KgXOBrH/dkOHRV2/io0y9w==" iconFile="Img/Icons/Fight.png" inGameVisibility="0"/>
-
+		<POI MapID="1195" xpos="-186.158" ypos="408.499" zpos="-581.367" type="story_journal.season_3.flashpoint.golemancer_s_treasure" GUID="0lwSVkS9iUaVg5fJM5aGMg==" mapVisibility="0" miniMapVisibility="0" />
+		<POI MapID="1195" xpos="-186.158" ypos="410.499" zpos="-581.367" type="story_journal.season_3.flashpoint.golemancer_s_treasure" GUID="KgXOBrH/dkOHRV2/io0y9w==" iconFile="Img/Icons/Fight.png" inGameVisibility="0" />
 		<!-- HOT SPLASHES -->
-		<POI MapID="1195" xpos="-24.4155" ypos="546.901"   zpos="-258.82"  type="story_journal.season_3.flashpoint.hot_splashes" GUID="Ui98YXnR6EWNP6sQp9F0qg=="/>
-		<POI MapID="1195" xpos="-42.5497" ypos="-0.183235" zpos="-246.933" type="story_journal.season_3.flashpoint.hot_splashes" GUID="YVtRFpDlyEeiwWBGYLcsSg==" iconFile="Img/Icons/Target.png"/>
-
+		<POI MapID="1195" xpos="-24.4155" ypos="546.901" zpos="-258.82" type="story_journal.season_3.flashpoint.hot_splashes" GUID="Ui98YXnR6EWNP6sQp9F0qg==" />
+		<POI MapID="1195" xpos="-42.5497" ypos="-0.183235" zpos="-246.933" type="story_journal.season_3.flashpoint.hot_splashes" GUID="YVtRFpDlyEeiwWBGYLcsSg==" iconFile="Img/Icons/Target.png" />
 		<!-- LESSONS LEARNED -->
-		<POI MapID="1195" xpos="318.094"  ypos="417.698" zpos="60.1901"  type="story_journal.season_3.flashpoint.lessons_learned" GUID="ph/yCNC7vUqOHPuE9UO2ZA=="/>
-		<POI MapID="1195" xpos="-177.035" ypos="408.196" zpos="-518.564" type="story_journal.season_3.flashpoint.lessons_learned" GUID="ESg51z+BO0SqTFqLZ+eQqA==" iconFile="Img/Icons/ArrowForward.png" behavior="0"/>
-		<POI MapID="1195" xpos="-244.426" ypos="412.944" zpos="-430.226" type="story_journal.season_3.flashpoint.lessons_learned" GUID="AVbveLxcNkqVph7QUP9jEA=="/>
-		<POI MapID="1195" xpos="-374.824" ypos="436.203" zpos="-436.282" type="story_journal.season_3.flashpoint.lessons_learned" GUID="/QR0f41XCEysZUbY310+3w=="/>
-		<POI MapID="1195" xpos="354.587"  ypos="430.036" zpos="13.8194"  type="story_journal.season_3.flashpoint.lessons_learned" GUID="khhTUuaZD0G4LaYjKSXHYA=="/>
-		<POI MapID="1195" xpos="310.595"  ypos="431.673" zpos="-2.55429" type="story_journal.season_3.flashpoint.lessons_learned" GUID="7DpwN9aKmUmEs+4hrWTifg=="/>
-		<POI MapID="1195" xpos="-5.38336" ypos="336.051" zpos="-988.383" type="story_journal.season_3.flashpoint.lessons_learned" GUID="XZf3VU5fbUaOYb+zb2GUsQ==" iconFile="Img/Icons/ArrowForward.png" behavior="0"/>
-		<POI MapID="1195" xpos="17.6446"  ypos="327.647" zpos="-1012.93" type="story_journal.season_3.flashpoint.lessons_learned" GUID="0JJ5/9ElkUeMiV45FyqGOQ=="/>
-		<POI MapID="1195" xpos="109.299"  ypos="268.977" zpos="210.734"  type="story_journal.season_3.flashpoint.lessons_learned" GUID="eIKQ8vudF0asSITN9bMSQQ==" iconFile="Img/Icons/ArrowForward.png" behavior="0"/>
-		<POI MapID="1195" xpos="135.736"  ypos="277.004" zpos="252.489"  type="story_journal.season_3.flashpoint.lessons_learned" GUID="n/vq2Chgq0qpbc7ydoioyA=="/>
-		<POI MapID="1195" xpos="-224.986" ypos="477.234" zpos="94.6891"  type="story_journal.season_3.flashpoint.lessons_learned" GUID="1FEzemLlp0CesaxMg+1SJA==" iconFile="Img/Icons/ArrowForward.png" behavior="0"/>
-		<POI MapID="1195" xpos="-273.202" ypos="480.159" zpos="74.6904"  type="story_journal.season_3.flashpoint.lessons_learned" GUID="vNFQW6fqqkaSpbFKgWm99Q==" iconFile="Img/Icons/Guide.png"        minSize="8" maxSize="16" heightOffset="0" behavior="0"/>
-		<POI MapID="1195" xpos="-294.156" ypos="486.614" zpos="54.4237"  type="story_journal.season_3.flashpoint.lessons_learned" GUID="z+YUwivmEEy6W9K4rxLLVw==" iconFile="Img/Icons/Guide.png"        minSize="8" maxSize="16" heightOffset="0" behavior="0"/>
-		<POI MapID="1195" xpos="-360.534" ypos="506.349" zpos="49.4309"  type="story_journal.season_3.flashpoint.lessons_learned" GUID="9nM66kxlK02SGchcoY+l3Q=="/>
-		<POI MapID="1195" xpos="544.951"  ypos="297.206" zpos="-163.867" type="story_journal.season_3.flashpoint.lessons_learned" GUID="F4QLrT//VUOkNUpZ35UXbQ==" iconFile="Img/Icons/ArrowForward.png" behavior="0"/>
-		<POI MapID="1195" xpos="549.795"  ypos="323.229" zpos="-151.803" type="story_journal.season_3.flashpoint.lessons_learned" GUID="PNCg4U6afEq0f/9PgAS1fQ==" iconFile="Img/Icons/Guide.png"        minSize="8" maxSize="16" heightOffset="0" behavior="0"/>
-		<POI MapID="1195" xpos="558.527"  ypos="340.885" zpos="-132.133" type="story_journal.season_3.flashpoint.lessons_learned" GUID="NMqjO5vGLEi3TWt6JUtJWw=="/>
-		<POI MapID="1195" xpos="-167.677" ypos="247.198" zpos="215.168"  type="story_journal.season_3.flashpoint.lessons_learned" GUID="En+kJqB7kk+z+Z0T8ZujaQ=="/>
-		<POI MapID="1195" xpos="335.23"   ypos="205.213" zpos="-589.704" type="story_journal.season_3.flashpoint.lessons_learned" GUID="B/wP/rg6PUCSTWrwkuj1TA=="/>
-		<POI MapID="1195" xpos="241.372"  ypos="512.278" zpos="72.6635"  type="story_journal.season_3.flashpoint.lessons_learned" GUID="ZBsvNgrVd06cmzkGNNSw4g==" iconFile="Img/Icons/ArrowForward.png" behavior="0"/>
-		<POI MapID="1195" xpos="203.645"  ypos="517.098" zpos="159.222"  type="story_journal.season_3.flashpoint.lessons_learned" GUID="OODcnMwn2kS7CpqFPGeCKQ=="/>
-		<POI MapID="1195" xpos="250.02"   ypos="246.50"  zpos="-884.23"  type="story_journal.season_3.flashpoint.lessons_learned" GUID="JnlyRlyUuUWuKNk8KmUkXg==" iconFile="Img/Icons/ArrowForward.png" behavior="0"/>
-		<POI MapID="1195" xpos="228.822"  ypos="246.371" zpos="-907.275" type="story_journal.season_3.flashpoint.lessons_learned" GUID="/V1/ba3ewkm5C+QWMzIc1g=="/>
-		<POI MapID="1195" xpos="-318.846" ypos="360.134" zpos="65.3518"  type="story_journal.season_3.flashpoint.lessons_learned" GUID="KfWJtT6TOEmboXaWN3TP6A=="/>
-
+		<POI MapID="1195" xpos="318.094" ypos="417.698" zpos="60.1901" type="story_journal.season_3.flashpoint.lessons_learned" GUID="ph/yCNC7vUqOHPuE9UO2ZA==" />
+		<POI MapID="1195" xpos="-177.035" ypos="408.196" zpos="-518.564" type="story_journal.season_3.flashpoint.lessons_learned" GUID="ESg51z+BO0SqTFqLZ+eQqA==" iconFile="Img/Icons/ArrowForward.png" behavior="0" />
+		<POI MapID="1195" xpos="-244.426" ypos="412.944" zpos="-430.226" type="story_journal.season_3.flashpoint.lessons_learned" GUID="AVbveLxcNkqVph7QUP9jEA==" />
+		<POI MapID="1195" xpos="-374.824" ypos="436.203" zpos="-436.282" type="story_journal.season_3.flashpoint.lessons_learned" GUID="/QR0f41XCEysZUbY310+3w==" />
+		<POI MapID="1195" xpos="354.587" ypos="430.036" zpos="13.8194" type="story_journal.season_3.flashpoint.lessons_learned" GUID="khhTUuaZD0G4LaYjKSXHYA==" />
+		<POI MapID="1195" xpos="310.595" ypos="431.673" zpos="-2.55429" type="story_journal.season_3.flashpoint.lessons_learned" GUID="7DpwN9aKmUmEs+4hrWTifg==" />
+		<POI MapID="1195" xpos="-5.38336" ypos="336.051" zpos="-988.383" type="story_journal.season_3.flashpoint.lessons_learned" GUID="XZf3VU5fbUaOYb+zb2GUsQ==" iconFile="Img/Icons/ArrowForward.png" behavior="0" />
+		<POI MapID="1195" xpos="17.6446" ypos="327.647" zpos="-1012.93" type="story_journal.season_3.flashpoint.lessons_learned" GUID="0JJ5/9ElkUeMiV45FyqGOQ==" />
+		<POI MapID="1195" xpos="109.299" ypos="268.977" zpos="210.734" type="story_journal.season_3.flashpoint.lessons_learned" GUID="eIKQ8vudF0asSITN9bMSQQ==" iconFile="Img/Icons/ArrowForward.png" behavior="0" />
+		<POI MapID="1195" xpos="135.736" ypos="277.004" zpos="252.489" type="story_journal.season_3.flashpoint.lessons_learned" GUID="n/vq2Chgq0qpbc7ydoioyA==" />
+		<POI MapID="1195" xpos="-224.986" ypos="477.234" zpos="94.6891" type="story_journal.season_3.flashpoint.lessons_learned" GUID="1FEzemLlp0CesaxMg+1SJA==" iconFile="Img/Icons/ArrowForward.png" behavior="0" />
+		<POI MapID="1195" xpos="-273.202" ypos="480.159" zpos="74.6904" type="story_journal.season_3.flashpoint.lessons_learned" GUID="vNFQW6fqqkaSpbFKgWm99Q==" iconFile="Img/Icons/Guide.png" minSize="8" maxSize="16" heightOffset="0" behavior="0" />
+		<POI MapID="1195" xpos="-294.156" ypos="486.614" zpos="54.4237" type="story_journal.season_3.flashpoint.lessons_learned" GUID="z+YUwivmEEy6W9K4rxLLVw==" iconFile="Img/Icons/Guide.png" minSize="8" maxSize="16" heightOffset="0" behavior="0" />
+		<POI MapID="1195" xpos="-360.534" ypos="506.349" zpos="49.4309" type="story_journal.season_3.flashpoint.lessons_learned" GUID="9nM66kxlK02SGchcoY+l3Q==" />
+		<POI MapID="1195" xpos="544.951" ypos="297.206" zpos="-163.867" type="story_journal.season_3.flashpoint.lessons_learned" GUID="F4QLrT//VUOkNUpZ35UXbQ==" iconFile="Img/Icons/ArrowForward.png" behavior="0" />
+		<POI MapID="1195" xpos="549.795" ypos="323.229" zpos="-151.803" type="story_journal.season_3.flashpoint.lessons_learned" GUID="PNCg4U6afEq0f/9PgAS1fQ==" iconFile="Img/Icons/Guide.png" minSize="8" maxSize="16" heightOffset="0" behavior="0" />
+		<POI MapID="1195" xpos="558.527" ypos="340.885" zpos="-132.133" type="story_journal.season_3.flashpoint.lessons_learned" GUID="NMqjO5vGLEi3TWt6JUtJWw==" />
+		<POI MapID="1195" xpos="-167.677" ypos="247.198" zpos="215.168" type="story_journal.season_3.flashpoint.lessons_learned" GUID="En+kJqB7kk+z+Z0T8ZujaQ==" />
+		<POI MapID="1195" xpos="335.23" ypos="205.213" zpos="-589.704" type="story_journal.season_3.flashpoint.lessons_learned" GUID="B/wP/rg6PUCSTWrwkuj1TA==" />
+		<POI MapID="1195" xpos="241.372" ypos="512.278" zpos="72.6635" type="story_journal.season_3.flashpoint.lessons_learned" GUID="ZBsvNgrVd06cmzkGNNSw4g==" iconFile="Img/Icons/ArrowForward.png" behavior="0" />
+		<POI MapID="1195" xpos="203.645" ypos="517.098" zpos="159.222" type="story_journal.season_3.flashpoint.lessons_learned" GUID="OODcnMwn2kS7CpqFPGeCKQ==" />
+		<POI MapID="1195" xpos="250.02" ypos="246.50" zpos="-884.23" type="story_journal.season_3.flashpoint.lessons_learned" GUID="JnlyRlyUuUWuKNk8KmUkXg==" iconFile="Img/Icons/ArrowForward.png" behavior="0" />
+		<POI MapID="1195" xpos="228.822" ypos="246.371" zpos="-907.275" type="story_journal.season_3.flashpoint.lessons_learned" GUID="/V1/ba3ewkm5C+QWMzIc1g==" />
+		<POI MapID="1195" xpos="-318.846" ypos="360.134" zpos="65.3518" type="story_journal.season_3.flashpoint.lessons_learned" GUID="KfWJtT6TOEmboXaWN3TP6A==" />
 		<!-- NATURE'S WRATH -->
-		<POI MapID="1195" xpos="-26.6324" ypos="124.274" zpos="-982.373" type="story_journal.season_3.flashpoint.nature_s_wrath" GUID="Upfnfq5uHE2NjnTDYTXS/w==" mapVisibility="0" miniMapVisibility="0"/>
-		<POI MapID="1195" xpos="-26.6324" ypos="126.274" zpos="-982.373" type="story_journal.season_3.flashpoint.nature_s_wrath" GUID="gtjOHfm0fUSAELWEGmTRlQ==" iconFile="Img/Icons/Fight.png" inGameVisibility="0"/>
-
+		<POI MapID="1195" xpos="-26.6324" ypos="124.274" zpos="-982.373" type="story_journal.season_3.flashpoint.nature_s_wrath" GUID="Upfnfq5uHE2NjnTDYTXS/w==" mapVisibility="0" miniMapVisibility="0" />
+		<POI MapID="1195" xpos="-26.6324" ypos="126.274" zpos="-982.373" type="story_journal.season_3.flashpoint.nature_s_wrath" GUID="gtjOHfm0fUSAELWEGmTRlQ==" iconFile="Img/Icons/Fight.png" inGameVisibility="0" />
 		<!-- PEOPLE WATCHING -->
-		<POI MapID="1195" xpos="-324.63"  ypos="437"     zpos="-482.16"  type="story_journal.season_3.flashpoint.people_watching" GUID="TityoB4oVUekAEBdGc7g0A==" iconFile="Img/Numbers/1.png" color="ff00ff00" behavior="0" inGameVisibility="0"/>
-		<POI MapID="1195" xpos="-324.63"  ypos="433"     zpos="-482.16"  type="story_journal.season_3.flashpoint.people_watching" GUID="PZVR112vp02GrJ7I4o3gng==" heightOffset="3" mapVisibility="0" miniMapVisibility="0"/>
-		<POI MapID="1195" xpos="-340.36"  ypos="465"     zpos="-96.55"   type="story_journal.season_3.flashpoint.people_watching" GUID="pJsNcavQLUKJoRz7phv+ig==" iconFile="Img/Numbers/2.png" color="ff00ff00" behavior="0" inGameVisibility="0"/>
-		<POI MapID="1195" xpos="-340.36"  ypos="461"     zpos="-96.55"   type="story_journal.season_3.flashpoint.people_watching" GUID="/uvKPVqIbkKdH+KQEyqqVA==" heightOffset="3" mapVisibility="0" miniMapVisibility="0"/>
-		<POI MapID="1195" xpos="236.22"   ypos="481.847" zpos="62.17"    type="story_journal.season_3.flashpoint.people_watching" GUID="oZLAxJ1yP02vP5Y0f3j8Ig=="/>
-		<POI MapID="1195" xpos="-70.2775" ypos="257.528" zpos="-588.57"  type="story_journal.season_3.flashpoint.people_watching" GUID="SjK7Ul4os0OtY3zjn8ExeQ=="/>
-		<POI MapID="1195" xpos="-264.592" ypos="502.468" zpos="-243.095" type="story_journal.season_3.flashpoint.people_watching" GUID="4Ztn3KSvh0iK8STA4R7C1Q=="/>
-		<POI MapID="1195" xpos="93.2875"  ypos="218.904" zpos="-735.138" type="story_journal.season_3.flashpoint.people_watching" GUID="jg87PC9MtkqdMAwwSomKPA=="/>
-		<POI MapID="1195" xpos="-254.228" ypos="56.7422" zpos="-416.463" type="story_journal.season_3.flashpoint.people_watching" GUID="g7GOfD/x2USzLkdph+W9/g=="/>
-		<POI MapID="1195" xpos="-138.217" ypos="311.704" zpos="137.758"  type="story_journal.season_3.flashpoint.people_watching" GUID="E0rKX6wdaUy36vokHFGmZg=="/>
-		<POI MapID="1195" xpos="365.978"  ypos="441.789" zpos="21.1108"  type="story_journal.season_3.flashpoint.people_watching" GUID="iXmxN6akmku1RsS33AFjGQ=="/>
-
+		<POI MapID="1195" xpos="-324.63" ypos="437" zpos="-482.16" type="story_journal.season_3.flashpoint.people_watching" GUID="TityoB4oVUekAEBdGc7g0A==" iconFile="Img/Numbers/1.png" color="ff00ff00" behavior="0" inGameVisibility="0" />
+		<POI MapID="1195" xpos="-324.63" ypos="433" zpos="-482.16" type="story_journal.season_3.flashpoint.people_watching" GUID="PZVR112vp02GrJ7I4o3gng==" heightOffset="3" mapVisibility="0" miniMapVisibility="0" />
+		<POI MapID="1195" xpos="-340.36" ypos="465" zpos="-96.55" type="story_journal.season_3.flashpoint.people_watching" GUID="pJsNcavQLUKJoRz7phv+ig==" iconFile="Img/Numbers/2.png" color="ff00ff00" behavior="0" inGameVisibility="0" />
+		<POI MapID="1195" xpos="-340.36" ypos="461" zpos="-96.55" type="story_journal.season_3.flashpoint.people_watching" GUID="/uvKPVqIbkKdH+KQEyqqVA==" heightOffset="3" mapVisibility="0" miniMapVisibility="0" />
+		<POI MapID="1195" xpos="236.22" ypos="481.847" zpos="62.17" type="story_journal.season_3.flashpoint.people_watching" GUID="oZLAxJ1yP02vP5Y0f3j8Ig==" />
+		<POI MapID="1195" xpos="-70.2775" ypos="257.528" zpos="-588.57" type="story_journal.season_3.flashpoint.people_watching" GUID="SjK7Ul4os0OtY3zjn8ExeQ==" />
+		<POI MapID="1195" xpos="-264.592" ypos="502.468" zpos="-243.095" type="story_journal.season_3.flashpoint.people_watching" GUID="4Ztn3KSvh0iK8STA4R7C1Q==" />
+		<POI MapID="1195" xpos="93.2875" ypos="218.904" zpos="-735.138" type="story_journal.season_3.flashpoint.people_watching" GUID="jg87PC9MtkqdMAwwSomKPA==" />
+		<POI MapID="1195" xpos="-254.228" ypos="56.7422" zpos="-416.463" type="story_journal.season_3.flashpoint.people_watching" GUID="g7GOfD/x2USzLkdph+W9/g==" />
+		<POI MapID="1195" xpos="-138.217" ypos="311.704" zpos="137.758" type="story_journal.season_3.flashpoint.people_watching" GUID="E0rKX6wdaUy36vokHFGmZg==" />
+		<POI MapID="1195" xpos="365.978" ypos="441.789" zpos="21.1108" type="story_journal.season_3.flashpoint.people_watching" GUID="iXmxN6akmku1RsS33AFjGQ==" />
 		<!-- POWERLESS SUIT -->
-		<POI MapID="1195" xpos="-437.488" ypos="445.814" zpos="-371.688" type="story_journal.season_3.flashpoint.powerless_suit" GUID="QAHW49lOoEWOvGKuIjbVhg==" mapVisibility="0" miniMapVisibility="0"/>
-		<POI MapID="1195" xpos="-437.488" ypos="447.814" zpos="-371.688" type="story_journal.season_3.flashpoint.powerless_suit" GUID="HMGDCGh99EKb0gDd4Z9o+A==" iconFile="Img/Icons/Fight.png" inGameVisibility="0"/>
-
+		<POI MapID="1195" xpos="-437.488" ypos="445.814" zpos="-371.688" type="story_journal.season_3.flashpoint.powerless_suit" GUID="QAHW49lOoEWOvGKuIjbVhg==" mapVisibility="0" miniMapVisibility="0" />
+		<POI MapID="1195" xpos="-437.488" ypos="447.814" zpos="-371.688" type="story_journal.season_3.flashpoint.powerless_suit" GUID="HMGDCGh99EKb0gDd4Z9o+A==" iconFile="Img/Icons/Fight.png" inGameVisibility="0" />
 		<!-- ROCK COLLECTOR -->
-		<!--  3 --><Trail type="story_journal.season_3.flashpoint.rock_collector.1.3"   GUID="ANCAooya4U2HDOb6cU5m6g==" trailData="Data/StoryJournal/Season3/Flashpoint/RockCollector_3.trl"  texture="Data/Arrow.png" color="ffff8000" alpha="0.8" fadeNear="1500" fadeFar="2500" animSpeed="0.8" mapDisplaySize="15"/>
-		<!--  4 --><Trail type="story_journal.season_3.flashpoint.rock_collector.1.4"   GUID="iWx0IsB3GkWGN3VJ2oOHBg==" trailData="Data/StoryJournal/Season3/Flashpoint/RockCollector_4.trl"  texture="Data/Arrow.png" color="ffff8000" alpha="0.8" fadeNear="1500" fadeFar="2500" animSpeed="0.8" mapDisplaySize="15"/>
-		<!-- 12 --><Trail type="story_journal.season_3.flashpoint.rock_collector.10.12" GUID="PdkpdDyUuUqSxAcEpn2v3A==" trailData="Data/StoryJournal/Season3/Flashpoint/RockCollector_12.trl" texture="Data/Arrow.png" color="ffff8000" alpha="0.8" fadeNear="1500" fadeFar="2500" animSpeed="0.8" mapDisplaySize="15"/>
-		<!-- 13 --><Trail type="story_journal.season_3.flashpoint.rock_collector.10.13" GUID="u7/VR00YCEGFll8hToWIwA==" trailData="Data/StoryJournal/Season3/Flashpoint/RockCollector_13.trl" texture="Data/Arrow.png" color="ffff8000" alpha="0.8" fadeNear="1500" fadeFar="2500" animSpeed="0.8" mapDisplaySize="15"/>
-		<!-- 14 --><Trail type="story_journal.season_3.flashpoint.rock_collector.10.14" GUID="aj2TpTns1Ummk2wGRK9r3g==" trailData="Data/StoryJournal/Season3/Flashpoint/RockCollector_14.trl" texture="Data/Arrow.png" color="ffff8000" alpha="0.8" fadeNear="1500" fadeFar="2500" animSpeed="0.8" mapDisplaySize="15"/>
-		<!-- 18 --><Trail type="story_journal.season_3.flashpoint.rock_collector.10.18" GUID="rU8CMSGYdE+qA/Ay+Y0ACQ==" trailData="Data/StoryJournal/Season3/Flashpoint/RockCollector_18.trl" texture="Data/Arrow.png" color="ffff8000" alpha="0.8" fadeNear="1500" fadeFar="2500" animSpeed="0.8" mapDisplaySize="15"/>
-		<!-- 19 --><Trail type="story_journal.season_3.flashpoint.rock_collector.10.19" GUID="PMZfVbTpekWgu9D8DaFU6w==" trailData="Data/StoryJournal/Season3/Flashpoint/RockCollector_19.trl" texture="Data/Arrow.png" color="ffff8000" alpha="0.8" fadeNear="1500" fadeFar="2500" animSpeed="0.8" mapDisplaySize="15"/>
-		<!-- 20 --><Trail type="story_journal.season_3.flashpoint.rock_collector.10.20" GUID="mryB/OUGMUG8ZUNttRWvLA==" trailData="Data/StoryJournal/Season3/Flashpoint/RockCollector_20.trl" texture="Data/Arrow.png" color="ffff8000" alpha="0.8" fadeNear="1500" fadeFar="2500" animSpeed="0.8" mapDisplaySize="15"/>
-		<!-- 25 --><Trail type="story_journal.season_3.flashpoint.rock_collector.20.25" GUID="a1+a6Qk08keL+N38W1cu6Q==" trailData="Data/StoryJournal/Season3/Flashpoint/RockCollector_25.trl" texture="Data/Arrow.png" color="ffff8000" alpha="0.8" fadeNear="1500" fadeFar="2500" animSpeed="0.8" mapDisplaySize="15"/>
-		<!-- 30 --><Trail type="story_journal.season_3.flashpoint.rock_collector.20.30" GUID="iszxMhQTmEirHPRm9Hizug==" trailData="Data/StoryJournal/Season3/Flashpoint/RockCollector_30.trl" texture="Data/Arrow.png" color="ffff8000" alpha="0.8" fadeNear="1500" fadeFar="2500" animSpeed="0.8" mapDisplaySize="15"/>
-		<!-- 33 --><Trail type="story_journal.season_3.flashpoint.rock_collector.30.33" GUID="lZ3bRtaaH0WC14OCZsmhXw==" trailData="Data/StoryJournal/Season3/Flashpoint/RockCollector_33.trl" texture="Data/Arrow.png" color="ffff8000" alpha="0.8" fadeNear="1500" fadeFar="2500" animSpeed="0.8" mapDisplaySize="15"/>
-		<!-- 37 --><Trail type="story_journal.season_3.flashpoint.rock_collector.30.37" GUID="EQMs6a/w6E++7lT2LJnAnA==" trailData="Data/StoryJournal/Season3/Flashpoint/RockCollector_37.trl" texture="Data/Arrow.png" color="ffff8000" alpha="0.8" fadeNear="1500" fadeFar="2500" animSpeed="0.8" mapDisplaySize="15"/>
-		<!-- 39 --><Trail type="story_journal.season_3.flashpoint.rock_collector.30.39" GUID="AVr+Yr4K4UmgNyG9V3byBA==" trailData="Data/StoryJournal/Season3/Flashpoint/RockCollector_39.trl" texture="Data/Arrow.png" color="ffff8000" alpha="0.8" fadeNear="1500" fadeFar="2500" animSpeed="0.8" mapDisplaySize="15"/>
-		<!-- 46 --><Trail type="story_journal.season_3.flashpoint.rock_collector.40.46" GUID="YdpjbCqyx0q0nFYJz4MpCw==" trailData="Data/StoryJournal/Season3/Flashpoint/RockCollector_46.trl" texture="Data/Arrow.png" color="ffff8000" alpha="0.8" fadeNear="1500" fadeFar="2500" animSpeed="0.8" mapDisplaySize="15"/>
-		<!-- 47 --><Trail type="story_journal.season_3.flashpoint.rock_collector.40.47" GUID="8MT/i6RyTEOwRQv2kPC7Qg==" trailData="Data/StoryJournal/Season3/Flashpoint/RockCollector_47.trl" texture="Data/Arrow.png" color="ffff8000" alpha="0.8" fadeNear="1500" fadeFar="2500" animSpeed="0.8" mapDisplaySize="15"/>
-		<!-- 49 --><Trail type="story_journal.season_3.flashpoint.rock_collector.40.49" GUID="YUse3kA8jEeipHIFJnWJkQ==" trailData="Data/StoryJournal/Season3/Flashpoint/RockCollector_49.trl" texture="Data/Arrow.png" color="ffff8000" alpha="0.8" fadeNear="1500" fadeFar="2500" animSpeed="0.8" mapDisplaySize="15"/>
-		<!-- 54 --><Trail type="story_journal.season_3.flashpoint.rock_collector.50.54" GUID="2hXvMkMMV0KfkzZOlc3BFQ==" trailData="Data/StoryJournal/Season3/Flashpoint/RockCollector_54.trl" texture="Data/Arrow.png" color="ffff8000" alpha="0.8" fadeNear="1500" fadeFar="2500" animSpeed="0.8" mapDisplaySize="15"/>
-		<!-- 56 --><Trail type="story_journal.season_3.flashpoint.rock_collector.50.56" GUID="40C7Ib+lekyFAkb5ma2x0w==" trailData="Data/StoryJournal/Season3/Flashpoint/RockCollector_56.trl" texture="Data/Arrow.png" color="ffff8000" alpha="0.8" fadeNear="1500" fadeFar="2500" animSpeed="0.8" mapDisplaySize="15"/>
-		<!-- 57 --><Trail type="story_journal.season_3.flashpoint.rock_collector.50.57" GUID="73/utMIEtE2e2ZFiz/dhlg==" trailData="Data/StoryJournal/Season3/Flashpoint/RockCollector_57.trl" texture="Data/Arrow.png" color="ffff8000" alpha="0.8" fadeNear="1500" fadeFar="2500" animSpeed="0.8" mapDisplaySize="15"/>
-		<!--   1 --><POI MapID="1195" xpos="-399.615" ypos="60.482"  zpos="-615.203" type="story_journal.season_3.flashpoint.rock_collector.1.1"   GUID="6Kcsf8L4bE+MVkI5etohMA==" iconFile="Img/Icons/Coin.png" color="ff00ff00"/>
-		<!--   2 --><POI MapID="1195" xpos="-329.913" ypos="3.52954" zpos="-411.975" type="story_journal.season_3.flashpoint.rock_collector.1.2"   GUID="CdqIj3KvykSAn5dW1WvNKw==" iconFile="Img/Icons/Coin.png" color="ff00ff00"/>
-		<!--   3 --><POI MapID="1195" xpos="-228.277" ypos="5.00282" zpos="-655.977" type="story_journal.season_3.flashpoint.rock_collector.1.3"   GUID="xkmv1lEH3E601AOIitrhWQ==" iconFile="Img/Icons/Coin.png" color="ff00ff00" heightOffset="0"/>
-					<POI MapID="1195" xpos="-265.448" ypos="10.751"  zpos="-686.288" type="story_journal.season_3.flashpoint.rock_collector.1.3"   GUID="J8NizOccuEyDJWfoEu7f+Q==" fadeNear="1500" fadeFar="1800" mapVisibility="0" miniMapVisibility="0" triggerRange="5"/>
-		<!--   4 --><POI MapID="1195" xpos="-205.063" ypos="4.84606" zpos="-671.545" type="story_journal.season_3.flashpoint.rock_collector.1.4"   GUID="7ZtSbCfrI0OCkTc3o7OXHQ==" iconFile="Img/Icons/Coin.png" color="ff00ff00" heightOffset="0"/>
-					<POI MapID="1195" xpos="-160.851" ypos="6.432"   zpos="-718.967" type="story_journal.season_3.flashpoint.rock_collector.1.4"   GUID="Qh36KZEmk0yT2gtCunlvYA==" iconFile="Img/Icons/Interaction.png" minSize="20" maxSize="24" fadeNear="1500" fadeFar="1800" mapVisibility="0" miniMapVisibility="0"/>
-					<POI MapID="1195" xpos="10.1168"  ypos="74.8651" zpos="-744.472" type="story_journal.season_3.flashpoint.rock_collector.1.4"   GUID="tPd42ubAeEqtF1fMJl2y7g==" fadeNear="1500" fadeFar="1800" mapVisibility="0" miniMapVisibility="0"/>
-		<!--   5 --><POI MapID="1195" xpos="-352.51"  ypos="24.5205" zpos="-578.368" type="story_journal.season_3.flashpoint.rock_collector.1.5"   GUID="f+y81XTlL0iYzE8GLe9j0Q==" iconFile="Img/Icons/Coin.png" color="ff00ff00"/>
-		<!--   6 --><POI MapID="1195" xpos="-487.716" ypos="76.8543" zpos="-271.758" type="story_journal.season_3.flashpoint.rock_collector.1.6"   GUID="99nwU0mXBkeECOmMF0lelw==" iconFile="Img/Icons/Coin.png" color="ff00ff00"/>
-		<!--   7 --><POI MapID="1195" xpos="-242.119" ypos="3.00911" zpos="-265.964" type="story_journal.season_3.flashpoint.rock_collector.1.7"   GUID="IFVFnWj2y02f6eJ2pd+sdw==" iconFile="Img/Icons/Coin.png" color="ff00ff00" triggerRange="5"/>
-		<!--   8 --><POI MapID="1195" xpos="-163.686" ypos="35.3778" zpos="-48.2927" type="story_journal.season_3.flashpoint.rock_collector.1.8"   GUID="upss/s5e0USxBduAA02NdQ==" iconFile="Img/Icons/Coin.png" color="ff00ff00"/>
-		<!--   9 --><POI MapID="1195" xpos="-460.698" ypos="11.5186" zpos="124.266"  type="story_journal.season_3.flashpoint.rock_collector.1.9"   GUID="NqeelIpbeUyiX/lVp+wAuw==" iconFile="Img/Icons/Coin.png" color="ff00ff00"/>
-		<!--  10 --><POI MapID="1195" xpos="-309.517" ypos="8.43905" zpos="-15.8377" type="story_journal.season_3.flashpoint.rock_collector.1.10"  GUID="20jvJl4JWk+h2/rKSpFXxQ==" iconFile="Img/Icons/Coin.png" color="ff00ff00"/>
-		<!--  11 --><POI MapID="1195" xpos="200.836"  ypos="51.2193" zpos="-49.5753" type="story_journal.season_3.flashpoint.rock_collector.10.11" GUID="42kgsw359k6j2gyboHvpPg==" iconFile="Img/Icons/Coin.png" color="ff00ff00"/>
-		<!--  12 --><POI MapID="1195" xpos="151.161"  ypos="43.3442" zpos="131.862"  type="story_journal.season_3.flashpoint.rock_collector.10.12" GUID="Kf+4xzRcv0+XUDq8OvjKkQ==" iconFile="Img/Icons/Coin.png" color="ff00ff00" heightOffset="0"/>
-					<POI MapID="1195" xpos="171.375"  ypos="43.2622" zpos="125.333"  type="story_journal.season_3.flashpoint.rock_collector.10.12" GUID="XhDMmFaM4Uurr/GjgAK9HQ==" iconFile="Img/Icons/Interaction.png" minSize="20" maxSize="24" fadeNear="1500" fadeFar="1800" mapVisibility="0" miniMapVisibility="0"/>
-					<POI MapID="1195" xpos="385.823"  ypos="87.5664" zpos="178.776"  type="story_journal.season_3.flashpoint.rock_collector.10.12" GUID="xJzyFbFsgU6n+TFhO8caUA==" fadeNear="1500" fadeFar="1800" mapVisibility="0" miniMapVisibility="0"/>
-		<!--  13 --><POI MapID="1195" xpos="139.24"   ypos="176.286" zpos="-764.002" type="story_journal.season_3.flashpoint.rock_collector.10.13" GUID="czArTdNSU02Yznj2ahMqyQ==" iconFile="Img/Icons/Coin.png" color="ff00ff00" heightOffset="0"/>
-					<POI MapID="1195" xpos="378.658"  ypos="185.448" zpos="-834.54"  type="story_journal.season_3.flashpoint.rock_collector.10.13" GUID="BGuIuakGPkG4HNVLnrvpbQ==" iconFile="Img/Icons/Interaction.png" minSize="20" maxSize="24" fadeNear="1500" fadeFar="1800" mapVisibility="0" miniMapVisibility="0"/>
-					<POI MapID="1195" xpos="408.784"  ypos="193.289" zpos="-869.624" type="story_journal.season_3.flashpoint.rock_collector.10.13" GUID="2HSrjyLqiUCpTlVaH44aYA==" iconFile="Img/Skills/OakheartsReach.png" fadeNear="1500" fadeFar="1800" mapVisibility="0" miniMapVisibility="0" heightOffset="0"/>
-					<POI MapID="1195" xpos="421.491"  ypos="210.609" zpos="-835.557" type="story_journal.season_3.flashpoint.rock_collector.10.13" GUID="Y51RApBrN0KxdVhMhLeOLw==" iconFile="Img/Skills/OakheartsReach.png" fadeNear="1500" fadeFar="1800" mapVisibility="0" miniMapVisibility="0" heightOffset="0"/>
-					<POI MapID="1195" xpos="404.925"  ypos="212.058" zpos="-808.327" type="story_journal.season_3.flashpoint.rock_collector.10.13" GUID="c1ej5jucTkuv+vQ1ynaWnQ==" fadeNear="1500" fadeFar="1800" mapVisibility="0" miniMapVisibility="0"/>
-		<!--  14 --><POI MapID="1195" xpos="343.579"  ypos="197.27"  zpos="-416.223" type="story_journal.season_3.flashpoint.rock_collector.10.14" GUID="kf8YpEMkcEmQs7xKxiGdRg==" iconFile="Img/Icons/Coin.png" color="ff00ff00" heightOffset="0"/>
-					<POI MapID="1195" xpos="582.506"  ypos="242.667" zpos="-260.631" type="story_journal.season_3.flashpoint.rock_collector.10.14" GUID="DlE5CoWONUWxmBACONPRmw==" iconFile="Img/Icons/Interaction.png" minSize="20" maxSize="24" fadeNear="1500" fadeFar="1800" mapVisibility="0" miniMapVisibility="0"/>
-					<POI MapID="1195" xpos="605.664"  ypos="312"     zpos="-251.957" type="story_journal.season_3.flashpoint.rock_collector.10.14" GUID="kA1hE435bkSnpezQ9nHtBw==" fadeNear="1500" fadeFar="1800" mapVisibility="0" miniMapVisibility="0" triggerRange="10"/>
-		<!--  15 --><POI MapID="1195" xpos="-29.3325" ypos="163.251" zpos="-648.322" type="story_journal.season_3.flashpoint.rock_collector.10.15" GUID="BB5VMwzZj0+wN/td8/11AA==" iconFile="Img/Icons/Coin.png" color="ff00ff00"/>
-		<!--  16 --><POI MapID="1195" xpos="-210.819" ypos="106.74"  zpos="-743.008" type="story_journal.season_3.flashpoint.rock_collector.10.16" GUID="fBFo0nEZAEW4BBX4b0y/dQ==" iconFile="Img/Icons/Coin.png" color="ff00ff00"/>
-		<!--  17 --><POI MapID="1195" xpos="291.233"  ypos="193.769" zpos="-452.135" type="story_journal.season_3.flashpoint.rock_collector.10.17" GUID="e7gDEz5n/Uu6ebg2YUYt8w==" iconFile="Img/Icons/Coin.png" color="ff00ff00"/>
-		<!--  18 --><POI MapID="1195" xpos="421.377"  ypos="395.898" zpos="-396.952" type="story_journal.season_3.flashpoint.rock_collector.10.18" GUID="hQc+7wIrJ0aToMMqyOifsQ==" iconFile="Img/Icons/Coin.png" color="ffffff00" heightOffset="0"/>
-					<POI MapID="1195" xpos="407.33"   ypos="390.936" zpos="-417.356" type="story_journal.season_3.flashpoint.rock_collector.10.18" GUID="CJZvHV6alk2raVNFVh6JRw==" iconFile="Img/Icons/Interaction.png" minSize="20" maxSize="24" fadeNear="1500" fadeFar="1800" mapVisibility="0" miniMapVisibility="0"/>
-					<POI MapID="1195" xpos="276.544"  ypos="381.685" zpos="-368.536" type="story_journal.season_3.flashpoint.rock_collector.10.18" GUID="FZYclBqAxUaEJJR+fKTE/Q==" iconFile="Img/Gliders/Glider.png" minSize="24" maxSize="28" fadeNear="1500" fadeFar="1800" mapVisibility="0" miniMapVisibility="0" heightOffset="0"/>
-					<POI MapID="1195" xpos="313.6"    ypos="349.141" zpos="-317.417" type="story_journal.season_3.flashpoint.rock_collector.10.18" GUID="xAByW/LUNkK58Ka3RU1vxQ==" iconFile="Img/Skills/OakheartsReach.png" fadeNear="1500" fadeFar="1800" mapVisibility="0" miniMapVisibility="0" heightOffset="0"/>
-					<POI MapID="1195" xpos="331.819"  ypos="350.25"  zpos="-339.431" type="story_journal.season_3.flashpoint.rock_collector.10.18" GUID="OuRUHZJRSEWao9L/0t6ABQ==" fadeNear="1500" fadeFar="1800" mapVisibility="0" miniMapVisibility="0" triggerRange="10"/>
-		<!--  19 --><POI MapID="1195" xpos="264.055"  ypos="183.043" zpos="-583.97"  type="story_journal.season_3.flashpoint.rock_collector.10.19" GUID="BZ0fC/IAuU6YdiD7ccCFgA==" iconFile="Img/Icons/Coin.png" color="ff00ff00" heightOffset="0"/>
-					<POI MapID="1195" xpos="272.68"   ypos="187.929" zpos="-540.1"   type="story_journal.season_3.flashpoint.rock_collector.10.19" GUID="B7F5nBLh3ka4J8bk2mwUsw==" fadeNear="1500" fadeFar="1800" mapVisibility="0" miniMapVisibility="0" triggerRange="15"/>
-		<!--  20 --><POI MapID="1195" xpos="-212.611" ypos="416.179" zpos="-288.218" type="story_journal.season_3.flashpoint.rock_collector.10.20" GUID="cdjMHwuoL0yrIFrKR75CCQ==" iconFile="Img/Icons/Coin.png" color="ffffff00" heightOffset="0"/>
-					<POI MapID="1195" xpos="-224.004" ypos="417.11"  zpos="-288.847" type="story_journal.season_3.flashpoint.rock_collector.10.20" GUID="5oO20ZXGhUanPshznuHCvg==" iconFile="Img/Gliders/Glider.png" minSize="24" maxSize="28" fadeNear="1500" fadeFar="1800" mapVisibility="0" miniMapVisibility="0" heightOffset="0"/>
-					<POI MapID="1195" xpos="-213.001" ypos="360.464" zpos="-363.124" type="story_journal.season_3.flashpoint.rock_collector.10.20" GUID="MeXlNj3Z0UuQJUIhx1QTXA==" fadeNear="1500" fadeFar="1800" mapVisibility="0" miniMapVisibility="0"/>
-		<!--  21 --><POI MapID="1195" xpos="-460.66"  ypos="372"     zpos="-403.82"  type="story_journal.season_3.flashpoint.rock_collector.20.21" GUID="jidPqeiNVUW2qR9qAp7VEQ==" iconFile="Img/Icons/Coin.png" color="ffffff00" triggerRange="15"/>
-		<!--  22 --><POI MapID="1195" xpos="-463.797" ypos="394.422" zpos="-263.812" type="story_journal.season_3.flashpoint.rock_collector.20.22" GUID="VuVcNbolN0mbVRWGXiUjlQ==" iconFile="Img/Icons/Coin.png" color="ffffff00" triggerRange="5"/>
-		<!--  23 --><POI MapID="1195" xpos="-576.334" ypos="259.716" zpos="-82.7173" type="story_journal.season_3.flashpoint.rock_collector.20.23" GUID="2LDZGlF340yq/c6BhwJYyw==" iconFile="Img/Icons/Coin.png" color="ffffff00" triggerRange="5"/>
-		<!--  24 --><POI MapID="1195" xpos="-378.742" ypos="168.06"  zpos="-477.352" type="story_journal.season_3.flashpoint.rock_collector.20.24" GUID="0H26X3bF4kWjq6ohSKteLA==" iconFile="Img/Icons/Coin.png" color="ff00ff00" triggerRange="15"/>
-		<!--  25 --><POI MapID="1195" xpos="-485.165" ypos="225.806" zpos="-225.378" type="story_journal.season_3.flashpoint.rock_collector.20.25" GUID="3W9EXranbUGk+r7M9nX+/A==" iconFile="Img/Icons/Coin.png" color="ffffff00" heightOffset="0"/>
-		<!--  26 --><POI MapID="1195" xpos="-124.561" ypos="238.67"  zpos="79.0258"  type="story_journal.season_3.flashpoint.rock_collector.20.26" GUID="vAgqziSooUuPfO/d8MQK6g==" iconFile="Img/Icons/Coin.png" color="ffffff00"/>
-		<!--  27 --><POI MapID="1195" xpos="92.7073"  ypos="229.641" zpos="257.254"  type="story_journal.season_3.flashpoint.rock_collector.20.27" GUID="/VaiYvm0RE2r7sSyNynRvA==" iconFile="Img/Icons/Coin.png" color="ffffff00"/>
-		<!--  28 --><POI MapID="1195" xpos="105.392"  ypos="230.147" zpos="12.4482"  type="story_journal.season_3.flashpoint.rock_collector.20.28" GUID="jbQxLwCF6kOmn4FhCOJqKg==" iconFile="Img/Icons/Coin.png" color="ffffff00"/>
-		<!--  29 --><POI MapID="1195" xpos="-170.75"  ypos="247.356" zpos="-54.4779" type="story_journal.season_3.flashpoint.rock_collector.20.29" GUID="NB5/h3tM4EyXVKjPeO4bgg==" iconFile="Img/Icons/Coin.png" color="ffffff00"/>
-		<!--  30 --><POI MapID="1195" xpos="164.701"  ypos="496.709" zpos="-299.042" type="story_journal.season_3.flashpoint.rock_collector.20.30" GUID="MS+FzfuU4EW3cmg6dMTKjQ==" iconFile="Img/Icons/Coin.png" color="ffff0000" heightOffset="0"/>
-					<POI MapID="1195" xpos="89.6322"  ypos="467.439" zpos="-322.959" type="story_journal.season_3.flashpoint.rock_collector.20.30" GUID="PU5m/BkzVEu3kzIX04WHyg==" fadeNear="1500" fadeFar="1800" mapVisibility="0" miniMapVisibility="0"/>
-		<!--  31 --><POI MapID="1195" xpos="56.6542"  ypos="480.592" zpos="-278.356" type="story_journal.season_3.flashpoint.rock_collector.30.31" GUID="7pAYoE02n0CM9uZHBbceWw==" iconFile="Img/Icons/Coin.png" color="ffff0000"/>
-		<!--  32 --><POI MapID="1195" xpos="92.8858"  ypos="444.941" zpos="-298.566" type="story_journal.season_3.flashpoint.rock_collector.30.32" GUID="BY1lyEp5v0+gChcAgkn7Dw==" iconFile="Img/Icons/Coin.png" color="ffff0000"/>
-		<!--  33 --><POI MapID="1195" xpos="146.396"  ypos="431.274" zpos="-184.016" type="story_journal.season_3.flashpoint.rock_collector.30.33" GUID="ylv4ZFche0CbxVpei9eDvw==" iconFile="Img/Icons/Coin.png" color="ffffff00" heightOffset="0"/>
-					<POI MapID="1195" xpos="191.945"  ypos="415.092" zpos="-193.878" type="story_journal.season_3.flashpoint.rock_collector.30.33" GUID="kXaGHkqudUqHvqu4WeIvzw==" fadeNear="1500" fadeFar="1800" mapVisibility="0" miniMapVisibility="0"/>
-		<!--  34 --><POI MapID="1195" xpos="441.134"  ypos="548.661" zpos="-94.5188" type="story_journal.season_3.flashpoint.rock_collector.30.34" GUID="YdcS3RRCeUGPvYIIqQawUw==" iconFile="Img/Icons/Coin.png" color="ffff0000"/>
-		<!--  35 --><POI MapID="1195" xpos="164.762"  ypos="657.507" zpos="69.3889"  type="story_journal.season_3.flashpoint.rock_collector.30.35" GUID="ZGRwcNtt0kCyWvGPstp3og==" iconFile="Img/Icons/Coin.png" color="ffff0000" triggerRange="5"/>
-		<!--  36 --><POI MapID="1195" xpos="288.135"  ypos="410.24"  zpos="35.8282"  type="story_journal.season_3.flashpoint.rock_collector.30.36" GUID="i4nLdmsXJECbj6sRDl1+YQ==" iconFile="Img/Icons/Coin.png" color="ffffff00"/>
-		<!--  37 --><POI MapID="1195" xpos="315.752"  ypos="490.873" zpos="47.3558"  type="story_journal.season_3.flashpoint.rock_collector.30.37" GUID="/jHTkkagTkCAUbs8kk5jvA==" iconFile="Img/Icons/Coin.png" color="ffff0000" heightOffset="0"/>
-					<POI MapID="1195" xpos="308.182"  ypos="494.952" zpos="63.3917"  type="story_journal.season_3.flashpoint.rock_collector.30.37" GUID="W/oERjoqikyetyzbo9gbKA==" iconFile="Img/Icons/Interaction.png" minSize="20" maxSize="24" fadeNear="1500" fadeFar="1800" mapVisibility="0" miniMapVisibility="0"/>
-					<POI MapID="1195" xpos="245.679"  ypos="510.312" zpos="76.8839"  type="story_journal.season_3.flashpoint.rock_collector.30.37" GUID="d79hWWr5ZE21Mb6Cz2Z79Q==" iconFile="Img/Icons/Interaction.png" minSize="20" maxSize="24" fadeNear="1500" fadeFar="1800" mapVisibility="0" miniMapVisibility="0"/>
-					<POI MapID="1195" xpos="-16.3003" ypos="500.931" zpos="226.624"  type="story_journal.season_3.flashpoint.rock_collector.30.37" GUID="8P+j43S2n0eQIO8NWIE7tg==" fadeNear="1500" fadeFar="1800" mapVisibility="0" miniMapVisibility="0"/>
-		<!--  38 --><POI MapID="1195" xpos="239.91"   ypos="574.69"  zpos="140.51"   type="story_journal.season_3.flashpoint.rock_collector.30.38" GUID="J/zRoyJ19kK2DRyxn2M68g==" iconFile="Img/Icons/Coin.png" color="ffff0000"/>
-		<!--  39 --><POI MapID="1195" xpos="118.334"  ypos="653.612" zpos="52.6547"  type="story_journal.season_3.flashpoint.rock_collector.30.39" GUID="KKa40YVuK0uzcMsJ5rUUsg==" iconFile="Img/Icons/Coin.png" color="ffff0000" heightOffset="0"/>
-					<POI MapID="1195" xpos="64.2602"  ypos="654.015" zpos="145.093"  type="story_journal.season_3.flashpoint.rock_collector.30.39" GUID="TloWXuUd80uYHZVufaOBZA==" fadeNear="1500" fadeFar="1800" mapVisibility="0" miniMapVisibility="0"/>
-		<!--  40 --><POI MapID="1195" xpos="175.998"  ypos="419.35"  zpos="-35.1488" type="story_journal.season_3.flashpoint.rock_collector.30.40" GUID="wuMx+WxXo0eYD/P8N5P6lA==" iconFile="Img/Icons/Coin.png" color="ffffff00"/>
-		<!--  41 --><POI MapID="1195" xpos="230.316"  ypos="450.838" zpos="-186.607" type="story_journal.season_3.flashpoint.rock_collector.40.41" GUID="/+9RwZJRCUycAgqwC6YhNw==" iconFile="Img/Icons/Coin.png" color="ffff0000"/>
-		<!--  42 --><POI MapID="1195" xpos="14.4944"  ypos="624.073" zpos="93.5465"  type="story_journal.season_3.flashpoint.rock_collector.40.42" GUID="IEjJWHrKG0WCaKafX4ekjQ==" iconFile="Img/Icons/Coin.png" color="ffff0000"/>
-		<!--  43 --><POI MapID="1195" xpos="-213.014" ypos="625.179" zpos="97.748"   type="story_journal.season_3.flashpoint.rock_collector.40.43" GUID="KhNh7UfGfEqm0oC4OaOPHA==" iconFile="Img/Icons/Coin.png" color="ffff0000"/>
-		<!--  44 --><POI MapID="1195" xpos="-163.616" ypos="591.286" zpos="177.208"  type="story_journal.season_3.flashpoint.rock_collector.40.44" GUID="UoNDtwMrTUW5Tr/LD1LMPQ==" iconFile="Img/Icons/Coin.png" color="ffff0000"/>
-		<!--  45 --><POI MapID="1195" xpos="61.1517"  ypos="431.804" zpos="-125.839" type="story_journal.season_3.flashpoint.rock_collector.40.45" GUID="fLLoIm63IEu8V4LArzlq2Q==" iconFile="Img/Icons/Coin.png" color="ffffff00"/>
-		<!--  46 --><POI MapID="1195" xpos="47.0113"  ypos="389.063" zpos="-67.6969" type="story_journal.season_3.flashpoint.rock_collector.40.46" GUID="chROwqlZOUuXL5KA0LIkgw==" iconFile="Img/Icons/Coin.png" color="ffffff00" heightOffset="0"/>
-					<POI MapID="1195" xpos="42.5779"  ypos="388.337" zpos="-27.0248" type="story_journal.season_3.flashpoint.rock_collector.40.46" GUID="vZgOWS4+v0m3pgTXUJs4IQ==" fadeNear="1500" fadeFar="1800" mapVisibility="0" miniMapVisibility="0"/>
-		<!--  47 --><POI MapID="1195" xpos="-96.752"  ypos="412.71"  zpos="-72.5818" type="story_journal.season_3.flashpoint.rock_collector.40.47" GUID="jn5MJldd3ky65M4FWhWp9w==" iconFile="Img/Icons/Coin.png" color="ffffff00" heightOffset="0"/>
-					<POI MapID="1195" xpos="-93.413"  ypos="411.636" zpos="-60.7781" type="story_journal.season_3.flashpoint.rock_collector.40.47" GUID="PpCT/FNeQkagD+p+cKMKIQ==" iconFile="Img/Icons/Interaction.png" minSize="20" maxSize="24" fadeNear="1500" fadeFar="1800" mapVisibility="0" miniMapVisibility="0"/>
-					<POI MapID="1195" xpos="-56.1302" ypos="457.653" zpos="-37.7039" type="story_journal.season_3.flashpoint.rock_collector.40.47" GUID="Ep52d/N67kKd9dMN/oVrdw==" fadeNear="2000" fadeFar="3000" mapVisibility="0" miniMapVisibility="0" triggerRange="15"/>
-		<!--  48 --><POI MapID="1195" xpos="-122.275" ypos="497.866" zpos="241.529"  type="story_journal.season_3.flashpoint.rock_collector.40.48" GUID="kE+7Zv1A2EOmTzUuBf9O6A==" iconFile="Img/Icons/Coin.png" color="ffff0000"/>
-		<!--  49 --><POI MapID="1195" xpos="-276.106" ypos="513.66"  zpos="-88.1807" type="story_journal.season_3.flashpoint.rock_collector.40.49" GUID="v0UYKlBId02Pr4CIzwHGtQ==" iconFile="Img/Icons/Coin.png" color="ffff0000" heightOffset="0"/>
-					<POI MapID="1195" xpos="-284.792" ypos="514.06"  zpos="-87.84"   type="story_journal.season_3.flashpoint.rock_collector.40.49" GUID="7UjWipjyrE6P80Er5EZ44g==" iconFile="Img/Icons/Interaction.png" minSize="20" maxSize="24" fadeNear="1500" fadeFar="1800" mapVisibility="0" miniMapVisibility="0"/>
-		<!--  50 --><POI MapID="1195" xpos="-186.77"  ypos="417.582" zpos="-252.49"  type="story_journal.season_3.flashpoint.rock_collector.40.50" GUID="DdUKnBkFtk+N6ZmZ5dxQCA==" iconFile="Img/Icons/Coin.png" color="ffffff00"/>
-		<!--  51 --><POI MapID="1195" xpos="-288.136" ypos="464.302" zpos="-387.376" type="story_journal.season_3.flashpoint.rock_collector.50.51" GUID="HICLtOmz9UKi9uu/QVf0/Q==" iconFile="Img/Icons/Coin.png" color="ffff0000" triggerRange="5"/>
-		<!--  52 --><POI MapID="1195" xpos="-448.654" ypos="449.514" zpos="-287.205" type="story_journal.season_3.flashpoint.rock_collector.50.52" GUID="TAETeMBoh0i84tuG5cIwDQ==" iconFile="Img/Icons/Coin.png" color="ffff0000"/>
-		<!--  53 --><POI MapID="1195" xpos="-419.586" ypos="469.33"  zpos="-379.69"  type="story_journal.season_3.flashpoint.rock_collector.50.53" GUID="tHWfF6sIf06vEkun+Q3WBQ==" iconFile="Img/Icons/Coin.png" color="ffff0000"/>
-		<!--  54 --><POI MapID="1195" xpos="-304.308" ypos="501.2"   zpos="-169.809" type="story_journal.season_3.flashpoint.rock_collector.50.54" GUID="LGysYPGGmke4NwkDulyCvw==" iconFile="Img/Icons/Coin.png" color="ffff0000" heightOffset="0"/>
-					<POI MapID="1195" xpos="-308.367" ypos="499.813" zpos="-177.307" type="story_journal.season_3.flashpoint.rock_collector.50.54" GUID="ORS3PmVGs02oCuMNS0OMcw==" iconFile="Img/Icons/Interaction.png" minSize="20" maxSize="24" fadeNear="1500" fadeFar="1800" mapVisibility="0" miniMapVisibility="0"/>
-		<!--  55 --><POI MapID="1195" xpos="-366.327" ypos="448.685" zpos="-191.305" type="story_journal.season_3.flashpoint.rock_collector.50.55" GUID="sNpbnp8G3k+RhUDhlnSERA==" iconFile="Img/Icons/Coin.png" color="ffff0000"/>
-		<!--  56 --><POI MapID="1195" xpos="-513.508" ypos="459.457" zpos="-290.57"  type="story_journal.season_3.flashpoint.rock_collector.50.56" GUID="yyKr30RZd0iU3T7kVEYWVA==" iconFile="Img/Icons/Coin.png" color="ffff0000" heightOffset="0"/>
-		<!--  57 --><POI MapID="1195" xpos="-104.257" ypos="396.711" zpos="-595.7"   type="story_journal.season_3.flashpoint.rock_collector.50.57" GUID="0tXxqifIEkaJRRaaxNL+KQ==" iconFile="Img/Icons/Coin.png" color="ffffff00" heightOffset="0"/>
-					<POI MapID="1195" xpos="-120.88"  ypos="383.636" zpos="-633.751" type="story_journal.season_3.flashpoint.rock_collector.50.57" GUID="xST+X6X40k+q5YfF68i5Ug==" iconFile="Img/Icons/Interaction.png" minSize="20" maxSize="24" fadeNear="1500" fadeFar="1800" mapVisibility="0" miniMapVisibility="0"/>
-		<!--  58 --><POI MapID="1195" xpos="-140.416" ypos="446.815" zpos="-734.133" type="story_journal.season_3.flashpoint.rock_collector.50.58" GUID="rknYzYFeDUuS+sUW5BsdLw==" iconFile="Img/Icons/Coin.png" color="ffff0000"/>
-		<!--  59 --><POI MapID="1195" xpos="-227.116" ypos="293.937" zpos="-681.568" type="story_journal.season_3.flashpoint.rock_collector.50.59" GUID="zOm4CLiLMkiBq3mXO3W1mQ==" iconFile="Img/Icons/Coin.png" color="ffffff00"/>
-		<!--  60 --><POI MapID="1195" xpos="-239.184" ypos="437.866" zpos="-626.322" type="story_journal.season_3.flashpoint.rock_collector.50.60" GUID="rLAm15rs1k+qov8wX6hFTg==" iconFile="Img/Icons/Coin.png" color="ffff0000"/>
-
+		<!-- 3 -->
+		<Trail type="story_journal.season_3.flashpoint.rock_collector.1.3" GUID="ANCAooya4U2HDOb6cU5m6g==" trailData="Data/StoryJournal/Season3/Flashpoint/RockCollector_3.trl" texture="Data/Arrow.png" color="ffff8000" alpha="0.8" fadeNear="1500" fadeFar="2500" animSpeed="0.8" mapDisplaySize="15" />
+		<!-- 4 -->
+		<Trail type="story_journal.season_3.flashpoint.rock_collector.1.4" GUID="iWx0IsB3GkWGN3VJ2oOHBg==" trailData="Data/StoryJournal/Season3/Flashpoint/RockCollector_4.trl" texture="Data/Arrow.png" color="ffff8000" alpha="0.8" fadeNear="1500" fadeFar="2500" animSpeed="0.8" mapDisplaySize="15" />
+		<!-- 12 -->
+		<Trail type="story_journal.season_3.flashpoint.rock_collector.10.12" GUID="PdkpdDyUuUqSxAcEpn2v3A==" trailData="Data/StoryJournal/Season3/Flashpoint/RockCollector_12.trl" texture="Data/Arrow.png" color="ffff8000" alpha="0.8" fadeNear="1500" fadeFar="2500" animSpeed="0.8" mapDisplaySize="15" />
+		<!-- 13 -->
+		<Trail type="story_journal.season_3.flashpoint.rock_collector.10.13" GUID="u7/VR00YCEGFll8hToWIwA==" trailData="Data/StoryJournal/Season3/Flashpoint/RockCollector_13.trl" texture="Data/Arrow.png" color="ffff8000" alpha="0.8" fadeNear="1500" fadeFar="2500" animSpeed="0.8" mapDisplaySize="15" />
+		<!-- 14 -->
+		<Trail type="story_journal.season_3.flashpoint.rock_collector.10.14" GUID="aj2TpTns1Ummk2wGRK9r3g==" trailData="Data/StoryJournal/Season3/Flashpoint/RockCollector_14.trl" texture="Data/Arrow.png" color="ffff8000" alpha="0.8" fadeNear="1500" fadeFar="2500" animSpeed="0.8" mapDisplaySize="15" />
+		<!-- 18 -->
+		<Trail type="story_journal.season_3.flashpoint.rock_collector.10.18" GUID="rU8CMSGYdE+qA/Ay+Y0ACQ==" trailData="Data/StoryJournal/Season3/Flashpoint/RockCollector_18.trl" texture="Data/Arrow.png" color="ffff8000" alpha="0.8" fadeNear="1500" fadeFar="2500" animSpeed="0.8" mapDisplaySize="15" />
+		<!-- 19 -->
+		<Trail type="story_journal.season_3.flashpoint.rock_collector.10.19" GUID="PMZfVbTpekWgu9D8DaFU6w==" trailData="Data/StoryJournal/Season3/Flashpoint/RockCollector_19.trl" texture="Data/Arrow.png" color="ffff8000" alpha="0.8" fadeNear="1500" fadeFar="2500" animSpeed="0.8" mapDisplaySize="15" />
+		<!-- 20 -->
+		<Trail type="story_journal.season_3.flashpoint.rock_collector.10.20" GUID="mryB/OUGMUG8ZUNttRWvLA==" trailData="Data/StoryJournal/Season3/Flashpoint/RockCollector_20.trl" texture="Data/Arrow.png" color="ffff8000" alpha="0.8" fadeNear="1500" fadeFar="2500" animSpeed="0.8" mapDisplaySize="15" />
+		<!-- 25 -->
+		<Trail type="story_journal.season_3.flashpoint.rock_collector.20.25" GUID="a1+a6Qk08keL+N38W1cu6Q==" trailData="Data/StoryJournal/Season3/Flashpoint/RockCollector_25.trl" texture="Data/Arrow.png" color="ffff8000" alpha="0.8" fadeNear="1500" fadeFar="2500" animSpeed="0.8" mapDisplaySize="15" />
+		<!-- 30 -->
+		<Trail type="story_journal.season_3.flashpoint.rock_collector.20.30" GUID="iszxMhQTmEirHPRm9Hizug==" trailData="Data/StoryJournal/Season3/Flashpoint/RockCollector_30.trl" texture="Data/Arrow.png" color="ffff8000" alpha="0.8" fadeNear="1500" fadeFar="2500" animSpeed="0.8" mapDisplaySize="15" />
+		<!-- 33 -->
+		<Trail type="story_journal.season_3.flashpoint.rock_collector.30.33" GUID="lZ3bRtaaH0WC14OCZsmhXw==" trailData="Data/StoryJournal/Season3/Flashpoint/RockCollector_33.trl" texture="Data/Arrow.png" color="ffff8000" alpha="0.8" fadeNear="1500" fadeFar="2500" animSpeed="0.8" mapDisplaySize="15" />
+		<!-- 37 -->
+		<Trail type="story_journal.season_3.flashpoint.rock_collector.30.37" GUID="EQMs6a/w6E++7lT2LJnAnA==" trailData="Data/StoryJournal/Season3/Flashpoint/RockCollector_37.trl" texture="Data/Arrow.png" color="ffff8000" alpha="0.8" fadeNear="1500" fadeFar="2500" animSpeed="0.8" mapDisplaySize="15" />
+		<!-- 39 -->
+		<Trail type="story_journal.season_3.flashpoint.rock_collector.30.39" GUID="AVr+Yr4K4UmgNyG9V3byBA==" trailData="Data/StoryJournal/Season3/Flashpoint/RockCollector_39.trl" texture="Data/Arrow.png" color="ffff8000" alpha="0.8" fadeNear="1500" fadeFar="2500" animSpeed="0.8" mapDisplaySize="15" />
+		<!-- 46 -->
+		<Trail type="story_journal.season_3.flashpoint.rock_collector.40.46" GUID="YdpjbCqyx0q0nFYJz4MpCw==" trailData="Data/StoryJournal/Season3/Flashpoint/RockCollector_46.trl" texture="Data/Arrow.png" color="ffff8000" alpha="0.8" fadeNear="1500" fadeFar="2500" animSpeed="0.8" mapDisplaySize="15" />
+		<!-- 47 -->
+		<Trail type="story_journal.season_3.flashpoint.rock_collector.40.47" GUID="8MT/i6RyTEOwRQv2kPC7Qg==" trailData="Data/StoryJournal/Season3/Flashpoint/RockCollector_47.trl" texture="Data/Arrow.png" color="ffff8000" alpha="0.8" fadeNear="1500" fadeFar="2500" animSpeed="0.8" mapDisplaySize="15" />
+		<!-- 49 -->
+		<Trail type="story_journal.season_3.flashpoint.rock_collector.40.49" GUID="YUse3kA8jEeipHIFJnWJkQ==" trailData="Data/StoryJournal/Season3/Flashpoint/RockCollector_49.trl" texture="Data/Arrow.png" color="ffff8000" alpha="0.8" fadeNear="1500" fadeFar="2500" animSpeed="0.8" mapDisplaySize="15" />
+		<!-- 54 -->
+		<Trail type="story_journal.season_3.flashpoint.rock_collector.50.54" GUID="2hXvMkMMV0KfkzZOlc3BFQ==" trailData="Data/StoryJournal/Season3/Flashpoint/RockCollector_54.trl" texture="Data/Arrow.png" color="ffff8000" alpha="0.8" fadeNear="1500" fadeFar="2500" animSpeed="0.8" mapDisplaySize="15" />
+		<!-- 56 -->
+		<Trail type="story_journal.season_3.flashpoint.rock_collector.50.56" GUID="40C7Ib+lekyFAkb5ma2x0w==" trailData="Data/StoryJournal/Season3/Flashpoint/RockCollector_56.trl" texture="Data/Arrow.png" color="ffff8000" alpha="0.8" fadeNear="1500" fadeFar="2500" animSpeed="0.8" mapDisplaySize="15" />
+		<!-- 57 -->
+		<Trail type="story_journal.season_3.flashpoint.rock_collector.50.57" GUID="73/utMIEtE2e2ZFiz/dhlg==" trailData="Data/StoryJournal/Season3/Flashpoint/RockCollector_57.trl" texture="Data/Arrow.png" color="ffff8000" alpha="0.8" fadeNear="1500" fadeFar="2500" animSpeed="0.8" mapDisplaySize="15" />
+		<!-- 1 -->
+		<POI MapID="1195" xpos="-399.615" ypos="60.482" zpos="-615.203" type="story_journal.season_3.flashpoint.rock_collector.1.1" GUID="6Kcsf8L4bE+MVkI5etohMA==" iconFile="Img/Icons/Coin.png" color="ff00ff00" />
+		<!-- 2 -->
+		<POI MapID="1195" xpos="-329.913" ypos="3.52954" zpos="-411.975" type="story_journal.season_3.flashpoint.rock_collector.1.2" GUID="CdqIj3KvykSAn5dW1WvNKw==" iconFile="Img/Icons/Coin.png" color="ff00ff00" />
+		<!-- 3 -->
+		<POI MapID="1195" xpos="-228.277" ypos="5.00282" zpos="-655.977" type="story_journal.season_3.flashpoint.rock_collector.1.3" GUID="xkmv1lEH3E601AOIitrhWQ==" iconFile="Img/Icons/Coin.png" color="ff00ff00" heightOffset="0" />
+		<POI MapID="1195" xpos="-265.448" ypos="10.751" zpos="-686.288" type="story_journal.season_3.flashpoint.rock_collector.1.3" GUID="J8NizOccuEyDJWfoEu7f+Q==" fadeNear="1500" fadeFar="1800" mapVisibility="0" miniMapVisibility="0" triggerRange="5" />
+		<!-- 4 -->
+		<POI MapID="1195" xpos="-205.063" ypos="4.84606" zpos="-671.545" type="story_journal.season_3.flashpoint.rock_collector.1.4" GUID="7ZtSbCfrI0OCkTc3o7OXHQ==" iconFile="Img/Icons/Coin.png" color="ff00ff00" heightOffset="0" />
+		<POI MapID="1195" xpos="-160.851" ypos="6.432" zpos="-718.967" type="story_journal.season_3.flashpoint.rock_collector.1.4" GUID="Qh36KZEmk0yT2gtCunlvYA==" iconFile="Img/Icons/Interaction.png" minSize="20" maxSize="24" fadeNear="1500" fadeFar="1800" mapVisibility="0" miniMapVisibility="0" />
+		<POI MapID="1195" xpos="10.1168" ypos="74.8651" zpos="-744.472" type="story_journal.season_3.flashpoint.rock_collector.1.4" GUID="tPd42ubAeEqtF1fMJl2y7g==" fadeNear="1500" fadeFar="1800" mapVisibility="0" miniMapVisibility="0" />
+		<!-- 5 -->
+		<POI MapID="1195" xpos="-352.51" ypos="24.5205" zpos="-578.368" type="story_journal.season_3.flashpoint.rock_collector.1.5" GUID="f+y81XTlL0iYzE8GLe9j0Q==" iconFile="Img/Icons/Coin.png" color="ff00ff00" />
+		<!-- 6 -->
+		<POI MapID="1195" xpos="-487.716" ypos="76.8543" zpos="-271.758" type="story_journal.season_3.flashpoint.rock_collector.1.6" GUID="99nwU0mXBkeECOmMF0lelw==" iconFile="Img/Icons/Coin.png" color="ff00ff00" />
+		<!-- 7 -->
+		<POI MapID="1195" xpos="-242.119" ypos="3.00911" zpos="-265.964" type="story_journal.season_3.flashpoint.rock_collector.1.7" GUID="IFVFnWj2y02f6eJ2pd+sdw==" iconFile="Img/Icons/Coin.png" color="ff00ff00" triggerRange="5" />
+		<!-- 8 -->
+		<POI MapID="1195" xpos="-163.686" ypos="35.3778" zpos="-48.2927" type="story_journal.season_3.flashpoint.rock_collector.1.8" GUID="upss/s5e0USxBduAA02NdQ==" iconFile="Img/Icons/Coin.png" color="ff00ff00" />
+		<!-- 9 -->
+		<POI MapID="1195" xpos="-460.698" ypos="11.5186" zpos="124.266" type="story_journal.season_3.flashpoint.rock_collector.1.9" GUID="NqeelIpbeUyiX/lVp+wAuw==" iconFile="Img/Icons/Coin.png" color="ff00ff00" />
+		<!-- 10 -->
+		<POI MapID="1195" xpos="-309.517" ypos="8.43905" zpos="-15.8377" type="story_journal.season_3.flashpoint.rock_collector.1.10" GUID="20jvJl4JWk+h2/rKSpFXxQ==" iconFile="Img/Icons/Coin.png" color="ff00ff00" />
+		<!-- 11 -->
+		<POI MapID="1195" xpos="200.836" ypos="51.2193" zpos="-49.5753" type="story_journal.season_3.flashpoint.rock_collector.10.11" GUID="42kgsw359k6j2gyboHvpPg==" iconFile="Img/Icons/Coin.png" color="ff00ff00" />
+		<!-- 12 -->
+		<POI MapID="1195" xpos="151.161" ypos="43.3442" zpos="131.862" type="story_journal.season_3.flashpoint.rock_collector.10.12" GUID="Kf+4xzRcv0+XUDq8OvjKkQ==" iconFile="Img/Icons/Coin.png" color="ff00ff00" heightOffset="0" />
+		<POI MapID="1195" xpos="171.375" ypos="43.2622" zpos="125.333" type="story_journal.season_3.flashpoint.rock_collector.10.12" GUID="XhDMmFaM4Uurr/GjgAK9HQ==" iconFile="Img/Icons/Interaction.png" minSize="20" maxSize="24" fadeNear="1500" fadeFar="1800" mapVisibility="0" miniMapVisibility="0" />
+		<POI MapID="1195" xpos="385.823" ypos="87.5664" zpos="178.776" type="story_journal.season_3.flashpoint.rock_collector.10.12" GUID="xJzyFbFsgU6n+TFhO8caUA==" fadeNear="1500" fadeFar="1800" mapVisibility="0" miniMapVisibility="0" />
+		<!-- 13 -->
+		<POI MapID="1195" xpos="139.24" ypos="176.286" zpos="-764.002" type="story_journal.season_3.flashpoint.rock_collector.10.13" GUID="czArTdNSU02Yznj2ahMqyQ==" iconFile="Img/Icons/Coin.png" color="ff00ff00" heightOffset="0" />
+		<POI MapID="1195" xpos="378.658" ypos="185.448" zpos="-834.54" type="story_journal.season_3.flashpoint.rock_collector.10.13" GUID="BGuIuakGPkG4HNVLnrvpbQ==" iconFile="Img/Icons/Interaction.png" minSize="20" maxSize="24" fadeNear="1500" fadeFar="1800" mapVisibility="0" miniMapVisibility="0" />
+		<POI MapID="1195" xpos="408.784" ypos="193.289" zpos="-869.624" type="story_journal.season_3.flashpoint.rock_collector.10.13" GUID="2HSrjyLqiUCpTlVaH44aYA==" iconFile="Img/Skills/OakheartsReach.png" fadeNear="1500" fadeFar="1800" mapVisibility="0" miniMapVisibility="0" heightOffset="0" />
+		<POI MapID="1195" xpos="421.491" ypos="210.609" zpos="-835.557" type="story_journal.season_3.flashpoint.rock_collector.10.13" GUID="Y51RApBrN0KxdVhMhLeOLw==" iconFile="Img/Skills/OakheartsReach.png" fadeNear="1500" fadeFar="1800" mapVisibility="0" miniMapVisibility="0" heightOffset="0" />
+		<POI MapID="1195" xpos="404.925" ypos="212.058" zpos="-808.327" type="story_journal.season_3.flashpoint.rock_collector.10.13" GUID="c1ej5jucTkuv+vQ1ynaWnQ==" fadeNear="1500" fadeFar="1800" mapVisibility="0" miniMapVisibility="0" />
+		<!-- 14 -->
+		<POI MapID="1195" xpos="343.579" ypos="197.27" zpos="-416.223" type="story_journal.season_3.flashpoint.rock_collector.10.14" GUID="kf8YpEMkcEmQs7xKxiGdRg==" iconFile="Img/Icons/Coin.png" color="ff00ff00" heightOffset="0" />
+		<POI MapID="1195" xpos="582.506" ypos="242.667" zpos="-260.631" type="story_journal.season_3.flashpoint.rock_collector.10.14" GUID="DlE5CoWONUWxmBACONPRmw==" iconFile="Img/Icons/Interaction.png" minSize="20" maxSize="24" fadeNear="1500" fadeFar="1800" mapVisibility="0" miniMapVisibility="0" />
+		<POI MapID="1195" xpos="605.664" ypos="312" zpos="-251.957" type="story_journal.season_3.flashpoint.rock_collector.10.14" GUID="kA1hE435bkSnpezQ9nHtBw==" fadeNear="1500" fadeFar="1800" mapVisibility="0" miniMapVisibility="0" triggerRange="10" />
+		<!-- 15 -->
+		<POI MapID="1195" xpos="-29.3325" ypos="163.251" zpos="-648.322" type="story_journal.season_3.flashpoint.rock_collector.10.15" GUID="BB5VMwzZj0+wN/td8/11AA==" iconFile="Img/Icons/Coin.png" color="ff00ff00" />
+		<!-- 16 -->
+		<POI MapID="1195" xpos="-210.819" ypos="106.74" zpos="-743.008" type="story_journal.season_3.flashpoint.rock_collector.10.16" GUID="fBFo0nEZAEW4BBX4b0y/dQ==" iconFile="Img/Icons/Coin.png" color="ff00ff00" />
+		<!-- 17 -->
+		<POI MapID="1195" xpos="291.233" ypos="193.769" zpos="-452.135" type="story_journal.season_3.flashpoint.rock_collector.10.17" GUID="e7gDEz5n/Uu6ebg2YUYt8w==" iconFile="Img/Icons/Coin.png" color="ff00ff00" />
+		<!-- 18 -->
+		<POI MapID="1195" xpos="421.377" ypos="395.898" zpos="-396.952" type="story_journal.season_3.flashpoint.rock_collector.10.18" GUID="hQc+7wIrJ0aToMMqyOifsQ==" iconFile="Img/Icons/Coin.png" color="ffffff00" heightOffset="0" />
+		<POI MapID="1195" xpos="407.33" ypos="390.936" zpos="-417.356" type="story_journal.season_3.flashpoint.rock_collector.10.18" GUID="CJZvHV6alk2raVNFVh6JRw==" iconFile="Img/Icons/Interaction.png" minSize="20" maxSize="24" fadeNear="1500" fadeFar="1800" mapVisibility="0" miniMapVisibility="0" />
+		<POI MapID="1195" xpos="276.544" ypos="381.685" zpos="-368.536" type="story_journal.season_3.flashpoint.rock_collector.10.18" GUID="FZYclBqAxUaEJJR+fKTE/Q==" iconFile="Img/Gliders/Glider.png" minSize="24" maxSize="28" fadeNear="1500" fadeFar="1800" mapVisibility="0" miniMapVisibility="0" heightOffset="0" />
+		<POI MapID="1195" xpos="313.6" ypos="349.141" zpos="-317.417" type="story_journal.season_3.flashpoint.rock_collector.10.18" GUID="xAByW/LUNkK58Ka3RU1vxQ==" iconFile="Img/Skills/OakheartsReach.png" fadeNear="1500" fadeFar="1800" mapVisibility="0" miniMapVisibility="0" heightOffset="0" />
+		<POI MapID="1195" xpos="331.819" ypos="350.25" zpos="-339.431" type="story_journal.season_3.flashpoint.rock_collector.10.18" GUID="OuRUHZJRSEWao9L/0t6ABQ==" fadeNear="1500" fadeFar="1800" mapVisibility="0" miniMapVisibility="0" triggerRange="10" />
+		<!-- 19 -->
+		<POI MapID="1195" xpos="264.055" ypos="183.043" zpos="-583.97" type="story_journal.season_3.flashpoint.rock_collector.10.19" GUID="BZ0fC/IAuU6YdiD7ccCFgA==" iconFile="Img/Icons/Coin.png" color="ff00ff00" heightOffset="0" />
+		<POI MapID="1195" xpos="272.68" ypos="187.929" zpos="-540.1" type="story_journal.season_3.flashpoint.rock_collector.10.19" GUID="B7F5nBLh3ka4J8bk2mwUsw==" fadeNear="1500" fadeFar="1800" mapVisibility="0" miniMapVisibility="0" triggerRange="15" />
+		<!-- 20 -->
+		<POI MapID="1195" xpos="-212.611" ypos="416.179" zpos="-288.218" type="story_journal.season_3.flashpoint.rock_collector.10.20" GUID="cdjMHwuoL0yrIFrKR75CCQ==" iconFile="Img/Icons/Coin.png" color="ffffff00" heightOffset="0" />
+		<POI MapID="1195" xpos="-224.004" ypos="417.11" zpos="-288.847" type="story_journal.season_3.flashpoint.rock_collector.10.20" GUID="5oO20ZXGhUanPshznuHCvg==" iconFile="Img/Gliders/Glider.png" minSize="24" maxSize="28" fadeNear="1500" fadeFar="1800" mapVisibility="0" miniMapVisibility="0" heightOffset="0" />
+		<POI MapID="1195" xpos="-213.001" ypos="360.464" zpos="-363.124" type="story_journal.season_3.flashpoint.rock_collector.10.20" GUID="MeXlNj3Z0UuQJUIhx1QTXA==" fadeNear="1500" fadeFar="1800" mapVisibility="0" miniMapVisibility="0" />
+		<!-- 21 -->
+		<POI MapID="1195" xpos="-460.66" ypos="372" zpos="-403.82" type="story_journal.season_3.flashpoint.rock_collector.20.21" GUID="jidPqeiNVUW2qR9qAp7VEQ==" iconFile="Img/Icons/Coin.png" color="ffffff00" triggerRange="15" />
+		<!-- 22 -->
+		<POI MapID="1195" xpos="-463.797" ypos="394.422" zpos="-263.812" type="story_journal.season_3.flashpoint.rock_collector.20.22" GUID="VuVcNbolN0mbVRWGXiUjlQ==" iconFile="Img/Icons/Coin.png" color="ffffff00" triggerRange="5" />
+		<!-- 23 -->
+		<POI MapID="1195" xpos="-576.334" ypos="259.716" zpos="-82.7173" type="story_journal.season_3.flashpoint.rock_collector.20.23" GUID="2LDZGlF340yq/c6BhwJYyw==" iconFile="Img/Icons/Coin.png" color="ffffff00" triggerRange="5" />
+		<!-- 24 -->
+		<POI MapID="1195" xpos="-378.742" ypos="168.06" zpos="-477.352" type="story_journal.season_3.flashpoint.rock_collector.20.24" GUID="0H26X3bF4kWjq6ohSKteLA==" iconFile="Img/Icons/Coin.png" color="ff00ff00" triggerRange="15" />
+		<!-- 25 -->
+		<POI MapID="1195" xpos="-485.165" ypos="225.806" zpos="-225.378" type="story_journal.season_3.flashpoint.rock_collector.20.25" GUID="3W9EXranbUGk+r7M9nX+/A==" iconFile="Img/Icons/Coin.png" color="ffffff00" heightOffset="0" />
+		<!-- 26 -->
+		<POI MapID="1195" xpos="-124.561" ypos="238.67" zpos="79.0258" type="story_journal.season_3.flashpoint.rock_collector.20.26" GUID="vAgqziSooUuPfO/d8MQK6g==" iconFile="Img/Icons/Coin.png" color="ffffff00" />
+		<!-- 27 -->
+		<POI MapID="1195" xpos="92.7073" ypos="229.641" zpos="257.254" type="story_journal.season_3.flashpoint.rock_collector.20.27" GUID="/VaiYvm0RE2r7sSyNynRvA==" iconFile="Img/Icons/Coin.png" color="ffffff00" />
+		<!-- 28 -->
+		<POI MapID="1195" xpos="105.392" ypos="230.147" zpos="12.4482" type="story_journal.season_3.flashpoint.rock_collector.20.28" GUID="jbQxLwCF6kOmn4FhCOJqKg==" iconFile="Img/Icons/Coin.png" color="ffffff00" />
+		<!-- 29 -->
+		<POI MapID="1195" xpos="-170.75" ypos="247.356" zpos="-54.4779" type="story_journal.season_3.flashpoint.rock_collector.20.29" GUID="NB5/h3tM4EyXVKjPeO4bgg==" iconFile="Img/Icons/Coin.png" color="ffffff00" />
+		<!-- 30 -->
+		<POI MapID="1195" xpos="164.701" ypos="496.709" zpos="-299.042" type="story_journal.season_3.flashpoint.rock_collector.20.30" GUID="MS+FzfuU4EW3cmg6dMTKjQ==" iconFile="Img/Icons/Coin.png" color="ffff0000" heightOffset="0" />
+		<POI MapID="1195" xpos="89.6322" ypos="467.439" zpos="-322.959" type="story_journal.season_3.flashpoint.rock_collector.20.30" GUID="PU5m/BkzVEu3kzIX04WHyg==" fadeNear="1500" fadeFar="1800" mapVisibility="0" miniMapVisibility="0" />
+		<!-- 31 -->
+		<POI MapID="1195" xpos="56.6542" ypos="480.592" zpos="-278.356" type="story_journal.season_3.flashpoint.rock_collector.30.31" GUID="7pAYoE02n0CM9uZHBbceWw==" iconFile="Img/Icons/Coin.png" color="ffff0000" />
+		<!-- 32 -->
+		<POI MapID="1195" xpos="92.8858" ypos="444.941" zpos="-298.566" type="story_journal.season_3.flashpoint.rock_collector.30.32" GUID="BY1lyEp5v0+gChcAgkn7Dw==" iconFile="Img/Icons/Coin.png" color="ffff0000" />
+		<!-- 33 -->
+		<POI MapID="1195" xpos="146.396" ypos="431.274" zpos="-184.016" type="story_journal.season_3.flashpoint.rock_collector.30.33" GUID="ylv4ZFche0CbxVpei9eDvw==" iconFile="Img/Icons/Coin.png" color="ffffff00" heightOffset="0" />
+		<POI MapID="1195" xpos="191.945" ypos="415.092" zpos="-193.878" type="story_journal.season_3.flashpoint.rock_collector.30.33" GUID="kXaGHkqudUqHvqu4WeIvzw==" fadeNear="1500" fadeFar="1800" mapVisibility="0" miniMapVisibility="0" />
+		<!-- 34 -->
+		<POI MapID="1195" xpos="441.134" ypos="548.661" zpos="-94.5188" type="story_journal.season_3.flashpoint.rock_collector.30.34" GUID="YdcS3RRCeUGPvYIIqQawUw==" iconFile="Img/Icons/Coin.png" color="ffff0000" />
+		<!-- 35 -->
+		<POI MapID="1195" xpos="164.762" ypos="657.507" zpos="69.3889" type="story_journal.season_3.flashpoint.rock_collector.30.35" GUID="ZGRwcNtt0kCyWvGPstp3og==" iconFile="Img/Icons/Coin.png" color="ffff0000" triggerRange="5" />
+		<!-- 36 -->
+		<POI MapID="1195" xpos="288.135" ypos="410.24" zpos="35.8282" type="story_journal.season_3.flashpoint.rock_collector.30.36" GUID="i4nLdmsXJECbj6sRDl1+YQ==" iconFile="Img/Icons/Coin.png" color="ffffff00" />
+		<!-- 37 -->
+		<POI MapID="1195" xpos="315.752" ypos="490.873" zpos="47.3558" type="story_journal.season_3.flashpoint.rock_collector.30.37" GUID="/jHTkkagTkCAUbs8kk5jvA==" iconFile="Img/Icons/Coin.png" color="ffff0000" heightOffset="0" />
+		<POI MapID="1195" xpos="308.182" ypos="494.952" zpos="63.3917" type="story_journal.season_3.flashpoint.rock_collector.30.37" GUID="W/oERjoqikyetyzbo9gbKA==" iconFile="Img/Icons/Interaction.png" minSize="20" maxSize="24" fadeNear="1500" fadeFar="1800" mapVisibility="0" miniMapVisibility="0" />
+		<POI MapID="1195" xpos="245.679" ypos="510.312" zpos="76.8839" type="story_journal.season_3.flashpoint.rock_collector.30.37" GUID="d79hWWr5ZE21Mb6Cz2Z79Q==" iconFile="Img/Icons/Interaction.png" minSize="20" maxSize="24" fadeNear="1500" fadeFar="1800" mapVisibility="0" miniMapVisibility="0" />
+		<POI MapID="1195" xpos="-16.3003" ypos="500.931" zpos="226.624" type="story_journal.season_3.flashpoint.rock_collector.30.37" GUID="8P+j43S2n0eQIO8NWIE7tg==" fadeNear="1500" fadeFar="1800" mapVisibility="0" miniMapVisibility="0" />
+		<!-- 38 -->
+		<POI MapID="1195" xpos="239.91" ypos="574.69" zpos="140.51" type="story_journal.season_3.flashpoint.rock_collector.30.38" GUID="J/zRoyJ19kK2DRyxn2M68g==" iconFile="Img/Icons/Coin.png" color="ffff0000" />
+		<!-- 39 -->
+		<POI MapID="1195" xpos="118.334" ypos="653.612" zpos="52.6547" type="story_journal.season_3.flashpoint.rock_collector.30.39" GUID="KKa40YVuK0uzcMsJ5rUUsg==" iconFile="Img/Icons/Coin.png" color="ffff0000" heightOffset="0" />
+		<POI MapID="1195" xpos="64.2602" ypos="654.015" zpos="145.093" type="story_journal.season_3.flashpoint.rock_collector.30.39" GUID="TloWXuUd80uYHZVufaOBZA==" fadeNear="1500" fadeFar="1800" mapVisibility="0" miniMapVisibility="0" />
+		<!-- 40 -->
+		<POI MapID="1195" xpos="175.998" ypos="419.35" zpos="-35.1488" type="story_journal.season_3.flashpoint.rock_collector.30.40" GUID="wuMx+WxXo0eYD/P8N5P6lA==" iconFile="Img/Icons/Coin.png" color="ffffff00" />
+		<!-- 41 -->
+		<POI MapID="1195" xpos="230.316" ypos="450.838" zpos="-186.607" type="story_journal.season_3.flashpoint.rock_collector.40.41" GUID="/+9RwZJRCUycAgqwC6YhNw==" iconFile="Img/Icons/Coin.png" color="ffff0000" />
+		<!-- 42 -->
+		<POI MapID="1195" xpos="14.4944" ypos="624.073" zpos="93.5465" type="story_journal.season_3.flashpoint.rock_collector.40.42" GUID="IEjJWHrKG0WCaKafX4ekjQ==" iconFile="Img/Icons/Coin.png" color="ffff0000" />
+		<!-- 43 -->
+		<POI MapID="1195" xpos="-213.014" ypos="625.179" zpos="97.748" type="story_journal.season_3.flashpoint.rock_collector.40.43" GUID="KhNh7UfGfEqm0oC4OaOPHA==" iconFile="Img/Icons/Coin.png" color="ffff0000" />
+		<!-- 44 -->
+		<POI MapID="1195" xpos="-163.616" ypos="591.286" zpos="177.208" type="story_journal.season_3.flashpoint.rock_collector.40.44" GUID="UoNDtwMrTUW5Tr/LD1LMPQ==" iconFile="Img/Icons/Coin.png" color="ffff0000" />
+		<!-- 45 -->
+		<POI MapID="1195" xpos="61.1517" ypos="431.804" zpos="-125.839" type="story_journal.season_3.flashpoint.rock_collector.40.45" GUID="fLLoIm63IEu8V4LArzlq2Q==" iconFile="Img/Icons/Coin.png" color="ffffff00" />
+		<!-- 46 -->
+		<POI MapID="1195" xpos="47.0113" ypos="389.063" zpos="-67.6969" type="story_journal.season_3.flashpoint.rock_collector.40.46" GUID="chROwqlZOUuXL5KA0LIkgw==" iconFile="Img/Icons/Coin.png" color="ffffff00" heightOffset="0" />
+		<POI MapID="1195" xpos="42.5779" ypos="388.337" zpos="-27.0248" type="story_journal.season_3.flashpoint.rock_collector.40.46" GUID="vZgOWS4+v0m3pgTXUJs4IQ==" fadeNear="1500" fadeFar="1800" mapVisibility="0" miniMapVisibility="0" />
+		<!-- 47 -->
+		<POI MapID="1195" xpos="-96.752" ypos="412.71" zpos="-72.5818" type="story_journal.season_3.flashpoint.rock_collector.40.47" GUID="jn5MJldd3ky65M4FWhWp9w==" iconFile="Img/Icons/Coin.png" color="ffffff00" heightOffset="0" />
+		<POI MapID="1195" xpos="-93.413" ypos="411.636" zpos="-60.7781" type="story_journal.season_3.flashpoint.rock_collector.40.47" GUID="PpCT/FNeQkagD+p+cKMKIQ==" iconFile="Img/Icons/Interaction.png" minSize="20" maxSize="24" fadeNear="1500" fadeFar="1800" mapVisibility="0" miniMapVisibility="0" />
+		<POI MapID="1195" xpos="-56.1302" ypos="457.653" zpos="-37.7039" type="story_journal.season_3.flashpoint.rock_collector.40.47" GUID="Ep52d/N67kKd9dMN/oVrdw==" fadeNear="2000" fadeFar="3000" mapVisibility="0" miniMapVisibility="0" triggerRange="15" />
+		<!-- 48 -->
+		<POI MapID="1195" xpos="-122.275" ypos="497.866" zpos="241.529" type="story_journal.season_3.flashpoint.rock_collector.40.48" GUID="kE+7Zv1A2EOmTzUuBf9O6A==" iconFile="Img/Icons/Coin.png" color="ffff0000" />
+		<!-- 49 -->
+		<POI MapID="1195" xpos="-276.106" ypos="513.66" zpos="-88.1807" type="story_journal.season_3.flashpoint.rock_collector.40.49" GUID="v0UYKlBId02Pr4CIzwHGtQ==" iconFile="Img/Icons/Coin.png" color="ffff0000" heightOffset="0" />
+		<POI MapID="1195" xpos="-284.792" ypos="514.06" zpos="-87.84" type="story_journal.season_3.flashpoint.rock_collector.40.49" GUID="7UjWipjyrE6P80Er5EZ44g==" iconFile="Img/Icons/Interaction.png" minSize="20" maxSize="24" fadeNear="1500" fadeFar="1800" mapVisibility="0" miniMapVisibility="0" />
+		<!-- 50 -->
+		<POI MapID="1195" xpos="-186.77" ypos="417.582" zpos="-252.49" type="story_journal.season_3.flashpoint.rock_collector.40.50" GUID="DdUKnBkFtk+N6ZmZ5dxQCA==" iconFile="Img/Icons/Coin.png" color="ffffff00" />
+		<!-- 51 -->
+		<POI MapID="1195" xpos="-288.136" ypos="464.302" zpos="-387.376" type="story_journal.season_3.flashpoint.rock_collector.50.51" GUID="HICLtOmz9UKi9uu/QVf0/Q==" iconFile="Img/Icons/Coin.png" color="ffff0000" triggerRange="5" />
+		<!-- 52 -->
+		<POI MapID="1195" xpos="-448.654" ypos="449.514" zpos="-287.205" type="story_journal.season_3.flashpoint.rock_collector.50.52" GUID="TAETeMBoh0i84tuG5cIwDQ==" iconFile="Img/Icons/Coin.png" color="ffff0000" />
+		<!-- 53 -->
+		<POI MapID="1195" xpos="-419.586" ypos="469.33" zpos="-379.69" type="story_journal.season_3.flashpoint.rock_collector.50.53" GUID="tHWfF6sIf06vEkun+Q3WBQ==" iconFile="Img/Icons/Coin.png" color="ffff0000" />
+		<!-- 54 -->
+		<POI MapID="1195" xpos="-304.308" ypos="501.2" zpos="-169.809" type="story_journal.season_3.flashpoint.rock_collector.50.54" GUID="LGysYPGGmke4NwkDulyCvw==" iconFile="Img/Icons/Coin.png" color="ffff0000" heightOffset="0" />
+		<POI MapID="1195" xpos="-308.367" ypos="499.813" zpos="-177.307" type="story_journal.season_3.flashpoint.rock_collector.50.54" GUID="ORS3PmVGs02oCuMNS0OMcw==" iconFile="Img/Icons/Interaction.png" minSize="20" maxSize="24" fadeNear="1500" fadeFar="1800" mapVisibility="0" miniMapVisibility="0" />
+		<!-- 55 -->
+		<POI MapID="1195" xpos="-366.327" ypos="448.685" zpos="-191.305" type="story_journal.season_3.flashpoint.rock_collector.50.55" GUID="sNpbnp8G3k+RhUDhlnSERA==" iconFile="Img/Icons/Coin.png" color="ffff0000" />
+		<!-- 56 -->
+		<POI MapID="1195" xpos="-513.508" ypos="459.457" zpos="-290.57" type="story_journal.season_3.flashpoint.rock_collector.50.56" GUID="yyKr30RZd0iU3T7kVEYWVA==" iconFile="Img/Icons/Coin.png" color="ffff0000" heightOffset="0" />
+		<!-- 57 -->
+		<POI MapID="1195" xpos="-104.257" ypos="396.711" zpos="-595.7" type="story_journal.season_3.flashpoint.rock_collector.50.57" GUID="0tXxqifIEkaJRRaaxNL+KQ==" iconFile="Img/Icons/Coin.png" color="ffffff00" heightOffset="0" />
+		<POI MapID="1195" xpos="-120.88" ypos="383.636" zpos="-633.751" type="story_journal.season_3.flashpoint.rock_collector.50.57" GUID="xST+X6X40k+q5YfF68i5Ug==" iconFile="Img/Icons/Interaction.png" minSize="20" maxSize="24" fadeNear="1500" fadeFar="1800" mapVisibility="0" miniMapVisibility="0" />
+		<!-- 58 -->
+		<POI MapID="1195" xpos="-140.416" ypos="446.815" zpos="-734.133" type="story_journal.season_3.flashpoint.rock_collector.50.58" GUID="rknYzYFeDUuS+sUW5BsdLw==" iconFile="Img/Icons/Coin.png" color="ffff0000" />
+		<!-- 59 -->
+		<POI MapID="1195" xpos="-227.116" ypos="293.937" zpos="-681.568" type="story_journal.season_3.flashpoint.rock_collector.50.59" GUID="zOm4CLiLMkiBq3mXO3W1mQ==" iconFile="Img/Icons/Coin.png" color="ffffff00" />
+		<!-- 60 -->
+		<POI MapID="1195" xpos="-239.184" ypos="437.866" zpos="-626.322" type="story_journal.season_3.flashpoint.rock_collector.50.60" GUID="rLAm15rs1k+qov8wX6hFTg==" iconFile="Img/Icons/Coin.png" color="ffff0000" />
 		<!-- SEARING ASCENT -->
-		<Trail type="story_journal.season_3.flashpoint.searing_ascent" GUID="ejdyLDtux0aSgexFJqd3mQ==" trailData="Data/StoryJournal/Season3/Flashpoint/SearingAscent.trl" texture="Data/Arrow.png" color="ff00dd00" alpha="0.8" fadeNear="1500" fadeFar="2500" animSpeed="0" mapDisplaySize="15"/>
-		<POI MapID="1195" xpos="405.664"  ypos="410.968" zpos="-306.232" type="story_journal.season_3.flashpoint.searing_ascent" GUID="+wyWu5JWgkKND3Pbk6Qr2g==" iconFile="Img/General/PuzzleStart.png"/>
-		<POI MapID="1195" xpos="-437.2"   ypos="726.94"  zpos="-538.96"  type="story_journal.season_3.flashpoint.searing_ascent" GUID="XbbreWY68Emr0brI3ldtMg==" iconFile="Img/General/PuzzleChest.png"   heightOffset="3" behavior="7"/>
-		<POI MapID="1195" xpos="-56.0296" ypos="668.304" zpos="-255.331" type="story_journal.season_3.flashpoint.searing_ascent" GUID="Pz4xTqfS3UGf/c3iiUT3PA==" iconFile="Img/Icons/Target.png"          fadeNear="3000" fadeFar="3800" mapVisibility="0" miniMapVisibility="0"/>
-		<POI MapID="1195" xpos="46.0688"  ypos="678.092" zpos="-290.987" type="story_journal.season_3.flashpoint.searing_ascent" GUID="T5qkNSiMC0O3wZihkl5QeQ==" iconFile="Img/Icons/Target.png"          fadeNear="3000" fadeFar="5000" mapVisibility="0" miniMapVisibility="0"/>
-		<POI MapID="1195" xpos="192.142"  ypos="796.464" zpos="-244.972" type="story_journal.season_3.flashpoint.searing_ascent" GUID="LzXHgMlze0+zEER+cMgG8w==" iconFile="Img/Icons/Target.png"          fadeNear="3000" fadeFar="4000" mapVisibility="0" miniMapVisibility="0"/>
-		<POI MapID="1195" xpos="166.791"  ypos="798.735" zpos="-185.869" type="story_journal.season_3.flashpoint.searing_ascent" GUID="Wo+/fMcUa0SkAZpIBjkGmg==" iconFile="Img/Icons/Target.png"          fadeNear="3000" fadeFar="3800" mapVisibility="0" miniMapVisibility="0"/>
-		<POI MapID="1195" xpos="215.717"  ypos="793.74"  zpos="-307.66"  type="story_journal.season_3.flashpoint.searing_ascent" GUID="LKn+kIbLxkaDv5KOCx8PqA==" iconFile="Img/Icons/Target.png"          fadeNear="3000" fadeFar="3800" mapVisibility="0" miniMapVisibility="0"/>
-		<POI MapID="1195" xpos="112.575"  ypos="770.021" zpos="-503.013" type="story_journal.season_3.flashpoint.searing_ascent" GUID="E69iX8S0VUiJD17ef6khkQ==" iconFile="Img/Icons/Target.png"          fadeNear="3000" fadeFar="3800" mapVisibility="0" miniMapVisibility="0"/>
-		<POI MapID="1195" xpos="4.20122"  ypos="814.869" zpos="-605.746" type="story_journal.season_3.flashpoint.searing_ascent" GUID="HorSt2kS/E2BKDKhh+Lm3Q==" iconFile="Img/Icons/Target.png"          fadeNear="3000" fadeFar="3800" mapVisibility="0" miniMapVisibility="0"/>
-		<POI MapID="1195" xpos="-129.431" ypos="831.04"  zpos="-490.882" type="story_journal.season_3.flashpoint.searing_ascent" GUID="q3v7pEMYi0uofRLnpAjczQ==" iconFile="Img/Icons/Target.png"          fadeNear="3000" fadeFar="3800" mapVisibility="0" miniMapVisibility="0"/>
-		<POI MapID="1195" xpos="-289.498" ypos="805.102" zpos="-400.561" type="story_journal.season_3.flashpoint.searing_ascent" GUID="Vav48jQQ9UiQqb5MI+ADiQ==" iconFile="Img/Icons/Target.png"          fadeNear="3000" fadeFar="6000" mapVisibility="0" miniMapVisibility="0"/>
-		<POI MapID="1195" xpos="-425.792" ypos="672.219" zpos="-161.398" type="story_journal.season_3.flashpoint.searing_ascent" GUID="BbIsEJBB0USV7vyP5Ddcqg==" iconFile="Img/Icons/Target.png"          fadeNear="2500" fadeFar="3000" heightOffset="0" mapVisibility="0" miniMapVisibility="0"/>
-		<POI MapID="1195" xpos="-448.567" ypos="681.953" zpos="-292.641" type="story_journal.season_3.flashpoint.searing_ascent" GUID="LRSjLENM1EWUFigsRurp1Q==" iconFile="Img/Icons/Target.png"          fadeNear="3000" fadeFar="3800" mapVisibility="0" miniMapVisibility="0"/>
-		<POI MapID="1195" xpos="-379.052" ypos="730.779" zpos="-380.941" type="story_journal.season_3.flashpoint.searing_ascent" GUID="EkgZZbCZ+USkDzSiBZb/Bg==" iconFile="Img/Icons/Target.png"          fadeNear="3000" fadeFar="3800" mapVisibility="0" miniMapVisibility="0"/>
-		<POI MapID="1195" xpos="-50.5173" ypos="556.993" zpos="-279.077" type="story_journal.season_3.flashpoint.searing_ascent" GUID="NSAAZigU50Gw4NonLDoweA==" iconFile="Img/Icons/Interaction.png"     minSize="8" maxSize="16" fadeNear="1500" fadeFar="1800" heightOffset="2" mapVisibility="0" miniMapVisibility="0"/>
-		<POI MapID="1195" xpos="-54.5271" ypos="557.333" zpos="-281.653" type="story_journal.season_3.flashpoint.searing_ascent" GUID="4VJwhaWQq0CG1ngqUgnTVw==" iconFile="Img/Signs/Slippy.png"          fadeNear="1500" fadeFar="1800" heightOffset="0" mapVisibility="0" miniMapVisibility="0"/>
-		<POI MapID="1195" xpos="-65.9799" ypos="560.528" zpos="-292.879" type="story_journal.season_3.flashpoint.searing_ascent" GUID="mCTfgEUZhkyM1AzwdT0V+g==" iconFile="Img/Signs/Slippy.png"          fadeNear="1500" fadeFar="1800" heightOffset="0" mapVisibility="0" miniMapVisibility="0"/>
-		<POI MapID="1195" xpos="-85.4974" ypos="602.938" zpos="-353.871" type="story_journal.season_3.flashpoint.searing_ascent" GUID="61GKq2B+0USB2ZKpVmMv7A==" iconFile="Img/Icons/Jump.png"            fadeNear="1500" fadeFar="1800" heightOffset="0" mapVisibility="0" miniMapVisibility="0"/>
-		<POI MapID="1195" xpos="-88.0634" ypos="613.421" zpos="-375.066" type="story_journal.season_3.flashpoint.searing_ascent" GUID="Fz2DTVLhMky300lcQsMQ2A==" iconFile="Img/Gliders/GliderStart.png"   fadeNear="1500" fadeFar="1800" heightOffset="0" mapVisibility="0" miniMapVisibility="0"/>
-		<POI MapID="1195" xpos="-80.8566" ypos="615.089" zpos="-308.661" type="story_journal.season_3.flashpoint.searing_ascent" GUID="3X2hGmmw0E2ELGxuqRjX5w==" iconFile="Img/Gliders/GliderStart.png"   fadeNear="1500" fadeFar="1800" heightOffset="0" mapVisibility="0" miniMapVisibility="0"/>
-		<POI MapID="1195" xpos="-61.6418" ypos="618.897" zpos="-270.038" type="story_journal.season_3.flashpoint.searing_ascent" GUID="aqY4X9MnRUKhSCJGhckUHA==" iconFile="Img/Skills/OakheartsReach.png" fadeNear="1500" fadeFar="1800" heightOffset="0" mapVisibility="0" miniMapVisibility="0"/>
-		<POI MapID="1195" xpos="16.9401"  ypos="630.343" zpos="-261.995" type="story_journal.season_3.flashpoint.searing_ascent" GUID="EmdeyLShIEGV+G55iGEPFA==" iconFile="Img/Skills/OakheartsReach.png" fadeNear="2500" fadeFar="3000" mapVisibility="0" miniMapVisibility="0"/>
-		<POI MapID="1195" xpos="117.653"  ypos="710.9"   zpos="-255.419" type="story_journal.season_3.flashpoint.searing_ascent" GUID="Mxwk1HYu1UyinHDYMUZcPA==" iconFile="Img/Signs/Slippy.png"          fadeNear="1500" fadeFar="1800" heightOffset="0" mapVisibility="0" miniMapVisibility="0"/>
-		<POI MapID="1195" xpos="152.54"   ypos="741.724" zpos="-247.422" type="story_journal.season_3.flashpoint.searing_ascent" GUID="Z8w7ad5VgEalLY+ZNjztyw==" iconFile="Img/Skills/OakheartsReach.png" fadeNear="2500" fadeFar="3000" mapVisibility="0" miniMapVisibility="0"/>
-		<POI MapID="1195" xpos="212.737"  ypos="769.578" zpos="-286.615" type="story_journal.season_3.flashpoint.searing_ascent" GUID="RDMuM5a0zECxPgrcaOQqEw==" iconFile="Img/Icons/FlagCheckpoint.png"  fadeNear="1500" fadeFar="1800" heightOffset="2"/>
-		<POI MapID="1195" xpos="189.927"  ypos="777.641" zpos="-226.605" type="story_journal.season_3.flashpoint.searing_ascent" GUID="1Vbuvla58km1amzMXBuxSA==" iconFile="Img/Gliders/GliderStart.png"   fadeNear="1500" fadeFar="1800" heightOffset="0" mapVisibility="0" miniMapVisibility="0"/>
-		<POI MapID="1195" xpos="262.07"   ypos="765.001" zpos="-105.985" type="story_journal.season_3.flashpoint.searing_ascent" GUID="3MvoaxP6zUqBLCCfenAjfQ==" iconFile="Img/Icons/Interaction.png"     minSize="8" maxSize="16" fadeNear="1500" fadeFar="1800" heightOffset="2" mapVisibility="0" miniMapVisibility="0"/>
-		<POI MapID="1195" xpos="194.439"  ypos="765.533" zpos="-131.698" type="story_journal.season_3.flashpoint.searing_ascent" GUID="ri61TXY2sk2QcGqy2lYYTQ==" iconFile="Img/Skills/OakheartsReach.png" fadeNear="2500" fadeFar="3000" mapVisibility="0" miniMapVisibility="0"/>
-		<POI MapID="1195" xpos="216.864"  ypos="774.431" zpos="-277.85"  type="story_journal.season_3.flashpoint.searing_ascent" GUID="oHHAXCzRqEytHqMh4v1VkQ==" iconFile="Img/Skills/OakheartsReach.png" fadeNear="2500" fadeFar="3000" mapVisibility="0" miniMapVisibility="0"/>
-		<POI MapID="1195" xpos="221.107"  ypos="773.02"  zpos="-354.987" type="story_journal.season_3.flashpoint.searing_ascent" GUID="9Pv+gyNbOkKY4nhHkop6Nw==" iconFile="Img/Gliders/GliderStart.png"   fadeNear="1500" fadeFar="1800" heightOffset="0" mapVisibility="0" miniMapVisibility="0"/>
-		<POI MapID="1195" xpos="215.563"  ypos="766.939" zpos="-401.692" type="story_journal.season_3.flashpoint.searing_ascent" GUID="9lJq/a2rR0Ggw2uYcEq25w==" iconFile="Img/Gliders/GliderStart.png"   fadeNear="1500" fadeFar="1800" heightOffset="0" mapVisibility="0" miniMapVisibility="0"/>
-		<POI MapID="1195" xpos="142.093"  ypos="738.135" zpos="-475.473" type="story_journal.season_3.flashpoint.searing_ascent" GUID="+EpUuKSyx0qzTpA0ZsBltA==" iconFile="Img/Skills/OakheartsReach.png" fadeNear="2500" fadeFar="3000" mapVisibility="0" miniMapVisibility="0"/>
-		<POI MapID="1195" xpos="7.81284"  ypos="747.83"  zpos="-609.477" type="story_journal.season_3.flashpoint.searing_ascent" GUID="UKzRgK6mBEOSKJK91QRX+g==" iconFile="Img/Skills/OakheartsReach.png" fadeNear="2500" fadeFar="3000" mapVisibility="0" miniMapVisibility="0"/>
-		<POI MapID="1195" xpos="-73.7103" ypos="797.263" zpos="-683.719" type="story_journal.season_3.flashpoint.searing_ascent" GUID="dYCtm8lkMkmbkC7xoxgwBw==" iconFile="Img/Icons/FlagCheckpoint.png"  fadeNear="1500" fadeFar="1800" heightOffset="2"/>
-		<POI MapID="1195" xpos="-45.9585" ypos="820.244" zpos="-628.482" type="story_journal.season_3.flashpoint.searing_ascent" GUID="cBUCjYifJU+KQK3uyzMrnA==" iconFile="Img/Icons/Interaction.png"     minSize="8" maxSize="16" fadeNear="1500" fadeFar="1800" heightOffset="2" mapVisibility="0" miniMapVisibility="0"/>
-		<POI MapID="1195" xpos="-129.407" ypos="802.158" zpos="-547.966" type="story_journal.season_3.flashpoint.searing_ascent" GUID="GGIYgOVvGE66ioiUd47MQA==" iconFile="Img/Gliders/GliderStart.png"   fadeNear="1500" fadeFar="1800" heightOffset="0" mapVisibility="0" miniMapVisibility="0"/>
-		<POI MapID="1195" xpos="-127.972" ypos="789.142" zpos="-511.364" type="story_journal.season_3.flashpoint.searing_ascent" GUID="fBW3gGJ40kSoUu7XZBV9yA==" iconFile="Img/Skills/OakheartsReach.png" fadeNear="2500" fadeFar="3000" mapVisibility="0" miniMapVisibility="0"/>
-		<POI MapID="1195" xpos="-209.503" ypos="799.511" zpos="-490.589" type="story_journal.season_3.flashpoint.searing_ascent" GUID="oeI12Xg+jkuSyQoccfAN7Q==" iconFile="Img/Gliders/GliderStart.png"   fadeNear="1500" fadeFar="1800" heightOffset="0" mapVisibility="0" miniMapVisibility="0"/>
-		<POI MapID="1195" xpos="-240.623" ypos="756.704" zpos="-401.98"  type="story_journal.season_3.flashpoint.searing_ascent" GUID="HvuuPmmHLkmO+5IWpyuqmA==" iconFile="Img/Skills/OakheartsReach.png" fadeNear="2500" fadeFar="3000" mapVisibility="0" miniMapVisibility="0"/>
-		<POI MapID="1195" xpos="-298.076" ypos="802.911" zpos="-416.853" type="story_journal.season_3.flashpoint.searing_ascent" GUID="HiDxNRJDsU2ge9PYfUFYZg==" iconFile="Img/Icons/Interaction.png"     minSize="8" maxSize="16" fadeNear="1500" fadeFar="1800" heightOffset="2" mapVisibility="0" miniMapVisibility="0"/>
-		<POI MapID="1195" xpos="-267.974" ypos="785.539" zpos="-377.552" type="story_journal.season_3.flashpoint.searing_ascent" GUID="wWfG+ThG9kGzkpcNXkwkXA==" iconFile="Img/Icons/FlagCheckpoint.png"  fadeNear="1500" fadeFar="1800" heightOffset="2"/>
-		<POI MapID="1195" xpos="-239.961" ypos="769.357" zpos="-280.124" type="story_journal.season_3.flashpoint.searing_ascent" GUID="p7Qj5AVaFE6PQURCQdSL4Q==" iconFile="Img/Signs/Jump.png"            fadeNear="1500" fadeFar="1800" heightOffset="0" mapVisibility="0" miniMapVisibility="0"/>
-		<POI MapID="1195" xpos="-216.705" ypos="794.417" zpos="-200.829" type="story_journal.season_3.flashpoint.searing_ascent" GUID="m5G3Ihqa3kebt1KZdNDlkg==" iconFile="Img/Signs/Danger.png"          fadeNear="1500" fadeFar="1800" heightOffset="0" mapVisibility="0" miniMapVisibility="0"/>
-		<POI MapID="1195" xpos="-208.078" ypos="795.435" zpos="-204.555" type="story_journal.season_3.flashpoint.searing_ascent" GUID="5QzvlKLYGEuez9uJTmQVRg==" iconFile="Img/Signs/Danger.png"          fadeNear="1500" fadeFar="1800" heightOffset="0" mapVisibility="0" miniMapVisibility="0"/>
-		<POI MapID="1195" xpos="-97.309"  ypos="782.69"  zpos="-185.646" type="story_journal.season_3.flashpoint.searing_ascent" GUID="tqzw1pjUuke/kLRNbs/Czg==" iconFile="Img/Season3/SearingAscent.png" fadeNear="1500" fadeFar="1800" heightOffset="0" mapVisibility="0" miniMapVisibility="0"/>
-		<POI MapID="1195" xpos="-326.664" ypos="719.014" zpos="-73.8717" type="story_journal.season_3.flashpoint.searing_ascent" GUID="svjfx19IgECCaCbVlB4BYQ==" iconFile="Img/Gliders/GliderStart.png"   fadeNear="1500" fadeFar="1800" heightOffset="0" mapVisibility="0" miniMapVisibility="0"/>
-		<POI MapID="1195" xpos="-422.111" ypos="643.035" zpos="-156.399" type="story_journal.season_3.flashpoint.searing_ascent" GUID="xD2F53WQR0yRSGAUJuA6lA==" iconFile="Img/Skills/OakheartsReach.png" fadeNear="2500" fadeFar="3000" mapVisibility="0" miniMapVisibility="0"/>
-		<POI MapID="1195" xpos="-456.809" ypos="654.882" zpos="-288.435" type="story_journal.season_3.flashpoint.searing_ascent" GUID="EJU5AhV1DkWw6iu4Cgnc1A==" iconFile="Img/Skills/OakheartsReach.png" fadeNear="2500" fadeFar="3000" mapVisibility="0" miniMapVisibility="0"/>
-		<POI MapID="1195" xpos="-398.149" ypos="690.631" zpos="-378.337" type="story_journal.season_3.flashpoint.searing_ascent" GUID="PGR6UhDG80Wg7B9NDwJA7w==" iconFile="Img/Skills/OakheartsReach.png" fadeNear="2500" fadeFar="3000" mapVisibility="0" miniMapVisibility="0"/>
-
+		<Trail type="story_journal.season_3.flashpoint.searing_ascent" GUID="ejdyLDtux0aSgexFJqd3mQ==" trailData="Data/StoryJournal/Season3/Flashpoint/SearingAscent.trl" texture="Data/Arrow.png" color="ff00dd00" alpha="0.8" fadeNear="1500" fadeFar="2500" animSpeed="0" mapDisplaySize="15" />
+		<POI MapID="1195" xpos="405.664" ypos="410.968" zpos="-306.232" type="story_journal.season_3.flashpoint.searing_ascent" GUID="+wyWu5JWgkKND3Pbk6Qr2g==" iconFile="Img/General/PuzzleStart.png" />
+		<POI MapID="1195" xpos="-437.2" ypos="726.94" zpos="-538.96" type="story_journal.season_3.flashpoint.searing_ascent" GUID="XbbreWY68Emr0brI3ldtMg==" iconFile="Img/General/PuzzleChest.png" heightOffset="3" behavior="7" />
+		<POI MapID="1195" xpos="-56.0296" ypos="668.304" zpos="-255.331" type="story_journal.season_3.flashpoint.searing_ascent" GUID="Pz4xTqfS3UGf/c3iiUT3PA==" iconFile="Img/Icons/Target.png" fadeNear="3000" fadeFar="3800" mapVisibility="0" miniMapVisibility="0" />
+		<POI MapID="1195" xpos="46.0688" ypos="678.092" zpos="-290.987" type="story_journal.season_3.flashpoint.searing_ascent" GUID="T5qkNSiMC0O3wZihkl5QeQ==" iconFile="Img/Icons/Target.png" fadeNear="3000" fadeFar="5000" mapVisibility="0" miniMapVisibility="0" />
+		<POI MapID="1195" xpos="192.142" ypos="796.464" zpos="-244.972" type="story_journal.season_3.flashpoint.searing_ascent" GUID="LzXHgMlze0+zEER+cMgG8w==" iconFile="Img/Icons/Target.png" fadeNear="3000" fadeFar="4000" mapVisibility="0" miniMapVisibility="0" />
+		<POI MapID="1195" xpos="166.791" ypos="798.735" zpos="-185.869" type="story_journal.season_3.flashpoint.searing_ascent" GUID="Wo+/fMcUa0SkAZpIBjkGmg==" iconFile="Img/Icons/Target.png" fadeNear="3000" fadeFar="3800" mapVisibility="0" miniMapVisibility="0" />
+		<POI MapID="1195" xpos="215.717" ypos="793.74" zpos="-307.66" type="story_journal.season_3.flashpoint.searing_ascent" GUID="LKn+kIbLxkaDv5KOCx8PqA==" iconFile="Img/Icons/Target.png" fadeNear="3000" fadeFar="3800" mapVisibility="0" miniMapVisibility="0" />
+		<POI MapID="1195" xpos="112.575" ypos="770.021" zpos="-503.013" type="story_journal.season_3.flashpoint.searing_ascent" GUID="E69iX8S0VUiJD17ef6khkQ==" iconFile="Img/Icons/Target.png" fadeNear="3000" fadeFar="3800" mapVisibility="0" miniMapVisibility="0" />
+		<POI MapID="1195" xpos="4.20122" ypos="814.869" zpos="-605.746" type="story_journal.season_3.flashpoint.searing_ascent" GUID="HorSt2kS/E2BKDKhh+Lm3Q==" iconFile="Img/Icons/Target.png" fadeNear="3000" fadeFar="3800" mapVisibility="0" miniMapVisibility="0" />
+		<POI MapID="1195" xpos="-129.431" ypos="831.04" zpos="-490.882" type="story_journal.season_3.flashpoint.searing_ascent" GUID="q3v7pEMYi0uofRLnpAjczQ==" iconFile="Img/Icons/Target.png" fadeNear="3000" fadeFar="3800" mapVisibility="0" miniMapVisibility="0" />
+		<POI MapID="1195" xpos="-289.498" ypos="805.102" zpos="-400.561" type="story_journal.season_3.flashpoint.searing_ascent" GUID="Vav48jQQ9UiQqb5MI+ADiQ==" iconFile="Img/Icons/Target.png" fadeNear="3000" fadeFar="6000" mapVisibility="0" miniMapVisibility="0" />
+		<POI MapID="1195" xpos="-425.792" ypos="672.219" zpos="-161.398" type="story_journal.season_3.flashpoint.searing_ascent" GUID="BbIsEJBB0USV7vyP5Ddcqg==" iconFile="Img/Icons/Target.png" fadeNear="2500" fadeFar="3000" heightOffset="0" mapVisibility="0" miniMapVisibility="0" />
+		<POI MapID="1195" xpos="-448.567" ypos="681.953" zpos="-292.641" type="story_journal.season_3.flashpoint.searing_ascent" GUID="LRSjLENM1EWUFigsRurp1Q==" iconFile="Img/Icons/Target.png" fadeNear="3000" fadeFar="3800" mapVisibility="0" miniMapVisibility="0" />
+		<POI MapID="1195" xpos="-379.052" ypos="730.779" zpos="-380.941" type="story_journal.season_3.flashpoint.searing_ascent" GUID="EkgZZbCZ+USkDzSiBZb/Bg==" iconFile="Img/Icons/Target.png" fadeNear="3000" fadeFar="3800" mapVisibility="0" miniMapVisibility="0" />
+		<POI MapID="1195" xpos="-50.5173" ypos="556.993" zpos="-279.077" type="story_journal.season_3.flashpoint.searing_ascent" GUID="NSAAZigU50Gw4NonLDoweA==" iconFile="Img/Icons/Interaction.png" minSize="8" maxSize="16" fadeNear="1500" fadeFar="1800" heightOffset="2" mapVisibility="0" miniMapVisibility="0" />
+		<POI MapID="1195" xpos="-54.5271" ypos="557.333" zpos="-281.653" type="story_journal.season_3.flashpoint.searing_ascent" GUID="4VJwhaWQq0CG1ngqUgnTVw==" iconFile="Img/Signs/Slippy.png" fadeNear="1500" fadeFar="1800" heightOffset="0" mapVisibility="0" miniMapVisibility="0" />
+		<POI MapID="1195" xpos="-65.9799" ypos="560.528" zpos="-292.879" type="story_journal.season_3.flashpoint.searing_ascent" GUID="mCTfgEUZhkyM1AzwdT0V+g==" iconFile="Img/Signs/Slippy.png" fadeNear="1500" fadeFar="1800" heightOffset="0" mapVisibility="0" miniMapVisibility="0" />
+		<POI MapID="1195" xpos="-85.4974" ypos="602.938" zpos="-353.871" type="story_journal.season_3.flashpoint.searing_ascent" GUID="61GKq2B+0USB2ZKpVmMv7A==" iconFile="Img/Icons/Jump.png" fadeNear="1500" fadeFar="1800" heightOffset="0" mapVisibility="0" miniMapVisibility="0" />
+		<POI MapID="1195" xpos="-88.0634" ypos="613.421" zpos="-375.066" type="story_journal.season_3.flashpoint.searing_ascent" GUID="Fz2DTVLhMky300lcQsMQ2A==" iconFile="Img/Gliders/GliderStart.png" fadeNear="1500" fadeFar="1800" heightOffset="0" mapVisibility="0" miniMapVisibility="0" />
+		<POI MapID="1195" xpos="-80.8566" ypos="615.089" zpos="-308.661" type="story_journal.season_3.flashpoint.searing_ascent" GUID="3X2hGmmw0E2ELGxuqRjX5w==" iconFile="Img/Gliders/GliderStart.png" fadeNear="1500" fadeFar="1800" heightOffset="0" mapVisibility="0" miniMapVisibility="0" />
+		<POI MapID="1195" xpos="-61.6418" ypos="618.897" zpos="-270.038" type="story_journal.season_3.flashpoint.searing_ascent" GUID="aqY4X9MnRUKhSCJGhckUHA==" iconFile="Img/Skills/OakheartsReach.png" fadeNear="1500" fadeFar="1800" heightOffset="0" mapVisibility="0" miniMapVisibility="0" />
+		<POI MapID="1195" xpos="16.9401" ypos="630.343" zpos="-261.995" type="story_journal.season_3.flashpoint.searing_ascent" GUID="EmdeyLShIEGV+G55iGEPFA==" iconFile="Img/Skills/OakheartsReach.png" fadeNear="2500" fadeFar="3000" mapVisibility="0" miniMapVisibility="0" />
+		<POI MapID="1195" xpos="117.653" ypos="710.9" zpos="-255.419" type="story_journal.season_3.flashpoint.searing_ascent" GUID="Mxwk1HYu1UyinHDYMUZcPA==" iconFile="Img/Signs/Slippy.png" fadeNear="1500" fadeFar="1800" heightOffset="0" mapVisibility="0" miniMapVisibility="0" />
+		<POI MapID="1195" xpos="152.54" ypos="741.724" zpos="-247.422" type="story_journal.season_3.flashpoint.searing_ascent" GUID="Z8w7ad5VgEalLY+ZNjztyw==" iconFile="Img/Skills/OakheartsReach.png" fadeNear="2500" fadeFar="3000" mapVisibility="0" miniMapVisibility="0" />
+		<POI MapID="1195" xpos="212.737" ypos="769.578" zpos="-286.615" type="story_journal.season_3.flashpoint.searing_ascent" GUID="RDMuM5a0zECxPgrcaOQqEw==" iconFile="Img/Icons/FlagCheckpoint.png" fadeNear="1500" fadeFar="1800" heightOffset="2" />
+		<POI MapID="1195" xpos="189.927" ypos="777.641" zpos="-226.605" type="story_journal.season_3.flashpoint.searing_ascent" GUID="1Vbuvla58km1amzMXBuxSA==" iconFile="Img/Gliders/GliderStart.png" fadeNear="1500" fadeFar="1800" heightOffset="0" mapVisibility="0" miniMapVisibility="0" />
+		<POI MapID="1195" xpos="262.07" ypos="765.001" zpos="-105.985" type="story_journal.season_3.flashpoint.searing_ascent" GUID="3MvoaxP6zUqBLCCfenAjfQ==" iconFile="Img/Icons/Interaction.png" minSize="8" maxSize="16" fadeNear="1500" fadeFar="1800" heightOffset="2" mapVisibility="0" miniMapVisibility="0" />
+		<POI MapID="1195" xpos="194.439" ypos="765.533" zpos="-131.698" type="story_journal.season_3.flashpoint.searing_ascent" GUID="ri61TXY2sk2QcGqy2lYYTQ==" iconFile="Img/Skills/OakheartsReach.png" fadeNear="2500" fadeFar="3000" mapVisibility="0" miniMapVisibility="0" />
+		<POI MapID="1195" xpos="216.864" ypos="774.431" zpos="-277.85" type="story_journal.season_3.flashpoint.searing_ascent" GUID="oHHAXCzRqEytHqMh4v1VkQ==" iconFile="Img/Skills/OakheartsReach.png" fadeNear="2500" fadeFar="3000" mapVisibility="0" miniMapVisibility="0" />
+		<POI MapID="1195" xpos="221.107" ypos="773.02" zpos="-354.987" type="story_journal.season_3.flashpoint.searing_ascent" GUID="9Pv+gyNbOkKY4nhHkop6Nw==" iconFile="Img/Gliders/GliderStart.png" fadeNear="1500" fadeFar="1800" heightOffset="0" mapVisibility="0" miniMapVisibility="0" />
+		<POI MapID="1195" xpos="215.563" ypos="766.939" zpos="-401.692" type="story_journal.season_3.flashpoint.searing_ascent" GUID="9lJq/a2rR0Ggw2uYcEq25w==" iconFile="Img/Gliders/GliderStart.png" fadeNear="1500" fadeFar="1800" heightOffset="0" mapVisibility="0" miniMapVisibility="0" />
+		<POI MapID="1195" xpos="142.093" ypos="738.135" zpos="-475.473" type="story_journal.season_3.flashpoint.searing_ascent" GUID="+EpUuKSyx0qzTpA0ZsBltA==" iconFile="Img/Skills/OakheartsReach.png" fadeNear="2500" fadeFar="3000" mapVisibility="0" miniMapVisibility="0" />
+		<POI MapID="1195" xpos="7.81284" ypos="747.83" zpos="-609.477" type="story_journal.season_3.flashpoint.searing_ascent" GUID="UKzRgK6mBEOSKJK91QRX+g==" iconFile="Img/Skills/OakheartsReach.png" fadeNear="2500" fadeFar="3000" mapVisibility="0" miniMapVisibility="0" />
+		<POI MapID="1195" xpos="-73.7103" ypos="797.263" zpos="-683.719" type="story_journal.season_3.flashpoint.searing_ascent" GUID="dYCtm8lkMkmbkC7xoxgwBw==" iconFile="Img/Icons/FlagCheckpoint.png" fadeNear="1500" fadeFar="1800" heightOffset="2" />
+		<POI MapID="1195" xpos="-45.9585" ypos="820.244" zpos="-628.482" type="story_journal.season_3.flashpoint.searing_ascent" GUID="cBUCjYifJU+KQK3uyzMrnA==" iconFile="Img/Icons/Interaction.png" minSize="8" maxSize="16" fadeNear="1500" fadeFar="1800" heightOffset="2" mapVisibility="0" miniMapVisibility="0" />
+		<POI MapID="1195" xpos="-129.407" ypos="802.158" zpos="-547.966" type="story_journal.season_3.flashpoint.searing_ascent" GUID="GGIYgOVvGE66ioiUd47MQA==" iconFile="Img/Gliders/GliderStart.png" fadeNear="1500" fadeFar="1800" heightOffset="0" mapVisibility="0" miniMapVisibility="0" />
+		<POI MapID="1195" xpos="-127.972" ypos="789.142" zpos="-511.364" type="story_journal.season_3.flashpoint.searing_ascent" GUID="fBW3gGJ40kSoUu7XZBV9yA==" iconFile="Img/Skills/OakheartsReach.png" fadeNear="2500" fadeFar="3000" mapVisibility="0" miniMapVisibility="0" />
+		<POI MapID="1195" xpos="-209.503" ypos="799.511" zpos="-490.589" type="story_journal.season_3.flashpoint.searing_ascent" GUID="oeI12Xg+jkuSyQoccfAN7Q==" iconFile="Img/Gliders/GliderStart.png" fadeNear="1500" fadeFar="1800" heightOffset="0" mapVisibility="0" miniMapVisibility="0" />
+		<POI MapID="1195" xpos="-240.623" ypos="756.704" zpos="-401.98" type="story_journal.season_3.flashpoint.searing_ascent" GUID="HvuuPmmHLkmO+5IWpyuqmA==" iconFile="Img/Skills/OakheartsReach.png" fadeNear="2500" fadeFar="3000" mapVisibility="0" miniMapVisibility="0" />
+		<POI MapID="1195" xpos="-298.076" ypos="802.911" zpos="-416.853" type="story_journal.season_3.flashpoint.searing_ascent" GUID="HiDxNRJDsU2ge9PYfUFYZg==" iconFile="Img/Icons/Interaction.png" minSize="8" maxSize="16" fadeNear="1500" fadeFar="1800" heightOffset="2" mapVisibility="0" miniMapVisibility="0" />
+		<POI MapID="1195" xpos="-267.974" ypos="785.539" zpos="-377.552" type="story_journal.season_3.flashpoint.searing_ascent" GUID="wWfG+ThG9kGzkpcNXkwkXA==" iconFile="Img/Icons/FlagCheckpoint.png" fadeNear="1500" fadeFar="1800" heightOffset="2" />
+		<POI MapID="1195" xpos="-239.961" ypos="769.357" zpos="-280.124" type="story_journal.season_3.flashpoint.searing_ascent" GUID="p7Qj5AVaFE6PQURCQdSL4Q==" iconFile="Img/Signs/Jump.png" fadeNear="1500" fadeFar="1800" heightOffset="0" mapVisibility="0" miniMapVisibility="0" />
+		<POI MapID="1195" xpos="-216.705" ypos="794.417" zpos="-200.829" type="story_journal.season_3.flashpoint.searing_ascent" GUID="m5G3Ihqa3kebt1KZdNDlkg==" iconFile="Img/Signs/Danger.png" fadeNear="1500" fadeFar="1800" heightOffset="0" mapVisibility="0" miniMapVisibility="0" />
+		<POI MapID="1195" xpos="-208.078" ypos="795.435" zpos="-204.555" type="story_journal.season_3.flashpoint.searing_ascent" GUID="5QzvlKLYGEuez9uJTmQVRg==" iconFile="Img/Signs/Danger.png" fadeNear="1500" fadeFar="1800" heightOffset="0" mapVisibility="0" miniMapVisibility="0" />
+		<POI MapID="1195" xpos="-97.309" ypos="782.69" zpos="-185.646" type="story_journal.season_3.flashpoint.searing_ascent" GUID="tqzw1pjUuke/kLRNbs/Czg==" iconFile="Img/Season3/SearingAscent.png" fadeNear="1500" fadeFar="1800" heightOffset="0" mapVisibility="0" miniMapVisibility="0" />
+		<POI MapID="1195" xpos="-326.664" ypos="719.014" zpos="-73.8717" type="story_journal.season_3.flashpoint.searing_ascent" GUID="svjfx19IgECCaCbVlB4BYQ==" iconFile="Img/Gliders/GliderStart.png" fadeNear="1500" fadeFar="1800" heightOffset="0" mapVisibility="0" miniMapVisibility="0" />
+		<POI MapID="1195" xpos="-422.111" ypos="643.035" zpos="-156.399" type="story_journal.season_3.flashpoint.searing_ascent" GUID="xD2F53WQR0yRSGAUJuA6lA==" iconFile="Img/Skills/OakheartsReach.png" fadeNear="2500" fadeFar="3000" mapVisibility="0" miniMapVisibility="0" />
+		<POI MapID="1195" xpos="-456.809" ypos="654.882" zpos="-288.435" type="story_journal.season_3.flashpoint.searing_ascent" GUID="EJU5AhV1DkWw6iu4Cgnc1A==" iconFile="Img/Skills/OakheartsReach.png" fadeNear="2500" fadeFar="3000" mapVisibility="0" miniMapVisibility="0" />
+		<POI MapID="1195" xpos="-398.149" ypos="690.631" zpos="-378.337" type="story_journal.season_3.flashpoint.searing_ascent" GUID="PGR6UhDG80Wg7B9NDwJA7w==" iconFile="Img/Skills/OakheartsReach.png" fadeNear="2500" fadeFar="3000" mapVisibility="0" miniMapVisibility="0" />
 		<!-- SPROUTING THE DRUID STONE -->
-		<POI MapID="1195" xpos="469.241"  ypos="213.405" zpos="-377.567" type="story_journal.season_3.flashpoint.sprouting_the_druid_stone.saurians"     GUID="Vf91xhyMd0+TMvIlxBkGOQ==" mapVisibility="0" miniMapVisibility="0"/>
-		<POI MapID="1195" xpos="469.241"  ypos="215.405" zpos="-377.567" type="story_journal.season_3.flashpoint.sprouting_the_druid_stone.saurians"     GUID="fD4mrsCEckiKNeVUDVDutw==" iconFile="Img/Icons/Fight.png" inGameVisibility="0"/>
-		<POI MapID="1195" xpos="172.625"  ypos="221.585" zpos="142.252"  type="story_journal.season_3.flashpoint.sprouting_the_druid_stone.empire"       GUID="xPiYFp00hUG+L/E+LOZ3lQ==" mapVisibility="0" miniMapVisibility="0"/>
-		<POI MapID="1195" xpos="172.625"  ypos="223.585" zpos="142.252"  type="story_journal.season_3.flashpoint.sprouting_the_druid_stone.empire"       GUID="dcKZ89WjbE+dOltLp29jfw==" iconFile="Img/Icons/Fight.png" inGameVisibility="0"/>
-		<POI MapID="1195" xpos="-112.695" ypos="260.142" zpos="202.956"  type="story_journal.season_3.flashpoint.sprouting_the_druid_stone.webby"        GUID="gJyuvKq28kqj9bbHVGGIkQ==" mapVisibility="0" miniMapVisibility="0"/>
-		<POI MapID="1195" xpos="-112.695" ypos="262.142" zpos="202.956"  type="story_journal.season_3.flashpoint.sprouting_the_druid_stone.webby"        GUID="uiA6M1Cs/kCDSG21H9fyQg==" iconFile="Img/Icons/Fight.png" inGameVisibility="0"/>
-		<POI MapID="1195" xpos="239.029"  ypos="430.817" zpos="-93.4907" type="story_journal.season_3.flashpoint.sprouting_the_druid_stone.wurm"         GUID="DLK6eU3ofEa5oavTGGwC2w==" mapVisibility="0" miniMapVisibility="0"/>
-		<POI MapID="1195" xpos="239.029"  ypos="432.817" zpos="-93.4907" type="story_journal.season_3.flashpoint.sprouting_the_druid_stone.wurm"         GUID="XcOKiSadekqQ6RZLkMxeYw==" iconFile="Img/Icons/Fight.png" inGameVisibility="0"/>
-		<POI MapID="1195" xpos="-437.488" ypos="445.814" zpos="-371.688" type="story_journal.season_3.flashpoint.sprouting_the_druid_stone.arcanum"      GUID="ApmI1CIHz0yzcNReEefUxA==" mapVisibility="0" miniMapVisibility="0"/>
-		<POI MapID="1195" xpos="-437.488" ypos="447.814" zpos="-371.688" type="story_journal.season_3.flashpoint.sprouting_the_druid_stone.arcanum"      GUID="mYYX3XDwhEe28D9Dae87HA==" iconFile="Img/Icons/Fight.png" inGameVisibility="0"/>
-		<POI MapID="1195" xpos="572.782"  ypos="120.698" zpos="-339.958" type="story_journal.season_3.flashpoint.sprouting_the_druid_stone.kodama"       GUID="JIx8JqLavEWlBERfECU3uA=="/>
-		<POI MapID="1195" xpos="596.215"  ypos="242.667" zpos="-282.229" type="story_journal.season_3.flashpoint.sprouting_the_druid_stone.liriodendron" GUID="HQgYhvQR3Ea1t/IP2Fb5Yg=="/>
-		<POI MapID="1195" xpos="-218.089" ypos="295.841" zpos="-708.447" type="story_journal.season_3.flashpoint.sprouting_the_druid_stone.broadleaf"    GUID="+gx44tK2pECD0gIgLGc0EQ=="/>
-		<POI MapID="1195" xpos="-1.22426" ypos="309.163" zpos="135.254"  type="story_journal.season_3.flashpoint.sprouting_the_druid_stone.rosewood"     GUID="2FeP4uRs7EmwdjsOW9lDSQ=="/>
-		<POI MapID="1195" xpos="516.574"  ypos="118.891" zpos="-513.309" type="story_journal.season_3.flashpoint.sprouting_the_druid_stone.fire_orchid"  GUID="lzpF2rDwtE6K9TrIs8SSTg=="/>
-
+		<POI MapID="1195" xpos="469.241" ypos="213.405" zpos="-377.567" type="story_journal.season_3.flashpoint.sprouting_the_druid_stone.saurians" GUID="Vf91xhyMd0+TMvIlxBkGOQ==" mapVisibility="0" miniMapVisibility="0" />
+		<POI MapID="1195" xpos="469.241" ypos="215.405" zpos="-377.567" type="story_journal.season_3.flashpoint.sprouting_the_druid_stone.saurians" GUID="fD4mrsCEckiKNeVUDVDutw==" iconFile="Img/Icons/Fight.png" inGameVisibility="0" />
+		<POI MapID="1195" xpos="172.625" ypos="221.585" zpos="142.252" type="story_journal.season_3.flashpoint.sprouting_the_druid_stone.empire" GUID="xPiYFp00hUG+L/E+LOZ3lQ==" mapVisibility="0" miniMapVisibility="0" />
+		<POI MapID="1195" xpos="172.625" ypos="223.585" zpos="142.252" type="story_journal.season_3.flashpoint.sprouting_the_druid_stone.empire" GUID="dcKZ89WjbE+dOltLp29jfw==" iconFile="Img/Icons/Fight.png" inGameVisibility="0" />
+		<POI MapID="1195" xpos="-112.695" ypos="260.142" zpos="202.956" type="story_journal.season_3.flashpoint.sprouting_the_druid_stone.webby" GUID="gJyuvKq28kqj9bbHVGGIkQ==" mapVisibility="0" miniMapVisibility="0" />
+		<POI MapID="1195" xpos="-112.695" ypos="262.142" zpos="202.956" type="story_journal.season_3.flashpoint.sprouting_the_druid_stone.webby" GUID="uiA6M1Cs/kCDSG21H9fyQg==" iconFile="Img/Icons/Fight.png" inGameVisibility="0" />
+		<POI MapID="1195" xpos="239.029" ypos="430.817" zpos="-93.4907" type="story_journal.season_3.flashpoint.sprouting_the_druid_stone.wurm" GUID="DLK6eU3ofEa5oavTGGwC2w==" mapVisibility="0" miniMapVisibility="0" />
+		<POI MapID="1195" xpos="239.029" ypos="432.817" zpos="-93.4907" type="story_journal.season_3.flashpoint.sprouting_the_druid_stone.wurm" GUID="XcOKiSadekqQ6RZLkMxeYw==" iconFile="Img/Icons/Fight.png" inGameVisibility="0" />
+		<POI MapID="1195" xpos="-437.488" ypos="445.814" zpos="-371.688" type="story_journal.season_3.flashpoint.sprouting_the_druid_stone.arcanum" GUID="ApmI1CIHz0yzcNReEefUxA==" mapVisibility="0" miniMapVisibility="0" />
+		<POI MapID="1195" xpos="-437.488" ypos="447.814" zpos="-371.688" type="story_journal.season_3.flashpoint.sprouting_the_druid_stone.arcanum" GUID="mYYX3XDwhEe28D9Dae87HA==" iconFile="Img/Icons/Fight.png" inGameVisibility="0" />
+		<POI MapID="1195" xpos="572.782" ypos="120.698" zpos="-339.958" type="story_journal.season_3.flashpoint.sprouting_the_druid_stone.kodama" GUID="JIx8JqLavEWlBERfECU3uA==" />
+		<POI MapID="1195" xpos="596.215" ypos="242.667" zpos="-282.229" type="story_journal.season_3.flashpoint.sprouting_the_druid_stone.liriodendron" GUID="HQgYhvQR3Ea1t/IP2Fb5Yg==" />
+		<POI MapID="1195" xpos="-218.089" ypos="295.841" zpos="-708.447" type="story_journal.season_3.flashpoint.sprouting_the_druid_stone.broadleaf" GUID="+gx44tK2pECD0gIgLGc0EQ==" />
+		<POI MapID="1195" xpos="-1.22426" ypos="309.163" zpos="135.254" type="story_journal.season_3.flashpoint.sprouting_the_druid_stone.rosewood" GUID="2FeP4uRs7EmwdjsOW9lDSQ==" />
+		<POI MapID="1195" xpos="516.574" ypos="118.891" zpos="-513.309" type="story_journal.season_3.flashpoint.sprouting_the_druid_stone.fire_orchid" GUID="lzpF2rDwtE6K9TrIs8SSTg==" />
 		<!-- TERROR OF THE BOILING SEA -->
-		<POI MapID="1195" xpos="353.98"   ypos="32.84"   zpos="-149.86" type="story_journal.season_3.flashpoint.terror_of_the_boiling_sea.aestus" GUID="Fyn3Rs4yrUe3iwlftb7Etw==" mapVisibility="0" miniMapVisibility="0"/>
-		<POI MapID="1195" xpos="353.98"   ypos="34.84"   zpos="-149.86" type="story_journal.season_3.flashpoint.terror_of_the_boiling_sea.aestus" GUID="nQoLLB2qwEC+2WPkYEQ6CQ==" iconFile="Img/Icons/Fight.png" fadeNear="2000" fadeFar="5000" behavior="0" inGameVisibility="0"/>
-		<POI MapID="1195" xpos="-416.525" ypos="52.4427" zpos="20.5264" type="story_journal.season_3.flashpoint.terror_of_the_boiling_sea.ignis"  GUID="OA6x2ewG8US/JZ7Mj6xl9w==" mapVisibility="0" miniMapVisibility="0"/>
-		<POI MapID="1195" xpos="-416.525" ypos="54.4427" zpos="20.5264" type="story_journal.season_3.flashpoint.terror_of_the_boiling_sea.ignis"  GUID="Qclia/BQ7UGEZeQGV1pCtg==" iconFile="Img/Icons/Fight.png" fadeNear="2000" fadeFar="5000" behavior="0" inGameVisibility="0"/>
-
+		<POI MapID="1195" xpos="353.98" ypos="32.84" zpos="-149.86" type="story_journal.season_3.flashpoint.terror_of_the_boiling_sea.aestus" GUID="Fyn3Rs4yrUe3iwlftb7Etw==" mapVisibility="0" miniMapVisibility="0" />
+		<POI MapID="1195" xpos="353.98" ypos="34.84" zpos="-149.86" type="story_journal.season_3.flashpoint.terror_of_the_boiling_sea.aestus" GUID="nQoLLB2qwEC+2WPkYEQ6CQ==" iconFile="Img/Icons/Fight.png" fadeNear="2000" fadeFar="5000" behavior="0" inGameVisibility="0" />
+		<POI MapID="1195" xpos="-416.525" ypos="52.4427" zpos="20.5264" type="story_journal.season_3.flashpoint.terror_of_the_boiling_sea.ignis" GUID="OA6x2ewG8US/JZ7Mj6xl9w==" mapVisibility="0" miniMapVisibility="0" />
+		<POI MapID="1195" xpos="-416.525" ypos="54.4427" zpos="20.5264" type="story_journal.season_3.flashpoint.terror_of_the_boiling_sea.ignis" GUID="Qclia/BQ7UGEZeQGV1pCtg==" iconFile="Img/Icons/Fight.png" fadeNear="2000" fadeFar="5000" behavior="0" inGameVisibility="0" />
 		<!-- THE DRUID STONE -->
-		<POI MapID="1195" xpos="572.782"  ypos="120.698" zpos="-339.958" type="story_journal.season_3.flashpoint.the_druid_stone.kodama"       GUID="SzdorNMMNEagpfXJplNInw=="/>
-		<POI MapID="1195" xpos="596.215"  ypos="242.667" zpos="-282.229" type="story_journal.season_3.flashpoint.the_druid_stone.liriodendron" GUID="Wk+DBPSJk0S3pv+QoDYSnQ=="/>
-		<POI MapID="1195" xpos="-218.089" ypos="295.841" zpos="-708.447" type="story_journal.season_3.flashpoint.the_druid_stone.broadleaf"    GUID="dBV1VuNjOE2XTWYGvbBJzA=="/>
-		<POI MapID="1195" xpos="-1.22426" ypos="309.163" zpos="135.254"  type="story_journal.season_3.flashpoint.the_druid_stone.rosewood"     GUID="ikVGIeMaL0CfMIT/P7pj5Q=="/>
-
+		<POI MapID="1195" xpos="572.782" ypos="120.698" zpos="-339.958" type="story_journal.season_3.flashpoint.the_druid_stone.kodama" GUID="SzdorNMMNEagpfXJplNInw==" />
+		<POI MapID="1195" xpos="596.215" ypos="242.667" zpos="-282.229" type="story_journal.season_3.flashpoint.the_druid_stone.liriodendron" GUID="Wk+DBPSJk0S3pv+QoDYSnQ==" />
+		<POI MapID="1195" xpos="-218.089" ypos="295.841" zpos="-708.447" type="story_journal.season_3.flashpoint.the_druid_stone.broadleaf" GUID="dBV1VuNjOE2XTWYGvbBJzA==" />
+		<POI MapID="1195" xpos="-1.22426" ypos="309.163" zpos="135.254" type="story_journal.season_3.flashpoint.the_druid_stone.rosewood" GUID="ikVGIeMaL0CfMIT/P7pj5Q==" />
 		<!-- WHITE HAT -->
-		<POI MapID="1195" xpos="-473.632" ypos="465.356" zpos="-375.87"  type="story_journal.season_3.flashpoint.white_hat" GUID="gCBUqYW/ZkmTm+/Q8+Iofg=="/>
-		<POI MapID="1195" xpos="-469.281" ypos="450.732" zpos="-371.455" type="story_journal.season_3.flashpoint.white_hat" GUID="NN6wrtu2VkWoaRqYcQ1XeQ=="/>
-		<POI MapID="1195" xpos="-467.027" ypos="450.732" zpos="-359.079" type="story_journal.season_3.flashpoint.white_hat" GUID="KwtYw/+ArUuvjhSLonFvAg=="/>
-		<POI MapID="1195" xpos="-462.407" ypos="460.937" zpos="-354.55"  type="story_journal.season_3.flashpoint.white_hat" GUID="PCRlJVASWU6VTLo5RDX1hg=="/>
-		<POI MapID="1195" xpos="-460.396" ypos="450.732" zpos="-360.879" type="story_journal.season_3.flashpoint.white_hat" GUID="hGyJKoZeUEyCnzPRzeh2Nw=="/>
-		<POI MapID="1195" xpos="-456.392" ypos="454.649" zpos="-397.569" type="story_journal.season_3.flashpoint.white_hat" GUID="DjEiJVxGrEyoGO5uVb8wsw=="/>
-		<POI MapID="1195" xpos="-455.475" ypos="449.067" zpos="-374.294" type="story_journal.season_3.flashpoint.white_hat" GUID="KK1mPF3fbkWE08uFOMH3kg=="/>
-		<POI MapID="1195" xpos="-452.121" ypos="454.648" zpos="-398.483" type="story_journal.season_3.flashpoint.white_hat" GUID="mqpG0hk5+U2fJh0OYFIRZQ=="/>
-		<POI MapID="1195" xpos="-421.486" ypos="444.971" zpos="-311.393" type="story_journal.season_3.flashpoint.white_hat" GUID="WKuPiYzSF026CEBvEu5cig=="/>
-		<POI MapID="1195" xpos="-412.583" ypos="443.578" zpos="-315.868" type="story_journal.season_3.flashpoint.white_hat" GUID="8V8x+XsMJku9dhxP79YAbA=="/>
-		<POI MapID="1195" xpos="-395.691" ypos="442.174" zpos="-291.767" type="story_journal.season_3.flashpoint.white_hat" GUID="17RtNiuF6EGtoCz+NBi8aA=="/>
-		<POI MapID="1195" xpos="-392.44"  ypos="439.859" zpos="-379.627" type="story_journal.season_3.flashpoint.white_hat" GUID="XYyZ2InKiUSgYSiYBhuY8A=="/>
-		<POI MapID="1195" xpos="-359.313" ypos="437.561" zpos="-384.549" type="story_journal.season_3.flashpoint.white_hat" GUID="5RnUXhbBzU6eyN5qDfjYxw=="/>
-		<POI MapID="1195" xpos="-359.157" ypos="433.349" zpos="-267.519" type="story_journal.season_3.flashpoint.white_hat" GUID="oP9endhL+EORM6AP/d1yaQ=="/>
-		<POI MapID="1195" xpos="-351.592" ypos="435.085" zpos="-345.737" type="story_journal.season_3.flashpoint.white_hat" GUID="zv4+RdbPSkyYIWjnFrKavA=="/>
-		<POI MapID="1195" xpos="-333.396" ypos="430.449" zpos="-270.528" type="story_journal.season_3.flashpoint.white_hat" GUID="kJgnjFf4MEyaUzrqGRbeRQ=="/>
-		<POI MapID="1195" xpos="-324.626" ypos="427.76"  zpos="-440.68"  type="story_journal.season_3.flashpoint.white_hat" GUID="Xd5QSTpbTEqnhqJ04M3jXg=="/>
-		<POI MapID="1195" xpos="-311.869" ypos="424.481" zpos="-345.621" type="story_journal.season_3.flashpoint.white_hat" GUID="a+EYqWoaLkG9cM4BL85IyQ=="/>
-		<POI MapID="1195" xpos="-306.463" ypos="430.892" zpos="-384.121" type="story_journal.season_3.flashpoint.white_hat" GUID="0xWN6GoyXkKYLn/50mDG3w=="/>
-
+		<POI MapID="1195" xpos="-473.632" ypos="465.356" zpos="-375.87" type="story_journal.season_3.flashpoint.white_hat" GUID="gCBUqYW/ZkmTm+/Q8+Iofg==" />
+		<POI MapID="1195" xpos="-469.281" ypos="450.732" zpos="-371.455" type="story_journal.season_3.flashpoint.white_hat" GUID="NN6wrtu2VkWoaRqYcQ1XeQ==" />
+		<POI MapID="1195" xpos="-467.027" ypos="450.732" zpos="-359.079" type="story_journal.season_3.flashpoint.white_hat" GUID="KwtYw/+ArUuvjhSLonFvAg==" />
+		<POI MapID="1195" xpos="-462.407" ypos="460.937" zpos="-354.55" type="story_journal.season_3.flashpoint.white_hat" GUID="PCRlJVASWU6VTLo5RDX1hg==" />
+		<POI MapID="1195" xpos="-460.396" ypos="450.732" zpos="-360.879" type="story_journal.season_3.flashpoint.white_hat" GUID="hGyJKoZeUEyCnzPRzeh2Nw==" />
+		<POI MapID="1195" xpos="-456.392" ypos="454.649" zpos="-397.569" type="story_journal.season_3.flashpoint.white_hat" GUID="DjEiJVxGrEyoGO5uVb8wsw==" />
+		<POI MapID="1195" xpos="-455.475" ypos="449.067" zpos="-374.294" type="story_journal.season_3.flashpoint.white_hat" GUID="KK1mPF3fbkWE08uFOMH3kg==" />
+		<POI MapID="1195" xpos="-452.121" ypos="454.648" zpos="-398.483" type="story_journal.season_3.flashpoint.white_hat" GUID="mqpG0hk5+U2fJh0OYFIRZQ==" />
+		<POI MapID="1195" xpos="-421.486" ypos="444.971" zpos="-311.393" type="story_journal.season_3.flashpoint.white_hat" GUID="WKuPiYzSF026CEBvEu5cig==" />
+		<POI MapID="1195" xpos="-412.583" ypos="443.578" zpos="-315.868" type="story_journal.season_3.flashpoint.white_hat" GUID="8V8x+XsMJku9dhxP79YAbA==" />
+		<POI MapID="1195" xpos="-395.691" ypos="442.174" zpos="-291.767" type="story_journal.season_3.flashpoint.white_hat" GUID="17RtNiuF6EGtoCz+NBi8aA==" />
+		<POI MapID="1195" xpos="-392.44" ypos="439.859" zpos="-379.627" type="story_journal.season_3.flashpoint.white_hat" GUID="XYyZ2InKiUSgYSiYBhuY8A==" />
+		<POI MapID="1195" xpos="-359.313" ypos="437.561" zpos="-384.549" type="story_journal.season_3.flashpoint.white_hat" GUID="5RnUXhbBzU6eyN5qDfjYxw==" />
+		<POI MapID="1195" xpos="-359.157" ypos="433.349" zpos="-267.519" type="story_journal.season_3.flashpoint.white_hat" GUID="oP9endhL+EORM6AP/d1yaQ==" />
+		<POI MapID="1195" xpos="-351.592" ypos="435.085" zpos="-345.737" type="story_journal.season_3.flashpoint.white_hat" GUID="zv4+RdbPSkyYIWjnFrKavA==" />
+		<POI MapID="1195" xpos="-333.396" ypos="430.449" zpos="-270.528" type="story_journal.season_3.flashpoint.white_hat" GUID="kJgnjFf4MEyaUzrqGRbeRQ==" />
+		<POI MapID="1195" xpos="-324.626" ypos="427.76" zpos="-440.68" type="story_journal.season_3.flashpoint.white_hat" GUID="Xd5QSTpbTEqnhqJ04M3jXg==" />
+		<POI MapID="1195" xpos="-311.869" ypos="424.481" zpos="-345.621" type="story_journal.season_3.flashpoint.white_hat" GUID="a+EYqWoaLkG9cM4BL85IyQ==" />
+		<POI MapID="1195" xpos="-306.463" ypos="430.892" zpos="-384.121" type="story_journal.season_3.flashpoint.white_hat" GUID="0xWN6GoyXkKYLn/50mDG3w==" />
 		<!-- WURM SLURPER -->
-		<POI MapID="1195" xpos="239.029" ypos="430.817" zpos="-93.4907" type="story_journal.season_3.flashpoint.wurm_slurper" GUID="hAF7Q5FmQEqIFCd1MEnl+Q==" mapVisibility="0" miniMapVisibility="0"/>
-		<POI MapID="1195" xpos="239.029" ypos="432.817" zpos="-93.4907" type="story_journal.season_3.flashpoint.wurm_slurper" GUID="6EsOQaIuxUO918VThHQuwg==" iconFile="Img/Icons/Fight.png" inGameVisibility="0"/>
-
+		<POI MapID="1195" xpos="239.029" ypos="430.817" zpos="-93.4907" type="story_journal.season_3.flashpoint.wurm_slurper" GUID="hAF7Q5FmQEqIFCd1MEnl+Q==" mapVisibility="0" miniMapVisibility="0" />
+		<POI MapID="1195" xpos="239.029" ypos="432.817" zpos="-93.4907" type="story_journal.season_3.flashpoint.wurm_slurper" GUID="6EsOQaIuxUO918VThHQuwg==" iconFile="Img/Icons/Fight.png" inGameVisibility="0" />
 	</POIs>
 </OverlayData>
