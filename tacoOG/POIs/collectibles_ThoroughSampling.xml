@@ -1,6 +1,7 @@
 <OverlayData>
 	<MarkerCategory name="Collectible">
 		<MarkerCategory name="ACrackInTheIce" DisplayName="A Crack in the Ice">
+
 			<MarkerCategory name="ThoroughSampling" DisplayName="Thorough Sampling" iconFile="Data/A_Crack_In_the_Ice.png" behavior="3" />
 		</MarkerCategory>
 	</MarkerCategory>
